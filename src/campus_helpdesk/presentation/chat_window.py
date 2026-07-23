@@ -350,7 +350,26 @@ class ModernChatWindow:
             if ret and frame is not None and frame.size > 0:
                 self._camera_read_failures = 0
                 # Run detector on frame
-                _, annotated_frame = self._detector.detect_in_frame(frame)
+                detection_result = self._detector.detect_in_frame(frame)
+                annotated_frame = detection_result.annotated_frame
+
+                # Draw attention-tracking crosshair at face center if detected
+                if detection_result.face_center is not None:
+                    norm_x, norm_y = detection_result.face_center
+                    h, w = annotated_frame.shape[:2]
+                    cx = int(norm_x * w)
+                    cy = int(norm_y * h)
+
+                    # Yellow center dot and crosshair target
+                    cv2.circle(annotated_frame, (cx, cy), 5, (0, 255, 255), -1)
+                    cv2.drawMarker(
+                        annotated_frame,
+                        (cx, cy),
+                        (0, 255, 255),
+                        markerType=cv2.MARKER_CROSS,
+                        markerSize=18,
+                        thickness=2,
+                    )
 
                 # Convert OpenCV BGR to Tkinter PhotoImage
                 rgb_frame = cv2.cvtColor(annotated_frame, cv2.COLOR_BGR2RGB)

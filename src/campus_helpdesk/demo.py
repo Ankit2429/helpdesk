@@ -122,7 +122,11 @@ def main() -> None:
     logger.info(f"Ollama verification response: {name_response}")
     print(f"Ollama verification response: {name_response}")
 
-    chat_service = RAGChatService(llm_service=llm_service, rag_pipeline=rag_pipeline)
+    chat_service = RAGChatService(
+        llm_service=llm_service,
+        rag_pipeline=rag_pipeline,
+        distance_threshold=settings.rag_distance_threshold,
+    )
 
     # 3. Initialize Vision & Audio Services
     detector = PersonDetector(

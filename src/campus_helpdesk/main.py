@@ -34,7 +34,11 @@ def create_app(settings: Settings | None = None, llm_service: LLMService | None 
             rag_pipeline.load_index()
         except Exception:
             pass
-    app.state.chat_service = RAGChatService(configured_llm_service, rag_pipeline=rag_pipeline)
+    app.state.chat_service = RAGChatService(
+        configured_llm_service,
+        rag_pipeline=rag_pipeline,
+        distance_threshold=application_settings.rag_distance_threshold,
+    )
     app.include_router(api_router)
     return app
 

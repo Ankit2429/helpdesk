@@ -40,6 +40,7 @@ class Settings(BaseSettings):
     rag_chunk_separators: list[str] = Field(default_factory=lambda: ["\n\n", "\n", " ", ""])
     rag_add_start_index: bool = True
     rag_search_limit: int = 4
+    rag_distance_threshold: float = 1.0
     webcam_index: int = 0
     camera_fps: int = 15
     person_detection_reset_frames: int = 30

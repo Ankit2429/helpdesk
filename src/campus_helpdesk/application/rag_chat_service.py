@@ -10,6 +10,13 @@ from campus_helpdesk.application.rag_pipeline import RAGPipeline
 
 logger = logging.getLogger(__name__)
 
+FALLBACK_NO_INFO_REPLY = "I don't have information about that in my knowledge base."
+DEFAULT_SYSTEM_PROMPT = (
+    "You are an offline autonomous Campus Helpdesk Robot. "
+    "Only answer using the provided context. If the context does not contain the answer, "
+    "say you don't have that information — do not guess."
+)
+
 
 class RAGChatService(ChatService):
     """Chat service using local vector search (RAG) and local Ollama LLM."""
@@ -18,13 +25,12 @@ class RAGChatService(ChatService):
         self,
         llm_service: LLMService,
         rag_pipeline: Optional[RAGPipeline] = None,
-        system_prompt: str = (
-            "You are an offline autonomous Campus Helpdesk Robot. "
-            "Answer student and visitor questions concisely and politely based on the provided context."
-        ),
+        distance_threshold: float = 1.0,
+        system_prompt: str = DEFAULT_SYSTEM_PROMPT,
     ) -> None:
         self._llm_service = llm_service
         self._rag_pipeline = rag_pipeline
+        self._distance_threshold = distance_threshold
         self._system_prompt = system_prompt
 
     def respond(self, message: str) -> ChatResult:
@@ -37,15 +43,26 @@ class RAGChatService(ChatService):
             try:
                 search_results = self._rag_pipeline.search(message)
                 if search_results:
-                    retrieved_chunks = [res.document.content for res in search_results]
-                    context_str = "\n---\n".join(retrieved_chunks)
+                    top_distance = search_results[0].distance
+                    if top_distance <= self._distance_threshold:
+                        retrieved_chunks = [
+                            res.document.content
+                            for res in search_results
+                            if res.distance <= self._distance_threshold
+                        ]
+                        context_str = "\n---\n".join(retrieved_chunks)
+                    else:
+                        logger.info(
+                            f"Top search result distance ({top_distance:.4f}) exceeds threshold ({self._distance_threshold}). "
+                            "Skipping LLM context retrieval."
+                        )
             except Exception as err:
                 logger.warning(f"RAG context retrieval exception: {err}")
 
-        if context_str:
-            prompt = f"{self._system_prompt}\n\nContext:\n{context_str}\n\nUser Question: {message}"
-        else:
-            prompt = f"{self._system_prompt}\n\nUser Question: {message}"
+        if not context_str:
+            return ChatResult(reply=FALLBACK_NO_INFO_REPLY, status="completed")
 
+        prompt = f"{self._system_prompt}\n\nContext:\n{context_str}\n\nUser Question: {message}"
         reply = self._llm_service.generate(prompt)
         return ChatResult(reply=reply, status="completed")
+
