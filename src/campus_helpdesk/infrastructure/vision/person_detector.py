@@ -8,6 +8,32 @@ import numpy as np
 logger = logging.getLogger(__name__)
 
 
+class DetectionResult(tuple):
+    """Result object returned by detect_in_frame preserving 2-tuple unpacking compatibility."""
+
+    person_detected: bool
+    annotated_frame: np.ndarray
+    face_center: Optional[tuple[float, float]]
+
+    def __new__(
+        cls,
+        person_detected: bool,
+        annotated_frame: np.ndarray,
+        face_center: Optional[tuple[float, float]] = None,
+    ):
+        return super().__new__(cls, (person_detected, annotated_frame))
+
+    def __init__(
+        self,
+        person_detected: bool,
+        annotated_frame: np.ndarray,
+        face_center: Optional[tuple[float, float]] = None,
+    ) -> None:
+        self.person_detected = person_detected
+        self.annotated_frame = annotated_frame
+        self.face_center = face_center
+
+
 class PersonDetector:
     """Detects people in webcam feed and manages single-greeting hysteresis state."""
 
@@ -50,11 +76,13 @@ class PersonDetector:
         """Return True if a person is currently detected in front of the camera."""
         return self._person_present
 
-    def detect_in_frame(self, frame: np.ndarray) -> tuple[bool, np.ndarray]:
+    def detect_in_frame(self, frame: np.ndarray) -> DetectionResult:
         """Process a single frame to detect person presence and annotate frame."""
         person_detected = False
+        face_center: Optional[tuple[float, float]] = None
         annotated_frame = frame.copy()
         gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
+        height, width = frame.shape[:2]
 
         # 1. Try Haar face detection
         if self._cascade is not None and not self._cascade.empty():
@@ -66,12 +94,18 @@ class PersonDetector:
             )
             if len(faces) > 0:
                 person_detected = True
-                for (x, y, w, h) in faces:
-                    cv2.rectangle(annotated_frame, (x, y), (x + w, y + h), (0, 255, 0), 2)
+                x, y, w, h = faces[0]
+                if width > 0 and height > 0:
+                    face_center = (
+                        round((x + w / 2.0) / float(width), 4),
+                        round((y + h / 2.0) / float(height), 4),
+                    )
+                for (fx, fy, fw, fh) in faces:
+                    cv2.rectangle(annotated_frame, (fx, fy), (fx + fw, fy + fh), (0, 255, 0), 2)
                     cv2.putText(
                         annotated_frame,
                         "Person Detected",
-                        (x, max(0, y - 10)),
+                        (fx, max(0, fy - 10)),
                         cv2.FONT_HERSHEY_SIMPLEX,
                         0.6,
                         (0, 255, 0),
@@ -83,8 +117,14 @@ class PersonDetector:
             boxes, _ = self._hog.detectMultiScale(frame, winStride=(8, 8))
             if len(boxes) > 0:
                 person_detected = True
-                for (x, y, w, h) in boxes:
-                    cv2.rectangle(annotated_frame, (x, y), (x + w, y + h), (255, 0, 0), 2)
+                x, y, w, h = boxes[0]
+                if width > 0 and height > 0:
+                    face_center = (
+                        round((x + w / 2.0) / float(width), 4),
+                        round((y + h / 2.0) / float(height), 4),
+                    )
+                for (bx, by, bw, bh) in boxes:
+                    cv2.rectangle(annotated_frame, (bx, by), (bx + bw, by + bh), (255, 0, 0), 2)
 
         # State machine transition logic (Single Greeting Hysteresis)
         if person_detected:
@@ -104,7 +144,7 @@ class PersonDetector:
                     if self._on_person_left:
                         self._on_person_left()
 
-        return person_detected, annotated_frame
+        return DetectionResult(person_detected, annotated_frame, face_center)
 
     def reset(self) -> None:
         """Reset detection state manually."""
