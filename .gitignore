@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Local configuration and data
+.env
+data/
+models/
+*.db
+*.sqlite
+*.sqlite3
+
+# FAISS artifacts
+*.faiss
+*.index
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
