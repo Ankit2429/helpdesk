@@ -37,7 +37,7 @@ class RAGChatService(ChatService):
             try:
                 search_results = self._rag_pipeline.search(message)
                 if search_results:
-                    retrieved_chunks = [res.content for res in search_results]
+                    retrieved_chunks = [res.document.content for res in search_results]
                     context_str = "\n---\n".join(retrieved_chunks)
             except Exception as err:
                 logger.warning(f"RAG context retrieval exception: {err}")

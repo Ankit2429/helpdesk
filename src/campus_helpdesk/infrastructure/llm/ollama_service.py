@@ -1,6 +1,8 @@
 """Ollama-backed implementation of the language model boundary."""
 
-from collections.abc import Mapping
+from __future__ import annotations
+
+from collections.abc import Mapping, Sequence
 from typing import Protocol
 from urllib.parse import urlparse
 
@@ -13,13 +15,16 @@ from campus_helpdesk.application.exceptions import LLMServiceError
 class OllamaClient(Protocol):
     """Subset of the Ollama client used by this adapter."""
 
+    def list(self) -> object:
+        """List available local models."""
+
     def chat(
         self,
         *,
         model: str,
         messages: list[dict[str, str]],
-        options: Mapping[str, float | int],
-        stream: bool,
+        options: Mapping[str, float | int] | None = None,
+        stream: bool = False,
     ) -> "OllamaChatResponse":
         """Send a non-streaming chat request to Ollama."""
 
@@ -62,8 +67,8 @@ class OllamaLLMService:
                 stream=False,
             )
             content = response.message.content.strip()
-        except (HTTPError, ResponseError) as error:
-            raise LLMServiceError("Ollama is unavailable or the configured model cannot be used.") from error
+        except Exception as error:
+            raise LLMServiceError(f"{type(error).__name__}: {error}") from error
 
         if not content:
             raise LLMServiceError("Ollama returned an empty response.")

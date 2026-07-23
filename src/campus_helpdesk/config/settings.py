@@ -29,12 +29,12 @@ class Settings(BaseSettings):
     knowledge_max_file_size_bytes: int = 20_000_000
     faiss_index_path: Path = Path("data/faiss")
     faiss_allow_dangerous_deserialization: bool = False
-    embedding_model: str = "models/all-MiniLM-L6-v2"
+    embedding_model: str = "sentence-transformers/all-MiniLM-L6-v2"
     embedding_device: str = "cpu"
     embedding_batch_size: int = 32
     embedding_normalize: bool = True
     embedding_show_progress: bool = False
-    embedding_local_files_only: bool = True
+    embedding_local_files_only: bool = False
     rag_chunk_size: int = 800
     rag_chunk_overlap: int = 120
     rag_chunk_separators: list[str] = Field(default_factory=lambda: ["\n\n", "\n", " ", ""])

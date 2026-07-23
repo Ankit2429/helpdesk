@@ -1,6 +1,7 @@
 """MVP Standalone Laptop Demonstration Entrypoint."""
 
 import logging
+import os
 from campus_helpdesk.application.rag_chat_service import RAGChatService
 from campus_helpdesk.application.rag_pipeline import RAGPipeline
 from campus_helpdesk.config.logging import configure_logging
@@ -69,12 +70,58 @@ def main() -> None:
         logger.warning(f"Could not load vector store index: {e}")
 
     # 2. Initialize LLM & Chat Services
+    ollama_host = os.getenv("OLLAMA_HOST", settings.ollama_base_url)
+    print(f"OLLAMA_HOST: {ollama_host}")
+    print(f"OLLAMA_MODEL: {settings.ollama_model}")
+
     llm_service = OllamaLLMService(
         base_url=settings.ollama_base_url,
         model=settings.ollama_model,
         timeout_seconds=settings.ollama_timeout_seconds,
         generation_options=settings.ollama_options,
     )
+
+    client = llm_service._client
+
+    # Verify Ollama connection with client.list()
+    try:
+        client.list()
+        print("Ollama connection verified.")
+    except Exception as exc:
+        logger.error(f"client.list() failed: {exc}")
+        raise
+
+    # Test client.chat(...) with exact client object used by application
+    try:
+        client.chat(
+            model=settings.ollama_model,
+            messages=[
+                {
+                    "role": "user",
+                    "content": "Hello"
+                }
+            ]
+        )
+    except Exception as exc:
+        exc_type = type(exc).__name__
+        http_status = getattr(exc, "status_code", getattr(getattr(exc, "response", None), "status_code", None))
+        response_body = getattr(exc, "text", getattr(getattr(exc, "response", None), "text", getattr(exc, "error", str(exc))))
+        req_obj = getattr(exc, "request", None)
+        request_url = getattr(getattr(req_obj, "url", None), "__str__", lambda: None)() if req_obj else getattr(exc, "url", None)
+        logger.error(
+            f"Ollama chat failed:\n"
+            f"  Exception type: {exc_type}\n"
+            f"  HTTP status: {http_status}\n"
+            f"  Response body: {response_body}\n"
+            f"  Request URL: {request_url}"
+        )
+        raise
+
+    # Verify by asking: "What is your name?" before launching the GUI
+    name_response = llm_service.generate("What is your name?")
+    logger.info(f"Ollama verification response: {name_response}")
+    print(f"Ollama verification response: {name_response}")
+
     chat_service = RAGChatService(llm_service=llm_service, rag_pipeline=rag_pipeline)
 
     # 3. Initialize Vision & Audio Services
