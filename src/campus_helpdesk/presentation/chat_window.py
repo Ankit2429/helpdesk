@@ -341,6 +341,8 @@ class ModernChatWindow:
                                    markerType=cv2.MARKER_CROSS, markerSize=22, thickness=2)
 
                 rgb = cv2.cvtColor(annotated_frame, cv2.COLOR_BGR2RGB)
+                # Rotate 90° clockwise to correct camera orientation
+                rgb = cv2.rotate(rgb, cv2.ROTATE_90_CLOCKWISE)
                 img = Image.fromarray(rgb)
                 img = img.resize((380, 285))
                 imgtk = ImageTk.PhotoImage(image=img)
