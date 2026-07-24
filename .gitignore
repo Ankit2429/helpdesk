@@ -24,3 +24,7 @@ models/
 .idea/
 .DS_Store
 Thumbs.db
+
+# Audio debug captures
+*.wav
+debug_capture.wav
