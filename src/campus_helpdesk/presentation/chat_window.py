@@ -15,19 +15,34 @@ from campus_helpdesk.infrastructure.vision.person_detector import PersonDetector
 
 logger = logging.getLogger(__name__)
 
-# --- Colour palette (clean light theme) ---
-BG = "#F5F5F5"
-PANEL = "#FFFFFF"
-BORDER = "#CCCCCC"
-ACCENT = "#1565C0"
-GREEN = "#2E7D32"
-RED = "#C62828"
-TEXT = "#212121"
-SYS_MSG_FG = "#757575"
+# --- Modern Color Palette ---
+BG_MAIN = "#F8FAFC"        # Slate 50 window background
+PANEL_BG = "#FFFFFF"       # Pure white panel
+BORDER_COLOR = "#E2E8F0"   # Slate 200 border
+HEADER_BG = "#0F172A"      # Slate 900 dark navy header
+HEADER_FG = "#F8FAFC"      # White header text
+TEXT_MAIN = "#0F172A"      # Dark slate primary text
+TEXT_MUTED = "#64748B"     # Slate 500 muted text
+
+# Accent & Button Colors
+ACCENT_PRIMARY = "#2563EB"   # Royal Blue 600
+ACCENT_HOVER = "#1D4ED8"     # Royal Blue 700
+MIC_BG_NORMAL = "#E0F2FE"    # Sky 100
+MIC_FG_NORMAL = "#0284C7"    # Sky 700
+MIC_BG_HOVER = "#BAE6FD"     # Sky 200
+MIC_BG_ACTIVE = "#FEE2E2"    # Red 100
+MIC_FG_ACTIVE = "#DC2626"    # Red 600
+
+# Chat Message Colors
+USER_NAME_FG = "#1D4ED8"     # Blue 700
+USER_TEXT_FG = "#1E3A8A"     # Blue 900
+BOT_NAME_FG = "#15803D"      # Green 700
+BOT_TEXT_FG = "#14532D"      # Green 900
+SYS_TEXT_FG = "#64748B"      # Slate 500
 
 
 class ModernChatWindow:
-    """Clean Tkinter desktop window for Helpdesk Robot (headless background camera)."""
+    """Visually polished Tkinter desktop interface for Campus Helpdesk Robot Demo."""
 
     def __init__(
         self,
@@ -52,8 +67,8 @@ class ModernChatWindow:
 
         self._root = tk.Tk()
         self._root.title("Campus Helpdesk Robot — Demo")
-        self._root.geometry("850x650")
-        self._root.configure(bg=BG)
+        self._root.geometry("880x680")
+        self._root.configure(bg=BG_MAIN)
         self._root.resizable(True, True)
 
         self._is_recording = False
@@ -61,122 +76,182 @@ class ModernChatWindow:
         self._build_ui()
 
     def _build_ui(self) -> None:
-        # ── Header bar ──────────────────────────────────────────
-        header = tk.Frame(self._root, bg=ACCENT, height=56)
+        """Construct polished Tkinter layout with modern header, chat bubbles, and input bar."""
+        # ── 1. Top Header Bar ────────────────────────────────────
+        header = tk.Frame(self._root, bg=HEADER_BG, height=64)
         header.pack(fill=tk.X, side=tk.TOP)
         header.pack_propagate(False)
 
-        tk.Label(
-            header,
-            text="🤖  Campus Helpdesk Robot",
-            font=("Arial", 17, "bold"),
-            fg="white",
-            bg=ACCENT,
-        ).pack(side=tk.LEFT, padx=20, pady=12)
+        title_frame = tk.Frame(header, bg=HEADER_BG)
+        title_frame.pack(side=tk.LEFT, padx=24, pady=12)
 
-        self._status_label = tk.Label(
+        tk.Label(
+            title_frame,
+            text="🤖  Campus Helpdesk Robot",
+            font=("Segoe UI", 16, "bold"),
+            fg=HEADER_FG,
+            bg=HEADER_BG,
+        ).pack(anchor="w")
+
+        # Dynamic Status Badge (Pill with colored background)
+        self._status_badge = tk.Label(
             header,
             text="● IDLE",
-            font=("Arial", 12, "bold"),
-            fg="white",
-            bg=ACCENT,
+            font=("Segoe UI", 10, "bold"),
+            fg="#15803D",
+            bg="#DCFCE7",
+            padx=14,
+            pady=5,
+            bd=0,
+            relief="flat",
         )
-        self._status_label.pack(side=tk.RIGHT, padx=24, pady=12)
+        self._status_badge.pack(side=tk.RIGHT, padx=24, pady=14)
 
-        # ── Main content area (Full-width Chat) ─────────────────
-        content = tk.Frame(self._root, bg=BG)
-        content.pack(fill=tk.BOTH, expand=True, padx=12, pady=10)
+        # ── 2. Main Content Card (Conversation Area) ─────────────
+        content_card = tk.Frame(
+            self._root,
+            bg=PANEL_BG,
+            bd=1,
+            relief="solid",
+            highlightthickness=1,
+            highlightbackground=BORDER_COLOR,
+        )
+        content_card.pack(fill=tk.BOTH, expand=True, padx=16, pady=16)
 
-        right = tk.Frame(content, bg=PANEL, bd=1, relief="solid")
-        right.pack(fill=tk.BOTH, expand=True)
-
+        # Section Header
         tk.Label(
-            right,
+            content_card,
             text="💬  Conversation",
-            font=("Arial", 11, "bold"),
-            fg=TEXT,
-            bg=PANEL,
-        ).pack(anchor="w", padx=12, pady=(10, 4))
+            font=("Segoe UI", 12, "bold"),
+            fg=TEXT_MAIN,
+            bg=PANEL_BG,
+        ).pack(anchor="w", padx=16, pady=(14, 8))
 
+        # Chat Transcript Text Widget
         self._chat_area = scrolledtext.ScrolledText(
-            right,
+            content_card,
             wrap=tk.WORD,
-            bg="#FAFAFA",
-            fg=TEXT,
-            font=("Arial", 11),
+            bg="#F8FAFC",
+            fg=TEXT_MAIN,
+            font=("Segoe UI", 11),
             state=tk.DISABLED,
             bd=0,
             highlightthickness=1,
-            highlightbackground=BORDER,
-            padx=10,
-            pady=10,
+            highlightbackground=BORDER_COLOR,
+            padx=14,
+            pady=14,
         )
-        self._chat_area.pack(fill=tk.BOTH, expand=True, padx=10, pady=(0, 10))
+        self._chat_area.pack(fill=tk.BOTH, expand=True, padx=16, pady=(0, 12))
 
-        self._chat_area.tag_config("user_name", foreground=ACCENT, font=("Arial", 10, "bold"))
-        self._chat_area.tag_config("user_text", foreground="#1A237E", font=("Arial", 11))
-        self._chat_area.tag_config("robot_name", foreground=GREEN, font=("Arial", 10, "bold"))
-        self._chat_area.tag_config("robot_text", foreground=GREEN, font=("Arial", 11))
-        self._chat_area.tag_config("system_text", foreground=SYS_MSG_FG, font=("Arial", 10, "italic"))
+        # Configure Tag Styles for Chat Bubbles & Alignment
+        self._chat_area.tag_config(
+            "user_name", foreground=USER_NAME_FG, font=("Segoe UI", 10, "bold"), justify="right"
+        )
+        self._chat_area.tag_config(
+            "user_text", foreground=USER_TEXT_FG, font=("Segoe UI", 11), justify="right"
+        )
+        self._chat_area.tag_config(
+            "robot_name", foreground=BOT_NAME_FG, font=("Segoe UI", 10, "bold"), justify="left"
+        )
+        self._chat_area.tag_config(
+            "robot_text", foreground=BOT_TEXT_FG, font=("Segoe UI", 11), justify="left"
+        )
+        self._chat_area.tag_config(
+            "system_text", foreground=SYS_TEXT_FG, font=("Segoe UI", 10, "italic"), justify="center"
+        )
 
-        input_row = tk.Frame(right, bg=PANEL)
-        input_row.pack(fill=tk.X, padx=10, pady=(0, 12))
+        # ── 3. Bottom Input Row ──────────────────────────────────
+        input_row = tk.Frame(content_card, bg=PANEL_BG)
+        input_row.pack(fill=tk.X, padx=16, pady=(0, 16))
 
+        # Mic Button with hover effect
         self._mic_btn = tk.Button(
             input_row,
-            text="🎙 Mic",
-            font=("Arial", 11, "bold"),
-            bg="#E3F2FD",
-            fg=ACCENT,
-            activebackground="#BBDEFB",
-            relief="groove",
-            padx=12,
-            pady=6,
+            text="🎙  Mic",
+            font=("Segoe UI", 10, "bold"),
+            bg=MIC_BG_NORMAL,
+            fg=MIC_FG_NORMAL,
+            activebackground=MIC_BG_HOVER,
+            activeforeground=MIC_FG_NORMAL,
+            bd=0,
+            relief="flat",
+            padx=16,
+            pady=8,
+            cursor="hand2",
             command=self._toggle_voice_input,
         )
-        self._mic_btn.pack(side=tk.LEFT, padx=(0, 8))
+        self._mic_btn.pack(side=tk.LEFT, padx=(0, 10))
+        self._bind_hover(self._mic_btn, MIC_BG_NORMAL, MIC_BG_HOVER)
 
+        # Text Input Field
         self._entry = tk.Entry(
             input_row,
-            font=("Arial", 12),
-            bg="white",
-            fg=TEXT,
-            insertbackground=TEXT,
-            relief="groove",
-            bd=2,
+            font=("Segoe UI", 11),
+            bg="#FFFFFF",
+            fg=TEXT_MAIN,
+            insertbackground=TEXT_MAIN,
+            relief="flat",
+            bd=0,
+            highlightthickness=1,
+            highlightbackground=BORDER_COLOR,
+            highlightcolor=ACCENT_PRIMARY,
         )
-        self._entry.pack(side=tk.LEFT, fill=tk.X, expand=True, padx=(0, 8))
+        self._entry.pack(side=tk.LEFT, fill=tk.X, expand=True, padx=(0, 10), ipady=7)
         self._entry.bind("<Return>", lambda e: self._send_user_message())
         self._entry.focus()
 
+        # Send Button with hover effect
         self._send_btn = tk.Button(
             input_row,
-            text="Send  ➤",
-            font=("Arial", 11, "bold"),
-            bg=ACCENT,
-            fg="white",
-            activebackground="#0D47A1",
+            text="Send  ➔",
+            font=("Segoe UI", 10, "bold"),
+            bg=ACCENT_PRIMARY,
+            fg="#FFFFFF",
+            activebackground=ACCENT_HOVER,
+            activeforeground="#FFFFFF",
+            bd=0,
             relief="flat",
-            padx=16,
-            pady=6,
+            padx=18,
+            pady=8,
+            cursor="hand2",
             command=self._send_user_message,
         )
         self._send_btn.pack(side=tk.RIGHT)
+        self._bind_hover(self._send_btn, ACCENT_PRIMARY, ACCENT_HOVER)
+
+    def _bind_hover(self, widget: tk.Button, normal_bg: str, hover_bg: str) -> None:
+        """Attach smooth hover background color transition to a button."""
+
+        def _on_enter(e):
+            if not getattr(self, "_is_recording", False) or widget != self._mic_btn:
+                widget.config(bg=hover_bg)
+
+        def _on_leave(e):
+            if not getattr(self, "_is_recording", False) or widget != self._mic_btn:
+                widget.config(bg=normal_bg)
+
+        widget.bind("<Enter>", _on_enter)
+        widget.bind("<Leave>", _on_leave)
 
     def _update_status_ui(self, status: RobotStatus) -> None:
+        """Thread-safe update of UI status badge colors and text per state."""
+
         def _update():
-            label_map = {
-                RobotStatus.IDLE: ("● IDLE", "white"),
-                RobotStatus.LISTENING: ("🎙 LISTENING...", "#FFEB3B"),
-                RobotStatus.THINKING: ("🤔 THINKING...", "#FFCC02"),
-                RobotStatus.SPEAKING: ("🔊 SPEAKING", "#A5D6A7"),
+            # Pill styling per state: (Text, Background, Foreground)
+            badge_map = {
+                RobotStatus.IDLE: ("● IDLE", "#DCFCE7", "#15803D"),           # Soft green
+                RobotStatus.LISTENING: ("🎙 LISTENING...", "#FEF3C7", "#B45309"), # Soft yellow/amber
+                RobotStatus.THINKING: ("🤔 THINKING...", "#F3E8FF", "#6B21A8"),  # Soft purple
+                RobotStatus.SPEAKING: ("🔊 SPEAKING", "#E0F2FE", "#0369A1"),     # Soft blue/sky
             }
-            text, fg = label_map.get(status, ("● IDLE", "white"))
-            self._status_label.config(text=text, fg=fg)
+            text, bg, fg = badge_map.get(status, ("● UNKNOWN", "#E2E8F0", "#475569"))
+            self._status_badge.config(text=text, bg=bg, fg=fg)
 
         self._root.after(0, _update)
 
     def _append_chat_message(self, sender: str, text: str) -> None:
+        """Thread-safe append formatted message to chat transcript."""
+
         def _append():
             self._chat_area.config(state=tk.NORMAL)
             if sender == "User":
@@ -215,10 +290,10 @@ class ModernChatWindow:
     def _toggle_voice_input(self) -> None:
         if self._is_recording:
             self._is_recording = False
-            self._mic_btn.config(bg="#E3F2FD", fg=ACCENT, text="🎙 Mic")
+            self._mic_btn.config(bg=MIC_BG_NORMAL, fg=MIC_FG_NORMAL, text="🎙  Mic")
         else:
             self._is_recording = True
-            self._mic_btn.config(bg=RED, fg="white", text="🛑 Listening...")
+            self._mic_btn.config(bg=MIC_BG_ACTIVE, fg=MIC_FG_ACTIVE, text="🛑  Listening...")
             self._controller.set_status(RobotStatus.LISTENING)
             threading.Thread(target=self._capture_live_voice, daemon=True).start()
 
@@ -235,7 +310,7 @@ class ModernChatWindow:
                 logger.warning(f"Live voice capture error: {err}")
 
         self._is_recording = False
-        self._root.after(0, lambda: self._mic_btn.config(bg="#E3F2FD", fg=ACCENT, text="🎙 Mic"))
+        self._root.after(0, lambda: self._mic_btn.config(bg=MIC_BG_NORMAL, fg=MIC_FG_NORMAL, text="🎙  Mic"))
 
         if transcript:
             self._append_chat_message("User", f"[Voice] {transcript}")
