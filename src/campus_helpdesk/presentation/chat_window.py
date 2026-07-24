@@ -260,28 +260,35 @@ class ModernChatWindow:
         threading.Thread(target=_worker, daemon=True).start()
 
     def _toggle_voice_input(self) -> None:
-        """Simulate mic toggle/Speech-to-text trigger."""
+        """Toggle microphone capture and trigger real-time Speech-to-Text transcription."""
         if self._is_recording:
             self._is_recording = False
             self._mic_btn.config(bg="#313244", text="🎙️ Mic")
         else:
             self._is_recording = True
-            self._mic_btn.config(bg="#F38BA8", text="🛑 Stop")
+            self._mic_btn.config(bg="#F38BA8", text="🛑 Listening...")
             self._controller.set_status(RobotStatus.LISTENING)
-            # Mock or record input
-            threading.Thread(target=self._simulate_voice_capture, daemon=True).start()
+            threading.Thread(target=self._capture_live_voice, daemon=True).start()
 
-    def _simulate_voice_capture(self) -> None:
-        """Helper to capture audio or provide voice simulation."""
-        import time
+    def _capture_live_voice(self) -> None:
+        """Capture live microphone audio and transcribe to user question."""
+        transcript = ""
+        if self._stt_service is not None and hasattr(self._stt_service, "listen_and_transcribe"):
+            try:
+                transcript = self._stt_service.listen_and_transcribe(timeout=5, phrase_time_limit=10)
+            except Exception as err:
+                logger.warning(f"Live voice capture error: {err}")
 
-        time.sleep(2)
-        if self._is_recording:
-            self._is_recording = False
-            self._root.after(0, lambda: self._mic_btn.config(bg="#313244", text="🎙️ Mic"))
-            simulated_speech = "Where is the computer science department building?"
-            self._append_chat_message("User", f"[Voice] {simulated_speech}")
-            self._process_question_async(simulated_speech)
+        self._is_recording = False
+        self._root.after(0, lambda: self._mic_btn.config(bg="#313244", text="🎙️ Mic"))
+
+        if transcript:
+            logger.info(f"Live microphone recognized speech: '{transcript}'")
+            self._append_chat_message("User", f"[Voice] {transcript}")
+            self._process_question_async(transcript)
+        else:
+            self._append_chat_message("System", "Could not hear any speech. Please try again.")
+            self._controller.set_status(RobotStatus.IDLE)
 
     def _process_question_async(self, question: str) -> None:
         """Execute RAG + Ollama inference asynchronously to avoid freezing Tkinter GUI."""

@@ -9,14 +9,17 @@ logger = logging.getLogger(__name__)
 
 
 class STTService(Protocol):
-    """Protocol for offline speech-to-text transcription."""
+    """Protocol for speech-to-text transcription."""
 
     def transcribe_audio(self, audio_data: bytes, sample_rate: int = 16000) -> str:
         """Transcribe raw PCM audio bytes to text string."""
 
+    def listen_and_transcribe(self, timeout: int = 5, phrase_time_limit: int = 10) -> str:
+        """Record directly from microphone and transcribe speech to text."""
+
 
 class FasterWhisperSTTService:
-    """Offline STT implementation backed by Faster-Whisper with fallback support."""
+    """STT implementation backed by Faster-Whisper with SpeechRecognition fallback."""
 
     def __init__(
         self,
@@ -31,7 +34,7 @@ class FasterWhisperSTTService:
         self._init_model()
 
     def _init_model(self) -> None:
-        """Lazy load the Faster-Whisper model."""
+        """Lazy load the Faster-Whisper model with fallback handling."""
         try:
             from faster_whisper import WhisperModel
 
@@ -44,8 +47,9 @@ class FasterWhisperSTTService:
             )
         except Exception as e:
             logger.warning(
-                f"Faster-Whisper model init warning (will attempt standard speech recognition or fallback): {e}"
+                f"Faster-Whisper model initialization unavailable ({e}). Using SpeechRecognition Google Web API fallback."
             )
+            self._model = None
 
     def transcribe_audio(self, audio_data: bytes, sample_rate: int = 16000) -> str:
         """Transcribe raw mono 16-bit PCM audio bytes."""
@@ -64,18 +68,40 @@ class FasterWhisperSTTService:
 
                 segments, _ = self._model.transcribe(temp_path, beam_size=5)
                 transcript = " ".join([segment.text for segment in segments]).strip()
-                return transcript
+                if transcript:
+                    return transcript
             except Exception as e:
                 logger.error(f"Faster-Whisper transcription error: {e}")
 
-        # Fallback transcription using speech_recognition if installed
+        # Pure Python fallback using speech_recognition + Google Web API
         try:
             import speech_recognition as sr
 
             recognizer = sr.Recognizer()
             audio_instance = sr.AudioData(audio_data, sample_rate, 2)
-            return recognizer.recognize_sphinx(audio_instance)
+            transcript = recognizer.recognize_google(audio_instance).strip()
+            logger.info(f"SpeechRecognition fallback transcript: '{transcript}'")
+            return transcript
         except Exception as e:
-            logger.warning(f"Fallback speech recognition unavailable/failed: {e}")
+            logger.warning(f"SpeechRecognition fallback error: {e}")
 
         return ""
+
+    def listen_and_transcribe(self, timeout: int = 5, phrase_time_limit: int = 10) -> str:
+        """Record live audio from system microphone and transcribe using SpeechRecognition."""
+        try:
+            import speech_recognition as sr
+
+            recognizer = sr.Recognizer()
+            with sr.Microphone() as source:
+                logger.info("Microphone active: Listening for user speech...")
+                recognizer.adjust_for_ambient_noise(source, duration=0.5)
+                audio = recognizer.listen(source, timeout=timeout, phrase_time_limit=phrase_time_limit)
+
+            transcript = recognizer.recognize_google(audio).strip()
+            logger.info(f"Microphone transcription success: '{transcript}'")
+            return transcript
+        except Exception as err:
+            logger.warning(f"Microphone recording/transcription failed: {err}")
+            return ""
+
