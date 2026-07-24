@@ -103,7 +103,8 @@ def main() -> None:
                     "role": "user",
                     "content": "Hello"
                 }
-            ]
+            ],
+            options={"num_gpu": 0},
         )
     except Exception as exc:
         exc_type = type(exc).__name__
@@ -122,6 +123,7 @@ def main() -> None:
 
     # Verify by asking: "What is your name?" before launching the GUI
     name_response = llm_service.generate("What is your name?")
+
     logger.info(f"Ollama verification response: {name_response}")
     print(f"Ollama verification response: {name_response}")
 
@@ -140,6 +142,7 @@ def main() -> None:
         model_size=settings.whisper_model_size,
         device=settings.whisper_device,
         compute_type=settings.whisper_compute_type,
+        allow_online_fallback=settings.allow_online_stt_fallback,
     )
     tts_service = NonBlockingTTSService(voice_model=settings.tts_voice_model)
 
