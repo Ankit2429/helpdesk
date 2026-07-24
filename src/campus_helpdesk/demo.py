@@ -140,6 +140,9 @@ def main() -> None:
         model_size=settings.whisper_model_size,
         device=settings.whisper_device,
         compute_type=settings.whisper_compute_type,
+        device_index=settings.stt_device_index,
+        enable_online_fallback=settings.stt_enable_online_fallback,
+        debug=settings.debug,
     )
     tts_service = NonBlockingTTSService(voice_model=settings.tts_voice_model)
 

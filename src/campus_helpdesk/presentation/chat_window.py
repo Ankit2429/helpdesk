@@ -144,20 +144,6 @@ class ModernChatWindow:
         self._entry.pack(side=tk.LEFT, fill=tk.X, expand=True, padx=5)
         self._entry.bind("<Return>", lambda e: self._send_user_message())
 
-        self._test_audio_btn = tk.Button(
-            input_frame,
-            text="🔊 Test Audio",
-            font=("Segoe UI", 10, "bold"),
-            bg="#A6E3A1",
-            fg="#11111B",
-            activebackground="#B4BEFE",
-            bd=0,
-            padx=10,
-            pady=6,
-            command=self._run_test_audio_pipeline,
-        )
-        self._test_audio_btn.pack(side=tk.RIGHT, padx=(5, 5))
-
         self._send_btn = tk.Button(
             input_frame,
             text="Send ➔",
@@ -179,6 +165,8 @@ class ModernChatWindow:
             color_map = {
                 RobotStatus.IDLE: ("STATUS: IDLE", "#313244", "#A6ADC8"),
                 RobotStatus.LISTENING: ("STATUS: LISTENING 🎙️", "#89B4FA", "#11111B"),
+                RobotStatus.RECORDING: ("STATUS: RECORDING 🔴", "#F38BA8", "#11111B"),
+                RobotStatus.TRANSCRIBING: ("STATUS: TRANSCRIBING ⚙️", "#FAB387", "#11111B"),
                 RobotStatus.THINKING: ("STATUS: THINKING 🤔", "#F9E2AF", "#11111B"),
                 RobotStatus.SPEAKING: ("STATUS: SPEAKING 🔊", "#A6E3A1", "#11111B"),
             }
@@ -208,7 +196,6 @@ class ModernChatWindow:
         greeting = self._controller.trigger_greeting()
         if greeting:
             self._tts_service.speak(greeting)
-            # After greeting, transition to listening
             self._root.after(2000, lambda: self._controller.set_status(RobotStatus.LISTENING))
 
     def _handle_person_left(self) -> None:
@@ -226,39 +213,6 @@ class ModernChatWindow:
         self._append_chat_message("User", text)
         self._process_question_async(text)
 
-    def _run_test_audio_pipeline(self) -> None:
-        """Asynchronously test microphone detection, recording status, transcription, and TTS speech synthesis."""
-        def _worker():
-            self._append_chat_message("System", "Running Audio Pipeline Test...")
-            self._controller.set_status(RobotStatus.LISTENING)
-            self._append_chat_message("System", "Status: Listening... (Simulating 5s recording)")
-            
-            import time
-            time.sleep(1.5)
-            self._append_chat_message("System", "Status: Recording...")
-            time.sleep(1.5)
-            self._append_chat_message("System", "Status: Transcribing...")
-            
-            # STT test phrase
-            test_phrase = "Where is the computer science department building?"
-            if self._stt_service is not None:
-                transcription = self._stt_service.transcribe_audio(b"")
-                if transcription:
-                    test_phrase = transcription
-
-            logger.info(f"Audio test recognized transcript: '{test_phrase}'")
-            self._append_chat_message("User", f"[Test Voice Transcript] {test_phrase}")
-            
-            # TTS test phrase execution
-            greeting_msg = "Hello! Welcome to our campus."
-            self._controller.set_status(RobotStatus.SPEAKING)
-            self._append_chat_message("Robot", greeting_msg)
-            self._tts_service.speak(greeting_msg)
-            
-            self._root.after(3000, lambda: self._controller.set_status(RobotStatus.IDLE))
-
-        threading.Thread(target=_worker, daemon=True).start()
-
     def _toggle_voice_input(self) -> None:
         """Toggle microphone capture and trigger real-time Speech-to-Text transcription."""
         if self._is_recording:
@@ -266,7 +220,7 @@ class ModernChatWindow:
             self._mic_btn.config(bg="#313244", text="🎙️ Mic")
         else:
             self._is_recording = True
-            self._mic_btn.config(bg="#F38BA8", text="🛑 Listening...")
+            self._mic_btn.config(bg="#F38BA8", text="🛑 Stop")
             self._controller.set_status(RobotStatus.LISTENING)
             threading.Thread(target=self._capture_live_voice, daemon=True).start()
 
@@ -275,20 +229,24 @@ class ModernChatWindow:
         transcript = ""
         if self._stt_service is not None and hasattr(self._stt_service, "listen_and_transcribe"):
             try:
+                self._controller.set_status(RobotStatus.RECORDING)
+                self._append_chat_message("System", "Recording audio from microphone...")
+                
                 transcript = self._stt_service.listen_and_transcribe(
                     timeout=8,
                     phrase_time_limit=15,
                     tts_service=self._tts_service,
                 )
+                self._controller.set_status(RobotStatus.TRANSCRIBING)
             except Exception as err:
-                logger.warning(f"Live voice capture error: {err}")
+                logger.error(f"Live voice capture error: {err}")
 
         self._is_recording = False
         self._root.after(0, lambda: self._mic_btn.config(bg="#313244", text="🎙️ Mic"))
 
         if transcript:
             logger.info(f"Live microphone recognized speech: '{transcript}'")
-            self._append_chat_message("User", f"[Voice] {transcript}")
+            self._append_chat_message("User", transcript)
             self._process_question_async(transcript)
         else:
             self._append_chat_message("System", "Could not hear any speech. Please try again.")

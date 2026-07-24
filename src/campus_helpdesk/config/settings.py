@@ -14,6 +14,8 @@ class Settings(BaseSettings):
     app_env: str = "development"
     app_name: str = "Campus Helpdesk"
     app_version: str = "0.1.0"
+    stt_device_index: int | None = None
+    stt_enable_online_fallback: bool = False
     debug: bool = False
     log_level: str = "INFO"
     ollama_base_url: str = "http://localhost:11434"

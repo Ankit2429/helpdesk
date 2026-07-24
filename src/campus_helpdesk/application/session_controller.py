@@ -12,6 +12,8 @@ class RobotStatus(Enum):
 
     IDLE = auto()
     LISTENING = auto()
+    RECORDING = auto()
+    TRANSCRIBING = auto()
     THINKING = auto()
     SPEAKING = auto()
 
