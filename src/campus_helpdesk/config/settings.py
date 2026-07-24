@@ -51,6 +51,8 @@ class Settings(BaseSettings):
     whisper_device: str = "cpu"
     whisper_compute_type: str = "int8"
     tts_voice_model: str = "en_US-lessac-medium"
+    tts_piper_models_dir: str = "data/piper"
+    tts_use_cuda: bool = False
     allow_online_stt_fallback: bool = False
 
     model_config = SettingsConfigDict(env_file=".env", env_file_encoding="utf-8", extra="ignore")
@@ -205,4 +207,3 @@ def get_settings() -> Settings:
             "-------------------------------------"
         )
         raise SystemExit(msg) from None
-

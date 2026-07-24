@@ -35,7 +35,7 @@ class FasterWhisperSTTService:
         enable_online_fallback: bool = False,
         debug: bool = False,
     ) -> None:
-        self._model_name = "openai/whisper-tiny" if "openai" not in model_size else model_size
+        self._model_name = model_size if "/" in model_size else f"openai/whisper-{model_size}"
         self._device = device
         self._device_index = device_index
         self._enable_online_fallback = enable_online_fallback
@@ -241,9 +241,3 @@ class FasterWhisperSTTService:
         except Exception as err:
             logger.error(f"[ERROR] Microphone capture error ({type(err).__name__}): {err}", exc_info=True)
             return ""
-
-
-
-
-
-

@@ -49,7 +49,7 @@ EMBEDDING_NORMALIZE=true
 - **Device**: CPU (Int8 quantization for lightweight offline execution)
 
 ```ini
-WHISPER_MODEL_SIZE=base
+WHISPER_MODEL_SIZE=small
 WHISPER_DEVICE=cpu
 WHISPER_COMPUTE_TYPE=int8
 ```
@@ -58,5 +58,24 @@ WHISPER_COMPUTE_TYPE=int8
 
 ## 4. Text-to-Speech (TTS) Voice Engine
 
-- **Engine**: PyTTSx3 (SAPI5 / SpeechDispatcher offline synthesis)
+- **Engine**: Piper (offline neural TTS, ONNX runtime). Falls back to
+  PyTTSx3 (SAPI5 / SpeechDispatcher) automatically if the Piper model
+  files below are not found.
 - **Voice Model**: `en_US-lessac-medium`
+
+Download the voice model + config into `data/piper/` (filenames must match
+`TTS_VOICE_MODEL` exactly):
+
+```powershell
+mkdir data\piper
+curl -L -o data\piper\en_US-lessac-medium.onnx ^
+  https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US/lessac/medium/en_US-lessac-medium.onnx
+curl -L -o data\piper\en_US-lessac-medium.onnx.json ^
+  https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US/lessac/medium/en_US-lessac-medium.onnx.json
+```
+
+```ini
+TTS_VOICE_MODEL=en_US-lessac-medium
+TTS_PIPER_MODELS_DIR=data/piper
+TTS_USE_CUDA=false
+```

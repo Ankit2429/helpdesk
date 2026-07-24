@@ -49,7 +49,16 @@
 
 ---
 
-### 5. Out-of-Domain Hallucination Guarding
+### 5. TTS Sounds Like Default System Voice, Not Piper
+
+- **Symptom**: Log shows `Piper voice files not found... Falling back to pyttsx3.`
+- **Cause**: `data/piper/<TTS_VOICE_MODEL>.onnx` and `.onnx.json` are missing.
+- **Resolution**: Download the voice files per `docs/MODEL_SETUP.md` section 4,
+  ensure the filenames exactly match `TTS_VOICE_MODEL`.
+
+---
+
+### 6. Out-of-Domain Hallucination Guarding
 
 - **Symptom**: System declines to answer question.
 - **Cause**: The search distance score exceeded `RAG_DISTANCE_THRESHOLD` (default 1.0).
