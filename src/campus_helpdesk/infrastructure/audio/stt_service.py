@@ -73,22 +73,36 @@ class FasterWhisperSTTService:
             except Exception as e:
                 logger.error(f"Faster-Whisper transcription error: {e}")
 
-        # Pure Python fallback using speech_recognition + Google Web API
+        # 1. Primary Fallback: SpeechRecognition Google Web API
         try:
             import speech_recognition as sr
 
             recognizer = sr.Recognizer()
             audio_instance = sr.AudioData(audio_data, sample_rate, 2)
             transcript = recognizer.recognize_google(audio_instance).strip()
-            logger.info(f"SpeechRecognition fallback transcript: '{transcript}'")
-            return transcript
+            if transcript:
+                logger.info(f"SpeechRecognition Google Web API transcript: '{transcript}'")
+                return transcript
         except Exception as e:
-            logger.warning(f"SpeechRecognition fallback error: {e}")
+            logger.debug(f"SpeechRecognition Google Web API fallback failed/offline: {e}")
+
+        # 2. Secondary Offline Fallback: SpeechRecognition PocketSphinx
+        try:
+            import speech_recognition as sr
+
+            recognizer = sr.Recognizer()
+            audio_instance = sr.AudioData(audio_data, sample_rate, 2)
+            transcript = recognizer.recognize_sphinx(audio_instance).strip()
+            if transcript:
+                logger.info(f"SpeechRecognition PocketSphinx offline transcript: '{transcript}'")
+                return transcript
+        except Exception as e:
+            logger.debug(f"SpeechRecognition PocketSphinx offline fallback failed: {e}")
 
         return ""
 
     def listen_and_transcribe(self, timeout: int = 5, phrase_time_limit: int = 10) -> str:
-        """Record live audio from system microphone and transcribe using SpeechRecognition."""
+        """Record live audio from system microphone and transcribe using Google API or Sphinx offline."""
         try:
             import speech_recognition as sr
 
@@ -98,10 +112,27 @@ class FasterWhisperSTTService:
                 recognizer.adjust_for_ambient_noise(source, duration=0.5)
                 audio = recognizer.listen(source, timeout=timeout, phrase_time_limit=phrase_time_limit)
 
-            transcript = recognizer.recognize_google(audio).strip()
-            logger.info(f"Microphone transcription success: '{transcript}'")
-            return transcript
+            # Try Google Web API first
+            try:
+                transcript = recognizer.recognize_google(audio).strip()
+                if transcript:
+                    logger.info(f"Microphone Google API transcription success: '{transcript}'")
+                    return transcript
+            except Exception as google_err:
+                logger.debug(f"Google Web API offline/unavailable: {google_err}")
+
+            # Try Sphinx offline fallback second
+            try:
+                transcript = recognizer.recognize_sphinx(audio).strip()
+                if transcript:
+                    logger.info(f"Microphone Sphinx offline transcription success: '{transcript}'")
+                    return transcript
+            except Exception as sphinx_err:
+                logger.debug(f"Sphinx offline fallback failed: {sphinx_err}")
+
+            return ""
         except Exception as err:
             logger.warning(f"Microphone recording/transcription failed: {err}")
             return ""
+
 
