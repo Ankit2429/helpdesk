@@ -1,7 +1,10 @@
 """Tests for the temporary chat route."""
 
+from unittest.mock import MagicMock
+
 from fastapi.testclient import TestClient
 
+from campus_helpdesk.domain.knowledge import KnowledgeDocument, SearchResult
 from campus_helpdesk.main import create_app
 
 
@@ -12,11 +15,19 @@ class FakeLLMService:
         return f"Local model response: {prompt}"
 
 
-client = TestClient(create_app(llm_service=FakeLLMService()))
-
-
 def test_chat_returns_model_response() -> None:
-    response = client.post("/chat", json={"message": "Where is the library?"})
+    fake_rag = MagicMock()
+    fake_rag.search.return_value = [
+        SearchResult(
+            document=KnowledgeDocument(content="The library is located in Building A.", metadata={}),
+            distance=0.2,
+        )
+    ]
+    app = create_app(llm_service=FakeLLMService())
+    app.state.chat_service._rag_pipeline = fake_rag
+
+    test_client = TestClient(app)
+    response = test_client.post("/chat", json={"message": "Where is the library?"})
 
     assert response.status_code == 200
     res_data = response.json()
@@ -25,6 +36,9 @@ def test_chat_returns_model_response() -> None:
 
 
 def test_chat_rejects_blank_message() -> None:
-    response = client.post("/chat", json={"message": ""})
+    app = create_app(llm_service=FakeLLMService())
+    test_client = TestClient(app)
+    response = test_client.post("/chat", json={"message": ""})
 
     assert response.status_code == 422
+
