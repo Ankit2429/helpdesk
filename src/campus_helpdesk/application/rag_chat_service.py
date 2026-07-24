@@ -1,7 +1,6 @@
 """RAG-augmented Chat Service combining SimilarityStore and local Ollama model."""
 
 import logging
-from typing import Optional
 
 from campus_helpdesk.application.chat_models import ChatResult
 from campus_helpdesk.application.chat_service import ChatService
@@ -24,7 +23,7 @@ class RAGChatService(ChatService):
     def __init__(
         self,
         llm_service: LLMService,
-        rag_pipeline: Optional[RAGPipeline] = None,
+        rag_pipeline: RAGPipeline | None = None,
         distance_threshold: float = 1.0,
         system_prompt: str = DEFAULT_SYSTEM_PROMPT,
     ) -> None:

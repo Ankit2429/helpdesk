@@ -3,8 +3,8 @@
 import logging
 import threading
 import tkinter as tk
-from tkinter import ttk, scrolledtext
-from typing import Optional, Callable
+from tkinter import scrolledtext
+
 import cv2
 from PIL import Image, ImageTk
 
@@ -25,7 +25,7 @@ class ModernChatWindow:
         chat_service: ChatService,
         person_detector: PersonDetector,
         tts_service: TTSService,
-        stt_service: Optional[STTService] = None,
+        stt_service: STTService | None = None,
         webcam_index: int = 0,
     ) -> None:
         self._chat_service = chat_service
@@ -47,7 +47,7 @@ class ModernChatWindow:
         self._root.configure(bg="#1E1E2E")
 
         self._is_recording = False
-        self._cap: Optional[cv2.VideoCapture] = None
+        self._cap: cv2.VideoCapture | None = None
         self._build_ui()
 
     def _build_ui(self) -> None:

@@ -1,7 +1,8 @@
 """Ports used by the retrieval-augmented generation pipeline."""
 
+from collections.abc import Sequence
 from pathlib import Path
-from typing import Protocol, Sequence
+from typing import Protocol
 
 from campus_helpdesk.domain.knowledge import KnowledgeDocument, SearchResult
 

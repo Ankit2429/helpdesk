@@ -4,7 +4,6 @@ import logging
 import tempfile
 import wave
 from typing import Protocol
-import numpy as np
 
 logger = logging.getLogger(__name__)
 

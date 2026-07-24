@@ -1,7 +1,7 @@
 """Unit tests for PersonDetector state machine and debouncing."""
 
 import numpy as np
-import pytest
+
 from campus_helpdesk.infrastructure.vision.person_detector import PersonDetector
 
 

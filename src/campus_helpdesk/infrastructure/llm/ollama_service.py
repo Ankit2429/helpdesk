@@ -2,12 +2,11 @@
 
 from __future__ import annotations
 
-from collections.abc import Mapping, Sequence
+from collections.abc import Mapping
 from typing import Protocol
 from urllib.parse import urlparse
 
-from httpx import HTTPError
-from ollama import Client, ResponseError
+from ollama import Client
 
 from campus_helpdesk.application.exceptions import LLMServiceError
 
@@ -25,7 +24,7 @@ class OllamaClient(Protocol):
         messages: list[dict[str, str]],
         options: Mapping[str, float | int] | None = None,
         stream: bool = False,
-    ) -> "OllamaChatResponse":
+    ) -> OllamaChatResponse:
         """Send a non-streaming chat request to Ollama."""
 
 

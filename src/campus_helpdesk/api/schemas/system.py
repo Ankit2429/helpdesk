@@ -11,6 +11,9 @@ class RootResponse(BaseModel):
 
 
 class HealthResponse(BaseModel):
-    """Basic service health response."""
+    """Service health status including component diagnostics."""
 
     status: str
+    components: dict[str, str]
+    disk_space: dict[str, float | str]
+    memory: dict[str, float | str]

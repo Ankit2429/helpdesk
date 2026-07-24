@@ -4,7 +4,9 @@ from campus_helpdesk.application.rag_pipeline import RAGPipeline
 from campus_helpdesk.config.settings import Settings
 from campus_helpdesk.infrastructure.rag.faiss_store import FAISSSimilarityStore
 from campus_helpdesk.infrastructure.rag.pdf_loader import PDFKnowledgeLoader
-from campus_helpdesk.infrastructure.rag.sentence_transformer_embeddings import SentenceTransformerEmbeddings
+from campus_helpdesk.infrastructure.rag.sentence_transformer_embeddings import (
+    SentenceTransformerEmbeddings,
+)
 from campus_helpdesk.infrastructure.rag.text_chunker import RecursiveTextChunker
 
 

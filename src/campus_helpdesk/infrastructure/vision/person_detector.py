@@ -1,7 +1,8 @@
 """Offline OpenCV Person Detection with Hysteresis & Single Greeting logic."""
 
 import logging
-from typing import Callable, Optional
+from collections.abc import Callable
+
 import cv2
 import numpy as np
 
@@ -13,13 +14,13 @@ class DetectionResult(tuple):
 
     person_detected: bool
     annotated_frame: np.ndarray
-    face_center: Optional[tuple[float, float]]
+    face_center: tuple[float, float] | None
 
     def __new__(
         cls,
         person_detected: bool,
         annotated_frame: np.ndarray,
-        face_center: Optional[tuple[float, float]] = None,
+        face_center: tuple[float, float] | None = None,
     ):
         return super().__new__(cls, (person_detected, annotated_frame))
 
@@ -27,7 +28,7 @@ class DetectionResult(tuple):
         self,
         person_detected: bool,
         annotated_frame: np.ndarray,
-        face_center: Optional[tuple[float, float]] = None,
+        face_center: tuple[float, float] | None = None,
     ) -> None:
         self.person_detected = person_detected
         self.annotated_frame = annotated_frame
@@ -41,8 +42,8 @@ class PersonDetector:
         self,
         webcam_index: int = 0,
         reset_frames_threshold: int = 30,
-        on_person_entered: Optional[Callable[[], None]] = None,
-        on_person_left: Optional[Callable[[], None]] = None,
+        on_person_entered: Callable[[], None] | None = None,
+        on_person_left: Callable[[], None] | None = None,
     ) -> None:
         self._webcam_index = webcam_index
         self._reset_frames_threshold = reset_frames_threshold
@@ -51,8 +52,8 @@ class PersonDetector:
 
         self._person_present: bool = False
         self._missing_counter: int = 0
-        self._cascade: Optional[cv2.CascadeClassifier] = None
-        self._hog: Optional[cv2.HOGDescriptor] = None
+        self._cascade: cv2.CascadeClassifier | None = None
+        self._hog: cv2.HOGDescriptor | None = None
         self._init_detector()
 
     def _init_detector(self) -> None:
@@ -79,7 +80,7 @@ class PersonDetector:
     def detect_in_frame(self, frame: np.ndarray) -> DetectionResult:
         """Process a single frame to detect person presence and annotate frame."""
         person_detected = False
-        face_center: Optional[tuple[float, float]] = None
+        face_center: tuple[float, float] | None = None
         annotated_frame = frame.copy()
         gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
         height, width = frame.shape[:2]

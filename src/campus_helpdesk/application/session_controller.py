@@ -1,8 +1,8 @@
 """State Orchestrator for the Campus Helpdesk Robot Workflow."""
 
-from enum import Enum, auto
 import logging
-from typing import Callable, Optional
+from collections.abc import Callable
+from enum import Enum, auto
 
 logger = logging.getLogger(__name__)
 
@@ -23,8 +23,8 @@ class SessionController:
 
     def __init__(
         self,
-        on_status_change: Optional[Callable[[RobotStatus], None]] = None,
-        on_message_received: Optional[Callable[[str, str], None]] = None,  # (sender, text)
+        on_status_change: Callable[[RobotStatus], None] | None = None,
+        on_message_received: Callable[[str, str], None] | None = None,  # (sender, text)
     ) -> None:
         self._status = RobotStatus.IDLE
         self._on_status_change = on_status_change

@@ -9,6 +9,7 @@ venv/
 # Local configuration and data
 .env
 data/
+logs/
 models/
 *.db
 *.sqlite

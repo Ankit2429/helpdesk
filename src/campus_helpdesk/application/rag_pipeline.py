@@ -3,7 +3,11 @@
 import logging
 from pathlib import Path
 
-from campus_helpdesk.application.knowledge_ports import DocumentChunker, DocumentLoader, SimilarityStore
+from campus_helpdesk.application.knowledge_ports import (
+    DocumentChunker,
+    DocumentLoader,
+    SimilarityStore,
+)
 from campus_helpdesk.domain.knowledge import IngestionResult, SearchResult
 
 logger = logging.getLogger(__name__)
