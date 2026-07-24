@@ -113,7 +113,7 @@ class FasterWhisperSTTService:
         """Calibrate recognizer energy thresholds for ambient noise."""
         logger.info(f"[INFO] Calibrating ambient noise ({duration}s)...")
         recognizer.adjust_for_ambient_noise(source, duration=duration)
-        recognizer.energy_threshold = max(recognizer.energy_threshold, 300)
+        recognizer.energy_threshold = max(recognizer.energy_threshold, 100)
         recognizer.dynamic_energy_threshold = True
         recognizer.pause_threshold = 0.8
         recognizer.phrase_threshold = 0.3
@@ -153,7 +153,8 @@ class FasterWhisperSTTService:
             return False
         rms = np.sqrt(np.mean(samples.astype(np.float32) ** 2))
         logger.info(f"[INFO] Captured audio signal RMS volume level: {rms:.2f}")
-        return bool(rms > 50.0)
+        # Allow any non-empty audio (RMS > 0.5) so normal/quiet speech is never falsely rejected
+        return bool(rms > 0.5)
 
     def transcribe_audio(self, audio_data: bytes, sample_rate: int = 16000) -> str:
         """Transcribe raw mono 16-bit PCM audio bytes using PyTorch Whisper model."""
