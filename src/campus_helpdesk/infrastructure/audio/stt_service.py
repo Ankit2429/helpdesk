@@ -42,6 +42,7 @@ class FasterWhisperSTTService:
         self._debug = debug
         self._processor = None
         self._model = None
+        self._allow_online_fallback = allow_online_fallback
         self._init_model()
 
     def _init_model(self) -> None:

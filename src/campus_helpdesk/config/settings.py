@@ -25,8 +25,9 @@ class Settings(BaseSettings):
     ollama_top_p: float = 0.8
     ollama_top_k: int = 40
     ollama_repeat_penalty: float = 1.1
-    ollama_context_window: int = 8_192
+    ollama_context_window: int = 2_048
     ollama_max_output_tokens: int = 512
+    ollama_num_threads: int = 6
     knowledge_source_path: Path = Path("data/knowledge")
     knowledge_max_file_size_bytes: int = 20_000_000
     faiss_index_path: Path = Path("data/faiss")
@@ -36,13 +37,13 @@ class Settings(BaseSettings):
     embedding_batch_size: int = 32
     embedding_normalize: bool = True
     embedding_show_progress: bool = False
-    embedding_local_files_only: bool = False
+    embedding_local_files_only: bool = True
     rag_chunk_size: int = 800
     rag_chunk_overlap: int = 120
     rag_chunk_separators: list[str] = Field(default_factory=lambda: ["\n\n", "\n", " ", ""])
     rag_add_start_index: bool = True
     rag_search_limit: int = 4
-    rag_distance_threshold: float = 1.0
+    rag_distance_threshold: float = 2.0
     webcam_index: int = 0
     camera_fps: int = 15
     person_detection_reset_frames: int = 30
@@ -50,6 +51,7 @@ class Settings(BaseSettings):
     whisper_device: str = "cpu"
     whisper_compute_type: str = "int8"
     tts_voice_model: str = "en_US-lessac-medium"
+    allow_online_stt_fallback: bool = False
 
     model_config = SettingsConfigDict(env_file=".env", env_file_encoding="utf-8", extra="ignore")
 
@@ -161,6 +163,7 @@ class Settings(BaseSettings):
             "num_ctx": self.ollama_context_window,
             "num_predict": self.ollama_max_output_tokens,
             "num_gpu": 0,
+            "num_thread": self.ollama_num_threads,
         }
 
 

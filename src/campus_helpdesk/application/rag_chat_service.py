@@ -15,6 +15,11 @@ DEFAULT_SYSTEM_PROMPT = (
     "Only answer using the provided context. If the context does not contain the answer, "
     "say you don't have that information — do not guess."
 )
+GENERAL_SYSTEM_PROMPT = (
+    "You are a helpful campus helpdesk assistant. "
+    "Answer the user's question to the best of your ability. "
+    "If you're unsure, say so honestly."
+)
 
 
 class RAGChatService(ChatService):
@@ -53,15 +58,17 @@ class RAGChatService(ChatService):
                     else:
                         logger.info(
                             f"Top search result distance ({top_distance:.4f}) exceeds threshold ({self._distance_threshold}). "
-                            "Skipping LLM context retrieval."
+                            "Skipping RAG context — will use general LLM knowledge."
                         )
             except Exception as err:
                 logger.warning(f"RAG context retrieval exception: {err}")
 
-        if not context_str:
-            return ChatResult(reply=FALLBACK_NO_INFO_REPLY, status="completed")
+        if context_str:
+            prompt = f"{self._system_prompt}\n\nContext:\n{context_str}\n\nUser Question: {message}"
+        else:
+            # No RAG context found — fall back to general LLM knowledge
+            prompt = f"{GENERAL_SYSTEM_PROMPT}\n\nUser Question: {message}"
 
-        prompt = f"{self._system_prompt}\n\nContext:\n{context_str}\n\nUser Question: {message}"
         reply = self._llm_service.generate(prompt)
         return ChatResult(reply=reply, status="completed")
 
