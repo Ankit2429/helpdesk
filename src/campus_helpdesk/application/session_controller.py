@@ -21,7 +21,7 @@ class RobotStatus(Enum):
 class SessionController:
     """Manages robot conversation state machine and triggers STT, RAG, and TTS actions."""
 
-    GREETING_TEXT = "Hello! Welcome to our campus. How may I assist you today?"
+    GREETING_TEXT = "Hello! Welcome to our campus. How may I assist you?"
 
     def __init__(
         self,

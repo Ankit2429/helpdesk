@@ -86,3 +86,27 @@ def test_face_center_position_calculation() -> None:
     assert res_corner.person_detected
     assert res_corner.face_center == (0.1, 0.1)
 
+
+def test_single_greeting_on_frontal_face() -> None:
+    entered_calls = 0
+
+    def on_entered():
+        nonlocal entered_calls
+        entered_calls += 1
+
+    detector = PersonDetector(on_person_entered=on_entered)
+    detector._cascade = DummyCascade([(50, 50, 100, 100)])
+    frame = np.zeros((200, 200, 3), dtype=np.uint8)
+
+    # Frame 1: Frontal face detected -> Greeting triggered once
+    res1 = detector.detect_in_frame(frame)
+    assert res1.person_detected
+    assert res1.face_forward
+    assert entered_calls == 1
+    assert detector.greeted_this_session
+
+    # Frame 2: Person still standing there -> Greeting NOT triggered again
+    res2 = detector.detect_in_frame(frame)
+    assert res2.person_detected
+    assert entered_calls == 1
+

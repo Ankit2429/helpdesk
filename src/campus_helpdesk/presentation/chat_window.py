@@ -6,7 +6,6 @@ import tkinter as tk
 from tkinter import scrolledtext
 
 import cv2
-from PIL import Image, ImageTk
 
 from campus_helpdesk.application.chat_service import ChatService
 from campus_helpdesk.application.session_controller import RobotStatus, SessionController
@@ -24,12 +23,11 @@ ACCENT = "#1565C0"
 GREEN = "#2E7D32"
 RED = "#C62828"
 TEXT = "#212121"
-SUBTEXT = "#616161"
 SYS_MSG_FG = "#757575"
 
 
 class ModernChatWindow:
-    """Clean Tkinter demo window — camera on left, chat on right."""
+    """Clean Tkinter desktop window for Helpdesk Robot (headless background camera)."""
 
     def __init__(
         self,
@@ -54,7 +52,7 @@ class ModernChatWindow:
 
         self._root = tk.Tk()
         self._root.title("Campus Helpdesk Robot — Demo")
-        self._root.geometry("1000x680")
+        self._root.geometry("850x650")
         self._root.configure(bg=BG)
         self._root.resizable(True, True)
 
@@ -85,44 +83,12 @@ class ModernChatWindow:
         )
         self._status_label.pack(side=tk.RIGHT, padx=24, pady=12)
 
-        # ── Main content area ───────────────────────────────────
+        # ── Main content area (Full-width Chat) ─────────────────
         content = tk.Frame(self._root, bg=BG)
         content.pack(fill=tk.BOTH, expand=True, padx=12, pady=10)
 
-        # Left panel — camera
-        left = tk.Frame(content, bg=PANEL, bd=1, relief="solid")
-        left.pack(side=tk.LEFT, fill=tk.Y, padx=(0, 10))
-
-        tk.Label(
-            left,
-            text="📷  Live Camera — Person Detection",
-            font=("Arial", 11, "bold"),
-            fg=TEXT,
-            bg=PANEL,
-        ).pack(anchor="w", padx=10, pady=(8, 4))
-
-        self._cam_label = tk.Label(
-            left,
-            bg="#222222",
-            text="Starting camera...",
-            fg="#AAAAAA",
-            font=("Arial", 10),
-            width=42,
-        )
-        self._cam_label.pack(padx=8, pady=(0, 8))
-
-        self._detection_badge = tk.Label(
-            left,
-            text="No person detected",
-            font=("Arial", 10),
-            fg=SUBTEXT,
-            bg=PANEL,
-        )
-        self._detection_badge.pack(pady=(0, 10))
-
-        # Right panel — chat
         right = tk.Frame(content, bg=PANEL, bd=1, relief="solid")
-        right.pack(side=tk.RIGHT, fill=tk.BOTH, expand=True)
+        right.pack(fill=tk.BOTH, expand=True)
 
         tk.Label(
             right,
@@ -130,7 +96,7 @@ class ModernChatWindow:
             font=("Arial", 11, "bold"),
             fg=TEXT,
             bg=PANEL,
-        ).pack(anchor="w", padx=10, pady=(8, 4))
+        ).pack(anchor="w", padx=12, pady=(10, 4))
 
         self._chat_area = scrolledtext.ScrolledText(
             right,
@@ -142,19 +108,19 @@ class ModernChatWindow:
             bd=0,
             highlightthickness=1,
             highlightbackground=BORDER,
-            padx=8,
-            pady=8,
+            padx=10,
+            pady=10,
         )
-        self._chat_area.pack(fill=tk.BOTH, expand=True, padx=8, pady=(0, 8))
+        self._chat_area.pack(fill=tk.BOTH, expand=True, padx=10, pady=(0, 10))
 
-        self._chat_area.tag_config("user_name",   foreground=ACCENT, font=("Arial", 10, "bold"))
-        self._chat_area.tag_config("user_text",   foreground="#1A237E", font=("Arial", 11))
-        self._chat_area.tag_config("robot_name",  foreground=GREEN,  font=("Arial", 10, "bold"))
-        self._chat_area.tag_config("robot_text",  foreground=GREEN,  font=("Arial", 11))
+        self._chat_area.tag_config("user_name", foreground=ACCENT, font=("Arial", 10, "bold"))
+        self._chat_area.tag_config("user_text", foreground="#1A237E", font=("Arial", 11))
+        self._chat_area.tag_config("robot_name", foreground=GREEN, font=("Arial", 10, "bold"))
+        self._chat_area.tag_config("robot_text", foreground=GREEN, font=("Arial", 11))
         self._chat_area.tag_config("system_text", foreground=SYS_MSG_FG, font=("Arial", 10, "italic"))
 
         input_row = tk.Frame(right, bg=PANEL)
-        input_row.pack(fill=tk.X, padx=8, pady=(0, 10))
+        input_row.pack(fill=tk.X, padx=10, pady=(0, 12))
 
         self._mic_btn = tk.Button(
             input_row,
@@ -164,11 +130,11 @@ class ModernChatWindow:
             fg=ACCENT,
             activebackground="#BBDEFB",
             relief="groove",
-            padx=10,
+            padx=12,
             pady=6,
             command=self._toggle_voice_input,
         )
-        self._mic_btn.pack(side=tk.LEFT, padx=(0, 6))
+        self._mic_btn.pack(side=tk.LEFT, padx=(0, 8))
 
         self._entry = tk.Entry(
             input_row,
@@ -179,7 +145,7 @@ class ModernChatWindow:
             relief="groove",
             bd=2,
         )
-        self._entry.pack(side=tk.LEFT, fill=tk.X, expand=True, padx=(0, 6))
+        self._entry.pack(side=tk.LEFT, fill=tk.X, expand=True, padx=(0, 8))
         self._entry.bind("<Return>", lambda e: self._send_user_message())
         self._entry.focus()
 
@@ -191,7 +157,7 @@ class ModernChatWindow:
             fg="white",
             activebackground="#0D47A1",
             relief="flat",
-            padx=14,
+            padx=16,
             pady=6,
             command=self._send_user_message,
         )
@@ -200,13 +166,14 @@ class ModernChatWindow:
     def _update_status_ui(self, status: RobotStatus) -> None:
         def _update():
             label_map = {
-                RobotStatus.IDLE:      ("● IDLE",          "white"),
+                RobotStatus.IDLE: ("● IDLE", "white"),
                 RobotStatus.LISTENING: ("🎙 LISTENING...", "#FFEB3B"),
-                RobotStatus.THINKING:  ("🤔 THINKING...",  "#FFCC02"),
-                RobotStatus.SPEAKING:  ("🔊 SPEAKING",     "#A5D6A7"),
+                RobotStatus.THINKING: ("🤔 THINKING...", "#FFCC02"),
+                RobotStatus.SPEAKING: ("🔊 SPEAKING", "#A5D6A7"),
             }
             text, fg = label_map.get(status, ("● IDLE", "white"))
             self._status_label.config(text=text, fg=fg)
+
         self._root.after(0, _update)
 
     def _append_chat_message(self, sender: str, text: str) -> None:
@@ -222,21 +189,18 @@ class ModernChatWindow:
                 self._chat_area.insert(tk.END, f"[{text}]\n\n", "system_text")
             self._chat_area.see(tk.END)
             self._chat_area.config(state=tk.DISABLED)
+
         self._root.after(0, _append)
 
     def _handle_person_entered(self) -> None:
-        def _badge():
-            self._detection_badge.config(text="✅ Person detected!", fg=GREEN)
-        self._root.after(0, _badge)
+        """Triggered when frontal face / eye contact is detected by background vision service."""
         greeting = self._controller.trigger_greeting()
         if greeting:
             self._tts_service.speak(greeting)
             self._root.after(2500, lambda: self._controller.set_status(RobotStatus.LISTENING))
 
     def _handle_person_left(self) -> None:
-        def _badge():
-            self._detection_badge.config(text="No person detected", fg=SUBTEXT)
-        self._root.after(0, _badge)
+        """Triggered when person leaves camera frame."""
         self._controller.user_left()
         self._append_chat_message("System", "Person left — returned to IDLE.")
 
@@ -293,10 +257,14 @@ class ModernChatWindow:
             self._controller.set_status(RobotStatus.SPEAKING)
             self._tts_service.speak(reply)
             self._root.after(4000, lambda: self._controller.set_status(RobotStatus.LISTENING))
+
         threading.Thread(target=_worker, daemon=True).start()
+
+    # ── Background Camera Loop (Headless) ──────────────────────────
 
     def _init_camera(self) -> None:
         import os
+
         os.environ["OPENCV_LOG_LEVEL"] = "OFF"
         os.environ["OPENCV_VIDEOIO_PRIORITY_MSMF"] = "0"
 
@@ -311,55 +279,34 @@ class ModernChatWindow:
                         ret, frame = cap.read()
                         if ret and frame is not None and frame.size > 0:
                             self._cap = cap
-                            logger.info(f"Camera opened: index {idx} ({backend_name})")
+                            logger.info(f"Background camera initialized: index {idx} ({backend_name})")
                             return
                         cap.release()
                 except Exception as err:
                     logger.debug(f"Camera index {idx} / {backend_name} failed: {err}")
 
-        logger.warning("No camera found.")
-        self._cam_label.configure(
-            text="⚠️ No Camera\n\nPlease connect a webcam",
-            fg="#FF5252",
-            font=("Arial", 11, "bold"),
-        )
+        logger.warning("No camera found for background person detection.")
 
     def _update_camera_feed(self) -> None:
+        """Background video capture loop feeding frames to person detector."""
         if self._cap is not None and self._cap.isOpened():
             ret, frame = self._cap.read()
             if ret and frame is not None and frame.size > 0:
                 self._camera_read_failures = 0
-                detection_result = self._detector.detect_in_frame(frame)
-                annotated_frame = detection_result.annotated_frame
-
-                if detection_result.face_center is not None:
-                    norm_x, norm_y = detection_result.face_center
-                    h, w = annotated_frame.shape[:2]
-                    cx, cy = int(norm_x * w), int(norm_y * h)
-                    cv2.circle(annotated_frame, (cx, cy), 6, (0, 220, 0), -1)
-                    cv2.drawMarker(annotated_frame, (cx, cy), (0, 220, 0),
-                                   markerType=cv2.MARKER_CROSS, markerSize=22, thickness=2)
-
-                rgb = cv2.cvtColor(annotated_frame, cv2.COLOR_BGR2RGB)
-                # Rotate 90° clockwise to correct camera orientation
-                rgb = cv2.rotate(rgb, cv2.ROTATE_90_CLOCKWISE)
-                img = Image.fromarray(rgb)
-                img = img.resize((380, 285))
-                imgtk = ImageTk.PhotoImage(image=img)
-                self._cam_label.imgtk = imgtk
-                self._cam_label.configure(image=imgtk, text="")
+                # Process frame headlessly in person detector
+                self._detector.detect_in_frame(frame)
             else:
                 self._camera_read_failures = getattr(self, "_camera_read_failures", 0) + 1
                 if self._camera_read_failures >= 10:
+                    logger.warning("Camera connection lost. Releasing camera capture.")
                     self._cap.release()
                     self._cap = None
-                    self._cam_label.configure(text="⚠️ Camera lost", fg="#FF5252")
                     return
 
         self._root.after(40, self._update_camera_feed)
 
     def start(self) -> None:
-        """Start GUI event loop and camera capture."""
+        """Start GUI event loop and headless background camera capture."""
         self._camera_read_failures = 0
         self._init_camera()
         self._update_camera_feed()

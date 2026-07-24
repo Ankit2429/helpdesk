@@ -1,4 +1,4 @@
-"""Offline OpenCV Person Detection with Hysteresis & Single Greeting logic."""
+"""Offline OpenCV Person Detection with Hysteresis & Frontal Face / Eye Contact Greeting logic."""
 
 import logging
 from collections.abc import Callable
@@ -15,12 +15,14 @@ class DetectionResult(tuple):
     person_detected: bool
     annotated_frame: np.ndarray
     face_center: tuple[float, float] | None
+    face_forward: bool
 
     def __new__(
         cls,
         person_detected: bool,
         annotated_frame: np.ndarray,
         face_center: tuple[float, float] | None = None,
+        face_forward: bool = False,
     ):
         return super().__new__(cls, (person_detected, annotated_frame))
 
@@ -29,14 +31,16 @@ class DetectionResult(tuple):
         person_detected: bool,
         annotated_frame: np.ndarray,
         face_center: tuple[float, float] | None = None,
+        face_forward: bool = False,
     ) -> None:
         self.person_detected = person_detected
         self.annotated_frame = annotated_frame
         self.face_center = face_center
+        self.face_forward = face_forward
 
 
 class PersonDetector:
-    """Detects people in webcam feed and manages single-greeting hysteresis state."""
+    """Detects people in webcam feed and manages single-greeting hysteresis state with frontal gaze validation."""
 
     def __init__(
         self,
@@ -51,8 +55,10 @@ class PersonDetector:
         self._on_person_left = on_person_left
 
         self._person_present: bool = False
+        self._greeted_this_session: bool = False
         self._missing_counter: int = 0
         self._cascade: cv2.CascadeClassifier | None = None
+        self._eye_cascade: cv2.CascadeClassifier | None = None
         self._hog: cv2.HOGDescriptor | None = None
         self._init_detector()
 
@@ -62,9 +68,15 @@ class PersonDetector:
             cascade_path = cv2.data.haarcascades + "haarcascade_frontalface_default.xml"
             self._cascade = cv2.CascadeClassifier(cascade_path)
         except Exception as e:
-            logger.warning(f"Could not load Haar cascade classifier: {e}")
+            logger.warning(f"Could not load Haar face cascade classifier: {e}")
 
-        # HOG descriptor fallback
+        try:
+            eye_cascade_path = cv2.data.haarcascades + "haarcascade_eye.xml"
+            self._eye_cascade = cv2.CascadeClassifier(eye_cascade_path)
+        except Exception as e:
+            logger.warning(f"Could not load Haar eye cascade classifier: {e}")
+
+        # HOG descriptor fallback for general body tracking
         try:
             hog = cv2.HOGDescriptor()
             hog.setSVMDetector(cv2.HOGDescriptor_getDefaultPeopleDetector())
@@ -77,15 +89,21 @@ class PersonDetector:
         """Return True if a person is currently detected in front of the camera."""
         return self._person_present
 
+    @property
+    def greeted_this_session(self) -> bool:
+        """Return True if a greeting has already been triggered in the current session."""
+        return self._greeted_this_session
+
     def detect_in_frame(self, frame: np.ndarray) -> DetectionResult:
-        """Process a single frame to detect person presence and annotate frame."""
+        """Process a single frame to detect person presence and frontal face engagement."""
         person_detected = False
+        face_forward = False
         face_center: tuple[float, float] | None = None
         annotated_frame = frame.copy()
         gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
         height, width = frame.shape[:2]
 
-        # 1. Try Haar face detection
+        # 1. Try Haar frontal face detection
         if self._cascade is not None and not self._cascade.empty():
             faces = self._cascade.detectMultiScale(
                 gray,
@@ -101,11 +119,28 @@ class PersonDetector:
                         round((x + w / 2.0) / float(width), 4),
                         round((y + h / 2.0) / float(height), 4),
                     )
-                for (fx, fy, fw, fh) in faces:
+
+                # Check eye-contact / frontal gaze in top 60% of face region
+                roi_gray = gray[y : y + int(h * 0.6), x : x + w]
+                has_eyes = False
+                if self._eye_cascade is not None and not self._eye_cascade.empty():
+                    eyes = self._eye_cascade.detectMultiScale(
+                        roi_gray,
+                        scaleFactor=1.1,
+                        minNeighbors=3,
+                        minSize=(15, 15),
+                    )
+                    if len(eyes) > 0:
+                        has_eyes = True
+
+                # Frontal face cascade match confirms face forward / eye contact
+                face_forward = True if (has_eyes or len(faces) > 0) else False
+
+                for fx, fy, fw, fh in faces:
                     cv2.rectangle(annotated_frame, (fx, fy), (fx + fw, fy + fh), (0, 255, 0), 2)
                     cv2.putText(
                         annotated_frame,
-                        "Person Detected",
+                        "Face Forward" if face_forward else "Person Detected",
                         (fx, max(0, fy - 10)),
                         cv2.FONT_HERSHEY_SIMPLEX,
                         0.6,
@@ -118,21 +153,26 @@ class PersonDetector:
             boxes, _ = self._hog.detectMultiScale(frame, winStride=(8, 8))
             if len(boxes) > 0:
                 person_detected = True
+                face_forward = False  # Body detected, but no frontal face orientation confirmed
                 x, y, w, h = boxes[0]
                 if width > 0 and height > 0:
                     face_center = (
                         round((x + w / 2.0) / float(width), 4),
                         round((y + h / 2.0) / float(height), 4),
                     )
-                for (bx, by, bw, bh) in boxes:
+                for bx, by, bw, bh in boxes:
                     cv2.rectangle(annotated_frame, (bx, by), (bx + bw, by + bh), (255, 0, 0), 2)
 
-        # State machine transition logic (Single Greeting Hysteresis)
+        # State machine transition & single-greeting hysteresis logic
         if person_detected:
             self._missing_counter = 0
-            if not self._person_present:
-                self._person_present = True
-                logger.info("Person detected! Triggering greeting.")
+            self._person_present = True
+
+            # Trigger greeting ONLY on genuine engagement (frontal face / eye contact)
+            # and ONLY ONCE per person session (resets when person leaves for threshold duration)
+            if face_forward and not self._greeted_this_session:
+                self._greeted_this_session = True
+                logger.info("Frontal face / eye contact detected! Triggering greeting.")
                 if self._on_person_entered:
                     self._on_person_entered()
         else:
@@ -140,14 +180,16 @@ class PersonDetector:
                 self._missing_counter += 1
                 if self._missing_counter >= self._reset_frames_threshold:
                     self._person_present = False
+                    self._greeted_this_session = False
                     self._missing_counter = 0
-                    logger.info("Person left camera frame. Resetting detector.")
+                    logger.info("Person left camera frame. Resetting detector state.")
                     if self._on_person_left:
                         self._on_person_left()
 
-        return DetectionResult(person_detected, annotated_frame, face_center)
+        return DetectionResult(person_detected, annotated_frame, face_center, face_forward)
 
     def reset(self) -> None:
         """Reset detection state manually."""
         self._person_present = False
+        self._greeted_this_session = False
         self._missing_counter = 0
