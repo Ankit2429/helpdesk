@@ -158,6 +158,7 @@ class Settings(BaseSettings):
             "repeat_penalty": self.ollama_repeat_penalty,
             "num_ctx": self.ollama_context_window,
             "num_predict": self.ollama_max_output_tokens,
+            "num_gpu": 0,
         }
 
 
