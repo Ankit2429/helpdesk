@@ -28,6 +28,8 @@ dependencies = [
   "uvicorn[standard]>=0.32,<1.0",
   "speechrecognition>=3.17.0",
   "pyaudio>=0.2.14",
+  "pocketsphinx>=5.1.1",
+  "openai-whisper>=20250625",
 ]
 
 [project.scripts]

@@ -275,7 +275,11 @@ class ModernChatWindow:
         transcript = ""
         if self._stt_service is not None and hasattr(self._stt_service, "listen_and_transcribe"):
             try:
-                transcript = self._stt_service.listen_and_transcribe(timeout=5, phrase_time_limit=10)
+                transcript = self._stt_service.listen_and_transcribe(
+                    timeout=8,
+                    phrase_time_limit=15,
+                    tts_service=self._tts_service,
+                )
             except Exception as err:
                 logger.warning(f"Live voice capture error: {err}")
 

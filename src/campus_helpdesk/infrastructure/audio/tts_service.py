@@ -17,6 +17,12 @@ class TTSService(Protocol):
     def stop(self) -> None:
         """Stop current speech output."""
 
+    def is_speaking(self) -> bool:
+        """Return True if TTS engine is currently speaking audio."""
+
+    def wait_until_done(self, timeout: float = 10.0) -> None:
+        """Block until current TTS audio playback finishes."""
+
 
 class NonBlockingTTSService:
     """Non-blocking TTS service utilizing thread queue and pyttsx3/Piper engine."""
@@ -25,6 +31,8 @@ class NonBlockingTTSService:
         self._voice_model = voice_model
         self._speech_queue: queue.Queue[str] = queue.Queue()
         self._stop_event = threading.Event()
+        self._is_speaking_flag = False
+        self._lock = threading.Lock()
         self._worker_thread = threading.Thread(target=self._speech_loop, daemon=True)
         self._worker_thread.start()
 
@@ -47,18 +55,23 @@ class NonBlockingTTSService:
             if not text:
                 continue
 
+            with self._lock:
+                self._is_speaking_flag = True
+
             logger.info(f"TTS Speaking: '{text[:40]}...'")
 
-            if engine is not None:
-                try:
+            try:
+                if engine is not None:
                     engine.say(text)
                     engine.runAndWait()
-                except Exception as err:
-                    logger.error(f"TTS Engine synthesis error: {err}")
-            else:
-                logger.info(f"[TTS Fallback Simulation] Spoke: {text}")
-
-            self._speech_queue.task_done()
+                else:
+                    logger.info(f"[TTS Fallback Simulation] Spoke: {text}")
+            except Exception as err:
+                logger.error(f"TTS Engine synthesis error: {err}")
+            finally:
+                with self._lock:
+                    self._is_speaking_flag = False
+                self._speech_queue.task_done()
 
     def speak(self, text: str) -> None:
         """Enqueue speech request non-blockingly."""
@@ -69,3 +82,18 @@ class NonBlockingTTSService:
         """Clear queued speech requests."""
         with self._speech_queue.mutex:
             self._speech_queue.queue.clear()
+        with self._lock:
+            self._is_speaking_flag = False
+
+    def is_speaking(self) -> bool:
+        """Return True if TTS engine is currently playing speech or has queued speech."""
+        with self._lock:
+            return self._is_speaking_flag or not self._speech_queue.empty()
+
+    def wait_until_done(self, timeout: float = 10.0) -> None:
+        """Block caller thread until all TTS speech completes or timeout expires."""
+        import time
+        start_time = time.time()
+        while self.is_speaking() and (time.time() - start_time) < timeout:
+            time.sleep(0.1)
+
