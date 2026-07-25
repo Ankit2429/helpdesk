@@ -1,107 +1,82 @@
-"""BVBCET RAG Pipeline main orchestrator."""
+#!/usr/bin/env python3
+"""Phase 2 Production-Grade Website Ingestion Pipeline Entry Point.
 
-import logging
-from pathlib import Path
-from langchain_community.document_loaders import DirectoryLoader, TextLoader
+Usage:
+    python pipeline.py                  # Run ingestion (supports state resume)
+    python pipeline.py --fresh          # Start clean ingestion run
+    python pipeline.py --max-pages 500  # Set maximum pages safety ceiling
+"""
 
-from config import (
-    RAW_HTML_DIR,
-    RAW_PDF_DIR,
-    MARKDOWN_DIR,
-    VECTOR_DB_DIR,
-    START_URLS,
-    ALLOWED_DOMAINS,
-    CHUNK_SIZE,
-    CHUNK_OVERLAP,
-    EMBEDDING_MODEL_NAME,
-    FAISS_INDEX_NAME,
+import argparse
+import shutil
+import sys
+
+from config.config import (
+    FAILED_PAGES_LOG,
+    LOGS_DIR,
+    METADATA_FILE,
+    PDF_DOWNLOAD_LOG,
+    STATE_FILE,
+    STATISTICS_FILE,
+    PipelineConfig,
 )
-from crawler.crawler import CampusCrawler
-from downloader.downloader import ResourceDownloader
-from converter.converter import DocumentConverter
-from cleaner.cleaner import TextCleaner
-from chunker.chunker import TextChunker
-from embeddings.embeddings import EmbeddingManager
-from vector_db.vector_db import VectorDBManager
+from crawler.crawl_manager import CrawlManager
+from logger.logger import get_logger
 
-logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(name)s: %(message)s")
-logger = logging.getLogger("BVBCET_RAG_Pipeline")
+logger = get_logger("pipeline")
 
 
-def run_pipeline() -> None:
-    """Execute the end-to-end RAG ingestion pipeline."""
-    logger.info("Starting BVBCET RAG Pipeline...")
+def parse_args():
+    parser = argparse.ArgumentParser(description="Phase 2 BVBCET / KLE Tech RAG Ingestion Pipeline")
+    parser.add_argument("--fresh", action="store_true", help="Clear prior state and restart fresh ingestion run")
+    parser.add_argument("--max-pages", type=int, default=3000, help="Maximum number of pages to crawl")
+    return parser.parse_args()
 
-    # 1. Crawl URLs
-    logger.info("Step 1: Crawling URLs...")
-    crawler = CampusCrawler(start_urls=START_URLS, allowed_domains=ALLOWED_DOMAINS, max_depth=1)
-    url_map = crawler.crawl()
-    logger.info(f"Discovered {len(url_map['html'])} HTML pages and {len(url_map['pdf'])} PDF documents.")
 
-    # 2. Download Content
-    logger.info("Step 2: Downloading assets...")
-    downloader = ResourceDownloader(html_dir=RAW_HTML_DIR, pdf_dir=RAW_PDF_DIR)
-    
-    html_files = []
-    for url in url_map["html"]:
-        path = downloader.download_html(url)
-        if path:
-            html_files.append(path)
+def main():
+    args = parse_args()
 
-    pdf_files = []
-    for url in url_map["pdf"]:
-        path = downloader.download_pdf(url)
-        if path:
-            pdf_files.append(path)
+    if args.fresh:
+        logger.info("Fresh flag passed. Clearing previous state files...")
+        for target in [STATE_FILE, METADATA_FILE, FAILED_PAGES_LOG, PDF_DOWNLOAD_LOG, STATISTICS_FILE]:
+            if target.exists():
+                try:
+                    target.unlink()
+                except Exception:
+                    pass
 
-    # 3. Convert to Markdown
-    logger.info("Step 3: Converting to Markdown...")
-    converter = DocumentConverter(output_markdown_dir=MARKDOWN_DIR)
-    markdown_files = []
+    config = PipelineConfig(max_pages=args.max_pages)
 
-    for html_path in html_files:
-        md_path = converter.convert_html_to_markdown(html_path)
-        if md_path:
-            markdown_files.append(md_path)
+    logger.info("==================================================")
+    logger.info("STARTING PHASE 2 RAG INGESTION PIPELINE")
+    logger.info(f"Target URL: {config.start_url}")
+    logger.info(f"Max Pages Limit: {config.max_pages}")
+    logger.info("==================================================")
 
-    for pdf_path in pdf_files:
-        md_path = converter.convert_pdf_to_markdown(pdf_path)
-        if md_path:
-            markdown_files.append(md_path)
+    manager = CrawlManager(config)
 
-    # 4. Clean Markdown Documents
-    logger.info("Step 4: Cleaning text documents...")
-    for md_file in MARKDOWN_DIR.glob("*.md"):
-        try:
-            with open(md_file, "r", encoding="utf-8") as f:
-                content = f.read()
-            cleaned_content = TextCleaner.clean_text(content)
-            with open(md_file, "w", encoding="utf-8") as f:
-                f.write(cleaned_content)
-        except Exception as e:
-            logger.warning(f"Error cleaning {md_file}: {e}")
+    try:
+        manager.run()
+    except KeyboardInterrupt:
+        logger.warning("Pipeline execution interrupted by user. State checkpoint saved.")
+        manager.queue.save()
+        sys.exit(0)
+    except Exception as e:
+        logger.error(f"Pipeline error: {e}", exc_info=True)
+        manager.queue.save()
+        sys.exit(1)
 
-    # 5. Load and Chunk Documents
-    logger.info("Step 5: Loading and chunking markdown documents...")
-    loader = DirectoryLoader(str(MARKDOWN_DIR), glob="**/*.md", loader_cls=TextLoader)
-    documents = loader.load()
-
-    if not documents:
-        logger.warning("No markdown documents found to ingest. Pipeline complete.")
-        return
-
-    chunker = TextChunker(chunk_size=CHUNK_SIZE, chunk_overlap=CHUNK_OVERLAP)
-    chunks = chunker.chunk_documents(documents)
-    logger.info(f"Generated {len(chunks)} text chunks from {len(documents)} document(s).")
-
-    # 6. Embed and Index into Vector DB
-    logger.info("Step 6: Building FAISS Vector Index...")
-    embedding_mgr = EmbeddingManager(model_name=EMBEDDING_MODEL_NAME)
-    vector_mgr = VectorDBManager(db_dir=VECTOR_DB_DIR, embeddings=embedding_mgr.get_embeddings())
-    vector_mgr.build_and_save(chunks, index_name=FAISS_INDEX_NAME)
-
-    logger.info("BVBCET RAG Pipeline completed successfully!")
+    logger.info("==================================================")
+    logger.info("PHASE 2 INGESTION PIPELINE COMPLETED SUCCESSFULLY")
+    logger.info(f"Pages Discovered: {manager.stats.stats.pages_discovered}")
+    logger.info(f"Pages Crawled: {manager.stats.stats.pages_crawled}")
+    logger.info(f"Pages Skipped: {manager.stats.stats.pages_skipped}")
+    logger.info(f"Pages Failed: {manager.stats.stats.pages_failed}")
+    logger.info(f"PDFs Downloaded: {manager.stats.stats.pdfs_downloaded}")
+    logger.info(f"Markdown Files Generated: {manager.stats.stats.markdown_files_generated}")
+    logger.info(f"Duplicate Pages Removed: {manager.stats.stats.duplicate_pages_removed}")
+    logger.info("==================================================")
 
 
 if __name__ == "__main__":
-    run_pipeline()
+    main()

@@ -1,63 +1,34 @@
-"""Web Crawler module for discovering campus URLs and PDF links."""
+"""Async/Sync Web Crawler module fetching HTML content."""
 
-import logging
 import requests
-from bs4 import BeautifulSoup
-from urllib.parse import urljoin, urlparse
+from config.config import PipelineConfig
+from logger.logger import get_logger, log_failed_page
 
-logger = logging.getLogger(__name__)
+logger = get_logger("crawler")
 
 
-class CampusCrawler:
-    """Crawler to discover internal campus pages and PDF documents."""
+class WebPageCrawler:
+    """Handles fetching web page HTML payloads over HTTP."""
 
-    def __init__(self, start_urls: list[str], allowed_domains: list[str], max_depth: int = 2) -> None:
-        self.start_urls = start_urls
-        self.allowed_domains = allowed_domains
-        self.max_depth = max_depth
-        self.visited_urls: set[str] = set()
+    def __init__(self, config: PipelineConfig) -> None:
+        self.config = config
+        self.session = requests.Session()
+        self.session.headers.update({"User-Agent": config.user_agent})
 
-    def is_allowed_url(self, url: str) -> bool:
-        """Check if URL belongs to an allowed domain."""
+    def fetch_page(self, url: str) -> tuple[str | None, bool]:
+        """Fetch URL content. Returns (html_string_or_none, is_pdf_flag)."""
         try:
-            parsed = urlparse(url)
-            return any(parsed.netloc.endswith(domain) for domain in self.allowed_domains)
-        except Exception:
-            return False
+            resp = self.session.get(url, timeout=self.config.request_timeout, stream=True)
+            content_type = resp.headers.get("Content-Type", "").lower()
 
-    def crawl((self) -> dict[str, list[str]]:
-        """Perform simple BFS crawl to collect HTML and PDF URLs."""
-        html_urls: set[str] = set()
-        pdf_urls: set[str] = set()
-        queue: list[tuple[str, int]] = [(url, 0) for url in self.start_urls]
+            if "application/pdf" in content_type or url.lower().endswith(".pdf"):
+                return None, True
 
-        while queue:
-            current_url, depth = queue.pop(0)
-            if current_url in self.visited_urls or depth > self.max_depth:
-                continue
-
-            self.visited_urls.add(current_url)
-
-            if current_url.lower().endswith(".pdf"):
-                pdf_urls.add(current_url)
-                continue
-
-            if not self.is_allowed_url(current_url):
-                continue
-
-            html_urls.add(current_url)
-
-            if depth < self.max_depth:
-                try:
-                    response = requests.get(current_url, timeout=10, headers={"User-Agent": "BVBCETHelpdeskRobot/1.0"})
-                    if response.status_code == 200 and "text/html" in response.headers.get("Content-Type", ""):
-                        soup = BeautifulSoup(response.text, "html.parser")
-                        for a_tag in soup.find_all("a", href=True):
-                            href = a_tag["href"]
-                            full_url = urljoin(current_url, href).split("#")[0]
-                            if full_url and full_url not in self.visited_urls:
-                                queue.append((full_url, depth + 1))
-                except Exception as err:
-                    logger.warning(f"Error crawling {current_url}: {err}")
-
-        return {"html": list(html_urls), "pdf": list(pdf_urls)}
+            if resp.status_code == 200 and "text/html" in content_type:
+                return resp.text, False
+            else:
+                log_failed_page(url, f"HTTP Status {resp.status_code}")
+        except Exception as err:
+            log_failed_page(url, str(err))
+            logger.warning(f"Error fetching {url}: {err}")
+        return None, False
