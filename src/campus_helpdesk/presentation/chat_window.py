@@ -107,6 +107,24 @@ class ModernChatWindow:
         )
         self._status_badge.pack(side=tk.RIGHT, padx=24, pady=14)
 
+        # 🗺️ 3D Campus Map Button (Mappls BVB Engineering College Hubballi)
+        self._map_btn = tk.Button(
+            header,
+            text="🗺️  BVB 3D Map",
+            font=("Segoe UI", 10, "bold"),
+            bg="#2563EB",
+            fg="#FFFFFF",
+            activebackground="#1D4ED8",
+            activeforeground="#FFFFFF",
+            bd=0,
+            relief="flat",
+            padx=12,
+            pady=5,
+            cursor="hand2",
+            command=self._open_bvb_3d_map,
+        )
+        self._map_btn.pack(side=tk.RIGHT, padx=(0, 12), pady=14)
+
         # ── 2. Main Content Card (Conversation Area) ─────────────
         content_card = tk.Frame(
             self._root,
@@ -383,29 +401,54 @@ class ModernChatWindow:
             self._chat_area.config(state=tk.DISABLED)
         self._root.after(0, _finalize)
 
+    def _open_bvb_3d_map(self) -> None:
+        """Open interactive Mappls 3D Map for BVB Engineering College (KLE Tech), Hubballi."""
+        import webbrowser
+
+        mappls_url = "https://maps.mappls.com/?q=KLE+Technological+University+BVB+College+Hubballi"
+        webbrowser.open(mappls_url)
+        self._append_chat_message(
+            "System",
+            "Opened Mappls 3D Campus Map for BVB Engineering College (KLE Tech), Hubballi in your browser."
+        )
+
     def _process_question_async(self, question: str) -> None:
         def _worker():
             self._controller.set_status(RobotStatus.THINKING)
             self._append_chat_message_start("Robot")
             
             full_reply = ""
+            current_sentence = ""
+            self._controller.set_status(RobotStatus.SPEAKING)
+            
             try:
                 if hasattr(self._chat_service, "respond_stream"):
                     for chunk in self._chat_service.respond_stream(question):
                         full_reply += chunk
+                        current_sentence += chunk
                         self._append_chat_message_chunk("Robot", chunk)
+                        
+                        # Queue sentence to TTS as soon as a punctuation mark completes a sentence
+                        if any(delim in chunk for delim in [".", "!", "?", "\n"]):
+                            sentence_to_speak = current_sentence.strip()
+                            if sentence_to_speak:
+                                self._tts_service.speak(sentence_to_speak)
+                            current_sentence = ""
+                    
+                    if current_sentence.strip():
+                        self._tts_service.speak(current_sentence.strip())
                 else:
                     result = self._chat_service.respond(question)
                     full_reply = result.reply
                     self._append_chat_message_chunk("Robot", full_reply)
+                    self._tts_service.speak(full_reply)
             except Exception as err:
                 logger.error(f"Chat error: {err}")
                 full_reply = "Sorry, I had trouble processing that. Please try again."
                 self._append_chat_message_chunk("Robot", full_reply)
+                self._tts_service.speak(full_reply)
             
             self._append_chat_message_finalize()
-            self._controller.set_status(RobotStatus.SPEAKING)
-            self._tts_service.speak(full_reply)
             self._root.after(4000, lambda: self._controller.set_status(RobotStatus.LISTENING))
 
         threading.Thread(target=_worker, daemon=True).start()
