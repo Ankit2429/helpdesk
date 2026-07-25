@@ -1,50 +1,59 @@
-"""CLI entrypoint for ingesting campus knowledge PDF documents into FAISS vector store."""
+"""Standalone FAISS ingestion script for campus knowledge (PDFs + website links)."""
 
-import logging
+import os
+from langchain_community.document_loaders import PyPDFLoader, DirectoryLoader, WebBaseLoader
+from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_community.vectorstores import FAISS
+from langchain_community.embeddings import HuggingFaceEmbeddings
 
-from campus_helpdesk.config.settings import get_settings
-from campus_helpdesk.infrastructure.rag.factory import create_rag_pipeline
+# ---- CONFIG ----
+PDF_FOLDER = "./pdfs"              # folder containing your college PDFs
+URLS = [
+    "https://yourcollege.edu.in/admissions",
+    "https://yourcollege.edu.in/departments/ise",
+]
+FAISS_INDEX_PATH = "./college_faiss_index"   # where the index gets saved
+EMBED_MODEL = "all-MiniLM-L6-v2"
 
-logger = logging.getLogger("campus_helpdesk.ingest")
+# ---- 1. LOAD DOCUMENTS ----
+all_docs = []
 
+if os.path.isdir(PDF_FOLDER):
+    pdf_loader = DirectoryLoader(PDF_FOLDER, glob="**/*.pdf", loader_cls=PyPDFLoader)
+    pdf_docs = pdf_loader.load()
+    print(f"Loaded {len(pdf_docs)} pages from PDFs")
+    all_docs += pdf_docs
+else:
+    print(f"PDF folder not found: {PDF_FOLDER}")
 
-def main() -> None:
-    """Ingest all PDF files from knowledge_source_path into the FAISS index."""
-    logging.basicConfig(level=logging.INFO)
-    settings = get_settings()
-    pipeline = create_rag_pipeline(settings)
+if URLS:
+    web_loader = WebBaseLoader(URLS)
+    web_docs = web_loader.load()
+    print(f"Loaded {len(web_docs)} pages from websites")
+    all_docs += web_docs
 
-    source_dir = settings.knowledge_source_path
-    if not source_dir.exists() or not source_dir.is_dir():
-        logger.warning(f"Knowledge source directory does not exist or is not a directory: {source_dir}")
-        return
+if not all_docs:
+    print("No documents loaded. Check your PDF_FOLDER and URLS.")
+    exit()
 
-    pdf_files = sorted(source_dir.glob("*.pdf"))
-    if not pdf_files:
-        logger.info(f"No PDF files found in {source_dir}")
-        return
+# ---- 2. CHUNK ----
+splitter = RecursiveCharacterTextSplitter(chunk_size=400, chunk_overlap=50)
+chunks = splitter.split_documents(all_docs)
+print(f"Split into {len(chunks)} chunks")
 
-    logger.info(f"Found {len(pdf_files)} PDF file(s) in {source_dir} to ingest.")
-    total_docs = 0
-    total_chunks = 0
+# ---- 3. EMBED + BUILD FAISS INDEX ----
+embeddings = HuggingFaceEmbeddings(model_name=EMBED_MODEL)
 
-    for pdf_path in pdf_files:
-        logger.info(f"Ingesting {pdf_path.name}...")
-        try:
-            # Pass persist=False during per-file ingestion to save only at the end
-            result = pipeline.ingest_pdf(pdf_path, persist=False)
-            total_docs += result.document_count
-            total_chunks += result.chunk_count
-            logger.info(f"Successfully ingested {pdf_path.name} ({result.document_count} pages, {result.chunk_count} chunks)")
-        except Exception as err:
-            logger.error(f"Failed to ingest {pdf_path.name}: {err}")
+if os.path.exists(FAISS_INDEX_PATH):
+    # Load existing index and add new chunks to it
+    print("Existing FAISS index found — loading and updating it")
+    vectordb = FAISS.load_local(FAISS_INDEX_PATH, embeddings, allow_dangerous_deserialization=True)
+    vectordb.add_documents(chunks)
+else:
+    # First-time creation
+    print("No existing index — creating a new one")
+    vectordb = FAISS.from_documents(chunks, embeddings)
 
-    if total_chunks > 0:
-        pipeline._similarity_store.save()
-        logger.info(f"Ingestion complete. Total documents: {total_docs}, total chunks: {total_chunks}. FAISS index saved.")
-    else:
-        logger.warning("No chunks were processed; FAISS index was not saved.")
-
-
-if __name__ == "__main__":
-    main()
+# ---- 4. SAVE ----
+vectordb.save_local(FAISS_INDEX_PATH)
+print(f"FAISS index saved to {FAISS_INDEX_PATH}")

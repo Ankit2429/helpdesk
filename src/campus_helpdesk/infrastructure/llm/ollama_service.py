@@ -74,6 +74,22 @@ class OllamaLLMService:
 
         return content
 
+    def generate_stream(self, prompt: str):
+        """Generate a response using the configured local model, yielding chunks as they arrive."""
+        try:
+            response = self._client.chat(
+                model=self._model,
+                messages=[{"role": "user", "content": prompt}],
+                options=self._generation_options,
+                stream=True,
+            )
+            for chunk in response:
+                content = chunk.get("message", {}).get("content", "")
+                if content:
+                    yield content
+        except Exception as error:
+            raise LLMServiceError(f"{type(error).__name__}: {error}") from error
+
     @staticmethod
     def _validate_base_url(base_url: str) -> None:
         """Ensure adapter construction cannot send prompts to a remote Ollama host."""

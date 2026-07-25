@@ -290,47 +290,122 @@ class ModernChatWindow:
     def _toggle_voice_input(self) -> None:
         if self._is_recording:
             self._is_recording = False
+            if hasattr(self, "_recording_stop_event"):
+                self._recording_stop_event.set()
             self._mic_btn.config(bg=MIC_BG_NORMAL, fg=MIC_FG_NORMAL, text="🎙  Mic")
         else:
             self._is_recording = True
+            self._recording_stop_event = threading.Event()
             self._mic_btn.config(bg=MIC_BG_ACTIVE, fg=MIC_FG_ACTIVE, text="🛑  Listening...")
             self._controller.set_status(RobotStatus.LISTENING)
             threading.Thread(target=self._capture_live_voice, daemon=True).start()
 
     def _capture_live_voice(self) -> None:
-        transcript = ""
-        if self._stt_service is not None and hasattr(self._stt_service, "listen_and_transcribe"):
+        def _on_update(text: str, is_final: bool) -> None:
+            def _gui_update():
+                self._entry.delete(0, tk.END)
+                self._entry.insert(0, text)
+                
+                if is_final:
+                    self._entry.delete(0, tk.END)
+                    self._is_recording = False
+                    self._mic_btn.config(bg=MIC_BG_NORMAL, fg=MIC_FG_NORMAL, text="🎙  Mic")
+                    if text.strip():
+                        self._append_chat_message("User", f"[Voice] {text}")
+                        self._process_question_async(text)
+                    else:
+                        self._append_chat_message("System", "Could not hear speech — please try again.")
+                        self._controller.set_status(RobotStatus.IDLE)
+            self._root.after(0, _gui_update)
+
+        if self._stt_service is not None and hasattr(self._stt_service, "listen_and_transcribe_stream"):
             try:
-                transcript = self._stt_service.listen_and_transcribe(
-                    timeout=8,
-                    phrase_time_limit=15,
+                self._stt_service.listen_and_transcribe_stream(
+                    callback=_on_update,
+                    stop_event=self._recording_stop_event,
                     tts_service=self._tts_service,
                 )
             except Exception as err:
-                logger.warning(f"Live voice capture error: {err}")
-
-        self._is_recording = False
-        self._root.after(0, lambda: self._mic_btn.config(bg=MIC_BG_NORMAL, fg=MIC_FG_NORMAL, text="🎙  Mic"))
-
-        if transcript:
-            self._append_chat_message("User", f"[Voice] {transcript}")
-            self._process_question_async(transcript)
+                logger.warning(f"Live voice capture stream error: {err}")
+                self._is_recording = False
+                self._root.after(0, lambda: self._mic_btn.config(bg=MIC_BG_NORMAL, fg=MIC_FG_NORMAL, text="🎙  Mic"))
         else:
-            self._append_chat_message("System", "Could not hear speech — please try again.")
-            self._controller.set_status(RobotStatus.IDLE)
+            # Fallback to non-streaming if method is missing
+            transcript = ""
+            if self._stt_service is not None and hasattr(self._stt_service, "listen_and_transcribe"):
+                try:
+                    transcript = self._stt_service.listen_and_transcribe(
+                        timeout=8,
+                        phrase_time_limit=15,
+                        tts_service=self._tts_service,
+                    )
+                except Exception as err:
+                    logger.warning(f"Live voice capture error: {err}")
+
+            self._is_recording = False
+            self._root.after(0, lambda: self._mic_btn.config(bg=MIC_BG_NORMAL, fg=MIC_FG_NORMAL, text="🎙  Mic"))
+
+            if transcript:
+                self._append_chat_message("User", f"[Voice] {transcript}")
+                self._process_question_async(transcript)
+            else:
+                self._append_chat_message("System", "Could not hear speech — please try again.")
+                self._controller.set_status(RobotStatus.IDLE)
+
+    def _append_chat_message_start(self, sender: str) -> None:
+        """Thread-safe start of a chat bubble."""
+        def _start():
+            self._chat_area.config(state=tk.NORMAL)
+            if sender == "User":
+                self._chat_area.insert(tk.END, "You:\n", "user_name")
+            elif sender == "Robot":
+                self._chat_area.insert(tk.END, "Robot:\n", "robot_name")
+            self._chat_area.see(tk.END)
+            self._chat_area.config(state=tk.DISABLED)
+        self._root.after(0, _start)
+
+    def _append_chat_message_chunk(self, sender: str, chunk: str) -> None:
+        """Thread-safe appending of a text chunk to the active chat bubble."""
+        def _chunk():
+            self._chat_area.config(state=tk.NORMAL)
+            tag = "user_text" if sender == "User" else "robot_text"
+            self._chat_area.insert(tk.END, chunk, tag)
+            self._chat_area.see(tk.END)
+            self._chat_area.config(state=tk.DISABLED)
+        self._root.after(0, _chunk)
+
+    def _append_chat_message_finalize(self) -> None:
+        """Thread-safe finalization of the chat bubble (inserts spacing)."""
+        def _finalize():
+            self._chat_area.config(state=tk.NORMAL)
+            self._chat_area.insert(tk.END, "\n\n")
+            self._chat_area.see(tk.END)
+            self._chat_area.config(state=tk.DISABLED)
+        self._root.after(0, _finalize)
 
     def _process_question_async(self, question: str) -> None:
         def _worker():
             self._controller.set_status(RobotStatus.THINKING)
+            self._append_chat_message_start("Robot")
+            
+            full_reply = ""
             try:
-                result = self._chat_service.respond(question)
-                reply = result.reply
+                if hasattr(self._chat_service, "respond_stream"):
+                    for chunk in self._chat_service.respond_stream(question):
+                        full_reply += chunk
+                        self._append_chat_message_chunk("Robot", chunk)
+                else:
+                    result = self._chat_service.respond(question)
+                    full_reply = result.reply
+                    self._append_chat_message_chunk("Robot", full_reply)
             except Exception as err:
                 logger.error(f"Chat error: {err}")
-                reply = "Sorry, I had trouble processing that. Please try again."
-            self._append_chat_message("Robot", reply)
+                full_reply = "Sorry, I had trouble processing that. Please try again."
+                self._append_chat_message_chunk("Robot", full_reply)
+            
+            self._append_chat_message_finalize()
             self._controller.set_status(RobotStatus.SPEAKING)
-            self._tts_service.speak(reply)
+            self._tts_service.speak(full_reply)
             self._root.after(4000, lambda: self._controller.set_status(RobotStatus.LISTENING))
 
         threading.Thread(target=_worker, daemon=True).start()

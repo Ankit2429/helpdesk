@@ -72,3 +72,37 @@ class RAGChatService(ChatService):
         reply = self._llm_service.generate(prompt)
         return ChatResult(reply=reply, status="completed")
 
+    def respond_stream(self, message: str):
+        """Process user message through RAG retrieval and yield answer tokens via local LLM."""
+        if not message.strip():
+            yield "I am listening. How can I help you?"
+            return
+
+        context_str = ""
+        if self._rag_pipeline is not None:
+            try:
+                search_results = self._rag_pipeline.search(message)
+                if search_results:
+                    top_distance = search_results[0].distance
+                    if top_distance <= self._distance_threshold:
+                        retrieved_chunks = [
+                            res.document.content
+                            for res in search_results
+                            if res.distance <= self._distance_threshold
+                        ]
+                        context_str = "\n---\n".join(retrieved_chunks)
+                    else:
+                        logger.info(
+                            f"Top search result distance ({top_distance:.4f}) exceeds threshold ({self._distance_threshold}). "
+                            "Skipping RAG context — will use general LLM knowledge."
+                        )
+            except Exception as err:
+                logger.warning(f"RAG context retrieval exception: {err}")
+
+        if context_str:
+            prompt = f"{self._system_prompt}\n\nContext:\n{context_str}\n\nUser Question: {message}"
+        else:
+            prompt = f"{GENERAL_SYSTEM_PROMPT}\n\nUser Question: {message}"
+
+        yield from self._llm_service.generate_stream(prompt)
+

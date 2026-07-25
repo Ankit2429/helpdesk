@@ -22,42 +22,61 @@ class STTService(Protocol):
     ) -> str:
         """Record directly from microphone and transcribe speech to text."""
 
+    def listen_and_transcribe_stream(
+        self,
+        callback,
+        stop_event,
+        tts_service: Optional[TTSService] = None,
+    ) -> None:
+        """Stream record from microphone and transcribe in real-time."""
+
 
 class FasterWhisperSTTService:
-    """Production-ready STT service backed by HuggingFace PyTorch Whisper."""
+    """Production-ready STT service backed by faster-whisper CTranslate2 engine."""
 
     def __init__(
         self,
-        model_size: str = "openai/whisper-tiny",
+        model_size: str = "base",
         device: str = "cpu",
-        compute_type: str = "float32",
+        compute_type: str = "int8",
         device_index: int | None = None,
         enable_online_fallback: bool = False,
         debug: bool = False,
     ) -> None:
-        self._model_name = model_size if "/" in model_size else f"openai/whisper-{model_size}"
+        self._model_name = model_size
+        if "/" in model_size:
+            if "whisper-" in model_size:
+                self._model_name = model_size.split("whisper-")[-1]
+            else:
+                self._model_name = "base"
         self._device = device
         self._device_index = device_index
+        self._compute_type = compute_type
         self._enable_online_fallback = enable_online_fallback
         self._debug = debug
-        self._processor = None
         self._model = None
         self._init_model()
 
     def _init_model(self) -> None:
-        """Initialize local HuggingFace PyTorch Whisper model and processor."""
+        """Initialize local faster-whisper model."""
         try:
-            import torch
-            from transformers import WhisperForConditionalGeneration, WhisperProcessor
+            from faster_whisper import WhisperModel
 
-            logger.info(f"[INFO] Loading PyTorch HuggingFace Whisper model '{self._model_name}' on {self._device}...")
-            self._processor = WhisperProcessor.from_pretrained(self._model_name)
-            self._model = WhisperForConditionalGeneration.from_pretrained(self._model_name).to(self._device)
-            self._model.eval()
-            logger.info("[INFO] PyTorch HuggingFace Whisper STT model initialized successfully!")
+            logger.info(f"[INFO] Loading faster-whisper model '{self._model_name}' on {self._device} with compute type {self._compute_type}...")
+            
+            # CPU compatible compute types
+            compute_type = self._compute_type
+            if self._device == "cpu" and compute_type not in ["int8", "int8_float16", "int16", "float32"]:
+                compute_type = "int8"
+
+            self._model = WhisperModel(
+                self._model_name,
+                device=self._device,
+                compute_type=compute_type,
+            )
+            logger.info("[INFO] faster-whisper STT model initialized successfully!")
         except Exception as e:
-            logger.error(f"[ERROR] Whisper model initialization failed: {e}", exc_info=True)
-            self._processor = None
+            logger.error(f"[ERROR] faster-whisper model initialization failed: {e}", exc_info=True)
             self._model = None
 
     def enumerate_microphones(self) -> list[tuple[int, str]]:
@@ -113,11 +132,12 @@ class FasterWhisperSTTService:
         """Calibrate recognizer energy thresholds for ambient noise."""
         logger.info(f"[INFO] Calibrating ambient noise ({duration}s)...")
         recognizer.adjust_for_ambient_noise(source, duration=duration)
-        recognizer.energy_threshold = max(recognizer.energy_threshold, 100)
-        recognizer.dynamic_energy_threshold = True
-        recognizer.pause_threshold = 0.8
+        # Avoid setting the energy threshold too high or too low
+        recognizer.energy_threshold = max(min(recognizer.energy_threshold, 300), 80)
+        recognizer.dynamic_energy_threshold = False  # Disable to prevent dynamic drift
+        recognizer.pause_threshold = 1.2             # Allow natural pauses during speech
         recognizer.phrase_threshold = 0.3
-        recognizer.non_speaking_duration = 0.5
+        recognizer.non_speaking_duration = 0.8
 
     def _record_audio(self, recognizer, source, timeout: int = 8, phrase_time_limit: int = 15):
         """Capture live speech from microphone source."""
@@ -157,7 +177,7 @@ class FasterWhisperSTTService:
         return bool(rms > 0.5)
 
     def transcribe_audio(self, audio_data: bytes, sample_rate: int = 16000) -> str:
-        """Transcribe raw mono 16-bit PCM audio bytes using PyTorch Whisper model."""
+        """Transcribe raw mono 16-bit PCM audio bytes using faster-whisper model."""
         if not audio_data:
             logger.warning("[WARNING] Empty audio captured. Cannot run transcription.")
             return ""
@@ -167,19 +187,27 @@ class FasterWhisperSTTService:
             return ""
 
         logger.info("[INFO] Running Whisper transcription...")
-        if self._model is not None and self._processor is not None:
+        if self._model is not None:
             try:
                 import numpy as np
-                import torch
 
                 audio_np = np.frombuffer(audio_data, dtype=np.int16).astype(np.float32) / 32768.0
-                inputs = self._processor(audio_np, sampling_rate=sample_rate, return_tensors="pt")
-                input_features = inputs.input_features.to(self._device)
+                prompt = "campus helpdesk, classroom, library, schedule, registration, cafeteria, office, course"
+                segments, info = self._model.transcribe(audio_np, beam_size=5, initial_prompt=prompt)
+                
+                if getattr(info, "no_speech_prob", 0) > 0.6:
+                    logger.info(f"[INFO] High no_speech_prob ({info.no_speech_prob:.2f}). Skipping.")
+                    return ""
 
-                with torch.no_grad():
-                    predicted_ids = self._model.generate(input_features)
+                segments_list = list(segments)
+                transcription = "".join(segment.text for segment in segments_list).strip()
+                
+                # Filter out hallucinated prompt text
+                if any(bad in transcription.lower() for bad in ["campus helpdesk", "locate classrooms", "scheduling, registration"]):
+                    if len(transcription.split()) > 10:
+                        logger.info("[INFO] Filtered out prompt hallucination.")
+                        return ""
 
-                transcription = self._processor.batch_decode(predicted_ids, skip_special_tokens=True)[0].strip()
                 if transcription:
                     logger.info(f"[INFO] Transcript: '{transcription}'")
                     return transcription
@@ -241,3 +269,140 @@ class FasterWhisperSTTService:
         except Exception as err:
             logger.error(f"[ERROR] Microphone capture error ({type(err).__name__}): {err}", exc_info=True)
             return ""
+
+    def listen_and_transcribe_stream(
+        self,
+        callback,
+        stop_event,
+        tts_service: Optional[TTSService] = None,
+    ) -> None:
+        """Stream record from microphone and transcribe in real-time, calling callback with updates."""
+        if tts_service is not None and hasattr(tts_service, "is_speaking"):
+            if tts_service.is_speaking():
+                logger.info("[INFO] Waiting for TTS audio playback to complete before opening microphone...")
+                if hasattr(tts_service, "wait_until_done"):
+                    tts_service.wait_until_done(timeout=10.0)
+
+        import pyaudio
+        import numpy as np
+        import time
+
+        device_index = self._select_microphone()
+        
+        pa = pyaudio.PyAudio()
+        stream = None
+        try:
+            stream = pa.open(
+                format=pyaudio.paInt16,
+                channels=1,
+                rate=16000,
+                input=True,
+                input_device_index=device_index,
+                frames_per_buffer=1024,
+            )
+        except Exception as e:
+            logger.error(f"[ERROR] Failed to open PyAudio input stream: {e}")
+            pa.terminate()
+            callback("", True)
+            return
+
+        logger.info("[INFO] Real-time voice stream recording started...")
+        
+        audio_buffer = bytearray()
+        last_transcribe_time = time.time()
+        last_speech_time = time.time()
+        last_text = ""
+        
+        energy_threshold = 120.0
+        
+        # Give a small calibration offset
+        try:
+            time.sleep(0.2)
+            calibration_chunks = []
+            for _ in range(3):
+                cal_data = stream.read(1024, exception_on_overflow=False)
+                cal_samples = np.frombuffer(cal_data, dtype=np.int16)
+                if len(cal_samples) > 0:
+                    calibration_chunks.append(np.sqrt(np.mean(cal_samples.astype(np.float32) ** 2)))
+            if calibration_chunks:
+                energy_threshold = max(np.mean(calibration_chunks) * 1.5, 100.0)
+                logger.info(f"[INFO] Ambient noise calibrated. Energy threshold set to: {energy_threshold:.2f}")
+        except Exception as cal_err:
+            logger.warning(f"[WARNING] Calibration failed, using default energy threshold: {cal_err}")
+
+        # Start the loop
+        while not stop_event.is_set():
+            try:
+                # Read chunk
+                data = stream.read(1024, exception_on_overflow=False)
+                audio_buffer.extend(data)
+                
+                # Check volume level
+                samples = np.frombuffer(data, dtype=np.int16)
+                if len(samples) > 0:
+                    rms = np.sqrt(np.mean(samples.astype(np.float32) ** 2))
+                    if rms > energy_threshold:
+                        last_speech_time = time.time()
+                
+                # Transcribe every 0.5 seconds if we have audio
+                current_time = time.time()
+                if current_time - last_transcribe_time > 0.5:
+                    last_transcribe_time = current_time
+                    
+                    pcm_data = bytes(audio_buffer)
+                    audio_np = np.frombuffer(pcm_data, dtype=np.int16).astype(np.float32) / 32768.0
+                    
+                    prompt = "campus helpdesk, classroom, library, schedule, registration, cafeteria, office, course"
+                    segments, info = self._model.transcribe(audio_np, beam_size=5, initial_prompt=prompt)
+                    
+                    if getattr(info, "no_speech_prob", 0) <= 0.6:
+                        segments_list = list(segments)
+                        text = "".join(segment.text for segment in segments_list).strip()
+                        
+                        # Filter out hallucinated prompt text
+                        if any(bad in text.lower() for bad in ["campus helpdesk robot", "locate classrooms", "scheduling, registration"]):
+                            text = ""
+                        
+                        if text and text != last_text:
+                            last_text = text
+                            callback(text, False)
+                
+                # Silence timeout: stop if silence exceeds 2.2 seconds and we got some text
+                if last_text and (current_time - last_speech_time > 2.2):
+                    logger.info("[INFO] Silence detected, auto-finalizing...")
+                    break
+                    
+                # Absolute timeout: stop if absolute silence exceeds 6 seconds
+                if not last_text and (current_time - last_speech_time > 6.0):
+                    logger.info("[INFO] Silence timeout...")
+                    break
+                    
+            except Exception as err:
+                logger.error(f"[ERROR] Error in stream loop: {err}")
+                break
+                
+        # Clean up
+        try:
+            if stream is not None:
+                stream.stop_stream()
+                stream.close()
+            pa.terminate()
+        except Exception:
+            pass
+            
+        # Final transcribe
+        if audio_buffer and last_text:
+            pcm_data = bytes(audio_buffer)
+            audio_np = np.frombuffer(pcm_data, dtype=np.int16).astype(np.float32) / 32768.0
+            prompt = "campus helpdesk, classroom, library, schedule, registration, cafeteria, office, course"
+            segments, info = self._model.transcribe(audio_np, beam_size=5, initial_prompt=prompt)
+            if getattr(info, "no_speech_prob", 0) <= 0.6:
+                segments_list = list(segments)
+                final_text = "".join(segment.text for segment in segments_list).strip()
+                if any(bad in final_text.lower() for bad in ["campus helpdesk robot", "locate classrooms", "scheduling, registration"]):
+                    final_text = ""
+                callback(final_text, True)
+            else:
+                callback("", True)
+        else:
+            callback("", True)
