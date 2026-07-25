@@ -69,28 +69,27 @@ class NonBlockingTTSService:
             return None
 
     def _speak_piper(self, voice, text: str) -> None:
-        """Synthesize with Piper and stream the audio out through PyAudio."""
+        """Synthesize with Piper and stream audio out directly to persistent PyAudio stream."""
         import pyaudio
 
-        pa = pyaudio.PyAudio()
-        stream = None
+        if not hasattr(self, "_pa") or self._pa is None:
+            self._pa = pyaudio.PyAudio()
+            self._pa_stream = None
+
         try:
             for chunk in voice.synthesize(text):
-                if stream is None:
-                    stream = pa.open(
-                        format=pa.get_format_from_width(chunk.sample_width),
+                if self._pa_stream is None:
+                    self._pa_stream = self._pa.open(
+                        format=self._pa.get_format_from_width(chunk.sample_width),
                         channels=chunk.sample_channels,
                         rate=chunk.sample_rate,
                         output=True,
                     )
                 if self._stop_event.is_set():
                     break
-                stream.write(chunk.audio_int16_bytes)
-        finally:
-            if stream is not None:
-                stream.stop_stream()
-                stream.close()
-            pa.terminate()
+                self._pa_stream.write(chunk.audio_int16_bytes)
+        except Exception as err:
+            logger.error(f"Piper audio stream error: {err}")
 
     def _speech_loop(self) -> None:
         """Background worker thread executing speech requests."""

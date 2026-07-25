@@ -193,7 +193,7 @@ class FasterWhisperSTTService:
 
                 audio_np = np.frombuffer(audio_data, dtype=np.int16).astype(np.float32) / 32768.0
                 prompt = "campus helpdesk, classroom, library, schedule, registration, cafeteria, office, course"
-                segments, info = self._model.transcribe(audio_np, beam_size=5, initial_prompt=prompt)
+                segments, info = self._model.transcribe(audio_np, beam_size=1, vad_filter=True, initial_prompt=prompt)
                 
                 if getattr(info, "no_speech_prob", 0) > 0.6:
                     logger.info(f"[INFO] High no_speech_prob ({info.no_speech_prob:.2f}). Skipping.")
@@ -344,16 +344,17 @@ class FasterWhisperSTTService:
                     if rms > energy_threshold:
                         last_speech_time = time.time()
                 
-                # Transcribe every 0.5 seconds if we have audio
+                # Transcribe every 0.25 seconds if we have new audio
                 current_time = time.time()
-                if current_time - last_transcribe_time > 0.5:
+                if current_time - last_transcribe_time > 0.25:
                     last_transcribe_time = current_time
                     
+                    # Transcribe sliding window of accumulated audio
                     pcm_data = bytes(audio_buffer)
                     audio_np = np.frombuffer(pcm_data, dtype=np.int16).astype(np.float32) / 32768.0
                     
                     prompt = "campus helpdesk, classroom, library, schedule, registration, cafeteria, office, course"
-                    segments, info = self._model.transcribe(audio_np, beam_size=5, initial_prompt=prompt)
+                    segments, info = self._model.transcribe(audio_np, beam_size=1, vad_filter=True, initial_prompt=prompt)
                     
                     if getattr(info, "no_speech_prob", 0) <= 0.6:
                         segments_list = list(segments)
@@ -367,13 +368,13 @@ class FasterWhisperSTTService:
                             last_text = text
                             callback(text, False)
                 
-                # Silence timeout: stop if silence exceeds 2.2 seconds and we got some text
-                if last_text and (current_time - last_speech_time > 2.2):
+                # Silence timeout: stop if silence exceeds 1.4 seconds and we got some text
+                if last_text and (current_time - last_speech_time > 1.4):
                     logger.info("[INFO] Silence detected, auto-finalizing...")
                     break
                     
-                # Absolute timeout: stop if absolute silence exceeds 6 seconds
-                if not last_text and (current_time - last_speech_time > 6.0):
+                # Absolute timeout: stop if absolute silence exceeds 5.0 seconds
+                if not last_text and (current_time - last_speech_time > 5.0):
                     logger.info("[INFO] Silence timeout...")
                     break
                     
@@ -395,7 +396,7 @@ class FasterWhisperSTTService:
             pcm_data = bytes(audio_buffer)
             audio_np = np.frombuffer(pcm_data, dtype=np.int16).astype(np.float32) / 32768.0
             prompt = "campus helpdesk, classroom, library, schedule, registration, cafeteria, office, course"
-            segments, info = self._model.transcribe(audio_np, beam_size=5, initial_prompt=prompt)
+            segments, info = self._model.transcribe(audio_np, beam_size=1, vad_filter=True, initial_prompt=prompt)
             if getattr(info, "no_speech_prob", 0) <= 0.6:
                 segments_list = list(segments)
                 final_text = "".join(segment.text for segment in segments_list).strip()

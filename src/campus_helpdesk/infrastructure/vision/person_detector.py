@@ -102,15 +102,28 @@ class PersonDetector:
         annotated_frame = frame.copy()
         gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
         height, width = frame.shape[:2]
+        
+        # Downscale gray frame to 320px width for fast detection
+        scale = 1.0
+        if width > 320:
+            scale = 320.0 / width
+            small_gray = cv2.resize(gray, (320, int(height * scale)))
+        else:
+            small_gray = gray
 
         # 1. Try Haar frontal face detection
         if self._cascade is not None and not self._cascade.empty():
-            faces = self._cascade.detectMultiScale(
-                gray,
-                scaleFactor=1.1,
-                minNeighbors=5,
-                minSize=(60, 60),
+            small_faces = self._cascade.detectMultiScale(
+                small_gray,
+                scaleFactor=1.15,
+                minNeighbors=4,
+                minSize=(30, 30),
             )
+            # Scale boxes back to original frame size
+            faces = [
+                (int(x / scale), int(y / scale), int(w / scale), int(h / scale))
+                for (x, y, w, h) in small_faces
+            ]
             if len(faces) > 0:
                 person_detected = True
                 x, y, w, h = faces[0]
@@ -150,7 +163,12 @@ class PersonDetector:
 
         # 2. Fallback to HOG full body detection if face not detected
         if not person_detected and self._hog is not None:
-            boxes, _ = self._hog.detectMultiScale(frame, winStride=(8, 8))
+            small_bgr = cv2.resize(frame, (320, int(height * scale))) if width > 320 else frame
+            small_boxes, _ = self._hog.detectMultiScale(small_bgr, winStride=(16, 16))
+            boxes = [
+                (int(bx / scale), int(by / scale), int(bw / scale), int(bh / scale))
+                for (bx, by, bw, bh) in small_boxes
+            ]
             if len(boxes) > 0:
                 person_detected = True
                 face_forward = False  # Body detected, but no frontal face orientation confirmed

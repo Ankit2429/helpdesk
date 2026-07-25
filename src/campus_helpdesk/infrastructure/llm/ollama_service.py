@@ -51,9 +51,10 @@ class OllamaLLMService:
         generation_options: Mapping[str, float | int],
         client: OllamaClient | None = None,
     ) -> None:
-        self._validate_base_url(base_url)
-        self._model = model
-        self._generation_options = dict(generation_options)
+        options = dict(generation_options)
+        options.setdefault("num_predict", 50)
+        options.setdefault("temperature", 0.1)
+        self._generation_options = options
         self._client = client or Client(host=base_url, timeout=timeout_seconds)
 
     def generate(self, prompt: str) -> str:
