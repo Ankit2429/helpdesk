@@ -94,14 +94,30 @@ class AsyncWebsiteCrawler:
 
         try:
             soup = BeautifulSoup(html_content, "html.parser")
-            for a_tag in soup.find_all("a", href=True):
-                href = a_tag["href"].strip()
-                if not href or href.startswith(("#", "javascript:", "mailto:", "tel:")):
+            
+            # Scan a, iframe, embed, object, area tags
+            elements = soup.find_all(["a", "iframe", "embed", "object", "area"])
+            for elem in elements:
+                target_url = elem.get("href") or elem.get("src") or elem.get("data") or ""
+                target_url = target_url.strip()
+                
+                if not target_url or target_url.startswith(("#", "javascript:", "mailto:", "tel:")):
                     continue
 
-                full_url = normalize_url(urljoin(base_url, href))
-                
-                if full_url.lower().endswith(".pdf") or ".pdf?" in full_url.lower():
+                full_url = normalize_url(urljoin(base_url, target_url))
+                full_lower = full_url.lower()
+
+                # Flexible PDF identification
+                is_pdf = (
+                    full_lower.endswith(".pdf")
+                    or ".pdf?" in full_lower
+                    or "/pdf/" in full_lower
+                    or "viewpdf" in full_lower
+                    or "download.aspx" in full_lower
+                    or elem.get("download") is not None
+                )
+
+                if is_pdf and self.is_allowed_url(full_url):
                     pdf_links.add(full_url)
                 elif self.is_allowed_url(full_url):
                     page_links.add(full_url)
@@ -109,6 +125,33 @@ class AsyncWebsiteCrawler:
             logger.warning(f"Error extracting links from {base_url}: {e}")
 
         return page_links, pdf_links
+
+    def process_pdf_url(self, pdf_url: str) -> None:
+        """Download and convert PDF immediately when discovered."""
+        if pdf_url in self.state.visited_urls:
+            return
+        
+        self.state.visited_urls.add(pdf_url)
+        logger.info(f"[PDF DISCOVERED] Downloading & converting: {pdf_url}")
+        
+        pdf_path = self.pdf_pipeline.download_pdf(pdf_url)
+        if pdf_path:
+            self.state.stats["pdfs_downloaded"] += 1
+            text_md, md_path, method = self.pdf_pipeline.convert_pdf_to_markdown(pdf_path, pdf_url)
+            if md_path:
+                category = classify_category(pdf_url, pdf_path.stem)
+                self.metadata.add_record(
+                    title=pdf_path.stem,
+                    url=pdf_url,
+                    category=category,
+                    content_text=text_md,
+                    file_path=md_path,
+                    content_type="application/pdf",
+                    pdf_source=pdf_url,
+                )
+                self.state.stats["markdown_generated"] += 1
+                logger.info(f"[PDF PROCESSED] Saved [{category}] -> {md_path.name}")
+        self.state.save()
 
     def process_html_page(self, url: str, html_content: str) -> None:
         """Convert HTML page to Markdown, categorize, and save metadata."""
@@ -149,25 +192,31 @@ class AsyncWebsiteCrawler:
 
         logger.info(f"Saved [{category}] -> {output_file.name}")
 
-    def fetch_url(self, url: str) -> str | None:
-        """Fetch URL content via HTTP requests."""
+    def fetch_url(self, url: str) -> tuple[str | None, bool]:
+        """Fetch URL content. Returns (text_or_none, is_pdf)."""
         try:
             resp = requests.get(
                 url,
                 timeout=REQUEST_TIMEOUT,
                 headers={"User-Agent": "BVBCET-KLETech-KnowledgeBaseBot/2.0"},
+                stream=True,
             )
-            if resp.status_code == 200 and "text/html" in resp.headers.get("Content-Type", ""):
-                return resp.text
+            content_type = resp.headers.get("Content-Type", "").lower()
+            
+            if "application/pdf" in content_type or url.lower().endswith(".pdf"):
+                return None, True
+
+            if resp.status_code == 200 and "text/html" in content_type:
+                return resp.text, False
             else:
                 log_failed_page(url, f"HTTP Status {resp.status_code}")
         except Exception as err:
             log_failed_page(url, str(err))
             logger.warning(f"Error fetching {url}: {err}")
-        return None
+        return None, False
 
     def crawl_sync(self) -> None:
-        """Synchronous fallback crawl loop processing pending URLs queue."""
+        """Synchronous crawl loop processing pending URLs queue."""
         logger.info(f"Starting crawl from root: {self.start_url}")
 
         while self.pending_queue and len(self.state.visited_urls) < MAX_PAGES:
@@ -178,44 +227,29 @@ class AsyncWebsiteCrawler:
                 continue
 
             logger.info(f"Crawling [{len(self.state.visited_urls) + 1}/{MAX_PAGES}]: {url}")
-            html = self.fetch_url(url)
+            html, is_pdf = self.fetch_url(url)
+
+            if is_pdf:
+                self.process_pdf_url(url)
+                continue
 
             if html:
                 self.state.record_visit(url)
                 self.process_html_page(url, html)
 
-                # Extract and queue sub-links
+                # Extract sub-links
                 new_pages, new_pdfs = self.extract_links(html, url)
                 
-                for pdf in new_pdfs:
-                    if pdf not in self.pdf_queue and pdf not in self.state.pdf_hashes:
-                        self.pdf_queue.add(pdf)
+                # Process PDFs immediately!
+                for pdf_url in new_pdfs:
+                    if pdf_url not in self.state.visited_urls:
+                        self.process_pdf_url(pdf_url)
 
                 for page_url in new_pages:
                     if page_url not in self.state.visited_urls and page_url not in self.pending_queue:
                         self.pending_queue.append(page_url)
             else:
                 self.state.record_failure(url)
-
-        # Process collected PDFs
-        logger.info(f"Crawl finished. Processing {len(self.pdf_queue)} collected PDF documents...")
-        for pdf_url in list(self.pdf_queue):
-            pdf_path = self.pdf_pipeline.download_pdf(pdf_url)
-            if pdf_path:
-                self.state.stats["pdfs_downloaded"] += 1
-                text_md, md_path, method = self.pdf_pipeline.convert_pdf_to_markdown(pdf_path, pdf_url)
-                if md_path:
-                    category = classify_category(pdf_url, pdf_path.stem)
-                    self.metadata.add_record(
-                        title=pdf_path.stem,
-                        url=pdf_url,
-                        category=category,
-                        content_text=text_md,
-                        file_path=md_path,
-                        content_type="application/pdf",
-                        pdf_source=pdf_url,
-                    )
-                    self.state.stats["markdown_generated"] += 1
 
         self.state.save()
         logger.info("Pipeline crawl and conversion complete.")
