@@ -34,13 +34,24 @@ for folder in PDF_FOLDERS:
     folder.mkdir(parents=True, exist_ok=True)
     if folder.exists():
         try:
+            # Load PDFs
             pdf_loader = DirectoryLoader(str(folder), glob="**/*.pdf", loader_cls=PyPDFLoader)
             pdf_docs = pdf_loader.load()
             if pdf_docs:
-                logger.info(f"Loaded {len(pdf_docs)} pages from '{folder}'")
+                logger.info(f"Loaded {len(pdf_docs)} pages from PDFs in '{folder}'")
                 all_docs.extend(pdf_docs)
+
+            # Load Text & Markdown files
+            from langchain_community.document_loaders import TextLoader
+            for ext in ["*.txt", "*.md"]:
+                txt_loader = DirectoryLoader(str(folder), glob=f"**/{ext}", loader_cls=TextLoader)
+                txt_docs = txt_loader.load()
+                if txt_docs:
+                    logger.info(f"Loaded {len(txt_docs)} text document(s) ({ext}) from '{folder}'")
+                    all_docs.extend(txt_docs)
+
         except Exception as e:
-            logger.warning(f"Error loading PDFs from {folder}: {e}")
+            logger.warning(f"Error loading files from {folder}: {e}")
 
 # Load Web Pages if configured
 valid_urls = [u for u in URLS if "yourcollege.edu.in" not in u and u.startswith("http")]
@@ -86,5 +97,5 @@ try:
 except Exception:
     pass
 
-print(f"\n✅ FAISS index successfully created and saved to '{FAISS_INDEX_PATH}'!")
+print(f"\n[SUCCESS] FAISS index successfully created and saved to '{FAISS_INDEX_PATH}'!")
 print("When you launch 'demo.py', it will automatically load this campus knowledge.")
