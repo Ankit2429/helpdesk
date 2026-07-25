@@ -34,10 +34,13 @@ def main():
     args = parse_args()
 
     if args.fresh:
-        logger.info("Fresh flag passed. Clearing previous state, logs, and metadata...")
-        if config.LOGS_DIR.exists():
-            shutil.rmtree(config.LOGS_DIR)
-        config.LOGS_DIR.mkdir(parents=True, exist_ok=True)
+        logger.info("Fresh flag passed. Clearing previous state and metadata...")
+        for target_file in [config.STATE_FILE, config.METADATA_FILE, config.FAILED_PAGES_LOG, config.PDF_DOWNLOAD_LOG, config.STATISTICS_FILE]:
+            if target_file.exists():
+                try:
+                    target_file.unlink()
+                except Exception:
+                    pass
 
     config.MAX_PAGES = args.max_pages
 
