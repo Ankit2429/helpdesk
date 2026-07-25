@@ -405,11 +405,11 @@ class ModernChatWindow:
         """Open interactive Mappls 3D Map for BVB Engineering College (KLE Tech), Hubballi."""
         import webbrowser
 
-        mappls_url = "https://maps.mappls.com/?q=KLE+Technological+University+BVB+College+Hubballi"
+        mappls_url = "https://www.mappls.com/724ADS"
         webbrowser.open(mappls_url)
         self._append_chat_message(
             "System",
-            "Opened Mappls 3D Campus Map for BVB Engineering College (KLE Tech), Hubballi in your browser."
+            "Opened Mappls 3D Campus Map for BVB Engineering College (KLE Tech), Hubballi (https://www.mappls.com/724ADS)."
         )
 
     def _process_question_async(self, question: str) -> None:
