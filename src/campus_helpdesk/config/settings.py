@@ -47,7 +47,7 @@ class Settings(BaseSettings):
     webcam_index: int = 0
     camera_fps: int = 15
     person_detection_reset_frames: int = 30
-    whisper_model_size: str = "small"
+    whisper_model_size: str = "base"
     whisper_device: str = "cpu"
     whisper_compute_type: str = "int8"
     tts_voice_model: str = "en_US-lessac-medium"

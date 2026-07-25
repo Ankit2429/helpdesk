@@ -115,9 +115,9 @@ class PersonDetector:
         if self._cascade is not None and not self._cascade.empty():
             small_faces = self._cascade.detectMultiScale(
                 small_gray,
-                scaleFactor=1.15,
-                minNeighbors=4,
-                minSize=(30, 30),
+                scaleFactor=1.1,
+                minNeighbors=3,
+                minSize=(20, 20),
             )
             # Scale boxes back to original frame size
             faces = [
@@ -126,6 +126,7 @@ class PersonDetector:
             ]
             if len(faces) > 0:
                 person_detected = True
+                face_forward = True
                 x, y, w, h = faces[0]
                 if width > 0 and height > 0:
                     face_center = (
@@ -133,27 +134,11 @@ class PersonDetector:
                         round((y + h / 2.0) / float(height), 4),
                     )
 
-                # Check eye-contact / frontal gaze in top 60% of face region
-                roi_gray = gray[y : y + int(h * 0.6), x : x + w]
-                has_eyes = False
-                if self._eye_cascade is not None and not self._eye_cascade.empty():
-                    eyes = self._eye_cascade.detectMultiScale(
-                        roi_gray,
-                        scaleFactor=1.1,
-                        minNeighbors=3,
-                        minSize=(15, 15),
-                    )
-                    if len(eyes) > 0:
-                        has_eyes = True
-
-                # Frontal face cascade match confirms face forward / eye contact
-                face_forward = True if (has_eyes or len(faces) > 0) else False
-
                 for fx, fy, fw, fh in faces:
                     cv2.rectangle(annotated_frame, (fx, fy), (fx + fw, fy + fh), (0, 255, 0), 2)
                     cv2.putText(
                         annotated_frame,
-                        "Face Forward" if face_forward else "Person Detected",
+                        "Person Detected",
                         (fx, max(0, fy - 10)),
                         cv2.FONT_HERSHEY_SIMPLEX,
                         0.6,
@@ -171,7 +156,7 @@ class PersonDetector:
             ]
             if len(boxes) > 0:
                 person_detected = True
-                face_forward = False  # Body detected, but no frontal face orientation confirmed
+                face_forward = True
                 x, y, w, h = boxes[0]
                 if width > 0 and height > 0:
                     face_center = (
@@ -186,11 +171,9 @@ class PersonDetector:
             self._missing_counter = 0
             self._person_present = True
 
-            # Trigger greeting ONLY on genuine engagement (frontal face / eye contact)
-            # and ONLY ONCE per person session (resets when person leaves for threshold duration)
-            if face_forward and not self._greeted_this_session:
+            if not self._greeted_this_session:
                 self._greeted_this_session = True
-                logger.info("Frontal face / eye contact detected! Triggering greeting.")
+                logger.info("Person detected in camera frame! Triggering greeting.")
                 if self._on_person_entered:
                     self._on_person_entered()
         else:

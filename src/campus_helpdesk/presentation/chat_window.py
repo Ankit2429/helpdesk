@@ -286,11 +286,16 @@ class ModernChatWindow:
         self._root.after(0, _append)
 
     def _handle_person_entered(self) -> None:
-        """Triggered when frontal face / eye contact is detected by background vision service."""
+        """Triggered when person is detected by background vision service."""
         greeting = self._controller.trigger_greeting()
         if greeting:
             self._tts_service.speak(greeting)
-            self._root.after(2500, lambda: self._controller.set_status(RobotStatus.LISTENING))
+            self._root.after(2000, self._auto_start_listening)
+
+    def _auto_start_listening(self) -> None:
+        self._controller.set_status(RobotStatus.LISTENING)
+        if not self._is_recording:
+            self._toggle_voice_input()
 
     def _handle_person_left(self) -> None:
         """Triggered when person leaves camera frame."""
