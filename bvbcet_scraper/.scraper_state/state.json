@@ -1,0 +1,66 @@
+{
+  "pages": {
+    "https://www.bvb.edu/": {
+      "hash": "e637bd8dab924a4329c85b80dea5db905db5d64af63c9a6bdd567b5a33df06ac",
+      "topic_file": "misc.md",
+      "last_scraped": "2026-07-25T12:38:15.278920+00:00"
+    },
+    "https://www.bvb.edu/achievements.html": {
+      "hash": "da168e7004a6e216143a86384283e35abd61b0ecc3a2b6ab0ba63b4d12737287",
+      "topic_file": "misc.md",
+      "last_scraped": "2026-07-25T12:38:16.125444+00:00"
+    },
+    "https://www.bvb.edu/gallery.html": {
+      "hash": "eb1c7a1363b3efa8ceeaa2888586b26823a22f792359dcf41b3757cb73b98b34",
+      "topic_file": "misc.md",
+      "last_scraped": "2026-07-25T12:38:21.667794+00:00"
+    },
+    "https://www.bvb.edu/gallery/index_slideshow-Nodata(startimage).html": {
+      "hash": "020494200f354758283cdff47a5737d9af793adbdfa3a38bd9dfd12eb1d0614f",
+      "topic_file": "misc.md",
+      "last_scraped": "2026-07-25T12:38:22.713833+00:00"
+    },
+    "https://www.bvb.edu/index.html": {
+      "hash": "e637bd8dab924a4329c85b80dea5db905db5d64af63c9a6bdd567b5a33df06ac",
+      "topic_file": "misc.md",
+      "last_scraped": "2026-07-25T12:38:23.856787+00:00"
+    },
+    "https://www.bvb.edu/gallery/index_list-4.html": {
+      "hash": "020494200f354758283cdff47a5737d9af793adbdfa3a38bd9dfd12eb1d0614f",
+      "topic_file": "misc.md",
+      "last_scraped": "2026-07-25T12:38:24.437164+00:00"
+    }
+  },
+  "pdfs": {},
+  "queue": [],
+  "visited": [
+    "https://www.bvb.edu/",
+    "http://alumni.bvb.edu/",
+    "http://mail.bvb.edu/",
+    "https://www.bvb.edu/achievements.html",
+    "https://www.bvb.edu/placement.html",
+    "https://www.bvb.edu/gallery.html",
+    "https://www.bvb.edu/people.html",
+    "http://www.nata.in/",
+    "http://www.niasa.org/",
+    "https://www.bvb.edu/aistipa/index.html",
+    "https://www.bvb.edu/krk_rao/index.html",
+    "http://www.sccbvb.co.in/",
+    "https://www.bvb.edu/ieee/index.html",
+    "https://www.bvb.edu/cdpc.html",
+    "http://en.wikipedia.org/wiki/Hubli",
+    "http://en.wikipedia.org/wiki/Gadag",
+    "https://www.bvb.edu/about_bvb.html",
+    "https://www.bvb.edu/tgmc2007.html",
+    "https://www.bvb.edu/index_php.html",
+    "https://www.bvb.edu/admissions.html",
+    "https://www.bvb.edu/acad_ug.html",
+    "https://www.bvb.edu/facility_central.html",
+    "https://www.bvb.edu/contact.html",
+    "http://internetdealerservices.com/",
+    "https://www.bvb.edu/gallery/index_slideshow-Nodata(startimage).html",
+    "https://www.bvb.edu/gallery/index_list-4.html",
+    "https://www.bvb.edu/index.html",
+    "https://www.waybackmachinedownloader.com/en/buy-wayback-machine-downloader-recover"
+  ]
+}
