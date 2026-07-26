@@ -1,25 +1,31 @@
 #!/usr/bin/env python3
-"""Phase 2 Production-Grade Website Ingestion Pipeline Entry Point.
+"""Phase 2 Production-Grade Website Ingestion & Semantic Chunking Pipeline Entry Point.
+
+Execution Flow:
+    Crawler -> Downloader -> Markdown Generator -> Semantic Chunker
 
 Usage:
-    python pipeline.py                  # Run ingestion (supports state resume)
+    python pipeline.py                  # Run ingestion & chunking (supports state resume)
     python pipeline.py --fresh          # Start clean ingestion run
     python pipeline.py --max-pages 500  # Set maximum pages safety ceiling
 """
 
 import argparse
-import shutil
 import sys
+import time
 
 from config.config import (
     FAILED_PAGES_LOG,
+    KNOWLEDGE_BASE_DIR,
     LOGS_DIR,
+    MARKDOWN_DIR,
     METADATA_FILE,
     PDF_DOWNLOAD_LOG,
     STATE_FILE,
     STATISTICS_FILE,
     PipelineConfig,
 )
+from chunker.chunker import ChunkerRunner
 from crawler.crawl_manager import CrawlManager
 from logger.logger import get_logger
 
@@ -35,6 +41,7 @@ def parse_args():
 
 def main():
     args = parse_args()
+    pipeline_start_time = time.time()
 
     if args.fresh:
         logger.info("Fresh flag passed. Clearing previous state files...")
@@ -48,7 +55,7 @@ def main():
     config = PipelineConfig(max_pages=args.max_pages)
 
     logger.info("==================================================")
-    logger.info("STARTING PHASE 2 RAG INGESTION PIPELINE")
+    logger.info("STARTING RAG INGESTION & CHUNKING PIPELINE")
     logger.info(f"Target URL: {config.start_url}")
     logger.info(f"Max Pages Limit: {config.max_pages}")
     logger.info("==================================================")
@@ -56,7 +63,21 @@ def main():
     manager = CrawlManager(config)
 
     try:
+        # Phase 1: Web Crawl, PDF Downloading, and Markdown Generation
         manager.run()
+
+        # Phase 2: Semantic Chunking & JSONL Export
+        logger.info("==================================================")
+        logger.info("STARTING SEMANTIC CHUNKING PHASE")
+        logger.info("==================================================")
+
+        chunker_output_dir = KNOWLEDGE_BASE_DIR / "chunks"
+        chunker_runner = ChunkerRunner(
+            input_dir=MARKDOWN_DIR,
+            output_dir=chunker_output_dir,
+        )
+        chunk_records = chunker_runner.run()
+
     except KeyboardInterrupt:
         logger.warning("Pipeline execution interrupted by user. State checkpoint saved.")
         manager.queue.save()
@@ -66,15 +87,19 @@ def main():
         manager.queue.save()
         sys.exit(1)
 
+    total_processing_time = round(time.time() - pipeline_start_time, 2)
+    duplicates_removed_total = (
+        manager.stats.stats.duplicate_pages_removed + chunker_runner.processor.duplicates_path.exists()
+    )
+
     logger.info("==================================================")
-    logger.info("PHASE 2 INGESTION PIPELINE COMPLETED SUCCESSFULLY")
-    logger.info(f"Pages Discovered: {manager.stats.stats.pages_discovered}")
-    logger.info(f"Pages Crawled: {manager.stats.stats.pages_crawled}")
-    logger.info(f"Pages Skipped: {manager.stats.stats.pages_skipped}")
-    logger.info(f"Pages Failed: {manager.stats.stats.pages_failed}")
-    logger.info(f"PDFs Downloaded: {manager.stats.stats.pdfs_downloaded}")
-    logger.info(f"Markdown Files Generated: {manager.stats.stats.markdown_files_generated}")
-    logger.info(f"Duplicate Pages Removed: {manager.stats.stats.duplicate_pages_removed}")
+    logger.info("FINAL PIPELINE SUMMARY")
+    logger.info("==================================================")
+    logger.info(f"Pages Crawled            : {manager.stats.stats.pages_crawled}")
+    logger.info(f"Markdown Files Generated : {manager.stats.stats.markdown_files_generated}")
+    logger.info(f"Chunks Generated         : {len(chunk_records)}")
+    logger.info(f"Duplicates Removed       : {manager.stats.stats.duplicate_pages_removed}")
+    logger.info(f"Processing Time          : {total_processing_time}s")
     logger.info("==================================================")
 
 
