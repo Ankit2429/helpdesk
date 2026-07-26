@@ -98,7 +98,7 @@ def main():
     logger.info(f"Pages Crawled            : {manager.stats.stats.pages_crawled}")
     logger.info(f"Markdown Files Generated : {manager.stats.stats.markdown_files_generated}")
     logger.info(f"Chunks Generated         : {len(chunk_records)}")
-    logger.info(f"Duplicates Removed       : {manager.stats.stats.duplicate_pages_removed}")
+    logger.info(f"Duplicates Removed       : {duplicates_removed_total}")
     logger.info(f"Processing Time          : {total_processing_time}s")
     logger.info("==================================================")
 
