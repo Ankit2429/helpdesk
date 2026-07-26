@@ -24,12 +24,12 @@ from chromadb.config import Settings
 import numpy as np
 from tqdm import tqdm
 
+from config.config import CHROMA_DIR, DEFAULT_COLLECTION_NAME
 from logger.logger import get_logger
 
 logger = get_logger("chroma_builder")
 
-DEFAULT_COLLECTION_NAME: str = "bvbcet_knowledge"
-DEFAULT_PERSIST_DIR: Path = Path("vector_db/chroma")
+DEFAULT_PERSIST_DIR: Path = CHROMA_DIR
 
 
 class ChromaBuilder:
@@ -41,18 +41,27 @@ class ChromaBuilder:
         collection_name: str = DEFAULT_COLLECTION_NAME,
         batch_size: int = 100,
     ) -> None:
-        self.persist_dir = Path(persist_dir)
+        self.persist_dir = Path(persist_dir).resolve()
         self.collection_name = collection_name
         self.batch_size = batch_size
         self.persist_dir.mkdir(parents=True, exist_ok=True)
 
         logger.info(f"Initializing Persistent ChromaDB Client at '{self.persist_dir}'")
-        self.client = chromadb.PersistentClient(path=str(self.persist_dir.resolve()))
+        self.client = chromadb.PersistentClient(path=str(self.persist_dir))
         self.collection = self.client.get_or_create_collection(
             name=self.collection_name,
             metadata={"hnsw:space": "cosine"},
         )
         logger.info(f"Connected to collection '{self.collection_name}'. Current count: {self.collection.count()}")
+
+    def list_collections(self) -> List[Dict[str, Any]]:
+        """Diagnostic helper listing all ChromaDB collections and vector counts."""
+        collections_info = []
+        for coll in self.client.list_collections():
+            info = {"name": coll.name, "count": coll.count(), "persist_dir": str(self.persist_dir)}
+            collections_info.append(info)
+            logger.info(f"Diagnostic Collection: '{coll.name}' | Count: {coll.count()} | Path: {self.persist_dir}")
+        return collections_info
 
     @staticmethod
     def sanitize_metadata(metadata_dict: Dict[str, Any]) -> Dict[str, str | int | float | bool]:

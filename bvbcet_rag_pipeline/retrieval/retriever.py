@@ -19,13 +19,13 @@ import numpy as np
 from sentence_transformers import SentenceTransformer
 import torch
 
+from config.config import CHROMA_DIR, DEFAULT_COLLECTION_NAME
 from embeddings.embedding_generator import DEFAULT_MODEL
 from logger.logger import get_logger
 
 logger = get_logger("retriever")
 
-DEFAULT_PERSIST_DIR: Path = Path("vector_db/chroma")
-DEFAULT_COLLECTION_NAME: str = "bvbcet_knowledge"
+DEFAULT_PERSIST_DIR: Path = CHROMA_DIR
 
 
 class ChromaRetriever:
@@ -40,7 +40,7 @@ class ChromaRetriever:
         score_threshold: float = 0.0,
     ) -> None:
         self.model_name = model_name
-        self.persist_dir = Path(persist_dir)
+        self.persist_dir = Path(persist_dir).resolve()
         self.collection_name = collection_name
         self.top_k = top_k
         self.score_threshold = score_threshold
@@ -53,12 +53,26 @@ class ChromaRetriever:
         self.model = SentenceTransformer(self.model_name, device=self.device)
 
         logger.info(f"Connecting to persistent ChromaDB client at '{self.persist_dir}'")
-        self.client = chromadb.PersistentClient(path=str(self.persist_dir.resolve()))
-        self.collection = self.client.get_or_create_collection(
-            name=self.collection_name,
-            metadata={"hnsw:space": "cosine"},
-        )
-        logger.info(f"Connected to collection '{self.collection_name}'. Total vectors: {self.collection.count()}")
+        self.client = chromadb.PersistentClient(path=str(self.persist_dir))
+        
+        try:
+            self.collection = self.client.get_collection(name=self.collection_name)
+        except Exception:
+            available_colls = [c.name for c in self.client.list_collections()]
+            raise RuntimeError(
+                f"ChromaDB collection '{self.collection_name}' does not exist at '{self.persist_dir}'. "
+                f"Available collections: {available_colls}. "
+                f"Please run 'python -m vector_db.chroma_builder' to build and populate vectors."
+            )
+
+        vector_count = self.collection.count()
+        if vector_count == 0:
+            logger.warning(
+                f"Connected to collection '{self.collection_name}' at '{self.persist_dir}', but it contains 0 vectors! "
+                f"Please populate vectors using 'python -m vector_db.chroma_builder'."
+            )
+        else:
+            logger.info(f"Connected to collection '{self.collection_name}'. Total vectors: {vector_count}")
 
     def embed_question(self, question: str) -> List[float]:
         """Embed user query string into normalized float list vector."""
@@ -209,7 +223,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("-c", "--category", type=str, default=None, help="Optional category filter")
     parser.add_argument("-d", "--department", type=str, default=None, help="Optional department filter")
     parser.add_argument("-p", "--persist-dir", type=Path, default=DEFAULT_PERSIST_DIR, help="ChromaDB persist directory")
-    parser.add_argument("-m", "--model", type=str, default=DEFAULT_MODEL, help="Embedding model name")
+    parser.add_argument("-m", "--model", type=str, default="all-MiniLM-L6-v2", help="Embedding model name")
     return parser.parse_args()
 
 

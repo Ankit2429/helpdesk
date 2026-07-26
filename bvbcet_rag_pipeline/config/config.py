@@ -11,6 +11,8 @@ MARKDOWN_DIR = KNOWLEDGE_BASE_DIR / "markdown"
 PDF_DIR = KNOWLEDGE_BASE_DIR / "pdf"
 METADATA_DIR = KNOWLEDGE_BASE_DIR / "metadata"
 LOGS_DIR = KNOWLEDGE_BASE_DIR / "logs"
+CHROMA_DIR = BASE_DIR / "vector_db" / "chroma"
+DEFAULT_COLLECTION_NAME = "bvbcet_knowledge"
 
 STATE_FILE = LOGS_DIR / "state.json"
 METADATA_FILE = METADATA_DIR / "metadata.json"
