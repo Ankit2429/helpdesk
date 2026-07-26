@@ -86,6 +86,7 @@ class ChromaBuilder:
         self,
         jsonl_path: Path = Path("chunks/chunks.jsonl"),
         embeddings_path: Path = Path("embeddings/embeddings.npy"),
+        delete_stale: bool = True,
     ) -> int:
         """Build/update ChromaDB collection using pre-computed embeddings and JSONL records."""
         start_time = time.time()
@@ -122,6 +123,20 @@ class ChromaBuilder:
             embeddings_matrix = embeddings_matrix[:min_len]
 
         total_chunks = len(records)
+        input_ids = {str(rec.get("metadata", {}).get("id", f"chunk_{idx}")) for idx, rec in enumerate(records)}
+
+        # Delete stale vectors if enabled
+        if delete_stale:
+            try:
+                existing_data = self.collection.get(include=[])
+                existing_ids = set(existing_data.get("ids", []))
+                stale_ids = list(existing_ids - input_ids)
+                if stale_ids:
+                    logger.info(f"Deleting {len(stale_ids)} stale vectors from ChromaDB collection...")
+                    self.collection.delete(ids=stale_ids)
+            except Exception as err:
+                logger.warning(f"Error checking/deleting stale vectors: {err}")
+
         logger.info(f"Upserting {total_chunks} vector records into ChromaDB...")
 
         # Batch upsert into ChromaDB
