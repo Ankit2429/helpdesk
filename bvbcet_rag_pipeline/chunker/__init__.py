@@ -1,4 +1,5 @@
 """Chunker package initialization."""
-from .chunker import TextChunker
 
-__all__ = ["TextChunker"]
+from chunker.semantic_chunker import Chunk, SemanticMarkdownChunker
+
+__all__ = ["Chunk", "SemanticMarkdownChunker"]
