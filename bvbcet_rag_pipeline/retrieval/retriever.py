@@ -33,7 +33,7 @@ class ChromaRetriever:
 
     def __init__(
         self,
-        model_name: str = DEFAULT_MODEL,
+        model_name: str = "all-MiniLM-L6-v2",
         persist_dir: Path = DEFAULT_PERSIST_DIR,
         collection_name: str = DEFAULT_COLLECTION_NAME,
         top_k: int = 5,

@@ -92,7 +92,7 @@ class RAGChatEngine:
     def __init__(
         self,
         llm_model: str = DEFAULT_MODEL,
-        embedding_model: str = "BAAI/bge-base-en-v1.5",
+        embedding_model: str = "all-MiniLM-L6-v2",
         top_k: int = 5,
         score_threshold: float = 0.0,
         ollama_url: str = OLLAMA_API_URL,
