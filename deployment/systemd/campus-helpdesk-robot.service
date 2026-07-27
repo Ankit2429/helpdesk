@@ -1,0 +1,26 @@
+[Unit]
+Description=Campus Helpdesk Robot Autonomous Assistant Loop Service
+After=network.target sound.target multi-user.target
+Wants=sound.target
+
+[Service]
+Type=simple
+# NOTE: Edit User, WorkingDirectory, and ExecStart to match your real repo path on the Pi.
+# (setup_pi_deployment.sh automatically patches these to match the actual clone directory!)
+User=pi
+WorkingDirectory=/home/pi/campus-helpdesk
+ExecStart=/home/pi/campus-helpdesk/.venv/bin/python assistant_loop.py
+Restart=always
+RestartSec=5
+KillMode=process
+
+# Environment configuration
+Environment=PYTHONUNBUFFERED=1
+EnvironmentFile=-/home/pi/campus-helpdesk/.env
+
+# Standard output / error logging to systemd journal (view with journalctl -u campus-helpdesk-robot -f)
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target

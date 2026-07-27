@@ -1,0 +1,8 @@
+{
+  "total_chunks": 18051,
+  "embedding_dimension": 384,
+  "model_used": "all-MiniLM-L6-v2",
+  "execution_time": 587.86,
+  "gpu_used": false,
+  "average_embedding_time": 0.0326
+}
