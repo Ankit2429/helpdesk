@@ -11,6 +11,11 @@ from campus_helpdesk.infrastructure.llm.ollama_service import OllamaLLMService
 from campus_helpdesk.infrastructure.rag.factory import create_rag_pipeline
 
 
+import logging
+
+logger = logging.getLogger(__name__)
+
+
 def create_app(settings: Settings | None = None, llm_service: LLMService | None = None) -> FastAPI:
     """Create and configure the FastAPI application."""
     application_settings = settings or get_settings()
@@ -32,8 +37,8 @@ def create_app(settings: Settings | None = None, llm_service: LLMService | None 
     if application_settings.faiss_index_path.exists():
         try:
             rag_pipeline.load_index()
-        except Exception:
-            pass
+        except Exception as exc:
+            logger.warning("Could not load FAISS index from %s: %s", application_settings.faiss_index_path, exc)
     app.state.chat_service = RAGChatService(
         configured_llm_service,
         rag_pipeline=rag_pipeline,
