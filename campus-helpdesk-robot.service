@@ -5,16 +5,17 @@ Wants=sound.target
 
 [Service]
 Type=simple
+# NOTE: Edit User, WorkingDirectory, and ExecStart to match your real repo path on the Pi.
+# (setup_pi_deployment.sh automatically patches these to match the actual clone directory!)
 User=pi
 WorkingDirectory=/home/pi/campus-helpdesk
-ExecStart=/home/pi/.local/bin/uv run python assistant_loop.py
+ExecStart=/home/pi/campus-helpdesk/.venv/bin/python assistant_loop.py
 Restart=always
 RestartSec=5
 KillMode=process
 
 # Environment configuration
 Environment=PYTHONUNBUFFERED=1
-Environment=PATH=/home/pi/.local/bin:/usr/local/bin:/usr/bin:/bin
 EnvironmentFile=-/home/pi/campus-helpdesk/.env
 
 # Standard output / error logging to systemd journal (view with journalctl -u campus-helpdesk-robot -f)

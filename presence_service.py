@@ -19,6 +19,7 @@ Install:
 """
 
 import os
+import sys
 import time
 import logging
 import threading
@@ -64,7 +65,8 @@ class PresenceService:
         return len(faces) > 0
 
     def _watch_loop(self):
-        cap = cv2.VideoCapture(CAMERA_INDEX, cv2.CAP_DSHOW)
+        backend = cv2.CAP_V4L2 if sys.platform.startswith("linux") else cv2.CAP_DSHOW
+        cap = cv2.VideoCapture(CAMERA_INDEX, backend)
         if not cap.isOpened():
             cap = cv2.VideoCapture(CAMERA_INDEX)
         if not cap.isOpened():

@@ -20,6 +20,22 @@ def create_rag_pipeline(settings: Settings) -> RAGPipeline:
         show_progress=settings.embedding_show_progress,
         local_files_only=settings.embedding_local_files_only,
     )
+    store = FAISSSimilarityStore(
+        embeddings,
+        settings.faiss_index_path,
+        settings.faiss_allow_dangerous_deserialization,
+        {
+            "embedding_model": settings.embedding_model,
+            "embedding_normalize": settings.embedding_normalize,
+        },
+    )
+    if settings.faiss_index_path.exists() and (settings.faiss_index_path / "index.faiss").exists():
+        try:
+            store.load()
+        except Exception as e:
+            import logging
+            logging.warning(f"Could not load FAISS index from {settings.faiss_index_path}: {e}")
+
     return RAGPipeline(
         document_loader=PDFKnowledgeLoader(
             settings.knowledge_source_path,
@@ -31,14 +47,6 @@ def create_rag_pipeline(settings: Settings) -> RAGPipeline:
             separators=settings.rag_chunk_separators,
             add_start_index=settings.rag_add_start_index,
         ),
-        similarity_store=FAISSSimilarityStore(
-            embeddings,
-            settings.faiss_index_path,
-            settings.faiss_allow_dangerous_deserialization,
-            {
-                "embedding_model": settings.embedding_model,
-                "embedding_normalize": settings.embedding_normalize,
-            },
-        ),
+        similarity_store=store,
         search_limit=settings.rag_search_limit,
     )

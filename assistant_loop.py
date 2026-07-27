@@ -19,11 +19,24 @@ Install:
 """
 
 import os
+import sys
 import time
+import warnings
 import logging
 import threading
 import numpy as np
 import sounddevice as sd
+
+os.environ["PYTHONWARNINGS"] = "ignore"
+warnings.filterwarnings("ignore")
+
+logging.getLogger("httpx").setLevel(logging.WARNING)
+logging.getLogger("httpcore").setLevel(logging.WARNING)
+logging.getLogger("comtypes").setLevel(logging.WARNING)
+logging.getLogger("transformers").setLevel(logging.ERROR)
+logging.getLogger("torch").setLevel(logging.ERROR)
+logging.getLogger("faiss").setLevel(logging.ERROR)
+logging.getLogger("urllib3").setLevel(logging.WARNING)
 
 from presence_service import PresenceService
 from stt_service import STTService, SAMPLE_RATE
@@ -36,7 +49,7 @@ logger = logging.getLogger("assistant_loop")
 # ---- Config ------------------------------------------------------------------
 LISTEN_WINDOW_SECONDS = float(os.getenv("LISTEN_WINDOW_SECONDS", "18"))   # hard cap
 SILENCE_CUTOFF_SECONDS = float(os.getenv("SILENCE_CUTOFF_SECONDS", "2.5"))  # stop early if quiet this long
-SILENCE_RMS_THRESHOLD = float(os.getenv("SILENCE_RMS_THRESHOLD", "0.01"))   # tune to your mic's noise floor
+SILENCE_RMS_THRESHOLD = float(os.getenv("SILENCE_RMS_THRESHOLD", "0.003"))   # tune to your mic's noise floor
 CHUNK_SECONDS = 0.5  # granularity for silence checking
 
 
@@ -61,7 +74,7 @@ def record_until_silence(max_seconds: float, silence_seconds: float) -> np.ndarr
             chunks.append(data)
 
             rms = float(np.sqrt(np.mean(data ** 2)))
-            logger.info(f"[MIC RMS] Chunk RMS: {rms:.4f} (threshold: {SILENCE_RMS_THRESHOLD:.4f})")
+            logger.debug(f"[MIC RMS] Chunk RMS: {rms:.4f} (threshold: {SILENCE_RMS_THRESHOLD:.4f})")
             if rms > SILENCE_RMS_THRESHOLD:
                 speech_started = True
                 silent_run = 0
@@ -88,6 +101,50 @@ def generate_reply(user_text: str, language: str = "en") -> str:
     return ttt.get_reply(user_text, language=language)
 
 
+# Unicode block ranges for the scripts we care about.
+_DEVANAGARI_RANGE = (0x0900, 0x097F)   # Hindi / Sanskrit
+_KANNADA_RANGE    = (0x0C80, 0x0CFF)   # Kannada
+
+_LANG_LABELS = {
+    "en": "English",
+    "hi": "Hindi",
+    "kn": "Kannada",
+}
+
+
+def _display_text(user_text: str, language: str) -> str:
+    """
+    Return the text to show on screen / in logs for the user's utterance.
+
+    When Whisper detects a language correctly but produces output in the WRONG
+    script (e.g. Kannada speech → Devanagari characters instead of Kannada
+    script), the raw transcription looks like garbled nonsense to a human
+    reader.  In those cases we substitute a clean placeholder instead of
+    printing the confusing raw bytes.
+
+    The raw `user_text` is NOT modified here — it is still passed unchanged to
+    TTT for matching, where the cross-script regex safety net handles it.
+    """
+    def _has_script(text: str, lo: int, hi: int) -> bool:
+        return any(lo <= ord(ch) <= hi for ch in text)
+
+    label = _LANG_LABELS.get(language, language.upper())
+
+    if language == "kn":
+        # Devanagari in output but no Kannada script → wrong-script transcription
+        if _has_script(user_text, *_DEVANAGARI_RANGE) and \
+           not _has_script(user_text, *_KANNADA_RANGE):
+            return f"[Recognized: {label} speech]"
+
+    if language == "hi":
+        # Kannada script in output but no Devanagari → wrong-script transcription
+        if _has_script(user_text, *_KANNADA_RANGE) and \
+           not _has_script(user_text, *_DEVANAGARI_RANGE):
+            return f"[Recognized: {label} speech]"
+
+    return user_text
+
+
 class AssistantLoop:
     def __init__(self):
         self.stt = STTService()
@@ -103,6 +160,7 @@ class AssistantLoop:
     def _on_person_arrived(self):
         with self._lock:
             if self._busy:
+                logger.info("New person arrived while assistant is busy in active conversation. Ignoring re-entrant trigger.")
                 return
             self._busy = True
         threading.Thread(target=self._run_session, daemon=True).start()
@@ -129,7 +187,7 @@ class AssistantLoop:
                 speak("Sorry, I couldn't understand that.", language=language)
                 return
 
-            logger.info(f"Heard ({language}): {user_text}")
+            logger.info(f"Heard ({language}): {_display_text(user_text, language)}")
             reply = generate_reply(user_text, language=language)
             speak(reply, language=language)
 
@@ -137,7 +195,49 @@ class AssistantLoop:
             with self._lock:
                 self._busy = False
 
+    def _warmup_ollama(self, max_retries: int = 5, backoff_factor: float = 1.5):
+        """Warm up Ollama VRAM with retry-with-backoff for systemd boot sequence resiliency."""
+        logger.info("Warming up Ollama model (with retry-with-backoff)...")
+        wait_time = 1.0
+        
+        for attempt in range(1, max_retries + 1):
+            start_time = time.time()
+            try:
+                llm = None
+                if self.ttt.rag_service:
+                    llm = getattr(self.ttt.rag_service, "_llm_service", getattr(self.ttt.rag_service, "llm_service", None))
+                
+                if llm is not None:
+                    llm._client.chat(
+                        model=llm._model,
+                        messages=[{"role": "user", "content": "hello"}],
+                        options={"num_predict": 1},
+                    )
+                else:
+                    from campus_helpdesk.config.settings import get_settings
+                    from ollama import Client
+                    settings = get_settings()
+                    client = Client(host=settings.ollama_base_url, timeout=settings.ollama_timeout_seconds)
+                    client.chat(
+                        model=settings.ollama_model,
+                        messages=[{"role": "user", "content": "hello"}],
+                        options={"num_predict": 1},
+                    )
+                elapsed = time.time() - start_time
+                logger.info(f"Ollama warm-up succeeded on attempt {attempt}/{max_retries} in {elapsed:.2f}s.")
+                return True
+            except Exception as e:
+                logger.warning(f"Ollama warm-up attempt {attempt}/{max_retries} failed: {e}")
+                if attempt < max_retries:
+                    logger.info(f"Retrying Ollama warm-up in {wait_time:.1f}s...")
+                    time.sleep(wait_time)
+                    wait_time *= backoff_factor
+                else:
+                    logger.warning(f"All {max_retries} Ollama warm-up attempts exhausted. Assistant starting in graceful offline mode.")
+                    return False
+
     def start(self):
+        self._warmup_ollama()
         self.presence.start()
         logger.info("Assistant running. Waiting for someone to appear on camera...")
         try:

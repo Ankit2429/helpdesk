@@ -19,9 +19,9 @@ class Settings(BaseSettings):
     debug: bool = False
     log_level: str = "INFO"
     ollama_base_url: str = "http://localhost:11434"
-    ollama_model: str
+    ollama_model: str = Field(default="qwen2.5:1.5b", validation_alias="OLLAMA_MODEL")
     ollama_timeout_seconds: float = 180.0
-    ollama_temperature: float = 0.2
+    ollama_temperature: float = 0.0
     ollama_top_p: float = 0.8
     ollama_top_k: int = 40
     ollama_repeat_penalty: float = 1.1
