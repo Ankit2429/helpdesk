@@ -1,29 +1,27 @@
 # Offline-First Autonomous Campus Helpdesk Robot
 
-Phase 1 provides a laptop-only backend foundation for a campus helpdesk robot.
-It deliberately excludes voice, vision, hardware control, and robotics.
+An offline-first autonomous campus helpdesk robot powered by local LLM inference (Ollama), FAISS vector store retrieval, real-time speech recognition (Faster-Whisper), multi-lingual neural voice synthesis (Piper & Meta MMS-TTS), OpenCV camera presence detection, and automated Raspberry Pi systemd deployment.
 
 ## Architecture
 
-The project uses a layered, dependency-directed layout:
+The project features a dual execution entrypoint supported by a layered, dependency-directed core layout:
 
-- `api`: FastAPI transport layer (routes, dependencies, request lifecycle).
-- `application`: use cases and service orchestration.
+- **Autonomous Service Loop (`assistant_loop.py`)**: End-to-end voice and vision orchestration for Raspberry Pi deployment.
+- `api`: FastAPI transport layer (routes, HTML web chat UI, dependencies, request lifecycle).
+- `application`: use cases and service orchestration (`RAGChatService`, `RAGPipeline`).
 - `domain`: business entities, policies, and repository contracts.
-- `infrastructure`: adapters for Ollama, FAISS, SQLite, and external libraries.
+- `infrastructure`: adapters for Ollama, FAISS, Faster-Whisper, Meta MMS-TTS, OpenCV vision, and external libraries.
 - `shared`: cross-cutting utilities and common exceptions.
 
-See `docs/module-roadmap.md` for the approval-gated implementation order.
+See `docs/DEPLOYMENT.md` for complete Windows & Raspberry Pi installation guides.
 
 ## Status
 
-Modules 1 through 3 are implemented: typed configuration, a modular FastAPI
-application, local Ollama chat, and a reusable local RAG pipeline. The RAG
-pipeline supports PDF loading, configurable chunking, Sentence Transformers
-embeddings, FAISS persistence, and similarity search.
-
-SQLite persistence, RAG-to-chat orchestration, voice, vision, and robotics
-remain unimplemented.
+Complete end-to-end implementation including:
+- **Offline RAG & LLM**: Local Ollama model integration (`qwen2.5`) with FAISS vector similarity search and anti-hallucination prompting.
+- **Multilingual Voice & Vision**: Faster-Whisper STT with candidate-list language detection (`en`, `hi`, `kn`), sub-second CPU TTS synthesis (Piper EN & Meta MMS-TTS HI/KN), and OpenCV camera person detection.
+- **Web & Desktop Interfaces**: Glassmorphic HTML web chat interface (`http://localhost:8000/`) and PySide6 desktop GUI window (`demo.py`).
+- **Raspberry Pi Deployment**: Automated systemd service installation and environment provisioning (`setup_pi_deployment.sh`, `campus-helpdesk-robot.service`).
 
 ## Run locally
 
