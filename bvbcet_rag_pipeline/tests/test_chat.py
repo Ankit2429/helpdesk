@@ -34,14 +34,20 @@ def test_chat_history_logger():
         shutil.rmtree(temp_dir, ignore_errors=True)
 
 
+from vector_db.chroma_builder import ChromaBuilder
+
 @patch.object(RAGChatEngine, "generate_llm_answer")
-def test_rag_chat_engine_ask(mock_llm):
-    mock_llm.return_value = ("The KCET quota admissions start in July.", 1.2)
+def test_rag_chat_engine_ask_success(mock_llm):
+    mock_llm.return_value = ("The KCET quota admissions start in July.", 1.2, None)
 
     temp_dir = Path(tempfile.mkdtemp())
     try:
         log_file = temp_dir / "test_history.json"
         persist_dir = temp_dir / "chroma"
+        
+        # Initialize collection
+        builder = ChromaBuilder(persist_dir=persist_dir, collection_name="bvbcet_knowledge")
+
         engine = RAGChatEngine(
             llm_model="llama3.1:8b",
             embedding_model="all-MiniLM-L6-v2",
@@ -50,7 +56,6 @@ def test_rag_chat_engine_ask(mock_llm):
         )
         engine.history_logger = ChatHistoryLogger(log_file=log_file)
 
-        # Mock retriever response
         dummy_doc = Document(
             page_content="Admissions for KCET quota start in July.",
             metadata={
@@ -65,9 +70,52 @@ def test_rag_chat_engine_ask(mock_llm):
 
         result = engine.ask("When do KCET admissions start?")
 
+        assert result["status"] == "success"
         assert result["answer"] == "The KCET quota admissions start in July."
         assert len(result["sources"]) == 1
         assert result["metrics"]["confidence"] == 0.95
         assert result["metrics"]["inference_time_s"] == 1.2
+    finally:
+        shutil.rmtree(temp_dir, ignore_errors=True)
+
+
+@patch.object(RAGChatEngine, "generate_llm_answer")
+def test_rag_chat_engine_ask_llm_error(mock_llm):
+    mock_llm.return_value = (None, 0.1, "Ollama HTTP error 404: model 'llama3.1:8b' not found")
+
+    temp_dir = Path(tempfile.mkdtemp())
+    try:
+        log_file = temp_dir / "test_history.json"
+        persist_dir = temp_dir / "chroma"
+
+        # Initialize collection
+        builder = ChromaBuilder(persist_dir=persist_dir, collection_name="bvbcet_knowledge")
+
+        engine = RAGChatEngine(
+            llm_model="llama3.1:8b",
+            embedding_model="all-MiniLM-L6-v2",
+            persist_dir=persist_dir,
+            top_k=2,
+        )
+        engine.history_logger = ChatHistoryLogger(log_file=log_file)
+
+        dummy_doc = Document(
+            page_content="Admissions for KCET quota start in July.",
+            metadata={
+                "id": "chunk_01",
+                "source": "admissions.md",
+                "heading": "KCET Quota",
+                "category": "admissions",
+                "score": 0.95,
+            },
+        )
+        engine.retriever.retrieve = MagicMock(return_value=[dummy_doc])
+
+        result = engine.ask("When do KCET admissions start?")
+
+        assert result["status"] == "llm_error"
+        assert "Retrieved relevant context" in result["answer"]
+        assert "Ollama HTTP error 404" in result["answer"]
+        assert len(result["sources"]) == 1
     finally:
         shutil.rmtree(temp_dir, ignore_errors=True)

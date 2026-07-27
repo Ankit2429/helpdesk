@@ -1,0 +1,3 @@
+# PDF Document: 240rkf-IMPORTANTNOTICE_E2_80_93EXAMSADMISSIONS
+**PDF Source:** https://www.kletech.ac.in/uploads/Files/240rkf-IMPORTANTNOTICE%E2%80%93EXAMSADMISSIONS.pdf
+

@@ -13,7 +13,9 @@ import sys
 from pathlib import Path
 
 import config
+# pyrefly: ignore [missing-import]
 from scraper.crawler import AsyncWebsiteCrawler
+# pyrefly: ignore [missing-import]
 from scraper.logger import setup_logger
 from scraper.metadata_logger import MetadataLogger
 from scraper.pdf_converter import PDFConverterPipeline
