@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "notices"
+subcategory: ""
+document_type: "document"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/news-detail/celebration-of-the-silver-jubilee-by-the-bvb-alumni-of-the-1998-batch!/132"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["alumni", "celebration", "news", "technological", "university"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/news-detail/celebration-of-the-silver-jubilee-by-the-bvb-alumni-of-the-1998-batch!/132
  ### Celebration of the Silver Jubilee by the BVB Alumni of the 1998 Batch!

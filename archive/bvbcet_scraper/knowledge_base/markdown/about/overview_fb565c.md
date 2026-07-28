@@ -1,3 +1,17 @@
+---
+title: "Overview"
+category: "about"
+subcategory: ""
+document_type: "minutes"
+department: "Science"
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/overview"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["anil", "basavaraj", "bhat", "bommai", "campus", "desai", "engineering", "khangav", "kulkarni", "lengade"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # Overview
  **Source URL:** https://www.kletech.ac.in/overview
  #### Inspiring excellence, nurturing talent

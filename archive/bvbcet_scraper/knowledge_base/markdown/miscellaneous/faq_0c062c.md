@@ -1,3 +1,17 @@
+---
+title: "FAQ"
+category: "miscellaneous"
+subcategory: "faq"
+document_type: "document"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/cpage.aspx?mpgid=178&pgid1=179&pgidtrail=187"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["bank", "faq", "online", "only", "payment", "student"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # FAQ
  **Source URL:** https://www.kletech.ac.in/hubballi/cpage.aspx?mpgid=178&pgid1=179&pgidtrail=187
  #### UG & PG Programs of Higher Semesters Only

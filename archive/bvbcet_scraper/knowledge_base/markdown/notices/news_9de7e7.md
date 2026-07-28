@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "notices"
+subcategory: ""
+document_type: "document"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/news-details/grand-line-triumph-kle-technological-university-shines-at-smart-india-hackathon!/244"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["grand", "hackathon", "line", "news", "technological", "university"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/hubballi/news-details/grand-line-triumph-kle-technological-university-shines-at-smart-india-hackathon!/244
  ### Grand Line Triumph: KLE Technological University Shines at Smart India Hackathon!

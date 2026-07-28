@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "downloads"
+subcategory: ""
+document_type: "document"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/news-detail/kle%C2%A0team-achieved-air--2-in-overall-performance-in-autonomous-drone-design-challenge/135"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["autonomous", "challenge", "design", "news", "team", "technological"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/news-detail/kle%C2%A0team-achieved-air--2-in-overall-performance-in-autonomous-drone-design-challenge/135
  ### KLE Team Achieved AIR #2 in Overall Performance in Autonomous Drone Design Challenge

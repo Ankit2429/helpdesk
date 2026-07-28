@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "notices"
+subcategory: ""
+document_type: "document"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/news-details/samsung-chip-design-studio-contest/440"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["chip", "contest", "design", "news", "samsung", "studio"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/hubballi/news-details/samsung-chip-design-studio-contest/440
  ### Samsung Chip Design Studio Contest

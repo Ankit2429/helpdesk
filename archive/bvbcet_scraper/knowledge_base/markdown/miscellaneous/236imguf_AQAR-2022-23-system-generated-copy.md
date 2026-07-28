@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 236imguf_AQAR-2022-23-system-generated-copy"
+category: "miscellaneous"
+subcategory: ""
+document_type: "syllabus"
+department: "MSME"
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/Uploads/image/236imguf_AQAR-2022-23-system-generated-copy.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["copy", "document", "file", "generated", "system", "university", "upload", "view", "year"]
+aliases: ["HOD", "Head of Department", "EEE", "EE", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: 236imguf_AQAR-2022-23-system-generated-copy
  **PDF Source:** https://www.kletech.ac.in/Uploads/image/236imguf_AQAR-2022-23-system-generated-copy.pdf
  ## Page 1

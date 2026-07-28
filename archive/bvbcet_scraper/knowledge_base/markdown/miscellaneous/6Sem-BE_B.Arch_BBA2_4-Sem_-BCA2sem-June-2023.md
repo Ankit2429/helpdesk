@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 6Sem-BE_B.Arch_BBA2_4-Sem_-BCA2sem-June-2023"
+category: "miscellaneous"
+subcategory: ""
+document_type: "timetable"
+department: "AUTOMATION AND ROBOTICS"
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/pdf/6Sem-BE_B.Arch_BBA2_4-Sem_-BCA2sem-June-2023.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["course", "document", "examinations", "june", "saturday", "semester", "theory"]
+aliases: ["ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE"]
+last_modified: "2026-07-28"
+---
 # PDF Document: 6Sem-BE_B.Arch_BBA2_4-Sem_-BCA2sem-June-2023
  **PDF Source:** https://www.kletech.ac.in/pdf/6Sem-BE_B.Arch_BBA2_4-Sem_-BCA2sem-June-2023.pdf
  ## Page 1

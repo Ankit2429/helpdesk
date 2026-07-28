@@ -1,3 +1,17 @@
+---
+title: "Academic Overview"
+category: "about"
+subcategory: "academic"
+document_type: "syllabus"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/academics/overview"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["academic", "industry", "overview", "research", "students", "world"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # Academic Overview
  **Source URL:** https://www.kletech.ac.in/academics/overview
  # Academic Overview

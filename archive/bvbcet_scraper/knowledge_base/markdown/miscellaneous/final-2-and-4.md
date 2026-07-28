@@ -1,3 +1,17 @@
+---
+title: "PDF Document: final-2-and-4"
+category: "miscellaneous"
+subcategory: ""
+document_type: "minutes"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/pdf/final-2-and-4.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["april", "date", "document", "final", "july", "june", "minor"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # PDF Document: final-2-and-4
  **PDF Source:** https://www.kletech.ac.in/pdf/final-2-and-4.pdf
  ## Page 1

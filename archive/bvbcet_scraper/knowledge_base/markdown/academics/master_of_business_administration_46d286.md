@@ -1,3 +1,17 @@
+---
+title: "Master of Business Administration"
+category: "academics"
+subcategory: "master"
+document_type: "syllabus"
+department: "Management will be a premier institute in manageme"
+campus: "Belagavi"
+source_url: "https://www.kletech.ac.in/course/master-of-business-administration"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["administration", "business", "centric", "college", "department", "engineering", "experiential", "focus", "learning", "main"]
+aliases: ["HOD", "Head of Department", "CSE", "CS", "ECE", "EC", "EEE", "EE", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # Master of Business Administration
  **Source URL:** https://www.kletech.ac.in/course/master-of-business-administration
  ## The main focus of the MBA program is student-centric experiential learning.

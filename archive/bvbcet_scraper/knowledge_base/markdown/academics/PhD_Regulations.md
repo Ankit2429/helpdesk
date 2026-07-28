@@ -1,3 +1,17 @@
+---
+title: "PDF Document: PhD_Regulations"
+category: "academics"
+subcategory: "PhD"
+document_type: "minutes"
+department: ""
+campus: "Bengaluru"
+source_url: "https://www.kletech.ac.in/bengaluru/pdf/PhD_Regulations.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["document", "research", "scholar", "shall", "supervisor", "thesis"]
+aliases: ["HOD", "Head of Department", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: PhD_Regulations
  **PDF Source:** https://www.kletech.ac.in/bengaluru/pdf/PhD_Regulations.pdf
  ## Page 1

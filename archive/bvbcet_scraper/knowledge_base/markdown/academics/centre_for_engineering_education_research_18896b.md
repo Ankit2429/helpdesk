@@ -1,3 +1,17 @@
+---
+title: "Centre for Engineering Education Research"
+category: "academics"
+subcategory: "centre"
+document_type: "syllabus"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/coursedetail.aspx?mpgid=151&pgidtrail=151&courseid=81"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["academic", "autonomy", "bvbcet", "centre", "education", "engineering", "excel", "granted", "ieee", "innovate"]
+aliases: ["HOD", "Head of Department", "CSE", "CS", "BVB", "BVBCET"]
+last_modified: "2026-07-28"
+---
 # Centre for Engineering Education Research
  **Source URL:** https://www.kletech.ac.in/hubballi/coursedetail.aspx?mpgid=151&pgidtrail=151&courseid=81
  ## Academic Autonomy granted to BVBCET in 2007 offered an opportunity to innovate and excel in Engineering Education.

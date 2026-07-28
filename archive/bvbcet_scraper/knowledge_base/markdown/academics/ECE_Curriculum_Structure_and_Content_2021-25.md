@@ -1,3 +1,17 @@
+---
+title: "PDF Document: ECE_Curriculum_Structure_and_Content_2021-25"
+category: "academics"
+subcategory: "ECE"
+document_type: "syllabus"
+department: "Mechanical Engineering"
+campus: ""
+source_url: "https://www.kletech.ac.in/pdf/ECE_Curriculum_Structure_and_Content_2021-25.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["chapter", "course", "document", "engineering", "hours", "marks"]
+aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "ECE", "EC", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: ECE_Curriculum_Structure_and_Content_2021-25
  **PDF Source:** https://www.kletech.ac.in/pdf/ECE_Curriculum_Structure_and_Content_2021-25.pdf
  ## Page 1

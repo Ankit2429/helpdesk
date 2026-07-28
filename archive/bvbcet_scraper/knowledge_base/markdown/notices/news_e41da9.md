@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "notices"
+subcategory: ""
+document_type: "act"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/news-detail/kle-ctie-successfully-hosts-medihealthxpo-2026-and-north-karnataka-incubators-consortium/445"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["ctie", "karnataka", "news", "north", "technological", "university"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/news-detail/kle-ctie-successfully-hosts-medihealthxpo-2026-and-north-karnataka-incubators-consortium/445
  ### KLE-CTiE Successfully Hosts MedihealthXPO 2026 and North Karnataka Incubators Consortium

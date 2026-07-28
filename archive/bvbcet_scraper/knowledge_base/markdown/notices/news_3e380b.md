@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "notices"
+subcategory: ""
+document_type: "act"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/news-detail/mr-pradeep-vajrams-1-crore-rupee-donation-to-kle-technological-university-/26"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["crore", "news", "pradeep", "technological", "university", "vajram"]
+aliases: ["KLETech", "KLE Tech", "BVB", "BVBCET"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/news-detail/mr-pradeep-vajrams-1-crore-rupee-donation-to-kle-technological-university-/26
  ### Mr. Pradeep Vajram's 1 Crore Rupee Donation to KLE Technological University.

@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 3rd-sem-mba-mca-mtech-2024-25-odd"
+category: "academics"
+subcategory: ""
+document_type: "minutes"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/pdf/3rd-sem-mba-mca-mtech-2024-25-odd.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["april", "date", "document", "last", "march", "mba", "mca", "minor", "mtech", "odd"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # PDF Document: 3rd-sem-mba-mca-mtech-2024-25-odd
  **PDF Source:** https://www.kletech.ac.in/pdf/3rd-sem-mba-mca-mtech-2024-25-odd.pdf
  ## Page 1

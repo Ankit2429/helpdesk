@@ -1,3 +1,17 @@
+---
+title: "Admission for PG Program"
+category: "admissions"
+subcategory: "admission"
+document_type: "act"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/admission/domestic-admission/admission-for-pg-program"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["admission", "engineering", "intake", "program", "programs", "shall", "tech", "unaided"]
+aliases: ["ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC"]
+last_modified: "2026-07-28"
+---
 # Admission for PG Program
  **Source URL:** https://www.kletech.ac.in/hubballi/admission/domestic-admission/admission-for-pg-program
  ### Overview

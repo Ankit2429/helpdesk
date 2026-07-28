@@ -1,3 +1,17 @@
+---
+title: "AICTE"
+category: "about"
+subcategory: "aicte"
+document_type: "document"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/about/recognitions-approvals/aicte"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["accreditation", "aicte", "applied", "happened", "part", "visit"]
+aliases: ["ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE"]
+last_modified: "2026-07-28"
+---
 # AICTE
  **Source URL:** https://www.kletech.ac.in/about/recognitions-approvals/aicte
  #### Year 2019-20

@@ -1,3 +1,17 @@
+---
+title: "Bachelor of Architecture"
+category: "academics"
+subcategory: "bachelor"
+document_type: "act"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/course-detail/bachelor-of-architecture/16"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["also", "architectural", "architecture", "art", "artful", "bachelor", "been", "building", "calling", "described"]
+aliases: ["HOD", "Head of Department"]
+last_modified: "2026-07-28"
+---
 # Bachelor of Architecture
  **Source URL:** https://www.kletech.ac.in/course-detail/bachelor-of-architecture/16
  ## Architecture is a passion, a vocation, and a calling. It has been described as a social art and also an artful science.

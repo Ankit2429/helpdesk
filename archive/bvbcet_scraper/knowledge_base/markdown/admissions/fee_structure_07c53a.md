@@ -1,3 +1,17 @@
+---
+title: "Fee Structure"
+category: "admissions"
+subcategory: "fee"
+document_type: "document"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/admission/domestic-admission/fee-structure"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["engineering", "fee", "fees", "semester", "structure", "total"]
+aliases: ["ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE"]
+last_modified: "2026-07-28"
+---
 # Fee Structure
  **Source URL:** https://www.kletech.ac.in/admission/domestic-admission/fee-structure
  # Fee Structure

@@ -1,3 +1,17 @@
+---
+title: "About Placements"
+category: "about"
+subcategory: ""
+document_type: "brochure"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/placements/about-placements"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["offering", "package", "placements", "salary", "selected", "students"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # About Placements
  **Source URL:** https://www.kletech.ac.in/placements/about-placements
  Texas Instruments has selected 13 students by offering a salary package

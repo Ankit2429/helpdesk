@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "notices"
+subcategory: ""
+document_type: "act"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/news-detail/celebrating-a-moment-of-pride!/291"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["moment", "news", "pride", "technological", "university"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/news-detail/celebrating-a-moment-of-pride!/291
  ### Celebrating a Moment of Pride!

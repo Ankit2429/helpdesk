@@ -1,3 +1,17 @@
+---
+title: "PDF Document: bachelor-business-administration-curriculum-structure-2022-2025"
+category: "academics"
+subcategory: ""
+document_type: "syllabus"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/pdf/bachelor-business-administration-curriculum-structure-2022-2025.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["administration", "bachelor", "business", "course", "curriculum", "document", "management", "marks", "module", "structure"]
+aliases: ["HOD", "Head of Department", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: bachelor-business-administration-curriculum-structure-2022-2025
  **PDF Source:** https://www.kletech.ac.in/pdf/bachelor-business-administration-curriculum-structure-2022-2025.pdf
  ## Page 1

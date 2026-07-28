@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "notices"
+subcategory: ""
+document_type: "document"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/news-detail/international-youth-biodiversity-conference/436"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["biodiversity", "international", "news", "technological", "university", "youth"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/news-detail/international-youth-biodiversity-conference/436
  ### International Youth Biodiversity Conference

@@ -1,3 +1,17 @@
+---
+title: "PDF Document: IT-Policies_and_Procedures_Manual_Updated_12-4-21"
+category: "notices"
+subcategory: ""
+document_type: "minutes"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/pdf/IT-Policies_and_Procedures_Manual_Updated_12-4-21.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["campus", "document", "email", "policy", "printed", "software"]
+aliases: ["HOD", "Head of Department", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: IT-Policies_and_Procedures_Manual_Updated_12-4-21
  **PDF Source:** https://www.kletech.ac.in/pdf/IT-Policies_and_Procedures_Manual_Updated_12-4-21.pdf
  ## Page 1

@@ -1,3 +1,17 @@
+---
+title: "Under Graduate Program"
+category: "admissions"
+subcategory: "under"
+document_type: "act"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/admission/domestic-admission/under-graduate-program"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["admission", "allotment", "arch", "bachelor", "bba", "bca", "com", "distribution", "documents", "engineering"]
+aliases: ["ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # Under Graduate Program
  **Source URL:** https://www.kletech.ac.in/admission/domestic-admission/under-graduate-program
  ### Overview

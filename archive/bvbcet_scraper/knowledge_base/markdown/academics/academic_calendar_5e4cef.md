@@ -1,3 +1,17 @@
+---
+title: "Academic Calendar"
+category: "academics"
+subcategory: "academic"
+document_type: "document"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/academics/calendar"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["academic", "academics", "calendar", "https", "kletech"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # Academic Calendar
  **Source URL:** https://www.kletech.ac.in/academics/calendar
  # Academic Calendar

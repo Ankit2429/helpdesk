@@ -1,3 +1,17 @@
+---
+title: "Notices & Announcements"
+category: "notices"
+subcategory: "notices"
+document_type: "notice"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/happenings/notices-announcements"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["announcements", "december", "march", "notices", "webinar"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # Notices & Announcements
  **Source URL:** https://www.kletech.ac.in/hubballi/happenings/notices-announcements
  ### December 2024

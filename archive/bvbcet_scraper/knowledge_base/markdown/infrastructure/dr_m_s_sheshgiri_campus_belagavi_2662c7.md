@@ -1,3 +1,17 @@
+---
+title: "Dr. M. S. Sheshgiri Campus, Belagavi"
+category: "infrastructure"
+subcategory: "dr"
+document_type: "act"
+department: "Electrical and Electronics where Prof"
+campus: "Belagavi"
+source_url: "https://www.kletech.ac.in/belagavi"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["belagavi", "campus", "college", "engineering", "sheshgiri", "students", "technology", "testimonials"]
+aliases: ["CSE", "CS", "ECE", "EC", "EEE", "EE", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # Dr. M. S. Sheshgiri Campus, Belagavi
  **Source URL:** https://www.kletech.ac.in/belagavi
  #### Ph.D. in Electronics & Communication Engineering

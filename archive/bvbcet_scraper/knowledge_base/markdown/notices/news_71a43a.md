@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "notices"
+subcategory: ""
+document_type: "act"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/news-detail/day-1-national-conference-of-indian-council-of-chemists-inaugurated-at-kle-technological-universityhubballi/407"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["conference", "national", "news", "prof", "technological", "university"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/news-detail/day-1-national-conference-of-indian-council-of-chemists-inaugurated-at-kle-technological-universityhubballi/407
  ### Day 1 - National Conference of Indian Council of Chemists Inaugurated at KLE Technological University, Hubballi

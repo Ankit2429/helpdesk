@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 9th_BOG_Minutes"
+category: "miscellaneous"
+subcategory: ""
+document_type: "syllabus"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/pdf/9th_BOG_Minutes.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["chancellor", "document", "meeting", "prof", "university", "vice"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: 9th_BOG_Minutes
  **PDF Source:** https://www.kletech.ac.in/pdf/9th_BOG_Minutes.pdf
  ## Page 1

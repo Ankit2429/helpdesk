@@ -1,3 +1,17 @@
+---
+title: "Library Rules"
+category: "infrastructure"
+subcategory: "library"
+document_type: "notice"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/infrastructure/library/library-rules"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["books", "library", "rules", "shall", "should", "users"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # Library Rules
  **Source URL:** https://www.kletech.ac.in/hubballi/infrastructure/library/library-rules
  #### General Library Rules

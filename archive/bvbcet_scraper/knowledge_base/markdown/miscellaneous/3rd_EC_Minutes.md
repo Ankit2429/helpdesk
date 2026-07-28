@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 3rd_EC_Minutes"
+category: "miscellaneous"
+subcategory: ""
+document_type: "minutes"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/pdf/3rd_EC_Minutes.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["approve", "council", "document", "technological", "university", "year"]
+aliases: ["ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: 3rd_EC_Minutes
  **PDF Source:** https://www.kletech.ac.in/pdf/3rd_EC_Minutes.pdf
  ## Page 1

@@ -1,3 +1,17 @@
+---
+title: "List of Board of Governors"
+category: "about"
+subcategory: "list"
+document_type: "document"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/about/board-of-governors/list-of-board-of-governors"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["board", "governors", "hubballi", "list", "secretary", "technological", "university"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # List of Board of Governors
  **Source URL:** https://www.kletech.ac.in/about/board-of-governors/list-of-board-of-governors
  #### Dr. Prabhakar B. Kore

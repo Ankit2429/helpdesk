@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 11imguf_2_4SemesterLLMESATimeTableAug_Sept.2023"
+category: "examination"
+subcategory: ""
+document_type: "timetable"
+department: ""
+campus: "Bengaluru"
+source_url: "https://www.kletech.ac.in/Uploads/image/11imguf_2_4SemesterLLMESATimeTableAug_Sept.2023.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["course", "document", "examinations", "paper", "semester", "specialisation"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: 11imguf_2_4SemesterLLMESATimeTableAug_Sept.2023
  **PDF Source:** https://www.kletech.ac.in/Uploads/image/11imguf_2_4SemesterLLMESATimeTableAug_Sept.2023.pdf
  ## Page 1

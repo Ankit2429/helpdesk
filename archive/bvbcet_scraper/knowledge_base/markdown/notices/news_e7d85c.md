@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "notices"
+subcategory: ""
+document_type: "document"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/news-detail/samsung-chip-design-studio-contest/440"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["chip", "design", "news", "samsung", "technological", "university"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/news-detail/samsung-chip-design-studio-contest/440
  ### Samsung Chip Design Studio Contest

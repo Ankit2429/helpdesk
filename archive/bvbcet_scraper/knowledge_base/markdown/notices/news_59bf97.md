@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "notices"
+subcategory: ""
+document_type: "act"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/news-detail/felicitation-ceremony-honors-21-distinguished-scientists-and-engineers-of-isro-who-are-also-our-alumni/137"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["alumni", "india", "news", "space", "technological", "university"]
+aliases: ["HOD", "Head of Department", "KLETech", "KLE Tech", "BVB", "BVBCET"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/news-detail/felicitation-ceremony-honors-21-distinguished-scientists-and-engineers-of-isro-who-are-also-our-alumni/137
  ### Felicitation ceremony honors 21 distinguished scientists and engineers of ISRO who are also our alumni

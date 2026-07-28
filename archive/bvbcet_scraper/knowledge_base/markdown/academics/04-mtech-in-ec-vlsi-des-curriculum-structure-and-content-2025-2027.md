@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 04-mtech-in-ec-vlsi-des-curriculum-structure-and-content-2025-2027"
+category: "academics"
+subcategory: ""
+document_type: "syllabus"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/pdf/04-mtech-in-ec-vlsi-des-curriculum-structure-and-content-2025-2027.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["chapter", "content", "curriculum", "des", "design", "document", "hours", "marks", "mtech", "structure"]
+aliases: ["HOD", "Head of Department", "ECE", "EC", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: 04-mtech-in-ec-vlsi-des-curriculum-structure-and-content-2025-2027
  **PDF Source:** https://www.kletech.ac.in/pdf/04-mtech-in-ec-vlsi-des-curriculum-structure-and-content-2025-2027.pdf
  ## Page 1

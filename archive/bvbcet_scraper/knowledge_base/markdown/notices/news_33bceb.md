@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "notices"
+subcategory: ""
+document_type: "act"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/news-details/two-international-conferences-,ictiee-iasf-inaugurated-at-kle-technological-universityhubbballi/269"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["education", "engineering", "ictiee", "news", "technological", "university"]
+aliases: ["CSE", "CS", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/hubballi/news-details/two-international-conferences-,ictiee-iasf-inaugurated-at-kle-technological-universityhubbballi/269
  ### Two International Conferences ,ICTIEE & IASF inaugurated at KLE Technological University, Hubbballi.

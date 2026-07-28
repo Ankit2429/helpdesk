@@ -1,3 +1,17 @@
+---
+title: "Centre for Artificial Intelligence Research (CAIR)"
+category: "research"
+subcategory: "centre"
+document_type: "document"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/research-innovation/research-centres/cair"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["artificial", "cair", "centre", "computing", "intelligence", "research"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # Centre for Artificial Intelligence Research (CAIR)
  **Source URL:** https://www.kletech.ac.in/research-innovation/research-centres/cair
  # Centre for Artificial Intelligence Research (CAIR)

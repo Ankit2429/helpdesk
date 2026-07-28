@@ -1,3 +1,17 @@
+---
+title: "Academic Facilities"
+category: "academics"
+subcategory: "academic"
+document_type: "act"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/campus-life/academic-facilities"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["academic", "classrooms", "facilities", "students", "tech", "university"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # Academic Facilities
  **Source URL:** https://www.kletech.ac.in/campus-life/academic-facilities
  ### Classrooms

@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 251imguf_KLETech-BoardofStudies"
+category: "miscellaneous"
+subcategory: ""
+document_type: "act"
+department: "Automation and Robotics"
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/Uploads/image/251imguf_KLETech-BoardofStudies.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["boardofstudies", "chancellor", "document", "member", "nominated", "professor", "vice"]
+aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "EEE", "EE", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: 251imguf_KLETech-BoardofStudies
  **PDF Source:** https://www.kletech.ac.in/Uploads/image/251imguf_KLETech-BoardofStudies.pdf
  ## Page 1

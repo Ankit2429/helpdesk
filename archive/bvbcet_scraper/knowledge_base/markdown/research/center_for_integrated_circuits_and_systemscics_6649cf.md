@@ -1,3 +1,17 @@
+---
+title: "Center for Integrated Circuits and Systems(CICS)"
+category: "research"
+subcategory: "center"
+document_type: "document"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/research/center-for-integrated-circuits-and-systems-cics"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["center", "cics", "circuits", "integrated", "systems"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # Center for Integrated Circuits and Systems(CICS)
  **Source URL:** https://www.kletech.ac.in/research/center-for-integrated-circuits-and-systems-cics
  # Center for Integrated Circuits and Systems(CICS)

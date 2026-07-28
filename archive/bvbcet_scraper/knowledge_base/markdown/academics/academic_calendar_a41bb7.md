@@ -1,3 +1,17 @@
+---
+title: "Academic Calendar"
+category: "academics"
+subcategory: "academic"
+document_type: "act"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/academic/academic-calendar"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["academic", "calendar", "https", "programme", "tech"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # Academic Calendar
  **Source URL:** https://www.kletech.ac.in/hubballi/academic/academic-calendar
  # Academic Calendar

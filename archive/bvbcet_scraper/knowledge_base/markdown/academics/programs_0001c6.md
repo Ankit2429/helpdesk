@@ -1,3 +1,17 @@
+---
+title: "Programs"
+category: "academics"
+subcategory: "programs"
+document_type: "act"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/course-detail/m-tech-design-engineering/hubballi"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["bachelor", "computer", "electronics", "engineering", "programs", "science"]
+aliases: ["ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE"]
+last_modified: "2026-07-28"
+---
 # Programs
  **Source URL:** https://www.kletech.ac.in/course-detail/m-tech-design-engineering/hubballi
  ### Undergraduate

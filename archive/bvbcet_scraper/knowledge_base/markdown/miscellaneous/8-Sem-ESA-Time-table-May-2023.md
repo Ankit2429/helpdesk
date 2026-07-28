@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 8-Sem-ESA-Time-table-May-2023"
+category: "miscellaneous"
+subcategory: ""
+document_type: "timetable"
+department: "BIOTECHNOLOGY"
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/pdf/8-Sem-ESA-Time-table-May-2023.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["course", "document", "esa", "examinations", "may", "sem", "semester", "table", "theory", "time"]
+aliases: ["ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE"]
+last_modified: "2026-07-28"
+---
 # PDF Document: 8-Sem-ESA-Time-table-May-2023
  **PDF Source:** https://www.kletech.ac.in/pdf/8-Sem-ESA-Time-table-May-2023.pdf
  ## Page 1

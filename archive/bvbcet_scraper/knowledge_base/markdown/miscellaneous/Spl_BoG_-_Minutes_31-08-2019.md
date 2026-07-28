@@ -1,3 +1,17 @@
+---
+title: "PDF Document: Spl_BoG_-_Minutes_31-08-2019"
+category: "miscellaneous"
+subcategory: "Spl"
+document_type: "minutes"
+department: "Automation and Robotics"
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/pdf/Spl_BoG_-_Minutes_31-08-2019.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["academic", "approve", "chancellor", "document", "technological", "university"]
+aliases: ["ECE", "EC", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: Spl_BoG_-_Minutes_31-08-2019
  **PDF Source:** https://www.kletech.ac.in/pdf/Spl_BoG_-_Minutes_31-08-2019.pdf
  ## Page 1

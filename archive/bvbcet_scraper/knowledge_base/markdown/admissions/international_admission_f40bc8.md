@@ -1,3 +1,17 @@
+---
+title: "International Admission"
+category: "admissions"
+subcategory: "international"
+document_type: "act"
+department: "Education"
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/admission/international-admission"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["admission", "certificate", "education", "examination", "international", "school", "secondary"]
+aliases: ["CSE", "CS"]
+last_modified: "2026-07-28"
+---
 # International Admission
  **Source URL:** https://www.kletech.ac.in/admission/international-admission
  ### Overview

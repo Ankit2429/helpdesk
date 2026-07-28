@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 256imguf_kle_tech_anti_ragging_committee"
+category: "miscellaneous"
+subcategory: ""
+document_type: "act"
+department: "Computer Science"
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/Uploads/image/256imguf_kle_tech_anti_ragging_committee.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["document", "hubballi", "member", "registrar", "technological", "university"]
+aliases: ["ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: 256imguf_kle_tech_anti_ragging_committee
  **PDF Source:** https://www.kletech.ac.in/Uploads/image/256imguf_kle_tech_anti_ragging_committee.pdf
  ## Page 1

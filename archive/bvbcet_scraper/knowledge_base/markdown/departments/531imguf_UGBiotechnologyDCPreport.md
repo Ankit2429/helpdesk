@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 531imguf_UGBiotechnologyDCPreport"
+category: "departments"
+subcategory: ""
+document_type: "act"
+department: "the program considered for accreditation as above"
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/Uploads/image/531imguf_UGBiotechnologyDCPreport.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["document", "faculty", "program", "students", "table", "year"]
+aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE", "KLETech", "KLE Tech", "BVB", "BVBCET"]
+last_modified: "2026-07-28"
+---
 # PDF Document: 531imguf_UGBiotechnologyDCPreport
  **PDF Source:** https://www.kletech.ac.in/Uploads/image/531imguf_UGBiotechnologyDCPreport.pdf
  ## Page 1

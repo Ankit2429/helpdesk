@@ -1,3 +1,17 @@
+---
+title: "PDF Document: Revised-4th_sem-MBA-MCA-COE-2022-23"
+category: "miscellaneous"
+subcategory: ""
+document_type: "minutes"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/pdf/Revised-4th sem-MBA-MCA-COE-2022-23.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["coe", "date", "document", "july", "june", "last", "mba", "mca", "minor", "revised"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # PDF Document: Revised-4th_sem-MBA-MCA-COE-2022-23
  **PDF Source:** https://www.kletech.ac.in/pdf/Revised-4th sem-MBA-MCA-COE-2022-23.pdf
  ## Page 1

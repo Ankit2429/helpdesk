@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "downloads"
+subcategory: ""
+document_type: "document"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/news-detail/kle-technological-universitys-iic-shines-with-4-star-rating-in-swro-zones-innovation-performance-2022-23/147"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["innovation", "news", "star", "technological", "university"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/news-detail/kle-technological-universitys-iic-shines-with-4-star-rating-in-swro-zones-innovation-performance-2022-23/147
  ### KLE Technological University's IIC Shines with 4-Star Rating in SWRO Zone's Innovation Performance 2022-23

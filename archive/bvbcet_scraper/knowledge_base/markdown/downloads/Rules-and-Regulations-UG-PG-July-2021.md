@@ -1,3 +1,17 @@
+---
+title: "PDF Document: Rules-and-Regulations-UG-PG-July-2021"
+category: "downloads"
+subcategory: ""
+document_type: "syllabus"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/pdf/Rules-and-Regulations-UG-PG-July-2021.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["course", "courses", "document", "examinations", "july", "regulations", "rules", "shall", "student"]
+aliases: ["HOD", "Head of Department", "CSE", "CS", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: Rules-and-Regulations-UG-PG-July-2021
  **PDF Source:** https://www.kletech.ac.in/pdf/Rules-and-Regulations-UG-PG-July-2021.pdf
  ## Page 1

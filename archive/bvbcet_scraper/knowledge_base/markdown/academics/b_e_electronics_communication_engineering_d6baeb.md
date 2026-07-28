@@ -1,3 +1,17 @@
+---
+title: "B E Electronics & Communication Engineering"
+category: "academics"
+subcategory: "b"
+document_type: "syllabus"
+department: "Electronics and Communication"
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/course/bachelor-of-engineering-ece"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["college", "communication", "components", "connected", "course", "electronics", "engineering", "future", "semester", "students"]
+aliases: ["HOD", "Head of Department", "CSE", "CS", "ECE", "EC", "EEE", "EE"]
+last_modified: "2026-07-28"
+---
 # B E Electronics & Communication Engineering
  **Source URL:** https://www.kletech.ac.in/hubballi/course/bachelor-of-engineering-ece
  ## Engineering the Connected Future

@@ -1,3 +1,17 @@
+---
+title: "PDF Document: bachelor-computer-applications-curriculum-2023-2026"
+category: "academics"
+subcategory: ""
+document_type: "syllabus"
+department: "Computer Applications"
+campus: ""
+source_url: "https://www.kletech.ac.in/pdf/bachelor-computer-applications-curriculum-2023-2026.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["applications", "bachelor", "computer", "course", "curriculum", "data", "document", "marks", "unit", "using"]
+aliases: ["HOD", "Head of Department", "CSE", "CS", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: bachelor-computer-applications-curriculum-2023-2026
  **PDF Source:** https://www.kletech.ac.in/pdf/bachelor-computer-applications-curriculum-2023-2026.pdf
  ## Page 1

@@ -1,3 +1,17 @@
+---
+title: "Overview"
+category: "about"
+subcategory: ""
+document_type: "act"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/infrastructure/library/overview"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["access", "books", "central", "library", "management", "overview"]
+aliases: ["HOD", "Head of Department", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # Overview
  **Source URL:** https://www.kletech.ac.in/hubballi/infrastructure/library/overview
  # Overview

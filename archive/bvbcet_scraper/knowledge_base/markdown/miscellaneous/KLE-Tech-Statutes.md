@@ -1,3 +1,17 @@
+---
+title: "PDF Document: KLE-Tech-Statutes"
+category: "miscellaneous"
+subcategory: ""
+document_type: "minutes"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/pdf/KLE-Tech-Statutes.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["board", "chancellor", "council", "document", "kle", "shall", "statutes", "tech", "university"]
+aliases: ["HOD", "Head of Department", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: KLE-Tech-Statutes
  **PDF Source:** https://www.kletech.ac.in/pdf/KLE-Tech-Statutes.pdf
  ## Page 1

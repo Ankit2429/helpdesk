@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "notices"
+subcategory: ""
+document_type: "act"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/news-detail/shrishti-2022/141"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["news", "process", "project", "team", "technological", "university"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/news-detail/shrishti-2022/141
  ### Shrishti - 2022

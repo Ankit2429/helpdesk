@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 9imguf_AQAR2021-22ResubmittedAugust2023"
+category: "miscellaneous"
+subcategory: ""
+document_type: "syllabus"
+department: "MSME"
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/Uploads/image/9imguf_AQAR2021-22ResubmittedAugust2023.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["document", "file", "university", "upload", "view", "year"]
+aliases: ["HOD", "Head of Department", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: 9imguf_AQAR2021-22ResubmittedAugust2023
  **PDF Source:** https://www.kletech.ac.in/Uploads/image/9imguf_AQAR2021-22ResubmittedAugust2023.pdf
  ## Page 1

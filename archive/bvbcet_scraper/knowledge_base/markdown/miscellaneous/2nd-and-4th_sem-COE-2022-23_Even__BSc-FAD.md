@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 2nd-and-4th_sem-COE-2022-23_Even__BSc-FAD"
+category: "miscellaneous"
+subcategory: ""
+document_type: "minutes"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/pdf/2nd-and-4th sem-COE-2022-23(Even)_BSc-FAD.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["coe", "date", "document", "fad", "july", "june", "last", "minor"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # PDF Document: 2nd-and-4th_sem-COE-2022-23_Even__BSc-FAD
  **PDF Source:** https://www.kletech.ac.in/pdf/2nd-and-4th sem-COE-2022-23(Even)_BSc-FAD.pdf
  ## Page 1

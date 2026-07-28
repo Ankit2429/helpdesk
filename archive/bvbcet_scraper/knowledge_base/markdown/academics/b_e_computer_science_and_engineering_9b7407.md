@@ -1,3 +1,17 @@
+---
+title: "B E Computer Science and Engineering"
+category: "academics"
+subcategory: "b"
+document_type: "syllabus"
+department: "Electronics and Communication"
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/course/bachelor-of-engineering-cse"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["college", "components", "computer", "course", "credits", "digital", "engineering", "future", "have", "powering"]
+aliases: ["HOD", "Head of Department", "CSE", "CS", "ECE", "EC", "EEE", "EE"]
+last_modified: "2026-07-28"
+---
 # B E Computer Science and Engineering
  **Source URL:** https://www.kletech.ac.in/hubballi/course/bachelor-of-engineering-cse
  ## Powering the Digital Future

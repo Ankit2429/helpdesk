@@ -1,3 +1,17 @@
+---
+title: "MS by Research"
+category: "academics"
+subcategory: "ms"
+document_type: "document"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/research/our-programs/ms-by-research"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["engineering", "industry", "program", "pursue", "research"]
+aliases: ["ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC"]
+last_modified: "2026-07-28"
+---
 # MS by Research
  **Source URL:** https://www.kletech.ac.in/research/our-programs/ms-by-research
  ### MS by Research

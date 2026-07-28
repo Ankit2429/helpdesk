@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "notices"
+subcategory: ""
+document_type: "document"
+department: ""
+campus: "Bengaluru"
+source_url: "https://www.kletech.ac.in/news-detail/kle-techs-win-at-sae-india-aerothon-competition/340"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["competition", "mission", "news", "team", "technological", "university"]
+aliases: ["CSE", "CS", "ECE", "EC", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/news-detail/kle-techs-win-at-sae-india-aerothon-competition/340
  ### KLE Tech's win at SAE India Aerothon competition

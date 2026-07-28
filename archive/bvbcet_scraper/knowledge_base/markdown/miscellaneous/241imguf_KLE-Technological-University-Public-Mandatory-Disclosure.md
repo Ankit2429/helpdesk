@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 241imguf_KLE-Technological-University-Public-Mandatory-Disclosure"
+category: "miscellaneous"
+subcategory: ""
+document_type: "syllabus"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/Uploads/image/241imguf_KLE-Technological-University-Public-Mandatory-Disclosure.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["disclosure", "document", "education", "https", "kletech", "mandatory", "public", "research", "technological", "university"]
+aliases: ["HOD", "Head of Department", "CSE", "CS", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: 241imguf_KLE-Technological-University-Public-Mandatory-Disclosure
  **PDF Source:** https://www.kletech.ac.in/Uploads/image/241imguf_KLE-Technological-University-Public-Mandatory-Disclosure.pdf
  ## Page 1

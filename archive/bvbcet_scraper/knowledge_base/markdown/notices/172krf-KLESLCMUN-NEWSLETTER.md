@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 172krf-KLESLCMUN-NEWSLETTER"
+category: "notices"
+subcategory: ""
+document_type: "minutes"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/uploads/Files/172krf-KLESLCMUN-NEWSLETTER.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["committee", "delegate", "delegates", "document", "kleslcmun", "mali", "newsletter", "were"]
+aliases: ["HOD", "Head of Department"]
+last_modified: "2026-07-28"
+---
 # PDF Document: 172krf-KLESLCMUN-NEWSLETTER
  **PDF Source:** https://www.kletech.ac.in/uploads/Files/172krf-KLESLCMUN-NEWSLETTER.pdf
  ## Page 1

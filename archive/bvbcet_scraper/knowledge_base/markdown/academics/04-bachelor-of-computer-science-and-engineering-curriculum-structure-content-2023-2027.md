@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 04-bachelor-of-computer-science-and-engineering-curriculum-structure-content-2023-2027"
+category: "academics"
+subcategory: ""
+document_type: "syllabus"
+department: "Mechanical Engineering"
+campus: ""
+source_url: "https://www.kletech.ac.in/pdf/04-bachelor-of-computer-science-and-engineering-curriculum-structure-content-2023-2027.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["assessment", "bachelor", "computer", "content", "course", "curriculum", "document", "engineering", "marks", "science"]
+aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: 04-bachelor-of-computer-science-and-engineering-curriculum-structure-content-2023-2027
  **PDF Source:** https://www.kletech.ac.in/pdf/04-bachelor-of-computer-science-and-engineering-curriculum-structure-content-2023-2027.pdf
  ## Page 1

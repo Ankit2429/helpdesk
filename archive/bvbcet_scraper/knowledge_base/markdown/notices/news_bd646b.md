@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "notices"
+subcategory: ""
+document_type: "act"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/news-details/rees-2024-symposium-on-engineering-education-inaugurated-at-kle-techhubballi/271"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["education", "engineering", "news", "rees", "symposium", "university"]
+aliases: ["CSE", "CS", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/hubballi/news-details/rees-2024-symposium-on-engineering-education-inaugurated-at-kle-techhubballi/271
  ### REES-2024 Symposium on Engineering Education Inaugurated at KLE Tech, Hubballi

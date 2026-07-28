@@ -1,3 +1,17 @@
+---
+title: "M.Tech Structural Engineering"
+category: "academics"
+subcategory: "mtech"
+document_type: "syllabus"
+department: "Civil Engineering offers a post graduate program o"
+campus: "Belagavi"
+source_url: "https://www.kletech.ac.in/course/m-tech-structural-engineering"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["awards", "civil", "college", "degree", "department", "duration", "engineering", "graduate", "master", "offers"]
+aliases: ["HOD", "Head of Department", "CSE", "CS", "ECE", "EC", "EEE", "EE"]
+last_modified: "2026-07-28"
+---
 # M.Tech Structural Engineering
  **Source URL:** https://www.kletech.ac.in/course/m-tech-structural-engineering
  ## The Department of Civil Engineering offers a post graduate program of duration 2 years (4 semesters) that awards the Master of Technology degree in Structural Engineering.

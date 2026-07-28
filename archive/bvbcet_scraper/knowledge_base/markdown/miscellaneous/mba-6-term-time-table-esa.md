@@ -1,3 +1,17 @@
+---
+title: "PDF Document: mba-6-term-time-table-esa"
+category: "miscellaneous"
+subcategory: ""
+document_type: "timetable"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/pdf/mba-6-term-time-table-esa.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["document", "esa", "hubballi", "management", "mba", "table", "term", "time"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # PDF Document: mba-6-term-time-table-esa
  **PDF Source:** https://www.kletech.ac.in/hubballi/pdf/mba-6-term-time-table-esa.pdf
  ## Page 1

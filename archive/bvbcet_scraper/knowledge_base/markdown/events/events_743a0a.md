@@ -1,3 +1,17 @@
+---
+title: "Events"
+category: "events"
+subcategory: "events"
+document_type: "document"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/events-details/aicwic/416"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["aicwic", "computing", "events", "hubli", "infosys", "women"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # Events
  **Source URL:** https://www.kletech.ac.in/hubballi/events-details/aicwic/416
  ### AICWiC

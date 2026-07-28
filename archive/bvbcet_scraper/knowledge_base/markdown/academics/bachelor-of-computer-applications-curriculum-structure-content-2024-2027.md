@@ -1,3 +1,17 @@
+---
+title: "PDF Document: bachelor-of-computer-applications-curriculum-structure-content-2024-2027"
+category: "academics"
+subcategory: ""
+document_type: "syllabus"
+department: "Computer Applications Program"
+campus: ""
+source_url: "https://www.kletech.ac.in/pdf/bachelor-of-computer-applications-curriculum-structure-content-2024-2027.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["applications", "bachelor", "computer", "content", "course", "curriculum", "data", "document", "hours", "marks"]
+aliases: ["HOD", "Head of Department", "CSE", "CS", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: bachelor-of-computer-applications-curriculum-structure-content-2024-2027
  **PDF Source:** https://www.kletech.ac.in/pdf/bachelor-of-computer-applications-curriculum-structure-content-2024-2027.pdf
  ## Page 1

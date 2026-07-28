@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "notices"
+subcategory: ""
+document_type: "act"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/news-detail/kle-tech-republic-day-cup-chess-tournament-inaugurated/429"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["chess", "news", "tech", "technological", "tournament", "university"]
+aliases: ["CSE", "CS", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/news-detail/kle-tech-republic-day-cup-chess-tournament-inaugurated/429
  ### KLE TECH Republic Day Cup Chess Tournament Inaugurated

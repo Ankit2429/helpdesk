@@ -1,3 +1,17 @@
+---
+title: "PDF Document: Backlog-ESA-Time-Table-May-2023"
+category: "miscellaneous"
+subcategory: ""
+document_type: "timetable"
+department: "AUTOMATION AND ROBOTICS"
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/pdf/Backlog-ESA-Time-Table-May-2023.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["backlog", "code", "course", "document", "esa", "examinations", "india", "may", "semester", "table"]
+aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE"]
+last_modified: "2026-07-28"
+---
 # PDF Document: Backlog-ESA-Time-Table-May-2023
  **PDF Source:** https://www.kletech.ac.in/hubballi/pdf/Backlog-ESA-Time-Table-May-2023.pdf
  ## Page 1

@@ -1,3 +1,17 @@
+---
+title: "B.B.A. LL.B. (Hons.)"
+category: "academics"
+subcategory: "bba"
+document_type: "act"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/coursedetail.aspx?mpgid=30&pgidtrail=30&courseid=89"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["administration", "bachelors", "business", "combines", "commenced", "course", "degree", "examination", "hons", "integrated"]
+aliases: ["HOD", "Head of Department", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # B.B.A. LL.B. (Hons.)
  **Source URL:** https://www.kletech.ac.in/coursedetail.aspx?mpgid=30&pgidtrail=30&courseid=89
  ## The 5-year B.B.A.LL.B. (Hons.) integrated programme commenced from 2026 and combines Bachelors' degree program in Business Administration together with the Bachelors' Degree program in Law.

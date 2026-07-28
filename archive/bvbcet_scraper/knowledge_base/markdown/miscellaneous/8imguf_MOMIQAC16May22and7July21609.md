@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 8imguf_MOMIQAC16May22and7July21609"
+category: "miscellaneous"
+subcategory: ""
+document_type: "notice"
+department: "Member"
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/Uploads/image/8imguf_MOMIQAC16May22and7July21609.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["dean", "document", "lqac", "meeting", "member", "naac"]
+aliases: ["HOD", "Head of Department", "CSE", "CS"]
+last_modified: "2026-07-28"
+---
 # PDF Document: 8imguf_MOMIQAC16May22and7July21609
  **PDF Source:** https://www.kletech.ac.in/Uploads/image/8imguf_MOMIQAC16May22and7July21609.pdf
  ## Page 1

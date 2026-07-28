@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "notices"
+subcategory: ""
+document_type: "document"
+department: ""
+campus: "Bengaluru"
+source_url: "https://www.kletech.ac.in/news-detail/grand-alumni-meet-graduation-day-2024-at-kle-law-collegebengaluru/285"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["alumni", "college", "news", "technological", "university"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/news-detail/grand-alumni-meet-graduation-day-2024-at-kle-law-collegebengaluru/285
  ### Grand Alumni Meet & Graduation Day 2024 at KLE Law College, Bengaluru

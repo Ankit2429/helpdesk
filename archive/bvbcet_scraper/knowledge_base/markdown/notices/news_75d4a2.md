@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "notices"
+subcategory: ""
+document_type: "notice"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/news-detail/day-2-national-symposium-on-polymer-science-highlights-sustainability-and-innovation-at-kle-tech/408"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["news", "polymer", "science", "symposium", "technological", "university"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/news-detail/day-2-national-symposium-on-polymer-science-highlights-sustainability-and-innovation-at-kle-tech/408
  ### Day 2 - National Symposium on Polymer Science Highlights Sustainability and Innovation at KLE Tech

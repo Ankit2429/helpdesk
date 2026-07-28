@@ -1,3 +1,17 @@
+---
+title: "Student Council"
+category: "academics"
+subcategory: "student"
+document_type: "act"
+department: "Biotechnology"
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/academic/student-council"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["council", "department", "electronics", "engineering", "professor", "school", "student"]
+aliases: ["ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE"]
+last_modified: "2026-07-28"
+---
 # Student Council
  **Source URL:** https://www.kletech.ac.in/hubballi/academic/student-council
  ### Dr. Sanjay Kotabagi

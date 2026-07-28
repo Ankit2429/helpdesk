@@ -1,3 +1,17 @@
+---
+title: "Student Personality Development"
+category: "infrastructure"
+subcategory: "student"
+document_type: "document"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/campus-life/student-personality-development"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["communication", "development", "personality", "skills", "student", "visit", "workshop"]
+aliases: ["HOD", "Head of Department", "CSE", "CS"]
+last_modified: "2026-07-28"
+---
 # Student Personality Development
  **Source URL:** https://www.kletech.ac.in/campus-life/student-personality-development
  ### Personality and Technical Skill Enhancement

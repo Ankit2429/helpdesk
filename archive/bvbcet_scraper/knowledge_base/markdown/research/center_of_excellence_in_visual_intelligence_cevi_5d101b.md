@@ -1,3 +1,17 @@
+---
+title: "Center of Excellence in Visual Intelligence (CEVI)"
+category: "research"
+subcategory: "center"
+document_type: "act"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/research/center-of-excellence-in-visual-intelligence-cevi"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["acquisition", "center", "cevi", "data", "excellence", "intelligence", "visual"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # Center of Excellence in Visual Intelligence (CEVI)
  **Source URL:** https://www.kletech.ac.in/research/center-of-excellence-in-visual-intelligence-cevi
  # Center of Excellence in Visual Intelligence (CEVI)

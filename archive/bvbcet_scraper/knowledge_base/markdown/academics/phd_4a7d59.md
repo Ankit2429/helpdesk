@@ -1,3 +1,17 @@
+---
+title: "Ph.D"
+category: "academics"
+subcategory: "phd"
+document_type: "act"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/research/our-programs/phd"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["area", "engineering", "focus", "research", "supervisors"]
+aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE"]
+last_modified: "2026-07-28"
+---
 # Ph.D
  **Source URL:** https://www.kletech.ac.in/research/our-programs/phd
  #### Ph.D. Programs at Research Centers: A Gateway to Knowledge-Driven Growth

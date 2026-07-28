@@ -1,3 +1,17 @@
+---
+title: "Bachelors of Business Administration"
+category: "academics"
+subcategory: "bachelors"
+document_type: "syllabus"
+department: "Electronics and Communication"
+campus: "Belagavi"
+source_url: "https://www.kletech.ac.in/course-detail/bachelors-of-business-administration/27"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["administration", "aimed", "bachelor", "bachelors", "bba", "business", "careers", "challenging", "college", "course"]
+aliases: ["HOD", "Head of Department", "CSE", "CS", "ECE", "EC", "EEE", "EE"]
+last_modified: "2026-07-28"
+---
 # Bachelors of Business Administration
  **Source URL:** https://www.kletech.ac.in/course-detail/bachelors-of-business-administration/27
  ## The Bachelor of Business Administration (BBA) course is a full-time, Four-year, undergraduate course aimed at preparing young graduates to take up challenging careers in business and industry.

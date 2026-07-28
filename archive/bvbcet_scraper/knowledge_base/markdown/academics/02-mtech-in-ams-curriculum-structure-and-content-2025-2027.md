@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 02-mtech-in-ams-curriculum-structure-and-content-2025-2027"
+category: "academics"
+subcategory: ""
+document_type: "syllabus"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/pdf/02-mtech-in-ams-curriculum-structure-and-content-2025-2027.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["ams", "chapter", "content", "course", "curriculum", "design", "document", "management", "manufacturing", "mtech"]
+aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: 02-mtech-in-ams-curriculum-structure-and-content-2025-2027
  **PDF Source:** https://www.kletech.ac.in/pdf/02-mtech-in-ams-curriculum-structure-and-content-2025-2027.pdf
  ## Page 1

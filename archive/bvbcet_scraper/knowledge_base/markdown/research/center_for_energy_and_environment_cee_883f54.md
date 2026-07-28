@@ -1,3 +1,17 @@
+---
+title: "Center for Energy and Environment (CEE)"
+category: "research"
+subcategory: "center"
+document_type: "act"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/research/cee"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["bioelectricity", "cee", "center", "electrocatalytic", "energy", "environment", "hydrogen", "nanomaterialsfor", "production", "research"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # Center for Energy and Environment (CEE)
  **Source URL:** https://www.kletech.ac.in/research/cee
  # Center for Energy and Environment (CEE)

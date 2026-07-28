@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "notices"
+subcategory: ""
+document_type: "document"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/news-detail/victorious-skies-team-aerokle-triumphs-in-autonomous-flight-at-saeindia-aerothon-2023!/275"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["aerokle", "autonomous", "flight", "news", "team", "technological"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/news-detail/victorious-skies-team-aerokle-triumphs-in-autonomous-flight-at-saeindia-aerothon-2023!/275
  ### Victorious Skies: Team AeroKLE Triumphs in Autonomous Flight at SAEINDIA Aerothon 2023!

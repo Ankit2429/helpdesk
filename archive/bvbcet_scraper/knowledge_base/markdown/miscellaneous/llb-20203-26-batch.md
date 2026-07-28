@@ -1,3 +1,17 @@
+---
+title: "PDF Document: llb-20203-26-batch"
+category: "miscellaneous"
+subcategory: ""
+document_type: "syllabus"
+department: ""
+campus: "Bengaluru"
+source_url: "https://www.kletech.ac.in/pdf/llb-20203-26-batch.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["batch", "document", "edition", "hours", "llb", "marks", "rights", "unit"]
+aliases: ["HOD", "Head of Department", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: llb-20203-26-batch
  **PDF Source:** https://www.kletech.ac.in/pdf/llb-20203-26-batch.pdf
  ## Page 1

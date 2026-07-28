@@ -1,3 +1,17 @@
+---
+title: "Ph.D. in Biotechnology"
+category: "academics"
+subcategory: "phd"
+document_type: "brochure"
+department: "Biotechnology has faculties working in the researc"
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/course/phd-in-biotechnology"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["areas", "biotechnology", "department", "faculties", "full", "has", "namely", "part", "research", "scholars"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # Ph.D. in Biotechnology
  **Source URL:** https://www.kletech.ac.in/hubballi/course/phd-in-biotechnology
  ## Department of Biotechnology has faculties working in the research areas namely,

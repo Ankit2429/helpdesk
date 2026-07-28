@@ -1,3 +1,17 @@
+---
+title: "Careers"
+category: "placements"
+subcategory: "careers"
+document_type: "syllabus"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/careers"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["careers", "current", "faculty", "openings", "research", "technological", "university"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # Careers
  **Source URL:** https://www.kletech.ac.in/careers
  # Careers

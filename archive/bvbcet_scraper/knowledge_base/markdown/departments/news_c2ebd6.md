@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "departments"
+subcategory: ""
+document_type: "act"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/news-detail/reuniting-after-35-years!-bvbcet-198889-mechanical-and-ip-alumni-meet-2023/143"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["alumni", "bvbcet", "event", "meet", "news", "prof"]
+aliases: ["ME", "Mechanical Dept", "KLETech", "KLE Tech", "BVB", "BVBCET"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/news-detail/reuniting-after-35-years!-bvbcet-198889-mechanical-and-ip-alumni-meet-2023/143
  ### Reuniting After 35 Years! BVBCET 1988/89 Mechanical and IP Alumni Meet 2023

@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 5th_BOG_Minutes"
+category: "miscellaneous"
+subcategory: ""
+document_type: "minutes"
+department: "Electronics and"
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/pdf/5th_BOG_Minutes.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["asst", "department", "document", "engineering", "prof", "year"]
+aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: 5th_BOG_Minutes
  **PDF Source:** https://www.kletech.ac.in/pdf/5th_BOG_Minutes.pdf
  ## Page 1

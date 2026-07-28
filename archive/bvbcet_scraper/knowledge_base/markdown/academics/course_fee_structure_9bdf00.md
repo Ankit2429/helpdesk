@@ -1,3 +1,17 @@
+---
+title: "Course & Fee Structure"
+category: "academics"
+subcategory: "course"
+document_type: "document"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/cpage.aspx?mpgid=178&pgid1=179&pgidtrail=184"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["course", "exam", "fee", "fees", "semester", "structure", "total"]
+aliases: ["CSE", "CS"]
+last_modified: "2026-07-28"
+---
 # Course & Fee Structure
  **Source URL:** https://www.kletech.ac.in/hubballi/cpage.aspx?mpgid=178&pgid1=179&pgidtrail=184
  # Course & Fee Structure

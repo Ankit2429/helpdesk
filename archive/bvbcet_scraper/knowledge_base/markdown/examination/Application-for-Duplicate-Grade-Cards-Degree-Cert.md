@@ -1,3 +1,17 @@
+---
+title: "PDF Document: Application-for-Duplicate-Grade-Cards-Degree-Cert"
+category: "examination"
+subcategory: ""
+document_type: "act"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/pdf/Application-for-Duplicate-Grade-Cards-Degree-Cert.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["application", "cards", "cert", "degree", "document", "duplicate", "fees", "grade"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: Application-for-Duplicate-Grade-Cards-Degree-Cert
  **PDF Source:** https://www.kletech.ac.in/pdf/Application-for-Duplicate-Grade-Cards-Degree-Cert.pdf
  ## Page 1

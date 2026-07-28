@@ -1,3 +1,17 @@
+---
+title: "On Campus Facilities"
+category: "infrastructure"
+subcategory: "on"
+document_type: "act"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/infrastructure/on-campus-facilities"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["campus", "facilities", "provide", "students", "tech", "university"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # On Campus Facilities
  **Source URL:** https://www.kletech.ac.in/hubballi/infrastructure/on-campus-facilities
  ### Hostels

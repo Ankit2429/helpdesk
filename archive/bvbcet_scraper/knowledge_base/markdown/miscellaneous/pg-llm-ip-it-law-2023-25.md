@@ -1,3 +1,17 @@
+---
+title: "PDF Document: pg-llm-ip-it-law-2023-25"
+category: "miscellaneous"
+subcategory: ""
+document_type: "syllabus"
+department: "Law"
+campus: ""
+source_url: "https://www.kletech.ac.in/pdf/pg-llm-ip-it-law-2023-25.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["course", "document", "law", "legal", "llm", "marks", "research", "unit"]
+aliases: ["HOD", "Head of Department", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: pg-llm-ip-it-law-2023-25
  **PDF Source:** https://www.kletech.ac.in/pdf/pg-llm-ip-it-law-2023-25.pdf
  ## Page 1

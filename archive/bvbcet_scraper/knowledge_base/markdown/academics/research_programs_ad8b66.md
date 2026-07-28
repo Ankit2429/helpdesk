@@ -1,3 +1,17 @@
+---
+title: "Research Programs"
+category: "academics"
+subcategory: "research"
+document_type: "document"
+department: "Automation"
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/research-innovation/research-programs"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["department", "engineering", "programs", "research", "school"]
+aliases: ["ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE"]
+last_modified: "2026-07-28"
+---
 # Research Programs
  **Source URL:** https://www.kletech.ac.in/hubballi/research-innovation/research-programs
  # Research Programs

@@ -1,3 +1,17 @@
+---
+title: "SEDG Cell"
+category: "miscellaneous"
+subcategory: "sedg"
+document_type: "act"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/cpage.aspx?mpgid=20&pgid1=26&pgidtrail=778"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["cell", "sedg", "socio", "students", "support"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # SEDG Cell
  **Source URL:** https://www.kletech.ac.in/cpage.aspx?mpgid=20&pgid1=26&pgidtrail=778
  ### Introduction

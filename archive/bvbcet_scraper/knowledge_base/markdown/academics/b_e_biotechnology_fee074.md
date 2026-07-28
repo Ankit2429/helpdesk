@@ -1,3 +1,17 @@
+---
+title: "B E Biotechnology"
+category: "academics"
+subcategory: "b"
+document_type: "act"
+department: "Biotechnology"
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/course/bachelor-of-engineering-biotechnology"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["better", "biology", "bioprocess", "biotechnology", "components", "course", "design", "engineering", "program", "tomorrow"]
+aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "EEE", "EE", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # B E Biotechnology
  **Source URL:** https://www.kletech.ac.in/hubballi/course/bachelor-of-engineering-biotechnology
  ## Engineering Biology for a Better Tomorrow

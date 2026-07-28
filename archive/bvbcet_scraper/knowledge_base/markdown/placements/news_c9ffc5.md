@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "placements"
+subcategory: ""
+document_type: "document"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/news-detail/defence-career-expo/435"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["defence", "news", "tech", "technological", "university"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/news-detail/defence-career-expo/435
  ### Defence Career Expo

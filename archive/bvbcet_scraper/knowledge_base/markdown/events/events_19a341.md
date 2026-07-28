@@ -1,3 +1,17 @@
+---
+title: "Events"
+category: "events"
+subcategory: "events"
+document_type: "document"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/events-detail/team-aerokle-securing-an-all-india-rank-of-2nd-in-sae-iss-addc/430"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["addc", "aerokle", "events", "india", "team", "technological"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # Events
  **Source URL:** https://www.kletech.ac.in/events-detail/team-aerokle-securing-an-all-india-rank-of-2nd-in-sae-iss-addc/430
  ### Team AeroKLE securing an All India Rank of 2nd in SAE ISS ADDC

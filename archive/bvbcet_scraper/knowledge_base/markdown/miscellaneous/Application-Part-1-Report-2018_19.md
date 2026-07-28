@@ -1,3 +1,17 @@
+---
+title: "PDF Document: Application-Part-1-Report-2018_19"
+category: "miscellaneous"
+subcategory: ""
+document_type: "notice"
+department: "Electrical"
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/pdf/Application-Part-1-Report-2018_19.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["application", "document", "engineering", "graduate", "part", "ready", "report", "school", "technology"]
+aliases: ["HOD", "Head of Department", "CSE", "CS", "EEE", "EE", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: Application-Part-1-Report-2018_19
  **PDF Source:** https://www.kletech.ac.in/pdf/Application-Part-1-Report-2018_19.pdf
  ## Page 1

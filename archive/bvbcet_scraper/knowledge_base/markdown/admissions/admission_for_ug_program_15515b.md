@@ -1,3 +1,17 @@
+---
+title: "Admission for UG Program"
+category: "admissions"
+subcategory: "admission"
+document_type: "act"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/admission/domestic-admission/admission-for-ug-program"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["admission", "bachelor", "distribution", "engineering", "intake", "program", "programs", "seat", "shall", "undergraduate"]
+aliases: ["ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # Admission for UG Program
  **Source URL:** https://www.kletech.ac.in/hubballi/admission/domestic-admission/admission-for-ug-program
  ### Overview

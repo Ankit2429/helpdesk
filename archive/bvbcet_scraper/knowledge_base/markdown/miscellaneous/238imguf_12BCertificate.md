@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 238imguf_12BCertificate"
+category: "miscellaneous"
+subcategory: ""
+document_type: "minutes"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/Uploads/image/238imguf_12BCertificate.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["committee", "document", "expert", "status", "submitted", "university"]
+aliases: ["KLETech", "KLE Tech", "BVB", "BVBCET"]
+last_modified: "2026-07-28"
+---
 # PDF Document: 238imguf_12BCertificate
  **PDF Source:** https://www.kletech.ac.in/Uploads/image/238imguf_12BCertificate.pdf
  ## Page 1

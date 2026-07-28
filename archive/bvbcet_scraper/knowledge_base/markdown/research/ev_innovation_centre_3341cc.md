@@ -1,3 +1,17 @@
+---
+title: "EV Innovation Centre"
+category: "research"
+subcategory: "ev"
+document_type: "document"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/research/ev-innovation-centre"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["centre", "electric", "innovation", "research", "vehicle"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # EV Innovation Centre
  **Source URL:** https://www.kletech.ac.in/research/ev-innovation-centre
  # EV Innovation Centre

@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 2-sem-august-2021"
+category: "miscellaneous"
+subcategory: ""
+document_type: "timetable"
+department: "MASTER OF COMPUTER APPLICATIONS"
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/pdf/2-sem-august-2021.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["august", "course", "design", "document", "engineering", "part", "sem", "session"]
+aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS"]
+last_modified: "2026-07-28"
+---
 # PDF Document: 2-sem-august-2021
  **PDF Source:** https://www.kletech.ac.in/pdf/2-sem-august-2021.pdf
  ## Page 1

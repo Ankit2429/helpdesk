@@ -1,3 +1,17 @@
+---
+title: "Sitemap"
+category: "contact"
+subcategory: "sitemap"
+document_type: "timetable"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/sitemap"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["campus", "centre", "excellence", "graduate", "research", "sitemap"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # Sitemap
  **Source URL:** https://www.kletech.ac.in/sitemap
  # Sitemap

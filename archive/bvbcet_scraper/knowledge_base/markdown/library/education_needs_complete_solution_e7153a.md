@@ -1,3 +1,17 @@
+---
+title: "Education Needs Complete Solution"
+category: "library"
+subcategory: "education"
+document_type: "act"
+department: ""
+campus: ""
+source_url: "https://library.kletech.ac.in/"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["books", "central", "complete", "education", "good", "issue", "kle", "library", "needs", "reading"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # Education Needs Complete Solution
  **Source URL:** https://library.kletech.ac.in/
  #### Admissions Open 2021-22

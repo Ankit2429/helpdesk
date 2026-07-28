@@ -1,3 +1,17 @@
+---
+title: "PDF Document: coe-odd-sem-2024-25"
+category: "miscellaneous"
+subcategory: ""
+document_type: "minutes"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/pdf/coe-odd-sem-2024-25.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["attendance", "coe", "date", "document", "last", "make", "minor", "odd", "sem"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # PDF Document: coe-odd-sem-2024-25
  **PDF Source:** https://www.kletech.ac.in/pdf/coe-odd-sem-2024-25.pdf
  ## Page 1

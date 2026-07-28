@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "notices"
+subcategory: ""
+document_type: "act"
+department: "Commerce at KLE Technological University hosted th"
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/news-detail/kle-technological-university-hosts-entreva-2025-inauguration-ceremony/341"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["entreva", "head", "hosts", "news", "technological", "university"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/news-detail/kle-technological-university-hosts-entreva-2025-inauguration-ceremony/341
  ### KLE Technological University hosts Entreva-2025 Inauguration Ceremony

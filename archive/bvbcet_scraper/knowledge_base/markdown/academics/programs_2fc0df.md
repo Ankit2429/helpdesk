@@ -1,3 +1,17 @@
+---
+title: "Programs"
+category: "academics"
+subcategory: "programs"
+document_type: "document"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/program/engineering/3/1"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["engineering", "facultyengineering", "hubballi", "programs", "research"]
+aliases: ["ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE"]
+last_modified: "2026-07-28"
+---
 # Programs
  **Source URL:** https://www.kletech.ac.in/hubballi/program/engineering/3/1
  # Programs

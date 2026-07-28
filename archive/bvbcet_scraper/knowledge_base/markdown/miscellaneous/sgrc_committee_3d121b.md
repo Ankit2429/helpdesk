@@ -1,3 +1,17 @@
+---
+title: "SGRC Committee"
+category: "miscellaneous"
+subcategory: "sgrc"
+document_type: "document"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/cpage.aspx?mpgid=117&pgidtrail=781"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["committee", "head", "member", "professor", "school", "sgrc"]
+aliases: ["CSE", "CS", "ECE", "EC"]
+last_modified: "2026-07-28"
+---
 # SGRC Committee
  **Source URL:** https://www.kletech.ac.in/cpage.aspx?mpgid=117&pgidtrail=781
  # SGRC Committee

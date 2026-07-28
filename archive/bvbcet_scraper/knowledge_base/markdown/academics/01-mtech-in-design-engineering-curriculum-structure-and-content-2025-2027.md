@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 01-mtech-in-design-engineering-curriculum-structure-and-content-2025-2027"
+category: "academics"
+subcategory: ""
+document_type: "syllabus"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/pdf/01-mtech-in-design-engineering-curriculum-structure-and-content-2025-2027.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["analysis", "content", "curriculum", "design", "document", "engineering", "marks", "method", "mtech", "structure"]
+aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: 01-mtech-in-design-engineering-curriculum-structure-and-content-2025-2027
  **PDF Source:** https://www.kletech.ac.in/pdf/01-mtech-in-design-engineering-curriculum-structure-and-content-2025-2027.pdf
  ## Page 1

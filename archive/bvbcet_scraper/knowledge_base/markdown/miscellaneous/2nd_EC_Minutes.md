@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 2nd_EC_Minutes"
+category: "miscellaneous"
+subcategory: ""
+document_type: "syllabus"
+department: "Electrical"
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/pdf/2nd_EC_Minutes.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["academic", "approve", "council", "document", "technological", "university"]
+aliases: ["ME", "Mechanical Dept", "CSE", "CS", "KLETech", "KLE Tech", "BVB", "BVBCET"]
+last_modified: "2026-07-28"
+---
 # PDF Document: 2nd_EC_Minutes
  **PDF Source:** https://www.kletech.ac.in/pdf/2nd_EC_Minutes.pdf
  ## Page 1

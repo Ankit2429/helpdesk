@@ -1,3 +1,17 @@
+---
+title: "Anti Ragging Committee"
+category: "miscellaneous"
+subcategory: "anti"
+document_type: "document"
+department: "Computer Science"
+campus: ""
+source_url: "https://www.kletech.ac.in/student-support/anti-ragging-committee"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["anti", "committee", "member", "professor", "ragging"]
+aliases: ["CSE", "CS", "ECE", "EC", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # Anti Ragging Committee
  **Source URL:** https://www.kletech.ac.in/student-support/anti-ragging-committee
  ### Anti Ragging Committee of the KLE Technological University

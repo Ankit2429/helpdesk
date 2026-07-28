@@ -1,3 +1,17 @@
+---
+title: "PDF Document: mba-curriculum-structure-2025-2027"
+category: "academics"
+subcategory: ""
+document_type: "syllabus"
+department: "Management will be a premier institute in manageme"
+campus: ""
+source_url: "https://www.kletech.ac.in/pdf/mba-curriculum-structure-2025-2027.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["business", "course", "curriculum", "document", "management", "marks", "mba", "module", "structure"]
+aliases: ["HOD", "Head of Department", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: mba-curriculum-structure-2025-2027
  **PDF Source:** https://www.kletech.ac.in/pdf/mba-curriculum-structure-2025-2027.pdf
  ## Page 1

@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "notices"
+subcategory: ""
+document_type: "document"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/news-detail/7th-convocation-ceremony-of-kle-technological-universityhubballi/370"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["ctie", "news", "successfully", "technological", "university"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/news-detail/7th-convocation-ceremony-of-kle-technological-universityhubballi/370
  ### Relevant News

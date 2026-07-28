@@ -1,3 +1,17 @@
+---
+title: "PDF Document: FACULTY_CONCLAVE_PUBLICATIONS_-_2015"
+category: "faculty"
+subcategory: "FACULTY"
+document_type: "act"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/pdf/FACULTY CONCLAVE PUBLICATIONS - 2015.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["course", "document", "engineering", "learning", "patil", "student"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # PDF Document: FACULTY_CONCLAVE_PUBLICATIONS_-_2015
  **PDF Source:** https://www.kletech.ac.in/pdf/FACULTY CONCLAVE PUBLICATIONS - 2015.pdf
  ## Page 1

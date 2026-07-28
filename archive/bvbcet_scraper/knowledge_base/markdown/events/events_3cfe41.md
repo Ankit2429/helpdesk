@@ -1,3 +1,17 @@
+---
+title: "Events"
+category: "events"
+subcategory: "events"
+document_type: "act"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/events-detail/pupa/415"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["events", "ideas", "innovation", "pupa", "registration", "team"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # Events
  **Source URL:** https://www.kletech.ac.in/events-detail/pupa/415
  ### PUPA

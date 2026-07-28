@@ -1,3 +1,17 @@
+---
+title: "Ph.D. in Electrical & Electronics Engineering"
+category: "academics"
+subcategory: "phd"
+document_type: "syllabus"
+department: "Electrical"
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/course/phd-in-electrical-electronics-engineering"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["areas", "college", "department", "electrical", "electronics", "engineering", "faculties", "has", "namely", "phd"]
+aliases: ["HOD", "Head of Department", "CSE", "CS", "ECE", "EC", "EEE", "EE"]
+last_modified: "2026-07-28"
+---
 # Ph.D. in Electrical & Electronics Engineering
  **Source URL:** https://www.kletech.ac.in/hubballi/course/phd-in-electrical-electronics-engineering
  ## Department of Electrical & Electronics has faculties working in the research areas namely Power Systems and Power Electronics

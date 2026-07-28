@@ -1,3 +1,17 @@
+---
+title: "Bachelor of Computer Applications (Honours)"
+category: "academics"
+subcategory: "bachelor"
+document_type: "syllabus"
+department: "Electronics and Communication"
+campus: "Belagavi"
+source_url: "https://www.kletech.ac.in/course-detail/bachelor-of-computer-applications-(honours)/83"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["applications", "bachelor", "bca", "college", "computer", "department", "duration", "engineering", "have", "honours"]
+aliases: ["HOD", "Head of Department", "CSE", "CS", "ECE", "EC", "EEE", "EE"]
+last_modified: "2026-07-28"
+---
 # Bachelor of Computer Applications (Honours)
  **Source URL:** https://www.kletech.ac.in/course-detail/bachelor-of-computer-applications-(honours)/83
  ## The minimum duration of the BCA Program is 3 years.

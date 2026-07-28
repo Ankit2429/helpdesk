@@ -1,3 +1,17 @@
+---
+title: "Faculty"
+category: "academics"
+subcategory: "faculty"
+document_type: "brochure"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/academic/faculty"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["assistant", "associate", "faculty", "patil", "professor", "teaching"]
+aliases: ["HOD", "Head of Department", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # Faculty
  **Source URL:** https://www.kletech.ac.in/hubballi/academic/faculty
  # Faculty

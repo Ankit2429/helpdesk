@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 6th-Sem-COE-2022-23"
+category: "miscellaneous"
+subcategory: ""
+document_type: "minutes"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/pdf/6th-Sem-COE-2022-23.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["april", "coe", "date", "document", "last", "march", "minor", "sem"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # PDF Document: 6th-Sem-COE-2022-23
  **PDF Source:** https://www.kletech.ac.in/pdf/6th-Sem-COE-2022-23.pdf
  ## Page 1

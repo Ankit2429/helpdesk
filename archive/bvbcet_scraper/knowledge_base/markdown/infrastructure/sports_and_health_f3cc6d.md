@@ -1,3 +1,17 @@
+---
+title: "Sports and Health"
+category: "infrastructure"
+subcategory: "sports"
+document_type: "act"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/campus-life/sports-and-health"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["campus", "have", "health", "sports", "students"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # Sports and Health
  **Source URL:** https://www.kletech.ac.in/campus-life/sports-and-health
  # Sports and Health

@@ -1,3 +1,17 @@
+---
+title: "Research - Overview"
+category: "about"
+subcategory: "research"
+document_type: "act"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/research-innovation/research-overview"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["centers", "overview", "research", "undergraduate", "university"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # Research - Overview
  **Source URL:** https://www.kletech.ac.in/hubballi/research-innovation/research-overview
  # Research - Overview

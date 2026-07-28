@@ -1,3 +1,17 @@
+---
+title: "College of Law"
+category: "miscellaneous"
+subcategory: "college"
+document_type: "brochure"
+department: ""
+campus: "Bengaluru"
+source_url: "https://www.kletech.ac.in/bengaluru"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["best", "college", "india", "law", "private", "programmes", "students"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # College of Law
  **Source URL:** https://www.kletech.ac.in/bengaluru
  #### 8th

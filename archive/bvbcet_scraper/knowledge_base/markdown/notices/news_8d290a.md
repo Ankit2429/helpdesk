@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "notices"
+subcategory: ""
+document_type: "document"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/news-detail/celebrating-kanaka-dasa-jayanti-at-kle-law-college-today/288"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["dasa", "kanaka", "news", "technological", "university"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/news-detail/celebrating-kanaka-dasa-jayanti-at-kle-law-college-today/288
  ### Celebrating Kanaka Dasa Jayanti at KLE Law College Today

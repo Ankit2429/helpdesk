@@ -1,3 +1,17 @@
+---
+title: "PDF Document: mtech-ec-vlsi-curriculum-2024-26"
+category: "academics"
+subcategory: ""
+document_type: "syllabus"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/pdf/mtech-ec-vlsi-curriculum-2024-26.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["chapter", "course", "curriculum", "design", "document", "mtech", "systems", "vlsi"]
+aliases: ["HOD", "Head of Department", "ECE", "EC", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: mtech-ec-vlsi-curriculum-2024-26
  **PDF Source:** https://www.kletech.ac.in/pdf/mtech-ec-vlsi-curriculum-2024-26.pdf
  ## Page 1

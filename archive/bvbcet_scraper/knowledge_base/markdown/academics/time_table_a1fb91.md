@@ -1,3 +1,17 @@
+---
+title: "Time Table"
+category: "academics"
+subcategory: "time"
+document_type: "timetable"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/academic/time-table"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["arch", "makeup", "march", "table", "time"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # Time Table
  **Source URL:** https://www.kletech.ac.in/hubballi/academic/time-table
  # Time Table

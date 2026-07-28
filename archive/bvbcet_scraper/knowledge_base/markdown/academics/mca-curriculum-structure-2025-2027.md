@@ -1,3 +1,17 @@
+---
+title: "PDF Document: mca-curriculum-structure-2025-2027"
+category: "academics"
+subcategory: ""
+document_type: "syllabus"
+department: "Computer Applica"
+campus: ""
+source_url: "https://www.kletech.ac.in/pdf/mca-curriculum-structure-2025-2027.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["curriculum", "data", "document", "marks", "mca", "semester", "structure", "unit", "using"]
+aliases: ["HOD", "Head of Department", "CSE", "CS", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: mca-curriculum-structure-2025-2027
  **PDF Source:** https://www.kletech.ac.in/pdf/mca-curriculum-structure-2025-2027.pdf
  ## Page 1

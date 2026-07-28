@@ -1,3 +1,17 @@
+---
+title: "About Hubballi Campus"
+category: "about"
+subcategory: ""
+document_type: "minutes"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/about/about-hubballi-campus"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["campus", "city", "hubballi", "karnataka", "mumbai", "well"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # About Hubballi Campus
  **Source URL:** https://www.kletech.ac.in/hubballi/about/about-hubballi-campus
  # About Hubballi Campus

@@ -1,3 +1,17 @@
+---
+title: "LLM - IPR"
+category: "academics"
+subcategory: "llm"
+document_type: "syllabus"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/coursedetail.aspx?mpgid=30&pgidtrail=30&courseid=84"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["card", "certificate", "ipr", "llm", "marks", "original", "students"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # LLM - IPR
  **Source URL:** https://www.kletech.ac.in/coursedetail.aspx?mpgid=30&pgidtrail=30&courseid=84
  #### Admission Process For LL.M.

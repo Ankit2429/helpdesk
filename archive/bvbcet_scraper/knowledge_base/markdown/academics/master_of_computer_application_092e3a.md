@@ -1,3 +1,17 @@
+---
+title: "Master of Computer Application"
+category: "academics"
+subcategory: "master"
+document_type: "syllabus"
+department: "Electronics and Communication"
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/course/master-of-computer-application"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["application", "college", "computer", "computing", "engineering", "have", "master", "students"]
+aliases: ["HOD", "Head of Department", "CSE", "CS", "ECE", "EC", "EEE", "EE"]
+last_modified: "2026-07-28"
+---
 # Master of Computer Application
  **Source URL:** https://www.kletech.ac.in/hubballi/course/master-of-computer-application
  # Master of Computer Application

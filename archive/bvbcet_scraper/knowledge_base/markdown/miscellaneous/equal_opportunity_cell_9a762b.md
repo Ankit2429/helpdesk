@@ -1,3 +1,17 @@
+---
+title: "Equal Opportunity Cell"
+category: "miscellaneous"
+subcategory: "equal"
+document_type: "act"
+department: "Civil Engineering"
+campus: ""
+source_url: "https://www.kletech.ac.in/cpage.aspx?mpgid=117&pgidtrail=777"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["cell", "equal", "member", "opportunity", "prof", "secretary", "student"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # Equal Opportunity Cell
  **Source URL:** https://www.kletech.ac.in/cpage.aspx?mpgid=117&pgidtrail=777
  ### The member of Equal Opportunity Cell

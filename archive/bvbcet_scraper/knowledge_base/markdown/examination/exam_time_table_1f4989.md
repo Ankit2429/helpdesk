@@ -1,3 +1,17 @@
+---
+title: "Exam Time Table"
+category: "examination"
+subcategory: "exam"
+document_type: "timetable"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/student-support/exam-time-table"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["arch", "exam", "march", "semester", "table", "time"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # Exam Time Table
  **Source URL:** https://www.kletech.ac.in/student-support/exam-time-table
  # Exam Time Table

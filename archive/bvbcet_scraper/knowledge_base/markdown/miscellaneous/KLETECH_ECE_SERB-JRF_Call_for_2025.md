@@ -1,3 +1,17 @@
+---
+title: "PDF Document: KLETECH_ECE_SERB-JRF_Call_for_2025"
+category: "miscellaneous"
+subcategory: "KLETECH"
+document_type: "document"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/pdf/KLETECH_ECE_SERB-JRF_Call_for_2025.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["communication", "document", "engineering", "experience", "research", "university"]
+aliases: ["CSE", "CS", "ECE", "EC", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: KLETECH_ECE_SERB-JRF_Call_for_2025
  **PDF Source:** https://www.kletech.ac.in/pdf/KLETECH_ECE_SERB-JRF_Call_for_2025.pdf
  ## Page 1

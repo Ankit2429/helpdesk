@@ -1,3 +1,17 @@
+---
+title: "B E Electronics Engineering (VLSI Design & Technology)"
+category: "academics"
+subcategory: "b"
+document_type: "act"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/course/b-e-electronics-engineering-vlsi-design-technology"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["course", "design", "driving", "electronics", "engineering", "force", "growth", "hours", "information", "technology"]
+aliases: ["ME", "Mechanical Dept", "ECE", "EC"]
+last_modified: "2026-07-28"
+---
 # B E Electronics Engineering (VLSI Design & Technology)
  **Source URL:** https://www.kletech.ac.in/course/b-e-electronics-engineering-vlsi-design-technology
  ## Today electronics engineering is the vital force driving the growth of Information Technology.

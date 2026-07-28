@@ -1,3 +1,17 @@
+---
+title: "Clubs"
+category: "miscellaneous"
+subcategory: "clubs"
+document_type: "act"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/quick-links/clubs"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["club", "clubs", "finance", "objectives", "students", "them"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # Clubs
  **Source URL:** https://www.kletech.ac.in/hubballi/quick-links/clubs
  ### Marketing Club

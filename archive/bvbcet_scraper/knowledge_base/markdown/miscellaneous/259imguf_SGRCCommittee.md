@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 259imguf_SGRCCommittee"
+category: "miscellaneous"
+subcategory: ""
+document_type: "document"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/Uploads/image/259imguf_SGRCCommittee.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["document", "hubballi", "member", "professor", "technological", "university"]
+aliases: ["CSE", "CS", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: 259imguf_SGRCCommittee
  **PDF Source:** https://www.kletech.ac.in/Uploads/image/259imguf_SGRCCommittee.pdf
  ## Page 1

@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 532imguf_UGComputerScienceEngineeringDCPreport"
+category: "miscellaneous"
+subcategory: ""
+document_type: "notice"
+department: "the program considered for accreditation as above"
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/Uploads/image/532imguf_UGComputerScienceEngineeringDCPreport.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["computer", "document", "faculty", "research", "science", "students"]
+aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE", "KLETech", "KLE Tech", "BVB", "BVBCET"]
+last_modified: "2026-07-28"
+---
 # PDF Document: 532imguf_UGComputerScienceEngineeringDCPreport
  **PDF Source:** https://www.kletech.ac.in/Uploads/image/532imguf_UGComputerScienceEngineeringDCPreport.pdf
  ## Page 1

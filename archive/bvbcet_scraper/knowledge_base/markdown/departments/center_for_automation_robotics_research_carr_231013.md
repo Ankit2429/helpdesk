@@ -1,3 +1,17 @@
+---
+title: "Center for Automation & Robotics Research (CARR)"
+category: "departments"
+subcategory: "center"
+document_type: "act"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/research/center-for-automation-robotics-research-carr"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["automation", "carr", "center", "research", "robotics"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # Center for Automation & Robotics Research (CARR)
  **Source URL:** https://www.kletech.ac.in/research/center-for-automation-robotics-research-carr
  # Center for Automation & Robotics Research (CARR)

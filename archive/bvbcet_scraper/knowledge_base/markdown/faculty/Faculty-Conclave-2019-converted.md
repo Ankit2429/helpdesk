@@ -1,3 +1,17 @@
+---
+title: "PDF Document: Faculty-Conclave-2019-converted"
+category: "faculty"
+subcategory: ""
+document_type: "syllabus"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/pdf/Faculty-Conclave-2019-converted.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["based", "blended", "conclave", "converted", "document", "faculty", "learning", "patil", "vijayalakshmi"]
+aliases: ["HOD", "Head of Department"]
+last_modified: "2026-07-28"
+---
 # PDF Document: Faculty-Conclave-2019-converted
  **PDF Source:** https://www.kletech.ac.in/pdf/Faculty-Conclave-2019-converted.pdf
  ## Page 1

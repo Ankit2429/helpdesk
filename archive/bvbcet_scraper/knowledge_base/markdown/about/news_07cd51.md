@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "about"
+subcategory: ""
+document_type: "act"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/news-detail/bvb-kle-tech-leadership-summit-2026-brings-industry-leaders-together-to-shape-future-technologies/444"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["industry", "news", "summit", "tech", "technological", "university"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/news-detail/bvb-kle-tech-leadership-summit-2026-brings-industry-leaders-together-to-shape-future-technologies/444
  ### BVB KLE Tech Leadership Summit 2026 Brings Industry Leaders Together to Shape Future Technologies

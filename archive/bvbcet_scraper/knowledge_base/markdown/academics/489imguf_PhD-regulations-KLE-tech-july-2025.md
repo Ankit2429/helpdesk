@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 489imguf_PhD-regulations-KLE-tech-july-2025"
+category: "academics"
+subcategory: ""
+document_type: "syllabus"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/Uploads/image/489imguf_PhD-regulations-KLE-tech-july-2025.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["degree", "document", "july", "kle", "programme", "regulations", "research", "shall", "tech", "university"]
+aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: 489imguf_PhD-regulations-KLE-tech-july-2025
  **PDF Source:** https://www.kletech.ac.in/Uploads/image/489imguf_PhD-regulations-KLE-tech-july-2025.pdf
  ## Page 1

@@ -1,3 +1,17 @@
+---
+title: "M.Tech Design Engineering"
+category: "academics"
+subcategory: "mtech"
+document_type: "syllabus"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/course/m-tech-design-engineering"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["aims", "analysis", "aspirants", "design", "development", "engineering", "functions", "hours", "industries", "postgraduate"]
+aliases: ["HOD", "Head of Department"]
+last_modified: "2026-07-28"
+---
 # M.Tech Design Engineering
  **Source URL:** https://www.kletech.ac.in/course/m-tech-design-engineering
  ## The Postgraduate Program in Design Engineering aims to prepare the aspirants for prominent roles in Research & Development or Design functions of Engineering Industries.

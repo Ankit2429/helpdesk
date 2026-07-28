@@ -1,3 +1,17 @@
+---
+title: "M.Tech Computer Science and Engineering"
+category: "academics"
+subcategory: "mtech"
+document_type: "syllabus"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/course/m-tech-computer-science-engineering"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["applications", "based", "computer", "curriculum", "engineering", "foundations", "hours", "offers", "postgraduate", "practical"]
+aliases: ["HOD", "Head of Department", "CSE", "CS"]
+last_modified: "2026-07-28"
+---
 # M.Tech Computer Science and Engineering
  **Source URL:** https://www.kletech.ac.in/course/m-tech-computer-science-engineering
  ## The Postgraduate Program in Computer Science and Engineering offers a curriculum based on theoretical foundations and practical applications

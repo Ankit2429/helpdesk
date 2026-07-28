@@ -1,3 +1,17 @@
+---
+title: "PDF Document: nirf-innovation-category-12th-february-2026"
+category: "miscellaneous"
+subcategory: ""
+document_type: "act"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/Uploads/image/nirf-innovation-category-12th-february-2026.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["assistant", "category", "document", "february", "female", "innovation", "male", "nirf", "professor", "regular"]
+aliases: ["HOD", "Head of Department", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: nirf-innovation-category-12th-february-2026
  **PDF Source:** https://www.kletech.ac.in/Uploads/image/nirf-innovation-category-12th-february-2026.pdf
  ## Page 1

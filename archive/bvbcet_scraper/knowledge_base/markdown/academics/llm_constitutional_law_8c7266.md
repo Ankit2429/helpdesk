@@ -1,3 +1,17 @@
+---
+title: "LLM - Constitutional Law"
+category: "academics"
+subcategory: "llm"
+document_type: "syllabus"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/course/llm"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["card", "certificate", "constitutional", "law", "llm", "original", "students"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # LLM - Constitutional Law
  **Source URL:** https://www.kletech.ac.in/course/llm
  #### Admission Process For LL.M.

@@ -1,3 +1,17 @@
+---
+title: "PDF Document: mtech-structural-engineering-curriculum-2023-25"
+category: "academics"
+subcategory: ""
+document_type: "syllabus"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/pdf/mtech-structural-engineering-curriculum-2023-25.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["analysis", "curriculum", "design", "document", "engineering", "hours", "marks", "mtech", "structural"]
+aliases: ["HOD", "Head of Department", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: mtech-structural-engineering-curriculum-2023-25
  **PDF Source:** https://www.kletech.ac.in/pdf/mtech-structural-engineering-curriculum-2023-25.pdf
  ## Page 1

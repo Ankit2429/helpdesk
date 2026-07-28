@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "notices"
+subcategory: ""
+document_type: "document"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/news-detail/envisioning-tomorrow-highlights-from-the-5th-convocation-of-kle-technological-university!/274"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["convocation", "news", "students", "technological", "university", "were"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/news-detail/envisioning-tomorrow-highlights-from-the-5th-convocation-of-kle-technological-university!/274
  ### Envisioning Tomorrow: Highlights from the 5th Convocation of KLE Technological University!

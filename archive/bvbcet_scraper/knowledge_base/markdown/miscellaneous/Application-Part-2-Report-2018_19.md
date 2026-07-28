@@ -1,3 +1,17 @@
+---
+title: "PDF Document: Application-Part-2-Report-2018_19"
+category: "miscellaneous"
+subcategory: ""
+document_type: "act"
+department: ""
+campus: "Belagavi"
+source_url: "https://www.kletech.ac.in/pdf/Application-Part-2-Report-2018_19.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["application", "document", "engineeri", "engineering", "part", "regular", "report", "scale", "technolo"]
+aliases: ["ME", "Mechanical Dept", "CSE", "CS"]
+last_modified: "2026-07-28"
+---
 # PDF Document: Application-Part-2-Report-2018_19
  **PDF Source:** https://www.kletech.ac.in/pdf/Application-Part-2-Report-2018_19.pdf
  ## Page 1

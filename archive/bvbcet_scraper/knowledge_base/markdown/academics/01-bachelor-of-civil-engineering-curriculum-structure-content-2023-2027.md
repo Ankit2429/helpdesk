@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 01-bachelor-of-civil-engineering-curriculum-structure-content-2023-2027"
+category: "academics"
+subcategory: ""
+document_type: "syllabus"
+department: "Mechanical Engineering"
+campus: ""
+source_url: "https://www.kletech.ac.in/pdf/01-bachelor-of-civil-engineering-curriculum-structure-content-2023-2027.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["bachelor", "civil", "content", "course", "curriculum", "delhi", "design", "document", "engineering", "marks"]
+aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "EEE", "EE", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: 01-bachelor-of-civil-engineering-curriculum-structure-content-2023-2027
  **PDF Source:** https://www.kletech.ac.in/pdf/01-bachelor-of-civil-engineering-curriculum-structure-content-2023-2027.pdf
  ## Page 1

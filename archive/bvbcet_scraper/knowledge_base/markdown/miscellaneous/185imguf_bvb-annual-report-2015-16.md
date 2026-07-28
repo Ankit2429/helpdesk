@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 185imguf_bvb-annual-report-2015-16"
+category: "miscellaneous"
+subcategory: ""
+document_type: "syllabus"
+department: "Automobile"
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/Uploads/image/185imguf_bvb-annual-report-2015-16.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["annual", "document", "education", "engineering", "report", "research", "student", "students"]
+aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE", "KLETech", "KLE Tech", "BVB", "BVBCET"]
+last_modified: "2026-07-28"
+---
 # PDF Document: 185imguf_bvb-annual-report-2015-16
  **PDF Source:** https://www.kletech.ac.in/Uploads/image/185imguf_bvb-annual-report-2015-16.pdf
  ## Page 1

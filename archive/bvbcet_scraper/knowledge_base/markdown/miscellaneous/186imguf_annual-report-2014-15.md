@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 186imguf_annual-report-2014-15"
+category: "miscellaneous"
+subcategory: ""
+document_type: "syllabus"
+department: "Architecture"
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/Uploads/image/186imguf_annual-report-2014-15.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["college", "document", "education", "engineering", "report", "research", "students"]
+aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE", "BVB", "BVBCET"]
+last_modified: "2026-07-28"
+---
 # PDF Document: 186imguf_annual-report-2014-15
  **PDF Source:** https://www.kletech.ac.in/Uploads/image/186imguf_annual-report-2014-15.pdf
  ## Page 1

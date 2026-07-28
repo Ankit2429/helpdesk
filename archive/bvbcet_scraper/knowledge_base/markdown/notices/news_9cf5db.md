@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "notices"
+subcategory: ""
+document_type: "document"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/news-details/world-blood-donors-day/28"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["blood", "donors", "hubballi", "news", "world"]
+aliases: ["KLETech", "KLE Tech", "BVB", "BVBCET"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/hubballi/news-details/world-blood-donors-day/28
  ### World Blood Donor's Day

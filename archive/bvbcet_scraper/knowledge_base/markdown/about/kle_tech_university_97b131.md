@@ -1,3 +1,17 @@
+---
+title: "KLE Tech University"
+category: "about"
+subcategory: "kle"
+document_type: "minutes"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/about/kle-tech-university"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["college", "engineering", "institutions", "kle", "tech", "university"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # KLE Tech University
  **Source URL:** https://www.kletech.ac.in/hubballi/about/kle-tech-university
  #### Inspiring excellence, nurturing talent

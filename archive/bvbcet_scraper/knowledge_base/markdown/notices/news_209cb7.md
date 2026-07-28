@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "notices"
+subcategory: ""
+document_type: "act"
+department: "Electrical and Electronics Engineering and aims to"
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/news-detail/kle-technological-university-inaugurates-ieee-pels-student-branch-chapter/443"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["chapter", "ieee", "news", "pels", "students", "technical"]
+aliases: ["EEE", "EE", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/news-detail/kle-technological-university-inaugurates-ieee-pels-student-branch-chapter/443
  ### KLE Technological University Inaugurates IEEE PELS Student Branch Chapter

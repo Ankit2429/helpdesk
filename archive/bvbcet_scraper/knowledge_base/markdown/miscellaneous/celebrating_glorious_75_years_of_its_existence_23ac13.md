@@ -1,3 +1,17 @@
+---
+title: "Celebrating glorious 75 years of its existence,"
+category: "miscellaneous"
+subcategory: "celebrating"
+document_type: "act"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["campus", "celebrating", "courses", "engineering", "existence", "glorious", "hubballi", "offered", "research", "tech"]
+aliases: ["ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # Celebrating glorious 75 years of its existence,
  **Source URL:** https://www.kletech.ac.in/hubballi
  Hubballi Campus

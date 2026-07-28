@@ -1,3 +1,17 @@
+---
+title: "Ph. D. in Chemistry"
+category: "academics"
+subcategory: "ph"
+document_type: "brochure"
+department: "Chemistry"
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/coursedetail.aspx?mpgid=151&pgidtrail=151&courseid=76"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["advanced", "analytical", "chemistry", "electrical", "electronics", "full", "phd", "polymer", "scholars", "school"]
+aliases: ["EEE", "EE"]
+last_modified: "2026-07-28"
+---
 # Ph. D. in Chemistry
  **Source URL:** https://www.kletech.ac.in/hubballi/coursedetail.aspx?mpgid=151&pgidtrail=151&courseid=76
  ## School of Advanced Studies - Chemistry

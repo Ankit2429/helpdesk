@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "research"
+subcategory: ""
+document_type: "act"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/news-details/kle-tech-news-seven-researchers-recognized-in-stanford's-top-2-scientists-list-for-the-fifth-consecutive-year/313"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["list", "news", "prof", "researchers", "tech"]
+aliases: ["HOD", "Head of Department", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/hubballi/news-details/kle-tech-news-seven-researchers-recognized-in-stanford's-top-2-scientists-list-for-the-fifth-consecutive-year/313
  ### KLE Tech News: Seven Researchers Recognized in Stanford's Top 2% Scientists List for the Fifth Consecutive Year

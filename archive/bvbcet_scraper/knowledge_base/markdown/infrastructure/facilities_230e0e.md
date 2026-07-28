@@ -1,3 +1,17 @@
+---
+title: "Facilities"
+category: "infrastructure"
+subcategory: "facilities"
+document_type: "act"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/infrastructure/library/facilities"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["book", "books", "community", "facilities", "library", "service"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # Facilities
  **Source URL:** https://www.kletech.ac.in/hubballi/infrastructure/library/facilities
  ### Lending Service

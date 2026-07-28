@@ -1,3 +1,17 @@
+---
+title: "MS (Engg.) by Research in Visual Intelligence (CSE)"
+category: "academics"
+subcategory: "ms"
+document_type: "brochure"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/course/ms-engg-by-research-in-visual-intelligence"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["consolidated", "course", "cse", "details", "engg", "intelligence", "marks", "part", "program", "research"]
+aliases: ["HOD", "Head of Department", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # MS (Engg.) by Research in Visual Intelligence (CSE)
  **Source URL:** https://www.kletech.ac.in/hubballi/course/ms-engg-by-research-in-visual-intelligence
  # MS (Engg.) by Research in Visual Intelligence (CSE)

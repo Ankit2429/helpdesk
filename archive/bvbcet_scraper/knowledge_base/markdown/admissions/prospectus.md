@@ -1,3 +1,17 @@
+---
+title: "PDF Document: prospectus"
+category: "admissions"
+subcategory: "prospectus"
+document_type: "syllabus"
+department: "Science and Technology"
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/pdf/prospectus.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["acca", "course", "document", "engineering", "management", "prospectus", "semester"]
+aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE", "KLETech", "KLE Tech", "BVB", "BVBCET"]
+last_modified: "2026-07-28"
+---
 # PDF Document: prospectus
  **PDF Source:** https://www.kletech.ac.in/pdf/prospectus.pdf
  ## Page 1

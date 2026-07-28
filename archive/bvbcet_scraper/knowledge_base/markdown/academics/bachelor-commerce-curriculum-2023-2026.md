@@ -1,3 +1,17 @@
+---
+title: "PDF Document: bachelor-commerce-curriculum-2023-2026"
+category: "academics"
+subcategory: ""
+document_type: "syllabus"
+department: "English"
+campus: ""
+source_url: "https://www.kletech.ac.in/pdf/bachelor-commerce-curriculum-2023-2026.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["bachelor", "commerce", "curriculum", "document", "financial", "hours", "management", "marks", "module"]
+aliases: ["HOD", "Head of Department", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: bachelor-commerce-curriculum-2023-2026
  **PDF Source:** https://www.kletech.ac.in/pdf/bachelor-commerce-curriculum-2023-2026.pdf
  ## Page 1

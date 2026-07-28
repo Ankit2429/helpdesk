@@ -1,3 +1,17 @@
+---
+title: "PDF Document: bachelor-electrical-electronics-engineering-curriculum-2022-2026"
+category: "academics"
+subcategory: ""
+document_type: "syllabus"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/pdf/bachelor-electrical-electronics-engineering-curriculum-2022-2026.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["bachelor", "chapter", "course", "curriculum", "design", "document", "electrical", "electronics", "engineering", "marks"]
+aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "ECE", "EC", "EEE", "EE", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: bachelor-electrical-electronics-engineering-curriculum-2022-2026
  **PDF Source:** https://www.kletech.ac.in/pdf/bachelor-electrical-electronics-engineering-curriculum-2022-2026.pdf
  ## Page 1

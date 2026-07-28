@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 236krf-Resuming-Offline-Classes"
+category: "miscellaneous"
+subcategory: ""
+document_type: "timetable"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/uploads/Files/236krf-Resuming-Offline-Classes.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["classes", "document", "govt", "karnataka", "offline", "resuming", "shall"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # PDF Document: 236krf-Resuming-Offline-Classes
  **PDF Source:** https://www.kletech.ac.in/uploads/Files/236krf-Resuming-Offline-Classes.pdf
  ## Page 1

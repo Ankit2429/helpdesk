@@ -1,3 +1,17 @@
+---
+title: "Ph.D. in Electronics & Communication Engineering"
+category: "academics"
+subcategory: "phd"
+document_type: "syllabus"
+department: "Electronics and Communication"
+campus: "Belagavi"
+source_url: "https://www.kletech.ac.in/course-detail/ph-d-in-electronics-communication-engineering/11"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["areas", "college", "communication", "department", "electronics", "engineering", "faculties", "has", "namely", "research"]
+aliases: ["HOD", "Head of Department", "CSE", "CS", "ECE", "EC", "EEE", "EE"]
+last_modified: "2026-07-28"
+---
 # Ph.D. in Electronics & Communication Engineering
  **Source URL:** https://www.kletech.ac.in/course-detail/ph-d-in-electronics-communication-engineering/11
  ## School of Electronics & Communication Engineering has faculties working in the research areas namely

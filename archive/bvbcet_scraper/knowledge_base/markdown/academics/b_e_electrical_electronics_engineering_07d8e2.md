@@ -1,3 +1,17 @@
+---
+title: "B E Electrical & Electronics Engineering"
+category: "academics"
+subcategory: "b"
+document_type: "syllabus"
+department: "Electronics and Communication"
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/course/bachelor-of-engineering-eee"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["billions", "chips", "cities", "college", "communities", "complex", "computers", "deploy", "design", "electrical"]
+aliases: ["HOD", "Head of Department", "CSE", "CS", "ECE", "EC", "EEE", "EE"]
+last_modified: "2026-07-28"
+---
 # B E Electrical & Electronics Engineering
  **Source URL:** https://www.kletech.ac.in/hubballi/course/bachelor-of-engineering-eee
  ## From the billions of transistor chips inside our computers to the massive power grids that supply power to our communities and cities, Electrical engineers design, deploy and maintain these remarkable and complex systems.

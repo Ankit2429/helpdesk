@@ -1,3 +1,17 @@
+---
+title: "The National Cadet Corps"
+category: "miscellaneous"
+subcategory: "the"
+document_type: "act"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/cpage.aspx?mpgid=117&pgidtrail=779"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["cadet", "cadets", "corps", "leadership", "national", "tech", "university"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # The National Cadet Corps
  **Source URL:** https://www.kletech.ac.in/cpage.aspx?mpgid=117&pgidtrail=779
  ### Introduction

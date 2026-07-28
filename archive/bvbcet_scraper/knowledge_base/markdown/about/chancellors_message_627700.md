@@ -1,3 +1,17 @@
+---
+title: "Chancellor's Message"
+category: "about"
+subcategory: "chancellors"
+document_type: "document"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/about/chancellors-message"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["chancellor", "message", "tech", "technological", "university"]
+aliases: ["KLETech", "KLE Tech", "BVB", "BVBCET"]
+last_modified: "2026-07-28"
+---
 # Chancellor's Message
  **Source URL:** https://www.kletech.ac.in/about/chancellors-message
  # Chancellor's Message

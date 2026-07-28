@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "notices"
+subcategory: ""
+document_type: "document"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/news-detail/aiu-south-west-zone-taekwondo-competition/145"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["competition", "news", "shivani", "taekwondo", "technological", "university"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/news-detail/aiu-south-west-zone-taekwondo-competition/145
  ### AIU South West Zone Taekwondo competition

@@ -1,3 +1,17 @@
+---
+title: "PDF Document: Computer_Science_Curriculum_Structure_Content_2021-25"
+category: "academics"
+subcategory: "Computer"
+document_type: "syllabus"
+department: "Mechanical Engineering"
+campus: ""
+source_url: "https://www.kletech.ac.in/pdf/Computer Science_Curriculum_Structure_Content_2021-25.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["course", "data", "document", "engineering", "marks", "unit"]
+aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: Computer_Science_Curriculum_Structure_Content_2021-25
  **PDF Source:** https://www.kletech.ac.in/pdf/Computer Science_Curriculum_Structure_Content_2021-25.pdf
  ## Page 1

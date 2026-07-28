@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 07-bachelor-of-mechanical-engineering-curriculum-structure-content-2023-2027"
+category: "academics"
+subcategory: ""
+document_type: "syllabus"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/pdf/07-bachelor-of-mechanical-engineering-curriculum-structure-content-2023-2027.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["bachelor", "chapter", "content", "curriculum", "design", "document", "engineering", "hours", "marks", "mechanical"]
+aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "EEE", "EE", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: 07-bachelor-of-mechanical-engineering-curriculum-structure-content-2023-2027
  **PDF Source:** https://www.kletech.ac.in/pdf/07-bachelor-of-mechanical-engineering-curriculum-structure-content-2023-2027.pdf
  ## Page 1

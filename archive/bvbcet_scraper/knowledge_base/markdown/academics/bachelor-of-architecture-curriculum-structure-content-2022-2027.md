@@ -1,3 +1,17 @@
+---
+title: "PDF Document: bachelor-of-architecture-curriculum-structure-content-2022-2027"
+category: "academics"
+subcategory: ""
+document_type: "syllabus"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/pdf/bachelor-of-architecture-curriculum-structure-content-2022-2027.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["architecture", "assessment", "bachelor", "content", "curriculum", "design", "document", "hours", "marks", "structure"]
+aliases: ["HOD", "Head of Department", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: bachelor-of-architecture-curriculum-structure-content-2022-2027
  **PDF Source:** https://www.kletech.ac.in/pdf/bachelor-of-architecture-curriculum-structure-content-2022-2027.pdf
  ## Page 1

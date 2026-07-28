@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 7th-Sem-BE-9th-Sem-BArch-2024-25"
+category: "miscellaneous"
+subcategory: ""
+document_type: "minutes"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/pdf/7th-Sem-BE-9th-Sem-BArch-2024-25.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["attendance", "barch", "date", "document", "last", "make", "minor", "sem"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # PDF Document: 7th-Sem-BE-9th-Sem-BArch-2024-25
  **PDF Source:** https://www.kletech.ac.in/pdf/7th-Sem-BE-9th-Sem-BArch-2024-25.pdf
  ## Page 1

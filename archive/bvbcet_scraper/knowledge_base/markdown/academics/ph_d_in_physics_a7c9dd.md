@@ -1,3 +1,17 @@
+---
+title: "Ph. D. in Physics"
+category: "academics"
+subcategory: "ph"
+document_type: "brochure"
+department: "Physics"
+campus: ""
+source_url: "https://www.kletech.ac.in/coursedetail.aspx?mpgid=30&pgidtrail=30&courseid=78"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["advanced", "full", "materials", "phd", "physics", "scholars", "school", "science", "studies", "time"]
+aliases: ["HOD", "Head of Department"]
+last_modified: "2026-07-28"
+---
 # Ph. D. in Physics
  **Source URL:** https://www.kletech.ac.in/coursedetail.aspx?mpgid=30&pgidtrail=30&courseid=78
  ## School of Advanced Studies - Physics

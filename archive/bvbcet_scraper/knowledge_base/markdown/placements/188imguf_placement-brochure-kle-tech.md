@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 188imguf_placement-brochure-kle-tech"
+category: "placements"
+subcategory: ""
+document_type: "act"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/Uploads/image/188imguf_placement-brochure-kle-tech.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["bosch", "brochure", "document", "engg", "kle", "students", "tech", "university"]
+aliases: ["CSE", "CS", "ECE", "EC", "EEE", "EE", "KLETech", "KLE Tech", "BVB", "BVBCET"]
+last_modified: "2026-07-28"
+---
 # PDF Document: 188imguf_placement-brochure-kle-tech
  **PDF Source:** https://www.kletech.ac.in/Uploads/image/188imguf_placement-brochure-kle-tech.pdf
  ## Page 1

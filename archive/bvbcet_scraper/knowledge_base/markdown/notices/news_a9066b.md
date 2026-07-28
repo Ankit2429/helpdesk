@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "notices"
+subcategory: ""
+document_type: "document"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/news-details/baja-sae-india-2026-competition/434"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["baja", "competition", "euros", "india", "news", "team"]
+aliases: ["CSE", "CS", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/hubballi/news-details/baja-sae-india-2026-competition/434
  ### BAJA SAE India 2026 competition

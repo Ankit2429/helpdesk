@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "notices"
+subcategory: ""
+document_type: "document"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/news-detail/cmdr-ideathon-2026/432"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["cmdr", "ideathon", "news", "prize", "technological", "university"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/news-detail/cmdr-ideathon-2026/432
  ### CMDR Ideathon 2026

@@ -1,3 +1,17 @@
+---
+title: "PDF Document: fashion-design-curriculum-strcture-contents-batch2022-25"
+category: "academics"
+subcategory: ""
+document_type: "syllabus"
+department: ""
+campus: "Belagavi"
+source_url: "https://www.kletech.ac.in/pdf/fashion-design-curriculum-strcture-contents-batch2022-25.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["chapter", "contents", "course", "curriculum", "design", "document", "fashion", "marks", "strcture"]
+aliases: ["HOD", "Head of Department", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: fashion-design-curriculum-strcture-contents-batch2022-25
  **PDF Source:** https://www.kletech.ac.in/pdf/fashion-design-curriculum-strcture-contents-batch2022-25.pdf
  ## Page 1

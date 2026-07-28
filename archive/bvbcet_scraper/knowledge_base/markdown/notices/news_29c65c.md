@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "notices"
+subcategory: ""
+document_type: "minutes"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/news-detail/innovation-confluence-2024-shaping-the-future-at-kle-technological-university/273"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["future", "innovation", "institutions", "news", "technological", "university"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/news-detail/innovation-confluence-2024-shaping-the-future-at-kle-technological-university/273
  ### Innovation Confluence 2024: Shaping the Future at KLE Technological University

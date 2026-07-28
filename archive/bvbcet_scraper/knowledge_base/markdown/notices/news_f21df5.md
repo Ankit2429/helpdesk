@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "notices"
+subcategory: ""
+document_type: "act"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/news-detail/shaping-a-comfortable-tomorrow-celebrating-prof-tejaraj-aminabhavis-innovations-in-wearable-technology/312"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["comfortable", "news", "technological", "technology", "university", "wearable"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/news-detail/shaping-a-comfortable-tomorrow-celebrating-prof-tejaraj-aminabhavis-innovations-in-wearable-technology/312
  ### Shaping a Comfortable Tomorrow: Celebrating Prof. Tejaraj Aminabhavi's Innovations in Wearable Technology

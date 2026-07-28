@@ -1,3 +1,17 @@
+---
+title: "E-Resources"
+category: "infrastructure"
+subcategory: "e"
+document_type: "act"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/infrastructure/library/e-resources"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["books", "ebsco", "ieee", "resources", "wiley"]
+aliases: ["HOD", "Head of Department"]
+last_modified: "2026-07-28"
+---
 # E-Resources
  **Source URL:** https://www.kletech.ac.in/hubballi/infrastructure/library/e-resources
  ### E-Books

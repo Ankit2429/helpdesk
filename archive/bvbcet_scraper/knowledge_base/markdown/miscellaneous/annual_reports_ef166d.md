@@ -1,3 +1,17 @@
+---
+title: "Annual Reports"
+category: "miscellaneous"
+subcategory: "annual"
+document_type: "document"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/annual-reports"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["annual", "previous", "report", "reports", "tech"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # Annual Reports
  **Source URL:** https://www.kletech.ac.in/annual-reports
  ### Annual Reports 2019 - 2020

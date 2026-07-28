@@ -1,3 +1,17 @@
+---
+title: "B.B.A. LL.B"
+category: "academics"
+subcategory: "bba"
+document_type: "act"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/course/bba-llb"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["administration", "bachelors", "business", "combines", "commenced", "course", "degree", "examination", "integrated", "law"]
+aliases: ["HOD", "Head of Department", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # B.B.A. LL.B
  **Source URL:** https://www.kletech.ac.in/course/bba-llb
  ## The 5-year B.B.A.LL.B. integrated programme commenced from 2012 and combines Bachelors' degree program in Business Administration together with the Bachelors' Degree program in Law.

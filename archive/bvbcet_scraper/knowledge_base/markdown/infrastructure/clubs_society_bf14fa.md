@@ -1,3 +1,17 @@
+---
+title: "Clubs & Society"
+category: "infrastructure"
+subcategory: "clubs"
+document_type: "act"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/campus-life/clubs-society"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["club", "clubs", "english", "event", "participants", "society", "students"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # Clubs & Society
  **Source URL:** https://www.kletech.ac.in/campus-life/clubs-society
  ### Defense Club

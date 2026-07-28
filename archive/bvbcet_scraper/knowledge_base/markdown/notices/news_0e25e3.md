@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "notices"
+subcategory: ""
+document_type: "act"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/news-detail/kle-technological-university-hosts-first-year-innovation-exhibitions-prayog-hemanth-2026-and-avinya-hemanth-2026/414"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["design", "hemanth", "news", "technological", "university", "year"]
+aliases: ["HOD", "Head of Department", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/news-detail/kle-technological-university-hosts-first-year-innovation-exhibitions-prayog-hemanth-2026-and-avinya-hemanth-2026/414
  ### KLE Technological University Hosts First-Year Innovation Exhibitions Prayog Hemanth 2026 and Avinya Hemanth 2026

@@ -1,3 +1,17 @@
+---
+title: "Ph. D. in Mathematics"
+category: "academics"
+subcategory: "ph"
+document_type: "brochure"
+department: "Mathematics has faculties working in the research "
+campus: ""
+source_url: "https://www.kletech.ac.in/coursedetail.aspx?mpgid=151&pgidtrail=151&courseid=77"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["areas", "department", "dynamics", "electrical", "electronics", "faculties", "fluid", "graph", "has", "mathematics"]
+aliases: ["EEE", "EE"]
+last_modified: "2026-07-28"
+---
 # Ph. D. in Mathematics
  **Source URL:** https://www.kletech.ac.in/coursedetail.aspx?mpgid=151&pgidtrail=151&courseid=77
  ## Department of Mathematics has faculties working in the research areas namely Fluid dynamics, Graph theory, Topology and Statistics.

@@ -1,3 +1,17 @@
+---
+title: "PDF Document: mtech-cs-curriculum-2023-25"
+category: "academics"
+subcategory: ""
+document_type: "syllabus"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/pdf/mtech-cs-curriculum-2023-25.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["course", "curriculum", "data", "document", "marks", "mtech", "total", "using"]
+aliases: ["HOD", "Head of Department", "CSE", "CS", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: mtech-cs-curriculum-2023-25
  **PDF Source:** https://www.kletech.ac.in/pdf/mtech-cs-curriculum-2023-25.pdf
  ## Page 1

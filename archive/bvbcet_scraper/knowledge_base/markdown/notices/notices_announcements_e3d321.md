@@ -1,3 +1,17 @@
+---
+title: "Notices & Announcements"
+category: "notices"
+subcategory: "notices"
+document_type: "syllabus"
+department: ""
+campus: "Bengaluru"
+source_url: "https://www.kletech.ac.in/happenings/notices-announcements"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["announcements", "april", "august", "commencement", "march", "national", "notices"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # Notices & Announcements
  **Source URL:** https://www.kletech.ac.in/happenings/notices-announcements
  ### December 2024

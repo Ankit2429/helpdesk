@@ -1,3 +1,17 @@
+---
+title: "B E Civil Engineering"
+category: "academics"
+subcategory: "b"
+document_type: "syllabus"
+department: "Electronics and Communication"
+campus: "Belagavi"
+source_url: "https://www.kletech.ac.in/course/b-e-civil-engineering"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["activities", "civil", "college", "credits", "engineering", "focuses", "housing", "human", "includes", "infrastructure"]
+aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE"]
+last_modified: "2026-07-28"
+---
 # B E Civil Engineering
  **Source URL:** https://www.kletech.ac.in/course/b-e-civil-engineering
  ## Civil engineering focuses on the infrastructure requirements for various Human activities which includes Housing,

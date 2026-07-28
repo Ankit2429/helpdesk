@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "faculty"
+subcategory: ""
+document_type: "document"
+department: "Civil and Environmental Engineering for the"
+campus: ""
+source_url: "https://www.kletech.ac.in/news-detail/idaho-state-university-has-appointed-nagaraj-shetti-as-an-affiliate-faculty-member/431"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["idaho", "news", "shetti", "technological", "university"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/news-detail/idaho-state-university-has-appointed-nagaraj-shetti-as-an-affiliate-faculty-member/431
  ### Idaho State University has appointed Nagaraj Shetti as an Affiliate Faculty Member

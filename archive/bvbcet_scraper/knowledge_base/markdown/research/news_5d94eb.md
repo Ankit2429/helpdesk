@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "research"
+subcategory: ""
+document_type: "act"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/news-detail/seven-researchers-of-kle-tech-in-top-2-of-scientists-in-stanford-list/139"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["index", "list", "news", "prof", "research", "university"]
+aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/news-detail/seven-researchers-of-kle-tech-in-top-2-of-scientists-in-stanford-list/139
  ### Seven researchers of KLE Tech in top 2% of Scientists in Stanford list

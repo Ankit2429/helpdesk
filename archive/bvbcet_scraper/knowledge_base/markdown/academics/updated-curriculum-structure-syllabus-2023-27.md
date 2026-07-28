@@ -1,3 +1,17 @@
+---
+title: "PDF Document: updated-curriculum-structure-syllabus-2023-27"
+category: "academics"
+subcategory: ""
+document_type: "syllabus"
+department: "Mechanical Engineering"
+campus: ""
+source_url: "https://www.kletech.ac.in/pdf/updated-curriculum-structure-syllabus-2023-27.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["chapter", "curriculum", "document", "engineering", "hours", "marks", "semester", "structure", "syllabus", "updated"]
+aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "ECE", "EC", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: updated-curriculum-structure-syllabus-2023-27
  **PDF Source:** https://www.kletech.ac.in/pdf/updated-curriculum-structure-syllabus-2023-27.pdf
  ## Page 1

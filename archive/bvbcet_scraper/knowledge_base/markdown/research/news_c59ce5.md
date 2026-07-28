@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "research"
+subcategory: ""
+document_type: "act"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/news-detail/padma-shri-award-for-dr-prabhakar-kore-for-achievements-in-literatureeducationand-promotion-of-globally-recognised-health-research-/428"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["education", "kore", "news", "padma", "prabhakar", "shri"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/news-detail/padma-shri-award-for-dr-prabhakar-kore-for-achievements-in-literatureeducationand-promotion-of-globally-recognised-health-research-/428
  ### Padma Shri Award for Dr. Prabhakar Kore for Achievements in Literature, Education, and Promotion of Globally Recognised Health Research.

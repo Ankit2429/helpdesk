@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "notices"
+subcategory: ""
+document_type: "act"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/news-detail/data-science-and-ai-in-astronomy-and-astrophysics/334"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["astronomy", "data", "kembhavi", "news", "technological", "university"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/news-detail/data-science-and-ai-in-astronomy-and-astrophysics/334
  ### Data Science and AI in Astronomy and Astrophysics

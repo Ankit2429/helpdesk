@@ -1,3 +1,17 @@
+---
+title: "B.A. LL.B"
+category: "academics"
+subcategory: "ba"
+document_type: "act"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/course/ba-llb"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["arts", "both", "concurrently", "course", "degree", "earn", "integrated", "law", "major", "minor"]
+aliases: ["HOD", "Head of Department"]
+last_modified: "2026-07-28"
+---
 # B.A. LL.B
  **Source URL:** https://www.kletech.ac.in/course/ba-llb
  ## The 5-year B.A.LL.B. integrated programme, from 1996, offers a unique opportunity to concurrently earn both a prestigious Arts degree and a reputed Law degree.

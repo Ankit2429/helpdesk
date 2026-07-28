@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "notices"
+subcategory: ""
+document_type: "document"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/news-detail/kle-technological-university-triumphs-once-more-at-sae-supra-2024!/320"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["more", "news", "team", "technological", "university"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/news-detail/kle-technological-university-triumphs-once-more-at-sae-supra-2024!/320
  ### KLE Technological University Triumphs Once More at SAE SUPRA 2024!

@@ -1,3 +1,17 @@
+---
+title: "Center of Intelligent Mobility (CIM)"
+category: "research"
+subcategory: "center"
+document_type: "document"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/research/center-of-intelligent-mobility-cim"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["center", "cim", "intelligent", "mobility", "research", "security"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # Center of Intelligent Mobility (CIM)
  **Source URL:** https://www.kletech.ac.in/research/center-of-intelligent-mobility-cim
  # Center of Intelligent Mobility (CIM)

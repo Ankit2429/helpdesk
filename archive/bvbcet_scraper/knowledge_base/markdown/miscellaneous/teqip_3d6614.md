@@ -1,3 +1,17 @@
+---
+title: "TEQIP"
+category: "miscellaneous"
+subcategory: "teqip"
+document_type: "minutes"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/teqip"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["annual", "education", "report", "technical", "teqip"]
+aliases: ["BVB", "BVBCET"]
+last_modified: "2026-07-28"
+---
 # TEQIP
  **Source URL:** https://www.kletech.ac.in/teqip
  #### TEQIP

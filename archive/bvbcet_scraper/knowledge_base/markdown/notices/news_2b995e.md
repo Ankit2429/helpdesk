@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "notices"
+subcategory: ""
+document_type: "act"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/news-detail/innovating-for-tomorrow-avinya-varsh-2023-and-prayog-varsh-2023-design-thinking-and-engineering-exploration-exhibitions/142"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["design", "news", "projects", "social", "students", "varsh"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/news-detail/innovating-for-tomorrow-avinya-varsh-2023-and-prayog-varsh-2023-design-thinking-and-engineering-exploration-exhibitions/142
  ### Innovating for Tomorrow: Avinya Varsh 2023 and Prayog Varsh 2023 - Design Thinking and Engineering Exploration Exhibitions

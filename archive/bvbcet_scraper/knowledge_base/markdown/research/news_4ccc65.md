@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "research"
+subcategory: ""
+document_type: "document"
+department: "Science"
+campus: ""
+source_url: "https://www.kletech.ac.in/news-detail/role-of-youth-in-shaping-the-future-of-technology-and-research-highlighted-by-prof-abhay-karandikar-at-kle-technological-university-convocation/321"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["news", "prof", "research", "technological", "technology", "university"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/news-detail/role-of-youth-in-shaping-the-future-of-technology-and-research-highlighted-by-prof-abhay-karandikar-at-kle-technological-university-convocation/321
  ### Role of Youth in Shaping the Future of Technology and Research Highlighted by Prof. Abhay Karandikar at KLE Technological University Convocation

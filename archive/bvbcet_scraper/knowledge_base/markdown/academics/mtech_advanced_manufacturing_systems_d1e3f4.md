@@ -1,3 +1,17 @@
+---
+title: "M.Tech Advanced Manufacturing Systems"
+category: "academics"
+subcategory: "mtech"
+document_type: "syllabus"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/course/m-tech-advanced-manufacturing-systems"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["advanced", "become", "has", "hours", "hub", "india", "industrial", "manufacturing", "next", "potential"]
+aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept"]
+last_modified: "2026-07-28"
+---
 # M.Tech Advanced Manufacturing Systems
  **Source URL:** https://www.kletech.ac.in/course/m-tech-advanced-manufacturing-systems
  ## India has the potential to become the next manufacturing hub.

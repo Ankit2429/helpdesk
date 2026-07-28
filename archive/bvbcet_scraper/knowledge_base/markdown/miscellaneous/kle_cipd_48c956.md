@@ -1,3 +1,17 @@
+---
+title: "KLE CIPD"
+category: "miscellaneous"
+subcategory: "kle"
+document_type: "document"
+department: ""
+campus: ""
+source_url: "http://cipd.kletech.ac.in/"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["achievements", "areas", "cipd", "design", "development", "focused", "innovation", "kle", "product", "products"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # KLE CIPD
  **Source URL:** http://cipd.kletech.ac.in/
  # KLE CIPD

@@ -1,3 +1,17 @@
+---
+title: "PDF Document: KLE-TECH-UPSC"
+category: "miscellaneous"
+subcategory: ""
+document_type: "syllabus"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/pdf/KLE-TECH-UPSC.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["document", "exam", "important", "kle", "preparation", "session", "tech", "upsc"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # PDF Document: KLE-TECH-UPSC
  **PDF Source:** https://www.kletech.ac.in/pdf/KLE-TECH-UPSC.pdf
  ## Page 1

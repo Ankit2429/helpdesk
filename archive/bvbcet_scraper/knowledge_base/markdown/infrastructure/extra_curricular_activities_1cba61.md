@@ -1,3 +1,17 @@
+---
+title: "Extra Curricular Activities"
+category: "infrastructure"
+subcategory: "extra"
+document_type: "act"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/campus-life/extra-curricular-activities"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["activities", "competition", "cultural", "curricular", "date", "extra", "sports"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # Extra Curricular Activities
  **Source URL:** https://www.kletech.ac.in/campus-life/extra-curricular-activities
  #### 2019-20

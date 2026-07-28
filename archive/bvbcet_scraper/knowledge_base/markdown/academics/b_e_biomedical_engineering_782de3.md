@@ -1,3 +1,17 @@
+---
+title: "B E Biomedical Engineering"
+category: "academics"
+subcategory: "b"
+document_type: "syllabus"
+department: "Electronics and Communication"
+campus: "Belagavi"
+source_url: "https://www.kletech.ac.in/course/b-e-biomedical-engineering"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["application", "biomedical", "college", "design", "engineering", "knowledge", "medicine", "principles", "students"]
+aliases: ["HOD", "Head of Department", "CSE", "CS", "ECE", "EC", "EEE", "EE"]
+last_modified: "2026-07-28"
+---
 # B E Biomedical Engineering
  **Source URL:** https://www.kletech.ac.in/course/b-e-biomedical-engineering
  ## Biomedical engineering is the application of engineering principles in Medicine.

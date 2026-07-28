@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 03-bachelor-of-biotechnology-curriculum-structure-content-2023-2027"
+category: "academics"
+subcategory: ""
+document_type: "syllabus"
+department: "Biotechnology will excel and"
+campus: ""
+source_url: "https://www.kletech.ac.in/pdf/03-bachelor-of-biotechnology-curriculum-structure-content-2023-2027.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["bachelor", "biotechnology", "content", "course", "curriculum", "document", "hours", "introduction", "marks", "structure"]
+aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: 03-bachelor-of-biotechnology-curriculum-structure-content-2023-2027
  **PDF Source:** https://www.kletech.ac.in/pdf/03-bachelor-of-biotechnology-curriculum-structure-content-2023-2027.pdf
  ## Page 1

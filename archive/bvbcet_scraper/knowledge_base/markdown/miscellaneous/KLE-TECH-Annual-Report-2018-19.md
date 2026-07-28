@@ -1,3 +1,17 @@
+---
+title: "PDF Document: KLE-TECH-Annual-Report-2018-19"
+category: "miscellaneous"
+subcategory: ""
+document_type: "syllabus"
+department: "Electrical and Electronics Engineering"
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/pdf/KLE-TECH-Annual-Report-2018-19.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["annual", "document", "engineering", "kle", "report", "research", "students", "tech", "university"]
+aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE", "KLETech", "KLE Tech", "BVB", "BVBCET"]
+last_modified: "2026-07-28"
+---
 # PDF Document: KLE-TECH-Annual-Report-2018-19
  **PDF Source:** https://www.kletech.ac.in/pdf/KLE-TECH-Annual-Report-2018-19.pdf
  ## Page 1

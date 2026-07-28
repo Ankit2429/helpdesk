@@ -1,3 +1,17 @@
+---
+title: "Intenational Admission"
+category: "admissions"
+subcategory: "intenational"
+document_type: "act"
+department: "Education"
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/cpage.aspx?mpgid=178&pgidtrail=190"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["admission", "certificate", "education", "examination", "intenational", "school", "secondary"]
+aliases: ["CSE", "CS"]
+last_modified: "2026-07-28"
+---
 # Intenational Admission
  **Source URL:** https://www.kletech.ac.in/hubballi/cpage.aspx?mpgid=178&pgidtrail=190
  ### Overview

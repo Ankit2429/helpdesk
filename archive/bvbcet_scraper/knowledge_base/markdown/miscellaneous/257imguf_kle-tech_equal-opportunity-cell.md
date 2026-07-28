@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 257imguf_kle-tech_equal-opportunity-cell"
+category: "miscellaneous"
+subcategory: ""
+document_type: "act"
+department: "Computer Science"
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/Uploads/image/257imguf_kle-tech_equal-opportunity-cell.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["cell", "document", "hubballi", "member", "opportunity", "registrar", "technological", "university"]
+aliases: ["ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: 257imguf_kle-tech_equal-opportunity-cell
  **PDF Source:** https://www.kletech.ac.in/Uploads/image/257imguf_kle-tech_equal-opportunity-cell.pdf
  ## Page 1

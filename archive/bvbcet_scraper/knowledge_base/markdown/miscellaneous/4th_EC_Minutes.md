@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 4th_EC_Minutes"
+category: "miscellaneous"
+subcategory: ""
+document_type: "syllabus"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/pdf/4th_EC_Minutes.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["annexure", "approve", "document", "resolution", "university", "year"]
+aliases: ["CSE", "CS", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: 4th_EC_Minutes
  **PDF Source:** https://www.kletech.ac.in/pdf/4th_EC_Minutes.pdf
  ## Page 1

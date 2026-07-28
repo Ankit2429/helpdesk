@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "notices"
+subcategory: ""
+document_type: "act"
+department: ""
+campus: "Bengaluru"
+source_url: "https://www.kletech.ac.in/news-detail/kle-technological-university%E2%80%99s-team-wins-1st-prize-at-hackathon-at-pesitm/442"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["hackathon", "news", "prize", "team", "technological", "university"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/news-detail/kle-technological-university%E2%80%99s-team-wins-1st-prize-at-hackathon-at-pesitm/442
  ### KLE Technological University's team wins 1st prize at hackathon at PESITM

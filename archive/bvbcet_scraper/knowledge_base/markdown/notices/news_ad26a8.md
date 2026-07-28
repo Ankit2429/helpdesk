@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "notices"
+subcategory: ""
+document_type: "document"
+department: ""
+campus: "Bengaluru"
+source_url: "https://www.kletech.ac.in/news-detail/the-6th-national-constitutional-law-moot-court-competition-2023-24-at-kle-law-collegebengaluru/289"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["bengaluru", "college", "court", "high", "karnataka", "news"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/news-detail/the-6th-national-constitutional-law-moot-court-competition-2023-24-at-kle-law-collegebengaluru/289
  ### The 6th National Constitutional Law Moot Court Competition 2023-24 at KLE Law College, Bengaluru

@@ -1,3 +1,17 @@
+---
+title: "Star Labs / Research Centers"
+category: "research"
+subcategory: "star"
+document_type: "act"
+department: "Science and Technology"
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/research-innovation/star-labs-research-centers"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["applications", "center", "centers", "centre", "control", "labs", "research", "star"]
+aliases: ["HOD", "Head of Department"]
+last_modified: "2026-07-28"
+---
 # Star Labs / Research Centers
  **Source URL:** https://www.kletech.ac.in/hubballi/research-innovation/star-labs-research-centers
  ### Center of Excellence in Visual Intelligence (CEVI)

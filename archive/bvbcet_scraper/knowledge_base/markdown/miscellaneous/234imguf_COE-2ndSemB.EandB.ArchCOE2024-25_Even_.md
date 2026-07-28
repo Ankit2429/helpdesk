@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 234imguf_COE-2ndSemB.EandB.ArchCOE2024-25_Even_"
+category: "miscellaneous"
+subcategory: ""
+document_type: "minutes"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/Uploads/image/234imguf_COE-2ndSemB.EandB.ArchCOE2024-25(Even).pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["april", "date", "document", "eandb", "june", "march", "minor"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # PDF Document: 234imguf_COE-2ndSemB.EandB.ArchCOE2024-25_Even_
  **PDF Source:** https://www.kletech.ac.in/Uploads/image/234imguf_COE-2ndSemB.EandB.ArchCOE2024-25(Even).pdf
  ## Page 1

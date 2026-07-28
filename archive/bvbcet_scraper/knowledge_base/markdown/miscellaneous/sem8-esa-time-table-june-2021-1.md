@@ -1,3 +1,17 @@
+---
+title: "PDF Document: sem8-esa-time-table-june-2021-1"
+category: "miscellaneous"
+subcategory: ""
+document_type: "timetable"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/pdf/sem8-esa-time-table-june-2021-1.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["document", "engineering", "esa", "june", "management", "nano", "part", "table", "technology", "time"]
+aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE"]
+last_modified: "2026-07-28"
+---
 # PDF Document: sem8-esa-time-table-june-2021-1
  **PDF Source:** https://www.kletech.ac.in/hubballi/pdf/sem8-esa-time-table-june-2021-1.pdf
  ## Page 1

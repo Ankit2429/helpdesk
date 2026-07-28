@@ -1,3 +1,17 @@
+---
+title: "Our Programs"
+category: "academics"
+subcategory: "our"
+document_type: "document"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/research-innovation/research-programs"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["innovation", "master", "programs", "research", "within"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # Our Programs
  **Source URL:** https://www.kletech.ac.in/research-innovation/research-programs
  ### Research Programs: Shaping Tomorrow's Innovators and Scholars

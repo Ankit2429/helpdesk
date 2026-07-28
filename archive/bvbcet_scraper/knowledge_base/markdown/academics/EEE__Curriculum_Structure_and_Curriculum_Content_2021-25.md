@@ -1,3 +1,17 @@
+---
+title: "PDF Document: EEE__Curriculum_Structure_and_Curriculum_Content_2021-25"
+category: "academics"
+subcategory: "EEE"
+document_type: "syllabus"
+department: "Mechanical Engineering"
+campus: ""
+source_url: "https://www.kletech.ac.in/pdf/EEE _Curriculum_Structure_and_Curriculum_Content 2021-25.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["chapter", "course", "document", "hours", "marks", "unit"]
+aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "EEE", "EE", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: EEE__Curriculum_Structure_and_Curriculum_Content_2021-25
  **PDF Source:** https://www.kletech.ac.in/pdf/EEE _Curriculum_Structure_and_Curriculum_Content 2021-25.pdf
  ## Page 1

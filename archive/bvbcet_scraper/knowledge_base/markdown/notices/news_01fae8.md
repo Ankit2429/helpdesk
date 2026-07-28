@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "notices"
+subcategory: ""
+document_type: "document"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/news-details/9th-international-day-of-yoga-was-celebrated-at-kle-technological-university/27"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["news", "prof", "technological", "university", "yoga"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/hubballi/news-details/9th-international-day-of-yoga-was-celebrated-at-kle-technological-university/27
  ### 9th International Day of Yoga was celebrated at KLE Technological University.

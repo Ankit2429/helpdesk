@@ -1,3 +1,17 @@
+---
+title: "Privacy Policy"
+category: "downloads"
+subcategory: "privacy"
+document_type: "notice"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/privacy-policy"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["information", "policy", "privacy", "when", "will"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # Privacy Policy
  **Source URL:** https://www.kletech.ac.in/privacy-policy
  # Privacy Policy

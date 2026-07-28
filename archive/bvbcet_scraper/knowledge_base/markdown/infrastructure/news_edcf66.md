@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "infrastructure"
+subcategory: ""
+document_type: "document"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/news-detail/star-labs-received-three-travel-grants-to-attend-the-ieee/131"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["computer", "grant", "ieee", "news", "star", "travel"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/news-detail/star-labs-received-three-travel-grants-to-attend-the-ieee/131
  ### Star Labs - Received Three Travel Grants to Attend the IEEE

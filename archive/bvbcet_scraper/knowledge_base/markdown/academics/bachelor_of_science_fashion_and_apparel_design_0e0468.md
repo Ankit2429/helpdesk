@@ -1,3 +1,17 @@
+---
+title: "Bachelor of Science (Fashion and Apparel Design)"
+category: "academics"
+subcategory: "bachelor"
+document_type: "act"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/course/bachelor-of-science-fashion-and-apparel-design"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["apparel", "bachelor", "blend", "contemporary", "creative", "design", "driven", "enables", "experience", "explore"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # Bachelor of Science (Fashion and Apparel Design)
  **Source URL:** https://www.kletech.ac.in/hubballi/course/bachelor-of-science-fashion-and-apparel-design
  ## This program enables learners to explore the creative realms of present to contemporary fashion with a holistic learning through a process driven blend of theory, practical hands-on experience to function, strategize and render services to the Fashion and Lifestyles Design Industry.

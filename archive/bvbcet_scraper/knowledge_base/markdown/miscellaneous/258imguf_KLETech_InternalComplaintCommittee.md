@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 258imguf_KLETech_InternalComplaintCommittee"
+category: "miscellaneous"
+subcategory: ""
+document_type: "act"
+department: "Biotechnology Member"
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/Uploads/image/258imguf_KLETech_InternalComplaintCommittee.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["department", "document", "hubballi", "member", "technological", "university"]
+aliases: ["CSE", "CS", "ECE", "EC", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: 258imguf_KLETech_InternalComplaintCommittee
  **PDF Source:** https://www.kletech.ac.in/Uploads/image/258imguf_KLETech_InternalComplaintCommittee.pdf
  ## Page 1

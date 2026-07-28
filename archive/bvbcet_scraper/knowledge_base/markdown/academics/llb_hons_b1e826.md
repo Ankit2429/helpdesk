@@ -1,3 +1,17 @@
+---
+title: "LL.B. (Hons.)"
+category: "academics"
+subcategory: "llb"
+document_type: "syllabus"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/coursedetail.aspx?mpgid=30&pgidtrail=30&courseid=90"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["candidates", "career", "course", "crafted", "cultivate", "degree", "embarking", "examination", "experts", "hons"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # LL.B. (Hons.)
  **Source URL:** https://www.kletech.ac.in/coursedetail.aspx?mpgid=30&pgidtrail=30&courseid=90
  ## The 3-year LL.B. (Hons.) programme represents the traditional pathway to embarking upon a career in the legal sphere, meticulously crafted to cultivate well-rounded legal experts.

@@ -1,3 +1,17 @@
+---
+title: "PDF Document: minutes-of-first-iqac_pdf-2"
+category: "miscellaneous"
+subcategory: ""
+document_type: "syllabus"
+department: "MCA Member"
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/pdf/minutes-of-first-iqac_pdf-2.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["document", "iqac", "minutes", "process", "processes", "quality", "tech"]
+aliases: ["HOD", "Head of Department", "CSE", "CS", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: minutes-of-first-iqac_pdf-2
  **PDF Source:** https://www.kletech.ac.in/pdf/minutes-of-first-iqac_pdf-2.pdf
  ## Page 1

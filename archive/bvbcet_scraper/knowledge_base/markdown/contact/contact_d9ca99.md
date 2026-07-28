@@ -1,3 +1,17 @@
+---
+title: "Contact"
+category: "contact"
+subcategory: "contact"
+document_type: "act"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/contact-us"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["bhoomaraddi", "campus", "contact", "hubballi", "kle", "kletech", "technological", "university"]
+aliases: ["KLETech", "KLE Tech", "BVB", "BVBCET"]
+last_modified: "2026-07-28"
+---
 # Contact
  **Source URL:** https://www.kletech.ac.in/contact-us
  ## KLE Technological University

@@ -1,3 +1,17 @@
+---
+title: "PDF Document: bachelor-civil-engineering-curriculum-2022-2026"
+category: "academics"
+subcategory: ""
+document_type: "syllabus"
+department: "Mechanical Engineering"
+campus: ""
+source_url: "https://www.kletech.ac.in/pdf/bachelor-civil-engineering-curriculum-2022-2026.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["bachelor", "civil", "course", "curriculum", "delhi", "design", "document", "engineering", "marks"]
+aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "EEE", "EE", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: bachelor-civil-engineering-curriculum-2022-2026
  **PDF Source:** https://www.kletech.ac.in/pdf/bachelor-civil-engineering-curriculum-2022-2026.pdf
  ## Page 1

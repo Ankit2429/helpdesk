@@ -1,3 +1,17 @@
+---
+title: "Media Coverage"
+category: "miscellaneous"
+subcategory: "media"
+document_type: "document"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/happenings/media-coverage"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["coverage", "date", "karnataka", "media", "prajavani", "publication", "times"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # Media Coverage
  **Source URL:** https://www.kletech.ac.in/happenings/media-coverage
  # Media Coverage

@@ -1,3 +1,17 @@
+---
+title: "B.Com. LL.B"
+category: "academics"
+subcategory: "bcom"
+document_type: "act"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/course-detail/b-com-ll-b/28"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["bachelors", "com", "combines", "commerce", "course", "degree", "integrated", "law", "optional", "programme"]
+aliases: ["HOD", "Head of Department"]
+last_modified: "2026-07-28"
+---
 # B.Com. LL.B
  **Source URL:** https://www.kletech.ac.in/course-detail/b-com-ll-b/28
  ## The B.Com. LL.B. is a 5-year integrated programme that combines Bachelors' degree programme in Commerce together with the  Bachelors' Degree programme in Law.

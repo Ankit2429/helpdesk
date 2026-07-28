@@ -1,3 +1,17 @@
+---
+title: "Ph.D. in Mechanical Engineering"
+category: "academics"
+subcategory: "phd"
+document_type: "syllabus"
+department: "Electronics and Communication"
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/course/phd-in-mechanical-engineering"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["college", "department", "engineering", "mechanical", "students", "which"]
+aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE"]
+last_modified: "2026-07-28"
+---
 # Ph.D. in Mechanical Engineering
  **Source URL:** https://www.kletech.ac.in/hubballi/course/phd-in-mechanical-engineering
  ### School of Mechanical Engineering has Faculties Working in two Research Areas

@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "notices"
+subcategory: ""
+document_type: "act"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/news-details/kle-tech-signing-lou-with-dvera-holdings/339"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["dvera", "holdings", "news", "signing", "tech"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/hubballi/news-details/kle-tech-signing-lou-with-dvera-holdings/339
  ### KLE Tech signing LoU with Dvera Holdings

@@ -1,3 +1,17 @@
+---
+title: "Ph.D. in Computer Science & Engineering"
+category: "academics"
+subcategory: "phd"
+document_type: "syllabus"
+department: "Electronics and Communication"
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/course/phd-in-computer-science-engineering"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["areas", "college", "computer", "engineering", "faculties", "has", "namely", "part", "research", "scholars"]
+aliases: ["HOD", "Head of Department", "CSE", "CS", "ECE", "EC", "EEE", "EE"]
+last_modified: "2026-07-28"
+---
 # Ph.D. in Computer Science & Engineering
  **Source URL:** https://www.kletech.ac.in/hubballi/course/phd-in-computer-science-engineering
  ## School of Computer Science & Engineering has faculties working in the research areas namely

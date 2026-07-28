@@ -1,3 +1,17 @@
+---
+title: "PDF Document: bachelor-chemical-engineering-curriculum-structure-2021-2025"
+category: "academics"
+subcategory: ""
+document_type: "syllabus"
+department: "Chemical Engineering"
+campus: ""
+source_url: "https://www.kletech.ac.in/pdf/bachelor-chemical-engineering-curriculum-structure-2021-2025.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["bachelor", "chapter", "chemical", "curriculum", "document", "engineering", "hours", "marks", "structure", "unit"]
+aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "EEE", "EE", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: bachelor-chemical-engineering-curriculum-structure-2021-2025
  **PDF Source:** https://www.kletech.ac.in/pdf/bachelor-chemical-engineering-curriculum-structure-2021-2025.pdf
  ## Page 1

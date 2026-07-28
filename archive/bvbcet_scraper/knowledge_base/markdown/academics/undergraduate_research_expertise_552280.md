@@ -1,3 +1,17 @@
+---
+title: "Undergraduate Research Expertise"
+category: "academics"
+subcategory: "undergraduate"
+document_type: "minutes"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/research/our-programs/undergraduate-research-expertise"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["expertise", "internships", "projects", "research", "students", "undergraduate"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # Undergraduate Research Expertise
  **Source URL:** https://www.kletech.ac.in/research/our-programs/undergraduate-research-expertise
  ### Undergraduate Research: Fostering Early Engagement

@@ -1,3 +1,17 @@
+---
+title: "Image Gallery"
+category: "gallery"
+subcategory: "image"
+document_type: "document"
+department: "Civil Engineering"
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/happenings/image-gallery"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["electronics", "engineering", "gallery", "image", "photo"]
+aliases: ["ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE"]
+last_modified: "2026-07-28"
+---
 # Image Gallery
  **Source URL:** https://www.kletech.ac.in/happenings/image-gallery
  # Image Gallery

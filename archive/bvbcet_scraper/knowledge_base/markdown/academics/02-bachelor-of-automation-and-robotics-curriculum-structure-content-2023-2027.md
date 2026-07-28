@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 02-bachelor-of-automation-and-robotics-curriculum-structure-content-2023-2027"
+category: "academics"
+subcategory: ""
+document_type: "syllabus"
+department: "Automation"
+campus: ""
+source_url: "https://www.kletech.ac.in/pdf/02-bachelor-of-automation-and-robotics-curriculum-structure-content-2023-2027.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["automation", "bachelor", "chapter", "content", "course", "curriculum", "design", "document", "introduction", "marks"]
+aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "EEE", "EE", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: 02-bachelor-of-automation-and-robotics-curriculum-structure-content-2023-2027
  **PDF Source:** https://www.kletech.ac.in/pdf/02-bachelor-of-automation-and-robotics-curriculum-structure-content-2023-2027.pdf
  ## Page 1

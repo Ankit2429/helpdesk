@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 189krf-Campus-Placement-Brochure"
+category: "placements"
+subcategory: ""
+document_type: "act"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/uploads/Files/189krf-Campus-Placement-Brochure.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["brochure", "campus", "college", "document", "karnataka", "legal", "placement", "students", "university"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # PDF Document: 189krf-Campus-Placement-Brochure
  **PDF Source:** https://www.kletech.ac.in/uploads/Files/189krf-Campus-Placement-Brochure.pdf
  ## Page 1

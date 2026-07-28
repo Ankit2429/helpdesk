@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "research"
+subcategory: ""
+document_type: "document"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/news-details/revolutionizing-honey-harvesting-kle-techs-patented-iab-device-in-indian-innovators-associations-2023-yearbook!/157"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["harvesting", "honey", "news", "patented", "revolutionizing"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/hubballi/news-details/revolutionizing-honey-harvesting-kle-techs-patented-iab-device-in-indian-innovators-associations-2023-yearbook!/157
  ### Revolutionizing Honey Harvesting: KLE Tech's Patented IAB Device in Indian Innovators Association's 2023 Yearbook!

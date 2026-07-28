@@ -1,3 +1,17 @@
+---
+title: "B E Chemical Engineering"
+category: "academics"
+subcategory: "b"
+document_type: "syllabus"
+department: "Electronics and Communication"
+campus: "Belagavi"
+source_url: "https://www.kletech.ac.in/course-detail/b-e-chemical-engineering/38"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["analysis", "chemical", "college", "convert", "design", "effectively", "energy", "engineering", "materials", "more"]
+aliases: ["HOD", "Head of Department", "CSE", "CS", "ECE", "EC", "EEE", "EE"]
+last_modified: "2026-07-28"
+---
 # B E Chemical Engineering
  **Source URL:** https://www.kletech.ac.in/course-detail/b-e-chemical-engineering/38
  ## Chemical engineering is the analysis or design of chemical processes to convert materials effectively into more useful materials or into energy.

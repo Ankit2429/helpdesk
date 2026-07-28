@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 09-bachelor-of-electronics-engg-vlsi-curriculum-structure-and-content-2023-27"
+category: "academics"
+subcategory: ""
+document_type: "syllabus"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/pdf/09-bachelor-of-electronics-engg-vlsi-curriculum-structure-and-content-2023-27.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["bachelor", "content", "curriculum", "design", "document", "electronics", "engg", "engineering", "structure", "technology"]
+aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "ECE", "EC", "EEE", "EE"]
+last_modified: "2026-07-28"
+---
 # PDF Document: 09-bachelor-of-electronics-engg-vlsi-curriculum-structure-and-content-2023-27
  **PDF Source:** https://www.kletech.ac.in/pdf/09-bachelor-of-electronics-engg-vlsi-curriculum-structure-and-content-2023-27.pdf
  ## Page 1

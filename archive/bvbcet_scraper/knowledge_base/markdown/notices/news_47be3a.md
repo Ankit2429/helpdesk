@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "notices"
+subcategory: ""
+document_type: "document"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/news-details/arun-kambrekar-dominates-state-level-powerlifting-championshipclinches-gold/292"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["arun", "kambrekar", "level", "news", "state"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/hubballi/news-details/arun-kambrekar-dominates-state-level-powerlifting-championshipclinches-gold/292
  ### Arun Kambrekar Dominates State-Level Powerlifting Championship, Clinches Gold

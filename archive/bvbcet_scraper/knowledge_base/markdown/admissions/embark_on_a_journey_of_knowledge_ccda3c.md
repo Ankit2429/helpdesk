@@ -1,3 +1,17 @@
+---
+title: "Embark on a journey of Knowledge!"
+category: "admissions"
+subcategory: "embark"
+document_type: "document"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/admission2026"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["alumnus", "application", "course", "duration", "education", "embark", "journey", "kle", "knowledge", "process"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # Embark on a journey of Knowledge!
  **Source URL:** https://www.kletech.ac.in/admission2026
  # Embark on a journey of Knowledge!

@@ -1,3 +1,17 @@
+---
+title: "PDF Document: Biotech_Curriculum_Structure_Content_2021-25"
+category: "academics"
+subcategory: "Biotech"
+document_type: "syllabus"
+department: "Biotechnology will excel and"
+campus: ""
+source_url: "https://www.kletech.ac.in/pdf/Biotech_Curriculum_Structure_Content_2021-25.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["course", "document", "engineering", "hours", "marks", "unit"]
+aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: Biotech_Curriculum_Structure_Content_2021-25
  **PDF Source:** https://www.kletech.ac.in/pdf/Biotech_Curriculum_Structure_Content_2021-25.pdf
  ## Page 1

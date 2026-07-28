@@ -1,3 +1,17 @@
+---
+title: "Center of Excellence in Material Science (CMS)"
+category: "research"
+subcategory: "center"
+document_type: "act"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/research/cms"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["center", "cms", "excellence", "material", "materials", "research", "science"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # Center of Excellence in Material Science (CMS)
  **Source URL:** https://www.kletech.ac.in/research/cms
  # Center of Excellence in Material Science (CMS)

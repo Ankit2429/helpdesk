@@ -1,3 +1,17 @@
+---
+title: "PDF Document: barch-curriculum-structure-content-2020-2025"
+category: "academics"
+subcategory: ""
+document_type: "syllabus"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/pdf/barch-curriculum-structure-content-2020-2025.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["architecture", "barch", "content", "curriculum", "design", "document", "hours", "marks", "structure", "unit"]
+aliases: ["HOD", "Head of Department", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: barch-curriculum-structure-content-2020-2025
  **PDF Source:** https://www.kletech.ac.in/pdf/barch-curriculum-structure-content-2020-2025.pdf
  ## Page 1

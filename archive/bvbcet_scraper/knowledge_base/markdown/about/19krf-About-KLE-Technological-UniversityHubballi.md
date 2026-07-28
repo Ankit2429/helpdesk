@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 19krf-About-KLE-Technological-UniversityHubballi"
+category: "about"
+subcategory: ""
+document_type: "act"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/uploads/Files/19krf-About-KLE-Technological-UniversityHubballi.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["bosch", "document", "engg", "industry", "kle", "robert", "technological", "university", "universityhubballi"]
+aliases: ["CSE", "CS", "ECE", "EC", "EEE", "EE", "BVB", "BVBCET"]
+last_modified: "2026-07-28"
+---
 # PDF Document: 19krf-About-KLE-Technological-UniversityHubballi
  **PDF Source:** https://www.kletech.ac.in/uploads/Files/19krf-About-KLE-Technological-UniversityHubballi.pdf
  ## Page 1

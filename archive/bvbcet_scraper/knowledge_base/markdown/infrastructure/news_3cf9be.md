@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "infrastructure"
+subcategory: ""
+document_type: "act"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/news-detail/kle-tech-and-dassault-systemes-collaborate-for-centre-of-excellence/270"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["dassault", "excellence", "industry", "news", "technological", "university"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/news-detail/kle-tech-and-dassault-systemes-collaborate-for-centre-of-excellence/270
  ### KLE Tech and Dassault Systemes collaborate for Centre of Excellence

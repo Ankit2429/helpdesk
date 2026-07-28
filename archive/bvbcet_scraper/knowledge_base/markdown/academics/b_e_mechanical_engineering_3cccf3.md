@@ -1,3 +1,17 @@
+---
+title: "B E Mechanical Engineering"
+category: "academics"
+subcategory: "b"
+document_type: "syllabus"
+department: "Electronics and Communication"
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/course/bachelor-of-engineering-mechanical-engineering"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["actively", "are", "bicycles", "college", "complex", "design", "development", "engineering", "engineers", "have"]
+aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE"]
+last_modified: "2026-07-28"
+---
 # B E Mechanical Engineering
  **Source URL:** https://www.kletech.ac.in/hubballi/course/bachelor-of-engineering-mechanical-engineering
  ## Mechanical Engineers are actively involved in design and development of myriad systems ranging from the complex space shuttles to the naive bicycles.

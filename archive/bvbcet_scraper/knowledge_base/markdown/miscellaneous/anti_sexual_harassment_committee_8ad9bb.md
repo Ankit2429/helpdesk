@@ -1,3 +1,17 @@
+---
+title: "Anti-Sexual Harassment Committee"
+category: "miscellaneous"
+subcategory: "anti"
+document_type: "document"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/student-support/anti-sexual-harassment-committee"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["anti", "committee", "dean", "harassment", "kletech", "member", "prof", "sexual"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # Anti-Sexual Harassment Committee
  **Source URL:** https://www.kletech.ac.in/student-support/anti-sexual-harassment-committee
  ### Anti-Sexual Harassment Committee of the KLE Technological University

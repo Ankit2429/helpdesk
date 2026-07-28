@@ -1,3 +1,17 @@
+---
+title: "Post Graduate Program"
+category: "admissions"
+subcategory: "post"
+document_type: "act"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/admission/domestic-admission/post-graduate-program"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["admission", "engineering", "graduate", "intake", "post", "program", "programs", "shall", "tech", "unaided"]
+aliases: ["ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # Post Graduate Program
  **Source URL:** https://www.kletech.ac.in/admission/domestic-admission/post-graduate-program
  ### Overview

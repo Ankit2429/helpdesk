@@ -1,3 +1,17 @@
+---
+title: "Makers Space"
+category: "research"
+subcategory: "makers"
+document_type: "act"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/research-innovation/makers-space"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["engineering", "high", "machine", "machining", "makers", "materials", "space"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # Makers Space
  **Source URL:** https://www.kletech.ac.in/hubballi/research-innovation/makers-space
  # Makers Space

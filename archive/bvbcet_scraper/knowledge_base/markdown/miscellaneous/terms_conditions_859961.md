@@ -1,3 +1,17 @@
+---
+title: "Terms & Conditions"
+category: "miscellaneous"
+subcategory: "terms"
+document_type: "act"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/terms-conditions"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["conditions", "information", "policy", "privacy", "site", "sites", "terms"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # Terms & Conditions
  **Source URL:** https://www.kletech.ac.in/terms-conditions
  # Terms & Conditions

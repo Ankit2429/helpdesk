@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "about"
+subcategory: ""
+document_type: "act"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/news-detail/kle-tech-hosts-pre-summit-leadership-workshop-on-ai-in-higher-education/421"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["leadership", "news", "summit", "tech", "technological", "university"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/news-detail/kle-tech-hosts-pre-summit-leadership-workshop-on-ai-in-higher-education/421
  ### KLE Tech Hosts Pre-Summit Leadership Workshop on AI in Higher Education

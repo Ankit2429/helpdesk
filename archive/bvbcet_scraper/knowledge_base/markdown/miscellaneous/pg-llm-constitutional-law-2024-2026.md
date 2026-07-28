@@ -1,3 +1,17 @@
+---
+title: "PDF Document: pg-llm-constitutional-law-2024-2026"
+category: "miscellaneous"
+subcategory: ""
+document_type: "syllabus"
+department: "Law"
+campus: ""
+source_url: "https://www.kletech.ac.in/pdf/pg-llm-constitutional-law-2024-2026.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["constitutional", "course", "document", "law", "legal", "llm", "research", "unit"]
+aliases: ["HOD", "Head of Department", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: pg-llm-constitutional-law-2024-2026
  **PDF Source:** https://www.kletech.ac.in/pdf/pg-llm-constitutional-law-2024-2026.pdf
  ## Page 1

@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 06-bachelor-of-electrical-and-electronics-engg-curriculum-structure-content-2023-2027"
+category: "academics"
+subcategory: ""
+document_type: "syllabus"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/pdf/06-bachelor-of-electrical-and-electronics-engg-curriculum-structure-content-2023-2027.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["bachelor", "chapter", "content", "course", "curriculum", "design", "document", "electrical", "electronics", "engg"]
+aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "ECE", "EC", "EEE", "EE", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: 06-bachelor-of-electrical-and-electronics-engg-curriculum-structure-content-2023-2027
  **PDF Source:** https://www.kletech.ac.in/pdf/06-bachelor-of-electrical-and-electronics-engg-curriculum-structure-content-2023-2027.pdf
  ## Page 1

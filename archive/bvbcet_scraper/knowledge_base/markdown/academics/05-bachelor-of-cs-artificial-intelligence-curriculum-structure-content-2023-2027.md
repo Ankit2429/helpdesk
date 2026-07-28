@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 05-bachelor-of-cs-artificial-intelligence-curriculum-structure-content-2023-2027"
+category: "academics"
+subcategory: ""
+document_type: "syllabus"
+department: "Mechanical Engineering"
+campus: ""
+source_url: "https://www.kletech.ac.in/pdf/05-bachelor-of-cs-artificial-intelligence-curriculum-structure-content-2023-2027.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["artificial", "bachelor", "content", "course", "curriculum", "data", "document", "engineering", "intelligence", "marks"]
+aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: 05-bachelor-of-cs-artificial-intelligence-curriculum-structure-content-2023-2027
  **PDF Source:** https://www.kletech.ac.in/pdf/05-bachelor-of-cs-artificial-intelligence-curriculum-structure-content-2023-2027.pdf
  ## Page 1

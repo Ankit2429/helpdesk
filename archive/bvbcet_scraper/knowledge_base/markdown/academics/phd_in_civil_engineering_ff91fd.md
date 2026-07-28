@@ -1,3 +1,17 @@
+---
+title: "Ph.D. in Civil Engineering"
+category: "academics"
+subcategory: "phd"
+document_type: "syllabus"
+department: "Electronics and Communication"
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/course/phd-in-civil-engineering"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["areas", "civil", "college", "department", "engineering", "faculties", "five", "has", "research", "scholars"]
+aliases: ["HOD", "Head of Department", "CSE", "CS", "ECE", "EC", "EEE", "EE"]
+last_modified: "2026-07-28"
+---
 # Ph.D. in Civil Engineering
  **Source URL:** https://www.kletech.ac.in/hubballi/course/phd-in-civil-engineering
  ## School of Civil Engineering has faculties working in five research areas

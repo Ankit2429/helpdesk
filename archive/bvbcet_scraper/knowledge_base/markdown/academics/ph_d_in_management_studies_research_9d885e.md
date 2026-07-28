@@ -1,3 +1,17 @@
+---
+title: "Ph. D. in Management Studies & Research"
+category: "academics"
+subcategory: "ph"
+document_type: "syllabus"
+department: "Electronics and Communication"
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/coursedetail.aspx?mpgid=151&pgidtrail=151&courseid=67"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["college", "department", "engineering", "kle", "management", "offers", "program", "research", "school", "students"]
+aliases: ["HOD", "Head of Department", "CSE", "CS", "ECE", "EC", "EEE", "EE", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # Ph. D. in Management Studies & Research
  **Source URL:** https://www.kletech.ac.in/hubballi/coursedetail.aspx?mpgid=151&pgidtrail=151&courseid=67
  ## School of Management Studies and Research offers Ph.D. Program under KLE Technological University.

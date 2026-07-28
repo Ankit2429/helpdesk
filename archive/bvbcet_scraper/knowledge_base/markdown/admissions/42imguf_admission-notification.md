@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 42imguf_admission-notification"
+category: "admissions"
+subcategory: ""
+document_type: "document"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/Uploads/image/42imguf_admission-notification.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["college", "document", "engineering", "karnataka", "kletech", "notification"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: 42imguf_admission-notification
  **PDF Source:** https://www.kletech.ac.in/Uploads/image/42imguf_admission-notification.pdf
  ## Page 1

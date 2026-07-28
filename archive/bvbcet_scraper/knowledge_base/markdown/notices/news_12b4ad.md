@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "notices"
+subcategory: ""
+document_type: "act"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/news-detail/kle-tech-students-win-special-recognition-at-ictiee-2026-for-waste-to-filament-innovation/413"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["filament", "innovation", "news", "tech", "technological", "waste"]
+aliases: ["ME", "Mechanical Dept", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/news-detail/kle-tech-students-win-special-recognition-at-ictiee-2026-for-waste-to-filament-innovation/413
  ### KLE Tech Students Win Special Recognition at ICTIEE 2026 for Waste-to-Filament Innovation

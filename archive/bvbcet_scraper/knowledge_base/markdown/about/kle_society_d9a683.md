@@ -1,3 +1,17 @@
+---
+title: "KLE Society"
+category: "about"
+subcategory: "kle"
+document_type: "act"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/about/kle-society"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["every", "kle", "members", "society", "trust", "years"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # KLE Society
  **Source URL:** https://www.kletech.ac.in/about/kle-society
  ## 35+

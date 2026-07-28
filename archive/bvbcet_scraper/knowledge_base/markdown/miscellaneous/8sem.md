@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 8sem"
+category: "miscellaneous"
+subcategory: ""
+document_type: "minutes"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/pdf/8sem.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["april", "date", "document", "last", "march", "minor"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # PDF Document: 8sem
  **PDF Source:** https://www.kletech.ac.in/pdf/8sem.pdf
  ## Page 1

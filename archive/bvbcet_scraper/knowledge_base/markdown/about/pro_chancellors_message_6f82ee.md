@@ -1,3 +1,17 @@
+---
+title: "Pro Chancellor's Message"
+category: "about"
+subcategory: "pro"
+document_type: "syllabus"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/about/pro-chancellors-message"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["chancellor", "experiences", "message", "pro", "research", "students", "university"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # Pro Chancellor's Message
  **Source URL:** https://www.kletech.ac.in/about/pro-chancellors-message
  # Pro Chancellor's Message

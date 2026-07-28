@@ -1,3 +1,17 @@
+---
+title: "PDF Document: Regulations-Governing-MS-Programs-20-July-2020-2"
+category: "academics"
+subcategory: ""
+document_type: "minutes"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/pdf/Regulations-Governing-MS-Programs-20-July-2020-2.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["committee", "document", "governing", "july", "programs", "regulations", "research", "scholars", "shall", "thesis"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: Regulations-Governing-MS-Programs-20-July-2020-2
  **PDF Source:** https://www.kletech.ac.in/pdf/Regulations-Governing-MS-Programs-20-July-2020-2.pdf
  ## Page 1

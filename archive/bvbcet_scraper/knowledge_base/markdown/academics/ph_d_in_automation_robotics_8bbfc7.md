@@ -1,3 +1,17 @@
+---
+title: "Ph. D. in Automation & Robotics"
+category: "academics"
+subcategory: "ph"
+document_type: "act"
+department: "Automation and Robotics Engineering has faculties "
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/coursedetail.aspx?mpgid=151&pgidtrail=151&courseid=80"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["architectural", "areas", "automation", "building", "const", "department", "design", "engineering", "faculties", "has"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # Ph. D. in Automation & Robotics
  **Source URL:** https://www.kletech.ac.in/hubballi/coursedetail.aspx?mpgid=151&pgidtrail=151&courseid=80
  ## Department of Automation and Robotics Engineering has faculties working in the research areas namely

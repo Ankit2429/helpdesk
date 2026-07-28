@@ -1,3 +1,17 @@
+---
+title: "PDF Document: Minutes-10th-ECM-Online"
+category: "miscellaneous"
+subcategory: ""
+document_type: "syllabus"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/pdf/Minutes-10th-ECM-Online.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["course", "document", "ecm", "examinations", "minutes", "online", "shall", "student", "university"]
+aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: Minutes-10th-ECM-Online
  **PDF Source:** https://www.kletech.ac.in/pdf/Minutes-10th-ECM-Online.pdf
  ## Page 1

@@ -1,3 +1,17 @@
+---
+title: "Executive Council"
+category: "miscellaneous"
+subcategory: "executive"
+document_type: "minutes"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/cpage.aspx?mpgid=2&pgid1=7&pgid2=11&pgidtrail=499"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["chancellor", "council", "dean", "executive", "meeting"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # Executive Council
  **Source URL:** https://www.kletech.ac.in/cpage.aspx?mpgid=2&pgid1=7&pgid2=11&pgidtrail=499
  #### Dr. Prakash G. Tewari

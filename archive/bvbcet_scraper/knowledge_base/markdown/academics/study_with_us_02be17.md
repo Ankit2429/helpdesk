@@ -1,3 +1,17 @@
+---
+title: "STUDY WITH US"
+category: "academics"
+subcategory: "study"
+document_type: "act"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/course-detail/ms-management-studies-research/news-detail/day-2-national-symposium-on-polymer-science-highlights-sustainability-and-innovation-at-kle-tech/408"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["achievements", "admissions", "batch", "beginnings", "celebrating", "creativity", "culture", "education", "excellence", "future"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # STUDY WITH US
  **Source URL:** https://www.kletech.ac.in/course-detail/ms-management-studies-research/news-detail/day-2-national-symposium-on-polymer-science-highlights-sustainability-and-innovation-at-kle-tech/408
  ## Admissions Open for the Batch of 2026 - 27

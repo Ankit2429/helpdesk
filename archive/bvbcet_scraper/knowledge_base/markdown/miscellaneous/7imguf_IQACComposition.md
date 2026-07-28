@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 7imguf_IQACComposition"
+category: "miscellaneous"
+subcategory: ""
+document_type: "syllabus"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/Uploads/image/7imguf_IQACComposition.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["academic", "activities", "document", "iqac", "quality", "university"]
+aliases: ["HOD", "Head of Department", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: 7imguf_IQACComposition
  **PDF Source:** https://www.kletech.ac.in/Uploads/image/7imguf_IQACComposition.pdf
  ## Page 1

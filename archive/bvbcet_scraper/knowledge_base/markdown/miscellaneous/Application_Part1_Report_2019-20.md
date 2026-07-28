@@ -1,3 +1,17 @@
+---
+title: "PDF Document: Application_Part1_Report_2019-20"
+category: "miscellaneous"
+subcategory: "Application"
+document_type: "notice"
+department: "Electrical"
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/pdf/Application_Part1_Report_2019-20.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["document", "engineering", "graduate", "ready", "school", "technology"]
+aliases: ["HOD", "Head of Department", "CSE", "CS", "EEE", "EE", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: Application_Part1_Report_2019-20
  **PDF Source:** https://www.kletech.ac.in/pdf/Application_Part1_Report_2019-20.pdf
  ## Page 1

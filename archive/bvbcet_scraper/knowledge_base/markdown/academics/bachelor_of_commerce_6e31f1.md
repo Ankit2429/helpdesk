@@ -1,3 +1,17 @@
+---
+title: "Bachelor of Commerce"
+category: "academics"
+subcategory: "bachelor"
+document_type: "syllabus"
+department: "Electronics and Communication"
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/course/bachelor-of-commerce-hons"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["accounting", "bachelor", "business", "careers", "college", "com", "commerce", "economics", "engineering", "finance"]
+aliases: ["HOD", "Head of Department", "CSE", "CS", "ECE", "EC", "EEE", "EE"]
+last_modified: "2026-07-28"
+---
 # Bachelor of Commerce
  **Source URL:** https://www.kletech.ac.in/hubballi/course/bachelor-of-commerce-hons
  ## The Bachelor of Commerce (B.Com) opens up careers in accounting, business, economics, finance and management.

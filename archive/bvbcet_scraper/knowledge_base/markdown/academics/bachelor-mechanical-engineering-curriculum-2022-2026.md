@@ -1,3 +1,17 @@
+---
+title: "PDF Document: bachelor-mechanical-engineering-curriculum-2022-2026"
+category: "academics"
+subcategory: ""
+document_type: "syllabus"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/pdf/bachelor-mechanical-engineering-curriculum-2022-2026.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["bachelor", "chapter", "curriculum", "design", "document", "engineering", "hours", "marks", "mechanical"]
+aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "EEE", "EE", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: bachelor-mechanical-engineering-curriculum-2022-2026
  **PDF Source:** https://www.kletech.ac.in/pdf/bachelor-mechanical-engineering-curriculum-2022-2026.pdf
  ## Page 1

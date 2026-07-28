@@ -1,3 +1,17 @@
+---
+title: "Bachelor of Computer Applications (BCA)"
+category: "academics"
+subcategory: "bachelor"
+document_type: "syllabus"
+department: "Electronics and Communication"
+campus: "Belagavi"
+source_url: "https://www.kletech.ac.in/course-detail/bachelor-of-computer-applications-(bca)/40"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["applications", "bachelor", "bca", "college", "computer", "computing", "core", "curriculum", "cyber", "data"]
+aliases: ["HOD", "Head of Department", "CSE", "CS", "ECE", "EC", "EEE", "EE"]
+last_modified: "2026-07-28"
+---
 # Bachelor of Computer Applications (BCA)
  **Source URL:** https://www.kletech.ac.in/course-detail/bachelor-of-computer-applications-(bca)/40
  ## The core of the bachelor's degree curriculum includes programming languages, Data Structures, Database Management Systems, Web Programming, Mobile Applications, and Networking.

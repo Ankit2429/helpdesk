@@ -1,3 +1,17 @@
+---
+title: "PDF Document: Mandatory-Disclosure-Edited"
+category: "miscellaneous"
+subcategory: ""
+document_type: "syllabus"
+department: "Study"
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/pdf/Mandatory-Disclosure-Edited.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["asst", "college", "disclosure", "document", "edited", "instructor", "mandatory", "prof", "year"]
+aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE", "KLETech", "KLE Tech", "BVB", "BVBCET"]
+last_modified: "2026-07-28"
+---
 # PDF Document: Mandatory-Disclosure-Edited
  **PDF Source:** https://www.kletech.ac.in/pdf/Mandatory-Disclosure-Edited.pdf
  ## Page 1

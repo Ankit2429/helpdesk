@@ -1,3 +1,17 @@
+---
+title: "PDF Document: mca-curriculum-2024-26"
+category: "academics"
+subcategory: ""
+document_type: "syllabus"
+department: "Computer Applications"
+campus: ""
+source_url: "https://www.kletech.ac.in/pdf/mca-curriculum-2024-26.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["curriculum", "data", "document", "marks", "mca", "questions", "semester", "using"]
+aliases: ["HOD", "Head of Department", "CSE", "CS", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: mca-curriculum-2024-26
  **PDF Source:** https://www.kletech.ac.in/pdf/mca-curriculum-2024-26.pdf
  ## Page 1

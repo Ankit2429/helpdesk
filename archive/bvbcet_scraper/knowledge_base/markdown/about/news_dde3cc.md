@@ -1,3 +1,17 @@
+---
+title: "News"
+category: "about"
+subcategory: ""
+document_type: "act"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/news-detail/108th-founders-day-celebrations/146"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["dean", "founders", "news", "technological", "university"]
+aliases: ["HOD", "Head of Department", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # News
  **Source URL:** https://www.kletech.ac.in/news-detail/108th-founders-day-celebrations/146
  ### 108th Founder's Day Celebrations

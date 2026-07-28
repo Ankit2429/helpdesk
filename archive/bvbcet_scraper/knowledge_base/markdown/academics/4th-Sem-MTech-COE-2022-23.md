@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 4th-Sem-MTech-COE-2022-23"
+category: "academics"
+subcategory: ""
+document_type: "document"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/pdf/4th-Sem-MTech-COE-2022-23.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["coe", "date", "document", "mtech", "phase", "project", "review", "sem"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # PDF Document: 4th-Sem-MTech-COE-2022-23
  **PDF Source:** https://www.kletech.ac.in/pdf/4th-Sem-MTech-COE-2022-23.pdf
  ## Page 1

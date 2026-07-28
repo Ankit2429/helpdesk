@@ -1,3 +1,17 @@
+---
+title: "B E Automation & Robotics"
+category: "academics"
+subcategory: "b"
+document_type: "syllabus"
+department: ""
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/hubballi/coursedetail.aspx?mpgid=151&pgidtrail=151&courseid=19"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["advances", "are", "artificial", "automation", "cusp", "elective", "era", "intelligence", "learning", "machine"]
+aliases: ["HOD", "Head of Department"]
+last_modified: "2026-07-28"
+---
 # B E Automation & Robotics
  **Source URL:** https://www.kletech.ac.in/hubballi/coursedetail.aspx?mpgid=151&pgidtrail=151&courseid=19
  ## Today, we are on the cusp of a new automation era: rapid advances in robotics, artificial intelligence, machine learning,

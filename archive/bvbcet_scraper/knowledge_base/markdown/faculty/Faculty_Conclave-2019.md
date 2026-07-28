@@ -1,3 +1,17 @@
+---
+title: "PDF Document: Faculty_Conclave-2019"
+category: "faculty"
+subcategory: "Faculty"
+document_type: "act"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/pdf/Faculty Conclave-2019.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["approach", "based", "document", "engineering", "learning", "problem"]
+aliases: ["ME", "Mechanical Dept"]
+last_modified: "2026-07-28"
+---
 # PDF Document: Faculty_Conclave-2019
  **PDF Source:** https://www.kletech.ac.in/pdf/Faculty Conclave-2019.pdf
  ## Page 1

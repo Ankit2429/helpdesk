@@ -1,3 +1,17 @@
+---
+title: "Events"
+category: "events"
+subcategory: "events"
+document_type: "minutes"
+department: "Automation and Robotics"
+campus: "Hubballi"
+source_url: "https://www.kletech.ac.in/happenings/events"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["engineering", "events", "industrial", "university", "visit", "webinar"]
+aliases: ["HOD", "Head of Department", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # Events
  **Source URL:** https://www.kletech.ac.in/happenings/events
  ### Past Events

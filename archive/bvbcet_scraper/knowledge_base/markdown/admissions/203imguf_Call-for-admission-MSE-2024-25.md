@@ -1,3 +1,17 @@
+---
+title: "PDF Document: 203imguf_Call-for-admission-MSE-2024-25"
+category: "admissions"
+subcategory: ""
+document_type: "act"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/Uploads/image/203imguf_Call-for-admission-MSE-2024-25.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["admission", "admissions", "document", "industry", "mse", "open", "research", "will"]
+aliases: ["KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: 203imguf_Call-for-admission-MSE-2024-25
  **PDF Source:** https://www.kletech.ac.in/Uploads/image/203imguf_Call-for-admission-MSE-2024-25.pdf
  ## Page 1

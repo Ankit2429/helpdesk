@@ -1,3 +1,17 @@
+---
+title: "PDF Document: mba-curriculum-2024-26"
+category: "academics"
+subcategory: ""
+document_type: "syllabus"
+department: "Management will be a premier institute in manageme"
+campus: ""
+source_url: "https://www.kletech.ac.in/pdf/mba-curriculum-2024-26.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["course", "curriculum", "document", "hours", "management", "marks", "mba", "module"]
+aliases: ["HOD", "Head of Department", "KLETech", "KLE Tech"]
+last_modified: "2026-07-28"
+---
 # PDF Document: mba-curriculum-2024-26
  **PDF Source:** https://www.kletech.ac.in/pdf/mba-curriculum-2024-26.pdf
  ## Page 1

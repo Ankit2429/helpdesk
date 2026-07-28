@@ -1,3 +1,17 @@
+---
+title: "B.Sc. in Hotel Management and Catering Technology (B.Sc. HMCT)"
+category: "academics"
+subcategory: "bsc"
+document_type: "syllabus"
+department: ""
+campus: ""
+source_url: "https://www.kletech.ac.in/coursedetail.aspx?mpgid=30&pgidtrail=30&courseid=91"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ["catering", "commencing", "core", "hmct", "hospitality", "hotel", "management", "programme", "technology", "three"]
+aliases: []
+last_modified: "2026-07-28"
+---
 # B.Sc. in Hotel Management and Catering Technology (B.Sc. HMCT)
  **Source URL:** https://www.kletech.ac.in/coursedetail.aspx?mpgid=30&pgidtrail=30&courseid=91
  ## B.Sc. in Hotel Management and Catering Technology (B.Sc. HMCT) is a three-year undergraduate programme commencing in 2026,
