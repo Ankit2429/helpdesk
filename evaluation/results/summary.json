@@ -1,0 +1,629 @@
+{
+  "timestamp": "2026-07-28T09:53:27Z",
+  "total_questions": 25,
+  "overall_score": 73.39,
+  "overall_recall_at_5": 0.8,
+  "overall_recall_at_10": 0.9,
+  "overall_mrr": 0.6217,
+  "overall_keyword_coverage": 0.78,
+  "average_retrieval_latency_ms": 292.6,
+  "evaluation_duration_seconds": 7.32,
+  "per_category_accuracy": {
+    "Library": {
+      "question_count": 4,
+      "recall_at_5": 1.0,
+      "recall_at_10": 1.0,
+      "mrr": 1.0,
+      "keyword_coverage": 0.5833,
+      "accuracy_score": 86.11
+    },
+    "Admissions": {
+      "question_count": 4,
+      "recall_at_5": 0.5,
+      "recall_at_10": 0.875,
+      "mrr": 0.4524,
+      "keyword_coverage": 0.625,
+      "accuracy_score": 52.58
+    },
+    "Departments": {
+      "question_count": 4,
+      "recall_at_5": 1.0,
+      "recall_at_10": 1.0,
+      "mrr": 0.5417,
+      "keyword_coverage": 1.0,
+      "accuracy_score": 84.72
+    },
+    "Placements": {
+      "question_count": 4,
+      "recall_at_5": 1.0,
+      "recall_at_10": 1.0,
+      "mrr": 1.0,
+      "keyword_coverage": 1.0,
+      "accuracy_score": 100.0
+    },
+    "Hostel": {
+      "question_count": 4,
+      "recall_at_5": 0.5,
+      "recall_at_10": 0.75,
+      "mrr": 0.2917,
+      "keyword_coverage": 0.4167,
+      "accuracy_score": 40.28
+    },
+    "Academics": {
+      "question_count": 5,
+      "recall_at_5": 0.8,
+      "recall_at_10": 0.8,
+      "mrr": 0.48,
+      "keyword_coverage": 1.0,
+      "accuracy_score": 76.0
+    }
+  },
+  "detailed_results": [
+    {
+      "id": "LIB001",
+      "category": "Library",
+      "question": "Where is the Central Library located?",
+      "latency_ms": 440.94,
+      "recall_at_5": 1.0,
+      "recall_at_10": 1.0,
+      "mrr": 1.0,
+      "keyword_coverage": 0.0,
+      "matched_keywords": [],
+      "missing_keywords": [
+        "Block C",
+        "2nd floor",
+        "second floor"
+      ],
+      "retrieved_sources": [
+        "academic_facilities_c75b38.md",
+        "academic_facilities_c75b38.md",
+        "bachelor_of_commerce_integrated_with_acca_549318.md",
+        "bachelor_of_computer_applications_honours_756a95.md",
+        "phd_regulations_d605cf.md"
+      ]
+    },
+    {
+      "id": "LIB002",
+      "category": "Library",
+      "question": "What is the carpet area and seating capacity of the Central Library?",
+      "latency_ms": 292.12,
+      "recall_at_5": 1.0,
+      "recall_at_10": 1.0,
+      "mrr": 1.0,
+      "keyword_coverage": 1.0,
+      "matched_keywords": [
+        "3000",
+        "600"
+      ],
+      "missing_keywords": [],
+      "retrieved_sources": [
+        "academic_facilities_c75b38.md",
+        "academic_facilities_c75b38.md",
+        "bachelor_of_commerce_integrated_with_acca_549318.md",
+        "under_graduate_program_96f748.md",
+        "academic_facilities_c75b38.md"
+      ]
+    },
+    {
+      "id": "LIB003",
+      "category": "Library",
+      "question": "How many digital ebooks are available in the library collection?",
+      "latency_ms": 265.59,
+      "recall_at_5": 1.0,
+      "recall_at_10": 1.0,
+      "mrr": 1.0,
+      "keyword_coverage": 1.0,
+      "matched_keywords": [
+        "EBSCO",
+        "188905"
+      ],
+      "missing_keywords": [],
+      "retrieved_sources": [
+        "academic_facilities_c75b38.md",
+        "academic_facilities_c75b38.md",
+        "bachelor_of_architecture_95b8b5.md",
+        "bachelor_of_commerce_integrated_with_acca_549318.md",
+        "b_e_automation_robotics_5a222b.md"
+      ]
+    },
+    {
+      "id": "LIB004",
+      "category": "Library",
+      "question": "What online database subscriptions are provided by the library?",
+      "latency_ms": 268.28,
+      "recall_at_5": 1.0,
+      "recall_at_10": 1.0,
+      "mrr": 1.0,
+      "keyword_coverage": 0.3333,
+      "matched_keywords": [
+        "IEEE"
+      ],
+      "missing_keywords": [
+        "ASCE",
+        "ScienceDirect"
+      ],
+      "retrieved_sources": [
+        "academic_facilities_c75b38.md",
+        "academic_facilities_c75b38.md",
+        "phd_regulations_d605cf.md",
+        "programs_693445.md",
+        "programs_a4f5ee.md"
+      ]
+    },
+    {
+      "id": "ADM001",
+      "category": "Admissions",
+      "question": "What entrance exams are accepted for B.E. undergraduate admissions?",
+      "latency_ms": 427.64,
+      "recall_at_5": 0.0,
+      "recall_at_10": 0.5,
+      "mrr": 0.1667,
+      "keyword_coverage": 0.0,
+      "matched_keywords": [],
+      "missing_keywords": [
+        "KCET",
+        "COMEDK",
+        "JEE"
+      ],
+      "retrieved_sources": [
+        "our_programs_ad1065.md",
+        "phd_regulations_d605cf.md",
+        "programs_87205c.md",
+        "programs_5dee87.md",
+        "programs_d635c3.md"
+      ]
+    },
+    {
+      "id": "ADM002",
+      "category": "Admissions",
+      "question": "What is the official Karnataka CET portal website for engineering admissions?",
+      "latency_ms": 357.71,
+      "recall_at_5": 1.0,
+      "recall_at_10": 1.0,
+      "mrr": 1.0,
+      "keyword_coverage": 1.0,
+      "matched_keywords": [
+        "cetonline.karnataka.gov.in",
+        "KEA"
+      ],
+      "missing_keywords": [],
+      "retrieved_sources": [
+        "under_graduate_program_96f748.md",
+        "under_graduate_program_3e868a.md",
+        "under_graduate_program_96f748.md",
+        "b_e_electrical_electronics_engineering_05f9e9.md",
+        "265rkf_revised_academic_calendar_2020_21_001_7b4bc0.md"
+      ]
+    },
+    {
+      "id": "ADM003",
+      "category": "Admissions",
+      "question": "What is the minimum eligibility percentage for general category admissions in 10+2?",
+      "latency_ms": 326.84,
+      "recall_at_5": 0.0,
+      "recall_at_10": 1.0,
+      "mrr": 0.1429,
+      "keyword_coverage": 1.0,
+      "matched_keywords": [
+        "45%",
+        "Physics",
+        "Mathematics"
+      ],
+      "missing_keywords": [],
+      "retrieved_sources": [
+        "bba_llb_hons_00aead.md",
+        "master_of_computer_application_dea8ec.md",
+        "bachelor_of_computer_applications_honours_75b603.md",
+        "bsc_in_hotel_management_and_catering_technolo_bfaa1c.md",
+        "bachelor_of_computer_applications_bca_a6dbcb.md"
+      ]
+    },
+    {
+      "id": "ADM004",
+      "category": "Admissions",
+      "question": "How do candidates apply under the Management Quota?",
+      "latency_ms": 282.64,
+      "recall_at_5": 1.0,
+      "recall_at_10": 1.0,
+      "mrr": 0.5,
+      "keyword_coverage": 0.5,
+      "matched_keywords": [
+        "Management Quota"
+      ],
+      "missing_keywords": [
+        "direct"
+      ],
+      "retrieved_sources": [
+        "master_of_business_administration_46d286.md",
+        "under_graduate_program_96f748.md",
+        "under_graduate_program_96f748.md",
+        "b_e_automation_robotics_5a222b.md",
+        "b_e_electrical_electronics_engineering_05f9e9.md"
+      ]
+    },
+    {
+      "id": "DEP001",
+      "category": "Departments",
+      "question": "What specialization streams are offered under B.E. Computer Science and Engineering?",
+      "latency_ms": 264.08,
+      "recall_at_5": 1.0,
+      "recall_at_10": 1.0,
+      "mrr": 0.3333,
+      "keyword_coverage": 1.0,
+      "matched_keywords": [
+        "Computer Science",
+        "Engineering"
+      ],
+      "missing_keywords": [],
+      "retrieved_sources": [
+        "mtech_computer_science_and_engineering_758bd4.md",
+        "programs_015660.md",
+        "b_e_computer_science_and_engineering_475790.md",
+        "our_programs_ad1065.md",
+        "programs_d635c3.md"
+      ]
+    },
+    {
+      "id": "DEP002",
+      "category": "Departments",
+      "question": "What degree programs are offered by the School of Architecture?",
+      "latency_ms": 266.18,
+      "recall_at_5": 1.0,
+      "recall_at_10": 1.0,
+      "mrr": 1.0,
+      "keyword_coverage": 1.0,
+      "matched_keywords": [
+        "Bachelor of Architecture",
+        "B.Arch"
+      ],
+      "missing_keywords": [],
+      "retrieved_sources": [
+        "bachelor_of_architecture_95b8b5.md",
+        "bachelor_of_architecture_292210.md",
+        "bachelor_of_architecture_95b8b5.md",
+        "programs_944ce8.md",
+        "programs_e79398.md"
+      ]
+    },
+    {
+      "id": "DEP003",
+      "category": "Departments",
+      "question": "Which department manages research inVLSI, power grids, and embedded systems?",
+      "latency_ms": 218.92,
+      "recall_at_5": 1.0,
+      "recall_at_10": 1.0,
+      "mrr": 0.5,
+      "keyword_coverage": 1.0,
+      "matched_keywords": [
+        "Electrical",
+        "Electronics"
+      ],
+      "missing_keywords": [],
+      "retrieved_sources": [
+        "phd_in_electronics_communication_engineering_3e99e0.md",
+        "b_e_electrical_electronics_engineering_05f9e9.md",
+        "ph_d_in_automation_robotics_9b2372.md",
+        "b_e_electrical_electronics_engineering_05f9e9.md",
+        "b_e_electrical_electronics_engineering_05f9e9.md"
+      ]
+    },
+    {
+      "id": "DEP004",
+      "category": "Departments",
+      "question": "What specialized postgraduate law program is offered in Intellectual Property Rights?",
+      "latency_ms": 314.07,
+      "recall_at_5": 1.0,
+      "recall_at_10": 1.0,
+      "mrr": 0.3333,
+      "keyword_coverage": 1.0,
+      "matched_keywords": [
+        "LLM",
+        "IPR"
+      ],
+      "missing_keywords": [],
+      "retrieved_sources": [
+        "bba_llb_hons_00aead.md",
+        "bcom_llb_2e2b63.md",
+        "llm_ipr_aaf917.md",
+        "programs_d635c3.md",
+        "under_graduate_program_3e868a.md"
+      ]
+    },
+    {
+      "id": "PLC001",
+      "category": "Placements",
+      "question": "What resources and assistance are provided by the Placement Cell?",
+      "latency_ms": 160.68,
+      "recall_at_5": 1.0,
+      "recall_at_10": 1.0,
+      "mrr": 1.0,
+      "keyword_coverage": 1.0,
+      "matched_keywords": [
+        "Placement Cell",
+        "Recruiters",
+        "Brochure"
+      ],
+      "missing_keywords": [],
+      "retrieved_sources": [
+        "study_with_us_f0d3c3.md",
+        "bachelor_of_commerce_integrated_with_acca_549318.md",
+        "bachelor_of_commerce_171715.md",
+        "bachelors_of_business_administration_40600b.md",
+        "bachelor_of_commerce_integrated_with_acca_549318.md"
+      ]
+    },
+    {
+      "id": "PLC002",
+      "category": "Placements",
+      "question": "Which global education partner collaborates for the B.Com ACCA integrated program?",
+      "latency_ms": 315.94,
+      "recall_at_5": 1.0,
+      "recall_at_10": 1.0,
+      "mrr": 1.0,
+      "keyword_coverage": 1.0,
+      "matched_keywords": [
+        "ISDC",
+        "ACCA"
+      ],
+      "missing_keywords": [],
+      "retrieved_sources": [
+        "bachelor_of_commerce_integrated_with_acca_549318.md",
+        "bachelor_of_commerce_integrated_with_acca_549318.md",
+        "bachelor_of_commerce_integrated_with_acca_549318.md",
+        "bachelor_of_commerce_integrated_with_acca_549318.md",
+        "bachelor_of_commerce_integrated_with_acca_549318.md"
+      ]
+    },
+    {
+      "id": "PLC003",
+      "category": "Placements",
+      "question": "What companies and industries hire graduates from the Biotechnology department?",
+      "latency_ms": 285.85,
+      "recall_at_5": 1.0,
+      "recall_at_10": 1.0,
+      "mrr": 1.0,
+      "keyword_coverage": 1.0,
+      "matched_keywords": [
+        "Biotechnology",
+        "research"
+      ],
+      "missing_keywords": [],
+      "retrieved_sources": [
+        "b_e_biotechnology_b6acae.md",
+        "b_e_biotechnology_b6acae.md",
+        "schoolsdepartments_50c30f.md",
+        "b_e_biotechnology_b6acae.md",
+        "b_e_biotechnology_b6acae.md"
+      ]
+    },
+    {
+      "id": "PLC004",
+      "category": "Placements",
+      "question": "How are placement records and brochures made available to students?",
+      "latency_ms": 213.01,
+      "recall_at_5": 1.0,
+      "recall_at_10": 1.0,
+      "mrr": 1.0,
+      "keyword_coverage": 1.0,
+      "matched_keywords": [
+        "Placement Brochure",
+        "Placement Records"
+      ],
+      "missing_keywords": [],
+      "retrieved_sources": [
+        "study_with_us_f0d3c3.md",
+        "under_graduate_program_96f748.md",
+        "bachelor_of_commerce_integrated_with_acca_549318.md",
+        "programs_1cf1e0.md",
+        "under_graduate_program_3e868a.md"
+      ]
+    },
+    {
+      "id": "HST001",
+      "category": "Hostel",
+      "question": "What residential facilities and accommodation options exist for on-campus students?",
+      "latency_ms": 256.88,
+      "recall_at_5": 1.0,
+      "recall_at_10": 1.0,
+      "mrr": 0.5,
+      "keyword_coverage": 0.3333,
+      "matched_keywords": [
+        "campus"
+      ],
+      "missing_keywords": [
+        "hostels",
+        "residential"
+      ],
+      "retrieved_sources": [
+        "programs_2ea17c.md",
+        "academic_facilities_c75b38.md",
+        "programs_7e2a04.md",
+        "bachelor_of_computer_applications_honours_756a95.md",
+        "phd_regulations_d605cf.md"
+      ]
+    },
+    {
+      "id": "HST002",
+      "category": "Hostel",
+      "question": "What sports and fitness amenities are located near the student residences?",
+      "latency_ms": 301.52,
+      "recall_at_5": 1.0,
+      "recall_at_10": 1.0,
+      "mrr": 0.5,
+      "keyword_coverage": 0.3333,
+      "matched_keywords": [
+        "sports"
+      ],
+      "missing_keywords": [
+        "gym",
+        "ground"
+      ],
+      "retrieved_sources": [
+        "programs_dbc49e.md",
+        "academic_facilities_c75b38.md",
+        "programs_2ea17c.md",
+        "programs_7e2a04.md",
+        "programs_439e62.md"
+      ]
+    },
+    {
+      "id": "HST003",
+      "category": "Hostel",
+      "question": "What medical and health emergency services are available on campus?",
+      "latency_ms": 289.63,
+      "recall_at_5": 0.0,
+      "recall_at_10": 1.0,
+      "mrr": 0.1667,
+      "keyword_coverage": 0.6667,
+      "matched_keywords": [
+        "medical",
+        "health"
+      ],
+      "missing_keywords": [
+        "center"
+      ],
+      "retrieved_sources": [
+        "programs_dbc49e.md",
+        "programs_2ea17c.md",
+        "programs_7e2a04.md",
+        "programs_439e62.md",
+        "phd_regulations_d605cf.md"
+      ]
+    },
+    {
+      "id": "HST004",
+      "category": "Hostel",
+      "question": "What food and dining options exist in campus cafeterias?",
+      "latency_ms": 228.29,
+      "recall_at_5": 0.0,
+      "recall_at_10": 0.0,
+      "mrr": 0.0,
+      "keyword_coverage": 0.3333,
+      "matched_keywords": [
+        "food"
+      ],
+      "missing_keywords": [
+        "canteen",
+        "cafeteria"
+      ],
+      "retrieved_sources": [
+        "programs_2ea17c.md",
+        "programs_dbc49e.md",
+        "programs_7e2a04.md",
+        "programs_35d9e3.md",
+        "programs_439e62.md"
+      ]
+    },
+    {
+      "id": "ACA001",
+      "category": "Academics",
+      "question": "What research facilities and specialized labs are established across disciplines?",
+      "latency_ms": 276.3,
+      "recall_at_5": 1.0,
+      "recall_at_10": 1.0,
+      "mrr": 1.0,
+      "keyword_coverage": 1.0,
+      "matched_keywords": [
+        "computation",
+        "testing",
+        "materials"
+      ],
+      "missing_keywords": [],
+      "retrieved_sources": [
+        "academic_facilities_c75b38.md",
+        "academic_facilities_c75b38.md",
+        "our_programs_ad1065.md",
+        "academic_facilities_c75b38.md",
+        "b_e_computer_science_and_engineering_475790.md"
+      ]
+    },
+    {
+      "id": "ACA002",
+      "category": "Academics",
+      "question": "What is the duration and structure of the Ph.D. doctoral program regulations?",
+      "latency_ms": 350.09,
+      "recall_at_5": 1.0,
+      "recall_at_10": 1.0,
+      "mrr": 1.0,
+      "keyword_coverage": 1.0,
+      "matched_keywords": [
+        "Ph.D",
+        "regulations"
+      ],
+      "missing_keywords": [],
+      "retrieved_sources": [
+        "phd_regulations_d605cf.md",
+        "phd_regulations_d605cf.md",
+        "ph_d_in_management_studies_research_afe71d.md",
+        "phd_regulations_d605cf.md",
+        "phd_in_law_8eaa27.md"
+      ]
+    },
+    {
+      "id": "ACA003",
+      "category": "Academics",
+      "question": "How are continuous internal evaluations (CIE) conducted for undergraduate courses?",
+      "latency_ms": 309.53,
+      "recall_at_5": 0.0,
+      "recall_at_10": 0.0,
+      "mrr": 0.0,
+      "keyword_coverage": 1.0,
+      "matched_keywords": [
+        "evaluations",
+        "decision"
+      ],
+      "missing_keywords": [],
+      "retrieved_sources": [
+        "bachelors_of_business_administration_40600b.md",
+        "ms_engg_by_research_in_visual_intelligence_cs_6a6acb.md",
+        "phd_regulations_d605cf.md",
+        "bachelor_of_architecture_292210.md",
+        "phd_regulations_d605cf.md"
+      ]
+    },
+    {
+      "id": "ACA004",
+      "category": "Academics",
+      "question": "What undergraduate degree is offered in Hotel Management and Catering Technology?",
+      "latency_ms": 296.29,
+      "recall_at_5": 1.0,
+      "recall_at_10": 1.0,
+      "mrr": 0.2,
+      "keyword_coverage": 1.0,
+      "matched_keywords": [
+        "Hotel Management",
+        "B.Sc"
+      ],
+      "missing_keywords": [],
+      "retrieved_sources": [
+        "bsc_in_hotel_management_and_catering_technolo_bfaa1c.md",
+        "bsc_in_hotel_management_and_catering_technolo_bfaa1c.md",
+        "bachelors_of_business_administration_40600b.md",
+        "programs_e2270d.md",
+        "programs_6f7193.md"
+      ]
+    },
+    {
+      "id": "ACA005",
+      "category": "Academics",
+      "question": "What undergraduate program is offered in Computer Applications?",
+      "latency_ms": 305.92,
+      "recall_at_5": 1.0,
+      "recall_at_10": 1.0,
+      "mrr": 0.2,
+      "keyword_coverage": 1.0,
+      "matched_keywords": [
+        "BCA",
+        "Computer Applications"
+      ],
+      "missing_keywords": [],
+      "retrieved_sources": [
+        "mtech_computer_science_and_engineering_758bd4.md",
+        "programs_328874.md",
+        "programs_87205c.md",
+        "bachelor_of_computer_applications_bca_a6dbcb.md",
+        "bachelor_of_computer_applications_honours_75b603.md"
+      ]
+    }
+  ]
+}
