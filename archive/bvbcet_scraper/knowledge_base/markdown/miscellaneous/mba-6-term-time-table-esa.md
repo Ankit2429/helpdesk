@@ -1,10 +1,7 @@
 # PDF Document: mba-6-term-time-table-esa
-
-**PDF Source:** https://www.kletech.ac.in/hubballi/pdf/mba-6-term-time-table-esa.pdf
-
-## Page 1
-
-Prepared By: Checked By:
+ **PDF Source:** https://www.kletech.ac.in/hubballi/pdf/mba-6-term-time-table-esa.pdf
+ ## Page 1
+ Prepared By: Checked By:
 M.S. Kalasad Naveen M.R. Controller of Examinations
                 1) Students need to login to ms Teams at 10:00 a.m.
                 2) Exam writing duration is 10:30 a.m. to 12.00 noon
@@ -29,7 +26,7 @@ TIME TABLE
 VI TERM MBA END TERM ASSESSMENT THEORY 
 EXAMINATIONS (JULY_AUGUST 2020)
 SCHOOL OF MANAGEMENT STUDIES AND RESEARCH
-Date               (Day)              
+Date (Day) 
 VI TERM
 Course (Course Code) 
  (10.00 AM to 12.30 PM)

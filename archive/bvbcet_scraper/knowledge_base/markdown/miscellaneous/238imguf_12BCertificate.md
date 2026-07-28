@@ -1,13 +1,10 @@
 # PDF Document: 238imguf_12BCertificate
-
-**PDF Source:** https://www.kletech.ac.in/Uploads/image/238imguf_12BCertificate.pdf
-
-## Page 1
-
-,sw*
+ **PDF Source:** https://www.kletech.ac.in/Uploads/image/238imguf_12BCertificate.pdf
+ ## Page 1
+ ,sw*
 ffi+qTaq srgqg sTrqY.r
 "==tInfuErsitf €rants'efnTi1] issfon'
-BftTT riT-f,q, tlrEo rrwrc
+BftTT riT-f, q, tlrEo rrwrc
 (Ministry of Education , Govt. of lndia)
 effgqfl-d rrq{ qrf qd ffi- 110 oo2
 Bahadurshah Tatar Marg, New Delhi-110002
@@ -20,12 +17,12 @@ KLE Technological University, ,
 B.V. Bhoomaraddi College CamPus,
 Vidyanagar, Hubballi - 580031, Karnataka
 Subject: Proposa! tor 12-B status - Regarding
-November,2021
+November, 2021
 Sir,
 This has reference to the proposal submitted by the University for 12-B status and
 subsequent visit of the UGC Expert Committee on 21"t and 22nd August, 2021 to consider
 the proposal. The Report of the Expert Committee alongwith the compliance submitted by
-the - LJniversity--was ptaee#cre-the -Standingr Oo:rnmittee "-4- U€G=nrembers-+or:--
+the - LJniversity--was ptaee#cre-the -Standingr Oo: rnmittee "-4- U€G=nrembers-+or:--
 consideration. The Committee recommended as under.-
 "The Gommittee considered the report of the UGC's Expert Committee along
 with the compliance submitted by the University.

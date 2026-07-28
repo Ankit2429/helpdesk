@@ -1,21 +1,15 @@
 # Centre for Engineering Education Research
-
-**Source URL:** https://www.kletech.ac.in/hubballi/coursedetail.aspx?mpgid=151&pgidtrail=151&courseid=81
-
-## Academic Autonomy granted to BVBCET in 2007 offered an opportunity to innovate and excel in Engineering Education.
-
-This also came with the responsibility of performing to the expectations of all the stake holders including the regulatory bodies. It was at this time that the leadership of the system invested in collaborations to elevate itself to the next level of performance. The first such collaboration which gave the sound foundation was with Indo US Collaboration for Engineering Education (IUCEE). The faculty leadership institutes (FLIs) organised by IUCEE in 2008 and 2009 gave the exposure to global best practices of Engineering Education leading to sprouting of innovations in teaching –learning space showing visible results. Encouraged by this, Centre for Engineering Education Research was established in 2010 to encourage innovation and research in Engineering Education.
-
-To promote innovation and research in Engineering Education to bring about qualitative change in students’ learning experience.
-
-- Empower faculty members with the best practices in curriculum design, teaching – learning and assessment through training, workshop and allied activities
-- Encouraging innovation in curriculum design, teaching – learning and assessment
+ **Source URL:** https://www.kletech.ac.in/hubballi/coursedetail.aspx?mpgid=151&pgidtrail=151&courseid=81
+ ## Academic Autonomy granted to BVBCET in 2007 offered an opportunity to innovate and excel in Engineering Education.
+ This also came with the responsibility of performing to the expectations of all the stake holders including the regulatory bodies. It was at this time that the leadership of the system invested in collaborations to elevate itself to the next level of performance. The first such collaboration which gave the sound foundation was with Indo US Collaboration for Engineering Education (IUCEE). The faculty leadership institutes (FLIs) organised by IUCEE in 2008 and 2009 gave the exposure to global best practices of Engineering Education leading to sprouting of innovations in teaching -learning space showing visible results. Encouraged by this, Centre for Engineering Education Research was established in 2010 to encourage innovation and research in Engineering Education.
+ To promote innovation and research in Engineering Education to bring about qualitative change in students' learning experience.
+ - Empower faculty members with the best practices in curriculum design, teaching - learning and assessment through training, workshop and allied activities
+- Encouraging innovation in curriculum design, teaching - learning and assessment
 - Influence faculty mindsets to recognise the importance of research driven instructional practices
 - Design and offer innovative courses and programs
 - Identify and build strategic global partnerships and collaborations to elevate our research capabilities and those of the wider engineering education community
 - Conduct outreach activities like workshops, trainings and conferences.
-
-| S.No. | Research Topic | Year | Student Name | Guides |
+ | S.No. | Research Topic | Year | Student Name | Guides |
 | 1 | Automated Formative Assessment for Descriptive Solutions | 2022-2023 | Siddarth Bansur | Ms. Madhu Asundi, Dr. Preeti Patil |
 | 2 | Understanding the Influence of Student’s Emotions in Academic Success | 2022-2023 | Sahana Koppad | Ms. Jyoti Gadad, Dr. Preeti Patil, Dr. Vijayalakshmi M |
 | 3 | Feedback for Faculty on Student’s Asynchronous Learning Based on Classification using Topic Modelling | 2022-2023 | Sujay Suresh Dandgall | Mrs. Radhika Amashi, Dr. Vijayalakshmi M |
@@ -26,8 +20,7 @@ To promote innovation and research in Engineering Education to bring about quali
 | 8 | Assessing an individual’s contribution in a team project using Learning Analytics | 2019-2020 | Amoolya Shettar | Aruna S. Nayak, Ashok Shettar |
 | 9 | Design and Development of Concept Assessment Tool (CAT): A Concept Inventory | 2018-2019 | Akhil Sachan | Dr. Gururaj Bhadri, Mr. Javeed Kittur |
 | 10 | Predicting student performance based on ePortfolios and activities on social media using machine learning and data mining | 2018-2019 | Netra Gorbal | Dr. Gopalkrishna Joshi
-
-            Ms. Preethi Baligar |
+             Ms. Preethi Baligar |
 | 11 | Study of influencing factors on problem solving skills of freshman engineering students. | 2018-2019 | Sita Laxman | Dr. Gopalkrishna Joshi, Mr.Kaushik M. |
 | 12 | Social media data analytics for personality modelling | 2017-2018 | Srushti V Patil | Dr.Gopalkrishna Joshi, Ms.Preethi Baligar |
 | 13 | A study of team formation strategies and their impact on individual student learning using EDM | 2017-2018 | Suman Salimath | Dr. Ashok S. Shettar, Ms. Vijayalakshmi M |
@@ -36,16 +29,14 @@ To promote innovation and research in Engineering Education to bring about quali
 | 16 | Predictive Intervention Model For Low Efficacy Engineering Students | 2015-2016 | Nitish Chaudhry | Mrs. Sunita Hiremath, Dr. Ashok Shettar |
 | 17 | Educational Data Mining and Learning Styles | 2011-2012 | Gaurav Jotwani | Dr. Ashok Shettar, Dr. G H Joshi |
 | 18 | Use of Educational Data Mining in Question paper Analysis using Score Matrices | 2011-2012 | Chinmayi D Dixit | Dr. Narasimha Ayachit, Dr. G H Joshi |
-
-| S.No. | Year Of Publication | Total | Title and Authors |
+ | S.No. | Year Of Publication | Total | Title and Authors |
 | 01 | 2022 | 20 | Read/Download |
 | 02 | 2019 | 23 | Read/Download |
 | 03 | 2018 | 35 | Read/Download |
 | 04 | 2017 | 21 | Read/Download |
 | 05 | 2016 | 48 | Read/Download |
 | 06 | 2015 | 50 | Read/Download |
-
-| S.No. | Conference | Year | Paper Details |
+ | S.No. | Conference | Year | Paper Details |
 | 1 | EDUNINE | 2024 | S. M. Channangi et al. (2024). Work in Progress: Enhancing Engineering Students' Learning in PjBL Courses through Electronic Testing Kits. 2024 IEEE World Engineering Education Conference (EDUNINE), Guatemala City, Guatemala, pp. 1-4. doi: 10.1109/EDUNINE60625.2024.10500564. |
 | 2 | EDUNINE | 2024 | N. Humbi, P. B. Patil, R. Kurbet, C. Jadhav, P. Goggal. (2024). First-Year Undergraduate Engineering Student's Investigation on the Troubleshooting Process in a Project-Based Learning Course. 2024 IEEE World Engineering Education Conference (EDUNINE), Guatemala City, Guatemala, pp. 1-5. doi: 10.1109/EDUNINE60625.2024.10500599. |
 | 3 | EDUNINE | 2024 | P. Goggal, P. B. Patil, R. Kurbet, N. Humbi, C. Jadhav. (2024). A Review on the Importance of Article Writing for Engineering Students. 2024 IEEE World Engineering Education Conference (EDUNINE), Guatemala City, Guatemala, pp. 1-5. doi: 10.1109/EDUNINE60625.2024.10500640. |
@@ -99,21 +90,15 @@ To promote innovation and research in Engineering Education to bring about quali
 | 51 | MITE | 2016 | Kulkarni, N. N., Kaushik, M., & Joshi, G. (2016, December). Engineering Profession: Understanding Freshman Perspective. In MOOCs, Innovation and Technology in Education (MITE), 2016 IEEE 4th International Conference on (pp. 332-337). IEEE. |
 | 52 | MITE | 2016 | Kaushik, M., & Joshi, G. (2016, December). Transitional Learning Style Preferences and Its Factors in Newer Generation Engineering Students. In MOOCs, Innovation and Technology in Education (MITE), 2016 IEEE 4th International Conference on (pp. 263-267). IEEE. |
 | 53 | RCEE | 2016 | “Promoting ethical skills in first year engineering students through socially relevant experiments” . Yogesh Velankar, Gopalkrishna Joshi, Preethi Baligar.
-
-            6th Regional conference on Engineering Education, 2016 |
+             6th Regional conference on Engineering Education, 2016 |
 | 54 | JEET | 2016 | Kittur, J., & Kavale, S. M. (2016). Teaching Decision Making Method in Engineering Exploration Course–An Experience. Journal of Engineering Education Transformations. |
 | 55 | JEET | 2016 | Kavale, S. M., Kittur, J., & Adi, R. (2016). Imparting Analysis Skill in Freshman Engineers-An Experience. Journal of Engineering Education Transformations. |
 | 56 | JEET | 2016 | Hallur, R. (2016). Google forms that made Teacher’s Life Easier: An Experience and Experimentation. Journal of Engineering Education Transformations. |
-
-### Testimonials
-
-- Mr. Murugesh Nirani
+ ### Testimonials
+ - Mr. Murugesh Nirani
 - Notable Alumni
-
-- Dr. Sudha Murty
+ - Dr. Sudha Murty
 - Notable Alumni
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.
-
-- Jenny Park
-- Reliance Industries Limited  Recruiters
+ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.
+ - Jenny Park
+- Reliance Industries Limited Recruiters

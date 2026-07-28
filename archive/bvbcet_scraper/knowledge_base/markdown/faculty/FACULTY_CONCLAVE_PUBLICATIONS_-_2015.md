@@ -1,32 +1,29 @@
 # PDF Document: FACULTY_CONCLAVE_PUBLICATIONS_-_2015
-
-**PDF Source:** https://www.kletech.ac.in/pdf/FACULTY CONCLAVE PUBLICATIONS - 2015.pdf
-
-## Page 1
-
-Earlier known as 
+ **PDF Source:** https://www.kletech.ac.in/pdf/FACULTY CONCLAVE PUBLICATIONS - 2015.pdf
+ ## Page 1
+ Earlier known as 
 B. V. B. College of Engineering & Technology 
 Faculty Conclave -2015 
 Sl. 
 No 
 Title Authors 
-1 Developing  Project Management Skills In Engineering 
+1 Developing Project Management Skills In Engineering 
 Faculty To Handle Multidisciplinary Projects 
 Jyoti Bali, A. C. Giriyapur 
 2 Design And Development Of Rubrics To Promote 
 Performances In Co-Curricular Activities Through Minor 
 Projects 
 Prof. Shivaraj Hublikar, Prof. Arun 
-Kakhandki, Dr. Uma Mudengudi,    
-Dr. Priyatam Kumar,  Dr. Rajashekar 
-B. Shettar,  Prof. Soumya S. Patil 
+Kakhandki, Dr. Uma Mudengudi, 
+Dr. Priyatam Kumar, Dr. Rajashekar 
+B. Shettar, Prof. Soumya S. Patil 
 3 A Systematic Approach For The Conduct Of Engineering 
 Design Projects 
 Gururaj Fattepur, B. B. 
 Kotturshettar 
 4 The Role Of Programming Paradigms In Building Projects Moula Husain, Somashekar Patil 
-5 Engineering Internships  With Projects: A 
-Workplace Learning Model For Improving Student’s 
+5 Engineering Internships With Projects: A 
+Workplace Learning Model For Improving Student's 
 Success And Performance 
 Satyadhyan Chickerur 
 6 Practicing Hypothetical Report Testing- An Effort To 
@@ -44,7 +41,7 @@ K. G. Kodancha
 Krishnaraja Kodancha 
 10 Exploiting Software Engineering Practices In Data 
 Structures Sujatha C., Kavitha H. S., Jayalaxmi 
-G. N. and Priyadarshini D. K.   
+G. N. and Priyadarshini D. K. 
 11 An Experiential Learning In Web Technology Course Vijay Bhajantri, Sujatha C. and 
 Shilpa Yaligar 
 12 Exploring The Interdisciplinary Skills And Capabilities Of 
@@ -54,12 +51,10 @@ Dr. Vishwanath P. Baligar, Prof. K.
 R. Biradar 
 13 A Solution For Software And Hardware Networking Shivaraj Hublikar, Arun Kakhandki, 
 Anil Kabbur, Dr. Priyatamkumar 
-
-## Page 2
-
-Earlier known as 
+ ## Page 2
+ Earlier known as 
 B. V. B. College of Engineering & Technology 
-14 Attainment Of Program Outcome ‘3b’ Of ABET Through 
+14 Attainment Of Program Outcome '3b' Of ABET Through 
 Laboratory Experiment For The Undergraduate Program 
 Jangali Satish G., Anand R. 
 Lakkundi, V. N. Gaitonde, S. B. 
@@ -76,7 +71,7 @@ Course
 N. R. Banapurmath, A. M. 
 Hunashyal, Shankar Hallad, P.P. 
 Revankar, A. S. Shettar 
-18 Creative Learning  Techniques To Foster Proficiency In 
+18 Creative Learning Techniques To Foster Proficiency In 
 Embedded System Design 
 Rohini S. Hongal, Supriya K., 
 Shrishail P, Rajeshwari M, 
@@ -85,12 +80,12 @@ Ramkrishna S, Suhas S.
 For Freshmen 
 Kiran R. Patil, Sushma V., Leah 
 Joshi, R. B. Jyothi 
-20 Implementation Of Article “Designing Tests To Maximize 
-Learning” By Richard M. Felder In Basic Electrical 
+20 Implementation Of Article "Designing Tests To Maximize 
+Learning" By Richard M. Felder In Basic Electrical 
 Engineering Course 
 Javeed Kittur, Kiran R. Patil, Rohini 
 Jyoti 
-21 Implementation Of Student – Team – Achievement – 
+21 Implementation Of Student - Team - Achievement - 
 Divisions (STAD) Collaborative Activity To Enhance 
 Student Learning 
 Javeed Kittur, Rohini Jyoti, Minal 
@@ -99,7 +94,7 @@ Salunke
 Courses: An Experience 
 Deepak A. Yaraguppi, Sharanappa 
 A. and Laxmikant R. Patil 
-23 Student, Institution And Industry Track – An Intervention 
+23 Student, Institution And Industry Track - An Intervention 
 To MBA Program 
 G. S. Hiremath, S. V.Patil, 
 24 Augmenting The Out Of Classroom Learning Of Machine 
@@ -114,23 +109,21 @@ Vijayalakshmi M, G. H. Joshi
 27 Leveraging Student Project Through MOOC On UX: Case 
 Study 
 Mahesh S. Patil, Meenaxi M. Raikar, 
-Gopalkrishna  Joshi 
+Gopalkrishna Joshi 
 28 Enhancing The Minor Project With Team Based Learning 
 Approach: A Case Study 
 Shivalingappa Battur, Mahesh S 
-Patil, Parikshit H., Gopalkrishna  
+Patil, Parikshit H., Gopalkrishna 
 Joshi 
-
-## Page 3
-
-Earlier known as 
+ ## Page 3
+ Earlier known as 
 B. V. B. College of Engineering & Technology 
 29 Flipped Classroom Implementation To Effectively Utilize 
 The Lecture Hours 
 Javeed Kittur, AnoopKumar Patil, 
 Sushma V. 
-30 Research Experiences In ‘Center For Material Science 
-Cluster’ 
+30 Research Experiences In 'Center For Material Science 
+Cluster' 
 N. R. Banapurmath, A. M. 
 Hunashyal, A. M. Sajjan, Shankar 
 Hallad, P. P. Revankar, A. S. Shettar 
@@ -140,9 +133,9 @@ Torgalmath, Jayanti D. Shinge
 The Fog 
 Jayanti Belur, Soumya Bhat, S. V. 
 Patil 
-33 Video Based Assignments For Student Assessment P. R. Patil, Amit V. Kachavimath  
+33 Video Based Assignments For Student Assessment P. R. Patil, Amit V. Kachavimath 
 and Deepa Mulimani 
-34 Automated Question Paper Generator Application – A 
+34 Automated Question Paper Generator Application - A 
 Strategy For Assessing Outcomes Of Multiple Courses. 
 Prakash R. Patil , Deepa Mulimani , 
 Sujata Kulkarni 
@@ -156,37 +149,35 @@ S. M.
 Animated Applications 
 Moula Husain, Baghya Sunag, 
 Meena S. M. 
-38 “An Experience Of Introducing Cloud Computing Course 
-For Undergraduate Student’s” 
+38 "An Experience Of Introducing Cloud Computing Course 
+For Undergraduate Student's" 
 Sunil V. G., Mallikarjun Akki, Pooja 
 Shettar, Archana T., Meena S. M. 
 39 Experimental Learning In Scripting Languages Laboratory Jayalakshmi G. Naragund, Sujatha 
 C., Karibasappa K. G., Shantala G. 
 and Shilpa Yligar 
 40 Activity Based Learning In C Programming G. H. Joshi, Vidya S. Handur , 
-Manjula K. Pawar  , Preeti T. 
+Manjula K. Pawar , Preeti T. 
 Nagaratna Yaligar , Priyadarshini D. 
-Kalwad,  Vishwanath G. Garagad  
+Kalwad, Vishwanath G. Garagad 
 41 Augmenting The ABET Outcome C To Improve The 
 Circuit Design Skills In The Course Linear Integrated 
 Circuits (LIC) Through Self Study Component. 
 Prashant V. Achari, Sneha V. Meti, 
 Shivashankar A. Huddar, Uma 
 Mudenagudi. 
-42 ”Product Development” –A New Learning In Open Ended 
+42 "Product Development" -A New Learning In Open Ended 
 Experiment 
 Rohini S. Hongal, Sneha V. Meti, 
-Rajeshwari M,Supriya.K ,Prashant 
+Rajeshwari M, Supriya.K ,Prashant 
 A, Shrishail P. 
 43 Attainment Of "Project Management And Finance" 
 Graduate Attribute (ga) For Post Graduate Program In 
 Engineering Through Course Project 
 Vinayak Kulkarni and V. N. 
 Gaitonde 
-
-## Page 4
-
-Earlier known as 
+ ## Page 4
+ Earlier known as 
 B. V. B. College of Engineering & Technology 
 44 Web Technologies Integrated With Advance Database 
 Management Systems: A Laboratory Experience 
@@ -206,8 +197,8 @@ Priyatamkumar, Uma K. Mudengudi
 and Sumit Bhat 
 49 Cognitive Based Course Activity: An Opportunity To 
 Enhance Deficient Skills 
-Kaushik M., Satish Chikkamath,  
+Kaushik M., Satish Chikkamath, 
 Nalini C. Iyer 
 50 A Progressive Activity: An Attempt Beyond Teaching Shraddha B., Raghavendra S., Nikita 
-P., Preeti  Pillai , Nalini Iyer 
- 
+P., Preeti Pillai , Nalini Iyer 
+  

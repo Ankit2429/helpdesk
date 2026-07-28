@@ -1,10 +1,7 @@
 # Internal Complaint Committee
-
-**Source URL:** https://www.kletech.ac.in/cpage.aspx?mpgid=117&pgidtrail=780
-
-# Internal Complaint Committee
-
-| Name | Designation | Position |
+ **Source URL:** https://www.kletech.ac.in/cpage.aspx?mpgid=117&pgidtrail=780
+ # Internal Complaint Committee
+ | Name | Designation | Position |
 | Dr. Sujata Kotabagi | Professor & Head- Department EC- VLSI Design & Technology. | Chairperson |
 | Dr. B S Hunagund | Head-Department of Biotechnology | Member |
 | Smt. Renuka Sangli | Instructor- Department of Civil Engineering | Member |

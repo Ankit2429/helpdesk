@@ -1,10 +1,7 @@
 # PDF Document: FACULTY_CONCLAVE_PUBLICATIONS-2017
-
-**PDF Source:** https://www.kletech.ac.in/pdf/FACULTY CONCLAVE PUBLICATIONS-2017.pdf
-
-## Page 1
-
-Earlier known as 
+ **PDF Source:** https://www.kletech.ac.in/pdf/FACULTY CONCLAVE PUBLICATIONS-2017.pdf
+ ## Page 1
+ Earlier known as 
 B. V. B. College of Engineering & Technology 
 Faculty Conclave 2017 
 SI. 
@@ -20,12 +17,12 @@ PG Minor Projects Vishwanath P. Baligar
 Productivity 
 Mahesh S. Patil, Satyadhyan R. 
 Chickerur, Indira Bidari 
-4 Google Forms That Made Teacher’s Life Easier: An 
+4 Google Forms That Made Teacher's Life Easier: An 
 Experience And Experimentation Rohith Hallur 
-5 Course Project In Mobile Computing – An Experiential 
+5 Course Project In Mobile Computing - An Experiential 
 Learning Shrinivas D. Desai 
 6 Application Of Statistical Methods In Bioprocess 
-Engineering Laboratory To Reinforce Students’ Ability In 
+Engineering Laboratory To Reinforce Students' Ability In 
 Data Collection, Analysis And Interpretation. 
 Sharanappa A, L. R. Patil, V. S. 
 Hombalimath, Deepak Yaraguppi, 
@@ -45,9 +42,9 @@ Course Project Design Model(ICPDM)
 Vijayalakshmi M., Mahesh S. 
 Patil, Aruna S. Nayak, Vidya S. 
 Handur, G. S. Hanchinamani 
-12 Teaching Operating Systems Concepts  With 
+12 Teaching Operating Systems Concepts With 
 Programming Assignments 
-Shantala Giraddi, Priyadarshini  
+Shantala Giraddi, Priyadarshini 
 Kalwad, Nagartna Kulenavar, 
 Suvarna Kanakaraddi 
 13 Pedagogical Interventions Through Software Tools In 
@@ -57,20 +54,18 @@ R. S. Hosmath, P. P. Revankar
 14 Activity (Video To Concept) Based Teaching Learning: A 
 Case Study In Discrete Mathematical Structures 
 Nitya N. Kulkarni, Ms. Nirmala 
-Patil, Mr. Karibasappa K. G,  Ms. 
+Patil, Mr. Karibasappa K. G, Ms. 
 Meena Maralappanavar 
-
-## Page 2
-
-Earlier known as 
+ ## Page 2
+ Earlier known as 
 B. V. B. College of Engineering & Technology 
 15 The Flipped Classroom: An Inverted Method Of Teaching 
-And Learning  
+And Learning 
 Jyoti Patil, Nalini C. Iyer, Sujata 
 Kotabagi, R. V Hangal, Sujata N., 
 Soumya B., Dr. Subbanna Bhat 
 16 Improving Data Analysis Skills In Freshman Engineering 
-Students: A Constructive Approach  
+Students: A Constructive Approach 
 Preethi Baligar, G. H. Joshi, G. N. 
 Bhadri, Y. Velankar 
 17 Course Project Based Collaborative Learning Of Internet 
@@ -87,7 +82,7 @@ Institute & Automotive Industry
 Venkatesh Mane, Prabha 
 Nissimagoudar; Gireesh H. M. 
 21 Integrating Genomics And Proteomics - A Bio-
-Informatics-Based Approach To Establish  Gene-Protein 
+Informatics-Based Approach To Establish Gene-Protein 
 Relationship. 
 Sharanappa A., S. V. Desai 
- 
+  

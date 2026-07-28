@@ -1,15 +1,10 @@
 # PDF Document: KLE-TECH-UPSC
-
-**PDF Source:** https://www.kletech.ac.in/pdf/KLE-TECH-UPSC.pdf
-
-## Page 1
-
-If your aIms are hIgh, we say the lImIt 
+ **PDF Source:** https://www.kletech.ac.in/pdf/KLE-TECH-UPSC.pdf
+ ## Page 1
+ If your aIms are hIgh, we say the lImIt 
 Is the sky!!! 
-  
-## Page 2
-
-STATEMENT OR NEED OF CLUB 
+   ## Page 2
+ STATEMENT OR NEED OF CLUB 
     Every year many students appear for the civil services examination and come up with 
 flying colours. However, these efforts have been largely individual. With this in mind, 
 'KLETech UPSC Club ' aims to create a common platform for students aiming for CSE. 
@@ -21,53 +16,46 @@ from senior member's experience and receive timely guidance for preparation.
 Future bureaucrat should be aware of ground realities and should have some field 
 experience in advance, with this in mind club arranges field visits to places of social 
 importance. *Unlike other clubs, there is no strict induction process but clubs require 
-students to be serious with their aspirations.  
+students to be serious with their aspirations. 
 PLANS FOR THE CLUB 
 ● Week 1: Awareness Program on the process and examination 
-●  Week 2: Updation on Current Affairs until the day 
-●  Week 3 and henceforth: The NCERT syllabus planned until Targeted Exam 
+● Week 2: Updation on Current Affairs until the day 
+● Week 3 and henceforth: The NCERT syllabus planned until Targeted Exam 
 Every week there will at least two engaged hours for discussion, activity, and studies related 
 queries. 
- 
-Work Structure : 
- 
-## Page 4
-
-MONTHLY PLAN FOR CLUB 
+  Work Structure : 
+  ## Page 4
+ MONTHLY PLAN FOR CLUB 
 DAILY 
-●  UPDATE CURRENT AFFAIRS NEWS 
+● UPDATE CURRENT AFFAIRS NEWS 
 ● Update on news papers and important magazine 
-● Update on quiz, notes in telegram  channels 
-WEEKLY  
+● Update on quiz, notes in telegram channels 
+WEEKLY 
 ● ONLINE AND OFFLINE TESTS AND QUIZ 
-MONTHLY  
+MONTHLY 
 1. INTERACTIVE SESSION WITH ALUMNI OR SPEAKERS 
- 
-Important subjects of UPSC 
-1. Agriculture  
+  Important subjects of UPSC 
+1. Agriculture 
 2. Animal Husbandry & Veterinary Science 
-3. Anthropology  
-4. Chemistry & Botany   
-5. Economics  
-6. Geography  
-7. Geology    
-8. History       
-9. Management   
-10. Philosophy     
-11. Political Science & International Relations    
-12. Psychology    
-13. Public Administration    
-14. Sociology    
+3. Anthropology 
+4. Chemistry & Botany 
+5. Economics 
+6. Geography 
+7. Geology 
+8. History 
+9. Management 
+10. Philosophy 
+11. Political Science & International Relations 
+12. Psychology 
+13. Public Administration 
+14. Sociology 
 15. Physics 
 16. Chemistry 
-
-## Page 5
-
-17. Ethics 
+ ## Page 5
+ 17. Ethics 
 18. Languages 
- 
-Offline session topics: 
-Session 1: How to Prepare Yourself  for the journey 
+  Offline session topics: 
+Session 1: How to Prepare Yourself for the journey 
 ● Before trying to understand how to start preparing for UPSC at home, you should 
 prepare yourself for the journey. 
 ● Before starting your preparation, prepare mentally and physically for the 
@@ -93,10 +81,8 @@ through of the pros and cons of the subjects, you have in mind.
 • Interest in the subject 
 • Prior knowledge in it/academic background 
 • Overlap with the GS papers 
-
-## Page 6
-
-• Availability of coaching 
+ ## Page 6
+ • Availability of coaching 
 • Availability of study material 
 Session 6: How To Study NCERT Textbooks 
 • The NCERT textbooks from classes six to twelve play a very significant role in IAS exam 
@@ -106,7 +92,7 @@ preparation.
 as the source is the government itself. 
 ● Session 7: Skill For Making Notes 
 • It is helpful to make short notes during UPSC preparation. 
-•  Since the UPSC syllabus is very vast, it helps to keep track of the portions covered 
+• Since the UPSC syllabus is very vast, it helps to keep track of the portions covered 
 and also serves as a ready-reckoner for revision. 
 • You can have separate files or notebooks for separate subjects. Files are preferred by 
 many since they help adding notes to a topic easier. This is especially helpful in the 
@@ -120,7 +106,7 @@ and thoughts in a flawless manner.
 booklet. 
 • Therefore, candidates have to answer the questions quickly and effectively and in 
 minimum words. 
-Session 9: Solving Previous Years’ UPSC Question Papers 
+Session 9: Solving Previous Years' UPSC Question Papers 
 • Previous question papers are the most reliable sources of UPSC pattern, difficulty 
 level and question type. 
 • You can judge the trends in the UPSC exam paper easily. 
@@ -128,10 +114,8 @@ level and question type.
 subject. 
 • Lastly, it is a good source of self-assessment in your IAS preparation. 
 Session 10: Mock Test Series 
-
-## Page 7
-
-• Self-assessment is an essential part of UPSC preparation. 
+ ## Page 7
+ • Self-assessment is an essential part of UPSC preparation. 
 • It can help civil service aspirant in realizing and learning from mistakes, shaping what 
 approach they need to follow in continuing the preparation and identifying strengths 
 and weaknesses. 
@@ -141,7 +125,7 @@ government.
 • Naturally, there are many government sources you can rely on during your 
 preparation. Government websites like the PIB, PRS, and national television 
 programes featured on the Rajya Sabha TV are very helpful. We cover important PIB 
-articles every day.  
+articles every day. 
 Session 12: Revision 
 • Revision is very important when you are facing an exam as tough as the UPSC exam. 
 • Since the UPSC syllabus is vast and diverse, covering multifarious subjects, it is natural 
@@ -161,11 +145,9 @@ Session 14: Stay Positive
 There are times when it can get quite overwhelming and you will feel depressed. 
 RESOURCE NEEDED FROM COLLEGE 
  (for offline mode) 
-
-## Page 8
-
-1.  Classroom with projector  for conducting mock, screening and psychological tests. 
-2. An external  resource person who could teach the concepts of maths, social and other 
+ ## Page 8
+ 1. Classroom with projector for conducting mock, screening and psychological tests. 
+2. An external resource person who could teach the concepts of maths, social and other 
 subjects 
 3. A faculty who could evaluate the personal Interview and the group tasks like 
 discussion and many more. 
@@ -175,15 +157,12 @@ related topics.
 RESOURCE NEEDED FROM 
 COLLEGE 
  (for online mode) 
-1. News papers from C-Lite  
+1. News papers from C-Lite 
 2. Study materials (journal, magazine, prep books) 
 3. Aluminums or speakers (for online guidance and seminars) 
- 
-IMPLETATION: 
- 
-## Page 9
-
-SOME RESPONSES FROM 
+  IMPLETATION: 
+  ## Page 9
+ SOME RESPONSES FROM 
 STUDENTS 
 ● The club is really doing good by providing various resources. It would be nice if there 
 were frequent quizzes too. 
@@ -194,4 +173,4 @@ knowledge. Thank you. This is helping a lot.
 prepare 
 ● Expecting daily classes. 
 ● Group discussions, Guidance from Officers 
- 
+  

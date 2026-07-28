@@ -1,19 +1,10 @@
 # Academic Overview
-
-**Source URL:** https://www.kletech.ac.in/academics/overview
-
-# Academic Overview
-
-At KLE Tech, we create opportunities and inspire the students to engage, learn, explore, and grow to play this transformative role.
-
-Our strong teaching culture, cutting-edge curriculum, innovative pedagogy, and strong industry connections prepare our graduates for success in an ever-changing world. The students have the unique opportunity to be taught by the faculty engaged in outstanding scholarship and research.
-
-We aim to deliver industry-relevant learning to every student. Our programmes are designed by academic experts in the field, working with industry partners and employers. This ensures that your educational experiences and qualifications are contemporary, relevant to the world of work, and respected and valued by employers
-
-We are committed to the importance of essential skills, and abilities educators and employers cite as increasingly important-including communication, teamwork, critical thinking, complex problem solving, ethical decision making, and applying learned knowledge in real world-setting.
-
-To this end – each of the programs is designed with learning experiences that are learner-centered, experiential, project/problem based, and focused on developing essential proficiencies and skills. Inquiry-based experiential education is a campus-wide initiative to increase the practical and real-world opportunities for our students
-
-KLE Tech believes that faculty and student research is the prime driver of educational excellence and has a powerful influence on improving human lives and environment quality. All the Schools/departments and interdisciplinary research centers drive cutting-edge research through academic programs, sponsored projects, and collaborations with industry and academic institutions of high repute.
-
-As we continue to grow our research and scholarly activities, we are committed to ensuring that our undergraduate and graduate students have access to state-of-the-art facilities, laboratories, and world-class research and scholarship experiences.
+ **Source URL:** https://www.kletech.ac.in/academics/overview
+ # Academic Overview
+ At KLE Tech, we create opportunities and inspire the students to engage, learn, explore, and grow to play this transformative role.
+ Our strong teaching culture, cutting-edge curriculum, innovative pedagogy, and strong industry connections prepare our graduates for success in an ever-changing world. The students have the unique opportunity to be taught by the faculty engaged in outstanding scholarship and research.
+ We aim to deliver industry-relevant learning to every student. Our programmes are designed by academic experts in the field, working with industry partners and employers. This ensures that your educational experiences and qualifications are contemporary, relevant to the world of work, and respected and valued by employers
+ We are committed to the importance of essential skills, and abilities educators and employers cite as increasingly important-including communication, teamwork, critical thinking, complex problem solving, ethical decision making, and applying learned knowledge in real world-setting.
+ To this end - each of the programs is designed with learning experiences that are learner-centered, experiential, project/problem based, and focused on developing essential proficiencies and skills. Inquiry-based experiential education is a campus-wide initiative to increase the practical and real-world opportunities for our students
+ KLE Tech believes that faculty and student research is the prime driver of educational excellence and has a powerful influence on improving human lives and environment quality. All the Schools/departments and interdisciplinary research centers drive cutting-edge research through academic programs, sponsored projects, and collaborations with industry and academic institutions of high repute.
+ As we continue to grow our research and scholarly activities, we are committed to ensuring that our undergraduate and graduate students have access to state-of-the-art facilities, laboratories, and world-class research and scholarship experiences.

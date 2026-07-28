@@ -1,10 +1,7 @@
 # Equal Opportunity Cell
-
-**Source URL:** https://www.kletech.ac.in/cpage.aspx?mpgid=117&pgidtrail=777
-
-### The member of Equal Opportunity Cell
-
-| Name | Designation | Position |
+ **Source URL:** https://www.kletech.ac.in/cpage.aspx?mpgid=117&pgidtrail=777
+ ### The member of Equal Opportunity Cell
+ | Name | Designation | Position |
 | Dr. B S Anami | Registrar | Chair Person |
 | Dr. Sanjay V. Kotabagi | Dean- Student Welfare | Member Secretary |
 | Prof. Anil Badiger | Associate Director, IQAC | Member |

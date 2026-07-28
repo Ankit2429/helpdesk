@@ -1,120 +1,81 @@
 # Sitemap
-
-**Source URL:** https://www.kletech.ac.in/sitemap
-
-# Sitemap
-
-List of Board of Governors
-
-Organogram
-
-Minute of Meetings
-
-Councils
+ **Source URL:** https://www.kletech.ac.in/sitemap
+ # Sitemap
+ List of Board of Governors
+ Organogram
+ Minute of Meetings
+ Councils
 - Recognitions & Approvals
-
-UGC
-
-AICTE
-
-KLE Technological University Act
-
-2F Approval
-
-RTI
-
-- List of Board of Governors
+ UGC
+ AICTE
+ KLE Technological University Act
+ 2F Approval
+ RTI
+ - List of Board of Governors
 - Organogram
 - Minute of Meetings
 - Councils
-
-- UGC
+ - UGC
 - AICTE
 - KLE Technological University Act
 - 2F Approval
 - RTI
-
-- Undergraduate
+ - Undergraduate
 - Postgraduate
 - Research
 - Certificate Programs Programs
-
-- Academic Overview
+ - Academic Overview
 - Schools / Departments
 - Academic Calendar
 - System of Evaluation
-
-- Hubballi Campus
+ - Hubballi Campus
 - Belagavi Campus
 - Bengaluru Campus
-
-- Domestic Admission
-
-Under Graduate Program
-
-Post Graduate Program
-
-Fee Structure
-
-FAQs
+ - Domestic Admission
+ Under Graduate Program
+ Post Graduate Program
+ Fee Structure
+ FAQs
 - International Admission
-
-- Under Graduate Program
+ - Under Graduate Program
 - Post Graduate Program
 - Fee Structure
 - FAQs
-
-- Academic Facilities
+ - Academic Facilities
 - On Campus Facilities
 - Sports and Health
 - Social Life
-
-Clubs & Society
-
-Events & Fests
-
-Social Initiatives (CSR)
-
-- Clubs & Society
+ Clubs & Society
+ Events & Fests
+ Social Initiatives (CSR)
+ - Clubs & Society
 - Events & Fests
 - Social Initiatives (CSR)
-
-- About Placements
+ - About Placements
 - Our Leading Recruiters
-
-- Research
+ - Research
 - Research Programs
 - Research Centres
-
-Centre of Excellence in Material Science
-
-Centre of Excellence in Visual Intelligence
-
-Centre of Excellence in Energy and Environment
-
-Centre for Intelligent Mobility
-
-Electric Vehicle Innovation Centre
-
-Centre for Automation and Robotics Research
-
-Centre for Intelligent Solutions for Healthcare Applications
-
-- Centre of Excellence in Material Science
+ Centre of Excellence in Material Science
+ Centre of Excellence in Visual Intelligence
+ Centre of Excellence in Energy and Environment
+ Centre for Intelligent Mobility
+ Electric Vehicle Innovation Centre
+ Centre for Automation and Robotics Research
+ Centre for Intelligent Solutions for Healthcare Applications
+ - Centre of Excellence in Material Science
 - Centre of Excellence in Visual Intelligence
 - Centre of Excellence in Energy and Environment
 - Centre for Intelligent Mobility
 - Electric Vehicle Innovation Centre
 - Centre for Automation and Robotics Research
 - Centre for Intelligent Solutions for Healthcare Applications
-
-- Exam Time Table
+ - Exam Time Table
 - Results
 - Exam Notifications
 - Anti Ragging Policy
 - Anti-Sexual Harassment Committee
-
-- News
+ - News
 - Events
 - Notices & Announcements
 - Gallery

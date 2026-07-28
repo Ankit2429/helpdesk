@@ -1,18 +1,13 @@
 # Student Personality Development
-
-**Source URL:** https://www.kletech.ac.in/campus-life/student-personality-development
-
-### Personality and Technical Skill Enhancement
-
-| Sl. No. | Program category /Year | 2019-20 | 2018-19 | 2017-18 | 2016-17 | 2015-16 |
+ **Source URL:** https://www.kletech.ac.in/campus-life/student-personality-development
+ ### Personality and Technical Skill Enhancement
+ | Sl. No. | Program category /Year | 2019-20 | 2018-19 | 2017-18 | 2016-17 | 2015-16 |
 | 1. | Soft skills | 1 | 1 | 1 | 1 | – |
 | 2. | Language and communication skills | 1 | 1 | 1 | 1 | 2 |
 | 3. | Life skills | 1 | 8 | 2 | 2 | 2 |
 | 4. | Awareness of technology trends | 21 | 22 | 27 | 12 | 5 |
-
-### 2019-20
-
-| Sl. No. | Name of the Capability Development and Skills Enhancement Scheme | Date of Implementation (DD-MM-YYYY) |
+ ### 2019-20
+ | Sl. No. | Name of the Capability Development and Skills Enhancement Scheme | Date of Implementation (DD-MM-YYYY) |
 | 1. | Soft skills | 19-08-2019 |
 | 2. | A Course on Professional Communication | 16-08-2019 |
 | 3. | Empathy | 16-08-2019 |
@@ -37,10 +32,8 @@
 | 22. | Basics on ML, Knowledge management and AI Planning | 19-10-2020 |
 | 23 | Person Tracking by 2D and 3D | 18-07-2019 |
 | 24. | Emotional Intellegence | 30-08-2019 |
-
-### 2018-19
-
-| Sl. No. | Name of the Capability Development and Skills Enhancement Scheme | Date of Implementation (DD-MM-YYYY) |
+ ### 2018-19
+ | Sl. No. | Name of the Capability Development and Skills Enhancement Scheme | Date of Implementation (DD-MM-YYYY) |
 | 1. | Soft skills | 08-08-2018 |
 | 2. | A course on professional communication | 01-08-2018 |
 | 3. | Yoga Day Celebration | 21-06-2019 |
@@ -73,10 +66,8 @@
 | 30. | Anatomy of Routers | 12-04-2019 |
 | 31. | Talk on AirBorne Equipment Design Life Cycle | 24-04-2019 |
 | 32. | Block Chain | 25-04-2019 |
-
-### 2017-18
-
-| Sl. No. | Name of the Capability Development and Skills Enhancement Scheme | Date of Implementation (DD-MM-YYYY) |
+ ### 2017-18
+ | Sl. No. | Name of the Capability Development and Skills Enhancement Scheme | Date of Implementation (DD-MM-YYYY) |
 | 1. | Soft skill initiatives | 16-08-2017 |
 | 2. | A course on professional communication | 11-08-2017 |
 | 3. | Yoga Day Celebration | 21-06-2018 |
@@ -108,10 +99,8 @@
 | 29. | Visit to 220/110/11KV RECEIVING SUBSTATION, BIDNAL, HUBBALLI. | 21-04-2018 |
 | 30. | Industry Expert Session | 09-06-2018 |
 | 31. | Supa Dam and Power Station, Ganeshgudi | 03-07-2018 |
-
-### 2016-17
-
-| Sl. No. | Name of the Capability Development and Skills Enhancement Scheme | Date of Implementation (DD-MM-YYYY) |
+ ### 2016-17
+ | Sl. No. | Name of the Capability Development and Skills Enhancement Scheme | Date of Implementation (DD-MM-YYYY) |
 | 1. | Soft skills Initiatives | 26-08-2016 |
 | 2. | A course on professional communication | 03-08-2016 |
 | 3. | Yoga Day Celebration | 21-06-2016 |
@@ -128,10 +117,8 @@
 | 14. | Pre-stressed concrete flat slabs | 15-03-2017 |
 | 15. | Innovation concert | 18-03-2017 |
 | 16. | Talkon telecom networks | 18-03-2017 |
-
-### 2015-16
-
-| Sl. No. | Name of the Capability Development and Skills Enhancement Scheme | Date of Implementation (DD-MM-YYYY) |
+ ### 2015-16
+ | Sl. No. | Name of the Capability Development and Skills Enhancement Scheme | Date of Implementation (DD-MM-YYYY) |
 | 1. | Language and Communication | 01-08-2015 |
 | 2. | A Course on Professional Communication | 02-08-2015 |
 | 3. | Yoga Day Celebration | 21-06-2015 |

@@ -1,10 +1,7 @@
 # PDF Document: Faculty_Conclave-2019
-
-**PDF Source:** https://www.kletech.ac.in/pdf/Faculty Conclave-2019.pdf
-
-## Page 1
-
-                        Earlier known as  
+ **PDF Source:** https://www.kletech.ac.in/pdf/Faculty Conclave-2019.pdf
+ ## Page 1
+                         Earlier known as 
                                                                                                            B.V.B College of Engineering and Technology 
 _____________________________________________________________________________________ 
 Faculty Conclave- 2019 
@@ -15,7 +12,7 @@ Arunkumar Giriyapur, Ashwini G K,
 Shilpa Tanvashi 
 2 A Review on Hackthon Using Problem Solving Approach Ashwini G K, Poornima Bhayatti 
 3 A Problem-Based Learning Approach to teach a course 
-on  
+on 
 Computer Vision and Digital image processing at the 
 Undergraduate Level 
 Arunkumar Giriyapur, Ashwini G K 
@@ -26,7 +23,7 @@ Muddapur
 5 Problem Based Learning (PBL) Approach in Bioanalytical 
 Techniques Course 
 Zabin K. Bagewadi 
-6 Framework for articulating “Complex” Need 
+6 Framework for articulating "Complex" Need 
 Statements for Multi-disciplinary Design Projects in 
 First-year Engineering 
 Preethi Baligar, Sanjeev Kavale, 
@@ -67,15 +64,13 @@ Sanjay Kotabagi, Sujata N M,
 Jayanti D. Shinge 
 18 Data Driven Education- A Road Ahead? Hiremath Chetan V, and Patil S.V 
 19 Practicing Design by Analysing Component Failure Nagaraj Ekabote 
-20 Industry-Academia collaboration –A New  Initiative in 
+20 Industry-Academia collaboration -A New Initiative in 
 Mechanical Engineering UG Program 
 U.P.Hosmani, G M Hiremath, 
 Mantesh Choukimath 
 21 Activity intervention to enhance awareness about Rajashekhar Subhas Savadi, 
-
-## Page 2
-
-                        Earlier known as  
+ ## Page 2
+                         Earlier known as 
                                                                                                            B.V.B College of Engineering and Technology 
 _____________________________________________________________________________________ 
 career opportunities for a course Anandraj Desai 
@@ -88,4 +83,4 @@ customisation of the PLM platform: An Initiative
 Vinay S Tigadi, Mallikarjun Akki, 
 K.M.M Rajashekharaiah, Dr. B B 
 Kotturshettar 
- 
+  

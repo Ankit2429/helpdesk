@@ -1,92 +1,55 @@
 # Programs
-
-**Source URL:** https://www.kletech.ac.in/hubballi/postgraduate-programs
-
-# Programs
-
-You are searching postgraduate programs.
-
-### Browse by Faculties
-
-Engineering
-
-Computer Application
-
-Management
-
-Legal Studies
-
-Science
-
-- M.Tech Structural Engineering 
+ **Source URL:** https://www.kletech.ac.in/hubballi/postgraduate-programs
+ # Programs
+ You are searching postgraduate programs.
+ ### Browse by Faculties
+ Engineering
+ Computer Application
+ Management
+ Legal Studies
+ Science
+ - M.Tech Structural Engineering 
 FacultyEngineering
-
-Hubballi
+ Hubballi
 - M.Tech Design Engineering 
 FacultyEngineering
-
-Hubballi
+ Hubballi
 - M.Tech Advanced Manufacturing Systems 
 FacultyScience
-
-Hubballi
+ Hubballi
 - M.Tech VLSI Design And Embedded Systems 
 FacultyEngineering
-
-Hubballi
-- M.Tech Computer Science and  Engineering 
+ Hubballi
+- M.Tech Computer Science and Engineering 
 FacultyEngineering
-
-Hubballi
+ Hubballi
 - LLM - Constitutional Law 
 FacultyLegal Studies
-
-Hubballi
+ Hubballi
 - Master of Business Administration 
 FacultyManagement
-
-Hubballi
+ Hubballi
 - Master of Computer Application 
 FacultyComputer Application
-
-Hubballi
+ Hubballi
 - LLM - IPR 
 FacultyLegal Studies
-
-Hubballi
-
-FacultyEngineering
-
-Hubballi
-
-FacultyEngineering
-
-Hubballi
-
-FacultyScience
-
-Hubballi
-
-FacultyEngineering
-
-Hubballi
-
-FacultyEngineering
-
-Hubballi
-
-FacultyLegal Studies
-
-Hubballi
-
-FacultyManagement
-
-Hubballi
-
-FacultyComputer Application
-
-Hubballi
-
-FacultyLegal Studies
-
-Hubballi
+ Hubballi
+ FacultyEngineering
+ Hubballi
+ FacultyEngineering
+ Hubballi
+ FacultyScience
+ Hubballi
+ FacultyEngineering
+ Hubballi
+ FacultyEngineering
+ Hubballi
+ FacultyLegal Studies
+ Hubballi
+ FacultyManagement
+ Hubballi
+ FacultyComputer Application
+ Hubballi
+ FacultyLegal Studies
+ Hubballi

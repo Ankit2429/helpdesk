@@ -1,12 +1,9 @@
 # PDF Document: 42imguf_admission-notification
-
-**PDF Source:** https://www.kletech.ac.in/Uploads/image/42imguf_admission-notification.pdf
-
-## Page 1
-
-KLtrl,T?ffi':si:i
+ **PDF Source:** https://www.kletech.ac.in/Uploads/image/42imguf_admission-notification.pdf
+ ## Page 1
+ KLtrl, T?ffi':si: i
 Crealing Value
-ieveraging Knowledge B.v. B. cotrege of Engineerl"T'fi,S"Jfi;
+ieveraging Knowledge B.v. B. cotrege of Engineerl"T'fi, S"Jfi;
 KLE TU/A C}laI 2 4 -z s I 20 5 (a) 18.06.2024
 NOTIFICATION
 This is to inform all the prospective students seeking entry to the Bachelor of

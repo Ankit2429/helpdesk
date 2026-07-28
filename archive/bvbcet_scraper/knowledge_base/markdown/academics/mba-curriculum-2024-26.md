@@ -1,98 +1,65 @@
 # PDF Document: mba-curriculum-2024-26
-
-**PDF Source:** https://www.kletech.ac.in/pdf/mba-curriculum-2024-26.pdf
-
-## Page 1
-
-Format No: FMCD2009 /1.0  1 
- 
-School of Management Studies and Research 
- 
-Curriculum and Syllabus 
+ **PDF Source:** https://www.kletech.ac.in/pdf/mba-curriculum-2024-26.pdf
+ ## Page 1
+ Format No: FMCD2009 /1.0 1 
+  School of Management Studies and Research 
+  Curriculum and Syllabus 
 (2024-2026) 
 MBA- Master of Business Administration 
- 
-## Page 2
-
-Format No: FMCD2009 /1.0  2 
- 
-INDEX 
-Sr.No. Content Page No 
- 
-1 Vision and Mission o f  KL E  Te ch n o l o g i ca l  Un i ve rs i t y 3 
-2 Vision and Mission Statement of Department/ School  4 
+  ## Page 2
+ Format No: FMCD2009 /1.0 2 
+  INDEX 
+Sr. No. Content Page No 
+  1 Vision and Mission o f KL E Te ch n o l o g i ca l Un i ve rs i t y 3 
+2 Vision and Mission Statement of Department/ School 4 
 3 Program Educational Objectives (PEOs) /Program Outcomes (POs) 5 
 4 Curriculum Structure-Overall 6 
-5 Curriculum Structure – Semester-wise 7 
+5 Curriculum Structure - Semester-wise 7 
 6 Curriculum Content- Course-wise 12 
- 
-## Page 3
-
-Format No: FMCD2009 /1.0  3 
- 
-Title: Vision and Mission Statements of the KLE Technological University 
- 
-Vision 
- 
-KLE Technological University will be a national leader in Higher 
-Education –recognised globally for innovative culture, outstanding 
+  ## Page 3
+ Format No: FMCD2009 /1.0 3 
+  Title: Vision and Mission Statements of the KLE Technological University 
+  Vision 
+  KLE Technological University will be a national leader in Higher 
+Education -recognised globally for innovative culture, outstanding 
 student experience, research excellence and social impact. 
- 
-Mission 
- 
-KLE Technological University is dedicated to teaching that meets highest 
+  Mission 
+  KLE Technological University is dedicated to teaching that meets highest 
 standards of excellence, generation and application of new knowledge through 
 research and creative endeavours. 
- 
-The three-fold mission of the University is: 
+  The three-fold mission of the University is: 
  To offer undergraduate and post -graduate programs with engaged and 
 experiential learning environment enriched by high quality instruction 
 that prepares students to succeed in their lives and professional careers. 
- 
- To enable and grow discipli nary and inter -disciplinary areas of research 
+   To enable and grow discipli nary and inter -disciplinary areas of research 
 that build on present strengths and future opportunities aligning with 
 areas of national strategic importance and priority. 
- 
- To actively engage in the Socio -economic development of the region by 
+   To actively engage in the Socio -economic development of the region by 
 contributing ou r expertise, experience and leadership, to enhance 
 competitiveness and quality of life. 
- 
-As a unified community of faculty, staff and students, we work together with the 
+  As a unified community of faculty, staff and students, we work together with the 
 spirit of collaboration and partnership to accomplish our mission. 
-    
-          Back 
- 
-## Page 4
-
-Format No: FMCD2009 /1.0  4 
- 
-Title: Vision and Mission Statements of the Department/School 
- 
-Vision: 
+               Back 
+  ## Page 4
+ Format No: FMCD2009 /1.0 4 
+  Title: Vision and Mission Statements of the Department/School 
+  Vision: 
 KLE Tech Department of Management will be a premier institute in management education 
 by fostering an innovative culture, delivering a transformative student experience, driving 
 impactful research, and contributing meaningfully to business and society. 
- 
-Mission: 
+  Mission: 
 M1: To offer a program in an engaging and experiential learning environment, 
-preparing students for success in their lives and professional careers.  
- 
-M2: To strengthen management knowledge through research that addresses real -
+preparing students for success in their lives and professional careers. 
+  M2: To strengthen management knowledge through research that addresses real -
 world management challenges and shapes professionals 
- 
-M3: To engage with industry and community stakeholders by contributing to 
+  M3: To engage with industry and community stakeholders by contributing to 
 the region's socio-economic development. 
- 
-           Back 
-
-## Page 5
-
-Format No: FMCD2009 /1.0  5 
+             Back 
+ ## Page 5
+ Format No: FMCD2009 /1.0 5 
 Title: Consolidated View of Program Educational Objectives (PEOs) /Program Outcomes (POs) and Program-Specific Objectives (PSOs) 
-  
-Program Educational Objectives (PEOs) Program Outcomes (POs) 
- 
-PEO1: Graduates will demonstrate entrepreneurial and managerial 
+   Program Educational Objectives (PEOs) Program Outcomes (POs) 
+  PEO1: Graduates will demonstrate entrepreneurial and managerial 
 competencies in management as they apply problem-solving skills to 
 conceive, analyse, design and develop sustainable solutions with or 
 without the technological avenues for the holistic development of an 
@@ -107,28 +74,25 @@ PO2: Foster analytical and critical thinking abilities for data-based
 decision making. 
 PEO3: Graduates will be committed to practising management 
 philosophy and ethics in industry and government organizations, 
-meeting stakeholders’; growing expectations and contributing to 
+meeting stakeholders'; growing expectations and contributing to 
 societal development. 
 PO3: Ability to develop value-based leadership ability. 
 PEO4: Graduates will actively participate in ongoing professional 
 development opportunities, continuously update and adapt core 
 knowledge and abilities to compete in the ever-changing global 
 enterprise and pursue new career opportunities. 
-PO4:Ability to understand, analyse and communicate global, 
+PO4: Ability to understand, analyse and communicate global, 
 economic, legal, and ethical aspects of business. 
  PO5: Ability to lead themselves and others in the achievement of 
-organizational goals, contributing effectively to a  team 
+organizational goals, contributing effectively to a team 
 environment. 
- PSO1:Ability to analyse, synthesize and solve organizational and 
+ PSO1: Ability to analyse, synthesize and solve organizational and 
 societal issues. 
                  Back 
- 
-## Page 6
-
-Format No: FMCD2009 /1.0  6 
+  ## Page 6
+ Format No: FMCD2009 /1.0 6 
 Title: Curriculum Structure -Overall 
- 
-Semester                                                                                                                                                                                 Total Program Credits: 88 
+  Semester Total Program Credits: 88 
 Course with course Code 
 I II III IV 
 Organizational Theory & Practice 
@@ -141,26 +105,26 @@ Managerial Economics
 (20MBAC702) 
 Entrepreneurship Development 
 (20MBAC705) 
-Elective – I (20MBAE8XX) Supply Chain Management 
+Elective - I (20MBAE8XX) Supply Chain Management 
 (22MBAC801) 
 Accounting for Managers 
 (20MBAC703) 
 Financial Management 
 (24MBAC703) 
-Elective – II (20MBAE8XX) Elective – I (20MBAE8XX) 
+Elective - II (20MBAE8XX) Elective - I (20MBAE8XX) 
 Business Research Methods 
 (22MBAC701) 
 Human Resource Management 
 (24MBAC704) 
-Elective – III (20MBAE8XX) Elective – II (20MBAE8XX) 
+Elective - III (20MBAE8XX) Elective - II (20MBAE8XX) 
 Marketing Management 
 (24MBAC702) 
 Operations Management 
 (20MBAC712) 
-Elective – IV (20MBAE8XX) Elective – III (20MBAE8XX) 
+Elective - IV (20MBAE8XX) Elective - III (20MBAE8XX) 
 Business Statistics and Analytics 
 (24MBAC701) 
-Decision Modelling (24MBAC705) Summer Internship (25MBAI801) Elective – IV (20MBAE8XX) 
+Decision Modelling (24MBAC705) Summer Internship (25MBAI801) Elective - IV (20MBAE8XX) 
 Industry Experience- Phase I 
 (20MBAP701) 
 Digital Marketing for Rural 
@@ -175,17 +139,17 @@ Managerial Communication and
 Aptitude (24MBAP702) 
 Industry Experience -Phase III 
 (25MBAP802) 
-Entrepreneurship Phase – IV 
+Entrepreneurship Phase - IV 
 (24MBAP802) 
 Business Communication 
 (20MBAP703) 
 Industry Experience- Phase II 
 (24MBAP703) 
-Entrepreneurship Phase – III 
+Entrepreneurship Phase - III 
 (25MBAP803) 
 Research Experience Phase- II 
 (24MBAR801) 
-Entrepreneurship Phase – II 
+Entrepreneurship Phase - II 
 (24MBAP704) 
 Research Experience Phase- I 
 (25MBAR801) 
@@ -194,28 +158,22 @@ Social Entrepreneurship Phase- II
 Social Entrepreneurship Phase- I 
 (25MBAP804) 
 Credits 22 23 22 21 
-
-## Page 7
-
-Format No: FMCD2009 /1.0  7 
+ ## Page 7
+ Format No: FMCD2009 /1.0 7 
 Title: Curriculum Structure- Semester-wise 
 Curriculum Structure for the year 2024-26 batch 
 I Semester 
-ISA: In-semester Assessment  ESA: End Semester Assessment  L: Lecture T: Tutorials P: Practical 
- 
-Date                                                                                                                                                                                   Program Head  
-   
-FORM 
+ISA: In-semester Assessment ESA: End Semester Assessment L: Lecture T: Tutorials P: Practical 
+  Date Program Head 
+    FORM 
 ISO 21001:2018 
 Document #: FMCD2004 
- 
-Rev: 1.0 
-Title:  Curriculum structure semester wise Page  
+  Rev: 1.0 
+Title: Curriculum structure semester wise Page 
 Year: 
-Sr.No Course code Course Title L T P Evaluation scheme Credit 
+Sr. No Course code Course Title L T P Evaluation scheme Credit 
 (L+T+P) 
- 
-Exam 
+  Exam 
 Hours ISA ESA Total 
 1 20MBAC701 Organizational Theory &Practice 3 0 0 50 50 100 3 3 hours 
 2 20MBAC702 Managerial Economics 3 0 0 50 50 100 3 3 hours 
@@ -224,36 +182,28 @@ Hours ISA ESA Total
 5 24MBAC702 Marketing Management 2 0 1 50 50 100 3 3 hours 
 6 24MBAC701 Business Statistics and Analytics 3 0 0 50 50 100 3 2 hours 
 7 20MBAP701 Industry Experience- Phase I 0 0 3 100 -- 100 
- 
-3 
- 
-- 
+  3 
+  - 
  21MBAP701 Entrepreneurship Phase I 
 8 20MBAP703 Business Communication 0 0 1 100 -- 100 1 - 
-TOTAL 16 1 5    22  
-
-## Page 8
-
-Format No: FMCD2009 /1.0  8 
- 
-FORM 
+TOTAL 16 1 5 22 
+ ## Page 8
+ Format No: FMCD2009 /1.0 8 
+  FORM 
 ISO 21001:2018 
 Document #: FMCD2004 
- 
-Rev: 1.0 
-Title:  Curriculum structure semester wise Page  
+  Rev: 1.0 
+Title: Curriculum structure semester wise Page 
 Year: 
 II Semester 
-ISA: In-semester Assessment  ESA: End Semester Assessment  L: Lecture T: Tutorials P: Practical 
- 
-Date                                                                                                                                                                                                                Program Head 
-Sr.No Course code Course Title L T P Evaluation scheme Credit 
+ISA: In-semester Assessment ESA: End Semester Assessment L: Lecture T: Tutorials P: Practical 
+  Date Program Head 
+Sr. No Course code Course Title L T P Evaluation scheme Credit 
 (L+T+P) 
- 
-Exam 
+  Exam 
 Hours 
 ISA ESA Total 
-1 20MBAC707 Business Environment  3 0 0 50 50 100 3 2 hours 
+1 20MBAC707 Business Environment 3 0 0 50 50 100 3 2 hours 
 2 20MBAC705 Entrepreneurship Development 3 0 0 50 50 100 3 3 hours 
 3 24MBAC703 Financial Management 2 1 0 50 50 100 3 2 hours 
 4 24MBAC704 Human Resource Management 2 1 0 50 50 100 3 2 hours 
@@ -261,84 +211,69 @@ ISA ESA Total
 6 24MBAC705 Decision Modelling 2 0 0 50 50 100 2 2 hours 
 7 24MBAP701 Digital Marketing for Rural Business 0 0 1 80 20 100 1 2 hours 
 8 24MBAP702 Managerial Communication and Aptitude 0 0 2 80 20 100 2 2 hours 
-9 24MBAP703 Industry Experience- Phase II 0 0 3 50 50 100 3 3 hours 25MBAP702 Entrepreneurship Phase – II 0 
-TOTAL 15 2 6    23  
-
-## Page 9
-
-Format No: FMCD2009 /1.0  9 
- 
-FORM 
+9 24MBAP703 Industry Experience- Phase II 0 0 3 50 50 100 3 3 hours 25MBAP702 Entrepreneurship Phase - II 0 
+TOTAL 15 2 6 23 
+ ## Page 9
+ Format No: FMCD2009 /1.0 9 
+  FORM 
 ISO 21001:2018 
 Document #: FMCD2004 
- 
-Rev: 1.0 
-Title:  Curriculum structure semester wise Page  
+  Rev: 1.0 
+Title: Curriculum structure semester wise Page 
 Year: 
 Curriculum Structure for the year 2024-26 Batch 
 III Semester 
-ISA: In-semester Assessment  ESA: End Semester Assessment  L: Lecture T: Tutorials P: Practical 
- 
-Date                                                                                                                                                                                                                     Program Head 
+ISA: In-semester Assessment ESA: End Semester Assessment L: Lecture T: Tutorials P: Practical 
+  Date Program Head 
 Sr. No Course code Course Title L T P Evaluation scheme Credit 
 (L+T+P) 
- 
-Exam 
+  Exam 
 Hours ISA ESA Total 
 1 20MBAC801 Strategic Management 3 0 0 50 50 100 3 3 hours 
-2 20MBAE8XX Elective – I 3 0 0 50 50 100 3 3 hours 
-3 20MBAE8XX Elective – II 3 0 0 50 50 100 3 3 hours 
-4 20MBAE8XX Elective – III 3 0 0 50 50 100 3 3 hours 
-5 20MBAE8XX Elective – IV 3 0 0 50 50 100 3 3 hours 
+2 20MBAE8XX Elective - I 3 0 0 50 50 100 3 3 hours 
+3 20MBAE8XX Elective - II 3 0 0 50 50 100 3 3 hours 
+4 20MBAE8XX Elective - III 3 0 0 50 50 100 3 3 hours 
+5 20MBAE8XX Elective - IV 3 0 0 50 50 100 3 3 hours 
 6 25MBAI801 Summer Internship 0 0 3 50 50 100 3 3 hours 
 7 25MBAP801 Climate Change & Sustainability Management 0 0 1 80 20 100 1 -- 
 8 25MBAP802 Industry Experience -Phase III 
-0 0 3 50 50 100 3 -- 25MBAP803 Entrepreneurship Phase – III 
+0 0 3 50 50 100 3 -- 25MBAP803 Entrepreneurship Phase - III 
 25MBAR801 Research Experience Phase- I 
 25MBAP804 Social Entrepreneurship Phase- I 
-TOTAL 15 0 7    22  
-
-## Page 10
-
-Format No: FMCD2009 /1.0  10 
- 
-FORM 
+TOTAL 15 0 7 22 
+ ## Page 10
+ Format No: FMCD2009 /1.0 10 
+  FORM 
 ISO 21001:2018 
 Document #: FMCD2004 
- 
-Rev: 1.0 
-Title:  Curriculum structure semester wise Page  
+  Rev: 1.0 
+Title: Curriculum structure semester wise Page 
 Year: 
 IV Semester 
-  
-ISA: In-semester Assessment  ESA: End Semester Assessment  L: Lecture T: Tutorials P: Practical 
-Date                                                                                                                                                                                                                       Program Head 
-Sr.No Course code Course Title L T P Evaluation scheme Credit 
+ 
+ISA: In-semester Assessment ESA: End Semester Assessment L: Lecture T: Tutorials P: Practical 
+Date Program Head 
+Sr. No Course code Course Title L T P Evaluation scheme Credit 
 (L+T+P) 
- 
-Exam 
+  Exam 
 Hours ISA ESA Total 
 1 20MBAC804 Legal Aspects of Business 3 0 0 50 50 100 3 3 hours 
 2 22MBAC801 Supply Chain Management 3 
 0 0 50 50 100 3 3 hours 
-3 20MBAE8XX Elective - I  3 0 0 50 50 100 3 3 hours 
-4 20MBAE8XX Elective – II  3 0 0 50 50 100 3 3 hours 
-5 20MBAE8XX Elective – III 3 
+3 20MBAE8XX Elective - I 3 0 0 50 50 100 3 3 hours 
+4 20MBAE8XX Elective - II 3 0 0 50 50 100 3 3 hours 
+5 20MBAE8XX Elective - III 3 
 0 0 50 50 100 3 3 hours 
-6 20MBAE8XX Elective - IV  3 0 0 50 50 100 3 3 hours 
+6 20MBAE8XX Elective - IV 3 0 0 50 50 100 3 3 hours 
 7 
- 
-24MBAP801 Industry Experience Phase-IV 
-0 0 3 50 50 100 3 -- 24MBAP802 Entrepreneurship Phase – IV 
+  24MBAP801 Industry Experience Phase-IV 
+0 0 3 50 50 100 3 -- 24MBAP802 Entrepreneurship Phase - IV 
 24MBAR801 Research Experience Phase- II 
 24MBAP803 Social Entrepreneurship Phase- II 
-TOTAL 18 0 3    21  
-
-## Page 11
-
-Format No: FMCD2009 /1.0  11 
- 
-Electives I, II, III, IV 
+TOTAL 18 0 3 21 
+ ## Page 11
+ Format No: FMCD2009 /1.0 11 
+  Electives I, II, III, IV 
 Marketing 
 20MBAE8XX 
 Finance 
@@ -412,8 +347,7 @@ Management
  Logistics and 
 Warehouse 
 Management 
- 
- Data Science for 
+   Data Science for 
 Business 
  Introduction to 
 Python 
@@ -423,102 +357,89 @@ Using Power Bi
 Managers 
  Perspective 
 Analytics 
- 
-                 Back 
- 
-## Page 12
-
-Format No: FMCD2009 /1.0  12 
- 
-FORM 
+                   Back 
+  ## Page 12
+ Format No: FMCD2009 /1.0 12 
+  FORM 
 ISO 21001:2018 
 Document #: 
-FMCD2005  
- 
-Rev: 1.0 
+FMCD2005 
+  Rev: 1.0 
 Curriculum Content- Course wise Page 12 to 110 
 Year: 2025 
 2024-26 Batch 
-Course Content Semester I  
+Course Content Semester I 
 Program: MBA 
-Course Title: Organizational Theory  & 
+Course Title: Organizational Theory & 
 Practice 
-Course Code: 20MBAC701  
+Course Code: 20MBAC701 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 40hrs  Exam Duration: 3 hrs 
+Teaching Hrs: 40hrs Exam Duration: 3 hrs 
 Course Content 
 Particulars 
- 
-Module 1: 
+  Module 1: 
 Designing organizations: Organization: Meaning and characteristics, Organization Design: 
 Meaning, purpose, Principles, factors affecting organization design, Design process, Managing 
-organizational structure, Types of structures, Stake holder’s management and future work place, 
+organizational structure, Types of structures, Stake holder's management and future work place, 
 organizational control06 hrs 
 Module 2: 
 Introduction to Management: The evolution of management thought, approaches to 
 management, Managerial functions, roles, traits and Skills, Ethics and Social Responsibilities of 
 Management, Factors influencing Management, Recent trends and issues in Management, The 
 manager as a planner and strategist07 hrs 
-Module 3:  
+Module 3: 
 Introduction to Organizational Behavior (OB): Evolution of OB, fundamental concepts, current 
 challenges and its relevance for managers, The foundation of individual behavior, Intelligence 
 Quotient (IQ) and Emotional quotient (EQ), Decision making: introduction, characteristics, types 
 and process. 07 hrs 
-Module 4:  
+Module 4: 
 Foundations of individual behaviour: Personality, determinants & theories of personality, 
 Perception, Values, formation of values, types of values, Attitudes, types of attitudes, Changing 
 attitudes, Cognitive dissonance theory, work related attitudes, Motivation, theories of 
 motivation, using rewards to motivate employees, learning, theories of learning, stress 
-management.                                                                                                                                         12 hrs 
-Module 5:   
+management. 12 hrs 
+Module 5: 
 Behaviour in working environment: Leadership, contemporary issues in leadership, Introduction 
 to Groups & Teams, Basics of power and politics, Organizational culture, Organizational change, 
 diversity in workplace. Digital Workplace- role and Perspectives. Lean & Green Workspace. 
 Reduced Inequalities, Ethical Challenges.08 hrs 
-
-## Page 13
-
-Format No: FMCD2009 /1.0  13 
+ ## Page 13
+ Format No: FMCD2009 /1.0 13 
 References 
  Jones Gareth R, George Jennifer M, Contemporary Management, TMH, 5th Edition, 2009 
-  Heinz Weihrich, Mark V Cannice, Harold Koontz, Management: A Global, Innovative and 
+ Heinz Weihrich, Mark V Cannice, Harold Koontz, Management: A Global, Innovative and 
 Entrepreneurial Perspective, Tata McGraw-Hill, 15th Edition, 2019 
- Fred Luthons, Organizational Behavior, Tata McGraw-Hill, 12th Edition, 2017  
+ Fred Luthons, Organizational Behavior, Tata McGraw-Hill, 12th Edition, 2017 
  Stephen Robbins, Judge, Vohra, Organizational Behavior, Pearson, 18th Edition, 2018 
     Scheme for Semester End Examination (ESA) 
 UNIT 
-5 Questions  
+5 Questions 
 Each Question carries 20 
-Marks  
-Module  numbers Instructions 
- 
-UNIT I 
+Marks 
+Module numbers Instructions 
+  UNIT I 
 I 
 All Questions Compulsory 
- 
-II 
+  II 
 III 
 IV 
 V 
        Back 
-  
-## Page 14
-
-Format No: FMCD2009 /1.0  14 
-  
-Program: MBA 
-Course Title: Managerial Economics  Course Code: 20MBAC702 
+   ## Page 14
+ Format No: FMCD2009 /1.0 14 
+   Program: MBA 
+Course Title: Managerial Economics Course Code: 20MBAC702 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 40hrs  Exam Duration: 3 hrs 
+Teaching Hrs: 40hrs Exam Duration: 3 hrs 
 Course Content 
 Particulars 
 Module No. 1 
 Introduction: Concepts of economics and managerial economics, the circular flow of economic 
 activity, nature of the firm, concept of profit, profit in a market system, economics and decision 
 making. 5 hrs 
-Module No. 2  
+Module No. 2 
 Demand Theory: Demand Theory: Individual and market demand, total and marginal revenue, 
 price elasticity, income elasticity, and cross elasticity, demand estimation. Supply Theory: 
 Elasticity of supply, determinants of supply. 12 hrs 
@@ -534,70 +455,65 @@ Module No.5
 Pricing Decisions: Pricing of goods and services: Understanding value chain, pricing of multiple 
 products, price discrimination, product bundling, peak-load pricing, cost-plus pricing. 7 hrs 
 References 
- D. M. Mithani, Managerial Economics, Himalaya Publishing House, 8th edition, 2016.  
- H. Craig Petersen and W. Cris Lewis, Managerial Economics, 4th edition, Prentice -   Hall    
+ D. M. Mithani, Managerial Economics, Himalaya Publishing House, 8th edition, 2016. 
+ H. Craig Petersen and W. Cris Lewis, Managerial Economics, 4th edition, Prentice - Hall 
 India, 2005. 
  Mark Hirschy, Economics for Managers, 12th edition, Cengage Learning India Pvt Ltd, 2014. 
  William Boyes, The New Managerial Economics, 1st edition, Houghton Mifflin 
-Company,2003. 
- N Gergory Mankiw, Principles of Economics, 3rd edition, Thomson South-Western, 2003.  
+Company, 2003. 
+ N Gergory Mankiw, Principles of Economics, 3rd edition, Thomson South-Western, 2003. 
  D N Dwivedi, Managerial Economics, 7th edition, Vikas Publication house, 2010. 
- 
-Scheme for Semester End Examination (ESA) 
+  Scheme for Semester End Examination (ESA) 
 UNIT 
-5 Questions  
+5 Questions 
 Each Question carries 20 
-Marks  
-Module  
+Marks 
+Module 
 numbers 
 Instructions 
- 
-UNIT I 
+  UNIT I 
 I 
 All Questions Compulsory 
- 
-II 
+  II 
 III 
 IV 
 V 
 Back 
-
-## Page 15
-
-Format No: FMCD2009 /1.0  15 
+ ## Page 15
+ Format No: FMCD2009 /1.0 15 
 Program: MBA 
 Course Title: Accounting for Managers Course Code: 20MBAC703 
 L-T-P: 2-1-0 Credits: 3 Contact Hrs: 04 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 28hrs  Exam Duration: 3 hrs 
+Teaching Hrs: 28hrs Exam Duration: 3 hrs 
 Course Content 
 Particulars 
-Module 1:  
+Module 1: 
 Introduction: Introduction of management accounting, accounting concepts and convention, 
 GAAP and accounting standards, Accounting equation, International Financial Reporting 
-Standards (IFRS). Introduction to IGAP and UGAP .                                                                            06Hrs 
-Module 2:  
+Standards (IFRS). Introduction to IGAP and UGAP . 06Hrs 
+Module 2: 
 Final accounts: Journal and ledger entries, Trading and profit and loss account, Final accounts for 
-companies using tally.                                                                                                                               7Hrs 
-Module3:  
+companies using tally. 7Hrs 
+Module3: 
 Depreciation Methods and Financial statement analysis: Depreciation Methods: Straight line 
-method and Written-down value method.    
+method and Written-down value method. 
 Financial statement analysis: Advantages and limitation of ratio analysis as a management tool. 
 Analysis and interpretation of financial statements, ratio analysis, liquidity, leverage, activity and 
-profitability ratios.                                                                                                                                     8Hrs 
+profitability ratios. 8Hrs 
 Module 4: 
-Cash-flow statement and analysis: Cash-flow statement and Contemporary topics.  
+Cash-flow statement and analysis: Cash-flow statement and Contemporary topics. 
 Ethics in accounting, A case on falsification of cash flows. Ethical Financial Practices for 
-Sustainable Development.  
+Sustainable Development. 
 04Hrs 
-Module 5:  
-Elements of Costs: Preparation of cost sheet – Marginal costing and Standard Costing. 
+Module 5: 
+Elements of Costs: Preparation of cost sheet - Marginal costing and Standard Costing. 
 03Hrs 
 References: 
  R. Narayanaswamy, Financial Accounting: A Managerial Perspective, Prentice Hall of 
 India, 6thedn, 2017. 
  N. Ramachandran and Ram Kumar Kakani, Financial Accounting for Management, TMH 
-Publications, 5thedn, 2020.  
+Publications, 5thedn, 2020. 
  Ashish K Bhattacharya, Financial Accounting for Business Managers, Prentice Hall of 
 India, 5thedn, 2012. 
  Ambarish Gupta, Financial Accounting for Management: An Analytical Perspective, 
@@ -606,47 +522,44 @@ Pearson India Education Services, 5thedn, 2016.
 International Publishers, 1st edn, 2011. 
    Scheme for Semester End Examination (ESA) 
 UNIT 
-5 Questions  
+5 Questions 
 Each Question carries 20 
-Marks  
-Module  numbers Instructions 
- 
-UNIT I 
+Marks 
+Module numbers Instructions 
+  UNIT I 
 I 
 All Questions Compulsory II 
 III 
 IV 
 V 
 Back 
-
-## Page 16
-
-Format No: FMCD2009 /1.0  16 
+ ## Page 16
+ Format No: FMCD2009 /1.0 16 
 Program: MBA 
 Course Title: Business Research Methods Course Code: 22MBAC701 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 40hrs  Exam Duration: 3 hrs 
+Teaching Hrs: 40hrs Exam Duration: 3 hrs 
 Course Content 
-Particulars  
-Module 1:  
-Introduction to business research:   
+Particulars 
+Module 1: 
+Introduction to business research: 
 Meaning and objectives of research, Research Types, Qualitative and Quantitative approaches to 
-research, Qualitative research – Focus group, case study, ethnography etc. advantages and 
+research, Qualitative research - Focus group, case study, ethnography etc. advantages and 
 limitations of qualitative and quantitative research, Quantitative Research Designs, Stages of 
 research process, Characteristics of a Good Research. 
 08Hrs 
-Module 2:  
-Review of Literature  
+Module 2: 
+Review of Literature 
 Introduction to Primary & Secondary data Review of literature: importance, purpose& process, 
 types of literature reviews; structuring literature review, characteristics of a good research review, 
 sources for review of literature, process of literature review. 
 07Hrs 
 Module3: 
-Problem definition and hypothesis formulation:   
+Problem definition and hypothesis formulation: 
 Research problem, definition of a research problem, identifying the problem, Use of secondary 
 data in defining the problem, Review of literature and problem definition, Research Databases, 
-hypothesis-setting, need, testing.  
+hypothesis-setting, need, testing. 
 07Hrs 
 Module 4: 
 Data Collection and summarization: 
@@ -656,17 +569,15 @@ non-probabilistic, Primary data collection, Questionnaire des ign, types of ques
 frequency tables, charts and graphs, data summarization. 
 09Hrs 
 Module 5: 
-Data Analysis and Report Writing in Research:  
+Data Analysis and Report Writing in Research: 
 Data processing, coding, labeling, eliminating records and missing values and outliers. testing of 
 hypothesis for large and small samples, comparing two or more than two samples, correlation, 
-and regression. On-parametric test – Chi-square, Discriminant Analysis, Multi-dimensional scaling, 
-SEM,Report writing and ethics of research: Layout of the report, report writing and presentation, 
-Plagiarism, ethical issues.  
+and regression. On-parametric test - Chi-square, Discriminant Analysis, Multi-dimensional scaling, 
+SEM, Report writing and ethics of research: Layout of the report, report writing and presentation, 
+Plagiarism, ethical issues. 
 09Hrs 
-
-## Page 17
-
-Format No: FMCD2009 /1.0  17 
+ ## Page 17
+ Format No: FMCD2009 /1.0 17 
 References: 
  Cooper and Schlinder, Business Research Methods, 9th edition, 2011 TMH 
  William Zikmund, Business Research Methods, 7th edition, 2009, Cengage Publication 
@@ -675,50 +586,46 @@ References:
  Uwe Flick, An Introduction to Qualitative Research, 1st edition, 2019, Sage Publications 
  Gerard Guthrie, Basic Research Methods, 1st edition, 2010, Sage Publications 
  G. C. Beri, Business Statistics, 2nd edition, 2005, Tata McGraw-Hill 
- R I Lewin and David S Rubin, Statistics for Management, 7th edition,2009, Pearson. 
+ R I Lewin and David S Rubin, Statistics for Management, 7th edition, 2009, Pearson. 
  Robert E. Stine, Dean Foster, Statistics for Business: Decision Making and Analysis, 1st edition, 2014, 
 Pearson 
- J K Sharma, Business Research Methods & Statistics, 2nd edition, 2006, Pearson.  
+ J K Sharma, Business Research Methods & Statistics, 2nd edition, 2006, Pearson. 
  Scheme for Semester End Examination (ESA) 
 UNIT 
-5 Questions  
+5 Questions 
 Each Question carries 20 
-Marks  
-Module  numbers Instructions 
- 
-UNIT I 
+Marks 
+Module numbers Instructions 
+  UNIT I 
 I 
 All Questions Compulsory II 
 III 
 IV 
 V 
- 
-Back 
- 
-## Page 18
-
-Format No: FMCD2009 /1.0  18 
+  Back 
+  ## Page 18
+ Format No: FMCD2009 /1.0 18 
 Program: MBA 
 Course Title: Marketing Management Course Code: 24MBAC702 
 L-T-P: 2-0-1 Credits: 3 Contact Hrs: 04 Hours/week 
 ISA Marks: 67 ESA Marks: 33 Total Marks: 100 
-Teaching Hrs: 28hrs  Exam Duration: 2 hrs 
+Teaching Hrs: 28hrs Exam Duration: 2 hrs 
 Course Content 
 Particulars 
-Module 1:          
+Module 1: 
 Introduction: Introduction to Marketing, Core Concepts, Marketing Mix, Scanning the Marketing 
 Environment Marketing Planning and Strategies, Customer Value and Customer Relationships. 
 08Hrs 
-Module 2:          
+Module 2: 
 Business Markets: Consumer Markets, Responsible Consumption Behaviour, Business Markets, 
 Market Segments and Targets, Competitive Dynamics. Introduction to Rural Markets. 
  07Hrs 
-Module 3:          
+Module 3: 
 Branding and Integrated Marketing Channel: Brand Positioning, Brand Equity, Setting Product 
 Strategy, Managing Services, Pricing Strategies and Programs, Integrated Marketing Channel: 
 Retailing, Wholesaling, and Logistics. 
 07Hrs 
-Module 4          
+Module 4 
 Integrated Marketing Communications: Managing Mass Communications and personal 
 communications of the organizations, Global Markets, hyper personalization and its influence on 
 marketing. Introduction to Digital Marketing. 
@@ -730,30 +637,26 @@ A south Asian Perspective, 14th edition, Pearson Publication.
  Rajan Saxena, Marketing Management, 4th edition, Tata McGraw Hill. 
  Michael Hutt, Dheeraj Sharma, B2B Marketing, 11th edition, Cengage learning. 
     Scheme for Semester End Examination (ESA) 
- 
-UNIT 
-5 Questions  
+  UNIT 
+5 Questions 
 Each Question carries 20 
-Marks  
-Module  numbers Instructions 
- 
-UNIT I 
+Marks 
+Module numbers Instructions 
+  UNIT I 
 I 
 All Questions Compulsory II 
 III 
 IV 
 Back 
- 
-## Page 19
-
-Format No: FMCD2009 /1.0  19 
+  ## Page 19
+ Format No: FMCD2009 /1.0 19 
 Program: MBA 
 Course Title: Business Statistics and 
 Analytics 
 Course Code: 24MBAC701 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks:50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 hrs  Exam Duration: 3 hrs 
+Teaching Hours: 40 hrs Exam Duration: 3 hrs 
 Course Content 
 Particulars 
 Module No. 1. 
@@ -763,7 +666,7 @@ management, Meaning and Types of Networks, Data Warehousing and ethical issues r
 systems. 8 hrs 
 Module No. 2. 
 Contemporary Technologies for Management: Machine Learning, E-commerce, Big Data, 
-Artificial Intelligence, Generative AI and Internet on things (IoT). 5 hrs  
+Artificial Intelligence, Generative AI and Internet on things (IoT). 5 hrs 
 Module No 3: 
 Introduction to Analytics & DBMS: Meaning of Analytics, What is business analytics?, elements 
 of analytics, types of analytics, Career in analytics, Application of Analytics (Retail Analytics, 
@@ -772,9 +675,9 @@ Management System),functions of DBMS, Actors of the scene, Role of database admi
 End Users, Meaning of SQL. 7 hrs 
 Module No 4: 
 Introduction to Statistical Methods: Definition and scope of statistics, Measures of Central 
-Tendency (Mean, Median, and Mode), Measures of Dispersion (range, mean deviation, standard   
-deviation, coefficient of variation), Bivariate   data:   Definition, scatter diagram, Simple  
-correlation,   Linear  regression, Principle of least squares. 12 hrs 
+Tendency (Mean, Median, and Mode), Measures of Dispersion (range, mean deviation, standard 
+deviation, coefficient of variation), Bivariate data: Definition, scatter diagram, Simple 
+correlation, Linear regression, Principle of least squares. 12 hrs 
 Module No 5: 
 Introduction to Qualitative Methods: Meaning of qualitative research, Types of qualitative 
 research: phenomenological, ethnographic, grounded theory, historical, Case Study, Nominal 
@@ -783,39 +686,34 @@ problems & solution forming processes, Creating an interpretive structural model
 Constraints. 8hrs 
  Regi Mathew, Business Analytics: For Decision Making, Pearson Publications, 2020. 
  U Dinesh Kumar, Business Analytics: The Science of Data driven decision making, Wiley, 21 
- Ramez Elmasri,  Shamkant B.Navathe , Fundamentals of Database systems:, Pearson 
+ Ramez Elmasri, Shamkant B.Navathe , Fundamentals of Database systems:, Pearson 
 Publications ,2019 . 
  Rahul De, Managing Information Systems in Business, Government and Society, Wily India 
 Publication; 1st Edition, 2012. 
 Scheme for Semester End Examination (ESA) 
- 
- 5 Questions  
+   5 Questions 
 Each Question carries 20 
-Marks  
-Module  numbers Instructions 
- 
-UNIT I 
+Marks 
+Module numbers Instructions 
+  UNIT I 
 I 
 All Questions Compulsory II 
 III 
 IV 
 Back 
-
-## Page 20
-
-Format No: FMCD2009 /1.0  20 
+ ## Page 20
+ Format No: FMCD2009 /1.0 20 
 Program: MBA 
 Course Title: Industry Experience- Phase I Course Code: 20MBAP701 
 L-T-P: 0-0-3 Credits: 3 Contact Hrs: 06 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 90hrs  Exam Duration: -- 
+Teaching Hrs: 90hrs Exam Duration: -- 
 Course Content 
 Particulars 
 Student has to visit an organization on daily basis and perform the below mentioned tasks. The 
-report shall be submitted.  
- 
- Organization Profile (Ownership type, MSME, MD/Owner, Revenue and employee 
-strength, Product/services and market served, competitors)  
+report shall be submitted. 
+   Organization Profile (Ownership type, MSME, MD/Owner, Revenue and employee 
+strength, Product/services and market served, competitors) 
  Structure and HR Organization 
  Manpower planning and staffing 
  On boarding 
@@ -826,20 +724,17 @@ strength, Product/services and market served, competitors)
  Finance organization 
  Operations organizations 
  Audits/Certification 
- Environment, Health and Safety  
- Ethical Practices and Corporate Social Responsibility.  
+ Environment, Health and Safety 
+ Ethical Practices and Corporate Social Responsibility. 
 90Hrs 
-        
- Back 
- 
-## Page 21
-
-Format No: FMCD2009 /1.0  21 
+          Back 
+  ## Page 21
+ Format No: FMCD2009 /1.0 21 
 Program: MBA 
 Course Title: Business Communication Course Code: 20MBAP703 
 L-T-P: 0-0-1 Credits: 1 Contact Hrs: 02 Hrs/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
-Teaching Hrs: 28hrs  Exam Duration: -- 
+Teaching Hrs: 28hrs Exam Duration: -- 
 Course Content 
 Particulars 
 Topic 1: Vocabulary and Verbal Skill 
@@ -847,16 +742,16 @@ Topic 1: Vocabulary and Verbal Skill
  Accurate Pronunciation of vowels & consonants 
  Reading Comprehension 
  Sentence Completion 
- Error Detection  
+ Error Detection 
  Root words and Word Analysis 
- English Grammar – Formatting sentences & Dictionary Usage 
+ English Grammar - Formatting sentences & Dictionary Usage 
 06Hrs 
 Topic 2: Writing Skills 
  Essay 
  Short Notes 
  Interpretation 
- Correcting grammatical errors    
- Reflective writing     
+ Correcting grammatical errors 
+ Reflective writing 
  Letter and Email Writing 
 06Hrs 
 Topic 3: Art of Communication 
@@ -870,30 +765,28 @@ Topic 3: Art of Communication
 06Hrs 
 Topic 4: Presentation Skills 
  Grooming 
- Managing anxiety  
+ Managing anxiety 
  Visual and Vocal presentations 
  Formal presentation 
 08Hrs 
-Topic 5:Trends in communication techniques                                                                                  02Hrs 
+Topic 5: Trends in communication techniques 02Hrs 
 References: 
  Vilanilam J V, More Effective Communication: A Manual for Professionals, Sage Publications. 
  Shirley Taylor, 2005, Communication for Business: A Practical Approach, 4th Edition, Pearson 
 Longman. 
  John M Penrose, Robert W. Rasberry, and Robert J. Myers, Advanced Business Communication, 
 3rd edition, Thomson South-Western. 
- Raymond V. Lesikar, Basic Business Communication: Irwin/McGraw-Hill,  
+ Raymond V. Lesikar, Basic Business Communication: Irwin/McGraw-Hill, 
  Sam Phillips, 3000 Synonyms and Antonyms 1st Edition, Goodwill Publishing House 
     Back 
-
-## Page 22
-
-Format No: FMCD2009 /1.0  22 
+ ## Page 22
+ Format No: FMCD2009 /1.0 22 
 Semester II 
 Program: MBA 
-Course Title: Business Environment Course Code: 20MBAC707  
+Course Title: Business Environment Course Code: 20MBAC707 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 40 hrs  Exam Duration: 3 hrs 
+Teaching Hrs: 40 hrs Exam Duration: 3 hrs 
 Course Content 
 Particulars 
 Module 1: 
@@ -903,20 +796,20 @@ Micro business environment, Introduction to Open economy and its characteristics
 Economy, Differences in Culture, Ethical issues in International Business, Business and Politics and 
 lobbying, Introduction to CSR, Business Ethics in India, Economics of informal sector. 9 hrs 
 Module 2: 
-Indian economy: Indian economy – Characteristics, objectives of emergence Indian planning 
-process, Niti Ayog and India’s development during plan period, National Income – Concepts, 
+Indian economy: Indian economy - Characteristics, objectives of emergence Indian planning 
+process, Niti Ayog and India's development during plan period, National Income - Concepts, 
 basic terminology, ways of measurement, GDP , GNP , NNP , per capita income, sectoral 
 composition, growth trend and distribution of national income. 6 hrs 
 Module 3: 
 Economic policies: Economic policies, Fiscal policy, Economic survey, Union budget, Taxation, 
 Industrial policies of India, effect of industrial policies on the economy, Industrial Pollution and 
-Environmental Policy, India’s recent monetary policy, Monetary Policy instruments, Introduction 
+Environmental Policy, India's recent monetary policy, Monetary Policy instruments, Introduction 
 to FDI, FII. 11 hrs 
 Module 4: 
 International Trade Theories and trade blocks: International Trade Theories and trade blocks: 
 Business cycles, Overview of Trade Theory, Mercantilism, Absolute Advantage, Comparative 
-Advantage, Heckscher-Ohlin Theory, National Competitive Advantage (Porter’s Diamond Model), 
-Global Strategic Rivalry Theory, Raymond’s Product life-cycle Theory, Political Economy of 
+Advantage, Heckscher-Ohlin Theory, National Competitive Advantage (Porter's Diamond Model), 
+Global Strategic Rivalry Theory, Raymond's Product life-cycle Theory, Political Economy of 
 International Trade, Procedures for export and import, Trade blocks, introduction to IMF, 
 Economics of competitive advantage. 9 hrs 
 Module 5: 
@@ -926,57 +819,54 @@ Scheme for Semester End Examination (ESA)
 UNIT 5 Questions 
 Each Question carries 20 
 Marks 
-Module  
+Module 
 numbers 
 Instructions 
- 
-UNIT I 
+  UNIT I 
 I All Questions Compulsory 
 II 
 III 
 IV 
  V Back 
-
-## Page 23
-
-Format No: FMCD2009 /1.0  23 
+ ## Page 23
+ Format No: FMCD2009 /1.0 23 
 Program: MBA 
 Course Title: Entrepreneurship 
 Development 
 Course Code: 20MBAC705 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 40hrs  Exam Duration: 3 hrs 
+Teaching Hrs: 40hrs Exam Duration: 3 hrs 
 Course Content 
 Particulars 
-Module 1:  
+Module 1: 
 Introduction and concepts: Concept and Need of Entrepreneurship Development, Definition of 
 Entrepreneur, Entrepreneurship, Innovation, Invention, Creativity, Business Idea, Opportunities 
-through change.  
+through change. 
 Concept of entrepreneur, manager and intrapreneur. Entrepreneurial traits, types and 
-significance in today’s context; definitions, characteristics of entrepreneurial types, qualities and 
+significance in today's context; definitions, characteristics of entrepreneurial types, qualities and 
 functions of entrepreneurs, role, functions and importance of entrepreneurs in economic growth, 
 Entrepreneurship as a career. 
 09Hrs 
-Module 2:                                                                                                                                             
+Module 2: 
 Evolution and Theories of Entrepreneurship: Innovation Theory by Schumpeter & Imitating, 
-Theory of High Achievement by McClelland, X-Efficiency Theory by Leibenstein,  Theory of Profit 
+Theory of High Achievement by McClelland, X-Efficiency Theory by Leibenstein, Theory of Profit 
 by Knight, Theory of Social change by Everett Hagen, Effectuation theory of entrepreneurship ,A 
 positive theory of social entrepreneurship. 
 08Hrs 
-Module 3:                                                                                                                               
+Module 3: 
 Venture Process: Opportunity sensing and idea generation, Environmental assessment, 
 marketing plan, organizational plan and financial plan, Sources of finance and financial planning, 
 business plan, entrepreneurial growth strategies, franchising, stalling, sickness and revival and 
 exiting the venture. 
 10Hrs 
-Module 4:                                                                                                                                                        
+Module 4: 
 Emerging trends in the entrepreneurship: Rural entrepreneurship, Social entrepreneurship, 
 family business and entrepreneurship, and technology driven entrepreneurship. 
 Entrepreneurship development: government and supporting agencies. Ethical and Environmental 
-challenges.  
+challenges. 
 09Hrs 
-Module 5:                                                                                                                               
+Module 5: 
 Contemporary issues and practices. 
 Schemes, Incubation centres, Funding Options, and Angel investor 
 04Hrs 
@@ -984,118 +874,107 @@ Reference:
  Hisrich, Robert D; Peters, Michael P and Shepherd, Dean A, Entrepreneurship, Tata McGraw 
 Hill Publishing Company Limited 
  Bagchi, Subroto, The-High Performance Entrepreneurs Penguin Books International Private 
-Limited, New Delhi.  
+Limited, New Delhi. 
  Kuratko F Donald & Hodgetts M Richard, Entrepreneurship a Contemporary Approach, The 
 Dryden Press. 
  Robert A Baron and Scott A Shane, Entrepreneurship A Process Perspective, Thomson South 
 Western. 
- David H. Holt, Entrepreneurship: New Venture Creation, Prentice Hall of India 2002.  
-  Raj Shankar, Entrepreneurship Theory & Practice, Vijay Nicole Imprints Pvt Ltd.  
-           
-## Page 24
-
-Format No: FMCD2009 /1.0  24 
+ David H. Holt, Entrepreneurship: New Venture Creation, Prentice Hall of India 2002. 
+ Raj Shankar, Entrepreneurship Theory & Practice, Vijay Nicole Imprints Pvt Ltd. 
+            ## Page 24
+ Format No: FMCD2009 /1.0 24 
 Scheme for Semester End Examination (ESA) 
 UNIT 5 Questions 
 Each Question carries 20 
 Marks 
-Module  
+Module 
 numbers 
 Instructions 
- 
-UNIT I 
+  UNIT I 
 I All Questions Compulsory 
 II 
 III 
 IV 
- V  
-     
-Back 
-  
-## Page 25
-
-Format No: FMCD2009 /1.0  25 
+ V 
+      Back 
+   ## Page 25
+ Format No: FMCD2009 /1.0 25 
 Program: MBA 
 Course Title: Financial Management Course Code: 24MBAC703 
 L-T-P: 2-1-0 Credits: 3 Contact Hrs: 04 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 28hrs  Exam Duration: 2 hrs 
+Teaching Hrs: 28hrs Exam Duration: 2 hrs 
 Course Content 
 Particulars 
-Module 1:  
-Introduction, Planning and Financial System: Introduction – Financial management and Indian 
+Module 1: 
+Introduction, Planning and Financial System: Introduction - Financial management and Indian 
 Financial System, Business finance, Profit Vs Wealth maximization, Agency problem, Financial 
 planning, Budgets and budgetary control: production budget, flexible Budget, sale budget and cash 
-budget.  
+budget. 
 07Hrs 
-Module 2:  
+Module 2: 
 Time Value and Capital Budgeting: Time value of money, Capital budgeting, Different phases of 
 capital budgeting, Criteria for selection of projects, NPV, IRR, BCR, ARR, Simple and Discounted 
-payback period criteria.  
+payback period criteria. 
 08Hrs 
-Module 3:  
-Working Capital Management:Working capital management, Sources of working capital, Working 
+Module 3: 
+Working Capital Management: Working capital management, Sources of working capital, Working 
 capital estimation and financing (short-term and long-term). 
 07Hrs 
-Module 4:  
-Introduction to long term and short term  sources of capital, Leverages: Operating, Financial, and 
+Module 4: 
+Introduction to long term and short term sources of capital, Leverages: Operating, Financial, and 
 Combined leverages, Capital structure decisions, Planning the capital structure, Cost of capital: 
 specific and composite cost. Hybrid Financing, modern methods of financing and valuation. 
 06Hrs 
 References: 
- Prasanna Chandra, Fundamentals of Financial Management, 7thedn, Tata McGraw Hill.  
+ Prasanna Chandra, Fundamentals of Financial Management, 7thedn, Tata McGraw Hill. 
  M. Y. Khan and P. K. Jain, Financial Management, 5thedn, Tata McGraw Hill 
  Stephen A. Ross, Randolph W. Westerfield, Bradford D. Jordan, Fundamentals of 
-Corporate   Finance, 6thedn, Tata McGraw Hill. 
- Aswath Damodaran, Corporate Finance – Theory and Finance, 2nd edition, Wiley India. 
+Corporate Finance, 6thedn, Tata McGraw Hill. 
+ Aswath Damodaran, Corporate Finance - Theory and Finance, 2nd edition, Wiley India. 
  Richard A. Brearley, and Stewart C. Myers, Principles of Corporate Finance, 7thedn, Prentice 
 Hall of India. 
 Scheme for Semester End Examination (ESA) 
 UNIT 5 Questions 
 Each Question carries 20 
 Marks 
- 
-Module  
+  Module 
 numbers 
 Instructions 
- 
-UNIT I 
+  UNIT I 
 I All Questions Compulsory 
 II 
 III 
 IV 
- 
-Back 
- 
-## Page 26
-
-Format No: FMCD2009 /1.0  26 
+  Back 
+  ## Page 26
+ Format No: FMCD2009 /1.0 26 
 Program: MBA 
 Course Title: Human Resource Management Course Code: 24MBAC704 
 L-T-P: 2-1-0 Credits: 3 Contact Hrs: 04 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 28hrs  Exam Duration: 2 hrs 
+Teaching Hrs: 28hrs Exam Duration: 2 hrs 
 Course Content 
 Particulars 
 Module 1: 
-Introduction to Human Resource Management (HRM):  
+Introduction to Human Resource Management (HRM): 
 Characteristics, scope, objectives, functions and role of Human Resource Management (HRM), 
 HRM versus personnel management, difference between HRM and HRD (Human Resource 
 Development), qualities of Human Resource (HR) manager, HR manager as a strategic partner. 
 HRM in Small and Entrepreneurial Firms. Ethics & HRM. 
 08Hrs 
-Module 2:         
-Analyzing works and Compensation:  
-Job design, analysis, description, specification, enrichment, enlargement   and rotation, 
+Module 2: 
+Analyzing works and Compensation: 
+Job design, analysis, description, specification, enrichment, enlargement and rotation, 
 Introduction to compensation and benefits management - purpose, meaning, factors, challenges. 
 06Hrs 
-Module 3:  
-Acquisition of human resources:  
+Module 3: 
+Acquisition of human resources: 
 Man power planning, objectives, Recruitment, sources of recruitment, selection techniques, 
 Placement. 
 08Hrs 
 Module 4: 
-Employee relations:  
+Employee relations: 
 Employee engagement, competency mapping, industrial relations, work life balance, employee 
 empowerment Introduction to IHRM (International Human Resource Management), HR Ethical 
 issues, part-time employment and contingent workforce management, Green HRM, 
@@ -1105,32 +984,28 @@ References:
  Gary Dessler, Human Resource Management, 15th edition, Pearson, 2017. 
  Cynthia D. Fisher, Lyle F. Schoenfeldt, and James B. Shaw, Human Resource Management, 
 Biztantra, 2008. 
- Ashwatappa K, Human Resource Management, 9th edition, Tata   McGraw Hill,2021. 
+ Ashwatappa K, Human Resource Management, 9th edition, Tata McGraw Hill, 2021. 
  Gary Dessler and Biju Varrkey, Human Resource Management, Pearson, 16th edition 2020. 
 Scheme for Semester End Examination (ESA) 
 UNIT 5 Questions 
 Each Question carries 20 
 Marks 
- 
-Module  
+  Module 
 numbers 
 Instructions 
- 
-UNIT I 
+  UNIT I 
 I All Questions Compulsory 
 II 
 III 
 IV 
 Back 
-
-## Page 27
-
-Format No: FMCD2009 /1.0  27 
+ ## Page 27
+ Format No: FMCD2009 /1.0 27 
 Program: MBA 
 Course Title: Operations Management Course Code: 20MBAC712 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 40hrs  Exam Duration: 3 hrs 
+Teaching Hrs: 40hrs Exam Duration: 3 hrs 
 Course Content 
 Particulars 
 Module 1: 
@@ -1139,8 +1014,8 @@ Introduction to OM, Manufacturing Trends in India, Operations as a Key Functiona
 Operations Management: A Systems Perspective, Operations Management Functions, Challenges 
 in Operations Management, Current Priorities for Operations Management. 
 08Hrs 
-Module 2:  
-Facility Location:  
+Module 2: 
+Facility Location: 
 Globalization of operations, factors affecting location decisions, location planning methods and 
 issues. 
 09Hrs 
@@ -1151,23 +1026,21 @@ Reengineering (BPR), definition and measures of capacity, time horizon and frame
 planning, alternatives for capacity augmentation, decision tree for capacity planning. 
 08Hrs 
 Module 4: 
-Aggregate planning:  
+Aggregate planning: 
 Planning hierarchies in operations, aggregate production planning, necessity of aggregate plan, 
 frame work for aggregate production planning, alternatives for managing demand and supply, 
-strategies for aggregate production planning, Master Production Schedule.  Resources planning: 
+strategies for aggregate production planning, Master Production Schedule. Resources planning: 
 dependent demand attributes, framework, Materials Requirement Planning (MRP). 
  09Hrs 
-
-## Page 28
-
-Format No: FMCD2009 /1.0  28 
+ ## Page 28
+ Format No: FMCD2009 /1.0 28 
 Module 5: 
 Scheduling of operations: 
 Need and basis for scheduling, loading of machines, scheduling of flow and job shops, issues in 
 mass production systems, Sequencing. 
 Role of materials management- materials and profitability, purchase functions, procurement 
 procedures including bid systems, vendor selection and development, Inventory Management: 
-concepts of inventory, types, classification, ABC VED, and FSN analysis. Inventory model – 
+concepts of inventory, types, classification, ABC VED, and FSN analysis. Inventory model - 
 Economic order quantity (EOQ), Inventory records, Industry 4.0 
 06Hrs 
 References: 
@@ -1177,90 +1050,81 @@ References:
  Monks JG, Operations Management: Theory and Problems, 3rd edition, McGraw Hill. 
  Klassen RD and Larry J. Menor LJ, Cases in operations Management, Sage. 
 Scheme for Semester End Examination (ESA) 
-UNIT  
- 
-5 Questions 
+UNIT 
+  5 Questions 
 Each Question carries 20 
 Marks 
- 
-Module  
+  Module 
 numbers 
 Instructions 
- 
-UNIT I 
+  UNIT I 
 I All Questions Compulsory 
 II 
 III 
 IV 
 V 
-  
-Back 
-  
-## Page 29
-
-Format No: FMCD2009 /1.0  29 
+   Back 
+   ## Page 29
+ Format No: FMCD2009 /1.0 29 
 Program: MBA 
-Course Title:  Decision Modelling  Course Code: 24MBAC705  
+Course Title: Decision Modelling Course Code: 24MBAC705 
 L-T-P: 2-0-0 Credits: 1 Contact Hrs: 02 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 28hrs  Exam Duration: 2 hours 
+Teaching Hrs: 28hrs Exam Duration: 2 hours 
 Course Content 
 Particulars 
-Module 1:                
+Module 1: 
 Linear Programming: Introduction, assumptions formulation for LPP, Cases on unique, multiple, 
-unbounded and infeasible optimal solutions.  
+unbounded and infeasible optimal solutions. 
 Method to obtain optimal Solution: Graphical method, simplex method ,Big-M method 
 (Software tools to introduce- MS-Solver or TORA) 9 hours 
-Module 2:        
+Module 2: 
 Transportations problems: Introduction to TP. Initial basic feasible solution using 
 NWCRM, MMM, VAM. Degeneracy and No-Degeneracy in TP. Test for optimality using 
 MODI method. 
 Assignment problem: Introduction to AP. Formulation of AP and obtaining optimum solution 
 using Hungarian method. 
 (Software tools for hands on experience- MS-Solver or TORA) 8 hours 
-Module 3:   
+Module 3: 
 Queuing Theory: Meaning and Characteristics of the queuing system, Types of queuing models. 
 MCDM (Multi Criteria Decision Modeling): Meaning MCDM, Analytical hierarchy process 
-structure of a decision problem, Saaty’s scale, structuring hierarchy problems. 
+structure of a decision problem, Saaty's scale, structuring hierarchy problems. 
 Simulation: Meaning, Types, Steps, Monte Carlo Simulation, Random number generations. 6 hours 
-Module 4:          
+Module 4: 
 Game theory: Introduction to Game theory. Formulation of payoff matrix. Pure and Mixed Strategy. 
 Zero sum game. Minimax and Maxmin Criterion. Dominance Principal. 5 hours 
 References: 
  Vohra N. D., 2004, Quantitative Techniques in Management, Tata-McGraw Hill. 
- J K Sharma, Operations Research, Theory and Applications, Trinity press,5th Edition 
+ J K Sharma, Operations Research, Theory and Applications, Trinity press, 5th Edition 
  Frederick S. Hillier and Gerald J. Lieberman, Introduction to Operations Research, McGraw-
-Hill Science.  
- Prem Kumar Gupta and Hira D. S., 2007, Operations Research, S Chand & Co.  
+Hill Science. 
+ Prem Kumar Gupta and Hira D. S., 2007, Operations Research, S Chand & Co. 
  Ravindran A., Don T. Phillips, and James J. Solberg, 1987, Operations Research: Principles 
-and Practice, 2nd edition, Wiley International.   
+and Practice, 2nd edition, Wiley International. 
 Thomas L Saaty, Luis G Vargas, Models, Methods, Concepts & Applications of the Analytic 
 Hierarchy Process, Springer publication , 2012 
    Back 
- 
-Program: MBA 
-
-## Page 30
-
-Format No: FMCD2009 /1.0  30 
+  Program: MBA 
+ ## Page 30
+ Format No: FMCD2009 /1.0 30 
 Course Title: Digital Marketing for Rural 
 Business 
 Course Code: 24MBAP701 
 L-T-P: 0-0-1 Credits: 1 Contact Hrs.: 02 Hours/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
-Teaching Hrs. 28 hrs.  Exam Duration: 2 hours 
+Teaching Hrs. 28 hrs. Exam Duration: 2 hours 
 Student has to choose an FPO (Farmer Producer organizations)/Cottage industry/Home industry 
 /Co-operative societies/Self-help group and has to visit on weekly basis and perform the below 
 mentioned tasks. 
 Course Content 
-Task 1: Knowing Rural Business  
+Task 1: Knowing Rural Business 
  To collect information regarding FPO (Farmer Producer organizations) /Cottage 
-industry/Home industry /Co-operative societies/Self-help group.   
+industry/Home industry /Co-operative societies/Self-help group. 
  Understanding the product and the business. 
- Knowing about the technicality of the product.  
+ Knowing about the technicality of the product. 
  Understanding the market demand. 
 Knowing the mode of operations (Buying and selling).5Hrs 
-Task 2: Understanding through Secondary Data   
+Task 2: Understanding through Secondary Data 
  Analyze current trends in rural product consumption. 
  Identify specific rural products with high growth potential. 
  Research the target audience demographics, psychographics, and online behavior 
@@ -1271,7 +1135,7 @@ conversion rate).
 Task 3: Digital Marketing Plan development 
  Outline a plan: for ongoing campaign optimization based on data insights and identified 
 areas for improvement. 
- Campaign Goals:  Define specific, measurable, achievable, relevant, and time -bound 
+ Campaign Goals: Define specific, measurable, achievable, relevant, and time -bound 
 (SMART) goals for the digital marketing campaign (e.g., increase brand awareness by X% 
 within Y months). 
  Digital Channels: Select the most suitable digital channels for reaching the target audience 
@@ -1289,32 +1153,27 @@ schedule, and launch dates for different campaign elements.
 content formats (images, videos, stories), and appropriate hashtags. 
  Influencer Marketing (Optional): If implementing influencer marketing, outline the 
 selection criteria for influencers, collaboration details, and content expectations. 
-
-## Page 31
-
-Format No: FMCD2009 /1.0  31 
+ ## Page 31
+ Format No: FMCD2009 /1.0 31 
 Website & E-commerce Integration (Optional): If selling products online, ensure website 
 optimization for rural audiences and consider integrating an e-commerce platform.8Hrs 
-Task 5: Report Writing  
- Present the information on digital marketing activities conducted and their specific result.  
+Task 5: Report Writing 
+ Present the information on digital marketing activities conducted and their specific result. 
  Summarize the key takeaways from the project, including challenges encountered and 
 lessons learned. 
  Present specific recommendations for future marketing initiatives to further promote the 
 chosen rural products. 
 3Hrs 
-         
-Back 
- 
-## Page 32
-
-Format No: FMCD2009 /1.0  32 
+          Back 
+  ## Page 32
+ Format No: FMCD2009 /1.0 32 
 Program: MBA 
 Course Title: Managerial 
 Communication and Aptitude 
 Course Code: 24MBAP702 
 L-T-P: 0-0-2 Credits: 2 Contact Hrs: 04 Hours/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
-Teaching Hrs: 56hrs  Exam Duration: 2 hours 
+Teaching Hrs: 56hrs Exam Duration: 2 hours 
 Course Content 
 Particulars 
 Part 1: Managerial Communication 
@@ -1325,18 +1184,18 @@ Topic 1: Discussions and Debates
 through Mock Videos) 
 15Hrs 
 Topic 2: Writing Skills 
- Business letters  
+ Business letters 
  Covering letter 
  Resume writing 
- Email etiquette   
+ Email etiquette 
 05Hrs 
 Topic 3: Interview Skills 
- What companies expect  
- Showing Commitment and Learning Ability  
- Handling difficult questions  
- Understanding interviewer psychology  
- Situation Reaction and Presence of Mind  
- Dressing right  
+ What companies expect 
+ Showing Commitment and Learning Ability 
+ Handling difficult questions 
+ Understanding interviewer psychology 
+ Situation Reaction and Presence of Mind 
+ Dressing right 
  Interview etiquette 
 10Hrs 
 Part 2: Managerial Aptitude 
@@ -1347,28 +1206,26 @@ Arithmetical Reasoning:
  Probability 
  Percentages 
  Interest 
- Alligations and Averages  
+ Alligations and Averages 
  Man-Hour Calculations 
 14Hrs 
 Analytical Thinking 
  Data Analysis 
  Data Interpretation 
- Data Sufficiency  
+ Data Sufficiency 
  Puzzles 
 06Hrs 
 Verbal Logic 
  Verbal Analogy 
  Verbal Classification 
-
-## Page 33
-
-Format No: FMCD2009 /1.0  33 
+ ## Page 33
+ Format No: FMCD2009 /1.0 33 
  Letter and Number Series 
  Decoding the Codes 
 04Hrs 
-Non – Verbal Logic 
- Non – Verbal Analogy 
- Non – Verbal Classification 
+Non - Verbal Logic 
+ Non - Verbal Analogy 
+ Non - Verbal Classification 
  Pattern Completion 
  Pattern Comparison 
 02Hrs 
@@ -1381,137 +1238,119 @@ Pearson Longman.
 Communication, 3rd edition, Thomson South-Western. 
  Raymond V. Lesikar, Basic Business Communication: Irwin/McGraw-Hill, 1999. 
  Sam Phillips, 3000 Synonyms and Antonyms 1st Edition, Goodwill Publishing House. 
- John Jackman and Wendy Wren, Nelson English Evaluation Pack – Book 5, Thomas Nelson. 
+ John Jackman and Wendy Wren, Nelson English Evaluation Pack - Book 5, Thomas Nelson. 
 Back 
- 
-## Page 34
-
-Format No: FMCD2009 /1.0  34 
- 
-Program: MBA 
+  ## Page 34
+ Format No: FMCD2009 /1.0 34 
+  Program: MBA 
 Course Title: Industry Experience -Phase II Course Code: 24MBAP703 
 L-T-P: 0-0-3 Credits: 3 Contact Hrs: 06 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 90hrs  Exam Duration: 3 hours 
+Teaching Hrs: 90hrs Exam Duration: 3 hours 
 Course Content 
-Particulars  
+Particulars 
 Identify the problems and prospects faced by start-ups, mini or micro enterprise. Provide possible 
-solution.  
+solution. 
 Or 
 The students have to undergo AI certification course mandatorily in the second phase.90Hrs 
- 
-         Back 
- 
-## Page 35
-
-Format No: FMCD2009 /1.0  35 
+           Back 
+  ## Page 35
+ Format No: FMCD2009 /1.0 35 
 Program: MBA 
 Course Title: Business Venture Phase - I Course Code: 25MBAP702 
 L-T-P: 0-0-3 Credits: 3 Contact Hrs: 06 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 90hrs  Exam Duration: -- 
+Teaching Hrs: 90hrs Exam Duration: -- 
 Course Content 
 Particulars 
 Students are expected to work on the following points: 
- 
-1. Individual SWOT (Strengths, weakness, opportunities and Threats) Analysis 
+  1. Individual SWOT (Strengths, weakness, opportunities and Threats) Analysis 
 2. PESTEL (Political, Economic, Social, Technological, Environmental and Legal Analysis) 
 3. Identification of ideas through market scanning 
-4. Idea to Opportunity Mapping  
-5. Build Lean Startup Canvas  
+4. Idea to Opportunity Mapping 
+5. Build Lean Startup Canvas 
 6. Develop the resource mapping for the finalized Idea 
 7. Feasibility Study & Business Plan Development 
- Marketing  
+ Marketing 
  Organizational 
- Operational and  
+ Operational and 
  Financial 
-8.Funding raising& Resource Mobilization Plan 
+8. Funding raising& Resource Mobilization Plan 
 90Hrs 
          Back 
- 
-## Page 36
-
-Format No: FMCD2009 /1.0  36 
+  ## Page 36
+ Format No: FMCD2009 /1.0 36 
 2024-26 Batch 
 Course Content Semester III 
 Program: MBA 
 Course Title: Strategic Management Course Code: 20MBAC801 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 40hrs  Exam Duration: 3 hrs 
+Teaching Hrs: 40hrs Exam Duration: 3 hrs 
 Course Content 
 Particulars 
-Module 1:     
-Fundamentals of Strategic Management:  Basic concept of strategy and strategic management, 
+Module 1: 
+Fundamentals of Strategic Management: Basic concept of strategy and strategic management, 
 importance of strategy in an Organization, what makes strategy a winning phenomenon 
 Managerial Process of Strategy Planning: Process of strategy planning, developing of strategic 
 vision, setting objectives, strategic plans, execution of strategy and strategic plans. 
 10 hrs 
-Module 2:         
+Module 2: 
 Analysis of External Environment : Industry analysis, industry value chain, competitive 
-environment analysis, key drivers and factors for success.  
-Analysis of Internal Environment:  Internal value chain, resources and competences. 
+environment analysis, key drivers and factors for success. 
+Analysis of Internal Environment: Internal value chain, resources and competences. 
 08 hrs 
-Module 3:         
-Generic Strategies: Generic competitive strategies – low cost, differentiation, focused 
-Making Strategic Choices:  Alliances and partnerships, mergers and acqu isitions, integration, 
+Module 3: 
+Generic Strategies: Generic competitive strategies - low cost, differentiation, focused 
+Making Strategic Choices: Alliances and partnerships, mergers and acqu isitions, integration, 
 outsourcing, strategic fit, diversification. 
 08 hrs 
-Module 4:        
-Strategy Implementation and Strategic Measurement:  Building resources, developing 
-capabilities, introduction to balance score card  . 
+Module 4: 
+Strategy Implementation and Strategic Measurement: Building resources, developing 
+capabilities, introduction to balance score card . 
 Strategic Leadership: Strategy as organisational process, factors of strategic leadership. 
-Introduction to Corporate Social Responsibility.  
+Introduction to Corporate Social Responsibility. 
 08 hrs 
-Module 5:  
-Strategy and Management control:  Responsibility Centre (Revenue center, expense center, 
+Module 5: 
+Strategy and Management control: Responsibility Centre (Revenue center, expense center, 
 marketing centers, Research a nd development centers, Profit centers, transfer price in brief, 
-investment centers).  
+investment centers). 
 06 hrs 
 References: 
  Arthur A Thompson Jr, A J Strickland III, John E Gamble, and Arun K Jain, Crafting and 
-Executing Strategy – the quest for competitive advantage, Tata McGraw Hill      
+Executing Strategy - the quest for competitive advantage, Tata McGraw Hill 
  Porter, M.E., Competitive advantage: Creating and sustaining superior performance, Simon 
 and Schuster 
-
-## Page 37
-
-Format No: FMCD2009 /1.0  37 
- 
-Scheme for Semester End Examination (ESA) 
+ ## Page 37
+ Format No: FMCD2009 /1.0 37 
+  Scheme for Semester End Examination (ESA) 
 UNIT 
-5 Questions  
+5 Questions 
 Each Question carries 20 
-Marks  
-Module  numbers Instructions 
- 
-UNIT I 
-I  
-All Questions Compulsory  II 
+Marks 
+Module numbers Instructions 
+  UNIT I 
+I 
+All Questions Compulsory II 
 III 
 IV 
 V 
- 
- Back 
-  
-## Page 38
-
-Format No: FMCD2009 /1.0  38 
+   Back 
+   ## Page 38
+ Format No: FMCD2009 /1.0 38 
 Program: MBA 
-Course Title: Climate Change  & 
+Course Title: Climate Change & 
 Sustainability Management 
 Course Code: 25MBAP801 
 L-T-P: 0-0-1 Credits: 1 Contact Hrs: 02 Hours/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
-Teaching Hrs: 28 Hrs  Exam Duration: 2 hours 
+Teaching Hrs: 28 Hrs Exam Duration: 2 hours 
 Course Content 
 Particulars 
- 
- Evolution of sustainability philosophy 
- 
-28 Hrs 
+   Evolution of sustainability philosophy 
+  28 Hrs 
  Impact of Climate change from the perspectives of Social, Environmental, 
-Economics and Organizational Management.                                                                                             
+Economics and Organizational Management. 
  The international climate negotiations framework, bodies, Sustainable 
 development goals (SDG), debates and discussions. 
  Domestic politics of climate change and government initiatives and Policies to 
@@ -1520,78 +1359,67 @@ minimize the climate change impact.
 Agriculture, Water resources, Energy, Industrialization, Urbanization and Health 
 and Hygiene, Corporate Social Responsibility (CSR). 
     Back 
- 
-## Page 39
-
-Format No: FMCD2009 /1.0  39 
+  ## Page 39
+ Format No: FMCD2009 /1.0 39 
 Program: MBA 
 Course Title: Summer Internship Course Code: 25MBAI801 
 L-T-P: 0-0-3 Credits: 3 Contact Hrs: 06 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 90hrs  Exam Duration: 3 hours 
+Teaching Hrs: 90hrs Exam Duration: 3 hours 
 Course Content 
 Particulars 
 Students should execute the below mentioned tasks in the identified organizations 
-activities:  
- Identification of Problem  
- Review of Literature  
- Research Gap  
- Objectives & Research Methodology  
- Data Analysis  
+activities: 
+ Identification of Problem 
+ Review of Literature 
+ Research Gap 
+ Objectives & Research Methodology 
+ Data Analysis 
  Conclusion 
 90 hrs 
       Back 
- 
-## Page 40
-
-Format No: FMCD2009 /1.0  40 
+  ## Page 40
+ Format No: FMCD2009 /1.0 40 
 Program: MBA 
 Course Title: Industry Experience -Phase III Course Code: 25MBAP802 
 L-T-P: 0-0-3 Credits: 3 Contact Hrs: 06 Hours/week 
 ISA Marks: 50 ESA Marks: 
 50 
 Total Marks: 100 
-Teaching Hrs: 90hrs  Exam Duration: -3 hours 
+Teaching Hrs: 90hrs Exam Duration: -3 hours 
 Course Content 
 Particulars 
-Student has to do one mandatory research project in any sector/domain.  
+Student has to do one mandatory research project in any sector/domain. 
 Note: Introduction, literature review, methodology, findings, suggestions and conclusion, 
-suggestion for future research, practical/theoretical implications.  
+suggestion for future research, practical/theoretical implications. 
 90 hrs 
       Back 
- 
-## Page 41
-
-Format No: FMCD2009 /1.0  41 
- 
-Program: MBA 
-Course Title: Entrepreneurship Phase – III Course Code: 25MBAP803 
+  ## Page 41
+ Format No: FMCD2009 /1.0 41 
+  Program: MBA 
+Course Title: Entrepreneurship Phase - III Course Code: 25MBAP803 
 L-T-P: 0-0-3 Credits: 3 Contact Hrs: 06 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 90hrs  Exam Duration: -3 hours 
+Teaching Hrs: 90hrs Exam Duration: -3 hours 
 Course Content 
 Particulars 
 Students are expected to work on the following activities: 
- 
-1. Operationalize the enterprise   
+  1. Operationalize the enterprise 
 2. Strengthen the Marketing / Operational / Organizational Plan 
 3. Build the customer base and develop customer relationship 
-4. Assess the profit and revenue flow  
+4. Assess the profit and revenue flow 
 5. Plan for enterprise registration 
 90 hrs 
- 
-     Back 
- 
-## Page 42
-
-Format No: FMCD2009 /1.0  42 
+       Back 
+  ## Page 42
+ Format No: FMCD2009 /1.0 42 
 Program: MBA 
-Course Title: Research Experience - Phase I Course Code: 25MBAR801   
+Course Title: Research Experience - Phase I Course Code: 25MBAR801 
 L-T-P: 0-0-3 Credits: 3 Contact Hrs: 06 Hours/week 
 ISA Marks: 50 ESA 
 Marks: 50 
 Total Marks: 100 
-Teaching Hrs: 90hrs  Exam Duration: - 3 hours 
+Teaching Hrs: 90hrs Exam Duration: - 3 hours 
 Course Content 
 Particulars 
 This track will be offered to few selected and interested students. 
@@ -1602,18 +1430,15 @@ Tasks
  Research proposal 
 90 hrs 
       Back 
- 
-## Page 43
-
-Format No: FMCD2009 /1.0  43 
- 
-Program: MBA 
-Course Title:  Social Entrepreneurship 
-Phase – I 
+  ## Page 43
+ Format No: FMCD2009 /1.0 43 
+  Program: MBA 
+Course Title: Social Entrepreneurship 
+Phase - I 
 Course Code: 25MBAP804 
 L-T-P: 0-0-3 Credits: 3 Contact Hrs: 06 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 90hrs   Exam Duration:  3 hours 
+Teaching Hrs: 90hrs Exam Duration: 3 hours 
 Course Content 
 Particulars 
 Students are expected to work on the following activities: 
@@ -1626,216 +1451,188 @@ entrepreneurship.
 6. Prepare a report to create an implementation. 
 90 hrs 
      Back 
- 
-## Page 44
-
-Format No: FMCD2009 /1.0  44 
+  ## Page 44
+ Format No: FMCD2009 /1.0 44 
 IV Semester 
 Program: MBA 
-Course Title: Legal Aspects of Business Course Code: 20MBAC804    
+Course Title: Legal Aspects of Business Course Code: 20MBAC804 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 40hrs  Exam Duration: 3 hrs 
+Teaching Hrs: 40hrs Exam Duration: 3 hrs 
 Course Content 
 Particulars 
-Module 1:           
+Module 1: 
 Legal environment of business, meaning and nature of law, classification of law, sources of Indian 
 law, Evolution of business law. 
 04 hrs 
-Module 2:          
-Indian Contract Act, 1872 – Nature and kinds of contracts, offer and acceptance, consideration, 
+Module 2: 
+Indian Contract Act, 1872 - Nature and kinds of contracts, offer and acceptance, consideration, 
 capacity of contract, free consent, legality of object and consideration, void agreements, 
 contingent contracts, discharge of contracts, remedies for breach of contract, quasi contract, 
-contracts of indemnity and guarantee, contract of bailment and pledge, contracts of agency.  
+contracts of indemnity and guarantee, contract of bailment and pledge, contracts of agency. 
 10 hrs 
-Module 3:           
-Negotiable Instruments Act, 1881 – Nature and kinds of negotiable instruments, various kinds of 
+Module 3: 
+Negotiable Instruments Act, 1881 - Nature and kinds of negotiable instruments, various kinds of 
 negotiable instruments, negotiation and endorsement, presentment of a negotiable instrument. 
 dishonour and discharge of negotiable instrument, bouncing of cheques. Sale of Goods Act, 1930 
-– classification of goods, conditions & warranties, passing of ownership rights, rights of an unpaid 
-seller, remedies for breach of Contract of Sale of Goods.  
+- classification of goods, conditions & warranties, passing of ownership rights, rights of an unpaid 
+seller, remedies for breach of Contract of Sale of Goods. 
 10 hrs 
-Module 4:          
-Companies Act, 1956 (with latest amendments 2019) – Nature and kinds of companies, formation, 
-memorandum, articles, prospectus, capital – shares, debentures, borrowing powers, minimum 
+Module 4: 
+Companies Act, 1956 (with latest amendments 2019) - Nature and kinds of companies, formation, 
+memorandum, articles, prospectus, capital - shares, debentures, borrowing powers, minimum 
 subscription, appointment of directors, membership, winding up of companies, Partnership Act 
 1932. 
 08 hrs 
-Module 5:          
-Consumer Protection Act, 1986 – Salient features and objectives, different consumer redressal 
+Module 5: 
+Consumer Protection Act, 1986 - Salient features and objectives, different consumer redressal 
 forums, composition and jurisdiction of district, state and national forum, mode of complaints, 
 procedures for disposal of complaints, penalty. Right to Information Act, Information Technology 
 Act, Introduction to Environment Protection Act, Introduction to Competition Act, Introduction to 
-Foreign Exchange Management Act 1999, Introduction to Intellectual Property Rights.  
+Foreign Exchange Management Act 1999, Introduction to Intellectual Property Rights. 
 08 hrs 
-
-## Page 45
-
-Format No: FMCD2009 /1.0  45 
-References:  
+ ## Page 45
+ Format No: FMCD2009 /1.0 45 
+References: 
  Saha Ray H.K., Law of Contracts, Eastern Law Book House. 
  Kapoor N D, Elements of Mercantile Law, Sultan Chand. 
  Gogna, P. P. S. A Textbook of Business Law, S. Chand & Co. 
 Scheme for Semester End Examination (ESA) 
 UNIT 
-5 Questions  
+5 Questions 
 Each Question carries 20 
-Marks  
-Module  numbers Instructions 
- 
-UNIT I 
-I  
-All Questions Compulsory  II 
+Marks 
+Module numbers Instructions 
+  UNIT I 
+I 
+All Questions Compulsory II 
 III 
 IV 
 V 
- 
-Back 
-  
-## Page 46
-
-Format No: FMCD2009 /1.0  46 
- 
-Program: MBA 
+  Back 
+   ## Page 46
+ Format No: FMCD2009 /1.0 46 
+  Program: MBA 
 Course Title: Supply Chain Management Course Code: 22MBAC801 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 40hrs  Exam Duration: 3 hrs 
+Teaching Hrs: 40hrs Exam Duration: 3 hrs 
 Course Content 
 Particulars 
-Module 1:         
+Module 1: 
 Introduction: Objectives, importance, decision phases, process view, competitive and supply chain 
 strategies, achieving strategic fit, supply chain drivers, obstacles, framework, facilities, inventory, 
-transportation, information, sourcing, pricing.  
+transportation, information, sourcing, pricing. 
 07 hrs 
-Module 2:        
+Module 2: 
 Designing the distribution network, role of distribution, factors influencing distribution, design 
 options, e-business and its impact, distribution networks in practice, network design in the supply 
-chain, Designing global supply chain networks, Minimizing impact of Supply chains on nature.  
+chain, Designing global supply chain networks, Minimizing impact of Supply chains on nature. 
 07hrs 
-Module 3:         
+Module 3: 
 Planning Demand and Supply in supply chain: Demand forecasting, aggregate planning, Sales and 
 Operation planning. Planning and Managing Inventories in Supply Chain: Managing economies of 
 scale, Managing uncertainty in supply chain and its impact on profit, society and nature. Designing 
 and Planning transportation networks: Role of transportation, modes and their performance, 
 transportation infrastructure and policies, design options and the ir trade -offs, tailored 
-transportation, role of logistics in SCM, third party and fourth party logistics.  
+transportation, role of logistics in SCM, third party and fourth party logistics. 
 10 hrs 
-Module 4:          
+Module 4: 
 Lack of supply chain coordination and the Bullwhip effect, obstacle to coordination, managerial 
 levers, building partnerships and trust, continuous replenishment and vendor -managed 
-inventories, collaborative planning, forecasting and replenishment, Demand driven supply chain.  
+inventories, collaborative planning, forecasting and replenishment, Demand driven supply chain. 
 08 hrs 
-Module 5:          
+Module 5: 
 Information technology (IT) in the supply chain: Role of IT, IT Framework, Supply Chain Technology 
 Innovation, customer relationship management, supplier relationship management, Supply Chain 
-IT in practice,  Green SCM: Introduction, Need, Challenges and Benefits. Reverse supply chain 
-management, Supply chain risk management.  
+IT in practice, Green SCM: Introduction, Need, Challenges and Benefits. Reverse supply chain 
+management, Supply chain risk management. 
 08 hrs 
-
-## Page 47
-
-Format No: FMCD2009 /1.0  47 
+ ## Page 47
+ Format No: FMCD2009 /1.0 47 
 References: 
- Chopra, S. and Meindl P, Supply Chain Management – Strategy, Planning and Operation, 
+ Chopra, S. and Meindl P, Supply Chain Management - Strategy, Planning and Operation, 
 Pearson/PHI, 4th Edition, 2011. 
  Sahay B.S., Supply Chain Management in the 21st Century. 
- Coyle J, C., John Langley, Gibson, B., Novack, R. and Bardi E.  A Logistics Approach to Supply 
+ Coyle J, C., John Langley, Gibson, B., Novack, R. and Bardi E. A Logistics Approach to Supply 
 Chain Management, Cengage Learning India Pvt Ltd. 
-           
-Scheme for Semester End Examination (ESA) 
- 
-UNIT 
-5 Questions  
+            Scheme for Semester End Examination (ESA) 
+  UNIT 
+5 Questions 
 Each Question carries 20 
-Marks  
-Module  numbers Instructions 
- 
-UNIT I 
-I  
-All Questions Compulsory  II 
+Marks 
+Module numbers Instructions 
+  UNIT I 
+I 
+All Questions Compulsory II 
 III 
 IV 
 V 
- 
-Back 
-  
-## Page 48
-
-Format No: FMCD2009 /1.0  48 
- 
-Program: MBA 
+  Back 
+   ## Page 48
+ Format No: FMCD2009 /1.0 48 
+  Program: MBA 
 Course Title: Industry Experience -Phase IV Course Code: 24MBAP801 
 L-T-P: 0-0-3 Credits: 3 Contact Hrs: 06 Hours/week 
 ISA Marks: 50 ESA Marks: 
 50 
 Total Marks: 100 
-Teaching Hrs: 90hrs  Exam Duration:  3 hours  
+Teaching Hrs: 90hrs Exam Duration: 3 hours 
 Course Content 
 Particulars Hours 
 Student has to do one mandatory project work in any functional area in an organization 
 as per the mutual interest of the organization and student. 
 90 hrs 
          Back 
- 
-Program: MBA 
-Course Title: Entrepreneurship Phase – IV Course Code: 24MBAP802  
+  Program: MBA 
+Course Title: Entrepreneurship Phase - IV Course Code: 24MBAP802 
 L-T-P: 0-0-3 Credits: 3 Contact Hrs: 06 Hours/week 
 ISA Marks: 50 ESA Marks: 
 50 
 Total Marks: 100 
-Teaching Hrs: 90hrs  Exam Duration:  3hours 
+Teaching Hrs: 90hrs Exam Duration: 3hours 
 Course Content 
 Particulars Hours 
- Pre requisite: Entrepreneurship Phase – III 
- 
-Students are expected to work on the following activities:  
- 
- Develop the expansion Strategy  
+ Pre requisite: Entrepreneurship Phase - III 
+  Students are expected to work on the following activities: 
+   Develop the expansion Strategy 
  Develop the market and consumer base 
  Continue on enterprise registration process 
- Design the diversification strategy  
+ Design the diversification strategy 
 90 hrs 
       Back 
- 
-## Page 49
-
-Format No: FMCD2009 /1.0  49 
+  ## Page 49
+ Format No: FMCD2009 /1.0 49 
 Program: MBA 
 Course Title: Research Experience - 
 Phase II 
-Course Code: 24MBAR801  
+Course Code: 24MBAR801 
 L-T-P: 0-0-3 Credits: 3 Contact Hrs: 06 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 90hrs  Exam Duration: 3 hours 
+Teaching Hrs: 90hrs Exam Duration: 3 hours 
 Course Content 
 Particulars Hours 
  Prerequisite: Research Experience Phase I 
- 
-Tasks: 
+  Tasks: 
  Instrument development 
  Data collection and Analysis 
  Findings and Discussions 
  Draft paper 
 90 hrs 
      Back 
- 
-## Page 50
-
-Format No: FMCD2009 /1.0  50 
- 
-Program: MBA 
-Course Title:  Social Entrepreneurship 
-Phase – II 
+  ## Page 50
+ Format No: FMCD2009 /1.0 50 
+  Program: MBA 
+Course Title: Social Entrepreneurship 
+Phase - II 
 Course Code: 24MBAP803 
 L-T-P: 0-0-3 Credits: 3 Contact Hrs: 06 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 90hrs   Exam Duration: -- hrs 
+Teaching Hrs: 90hrs Exam Duration: -- hrs 
 Course Content 
 Particulars Hours 
 Prerequisite: Social Entrepreneurship Phase I 
-  
-Students are expected to work on the following activities: 
+   Students are expected to work on the following activities: 
  Apply the Social Business Model Canvas and lean startup methods for planning, 
 developing, testing, launching and evaluating social change venture. 
  Analyze different business models for social change ventures 
@@ -1844,17 +1641,15 @@ developing, testing, launching and evaluating social change venture.
  Choose to create and implement a plan to make your vision happen 
 90 hrs 
       Back 
- 
-## Page 51
-
-Format No: FMCD2009 /1.0  51 
+  ## Page 51
+ Format No: FMCD2009 /1.0 51 
 ELECTIVES 
 Marketing 
 Program: MBA 
 Course Title: Sales Management Course Code: 25MBAE801 
 L-T-P: 2-1-0 Credits: 3 Contact Hrs: 04 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 28hrs  Exam Duration: 2 hrs 
+Teaching Hrs: 28hrs Exam Duration: 2 hrs 
 Course Content 
 Particulars 
 Module No. 1. 
@@ -1865,17 +1660,17 @@ positions/sales as a career, responsibilities (social, ethical, legal) of sales 
 Module No. 2. 
 Planning sales team: Nature of organization, types, characteristics of the organization, sales 
 budget, designing of sales territories, sales objectives, quotas and targets, role of ICT in sales 
-organization.  
+organization. 
 08Hrs 
-Module No. 3.  
+Module No. 3. 
 Sales-force Management: Recruitment and placement, training and development, motivation, 
-leadership, evaluation, and sales-force compensation.  
+leadership, evaluation, and sales-force compensation. 
 Personal selling: process, sales data generation using sales navigation tools, varying the sales data 
 quality, lead generation methods or channels, the role of CRM in sales management. Sales CRM, 
 CRM-B2B, B2C, the impact of sales CRM on the sales process. 
 07Hrs 
  Module No. 4. 
-Contemporary topics:  Global Sales -force management, Role of technology in Sales -force and 
+Contemporary topics: Global Sales -force management, Role of technology in Sales -force and 
 Distribution channel, discounting management, Use of Neural Networks to forecast sales.Sales 
 analytics, AI application in sales processes, customer relationship management, and sales 
 forecasting, along with ethical considerations. 
@@ -1884,121 +1679,105 @@ References:
  Spiro, Stanton, Rich, Management of Sales force, 11, Tata McGraw Hill, 2013 
  Krishna K H., M Cavale, Sales and Distribution Management, 2, Tata McGraw Hill, 2014 
  Tapan K Panda, Sunil Sahadev, Sales Management, 2, Oxford Higher Education., 2014 
-
-## Page 52
-
-Format No: FMCD2009 /1.0  52 
- 
-Scheme for Semester End Examination (ESA) 
- 
-UNIT 
-5 Questions  
+ ## Page 52
+ Format No: FMCD2009 /1.0 52 
+  Scheme for Semester End Examination (ESA) 
+  UNIT 
+5 Questions 
 Each Question carries 20 
-Marks  
-Module  numbers Instructions 
- 
-UNIT I 
-I  
-All Questions Compulsory  II 
+Marks 
+Module numbers Instructions 
+  UNIT I 
+I 
+All Questions Compulsory II 
 III 
 IV 
- 
-Back 
- 
-## Page 53
-
-Format No: FMCD2009 /1.0  53 
+  Back 
+  ## Page 53
+ Format No: FMCD2009 /1.0 53 
 Program: MBA 
 Course Title: Retail Management Course Code: 25MBAE802 
 L-T-P: 2-1-0 Credits: 3 Contact Hrs: 04 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 28hrs  Exam Duration: 2 hrs 
+Teaching Hrs: 28hrs Exam Duration: 2 hrs 
 Course Content 
 Particulars 
-Module 1:          
+Module 1: 
 Introduction to Retailing : Meaning and Characteristics, social and economic significance, 
 opportunities, the management decision process 
 Retailing in India- present and future, the opportunity and challenges for the un -organized retail 
-sector in India.  
+sector in India. 
 Types of Retailers : Food Retailers, General Merchandise Retailers, Non -store Retailers, Service 
 Retailing, e-tailing models, Types of Ownership, and Multichannel Retailing. 
 05 hrs 
-Module 2:   
+Module 2: 
 Customer buying behavior: Buying process, types of buying decisions, social factors influencing 
 buying process, market segmentation using cluster analysis and collaborative filtering, and 
 decision tree. 
 Retail market strategy : Definition, target market, and retail format, building sustainable 
 competitive advantage, growth strategies, strategic retail planning process, financial strategy in 
 retailing management and retail locations, standard operating procedures in retail format. 07 hrs 
-Module 3:        
+Module 3: 
 Information & supply chain management : Creating strategic advantage, information flow, 
 logistics, distribution center, a collaboration between retailers & vendors, last -mile delivery, and 
 Use of technology in retail process & merchandise management 
-Customer relationship management (CRM):  CRM process, identifying target customers, acquiring, 
+Customer relationship management (CRM): CRM process, identifying target customers, acquiring, 
 retaining, and developing customers, developing CRM programs, Calculating customer value, and 
 marketing decision making. 
 11 hrs 
-Module 4:          
-Contemporary topics :  Green retailing, the influence of environmental factors on consumer 
+Module 4: 
+Contemporary topics : Green retailing, the influence of environmental factors on consumer 
 spending patterns , emerging trends in retail management, retiling analytics (Market Basket 
 analytics, RFM analysis, Optimizing Direct mail Campaigns, Scan *Pro Model). 
 05 hrs 
 References: 
- Michael Levy, Barton Weitz, Ajay Pandit, Retail Management, Tata Mc GRAW Hill  
+ Michael Levy, Barton Weitz, Ajay Pandit, Retail Management, Tata Mc GRAW Hill 
  SwapnaPradhan, Retail Management, Tata McGraw Hill 
- Wayne L Winston, Marketing Analytics, Wiley,2014 
-
-## Page 54
-
-Format No: FMCD2009 /1.0  54 
-    
-Scheme for Semester End Examination (ESA) 
- 
-UNIT 
-5 Questions  
+ Wayne L Winston, Marketing Analytics, Wiley, 2014 
+ ## Page 54
+ Format No: FMCD2009 /1.0 54 
+     Scheme for Semester End Examination (ESA) 
+  UNIT 
+5 Questions 
 Each Question carries 20 
-Marks  
-Module  numbers Instructions 
- 
-UNIT I 
-I  
-All Questions Compulsory  II 
+Marks 
+Module numbers Instructions 
+  UNIT I 
+I 
+All Questions Compulsory II 
 III 
 IV 
- 
-Back 
-  
-## Page 55
-
-Format No: FMCD2009 /1.0  55 
+  Back 
+   ## Page 55
+ Format No: FMCD2009 /1.0 55 
 Program: MBA 
 Course Title: Rural Marketing Course Code: 25MBAE803 
 L-T-P: 2-1-0 Credits: 3 Contact Hrs: 04 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 28hrs  Exam Duration: 3 hrs 
+Teaching Hrs: 28hrs Exam Duration: 3 hrs 
 Course Content 
 Particulars 
-Module 1:         
+Module 1: 
 Introduction to rural marketing: 
 Rural market environment : Evolution of rural marketing; definition of rural India & rural 
-marketing; rural market structure – demographic; political; economical; political; technological 
+marketing; rural market structure - demographic; political; economical; political; technological 
 environment; major problems in rural marketing 
 Rural economy: Economic scenario in rural India; the transition of rural economy; rural economic 
 structure; employment structure; incomes & consumption; rural infrastructures. 
 05 hrs 
-Module 2:          
+Module 2: 
 Marketing in rural India: agricultural inputs and produce, Fast Moving Consumer Goods (FMCG) 
-& consumer durables, and rural & cottage industry products  
+& consumer durables, and rural & cottage industry products 
 Understanding the rural market : Rural consumer behavior: Consumer buying behavior models, 
 factors affecting consumer behavior, characteristics of rural consumer, consumer buying process, 
 opinion leadership process, brand loyalty. 
 10 hrs 
-Module 3:          
-Rural Marketing Strategy:  Segmenting, Targeting and Positioning, Product strategy, product mix 
+Module 3: 
+Rural Marketing Strategy: Segmenting, Targeting and Positioning, Product strategy, product mix 
 rural packaging, branding in rural India, fake brands, the pricing strategy the in rural market, 
 distribution and communication strategy used by companies in rural India. 
 07 hrs 
-Module4:         
+Module4: 
 Contemporary topics: Digital and mobile marketing, Use of E-commerce and Agri-Tech Platforms, 
 Customized Communication Strategies, Rural Influencer Marketing, leveraging SHGs and 
 Cooperatives, Data-Driven Marketing and CRM, Green and Sustainable Marketing. 
@@ -2007,37 +1786,30 @@ References:
  Kashyap, P., & Rant S, The Rural Marketing Book, Biztantra 
  Gopalaswamy T.P., Rural Marketing, Vikas Publishing House 
    Scheme for Semester End Examination (ESA) 
- 
-UNIT 
-5 Questions  
+  UNIT 
+5 Questions 
 Each Question carries 20 
-Marks  
-Module  numbers Instructions 
- 
-UNIT I 
-I  
-All Questions Compulsory  II 
+Marks 
+Module numbers Instructions 
+  UNIT I 
+I 
+All Questions Compulsory II 
 III 
 IV 
-
-## Page 56
-
-Format No: FMCD2009 /1.0  56 
-    
-Back 
- 
-## Page 57
-
-Format No: FMCD2009 /1.0  57 
+ ## Page 56
+ Format No: FMCD2009 /1.0 56 
+     Back 
+  ## Page 57
+ Format No: FMCD2009 /1.0 57 
 Program: MBA 
 Course Title: Services Marketing Course Code: 25MBAE804 
 L-T-P: 2-1-0 Credits: 3 Contact Hrs: 04 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 28hrs  Exam Duration: 2 hrs 
+Teaching Hrs: 28hrs Exam Duration: 2 hrs 
 Course Content 
 Particulars 
 Module1: 
-Introduction:  Meaning of services, evolution of service marketing and role of technology, 
+Introduction: Meaning of services, evolution of service marketing and role of technology, 
 characteristics of services, services marketing mix. 
 Gaps model of service quality: Customer gap, provider gap. 
 Consumer behaviour in services : Consumer choice, consumer experience , post -experience 
@@ -2045,7 +1817,7 @@ evaluation, understanding differences among consumer.
 Customer expectations of services: Meaning and types of service expectations, factors that 
 influence customer expectations, and issues involving customer service. 
 Customer perceptions of services: Customer perceptions, customer satisfaction, service quality, 
-service encounters.  
+service encounters. 
 07 hrs 
 Module2: 
 Building customer -relationship: Relationship marketing, relationship value of customers, 
@@ -2055,42 +1827,37 @@ Service recovery : Impact of service failure and recovery, how customers respond
 failures, customers recovery expectations, service recovery strategies, service guarantees. 05 hrs 
 Module 3: 
 Service development and design : Challenges of service design, new service development, types 
-of new services, stages in new services, service blueprinting,  
+of new services, stages in new services, service blueprinting, 
 Use of Customer defined service standards, physical evidence, service inventory, pricing services 
 and managing demand and supply. 
 11 hrs 
-Module 4:                                                                                                                                                                            
+Module 4: 
 Contemporary topics (role of technology in services marketing).05 hrs 
-References:  
+References: 
  V. A. Zeitaml, D. D. Gremler, M. J. Bitner and Ajay Pandit, Services Marketing, TMH 
  Christopher Lovelock, Principles of Services Marketing, Pearson Education 
 Scheme for Semester End Examination (ESA) 
- 
-UNIT 
-5 Questions  
+  UNIT 
+5 Questions 
 Each Question carries 20 
-Marks  
-Module  numbers Instructions 
- 
-UNIT I 
-I  
-All Questions Compulsory  
+Marks 
+Module numbers Instructions 
+  UNIT I 
+I 
+All Questions Compulsory 
 Back 
- 
-II 
+  II 
 III 
 IV 
-
-## Page 58
-
-Format No: FMCD2009 /1.0  58 
+ ## Page 58
+ Format No: FMCD2009 /1.0 58 
 Program: MBA 
 Course Title: Integrated Marketing 
 Communications 
 Course Code: 24MBAE802 
 L-T-P: 2-1-0 Credits: 3 Contact Hrs: 04 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 28hrs  Exam Duration: 2 hrs 
+Teaching Hrs: 28hrs Exam Duration: 2 hrs 
 Course Content 
 Particulars 
 Module 1: 
@@ -2102,8 +1869,8 @@ management, IMC planning process.
 Module 2: 
 Consumer Decision Making Process : Steps of effective communication, communication 
 objectives, consumer decision-making process, consumer behavioral analysis and role of Big-data, 
-models used to analyze  advertising impact on consumer decision making -Communication 
-response Hierarchy- AIDA & Hierarchy of Effects model.  
+models used to analyze advertising impact on consumer decision making -Communication 
+response Hierarchy- AIDA & Hierarchy of Effects model. 
 08 hrs 
 Module 3: 
 Organizing for advertising and promotion : The role of advertising agencies, agency 
@@ -2113,73 +1880,64 @@ Establishing objective and budgeting for promotional program: Determining Promot
 objectives, DAGMAR approach for setting objectives establishing an d allocating budget, Media 
 Planning strategies: An overview of Media planning, Establishing objectives, developing-message 
 strategies and executional frameworks, effectiveness of celebrity endorsements and 
-implementation media strategies, evaluation and follow up.  
+implementation media strategies, evaluation and follow up. 
 12 hrs 
 Module 4: 
 Contemporary topics: Social and ethical aspects of promotional tools, Introduction to social media 
 as a business tool: use of face book, YouTube, twitter and LinkedIn as modern tools for business 
 operations and communications. 
 04 hrs 
-
-## Page 59
-
-Format No: FMCD2009 /1.0  59 
+ ## Page 59
+ Format No: FMCD2009 /1.0 59 
 References: 
- Belch, M.A., and Belch, G.E., Advertising and Promotion, Tata Mc-Graw Hill Publication  
- Shah, K. and D’souza, A., Advertising & Promotion, Tata Mc-Graw Hill Publication.  
+ Belch, M.A., and Belch, G.E., Advertising and Promotion, Tata Mc-Graw Hill Publication 
+ Shah, K. and D'souza, A., Advertising & Promotion, Tata Mc-Graw Hill Publication. 
  Kenneth E. Clow, Donald E. Baack, Integrated advertising promotion and Marketing 
 Communications, 3rd Edition, Pearson Publication 
- 
-Scheme for Semester End Examination (ESA) 
- 
-UNIT 
-5 Questions  
+  Scheme for Semester End Examination (ESA) 
+  UNIT 
+5 Questions 
 Each Question carries 20 
-Marks  
-Module  numbers Instructions 
- 
-UNIT I 
-I  
-All Questions Compulsory  
+Marks 
+Module numbers Instructions 
+  UNIT I 
+I 
+All Questions Compulsory 
 Back 
- 
-II 
+  II 
 III 
 IV 
- 
-Program: MBA 
+  Program: MBA 
 Course Title: Industrial Marketing Course Code: 25MBAE805 
 L-T-P: 2-1-0 Credits: 3 Contact Hrs: 04 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 28hrs  Exam Duration: 2 hrs 
+Teaching Hrs: 28hrs Exam Duration: 2 hrs 
 Course Content 
 Particulars 
-Module1:  
-
-## Page 60
-
-Format No: FMCD2009 /1.0  60 
+Module1: 
+ ## Page 60
+ Format No: FMCD2009 /1.0 60 
 Basic concept of Industrial Marketing: Industrial Marketing, consumer and industrial products, 
-consumer and industrial marketing, differences of consumer and industrial marketing.  
+consumer and industrial marketing, differences of consumer and industrial marketing. 
 Industrial markets: Industrial customers, specificities of industrial markets, the environment of 
 Industrial Marketing. The specificities and the risks in international markets. The trends in 
 globalization of industrial markets. 
 05 hrs 
 Module 2: 
-Organization’s purchasing behavior, system of purchasing decisions: System of taking decisions 
+Organization's purchasing behavior, system of purchasing decisions: System of taking decisions 
 in the Industrial Marketing. The poles in the system of taking purchasing decisions in Industrial 
-Marketing. Factors that affect the purchasing decision in Industrial Marketing.  
+Marketing. Factors that affect the purchasing decision in Industrial Marketing. 
 Process of taking purchasing decisions for industrial products. Types of purchasing activities in 
 Industrial Marketing. Marketing Strategies for the purchasing activities and the stages of the 
 process of taking purchasing decisions. Infor mation sources that are used from members of the 
-Taking purchasing decisions’ system. Account based marketing and planning. 
+Taking purchasing decisions' system. Account based marketing and planning. 
 10 hrs 
 Module 3: 
 Pricing and Promotion in Industrial Marketing: The importance of pricing in Industrial Marketing. 
 In-house and external factors determine the price. Procedures, processes and pricing policies. The 
 mixture promotion in industrial marketing. Sales promotion, advertising, directs marketing, public 
 relations and personal selling. 
-Distribution of industrial products:  The importance of industrial products. Administration and 
+Distribution of industrial products: The importance of industrial products. Administration and 
 revitalization of existing industrial products. The Marketing distribution functions, main forms of 
 intermediate, forms of industrial channels. Design, selection and management of distribution 
 channels. 
@@ -2191,61 +1949,53 @@ interactive strategic marketing planning: A new approach. Smart Business to busi
 05 hrs 
 References: 
 1. Tomaras P . (2009). Industrial Marketing. Published by the author. Athens, (ISBN: 978-960-
-90674-3-0). (in Greek)  
-2. Ralph S Alexander, Richard M Hill, Industrial Marketing, 3rd edition.   
-   
-## Page 61
-
-Format No: FMCD2009 /1.0  61 
- 
-Scheme for Semester End Examination (ESA) 
- 
-UNIT 
-5 Questions  
+90674-3-0). (in Greek) 
+2. Ralph S Alexander, Richard M Hill, Industrial Marketing, 3rd edition. 
+    ## Page 61
+ Format No: FMCD2009 /1.0 61 
+  Scheme for Semester End Examination (ESA) 
+  UNIT 
+5 Questions 
 Each Question carries 20 
-Marks  
-Module  numbers Instructions 
- 
-UNIT I 
-I  
-All Questions Compulsory  II 
+Marks 
+Module numbers Instructions 
+  UNIT I 
+I 
+All Questions Compulsory II 
 III 
 IV 
-    
-Back 
- 
-## Page 62
-
-Format No: FMCD2009 /1.0  62 
+     Back 
+  ## Page 62
+ Format No: FMCD2009 /1.0 62 
 Program: MBA 
 Course Title: Product and Brand 
 Management 
 Course Code: 24MBAE803 
 L-T-P: 2-1-0 Credits: 3 Contact Hrs: 04 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 28hrs  Exam Duration: 2 hrs 
+Teaching Hrs: 28hrs Exam Duration: 2 hrs 
 Course Content 
 Particulars 
-Module 1:   
+Module 1: 
 Introduction: Introduction to Product Management, Role and Functions of Product Managers, 
 Product Mix and SBU Strategies, Portfolio analysis (BCG / GE Multifactor Matrix), Marketing 
 Planning. 
 07 hrs 
-Module 2:  
+Module 2: 
 Focus on creating/identifying value propositions for the clients, Product decisions over the PLC, 
 New Product Development processes, Pricing, and Promotion strategies, channel management, 
 managing growth. 
 07 hrs 
-Module 3:   
+Module 3: 
 Introduction to Brand Management- Branded House Vs House of Brands, Corporate Brand, Brand 
 prism by Kapferer Model, Brand Anatomy, Branding Decisions - Line Extensions, Category 
-Extension, Brand Equity – Concept and measure. 
+Extension, Brand Equity - Concept and measure. 
 08 hrs 
- Module 4:   
+ Module 4: 
 Contemporary Practices: Omnichannel marketing, Data -driven decision making, Experiential 
 marketing, Sustainable and socially responsible practices, Digital transfor mation: Leveraging 
 technology, such as AI and automation, to enhance customer engagement through competitive 
-products.                                                                                                                                                 06 hrs 
+products. 06 hrs 
 References: 
  Donald R Lehamann, Product management 4th Edition, Mcgrow Higher Ed 
  Marc Annacchino, New Product Development, 2003 Ed, Elsevier Butterworh-Heinemann 
@@ -2254,56 +2004,49 @@ References:
 Person publication 
  David Aaker, Brand Management, TMH publication 
  YLR Murthy, Brand management Indian prospective, Vikas Publications 
-  
-## Page 63
-
-Format No: FMCD2009 /1.0  63 
+   ## Page 63
+ Format No: FMCD2009 /1.0 63 
 Scheme for Semester End Examination (ESA) 
- 
-UNIT 
-5 Questions  
+  UNIT 
+5 Questions 
 Each Question carries 20 
-Marks  
-Module  numbers Instructions 
- 
-UNIT I 
-I  
-All Questions Compulsory  II 
+Marks 
+Module numbers Instructions 
+  UNIT I 
+I 
+All Questions Compulsory II 
 III 
 IV 
-    
-Back 
- 
-## Page 64
-
-Format No: FMCD2009 /1.0  64 
+     Back 
+  ## Page 64
+ Format No: FMCD2009 /1.0 64 
 Program: MBA 
-Course Title: Digital Marketing Course Code: 24MBAE801  
+Course Title: Digital Marketing Course Code: 24MBAE801 
 L-T-P: 2-0-1 Credits: 3 Contact Hrs: 04 Hours/week 
 ISA Marks: 67 ESA Marks: 33 Total Marks: 100 
-Teaching Hrs: 28hrs  Exam Duration: 2 hrs 
+Teaching Hrs: 28hrs Exam Duration: 2 hrs 
 Course Content 
 Particulars 
-Module 1:  
+Module 1: 
 Introduction to digital marketing: Need and relevance for digital marketing, the evolution of digital 
 marketing, digital marketing framework, challenges/issues concerning digital marketing, and future 
-of digital marketing.                                                                                                           04 hrs 
+of digital marketing. 04 hrs 
 Module 2: 
 Digital marketing and the four Ps, Digital marketing models creation, value chain digitization, search 
 marketing: search engine optimization, search advertising, Email marketing, display advertising , 
 social media communities and targeting advertising, content marketing, influence and 
 amplification, and affiliate marketing and strategic partnership, digital media creativity, Customer 
-experience, website, and app layout design essentials, Basic website  planning & creation, e -
-commerce management.                                                                                                 11 hrs 
-Module 3:       
+experience, website, and app layout design essentials, Basic website planning & creation, e -
+commerce management. 11 hrs 
+Module 3: 
 Consumer buying behavior in digital age, Social media and customer engagement: the social 
 feedback cycle, open access to information and the connected customers. The new role of the 
-customer: social interactions on social media. Customer Relationships: Social CRM.                                                                                                                              
+customer: social interactions on social media. Customer Relationships: Social CRM. 
 08 hrs 
-Module 4:   
+Module 4: 
 Ethical components in digital marketing, mobile and its impact, Evolving Business Models, Emerging 
 Channels and Opportunities, Emerging Opportunities for Digital Marketing Professionals. Google 
-Analytics.                                                                                                           05 hrs 
+Analytics. 05 hrs 
 References: 
  Punnet Bhatia, Fundamentals of digital marketing, Person India, 2ndedition. 
  Jeremy Kagan, Digital marketing: strategy and Tactics, WessexInc. 
@@ -2314,23 +2057,19 @@ targeted and Measurable online campaigns, Wiley, 2016.
  Danny Sullivan, Jennifer Grappone, CouzinGradiva, Search engine optimization an hour a 
 day, Wiley, 3rd edition. 
  Scheme for Semester End Examination (ESA) 
- 
-UNIT 
-5 Questions  
+  UNIT 
+5 Questions 
 Each Question carries 20 
-Marks  
-Module  numbers Instructions 
- 
-UNIT I 
-I  
-All Questions Compulsory  II 
+Marks 
+Module numbers Instructions 
+  UNIT I 
+I 
+All Questions Compulsory II 
 III 
 IV 
       Back 
- 
-## Page 65
-
-Format No: FMCD2009 /1.0  65 
+  ## Page 65
+ Format No: FMCD2009 /1.0 65 
 Finance 
 Program: MBA 
 Course Title: Security Analysis & Portfolio 
@@ -2338,13 +2077,13 @@ Management
 Course Code: 20MBAE811 
 L-T-P: 2-1-0 Credits: 3 Contact Hrs: 04 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 28hrs  Exam Duration: 3 hrs 
+Teaching Hrs: 28hrs Exam Duration: 3 hrs 
 Course Content 
 Particulars 
-Module 1:  
+Module 1: 
 Introduction to Investments: Concepts of investment, Objectives and Dimensions of investment, 
 investment Vs speculation, Gambling, Investment Avenues, Investment Process, Foreign Portfolio 
-Investment (FPI), Sovereign Wealth Funds (SWFs).  
+Investment (FPI), Sovereign Wealth Funds (SWFs). 
  03 hrs 
 Module 2: 
 Security Risk, Return & Valuation: Unsystematic & Systematic Risk, Analysing Risk & Return, 
@@ -2354,158 +2093,142 @@ Model. Valuation through P/E Ratio, Preferred Stock Valuation.
 Introduction to Bonds, Green Bonds, Bond Risk, Bond Return, Convexity & Duration of the Bond. 
 Practical exercises. 
 9 hrs 
-Module 3:        
-Fundamental Analysis: Economic, Industry and Company Analysis. Practical exercises.  
-Technical analysis:  Meaning, Dow Theory, Support & Resistance Levels, Charts & Patterns, 
+Module 3: 
+Fundamental Analysis: Economic, Industry and Company Analysis. Practical exercises. 
+Technical analysis: Meaning, Dow Theory, Support & Resistance Levels, Charts & Patterns, 
 Indicators: Volume of Trade, Simple Moving Average, Oscillators: RSI, ROC, Stochastic Oscillator . 
 Practical exercises. 
 8 hrs 
-Module 4:        
+Module 4: 
 Portfolio Models/Theories: Markowitz Model, Efficient Frontier, Capital allocation between risky 
 and risk-free assets, Sharpe Index Model, Corner Portfolio, Capital Asst Pricing Theory, SML, CML, 
 Arbitrage Pricing Theory. Practical exercises. 
 05 hrs 
-Module 5:  
+Module 5: 
 Portfolio Evaluation & Revision: Portfolio Revision, Strategies, Techniques, Portfolio Evaluation, 
 Sharpe, Treynor & Jensen performance Indices, Benefits of International Portfolio Investment & 
-Risk. Asset Management Companies. Practical exercises.                                            03 hrs 
+Risk. Asset Management Companies. Practical exercises. 03 hrs 
 References: 
  Punithavati Pandyan, Security Analysis and Portfolio Management, Latest edition, Vikas 
 Publication. 
- Kevin S, Portfolio Management, 2nd edition, Prentice H,  
+ Kevin S, Portfolio Management, 2nd edition, Prentice H, 
  Alexander, Sharpe, Bailley, Fundamentals of Investment, Pearson, 
  Chndra Prasanna, Investment Analysis and Portfolio Management, 3rd Edition, TMH 
  Danesh Khatri, Security Analysis and Portfolio Management, Mc Millan Publications. 
-
-## Page 66
-
-Format No: FMCD2009 /1.0  66 
-            
-Scheme for Semester End Examination (ESA) 
- 
-UNIT 
-5 Questions  
+ ## Page 66
+ Format No: FMCD2009 /1.0 66 
+             Scheme for Semester End Examination (ESA) 
+  UNIT 
+5 Questions 
 Each Question carries 20 
-Marks  
-Module  numbers Instructions 
- 
-UNIT I 
-I  
-All Questions Compulsory  II 
+Marks 
+Module numbers Instructions 
+  UNIT I 
+I 
+All Questions Compulsory II 
 III 
 IV 
-  
-Back 
-  
-## Page 67
-
-Format No: FMCD2009 /1.0  67 
+   Back 
+   ## Page 67
+ Format No: FMCD2009 /1.0 67 
 Program: MBA 
 Course Title: Advanced Financial 
 Management 
 Course Code: 20MBAE812 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 40hrs  Exam Duration: 3 hrs 
+Teaching Hrs: 40hrs Exam Duration: 3 hrs 
 Course Content 
 Particulars 
-Module 1:          
-Working Capital Management – Determination of level of current assets, Sources for financing 
+Module 1: 
+Working Capital Management - Determination of level of current assets, Sources for financing 
 working capital, Bank finance for working capital, Estimation of working capital. Working capital 
-leverage.  
-Inventory Management – objectives, techniques: ABC Analysis, Stock level Analysi s, Economic 
+leverage. 
+Inventory Management - objectives, techniques: ABC Analysis, Stock level Analysi s, Economic 
 Order Quantity (EOQ),LIFO & FIFO 
 09 hrs 
 Module 2: Cash Management 
-Cash management – Nature and motives, Marketable securities, Basic strategies 
-Forecasting cash flows – Cash budgets, optimal cash balances – Baumol model, Miller-Orr model, 
+Cash management - Nature and motives, Marketable securities, Basic strategies 
+Forecasting cash flows - Cash budgets, optimal cash balances - Baumol model, Miller-Orr model, 
 Strategies for managing surplus fund. 
 08 hrs 
 Module 3: 
 Payables Management: Objectives and importance, Process of payables Management, Challenges 
 and key metrics to strengthen payables. 
-Receivables Management – Objectives, Credit policies, Credit terms, Collection policies, Credit 
+Receivables Management - Objectives, Credit policies, Credit terms, Collection policies, Credit 
 management through credit policy variables, marginal analysis. Credit evaluation: Numerical credit 
-scoring and discriminate analysis, Control of accounts receivables, Problems on credit  granting 
+scoring and discriminate analysis, Control of accounts receivables, Problems on credit granting 
 decision. 
 Bills discounting and factoring: Meaning and process. 
 10 hrs 
-Module 4:            
-Capital Structure Decisions – capital structure & market value of a firm.  Theories of capital 
-structure – NI approach, NOI approach, Modigliani Miller approach, traditional approach.  
-Arbitrage process in capital structure, planning the capital structure: EBIT and EPS analysis.  ROI & 
-ROE analysis, Capital structure policy.  
+Module 4: 
+Capital Structure Decisions - capital structure & market value of a firm. Theories of capital 
+structure - NI approach, NOI approach, Modigliani Miller approach, traditional approach. 
+Arbitrage process in capital structure, planning the capital structure: EBIT and EPS analysis. ROI & 
+ROE analysis, Capital structure policy. 
 07 hrs 
 Module 5: 
-Dividend Policy  – Theories of dividend policy: relevance and i rrelevance dividend decision. 
-Walter’s & Gordon ’s model, Modigliani & Miller approach. Dividend policies –stable dividend, 
+Dividend Policy - Theories of dividend policy: relevance and i rrelevance dividend decision. 
+Walter's & Gordon 's model, Modigliani & Miller approach. Dividend policies -stable dividend, 
 stable payout and growth, Bonus shares and stock split corporate dividend behavior. Legal & 
 procedural aspects of dividends Corporate Dividend Tax. 
 06 hrs 
-
-## Page 68
-
-Format No: FMCD2009 /1.0  68 
+ ## Page 68
+ Format No: FMCD2009 /1.0 68 
 Reference books: 
  M.Y. Khan & P.K. Jain, Financial Management, 6/e, TMH, 2011. 
  Prasanna Chandra, Financial Management, 8/e, TMH, 2011. 
  Brigham &Ehrhardt, Financial Management: Theory & Practice, 10/e, Cenage Learning, 
- Ross, Westerfield& Jaffe, Corporate Finance– TMH – 8/e, 2010 
- Vanhorne, Financial Management & Policy, 12/e, Pearson  
+ Ross, Westerfield& Jaffe, Corporate Finance- TMH - 8/e, 2010 
+ Vanhorne, Financial Management & Policy, 12/e, Pearson 
  Keown, Martin, Petty. Scott, Financial management: principles and applications, PHI. 
- Brearly and Myers, Principle of Corporate Finance–, 10/e, TMH, 2012. 
+ Brearly and Myers, Principle of Corporate Finance-, 10/e, TMH, 2012. 
  Ashwath Damodaran, Corporate Finance: Theory& Practice, 2/e, Wiley India Pvt. Ltd., 2009. 
-            
-Scheme for Semester End Examination (ESA) 
- 
-UNIT 
-5 Questions  
+             Scheme for Semester End Examination (ESA) 
+  UNIT 
+5 Questions 
 Each Question carries 20 
-Marks  
-Module  numbers Instructions 
- 
-UNIT I 
-I  
-All Questions Compulsory  II 
+Marks 
+Module numbers Instructions 
+  UNIT I 
+I 
+All Questions Compulsory II 
 III 
 IV 
 V 
- 
-Back 
- 
-## Page 69
-
-Format No: FMCD2009 /1.0  69 
+  Back 
+  ## Page 69
+ Format No: FMCD2009 /1.0 69 
 Program: MBA 
 Course Title: Merchant Banking & 
 Financial Services 
 Course Code: 20MBAE813 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 40hrs  Exam Duration: 3 hrs 
+Teaching Hrs: 40hrs Exam Duration: 3 hrs 
 Course Content 
 Particulars 
-Module 1:          
+Module 1: 
 Money Market & Merchant banking 
 Merchant banking: Origin, Functions of Lead managers, SEBI Guidelines for Merchant bankers. 
-Money Market: Structure – Organised and Un-organized Market, Call Money Market, Bills market, 
+Money Market: Structure - Organised and Un-organized Market, Call Money Market, Bills market, 
 Market for Government Securities. 
 Money market Instruments: Treasury Bills, Repurchase Agreements / Reverse Repo, Commercial 
 bills, Commercial papers, Certificate of deposit. 
 07 hrs 
-Module 2:  
+Module 2: 
 Credit rating : Definition and meaning, Process of credit rating of financial instruments, rating 
 methodology, rating agencies, rating symbols of different companies. 
 Securitization of debt: Meaning, Features, Special Purpose Vehicle, Types of securitisable assets, 
-Benefits of Securitization, Issues in Securitization.  
+Benefits of Securitization, Issues in Securitization. 
 Factoring: Meaning, Definition, Functions, Types, Cost of Factoring, Forfeiting (Problems) 
 Non-Banking Finance Companies: Functions, RBI Guidelines. 
  07 hrs 
 Module 3: 
-Banking and banking instruments                   
+Banking and banking instruments 
 Banking: Meaning and Definition, Evolution of Indian Banks, Introduction to Indian Financial 
 System (IFS), new banking licenses and BASEL norms 
-Types of banks -Public Sector, Regional Banks. Functions - Primary & secondary function.  
+Types of banks -Public Sector, Regional Banks. Functions - Primary & secondary function. 
 Bank Clearing House: Clearing Procedure. 
 Hi-tech Banking : Modern technology in Banking, Core banking, E Banking, ATM, EFTS, RTGS, 
 Internet Banking, Mobile Banking. 
@@ -2517,89 +2240,80 @@ International Banking: Exchange rates and Forex Business, Correspondent banking 
 NRI Accounts, FCNR deposits, Letters of Credit, Foreign currency Loans, Facilities for 
 Exporters and Importers, Role of ECGC, RBI and EXIM Bank 
 12 hrs 
-Module 4:          
+Module 4: 
 Leasing: Concept, Steps in Leasing Transactions, Types of Lease, Legal frameworks, Advantages 
 and dis advantages of Leasing, Contents of a Lease Agreement, Matters on Depreciation and Tax, 
 Problems in leasing, Factors influencing Buy or Borrow or Lease Decision. 
-Hire Purchasing:Concepts and features, Hire Purchase Agreement, Comparison of Hire Purchase 
+Hire Purchasing: Concepts and features, Hire Purchase Agreement, Comparison of Hire Purchase 
 with Credit sale, Instalment sale and Leasing. Banks and Hire Purchase, Reverse mortgage 
 (Problems related to outright purchase, HP and Leasing) 
 07 hrs 
-
-## Page 70
-
-Format No: FMCD2009 /1.0  70 
- 
-Module 5:    
+ ## Page 70
+ Format No: FMCD2009 /1.0 70 
+  Module 5: 
 Venture Capital: Concept, features, Origin in India and the current Indian Scenario. Overview, 
 Stages of VC. 
-Private Equity – principles, governance, conflicts and transparency. 
+Private Equity - principles, governance, conflicts and transparency. 
 Microfinance - Evolution, Need for microfinance, Interest Rates, Standards & Principles, Impact on 
-the Society, Benefits & limitations.  
+the Society, Benefits & limitations. 
 Financial Inclusion- meaning and significance. 
 07 hrs 
 References: 
- Banking and Finance: Theory and Practice —Clifford Gomez, 1/e, PHI, 2011. 
- Bank Financial Management -Indian Institute of Banking  and Finance, 1/e, Macmillan, 
+ Banking and Finance: Theory and Practice -Clifford Gomez, 1/e, PHI, 2011. 
+ Bank Financial Management -Indian Institute of Banking and Finance, 1/e, Macmillan, 
 2010. 
- Management of Banking and financial services – Padmalatha& Justin Paul, 2/e, Pearson, 
+ Management of Banking and financial services - Padmalatha& Justin Paul, 2/e, Pearson, 
 2010. 
- Financial Markets and Services – Gordon & Natarajan, 7/e, Himalaya publishing, 2011. 
+ Financial Markets and Services - Gordon & Natarajan, 7/e, Himalaya publishing, 2011. 
  Financial services- Khan M.Y, 6/e, McGraw Hill, 2011. 
- Banking Theory and Practice – Shekar&Shekar, Vikas, 20/e, 2011. 
+ Banking Theory and Practice - Shekar&Shekar, Vikas, 20/e, 2011. 
  Merchant Banking & Financial services- Vij&Dhavan, 1/e, McGraw Hill, 2011. 
- Indian Financial System – Machiraju, 4/e, Vikas, 2010. 
-          
-Scheme for Semester End Examination (ESA) 
- 
-UNIT 
-5 Questions  
+ Indian Financial System - Machiraju, 4/e, Vikas, 2010. 
+           Scheme for Semester End Examination (ESA) 
+  UNIT 
+5 Questions 
 Each Question carries 20 
-Marks  
-Module  numbers Instructions 
- 
-UNIT I 
-I  
-All Questions Compulsory  II 
+Marks 
+Module numbers Instructions 
+  UNIT I 
+I 
+All Questions Compulsory II 
 III 
 IV 
 V 
- 
-Back 
- 
-## Page 71
-
-Format No: FMCD2009 /1.0  71 
+  Back 
+  ## Page 71
+ Format No: FMCD2009 /1.0 71 
 Program: MBA 
 Course Title: International Financial 
 Management 
 Course Code: 20MBAE814 
 L-T-P: 2-1-0 Credits: 3 Contact Hrs: 04 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 28 hrs  Exam Duration: 3 hrs 
+Teaching Hrs: 28 hrs Exam Duration: 3 hrs 
 Course Content 
 Particulars 
-Module 1:                                        
-Introduction:International financial environment, Emerging challenges, Nature of international 
+Module 1: 
+Introduction: International financial environment, Emerging challenges, Nature of international 
 financial functions and scope, Balance of Payments: BoP Structure, Capital account convertibility, 
-The International Monetary System, International Monetary Fund  (IMF), International Bank for 
+The International Monetary System, International Monetary Fund (IMF), International Bank for 
 Reconstruction and Development (IBRD), Exchange rate regimes, The European Monetary System 
 and European Monetary Union. 06 hrs 
-Module 2:            
-Foreign Exchange Market Mechanism: Exchange rate quotation,Cross rates, Factors influencing 
-exchange rates, Process of arbitrage,Spot and Forward rate, Covered interest arbitrage, 
+Module 2: 
+Foreign Exchange Market Mechanism: Exchange rate quotation, Cross rates, Factors influencing 
+exchange rates, Process of arbitrage, Spot and Forward rate, Covered interest arbitrage, 
 Speculation in Forward market, Exchange Rate Theories: Purchasing Power Parity (PPP), Interest 
 Rate Parity (IRP), BoP and Exchange Rate, Methods of Forecasting Exchange Rates. 
 08 hrs 
-Module 3:               
-Exchange Rate Risk Assessment:  Exchange rate risk of an enterprise, Types of exposure 
+Module 3: 
+Exchange Rate Risk Assessment: Exchange rate risk of an enterprise, Types of exposure 
 Transaction, Translation and Economic exposure) and evaluation, tools and techniques of foreign 
 exchange risk management, management of transactions exposure, management of operating 
 exposure, economic exposure. Internal techniques of hedging.08 hrs 
-Module 4:       
+Module 4: 
 International Working Capital and Capital Budgeting: Foreign working capital management, 
 Foreign capital budgeting (evaluation of projects) Capital Budgeting, Evaluating Merger and 
-Acquisition. Risk Adjustment in the Capital Budgeting Process, Sensitivity Analysis.            06 hrs 
+Acquisition. Risk Adjustment in the Capital Budgeting Process, Sensitivity Analysis. 06 hrs 
 Text Books: 
  P . K. Jain, J. Peyrard, S. S. Yadav, International Financial Management, 1stEdn, Macmillan 
 Publishers. 
@@ -2608,133 +2322,116 @@ References:
  Jeff Madhura, International Financial Management, South-Western 
  David K Eiteman, Arthur I Stonehill and Michel H Moffett, Multinational Business Finance, 
 10thedn, Pearson Education 
- Prakash G Apte, International Financial Management, 5thedn, TMH  
- Resnick, B. G., & Eun, C. S,International Financial Management. 7thEdn, 2014, McGraw 
+ Prakash G Apte, International Financial Management, 5thedn, TMH 
+ Resnick, B. G., & Eun, C. S, International Financial Management. 7thEdn, 2014, McGraw 
 Hill International. 
-
-## Page 72
-
-Format No: FMCD2009 /1.0  72 
-            
-Scheme for Semester End Examination (ESA) 
- 
-UNIT 
-5 Questions  
+ ## Page 72
+ Format No: FMCD2009 /1.0 72 
+             Scheme for Semester End Examination (ESA) 
+  UNIT 
+5 Questions 
 Each Question carries 20 
-Marks  
-Module  numbers Instructions 
- 
-UNIT I 
-I  
-All Questions Compulsory  II 
+Marks 
+Module numbers Instructions 
+  UNIT I 
+I 
+All Questions Compulsory II 
 III 
 IV 
- 
-Back 
-  
-## Page 73
-
-Format No: FMCD2009 /1.0  73 
- 
-Program: MBA 
-Course Title: Mergers, Acquisition and                                                                                                                                           
+  Back 
+   ## Page 73
+ Format No: FMCD2009 /1.0 73 
+  Program: MBA 
+Course Title: Mergers, Acquisition and 
 Corporate Restructuring. 
 Course Code: 20MBAE815 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 40hrs  Exam Duration: 3 hrs 
+Teaching Hrs: 40hrs Exam Duration: 3 hrs 
 Course Content 
 Particulars Hours 
-Module 1:         
+Module 1: 
 Introduction to Mergers: Definition, reasons for merger and acquisition, mergers strategy, 
 growth, synergy, diversification, economic motives, M & A as a strategic perspective, merger 
 process, due diligence process, methods of financing mergers. 
 06 hrs 
-Module 2:          
+Module 2: 
 Introduction to acquisitions; takeover tactics, antitakeover measures, SEBI takeover code, new 
-takeover code.  
+takeover code. 
 06hrs 
-Module 3:         
+Module 3: 
 Business Valuation: Introduction, valuation approaches/methods, Asset based approach to 
 valuation, Earnings based approach to valuation, Market value -based approach to valuation Fair 
 value method to valuation, Market value added approach (MVA), Economic Value Added (EVA). 
 12 hrs 
-Module 4:         
-Post Merger Challenges of M &A:  Organizational and human aspects, post-acquisition audit and 
+Module 4: 
+Post Merger Challenges of M &A: Organizational and human aspects, post-acquisition audit and 
 organizational learning; Accounting for Amalgamation and Demerger, Taxation aspects of 
 Amalgamation and Demerger, technology alignment. 
 08 hrs 
 Module 5: 
-Corporate Restructuring:        
+Corporate Restructuring: 
 Corporate restructuring, different methods of restructuring, joint ventures, sell off and spin off, 
 divestitures, equity carve out, leveraged buy outs (LBO), management buy outs, master limited 
 partnerships, employee stock ownership plans (ESOP). 
 08 hrs 
 References: 
  Patrick A Gaughan, Mergers, Acquisition and Corporate Restructuring, John Wiley and Sons 
-Co  
+Co 
  Seth Dua and Associates, Taxation Aspects of Mergers and Acquisitions, 
  Fred Weston, Kwang S Chung, Susan E Hoag, Mergers, Restructuring and Corporate 
 Control, PHI 
  M.Y . Khan and P .K. Jain, Financial Management, 5th edn, TMH 
  Ashwath Damodaran, Corporate Finance-Theory and Practice, John Wiley & Sons 
  Ramanujam S, Mergers: The new dimension for Corporate Restructuring, Tata McGraw-Hill 
- Kamal Ghosh Ray, Mergers and Acquisitions, PHI,2011 
+ Kamal Ghosh Ray, Mergers and Acquisitions, PHI, 2011 
  Mergers and Acquisitions, ICFAI Publisher. 
-
-## Page 74
-
-Format No: FMCD2009 /1.0  74 
-  
-Scheme for Semester End Examination (ESA) 
- 
-UNIT 
-5 Questions  
+ ## Page 74
+ Format No: FMCD2009 /1.0 74 
+   Scheme for Semester End Examination (ESA) 
+  UNIT 
+5 Questions 
 Each Question carries 20 
-Marks  
-Module  numbers Instructions 
- 
-UNIT I 
-I  
-All Questions Compulsory  II 
+Marks 
+Module numbers Instructions 
+  UNIT I 
+I 
+All Questions Compulsory II 
 III 
 IV 
 V 
- 
-Back 
- 
-## Page 75
-
-Format No: FMCD2009 /1.0  75 
+  Back 
+  ## Page 75
+ Format No: FMCD2009 /1.0 75 
 Program: MBA 
-Course Title:  Derivatives &Risk 
+Course Title: Derivatives &Risk 
 Management 
 Course Code: 24MBAE816 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 40 hrs  Exam Duration: 3 hrs 
+Teaching Hrs: 40 hrs Exam Duration: 3 hrs 
 Course Content 
 Particulars 
-Module 1:         
-Introduction to Derivatives:       
+Module 1: 
+Introduction to Derivatives: 
 Risk Management, Process, Types of Business Risks, Meaning of Derivatives, Products, Factors 
 driving growth of derivatives. Derivative Markets in India (Derivatives Trading at NSE, BSE, NCDEX 
 & MCX), Participants, Functions, Regulatory framework. 
 Introduction to Stock & Index Derivatives, Agriculture, Metal & Energy Derivatives, Currency and 
-Interest Rate Derivatives, Trading Mechanism, Terminologies.  
+Interest Rate Derivatives, Trading Mechanism, Terminologies. 
 06 hrs 
-Module 2:         
+Module 2: 
 Forward Contracts: An overview of Forward Contracts, Features, Basis, Carry Price Model, Pricing 
 Forward Contracts (No Income, Known Income & Known Yield), Hedging strategies & application, 
 Practical exercises. 
 07 hrs 
-Module 3:         
+Module 3: 
 Futures Contracts: Meaning, Parties, Terminologies, Basis, Trading procedure, Margin System, 
 Open interest, Pay offs, Valuation of Future contracts, Speculation, Hedging & Arbitration 
 strategies, Practical exercises. 
 08 hrs 
 Module 4: 
-Option Contracts:  Meaning, Types, Parties, Pay Offs, Intrinsic and Time Value, Application of 
+Option Contracts: Meaning, Types, Parties, Pay Offs, Intrinsic and Time Value, Application of 
 Options (Speculation & Hedging strategies), Combination Strategies (Strips, Straps, Straddle, 
 Strangle), Spreads (Bullish & Bearish Butterfly Spreads), Option Valuation using Black and Scholes 
 Model & Binomial Model, Zero Cash Flow Portfolio, Diagrammatic presentation of One & Two step 
@@ -2750,61 +2447,52 @@ References:
  Derivatives & Risk Management by Rajiv Srivastava, Oxford Publication. 
  Derivatives & Risk Management by Dhanesh Kumar Kharti, Mcmillan Publication. 
  Commodity Derivatives by Indian Institute of Banking & Finance. 
-
-## Page 76
-
-Format No: FMCD2009 /1.0  76 
+ ## Page 76
+ Format No: FMCD2009 /1.0 76 
  NCFM Derivatives Market, Options Strategies, Currency, Interest Rate & Commodities 
 Market Module downloaded material. 
  Options and Futures & Options Markets by John C Hull, PHI Publication. 
  Financial Derivatives by S SS Kumar, PHI Learning, 2007. 
-            
-Scheme for Semester End Examination (ESA) 
- 
-UNIT 
-5 Questions  
+             Scheme for Semester End Examination (ESA) 
+  UNIT 
+5 Questions 
 Each Question carries 20 
-Marks  
-Module  numbers Instructions 
- 
-UNIT I 
-I  
-All Questions Compulsory  II 
+Marks 
+Module numbers Instructions 
+  UNIT I 
+I 
+All Questions Compulsory II 
 III 
 IV 
 V 
- 
-Back 
-  
-## Page 77
-
-Format No: FMCD2009 /1.0  77 
- 
-Program: MBA 
+  Back 
+   ## Page 77
+ Format No: FMCD2009 /1.0 77 
+  Program: MBA 
 Course Title: Behavioral Biases and 
 Investment 
 Course Code: 21MBAE811 
 L-T-P: 2-0-1 Credits: 3 Contact Hrs: 04 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 28hrs  Exam Duration: 3 hrs 
+Teaching Hrs: 28hrs Exam Duration: 3 hrs 
 Course Content 
 Particulars 
-Module 1:                                        
-Introduction:  History of behavioral  finance, Traditional finance theories, Introduction to link 
-between behavioral finance and market behavior.                                                                          06 hrs 
-Module 2:            
-Traditional finance theories :  Capital asset pricing model, efficient frontier, efficient market 
+Module 1: 
+Introduction: History of behavioral finance, Traditional finance theories, Introduction to link 
+between behavioral finance and market behavior. 06 hrs 
+Module 2: 
+Traditional finance theories : Capital asset pricing model, efficient frontier, efficient market 
 hypothesis, expected utility theory, Modern portfolio theory 
 Behavioral finance theories: Prospect theory, mental accounting and loss aversion, value function, 
-weighting function.  06hrs 
+weighting function. 06hrs 
 Module 3: 
 Neurofinance: 
 The trinity of the brain, Traditional finance v/s Behavioural finance v/s Neurofinance, the reward 
 system of the brain, loss avoidance system of the brain, role of genes, the neural mechanism of 
 disposition effect and loss aversion, Hormone a nd its role during market volatility, Cognitive 
-strategies for strengthening financial decision making.  
+strategies for strengthening financial decision making. 
 07 hrs 
-Module 4:          
+Module 4: 
 Behavioural biases: 
 Introduction to behavioral biases, categorization of behavioral biases 
 Heuristic driven biases: 
@@ -2817,38 +2505,33 @@ References:
  Kadir C Yalcin, Behavioural finance, 2012, LAP Lambert Academic Publishing 
  Value investing and behavioral finance, Parag Parikh, McGraw Hill Education India 
 Scheme for Semester End Examination (ESA) 
- 
-UNIT 
-5 Questions  
+  UNIT 
+5 Questions 
 Each Question carries 20 
-Marks  
-Module  numbers Instructions 
- 
-UNIT I 
-I  
-All Questions Compulsory  II 
+Marks 
+Module numbers Instructions 
+  UNIT I 
+I 
+All Questions Compulsory II 
 III 
 IV 
 V 
 Back 
- 
-## Page 78
-
-Format No: FMCD2009 /1.0  78 
- 
-Program: MBA 
+  ## Page 78
+ Format No: FMCD2009 /1.0 78 
+  Program: MBA 
 Course Title: Behavioural Finance Course Code: 22MBAE811 
 L-T-P: 2-0-1 Credits: 3 Contact Hrs: 04 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 28hrs  Exam Duration: 3 hrs 
+Teaching Hrs: 28hrs Exam Duration: 3 hrs 
 Course Content 
 Particulars 
-Module 1:                                        
+Module 1: 
 Introduction: History of behavioral finance, market inefficiency, behavioral finance hypothesis and 
 rationality. Market that drives the market: Greed, Hope, and Fear. 
 05 hrs 
-Module 2:            
-Investment strategies and behavioral finance:  traditional strategies and their drawbacks, 
+Module 2: 
+Investment strategies and behavioral finance: traditional strategies and their drawbacks, 
 behavioral based modern strategies, trend in behavioral investment strategies. 
 06hrs 
 Module 3: Emotional and social forces role in behavioral finance 
@@ -2857,163 +2540,146 @@ mind and its impact on judgment to investors, application of emotional finance i
 pricing bubbles: An emotional finance perspective. 
 Social and its influence on investors behavior, culture and its impact on investors behavior, social 
 interaction an d investment, impact of social interactions on investor behavior, portfolio 
-construction with mood effects, modeling moods’ using Kano. 
+construction with mood effects, modeling moods' using Kano. 
  09 hrs 
-Module 4:          
-Institutional investors (II) behavioral biases:  understanding irrational behaviors  of II ’s, 
+Module 4: 
+Institutional investors (II) behavioral biases: understanding irrational behaviors of II 's, 
 psychological, sociological and biological factors affecting behavior, behavioral anomalies, 
-investment decision making process of II’s. Demystifying behavioral biases of portfolio managers, 
+investment decision making process of II's. Demystifying behavioral biases of portfolio managers, 
 financial analysts, planners and advisors, practical ap plication of behavioral finance, and way 
-forward.  
+forward. 
 08 hrs 
 References: 
-  Sujata Kapoor and Jaya Mamata Prosad, Behavioural finance, 2019, Sage Publication. 
+ Sujata Kapoor and Jaya Mamata Prosad, Behavioural finance, 2019, Sage Publication. 
    Scheme for Semester End Examination (ESA) 
- 
-UNIT 
-5 Questions  
+  UNIT 
+5 Questions 
 Each Question carries 20 
-Marks  
-Module  numbers Instructions 
- 
-UNIT I 
-I  
-All Questions Compulsory  II 
+Marks 
+Module numbers Instructions 
+  UNIT I 
+I 
+All Questions Compulsory II 
 III 
 IV 
- 
-Back 
-
-## Page 79
-
-Format No: FMCD2009 /1.0  79 
+  Back 
+ ## Page 79
+ Format No: FMCD2009 /1.0 79 
 Human Resource 
 Course Title: Learning and Development Course Code: 20MBAE821 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 40hrs  Exam Duration: 3 hrs 
+Teaching Hrs: 40hrs Exam Duration: 3 hrs 
 Course Content 
 Particulars Hours 
-Module 1:  
+Module 1: 
 Introduction to learning, training and development, Meaning and significance of learning, theories of 
 learning, learning process, Training meaning, significance, purpose and process, Training Department and 
-Trainers’ Roles, Employee learning cycle. 
+Trainers' Roles, Employee learning cycle. 
 08 hrs 
-Module 2:  
+Module 2: 
 Training Needs Analysis: Meaning and significance of training needs, types of needs, components of needs, 
-data collection, analysis and interpretation, Training design and development.  
+data collection, analysis and interpretation, Training design and development. 
 08hrs 
 Module 3: 
-Training methods: on the- job and off –the- job training  
+Training methods: on the- job and off -the- job training 
 Management Development Program (MDP): Need, factors affecting MDP, methods, process. Learning 
-Management System.  10 hrs 
+Management System. 10 hrs 
 Module 4: 
-Evaluating Training Programs: Meaning, significance, Donald Kirkpatrick’s evaluation model, data collection 
-for training evaluation, designs of training evaluation,  process, Return on Investment in training, a search 
-for best practices in evaluation.                                          08 hrs 
-Module 5:  
+Evaluating Training Programs: Meaning, significance, Donald Kirkpatrick's evaluation model, data collection 
+for training evaluation, designs of training evaluation, process, Return on Investment in training, a search 
+for best practices in evaluation. 08 hrs 
+Module 5: 
 Technology enabling learning : E -learning and use of techn ology for training, creativity and its role in 
-Learning and Development, knowledge management, Career in Training.  
+Learning and Development, knowledge management, Career in Training. 
 06 hrs 
-References:  
+References: 
  Noe A Raymond, Employee Training & Development, McGraw Hill Publication. 
  Rolf Lynton & Udai Pareek, Training for organizational transformation, Sage Publications, New 
 Delhi. 
  Jackie Clifford & Sara Thorpe, Workplace Learning & Development: Delivering Competitive 
 Advantage for your organisation, Kogan Page Limited (2007). 
- Tony Bingham,The New Social Learning, 1st Edition, 2012, Cengage Learning India Pvt. Ltd, New 
+ Tony Bingham, The New Social Learning, 1st Edition, 2012, Cengage Learning India Pvt. Ltd, New 
 Delhi. 
- Rao T.V, Performance Appraisal – Theory and Practice. 
- 
-Scheme for Semester End Examination (ESA) 
-  
-5 Questions  
-Each Question carries 20 Marks  
-Module  numbers Instructions 
- 
-UNIT I 
-I  
-All Questions Compulsory  II 
+ Rao T.V, Performance Appraisal - Theory and Practice. 
+  Scheme for Semester End Examination (ESA) 
+   5 Questions 
+Each Question carries 20 Marks 
+Module numbers Instructions 
+  UNIT I 
+I 
+All Questions Compulsory II 
 III 
 IV 
 V 
-  
-Back 
- 
-## Page 80
-
-Format No: FMCD2009 /1.0  80 
+   Back 
+  ## Page 80
+ Format No: FMCD2009 /1.0 80 
 Program: MBA 
 Course Title: Legal Aspects of Employment Course Code: 20MBAE822 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 40hrs  Exam Duration: 3 hrs 
+Teaching Hrs: 40hrs Exam Duration: 3 hrs 
 Course Content 
 Particulars 
-Module 1:  
+Module 1: 
 Introduction to labour legislation, Indian constitution and Labour Legislations, International Labour 
-Organization and its  influence on Labour Legislations in India.06 hrs 
+Organization and its influence on Labour Legislations in India.06 hrs 
 Module 2: 
-The Occupational Safety, Health and Working Conditions Code, 2020,  The Factories Act, 1948, 
+The Occupational Safety, Health and Working Conditions Code, 2020, The Factories Act, 1948, 
 Shops and Establishment Law, Contract Labour (Regulation and Abolition Act, 1986).10hrs 
 Module 3: 
 The Industrial Relations Code, 2020: Trade Union Act, 1926, Industrial Disputes Act, Industrial 
 Employment (Standing Orders) Act, 1946.10 hrs 
 Module 4: 
 Wage Code 2019, Minimum Wages Act, 1948, Payment of Wages Act, 1936, Equal Remuneration 
-Act, 1976, Payment of Bonus Act.                                                                                                      05 hrs 
+Act, 1976, Payment of Bonus Act. 05 hrs 
 Module 5: 
-Code on Social Security, 2020: Employees Compensation Act, 1923, The Employees ’ State 
-Insurance Act, 1948, The Maternity Benefit Act, 1961, The Employee ’s Provident Fund and 
+Code on Social Security, 2020: Employees Compensation Act, 1923, The Employees ' State 
+Insurance Act, 1948, The Maternity Benefit Act, 1961, The Employee 's Provident Fund and 
 Miscellaneous Provision Act, 1952, Payment of Gratuity Act, The Sexual Harassment of Women at 
-Workplace (Prevention, Prohibition and Redressal) Act 2013  
+Workplace (Prevention, Prohibition and Redressal) Act 2013 
 Recent amendments in labourlaws, Digital Personal Data Protection Act, 2023(DPDPA). 
                 09 hrs 
 References: 
  Pathak, A, Legal Aspects of Business, Tata McGraw Hill, 2018 
- Srivastava. S. C,  Labour Law in Factories, Mines, Plantationsetc, Printice Hall. 
+ Srivastava. S. C, Labour Law in Factories, Mines, Plantationsetc, Printice Hall. 
  Mishra S.N, Labour and Industrial Laws, Central Law Publications, Allahabad. 
- Taxman’s Labour new Labour and Industrial Laws with draft rules, 2023 
-     
-Scheme for Semester End Examination (ESA) 
- 
-UNIT 
-5 Questions  
+ Taxman's Labour new Labour and Industrial Laws with draft rules, 2023 
+      Scheme for Semester End Examination (ESA) 
+  UNIT 
+5 Questions 
 Each Question carries 20 
-Marks  
-Module  numbers Instructions 
- 
-UNIT I 
-I  
-All Questions Compulsory  II 
+Marks 
+Module numbers Instructions 
+  UNIT I 
+I 
+All Questions Compulsory II 
 III 
 IV 
 V 
- 
-Back 
- 
-## Page 81
-
-Format No: FMCD2009 /1.0  81 
-Program: MBA  
+  Back 
+  ## Page 81
+ Format No: FMCD2009 /1.0 81 
+Program: MBA 
 Course Title: HR Operations Course Code: 24MBAE823 
 L-T-P: 2-1-0 Credits: 3 Contact Hrs: 04 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 28hrs  Exam Duration: 2 hrs 
+Teaching Hrs: 28hrs Exam Duration: 2 hrs 
 Course Content 
 Particulars 
 Module 1: 
-Introduction to HR Operations , HR Policies, importance, types of HR Policies, On  boarding: 
-importance, objectives, process, HRIS (human resource information system) – concept, objectives,  
-how Managers Use the HRIS? Separation.   07 hrs 
-Module 2:         
+Introduction to HR Operations , HR Policies, importance, types of HR Policies, On boarding: 
+importance, objectives, process, HRIS (human resource information system) - concept, objectives, 
+how Managers Use the HRIS? Separation. 07 hrs 
+Module 2: 
 Compensation Management (CM): 
 Introduction to Compensation Management: Overview of HRM, role of compensation in 
 organizations, introduction to compensation management, Factors influencing employee 
-remuneration, Process of Compensation Management, Architecture of Compensation, Executive  
+remuneration, Process of Compensation Management, Architecture of Compensation, Executive 
 Compensation, flexi compensation Performance appraisal.07 hrs 
-Module 3:  
-Indian Industrial Relations (IR)  – An overview, need and objectives. Importance of harmonious IR, 
+Module 3: 
+Indian Industrial Relations (IR) - An overview, need and objectives. Importance of harmonious IR, 
 Conditions for congenial IR, IR in the post-Independence period, Conflict, Process of conflict, conflict 
 resolution 
 Grievance procedure and Discipline management: Grievance , meaning and form s, approaches to 
@@ -3024,254 +2690,225 @@ Module 4:
 Collective Bargaining in India: Definition, Essential conditions for the success of collective bargaining, 
 collective bargaining process, prerequisites for collective bargaining. Outsource employee 
 management 
-Contemporary topics.  
+Contemporary topics. 
 06 hrs 
 References: 
  MonappaArun, Industrial Relations, Tata McGraw Hill Publishing Company Ltd, 1/e, 2002. 
- Mishra S.N.Labour and Industrial Laws, Central Law Publications, Allahabad  
+ Mishra S.N.Labour and Industrial Laws, Central Law Publications, Allahabad 
  Michael J. Kavanagh (Editor) , Mohan T hite, Human Resource Information Systems: Basics, 
 Applications, and Future Directions, SAGE Publications 
- Piyali Ghosh, ShefaliNandan,  Industrial Relations and Labour Laws, McGraw Hill Education 
+ Piyali Ghosh, ShefaliNandan, Industrial Relations and Labour Laws, McGraw Hill Education 
 (India) Private Ltd. 
-       
-## Page 82
-
-Format No: FMCD2009 /1.0  82 
+        ## Page 82
+ Format No: FMCD2009 /1.0 82 
 Scheme for Semester End Examination (ESA) 
- 
-UNIT 
-5 Questions  
+  UNIT 
+5 Questions 
 Each Question carries 20 
-Marks  
-Module  numbers Instructions 
- 
-UNIT I 
-I  
-All Questions Compulsory  II 
+Marks 
+Module numbers Instructions 
+  UNIT I 
+I 
+All Questions Compulsory II 
 III 
 IV 
- 
-Back 
- 
-## Page 83
-
-Format No: FMCD2009 /1.0  83 
+  Back 
+  ## Page 83
+ Format No: FMCD2009 /1.0 83 
 Program: MBA 
-Course Title:  Emerging Trends in HR 
+Course Title: Emerging Trends in HR 
 Practices 
 Course Code: 20MBAE824 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 40hrs  Exam Duration: 3 hrs 
+Teaching Hrs: 40hrs Exam Duration: 3 hrs 
 Course Content 
 Particulars 
 Module 1: 
 Strategic Human Resource Management: strategic perspective in human resource management, 
-human resource as a competitive advantage, linkage between business strategy and HRM.  
+human resource as a competitive advantage, linkage between business strategy and HRM. 
 08 hrs 
-Module 2:  
+Module 2: 
 HRD Audit: Need for HRD Audit, Concepts of HRD Audit, Role of HRD Audit in business 
 improvement, HRD Audit Methodology and Issues. Documents to manage HR Audit08 hrs 
-Module 3:  
+Module 3: 
 HR Accounting: HR Accounting: Definition, need, methods and valuation models, benefits of 
 Human Resource Accounting. 08 hrs 
-Module 4:  
-HR Automation:Artificial Intelligence in HR: Definition of Artificial Intelligence (AI), role of Artificial 
+Module 4: 
+HR Automation: Artificial Intelligence in HR: Definition of Artificial Intelligence (AI), role of Artificial 
 Intelligence in HR, benefits of Artificial Intelligence in HR, barriers to adopting AI technologies. 10 
 hrs 
-Module 5:  
-Human Resource Management during and post pandamic,Hybrid work model, HR in Gig 
-economy,Contemporarytopics in HR. 
+Module 5: 
+Human Resource Management during and post pandamic, Hybrid work model, HR in Gig 
+economy, Contemporarytopics in HR. 
 06 hrs 
 References: 
- T. V. Rao HRD Audit, Response Books  
+ T. V. Rao HRD Audit, Response Books 
  Lyle Spencer (Jr) Re-engineering of HR, John Wiley and Sons 
- Dowling, Welch International HRM – Managing People in International Context, Thompson 
+ Dowling, Welch International HRM - Managing People in International Context, Thompson 
 Learning, South Western Publications 
  Kenneth L. Murrell and Mimi Meredith, Empowering Employees, 2000, Paperback 
- Susan E. Jackson Randall S. Schuler Strategic Human Resource Management, 2nd Ed,  2012, 
+ Susan E. Jackson Randall S. Schuler Strategic Human Resource Management, 2nd Ed, 2012, 
 Wiley India Pvt. Ltd 
  Pratyush Banerjee, Jatin Pandey and Manish Gupta, Practical Applications of HR Analytics, 
 2019, SAGE Publications India Pvt. Ltd. 
    Scheme for Semester End Examination (ESA) 
- 
-UNIT 
-5 Questions  
+  UNIT 
+5 Questions 
 Each Question carries 20 
-Marks  
-Module  numbers Instructions 
- 
-UNIT I 
-I  
-All Questions Compulsory  
- 
-Back 
+Marks 
+Module numbers Instructions 
+  UNIT I 
+I 
+All Questions Compulsory 
+  Back 
 II 
 III 
 IV 
 V 
-
-## Page 84
-
-Format No: FMCD2009 /1.0  84 
- 
-Program: MBA 
+ ## Page 84
+ Format No: FMCD2009 /1.0 84 
+  Program: MBA 
 Course Title: Talent& Competency 
 Management 
 Course Code: 20MBAE825 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 40hrs  Exam Duration: 3 hrs 
+Teaching Hrs: 40hrs Exam Duration: 3 hrs 
 Course Content 
-Particulars  
+Particulars 
 Module 1: 
 Talent acquisition & Management ; recruitment, selection & staffing in Indian & international 
-context,  different  approaches to multinational staffing decision, Pre -recruitment study through 
+context, different approaches to multinational staffing decision, Pre -recruitment study through 
 social media, cross national advertising, selection criteria & technique, interviews for international 
-selection, international staffing issues,  career planning and management, socialization of new 
+selection, international staffing issues, career planning and management, socialization of new 
 employees, Assessment and Development centres. Application Tracking system, Job portals, 
 Recruitment agencies, Evaluation of talent management strategies.10 hrs 
-Module 2:         
+Module 2: 
 Competency: meaning, definition, competencies for competitive advantage, myths about 
 competency, history of competency, hiring the best available people, development of the personal 
 competency framework. 06 hrs 
-Module 3:  
-Competency Mapping: meaning, definition & t ypes, Competency method in HRM – features & 
+Module 3: 
+Competency Mapping: meaning, definition & t ypes, Competency method in HRM - features & 
 approaches, Competency mapping procedures and steps - business strategies, performance criteria, 
 criteria sampling, tools for data collection, data analysis. 08 hrs 
-Module 4:  
+Module 4: 
 Competency Model for HR : HR-Head, HR-Manager, HR-Executive, Competency based application: 
 position requirement, HR competency audit, analysis, position fulfillment. Design of competency 
 model and Competency Gap Analysis for Team competencies and Role competencies. 08 hrs 
-Module 5:  
+Module 5: 
 HR in knowledge era : HR in knowledge industry, HR in virtual organizations, HR in mergers and 
-acquisitions, outplacement, outsourcing HR functions, employee leasing, HR audit.                 08 hrs 
-References  
-1. Ivanceivich, John M., Human Resource Management, Tata McGraw Hill, New Delhi.  
-
-## Page 85
-
-Format No: FMCD2009 /1.0  85 
-2. Dessler, Gary, Human Resource Management, Pearson Education  
-3. Mathi, Robert, and John Jackson, Human Resource Management, Thomson Learning Inc  
+acquisitions, outplacement, outsourcing HR functions, employee leasing, HR audit. 08 hrs 
+References 
+1. Ivanceivich, John M., Human Resource Management, Tata McGraw Hill, New Delhi. 
+ ## Page 85
+ Format No: FMCD2009 /1.0 85 
+2. Dessler, Gary, Human Resource Management, Pearson Education 
+3. Mathi, Robert, and John Jackson, Human Resource Management, Thomson Learning Inc 
 4. Radha R Sharma, 360 Degree feedback, Competency Mapping and assessment Centers, Tata Mc-
-Graw Hill  
+Graw Hill 
 5. Patrick Hayes, The Benefits and Challenges of Leveraging Social Media Recruitment 
-Practices,2013, Grin Verlag   Back 
+Practices, 2013, Grin Verlag Back 
 6. Sanghi, Seema. The Handbook of Competency Mappi ng: Understanding, Designing and 
 Implementin 
- 
-Scheme for Semester End Examination (ESA 
- 
-UNIT 
-5 Questions  
+  Scheme for Semester End Examination (ESA 
+  UNIT 
+5 Questions 
 Each Question carries 20 
-Marks  
-Module  numbers Instructions 
- 
-UNIT I 
-I  
-All Questions Compulsory  II 
+Marks 
+Module numbers Instructions 
+  UNIT I 
+I 
+All Questions Compulsory II 
 III 
 IV 
 V 
 Back 
- 
-## Page 86
-
-Format No: FMCD2009 /1.0  86 
+  ## Page 86
+ Format No: FMCD2009 /1.0 86 
 Program: MBA 
 Course Title: Team Development and 
 Leadership 
 Course Code: 20MBAE826 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 40hrs  Exam Duration: 3 hrs 
+Teaching Hrs: 40hrs Exam Duration: 3 hrs 
 Course Content 
 Particulars 
-Module 1:                                 
+Module 1: 
 Foundations of Group Behavior : Defining and classifying croups, stages of group development, 
-group properties, group decision making, group behavior  an Asian perspective and global 
+group properties, group decision making, group behavior an Asian perspective and global 
 implications. 
 09 hrs 
-Module 2:          
+Module 2: 
 Understanding Work Teams: Importance of teams, difference between groups and teams, types 
 of teams: problem -solving teams; self -managed work teams; cross functional teams; virtual 
 teams; creating effective teams; Factors determining team success; team composition; work 
 design and team processes, team building and team based work and global implications.10 hrs 
-Module 3:          
+Module 3: 
 Self-Managed Work Teams: Self-managed work teams: meaning and scope, potential advantages 
 and disadvantages, leadership roles (internal and external) in self-managed work teams (SMWTs) 
-– facilitating conditions for SMWTs, virtual teams: meaning, scope and objectives, advantages and 
-disadvantages, barriers to communication, challenges of supervision.   
+- facilitating conditions for SMWTs, virtual teams: meaning, scope and objectives, advantages and 
+disadvantages, barriers to communication, challenges of supervision. 
 06 hrs 
-Module 4:         
+Module 4: 
 Introduction to Leadership : Definition, role and significance of leadership in organizations, 
 theories of leadership, types of leaders, FIROB framework and Johari window. 
 09 hrs 
-Module 5:         
+Module 5: 
 Leadership in 21st century : The challenges of globalization and technology advancement to 
 leadership development, change management and leadership, Personal change in the 
 uncertainties, leadership functions, best practices in leadership developm ent, contemporary 
 leaders in business, Government and Society, Succession planning. 
 06 hrs 
 References: 
- Dr. Ratan Reddy B., Team Development &Leadership,Jaico Publishing, 2004. 
- Jai B.P. Sinha Culture and Organizational Behavior,  (Sage Texts) for Team Development, 
+ Dr. Ratan Reddy B., Team Development &Leadership, Jaico Publishing, 2004. 
+ Jai B.P. Sinha Culture and Organizational Behavior, (Sage Texts) for Team Development, 
 2008. 
  Sahu R.K, Group Dynamics, Excel Publications. 
  Lussier/Achua, Leadership Theory, Application and Skill development. 
- Gary Yukl, Leadership in Organizations (Pearson Education – LPE) for Leadership, 6/e. 
- Fred Luthons, Organizational Behavior, 10th edition, McGraw-Hill.  
+ Gary Yukl, Leadership in Organizations (Pearson Education - LPE) for Leadership, 6/e. 
+ Fred Luthons, Organizational Behavior, 10th edition, McGraw-Hill. 
  Stephen Robbins, Organizational Behavior, 11th edition, Prentice Hall of India. 
-    
-## Page 87
-
-Format No: FMCD2009 /1.0  87 
- 
-Scheme for Semester End Examination (ESA) 
- 
-UNIT 
-5 Questions  
+     ## Page 87
+ Format No: FMCD2009 /1.0 87 
+  Scheme for Semester End Examination (ESA) 
+  UNIT 
+5 Questions 
 Each Question carries 20 
-Marks  
-Module  numbers Instructions 
- 
-UNIT I 
-I  
-All Questions Compulsory  II 
+Marks 
+Module numbers Instructions 
+  UNIT I 
+I 
+All Questions Compulsory II 
 III 
 IV 
 V 
- 
-Back 
-  
-## Page 88
-
-Format No: FMCD2009 /1.0  88 
- 
-Program: MBA 
-Course Title: HR Analytics Course Code:  22MBAE821 
+  Back 
+   ## Page 88
+ Format No: FMCD2009 /1.0 88 
+  Program: MBA 
+Course Title: HR Analytics Course Code: 22MBAE821 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 40hrs  Exam Duration: 3 hrs 
+Teaching Hrs: 40hrs Exam Duration: 3 hrs 
 Course Content 
 Particulars 
-Module 1:  
+Module 1: 
 HR Analytics in Perspective: Traditional HRM, Changing Trends in HRM and Emergence of Strategic 
 HRM, Role of Analytics, Defining HR Analytics, HR Analytics: The Third Wave for HR value creation, 
 HR Measurement journey in tune with HR maturity journey Understanding the organizational 
 system (Lean), Locating the HR challenge in the system, The Scope of Big Data in HR Analytics, 
 Scope of Text Analytics in HR Analytics. 
 08 hrs 
-Module 2:  
+Module 2: 
 Understanding HR Analytics: Introduction, How to Conduct a Purposeful Workforce Analytics, Key 
 Influencers in the HR Analytics Process, Application and Status of HR Analytics. 
 HRA Frameworks: Current approaches to measuring HR and reporting value from HR 
 contributions, Strategic HR Metrics versus Benchmarking, HR Scorecards & Workforce Scorecards 
 and how they are different from HR Analytics. 
 08 hrs 
-Module 1:  
+Module 1: 
 HR Analytics in Perspective: Traditional HRM, Changing Trends in HRM and Emergence of Strategic 
 HRM, Role of Analytics, Defining HR Analytics, HR Analytics: The Third Wave for HR value creation, 
 HR Measurement journey in tune with HR maturity journey Understanding the organizational 
@@ -3288,52 +2925,43 @@ Workforce Planning and its Use - Steps to Workforce Planning- Supply, Demand, Ga
 Analysis (Markov Chain, Scatter Plot, Trend Analysis) - Job Analysis - Steps to come out with JD - 
 Types of Job Evaluation - Concepts and Metrices - Types of Job Redesign - Concepts and Metrics. 
 08 hrs 
-Module 5:  
+Module 5: 
 HR Dashboards: Statistical software used for HR analytics: MS -Excel, IBM- SPSS, IBMAMOS, SAS, 
 and R programming and data visualisation tools such as Tableau, Ploty, Click view and Fusion 
 Charts. 
 08 hrs 
-
-## Page 89
-
-Format No: FMCD2009 /1.0  89 
-  
-References: 
+ ## Page 89
+ Format No: FMCD2009 /1.0 89 
+   References: 
  Moore, McCabe, Duckworth, and Alwan. The Practice of Business Statistics: Using Data 
 for Decisions, Second Edition, New York: W.H.Freeman, 2008. 
  Predictive analytics for Human Resources, Jac Fitz- enz, John R. Mattox, II, Wiley, 2014. 
- Human Capital Analytics: Gene Pease Boyce Byerly, Jac Fitz-enz, Wiley,2013. 
+ Human Capital Analytics: Gene Pease Boyce Byerly, Jac Fitz-enz, Wiley, 2013. 
  The HR Scorecard: Linking People, Strategy, and Performance, by Brian E. Becker, Mark 
 A. Huselid, Mark A Huselid, David Ulrich, 2001. 
  HR Analytics: The What, Why and How, by Tracey Smith 
- 
-  Scheme for Semester End Examination (ESA) 
- 
-UNIT 
-5 Questions  
+    Scheme for Semester End Examination (ESA) 
+  UNIT 
+5 Questions 
 Each Question carries 20 
-Marks  
-Module  numbers Instructions 
- 
-UNIT I 
-I  
-All Questions Compulsory  II 
+Marks 
+Module numbers Instructions 
+  UNIT I 
+I 
+All Questions Compulsory II 
 III 
 IV 
 V 
- 
- Back 
- 
-## Page 90
-
-Format No: FMCD2009 /1.0  90 
+   Back 
+  ## Page 90
+ Format No: FMCD2009 /1.0 90 
 Program: MBA 
 Course Title: Emotional Intelligence in 
 Practice 
 Course Code: 24MBAE821 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 40hrs  Exam Duration: 3 hrs 
+Teaching Hrs: 40hrs Exam Duration: 3 hrs 
 Course Content 
 Particulars 
 Module 1: 
@@ -3347,20 +2975,20 @@ intelligence, Emotional Quotient Inventory (EQ -i), Mayer Salovey Caruso Emotion
 Test (MSCEIT), Emotional & Social Competence Inventory (ESCI), Self-Report Emotional Intelligence 
 Test (SREIT), Wong and Law Emotional Intelligence Scale (WLEIS), Trait Emotional Intelligence 
 Questionnaire (TEIQue), Genos Emotional Intelligence Inventory (GenosEI)10Hrs 
-Module 3:  
+Module 3: 
 Promoting Emotional Intelligence in organization: Emotional intelligence and organizational 
 behaviour, Emotional intelligence in training and development, Emotional intelligence and job 
-performance, emotional intelligence in teams and workgroups                                                 10 Hrs 
-Module 4:  
+performance, emotional intelligence in teams and workgroups 10 Hrs 
+Module 4: 
 The Power of Emotional Intelligence: Managing emotions in the workplace, emotionally 
 intelligent manager, Emotional intelligence and leadership - resonant and transformational 
 leadership, benefits of emotional intelligence: employee engagement, employee satisfaction, 
 organizational commitment, successful conflict resolution. 
 09Hrs 
-Module 5:   
-Emotional Intelligence and Everyday life: Emotional intelligence and stress  and burnout, 
-emotional intelligence and life satisfaction, emotional intelligence and  wellbeing, emotional 
-intelligence and work-life balance, smart practices  
+Module 5: 
+Emotional Intelligence and Everyday life: Emotional intelligence and stress and burnout, 
+emotional intelligence and life satisfaction, emotional intelligence and wellbeing, emotional 
+intelligence and work-life balance, smart practices 
 07 Hrs 
 References 
  Kadadi, S. V., Emotional intelligence- Encompassing Your Skill Set, Walnut Publication, 
@@ -3370,44 +2998,35 @@ References
 Bantam, 2006 
  Ciarrochi, J., Forgas, J. P ., & Mayer, J. D., Emotional Intelligence in Everyday Life (2nd 
 Edition). New York Psychology Press, Inc, 2006 
- 
-## Page 91
-
-Format No: FMCD2009 /1.0  91 
- 
-Scheme for Semester End Examination (ESA) 
- 
-UNIT 
-5 Questions  
+  ## Page 91
+ Format No: FMCD2009 /1.0 91 
+  Scheme for Semester End Examination (ESA) 
+  UNIT 
+5 Questions 
 Each Question carries 20 
-Marks  
-Module  numbers Instructions 
- 
-UNIT I 
-I  
-All Questions Compulsory  II 
+Marks 
+Module numbers Instructions 
+  UNIT I 
+I 
+All Questions Compulsory II 
 III 
 IV 
 V 
- 
-                                                                                                                                                                Back 
-  
-## Page 92
-
-Format No: FMCD2009 /1.0  92 
- 
-Program: MBA 
+                                                                                                                                                                  Back 
+   ## Page 92
+ Format No: FMCD2009 /1.0 92 
+  Program: MBA 
 Course Title: Organizational Change and 
 Development 
 Course Code: 24MBAE822 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 40hrs  Exam Duration: 3 hrs 
+Teaching Hrs: 40hrs Exam Duration: 3 hrs 
 Course Content 
 Particulars 
 Module 1: 
 Organizational change- Introduction, nature of change, Internal & External changes, types of change, Models 
-of change - Lewis’s Force field, Systems Model, Action research model, organizational vision and strategic 
+of change - Lewis's Force field, Systems Model, Action research model, organizational vision and strategic 
 planning. Resistance to change- reasons for the resistance, overcoming resistance for the change, change and 
 person and manager, systematic approach to making change- factors for effective change, skills of leaders in 
 change management, designing the change. 
@@ -3418,77 +3037,70 @@ considered, choosing and sequencing, intervention activities, classification of 
 typology of interventions based on target groups. Process of Organization Development: Entering into OD 
 relationship, developing a contract. 
 12 hrs 
-Module 3:  
+Module 3: 
 Diagnosing Organizations - Need for diagnostic models, organization, group, individual le vel diagnosis, 
 Collecting and analyzing the diagnostic information, Feeding Back of diagnostic information, Designing 
 interventions, overview of interventions, evaluating and Institutionalizing OD Interventions, OD personal & 
 Interpersonal Interventions: C areer Life Planning Interventions, Team development Interventions, role 
 analysis Intergroup Development & work team development interventions: 
 12 hrs 
-Module 4:  
+Module 4: 
 The Future of OD: The changing environment, Fundamental strengths of OD, Implications of OD for the client, 
-ethical standards in OD, OD ’s future. OD Consultant ’s role, issues in consultant -client relationship, Power, 
+ethical standards in OD, OD 's future. OD Consultant 's role, issues in consultant -client relationship, Power, 
 Politics & OD, Research on OD. Monitoring and stabilizing action programs, Emerging issues and values, Future 
 trends in OD. 
 08 hrs 
 References 
- Donald R. Brown. An experiential Approach to Organization Development Pearson 2010  
- Kavita Singh Organization Change & development Excel Books 2010  
+ Donald R. Brown. An experiential Approach to Organization Development Pearson 2010 
+ Kavita Singh Organization Change & development Excel Books 2010 
  Wendell French, Cecil Bell Organization Development: Behavioral Science Interventions for 
 Organizations Pearson 2017 
- Thomas G. Cummings, Christopher G. Worley Organization Development and Change Cengage 2014  
- Tupper Cawsy, Gene Deszca, Cynthia A. Inglos Organizational Change: An Action – Oriented Toolkit 
-Sage 2011  
-P . G. Aquinas Organization Structure and Design: Applications and Challenges Excel 2008  
-       
-## Page 93
-
-Format No: FMCD2009 /1.0  93 
+ Thomas G. Cummings, Christopher G. Worley Organization Development and Change Cengage 2014 
+ Tupper Cawsy, Gene Deszca, Cynthia A. Inglos Organizational Change: An Action - Oriented Toolkit 
+Sage 2011 
+P . G. Aquinas Organization Structure and Design: Applications and Challenges Excel 2008 
+        ## Page 93
+ Format No: FMCD2009 /1.0 93 
 Scheme for Semester End Examination (ESA) 
- 
-UNIT 
-5 Questions  
+  UNIT 
+5 Questions 
 Each Question carries 20 
-Marks  
-Module  numbers Instructions 
- 
-UNIT I 
-I  
-All Questions Compulsory  II 
+Marks 
+Module numbers Instructions 
+  UNIT I 
+I 
+All Questions Compulsory II 
 III 
 IV 
 V 
- 
-Back 
- 
-## Page 94
-
-Format No: FMCD2009 /1.0  94 
+  Back 
+  ## Page 94
+ Format No: FMCD2009 /1.0 94 
 Operations 
 Program: MBA 
 Course Title: Total Quality Management Course Code: 24MBAE831 
 L-T-P: 2-1-0 Credits: 3 Contact Hrs: 04 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 28hrs  Exam Duration: 2 hrs 
+Teaching Hrs: 28hrs Exam Duration: 2 hrs 
 Course Content 
 Particulars Hours 
-Module 1  
-Total Quality Management and Organization:  
-Customer Focus – customer perception of quality, dimensions of product and service quality cost 
-of quality, Quality loss function. Impact of poor Quality on Economy, Society and Environment  
-Total Quality Management (TQM), QM framework, benefits, awareness  and obstacles, Overview 
+Module 1 
+Total Quality Management and Organization: 
+Customer Focus - customer perception of quality, dimensions of product and service quality cost 
+of quality, Quality loss function. Impact of poor Quality on Economy, Society and Environment 
+Total Quality Management (TQM), QM framework, benefits, awareness and obstacles, Overview 
 of the contributions of various Quality Management gurus- concepts of Quality circle, Japanese 5S 
 principles, Poka-Yoke, process improvement and Kaizen 
 Quality Management System: ISO and Business Excellence Models, Need for Standardization. 
 08 hrs 
-Module 2  
-Tool kit for TQM:  
+Module 2 
+Tool kit for TQM: 
 Kano model, seven Quality Improvement tools(Q-7) 
 Quality Function Deployment: QFD, Voice of customer, House of quality 
 Six Sigma: Introduction to six sigma and various tools, DMAIC process and implementation, DPMO 
 12hrs 
-Module 3  
-TQM and Advanced Manufacturing Technology and systems:  
+Module 3 
+TQM and Advanced Manufacturing Technology and systems: 
 Lean Management System: Introduction, lean is green, leaning the business, lean manufacturing 
 system model and green manufacturing system model, lean - green management model and social 
 returns of being green. 
@@ -3498,63 +3110,55 @@ a Quality 4.0 Strategy, The 11 Axes of Quality
 Quality Management for E-Services: Quality Factors of E-service management. 
 08 hrs 
 References: 
- Chopra S and Meindl P, Supply Chain Management – Strategy, Planning and Operation, 
+ Chopra S and Meindl P, Supply Chain Management - Strategy, Planning and Operation, 
 Pearson/PHI, 4th Edition, 2011 
  Sahay BS, Supply Chain Management in the 21st Century 
  Coyle J, C John Langley, Gibson B, Novack R and Bardi E. A Logistics Approach to Supply 
 Chain Management, Cengage Learning India Pvt Ltd 
-   
-## Page 95
-
-Format No: FMCD2009 /1.0  95 
- 
-Scheme for Semester End Examination (ESA) 
- 
-UNIT 
-5 Questions  
+    ## Page 95
+ Format No: FMCD2009 /1.0 95 
+  Scheme for Semester End Examination (ESA) 
+  UNIT 
+5 Questions 
 Each Question carries 20 
-Marks  
-Module  numbers Instructions 
- 
-UNIT I 
-I  
-All Questions Compulsory  II 
+Marks 
+Module numbers Instructions 
+  UNIT I 
+I 
+All Questions Compulsory II 
 III 
- 
-Back 
- 
-## Page 96
-
-Format No: FMCD2009 /1.0  96 
+  Back 
+  ## Page 96
+ Format No: FMCD2009 /1.0 96 
 Program: MBA 
 Course Title: Service Operations 
 Management 
 Course Code: 20MBAE832 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 40hrs  Exam Duration: 3 hrs 
+Teaching Hrs: 40hrs Exam Duration: 3 hrs 
 Course Content 
 Particulars 
-Module 1:         
+Module 1: 
 Role of Services in an Economy, Service Economy, Nature of Services, Service Strategy. 
 07 hrs 
-Module 2:          
+Module 2: 
 Technology in services, Service Quality, Service Encounter, Support Facility, Service Facility 
 Location, Service Documentation. 
 08hrs 
-Module 3:         
+Module 3: 
 Forecasting Demand for services, Managing Capacity with respect to demand, managing waiting 
-lines, capacity planning, service supply relationships, impact of technology on Service Operations.  
+lines, capacity planning, service supply relationships, impact of technology on Service Operations. 
 09 hrs 
-Module 4:         
+Module 4: 
 Customer requirement assessment, cust omer satisfaction parameters and indices, customer 
 feedback collection and analysis, customer service evaluation, Service Training, Service Costing, 
-Grievance Management.  
+Grievance Management. 
 08 hrs 
-Module 5:       
+Module 5: 
 IT enabled customer service: Call-centre operations and management, web -enabled services, 
 (Enterprise Resource Planning) ERP enabled field and technical support services, telemarketing and 
-servicing. Green challenges in AI world.  
+servicing. Green challenges in AI world. 
 08 hrs 
  References: 
  Fitzsimons, AJ and Fitzsimmons MJ , Service Management Operations, Strategy and 
@@ -3565,32 +3169,27 @@ Pearson.
  Hill, AV, Field Service Management: An Integrated Approach to Increasing Customer 
 Satisfaction, Business One Irwin/ APICS 
 Scheme for Semester End Examination (ESA) 
- 
-UNIT 
-5 Questions  
+  UNIT 
+5 Questions 
 Each Question carries 20 
-Marks  
-Module  numbers Instructions 
- 
-UNIT I 
-I  
-All Questions Compulsory  II 
+Marks 
+Module numbers Instructions 
+  UNIT I 
+I 
+All Questions Compulsory II 
 III 
 IV 
 V 
- 
-      Back 
- 
-## Page 97
-
-Format No: FMCD2009 /1.0  97 
+        Back 
+  ## Page 97
+ Format No: FMCD2009 /1.0 97 
 Program: MBA 
 Course Title: Project Management Course Code: 20MBAE833 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 40hrs  Exam Duration: 3 hrs 
+Teaching Hrs: 40hrs Exam Duration: 3 hrs 
 Course Content 
-Particulars  
+Particulars 
 Module No. 1 
 Capital resource scarcity, Organizational Context, Idea generation and screening, Project feasibility 
 study -Market, Technical, Financial and environmental. 
@@ -3601,9 +3200,9 @@ Dummy activity, Computation of activity times, Critical Path, Project scheduling
 Review and Evaluation Technique, Crashing of events, resource leveling. 
 12 hrs 
 Module No. 3 
-Project Life Cycle Management: Leadership and Project Manager’s role, Scope Management, Work 
+Project Life Cycle Management: Leadership and Project Manager's role, Scope Management, Work 
 Breakdown Structure Project charter, Project Team Building, Process Groups, Conflict and 
-Negotiation, Project Appraisal, Project Closure and Termination.  Post closure analysis of project 
+Negotiation, Project Appraisal, Project Closure and Termination. Post closure analysis of project 
 impact on society and environment. 
 12 hrs 
 Module No. 4 
@@ -3619,50 +3218,45 @@ References:
  The Managerial Process, Project Management- by Clifford Gray and Erik Larson TMH, 3rd 
 Edition 
 Back 
- 
-Scheme for Semester End Examination (ESA) 
- 
-UNIT 
-5 Questions  
+  Scheme for Semester End Examination (ESA) 
+  UNIT 
+5 Questions 
 Each Question carries 20 
-Marks  
-Module  numbers Instructions 
- 
-UNIT I 
-I  
-All Questions Compulsory  II 
+Marks 
+Module numbers Instructions 
+  UNIT I 
+I 
+All Questions Compulsory II 
 III 
 IV 
 V 
- 
-## Page 98
-
-Format No: FMCD2009 /1.0  98 
+  ## Page 98
+ Format No: FMCD2009 /1.0 98 
 Program: MBA 
 Course Title: Inventory Management Course Code: 20MBAE834 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 40hrs  Exam Duration: 3 hrs 
+Teaching Hrs: 40hrs Exam Duration: 3 hrs 
 Course Content 
 Particulars 
-Module 1  
+Module 1 
 Materials Management Role of materials management - materials and profitability, Purchase 
 functions, Procurement procedures including bid systems, Vendor selection and development, 
 Vendor rating, ethics in purchasing, Roles and responsibilities of purchase professionals, Purchase 
-requisition, Purchase order, Amendments, Forms used and records maintained.  
+requisition, Purchase order, Amendments, Forms used and records maintained. 
 10 hrs 
-Module 2  
+Module 2 
 Dependent and independent demand, need for inventory, types of inventories, effect of inventory 
-on profitability.  Demand Forecasting, qualitative and quantitative methods. 
+on profitability. Demand Forecasting, qualitative and quantitative methods. 
 10 hrs 
 Module 3 
-Inventory costs, Inventory models – Economic order quantity (EOQ), Assumptions of EOQ model, 
+Inventory costs, Inventory models - Economic order quantity (EOQ), Assumptions of EOQ model, 
 Concepts of lead time, Inventory model with continuous replenishment, Inventory model with 
 discounts, Multi item inventory models, Model with uncertain demand, Inventory model with 
 variable demand and fixed lead time, Inventory model with fixed demand and variable lead time, 
-inventory model with variable demand and lead time.  
+inventory model with variable demand and lead time. 
 13 hrs 
-Module 4  
+Module 4 
 Inventory as substitute for capacity, Dependent inventory management (MRP), Collaborative 
 Planning, Forecasting and Replenishment, JIT systems. 
 03 hrs 
@@ -3675,48 +3269,40 @@ References
  Buffa and Sarin, Operations Management 
  Max Muller, Essentials of Inventory Management 
  Narasimhan Sitaraman and McLeavey Dennis, Production Planning and Inventory Control 
-      
-## Page 99
-
-Format No: FMCD2009 /1.0  99 
- 
-Scheme for Semester End Examination (ESA) 
- 
-UNIT 
-5 Questions  
+       ## Page 99
+ Format No: FMCD2009 /1.0 99 
+  Scheme for Semester End Examination (ESA) 
+  UNIT 
+5 Questions 
 Each Question carries 20 
-Marks  
-Module  numbers Instructions 
- 
-UNIT I 
-I  
-All Questions Compulsory  II 
+Marks 
+Module numbers Instructions 
+  UNIT I 
+I 
+All Questions Compulsory II 
 III 
 IV 
 V 
-     
-Back 
- 
-## Page 100
-
-Format No: FMCD2009 /1.0  100 
+      Back 
+  ## Page 100
+ Format No: FMCD2009 /1.0 100 
 Program: MBA 
 Course Title: Logistics & Warehouse 
 Management 
 Course Code: 20MBAE835 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 40hrs  Exam Duration: 3 hrs 
+Teaching Hrs: 40hrs Exam Duration: 3 hrs 
 Course Content 
 Particulars 
 Module 1 
 Introduction: Inventory Flow, Information Flow, Planning and Coordination flows, Operational 
 flows, Difference between Logistics and Supply Chain Management Linkage of Logistics to other 
-functions, Objectives of Logistics Management, 5Ps and & 7 Rs of Logistics. Modes  of 
-transportation and documentation.  
+functions, Objectives of Logistics Management, 5Ps and & 7 Rs of Logistics. Modes of 
+transportation and documentation. 
 10 hrs 
-Module 2  
-Location Selection and Network Design : Transportation – Location Trade-offs, Location Models, 
+Module 2 
+Location Selection and Network Design : Transportation - Location Trade-offs, Location Models, 
 Locating Service Organisations. Transportation Modeling, Routing, Transshipment, Multi location 
 and multi-item warehouse modeling. 
 12 hrs 
@@ -3725,83 +3311,74 @@ Warehouse Management: Warehouse Operations, Material Handling and Packaging, Par
 Service Support, Bar coding, RFID, Electronic Data Interchange (EDI), Automated material handling, 
 Warehouse Management Systems (WMS), use of robotic systems (such as KIVA systems by 
 Amazon), inventory profiling, storage policies and order sequencing policies in warehouse 
-operations.  
+operations. 
 08 hrs 
 Module 4 
 Strategic Logistic Practices: International Logistics, Third party and Fourth party logistics, ERP and 
 Ecommerce & Logistics. 
 06 hrs 
-Module 5  
+Module 5 
 Reverse Logistics and its impact on Environment: Definition, evolution and trends. Economic and 
-environmental impact.  
+environmental impact. 
 04 hrs 
 References 
- G. Raghuram and Rangaraj,Logistics and Supply Chain Management: Cases and 
+ G. Raghuram and Rangaraj, Logistics and Supply Chain Management: Cases and 
 ConceptsLaxmi Publications (2015) 
  Christopher, M; Richard Irwin Logistics and Supply Chain Management 
  Chopra and Mendal, Supply Chain Management 
-    
-## Page 101
-
-Format No: FMCD2009 /1.0  101 
-   
-Scheme for Semester End Examination (ESA) 
- 
-UNIT 
-5 Questions  
+     ## Page 101
+ Format No: FMCD2009 /1.0 101 
+    Scheme for Semester End Examination (ESA) 
+  UNIT 
+5 Questions 
 Each Question carries 20 
-Marks  
-Module  numbers Instructions 
- 
-UNIT I 
-I  
-All Questions Compulsory  II 
+Marks 
+Module numbers Instructions 
+  UNIT I 
+I 
+All Questions Compulsory II 
 III 
 IV 
 V 
-     
-Back 
- 
-## Page 102
-
-Format No: FMCD2009 /1.0  102 
+      Back 
+  ## Page 102
+ Format No: FMCD2009 /1.0 102 
 Business Analytics 
- 
-Program: MBA 
-Course Title: Data Science for Business Course Code:  24MBAE841 
+  Program: MBA 
+Course Title: Data Science for Business Course Code: 24MBAE841 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 40hrs  Exam Duration: 3 hrs 
+Teaching Hrs: 40hrs Exam Duration: 3 hrs 
 Course Content 
 Particulars 
-Module 1:                
+Module 1: 
 Introduction: What is data science, Why Data Science, Applications for data science, Data 
-Scientists Roles and Responsibility?Data  Science vs. Data Analytics,Data Science in Business, 
+Scientists Roles and Responsibility?Data Science vs. Data Analytics, Data Science in Business, 
 Market basket analysis, Natural Language processing, Network analysis, Data wrangling, 
-Supervised learning, unsupervised learning.  
+Supervised learning, unsupervised learning. 
 08hrs 
-Module 2:  
-Analytics Process:Whatis Analytics, objectives of analytics, steps in analytics process, Types of 
+Module 2: 
+Analytics Process: Whatis Analytics, objectives of analytics, steps in analytics process, Types of 
 Analytics: Big Data Analytics, Web and Social Media, Analytics project proposal, modeling process, 
 Application of models. 
 08 hrs 
-Module 3:  
+Module 3: 
 Model & Analysis: Descriptive Analytics ( Types of data measurement scale, data visualization), 
 Predictive Analytics (Regression, logistic & passion regression-nearest neighbours, Decision Trees, 
 random forest, and clustering, Prescriptive Analytics (linear programming, integer programming, 
 multi-criteria decision-making models such as goal programming and analytic hierarchy process), 
 Feature Engineering, analytics using orange and MS Excel software. 
 10 hrs 
-Module 4:          
-Introduction to Association Rule, Data Mining and Preprocessing  
+Module 4: 
+Introduction to Association Rule, Data Mining and Preprocessing 
 Data mining- definition and functionalities, KDD Process, Data Cleaning: - Missing values, Noisy 
-data, data integration and transformations, Association rule mining:support and confidence and 
+data, data integration and transformations, Association rule mining: support and confidence and 
 frequent item sets, market basket analysis, Apriori algorithm, I ncremental ARM, Associative 
 classification- Rule Mining 
 06 hrs 
-Module 5:          
+Module 5: 
 Models Implementation: Descriptive application models, Predictive application models, Model 
-Management (Model objective, Access and manage data, validate data, deploy of the  model), 
+Management (Model objective, Access and manage data, validate data, deploy of the model), 
 Underfitting, Overfitting, Evaluating Performance of Model (Confusion Matrix, F -score, Receiver 
 Operating characteristics (ROC) Curves), Model monitoring. 
 08 hrs 
@@ -3810,45 +3387,37 @@ References:
  Business Analytics: The Science of Data driven decision making, U Dinesh Kumar, Wiley. 
  Essentials of Business Analytics: An Introduction to the methodology and its application, 
 BhimasankaramPochiraju, Sridhar Seshadri, Springer. 
- Introduction to Data Science, Laura Igual Santi Seguí, Springer.  
- 
-## Page 103
-
-Format No: FMCD2009 /1.0  103 
- 
-Scheme for Semester End Examination (ESA) 
- 
-UNIT 
-5 Questions  
+ Introduction to Data Science, Laura Igual Santi Seguí, Springer. 
+  ## Page 103
+ Format No: FMCD2009 /1.0 103 
+  Scheme for Semester End Examination (ESA) 
+  UNIT 
+5 Questions 
 Each Question carries 20 
-Marks  
-Module  numbers Instructions 
- 
-UNIT I 
-I  
-All Questions Compulsory  II 
+Marks 
+Module numbers Instructions 
+  UNIT I 
+I 
+All Questions Compulsory II 
 III 
 IV 
 V 
-     
-Back 
- 
-## Page 104
-
-Format No: FMCD2009 /1.0  104 
+      Back 
+  ## Page 104
+ Format No: FMCD2009 /1.0 104 
 Program: MBA 
-Course Title:  Introduction to Python Course Code:  24MBAE843 
+Course Title: Introduction to Python Course Code: 24MBAE843 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 40hrs  Exam Duration: 3 hrs 
+Teaching Hrs: 40hrs Exam Duration: 3 hrs 
 Course Content 
 Particulars 
-Module 1:                
+Module 1: 
 Python Basics: Overview, Python Features, Basic Syntax, Variable Types, Basic Operators, decision 
 making, Loops, Python Data Structures - Lists and Tuples, Sets, Dictionaries, Date & time, Functions, 
 Scope of Variables, Function overloading, Operator overloading, Objects and Classes. 
 08hrs 
-Module 2:  
+Module 2: 
 Working with Data in Python: Reading files with Open, writing files with Open, loading data with 
 Pandas, working with and saving with Pandas, Array oriented Programming with Numpy, Data 
 cleaning and preparation, Plotting and Visualization, data Aggregation and Group Operations. 
@@ -3858,17 +3427,15 @@ Machine Learning and Cognitive Intelligence: Introduction to Machine Learning - 
 Evolution, Machine Learning categories: Supervised, Unsupervised and Reinforcement learni ng. 
 Framework for building ML Systems, Introduction to deep learning, neural networks. 
 08 hrs 
-
-## Page 105
-
-Format No: FMCD2009 /1.0  105 
-Module 4:          
+ ## Page 105
+ Format No: FMCD2009 /1.0 105 
+Module 4: 
 Supervised Learning: Introduction to classification, Linear Regression, Metrics for evaluating linear 
 model, Multivariate regression, Non -Linear Regression, K -Nearest Neighbour, Decision Trees, 
 Logistic Regression, Support Vector Machines, Model Evaluation, Applications of su pervised 
 learning in multiple domains. 
 07 hrs 
-Module 5:          
+Module 5: 
 Reinforcement learning & Unsupervised Learning: Clustering, Hierarchical clustering, Partitioning 
 Clustering- K-mean clustering, Applications of unsupervised learning in multiple domains, 
 Introduction to Reinforcement learning, Types and SARSA, Deep Q -Networks (DQN), and policy 
@@ -3876,191 +3443,167 @@ gradient methods like Trust Region Policy Optimization (TRPO) and Proximal Polic
 (PPO). 
 09 hrs 
 References: 
- Machine Learning. by Saikat Dutt (Author),  Subramanian Chandramouli (Author), Amit 
+ Machine Learning. by Saikat Dutt (Author), Subramanian Chandramouli (Author), Amit 
 Kumar Das ,Pearson Publication 1st Edition ,2018 
  Business Analytics: The Science of Data driven decision making, U Dinesh Kumar, Wiley 
- 
-Scheme for Semester End Examination (ESA) 
- 
-UNIT 
-5 Questions  
+  Scheme for Semester End Examination (ESA) 
+  UNIT 
+5 Questions 
 Each Question carries 20 
-Marks  
-Module  numbers Instructions 
- 
-UNIT I 
-I  
-All Questions Compulsory  II 
+Marks 
+Module numbers Instructions 
+  UNIT I 
+I 
+All Questions Compulsory II 
 III 
 IV 
 V 
-     
-Back 
- 
-## Page 106
-
-Format No: FMCD2009 /1.0  106 
+      Back 
+  ## Page 106
+ Format No: FMCD2009 /1.0 106 
 Program: MBA 
 Course Title: Data Visualization using Power 
 BI 
-Course Code:  24MBAE844 
+Course Code: 24MBAE844 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 40hrs  Exam Duration: 3 hrs 
+Teaching Hrs: 40hrs Exam Duration: 3 hrs 
 Course Content 
 Particulars 
-Module 1:      
+Module 1: 
 Getting Started with Visualization : 
 Introduction to Data Visualization - The role of data visualization in data analysis and 
 Communication, Types of data visualizations (e.g., charts, graphs, maps), Data visualization tools 
 and software, Overview of popular data visualization tools and softw are (e.g., Tableau, Excel, 
-Python libraries), Importance of visual hierarchy and consistency in visualization design.  
-Dimensions vs. Measures, Discrete vs Continuous, Application of Discrete and Continuous Fields  
+Python libraries), Importance of visual hierarchy and consistency in visualization design. 
+Dimensions vs. Measures, Discrete vs Continuous, Application of Discrete and Continuous Fields 
 08hrs 
-Module 2:  
-Exploratory Data Visualization  
+Module 2: 
+Exploratory Data Visualization 
 Data exploration and visual data profiling, Univariate and multivariate data visualization, 
 Visualizing patterns, outliers, and distributions, Storytelling with Data, Narrative structure in data 
 storytelling, building data-driven narratives, using visualizations to support storytelling. 
 08 hrs 
 Module 3: 
 Introduction to PowerBI 
-Working with data – Importing from flat files, excel files, other Sources, Data Sources in Power BI 
+Working with data - Importing from flat files, excel files, other Sources, Data Sources in Power BI 
 Desktop, Loading Data in Power BI Desktop, Views in Power BI Desktop, Query Editor in Power BI 
 10 hrs 
-
-## Page 107
-
-Format No: FMCD2009 /1.0  107 
-Module 4:          
+ ## Page 107
+ Format No: FMCD2009 /1.0 107 
+Module 4: 
 Data Transformation : 
 Transform, Clean, Shape, and Model Data Manage Data Relationship, editing a 
 Relationship, Cross Filter Direction, Saving Work file Measures. Data Analysis Expressions 
 06 hrs 
-Module 5:          
-Introduction to Power Query & Power Map – Introduction to Power View – Power View 
-visualizations – Power View filtering options ,Preparing geospatial data – Publish from Power BI 
-desktop – Publish Dashboard to Web.  
+Module 5: 
+Introduction to Power Query & Power Map - Introduction to Power View - Power View 
+visualizations - Power View filtering options ,Preparing geospatial data - Publish from Power BI 
+desktop - Publish Dashboard to Web. 
 08 hrs 
 References: 
-  "Storytelling with Data: A Data Visualization Guide for Business Professionals" by Cole 
-Nussbaumer Knaflic: Focuses on the art of storytelling through data visualization.  
+ "Storytelling with Data: A Data Visualization Guide for Business Professionals" by Cole 
+Nussbaumer Knaflic: Focuses on the art of storytelling through data visualization. 
  "The Visual Display of Quantitative Information" by Edward R. Tufte: A classic book on data 
-visualization principles.  
+visualization principles. 
  "Data Points: Visualization That Means Something" by Nathan Yau: Explores the principles 
 of meaningful data visualization. 
-        
-Scheme for Semester End Examination (ESA) 
- 
-UNIT 
-5 Questions  
+         Scheme for Semester End Examination (ESA) 
+  UNIT 
+5 Questions 
 Each Question carries 20 
-Marks  
-Module  numbers Instructions 
- 
-UNIT I 
-I  
-All Questions Compulsory  II 
+Marks 
+Module numbers Instructions 
+  UNIT I 
+I 
+All Questions Compulsory II 
 III 
 IV 
 V 
-     
-Back 
- 
-## Page 108
-
-Format No: FMCD2009 /1.0  108 
- 
-Program: MBA 
-Course Title: DBMS for Managers Course Code:  24MBAE845 
+      Back 
+  ## Page 108
+ Format No: FMCD2009 /1.0 108 
+  Program: MBA 
+Course Title: DBMS for Managers Course Code: 24MBAE845 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 40hrs  Exam Duration: 3 hrs 
+Teaching Hrs: 40hrs Exam Duration: 3 hrs 
 Course Content 
 Particulars 
-Module 1:                
+Module 1: 
 Introduction : 
 Introduction to Database systems, basic concepts and definitions: Data, Information, Data 
 Warehouse, Fields, Records, Files. What is Database Management System, History of Database 
-System ,Purpose of Database System, Advantages and Disadvantages of Database System  
+System ,Purpose of Database System, Advantages and Disadvantages of Database System 
 06hrs 
-Module 2:  
-Different Databases and Transactions:  
-Data administrator- Functions and responsibilities of Data base Administrator (DBA),Types  of 
+Module 2: 
+Different Databases and Transactions: 
+Data administrator- Functions and responsibilities of Data base Administrator (DBA),Types of 
 Database systems: centralized database systems, parallel database Systems, client/server database 
 systems, Distributed database systems. 
 06 hrs 
-Module 3:  
+Module 3: 
 Introduction to E-R Data Model and RDBMS: The Relational Model, Introduction to SQL Working 
 with relations of RDBMS, Advantages and Disadvantages of Relational Database System. E-R Data 
 Model: Introduction, Basic E-R Concepts-Entities, relationship, Attributes & constraints. 
 08 hrs 
-
-## Page 109
-
-Format No: FMCD2009 /1.0  109 
-Module 4:  
-Introduction to SQL  : 
-Installation of  SQL , SQL: Data Definition, datatypes, schema definition, Basic structure of SQL 
+ ## Page 109
+ Format No: FMCD2009 /1.0 109 
+Module 4: 
+Introduction to SQL : 
+Installation of SQL , SQL: Data Definition, datatypes, schema definition, Basic structure of SQL 
 Queries, Creating tables, DML operations, DDL commands for creating and altering, Set Operations, 
 Aggregate Functions, NULL values 
 10 hrs 
-Module 5:    
-Database Queries    
+Module 5: 
+Database Queries 
 Creating a database and other relevant feature. Creating a new table, naming the fields, table 
 design, changing the table design, insert and delete a field, Understanding unique values, 
 choosing and Setting primary key, creating composite primary keys, indexing , Manipulating the 
 table in database, (renaming, deleting, copying in database), adding records,, Performing 
-operations (insert, delete, update) Sorting and filtering the data ,Data Normalization  
+operations (insert, delete, update) Sorting and filtering the data ,Data Normalization 
 10 hrs 
 References: 
-  Database Systems Concepts, Design and Applications, S K Singh, Pearson  
-  Microsoft Office Access 2007 -Bible, Groh, Stockman, Powell, Prague, Irwin, Reardon, 
+ Database Systems Concepts, Design and Applications, S K Singh, Pearson 
+ Microsoft Office Access 2007 -Bible, Groh, Stockman, Powell, Prague, Irwin, Reardon, 
 Wiley, Latest Edition 
- Ramez Elmasri ,ShamkantB.Navathe, Fundamentals of Database systems:, Pearson  
+ Ramez Elmasri ,ShamkantB.Navathe, Fundamentals of Database systems:, Pearson 
 Publications ,2019 
-   
-Scheme for Semester End Examination (ESA) 
- 
-UNIT 
-5 Questions  
+    Scheme for Semester End Examination (ESA) 
+  UNIT 
+5 Questions 
 Each Question carries 20 
-Marks  
-Module  numbers Instructions 
- 
-UNIT I 
-I  
-All Questions Compulsory  II 
+Marks 
+Module numbers Instructions 
+  UNIT I 
+I 
+All Questions Compulsory II 
 III 
 IV 
 V 
-     
-Back 
- 
-## Page 110
-
-Format No: FMCD2009 /1.0  110 
- 
-Program: MBA 
-Course Title: Perspective Analytics  Course Code:  25MBAE841  
+      Back 
+  ## Page 110
+ Format No: FMCD2009 /1.0 110 
+  Program: MBA 
+Course Title: Perspective Analytics Course Code: 25MBAE841 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 40hrs  Exam Duration: 3 hrs 
+Teaching Hrs: 40hrs Exam Duration: 3 hrs 
 Course Content 
-Particulars  
-Module 1:                
+Particulars 
+Module 1: 
 Introduction to Perspective analytics: 
 Prescriptive analytics, Prescriptive versus predictive analytics, Importance of Prescriptive 
 analytics, Applications of Perspective 
 05hrs 
-Module 2:  
-Linear Programming:  
+Module 2: 
+Linear Programming: 
 Introduction, assumptions formulation for LPP , Cases on unique, multiple, unbounded and 
-infeasible optimal solutions, Goal programming.  
+infeasible optimal solutions, Goal programming. 
 Method to obtain optimal Solution: Graphical method, simplex method, Big-M method 
 (Software tools to introduce- MS-Solver or TORA) 
 10 hrs 
-Module 3:  
+Module 3: 
 Transportations problems: 
 Introduction to TP. Initial basic feasible solution using NWCRM, MMM, VAM. Degeneracy and No-
 Degeneracy in TP. Test for optimality using MODI method. 
@@ -4068,53 +3611,47 @@ Assignment problem:
 Introduction to AP. Formulation of AP and obtaining optimum solution using Hungarian method. 
 (Software tools for hands on experience- MS-Solver or TORA) 
 09 hrs 
-
-## Page 111
-
-Format No: FMCD2009 /1.0  111 
-Module 4:  
+ ## Page 111
+ Format No: FMCD2009 /1.0 111 
+Module 4: 
 Game &Queuing Theory: 
 Meaning and Characteristics of the queuing system, Types of queuing models, Introduction to 
 Game theory. Formulation of payoff matrix. Pure and Mixed Strategy. Zero sum game. Minimax 
 and Maxmin Criterion. Dominance Principal. 
 08 hrs 
-Module 5:    
-Multi-attribute decision-making (MADM)     
+Module 5: 
+Multi-attribute decision-making (MADM) 
 Interpretive Structural Modeling (ISM ): Conceptual view of ISM, complex problems & solution 
 forming processes, Creating an interpretive structural model. 
 Analytical hierarchy process (AHP): Meaning MCDM, Analytical hierarchy process structure of a 
-decision problem, Saaty’s scale, structuring hierarchy problems. 
+decision problem, Saaty's scale, structuring hierarchy problems. 
 Technique for Order of Preference by Similarity to Ideal Solution (TOPSIS) 
 Simulation: Meaning, Types, Steps, Monte Carlo Simulation, Random number generations. 
 08 hrs 
 References: 
  Vohra N. D., 2004, Quantitative Techniques in Management, Tata-McGraw Hill. 
- J K Sharma, Operations Research, Theory and Applications, Trinity press,5th 
+ J K Sharma, Operations Research, Theory and Applications, Trinity press, 5th 
 Edition 
- Prem Kumar Gupta and Hira D. S., 2007, Operations Research, S Chand & Co.  
+ Prem Kumar Gupta and Hira D. S., 2007, Operations Research, S Chand & Co. 
  Ravindran A., Don T. Phillips, and James J. Solberg, 1987, Operations Research: 
-Principles and Practice, 2nd edition, Wiley International.   
+Principles and Practice, 2nd edition, Wiley International. 
  Thomas L Saaty, Luis G Vargas, Models, Methods, Concepts & Applications of the 
 Analytic Hierarchy Process, Springer publication ,2012 
  Sharan B. Merriam, Elizabeth J. Tisdell ,Qualitative Research: A Guide to Design 
 and Implementation ,Jossey-Bass publication , 4th edition , 2015 
  U Dinesh Kumar. Business Analytics: The Science of Data-Driven Decision Making. 
 Wiley India, 2017 
- 
-Scheme for Semester End Examination (ESA) 
- 
-UNIT 
-5 Questions  
+  Scheme for Semester End Examination (ESA) 
+  UNIT 
+5 Questions 
 Each Question carries 20 
-Marks  
-Module  numbers Instructions 
- 
-UNIT I 
-I  
-All Questions Compulsory  II 
+Marks 
+Module numbers Instructions 
+  UNIT I 
+I 
+All Questions Compulsory II 
 III 
 IV 
 V 
-     
- Back 
+       Back 
  

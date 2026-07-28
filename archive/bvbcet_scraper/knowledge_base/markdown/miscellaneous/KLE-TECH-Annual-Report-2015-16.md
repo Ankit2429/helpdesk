@@ -1,17 +1,12 @@
 # PDF Document: KLE-TECH-Annual-Report-2015-16
-
-**PDF Source:** https://www.kletech.ac.in/pdf/KLE-TECH-Annual-Report-2015-16.pdf
-
-## Page 1
-
-2015 -16
+ **PDF Source:** https://www.kletech.ac.in/pdf/KLE-TECH-Annual-Report-2015-16.pdf
+ ## Page 1
+ 2015 -16
 www.kletech.ac.in
 ANNUAL
 Report
-
-## Page 2
-
-Our Parent Organization: 
+ ## Page 2
+ Our Parent Organization: 
 Karnataka Lingayat Education Society (KLE Society)
 Initiatives by private organizations and dedicated individuals have played a critical role in the growth 
 of higher education in India. In 1916, a dedicated group of individuals enabled a dream. Their vision 
@@ -25,22 +20,20 @@ of the country.
 Apart from establishing educational institutions, the KLE Society has earned the distinction in the 
 field of health care and other community services. It has entered into collaboration with universities 
 abroad in USA, UK & Malaysia. Through its 254 institutions, KLE Society is rendering services in the 
-areas of:  
-   Health Care and Medicine
-   Engineering and Technology
-   Management Studies
-   Agriculture
-   Arts, Science and Commerce
-  Teachers training
-   Primary and secondary education
-    Law
+areas of: 
+ Health Care and Medicine
+ Engineering and Technology
+ Management Studies
+ Agriculture
+ Arts, Science and Commerce
+ Teachers training
+ Primary and secondary education
+ Law
 With a visionary leadership of Chairman Dr . Prabhakar Kore, and members of Board of Management, 
-the society’s institutions serve more than 1,25,000 students. Over 16,000 dedicated faculty and 
+the society's institutions serve more than 1, 25, 000 students. Over 16, 000 dedicated faculty and 
 staff work together to meet the high standards set by the management.
-
-## Page 3
-
-CONTENTS
+ ## Page 3
+ CONTENTS
 02
 FOREWORD
 03
@@ -74,16 +67,14 @@ CAPITAL & IT
 GOVERNANCE
 32
 KLE TECH EXECUTIVE TEAM
-
-## Page 4
-
-2   | KLE Tech
+ ## Page 4
+ 2 | KLE Tech
 Foreword
 Dr . Ashok S. Shettar
 Vice Chancellor
 Dr . Prabhakar Kore
 Chancellor
-We are proud to present the first annual report of  KLE Technological University, Hubballi, for the year 
+We are proud to present the first annual report of KLE Technological University, Hubballi, for the year 
 2015-16. This report summarizes the achievements and progress we have made over the last year to 
 improve our academic offerings and student services. 
 Our faculty is making progress towards providing a truly world-class learning environment by adopting 
@@ -94,10 +85,8 @@ We would like to extend our sincere thanks to our faculty, staff, students, alum
 their continued support and remarkable contributions. Looking ahead, we will continue to work towards 
 realizing our vision to be a leader in engineering education, and advancing research and innovation to 
 support socio-economic development of the region.
-
-## Page 5
-
-  www.kletech.ac.in  |  3 
+ ## Page 5
+   www.kletech.ac.in | 3 
 Introduction
 KLE Technological University (KLE Tech) has 
 its roots in one of the premier engineering 
@@ -152,13 +141,11 @@ as one of the best engineering college
 combined with brand equity of KLE Society 
 are the starting points for KLE Technological 
 University to emerge as a University with a 
-national distinction.  
+national distinction. 
 Creating Value
 Leveraging Knowledge
-
-## Page 6
-
-4   | KLE Tech
+ ## Page 6
+ 4 | KLE Tech
 Admission Process
 The University does not conduct a separate 
 test for the admissions. The admission 
@@ -182,7 +169,7 @@ test and qualifying examination score, while
 allotting the ranks.
 2. All India Examination conducted by the 
 Consortium of Medical, Engineering & 
-Dental Colleges of Karnataka (COMED-K):  
+Dental Colleges of Karnataka (COMED-K): 
 Admissions to 30 % of seats in unaided 
 courses are done on the basis of COMED-K-
 rankings. The seats are allotted by COMED-K 
@@ -198,10 +185,8 @@ records of qualifying examinations.
 Common Entrance Test (PGCET) conducted 
 by Karnataka examination authority, is used 
 for the selection of students.
-
-## Page 7
-
-  www.kletech.ac.in  |  5 
+ ## Page 7
+   www.kletech.ac.in | 5 
 Postgraduate Programs
 Research Programs
 Undergraduate Programs
@@ -216,13 +201,13 @@ Sl.No. Programme Sanctioned Intake
 8 Architecture 60
 1080
 Sl.No. Programme Sanctioned Intake
-1  Structural Engg. 18
-2  Production management 18
-3   Energy Systems Engg. 18
-4  Computer Science &Engg. 24
-5  Digital Electronics 24
-6  VLSI Design & Testing 24
-7  Machine Design 24
+1 Structural Engg. 18
+2 Production management 18
+3 Energy Systems Engg. 18
+4 Computer Science &Engg. 24
+5 Digital Electronics 24
+6 VLSI Design & Testing 24
+7 Machine Design 24
 8 Master of Computer Application 60
 9 Master of Business Administration 60
 270
@@ -232,12 +217,10 @@ Sl.No. Programme
 3 School of Computer Science & Engineering
 4 School of Electrical & Electronics Engineering
 5 School of Management and Social Sciences
-6 School of Mechanical Engineering             
+6 School of Mechanical Engineering 
 7 Centre for Engineering Education Research
-
-## Page 8
-
-6   | KLE Tech
+ ## Page 8
+ 6 | KLE Tech
 Student admissions for the year 2015-16 - UG
 Student admissions for the year 2015-16 - PG
 Student Enrollment 2015 -16 Student Gender (UG) 2015 -16
@@ -296,10 +279,8 @@ PG
 38%
 Male
 Female
-
-## Page 9
-
-  www.kletech.ac.in  |  7 
+ ## Page 9
+   www.kletech.ac.in | 7 
 The initiatives undertaken to enhance the quality of education and student performance are presented 
 under following three tenets of academic quality
   Advances in Curriculum
@@ -327,10 +308,8 @@ a culture of continuous improvement that
 strengthens our academic quality and inspires 
 student achievement.
 Academic Quality
-
-## Page 10
-
-8   | KLE Tech
+ ## Page 10
+ 8 | KLE Tech
 Advances in Curriculum
 The University has undertaken a comprehensive 
 curricular reform process by adopting Outcome 
@@ -345,22 +324,20 @@ acquire as they progress through the program.
 A methodology to map the outcomes through 
 curriculum and assessment of attainment of 
 outcomes is established by the college. For each 
-course,  a set of Course Learning Outcomes (CLOs) 
+course, a set of Course Learning Outcomes (CLOs) 
 were defined and mapped to the POs. A method 
 for assessing individual CLOs was developed. 
 Overall success in attainment of each outcome is 
 identified by analyzing combination of individual 
-course reports and student works.  The frame 
+course reports and student works. The frame 
 work adopted by the college is depicted in the 
 Figure below.
 KLE Tech
-
-## Page 11
-
-  www.kletech.ac.in  |  9 
+ ## Page 11
+   www.kletech.ac.in | 9 
 Major Academic initiatives Undertaken:
-Introducing 'Engineering Exploration’
-A new course by name “Engineering Exploration” is introduced 
+Introducing 'Engineering Exploration'
+A new course by name "Engineering Exploration" is introduced 
 in the new curriculum of KLE Tech from the year 2015-2016. 
 This course is co-designed with Virginia Tech, USA keeping in 
 line with global best practices of Engineering Education and 
@@ -375,13 +352,13 @@ is the involvement of faculty members drawn from different
 engineering disciplines in design and delivery of the course.
 During the first academic year 2015-16 following are the major academic initiatives undertaken to improvise 
 the teaching and learning process.
-Social Innovations                 
-A course on ‘Social Innovation’ has been conceptualized and 
+Social Innovations 
+A course on 'Social Innovation' has been conceptualized and 
 offered to the students of first year undergraduate engineering. 
 The objectives of the course are as follows:
-•  To build students’ capacity to use problem solving skills to 
+• To build students' capacity to use problem solving skills to 
 address social issues through innovative solutions.
-•  To transform students' perspective on the world around 
+• To transform students' perspective on the world around 
 them by enabling them to identify areas ripe for innovation.
  Last year, over 250 projects in social space are done by First 
 year undergraduate engineering students, which help them 
@@ -391,7 +368,7 @@ Education:
 Most of the M.Tech students join teaching profession after their 
 degree without any training in teaching. It was felt necessary to 
 expose them to Basics of Engineering Education through a new 
-course “Principles and Practices of Engineering Education”. It is 
+course "Principles and Practices of Engineering Education". It is 
 introduced as a core course for all MTech courses of KLE Tech 
 from 2015-2016 in 2nd semester . The course is designed based 
 on the rich experience of KLE Tech in practicing Outcome Based 
@@ -401,10 +378,8 @@ KLE Tech is one of the first few Institutions in India offering PhD in Engineeri
 started from 2015-2016. This program is designed with a vision of contributing to leadership development in 
 Engineering Education. Experiences of a few of the leading universities in the world are used in designing the 
 program.
-
-## Page 12
-
-10   | KLE Tech
+ ## Page 12
+ 10 | KLE Tech
 Faculty Development Programmes
 Teachers provided with financial support to attend conferences / workshops and towards membership fee of 
 professional bodies during the year 2015-16
@@ -418,75 +393,73 @@ Amount of
 support 
 (in INR)
 2015 -16 Suhas B Shirol Workshop on "VLSI Verification" during 20th July 
-to 1st August 2015 at BMS College Bangalore Workshop 64,112.00         
+to 1st August 2015 at BMS College Bangalore Workshop 64, 112.00 
 2015-16 Vishal B Pattanashetty
 International Conference on "International 
 Transportation Electrification Conference India 
 2015" during August 27th - 29th, 2015 at 
 Chennai 
-Conference 36,590.00         
+Conference 36, 590.00 
 2015-16 Ashok M Sajjan
 International Conference on "Direct Digital 
 Manufacturing and Polymers" (ICDDMAP2015) 
 during 28th to 31st Oct 2015 at Dharwad
-Conference 5,700.00           
+Conference 5, 700.00 
 2015-16 G V Muddapur
 International Conference on "Condensed Matter 
 & Appled Physics" (ICC 2015). during 30-31 Oct 
 2015 at Rajasthan
-Conference 13,020.00         
+Conference 13, 020.00 
 2015-16 R M Banakar
 International Conference on "Green Computing 
 & Internet of Things" during 8-10 Oct 2015 at 
 Delhi.
-Conference 23,400.00         
+Conference 23, 400.00 
 2015-16 Nitya N Kulkarni
 3'rd International Conference on "Innovations in 
 Computer Science & Engineering" (ICICSE 
 2015) during 7-8th August 2015 at Hyderbad
-Conference 5,295.00           
+Conference 5, 295.00 
 2015-16 Kiran R Patil + Rohini Jyoti + Sushma V
 International Symposium on "Advances in Power 
 Distribution Engineering: Distributed Generation, 
 Micro-Grid and Renewable Integration" during 
 28th - 29th August 2015 at Mysure.
-Conference 25,064.00         
+Conference 25, 064.00 
 2015-16 Aravind Kulkarni
 Workshop on "Make in India Through 
 Engineering Education and to share the 
-experiences"  during 3rd Oct 2015 at NITK 
+experiences" during 3rd Oct 2015 at NITK 
 Suratkal
-Workshop 9,009.00           
+Workshop 9, 009.00 
 2015-16 Aravind Kulkarni CII National Conclave on "Higher Education" 
-during 18 and 19 Nov 2015 at Coimbatore Conference 7,440.00           
+during 18 and 19 Nov 2015 at Coimbatore Conference 7, 440.00 
 2015-16 Bharati M Shettar
 International Conference on "Mathematics 
 2015" during 26-28 Nov 2015 at 
 Thiruvanathapuram, Kerala. 
-Conference 18,455.00          
-2015-16 Nagaraj Navalgund Work shop on "MOOCS" during  at IIMB Workshop 5,938.00             
+Conference 18, 455.00 
+2015-16 Nagaraj Navalgund Work shop on "MOOCS" during at IIMB Workshop 5, 938.00 
 Ȁ
 ʹͲͳͷǦͳ͸
-
-## Page 13
-
-  www.kletech.ac.in  |  11 
+ ## Page 13
+   www.kletech.ac.in | 11 
 Research and Innovation
 To meet its growth aspirations, one of the challenges faced by the college is to transform itself from a good 
 teaching institute to an excellent teaching and research institute. It is important that we need to further the 
 research and developmental activities for the following:
 • To sustain academic and professional reputation in knowledge-based economy 
-•  To attract and retain high quality faculty and students
+• To attract and retain high quality faculty and students
 • To maintain cutting-edge curriculum and create stimulating learning environment
 • To improve undergraduate teaching, because a researcher; (i) is a better thinker and problem solver, 
- (ii) can promote active teaching & (iii) can create enthusiasm  
+ (ii) can promote active teaching & (iii) can create enthusiasm 
 • To align academic activities with economic development of the region.
 Research centers
 BVBCET has 13 research centers affiliated to VTU with 56 doctoral faculty guiding 159 registered doctoral 
 students. Awarded Doctoral and MS candidates from these research centers are 28 and 2 respectively. The 
 following table presents details about the research-centers.
 Table-2: Details of registered PhD candidates at KLE TECH
-Sl. No. Department No. of PhD Guide No. of PhD  registered
+Sl. No. Department No. of PhD Guide No. of PhD registered
 1 Biotechnology 3 3
 2 Civil and Environmental Engineering 3 3
 3 Computer Science & Engineering 5 7
@@ -497,19 +470,17 @@ Sl. No. Department No. of PhD Guide No. of PhD  registered
 8 Social Sciences 1 2
 9 Applied Sciences 5 5
 Total 27 32
-
-## Page 14
-
-12   | KLE Tech
+ ## Page 14
+ 12 | KLE Tech
 Summary of publications
 The following table summarizes the number of publications of research work in refereed conferences and 
 journals at national and international level.
 Table-3: Summary of papers published during 2013-14, 2014-15 & 2015-16
 Year
 Int Journal
-National    
+National 
 Journal
-International  
+International 
 Conference
 National 
 Conference Total Impact factorImpact 
@@ -534,24 +505,21 @@ Maximum=5.46
 Total 114 265 33 415 114 941
 Summary of external funded projects
 Research grants received: 2008-2016
-Number of research projects     : 16
+Number of research projects : 16
 Number of modernization projects : 05
-Total Amount   : 175.65L+46.9L = 222.55 L
-Funding agencies   : DST, NRB, AICTE, VTU & VGST
+Total Amount : 175.65L+46.9L = 222.55 L
+Funding agencies : DST, NRB, AICTE, VTU & VGST
 Summary of external funded projects 
 Research grants received: 2012-2016
-
-## Page 15
-
-  www.kletech.ac.in  |  13 
+ ## Page 15
+   www.kletech.ac.in | 13 
 SI.NO Year Number of projects Amount sanctioned Funding Agency
 1 2012-2013 01 20.0 L VGST
-2 2013-2014 05 81.64 L AICTE, DRDO, DST,VGST
-3 2014-2015 03 14.0 L UAS,VGST
+2 2013-2014 05 81.64 L AICTE, DRDO, DST, VGST
+3 2014-2015 03 14.0 L UAS, VGST
 4 2015-16 02 23.31 L UAS, Continental Ltd Bangalore
 TOTAL 11 138.95 L
- 
-Year Number of REU 
+  Year Number of REU 
 students
 Number of 
 Guides
@@ -577,20 +545,18 @@ Research Experience for Undergraduates (REU)
 Undergraduate research opportunities help the student to experience and learn how to identify and define 
 the problems and solve them, how to find and evaluate evidence, how to consider and assess competing 
 interpretations, how to form and test their own analysis and interpretations and how to communicate their 
-ideas and findings. These learning’s enable them to take part in the research missions in their future career 
+ideas and findings. These learning's enable them to take part in the research missions in their future career 
 inside or outside academia.
-Probably our college is the first institution in India to introduce ‘Research Experience for Undergraduate (REU)
-s’ in the curriculum as an optional course. The response from the students and faculty mentors has been 
+Probably our college is the first institution in India to introduce 'Research Experience for Undergraduate (REU)
+s' in the curriculum as an optional course. The response from the students and faculty mentors has been 
 overwhelmingly positive. The students and faculty mentors have devoted considerable time and effort to 
 make the experience worthwhile and fruitful.
 Summary of outcome of the REU course is reflected in the following table. In the first year, 18 REU students 
 have published 25 papers in international conferences and journals, and 8 of them have either completed or 
 doing post graduation. About 25% of the total REU students from 2011-15 are doing post graduation either in 
 India or abroad
-
-## Page 16
-
-14   | KLE Tech
+ ## Page 16
+ 14 | KLE Tech
 Setting up of Research clusters
 To promote interdisciplinary research in emerging and high impact areas, the college has undertaken initiative 
 to establish research clusters. Our aim is to develop these Clusters to a level of competency that, they can 
@@ -600,11 +566,11 @@ National and International level. Following three areas for clusters of competen
 on present strengths and future needs.
 ESDM Cluster 
 Focus areas of this cluster are:
- 1. Internet of Things                                                                   
+ 1. Internet of Things 
  2. Agriculture
  3. Industrial Automation
 Outcomes:
- • Total project proposals sent in 2015-16:  4
+ • Total project proposals sent in 2015-16: 4
  • Number of products in progress: 1
  • Number of Industry and Institute collaborations: 2
 Centre for Material Science
@@ -617,48 +583,43 @@ Focus areas of this cluster are:
 2. Biosynthesis of Nano particles for Gas sensing, biological applications 
  a. Multi gas sensors
  b. Agricultural applications
-3.   Membranes for fuel cell and Pervaporation applications 
+3. Membranes for fuel cell and Pervaporation applications 
  a. Fuel Cell Membranes
  b. Pervapouration Membranes
  c. Gas membranes
 4. Bio-plastic production 
  a. Bioplastic material
  b. Environmental applications
-5.  Biochemical Sensors using III-nitride nanostructures 
-
-## Page 17
-
-  www.kletech.ac.in  |  15 
+5. Biochemical Sensors using III-nitride nanostructures 
+ ## Page 17
+   www.kletech.ac.in | 15 
 Outcomes:
 • Total Publications in 2014-16: 20
-•  Total patents in process+ applied in 2014-16: 07 
+• Total patents in process+ applied in 2014-16: 07 
 (as on date)
-•  Total project proposals sent in 2014-16: 14
-•  Total fund received in 2014-16: Rs.70 Lakhs 
+• Total project proposals sent in 2014-16: 14
+• Total fund received in 2014-16: Rs.70 Lakhs 
 (External)
-•  Number of products in progress:02
-•  Number of Industry and Institute collaborations: 
+• Number of products in progress:02
+• Number of Industry and Institute collaborations: 
 01
 ENERGY CLUSTER
 Focus areas of this cluster are:
- •  Development of solar wind hybrid systems
- •  Development of solar multi-crop dryer
- •  Development of Biomass fuelled cook stoves
+ • Development of solar wind hybrid systems
+ • Development of solar multi-crop dryer
+ • Development of Biomass fuelled cook stoves
 Outcomes:
- •  Total Publications in 2015-16   : 20
- •  Total patents in process+ applied in 2015-16 : 01
- •  Total project proposals sent in 2015-16  : 04
- •  Total fund received in 2015-16   : Rs.6.00L (in progress)
- •  Number of product development (in progress) : 03
- •  Number of Industry and Institute collaborations : 04
-
-## Page 18
-
-16   | KLE Tech
+ • Total Publications in 2015-16 : 20
+ • Total patents in process+ applied in 2015-16 : 01
+ • Total project proposals sent in 2015-16 : 04
+ • Total fund received in 2015-16 : Rs.6.00L (in progress)
+ • Number of product development (in progress) : 03
+ • Number of Industry and Institute collaborations : 04
+ ## Page 18
+ 16 | KLE Tech
 Centre for Technology Innovation and Entrepreneurship (CTIE):
 Entrepreneurship
- 
-• Attract 
+  • Attract 
 • Support
 External Entrepreneur 
 • Inspire
@@ -668,14 +629,13 @@ Student startups
 Help to Build
 Entrepreneurial 
 Ecosystem
-Centre for Technology  Innova tion & 
+Centre for Technology Innova tion & 
 Entrepreneurship 
 CTIE
- 
-Entrepreneurship is the key driver for development and job creation in any nation. Higher the 
+  Entrepreneurship is the key driver for development and job creation in any nation. Higher the 
 entrepreneurship orientation of people, more can be innovative solutions, improved quality of life and 
 better economic development of its citizens. Centre for Technology Innovation and Entrepreneurship 
--CTIE at KLE Tech aims to build this culture of startups at the University. Using a seven step framework 
+- CTIE at KLE Tech aims to build this culture of startups at the University. Using a seven step framework 
 to build technology ventures, KLE Tech-CTIE boasts having 38 companies at its University campus and is 
 growing.
 | Develop entrepreneurial thinking and liking in the mind of students
@@ -692,16 +652,14 @@ of CTIE helped to attract serial entrepreneurs and young engineers to build thei
 path focused on building the pipeline of eligible students who are open enough to experience career of 
 an entrepreneur . A good mix of credit based and non-credit activities were undertaken as a part of this 
 approach.
-
-## Page 19
-
-  www.kletech.ac.in  |  17 
+ ## Page 19
+   www.kletech.ac.in | 17 
 The entrepreneurship interventions designed at BVB focused mainly on, Building entrepreneurship culture on 
 campus Opportunity identification and technology solutions Commercialization strategies As a result of such 
 blended approach to entrepreneurship, CTIE has following to claim.
 • 38 technology companies on campus
 • 25% of these are student/fresh graduate start-ups
-• Over 18,000 sq. ft of incubation space given away
+• Over 18, 000 sq. ft of incubation space given away
 • Over 9000 Sqft Techpark / Accelerated
 • Over 230 plus jobs created
 Noteworthy CTIE Start-up successes:
@@ -731,10 +689,8 @@ development and entrepreneurial initiatives in
 campus. MIB has been instrumental in holding 
 events like, PUPA, Ideation Camp, E-Summit and 
 many more value added programs.
-
-## Page 20
-
-18   | KLE Tech
+ ## Page 20
+ 18 | KLE Tech
 Ideation Camps:
 Intel Youth Enterprise program is a globally accepted workshop 
 format for developing and scaling ideas. The program consists of 
@@ -763,7 +719,7 @@ Product design and building is a complex process requiring cross-functional team
 manufacturing, financing, marketing and many more. PDR as head start course provides an opportunity
 for the students to experience the complete product design and realization process, working in teams 
 comprising of students from different disciplines of engineering.
-PDR essentially intends to achieve two things – first is, to collaborate with engineers from other
+PDR essentially intends to achieve two things - first is, to collaborate with engineers from other
 disciplines to achieve a common goal, second is, to understand the design/product hand off stages between 
 various development phases.
 Global Innovation and Entrepreneurship:
@@ -779,10 +735,8 @@ emphasis of this program is on a multi-nation experience, wherein students
 from Japan, China, Thailand and Guyana, US and India have taken part. Till 
 date over 200 students from BVB have graduated out and remarkably many 
 have started their ventures at BVB.
-
-## Page 21
-
-  www.kletech.ac.in  |  19 
+ ## Page 21
+   www.kletech.ac.in | 19 
 Over arching philosophy of CIPD:
 Learning Factory is a place:
  Where students, technicians and faculty interact
@@ -817,18 +771,14 @@ Enterprise
 Scaling & Commercialization
 KLE Tech Centre for Innovation & Product Development 
 [KLE Tech - CIPD]
-
-## Page 22
-
-20   | KLE Tech
+ ## Page 22
+ 20 | KLE Tech
 Laser Cutting Machine FARO 3D Imager
 Vertical Screw Type
 Injection Molding Machine Plasma Cutting Machine
 CUBEPRO 3D Printers (Duo & Trio)
-
-## Page 23
-
-  www.kletech.ac.in  |  21 
+ ## Page 23
+   www.kletech.ac.in | 21 
 It is essential that the institute continues to strengthen its association with the industries to 
 enhance its student learning experience and relevance of its research activities.
 Industry Partnership 
@@ -868,20 +818,20 @@ Guest Lectures from Industries:
 Every department has organized Lectures from 
 the industry in the form of Expert Lectures, Co-
 teaching &career guidance.
-Internship at various  industries
+Internship at various industries
 Mock interviews by alumni from the industries:
 Every department has organized mock Interviews 
 by alumni to prepare the students.
 PG Projects in Industries:
 150 PG students have done their project in 42 
 Industries
-MoU’s Signed with 
+MoU's Signed with 
 1. Reliance Jio Infocomm Limited
 2. World Alumni Network Pvt. Ltd.
 3. MMRFIC Technologies
 4. Juniper Networks
 Sami Labs 4
-Biocon  Analytical Division 5
+Biocon Analytical Division 5
 True Tech 2
 Kaiga 1
 Biozeen, Bangalore 4
@@ -893,14 +843,12 @@ Informatica 2
 Infosys 15
 Microsoft 7
 Robert Bosch 15
-Hiwi(GDV) ,BVB Campus,Hubli 2
+Hiwi(GDV) ,BVB Campus, Hubli 2
 INSZoom 3
 Sankalp 4
 CrimsonLogic 1
-
-## Page 24
-
-22   | KLE Tech
+ ## Page 24
+ 22 | KLE Tech
 Centre for Engineering Education Research (CEER) 
 Education Research
 Academic Autonomy granted to BVBCET in 
@@ -919,7 +867,7 @@ leadership institutes (FLIs) organised by
 IUCEE in 2008 and 2009 gave the exposure to 
 global best practices of Engineering Education 
 leading to sprouting of innovations in teaching 
-–learning space showing visible results. 
+-learning space showing visible results. 
 Encouraged by this, Centre for Engineering 
 Education Research was established in 2010 
 to encourage innovation and research in 
@@ -929,21 +877,19 @@ To promote innovation and research in Engineering Education.
 Objectives:
 1. Empower faculty members with the best practices in curriculum design, teaching 
 learning and assessment through training, workshop and allied activities
-2. Encouraging innovation in curriculum design, teaching – learning and assessment
-3. Facilitate  research and systematic study of the impact of pedagogical practices
-4. Conduct outreach activities like  publication,  workshops, trainings and conferences
+2. Encouraging innovation in curriculum design, teaching - learning and assessment
+3. Facilitate research and systematic study of the impact of pedagogical practices
+4. Conduct outreach activities like publication, workshops, trainings and conferences
 Background:
 Activities:
-International Conference on Enabling ‘Make in India’:
-University organized its first international conference on ‘Enabling Make in India: Challenges and Opportunities 
-for Engineering Education’.It was organized during January 6-8, 2016. Honourable Minister for Defence Sri 
+International Conference on Enabling 'Make in India':
+University organized its first international conference on 'Enabling Make in India: Challenges and Opportunities 
+for Engineering Education'.It was organized during January 6-8, 2016. Honourable Minister for Defence Sri 
 Manohar Parrikar inaugurated the conference. More than 70 top colleges of the country and more than 15 
 expert speakers from four countries (USA, France, South Korea and Singapore) participated in the conference. 
 Total numbers of delegates participated in the conference is 425.
-
-## Page 25
-
-  www.kletech.ac.in  |  23 
+ ## Page 25
+   www.kletech.ac.in | 23 
 The aim of the Conference was to bring about greater understanding of the issue involved in Make in India, 
 sharing of world-wide best practices and experiences in this area and evolve a broad framework for the 
 transformative process that enables the initiative.
@@ -953,30 +899,30 @@ The themes of the conference are:-
  2. Building Strong Design and Product Realization Skills
  3. Facilitating Realistic Production Environment in the Campus
  4. Enabling Entrepreneurial Ecosystem in the Campus
- 5. Manufacturing Reinvented – Convergence of Technologies
+ 5. Manufacturing Reinvented - Convergence of Technologies
  6. Skilling India: Industry and Government Perspectives
 Case Studies
-Countries across the world have undertaken initiatives similar to ‘Make in India’, to create jobs and boost 
+Countries across the world have undertaken initiatives similar to 'Make in India', to create jobs and boost 
 their economies. Several efforts have been made by the academic institutions and Universities to contribute 
 to these initiatives in their respective countries. The case studies to be presented in the conference will focus 
 on, sharing of successful practices / models that are evolved by the academic institutions across the world to 
-positively impact similar movements like ‘Make in India’
+positively impact similar movements like 'Make in India'
 1
 Prof. Devdas Shetty
 Dean, School of Engineering and Applied Science, Professor of 
 Mechanical Engineering,
 University of the District of Columbia
 Washington, DC 20008, USA
-Case Study on  designing  and 
+Case Study on designing and 
 creating smart products through 
-“maker movement”
+"maker movement"
 2
 Prof. Lueny Morell , MS, PE
 President, Lueny Morell& Associates &Founder & Director of 
 InnovaHiEd
-The Learning Factory “Working 
+The Learning Factory "Working 
 Together to Develop Talent for 
-Manufacturing”
+Manufacturing"
 3
 Dr . S K Ramesh Ph.D
 Dean, College of Engineering and Computer Science & Professor 
@@ -994,10 +940,8 @@ of Innovation Ecosystem in
 Engineering Education: Role Plays 
 of Universities, Industry, and 
 Government
-
-## Page 26
-
-24   | KLE Tech
+ ## Page 26
+ 24 | KLE Tech
 This summit witnessed about 65 participants from 20 Gurukuls belonging to different Engineering institutions 
 across the country. The discussions of the two day workshop culminated by identifying the following prioritized 
 themes for collaboration:-
@@ -1011,17 +955,17 @@ themes for collaboration:-
  H. Attaining autonomous status 
  I. Updating Infrastructure
 1st IUCEE Gurukuls Summit
-KLE Tech is emerging as a leader and a role model in Engineering Education.  And many Institutions in the 
+KLE Tech is emerging as a leader and a role model in Engineering Education. And many Institutions in the 
 country are showing interest in learning from our practices. IUCEE is spreading this through formation of 
 cluster of Gurukuls, which is a group of Engineering Institutions with demonstrated capabilities and aspirations 
 to raise their level of performance. 
 The first IUCEE Gurukuls Summit-2016 was organised at KLE Technological University, Hubballi on 28-29th July, 
 2016. The IUCEE Gurukuls for Learning and Outcomes Based Education (iGLOBE) program addresses this vital 
-need for institutions to develop self-reliance towards achieving excellence in engineering education.  IUCEE 
+need for institutions to develop self-reliance towards achieving excellence in engineering education. IUCEE 
 will facilitate these Gurukuls (i.e. Centers for Excellence) which will be modeled as a blend of the Centers for 
 Engineering Education and Centers for Teaching and Learning around the world. 
 Engineering Education Publications 
-and participation in ICTIEE – 2016
+and participation in ICTIEE - 2016
 In the third International Conference on 
 Transformations in Engineering Education 
 (ICTIEE'16), which was co-organized by IUCEE 
@@ -1041,10 +985,8 @@ with Indo Universal Collaboration for Engineering
 Education. Dr .Ashok Shettar, Dr .Prakash Tewari and 
 Dr .Gopalkrishna Joshi are the resource persons for 
 this course. 
-
-## Page 27
-
-  www.kletech.ac.in  |  25 
+ ## Page 27
+   www.kletech.ac.in | 25 
 Summary
 Number of participants 55
 Number of participants from Polytechnic colleges 37
@@ -1053,33 +995,29 @@ Number of colleges 14
 Number of Polytechnic colleges 10
 Number of Engineering Colleges 4
 Faculty Conclave 2016
-Faculty Conclave – the in-house annual event which provides a forum for the faculty members to showcase 
+Faculty Conclave - the in-house annual event which provides a forum for the faculty members to showcase 
 their innovative experiments and share their experiences was conducted on July 27-28, 2016 at KLE Tech., 
-Hubballi.  The sixth in the series – “Faculty Conclave 2016, saw a total of 40 papers authored by 111 faculty 
+Hubballi. The sixth in the series - "Faculty Conclave 2016, saw a total of 40 papers authored by 111 faculty 
 members. The papers belonged to the broad themes of Curriculum Innovation, Experiential Learning, Outcomes 
 Assessment, Graduate Program Experiences and Pedagogies in Engineering Education. 
-Workshop on “Pedagogy Training for Engineering Educators”
-A five days workshop on “Pedagogy Training for Engineering Educators” was organised and conducted at BVB 
+Workshop on "Pedagogy Training for Engineering Educators"
+A five days workshop on "Pedagogy Training for Engineering Educators" was organised and conducted at BVB 
 College and Technology, Hubballi during July 18-22, 2016. This program was organised for faculty members of 
 Engineering Colleges and Polytechnics and supported by State Project Facilitation Unit (SFFU), GoK, as part of 
 TEQIP . 
 This workshop aimed at equipping faculty members with the knowledge and skills required to practice 
 engineering education effectively. All twenty sessions were woven around the philosophy and practice of OBE.
-
-## Page 28
-
-26   | KLE Tech
+ ## Page 28
+ 26 | KLE Tech
 KLE Tech awarded as Ranked No 1
-KLE Tech awarded as Ranked No 1 for “Outstanding Institutional Transformation in Engineering 
-Education” by IUCEE (India US Council for Engineering Education)
+KLE Tech awarded as Ranked No 1 for "Outstanding Institutional Transformation in Engineering 
+Education" by IUCEE (India US Council for Engineering Education)
 TBI Recognition by DST
 KLE CTIE has been recognized as Technology Businiss Incubator (TBI) by Department of Science and 
-Technology, GOI, and a grant of  Rs 3.40 Crores has been Scantioned.
+Technology, GOI, and a grant of Rs 3.40 Crores has been Scantioned.
 Recognitions
-
-## Page 29
-
-  www.kletech.ac.in  |  27 
+ ## Page 29
+   www.kletech.ac.in | 27 
 New infrastructure
 Our infrastructure is the key enabler for us to deliver world-class educational experience for our students. A 
 major building project construction of School of Electronics is being undertaken. 
@@ -1087,10 +1025,8 @@ Continuing our efforts to develop ambient green campus, new landscape projects w
 landscape focuses on creating informal interaction space for the students in the campus.
 School of Electronics Engineering
 Musical Fountain
-
-## Page 30
-
-28   | KLE Tech
+ ## Page 30
+ 28 | KLE Tech
 IT Platforms and Services
 The University network is on OFC. 39 managed switches, 150 access points, UTM, AAA server are part of new 
 network. Back bone capacity is 10 Gbps Internet speed is 225 Mbps 
@@ -1105,12 +1041,12 @@ NPTL video learning and moodle open source learning platform are part of new net
  • With 08 sub nets and internal LAN with different topologies 
  • Internet speed is 225 Mbps (service provider is BSNL and TATA)
  • 150 wireless access points across campus, 76 access points covering entire hostels. 
- • Modern equipment like Cyber roam 750ing,AAA server, controller unit, NMS etc
+ • Modern equipment like Cyber roam 750ing, AAA server, controller unit, NMS etc
 Board of Governors
 Name Designation
 Dr . Prabhakar B. Kore Chairperson
 Prof Ashok S. Shettar Member
-The Principal Secretary/Secretary, Higher Education,Government of 
+The Principal Secretary/Secretary, Higher Education, Government of 
 Karnataka. Member
 The Principal Secretary/Secretary, Medical Education, Government 
 of Karnataka. Member
@@ -1120,13 +1056,11 @@ Prof B. S. Sonde Member
 Dr . Sudha N. Murty Member
 Prof P . G. Tewari Member
 Prof B. L . Desai Member Secretary
-
-## Page 31
-
-  www.kletech.ac.in  |  29 
+ ## Page 31
+   www.kletech.ac.in | 29 
 Student accolades
 KLE Tech - BVB sweeps top prizes at BOSCH Inscribe 2015
-KLE Tech - BVB wins  “Idea Incubator” award at KPIT 
+KLE Tech - BVB wins "Idea Incubator" award at KPIT 
 Sparkle-2016
 BVB has won 2nd, 3rd & 4th Prizes at prestigious Bosch 
 Inscribe-2015 Technical Idea Presentation Competition held 
@@ -1134,16 +1068,16 @@ yesterday (24th November) at Robert Bosch, Bangalore
 KPIT Sparkle is annual national design and development innovation 
 contest for engineering and science students across India organized 
 by KPIT Technologies. 
-KLE Tech - BVB Wins “Ultra Golf Kart Championship (UGKC) – 2016”
-BVB-KLE Tech. student team ‘BVB Superstars’, comprising of students from Department of Automobile, 
+KLE Tech - BVB Wins "Ultra Golf Kart Championship (UGKC) - 2016"
+BVB-KLE Tech. student team 'BVB Superstars', comprising of students from Department of Automobile, 
 Automation & Robotics, Instrumentation and Electronics, and Electronics and Communication, Engineering 
-have won the “Ultra Golf Kart Championship (UGKC) - 2016”.
+have won the "Ultra Golf Kart Championship (UGKC) - 2016".
 KLE Tech - BVB Wins National Championship in Hybrid 
 Vehicle Challenge-2016
 BVB was one among the top ten teams at BVB-KLE Tech. Student 
-team ‘R-Evolution Minds’, comprising of students from Department of 
-Automobile and Instrumentation Engineering under the aegis of ‘BVB 
-Motorsports Club’ has won the prestigious National Championship in 
+team 'R-Evolution Minds', comprising of students from Department of 
+Automobile and Instrumentation Engineering under the aegis of 'BVB 
+Motorsports Club' has won the prestigious National Championship in 
 Hybrid Vehicle Challenge-2016.
 KLE Tech - BVB shines in Internationals
 KLE Tech - BVB student team "Racing Rebels", a group of 
@@ -1154,9 +1088,9 @@ institution by winning third place in an international level event,
 "International Series of Karting-2016" held at Lahari Resorts, 
 Hyderabad from 8th to 11th March 2016.
 KLE Tech - BVB Bagged Overall Championship in SRISHTI-2016
-BVB College of Engineering and Technology, Hubli, won the “CHAMPIONSHIP 
-TROPHY” at the 3 days State level Project Exhibition and Competition 
-organized by Akhila Bharatiya Vidyarthi Parishad  at CMR Institute of 
+BVB College of Engineering and Technology, Hubli, won the "CHAMPIONSHIP 
+TROPHY" at the 3 days State level Project Exhibition and Competition 
+organized by Akhila Bharatiya Vidyarthi Parishad at CMR Institute of 
 Technology (CMRIT), in Bangaluru. 
 KLE Tech-BVBCET Bags 4th Place on Debut
 TEAM VEGADOOTH RACING from B.V. Bhoomaraddi College of 
@@ -1165,53 +1099,49 @@ and secured 4th position in their debut year among 124 teams at
 Buddh International Circuit, Greater Noida during 3rd to 9th July, 2016. 
 An interdisciplinary team of 21 students from BVB Motorsports Club 
 participated in SUPRA SAEINDIA 2016
-
-## Page 32
-
-30   | KLE Tech
+ ## Page 32
+ 30 | KLE Tech
 Financials
 Consolidated income and expenditure statement for the year 2015-2016
 (Includes Teqip grants and Capital expenditures)
-Income  Amount (Rs) Revenue Expenditures  Amount (Rs) Capital 
-Expenditures  Amount (Rs) 
-Academic Receipts      1390,28,390.00 Staff Payments & 
-Benefits        305,91,007.00 Buildings      435,37,768.00 
-Grants and Donations                              -   Academic Expenses        153,66,798.00 Equipments        70,03,331.00 
-Income from Investments          82,50,000.00 Administrative & 
-General Expenses        122,68,359.00 Computers & 
-Softwares        68,93,463.00 
-Other Incomes          33,81,442.06 Transportation 
-Expenses                              -   Furnitures & 
-Fixtures        48,98,361.00 
-Repairs & Maintenance          47,52,877.00 Books          3,58,992.00 
-Finance Costs                  1,552.00 Vehicle          2,29,954.00 
-Depreciation          50,73,335.00 
-Other Expenses                              -   
-Total      1506,59,832.06 Total        680,53,928.00 Total     629,21,869.00 
+Income Amount (Rs) Revenue Expenditures Amount (Rs) Capital 
+Expenditures Amount (Rs) 
+Academic Receipts 1390, 28, 390.00 Staff Payments & 
+Benefits 305, 91, 007.00 Buildings 435, 37, 768.00 
+Grants and Donations - Academic Expenses 153, 66, 798.00 Equipments 70, 03, 331.00 
+Income from Investments 82, 50, 000.00 Administrative & 
+General Expenses 122, 68, 359.00 Computers & 
+Softwares 68, 93, 463.00 
+Other Incomes 33, 81, 442.06 Transportation 
+Expenses - Furnitures & 
+Fixtures 48, 98, 361.00 
+Repairs & Maintenance 47, 52, 877.00 Books 3, 58, 992.00 
+Finance Costs 1, 552.00 Vehicle 2, 29, 954.00 
+Depreciation 50, 73, 335.00 
+Other Expenses - 
+Total 1506, 59, 832.06 Total 680, 53, 928.00 Total 629, 21, 869.00 
 Capital Expenditure 
-Total        629,21,869.00 
+Total 629, 21, 869.00 
 To Surplus (Excess of 
 income over 
 Expenditure)
-       196,84,035.06 
-Grand Total 1506,59,832.06    Grand Total 1506,59,832.06    
+       196, 84, 035.06 
+Grand Total 1506, 59, 832.06 Grand Total 1506, 59, 832.06 
 Financials
 KLE Technological University, Hubballi
 Income and Expenditure Statement for the year 2015-16
 (Includes Capital Expenditures)
-
-## Page 33
-
-  www.kletech.ac.in  |  31 
+ ## Page 33
+   www.kletech.ac.in | 31 
 Alumni Association -Events
 Felicitation
 Dr.Anil Sahasrabudhe, BVB alumnus from 1980 
-Mechanical and a Gold Medalist,  has been 
-felicitated BVBCET by Dr.Ashok Shettar,  Shri 
+Mechanical and a Gold Medalist, has been 
+felicitated BVBCET by Dr.Ashok Shettar, Shri 
 Shankaranna Munavalli and Prof.Prakash G. 
 Tewari on 21st May, 2016 for having assumed 
 office as the Chairman of AICTE, New Delhi..
-Shri.M.K. Patil and Prof.T. Veeramahantesh  
+Shri.M.K. Patil and Prof.T. Veeramahantesh 
 Swamy also shared the dais from BVB Alumni 
 Association.
 Get-together
@@ -1232,10 +1162,8 @@ where nearly Rs. 92 lakhs has been invested
 by BVB Alumni Association. Alumni after the 
 AGM visited the construction of Incubation 
 Centre on campus.
-
-## Page 34
-
-32   | KLE Tech
+ ## Page 34
+ 32 | KLE Tech
 KLE Tech Executive Leadership Team
 Prof Gopal Joshi
 Dean, Curriculum Innovation
@@ -1256,10 +1184,8 @@ Dr . B. B. Kotturshettar
 Dean - Planning & Development
 Dr . Uma Mudenagudi
 Dean - Research & Development
-
-## Page 35
-
-  www.kletech.ac.in  |  33 
+ ## Page 35
+   www.kletech.ac.in | 33 
 Center Heads
 Heads of Schools / Departments
 Dr . Meena M
@@ -1288,7 +1214,7 @@ Dr . M. R. Patil
 Head, C & M Cell
 Prof. Gopal Joshi
 Director, CEER
-Dr . Satyadhyan  Chickerur
+Dr . Satyadhyan Chickerur
 Coordinator, CIAP
 Prof T V Swamy
 First Year
@@ -1300,14 +1226,10 @@ Prof Gururaj Joshi
 Architecture
 Dr . B. B. Kotturshettar
 Mechanical
-
-## Page 36
-
-Campus Snapshots
-
-## Page 37
-
-  www.kletech.ac.in  |  35 
+ ## Page 36
+ Campus Snapshots
+ ## Page 37
+   www.kletech.ac.in | 35 
 www.kletech.ac.in
 KLE Technological University
 Vidyanagar, Hubballi - 580 031, Karnataka - India

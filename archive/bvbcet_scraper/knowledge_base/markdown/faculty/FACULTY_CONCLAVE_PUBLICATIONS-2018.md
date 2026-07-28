@@ -1,10 +1,7 @@
 # PDF Document: FACULTY_CONCLAVE_PUBLICATIONS-2018
-
-**PDF Source:** https://www.kletech.ac.in/pdf/FACULTY CONCLAVE PUBLICATIONS-2018.pdf
-
-## Page 1
-
-Earlier known as 
+ **PDF Source:** https://www.kletech.ac.in/pdf/FACULTY CONCLAVE PUBLICATIONS-2018.pdf
+ ## Page 1
+ Earlier known as 
 B. V. B. College of Engineering & Technology 
 Faculty Conclave- 2018 
 SI. 
@@ -17,13 +14,13 @@ Sanjay E., Sachin A., Gururaj F., Arun Patil,
 Praveenraj P., K.Rajashekhariah, Nagaraj 
 E., Shilpa T. 
 2 Enhancing Optimization Skills In Embedded 
-Stream: Integrated Learning  
+Stream: Integrated Learning 
 Rohini S. Hongal , S. N. Asundi , Preeti P., 
 Bhagyashree K., Supriya K., Shrishail 
 Pattanashetti, Nalini Iyer 
 3 Enhanced Learning Experience By Comparative 
 Investigation Of Pedagogical Approach: Flipped 
-Classroom  
+Classroom 
 Shraddha B. H., Nalini C. Iyer, Sujata 
 Kotabagi, R. V. Hangal, Sujata N., Nikita 
 Patil, Soumya B., Dr. Subbanna Bhat 
@@ -38,7 +35,7 @@ Sridhar.M, U. P. Hosamani, S. G. Billur, G.
 R. Chalageri, A. Y. Patil, S. M. 
 Mukhandmath, S. R. Patil, B. S. Halemani, 
 V. S Tigadi 
-6 HACKATHON–An Activity To Empower 
+6 HACKATHON-An Activity To Empower 
 Programming Skills 
 Ashwini G. K., Arunkumar Giriyapur 
 7 Problem Solving In Integrated Laboratory Using 
@@ -60,30 +57,28 @@ Process For Engineering Design And Product
 Prototyping In A Multidisciplinary Environment 
 K. M. M. Rajashekharaiah, Somashekar 
 Patil, PraveenRaj Pattar, Mallikarjun Akki, 
-Meena Maralappanavar,Sanjay Eligar, B. 
+Meena Maralappanavar, Sanjay Eligar, B. 
 B. Kotturshettar, Arun Giriyapur 
-12 “Role Of Academic Projects In Experiential 
-Learning “-A Study In Business Management 
+12 "Role Of Academic Projects In Experiential 
+Learning "-A Study In Business Management 
 Education 
 Mahantesh Halagatti 
-
-## Page 2
-
-Earlier known as 
+ ## Page 2
+ Earlier known as 
 B. V. B. College of Engineering & Technology 
 13 Teaching Methodologies For Generation Z Kids Prakash Hegade 
 14 Blue Print Pedagogy In Software Engineering Meena S. M., Prakash Hegade, Padmashri 
 Desai 
-15 “By-Products From Research Experience” Prakash Hegade 
+15 "By-Products From Research Experience" Prakash Hegade 
 16 Prakalp- An Approach Towards Analog And Mixed 
 Signal Design 
 Sujata S. Kotabagi, Nalini Iyer, Sumit Bhat 
 17 Research Experience With Minor Projects Prakash Hegade 
-18 Algorithmic Problem Solving – A Course Towards 
+18 Algorithmic Problem Solving - A Course Towards 
 Competitive Programming 
 Ashok Shettar, Meena S. M., Satyadhyan 
 Chickerur, Prakash B. Hegade 
-19 Student’s Perspective On Efficacy Of Game-Based 
+19 Student's Perspective On Efficacy Of Game-Based 
 Learning With Reference To Management 
 Program 
 Shashidhar Mahantshetti 
@@ -123,10 +118,8 @@ Gopalkrishna Joshi
 Management Practice In Freshman Course 
 Jyoti Gadad, Kaushik M, Gopalkrishna 
 Joshi 
-
-## Page 3
-
-Earlier known as 
+ ## Page 3
+ Earlier known as 
 B. V. B. College of Engineering & Technology 
 28 Exploring The Capabilities Of Freshman Students 
 In Problem Formulation And Ideation Phases Of 
@@ -136,7 +129,7 @@ Kaushik M, Gopalkrishna Joshi
 Delivery: Opportunities And Challenges 
 Chetan V. Hiremath 
 30 Programme Outcomes Attained In The Journey Of 
-“Rural Immersion Track” 
+"Rural Immersion Track" 
 Sagar Patil, S. V. Patil 
 31 Employability Driven Innovative Curriculum 
 Interventions In Mechanical Engineering Program 
@@ -166,4 +159,4 @@ Teaching Of Research Methodology Course At
 6Undergraduate Level 
 S. V. Desai, Zabin K. Bagewadi and Uday 
 M. Muddapur 
- 
+  

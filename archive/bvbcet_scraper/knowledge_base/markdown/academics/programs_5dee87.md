@@ -1,258 +1,158 @@
 # Programs
-
-**Source URL:** https://www.kletech.ac.in/hubballi/program/engineering/1
-
-# Programs
-
-You are searching engineering.
-
-### Browse by Faculties
-
-Engineering
-
-Computer Application
-
-Management
-
-Commerce
-
-Legal Studies
-
-Science
-
-Architecture & Design
-
-Advanced Studies
-
-- B E Civil Engineering 
+ **Source URL:** https://www.kletech.ac.in/hubballi/program/engineering/1
+ # Programs
+ You are searching engineering.
+ ### Browse by Faculties
+ Engineering
+ Computer Application
+ Management
+ Commerce
+ Legal Studies
+ Science
+ Architecture & Design
+ Advanced Studies
+ - B E Civil Engineering 
 FacultyEngineering
-
-Hubballi
+ Hubballi
 - B E Mechanical Engineering 
 FacultyEngineering
-
-Hubballi
+ Hubballi
 - M.Tech Structural Engineering 
 FacultyEngineering
-
-Hubballi
+ Hubballi
 - M.Tech Design Engineering 
 FacultyEngineering
-
-Hubballi
+ Hubballi
 - Ph.D. in Mechanical Engineering 
 FacultyEngineering
-
-Hubballi
+ Hubballi
 - B E Electronics & Communication Engineering 
 FacultyEngineering
-
-Hubballi
+ Hubballi
 - M.Tech VLSI Design And Embedded Systems 
 FacultyEngineering
-
-Hubballi
+ Hubballi
 - Ph.D. in Electronics & Communication Engineering 
 FacultyEngineering
-
-Hubballi
+ Hubballi
 - B E Computer Science and Engineering 
 FacultyEngineering
-
-Hubballi
+ Hubballi
 - B E Computer Science and Engineering (Artificial Intelligence) 
 FacultyEngineering
-
-Hubballi
-- M.Tech Computer Science and  Engineering 
+ Hubballi
+- M.Tech Computer Science and Engineering 
 FacultyEngineering
-
-Hubballi
+ Hubballi
 - Ph.D. in Computer Science & Engineering 
 FacultyEngineering
-
-Hubballi
+ Hubballi
 - B E Electrical & Electronics Engineering 
 FacultyEngineering
-
-Hubballi
+ Hubballi
 - Ph.D. in Electrical & Electronics Engineering 
 FacultyEngineering
-
-Hubballi
+ Hubballi
 - B E Automation & Robotics 
 FacultyEngineering
-
-Hubballi
+ Hubballi
 - B E Biotechnology 
 FacultyEngineering
-
-Hubballi
+ Hubballi
 - Ph.D. in Biotechnology 
 FacultyEngineering
-
-Hubballi
+ Hubballi
 - B E Electronics Engineering (VLSI Design & Technology) 
 FacultyEngineering
-
-Hubballi
+ Hubballi
 - Ph.D. in Civil Engineering 
 FacultyEngineering
-
-Hubballi
+ Hubballi
 - Ph. D. in Management Studies & Research 
 FacultyEngineering
-
-Hubballi
+ Hubballi
 - MS Civil Engineering 
 FacultyEngineering
-
-Hubballi
+ Hubballi
 - MS (Engg.) by Research in Visual Intelligence (CSE) 
 FacultyEngineering
-
-Hubballi
+ Hubballi
 - MS (Engg.) by Research (ECE) 
 FacultyEngineering
-
-Hubballi
-- MS Mechanical  Engineering 
+ Hubballi
+- MS Mechanical Engineering 
 FacultyEngineering
-
-Hubballi
+ Hubballi
 - MS Automation and Robotics Engineering 
 FacultyEngineering
-
-Hubballi
+ Hubballi
 - MS Biotechnology 
 FacultyEngineering
-
-Hubballi
+ Hubballi
 - MS Electrical & Electronics Engineering 
 FacultyEngineering
-
-Hubballi
+ Hubballi
 - Ph. D. in Automation & Robotics 
 FacultyEngineering
-
-Hubballi
+ Hubballi
 - Centre for Engineering Education Research 
 FacultyEngineering
-
-Hubballi
-
-FacultyEngineering
-
-Hubballi
-
-FacultyEngineering
-
-Hubballi
-
-FacultyEngineering
-
-Hubballi
-
-FacultyEngineering
-
-Hubballi
-
-FacultyEngineering
-
-Hubballi
-
-FacultyEngineering
-
-Hubballi
-
-FacultyEngineering
-
-Hubballi
-
-FacultyEngineering
-
-Hubballi
-
-FacultyEngineering
-
-Hubballi
-
-FacultyEngineering
-
-Hubballi
-
-FacultyEngineering
-
-Hubballi
-
-FacultyEngineering
-
-Hubballi
-
-FacultyEngineering
-
-Hubballi
-
-FacultyEngineering
-
-Hubballi
-
-FacultyEngineering
-
-Hubballi
-
-FacultyEngineering
-
-Hubballi
-
-FacultyEngineering
-
-Hubballi
-
-FacultyEngineering
-
-Hubballi
-
-FacultyEngineering
-
-Hubballi
-
-FacultyEngineering
-
-Hubballi
-
-FacultyEngineering
-
-Hubballi
-
-FacultyEngineering
-
-Hubballi
-
-FacultyEngineering
-
-Hubballi
-
-FacultyEngineering
-
-Hubballi
-
-FacultyEngineering
-
-Hubballi
-
-FacultyEngineering
-
-Hubballi
-
-FacultyEngineering
-
-Hubballi
-
-FacultyEngineering
-
-Hubballi
-
-FacultyEngineering
-
-Hubballi
+ Hubballi
+ FacultyEngineering
+ Hubballi
+ FacultyEngineering
+ Hubballi
+ FacultyEngineering
+ Hubballi
+ FacultyEngineering
+ Hubballi
+ FacultyEngineering
+ Hubballi
+ FacultyEngineering
+ Hubballi
+ FacultyEngineering
+ Hubballi
+ FacultyEngineering
+ Hubballi
+ FacultyEngineering
+ Hubballi
+ FacultyEngineering
+ Hubballi
+ FacultyEngineering
+ Hubballi
+ FacultyEngineering
+ Hubballi
+ FacultyEngineering
+ Hubballi
+ FacultyEngineering
+ Hubballi
+ FacultyEngineering
+ Hubballi
+ FacultyEngineering
+ Hubballi
+ FacultyEngineering
+ Hubballi
+ FacultyEngineering
+ Hubballi
+ FacultyEngineering
+ Hubballi
+ FacultyEngineering
+ Hubballi
+ FacultyEngineering
+ Hubballi
+ FacultyEngineering
+ Hubballi
+ FacultyEngineering
+ Hubballi
+ FacultyEngineering
+ Hubballi
+ FacultyEngineering
+ Hubballi
+ FacultyEngineering
+ Hubballi
+ FacultyEngineering
+ Hubballi
+ FacultyEngineering
+ Hubballi
+ FacultyEngineering
+ Hubballi

@@ -1,22 +1,15 @@
 # PDF Document: 07-bachelor-of-mechanical-engineering-curriculum-structure-content-2023-2027
-
-**PDF Source:** https://www.kletech.ac.in/pdf/07-bachelor-of-mechanical-engineering-curriculum-structure-content-2023-2027.pdf
-
-## Page 1
-
-FMCD2009 / 2.0 
+ **PDF Source:** https://www.kletech.ac.in/pdf/07-bachelor-of-mechanical-engineering-curriculum-structure-content-2023-2027.pdf
+ ## Page 1
+ FMCD2009 / 2.0 
  1 
- 
-Curriculum Structure and Curriculum Content for the Academic Batch 2023-27 
+  Curriculum Structure and Curriculum Content for the Academic Batch 2023-27 
 School of Mechanical Engineering 
 Program: Bachelor of Engineering 
- 
-## Page 2
-
-FMCD2009 / 2.0 
+  ## Page 2
+ FMCD2009 / 2.0 
  2 
- 
-Table of Contents 
+  Table of Contents 
 Vision and Mission of KLE Technological University............................................................. 3 
 Vision and Mission Statements of the School / Department ................................................... 4 
 Program Educational Objectives/Program Outcomes and Program-Specific Objectives ..... 5 
@@ -33,55 +26,40 @@ Semester- VIII .................................................................
 List of Open Electives ............................................................................................................. 16 
 List of Program Electives ........................................................................................................ 17 
 Curriculum Content- Course wise .......................................................................................... 19 
- 
-## Page 3
-
-FMCD2009 / 2.0 
+  ## Page 3
+ FMCD2009 / 2.0 
  3 
 Vision and Mission of KLE Technological University 
- 
-Vision 
- 
-KLE Technological University will be a national leader in Higher 
-Education–recognised globally for innovative culture, outstanding 
+  Vision 
+  KLE Technological University will be a national leader in Higher 
+Education-recognised globally for innovative culture, outstanding 
 student experience, research excellence and social impact. 
- 
-Mission 
- 
-KLE Technological University is dedicated to teaching that meets highest 
+  Mission 
+  KLE Technological University is dedicated to teaching that meets highest 
 standards of excellence, generation and application of new knowledge through 
 research and creative endeavors. 
- 
-The three-fold mission of the University is: 
+  The three-fold mission of the University is: 
  To offer undergraduate and post -graduate programs with engaged and 
 experiential learning environment enriched by high quality instruction 
 that prepares students to succeed in their lives and professional careers. 
- 
- To enable and grow disciplinary and inter -disciplinary areas of research 
+   To enable and grow disciplinary and inter -disciplinary areas of research 
 that build on present strengths and future opportunities aligning with 
 areas of national strategic importance and priority. 
- 
- To actively engage in the Socio -economic development of the region by 
+   To actively engage in the Socio -economic development of the region by 
 contributing our expertise, experience and leadership, to enhance 
 competitiveness and quality of life. 
- 
-As a unified community of faculty, staff and students, we work together with the 
+  As a unified community of faculty, staff and students, we work together with the 
 spirit of collaboration and partnership to accomplish our mission. 
-  
-## Page 4
-
-FMCD2009 / 2.0 
+   ## Page 4
+ FMCD2009 / 2.0 
  4 
-Vision and Mission Statements of the School  
- 
-Vision 
+Vision and Mission Statements of the School 
+  Vision 
 KLE Tech - School of Mechanical Engineering will be a national leader in 
 mechanical engineering education - recognized for innovative culture, 
 outstanding research and societal outreach. 
- 
-Mission 
- 
-KLE Tech School of Mechanical Engineering shall accomplish its mission by 
+  Mission 
+  KLE Tech School of Mechanical Engineering shall accomplish its mission by 
 working in a team, with the spirit of collaboration and partnership. 
 01 
 03 
@@ -101,7 +79,7 @@ experiential learning environment ,
 preparing students for success in their lives 
 and professional careers. 
 Engage in Mechanical-discipline and inter-
-disciplinary research  aligned to areas of 
+disciplinary research aligned to areas of 
 national importance and priority. 
 Contribute to socio-economic 
 development of the region for enhanced 
@@ -120,33 +98,31 @@ Entreprene
 urial eco-
 system 
 Vision 
-
-## Page 5
-
-FMCD2009 / 2.0 
+ ## Page 5
+ FMCD2009 / 2.0 
  5 
 Program Educational Objectives/Program Outcomes and Program-Specific Objectives 
 Program Educational Objectives -PEOs 
 School of Mechanical Engineering accomplishments that graduates are expected to attain 
 after 3 to 5 years of graduation 
-1. Apply problem solving skills  
-Graduates will  demonstrate technical competence in mec hanical engineering 
+1. Apply problem solving skills 
+Graduates will demonstrate technical competence in mec hanical engineering 
 domain as they apply problem solving skills to conceive, analyze, design and develop 
 products, processes and systems. 
-2. Embrace leadership roles  
-Graduates will  actively embrace leadership roles and strive hard to achieve 
+2. Embrace leadership roles 
+Graduates will actively embrace leadership roles and strive hard to achieve 
 professional and organizational goals with adherence to professional and ethical 
-values, team expectations and sensitivities.  
+values, team expectations and sensitivities. 
 3. Contribute to society 
 Graduates will be committed to practice of engineering in industry and government 
 organizations meeting the growing expectations of stake holders and also contribute 
 to the societal development. 
-4. Pursue new career opportunities  
-Graduates will  actively participate in on -going professional development 
+4. Pursue new career opportunities 
+Graduates will actively participate in on -going professional development 
 opportunities, engage in continuous updating and adapting core knowledge an d 
 abilities to compete in the ever-changing global enterprise and . . . 
 Program Outcomes-POs 
-PO1: Engineering Knowledge: Apply knowledge of mathematics, natural science,  
+PO1: Engineering Knowledge: Apply knowledge of mathematics, natural science, 
 computing, engineering fundamentals and an engineering specialization as specified 
 in WK1 to WK4 respectively to develop to the solution of complex engineering 
 problems. 
@@ -166,14 +142,12 @@ and modern engineering & IT tools, including prediction and modelling recognizin
 their limitations to solve complex engineering problems. (WK2 and WK6) 
 PO6: The Engineer and The World: Analyze and evaluate societal and environmental aspects 
 while solving complex engineering problems for its impact on sustainability with 
-reference to  economy, health, safety, legal framework, culture and environment. 
+reference to economy, health, safety, legal framework, culture and environment. 
 (WK1, WK5, and WK7). 
 PO7: Ethics: Apply ethical principles and commit to professional ethics, human values, 
 diversity and inclusion; adhere to national & international laws. (WK9). 
-
-## Page 6
-
-FMCD2009 / 2.0 
+ ## Page 6
+ FMCD2009 / 2.0 
  6 
 PO8: Individual and Collaborative Team work: Function effectively as an individual, and as a 
 member or leader in diverse/multi-disciplinary teams. 
@@ -183,28 +157,25 @@ reports and design documentation, make effective presentations considering cultu
 language, and learning differences. 
 PO10: Project Management and Finance: Apply knowledge and understanding of 
 engineering management principles and economic decision -making and apply these 
-to one’s own work, as a member and leader in a team, and to manage projects and in 
+to one's own work, as a member and leader in a team, and to manage projects and in 
 multidisciplinary environments. 
-PO11: Life-Long Learning: Recognize the need for, and have the preparation and ability for  
-i) independent and life-long learning  
-ii) adaptability to new and emerging technologies and  
+PO11: Life-Long Learning: Recognize the need for, and have the preparation and ability for 
+i) independent and life-long learning 
+ii) adaptability to new and emerging technologies and 
 iii) critical thinking in the broadest context of technological change. (WK8) 
- 
-Program Specific Objectives -PSOs 
+  Program Specific Objectives -PSOs 
 PSO1: Modeling and Optimization: Use modern CAD/CAE tools and appropriate standards 
 to develop/optimize components/systems. 
 PSO2: Modern Manufacturing: Apply the knowledge of advanced manufacturing processes 
-for developing the component/system with emphasis on productivity,  quality and 
+for developing the component/system with emphasis on productivity, quality and 
 cost. 
 PSO3: Technology Integration: Develop innovative solutions through contemporary 
 technology integration to address real-life problems. 
- 
-## Page 7
-
-FMCD2009 / 2.0 
+  ## Page 7
+ FMCD2009 / 2.0 
  7 
 Curriculum Structure-Overall 
-Semester: 1 to 8                                                                                                                                                                                                                                                                                                                     Total Program Credits:176 
+Semester: 1 to 8 Total Program Credits:176 
 Course with course code 
 I II III IV V VI VII VIII 
 Single Variable Calculus 
@@ -251,7 +222,7 @@ Hydraulic Machines
 (24EMEC301) 4-0-0 
 IC Engines 
 (25EMEC401) 2-0-0 
-Open Elective  
+Open Elective 
 (15EMEO45X) 3-0-
 0 
 C Programming for 
@@ -263,16 +234,16 @@ Mechanics
 Mechanics of Materials 
 (22EMEF201) 3-0-0 
 Fundamentals of Machine 
-Design  (22EMEC202) 3-0-0 
+Design (22EMEC202) 3-0-0 
 Finite Element 
 Methods 
 (23EMEC303)3-0-0 
 Metrology and Quality 
 Engineering 
 (23EMEC304) 3-0-0 
-Program Elective – 3 
+Program Elective - 3 
 (XXEMEE4XX) 3-0-0 
-Internship – 
+Internship - 
 Training 
 (18EMEI493) 0-0-6 
 Engineering Exploration 
@@ -283,19 +254,19 @@ Engineering Drawing
 Manufacturing 
 Processes (22EMEC201) 
 4-0-0 
-Machines & Mechanisms  
+Machines & Mechanisms 
 (22EMEC203) 3-0-0 
-Programming  
+Programming 
 Industrial Automation 
 Systems(24EMEC302) 
 2-0-2 
 Mechatronics System 
 Design (24EMEP302) 
 0-0-3 
-Program Elective – 4 
+Program Elective - 4 
 (XXEMEE4XX) 3-0-0 
-Capstone Project  
- (20EMEW402)   
+Capstone Project 
+ (20EMEW402) 
 0-0-11 
 Basic Electrical & 
 Electronics Engineering 
@@ -310,11 +281,11 @@ Engineering Materials
 (15EMEF202) 4-0-0 
 Program Elective-1 
 (XXEMEE3XX) 3-0-0 
-Program Elective – 2 
+Program Elective - 2 
 (XXEMEE3XX) 3-0-0 
-Program Elective – 5 
+Program Elective - 5 
 (XXEMEE4XX) 3-0-0 
-Internship– Project 
+Internship- Project 
 (20EMEW494) 
  0-0-11 
 Basic Mechanical Engg. 
@@ -324,7 +295,7 @@ Social Innovation
 (20EHSP101) 
 Control Systems 
 (19EMEC201) 2-1-0 
-Mechatronics  
+Mechatronics 
 (24EMEC201) 2-0-1 
 CAD Modeling & PLM 
 Lab(24EMEP301) 0-0-3 
@@ -334,8 +305,7 @@ Engineering Lab
 Thermal 
 Engineering Lab 
 (19EMEP401) 0-0-1 
- 
-Applied Physics Lab 
+  Applied Physics Lab 
 (21EPHP102) 
 Professional 
 Communication 
@@ -353,8 +323,7 @@ Minor Project
 Senior Design 
 Project 
 (20EMEW401) 0-0-6 
- 
-  Control Systems Lab 
+    Control Systems Lab 
 (22EMEP202) 0-0-1 
 Generative AI 
 (24EMEP201) 0-0-2 
@@ -365,15 +334,13 @@ Industry Readiness
 (22EHSH302)0.5-0-0 
 CIPE/EVS 
 (15EHSA401) Audit 
- 
-  Machine Drawing Lab 
+    Machine Drawing Lab 
 (22EMEP203) 0-0-2 
 Machines & Mechanisms 
-Lab  (15EMEP204) 0-0-1 
+Lab (15EMEP204) 0-0-1 
 Mini Project 
 15EMEW301) 0-0-3 
-   
-  Corporate 
+      Corporate 
 Communication 
 (22EHSH201) 0.5-0-0 
 Engineering Materials 
@@ -381,39 +348,33 @@ Lab.(15EMEP202) 0-0-1
 Arithmetical Thinking 
 & Analytical Reasoning 
 (22EHSH301) 0.5-0-0 
-   
-   Problem Solving & Analysis 
+       Problem Solving & Analysis 
 (22EHSH202) 0.5-0-0 
-    
-Credits 22 22 22.5 25.5 22.5 23.5 21 17 
-
-## Page 8
-
-FMCD2009 / 2.0 
+     Credits 22 22 22.5 25.5 22.5 23.5 21 17 
+ ## Page 8
+ FMCD2009 / 2.0 
  8 
 Curriculum Structure-Semester-wise 
-Semester – I ← 
-No Code Course Category L-T-P Credits Contact   
+Semester - I ← 
+No Code Course Category L-T-P Credits Contact 
 Hours 
 ISA ESA Total Exam 
 Duration 
 (in hrs) 
-1 18EMAB101 Single Variable Calculus BS 4-1-0 5  6  50 50 100 3 hours 
-2 22EPHB102 Engineering Physics BS 3-0-0 3  3  50 50 100 3 hours 
+1 18EMAB101 Single Variable Calculus BS 4-1-0 5 6 50 50 100 3 hours 
+2 22EPHB102 Engineering Physics BS 3-0-0 3 3 50 50 100 3 hours 
 3 18ECSP101 C Programming for Problem 
-solving ES 0-0-3 3  6  80 20 100 3 hours 
-4 22ECRP101 Engineering Exploration ES 0-0-3 3  6  80 20 100   3 hours 
+solving ES 0-0-3 3 6 80 20 100 3 hours 
+4 22ECRP101 Engineering Exploration ES 0-0-3 3 6 80 20 100 3 hours 
 5 21EEXF101 Basic Electrical & Electronics 
-Engineering ES 4-0-0 4  4  50 50 100 3 hours 
-6 22EMEF101 Basic Mechanical Engineering ES 2-1-0 3  4  50 50 100 3 hours 
+Engineering ES 4-0-0 4 4 50 50 100 3 hours 
+6 22EMEF101 Basic Mechanical Engineering ES 2-1-0 3 4 50 50 100 3 hours 
 7 21EPHP102 Applied Physics Lab BS 0-0-1 1 2 80 20 100 3 hours 
-TOTAL  13-2-7 22 31     
- 
-## Page 9
-
-FMCD2009 / 2.0 
+TOTAL 13-2-7 22 31 
+  ## Page 9
+ FMCD2009 / 2.0 
  9 
-Semester – II ← 
+Semester - II ← 
 No Code Course Category L-T-P Credits Contact Hours ISA ESA Total Exam 
 Duration 
 (in hrs) 
@@ -426,12 +387,10 @@ Drawing ES 0-0-3 3 6 80 20 100 3 hours
 Structures ES 0-0-3 3 6 80 20 100 3 hours 
 6 20EHSP101 Design Thinking for Social 
 Innovation HSS 0-1-1 2 4 80 20 100 3 hours 
-7 15EHSH101 Professional Communication HSS 1-1-0 2 3  50 50 100 3 hours 
-TOTAL  12-3-7 22 32     
- 
-## Page 10
-
-FMCD2009 / 2.0 
+7 15EHSH101 Professional Communication HSS 1-1-0 2 3 50 50 100 3 hours 
+TOTAL 12-3-7 22 32 
+  ## Page 10
+ FMCD2009 / 2.0 
  10 
 Semester- III ← 
 No Code Course Category L-T-P Credits Contact 
@@ -441,45 +400,41 @@ Duration
 (in hrs) 
 --- 
 15EMAB231 
-Calculus & Integral Transforms  
+Calculus & Integral Transforms 
 (Diploma Students) BS 4-0-0 4 4 50 50 100 3 Hours 
 1 15EMAB201 Statistics and Integral Transforms BS 4-0-0 4 4 50 50 100 3 Hours 
 2 22EMEF201 Mechanics of Materials ES 3-0-0 3 3 50 50 100 3 Hours 
-3 22EMEC201 Manufacturing Processes  PSC 4-0-0 4 4 50 50 100 3 Hours 
-4 15EMEC202 Engineering Thermodynamics   PSC 3-0-0 3 3 50 50 100 3 Hours 
+3 22EMEC201 Manufacturing Processes PSC 4-0-0 4 4 50 50 100 3 Hours 
+4 15EMEC202 Engineering Thermodynamics PSC 3-0-0 3 3 50 50 100 3 Hours 
 5 19EMEC201 Control Systems PSC 2-1-0 3 4 50 50 100 3 Hours 
-6 22EMEP201 Manufacturing Processes Lab  PSC 0-0-2 2 4 80 20 100 2 Hours 
-7 22EMEP202 Control Systems Lab  PSC 0-0-1 1 2 80 20 100 2 Hours 
-8 22EMEP203 Machine Drawing Lab  PSC 0-0-2 2 4 80 20 100 2 Hours 
-9 22EHSH201 Corporate Communication  HS 0.5-0-0 0.5 1 100 -- 100 2 Hours 
-TOTAL  16.5-1-5 22.5 29     
- 
-## Page 11
-
-FMCD2009 / 2.0 
+6 22EMEP201 Manufacturing Processes Lab PSC 0-0-2 2 4 80 20 100 2 Hours 
+7 22EMEP202 Control Systems Lab PSC 0-0-1 1 2 80 20 100 2 Hours 
+8 22EMEP203 Machine Drawing Lab PSC 0-0-2 2 4 80 20 100 2 Hours 
+9 22EHSH201 Corporate Communication HS 0.5-0-0 0.5 1 100 -- 100 2 Hours 
+TOTAL 16.5-1-5 22.5 29 
+  ## Page 11
+ FMCD2009 / 2.0 
  11 
 Semester- IV ← 
-No Code Course  Category L-T-P Credits Contact Hours ISA ESA Total Exam  
-Duration  
+No Code Course Category L-T-P Credits Contact Hours ISA ESA Total Exam 
+Duration 
 (in hrs) 
 --- 15EMAB241 Vector Calculus & Differential 
-Equations (Diploma Students)  BS 4-0-0 4 4 50 50 100 3 Hours 
+Equations (Diploma Students) BS 4-0-0 4 4 50 50 100 3 Hours 
 1 19EMAB206 Numerical Methods and Partial 
-Differential Equations   BS 3-1-0 4 5 50 50 100 3 Hours 
-2 22EMEC202 Fundamentals of Machine Design   PSC 3-0-0 3 3 50 50 100 3 Hours 
-3 22EMEC203 Machines & Mechanisms   PSC 3-0-0 3 3 50 50 100 3 Hours 
-4 15EMEF202 Engineering Materials  ES 4-0-0 4 4 50 50 100 3 Hours 
-5 24EMEC201 Mechatronics   PSC 2-0-1 4 4 80 20 100 2 Hours 
-6 24EMEC202 Microcontroller & Interfacing  PSC 2-0-1 3 4 80 20 100 3 Hours 
-7 15EMEP204 Machines & Mechanisms Lab   PSC 0-0-1 1 2 80 20 100 2 Hours 
+Differential Equations BS 3-1-0 4 5 50 50 100 3 Hours 
+2 22EMEC202 Fundamentals of Machine Design PSC 3-0-0 3 3 50 50 100 3 Hours 
+3 22EMEC203 Machines & Mechanisms PSC 3-0-0 3 3 50 50 100 3 Hours 
+4 15EMEF202 Engineering Materials ES 4-0-0 4 4 50 50 100 3 Hours 
+5 24EMEC201 Mechatronics PSC 2-0-1 4 4 80 20 100 2 Hours 
+6 24EMEC202 Microcontroller & Interfacing PSC 2-0-1 3 4 80 20 100 3 Hours 
+7 15EMEP204 Machines & Mechanisms Lab PSC 0-0-1 1 2 80 20 100 2 Hours 
 8 15EMEP202 Engineering Materials Lab. PSC 0-0-1 1 2 80 20 100 2 Hours 
 9 24EMEP201 Generative AI PSC 0-0-2 2 4 80 20 100 2 Hours 
-10 22EHSH202 Problem Solving & Analysis  HS 0.5-0-0 0.5 1 100 -- 100 2 Hours 
-TOTAL   17.5-1-4 25.5 32     
- 
-## Page 12
-
-FMCD2009 / 2.0 
+10 22EHSH202 Problem Solving & Analysis HS 0.5-0-0 0.5 1 100 -- 100 2 Hours 
+TOTAL 17.5-1-4 25.5 32 
+  ## Page 12
+ FMCD2009 / 2.0 
  12 
 Semester- V ← 
 No Code Course Category L-T-P Credits Contact Hours ISA ESA Total Exam 
@@ -489,7 +444,7 @@ Duration
 (Diploma Students) BS 3-0-0 3 3 50 50 100 3 hours 
 1 23EMEC301 Design of Machine Elements PSC 3-0-0 3 3 50 50 100 3 hours 
 2 23EMEC303 Finite Element Methods PSC 3-0-0 3 3 50 50 100 3 hours 
-3 24EMEC302 Programming  Industrial 
+3 24EMEC302 Programming Industrial 
 Automation Systems PSC 2-0-2 4 6 80 20 100 2 hours 
 4 XXEMEE3XX Program Elective-1(XXEMEE3XX) PE 3-0-0 3 3 50 50 100 3 hours 
 5 24EMEP301 CAD Modeling & PLM Lab PSC 0-0-3 3 6 80 20 100 2 hours 
@@ -498,20 +453,18 @@ Automation Systems PSC 2-0-2 4 6 80 20 100 2 hours
 9 15EMEW301 Mini Project PRJ 0-0-3 3 6 50 50 100 3 hours 
 10 22EHSH301 Arithmetical Thinking & Analytical 
 Reasoning HS 0.5-0-0 0.5 1 100 -- 100 2 hours 
-TOTAL  11.5-0-11 22.5 34     
- 
-## Page 13
-
-FMCD2009 / 2.0 
+TOTAL 11.5-0-11 22.5 34 
+  ## Page 13
+ FMCD2009 / 2.0 
  13 
 Semester- VI ← 
 No Code Course Category L-T-P Credits Contact Hours ISA ESA Total Exam 
 Duration 
 (in hrs) 
 1 16EHSC301 Professional Aptitude & Logical 
-Reasoning  PSC 3-0-0 3 3 50 50 100 3 hours 
+Reasoning PSC 3-0-0 3 3 50 50 100 3 hours 
 2 24EMEC301 Fluid Mechanics & Hydraulic 
-Machines  PSC 4-0-0 4 4 50 50 100 3 hours 
+Machines PSC 4-0-0 4 4 50 50 100 3 hours 
 3 23EMEC304 Metrology and Quality 
 Engineering 
 PSC 3-0-0 3 3 50 50 100 3 hours 
@@ -522,12 +475,10 @@ Engineering Lab PSC 0-0-1 1 2 80 20 100 2 hours
 7 24EMEW301 Minor Project PRJ 0-0-6 6 12 50 50 100 2 hours 
 8 22EHSH302 Industry Readiness &Leadership 
 Skills HS 0.5-0-0 0.5 1 100 -- 100 2 hours 
-TOTAL  13.5-0-
-10 23.5 32     
- 
-## Page 14
-
-FMCD2009 / 2.0 
+TOTAL 13.5-0-
+10 23.5 32 
+  ## Page 14
+ FMCD2009 / 2.0 
  14 
 Semester- VII ← 
 No Code Course Category L-T-P Credits Contact 
@@ -537,54 +488,45 @@ Duration
 (in hrs) 
 1 24EMEC401 Heat and Mass Transfer PSC 3-0-0 3 3 50 50 100 3 hours 
 2 25EMEC401 IC Engines PSC 2-0-0 2 2 50 50 100 2 hours 
-3 XXEMEE4XX Program Elective – 3 PE 3-0-0 3 3 50 50 100 3 hours 
-4 XXEMEE4XX Program Elective – 4 PE 3-0-0 3 3 50 50 100 3 hours 
-5 XXEMEE4XX Program Elective – 5 PE 3-0-0 3 3 50 50 100 3 hours 
+3 XXEMEE4XX Program Elective - 3 PE 3-0-0 3 3 50 50 100 3 hours 
+4 XXEMEE4XX Program Elective - 4 PE 3-0-0 3 3 50 50 100 3 hours 
+5 XXEMEE4XX Program Elective - 5 PE 3-0-0 3 3 50 50 100 3 hours 
 6 19EMEP401 Thermal Engineering Lab PSC 0-0-1 1 2 80 20 100 2 hours 
 7 20EMEW401 Senior Design Project PW 0-0-6 6 12 50 50 100 3 hours 
-8 15EHSA401 CIPE/EVS  CNC Audit 0 2 50 50 100 3 hours 
-           
-TOTAL  14-0-7 21 30     
- 
-## Page 15
-
-FMCD2009 / 2.0 
+8 15EHSA401 CIPE/EVS CNC Audit 0 2 50 50 100 3 hours 
+            TOTAL 14-0-7 21 30 
+  ## Page 15
+ FMCD2009 / 2.0 
  15 
 Semester- VIII ← 
-No Code Course  Category L-T-P Credits Contact Hours ISA ESA Total Exam  
-Duration  
+No Code Course Category L-T-P Credits Contact Hours ISA ESA Total Exam 
+Duration 
 (in hrs) 
 1 15EMEE4XX Program Elective - 6 
 (15EMEE4XX) PE 3-0-0 3 3 50 50 100 3 Hours 
-2 15EMEO45X Open Elective  (15EMEO45X) OE 3-0-0 3 3 50 50 100 3 Hours 
-3 18EMEI493 Internship – Training (Optional 
-In place of 1 & 2)  0-0-6 6 ---- 80 20 100 3 Hours 
+2 15EMEO45X Open Elective (15EMEO45X) OE 3-0-0 3 3 50 50 100 3 Hours 
+3 18EMEI493 Internship - Training (Optional 
+In place of 1 & 2) 0-0-6 6 ---- 80 20 100 3 Hours 
 4 
 20EMEW402 
 / 
 20EMEW494 
-Capstone Project  / 
-Internship – Project PW 0-0-11 11 22 50 50 100 3 Hours 
-TOTAL  6-0-17 17 28     
- 
-Semester I II III IV V VI VII VIII Total  
+Capstone Project / 
+Internship - Project PW 0-0-11 11 22 50 50 100 3 Hours 
+TOTAL 6-0-17 17 28 
+  Semester I II III IV V VI VII VIII Total 
 Credits 22 22 22.5 25.5 22.5 23.5 21 17 176 
-
-## Page 16
-
-FMCD2009 / 2.0 
+ ## Page 16
+ FMCD2009 / 2.0 
  16 
 List of Open Electives 
-  
-Sr. No Name of the Course Course Code 
-1. Introduction to Nano-Science & Nano Technology  15EMEO401 
-2. Nano Technology  15EMEO402 
-3. Design of Experiments  15EMEO403 
-4. Engine Management Systems   15EMEO404 
- 
-## Page 17
-
-FMCD2009 / 2.0 
+   Sr. No Name of the Course Course Code 
+1. Introduction to Nano-Science & Nano Technology 15EMEO401 
+2. Nano Technology 15EMEO402 
+3. Design of Experiments 15EMEO403 
+4. Engine Management Systems 15EMEO404 
+  ## Page 17
+ FMCD2009 / 2.0 
  17 
 List of Program Electives 
 Sr. No Name of the Course Course Code 
@@ -597,17 +539,17 @@ Sr. No Name of the Course Course Code
 7 Additive Manufacturing Processes 22EMEE301 
 8 Turbo Machines 18EMEE303 
 9 Thermal Management of EV Battery Systems 22EMEE302 
-10 Advanced CAE – I 25EMEE301 
+10 Advanced CAE - I 25EMEE301 
 11 Bionic Design 22EMEE303 
 12 Enterprise Resource Planning-I 24EMEE301 
-13 Fundamentals of Product Lifecycle Management  24EMEE302 
+13 Fundamentals of Product Lifecycle Management 24EMEE302 
 14 Advanced Statistics and Machine Learning 19EMEE302 
 15 Failure Analysis in Design 15EMEE302 
 16 Smart Manufacturing Technologies 25EMEE306 
 17 Mobile Robotic Systems 25EMEE307 
 18 Computer Integrated Manufacturing 15EMEE306 
 19 Green Hydrogen 22EMEE306 
-20 Advanced CAE – II 25EMEE302 
+20 Advanced CAE - II 25EMEE302 
 21 Biomechanics 22EMEE307 
 22 Mechanics of Composite Materials 25EMEE401 
 23 Design of Automotive Power Train 15EMEE402 
@@ -618,10 +560,8 @@ Sr. No Name of the Course Course Code
 28 Design of Jigs, Fixtures and Press Tools 24EMEE404 
 29 Operations Research 24EMEE401 
 30 Computational Heat Transfer and Fluid Flow 15EMEE407 
-
-## Page 18
-
-FMCD2009 / 2.0 
+ ## Page 18
+ FMCD2009 / 2.0 
  18 
 31 Design of Thermal Systems 24EMEE402 
 32 Fundamentals of Gas Turbines 15EMEE408 
@@ -635,135 +575,124 @@ FMCD2009 / 2.0
 40 Product Design & Development 19EMEE303 
 41 Design for Additive Manufacturing (DfAM) Lab 22EMEE305 
 42 Enterprise Resource Planning-II 24EMEE303 
-43 Advanced Product Lifecycle Management  24EMEE304   
+43 Advanced Product Lifecycle Management 24EMEE304 
 44 Vehicle Structure and Design Optimization 19EMEE301 
 45 Machine Learning Applications 19EMEE307 
 46 Dynamics & Durability of Vehicles 19EMEE401 
 47 Facets of Project Analysis 24EMEE407 
- 
-## Page 19
-
-FMCD2009 / 2.0 
+  ## Page 19
+ FMCD2009 / 2.0 
  19 
 Curriculum Content- Course wise 
 ← BACK TO SMESTER I 
-Program: UG  Semester: I 
-Course Title:  Single variable Calculus Course Code: 18EMAB101 
+Program: UG Semester: I 
+Course Title: Single variable Calculus Course Code: 18EMAB101 
 L-T-P: 4-1-0 Credits: 05 Contact Hours: 6 hrs / week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 50 Examination Duration: 3hrs  
+Teaching Hours: 50 Examination Duration: 3hrs 
 Unit I 
- 1. Functions, Graphs and Models                                                                                                     07 hours 
-Functions, types of functions, transformations and models (Linear, exponential, trigonometric).  
+ 1. Functions, Graphs and Models 07 hours 
+Functions, types of functions, transformations and models (Linear, exponential, trigonometric). 
 MATLAB: Graphing functions, Domain-Range and Interpreting the models 
- 
-2. Calculus of functions and models                                                                                                13 hours 
+  2. Calculus of functions and models 13 hours 
 Limit of a function, Infinite limits - graph, Continui ty and discontinuity, Intermediate value theorem 
-statement, Roots of the equation using Bisection Method and Newton- Raphson Method  
+statement, Roots of the equation using Bisection Method and Newton- Raphson Method 
 Interpretation of derivative as a rate of change, All the rules of derivatives (List only), Maxima, Minima 
-and optimization problems. Curvature and Radius of Curvature, Indeterminate forms, L- Hospital’s rule-
+and optimization problems. Curvature and Radius of Curvature, Indeterminate forms, L- Hospital's rule-
 Examples 
 MATLAB: optimization problems. Curvature problems 
 Unit II 
-3. Infinite Series                                                                                                                                  06 hours 
-Definition, Convergence of series, Tests of convergence – p-series, Alternating series. Power series, radius 
-of convergence, Taylor’s and Maclaurin’s series, Applications of Taylor’s and Maclaurin’s series 
+3. Infinite Series 06 hours 
+Definition, Convergence of series, Tests of convergence - p-series, Alternating series. Power series, radius 
+of convergence, Taylor's and Maclaurin's series, Applications of Taylor's and Maclaurin's series 
 MATLAB: Convergence of series 
- 4. Integral calculus                                                                                                                            14 hours 
+ 4. Integral calculus 14 hours 
 Tracing of standard curves in Cartesian form ,Parametric form and Polar form; Beta and gamma function, 
 relation between them, evaluation of integrals using Beta and gamma functions; Applications to find arc 
 length, Area, Volume and surface area (Cartesian, parametric and polar curves). Approximate integration- 
-Trapezoidal rule, Simpson’s 1/3 rule 
+Trapezoidal rule, Simpson's 1/3 rule 
 MATLAB: problems on arc length, area, volume and surface area 
 Unit III 
-5. Ordinary differential equations of first order                                                                       10 hours 
-(a) Introduction to Initial Value problems. Linear and Bernoulli’s equations, Exact equations and reducible 
-to exact form, Numerical solution to Initial Value problems-Euler’s method, Modified Euler’s method and 
+5. Ordinary differential equations of first order 10 hours 
+(a) Introduction to Initial Value problems. Linear and Bernoulli's equations, Exact equations and reducible 
+to exact form, Numerical solution to Initial Value problems-Euler's method, Modified Euler's method and 
 Runge-Kutta method 
 (b) Applications of first order differential equations-Orthogonal trajectories growth and decay problems, 
 mixture problems, Electrical circuits, falling bodies. 
 MATLAB: Solve differential equations 
-Text Books  
-1. James Stewart, Early Transcendentals - Calculus, Thomson Books, 7th edn.   2010. 
+Text Books 
+1. James Stewart, Early Transcendentals - Calculus, Thomson Books, 7th edn. 2010. 
 Reference Books 
 1. Hughues-Hallett Gleason, Calculus Single and Multivariable, Wiley India Ed, 4ed, 2009. 
-2. George B Thomas, Thomas Calculus, Pearson India, 12th   edn., 2010 
- 
-## Page 20
-
-FMCD2009 / 2.0 
+2. George B Thomas, Thomas Calculus, Pearson India, 12th edn., 2010 
+  ## Page 20
+ FMCD2009 / 2.0 
  20 
 ← BACK TO SMESTER I 
- 
-Program: UG Semester: I 
-Course Title:  Engineering Physics Course Code: 22EPHB102 
+  Program: UG Semester: I 
+Course Title: Engineering Physics Course Code: 22EPHB102 
 L-T-P: 3-0-0 Credits: 03 Contact Hours: 3 Hrs / week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 03 Hrs  
+Teaching Hours: 40 Examination Duration: 03 Hrs 
 UNIT-I 
-1. Concept of  Motion- Kinematics in One Dimension: 
+1. Concept of Motion- Kinematics in One Dimension: 
 Introduction, motion diagrams, particle model, position and time, linear velocity and acceleration, 
 uniform motion, instantaneous velocity, finding position from velocity, motion with constant acceleration, 
-free fall motion on an inclined plane, instantaneous acceleration, numericals.            06 Hrs                                                                                                                                                                                 
-2. Kinematics in Two Dimensions:  
+free fall motion on an inclined plane, instantaneous acceleration, numericals. 06 Hrs 
+2. Kinematics in Two Dimensions: 
 Introduction to vectors, properties of vectors, co -ordinate systems and vector components, vector 
 algebra. Position, velocity and acceleration vectors, projectile motion, relative motion, uniform circular 
-motion, velocity and acceleration in uniform circular motion,  non-uniform circular motion and angular 
-acceleration, numericals.                                                                                                                               06 Hrs                                                                                                                                                                                                                                                                                          
-3. Force and Motion:  
-Concept of force, identifying forces, a virtual experiment, Newton’s first law, Newton’s second law, free-
-body diagrams, applications.                                                                                                                        04 Hrs             
-UNIT – II 
-4. Dynamics I:  
-Equilibrium using Newton’s second law, friction, drag, Newton’s third law, analyzing interacting objects, 
-Newton’s third law, applications.                                                                                                               05 Hrs                                                                                                                                                    
-5. Dynamics II:  
+motion, velocity and acceleration in uniform circular motion, non-uniform circular motion and angular 
+acceleration, numericals. 06 Hrs 
+3. Force and Motion: 
+Concept of force, identifying forces, a virtual experiment, Newton's first law, Newton's second law, free-
+body diagrams, applications. 04 Hrs 
+UNIT - II 
+4. Dynamics I: 
+Equilibrium using Newton's second law, friction, drag, Newton's third law, analyzing interacting objects, 
+Newton's third law, applications. 05 Hrs 
+5. Dynamics II: 
 Motion in a plane, dynamics in two dimension, velocity a nd acceleration in uniform circular motion, 
-dynamics of uniform circular motion, fictitious forces, non-uniform circular motion, numericals.  06 Hrs                                                                                                                                                                                                               
-6. Impulse and Momentum:  
+dynamics of uniform circular motion, fictitious forces, non-uniform circular motion, numericals. 06 Hrs 
+6. Impulse and Momentum: 
 Momentum and impulse, problems, conservation of momentum, inelastic collisions, explosion, 
-momentum in two dimensions, numericals.                                                                                             05 Hrs                   
-UNIT – III 
-7. Quantum Mechanics:  
+momentum in two dimensions, numericals. 05 Hrs 
+UNIT - III 
+7. Quantum Mechanics: 
 Introduction, dual nature of matter waves, De -Broglie concept of matter waves, Davission and Germer 
-Experiment, Heisenberg’s uncertainty principle, 1 -D Schrodinger wave equation (qualitative). Physical 
+Experiment, Heisenberg's uncertainty principle, 1 -D Schrodinger wave equation (qualitative). Physical 
 significance of wave function, particle in a box (qualitative), Eigen functions and Eigen values, 
-discretization of energy.                                                                                                                                   03 Hrs                                                                                                    
-8. Nanoscience and its applications:  
+discretization of energy. 03 Hrs 
+8. Nanoscience and its applications: 
 Introduction, length scales, scaling effect (surface-volume ratio, quantization, dandling bonds, defects and 
 self-assembly-qualitative), density of states and confinement of electron energy states in 3D, 2D, 1D and 
 0D systems (qualitative treatment), change in material properties from bulk to nanostructures, variation 
 of physical properties (mechanical, optical, electric, magnetic, chemical) from bulk to thin films to nano-
 materials, nano-particle examples: metal (magnetic and non -magnetic), Graphene, carbon nanotubes, 
-biological nanoparticles.                                                                                                                               05 hrs 
+biological nanoparticles. 05 hrs 
 Text Books 
 1. Randall D Knight, Physics for Scientists and Engineers, Pearson publication, 3e (2008) 
-2. Aurther Beiser,  Concepts of Modern Physics, 6e, Tata McgrawHills, (2003) 
+2. Aurther Beiser, Concepts of Modern Physics, 6e, Tata McgrawHills, (2003) 
 3. Sulbha Kulkarni, Nanotechnology Principles and practices, 3e, Springer. 
-
-## Page 21
-
-FMCD2009 / 2.0 
+ ## Page 21
+ FMCD2009 / 2.0 
  21 
- 
-Reference Books 
-1. John W Jewett and Raymond A Serway, Physics for Scientists and Engineers with modern physics,  
-Cengage publication, India Edition, 9e (2014)  
+  Reference Books 
+1. John W Jewett and Raymond A Serway, Physics for Scientists and Engineers with modern physics, 
+Cengage publication, India Edition, 9e (2014) 
 2. Hans C Ohanian & John T Markert, Physics for Engineers and Scientists, W W Norton and Company, 
 Vol-1, 3e (2006) 
 3. A.K. Bandopadhya, Nanomaterials, New Age Publishers, (2004) 
-4. S.K. Prasad,  Advanced nano technology, Discovery publishing house Pvt. Ltd New Delhi 
-
-## Page 22
-
-FMCD2009 / 2.0 
+4. S.K. Prasad, Advanced nano technology, Discovery publishing house Pvt. Ltd New Delhi 
+ ## Page 22
+ FMCD2009 / 2.0 
  22 
 ← BACK TO SMESTER I 
-Program: UG  Semester: I 
+Program: UG Semester: I 
 Course Title: C Programming for Problem Solving Course Code: 18ECSP101 
-L-T-P: 0-0-3 Credits: 3 Contact Hrs:  6 hrs/week 
+L-T-P: 0-0-3 Credits: 3 Contact Hrs: 6 hrs/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
-Teaching Hrs: 78 Exam Duration:  3 hrs Semester: I 
+Teaching Hrs: 78 Exam Duration: 3 hrs Semester: I 
 1 Introduction to Problem solving 
 Introduction to algorithms / flowcharts and its notations, top-down design, elementary 
 problems. 
@@ -772,27 +701,26 @@ problems.
 Characteristics and uses of C, Structure of C program, C Tokens: Keyword s, Identifiers, 
 Variables, Constants, Operators, Data-types, Input and Output statements. 
 15 hrs 
-3 Decision control statements  
+3 Decision control statements 
 Conditional branching statements: if statement, if else statement, else if ladder, switch 
 statement, unconditional branching statements: break, continue. 
 Introduction to Debugging Skills 
 Introduction to Test Driven Programming. 
- 
-12 hrs 
+  12 hrs 
 4 Iterative statements 
 while, do while, for, nested statements 
 10 hrs 
 5 Functions 
-Introduction, Function declaration, definition, call, returns  statement, passing 
+Introduction, Function declaration, definition, call, returns statement, passing 
 parameters to functions, introduction to macros. 
 Introduction to Coding Standards 
 10 hrs 
-6 Arrays and Strings  
+6 Arrays and Strings 
 Introduction, Declaration, accessing elements, Storing values in arrays, Operations on 
-one dimensional array, Operations on two dimensional arrays,  
+one dimensional array, Operations on two dimensional arrays, 
 Introduction to Code Optimization and refactoring 
 15 hrs 
-7 Pointers  
+7 Pointers 
 Introduction, declaring pointer, pointer variables, pointer expression and arithmetic, 
 passing arguments to functions using pointers, pointers and arrays, passing an array to a 
 function. 
@@ -808,17 +736,15 @@ Reference Books
 2. B S Gottfried, Programming with C, 2ed, TMH, 2006. 
 3. B.A. Forouzan, R.F. Gilberg, A Structured Program Approach Using C, 3ed, CENGAGE Learning, 
 2008. 
- 
-## Page 23
-
-FMCD2009 / 2.0 
+  ## Page 23
+ FMCD2009 / 2.0 
  23 
 ← BACK TO SMESTER I 
-Program: Bachelor of Engineering   Semester: I 
+Program: Bachelor of Engineering Semester: I 
 Course Title: Engineering Exploration Course Code: 22ECRP101 
-L-T-P: 0-0-3 Credits: 3 Contact Hrs:  6 hrs/week 
+L-T-P: 0-0-3 Credits: 3 Contact Hrs: 6 hrs/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
-Teaching Hrs: 72 Exam Duration:  3 hrs  
+Teaching Hrs: 72 Exam Duration: 3 hrs 
 Content Hrs 
 Module 1: Introduction to Engineering and Engineering Study 
 Introduction to Engineering and Engineering Study: Difference between science and 
@@ -826,7 +752,7 @@ engineering, scientist and engineer needs and wants, various disciplines of engi
 misconceptions of engineering, Expectation for the 21 st-century engineer, and Graduate 
 Attributes. 
 03 Hrs 
-Module 2: Engineering Design  
+Module 2: Engineering Design 
 Engineering Design Process, Problem definition formulation process, Concept generation - 
 Function tree, Functional structure, Morphological chart, and Concept selection- Pugh Chart, 
 Product Architecture. Prototyping and testing. 
@@ -845,17 +771,17 @@ Module 5. Project Management
 Introduction to Project Management, Significance of teamwork, Significance of Agile practices, 
 Significance of documentation. 
 03 Hrs 
-Module 6. Engineering Ethics  
+Module 6. Engineering Ethics 
 Identifying Engineering as a Profession, Significance of Professional Ethics, Code of Conduct for 
 Engineers, Identifying Ethical Dilemm as in different tasks of engineering, Applying Moral 
 Theories and codes of conduct for resolution of Ethical Dilemmas. 
 03 Hrs 
-Module 7. Sustainability in Engineering  
-Introduction to sustainability, Sustainability leadership, Life cycle assessment, carbon  foot 
+Module 7. Sustainability in Engineering 
+Introduction to sustainability, Sustainability leadership, Life cycle assessment, carbon foot 
 print. 
 06 Hrs 
-Course Project Reviews  24 Hrs 
-Scheme for In-Semester assessment (ISA)  
+Course Project Reviews 24 Hrs 
+Scheme for In-Semester assessment (ISA) 
 Name of the Module Hours % Weightage 
 1. Introduction to Engineering & Engineering study 3 5 
 2. Engineering Design 9 10* 
@@ -867,33 +793,29 @@ Name of the Module Hours % Weightage
 8. Course Project Reviews 24 30* 
 a. Virtual Implementation (VI) VI-10 
 b. Physical Implementation (PI) PI-15 
-
-## Page 24
-
-FMCD2009 / 2.0 
+ ## Page 24
+ FMCD2009 / 2.0 
  24 
 c. Performance Testing (PT) PT-05 
 Total 72 80 
 Assessment will be done in course projects 
 Scheme for End-semester Assessment (ESA) 
-ESA  Hours % Weightage Marks 
+ESA Hours % Weightage Marks 
 Functionality (FT) 03 20 04 
 Individual Learning (IL) 06 
 Project Report (PR) 05 
 Video Documentation (VD) 05 
- 
-## Page 25
-
-FMCD2009 / 2.0 
+  ## Page 25
+ FMCD2009 / 2.0 
  25 
 ← BACK TO SMESTER I 
-Program: Bachelor of Engineering   Semester: I 
-Course Code: 21EEXF101 Course Title: Basic Electrical and Electronics Engineering  
+Program: Bachelor of Engineering Semester: I 
+Course Code: 21EEXF101 Course Title: Basic Electrical and Electronics Engineering 
 L-T-P-Self Study: 4-0-0-0 Credits: 4 Contact Hrs: 4 hrs / week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 47  Exam Duration: 3 hrs 
+Teaching Hrs: 47 Exam Duration: 3 hrs 
 Content Hrs 
-Unit – 1 
+Unit - 1 
 Chapter 1: Introduction to Electrical & Electronics Technology 
 Electrical Power Generation (convention and renewable energy sources, with PV elaborated), 
 transmission, distribution, utilization (Electric Vehicle as a case study), Electrical and Electronic 
@@ -907,33 +829,33 @@ and Nodal analysis with an example.
 10 
 hrs 
 Chapter 3: Introduction to Transformer and Electric Drive 
-Electromagnetic principles, classification of electric machines – static and rotary, transformers, 
+Electromagnetic principles, classification of electric machines - static and rotary, transformers, 
 motors, PMDC, stepper, BLDC, single and three -phase induction motors, selection of motors 
 for various applications. Safety measures. 
  10 hrs 
-Unit – 2 
+Unit - 2 
 Chapter No. 4: Semiconductor Devices and its Applications 
 Fundamentals of semiconductors, PN junction diode, BJT, FET, Thyristors, Integrated circuits, 
-Linear application – Transistors and Operational amp lifiers, oscillators (Op -Amp based), 
-Nonlinear application – Power electronics converters. 
+Linear application - Transistors and Operational amp lifiers, oscillators (Op -Amp based), 
+Nonlinear application - Power electronics converters. 
 10 hrs 
 Chapter No. 5: Digital Abstraction 
-Concept of digital abstraction, Number systems, base conversion – binary, decimal, 
+Concept of digital abstraction, Number systems, base conversion - binary, decimal, 
 hexadecimal, BCD, Gray code, Boolean algebra, logic gates, combinational circuits, - half adders, 
 full adders, half subtractor and full subtractor using k -maps for 2 or 3 variables, sequential 
-circuits – registers, counters. 
+circuits - registers, counters. 
 10 hrs 
 Chapter No. 6: Mechatronic Subsystem 
-Power supply,  Introduction to sensors and actuators, signal conditioning and 
+Power supply, Introduction to sensors and actuators, signal conditioning and 
 interfacing, Control logic design for mechatronic applications. 
 5 
 Text Books 
-1.  Anant Agarwal and Jefferey H. Lang, Foundations of Analog and Digital Electronic Circuits, Morgan Kaufmann 
--Elsevier, 2005 
+1. Anant Agarwal and Jefferey H. Lang, Foundations of Analog and Digital Electronic Circuits, Morgan Kaufmann 
+- Elsevier, 2005 
 2. Hughes, Electrical and Electronic Technology, 12th Edition, Pearson, 2016. 
 References 
-1.  N.P .Mahalik, Mechatronics - Principles, Concepts and Applications, Tata McGraw-Hill, 2011 
-2.  K.A Krishnamurthy and M.R.Raghuveer, Electrical, Electronics and Computer Engine ering for Scientist and 
+1. N.P .Mahalik, Mechatronics - Principles, Concepts and Applications, Tata McGraw-Hill, 2011 
+2. K.A Krishnamurthy and M.R.Raghuveer, Electrical, Electronics and Computer Engine ering for Scientist and 
 Engineers, 2, New Age International Publishers, Wiley Eastern, 2001 
 3. George Kennedy, Electronic Communication Systems, 4, Tata McGraw Hill, 2000 
 4. Morris Mano, Digital Logic and Computer Design, 21st Indian print Prentice Hall India, 2000 
@@ -943,52 +865,50 @@ Engineers, 2, New Age International Publishers, Wiley Eastern, 2001
 8. W.Bolton, Mechatronics - Electronic Control Systems in Mechanical and Electrical Engineering, 3, Pearson 
 Education, 2005 
 9. Ernest O Doeblin, Dhanesh N Manik, Measurement Systems, 6th Edition, MGH; 2017 
-
-## Page 26
-
-FMCD2009 / 2.0 
+ ## Page 26
+ FMCD2009 / 2.0 
  26 
 ← BACK TO SMESTER I 
-Program: Bachelor of Engineering  Semester: I 
+Program: Bachelor of Engineering Semester: I 
 Course Title: Basic Mechanical Engineering Course Code: 22EMEF101 
 L-T-P: 2-1-0 Credits: 3 Contact Hours: 4 hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 hrs  
+Teaching Hours: 40 Examination Duration: 3 hrs 
 Unit I 
-1.Introduction to Mechanical Engineering:                                                                                      2 Hrs 
-Mechanical Engineering, Mechanical Engineers ’ top ten achievements, Branches of Mechanical 
+1. Introduction to Mechanical Engineering: 2 Hrs 
+Mechanical Engineering, Mechanical Engineers ' top ten achievements, Branches of Mechanical 
 Engineering, Mechanical product Example: Pressure Cooker. 
-2. Power Transmission Drives:                                                                                                            6 Hrs 
+2. Power Transmission Drives: 6 Hrs 
 Overview Design Application: • Belt Drives (Flat belt), Length of Belt. Velocity Ratio, Initial Tension. Ratio 
 of Tensions. Power Transmitted, Numerical Problems. • Gears. Spur Gear, Rack and Pinion, Worm Gear, 
 Bevel Gear, Helical Gears and Elliptical gear. Speed, Torque, and Power in Gear pair. Simple and Compound 
 Gear trains. Numerical Problems. Hydraulic transmission system. 
 Unit II 
-3. Manufacturing Engineering:                                                                                                           6 Hrs  
+3. Manufacturing Engineering: 6 Hrs 
 What is manufacturing? Classificat ion of Manufacturing Processes, Metal joining processes - Soldering, 
 brazing, and welding (Arc and gas welding). Machine tools - Lathe, Milling, Drilling Grinding (working 
 principle and operations). CNC machines, Robotics and its applications. Additive manuf acturing 
 techniques. 
-4. IC engines and Electric powertrains:                                                                                             4 Hrs 
+4. IC engines and Electric powertrains: 4 Hrs 
 Internal Combustion Engines: Classification, IC engine parts, 4 Stroke SI and CI Engine, Comparis on of 
 2stroke and 4 stroke engine, comparison of CI and SI engine, Problems on Engine Performance. Electric 
 drives. Hybrid drives- series and parallel layout. 
 Unit III 
-5. Refrigeration and Air conditioning:                                                                                               3 Hrs 
+5. Refrigeration and Air conditioning: 3 Hrs 
 Refrigeration system, vapour compression refrigeration system, vapour absorption system, refrigerants 
-and their properties. Air conditioning system.  
-6. Fluid movers:                                                                                                                                      3 Hrs 
+and their properties. Air conditioning system. 
+6. Fluid movers: 3 Hrs 
 Pumps, Blowers and Compressors and their working principle 
 Tutorial Content 
-1. Virtual Prototyping: 2D sketching, 3D modelling-Extrude, Revolve, Pattern and Sheet Metal Assembly.                                                                                                                                               
+1. Virtual Prototyping: 2D sketching, 3D modelling-Extrude, Revolve, Pattern and Sheet Metal Assembly. 
 8 Hrs 
-2.                                                                                                                                                              8 Hrs 
+2. 8 Hrs 
  Visit to workshop: welding shop, sheet metal shop, machine Shop. 
  Demonstration of various machine tools such as lathe, milling, drilling and grinding machines 
 and safety precautions in workshop. 
  Assembly and disassembly of bicycle and demonstration on welding (electric arc welding, gas 
 welding). 
- Demonstration and exercise on sheet metal work.  
+ Demonstration and exercise on sheet metal work. 
 Text Books 
 1. Jonathan Wickert and Kemper Lewis, An Introduction to Mechanical Eng ineering, Third Edition, 
 Cengage Learning, 2013 
@@ -996,38 +916,32 @@ Cengage Learning, 2013
 Engineering, 30th Edition, Subhash Publishers, Bangalore, 2010 
 3. Dr. N. Krishnamurthy, Dr. H. S. Manohar, Mr. Sagar M. Baligidad, Elements of Mechanical 
 Engineering, First Edition, Sunstar Publisher, 2014 
- 
-## Page 27
-
-FMCD2009 / 2.0 
+  ## Page 27
+ FMCD2009 / 2.0 
  27 
- 
-Reference Books 
+  Reference Books 
 1. SKH Chowdhary, AKH Chowdhary, Nirjhar Roy, The Elements of Workshop Technology, Vol I & II, 
 11th edition, Media Promoters and Publishers, 2001 
 2. Roger Timings, Basic Manufacturing, Third edition, Newnes, An imprint of Elsevier, 2010 
- 
-## Page 28
-
-FMCD2009 / 2.0 
+  ## Page 28
+ FMCD2009 / 2.0 
  28 
 ← BACK TO SMESTER I 
- 
-Program: BE  Semester: I 
-Course Title:  Applied Physics lab (ES)      Course Code:  21EPHP102 
-L-T-P: 0-0-1 Credits: 01 Contact Hrs: 02 Hrs/week                 
-ISA  Marks: 80 ESA Marks: 20 Total Marks: 100 
-Teaching Hrs: 20 Exam Duration: 03 Hrs  
+  Program: BE Semester: I 
+Course Title: Applied Physics lab (ES) Course Code: 21EPHP102 
+L-T-P: 0-0-1 Credits: 01 Contact Hrs: 02 Hrs/week 
+ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
+Teaching Hrs: 20 Exam Duration: 03 Hrs 
 LIST OF EXPERIMENTS 
 1. Experimental data error analysis. 
 2. Centripetal force. 
-3. Young’s modulus. 
+3. Young's modulus. 
 4. Coefficient of friction. 
 5. V-I Characteristics of pn- Junction diode and plotting DC load line. 
 6. Hysteresis loss. 
-7. Verification of Kirchoff’s KVL and KCL (DC Circuits) 
+7. Verification of Kirchoff's KVL and KCL (DC Circuits) 
 8. Use of measuring instruments (RPS & FG) and calibration of oscilloscope 
-9. Realization of basic gates (Using IC’s)  
+9. Realization of basic gates (Using IC's) 
 10. Zener diode characteristics and voltage regulation (line and load regulation). 
 OPEN ENDED EXPERIMENT 
 1. Realization of a ±5/12V regulated power supply 
@@ -1036,50 +950,47 @@ SCHEME OF EVALUATION:
 Students Assessment through ISA (80%) + ESA (20%) 
 In Semester Assessment: (80%) Assessment Weightage in Marks 
 Performance 3 x 10=30 
-Presentation of  records 1 x 10=10 
+Presentation of records 1 x 10=10 
 Viva Voce 2 x 10=20 
-Conduct of a lab  test 10 
+Conduct of a lab test 10 
 Open ended experiment 10 
-       ISA     Total 80 
+       ISA Total 80 
 End Semester Assessment (20%) Write up + performance + results 
 + viva 
 20 
-ESA    Total 20 
+ESA Total 20 
 ISA (80%) + ESA (20%) Total 100 
-
-## Page 29
-
-FMCD2009 / 2.0 
+ ## Page 29
+ FMCD2009 / 2.0 
  29 
 ← BACK TO SEMESTER II 
- 
-Program: UG  Semester: II 
+  Program: UG Semester: II 
 Course Title: Multivariable calculus Course Code: 18EMAB102 
 L-T-P: 4-1-0 Credits: 05 Contact Hours: 6 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 05 Examination Duration: 3hrs.  
+Teaching Hours: 05 Examination Duration: 3hrs. 
 Unit I 
-1. Partial differentiation                                                                                                          12 hours            
-Function of several variables, Partial derivatives, Level curves, Chain rule, Errors and             
-Approximations. Extreme value problems. Lagrange’s multipliers. 
-2. Double integrals                                                                                                                    08 hours 
+1. Partial differentiation 12 hours 
+Function of several variables, Partial derivatives, Level curves, Chain rule, Errors and 
+Approximations. Extreme value problems. Lagrange's multipliers. 
+2. Double integrals 08 hours 
 Double integrals- Rectangular and polar coordinates, Change the order of integration. Change of 
 variables, Jacobian. Application of double integrals 
 MATLAB: optimization problems, application of double integrals 
 Unit II 
-3. Triple integrals                                                                                                                         07 hours 
+3. Triple integrals 07 hours 
 Triple integrals, Cartesian, change to Cylindrical and Spheri cal coordinates Application of Triple 
 integrals 
-4. Calculus of Vector Fields                                                                                                        13 hours     
+4. Calculus of Vector Fields 13 hours 
 Vector fields, Gradient and directional derivatives. Line and Surf ace integrals. Independence of 
-path and potential functions. Green’s theorem, Divergence of vector field, Divergence theorem, 
+path and potential functions. Green's theorem, Divergence of vector field, Divergence theorem, 
 Curl of vector field. Stokes theorem. 
 MATLAB: application of Triple integrals, Vector calculus problems 
 Unit III 
-5. Differential equations of higher orders                                                                           (5+5) hours          
+5. Differential equations of higher orders (5+5) hours 
 (a) Linear differential equations of second and higher order with constant coef ficients, The 
-method of Variation of parameters. Initial a nd boundary value problems.                                                                   
-(b) Applications of second order differential equations -Newton’s 2 nd law, electrical circuits, 
+method of Variation of parameters. Initial a nd boundary value problems. 
+(b) Applications of second order differential equations -Newton's 2 nd law, electrical circuits, 
 Simple Harmonic motion. Series solution of differential equations. Validity of Series solution of 
 Differential equations. 
 MATLAB: application of differential equations 
@@ -1088,87 +999,82 @@ Text Books
 Reference Books 
 1. Hughues-Hallett Gleason, Calculus Single and Multivariable, Wiley India Ed, 4ed, 2009. 
 2. George B Thomas, Thomas Calculus, Pearson India, 12ed, 2010 
- 
-## Page 30
-
-FMCD2009 / 2.0 
+  ## Page 30
+ FMCD2009 / 2.0 
  30 
 ← BACK TO SEMESTER II 
- 
-Program: UG  Semester: II 
-Course Title:  Engineering Chemistry Course Code: 22ECHB101 
+  Program: UG Semester: II 
+Course Title: Engineering Chemistry Course Code: 22ECHB101 
 L-T-P: 3-0-0 Credits: 03 Contact Hours: 3 hrs / week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 03 Hrs  
+Teaching Hours: 40 Examination Duration: 03 Hrs 
 Unit-I 
-1. Chemical Bonding and Molecular Structure                   
-Chemical bonding – Types, Ionic bond: Formation of NaCl molecule, factors influencing the formation 
-of ionic bond – ionization energy, electron affinity and lattice energy, Born–Haber’s cycle, calculation 
+1. Chemical Bonding and Molecular Structure 
+Chemical bonding - Types, Ionic bond: Formation of NaCl molecule, factors influencing the formation 
+of ionic bond - ionization energy, electron affinity and lattice energy, Born-Haber's cycle, calculation 
 of lattice energy of NaCl molecule and properties of ionic compounds; Covalent bond: atomic orbital 
-theory – formation of H2 molecule, polar and nonpolar covalent bonds – H2 and HCl molecules, dipole 
+theory - formation of H2 molecule, polar and nonpolar covalent bonds - H2 and HCl molecules, dipole 
 moment, calculation of percentage o f ionic character and properties of covalent compounds. 
 Hybridization: sp, sp2 and sp3 hybridization - geometry of BeF2, BF3 and CH4 molecules. VSEPR Theory: 
-regular and irregular geometry, geometry of SnCl2, NH3 and H2O molecules.                                06 Hrs 
-2. Electrochemical Energy Systems   
+regular and irregular geometry, geometry of SnCl2, NH3 and H2O molecules. 06 Hrs 
+2. Electrochemical Energy Systems 
 Electrode potential, Nernst equation; Formation of a cell; Reference electrodes: Calomel electrode - 
 determination of electrode potential; Numerical problems on E, Ecell and E0cell. Batteries: classification, 
-characteristics, Lead - acid battery and Lithium ion battery. Fuel cells:  Types of fuel cells; Methanol - 
-Oxygen fuel cell.                                                                                                              06 Hrs 
+characteristics, Lead - acid battery and Lithium ion battery. Fuel cells: Types of fuel cells; Methanol - 
+Oxygen fuel cell. 06 Hrs 
 3. Polymer Chemistry 
 Polymers, properties, classification, free radical mechanism of addition polymerization by taking 
-ethylene as an example. Commercial polymers: plexi glass and polyurethane. Polymer composites:  
-carbon fibre and epoxy resin – synthesis, properties and applications. Conducting polymers: Polyaniline 
-– synthesis, mechanism of conduction in doped polyaniline and its applications.      04 Hrs                                                                                                                                              
-Unit – II 
-4.  Plating Techniques 
+ethylene as an example. Commercial polymers: plexi glass and polyurethane. Polymer composites: 
+carbon fibre and epoxy resin - synthesis, properties and applications. Conducting polymers: Polyaniline 
+- synthesis, mechanism of conduction in doped polyaniline and its applications. 04 Hrs 
+Unit - II 
+4. Plating Techniques 
 Technological importance of plating techniques, Types of plating, Electroplating: Definition, 
 electroplating of Gold by acid cyanide bath, determination of Throwing Power of plating bath by Haring 
-Blum cell and numerical problems.  Electroless plating: advantages of electroless plating over 
+Blum cell and numerical problems. Electroless plating: advantages of electroless plating over 
 electroplating, electroless plating of Copper and its application in the manufacture of printed circuit 
-board (PCB).                                                                                                                                                  03 Hrs 
-5.  Wafer Technology 
+board (PCB). 03 Hrs 
+5. Wafer Technology 
 Introduction, physical and chemical properties of silicon, metallurgical grade silicon, purification of 
 silicon; chemical vapor deposition (CVD) process, zone refining process. Crystal growth: preparation 
 of single crystal silicon by Czhochralski crystal pulling technique and numerical problems. Crystal 
 slicing and wafer preparation; Fabrication process: thermal oxidation, diff usion, ion implantation, 
-numerical problems, epitaxial growth, masking, photolithography; wet etching and dry etching.   
+numerical problems, epitaxial growth, masking, photolithography; wet etching and dry etching. 
      10 Hrs 
-6.  Material Chemistry 
+6. Material Chemistry 
 Liquid crystals: classification of liquid crystals, applications of liquid crystals in display systems. Glass: 
 properties, smart glass: electrochromic, thermochromic and photochromic smart glass - properties 
 and applications. Thermoelectric and Piezoelectric materials - meaning, properties and applications. 
                                                                                                                                                          03 Hrs 
- 
-## Page 31
-
-FMCD2009 / 2.0 
+  ## Page 31
+ FMCD2009 / 2.0 
  31 
-Unit – III 
-7.  Water Chemistry 
-Water:  sources, impurities in water, potable water: meaning and specifications (as per WHO 
+Unit - III 
+7. Water Chemistry 
+Water: sources, impurities in water, potable water: meaning and specifications (as per WHO 
 standards). Hardn ess: determination of total hardness of water by EDTA method and numerical 
-problems. Purification of water:  Flash distillation, Reverse Osmosis, Electro-dialysis - principle, process 
-and applications.                                                                                                                        04 Hrs 
-8.  Instrumental Methods of Measurement 
+problems. Purification of water: Flash distillation, Reverse Osmosis, Electro-dialysis - principle, process 
+and applications. 04 Hrs 
+8. Instrumental Methods of Measurement 
 Advantages over conventional methods. Electro analytical methods: Potentiometer - principle, 
 methodology and applications. Opto -analytical methods: Colorimeter - Principle, methodology and 
-applications. Spectral methods of analysis: UV Spectrophotometer - Instrumentation and applications.                                                                                                                                                
+applications. Spectral methods of analysis: UV Spectrophotometer - Instrumentation and applications. 
            04 Hrs 
-Text Books  
-1.  A text Book of Engineering Chemistry, 1st edition, Dara. S. S, S. Chand and Co. Ltd., 2009  
-2.  A text Book of Engineering Chemistry, 16th edition, Jain P .C and Jain M, Dhanpat Rai, 2006 
-      3.  Engineering Chemistry, 3rd Edition, Krishnamurthy. N., Vallinayaga. P . and  Madhavan. D., PHI/E  
+Text Books 
+1. A text Book of Engineering Chemistry, 1st edition, Dara. S. S, S. Chand and Co. Ltd., 2009 
+2. A text Book of Engineering Chemistry, 16th edition, Jain P .C and Jain M, Dhanpat Rai, 2006 
+      3. Engineering Chemistry, 3rd Edition, Krishnamurthy. N., Vallinayaga. P . and Madhavan. D., PHI/E 
             Books Premium, 2014. 
 Reference Books: 
 1. Text book of Inorganic Chemistry, P . L. Soni, Sultan Chand, 1999, New Delhi. 
 2. Inorganic chemistry: Principles of structure and reactivity, , 4th Edition, James E. Huheey, Ellen A. 
-Keiter, Richard L. Keiter, Okhil K. Medhi,  Dorling Kindersley (India) Pvt. Ltd., 2006, New Delhi. 
-3. Concise Inorganic Chemistry ELBS, 5th  Edition, J.D. Lee, Wiley, 2008, New York. 
+Keiter, Richard L. Keiter, Okhil K. Medhi, Dorling Kindersley (India) Pvt. Ltd., 2006, New Delhi. 
+3. Concise Inorganic Chemistry ELBS, 5th Edition, J.D. Lee, Wiley, 2008, New York. 
 4. Hand book of batteries, 3 rd edition, David Linden, Thomas B Reddy, McGraw Hill publications, 
 2001, New York. 
 5. Polymer Science, 6th edition, Gowariker V.R, Viswanatan N.V, Sreedhar J., New Age International 
 (P) ltd., 2007, New Delhi. 
-6. Text Book of Polymer Science, 3rd edition, Fred W. Billmeyer, John Wiley and Son ’s, 1984, New 
+6. Text Book of Polymer Science, 3rd edition, Fred W. Billmeyer, John Wiley and Son 's, 1984, New 
 York. 
 7. VLSI Technology, 2nd Edition, S. M. Sze, McGraw-Hill Series in Electrical and Computer Engineering, 
 1998, New York. 
@@ -1178,82 +1084,75 @@ Bangalore.
 and Sons, 2007, New York. 
 10. Instrumental Methods of Chemical Analysis, 5 th edition, Gurdeep R Chatwal, Sham K Anand, 
 Himalaya Publishing House, Pvt. Ltd, 2010, Mumbai. 
- 
-## Page 32
-
-FMCD2009 / 2.0 
+  ## Page 32
+ FMCD2009 / 2.0 
  32 
 ← BACK TO SEMESTER II 
- 
-Program: UG  Semester: II 
-Course Code: 15ECVF102 Course Title: Engineering Mechanics  
+  Program: UG Semester: II 
+Course Code: 15ECVF102 Course Title: Engineering Mechanics 
 L-T-P: 4-0-0 Credits: 4 Contact Hrs./Week: 4 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
 Teaching Hrs.: 50 Exam Duration: 3 hours 
 Unit I 
 No Content Hrs. 
-1 Chapter 1:  Overview of Civil Engineering 
+1 Chapter 1: Overview of Civil Engineering 
 Evolution of Civil Engineering 
-Specialization, scope and role.                                                                          
+Specialization, scope and role. 
 Impact of Civil Engineering on 
-National economy, environment and social & cultural fabric.                                      
+National economy, environment and social & cultural fabric. 
 Challenges and Opportunities for Civil Engineers 
-Civil Engineering Marvels, Future challenges, Higher education and Research.  
- 
-04 
-2 Chapter 2:  Coplanar concurrent force system 
-Introduction to Engineering Mechanics:  
-Basic idealizations – Particle, Continuum, Body, Rigid body, Deformable body, Definition 
-of force and its elements; Laws of Mechanics – Parallelogram law of forces, Principle of 
-transmissibility, Law of Superposition, Newton’s laws of motion. Classification of force 
+Civil Engineering Marvels, Future challenges, Higher education and Research. 
+  04 
+2 Chapter 2: Coplanar concurrent force system 
+Introduction to Engineering Mechanics: 
+Basic idealizations - Particle, Continuum, Body, Rigid body, Deformable body, Definition 
+of force and its elements; Laws of Mechanics - Parallelogram law of forces, Principle of 
+transmissibility, Law of Superposition, Newton's laws of motion. Classification of force 
 systems 3 hrs. 
-Resultant of coplanar concurrent force system: Definitions – Resultant, composition & 
+Resultant of coplanar concurrent force system: Definitions - Resultant, composition & 
 Resolution of a force, Equilibrium, Equilibrant, Formulae for resultant of forces and 
 resolution of a force. Numerical problems on resultant of forces. 4 hrs. 
-Equilibrium of coplanar concurrent   force system: 
-Conditions of equilibrium, Action & Reaction, Free body diagram, Lamis’ theorem. 
+Equilibrium of coplanar concurrent force system: 
+Conditions of equilibrium, Action & Reaction, Free body diagram, Lamis' theorem. 
 Numerical problems on equilibrium of forces. 5 hrs. 
- 
-12 
+  12 
 3 Chapter 3 : Coplanar non-concurrent force system 5 hrs. 
-Resultant of a force system:  Moment, moment of a force, couple, moment of a 
-couple, Characteristics of couple, Equivalent force -couple system,  Numerical 
+Resultant of a force system: Moment, moment of a force, couple, moment of a 
+couple, Characteristics of couple, Equivalent force -couple system, Numerical 
 problems on moment of forces and couples, on equivalent force -couple system. 
-Varignon’s principle of moments, Resultant of coplanar - non-concurrent force 
-systems and numerical problems.  
+Varignon's principle of moments, Resultant of coplanar - non-concurrent force 
+systems and numerical problems. 
 05 
 Unit II 
-4 Chapter 4:Equilibrium of a force system 5 hrs. 
+4 Chapter 4: Equilibrium of a force system 5 hrs. 
 Conditions of equilibrium, types of support and loading for a statically determinate beam, 
 Reactions at support connections, Numerical problems on equilibrium of force systems 
-and support reactions for a statically determinate beam.                             
+and support reactions for a statically determinate beam. 
 18 
-5 Chapter 5:Static Friction8 hrs. 
+5 Chapter 5: Static Friction8 hrs. 
 Introduction, types of friction, definition, limiting friction, coefficient of friction, laws of 
 Coulomb friction, angle of friction and angle of repose, cone of friction. Wedge and belt 
 friction theory. Derivation of belt friction formula. Numerical problems on, impending 
 motion on horizontal and inclined planes (including connected bodies); wedge friction; 
-Ladder friction and Belt friction.                                                                                
-
-## Page 33
-
-FMCD2009 / 2.0 
+Ladder friction and Belt friction. 
+ ## Page 33
+ FMCD2009 / 2.0 
  33 
-6 Chapter 6:  Centroid of Plane Figures  
+6 Chapter 6: Centroid of Plane Figures 
 Introduction, Definition, Methods of determining the centroid, axis of reference, axis of 
 symmetry, Locating the centroid of simple plane figures (triangle, semicircle, quarter of 
 a circle and sector of a circle etc,.) using method of integration, Numerical problems on 
-Centroid of simple built up sections.                                                                 5 hrs.                                                                                                
-Unit – III 
-7  Chapter 7: Second moment of area (Plane figures) 
+Centroid of simple built up sections. 5 hrs. 
+Unit - III 
+7 Chapter 7: Second moment of area (Plane figures) 
 Introduction, Definition, Method of determining the second moment of area, Section 
 Modulus, Radius of gyration, perpendicular and Parallel axis theorems, Polar second 
 moment of area, second moment of area of simple plane figures (triangle, rectangle, 
 semicircle, circle etc,.) using method of integration, Numerical problems on MI of simple 
-built up sections.             5 hrs.. 
+built up sections. 5 hrs.. 
 11 
 8 Chapter 8: Kinetics of a particle- Work, Power, Energy 
-Introduction – Kinematics and Kinetics, Definitions – work, power and energy. Work done 
+Introduction - Kinematics and Kinetics, Definitions - work, power and energy. Work done 
 by a force (constant, gravitational and spring forces) in rectilinear motion. Numerical 
 problems, Kinetic energy of a particle, principle of work and energy. 6 hrs. 
 Text Book 
@@ -1268,19 +1167,16 @@ References
 2. Singer, F.L., Engineering Mechanics, 3rd edition Harper Collins, 1994. 
 3. Timoshenko, S.P. and Young, D.H., Engineering Mechanics, 4th edition, MGH, 1956. 
 4. Irving H Shames, Engineering Mechanics, 3rd edition, PHI Pvt. Ltd, New Delhi- 110 001, 1995. 
- 
-## Page 34
-
-FMCD2009 / 2.0 
+  ## Page 34
+ FMCD2009 / 2.0 
  34 
 ← BACK TO SEMESTER II 
- 
-Program: Bachelor of Engineering Semester: II 
+  Program: Bachelor of Engineering Semester: II 
 Course Title: Computer Aided Engineering Drawing Course Code: 15EMEP101 
 L-T-P: 0-0-3 Credits: 3 Contact Hours: 6 hrs/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
-Teaching Hours: 72 Examination Duration: 2 hrs  
-1.Projections of Points and Lines :                                                                                                   12 Hrs 
+Teaching Hours: 72 Examination Duration: 2 hrs 
+1. Projections of Points and Lines : 12 Hrs 
 Introduction to Engineering Drawing, BIS conventions, d rawing sheets and instruments. Types of lines, 
 method of dimensioning. Introduction to projection. Principal of orthographic projection, 1
 st
@@ -1291,42 +1187,39 @@ rd
 different quadrants. Introduction to projections of lines, lines perpendicular to one plane, lines parallel 
 to both HP & VP , lines parallel to one plane and inclined to the other. Projections of straight lines inclined 
 to both HP and VP . 
-2. Projections of Plane surfaces and Solids :                                                                                    15 Hrs 
+2. Projections of Plane surfaces and Solids : 15 Hrs 
 Introduction to projections of plane surfaces, plane surfaces parallel to one plane and perpendicular to 
 other. Plane surfaces perpendicular to one plane and inclined to other plane. Introduction to various types 
 of solids, projections of prisms and cylinders in simple position where the axis is perpendicular to either 
 HP or VP or parallel to both HP and VP . Projections of pyramids and cones in simple position where the 
 axis is perpendicular to either HP or VP or parallel to both HP and VP . Introduction to frustum and 
 truncated solids, projections of frustum of pyramids and cones. 
-3. Development of lateral Surfaces :                                                                                               12 Hrs 
+3. Development of lateral Surfaces : 12 Hrs 
 Introduction to development of lateral surfaces, parallel line development method, development of 
 prisms and their truncations. Introduction to radial line development, development of p yramids and 
 truncations. Development of cylinders and cones and their truncations. Development of transition pieces 
 by triangulation method. 
-4. Conversion of Pictorial views into Orthographic projections :                                              18 Hrs 
+4. Conversion of Pictorial views into Orthographic projections : 18 Hrs 
 Introduction to Isometric drawings. Conversion of pictorial or isometric views into orthographic 
 projections by manual mode of drawings. Introduction to CAD Software and practice. Conversion of 
 pictorial or isometric views into orthographic projections using CAD software. 
-5.  Conversion of Orthographic projections into isometric views :                                           15 Hrs 
+5. Conversion of Orthographic projections into isometric views : 15 Hrs 
 Conversion of orthographic projections into isometric views using CAD software. 
 Text Books 
 1. Engineering Drawing - N.D. Bhatt & V.M. Panchal, 48th edition, 2005-Charotar Publishing House. 
 2. Engineering Graphics - K.R. Gopalakrishna, 32nd edition, 2000- Subash Publishers Bangalore. 
-3. AutoCAD 2014 – Sham Tikku, Perdue University 
+3. AutoCAD 2014 - Sham Tikku, Perdue University 
 4. A Primer on Computer Aided Engineering Drawing Published by V T U Belgaum, 2006. 
 5. Machine Drawing - K.R. Gopalakrishna, 12nd edition, 2007- Subash Publishers Bangalore. 
 Reference Books 
 1. Fundamentals of Engineering Drawing with an Introduction to Interactive Computer Graphics for 
 Design and Production -Luzadder Warren J., Duff John M., Eastern Economy Edition, 2005-
-Prentice-Hall of India Pvt. Ltd., New Delhi.  
- 
-## Page 35
-
-FMCD2009 / 2.0 
+Prentice-Hall of India Pvt. Ltd., New Delhi. 
+  ## Page 35
+ FMCD2009 / 2.0 
  35 
 ← BACK TO SEMESTER II 
- 
-Program: Bachelor of Engineering Semester: II 
+  Program: Bachelor of Engineering Semester: II 
 Course Code:18ECSP102 Course Title: Problem Solving with Data Structures 
 L-T-P: 0-0-3 Credits: 3 Contact Hrs: 6 hrs /week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
@@ -1338,12 +1231,12 @@ Operations, Introduction to Data Structures, Data structure Operations.
 2 Chapter No 2 :Lists 
 Concept of lists: Abstract data type, Definition, Representation of linked lists in Memory, 
 Variants of Lists: Singly Linked List, Doubly Linked lists, Circular linked lists, 
-Operations: Traversing, Searching, Insertion and Deletion. Applications of Linked lists – 
+Operations: Traversing, Searching, Insertion and Deletion. Applications of Linked lists - 
 Polynomials, long integer addition and other applications. 
 18Hrs 
 3 Chapter No. 3 : Stacks and Recursion 
 Stack: Definition, Operations, Stack ADT Implementation of stack operations. Polish 
-notation: Infix  to postfix conversion, evaluation of postfix expression, parenthesis 
+notation: Infix to postfix conversion, evaluation of postfix expression, parenthesis 
 matching and other applications. Recursion 
 18Hrs 
 4 Chapter No. 4 : Queues 
@@ -1352,42 +1245,36 @@ queue, double ended queue and multiple queues. Applications of queue.
 15Hrs 
 5 Chapter No. 5 : Binary trees 
 Binary Tree: Definition, Terminology and representation, Binar y Search Tree: Traversals 
-and its applications.  
- 
-12Hrs 
+and its applications. 
+  12Hrs 
 Text Books 
 1. Data Structures Using C and C++ - Y . Langsam, M. Augenstein and A. M. Tenenbaum, Prentice - 
 Hall of India Pvt. Ltd. Edition- 2, 2006 
 2. Data Structures with C - Seymour Lipschutz, Tata McGraw Hill India LTD, EdItion-1, 2011 
 Reference Books 
-1. Data Structures and Algorithms Made Easy – Narshiman Karumunchi, Career Monk Publications, 
+1. Data Structures and Algorithms Made Easy - Narshiman Karumunchi, Career Monk Publications, 
 Edition-2, 2017. 
 2. Data Structure Through C - Yashavant P Kanetkar, BPB Publication, Edition-2. 
-3. Problem Solving in Data structures and Algorithms Using C – Hemath Jain, Taran Technologies 
+3. Problem Solving in Data structures and Algorithms Using C - Hemath Jain, Taran Technologies 
 Private Limited, Edition-1, 2016 
 4. Introduction to Algorithms - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and 
 Clifford Stein. The MIT Press, Edition-3, 2009. 
 5. Data Structures through C in Depth, S.K. Srivastava, Deepali Srivastava, BPB Publications, 2004 
 6. Online platform: www.Hackerrank.com 
 7. https://www.geeksforgeeks.org/ 
- 
-## Page 36
-
-FMCD2009 / 2.0 
+  ## Page 36
+ FMCD2009 / 2.0 
  36 
 ← BACK TO SEMESTER II 
- 
-Program: UG Semester: II 
+  Program: UG Semester: II 
 Course Code: 20EHSP101 Course Title: Design Thinking for Social Innovation 
 L-T-P: 0-1-1 Credits: 2 Contact Hrs.: 4 Hrs/week 
 ESA Marks: 80 ISA Marks: 20 Total Marks: 100 
-Teaching Hrs.: 28  Exam Duration: 3 hrs. 
+Teaching Hrs.: 28 Exam Duration: 3 hrs. 
 Module Topics Assignments Support activities / Tools 
 KNOWLEDGE, TOOLS & DEVELOPMENT 
- 
- Course sensitization 
- 
-1. Introduction  to Social 
+   Course sensitization 
+  1. Introduction to Social 
 Innovation: 
  Awakening social 
 consciousness 
@@ -1400,21 +1287,21 @@ innovation (EPICS)
 Project, Capstone Project, 
 Campus Placements) 
  Course Overview 
- Students’ Self Introduction 
+ Students' Self Introduction 
 Activity 
- Group formation  
-Activity  
+ Group formation 
+Activity 
 Reading assignments 
  Read the handout 
-on “The Process of 
-Social Innovation” 
+on "The Process of 
+Social Innovation" 
 by Geoff Mulgan 
  Design thinking for 
 Social Innovation 
 Written Assignments 
  Writing about 
 Akshaya Patra in 
-class.  
+class. 
 (Background 
 information about 
 Akshaya patra and 
@@ -1422,14 +1309,13 @@ the Social Cuase it is
 addressing) 
  Brainstorming 
 Session on Social 
-Innovators in Class  
+Innovators in Class 
  Class activity on 
 Behavioral Blocks to 
 Innovation 
 Discussion on the 
-behavioural blocks.  
- 
- Introducing oneself with 
+behavioural blocks. 
+   Introducing oneself with 
 three Adjectives- 
 Appreciating diversity 
 and discovering self 
@@ -1442,19 +1328,17 @@ sticks to enhance group
 cohesiveness amongst the 
 group mates) 
 Create Mindsets 
- 
-Seven Mindsets: 
- 
-1. Empathy 
-(Example of The Boy and  the 
+  Seven Mindsets: 
+  1. Empathy 
+(Example of The Boy and the 
 Puppies) 
 2. Optimism 
 ( Person Paralyzed waist down / 
-Glass Halh full Half Empty)  
+Glass Halh full Half Empty) 
 3. Iteration 
-(Thomas Alva Edison)  
+(Thomas Alva Edison) 
 4. Creative Confidence 
-(Origamy – Josef Albers) 
+(Origamy - Josef Albers) 
 5. Making it 
 6. Embracing Ambiguity 
 (Confusion is the Welcome 
@@ -1464,40 +1348,35 @@ doormat at the door of Creativity)
 asking the stakeholders about the 
 website) 
 Reading assignments 
- Handout on “ Create 
-Mindsets” 
- 
- (How to train the 
-Dragon?  
+ Handout on " Create 
+Mindsets" 
+   (How to train the 
+Dragon? 
 Common Video for all 
 the mindsets) 
  Watching in Class TED 
-Talk on “How to build 
+Talk on "How to build 
 youir Creative 
 Confidence by David 
-Kelley – IDEO Founder)  
- 
-## Page 37
-
-FMCD2009 / 2.0 
+Kelley - IDEO Founder) 
+  ## Page 37
+ FMCD2009 / 2.0 
  37 
 (Spending one lakh for the 
 business which is never launched) 
  Process of Social Innovation 
- 
-Engage 
- 
- Community study and 
+  Engage 
+   Community study and 
 Issue Identification 
  Reading assignments 
  Handout on Community 
 Study and Issue Identification 
- Case Study on “EGramSeva” 
- Case Study on “Janani Agri 
-Serve” 
+ Case Study on "EGramSeva" 
+ Case Study on "Janani Agri 
+Serve" 
 Class Presentations 
  Initial observations being 
-made by the group  
+made by the group 
 ( Literature Survey of Places 
 of Hubli- Dharwad) 
 www.readwhere.com 
@@ -1510,29 +1389,27 @@ Design Challenge
  Activity on Observation 
 skills 
 To know how to use 
-one’s observation skills 
+one's observation skills 
 in understanding the 
-social conditions  
+social conditions 
  Experience sharing by 
 senior students 
  Brainstorming 
 Deliberations on the 
 initial observations and 
-arrive at the “Social 
-Issue” 
+arrive at the "Social 
+Issue" 
  Familiarization of the 
 respective templates 
 with the help of 
 sample case study 
 PEER REVIEW 
- 
-2. Inspiration 
- 
- Plan for the Research 
+  2. Inspiration 
+   Plan for the Research 
  Development of 
 Interview guide 
  Capture your 
-Learnings  
+Learnings 
 Reading assignments 
  Handout on Overview of 
 Inspiration 
@@ -1541,7 +1418,7 @@ Class Presentations
  Identification of the Stake 
 Holders 
 (Examples on Fluoroscent 
-Curtain and Students’ 
+Curtain and Students' 
 Punctuality for Class) 
  Interview Questions 
 (Role Play on Interview with 
@@ -1558,35 +1435,30 @@ Learning
 respective templates 
 with the help of 
 sample case study 
-
-## Page 38
-
-FMCD2009 / 2.0 
+ ## Page 38
+ FMCD2009 / 2.0 
  38 
- 
-3. Ideation 
-3.1 Synthesis 
+  3. Ideation 
+3. 1 Synthesis 
  Search for meaning 
- Create “How might 
-we” question 
+ Create "How might 
+we" question 
 Reading assignments 
  Handout on Overview of 
 Ideation-Synthesis 
 Class Presentations 
 • Create insights 
-• “How might we” questions 
+• "How might we" questions 
 Use template 5: Create Insights 
-Template 6: Create “How Might 
-We’ Questions 
+Template 6: Create "How Might 
+We' Questions 
  Familiarization of the 
 respective templates 
 with the help of sample 
-case study  
- 
-3.0 Ideation 
-3.2 Prototyping 
- 
- Generate Ideas 
+case study 
+  3. 0 Ideation 
+3. 2 Prototyping 
+   Generate Ideas 
  Select Promising 
 Ideas 
  Determine what to 
@@ -1614,16 +1486,14 @@ management
 management 
 Structure building 
 games 
- 
-PEER REVIEW 
- 
-4.0 Implementation 
+  PEER REVIEW 
+  4. 0 Implementation 
  Create an action plan 
  Community Partners 
 (if any) 
  Budgeting & 
 Fundraising 
-1. Peer to Peer  
+1. Peer to Peer 
 2. Crowd Funding 
 3. Giving Kiosks 
 4. Donation 
@@ -1640,7 +1510,7 @@ www.blog.fundly.com)
  Feedback (Impact) 
 Reading assignments 
  Handout on Overview of 
-Implementation  
+Implementation 
 Class Presentations 
  Pilot implementation plan 
 with required resources and 
@@ -1650,18 +1520,15 @@ holders & their enagement
 respective templates 
 with the help of 
 sample case study 
- 
-## Page 39
-
-FMCD2009 / 2.0 
+  ## Page 39
+ FMCD2009 / 2.0 
  39 
-  5.0 Reflect 
- 
-Reflection of the overall 
+  5. 0 Reflect 
+  Reflection of the overall 
 learning by the students 
 Reading assignments 
  Handout on Overview of 
-students Reflection  
+students Reflection 
 Use template 9: Reflection on the 
 Process 
 Class Presentations 
@@ -1671,124 +1538,117 @@ Implementation
 respective templates 
 with the help of 
 sample case study 
- 
-## Page 40
-
-FMCD2009 / 2.0 
+  ## Page 40
+ FMCD2009 / 2.0 
  40 
 ← BACK TO SEMESTER II 
- 
-Program: UG  Semester: II 
+  Program: UG Semester: II 
 Course Code: 15EHSH101 Course Title: Professional Communication 
 L-T-P-: 1-1-0 Credits: 2 Contact Hrs: 3 Hrs/week 
 ESA Marks: 50 ISA Marks: 50 Total Marks: 100 
-Teaching Hrs: 42  Exam Duration: 3 hrs 
+Teaching Hrs: 42 Exam Duration: 3 hrs 
 Content Hrs 
- Chapter No. 1. Basics- English Communication  
+ Chapter No. 1. Basics- English Communication 
 Course Introduction, Explanation of template mix -ups with correct usages & necessity of 
 grammar in error detection, Usage of tenses 
 9 hrs 
  Chapter No. 2. Vocabulary and grammar 
 Vocabulary, Word Formation and Active and Passive Voice 
 6 hrs 
- Chapter No. 3. Bouncing Practice  
+ Chapter No. 3. Bouncing Practice 
 Definition and types of bouncing and its practice with examples, reading skills, free style 
 speech. Individual presentation. 
 6 hrs 
- Chapter No. 4. Rephrasing and Structures  
+ Chapter No. 4. Rephrasing and Structures 
 Comprehension and Rephrasing, PNQ Paradigm and Structural practice 
 8 hrs 
  Chapter No. 5. Dialogues 
-Introduction of dialogues, Situational Role plays,  
+Introduction of dialogues, Situational Role plays, 
 3 hrs 
- Chapter No. 6. Business Communication  
+ Chapter No. 6. Business Communication 
 Covering letter, formal letters, Construction of paragraphs on any given general topic. 
 9 hrs 
 References 
-1. Collins Cobuild Advanced Learner’s English Dictionary, Harper Collins Publishers, 9th Edn., 2018 
+1. Collins Cobuild Advanced Learner's English Dictionary, Harper Collins Publishers, 9th Edn., 2018 
 2. Raymond Murphy - Intermediate English Grammar, Cambridge University Press 
 3. Martin Hewings- Advanced English Grammar, Cambridge University Press. 
- 
-## Page 41
-
-FMCD2009 / 2.0 
+  ## Page 41
+ FMCD2009 / 2.0 
  41 
 ← BACK TO SEMESTER III 
 Program: Bachelor of Engineering Semester: III 
-Course Title: Calculus and Integral Transforms                Course Code: 15EMAB231 
+Course Title: Calculus and Integral Transforms Course Code: 15EMAB231 
 L-T-P: 4-0-0 Credits: 4 Contact Hours: 4 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 50 Examination Duration: 3 Hrs  
+Teaching Hours: 50 Examination Duration: 3 Hrs 
 Unit I 
-1. Differential Calculus            5 Hrs                                                                                                                         
- Differentiation of standard functions of first and higher orders, Taylor’s and Maclaurin’s series expansion 
+1. Differential Calculus 5 Hrs 
+ Differentiation of standard functions of first and higher orders, Taylor's and Maclaurin's series expansion 
 of simple functions for single variable. 
-2. Integral Calculus            7 Hrs 
-Evaluation of integrals, pr operties,  Beta and Gamma functions, relation between Beta and Gamma  
-functions simple problems , Approximate integration- Trapezoidal rule, Simpson’s 1/3 rule 
-3. Fourier Series            10 Hrs 
+2. Integral Calculus 7 Hrs 
+Evaluation of integrals, pr operties, Beta and Gamma functions, relation between Beta and Gamma 
+functions simple problems , Approximate integration- Trapezoidal rule, Simpson's 1/3 rule 
+3. Fourier Series 10 Hrs 
 Fourier series, Evaluation of Fourier coefficients, Waveform symmetries as related to Fourier co-efficient, 
-Exponential form of the Fourier series, half range Fourier series. Practical Harmonic Analysis.                                                                                                                                
+Exponential form of the Fourier series, half range Fourier series. Practical Harmonic Analysis. 
 Unit II 
-4. Fourier Transform     8 Hrs                                                                                                         
+4. Fourier Transform 8 Hrs 
 Exponential Representation of non-periodic signals, Existence of Fourier transforms properties of Fourier 
-Transform: symmetry, scaling, shifting, Fourier transform of Sine and Cosine Convolution theorem.                                                                                                                  
-5. Laplace Transforms            10 Hrs 
+Transform: symmetry, scaling, shifting, Fourier transform of Sine and Cosine Convolution theorem. 
+5. Laplace Transforms 10 Hrs 
 Definition, transforms of elementary functions - transforms of derivatives and integrals - Properties. 
 Periodic functions, Unit step functions and Unit impulse functions. Inverse Transforms- properties- Initial 
-and final value theorems and examples; Convolution Theorem. Applications to differential equations                                                                                                             
+and final value theorems and examples; Convolution Theorem. Applications to differential equations 
 Unit III 
-6. Ordinary differential equations of first order        5 Hrs 
-Introduction, order and degree of equation, Solution of first order first -degree differential equations –
-variable separable methods, Linear differential equations, Bernoulli’s equations, Initial value problems 
-7. Complex analysis            5 Hrs                                                                                                                            
+6. Ordinary differential equations of first order 5 Hrs 
+Introduction, order and degree of equation, Solution of first order first -degree differential equations -
+variable separable methods, Linear differential equations, Bernoulli's equations, Initial value problems 
+7. Complex analysis 5 Hrs 
 Function of complex variables. Limits, continuity and differentiability. Analytic functions, C-R equations in 
 Cartesian and polar forms, construction of Analytic functions (Cartesian and polar forms). 
 Text Books 
 1. Grewal B S, Higher Engineering Mathematics, 38ed, Khanna Publication, New Delhi, 2001 
 2. Bali and Iyengar, A text book of Engineering Mathematics, 6ed, Laxmi Publications, 2003 
 Reference Books 
-1. James Stewart,  Calculus- Early Transcendentals  Thomson Books, 5e  2007 
- 
-## Page 42
-
-FMCD2009 / 2.0 
+1. James Stewart, Calculus- Early Transcendentals Thomson Books, 5e 2007 
+  ## Page 42
+ FMCD2009 / 2.0 
  42 
 ← BACK TO SEMESTER III 
 Program: Bachelor of Engineering Semester: III 
 Course Title: Statistics and Integral Transforms Course Code: 15EMAB201 
 L-T-P: 4-0-0 Credits: 4 Contact Hours: 4 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 50 Examination Duration: 3 Hrs  
+Teaching Hours: 50 Examination Duration: 3 Hrs 
 Unit I 
-1. Curve fitting and regression:          5 Hrs                                                                                                       
-Introduction to method of least squares, fitting of curves y = a  + bx,   y = ab x, y=a + bx +cx 2, correlation 
+1. Curve fitting and regression: 5 Hrs 
+Introduction to method of least squares, fitting of curves y = a + bx, y = ab x, y=a + bx +cx 2, correlation 
 and regression. Applications to civil Engineering problems 
-2. Probability:            8 Hrs                                                                                                                                    
-Definition of probability, addition rule, conditional probability, multiplication rule, Baye’s rule. (no proof) 
+2. Probability: 8 Hrs 
+Definition of probability, addition rule, conditional probability, multiplication rule, Baye's rule. (no proof) 
 Discrete and continuous random variables - PDF-CDF- Binomial, Poisson and Normal distributions 
-(Problems only).          
-3. Tests of Hypothesis- 1          7 Hrs                                                                                                                 
+(Problems only). 
+3. Tests of Hypothesis- 1 7 Hrs 
 Sampling, Sampling distribution, Standard error, Null and alternate hypothesis, Type -I and Type- II errors, 
 Level of significance. Confidence limits, testing of hypothesis for single mean and difference of means 
-(large samples).  Applications to civil Engineering problems                                                                                                                                                                              
+(large samples). Applications to civil Engineering problems 
 Unit II 
-4. Tests of hypothesis-2            10 Hrs                                                                                                               
+4. Tests of hypothesis-2 10 Hrs 
  T-test (test for single mean, paired t -test), Chi Squared distribution, analysis of variance (one -way and 
 two-way classifications). Case studies of designs of experiments (CRD, RBD). Applications to civil 
-Engineering problems                                                                
-5. Laplace Transforms            10 Hrs                                                                                                                   
+Engineering problems 
+5. Laplace Transforms 10 Hrs 
 Definition, transforms of elementary functions - transforms of derivatives and integral s- Properties. 
-Periodic functions, Unit step functions and Unit impulse functions.  
+Periodic functions, Unit step functions and Unit impulse functions. 
 Inverse Transforms- properties- Initial and Final value theorems, examples, Convolution Theorem. 
-Applications to differential equations.                                                                                                                                  
+Applications to differential equations. 
 Unit III 
-6. Fourier Series             5 Hrs                                                                                                                       
+6. Fourier Series 5 Hrs 
 Fourier series representation of a function, Even and odd functions, half range series, Practical Harmonic 
 Analysis 
-7. Fourier Transform             5 Hrs                                                                                                                      
+7. Fourier Transform 5 Hrs 
 Exponential Representation of non -periodic functions, Existence of Fourier transforms properties of 
-Fourier Transform: Fourier Sine and Cosine transforms.   
+Fourier Transform: Fourier Sine and Cosine transforms. 
 Text Books 
 1. Gupta S C and Kapoor V K, Fundamentals of Mathematical Statistics, 9ed, Sultan Chand & Sons, New 
 Delhi, 2002 
@@ -1798,108 +1658,103 @@ for Engineering and the Computing Sciences, 4th Ed, TATA McGraw-Hill Edition 200
 Reference Books 
 1. Kishor S Trivedi, probability and statistics with reliability queuing and computer science applications, 
 PHI, 2000. 
-2. Miller, Freud and Johnson, Probability and Statistics for Engineering by, 5ed, PHI, 2000.  
+2. Miller, Freud and Johnson, Probability and Statistics for Engineering by, 5ed, PHI, 2000. 
 3. Potter M C, Jack Goldberg and Aboufadel E F, Advanced Engineering Mathematics, 3ed, Oxford 
 Indian 
- 
-## Page 43
-
-FMCD2009 / 2.0 
+  ## Page 43
+ FMCD2009 / 2.0 
  43 
- 
-← BACK TO SEMESTER III 
+  ← BACK TO SEMESTER III 
 Program: Bachelor of Engineering Semester: III 
 Course Title: Mechanics of Materials Course Code: 22EMEF201 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
-Chapter 1. Stresses and Strains:         10 Hrs 
-a. Normal and shear stress, bearing stress, deformation, strain, stress-strain diagram, Hooke’s law, 
-working stress and factor of safety, Saint-Venant’s principle, analysis of bars of constant and varying 
+Chapter 1. Stresses and Strains: 10 Hrs 
+a. Normal and shear stress, bearing stress, deformation, strain, stress-strain diagram, Hooke's law, 
+working stress and factor of safety, Saint-Venant's principle, analysis of bars of constant and varying 
 sections, Elongation of a bar due to its self-weight, volumetric strain, elastic constants. 
 b. Principle of super position, stresses and strains in composite section, statically indeterminate 
-structures, thermal   stresses.  
-Chapter 2. Shear Force and Bending Moment in Beams:      5 Hrs 
+structures, thermal stresses. 
+Chapter 2. Shear Force and Bending Moment in Beams: 5 Hrs 
 Types of beams, supports and loads, shear force and bending moment diagrams for simply supported, 
 overhanging and cantilever beams subjected to point loads, uniformly distributed load, uniformly 
 varying load and couple. 
 Unit II 
-Chapter 3. Stresses in Beams:          5 Hrs 
+Chapter 3. Stresses in Beams: 5 Hrs 
 Bending stress, flexure formula, section modulus, bending stresses in beams of different cross sections, 
 economic sections, shear stresses in beams, and shear stress across rectangular, I and T sections. 
-Chapter 4. Torsion and Buckling:         5 Hrs 
+Chapter 4. Torsion and Buckling: 5 Hrs 
 Torsion of circular shafts, torsional equation, power transmitted by solid and hollow circular shafts. 
-Buckling: Elastic instability, critical load, Euler’s equation for columns with different end conditions, 
+Buckling: Elastic instability, critical load, Euler's equation for columns with different end conditions, 
 Rankine's formula. 
-Chapter 5. Compound stresses:         5 Hrs 
+Chapter 5. Compound stresses: 5 Hrs 
 State of stress at a point, transformation of plane stress, principal planes and principal stresses, 
-analytical method for determining principal stresses, maximum shear stress and their planes, Mohr’s 
+analytical method for determining principal stresses, maximum shear stress and their planes, Mohr's 
 circle for plane stress. 
 Unit III 
-Chapter 6. Deflection of Beams:         5 Hrs 
+Chapter 6. Deflection of Beams: 5 Hrs 
 Deflection and slope of a beam, differential equation of the elastic curve, equations for deflection, slope 
 and moment, deflection and slope for simply supported, overhanging and cantilever beams subjected 
-to point loads, uniformly distributed load and couple using double integration and Macaulay’s method. 
-Chapter 7. Thin and Thick Cylinders:         5 Hrs 
+to point loads, uniformly distributed load and couple using double integration and Macaulay's method. 
+Chapter 7. Thin and Thick Cylinders: 5 Hrs 
 Thin walled pressure vessels, cylindrical vessels; hoop stress, longitudinal stress and maximum shear 
 stress, change in dimensions of cylinder (diameter, length and volume), thick cylinders subjected to 
-internal and external pressures (Lame’s equation). 
+internal and external pressures (Lame's equation). 
 Text Books 
 1. Andrew Pytel and Jaan Kiusalaas, Mechanics of Materials, 2nd Edition, Cengage Learning, 2012. 
 2. R.C. Hibbeler, Mechanics of Materials, 9th Edition, Pearson Education, 2018. 
 Reference Books 
-1. James M. Gere  and Barry J. Goodno , Mechanics of Materials, 8th Edition, Nelson Engineering 
+1. James M. Gere and Barry J. Goodno , Mechanics of Materials, 8th Edition, Nelson Engineering 
 International Edition, 2012. 
 2. Ferdinand Beer, Jr. E. Russell Johnston, John Dewolf and David Mazurek, Mechanics of Materials, 
 7th Edition, McGraw-Hill Education, 2014. 
- 
-## Page 44
-
-FMCD2009 / 2.0 
+  ## Page 44
+ FMCD2009 / 2.0 
  44 
 ← BACK TO SEMESTER III 
 Program: Bachelor of Engineering Semester: III 
 Course Title: Manufacturing Processes Course Code: 22EMEC201 
 L-T-P: 4-0-0 Credits: 4 Contact Hours: 4 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 50 Examination Duration: 3 Hrs  
+Teaching Hours: 50 Examination Duration: 3 Hrs 
 Unit I 
-1. Introduction to Manufacturing Processes :        2 Hrs 
+1. Introduction to Manufacturing Processes : 2 Hrs 
 Definition of manufacturing, Manufacturing sectors and their significance to the economy of a country, 
 Classification of production processes and systems, Criteria for selection of a process for production, 
 Sustainable manufacturing, Manufacturing costs, and Global competitiveness 
-2. Casting & special casting processes :         12 Hrs 
+2. Casting & special casting processes : 12 Hrs 
 Casting: Introduction, Green sand molding, Pattern & core making: Pattern types, allowances and 
 materials, Core & core making methods, Molding methods and machines, Principles of gating, Risers and 
 gating ratio. Special Casting Processes: CO2 molding, Shell moldi ng, Investment casting, Die casting, 
 Centrifugal casting processes, and Continuous casting process. Melting Furnaces: Introduction and types. 
 General Design considerations and defects in castings, Cleaning and fettling operations, Testing methods 
-3. Fabrication Processes :          6 Hrs 
+3. Fabrication Processes : 6 Hrs 
 Classification of joining processes, Soldering, Brazing, Mechanical fastening, Welding, Preparation of base 
 metal and joint. Arc welding, Gas welding, TIG, MIG, FCAW, Thermit welding, Spot, seam and projection 
 welding, Ultrasonic welding, Electron beam welding, and Laser welding. Adhesive joining: Types and 
 applications 
 Unit II 
-4. Fundamentals of Metal Cutting            10 Hrs 
+4. Fundamentals of Metal Cutting 10 Hrs 
 Principles of metal cutting, Introduction to Lathes, Drilling and Milling machines: Operations, Numerical 
 on machining time calculations. Finishing operations: Grinding, Superfinishing, Honing, and Lapping 
 methods 
-Geometry of cutting tools, Cutting tool materials, Mechanism of chip formation, Merchant ’s circle 
+Geometry of cutting tools, Cutting tool materials, Mechanism of chip formation, Merchant 's circle 
 diagram, Cutting fluids, Thermal aspects of machining, Types of tool wear & wear mechanisms, Tool life, 
 Machinability & its criteria, Numerical on force analysis and tool life 
-5. Forming Processes :           5 Hrs 
+5. Forming Processes : 5 Hrs 
 Bulk deformation processes: Forging, Rolling, Extrusion, and Drawing. Sheet metal working processes: 
 Shearing, Bending, Deep drawing. Selection of equipment 
-6. Non-traditional Manufacturing Processes           05 Hrs 
+6. Non-traditional Manufacturing Processes 05 Hrs 
 Abrasive-Jet machining, Water-Jet machining, Ultrasonic machining, Electric-discharge machining, Laser 
 beam machining, El ectron beam machining, Electrochemical machining. Additive manufacturing: 
 Classification, Stereo-lithography, Laminated object manufacturing, 3D printing, Applications 
 Unit III 
-7. Introduction to Micro-manufacturing and Nano-manufacturing        05 Hrs 
+7. Introduction to Micro-manufacturing and Nano-manufacturing 05 Hrs 
 Semiconductors and Silicon, Lithography, Etching, Micromachining of MEMS devices, LIGA and related 
 microfabrication processes, Mesoscale manufacturing, Nanoscale manufacturing 
-8. Introduction to Digital Manufacturing           05 Hrs 
+8. Introduction to Digital Manufacturing 05 Hrs 
 A conceptual framework, Lean Production System, Technology roadmap for Industry 4.0, Comparison of 
 existing Industry 4.0 maturity and readiness model, Data analytics in manufacturing, Role of Augmented 
 reality, Virtual factory, Cyber security in manufacturing 
@@ -1907,13 +1762,10 @@ Text Books
 1. Kalpakjian S., and Schmid S.R., Manufacturing Engineering & Technology, 7 th edition, Pearson 
 Education, 2014. 
 2. Mikell P . Groover, Fundamentals of Modern Manufacturing, 5th edition, John Wiley & Sons, 2012. 
-
-## Page 45
-
-FMCD2009 / 2.0 
+ ## Page 45
+ FMCD2009 / 2.0 
  45 
- 
-Reference Books 
+  Reference Books 
 1. Juneja B. L. and Sekhon G. S., Fundament als of Metal Cutting and Machine Tools, 3 rd edition, New 
 Age International Limited, 2008. 
 2. Rosenthal, P., Heine L., Principles of Metal Casting, Tata McGraw Hill, 1997. 
@@ -1925,101 +1777,95 @@ edition, Prentice Hall, 2014.
 7. Rao P. N., Manufacturing Technology: Volume-2, 3rd edition, Tata McGraw Hill, 2013. 
 8. Ustundag Alp, and Cevikcan Emre, Industry 4.0: Managing the Digital Transformation, Springer series 
 in Advanced Manufacturing, 2018. 
- 
-## Page 46
-
-FMCD2009 / 2.0 
+  ## Page 46
+ FMCD2009 / 2.0 
  46 
 ← BACK TO SEMESTER III 
 Program: Bachelor of Engineering Semester: III 
 Course Title: Engineering Thermodynamics Course Code: 15EMEC202 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
-Chapter 1. Introduction:          07 Hrs  
+Chapter 1. Introduction: 07 Hrs 
 Basic Concepts: Thermodynamics systems (control mass, control volume and Isolated systems) and 
 surroundings, Properties, State, Processes and cycles, Thermodynamic equilibrium. Heat and work 
 transfer across boundaries, Quasi-static processes. Zeroth law, First law for a closed system undergoing 
-a cycle and undergoing a change of state, Internal energy as a system property.  Application of first law 
+a cycle and undergoing a change of state, Internal energy as a system property. Application of first law 
 to different thermodynamic processes. First law applied to flow processes (derivation of Steady Flow 
 energy equation) and its application to Nozzles, turbines, heat exchangers, boilers, pumps, compressors 
-and throttling devices. Problem solving                                                                                                                                                
-Chapter 2. Second Law of Thermodynamics:        08 Hrs  
+and throttling devices. Problem solving 
+Chapter 2. Second Law of Thermodynamics: 08 Hrs 
 Thermal reservoirs, heat engine, heat pump and refrigerator. Statements of second law of 
 thermodynamics. PMM I and PMM II, Reversible and irreversible processes, Carnot cycle and its 
-efficiency, Carnot’s theorem. Thermodynamic temperature scale.                                                                                                         
+efficiency, Carnot's theorem. Thermodynamic temperature scale. 
 Unit II 
-Chapter 3.  Entropy:           07 Hrs 
+Chapter 3. Entropy: 07 Hrs 
 Entropy a property of a system, Clausius theorem and Clausius inequality, Principle of increase of 
-entropy, entropy change during various processes. Exergy and energy, Problem Solving. (07 hr)                                           
-Chapter 4.  Gas and Vapor Power Cycles:        08 Hrs 
+entropy, entropy change during various processes. Exergy and energy, Problem Solving. (07 hr) 
+Chapter 4. Gas and Vapor Power Cycles: 08 Hrs 
 Gas power cycles: Otto cycle and its efficiency, Diesel cycle and its efficiency, expression for mean 
 effective pressure, Comparison between the two cycles. Problem Solving. 
 Vapor power cycle: Carnot cycle, work done and cycle efficiency, draw backs, ideal and actual Rankine 
 cycle, network done, cycle efficiency and work ratio. Methods of improving cycle efficiency (reheat 
-Rankine cycle) Problem Solving.                                                                                                                                 
+Rankine cycle) Problem Solving. 
 Unit III 
-Chapter 5. Reciprocating air compressor:         05 Hrs 
+Chapter 5. Reciprocating air compressor: 05 Hrs 
 Introduction, Classification, Work required for single and double stage air compressors, efficiencies of 
-air compressor, Effect of intercooling, condition for minimum work, . Problem Solving.                                                             
-Chapter 6. Clean Energy Conversion:  05 Hrs  
+air compressor, Effect of intercooling, condition for minimum work, . Problem Solving. 
+Chapter 6. Clean Energy Conversion: 05 Hrs 
 thermionic and thermoelectric converters, photovoltaic generators, MHD generators, fuel cells. Energy 
 Payback, GHG mitigation. 
 Text Books 
 1. Michael J Moran & Howard N Shapiro, Fundamentals of engineering thermodynamics, 9th 
-Edition, Wiley Stud, 2018.  
+Edition, Wiley Stud, 2018. 
 2. Yunus A. Cengel, Michael A. Boles, Mehmet Kanoglu, Thermodynamics an Engineering approach, 
 9th Edition, Tata McGraw, 2019 
-3. Andrea M. Mitofsky, Direct Energy Conversion, A.T. Still University,  2018  
+3. Andrea M. Mitofsky, Direct Energy Conversion, A.T. Still University, 2018 
 Reference Books 
 1. Conduct experiment on nozzle to demonstrate the steady flow energy equation. 
 2. Conduct experiment on zeroth law of thermodynamics and prove the concept Kelvin temperature 
 scale. 
 3. Conduct experiment to determine entropy change of a system. 
-4. Determine the –i) flash and fire point and ii) calorific value of the given fuel (solid/gaseous). 
+4. Determine the -i) flash and fire point and ii) calorific value of the given fuel (solid/gaseous). 
 5. Determine the coefficient of performance of the vapour compression refrigeration system. 
-
-## Page 47
-
-FMCD2009 / 2.0 
+ ## Page 47
+ FMCD2009 / 2.0 
  47 
 6. Conduct experiment on diesel engine to investigate the performance based on concept of air standard 
 cycles. 
 7. Conduct an experiment to draw the heat balance sheet for a diesel engine. 
-  
-## Page 48
-
-FMCD2009 / 2.0 
+   ## Page 48
+ FMCD2009 / 2.0 
  48 
 ← BACK TO SEMESTER III 
 Program: Bachelor of Engineering Semester: III 
 Course Title: Control Systems Course Code: 19EMEC201 
 L-T-P: 2-1-0 Credits: 3 Contact Hours: 4 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 30 Examination Duration: 3 Hrs  
+Teaching Hours: 30 Examination Duration: 3 Hrs 
 Unit I 
-1. Introduction to Control System:         3 Hrs 
+1. Introduction to Control System: 3 Hrs 
 Generalized configurations and functional description of control systems. Control system design. 
-Examples of Control System.  
-2. Modeling of Physical Systems:         8 Hrs 
+Examples of Control System. 
+2. Modeling of Physical Systems: 8 Hrs 
 Introduction, Differential equations of physical systems, The Laplace Transform, Order of system; The 
 transfer function of linear and rotational Mechanical systems, Gear Train, Electrical systems , Electro -
 mechanical System, Thermal systems, Block representation of system elements and Reduction of block 
 diagrams. 
 Unit II 
-3. System Response:           6 Hrs 
+3. System Response: 6 Hrs 
 Introduction, Poles, Zeros, and System Response. First-order system response to step, ramp and impulse 
 inputs. Second-order system response to step input; Un -damped, Under damped, Critical damped and 
 Over damped systems, Time response specifications. Design of 1st and 2nd order system. 
-4. System Stability:           5 Hrs 
+4. System Stability: 5 Hrs 
 Introduction to stability. Stability analysis by time response, S-plane and Routh-Hurwitz Criterion. Effect 
 of gain adjustment, addition of pole and addition of zero on system response and system stability. 
 Defining the Root locus, General rules for constructing root loci, Sketching the Root locus. 
 Unit III 
-5.  Frequency  Domain Analysis:         4 Hrs 
+5. Frequency Domain Analysis: 4 Hrs 
 Nyquist stability criteria, Bode Plots. Stability analysis using bode plots. 
-6. Control Action:           4 Hrs 
+6. Control Action: 4 Hrs 
 Introduction to PID controller design. Types of Controllers, Mathema tical modeling of PID, ON -OFF 
 controller, Effect of Proportional, Derivative and Integral elements on system behavior, Design of 
 Controller for given simple applications. Controller Design using root locus. 
@@ -2029,17 +1875,15 @@ Text Books
 Reference Books 
 1. Katsuhiko Ogata, Modern Control Engineering, 5th edition, Pearson Publications. 
 2. Norman S. Nise, Control. Systems, 6th edition, John Wiley & Sons 
- 
-## Page 49
-
-FMCD2009 / 2.0 
+  ## Page 49
+ FMCD2009 / 2.0 
  49 
 ← BACK TO SEMESTER III 
 Program: Bachelor of Engineering Semester: III 
 Course Title: Manufacturing Processes Lab Course Code: 22EMEP201 
 L-T-P: 0-0-2 Credits: 2 Contact Hours: 4 Hrs/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
-Teaching Hours: 48 Examination Duration: 2 Hrs  
+Teaching Hours: 48 Examination Duration: 2 Hrs 
 Lab Exercises Hrs 
 1. Conventional machining: Machining practices involving machining time calculation and 
 estimation of machining cost for the jobs for turning, taper turning, threading, and knurling. 
@@ -2060,7 +1904,7 @@ drawing.
 7. CNC machining: Prepare a CNC program and conduct turning & milling machining for a given 
 component. 
 20 
-8. Process Planning: Prepare  a process plan for a given component (Open-ended) 06 
+8. Process Planning: Prepare a process plan for a given component (Open-ended) 06 
 Text Books 
 1. Kalpakjian S., and Schmid S.R., Manufacturing Engineering & Technology, 8 th edition, Pearson 
 Education, 2020. 
@@ -2073,17 +1917,15 @@ Age International Limited, 2008.
 4. Mikell P. Groover, Automation, Production Systems, and Computer -Integrated Manufacturing, 4 th 
 edition, Prentice Hall, 2014. 
 5. Pandey P . C. and Shan H. S., Modern Machining Processes, 1st edition, Tata McGraw Hill, 2013. 
- 
-## Page 50
-
-FMCD2009 / 2.0 
+  ## Page 50
+ FMCD2009 / 2.0 
  50 
 ← BACK TO SEMESTER III 
 Program: Bachelor of Engineering Semester: III 
 Course Title: Control Systems Lab Course Code: 22EMEP202 
 L-T-P: 0-0-1 Credits: 1 Contact Hours: 2 Hrs/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
-Teaching Hours: 48 Examination Duration: 2 Hrs  
+Teaching Hours: 48 Examination Duration: 2 Hrs 
 Experiments No of Session 
 1. Demo of Quanser Mechatronics Sensor kit, DAQ card, DC Motor Control Trainer 
 module, Inverted Pendulum Trainer module with NI ELVIS Platform. 
@@ -2113,119 +1955,110 @@ Reference Books
 1. Katsuhiko Ogata, Modern Control Engineering, 5th edition, Pearson Publications. 
 2. Norman S. Nise, Control. Systems, 6th edition, John Wiley & Sons. 
 3. Data sheets provided by manufactures. 
- 
-## Page 51
-
-FMCD2009 / 2.0 
+  ## Page 51
+ FMCD2009 / 2.0 
  51 
 ← BACK TO SEMESTER III 
 Program: Bachelor of Engineering Semester: III 
 Course Title: Machine Drawing Lab Course Code: 22EMEP203 
 L-T-P: 0-0-2 Credits: 2 Contact Hours: 4 Hrs/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
-Teaching Hours: 52 Examination Duration: 2 Hrs  
+Teaching Hours: 52 Examination Duration: 2 Hrs 
 Laboratory Content 
-1.    Sectional views :           14 Hrs 
+1. Sectional views : 14 Hrs 
 Sectional views of machine parts involving half section, full section, offset section, revolved section and local 
 section. 
- 
-2.   Threaded Fasteners :          10 Hrs 
+  2. Threaded Fasteners : 10 Hrs 
 Threaded s crews and their conventional representations. BSW thread, American sellers thread, ISO 
-metric thread, square thread and acme thread.  
-Drawing of bolts and nuts; Hexagonal nut and bolt, Square nut and bolt.  
- 
-3.  Geometrical dimensioning & tolerance and Blueprint reading          10 hrs 
+metric thread, square thread and acme thread. 
+Drawing of bolts and nuts; Hexagonal nut and bolt, Square nut and bolt. 
+  3. Geometrical dimensioning & tolerance and Blueprint reading 10 hrs 
 Introduction to limits, fits and tolerance; hole and shaft base systems, types of fits, identification of fits. 
 Basic principles of geometrical dimensioning and tolerance (GD&T) and its symbols. Surface finish 
-representations in the drawing.  
+representations in the drawing. 
 Reading of part and assembly drawings - Blueprint reading. 
- 
-4.  Parts and assembly drawing using both manual drawing instruments and CAD tool        18hrs 
+  4. Parts and assembly drawing using both manual drawing instruments and CAD tool 18hrs 
 Assembly such as: (1) Socket and spigot cotter joint (2) Strap joint with gib and cotter (3) Flanged coupling 
-(4) Screw jack.  
+(4) Screw jack. 
 Text Books 
 1. Machine Drawing by K. R. Gopalakrishna, Subhas Publications, 22nd Edition - 2013. 
 2. Machine Drawing by N. D. Bhat& V. M. Panchal, Charotar Publishing House. 
 3. AutoCAD 2018 Training Guide, Sagar Linkan, BPB Publications, 2018 Edition. 
 Reference Books 
 1. Engineering drawing practice for schools and colleges SP 46:2003 (BIS). 
- 
-## Page 52
-
-FMCD2009 / 2.0 
+  ## Page 52
+ FMCD2009 / 2.0 
  52 
 ← BACK TO SEMESTER IV 
 Program: Bachelor of Engineering Semester: IV 
-Course Title: Vector Calculus and Differential Equations                Course Code: 15EMAB241 
+Course Title: Vector Calculus and Differential Equations Course Code: 15EMAB241 
 L-T-P: 4-0-0 Credits: 4 Contact Hours: 4 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 50 Examination Duration: 3 Hrs  
+Teaching Hours: 50 Examination Duration: 3 Hrs 
 Unit I 
-1. Vector Algebra             6 Hrs           
+1. Vector Algebra 6 Hrs 
 Vectors, Vector addition, multiplication (Dot and Cross products), Triple products, Vector functions, Vector 
 differentiation, Velocity and Acceleration of a vector point function 
-2 Partial differentiation           7 Hrs 
+2 Partial differentiation 7 Hrs 
 Function of several variables, Partial derivatives, Chain rule, Errors and approximations 
-3 Multiple integrals             7 Hrs       
-Double integral, Evaluation by change of order,  change of variables, simple problems, Triple integrals, 
-simple problems   
+3 Multiple integrals 7 Hrs 
+Double integral, Evaluation by change of order, change of variables, simple problems, Triple integrals, 
+simple problems 
 Unit II 
-4 Vector Calculus       13 Hrs     
+4 Vector Calculus 13 Hrs 
 Vector fields, Gradient and directional derivatives, Line and Surface integrals. Independence of path and 
-potential functions. Green’s theorem, Divergence of vector field, Divergence theorem, Curl of vector field. 
+potential functions. Green's theorem, Divergence of vector field, Divergence theorem, Curl of vector field. 
 Stokes theorem 
-5 Differential equations of second order             7 Hrs 
+5 Differential equations of second order 7 Hrs 
 Differential equations of second and higher orders with constant coefficients, method of variation of 
-parameters.                                                                                                                                                              
+parameters. 
 Unit III 
-6 Partial differential equations           10 Hrs                                                                                                    
+6 Partial differential equations 10 Hrs 
 (a) Introduction, classification of PDE, Formation of PDE, Solution of equation of the type Pp + Qq = R, 
 Solution of partial differential equation by direct integration methods, method of separation of variables. 
 (b) Modeling: Vibration of one -dimensional string-wave equation and heat equation. Laplace equation. 
-Solution by separation of variables method                        
+Solution by separation of variables method 
 Text Books 
 1. Grewal B S, Higher Engineering Mathematics, 38 ed, Khanna Publication, New Delhi, 2001 
 2. Bali and Iyengar, A text book of Engineering Mathematics, 6 ed, Laxmi Publications(p) 2003 
 Reference Books 
 1. James Stewart, Early Transcendentals Calculus- Thomson Books, 5 ed, 2007 
- 
-## Page 53
-
-FMCD2009 / 2.0 
+  ## Page 53
+ FMCD2009 / 2.0 
  53 
 ← BACK TO SEMESTER IV 
 Program: Bachelor of Engineering Semester: IV 
 Course Title: Numerical Methods and Partial Differential Equations Course Code: 19EMAB206 
 L-T-P: 3-1-0 Credits: 4 Contact Hours: 5 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
-1. Interpolation techniques 8 Hrs                                                                                                        
-Finite differences, Forward, Backward and central differe nce operators.  Newton Gregory forward and 
-backward interpolation formulae. Sterling ’s and Bessel ’s formulae for central difference, Newton ’s 
+1. Interpolation techniques 8 Hrs 
+Finite differences, Forward, Backward and central differe nce operators. Newton Gregory forward and 
+backward interpolation formulae. Sterling 's and Bessel 's formulae for central difference, Newton 's 
 divided difference formula for un equal intervals. Heat transfer problem, gas law problem -shear stress 
-problem-using interpolation.  
-Python: Interpolation problems related to Mechanical engineering  7 Hrs 
-2. Matrices and System of linear equations                                                                              
-Introduction to system of linear equations, R ank of a matrix by elementary row transformations.  
+problem-using interpolation. 
+Python: Interpolation problems related to Mechanical engineering 7 Hrs 
+2. Matrices and System of linear equations 
+Introduction to system of linear equations, R ank of a matrix by elementary row transformations. 
 Consistency of system of linear equations, solution of system by Direct methods - Gauss elimination, 
 Gauss Jordon method. Solution of homogenous system AX=0, Eigenvalues and Eigenvectors of a matrix. 
 Python: Matrices, system of linear equations by Gauss elimination, Gauss Jordon and eigenvalue 
 problems 
 Unit II 
-3.  Numerical solution of linear equations   5 Hrs                                                                              
+3. Numerical solution of linear equations 5 Hrs 
 Solution of system of equations by Iterative methods- Guass-Seidal method. Largest Eigenvalue and the 
 corresponding Eigenvector by power method. Spring mass system Falling parachutist using system of 
 equations. 
-Python: Application problems on mechanical engineering   
-4. Partial differential equations   10 Hrs                                                                                               
-Introduction, classification of PDE, Formation of PDE, Solution of equation of the type   Pp + Qq = R, 
+Python: Application problems on mechanical engineering 
+4. Partial differential equations 10 Hrs 
+Introduction, classification of PDE, Formation of PDE, Solution of equation of the type Pp + Qq = R, 
 Solution of partial differential equation by direct integration methods, method of separation of variables. 
-Modeling: Vibration of one -dimensional string -wave equation and heat equation. Laplace equation.  
-Solution by method of separation of variables.      
+Modeling: Vibration of one -dimensional string -wave equation and heat equation. Laplace equation. 
+Solution by method of separation of variables. 
 Python: Solution of Partial differential equations 
 Unit III 
-5. Finite difference method.  10 Hrs                                                                                                    
+5. Finite difference method. 10 Hrs 
 (a) Finite difference approximations to derivatives, finite difference solution of parabolic PDE explicit 
 and Crank-Nicholson implicit methods. Engineering Problems: Temperature distribution in a heated 
 plate 
@@ -2242,46 +2075,44 @@ Reference Books
 2. Simmons G F and Krantz S G, Differential Equations, TATA McGraw-Hill, 2007. 
 3. Sastry S S, Introductory method for numerical analysis, 3ed, PHI, 2003 
 4. Chapra S C and Canale R P , Numerical methods for Engineers, 5ed, TATA McGraw-Hill, 2007. 
-
-## Page 54
-
-FMCD2009 / 2.0 
+ ## Page 54
+ FMCD2009 / 2.0 
  54 
 ← BACK TO SEMESTER IV 
 Program: Bachelor of Engineering Semester: IV 
 Course Title: Fundamentals of Machine Design Course Code: 22EMEC202 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
 1. Introduction to Machine Design 3 Hrs 
 Machine Design, Basic Procedure of Machine Design, Design of Machine elements, Design synthesis, Use 
 of Standards in Design, Selection of prepared sizes, Aesthetic considerations in design, Ergonomic 
 considerations in design, Concurrent Engineering. 
-2. Design against Static Load  6 Hrs 
+2. Design against Static Load 6 Hrs 
 Modes of failure, factor of safety, eccentric axial loading, design of machine parts, Stress Concentration, 
-Stress Concentration Factors, Reduction of Stress Concentration. Theories of Elastic failure,  Maximum 
+Stress Concentration Factors, Reduction of Stress Concentration. Theories of Elastic failure, Maximum 
 Principal Stress Theory, Maximum Shear Stress Theory, Distortion -Energy Theory, Selection and use of 
 failure Theories. 
-3. Design against Reversing load  5 Hrs 
+3. Design against Reversing load 5 Hrs 
 Fluctuating Stresses, Fatigue Failure, Endurance Limit, Low cycle, and High Cycle Fatigue, Notch Sensitivity, 
 Endurance Limit- Approximate Estimation, Reversed Stresses-Design for Finite and Infinite Life 
 Unit II 
-4. Design against Fluctuating load  4 Hrs 
+4. Design against Fluctuating load 4 Hrs 
 Soderberg and Goodman equations. Fatigue design under combined stresses. Impact Stresses. 
-5. Design of Belt Drives   5 Hrs 
+5. Design of Belt Drives 5 Hrs 
 Introduction to Belt drives, Materials for Belts, Advantages, and disadvantages of V belts over flat belt 
-drives, Dimensions of standard V grooved pulley, Power transmission,  Number of belts, Centre distance, 
+drives, Dimensions of standard V grooved pulley, Power transmission, Number of belts, Centre distance, 
 Pitch length of the belt, Ratio of driving tensions, Design procedure of V belts. 
-6. Shafts and Keys  7 Hrs 
+6. Shafts and Keys 7 Hrs 
 Transmission Shafts, Shaft Design on Strength Basis, Shaft Design on Torsional rigidity Basis, ASME Code 
 for shaft design, Design of Shafts subjected to combin ed bending and twisting. Keys, Saddle and Sunk 
 keys, Design of square and flat Key. 
 Unit III 
-7. Temporary Joints  5 Hrs 
-Bolted joint –simple analysis, eccentric load perpendicular to the axis of the bolt, eccentric load parallel 
+7. Temporary Joints 5 Hrs 
+Bolted joint -simple analysis, eccentric load perpendicular to the axis of the bolt, eccentric load parallel 
 to the axis of bolt 
-8. Permanent Joints  5 Hrs 
+8. Permanent Joints 5 Hrs 
 Welded Joints, Strength of Butt Welds, Strength of Parallel fillet Welds, Strength of Transverse Fillet Welds, 
 Eccentric Loaded welded joints, Riveted Joints, Types of riveted joints, Types of failures, Design of butt 
 and lap joints for Boilers. 
@@ -2293,39 +2124,37 @@ House Pvt. Ltd., New Delhi, 2015.
 2. Farazdak Haideri, Mechanical Engineering Design (Volume I), 2nd Edition, Nirali Prakashan, 2012. 
 3. K. Mahadevan and Balaveera Reddy, Design Data Hand Book, CBS Publication, Fourth Edition. 
 2016. 
- 
-## Page 55
-
-FMCD2009 / 2.0 
+  ## Page 55
+ FMCD2009 / 2.0 
  55 
 ← BACK TO SEMESTER IV 
 Program: Bachelor of Engineering Semester: IV 
 Course Title: Machines & Mechanisms Course Code: 22EMEC203 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
 Chapter 1. Fundamentals of Kinematics: 7 Hrs 
 Links, pairs, Mechanisms, machines, structure, and Inversions. Identifying types of links, pairs, Drawing 
 Kinematic Diagram and finding mobility of linkages, Inversions of Four bar mechanism, single slider 
-crank mechanism, and double slider crank mechanism. Steering gear mechanism, Hook's joint analysis,  
+crank mechanism, and double slider crank mechanism. Steering gear mechanism, Hook's joint analysis, 
 Chapter 2. Kinematic Analysis of Mechanisms: 8 Hrs 
 Velocity analysis by Instantaneous centre method, Velocity and acceleration analysis by Relative velocity 
 method for different mechanism. 
 Unit II 
 Chapter 3. Kinematic analysis of Gear and Gear Trains: 5 Hrs 
 Terminology of gears , backlash in gears, Law of gearing, velocity of siding, length of path of contact, arc 
-of contact, Contact ratio Numerical,, Epicyclic gear train with Numericals  
+of contact, Contact ratio Numerical,, Epicyclic gear train with Numericals 
 Chapter 4. Cams: 5 Hrs 
 Introduction, classification of followers and cams. Displacement diagrams for roller follower with SHM 
-and analysis, displacement diagrams for followers with UV&R and analysis. Design of  cam profile  
+and analysis, displacement diagrams for followers with UV&R and analysis. Design of cam profile 
 Chapter 5. Balancing of masses: 5 Hrs 
 Necessity of balancing, Static and Dynamic balancing, Balancing of several masses in single and several 
 masses in multiple planes, Balancing of reciprocating masses, Balancing of multi cylinder inline engine. 
 Unit III 
 Chapter 6. Turning Moment Diagrams and Flywheel: 5 Hrs 
-Dynamics of  engine mechanism, Turning Moment Diagrams' for machines , Energy stored in a flywheel , 
-Design of flywheel  
+Dynamics of engine mechanism, Turning Moment Diagrams' for machines , Energy stored in a flywheel , 
+Design of flywheel 
 Chapter 7. Gyroscope: 5 Hrs 
 Effect of gyroscopic couple on airplane and Ship, Stability of two wheel and four wheel drives moving in 
 a curved path. 
@@ -2336,19 +2165,17 @@ Text Books
 Reference Books 
 1. John Uicker, Gordon Pennock , Joseph Shigley, Theory of Machines and Mechanisms, 4thed, 
 Oxford University Press-NEW DELHI. 2009 
-2. S. S. Rattan, Theory of Machines, 2 nded, Tata McGraw Hill Publishing Company Ltd., New Delhi.  
+2. S. S. Rattan, Theory of Machines, 2 nded, Tata McGraw Hill Publishing Company Ltd., New Delhi. 
 2006 
- 
-## Page 56
-
-FMCD2009 / 2.0 
+  ## Page 56
+ FMCD2009 / 2.0 
  56 
 ← BACK TO SEMESTER IV 
 Program: Bachelor of Engineering Semester: IV 
 Course Title: Engineering Materials Course Code: 15EMEF202 
 L-T-P: 4-0-0 Credits: 4 Contact Hours: 4 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 50 Examination Duration: 3 Hrs  
+Teaching Hours: 50 Examination Duration: 3 Hrs 
 Unit I 
 Chapter 1. Introduction to Engineering Materials: 7Hrs 
 Overview of material types (metals, ceramics, polymers, and composites); historical perspective and 
@@ -2362,15 +2189,14 @@ Chapter 3. Atomic Structure and Interatomic Bonding: 7Hrs
 Atomic structure and bonding; Macro-Micro-Nano: The scale of structures, Crystal Structures, 
 Imperfections in solids and their roles in affecting the behavior of materials; diffusion, Fick's laws of 
 diffusion, Diffusion in crystalline and non-crystalline solids, Influence of lattice structure on diffusion. 
- 
-Unit II 
+  Unit II 
 Chapter 4. Mechanical Properties of Materials: 5Hrs 
 Stress-strain diagrams to show ductile and brittle behavior of materials, linear and nonlinear elastic 
 behavior of materials, mechanical properties in elastic and plastic range, Effect of strain rate and 
 temperature on tensile properties, Fatigue: Types of fatigue loading with example, mechanism of 
 fatigue, fatigue properties, fatigue testing and SN diagram; Creep: Description of phenomenon with 
 examples, stages of creep, creep properties. 
-Chapter 5. Phase Diagrams and Heat Treatment:  5Hrs 
+Chapter 5. Phase Diagrams and Heat Treatment: 5Hrs 
 Solid solutions, Hume Rothery rules, substitutional and interstitial solid solutions, intermediate phases, 
 Gibbs phase rule, construction of equilibrium diagrams, equilibrium diagrams involving complete and 
 partial solubility, the iron-carbon system; heat treatment processes (annealing, quenching, tempering). 
@@ -2382,7 +2208,7 @@ Production, properties, and applications of polymers, ceramics, and composites; 
 thermosets, elastomers, mechanical and thermal properties of ceramics, engineering applications of 
 ceramic, polymer materials and composites. 
 Unit III 
-Chapter 8. Corrosion and Degradation of Materials:  05Hrs 
+Chapter 8. Corrosion and Degradation of Materials: 05Hrs 
 Fundamental principles and mechanisms of corrosion; Different types of corrosion, such as uniform 
 corrosion, localized corrosion, galvanic corrosion, Methods and techniques for preventing and 
 controlling corrosion; Principles and procedures of corrosion testing techniques, Degradation of non-
@@ -2392,115 +2218,106 @@ Materials Performance Requirements, Selection Criteria- economic and environment
 Matching materials to design, strategy- translation, screening, ranking and documentation; 
 Introduction to systems thinking in materials science- Interconnectedness, Boundaries and Interfaces. 
 Text Books: 
-
-## Page 57
-
-FMCD2009 / 2.0 
+ ## Page 57
+ FMCD2009 / 2.0 
  57 
 1. William Callister, Materials Science and Engineering, John Wiley & Sons. Inc., 10th Edition, January 
 2018 (ISBN: 978-1-119-40549-8). 
-2. Michael Ashby  and D R H Jones , Engineering Materials: An Introduction to Properties, 
+2. Michael Ashby and D R H Jones , Engineering Materials: An Introduction to Properties, 
 Applications and Design- 5th Edition, Butterworth-Heinemann, December 2018. 
 3. Julian M. Allwood and Jonathan M. Cullen, "Sustainable Materials: With Both Eyes Open", UIT 
 Cambridge Ltd.; second edition April, 2012. 
 Reference Books 
 1. Donald Askeland and Pradeep Phule, The Science and Engineering of Materials Thomp son 
 Learning, 7th Edition, CENGAGE Learning, 2019. 
- 
-## Page 58
-
-FMCD2009 / 2.0 
+  ## Page 58
+ FMCD2009 / 2.0 
  58 
 ← BACK TO SEMESTER IV 
 Program: Bachelor of Engineering Semester: IV 
 Course Title: Mechatronics Course Code: 24EMEC201 
 L-T-P: 2-0-1 Credits: 3 Contact Hours: 4 Hrs/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
-Teaching Hours: 30 Examination Duration: 2 Hrs  
+Teaching Hours: 30 Examination Duration: 2 Hrs 
 Unit - 1 
-1. Introduction to Mechatronics: 04 hrs  
+1. Introduction to Mechatronics: 04 hrs 
 Definition & overview of Mechatronics, Key elements, Types of Simulation, Mechatronics system Design 
 approach, examples of mechatronic systems. 
-2. Signal conditioning: 10 hrs  
+2. Signal conditioning: 10 hrs 
 Introduction, Amplification, Filtering, Isolation and Protection, Linearization, Multiplexing, ADC and DAC 
-Process; Data Acquisition System  (DAQ), AC/DC Bridges, Modulation and Demodulation. Sequential  
+Process; Data Acquisition System (DAQ), AC/DC Bridges, Modulation and Demodulation. Sequential 
 circuits, flip -flops, clocked and edge triggered flipflops, timing specif ications, asynchronous and 
 synchronous counters, counter design with state equations, Registers, serial in serial out shift registers. 
 Computational systems: 
 Case studies (like Washing machine, Automatic Camera) to illustrate integration of all components. 
 Unit - 2 
-3. Sensors: 10 hrs  
+3. Sensors: 10 hrs 
 Introduction, Characteristics and selection of Sensors: Displacement, Position, Velocity, Acceleration, 
 proximity, Temperature, Liquid Level, Light intensity, Force, Torque, Power, Pressure and Flow rate 
 measurement. 
-4. Actuators: 06 hrs  
+4. Actuators: 06 hrs 
 Relay, Solenoid, DC motor, Stepper motor, AC and DC Servo motor, Drive Circuits 
 Text Books 
 1. Tilak Thakur, Mechatronics, 1st edition, Oxford Higher Education, 2016. 
-2. W. Bolton, “Mechatronics”, 2nd edition, Pearson Ed, 2001 
+2. W. Bolton, "Mechatronics", 2nd edition, Pearson Ed, 2001 
 References 
-1. Devdas Shetty, Richard Kolk, “Mechatronics System Design”, 2nd edition, Cengage 
+1. Devdas Shetty, Richard Kolk, "Mechatronics System Design", 2nd edition, Cengage 
 Learning, 2010. 
- 
-## Page 59
-
-FMCD2009 / 2.0 
+  ## Page 59
+ FMCD2009 / 2.0 
  59 
 ← BACK TO SEMESTER IV 
 Program: Bachelor of Engineering Semester: IV 
-Course Title: Microcontroller & Interfacing  Course Code: 24EMEC202 
+Course Title: Microcontroller & Interfacing Course Code: 24EMEC202 
 L-T-P: 2-0-1 Credits: 3 Contact Hours: 4 Hrs/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
-Teaching Hours: 30 Examination Duration: 2 Hrs  
-Unit – 1 
-Chapter 1:  Microprocessors and Microcontroller  4hrs 
+Teaching Hours: 30 Examination Duration: 2 Hrs 
+Unit - 1 
+Chapter 1: Microprocessors and Microcontroller 4hrs 
 Introduction, Microprocessors, and Microcontrollers, A Microcontroller Survey, RISC & CISC CPU 
 Architectures, Harvard & Von-Neumann Computer architecture. 
- 
-Architecture of 8051 and Arduino ATmega32: 
+  Architecture of 8051 and Arduino ATmega32: 
 Microcontroller Hardware, Input / Output Pins, Ports and Circuits, semiconductor Memories, Interfacing 
 external RAM & ROM memories 
-Chapter 2:  Addressing Modes and Operations (Arduino ATmega32) 5hrs 
+Chapter 2: Addressing Modes and Operations (Arduino ATmega32) 5hrs 
 Addressing modes, stac k concept, and Instruction sets, Data transfer, Arithmetic Operations, Logical 
 Operations, Program Branch, Rotate and Swap Operations 
-Chapter 3:  Arduino ATmega32 Programming in 'C'  6 hrs 
+Chapter 3: Arduino ATmega32 Programming in 'C' 6 hrs 
 Data Types and Time delays in (Arduino ATmega32) C, I/O Programming , Logic operations, Data 
 Conversion programs, Data serialization, Shift and rotate instructions in AVR 
-Unit – 2 
+Unit - 2 
 Chapter 4: Counter/Timer Programming in (Arduino ATmega32) 5 hrs 
 Introduction, Timer SFRs, Programming (Arduino ATmega32) Timers, Programming Timer0 and Timer1, in 
 (Arduino ATmega32), timer programming in normal mode, CTC Mode, Fast PWM, Counter Programming 
 in (Arduino ATmega32), 
-Chapter 5:  Serial Communication 5 hrs 
+Chapter 5: Serial Communication 5 hrs 
 Basics of Serial Communication, (Arduino ATmega32) connections to RS-232, (Arduino ATmega32) Serial 
 Communication modes, Programming, Serial port programming in C. 
-Chapter 6:  Interrupts 5 hrs 
+Chapter 6: Interrupts 5 hrs 
 Introduction to interrupts, interrupts vs. polling, classification of interrupts, interrupt priority, interrupt 
 vector table, interrupt service routine, The JUMP and CALL, Program range, jump calls, and Subroutines 
 Interrupts and Returns, Example Problems. 
 Text books 
 1. The AVR microcontroller and embedded system using assembly and c by Muhammad ali mazidi, 
-sarmad naimi,sepehr naimi 1st edition, published in 2010, Publisher: Pearson Education 
-2. Embedded system design with the Atmel AVR microcontroller I and II by Steven F         Barret, 1st 
+sarmad naimi, sepehr naimi 1st edition, published in 2010, Publisher: Pearson Education 
+2. Embedded system design with the Atmel AVR microcontroller I and II by Steven F Barret, 1st 
 edition, published in 2009. Publisher: Morgan & Claypool. 
-3. Practical AVR Microcontrollers by Alan Trevennor,  1st edition published in 2012, Publisher: Apress 
+3. Practical AVR Microcontrollers by Alan Trevennor, 1st edition published in 2012, Publisher: Apress 
 Reference Books 
 1. Experimenting With AVR Microcontroller by Alan Trevennor, 1st edition published in 2009. 
 publisher: Elektor International Media Edition. 
 2. Microchip AVR Microcontroller Primer Programming and Interfacing by Steven F Barret Daniel J 
-Pack , 1st edition, published in 2007, Publisher: Prentice Hall.  
+Pack , 1st edition, published in 2007, Publisher: Prentice Hall. 
 3. Atmel ATmeg32 Datasheet , Microchip Technology. 
- 
-## Page 60
-
-FMCD2009 / 2.0 
+  ## Page 60
+ FMCD2009 / 2.0 
  60 
 ← BACK TO SEMESTER IV 
 Program: Bachelor of Engineering Semester: IV 
 Course Title: Microcontroller & Interfacing Lab Course Code: 22EMEP204 
 L-T-P: 0-0-1 Credits: 1 Contact Hours: 2 Hrs/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
-Teaching Hours: 24 Examination Duration: 2 Hrs  
+Teaching Hours: 24 Examination Duration: 2 Hrs 
 Experiments No of sessions 
 1. Write a program to demonstrate the blinking of LED in PIC16F877A 01 
 2. Write a program to demonstrate a counting machine which count from 0000 
@@ -2510,7 +2327,7 @@ to 9999 and display on 7 segment LED display using PIC16F877A
 display the temperature in degree Celsius on LCD display using PIC16F877A 
 01 
 4. In bank lockers there is requiremen t of password protection to open the 
-locker.  Develop an a pplication Using a 4*3 keypad and LCD to secure the 
+locker. Develop an a pplication Using a 4*3 keypad and LCD to secure the 
 lockers by providing password protection. 
 01 
 5. Write a program to measure the distance of an object using ultrasonic Sensors 
@@ -2526,7 +2343,7 @@ motors.
 development board. 
 01 
 9. Design a programmer for your PIC18 development board to burn the program 
-using PICkit2 or any similar software’s 
+using PICkit2 or any similar software's 
 01 
 10. Develop a printed circuit boar d (PCB) for your designed and validated 
 programmer which can burn programs on the PIC16 or PIC18 ICs. 
@@ -2534,83 +2351,78 @@ programmer which can burn programs on the PIC16 or PIC18 ICs.
 11. Write a program on Py-board microcontroller using python programming and 
 image processing to detect the tennis ball. 
 01 
- 
-## Page 61
-
-FMCD2009 / 2.0 
+  ## Page 61
+ FMCD2009 / 2.0 
  61 
 ← BACK TO SEMESTER IV 
 Program: Bachelor of Engineering Semester: IV 
-Course Title: Machines & Mechanisms Lab   Course Code: 15EMEP204 
+Course Title: Machines & Mechanisms Lab Course Code: 15EMEP204 
 L-T-P: 0-0-1 Credits: 1 Contact Hours: 2 Hrs/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
-Teaching Hours: 24 Examination Duration: 2 Hrs  
-Experiments  
-1. Introduction to software and exercises                                                                                   4 Hrs 
-2. Determination of the Mobility of linkages                                                                              2 Hrs 
-3. Velocity and Acceleration analysis on applications of slider crank mechanisms              2 Hrs 
-4. Velocity and Acceleration analysis on applications of 4 bar mechanisms                         2 Hrs 
-5. Kinematic analysis of a Epicyclic Gear Train                                                                            2 Hrs 
-6. Determination of gyroscopic couple and verification of gyroscopic law                           2 Hrs 
-7. Balancing of a system of rotating masses in a single plane                                                 2 Hrs 
-8. Balancing of a system of rotating masses in a Multiple plane                                            2 Hrs 
-9. Kinematic analysis of a cam follower pair for specific inputs                                              4 Hrs 
+Teaching Hours: 24 Examination Duration: 2 Hrs 
+Experiments 
+1. Introduction to software and exercises 4 Hrs 
+2. Determination of the Mobility of linkages 2 Hrs 
+3. Velocity and Acceleration analysis on applications of slider crank mechanisms 2 Hrs 
+4. Velocity and Acceleration analysis on applications of 4 bar mechanisms 2 Hrs 
+5. Kinematic analysis of a Epicyclic Gear Train 2 Hrs 
+6. Determination of gyroscopic couple and verification of gyroscopic law 2 Hrs 
+7. Balancing of a system of rotating masses in a single plane 2 Hrs 
+8. Balancing of a system of rotating masses in a Multiple plane 2 Hrs 
+9. Kinematic analysis of a cam follower pair for specific inputs 4 Hrs 
 10. Construction of the best suited mechanism and analysis of the mechanism using traditional 
-and/or modern tools for a specific application                                                                     2 Hrs                      
+and/or modern tools for a specific application 2 Hrs 
 Text Books 
-1. David Myszka, Machines and Mechanisms- Applied Kinematic Analysis, 3rdEdition, PHI,  
+1. David Myszka, Machines and Mechanisms- Applied Kinematic Analysis, 3rdEdition, PHI, 
 Reference Books 
-1. John Uicker, Gordon Pennock, Joseph Shigley, Theory of Machines and Mechanisms, 4th  Edition, 
+1. John Uicker, Gordon Pennock, Joseph Shigley, Theory of Machines and Mechanisms, 4th Edition, 
 Oxford University Press, New Delhi 
 2. A brief introduction to MSC.ADAMS-user manual, McNeil Schindler Corp (MSC), USA. 
 3. "Make it Kit", Educational Mechanism construction kit. 
- 
-## Page 62
-
-FMCD2009 / 2.0 
+  ## Page 62
+ FMCD2009 / 2.0 
  62 
 ← BACK TO SEMESTER IV 
- 
-Program: Bachelor of Engineering Semester: IV 
+  Program: Bachelor of Engineering Semester: IV 
 Course Title: Engineering Materials Lab Course Code: 15EMEP202 
 L-T-P: 0-0-1 Credits: 1 Contact Hours: 2 Hrs/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
-Teaching Hours: 24 Examination Duration: 2 Hrs  
-Experiment  
+Teaching Hours: 24 Examination Duration: 2 Hrs 
+Experiment 
 1. Introduction to the Laboratory -Overview of Destructive and Non -Destructive Testing methods. 
-(Awareness about the ASM hand books and ASTM standards)                                              2 Hrs 
-2. Non-destructive test experiments  
-a. Ultrasonic flaw detection. b. Magnetic particle inspection c. Dye penetration testing,  
-To study the defects of castings and welded specimens.                                                         2 Hrs 
+(Awareness about the ASM hand books and ASTM standards) 2 Hrs 
+2. Non-destructive test experiments 
+a. Ultrasonic flaw detection. b. Magnetic particle inspection c. Dye penetration testing, 
+To study the defects of castings and welded specimens. 2 Hrs 
 3. Evaluation of the tensile strength, Compression strength, Shear strength, Bending/ Torsion 
-strength and Impact strength.  
+strength and Impact strength. 
 Ex: Should be able to Describe the differences between the tensile behavior of the metal sample 
 and that of polymer sample, considering that the student performs the test on two different 
-materials family.                                                                                                                               8 Hrs 
+materials family. 8 Hrs 
 4. To study wear characteristics of ferrous, non -ferrous and composite materials for different 
 loading. 
 Computation of wear parameters: wear rate, wear resistance, specific wear rate, frictional force, 
-coefficient of friction, wear coefficient.                                                                                    2 Hrs 
+coefficient of friction, wear coefficient. 2 Hrs 
 5. To study the microstructure of the ferrous and nonferrous alloy and to perform grain size analysis 
-and volume fraction analysis.                                                                                                      2 Hrs 
+and volume fraction analysis. 2 Hrs 
  Familiarization with the procedure for preparation of a material specimen for microscopic 
 examination. 
  Familiarization with compound optical microscopes and metallography. 
  Examination of surface characteristics of engineering materials. 
  Grain size determination of metals and analysis. 
 6. To analyze given SEM Micrographs (Microstructure and fracture surface morpholo gy) and 
-conclude on the structure and mode of fracture.                                                                    2 Hrs 
+conclude on the structure and mode of fracture. 2 Hrs 
 (Familiarization with the advanced characterization of metals by Scanning electron microscopy). 
-7. Computer Modeling of Stress Concentration, Crack Opening and Crack Propagation  
+7. Computer Modeling of Stress Concentration, Crack Opening and Crack Propagation 
 Understand the occurrence of stress concentration at geometrical discontinuities. 
-Determine the stress concentration factor at a geometrical discontinuity.                         2 Hrs 
-8. Design an experiment to investigate the spring characteristics of any given spring.         2 Hrs 
+Determine the stress concentration factor at a geometrical discontinuity. 2 Hrs 
+8. Design an experiment to investigate the spring characteristics of any given spring. 2 Hrs 
 9. Synthesize a novel composite material which is reinforced with a natural fiber in a polymer matrix 
 and perform the mechanical characterization for investigation of mechanical properties, which is 
-desirable for specified engineering applications.  
+desirable for specified engineering applications. 
 Perform a parametric analysis which affects the mechanical properties of prepared composites 
 using a statistical approach and find the correlation of those parameters with properties of 
-composites.                                                                                                                                    2 Hrs 
+composites. 2 Hrs 
 Text Books 
 1. William Callister, Materials Science and Engineering, John Wiley & Sons. Inc., 10 th Edition, January 2018 
 (ISBN: 978-1-119-40549-8). 
@@ -2619,25 +2431,20 @@ Design- 5th Edition, Butterworth-Heinemann, December 2018.
 Reference Books 
 1. Donald Askeland and Pradeep Phule, The Science and Engine ering of Materials Thompson Learning, 7 th 
 Edition, CENGAGE Learning, 2019. 
-
-## Page 63
-
-FMCD2009 / 2.0 
+ ## Page 63
+ FMCD2009 / 2.0 
  63 
 2. George Murray, Charles V. White, Wolfgang Weise, Introduction to Engineering Materials, 2nd Edition, CRC 
 Press, 07-Sep-2007 
- 
-## Page 64
-
-FMCD2009 / 2.0 
+  ## Page 64
+ FMCD2009 / 2.0 
  64 
 ← BACK TO SEMESTER IV 
- 
-Program: Bachelor of Engineering Semester: IV 
+  Program: Bachelor of Engineering Semester: IV 
 Course Title: Gen AI for All Course Code: 24EMEP201 
 L-T-P: 0-0-2 Credits: 2 Contact Hours: 2 Hrs/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
-Teaching Hours: 48 Examination Duration: 2 Hrs  
+Teaching Hours: 48 Examination Duration: 2 Hrs 
 Module 1: Gen AI Introduction and Playground (6 labs) 
 Lab 1-4: Basic Training of Python (Enabler for Hugging Face) 
 Lab 5: Introduction to Generative AI 
@@ -2648,9 +2455,9 @@ networks and deep learning
 • Applications of Generative AI: Creative arts: Art, music, and literature, Practical applications: Text 
 generation, image synthesis, and more 
 Lab 6: Introduction to Hugging Face AI community 
-• Overview:  
-• Building one example for text, Image, Audio and Video   
-Module 2: Gen AI Experimentation Lab – (4 labs) Text tools, Audio tools, Image tools and Video tools 
+• Overview: 
+• Building one example for text, Image, Audio and Video 
+Module 2: Gen AI Experimentation Lab - (4 labs) Text tools, Audio tools, Image tools and Video tools 
 Lab 1: Hands-on Experimentation with Text Generation 
 • Introduction to Hugging Face Transformers 
 • Text Generation with Pre-trained Models 
@@ -2667,49 +2474,47 @@ Understanding the architecture and functioning of GANs
 models, Practical , examples: Creating artwork and manipulating images 
 • Practical Exercise: Generating and enhancing images using Hugging Face GANs 
 Lab 4: Hands-on Experimentation with Video Generation 
-Module 3: Gen AI Project Studio – ( 4 labs )  
+Module 3: Gen AI Project Studio - ( 4 labs ) 
 • An example to showcase walkthrough of tools with one case study 
 • Faculty will pick the respective domain project and demonstrate the building of project 
-Module 4: Gen AI Showcase – (10 labs )  
-• Domain specific example to showcase GenAI based solution and report  
-• Students in a team of 2-4 demonstrate the building of project for selected application   
- 
-## Page 65
-
-FMCD2009 / 2.0 
+Module 4: Gen AI Showcase - (10 labs ) 
+• Domain specific example to showcase GenAI based solution and report 
+• Students in a team of 2-4 demonstrate the building of project for selected application 
+  ## Page 65
+ FMCD2009 / 2.0 
  65 
 ← BACK TO SEMESTER V 
 Program: Bachelor of Engineering Semester: V 
 Course Title: Numerical Methods and Statistics Course Code: 24EMAB301 
 L-T-P: 3-0-1 Credits: 4 Contact Hours: 6Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
-1. Numerical Methods   8 hrs 
+1. Numerical Methods 8 hrs 
        Introduction to numerical methods. Roots of equations using Bisection Method, Newton- Raphson 
 Method, Finite differences, Forward, Backward Operators. Newton Gregory forward and backward 
-interpolation formulae. Newton ’s divided difference formula for un equal intervals. Numerical 
-solution of first order ODE, Euler ’s and Modified Euler ’s method, Runge Kutta 4 th order method. 
-Implementation using python-programming     
-2. Matrices and System of linear equations      8 hrs 
-Introduction to system of linear equations, Rank of a matrix by elementary row transformations.  
+interpolation formulae. Newton 's divided difference formula for un equal intervals. Numerical 
+solution of first order ODE, Euler 's and Modified Euler 's method, Runge Kutta 4 th order method. 
+Implementation using python-programming 
+2. Matrices and System of linear equations 8 hrs 
+Introduction to system of linear equations, Rank of a matrix by elementary row transformations. 
 Consistency of system of linear equation solution of system by (i) Direct methods-Gauss elimination, 
 Gauss Jordon method (ii) Iterative methods- Guass-Seidal method. Eigenvalues and Eigenvectors of 
 a matrix. Largest Eigenvalue and the corresponding Eigenvector by power method. Implementation 
 using python-programming. 
 Unit II 
-3. Curve fitting and regression      5 hrs 
-Introduction to metho d of least squares, fitting of curves y = a + bx,   y = ab x, y=a + bx +cx 2, 
-correlation and regression.                                                                                                                   
-4. Probability     9 hrs 
-Definition of probability, addition rule, conditional probability, multiplication rule, Baye’s rule. (no 
+3. Curve fitting and regression 5 hrs 
+Introduction to metho d of least squares, fitting of curves y = a + bx, y = ab x, y=a + bx +cx 2, 
+correlation and regression. 
+4. Probability 9 hrs 
+Definition of probability, addition rule, conditional probability, multiplication rule, Baye's rule. (no 
 proof) Discrete and continuous random variables - PDF-CDF- Binomial, Poisson and Normal 
-distributions (Problems only).                                                                   
+distributions (Problems only). 
 Unit III 
 5. Sampling distributions 10 hrs 
 (a) Sampling, Sampling distribution, Standard error, Null and alternate hypothesis, Type-I and Type- 
-II errors, Level of significance.  Confidence limits for means (large sample).                                
-(b) Testing of hypothesis for means. large and small samples and student’s t- distribution  
+II errors, Level of significance. Confidence limits for means (large sample). 
+(b) Testing of hypothesis for means. large and small samples and student's t- distribution 
 and Confidence limits for means (small sample). 
 Text Books 
 1. Bali and Iyengar, A text book of Engineering Mathematics, 6ed, Laxmi Publications(p) Ltd, 2003 
@@ -2720,76 +2525,72 @@ Reference Books
 1. Sastry S S, Introductory method for numerical analysis, 3ed, PHI, 2003. 
 2. J. Susan Milton, Jesse C. Arnold, Introduction to Probability and Statistics: Principles and Applications 
 for Engineering and the Computing Sciences, 4th Ed, TATA McGraw-Hill Edition 2007. 
- 
-## Page 66
-
-FMCD2009 / 2.0 
+  ## Page 66
+ FMCD2009 / 2.0 
  66 
 ← BACK TO SEMESTER V 
 Program: Bachelor of Engineering Semester: V 
-Course Title: Design of Machine Elements                   Course Code: 23EMEC301 
+Course Title: Design of Machine Elements Course Code: 23EMEC301 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
-Chapter 1: Spur Gears  8 Hrs 
+Chapter 1: Spur Gears 8 Hrs 
 Mechanical Drives, Gear Drives, Classification of Gears, Selection of Type of Gears, Terminology of Spur 
 Gear, Standard Systems of Gear Tooth, Force Analysis, Gear Tooth Failures, Selection of Material, Number 
 of Teeth, Face Width, Beam Strength of Gear Tooth, Permissible Bending Stress, Effective Load on Gear 
 Tooth, Estimation of Module Based on Beam Strength, Wear Strength of Gear Tooth, Estimation of 
 Module Based on Wear Strength 
-Chapter 2: Helical and Bevel Gears   7 Hrs 
+Chapter 2: Helical and Bevel Gears 7 Hrs 
 Helical Gears, Terminology of Helical Gears, Virtual Number of Teeth, Tooth Proportions, Force Analysis, 
 Beam Strength of Helical Gears, Effective Load on Gear Tooth, Wear Strength of Helical Gears. Bevel Gears, 
 Terminology of Bevel Gears, Force Analysis, Beam Strength of Bevel Gears, Wear Strength of Bevel Gears, 
 Effective Load on Gear Tooth. 
 Unit II 
-Chapter 3: Springs   8 Hrs 
+Chapter 3: Springs 8 Hrs 
 Types of springs, Terminology of Helical spring, styles of end, stress and deflection equations, series and 
-parallel connections, spring materials, Design of helical springs, spring design –trial and error method, 
+parallel connections, spring materials, Design of helical springs, spring design -trial and error method, 
 design against fluctuating load, optimum design of helical spring, surge in spring, multi -leaf springs, 
 nipping of leaf springs. 
-Chapter 4:  Friction Clutches and Brakes   7 Hrs 
+Chapter 4: Friction Clutches and Brakes 7 Hrs 
 Clutches, Torque Transmitting Capacity, Multi-disk Clutches, Friction Materials, Breaks, Block Brake with 
 short shoe and Band Brakes 
 Unit III 
-Chapter 5: Rolling Contact Bearings  5 Hrs 
+Chapter 5: Rolling Contact Bearings 5 Hrs 
 Bearings, Types of Rolling Contact Bearings, Selection of Bearing Type, Static Load Carrying Capacity, 
 Dynamic Load Carrying Capacity, Equivalent Bearing Load, Load -Life Relationship, Selection of Bearing 
-Life, Load Factor, Selection of Bearing From Manufacturer ’s Catalogue,  Bearing failure – Causes and 
+Life, Load Factor, Selection of Bearing From Manufacturer 's Catalogue, Bearing failure - Causes and 
 Remedies. 
-Chapter 6: Sliding Contact Bearings  5 Hrs 
-Basic Modes of Lubrication, Viscosity, Measurement of Viscosity, Viscosity Index, Petroff ’s Equation, 
-Mckee’s Investigation, Bearing Design- Selection of Parameters, Comparison of Rolling and sliding Contact 
-Bearings, Bearing failure – Causes and Remedies 
+Chapter 6: Sliding Contact Bearings 5 Hrs 
+Basic Modes of Lubrication, Viscosity, Measurement of Viscosity, Viscosity Index, Petroff 's Equation, 
+Mckee's Investigation, Bearing Design- Selection of Parameters, Comparison of Rolling and sliding Contact 
+Bearings, Bearing failure - Causes and Remedies 
 Text Books 
 1. Machine Design, An Integrated Approach, Robert L. Norton, Pearson Education, 2004 
 2. Design of Machine Elements: V.B. Bhandari, Tata McGraw., New Delhi, 2nd Edition 2007. 
 Reference Books 
-1. Machine Design: Hall, Holowenko, Laughlin (Schaum’s Outlines series) Adapted by S.K. Somani, Tata  
+1. Machine Design: Hall, Holowenko, Laughlin (Schaum's Outlines series) Adapted by S.K. Somani, Tata 
 McGraw Hill Publishing Company Ltd., New Delhi, Special Indian Edition, 2008. 
 2. Design of Machine Elements- K Ganesh Babu and K Srithar, MGH Education (I), Chennai, 2009 
 3. K. Mahadevan and Balaveera Reddy, Design Data Hand Book, CBS Publication, Fourth Edition. 2016. 
- 
-## Page 67
-
-FMCD2009 / 2.0 
+  ## Page 67
+ FMCD2009 / 2.0 
  67 
 ← BACK TO SEMESTER V 
-Program: Bachelor of Engineering  Semester: V 
+Program: Bachelor of Engineering Semester: V 
 Course Title: Programming Industrial Automation Systems Course Code: 24EMEC302 
 L-T-P: 2-0-2 Credits: 4 Contact Hours: 6 hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 26 + 48 Examination Duration: 2 hrs  
+Teaching Hours: 26 + 48 Examination Duration: 2 hrs 
 Unit-I 
-Chapter 1. Introduction: 2 Hrs  
+Chapter 1. Introduction: 2 Hrs 
 Advantages and Disadvantages of Automation, Automation in Production System, Principles and 
 Strategies of Automation, Basic Elements of an Automated System, Levels of Automation and 
 Manufacturing environment. 
 Chapter 2. Programmable logic controllers (PLC) & its building blocks: 5 Hrs 
 Internal architecture of Programmable Logic Controllers systems, Input/ Output devices, Memory 
 Organization, I/O processing, Signal conditioning, Remote connections, Networks, Processor Scan cycle, 
-Error Checking, and Diagnostics, Boolean algebra in PLC.  
+Error Checking, and Diagnostics, Boolean algebra in PLC. 
 Chapter 03. PLC Standards (IEC61131-3, IEC 61499) and Attributes: 5 Hrs 
 IEC 61131-3: Building Blocks, benefits, Programming Languages of IEC 61131-3, Ladder diagrams, Analogy 
 with Boolean Algebra and Binary Logic, Function blocks, Instruction lists, Sequential function charts, State 
@@ -2821,16 +2622,14 @@ Create a motor controller with two buttons, one for forward and one for reverse.
 The motor will operate in forward or reverse mode only when one of the buttons 
 is pressed. If both buttons are pressed simultaneously, the motor will not function 
 1 
-4. Car Safety System  
+4. Car Safety System 
 Create a ladder logic program for a car safety system that prevents the application 
 of ignition power when the car door is open and the seatbelt is not fastened. The 
 engine will start only when it is safe, i.e., the car door is closed, the seatbelt is 
 fastened, and the key is turned. 
 1 
-
-## Page 68
-
-FMCD2009 / 2.0 
+ ## Page 68
+ FMCD2009 / 2.0 
  68 
 5. Exercises involving ALU, Counter and timing functions 1 
 6. Exercises on Boolean Expressions 1 
@@ -2859,27 +2658,25 @@ II. HMI
 a. Virtual development of HMI to control the machining parameters of a CNC 
 machine. 
 4 
-14. Open Ended – Develop an HMI/SCADA system to control the processes of i. Food 
+14. Open Ended - Develop an HMI/SCADA system to control the processes of i. Food 
 production systems and ii. Manufacturing plant systems. 
 2 
-Text Books:  
-1. W. Bolton, Programmable Logic Controllers – 6th Edition, Elsevier, 2015. 
+Text Books: 
+1. W. Bolton, Programmable Logic Controllers - 6th Edition, Elsevier, 2015. 
 2. Frank Lamb, Industrial Automation Hands-On, McGraw Hill Publication, 2013. 
 References: 
 1. Frank D. Petruzella, Programmable Logic Controllers, 5th Edition, McGraw Hill Publication, 2019. 
-2. Tiess Chiu Chang & Richard A. Wysk, An Introduction to Automated Process Planning Systems.  
+2. Tiess Chiu Chang & Richard A. Wysk, An Introduction to Automated Process Planning Systems. 
 3. Laboratory manual developed by in-house faculty (For Laboratory experiments) 
- 
-## Page 69
-
-FMCD2009 / 2.0 
+  ## Page 69
+ FMCD2009 / 2.0 
  69 
 ← BACK TO SEMESTER V 
 Program: Bachelor of Engineering Semester: V 
 Course Title: Finite Element Methods Course Code: 23EMEC303 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
 Chapter 1. Introduction to FEM: 8 Hrs 
 Methods to solve Engineering Problems, Brief Introduction to Different Numerical Methods -Finite 
@@ -2887,21 +2684,21 @@ Element Methods(FEM), Boundary Element Method(BEM), Finite Volume Method (FVM), 
 Difference Method (FDM), General steps of the finite element method, Engineering applications of finite 
 element method, Advantages of the Finite Element Method, Strain- displacement relations, Stress-strain 
 relations, Plain stress and Plain strain conditions, principle of minimum potential energy and virtual work, 
-Rayleigh Ritz method, Galerkin’s method, Types of elements: 1D, 2D and 3D, Node numbering, Location 
+Rayleigh Ritz method, Galerkin's method, Types of elements: 1D, 2D and 3D, Node numbering, Location 
 of nodes. 
 Chapter 2. Interpolation functions and stiffness (Displacement) matrix of One-dimensional elements: 
 7 Hrs 
 Introduction, Derivation of stiffness matrix for a spring element, Assembly the total stiffness matrix by 
-superposition, shape function, convergent criteria, Pascal’s Triangle, One-Dimensional Elements-Analysis 
-of Bars, Linear interpolation poly nomials in terms of local coordinate ’s for1D, elements. Higher order 
+superposition, shape function, convergent criteria, Pascal's Triangle, One-Dimensional Elements-Analysis 
+of Bars, Linear interpolation poly nomials in terms of local coordinate 's for1D, elements. Higher order 
 interpolation functions for 1D quadratic and cubic elements in natural coordinates, Lagrange 
 interpolation functions, Numerical Problems: Solution for displacement, stress and strain in 1 D straight 
 bars, stepped bars and tapered bars using elimination approach and penalty approach. 
 Unit II 
 Chapter 3. Interpolation functions of two- and three-dimensional elements: 8 Hrs 
 Constant strain triangle, Four-Nodded Tetrahedral Element (TET 4), Eig ht-Nodded Hexahedral Element, 
-2D iso-parametric element, 8 noded and 20 noded brick element,  
-Numerical integration: Gaussian quadrature one point, two-point formulae, 2D integrals,  
+2D iso-parametric element, 8 noded and 20 noded brick element, 
+Numerical integration: Gaussian quadrature one point, two-point formulae, 2D integrals, 
 Numerical Problems: Solution for displacement, temperature using interpol ation for 2D elements. 
 Analysis of Trusses and numerical problems. 
 Chapter 4. Analysis of Beams and Dynamic Considerations: 7 Hrs 
@@ -2912,45 +2709,41 @@ distributed load.
 Formulation for point mass and distributed masses, Consistent element and Lumped mass matrix of one-
 dimensional bar element, Evaluation of eigen values and eigen vectors applied to bars, and stepped bars. 
 Unit III 
-Chapter 5. Heat Transfer:  5 Hrs 
+Chapter 5. Heat Transfer: 5 Hrs 
 Finite element formulation of an 1D Heat conduction, Conductivity matrix, Heat conduction with 
-different end conditions, Heat transfer through composite wall, Numerical Problems  
-Chapter 6. Post processing Techniques:  5 Hrs 
+different end conditions, Heat transfer through composite wall, Numerical Problems 
+Chapter 6. Post processing Techniques: 5 Hrs 
 Validate and interpret the results, Average and Un-average stresses, Special tricks for post processing, 
 Design modification, CAE Reports. 
 Text Books 
 1. T. R. Chandraputala and A. D. Belegundu, Introduction to Finite Elements in Engineering, Third 
 Edition, Prentice Hall of India, 2004. 
-2. Nitin Ghokale, S.S. Deshpande, S.V. Bedekar and A.N. Thiee, Practical finite  element analysis, 
+2. Nitin Ghokale, S.S. Deshpande, S.V. Bedekar and A.N. Thiee, Practical finite element analysis, 
 Finite to infinite, 2008 
-
-## Page 70
-
-FMCD2009 / 2.0 
+ ## Page 70
+ FMCD2009 / 2.0 
  70 
 3. S. S. Rao, Finite Element Method in Engineering, Fourth Edition, Elsevier Publishing, 2007 
 Reference Books 
 1. David Hutton, Fundamentals of Finite Element Analysis, Tata McGraw Hill, 2005. 
 2. S. M. Murigendrappa, Fundamentals of Finite Element Methods, Interline Publication, 2nd Edition 
 2009. 
- 
-## Page 71
-
-FMCD2009 / 2.0 
+  ## Page 71
+ FMCD2009 / 2.0 
  71 
 ← BACK TO SEMESTER V 
 Program: Bachelor of Engineering Semester: V 
 Course Title: CAD modelling and PLM Lab Course Code: 24EMEP301 
 L-T-P: 2-0-2 Credits: 4 Contact Hours: 15 Hrs/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
-Teaching Hours: 180  Examination Duration: 2 Hrs  
-1. Sketcher: 24 Hrs  
+Teaching Hours: 180 Examination Duration: 2 Hrs 
+1. Sketcher: 24 Hrs 
 Brief introduction on Sketcher work bench environment 
 Structure of users and saving of files. Exercises on Sketch Tools, Profile Tool bar and Constraint Tool bar: 
 Generate the following 2D sketches and make them ISO-constrained 
 2. Part Design: 54 Hrs 
 Exercise on 3d models using pad, slot, shaft, groove, hole, rib and stiffener commands, cut revolve, Dress 
-up commands like chamfer, fillets etc.  (Multi-Sections Solid and Removed Multi -Sections Solid 
+up commands like chamfer, fillets etc. (Multi-Sections Solid and Removed Multi -Sections Solid 
 Commands) 
 3. Generative shape design (GSD): 48 Hrs 
 Exercises using GSD to generate complicated surfaces using sub tool bars: Extrude -Revolution, Offset 
@@ -2969,41 +2762,39 @@ Sharing information with users Analyze and Identify impacts of modifications Sav
 database 
 Reference Books 
 1. Training material of EDS on 3D experience 
- 
-## Page 72
-
-FMCD2009 / 2.0 
+  ## Page 72
+ FMCD2009 / 2.0 
  72 
 ← BACK TO SEMESTER V 
 Program: Bachelor of Engineering Semester: V 
 Course Title: Automation Lab Course Code: 25EMEP302 
 L-T-P: 0-0-2 Credits: 2 Contact Hours: 4 Hrs/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
-Teaching Hours: 48 Examination Duration: 2 Hrs  
+Teaching Hours: 48 Examination Duration: 2 Hrs 
 Unit I 
-Chapter1. Automation Using Hydraulic Systems:  8 Hrs 
+Chapter1. Automation Using Hydraulic Systems: 8 Hrs 
 Introduction to Fluid Power, Advantages and application of Fluid Power, Types of Fluid Power Syste m, 
-Properties and Types of Fluids. Pascal’s Law, Continuity Equations, Structure of Hydraulic Control System. 
+Properties and Types of Fluids. Pascal's Law, Continuity Equations, Structure of Hydraulic Control System. 
 The Source of Hydraulic Power: Pumps Pumping Theory, Pump Classification, Gear Pumps, Vane Pumps, 
-Piston Pumps, Pump Selection, Hydraulic Actuators and Motors.  
-Control Components In Hydraulic Systems:  Symbolic representation as per ISO 1219 and ISO 5599. 
-Directional Control Valves – Symbolic representation, Constructional features, pressure control valves, 
-flow control valves. Servo valves, proportional valves and counter balancing valves.  
-Hydraulic Circuit Design (Simulation of circuits in Automation studio):  Control of single and double – 
+Piston Pumps, Pump Selection, Hydraulic Actuators and Motors. 
+Control Components In Hydraulic Systems: Symbolic representation as per ISO 1219 and ISO 5599. 
+Directional Control Valves - Symbolic representation, Constructional features, pressure control valves, 
+flow control valves. Servo valves, proportional valves and counter balancing valves. 
+Hydraulic Circuit Design (Simulation of circuits in Automation studio): Control of single and double - 
 acting Hydraulic Cylinder, regenerative circuit, pump unloading circuit, Double pump Hydraulic system, 
 Counter Balance Valve application, Hydraulic cylinder sequencing circuits, cylinder synchronizing circuits, 
 speed control of hydraulic cylinder, accumulator circuits. 
-Chapter2. Automation using Pneumatic Systems:  5 Hrs 
+Chapter2. Automation using Pneumatic Systems: 5 Hrs 
 Choice of working medium, characteristics of compressed air. Structure of Pneumatic control system. 
-Linear cylinders, Simple Pneumatic Control:  Direct and indirect actuation pneumatic cylinders, use of 
+Linear cylinders, Simple Pneumatic Control: Direct and indirect actuation pneumatic cylinders, use of 
 memory valve. Flow control valves and speed control of cylinders supply air throttling and exhau st air 
 throttling, use of quick exhaust valve. Fluid logic control systems. 
 Unit II 
-Chapter 3. Automation Using Electronic Systems:  5 Hrs 
+Chapter 3. Automation Using Electronic Systems: 5 Hrs 
 Introduction to PLC, types of PLC, components of PLC, structure of PLC and Control of linear actuators 
 using PLC. 
-Chapter 4. Automation Software and Robot Programming:  5 Hrs 
-Introduction to Automation Studio software, basics and simulation of circuits. Robotics – Basics, Anatomy 
+Chapter 4. Automation Software and Robot Programming: 5 Hrs 
+Introduction to Automation Studio software, basics and simulation of circuits. Robotics - Basics, Anatomy 
 and simulation of robotic program (pick and place, welding task etc.) 
 Sl. No Name of Experiments Duration 
 (in hrs) 
@@ -3019,26 +2810,24 @@ Sl. No Name of Experiments Duration
 10 Speed Control of Single-Acting Cylinder 0.5 
 11 Position Dependent Control of a Double Acting Cylinder with Mechanical Limit 
 Switches 
-0.5 
+0. 5 
 12 Design of PLC system to control single -acting cylinder, double -acting cylinder, 
 meter-in, meter-out and regenerative action, clamping and punching operation. 
 1 
 13 To control extension/retraction with or without delay using ladder logic 1 
-
-## Page 73
-
-FMCD2009 / 2.0 
+ ## Page 73
+ FMCD2009 / 2.0 
  73 
 14 To build and simulate arc/spot welding process in robotic environment 1 
 15 To build and simulate pick and place mechanism in robotic environment 1 
-16 Structured Enquiry example            
+16 Structured Enquiry example 
 Design a hydraulic circuit for tailstock operation (CNC Machine) 
-i. Piston should move in a set fee for supporting action  
+i. Piston should move in a set fee for supporting action 
 ii. Piston should retract in rapid mode action 
 2 
 17 Open Ended Experiment 2 
 Text Books: 
-1. Mikell.O. Groover, Automation, Production system and Computer Integrated  Manufacturing,   
+1. Mikell.O. Groover, Automation, Production system and Computer Integrated Manufacturing, 
        2nd , PHI, 2002 
 2. Anthony Esposito, Fluid power with applications, 5th, Pearson Ed, 2000 
 3. Mikell P . Groover& Mitchell Weiss, Industrial Robotics, 2nd, Mc Graw H, 2003 
@@ -3047,33 +2836,31 @@ Reference Books:
 1. S R Majumdar, Hydraulic systems, Principles and Maintenance, 5th , TMH, 2002 
 2. S R Majumdar, Pneumatic Systems, 2nd , TMH, 1995 
 3. Laboratory manual prepared by in-house team 
- 
-## Page 74
-
-FMCD2009 / 2.0 
+  ## Page 74
+ FMCD2009 / 2.0 
  74 
 ← BACK TO SEMESTER V 
 Program: Bachelor of Engineering Semester: V 
 Course Title: Finite Element Methods Lab Course Code: 23EMEP301 
 L-T-P: 0-0-1 Credits: 1 Contact Hours: 2Hrs/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
-Teaching Hours: 24 Examination Duration: 2Hrs  
-Category: Demonstration               No. of Lab. 
-Sessions  
+Teaching Hours: 24 Examination Duration: 2Hrs 
+Category: Demonstration No. of Lab. 
+Sessions 
 1 Scientific Research Exposure (Research Education): 
 Methods to search/extract Journal papers (Reputed journal paper), Referring 
-papers, Drafting a paper.  
+papers, Drafting a paper. 
 Introduction to ANSYS Workbench and familiarity. 
 Real time Current/future field issues: Problem Identification 
 03 
-Category: Exercises  
+Category: Exercises 
 Expt./ 
 Job No 
 Experiment/job Details No. of Lab. 
-Sessions  
+Sessions 
 1 Static Structural analysis 
 a. Uniform bar, 
-b. Bracket,  
+b. Bracket, 
 c. Machine Components 
 01 
 2 Linear Buckling 
@@ -3100,25 +2887,22 @@ b) TV, Refrigerator etc.
 01 
 7 Optimization 01 
 8 Model Test 01 
-Category: Structured Enquiry             
+Category: Structured Enquiry 
 Execute all the FEM Analysis modules which are dealt under the lab exercise. 
- 
-Identify the component (Sub-assembly need have Minimum 3 to 4 components) 
+  Identify the component (Sub-assembly need have Minimum 3 to 4 components) 
 Start from scratch 
- Measure the dimensions of component  
+ Measure the dimensions of component 
  Generate the Solid Modeling of components with overall assembly (In any of the CAD Software) 
  Import the model in neutral form to ANSYS Workbench 
- Collection of data relevant to Material Properties  
+ Collection of data relevant to Material Properties 
  Understand the physics of the problem (Working Principle with load's and boundary conditions) 
-
-## Page 75
-
-FMCD2009 / 2.0 
+ ## Page 75
+ FMCD2009 / 2.0 
  75 
  Interpretation of Results with conclusion. 
-Category: Open ended                         
+Category: Open ended 
 1. Identify field issue pertaining to any component/product in today's industry. 
-2. Collect the information/literature on earlier worked project through external/internal search  
+2. Collect the information/literature on earlier worked project through external/internal search 
 a. (Journal Paper/Patent/reports) 
 3. Comprehend the physics of the problem with working principle. 
 4. Prepare the abstract and apply to a national/international conference 
@@ -3129,35 +2913,31 @@ change, weight reduction, increasing load bearing capacity, fatigue life calcula
 endurance limit of component and damage factor). 
 8. Prepare the draft on the worked-out problem and apply to a national/international conference 
 Materials and Resources Required: 
-1. Books/References:  Nitin Ghokale, Practical finite element analysis 
-2. Manuals: Sham Tickoo, ANSYS for Engineers and Designers  
- 
-## Page 76
-
-FMCD2009 / 2.0 
+1. Books/References: Nitin Ghokale, Practical finite element analysis 
+2. Manuals: Sham Tickoo, ANSYS for Engineers and Designers 
+  ## Page 76
+ FMCD2009 / 2.0 
  76 
 ← BACK TO SEMESTER V 
 Program: Bachelor of Engineering Semester: V 
 Course Title: Mini Project Course Code: 15EMEW301 
 L-T-P: 0-0-3 Credits: 3 Contact Hours: 3 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 36 Examination Duration: 3 Hrs  
+Teaching Hours: 36 Examination Duration: 3 Hrs 
 The mini project is designed to help students develop practical ability and knowledge in reverse 
 engineering. Every batch of 5 students are required to select an equipment such as Table fan, toy car, 
 pump, bicycle etc. They have to dismantle the complete assembly and take measurements using various 
-measuring instruments such as vernier calipers, micrometer, profile projector,3D imager, portable CMM 
+measuring instruments such as vernier calipers, micrometer, profile projector, 3D imager, portable CMM 
 etc. Good sketches are to be made and converted into 3D part using 3D -Experience software. From then 
-on, the complete assembly in 3D, 2D assembly and BOM have to be prepared.   
- 
-The students will have to develop proficiency in 2D and 3D modeling, Special emphasis is given on 
+on, the complete assembly in 3D, 2D assembly and BOM have to be prepared. 
+  The students will have to develop proficiency in 2D and 3D modeling, Special emphasis is given on 
 incorporating Geometrical dimensioning & tolerancing on the 2D manufacturing drawings. He/she should 
 be well versed in material selection based on applications and develop assembly and part drawings as 
 per industry standard, in addition students have to include one inn ovative idea in their project. And 
 incorporate the same in the design. 
-Individual team has to prepare final   model in 2D and 3D with proper documentation for the entire 
-project.   Progress of the project work will be presented by student’s periodically to the panel of reviewers 
- 
-Phases of mini Project Work: 
+Individual team has to prepare final model in 2D and 3D with proper documentation for the entire 
+project. Progress of the project work will be presented by student's periodically to the panel of reviewers 
+  Phases of mini Project Work: 
  Students in batches will first select a product to carry out reverse engineering. 
  Dismantle the assembly into individual parts. 
  Take dimensions and make good legible sketches. 
@@ -3166,51 +2946,49 @@ Phases of mini Project Work:
  Render the product and show it in an actual environment. 
  Convert it into 2d assembly with ballooning and BOM. 
  Part drawings to be converted into 2D manufacturing parts as per industry standards, with GD&T 
-symbols wherever necessary.  
+symbols wherever necessary. 
  Students have to include an Innovative idea and incorporate the same in their project. 
  Prepare a final detailed report explaining the various stages and give a presentation as a team. 
- 
-## Page 77
-
-FMCD2009 / 2.0 
+  ## Page 77
+ FMCD2009 / 2.0 
  77 
 ← BACK TO SEMESTER V 
 Program: Bachelor of Engineering Semester: V 
 Course Title: Mechanical Vibrations Course Code: 15EMEE301 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
-1. Undamped Free Vibrations   6 Hrs 
+1. Undamped Free Vibrations 6 Hrs 
 Introduction, Importance of vibration and its physical significance, Types of vibrations, Mechanical system 
 components, Equivalent stiffness of spring combinations, Derivation of differential equation and Natural 
-frequency for undamped free vibrations of single degree freedom systems, Newton’s method and Energy 
+frequency for undamped free vibrations of single degree freedom systems, Newton's method and Energy 
 method, Torsional vibrations, Transverse vibrations of beams. 
-2. Damped Free Vibrations    5 Hrs 
+2. Damped Free Vibrations 5 Hrs 
 Introduction, types of damping, study of response of single degree freedom viscous damped systems for 
 cases of under damping, critical damping and over damping, Logarithmic decrement, Torsional system 
 with viscous damping. 
-3. Whirling of Shafts    5 Hrs 
+3. Whirling of Shafts 5 Hrs 
 Introduction, Whirling of shafts with and without damping, Discussion of speeds above and below critical 
 speeds, Introduction to Noise. 
 Unit II 
-4. Forced Vibrations    7 Hrs 
+4. Forced Vibrations 7 Hrs 
 Introduction, Forced vibrations of single degree freedom viscous damped system d ue to harmonic 
 excitation, Response of a rotating and reciprocating unbalance system, Support excitation, Vibration 
 isolation and transmissibility. 
-5. Two Degree of Freedom Systems   7 Hrs 
+5. Two Degree of Freedom Systems 7 Hrs 
 Introduction, Principal modes and Normal modes of vibration, Vibrations of undamped systems, Torsional 
 vibrations, Forced harmonic vibration, Systems with damping, Co -ordinate coupling; applications in 
 vehicle suspension, Dynamic vibration absorber. 
 Unit III 
-6. Multi Degree of Freedom Systems   5 Hrs 
+6. Multi Degree of Freedom Systems 5 Hrs 
 Introduction, Influe nce coefficients, Maxwell reciprocal theorem, Orthogonality principle, Matrix 
-iteration method to determine all the natural frequencies of multi degree freedom systems, Dunkerley’s 
-method, Rayleigh’s method. 
-7. Vibration Measurement and Condition Monitoring   5 Hrs 
+iteration method to determine all the natural frequencies of multi degree freedom systems, Dunkerley's 
+method, Rayleigh's method. 
+7. Vibration Measurement and Condition Monitoring 5 Hrs 
 Introduction, Vibrometer and accelerometer, Frequency measuring instruments. Signal analysis: 
 Spectrum analyzers, Dynamic testing of machines and structures, Experimental modal analysis, Machine 
-maintenance techniques, Machine condition monitoring techniques, Vibration monitoring techniques.  
+maintenance techniques, Machine condition monitoring techniques, Vibration monitoring techniques. 
 Text Books 
 1. Singiresu S. Rao, Mechanical Vibrations, 6th Edition, Pearson Education, 2018. 
 2. W.T. Thomson and Marie Dillon Dahleh, Theory of Vibrations with Applications, 5 th Edn., Pearson 
@@ -3218,113 +2996,107 @@ Education, 2014.
 Reference Books 
 1. S. Graham Kelly, Mechanical Vibrations: Theory and Applications, Cengage Learning, SI Edn, 2012. 
 2. M. L. Munjal, Noise and Vibration Control, World Scientific Publishing Co, Pvt. Ltd., 2013 
- 
-## Page 78
-
-FMCD2009 / 2.0 
+  ## Page 78
+ FMCD2009 / 2.0 
  78 
 ← BACK TO SEMESTER V 
 Program: Bachelor of Engineering Semester: V 
 Course Title: Product Innovation Course Code: 24EMEE305 
 L-T-P: 2-1-0 Credits: 3 Contact Hours: 4Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 24 Tutorial Hrs:16 Examination Duration: 3 Hrs  
+Teaching Hrs: 24 Tutorial Hrs:16 Examination Duration: 3 Hrs 
 Unit I 
-1. Technological Innovation:   8 Hrs 
+1. Technological Innovation: 8 Hrs 
 Introduction, Sources of Innovation, Types and Patterns of Innovation, drivers for innovation, Innovation 
 enablers, Innovation culture, Innovation Metrics, Challenges for Innovation, i nnovation Success stories, 
 New product Innovation Process, Innovation progression, growth through Innovation, Idea generation, 
 Idea Screening, Proof of Concept, team formation, Reality check. 
-2.Customer Analysis:   6 Hrs 
-Customer Needs Analysis, Big Proble m, W ’s of Customers, Target Customer Segments, Consumer 
+2. Customer Analysis: 6 Hrs 
+Customer Needs Analysis, Big Proble m, W 's of Customers, Target Customer Segments, Consumer 
 customer segmentation, Customer Value realization, Capture Customer Needs, Classification of needs, 
 Standards Battles and Design dominance, Timing of entry 
 Unit II 
-3.Market Analysis: 9 Hrs  
+3. Market Analysis: 9 Hrs 
 Innovation Opportunity, Environmental Analysis, Fore -sighting, S -curve for technology and consumer, 
 Porters 5 forces, market Capacity, Evaluation of opportunity, Volume for casting, Competition Analysis: 
-W’s of Competition, Tools to compare products, sources for Competitive information. 
-4.Tools for Innovation:    7 Hrs 
+W's of Competition, Tools to compare products, sources for Competitive information. 
+4. Tools for Innovation: 7 Hrs 
 5 Phases, Divergent and Convergent thinking, demographics, Contextual maps, Progression curve, Janus 
 Cone, Generational arcs, Go to Market With innovation 
 Unit III 
-5.Innovation Processes and Methods:  10 Hrs 
-TRIZ – Theory of innovative problem solving, ToC – Theory of Constraints, 8 Steps of Innovation 
+5. Innovation Processes and Methods: 10 Hrs 
+TRIZ - Theory of innovative problem solving, ToC - Theory of Constraints, 8 Steps of Innovation 
 Reference Books 
-1. Playbook for strategic foresight and Innovation – Stanford University  
-2. 8 Steps of Innovation – R. T. Krishnan and V. Dabholkar 
-3. TRIZ and ToC – Handouts  
-4. A Unified Innovation Process Model for Engineering Designers and Managers  (In Design Thinking) 
+1. Playbook for strategic foresight and Innovation - Stanford University 
+2. 8 Steps of Innovation - R. T. Krishnan and V. Dabholkar 
+3. TRIZ and ToC - Handouts 
+4. A Unified Innovation Process Model for Engineering Designers and Managers (In Design Thinking) 
 Skogstad, P ., Leifer, L. edited by Meinel, C., Leifer, L., Plattner, H. Springer Berlin Heidelberg. 2011: 
-19–43 
- 
-## Page 79
-
-FMCD2009 / 2.0 
+19-43 
+  ## Page 79
+ FMCD2009 / 2.0 
  79 
 ← BACK TO SEMESTER V 
 Program: Bachelor of Engineering Semester: V 
 Course Title: Advanced Machining Processes Course Code: 15EMEE305 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
-1: Introduction to Advanced Machining Processes  3 Hrs   
+1: Introduction to Advanced Machining Processes 3 Hrs 
 Introduction to new methods of production; Need and Capability analysis of various processes, 
-Classification and Selection of  Non-Traditional Machining Technologies, Hybrid Processes, Cases. 
-2: Mechanical Advanced Machining Processes     12 Hrs 
+Classification and Selection of Non-Traditional Machining Technologies, Hybrid Processes, Cases. 
+2: Mechanical Advanced Machining Processes 12 Hrs 
 Abrasive Jet Machining (AJM): Machining setup, parametric analysis, Process capabilities. Ultrasonic 
 machining (USM): Machining setup, Mechanics of Cutting - Model Proposed by S haw, Parametric 
 analysis, Process capabilities, Abrasive Flow Machining, Magnetic Abrasive Finishing. Water jet cutting 
 (WJC). 
 Unit II 
-3: Thermal Advanced Machining Processes   8 Hrs 
-Plasma Arc Machining (PAM):  Working System, Elements of PAM, Process Performance, PAM Parameters, 
-Process Characteristics, Safety Precautions,  Electric Discharge Machining (EDM): Working Principle, 
+3: Thermal Advanced Machining Processes 8 Hrs 
+Plasma Arc Machining (PAM): Working System, Elements of PAM, Process Performance, PAM Parameters, 
+Process Characteristics, Safety Precautions, Electric Discharge Machining (EDM): Working Principle, 
 Analysis, Process Variables, Process Characteristics, Applications 
-4: Thermo-electric Advanced Machining Processes    7 Hrs 
+4: Thermo-electric Advanced Machining Processes 7 Hrs 
 Electron Beam Machining (EBM): Working Principle, Process Parameters, Characteristics of The Process, 
 Application of EBM, Laser Beam Machining (LBM): Working Principle, Types of Laser, Process 
 Characteristics, Applications, Ion Beam Machining (IBM): Working Pri nciple, Process Parameters, 
 Applications 
 Unit III 
-5: Chemical Machining Processes      5Hrs   
+5: Chemical Machining Processes 5Hrs 
 Chemical Machining: Elements of process, Process Characteristics of CHM. Electro Chemical Machining: 
 Elements and Characteristics and Theory of ECM 
-6: Hybrid Processes     5 Hrs 
+6: Hybrid Processes 5 Hrs 
 Electro chemical grinding (ECG), Electrochemical spark machining (ECSM), electrochemical arc machining 
 (ECAM) and electro discharge abrasive grinding (EDAG). 
 Text Books 
-1. Jain V. K. “Advanced Machining Processes”, Allied Publishers, Private Limited. 
-2. Pandey P . C. and Shan H. S., “Modern Machining Processes”, TATA McGraw Hill Publishing 
+1. Jain V. K. "Advanced Machining Processes", Allied Publishers, Private Limited. 
+2. Pandey P . C. and Shan H. S., "Modern Machining Processes", TATA McGraw Hill Publishing 
 Company Limited, New Delhi. 
 Reference Books 
-1. HMT, “Production Technology”, TATA McGraw Hill.   
-2. Adithan M, “Modern Machining Methods”, S. Chand & Company, New Delhi. 
- 
-## Page 80
-
-FMCD2009 / 2.0 
+1. HMT, "Production Technology", TATA McGraw Hill. 
+2. Adithan M, "Modern Machining Methods", S. Chand & Company, New Delhi. 
+  ## Page 80
+ FMCD2009 / 2.0 
  80 
 ← BACK TO SEMESTER V 
 Program: Bachelor of Engineering Semester: V 
 Course Title: Advanced Welding Technology Course Code: 25EMEE308 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
 Chapter 1. Introduction: 10 Hrs 
 Introduction to consolidation processes, Classification of welding processes, some common concerns, 
-types of fusion welds and types of joints, Design considerations, Heat effects,  weldability and joinability. 
-Welding terms and definitions, welding positions, elements of and construction of welding symbols.  
+types of fusion welds and types of joints, Design considerations, Heat effects, weldability and joinability. 
+Welding terms and definitions, welding positions, elements of and construction of welding symbols. 
 Checks prior to weld joint preparation, joint preparation checks, preheating and inter-pass heating, post 
 weld heating, heating processes, post heat treatments, insulation of heated joints. 
 Chapter 2. Arc Welding Processes: 05 Hrs 
 a) Consumable electrode arc welding: Shielded metal arc welding (SMAW), flux cored arc welding 
 (FCAW), gas metal arc welding or MIG welding (GMAW),Submerged Arc welding(SAW),Plasma arc 
-welding (PAW),Flux cored arc welding (FCAW),Carbon arc welding   and Arc stud welding. 
+welding (PAW),Flux cored arc welding (FCAW),Carbon arc welding and Arc stud welding. 
 b) Non-consumable electrode welding processes 
-Gas tungsten arc welding or TIG welding (GTAW), gas tungsten arc spot  welding (TIG) and plasma arc 
+Gas tungsten arc welding or TIG welding (GTAW), gas tungsten arc spot welding (TIG) and plasma arc 
 welding (PAW). 
 Unit II 
 Chapter 3. Resistance and Solid State Welding Processes: 03 Hrs 
@@ -3336,7 +3108,7 @@ Oxy-fuel gas welding processes (OFW), Thermit welding, Electro -slag welding, El
 Laser beam welding, and Flash welding. 
 Chapter 5. Friction welding: 03 Hrs 
 Introduction, Types of friction welding-Friction stir welding (FSW),Friction stir spot welding(FSSW),Linear 
-friction welding(LFW),Rotary friction welding(RFW),advantages  and disadvantages of the same.   
+friction welding(LFW),Rotary friction welding(RFW),advantages and disadvantages of the same. 
 Chapter 6. Heat affected zone and weld metal: 02 Hrs 
 Transformations in HAZ of steel, factors affecting changes in microstructure and mechanical properties of 
 HAZ, reactions in weld pool- gas metal reaction, slag metal reaction. 
@@ -3351,38 +3123,34 @@ Chapter 9. Magnetic particle and Radiographic inspection: 02 Hrs
  Magnetic particle inspection, types of magnetizing currents, demagnetization, interpretation of patterns, 
 on-relevant indications, radiographic sources, detectable discontinuities. 
 Chapter 10. Chemical, Metallurgical, and Mechanical testing of weldments: 02 Hrs 
-Comparison of  destructive and  non-destructive tests, chemical tests, forms of  corrosion, testing for 
+Comparison of destructive and non-destructive tests, chemical tests, forms of corrosion, testing for 
 corrosion resistance, and metallographic tests. 
 Chapter 11. Visual and liquid penetrant inspection: 02 Hrs 
-
-## Page 81
-
-FMCD2009 / 2.0 
+ ## Page 81
+ FMCD2009 / 2.0 
  81 
-Selection of NDT  method, relationship of welding processes, discontinuities and inspection methods, 
+Selection of NDT method, relationship of welding processes, discontinuities and inspection methods, 
 visual inspection prior to, during and after welding, liquid penetrant test. 
 Practical Demonstrations 
-Arc welding – Butt joint, lap joint   on Mild steel 
-MIG welding –a non coted electrode on mild steel/stainless steel 
-TIG welding – on aluminium sheets. 
-Gas welding –on non ferrous material 
-Spot welding – on thin sheets metal. 
-Friction welding – Joining of two steel bars on lathe . 
+Arc welding - Butt joint, lap joint on Mild steel 
+MIG welding -a non coted electrode on mild steel/stainless steel 
+TIG welding - on aluminium sheets. 
+Gas welding -on non ferrous material 
+Spot welding - on thin sheets metal. 
+Friction welding - Joining of two steel bars on lathe . 
 Brazing and soldering- for low temperatures below 300 °C 
 Reference Books: 
-   1) William A Bowditch, Welding Technology Fundamentals  
-   2) O P khanna,  A text book of Welding  Technology  
- 
-## Page 82
-
-FMCD2009 / 2.0 
+   1) William A Bowditch, Welding Technology Fundamentals 
+   2) O P khanna, A text book of Welding Technology 
+  ## Page 82
+ FMCD2009 / 2.0 
  82 
 ← BACK TO SEMESTER V 
 Program: Bachelor of Engineering Semester: V 
 Course Title: Smart Manufacturing Systems Course Code: 25EMEE304 
 L-T-P: 2-1-0 Credits: 3 Contact Hours: 4 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 28 + 24 Examination Duration: 2 Hrs  
+Teaching Hours: 28 + 24 Examination Duration: 2 Hrs 
 Unit I 
 Chapter 1. Introduction to Smart Manufacturing : 04 Hrs 
 Introduction to Smart Manufacturing, Smart Manufacturing Ecosystem, Product Development Lifecycle, 
@@ -3393,7 +3161,7 @@ Introduction to Supply Chain, SCOR model, Virtual/Extended Enterprise, Delivery 
 Phases in a Supply Chain, Production Approaches, Supply Chain Process, Push & Pull Production Systems, 
 Push-Pull Boundary, Lack of Coordination and Bullwhip Effect, Order -to-Cash Process, Procure -to-Pay 
 Process, Call -off, Replenishment, Sourcing, Uncertainties, Responsiveness vs Cost, Supply Chain 
-Performance Drivers –Facilities, Inventory, Transportation, Information, Sourcing, and Pricing 
+Performance Drivers -Facilities, Inventory, Transportation, Information, Sourcing, and Pricing 
 Chapter 3. Enterprise Resource Planning : 05 Hrs 
 Business Processes, Process Modeling and Data Modeling, Business Process Reengineering, Event Process 
 Chains (EPC), ERP Functionalities, Financial Accounting, Cost Accounting and Managerial Accounting, Cost 
@@ -3421,20 +3189,18 @@ Hands-on activities and case studies: 24 Hrs
 procurement. (SAP B1) 
  Map the product lifecycle stages of a real-world industrial product. (ENOVIA PLM) 
  Siemens Smart Manufacturing: Digital Twin Implementation in Automotive Industry. 
- Amazon’s Push-Pull Supply Chain: Balancing Speed and Cost 
+ Amazon's Push-Pull Supply Chain: Balancing Speed and Cost 
  SAP ERP Implementation at Nestlé: Challenges and Lessons Learned. 
  How PLM Helped Harley-Davidson Reduce Time-to-Market. 
  Siemens Opcenter MES Implementation in Electronics Manufacturing. 
 Text Books: 
-
-## Page 83
-
-FMCD2009 / 2.0 
+ ## Page 83
+ FMCD2009 / 2.0 
  83 
 1. Kandasamy, Jayakrishna, KamalakantaMuduli, V. P. Kommula , and Purushottam L. Meena, Smart 
 manufacturing technologies for industry 4.0: integration, benefits, and operational activities. CRC 
 Press, 2022. 
-2. Ellen Monk, and Bret Wagner, “Concepts in Enterprise Resource Planning,” Fourth Edition, Course 
+2. Ellen Monk, and Bret Wagner, "Concepts in Enterprise Resource Planning," Fourth Edition, Course 
 Technology CENGAGE Learning, 2009. 
 3. Stark John, &Product Lifecycle Management: 21st Century Paradigm for Product Realization, 
 Springer, Third Edition, 2015. 
@@ -3442,7 +3208,7 @@ Springer, Third Edition, 2015.
 methods. Elsevier, 2020. 
 5. Elangovan, Uthayan. Smart automation to smart manufacturing: Industrial internet of things. 
 Momentum Press, 2019. 
-6. Sachin Karadgi, “A Reference Architecture for Real -Time Performance Measurement,” Springer, 
+6. Sachin Karadgi, "A Reference Architecture for Real -Time Performance Measurement," Springer, 
 2014. 
 Reference Books: 
 1. Dhanaraj, Rajesh Kumar, Ali Kashif Bashir, Rajasekar Vani, Balamurugan Balusamy, and Pooja Malik, 
@@ -3451,17 +3217,15 @@ eds. Digital Twin for Smart Manufacturing. Elsevier, 2023.
 Automation, Robotics, Sensing, Artifi cial Intelligence, 5G, IoTs and Blockchain. Institution of 
 Engineering and Technology, 2022. 
 3. MESA International, Three Functional Dimensions Converge on Smart Manufacturing, Whitepaper 
-
-## Page 84
-
-FMCD2009 / 2.0 
+ ## Page 84
+ FMCD2009 / 2.0 
  84 
 ← BACK TO SEMESTER V 
 Program: Bachelor of Engineering Semester: V 
-Course Title: Fundamentals of Robotics  Course Code: 25EMEE305 
+Course Title: Fundamentals of Robotics Course Code: 25EMEE305 
 L-T-P: 2-1-0 Credits: 3 Contact Hours: 4 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 28 + 24 Examination Duration: 2 Hrs  
+Teaching Hours: 28 + 24 Examination Duration: 2 Hrs 
 Unit I 
 Chapter 1. Introduction to Robotics: 03 Hrs 
 Definition & history of robotics, Laws of robotics, Overview of robot components: links, joints, actuators, 
@@ -3469,11 +3233,11 @@ sensors, Classification of robots: serial, parallel, mobile, humanoid, Industria
 Chapter 2. Robot Kinematics: 05 Hrs 
 Degrees of Freedom (DoF), Forward and inverse kinematics using Denavit -Hartenberg (D -H) 
 representation, Velocity kinematics using the Jacobian matrix, Workspace analysis and singularities. 
-Chapter 3. Robot Dynamics: 06 Hrs  
+Chapter 3. Robot Dynamics: 06 Hrs 
 Newton-Euler and Lagrangian approaches for deriving equations of motion, Dynamic modeling of robotic 
 arms, Understanding force/torque dynamics. 
 Unit II 
-Chapter 4. Sensors and Actuators in Robotics: 04 Hrs  
+Chapter 4. Sensors and Actuators in Robotics: 04 Hrs 
 Types of actuators: DC motors, stepper motors, servo motors, pneumatic, and hydraulic systems, Sensors: 
 encoders, proximity sensors, LIDAR, vision systems, and force -torque sensors Interfacing sensors and 
 actuators with microcontrollers and PLCs. 
@@ -3484,126 +3248,119 @@ Chapter 6. Motion Planning and Trajectory Generation: 05 Hrs
 Path planning techniques: straight-line, cubic polynomial, quintic polynomial, Sampling-based algorithms: 
 Rapidly Exploring Random Trees (RRT) and Probabilistic Roadmaps (PRM), Trajectory generation in joint 
 space vs. Cartesian space. 
- 
-Hands-On Activity: (24 Hours) 
+  Hands-On Activity: (24 Hours) 
  Model and simulate 2-DOF robotic arm using D-H parameters and kinematics 
  Newton-Euler dynamic modeling and simulation of a robotic arm 
  Interface IR/Ultrasonic sensor and servo motor with Arduino 
-  Implement PID control for DC motor speed control  
+ Implement PID control for DC motor speed control 
  Simulate path planning using RRT or PRM algorithm 
 Text Books: 
-1. S.R. Deb, Robotics Technology and Flexible Automation, Tata McGraw-Hill.  
-2. John Craig, Introduction to Robotics: Mechanics and Control,  Pearson. 
+1. S.R. Deb, Robotics Technology and Flexible Automation, Tata McGraw-Hill. 
+2. John Craig, Introduction to Robotics: Mechanics and Control, Pearson. 
 Reference Books: 
-1. Richard D. Klafter, Robotics Engineering: An Integrated Approach, Prentice Hall.  
+1. Richard D. Klafter, Robotics Engineering: An Integrated Approach, Prentice Hall. 
 2. Fu K. S., Gonzalez R. C., Lee C. S. G., Robotics: Control, Sensing, Vision, and Intelligence, McGraw-
 Hill. 
- 
-## Page 85
-
-FMCD2009 / 2.0 
+  ## Page 85
+ FMCD2009 / 2.0 
  85 
 ← BACK TO SEMESTER V 
 Program: Bachelor of Engineering Semester: V 
 Course Title: Additive Manufacturing Processes Course Code: 22EMEE301 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
-Chapter 1: Introduction and Basic principles:   04 hrs 
+Chapter 1: Introduction and Basic principles: 04 hrs 
 What is AM, benefits of AM, Development of AM technology, generalized AM process chain. 
-Chapter 2: Vat photo-polymerization processes:    06 hrs 
-Introduction, materials, UV -curable photopolymers, overview of photopolymer  chemistry, resin 
+Chapter 2: Vat photo-polymerization processes: 06 hrs 
+Introduction, materials, UV -curable photopolymers, overview of photopolymer chemistry, resin 
 formulations and reaction mechanisms, reaction rates, Laser scan Vat photo -polymerization, photo -
 polymerization process modeling, process benefits & drawbacks. 
-Chapter 3: Powder Bed Fusion Processes:   06 hrs 
+Chapter 3: Powder Bed Fusion Processes: 06 hrs 
 Introduction, materials (Poly mers and Composites, Metals and Composites, Ceramics and Ceramic 
 Composites), Powder Fusion Mechanisms (Solid -State Sintering, Chemically Induced Sintering, LPS and 
 Partial Melting, Full Melting, Part Fabrication), Process beneﬁts and Drawbacks. 
 Unit II 
-Chapter 4: Extrusion-Based Systems:    06 hrs 
+Chapter 4: Extrusion-Based Systems: 06 hrs 
 Introduction, Basic Principles (Material Loading, Liquiﬁcation, Extrusion, Solidiﬁcation, Bonding, Support 
 Generation), Fused Deposition Modeling. 
-Chapter 5: Sheet Lamination Processes:     06 hrs 
+Chapter 5: Sheet Lamination Processes: 06 hrs 
 Introduction, Gluing or Adhesive Bonding, Bond -Then-Form Processes, Form -Then-Bond Processes, 
 Material Processing Fundamentals (Thermal Bonding, Sheet Metal Clamping) 
 Unit III 
-Chapter 6: Directed Energy Deposition Processes:    06 hrs 
+Chapter 6: Directed Energy Deposition Processes: 06 hrs 
 Introduction, General DED Process Description, Material Delivery (Powder Feeding, Wire Feeding), DED 
 Systems (Laser Based Metal Deposition Processes, Electron Beam Based Metal Deposition Processes) , 
 Typical Materials and Microstructure, DED Beneﬁts and Drawbacks 
-Chapter 7: Post-processing:    06 hrs 
+Chapter 7: Post-processing: 06 hrs 
 Introduction, Support Material Removal, Surface Texture Improvements, Accuracy Improvements, 
 Aesthetic Improvements, Preparation for Use as a Pattern, P roperty Enhancements Using Non -thermal 
-Techniques, Property Enhancements Using Thermal Techniques.    
+Techniques, Property Enhancements Using Thermal Techniques. 
 Text Books 
-1. Gibson, I., Rosen, D.W. and Stucker, B., “Additive Manufacturing Methodologies: Rapid 
-Prototyping to Direct Digital Manufacturing”, Springer, 2015. 
+1. Gibson, I., Rosen, D.W. and Stucker, B., "Additive Manufacturing Methodologies: Rapid 
+Prototyping to Direct Digital Manufacturing", Springer, 2015. 
 Reference Books 
 1. Chee kai Chua, Kah Fai Leong, 3D Printing and Additive Manufacturing: Principles and 
 Applications: Fourth edition of Rapid Prototyping, World Scientific Publishers, 2014. 
-2.  Chua C.K., Leong K. F., and Lim C. S., "Rapid Prototyping: Principles and applications", Third 
+2. Chua C.K., Leong K. F., and Lim C. S., "Rapid Prototyping: Principles and applications", Third 
 Edition, World Scientific Publishers, 2010. 
- 
-## Page 86
-
-FMCD2009 / 2.0 
+  ## Page 86
+ FMCD2009 / 2.0 
  86 
 ← BACK TO SEMESTER V 
 Program: Bachelor of Engineering Semester: V 
 Course Title: Turbo Machines Course Code: 18EMEE303 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
-1. Principles of Turbo Machinery   5 Hrs 
+1. Principles of Turbo Machinery 5 Hrs 
 Definition of turbo machine, Comparison with positive displacement machine, Classification; Application 
 of first and second law to turbo -machines, Efficiencies. Dimensionless parameters and their physical 
 significance, Effect of Reynolds number, Specific speed, Illustrative examples on dimensional analysis and 
 model studies. 
-2.Energy Exchange in Turbo Machine     5 Hrs 
+2. Energy Exchange in Turbo Machine 5 Hrs 
 Euler Turbine equation, Alternate form of Euler turbine equation-components of energy transfer, Degree 
 of reaction, General Analysis of a turbo machine -effect of blade discharge angle on energy transfer and 
 degree of reaction, General analysis of centrifugal pumps and compressors-effect of blade discharge angle 
 on performance, Theoretical head-capacity relationship. 
-3. General Analysis of Turbo Machines    6 Hrs 
+3. General Analysis of Turbo Machines 6 Hrs 
 Axial flow compressors and pumps -general expression for degre e of reaction, velocity triangles for 
 different values of degree of reaction, General analysis of axial and radial flow turbines-utilization factor 
 and degree of reaction, Condition for maximum utilization factor-optimum blade speed ratio for different 
 types of turbines. 
 Unit II 
-4. Compressible Flow Fundamentals    5 Hrs 
+4. Compressible Flow Fundamentals 5 Hrs 
 Energy and momentum equations for compressible fluid flows, various regions of flows, reference 
 velocities, stagnation state, velocity of sound, critical states, Mach number, critical Mach number, types 
 of waves, Mach cone, Mach angle, effect of Mach number on compressibility 
-5.  Centrifugal Compressors6 Hrs 
+5. Centrifugal Compressors6 Hrs 
 Stage velocity triangles, slip factor, power input factor, Stage work, Pressure developed, stage efficiency 
-and surging, stalling and prewhirl.  Expression for pressure ratio developed in a stage, work done factor, 
+and surging, stalling and prewhirl. Expression for pressure ratio developed in a stage, work done factor, 
 efficiencies, Problems. 
-6. Axial flow Compressors    5 Hrs 
+6. Axial flow Compressors 5 Hrs 
 Axial Flow Compressors: Basic operations, elementary theory, factors affecting stage pressure ratio, 
 Blockage in the compressor annulus, degree of reaction, three -dimensional flow, design process, blade 
 design, calculation of stage performance, compressibility effects, off-design performance. 
 Unit III 
-7. Flow through Variable Area Ducts    4 Hrs 
+7. Flow through Variable Area Ducts 4 Hrs 
 Isentropic flow through variable area ducts, T-s and h-s diagrams for nozzle and diffuser flows, area ratio 
 as a function of Mach number, mass flow rate through nozzles and diffusers, effect of friction in flow 
 through nozzles. 
-8. Steam Turbines   4 Hrs 
+8. Steam Turbines 4 Hrs 
 Classification, single st age impulse turbine, condition for maximum blade efficiency, stage efficiency. 
 Compounding-need for compounding, method of compounding, impulse staging- condition for maximum 
 utilization factor for multi stage turbine with equiangular blades, effect of bla de and nozzle losses, 
-Reaction turbine, Parson ’s reaction turbine, condition for maximum blade efficiency, reaction staging, 
+Reaction turbine, Parson 's reaction turbine, condition for maximum blade efficiency, reaction staging, 
 Problems on single stage turbines only. 
 Text Books 
-1. ShepherdD.G., Principals of Turbo Machinery, Macmillan Publishers,1st Edn.1964 
-
-## Page 87
-
-FMCD2009 / 2.0 
+1. ShepherdD.G., Principals of Turbo Machinery, Macmillan Publishers, 1st Edn.1964 
+ ## Page 87
+ FMCD2009 / 2.0 
  87 
-2. Yadav R., (2007) ‘Steam & gas turbines and power plant engineering ’, Central Publishing House 
-Allahabad, Vol. 1,  
+2. Yadav R., (2007) 'Steam & gas turbines and power plant engineering ', Central Publishing House 
+Allahabad, Vol. 1, 
 3. S. M. Yahya, Turbines, Compressors & Fans, Tata McGraw Hill Co. Ltd., 2nd edition, 2002. 
 4. E Rathakrishnan, Gas Dynamics, PHI- 2nd edition, 2009. 
 Reference Books 
@@ -3611,108 +3368,102 @@ Reference Books
 Age International, 1st Edn, 2006. 
 2. Saravanamutto H.I.H, Rogers G.F.C., Cohen H, Gas Turbine Theory, 5 th edn., Pearson Education, 
 2006. 
- 
-## Page 88
-
-FMCD2009 / 2.0 
+  ## Page 88
+ FMCD2009 / 2.0 
  88 
 ← BACK TO SEMESTER V 
 Program: Bachelor of Engineering Semester: V 
-Course Title: Thermal Management of EV Battery Systems   Course Code: 22EMEE302 
+Course Title: Thermal Management of EV Battery Systems Course Code: 22EMEE302 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
-1. Introductory Aspects of Electric Vehicles:       7 Hrs 
+1. Introductory Aspects of Electric Vehicles: 7 Hrs 
 Technology Development and Commercialization, Hybrid Electric Vehicles (HEVs), Fuel Cell Vehicles 
 (FCVs), Plug-In HEVs (or Range-Extended Hybrids), Energy Storage System- Batteries, Ultra capacitors, Grid 
-Connection, Vehicle thermal management,    
-2. Electric Vehicle Battery Technologies:        8 Hrs 
+Connection, Vehicle thermal management, 
+2. Electric Vehicle Battery Technologies: 8 Hrs 
 Current Battery Technologies, Battery Technologies under Development, Battery Characteristics, Battery 
 Management Systems, Battery Manufacturing and Testing Processes, 
 Unit II 
-3. Phase Change Materials for Passive TMSs:      7 Hrs                                                                                                          
+3. Phase Change Materials for Passive TMSs: 7 Hrs 
 Basic Prope rties and Types of PCMs, Measurement of Thermal Properties of PCMs, Heat Transfer 
-Enhancements, Cost and Environmental Impact of Phase Change Materials, Applications of PCMs,  Heat 
-Exchanger Design and Optimization Model for EV Batteries using PCMs, Melting  and Solidification of 
+Enhancements, Cost and Environmental Impact of Phase Change Materials, Applications of PCMs, Heat 
+Exchanger Design and Optimization Model for EV Batteries using PCMs, Melting and Solidification of 
 Paraffin in a Spherical Shell from Forced External Convection 
-4. Simulation and Experimental Investigation of Battery TMSs:      8Hrs                                                                                                
+4. Simulation and Experimental Investigation of Battery TMSs: 8Hrs 
 Numerical Model Development for Cell and Sub-modules, Cell and Module Level Experimentation Set Up 
 and Procedure, Vehicle Level Experimentation Set Up and Procedure, Simulations and Experimentations 
 on the Liquid Battery Thermal Management System Using PCMs, 
 Unit III 
-5. Energy and Exergy Analyses of Battery TMSs:           5Hrs                                     
+5. Energy and Exergy Analyses of Battery TMSs: 5Hrs 
 TMS Comparison, Thermodynamic Analysis, Modeling of Major TMS Components, Energy and Exergy 
 Analyses, Liquid Battery Thermal Management Systems, Trans-critical CO2-Based Electric Vehicle BTMS 
-6. Cost, Environmental Impact and Multi-Objective Optimization of Battery TMSs:          5 Hrs 
+6. Cost, Environmental Impact and Multi-Objective Optimization of Battery TMSs: 5 Hrs 
 Exergo-economic Analysis, Exergo -environmental Analysis, Optimization Methodology, Liquid Battery 
 Thermal Management Systems, Experimental and Theoretical Investigation of Temperature Distributions 
 in a Prismatic Lithium -Ion Battery, Thermal Management Solutions for Electric Vehicle Lithium -Ion 
 Batteries based on Vehicle Charge and Discharge Cycles 
 Text Books 
-1. Ibrahim Dinçer,  Halil S. Hamut,  Nader Javani, Thermal Management of Electric Vehicle Battery 
-Management Systems,  1st Edn John Wiley & Sons, 2016  
+1. Ibrahim Dinçer, Halil S. Hamut, Nader Javani, Thermal Management of Electric Vehicle Battery 
+Management Systems, 1st Edn John Wiley & Sons, 2016 
 2. John G. Hayes, Goodarzi A.,Electric Power train - Energy Systems, Power electronics and drives for 
 Hybrid, electric and fuel cell vehicles, Wiley Publication 
- 
-## Page 89
-
-FMCD2009 / 2.0 
+  ## Page 89
+ FMCD2009 / 2.0 
  89 
 ← BACK TO SEMESTER V 
 Program: Bachelor of Engineering Semester: V 
 Course Title: Advanced CAE - I Course Code: 25EMEE301 
 L-T-P: 0-0-3 Credits: 3 Contact Hours: 6 Hrs/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
-Teaching Hours: 80 Examination Duration: 2Hrs  
-1.   Introduction to Finite Element Method and Altair Hyper works 4 Hrs 
-2.   Hypermesh workbench  
+Teaching Hours: 80 Examination Duration: 2Hrs 
+1. Introduction to Finite Element Method and Altair Hyper works 4 Hrs 
+2. Hypermesh workbench 
       Getting started with Hypermesh 
       Interacting with panels 
 9 Hrs 
-3.   Geometry Clean up - Theory 
-Tools used to geometry clean up  
+3. Geometry Clean up - Theory 
+Tools used to geometry clean up 
       (Edge edit, Create Surface and Surface edit, Line and Line Edit, Delete …..) 
-      Theory and Demo Exercise – 04 No 
+      Theory and Demo Exercise - 04 No 
 12 Hrs 
-4.   2-D mesh Explanation -Theory 
+4. 2-D mesh Explanation -Theory 
       Auto mesh and Different types of auto mesh 
       Types of 2 D mesh (Ruled, Spline, Rotate……) 
-      Quality Parameters checking.  
+      Quality Parameters checking. 
       Normal's and Edge Checking and adjusting. 
-      Theory and Demo Exercise – 04 No 
+      Theory and Demo Exercise - 04 No 
 18 Hrs 
-5.   3-D mesh Explanation -Theory 
+5. 3-D mesh Explanation -Theory 
       Volume mesh Creation 
       Types of 3 D mesh (HexaPenta Type, Tetra mesh……) 
       Quality Parameters checking. 
       Normal's and Edge Checking and adjusting. 
       Theory and Demo Exercise - 03 No 
 18 Hrs 
-6.   1-D mesh Explanation -Theory 
+6. 1-D mesh Explanation -Theory 
       Creation of 1 D elements (Bar, Beam Mass….) 
       Creation of Rigid elements (Rbe2 and Rbe3) 
       Creation of Weld elements between two adjacent components 
       Demo Exercise - 03 No 
 9 Hrs 
-7.   Execute Linear Static Analysis using optistruct solver 
-      Theory and Demo Exercise   - 01 No,                   Assignment - 01 No 
+7. Execute Linear Static Analysis using optistruct solver 
+      Theory and Demo Exercise - 01 No, Assignment - 01 No 
 4 Hrs 
-8.   Perform Buckling Analysis using optistruct solver 
-      Theory and Demo Exercise    - 01 No 
+8. Perform Buckling Analysis using optistruct solver 
+      Theory and Demo Exercise - 01 No 
 2 Hrs 
-9.   Carryout Modal Analysis using optistruct solver 
-      Theory and Demo Exercise     -  01  No 
+9. Carryout Modal Analysis using optistruct solver 
+      Theory and Demo Exercise - 01 No 
 2 Hrs 
 10. Analyze Thermal Analysis using optistruct solver 
-      Theory and Demo Exercise     - 01 No 
+      Theory and Demo Exercise - 01 No 
 2 Hrs 
 Reference Books: 
 1. Nitin S Ghokale, Practical Finite Element Analysis, 3rd Edition, Finite to Infinite, 2015. 
- 
-## Page 90
-
-FMCD2009 / 2.0 
+  ## Page 90
+ FMCD2009 / 2.0 
  90 
 ← BACK TO SEMESTER V 
 Program: Bachelor of Engineering Semester: V 
@@ -3721,40 +3472,38 @@ L-T-P: 1-2-0 Credits: 3 Contact Hours: 3 Hrs/week
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
 Teaching Hrs: 30 
 Tutorial/ Lab Hrs: 50 
-Examination Duration: 2Hrs  
-1: Introduction and Background     08 Hrs 
-Introduction to Biomimicry and Systems, Background, Early Attempts at  Biomimicry,  Sustainability and 
+Examination Duration: 2Hrs 
+1: Introduction and Background 08 Hrs 
+Introduction to Biomimicry and Systems, Background, Early Attempts at Biomimicry, Sustainability and 
 its role on Engineering Domain, Design thinking and Innovation using Nature inspired design. 
-2: Bionic Design Methods/ Approach     07 Hrs 
+2: Bionic Design Methods/ Approach 07 Hrs 
 Biomimicry 3.8 Taxonomy, Study of Bionic Design methodologies proposed by scientists like: Ask Nature, 
 Bio-Triz, Idea-Inspire, Bio Cards, DANE, Elise 3D, etc,. 
-3: Case Studies/ Caselet      08 Hrs 
+3: Case Studies/ Caselet 08 Hrs 
 Sudy of iconic engineering case studies that demonstrate the nature inspired design that include Travel, 
 Motion, Energy, Colour, Light, Materials, Devices, Sensors, Control, Navigation etc.. 
-4:  Selection of Bio-Materials- An overview     07 Hrs 
+4: Selection of Bio-Materials- An overview 07 Hrs 
 Introduction; Classes of bio materials: metals, polymers, FRPs, fabrics, nanocomposites, bio-resorbable 
 and bioerodable materials, ceramics, glasses. 
 Text Books 
 1. Biomimetics: Nature-Inspired Design and Innovation by Sandy B. Primrose, Wiley 2020. 
-2. Cats′ Paws & Catapults –Mechanical Worlds of Nature & People , Steven Vogel, W. W. Norton & 
+2. Cats′ Paws & Catapults -Mechanical Worlds of Nature & People , Steven Vogel, W. W. Norton & 
 Company 
 3. Biomimitics:, Biologically inspired Technologies, Yoseph Bar-Cohen, Taylor and Francis Publications 
- 
-## Page 91
-
-FMCD2009 / 2.0 
+  ## Page 91
+ FMCD2009 / 2.0 
  91 
 ← BACK TO SEMESTER V 
 Program: Bachelor of Engineering Semester: V 
 Course Title: Enterprise Resource Planning-I Course Code: 24EMEE301 
 L-T-P: 2-0-1 Credits: 3 Contact Hours: 4 Hrs/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
-Teaching Hours: 30 Examination Duration: 2 Hrs Semester: 5th  
+Teaching Hours: 30 Examination Duration: 2 Hrs Semester: 5th 
 Unit I 
-Chapter 1. Introduction to ERP:  4 Hrs 
+Chapter 1. Introduction to ERP: 4 Hrs 
 Need for ERP , Characteristics, and components of ERP , Suppliers of ERP , Integrated Management 
 Information, Seamless Integration, and Functional information system, Marketing, Accounting, and 
-Financial Management, Supply Chain Management, Resource Management, Integrated Data Model.  
+Financial Management, Supply Chain Management, Resource Management, Integrated Data Model. 
 Chapter 2. Business Functions and Business Processes: 6 Hrs 
 Functional Areas of Operation, Business Processes, A process view of business, Functional Areas, and 
 Business process of very small business. Marketing and Sales, Supply Chain Management, Accounting and 
@@ -3763,8 +3512,8 @@ Business Process Reengineering: Need for reengineering, Reengineering Model, BPR
 Business process reengineering, and performance improvement, Enablers of BPR in Manufacturing, 
 Collaborative Manufacturing, Intelligent manufacturing, Production Planning, BPR Implementation. 
 Chapter 3. Financial & Accounting Management: 5 Hrs 
-Differences between Financial accounting, Cost accounting and Management accounting, Basic finance – 
-Concept of Cost Centre accounting, Cost – Volume – Profit Analysis, Cash Flow Analysis. 
+Differences between Financial accounting, Cost accounting and Management accounting, Basic finance - 
+Concept of Cost Centre accounting, Cost - Volume - Profit Analysis, Cash Flow Analysis. 
 Unit II 
 Chapter 4. Role of ERP in Sales & Purchasing: 5 Hrs 
 Features of purchase module, ERP Purchase System; Role of ERP in Sales and Distribution, Sub-Modules 
@@ -3784,36 +3533,33 @@ Experiments No. of sessions
 3. Setup master data for standard business processes in logistics 03 
 4. Utilize controlling tools and company reports 03 
 Text Books: 
-1. Ellen Nonk & Bret Wagner, “Concepts in Enterprise Resource Planning ”, 4th edition, CENGAGE 
+1. Ellen Nonk & Bret Wagner, "Concepts in Enterprise Resource Planning ", 4th edition, CENGAGE 
 Learning Custom Publishing, 2013. 
-2. Vinod Kumar Garg, N. K. Venkitakrishnan, “Enterprise Resource Planning: Concepts and Practice”, 
+2. Vinod Kumar Garg, N. K. Venkitakrishnan, "Enterprise Resource Planning: Concepts and Practice", 
 2nd edition, Prentice Hall India Learning Private Limited, 2003. 
 Reference Books 
-1. Alexis Leon, “Enterprise Resource Planning”, 4th edition, McGraw Hill Education, 2019. 
-2. Simha R. Magal & Jeffrey Word, “Integrated Business Processes with ERP Systems ”, 1st edition, 
+1. Alexis Leon, "Enterprise Resource Planning", 4th edition, McGraw Hill Education, 2019. 
+2. Simha R. Magal & Jeffrey Word, "Integrated Business Processes with ERP Systems ", 1st edition, 
 John Wiley & Sons Inc., 2011. 
- 
-## Page 92
-
-FMCD2009 / 2.0 
+  ## Page 92
+ FMCD2009 / 2.0 
  92 
 ← BACK TO SEMESTER V 
 Program: Bachelor of Engineering Semester: V 
 Course Title: Fundamentals of Product Lifecycle Management Course Code: 24EMEE302 
 L-T-P: 2-0-1 Credits: 3 Contact Hours: 4 Hrs/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
-Teaching Hours: 30 Examination Duration: 2 Hrs  
+Teaching Hours: 30 Examination Duration: 2 Hrs 
 Unit I 
 Chapter 1. The PLM Environment: 6 Hrs 
 PLM paradigm, P , L and M of PLM, scope of PLM, benefits of PLM, spread of PLM, issues in traditional 
 environment, product data issues, overcoming problems and enabling opportunities, a complex changing 
-environment, product opportunities, related blogs.  
+environment, product opportunities, related blogs. 
 Chapter 2. Business processes in the PLM Environment: 8 Hrs 
 Relevance of business processes in PLM, action across the product lifecycle, process approach, KPIs for 
 business processes, process reality in a typical company generic issues, generic challenges and a generic 
-vision for business processes in PLM, business processes activities in the PLM initiatives, related blogs.  
- 
-Unit II 
+vision for business processes in PLM, business processes activities in the PLM initiatives, related blogs. 
+  Unit II 
 Chapter 3. Product Data in the PLM Environment: 8 Hrs 
 Product data across the lifecycle, tools to represent product data, vision for product data in PLM, product 
 data related projects, pro duct data improvement, product data migration, top management role with 
@@ -3821,275 +3567,256 @@ product data, related blogs
 Chapter 4. Information System in the PLM Environment: 8 Hrs 
 The importance of PDM system in PLM, application related projects, software development approaches, 
 PDM system selection and implementation, build and plan PDM system, test and validate PDM system, 
-deploy and use PDM system, review PDM system performance, related blogs.  
- 
-Experiments No. of 
+deploy and use PDM system, review PDM system performance, related blogs. 
+  Experiments No. of 
 sessions 
-1. Collaboration and Approvals – 8 Hrs 
+1. Collaboration and Approvals - 8 Hrs 
 Managing the bookmark workspaces, working with routes, managing assigned tasks, 
 working with subscription, managing issues, working with the common document 
-model, case studies.  
+model, case studies. 
 04 
-2. IP Classifications – 8 Hrs 
+2. IP Classifications - 8 Hrs 
 Creating a general library, creating general class, managing attribute groups, assigning 
 attribute groups, exporting and importing attribute groups, classifying library objects, 
-case studies.  
+case studies. 
 04 
-3. Engineering BOM Management Essentials – 8 Hrs 
+3. Engineering BOM Management Essentials - 8 Hrs 
 Working with parts, creating parts, creating part families, collaboratin g with CATIA, 
 creating specifications, viewing EBOM of an assembly, authorizing in EBOM, copying 
 and importing an EBOM, adding and replacing parts in EBOM, creating an EBOM, 
-viewing BOM charts, case studies.  
+viewing BOM charts, case studies. 
 04 
 Reference Books 
 1. Stark John, "Product Lifecy cle Management: 21st Century Paradigm for Product Realization", 
 Springer, Third Edition, 2015 
-2. Antti Saakasvuori, Anselmi Immonen, “Product Lifecycle Management" - Springer, 1st Edition, 
+2. Antti Saakasvuori, Anselmi Immonen, "Product Lifecycle Management" - Springer, 1st Edition, 
 2003. 
- 
-## Page 93
-
-FMCD2009 / 2.0 
+  ## Page 93
+ FMCD2009 / 2.0 
  93 
 ← BACK TO SEMESTER V 
 Program: Bachelor of Engineering Semester: V 
-Course Title: Advanced Statistics and Machine Learning Course Code: 19EMEE302   
+Course Title: Advanced Statistics and Machine Learning Course Code: 19EMEE302 
 L-T-P: 0-0-3 Credits: 3 Contact Hours: 3Hrs/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
-Teaching Hours: 80 Examination Duration: 2 Hrs  
+Teaching Hours: 80 Examination Duration: 2 Hrs 
 Unit I 
-1. Introduction to Machine Learning    25 Hrs 
+1. Introduction to Machine Learning 25 Hrs 
 Introduction to Supervised, Unsupervised, and Reinforcement Learning; Statistics for ML; Exploratory 
 Data Analysis; Use of Python and working with CSV/XLS files. 
 Python hands on: Installation, Introduction to Python libraries (Pandas, Numpy, matplotlib and so forth) 
 Unit II 
-2. Applied Statistics    15 Hrs 
+2. Applied Statistics 15 Hrs 
 Statistics for ML; Data Wrangling; Exploratory Data Analysis; Visualization; Use of Python and working 
 with CSV/DB 
 Hands on: Pre-processing techniques 
-3. Machine Learning Methods    18 Hrs 
-Introduction to ML Life Cycle; Regression – Predictive Modeling; Regularization; Feature Selection; 
+3. Machine Learning Methods 18 Hrs 
+Introduction to ML Life Cycle; Regression - Predictive Modeling; Regularization; Feature Selection; 
 Metrics for Prediction; Visualization; 
 Unit III 
-4. ML – Classification   22 Hrs 
+4. ML - Classification 22 Hrs 
 Introduction to Classification; Logistic Regression; Random Forests; Metrics for Classification; 
 Visualization; Use of Python and DB 
 Text Books 
-1. Trevor Hastie, Robert Tibshirani, and Jerome Friedman, “The Elements of Statistical Learning: 
-Data Mining, Inference, and Prediction”, Springer, 2017. 
-2. Roger D Peng, “R Programming for Data Science”, Learn pub, 2015. 
+1. Trevor Hastie, Robert Tibshirani, and Jerome Friedman, "The Elements of Statistical Learning: 
+Data Mining, Inference, and Prediction", Springer, 2017. 
+2. Roger D Peng, "R Programming for Data Science", Learn pub, 2015. 
 Reference Books 
-1. Geetha James, Trevor Hastie, Daniela Whitten, Robert Tibshirani, “An Introduction to Statistical 
-Learning with Applications in R”, Springer, 2017. 
-2. Andrew Ng, “Machine Learning Yearning”, https://www.mlyearning.org/. 
-3. Michael Nielsen, “Neural Networks and Deep Learning”, 
+1. Geetha James, Trevor Hastie, Daniela Whitten, Robert Tibshirani, "An Introduction to Statistical 
+Learning with Applications in R", Springer, 2017. 
+2. Andrew Ng, "Machine Learning Yearning", https://www.mlyearning.org/. 
+3. Michael Nielsen, "Neural Networks and Deep Learning", 
 http://neuralnetworksanddeeplearning.com/. 
- 
-## Page 94
-
-FMCD2009 / 2.0 
+  ## Page 94
+ FMCD2009 / 2.0 
  94 
 ← BACK TO SEMESTER VI 
 Program: Bachelor of Engineering Semester: VI 
 Course Title: Professional Aptitude & Logical Reasoning Course Code: 16EHSC301 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
-Unit –I - Arithmetical Reasoning and Analytical Thinking 
-Chapter 1. – Arithmetical Reasoning         10 Hrs 
-Chapter 2. – Analytical Thinking                 4 Hrs 
-Chapter 3. – Syllogistic Logic                     3 Hrs 
- 
-Unit – II – Verbal and Non – Verbal Logic 
-Chapter 1. – Verbal Logic                9 Hrs 
-Chapter 2. – Non-Verbal Logic        6 Hrs      
- 
-Unit – III - Lateral Thinking 
-Chapter 1. - Lateral Thinking          8 Hrs      
-Text Book  
-1. A Modern Approach to Verbal and Non – Verbal Reasoning – R. S. Aggarwal, Sultan Chand and     
+Teaching Hours: 40 Examination Duration: 3 Hrs 
+Unit -I - Arithmetical Reasoning and Analytical Thinking 
+Chapter 1. - Arithmetical Reasoning 10 Hrs 
+Chapter 2. - Analytical Thinking 4 Hrs 
+Chapter 3. - Syllogistic Logic 3 Hrs 
+  Unit - II - Verbal and Non - Verbal Logic 
+Chapter 1. - Verbal Logic 9 Hrs 
+Chapter 2. - Non-Verbal Logic 6 Hrs 
+  Unit - III - Lateral Thinking 
+Chapter 1. - Lateral Thinking 8 Hrs 
+Text Book 
+1. A Modern Approach to Verbal and Non - Verbal Reasoning - R. S. Aggarwal, Sultan Chand and 
         Sons, New Delhi 
-2. Quantitative Aptitude – R. S. Aggarwal, Sultan Chand and Sons, New Delhi 
- 
-References 
-1. Verbal and Non – Verbal Reasoning – Dr. Ravi Chopra, MacMillan India 
-2. Lateral Thinking – Dr. Edward De Bono, Penguin Books, New Delhi 
- 
-## Page 95
-
-FMCD2009 / 2.0 
+2. Quantitative Aptitude - R. S. Aggarwal, Sultan Chand and Sons, New Delhi 
+  References 
+1. Verbal and Non - Verbal Reasoning - Dr. Ravi Chopra, MacMillan India 
+2. Lateral Thinking - Dr. Edward De Bono, Penguin Books, New Delhi 
+  ## Page 95
+ FMCD2009 / 2.0 
  95 
 ← BACK TO SEMESTER VI 
 Program: Bachelor of Engineering Semester: VI 
 Course Title: Fluid Mechanics and Hydraulic Machines Course Code: 24EMEC301 
 L-T-P: 4-0-0 Credits: 4 Contact Hours: 4 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 50 Examination Duration: 3 Hrs  
+Teaching Hours: 50 Examination Duration: 3 Hrs 
 Unit I 
 Chapter 1. Basic Concepts and Fluid properties: 8 Hrs 
 Introduction, Application Areas of Fluid Mechanics, The No-Slip Condition, Classification of Fluid Flows, 
-Properties of fluids, Viscosity, Surface Tension and Capillary Effect.  
+Properties of fluids, Viscosity, Surface Tension and Capillary Effect. 
 Fluid statics: Pressure and its measurements, Hydrostatic forces on surfaces. Nano and Ultrafiltration 
 techniques-Clean water and its importance. 
 Chapter 2. Fluid Kinematics: 6 Hrs 
 Lagrangian and Eulerian Descriptions, Fundamentals of Flow Visualization, Streamlines and Stream 
 tubes, Path lines, Streak lines, Timelines, Continuity equation, Velocity and acceleration of fluid flow, 
 Velocity potential function and stream function 
-Chapter 3.  Mass, Bernoulli and Energy Equations: 6 Hrs 
-Conservation of Mass Principle, Moving or Deforming Control Volumes, Euler’s equation of motion 
-along a streamline, Bernoulli’s equation, Navier-Stokes equation of motion, The momentum equation,  
+Chapter 3. Mass, Bernoulli and Energy Equations: 6 Hrs 
+Conservation of Mass Principle, Moving or Deforming Control Volumes, Euler's equation of motion 
+along a streamline, Bernoulli's equation, Navier-Stokes equation of motion, The momentum equation, 
 Unit II 
-Chapter 4.  Flow in Pipes: 8 Hrs 
+Chapter 4. Flow in Pipes: 8 Hrs 
 Laminar and Turbulent Flows, Reynolds Number, Boundary Layer, Laminar Flow in Pipes, Pressure Drop 
 and Head Loss, Inclined Pipes, Turbulent Flow in Pipes, Major and Minor Losses, Flow Rate and Velocity 
 Measurement. Sustainable Industrial and domestic fluid system and Environmental Impact Analysis. 
 Chapter 5. Dimensional analysis: 6 Hrs 
 Dimensions and Units, Dimensional Homogeneity, Non-dimensionalization of Equations, Dimensional 
-Analysis and Similarity, Rayleigh’s method and the Buckingham Pi Theorem, Dimensionless numbers. 
-Chapter 6.  Flow over Bodies: 6 Hrs 
+Analysis and Similarity, Rayleigh's method and the Buckingham Pi Theorem, Dimensionless numbers. 
+Chapter 6. Flow over Bodies: 6 Hrs 
 Drag and Lift, Friction and Pressure Drag, Reducing Drag by Streamlining, Flow Separation, Drag 
 Coefficients of Common Geometries, Drag Coefficients of Vehicles, Parallel Flow over Flat Plates, 
 Friction Coefficient, Flow over Cylinders and Spheres, 
 Unit III 
 Chapter 7. Hydraulic Pumps: 5 Hrs 
-Centrifugal pumps – Work done, Heads and efficiencies, Priming, specific speed, NPSH, Cavitation, 
+Centrifugal pumps - Work done, Heads and efficiencies, Priming, specific speed, NPSH, Cavitation, 
 Multistage centrifugal pumps. 
 Chapter 8. Hydraulic Turbines: 5 Hrs 
 Classification, Heads and efficiencies of turbines, Pelton, Francis and Kaplan turbines, Velocity triangles 
 and work done, specific speed, Life Cycle Cost Analysis of small, mini and micro hydro turbines 
 Text Books: 
-1. Yunus A Cengel, John. M Cimbala: Fluid Mechanics – Fundamentals and Applications 2nd Edition, 
+1. Yunus A Cengel, John. M Cimbala: Fluid Mechanics - Fundamentals and Applications 2nd Edition, 
 Mac Graw Hill Publications, 2017 
 Reference Books 
 1. White F M: Fluid Mechanics, 8th Edn, McGraw Hill International Publication, 2015. 
-2. R.K. Bansal: Fluid Mechanics and Hydraulic Machines, 10th  Edn, Laxmi Publications, 2018 
+2. R.K. Bansal: Fluid Mechanics and Hydraulic Machines, 10th Edn, Laxmi Publications, 2018 
 3. Khandpal T.C.,Garg H.P ., Financial Evaluation of Renewable Energy Technologies, Mc-Millan India, 
 1stEdn, 2013 
- 
-## Page 96
-
-FMCD2009 / 2.0 
+  ## Page 96
+ FMCD2009 / 2.0 
  96 
- 
-← BACK TO SEMESTER VI 
+  ← BACK TO SEMESTER VI 
 Program: Bachelor of Engineering Semester: VI 
 Course Title: Metrology and Quality Engineering Course Code: 23EMEC304 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
-1.  Fundamentals of Metrology   6 Hrs 
+1. Fundamentals of Metrology 6 Hrs 
 Objectives of Metrology, Standards o f physical quantities (mass, length, time, temperature, force, 
 Velocity, density) types of standards, line and end standard, Slip gauges, Angle Gauges, Linear and 
 Angular Measurements, Performance characteristics of measuring instruments, Calibration of 
 instruments, The Process of Measurement, Significance of Measurement process , Methods of 
 measurement, generalized measurement system, errors in measurement, gauges, comparators 
 (mechanical and optical), Numericals. 
-2.  Limits, Fits and Gauges   7 Hrs 
+2. Limits, Fits and Gauges 7 Hrs 
 Introduction, limits, tolerance, and fits, types of fits, allowance. Hole basis and shaft basis systems, Indian 
-standard system for limits and fits (IS 919 -2709), types of gauges, Taylor’s principle and gauge design. 
-Numericals.         
+standard system for limits and fits (IS 919 -2709), types of gauges, Taylor's principle and gauge design. 
+Numericals. 
 Introduction to GD&T Terminology, Maximum Material control (MMC) & Least Material Control (LMC), 
 Form and orientation tolerances in detail with application examples, Interpretation of drawings with GD 
 & T and Exercises. 
 Unit II 
-3. Advanced Metrology   7 Hrs 
+3. Advanced Metrology 7 Hrs 
 CMM(Coordinate Measuri ng Machine) : Co -ordinate Metrology, CMM configurations, hardware 
 components, Software, Probe sensors, Displacement devices, applications 
-Laser Metrology: Free electron laser – optical alignment, measurement of distance – interferometry, 
+Laser Metrology: Free electron laser - optical alignment, measurement of distance - interferometry, 
 reversible counting, refractive index correction, reversible counting, refractive index correction, surface 
 topography and optical component testing. Machine Vision System. 
-4. Quality Engineering    7 Hrs 
+4. Quality Engineering 7 Hrs 
 Quality concepts, Dimensions of quality, Inspection, Objectives of In spection Difference between 
 Inspection & Quality Control, 7 QC tools, Statistical methods for quality control and improvement Basic 
 Principles of Control charts, Control charts for variables, process capability and six sigma. 
 Unit III 
-5. Control charts for Attributes and Acceptance sampling   5Hrs 
+5. Control charts for Attributes and Acceptance sampling 5Hrs 
 Control chart for fraction non-conforming, variable sample size, Number of defective chart, Control chart 
 for Non conformities (defects) and Control chart for defects Average number of nonconformities. Types 
 of sampling plans, operating characteristic (OC) curves. 
-6. Introduction to TQM   5 Hrs 
+6. Introduction to TQM 5 Hrs 
 Basic approach, TQM framework, TQM principles -Leadership, Employee involvement, Empowerment, 
-Team and Teamwork, Quality circles ,Continuous process improvement – PDCA cycle, 5S, Kaizen – Supplier 
-partnership – Partnering, TQM techniques- Bench marking, FMEA, QFD, TPM. 
+Team and Teamwork, Quality circles ,Continuous process improvement - PDCA cycle, 5S, Kaizen - Supplier 
+partnership - Partnering, TQM techniques- Bench marking, FMEA, QFD, TPM. 
 Text Books 
 1. Beckwith Marangoni and Lienhard, Mechanical Measurements, 6th Edn., Pearson Education 2007 
-2. Doeblin E.O., Measurements Systems, Applications and Design, 5th Edition McGraw –Hill,2003 
+2. Doeblin E.O., Measurements Systems, Applications and Design, 5th Edition McGraw -Hill, 2003 
 3. Montgomery D. C., Introduction to Statistical Quality Control, 8th Edn. John Wiley & Sons, Inc2019 
 Reference Books 
 1. Holman J P , Experimental Methods for Engineers, 8th Edition McGraw-Hill Publications 2011 
-2. Connie. L. Dotson, Fundamentals of Dimensional Metrology,  6th Edn. Cengage Publications 2015   
-
-## Page 97
-
-FMCD2009 / 2.0 
+2. Connie. L. Dotson, Fundamentals of Dimensional Metrology, 6th Edn. Cengage Publications 2015 
+ ## Page 97
+ FMCD2009 / 2.0 
  97 
 3. Bosch J A, Giddings and Lewis Dayton, Marcel Dekker, Co -Ordinate Measuring Machines and 
 Systems 2nd Edition CRC press 2015 
 4. Grant and Leavenworth, Statistical Quality Control, 7th Edition, McGraw-Hill Publications 1996 
-  
-## Page 98
-
-FMCD2009 / 2.0 
+   ## Page 98
+ FMCD2009 / 2.0 
  98 
 ← BACK TO SEMESTER VI 
 Program: Bachelor of Engineering Semester: VI 
 Course Title: Mechatronic Systems Design Course Code: 24EMEP302 
 L-T-P: 2-0-2 Credits: 4 Contact Hours: 6 Hrs/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
-Chapter No. 1. Mechatronic Systems Design, Engineering & Modeling    10 Hrs 
+Chapter No. 1. Mechatronic Systems Design, Engineering & Modeling 10 Hrs 
 Introduction to mechatronics system design, a) structure of mechatronic systems (b) Traditional approach 
 to mechatronic systems design (c) Systems e ngineering approach to mechatronic systems design (d) A 
 systematic methodology to engineering design -- VDI2221 (e) Mechatronics design methodology (V -
-model)– VDI 2206 (f) Combination of V -model and systematic design methodology, Domain specific 
+model)- VDI 2206 (f) Combination of V -model and systematic design methodology, Domain specific 
 design, Ve rification, Validation & Testing , Mathematical modeling of dynamic systems, Bond graph 
-approach to modeling  State charts, UML & Sys ML , Case studies. 
-Chapter No. 2. Design of Mechatronic control systems in State space     10 Hrs 
+approach to modeling State charts, UML & Sys ML , Case studies. 
+Chapter No. 2. Design of Mechatronic control systems in State space 10 Hrs 
 Controller Design, Alternative Approaches to Controller Design, Observer Design, Alternative Approaches 
 to Observer Design, Steady-State Error Design Via Integral Control, Robust Control System Design, The z-
-Transform:  Transfer Functions, Block Diagram Reduction, Stability, Stea dy-State Errors, Transient 
+Transform: Transfer Functions, Block Diagram Reduction, Stability, Stea dy-State Errors, Transient 
 Response on the z -Plane, Gain Design on the z -Plane, Cascade Compensation via the s -Plane, 
 Implementing the Digital Compensator. 
 Unit II 
-Chapter No.3. Mechanisms for motion transmission     6 Hrs 
+Chapter No.3. Mechanisms for motion transmission 6 Hrs 
 Characteristics of motion transm ission mechanism, rotary to rotary motion transmission mechanisms, 
 rotary to translational motion mechanisms, cyclic motion transmission mechanisms, shaft misalignments 
 and flexible couplings, actuator sizing. 
-Chapter No. 4: Motion control systems     6 Hrs 
+Chapter No. 4: Motion control systems 6 Hrs 
 Design Methodology for Programmable motion control Systems, Motion Controller Hardware and 
 Software, Basic Single-Axis Motions, Coordinated Motion Control Methods, Point-to-point Synchronized 
-Motion, Electronic Gearing Coordinated Motion, CAM Profile and  Contouring Coordinated Motion, 
+Motion, Electronic Gearing Coordinated Motion, CAM Profile and Contouring Coordinated Motion, 
 Sensor Based Real-time Coordinated Motion, Coordinated Motion Applications. 
-Chapter No. 5 : Sensors    6 Hrs 
+Chapter No. 5 : Sensors 6 Hrs 
 Principles & characteristics of measurement devices, signal conditioning, sensor characterization, , 
 relations between physical quantities, sensor classification, specifications, error reduction techniques, 
 loading errors, Wheatstone bridge circuit, Sensors for position, velocity , acceleration , strain, force, 
 torque, pressure , temperature, flow rate, humidity , vision systems, Sensor fusion. 
 Unit III 
-Chapter No.6. Actuators   6 Hrs 
+Chapter No.6. Actuators 6 Hrs 
 Principle and characteristics of electric motors, Solenoids, DC motors & drives, AC induction motors & 
 drives, Step motors, Linear motors. 
-Chapter No.7. Real Time Interfacing    6 Hrs 
+Chapter No.7. Real Time Interfacing 6 Hrs 
 Data conversion devices, Filters, Signal sampling and aliasing, Sampling theorem, Quantization, Encoding, 
 Digital to analog conversion methods, Analog to digital conversion methods, Sample & Hold circuit, Flash 
 ADC, Successive approximation ADC, Dual slope ADC, Sigma Delta ADC, Multiplexers. 
 Text Books 
 1. Devdas Shetty, Richard A. Kolk, Mechatronics System Design, Second, 2010 
 2. Sabri Centikunt, Mechatronics with experiments, Second, Wiley, 2015 
-3. Norman S. Nise, “Control Systems Engineering”, John Wiley & Sons, Inc, Sixth edition – 2011. 
- 
-## Page 99
-
-FMCD2009 / 2.0 
+3. Norman S. Nise, "Control Systems Engineering", John Wiley & Sons, Inc, Sixth edition - 2011. 
+  ## Page 99
+ FMCD2009 / 2.0 
  99 
 ← BACK TO SEMESTER VI 
 Program: Bachelor of Engineering Semester: VI 
 Course Title: Metrology and Quality Engineering Lab Course Code: 25EMEP301 
 L-T-P: 0-0-1 Credits: 1 Contact Hours: 2 Hrs/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
-Teaching Hours: 24 Examination Duration: 2 Hrs  
+Teaching Hours: 24 Examination Duration: 2 Hrs 
 Expt. 
 No 
 Brief description about the Experiments No. of 
@@ -4100,15 +3827,15 @@ dimensions.
 2 Analysis of performance characteristics of measuring instruments using Hypothesis 
 testing. 
 1 
-3 Analysis of Repeatability and Reproducibility using gauge R& R test.  1 
+3 Analysis of Repeatability and Reproducibility using gauge R& R test. 1 
 4 Measurement of Screw thread and Gear parameters, surface roughness 1 
 5 Measurement of Dimensions and GD&T parameters of given components using 
 CMM (Coordinate Measuring Machine). 
 2 
-6 Reverse engineering of the given component by extraction of                                      
+6 Reverse engineering of the given component by extraction of 
 2-Dimensions of the given part using 3D scanner. 
 1 
-7 Testing the goodness of fit for the given quality characteristics by                              
+7 Testing the goodness of fit for the given quality characteristics by 
 Chi- Square test. 
 1 
 8 Construction of control chart for variables and Analysis of process capability for the 
@@ -4118,21 +3845,19 @@ different components manufacturing.
 10 Acceptance Sampling Testing Using Go and No Go Gauges 1 
 11 Open Ended experiment- Error analysis, Gauge Design 1 
 Reference Books: 
-1. Montgomery D. C., Introduction to Statistical Quality Control, 8 th  Edn. John Wiley & Sons, Inc  
+1. Montgomery D. C., Introduction to Statistical Quality Control, 8 th Edn. John Wiley & Sons, Inc 
 2019 
-2. Hume K.J. & Sharp G.H,  Practical  metrology ,  1st  Edition ELBS &Macdonald 1970 
-3. Juran J.M. & F.M. Gryna, Quality Planning & Analysis,  3rd Re edition TMH Publications 1993 
- 
-## Page 100
-
-FMCD2009 / 2.0 
+2. Hume K.J. & Sharp G.H, Practical metrology , 1st Edition ELBS &Macdonald 1970 
+3. Juran J.M. & F.M. Gryna, Quality Planning & Analysis, 3rd Re edition TMH Publications 1993 
+  ## Page 100
+ FMCD2009 / 2.0 
  100 
 ← BACK TO SEMESTER VI 
 Program: Bachelor of Engineering Semester: VI 
-Course Title: Minor  Project Course Code: 24EMEW301 
+Course Title: Minor Project Course Code: 24EMEW301 
 L-T-P: 0-0-6 Credits: 6 Contact Hours: 6Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 36 Examination Duration: 3 Hrs  
+Teaching Hours: 36 Examination Duration: 3 Hrs 
 The minor project is offered as a 6 credit course to sixth semester students as studio mode project course. 
 Course is conducted in studio mode where students work in team of 6 each. The course highlights the 
 significance of Engineering Design a nd Product Design is Engineering. Also, students develop the 
@@ -4156,20 +3881,18 @@ Phases of mini Project Work:
  Render the product and show it in an actual environment. 
  Convert it into 2d assembly with ballooning and BOM. 
  Part drawings to be converted into 2D manufacturing parts as per industry standards, with GD&T 
-symbols wherever necessary.  
+symbols wherever necessary. 
  Students have to include an Innovative idea and incorporate the same in their project. 
  Prepare a final detailed report explaining the various stages and give a presentation as a team. 
- 
-## Page 101
-
-FMCD2009 / 2.0 
+  ## Page 101
+ FMCD2009 / 2.0 
  101 
 ← BACK TO SEMESTER VI 
 Program: Bachelor of Engineering Semester: VI 
-Course Title: Industry Readiness & Leadership Skills   Course Code: 22EHSH302   
+Course Title: Industry Readiness & Leadership Skills Course Code: 22EHSH302 
 L-T-P: 0.5-0-0 Credits: 0.5 Contact Hours: 1Hr/week 
 ISA Marks: 100 ESA Marks: Nil Total Marks: 100 
-Teaching Hours: 16 Examination Duration: NA  
+Teaching Hours: 16 Examination Duration: NA 
 Chapter No. 1. Written Communication 
 Successful Job Applications, Résumé Writing, Emails, Letters, Business Communication, Essay, and 
 Paragraph Writing for Recruitment Tests 
@@ -4180,65 +3903,61 @@ Chapter No. 3. Lateral & Creative Thinking
 Lateral Thinking by Edward de Bono, Fractionation and Brain Storming, Mind Maps, Creativity 
 Enhancement through Activities 
 Chapter No. 4. Team Building & Leadership Skills 
-Communication in a Team, Leadership Styles, Playing a Team member, Belbin ’s team roles, Ethics, 
+Communication in a Team, Leadership Styles, Playing a Team member, Belbin 's team roles, Ethics, 
 Effective Leadership Strategies 
 References 
-1. Diana Booher – E Writing, Laxmi Publications 
-2. Edward de Bono – Lateral Thinking – A Textbook of Creativity, Penguin UK 
-3. William Strunk, E B White – The Elements of Style, Pearson 
-4. John Maxwell – The 17 Essential Qualities of a Team Player, HarperCollins Leadership 
-5. Robin Ryan – 60 Seconds and You’re Hired! – Penguin Books 
- 
-## Page 102
-
-FMCD2009 / 2.0 
+1. Diana Booher - E Writing, Laxmi Publications 
+2. Edward de Bono - Lateral Thinking - A Textbook of Creativity, Penguin UK 
+3. William Strunk, E B White - The Elements of Style, Pearson 
+4. John Maxwell - The 17 Essential Qualities of a Team Player, HarperCollins Leadership 
+5. Robin Ryan - 60 Seconds and You're Hired! - Penguin Books 
+  ## Page 102
+ FMCD2009 / 2.0 
  102 
 ← BACK TO SEMESTER VI 
 Program: Bachelor of Engineering Semester: VI 
 Course Title: Failure Analysis in Design Course Code: 15EMEE302 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
-1. Introduction  8 Hrs 
+1. Introduction 8 Hrs 
 Study of Failure criteria and its importance, Role of failure prevention analysis in mechanical design, 
-Modes of mechanical failure, Review of failure theories for ductile and brittle materials including Mohr’s 
-theory and modified Mohr’s theory, Numerical examples. 
-2. Surface Failure   7 Hrs 
+Modes of mechanical failure, Review of failure theories for ductile and brittle materials including Mohr's 
+theory and modified Mohr's theory, Numerical examples. 
+2. Surface Failure 7 Hrs 
 Introduction, Surface geometry, Mating surface, Friction, Adhesive wear, Abrasive wear, Corrosion wear, 
 Surface fatigue spherical contact, Cylindrical contact, General contact, Numerical examples. 
 Unit II 
-3. Fatigue of Materials   5 Hrs 
+3. Fatigue of Materials 5 Hrs 
 History of failure due to fatigue loads and development of fatigue failure, Concepts and terminology, High 
-cycle and low cycle fatigue, Fatigue design models, Fatigue design methods,  Fatigue design criteria, 
+cycle and low cycle fatigue, Fatigue design models, Fatigue design methods, Fatigue design criteria, 
 Fatigue testing, Fatigue fracture surfaces and macroscopic features, Fatigue mechanisms and microscopic 
 features. 
-4. Stress-Life (S-N) Approach   6 Hrs 
+4. Stress-Life (S-N) Approach 6 Hrs 
 S-N curves, Statistical nature of fatigue test data, General S-N behavior, Different factors influencing S-N 
 behavior, S-N curve representation and approximations, Constant life diagrams, Fatigue life estimation 
 using S-N approach, Case study. 
-5. Strain-Life (ε-N) approach   5 Hrs 
+5. Strain-Life (ε-N) approach 5 Hrs 
 Monotonic stress -strain behavior, Strain controlled test methods, Cyclic stress -strain behavior, Strain 
 based approach to life estimation, Determination of strain life fatigue properties, Mean stress effects, 
 Effect of surface finish, Life estimation by ε-N approach. 
 Unit III 
-6. Creep deformation   5 Hrs 
-The evolution of creep damage, primary, secondary and tertiary creep. Stress dependence of creep – 
-power law dependence. Comparison of creep performance under different conditions – extrapolation 
+6. Creep deformation 5 Hrs 
+The evolution of creep damage, primary, secondary and tertiary creep. Stress dependence of creep - 
+power law dependence. Comparison of creep performance under different conditions - extrapolation 
 and the use of Larson-Miller parameters. Creep-fatigue interactions. Numerical examples. 
-7. Buckling Analysis of rectangular plates    4 Hrs 
+7. Buckling Analysis of rectangular plates 4 Hrs 
 Governing differential equation and boundary conditions, plate with all edges simply supported, plates 
 with other boundary conditions, buckling under in-plane shear, post buckling analysis. 
 Text Books 
-1. Ralph I. Stephens, Ali Fatemi, “Metal Fatigue in Engineering”, John Wiley New York, 2nd edition, 2001. 
+1. Ralph I. Stephens, Ali Fatemi, "Metal Fatigue in Engineering", John Wiley New York, 2nd edition, 2001. 
 2. Jack A Collins, Failure of Materials in Mechanical Design John Wiley & Sons, 1993. 
 3. Gambhir, M.L, Stability Analysis and Design of Structures, Springer-Verlag, 2004. 
 Reference Books 
-1. Robert L. Norton, Pearson, “Machine Design- An Integrated Approach”, 2nd edition, 2000. 
- 
-## Page 103
-
-FMCD2009 / 2.0 
+1. Robert L. Norton, Pearson, "Machine Design- An Integrated Approach", 2nd edition, 2000. 
+  ## Page 103
+ FMCD2009 / 2.0 
  103 
 ← BACK TO SEMESTER VI 
 Program: Bachelor of Engineering Semester: VI 
@@ -4247,185 +3966,176 @@ L-T-P: 2-1-0 Credits: 3 Contact Hours: 5Hrs/week
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
 Teaching Hours: 28, Tutorial Hrs: 
 12 
-Examination Duration: 3 Hrs  
+Examination Duration: 3 Hrs 
 Unit I 
-1. VoC to Product Specifications    6 Hrs 
+1. VoC to Product Specifications 6 Hrs 
 QFD methods to develop product specification from VoC 
-Concept development methods – Functional Analysis, Mock -ups, Concept selection methods (Pugh 
+Concept development methods - Functional Analysis, Mock -ups, Concept selection methods (Pugh 
 Matrix, Customer Focus Groups, Delphi method), Gap analysis, Rapid prototyping techniques, First Order 
 analysis of concepts. 
-2. Design Methods   10 Hrs 
-1. Knowledge based engineering design techniques  
+2. Design Methods 10 Hrs 
+1. Knowledge based engineering design techniques 
 2. Design Optimization techniques, Robust design methods overview, 
 3. Design for Six Sigma (Quality) methodology 
-4. Design for “X” – (X = Cost, Manufacturability, Assembly, Sustainability) 
+4. Design for "X" - (X = Cost, Manufacturability, Assembly, Sustainability) 
 5. CAE led design techniques 
 6. Bio-inspired design 
-7. Value engineering – Function Cost relationship, Value Engineering tools and techniques, VE 
+7. Value engineering - Function Cost relationship, Value Engineering tools and techniques, VE 
 application in product design 
 Unit II 
-3. Product Development Process    3 Hrs 
+3. Product Development Process 3 Hrs 
 Program Management, Design and functional review methods (DFMEA), Assembly process and virtual 
-builds, Quality goals and control plans   
-4. Product Verification and Validation   3 Hrs 
+builds, Quality goals and control plans 
+4. Product Verification and Validation 3 Hrs 
 Load goals and duty cycle definition, Reliability and durability goals, Virtual prototyping techniques, 
 Accelerated product verification methods 
 Unit III 
-5. Product family management   3 Hrs 
+5. Product family management 3 Hrs 
 Product lifecycle management; Evolution of product models and familie s, Modeling of product family 
-lifecycle, Product Strategy, Product market positioning, Product positioning – psychological, Brand, 
-customer segment.  
-6. Technology management    3 Hrs 
+lifecycle, Product Strategy, Product market positioning, Product positioning - psychological, Brand, 
+customer segment. 
+6. Technology management 3 Hrs 
 Technology management methods, Technology as a competitive tool, Critical Component Development 
 Process, Technology Development Process 
 Reference Books 
-1. Karl Ulrich and Steven Eppinge, Product Design and Development    
-2. Kenneth B. Kahn, The PDMA Handbook of New Product Development, Second Edition   
+1. Karl Ulrich and Steven Eppinge, Product Design and Development 
+2. Kenneth B. Kahn, The PDMA Handbook of New Product Development, Second Edition 
 3. Six Sigma Guide 
- 
-## Page 104
-
-FMCD2009 / 2.0 
+  ## Page 104
+ FMCD2009 / 2.0 
  104 
 ← BACK TO SEMESTER VI 
 Program: Bachelor of Engineering Semester: VI 
 Course Title: Computer Integrated Manufacturing Course Code: 15EMEE306 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
-1:   Manufacturing operations:   8 Hrs 
+1: Manufacturing operations: 8 Hrs 
 Production system facilities, manufacturing support systems, automation in production systems, manual 
 labor in production systems. Automation principles and strategies, manufactu ring industries and 
 products, product/production relationships, production concepts and mathematical models, costs of 
 manufacturing operations 
-2:  Manufacturing systems:    7Hrs 
+2: Manufacturing systems: 7Hrs 
 Components, classification, manufacturing process functions, single station ma nufacturing cells, 
 applications. Group Technology Part families, classification and coding, production flow analysis 
 Unit II 
-3: Cellular Manufacturing, Flexible Manufacturing Systems:    5Hrs 
+3: Cellular Manufacturing, Flexible Manufacturing Systems: 5Hrs 
 Cellular manufacturing quantitative analysis in cellular manufa cturing, FMS components, planning and 
 implementation, quantitative analysis of FMS 
-4:  Material handling and storage:     5 Hrs 
+4: Material handling and storage: 5 Hrs 
 Material handling equipment, considerations in material handling system design, principles of material 
 handling, material transp ort systems: storage systems: automated storage systems, automatic data 
 capture, automatic identification methods 
-5:  PLM and IIoT:    5Hrs 
+5: PLM and IIoT: 5Hrs 
 Areas of Product Life cycle Management (PLM), phases of product life cycle and technologies, benefits of 
 PLM. 
 Definition of Industrial Internet of Things (IIoT), Evolution, Enablers for IIoT platform, drivers, Benefits, 
 protocols, challenges, future 
 Unit III 
-6:  Robot fundamentals:  5 Hrs 
+6: Robot fundamentals: 5 Hrs 
 Robot anatomy and related attributes, classification, robot control systems, end effectors, sensors in 
 robotics, robot programming 
-7: Robot kinematics:   5 Hrs 
+7: Robot kinematics: 5 Hrs 
 Matrix representation, Homogeneous transformation matrices, Representation of transformations, 
 Inverse transformation matrices, forward and inverse kinematics of robots, D-H representation of forward 
 kinematic equations, degeneracy and dexterity 
 Text Books 
-1. Grover M.P., “Automation, Production Systems and Computer Integrated    Manufacturing”, PHI,. 
-2. Chris McMahon & Jimmie Browne, “CAD & CAM Principles”, Practice & Mfg. Mngt.’, Pe arson 
+1. Grover M.P., "Automation, Production Systems and Computer Integrated Manufacturing", PHI,. 
+2. Chris McMahon & Jimmie Browne, "CAD & CAM Principles", Practice & Mfg. Mngt.', Pe arson 
 Education. 
 Reference Books: 
-1. Radhakrishnan P., “CAD/CAM/CIM”, New Age International Private Limited. 
-2. Zeid Ibrahim, “CAD/CAM”, McGraw Hill International. 
-3. Rao P.N., ‘CAD/CAM Principles and Applications’, Tata McGraw-Hill. 
-4. Vajpayee S. K., “Principles of CIM”, Prentice Hall of India. 
-5. Saeed B. Niku, “Introduction to Robotics”, Prentice Hall of India. 
- 
-## Page 105
-
-FMCD2009 / 2.0 
+1. Radhakrishnan P., "CAD/CAM/CIM", New Age International Private Limited. 
+2. Zeid Ibrahim, "CAD/CAM", McGraw Hill International. 
+3. Rao P.N., 'CAD/CAM Principles and Applications', Tata McGraw-Hill. 
+4. Vajpayee S. K., "Principles of CIM", Prentice Hall of India. 
+5. Saeed B. Niku, "Introduction to Robotics", Prentice Hall of India. 
+  ## Page 105
+ FMCD2009 / 2.0 
  105 
 ← BACK TO SEMESTER VI 
 Program: Bachelor of Engineering Semester: VI 
 Course Title: Noise, Vibration and Harshness (NVH) Course Code: 23EMEE301 
 L-T-P: 2-1-0 Credits: 3 Contact Hours: 4Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 30 Examination Duration: 3 Hrs  
+Teaching Hours: 30 Examination Duration: 3 Hrs 
 Unit I 
-1. NVH Fundamentals and Standards   06Hrs 
+1. NVH Fundamentals and Standards 06Hrs 
 Review of fundamentals of vibrations, Significance of NVH study, Advantages, Application areas of NVH, 
 Severity of machine and human beings to vibrations, Common machinery f aults requiring diagnosis, 
 Ride comfort analysis of railroad vehicles, Standards for vibrations of buildings and machinery, Vibration 
 transducers and considerations, Data acquisition and processing, Vibration data collection errors, 
-Experimental modal testing and important aspects, Modal parameters from Bode and Nyquist plots,  
+Experimental modal testing and important aspects, Modal parameters from Bode and Nyquist plots, 
 2. Transient Vibrations 06Hrs 
 Introduction, Response of linear mechanical systems to vibrations, Response under a nonperiodic force, 
 Convolution integral, Response of mechanical systems to an impulse, general forcing condition and base 
-excitation, Response spectrum, Design under a shock environment, Numericals.  
- 
-Unit II 
-3. Vibration Control   06Hrs 
+excitation, Response spectrum, Design under a shock environment, Numericals. 
+  Unit II 
+3. Vibration Control 06Hrs 
 Introduction, Vibration Nomo graph and vibration criteria; Reduction of vibration at the source, Control 
 of vibration; Control of natural frequencies, Introduction of damping, Vibration isolation for different 
 types of foundation, Shock isolation, Active vibration control, Numericals. 
-4. Finite Element Method for Vibration Problems    06Hrs 
+4. Finite Element Method for Vibration Problems 06Hrs 
 Introduction, Equations of motion of an element, Mass matrix, stiffness matrix, and force vector, 
 Transformation of element matrices and vectors, Equations of motion of the complete system of finite 
 elements, Incorporation of boundary conditions, Consistent and lumped mass matrices, Numericals. 
 Unit III 
-7. Fundamentals of Acoustics    03Hrs 
+7. Fundamentals of Acoustics 03Hrs 
 Introduction, Human perception of sound, Noise limits in India, Permissible noise exposure for 
-industrial workers, Sound wave propagation in 1 -D, Acoustic quantities,  Acoustic transducers, 
-Parameters for  choice of microphones, Types of microphones: Electro -dynamic and Piezoelectric 
+industrial workers, Sound wave propagation in 1 -D, Acoustic quantities, Acoustic transducers, 
+Parameters for choice of microphones, Types of microphones: Electro -dynamic and Piezoelectric 
 microphone. 
-8. Measurements in Acoustics   03Hrs 
+8. Measurements in Acoustics 03Hrs 
 Introduction, Sound level measurement, Sound power measurement, Sound pressure level 
 measurement, Sound intensity measurement, Radiation fields of a sound source, Standards for sound 
 measurement, Noise measurement case studies. 
 Text Books 
 1. C. Sujatha, Vibration and Acoustics, Tata McGraw-Hill Education, 2010 
 2. Singiresu S. Rao, Mechanical Vibrations, Pearson Education Ltd., 6th Edition, 2018. 
-3. M. L. Munjal, Noise and Vibration Control, World Scientific Publishing Co, Pvt. 2013  
+3. M. L. Munjal, Noise and Vibration Control, World Scientific Publishing Co, Pvt. 2013 
 Hands-on Sessions Using Simulation Software 
 Sl. 
 No. 
-NVH Analysis  No of 
+NVH Analysis No of 
 Sessions 
-01 Analysis of cantilevered thin and thick square plate (Free -Free and   Forced -Fixed 
+01 Analysis of cantilevered thin and thick square plate (Free -Free and Forced -Fixed 
 condition). 
 01 
 02 Analysis cantilevered thin and thick square plate with changes in design to increase 
-the natural frequency.   
+the natural frequency. 
 01 
 03 Normal mode analysis of cylinder: Axi-Symmetric case 01 
-
-## Page 106
-
-FMCD2009 / 2.0 
+ ## Page 106
+ FMCD2009 / 2.0 
  106 
-04 Normal mode  analysis of a Bracket with design changes (Free - Free and Forced -
+04 Normal mode analysis of a Bracket with design changes (Free - Free and Forced -
 Fixed). 
 01 
-05 Modal frequency response analysis of  
+05 Modal frequency response analysis of 
 i) Thick square plate. 
 ii) Frame assembly 
 01 
 06 Modal frequency response analysis of an automotive chassis. 01 
 07 Harmonic forced vibration response analysis of simply-supported thick square plate 01 
-08 Transient forced vibration response of  
-i) Simply-supported thick square plate  
+08 Transient forced vibration response of 
+i) Simply-supported thick square plate 
 ii) Monocoque chassis. 
 01 
 09 Acoustic analysis of brake squeal and half car model 01 
 10 Optimize the rectangular box model for panel thicknesses to reduce the vibration 
 level using what-if studies and optimization process 
 01 
- 
-## Page 107
-
-FMCD2009 / 2.0 
+  ## Page 107
+ FMCD2009 / 2.0 
  107 
 ← BACK TO SEMESTER VI 
 Program: Bachelor of Engineering Semester: VI 
 Course Title: Smart Manufacturing Technologies Course Code: 25EMEE306 
 L-T-P: 2-1-0 Credits: 3 Contact Hours: 4 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 28 + 24 Examination Duration: 2 Hrs  
+Teaching Hours: 28 + 24 Examination Duration: 2 Hrs 
 Unit I 
-Chapter 1. Data-Driven Manufacturing : 07 Hrs  
+Chapter 1. Data-Driven Manufacturing : 07 Hrs 
 Basics of Data Collection & Processing in Manufacturing, Introduction to Data Warehousing, Architecture 
 of a Smart Manufacturing Data Warehouse, Applications of Data Warehousing in Manufacturing; 
 Industrial Cybersecurity Challenges, Securing IoT Devices & Data Privacy 
@@ -4437,7 +4147,7 @@ Unsupervised, Reinforcement Learning, AI in Quality Control and Defect Detection
 Manufacturing Simulations 
 Unit II 
 Chapter 3. Automation and Robotics in Smart Manufacturing : 07 Hrs 
-Industrial Robots & Collaborative Robots, AMRs vs. AGVs: Differences and Applications,Automated 
+Industrial Robots & Collaborative Robots, AMRs vs. AGVs: Differences and Applications, Automated 
 Material Handling Systems, Automated Guided Vehicles (AGVs): Design & Control, Automated Storage & 
 Retrieval Systems (AS/RS), AI-driven Supply Chain & Smart Warehousing, Role of Reinforcement Learning 
 in AMR Navigation 
@@ -4453,7 +4163,7 @@ Hands-on activities: 24 Hrs
  Use evolutionary optimization techniques for a real-world manufacturing problem. (MATLAB) 
 Text Books: 
 1. Kandasamy, Jayakrishna, KamalakantaMuduli, V. P . Kommula, and Purushottam L. Meena, eds. 
-Smart manufacturing technologies for industry 4.0: integration, benefits, and operational activities.  
+Smart manufacturing technologies for industry 4.0: integration, benefits, and operational activities. 
 2. Soroush, Masoud, Michael Baldea, and Thomas F. Edgar, eds. Smart manufacturing: concepts and 
 methods. Elsevier, 2020. 
 3. Elangovan, Uthayan. Smart automation to smart manufacturing: Industrial internet of things. 
@@ -4465,22 +4175,20 @@ eds. Digital Twin for Smart Manufacturing. Elsevier, 2023.
 Automation, Robotics, Sensing, Artificial Intelligence, 5G, IoTs and Blockchain. Institution of 
 Engineering and Technology, 2022. 
 3. Gilchrist, Alasdair. Industry 4.0: the industrial internet of things. Apress, 2016. 
- 
-## Page 108
-
-FMCD2009 / 2.0 
+  ## Page 108
+ FMCD2009 / 2.0 
  108 
 ← BACK TO SEMESTER VI 
 Program: Bachelor of Engineering Semester: VI 
 Course Title: Mobile Robotic Systems Course Code: 25EMEE307 
 L-T-P: 2-1-0 Credits: 3 Contact Hours: 4 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 28 + 24 Examination Duration: 2 Hrs  
+Teaching Hours: 28 + 24 Examination Duration: 2 Hrs 
 Unit I 
 Chapter 1. Introduction to Mobile robots (4 Hours) 
-Intelligence and embodiment, A roboticist ’s problem, challenges of mobile autonomous robots, 
+Intelligence and embodiment, A roboticist 's problem, challenges of mobile autonomous robots, 
 Locomotion, static and dynamic stability, degrees of freedom. Coordinate system s and frames of 
-reference, forward kinematics, inverse kinematics, inverse kinematics using feedback control.  
+reference, forward kinematics, inverse kinematics, inverse kinematics using feedback control. 
 Chapter 2. Path Planning (5 Hours) 
 Map representations, path planning algorithms, sampling based path planning, path smoothing, planning 
 at different length scales. Uncertainty and error propagation in robotics, probabilistic robotics, basic 
@@ -4499,29 +4207,27 @@ hypothesis tracking, grid localization, Monte Carlo localization.
 Chapter 6. Occupancy Grid Mapping (4 Hours) 
 Occupancy grid mapping, Simultaneous localization and mapping, RGB-D SLAM. 
 Hands-On Activity: (24 Hours) 
- Simulate forward and inverse kinematics of a 2-wheeled mobile robot  
+ Simulate forward and inverse kinematics of a 2-wheeled mobile robot 
  Implement and visualize sampling-based planning 
  Code and simulate Kalman Filter for 1D/2D state estimation of a moving robot 
  Simulate laser/ultrasonic range detection with noisy models and beam likelihood 
  Implement particle filter for 2D mobile robot localization on a map 
 Text Books: 
-1. Sebastian Thrun, Wolfram Burgard& Dieter Fox, “ Probabilistic Robotics”, The MIT Press. 
-2. Alonzo Kelly, “Mobile Robotics: Mathematics, Models, and Methods”, Cambridge University 
+1. Sebastian Thrun, Wolfram Burgard& Dieter Fox, " Probabilistic Robotics", The MIT Press. 
+2. Alonzo Kelly, "Mobile Robotics: Mathematics, Models, and Methods", Cambridge University 
 Reference Books: 
-1. Eugene Kagan, NirShvalb&Irad Ben-Gal, “Autonomous Mobile Robots and Multi-Robot Systems 
-“, First Edition, John Wiley & Sons Ltd, 2020. 
+1. Eugene Kagan, NirShvalb&Irad Ben-Gal, "Autonomous Mobile Robots and Multi-Robot Systems 
+", First Edition, John Wiley & Sons Ltd, 2020. 
 2. NikolausCorrell, Introduction to Autonomous Robots, 1st edition. 
- 
-## Page 109
-
-FMCD2009 / 2.0 
+  ## Page 109
+ FMCD2009 / 2.0 
  109 
 ← BACK TO SEMESTER VI 
 Program: Bachelor of Engineering Semester: VI 
 Course Title: Design for Additive Manufacturing (DfAM) Lab Course Code: 22EMEE305 
 L-T-P: 1-0-2 Credits: 3 Contact Hours: 5Hrs/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
-Teaching Hours: 80 Examination Duration: 2 Hrs  
+Teaching Hours: 80 Examination Duration: 2 Hrs 
 Experiment Sessions 
 1. Introduction, Motivation, Design for Manufacturing and Assembly, AM Unique 
 Capabilities (Shape Complexity, Hierarchical Complexity, Functional Complexity, Material 
@@ -4541,29 +4247,27 @@ suitability for given application.
 * REVERSE ENGINEERING SOFTWARE: 
 1. Faro 3D Imager 2. Hand Scanner software 
 * TOPOLOGY OPTIMIZATION SOFTWARE: 
-1. Autodesk Fusion 360 with Netfabb   2. nTopology  
+1. Autodesk Fusion 360 with Netfabb 2. nTopology 
 3. 3D Experience Functional Generative Design 4. Solidworks 
 * PRINTER SIMULATION SOFTWARE: 
-1. CURA 2. CubePro  
- 
-## Page 110
-
-FMCD2009 / 2.0 
+1. CURA 2. CubePro 
+  ## Page 110
+ FMCD2009 / 2.0 
  110 
 ← BACK TO SEMESTER VI 
 Program: Bachelor of Engineering Semester: VI 
 Course Title: Green Hydrogen Course Code: 22EMEE306 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
-1. Introduction:    7 Hrs 
-Global Warming – Green House Gas Emissions – Introduction to hydrogen – Primary Sources of Hydrogen 
-– Colours of Hydrogen – Water Splitting Reaction. Wide range of applications – Global Hydrogen Demand 
-– Characteristics of Hydrogen 
-2. Fundamentals of Electrolysis:     8Hrs 
-Electrochemical water splitting – Electrolyzer or electrolytic cell – Thermodynamics – Thermodynamic 
-functions of state – Water splitting cells: General characteristics – Faraday’s law – Faradaic efficiency – 
+1. Introduction: 7 Hrs 
+Global Warming - Green House Gas Emissions - Introduction to hydrogen - Primary Sources of Hydrogen 
+- Colours of Hydrogen - Water Splitting Reaction. Wide range of applications - Global Hydrogen Demand 
+- Characteristics of Hydrogen 
+2. Fundamentals of Electrolysis: 8Hrs 
+Electrochemical water splitting - Electrolyzer or electrolytic cell - Thermodynamics - Thermodynamic 
+functions of state - Water splitting cells: General characteristics - Faraday's law - Faradaic efficiency - 
 Energy efficiency of water electrolysis cells, Classification of Electrolysers 
 Unit II 
 3. Fuel Cells:7 Hrs 
@@ -4571,43 +4275,41 @@ Working principle of fuel cells, Fuel cell thermodynamics, fuel cell electrochem
 Electrochemical kinetics, Butler -Volmer equation, performance evaluation of fuel cells, Types of Fuel 
 Cells: AFC, PAFC, SOFC, MCFC, DMFC, relative merits and demerits. Fuel cell characterization: In-situ and 
 ex-situ characterization techniques, I-V curve, frequency response analyses; Fuel cell system integration 
-4. Application of Fuel Cells     8Hrs 
+4. Application of Fuel Cells 8Hrs 
 Fuel Cell usage for domestic power systems, large scale power generation, Automobile, environmental 
 analysis. Future trends in fuel cells, portable fuel cells, laptops, mobiles, submarines. 
 Unit III 
-5. Hydrogen storage and safety     6Hrs 
+5. Hydrogen storage and safety 6Hrs 
 Physical and chemical properties, general storage methods, compressed storage -composite cylinders, 
 metal hydride storage, carbon based materials for hydrogen storage. Hydrogen safety aspects, backfire, 
 pre-ignition, hydrogen emission NOx control techniques and strategies, Hydrogen powered vehicles. 
-6. Future trends in fuel cells:      4Hrs 
-Need of green hydrogen technology- Solution to overcome Global warming- Efforts to be taken  
+6. Future trends in fuel cells: 4Hrs 
+Need of green hydrogen technology- Solution to overcome Global warming- Efforts to be taken 
 Text Books 
-1. Viswanathan, B., M Aulice Scibioh, Fuel Cells – Principles and Applications, Universities Press, 2006. 
-2. A.J. Bard,  L.R.Faulkner, Electrochemical Methods, 2nd Edn.,John Wiley & Sons, 2001. 
+1. Viswanathan, B., M Aulice Scibioh, Fuel Cells - Principles and Applications, Universities Press, 2006. 
+2. A.J. Bard, L.R.Faulkner, Electrochemical Methods, 2nd Edn.,John Wiley & Sons, 2001. 
 3. Fuel Cell Handbook, EG&G Technical Services, Inc., 7th Edn., NETL, West Virginia, 2004 
-4. Ryan O Hayre, Suk-Won Cha Whitney Colella, Fuel Cell Fundamentals, 2nd Edn., John Wiley, 2018.  
+4. Ryan O Hayre, Suk-Won Cha Whitney Colella, Fuel Cell Fundamentals, 2nd Edn., John Wiley, 2018. 
 5. Franno Barbir, PEM Fuel Cells: Theory and Practice, 2nd Ed. Elsevier/Academic Press, 2013. 
 6. Xianguo Li, Principles of Fuel Cells, Taylor & Francis, 1st Edn., 2005 
- 
-## Page 111
-
-FMCD2009 / 2.0 
+  ## Page 111
+ FMCD2009 / 2.0 
  111 
 ← BACK TO SEMESTER VI 
 Program: Bachelor of Engineering Semester: VI 
 Course Title: Advanced CAE- II Course Code: 25EMEE302 
 L-T-P: 0-0-3 Credits: 3 Contact Hours: 6 Hrs/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
-Teaching Hours: 80 Examination Duration: 2 Hrs  
+Teaching Hours: 80 Examination Duration: 2 Hrs 
 Experiment wise plan 
 Serial 
 No. 
- Details  Details No. of 
+ Details Details No. of 
 hours 
 1 Finite Element Methods: A conceptual introduction, Failure 
 criteria of materials 
 Demonstration 05 
-2 Ansys workbench  
+2 Ansys workbench 
  Getting started with Ansys 
  Interacting with panels 
 Exercise/Tutorial 06 
@@ -4621,12 +4323,12 @@ Quality parameters for 1D/2D/3D elements, Convergence
 Study of 2D and 3D Solid Elements 
 Exercise/Tutorial 06 
 5 Case study on Static structural analysis Exercise/Tutorial 03 
-6 Dynamic analysis Vibration   
+6 Dynamic analysis Vibration 
  Vibration 
  Stress based Fatigue 
  Strain based Fatigue/ 
 Exercise/Tutorial 09 
-7 Non-linear analysis  
+7 Non-linear analysis 
  Geometry 
  Material 
  Contact analysis 
@@ -4651,17 +4353,14 @@ Exercise/Tutorial 06
  Polymer matrix composite 
  Metal matrix composite 
 Demo 06 
-
-## Page 112
-
-FMCD2009 / 2.0 
+ ## Page 112
+ FMCD2009 / 2.0 
  112 
 15 Couple Field Analysis. 
  Thermo-Structural Analysis 
  Electro-Mechanical Analysis 
 Demo 03 
- 
-Text Books 
+  Text Books 
 1. Nitin Ghokale, Practical finite element analysis, Finite to infinite, 2008. 
 Reference Books: 
 1. Chen, Xiaolin_ Liu, Yijun -Finite Element Modeling and Simulation with ANSYS Workbench -CRC 
@@ -4669,38 +4368,36 @@ Press (2014)
 2. Erdogan Madenci, Ibrahim Guven (auth.) -The Finite Element Method and Applications in 
 Engineering Using ANSYS®-Springer US (2015) 
 3. Barbero, Ever J.-Finite Element Analysis of Composite Materials Using ANSYS®-CRC Press (2013) 
- 
-## Page 113
-
-FMCD2009 / 2.0 
+  ## Page 113
+ FMCD2009 / 2.0 
  113 
 ← BACK TO SEMESTER VI 
 Program: Bachelor of Engineering Semester: VI 
 Course Title: Biomechanics Course Code: 22EMEE307 
 L-T-P: 0-0-3 Credits: 3 Contact Hours: 6Hrs/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
-Teaching Hours: 80 Examination Duration: 3Hrs  
-1. Introduction and Fundamentals    14 Hrs 
+Teaching Hours: 80 Examination Duration: 3Hrs 
+1. Introduction and Fundamentals 14 Hrs 
 What are Biomechanics? Anatomical Concepts in Biomechanics, free -body diagrams and equilibrium; 
 linear and angular kinematics, kinetic equation of motion, work and energy method, application to 
 biological systems: stress, strain, Modulus, strain energy, tension, compression, torsion, bending, 
 buckling. 
-2. Tissues   14 Hrs 
+2. Tissues 14 Hrs 
 Animal tissues and plant tissues. Classification of animal tissues -hard tissue, soft tissue, properties of 
 plant and animal tissues acco rding to mechanics view point, Structure, Function, composition, material 
-properties and modeling of tissues, Plant tissues – vascular bundles – xylem and phloem. Continuum 
+properties and modeling of tissues, Plant tissues - vascular bundles - xylem and phloem. Continuum 
 Mechanics Concepts in Modeling of large deformation, Finite Element Modeling. 
-3. Joints and Movements    5 Hrs 
+3. Joints and Movements 5 Hrs 
 Classification of joints, forces and stresses, biomechanical analysis joints, Gait, Joint replacement and 
 reasons, Finite Element Modelling. 
-4. Bio-fluid mechanics   5 Hrs 
+4. Bio-fluid mechanics 5 Hrs 
 Flow properties of blood and others, Fluid flow in plants, Dynamics of fluid flow in the biological system 
-– modeling and experimental approaches, Measurement/Estimation of In -vivo elasticity of fluid 
+- modeling and experimental approaches, Measurement/Estimation of In -vivo elasticity of fluid 
 transporting vessels. 
-Content – Practical (Hands-on)    42 Hrs 
+Content - Practical (Hands-on) 42 Hrs 
 The below mentioned parameters are executed in experimental/analytical/simulation form. Tools used: 
 Rhino 7, ANSYS Workbench, Material Studio or J-Octa. 
-To determine the -  
+To determine the - 
 1. Tensile properties of a material (root or bones or plants or others). 
 2. Bending properties of a material (root or bones or plants or others). 
 3. Hardness properties of a material. 
@@ -4715,31 +4412,28 @@ muscles)
 Text Books 
 1. Basic Biomechanics of the Muscu loskeletal System. M. Nordin and V. H. Frankel, publisher -
 Lippincott Williams and Wilkins, 2012. 
-2. Biomechanics: Mechanical Properties of Living Tissues. Y . C. Fung, Springer, Second edition, 2007  
+2. Biomechanics: Mechanical Properties of Living Tissues. Y . C. Fung, Springer, Second edition, 2007 
 Reference Books 
 1. Plant Biomechanics: An engineering approach to plant form and function, K. J. Niklas, University of 
 Chicago Press, 1992. 
 2. Fundamentals of Biomechanics: Equilibrium, Motion and Deformation, Ozkaya, Nordin, 
 Goldsheyder and Leger. Third edition, Springer, 2014. 
 3. Fundamentals of Biomechanics, R. L. Huston, CRC Press, 2013. 
- 
-## Page 114
-
-FMCD2009 / 2.0 
+  ## Page 114
+ FMCD2009 / 2.0 
  114 
- 
-← BACK TO SEMESTER VI 
+  ← BACK TO SEMESTER VI 
 Program: Bachelor of Engineering Semester: VI 
 Course Title: Enterprise Resource Planning-II Course Code: 24EMEE303 
 L-T-P: 2-0-1 Credits: 3 Contact Hours: 4 Hrs/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
-Teaching Hours: 30 Examination Duration: 2 Hrs Semester: 6th  
+Teaching Hours: 30 Examination Duration: 2 Hrs Semester: 6th 
 Unit I 
 Chapter 1. ERP Implementation basics: 5 Hrs 
-Master Data Management – Item Master, Vendor Master, COA, Customer Master, Machine Master, etc. 
+Master Data Management - Item Master, Vendor Master, COA, Customer Master, Machine Master, etc. 
 Vendors- Role of Vendor; Consultants: Types of consultants; Role of a Consultant, Employees; Role of 
 employees; Resistance by employees; Dealing with employee resistance, Role of Top Management, Role 
-of Implementation Partner.  
+of Implementation Partner. 
 Chapter 2. ERP implementation Life cycle: 10 Hrs 
 Objectives of ERP implementation, Different phases of ERP implementation. Consultants, vendor and 
 employees. 
@@ -4750,7 +4444,7 @@ factors and ERP Implementation - Case studies.
 Unit II 
 Chapter 3. ERP and e-Business: 5 Hrs 
 Introduction ERP and e-business process model, components of e-Business supply chain ERP/ e-business 
-integration ERP to ERP II –Bringing ERP to the Entire Enterprise. 
+integration ERP to ERP II -Bringing ERP to the Entire Enterprise. 
 Chapter 4. Future Directions in ERP: 5 Hrs 
 Faster Implementation Methodologies; Business Modules and BAPIs ; Convergence on Windows NT; 
 Application Platform; New Business Segments; More Features; Web Enabling; Market Snapshot. 
@@ -4763,81 +4457,76 @@ Experiments No. of sessions
 7. Customize the UI as per requirement 03 
 8. Generation of company reports and query generation 02 
 Text Books 
-1. Ellen Nonk & Bret Wagner, “Concepts in Enterprise Resource Planning ”, 4th edition, CENGAGE 
+1. Ellen Nonk & Bret Wagner, "Concepts in Enterprise Resource Planning ", 4th edition, CENGAGE 
 Learning Custom Publishing, 2013. 
-2. Vinod Kumar Garg, N. K. Venkitakrishnan, “Enterprise Resource Planning: Concepts and Practice”, 
+2. Vinod Kumar Garg, N. K. Venkitakrishnan, "Enterprise Resource Planning: Concepts and Practice", 
 2nd edition, Prentice Hall India Learning Private Limited, 2003. 
 Reference Books 
-1. Alexis Leon, “Enterprise Resource Planning”, 4th edition, McGraw Hill Education, 2019. 
-2. Simha R. Magal & Jeffrey Word, “Integrated Business Processes with ERP Systems ”, 1st edition, 
+1. Alexis Leon, "Enterprise Resource Planning", 4th edition, McGraw Hill Education, 2019. 
+2. Simha R. Magal & Jeffrey Word, "Integrated Business Processes with ERP Systems ", 1st edition, 
 John Wiley & Sons Inc., 2011. 
- 
-## Page 115
-
-FMCD2009 / 2.0 
+  ## Page 115
+ FMCD2009 / 2.0 
  115 
 ← BACK TO SEMESTER VI 
 Program: Bachelor of Engineering Semester: VI 
 Course Title: Advanced Product Lifecycle Management Course Code: 24EMEE304 
 L-T-P: 2-0-1 Credits: 3 Contact Hours: 4 Hrs/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
-Teaching Hours: 30 Examination Duration: 2 Hrs  
+Teaching Hours: 30 Examination Duration: 2 Hrs 
 Unit I 
 Chapter 1. Organizational Change Management in the PLM Environment: 6 Hrs 
 Organizational change management (OCM), benefits of OCM, incremental change, transformational 
-change, resistance to change, pre -requisites for organizational change, KPI’s for organizational change, 
-special features of OCM, results of ignoring OCM, participants in change, related blogs.  
+change, resistance to change, pre -requisites for organizational change, KPI's for organizational change, 
+special features of OCM, results of ignoring OCM, participants in change, related blogs. 
 Chapter 2. Project Management in the PLM Environment: 8 Hrs 
 Characteristics of a project, project phases, project management (PM) knowledge areas, PM tools and 
-templates, KPI’s for PM, importance of PM in PLM, generic issues with projects, interaction with other 
-activities, PM activities in PLM initiatives, top management role with project management, related blogs.  
+templates, KPI's for PM, importance of PM in PLM, generic issues with projects, interaction with other 
+activities, PM activities in PLM initiatives, top management role with project management, related blogs. 
 Unit II 
 Chapter 3. The PLM Initiative: 8 Hrs 
 5 pilers to the initiative, middle managers and executives, company dilemma, personal dilemma, 
 approaches to a PLM initiative, pitfalls for the PLM initiatives, examples of the PLM dilemma, results of 
-use of the ten-step approach, common features of PLM initiation, related blogs.   
+use of the ten-step approach, common features of PLM initiation, related blogs. 
 Chapter 4. Deployment of the PLM System: 8 Hrs 
 Different stages of deployment, leading a PLM project, PLM maturity model, choosing a system, 
-realization stage of the project, challenges in deployment of PLM in the industries, related blogs.  
+realization stage of the project, challenges in deployment of PLM in the industries, related blogs. 
 Experiments No. of 
 sessions 
-1. Change Management Essentials – 8 Hrs 
+1. Change Management Essentials - 8 Hrs 
         Creating change request, creating change orders, adding and modifying proposed 
 change, adding change actions, tracking changes in an EBOM, creating impact analysis, 
 releasing parts, part revisions and effectivities, releasing an EBOM, generating a change 
-request summary report, generating different types of reports, case studies.  
+request summary report, generating different types of reports, case studies. 
 04 
-2. Project Management Essentials – 8 Hrs 
+2. Project Management Essentials - 8 Hrs 
             Creating programs and projects, creating schedule and assigning members, creating 
 experiments, project issues and baselines, creating bookmarks and defining rights, 
 creating routes and completing tasks, monitoring the status of projects and programs, 
 managing risks, managing resources, working with budgets and benefits, working with 
 calendars, assessing and tracking projects, case studies 
 04 
-3. Variant Management Essentials – 8 Hrs 
+3. Variant Management Essentials - 8 Hrs 
              Variant management overview, define product line , project phase and milestones, 
 product portfolio, requirements, variant dictionary, marketing rules, product 
 configurations, product architecture, generate GBOM and define effectivity, release the 
-logical features, generate BOMs for a product configuration, case studies.   
+logical features, generate BOMs for a product configuration, case studies. 
 04 
 Reference Books 
 1. Stark John, "Product Lifecycle Management: 21st Century Paradigm for Product Realization", 
 Springer, Third Edition, 2015 
-2. Antti Saakasvuori, Anselmi Immonen, “Product Lifecycle Management" - Springer, 1st Edition, 
+2. Antti Saakasvuori, Anselmi Immonen, "Product Lifecycle Management" - Springer, 1st Edition, 
 2003. 
- 
-## Page 116
-
-FMCD2009 / 2.0 
+  ## Page 116
+ FMCD2009 / 2.0 
  116 
 ← BACK TO SEMESTER VI 
 Program: Bachelor of Engineering Semester: VI 
 Course Title: Vehicle Structure and Design Optimization Course Code: 19EMEE301 
 L-T-P: 0-0-3 Credits: 3 Contact Hours: 3Hrs/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
-Teaching Hours: 80 Examination Duration: 2 Hrs  
- 
-Sl. 
+Teaching Hours: 80 Examination Duration: 2 Hrs 
+  Sl. 
 No 
 Content Teaching 
 Hours 
@@ -4859,19 +4548,18 @@ acquired data.)
 8 Quality control in virtual environment; 03 
 9 Example case of static stiffness of BIW , Chassis; 
 (BIW (short for Body in White) is a stage in automotive design and 
-manufacturing.  BIW refers to the body shell design of an automotive product such as 
+manufacturing. BIW refers to the body shell design of an automotive product such as 
 cars. It is just a sheet metal welded structure. BIW will not have doors, engines, chassis 
 or any other moving parts.) 
 05 
 10 Understanding effect of thermal loads on structure; 02 
 11 Understanding how to compute life based on stress results; 02 
- Hands on Session  
+ Hands on Session 
 1 Demonstrate importance of geometric parameters on performance of structure 05 
 2 Demonstrate importance of cross members on performance of structure 05 
  PART B 
 (Design Optimization) 
- 
-1 Optimization in the Design Process, Engineering Design Practice, Characteris tics of 
+  1 Optimization in the Design Process, Engineering Design Practice, Characteris tics of 
 Different Industries, CAE and the Design Cycle, The impact of optimization on CAE, 
 What is an Optimum Design? Optimization terminology in a nutshell, Finding an 
 Optimum, Formulation of an Optimization problem; 
@@ -4884,18 +4572,16 @@ Optimum, Formulation of an Optimization problem;
 7 Examples - design guidance for stiffness attribute; 04 
 8 Examples - design guidance for durability attribute; 04 
 9 What is MDO, its application; 02 
-
-## Page 117
-
-FMCD2009 / 2.0 
+ ## Page 117
+ FMCD2009 / 2.0 
  117 
 (Medium density overlay-MDO is produced with a high -quality thermosetting resin -
 impregnated fiber surface b onded to one or both sides under heat and pressure to 
-create an exterior-grade plywood panel.)  
+create an exterior-grade plywood panel.) 
 10 Watch-outs during design guidance process; 02 
 11 Examples - design guidance for NV & crash attribute; 04 
-12 Hands on Session  
-13 Optimize front control arm of a vehicle for all its performance criteria.  FAW up by 10% 05 
+12 Hands on Session 
+13 Optimize front control arm of a vehicle for all its performance criteria. FAW up by 10% 05 
 14 Optimize B-Pillar for roof crush if GVW goes up by 20% due to electrification 
 Effect of wheel base increase on chassis stiffness and how to bring it back, Section 
 optimization using morphing. 
@@ -4903,8 +4589,8 @@ optimization using morphing.
 Text Books 
 1. Dr. N.K. Giri, Automotive Mechanics, 8th Edition, 2008, Khanna Publication, New Delhi. 
 2. Practical Aspects of Structural Optimization, Altair University, 3rd Edition. 
-3. Robin Hardy, Iqbal Husain, "Electric and Hybrid Vehicles”. CRC Press, ISBN 0-8493-1466-6. 
-4. Ron Hodkinson and John Fenton, “Lightweight Electric/ Hybrid Vehicle Design”. SAE International 
+3. Robin Hardy, Iqbal Husain, "Electric and Hybrid Vehicles". CRC Press, ISBN 0-8493-1466-6. 
+4. Ron Hodkinson and John Fenton, "Lightweight Electric/ Hybrid Vehicle Design". SAE International 
 5. John M. Miller, Propulsion Systems for Hybrid Vehicles" Institute of Electrical Engineers, London, 
 ISBN0 863413366. 
 6. Automobile Electrical and Electronic systems, Tom Denton, Third Edition, 2004, SAE International, 
@@ -4921,104 +4607,96 @@ Objective: To Provide design guidance
 Sl. No. Content 
 01 Battery case for EV (Metal vs Composite); 
 02 Motor compartment / Passenger compartment - improve performance; 
- 
-## Page 118
-
-FMCD2009 / 2.0 
+  ## Page 118
+ FMCD2009 / 2.0 
  118 
- 
-← BACK TO SEMESTER VI 
+  ← BACK TO SEMESTER VI 
 Program: Bachelor of Engineering Semester: VI 
 Course Title: Machine Learning Applications Course Code: 19EMEE307 
 L-T-P: 0-0-3 Credits: 3 Contact Hours: 3Hrs/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
-Teaching Hours: 80 Examination Duration: 2 Hrs  
+Teaching Hours: 80 Examination Duration: 2 Hrs 
 Unit I 
-1. Unsupervised Learning    27 Hrs 
+1. Unsupervised Learning 27 Hrs 
 Refresher week, Introduction to Unsupervised Learning, Clustering Analysis: K -Means, K -Medoid, 
 DBSCAN, Hierarchical Clustering. 
 Unit II 
-2. Introduction to Deep Learning Frame-Work    18 Hrs 
+2. Introduction to Deep Learning Frame-Work 18 Hrs 
 Introduction to DL, Exploring the popular DL frameworks, Getting started with Tensor Flow, Introduction 
 to Keras, Setting up the environment. 
-3. Introduction to Deep Neural Network (DNN)    21 Hrs 
+3. Introduction to Deep Neural Network (DNN) 21 Hrs 
 Introduction- What is Deep Learning, Why Deep Learning and Why now, Mathematical building blocks of 
 NN, Examples on Regression, Classification. 
 Unit III 
-4. Deep Learning in practice    14 Hrs 
+4. Deep Learning in practice 14 Hrs 
 Introduction to Convolution network, Understanding Recurrent NN, Examples 
 Text Books 
 1. Deep Learning, Ian Goodfellow, Yoshua Bengio et.al 
-2. Trevor Hastie, Robert Tibshirani, and Jerome Friedman, “The Elements of Statistical Learning: 
-Data Mining, Inference, and Prediction”, Springer, 2017 
+2. Trevor Hastie, Robert Tibshirani, and Jerome Friedman, "The Elements of Statistical Learning: 
+Data Mining, Inference, and Prediction", Springer, 2017 
 3. Deep Learning with Python, Francois Chollet 
 Reference Books 
-1. Andrew Ng, “Machine Learning Yearning”, https://www.mlyearning.org/. 
-2. Michael Nielsen, “Neural Networks and Deep Learning ”, 
+1. Andrew Ng, "Machine Learning Yearning", https://www.mlyearning.org/. 
+2. Michael Nielsen, "Neural Networks and Deep Learning ", 
 http://neuralnetworksanddeeplearning.com/. 
- 
-## Page 119
-
-FMCD2009 / 2.0 
+  ## Page 119
+ FMCD2009 / 2.0 
  119 
 ←BACK TO SEMESTER VII 
- 
-Program: Bachelor of Engineering Semester: VII 
+  Program: Bachelor of Engineering Semester: VII 
 Course Title: Heat and Mass Transfer Course Code: 24EMEC401 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
 Chapter 1. Introductory concepts and Definitions: 5 Hrs 
 Modes of heat transfer: Basic laws governing conduction, convection, and radiation heat transfer; 
 Thermal conductivity; convective heat transfer coefficient; radiation heat transfer combined heat transfer 
-mechanism, Mass transfer; Definition and terms used in mass transfer analysis, Fick’s first law of diffusion. 
-Boundary conditions of 1 st,2nd and 3rd kind Conduction. Sustainability Aspects in heat transfer devices -
+mechanism, Mass transfer; Definition and terms used in mass transfer analysis, Fick's first law of diffusion. 
+Boundary conditions of 1 st, 2nd and 3rd kind Conduction. Sustainability Aspects in heat transfer devices -
 Global Reporting Initiative (GRI) Standards 
 Chapter 2. One dimensional Steady State Conduction: 5 Hrs 
 Heat flow and temperature distribution in plane wall. Critical thickness of insulation, Thermal resistance 
-concept. Steady state conduction in slab, cylinder and  spheres with heat generation. Heat transfer in 
+concept. Steady state conduction in slab, cylinder and spheres with heat generation. Heat transfer in 
 extended surfaces of uniform cross-section without heat generation [No Derivations] Fin efficiency and 
 effectiveness. Numericals 
-Chapter 3.  One-dimensional transient conduction: 5 Hrs 
+Chapter 3. One-dimensional transient conduction: 5 Hrs 
 Conduction in solids wi th negligible internal temperature gradient (Lumped system analysis), Use of 
-Transient temperature charts (Heisler’s charts) for transient conduction in slab, long cylinder and sphere 
+Transient temperature charts (Heisler's charts) for transient conduction in slab, long cylinder and sphere 
 Numerical Problems. 
 Unit II 
-Chapter 4.  Boundary layer flow and Forced convection: 6 Hrs 
+Chapter 4. Boundary layer flow and Forced convection: 6 Hrs 
 Flow over a body velocity boundary layer, general expressions for drag coefficient and drag force, thermal 
 boundary layer. General expression for local heat transfer coefficient; Average heat transfer coefficient; 
 Reynolds, Prandtl, Nusselt and Stanton numbers, Flow inside a duct, Correlations for flow over flat plate, 
-cylinder and sphere Numerical problems based on empirical relation.  
+cylinder and sphere Numerical problems based on empirical relation. 
 Chapter 5. Free or Natural Convection: 4 Hrs 
 significance of Grasshoff number, correlations for free con vection over vertical, horizontal and inclined 
-flat plates, vertical/ horizontal cylinders and spheres  
-Chapter 6.  Heat Exchangers: 5 Hrs 
+flat plates, vertical/ horizontal cylinders and spheres 
+Chapter 6. Heat Exchangers: 5 Hrs 
 Classification, overall heat transfer coefficient, fouling and fouling factor; LMTD, Effectiveness -NTU 
 methods of ana lysis of heat exchangers. Sustainability issues in Heat Recovery Wheel for waste heat 
-utilization                                                                                     
+utilization 
 Unit III 
 Chapter 7. Condensation and Boiling: 5 Hrs 
-Types of condensation  (discussion only) Nusselt ’s theory for laminar condensation on a vertical flat 
+Types of condensation (discussion only) Nusselt 's theory for laminar condensation on a vertical flat 
 surface [No Derivation]. use of correlations for condensation. Regimes of pool boiling pool boiling 
-correlations [Theory]                                                                     
+correlations [Theory] 
 Chapter 8. Radiation heat transfer: 5 Hrs 
 Thermal radiation; definitions of various terms used in radiation heat transfer; Stefan -Boltzman law, 
-Kirchoff’s law, Planck’s law and Wein’s displacement law. Solar Radiation geometry. Numerical problems 
-Text Books:  
+Kirchoff's law, Planck's law and Wein's displacement law. Solar Radiation geometry. Numerical problems 
+Text Books: 
 1. Nicati Ozisik, Heat transfer-A basic approach, 1, Tata Mc Graw Hill, 2002 
-2. M.Tirumaleshwar, Fundamentals of Heat and  Mass Transfer, 4, Pearson education, 2009 
- 
-## Page 120
-
-FMCD2009 / 2.0 
+2. M.Tirumaleshwar, Fundamentals of Heat and Mass Transfer, 4, Pearson education, 2009 
+  ## Page 120
+ FMCD2009 / 2.0 
  120 
 ←BACK TO SEMESTER VII 
 Program: Bachelor of Engineering Semester: VII 
 Course Title: I C Engines Course Code: 25EMEC401 
 L-T-P: 2-0-0 Credits: 2 Contact Hours: 2 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 30 Examination Duration: 2 Hrs  
+Teaching Hours: 30 Examination Duration: 2 Hrs 
 Unit I 
 Chapter 1. Combustion in Spark Ignition Engines: 8 Hrs 
 Introduction: IC Engine Classification, Operating Cycles, SI and CI Engines. 
@@ -5026,14 +4704,14 @@ Ignition limits, Normal combustion, Thermodynamic analysis of SI Engine combusti
 lag, and e ffect of eng ine variables on ignition lag, Causes of Cycle-by- Cycle and Cylinder-to-Cylinder 
 variations and flame propagation phase, detonation, Abnormal Combustion: Knock fundamentals and 
 fuel factors, Factors affecting knock.SI engine combustion chambers. 
-Chapter 2. Combustion in Compression Ignition Engines: 7 Hrs                                                       
+Chapter 2. Combustion in Compression Ignition Engines: 7 Hrs 
 Types of D iesel Combustion Systems, Direct and In direct-Injection Systems, Comparison, Combustion 
-efficiency, No rmal combustion–stages, d elay period, variables a ffecting de lay period. Diesel knock, 
+efficiency, No rmal combustion-stages, d elay period, variables a ffecting de lay period. Diesel knock, 
 comparison b etween d iesel and pet rol en gine knocks.CI eng ine combustion chambers, Fuel spray 
 behaviour. HRR analysis. 
 Unit II 
 Chapter 3. Engine Exhaust Emissions and Control Systems: 5 Hrs 
-Formation of NOX, HC/CO mechanism,  Smoke and Particulate emissions, Green House effect, Methods 
+Formation of NOX, HC/CO mechanism, Smoke and Particulate emissions, Green House effect, Methods 
 of controlling emissions, Three-way catalytic converter and Particulate trap, Emission (HC, CO, NO and 
 NOX) measuring equipment, Smoke and Particulate measurement, Indian Driving cycles and emission 
 norms. 
@@ -5046,135 +4724,121 @@ Dual fuel Engine, Common Rail Direct Injection Diesel Engine (CRDI), Homogeneous
 Ignition Engine (HCCI), R eactivity controlled compression ignition en gine (RCCI) L ean Burn Engine, 
 Surface Ignition alcohol CI Engine, VVT engines, Gasoline Direct Injection Engine. 
 Text Books: 
-1. John B Heywood, “Internal Combustion Engine Fundamentals”, Tata McGraw-Hill, 1988 
-2. Heinz Heisler, “Advanced Engine Technology”, SAE International Publications, USA, 1998 
-3. Patterson D.J. and Henein N.A, “Emissions from combustion engines and their control”, Ann Arbor 
+1. John B Heywood, "Internal Combustion Engine Fundamentals", Tata McGraw-Hill, 1988 
+2. Heinz Heisler, "Advanced Engine Technology", SAE International Publications, USA, 1998 
+3. Patterson D.J. and Henein N.A, "Emissions from combustion engines and their control", Ann Arbor 
 Science, publishers Inc, USA, 1978 
 Reference Books: 
-1. Ganesan V. “Internal Combustion Engines”, Third Edition, Tata Mcgraw-Hill, 2007. 
-2. Gupta H.N, “Fundamentals of Internal Combustion Engines”, Prentice Hall of India, 2006. 
-3. Ultrich Adler, “Automotive Electric / Electronic Systems”, Published by Robert Bosh GmbH, 1995. 
- 
-## Page 121
-
-FMCD2009 / 2.0 
+1. Ganesan V. "Internal Combustion Engines", Third Edition, Tata Mcgraw-Hill, 2007. 
+2. Gupta H.N, "Fundamentals of Internal Combustion Engines", Prentice Hall of India, 2006. 
+3. Ultrich Adler, "Automotive Electric / Electronic Systems", Published by Robert Bosh GmbH, 1995. 
+  ## Page 121
+ FMCD2009 / 2.0 
  121 
- 
-←BACK TO SEMESTER VII 
- 
-Program: Bachelor of Engineering Semester: VII 
-Course Title: Thermal Engineering  Lab Course Code: 19EMEP401 
+  ←BACK TO SEMESTER VII 
+  Program: Bachelor of Engineering Semester: VII 
+Course Title: Thermal Engineering Lab Course Code: 19EMEP401 
 L-T-P: 0-0-1 Credits: 1 Contact Hours: 2 Hrs/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
-Teaching Hours: 24 Examination Duration: 2 Hrs  
+Teaching Hours: 24 Examination Duration: 2 Hrs 
 1. Fluid Mechanics and hydraulic machines 
-a. To obtain the performance characteristics of centrifugal blower  
+a. To obtain the performance characteristics of centrifugal blower 
 b. To study the effect of speed on the performance of centrifugal pump 
-c. To study the effect of speed / gate opening on the performance of Pelton turbine  
+c. To study the effect of speed / gate opening on the performance of Pelton turbine 
 d. To study the effect of speed / gate opening on the performance of Francis turbine 
-e.  To determine the performance of nozzle and water flow meters 
+e. To determine the performance of nozzle and water flow meters 
 2. Heat Transfer 
-a. To determine the emissivity of given surface  
-b. To study the performance of pinfin  
+a. To determine the emissivity of given surface 
+b. To study the performance of pinfin 
 c. To determine thermal conductivity of insulating materials 
-d. To study the performance of vapour compression refrigeration (VCR) system   
+d. To study the performance of vapour compression refrigeration (VCR) system 
 3. I C Engines 
-a. To study the performance of two stroke engine  
-b. To obtain the performance characteristics of multi-cylinder engine using Morse test   
+a. To study the performance of two stroke engine 
+b. To obtain the performance characteristics of multi-cylinder engine using Morse test 
 c. To study the effect of engine operating variables (Injection pressure/ injection timing/ 
 compression ratio) 
 Materials and Resources Required 
 1. White, F.M., Fluid Mechanics, 5ed., McGraw Hill International, 2003 
 2. Nicati Ozisik - Heat transfer-A basic approach, Tata Mc Graw Hill, 2002 
 3. Yunus A. Cengel - Heat transfer, a practical approach, Tata Mc Graw Hill, 4th Edn, 2011 
-4. John B. Heywood, Fundamentals of Internal Combustion Engines, McGrawHill, Singapore.                         
-5. Ganesan.V, Internal Combustion Engines, Tata McGraw Hill, 2nd Edition, 2003  
+4. John B. Heywood, Fundamentals of Internal Combustion Engines, McGrawHill, Singapore. 
+5. Ganesan.V, Internal Combustion Engines, Tata McGraw Hill, 2nd Edition, 2003 
 6. Manuals: Lab manual prepared by the Department 
- 
-## Page 122
-
-FMCD2009 / 2.0 
+  ## Page 122
+ FMCD2009 / 2.0 
  122 
 ←BACK TO SEMESTER VII 
- 
-Program: Bachelor of Engineering Semester: VII 
-Course Title: Senior Design Project Course Code: 20EMEW401   
+  Program: Bachelor of Engineering Semester: VII 
+Course Title: Senior Design Project Course Code: 20EMEW401 
 L-T-P: 0-0-6 Credits: 6 Contact Hours: 6 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
- 
-About the Course: 
+Teaching Hours: 40 Examination Duration: 3 Hrs 
+  About the Course: 
 Senior Design project course uses User experience design (UX) approach to solve complex engineering 
 problems. In this course students are challenged to solve frontier complex engineering problems in the 
 field of s mart manufacturing, green engineering, and Design engineering and advanced materials. The 
 objective of the course is to infuse lifelong qualities in students such as research, design thinking, 
 innovation and entrepreneurial qualities. After this course students are capable to convert customer pain 
 points into business solution. 
- 
-## Page 123
-
-FMCD2009 / 2.0 
+  ## Page 123
+ FMCD2009 / 2.0 
  123 
 ←BACK TO SEMESTER VII 
- 
-Program: Bachelor of Engineering Semester: VII 
+  Program: Bachelor of Engineering Semester: VII 
 Course Title: CIPE & EVS Course Code: 15EHSA401 
 L-T-P: Audit Credits: Audit Contact Hours: 32 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 32 Examination Duration: 3 Hrs  
-Unit – 1 
+Teaching Hours: 32 Examination Duration: 3 Hrs 
+Unit - 1 
 Chapter 1 Features of Indian Constitution: 4 Hrs 
 Features of Indian Constitution, Preamble to the constitution of India, Fundamental rights under Part III 
-– details of Exercise of rights, Limitations & Important cases. Berubari Union and Exchange of Enclaves, 
-KesavanandBharati vs. UOI, Maneka Gandhi vs. UOI, Air India Ltd. vs. Nargees  Meerza,  T.M .A. Pai 
+- details of Exercise of rights, Limitations & Important cases. Berubari Union and Exchange of Enclaves, 
+KesavanandBharati vs. UOI, Maneka Gandhi vs. UOI, Air India Ltd. vs. Nargees Meerza, T.M .A. Pai 
 Foundation v. St. of Karnataka, M.C. Mehta vs. UOI etc., 
 Chapter 2 Relevance of Directive principles of State Policy: 3 Hrs 
 Relevance of Directive principles of State Policy under Part IV, Fundamental duties & their significance. 
 Sarla Mudgal v. UOI 
 Chapter. 3 Union: 4 Hrs 
-Union – President, Vice President, Union Council of Ministers, Prime Minister, Parliament & the Supreme 
+Union - President, Vice President, Union Council of Ministers, Prime Minister, Parliament & the Supreme 
 Court of India. 
 Chapter 4 State: 2 Hrs 
-State – Governors, State Council of Ministers, Chief Minister, State Legislature and Judiciary. 
-Chapter 5 Constitutional Provisions for Scheduled Castes & Tribes     2 Hrs 
+State - Governors, State Council of Ministers, Chief Minister, State Legislature and Judiciary. 
+Chapter 5 Constitutional Provisions for Scheduled Castes & Tribes 2 Hrs 
 Constitutional Provisions for Scheduled Castes & Tribes, Women &Children & Backward classes, 
 Emergency Provisions. 
 Chapter 6 Electoral process: 2 Hrs 
 Electoral process, Amendment procedure, 42nd, 44th and 86th Constitutional amendments. 
-Unit – 2 
-Chapter  7 Scope & Aims of Engineering Ethics: 5 Hrs 
+Unit - 2 
+Chapter 7 Scope & Aims of Engineering Ethics: 5 Hrs 
 Scope & Aims of Engineering Ethics: Meaning and purpose of Engineering Ethics, Responsibility of 
 Engineers, Impediments to resp onsibility, Honesty, Integrity and reliability, risks, safety & liability in 
 engineering. Bhopal Gas Tragedy, Titanic case. 
-Chapter  8 Intellectual Property Rights: 3 Hrs 
-Chapter  9  Ethical perspectives of professional bodies: 3 Hrs 
+Chapter 8 Intellectual Property Rights: 3 Hrs 
+Chapter 9 Ethical perspectives of professional bodies: 3 Hrs 
 Ethical perspectives of professional bodies- IEEE, ASME, NSPE and ABET, ASCE etc. 
-Unit – 3 
-Chapter  10 Effects of human activities on environment: 2 Hrs 
+Unit - 3 
+Chapter 10 Effects of human activities on environment: 2 Hrs 
 Effects of human activities on environment - Agriculture, Housing, Industry, Mining, and Transportation 
-activities, Environmental Impact Assessment, Sustainability and Sustainable Development.   
+activities, Environmental Impact Assessment, Sustainability and Sustainable Development. 
 Chapter 11 Environmental Protection: 2 Hrs 
-Environmental Protection – Constitutional Provisions and Environmental Laws in India. 
-Text Books (List of books as mentioned in the approved syllabus)  
-1. Dr. J. N. Pandey, “Constitutional Law of India”, Central Law Agency, 2005 
-2. Dr. M.K. Bhandari, “Law relating to Intellectual Property Rights”, Central Law Publications, Allahabad, 
+Environmental Protection - Constitutional Provisions and Environmental Laws in India. 
+Text Books (List of books as mentioned in the approved syllabus) 
+1. Dr. J. N. Pandey, "Constitutional Law of India", Central Law Agency, 2005 
+2. Dr. M.K. Bhandari, "Law relating to Intellectual Property Rights", Central Law Publications, Allahabad, 
 2010. 
-3. Charles E. Harris and others, “Engineering Ethics: Concepts and Cases”, Thomson Wadsworth, 2003 
+3. Charles E. Harris and others, "Engineering Ethics: Concepts and Cases", Thomson Wadsworth, 2003 
 References 
-1. Durga Das Basu, “Introduction to the Constitution of India”, Prentice-hall EEE, 2001 
-2. Mike Martin and Ronald Schinzinger, “Ethics in Engineering”, Tata McGraw-Hill Publications. 
- 
-## Page 124
-
-FMCD2009 / 2.0 
+1. Durga Das Basu, "Introduction to the Constitution of India", Prentice-hall EEE, 2001 
+2. Mike Martin and Ronald Schinzinger, "Ethics in Engineering", Tata McGraw-Hill Publications. 
+  ## Page 124
+ FMCD2009 / 2.0 
  124 
 ←BACK TO SEMESTER VII 
- 
-Program: Bachelor of Engineering Semester: VII 
+  Program: Bachelor of Engineering Semester: VII 
 Course Title: Operations Research Course Code: 24EMEE401 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
 Chapter 1. Introduction to Operations Research: 3 Hrs 
 System orientation, Use of interdisciplinary teams in OR, Necessity of OR in business and industry, Scope 
@@ -5184,7 +4848,7 @@ Formulation, Identification of decision variables, Constructing Objective Functi
 Assumptions, Practical Examples, Methods of Solution, Graphical Method, Simplex method (Big M and 2-
 phase methods), By computer, Examples 
 Unit II 
-Chapter 3. Duality Theory and Sensitivity Analysis: 7 Hrs    
+Chapter 3. Duality Theory and Sensitivity Analysis: 7 Hrs 
 Duality theory, Existence of Dual of a LP problem, Economic interpretation of duality Primal Dual 
 relationships in formulation and their solutions, Sensitivity Analysis or Post Optim ality Analysis, Dual 
 Simplex Method, Changes affecting feasibility, Changes affecting optimality, Examples 
@@ -5193,7 +4857,7 @@ The transportation algorithm, Formulation as a LP problem, Determination of init
 improvement to obtain optimal solution, Special cases such as multiple, unbalanced, degeneracy etc. The 
 assignment model, Formulation as a LP problem, The Hungarian method of solution, Examples 
 Unit III 
-Chapter 5. Network Models: 5 Hrs   
+Chapter 5. Network Models: 5 Hrs 
 The maximal flow proble ms, The shortest route problem, The minimal spanning tree problem, Critical 
 Path Method (CPM) and Program Evaluation & Review Technique, Network representation of simple 
 projects, Critical path Crashing of project duration, Examples 
@@ -5206,18 +4870,15 @@ Text Books
 Reference Books 
 1. Vohra N. D, Quantitative Techniques in Management, 5th Edition, Mcgraw Higher Ed.,2017 
 2. R. Panneerselvam, Operations Research, 2nd Edition, Phi Learning Pvt. Ltd, 2009. 
- 
-## Page 125
-
-FMCD2009 / 2.0 
+  ## Page 125
+ FMCD2009 / 2.0 
  125 
 ←BACK TO SEMESTER VII 
- 
-Program: Bachelor of Engineering Semester: VII 
+  Program: Bachelor of Engineering Semester: VII 
 Course Title: Design of Thermal Systems Course Code: 24EMEE402 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
 Chapter 1. Heat exchangers Classification and Selection: 5 Hrs 
 Introduction, Recuperation and Regeneration, Transfer process, Geometry and Construction, - Tubular 
@@ -5231,9 +4892,8 @@ Chapter 3. Condensers: 5 Hrs
 Classification of condensers, various types of c ondensers and their applications, Shell and tube 
 condensers: Analysis and design, special consideration in Reflux Condensers: Flooding, Condensers for 
 mixtures, Waste heat recovery, Sources and Quality of waste heat, Approach to waste Heat Recovery, 
-Charge preheating, Preheating of combustion air, waste Gases, Heat recovery devices, heat pump.   
- 
-Chapter 4. Modeling of Thermal Equipment: 6 Hrs 
+Charge preheating, Preheating of combustion air, waste Gases, Heat recovery devices, heat pump. 
+  Chapter 4. Modeling of Thermal Equipment: 6 Hrs 
 Counter flow heat exchanger, Evaporators and Condensers, Heat exchanger effectiveness, Effectiveness 
 of a counter flow heat exchanger, NTU, Pressure drop and pumping power, Numerical Problems. 
 Chapter 5. Optimization: 4 Hrs 
@@ -5249,21 +4909,19 @@ Text Books
 1. W.F. Stoecker, Design of Thermal Systems, 3 ed., MGH, 1989. 
 2. Sarit K. Das., Process heat transfer, Narosa Publishing House 1st Edition, 2005 
 3. Sadik Kakac, Hongtan Liu, Heat Exchanger Selection, Rating and Thermal Design, 2 ed., CRC, 2002. 
-4. Robert Goldstick, Albert Thumann, Principles of Waste Heat Recovery, Fairmont Press, 1986,  
+4. Robert Goldstick, Albert Thumann, Principles of Waste Heat Recovery, Fairmont Press, 1986, 
 Reference Books 
-1. Yogesh Jaluria, Design and Optimisation of Thermal Systems, 2nd ed., CRC Press,2008 
+1. Yogesh Jaluria, Design and Optimisation of Thermal Systems, 2nd ed., CRC Press, 2008 
 2. Hodge B.K., Analysis and Design of Thermal Systems, 1 ed., PHI, 1990. 
- 
-## Page 126
-
-FMCD2009 / 2.0 
+  ## Page 126
+ FMCD2009 / 2.0 
  126 
 ←BACK TO SEMESTER VII 
 Program: Bachelor of Engineering Semester: VII 
 Course Title: Mechanics of Composite Materials Course Code: 25EMEE401 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
 Chapter 1 Introduction to Composite Materials: 5 Hrs 
 Overview of Composite Materials, basic concept of composite materials, Comparison with conventional 
@@ -5277,7 +4935,7 @@ process, hand layup techniques; structural laminate bag molding, production proc
 filament winding, pultrusion, pulforming, thermo-forming, injection molding, blow molding. 
 Chapter 3 Metal and Ceramic Matrix Composites: 5 Hrs 
 Types of MMCs, base metals selection; important metallic matrices; processing-liquid state and solid state 
-processes; interfaces in MMCs; Need for production of MMC ’s and its applications; Types of CMCs, 
+processes; interfaces in MMCs; Need for production of MMC 's and its applications; Types of CMCs, 
 processing of CMCs -cold pressing and sintering, hot pressing, reaction bonding processes, liquid 
 infiltration, directed oxidation, in -situ chemical reaction techniques, sol -gel and polymer pyrolysis, 
 applications of CMCs. 
@@ -5285,7 +4943,7 @@ Unit II
 Chapter 4 Macro Mechanics of a Lamina: 8 Hrs 
 Introduction to Lamina and Laminate Theory, Definition of lamina and laminate, Significance of analyzing 
 a single lamina (macro level), Stress -strain behavior in composite lamina, Assumptions in 
-macromechanics analysis, Stress-Strain Relationships in a Lamina, Transformation of Stress, Strain, and  
+macromechanics analysis, Stress-Strain Relationships in a Lamina, Transformation of Stress, Strain, and 
 Material Properties, Strength Analysis of a Lamina, Failure modes in a lamina (fiber breakage, matrix 
 cracking, delamination), Maximum stress theory, Maximum strain theory, Tsai-Hill failure criterion, Tsai-
 Wu failure criterion, Design considerations unde r environmental conditions, Case studies: Behavior of 
@@ -5299,7 +4957,7 @@ etc.), Stress -strain relationships for isotropic vs anisotropic constituents, L
 Properties of a Lamina, Strength Properties of a Lamina, Numerical problems. 
 Unit III 
 Chapter 6 Macro Mechanics of Laminate: 5 Hrs 
-Macro Mechanics of Laminate: Introduction, Laminate code, Stress –Strain Relations for a Laminate, 
+Macro Mechanics of Laminate: Introduction, Laminate code, Stress -Strain Relations for a Laminate, 
 Classical Lamination theory, assumptions of CLT, Stress- Strain equation and variation in a laminate, force 
 and moment resultants related to midplane strains and curvatures, Numerical problems. 
 Chapter 7 Applications: 5 Hrs 
@@ -5308,28 +4966,23 @@ aspects and recycling of composites Limitations and challenges in design, manufa
 Future trends and innovations in composite materials. 
 Text Books: 
 1. Krishan K. Chawla, Composite Materials - Science and Engineering, 3rd Edition, Springer, 2012. 
-
-## Page 127
-
-FMCD2009 / 2.0 
+ ## Page 127
+ FMCD2009 / 2.0 
  127 
 2. Robert M. Jones, Mechanics of Composite Materials, 2nd Edition, Tailor & Francis Inc. 1999. 
 Reference Books: 
 1. D. Hull and T. W. Clyne, an Introduction to Composite Materials (Cambridge Solid State Science 
 Series), 2nd Edition, Cambridge University Press, 1996. 
 2. Autar K. Kaw, Mechanics of Composite Materials, 2nd Edition, CRC Press, Taylor and Francis, 2006. 
- 
-## Page 128
-
-FMCD2009 / 2.0 
+  ## Page 128
+ FMCD2009 / 2.0 
  128 
 ←BACK TO SEMESTER VII 
- 
-Program: Bachelor of Engineering Semester: VII 
+  Program: Bachelor of Engineering Semester: VII 
 Course Title: Design of Automotive Power Train Course Code: 15EMEE402 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
 Chapter 1 Vehicle Performance Parameters: 5 Hrs 
 Vehicle drag, power for propulsion, resistances to vehicle motion, traction and tractive effort, relation 
@@ -5351,7 +5004,7 @@ Necessity of gear box, Sliding mesh gear box, Constant mesh gear box, Synchromes
 synchronization and engagement. 
 Unit III 
 Chapter 7 Power Transmission- Automatic Gearbox: 5 Hrs 
-Architecture, fundamental design and operation principles of Torque convertors, Epicyclic  gear trains and 
+Architecture, fundamental design and operation principles of Torque convertors, Epicyclic gear trains and 
 Dual Clutch Transmission. 
 Chapter 8 Power Transmission- Drive Shaft, Final Drive and Differential: 5 Hrs 
 Construction & types of propeller/drive shafts, Final drive, Differe ntial-principle, open and non -slip 
@@ -5362,27 +5015,24 @@ Text Books
 Reference Books 
 1. Heinz Heisler, Advanced Vehicle Technology, 2nd Edition, Butterworth Heinemann, 2002. 
 2. Heywood, John B. Internal Combustion Engine Fundamentals, McGraw-Hill, New York 1988. 
- 
-## Page 129
-
-FMCD2009 / 2.0 
+  ## Page 129
+ FMCD2009 / 2.0 
  129 
 ←BACK TO SEMESTER VII 
- 
-Program: Bachelor of Engineering Semester: VII 
+  Program: Bachelor of Engineering Semester: VII 
 Course Title: Design and Analysis of Experiments Course Code: 25EMEE403 
 L-T-P: 2-1-0 Credits: 3 Contact Hours: 4 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 30 + 24 Examination Duration: 2 Hrs  
+Teaching Hours: 30 + 24 Examination Duration: 2 Hrs 
 Unit I 
-Chapter 1. Introduction to DAE   5 Hrs 
+Chapter 1. Introduction to DAE 5 Hrs 
 Need for Research, Need for Design of Experiments, Experimental Design Techniques, Applications of 
-Experimental Design.        
-Chapter 2. Taguchi’s approach to quality 5 Hrs 
-Taguchi’s Approach to Quality and Quality loss function, Noise Factors and Average Quality Loss, 
+Experimental Design. 
+Chapter 2. Taguchi's approach to quality 5 Hrs 
+Taguchi's Approach to Quality and Quality loss function, Noise Factors and Average Quality Loss, 
 Exploiting Non Linearity, Classification of Parameters, Exercises. 
 Chapter 3. Analysis of Variance 5 Hrs 
-Test of Hypothesis using t-test, Z –test, Chi square and F-tests, No-Way and One-Way ANOVA, Exercises. 
+Test of Hypothesis using t-test, Z -test, Chi square and F-tests, No-Way and One-Way ANOVA, Exercises. 
 Unit II 
 Chapter 4. Full Factorial Design of Experiments 5Hrs 
 Two-Factor Complete Factorial Experiments, Complete Factorial experiment with Three Factors and 2 n 
@@ -5398,33 +5048,28 @@ Experiments No. of
 sessions 
 1. Introduction to Minitab and problem solving using Minitab. 02 
 2. One Way ANOVA, Two Way ANOVA and constructing factorial designs in Minitab. 04 
-3. Analyzing Factorial designs, Yate’s algorithms and construction of statistical plots. 03 
+3. Analyzing Factorial designs, Yate's algorithms and construction of statistical plots. 03 
 4. Case studies on Robust design, S/N ratios for product/process optimization. 03 
 Text Books 
 1. D.C.Montgomery, Design and Analysis of Experiments- John Wiley and Sons. 
-2. Madhav S. Phadke, Quality Engineering using Robust Design- Prentice Hall PTR, Englewood Cliffs,  
-3. R Panneerselvam, Design and Analysis of Experiments- PHI Learning Private Limited,New Delhi. 
+2. Madhav S. Phadke, Quality Engineering using Robust Design- Prentice Hall PTR, Englewood Cliffs, 
+3. R Panneerselvam, Design and Analysis of Experiments- PHI Learning Private Limited, New Delhi. 
 Reference Books: 
-1. Robert H. Lochner and Joseph  E. Matar, Designing for Quality- an Introduction Best of Taghuchi 
+1. Robert H. Lochner and Joseph E. Matar, Designing for Quality- an Introduction Best of Taghuchi 
 and Western Methods or Statistical Experimental Design- Chapman and Hall. 
 3. P .J.Ross, Taghuchi Techniques for Quality Engineering- McGraw Hill, New York. 
- 
-## Page 130
-
-FMCD2009 / 2.0 
+  ## Page 130
+ FMCD2009 / 2.0 
  130 
 ←BACK TO SEMESTER VII 
- 
-Program: Bachelor of Engineering Semester: VII 
-Course Title: Dynamics & Durability of Vehicles Course Code: 19EMEE401   
+  Program: Bachelor of Engineering Semester: VII 
+Course Title: Dynamics & Durability of Vehicles Course Code: 19EMEE401 
 L-T-P: 0-0-3 Credits: 3 Contact Hours: 6 Hrs/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
-Teaching Hours: 80 Examination Duration: 2 Hrs  
- 
- PART A 
+Teaching Hours: 80 Examination Duration: 2 Hrs 
+   PART A 
 (Dynamics of Vehicles) 
- 
-Sl. No Content Teaching 
+  Sl. No Content Teaching 
 Hours 
 1 Introduction - Kinematics & Compliance in vehicles; 02 
 2 Introduction to Roads and Loads; 02 
@@ -5435,10 +5080,10 @@ Hours
 7 Introduction - Flex Body; 02 
 8 Durability example with and without Flex body; 03 
 9 Control systems in Multi-Body; 04 
- Hands on Session  
+ Hands on Session 
 1 Build a 2/3-wheeler suspension system to carry out K&C 08 
 2 Build a 3-wheeler suspension system to carry out loads extraction for durability 08 
- PART B (Durability of Vehicles)  
+ PART B (Durability of Vehicles) 
 1 Conduction, Convection, Steady state, Transient flows, Turbulence and its 
 significance 
 03 
@@ -5452,21 +5097,19 @@ significance
 9 Importance of Drag co-eff for vehicles moving at high speeds 02 
 10 Fast assessment of A-Surface design for drag using VWT 02 
 11 Introduction to thermal management in electronic circuits 03 
- Hands on Session  
+ Hands on Session 
 1 Assume 2 different designs and compare the thermal performance 07 
 2 Prepare 2 vehicle designs (external surface) and compute drag 07 
 Text Books 
-1. Dr. N.K. Giri, Automotive Mechanics, 8thEdition,2008, Khanna Publication, New Delhi. 
+1. Dr. N.K. Giri, Automotive Mechanics, 8thEdition, 2008, Khanna Publication, New Delhi. 
 2. Nitin Ghokale, Practical finite element analysis, Finite to infinite, 2008. 
 3. Practical Aspects of Structural Optimization, Altair University, 3rd Edition. 
-4. Robin Hardy, Iqbal Husain, "Electric and Hybrid Vehicles”. CRC Press, ISBN 0-8493-1466-6. 
-5. Ron Hodkinson and John Fenton, “Lightweight Electric/ Hybrid Vehicle Design”. SAE International 
+4. Robin Hardy, Iqbal Husain, "Electric and Hybrid Vehicles". CRC Press, ISBN 0-8493-1466-6. 
+5. Ron Hodkinson and John Fenton, "Lightweight Electric/ Hybrid Vehicle Design". SAE International 
 6. John M. Miller, Propulsion Systems for Hybrid Vehicles" Institute of Electrical Engineers, London, 
 ISBN0 863413366. 
-
-## Page 131
-
-FMCD2009 / 2.0 
+ ## Page 131
+ FMCD2009 / 2.0 
  131 
 7. Automobile Electrical and Electronic systems, Tom Denton, Third Edition, 2004, SAE International, 
 SAE ISBN 0 7680 147 2, Society of Automotive Engineers. Inc 400 common wealth Drive, Warrendale, 
@@ -5483,29 +5126,26 @@ airflow
 Sl. No. Content 
 01 Compute Delta T for a chosen EV battery pack 
 02 Improve drag performance of a chosen external vehicle element 
- 
-## Page 132
-
-FMCD2009 / 2.0 
+  ## Page 132
+ FMCD2009 / 2.0 
  132 
 ←BACK TO SEMESTER VII 
- 
-Program: Bachelor of Engineering Semester: VII 
-Course Title: Operations Management Course Code: 15EMEE405  
+  Program: Bachelor of Engineering Semester: VII 
+Course Title: Operations Management Course Code: 15EMEE405 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
 Chapter 1. Operations management & operations decision making: 8 Hrs 
 Introduction, importance of operations management in manufacturing and service industries, 
 Competitiveness, Strategy, Productivity, Factors affecting productivity. The environment of operations, 
-Location Planning and   Analysis, Characteristics of decisions, framework for decision -making, decision 
+Location Planning and Analysis, Characteristics of decisions, framework for decision -making, decision 
 methodology, decision support systems, economic models and statistical models. Numericals 
 Chapter 2. Forecasting: 4 Hrs 
 Forecasting objectives and uses, steps in forecasting process, opinion and judgmental methods, time 
 series methods, exponential smoothing, regression and correlation methods, application and control of 
 forecasts. Numericals 
-Chapter 3. Aggregate planning and master scheduling: 4 Hrs                        
+Chapter 3. Aggregate planning and master scheduling: 4 Hrs 
 Introduction- Planning and scheduling, objectives of aggregate planning and Aggregate planning 
 methods, master scheduling objectives, master scheduling methods, Numericals 
 Unit II 
@@ -5513,42 +5153,39 @@ Chapter 4. MRP and ERP: 4 Hrs
 Overview: MRP and CRP , MRP: Underlying concepts, System parameters, Benefits and requirements of 
 MRP , MRP logic, MRP Processing, Capacity management, and CRP activities. MRP , MRP -II and 
 ERP ,Numericals 
-Chapter 5. Scheduling, single machine scheduling & flow –shop & Job shop scheduling: 12 Hrs 
+Chapter 5. Scheduling, single machine scheduling & flow -shop & Job shop scheduling: 12 Hrs 
 Production activities, PAC objectives and data requirements, concept, measures of performance, SPT rule, 
-Weighted MFT, EDD rule, minimizing the number of tardy jobs. Numerical problems, Johnson ’s rule for 
+Weighted MFT, EDD rule, minimizing the number of tardy jobs. Numerical problems, Johnson 's rule for 
 'n' jobs on 2 and 3 machines. Numericals. 
 Job-shop scheduling: Types of schedules, heuristic procedure, scheduling 2 jobs on 'm' machines. 
 Numericals 
 Unit III 
-Chapter 6. Lean manufacturing: 4 Hrs   
+Chapter 6. Lean manufacturing: 4 Hrs 
 Introduction, Japanese concept of continuous improvement (Ka izen), innovation concept of 
 improvement, need for continuous improvement, steps in implementing continuous improvement, 5S 
-principles, Lean Tools, Lean Services, Lean manufacturing history.                                                                 
+principles, Lean Tools, Lean Services, Lean manufacturing history. 
 Chapter 7. Just in time- an introduction: 4 Hrs 
 Spread of JIT movement, the new production system research association of Japan, core Japanese 
 practices of JIT , creating continuous manufacture, Enabling JIT to occur, basic element of JIT , benefits of 
 JIT. 
 Text Books 
-1. William J Stevenson “Operations Management” Mc Graw Hill,2018,12th Edition   
-2. Krajewski E. J. and Ritzman, ‘Operations Management’, Strategy and Analysis, Pearson Education, 
+1. William J Stevenson "Operations Management" Mc Graw Hill, 2018, 12th Edition 
+2. Krajewski E. J. and Ritzman, 'Operations Management', Strategy and Analysis, Pearson Education, 
 2018. 
 Reference Books 
 1. Monks, J.G., Operations Management, McGraw-Hill International Edition, 1987. 
 2. Pannerselvam. R., Production and Operations Management, Prentice Hall India, 2003 
-3. Chary, S.N., ‘Production and Operations Management’ , Tata-McGraw HilI, 2004 
-4. Nicholas J. Aquilano, ‘Fundamental of Operations Management’, Irwin/McGraw-Hill; 4th edition. 
- 
-## Page 133
-
-FMCD2009 / 2.0 
+3. Chary, S.N., 'Production and Operations Management' , Tata-McGraw HilI, 2004 
+4. Nicholas J. Aquilano, 'Fundamental of Operations Management', Irwin/McGraw-Hill; 4th edition. 
+  ## Page 133
+ FMCD2009 / 2.0 
  133 
 ←BACK TO SEMESTER VII 
- 
-Program: Bachelor of Engineering Semester: VII 
+  Program: Bachelor of Engineering Semester: VII 
 Course Title: Supply Chain Management Course Code: 15EMEE406 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
 Chapter 1. Understanding Supply Chain: 5 Hrs 
 Meaning of SCM, Supply chain stages, Decision phases in supply chain (SC), Process view of SC, Examples 
@@ -5580,30 +5217,27 @@ Chapter 8. Emerging Concepts in Supply Chain: 5 Hrs
 Role of E-Business in SC, E-Business frame work, Reverse Logistics; Reasons, Activities, Role, RFID Systems; 
 Components, applications, implementation. 
 Text Books 
-1. Sunil Chopra and Peter Meindl’Supply Chain Management – Strategy, Planning and Operation,  II ed 
+1. Sunil Chopra and Peter Meindl'Supply Chain Management - Strategy, Planning and Operation, II ed 
 2003, Pearson Education Inc. ISBN: 81-297-0172-3. 
-2.   Douglas Lambert and James Stock, Strategic Logistics Management”, ‘, IV Ed, Irwin MGH ISBN: 0-07-      
+2. Douglas Lambert and James Stock, Strategic Logistics Management", ', IV Ed, Irwin MGH ISBN: 0-07- 
 118122-9. 
 Reference Books 
-1. Michael Hugos, ’Essentials of Supply Chain Management, ‘, Ed 2003, John Wiley and   Sons. 
-2. Robert B. Handfield and Ernest L.  Nichols, Supply Chain Redesign -Transforming Supply Chain into 
+1. Michael Hugos, 'Essentials of Supply Chain Management, ', Ed 2003, John Wiley and Sons. 
+2. Robert B. Handfield and Ernest L. Nichols, Supply Chain Redesign -Transforming Supply Chain into 
 Integrated Value Systems, ed 2002, Pearson Education Inc. ISBN: 81- 297-0113-8. 
-3. Jeremy F. Shapiro and Duxbury, Modeling the Supply Chain”, Ed 2002, Thomson Learning. ISBN: 0-
+3. Jeremy F. Shapiro and Duxbury, Modeling the Supply Chain", Ed 2002, Thomson Learning. ISBN: 0-
 534-37363. 
-4. Kapoor, Marketing Logistics: A Supply Chain Approach ”, Pearson Education Pvt Ltd. ISBN -
+4. Kapoor, Marketing Logistics: A Supply Chain Approach ", Pearson Education Pvt Ltd. ISBN -
 8129702444. 
-
-## Page 134
-
-FMCD2009 / 2.0 
+ ## Page 134
+ FMCD2009 / 2.0 
  134 
 ←BACK TO SEMESTER VII 
- 
-Program: Bachelor of Engineering Semester: VII 
+  Program: Bachelor of Engineering Semester: VII 
 Course Title: Modern Trends in Manufacturing Course Code: 15EMEE417 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
 Chapter 1. Systematic Approach for Manufacturing Strategy: 4 Hrs 
 Seven Losses Regarding Productivity and Profitability, Feasibility Study of Productivity Improvement, Four 
@@ -5614,24 +5248,24 @@ Productivity, Necessity of Facts and Work Measurement.
 Productivity, Purpose of Productivity Improvement, Engineering Approach for Productivity, Three Levels 
 of Improvement, Points of Successful Productivity, Relationship of Methods, Performance, and Utilization 
 to Standard Time. 
-Chapter 3. Concurrent Engineering:  3 Hrs 
+Chapter 3. Concurrent Engineering: 3 Hrs 
 Introduction, importance of CE, building blocks of CE, Important factors in concurrent engineering 
-process, communication models, benefits and its tools.   
+process, communication models, benefits and its tools. 
 Unit II 
 Chapter 4. Continuous Process Improvement: 8 Hrs 
 Introduction, Japanese concept of continuous improvement (kaizen), innovation concept of 
 improvement, need for continuous improvement, tools for continuous improvement, steps in 
 implementing continuous improvement, three pil lars of continuous improvement, standardization, 
 quality circles, suggestion systems, kaizen and management, kaizen umbrella, TPM, Six sigma, FMEA and 
-discussion of few case studies.  
-Chapter 5. Pull Production Systems:  7 Hrs       
+discussion of few case studies. 
+Chapter 5. Pull Production Systems: 7 Hrs 
 Introduction to TPS, KANBAN system, difference between pull and push system, other types of kanban, 
 kanban rules, adapting to fluctuation in demand through kanban, a detailed kanban system example, 
 supplier kanban and sequence schedule for kanban. 
 Unit III 
-Chapter 6.  Quality Management Systems: 5 Hrs 
-Need for ISO 9000 and Other Quality Systems, ISO 9000:2000 Quality System – Elements, Implementation 
-of Quality System, Documentation, Quality Auditing, QS 9000, ISO 14000 –Concept, Requirements and 
+Chapter 6. Quality Management Systems: 5 Hrs 
+Need for ISO 9000 and Other Quality Systems, ISO 9000:2000 Quality System - Elements, Implementation 
+of Quality System, Documentation, Quality Auditing, QS 9000, ISO 14000 -Concept, Requirements and 
 Benefits. Occupational Health & Safety Management (OSHAS -18001) standards, Environmental 
 Management Certification (ISO 14001) and its benefits to stakeholders. 
 Chapter 7. Six sigma: 5 Hrs 
@@ -5639,25 +5273,22 @@ Principles of Six sigma, project selection for six sigma, six sigma problem solv
 sigma in service and small organization, six sigma and lean production, statistical thinking and application, 
 statistical foundation, statistical methodology, design of experiments, analysis of variances 
 Text Books 
-1. Masaki Imai, ‘KAIZEN’, McGraw Hill International. 
+1. Masaki Imai, 'KAIZEN', McGraw Hill International. 
 2. Shigeyasu Sakamoto, "Beyond World-Class Productivity", Springer-Verlag London Limited 2010. 
 3. Dale H. Besterfield, "Total Quality Management", Pearson Education, Asia. 
 Reference Books 
-1. Richard J. Schonberger, ‘Japanese Manufacturing Tec hniques’, the Free Press – Macmillan 
+1. Richard J. Schonberger, 'Japanese Manufacturing Tec hniques', the Free Press - Macmillan 
 Publication. 
-2.  James R. Evans and William M. Lindsay, ‘The Management and Control of Quality’. 
- 
-## Page 135
-
-FMCD2009 / 2.0 
+2. James R. Evans and William M. Lindsay, 'The Management and Control of Quality'. 
+  ## Page 135
+ FMCD2009 / 2.0 
  135 
 ←BACK TO SEMESTER VII 
- 
-Program: Bachelor of Engineering Semester: VII 
+  Program: Bachelor of Engineering Semester: VII 
 Course Title: Computational Heat Transfer and Fluid Flow Course Code: 15EMEE407 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
 Chapter 1. Computational Fluid Dynamics (CFD) Solution Procedure: 7 Hrs 
 CFD applications in Research and Design, CFD Problem set -up-Creation of geometry, Mesh generation, 
@@ -5668,81 +5299,78 @@ Continuity Equation, Momentum Equation, Energy Equation- Physical Interpretation
 additional equations for turbulent flow, Generic form of Governing equations, Physical Boundary 
 conditions 
 Unit II 
-Chapter 3. CFD Techniques:  7 Hrs                                                                                                          
+Chapter 3. CFD Techniques: 7 Hrs 
 Discretization of Governing Equations - Finite difference method, Finite volume method, Converting 
 governing equations into algebraic equations, Direct and Iterative solutions, Pressure- velocity coupling-
 SIMPLE scheme 
-Chapter 4. CFD Solution Analysis: 8 Hrs                                                                                                  
+Chapter 4. CFD Solution Analysis: 8 Hrs 
 Consistency, Stability, Convergence, Accuracy and Efficiency of CFD solutions. Accelerating convergence, 
 controlling solution errors, verification and Validation. Case studies related to fluid flow through channel 
 and pipe bend 
 Unit III 
-Chapter 5. Practical Guidelines for CFD Simulation and Analysis: 5 Hrs                                            
-Grid generation- Guidelines on grid quality and grid design, Local  refinement and solution adaption.  
-Guidelines on Boundary conditions – Setting inlet, outlet and wall boundary conditions. Symmetric and 
+Chapter 5. Practical Guidelines for CFD Simulation and Analysis: 5 Hrs 
+Grid generation- Guidelines on grid quality and grid design, Local refinement and solution adaption. 
+Guidelines on Boundary conditions - Setting inlet, outlet and wall boundary conditions. Symmetric and 
 Periodic Boundary conditions. Turbulence Modelling - Approaches, selection strategies, Case study: 
 modeling of hydrofoil flows 
 Chapter 6. Advanced Topics in CFD: 5 Hrs 
-Advances in Numerical methods and Techniques - Moving grids, Multigrids, Parallel Computing  and 
+Advances in Numerical methods and Techniques - Moving grids, Multigrids, Parallel Computing and 
 Immersed boundary methods. Advances in computational models - Direct numerical Simulation (DNS), 
 Large Eddy Simulat ion (LES), RANS -LES, Lattice Boltzmann method, Monte -Carlo method, Particle 
 methods 
 Text Books 
 1. Jiyuan Tu, Guan Heng Yeoh, Chaoqun, Computational Fluid Dynamics, Butterworth - Heinemann, 1st 
-Edition 2008  
+Edition 2008 
 2. Dale A. Anderson, John C. Tannehill and Richard H. Platcher. Computational Fluid Mechanics and 
 Heat Transfer; McGraw Hill Book Company, 2001 
 Reference Books 
 1. Suhas V. Patankar, Numerical Fluid flow and Heat transfer, Hemisphere Series on Computational 
-Methods in Mechanics and Thermal Science, 2nd Edn. 2000  
+Methods in Mechanics and Thermal Science, 2nd Edn. 2000 
 2. Joel H. Ferziger and Milovan Peric, Computational Methods for Fluid Dynamics, 3rd Edition, Springer-
 Verlag, Berlin, 2001 
 3. Anderson J D, Computational Fluid Dynamics- The Basics with Applications, MGH, 2nd Ed. 2001 
- 
-## Page 136
-
-FMCD2009 / 2.0 
+  ## Page 136
+ FMCD2009 / 2.0 
  136 
 ←BACK TO SEMESTER VII 
- 
-Program: Bachelor of Engineering Semester: VII 
+  Program: Bachelor of Engineering Semester: VII 
 Course Title: Fundamentals of Gas Turbines Course Code: 15EMEE408 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
 Chapter 1. Principles of Gas Turbine and Applications: 4 Hrs 
-Introduction to turbo machines, history of gas turbines, gas turbine cycles and applications – (Land, 
+Introduction to turbo machines, history of gas turbines, gas turbine cycles and applications - (Land, 
 Water/Marine and Air/Aero) Components of Gas Turbines (Compressors, Combustors, Turbines, Exhaust 
 systems). Working of Gas Turbines. 
-Chapter 2. Compressor:  7 Hrs 
+Chapter 2. Compressor: 7 Hrs 
 Types of compressors, (Centrifugal and Axial), relative merits and demerits, Criteria for selecting type of 
-compressors.  
+compressors. 
 Centrifugal Compressors: Principle of operation, work done and pressure rise diffuser, compressibility 
-effects, compressor characteristics and design procedures.  
+effects, compressor characteristics and design procedures. 
 Axial Flow Compressor: Basic operations, elementary theory, factors affecting stage pressure ratio, 
 Blockage in the compressor annu lus, effect of compressibility, pre -whirl, supersonic flow, degree of 
 reaction, design process, blade design, calculation of stage performance, off-design performance. 
 Chapter 3. Fuel System: 4 Hrs 
 Fuel specifications, Properties, Manual and automatic cont rol, Fuel control systems, Fuel spray nozzles, 
 Fuel heating, Effect of a change of fuel, Gas turbine fuels, Fuel requirements, Vapor locking and boiling, 
-Fuel contamination control.                                                                
+Fuel contamination control. 
 Unit II 
 Chapter 4. Combustion System: 5 Hrs 
 Introduction, Combustion process, Enthalpy of formation, Fuel supply, Types of combustion chamber, 
 Can-annular combustion chamber, Tube -annular combustion chamber, Annular combustion chamber, 
 Combustion chamber performance , Combustion intensity, Combustion efficiency, Combustion stability 
 Emissions, Materials. 
-Chapter 5. Axial Flow Turbines:  5 Hrs 
+Chapter 5. Axial Flow Turbines: 5 Hrs 
 Types of Turbines, spool shafts in aero engines, Advantages and disadvantages, Turbine geometry, 
 Thermodynamic and Aerodynamic theory, velocity diagrams, Impulse turbine, turbine blade cooling. 
 Exhaust System: Introduction, Exhaust gas flow, environmental considerations, construction and 
-materials.  
+materials. 
 Chapter 6. Prediction of Performance of Simple Gas Turbines: 5 Hrs 
 Component characteristics, off design operation of the single shaft gas turbine, off -design operation of 
-free turbine engine.                 
+free turbine engine. 
 Unit III 
-Chapter 7. Cooling, Seals and Lubrication System: 5 Hrs                                                       
+Chapter 7. Cooling, Seals and Lubrication System: 5 Hrs 
 The cooled turbine, methods of blade cooling, Seals: Non contacting seals - labyrinth seals, ring seals, 
 Mechanical seals, Seal system, and dry gas seals, attrition coatings. Lubrication Systems: Basic oil system, 
 lubrication management program, selection, oil contamination, filter selection, cleaning and flushing, oil 
@@ -5751,54 +5379,49 @@ Chapter 8. Materials of Gas turbine and Maintenance: 5 Hrs
 Introduction, Super alloys-Nickel based iron-nickel, Cobalt, Thermal barrier coating for jet engine alloys, 
 advanced mat erials for jet engines. Maintenance: Introduction, On -wing maintenance, Scheduled 
 maintenance, Unscheduled maintenance, Condition monitoring, Flight deck indicators, In -flight 
-recorders, Ground indicators, Maintenance precautions, Trouble shooting, Adjustments, Ground testing.             
+recorders, Ground indicators, Maintenance precautions, Trouble shooting, Adjustments, Ground testing. 
 Text Books: 
-
-## Page 137
-
-FMCD2009 / 2.0 
+ ## Page 137
+ FMCD2009 / 2.0 
  137 
-1. Rolls Royce - “The Jet Engine” 5th edition, ISBN 0 902121 2 35,© Rolls-Royce plc 1986 
+1. Rolls Royce - "The Jet Engine" 5th edition, ISBN 0 902121 2 35,© Rolls-Royce plc 1986 
 2. Saravanamutto H.I.H, Rogers G.F.C., Cohen H, Gas Turbine Theory, 5th Edn., Pearson 2006 
 Reference Books 
-1. Meherwan P. Boyce “Aircraft Propulsion and Gas Turbine Engines”, CRC press, Taylor and Francis 
+1. Meherwan P. Boyce "Aircraft Propulsion and Gas Turbine Engines", CRC press, Taylor and Francis 
 Group, London New York.ISBN 978-0-8493-9196-5 
-2. Meherwan P . Boyce “Gas Turbine Engineering Handbook (Fourth Edition)”, 2012, Elesevier, ISBN-
+2. Meherwan P . Boyce "Gas Turbine Engineering Handbook (Fourth Edition)", 2012, Elesevier, ISBN-
 978-0-12-383842-1 
- 
-## Page 138
-
-FMCD2009 / 2.0 
+  ## Page 138
+ FMCD2009 / 2.0 
  138 
 ←BACK TO SEMESTER VII 
- 
-Program: Bachelor of Engineering Semester: VII 
+  Program: Bachelor of Engineering Semester: VII 
 Course Title: Optimization Methods Course Code: 24EMEE408 
 L-T-P: 1-0-2 Credits: 3 Contact Hours: 5 Hrs/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
-Teaching Hours: 65 Examination Duration: 2 Hrs  
+Teaching Hours: 65 Examination Duration: 2 Hrs 
 Chapter 1. Introduction to Optimization: 10 Hrs 
 Introduction, Engineering Applications of Optimization, Optimization Techniques, Classification of 
 Optimization Problems, Tool. 
 Chapter 2. Analysis, Connection definition, Model Simplification: 8 Hrs 
 Chapter 3. Topology Optimization: 8 Hrs 
 Introduction to Topology Optimization, Design Space, Shape Controls, Displacement Constraints 
-Run Optimization –Topology, Shape Explorer –Topology, Maximize Stiffness Results, Minimize Mass 
+Run Optimization -Topology, Shape Explorer -Topology, Maximize Stiffness Results, Minimize Mass 
 Results 
 Chapter 4. Topography Optimization: 8 Hrs 
 Introduction to Topography Optimization, Topography Optimization Setup, Shape Controls, Bead Patterns 
-Run Optimization –Topography, Exporting Topography Results, Analysing & Comparing Topography 
+Run Optimization -Topography, Exporting Topography Results, Analysing & Comparing Topography 
 Results 
 Chapter 5. Gauge Optimization: 4 Hrs 
-Introduction to Gauge Optimization, Run Optimization –Gauge, Analysing & Comparing Gauge Results 
+Introduction to Gauge Optimization, Run Optimization -Gauge, Analysing & Comparing Gauge Results 
 Chapter 6. Fastener Optimization, Lattice Optimization: 8 Hrs 
 Introduction to Fastener Optimization, Introduction to Lattice Optimization 
-Run Optimization –Lattice, Lattice Properties , Lattice Diameter Result Type, Smooth Lattice ,Lattice 
+Run Optimization -Lattice, Lattice Properties , Lattice Diameter Result Type, Smooth Lattice ,Lattice 
 Results 
 Chapter 7. Motion Analysis Introduction : 14 Hrs 
 Inspire Motion Overview , Workflow, Geometry handling, Moving and ground parts, Rigid Groups , Joints, 
 Actuators ,Motors, Using Table Data as input, Springs /Dampers, Gravity, Using Inspire Structures Features 
-with motion, Analyze motion   Animating results, Plotting results , Tracers , Running Optimization from 
+with motion, Analyze motion Animating results, Plotting results , Tracers , Running Optimization from 
 motion loads and results, Exporting to Motion View 
 Chapter 8. Manufacturing Analysis Introduction: 5 Hrs 
 Introduction to Manufacture, Casting and stamping simulation 
@@ -5807,17 +5430,15 @@ Reference Books
 Inc. 
 2. Practical_ Aspects_ of_ Optimization_ with_ Altair_ OptiStruct by Altair Engineering 
 3. Simulation_ Driven_ Design_ with_ Inspire by Altair Engineering 
- 
-## Page 139
-
-FMCD2009 / 2.0 
+  ## Page 139
+ FMCD2009 / 2.0 
  139 
 ←BACK TO SEMESTER VII 
 Program: Bachelor of Engineering Semester: VII 
 Course Title: HVAC Systems Course Code: 24EMEE405 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
 Chapter 1. Introduction to HVAC Systems and Psychrometry: 8 Hrs 
 Purpose, applications, definition and components of air conditioning - Need and methods of ventilation. 
@@ -5830,7 +5451,7 @@ Heat transfer from body, convection, radiation, conduction, evaporation, clothin
 quality. 
 Chapter 3. Summer and Winter AC Systems and Equipment: 4 Hrs 
 Simple summer AC process, Room sensible heat factor, Coil sensible heat factor, ADP - Precision AC - 
-Winter AC. Classification of air conditioning systems, Filters, types, efficiency – Fan laws, cooling coils and 
+Winter AC. Classification of air conditioning systems, Filters, types, efficiency - Fan laws, cooling coils and 
 heating coils, sizing and off design performance - Cooling and dehumidifying coil, dry and wet, sizing, 
 performance. 
 Unit II 
@@ -5842,10 +5463,10 @@ Thermodynamics of human body and mathematical model, Human comfort chart, Design
 outdoor, indoor - External load, wall, roof, glass - Internal load, occupancy, lighting, equipments - 
 Ventilation, air quantity, loads - Load estimation methods. Vapour transfer in wall, vapour barrier, load 
 estimation basics. 
-Introduction  to AutoCAD REVIT software 
+Introduction to AutoCAD REVIT software 
 Chapter 6. Air distribution, diffusion and Ventilation: 6 hrs 
 Ducts, types, energy equation for pipe flow, friction chart, methods of sizing, air distribution systems, 
-ADPI, outlet/inlet selection.  
+ADPI, outlet/inlet selection. 
 Need, threshold limits of contaminants, estimation of v entilation rates, decay equation, air flow round 
 buildings, Natural, wind effect, stack effect, combined effect - Mechanical, forced, exhaust, combined - 
 Displacement ventilation 
@@ -5860,132 +5481,118 @@ Analysis and Design, 6th Edition, July 2004,
 2. W P Jones, Air Conditioning Engineering ELBS 3rd edn Edward Arnold (Publishers) ltd. London. 
 Reference Books 
 1. Harris, Modern Air Conditioning Practice 3nd Edn McGraw Hill Book Company 
-2. S. N. Sapali, Refrigeration and air conditioning 2nd Edn, PHI learning pvt ltd, Delhi 2016  
+2. S. N. Sapali, Refrigeration and air conditioning 2nd Edn, PHI learning pvt ltd, Delhi 2016 
 3. C P Arora, Refrigeration and air conditioning 3rd edn 
-
-## Page 140
-
-FMCD2009 / 2.0 
+ ## Page 140
+ FMCD2009 / 2.0 
  140 
 ←BACK TO SEMESTER VII 
- 
-Program: Bachelor of Engineering Semester: VII 
+  Program: Bachelor of Engineering Semester: VII 
 Course Title: Design of Jigs, Fixtures and Press Tools Course Code: 24EMEE404 
 L-T-P: 2-0-1 Credits: 3 Contact Hours: 4 Hrs/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
-Teaching Hours: 30 Examination Duration: 3 Hrs  
+Teaching Hours: 30 Examination Duration: 3 Hrs 
 Unit I 
 Chapter 1. Principles of Jigs & Fixtures: 04 Hrs 
 Objectives of tool design, Function and advantages of Jigs and fixtures, Basic elements - principles of 
 location, Locating methods and devices, Redundant Location, Principles of clamping, Mechanical 
-actuation – pneumatic and hydraulic actuation, Standard parts – Drill bushes and Jig buttons, Tolerances 
-and materials used.  
+actuation - pneumatic and hydraulic actuation, Standard parts - Drill bushes and Jig buttons, Tolerances 
+and materials used. 
 Chapter 2. Design and development of jigs and fixtures: 08 Hrs 
-Types of Jigs – Post, Turnover, Channel, latch, box, pot, angular post jigs, Indexing jigs, General principles 
+Types of Jigs - Post, Turnover, Channel, latch, box, pot, angular post jigs, Indexing jigs, General principles 
 of milling, Lathe, boring , broaching and grinding fixtures, Assembly, Inspection and Welding fixtures, 
 Modular fixturing systems, Quick change fixtures. 
 Unit II 
 Chapter 3. Press Working Terminologies and Elements of Cutting Dies: 06 Hrs 
-Press Working Terminologies – operations, Types of presses – press accessories, Computation of press 
+Press Working Terminologies - operations, Types of presses - press accessories, Computation of press 
 capacity, Strip layout, Material Utilization, Shearing action, Clearances, Press Work Materials, Center of 
-pressure, Design of various elements of dies, Die Block – Punch holder, Die set, guide plat es, Stops – 
-Strippers – Pilots, Selection of Standard parts, Design and preparation of four standard views of simple 
+pressure, Design of various elements of dies, Die Block - Punch holder, Die set, guide plat es, Stops - 
+Strippers - Pilots, Selection of Standard parts, Design and preparation of four standard views of simple 
 blanking, piercing, compound and progressive dies. 
 Chapter 4. Bending and Drawing Dies: 06 Hrs 
-Difference between bending and drawing – Blank development for above operations, Types of Bending 
-dies, Press capacity, Spring back – knockouts – direct and indirect – pressure pads, Ejectors, Variables 
-affecting Metal flow in drawing operations – draw die inserts – draw beads ironing, Design and 
+Difference between bending and drawing - Blank development for above operations, Types of Bending 
+dies, Press capacity, Spring back - knockouts - direct and indirect - pressure pads, Ejectors, Variables 
+affecting Metal flow in drawing operations - draw die inserts - draw beads ironing, Design and 
 development of bending, forming, drawing, reverse redrawing and combination dies, Blank development 
 for axisymmetric, rectangular and elliptic parts, Single and double action dies. 
 Unit III 
 Chapter 5. Other Forming Techniques: 06 Hrs 
 Bulging, Swaging, Embossing, coining, curling, hole flanging, shaving and sizing, assembly, fine Blanking 
-dies – recent trends in tool design, Computer aids for sheet metal forming analysis – basic introduction - 
+dies - recent trends in tool design, Computer aids for sheet metal forming analysis - basic introduction - 
 tooling for numerically controlled machines- setup reduction for work holding, Single minute exchange 
-of dies – Poka Yoke. 
+of dies - Poka Yoke. 
 Hands-on activities No. of 
 sessions 
 1. Design the different types of jigs (channel jig, leaf jig, etc.) for a given application. 04 
 2. Design various fixtures (milling, welding, etc.) for a given component. 04 
 3. Design press tools for the given component. 04 
 Text Books 
-1. Joshi P . H., “Jigs and Fixtures”, 3rd edition, McGraw Hill Education, 2017. 
-2. Joshi P . H., “Press Tools Design and Construction”, 23rd edition, S Chand & Company, 2017. 
+1. Joshi P . H., "Jigs and Fixtures", 3rd edition, McGraw Hill Education, 2017. 
+2. Joshi P . H., "Press Tools Design and Construction", 23rd edition, S Chand & Company, 2017. 
 Reference Books 
-1. John Nee, “Fundamentals of Tool Design”, 6th edition, Society of Manufacturing Engineers, 2010. 
-2. Frank W. Wilson, “Fundamentals of Tool Design”, Prentice Hall, 1962. 
-3. K. Venkataraman, “Design of Jigs, Fixtures and Press Tools”, John Wiley & Sons Ltd., 2015. 
- 
-## Page 141
-
-FMCD2009 / 2.0 
+1. John Nee, "Fundamentals of Tool Design", 6th edition, Society of Manufacturing Engineers, 2010. 
+2. Frank W. Wilson, "Fundamentals of Tool Design", Prentice Hall, 1962. 
+3. K. Venkataraman, "Design of Jigs, Fixtures and Press Tools", John Wiley & Sons Ltd., 2015. 
+  ## Page 141
+ FMCD2009 / 2.0 
  141 
  ←BACK TO SEMESTER VII 
- 
-Program: Bachelor of Engineering Semester: VII 
+  Program: Bachelor of Engineering Semester: VII 
 Course Title: Facets of Project Analysis Course Code: 24EMEE407 
 L-T-P: 2-0-1 Credits: 3 Contact Hours: 4 Hrs/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
-Teaching Hours: 30 Examination Duration: 2 Hrs  
+Teaching Hours: 30 Examination Duration: 2 Hrs 
 Unit I 
 Chapter 1. Planning Overview and Resource Allocation:6 Hrs 
 Phases of capital investments, levels of decision making, facets of project analysis, concept of strategy, 
-diversification debate, portfolio strategy, generation and screening of project ideas, related blogs.  
- 
-Chapter 2. Market and Demand Analysis: 8 Hrs 
+diversification debate, portfolio strategy, generation and screening of project ideas, related blogs. 
+  Chapter 2. Market and Demand Analysis: 8 Hrs 
 Situational analysis and specification of objectives, collection of secondary information, conduct of 
-market survey, characterization of market, demand forecasting, marketing plan, related blogs.  
- 
-Unit II 
+market survey, characterization of market, demand forecasting, marketing plan, related blogs. 
+  Unit II 
 Chapter 3. Technical Analysis: 8 Hrs 
 Manufacturing process/technology, technical arrangements, material inputs and utilities, product mix, 
 plant capacity, location and site, machineries and equipment, structures and civil works, environmental 
-aspects, project charts and layouts, related blogs.  
- 
-Chapter 4. Financial and Related Analysis: 8 Hrs 
+aspects, project charts and layouts, related blogs. 
+  Chapter 4. Financial and Related Analysis: 8 Hrs 
 Costs of project, means of finance, estimates of sales and production, cost of production, projected cash 
 flow statements, time value of money, project risk analysis, economic and ecological analysis, related 
-blogs.  
+blogs. 
 Experiments No. of 
 sessions 
-1. Collaborations for a Turnkey Project using PLM Approach – 10 Hrs 
+1. Collaborations for a Turnkey Project using PLM Approach - 10 Hrs 
        Managing workspace for a feasi bility study, routes for portfolio strategies, issue 
 management and common document model approach during market and demand 
-analysis, case studies.  
+analysis, case studies. 
 05 
-2. Managing Technical Analysis using PLM approach – 10 Hrs 
+2. Managing Technical Analysis using PLM approach - 10 Hrs 
         Create and manage libraries, class and groups for a chosen project, generate and track 
 changes, work on issues and baselines, monitor the projects, execute project, case 
 studies 
 05 
-3. Managing Financial Analysis using PLM approach  – 4 Hrs 
+3. Managing Financial Analysis using PLM approach - 4 Hrs 
         Risk management, managing resources, budgets and benefits using advanced project 
-management, case studies.   
+management, case studies. 
 02 
 Reference Books 
-1. Prasanna Chandra, "Projects: Planning, Analysis, Financing, Implementation and Review", CFM – 
+1. Prasanna Chandra, "Projects: Planning, Analysis, Financing, Implementation and Review", CFM - 
 MHE Professional Series, McGraw Hill Education, 8th Edition, 2014 
 2. Stark John, "Pro duct Lifecycle Management: 21st Century Paradigm for Product Realization", 
 Springer, Third Edition, 2015 
 3. Kerzner, Harold. Project management: a systems approach to planning, scheduling, and controlling. 
 John Wiley & Sons, 2017. 
- 
-## Page 142
-
-FMCD2009 / 2.0 
+  ## Page 142
+ FMCD2009 / 2.0 
  142 
- 
-← BACK TO SEMESTER VIII 
- 
-Program: Bachelor of Engineering Semester: VIII 
-Course Title: Internship – Training Course Code: 18EMEI493 
+  ← BACK TO SEMESTER VIII 
+  Program: Bachelor of Engineering Semester: VIII 
+Course Title: Internship - Training Course Code: 18EMEI493 
 L-T-P: 0-0-6 Credits: 6 Contact Hours: --- 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
-Teaching Hours: --- Examination Duration: 3 Hrs  
- 
-Internships are educational and career development opportunities, providing practical experience in a 
+Teaching Hours: --- Examination Duration: 3 Hrs 
+  Internships are educational and career development opportunities, providing practical experience in a 
 field or discipline. They are structured, short -term, supervised placements often focused around 
-particular tasks or projects with defined timescales.  
+particular tasks or projects with defined timescales. 
 An internship may be compensated, non-compensated or some time may be paid. The internship has to 
 be meaningful and mutually beneficial to the intern and the organization. It is important that the 
 objectives and the activities of the internship program are clearly defined and understood. Following are 
@@ -5995,48 +5602,40 @@ classroom and hence creating competent professionals for the industry.
 • Provide possible opportunities to learn, understand and sharpen the real time technical / managerial 
 skills required at the job. 
 • Exposure to the current technological developments relevant to the subject area of training. 
-• Experience gained from the ‘Industrial Internship’ in classroom will be used in classroom discussions. 
-•   Create conditions conducive to quest for knowledge and its applicability on the job. 
- 
-## Page 143
-
-FMCD2009 / 2.0 
+• Experience gained from the 'Industrial Internship' in classroom will be used in classroom discussions. 
+• Create conditions conducive to quest for knowledge and its applicability on the job. 
+  ## Page 143
+ FMCD2009 / 2.0 
  143 
 ←BACK TO SEMESTER VII 
- 
-Program: Bachelor of Engineering Semester: VIII 
-Course Title: Capstone Project   Course Code: 20EMEW402 
-L-T-P: 0-0-11 Credits: 11 Contact Hours:  
+  Program: Bachelor of Engineering Semester: VIII 
+Course Title: Capstone Project Course Code: 20EMEW402 
+L-T-P: 0-0-11 Credits: 11 Contact Hours: 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: --- Examination Duration: 3 Hrs  
- 
-An academic capstone project is a comprehensive project that culminates a student's academic and 
+Teaching Hours: --- Examination Duration: 3 Hrs 
+  An academic capstone project is a comprehensive project that culminates a student's academic and 
 intellectual experience. Most commonly, capstone projects are carried out during their final year of school 
 or during the end of an academic program. 
 The purpose of this project is to prepare students for future career challenges. Even the topics students 
 are assigned (or even choose for yourself) are designed to help students analyze real -life problems and 
 come up with suitable solutions to them, thus contributing to their wisdom, knowledge, and problem-
 solving abilities. In the process of researching a solution to the problem students intend to solve for their 
-capstone project, students will also gain insight into the latest trends in their field.  
- 
-## Page 144
-
-FMCD2009 / 2.0 
+capstone project, students will also gain insight into the latest trends in their field. 
+  ## Page 144
+ FMCD2009 / 2.0 
  144 
 ←BACK TO SEMESTER VIII 
- 
-Program: Bachelor of Engineering Semester: VIII 
+  Program: Bachelor of Engineering Semester: VIII 
 Course Title: Internship - Project Course Code: 20EMEW494 
 L-T-P: 0-0-11 Credits: 11 Contact Hours: --- 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: --- Examination Duration: 3 Hrs  
- 
-An internship is an experiential academic experience in which a student has intentional learning 
+Teaching Hours: --- Examination Duration: 3 Hrs 
+  An internship is an experiential academic experience in which a student has intentional learning 
 goals/objectives with measurable outcomes. These learning goals/objectives may include: 
- Academic Learning:  the student may apply and test k nowledge learned in the classroom to a 
+ Academic Learning: the student may apply and test k nowledge learned in the classroom to a 
 professional work environment. 
- Career Development:  the student may explore a specific field of interest, expand his or her 
-professional network and gain and understanding of the qualifications and duties involved in a  
+ Career Development: the student may explore a specific field of interest, expand his or her 
+professional network and gain and understanding of the qualifications and duties involved in a 
 specific profession or career field. 
  Skill Development: the student gains an understanding of the transferable skills and knowledge 
 required for success in a professional work environment and integrates those skills in their academic 
@@ -6050,17 +5649,15 @@ student interns as fruitful and eco nomical resources with which they can accomp
 otherwise possible. They believe interns bring enthusiasm and new ideas into work settings and make 
 strong employees. Just as importantly, employers feel an increasing commitment to education and want 
 to help train students to assume responsible roles in society. 
- 
-## Page 145
-
-FMCD2009 / 2.0 
+  ## Page 145
+ FMCD2009 / 2.0 
  145 
 ←BACK TO SEMESTER VIII 
 Program: Bachelor of Engineering Semester: VIII 
 Course Title: Aircraft Systems and Design Course Code: 15EMEE413 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
 Chapter 1. Aircraft industry overview: 3 Hrs 
 Evolution and History of Flight, Types Of Aerospace Industry, Key Players in Aerospace Industry, Aerospace 
@@ -6080,7 +5677,7 @@ systems, Cabin Pressurization and Air Conditioning Systems, Steering and Brakes 
 Unit. 
 Unit II 
 Chapter 4. Basic Principles of Flight: 7 Hrs 
-Significance of speed of Sound, Air speed and G round Speed, Properties of Atmosphere, Bernoulli ’s 
+Significance of speed of Sound, Air speed and G round Speed, Properties of Atmosphere, Bernoulli 's 
 Equation, Forces on the airplane, Airflow over wing section, Pressure Distribution over a wing section, 
 Generation of Lift, Drag, Pitching moments, Types of Drag, Lift curve, Drag Curve, Lift/Drag Ratio Cu rve, 
 Factors affecting Lift and Drag, Center of Pressure and its effects. Aero foil Nomenclature, Types of Aero 
@@ -6102,18 +5699,15 @@ Chapter 8.Analysis of Beams: 4 Hrs
 Theory of beams - Symmetric beams in pure bending, deflection of beams, Unsymmetrical beams in 
 bending. Sample exer cises. Torsion in closed section beams, torsion in open section beams, multi cell 
 sections. Sample exercises. 
-  
-## Page 146
-
-FMCD2009 / 2.0 
+   ## Page 146
+ FMCD2009 / 2.0 
  146 
 ←BACK TO SEMESTER VIII 
- 
-Program: Bachelor of Engineering Semester: VIII 
+  Program: Bachelor of Engineering Semester: VIII 
 Course Title: Industrial Engineering Methods and Practices Course Code: 15EMEE414 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
 Chapter 1. Industrial engineering and productivity: 6 Hrs 
 Evolution of industrial engineering, industrial engineering functions, recent advances in industrial 
@@ -6149,34 +5743,31 @@ Text Books:
 1. Jhamb L. C, Work Study & Ergonomics, 16th Edition Everest Publishing House 2009 
 Reference Books 
 1. ILO, Introduction to Work Study, 4th Revised Edition International Labour Office 1992 
-2. Suresh Dalela and Sourabh, Work Study and Ergonomics, 6th edition Standard Publishers  
+2. Suresh Dalela and Sourabh, Work Study and Ergonomics, 6th edition Standard Publishers 
 Distributors 2017 
 3. Vijay Sheth, Industrial Engineering Methods and Practices, 5th Edition 2012 Penram International 
 Publishing (India) Pvt.Ltd. 
- 
-## Page 147
-
-FMCD2009 / 2.0 
+  ## Page 147
+ FMCD2009 / 2.0 
  147 
 ←BACK TO SEMESTER VIII 
- 
-Program: Bachelor of Engineering Semester: VIII 
+  Program: Bachelor of Engineering Semester: VIII 
 Course Title: Advanced Energy Technology Course Code: 15EMEE415 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
 Chapter 1. Solar Radiation, Measurement of Solar Radiation, Solar Radiation Geometry: 8 Hrs 
-Energy source, India’s production and reserves of commercial energy sources, need for non-conventional 
+Energy source, India's production and reserves of commercial energy sources, need for non-conventional 
 energy sources. Solar Radiation: Extra -Terrestrial radiation, spectral distribution of extra -terrestrial 
-radiation, solar constant, solar radiation at the earth’s surface, beam, diffuse and global radiation, solar 
+radiation, solar constant, solar radiation at the earth's surface, beam, diffuse and global radiation, solar 
 radiation data. Measurement of Solar Radiation: Pyrometer, shading ring pyrheliometer, sunshine 
 recorder, schematic diagrams and principle of working. Solar Radiation Geometry: Flux on a plane surface, 
 latitude, declination angle, surface azimuth angle, hour angle, zenith angle, solar altitude angle expression 
 for the angle between the incident beam and the normal to a plane surface (No derivation) local apparent 
 time. Apparent motion of sum, day length, numerical examples. 
 Chapter 2. Radiation Flux on a Tilted Surface, Solar Thermal Conversion: 8 Hrs 
-Radiation Flux on a Tilted Surface: Beam, diffuse and reflected radiation, expression for flux on a  tilted 
+Radiation Flux on a Tilted Surface: Beam, diffuse and reflected radiation, expression for flux on a tilted 
 surface (no derivations) numerical example. Solar Thermal Conversion: Collection and storage, thermal 
 collection devices, liquid flat plate collectors, solar air heaters concentrating collectors (cylindrical, 
 parabolic, paraboloid) (Quantitative analysis); sensible heat storage, latent heat storage, application of 
@@ -6193,48 +5784,43 @@ Chapter 4. Fuel Cell Technology: 8 Hrs
 Fuel cell electrochemistry - Reaction rate - Butler Volmer equation -implications and use of fuel cell 
 polarization curve - Conversion of chemical energy in electricity in a fuel cell. Cogeneration - Fuel cell 
 electric vehicles - Fuel cell vehicles - Motor cycles and bicycles-airplanes - Fueling stations - Fuel cell power 
-plant structure - Fuel processor and fuel  cell stack. Advantages and disadvantages. Problems with fuel 
-cells. Research related to fuel cell development in the world and in India.  
+plant structure - Fuel processor and fuel cell stack. Advantages and disadvantages. Problems with fuel 
+cells. Research related to fuel cell development in the world and in India. 
 Unit III 
 Chapter 5. Energy Storage: 4 Hrs 
 Introduction, energy demand, energy storage devices, types of battery, bas ic principle, components, 
 cathode and anode materials, effect of nano-size on energy storage and electrode materials performance, 
 electrochemical energy storage, super -capacitors, advantage of nanotechnology in energy storage 
-devices.  
+devices. 
 Chapter 6. Energy Policy: 4 Hrs 
 Energy policy issues - Fossil Fuels, renewable energy, power sector reforms, restructuring of energy supply 
-sector, energy strategy for future. Energy conservation act and National electricity policy and plan.  
+sector, energy strategy for future. Energy conservation act and National electricity policy and plan. 
 Reference Books 
 1. David Merick, Richard Marshall, (2001), Energy, Present and Future Options, Vol. I and II, John Wiley. 
 2. Twidell, J.W. and Weir, A., Renewable Energy Sources, EFN Spon Ltd., 1986 
-3. Peter Gevorkian, Sustainable Energy Systems Engineering, McGraw Hill,2007 
-
-## Page 148
-
-FMCD2009 / 2.0 
+3. Peter Gevorkian, Sustainable Energy Systems Engineering, McGraw Hill, 2007 
+ ## Page 148
+ FMCD2009 / 2.0 
  148 
-4. Bagotsky. V.S, “Fuel Cells”, Wiley, 2009. 
-5. Ibrahim Dincer and Marc A. Rosen, “Thermal Energy Storage Systems and Applications”, 2nd Edition, 
+4. Bagotsky. V.S, "Fuel Cells", Wiley, 2009. 
+5. Ibrahim Dincer and Marc A. Rosen, "Thermal Energy Storage Systems and Applications", 2nd Edition, 
 John Wiley and Sons Ltd., 2011. 
- 
-## Page 149
-
-FMCD2009 / 2.0 
+  ## Page 149
+ FMCD2009 / 2.0 
  149 
 ←BACK TO SEMESTER VIII 
- 
-Program: Bachelor of Engineering Semester: VIII 
+  Program: Bachelor of Engineering Semester: VIII 
 Course Title: Thermal Management of Electronic Equipment Course Code: 15EMEE416 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
 Chapter 1. Introduction: 5 Hrs 
 Semiconductor Technology Trends, Temperature -Dependent Failures, Importance of Heat Transfer in 
 Electronics, Thermal Design Process, Energy and Work, Macroscopic and Microsc opic Energies, Energy 
 Transfer and Heat Transfer, Equation of State. 
 Chapter 2. Thermal Resistance Network: 5 Hrs 
-Thermal Resistance Concept, Series Thermal Layers, Parallel Thermal Layers,  
+Thermal Resistance Concept, Series Thermal Layers, Parallel Thermal Layers, 
 General Resistance Network, Thermal Contact Resistance, Thermal I nterface Materials, Spreading 
 Thermal Resistance, Thermal Resistance of Printed Circuit Boards (PCBs). 
 Chapter 3.Thermal Specification of Microelectronic Packages: 5 Hrs 
@@ -6244,9 +5830,9 @@ Unit II
 Chapter Chapter 4. Cooling methods: 10 Hrs 
 Conduction Cooling, Convection Cooling, Selection Of Fan, Liquid Immersion Cooling, Flow -Through 
 Cooling Of CCAs, Cold wall Cooling, Cold Plates, Jet Impingement Cooling, Synthetic Jet Cooling, 
-Thermoelectric Or Solid State Coolers, Cooling Using Phase Change – Cooling With PCM Materials, 
-Micro/Mini Channel Cooling, Cooling Using Heat Pipes – Working Princi ple, Selection Of Heat Pipe 
-Working Fluid; Selection Of Cooling Technique– Ranges Of Cooling Rates Of Different Cooling Methods, 
+Thermoelectric Or Solid State Coolers, Cooling Using Phase Change - Cooling With PCM Materials, 
+Micro/Mini Channel Cooling, Cooling Using Heat Pipes - Working Princi ple, Selection Of Heat Pipe 
+Working Fluid; Selection Of Cooling Technique- Ranges Of Cooling Rates Of Different Cooling Methods, 
 Selection Criteria. 
 Chapter 5. Fins and Heat Sinks: 5 Hrs 
 Fin Equation, Fin Thermal Resistance, Effectiveness, and Efficiency, Fins with Variable Cross Sections, Heat 
@@ -6256,77 +5842,70 @@ Chapter 6. Experimental Techniques and Thermal Design: 5 Hrs
 Flow Rate Measurement Techniques, System Impedance Mea surement, Fan and Pump Curve 
 Measurements, Velocity Measurement Methods, Temperature Measurement Techniques, Acoustic Noise 
 Measurements, Importance of Experimental Measurements in Thermal Design. 
-Chapter 7.  Computer Simulations and Thermal Design: 5 Hrs 
+Chapter 7. Computer Simulations and Thermal Design: 5 Hrs 
 Heat Transfer and Fluid Flow Equations: A Summary, Fundamentals of Computer Simulation, Turbulent 
-Flows, Solution of Finite-Difference Equations  
+Flows, Solution of Finite-Difference Equations 
 Commercial Thermal Simulation Tools, Importance of Modeling and Simulation in Thermal Design. 
 Text Books 
 1. Younes Shabany, Heat Transfer: Thermal Management of Electronics, CRC Press Inc, 2010. 
-2. Ravi Kandasamy and Arun S. Mujumdar, Thermal Management of Electronic Components,  
+2. Ravi Kandasamy and Arun S. Mujumdar, Thermal Management of Electronic Components, 
 Lambert Academic Publishing, 2010. 
 Reference Books 
 1. Dave S. Steinberg, Cooling Techniques for Electronic Equipment, Wiley, 1991. 
 2. Sung Jin Kim, Sang Woo Lee, Air Cooling Technology for Electronic Equipment, Taylor & Francis, 996. 
 3. Rao R. Tummala, Fundamentals of Microsystems Packaging, McGraw-Hill, 2001. 
-4.   Yunus A. Cengel, Heat Transfer: A Practical Approach. McGraw-Hill, 2003. 
- 
-## Page 150
-
-FMCD2009 / 2.0 
+4. Yunus A. Cengel, Heat Transfer: A Practical Approach. McGraw-Hill, 2003. 
+  ## Page 150
+ FMCD2009 / 2.0 
  150 
- 
-←BACK TO SEMESTER VIII 
- 
-Program: Bachelor of Engineering Semester: VIII 
+  ←BACK TO SEMESTER VIII 
+  Program: Bachelor of Engineering Semester: VIII 
 Course Title: Introduction to Nano-science and Nanotechnology Course Code: 15EMEO401 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
-Chapter 1 Introduction:                                                                                                                                5Hrs 
+Chapter 1 Introduction: 5Hrs 
 Nanotechnology, Frontier of future- an overview 
 Length scales, Variation of physical properties from bulk to thin films to nanomaterials, - confinement of 
-electron energy states (LDOS) in 0D, 1D,2D and 3D systems (qualitative treatment); Surface, size, shape 
+electron energy states (LDOS) in 0D, 1D, 2D and 3D systems (qualitative treatment); Surface, size, shape 
 and assembly effects. 
 Bonding and crysta l structure in solids, colloids and core -shell structures. Chemical and molecular 
 interaction, functionalzation, basis for biological self-assembly and self-organization. 
-Chapter 2 Synthesis of nano-materials:                                                                                                     6Hrs 
-Top-down approach: Lithography and soft processes, Ball milling, chemical stamping.  
-Bottom-Up approach:  Chemical Routes for Synthesis of Nano -materials, Solvo -thermal and Sol -gel 
+Chapter 2 Synthesis of nano-materials: 6Hrs 
+Top-down approach: Lithography and soft processes, Ball milling, chemical stamping. 
+Bottom-Up approach: Chemical Routes for Synthesis of Nano -materials, Solvo -thermal and Sol -gel 
 synthesis; Micro-emulsions, micelles and reverse micelles; Physical and Chemical Vapour Deposition, 
 Sputtering, Laser ablation, Epitaxy. 
-Biological Methods:  Role of plants and bacteria in metal (magnetic and non -magnetic) nanoparticle 
-synthesis   
-Chapter 3 Characterization:                                                                                                                         5Hrs 
+Biological Methods: Role of plants and bacteria in metal (magnetic and non -magnetic) nanoparticle 
+synthesis 
+Chapter 3 Characterization: 5Hrs 
 Electron Microscopy (SEM/TEM); Scanning Probes (STM, AFM), X-ray Photoelectron Spectroscopy (XPS), 
-Optical Spectroscopy –IR/UV/VIS, Raman, Photoluminescence, X -ray Diffraction (including Debye -
+Optical Spectroscopy -IR/UV/VIS, Raman, Photoluminescence, X -ray Diffraction (including Debye -
 Scherrer method), Particle Size Analyser-light Scattering, Electrical (I-V and C-V), Porosity (BET method), 
 Zeta potential, nano-indentation. 
 Unit II 
-Chapter 4 Properties:                                                                                                                                         6Hrs 
- Electronic and optoelectronic properties: Ballistic transport, Coulomb blockade, Diffusive transport,  
- Dielectric properties: Polarisation, Ferroelectric behavior.  
+Chapter 4 Properties: 6Hrs 
+ Electronic and optoelectronic properties: Ballistic transport, Coulomb blockade, Diffusive transport, 
+ Dielectric properties: Polarisation, Ferroelectric behavior. 
  Optical Properties: Photoconductivity, Optical absorption & transmission, Plasmons and Excitons, 
-Luminescence and Phosphorescence.  
+Luminescence and Phosphorescence. 
  Magnetic properties: Nanomagnetism, magneto-resistance; Super Para Magnetism 
  Thermal and Mechanical properties: changes in thermal transport, thermal transition temperatures, 
 and interfaces with dissimilar materials. Improved hardness and toughness of metals and alloys 
-  Biological: Permeability through biological barriers, molecular recognition and biological assemblies. 
- 
-Chapter 5 General Applications:                                                                                                                     5Hrs 
+ Biological: Permeability through biological barriers, molecular recognition and biological assemblies. 
+  Chapter 5 General Applications: 5Hrs 
  Electrical, Electronics & Photonics- Switching glasses, Semiconductor devices including LEDs and 
-Solar Cells, Photonic Crystals.  
- Computer Science- Storage devices and Quantum computing etc  
- Mechanical and Civil: Composites and their properties.  
- Environmental and Chemical: Porous materials, Catalysis, tracers etc  
+Solar Cells, Photonic Crystals. 
+ Computer Science- Storage devices and Quantum computing etc 
+ Mechanical and Civil: Composites and their properties. 
+ Environmental and Chemical: Porous materials, Catalysis, tracers etc 
  Biotechnology- Interaction between bimolecular and nanoparticle surface, nano-bio assemblies, 
 Nanosensors etc 
 Unit III 
-Chapter 6 Specific Applications:                                                                                                                       8Hrs 
-
-## Page 151
-
-FMCD2009 / 2.0 
+Chapter 6 Specific Applications: 8Hrs 
+ ## Page 151
+ FMCD2009 / 2.0 
  151 
 Part of this can be implemented as a student project that involves: literature-survey, project report and a 
 Seminar (Power-Point) Presentations by groups of two students each (applications and students to be 
@@ -6334,20 +5913,20 @@ identified by teachers and monitored by one teacher each):
  Carbon and its allotropes: Fullerenes (C60), Carbon nanotubes and Graphene: 
  Applications of Carbon Nanotubes: Field emission, Fuel Cells, Display devices, Hydrogen storage. 
  Nano-Medicine: Developments and protocols for diagnostics, drug delivery and therapeutics. 
- Nanotribology:  Friction at nanoscale, Nanotribology and wear-resistance, MEMS and NEMS 
+ Nanotribology: Friction at nanoscale, Nanotribology and wear-resistance, MEMS and NEMS 
  Photo-electronics: Merger of photonics and electronics at nanoscale dimensions 
  Single electron devices, molecular circuits 
  Nanocomposites (i.e. metal oxide, ceramic, glass and polymer and core-shellbased); 
  Biomemitics and Biomaterials, synthetic nanocomposites for bone, teeth replacement, DNA 
 scaffolding. 
  Nanosensors: Temperature Sensors, Chemical and gas Sensors, Light and radiation sensors 
-Chapter 7 Demonstration through experiments:                                                                                         4Hrs 
+Chapter 7 Demonstration through experiments: 4Hrs 
 1. Chemical synthesis of Au and Ag nanoparticles and characterization by Optical spectroscopy of 
 size dependence band-gap 
 2. Debye Scherrer analysis of XRD data of nanoparticles of different sizes. 
 3. Surface area and Pore size distribution of the BET data from a nano-porous material. 
 4. Some experiment to study mechanical strength of nanocomposites (nano-indentation) 
- Guest lectures from industries and research laboratory personnel:                                                  1Hrs 
+ Guest lectures from industries and research laboratory personnel: 1Hrs 
 Societal issues of Nanotechnology: Prospects and Dangers; Commercial aspects, emerging industry and 
 employment opportunities. 
 Reference Books 
@@ -6363,86 +5942,79 @@ Books Recommended for extra reading:
 3. M Ratner & D Ratner, Nanotechnology, Prentice Hall 2003. 
 4. M Wildon, K Kannagara G Smith, M Simmons & B Raguse, Nanotechnology, CRC Press Boca Raton 
 2002. 
- 
-Apart from the above, in view of the course being of advanced nature, the content of course will be 
+  Apart from the above, in view of the course being of advanced nature, the content of course will be 
 supplemented with course material from the course instructors. 
- 
-## Page 152
-
-FMCD2009 / 2.0 
+  ## Page 152
+ FMCD2009 / 2.0 
  152 
 ←BACK TO SEMESTER VIII 
- 
-Program: Bachelor of Engineering Semester: VIII 
+  Program: Bachelor of Engineering Semester: VIII 
 Course Title: Nanotechnology Course Code: 15EMEO402 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
 Chapter 1. An overview of Nanoscience & Nanotechnology: 4 Hrs 
-Historical background – nature, scope and content of the subject – multidisciplinary aspects – industrial, 
+Historical background - nature, scope and content of the subject - multidisciplinary aspects - industrial, 
 economic and societal implications 
 Chapter 2. Experimental Techniques and Methods: 5 Hrs 
-For investigating and manipulating materials in the nano scale – electron microscope – scanning probe 
-microscope – optical and other microscopes 
+For investigating and manipulating materials in the nano scale - electron microscope - scanning probe 
+microscope - optical and other microscopes 
 Chapter 3. Fullerenes: 6Hrs 
-Discovery, synthesis and purification – chemistry of fullerenes in the condensed phase – orientational 
-ordering – pressure effects – conductivity and superconductivity – ferromagnetism – optical properties. 
-Carbon Nanotubes – synthesis and purification – filling of nanotubes – mechanism of growth – electronic 
-structure – transport properties – mechanical and physical properties – applications 
+Discovery, synthesis and purification - chemistry of fullerenes in the condensed phase - orientational 
+ordering - pressure effects - conductivity and superconductivity - ferromagnetism - optical properties. 
+Carbon Nanotubes - synthesis and purification - filling of nanotubes - mechanism of growth - electronic 
+structure - transport properties - mechanical and physical properties - applications 
 Unit II 
 Chapter 4. Self-assembled Monolayers: 5 Hrs 
-Monolayers on gold – growth process – phase transitions – patterning monolayers – mixed monolayers – 
+Monolayers on gold - growth process - phase transitions - patterning monolayers - mixed monolayers - 
 applications 
 Chapter 5. Semiconductor Quantum Dots: 5 Hrs 
-Synthesis – electronic structure of nanocrystals – how quantum dots are studied – correlation of 
-properties with size – uses 
+Synthesis - electronic structure of nanocrystals - how quantum dots are studied - correlation of 
+properties with size - uses 
 Chapter 6. Monolayer-protected Metal Nanoparticles: 5 Hrs 
-Method of preparation – characterization – functionalized metal nanoparticles –applications – 
+Method of preparation - characterization - functionalized metal nanoparticles -applications - 
 superlattices 
 Unit III 
 Chapter 7. Nano biology: 5 Hrs 
-Interaction between biomolecules and nanoparticle surfaces – materials used for synthesis of hybrid 
-nano-bio assemblies – biological applicat ions – nanoprobes for analytical applications – Nano 
-biotechnology – future perspectives 
+Interaction between biomolecules and nanoparticle surfaces - materials used for synthesis of hybrid 
+nano-bio assemblies - biological applicat ions - nanoprobes for analytical applications - Nano 
+biotechnology - future perspectives 
 Chapter 8. Molecular Nano machines: 5 Hrs 
-Covalent and non -covalent approaches – molecular motors and machines – other molecular devices – 
-single molecular devices – practical problems involved 
+Covalent and non -covalent approaches - molecular motors and machines - other molecular devices - 
+single molecular devices - practical problems involved 
 Text Books 
-1. T Pradeep, NANO: The Essentials – Understanding Nanoscience and Nanotechnology; TMGH (2007) 
+1. T Pradeep, NANO: The Essentials - Understanding Nanoscience and Nanotechnology; TMGH (2007) 
 Reference Books 
 1. Richard Booker & Earl Boysen; Nanotechnology: Wiley (2005). 
-2. Di Ventra, Introduction to Nanoscale Science and  Technology [Series: Nanostructure Science and  
+2. Di Ventra, Introduction to Nanoscale Science and Technology [Series: Nanostructure Science and 
 Technology]: et al (Ed); Springer (2004). 
 3. Demystified: Linda Williams & Wade Adams; Nanotechnology McGraw-Hill (2007) 
 4. Charles P Poole Jr, Frank J Owens, Introduction to Nanotechnology: Wiley India New Delhi, 2007 
- 
-## Page 153
-
-FMCD2009 / 2.0 
+  ## Page 153
+ FMCD2009 / 2.0 
  153 
 ←BACK TO SEMESTER VIII 
- 
-Program: Bachelor of Engineering Semester: VIII 
-Course Title: Design of Experiments  Course Code: 15EMEO403 
+  Program: Bachelor of Engineering Semester: VIII 
+Course Title: Design of Experiments Course Code: 15EMEO403 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
 Chapter 1. Introduction: 04 Hrs 
 Strategy of experimentation, applications of experimental design, basic principles, guidelines for 
-designing the experiments.                    
-Chapter 2. Taguchi’s approach to quality: 04 Hrs 
-Definition of quality, Taguchi’s quality philosophy, Quality loss function, off -line and on -line quality 
+designing the experiments. 
+Chapter 2. Taguchi's approach to quality: 04 Hrs 
+Definition of quality, Taguchi's quality philosophy, Quality loss function, off -line and on -line quality 
 control, Signal and Noise Factors. 
 Chapter 3. Motivation for using ANOVA: 08 Hrs 
 Introduction to analysis of variance (ANOVA), test of hypothesis, li mitations of testing of hypothesis for 
 difference between the means of two samples, testing of hypothesis using chi -square, t-test and F-test, 
 one-way ANOVA examples. 
 Unit II 
-Chapter 4.  Factorial Experiments:  08 Hrs 
+Chapter 4. Factorial Experiments: 08 Hrs 
 Two-Factor Factorial Design, General Factorial Design, 22, 23and 24 Full Factorial Designs, Exercises 
-Chapter 5. Fractional Factorial Designs:  04 Hrs 
+Chapter 5. Fractional Factorial Designs: 04 Hrs 
 One half fraction of 2k Design, One quarter fraction of 2k Design, General 2k-p Fractional Factorial Design, 
 Exercises 
 Chapter 6. Regression Approach: 04 Hrs 
@@ -6454,26 +6026,23 @@ Introduction, Design of Orthogonal arrays, ANOVA for Orthogonal Array.
 Chapter 8.Robust Parameter Design: 04 Hrs 
  Introduction, Signal-to-Noise ratio, ANOVA for S/N ratio, Steps of S/N approach. 
 Text Books 
-1. Douglas C. Montgomery, “Design and Analysis of Experiments”, John Wiley and Sons. 
-2. Madhav S. Phadke, “Quality Engineering using Robust Design”, Prentice Hall PTR, Englewood Cliffs, 
+1. Douglas C. Montgomery, "Design and Analysis of Experiments", John Wiley and Sons. 
+2. Madhav S. Phadke, "Quality Engineering using Robust Design", Prentice Hall PTR, Englewood Cliffs, 
 New Jersey. 
-3. R. Panneerselvam, “Design and Analysis of Experiments- R PHI Learning Private Limited, New Delhi. 
+3. R. Panneerselvam, "Design and Analysis of Experiments- R PHI Learning Private Limited, New Delhi. 
 Reference Books 
-1. Robert H. Lochner and Joseph E. Matar, “Designing for Quality- an Introduction Best of Taguchi and 
-Western Methods or Statistical Experimental Design”, Chapman and Hall. 
-2. Philips.J. Ross, “Taguchi Techniques for Quality Engineering”, McGraw Hill, New York. 
- 
-## Page 154
-
-FMCD2009 / 2.0 
+1. Robert H. Lochner and Joseph E. Matar, "Designing for Quality- an Introduction Best of Taguchi and 
+Western Methods or Statistical Experimental Design", Chapman and Hall. 
+2. Philips.J. Ross, "Taguchi Techniques for Quality Engineering", McGraw Hill, New York. 
+  ## Page 154
+ FMCD2009 / 2.0 
  154 
 ←BACK TO SEMESTER VIII 
- 
-Program: Bachelor of Engineering Semester: VIII 
-Course Title: Engine Management Systems   Course Code: 15EMEO404 
+  Program: Bachelor of Engineering Semester: VIII 
+Course Title: Engine Management Systems Course Code: 15EMEO404 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
 Chapter 1 Basics of Gasoline (SI) Engine: 6Hrs 
 Introduction, Operating concept, Valve timing, Stages of combustion, Combustion knock, Effect of engine 
@@ -6481,29 +6050,29 @@ variables on knock, Torque and power, Engine efficiency, Specific fu el consumpt
 ignition engines. 
 Chapter 2 Gasoline engine management : 4Hrs 
 Technical requirement, Cylinder charge control, Air -charge control, Variable valve timing, controlled 
-charge flow, A/F –mixture formation, Ignition - Battery ignit ion systems, Electronic ignition system, 
+charge flow, A/F -mixture formation, Ignition - Battery ignit ion systems, Electronic ignition system, 
 Inductive ignition system, Ignition coils, Spark plugs. 
 Chapter 3 Gasoline fuel injection: 5 Hrs 
 Fuel supply for manifold injection, Operating concept, Electromagnetic fuel injectors, Types of fuel 
 injection, Fuel supply for gasoline direct injection, Operating concept, Rail, High pressure pump, Pressure 
 control valve, High pressure injector, Combustion process, A/F mixture formation, Operating modes, 
-Motronic engine management, ME-Motronic, MED-Motronic.  
+Motronic engine management, ME-Motronic, MED-Motronic. 
 Unit II 
 Chapter 4 Basics of Diesel Engine: 5 Hrs 
 Method of operation, Stages of combustion, Operating statuses, Fuel -injection system, Combustion 
-chambers-Di and IDI, Diesel fuels-properties, Alternative fuels- Alcohols, Vegetable oils.   
+chambers-Di and IDI, Diesel fuels-properties, Alternative fuels- Alcohols, Vegetable oils. 
 Cylinder Charge Control - Intake air filters, Swirl flaps, Superchargers & Turbochargers, Exhaust Gas 
 Recirculation. 
 Chapter 5 Diesel fuel injection: 5 Hrs 
 Requirements of ideal fuel injection system, Basic Principles of fuel supply - Mixture distribution, Start of 
 fuel injection a nd delivery, Injected fuel quantity, Injection characteristics, Injection pressure, Injection 
 direction and number of injection jets. Fuel supply system. 
-Chapter 6 Fuel injection pumps:  5 Hrs 
+Chapter 6 Fuel injection pumps: 5 Hrs 
 Design and method of operation of in -line fuel injection pump s ystems, Distributor fuel injection pump 
 systems, Unit injector system and unit pump system, Common rail system. 
 Nozzles and Nozzle holders - Pintle nozzles, Hole type nozzles, future development. 
 Unit III 
-Chapter 7 Engine Exhaust Emission Control:  5 Hrs  
+Chapter 7 Engine Exhaust Emission Control: 5 Hrs 
 Formation of NO X, HC/CO mechanism, Smoke and Particulate emissions, Methods of controlling 
 emissions- Thermal converter, Catalytic converter and Particulate Trap, Diesel Smoke and its control, 
 Emission (HC, CO, NO and NOX) measuring equipment, Emission norms. 
@@ -6511,9 +6080,9 @@ Chapter 8 Recent Trends in IC Engines: 5 Hrs
 Dual fuel Engine, Homogeneous Charge Compression Ignition Engine (HCCI), Reactivity controlled 
 compression ignition engine (RCCI), Lean Burn Engine, VVT engines, 
 Text Books 
-1. Robert Bosch Gmbh, 2004, Gasoline Engine Management – 2nd Edition 
-2. Robert Bosch Gmbh, 2004, Diesel Engine Management “    3rd Edition 
+1. Robert Bosch Gmbh, 2004, Gasoline Engine Management - 2nd Edition 
+2. Robert Bosch Gmbh, 2004, Diesel Engine Management " 3rd Edition 
 Reference Books 
-1. Mathur and Sharma, Dhanpal Rai & sons, A Course in I.C. Engine –New Delhi 
-2. John B. Heywood, Internal Combustion Engine Fundamentals –McGraw- Hill 
+1. Mathur and Sharma, Dhanpal Rai & sons, A Course in I.C. Engine -New Delhi 
+2. John B. Heywood, Internal Combustion Engine Fundamentals -McGraw- Hill 
  

@@ -1,10 +1,7 @@
 # PDF Document: sem8-esa-time-table-june-2021-1
-
-**PDF Source:** https://www.kletech.ac.in/hubballi/pdf/sem8-esa-time-table-june-2021-1.pdf
-
-## Page 1
-
-Automation & Robotics 
+ **PDF Source:** https://www.kletech.ac.in/hubballi/pdf/sem8-esa-time-table-june-2021-1.pdf
+ ## Page 1
+ Automation & Robotics 
 Engineering Biotechnology Computer Science & 
 Engineering Civil Engineering Electronics & Communication 
 Engineering 
@@ -37,8 +34,8 @@ Smart Manufacturing
 (17EARE404) 
 ------------------ 
 ------------------ 
-Date               
-(Day)              
+Date 
+(Day) 
 Course (Course Code) 
 OPEN ELECTIVE COURSES 
 Industrial Waste Management (19EBTO401), Nano Composite Materials (15ECVO401), Big Data Analytics (18ECSO401), Artificial Intelligence (17EEEO402), Automotive 

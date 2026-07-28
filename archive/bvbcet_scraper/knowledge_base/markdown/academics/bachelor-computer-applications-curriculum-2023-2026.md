@@ -1,20 +1,13 @@
 # PDF Document: bachelor-computer-applications-curriculum-2023-2026
-
-**PDF Source:** https://www.kletech.ac.in/pdf/bachelor-computer-applications-curriculum-2023-2026.pdf
-
-## Page 1
-
-FMCD2009 / 2.0 1 
- 
-Curriculum Structure and Curriculum Content for the Batch: 2023-26 
+ **PDF Source:** https://www.kletech.ac.in/pdf/bachelor-computer-applications-curriculum-2023-2026.pdf
+ ## Page 1
+ FMCD2009 / 2.0 1 
+  Curriculum Structure and Curriculum Content for the Batch: 2023-26 
 Department of Computer Applications 
 Program: Bachelor of Computer Applications 
-
-## Page 2
-
-FMCD2009 / 2.0 2 
- 
-Table of Contents 
+ ## Page 2
+ FMCD2009 / 2.0 2 
+  Table of Contents 
 Vision and Mission of KLE Technological University ................................................................. 3 
 Vision and Mission Statements of the School / Department ................................................... 3 
 Program Educational Objectives/Program Outcomes and Program-Specific Objectives. 5 - 6 
@@ -28,41 +21,30 @@ Semester- V ....................................................................
 Semester- VI ............................................................................................................................. 13 
 List of Program Electives.......................................................................................................... 15 
 Curriculum Content- Course wise ..................................................................................... 18 - 87 
-
-## Page 3
-
-FMCD2009 / 2.0 3 
- 
-Vision and Mission of KLE Technological University 
+ ## Page 3
+ FMCD2009 / 2.0 3 
+  Vision and Mission of KLE Technological University 
 Vision 
-KLE Technological University will be a national leader in Higher Education–recognised globally 
+KLE Technological University will be a national leader in Higher Education-recognised globally 
 for innovative culture, outstanding student experience, research excellence and social impact. 
- 
-Mission 
- 
-KLE Technological University is dedicated to teaching t hat meets highest standards of 
+  Mission 
+  KLE Technological University is dedicated to teaching t hat meets highest standards of 
 excellence, generation and application of new knowledge through research and creative 
 endeavors. 
- 
-The three-fold mission of the University is: 
+  The three-fold mission of the University is: 
  To offer undergraduate and post -graduate programs with engaged and experiential 
 learning environment enriched by high quality instruction that prepares students to 
 succeed in their lives and professional careers. 
- 
- To enable and grow disciplinary and inter -disciplinary areas of research that build on 
+   To enable and grow disciplinary and inter -disciplinary areas of research that build on 
 present strengths and future opportunities aligning with areas of national strategic 
 importance and priority. 
- 
- To actively engage in the Socio-economic development of the region by contributing our 
+   To actively engage in the Socio-economic development of the region by contributing our 
 expertise, experience and leadership, to enhance competitiveness and quality of life. 
 As a unified community of faculty, staff and students, we work together with the spirit of 
 collaboration and partnership to accomplish our mission. 
-
-## Page 4
-
-FMCD2009 / 2.0 4 
- 
-Vision and Mission Statements of the Department 
+ ## Page 4
+ FMCD2009 / 2.0 4 
+  Vision and Mission Statements of the Department 
 Department Vision 
 To be a premier department offering UG and PG Programs in computer applications to 
 develop competitive professionals having the right knowledge, research skills, and attitude to 
@@ -77,14 +59,10 @@ Computer Science.
 to grow academically and professionally. 
  To provide valuable services to society through education, entrepreneurship, and 
 professional activities in Computer Science and its Applications. 
-
-## Page 5
-
-FMCD2009 / 2.0 5 
- 
-Program Educational Objectives/Program Outcomes and Program-Specific Objectives 
- 
-Program Educational Objectives -PEO’s 
+ ## Page 5
+ FMCD2009 / 2.0 5 
+  Program Educational Objectives/Program Outcomes and Program-Specific Objectives 
+  Program Educational Objectives -PEO's 
 PEO: 1Have a strong foundation and ability to apply knowledge of Computer Science, 
 Mathematics, and Humanities to conceive, analyse, design, and implement IT solutions to 
 problems in real-life applications. 
@@ -94,7 +72,7 @@ practices.
 PEO: 3. Understand the professional and ethical obligations of a software engineer towards 
 society and the need for lifelong learning. 
 PEO: 4. Have the ability to participate in multi-disciplinary teams using ICT effectively. 
-Program Outcomes-PO’s 
+Program Outcomes-PO's 
 PO 1: Computational knowledge: Apply knowledge of computing fundamentals, computing 
 specialization, mathematics, and domain knowledge appropriate for the computing 
 specialization to the abstraction and conceptualization of computing models from defined 
@@ -117,7 +95,7 @@ regulations, responsibilities, and norms of professional computing practice.
 PO 7: Life-long learning: Recognize the need, and have the ability, to engage in independent 
 learning for continual development as a computing professional. 
 PO 8: Project management and finance: Demonstrate knowledge and understanding of 
-the computing and management principles and apply these to one’s work as a member and 
+the computing and management principles and apply these to one's work as a member and 
 leader in a team, to manage projects and in multidisciplinary environments. 
 PO 9: Communication Efficacy: Communicate effectively with the computing community, 
 and with society at large, about complex computing activities by being able to comprehend 
@@ -126,31 +104,24 @@ and understand instructions clearly.
 PO 10: Societal and Environmental Concern: Understand and assess societal, 
 environmental, health, safety, legal, and cultural issues within local and global contexts and 
 the consequential responsibilities relevant to professional computing practice. 
-
-## Page 6
-
-FMCD2009 / 2.0 6 
- 
-PO 11: Individual and teamwork: Function effectively as an individual and as a member or 
+ ## Page 6
+ FMCD2009 / 2.0 6 
+  PO 11: Individual and teamwork: Function effectively as an individual and as a member or 
 leader in diverse teams and multi-disciplinary environments. 
 PO 12: Innovation and Entrepreneurship: Identify a timely opportunity and use of 
 innovation to pursue that opportunity to create value and wealth for the betterment of the 
 individual and society at large. 
-Program Specific Objectives -PSO’s 
+Program Specific Objectives -PSO's 
 PSO 1: IT skills: An ability and capacity acquired through deliberate, systematic, and 
 sustained effort to carry out complex IT activities involving innovative ideas, technical skills, 
 and interpersonal skills. 
 PSO 2: Professional Competency: Apply computing concepts, skills, and processes to 
 produce a product/project in the domain, demonstrating professional knowledge and 
 attitude. 
-
-## Page 7
-
-FMCD2009 / 2.0 7 
- 
-Curriculum Structure-Overall 
- 
-Course with course code 
+ ## Page 7
+ FMCD2009 / 2.0 7 
+  Curriculum Structure-Overall 
+  Course with course code 
 Semester Total Program Credits:132 Year: 2023-26 
 I II III IV V VI 
 Operating Systems 
@@ -169,8 +140,7 @@ Java Programming
 Cloud Computing 
 (24EBCC301) 
 3-0-1 
- 
-Industry 
+  Industry 
 Training 
 (22EBCI301) 
 0-0-8 
@@ -213,20 +183,17 @@ Programming
 using C++ 
 (24EBCC202) 
 3-0-2 
- 
-DevOps Lab 
+  DevOps Lab 
 (24EBCP201) 
 0-0-1.5 
- 
-Machine Learning 
+  Machine Learning 
 (24EBCC303) 
 3-0-1 
 Industry 
 Project 
 (23EBCI301) 
 0-0-17 
- 
-Capstone Project 
+  Capstone Project 
 (23EBCP302) 
 0-0-17 
 Problem solving using 
@@ -245,8 +212,7 @@ Natural Language
 Processing & Gen 
 AI(24EBCC304) 
 2-0-2 
-  
-Python Programming 
+   Python Programming 
 (23EBCP102) 
 0-0-1 
 Data Structures and 
@@ -264,8 +230,7 @@ Lab
 Elective-1 
 (24EBCE3XX) 
 3-0-1 
-  
-Web Technology 
+   Web Technology 
 (23EBCP103) 
 Database 
 Management Systems 
@@ -276,18 +241,15 @@ Analytical
 Professional 
 Aptitude and Minor Project-2 
 (23EBCP301) 
-  
-## Page 8
-
-FMCD2009 / 2.0 8 
- 
- 0-0-1.5 0-0-1.5 Reasoning 
+   ## Page 8
+ FMCD2009 / 2.0 8 
+   0-0-1.5 0-0-1.5 Reasoning 
 (23EHSH203) 
-0.5-0-0 
+0. 5-0-0 
 Logical Reasoning 
 (23EHSC201) 
 3-0-0 
-0-0-6   
+0-0-6 
 Professional 
 Communication 
 (23EBCH101) 
@@ -295,28 +257,21 @@ Communication
 Problem-Solving and 
 Analytical Skills 
 (23EHSH102) 
-0.5-0-0 
+0. 5-0-0 
  Industry Readiness 
 and Leadership 
 Skills(23EHSH204) 
-0.5-0-0 
-   
-Corporate 
+0. 5-0-0 
+    Corporate 
 Communication Skills 
 (23EBCH102) 
-0.5-0-0 
-      
-Credits 20 20 21 20 26 25 
-
-## Page 9
-
-FMCD2009 / 2.0 9 
- 
-Curriculum Structure-Semester wise 
- 
-Semester - I 
- 
-No Code Course Category L-T-P Credits Contact 
+0. 5-0-0 
+       Credits 20 20 21 20 26 25 
+ ## Page 9
+ FMCD2009 / 2.0 9 
+  Curriculum Structure-Semester wise 
+  Semester - I 
+  No Code Course Category L-T-P Credits Contact 
 Hours 
 ISA ESA Total Exam 
 Duration 
@@ -331,20 +286,14 @@ PSC 3-1-0 4 5 50 50 100 3 hours
 6 23EBCP103 Web Technology PSC 0-0-1.5 1.5 3 80 20 100 3 hours 
 7 23EBCH101 Professional Communication HSC 2-0-0 2 2 50 50 100 3 hours 
 8 23EBCH102 Corporate Communication Skills HSC 0.5-0-0 0.5 1 100 -- 100 -- 
-Total  12.5-1-6.5 20 28 540 260 800  
+Total 12.5-1-6.5 20 28 540 260 800 
 ISA: In Semester Assessment ESA: End Semester Assessment L: Lecture T: Tutorials P: Practical 
- 
-Date: Program Head 
-
-## Page 10
-
-FMCD2009 / 2.0 10 
- 
-Semester - II 
- 
-Semester Assessment ESA: End Semester Assessment L: Lecture T: Tutorials P: Practical 
- 
-Date: Program Head 
+  Date: Program Head 
+ ## Page 10
+ FMCD2009 / 2.0 10 
+  Semester - II 
+  Semester Assessment ESA: End Semester Assessment L: Lecture T: Tutorials P: Practical 
+  Date: Program Head 
 ISA: 
 In 
 No Code Course Category L-T-P Credits Contact 
@@ -359,13 +308,10 @@ Duration
 5 23EBCP104 Data Structures and Algorithms Lab PSC 0-0-2 2 4 80 20 100 3 hours 
 6 23EBCP105 Database Management Systems Lab PSC 0-0-1.5 1.5 3 80 20 100 3 hours 
 7 23EHSH102 Problem-Solving and Analytical Skills HSC 0.5-0-0 0.5 1 100 -- 100 -- 
-Total  15.5-1-3.5 20.0 25 460 240 700  
- 
-## Page 11
-
-FMCD2009 / 2.0 11 
- 
-Semester- III 
+Total 15.5-1-3.5 20.0 25 460 240 700 
+  ## Page 11
+ FMCD2009 / 2.0 11 
+  Semester- III 
 ISA: In Semester Assessment ESA: End Semester Assessment L: Lecture T: Tutorials P: Practical 
 No Code Course Catego 
 ry 
@@ -380,16 +326,12 @@ Duration
 4 24EBCC203 Data Mining PSC 3-0-1 4 5 50 50 100 3 hours 
 5 24EBCC204 Full Stack Web Development PSC 1-0-2.5 3.5 6 50 50 100 1.5 hours 
 6 23EHSH203 Arithmetical Thinking and Analytical Reasoning HSC 0.5-0-0 0.5 1 100 -- 100 -- 
-TOTAL  13.5-0-7.5 21 29 350 250 600  
- 
-Date: Program Head 
-
-## Page 12
-
-Semester- IV 
+TOTAL 13.5-0-7.5 21 29 350 250 600 
+  Date: Program Head 
+ ## Page 12
+ Semester- IV 
 FMCD2009 / 2.0 12 
- 
-No Code Course Category L-T-P Credits Contact 
+  No Code Course Category L-T-P Credits Contact 
 Hours 
 ISA ESA Total Exam 
 Duration 
@@ -401,17 +343,13 @@ Duration
 5 23EHSH204 Industry Readiness and Leadership Skills HSC 0.5-0-0 0.5 1 100 -- 100 -- 
 6 23EHSC201 Professional Aptitude and Logical Reasoning HSC 3-0-0 3 3 50 50 100 3 hours 
 7 24EBCC205 Java Programming Lab PSC 0-0-2 2 4 80 20 100 3 hours 
-TOTAL  9.5-0-10.5 20 31 460 240 700  
- 
-ISA: In Semester Assessment ESA: End Semester Assessment L: Lecture T: Tutorials P: Practical 
-Date:    Program Hea 
-
-## Page 13
-
-Semester- V 
+TOTAL 9.5-0-10.5 20 31 460 240 700 
+  ISA: In Semester Assessment ESA: End Semester Assessment L: Lecture T: Tutorials P: Practical 
+Date: Program Hea 
+ ## Page 13
+ Semester- V 
 FMCD2009 / 2.0 13 
- 
-No Code Course Category L-T-P Credits Contact 
+  No Code Course Category L-T-P Credits Contact 
 Hours 
 ISA ESA Total Exam 
 Duration 
@@ -420,47 +358,35 @@ Duration
 2 24EBCC302 Advanced JAVA Programming PSC 3-0-1 4 5 63 37 100 3 hours 
 3 24EBCC303 Machine Learning PSC 3-0-1 4 5 63 37 100 3 hours 
 4 24EBCC304 Natural Language Processing & Gen AI PSC 2-0-2 4 6 50 50 100 2 hours 
-5 24EBCE3XX  Elective-1 PSE 3-0-1 4 5 63 37 100 3 hours 
+5 24EBCE3XX Elective-1 PSE 3-0-1 4 5 63 37 100 3 hours 
 6 23EBCP301 Minor Project-2 PSC 0-0-6 6 12 50 50 100 3 hours 
-TOTAL  14-0-12 26 38 352 248 600  
- 
-ISA: In Semester Assessment ESA: End Semester Assessment L: Lecture T: Tutorials P: Practical 
+TOTAL 14-0-12 26 38 352 248 600 
+  ISA: In Semester Assessment ESA: End Semester Assessment L: Lecture T: Tutorials P: Practical 
 Date: 
-   
-Program Head 
-
-## Page 14
-
-FMCD2009 / 2.0 14 
- 
-Semester- VI 
- 
-No Code Course Category L-T-P Credits Contact 
+    Program Head 
+ ## Page 14
+ FMCD2009 / 2.0 14 
+  Semester- VI 
+  No Code Course Category L-T-P Credits Contact 
 Hours 
 ISA ESA Total Exam 
 Duration 
 (in hrs) 
 1 24EBCE3XX Elective-2 PSE 3-0-1 4 5 63 37 100 3 hours 
-2 24EBCE3XX  Elective-3 PSE 3-0-1 4 5 63 37 100 3 hours 
+2 24EBCE3XX Elective-3 PSE 3-0-1 4 5 63 37 100 3 hours 
 3 23EBCP302 Capstone Project PSC 0-0-17 17 34 50 50 100 3 hours 
-  OR  6-0-19 25 44 176 124 300  
+  OR 6-0-19 25 44 176 124 300 
 1 22EBCI301 Industry Training PW 0-0-8 8 16 50 50 100 -- 
 2 23EBCI301 Industry Project PW 0-0-17 17 34 50 50 100 3 hours 
-TOTAL  0-0-25 25 50 100 100 200  
- 
-ISA: In Semester Assessment ESA: End Semester Assessment L: Lecture T: Tutorials P: Practical 
+TOTAL 0-0-25 25 50 100 100 200 
+  ISA: In Semester Assessment ESA: End Semester Assessment L: Lecture T: Tutorials P: Practical 
 Date: 
-   
-Program Head 
-
-## Page 15
-
-FMCD2009 / 2.0 15 
- 
-List of Program Electives 
- 
-S.No Name of the Course Course Code 
-Professional Elective – 1, 2 & 3 
+    Program Head 
+ ## Page 15
+ FMCD2009 / 2.0 15 
+  List of Program Electives 
+  S.No Name of the Course Course Code 
+Professional Elective - 1, 2 & 3 
 Group-Cyber Security (Elective1) 
 1 Cyber Security 24EBCE301 
 2 Security Operations and Incident 
@@ -481,12 +407,9 @@ Group- Data Analytics and Machine Learning (Elective3)
 1 Statistical Techniques for Data Analytics 24EBCE313 
 2 Internet of Things 24EBCE314 
 3 Social Network Analysis 24EBCE315 
-
-## Page 16
-
-FMCD2009 / 2.0 16 
- 
-Curriculum Content- Course wise 
+ ## Page 16
+ FMCD2009 / 2.0 16 
+  Curriculum Content- Course wise 
 Semester - I 
 Program: Bachelor of Computer Applications Semester: I 
 Course Title: Operating Systems Course Code:22EBCC104 
@@ -503,7 +426,7 @@ Basic Concepts, Schedulers, Scheduling Criteria, Scheduling Algorithms,
 Multithreading models. 
 6 Hrs. 
 3 Chapter3: Process Synchronization 
-Background, The critical section problem, Peterson’s solution, 
+Background, The critical section problem, Peterson's solution, 
 Synchronization Hardware, Semaphores, Producer Consumer problem, 
 4 Hrs. 
 Unit II 
@@ -527,12 +450,9 @@ implementation; Directory implementation; Allocation methods.
 8 Chapter 8: Secondary Storage Management 
 Mass storage structures; Disk structure; Disk scheduling. 
 4 Hrs. 
-
-## Page 17
-
-FMCD2009 / 2.0 17 
- 
-Text Books: 
+ ## Page 17
+ FMCD2009 / 2.0 17 
+  Text Books: 
 1 Abraham Silberschatz, Peter Galvin and Greg Gagne, Operating System Principles, 10 ed 
 edition, Wiley-India, 2018 
 2 W. Richard Stevens, Stephen A. Rago, "Advanced Programming in the UNIX Environment", 
@@ -541,47 +461,37 @@ References:
 1. William Stallings, "Operating System Internals and Design Principles", 1 ed., Pearson 
 Education, Asia, 2015 
 2. Gary Nutt," Operating System", 3 ed., Pearson Education, 
- 
-BACK 
-
-## Page 18
-
-FMCD2009 / 2.0 18 
- 
-Program: Bachelor of Computer Applications Semester: I 
+  BACK 
+ ## Page 18
+ FMCD2009 / 2.0 18 
+  Program: Bachelor of Computer Applications Semester: I 
 Course Title: Discrete Mathematical Structures Course Code:23EBCB101 
 L-T-P:4-0-0 Credits:4 Contact Hours:4 hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 50  Exam Duration: 3 Hrs 
+Teaching Hrs: 50 Exam Duration: 3 Hrs 
 Unit I 
- 
-1 
+  1 
 Sets, Proof Templates and Induction 
 Basic Definitions, Operations on Sets, Principles of Inclusion and 
 Exclusion, Mathematical Induction, Exercises. 
- 
-8 Hrs 
- 
-2 
+  8 Hrs 
+  2 
 Formal Logic 
 Introduction to Propositional Logic, Truth and Logical Truth, Normal 
 Forms, Predicates & Quantification, Exercises. 
- 
-8 Hrs 
+  8 Hrs 
 3 
 Integers 
-The integers and Division, Primes and GCD’s, Integers and Algorithms. 
+The integers and Division, Primes and GCD's, Integers and Algorithms. 
 Applications of Number Theory. 
 4 Hrs 
 Unit II 
- 
-4 
+  4 
 Relations and Ordered Sets 
 Introduction, Operations on Relations, Composition and Properties of 
 Relations, Equivalence Relation. Partial Ordered Set, Hasse -Diagram of 
 Poset. 
- 
-10 
+  10 
 Hrs 
 5 
 Lattices and Counting Principles 
@@ -589,21 +499,17 @@ Definition, Products, Properties and Special of Lattices. Permutations and
 Combinations. Generalized Permutations and Combinations. 
 10 
 Hrs 
-Unit – III 
- 
-6 
+Unit - III 
+  6 
 Functions 
 Basic Definitions, Types of Functions, Composition and Invertible 
 functions. The Pigeon- Hole Principle, Exercises. 
- 
-5 Hrs 
- 
-7 
+  5 Hrs 
+  7 
 Algebraic Structures 
 Binary Operations, Monoids, Semi-groups, Introduction to Groups, Sub- 
 groups. 
- 
-5 Hrs 
+  5 Hrs 
 Text Books: 
 1. Discrete Mathematics and its Applications, Kenneth H Rosen, McGraw-Hill, 8th 
 edition, 2021 
@@ -616,12 +522,9 @@ Pearson Education India, 2015.
 2. Lipschutz Seymour and Lipson Marc, Discrete Mathematics, 3rd edition, Tata 
 McGraw-Hill, 2017. 
 BACK 
-
-## Page 19
-
-FMCD2009 / 2.0 19 
- 
-Program: Bachelor of Computer Applications Semester - I 
+ ## Page 19
+ FMCD2009 / 2.0 19 
+  Program: Bachelor of Computer Applications Semester - I 
 Course Title: Computer Organization and Architecture Course Code: 23EBCC101 
 L-T-P: 3-1-0 Credits:4 Contact Hrs: 5 hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -634,7 +537,7 @@ Gates.
 4 Hrs 
 2 Chapter 2: Simplification of Boolean Functions and Combinational Logic 
 The Map Method, Two- and Three-Variable Maps, Four Variable Map, Product 
-of Sums Simplification, Don’t -Care Conditions, Combinational Logic: Design 
+of Sums Simplification, Don't -Care Conditions, Combinational Logic: Design 
 Procedure, Combinational Logic Circuits, Code Conversions. 
 6 Hrs 
 3 Chapter 3: Sequential Circuit Design 
@@ -655,7 +558,7 @@ Modes, Assemble Language.
 Basics Concepts, Semiconductor RAM Memories, Read-only Memories, Cache 
 Memories, Virtual Memory. 
 4 Hrs 
-Unit – III 
+Unit - III 
 7 Chapter 7: Input/Output Organization 
 Accessing I/O Devices, Interrupts, Direct Memory Access. 
 4 Hrs 
@@ -667,61 +570,47 @@ Text Book:
 1. Digital Logic and Computer Design, Morris Mano, Pearson Education Asia(Kindle 
 Edition)2017. 
 2. Computer Organization and an Embedded System, Carl Hamacher, Z Varnesic and S 
-Zaky,NManjikian, 6th Edition, McGraw Hill, 2023. 
-
-## Page 20
-
-FMCD2009 / 2.0 20 
- 
-. 
+Zaky, NManjikian, 6th Edition, McGraw Hill, 2023. 
+ ## Page 20
+ FMCD2009 / 2.0 20 
+  . 
 BACK 
 References: 
 1. Digital Electronics Principles and Applications, Tokheim, 9th Edition, McGraw Hill, 
 2021. 
-
-## Page 21
-
-FMCD2009 / 2.0 21 
- 
-Program: Bachelor of Computer Applications Semester - I 
+ ## Page 21
+ FMCD2009 / 2.0 21 
+  Program: Bachelor of Computer Applications Semester - I 
 Course Title: Problem Solving using C Course Code: 23EBCP101 
 L-T-P: 0-0-3 Credits: 3 Contact hrs: 6 Hrs/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
 Teaching Hrs: -- Tutorial/Practical: 78 Exam Duration: 3 Hrs 
 1 Introduction to Problem Solving 
 Introduction to algorithms, Flowcharts and its Notations, Top down design. 6 Hrs 
- 
-2 
+  2 
 Basics of C programming language 
 C Tokens: Keywords, Identifiers, Variables, Constants, Operators; Expressions, 
 Data types, Input and Output statements, Structure of C program 
- 
-15 Hrs 
- 
-3 
+  15 Hrs 
+  3 
 Decision Making and Branching Statements 
 Conditional and Unconditional branching statements. 
 Introduction to Debugging Skills. 
- 
-9 Hrs 
+  9 Hrs 
 4 Looping 
 While, do while, for, Nested loops. 12 Hrs 
 5 Functions 
 Introduction to Functions, Types of functions, Categories of functions. 9 Hrs 
- 
-6 
+  6 
 Arrays and Strings 
 Introduction: Declaration, accessing elements, Storing values in arrays; 
 Operations on one dimensional array, Operations on two dimensional arrays. 
- 
-12 Hrs 
- 
-7 
+  12 Hrs 
+  7 
 Pointers 
 Introduction: declaring a pointer, pointer variables, pointer expression and 
 arithmetic, passing arguments to functions using pointers. 
- 
-9 Hrs 
+  9 Hrs 
 8 
 Structures and Unions 
 Introduction to Structures, passing structures to functions, Array of structures, 
@@ -732,18 +621,15 @@ Text Books :
 2. R.G. Dromey, How to Solve it by Computer, 1sted, PHI, 2008. 
 3. YashvantKanetkar, Let us C, 17thed, BPS Publication, 2018. 
 Reference Books: 
-1. Elliot B.Koffman,JeriR.Hanly Problem Solving and Program Design in C,8thed,PHI,2016 
+1. Elliot B.Koffman, JeriR.Hanly Problem Solving and Program Design in C, 8thed, PHI, 2016 
 2. M.T.Somashekara, D.S.Guru, K S Manjunath Problem Solving with C 2nd Edition PHI , 2018 
 3. BasavarajAnami, S A Angadi, S SManavi Computer Concept and C Programming A Holistic 
-approach to Learning C with C 2nd Edition PHI,2010 
+approach to Learning C with C 2nd Edition PHI, 2010 
 . 
 BACK 
-
-## Page 22
-
-FMCD2009 / 2.0 22 
- 
-Program: Bachelor of Computer Applications Semester - I 
+ ## Page 22
+ FMCD2009 / 2.0 22 
+  Program: Bachelor of Computer Applications Semester - I 
 Course Title: Python Programming Course Code: 23EBCP102 
 L-T-P: 0-0-1 Credits: 1 Contact: 2 hrs/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
@@ -754,27 +640,23 @@ Installing Python 3.X, Using the Python shell, Strings, print () function, Data
 types, Order of Evaluation, Number Formats, Rules for defining variable, 
 Built in types, Tuples, List, Dictionary, Ranges of sequences, Control flow 
 statements 
- 
-6 Hrs 
+  6 Hrs 
 2 Functions 
 def Statements with Parameters, Return Values and return Statements, 
 None Value, Keyword Arguments, Local and Global Scope, Exception 
 Handling 
- 
-6 Hrs 
+  6 Hrs 
 3 Classes and Objects 
 Object, defining a Class, Objects and Their Scope, Modules and Packages, 
 importing a Module, making a Module from Pre-existing Code, Testing of 
 modules and packages 
- 
-6 Hrs 
+  6 Hrs 
 4 Files and Directories 
 File objects, writing text files, Appending Text to a file, reading text files, 
 File exceptions, Paths and directories, File operations, Globbing, Searching 
 for files, Clipping logs, Navigating the file System with the os Module, 
 Working with regular expressions 
- 
-6 Hrs 
+  6 Hrs 
 Text Books: 
 1) Python The Complete Reference, Martin C Brown, Mc Graw Hill, 2018 
 2) Learning Python, Mark Lutz, Orielly, 5th Edition, 2013 
@@ -785,68 +667,54 @@ Reference Books:
 3) Introduction to Python, Kenneth A. Lambert, Cengages, 2015 
 . 
 BACK 
-
-## Page 23
-
-FMCD2009 / 2.0 23 
- 
-Program: Bachelor of Computer Applications Semester - I 
+ ## Page 23
+ FMCD2009 / 2.0 23 
+  Program: Bachelor of Computer Applications Semester - I 
 Course Title: Web Technology Course Code: 23EBCP103 
 L-T-P: 0-0-1.5 Credits: 1.5 Contact: 3 hrs/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
 Teaching Hrs: -- Tutorial/Practical: 36 hrs Exam Duration: 3 Hrs 
 Unit-I 
- 
-1 
+  1 
 Chapter 1 : Fundamentals of Web 
 Introduction to the Internet, The World Wide Web, Web Browsers, Web 
 Servers, Uniform Resource Locators, Hypertext Transfer Protocol, Security, 
-Web Programmer’s Toolbox 
- 
-8 Hrs 
- 
-2 
+Web Programmer's Toolbox 
+  8 Hrs 
+  2 
 Chapter 2: HTML 5 
 HTML5 tags, Multimedia tags, Form attributes, Meter tag, Drag and drop, 
 Image tags, Block & inline, Geo location, Location properties, Handling 
 errors and rejections, Google map, Canvas, URL schemes, ASCII encoding 
- 
-8 Hrs 
- 
-3 
+  8 Hrs 
+  3 
 Chapter 3: CSS and Bootstrap 5 
 Levels of Style Sheets, Style Specification Formats, Box Model, Basic 
 layouts, Animations, Accordions, Progress bar, Validation, Borders, Fonts, 
 Alerts, Toasts, Navbars, Card utilities, Pagination, Slideshow using carousel 
- 
-10 Hrs 
- 
-4 
+  10 Hrs 
+  4 
 Chapter 4: Dynamic documents and JavaScript 
 JavaScript Execution Environment, Element Access in JavaScript, Event 
 Handling, Button, Text Box and Password Elements, Positioning Elements, 
 Dynamic Content, Stacking Elements, Dragging and Dropping Elements. 
- 
-10 Hrs 
+  10 Hrs 
 Text Books : 
 1. Robert W Sebesta, Programming the World Wide Web, 8th Edition, Pearson 
-education,2020. 
+education, 2020. 
 Reference Books: 
 1. Thomas Powell, HTML & CSS: The Complete Reference, 5th Edition, McGraw-Hill, 2017 
 2. Eric Meyer, Estelle Weyl, CSS: The Definitive Guide : Web Layout and Presentation, 5th 
-Edition, O’ Reilly, 2023. 
+Edition, O' Reilly, 2023. 
 . 
 BACK 
-
-## Page 24
-
-FMCD2009 / 2.0 24 
- 
-Program: Bachelor of Computer Applications Semester - I 
+ ## Page 24
+ FMCD2009 / 2.0 24 
+  Program: Bachelor of Computer Applications Semester - I 
 Course Title: Professional Communication Course Code: 23EBCH101 
 L-T-P: 2-0-0 Credits: 2 Contact Hrs.: 2 Hrs/Week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 30  Examination Duration: 3 Hrs. 
+Teaching Hrs: 30 Examination Duration: 3 Hrs. 
 Unit-I 
 1 Chapter 1: Parts of Speech 
 Noun, Pronoun, Verb, Adjective, Adverb, Preposition, Conjunction, 
@@ -864,11 +732,11 @@ Active and Passive
 5 Chapter 5: Analytical Grammar 
 Error Identification 
 2 Hrs 
-6 Chapter 6: Words’ Usage 
-Vocabulary – Antonyms, Synonyms, Homonyms, Homophones 
+6 Chapter 6: Words' Usage 
+Vocabulary - Antonyms, Synonyms, Homonyms, Homophones 
 2 Hrs 
 7 Chapter 7: Word Building 
-Word Formation – Prefixes, Suffixes and Affixes. 
+Word Formation - Prefixes, Suffixes and Affixes. 
 2 Hrs 
 Unit-II 
 8 Chapter 8: Group Communication 
@@ -891,25 +759,21 @@ Report Writing, Letter Writing
 Passage Writing 
 3 Hrs 
 Text Book: 
-1. English Grammar and Composition by Wren and Martin’s 
+1. English Grammar and Composition by Wren and Martin's 
 2. English Grammar in Use Book by Raymond Murphy 
 References: 
 1. Essential English Grammar by Raymond Murphy 
 2. Intermediate English Grammar by Raymond Murphy 
 3. Advanced English Grammar by Raymond Murphy 
 BACK 
-
-## Page 25
-
-FMCD2009 / 2.0 25 
- 
-Program: Bachelor of Computer Applications Semester - I 
+ ## Page 25
+ FMCD2009 / 2.0 25 
+  Program: Bachelor of Computer Applications Semester - I 
 Course Title: Corporate Communication Skills Course Code: 23EBCH102 
 L-T-P: 0.5-0-0 Credits: 0.5 Contact Hours: 1 hr/week 
 ISA Marks: 100 ESA Marks: -- Total Marks: 100 
-Teaching Hours: 12  Exam Duration: -- 
- 
-1 Modules: 
+Teaching Hours: 12 Exam Duration: -- 
+  1 Modules: 
 Communication Skills: Tools of Communication, Listening, Body Language, 
 Common Postures and Gestures, Open and Closed Body Language, Body 
 Language to be used in Corporate Scenarios, Voice: Pitch, Pace, and Pause, Verbal 
@@ -927,23 +791,20 @@ Text Books:
 1. Communication Skills: A Practical Guide to Improving Your Social Intelligence, 
 Presentation, Persuasion and Public Speaking: 9 (Positive Psychology Coaching) 11 July 
 2015. 
-2. Business Communication Today | Fourteenth Edition | By Pearson, 12 July 2018. 
+2. Business Communication Today | Fourteenth Edition | By Pearson, 12 July 2018.
 Reference Books: 
 1. 10 Skills for Effective Business Communication: Practical Strategies from the World's 
 Greatest Leaders, 21 August 2018 
 . 
 BACK 
-
-## Page 26
-
-FMCD2009 / 2.0 26 
- 
-II Semester 
+ ## Page 26
+ FMCD2009 / 2.0 26 
+  II Semester 
 Program: Bachelor of Computer Applications Semester - II 
 Course Title: Linear Algebra and Graph Theory Course Code: 23EBCB102 
 L-T-P: 4-0-0 Credits: 4 Contact Hours: 4 hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 50  Examination Duration: 3hrs 
+Teaching Hours: 50 Examination Duration: 3hrs 
 Unit-I 
 1 Chapter 1: Matrices 
 Introduction to the system of linear equations and their solutions, elementary 
@@ -972,31 +833,28 @@ Unit III
 5 Chapter 5: Trees 
 Definitions, Properties, examples, Rooted trees and Binary rooted trees, 
 preorder and post order traversals, sorting, spanning trees, prefix codes and 
-weighted trees, Optimization and Matching- Dijkstra’s shortest path algorithm, 
-Minimum spanning trees, Kruskal and prim’s algorithms. 
+weighted trees, Optimization and Matching- Dijkstra's shortest path algorithm, 
+Minimum spanning trees, Kruskal and prim's algorithms. 
 10 Hrs 
 Text Books: 
-1. David C. Lay, “Linear Algebra and its Applications”, 5th Ed., Pearson Education, 2015. 
-2. Discrete Mathematics and its applications., Kenneth H Rosen, Mcgrawhill,8th ed,2021 
+1. David C. Lay, "Linear Algebra and its Applications", 5th Ed., Pearson Education, 2015. 
+2. Discrete Mathematics and its applications., Kenneth H Rosen, Mcgrawhill, 8th ed, 2021 
 3. Discrete and Combinatorial Mathematics by Ralph P.P. Grimaldi, Pearson Education, 
 Asia, 5th edition-2023. 
-4. Grewal B. S., “Higher Engineering Mathematics”, 43rd Ed., Khanna Publishers, 2014 
+4. Grewal B. S., "Higher Engineering Mathematics", 43rd Ed., Khanna Publishers, 2014 
 Reference Books: 
-1. Seymour Lipschutz and Marc Lipson, “Linear Algebra”, Schaums outline. 
+1. Seymour Lipschutz and Marc Lipson, "Linear Algebra", Schaums outline. 
 2. Theory and Problems of Combinatorics including concept of Graph Theory by V. 
-K.Balakrishnan (Schaum’s outline series), Mcgraw Hill, 2020 
+K.Balakrishnan (Schaum's outline series), Mcgraw Hill, 2020 
 3. Graph Theory with Applications to Engineering and Computer Science by 
 NarsinghDeo, PHI publications ,2016 
-
-## Page 27
-
-FMCD2009 / 2.0 27 
- 
-Program: Bachelor of Computer Applications Semester – II 
+ ## Page 27
+ FMCD2009 / 2.0 27 
+  Program: Bachelor of Computer Applications Semester - II 
 Course Title: Database Management Systems Course Code: 23EBCC103 
 L-T-P: 4-0-0 Credits: 4 Contact Hours: 4 hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 50  Examination Duration: 3hrs 
+Teaching Hours: 50 Examination Duration: 3hrs 
 Unit-I 
 1 Chapter 1: Conceptual Data Modelling Using Entities and Relationships 
 Introduction; Characteristics of Database approach; Advantages of using DBMS 
@@ -1041,87 +899,67 @@ Text Books :
 1. Elmasri R. and Navathe S., Fundamentals Database Systems, 7th Edition, Pearson 
 Education, 2015. 
 References: 
-1.  Carlos Coronel,  Steven Morris,  Database Systems,  Design,  Implementation  & 
-
-## Page 28
-
-FMCD2009 / 2.0 28 
- 
-. 
+1. Carlos Coronel, Steven Morris, Database Systems, Design, Implementation & 
+ ## Page 28
+ FMCD2009 / 2.0 28 
+  . 
 Back 
 Management. Cengage 2017. 
 2. Elmasri and Navathe, Fundamentals of Database Systems, Fifth Edition, Addison- W, 2007. 
 3. Raghu Ramakrishna and Johannes Gehrke, Database Management Systems, Third 
 Edition, McGraw-Hill, 2003. 
-
-## Page 29
-
-FMCD2009 / 2.0 29 
- 
-Program: Bachelor of Computer Applications Semester - II 
+ ## Page 29
+ FMCD2009 / 2.0 29 
+  Program: Bachelor of Computer Applications Semester - II 
 Course Title: Data Structures and Algorithms Course Code: 23EBCC104 
 L-T-P: 4-0-0 Credits: 4 Contact: 4 hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching hrs: 50  Exam Duration: 3 Hrs 
+Teaching hrs: 50 Exam Duration: 3 Hrs 
 Unit - I 
- 
-1 
+  1 
 Introduction to Data Structures and Stack 
 Data structure, Dynamic memory allocation in C, Introduction to Algorithms, 
 Asymptotic notations and common functions. 
 Stack: Definition, Operations, Representation, Applications: infix to postfix 
 conversion, postfix expression evaluation, Parenthesis matching. 
- 
-10 Hrs 
- 
-2 
+  10 Hrs 
+  2 
 Recursion 
 Definition and properties, Principle of Recursion, Comparison between 
-Recursion and  Iteration,  Factorial  function,  Multiplication  of  natural 
+Recursion and Iteration, Factorial function, Multiplication of natural 
 numbers, Fibonacci sequence, Binary search, Towers of Hanoi problem 
- 
-4 Hrs 
- 
-3 
+  4 Hrs 
+  3 
 Queues 
 Queue and its representation, Variants of Queues: Linear Queue, Circular 
 Queue, Priority Queue. 
- 
-6 Hrs 
+  6 Hrs 
 Unit - II 
- 
-4 
+  4 
 Lists 
 Concept of Lists: Definition, Representation of linked list in memory, 
 Operations: Traversing, Searching, Insertion and Deletion, Doubly Linked List, 
 Circular Linked List, Applications of Linked List. 
- 
-10 Hrs 
- 
-5 
+  10 Hrs 
+  5 
 Trees and Graphs 
 Binary tree: Definition, Operations, Representation, AVL tree and 2-3 tree 
 algorithm, Applications of Trees. 
 Graphs: Definition, Representation of Graphs, Graph Traversal, Minimum 
 Spanning Trees: Kruskal and Prims Algorithm. 
- 
-10 Hrs 
+  10 Hrs 
 Unit - III 
- 
-6 
+  6 
 Sorting 
 Introduction and Types of Sorting: Internal and External sort, Divide and 
 Conquer: Merge, Quick and Heap Sort, Efficiency of Sorting Algorithms 
- 
-5 Hrs 
- 
-7 
+  5 Hrs 
+  7 
 Searching 
 Introduction to Searching, Search Algorithms: Sequential Search, Binary 
 Search Efficiency of Search Algorithms, Hashing: Hash Function and Hash 
 Tables, Collision Resolution Techniques 
- 
-5 Hrs 
+  5 Hrs 
 Text Books 
 1. YedidyahLangsam, Augenstein, M.J. and Tenanbaum, Data Structures using C and 
 C++, Second Edition, Pearson Education Asia, 2015 
@@ -1130,60 +968,45 @@ Pearson Education, 2012.
 References: 
 1. Weiss, M.A., Data Structures and Algorithm Analysis in C, 2, Pearson Education Asia, 
 1997 
-
-## Page 30
-
-FMCD2009 / 2.0 30 
- 
-. 
+ ## Page 30
+ FMCD2009 / 2.0 30 
+  . 
 Back 
- 
-2. Gilberg, R.F. and Forouzan, B.A. , Data Structures A Pseudo code Approach with C, 3, 
-Reprint,Thomson Course Technology, 2005 
+  2. Gilberg, R.F. and Forouzan, B.A. , Data Structures A Pseudo code Approach with C, 3, 
+Reprint, Thomson Course Technology, 2005 
 3. ReemaThareja, Data Structures using C , 2 nd Edition, 2014, Oxford University Press 
 4. G.W Rowe, Introduction to Data Structure and Algorithms with C and C++ , prentice 
 Hall India 
-
-## Page 31
-
-FMCD2009 / 2.0 31 
- 
-Program: Bachelor of Computer Applications Semester - II 
+ ## Page 31
+ FMCD2009 / 2.0 31 
+  Program: Bachelor of Computer Applications Semester - II 
 Course Title: Software Engineering Course Code: 23EBCC105 
 L-T-P: 3-1-0 Credits: 4 Contact: 5 hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
 Teaching hrs: 40 Practical Hours: 24 Exam Duration: 3 Hrs 
 Unit - I 
- 
-1 
+  1 
 Introduction. 
 Professional software development, Software engineering ethics, Case 
 studies. 
- 
-5 Hrs 
- 
-2 
+  5 Hrs 
+  2 
 Software processes. 
 Software process models, Process activities, Coping with change, Process 
 improvement. 
- 
-6 Hrs 
- 
-3 
+  6 Hrs 
+  3 
 Agile Software Development. 
 Agile methods, Agile development techniques, Agile project management. 
 Scaling agile methods. 
- 
-5 Hrs 
+  5 Hrs 
 Unit - II 
- 
-4 
+  4 
 Requirements Engineering. 
 Functional and Non -functional requirements, Requirements Engineering 
 processes, Requirements elicitation, Requirement specification, 
 Requirements validation, and Requirements change. 
- 
-6 Hrs 
+  6 Hrs 
 5 
 System modelling. 
 Context models, Interaction Models, Structural models, and Behavioural 
@@ -1195,13 +1018,11 @@ Architectural design decisions, Architectural views, Architectural patterns,
 and Application Architectures. 
 4 Hrs 
 Unit - III 
- 
-7 
+  7 
 Design and implementation. 
 Object-oriented design using UML, design patterns, Implementation Issues, 
 Open source development. 
- 
-4 Hrs 
+  4 Hrs 
 8 
 Software Testing. 
 Development Testing, Test-driven Development, Release Testing, and User 
@@ -1216,31 +1037,24 @@ References:
 2018 
 3 Blaha M, Rumbaugh, Object Oriented Modelling and Design with UML, Second, 
 Pearson, 2013 
- 
-Back 
-
-## Page 32
-
-FMCD2009 / 2.0 32 
- 
-Program: Bachelor of Computer Applications Semester - II 
+  Back 
+ ## Page 32
+ FMCD2009 / 2.0 32 
+  Program: Bachelor of Computer Applications Semester - II 
 Course Title: Data Structures and Algorithms Lab Course Code: 23EBCP104 
 L-T-P: 0-0-2 Credits: 2 Contact Hours: 4 Hrs/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
 Teaching Hrs: -- Tutorial/Practical: 48hrs Examination Duration: 3 Hrs. 
 Unit-I 
- 
-1 
+  1 
 Demonstration 
 Naming conventions and standards for commenting during 
 implementation. 
 Implement the various concepts like dynamic memory allocation, 
 structures and pointer. 
 Iterative and recursive algorithms 
- 
-8 Hrs 
- 
-2 
+  8 Hrs 
+  2 
 Exercises 
 Static implementation of linear data structure. 
 Various operations on linked list: Traverse, Search, Insertion, and Deletion. 
@@ -1249,8 +1063,7 @@ Recognize the merits and demerits of implementing one data structure over
 another. 
 Graph Traversal Techniques 
 Comparison of sorting algorithms efficiency. 
- 
-28 Hrs 
+  28 Hrs 
 3 Structured Enquiry 
 Applications of Graph, Tree 
 8 Hrs 
@@ -1264,18 +1077,15 @@ Education, 2012.
 References: 
 1. Weiss, M.A., Data Structures and Algorithm Analysis in C, 2, Pearson Education Asia, 1997 
 2. Gilberg, R.F. and Forouzan, B.A. , Data Structures A Pseudo code Approach with C, 3, 
-Reprint,Thomson Course Technology, 2005 
+Reprint, Thomson Course Technology, 2005 
 3. ReemaThareja, Data Structures using C , 2 nd Edition, 2014, Oxford University Press 
 4. G.W Rowe, Introduction to Data Structure and Algorithms with C and C++ , prentice Hall 
 India 
 . 
 Back 
-
-## Page 33
-
-FMCD2009 / 2.0 33 
- 
-Program: Bachelor of Computer Applications Semester – II 
+ ## Page 33
+ FMCD2009 / 2.0 33 
+  Program: Bachelor of Computer Applications Semester - II 
 Course Title: Database Management Systems Lab Course Code: 23EBCP105 
 L-T-P: 0-0-1.5 Credits: 1.5 Contact Hrs.: 3hrs/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
@@ -1284,7 +1094,7 @@ Demonstration
 1 Introduction to RDBMS and Constructing an Entity Relationship Diagram 
 for a given statement. 
 3 Hrs 
-2 Basic SQL commands – 
+2 Basic SQL commands - 
 i) DDL: CREATE, DROP, ALTER, TRUNCATE, and RENAME. 
 ii) DML: INSERT, UPDATE, and DELETE commands. 
 iii) DQL: SELECT command. 
@@ -1295,7 +1105,7 @@ ii) Specifying entity integrity constraints and foreign key constraints
 for the schema. 
 3 Hrs 
 4 i) Specifying other constraints (CHECK, DEFAULT) on relations. 
-ii) Solving simple queries for data retrieval using operators – IN, LIKE, 
+ii) Solving simple queries for data retrieval using operators - IN, LIKE, 
 BETWEEN, ALIASES. 
 4 Hrs 
 5 i) Solving aggregate functions for the given schema using GROUP BY 
@@ -1303,7 +1113,7 @@ and HAVING clause.
 ii) Queries for sorting the data in the relation. 
 4 Hrs 
 6 i) Queries using JOIN clause on the given schema. 
-ii) Solving complex JOIN operations – INNER JOIN, LEFT JOIN, RIGHT 
+ii) Solving complex JOIN operations - INNER JOIN, LEFT JOIN, RIGHT 
 JOIN, and FULL JOIN. 
 iii) Solving nested queries. 
 6 Hrs 
@@ -1322,15 +1132,11 @@ i) Developing conceptual schema.
 ii) ER-to-relational schema mapping. 
 iii) Normalizing the database. 
 4 Hrs 
-
-## Page 34
-
-FMCD2009 / 2.0 34 
- 
- iv) Populating the database with data. 
+ ## Page 34
+ FMCD2009 / 2.0 34 
+   iv) Populating the database with data. 
 v) Solving simple, complex and nested queries on the database. 
- 
-Text Book: 
+  Text Book: 
 1. Elmasri R. And Navathe S., Fundamentals Database Systems, 7th Edition, Pearson 
 Education, 2015. 
 References: 
@@ -1342,50 +1148,39 @@ W, 2007.
 Edition, McGraw-Hill, 2003. 
 . 
 Back 
-
-## Page 35
-
-FMCD2009 / 2.0 35 
- 
-Program: Bachelor of Computer Applications Semester - II 
+ ## Page 35
+ FMCD2009 / 2.0 35 
+  Program: Bachelor of Computer Applications Semester - II 
 Course Title: Problem-Solving and Analytical Skills Course Code: 23EHSH102 
 L-T-P: 0.5-0-0 Credits:0.5 Contact Hrs: 1 hr/week 
 ISA Marks: 100 ESA Marks: -- Total Marks: 100 
-Teaching Hrs: 12  Exam Duration: -- 
+Teaching Hrs: 12 Exam Duration: -- 
 Content 
- 
-1 
+  1 
 Modules 
 Analytical Thinking: Analysis of Problems, Puzzles for practice, Human 
 Relations, Direction Tests; Looking for Patterns: Number and Alphabet 
 Series, Coding Decoding; Diagrammatic Solving: Sets and Venn diagram - 
 based puzzles; Visual Reasoning, Clocks and Calendars 
- 
-Mathematical Thinking: Number System, Factors and Multiples, Using 
+  Mathematical Thinking: Number System, Factors and Multiples, Using 
 Simple Equations for Problem Solving, Ratio, Proportion, and Variation 
- 
-Verbal Ability: Problem Solving using Analogies, Sentence Completion 
+  Verbal Ability: Problem Solving using Analogies, Sentence Completion 
 Discussions & Debates: Team efforts in Problem Solving; A Zero Group 
 Discussion, Mock Group Discussions, and Feedback; Discussion v/s Debate; 
 Starting a Group Discussion: Recruitment and other Corporate Scenarios; 
 Evaluation Parameters in a Recruitment Group Discussion, Types of 
 Initiators: Verbal and Thought, Conclusion of a Discussion 
- 
-12 Hrs 
+  12 Hrs 
 Text Books 
 Vikas Modules, Innovations Unlimited Training Services, Bangalore. 
 Reference Books: 
-1.  https://www.indiabix.com/general-knowledge/questions-and-answers/ 
+1. https://www.indiabix.com/general-knowledge/questions-and-answers/ 
 . 
 Back 
-
-## Page 36
-
-FMCD2009 / 2.0 36 
- 
-III Semester 
- 
-Program: Bachelor of Computer Applications Semester - III 
+ ## Page 36
+ FMCD2009 / 2.0 36 
+  III Semester 
+  Program: Bachelor of Computer Applications Semester - III 
 Course Title: Applied Statistics Course Code: 24EBCB201 
 L-T-P: 3-0-1 Credits: 4 Contact Hours: 5 Hrs/Week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -1398,7 +1193,7 @@ Box plots, Normal Quantile-Quantile plots.
 8 Hrs 
 2 Probability 
 Introduction: Definition, Interpretation of probability value, addition rule, 
-multiplication rule, Baye’s rule. 
+multiplication rule, Baye's rule. 
 8 Hrs 
 Unit II 
 3 Random variables and Probability Distribution 
@@ -1430,20 +1225,17 @@ Hill Edition 2007.
 science applications, 1ed, PHI, 2000. 
 Reference Books: 
 1. Gupta S C and Kapoor V K, Fundamentals of Mathematical Statistics, 1ed, Sultan Chand 
-2. Jiawei Han, Micheline Kamber, Data Mining: Concepts and Techniques,MKP 
+2. Jiawei Han, Micheline Kamber, Data Mining: Concepts and Techniques, MKP 
 3. Sheldon M.Ross, Introduction to Probability and Statistics for Engineers and Scientists. 
 Back 
-
-## Page 37
-
-FMCD2009 / 2.0 37 
- 
-Program: Bachelor of Computer Applications Semester - III 
+ ## Page 37
+ FMCD2009 / 2.0 37 
+  Program: Bachelor of Computer Applications Semester - III 
 Course Title: Computer Networks Course Code: 24EBCC201 
 L-T-P:3-0-1 Credits: 4 Contact Hrs: 5hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
 Teaching Hrs: 40 Practical Hours: 24 Exam Duration: 3 hrs 
-Unit –I 
+Unit -I 
 1 Computer Networks and the Internet 
 Internet, The Network Edge and Core, Delay, Loss, and Throughput in 
 Packet-Switched Networks, Protocol Layer and Service Models: OSI and 
@@ -1454,7 +1246,7 @@ Principles of network applications, the web and HTTP, DHCP, file
 transfer-FTP, electronic mail in the internet, DNS, peer-to-peer 
 applications. 
 8Hrs 
-Unit –II 
+Unit -II 
 3 Transport-Layer 
 Introduction and transport-layer services-relationship between 
 transport and network layers - overview of the transport layer in the 
@@ -1463,12 +1255,12 @@ UDP, principles of reliable data transfer, connection-oriented transport
 TCP, TCP congestion control. 
 8 Hrs 
 4 Network Layer 
-Introduction, virtual circuit and datagram networks, what ‘s inside 
+Introduction, virtual circuit and datagram networks, what 's inside 
 router? The Internet protocol (IP): forwarding and addressing in the 
 internet, routing algorithms, routing in the internet, broadcast and 
 multi cast routing. 
 8 Hrs 
-Unit –III 
+Unit -III 
 5 The link layer: Links, Access networks, and LANs 
 Introduction to the link layer, error-detection and correction 
 techniques, multiple access links and protocols, retrospective: A day in 
@@ -1476,210 +1268,163 @@ the life of a web page request.
 8 Hrs 
 Text Books: 
 1. Computer Networking, A Top-Down Approach, by J.F.Kurose, K.W.Ross, 8th edition 
-Pearson Education,2020. 
+Pearson Education, 2020. 
 2. TCP/IP Protocol Suite, 6th MGH 2022 by B. A. Forouzan 
 Reference Books: 
-1. “Computer Networks” by ‘Andrew S. Tanenbaum’, Pearson Education Asia, 6th Edition 
+1. "Computer Networks" by 'Andrew S. Tanenbaum', Pearson Education Asia, 6th Edition 
 2021. 
 . 
 Back 
-
-## Page 38
-
-FMCD2009 / 2.0 38 
- 
-Program: Bachelor of Computer Applications Semester - III 
+ ## Page 38
+ FMCD2009 / 2.0 38 
+  Program: Bachelor of Computer Applications Semester - III 
 Course Title: Object- Oriented Programming using C++ Course Code:24EBCC202 
 L-T-P:3-0-2 Credits: 5 Contact Hrs: 7 hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
 Teaching Hrs: 40 Practical Hrs: 48 Exam Duration: 3 hrs 
-Unit –I 
- 
-1 
+Unit -I 
+  1 
 Introduction to OOPs and C++: 
 Need for Object -Orientation, Characteristics of Object -Oriented 
 Languages, Structure of C++ program, Input and Output statements: cin 
 & cout, Keywords, Data Type: Basic, Derived and User-Defined, Variable 
 declaration & initialization, Operators in C++ and their precedence, 
 Control Statement and Loops. 
- 
-6 Hrs 
- 
-2 
+  6 Hrs 
+  2 
 Functions: 
 Function Declaration, Function Definition, Calling the function, 
 Comparison with library functions, Passing Arguments to Functions, 
 Returning values from Functions, Reference Arguments, Function 
 Overloading, Recursion, Inline functions, Default Arguments. 
- 
-5 Hrs 
- 
-3 
+  5 Hrs 
+  3 
 Objects and Classes: 
 C++ Objects as Physical Objects, C++ Objects as Data Types, Constructor 
 and its types, Objects as Function Arguments, Constructor Overloading, 
 Returning objects from Functions, Classes, Objects, and Memory, Static 
 data members and member functions in C++, Pointers to objects, 
 Destructors in C++ , Nested Classes. 
- 
-5 Hrs 
-Unit –II 
- 
-4 
+  5 Hrs 
+Unit -II 
+  4 
 Arrays and Strings: 
 Defining Arrays, Initializing Arrays, Multidimensional Arrays, Passing 
 Arrays to Functions, Arrays as Class Member Data, Array of Objects. 
 String Constants, Array of Strings, Strings as Class Members, C++ string 
 Class: Defining and Assigning string Objects, I/O with string Objects, 
 Modifying and Comparing string Objects. 
- 
-5 Hrs 
- 
-5 
+  5 Hrs 
+  5 
 Inheritance and Polymorphism: 
 Derived Class and Base class, Types of Inheritance in C++, Access 
 Specifiers in C++, Derived Class Constructors, Overriding Member 
 functions, Abstract Classes. 
 Polymorphism in C++, Compile-time Polymorphism and Runtime 
-Polymorphism, Virtual Functions and Friend functions, ‘this’ pointer in 
+Polymorphism, Virtual Functions and Friend functions, 'this' pointer in 
 C++. 
- 
-6 Hrs 
- 
-6 
+  6 Hrs 
+  6 
 Operator Overloading: 
-Definition,  Rules  for  overloading  operators,  Overloading  Unary 
+Definition, Rules for overloading operators, Overloading Unary 
 Operators, Overloading Binary Operators, Manipulation of strings using 
 operators, Data Conversion. 
- 
-5 Hrs 
-Unit –III 
- 
-7 
+  5 Hrs 
+Unit -III 
+  7 
 Exception Handling: 
 Exception Handling in C++, Handling Multiple Exceptions, User-defined 
 Exceptions, Exception in Constructors and Destructors. 
- 
-4 Hrs 
+  4 Hrs 
 8 Streams and Files: 4 Hrs 
-
-## Page 39
-
-FMCD2009 / 2.0 39 
- 
- File Handling through C++ classes: Classes for file stream operations, I/O 
+ ## Page 39
+ FMCD2009 / 2.0 39 
+   File Handling through C++ classes: Classes for file stream operations, I/O 
 Redirection in C++. 
- 
-Text Books: 
-1. Object – Oriented Programming in C++, Robert Lafore, 4th edition, Pearson 
+  Text Books: 
+1. Object - Oriented Programming in C++, Robert Lafore, 4th edition, Pearson 
 Publications. 
 Reference Books: 
-1.E Balaguruswamy, Object Oriented Programming in C++, 4th Edition, Tata McGraw Hill 
+1. E Balaguruswamy, Object Oriented Programming in C++, 4th Edition, Tata McGraw Hill 
 . 
 Back 
-
-## Page 40
-
-FMCD2009 / 2.0 40 
- 
-Program: Bachelor of Computer Applications Semester - III 
+ ## Page 40
+ FMCD2009 / 2.0 40 
+  Program: Bachelor of Computer Applications Semester - III 
 Course Title: Data Mining Course Code: 24EBCC203 
 L-T-P: 3-0-1 Credits: 4 Contact Hrs: 5 hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
 Teaching Hrs: 40 Practical Hrs: 24 Exam Duration: 3hrs 
-Unit –I 
- 
-1 
+Unit -I 
+  1 
 Introduction 
 Fundamentals of data mining, Kinds of pattern, technologies used, 
 applications, issues, data objects and attribute types, Basic Statistical 
 Descriptions of Data, Data Visualization. 
- 
-7 Hrs 
- 
-2 
+  7 Hrs 
+  2 
 Data Pre-processing 
 Need of pre-processing the Data, Data Cleaning, Data Integration and 
 Transformation, Data Reduction, Discretization. 
- 
-4 Hrs 
- 
-3 
+  4 Hrs 
+  3 
 Data Warehousing and Online Analytical Processing 
 Data Warehouse: Basic Concepts, Data Warehouse Modelling: Data 
 Cube and OLAP, Data Warehouse Design and Usage, Data Warehouse 
 Implementation, Data Generalization by Attribute-Oriented Induction. 
- 
-5 Hrs 
-Unit –II 
- 
-4 
+  5 Hrs 
+Unit -II 
+  4 
 Mining Frequent Patterns, Associations, and Correlations 
 Basic Concepts, Frequent Itemset Mining Methods, Which Patterns Are 
 Interesting? Pattern Evaluation Methods, Pattern Mining in Multilevel, 
 Multidimensional Space, Constraint-Based Frequent Pattern Mining. 
- 
-5 Hrs 
- 
-5 
+  5 Hrs 
+  5 
 Classification 
 Basic Concepts, Decision Tree Induction, Bayes Classification Methods, 
 Rule-Based Classification, Model Evaluation and Selection, Techniques to 
 Improve Classification Accuracy, Bayesian Belief Networks, Classification 
 by Backpropagation 
- 
-6 Hrs 
- 
-6 
+  6 Hrs 
+  6 
 Graph Mining, Social Network Analysis, and Multi-relational Data 
 Mining 
 Methods for Mining Frequent Sub graphs, Mining Variant and 
 Constrained Substructure Patterns, Characteristics of Social Networks, 
 Mining on Social Networks, Multirelational mining, Multirelational 
 Classification, Multirelational Clustering with User Guidance. 
- 
-5 Hrs 
-Unit –III 
- 
-7 
+  5 Hrs 
+Unit -III 
+  7 
 Cluster Analysis 
 Cluster Analysis, Partitioning Methods, Hierarchical Methods, Density- 
 Based Methods, Grid-Based Methods, Evaluation of Clustering 
- 
-4 Hrs 
- 
-8 
+  4 Hrs 
+  8 
 Mining Complex Types of Data 
 Multidimensional Analysis and Descriptive Mining of Complex, Data 
 Objects, Mining Spatial Databases, Mining Multimedia Databases, 
 Mining Time Series and Sequence Data, Mining Text Databases, Mining 
 the World Wide Web. 
- 
-4 Hrs 
-
-## Page 41
-
-FMCD2009 / 2.0 41 
- 
-Text Books: 
+  4 Hrs 
+ ## Page 41
+ FMCD2009 / 2.0 41 
+  Text Books: 
 1. J. Han, M. Kamber., Data Mining Concepts and Techniques, 3rd edition, Kaufmann 
 publishers, 2011 
 Reference Books: 
 1. Pujari, A.K, Datamining Techniques, 1, Universities Press, 2010 
 . 
 Back 
-
-## Page 42
-
-FMCD2009 / 2.0 42 
- 
-Program: Bachelor of Computer Applications Semester - III 
+ ## Page 42
+ FMCD2009 / 2.0 42 
+  Program: Bachelor of Computer Applications Semester - III 
 Course Title: Full Stack Web Development Course Code: 24EBCC204 
 L-T-P: 1-0-2.5 Credits: 3.5 Contact Hrs: 6 hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
 Teaching Hrs: 12 Practical Hours: 60 Exam Duration: 1.3 hrs 
- 
-1 Introduction to HTML basics, JavaScript 
+  1 Introduction to HTML basics, JavaScript 
 Introduction to World Wide Web, Web Application Architecture, HTML 
 Basics, Cascading Style Sheets, JavaScript Basics, Bootstrap 
 12 Hrs 
@@ -1706,18 +1451,14 @@ References:
 Greg Lim, Beginning MERN Stack Development 
 . 
 Back 
-
-## Page 43
-
-FMCD2009 / 2.0 43 
- 
-Program: Bachelor of Computer Applications Semester - III 
+ ## Page 43
+ FMCD2009 / 2.0 43 
+  Program: Bachelor of Computer Applications Semester - III 
 Course Title: Arithmetical Thinking and Analytical Reasoning Course Code:23EHSH203 
 L-T-P: 0.5-0-0 Credits: 0.5 Contact Hrs: 1 hr /week 
 ISA Marks: 100 ESA Marks: -- Total Marks: 100 
-Teaching Hours: 12  Exam Duration: -- 
- 
-1 Modules: 
+Teaching Hours: 12 Exam Duration: -- 
+  1 Modules: 
 Analytical Thinking: Importance of Sense of Analysis for Engineers, 
 Corporate Methodology of Testing Sense of Analysis, Puzzles for practice: 
 Analytical, Mathematical, Classification Puzzles, Teamwork in Problem 
@@ -1734,28 +1475,24 @@ References:
 1. https://www.indiabix.com/general-knowledge/questions-and-answers/ 
 . 
 Back 
-
-## Page 44
-
-FMCD2009 / 2.0 44 
- 
-IV Semester 
- 
-Program: Bachelor of Computer Applications Semester - IV 
+ ## Page 44
+ FMCD2009 / 2.0 44 
+  IV Semester 
+  Program: Bachelor of Computer Applications Semester - IV 
 Course Title: Java Programming Course Code: 24EBCC205 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
 Teaching Hrs: 40 Tutorial/Practical: -- Examination Duration: 3 Hrs. 
 Unit-I 
 1 Introduction 
-Java Fundamentals, The History, and Philosophy of Java, Java’s Magic: The 
+Java Fundamentals, The History, and Philosophy of Java, Java's Magic: The 
 Byte code, The Java Buzzwords, The Java Development Kit, A First Simple 
 Program, Data Types, Variables, Constants, Operators, Control Statements 
 8 Hrs 
 2 Introducing Classes, Objects, and Methods 
 Class Fundamentals, Object Creation, Reference Variables and Assignment, 
 Methods, Constructors and its types, the new Operator Revisited, Garbage 
-Collection, This Keyword, Java’s Access Modifiers, Pass Objects to Methods, 
+Collection, This Keyword, Java's Access Modifiers, Pass Objects to Methods, 
 Method Overloading, Constructors Overloading, static keyword, Static 
 Blocks, Introducing Nested and Inner Classes. 
 8 Hrs 
@@ -1777,7 +1514,7 @@ Use static Methods in an Interface, Private Interface Methods.
 The Exception Hierarchy, Exception Handling Fundamentals, U sing Try and 
 catch blocks, the consequences of an uncaught exception, using multiple 
 catch statements, catching subclass exceptions, Throwing an Exception, 
-Rethrowing an Exception, A Closer Look at Throwable, Java’s Built -in 
+Rethrowing an Exception, A Closer Look at Throwable, Java's Built -in 
 Exceptions, Creating Exception Subclasses. 
 5 Hrs 
 Unit - III 
@@ -1791,108 +1528,80 @@ Collection Interfaces, Collection and Iterator Interfaces in the Java Library,
 Linked Lists, Array Lists, Hash Sets, Tree Sets, Object Comparison, Queues 
 and Dequeues, Priority Queues, Maps. 
 4 Hrs 
-
-## Page 45
-
-FMCD2009 / 2.0 45 
- 
-Text Books: 
-1. Herbert Schildt, Java: A Beginner’s Guide Ninth Edition, 9th Edition, McGraw Hill; 
+ ## Page 45
+ FMCD2009 / 2.0 45 
+  Text Books: 
+1. Herbert Schildt, Java: A Beginner's Guide Ninth Edition, 9th Edition, McGraw Hill; 
 Eighth edition(2022). 
 2. Herbert Schildt, JAVA The Complete Reference 11th edition, Tata McGraw Hill 2019. 
 References: 
 1. Kathy Sierra: Head First Java: A Brain-Friendly Guide, Third Edition, Shroff/O'Reilly; 
 Third edition (1 June 2022). 
- 
-Back 
-
-## Page 46
-
-FMCD2009 / 2.0 46 
- 
-Program: Bachelor of Computer Applications Semester - IV 
+  Back 
+ ## Page 46
+ FMCD2009 / 2.0 46 
+  Program: Bachelor of Computer Applications Semester - IV 
 Course Title: Big Data Analytics Course Code: 24EBCC206 
 L-T-P: 3-0-1 Credits: 4 Contact Hrs.: 5 hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
 Teaching Hrs: 40 Tutorial/Practical: 24 hrs Exam Duration: 3 hrs 
-Unit –I 
- 
-1 
+Unit -I 
+  1 
 Introduction 
 What is Big Data? Data Analytics, Data Analytics Life Cycle, Big Data 
 Characteristics, Different Types of Data. 
- 
-4 Hrs 
- 
-2 
+  4 Hrs 
+  2 
 Big Data Storage 
 Clusters, File Systems and Distributed File Systems, NoSQL, Sharding, 
 Replication, Combining Sharding and Replication. On Disk Storage 
 Devices, In-memory Storage Devices. 
- 
-6 Hrs 
- 
-3 
+  6 Hrs 
+  3 
 Big Data Processing 
 Parallel Data Processing, Distributed Data Processing, Hadoop, Map 
 Reduce. 
- 
-6 Hrs 
-Unit –II 
- 
-4 
+  6 Hrs 
+Unit -II 
+  4 
 Big Data Modeling 
 Data Model Structures, Data Model Operations, Processing Workloads, 
 Processing in Batch Mode, Processing in Real-time Mode. 
- 
-8 Hrs 
- 
-5 
+  8 Hrs 
+  5 
 Big Data Technologies 
 MongoDB - What is MongoDB? Why MongoDB? Terms Used in RDBMS 
 and MongoDB, Data Types in MongoDB, MongoDB Query Language. 
- 
-8 Hrs 
-Unit –III 
- 
-6 
+  8 Hrs 
+Unit -III 
+  6 
 Hive 
 What is Hive?, Hive Architecture, Hive Data Types, Hive File Format, Hive 
 Query Language (HQL), RCFile Implementation, User-Defined Function 
 (UDF). 
- 
-4 Hrs 
- 
-7 
+  4 Hrs 
+  7 
 Big Data Visualization 
 Big Data Visualization and Interpretation, Data visualization techniques, 
 Tools for Big Data visualization, Interpretation and analysis of visualized 
 data, Case studies and real-world applications 
- 
-4 Hrs 
-
-## Page 47
-
-FMCD2009 / 2.0 47 
- 
-Text Books: 
+  4 Hrs 
+ ## Page 47
+ FMCD2009 / 2.0 47 
+  Text Books: 
 1. "Big Data Fundamentals Concepts, Drivers & Techniques " by Thomas Erl, 
 WajidKhattak and Paul Buhler, Prentice Hall, 2015 
-2. “Big Data and Analytics” by Seema Acharya, SubhashiniChellappan, Wiley India Pvt 
+2. "Big Data and Analytics" by Seema Acharya, SubhashiniChellappan, Wiley India Pvt 
 Ltd 2014. 
 References: 
 1. "Big Data and Analytics: Turning Big Data into Big Money " by Frank J Ohlhorst, Wiley 
 and SAS Business Series, 2012 
 2. "Data Mining and Predictive Analysis: Intelligence Gathering and Crime Analysis " 
 by Colleen Mccue , Elsevier, 2007. 
- 
-Back 
-
-## Page 48
-
-FMCD2009 / 2.0 48 
- 
-Program: Bachelor of Computer Applications Semester - IV 
+  Back 
+ ## Page 48
+ FMCD2009 / 2.0 48 
+  Program: Bachelor of Computer Applications Semester - IV 
 Course Title: DevOps Lab Course Code: 24EBCP201 
 L-T-P: 0-0-1.5 Credits: 1.5 Contact Hours: 3 hrs/week 
 ISA Marks: 80 ESA Marks:20 Total Marks: 100 
@@ -1902,7 +1611,7 @@ Unit I
 Introducing DevOps, The Agile wheel of wheels, DevOps and ITIL. The 
 revision control system, The build server, The artifact repository, Package 
 managers, Test environments, Staging/production, Release management, 
-Scrum, Kanban, and the delivery pipeline, W rapping up – a complete 
+Scrum, Kanban, and the delivery pipeline, W rapping up - a complete 
 example, Identifying bottlenecks. 
 8 Hrs 
 2 Everything is Code 
@@ -1915,7 +1624,7 @@ Docker intermission, Gerrit : a ) Installing the git-review package, b)The value
 of history revisionism, The pull request model, GitLab. 
 8 Hrs 
 3 Building the Code 
-Why do we build code? The many faces of build  systems, The Jenkins build 
+Why do we build code? The many faces of build systems, The Jenkins build 
 server, managing build dependencies, Continuous Integration, Continuous 
 Delivery, Jenkins plugins, the host server, build slaves, Software on the host, 
 Triggers, Job chaining and build pipelines, A look at the Jenkins file system 
@@ -1936,27 +1645,21 @@ Text Books :
 February 2016, ISBN: 9781785882876. 
 Reference Books: 
 1. Effective DevOps, Building a Culture of Collaboration, Affinity, and Tooling at Scale 
-,By Jennifer Davis, Ryn Daniels, Publisher: O&#39;Reilly Media, Release Date: June 
+,By Jennifer Davis, Ryn Daniels, Publisher: O&#39; Reilly Media, Release Date: June 
 2016. 
-
-## Page 49
-
-FMCD2009 / 2.0 49 
- 
-Back 
+ ## Page 49
+ FMCD2009 / 2.0 49 
+  Back 
 2. The DevOps Handbook: How to Create World -Class Speed, Reliability, and Security 
 in Technology Organizations, Gene Kim, Patrick Debois, John Willis, Jez HumbleIT 
 Revolution Press, 2016. 
-
-## Page 50
-
-FMCD2009 / 2.0 50 
- 
-Program: Bachelor of Computer Applications Semester - IV 
+ ## Page 50
+ FMCD2009 / 2.0 50 
+  Program: Bachelor of Computer Applications Semester - IV 
 Course Title: Minor Project-1 Course Code: 23EBCP201 
 L-T-P: 0-0-6 Credits: 6 Contact Hrs: 12 hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 150  Exam Duration: 3hrs 
+Teaching Hrs: 150 Exam Duration: 3hrs 
 Project Theme: 
 Dynamic Client-Server Web Applications: Delivering Rich Interactive Experiences 
 The projects under this theme shall focus on integration of client -server architecture to 
@@ -1994,19 +1697,15 @@ Methodology:
 Students are asked to make a team of 3-4 members and can choose the different categories 
 of projects like desktop applications, web applications, mobile applications, and distributed 
 applications and work once it is approved by the coordinator. 
- 
-Back 
-
-## Page 51
-
-FMCD2009 / 2.0 51 
- 
-Program: Bachelor of Computer Applications Semester - IV 
+  Back 
+ ## Page 51
+ FMCD2009 / 2.0 51 
+  Program: Bachelor of Computer Applications Semester - IV 
 Course Title: Java Programming Lab Course Code: 23EBCP202 
 L-T-P:0-0-2 Credits: 2 Contact Hrs: 4 hrs/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
 Teaching Hrs: -- Practical Hours: -- 48 Exam Duration: 3 hrs 
-Unit – 1 
+Unit - 1 
 Demonstration 
 Java fundamentals 
 Inheritance Concepts 
@@ -2017,7 +1716,7 @@ Exercises
 2. Interface, Abstract class and inheritance with method overriding and Hiding 
 3. Exception handling and Collections 
 Multi-threading concept 
-Unit – 2 
+Unit - 2 
 Structured Query 
 1. Based on Java fundamental concepts, Simulate a simple calculator app as menu driven 
 application. 
@@ -2025,28 +1724,22 @@ application.
 1. Inheritance with abstraction using Abstract class and Interfaces 
 2. Exception Handling 
 Usage of Collections ArrayList and HashMap 
- 
-Text Books 
-1. Herbert Schildt, Java: A Beginner’s Guide Ninth Edition, 9th Edition, McGraw Hill; 
+  Text Books 
+1. Herbert Schildt, Java: A Beginner's Guide Ninth Edition, 9th Edition, McGraw Hill; 
 Eighth edition (2022). 
 2. Herbert Schildt, JAVA The Complete Reference 11th edition, Tata McGraw Hill 2019. 
- 
-References 
+  References 
 1. Kathy Sierra: Head First Java: A Brain-Friendly Guide, Third Edition, Shroff/O'Reilly; 
 Third edition (1 June 2022). 
-
-## Page 52
-
-FMCD2009 / 2.0 52 
- 
-Program: Bachelor of Computer Applications Semester - IV 
+ ## Page 52
+ FMCD2009 / 2.0 52 
+  Program: Bachelor of Computer Applications Semester - IV 
 Course Title: Industry Readiness and Leadership Skills Course Code: 23EHSH204 
 L-T-P:0.5-0-0 Credits: 0.5 Contact Hrs: 1 hr/week 
 ISA Marks: 100 ESA Marks: -- Total Marks: 100 
-Teaching Hrs: 12  Exam Duration: -- 
-Unit – I 
- 
-1 
+Teaching Hrs: 12 Exam Duration: -- 
+Unit - I 
+  1 
 Modules: 
 Written Communication: Successful Job Applications, Résumé Writing, 
 Emails, Letters, Business Communication, Essay and Paragraph Writing 
@@ -2058,121 +1751,94 @@ Fractionation and Brain Storming, Mind Maps, Creativity Enhancement
 through Activities 
 Team Building & Leadership Skills: Communication in a Team, Leadership 
 Styles, Playing a Team member, Ethic 
- 
-12 Hrs 
+  12 Hrs 
 Text Books: 
 1 Vikas Modules, Innovations Unlimited Training Services, Bangalore. 
 References: 
-1.  https://www.indiabix.com/general-knowledge/questions-and-answers/ 
- 
-Back 
-
-## Page 53
-
-FMCD2009 / 2.0 53 
- 
-Program: Bachelor of Computer Applications Semester - IV 
+1. https://www.indiabix.com/general-knowledge/questions-and-answers/ 
+  Back 
+ ## Page 53
+ FMCD2009 / 2.0 53 
+  Program: Bachelor of Computer Applications Semester - IV 
 Course Title: Professional Aptitude and Logical Reasoning Course Code: 23EHSC201 
 L-T-P:3-0-0 Credits: 3 Contact Hrs: 3 hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 40  Exam Duration: 3 hrs 
-Unit –I 
-1 Chapter 1. – Arithmetical Reasoning 10 Hrs 
-2 Chapter 2. – Analytical Thinking 4 Hrs 
-3 Chapter 3. – Syllogistic Logic, 2 Hrs 
-Unit –II 
-4 Chapter 4. – Verbal Logic 9 Hrs 
-5 Chapter 5. – Non-Verbal Logic 7 Hrs 
-Unit –III 
+Teaching Hrs: 40 Exam Duration: 3 hrs 
+Unit -I 
+1 Chapter 1. - Arithmetical Reasoning 10 Hrs 
+2 Chapter 2. - Analytical Thinking 4 Hrs 
+3 Chapter 3. - Syllogistic Logic, 2 Hrs 
+Unit -II 
+4 Chapter 4. - Verbal Logic 9 Hrs 
+5 Chapter 5. - Non-Verbal Logic 7 Hrs 
+Unit -III 
 6 Chapter 6. - Lateral Thinking 8 Hrs 
 Text Books: 
-1. A Modern Approach to Verbal and Non – Verbal Reasoning – R. S. Aggarwal, Sultan 
+1. A Modern Approach to Verbal and Non - Verbal Reasoning - R. S. Aggarwal, Sultan 
 Chand and Sons, New Delhi 
-2. Quantitative Aptitude – R. S. Aggarwal, Sultan Chand and Sons, New Delhi 
+2. Quantitative Aptitude - R. S. Aggarwal, Sultan Chand and Sons, New Delhi 
 Reference Books: 
-1 .Verbal and Non – Verbal Reasoning – Dr. Ravi Chopra, MacMillan India 
-2. Lateral Thinking – Dr. Edward De Bono, Penguin Books, New Delhi 
- 
-Back 
-
-## Page 54
-
-FMCD2009 / 2.0 54 
- 
-V- Semester 
- 
-Program: Bachelor of Computer Applications Semester: V 
+1 .Verbal and Non - Verbal Reasoning - Dr. Ravi Chopra, MacMillan India 
+2. Lateral Thinking - Dr. Edward De Bono, Penguin Books, New Delhi 
+  Back 
+ ## Page 54
+ FMCD2009 / 2.0 54 
+  V- Semester 
+  Program: Bachelor of Computer Applications Semester: V 
 Course Title: Cloud computing Course Code: 24EBCC301 
 L-T-P:3-0-1 Credits: 4 Contact Hrs.: 5 hrs./week 
 ISA Marks: 63 ESA Marks: 37 Total Marks: 100 
 Teaching Hrs.: 40 Practical Hours: 24 Exam Duration: 3 hrs 
- 
-Content 
-Unit –I 
- 
-1 
+  Content 
+Unit -I 
+  1 
 Introduction 
 Motivation for cloud computing, elastic computing and its advantages: Business 
 models for cloud providers, Types of clouds: multi -cloud, cloud platforms. Data 
 center infrastructure: Network equipment and multi-port server interfaces, Leaf 
 spine network topology 
- 
-5 Hrs 
- 
-2 
+  5 Hrs 
+  2 
 Virtualization and containerization 
 Virtual Machines: approaches to virtualization, levels of trust, live migration of 
 virtual machines. Advantages and disadvantages of virtual machines, isolation 
 facilities in an operating system, Linux namespaces used for isolation, container 
 approach for isolated apps, Docker containers, Docker software components, items 
 in a Docker file. Monolithic applications in a data center 
- 
-10 
+  10 
 Hrs 
-Unit –II 
- 
-3 
+Unit -II 
+  3 
 Automation 
 Automation in data centers, Advantages and disadvantages of Automation levels of 
 automation, zero touch provisioning and infrastructure as code, automation tools 
- 
-4 Hrs 
- 
-4 
+  4 Hrs 
+  4 
 Orchestration 
 Orchestration: Automation with a larger scope, Kubernetes: container orchestration 
 system, Kubernetes cluster model, Kubernetes pods: creation, templates, and 
 binding time, Kubernetes nodes and control plane, worker node software 
 components 
- 
-10 
+  10 
 Hrs 
-Unit –III 
- 
-5 
+Unit -III 
+  5 
 Microservices 
 The Microservices approach, advantages and disadvantages of Microservices, 
 Microservices Granularity, Communication protocols used for Microservices, 
 communication among Microservices, creating a Microservices, server mesh proxy 
- 
-6 Hrs 
- 
-6 
+  6 Hrs 
+  6 
 Serverless computing and event processing 
 Traditional client -server architecture, scaling a server in a cloud environment, 
 Serverless computing approach, stateless servers and containers, Architecture of a 
 Serverless infrastructure, An example of Serverless processing, advantages and 
 disadvantages of Serverless computing. 
- 
-5 Hrs 
-
-## Page 55
-
-FMCD2009 / 2.0 55 
- 
-Text Books: 
- 
-1. Douglas Comer, “The Cloud Computing: The Future of Computing”, 1st ed, Chapman and 
+  5 Hrs 
+ ## Page 55
+ FMCD2009 / 2.0 55 
+  Text Books: 
+  1. Douglas Comer, "The Cloud Computing: The Future of Computing", 1st ed, Chapman and 
 Hall/CRC 1 July 2021. 
 2. Dan C. Marinescu, Cloud Computing Theory and Practice, 3rd Edition, Elsevier - February 15, 
 2022. 
@@ -2181,10 +1847,8 @@ Reference Books:
 Hill, 2013. 
 2. Anthony T. Velte, Toby J. Velte, Robert Elsenpeter, Cloud Computing, A Practical Approach, 
 McGraw Hil, 2017 
- 
-Integrated Practices 
- 
-Expt./Job 
+  Integrated Practices 
+  Expt./Job 
 No. 
 Brief description about the experiments Slots 
 1 Hypervisors (Type-I and Type-II). Virtual machines with 
@@ -2193,14 +1857,10 @@ Para/Full Virtualization
 2 Implementation of cloud service models (IaaS, PaaS, SaaS) 03 
 3 Demonstration of Docker and containers 03 
 4 Implementation Docker and containers 03 
- 
-Back 
-
-## Page 56
-
-FMCD2009 / 2.0 56 
- 
-Program: Bachelor of Computer Applications Semester - V 
+  Back 
+ ## Page 56
+ FMCD2009 / 2.0 56 
+  Program: Bachelor of Computer Applications Semester - V 
 Course Title: Advanced Java Programming Course Code: 24EBCC302 
 L-T-P: 3-0-1 Credits: 4 Contact Hours: 5 hrs/week 
 ISA Marks: 63 ESA Marks: 37 Total Marks: 100 
@@ -2234,7 +1894,7 @@ Bean, Types of Properties.
 6 Introduction to Spring Framework 
 Introduction to spring 3.0, spring configuration, IOC, DI, Basic MVC flow 
 5 hrs 
-Unit – III 
+Unit - III 
 7 Introduction to Spring Boot 
 Introduction to Spring Boot, Bootstrapping, tomcat Deployment, Building 
 RESTFUL Web Services, Exception Handling 
@@ -2248,14 +1908,11 @@ Text Books
 Hill, 2022 
 2. Java for Web Development, Sarika Agarwal and Vivek Gupta BPB Publications, 2022 
 References Books: 
-1. Core Java Volume II – Advanced Features (13th Edition), Authors: Cay S. Horstmann, 
+1. Core Java Volume II - Advanced Features (13th Edition), Authors: Cay S. Horstmann, 
 2024 
-
-## Page 57
-
-FMCD2009 / 2.0 57 
- 
-Expt. 
+ ## Page 57
+ FMCD2009 / 2.0 57 
+  Expt. 
 No. 
 Integrated Practices Lab 
 Slots 
@@ -2284,21 +1941,17 @@ bean action tag
 8. Program to demonstrate Spring DI and MVC framework with Hibernate 
 Integration. Note: Use maven as build tool 
 2 
- 
-Back 
+  Back 
 2. Advanced Java Programming, Prof. Pushpender Sarao, Lambert Academic Publishing, 
 2023 
-
-## Page 58
-
-FMCD2009 / 2.0 58 
- 
-Program: Bachelor of Computer Applications Semester: V 
+ ## Page 58
+ FMCD2009 / 2.0 58 
+  Program: Bachelor of Computer Applications Semester: V 
 Course Title: Machine Learning Course Code: 24EBCC303 
 L-T-P: 3-0-1 Credits: 4 Contact Hrs: 5 hrs/week 
 ISA Marks: 63 ESA Marks: 37 Total Marks: 100 
 Teaching Hrs: 40 Practical: 24 ESA Exam Duration: 3 hrs 
-Unit –I 
+Unit -I 
 1 Introduction to Machine Learning 
 Introduction to Machine Learning, Applications of Machine Learning, Types 
 of Machine Learning: Supervised, Unsupervised and Reinforcement 
@@ -2309,7 +1962,7 @@ Linear Regression, Logistic Regression: Single and Multiple variables, Sum
 of Squares Error Function, The Gradient Descent Algorithm: Application, 
 The Cost Function, Classification Using Logistic Regression, Regularization. 
 10 hrs 
-Unit –II 
+Unit -II 
 3 Supervised Learning Classification 
 Introduction to Neural Network, Model representation, Gradient Checking, 
 Back Propagation Algorithm, Multi-class Classification, Support Vector 
@@ -2320,14 +1973,13 @@ Introduction to Clustering, K Means Clustering Algorithm, Cost Function,
 Application, Dimensionality Reduction, PCA- Principal Component Analysis 
 Applications, Clustering Data, and PCA. 
 8 hrs 
-Unit –III 
+Unit -III 
 5 Introduction to Deep Learning and CNN 
 Deep Learning, Difference between Machine Learning and Deep Learning, 
 Usage of Deep Learning, Deep Feed forward Networks, Convolution Neural 
-Networks (CNN) – Convolutional Layer: Filters, Stacking Multiple Feature 
+Networks (CNN) - Convolutional Layer: Filters, Stacking Multiple Feature 
 Maps, Tensor Flow Implementation, Pooling Layer, and CNN Architectures. 
- 
-5 hrs 
+  5 hrs 
 6 Recurrent Neural Networks 
 Unfolding Computational Graphs, Recurrent Neural Networks, 
 Bidirectional 
@@ -2335,7 +1987,7 @@ RNNs, Sequence Modelling.
 3 hrs 
 Text Book: 
 1. Aurelien Geron, Hands on Machine Learning with Scikit-Learn, Keras and 
-TensorFlow, 2nd Edition, O’ Reilly Media, Inc. 2019 
+TensorFlow, 2nd Edition, O' Reilly Media, Inc. 2019 
 Reference Books: 
 1. Tom Mitchell., Machine Learning, Mc Graw Hill, McGraw-Hill Science, 3rd edition. 
 2. Aurelian Gerona, Hands -On Machine Learning with Scikit -Learn and Tensor Flow, 
@@ -2343,12 +1995,9 @@ Concepts, Tools, and Techniques to Build Intelligent Systems, Publisher: O'Reill
 Media, July, 2016. 
 3. Luca Pietro Giovanni Antiga, Thomas Viehmann, Eli Stevens, Deep Learning with 
 PyTorch Manning Publications, 2020. 
-
-## Page 59
-
-FMCD2009 / 2.0 59 
- 
-Expr. 
+ ## Page 59
+ FMCD2009 / 2.0 59 
+  Expr. 
 No. 
 Integrated Practices Sessions 
 1 Explore the features of Scikit-learn, NumPy, SciPy, and TensorFlow Libraries 
@@ -2375,80 +2024,66 @@ groupings in data.
 8 Develop a Convolutional Neural Network (CNN) to solve real-world 
 problems involving image data. 
 2 
- 
-Back 
-
-## Page 60
-
-FMCD2009 / 2.0 60 
- 
-Program: Bachelor of Computer Applications Semester: V 
+  Back 
+ ## Page 60
+ FMCD2009 / 2.0 60 
+  Program: Bachelor of Computer Applications Semester: V 
 Course Title: Natural Language Processing and Gen AI Course Code:24EBCC304 
 L-T-P: 2-0-2 Credits: 4 Contact Hrs: 6 hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
 Teaching Hrs: 30 Practical Hours: 48 Exam Duration:2 Hrs 
 Unit I 
- 
-1 
+  1 
 Introduction to NLP & Preprocessing 
 NLP overview & applications, Challenges in language understanding, Basic components of 
 NLP systems, Text preprocessing: Tokenization, Stop word removal, Stemming, 
 Lemmatization, POS tagging, Bag of Words, Introduction to word embeddings. 
 5 hrs 
- 
-2 
+  2 
 Parsing and Syntax Analysis 
 Grammar rules in NLP, Dependency and Constituency Parsing, Parsing techniques and 
 algorithms, Introduction to neural dependency parsing 
 4 hrs 
- 
-3 
+  3 
 Language Models & Transformers 
 N-grams and statistical models, Neural language models: Word2Vec, GloVe, Transformers 
 for text understanding and generation, Sequence -to-sequence models, Attention 
 mechanisms 
 6 hrs 
 Unit II 
- 
-4 
+  4 
 Machine Translation & Generation 
 Overview of Machine Translation, Statistical vs Neural Machine Translation, Seq2Seq with 
 attention, Text generation techniques: LSTM, Transformers, Role of Auto encoders & 
 Decoders 
 5 hrs 
- 
-5 
+  5 
 Generative AI and Advanced Architectures 
 Discriminative vs Generative models, Generative Adversarial Networks (GANs) in NLP, 
-Types of GANs, Diffusion models: concepts & types, Introduction to Chabot’s and Dialogue 
+Types of GANs, Diffusion models: concepts & types, Introduction to Chabot's and Dialogue 
 Systems 
 5 hrs 
- 
-6 
+  6 
 Large Language Models (LLMs) 
 Introduction to LLMs: GPT, BERT, Prompting techniques for GenAI, Adapters and LoRA 
 (Low-Rank Adaptation), Applications and limitations of LLMs 
 5 hrs 
 Text Books: 
-1. “Practical Natural Language Processing: A comprehensive Guide to Building Real World NLP systems” 
-by Sowmya Vajjala,Bodhisattwa Majumder,Anuj Gupta and Harshit Surana.2020 
-2. "Hands-On Generative AI with Transformers and Diffusion Models by Omar Sanseviero,Pedro 
-Cuenca,Apolinario Passos,Jonathan Whitakar,2024 
+1. "Practical Natural Language Processing: A comprehensive Guide to Building Real World NLP systems" 
+by Sowmya Vajjala, Bodhisattwa Majumder, Anuj Gupta and Harshit Surana.2020 
+2. "Hands-On Generative AI with Transformers and Diffusion Models by Omar Sanseviero, Pedro 
+Cuenca, Apolinario Passos, Jonathan Whitakar, 2024 
 Reference Books: 
 1. "Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play" by David 
-Foster,2019 
- 
-Back 
-
-## Page 61
-
-FMCD2009 / 2.0 61 
- 
-Program: Bachelor of Computer Applications Semester: V 
+Foster, 2019 
+  Back 
+ ## Page 61
+ FMCD2009 / 2.0 61 
+  Program: Bachelor of Computer Applications Semester: V 
 Course Title: Minor Project-2 Course Code: 23EBCP301 
 L-T-P: 0-0-6 Credits: 6 Contact Hours: 12 Hrs/Week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 150  Exam Duration: 3 Hours 
+Teaching Hours: 150 Exam Duration: 3 Hours 
 Content 
 Project Theme 1: 
 1. Big Data and Data Analytics using Machine Learning 
@@ -2458,11 +2093,10 @@ explore methods for collecting, processing, and analyzing large datasets, and wi
 Machine Learning techniques to derive meaningful insights. Through this theme, students will 
 enhance their understanding of distributed data systems, data processing pipelines, and 
 algorithmic learning models. 
- 
-OR 
+  OR 
 Project Theme2: 
 Modern Web Application Development with Full-Stack Technologies 
-1.Java-Based Applications 
+1. Java-Based Applications 
 This theme provides students the opportunity to develop software solutions using Java-based 
 technologies, encouraging strong foundations in object -oriented programming, application 
 logic, and modular design. Students will gain hands -on experience in developing scalable, 
@@ -2473,7 +2107,7 @@ OR
 This theme is designed to immerse students in full -stack web development using the MERN 
 stack. It enables learners to design and build modern, r esponsive, and data -driven web 
 applications. Emphasis is placed on front -end and back -end integration, RESTful API 
-development, and NoSQL database interactions,  aligning with current industry practices and 
+development, and NoSQL database interactions, aligning with current industry practices and 
 trends in web application development. 
 Objectives: 
 At the end of the course, students will be able to: 
@@ -2488,14 +2122,10 @@ large datasets.
 implementation of real-world problems. 
 7. Integrate Machine Learning models into web or desktop applications to offer intelligent 
 data-driven features. 
-
-## Page 62
-
-FMCD2009 / 2.0 62 
- 
-Scheme of Evaluation 
- 
-In-Semester 
+ ## Page 62
+ FMCD2009 / 2.0 62 
+  Scheme of Evaluation 
+  In-Semester 
 Assessment 
 Assessment Marks 
 Problem Definition, Literature Review 05 
@@ -2514,21 +2144,16 @@ Presentation, Demonstration 30
 Modification 10 
 Viva-voce 10 
 Total 50 
- 
-Back 
-
-## Page 63
-
-FMCD2009 / 2.0 63 
- 
-List of Electives 
- 
-Program: Bachelor of Computer Applications Semester: V 
+  Back 
+ ## Page 63
+ FMCD2009 / 2.0 63 
+  List of Electives 
+  Program: Bachelor of Computer Applications Semester: V 
 Course Title: Cyber Security Course Code: 24EBCE301 
 L-T-P: 3-0-1 Credits: 4 Contact Hrs: 5 Hrs/week 
 ISA Marks: 63 ESA Marks: 37 Total Marks: 100 
 Teaching Hrs: 40 Practical: 24 ESA Exam Duration: 3 Hrs 
-Unit –I 
+Unit -I 
 1 Introduction to Cybercrime, Cyber offences 
 Cybercrime definition and origins of the word, Cybercrime and 
 information Security, Classifications of Cybercrimes, A global Perspective 
@@ -2543,7 +2168,7 @@ Worms, Trojan and backdoors, Steganography, DOS and DDOS attack,
 SQL injection, Buffer Overflow, Attacks on wireless networks, Phishing, 
 identity Thefts. 
 8 hrs 
-Unit –II 
+Unit -II 
 3 Cybercrimes and Cyber security: The Legal Perspectives Organizational 
 Implications 
 Cybercrime and the legal landscape around world, why do we need Cyber 
@@ -2551,7 +2176,7 @@ laws: The Indian Context, The Indian IT Act, Digital Signature and the
 Indian IT Act, Amendments to the Indian IT Act, Cybercrime and 
 Punishment, Cost of cybercrime and IPR issues, Web threats for 
 organization, cloud computing threats; security and privacy implications, 
-social  computing  issues;  Guidelines  for  internet  usage  and  safe 
+social computing issues; Guidelines for internet usage and safe 
 computing; incident handling. 
 8 hrs 
 4 Understanding computer Forensics, Forensics of Hand-held devices 
@@ -2562,33 +2187,27 @@ Forensics and social networking; challenges in computer forensics; Hand-
 held devices and digital forensics; Toolkits for Hand-held device forensics; 
 Techno-legal challenges form hand-held devices Guidelines. 
 8 hrs 
-Unit –III 
+Unit -III 
 5 Social, Political, Ethical and Psychological Dimensions 
 Intellectual property at the Cyberspace; Ethical dimension of 
 Cybercrimes; Psychology, Mindset and Skills of hackers and other 
- 
-4 hrs 
-
-## Page 64
-
-FMCD2009 / 2.0 64 
- 
- cybercriminals; Sociology of cybercriminals.  
+  4 hrs 
+ ## Page 64
+ FMCD2009 / 2.0 64 
+   cybercriminals; Sociology of cybercriminals. 
 6 Cybercrime: Illustrations, Examples and Mini Cases 
 Introduction, Real-Life Examples, Case Studies: Illustrations of Financial 
 Frauds in Cyber Domain, Digital Signature-Related Crime Scenarios, 
 Digital forensics case illustrations Online Scams. 
 4 hrs 
 Text Book: 
-1. Nina Godbole & Sunit Belapur, “Cyber Security”, Wiley India, 2011 and Reprint 2018. 
+1. Nina Godbole & Sunit Belapur, "Cyber Security", Wiley India, 2011 and Reprint 2018. 
 Reference Book: 
-1. Dhiren R Patel, “Information security theory & practice”, PHI learning PVT. Ltd, 2010. 
-2. Bill Nelson, “Guide to Computer Forensics and Investigations”, 4th Edition, CENGAGE 
+1. Dhiren R Patel, "Information security theory & practice", PHI learning PVT. Ltd, 2010. 
+2. Bill Nelson, "Guide to Computer Forensics and Investigations", 4th Edition, CENGAGE 
 Publication. 2009 
- 
-Integrated Practices 
- 
-Sl. No Name of the Experiment Session 
+  Integrated Practices 
+  Sl. No Name of the Experiment Session 
 1 Kali Linux -commands. 1 
 2 Symmetric and asymmetric algorithms. 1 
 3 Network Mapper utility for network discovery and security 
@@ -2611,48 +2230,39 @@ iv. Source code Theft
 v. Software piracy 
 1 
 Back 
-
-## Page 65
-
-FMCD2009 / 2.0 65 
- 
-Program: Bachelor of Computer Applications Semester: V 
+ ## Page 65
+ FMCD2009 / 2.0 65 
+  Program: Bachelor of Computer Applications Semester: V 
 Course Title: Security Operations & Incident Response Course Code: 24EBCE302 
 L-T-P: 3-0-1 Credits: 4 Contact Hours: 5 Hrs/Week 
 ISA Marks: 63 ESA Marks: 37 Total Marks: 100 
 Teaching Hours: 40 Practical Hours: 24 Exam Duration: 3 Hours 
 Unit I 
- 
-1 
+  1 
 Security Operations Fundamentals 
 CIA triad, Defence-in-Depth, SOC roles (Tier 1/2/3 analysts). SOC tools and 
 Technologies (SIEM, EDR, IDS/IPS). 
- 
-5 Hrs 
+  5 Hrs 
 2 Incident Response Lifecycle 
-NIST Incident  Response Framework  (Preparation,  Detection, Analysis, 
-Containment, Eradication,  Recovery, Post-Incident Review), Legal and 
+NIST Incident Response Framework (Preparation, Detection, Analysis, 
+Containment, Eradication, Recovery, Post-Incident Review), Legal and 
 Compliance considerations (GDPR, HIPAA, PCI-DSS). 
- 
-6 Hrs 
+  6 Hrs 
 3 Threat Intelligence 
 Types of threat intelligence (Strategic, Tactical, Operational). Threat feeds (MISP, 
 STIX/TAXII), MITRE ATT&CK Framework. 
- 
-5Hrs 
+  5Hrs 
 Unit II 
 4 Monitoring & Detection 
 Log management (Syslog, Windows Event Logs), Rule creation for SIEM (Splunk, 
 ELK Stack), anomaly detection. 
- 
-6 Hrs 
+  6 Hrs 
 5 Incident Triage & Analysis 
 False positive/negative analysis, IoC (Indicators of Compromise) identification. 5 Hrs 
 6 Incident Response Tools & Techniques 
 Digital Forensics, Disk imaging (FTK Imager), memory forensics, (Volatility), 
 Timeline analysis, chain of custody. 
- 
-5 Hrs 
+  5 Hrs 
 Unit III 
 7 Malware Analysis 
 Static vs. dynamic analysis (Cuckoo Sandbox, Ghidra). 4 Hrs 
@@ -2660,214 +2270,156 @@ Static vs. dynamic analysis (Cuckoo Sandbox, Ghidra). 4 Hrs
 Packet capture analysis (Wireshark, TCPdump), detecting lateral movement. 
 4 Hrs 
 Text Books: 
-1. The Web Application Hacker’s Handbook (2nd Ed.) – Dafydd Stuttard, Marcus Pinto – 
+1. The Web Application Hacker's Handbook (2nd Ed.) - Dafydd Stuttard, Marcus Pinto - 
 2021 
-2. The Art of Software Security Assessment – Mark Dowd, John McDonald, Justin Schuh – 
+2. The Art of Software Security Assessment - Mark Dowd, John McDonald, Justin Schuh - 
 2021 
-3. Practical Web Application Security (3rd Ed.) – Andrew Hoffman – 2022 
-
-## Page 66
-
-FMCD2009 / 2.0 66 
- 
-Sl.l No. Integrated Practices Lab Slot 
- 
-1 
+3. Practical Web Application Security (3rd Ed.) - Andrew Hoffman - 2022 
+ ## Page 66
+ FMCD2009 / 2.0 66 
+  Sl.l No. Integrated Practices Lab Slot 
+  1 
 SIEM Setup and Log Collection: 
 Set up a SIEM (Security Information and Event Management) system and 
 Configure it to collect logs from various sources like servers, firewalls, and 
 network devices. 
- 
-1 
- 
-2 
+  1 
+  2 
 Log Analysis and Event Correlation: 
 Analyze the collected logs to identify patterns and correlate events to 
 detect security incidents or potential threats. 
- 
-1 
- 
-3 
+  1 
+  3 
 IDS/IPS Alert Analysis: 
 Monitor and analyze alerts generated by an Intrusion Detection or 
 Prevention System to identify and investigate suspicious or malicious 
 activity. 
- 
-1 
- 
-4 
+  1 
+  4 
 Network Traffic Analysis: 
 Capture and examine network traffic using tools like Wireshark to detect 
 Anomalies or signs of cyberattacks. 
- 
-1 
- 
-5 
+  1 
+  5 
 Malware Analysis and Threat Detection: 
 Analyze malware samples in a safe environment to understand their 
 Behavior and identify indicators of compromise. 
- 
-1 
- 
-6 
+  1 
+  6 
 Memory Dump and Analysis: 
 Capture and analyze system memory to uncover running processes, 
 hidden malware, or traces of advanced persistent threats (APTs). 
- 
-1 
- 
-7 
+  1 
+  7 
 Forensic Disk Imaging and Analysis: 
 Create a forensic image of a disk and analyze it to extract evidence 
 related to security breaches or data leaks. 
- 
-1 
- 
-8 
+  1 
+  8 
 Incident Response Simulation: Phishing Email Attack: 
 Simulate a phishing attack and carry out the appropriate response steps 
 including email header analysis, user notification, and containment. 
- 
-1 
- 
-9 
+  1 
+  9 
 Incident Response Simulation: Ransomware Attack: 
 Perform a controlled ransomware simulation and respond with 
-Containment, system isolation, and investigation of the ransomware’s 
+Containment, system isolation, and investigation of the ransomware's 
 behavior. 
- 
-1 
- 
-10 
+  1 
+  10 
 Threat Hunting with MITRE ATT&CK Framework: 
 Use the MITRE ATT&CK framework to proactively search for threats in 
 your network based on known adversary techniques. 
- 
-1 
- 
-11 
+  1 
+  11 
 Log Correlation for Insider Threat Detection: 
 Correlate user and system activity logs to detect signs of insider threats, 
 such as unauthorized access or data exfiltration. 
- 
-1 
-
-## Page 67
-
-FMCD2009 / 2.0 67 
- 
-12 
+  1 
+ ## Page 67
+ FMCD2009 / 2.0 67 
+  12 
 Incident Documentation and Reporting: 
 Document all actions taken during a cybersecurity incident and create a 
 detailed report covering analysis, response, and remediation steps. 
- 
-1 
- 
-Back 
-
-## Page 68
-
-FMCD2009 / 2.0 68 
- 
-Program: Bachelor of Computer Applications Semester: V 
+  1 
+  Back 
+ ## Page 68
+ FMCD2009 / 2.0 68 
+  Program: Bachelor of Computer Applications Semester: V 
 Course Title: Ethical Hacking and Penetration Testing Course Code:24EBCE303 
 L-T-P: 3-0-1 Credits: 4 Contact Hours: 5 Hrs/Week 
 ISA Marks: 63 ESA Marks: 37 Total Marks: 100 
 Teaching Hours: 40 Practical Hours: 24 Exam Duration: 3 Hours 
 Unit I 
- 
-1 
+  1 
 Introduction to Ethical Hacking: 
 Fundamentals of Ethical Hacking, Hacking phases and lifecycle, Legal, regulatory, 
 and ethical considerations, Types of hackers (Black, White, Grey, Script Kiddies) 
 CEH scope and career path 
- 
-4 Hrs 
- 
-2 
+  4 Hrs 
+  2 
 Foot printing and Reconnaissance: 
 Types of foot printing (Active, Passive), Open -source intelligence (OSINT) 
-techniques, WHOIS,DNS, Email, Social Media reconnaissance, Countermeasures 
+techniques, WHOIS, DNS, Email, Social Media reconnaissance, Countermeasures 
 against foot printing 
- 
-3 Hrs 
+  3 Hrs 
 3 Scanning Networks: 
 Network scanning methodologies, Port scanning with Nmap, Vulnerability 
 scanning concepts, Banner grabbing, network mapping, Countermeasures 
- 
-3 Hrs 
- 
-4 
+  3 Hrs 
+  4 
 Enumeration: 
 Enumeration techniques (NetBIOS, SNMP, LDAP), User account enumeration 
 ,SMB, RPC, and SMTP enumeration, Tools: Nmap scripts, SNMPWalk, 
 enum4linux, Enumeration countermeasures 
- 
-3 Hrs 
- 
-5 
+  3 Hrs 
+  5 
 Vulnerability Analysis: 
 Understanding vulnerabilities and exploits, Vulnerability management lifecycle 
 Vulnerability assessment vs penetration testing, Tools: Nessus, OpenVAS, Nikto 
- 
-3 Hrs 
+  3 Hrs 
 Unit II 
- 
-6 
+  6 
 System Hacking: 
 Password cracking techniques (Offline & Online), Privilege escalation (Windows 
 & Linux), Malware introduction: Trojans, Viruses, Ransomware, Steganography, 
 Rootkits, Keyloggers, clearing logs and covering track 
- 
-6 Hrs 
- 
-7 
+  6 Hrs 
+  7 
 Malware Threats: 
 Malware propagation methods, Types: Ransomware, Backdoors, RATs, Virus & 
 Worms vs Advanced Persistent Threats (APTs), Anti-malware strategies 
- 
-6Hrs 
- 
-8 
+  6Hrs 
+  8 
 Sniffing and Social Engineering: 
 Sniffing techniques and tools (Wireshark, Ettercap), ARP poisoning, MITM 
 attacks, Social Engineering tactics: Phishing, Vishing, Baiting Defense strategies 
 and Awareness 
- 
-4 Hrs 
- 
-UNIT 3 
- 
-9 
+  4 Hrs 
+  UNIT 3 
+  9 
 Denial of Service (DoS/DDoS) Attacks : 3 Hrs 
-
-## Page 69
-
-FMCD2009 / 2.0 69 
- 
- Types of DoS and DDoS attacks, Botnets and DDoS tools, Mitigation techniques 
+ ## Page 69
+ FMCD2009 / 2.0 69 
+   Types of DoS and DDoS attacks, Botnets and DDoS tools, Mitigation techniques 
 and protection mechanisms 
- 
-10 
+  10 
 Web Application Hacking: 
-OWASP Top 10,SQL Injection, XSS, CSRF, File Inclusion, Web server and 
+OWASP Top 10, SQL Injection, XSS, CSRF, File Inclusion, Web server and 
 application attack methodologies, Tools: Burp Suite, OWASP 
-ZAP,Countermeasures and secure coding practices 
- 
-5Hrs 
+ZAP, Countermeasures and secure coding practices 
+  5Hrs 
 Textbooks: 
-1. EC-Council Official CEH v12/v13 Courseware – EC-Council – 2023 
-2. Certified Ethical Hacker (CEH) All-in-One Exam Guide (v12/v13) – Matt Walker – 2022 
+1. EC-Council Official CEH v12/v13 Courseware - EC-Council - 2023 
+2. Certified Ethical Hacker (CEH) All-in-One Exam Guide (v12/v13) - Matt Walker - 2022 
 Reference Books: 
-1. Basics of Hacking and Penetration Testing, 2nd Edition – Patrick Engebretson – 2021 
-2. Computer Forensics: Cybercriminals, Laws, and Evidence, 2nd Edition – Marie-Helen 
-Maras – 2022 
-
-## Page 70
-
-FMCD2009 / 2.0 70 
- 
-Sl. No Integrated Practices Lab Slot 
+1. Basics of Hacking and Penetration Testing, 2nd Edition - Patrick Engebretson - 2021 
+2. Computer Forensics: Cybercriminals, Laws, and Evidence, 2nd Edition - Marie-Helen 
+Maras - 2022 
+ ## Page 70
+ FMCD2009 / 2.0 70 
+  Sl. No Integrated Practices Lab Slot 
 1 Perform passive reconnaissance using various OSINT (Open Source 
 Intelligence) tools 
 1 
@@ -2898,72 +2450,55 @@ application using DVWA, Burp Suite,
 12 Carriy out a Cross-Site Request Forgery (CSRF) attack using DVWA and 
 Burp Suite. 
 1 
- 
-Back 
-
-## Page 71
-
-FMCD2009 / 2.0 71 
- 
-Program: Bachelor of Computer Applications Semester: V 
+  Back 
+ ## Page 71
+ FMCD2009 / 2.0 71 
+  Program: Bachelor of Computer Applications Semester: V 
 Course Title: Blockchain Technologies Course Code: 24EBCE304 
 L-T-P: 3-0-1 Credits: 4 Contact Hours: 5 Hrs/Week 
 ISA Marks: 63 ESA Marks: 37 Total Marks: 100 
 Teaching Hours: 40 Practical Hours: 24 Exam Duration: 3 Hours 
 Unit I 
- 
-1 
+  1 
 Introduction to Blockchain: History and evolution of Blockchain, Basic concepts: 
 Block, Chain, Node, Consensus, Characteristics: Decentralization, Transparency, 
 Immutability, Public vs Private vs Consortium Blockchains 
- 
-6 Hrs 
- 
-2 
+  6 Hrs 
+  2 
 Blockchain Architecture and Components: Blockchain data structure and block 
 anatomy, Cryptography basics: Hash functions, Digital Signatures, Distributed 
 ledger technology (DLT), Peer-to-Peer (P2P) network models 
- 
-5 Hrs 
- 
-3 
+  5 Hrs 
+  3 
 Consensus Mechanisms: Proof of Work (PoW), Proof of Stake (PoS) , Delegated 
 Proof of Stake (DPoS), Practical Byzantine Fault Tolerance (PBFT),Comparison of 
 different consensus models 
- 
-5 Hrs 
+  5 Hrs 
 Unit II 
 4 Smart Contracts: Introduction to Smart Contracts, How smart contracts work, 
 Smart contract lifecycle, Use cases and limitations 5 Hrs 
 5 Blockchain Platforms Overview: Ethereum: architecture and smart contract 
 support, Hyperledger Fabric: permissioned Blockchain, Corda and Quorum 
 overview, Comparative analysis 
- 
-6 Hrs 
+  6 Hrs 
 6 Cryptocurrency and Tokens : Overview of cryptocurrencies (Bitcoin, Ethereum, 
-Ripple),ICOs, NFTs, and Tokenization,Wallets, Exchanges, and Transaction Flow, 
-Cryptocurrency regulations and risks,51% Attack, Sybil Attack, Replay Attack 
- 
-5 Hrs 
+Ripple),ICOs, NFTs, and Tokenization, Wallets, Exchanges, and Transaction Flow, 
+Cryptocurrency regulations and risks, 51% Attack, Sybil Attack, Replay Attack 
+  5 Hrs 
 Unit III 
 7 Blockchain Security and PrivBlockchain attack vectors: Privacy techniques: 
 Zero-Knowledge Proofs, Mixers, Secure coding practices for smart contracts 4 Hrs 
 8 Use Cases and Industry Applications: Supply Chain Management, Healthcare, 
 Voting, Identity Management, Financial services and banking, Blockchain in IoT 
 and Cloud Computing 
- 
-4 Hrs 
+  4 Hrs 
 Textbooks: 
- 
-1. Mastering Blockchain: Unlocking the Power of Cryptocurrencies, Smart Contracts, and 
+  1. Mastering Blockchain: Unlocking the Power of Cryptocurrencies, Smart Contracts, and 
 Decentralized Applications(3rd Edition) Imran Bashir Year: 2020 
 2. Blockchain Applications: A Hands-On Approach Arshdeep Bahga, Vijay Madisetti : 2021 
-
-## Page 72
-
-FMCD2009 / 2.0 72 
- 
-Practical 
+ ## Page 72
+ FMCD2009 / 2.0 72 
+  Practical 
 No. Integrated Practices Lab Slot 
 1 
 set up the block chain lab environment to understand the 
@@ -2971,7 +2506,7 @@ tools 01
 2 Explore Bitcoin blockchain transactions using blockchain 
 explorers 01 
 3 Deploy a private Ethereum blockchain using tools Ganache 01 
-4 Write  and  deploy  smart  contracts  using  the  Solidity 
+4 Write and deploy smart contracts using the Solidity 
 programming language on the Ethereum blockchain. 01 
 5 Interacting with smart contracts via Web3.js, 01 
 6 Set up a Hyperledger Fabric network and deploy chaincode 01 
@@ -2981,249 +2516,185 @@ Generating wallet addresses and managing private keys. 02
 Demonstrate a 51% attack to understand the vulnerabilities 
 in blockchain consensus mechanisms. 01 
 9 Deploy and monitor a smart contract for minting NFTs 01 
- 
-10 
+  10 
 demonstrate blockchain transaction privacy using Zero- 
 Knowledge Proofs to enhance understanding of privacy- 
 preserving technologies. 
- 
-02 
+  02 
 Back 
-
-## Page 73
-
-FMCD2009 / 2.0 73 
- 
-Program: Bachelor of Computer Applications Semester: V 
+ ## Page 73
+ FMCD2009 / 2.0 73 
+  Program: Bachelor of Computer Applications Semester: V 
 Course Title: Digital Forensics Course Code: 24EBCE305 
 L-T-P: 3-0-1 Credits: 4 Contact Hours: 5 Hrs/Week 
 ISA Marks: 63 ESA Marks: 37 Total Marks: 100 
 Teaching Hours: 40 Practical Hours: 24 Exam Duration: 3 Hours 
 Unit I 
- 
-1 
+  1 
 Introduction to Digital Forensics: History and scope of digital forensics, Types of 
 digital crimes and incidents, Categories of digital forensics (Computer, Network, 
 Mobile, Cloud) Role of a forensic investigator 
- 
-6 Hrs 
- 
-2 
+  6 Hrs 
+  2 
 Digital Evidence and Crime Scene Management : Types of digital evidence, 
 Evidence collection, preservation, and documentation, Chain of custody 
 management, Crime scene isolation and procedures 
- 
-5 Hrs 
- 
-3 
+  5 Hrs 
+  3 
 Forensic Methodology and Investigation Process: NIST forensic process model: 
 Identification, Collection, Examination, Analysis, Reporting, Live vs Dead 
 forensics, Volatile vs Non-volatile data acquisition, Incident triage procedures 
- 
-5 Hrs 
+  5 Hrs 
 Unit II 
- 
-4 
+  4 
 Disk and File System Forensics: Hard disk architecture and partitions, File 
 system analysis: FAT, NTFS, ext4, Deleted file recovery techniques, Data carving 
 and slack space analysis 
- 
-5 Hrs 
- 
-5 
+  5 Hrs 
+  5 
 Memory and Live System Forensics: Importance of volatile data acquisition, 
 Memory dump acquisition tools and techniques, Analysing system processes, 
 open files, and network connections Registry and system logs examination 
- 
-6 Hrs 
- 
-6 
+  6 Hrs 
+  6 
 Network Forensics: Network traffic capturing and analysis, Packet analysis and 
 intrusion detection, Log file correlation (firewalls, routers, SIEM),Email forensics 
 and header analysis 
- 
-5 Hrs 
+  5 Hrs 
 Unit III 
-   
-7 Mobile Device Forensics: Mobile OS architectures (Android, iOS),Data 
+    7 Mobile Device Forensics: Mobile OS architectures (Android, iOS),Data 
 acquisition: logical and physical extraction, SIM card and cloud backup analysis, 
 Mobile app artefact recovery 
- 
-4 Hrs 
+  4 Hrs 
 8 Anti-Forensics and Countermeasures: Common anti-forensic techniques 
 (encryption, steganography, data wiping), Detection and countermeasures, 
 Steganalysis and recovery methods 
- 
-4 Hrs 
+  4 Hrs 
 Textbooks: 
-1. Guide to Computer Forensics and Investigations” by Bill Nelson, Amelia Phillips, and 
-Christopher Steuart — 6th Edition, 2019 
-2. Digital Forensics and Incident Response by Gerard Johansen — 2nd Edition, 2020 
-
-## Page 74
-
-FMCD2009 / 2.0 74 
- 
-Sl. No. Integrated Practices Lab 
+1. Guide to Computer Forensics and Investigations" by Bill Nelson, Amelia Phillips, and 
+Christopher Steuart - 6th Edition, 2019 
+2. Digital Forensics and Incident Response by Gerard Johansen - 2nd Edition, 2020 
+ ## Page 74
+ FMCD2009 / 2.0 74 
+  Sl. No. Integrated Practices Lab 
 Slot 
- 
-1 
+  1 
 Setting up Digital Forensics Lab Environment: 
 Configure a secure and controlled digital forensics lab 
 environment using forensic workstations 
- 
-1 
- 
-2 
+  1 
+  2 
 Evidence Acquisition and Chain of Custody Handling: 
 Acquire digital evidence from a suspect device and document 
 the chain of custody to maintain integrity and admissibility 
- 
-1 
- 
-3 
+  1 
+  3 
 Disk Imaging and Verification: 
 Create a bit-by-bit forensic image of a storage device and verify 
 Its integrity using cryptographic hash values. 
- 
-1 
- 
-4 
+  1 
+  4 
 Deleted File Recovery and Data Carving: 
 Recover deleted files using forensic tools and perform data 
 carving to extract hidden or fragmented data from unallocated 
 Disk space. 
- 
-1 
- 
-5 
+  1 
+  5 
 Windows Log and Registry Analysis: 
 Analyze Windows event logs and registry entries to identify 
 user activities, software installations, and possible signs of 
 Compromise. 
- 
-1 
- 
-6 
+  1 
+  6 
 Memory Dump Acquisition and Analysis: 
 Capture a live memory dump from a running system and 
 Analyze it for active processes, network connections, and signs 
 of malware. 
- 
-1 
+  1 
 7 Packet Capture and Network Forensics: 
 Use packet capture tools to record network traffic and perform 
 forensic analysis to detect data exfiltration or intrusion 
 Attempts. 
- 
-1 
- 
-8 
+  1 
+  8 
 Email Header Analysis: 
 Examine the headers of email messages to trace their origin, 
 identify spoofing attempts, and analyze email routing. 
- 
-1 
- 
-9 
+  1 
+  9 
 Mobile Device Data Extraction and Analysis: 
 Extract data from mobile devices using forensic tools and 
 Analyze call logs, messages, app data, and GPS locations. 
- 
-1 
- 
-10 
+  1 
+  10 
 Anti-Forensics Detection and Steganography Analysis: 
 Detect the use of anti-forensics techniques such as data wiping 
 or timestamp alteration and analyze files for hidden data using 
 steganography tools. 
- 
-1 
+  1 
 11 
 Cloud Forensics Exercise (Evidence Identification): 
 Identify and collect digital evidence from cloud environments, 2 
-
-## Page 75
-
-FMCD2009 / 2.0 75 
- 
- including logs, file access records, and user activities across 
+ ## Page 75
+ FMCD2009 / 2.0 75 
+   including logs, file access records, and user activities across 
 Cloud storage services. 
- 
-Back 
-
-## Page 76
-
-FMCD2009 / 2.0 76 
- 
-Program: Bachelor of Computer Applications Semester: V 
+  Back 
+ ## Page 76
+ FMCD2009 / 2.0 76 
+  Program: Bachelor of Computer Applications Semester: V 
 Course Title: Cyber Attacks & Counter Measures Course Code: 24EBCE306 
 L-T-P: 3-0-1 Credits: 4 Contact Hours: 5 Hrs/Week 
 ISA Marks: 63 ESA Marks: 37 Total Marks: 100 
 Teaching Hours: 40 Practical Hours: 24 Exam Duration: 3 Hours 
 Unit I 
- 
-1 
+  1 
 Introduction to Cyber Security: Fundamentals of cybersecurity, Threats, 
 vulnerabilities, and risks, Evolution of cyber-attacks, Cyber kill chain and attack 
 lifecycle 
- 
-4 Hrs 
- 
-2 
+  4 Hrs 
+  2 
 Types of Cyber Attacks : Malware: Viruses, Worms, Trojans, Ransomware, 
 Spyware, Rootkits Phishing and Social Engineering attacks, DoS/DDoS Attacks, 
 Insider Threats and Advanced Persistent Threats (APTs), SQL Injection, XSS, CSRF, 
 Password attacks: Brute force, Dictionary, Key loggers 
- 
-6 Hrs 
- 
-3 
+  6 Hrs 
+  3 
 Network and Web Application Attacks: Network reconnaissance and scanning, 
 Man-in-the-Middle (MitM) and session hijacking, DNS Spoofing, ARP Spoofing, 
 OWASP Top 10 Web vulnerabilities, API security threats 
- 
-6 Hrs 
+  6 Hrs 
 Unit II 
 4 Wireless and Mobile Security Attacks : Wi-Fi encryption vulnerabilities (WEP, 
 WPA, WPA2 cracking), Rogue access points, Evil Twin, Packet sniffing, Mobile 
 device threats and app-based attacks 
- 
-4 Hrs 
+  4 Hrs 
 5 Cloud and IoT Cyber Threats : Cloud service model vulnerabilities, API 
 misconfigurations and cloud data breaches, IoT device risks, botnets, and Mirai 
 attacks 
- 
-6 Hrs 
+  6 Hrs 
 6 Malware Analysis and Reverse Engineering Basics : Malware behaviour and 
 indicators, Static and dynamic malware analysis techniques, Malware 
 sandboxing 
- 
-6 Hrs 
+  6 Hrs 
 Unit III 
 7 Attack Detection and Prevention : Technologies Intrusion Detection/Prevention 
 Systems (IDS/IPS), SIEM tools and log analysis, Honeypots and decoys, Network 
 segmentation and endpoint protection 
- 
-4 Hrs 
+  4 Hrs 
 8 Countermeasures and Security Best Practices :Secure network architecture and 
 segmentation, Secure coding principles, Patch management and backup 
 strategies, Incident response fundamentals 
- 
-4 Hrs 
-   
-Textbooks: 
-1. Digital Forensics and Incident Response (2nd Edition) – Gerard Johansen – 2020 
-2. Certified Ethical Hacker (CEH) All-in-One Exam Guide (v12/v13) – Matt Walker – 2022 
+  4 Hrs 
+    Textbooks: 
+1. Digital Forensics and Incident Response (2nd Edition) - Gerard Johansen - 2020 
+2. Certified Ethical Hacker (CEH) All-in-One Exam Guide (v12/v13) - Matt Walker - 2022 
 Reference books: 
-1. EC-Council Official CEH v12/v13 Courseware – EC-Council – 2023 
-2. Incident Response & Computer Forensics (3rd Edition) – Jason Luttgens – 2023 
-
-## Page 77
-
-FMCD2009 / 2.0 77 
- 
-Sl.No. Integrated Practices Lab Slot 
+1. EC-Council Official CEH v12/v13 Courseware - EC-Council - 2023 
+2. Incident Response & Computer Forensics (3rd Edition) - Jason Luttgens - 2023 
+ ## Page 77
+ FMCD2009 / 2.0 77 
+  Sl.No. Integrated Practices Lab Slot 
 1 Conduct malware detection and performed basic static analysis to 
 Identify malicious code and understand its behavior. 1 
 2 Capture and analyse network traffic to monitor communication 
@@ -3247,20 +2718,15 @@ Vulnerabilities and misconfigurations. 1
 Malicious software functions. 1 
 11 Configure a secure firewall and implemente an Intrusion Detection 
 System (IDS) to enhance perimeter security. 2 
- 
-Back 
-
-## Page 78
-
-FMCD2009 / 2.0 78 
- 
-VI- Semester 
- 
-Program: Bachelor of Computer Applications Semester: VI 
+  Back 
+ ## Page 78
+ FMCD2009 / 2.0 78 
+  VI- Semester 
+  Program: Bachelor of Computer Applications Semester: VI 
 Course Title: Industry Training Course Code: 22EBCI301 
 L-T-P: 0-0-8 Credits: 8 Contact Hours: 16 hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours:-  Exam Duration: 3 hrs 
+Teaching Hours:- Exam Duration: 3 hrs 
 Content 
  Overview of the Course: 
 Industry Training is a supervised, practical training periods for which 
@@ -3275,18 +2741,14 @@ scale industries. The students who got placed in campus interviews may be offere
 Industry Training depending upon the need of the company. Other students who 
 wish to do internship are responsible to find a company on their own for the 
 Training. 
- 
-Back 
-
-## Page 79
-
-FMCD2009 / 2.0 79 
- 
-Program: Bachelor of Computer Applications Semester: VI 
+  Back 
+ ## Page 79
+ FMCD2009 / 2.0 79 
+  Program: Bachelor of Computer Applications Semester: VI 
 Course Title: Industry Project Course Code: 23EBCI301 
 L-T-P: 0-0-17 Credits: 17 Contact Hours: 34 hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: --  Exam Duration: 3 Hrs 
+Teaching Hours: -- Exam Duration: 3 Hrs 
 Content 
  Overview of the Course: 
 The purpose of providing the Industry Project is to give you the opportunity for 
@@ -3296,21 +2758,17 @@ organization.
 The students who got placed in campus interviews may be offered Industry Project 
 depending upon the need of the company. Other students who wish to do Industry 
 Project are responsible to find a company on their own. 
- 
-Back 
-
-## Page 80
-
-FMCD2009 / 2.0 80 
- 
-Program: Bachelor of Computer Applications Semester: VI 
+  Back 
+ ## Page 80
+ FMCD2009 / 2.0 80 
+  Program: Bachelor of Computer Applications Semester: VI 
 Course Title: User Interface Design Course Code: 24EBCE307 
 L-T-P: 3-0-1 Credits: 4 Contact Hrs: 5 hrs/week 
 ISA Marks: 63 ESA Marks: 37 Total Marks: 100 
 Teaching Hrs: 40 Practical Hours: 24 Exam Duration:3 Hrs 
 Unit I 
 1 Understanding User Behaviour 
-The Basics of User Research, Users’ Motivation to Learn, The Patterns. 
+The Basics of User Research, Users' Motivation to Learn, The Patterns. 
 5 Hrs 
 2 Structuring Information: Information Architecture and Application Flow 
 The Big Picture, The Patterns:- Feature, Search, and Browse, News Stream, Picture 
@@ -3329,7 +2787,7 @@ Equals, Titled Sections, Module Tabs, Collapsible Panels, Movable Panels, Right/
 Alignment, Diagonal Balance. 
 5 Hrs 
 5 Designing Lists and Structured Content 
-Use Cases for Lists,  Back to Information Architecture,  The Patterns :- Two-Panel 
+Use Cases for Lists, Back to Information Architecture, The Patterns :- Two-Panel 
 Selector, One-Window Drilldown, List Inlay, Thumbnail Grid, Row Striping, Jump to 
 Item, Cascading Lists, Tree Table. 
 5 Hrs 
@@ -3337,9 +2795,9 @@ Item, Cascading Lists, Tree Table.
 Pushing the Boundaries, The Patterns:- Button Groups, Hover Tools, Action Panel, 
 Smart Menu Items, Preview, Progress Indicator, Macros. 
 6 Hrs 
-Unit – III 
+Unit - III 
 7 Visualizing Complex Information and Data 
-The Basics of Information Graphics,  The Patterns:- Overview Plus Detail, Datatips, 
+The Basics of Information Graphics, The Patterns:- Overview Plus Detail, Datatips, 
 Data Spotlight , Dynamic Queries , Data Brushing , Local Zooming , Sortable Table, 
 Radial Table, Multi-Y Graph, Small Multiples, Tree map. 
 4 Hrs 
@@ -3349,20 +2807,17 @@ Structured Format, Fill-in-the-Blanks, Input Hints, Input Prompt, Password Stren
 Meter, Auto completion, Dropdown Chooser, Same-Page Error Messages. 
 4 Hrs 
 Text Book: 
-1. Jenifer Tidwell, Charles Brewer, Aynne Valencia, Designing Interfaces, 3rd Edition,O'Reilly 
+1. Jenifer Tidwell, Charles Brewer, Aynne Valencia, Designing Interfaces, 3rd Edition, O'Reilly 
 Publisher ,2020 
 2. Dr. Michaela Kauer-Franz & Dr. Benjamin Franz, Usability and User Experience Design, 
 Shroff/Rheinwerk Computing, 2024 
-
-## Page 81
-
-FMCD2009 / 2.0 81 
- 
-Sl No. Integrated Practices (using Canva/Panpot) Lab Slots 
+ ## Page 81
+ FMCD2009 / 2.0 81 
+  Sl No. Integrated Practices (using Canva/Panpot) Lab Slots 
 1 Design a homepage with a title, message, and two navigation 
 buttons. 
 1 
-2 Create a simple navigation bar with 3–4 links. 1 
+2 Create a simple navigation bar with 3-4 links. 1 
 3 Build a basic form with name, email, and submit button. 1 
 4 Add placeholder text and labels to input fields. 1 
 5 Show card-style content with image, title, and text. 2 
@@ -3370,20 +2825,16 @@ buttons.
 7 Style a button with a hover color change effect. 1 
 8 Add a footer with contact details and social icons. 1 
 9 Build a one-page profile with personal info and skills. 1 
-10 Display a static table with 3–4 rows of data. 2 
- 
-Back 
+10 Display a static table with 3-4 rows of data. 2 
+  Back 
 References: 
 1. Laws of UX, Jon Yablonski, O'Reilly, April 2020. 
 2. 100 Things Every Designer Needs to Know About People, Susan Weinschenk, Publisher: 
 Team W, Inc ,2024 
 3. Adrian Kuleszo, How to Design Better UI Components 3.0, 2023 
-
-## Page 82
-
-FMCD2009 / 2.0 82 
- 
-Program: Bachelor of Computer Applications Semester: VI 
+ ## Page 82
+ FMCD2009 / 2.0 82 
+  Program: Bachelor of Computer Applications Semester: VI 
 Course Title: ASP.NET MVC Framework Course Code:24EBCE308 
 L-T-P: 3-0-1 Credits: 4 Contact Hrs: 5 hrs/week 
 ISA Marks: 63 ESA Marks: 37 Total Marks: 100 
@@ -3398,7 +2849,7 @@ ASP.NET Platform, Introducing ASP.NET MVC in Detail
 8 Hrs 
 2 MVC Application 
 Preparing Visual Studio, creating a New ASP.NET MVC Project, Rendering Web 
-Pages, Creating and Rendering a View,  Adding Dynamic Output, creating a Simple 
+Pages, Creating and Rendering a View, Adding Dynamic Output, creating a Simple 
 Data-Entry Application Setting the Scene, designing a Data Model, Linking Action 
 Methods, Building the Form, Setting the Start URL Handling Forms, Adding 
 Validation, Styling the Content, and Completing the Example. 
@@ -3421,7 +2872,7 @@ Inference, Using Anonymous Types, Performing Language Integrated Queries,
 Understanding Deferred LINQ Queries, Using Async Methods, Applying the async 
 and await Keywords 
 8 Hrs 
-Unit – III 
+Unit - III 
 5 Essential Tools for MVC 
 Preparing the Example Project, Creating the Model Classes, Adding the Controller, 
 Adding the View, Using Ninject, Understanding the Problem, Adding Ninject to the 
@@ -3435,21 +2886,17 @@ Unit Tests (and Failing)Implementing the Feature, Testing and Fixing the Code,
 Using Moq, Understanding the Problem, Adding Moq to the Visual Studio Project, 
 Adding a Mock Object to a Unit Test, Creating a More Complex Mock Object 
 4 Hrs 
-
-## Page 83
-
-FMCD2009 / 2.0 83 
- 
-Text Book: 
+ ## Page 83
+ FMCD2009 / 2.0 83 
+  Text Book: 
 1. Pro ASP.NET MVC 5, Publisher Apress, 6th ed. 2022 
 2. Pro C# 9 with .NET 6, Foundational Principles and Practices in Programming, Apress 
 Publisher, 2022 
 References: 
 1. Adam Freeman - Pro ASP.NET Core 7, Tenth Edition - McGraw Hill Education- 2023 
 2. Andrew Lock - ASP.NET Core in Action, Third Edition - Manning Publications- 2023 
-3. Adam Freeman - Pro ASP.NET Core 6 – Apress 2022 
- 
-Sl.No Integrated Practices Lab Slots 
+3. Adam Freeman - Pro ASP.NET Core 6 - Apress 2022 
+  Sl.No Integrated Practices Lab Slots 
 1 Create a basic ASP.NET MVC project and render a homepage view. 2 
 2 Design a simple form using MVC and display user input dynamically. 1 
 3 Implement form validation with error messages and styling. 2 
@@ -3457,15 +2904,11 @@ Sl.No Integrated Practices Lab Slots
 5 Use extension methods and lambda expressions in a small C# program. 2 
 6 Apply LINQ queries to filter and display a list of sample data. 1 
 7 Set up Dependency Injection using Ninject in an MVC project. 2 
-8 Create and run basic unit tests using Visual Studio’s testing tools. 1 
- 
-Back 
-
-## Page 84
-
-FMCD2009 / 2.0 84 
- 
-Program: Bachelor of Computer Applications Semester: VI 
+8 Create and run basic unit tests using Visual Studio's testing tools. 1 
+  Back 
+ ## Page 84
+ FMCD2009 / 2.0 84 
+  Program: Bachelor of Computer Applications Semester: VI 
 Course Title: Mobile Application Development Course Code:24EBCE309 
 L-T-P: 3-0-1 Credits: 4 Contact Hrs: 5 hrs/week 
 ISA Marks: 63 ESA Marks: 37 Total Marks: 100 
@@ -3503,24 +2946,21 @@ THE WIDGET TREE Introduction to Widgets Building the Full Widget Tree Building a
 Shallow Widget Tree, Refactoring with a Constant Refactoring with a Method 
 Refactoring with a Widget Class 
 8 Hrs 
-Unit – III 
+Unit - III 
 5 Widgets & Animations 
 Using Basic Widgets SafeArea Container Text RichText Column Row, Column and 
-Row    Nesting    Buttons    FloatingActionButtonFlatButtonRaisedButton 
+Row Nesting Buttons FloatingActionButtonFlatButtonRaisedButton 
 ,IconButtonPopupMenuButtonButtonBar Using Images and Icons AssetBundle 
 .Image Icon Using Decorators Using the Form Widget to Validate Text Fields 
 Checking Orientation ADDING ANIMATION TO AN APP: Using AnimatedContainer 
 Using AnimatedCrossFade Using Animated opacity Using Animation Controller 
 Using Staggered Animations 
 4 Hrs 
-
-## Page 85
-
-FMCD2009 / 2.0 85 
- 
-6 App Navigation 
+ ## Page 85
+ FMCD2009 / 2.0 85 
+  6 App Navigation 
 Using the Navigator Using the Named Navigator Route Using Hero Animation, Using 
-the BottomNavigationBar Using the  BottomAppBar Using the TabBar and 
+the BottomNavigationBar Using the BottomAppBar Using the TabBar and 
 TabBarView, Using the Drawer and ListView. 
 4 Hrs 
 Text Books: 
@@ -3528,10 +2968,9 @@ Text Books:
 2. Rap Payne Flutter App Development: How to Write for iOS and Android at Once, published 
 on October 18, 2024, by Apress 
 References: 
-1. Alessandro Biessek, Flutter for Beginners – Third Edition, Packt Publishing, 2023. 
-2. Simone Alessandria, Flutter Cookbook – Second Edition, Packt Publishing, 2023. 
- 
-Sl.No. Integrated Practices Lab Slots 
+1. Alessandro Biessek, Flutter for Beginners - Third Edition, Packt Publishing, 2023. 
+2. Simone Alessandria, Flutter Cookbook - Second Edition, Packt Publishing, 2023. 
+  Sl.No. Integrated Practices Lab Slots 
 1 Install Flutter SDK and run a basic "Hello World" app. 1 
 2 Create and compare StatelessWidget and StatefulWidget examples. 1 
 3 Apply a global theme and use different widgets with styled components. 1 
@@ -3546,68 +2985,52 @@ animation.
 Container. 
 2 
 10 Create a simple app with a Bottom Navigation Bar and multiple tabs. 1 
- 
-Back 
-
-## Page 86
-
-FMCD2009 / 2.0 86 
- 
-Program: Bachelor of Computer Applications Semester: VI 
+  Back 
+ ## Page 86
+ FMCD2009 / 2.0 86 
+  Program: Bachelor of Computer Applications Semester: VI 
 Course Title: Agile Project Management Course Code:24EBCE310 
 L-T-P: 3-0-1 Credits: 4 Contact Hrs: 5 hrs/week 
 ISA Marks: 63 ESA Marks: 37 Total Marks: 100 
 Teaching Hrs: 40 Practical Hours: 24 Exam Duration:3Hrs 
 Unit I 
- 
-1 
+  1 
 Introduction 
-Need of Agile software development, agile context– Manifesto, Principles, Methods, 
+Need of Agile software development, agile context- Manifesto, Principles, Methods, 
 Values, Roles, Artifacts, Stakeholders, and challenges. Business benefits of software 
 Agility. 
- 
-8 Hrs 
- 
-2 
+  8 Hrs 
+  2 
 Project Planning 
-Recognizing the structure of an agile team– Programmers, Managers, Customers. User 
-stories– Definition, Characteristics and content. Estimation – Planning poker, 
+Recognizing the structure of an agile team- Programmers, Managers, Customers. User 
+stories- Definition, Characteristics and content. Estimation - Planning poker, 
 Prioritizing, and selecting user stories with the customer, projecting team velocity for 
 releases and iterations. 
- 
-8 Hrs 
+  8 Hrs 
 Unit II 
- 
-3 
+  3 
 Project Design 
-Fundamentals, Design principles–Single responsibility, Open-closed, Liskov 
+Fundamentals, Design principles-Single responsibility, Open-closed, Liskov 
 substitution, Dependency-inversion, Interface-segregation. 
- 
-8 Hrs 
- 
-4 
+  8 Hrs 
+  4 
 Design Methodologies 
-Need of scrum, Scrum practices –Working of scrum, Project velocity, Burn down chart, 
-Sprint backlog, Sprint planning and retrospective, Daily scrum, Scrum roles– Product 
+Need of scrum, Scrum practices -Working of scrum, Project velocity, Burn down chart, 
+Sprint backlog, Sprint planning and retrospective, Daily scrum, Scrum roles- Product 
 Owner, Scrum Master, Scrum Team. 
- 
-8 Hrs 
-Unit – III 
- 
-5 
+  8 Hrs 
+Unit - III 
+  5 
 Extreme Programming and Testing 
 Core principles, values and practices. Kanban, Feature-driven development, Lean 
 software development. The Agile lifecycle and its impact on testing, Test driven 
-development– Acceptance tests 
- 
-4 Hrs 
- 
-6 
+development- Acceptance tests 
+  4 Hrs 
+  6 
 Impact on Testing: verifying stories, writing a user acceptance test, Developing 
 effective test suites, Continuous integration, Code refactoring. Risk based testing, 
 Regression tests, Test automation. 
- 
-4 Hrs 
+  4 Hrs 
 Text Books: 
 1. Paul D. McKendrick, Agile Software Development: A Comprehensive Guide to Agile Software 
 Development, CRC Press, 2022. 
@@ -3617,12 +3040,9 @@ Reference Books:
 Wesley, 2019. 
 2. Alistair Cockburn, Agile Software Development: The Cooperative Game (2nd Edition), Addison- 
 Wesley, 2021. 
-
-## Page 87
-
-FMCD2009 / 2.0 87 
- 
-Sl.No. Integrated Experiments Lab Slots 
+ ## Page 87
+ FMCD2009 / 2.0 87 
+  Sl.No. Integrated Experiments Lab Slots 
 1 Write the Agile Manifesto and list its core principles in your own words. 1 
 2 Identify roles in an Agile team and create a sample team structure. 1 
 3 Write 3 sample user stories with clear acceptance criteria. 1 
@@ -3633,14 +3053,10 @@ Sl.No. Integrated Experiments Lab Slots
 8 Demonstrate Scrum roles through a role-play or team assignment. 1 
 9 Write unit tests using TDD approach for a simple calculator function. 1 
 10 Use Git to push code and show how automatic testing can run after each push. 1 
- 
-Back 
-
-## Page 88
-
-FMCD2009 / 2.0 88 
- 
-Program: Bachelor of Computer Applications Semester: VI 
+  Back 
+ ## Page 88
+ FMCD2009 / 2.0 88 
+  Program: Bachelor of Computer Applications Semester: VI 
 Course Title: Secure Software Engineering Course Code:24EBCE311 
 L-T-P: 3-0-1 Credits: 4 Contact Hrs: 5 hrs/week 
 ISA Marks: 63 ESA Marks: 37 Total Marks: 100 
@@ -3652,15 +3068,13 @@ Assurance and Software Security. The Role of Processes and Practices in Software
 Security. Threats to Software Security Sources of Software Insecurity. The Benefits of 
 Detecting Software Security Defects Early: Making the Business Case for Software Security 
 Current State. 
- 
-10 Hrs 
+  10 Hrs 
 2 Introduction to Properties of Secure Software 
 Core Properties of Secure Software. Influential Properties of Secure Software. How to 
 Influence the Security Properties of Software: The Defensive Perspective. The Attacker's 
 Perspective. How to Assert and Specify Desired Security Properties: Building a Security 
 Assurance Case. 
- 
-6 Hrs 
+  6 Hrs 
 Unit II 
 3 Importance of Requirements Engineering 
 Quality Requirements, Security Requirements Engineering. Misuse and Abuse Cases: 
@@ -3668,40 +3082,33 @@ Security Is Not a Set of Features, Thinking About What You Can't Do, Creating Us
 Misuse Cases, An Abuse Case Example. The SQUARE Process Model: A Brief Description 
 of SQUA RE, Tools, Expected results. SQUARE Sample Outputs: Output from SQUARE 
 Steps, SQUARE Final Results. 
- 
-8 Hrs 
+  8 Hrs 
 4 Requirements Elicitation: 
-Overview of Several Elicitation Methods, Elicitation Evaluation Criteria.  Requirements 
+Overview of Several Elicitation Methods, Elicitation Evaluation Criteria. Requirements 
 Prioritization: Identify Candidate Prioritization Methods, Prioritization Technique 
 Comparison, and Recommendations for Requirements Prioritization. Software Security 
 Practices for Architecture and Design Architectural Risk Analysis: Characterization, Threat. 
 Assessment, Determination, Risk. Risk Mitigation Planning. Recapping Architectural Risk 
 Analysis. 
- 
-8 Hrs 
-Unit – III 
+  8 Hrs 
+Unit - III 
 5 Software Security 
 Software Security Knowledge for Architecture and Design Security Principles, Security 
 Guidelines, 
 and Attack Patterns: Security Principles, Security Guidelines, Attack Patterns. 
- 
-4 Hrs 
+  4 Hrs 
 6 Software Security Testing: 
 Contrasting Software Testing and Software Security Testing, Functional Testing, Risk- 
 Based Testing. 
- 
-4 Hrs 
+  4 Hrs 
 Text Book: 
 1. Dafydd Stuttard, Marcus Pinto, The Web Application Hacker's Handbook: Finding and Exploiting 
 Security Flaws (Second Edition), Wiley, 2021. 
 2. John Viega, Matt Messier, Secure Programming Cookbook for C and C++ (2nd Edition), O'Reilly Media, 
 2020. 
-
-## Page 89
-
-FMCD2009 / 2.0 89 
- 
-Sl.no  
+ ## Page 89
+ FMCD2009 / 2.0 89 
+  Sl.no 
 Integrated Practices 
 Lab 
 Slots 
@@ -3718,20 +3125,16 @@ design.
 7 Compare 2 requirements elicitation methods in a table format. 1 
 8 Create a risk assessment sheet for a small mobile app. 1 
 9 List 5 security principles and match them with relevant attack patterns. 1 
- 
-Back 
+  Back 
 Reference Book: 
 1. Software Reliability Engineering: More Reliable Software Faster and Cheaper," was published in 2004 
 by AuthorHouse. 
 e- Learning Resources: 
 1. http://study.com/articles/List_of_Free_Online_Software_Engineering_Courses.html 
 2. https://www.coursera.org/course/softwaresec 
-
-## Page 90
-
-FMCD2009 / 2.0 90 
- 
-Program: Bachelor of Computer Applications Semester: VI 
+ ## Page 90
+ FMCD2009 / 2.0 90 
+  Program: Bachelor of Computer Applications Semester: VI 
 Course Title: Object Oriented Modelling and Design Course Code:24EBCE312 
 L-T-P: 3-0-1 Credits: 4 Contact Hrs: 5 hrs/week 
 ISA Marks: 63 ESA Marks: 37 Total Marks: 100 
@@ -3753,7 +3156,7 @@ Signal generalization, Concurrency, A sample state Model, Relation of class and 
 models. 
 8 Hrs 
 Unit II 
-3. Interaction modeling, Advanced interaction modeling’s 
+3. Interaction modeling, Advanced interaction modeling's 
 Interaction Modeling; Use case models, Sequence models, Activity models, Advanced 
 interaction modeling: Use case relationships, Procedural sequence models; Special 
 constructs for activity models. 
@@ -3773,27 +3176,23 @@ resources, Choosing a software control strategy, Handling boundary conditions, S
 the trade-off priorities, Common architectural styles, Architecture of the ATM system as 
 the example. 
 6 Hrs 
-Unit – III 
+Unit - III 
 6. Class design 
 Class Design: Overview of class design, Bridging the gap, Realizing use cases, Designing 
 algorithms, Recur sing Downwards, Refactoring, Design optimization, Reification of 
 behavior, Adjustment of inheritance, Organizing a class Design, ATM example. 
 4 Hrs 
 7. Design Pattern: 4 Hrs 
-
-## Page 91
-
-FMCD2009 / 2.0 91 
- 
- What is a pattern and what makes a pattern? Relationships between patterns, Pattern 
+ ## Page 91
+ FMCD2009 / 2.0 91 
+   What is a pattern and what makes a pattern? Relationships between patterns, Pattern 
 description. Pattern categories; Communication patterns: Forwarder -Receiver. 
 Management Patterns: Command processor. Idioms: What can idioms provide? Idioms and 
 style; Where to find idioms; Counted pointer example. 
- 
-Text Books: 
+  Text Books: 
 1. Object-Oriented Modeling and Design with UML: Ajit Singh, Object Oriented Modeling and Design 
 using UML, Publisher details unavailable, 2024 
-2. Pattern–Oriented Software Architecture Volume 1 : A System of Patterns-Volume 1-Frank Busch 
+2. Pattern-Oriented Software Architecture Volume 1 : A System of Patterns-Volume 1-Frank Busch 
 Mann, RegineMeunier, Hans Rohnert, Peter sommerland, Michael Stal, John Wiley and Sons, 2013 
 ISBN: 978-1-118-72526-9 
 Reference Books: 
@@ -3802,8 +3201,7 @@ Unified Modeling Language User Guide, Addison-Wesley Professional, 2015.
 2. Design Patterns: Elements of Reusable Object-Oriented Software: Erich Gamma et al., Design Patterns: 
 Elements of Reusable Object-Oriented Software, Addison-Wesley Professional, 2024, ISBN: 978- 
 0138141789. 
- 
-Sl.No.  
+  Sl.No. 
 Integrated Practices 
 Lab 
 slots 
@@ -3815,23 +3213,18 @@ slots
 6 Design a sequence diagram for a "Login" process. 1 
 7 Build a domain model with "User" and "Account" classes. 2 
 8 Implement the Singleton pattern in a "Logger" class. 1 
- 
-Back 
-
-## Page 92
-
-FMCD2009 / 2.0 92 
- 
-BCA-2023-26- Elective3 Groups- Data Analytics and Machine Learning 
- 
-Program: Bachelor of Computer Applications Semester: VI 
+  Back 
+ ## Page 92
+ FMCD2009 / 2.0 92 
+  BCA-2023-26- Elective3 Groups- Data Analytics and Machine Learning 
+  Program: Bachelor of Computer Applications Semester: VI 
 Course Title: Statistical Techniques for Data Analytics Course Code:24EBCE313 
 L-T-P: 3-0-1 Credits: 4 Contact Hrs: 5 hrs/week 
 ISA Marks: 63 ESA Marks: 37 Total Marks: 100 
 Teaching Hrs: 40 Practical Hours: 24 Exam Duration:3 Hrs 
 Unit I 
 1 Introduction to Statistics: Descriptive statistics: -Measures of central tendency, dispersion, 
-skewness, and kurtosis. Probability theory: Basic concepts,  random variables, probability 
+skewness, and kurtosis. Probability theory: Basic concepts, random variables, probability 
 distributions (discrete and continuous), and joint distributions. Sampling distributions and 
 the Central Limit Theorem. 
 8 Hrs 
@@ -3840,8 +3233,7 @@ Estimation: Point estimation, interval estimation, confidence intervals. Hypothe
 Null and alternative hypotheses, type II errors and significance levels, p -values, I. 
 Parametric and non-parametric tests: t-tests, ANOVA, chi-square tests, Mann-Whitney U 
 test, Wilcoxon signed-rank test. 
- 
-8 Hrs 
+  8 Hrs 
 Unit II 
 3 Regression Analysis: 
 Simple linear regression: Assumptions, estimation, interpretation of coefficients, 
@@ -3853,7 +3245,7 @@ regression, model interpretation.
 Time series data: Components, trends, seasonality, autocorrelation. Forecasting methods: 
 Moving averages, exponential smoothing, ARIMA models. 
 8 Hrs 
-Unit – III 
+Unit - III 
 5 Machine Learning Fundamentals: 
 Supervised learning: Regression and classification algorithms (e.g., linear regression, 
 decision trees, random forests, support vector machines, k -nearest neighbors). 
@@ -3865,21 +3257,17 @@ Principles of effective data visualization. Tools and techniques for creating vi
 (e.g., matplotlib, seaborn, ggplot2). Interpretation of visualizations. 
 4 Hrs 
 Text Books: 
-1. Robert S. Witte, John S. Witte, “Statistics”, 11th Edition, Wiley, 2017. 
-2. Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, “An Introduction to Statistical 
-Learning”, 2nd Edition, Springer, 2021. 
+1. Robert S. Witte, John S. Witte, "Statistics", 11th Edition, Wiley, 2017. 
+2. Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, "An Introduction to Statistical 
+Learning", 2nd Edition, Springer, 2021. 
 Reference Books: 
-1. Bing Liu, “Sentiment Analysis: Mining Opinions, Sentiments, and Emotions”, 2nd Edition, Cambridge 
+1. Bing Liu, "Sentiment Analysis: Mining Opinions, Sentiments, and Emotions", 2nd Edition, Cambridge 
 University Press, 2020. 
 2. Robert S. Witte, John S. Witte, Statistics, 11th Edition, Wiley, 2017. 
-
-## Page 93
-
-FMCD2009 / 2.0 93 
- 
-Integrated Practices 
- 
-Expr. 
+ ## Page 93
+ FMCD2009 / 2.0 93 
+  Integrated Practices 
+  Expr. 
 No. 
 Experiments Lab Slot 
 1 Descriptive Statistics using Python 2 
@@ -3891,14 +3279,10 @@ Experiments Lab Slot
 7 Logistic Regression for Classification 1 
 8 Time Series Analysis and Forecasting 1 
 9 Visualization Techniques for Statistical Data 1 
- 
-Back 
-
-## Page 94
-
-FMCD2009 / 2.0 94 
- 
-Program: Bachelor of Computer Applications Semester: VI 
+  Back 
+ ## Page 94
+ FMCD2009 / 2.0 94 
+  Program: Bachelor of Computer Applications Semester: VI 
 Course Title: Internet of Things Course Code:24EBCE314 
 L-T-P: 3-0-1 Credits: 4 Contact Hrs: 5 hrs/week 
 ISA Marks: 63 ESA Marks: 37 Total Marks: 100 
@@ -3922,7 +3306,7 @@ CoAP, HTTP), Security considerations in IoT communication.
 Introduction to microcontrollers and microprocessors, Evaluation of popular IoT 
 development boards (e.g., Arduino, Raspberry Pi), Sensors and actuators integration 
 8 Hrs 
-Unit – III 
+Unit - III 
 5 IoT Data Processing and Analytics 
 Data collection, storage, and retrieval. Real-time data processing techniques, Data 
 visualization and interpretation 
@@ -3936,22 +3320,18 @@ IoT Project Development: Project planning and management, Hands-on IoT project
 development, Presentation and documentation 
 4Hrs 
 Text Books: 
-1. Arshdeep Bahga, Vijay Madisetti, “Internet of Things: A Hands-On Approach”, Universities Press, 2nd 
+1. Arshdeep Bahga, Vijay Madisetti, "Internet of Things: A Hands-On Approach", Universities Press, 2nd 
 Edition, 2021. 
-2. Raj Kamal, “Internet of Things: Architecture and Design”, McGraw Hill Education, 2nd Edition, 2021. 
+2. Raj Kamal, "Internet of Things: Architecture and Design", McGraw Hill Education, 2nd Edition, 2021. 
 Reference Books: 
-1. Olivier Hersent, David Boswarthick, Omar Elloumi, “The Internet of Things: Key Applications and 
-Protocols”, Wiley, 2nd Edition, 2021. 
+1. Olivier Hersent, David Boswarthick, Omar Elloumi, "The Internet of Things: Key Applications and 
+Protocols", Wiley, 2nd Edition, 2021. 
 2. Adrian McEwen, Hakim Cassimally, Designing the Internet of Things, 2nd Edition, Wiley, 2022. 
 3. Perry Lea, Internet of Things for Architects, 2nd Edition, Packt Publishing, 2021. 
-
-## Page 95
-
-FMCD2009 / 2.0 95 
- 
-Integrated Practices 
- 
-Expr. 
+ ## Page 95
+ FMCD2009 / 2.0 95 
+  Integrated Practices 
+  Expr. 
 No. 
 Experiments Lab Slot 
 1 Getting Started with Arduino and Raspberry Pi 2 
@@ -3963,14 +3343,10 @@ Experiments Lab Slot
 7 IoT-based Smart Application Simulation 1 
 8 Real-time Data Visualization 1 
 9 IoT Security Demonstration 1 
- 
- Back 
-
-## Page 96
-
-FMCD2009 / 2.0 96 
- 
-Program: Bachelor of Computer Applications Semester: VI 
+   Back 
+ ## Page 96
+ FMCD2009 / 2.0 96 
+  Program: Bachelor of Computer Applications Semester: VI 
 Course Title: Social Network Analysis Course Code:24EBCE315 
 L-T-P: 3-0-1 Credits: 4 Contact Hrs: 5 hrs/week 
 ISA Marks: 63 ESA Marks: 37 Total Marks: 100 
@@ -3978,7 +3354,7 @@ Teaching Hrs: 40 Practical Hours: 24 Exam Duration:3 Hrs
 Unit I 
 1 Introduction to Online Social Networks 
 Types of social networks, Measurement and Collection of Social Network Data. Techniques 
-to study different aspects of OSNs — Follower-followee dynamics 
+to study different aspects of OSNs - Follower-followee dynamics 
 6 Hrs 
 2 Digital Influence and Content Strategies 
 Link farming, spam detection, hashtag popularity and prediction, linguistic styles of tweets. 
@@ -3988,15 +3364,15 @@ Facebook, Twitter and Instagram
 Unit II 
 3 Social Data Analytics 
 Working with Social Media Data, Topic Models, Modelling social interactions on the Web 
-– Agent Based Simulations, Random Walks and variants 
+- Agent Based Simulations, Random Walks and variants 
 10 Hrs 
 4 Impact of Social Network Influence 
 Case Study: Social Network Influence on Mode Choice and Carpooling during Special 
 Events: The Case of Purdue Game Day 
 6 Hrs 
-Unit – III 
+Unit - III 
 5 Advanced Text Analytics 
-Application of Topic models, Information Diffusion, Opinions and Sentiments – Mining, 
+Application of Topic models, Information Diffusion, Opinions and Sentiments - Mining, 
 Analysis and Summarization, Case Study: Sentiment Analysis on a set of Movie Reviews 
 using Deep Learning techniques 
 4 Hrs 
@@ -4016,14 +3392,10 @@ Reference Books:
 2. Liu, Bing. Sentiment Analysis and Opinion Mining, Updated Edition, Cambridge University Press, 2022. 
 3. Easley, David, and Kleinberg, Jon. Networks, Crowds, and Markets: Reasoning About a Highly 
 Connected World, Revised Edition, Cambridge University Press, 2020. 
-
-## Page 97
-
-FMCD2009 / 2.0 97 
- 
-Integrated Practices 
- 
-Expr. 
+ ## Page 97
+ FMCD2009 / 2.0 97 
+  Integrated Practices 
+  Expr. 
 No. 
 Name of Experiment Lab Slot 
 1 Data Collection from Social Media Platforms 1 
@@ -4035,18 +3407,14 @@ Name of Experiment Lab Slot
 7 Spam Detection and Fake Account Analysis 2 
 8 Influence Analysis and Hashtag Trends 1 
 9 Information Diffusion Modeling 2 
- 
-Back 
-
-## Page 98
-
-FMCD2009 / 2.0 98 
- 
-Program: Bachelor of Computer Applications Semester: VI 
+  Back 
+ ## Page 98
+ FMCD2009 / 2.0 98 
+  Program: Bachelor of Computer Applications Semester: VI 
 Course Title: Capstone Project Course Code: 23EBCP302 
 L-T-P:0-0-17 Credits:17 Contact Hours:34 hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: --  Exam Duration:3 Hours 
+Teaching Hours: -- Exam Duration:3 Hours 
 Content 
  Theme 
 The capstone project aims to develop software applications that address real -world 
@@ -4057,8 +3425,7 @@ integration. Students will engage in project documentation, formal design review
 presentations, oral defense of the project, and writing a final report. The course covers 
 technical methods for analyzing, designing, prototyping, synthesizing, troubleshooting, 
 and testing the system. 
- 
- Objectives 
+   Objectives 
 1. Review and analyze relevant literature related to the project. 
 2. Demonstrate the skills and knowledge gained during the BCA program. 
 3. Implement the software engineering phases to design and develop a software 
@@ -4066,12 +3433,9 @@ application for a mini-world problem.
 4. Prepare detailed documentation, including project proposal, requirements, design 
 documents, user manuals, and technical reports for the software application 
 developed. 
- 
-## Page 99
-
-FMCD2009 / 2.0 99 
- 
-Internal Semester 
+  ## Page 99
+ FMCD2009 / 2.0 99 
+  Internal Semester 
 Assessment (50%) 
 Assessment Weightage in 
 marks 
@@ -4081,5 +3445,4 @@ End Semester
 Assessment (50%) 
 Final Review 50 
  Total 100 
- 
-Back 
+  Back 

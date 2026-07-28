@@ -1,10 +1,7 @@
 # PDF Document: prospectus
-
-**PDF Source:** https://www.kletech.ac.in/pdf/prospectus.pdf
-
-## Page 1
-
-Ranked University
+ **PDF Source:** https://www.kletech.ac.in/pdf/prospectus.pdf
+ ## Page 1
+ Ranked University
 Identies BVB (KLE Tech) as one of the 
 Five Places to watch globally for future 
 leadership in Engineering Education 
@@ -23,10 +20,8 @@ Belagavi Campus
 E036
 E065
 E241
-
-## Page 2
-
-ABOUT UNIVERSITY
+ ## Page 2
+ ABOUT UNIVERSITY
 KLE Technological University (KLE Tech) has its roots in one of the premier engineering institutions of Karnataka, B. V. 
 Bhoomaraddi College of Engineering and Technology (BVB), a prestigious engineering college in Hubbali. The founding 
 organization KLE Society, Belgavi, established BVB College in 1947 to create an institution that would lay the 
@@ -41,14 +36,14 @@ equity of the KLE Society, are the starting points for KLE Technological Univers
 the technical education system of India.
 University has been ranked among the top 200 institutions in the NIRF -2022 rankings (National Institutional Ranking 
 Framework) by the MHRD Govt of India. It has also been ranked among India's top 25 private Universities under the ATAL 
--2020 ranking of institutions by AICTE and MHRD. The MIT report (2018-March) on 'The global state-of-the-art in 
+- 2020 ranking of institutions by AICTE and MHRD. The MIT report (2018-March) on 'The global state-of-the-art in 
 engineering education identifies BVB (KLE Tech) as one of five Global institutions that are places to watch in 
 Undergraduate Engineering Education.
 The University has following three campuses located in Hubballi, Belgaum, and Bangalore, with 8000 undergraduate 
 and 700 postgraduate students.
- 1.  B.V. Bhoomaraddi Campus, Hubballi
- 2.  Dr. M. S. Sheshgiri Campus, Belgaum
- 3.  KLE Law Campus, Bangalore
+ 1. B.V. Bhoomaraddi Campus, Hubballi
+ 2. Dr. M. S. Sheshgiri Campus, Belgaum
+ 3. KLE Law Campus, Bangalore
 Though the current programs of the University are focused on Engineering, Management, and Law, it aspires to 
 emerge as a multidisciplinary research University by 2030.
 The University is one of the most preferred campus job placements by leading global corporates. It has corporate 
@@ -69,10 +64,8 @@ campuses in tier-II cities. We have incubated 82 startups on the campus, of whic
 Some of the noted alumni of the University are Mrs. Sudha Murthy, Chairman, Infosys Foundation, and Prof Anil 
 Sahasrabuddhe, Chairman, AICTE, Sri. Basavaraj Bommai, Former Chief Minister of Karnataka, Sri Murugesh Nirani, 
 Former Industry Minister, Govt of Karnataka
-
-## Page 3
-
-With 296 institutions spread across Karnataka, Maharashtra, and Goa, each narrating their own amazing stories of 
+ ## Page 3
+ With 296 institutions spread across Karnataka, Maharashtra, and Goa, each narrating their own amazing stories of 
 enriching people's lives, a harmony exists that is very palpable. Our alumni, settled in different parts of the world, 
 testify to our achievements and endeavours and are ambassadors promoting the 'Brand KLE' globally. Unmindful of 
 the constraints, KLE ensures that every individual with a desire to learn, irrespective of which strata he/she belongs 
@@ -85,25 +78,25 @@ new dimension to the KLE Society, making it on par with reputed educational inst
 selflessservice and sacrifice left behind by the founding fathers is pursued sincerely by the Management to this day.
 Under the unparalleled leadership of Dr. Prabhakar Kore, the KLE Institution has reached enviable heights. His 
 spectacular chairmanship beyond 30 years, with the active support of his team of elected members, embodies the 
-collective efforts of everyone in KLE, including 13,000 members of the trust, 1,38,000 students, and 16,000 strong 
+collective efforts of everyone in KLE, including 13, 000 members of the trust, 1, 38, 000 students, and 16, 000 strong 
 faculty, in making KLE an international Education-destination.
 ABOUT KLE SOCIETY
 Undergraduate Programs
-•  B.E. in Computer Science and Engineering
-•  B.E. in Computer Science and Engineering (Artificial Intelligence)
-•  B.E. in Mechanical Engineering
-•  B.E. in Civil Engineering
-•  B.E. in Electronics & Communication Engineering
-•  B.E. in Electrical & Electronics Engineering
-•  B.E. in Electronics Engineering (VLSI Design & Technology)
-•  B.E. in Automation & Robotics
-•  B.E. in Biotechnology
-•  Bachelor in Architecture
-•  Bachelor of Computer Applications (BCA)
-•  Bachelor of Business Administration (BBA)
-•  Bachelor of Commerce (Hons.)
-•  Bachelor of Commerce (Hons.) Integrated with ACCA
-•  Bachelor of Science (Fashion and Apparel Design)
+• B.E. in Computer Science and Engineering
+• B.E. in Computer Science and Engineering (Artificial Intelligence)
+• B.E. in Mechanical Engineering
+• B.E. in Civil Engineering
+• B.E. in Electronics & Communication Engineering
+• B.E. in Electrical & Electronics Engineering
+• B.E. in Electronics Engineering (VLSI Design & Technology)
+• B.E. in Automation & Robotics
+• B.E. in Biotechnology
+• Bachelor in Architecture
+• Bachelor of Computer Applications (BCA)
+• Bachelor of Business Administration (BBA)
+• Bachelor of Commerce (Hons.)
+• Bachelor of Commerce (Hons.) Integrated with ACCA
+• Bachelor of Science (Fashion and Apparel Design)
 Postgraduate Programs
 • M. Tech. in Structural Engineering
 • M. Tech. in Design Engineering
@@ -113,27 +106,25 @@ Postgraduate Programs
 • Master of Computer Applications (MCA)
 • Master of Business Administration (MBA)
 B. V. Bhoomaraddi Campus, HubliCourses Oﬀered:
-
-## Page 4
-
-Undergraduate Programs
-•  B.E. in Biomedical Engineering
-•  B.E. in Chemical Engineering
-•  B.E. in Mechanical Engineering
-•  B.E. in Civil Engineering
-•  B.E. in Computer Science & Engineering
+ ## Page 4
+ Undergraduate Programs
+• B.E. in Biomedical Engineering
+• B.E. in Chemical Engineering
+• B.E. in Mechanical Engineering
+• B.E. in Civil Engineering
+• B.E. in Computer Science & Engineering
 • B.E. in Computer Science & Engineering (Artificial Intelligence)
-•  B.E. in Electronics & Communication Engineering
-•  B.E. in Electrical & Electronics Engineering
-•  Bachelor of Computer Applications (BCA)
-•  Bachelor of Business Administration (BBA)
-•  Bachelor of Commerce (Hons.)
-•  Bachelor of Commerce (Hons.) Integrated with ACCA
+• B.E. in Electronics & Communication Engineering
+• B.E. in Electrical & Electronics Engineering
+• Bachelor of Computer Applications (BCA)
+• Bachelor of Business Administration (BBA)
+• Bachelor of Commerce (Hons.)
+• Bachelor of Commerce (Hons.) Integrated with ACCA
 Postgraduate Programs
-•  M. Tech. in Structural Engineering
-•  M. Tech. in Environment Engineering
-•  Master of Computer Applications (MCA)
-•  Master of Business Administration (MBA)
+• M. Tech. in Structural Engineering
+• M. Tech. in Environment Engineering
+• Master of Computer Applications (MCA)
+• Master of Business Administration (MBA)
 Dr. M.S. Sheshgiri Campus, Udyambag, BelagaviCourses Oﬀered:
 Undergraduate Eligibility Criteria
 Bachelor of Engineering (BE)
@@ -159,10 +150,8 @@ with giving technical, the programme curriculum will push students to think stra
 principles. Particularly in the industries of investment banking, management, and consulting, the ACCA qualification is 
 acknowledged and held in high regard. It offers the chance to work in a variety of technical fields, such as Corporate 
 Reporting, Tax, Governance, and Ethics, as well as Audit and Assurance, and Financial Management.
-
-## Page 5
-
-Semester III
+ ## Page 5
+ Semester III
 1 Direct Taxation
 2 Social Media Analytics
 3 Corporate accounting 
@@ -180,9 +169,9 @@ No. Course
 3 Start up and Entrepreneurship Management
 4 Foreign Exchange Management
 5 ACCA - Performance Management
-6 ACCA – Taxation
+6 ACCA - Taxation
 7 Crypto Currency and Block Chain
-II Year B. Com   
+II Year B. Com 
 Semester V
 1 Business Research Methods
 2 GST Compliance and Customs
@@ -193,7 +182,7 @@ Semester V
 7 Export and Imports Documentation
 Semester VI
 1 Project
-III Year B. Com   
+III Year B. Com 
 Semester-Wise Courses 
 Semester I
 1 Self-Development
@@ -201,7 +190,7 @@ Semester I
 3 Business Economics
 4 Indian Financial System 
 5 Data and Decisions for Manager
-6 ACCA –Business& Technology
+6 ACCA -Business& Technology
 7 Tally Prime
 Semester II
 1 Cost Accounting
@@ -211,17 +200,15 @@ Semester II
 5 ACCA - Financial Accounting
 6 ACCA - Corporate and BusinessLaw
 7 Aptitude Skill Development
-I Year B. Com   
+I Year B. Com 
 S l .
 No. Course S l .
 No. Course
 S l .
 No. Course S l .
 No. Course
-
-## Page 6
-
-1 Introduction to Fintech
+ ## Page 6
+ 1 Introduction to Fintech
 2 Forensic Accounting & Fraud Detection
 3 Financial Derivatives
 4 Personal and behavioral finance
@@ -239,7 +226,7 @@ know-how, the programme curriculum will empower students to think strategically 
 particularly in the industries of investment banking, management, and consulting. The programme offers the chance 
 to work in a variety of technical fields, such as corporate reporting, tax, governance, and ethics, as well as audit and 
 assurance and financial management.
-1 Content  Publishing and Data Processing
+1 Content Publishing and Data Processing
 2 English - I
 3 Business Economics
 4 Indian Financial System 
@@ -259,17 +246,15 @@ Semester VII Semester VIII
 S l .
 No. Course S l .
 No. Course
-IV Year B. Com   
+IV Year B. Com 
 Semester-Wise Courses 
-Ist Year B. Com   
+Ist Year B. Com 
 Semester I Semester II
 S l .
 No. Course S l .
 No. Course
-
-## Page 7
-
-1 Banking Operations Management
+ ## Page 7
+ 1 Banking Operations Management
 2 Social Media Analytics
 3 Corporate accounting 
 4 Audit and Assurance
@@ -301,17 +286,17 @@ Semester III Semester IV
 S l .
 No. Course S l .
 No. Course
-II Year B. Com   
+II Year B. Com 
 Semester V Semester VI
 S l .
 No. Course S l .
 No. Course
-III Year B. Com   
+III Year B. Com 
 Semester V Semester VI
 S l .
 No. Course S l .
 No. Course
-IV Year B. Com   
+IV Year B. Com 
 1 Financial Derivatives
 2 Advanced Performance Management
 3 Advanced Financial Management
@@ -322,30 +307,28 @@ IV Year B. Com
 2 Climate change and sustainability
 3 Business Ethics 
 4 Internship in Audit Firm/Company
-
-## Page 8
-
-BCA Curriculum Structure [Duration 3 Years (6 Semesters)]
-•  Mathematics
-•  Web Technology
-•  Computer Organization
-•  Professional Communication
-•  Programming using C
-•  C Programming Lab.
-•  Web Programming Lab
-•    Web Technology
+ ## Page 8
+ BCA Curriculum Structure [Duration 3 Years (6 Semesters)]
+• Mathematics
+• Web Technology
+• Computer Organization
+• Professional Communication
+• Programming using C
+• C Programming Lab.
+• Web Programming Lab
+• Web Technology
 • Discrete Mathematical Structures
-• Operating Systems  
+• Operating Systems 
 • Object-Oriented Programming in C++
-• Software Engineering  
+• Software Engineering 
 • Data Structures with Applications
-•   Computer Networks
-•  Design and Analysis of Algorithm
-•  Database Management Systems  
-•  Programming using Java  
-•  Statistical Computing using Python 
-•  Java Programming Lab
-•  Database Management Systems Lab
+• Computer Networks
+• Design and Analysis of Algorithm
+• Database Management Systems 
+• Programming using Java 
+• Statistical Computing using Python 
+• Java Programming Lab
+• Database Management Systems Lab
 • Computer Hardware & Network Diagnostics 
 Practices.
 • Advanced JAVA Programming
@@ -372,42 +355,40 @@ final year, students have opportunities to carry out several projects in which s
 faculty/industry mentors, put their knowledge to work on a real-world issue to find innovative solutions. The program 
 also offers the option of doing an internship with industry or research labs.
 Semester-Wise Courses 
-Ist Year BCA   
+Ist Year BCA 
 Semester I Semester II
 Course Course
 II Year BCS
 Semester III Semester IV
 Course Course
-
-## Page 9
-
-• Full Stack with MERN
+ ## Page 9
+ • Full Stack with MERN
 • Machine Learning
 • Big Data Analytics
 • Information Security
 • Internet of Things
-•    User Interface Design
-•   LINUX Administration
+• User Interface Design
+• LINUX Administration
 • Information Retrieval
 • Cyber Security and Forensics
 • Blockchain Technologies
 • Deep Learning
 • Elective-1 or REU-1: Research Experience 
 for Undergraduates
-•  Elective-2
+• Elective-2
 • Elective-3
 • Elective-4 or REU-2: Research Experience for 
 Undergraduates
 • Senior Design Project
-The minimum duration of the BCA Program is 03 years.  There is a provision for BCA (Honors) program by studying extra 
-courses for additional 01 year that offers specialization in certain areas such as  Cyber Security, AI and ML, and Data 
+The minimum duration of the BCA Program is 03 years. There is a provision for BCA (Honors) program by studying extra 
+courses for additional 01 year that offers specialization in certain areas such as Cyber Security, AI and ML, and Data 
 Analytics.
-•  Multimedia and Animation
+• Multimedia and Animation
 • Wireless and Mobile Computing
 • Digital Image Processing
 • Virtual Reality and Augmentation
 • Web Analytics
-•  Data Visualization
+• Data Visualization
 • Malware Analysis in Data Science
 • Video Analytics
 • Bio-Informatics
@@ -415,18 +396,16 @@ Analytics.
 • Information Storage and Management
 Electives
 Honors Program
-4th Year BCA Honors   
+4th Year BCA Honors 
 Semester VII Semester VIII
 Course Course
 VII Semester-Elective-1 VIII Semester (Electives-2 ,3 & 4)
 Course Course
-III Year BCA   
+III Year BCA 
 Semester V Semester VI
 Course Course
-
-## Page 10
-
-ELIGIBILITY
+ ## Page 10
+ ELIGIBILITY
 Second year (PUC-II)
 in any stream.
 HOSTEL FACILITIES
@@ -457,10 +436,8 @@ Fashion Photographer Ÿ
 EntrepreneurŸ 
 ADMISSIONS
 OPEN
-
-## Page 12
-
-Highest 
+ ## Page 12
+ Highest 
 Package 43 LPA by 
  has selected Students
 40
@@ -483,5 +460,5 @@ OFFERS
 HIGHEST 
 PACKAGE
 OFFERED
-43.0Lakh
+43. 0Lakh
 design@globalmediahubli.com

@@ -1,13 +1,10 @@
 # PDF Document: Application-Part-2-Report-2018_19
-
-**PDF Source:** https://www.kletech.ac.in/pdf/Application-Part-2-Report-2018_19.pdf
-
-## Page 1
-
-Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
+ **PDF Source:** https://www.kletech.ac.in/pdf/Application-Part-2-Report-2018_19.pdf
+ ## Page 1
+ Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
-                     All India Council for Technical Education                                     (An Autonomous Organization, Under Ministry of HRD, Govt. of India) 
-                                          Nelson Mandela Marg,Vasant Kunj, New Delhi-110067  Website: https://www.aicte-india.org
+                     All India Council for Technical Education (An Autonomous Organization, Under Ministry of HRD, Govt. of India) 
+                                          Nelson Mandela Marg, Vasant Kunj, New Delhi-110067 Website: https://www.aicte-india.org
 APPROVAL PROCESS 2018-19
 Application Report Part-2
 Permanent Institute IdNA
@@ -28,23 +25,20 @@ Experience (T-R-I) Teaching Research Industry
 Faculty Counts 
 Total No. of Faculty 21
 Total No. of Faculty 342
-No. of Teaching  faculty approved by University/Government? 342
-Faculty Details  
-*Faculty Details available as on AICTE Web Portal Sr . No.
+No. of Teaching faculty approved by University/Government? 342
+Faculty Details 
+* Faculty Details available as on AICTE Web Portal Sr . No.
  Faculty ID
- 
-Programme
- 
-Course
+  Programme
+  Course
  Faculty Type
  FT/PT
- 
-First  Name
+  First Name
  Surname
- Exact  Designation
- Date of Joining  the   
+ Exact Designation
+ Date of Joining the 
  Institute
- Appointment  Type
+ Appointment Type
  Doctorate
  Master's Degree
  Bachelor 's Degree
@@ -54,14 +48,11 @@ First  Name
  Total Gross Salary for 
 the Last Financial Year 
  Pay Scale
-
-## Page 2
-
-Application Report - Part 2
-Application Status:         Submitted
+ ## Page 2
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
  1 1-
@@ -90,8 +81,7 @@ PS85
 212914 VIth 
 Pay 
 Scale
- 
- 2 1-
+   2 1-
 364
 420
 961
@@ -125,8 +115,7 @@ H433
 133844 VIth 
 Pay 
 Scale
- 
- 3 1-
+   3 1-
 364
 445
 490
@@ -155,8 +144,7 @@ P541
 157835 VIth 
 Pay 
 Scale
- 
- 4 1-
+   4 1-
 364
 454
 749
@@ -191,8 +179,7 @@ L603
 VIth 
 Pay 
 Scale
- 
- 5 1-
+   5 1-
 364
 454
 810
@@ -222,8 +209,7 @@ H027
 VIth 
 Pay 
 Scale
- 
- 6 1-
+   6 1-
 364
 466
 075
@@ -248,8 +234,7 @@ B330
 2H
 25000 Conso
 lidated
- 
- 7 1-
+   7 1-
 364
 480
 812
@@ -277,8 +262,7 @@ D005
 160579 VIth 
 Pay 
 Scale
- 
- 8 1-
+   8 1-
 364
 490
 658
@@ -307,8 +291,7 @@ PM44
 437902 VIth 
 Pay 
 Scale
- 
- 9 1-
+   9 1-
 364
 497
 364
@@ -340,14 +323,11 @@ P541
 165479 VIth 
 Pay 
 Scale
- 
-## Page 3
-
-Application Report - Part 2
-Application Status:         Submitted
+  ## Page 3
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
  10 1-
@@ -383,8 +363,7 @@ PK90
 VIth 
 Pay 
 Scale
- 
- 11 1-
+   11 1-
 364
 508
 662
@@ -397,8 +376,7 @@ STRUCTURAL
 ENGINEERING
 FT GURUNAT
 H
- 
-KAM
+  KAM
 PLI
 ASST 
 PROFE
@@ -416,8 +394,7 @@ K436
 615976 VIth 
 Pay 
 Scale
- 
- 12 1-
+   12 1-
 364
 508
 701
@@ -449,8 +426,7 @@ Q274
 7G
 468000 Conso
 lidated
- 
- 13 1-
+   13 1-
 364
 521
 366
@@ -481,8 +457,7 @@ C654
 VIth 
 Pay 
 Scale
- 
- 14 1-
+   14 1-
 364
 527
 399
@@ -511,8 +486,7 @@ PB05
 VIth 
 Pay 
 Scale
- 
- 15 1-
+   15 1-
 364
 538
 187
@@ -543,8 +517,7 @@ PP35
 VIth 
 Pay 
 Scale
- 
- 16 1-
+   16 1-
 364
 546
 050
@@ -576,8 +549,7 @@ PH75
 146320 VIth 
 Pay 
 Scale
- 
- 17 1-
+   17 1-
 364
 550
 243
@@ -604,8 +576,7 @@ PP21
 46E
 15000 Conso
 lidated
- 
- 18 1-
+   18 1-
 365
 235
 703
@@ -634,14 +605,11 @@ PR23
 283020 VIth 
 Pay 
 Scale
- 
-## Page 4
-
-Application Report - Part 2
-Application Status:         Submitted
+  ## Page 4
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
  19 1-
@@ -673,8 +641,7 @@ PH69
 34816 VIth 
 Pay 
 Scale
- 
- 20 1-
+   20 1-
 365
 270
 292
@@ -707,8 +674,7 @@ N232
 417712 VIth 
 Pay 
 Scale
- 
- 21 1-
+   21 1-
 365
 287
 860
@@ -739,8 +705,7 @@ P435
 34816 VIth 
 Pay 
 Scale
- 
- 22 1-
+   22 1-
 365
 296
 448
@@ -769,8 +734,7 @@ S528
 34816 VIth 
 Pay 
 Scale
- 
- 23 1-
+   23 1-
 365
 300
 783
@@ -801,8 +765,7 @@ PM24
 283020 VIth 
 Pay 
 Scale
- 
- 24 1-
+   24 1-
 365
 308
 324
@@ -831,8 +794,7 @@ PK79
 417792 VIth 
 Pay 
 Scale
- 
- 25 1-
+   25 1-
 365
 340
 468
@@ -860,8 +822,7 @@ P761
 151588 VIth 
 Pay 
 Scale
- 
- 26 1-
+   26 1-
 365
 356
 181
@@ -890,8 +851,7 @@ PP10
 286279 VIth 
 Pay 
 Scale
- 
- 27 1-
+   27 1-
 365
 376
 287
@@ -922,14 +882,11 @@ PD76
 246225 VIth 
 Pay 
 Scale
- 
-## Page 5
-
-Application Report - Part 2
-Application Status:         Submitted
+  ## Page 5
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
  28 1-
@@ -962,8 +919,7 @@ PL77
 43402 VIth 
 Pay 
 Scale
- 
- 29 1-
+   29 1-
 365
 389
 822
@@ -990,8 +946,7 @@ PD79
 453548 VIth 
 Pay 
 Scale
- 
- 30 1-
+   30 1-
 365
 414
 209
@@ -1022,8 +977,7 @@ PB54
 120047 VIth 
 Pay 
 Scale
- 
- 31 1-
+   31 1-
 365
 423
 750
@@ -1055,8 +1009,7 @@ PT14
 912468 VIth 
 Pay 
 Scale
- 
- 32 1-
+   32 1-
 365
 423
 804
@@ -1085,8 +1038,7 @@ P801
 574044 VIth 
 Pay 
 Scale
- 
- 33 1-
+   33 1-
 365
 437
 282
@@ -1118,8 +1070,7 @@ K658
 42125 VIth 
 Pay 
 Scale
- 
- 34 1-
+   34 1-
 365
 445
 572
@@ -1151,8 +1102,7 @@ H729
 38997 VIth 
 Pay 
 Scale
- 
- 35 1-
+   35 1-
 365
 567
 177
@@ -1187,8 +1137,7 @@ K505
 VIth 
 Pay 
 Scale
- 
- 36 1-
+   36 1-
 365
 578
 910
@@ -1220,14 +1169,11 @@ PK60
 393310 VIth 
 Pay 
 Scale
- 
-## Page 6
-
-Application Report - Part 2
-Application Status:         Submitted
+  ## Page 6
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
  37 1-
@@ -1259,8 +1205,7 @@ PS91
 146320 VIth 
 Pay 
 Scale
- 
- 38 1-
+   38 1-
 365
 598
 792
@@ -1289,8 +1234,7 @@ PK11
 92P
 35000 Conso
 lidated
- 
- 39 1-
+   39 1-
 365
 621
 687
@@ -1315,8 +1259,7 @@ PM68
 74197 VIth 
 Pay 
 Scale
- 
- 40 1-
+   40 1-
 365
 627
 425
@@ -1346,8 +1289,7 @@ C679
 519932 VIth 
 Pay 
 Scale
- 
- 41 1-
+   41 1-
 365
 654
 155
@@ -1376,8 +1318,7 @@ H561
 491386 VIth 
 Pay 
 Scale
- 
- 42 1-
+   42 1-
 366
 495
 127
@@ -1407,8 +1348,7 @@ PF14
 40168 VIth 
 Pay 
 Scale
- 
- 43 1-
+   43 1-
 366
 495
 166
@@ -1442,8 +1382,7 @@ P757
 VIth 
 Pay 
 Scale
- 
- 44 1-
+   44 1-
 366
 522
 901
@@ -1471,8 +1410,7 @@ J343
 6G
 240000 Conso
 lidated
- 
- 45 1-
+   45 1-
 366
 674
 753
@@ -1501,14 +1439,11 @@ K863
 38545 VIth 
 Pay 
 Scale
- 
-## Page 7
-
-Application Report - Part 2
-Application Status:         Submitted
+  ## Page 7
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
  46 1-
@@ -1544,8 +1479,7 @@ PK99
 VIth 
 Pay 
 Scale
- 
- 47 1-
+   47 1-
 366
 693
 831
@@ -1574,8 +1508,7 @@ PK60
 15H
 25000 Conso
 lidated
- 
- 48 1-
+   48 1-
 366
 703
 263
@@ -1604,8 +1537,7 @@ M952
 40897 VIth 
 Pay 
 Scale
- 
- 49 1-
+   49 1-
 366
 706
 421
@@ -1633,8 +1565,7 @@ G766
 421267 VIth 
 Pay 
 Scale
- 
- 50 1-
+   50 1-
 366
 711
 705
@@ -1667,8 +1598,7 @@ C912
 281176 VIth 
 Pay 
 Scale
- 
- 51 1-
+   51 1-
 366
 715
 531
@@ -1700,8 +1630,7 @@ PT30
 45333 VIth 
 Pay 
 Scale
- 
- 52 1-
+   52 1-
 366
 719
 001
@@ -1731,8 +1660,7 @@ B895
 165430 VIth 
 Pay 
 Scale
- 
- 53 1-
+   53 1-
 366
 722
 590
@@ -1762,8 +1690,7 @@ PE92
 311738 VIth 
 Pay 
 Scale
- 
- 54 1-
+   54 1-
 366
 722
 612
@@ -1794,14 +1721,11 @@ B497
 954396 VIth 
 Pay 
 Scale
- 
-## Page 8
-
-Application Report - Part 2
-Application Status:         Submitted
+  ## Page 8
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
  55 1-
@@ -1835,8 +1759,7 @@ PT61
 VIth 
 Pay 
 Scale
- 
- 56 1-
+   56 1-
 366
 742
 247
@@ -1867,8 +1790,7 @@ R716
 45748 VIth 
 Pay 
 Scale
- 
- 57 1-
+   57 1-
 366
 745
 115
@@ -1901,8 +1823,7 @@ PR06
 610014 VIth 
 Pay 
 Scale
- 
- 58 1-
+   58 1-
 366
 745
 136
@@ -1932,8 +1853,7 @@ P796
 365572 VIth 
 Pay 
 Scale
- 
- 59 1-
+   59 1-
 366
 745
 181
@@ -1966,8 +1886,7 @@ B895
 51255 VIth 
 Pay 
 Scale
- 
- 60 1-
+   60 1-
 366
 752
 925
@@ -1999,8 +1918,7 @@ PM19
 165589 VIth 
 Pay 
 Scale
- 
- 61 1-
+   61 1-
 366
 752
 978
@@ -2030,8 +1948,7 @@ PK76
 470667 VIth 
 Pay 
 Scale
- 
- 62 1-
+   62 1-
 366
 757
 254
@@ -2058,8 +1975,7 @@ U722
 84240 VIth 
 Pay 
 Scale
- 
- 63 1-
+   63 1-
 366
 757
 273
@@ -2087,14 +2003,11 @@ T984
 1P
 300000 Conso
 lidated
- 
-## Page 9
-
-Application Report - Part 2
-Application Status:         Submitted
+  ## Page 9
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
  64 1-
@@ -2130,8 +2043,7 @@ G103
 700857 VIth 
 Pay 
 Scale
- 
- 65 1-
+   65 1-
 366
 759
 534
@@ -2162,8 +2074,7 @@ M716
 35863 VIth 
 Pay 
 Scale
- 
- 66 1-
+   66 1-
 366
 888
 858
@@ -2189,8 +2100,7 @@ P982
 1A
 186000 Conso
 lidated
- 
- 67 1-
+   67 1-
 366
 888
 883
@@ -2216,8 +2126,7 @@ PK23
 365572 VIth 
 Pay 
 Scale
- 
- 68 1-
+   68 1-
 366
 888
 906
@@ -2243,8 +2152,7 @@ PK13
 130047 VIth 
 Pay 
 Scale
- 
- 69 1-
+   69 1-
 366
 902
 931
@@ -2269,8 +2177,7 @@ PK54
 315916 VIth 
 Pay 
 Scale
- 
- 70 1-
+   70 1-
 366
 902
 954
@@ -2301,8 +2208,7 @@ PK61
 354354 VIth 
 Pay 
 Scale
- 
- 71 1-
+   71 1-
 366
 902
 982
@@ -2330,8 +2236,7 @@ PB63
 484452 VIth 
 Pay 
 Scale
- 
- 72 1-
+   72 1-
 366
 907
 514
@@ -2360,14 +2265,11 @@ PJ41
 40897 VIth 
 Pay 
 Scale
- 
-## Page 10
-
-Application Report - Part 2
-Application Status:         Submitted
+  ## Page 10
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
  73 1-
@@ -2396,8 +2298,7 @@ PH47
 91C
 320000 Conso
 lidated
- 
- 74 1-
+   74 1-
 366
 907
 597
@@ -2426,8 +2327,7 @@ PG12
 434668 VIth 
 Pay 
 Scale
- 
- 75 1-
+   75 1-
 366
 911
 445
@@ -2458,8 +2358,7 @@ PB63
 VIth 
 Pay 
 Scale
- 
- 76 1-
+   76 1-
 366
 911
 474
@@ -2489,8 +2388,7 @@ P982
 37858 VIth 
 Pay 
 Scale
- 
- 77 1-
+   77 1-
 366
 915
 012
@@ -2520,8 +2418,7 @@ P982
 37858 VIth 
 Pay 
 Scale
- 
- 78 1-
+   78 1-
 366
 915
 100
@@ -2551,8 +2448,7 @@ PD94
 157835 VIth 
 Pay 
 Scale
- 
- 79 1-
+   79 1-
 366
 922
 331
@@ -2579,8 +2475,7 @@ PL86
 463408 VIth 
 Pay 
 Scale
- 
- 80 1-
+   80 1-
 366
 922
 364
@@ -2606,8 +2501,7 @@ PM70
 272979 VIth 
 Pay 
 Scale
- 
- 81 1-
+   81 1-
 366
 922
 391
@@ -2641,14 +2535,11 @@ PG99
 111675 VIth 
 Pay 
 Scale
- 
-## Page 11
-
-Application Report - Part 2
-Application Status:         Submitted
+  ## Page 11
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
  82 1-
@@ -2682,8 +2573,7 @@ K751
 785352 VIth 
 Pay 
 Scale
- 
- 83 1-
+   83 1-
 367
 073
 079
@@ -2712,8 +2602,7 @@ PK01
 482016 VIth 
 Pay 
 Scale
- 
- 84 1-
+   84 1-
 367
 073
 108
@@ -2741,8 +2630,7 @@ YZ11
 494672 VIth 
 Pay 
 Scale
- 
- 85 1-
+   85 1-
 367
 096
 315
@@ -2766,8 +2654,7 @@ G948
 3B
 15000 Conso
 lidated
- 
- 86 1-
+   86 1-
 367
 096
 396
@@ -2798,8 +2685,7 @@ PP43
 152396 VIth 
 Pay 
 Scale
- 
- 87 1-
+   87 1-
 367
 103
 422
@@ -2830,8 +2716,7 @@ M573
 42125 VIth 
 Pay 
 Scale
- 
- 88 1-
+   88 1-
 367
 103
 474
@@ -2842,7 +2727,7 @@ TECHNOLO
 GY
 ENGINEERING
 EDUCATION
-FT UMA  
+FT UMA 
 NEE
 LI
 ASSOCI
@@ -2859,8 +2744,7 @@ PN33
 68731 VIth 
 Pay 
 Scale
- 
- 89 1-
+   89 1-
 367
 103
 501
@@ -2887,8 +2771,7 @@ PC25
 45803 VIth 
 Pay 
 Scale
- 
- 90 1-
+   90 1-
 367
 106
 281
@@ -2917,14 +2800,11 @@ C546
 577584 VIth 
 Pay 
 Scale
- 
-## Page 12
-
-Application Report - Part 2
-Application Status:         Submitted
+  ## Page 12
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
  91 1-
@@ -2953,8 +2833,7 @@ PB71
 649300 VIth 
 Pay 
 Scale
- 
- 92 1-
+   92 1-
 367
 108
 036
@@ -2984,8 +2863,7 @@ U741
 53293 VIth 
 Pay 
 Scale
- 
- 93 1-
+   93 1-
 367
 110
 537
@@ -3011,8 +2889,7 @@ K237
 41967 VIth 
 Pay 
 Scale
- 
- 94 1-
+   94 1-
 367
 110
 571
@@ -3040,8 +2917,7 @@ PM01
 351016 VIth 
 Pay 
 Scale
- 
- 95 1-
+   95 1-
 367
 111
 730
@@ -3070,8 +2946,7 @@ M604
 VIth 
 Pay 
 Scale
- 
- 96 1-
+   96 1-
 367
 111
 784
@@ -3097,8 +2972,7 @@ PA28
 304672 VIth 
 Pay 
 Scale
- 
- 97 1-
+   97 1-
 367
 112
 714
@@ -3128,8 +3002,7 @@ A600
 291327 VIth 
 Pay 
 Scale
- 
- 98 1-
+   98 1-
 367
 112
 745
@@ -3155,14 +3028,11 @@ PK02
 289963 VIth 
 Pay 
 Scale
- 
-## Page 13
-
-Application Report - Part 2
-Application Status:         Submitted
+  ## Page 13
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
  99 1-
@@ -3176,7 +3046,7 @@ TECHNOLO
 GY
 ENGINEERING
 EDUCATION
-FT ASHOK  
+FT ASHOK 
 SAJ
 JAN
 ASST 
@@ -3192,8 +3062,7 @@ PS52
 615744 VIth 
 Pay 
 Scale
- 
- 100 1-
+   100 1-
 367
 114
 037
@@ -3220,8 +3089,7 @@ PR92
 47857 VIth 
 Pay 
 Scale
- 
- 101 1-
+   101 1-
 367
 114
 068
@@ -3249,8 +3117,7 @@ K592
 491656 VIth 
 Pay 
 Scale
- 
- 102 1-
+   102 1-
 367
 114
 099
@@ -3276,8 +3143,7 @@ S089
 45526 VIth 
 Pay 
 Scale
- 
- 103 1-
+   103 1-
 367
 115
 431
@@ -3303,8 +3169,7 @@ PB55
 589220 VIth 
 Pay 
 Scale
- 
- 104 1-
+   104 1-
 367
 115
 463
@@ -3329,8 +3194,7 @@ P540
 4J
 510000 Conso
 lidated
- 
- 105 1-
+   105 1-
 367
 115
 495
@@ -3355,8 +3219,7 @@ PK52
 23919 VIth 
 Pay 
 Scale
- 
- 106 1-
+   106 1-
 367
 116
 828
@@ -3382,8 +3245,7 @@ RK33
 177659 VIth 
 Pay 
 Scale
- 
- 107 1-
+   107 1-
 367
 116
 861
@@ -3413,14 +3275,11 @@ PH75
 VIth 
 Pay 
 Scale
- 
-## Page 14
-
-Application Report - Part 2
-Application Status:         Submitted
+  ## Page 14
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
  108 1-
@@ -3452,8 +3311,7 @@ S229
 568676 VIth 
 Pay 
 Scale
- 
- 109 1-
+   109 1-
 367
 285
 611
@@ -3481,8 +3339,7 @@ PP72
 375543 VIth 
 Pay 
 Scale
- 
- 110 1-
+   110 1-
 367
 285
 685
@@ -3508,8 +3365,7 @@ S821
 230235 VIth 
 Pay 
 Scale
- 
- 111 1-
+   111 1-
 367
 290
 727
@@ -3533,8 +3389,7 @@ PR06
 85J
 116613 Conso
 lidated
- 
- 112 1-
+   112 1-
 367
 290
 805
@@ -3562,8 +3417,7 @@ PG68
 218045 VIth 
 Pay 
 Scale
- 
- 113 1-
+   113 1-
 367
 315
 761
@@ -3594,8 +3448,7 @@ PG78
 53665 VIth 
 Pay 
 Scale
- 
- 114 1-
+   114 1-
 367
 315
 804
@@ -3626,8 +3479,7 @@ Y701
 516850 VIth 
 Pay 
 Scale
- 
- 115 1-
+   115 1-
 367
 329
 845
@@ -3659,8 +3511,7 @@ PK98
 45877 VIth 
 Pay 
 Scale
- 
- 116 1-
+   116 1-
 367
 333
 324
@@ -3691,14 +3542,11 @@ PB69
 553727 VIth 
 Pay 
 Scale
- 
-## Page 15
-
-Application Report - Part 2
-Application Status:         Submitted
+  ## Page 15
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
  117 1-
@@ -3731,8 +3579,7 @@ H514
 65224 VIth 
 Pay 
 Scale
- 
- 118 1-
+   118 1-
 367
 340
 701
@@ -3763,8 +3610,7 @@ PA41
 36941 VIth 
 Pay 
 Scale
- 
- 119 1-
+   119 1-
 367
 352
 849
@@ -3795,8 +3641,7 @@ B933
 459991 VIth 
 Pay 
 Scale
- 
- 120 1-
+   120 1-
 367
 355
 967
@@ -3824,8 +3669,7 @@ C869
 466717 VIth 
 Pay 
 Scale
- 
- 121 1-
+   121 1-
 367
 358
 212
@@ -3858,8 +3702,7 @@ PC72
 VIth 
 Pay 
 Scale
- 
- 122 1-
+   122 1-
 367
 358
 252
@@ -3889,8 +3732,7 @@ D736
 68389 VIth 
 Pay 
 Scale
- 
- 123 1-
+   123 1-
 367
 373
 603
@@ -3921,8 +3763,7 @@ PD36
 306271 VIth 
 Pay 
 Scale
- 
- 124 1-
+   124 1-
 367
 381
 687
@@ -3954,8 +3795,7 @@ PS69
 711600 VIth 
 Pay 
 Scale
- 
- 125 1-
+   125 1-
 367
 382
 870
@@ -3985,14 +3825,11 @@ PG10
 475584 VIth 
 Pay 
 Scale
- 
-## Page 16
-
-Application Report - Part 2
-Application Status:         Submitted
+  ## Page 16
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
  126 1-
@@ -4026,8 +3863,7 @@ PG28
 66388 VIth 
 Pay 
 Scale
- 
- 127 1-
+   127 1-
 367
 391
 625
@@ -4057,8 +3893,7 @@ PH92
 37231 VIth 
 Pay 
 Scale
- 
- 128 1-
+   128 1-
 367
 391
 665
@@ -4086,8 +3921,7 @@ H150
 3R
 180000 Conso
 lidated
- 
- 129 1-
+   129 1-
 367
 391
 706
@@ -4117,8 +3951,7 @@ PH35
 47735 VIth 
 Pay 
 Scale
- 
- 130 1-
+   130 1-
 367
 406
 146
@@ -4149,8 +3982,7 @@ H230
 68266 VIth 
 Pay 
 Scale
- 
- 131 1-
+   131 1-
 367
 406
 187
@@ -4182,8 +4014,7 @@ PB56
 89392 VIth 
 Pay 
 Scale
- 
- 132 1-
+   132 1-
 367
 407
 018
@@ -4217,8 +4048,7 @@ K689
 63695 VIth 
 Pay 
 Scale
- 
- 133 1-
+   133 1-
 367
 407
 059
@@ -4247,8 +4077,7 @@ PK23
 65G
 186000 Conso
 lidated
- 
- 134 1-
+   134 1-
 367
 414
 023
@@ -4276,14 +4105,11 @@ PK02
 56D
 39000 Conso
 lidated
- 
-## Page 17
-
-Application Report - Part 2
-Application Status:         Submitted
+  ## Page 17
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
  135 1-
@@ -4317,8 +4143,7 @@ D497
 423027 VIth 
 Pay 
 Scale
- 
- 136 1-
+   136 1-
 367
 414
 808
@@ -4347,8 +4172,7 @@ PM00
 308161 VIth 
 Pay 
 Scale
- 
- 137 1-
+   137 1-
 367
 415
 092
@@ -4381,8 +4205,7 @@ PN24
 74347 VIth 
 Pay 
 Scale
- 
- 138 1-
+   138 1-
 367
 415
 136
@@ -4416,8 +4239,7 @@ N438
 430356 VIth 
 Pay 
 Scale
- 
- 139 1-
+   139 1-
 367
 415
 179
@@ -4447,8 +4269,7 @@ N345
 897053 VIth 
 Pay 
 Scale
- 
- 140 1-
+   140 1-
 367
 416
 922
@@ -4477,8 +4298,7 @@ P061
 516672 VIth 
 Pay 
 Scale
- 
- 141 1-
+   141 1-
 367
 417
 408
@@ -4509,8 +4329,7 @@ PP87
 38053 VIth 
 Pay 
 Scale
- 
- 142 1-
+   142 1-
 367
 418
 039
@@ -4537,8 +4356,7 @@ P198
 558714 VIth 
 Pay 
 Scale
- 
- 143 1-
+   143 1-
 367
 493
 509
@@ -4572,14 +4390,11 @@ PB73
 44023 VIth 
 Pay 
 Scale
- 
-## Page 18
-
-Application Report - Part 2
-Application Status:         Submitted
+  ## Page 18
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
  144 1-
@@ -4614,8 +4429,7 @@ PD71
 75674 VIth 
 Pay 
 Scale
- 
- 145 1-
+   145 1-
 367
 506
 650
@@ -4642,8 +4456,7 @@ G988
 6L
 16000 Conso
 lidated
- 
- 146 1-
+   146 1-
 367
 509
 331
@@ -4673,8 +4486,7 @@ PV80
 56487 VIth 
 Pay 
 Scale
- 
- 147 1-
+   147 1-
 367
 510
 510
@@ -4701,8 +4513,7 @@ PH27
 43930 VIth 
 Pay 
 Scale
- 
- 148 1-
+   148 1-
 367
 510
 574
@@ -4734,8 +4545,7 @@ H009
 74347 VIth 
 Pay 
 Scale
- 
- 149 1-
+   149 1-
 367
 512
 939
@@ -4767,8 +4577,7 @@ J786
 VIth 
 Pay 
 Scale
- 
- 150 1-
+   150 1-
 367
 514
 610
@@ -4800,8 +4609,7 @@ G673
 806280 VIth 
 Pay 
 Scale
- 
- 151 1-
+   151 1-
 367
 515
 596
@@ -4840,14 +4648,11 @@ S060
 736374 VIth 
 Pay 
 Scale
- 
-## Page 19
-
-Application Report - Part 2
-Application Status:         Submitted
+  ## Page 19
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
  152 1-
@@ -4883,8 +4688,7 @@ K443
 66388 VIth 
 Pay 
 Scale
- 
- 153 1-
+   153 1-
 367
 516
 387
@@ -4914,8 +4718,7 @@ PK57
 306480 VIth 
 Pay 
 Scale
- 
- 154 1-
+   154 1-
 367
 517
 555
@@ -4942,8 +4745,7 @@ PK43
 475416 VIth 
 Pay 
 Scale
- 
- 155 1-
+   155 1-
 367
 518
 877
@@ -4973,8 +4775,7 @@ M970
 71251 VIth 
 Pay 
 Scale
- 
- 156 1-
+   156 1-
 367
 524
 321
@@ -5005,8 +4806,7 @@ M227
 44260 VIth 
 Pay 
 Scale
- 
- 157 1-
+   157 1-
 367
 524
 371
@@ -5037,8 +4837,7 @@ PM77
 970767 VIth 
 Pay 
 Scale
- 
- 158 1-
+   158 1-
 367
 528
 022
@@ -5067,8 +4866,7 @@ P134
 42876 VIth 
 Pay 
 Scale
- 
- 159 1-
+   159 1-
 367
 528
 080
@@ -5099,8 +4897,7 @@ P456
 443292 VIth 
 Pay 
 Scale
- 
- 160 1-
+   160 1-
 367
 530
 548
@@ -5130,14 +4927,11 @@ PJ04
 64060 VIth 
 Pay 
 Scale
- 
-## Page 20
-
-Application Report - Part 2
-Application Status:         Submitted
+  ## Page 20
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
  161 1-
@@ -5170,8 +4964,7 @@ S981
 437902 VIth 
 Pay 
 Scale
- 
- 162 1-
+   162 1-
 367
 534
 761
@@ -5200,8 +4993,7 @@ PS42
 430356 VIth 
 Pay 
 Scale
- 
- 163 1-
+   163 1-
 367
 538
 016
@@ -5231,8 +5023,7 @@ PT26
 126774 VIth 
 Pay 
 Scale
- 
- 164 1-
+   164 1-
 367
 541
 808
@@ -5262,8 +5053,7 @@ PT71
 679861 VIth 
 Pay 
 Scale
- 
- 165 1-
+   165 1-
 367
 543
 362
@@ -5293,8 +5083,7 @@ M319
 66782 VIth 
 Pay 
 Scale
- 
- 166 1-
+   166 1-
 367
 557
 764
@@ -5326,8 +5115,7 @@ T233
 VIth 
 Pay 
 Scale
- 
- 167 1-
+   167 1-
 367
 560
 033
@@ -5354,8 +5142,7 @@ PH26
 80L
 660000 Conso
 lidated
- 
- 168 1-
+   168 1-
 367
 560
 993
@@ -5386,8 +5173,7 @@ S109
 9P
 45000 Conso
 lidated
- 
- 169 1-
+   169 1-
 367
 561
 049
@@ -5416,14 +5202,11 @@ B436
 743928 VIth 
 Pay 
 Scale
- 
-## Page 21
-
-Application Report - Part 2
-Application Status:         Submitted
+  ## Page 21
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
  170 1-
@@ -5459,8 +5242,7 @@ PS56
 VIth 
 Pay 
 Scale
- 
- 171 1-
+   171 1-
 367
 564
 896
@@ -5488,8 +5270,7 @@ PV95
 638652 VIth 
 Pay 
 Scale
- 
- 172 1-
+   172 1-
 367
 564
 951
@@ -5517,8 +5298,7 @@ PG21
 VIth 
 Pay 
 Scale
- 
- 173 1-
+   173 1-
 367
 567
 460
@@ -5550,8 +5330,7 @@ PK61
 44534 VIth 
 Pay 
 Scale
- 
- 174 1-
+   174 1-
 367
 569
 244
@@ -5580,8 +5359,7 @@ V653
 44728 VIth 
 Pay 
 Scale
- 
- 175 1-
+   175 1-
 367
 570
 000
@@ -5613,8 +5391,7 @@ G645
 786588 VIth 
 Pay 
 Scale
- 
- 176 1-
+   176 1-
 367
 570
 056
@@ -5647,8 +5424,7 @@ PK43
 130273 VIth 
 Pay 
 Scale
- 
- 177 1-
+   177 1-
 367
 572
 319
@@ -5677,8 +5453,7 @@ B769
 628222 VIth 
 Pay 
 Scale
- 
- 178 1-
+   178 1-
 367
 610
 841
@@ -5709,14 +5484,11 @@ A447
 38545 VIth 
 Pay 
 Scale
- 
-## Page 22
-
-Application Report - Part 2
-Application Status:         Submitted
+  ## Page 22
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
  179 1-
@@ -5750,8 +5522,7 @@ J685
 438980 VIth 
 Pay 
 Scale
- 
- 180 1-
+   180 1-
 367
 619
 703
@@ -5782,8 +5553,7 @@ PK31
 168346 VIth 
 Pay 
 Scale
- 
- 181 1-
+   181 1-
 367
 620
 462
@@ -5815,8 +5585,7 @@ J341
 VIth 
 Pay 
 Scale
- 
- 182 1-
+   182 1-
 367
 620
 519
@@ -5847,8 +5616,7 @@ PK76
 40897 VIth 
 Pay 
 Scale
- 
- 183 1-
+   183 1-
 367
 623
 003
@@ -5880,8 +5648,7 @@ K579
 36941 VIth 
 Pay 
 Scale
- 
- 184 1-
+   184 1-
 367
 624
 512
@@ -5913,8 +5680,7 @@ PS29
 341089 VIth 
 Pay 
 Scale
- 
- 185 1-
+   185 1-
 367
 625
 929
@@ -5942,8 +5708,7 @@ R909
 172927 VIth 
 Pay 
 Scale
- 
- 186 1-
+   186 1-
 367
 625
 991
@@ -5979,8 +5744,7 @@ PP03
 VIth 
 Pay 
 Scale
- 
- 187 1-
+   187 1-
 367
 627
 601
@@ -6013,14 +5777,11 @@ N312
 65721 VIth 
 Pay 
 Scale
- 
-## Page 23
-
-Application Report - Part 2
-Application Status:         Submitted
+  ## Page 23
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
  188 1-
@@ -6055,8 +5816,7 @@ Q
 303919 VIth 
 Pay 
 Scale
- 
- 189 1-
+   189 1-
 367
 632
 752
@@ -6085,8 +5845,7 @@ PS85
 259665 VIth 
 Pay 
 Scale
- 
- 190 1-
+   190 1-
 367
 632
 812
@@ -6117,8 +5876,7 @@ PK54
 32M
 408000 Conso
 lidated
- 
- 191 1-
+   191 1-
 367
 634
 682
@@ -6148,8 +5906,7 @@ PP08
 425121 VIth 
 Pay 
 Scale
- 
- 192 1-
+   192 1-
 367
 635
 342
@@ -6179,8 +5936,7 @@ A802
 160850 VIth 
 Pay 
 Scale
- 
- 193 1-
+   193 1-
 367
 778
 197
@@ -6196,8 +5952,7 @@ ION
 ENGINEERING
 FT ANILKUMA
 R
- 
-NAN
+  NAN
 DI
 PROFE
 SSOR
@@ -6215,8 +5970,7 @@ N556
 VIth 
 Pay 
 Scale
- 
- 194 1-
+   194 1-
 367
 805
 627
@@ -6248,8 +6002,7 @@ A598
 282597 VIth 
 Pay 
 Scale
- 
- 195 1-
+   195 1-
 367
 806
 287
@@ -6278,8 +6031,7 @@ B919
 2C
 135000 Conso
 lidated
- 
- 196 1-
+   196 1-
 367
 806
 350
@@ -6312,14 +6064,11 @@ B889
 178219 VIth 
 Pay 
 Scale
- 
-## Page 24
-
-Application Report - Part 2
-Application Status:         Submitted
+  ## Page 24
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
  197 1-
@@ -6352,8 +6101,7 @@ B300
 60181 VIth 
 Pay 
 Scale
- 
- 198 1-
+   198 1-
 367
 808
 437
@@ -6387,8 +6135,7 @@ A620
 4C
 25000 Conso
 lidated
- 
- 199 1-
+   199 1-
 367
 809
 760
@@ -6421,8 +6168,7 @@ PC27
 36941 VIth 
 Pay 
 Scale
- 
- 200 1-
+   200 1-
 367
 810
 823
@@ -6455,8 +6201,7 @@ PD54
 0
 Conso
 lidated
- 
- 201 1-
+   201 1-
 367
 811
 087
@@ -6486,8 +6231,7 @@ E393
 588506 VIth 
 Pay 
 Scale
- 
- 202 1-
+   202 1-
 367
 812
 211
@@ -6518,8 +6262,7 @@ PE07
 282597 VIth 
 Pay 
 Scale
- 
- 203 1-
+   203 1-
 367
 812
 676
@@ -6554,8 +6297,7 @@ PG62
 45736 VIth 
 Pay 
 Scale
- 
- 204 1-
+   204 1-
 367
 812
 748
@@ -6568,7 +6310,7 @@ VLSI DESIGN
 AND 
 EMBEDDED 
 SYSTEMS
-FT  PRIYATAM
+FT PRIYATAM
 KUMAR
 GOV
 IND
@@ -6590,8 +6332,7 @@ PR43
 VIth 
 Pay 
 Scale
- 
- 205 1-
+   205 1-
 367
 815
 012
@@ -6620,14 +6361,11 @@ G622
 35863 VIth 
 Pay 
 Scale
- 
-## Page 25
-
-Application Report - Part 2
-Application Status:         Submitted
+  ## Page 25
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
  206 1-
@@ -6665,8 +6403,7 @@ H626
 67061 VIth 
 Pay 
 Scale
- 
- 207 1-
+   207 1-
 367
 816
 077
@@ -6697,8 +6434,7 @@ K
 282648 VIth 
 Pay 
 Scale
- 
- 208 1-
+   208 1-
 367
 816
 168
@@ -6729,8 +6465,7 @@ H901
 79852 VIth 
 Pay 
 Scale
- 
- 209 1-
+   209 1-
 367
 816
 758
@@ -6763,8 +6498,7 @@ H275
 574284 VIth 
 Pay 
 Scale
- 
- 210 1-
+   210 1-
 367
 817
 153
@@ -6797,8 +6531,7 @@ H276
 486000 VIth 
 Pay 
 Scale
- 
- 211 1-
+   211 1-
 367
 817
 948
@@ -6830,8 +6563,7 @@ PI876
 VIth 
 Pay 
 Scale
- 
- 212 1-
+   212 1-
 367
 818
 528
@@ -6863,8 +6595,7 @@ J485
 468642 VIth 
 Pay 
 Scale
- 
- 213 1-
+   213 1-
 367
 819
 873
@@ -6896,8 +6627,7 @@ PJ95
 07A
 186000 Conso
 lidated
- 
- 214 1-
+   214 1-
 367
 819
 939
@@ -6925,14 +6655,11 @@ K911
 201000 VIth 
 Pay 
 Scale
- 
-## Page 26
-
-Application Report - Part 2
-Application Status:         Submitted
+  ## Page 26
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
  215 1-
@@ -6967,8 +6694,7 @@ PK53
 436081 VIth 
 Pay 
 Scale
- 
- 216 1-
+   216 1-
 367
 821
 373
@@ -6996,8 +6722,7 @@ PJ03
 65Q
 186000 Conso
 lidated
- 
- 217 1-
+   217 1-
 367
 821
 442
@@ -7029,8 +6754,7 @@ PK68
 65446 VIth 
 Pay 
 Scale
- 
- 218 1-
+   218 1-
 367
 822
 979
@@ -7065,8 +6789,7 @@ K546
 64832 VIth 
 Pay 
 Scale
- 
- 219 1-
+   219 1-
 367
 823
 061
@@ -7098,8 +6821,7 @@ K034
 514512 VIth 
 Pay 
 Scale
- 
- 220 1-
+   220 1-
 367
 825
 270
@@ -7135,8 +6857,7 @@ M207
 41353 VIth 
 Pay 
 Scale
- 
- 221 1-
+   221 1-
 367
 826
 312
@@ -7169,8 +6890,7 @@ PM36
 69K
 153000 Conso
 lidated
- 
- 222 1-
+   222 1-
 367
 826
 781
@@ -7201,14 +6921,11 @@ PK39
 144435 VIth 
 Pay 
 Scale
- 
-## Page 27
-
-Application Report - Part 2
-Application Status:         Submitted
+  ## Page 27
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
  223 1-
@@ -7244,8 +6961,7 @@ N637
 484452 VIth 
 Pay 
 Scale
- 
- 224 1-
+   224 1-
 367
 828
 691
@@ -7280,8 +6996,7 @@ N896
 109354 VIth 
 Pay 
 Scale
- 
- 225 1-
+   225 1-
 367
 828
 763
@@ -7316,8 +7031,7 @@ A589
 325416 VIth 
 Pay 
 Scale
- 
- 226 1-
+   226 1-
 367
 830
 634
@@ -7349,8 +7063,7 @@ P160
 62934 VIth 
 Pay 
 Scale
- 
- 227 1-
+   227 1-
 367
 830
 905
@@ -7378,8 +7091,7 @@ P229
 266601 VIth 
 Pay 
 Scale
- 
- 228 1-
+   228 1-
 367
 831
 679
@@ -7409,8 +7121,7 @@ P457
 251041 VIth 
 Pay 
 Scale
- 
- 229 1-
+   229 1-
 367
 831
 752
@@ -7443,8 +7154,7 @@ PV14
 467964 VIth 
 Pay 
 Scale
- 
- 230 1-
+   230 1-
 367
 832
 427
@@ -7472,8 +7182,7 @@ PP23
 276568 VIth 
 Pay 
 Scale
- 
- 231 1-
+   231 1-
 367
 832
 772
@@ -7506,14 +7215,11 @@ M703
 42834 VIth 
 Pay 
 Scale
- 
-## Page 28
-
-Application Report - Part 2
-Application Status:         Submitted
+  ## Page 28
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
  232 1-
@@ -7549,8 +7255,7 @@ S157
 340109 VIth 
 Pay 
 Scale
- 
- 233 1-
+   233 1-
 367
 833
 597
@@ -7585,8 +7290,7 @@ PS56
 148770 VIth 
 Pay 
 Scale
- 
- 234 1-
+   234 1-
 367
 833
 971
@@ -7617,8 +7321,7 @@ PS34
 40897 VIth 
 Pay 
 Scale
- 
- 235 1-
+   235 1-
 367
 834
 046
@@ -7651,8 +7354,7 @@ S804
 VIth 
 Pay 
 Scale
- 
- 236 1-
+   236 1-
 367
 834
 919
@@ -7683,8 +7385,7 @@ PT98
 34816 VIth 
 Pay 
 Scale
- 
- 237 1-
+   237 1-
 367
 835
 594
@@ -7714,8 +7415,7 @@ PV23
 66A
 186000 Conso
 lidated
- 
- 238 1-
+   238 1-
 367
 836
 435
@@ -7746,8 +7446,7 @@ PS16
 35863 VIth 
 Pay 
 Scale
- 
- 239 1-
+   239 1-
 369
 032
 851
@@ -7771,8 +7470,7 @@ B391
 57906 VIth 
 Pay 
 Scale
- 
- 240 1-
+   240 1-
 369
 039
 480
@@ -7799,14 +7497,11 @@ S811
 7G
 35000 Conso
 lidated
- 
-## Page 29
-
-Application Report - Part 2
-Application Status:         Submitted
+  ## Page 29
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
  241 1-
@@ -7839,8 +7534,7 @@ P245
 186000 VIth 
 Pay 
 Scale
- 
- 242 1-
+   242 1-
 369
 045
 265
@@ -7868,8 +7562,7 @@ PK48
 516732 VIth 
 Pay 
 Scale
- 
- 243 1-
+   243 1-
 369
 046
 891
@@ -7894,8 +7587,7 @@ P084
 314009 VIth 
 Pay 
 Scale
- 
- 244 1-
+   244 1-
 369
 049
 916
@@ -7922,8 +7614,7 @@ PK30
 315648 VIth 
 Pay 
 Scale
- 
- 245 1-
+   245 1-
 369
 053
 512
@@ -7951,8 +7642,7 @@ PD08
 603687 VIth 
 Pay 
 Scale
- 
- 246 1-
+   246 1-
 369
 056
 172
@@ -7977,8 +7667,7 @@ PR99
 83233 VIth 
 Pay 
 Scale
- 
- 247 1-
+   247 1-
 369
 058
 064
@@ -8006,8 +7695,7 @@ PM38
 54160 VIth 
 Pay 
 Scale
- 
- 248 1-
+   248 1-
 369
 059
 745
@@ -8028,8 +7716,7 @@ U357
 533520 VIth 
 Pay 
 Scale
- 
- 249 1-
+   249 1-
 369
 062
 953
@@ -8057,14 +7744,11 @@ PK78
 769316 VIth 
 Pay 
 Scale
- 
-## Page 30
-
-Application Report - Part 2
-Application Status:         Submitted
+  ## Page 30
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
  250 1-
@@ -8094,8 +7778,7 @@ J090
 69432 VIth 
 Pay 
 Scale
- 
- 251 1-
+   251 1-
 369
 066
 333
@@ -8127,8 +7810,7 @@ D284
 610340 VIth 
 Pay 
 Scale
- 
- 252 1-
+   252 1-
 369
 068
 265
@@ -8158,8 +7840,7 @@ P353
 528344 VIth 
 Pay 
 Scale
- 
- 253 1-
+   253 1-
 369
 069
 878
@@ -8187,8 +7868,7 @@ V613
 919200 VIth 
 Pay 
 Scale
- 
- 254 1-
+   254 1-
 369
 081
 666
@@ -8213,8 +7893,7 @@ PH02
 14P
 60000 Conso
 lidated
- 
- 255 1-
+   255 1-
 369
 089
 683
@@ -8240,8 +7919,7 @@ P248
 7N
 60000 Conso
 lidated
- 
- 256 1-
+   256 1-
 369
 091
 643
@@ -8266,8 +7944,7 @@ P111
 9E
 30000 Conso
 lidated
- 
- 257 1-
+   257 1-
 369
 091
 722
@@ -8296,8 +7973,7 @@ L536
 7D
 25000 Conso
 lidated
- 
- 258 1-
+   258 1-
 369
 094
 120
@@ -8324,14 +8000,11 @@ K709
 419886 VIth 
 Pay 
 Scale
- 
-## Page 31
-
-Application Report - Part 2
-Application Status:         Submitted
+  ## Page 31
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
  259 1-
@@ -8364,8 +8037,7 @@ PT25
 34816 VIth 
 Pay 
 Scale
- 
- 260 1-
+   260 1-
 369
 100
 247
@@ -8391,8 +8063,7 @@ T575
 0H
 186000 Conso
 lidated
- 
- 261 1-
+   261 1-
 369
 104
 331
@@ -8418,8 +8089,7 @@ PK78
 11M
 15500 Conso
 lidated
- 
- 262 1-
+   262 1-
 369
 106
 493
@@ -8445,8 +8115,7 @@ PG98
 728665 VIth 
 Pay 
 Scale
- 
- 263 1-
+   263 1-
 369
 109
 072
@@ -8471,8 +8140,7 @@ PP23
 82E
 186000 Conso
 lidated
- 
- 264 1-
+   264 1-
 369
 117
 732
@@ -8499,8 +8167,7 @@ B180
 374374 VIth 
 Pay 
 Scale
- 
- 265 1-
+   265 1-
 369
 120
 931
@@ -8529,8 +8196,7 @@ PT09
 40897 VIth 
 Pay 
 Scale
- 
- 266 1-
+   266 1-
 369
 121
 016
@@ -8563,8 +8229,7 @@ G515
 160775 VIth 
 Pay 
 Scale
- 
- 267 1-
+   267 1-
 369
 124
 730
@@ -8595,14 +8260,11 @@ M865
 300811 VIth 
 Pay 
 Scale
- 
-## Page 32
-
-Application Report - Part 2
-Application Status:         Submitted
+  ## Page 32
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
  268 1-
@@ -8636,8 +8298,7 @@ PB90
 500588 VIth 
 Pay 
 Scale
- 
- 269 1-
+   269 1-
 369
 127
 908
@@ -8667,8 +8328,7 @@ D919
 486000 VIth 
 Pay 
 Scale
- 
- 270 1-
+   270 1-
 369
 213
 902
@@ -8694,8 +8354,7 @@ M314
 583989 VIth 
 Pay 
 Scale
- 
- 271 1-
+   271 1-
 369
 217
 092
@@ -8723,8 +8382,7 @@ PH17
 86359 VIth 
 Pay 
 Scale
- 
- 272 1-
+   272 1-
 369
 217
 584
@@ -8755,8 +8413,7 @@ P522
 398673 VIth 
 Pay 
 Scale
- 
- 273 1-
+   273 1-
 369
 219
 267
@@ -8789,8 +8446,7 @@ S902
 701028 VIth 
 Pay 
 Scale
- 
- 274 1-
+   274 1-
 369
 219
 852
@@ -8818,8 +8474,7 @@ PS51
 328188 VIth 
 Pay 
 Scale
- 
- 275 1-
+   275 1-
 369
 219
 936
@@ -8847,8 +8502,7 @@ PB47
 320152 VIth 
 Pay 
 Scale
- 
- 276 1-
+   276 1-
 369
 220
 721
@@ -8877,14 +8531,11 @@ PT25
 525852 VIth 
 Pay 
 Scale
- 
-## Page 33
-
-Application Report - Part 2
-Application Status:         Submitted
+  ## Page 33
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
  277 1-
@@ -8916,8 +8567,7 @@ PD84
 479748 VIth 
 Pay 
 Scale
- 
- 278 1-
+   278 1-
 369
 221
 591
@@ -8944,8 +8594,7 @@ Y779
 479748 VIth 
 Pay 
 Scale
- 
- 279 1-
+   279 1-
 369
 222
 648
@@ -8976,8 +8625,7 @@ PA49
 448852 VIth 
 Pay 
 Scale
- 
- 280 1-
+   280 1-
 369
 223
 142
@@ -9008,8 +8656,7 @@ PP11
 459991 VIth 
 Pay 
 Scale
- 
- 281 1-
+   281 1-
 369
 224
 728
@@ -9034,8 +8681,7 @@ H987
 0
 Conso
 lidated
- 
- 282 1-
+   282 1-
 369
 225
 315
@@ -9064,8 +8710,7 @@ PP64
 117277 VIth 
 Pay 
 Scale
- 
- 283 1-
+   283 1-
 369
 225
 988
@@ -9098,8 +8743,7 @@ PS36
 66388 VIth 
 Pay 
 Scale
- 
- 284 1-
+   284 1-
 369
 226
 475
@@ -9130,8 +8774,7 @@ S785
 64392 VIth 
 Pay 
 Scale
- 
- 285 1-
+   285 1-
 369
 226
 862
@@ -9160,14 +8803,11 @@ PC87
 47506 VIth 
 Pay 
 Scale
- 
-## Page 34
-
-Application Report - Part 2
-Application Status:         Submitted
+  ## Page 34
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
  286 1-
@@ -9201,8 +8841,7 @@ PB83
 534338 VIth 
 Pay 
 Scale
- 
- 287 1-
+   287 1-
 369
 227
 538
@@ -9231,8 +8870,7 @@ K227
 54436 VIth 
 Pay 
 Scale
- 
- 288 1-
+   288 1-
 369
 228
 327
@@ -9257,8 +8895,7 @@ PM06
 44534 VIth 
 Pay 
 Scale
- 
- 289 1-
+   289 1-
 369
 228
 815
@@ -9291,8 +8928,7 @@ K586
 286279 VIth 
 Pay 
 Scale
- 
- 290 1-
+   290 1-
 369
 317
 796
@@ -9324,8 +8960,7 @@ PP49
 VIth 
 Pay 
 Scale
- 
- 291 1-
+   291 1-
 369
 321
 789
@@ -9354,8 +8989,7 @@ P260
 607368 VIth 
 Pay 
 Scale
- 
- 292 1-
+   292 1-
 369
 323
 684
@@ -9383,8 +9017,7 @@ B513
 40897 VIth 
 Pay 
 Scale
- 
- 293 1-
+   293 1-
 369
 327
 316
@@ -9416,8 +9049,7 @@ PH62
 61737 VIth 
 Pay 
 Scale
- 
- 294 1-
+   294 1-
 369
 329
 936
@@ -9445,14 +9077,11 @@ N016
 41373 VIth 
 Pay 
 Scale
- 
-## Page 35
-
-Application Report - Part 2
-Application Status:         Submitted
+  ## Page 35
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
  295 1-
@@ -9484,8 +9113,7 @@ H849
 353255 VIth 
 Pay 
 Scale
- 
- 296 1-
+   296 1-
 369
 447
 543
@@ -9514,8 +9142,7 @@ D141
 38020 VIth 
 Pay 
 Scale
- 
- 297 1-
+   297 1-
 369
 519
 341
@@ -9546,8 +9173,7 @@ PJ95
 318682 VIth 
 Pay 
 Scale
- 
- 298 1-
+   298 1-
 369
 536
 153
@@ -9578,8 +9204,7 @@ PG79
 467964 VIth 
 Pay 
 Scale
- 
- 299 1-
+   299 1-
 369
 542
 900
@@ -9610,8 +9235,7 @@ PP05
 349929 VIth 
 Pay 
 Scale
- 
- 300 1-
+   300 1-
 369
 563
 372
@@ -9644,8 +9268,7 @@ PT52
 417792 VIth 
 Pay 
 Scale
- 
- 301 1-
+   301 1-
 369
 574
 065
@@ -9673,8 +9296,7 @@ PB53
 84M
 93000 Conso
 lidated
- 
- 302 1-
+   302 1-
 375
 797
 802
@@ -9706,14 +9328,11 @@ PG71
 VIth 
 Pay 
 Scale
- 
-## Page 36
-
-Application Report - Part 2
-Application Status:         Submitted
+  ## Page 36
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
  303 1-
@@ -9750,8 +9369,7 @@ PG10
 74744 VIth 
 Pay 
 Scale
- 
- 304 1-
+   304 1-
 375
 824
 905
@@ -9775,8 +9393,7 @@ S482
 6J
 148548 Conso
 lidated
- 
- 305 1-
+   305 1-
 375
 828
 026
@@ -9808,8 +9425,7 @@ PM66
 86400 VIth 
 Pay 
 Scale
- 
- 306 1-
+   306 1-
 375
 832
 137
@@ -9839,8 +9455,7 @@ S208
 0N
 60000 Conso
 lidated
- 
- 307 1-
+   307 1-
 375
 841
 812
@@ -9873,8 +9488,7 @@ A937
 171412 VIth 
 Pay 
 Scale
- 
- 308 1-
+   308 1-
 375
 845
 779
@@ -9905,8 +9519,7 @@ P144
 517872 VIth 
 Pay 
 Scale
- 
- 309 1-
+   309 1-
 375
 852
 086
@@ -9934,8 +9547,7 @@ CP33
 318712 VIth 
 Pay 
 Scale
- 
- 310 1-
+   310 1-
 375
 855
 691
@@ -9965,8 +9577,7 @@ B720
 484809 VIth 
 Pay 
 Scale
- 
- 311 1-
+   311 1-
 375
 860
 795
@@ -9994,14 +9605,11 @@ S187
 8C
 511592 Conso
 lidated
- 
-## Page 37
-
-Application Report - Part 2
-Application Status:         Submitted
+  ## Page 37
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
  312 1-
@@ -10033,8 +9641,7 @@ PS46
 69P
 80000 Conso
 lidated
- 
- 313 1-
+   313 1-
 375
 872
 928
@@ -10064,8 +9671,7 @@ PM83
 35P
 80000 Conso
 lidated
- 
- 314 1-
+   314 1-
 375
 880
 987
@@ -10095,8 +9701,7 @@ PB45
 07A
 182000 Conso
 lidated
- 
- 315 1-
+   315 1-
 375
 890
 234
@@ -10126,8 +9731,7 @@ PM38
 325416 VIth 
 Pay 
 Scale
- 
- 316 1-
+   316 1-
 375
 894
 843
@@ -10158,8 +9762,7 @@ P139
 306541 VIth 
 Pay 
 Scale
- 
- 317 1-
+   317 1-
 375
 898
 974
@@ -10193,8 +9796,7 @@ PS15
 189780 VIth 
 Pay 
 Scale
- 
- 318 1-
+   318 1-
 375
 903
 536
@@ -10224,8 +9826,7 @@ PS15
 64M
 90000 Conso
 lidated
- 
- 319 1-
+   319 1-
 375
 907
 948
@@ -10255,8 +9856,7 @@ K599
 4A
 170000 Conso
 lidated
- 
- 320 1-
+   320 1-
 375
 913
 656
@@ -10288,14 +9888,11 @@ C798
 114600 VIth 
 Pay 
 Scale
- 
-## Page 38
-
-Application Report - Part 2
-Application Status:         Submitted
+  ## Page 38
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
  321 1-
@@ -10332,8 +9929,7 @@ PP22
 216646 VIth 
 Pay 
 Scale
- 
- 322 1-
+   322 1-
 375
 923
 933
@@ -10361,8 +9957,7 @@ PR25
 53N
 183000 Conso
 lidated
- 
- 323 1-
+   323 1-
 375
 927
 338
@@ -10385,8 +9980,7 @@ T343
 172922 VIth 
 Pay 
 Scale
- 
- 324 1-
+   324 1-
 375
 933
 862
@@ -10411,8 +10005,7 @@ S339
 292974 VIth 
 Pay 
 Scale
- 
- 325 1-
+   325 1-
 375
 937
 180
@@ -10440,8 +10033,7 @@ PN28
 560874 VIth 
 Pay 
 Scale
- 
- 326 1-
+   326 1-
 375
 943
 800
@@ -10472,8 +10064,7 @@ K028
 202449 VIth 
 Pay 
 Scale
- 
- 327 1-
+   327 1-
 375
 948
 234
@@ -10497,8 +10088,7 @@ PP40
 38Q
 95000 Conso
 lidated
- 
- 328 1-
+   328 1-
 375
 953
 169
@@ -10528,8 +10118,7 @@ PS90
 189780 VIth 
 Pay 
 Scale
- 
- 329 1-
+   329 1-
 376
 080
 184
@@ -10555,14 +10144,11 @@ T623
 0B
 90000 Conso
 lidated
- 
-## Page 39
-
-Application Report - Part 2
-Application Status:         Submitted
+  ## Page 39
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
  330 1-
@@ -10595,8 +10181,7 @@ PM60
 448464 VIth 
 Pay 
 Scale
- 
- 331 1-
+   331 1-
 376
 091
 116
@@ -10626,8 +10211,7 @@ PM48
 142122 VIth 
 Pay 
 Scale
- 
- 332 1-
+   332 1-
 376
 093
 634
@@ -10652,8 +10236,7 @@ K700
 5A
 80000 Conso
 lidated
- 
- 333 1-
+   333 1-
 376
 096
 467
@@ -10677,8 +10260,7 @@ P569
 3J
 60000 Conso
 lidated
- 
- 334 1-
+   334 1-
 376
 099
 304
@@ -10708,8 +10290,7 @@ B513
 VIth 
 Pay 
 Scale
- 
- 335 1-
+   335 1-
 376
 101
 614
@@ -10739,8 +10320,7 @@ G968
 0
 Conso
 lidated
- 
- 336 1-
+   336 1-
 376
 105
 126
@@ -10767,8 +10347,7 @@ U700
 8G
 291750 Conso
 lidated
- 
- 337 1-
+   337 1-
 376
 106
 935
@@ -10793,8 +10372,7 @@ M806
 0S
 60000 Conso
 lidated
- 
- 338 1-
+   338 1-
 376
 109
 055
@@ -10820,14 +10398,11 @@ PA95
 20K
 45000 Conso
 lidated
- 
-## Page 40
-
-Application Report - Part 2
-Application Status:         Submitted
+  ## Page 40
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
  339 1-
@@ -10854,8 +10429,7 @@ PP95
 95B
 45000 Conso
 lidated
- 
- 340 1-
+   340 1-
 376
 119
 440
@@ -10881,8 +10455,7 @@ B960
 3D
 45000 Conso
 lidated
- 
- 341 1-
+   341 1-
 376
 122
 171
@@ -10914,8 +10487,7 @@ M983
 VIth 
 Pay 
 Scale
- 
- 342 1-
+   342 1-
 376
 152
 233
@@ -10947,13 +10519,11 @@ B538
 VIth 
 Pay 
 Scale
- 
-Adjunct Faculty/Resource Person from Industry Details   
+  Adjunct Faculty/Resource Person from Industry Details 
 Sr. No. Faculty ID Type First Name Surname Programme Course
 1 1-3761221679 Adjunct ARAVIND KULKARNI ENGINEERING AND TECHNOLOGY MECHANICAL ENGINEERING
 Technical Staff
- 
-Sr. No.
+  Sr. No.
 Technical Staff 
 Id
 Program
@@ -10977,14 +10547,11 @@ GRADUATE
 SAVITA HALADIPU
 RNNAVAR
 20/07/2015 DIPLOMA CIVIL
-
-## Page 41
-
-Application Report - Part 2
-Application Status:         Submitted
+ ## Page 41
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
   3 1-3702889943 ENGINEERING AND 
@@ -11082,14 +10649,11 @@ AND ENGINEERING
 UNDER 
 GRADUATE
 N RAICHUR 11/10/2001 DIP (CSC)
-
-## Page 42
-
-Application Report - Part 2
-Application Status:         Submitted
+ ## Page 42
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
   15 1-3703948241 ENGINEERING AND 
@@ -11214,14 +10778,11 @@ GRADUATE
 ANAND HANCHIN
 AL
 17/10/2002 DIPLOMA
-
-## Page 43
-
-Application Report - Part 2
-Application Status:         Submitted
+ ## Page 43
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
   28 1-3704551166 ENGINEERING AND 
@@ -11328,14 +10889,11 @@ ENGINEERING
 UNDER 
 GRADUATE
 S KINNAL 02/03/2009 I.T.I
-
-## Page 44
-
-Application Report - Part 2
-Application Status:         Submitted
+ ## Page 44
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
   41 1-3704761635 ENGINEERING AND 
@@ -11450,14 +11008,11 @@ ENGINEERING
 POST 
 GRADUATE
 RENUKA SANGALI 02/07/2003 DIP (CSC)
-
-## Page 45
-
-Application Report - Part 2
-Application Status:         Submitted
+ ## Page 45
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
   54 1-3704920811 ENGINEERING AND 
@@ -11596,14 +11151,11 @@ GRADUATE
 BASALIN
 GAPPA
 GANIGER 08/05/1985 VII STANDARD
-
-## Page 46
-
-Application Report - Part 2
-Application Status:         Submitted
+ ## Page 46
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
   66 1-3704983403 ENGINEERING AND 
@@ -11710,14 +11262,11 @@ SUNIL BIRADE 31/08/2000 DIPLOMA IN
 AUTOMOBILE
 ENGINEERIN
 G
-
-## Page 47
-
-Application Report - Part 2
-Application Status:         Submitted
+ ## Page 47
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
   78 1-3707357058 ENGINEERING AND 
@@ -11824,14 +11373,11 @@ TECHNOLOGY
 CIVIL ENGINEERING UNDER 
 GRADUATE
 S AHAMED 27/04/1981 DCE
-
-## Page 48
-
-Application Report - Part 2
-Application Status:         Submitted
+ ## Page 48
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
   90 1-3708225435 ENGINEERING AND 
@@ -11907,8 +11453,7 @@ GRADUATE
 CHANDR
 U
 SATTUR 07/06/2005 7TH
-  
-100
+   100
 1-3708615795 ENGINEERING AND 
 TECHNOLOGY
 CIVIL ENGINEERING UNDER 
@@ -11916,8 +11461,7 @@ GRADUATE
 MASABI AMMINAB
 HAVI
 01/05/2009 7TH
-  
-101
+   101
 1-3708615799 ENGINEERING AND 
 TECHNOLOGY
 CIVIL ENGINEERING UNDER 
@@ -11928,8 +11472,7 @@ M
 MAKANDA
 R
 01/02/2006 7TH
-  
-102
+   102
 1-3708673344 ENGINEERING AND 
 TECHNOLOGY
 COMPUTER SCIENCE 
@@ -11941,18 +11484,14 @@ GOUDA
 MARIGOU
 DAR
 16/07/2014 DIP CSE
-
-## Page 49
-
-Application Report - Part 2
-Application Status:         Submitted
+ ## Page 49
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
-  
-103
+   103
 1-3708833734 ENGINEERING AND 
 TECHNOLOGY
 COMPUTER SCIENCE 
@@ -11960,8 +11499,7 @@ AND ENGINEERING
 UNDER 
 GRADUATE
 SA MANG 01/01/2002 SSLC
-  
-104
+   104
 1-3708885402 ENGINEERING AND 
 TECHNOLOGY
 COMPUTER SCIENCE 
@@ -11971,8 +11509,7 @@ GRADUATE
 SHIVANA
 D
 WALIKAR 01/12/2002 SSLC
-  
-105
+   105
 1-3708885406 MCA MASTER OF 
 COMPUTER 
 APPLICATIONS
@@ -11981,8 +11518,7 @@ GRADUATE
 NAMADE
 V
 JADHAV 02/10/2004 SSLC
-  
-106
+   106
 1-3708885410 ENGINEERING AND 
 TECHNOLOGY
 FIRST YEAR/OTHER UNDER 
@@ -11990,15 +11526,13 @@ GRADUATE
 MALLIKA
 RJUN
 KALAGI 30/04/1985 S.S.L.C.
-  
-107
+   107
 1-3708919744 ENGINEERING AND 
 TECHNOLOGY
 FIRST YEAR/OTHER UNDER 
 GRADUATE
 S MANE 06/05/1985 SSLC
-  
-108
+   108
 1-3708919748 ENGINEERING AND 
 TECHNOLOGY
 FIRST YEAR/OTHER UNDER 
@@ -12006,8 +11540,7 @@ GRADUATE
 R CHADCHA
 DI
 03/05/1985 SSLC
-  
-109
+   109
 1-3709092722 ENGINEERING AND 
 TECHNOLOGY
 FIRST YEAR/OTHER UNDER 
@@ -12017,8 +11550,7 @@ RAPPA
 BELLIGAT
 TI
 01/02/2008 7TH
-  
-110
+   110
 1-3709092726 ENGINEERING AND 
 TECHNOLOGY
 ELECTRICAL AND 
@@ -12027,25 +11559,22 @@ ENGINEERING
 UNDER 
 GRADUATE
 G MURGOD 25/08/2005 DIP
-  
-111
+   111
 1-3709092730 ENGINEERING AND 
 TECHNOLOGY
 CIVIL ENGINEERING UNDER 
 GRADUATE
-M  
+M 
 NAVALGU
 ND
 01/08/2007 SSLC
-  
-112
+   112
 1-3709100294 ENGINEERING AND 
 TECHNOLOGY
 CIVIL ENGINEERING UNDER 
 GRADUATE
 R GADAD 01/07/2011 PUC
-  
-113
+   113
 1-3709100298 ENGINEERING AND 
 TECHNOLOGY
 ELECTRICAL AND 
@@ -12054,8 +11583,7 @@ ENGINEERING
 UNDER 
 GRADUATE
 VITHAL RENAKE 02/04/2003 ITI
-  
-114
+   114
 1-3709100702 ENGINEERING AND 
 TECHNOLOGY
 ELECTRICAL AND 
@@ -12065,8 +11593,7 @@ UNDER
 GRADUATE
 D BULLI 01/08/2001 SSLC 
 WIREMAN
-  
-115
+   115
 1-3709191438 ENGINEERING AND 
 TECHNOLOGY
 ELECTRICAL AND 
@@ -12074,19 +11601,15 @@ ELECTRONICS
 ENGINEERING
 UNDER 
 GRADUATE
-LALTA  HOTAGI 15/09/2008 SSLC
-
-## Page 50
-
-Application Report - Part 2
-Application Status:         Submitted
+LALTA HOTAGI 15/09/2008 SSLC
+ ## Page 50
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
-  
-116
+   116
 1-3709191492 ENGINEERING AND 
 TECHNOLOGY
 ELECTRICAL AND 
@@ -12095,8 +11618,7 @@ ENGINEERING
 UNDER 
 GRADUATE
 B PATIL 28/08/2004 ITI
-  
-117
+   117
 1-3709191500 MCA MASTER OF 
 COMPUTER 
 APPLICATIONS
@@ -12105,8 +11627,7 @@ GRADUATE
 MANJUN
 ATH
  BALIGAR 12/08/2013 DIP
-  
-118
+   118
 1-3709191624 MCA MASTER OF 
 COMPUTER 
 APPLICATIONS
@@ -12115,8 +11636,7 @@ GRADUATE
 M KERAKAL
 AMATTI
 03/12/2014 DIP
-  
-119
+   119
 1-3709191628 MCA MASTER OF 
 COMPUTER 
 APPLICATIONS
@@ -12126,8 +11646,7 @@ HANAUM
 ANTAPP
 A
 KOLABAL 17/10/2016 DIP
-  
-120
+   120
 1-3715155533 ENGINEERING AND 
 TECHNOLOGY
 CIVIL ENGINEERING UNDER 
@@ -12137,8 +11656,7 @@ A
 R 30/04/1981 ITI, 
 DRAUGHTSMA
 N
-  
-121
+   121
 1-3764262923 ENGINEERING AND 
 TECHNOLOGY
 COMPUTER SCIENCE 
@@ -12150,8 +11668,7 @@ MA
 YADIYAPU
 R
 01/09/2007 SSLC
-  
-122
+   122
 1-3764262927 ENGINEERING AND 
 TECHNOLOGY
 CIVIL ENGINEERING UNDER 
@@ -12159,8 +11676,7 @@ GRADUATE
 BASAVA
 RAJ
 HALEMANI 01/02/2008 SSLC
-  
-123
+   123
 1-3764380951 ENGINEERING AND 
 TECHNOLOGY
 CIVIL ENGINEERING UNDER 
@@ -12168,8 +11684,7 @@ GRADUATE
 NINGAP
 PA
 BARKER 02/03/2005 BA
-  
-124
+   124
 1-3764380955 ENGINEERING AND 
 TECHNOLOGY
 CIVIL ENGINEERING UNDER 
@@ -12179,8 +11694,7 @@ NA
 LAKKANN
 AVAR
 08/03/2003 SSLC
-  
-125
+   125
 1-3764480553 ENGINEERING AND 
 TECHNOLOGY
 ELECTRONICS AND 
@@ -12193,8 +11707,7 @@ A
 SHELAVA
 DI
 01/02/2008 9TH
-  
-126
+   126
 1-3764569811 ENGINEERING AND 
 TECHNOLOGY
 ELECTRONICS AND 
@@ -12207,8 +11720,7 @@ RAJ
 SOMANAK
 ATTI
 01/11/2004 PUCII
-  
-127
+   127
 1-3764569815 ENGINEERING AND 
 TECHNOLOGY
 ELECTRONICS AND 
@@ -12219,8 +11731,7 @@ GRADUATE
 PRAVEE
 N
 JADHAV 05/02/2007 SSLC
-  
-128
+   128
 1-3764569819 ENGINEERING AND 
 TECHNOLOGY
 FIRST YEAR/OTHER UNDER 
@@ -12229,18 +11740,14 @@ SUSHILA GANJIGAT
 TI
 01/10/2007 BA, B. 
 PED
-
-## Page 51
-
-Application Report - Part 2
-Application Status:         Submitted
+ ## Page 51
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
-  
-129
+   129
 1-3764676003 ENGINEERING AND 
 TECHNOLOGY
 FIRST YEAR/OTHER UNDER 
@@ -12251,8 +11758,7 @@ A
 MALLIGW
 AD
 09/01/2002 7TH
-  
-130
+   130
 1-3764676007 ENGINEERING AND 
 TECHNOLOGY
 FIRST YEAR/OTHER UNDER 
@@ -12260,8 +11766,7 @@ GRADUATE
 M KATTIMAN
 I
 01/08/2004 4TH
-  
-131
+   131
 1-3764676351 ENGINEERING AND 
 TECHNOLOGY
 FIRST YEAR/OTHER UNDER 
@@ -12271,15 +11776,13 @@ HA
 UMANABA
 DIMATH
 01/06/2015 SSLC
-  
-132
+   132
 1-3764676359 ENGINEERING AND 
 TECHNOLOGY
 FIRST YEAR/OTHER UNDER 
 GRADUATE
 POOJA KADAM 04/08/2015 BCA
-  
-133
+   133
 1-3764676783 ENGINEERING AND 
 TECHNOLOGY
 FIRST YEAR/OTHER UNDER 
@@ -12287,8 +11790,7 @@ GRADUATE
 SAVITA SANKAMM
 ANAVAR
 15/01/2009 SSLC
-  
-134
+   134
 1-3764676787 ENGINEERING AND 
 TECHNOLOGY
 FIRST YEAR/OTHER UNDER 
@@ -12296,15 +11798,13 @@ GRADUATE
 D HATTIHOL
 I
 03/11/2004 CSE
-  
-135
+   135
 1-3764847541 ENGINEERING AND 
 TECHNOLOGY
 FIRST YEAR/OTHER UNDER 
 GRADUATE
 KALYANI PUNAGIN 01/08/2014 CSE
-  
-136
+   136
 1-3764847545 ENGINEERING AND 
 TECHNOLOGY
 FIRST YEAR/OTHER UNDER 
@@ -12312,8 +11812,7 @@ GRADUATE
 MANJUN
 ATH
 GANIGER 01/09/2008 SSLC
-  
-137
+   137
 1-3764847549 ENGINEERING AND 
 TECHNOLOGY
 FIRST YEAR/OTHER UNDER 
@@ -12321,8 +11820,7 @@ GRADUATE
 BASAVA
 RAJ
 AKKI 08/12/2008 SSLC
-  
-138
+   138
 1-3764947093 ENGINEERING AND 
 TECHNOLOGY
 MECHANICAL 
@@ -12334,17 +11832,15 @@ H
 BENAKAN
 ALMATH
 16/08/2005 CSE
-  
-139
+   139
 1-3764947097 ENGINEERING AND 
 TECHNOLOGY
 MECHANICAL 
 ENGINEERING
 UNDER 
 GRADUATE
-J  KHANDAL 01/08/2011 DIP (E&C)
-  
-140
+J KHANDAL 01/08/2011 DIP (E&C)
+   140
 1-3765032491 ENGINEERING AND 
 TECHNOLOGY
 MECHANICAL 
@@ -12356,8 +11852,7 @@ ATH
 SOMANAK
 ATTI
 01/02/2008 P.U.C.II
-  
-141
+   141
 1-3765032495 ENGINEERING AND 
 TECHNOLOGY
 MECHANICAL 
@@ -12365,18 +11860,14 @@ ENGINEERING
 UNDER 
 GRADUATE
 G BADNIKAI 20/03/1983 P.U.C.II
-
-## Page 52
-
-Application Report - Part 2
-Application Status:         Submitted
+ ## Page 52
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
-  
-142
+   142
 1-3765032499 ENGINEERING AND 
 TECHNOLOGY
 MECHANICAL 
@@ -12386,8 +11877,7 @@ GRADUATE
 KRISHNA KANKANA
 WADI
 01/02/2005 S.S.L.C.
-  
-143
+   143
 1-3765092483 ENGINEERING AND 
 TECHNOLOGY
 ELECTRONICS AND 
@@ -12396,8 +11886,7 @@ ENGINEERING
 UNDER 
 GRADUATE
 V ARKASALI 06/07/2009 DIP
-  
-144
+   144
 1-3765092487 ENGINEERING AND 
 TECHNOLOGY
 ELECTRONICS AND 
@@ -12408,8 +11897,7 @@ GRADUATE
 MAHANT
 ESH
 MORABAD 01/01/2011 I.T.I
-  
-145
+   145
 1-3765153121 ENGINEERING AND 
 TECHNOLOGY
 ELECTRONICS AND 
@@ -12422,8 +11910,7 @@ ATH
 KALAVAG
 OL
 11/11/2011 DIP (E&C)
-  
-146
+   146
 1-3765153125 ENGINEERING AND 
 TECHNOLOGY
 ELECTRONICS AND 
@@ -12431,12 +11918,10 @@ COMMUNICATION
 ENGINEERING
 UNDER 
 GRADUATE
- 
-VIJAYAL
+  VIJAYAL
 AXMI
 MORABAD 08/10/2005 S.S.L.C.
-  
-147
+   147
 1-3765153129 ENGINEERING AND 
 TECHNOLOGY
 COMPUTER SCIENCE 
@@ -12446,8 +11931,7 @@ GRADUATE
 S GAYAKAW
 AD
 11/08/1997 CSE
-  
-148
+   148
 1-3765153153 ENGINEERING AND 
 TECHNOLOGY
 COMPUTER SCIENCE 
@@ -12455,15 +11939,13 @@ AND ENGINEERING
 UNDER 
 GRADUATE
 S CHOORI 15/12/1997 SSLC
-  
-149
+   149
 1-3765153157 ENGINEERING AND 
 TECHNOLOGY
 FIRST YEAR/OTHER UNDER 
 GRADUATE
-V  KALHAL 01/06/1994 7TH
-  
-150
+V KALHAL 01/06/1994 7TH
+   150
 1-3765153195 ENGINEERING AND 
 TECHNOLOGY
 MECHANICAL 
@@ -12475,8 +11957,7 @@ LI
 21/04/2014 M.SC 
 (BIOTE
 CH)
-  
-151
+   151
 1-3765153199 ENGINEERING AND 
 TECHNOLOGY
 MECHANICAL 
@@ -12486,8 +11967,7 @@ GRADUATE
 KEERTI DAMBAL 26/12/2016 M.SC 
 (BIOTE
 CH)
-  
-152
+   152
 1-3765153243 MCA MASTER OF 
 COMPUTER 
 APPLICATIONS
@@ -12496,8 +11976,7 @@ GRADUATE
 GURUSI
 DDAPPA
 MANAVI 01/06/1999
-  
-153
+   153
 1-3765153247 ENGINEERING AND 
 TECHNOLOGY
 MECHANICAL 
@@ -12507,8 +11986,7 @@ GRADUATE
 SHIVAPU
 TRA
 TIGADI 14/01/1987 BCOM ITI
-  
-154
+   154
 1-3765153291 ENGINEERING AND 
 TECHNOLOGY
 MECHANICAL 
@@ -12518,18 +11996,14 @@ GRADUATE
 S HARALAP
 UR
 13/05/1985 S.S.L.C
-
-## Page 53
-
-Application Report - Part 2
-Application Status:         Submitted
+ ## Page 53
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
-  
-155
+   155
 1-3765153295 ENGINEERING AND 
 TECHNOLOGY
 MECHANICAL 
@@ -12537,8 +12011,7 @@ ENGINEERING
 UNDER 
 GRADUATE
 M TALAGERI 23/04/1981 SSLC
-  
-156
+   156
 1-3765153299 ENGINEERING AND 
 TECHNOLOGY
 MECHANICAL 
@@ -12548,8 +12021,7 @@ GRADUATE
 S ARISHINA
 GUDI
 28/04/1981 S.S.L.C
-  
-157
+   157
 1-3765153333 ENGINEERING AND 
 TECHNOLOGY
 MECHANICAL 
@@ -12557,8 +12029,7 @@ ENGINEERING
 UNDER 
 GRADUATE
 B YEDURI 07/01/1987 7TH
-  
-158
+   158
 1-3765153337 ENGINEERING AND 
 TECHNOLOGY
 MECHANICAL 
@@ -12568,8 +12039,7 @@ GRADUATE
 R RAKKASA
 GI
 22/12/1999 S.S.L.C
-  
-159
+   159
 1-3765153491 ENGINEERING AND 
 TECHNOLOGY
 MECHANICAL 
@@ -12577,8 +12047,7 @@ ENGINEERING
 UNDER 
 GRADUATE
 A MEGERI 20/01/2003 D.M.E
-  
-160
+   160
 1-3765153495 ENGINEERING AND 
 TECHNOLOGY
 MECHANICAL 
@@ -12587,9 +12056,8 @@ UNDER
 GRADUATE
 B ALLAMMA
 NAVAR
-20/01/2003 B.A  (I.T.I)
-  
-161
+20/01/2003 B.A (I.T.I)
+   161
 1-3765153499 ENGINEERING AND 
 TECHNOLOGY
 MECHANICAL 
@@ -12597,8 +12065,7 @@ ENGINEERING
 UNDER 
 GRADUATE
 C PATTAR 21/04/1981 S.S.L.C(I.T.I)
-  
-162
+   162
 1-3765153553 ENGINEERING AND 
 TECHNOLOGY
 MECHANICAL 
@@ -12606,8 +12073,7 @@ ENGINEERING
 UNDER 
 GRADUATE
 C ANGADI 18/04/1981 S.S.L.C
-  
-163
+   163
 1-3765153557 ENGINEERING AND 
 TECHNOLOGY
 MECHANICAL 
@@ -12615,8 +12081,7 @@ ENGINEERING
 UNDER 
 GRADUATE
 I KAMATE 27/04/1981 S.S.L.C(I.T.I)
-  
-164
+   164
 1-3765153561 ENGINEERING AND 
 TECHNOLOGY
 MECHANICAL 
@@ -12624,8 +12089,7 @@ ENGINEERING
 UNDER 
 GRADUATE
 H WANI 20/04/1981 S.S.L.C(I.T.I)
-  
-165
+   165
 1-3765153565 ENGINEERING AND 
 TECHNOLOGY
 MECHANICAL 
@@ -12633,8 +12097,7 @@ ENGINEERING
 UNDER 
 GRADUATE
 S WALMIKI 06/07/1999 S.S.L.C
-  
-166
+   166
 1-3765153569 ENGINEERING AND 
 TECHNOLOGY
 MECHANICAL 
@@ -12642,8 +12105,7 @@ ENGINEERING
 UNDER 
 GRADUATE
 T KAMATE 03/05/1985 7TH
-  
-167
+   167
 1-3765153593 ENGINEERING AND 
 TECHNOLOGY
 MECHANICAL 
@@ -12653,18 +12115,14 @@ GRADUATE
 V SHIRAGU
 PPI
 27/01/2003 S.S.L.C
-
-## Page 54
-
-Application Report - Part 2
-Application Status:         Submitted
+ ## Page 54
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
-  
-168
+   168
 1-3765153597 ENGINEERING AND 
 TECHNOLOGY
 MECHANICAL 
@@ -12672,8 +12130,7 @@ ENGINEERING
 UNDER 
 GRADUATE
 M HALLI 01/09/2005 DIP (MECH)
-  
-169
+   169
 1-3765153631 ENGINEERING AND 
 TECHNOLOGY
 MECHANICAL 
@@ -12683,8 +12140,7 @@ GRADUATE
 VIJAY ACHARI 01/09/2016 B.E. 
 (METALL
 URGY)
-  
-170
+   170
 1-3765153635 ENGINEERING AND 
 TECHNOLOGY
 MECHANICAL 
@@ -12694,17 +12150,15 @@ GRADUATE
 R PATTANA
 D
 24/04/2006 DIP
-  
-171
+   171
 1-3765153639 ENGINEERING AND 
 TECHNOLOGY
 MECHANICAL 
 ENGINEERING
 UNDER 
 GRADUATE
-SAMUEL  LINGAM 17/07/2009 DIPLOMA
-  
-172
+SAMUEL LINGAM 17/07/2009 DIPLOMA
+   172
 1-3765153663 ENGINEERING AND 
 TECHNOLOGY
 MECHANICAL 
@@ -12714,8 +12168,7 @@ GRADUATE
 S KULKARNI 19/03/2012 S.S.LC(I.T.I 
 TURNER) 
 APPRENTICE
-  
-173
+   173
 1-3765153667 ENGINEERING AND 
 TECHNOLOGY
 MECHANICAL 
@@ -12727,20 +12180,18 @@ SHREE
 DODDAMA
 NI
 21/09/2016 DIP (E&E)
-  
-174
+   174
 1-3765153691 ENGINEERING AND 
 TECHNOLOGY
 MECHANICAL 
 ENGINEERING
 UNDER 
 GRADUATE
-GIRISH  
+GIRISH 
 GAMANGA
 TTI
 24/08/2010 I.T.I TURNER
-  
-175
+   175
 1-3765153695 ENGINEERING AND 
 TECHNOLOGY
 MECHANICAL 
@@ -12753,21 +12204,19 @@ MACHAKN
 UR
 01/03/2012 S.S.L.C(I.T.I 
 FITTER)
-  
-176
+   176
 1-3765153699 ENGINEERING AND 
 TECHNOLOGY
 MECHANICAL 
 ENGINEERING
 UNDER 
 GRADUATE
-V  
+V 
 KORISHET
 TAR
 01/03/2012 ITI IN DIESEL 
 MECHANIC
-  
-177
+   177
 1-3765153713 ENGINEERING AND 
 TECHNOLOGY
 MECHANICAL 
@@ -12777,8 +12226,7 @@ GRADUATE
 M MADIWAL
 AR
 01/03/2012 ITI IN TURNER
-  
-178
+   178
 1-3765153717 ENGINEERING AND 
 TECHNOLOGY
 MECHANICAL 
@@ -12786,8 +12234,7 @@ ENGINEERING
 UNDER 
 GRADUATE
 SURESH NINGRANI 20/06/2012 I.T.I (FITTER)
-  
-179
+   179
 1-3765153721 ENGINEERING AND 
 TECHNOLOGY
 MECHANICAL 
@@ -12795,32 +12242,26 @@ ENGINEERING
 UNDER 
 GRADUATE
 UMESH KITTUR 01/02/2008 DIPLOMA
-  
-180
+   180
 1-3765153725 ENGINEERING AND 
 TECHNOLOGY
 MECHANICAL 
 ENGINEERING
 UNDER 
 GRADUATE
- 
-SARASW
+  SARASW
 ATI
 NEELANN
 AVAR
 01/02/2006 8TH
-
-## Page 55
-
-Application Report - Part 2
-Application Status:         Submitted
+ ## Page 55
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
-  
-181
+   181
 1-3765153729 ENGINEERING AND 
 TECHNOLOGY
 FIRST YEAR/OTHER UNDER 
@@ -12828,23 +12269,21 @@ GRADUATE
 S DURGANN
 AVAR
 11/05/1985 S.S.L.C
-  
-182
+   182
 1-3765153743 ENGINEERING AND 
 TECHNOLOGY
 FIRST YEAR/OTHER UNDER 
 GRADUATE
 L MIRAJE 03/05/1985 SSLC
 Admin & Library Staff
- 
-Sr.
+  Sr.
 No.
 Staff Id First Name Last Name Date of joining the InstituteMaster Degree Bachelor Degree Diploma Other Qualification
 1 1-3692293213 SUNITA GAMANAGATTI 04/01/2007 M.COM B.COM
 2 1-3706135614 POOJA KANDOI 25/02/2014 CA B.COM
 3 1-3706135618 RUSTUM KATI 01/03/2016 BA
 4 1-3706194782 MAHESH KARASHIDDIMATH 01/08/2006 B.A
-5 1-3706194786 BHARATI  BENDIGERI 20/01/2006 B.A. PGDE DOM
+5 1-3706194786 BHARATI BENDIGERI 20/01/2006 B.A. PGDE DOM
 6 1-3706194790 MEDHA DESHPANDE 01/09/2010 DIP IN 
 COMM.PRA 
 B.COM (OU)
@@ -12855,20 +12294,17 @@ B.COM (OU)
 11 1-3706291970 S GEJJI 14/09/1998 SSLC
 12 1-3706439914 APPANNA TAWARE 01/01/1984 5TH
 13 1-3706439918 SIDDAPPA HOTAGI 01/01/1984 5TH
-14 1-3706576122 M  TAWARE 01/08/2000 5TH
+14 1-3706576122 M TAWARE 01/08/2000 5TH
 15 1-3706576126 T TAWARE 01/08/2000 5TH
 16 1-3706576130 MALLAPPA ANAWALAD 14/12/1999 SSLC
 17 1-3706576874 SIDDAPPA PUJAR 01/01/2000 SSLC
 18 1-3706576878 SIDDAPPA TALAWAR 01/07/2004 SSLC
 19 1-3706706412 MANJUNATH BIDAWE 10/05/1995 7TH
-
-## Page 56
-
-Application Report - Part 2
-Application Status:         Submitted
+ ## Page 56
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
 20 1-3706706416 A KAMADOLLI 01/01/2001 9TH
@@ -12898,14 +12334,11 @@ Printed By : aict10956
 44 1-3723344151 SHILPA KITTUR 01/08/2007 BCS
 45 1-3723344155 SUNIL AMMANAGI 12/11/2007 B.A.
 46 1-3723641533 MANJUNATH KALASAD 01/12/2007 B.COM
-
-## Page 57
-
-Application Report - Part 2
-Application Status:         Submitted
+ ## Page 57
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
 47 1-3723641537 GURURAJ NARAGUND 07/11/2008 B.COM
@@ -12927,27 +12360,24 @@ SCIENCE
 62 1-3764509811 PRAMOD SUNDOLLI 01/01/2000 SSLC
 63 1-3764509815 MALLAPPA WALMIKI 01/03/2004 SSLC
 64 1-3764509819 RAVI KABADAGI 20/05/2009 SSLC
-
-## Page 58
-
-Application Report - Part 2
-Application Status:         Submitted
+ ## Page 58
+ Application Report - Part 2
+Application Status: Submitted
 Application Sub-Status: Payment Received
-        
-                 Report Generated on :-15/02/2018
+                          Report Generated on :-15/02/2018
 Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
 DECLARATION
 BY THE PRINCIPAL/DIRECTOR/REGISTRAR OF THE INSTITUTE/UNIVERSITY DEPARTMENT
-I,as theHead oftheInstitution,hereby declarethat:
-a)Ihave carefullygone through the AICTE RegulationsNotificationdated on 30th November, 2016,publishedinthe Gazetteof India-ExtraordinaryPartIII,Section-4 and itsamendment
+I, as theHead oftheInstitution, hereby declarethat:
+a)Ihave carefullygone through the AICTE RegulationsNotificationdated on 30th November, 2016, publishedinthe Gazetteof India-ExtraordinaryPartIII, Section-4 and itsamendment
 05thDecember 2017 alsothevariousprovisionsmentioned intheApproval Process Hand Book 2018-19.
 b)Iam fullyaware ofthedatauploaded by me inrespectofmy instituteon theweb portal.
-c)Iam aware thatthereisno provisionforcorrectionofdata,alterationofdata,subsequent editingand appealetc.fortheonlineapplicationonce uploaded on theweb portal.
-d) Iam alsoaware thatapplicationforseeking Extensionof Approval(EOA),Increase/Reductionof intake,Additionof new courses,Change of site,Closure of course,Supernumerary Seats
-under PIO/FN/Gulfquota Approval status/OCI,NRI, Change of name, and Conversion of women instituteinto Co-ed instituteand vice versa (as applicable),shallbe processed as per
+c)Iam aware thatthereisno provisionforcorrectionofdata, alterationofdata, subsequent editingand appealetc.fortheonlineapplicationonce uploaded on theweb portal.
+d) Iam alsoaware thatapplicationforseeking Extensionof Approval(EOA),Increase/Reductionof intake, Additionof new courses, Change of site, Closure of course, Supernumerary Seats
+under PIO/FN/Gulfquota Approval status/OCI, NRI, Change of name, and Conversion of women instituteinto Co-ed instituteand vice versa (as applicable),shallbe processed as per
 relevantprovisionsenumerated intheApproval Process Hand Book 2018-19.
-e)Iam aware oftheDeficiencies(ifany)pointedout intheReport generatedonline,based on thefactualdatauploaded by my instituteon theportal.
+e)Iam aware oftheDeficiencies(ifany)pointedout intheReport generatedonline, based on thefactualdatauploaded by my instituteon theportal.
 f)Iam alsoaware thatInstituteiseligibleforgrantof
 Approval ofNew Institutes/UniversityDepartment/ConstituentCollege,
 IntroductionofSupernumerary Seats forForeignNationals/Overseas CitizenofIndia(OCI)/Persons ofIndianOrigin(PIO)/ChildrenofIndianWorkers inGulfCountries,

@@ -1,20 +1,13 @@
 # PDF Document: bachelor-chemical-engineering-curriculum-2022-2026
-
-**PDF Source:** https://www.kletech.ac.in/pdf/bachelor-chemical-engineering-curriculum-2022-2026.pdf
-
-## Page 1
-
-FMCD2009 / 2.0 1 
- 
-Curriculum Structure and Curriculum Content for the Academic Batch 2022-26 
+ **PDF Source:** https://www.kletech.ac.in/pdf/bachelor-chemical-engineering-curriculum-2022-2026.pdf
+ ## Page 1
+ FMCD2009 / 2.0 1 
+  Curriculum Structure and Curriculum Content for the Academic Batch 2022-26 
 Department of Chemical Engineering 
 Program: Bachelor of Engineering 
-
-## Page 2
-
-FMCD2009 / 2.0 2 
- 
-Table of Contents 
+ ## Page 2
+ FMCD2009 / 2.0 2 
+  Table of Contents 
 Vision and Mission of KLE Technological University.......................................................................................... 3 
 Vision and Mission Statements of the School / Department ............................................................................. 4 
 Program Educational Objectives/Program Outcomes and Program-Specific Objectives ................................... 5 
@@ -31,64 +24,42 @@ Semester - VIII ................................................................
 List of Open Electives ..................................................................................................................................... 16 
 List of Program Electives ................................................................................................................................ 17 
 Curriculum Content - Course wise .................................................................................................................. 18 
-
-## Page 3
-
-FMCD2009 / 2.0 3 
- 
-Vision and Mission of KLE Technological University 
- 
-Vision 
- 
-KLE Technological University will be a national leader in Higher Education –recognised globally for innovative 
-culture, outstanding student experience, research excellence and social impact.  
- 
-Mission 
- 
-KLE Technological University is dedicated to teaching that meets highest standards of excellence, generation 
-and application of new knowledge throughresearch and creative endeavors.  
- 
-The three-fold mission of the University is: 
- 
- To offer undergraduate and post -graduate programs with engaged and experiential le arning 
+ ## Page 3
+ FMCD2009 / 2.0 3 
+  Vision and Mission of KLE Technological University 
+  Vision 
+  KLE Technological University will be a national leader in Higher Education -recognised globally for innovative 
+culture, outstanding student experience, research excellence and social impact. 
+  Mission 
+  KLE Technological University is dedicated to teaching that meets highest standards of excellence, generation 
+and application of new knowledge throughresearch and creative endeavors. 
+  The three-fold mission of the University is: 
+   To offer undergraduate and post -graduate programs with engaged and experiential le arning 
 environment enriched by high quality instruction that prepares students to succeed in their lives and 
 professional careers. 
- 
- To enable and grow disciplinary and inter -disciplinary areas of research that build on present  
-strengths and future opportunities aligning with areas of national strategic importance and priority.  
- 
- To actively engage in the Socio -economic development of the region by contributing our expertise, 
+   To enable and grow disciplinary and inter -disciplinary areas of research that build on present 
+strengths and future opportunities aligning with areas of national strategic importance and priority. 
+   To actively engage in the Socio -economic development of the region by contributing our expertise, 
 experience and leadership, to enhance competitiveness and quality of life. 
- 
-As a unified community of faculty, staff and students, we work together with the spirit of collaboration and 
+  As a unified community of faculty, staff and students, we work together with the spirit of collaboration and 
 partnership to accomplish our mission. 
-
-## Page 4
-
-FMCD2009 / 2.0 4 
- 
-Vision and Mission Statements of the Chemical Engineering Department 
- 
-Vision 
+ ## Page 4
+ FMCD2009 / 2.0 4 
+  Vision and Mission Statements of the Chemical Engineering Department 
+  Vision 
 To be a department of excellence in education and research, meeting the requirements of industry and society. 
- 
-Mission 
- 
- To create graduates with sound knowledge in the theoretical and applied aspects of Chemical 
+  Mission 
+   To create graduates with sound knowledge in the theoretical and applied aspects of Chemical 
 Engineering. 
  To prepare graduates for professional practice and higher studies in core and multidisciplinary areas 
 through seminars and projects. 
  To achieve excellence in academics and research through quality education and student support systems. 
  Foster an industry-institute relationship to bridge the gap between theory and practice. 
  To facilitate employability and entrepreneurship through holistic education and an alumni network. 
-
-## Page 5
-
-FMCD2009 / 2.0 5 
- 
-Program Educational Objectives/Program Outcomes and Program-Specific Objectives 
- 
-Program Educational Objectives -PEOs 
+ ## Page 5
+ FMCD2009 / 2.0 5 
+  Program Educational Objectives/Program Outcomes and Program-Specific Objectives 
+  Program Educational Objectives -PEOs 
 Department of Chemical Engineering accomplishments that graduates are expected to attain after 3 to 5 years 
 of graduation 
 PEO1: Integrate science and engineering with interdisciplinary areas to formulate, analyze, and solve 
@@ -103,12 +74,12 @@ solutions to complex engineering problems.
 PO2: Problem Analysis : Identify, formulate, review research literature and analyse complex engineering 
 problems reaching substantiated conclusions with consideration for sustainable development. (WK1 to 
 WK4) 
-PO3: Design/Development of Solutions : Design creative solutions  for complex engineering problems and 
+PO3: Design/Development of Solutions : Design creative solutions for complex engineering problems and 
 design/develop systems/components/processes to meet identified needs with consideration for the 
-public health and safety, whole-life cost, net zero carbon, culture, society and environment as  required. 
+public health and safety, whole-life cost, net zero carbon, culture, society and environment as required. 
 (WK5) 
 PO4: Conduct Investigations of Complex Problems : Conduct investigations of complex engineering 
-problems using research -based knowledge, including design of experiments, modelling, analysis &  
+problems using research -based knowledge, including design of experiments, modelling, analysis & 
 interpretation of data to provide valid conclusions. (WK8). 
 PO5: Engineering Tool Usage: Create, select and apply appropriate techniques, resources and modern 
 engineering & IT tools, including prediction and modelling, recognising their limitations to solve complex 
@@ -122,28 +93,24 @@ PO8: Individual and Collaborative Team work: Function effectively as an individu
 leader in diverse/multi-disciplinary teams. 
 PO9: Communication: Communicate effectively and inclusively within the engineering community and 
 society at large, such as being able to comprehend and write effective reports and design documentation, 
-make effective presentations considering cultural, language, and learning differences  
+make effective presentations considering cultural, language, and learning differences 
 PO10: Project Management and Finance: Apply knowledge and understanding of engineering 
-management  principles  and  economic  decision-making,  and  apply  these  to  multidisciplinary 
+management principles and economic decision-making, and apply these to multidisciplinary 
 environments. 
 PO11: Life-Long Learning: Recognise the need for, and have the preparation and ability for: 
 i.Independent and life-long learning, 
 ii. Adaptability to new and emerging technologies, and 
 iii. Critical thinking in the broadest context of technological change. (WK8) 
-
-## Page 6
-
-FMCD2009 / 2.0 6 
- 
-Program Specific Objectives - PSOs 
+ ## Page 6
+ FMCD2009 / 2.0 6 
+  Program Specific Objectives - PSOs 
 PSO 1 - Expertise in core chemical Courses: Exhibit basic understanding of process calculations, reaction 
 engineering and process equipment design. 
 PSO 2 - Flair to industry: Acquire practical knowledge of unit operations and unit processes through 
 industry visits, internships and projects. 
 PSO 3 - Expertise in allied areas: Apply principles of chemical engineering to bio-energy, petroleum, 
 biochemical and environmental engineering. 
- 
-Knowledge and Attitude Profile (WK) 
+  Knowledge and Attitude Profile (WK) 
 . 
 WK1: A systematic, theory-based understanding of the natural sciences applicable to the discipline and 
 awareness of relevant social sciences. 
@@ -154,7 +121,7 @@ discipline.
 WK4: Engineering specialist knowledge that provides theoretical frameworks and bodies of knowledge for 
 the accepted practice areas in the engineering discipline; much is at the forefront of the discipline. 
 WK5: Knowledge, including efficient resource use, environmental impacts, whole-life cost, reuse of 
-resources, net zero carbon, and similar concepts, that supports engineering  design and operations in a 
+resources, net zero carbon, and similar concepts, that supports engineering design and operations in a 
 practice area. 
 WK6: Knowledge of engineering practice (technology) in the practice areas in the engineering discipline. 
 WK7: Knowledge of the role of engineering in society and identified issues in engineering practice in the 
@@ -165,13 +132,10 @@ of the power of critical thinking and creative approaches to evaluate emerging i
 WK9: Ethics, inclusive behavior and conduct. Knowledge of professional ethics, responsibilities, and 
 norms of engineering practice. Awareness of the need for diversity by reason of ethnicity, gender, age, 
 physical ability etc. with mutual understanding and respect, and of inclusive attitudes. 
-
-## Page 7
-
-7 FMCD2009 / 2.0 
- 
-Curriculum Structure - Overall 
-Semester: 1 to 8 (2022- Batch)      Total Program Credits:178 
+ ## Page 7
+ 7 FMCD2009 / 2.0 
+  Curriculum Structure - Overall 
+Semester: 1 to 8 (2022- Batch) Total Program Credits:178 
 Course with course code 
 I II III IV V VI VII VIII 
 Single Variable 
@@ -200,14 +164,12 @@ Process Equipment
 Design and 
 Drawing 
 (22ECEC401) 
- 
-Program Elective - 
+  Program Elective - 
 6 (22ECEE4XX) 
 Engineering 
 Chemistry 
 (15ECHB101) 
- 
-Engineering Physics 
+  Engineering Physics 
 (15EPHB102) 
 Statistics and Integral 
 Transforms 
@@ -226,8 +188,7 @@ Engineering - II
 Process Control & 
 IIOT 
 (22ECEC402) 
- 
-Open Elective 
+  Open Elective 
 (22ECEO45X) 
 C Programming for 
 Problem solving 
@@ -235,8 +196,7 @@ Problem solving
 Engineering 
 Mechanics 
 (15ECVF102) 
- 
-Momentum Transfer 
+  Momentum Transfer 
 (22ECEC201) 
 Industrial Pollution 
 Control 
@@ -246,13 +206,12 @@ Applications,
 Modelling and 
 Simulation 
 (22ECEC302) 
- 
-Mass transfer-II 
+  Mass transfer-II 
 (22ECEC307) 
 Program 
-Elective– 03 
+Elective- 03 
 (22ECEE4XX) 
-Internship – 
+Internship - 
 Training (Optional 
 In place of 
 1 & 2) (22ECEI493) 
@@ -262,23 +221,18 @@ Exploration
 Computer Aided 
 Engineering Drawing 
 (15EMEP101) 
- 
-Particulate Technology 
+  Particulate Technology 
 (22ECEC202) 
- 
-Process Heat Transfer 
+  Process Heat Transfer 
 (22ECEC206) 
- 
-Bioprocess Engineering 
+  Bioprocess Engineering 
 (22ECEC303) 
- 
-Program Elective – 
+  Program Elective - 
 1 (22ECEE3XX) 
- 
-Program Elective 
-– 4 (22ECEE4XX) 
+  Program Elective 
+- 4 (22ECEE4XX) 
 Capstone Project / 
-Internship – Project 
+Internship - Project 
 (22ECEW402/ 
 22ECEW494) 
 Basic Electronics 
@@ -294,12 +248,11 @@ Thermodynamics
 (22ECEC207) 
 Mass Transfer I 
 (22ECEC304) 
-Program Elective – 
+Program Elective - 
 2 (22ECEE3XX) 
 Program Elective 
-– 5 (22ECEE4XX) 
- 
-Basic Mechanical 
+- 5 (22ECEE4XX) 
+  Basic Mechanical 
 Engg. 
 (15EMEF101) 
 Design Thinking for 
@@ -319,15 +272,13 @@ Engineering Lab
 (22ECEP303) 
 Process Control 
 Lab (19EMEP401) 
- 
-Professional 
+  Professional 
 Communication 
 (15EHSH101) 
 Engineering Physics 
 Lab 
 (16EPHP102) 
- 
-Momentum Transfer Lab 
+  Momentum Transfer Lab 
 (22ECEP201) 
 Computer-Based 
 Chemical Calculations 
@@ -336,14 +287,12 @@ Lab
 Computer Applications 
 & Simulation Lab 
 (22ECEP301) 
- 
-Mass Transfer Lab 
+  Mass Transfer Lab 
 (22ECEP304) 
 Senior Design 
 Project 
 (22ECEW40) 
- 
-  Particulate Technology 
+    Particulate Technology 
 Lab 
 (22ECEP202) 
 Process Heat Transfer 
@@ -355,8 +304,7 @@ Minor Project
 (22ECEW302) 
 CIPE/EVS 
 (15EHSA401) 
- 
-  Computer aided 
+    Computer aided 
 Drawing Lab 
 (22ECEP203) 
 Technical Chemistry Lab 
@@ -368,8 +316,7 @@ Industry Readiness
 (22EHSH302) 
 REU 
 (22ECEE490) 
- 
-   Corporate 
+     Corporate 
 Communication 
 Problem Solving & 
 Analysis 
@@ -377,17 +324,12 @@ Analysis
 Arithmetical Thinking & 
 Analytical Reasoning 
 (22EHSH301) 
-   
-Credits 23 21 22 24 24.5 23.5 22 17 
-
-## Page 8
-
-8 FMCD2009 / 2.0 
- 
-Curriculum Structure-Semester wise 
-Semester – I 
- 
-No Code Course Category L-T-P Credits 
+    Credits 23 21 22 24 24.5 23.5 22 17 
+ ## Page 8
+ 8 FMCD2009 / 2.0 
+  Curriculum Structure-Semester wise 
+Semester - I 
+  No Code Course Category L-T-P Credits 
 Contact 
 Hours ISA ESA Total 
 Exam 
@@ -402,15 +344,11 @@ ES 0-0-3 3 6 80 20 100 3 hours
 5 18EECF102 Basic Electronics ES 4-0-0 4 4 50 50 100 3 hours 
 6 15EMEF101 Basic Mechanical Engg. ES 2-1-0 3 4 50 50 100 3 hours 
 7 15EHSH101 Professional Communication HSS 1-1-0 2 3 50 50 100 3 hours 
-TOTAL  14-3-6 23 32     
-
-## Page 9
-
-9 FMCD2009 / 2.0 
- 
-Semester – II 
- 
-No 
+TOTAL 14-3-6 23 32 
+ ## Page 9
+ 9 FMCD2009 / 2.0 
+  Semester - II 
+  No 
 Code Course Category L-T-P Credits Contact 
 Hours 
 ISA ESA Total Exam 
@@ -427,15 +365,11 @@ ES 0-0-3 3 6 80 20 100 3 hours
 Innovation 
 HSS 0-1-1 2 3 80 20 100 3 hours 
 7 16EPHP102 Engineering Physics Lab BS 0-0-1 1 2 80 20 100 3 hours 
-TOTAL  14-2-5 21 27     
-
-## Page 10
-
-10 FMCD2009 / 2.0 
- 
-Semester – III 
- 
-No 
+TOTAL 14-2-5 21 27 
+ ## Page 10
+ 10 FMCD2009 / 2.0 
+  Semester - III 
+  No 
 Code Course Category L-T-P Credits Contact 
 Hours 
 ISA ESA Total Exam 
@@ -454,34 +388,21 @@ PSC 4-0-0 4 5 50 50 100 3 hours
 7 22ECEP201 Momentum Transfer Lab. PSC 0-0-1 1 2 80 20 100 3 hours 
 8 22ECEP202 Particulate Technology Lab. PSC 0-0-1 1 2 80 20 100 3 hours 
 9 22ECEP203 Computer-Aided Drawing Lab. PSC 0-0-1 1 2 80 20 100 3 hours 
-10 22EHSH201 Corporate Communication ESH  0.5 2 100 - -  
-TOTAL  19-0-3 22.5 30     
-
-## Page 11
-
-11 FMCD2009 / 2.0 
- 
-Semester – IV 
- 
-No 
- 
-Code 
- 
-Course 
- 
-Category 
- 
-L-T-P 
- 
-Credits 
- 
-Contact Hours 
- 
-ISA 
- 
-ESA 
- 
-Total 
+10 22EHSH201 Corporate Communication ESH 0.5 2 100 - - 
+TOTAL 19-0-3 22.5 30 
+ ## Page 11
+ 11 FMCD2009 / 2.0 
+  Semester - IV 
+  No 
+  Code 
+  Course 
+  Category 
+  L-T-P 
+  Credits 
+  Contact Hours 
+  ISA 
+  ESA 
+  Total 
 Exam 
 Duration 
 (in hrs) 
@@ -491,88 +412,64 @@ Equations (Diploma Students) BS 4-0-0 4 4 50 50 100 3 hours
 Differential Equations BS 3-1-0 4 5 50 50 100 3 hours 
 3 22ECEC205 Industrial Pollution Control PSC 3-0-0 3 3 50 50 100 3 hours 
 4 22ECEC206 Process Heat Transfer PSC 4-0-0 4 4 50 50 100 3 hours 
-5 22ECEC207 Chemical Engineering  
+5 22ECEC207 Chemical Engineering 
 Thermodynamics PSC 4-0-0 4 4 50 50 100 3 hours 
 6 22ECEC208 Material Science & Engineering PSC 3-0-0 3 3 50 50 100 3 hours 
-7 22ECEP204 Computer-based Chemical  
+7 22ECEP204 Computer-based Chemical 
 Calculations Lab. PSC 0-0-1 1 2 80 20 100 3 hours 
 8 22ECEP205 Process Heat Transfer Lab. PSC 0-0-1 1 2 80 20 100 3 hours 
 9 22ECEP206 Technical Chemistry Lab. BS 0-0-1 1 2 80 20 100 3 hours 
-10 22ESHH202 Problem Solving and Analysis H&SS  0.5 2 100 --   
-TOTAL  17-1-3 21.5 31     
-
-## Page 12
-
-12 FMCD2009 / 2.0 
- 
-Semester – V 
- 
-No 
- 
-Code 
- 
-Course 
- 
-Category 
- 
-L-T-P 
- 
-Credits Contact 
+10 22ESHH202 Problem Solving and Analysis H&SS 0.5 2 100 -- 
+TOTAL 17-1-3 21.5 31 
+ ## Page 12
+ 12 FMCD2009 / 2.0 
+  Semester - V 
+  No 
+  Code 
+  Course 
+  Category 
+  L-T-P 
+  Credits Contact 
 Hours 
- 
-ISA 
- 
-ESA 
- 
-Total Exam Duration 
+  ISA 
+  ESA 
+  Total Exam Duration 
 (in hrs) 
 1 24EMAB301 Numerical Methods and Statistics 
 (Diploma Students) 
 BS 3-0-1 4 4 50 50 100 3 Hours 
-2 22ECEC301 Process Engineering Economics &  
+2 22ECEC301 Process Engineering Economics & 
 Plant Design 
 PSC 3-0-0 3 3 50 50 100 3 Hours 
-3 22ECEC302 Computer Applications, Modelling &  
+3 22ECEC302 Computer Applications, Modelling & 
 Simulation 
 PSC 4-0-0 4 5 50 50 100 3 Hours 
 4 22ECEC303 Bioprocess Engineering PSC 3-0-0 3 3 50 50 100 3 Hours 
 5 22ECEC304 Mass Transfer - I PSC 4-0-0 4 5 50 50 100 3 Hours 
 6 22ECEC305 Chemical Reaction Engineering - I PSC 4-0-0 4 5 50 50 100 3 Hours 
 7 22ECEW301 Mini Project PRJ 0-0-3 3 9 50 50 100 3 Hours 
-8 22ECEP301 Computer Applications & Simulation  
+8 22ECEP301 Computer Applications & Simulation 
 Lab. 
 PSC 0-0-1 1 2 80 20 100 3 Hours 
 9 22ECEP302 Pollution Control Lab. PSC 0-0-1 1 2 80 20 100 3 Hours 
-10 22EHSH301 Arithmetical Thinking & Analytical  
+10 22EHSH301 Arithmetical Thinking & Analytical 
 Reasoning 
-ESH  0.5 2 100 - 100  
-TOTAL  18-0-5 23.5 40     
-
-## Page 13
-
-13 FMCD2009 / 2.0 
- 
-Semester – VI 
- 
-No 
- 
-Code 
- 
-Course 
- 
-Category 
- 
-L-T-P 
- 
-Credits 
+ESH 0.5 2 100 - 100 
+TOTAL 18-0-5 23.5 40 
+ ## Page 13
+ 13 FMCD2009 / 2.0 
+  Semester - VI 
+  No 
+  Code 
+  Course 
+  Category 
+  L-T-P 
+  Credits 
 Contact 
 Hours 
- 
-ISA 
- 
-ESA 
- 
-Total 
+  ISA 
+  ESA 
+  Total 
 Exam 
 Duration 
 (in hrs) 
@@ -588,10 +485,9 @@ PSC 3-0-0 3 3 50 50 100 3 Hours
 8 22ECEP304 Mass Transfer Lab PSC 0-0-1 1.5 3 80 20 100 3 Hours 
 9 22EHSH302 Industry Readiness & Leadership 
 Skills 
-HS  0.5      
-TOTAL  16-0-8 26.5 30     
- 
-Program Electives 
+HS 0.5 
+TOTAL 16-0-8 26.5 30 
+  Program Electives 
 Vertical-I 
 (Energy, Environment, and Sustainability) 
 Vertical-II (EET) 
@@ -602,48 +498,35 @@ Vertical-III
 Processing 
 22ECEE306 Instrumentation Engineering 
 22ECEE304 Industrial Safety & Health 22ECEE305 Transport Phenomena 22ECEE311 Instrumental Methods of Analysis 
-22ECEE307 Chemical Plant Utilities 22ECEE308 Oils & Fats  
-
-## Page 14
-
-14 FMCD2009 / 2.0 
- 
-Semester – VII 
- 
-No 
- 
-Code 
- 
-Course 
- 
-Category 
- 
-L-T-P 
- 
-Credits 
+22ECEE307 Chemical Plant Utilities 22ECEE308 Oils & Fats 
+ ## Page 14
+ 14 FMCD2009 / 2.0 
+  Semester - VII 
+  No 
+  Code 
+  Course 
+  Category 
+  L-T-P 
+  Credits 
 Contact 
 Hours 
- 
-ISA 
- 
-ESA 
- 
-Total 
+  ISA 
+  ESA 
+  Total 
 Exam Duration 
 (in hrs) 
-1 22ECEC401 Process Equipment Design &  
+1 22ECEC401 Process Equipment Design & 
 Drawing PSC 4-0-0 4 4 50 50 100 3 Hours 
 2 22ECEC402 Process Control & IIOT PSC 3-0-0 3 3 50 50 100 3 Hours 
 3 22ECEE4XX Program Elective - 03 PE 3-0-0 3 3 50 50 100 3 Hours 
 4 22ECEE4XX Program Elective - 04 PE 3-0-0 3 3 50 50 100 2 Hours 
 5 22ECEE4XX Program Elective - 05 PE 3-0-0 3 3 50 50 100 3 Hours 
-6 15EHSA401 Humanities – 02 (CIPE & EVS) HSA - Audit 3 50 50 100 3 Hours 
+6 15EHSA401 Humanities - 02 (CIPE & EVS) HSA - Audit 3 50 50 100 3 Hours 
 7 22ECEW401 Senior Design Project PRJ 0-0-6 6 18 50 50 100 3 Hours 
 8 22ECEP401 Process Control Lab PSC 0-0-1 1 2 80 20 100 3 Hours 
 9 22ECEE490 REU PRJ 0-0-6 6 6 50 50 100 3 Hours 
-TOTAL  16-0-7 23 39     
- 
-Program Electives 
+TOTAL 16-0-7 23 39 
+  Program Electives 
 Vertical-I 
 (Energy, Environment, and Sustainability) 
 Vertical-II (EET) 
@@ -660,38 +543,26 @@ Chemical Engineering
 22ECEE410 Unit Operations in Environmental 
 Engineering 
 22ECEE411 Polymer Science and Technology 22ECEE413 Advanced Process Control 
-
-## Page 15
-
-15 FMCD2009 / 2.0 
- 
-Semester – VIII 
- 
-No 
- 
-Code 
- 
-Course 
- 
-Category 
- 
-L-T-P 
- 
-Credits 
+ ## Page 15
+ 15 FMCD2009 / 2.0 
+  Semester - VIII 
+  No 
+  Code 
+  Course 
+  Category 
+  L-T-P 
+  Credits 
 Contact 
 Hours 
- 
-ISA 
- 
-ESA 
- 
-Total 
+  ISA 
+  ESA 
+  Total 
 Exam 
 Duration 
 (in hrs) 
 1 22ECEE4XX Program Elective - 6 PE 3-0-0 3 3 50 50 100 3 Hours 
 2 22ECEO45X Open Elective OE 3-0-0 3 3 50 50 100 3 Hours 
-3 22ECEI401 Internship – Training 
+3 22ECEI401 Internship - Training 
 (Optional In place of 1 & 2) 
  0-0-6 6 ---- 80 20 100 3 Hours 
 4 22ECEW402 
@@ -699,25 +570,16 @@ Duration
 22ECEW403 
 Capstone Project / 
 Internship - Project 
- 
-PW 
- 
-0-0-11 
- 
-11 
- 
-22 
- 
-50 
- 
-50 
- 
-100 
- 
-3 Hours 
-TOTAL  6-0-17 17 28     
- 
-Program Electives 
+  PW 
+  0-0-11 
+  11 
+  22 
+  50 
+  50 
+  100 
+  3 Hours 
+TOTAL 6-0-17 17 28 
+  Program Electives 
 Vertical-I 
 (Energy, Environment, and Sustainability) 
 Vertical-II (EET) 
@@ -725,37 +587,27 @@ Vertical-II (EET)
 Vertical-III 
 (Process Monitoring, Control, and Optimization) 
 22ECEE401 Fuels Furnaces & Refractories 22ECEE402 Nano Materials & Applications 22ECEE403 AI & ML for Chemical Engineers 
-22ECEE404 Environmental Impact Assessment 22ECEE405 Corrosion Engineering  
- 
-Open Elective 
+22ECEE404 Environmental Impact Assessment 22ECEE405 Corrosion Engineering 
+  Open Elective 
 22ECEO401 Green Technology 22ECEO402 Process Air Pollution & Control 
 22ECEO403 Environmental Protection and Management 22ECEO404 Solid Waste Management 
 22ECEO405 Occupational Safety and Health Administration 22ECEO406 Nano Science & Technology 
- 
-Semester I II III IV V VI VII VIII Total 
+  Semester I II III IV V VI VII VIII Total 
 Credits 23 21 22.5 21.5 23.5 26.5 23 17 178 
-
-## Page 16
-
-FMCD2009 / 2.0 16 
- 
-List of Open Electives 
- 
-Sr. No. Name of the Course Course Code 
+ ## Page 16
+ FMCD2009 / 2.0 16 
+  List of Open Electives 
+  Sr. No. Name of the Course Course Code 
 1 Green Technology 22ECE0401 
 2 Process Air Pollution & Control 22ECE0402 
 3 Environmental Protection and Management 22ECE0403 
 4 Solid Waste Management 22ECE0404 
 5 Occupational Safety and Health Administration 22ECE0405 
 6 Nano Science & Technology 22ECEO406 
-
-## Page 17
-
-FMCD2009 / 2.0 17 
- 
-List of Program Electives 
- 
-Sr.No Name of the Course Course Code 
+ ## Page 17
+ FMCD2009 / 2.0 17 
+  List of Program Electives 
+  Sr. No Name of the Course Course Code 
 1 Renewable Energy 22ECEE301 
 2 Fermentation and Downstream Processing 22ECEE302 
 3 Industrial Safety and Health 22ECEE304 
@@ -776,18 +628,14 @@ Sr.No Name of the Course Course Code
 18 Polymer Science and Technology 22ECEE411 
 19 Machine Learning for Process Optimisation in Chemical Engineering 22ECEE412 
 20 Advanced Process Control 22ECEE413 
-
-## Page 18
-
-FMCD2009 / 2.0 18 
- 
-Curriculum Content - Course wise (Semester – 1) 
- 
-Program: UG Semester: I 
+ ## Page 18
+ FMCD2009 / 2.0 18 
+  Curriculum Content - Course wise (Semester - 1) 
+  Program: UG Semester: I 
 Course Title: Single Variable Calculus Course Code: 18EMAB101 
 L-T-P: 4-1-0 Credits: 05 Contact Hours: 6 hrs/week 
 CIE Marks: 50 SEE Marks: 50 Total Marks: 100 
-Teaching Hours: 50 Examination Duration: 3hrs  
+Teaching Hours: 50 Examination Duration: 3hrs 
 Unit I 
 Chapter 1. Functions, Graphs and Models 
 Functions, types of functions, transformations and models (Linear, exponential, trigonometric).MATLAB: 
@@ -797,26 +645,26 @@ Chapter 2. Calculus of functions and models
 Limit of a function, Infinite limits- graph, Continuity and discontinuity, Intermediate value theorem 
 statement, Roots of the equation using Bisection Method and Newton -Raphson Method 
 Interpretation of derivative as a rate of change, all the rules of derivatives (List only), Maxima, Minima and 
-optimisation problems. Curvature and Radius of Curvature, Indeterminate forms, L- Hospital’s rule- Examples 
+optimisation problems. Curvature and Radius of Curvature, Indeterminate forms, L- Hospital's rule- Examples 
 MATLAB: optimisation problems. Curvature problems 
 13 Hrs 
 Unit II 
 Chapter 3. Infinite Series 
-Definition, Convergence of series, Tests of convergence – p-series, Alternating series. Power series, 
-radius of convergence, Taylor’s and Maclaurin’s series, Applications of Taylor’s and Maclaurin’s series, 
+Definition, Convergence of series, Tests of convergence - p-series, Alternating series. Power series, 
+radius of convergence, Taylor's and Maclaurin's series, Applications of Taylor's and Maclaurin's series, 
 MATLAB: Convergence of series 
 06 Hrs 
 Chapter 4. Integral calculus 
 Tracing of standard curves in Cartesian form, Parametric form and Polar form; Beta and gamma function, 
 relation between them, evaluation of integrals using Beta and gamma functions; Applications to find arc 
 length, Area, Volume and surface area (Cartesian, parametric and polar curves). Approximateintegration- 
-Trapezoidal rule, Simpson’s 1/3 rule 
+Trapezoidal rule, Simpson's 1/3 rule 
 MATLAB: problems on arc length, area, volume and surface area 
 14 Hrs 
 Unit III 
 Chapter 5. Ordinary differential equations of first order 
-a. Introduction to Initial Value Problems. Linear and Bernoulli’s equations, Exact equations and reducible to 
-exact form, Numerical solution to Initial Value problems -Euler’s method, Modified Euler’s method and 
+a. Introduction to Initial Value Problems. Linear and Bernoulli's equations, Exact equations and reducible to 
+exact form, Numerical solution to Initial Value problems -Euler's method, Modified Euler's method and 
 Runge-Kutta method 
 b. Applications of first -order d ifferential equations: Orthogonal trajectories, growth and decay problems, 
 mixture problems, Electrical circuits, and falling bodies. 
@@ -827,14 +675,10 @@ Text Books:
 Reference Books: 
 1. Calculus Single and Multivariable, Hughes-Hallett, Gleason, Wiley India Ed, 4th ed, 2009. 
 2. Thomas Calculus, George B Thomas, Pearson India, 12th ed., 2010 
-
-## Page 19
-
-FMCD2009 / 2.0 19 
- 
-Back to Semester - 1 
- 
-Program: UG Semester: I 
+ ## Page 19
+ FMCD2009 / 2.0 19 
+  Back to Semester - 1 
+  Program: UG Semester: I 
 Course Title: Engineering Chemistry Course Code: 15ECHB101 
 L-T-P: 3-0-0 Credits: 03 Contact Hours: 3 hrs/week 
 CIE Marks: 50 SEE Marks: 50 Total Marks: 100 
@@ -849,53 +693,50 @@ critical point. Sub -cooled liquid, saturated liquid, mixture of saturated liqui
 superheated vapour states. 
 08 Hrs 
 Chapter 2. Real and ideal gases 
-Properties of Real and Ideal Gases. Vander Waal' s equation, Vander Waal’s constant in terms of critical 
-properties –numerical problems. Compressibility factor, compressibility chart, and the Law of Corresponding 
+Properties of Real and Ideal Gases. Vander Waal' s equation, Vander Waal's constant in terms of critical 
+properties -numerical problems. Compressibility factor, compressibility chart, and the Law of Corresponding 
 States. Ideal Gas: Equation of State, Internal Energy, and Enthalpy as Functions of Temperat ure. Ideal gas 
-mixture: Dalton's law of additive pressures and Amagat's law of additive volumes. Terms used in the  analysis 
+mixture: Dalton's law of additive pressures and Amagat's law of additive volumes. Terms used in the analysis 
 of a mixture of gases - numerical problems. 
 05 Hrs 
 Chapter 3. Engineering Materials 
-Ferrous metals – properties and applications of Iron and Steel. Ferrous metals – properties andApplications of 
+Ferrous metals - properties and applications of Iron and Steel. Ferrous metals - properties andApplications of 
 copper and aluminium. 
 Cement- properties, mechanism of setting & hardening of cement and applications. 
-Lubricants- Properties –viscosity, flash point, fire point, cloud point and pour point, mechanism- 
+Lubricants- Properties -viscosity, flash point, fire point, cloud point and pour point, mechanism- 
 hydrodynamic and boundary lubrication and applications. 
 03 Hrs 
-Unit – II 
+Unit - II 
 Chapter 4. Fuel Chemistry 
 Fuels, classification, determination of calorific value of a fuel (solid/liquid fuel by Bomb calorimeter), coal 
 analysis- Numerical problems. Petroleum - cracking, Octane number, Cetane number, reforming, and the 
-mechanism of knocking in Petrol and Diesel engines. Renewable energy sources – power alcohol and 
+mechanism of knocking in Petrol and Diesel engines. Renewable energy sources - power alcohol and 
 biodiesel. 
 06 Hrs 
 Chapter 5. Energy Storage and Conversion Systems 
-Electrode potential, Nernst equation, Formation of a cell; Reference electrodes – Calomel electrode  and 
+Electrode potential, Nernst equation, Formation of a cell; Reference electrodes - Calomel electrode and 
 Determination of electrode potential using calomel electrode, numerical problems on E, E cell, Eocell. 
 Batteries: Classification, characteristics, Lead-acid and Li ion batteries. Fuel cells: Methanol-O2 fuel cell. 
 06 Hrs 
 Chapter 6. Surface Chemistry 
-Corrosion: Electrochemical theory of corrosion taking iron as an example; corrosion control – galvanisation 
+Corrosion: Electrochemical theory of corrosion taking iron as an example; corrosion control - galvanisation 
 and tinning. Metal Finishing: Technological importance of metal finishing, Electroplating, factors affecting the 
-nature of electrodeposit - Throwing power of plating bath solution - numerical problems. Electroless plating – 
+nature of electrodeposit - Throwing power of plating bath solution - numerical problems. Electroless plating - 
 advantages over electroplating, electroless plating of copper and its applications in the manufacture of 
 printed circuit boards. 
 04 Hrs 
-
-## Page 20
-
-FMCD2009 / 2.0 20 
- 
-Unit – III 
+ ## Page 20
+ FMCD2009 / 2.0 20 
+  Unit - III 
 Chapter 7. Polymers 
 Introduction, free radical mechanism of addition polymerisation taking Ethylene as an example; commercial 
-polymers - Plexiglass, polyurethane and polystyrene. Adhesives – synthesis, properties and applications of 
+polymers - Plexiglass, polyurethane and polystyrene. Adhesives - synthesis, properties and applications of 
 Epoxy resins; Polymer Composites - structure, properties and applications of Kevlar and carbon fibre. 
 04 Hrs 
 Chapter 8. Environmental Chemistry: 
 Water: Sources and ill effects of water pollutants- fluoride and nitrate; Determination of total hardness of 
-water by EDTS method – numerical problems. Se wage: Determination of biological oxygen demand by 
-Winkler’s method – numerical problems and determination of chemical oxygen demand - numerical 
+water by EDTS method - numerical problems. Se wage: Determination of biological oxygen demand by 
+Winkler's method - numerical problems and determination of chemical oxygen demand - numerical 
 problems. 
 04 Hrs 
 Text Books: 
@@ -905,7 +746,7 @@ Text Books:
 Reference Books: 
 1. An Introduction to Thermodynamics, Y V C Rao, Revised Edition, University Press, 2009 
 Hyderabad. 
-2. Hand book of batteries, David Linden, Thomas B Reddy, 3rd edition, McGraw-Hill Publications,2001. 
+2. Hand book of batteries, David Linden, Thomas B Reddy, 3rd edition, McGraw-Hill Publications, 2001. 
 3. Puri B. R., Sharma L.R. and Pathania M. S., Principles of Physical Chemistry, 33rd Edition, SNagin 
 Chand & Co., 1992. 
 4. Fontana M G, Corrosion Engineering, 3rd Edition, McGraw-Hill Publications, 1986. 
@@ -913,18 +754,14 @@ Chand & Co., 1992.
 6. Principles of Polymer Chemistry- A. Ravve, Pleum Press, New York and London. 
 7. Callister William D, Materials Science and Engineering: An Introduction, John Wiley and Sons 
 2007: 721 pages. 
-
-## Page 21
-
-FMCD2009 / 2.0 21 
- 
-Back to Semester - 1 
- 
-Program: UG Semester: I 
+ ## Page 21
+ FMCD2009 / 2.0 21 
+  Back to Semester - 1 
+  Program: UG Semester: I 
 Course Title: C Programming for Problem Solving Course Code: 18ECSP101 
 L-T-P: 0-0-3 Credits: 3 Contact Hrs: 6 hrs/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
-Teaching Hrs: 78 Exam Duration: 3 hrs  
+Teaching Hrs: 78 Exam Duration: 3 hrs 
 1 Introduction to Problem-Solving 
 Introduction to algorithms/flowcharts and their notations, top-down design, elementary 
 problems. 
@@ -938,8 +775,7 @@ Conditional branching statements: if statement, if else statement, else if ladde
 unconditional branching statements: break, continue. 
 Introduction to Debugging Skills Introduction 
 to Test Driven Programming. 
- 
-12 hrs 
+  12 hrs 
 4 Iterative statements 
 while, do while, for, nested statements 
 10 hrs 
@@ -955,29 +791,26 @@ Introduction to Code Optimization and refactoring
 15 hrs 
 7 Pointers 
 Introduction, declaring pointers, pointer variables, pointer expressions and arithmetic, passing 
-arguments to functions using pointers, pointers and arrays, passing an array toa function.  
+arguments to functions using pointers, pointers and arrays, passing an array toa function. 
 08 hrs 
 8 Structures and Unions 
 Introduction, passing structures to functions, Array of structures, Unions 
 05 hrs 
 Text Books: 
 1. R.G.Dromey, How to Solve it by Computer, 1st ed., PHI, 2008. 
-2. Yashvant Kanetkar, Let us C,15th ed, BPS Publication, 2016. 
+2. Yashvant Kanetkar, Let us C, 15th ed, BPS Publication, 2016. 
 Reference Books: 
 3. B W Kernighan, D M Ritchie, The Programming Language C, 2nd ed., PHI, 2004. 
 4. B S Gottfried, Programming with C, 2nd ed., TMH, 2006. 
-5. B.A. Forouzan, R.F. Gilberg, A Structured Program Approach Using C, 3rd, CENGAGE Learning,2008. 
-
-## Page 22
-
-Back to Semester - 1 
+5. B.A. Forouzan, R.F. Gilberg, A Structured Program Approach Using C, 3rd, CENGAGE Learning, 2008. 
+ ## Page 22
+ Back to Semester - 1 
 FMCD2009 / 2.0 22 
- 
-Program: UG Semester: I 
+  Program: UG Semester: I 
 Course Title: Engineering Exploration Course Code: 15ECRP101 
 L-T-P: 0-0-3 Credits: 3 Contact Hrs: 6 hrs/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
-Teaching Hrs: 78 Exam Duration: 3 hrs  
+Teaching Hrs: 78 Exam Duration: 3 hrs 
 No Content Sessions 
 1 Introduction to Engineering and Engineering Study 1 
 2 Role of Analysis in Engineering, Analysis Methodology 2 
@@ -1011,17 +844,14 @@ Software Tool
 - 
 10 Platform Based Development: Arduino - 
 10 Course Project 40 
-
-## Page 23
-
-Back to Semester - 1 
+ ## Page 23
+ Back to Semester - 1 
 FMCD2009 / 2.0 23 
- 
-Program: UG Semester: I 
+  Program: UG Semester: I 
 Course Title: Basic Electronics Course Code: 18EECF102 Teaching 
 Hours L-T-P: 4-0-0 Credits: 4 Contact Hours: 4Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 50 Hrs. Examination Duration: 3 Hrs.  
+Teaching Hours: 50 Hrs. Examination Duration: 3 Hrs. 
 Unit I 
 Chapter 1: Overview of Electronics in Mechanical Engineering 
 Definition & overview of Mechatronics, Mechatronics and Design Innovation, 
@@ -1031,7 +861,7 @@ Components; Sensors and Transducers.
 Chapter 2: Semiconductor Devices and Applications: 
 PN junction diode, characteristics and parameters, diode approximations, half wave rectifier, 
 full wave bridge rectifier, full wave bridge rectifier capacitor filter, Zener diode, Voltage 
-regulator design, BJT, Darlington Pair, JFET, MOSFET, UJT, SCR.  
+regulator design, BJT, Darlington Pair, JFET, MOSFET, UJT, SCR. 
 10 
 Chapter 3: Operational Amplifiers: 
 Ideal op -amp characteristics, op -amp applications: Comparator, Inverting amplifier, Non - 
@@ -1041,25 +871,24 @@ numerical as applicable.
 Unit II 
 Chapter 4: Digital Logic: 
 Digital Number system: Binary & Hexadecimal number systems, Conversion, BCD Number 
-system, Gray code, Data word representation, Binary Arithmetic, Boolean Algebra, Logic  
+system, Gray code, Data word representation, Binary Arithmetic, Boolean Algebra, Logic 
 gates, Combinational & Sequential circuits, Adders, Flip -Flops, Registers, Counters, 
 Multiplexer. 
 Introduction to Digital Electronics (Text-2): 
 Introduction, Switching and Logic Levels using circuits, Digital Waveform (Sections 9.1to 
-9.3).Number system: Binary, Octal, Decimal and Hexadecimal, Inter Conversion, BCD Number 
-system, Grey code, Data word representation, Binary Arithmetic, Boolean Algeb ra: Laws,  
+9. 3).Number system: Binary, Octal, Decimal and Hexadecimal, Inter Conversion, BCD Number 
+system, Grey code, Data word representation, Binary Arithmetic, Boolean Algeb ra: Laws, 
 rules & theorems of Boolean algebra, Sum of products form ( SOP ), products of sum form 
-(POS) of Boolean functions. Study of Karnaugh Maps ( K -maps) for  2, 3 & 4 variables only.  
+(POS) of Boolean functions. Study of Karnaugh Maps ( K -maps) for 2, 3 & 4 variables only. 
 Logic gates, Adders, Encoder, Decoder, Multiplexer and De - multiplexer. Combinational & 
 Sequential circuits, Latches and Flip-Flops(SR, JK, D, T), 
 13 
- 
-Chapter 5: Sensors and Transducers : 
-Introduction, Classification of sensors and transducers, Contact type – Mechanical switches, 
-Non-contact type - proximity sensors &  Hall sensors, principle of working of light  sensors, 
+  Chapter 5: Sensors and Transducers : 
+Introduction, Classification of sensors and transducers, Contact type - Mechanical switches, 
+Non-contact type - proximity sensors & Hall sensors, principle of working of light sensors, 
 Future Challenges 
 06 
-Unit – III 
+Unit - III 
 Chapter 6: Signal Conditioning: 
 Analog & Digital signals, Digital to Analog Conversion, R-2R DAC, Analog to Digital 
 Conversion, SAR ADC, Data Acquisition. 
@@ -1067,38 +896,31 @@ Conversion, SAR ADC, Data Acquisition.
 Chapter 7: Case Studies of Mechatronic Systems: 
 Automatic Camera, Drilling Machine, Bar code reader. 
 04 
-
-## Page 24
-
-FMCD2009 / 2.0 24 
- 
-Text Books 
-1. David A Bell, “Electronic devices and Circuits” , PHI New Delhi, 2004. 
-2. Morris Mano, “Digital logic and Computer design” 21st Indian print Prentice Hall India, 2000. 
+ ## Page 24
+ FMCD2009 / 2.0 24 
+  Text Books 
+1. David A Bell, "Electronic devices and Circuits" , PHI New Delhi, 2004. 
+2. Morris Mano, "Digital logic and Computer design" 21st Indian print Prentice Hall India, 2000. 
 3. W.Bolton, "Mechatronics - Electronic Control Systems in Mechanical and Electrical 
 Engineering", 3rd edition Pearson Education, 2005. 
-4. David Bradley and David W., “Mechatronics in Action”, 2nd edition, Springer, 2010 
+4. David Bradley and David W., "Mechatronics in Action", 2nd edition, Springer, 2010 
 References 
-1. David G Alciatore, Michael B Histand, “Introduction to Mechatronics and Measurement 
-Systems”, TMH 3rd edition, 2007. 
-2. K.A Krishnamurthy and M.R.Raghuveer, “Electrical, Electronics and Computer Engineering for Scientists 
-and Engineers”, Second Edition, New Age International Publishers, Wiley Eastern, 2001.  
-3. P. Malvino, “Electronic Principles”, Sixth edition, Tata McGraw Hill, 1999. 
-4. Floyd, “Digital fundamentals”, Third Edition, Prentice Hall India, 2001 
-5. Boylestead Nashelsky, “Electronic devices & Circuit theory” Sixth Edition, Prentice Hall India,2000. 
-6. Ramakant Gayekawad, “Operational Amplifiers & applications” 3rd Edition, PHI, 2000. 
-
-## Page 25
-
-FMCD2009 / 2.0 25 
- 
-Back to Semester - 1 
- 
-Program: UG Semester: I 
+1. David G Alciatore, Michael B Histand, "Introduction to Mechatronics and Measurement 
+Systems", TMH 3rd edition, 2007. 
+2. K.A Krishnamurthy and M.R.Raghuveer, "Electrical, Electronics and Computer Engineering for Scientists 
+and Engineers", Second Edition, New Age International Publishers, Wiley Eastern, 2001. 
+3. P. Malvino, "Electronic Principles", Sixth edition, Tata McGraw Hill, 1999. 
+4. Floyd, "Digital fundamentals", Third Edition, Prentice Hall India, 2001 
+5. Boylestead Nashelsky, "Electronic devices & Circuit theory" Sixth Edition, Prentice Hall India, 2000. 
+6. Ramakant Gayekawad, "Operational Amplifiers & applications" 3rd Edition, PHI, 2000. 
+ ## Page 25
+ FMCD2009 / 2.0 25 
+  Back to Semester - 1 
+  Program: UG Semester: I 
 Course Title: Basic Mechanical Engineering Course code: 15EMEF101 
 L-T-P: 2-1-0 Credits: 3 Contact Hrs.: 4 hrs/week 
 CIE Marks: 50 SEE Marks: 50 Total Marks: 100 
-Teaching Hrs: 50  Exam Duration: 3 hrs 
+Teaching Hrs: 50 Exam Duration: 3 hrs 
 Chapter Contents Hours Tutorial Sessions 
 Unit I 
 1 Introduction to Mechanical 
@@ -1107,7 +929,7 @@ Definition of engineering, Mechanical
 Engineering, Branchesof Mechanical 
 Engineering, Who are Mechanical 
 Engineers?, 
-Mechanical Engineers’ top ten 
+Mechanical Engineers' top ten 
 achievements. 
 2 Visit to Workshop and 
 Machine Shop, Tools, Safety 
@@ -1135,7 +957,7 @@ Demonstration and Exerciseson
 Sheet metal work. 
 Visit to Learning Factory 
 5 
-Unit II  
+Unit II 
 3 Design Engineering: Power 
 Transmission Elements 
 Overview 
@@ -1158,12 +980,9 @@ moving experience,
 aluminium can crusher 
 Video presentations 
 5 
-
-## Page 26
-
-FMCD2009 / 2.0 26 
- 
-4 Thermal Engineering 1: Prime 
+ ## Page 26
+ FMCD2009 / 2.0 26 
+  4 Thermal Engineering 1: Prime 
 Movers. 
 Internal Combustion Engines: 
 Classification, IC engine parts, 2 stroke 
@@ -1179,9 +998,9 @@ requirement of a bike, car or
 any machine 
 Video presentations 
 1 
-UNIT III  
+UNIT III 
 5 Thermal Engineering 2: Thermal 
-Systems’ Applications Refrigeration 
+Systems' Applications Refrigeration 
 system, Air conditioning system, 
 Pumps, Blowers and Compressors, 
 Turbines, and their working 
@@ -1190,29 +1009,24 @@ principle and specifications.
 various thermal systems 
 Video presentations 
 1 
- 
-Text Books: 
+  Text Books: 
 1. Jonathan Wickert and Kemper Lewis, An Introduction to Mechanical Engineering, ThirdEdition, 
 2013- Cengage Learning 
 2. K.R. Gopalkrishna, Sudhir Gopalkrishna, S.C. Sharma. A Text Book of Elements of Mechanical 
-Engineering, 30th Edition, Oct 2010,–Subhash Publishers, Bangalore. 
+Engineering, 30th Edition, Oct 2010,-Subhash Publishers, Bangalore. 
 Reference Books: 
 1. Course Material developed by the Department of Mechanical Engineering. 
 2. SKH Chowdhary, AKH Chowdhary, Nirjhar Roy, The Elements of Workshop Technology - Vol I& II , 11th 
 edition 2001, Media Promoters and Publishers. 
 3. Basic Manufacturing, Roger Timings, Third edition, Newnes, An imprint of Elsevier 
-
-## Page 27
-
-FMCD2009 / 2.0 27 
- 
-Back to Semester - 1 
- 
-Program: UG Semester: I 
+ ## Page 27
+ FMCD2009 / 2.0 27 
+  Back to Semester - 1 
+  Program: UG Semester: I 
 Course Title: Professional Communication Course Code: 15EHSH101 
 L-T-P: 1-1-0 Credits: 2 Contact Hrs: 3hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 42 Exam Duration: 3 hrs  
+Teaching Hrs: 42 Exam Duration: 3 hrs 
 Content Hrs 
 Chapter 1. Basics- English Communication 
 Course Introduction, Explanation of template mix-ups with correct usages & necessity of 
@@ -1236,25 +1050,21 @@ Covering letter, formal letters, and Construction of paragraphs on any given gen
 9 hrs 
 Text Book: 
 References: 
-1. Collins Cobuild Advanced Learner’s English Dictionary 
+1. Collins Cobuild Advanced Learner's English Dictionary 
 2. Raymond Murphy - Intermediate English Grammar, Cambridge University Press 
 3. Martin Hewings- Advanced English Grammar, Cambridge University Press. 
- 
-## Page 28
-
-FMCD2009 / 2.0 28 
- 
-Curriculum Content - Course wise (Semester – 2) 
- 
-Program: UG Semester: II 
+  ## Page 28
+ FMCD2009 / 2.0 28 
+  Curriculum Content - Course wise (Semester - 2) 
+  Program: UG Semester: II 
 Course Title: Multivariable calculus Course Code: 18EMAB102 
 L-T-P: 4-1-0 Credits: 05 Contact Hours: 6 hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 50 Examination Duration: 3hrs.  
+Teaching Hours: 50 Examination Duration: 3hrs. 
 Unit I 
 Chapter 1. Partial differentiation 
 Function of several variables, Partial derivatives, Level curves, Chain rule, Errors and Approximations. 
-Extreme value problems. Lagrange’s multipliers. 
+Extreme value problems. Lagrange's multipliers. 
 12 Hrs 
 Chapter 2. Double integrals 
 Double integrals- Rectangular and polar coordinates, Change the order of integration. Changeof variables, 
@@ -1267,7 +1077,7 @@ Triple integrals, Cartesian, change to Cylindrical and Spherical coordinates App
 7 Hrs 
 Chapter 4. Calculus of Vector Fields 
 Vector fields, Gradient and directional derivatives. Line and Surface integrals. Independence of path and 
-potential functions. Green’s theorem, Divergence of vector field, Divergence theorem,  Curl of vector field. 
+potential functions. Green's theorem, Divergence of vector field, Divergence theorem, Curl of vector field. 
 Stokes theorem. 
 MATLAB: application of Triple integrals, Vector calculus problems 
 13 Hrs 
@@ -1275,8 +1085,8 @@ Unit III
 Chapter 5. Differential equations of higher orders 
 Linear differential equations of second and higher order with constant coeffiISAnts The method of Variation 
 of parameters. Initial and boundary value problems. 
-Applications of second order differential equations-Newton’s 2nd law, electrical circuits, Simple Harmonic 
-motion. Series solution of differential equations. Validity of Series solution of Differential equations.  
+Applications of second order differential equations-Newton's 2nd law, electrical circuits, Simple Harmonic 
+motion. Series solution of differential equations. Validity of Series solution of Differential equations. 
 MATLAB: application of differential equations 
 (5+5) Hrs 
 Text Books: 
@@ -1284,17 +1094,14 @@ Text Books:
 Reference Books: 
 1. Calculus Single and Multivariable, Hughues-Hallett Gleason, Wiley India Ed, 4ed, 2009. 
 2. Thomas Calculus, George B Thomas, Pearson India, 12ed, 2010 
-
-## Page 29
-
-Back to Semester –II 
+ ## Page 29
+ Back to Semester -II 
 FMCD2009 / 2.0 29 
- 
-Program: UG Semester: II 
+  Program: UG Semester: II 
 Course Title: Engineering Physics Course Code: 15EPHB102 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs.  
+Teaching Hours: 40 Examination Duration: 3 Hrs. 
 Unit I 
 Chapter 1 Concept of Motion - Kinematics in One Dimension 
 Introduction, Motion Diagrams, The Particle Model, Position Model, LinearVelocity and 
@@ -1306,17 +1113,17 @@ Chapter 2 Kinematics in Two Dimensions
 Introduction to Vectors, Properties of vectors, Coordinate Systems and Vector Components, 
 Vector Algebra. 
 Position, velocity and Acceleration vectors, Projectile Motion, Relative Motion, Uniform 
-Circular Motion, Velocity and Acceleration in Uniform Circular Motion,  Nonuniform Circular 
+Circular Motion, Velocity and Acceleration in Uniform Circular Motion, Nonuniform Circular 
 Motion and Angular Acceleration, Numericals. 
 6 Hrs 
 Chapter 3 Force and Motion 
 Concept of Force, Identifying Forces, A Virtual Experiment, 
-Newton’s First Law, Newton’s Second Law, Free-Body Diagrams, Applications. 
+Newton's First Law, Newton's Second Law, Free-Body Diagrams, Applications. 
 4 Hrs 
 Unit II 
 Chapter 4 Dynamics I 
-Equilibrium using Newton’s second Law, Friction, Drag, 
-Newton’s Third Law, Analyzing Interacting Objects, Newton’s Third Law,Applications. 
+Equilibrium using Newton's second Law, Friction, Drag, 
+Newton's Third Law, Analyzing Interacting Objects, Newton's Third Law, Applications. 
 5 Hrs 
 Chapter 5 Dynamics II 
 Motion in a plane, Dynamics in Two Dimension, Velocity and Acceleration in Uniform 
@@ -1329,9 +1136,9 @@ Collisions, Explosion, Momentum in Two Dimension, Numericals.
 5 Hrs 
 UNIT III 
 Chapter 7 Energy and Work 
-Energy: Kinetic Energy and Gravitational Potential Energy, Restoring Forces,Hooke’s Law, 
+Energy: Kinetic Energy and Gravitational Potential Energy, Restoring Forces, Hooke's Law, 
 Elastic Potential Energy, Elastic Collisions, Energy Diagrams, 
-Work: Work and Kinetic Energy, Force, Work and Potential energy,Conservation of Energy, 
+Work: Work and Kinetic Energy, Force, Work and Potential energy, Conservation of Energy, 
 Power, Numericals. 
 8 Hrs 
 Text Book: 
@@ -1341,17 +1148,14 @@ Reference:
 1. Randall D Knight, Physics for SISAntists and Engineers, Pearson publication, 2nd Edition. 
 2. Hans C Ohanian and John T Markert, Physics for Engineers and Scientists, W W Norton and 
 Company, Volume 1, 3rd Edition 
-
-## Page 30
-
-Back to Semester –II 
+ ## Page 30
+ Back to Semester -II 
 FMCD2009 / 2.0 30 
- 
-Program: UG Semester: II 
+  Program: UG Semester: II 
 Course Title: Engineering Mechanics Course Code: 15ECVF102 
 L-T-P: 4-0-0 Credits: 4 Contact Hours: 3 hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs.  
+Teaching Hours: 40 Examination Duration: 3 Hrs. 
 Unit I 
 No Content Hrs. 
 1 Chapter 1: Overview of Civil Engineering 
@@ -1364,103 +1168,94 @@ Civil Engineering Marvels, Future challenges, Higher education and Research.
 04 
 2 Chapter 2: Coplanar concurrent force system 
 Introduction to Engineering Mechanics: 
-Basic idealizations – Particle, Continuum, Body, Rigid body, Deformable body, Definition of 
-force and its elements; Laws of Mechanics – Parallelogram law of forces, Principle of 
-transmissibility, Law of Superposition, Newton’s laws of motion. Classificatio n of force systems 
+Basic idealizations - Particle, Continuum, Body, Rigid body, Deformable body, Definition of 
+force and its elements; Laws of Mechanics - Parallelogram law of forces, Principle of 
+transmissibility, Law of Superposition, Newton's laws of motion. Classificatio n of force systems 
 3 hrs. 
-Resultant of coplanar concurrent force system: Definitions – Resultant, composition &  
+Resultant of coplanar concurrent force system: Definitions - Resultant, composition & 
 Resolution of a force, Equilibrium, Equilibrant, Formulae for resultant of forces and resolution 
 of a force. Numerical problems on resultant of forces. 4 hrs. 
 Equilibrium of coplanar concurrent force system: 
-Conditions of equilibrium, Action & Reaction, F ree body diagram, Lamis’ theorem. Numerical 
+Conditions of equilibrium, Action & Reaction, F ree body diagram, Lamis' theorem. Numerical 
 problems on equilibrium of forces. 5 hrs. 
 12 
 3 Chapter 3: Coplanar non-concurrent force system 
 Resultant of a force system: Moment, moment of a force, couple, moment of a couple, 
-Characteristics of couple, Equivalent force -couple system, Numerical problems  on moment 
+Characteristics of couple, Equivalent force -couple system, Numerical problems on moment 
 of forces and couples, on equivalent force-couple system. 
-Varignons principle of moments, Resultant of  coplanar-non-concurrent force systems and 
+Varignons principle of moments, Resultant of coplanar-non-concurrent force systems and 
 numerical problems. 5 hrs. 
 05 
 Unit II 
-4 Chapter 4:Equilibrium of a force system 
+4 Chapter 4: Equilibrium of a force system 
 Conditions of equilibrium, types of support and loading for a statically determinate beam, 
 Reactions at support connections, Numerical problems on equilibrium of force systems and 
 support reactions for a statically determinate beam. 5 hrs. 
 18 
-
-## Page 31
-
-FMCD2009 / 2.0 31 
- 
-5 Chapter 5:Static Friction 
-Introduction, types of friction, definition, limiting friction, coefficient of  friction, laws ofCoulomb 
+ ## Page 31
+ FMCD2009 / 2.0 31 
+  5 Chapter 5: Static Friction 
+Introduction, types of friction, definition, limiting friction, coefficient of friction, laws ofCoulomb 
 friction, angle of friction, angle of repose, and cone of friction. Wedge and beltfriction theory. 
 Derivation of the belt friction formula. Numerical problems on impending motion on horizontal 
 and inclined planes (including connected bodies); wedge friction; Ladder friction, and Belt 
 friction. 8 hrs. 
- 
-6 Chapter 6: Centroid of Plane Figures 
+  6 Chapter 6: Centroid of Plane Figures 
 Introduction, Definition, Methods of determining the centroid, axis of reference, axis of 
 symmetry, Locating the centroid of simple plane figures (triangle, semicircle, quarter of a circle 
-and sector of a circle etc,.) using the  method of integration, Numerical problems on Centroid  of 
+and sector of a circle etc,.) using the method of integration, Numerical problems on Centroid of 
 simple built up sections. 5 hrs. 
- 
-Unit – III 
+  Unit - III 
 7 Chapter 7: Second moment of area (Plane figures) 
 Introduction, Definition, Method of determining the second moment of area, Section Modulus, 
 Radius of gyration, perpendicular and Parallel axis theorems, Polar second moment of area, 
-second moment of area of simple plane figures  (triangle, rectangle, semicircle, circle etc,.) using 
+second moment of area of simple plane figures (triangle, rectangle, semicircle, circle etc,.) using 
 method of integration, Numerical problems on MI ofsimple built up sections. 
 5 hrs. 
 11 
 8 Chapter 8: Kinetics of a particle- Work, Power, Energy 
-Introduction – Kinematics and Kinetics, Definitions – work, power and energy. Work done by a 
+Introduction - Kinematics and Kinetics, Definitions - work, power and energy. Work done by a 
 force (constant, gravitational and spring forces) in rectilinear motion. Numerical problems, 
-Kinetic energy of a particle, principle of work and energy.  6 hrs. 
+Kinetic energy of a particle, principle of work and energy. 6 hrs. 
 Text Book: 
 1. Beer, F.P. and Johnston, R., Mechanics for Engineers: Statics, MGH, New York, 1988. 
 2. Bhavikatti, S.S., and Rajashekarappa K.G., Engineering Mechanics, 3rd Ed., New Age InternationalPub. 
 Pvt. Ltd., New Delhi, 2008. 
-3. Kumar, K.L., Engineering Mechanics, 3rd. Ed., Tata McGraw Hill Publishing Company, New Delhi,2003. 
-4. Punmia, B.C., Jain, A. and Jain, A., Mechanics of Materials, Lakshmi Publications, New Delhi,2006 
+3. Kumar, K.L., Engineering Mechanics, 3rd. Ed., Tata McGraw Hill Publishing Company, New Delhi, 2003. 
+4. Punmia, B.C., Jain, A. and Jain, A., Mechanics of Materials, Lakshmi Publications, New Delhi, 2006 
 References: 
-1. Jagadeesh, T.R. and Jayaram, Elements of Civil Engineering, Sapna Book House, Bangalore,2006. 
+1. Jagadeesh, T.R. and Jayaram, Elements of Civil Engineering, Sapna Book House, Bangalore, 2006. 
 1. Ramamrutham, S., Engineering Mechanics, Dhanpat Rai Publishing Co., New Delhi, 1998. 
 2. Singer, F.L., Engineering Mechanics, 3rd edition Harper Collins, 1994. 
 3. Timoshenko, S.P. and Young, D.H., Engineering Mechanics, 4th edition, McGraw Hill Publishing 
 Company, New Delhi, 1956. 
 4. Irving H Shames, Engineering Mechanics, 3rd edition, Prentice-Hall of India Pvt. Ltd, New Delhi-110 001, 
 1995. 
-
-## Page 32
-
-Back to Semester –II 
+ ## Page 32
+ Back to Semester -II 
 FMCD2009 / 2.0 32 
- 
-Program: UG Semester: II 
+  Program: UG Semester: II 
 Course Title: Computer-Aided Engineering Drawing Course Code: 15EMEP101 
 L-T-P-SS: 0-0-3 Credits:3 Contact Hours: 6 hrs/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
-Teaching Hours: 50 Examination Duration: 3 Hrs.  
+Teaching Hours: 50 Examination Duration: 3 Hrs. 
 Sl. 
 No 
 Content No. of 
 Sessions 
 01 Chapter 1: Introduction to engineering drawing and orthographic projections.( Manual 
 Drafting ) 
- 
-i) Introduction to engineering drawing – BIS conventions. 
-ii) Orthographic projections: first angle projection and third angle projection – 
+  i) Introduction to engineering drawing - BIS conventions. 
+ii) Orthographic projections: first angle projection and third angle projection - 
 symbolic representation. 
 iii) Projections of points. 
-iv) Projections of lines inclined to both the planes and determination of true length  by 
-rotating the view method (Problems on traces of a line  and mid-point problems are not 
+iv) Projections of lines inclined to both the planes and determination of true length by 
+rotating the view method (Problems on traces of a line and mid-point problems are not 
 included). However application problems are included. 
 v) Projection of planes: Planes parallel to one plane and perpendicular to other plane or 
-perpendicular to one plane and inclined to other plane (Two stage problems).  
+perpendicular to one plane and inclined to other plane (Two stage problems). 
 vi) Projection of simple solids such as prisms, pyramids, cylinders, cones and sphere and 
-their frustums in simple positions (Base parallel to or in one of the  
+their frustums in simple positions (Base parallel to or in one of the 
 three planes). 
 08 
 02 Chapter 2: Development of lateral surfaces of solids. (MANUAL) 
@@ -1482,13 +1277,10 @@ projections using CAD software.
 Text Books: 
 1. Text Book of Engineering Drawing by K R Gopalakrishna 
 2. Text Book of Engineering Drawing by N D Bhatt and V M Panchal 
-
-## Page 33
-
-Back to Semester –II 
+ ## Page 33
+ Back to Semester -II 
 FMCD2009 / 2.0 33 
- 
-Program: UG Semester: II 
+  Program: UG Semester: II 
 Course Code: 18EEEF102 Course Title: Basic Electrical Engineering 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs.: 3 hrs/week 
 CIA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -1498,25 +1290,25 @@ No.
 Unit-I Hrs.. 
 1 Overview of Electrical Engineering 
 Specialisation, scope & role, impact of Electrical Engineering on national economy, 
-environment, Sources of generation, sustainability, challenges  and opportunities for 
+environment, Sources of generation, sustainability, challenges and opportunities for 
 electrical engineers, electrical engineering marvels, future challenges. 
 02 
 2 DC Circuits 
-Voltage and current sources, Kirchoff’s current and voltage laws, loop and nodal analysis of 
+Voltage and current sources, Kirchoff's current and voltage laws, loop and nodal analysis of 
 simple circuits with DC excitation. Time-domain analysis of first-order RLand RC circuits. 
 05 
 3 AC Circuits 
-Representation of sinusoidal waveforms, peak and rms values, phasor representation,  real 
+Representation of sinusoidal waveforms, peak and rms values, phasor representation, real 
 power, reactive power, apparent power, power factor. Analysisof single-phase series and 
 parallel R-L-C ac circuits. Three-phase balanced circuits, voltage and current relations in star 
 and delta connections. power measurement 
 using two-watt meters 
 08 
- Unit-II  
+ Unit-II 
 4 Electrical Actuators 
 Electromagnetic principles, Solenoid, Relays, classification of Electric motors, DC motors - 
-shunt, series, compound, separately excited, PMDC motors – Speed Control, Stepper 
-Motors, BLDC motors, three phase induction  motor, Characteristics and applications , 
+shunt, series, compound, separately excited, PMDC motors - Speed Control, Stepper 
+Motors, BLDC motors, three phase induction motor, Characteristics and applications , 
 selection of motors for various applications. 
 9 
 5 Power Electronics (Text1, chapter 45) 
@@ -1526,49 +1318,41 @@ devices in inverters, Three -phase rectifier networks, The three -phase fully co
 converter, Inverter-fed induction motors, Soft-starting induction 
 motors, DC to DC conversion switched-mode power 
 6 
- Unit-III  
+ Unit-III 
 6 Electrical Wiring, Safety and protection(ref :Text3-page 1 to 10) 
 Types of wires and cables for internal wiring, Types of switches and Circuits, Types of wiring, 
 Safety precautions and rules in handling electrical appliances, Electric shock, first aid for 
-electrical shocks, Importance of  grounding and earthing, Methods  for earthing, Fuses, MCB, 
+electrical shocks, Importance of grounding and earthing, Methods for earthing, Fuses, MCB, 
 ELCB and Relays, Lockout and Tag out, Electrical Codes and Standards. 
 05 
 7 Batteries: 
 Basics of lead acid batteries, Lithium Ion Battery, Battery storage capacity, Coulomb 
-efficiency, Numerical of high and low charging rates, Battery sizing. Numericals..  
+efficiency, Numerical of high and low charging rates, Battery sizing. Numericals.. 
 05 
 Text Books: 
 1 Hughes, Electrical & Electronic Technology, 8th, Pearson Education, 2001 
 2 P C Sen, Principles of Electrical Machines and Power Electronics, 2nd, Wiley Publications 
-
-## Page 34
-
-FMCD2009 / 2.0 34 
- 
-3 Gilbert M Masters, Renewable and Efficient Electrical Power systems, John Wiley & Sons, 2004 
-4 Frank D. Petruzella, Electric Motors and Control Systems, MGH Education, 2009 Edition  
+ ## Page 34
+ FMCD2009 / 2.0 34 
+  3 Gilbert M Masters, Renewable and Efficient Electrical Power systems, John Wiley & Sons, 2004 
+4 Frank D. Petruzella, Electric Motors and Control Systems, MGH Education, 2009 Edition 
 Reference Books: 
 1 D C Kulshreshtha, Basic Electrical Engineering, McGraw-Hill Publications 
 2 David G Alciatore and Michel B Histand, Introduction to Mechatronics and Measurement Systems, 
 3rd, Tata McGraw-Hill Education Private Limited, New Delhi., 2005 
 3 Vincent Del Toro, Electrical Engineering Fundamentals, 2nd edition, Prentice Hall India 
-
-## Page 35
-
-FMCD2009 / 2.0 35 
- 
-Back to Semester –II 
- 
-Program: UG Semester: II 
+ ## Page 35
+ FMCD2009 / 2.0 35 
+  Back to Semester -II 
+  Program: UG Semester: II 
 Course Code: 20EHSP101 Course Title: Design Thinking for Social Innovation 
 L-T-P: 0-1-1 Credits: 2 Contact Hrs.:4 hrs/ week 
 ESA Marks: 80 ISA Marks: 20 Total Marks: 100 
-Teaching Hrs.: 28  Exam Duration: 3 hrs. 
+Teaching Hrs.: 28 Exam Duration: 3 hrs. 
 Module Topics Assignments Support activities / Tools 
 KNOWLEDGE, TOOLS & DEVELOPMENT 
 Course sensitization 
- 
-1. Introduction to Social 
+  1. Introduction to Social 
 Innovation: 
  Awakening social 
 consciousness 
@@ -1580,14 +1364,14 @@ Leadership
 MiniProject, Capstone Project, 
 Campus Placements) 
  Course Overview 
- Students’ Self Introduction 
+ Students' Self Introduction 
 Activity 
  Group formation 
 Activity 
 Reading assignments 
  Read the handout on 
-“The Process of Social 
-Innovation” by Geoff 
+"The Process of Social 
+Innovation" by Geoff 
 Mulgan 
  Design Thinking for 
 Social Innovation 
@@ -1607,8 +1391,7 @@ Behavioural Blocks to
 Innovation: 
 Discussion on the 
 behavioural blocks. 
- 
- Introducing oneself 
+   Introducing oneself 
 with three Adjectives- 
 Appreciating diversity 
 and discovering self 
@@ -1621,8 +1404,7 @@ enhance group
 cohesiveness amongst the 
 group mates) 
 Create Mindsets 
- 
-Seven Mindsets: 
+  Seven Mindsets: 
 1. Empathy 
 (Example of The Boy and the 
 Puppies) 
@@ -1632,7 +1414,7 @@ Glass Halh full Half Empty)
 3. Iteration 
 (Thomas Alva Edison) 
 4. Creative Confidence 
-(Origamy – Josef Albers) 
+(Origamy - Josef Albers) 
 5. Making it 
 6. Embracing Ambiguity 
 (Confusion is the Welcome 
@@ -1641,29 +1423,25 @@ Creativity)
 7. Learning from Failure 
 (Designing Website first and then 
 Reading assignments 
- Handout on “ Create 
-Mindsets” 
+ Handout on " Create 
+Mindsets" 
  (How to train the 
 Dragon? 
 Common Video for all 
 the mindsets) 
  Watching in Class TED 
-Talk on “How to build 
+Talk on "How to build 
 youir Creative 
 Confidence by David 
-Kelley – IDEO Founder) 
-
-## Page 36
-
-FMCD2009 / 2.0 36 
- 
-  asking the stakeholders about the 
+Kelley - IDEO Founder) 
+ ## Page 36
+ FMCD2009 / 2.0 36 
+    asking the stakeholders about the 
 website) 
 (Spending one lakh for the 
 business which is never 
 launched) 
-  
-Process of Social Innovation 
+   Process of Social Innovation 
 Engage 
 Community study and 
 Issue Identification 
@@ -1671,9 +1449,9 @@ Issue Identification
  Handout on Community 
 Study and Issue 
 Identification 
- Case Study on “EGramSeva” 
- Case Study on “Janani Agri 
-Serve” 
+ Case Study on "EGramSeva" 
+ Case Study on "Janani Agri 
+Serve" 
 Class Presentations 
  Initial observations being 
 made by the group 
@@ -1689,7 +1467,7 @@ Design Challenge
  Activity on 
 Observation skills To 
 know how to use 
-one’s observation skillsin 
+one's observation skillsin 
 understanding the social 
 conditions 
  Experience sharing by 
@@ -1698,14 +1476,13 @@ senior students
 Deliberations on the 
 initial observations 
 and arrive at the 
-“Social Issue” 
+"Social Issue" 
  Familiarisation of the 
 respective templates 
 with the help of 
 sample case study 
 PEER REVIEW 
- 
-2. Inspiration 
+  2. Inspiration 
  Plan for the Research 
  Development of 
 Interview guide 
@@ -1719,7 +1496,7 @@ Class Presentations
  Identification of the Stake 
 Holders 
 (Examples on Fluoroscent 
-Curtain and Students’ 
+Curtain and Students' 
 Punctuality for Class) 
  Interview Questions 
 (Role Play on Interview with 
@@ -1736,33 +1513,27 @@ Learning
 respective templates 
 with the help of 
 sample case study 
- 
-3. Ideation Reading assignments  Familiarisation of the 
-
-## Page 37
-
-FMCD2009 / 2.0 37 
- 
-  3.1 Synthesis 
+  3. Ideation Reading assignments  Familiarisation of the 
+ ## Page 37
+ FMCD2009 / 2.0 37 
+    3. 1 Synthesis 
  Search for meaning 
- Create “How might 
-we” question 
+ Create "How might 
+we" question 
  Handout on Overview of 
 Ideation-Synthesis 
 Class Presentations 
 • Create insights 
-• “How might we” questions 
+• "How might we" questions 
 Use template 5: Create Insights 
-Template 6: Create “How Might 
-We’ Questions 
-respective templates  
-with the help  of sample 
+Template 6: Create "How Might 
+We' Questions 
+respective templates 
+with the help of sample 
 case study 
- 
-3.0 Ideation 
-3.2 Prototyping 
- 
- Generate Ideas 
+  3. 0 Ideation 
+3. 2 Prototyping 
+   Generate Ideas 
  Select Promising Ideas 
  Determine what to 
 prototype 
@@ -1790,7 +1561,7 @@ management
 Structure building 
 games 
 PEER REVIEW 
-4.0 Implementation 
+4. 0 Implementation 
  Create an action plan 
  Community Partners(if 
 any) 
@@ -1823,12 +1594,9 @@ holders & their enagement
 respective templates 
 with the help of 
 sample case study 
-
-## Page 38
-
-FMCD2009 / 2.0 38 
- 
-  5.0 Reflect 
+ ## Page 38
+ FMCD2009 / 2.0 38 
+    5. 0 Reflect 
 Reflection of the overall 
 learning by the students 
 Reading assignments 
@@ -1843,14 +1611,10 @@ Implementation
 respective templates 
 with the help of 
 sample case study 
-
-## Page 39
-
-FMCD2009 / 2.0 39 
- 
-Back to Semester –II 
- 
-Program: UG Semester: II 
+ ## Page 39
+ FMCD2009 / 2.0 39 
+  Back to Semester -II 
+  Program: UG Semester: II 
 Course Code: 16EPHP102 Course Title: Engineering Physics Lab. 
 L-T-P-SS:0-0-1 Credits : 1 Contact Hrs.: 02 Hrs./Week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
@@ -1859,90 +1623,81 @@ Experiments
 1. Experimental Data Error Analysis 
 2. Coefficient of Friction 
 3. Centripetal Force 
-4. Young’s Modulus by Searle’s method 
+4. Young's Modulus by Searle's method 
 5. The Law of Forces by three wire suspension table 
 6. Force Table and Vector addition of forces 
 7. Momentofinertiaandrotationalmotion 
 8. Projectile motion 
 9. Variable g pendulum 
 10. Study of one dimension motion by linear air track 
-
-## Page 40
-
-FMCD2009 / 2.0 40 
- 
-Curriculum Content - Course wise (Semester – 3) 
- 
-Program: Bachelor of Engineering Semester: III 
+ ## Page 40
+ FMCD2009 / 2.0 40 
+  Curriculum Content - Course wise (Semester - 3) 
+  Program: Bachelor of Engineering Semester: III 
 Course Title: Calculus and Integral Transforms Course Code:15EMAB231 
 L-T-P: 4-0-0 Credits:04 Contact Hours: 4 hrs/week 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:50 Examination Duration: 3hrs  
+Teaching Hours:50 Examination Duration: 3hrs 
 Unit I 
 1. Differential Calculus 
-Differentiation of standard functions of first and higher orders, Taylor’s and Maclaurin’s seriesexpansion of 
+Differentiation of standard functions of first and higher orders, Taylor's and Maclaurin's seriesexpansion of 
 simple functions for a single variable. 
 2. Integral Calculus 
 Evaluation of integrals, properties, Beta and Gamma functions, relation between Beta and Gammafunctions 
-simple problems, Approximate integration- Trapezoidal rule, Simpson’s 1/3 rule 
+simple problems, Approximate integration- Trapezoidal rule, Simpson's 1/3 rule 
 3. Fourier Series 
 Fourier series, Evaluation of Fourier coefficients, Waveform symmetries as related to Fourier coefficient, 
 Exponential form of the Fourier series, half range Fourier series. Practical Harmonic Analysis. 
 Unit II 
 4. Fourier Transform 
 Exponential Representation of non -periodic signals, Existence of Fourier transforms, properties of Fourier 
-Transform: symmetry, scaling, shifting, Fourier transform of Sine and Cosine, Convolution theorem.  
+Transform: symmetry, scaling, shifting, Fourier transform of Sine and Cosine, Convolution theorem. 
 5. Laplace Transforms 
 Definition, transforms of eleme ntary functions - transforms of derivatives and integrals - Properties. Periodic 
 functions, Unit step functions and Unit impulse functions. Inverse Transforms - properties- Initial and final value 
 theorems and examples; Convolution Theorem. Applications to differential equations. 
 Unit III 
 6. Ordinary differential equations of first order 
-Introduction, order and degree of equation, Solution of first order first -degree differential equations –variable 
-separable methods, Linear differential equations, Bernoulli’s equations, Initial value problems.  
+Introduction, order and degree of equation, Solution of first order first -degree differential equations -variable 
+separable methods, Linear differential equations, Bernoulli's equations, Initial value problems. 
 7. Complex analysis 
 Function of complex variables. Limits, continuity and differentiability. Analytic functions, C-R equations 
-in Cartesian and polar forms, construction of Analytic functions (Cartesian and polar forms).  
+in Cartesian and polar forms, construction of Analytic functions (Cartesian and polar forms). 
 Text Books 
 1. Grewal B S, Higher Engineering Mathematics, 38th ed., Khanna Publication, New Delhi, 2001 
 2. Bali and Iyengar, A text book of Engineering Mathematics, 6th ed., Laxmi Publications(p) Ltd, New 
-Delhi,2003 
+Delhi, 2003 
 Reference Books: 
 1. Calculus- James Stewart, Early Transcendentals Thomson Books, 5e, 2007 
-
-## Page 41
-
-Back to Semester –III 
+ ## Page 41
+ Back to Semester -III 
 FMCD2009 / 2.0 41 
- 
-Program: Bachelor of Engineering Semester: III 
+  Program: Bachelor of Engineering Semester: III 
 Course Title: Statistics and Integral Transforms Course Code:15EMAB201 
 L-T-P:4-0-0 Credits:04 Contact Hours: 4 hrs/week 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:50 Examination Duration:3hrs  
+Teaching Hours:50 Examination Duration:3hrs 
 Unit I 
 1. Curve fitting and regression 
 Introduction to the method of least squares, fitting of curves y = a + bx, y = ab x, y=a + bx +cx 2, correlation and 
 regression. Applications to civil Engineering problems. 
 2. Probability 
-Definition of probability, addition rule, conditional probability, multiplication rule, Bayes’ rule. (no proof) Discrete 
-and continuous random variables- PDF-CDF- Binomial, Poisson and Normal distributions (Problems only).  
+Definition of probability, addition rule, conditional probability, multiplication rule, Bayes' rule. (no proof) Discrete 
+and continuous random variables- PDF-CDF- Binomial, Poisson and Normal distributions (Problems only). 
 3. Tests of hypothesis 1 
 Sampling, Sampling distribution, Standard error, Null and alternate hypotheses, Type I and Type II errors, Level of 
 significance. Confidence limits, testing of hypotheses for single mean and difference of means (large samples). 
 Applications to civil Engineering problems 
- 
-Unit II 
+  Unit II 
 4. Tests of hypothesis-2 
 T-test (test for single mean, paired t-test), Chi Squared distribution, analysis of variance (one-way and two-way 
-classifications). Case studies of designs of experiments (CRD, RBD). Applications to civil Engineering problems.  
+classifications). Case studies of designs of experiments (CRD, RBD). Applications to civil Engineering problems. 
 5. Laplace Transforms 
 Definition, transforms of elementary functions- transforms of derivatives and integrals- Properties. Periodic 
 functions, Unit step functions and Unit impulse functions. 
 Inverse Transforms- properties- Initial and Final value theorems, examples, Convolution Theorem. Applications to 
 differential equations. 
- 
-Unit III 
+  Unit III 
 6. Fourier Series 
 Fourier series representation of a function, even and odd functions, half-range series, and Practical Harmonic 
 Analysis. 
@@ -1952,7 +1707,7 @@ Fourier Transform: Fourier Sine and Cosine transforms.
 Text Books 
 1. Gupta S C and Kapoor V K, Fundamentals of Mathematical Statistics, 9 th ed., Sultan Chand & Sons, New Delhi, 
 2002 
-2. J. Susan Milton, Jesse C. Arnold, Introduction to Probability and Statistics: Principles and Applications  for 
+2. J. Susan Milton, Jesse C. Arnold, Introduction to Probability and Statistics: Principles and Applications for 
 Engineering and the Computing Sciences, 4th Ed, TATA McGraw-Hill Edition 2007. 
 3. Kreyszig, E, Advanced Engineering Mathematics, 8th ed., John Wiley & sons, 2003. 
 Reference Books: 
@@ -1961,45 +1716,42 @@ Reference Books:
 2. Miller, Freud and Johnson, Probability and Statistics for Engineering, 5th ed., PHI publications, 2000 
 3. Potter M C, Jack Goldberg and Aboufadel E F, Advanced Engineering Mathematics, 3rd ed. 
 Oxford Indian. 
-
-## Page 42
-
-Back to Semester –III 
+ ## Page 42
+ Back to Semester -III 
 FMCD2009 / 2.0 42 
- 
-Program: Bachelor of Engineering Semester: III 
+  Program: Bachelor of Engineering Semester: III 
 Course Title: Momentum Transfer Course Code: 22ECEC201 
 L-T-P:4-0-0 Credits:4 Contact Hours:4 hrs/week 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:50 Examination Duration:3 hrs  
+Teaching Hours:50 Examination Duration:3 hrs 
 Unit - 1 
 Chapter 1.Fluid Statics, Its Applications 
-Fluid Flow Phenomena Concept of unit operations, Concept of momentum transfer, Nature of fluids and  
-pressure concept, variation of pressure with height – hydrostatic equilibrium, Barometric equation, 
-Measurement of fluid pressure – manometers, Continuous g ravity decanter, Centrifugal decanter. Type of fluids  
-– shear stress and velocity gradient relation, Newtonian and non-Newtonian fluids, Viscosity of gases and liquids. 
-Types of flow – laminar and turbulent flow, Flow in boundary layers, Reynolds number, and Boundary layer 
+Fluid Flow Phenomena Concept of unit operations, Concept of momentum transfer, Nature of fluids and 
+pressure concept, variation of pressure with height - hydrostatic equilibrium, Barometric equation, 
+Measurement of fluid pressure - manometers, Continuous g ravity decanter, Centrifugal decanter. Type of fluids 
+- shear stress and velocity gradient relation, Newtonian and non-Newtonian fluids, Viscosity of gases and liquids. 
+Types of flow - laminar and turbulent flow, Flow in boundary layers, Reynolds number, and Boundary layer 
 separation and wake formation. 
 10 Hours 
 Chapter 2. Basic Equations of Fluid Flow and Dimensional Analysis 
 Average velocity, Mass velocity, Con tinuity equation, Euler and Bernoulli equations Modified equations for real 
 fluids with correction factors, Pump work in Bernoulli equation, Angular momentum equation. Dimensional 
-homogeneity, Rayleigh’s, and Buckingham Π - methods, Significance of differe nt dimensionless numbers, 
+homogeneity, Rayleigh's, and Buckingham Π - methods, Significance of differe nt dimensionless numbers, 
 Elementary treatment of similitude between model and prototype. 
 10 Hours 
 Unit - 2 
 Chapter 3. Flow of Incompressible Fluids in Conduits 
 Laminar flow through circular and non -circular conduits, Hagen Poiseuille equation. Friction factor chart, friction 
-from changes in velocity or direction, Form friction losses in Bernoulli equation.  
+from changes in velocity or direction, Form friction losses in Bernoulli equation. 
 8 Hours 
 Chapter 4. Flow of Compressible Fluids 
-Continuity equation, Concept of Mach number, Total energy balance, Velocity of sound, Ideal gas equations,  
+Continuity equation, Concept of Mach number, Total energy balance, Velocity of sound, Ideal gas equations, 
 Flow through variable -area conduits, Adiabatic frictional flow, Isothermal frictional flow (elementary treatment 
 only). 
 12 Hours 
 Unit - 3 
 Chapter 5. Transportation and Metering of Fluids 
-Pipes, Fittings and valves, Measurement of fluid and gas flow rates by venturi meter, orifice meter, rotameter  
+Pipes, Fittings and valves, Measurement of fluid and gas flow rates by venturi meter, orifice meter, rotameter 
 and pitot tube, Elementary concept of target meter, vortex -shedding meters, turbine meters, positive 
 displacement meters, magnetic meters, Coriolis meters and thermal meters, Flow through open channel -weirs 
 and notches. 
@@ -2013,86 +1765,76 @@ Textbooks
 McGraw Hill Education, 2017. 
 2. Kumar K.L. Engineering Fluid Mechanics, S Chand & Co Ltd., 2008 
 3. Bansal R.K. A Textbook of Fluid Mechanics, Laxmi Publications Pvt Limited, 2005 
-
-## Page 43
-
-FMCD2009 / 2.0 43 
- 
-References 
+ ## Page 43
+ FMCD2009 / 2.0 43 
+  References 
 1. Coulson J.M. and Richardson J.F. with Backhurst J.R. and Marker J.H., Chemical Engineering, Vol. 1, 6th 
 Edition, B utter worth - Heinemann New Delhi, 1999 
 2. Walter L. Badger, Julius T. Banchero, Julius T. Bancheo, Introduction to Chemical Engineering, Tata 
 McGraw Hill, New York, 1997 
-
-## Page 44
-
-FMCD2009 / 2.0 44 
- 
-Back to Semester –III 
- 
-Program: Bachelor of Engineering Semester: III 
+ ## Page 44
+ FMCD2009 / 2.0 44 
+  Back to Semester -III 
+  Program: Bachelor of Engineering Semester: III 
 Course Title: Particulate Technology Course Code: 22ECEC202 
 L-T-P:4-0-0 Credits:4 Contact Hours:4 hrs/week 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:50 Examination Duration:3 hrs  
+Teaching Hours:50 Examination Duration:3 hrs 
 Unit - 1 
 Chapter 1. Particle Size Analysis 
 Particle shape, particle size, different ways of expression of particle size, shape factor, sphericity, particle size 
-analysis, screens – ideal and actual screens, Differential and cumulative size analysis, the effectiveness of screen, 
+analysis, screens - ideal and actual screens, Differential and cumulative size analysis, the effectiveness of screen, 
 Specific surface of a mixture of particles, number of particles in a mixture, standard screens, Sub - Sieve analysis: 
 BET analysis, Acoustic spectroscopy and Flow cytometry. Industrial screening equipment, motion of screen, 
 Grizzly, Vibrating screen, Trommels. 
 10 Hours 
 Chapter 2. Size Reduction 
-Introduction – types of forces used for comminution, Criteria for comminution, Characteristics of comminated 
-products, Laws of size reduction, Work Index, Energy utilization, methods of operating crushers – Free crushing, 
-choke feeding, open circuit grinding, Closed circuit grinding, wet and dry grinding, equipment for size reduction – 
-Classification of size reduction equipment, equipment  – jaw crusher, impactor, Ball mill, Critical speed of ball  
+Introduction - types of forces used for comminution, Criteria for comminution, Characteristics of comminated 
+products, Laws of size reduction, Work Index, Energy utilization, methods of operating crushers - Free crushing, 
+choke feeding, open circuit grinding, Closed circuit grinding, wet and dry grinding, equipment for size reduction - 
+Classification of size reduction equipment, equipment - jaw crusher, impactor, Ball mill, Critical speed of ball 
 mill, Knife cutter. Simulation of communition processes. Selection of construction materials for face plates of jaw 
 crushers and grinding media. 
 10 Hours 
 Unit - 2 
 Chapter 3. The flow of fluid past immersed bodies 
-Drag, Drag coefficient, Pressure drop – Kozeny-Carman equation, Blake -Plummer, Ergun equation, Fluidisation, 
+Drag, Drag coefficient, Pressure drop - Kozeny-Carman equation, Blake -Plummer, Ergun equation, Fluidisation, 
 conditions for fluidisation, Minimum fluidisation velocity, Pneumatic conveying. Case study: Fluidised bed 
 combustor in cogeneration unit. 
 5 Hours 
 Chapter 4. Motion of particles through fluids 
 Mechanics of particle motion, an equation for one -dimensional motion of particles through a fluid in the 
-gravitational and centrifugal field, Terminal velocity, drag coefficient, the motion of spherical particles in Stoke’s 
-region, Newton’s region, and Intermediate region, criterion for settling regime, Hindered settling, modification of 
+gravitational and centrifugal field, Terminal velocity, drag coefficient, the motion of spherical particles in Stoke's 
+region, Newton's region, and Intermediate region, criterion for settling regime, Hindered settling, modification of 
 equation for hindered settling, Centrifugal separators, Cyclones and Hydro cyclones. Case Studies: Motion of coal 
-particles in a fluidised bed combustor, Calculation of the efficiency of a cyclone separator.  
+particles in a fluidised bed combustor, Calculation of the efficiency of a cyclone separator. 
 5 Hours 
 Chapter 5. Sedimentation 
 Batch settling test, Coe and Clevenger theory, Kynch theory, design of a continuous thickener. 
 5 Hours 
 Chapter 6. Filtration 
-Introduction, Classification of filtration, Cake filtration, Clarification, batch and continuous filtration, Pressure  
+Introduction, Classification of filtration, Cake filtration, Clarification, batch and continuous filtration, Pressure 
 and vacuum filtration, Constant rate filtration and cake filtration, Characteristics of filter media, Filter aids, 
 Application of filter aids, Industrial filters, Plate and frame filter press, Leaf filter, Rotary drum filter, Suspended 
 batch centrifuge, Principles of cake filtration. 
 5 Hours 
 Unit - 3 
 Chapter 7. Agitation and Mixing 
-Application of agitation, Agitation equipment, Types of impellers – Propellers, Paddles and Turbines, Flow 
+Application of agitation, Agitation equipment, Types of impellers - Propellers, Paddles and Turbines, Flow 
 patterns in agitated vessels, Prevention of swirling, Standard turbine design, Power correlation and power 
-calculation, Mixing of solids, Types of mixers – Muller mixers, Mixing index, Ribbon blender, Internal screw mixer. 
-Case Study: Dispersing of paints and mixing of powders in pharmaceutical industries.  
+calculation, Mixing of solids, Types of mixers - Muller mixers, Mixing index, Ribbon blender, Internal screw mixer. 
+Case Study: Dispersing of paints and mixing of powders in pharmaceutical industries. 
 5 Hours 
 Chapter 8. Sampling, Storage & Conveying of Solids and Miscellaneous Separation 
-Sampling of solids, Storage of solids, Open and closed storage, Bulk and bin storage, Conveyors – Belt, conveyors, 
+Sampling of solids, Storage of solids, Open and closed storage, Bulk and bin storage, Conveyors - Belt, conveyors, 
 Bucket conveyor, and Screw conveyor. 
 Magnetic separation, Electrostatic separation, Jigging, Heavy media separation, Froth flotation process. 
 5 Hours 
-
-## Page 45
-
-FMCD2009 / 2.0 45 
- 
-Textbooks 
+ ## Page 45
+ FMCD2009 / 2.0 45 
+  Textbooks 
 1. Warren McCabe, Julian Smith, Peter Harriott, Unit Operations of Chemical Engineering, 7th Edition 
-Paperback – 1 July 2017 
+Paperback - 1 July 2017 
 2. Anup Swain, Hemlata Patra, G K Roy, Mechanical Operations, July 2017, McGraw-Hill Education 
 3. Badger W.L. and Banchero J.T., "Introduction to Chemical Engineering", 3rd Edition Tata McGraw Hill 
 International Edition, Singapore, 1999 
@@ -2100,23 +1842,19 @@ International Edition, Singapore, 1999
 References 
 1. Foust, Alan S., Leonard A. Wenzel, Curtis W. Clump, Louis Maus, and L. Bryce Andersen. Principles of unit 
 operations. John Wiley & Sons, 2015. 
-
-## Page 46
-
-FMCD2009 / 2.0 46 
- 
-Back to Semester –III 
- 
-Program: Bachelor of Engineering Semester: III 
+ ## Page 46
+ FMCD2009 / 2.0 46 
+  Back to Semester -III 
+  Program: Bachelor of Engineering Semester: III 
 Course Title: Material and Energy Balance Calculations Course Code: 22ECEC203 
 L-T-P:4-0-0 Credits:4 Contact Hours:4 hrs/week 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:50 Examination Duration:3 hrs  
+Teaching Hours:50 Examination Duration:3 hrs 
 Unit - 1 
 Chapter 1. Basic Chemical Calculations: 
 Fundamental and derived units, Conversion, Dimensional consistency of equations, Dimensionless groups and 
 constants, conversions of equations. Mole, Mole fraction, Weight fraction, Volume fraction, Molarity, Molality , 
-ppm, Ideal gas law calculations, Partial pressure, Concept of vapour pressure.  
+ppm, Ideal gas law calculations, Partial pressure, Concept of vapour pressure. 
 10 Hours 
 Chapter 2. Material Balance Without Reaction: 
 General material balance equation for steady and unsteady state, Steady and unsteady process, Tie element, 
@@ -2130,34 +1868,31 @@ purging. Problems.
 10 Hours 
 Chapter 4. Steady State Material Balance with Reaction: 
 Principles of Stoichiometry, Stoichiometry coefficient, Concept of limiting, excess reactants, fractional and 
-percentage conversion, fractional yield and  percentage yield, selectivity, related problems, Calculations  involving 
+percentage conversion, fractional yield and percentage yield, selectivity, related problems, Calculations involving 
 burning of solid, liquid and gaseous fuels, excess air, air-fuel ratio calculations. 
 10 Hours 
 Unit - 3 
 Chapter No.5. Energy Balance: 
 General steady-state energy balance equation, Concept of enthalpy, Heat capacity, Heat of formation, Heat of 
 reaction, Heat of combustion and Calorific values. Heat of solution, Heat of mixing, Heat of crystallisation, 
-determination of ∆H°R at standard and  elevated temperatures, Theoretical flame temperature, and adiabatic 
+determination of ∆H°R at standard and elevated temperatures, Theoretical flame temperature, and adiabatic 
 flame temperature. 
 10 Hours 
 Textbooks 
-1. Bhatt B.I. and Vora S.M., “Stoichiometry (SI units)”, 3rd edition, 1996, Tata McGraw-Hill Publishing Ltd., New Delhi,1996 
-2. Hougen O.A., Watson K.M. and Ragatz R.A., “Chemical Process Principles - Part I”, “Material and Energy balances”, 2nd 
+1. Bhatt B.I. and Vora S.M., "Stoichiometry (SI units)", 3rd edition, 1996, Tata McGraw-Hill Publishing Ltd., New Delhi, 1996 
+2. Hougen O.A., Watson K.M. and Ragatz R.A., "Chemical Process Principles - Part I", "Material and Energy balances", 2nd 
 edition, CBS publishers and distributors, New Delhi 2004 
 References 
-1. Himmelblau D.M., “Basic principles and Calculations in Chemical Engineering”, 6th edition, Prentice Hall of India, New 
-Delhi,1997 
-
-## Page 47
-
-Back to Semester –III 
+1. Himmelblau D.M., "Basic principles and Calculations in Chemical Engineering", 6th edition, Prentice Hall of India, New 
+Delhi, 1997 
+ ## Page 47
+ Back to Semester -III 
 FMCD2009 / 2.0 47 
- 
-Program: Bachelor of Engineering Semester: III 
+  Program: Bachelor of Engineering Semester: III 
 Course Title: Chemical Process Industries Course Code: 22ECEC204 
 L-T-P:3-0-0 Credits:4 Contact Hours:4 hrs/week 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:50 Examination Duration:3 hrs  
+Teaching Hours:50 Examination Duration:3 hrs 
 Unit - 1 
 Chapter 1 Industrial gases 
 Basics of unit operations and unit processes in chemical process industries. 
@@ -2178,7 +1913,7 @@ Chapter 5 Petroleum industries and petrochemicals
 Origin and classification. Petroleum refining and processing. LPG, CNG, LNG technologies, Methane, Benzene. 
 5 Hours 
 Chapter 6 Polymers 
-Polymerisation, PVC, LDPE, Polyproylene, Cross-linked polymers, Natural rubber, Synthetic rubber and Rubber  
+Polymerisation, PVC, LDPE, Polyproylene, Cross-linked polymers, Natural rubber, Synthetic rubber and Rubber 
 compounding. 
 5 Hours 
 Unit - 3 
@@ -2189,27 +1924,24 @@ Chapter 8: Miscellaneous Industries
 Production of Paints, Pigments, Varnishes, Hydrogen peroxide (H2O2), Portland cement, and Silicon carbide. 
 5 Hours 
 Textbooks 
-1. Shreve’s Chemical Process Industries, 4th edn, McGraw-Hill. 
-2. Dryden – Outlines of Chemical Technology for the 21st Century, Gopal Rao & Marshall Sittig, 3rd edition, EWP. 
+1. Shreve's Chemical Process Industries, 4th edn, McGraw-Hill. 
+2. Dryden - Outlines of Chemical Technology for the 21st Century, Gopal Rao & Marshall Sittig, 3rd edition, EWP. 
 3. A Textbook of Chemical Technology Volume-1 and 2, S Chand publisher; Second edition 
 References 
 1. Encyclopedia of Chemical Technology, Kirk-Othmer, 27th volume, 5th ed., Wiley, 2004. 
 2. Unit Processes in Organic Chemical Industries, Desikan and Sivakumar (Eds.), CEDC, IITM, 1982. 
-3. Bose P.K., Chemical Engineering Technology, Vol -1,2, Books and Allied Pvt. Ltd 
-
-## Page 48
-
-Back to Semester –III 
+3. Bose P.K., Chemical Engineering Technology, Vol -1, 2, Books and Allied Pvt. Ltd 
+ ## Page 48
+ Back to Semester -III 
 FMCD2009 / 2.0 48 
- 
-Program: UG Semester: III 
+  Program: UG Semester: III 
 Course Title: Momentum Transfer Lab. Course Code: 22ECEP201 
 L-T-P:0-0-1 Credits:1 Contact Hours: 2hrs/week 
 ISA Marks:80 ESA Marks: 20 TotalMarks:100 
-Teaching Hours: 24 Examination Duration:3hrs  
+Teaching Hours: 24 Examination Duration:3hrs 
 Demonstration 
 1. Reynolds apparatus 
-2. Bernoulli’s Experiment 
+2. Bernoulli's Experiment 
 Exercise 
 1. Venturimeter 
 2. Orificemeter 
@@ -2224,17 +1956,14 @@ Structured Enquiry
 Text Books 
 1. Kumar K.L., Engineering Fluid Mechanics, S Chand & Co Ltd., 2008 
 2. Bansal R.K. A Textbook of Fluid Mechanics, Laxmi Publications Pvt Limited, 2005 
-
-## Page 49
-
-Back to Semester –III 
+ ## Page 49
+ Back to Semester -III 
 FMCD2009 / 2.0 49 
- 
-Program: UG Semester: III 
+  Program: UG Semester: III 
 Course Title: Particulate Technology Lab. Course Code: 22ECEP202 
 L-T-P:0-0-1 Credits:1 Contact Hours: 2hrs/week 
 ISA Marks:80 ESA Marks: 20 TotalMarks:100 
-Teaching Hours: 24 Examination Duration:3hrs  
+Teaching Hours: 24 Examination Duration:3hrs 
 Demonstration 
 1. Blaines Permeability 
 2. Beaker Decantation 
@@ -2248,18 +1977,14 @@ Exercise
 7. Air Elutriation 
 Structured Enquiry 
 1. Differential and Cumulative Analysis 
- 
-Text Books 
+  Text Books 
 1. Unit operations of chemical engineering by McCabe W. L. and Smith J. C, McGraw-Hill. 
 2. Coulson and Richardson's Chemical Engineering - Particle Technology And Separation Processes (Volume - 
 2) Richardson J. F. 
-
-## Page 50
-
-Back to Semester –III 
+ ## Page 50
+ Back to Semester -III 
 FMCD2009 / 2.0 50 
- 
-Program: UG Semester: III 
+  Program: UG Semester: III 
 Course Code: 22ECEP203 Course Title: Computer-Aided Drawing Lab. 
 L-T-P-SS:0-0-1 Credits: 1 Contact Hrs.: 02 Hrs./Week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
@@ -2273,22 +1998,19 @@ Equipment and piping symbols, Vessel components: Vessel openings, Manholes, Vess
 Vessel support, Jackets, Shell and tube heat exchanger, Reaction vessel and different types of 
 Evaporators. P & I Diagrams 
 3. Assembly drawings: 
-Joints: Cotter joint with sleeve, Socket and Spigot joint, Flanged pipe joint, Union joint, Stuffing box  
+Joints: Cotter joint with sleeve, Socket and Spigot joint, Flanged pipe joint, Union joint, Stuffing box 
 and Expansion joint (Screw type or flanged type) 
 Textbooks 
-1. Gopal Krishna K.R., “Machine Drawing”, 2nd revised edn., Subhas Stores, Bangalore, 1998 
-2. Bhat N.D., “Machine Drawing”, 22ndedn., Charoter Publishing House, Anand, 1987 
-3. Joshi M.V., “Process Equipment Design”, 3rd edn., Macmillan India publication, New Delhi, 1999 
+1. Gopal Krishna K.R., "Machine Drawing", 2nd revised edn., Subhas Stores, Bangalore, 1998 
+2. Bhat N.D., "Machine Drawing", 22ndedn., Charoter Publishing House, Anand, 1987 
+3. Joshi M.V., "Process Equipment Design", 3rd edn., Macmillan India publication, New Delhi, 1999 
 Reference Books: 
-1. Walas S.M., “Chemical Process Equipment”, Butterworth Heinemann Pub., 1999 
-2. Ludwig E.E., “Applied Process Design”, 3rd edn., Gulf Professional Publishing, New Delhi, 1994 
-
-## Page 51
-
-Back to Semester –III 
+1. Walas S.M., "Chemical Process Equipment", Butterworth Heinemann Pub., 1999 
+2. Ludwig E.E., "Applied Process Design", 3rd edn., Gulf Professional Publishing, New Delhi, 1994 
+ ## Page 51
+ Back to Semester -III 
 FMCD2009 / 2.0 51 
- 
-Program: UG Semester: III 
+  Program: UG Semester: III 
 Course Code: 22EHSC201 Course Title: Corporate Communication 
 L-T-P-SS:0-0-0.5 Credits : 0.5 Contact Hrs.: 02 Hrs./Week 
 ISA Marks: 100 ESA Marks: -- Total Marks: 100 
@@ -2310,24 +2032,20 @@ Vocabulary Enhancement Strategies, Root Words in English, Grammar Improvement Te
 Dictionary Usage, Similar and Contradictory Words. 
 References: 
 1. Diana Booher - Communicate With Confidence, McGraw-Hill Publishers 
-2. Norman Lewis – Word Power Made Easy, Goyal Publishers 
-3. Cambridge Advanced Learner’s Dictionary, Cambridge University Press. 
-
-## Page 52
-
-FMCD2009/2.0 52 
- 
-Curriculum Content - Course wise (Semester – 4) 
- 
-Program: Bachelor of Engineering Semester: IV 
+2. Norman Lewis - Word Power Made Easy, Goyal Publishers 
+3. Cambridge Advanced Learner's Dictionary, Cambridge University Press. 
+ ## Page 52
+ FMCD2009/2.0 52 
+  Curriculum Content - Course wise (Semester - 4) 
+  Program: Bachelor of Engineering Semester: IV 
 Course Title: Vector Calculus and Differential Equations Course Code:15EMAB241 
 L-T-P:4-0-0 Credits:4 Contact Hours:4 hrs/week 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:50 Examination Duration:3hrs  
+Teaching Hours:50 Examination Duration:3hrs 
 Unit I 
 Chapter 1. Vector Algebra 
 Vectors, Vector addition, multiplication (Dot and Cross products), Triple products, Vector functions, Vector 
-differentiation, Velocity and Acceleration of a vector point function.  
+differentiation, Velocity and Acceleration of a vector point function. 
 Chapter 2. Partial differentiation 
 Function of several variables, Partial derivatives, Chain rule, Errors and approximations. 
 Chapter 3. Multiple integrals 
@@ -2336,9 +2054,9 @@ problems.
 Unit II 
 Chapter 4. Vector Calculus 
 Vector fields, Gradient and directional derivatives, Line and Surface integrals. Independence of path andpotential 
-functions. Green’s theorem, Divergence of vector field, Divergence theorem, Curl of vector field. Stokes theorem. 
+functions. Green's theorem, Divergence of vector field, Divergence theorem, Curl of vector field. Stokes theorem. 
 Chapter 5. Differential equations of the second order 
-Differential equations of second and higher orders with constant coefficients, the  method of variation of 
+Differential equations of second and higher orders with constant coefficients, the method of variation of 
 parameters. 
 Unit III 
 Chapter 6. Partial differential equations 
@@ -2352,30 +2070,26 @@ Text Books
 2003 
 Reference Books: 
 1. Early Transcendental Calculus- James Stewart, Thomson Books, 5th ed, 2007 
-
-## Page 53
-
-FMCD2009/2.0 53 
- 
-Back to Semester –IV 
- 
-Program: UG Semester: IV 
+ ## Page 53
+ FMCD2009/2.0 53 
+  Back to Semester -IV 
+  Program: UG Semester: IV 
 Course Title: Numerical methods, Linear Algebra and Partial differential 
 equations 
 Course Code: 22EMAB206 
 L-T-P:3-1-0 Credits:4 Contact Hours: 4hrs/week 
 ISAMarks:50 ESAMarks:50 TotalMarks:100 
-TeachingHours:50 ExaminationDuration:3hrs  
+TeachingHours:50 ExaminationDuration:3hrs 
 Unit I 
 Chapter 1 Interpolation techniques 
-Finite differences, Forward, Backward and central difference operators.  Newton Gregory forward and 
-backward interpolation formulae. Sterling’s and Bessel’s formulae for central difference, Lagranges and 
-Newton’s divided difference formula for un equal intervals. Gas law problem -using interpolation. 
+Finite differences, Forward, Backward and central difference operators. Newton Gregory forward and 
+backward interpolation formulae. Sterling's and Bessel's formulae for central difference, Lagranges and 
+Newton's divided difference formula for un equal intervals. Gas law problem -using interpolation. 
 8 Hours 
 Chapter 2 Matrices and System of linear equations 
-Introduction to system of linear equations, Rank of a matrix by  elementary row transformations.  Consistency 
+Introduction to system of linear equations, Rank of a matrix by elementary row transformations. Consistency 
 of system of linear equations, solution of system by Direct methods -Gauss elimination, Gauss Jordon method . 
-Eigenvalues and Eigenvectors of a matrix. Diagonalization of a matrix.  
+Eigenvalues and Eigenvectors of a matrix. Diagonalization of a matrix. 
 12 Hours 
 Unit II 
 Chapter 3 Numerical solution of linear equations 
@@ -2383,15 +2097,15 @@ Solution of system of equations by Iterative methods - Gauss-Seidal method. Eige
 Eigenvector by power method. Spring mass system Falling parachutist using system of equations . 
 8 Hours 
 Chapter 4 Partial differential equations 
-Introduction, classification of PDE, Formation of PDE, Solution of equation of the type  Pp+Qq=R, Solution of 
+Introduction, classification of PDE, Formation of PDE, Solution of equation of the type Pp+Qq=R, Solution of 
 partial differential equation by direct integration methods, method of separation of variables. Modeling: 
-Vibration of one -dimensional string -wave equation and heat equation. Laplace equation.  Solution by method  
+Vibration of one -dimensional string -wave equation and heat equation. Laplace equation. Solution by method 
 of separation of variables. 
 12 Hours 
 Unit III 
 Chapter 5 Finite difference method. 
 (a) Finite difference approximations to derivatives, finite difference solution of parabolic PDE explicit and 
-Crank-Nicholson implicit methods. Engineering Problems: Temperature distribution in a heated plate.  
+Crank-Nicholson implicit methods. Engineering Problems: Temperature distribution in a heated plate. 
 (b) Hyperbolic PDE-explicit method, Elliptic PDE-initial-boundary value problems. Vibration of a stretched 
 string, steady-state heat flow. 
 10 Hours 
@@ -2405,17 +2119,14 @@ Reference Books:
 1. Burden R L and Douglas Faires J, Numerical Analysis, 7th ed., Thomson publishers, 2006. 
 2. Simmons G F and Krantz S G, Differential Equations, TATA McGraw-Hill, 2007. 
 3. Sastry S S, Introductory method for numerical analysis, 3rd ed., PHI, 2003 
-
-## Page 54
-
-Back to Semester –IV 
+ ## Page 54
+ Back to Semester -IV 
 FMCD2009/2.0 54 
- 
-Program: UG Semester: IV 
+  Program: UG Semester: IV 
 Course Title: Industrial Pollution and Control Course Code: 22ECEC205 
 L-T-P:3-0-0 Credits:3 Contact Hours: 3 hrs/week 
 ISAMarks:50 ESAMarks:50 TotalMarks:100 
-Teaching Hours: 40 Examination Duration: 3hrs  
+Teaching Hours: 40 Examination Duration: 3hrs 
 Unit I 
 Chapter 1. Introduction 
 Importance of the environment for mankind. Biosphere and layers of the atmosphere. Hydrological cycle and 
@@ -2424,7 +2135,7 @@ Legislation and Environmental Acts in India. Functions of the central and state 
 7 Hours 
 Chapter 2. Sources, Sampling and Analysis of Wastewater 
 Sources, Sampling and Analysis of Wastewater: Water Resources. Origin of wastewater. Evaluation, 
-classification and characterisation of  wastewater. Physical and chemical characteristics. BOD, COD and their 
+classification and characterisation of wastewater. Physical and chemical characteristics. BOD, COD and their 
 importance. Types of water pollutants and their effects. 
 8 Hours 
 Unit II 
@@ -2433,7 +2144,7 @@ Preliminary, primary, secondary and tertiary treatments of wastewater. Sludge
 Treatment and disposal. Advanced wastewater treatment. Recovery of materials from process effluents 
 8 Hours 
 Chapter 4. Applications to Industries 
-Norms and standards of treated water. Origin, characteristics, and treatment methods in typical industries – 
+Norms and standards of treated water. Origin, characteristics, and treatment methods in typical industries - 
 petroleum refinery, pulp and paper, distillery, and textile processing. 
 7 Hours 
 Unit III 
@@ -2451,34 +2162,31 @@ Reference Books:
 Home Pvt. Ltd., New Delhi, 2010. 
 2. Air Pollution, H.C. Perkins, McGraw-Hill, 1974. 
 3. Industrial Pollution Control Handbook, Lund, H.F., 6th edn, Vol.1, McGraw-Hill, 1971 
-
-## Page 55
-
-Back to Semester –IV 
+ ## Page 55
+ Back to Semester -IV 
 FMCD2009/2.0 55 
- 
-Program: UG Semester: IV 
+  Program: UG Semester: IV 
 Course Title: Process Heat Transfer Course Code: 22ECEC206 
 L-T-P:4-0-0 Credits:3 Contact Hours: 5hrs/week 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:50 Examination Duration: 03  
+Teaching Hours:50 Examination Duration: 03 
 Unit I 
 Chapter 1. Conduction & Extended Surfaces 
-Modes of heat transfer, Fourier’s law, Steady state unidirectional heat flow through single and multiphase layers 
-slabs, cylinders, and spheres for constant and variable thermal conductivity —properties of insulation materials, 
+Modes of heat transfer, Fourier's law, Steady state unidirectional heat flow through single and multiphase layers 
+slabs, cylinders, and spheres for constant and variable thermal conductivity -properties of insulation materials, 
 Types of insulation, Critical and Optimum thickness. 
-Fins – Types of fins, Derivation of fin efficiency for longitudinal fins, Fin effectiveness, and Elementary treatment 
+Fins - Types of fins, Derivation of fin efficiency for longitudinal fins, Fin effectiveness, and Elementary treatment 
 of unsteady state heat conduction. 
 10 Hours 
 Chapter 2. Convection & Heat Transfer with Phase Change 
-Individual and  overall heat transfer coefficient, LMTD, LMTD correction factor, Dimensionless numbers, and 
+Individual and overall heat transfer coefficient, LMTD, LMTD correction factor, Dimensionless numbers, and 
 Dimensional analysis, Empirical correlation for forced and natural convection. The analogy between momentum 
 and heat transfer- Reynolds, Colburn and Prandtl analogies. 
 Boiling phenomena: Nucleate and Film boiling, Condensation - Film and Dropwise condensation. 
 10 Hours 
 Unit II 
 Chapter 3. Heat Transfer Equipment 
-Double pipe heat exchangers, Shell & tube heat exchangers – Types of shell & tube heat exchangers, 
+Double pipe heat exchangers, Shell & tube heat exchangers - Types of shell & tube heat exchangers, 
 Construction details, Condenser, types of condensers. 
 8 Hours 
 Chapter 4. Design of Heat Transfer Equipment 
@@ -2487,66 +2195,62 @@ Problems.
 12 Hours 
 Unit III 
 Chapter 5. Evaporators & Radiation 
-Types of evaporators, the performance of tubular evaporators – Evaporator capacity, Evaporator economy, 
-Multiple effect evaporators – Methods of feeding, the effect of liquid head and boiling point elevation.  
+Types of evaporators, the performance of tubular evaporators - Evaporator capacity, Evaporator economy, 
+Multiple effect evaporators - Methods of feeding, the effect of liquid head and boiling point elevation. 
 Properties and definitions, Absorptivity, Reflectivity, Emissive power and intensity of radiation, Black body 
-radiation, gray body radiation, Stefan–Boltzmann law, Wein’s displacement law, Kirchhoff’s law. 
+radiation, gray body radiation, Stefan-Boltzmann law, Wein's displacement law, Kirchhoff's law. 
 10 Hours 
 Text Books 
-1. Kern D.Q., “Process Heat Transfer”, McGraw-Hill., New York, 2001 
+1. Kern D.Q., "Process Heat Transfer", McGraw-Hill., New York, 2001 
 2. Warren McCabe, Julian Smith, Peter Harriott, Unit Operations of Chemical Engineering, 7th Edition, 
 McGraw-Hill Education, 2017. 
-3. Dutta, Binay K., “Heat Transfer: Principles and Applications”, PHI Learning. 2000 
-4. Rao Y.V.C., “Heat Transfer”, 1st ed. Universities Press (India) Ltd., New Delhi, 2001 
+3. Dutta, Binay K., "Heat Transfer: Principles and Applications", PHI Learning. 2000 
+4. Rao Y.V.C., "Heat Transfer", 1st ed. Universities Press (India) Ltd., New Delhi, 2001 
 Reference Books: 
 Coulson J.M. and Richardson J.F. with Backhurst J.R. and Marker J.H., Coulson J.M. Chemical Engineering, Vol. 1, 
 6th Edition, Butterworth-Heinemann New Delhi, 1999 
-
-## Page 56
-
-Back to Semester –IV 
+ ## Page 56
+ Back to Semester -IV 
 FMCD2009/2.0 56 
- 
-Program: UG Semester: IV 
+  Program: UG Semester: IV 
 Course Title: Chemical Engineering Thermodynamics Course Code: 22ECEC207 
 L-T-P: 4-0-0 Credits: 4 Contact Hours: 4hrs/week 
 ISA Marks: 50 ESA Marks:50 TotalMarks:100 
-Teaching Hours:50 Examination Duration:3hrs.  
+Teaching Hours:50 Examination Duration:3hrs. 
 Unit I 
 Chapter 1. Basic Concepts 
 Scope of thermodynamics, System, Surroundings and processes, Closed and Open systems, state and 
 Properties, Intensive and Extensive Properties, State and Path functions, equilibrium state and Phase rule, 
 Zeroth law of thermodynamics, Heat reservoir and Heat engines, Reversible and Irreversible processes. 
 First Law of Thermodynamics: Internal energy, General statement of First law of thermodynamics, First law of 
-thermodynamics for cyclic process, non-flow processes and steady state flow process,  Heat capacity. 
+thermodynamics for cyclic process, non-flow processes and steady state flow process, Heat capacity. 
 10 Hours 
- 
-Chapter 2. PVT Behaviour 
+  Chapter 2. PVT Behaviour 
 P-V-T behaviour of pure fluids, Equations of state and ideal gas law, Processes involving ideal gas law, constant 
 volume, constant pressure, constant temperature, adiabatic and polytropic processes, Processes in volving 
 ideal gas law: Constant volume, constant pressure, constant temperature, adiabatic and polytropic processes. 
-Equation of state for real gases, van der Waals equation, Redlich –Kwong equation, Peng –Robinson equation, 
-Virial  equation.  Numerical.  Compressibility  charts:  Principles  of  corresponding  states. 
+Equation of state for real gases, van der Waals equation, Redlich -Kwong equation, Peng -Robinson equation, 
+Virial equation. Numerical. Compressibility charts: Principles of corresponding states. 
 10 Hours 
 Unit II 
 Chapter 3. Second Law of Thermodynamics 
 General statements of the Second Law. Concept of Entropy and numerical analysis of Entropy. The Carnot 
-Principle: Calculation of Entropy Changes and Clausius Inequality.  
+Principle: Calculation of Entropy Changes and Clausius Inequality. 
 06 Hours 
 Chapter 4. Thermodynamic Properties of Pure Fluids 
 Properties, Energy Properties, Derived Properties, Work function, Gibbs free energy, Fundamental property 
-relations, Maxwell’s equations, Clapeyron equations, Numerical based on Clapeyron equation, Entropy heat 
+relations, Maxwell's equations, Clapeyron equations, Numerical based on Clapeyron equation, Entropy heat 
 capacity relations, Relationships between CP& Cv, Gibbs Helmholtz equation, Fugacity, Fugacity coefficient, 
-Effect of temperature and pressure on Fugacity, Activity, Effect of temperature and pressure on activity.  
+Effect of temperature and pressure on Fugacity, Activity, Effect of temperature and pressure on activity. 
 08 Hours 
 Chapter 5 Properties of Solutions 
 Partial molar properties, Chemical potential, Effect of temperature and pressure on chemical potential, 
-Fugacity in solutions, Henry’s law and dilute solutions, Lewis Randall rule, Raoult's law, Activity in solutions, 
-Activity coefficients, Gibbs–Duhem’s equation. 
+Fugacity in solutions, Henry's law and dilute solutions, Lewis Randall rule, Raoult's law, Activity in solutions, 
+Activity coefficients, Gibbs-Duhem's equation. 
 06 Hours 
 Unit III 
 Chapter 6 Phase equilibria 
-Criteria of phase equilibria, Criterion of stability, Vapour –Liquid Equilibria,  VLE in ideal solutions, Non -Ideal 
+Criteria of phase equilibria, Criterion of stability, Vapour -Liquid Equilibria, VLE in ideal solutions, Non -Ideal 
 solutions, Boiling point diagram. 
 04 Hours 
 Chapter 7 Chemical Reaction Equilibrium 
@@ -2555,38 +2259,35 @@ energy change, Effect of temperature, Pressure on equilibrium constants and othe
 equilibrium conversion. 
 06 Hours 
 Text Books 
-1. Smith J.M. and Vanness H. C., “Introduction to Chemical Engineering Thermodynamics”, 8th ed., 
+1. Smith J.M. and Vanness H. C., "Introduction to Chemical Engineering Thermodynamics", 8th ed., 
 McGraw-Hill, New York. 
-2. Narayanan K.V., “Textbook of Chemical Engineering Thermodynamics”, Prentice Hall of India Private 
+2. Narayanan K.V., "Textbook of Chemical Engineering Thermodynamics", Prentice Hall of India Private 
 Limited, New Delhi, 2013 
-
-## Page 57
-
-Back to Semester –IV 
+ ## Page 57
+ Back to Semester -IV 
 FMCD2009/2.0 57 
- 
-Program: U G Semester: IV 
+  Program: U G Semester: IV 
 Course Title: Material Science and Engineering Course Code: 22ECEC208 
 L-T-P:3-0-0 Credits: 3 Contact Hours: 3hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks:100 
-Teaching Hours:40 Examination Duration:3hrs  
+Teaching Hours:40 Examination Duration:3hrs 
 Unit I 
 Chapter 1 Introduction 
 Introduction to material science, Classification of engineering materials, Properties of materials and Level of 
 structure. Atomic structure and atomic bonding. 
 5 Hours 
 Chapter 2: Crystal geometry and structure determination 
-The geometry of crystals – the Bravais lattices, Crystal directions and planes – the Miller indices, Structure 
-determination by X–Ray diffraction – Bragg law and Powder method. 
+The geometry of crystals - the Bravais lattices, Crystal directions and planes - the Miller indices, Structure 
+determination by X-Ray diffraction - Bragg law and Powder method. 
 5 Hours 
 Chapter 3 Crystal imperfections 
-Point Imperfections, Line imperfections – edge and screw dislocations, the Burgers vector, Surface 
+Point Imperfections, Line imperfections - edge and screw dislocations, the Burgers vector, Surface 
 imperfections and Volume imperfections 
 5 Hours 
 Unit II 
 Chapter 4 Phase diagram and phase transformations 
-Phase rule, Single component systems, Binary phase diagrams, Lever rule, Typical phase diagrams for  
-Magnesia-Alumina, Copper –Zinc, iron –carbon systems, Nucleation and growth, Solidification, and Allotropic 
+Phase rule, Single component systems, Binary phase diagrams, Lever rule, Typical phase diagrams for 
+Magnesia-Alumina, Copper -Zinc, iron -carbon systems, Nucleation and growth, Solidification, and Allotropic 
 transformation. 
 6 Hours 
 Chapter 5 Deformation of materials and fracture 
@@ -2598,31 +2299,28 @@ Annealing, normalising, Hardening, Martempering, Austempering, Hardenability, Qu
 Unit III 
 Chapter 7 Corrosion and Its Prevention 
 Direct corrosion, Electrochemical corrosion, Galvanic cells, High -temperature corrosion, Passivity factors 
-influencing corrosion rate, Corrosion Control and prevention, Inhibitors, Protective coatings  
+influencing corrosion rate, Corrosion Control and prevention, Inhibitors, Protective coatings 
 5 Hours. 
 Chapter 8: Typical engineering materials 
-Ferrous metals, Non -ferrous metals and alloys – Aluminium and its alloys, Copper and its alloys, Lead and its 
+Ferrous metals, Non -ferrous metals and alloys - Aluminium and its alloys, Copper and its alloys, Lead and its 
 alloys, Tin, Zinc and its alloys, Alloys for high -temperature service, Ceramic materials, Refractories, Glasses, 
 abrasives, Plastics, fibres and elastomers, Organic protective coatings. 
 5 Hours. 
 Text Books 
-1. Raghavan V., “Materials Science and Engineering – A First Course”, 6th Edition. Prentice Hall of India Pvt. 
+1. Raghavan V., "Materials Science and Engineering - A First Course", 6th Edition. Prentice Hall of India Pvt. 
 Ltd., New Delhi, 2021 
-2. Hajra Choudhury S.K., “Materials Science and Processes”, Indian Book Distributing Co., 1982 
+2. Hajra Choudhury S.K., "Materials Science and Processes", Indian Book Distributing Co., 1982 
 Reference Books: 
 1. Elements of Materials Science and Engineering (Addison-Wesley Series in Metallurgy & Materials 
-Engineering) by L. H. Van Vlack – 1 January 1989 
-
-## Page 58
-
-Back to Semester –IV 
+Engineering) by L. H. Van Vlack - 1 January 1989 
+ ## Page 58
+ Back to Semester -IV 
 FMCD2009/2.0 58 
- 
-Program: UG Semester: IV 
+  Program: UG Semester: IV 
 Course Title: Computer-based Chemical Calculations Lab. Course Code: 22ECEP204 
 L-T-P:2-0-0 Credits:2 Contact Hours: 2hrs/week 
 ISA Marks:80 ESA Marks: 20 TotalMarks:100 
-Teaching Hours: 24 Examination Duration:3hrs  
+Teaching Hours: 24 Examination Duration:3hrs 
 Demonstration 
 1. Unit Conversions and determination of thermodynamic properties using a spreadsheet 
 2. Solution of simultaneous linear equations using a spreadsheet 
@@ -2640,20 +2338,17 @@ Text Books
 1. Felder, Richard M., Ronald W. Rousseau, and Lisa G. Bullard. Elementary principles of chemical 
 processes. John Wiley & Sons, 2020 
 2. Binay K. Dutta, Heat Transfer: Principles and Applications, 2nd ed., PHI Learning Pvt. Ltd., 2023 
-3. Rao Y.V.C., “Heat Transfer”, 1st ed. Universities Press (India) Ltd., New Delhi, 2001 
+3. Rao Y.V.C., "Heat Transfer", 1st ed. Universities Press (India) Ltd., New Delhi, 2001 
 4. Ahuja, Pradeep. Introduction to Numerical Methods in Chemical Engineering. Prentice Hall India 
 Learning Private Limited, 2010 
-
-## Page 59
-
-Back to Semester –IV 
+ ## Page 59
+ Back to Semester -IV 
 FMCD2009/2.0 59 
- 
-Program: UG Semester: IV 
+  Program: UG Semester: IV 
 Course Title: Process Heat Transfer Lab. Course Code: 22ECEP205 
 L-T-P:0-0-1 Credits:1 Contact Hours: 2hrs/week 
 ISA Marks:80 ESA Marks: 20 Total Marks:100 
-Teaching Hours: 24 Examination Duration:3hrs  
+Teaching Hours: 24 Examination Duration:3hrs 
 Demonstration 
 1. Dropwise & Film-wise condensation 
 2. Fluidized bed 
@@ -2668,28 +2363,25 @@ Exercise
 Structured Enquiry 
 1. Heat exchanger (Double Pipe & Shell & Tube) 
 Text Books 
-1. Kern D.Q., “Process Heat Transfer”, McGraw-Hill., New York, 2001 
+1. Kern D.Q., "Process Heat Transfer", McGraw-Hill., New York, 2001 
 2. Warren McCabe, Julian Smith, Peter Harriott, Unit Operations of Chemical Engineering, 7th 
 Edition, McGraw-Hill Education, 2017. 
-5.  Binay K. Dutta, Heat Transfer: Principles and Applications, 2nd ed., PHI Learning Pvt. Ltd., 2023 
-3. Rao Y.V.C., “Heat Transfer”, 1st ed. Universities Press (India) Ltd., New Delhi, 2001 
+5. Binay K. Dutta, Heat Transfer: Principles and Applications, 2nd ed., PHI Learning Pvt. Ltd., 2023 
+3. Rao Y.V.C., "Heat Transfer", 1st ed. Universities Press (India) Ltd., New Delhi, 2001 
 Reference Books: 
 1. Coulson J.M. and Richardson J.F. with Backhurst J.R. and Marker J.H., Coulson J.M. Chemical Engineering, 
 Vol. 1, 6th Edition, Butterworth-Heinemann New Delhi, 1999 
-
-## Page 60
-
-Back to Semester –IV 
+ ## Page 60
+ Back to Semester -IV 
 FMCD2009/2.0 60 
- 
-Program: UG Semester: IV 
+  Program: UG Semester: IV 
 Course Title: Technical Chemistry Lab. Course Code: 22ECEP206 
 L-T-P:2-0-0 Credits:2 Contact Hours: 2hrs/week 
 ISA Marks:80 ESA Marks: 20 TotalMarks:100 
-Teaching Hours: 24 Examination Duration:3hrs  
+Teaching Hours: 24 Examination Duration:3hrs 
 Demonstration 
 1. Colorimetric estimation of copper 
-2. Estimation of dissolved oxygen in a given water sample by Winkler’s method 
+2. Estimation of dissolved oxygen in a given water sample by Winkler's method 
 Exercise 
 1. To determine the rate of constant and order of the reaction of the hydrolysis of an ester (methyl 
 acetate) catalysed by an acid (dilute HCl) 
@@ -2701,28 +2393,25 @@ acetate) catalysed by an acid (dilute HCl)
 6. Determination of calcium oxide in cement solution by the rapid EDTA method 
 7. Conductometric estimation of strong and weak acids from a given mixture using a standard NaOH 
 solution 
-8. Determination of the viscosity coefficient of a given liquid using Ostwald’s viscometer 
+8. Determination of the viscosity coefficient of a given liquid using Ostwald's viscometer 
 9. Potentiometric estimation of FAS using standard K2Cr2O7 solution 
 10. Estimation of the percentage of available chlorine in the given sample of bleaching powder 
 (Iodometric method) 
 Text Books 
-1. Arun Bahl and Bahl B.S., “A textbook of Organic Chemistry”, 15th edn., Chand S. and Company, New Delhi, 
+1. Arun Bahl and Bahl B.S., "A textbook of Organic Chemistry", 15th edn., Chand S. and Company, New Delhi, 
 1998 
-2. Morrison B.R. and Boyd L.L., “Organic Chemistry”, 6th edn, ELBS, New Delhi, 1998 
-3. Tiwari, Melhotra, and Vishnoi, “Organic Chemistry”, 7th ed., Chand S. and Company, New Delhi, 1996 
-4. Puri L.R. and Sharma B.R., “Physical Chemistry”, 14th ed., Chand S. and Company, New Delhi, 1998 
-5. James Huheey, “Inorganic Chemistry,” 19th ed. Wiley Publishers, New Delhi, 19 
-
-## Page 61
-
-Back to Semester –IV 
+2. Morrison B.R. and Boyd L.L., "Organic Chemistry", 6th edn, ELBS, New Delhi, 1998 
+3. Tiwari, Melhotra, and Vishnoi, "Organic Chemistry", 7th ed., Chand S. and Company, New Delhi, 1996 
+4. Puri L.R. and Sharma B.R., "Physical Chemistry", 14th ed., Chand S. and Company, New Delhi, 1998 
+5. James Huheey, "Inorganic Chemistry," 19th ed. Wiley Publishers, New Delhi, 19 
+ ## Page 61
+ Back to Semester -IV 
 FMCD2009/2.0 61 
- 
-Program: UG Semester: IV 
+  Program: UG Semester: IV 
 Course Title: Problem Solving & Analysis Course Code: 22EHSH202 
 L-T-P:2-0-0 Credits:2 Contact Hours: 2hrs/week 
 ISAMarks:100 ESA Marks: 0 TotalMarks:100 
-Teaching Hours: 16 Examination Duration:  
+Teaching Hours: 16 Examination Duration: 
 Content 
 Chapter 1. Analytical Thinking 
 Analysis of Problems, Puzzles for practice, Human Relations, Direction Tests; Looking for Patterns: Number and 
@@ -2739,36 +2428,32 @@ Problem Solving using Analogies, Sentence Completion.
 Chapter 4. Discussions & Debates 
 Team efforts in Problem Solving: A Zero Group Discussion, Mock Group Discussions, and Feedback; Discussion 
 v/s Debate; Starting a Group Discussion: Recruitment and other Corporate Scenarios; Evaluation Parameters in a 
-Recruitment Group Discussion, Types of Initiators: Verbal and Thought, Conclusion of a Discussion.  
+Recruitment Group Discussion, Types of Initiators: Verbal and Thought, Conclusion of a Discussion. 
 4 Hours 
 Reference Books: 
-1. R. S. Aggarwal, “A Modern Approach to Verbal and Non–Verbal Reasoning”, Sultan Chand and Sons, New 
+1. R. S. Aggarwal, "A Modern Approach to Verbal and Non-Verbal Reasoning", Sultan Chand and Sons, New 
 Delhi, 2018 
-2. R. S. Aggarwal, “Quantitative Aptitude”, Sultan Chand and Sons, New Delhi, 2018 
-3. Chopra, “Verbal and Non–Verbal Reasoning”, Macmillan India 
-4. M Tyra, “Magical Book on Quicker Maths”, BSC Publications, 2018 
+2. R. S. Aggarwal, "Quantitative Aptitude", Sultan Chand and Sons, New Delhi, 2018 
+3. Chopra, "Verbal and Non-Verbal Reasoning", Macmillan India 
+4. M Tyra, "Magical Book on Quicker Maths", BSC Publications, 2018 
 5. Diana Booher - Communicate With Confidence, McGraw-Hill Publishers 
-6. Norman Lewis – Word Power Made Easy, Goyal Publishers 
-7. Cambridge Advanced Learner’s Dictionary, Cambridge University Press. 
-8. Kaplan’s GRE guide 
-
-## Page 62
-
-FMCD2009 / 2.0 62 
- 
-Curriculum Content - Course wise (Semester – 5) 
- 
-Program: Bachelor of Engineering Semester: V 
+6. Norman Lewis - Word Power Made Easy, Goyal Publishers 
+7. Cambridge Advanced Learner's Dictionary, Cambridge University Press. 
+8. Kaplan's GRE guide 
+ ## Page 62
+ FMCD2009 / 2.0 62 
+  Curriculum Content - Course wise (Semester - 5) 
+  Program: Bachelor of Engineering Semester: V 
 Course Title: Numerical Methods and Statistics Course Code:24EMAB301 
 L-T-P:3-0-1 Credits:4 Contact Hours:6Hrs/week 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration:3 Hrs  
+Teaching Hours:40 Examination Duration:3 Hrs 
 Unit I 
 Chapter 1. Numerical Methods: 
 Introduction to numerical methods. Roots of equations using Bisection Method, Newton - Raphson Method, 
 Finite differences, Forward, Backward Operators. Newton Gregory forward and backward interpolation 
-formulae. Newton’s divided difference formula for unequ al intervals. Numerical solution of first order ODE, 
-Euler’s and Modified Euler’s method, Runge -Kutta 4 th order method. Implementation using Python 
+formulae. Newton's divided difference formula for unequ al intervals. Numerical solution of first order ODE, 
+Euler's and Modified Euler's method, Runge -Kutta 4 th order method. Implementation using Python 
 programming. 
 8 Hours 
 Chapter 2. Matrices and Systems of Linear Equations: 
@@ -2784,7 +2469,7 @@ Introduction to method of least squares, fitting of curves y = a + bx, y = ab x,
 regression. 
 5 Hours 
 Chapter 4. Probability: 
-Definition of probability, addition rule, conditional probability, multiplication rule, Baye’s rule. (no proof) 
+Definition of probability, addition rule, conditional probability, multiplication rule, Baye's rule. (no proof) 
 Discrete and continuous random variables - PDF-CDF- Binomial, Poisson and Normal distributions (Problems 
 only). 
 9 Hours 
@@ -2792,31 +2477,27 @@ Unit III
 Chapter 5. Sampling distributions: 
 (a) Sampling, Sampling distribution, Standard error, Null and alternate hypotheses, Type -I and Type- IIerrors, 
 Level of significance. Confidence limits for means (large sample). 
-(b) Testing of the hypothesis for means. Large and small samples and Student’s t- t-distributionand Confidence 
+(b) Testing of the hypothesis for means. Large and small samples and Student's t- t-distributionand Confidence 
 limits for means (small sample). 
 10 Hours 
 Text Books 
 1. Bali and Iyengar, A textbook of Engineering Mathematics, 6th ed., Laxmi Publications(p) Ltd, New 
-Delhi,2003 
+Delhi, 2003 
 2. Chapra S C and Canale R P, Numerical Methods for Engineers, 5th ed., TATA McGraw-Hill, 2007 
 3. Gupta S C and Kapoor V K, Fundamentals of Mathematical Statistics, 9 th ed., Sultan Chand & Sons, New 
 Delhi, 2002 
 Reference Books: 
 1. Sastry S S, Introductory method for numerical analysis, 3rd Ed, PHI, 2003. 
-2. J. Susan Milton, Jesse C. Arnold, Introduction to Probability and Statistics: Principles and Applications  for 
+2. J. Susan Milton, Jesse C. Arnold, Introduction to Probability and Statistics: Principles and Applications for 
 Engineering and the Computing Sciences, 4th Ed, TATA McGraw-Hill Edition 2007. 
-
-## Page 63
-
-FMCD2009 / 2.0 63 
- 
-Back to Semester – V 
- 
-Program: Bachelor of Engineering Semester: V 
+ ## Page 63
+ FMCD2009 / 2.0 63 
+  Back to Semester - V 
+  Program: Bachelor of Engineering Semester: V 
 Course Title: Process Engineering Economics & Plant Design Course Code:22ECEC301 
 L-T-P:3-0-0 Credits:3 Contact Hours:3Hrs/week 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration:3 Hrs  
+Teaching Hours:40 Examination Duration:3 Hrs 
 Unit I 
 Chapter 1: Process Design Development: 
 Overall planning of a plant, Feasibility studies and Material and energy balance, Equipment sizing and selection, 
@@ -2832,7 +2513,7 @@ Chapter 3: Depreciation, Taxes, and Profitability:
 Types of Depreciation and calculation methods Theory of profitability and its evaluation methods. 
 07 hours 
 Chapter 4: Replacements & Alternatives Investments: 
-Theory of replacements, causes for replacements, types of replacements, Theory of alternative investments,  
+Theory of replacements, causes for replacements, types of replacements, Theory of alternative investments, 
 and causes for the same. 
 08 hours 
 Unit III 
@@ -2847,22 +2528,19 @@ Text Books
 Edn., McGraw Hill Education, 2017 
 3. Process Engineering Economics (Chemical Industries) by James Riley Couper, CRC Press, 2003 
 Reference Books: 
-1.  Chemical Engineering Process Design and Economics, a Practical Guide by Gael D. Ulrich, 2016 
-
-## Page 64
-
-Back to Semester – V 
+1. Chemical Engineering Process Design and Economics, a Practical Guide by Gael D. Ulrich, 2016 
+ ## Page 64
+ Back to Semester - V 
 FMCD2009 / 2.0 64 
- 
-Program: Bachelor of Engineering Semester: V 
+  Program: Bachelor of Engineering Semester: V 
 Course Title: Computer Applications, Modeling & Simulation Course Code: 22ECEC302 
 L-T-P:3-1-0 Credits:4 Contact Hours:4 Hrs/week 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration:3 Hrs  
+Teaching Hours:40 Examination Duration:3 Hrs 
 Unit I 
 Chapter 1: Review of Computational Methods: 
 Non-linear Algebraic equation - Newton Raphson. Ordinary Differential Equation - R-K Method. Numerical 
-Integration Simpson’s 1/3 Rule. Curve Fitting -Least Squares, Specific volume by Redlich Kwong equation, 
+Integration Simpson's 1/3 Rule. Curve Fitting -Least Squares, Specific volume by Redlich Kwong equation, 
 Batch Reactor, Liquid level in a tank, Nre Vs FF, and Arrhenius equation. 
 10 hours 
 Chapter 2: Applications of Vapour: Liquid Equilibrium 
@@ -2879,12 +2557,12 @@ of column).
 10 hours 
 Chapter 4: Modeling: 
 Models and model building, principles of model formulations, precautions in model building, Fundamental 
-laws: Review of shell balance approa ch, continuity equation, energy equation, equation  of motion, transport 
-equation of state equilibrium and Kinetics, classification of mathematical models.  
+laws: Review of shell balance approa ch, continuity equation, energy equation, equation of motion, transport 
+equation of state equilibrium and Kinetics, classification of mathematical models. 
 10 hours 
 Unit III 
 Chapter 5: Mathematical Modeling of Process Equipment: 
-Basic tank model – Level V/s time, Heat exchanger, Batch Distillation – Vapour composition with CSTRs in 
+Basic tank model - Level V/s time, Heat exchanger, Batch Distillation - Vapour composition with CSTRs in 
 series. Data-Driven Soft Sensors in the Process Industry. 
 10 hours 
 Text Books 
@@ -2900,31 +2578,28 @@ Inc., 2005.
 Reference Books: 
 1. Coulson J.M. and Richardson J.F. with Backhurst J.R. and Marker J.H., Coulson J.M. Chemical Engineering, 
 Vol. 1, 6th edition, Butter worth-Heinemann New Delhi, 1999 
-
-## Page 65
-
-Back to Semester – V 
+ ## Page 65
+ Back to Semester - V 
 FMCD2009 / 2.0 65 
- 
-Program: Bachelor of Engineering Semester: V 
+  Program: Bachelor of Engineering Semester: V 
 Course Title: Bioprocess Engineering Course Code: 22ECEC303 
 L-T-P:3-1-0 Credits:4 Contact Hours:4Hrs/week 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration:3 Hrs  
+Teaching Hours:40 Examination Duration:3 Hrs 
 Unit I 
 Chapter 1: Introduction: 
 Bioprocess engineering and technology. Role of a Chemical engineer in bioprocess industry. Microbiology: 
 Structure of cells: Prokaryotes and Eukaryotes. Classification of micro -organisms. Taxonomy, control of 
-microorganisms – physical and chemical methods.  Chemicals of Life: Lipids, Sugars, Polysaccharides, Amino 
+microorganisms - physical and chemical methods. Chemicals of Life: Lipids, Sugars, Polysaccharides, Amino 
 acids. Vitamins, Biopolymers, Nucleic Acids: RNA, DNA, and their derivatives (Structure, Biological function 
 and Importance for life only to be studied). 
 7 hours 
 Chapter 2: Kinetics of Enzyme action: 
 Detailed structure of proteins and enzymes. Functions. Methods of Production and purification of Enzymes. 
-Nomenclature and Classification of enzymes. Kinetics and mechanism of Enzyme action: Michaelis –Menten, 
+Nomenclature and Classification of enzymes. Kinetics and mechanism of Enzyme action: Michaelis -Menten, 
 Briggs-Haldane approach. Derivation. Reversi ble Enzyme. Two -substrate. Multi -complexes enzyme kinetics 
 (Derivation of rate equations). Experimental determination of rate parameters: Batch and continuous flow 
-experiments. Line weaver –Burk, Eadie -Hofstee and Hanes -Woolf Plots. Batch Kinetics (Integral  and 
+experiments. Line weaver -Burk, Eadie -Hofstee and Hanes -Woolf Plots. Batch Kinetics (Integral and 
 Differential methods). 
 8 hours 
 Unit II 
@@ -2939,7 +2614,7 @@ reactors: Operation and maintenance of typical aseptic aerobic fermentation proc
 medium: Sources of nutrients. Introduction to sterilization of bioprocess equipment, Fed -batch reactors. 
 Growth Kinetics of Microorganisms : Transient growth kinetics (Different phases of batch cultivation). 
 Quantification of growth kinetics: Substrate limited growth, Models with growth inhibitors, Continuous 
-culture: Optimum Dilution rate and washout condition in Ideal Chemostat.  
+culture: Optimum Dilution rate and washout condition in Ideal Chemostat. 
 8 hours 
 Unit III 
 Chapter 5: Downstream Processing: 
@@ -2953,17 +2628,14 @@ Text Books
 Reference Books: 
 3. Principles of Fermentation Technology, Peter Stanbury, Allan Whitaker, Stephen J. Hall, 3rd Edition, Butterworth- 
 Heinemann an Imprint of Elsevier, 2016 
-
-## Page 66
-
-Back to Semester – V 
+ ## Page 66
+ Back to Semester - V 
 FMCD2009 / 2.0 66 
- 
-Program: Bachelor of Engineering Semester: V 
+  Program: Bachelor of Engineering Semester: V 
 Course Title: Mass Transfer Course Code: 22ECEC304 
 L-T-P:3-1-0 Credits:4 Contact Hours:4Hrs/week 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration:3 Hrs  
+Teaching Hours:40 Examination Duration:3 Hrs 
 Unit I 
 Chapter 1. Introduction 
 Diffusion, types of diffusion, Diffusion in liquids, gas, and solids, Mass transfer coefficients. Theories of mass 
@@ -2978,23 +2650,23 @@ operating hold up: Venturi scrubber, HTU, NTU, and HETP.
 10 hours 
 Unit II 
 Chapter 3 Humidification 
-Concepts in humidification – absolute humidity, molal humidity, saturation and unsaturation humidity, dew 
+Concepts in humidification - absolute humidity, molal humidity, saturation and unsaturation humidity, dew 
 point, WBT, DBT. Theory of wet bulb temperature and wet bulb equation (Lewis relation), Adiabatic 
 saturation temperature, Humidity chart, Cooling towers. 
 10 hours 
 Chapter 4 Adsorption 
-Theories of adsorption, Isotherms. Types of operations – single stage operation, multistage cross current 
+Theories of adsorption, Isotherms. Types of operations - single stage operation, multistage cross current 
 operation, multistage counter current operation, problems on adsorption operation, Industrial adsorbents. 
 Adsorption Equipment. 
 10 hours 
 Unit III 
 Chapter 5 Crystallization 
 Factors governing nucleation and crystal growth rates. Controlled growth of crystals. Incorporation of 
-principles into the design of equipment. Different types of crystallizer equipment.  
+principles into the design of equipment. Different types of crystallizer equipment. 
 7 hours 
 Chapter 6 Drying 
 Introduction, Moisture content on dry and wet basis, Equilibrium moisture content, Free moisture content, 
-Constant and falling rate period, Drying rate curve, Batch drying, Selection of dryers, Drying equipment.  
+Constant and falling rate period, Drying rate curve, Batch drying, Selection of dryers, Drying equipment. 
 8 hours 
 Text Books 
 1. Mass Transfer Operations by Robert Treybal, 3rd Edn 2017 
@@ -3003,21 +2675,18 @@ Text Books
 4. Introduction to Chemical Engineering - Badger & Banchero, TMH 6th Reprint 1998 
 Reference Books: 
 1. Principles of Unit Operation - Foust et.al., 2nd Edn John Wiley, 2015 
-
-## Page 67
-
-Back to Semester – V 
+ ## Page 67
+ Back to Semester - V 
 FMCD2009 / 2.0 67 
- 
-Program: Bachelor of Engineering Semester: V 
+  Program: Bachelor of Engineering Semester: V 
 Course Title: Chemical Reaction Engineering - I Course Code: 22ECEC305 
 L-T-P:3-1-0 Credits:4 Contact Hours:4Hrs/week 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration:3 Hrs  
+Teaching Hours:40 Examination Duration:3 Hrs 
 Unit I 
 Chapter 1 Introduction 
 Classification of reactions, Variables affecting rate, Definition of rate equation. Series and parallel reactions, 
-elementary and non elementary reactions, Chemical kinetics and thermodynamics equilibrium.  
+elementary and non elementary reactions, Chemical kinetics and thermodynamics equilibrium. 
 Temperature dependent term of rate equations from Arrhenius theory and comparison with collision and 
 transition state theory. Non - Elementary Reactions: Difference between elementary and non -elementary 
 reactions. Kinetic models and mechanisms for non-elementary reactions. 
@@ -3031,15 +2700,15 @@ Unit II
 Chapter 3 Design of Ideal Reactors 
 Introduction to mass and energy balance equations for the reactor. Definition and concepts of ideal reactors. 
 Development of performance equations for batch, mixed and tubular reactors for both constant and variable 
-volume reactions. Space time, space velocity, and holding time for flow reactors. Numerical problems.  
+volume reactions. Space time, space velocity, and holding time for flow reactors. Numerical problems. 
 13 hours 
 Chapter 4 Multiple Reactors 
 Plug flow and/or mixed flow reactors in series and parallel. Reactors of different types and sizes in series. 
-General graphical size comparison of single and multiple reactor systems.  
+General graphical size comparison of single and multiple reactor systems. 
 8 hours 
 Unit III 
 Chapter 5 Design of multiple reactions 
-Parallel reaction - Qualitative and quantitative treatment of product distribution. Series reaction – 
+Parallel reaction - Qualitative and quantitative treatment of product distribution. Series reaction - 
 Qualitative treatment of product distribution. 
 5 hours 
 Chapter 6 Non-Isothermal reactors 
@@ -3054,19 +2723,15 @@ Text Books
 Reference Books: 
 1. Encyclopedia of Chemical Technology, Kirk and Othmer, 27th volume, 5th edition, Wiley, 2004. 
 2. The Engineering of Chemical Reactions, Lanny D. Schmidt, 2nd edition, Oxford University Press 
-
-## Page 68
-
-Back to Semester – V 
+ ## Page 68
+ Back to Semester - V 
 FMCD2009 / 2.0 68 
- 
-Program: Bachelor of Engineering Semester: V 
+  Program: Bachelor of Engineering Semester: V 
 Course Title: Mini Project Course Code:15EMEW301 
 L-T-P:0-0-3 Credits:3 Contact Hours:3 Hrs/week 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:36 Examination Duration:3 Hrs  
- 
-Mini-project work in chemical engineering for waste recycling is an essential part of a chemical engineering 
+Teaching Hours:36 Examination Duration:3 Hrs 
+  Mini-project work in chemical engineering for waste recycling is an essential part of a chemical engineering 
 education. It allows students to apply their knowledge and skills to solve a real -world problem and develop 
 their professional skills. Waste recycl ing is the process of converting waste materials into new materials and 
 objects. It is an alternative to conventional waste disposal that can save material and help lower greenhouse 
@@ -3082,17 +2747,14 @@ communication, teamwork, and time management.
 References: 
 1. Waste Management in the Chemical and Petroleum Industries, by Alireza Bahadori, Wiley; 2nd edition (15 
 November 2019) 
-
-## Page 69
-
-Back to Semester – V 
+ ## Page 69
+ Back to Semester - V 
 FMCD2009 / 2.0 69 
- 
-Program: Bachelor of Engineering Semester: V 
+  Program: Bachelor of Engineering Semester: V 
 Course Title: Computer Applications & Simulation Lab. Course Code: 22ECEP301 
 L-T-P:0-0-1 Credits:4 Contact Hours:4Hrs/week 
 ISA Marks:80 ESA Marks:20 Total Marks:100 
-Teaching Hours:24 Examination Duration:3 Hrs  
+Teaching Hours:24 Examination Duration:3 Hrs 
 List of Experiments 
 1. Determination of thermodynamic properties using spread sheet 
 2. Thermodynamic Calculations & basic design of equipment using programming languages 
@@ -3120,19 +2782,15 @@ Sons, 2015,
 August 2016 
 5. Warren D. Seider, Daniel R. Lewin, J. D. Seader, Soemantri Widagdo, Rafiqul Gani, Ka Ming Ng, Product 
 and Process Design Principles: Synthesis, Analysis and Evaluation, 4 th edition, John Wiley & Sons, 2016 
-
-## Page 70
-
-Back to Semester – V 
+ ## Page 70
+ Back to Semester - V 
 FMCD2009 / 2.0 70 
- 
-Program: Bachelor of Engineering Semester: V 
+  Program: Bachelor of Engineering Semester: V 
 Course Title: Pollution Control Lab. Course Code: 22ECEP302 
 L-T-P:0-0-1 Credits:4 Contact Hours:4Hrs/week 
 ISA Marks:80 ESA Marks:20 Total Marks:100 
-Teaching Hours:24 Examination Duration:3 Hrs  
- 
-List of Experiments 
+Teaching Hours:24 Examination Duration:3 Hrs 
+  List of Experiments 
 1. Analysis of flue gases by Gas chromatograph 
 2. Bomb calorimeter 
 3. Analysis of effluents by pH meter 
@@ -3148,92 +2806,73 @@ Text Books
 1. Air Pollution Engineering Manual, Wayne T. Davis, John Wiley & Sons, Inc., 2000. 
 2. Practical Waste Treatment and Disposal, Dickinson, Applied Science publication, London. 
 3. Pollution control in Process industries, Mahajan, McGraw Hill Education, 2017 
-
-## Page 71
-
-FMCD2009 / 2.0 71 
- 
-Back to Semester – V 
- 
-Program: Bachelor of Engineering Semester: V 
+ ## Page 71
+ FMCD2009 / 2.0 71 
+  Back to Semester - V 
+  Program: Bachelor of Engineering Semester: V 
 Course Title: Arithmetical Thinking and Analytical Reasoning Course Code: 22EHSH301 
 L-T-P:0-0-1 Credits:4 Contact Hours:4Hrs/week 
 ISA Marks:100 ESA Marks: - NA - Total Marks:100 
-Teaching Hours:16 Examination Duration: - NA -  
+Teaching Hours:16 Examination Duration: - NA - 
 Chapter 1. Analytical Thinking 
 Importance of Sense of Analysis for Engineers, Corporate Methodology of Testing Sense of Analysis, Puzzles 
-for practice: Analytical, Mathematical, Classification Puzzles, Teamwork in Problem Solving.  
+for practice: Analytical, Mathematical, Classification Puzzles, Teamwork in Problem Solving. 
 4 hours 
 Chapter 2. Mathematical Thinking I 
 Problems on Finance: Percentages, Gain and Loss, Interest; Distribution and Efficiency Problems: Averages, 
 Time Work, Permutations Combinations. 
 4 hours 
- 
-Chapter 3. Mathematical Thinking II 
+  Chapter 3. Mathematical Thinking II 
 Distribution Problems: Permutations Combinations. 
 2 hours 
- 
-Chapter 4. Verbal Ability 
+  Chapter 4. Verbal Ability 
 Comprehension of Passages, Error Detection and Correction Exercises, Common Verbal Ability questions from 
 Corporate Recruitment Tests. 
 6 hours 
 References: 
-1. George J Summers, “The Great Book of Puzzles & Teasers”, Jaico Publishing House, 1989 
-2. Shakuntala Devi , “Puzzles to Puzzle You”, Orient Paper Backs, New Delhi, 1976 
-3. R. S. Aggarwal, “A Modern Approach to Logical Reasoning”, Sultan Chand and Sons, New Delhi, 2018 
-4. M Tyra, “Magical Book on Quicker Maths”, BSC Publications, 2018 
-5. Cambridge Advanced Learner’s Dictionary, Cambridge University Press. 
-6. Kaplan’s GRE guide 
-
-## Page 72
-
-72 FMCD2009 / 2.0 
- 
-Curriculum Content - Course wise (Semester – 6) 
- 
-Program: Bachelor of Engineering Semester: VI 
+1. George J Summers, "The Great Book of Puzzles & Teasers", Jaico Publishing House, 1989 
+2. Shakuntala Devi , "Puzzles to Puzzle You", Orient Paper Backs, New Delhi, 1976 
+3. R. S. Aggarwal, "A Modern Approach to Logical Reasoning", Sultan Chand and Sons, New Delhi, 2018 
+4. M Tyra, "Magical Book on Quicker Maths", BSC Publications, 2018 
+5. Cambridge Advanced Learner's Dictionary, Cambridge University Press. 
+6. Kaplan's GRE guide 
+ ## Page 72
+ 72 FMCD2009 / 2.0 
+  Curriculum Content - Course wise (Semester - 6) 
+  Program: Bachelor of Engineering Semester: VI 
 Course Title: Professional Aptitude & Logical Reasoning Course Code:16EHSC301 
 L-T-P:3-0-0 Credits:3 Contact Hours:3Hrs/week 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration:3 Hrs  
- 
-Unit – I - Arithmetical Reasoning and Analytical Thinking 
-Chapter 1. – Arithmetical Reasoning 10 Hrs 
-Chapter 2. – Analytical Thinking  4 Hrs 
-Chapter 3. – Syllogistic Logic 3 Hrs 
- 
-Unit – II – Verbal and Non – Verbal Logic 
-Chapter 1. – Verbal Logic 9 Hrs 
-Chapter 2. – Non-Verbal Logic 6 Hrs 
- 
-Unit – III - Lateral Thinking 
+Teaching Hours:40 Examination Duration:3 Hrs 
+  Unit - I - Arithmetical Reasoning and Analytical Thinking 
+Chapter 1. - Arithmetical Reasoning 10 Hrs 
+Chapter 2. - Analytical Thinking 4 Hrs 
+Chapter 3. - Syllogistic Logic 3 Hrs 
+  Unit - II - Verbal and Non - Verbal Logic 
+Chapter 1. - Verbal Logic 9 Hrs 
+Chapter 2. - Non-Verbal Logic 6 Hrs 
+  Unit - III - Lateral Thinking 
 Chapter 1. - Lateral Thinking 8 Hrs 
- 
-Text Books 
-1. A Modern Approach to Verbal and Non – Verbal Reasoning – R. S. Aggarwal, Sultan Chand and Sons, 
+  Text Books 
+1. A Modern Approach to Verbal and Non - Verbal Reasoning - R. S. Aggarwal, Sultan Chand and Sons, 
 New Delhi 
-2. Quantitative Aptitude – R. S. Aggarwal, Sultan Chand and Sons, New Delhi 
- 
-Reference Books 
-1. Verbal and Non – Verbal Reasoning – Dr. Ravi Chopra, MacMillan India 
-2. Lateral Thinking – Dr. Edward De Bono, Penguin Books, New Delhi 
-
-## Page 73
-
-73 FMCD2009 / 2.0 
- 
-Back to Semester – VI 
- 
-Program: Bachelor of Engineering Semester: VI 
+2. Quantitative Aptitude - R. S. Aggarwal, Sultan Chand and Sons, New Delhi 
+  Reference Books 
+1. Verbal and Non - Verbal Reasoning - Dr. Ravi Chopra, MacMillan India 
+2. Lateral Thinking - Dr. Edward De Bono, Penguin Books, New Delhi 
+ ## Page 73
+ 73 FMCD2009 / 2.0 
+  Back to Semester - VI 
+  Program: Bachelor of Engineering Semester: VI 
 Course Title: Chemical Reaction Engineering - II Course Code:25ECEC306 
 L-T-P:3-0-0 Credits:3 Contact Hours:3Hrs/week 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration:3 Hrs  
+Teaching Hours:40 Examination Duration:3 Hrs 
 Unit I 
 Chapter 1: Non Ideal flow 
 Causes of non ideal conditions in reactor. Importance and Interpretation of RTD, Stimulus response 
 technique, C, E &F curves, Conversion using tracer information (first order reaction). Models for non ideal 
-flow – dispersion model and tanks in series Model. Numerical problems. 
+flow - dispersion model and tanks in series Model. Numerical problems. 
 8 hours 
 Chapter 2: Introduction to heterogeneous reacting systems 
 Introduction to Heterogeneous Systems: Rate equations, contacting patterns. Fluid -particle non catalytic 
@@ -3248,13 +2887,13 @@ Catalyst and mechanism of deactivation.
 8 hours 
 Chapter 4: Solid Catalyzed Reactions 
 Heterogeneous reactions - Introduction, Kinetic regimes. Rate equation for surface kinetics. Pore diffusion 
-resistance combined with surface kinetics. Thiele modulus and enhancement factor, Porous catalyst  
+resistance combined with surface kinetics. Thiele modulus and enhancement factor, Porous catalyst 
 particles. Heat effects during reaction. 
 7 hours 
 Unit III 
 Chapter 5: Catalytic Reactors 
 Performance equations for reactors containing porous catalyst particles. Experimental methods for finding 
-rates. Packed bed catalytic reactor &  reactors with suspended solid catalyst. Fluidized reactors of various 
+rates. Packed bed catalytic reactor & reactors with suspended solid catalyst. Fluidized reactors of various 
 types. Gas-Liquid Reactors: Trickle bed, slurry reactors. 3-phase fluidized bed. 
 10 hours 
 Text Books 
@@ -3265,23 +2904,20 @@ Reference Books
 1. Chemical Reactor Analysis and Design by Gilbert F. Froment and Kenneth B. Bischoff, 2nd Edition, 
 Wiley, 1990. 
 2. Reaction Engineering Principles by Himadri B. Gupta, CRC Press, 2014 
-
-## Page 74
-
-Back to Semester – VI 
+ ## Page 74
+ Back to Semester - VI 
 74 FMCD2009 / 2.0 
- 
-Program: Bachelor of Engineering Semester: VI 
+  Program: Bachelor of Engineering Semester: VI 
 Course Title: Mass Transfer - II Course Code: 25ECEC307 
 L-T-P:3-1-0 Credits:4 Contact Hours:4 Hrs/week 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:50 Examination Duration:3 Hrs  
+Teaching Hours:50 Examination Duration:3 Hrs 
 Unit I 
 Chapter 1: Absorption: 
 Absorption: Introduction, Solvent selection for absorption, Material balance and concept of driving force, 
 Multistage absorption columns, minimum solvent rates, Design of Plate columns, Absorption and desorption 
 factors, Liquid phase hold up and pressure d rop in absorption towers. Design of packed towers (process 
-design-height and diameter). Multi-component absorption. Absorption with chemical reaction.  
+design-height and diameter). Multi-component absorption. Absorption with chemical reaction. 
 14 hours 
 Chapter 2: Distillation: 
 Introduction: Relative volatility, Prediction of and using relative vol atility, types of distillation - Simple and 
@@ -3290,9 +2926,9 @@ flash distillation.
 Unit II 
 Chapter 3: Continuous Distillation 
 Multi-stage rectification column, Reflux ratio - maximum, minimum and optimum reflux ratio, reboiler 
-arrangement, Design using McCabe Thiele method – Feed condition, feed plate location and construction of 
+arrangement, Design using McCabe Thiele method - Feed condition, feed plate location and construction of 
 operating lines, Heating and cooling requirements.P onchon-Savarit method, Introduction to Multi - 
-component distillation, Extractive and Reactive distillation, Azeotropic distillation and Steam distillation.  
+component distillation, Extractive and Reactive distillation, Azeotropic distillation and Steam distillation. 
 14 hours 
 Chapter 5: Leaching: 
 Introduction, Phase and equilibrium diagram, factors affecting the rate of leaching, Leaching operation - 
@@ -3302,13 +2938,13 @@ for leaching operation.
 Unit III 
 Chapter 5: Extraction: 
 Introduction, selection of solvent for extraction, phase diagram, Extraction operation- single stage operation, 
-multistage cross current operation, multistage counter current operation, Extraction equipment.  
+multistage cross current operation, multistage counter current operation, Extraction equipment. 
 05 hours 
 Chapter 5: Introduction to Novel Separations: 
 Membrane processes- Reverse Osmosis, Dialysis, Ultra and Micro-filtrations, Super- critical fluid extraction. 
 05 hour 
 Text Books 
-1. Edward L. Cussler, Diffusion: Mass Transfer in Fluid Systems, Cambridge Series  in Chemical Engineering, 
+1. Edward L. Cussler, Diffusion: Mass Transfer in Fluid Systems, Cambridge Series in Chemical Engineering, 
 3rd Edition, Cambridge University Press, 2009. 
 2. Robert E. Treybal, Mass Transfer Operations, 3rd Edition, McGraw Hill, 2017. 
 3. W.L. McCabe, J.C. Smith, and P. Harriott, Unit Operations in Chemical Engineering, 7 th Edition, McGraw 
@@ -3318,19 +2954,15 @@ Hill, 2017.
 Reference Books 
 1. W.L. Badger and J.T. Banchero, Introduction to Chemical Engineering, Tata McGraw-Hill, 6th Reprint, 1998. 
 2. A.S. Foust et al., Principles of Unit Operations, 2nd Edition, John Wiley & Sons, 2015. 
-
-## Page 75
-
-Back to Semester – VI 
+ ## Page 75
+ Back to Semester - VI 
 75 FMCD2009 / 2.0 
- 
-Program: Bachelor of Engineering Semester: VI 
+  Program: Bachelor of Engineering Semester: VI 
 Course Title: Minor Project Course Code: 22ECEW302 
 L-T-P : 0-0-6 Credits: 4 Contact Hours: 16 Hrs/week 
 ISA Marks : 50 ESA Marks:50 Total Marks:100 
-Examination Duration:3 Hrs   
- 
-Minor project work in chemical engineering for waste recycling is essential to a chemical engineering 
+Examination Duration:3 Hrs 
+  Minor project work in chemical engineering for waste recycling is essential to a chemical engineering 
 education. It allows students to apply their knowledge and skills to solve real -world problems and develop 
 their professional skills. Waste recycling is c onverting waste materials into new materials and objects. It is 
 an alternative to conventional waste disposal that can save material and help lower greenhouse gas 
@@ -3343,17 +2975,14 @@ recycling provides students with the following benefits:
  The ability to manage a project effectively 
  The opportunity to develop their professional skills, such as problem-solving, critical thinking, 
 communication, teamwork, and time management 
-
-## Page 76
-
-Back to Semester – VI 
+ ## Page 76
+ Back to Semester - VI 
 76 FMCD2009 / 2.0 
- 
-Program: Bachelor of Engineering Semester: VI 
+  Program: Bachelor of Engineering Semester: VI 
 Course Title: Chemical Reaction Engineering Lab. Course Code: 22ECEP303 
 L-T-P : 0-0-1.5 Credits: 1.5 Contact Hours: 3 Hrs/week 
 ISA Marks : 80 ESA Marks:20 Total Marks:100 
-Examination Duration:3 Hrs   
+Examination Duration:3 Hrs 
 Experiments 
 1. Batch reactor 
 2. Isothermal plug flow reactor 
@@ -3369,20 +2998,16 @@ Text Books:
 1. Chemical Reaction Engineering, Octave Levenspiel, 3rd Edn, John Wiley & Sons, 2001. 
 2. Elements of Chemical Reaction Engineering, H. Scott Fogler, 3rd Edn, Prentice Hall 2001 
 3. Chemical Engineering Kinetics, J.M. Smith, 3rd Edn, McGraw Hill, 1984. 
- 
-Reference Books 
+  Reference Books 
 Chemical & Catalytic Reaction Engineering, James J. Carberry, McGraw Hill, 1976. 
-
-## Page 77
-
-Back to Semester – VI 
+ ## Page 77
+ Back to Semester - VI 
 77 FMCD2009 / 2.0 
- 
-Program: Bachelor of Engineering Semester: VI 
+  Program: Bachelor of Engineering Semester: VI 
 Course Title: Mass Transfer Lab. Course Code: 22ECEP303 
 L-T-P : 0-0-1.5 Credits: 1.5 Contact Hours: 3 Hrs/week 
 ISA Marks : 80 ESA Marks:20 Total Marks:100 
-Examination Duration:3 Hrs   
+Examination Duration:3 Hrs 
 Experiments 
 1. Diffusion of organic vapours in air 
 2. Simple Distillation 
@@ -3399,17 +3024,14 @@ Text Books:
 2. Unit Operations in Chemical Engineering - McCabe & Smith, 7th Edn McGraw Hill, 2017 
 3. Chemical Engineering Vol I, II, IV and V - Coulson and Richardson, 4th Edn, Pergamon Press, 1998. 
 4. Principles of Unit Operation - Foust et.al., 2nd Edn, John Wiley, 2015Reference Books 
-
-## Page 78
-
-Back to Semester – VI 
+ ## Page 78
+ Back to Semester - VI 
 78 FMCD2009 / 2.0 
- 
-Program: Bachelor of Engineering Semester: VI 
+  Program: Bachelor of Engineering Semester: VI 
 Course Title: Industry Readiness & Leadership Skills Course Code: 22EHSH302 
 L-T-P: 0.5-0-0 Credits: 0.5 Contact Hours: 1Hr/week 
 ISA Marks: 100 ESA Marks: Nil Total Marks: 100 
-Teaching Hours: 16 Examination Duration: NA  
+Teaching Hours: 16 Examination Duration: NA 
 Chapter No. 1. Written Communication 
 Successful Job Applications, Résumé Writing, Emails, Letters, Business Communication, Essay, and 
 Paragraph Writing for Recruitment Tests 
@@ -3420,31 +3042,28 @@ Chapter No. 3. Lateral & Creative Thinking
 Lateral Thinking by Edward de Bono, Fractionation and Brain Storming, Mind Maps, Creativity 
 Enhancement through Activities 
 Chapter No. 4. Team Building & Leadership Skills 
-Communication in a Team, Leadership Styles, Playing a Team member, Belbin’s team roles, Ethics, 
+Communication in a Team, Leadership Styles, Playing a Team member, Belbin's team roles, Ethics, 
 Effective Leadership Strategies 
 References: 
-1. Diana Booher – E Writing, Laxmi Publications 
-2. Edward de Bono – Lateral Thinking – A Textbook of Creativity, Penguin UK 
-3. William Strunk, E B White – The Elements of Style, Pearson 
-4. John Maxwell – The 17 Essential Qualities of a Team Player, HarperCollins Leadership 
-5. Robin Ryan – 60 Seconds and You’re Hired! – Penguin Books 
-
-## Page 79
-
-Back to Semester – VI 
+1. Diana Booher - E Writing, Laxmi Publications 
+2. Edward de Bono - Lateral Thinking - A Textbook of Creativity, Penguin UK 
+3. William Strunk, E B White - The Elements of Style, Pearson 
+4. John Maxwell - The 17 Essential Qualities of a Team Player, HarperCollins Leadership 
+5. Robin Ryan - 60 Seconds and You're Hired! - Penguin Books 
+ ## Page 79
+ Back to Semester - VI 
 79 FMCD2009 / 2.0 
- 
-Program: Bachelor of Engineering Semester: VI 
+  Program: Bachelor of Engineering Semester: VI 
 Course Title: Renewable Energy Course Code: 22ECEE301 
 L-T-P:3-0-0 Credits:3 Contact Hours:3Hrs/week 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration:3 Hrs  
+Teaching Hours:40 Examination Duration:3 Hrs 
 Unit I 
 Chapter 1: Energy Sources: 
 World energy use, reserves of energy resources, energy cycle of the earth, environmental aspects of energy 
 utilization, renewable energy resources and their importance. Solar Energy: Solar radiation and its 
-measurement – solar constant, solar radiation at earth’s surface, solar radiation geometry, solar radiation 
-measurement. Introduction to solar energy. Applications – solar water heating, space heating, space cooling, 
+measurement - solar constant, solar radiation at earth's surface, solar radiation geometry, solar radiation 
+measurement. Introduction to solar energy. Applications - solar water heating, space heating, space cooling, 
 solar thermal electric conversion. Agriculture and industrial process heating, solar distillation, solar pumping, 
 solar cooking. 
 07 hours 
@@ -3457,22 +3076,22 @@ model &Janata model). Selection of site for biogas plant.
 Unit II 
 Chapter 3: Bio-Energy (Thermal Conversion): 
 Methods of obtaining energy from biomass. Biodiesel, Thermal gasification of biomass. Classification of 
-biomass gasifiers. Chemistry of gasification process. Applications of the gasifiers.  
+biomass gasifiers. Chemistry of gasification process. Applications of the gasifiers. 
 Wind Energy: Introduction. Basic components of WECS (wind energy conversion system). Classification 
-of WECS. Types of wind machines-horizontal axis machines, vertical axis machines. Applications of  wind 
+of WECS. Types of wind machines-horizontal axis machines, vertical axis machines. Applications of wind 
 energy. 
 07 hours 
 Chapter 4: Energy from the Oceans: 
 Introduction. Ocean thermal electric conversion (OTEC). Methods of ocean thermal electric power 
-generation. Open cycle OTEC system. Closed or Anderson OTEC cycle, hybrid cycle. Application of  
+generation. Open cycle OTEC system. Closed or Anderson OTEC cycle, hybrid cycle. Application of 
 energy from oceans. Basic principles of tidal power. Components o f tidal power plants. Operation 
 methods of utilization of tidal energy. Advantages and limitations of tidal power generation. 
 Applications of tidal energy.. 
 08 hours 
 Unit III 
 Chapter 5: Energy Economy & Legislations: 
-Final energy consumption, Energy needs  of growing economy, Long term energy scenario, Energy 
-pricing, energy sector reforms, energy security, energy strategy for future.  
+Final energy consumption, Energy needs of growing economy, Long term energy scenario, Energy 
+pricing, energy sector reforms, energy security, energy strategy for future. 
 Energy conservation act, its features and related policies: features of the energy conservation act 2001 
 and the energy cons ervation (amendment) act, 2010, schemes under ect -2001, integrated energy 
 policy, NAPCC. 
@@ -3483,34 +3102,31 @@ Text Books
 3. Engineering Chemistry by P.C. Jain and M. Jain, 10th Edition, 3rd Reprint, Dhanpat Rai & Sons, 1995. 
 Reference Book 
 1. Solar Energy by S.P. Sukhatme, 2nd Edition, 3rd Reprint, Tata McGraw Hill, New Delhi, 1998. 
-
-## Page 80
-
-Back to Semester – VI 
+ ## Page 80
+ Back to Semester - VI 
 80 FMCD2009 / 2.0 
- 
-Program: Bachelor of Engineering Semester: VI 
+  Program: Bachelor of Engineering Semester: VI 
 Course Title: Fermentation & Downstream Processing Course Code: 22ECEE302 
 L-T-P:3-0-0 Credits:3 Contact Hours:3Hrs/week 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration:3 Hrs  
+Teaching Hours:40 Examination Duration:3 Hrs 
 Unit I 
 Chapter 1: Introduction to fermentation & Microbial Growth Kinetics: 
 History and development of fermentation, general requirements of the fermentation, range of fermentation 
 processes, parts of a fermentation process -upstream and down stream processing, aerobic and anaerobic 
-fermentation, solid state and submerged fermentation. Batch c ulture (Quantifying cell concentration,  
-Growth patterns and Kinetics), Continuous culture, Comparison of batch and continuous cultures in  
-industrial processes, Fed batch culture, Examples of use of fed batch cultures.  
+fermentation, solid state and submerged fermentation. Batch c ulture (Quantifying cell concentration, 
+Growth patterns and Kinetics), Continuous culture, Comparison of batch and continuous cultures in 
+industrial processes, Fed batch culture, Examples of use of fed batch cultures. 
 08 hours 
 Chapter 2: Isolation, preservation Pathways and improvement of industrial Microbes: 
 Isolation, preservation Improvement of industrially important micro organisms, DNA techniques Induction, 
-carbon catabolite repression, crab tree effect, feedback Inhibition and repression.  
+carbon catabolite repression, crab tree effect, feedback Inhibition and repression. 
 07 hours 
 Unit II 
 Chapter 3: Media, Sterilization inoculum for industrial fermentations: 
 Introduction, Typical media, Energy sources, Carbon sources, Nitrogen sources, Buffers, Oxygen 
 requirements, Antifoams, Medium optimization, Medium sterilization: The design of batch sterilization 
-processes. The design of continuous sterilization processes , Sterilization of the fermenter, feeds and air,  
+processes. The design of continuous sterilization processes , Sterilization of the fermenter, feeds and air, 
 Filter sterilization. The development of inocula for yeast, bacterial and fungal processes, The aseptic 
 inoculation of plant fermenters. 
 08 hours 
@@ -3523,7 +3139,7 @@ Unit III
 Chapter 5: Important products through Fermentation: 
 Organicacids: citric and aceticacid; enzymes: amylase, protease, lipase; antibiotics: penicillin; vitamins: 
 vitB12; amino acids: lysine, Glutamic acid; organic solvents: ethanol, acetone, butanol, alcoholic beverages: 
-wine, beer; biomass: baker’s yeast; bi o fertilizers; bio pesticides; biosurfactant; steroid transformation; bio 
+wine, beer; biomass: baker's yeast; bi o fertilizers; bio pesticides; biosurfactant; steroid transformation; bio 
 polymers. 
 10 hours 
 Text Books 
@@ -3537,28 +3153,25 @@ Reference Books
 1. Biochemical Engineering and Biotechnology by Ghasem Najafpour, 2nd Edition, Elsevier, 2015. 
 2. Biotechnology: A Textbook of Industrial Microbiology by Wulf Crueger and Anneliese Crueger, 2nd 
 Edition, Sinauer Associates, 1990. 
-
-## Page 81
-
-Back to Semester – VI 
+ ## Page 81
+ Back to Semester - VI 
 81 FMCD2009 / 2.0 
- 
-Program: Bachelor of Engineering Semester: VI 
+  Program: Bachelor of Engineering Semester: VI 
 Course Title: Industrial Safety and Health Course Code: 22ECEE304 
 L-T-P:3-0-0 Credits:3 Contact Hours:3Hrs/week 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration:3 Hrs  
+Teaching Hours:40 Examination Duration:3 Hrs 
 Unit I 
 Chapter 1: Introduction and Scope: 
 Definition of Occupational Health as per WHO/ILO. Occupational Health and Environmental Safety 
-Management – Principles practices. Common Occupational diseases: Occupational Health Management 
+Management - Principles practices. Common Occupational diseases: Occupational Health Management 
 Services at the work place. Pre -employment, periodic medical exam ination of workers, medical surveillance 
 for control of occupational diseases and health records. 
 08 hours 
 Chapter 2: Monitoring for Safety, and Health: 
 Occupational Health and Environment Safety Management System, ILO and EPA Standards. Industrial 
 Hygiene: Definition of Industrial Hygiene, Industrial Hygiene: Control Methods, Substitution, Changing the 
-process, Local Exhaust Ventilation, Isolation, Wet me thod, Personal hygiene, housekeeping and  
+process, Local Exhaust Ventilation, Isolation, Wet me thod, Personal hygiene, housekeeping and 
 maintenance, waste disposal, special control measures. 
 07 hours 
 Unit II 
@@ -3571,18 +3184,18 @@ threshold, limit values.
 Chapter 4: Occupational Health and Environmental Safety Education: 
 Element of training cycle, Assessment of needs. Techniques of training, design and developmen t of training 
 programs. Training methods and strategies types of training. Evaluation and review of training programs. 
-Occupational Health Hazards, Promoting  Safety, Safety and Health training, Stress  and Safety, Exposure Limit 
-Ergonomics-Introduction, Definition, Objectives, Advantages. Ergonomics Hazards. Musculoskeletal  
+Occupational Health Hazards, Promoting Safety, Safety and Health training, Stress and Safety, Exposure Limit 
+Ergonomics-Introduction, Definition, Objectives, Advantages. Ergonomics Hazards. Musculoskeletal 
 Disorders and Cumulative Trauma Disorders. Physiology of respiration, cardiac cycle, muscle contraction, 
 nerve conduction system etc. Assessment of Workl oad based on Human physiological reactions. Permissible 
-limits of load for manual Lifting and carrying. Criteria or fixation limits.  
+limits of load for manual Lifting and carrying. Criteria or fixation limits. 
 07 hours 
 Unit III 
 Chapter 5: Occupational Safety, Health and Environment Management 
-Safety of handling of nanomaterials, Bureau of Indian standards on safety and health 14489 - 1998 and  
-15001 – 2000, OSHA, Process Safety Management (PSM) as per OSHA, PSM principles, OHSAS – 18001, EPA 
+Safety of handling of nanomaterials, Bureau of Indian standards on safety and health 14489 - 1998 and 
+15001 - 2000, OSHA, Process Safety Management (PSM) as per OSHA, PSM principles, OHSAS - 18001, EPA 
 Standards, Performance measurements to determine effec tiveness of PSM. Importance of Industrial safety, 
-role of safety department, Safety committee and function, Role and responsibilities of safety officer  
+role of safety department, Safety committee and function, Role and responsibilities of safety officer 
 10 hours 
 Text Books 
 1. Ray Sinnott, Chemical Engineering Vol. 6: Design (Coulson & Richardson's Chemical Engineering), 
@@ -3595,21 +3208,18 @@ Publishers, New Delhi, 2006.
 Reference Books 
 1. Safety and Health for Engineers by Roger L. Brauer, 3rd Edition, Wiley, 2016. 
 2. Fundamentals of Occupational Safety and Health by Mark A. Friend and James P. Kohn, 6th Edition, Bernan Press, 2018. 
-
-## Page 82
-
-Back to Semester – VI 
+ ## Page 82
+ Back to Semester - VI 
 82 FMCD2009 / 2.0 
- 
-Program: Bachelor of Engineering Semester: VI 
+  Program: Bachelor of Engineering Semester: VI 
 Course Title: Transport Phenomena Course Code: 22ECEE305 
 L-T-P:3-0-0 Credits:3 Contact Hours:3Hrs/week 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration:3 Hrs  
+Teaching Hours:40 Examination Duration:3 Hrs 
 Unit I 
 Chapter 1: Introduction: 
-Momentum Energy and Mass Transport Newton’s law of viscosity (NLV). Newtonian and Non -Newtonian 
-fluids. Fourier’s law of heat conduction (FLHC), Fick’s law of diffusion (FLD), Effect of temperature and 
+Momentum Energy and Mass Transport Newton's law of viscosity (NLV). Newtonian and Non -Newtonian 
+fluids. Fourier's law of heat conduction (FLHC), Fick's law of diffusion (FLD), Effect of temperature and 
 pressure on transport properties of fluids. 
 07 hours 
 Chapter 2: Velocity Distribution in Laminar Flow: 
@@ -3617,7 +3227,7 @@ Different Flow situations, Steady state Shell momentum balances, Boundary condit
 momentum transport problems, Flow over a flat plate, Flow through a circular tube, Flow through Annulus. 
 Steady State Shell Energy Balances: 
 General Boundary conditions applicable to energy transport problems of chemical engineering. Heat 
-conduction through compound walls. Overall heat transfer coefficient.  
+conduction through compound walls. Overall heat transfer coefficient. 
 08 hours 
 Unit II 
 Chapter 3: Temperature Distribution in Solids and in Laminar Flow: 
@@ -3625,17 +3235,17 @@ Different situations of heat transfer: Heat conduction with internal generation 
 energy sources, Heat conduction in a cooling fin: Forced and free convection heat transfer. 
 Concentration Distributions in Laminar Flow: 
 Steady state Shell mass balances. General Boundary conditions applicable to mass transport problems of 
-chemical engineering. Equimolar counter diffusion. Numerical problems.  
+chemical engineering. Equimolar counter diffusion. Numerical problems. 
 08 hours 
 Chapter 4: Concentration Distributions in Laminar Flow: 
 Diffusion through stagnant gas and liquid films, Diffusion with homogeneous reaction, Diffusion with 
-heterogeneous reaction Diffusion into falling film – Forced convection mass transfer. 
+heterogeneous reaction Diffusion into falling film - Forced convection mass transfer. 
 07 hours 
 Unit III 
 Chapter 5: Analogies between Momentum, Heat and Mass Transport: 
-Reynold’s, Prandtl’s and Chilton & Colburn analogies. 
+Reynold's, Prandtl's and Chilton & Colburn analogies. 
 Equations of Change: 
-Equation of continuity, Equation of motion; Navier – Stokes equation. 
+Equation of continuity, Equation of motion; Navier - Stokes equation. 
 10 hours 
 Text Books 
 1. Transport Phenomena, Bird, Stewart and Lightfoot, Academic Press, 1994. 
@@ -3643,25 +3253,21 @@ Text Books
 3. Principles of Unit Operations in Chemical engineering, Foust et al., 2nd edn, John Wiley, 1990. 
 4. Transport Phenomena - A Unified Approach, Robert S. BrodKey and Henry C. Hershley, Vol.2, Brodkey 
 Publishing, 2003 
- 
-Back to Semester – VI 
-
-## Page 83
-
-83 FMCD2009 / 2.0 
- 
-Program: Bachelor of Engineering Semester: VI 
+  Back to Semester - VI 
+ ## Page 83
+ 83 FMCD2009 / 2.0 
+  Program: Bachelor of Engineering Semester: VI 
 Course Title: Instrumentation Engineering Course Code: 22ECEE306 
 L-T-P:3-0-0 Credits:3 Contact Hours:3Hrs/week 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration:3 Hrs  
+Teaching Hours:40 Examination Duration:3 Hrs 
 Unit I 
 Chapter 1: Basics of Instrumentation 
 Introduction, Instrument symbols & Tag numbering system, Organization of instrumentation dept. Electric 
 Power Systems, Instrument Power Requirements, Instrument. Power Distribution, Control Room Lighting, 
 Communication Systems, Electrical Classifications, Control Panel Types, Flat face Panels, Breakfront Panels, 
 Consoles, Comparison Of Panel Types, Panel Layout, Face Layout, Rear Layout, Auxiliary Racks & Cabinets, 
-Panel Piping & Tubing, - Air Headers, Tubing Runs, Panel Wiring, Nameplates & Tags, Painting,  Graphic 
+Panel Piping & Tubing, - Air Headers, Tubing Runs, Panel Wiring, Nameplates & Tags, Painting, Graphic 
 Displays - Control Room Layout Panel, Human engineering, Panel enclosure standard - Bid Specifications, 
 Panel Inspections, Control center inspection. 
 07 hours 
@@ -3673,18 +3279,18 @@ distribution systems, general layout, Header & branch sizing, materials, take of
 supply, case purging for electrical area classification Valve Terminology, Valve Capac ity, Valve rangeability, 
 Valve type based on body Design: Globe Bodies, Angle, Needle, Ball, Eccentric Rotating, Plug, Butterfly, 
 Diaphragm, Pinch, Drag Flow Characteristic, Trim Design, Mechanical Feature Actuator, Pneumatic Types, 
-Electric Types, Electro  Hydraulic Types Positioner - Pneumatic, Electro Pneumatic, Positioner Features & 
+Electric Types, Electro Hydraulic Types Positioner - Pneumatic, Electro Pneumatic, Positioner Features & 
 accessories, Control Valve Accessories. Testing procedure of control valve CV and Rangeability (Valve sizing - 
 initial level), Relief valve, Safety valves and Rupture discs. 
 08 hours 
 Unit II 
 Chapter 3: Signal Converting Elements : 
 Pneumatic to electrical convertors, Electric to Pneumatic convertors, Voltage to Current convertor, Current 
-to Voltage convertor, Frequency to voltage & Voltage to Frequency convertor.s  
+to Voltage convertor, Frequency to voltage & Voltage to Frequency convertor.s 
 08 hours 
 Chapter 4: Indicator recorders and Actuators: 
 Indicators: Types of Indicators for various applications, Recorders: Types of recorders and its merits and 
-demerits, Annunciators: Function, sequences  displays, types, - Microprocessor for recording, announc ing 
+demerits, Annunciators: Function, sequences displays, types, - Microprocessor for recording, announc ing 
 and indicating purpose. 
 07 hours 
 Unit III 
@@ -3694,26 +3300,21 @@ Smart Transmitter.
 10 hours 
 ext Books 
 1. William Andrews, Applied Instrumentation in the Process Industry Vol. I & II, Gulf Publishing Co., 1994. 
-2. B.G. Liptak, Process Control: Instrument Engineers’ Handbook, 3rd dition, Chilton Book Company, 1995. 
+2. B.G. Liptak, Process Control: Instrument Engineers' Handbook, 3rd dition, Chilton Book Company, 1995. 
 3. Curtis Johnson, Process Control and Instrumentation Technology, 4th Edition, Prentice-Hall of India, 
 1997. 
 4. E.O. Doebelin, Measurement Systems, 4th Edition, McGraw Hill, 1990. 
 Reference Book 
 1. Modern Control Engineering by Katsuhiko Ogata, 5th Edition, Prentice Hall, 2010. 
 2. Principles of Measurement Systems by John P. Bentley, 4th Edition, Pearson Education, 2005. 
- 
-Back to Semester – VI 
- 
-Program: Bachelor of Engineering Semester: VI 
-
-## Page 84
-
-84 FMCD2009 / 2.0 
- 
-Course Title: Chemical Plant Utilities Course Code: 22ECEE307 
+  Back to Semester - VI 
+  Program: Bachelor of Engineering Semester: VI 
+ ## Page 84
+ 84 FMCD2009 / 2.0 
+  Course Title: Chemical Plant Utilities Course Code: 22ECEE307 
 L-T-P:3-0-0 Credits:3 Contact Hours:3Hrs/week 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration:3 Hrs  
+Teaching Hours:40 Examination Duration:3 Hrs 
 Unit I 
 Chapter 1 Introduction 
 Different utilities. Role of utilities in process plant operations and criteria for selection and estimation of 
@@ -3721,13 +3322,13 @@ suitable utilities.
 Water: Water resources. Quality Standards for Process water, cooling water, drinking water and boiler feed 
 water. Water treatment processes for drinking, process and boiler feed. Storage and handling of water. 
 Water pre-treatment for cooling tower, boilers and chillers. 
-08  ours 
+08 ours 
 Chapter 2 Air 
 Compressed air, blower air, fan air. Types of compressors and vacuum pumps and selection. Power 
 requirements, performance, and related calculations. Booster and receivers. Quality of compressed air for 
-instruments and processes. Compressed air distribution  system- piping and accessories. Air -water vapour 
+instruments and processes. Compressed air distribution system- piping and accessories. Air -water vapour 
 system: humidification/ dehumidification and evaporative cooling -related calculations. Insulation: Insulation 
-Materials & Selection- Economics of insulation. Insulating factors. Properties & Classification.  
+Materials & Selection- Economics of insulation. Insulating factors. Properties & Classification. 
 07 hours 
 Unit II 
 Chapter 3 Steam and Power 
@@ -3758,18 +3359,15 @@ Text Books
 4. Banerjee S., Industrial Hazards and Plant Safety, Taylor & Francis, 2003. 
 Reference Book 
 1. Sanders R.E., Chemical Process Safety: Learning from Case Histories, Oxford, 2005. 
-2. Perry R.H. and Green D.W., Perry’s Chemical Engineer’s Handbook, McGraw Hill, 1997. 
-
-## Page 85
-
-Back to Semester – VI 
+2. Perry R.H. and Green D.W., Perry's Chemical Engineer's Handbook, McGraw Hill, 1997. 
+ ## Page 85
+ Back to Semester - VI 
 85 FMCD2009 / 2.0 
- 
-Program: Bachelor of Engineering Semester: VI 
+  Program: Bachelor of Engineering Semester: VI 
 Course Title: Oils and Fats Course Code: 22ECEE308 
 L-T-P:3-0-0 Credits:3 Contact Hours:3Hrs/week 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration:3 Hrs  
+Teaching Hours:40 Examination Duration:3 Hrs 
 Unit I 
 Chapter 1: Introduction Classification of fats and oils 
 Characteristic of oils. Utilization of fat and oils. Composition of oils (general). Obtaining Oils and Fats from 
@@ -3794,24 +3392,21 @@ Composition, extraction, refining processes, and uses of fish oils. Processing o
 neutralisation, bleaching, and deodorisation to purify the oil. 
 10 hours 
 Text Books 
-1. Bailey’s Industrial Oil and Fat Products Vol. I to V by Y.H. Hui, John Wiley International, 2nd Edition, 1976. 
+1. Bailey's Industrial Oil and Fat Products Vol. I to V by Y.H. Hui, John Wiley International, 2nd Edition, 1976. 
 2. Chemistry and Technology of Oil and Fats by Devine J. and Williams P.N., 1961. 
-3. Shreve’s Chemical Process Industries by Austin G.T., 5th Edition, McGraw-Hill International Book 
+3. Shreve's Chemical Process Industries by Austin G.T., 5th Edition, McGraw-Hill International Book 
 Company, Singapore, 1984. 
 4. Outlines of Chemical Technology by C.E. Dryden, edited by M. Gopala Rao and M. Sittig, 2nd Edition, 
 Affiliated East-West Press, 1993. 
-5. Hand Book of Industrial Chemistry (Riegel’s) edited by J.A. Kent, Van Nostrand Reinhold, 1974. 
+5. Hand Book of Industrial Chemistry (Riegel's) edited by J.A. Kent, Van Nostrand Reinhold, 1974. 
 Reference Books 
 1. Industrial Organic Chemistry by Klaus Weissermel and Hans-Jürgen Arpe, 4th Edition, Wiley-VCH, 2003. 
 2. Encyclopedia of Chemical Technology edited by Kirk-Othmer, 5th Edition, Wiley-Interscience, multiple 
-volumes, 2004–2007. 
-
-## Page 86
-
-Back to Semester – VI 
+volumes, 2004-2007. 
+ ## Page 86
+ Back to Semester - VI 
 86 FMCD2009 / 2.0 
- 
-Program: Bachelor of Engineering Semester: VI 
+  Program: Bachelor of Engineering Semester: VI 
 Course Title: Instrumental Methods of Analysis Course Code: 22ECEE303 
 L-T-P: 3-0-0 Credits:3 Credits: 3 
 Category: PMC&O ESA Marks:50 Contact Hours: 3 
@@ -3842,10 +3437,10 @@ Potentiometry and its applications in chemical analysis, Voltammetry and its app
 electrochemical characterization, Thermogravimetric analysis (TGA) and differential scanning calorimetry 
 (DSC) for thermal behaviour analysis. 
 08 hours 
-Unit – 5 
+Unit - 5 
 Chapter 5: Advanced Analytical Techniques and Case Studies: 
 Introduction to emerging analytical techniques (X -ray analysis, Raman spectroscopy) Chemometrics and 
-data analysis for complex datasets, Case studies of instrumental analysis applications  in chemical 
+data analysis for complex datasets, Case studies of instrumental analysis applications in chemical 
 engineering processes, Sustainability considerations in process monitoring and control using analytical 
 data. 
 10 hours 
@@ -3857,23 +3452,19 @@ Analytical Chemistry, 9th Edition, Brooks/Cole.
 2. Howard Mark and James Workman Jr., Modern Instrumental Analysis, 7th Edition, Elsevier. 
 3. Standard Methods for the Examination of Water and Wastewater, Latest Edition, American Public 
 Health Association (APHA). 
-
-## Page 87
-
-87 FMCD2009 / 2.0 
- 
-Curriculum Content - Course wise (Semester – 7) 
- 
-Program: Bachelor of Engineering Semester: VII 
+ ## Page 87
+ 87 FMCD2009 / 2.0 
+  Curriculum Content - Course wise (Semester - 7) 
+  Program: Bachelor of Engineering Semester: VII 
 Course Title: Process Equipment Design and Drawing Course Code: 25ECEC401 
 L-T-P: 3-1-0 Credits: 4 Contact Hours: 4Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 50 Examination Duration: 3 Hrs  
+Teaching Hours: 50 Examination Duration: 3 Hrs 
 Note: Drawing/Sketching to be given as assignments and shall not be included in the ESA. 
 Unit I 
 Chapter 1 Introduction 
 General design procedure, equipment classification, design codes, design pressure, design temperature, 
-design stress, factor of safety, design wall thickness, corrosion allowance, and weld joint efficiency factor.  
+design stress, factor of safety, design wall thickness, corrosion allowance, and weld joint efficiency factor. 
 Basic drawing and design considerations of vessel components, vessel enclosure, supports, types of welding, 
 flanges and reinforcement. 
 10 hours 
@@ -3881,7 +3472,7 @@ Unit II
 Chapter 2 Shell and Tube Heat Exchanger 
 Basic design procedure of heat exchangers. Process requirements, including temperature profiles, pressure 
 constraints, and material compatibility. Design a shell -and-tube heat exchanger, including the configuration 
-of shell and tube arrangements, and optimise the heat transfer area and pressure drop.  
+of shell and tube arrangements, and optimise the heat transfer area and pressure drop. 
 08 hours 
 Chapter 3 Condenser 
 Basic design procedure of heat exchangers. Process requirements, including temperature profiles, pressure 
@@ -3904,20 +3495,17 @@ the number of trays, tray spacing, and height of the feed, vapour and liquid flo
 required for proper vapour-liquid disengagement at the top of the column. 
 08 hours 
 Chapter 6 Packed Bed Absorption Column 
-Selection of appropriate packing materials based on factors like surface area, void space, pressure drop,  
+Selection of appropriate packing materials based on factors like surface area, void space, pressure drop, 
 and material compatibility with the process fluids. Determine the optimal tower diameter, considering both 
 gas and liquid flow rates, as well as the type of packing. Calculate the number of transfer units (NtoG) and 
 the height of transfer units (HtoG) required to achieve the desired mass transfer, and how to use these 
 values to determine the total height of the packing needed for efficient absorption. 
 08 hours 
-
-## Page 88
-
-88 FMCD2009 / 2.0 
- 
-Text Books 
+ ## Page 88
+ 88 FMCD2009 / 2.0 
+  Text Books 
 1. Process Equipment Design by M. V. Joshi, 3rd Edition, Reprint, McMillan & Co. India, Delhi, 1998. 
-2. Process Design of Equipment – Volume 1 by S. D. Dawande, 6th Edition, Central Techno Publications, 
+2. Process Design of Equipment - Volume 1 by S. D. Dawande, 6th Edition, Central Techno Publications, 
 2003. 
 3. Perry's Chemical Engineers' Handbook by R. H. Perry and D. W. Green, 7th Edition, McGraw-Hill, 1998. 
 4. Process Heat Transfer by Donald Q. Kern, McGraw-Hill, 1997. 
@@ -3926,20 +3514,17 @@ Pergamon Press, 1993.
 6. Chemical Process Equipment: Selection and Design by James R. Couper, W. Roy Penney, James R. Fair, 
 and Stanley M. Walas, Gulf Professional Publishing (Elsevier). 
 Reference Books: 
-1. Specifications for Shell and Tube Heat Exchanger – Code Book IS 4503:1963, Bureau of Indian Standards. 
-2. Specifications for Pressure Vessels – IS 2825:1969, Bureau of Indian Standards. 
+1. Specifications for Shell and Tube Heat Exchanger - Code Book IS 4503:1963, Bureau of Indian Standards. 
+2. Specifications for Pressure Vessels - IS 2825:1969, Bureau of Indian Standards. 
 3. Process Equipment Design: Vessel Design by L. E. Brownell and E. H. Young, John Wiley & Sons, 1959. 
-
-## Page 89
-
-Back to Semester – VII 
+ ## Page 89
+ Back to Semester - VII 
 89 FMCD2009 / 2.0 
- 
-Program: Bachelor of Engineering Semester: VII 
+  Program: Bachelor of Engineering Semester: VII 
 Course Title: Process control and IIoT Course Code: 22ECEC402 
 L-T-P: 3-0-0 Credits: 3 Contact Hours:4 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
 Chapter 1: Instrumentation 
 Fundamentals: Static and dynamic characteristics. Indicators and recorders. Pressure measurement - 
@@ -3950,24 +3535,24 @@ Chapter 2: First-Order Systems
 First-Order Systems: Thermometer, level, mixing tank, STR, Linearization, I -order systems in series. 
 Response for various input forcing functions. 
 Second Order Systems: Characteristics of the manometer and damped vibrato r. Transfer functions. 
-Response for various input forcing functions, response for step input for the underdamped case – Terms 
+Response for various input forcing functions, response for step input for the underdamped case - Terms 
 associated with it. Transportation lag. 
 8 hours 
 Unit II 
 Chapter 3: Closed Loop System 
-Basic components. Servo and regulator control. Controllers – P, I, D and On –Off modes. Controller 
+Basic components. Servo and regulator control. Controllers - P, I, D and On -Off modes. Controller 
 Combinations - Final Control Elements: Valves, Actuators, and Valve Positioners. Closed Loop Response: 
-Block diagram,  Closed loop transfer function, Transient  response of servo and regulator control systems 
+Block diagram, Closed loop transfer function, Transient response of servo and regulator control systems 
 with various controller modes and the characteristics. 
 8 hours 
 Chapter 4: Stability 
-Stability of linear control systems. Routh Test. Frequency Response – Bode diagrams. Control System Design 
-by Frequency Response: Bode criterion. Gain and Phase margins, Ziegler –Nichols controller tuning, Cohen - 
-Coon controller tuning. Root Locus: Rules for plotting and problems.  
+Stability of linear control systems. Routh Test. Frequency Response - Bode diagrams. Control System Design 
+by Frequency Response: Bode criterion. Gain and Phase margins, Ziegler -Nichols controller tuning, Cohen - 
+Coon controller tuning. Root Locus: Rules for plotting and problems. 
 8 hours 
 Unit III 
 Chapter 5: Introduction to Industrial IIoT Systems 
-The Various Industrial Revolutions, Role of Internet of Things (IoT) &  Industrial Internet of Things (IIoT) in 
+The Various Industrial Revolutions, Role of Internet of Things (IoT) & Industrial Internet of Things (IIoT) in 
 Industry, Industry 4.0 revolutions, Support System for Industry 4.0, Smart Factories. Sensors and Actuators 
 for Industrial Processes, Sensor networks, Process automation and Data Acquisitions on IoT Platform, Real 
 Time Dashboard for Data Monitoring, Data Analytics and Predictive Maintenance with IIoT technology. Case 
@@ -3981,21 +3566,18 @@ Text Books
 4. Chemical Process Control-An Introduction to Theory & Practice, George Stephanopoules, Vol 3, Prentice 
 Hall, New Delhi, 1998. 
 5. Industry 4.0: The Industrial Internet of Things by Alasdair Gilchrist, published by Apress in 2016 
-
-## Page 90
-
-Back to Semester – VII 
+ ## Page 90
+ Back to Semester - VII 
 90 FMCD2009 / 2.0 
- 
-Program: Bachelor of Engineering Semester: VII 
+  Program: Bachelor of Engineering Semester: VII 
 Course Title: Introduction to Sustainable Technologies Course Code: 25ECEE401 
 L-T-P:3-0-0 Credits: 3 Contact Hours: 3Hrs / week 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours: 40 Examination Duration:3 Hrs  
+Teaching Hours: 40 Examination Duration:3 Hrs 
 Unit I 
 Chapter 1: Introduction to Sustainable Engineering and Life Cycle Assessment (LCA) 
 Definition and principles of sustainable engineering, The three pillars of sustainability (environmental, 
-economic, and social),  Life Cycle Assessment (LCA) methodology and its application in chemical 
+economic, and social), Life Cycle Assessment (LCA) methodology and its application in chemical 
 engineering, Environmental impact assessment (EIA) and its role in sustainable process design. 
 5 hours 
 Chapter 2: Green Chemistry and Catalysis for Sustainability: 
@@ -4007,7 +3589,7 @@ Unit II
 Chapter 3: Renewable Resources and Energy Efficiency: 
 Transitioning to a renewable e nergy future (solar, wind, biomass), Integration of renewable energy sources 
 in chemical processes, Energy efficiency principles and process optimisation for reduced energy 
-consumption, Carbon capture, utilisation, and storage (CCUS) technologies.  
+consumption, Carbon capture, utilisation, and storage (CCUS) technologies. 
 8 hours 
 Chapter 4: Sustainable Water Management and Wastewater Treatment): 
 Water scarcity and its implications for the chemical industry, Water conservation strategies in process 
@@ -4015,7 +3597,7 @@ design and operation, Sustainable wastewater treatment technologies (biological,
 Water reuse and resource recovery from wastewater (con sidering water, carbon capture, air pollution 
 control, and soil management). 
 8 hours 
-Unit III  
+Unit III 
 Chapter 5: Sustainable Life Cycle Management and Case Studies : 
 Design for sustainability across the entire product life cycle, Industrial symbiosis and eco-industrial parks for 
 resource exchange, Life cycle costing and techno -economic analysis of sustainable technologies, Case 
@@ -4032,23 +3614,20 @@ Rao, published by Academic Press in 2020.
 PHI Learning in 2015 
 4. Elements of Sustainable Chemical Process Design by Robert Smith, published by Wiley in 2005 
 5. Industrial Ecology and Sustainable Engineering by T. E. Graedel and Braden R. Allenby, published by 
-
-## Page 91
-
-Back to Semester – VII 
+ ## Page 91
+ Back to Semester - VII 
 91 FMCD2009 / 2.0 
- 
-Program: Bachelor of Engineering Semester: VII 
+  Program: Bachelor of Engineering Semester: VII 
 Course Title: Food Technology Course Code: 22ECEE402 
 L-T-P:3-0-0 Credits: 3 Contact Hours: 3Hrs / week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
 Chapter 1: Introduction to Food Processing and Sustainability: 
 Importance of food processing in the modern world, Unit operations in food processing (mixing, heat 
 transfer, mass transfer, size reduction), Role of Chemical engineers in food processin g design and 
 optimisation, Sustainability considerations in food processing (energy efficiency, water conservation, waste 
-minimisation), Life Cycle Assessment (LCA) applied to food production systems.  
+minimisation), Life Cycle Assessment (LCA) applied to food production systems. 
 8 hours 
 Chapter 2: Food Chemistry and Engineering Properties: 
 Chemical composition of major food components (carbohydrates, proteins, lipids, vitamins, minerals), 
@@ -4081,17 +3660,14 @@ Reference Books:
 2. Food Process Engineering by Ashim K. Datta, CRC Press, 2005, 3rd Edition) 
 3. Emerging Technologies in Food Processing by Sunil Kumar, Apple Academic Press 
 4. Food Chemistry by Owen R. Fennema, 4th Edition, CRC Press, 2007 
-
-## Page 92
-
-Back to Semester – VII 
+ ## Page 92
+ Back to Semester - VII 
 92 FMCD2009 / 2.0 
- 
-Program: Bachelor of Engineering Semester: VII 
+  Program: Bachelor of Engineering Semester: VII 
 Course Title: Advanced Process Control Course Code: 22ECEE403 
 L-T-P:3-0-0 Credits:3 Contact Hours:3Hrs/week 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration:3 Hrs  
+Teaching Hours:40 Examination Duration:3 Hrs 
 Unit I 
 1. Chapter 1: Introduction to Advanced Control Schemes: 
 Cascade, Feed -forward, Feed -forward plus Feedback, Ratio control, Inferential control, Dead time and 
@@ -4114,7 +3690,7 @@ Case studies, Introduction to CPLD, SPLD, FPGA.
 Unit III 
 5. Chapter 5: Digital Control: 
 Sampling and reconstruction, Discrete systems analysis, Stability and controller design using z transform 
-and difference equations, Smoothing filter realisation using difference equations.  
+and difference equations, Smoothing filter realisation using difference equations. 
 10 hours 
 Text Books 
 1. Stephanopoulos, G., Chemical Process Control, Prentice Hall of India Private Limited, 1983. 
@@ -4123,23 +3699,20 @@ Reference Books
 2. Deb, S. R., Robotics Technology and Flexible Automation, Tata McGraw-Hill, 1994. 
 Johnson, C. D., Process Control Instrumentation Technology, Prentice Hall of India Private Limited, 2007. 
 3. Zaidi, A., SPC Concepts, Methodologies and Tools, Prentice Hall of India Private Limited, 1995. 
-
-## Page 93
-
-Back to Semester – VII 
+ ## Page 93
+ Back to Semester - VII 
 93 FMCD2009 / 2.0 
- 
-Program: Bachelor of Engineering Semester: VII 
+  Program: Bachelor of Engineering Semester: VII 
 Course Title: Waste Management Course Code: 22ECEE404 
 L-T-P:3-0-0 Credits: 3 Contact Hours: 3Hrs / week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
 Chapter 1: Introduction to Waste Management and Sustainability: 
 Importance of waste management in the chemical process industry, classification of waste (hazardous, non - 
 hazardous, solid, liquid, and gaseous), Environmental regulations and legislation governing waste 
 management, Life Cycle Assessment (LCA) for waste ma nagement systems, and Introduction to sustainable 
-waste management principles (waste hierarchy and circular economy).  
+waste management principles (waste hierarchy and circular economy). 
 8 hours 
 Chapter 2: Waste Minimisation and Resource Recovery: 
 Source reduction strategies in chemical processes to minimise waste generation, Process design for waste 
@@ -4149,8 +3722,8 @@ Techno-economic analysis of waste minimisation and recovery options (e-waste and
 Unit II 
 Chapter 3: Treatment and Disposal of Hazardous Waste: 
 Characterisation of hazardous waste and its potential environmental impacts, Physical, chemical, and 
-biological treatment methods for hazardous waste, landfill and incineration of hazardous  waste (with a focus 
-on environmental safeguards), and Technologies for hazardous waste treatment and disposal.  
+biological treatment methods for hazardous waste, landfill and incineration of hazardous waste (with a focus 
+on environmental safeguards), and Technologies for hazardous waste treatment and disposal. 
 8 hours 
 Chapter 4: Treatment and Disposal of Non-Hazardous Waste: 
 Treatment of non -hazardous waste (municipal solid waste, industrial waste), Biological treatment of organic 
@@ -4161,7 +3734,7 @@ Unit III
 Chapter 5: Case Studies and Waste Management Planning: 
 Analysis of real-world case studies of successful waste management practices in the chemical industry, Waste 
 management planning for a hypothetical chemical process, Sustainability considerations in waste 
-management planning, Public perception, and social aspects of waste management.  
+management planning, Public perception, and social aspects of waste management. 
 8 hours 
 Text Books 
 1. The Solid Waste Handbook: A Practical Guide, William D. Robinson, Wiley-Interscience, 1st Edition, 1986. 
@@ -4172,47 +3745,44 @@ Reference Books:
 Ludwig, Stefanie Hellweg, Samuel Stucki, Springer Nature, 2012. 
 2. Sustainable Waste Management Challenges in Developing Countries, Agamuthu Pariatamby, Fauziah 
 Shahul Hamid, Mehran Sanam Bhatti, IGI Global, 2020. 
-
-## Page 94
-
-Back to Semester – VII 
+ ## Page 94
+ Back to Semester - VII 
 94 FMCD2009 / 2.0 
- 
-Program: Bachelor of Engineering Semester: VII 
+  Program: Bachelor of Engineering Semester: VII 
 Course Title: Petroleum and Petrochemicals Engineering Course Code: 22ECEE405 
 L-T-P:3-0-0 Credits: 3 Contact Hours: 3Hrs / week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
 Chapter 1: Introduction to Petroleum 
-Indian Petroleum Industry, Prospects and Future. Offshore and onshore, Origin, composition and  
+Indian Petroleum Industry, Prospects and Future. Offshore and onshore, Origin, composition and 
 classification of petroleum, Evaluation of petroleum by UOP -k factor, TBP analysis, EFV analysis. Average 
-boiling point. ASTM curves. Thermal properties of petroleum fractions.  
+boiling point. ASTM curves. Thermal properties of petroleum fractions. 
 8 hours 
 Chapter 2: Product Properties and Test Methods: 
-Gas. Various types of gas and LPG. Reid vapour pressure analysis. Gasoline and naptha.  Octane No. Oxidation 
+Gas. Various types of gas and LPG. Reid vapour pressure analysis. Gasoline and naptha. Octane No. Oxidation 
 stability. Additives for gasoline. Kerosene. Characterisation for flash point or fire point, volatility, burning 
 qualities, octane testing, and viscosity. Grades of di esels: HSD, LDO. Diesel additives. Lube oils: Types, tests, 
-carbon residue and viscosity index, Sustainability considerations in the petroleum sectors.  
+carbon residue and viscosity index, Sustainability considerations in the petroleum sectors. 
 7 hours 
 Unit II 
 Chapter 3: Crude processing and treatment methods: 
 Pretreatment of crude for Refining, Dehydration and desalting, Atmospheric distillation, Vacuum distillation 
 of residue products, Types of trays, flow pattern in the trays, Reflux types and their significance. Production 
-and treatment of LPG, sweetening of  petroleum products, including merox: ethanolamine, and copper 
+and treatment of LPG, sweetening of petroleum products, including merox: ethanolamine, and copper 
 chloride. Treatment of kerosene: De -aromatisation. Treatment of diesel, naptha and lubes: sulphuric acid, 
 clay treatment and solvent treatment. 
 8 hours 
 Chapter 4: Theory of Cracking and Processes 
 Thermal cracking: Theory of thermal cracking, Properties of cracked materials and factors influencing the 
 properties of cracked materials, Vis breaking, Dubs' coil cracking process. Catalytic cracking: Carbonium ion 
-chemistry, Fixed bed crackers, Moving  bed crackers. Fluid catalytic cracking: Flexi cracking -ortho-flow 
+chemistry, Fixed bed crackers, Moving bed crackers. Fluid catalytic cracking: Flexi cracking -ortho-flow 
 reactor. Naptha cracking for ethylene as feed selection and gas yield. Hydro cracking. Theory of hydro 
 cracking. Catalysts for hydrocracking. 
 7 hours 
 Unit III 
 Chapter 5: Introduction to petrochemicals and their derivatives: 
-Overview of Petrochemical Industry, Feedstock selections for Petrochemicals – Steam cracking of natural gas 
+Overview of Petrochemical Industry, Feedstock selections for Petrochemicals - Steam cracking of natural gas 
 and naphtha to produce olefins, diolefins and production of acetylene. Synthesis gas, and the Production of 
 Methanol. 
 5 hours 
@@ -4228,23 +3798,20 @@ Reference Books:
 1. Ram Prasad, "Petroleum Refining Technology", Khanna Publishers, First Edition, 2000. 
 2. Sami Matar and Lewis F. Hatch, "Chemistry of Petrochemical Processes", 2nd Edition, Gulf 
 Professional Publishing. 
-
-## Page 95
-
-Back to Semester – VII 
+ ## Page 95
+ Back to Semester - VII 
 95 FMCD2009 / 2.0 
- 
-Program: Bachelor of Engineering Semester: VII 
+  Program: Bachelor of Engineering Semester: VII 
 Course Title: Process Modelling & Simulation Course Code: 22ECEE406 
 L-T-P:3-0-0 Credits: 3 Contact Hours: 3 Hrs / week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
 Chapter 1: Introduction to Process Modelling and Simulation : 
 Definition and importance of process modelling in chemical engineering, Types of process models (steady - 
 state, dynamic, lumped, distributed), Introduction to process simulation software (Aspen Plus®, HYSYS), 
 Applications of process simulation in process d esign, optimisation, and troubleshooting, Sustainability 
-considerations in process modelling (e.g., integrating energy efficiency calculations).  
+considerations in process modelling (e.g., integrating energy efficiency calculations). 
 8 hours 
 Chapter 2: Material and Energy Balances in Modelling: 
 Applying stoichiometry and conservation principles to develop process models, Degrees of freedom analysis 
@@ -4266,8 +3833,8 @@ footprint calculations).
 8 hours 
 Unit III 
 Chapter 5: Process Optimisation and Design Improvement : 
-Introduction to process optimisation techniques for improving process performance,  Integration of process 
-simulation with optimisation algorithms,  Case studies: Optimising process parameters for efficiency, yield, 
+Introduction to process optimisation techniques for improving process performance, Integration of process 
+simulation with optimisation algorithms, Case studies: Optimising process parameters for efficiency, yield, 
 and sustainability metrics, Future trends in process modelling and simulation (e.g., Integration with machine 
 learning). 
 8 hours 
@@ -4281,40 +3848,37 @@ Reference Books:
 2022. 
 4. Sustainable Design for Chemical Processes: A Systematic Approach by Himadri B. Baskar, CRC Press, 1st 
 Edition, 2021 
-
-## Page 96
-
-Back to Semester – VII 
+ ## Page 96
+ Back to Semester - VII 
 96 FMCD2009 / 2.0 
- 
-Program: Bachelor of Engineering Semester: VII 
+  Program: Bachelor of Engineering Semester: VII 
 Course Title: Pollution Control Technologies Course Code: 22ECEE407 
 L-T-P:3-0-0 Credits: 3 Contact Hours: 3Hrs / week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
 Chapter 1: Introduction to Pollution Control and Sustainability: 
-Types of environmental pollution (air, water, soil) and their sources, Environmental regulations and  
+Types of environmental pollution (air, water, soil) and their sources, Environmental regulations and 
 legislation governing pollution control, Introduction to pollution prevention strategies and waste 
 minimisation techniques, Life Cycle Assessment (LCA) for evaluating environmental impact of processes and 
 pollution control systems, The role of chemical engineers in designing sustainable pollution control solutions. 
 8 hours 
 Chapter 2: Air Pollution Control Technologies : 
 Characteristics and control of major air pollutants (particulate matter, SOx, NOx, VOCs), Control technologies 
-for particulate matter (Filtration, cyclones, electrostatic precipitators), Gaseous pollutant control  
+for particulate matter (Filtration, cyclones, electrostatic precipitators), Gaseous pollutant control 
 technologies (scrubbing, adsorption, incine ration), Emerging air pollution control technologies (biofiltration, 
 plasma technology), Sustainability considerations in air pollution control (energy efficiency, waste 
 minimisation). 
 8 hours 
 Unit II 
 Chapter 3: Wastewater Treatment Technologies : 
-Characteristics and treatment of industrial wastewater,  Physical, chemical, and biological wastewater 
+Characteristics and treatment of industrial wastewater, Physical, chemical, and biological wastewater 
 treatment processes, Design considerations for primary, secondary, and tertiary wastewater treatment 
 systems, Sludge management and disposal options, Sust ainability considerations in wastewater treatment 
 (water conservation, resource recovery). 
 8 hours 
 Chapter 4: Pollution Control for Other Environmental Media : 
-Control of soil and groundwater contamination (remediation techniques), Solid waste management  
+Control of soil and groundwater contamination (remediation techniques), Solid waste management 
 strategies (landfills, incineration, recycling), Noise pollution control methods, Sustainability considerations in 
 managing other environmental contaminants. 
 8 hours 
@@ -4336,20 +3900,17 @@ Water Works Association (AWWA), 2011.
 P. Ela, Prentice Hall, 2007. 
 4. Green Engineering: Design for Environmental Sustainability (2nd Edition) by David T. Allen and David R. 
 Shonnard, Prentice Hall. 
-
-## Page 97
-
-Back to Semester – VII 
+ ## Page 97
+ Back to Semester - VII 
 97 FMCD2009 / 2.0 
- 
-Program: Bachelor of Engineering Semester: VII 
+  Program: Bachelor of Engineering Semester: VII 
 Course Title: Pulp & Paper Technology Course Code: 22ECEE408 
 L-T-P:3-0-0 Credits: 3 Contact Hours: 3Hrs / week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
 Chapter 1: Introduction to Pulp & Paper Industry and Sustainability: 
-Importance of pulp and paper products in society,  Raw materials for pulp and paper production (wood 
+Importance of pulp and paper products in society, Raw materials for pulp and paper production (wood 
 resources, fibres), Overview of the pulping, bleaching, and papermaking processes, Environmental impact of 
 the pulp and paper industry (air and water pollution, resource depletion), Sustainability initiativ es and best 
 practices in pulp and paper manufacturing. 
@@ -4368,7 +3929,7 @@ bleaching).
 8 hours 
 Chapter 4: Papermaking Processes and Paper Properties: 
 Stock preparation and papermaking unit operations (beating, refining, sheet forming), Paper additives and 
-their functions (fillers, coatings, sizing agents), Paper testing methods for key properties (strength,  
+their functions (fillers, coatings, sizing agents), Paper testing methods for key properties (strength, 
 brightness, opacity), Sustainability considera tions in papermaking (recycled fibre utilisation, water 
 conservation). 
 8 hours 
@@ -4385,24 +3946,20 @@ volume edition of the 4-volume set)
 Reference Books: 
 1. Bleaching of Pulp, 3rd Edition by Carlton W. Dence and Douglas W. Reeve; TAPPI Press, 1996; 
 ISBN 0898520630/9780898520637 
- 
-Back to Semester – VII 
-
-## Page 98
-
-98 FMCD2009 / 2.0 
- 
-Program: Bachelor of Engineering Semester: VII 
+  Back to Semester - VII 
+ ## Page 98
+ 98 FMCD2009 / 2.0 
+  Program: Bachelor of Engineering Semester: VII 
 Course Title: Data Analytics & Applications in Chemical Engineering Course Code: 22ECEE409 
 L-T-P:3-0-0 Credits: 3 Contact Hours: 3Hrs / week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
 Chapter 1: Introduction to Data Analytics and Sustainability: 
 Importance of data analytics in chemical engineering, Types of data relevant to chemical processes (sensor 
 data, historical records, experimental data), Introduction to data science tools and programming languages 
 (Python, R), Sustainability metrics and da ta-driven approaches for sustainable process design, Case studies: 
-Applications of data analytics in sustainability initiatives (e.g., energy optimisation, waste reduction).  
+Applications of data analytics in sustainability initiatives (e.g., energy optimisation, waste reduction). 
 8 hours 
 Chapter 2: Data Acquisition, Preprocessing, and Exploration: 
 Data acquisition methods from sensors, experiments, and databases, Data cleaning, handling missing values, 
@@ -4413,7 +3970,7 @@ Unit II
 Chapter 3: Statistical Analysis and Process Monitoring: 
 Statistical methods for analysing process data (descriptive statistics, hypothesis testing), Statistical process 
 control (SPC) techniques for monitoring process performance, Fault detection and diagnosis using data 
-analytics, Sustainability considerations in process monitoring (e.g., early detection of inefficiencies  for energy 
+analytics, Sustainability considerations in process monitoring (e.g., early detection of inefficiencies for energy 
 savings). 
 8 hours 
 Chapter 4: Machine Learning and Process Optimisation: 
@@ -4425,7 +3982,7 @@ Unit III
 Chapter 5: Case Studies and Advanced Applications: 
 Analysis of real-world case studies on data analytics applications in chemical engineering plants, Introduction 
 to advanced data analytics techniques (e.g., big data analytics, artificial neural networks), The future of data 
-analytics in chemical engineering and its role in sustainability advancements.  
+analytics in chemical engineering and its role in sustainability advancements. 
 8 hours 
 Text Books 
 1. Data Science for Chemical Engineering: Applications in Process Optimisation, Product Design, and 
@@ -4439,24 +3996,20 @@ Smith, John Wiley & Sons, 2016.
 Levenspiel), Pearson, 2016. 
 4. Sustainable Design for Chemical Processes: A Systematic Approach (3rd Edition) by Himadri B. Baskar, 
 CRC Press, 2024 
-
-## Page 99
-
-99 FMCD2009 / 2.0 
- 
-Back to Semester – VII 
- 
-Program: Bachelor of Engineering Semester: VII 
+ ## Page 99
+ 99 FMCD2009 / 2.0 
+  Back to Semester - VII 
+  Program: Bachelor of Engineering Semester: VII 
 Course Title: Unit Operations in Environmental Engineering Course Code: 22ECEE410 
 L-T-P:3-0-0 Credits: 3 Contact Hours: 3Hrs / week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
 Chapter 1: Introduction to Unit Operations and Environmental Engineering : 
 Definition and importance of unit operations in environmental engineering, Overview of water and 
 wastewater treatment processes, Air pollution control principles and unit operations, Sustainability 
 considerations in environmental engineering design (e.g., energy efficiency, resource recovery), Life Cycle 
-Assessment (LCA) for evaluating environmental impact of treatment systems.  
+Assessment (LCA) for evaluating environmental impact of treatment systems. 
 8 hours 
 Chapter 2: Physical Unit Operations : 
 Fluid mechanics and applications in environmental engineering (pumping, mixing), Part icle size distribution 
@@ -4468,7 +4021,7 @@ Unit II
 Chapter 3: Chemical and Biological Unit Operations : 
 Chemical equilibria and applications in water and wastewater treatment (e.g., pH adjustment, precipitation), 
 Disinfection methods for water and wastewater treatment, Biological wastewater treatment processes 
-(activated sludge, trickling filters), Introduct ion to advanced oxidation processes (AOPs) for pollutant  
+(activated sludge, trickling filters), Introduct ion to advanced oxidation processes (AOPs) for pollutant 
 removal, Sustainability considerations in chemical and biological processes (e.g., bioenergy production from 
 wastewater). 
 8 hours 
@@ -4495,22 +4048,18 @@ Water Works Association (AWWA); AWWA, 2017 (ISBN 978‑1625761910)
 3. Air Pollution Control Engineering (2nd Edition) by W. C. Sinnott; Humana Press, July 2, 2004 
 4. Introduction to Environmental Engineering and Science (3rd Edition) by Gilbert M. Masters and 
 William P. Ela; Prentice Hall, 2007 
- 
-Back to Semester – VII 
-
-## Page 100
-
-100 FMCD2009 / 2.0 
- 
-Program: Bachelor of Engineering Semester: VII 
+  Back to Semester - VII 
+ ## Page 100
+ 100 FMCD2009 / 2.0 
+  Program: Bachelor of Engineering Semester: VII 
 Course Title: Polymer Science & Technology Course Code: 22ECEE411 
 L-T-P:3-0-0 Credits: 3 Contact Hours: 3Hrs / week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
 Chapter 1: Introduction to Polymers and Sustainability: 
 Definition, classification, and structure of polymers, Polymerisation mechanisms (condensation, addition), 
-Relationship between polymer structure and properties (mechanical, thermal, electrical),  
+Relationship between polymer structure and properties (mechanical, thermal, electrical), 
 Importance of polymers in various applications (plastics, fi bres, coatings), sustainability in polymer science 
 (bio-based polymers, biodegradability, recycling), Life Cycle Assessment (LCA) for evaluating the 
 environmental impact of polymers. 
@@ -4533,7 +4082,7 @@ applications, Polymer hydrogels and their use in drug delivery, Polymer membrane
 8 hours 
 Unit III 
 Chapter 5: Case Studies and Design Projects : 
-Analysis of real -world case studies on successful applications of polymers in various industries. Design  
+Analysis of real -world case studies on successful applications of polymers in various industries. Design 
 project: Students will design a polymer -based product for a specific application, considering both technical 
 and sustainability aspects (e.g., biocompatible materials for medical devices, recyclable packaging materials). 
 Life Cycle Analysis of the Designed Polymer Product. 
@@ -4545,19 +4094,16 @@ Reference Books:
 2. Biodegradable Polymers and Composites (2nd Edition) by Michael Vert, Springer, 2002. 
 3. Polymer Physics (4th Edition) by Michael Rubinstein and Ralph H. Colby, Oxford University Press, 
 2003. 
-
-## Page 101
-
-Back to Semester – VII 
+ ## Page 101
+ Back to Semester - VII 
 101 FMCD2009 / 2.0 
- 
-Program: Bachelor of Engineering Semester: VII 
+  Program: Bachelor of Engineering Semester: VII 
 Course Title: Machine Learning for Process Optimisation in Chemical 
 Engineering 
 Course Code: 22ECEE412 
 L-T-P:3-0-0 Credits: 3 Contact Hours: 3 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
 Chapter 1: Introduction & Foundation: 
 Introduction to Machine Learning and Process Optimisation, Supervised Learning vs. Unsupervised Learning, 
@@ -4570,14 +4116,14 @@ Chapter 2: Advanced Machine Learning Techniques:
 Support Vector Machines (SVM) for Classification and Regression, Ensemble Methods (e.g., Random Forests, 
 Gradient Boosting), Introduction to Deep Learning and Artificial Neural Networks, Feature Engineering for 
 Chemical Process Data, Model Selection and Hy perparameter Tuning, Dimensionality Reduction Techniques 
-(e.g., PCA, t-SNE), Case Studies of Machine Learning Applications in Chemical Engineering.  
+(e.g., PCA, t-SNE), Case Studies of Machine Learning Applications in Chemical Engineering. 
 12 hours 
 Unit II 
 Chapter 3: Process Monitoring & Control: 
 Principal Component Analysis (PCA) for Process Monitoring, Fault Detection and Diagnosis using Machine 
 Learning, Multivariate Statistical Process Control (MSPC), Model -Predictive Control (MPC) with Machine 
 Learning Integration, Reinforcement Learning for Process Optimisation, Introduction to Cloud-based Machine 
-Learning for Chemical Processes. Ethical Considerations in Machine Learning Applications.  
+Learning for Chemical Processes. Ethical Considerations in Machine Learning Applications. 
 8 hours 
 Chapter 4: Optimisation & Integration: 
 Introduction to Optimisation Techniques (e.g., Gradient Desce nt), Integration of Machine Learning with 
@@ -4599,23 +4145,20 @@ Reference Books:
 3rd Edition, Wiley, 2018. 
 2. Elements of Chemical Process Control by Stephen Seborg, Duncan A. Mellichamp, Thomas F. Edgar, and 
 Daniel L. Lutz, 3rd Edition, Prentice Hall, 2013. 
-3. Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow by Aurélien Géron, 2nd  Edition, 
+3. Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow by Aurélien Géron, 2nd Edition, 
 O'Reilly Media, 2019. 
-
-## Page 102
-
-Back to Semester – VII 
+ ## Page 102
+ Back to Semester - VII 
 102 FMCD2009 / 2.0 
- 
-Program: Bachelor of Engineering Semester: VII 
+  Program: Bachelor of Engineering Semester: VII 
 Course Title: CIPE & EVS Course Code: 15EHSA401 
 L-T-P: Audit Credits: Audit Contact Hours: 3 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 32 Examination Duration: 3 Hrs  
-Unit – 1 
+Teaching Hours: 32 Examination Duration: 3 Hrs 
+Unit - 1 
 Chapter 1: Features of the Indian Constitution: 
-Features of the Indian  Constitution, Preamble to the Constitution  of India, Fundamental rights under Part  III 
-– details of Exercise of rights, Limitations &  Important cases. Berubari Union and Exchange of Enclaves, 
+Features of the Indian Constitution, Preamble to the Constitution of India, Fundamental rights under Part III 
+- details of Exercise of rights, Limitations & Important cases. Berubari Union and Exchange of Enclaves, 
 Kesavanand Bharati vs. UOI, Maneka Gandhi vs. UOI, Air India Ltd. vs. Nargees Meerza, T.M.A. Pai Foundation 
 v. State of Karnataka, M.C. Mehta vs. UOI. 
 4 Hrs 
@@ -4624,20 +4167,20 @@ Relevance of Directive Principles of State Policy under Part IV, Fundamental Dut
 SarlaMudgal v. UOI. 
 3 Hrs 
 Chapter 3: Union: 
-Union – President, Vice President, Union Council of Ministers, Prime Minister,  Parliament & the  Supreme 
+Union - President, Vice President, Union Council of Ministers, Prime Minister, Parliament & the Supreme 
 Court of India. 
 4 Hrs 
 Chapter 4: State: 
-State – Governors, State Council of Ministers, Chief Minister, State Legislature and Judiciary. 
+State - Governors, State Council of Ministers, Chief Minister, State Legislature and Judiciary. 
 2 Hrs 
 Chapter 5: Constitutional Provisions for Scheduled Castes & Tribes 
-Constitutional Provisions for Scheduled Castes & Tribes, Women &  Children & Backward classes,Emergency 
+Constitutional Provisions for Scheduled Castes & Tribes, Women & Children & Backward classes, Emergency 
 Provisions. 
 2 Hrs 
 Chapter 6: Electoral process 
 Electoral process, Amendment procedure, 42 nd , 44th, and 86th Constitutional amendments. 
 2 Hrs 
-Unit – 2 
+Unit - 2 
 Chapter 7: Scope & Aims of Engineering Ethics 
 Scope & Aims of Engineering Ethics: Meaning and purpose of Engineering Ethics, Responsibility of Engineers, 
 Impediments to responsibility, Honesty, Integrity and reliability, risks, safety & liability in engine ering. Bhopal 
@@ -4648,59 +4191,47 @@ Chapter 8: Intellectual Property Rights
 Chapter 9: Ethical perspectives of professional bodies 
 Ethical perspectives of professional bodies- IEEE, ASME, NSPE, ABET, ASCE, etc. 
 3 Hrs 
-Unit – 3 
+Unit - 3 
 Chapter 10: Effects of human activities on the environment 
 Effects of Human Activities on the Environment: Agriculture, Housing, Industry, Mining, and Transportation, 
-Environmental Impact Assessment, Sustainability, and Sustainable Development.  
+Environmental Impact Assessment, Sustainability, and Sustainable Development. 
 2Hrs 
 Chapter 11 Environmental Protection 
-Environmental Protection – Constitutional Provisions and Environmental Laws in India. 
+Environmental Protection - Constitutional Provisions and Environmental Laws in India. 
 2Hrs 
-
-## Page 103
-
-103 FMCD2009 / 2.0 
- 
-Text Books (List of books as mentioned in the approved syllabus) 
+ ## Page 103
+ 103 FMCD2009 / 2.0 
+  Text Books (List of books as mentioned in the approved syllabus) 
 1. Dr. J. N. Pandey, "Constitutional Law of India", Central Law Agency, 2005 
-2. Dr. M.K. Bhandari, "Law relating to Intellectual Property Rights", Central Law Publications,Allahabad, 
+2. Dr. M.K. Bhandari, "Law relating to Intellectual Property Rights", Central Law Publications, Allahabad, 
 2010. 
 3. Charles E. Harris and others, "Engineering Ethics: Concepts and Cases", Thomson Wadsworth, 2003 
 References 
 1. Durga Das Basu, "Introduction to the Constitution of India", Prentice-Hall EEE, 2001 
 2. Mike Martin and Ronald Schinzinger, "Ethics in Engineering", Tata McGraw-Hill Publications. 
-
-## Page 104
-
-104 FMCD2009 / 2.0 
- 
-Back to Semester – VII 
- 
-Program: Bachelor of Engineering Semester: VII 
+ ## Page 104
+ 104 FMCD2009 / 2.0 
+  Back to Semester - VII 
+  Program: Bachelor of Engineering Semester: VII 
 Course Title: Senior Design Project Course Code: 22ECEW401 
 L-T-P: 0-0-6 Credits: 6 Contact Hours: 6 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
- 
-About the Course: 
+Teaching Hours: 40 Examination Duration: 3 Hrs 
+  About the Course: 
 The Senior Design project course employs a user experience design (UX) approach to solve complex 
 engineering problems. In this course, students are challenged to solve complex engineering problems at the 
 frontier of smart manufacturing, green engineering, design engineering, and advanced materials. The 
 objective of the course is to instil lifelong qualities in students, such as research, design thinking, innovation, 
 and entrepreneurial qualities. Upon completing this course, students will be able to convert customer pain 
 points into effective business solutions. 
-
-## Page 105
-
-105 FMCD2009 / 2.0 
- 
-Back to Semester – VII 
- 
-Program: Bachelor of Engineering Semester: VII 
+ ## Page 105
+ 105 FMCD2009 / 2.0 
+  Back to Semester - VII 
+  Program: Bachelor of Engineering Semester: VII 
 Course Title: Process Control Lab. Course Code: 22ECEP401 
 L-T-P:0-0-1 Credits: 1 Contact Hours: 2 Hrs/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
-Teaching Hours: 28 Examination Duration: 3 Hrs  
+Teaching Hours: 28 Examination Duration: 3 Hrs 
 List of Experiments 
 1. First-order system 
 2. Second Order System 
@@ -4718,79 +4249,65 @@ McGraw-Hill, New Delhi, 1991.
 2. Process Modelling, Simulation & Control for Chemical Engineers by William L. Luyben, 2nd Edition, 
 McGraw-Hill, 1990. 
 Reference Books: 
-1. Chemical Process Control – An Introduction to Theory and Practice by George Stephanopoulos, Vol. 3, 
+1. Chemical Process Control - An Introduction to Theory and Practice by George Stephanopoulos, Vol. 3, 
 Prentice Hall, New Delhi, 1998. 
-
-## Page 106
-
-106 FMCD2009 / 2.0 
- 
-Curriculum Content - Course wise (Semester – 8) 
- 
-Program: Bachelor of Engineering Semester: VIII 
-Course Title: Internship – Training Course Code: 22ECEI401 
+ ## Page 106
+ 106 FMCD2009 / 2.0 
+  Curriculum Content - Course wise (Semester - 8) 
+  Program: Bachelor of Engineering Semester: VIII 
+Course Title: Internship - Training Course Code: 22ECEI401 
 L-T-P: 0-0-6 Credits: 6 Contact Hours: --- 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: Examination Duration: 3 Hrs  
- 
-Internships are educational and career development opportunities that provide practical experience in a field  
+Teaching Hours: Examination Duration: 3 Hrs 
+  Internships are educational and career development opportunities that provide practical experience in a field 
 or discipline. They are structured, short -term, supervised placements often focused on particular tasks or 
 projects with defined timelines. 
 An internship may be compensated, non -compensated, or partially paid. The internship must be both 
 meaningful and mut ually beneficial to the intern and the organisation. The objectives and the activities of the 
-internship program must be clearly defined and understood. The following  are the intended objectives of 
+internship program must be clearly defined and understood. The following are the intended objectives of 
 internship training: 
 • Will expose Technical students to the industrial environment, which cannot be simulated in the 
-classroom and hence create competent professionals for the industry.  
+classroom and hence create competent professionals for the industry. 
 • Provide opportunities to learn, understand, and sharpen the real-time technical/managerial skills required 
 for the job. 
 • Exposure to the current technological developments relevant to the subject area of training. 
 • Experience gained from the 'Industrial Internship' will be applied in classroom discussions. 
 • Create conditions conducive to the pursuit of knowledge and its practical application in the workplace. 
-
-## Page 107
-
-Back to Semester – VIII 
+ ## Page 107
+ Back to Semester - VIII 
 107 FMCD2009 / 2.0 
- 
-Program: Bachelor of Engineering Semester: VIII 
+  Program: Bachelor of Engineering Semester: VIII 
 Course Title: Internship - Project Course Code: 22ECEW403 
 L-T-P: 0-0-11 Credits: 11 Contact Hours: --- 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
- Examination Duration: 3 Hrs  
- 
-An internship is an  experiential academic experience in which a student has intentional learninggoals/objectives 
-with measurable outcomes. These learning goals/objectives may include:  
- Academic Learning: The student may apply and test knowledge learned in the classroom to a  
+ Examination Duration: 3 Hrs 
+  An internship is an experiential academic experience in which a student has intentional learninggoals/objectives 
+with measurable outcomes. These learning goals/objectives may include: 
+ Academic Learning: The student may apply and test knowledge learned in the classroom to a 
 professional work environment. 
  Career Development: The student may explore a specific field of interest, expand their professional 
-network, and gain an understanding  of the qualifications and duties involved in a particular profession or 
+network, and gain an understanding of the qualifications and duties involved in a particular profession or 
 career field. 
  Skill Development: The student gains an understanding of the transferable skills and knowledge required 
-for success in a professional work environment and integrates those skills into theiracademic learning.  
+for success in a professional work environment and integrates those skills into theiracademic learning. 
  Personal Development: The student gains decision -making skills, self -confidence, business acumen, 
-ethics, and teamwork skills required for success in a professional work environment.  
- 
-An internship is designed as an exchange. The student agrees to complete work that will benefit the host 
-organisation, and in return, is offered  the opportunity to learn new skills, expand their knowledge of a 
-particular field, and explore career options. Employers offer internships for many  reasons. They view student 
+ethics, and teamwork skills required for success in a professional work environment. 
+  An internship is designed as an exchange. The student agrees to complete work that will benefit the host 
+organisation, and in return, is offered the opportunity to learn new skills, expand their knowledge of a 
+particular field, and explore career options. Employers offer internships for many reasons. They view student 
 interns as valuable and cost -effective resources that enable them to accomplish projects that would otherwise 
 be impossible. They believe that interns bring enthusiasm and new ideas into work settings and help develop 
 strong employees. Just as importantly, employers feel an increasing commitment to education and want to 
 help train students to assume responsible roles in society. 
-
-## Page 108
-
-Back to Semester – VIII 
+ ## Page 108
+ Back to Semester - VIII 
 FMCD2009 / 2.0 108 
- 
-Program: Bachelor of Engineering Semester: VIII 
+  Program: Bachelor of Engineering Semester: VIII 
 Course Title: Capstone Project Course Code: 22ECEW402 
 L-T-P: 0-0-11 Credits: 11 Contact Hours: 22 hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
- Examination Duration: 3 Hrs  
- 
-An academic capstone project is a comprehensive project that culminates a student's academic and intellectual 
+ Examination Duration: 3 Hrs 
+  An academic capstone project is a comprehensive project that culminates a student's academic and intellectual 
 experience. Most commonly, capstone projects are undertaken during the final year of school or at the 
 conclusion of an academic program. 
 The purpo se of this project is to prepare students for future career challenges. Even the topics students are 
@@ -4798,20 +4315,17 @@ assigned (or choose for themselves) are designed to help them analyse real -life
 suitable solutions, thus contributing to their wi sdom, knowledge, and problem -solving abilities. In the process of 
 researching a solution to the problem students intend to solve for their capstone project, students will also gain 
 insight into the latest trends in their field. 
-
-## Page 109
-
-Back to Semester – VIII 
+ ## Page 109
+ Back to Semester - VIII 
 FMCD2009 / 2.0 109 
- 
-Program: Bachelor of Engineering Semester: VIII 
+  Program: Bachelor of Engineering Semester: VIII 
 Course Title: Fuels, Furnaces and Refractories Course Code: 22ECEE421 
 L-T-P:3-0-0 Credits:3 Contact Hours: 3 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks:100 
-Teaching Hours: 40 Examination Duration:3 Hrs  
+Teaching Hours: 40 Examination Duration:3 Hrs 
 Unit I 
 Chapter 1: Fuels and Types: 
-Definition of Fuel, Types of Fuel, Conventional and Non -conventional Fuel. Types of Energy Resources:  
+Definition of Fuel, Types of Fuel, Conventional and Non -conventional Fuel. Types of Energy Resources: 
 Potential of Energy Resources and Their Exploitation. Types of solid fuels. Origin and formation of coal. 
 Classification of Coal. 
 08 hours 
@@ -4840,7 +4354,7 @@ Characterisation and specification of ceramic materials, Including Chemical and 
 size and shape, Density, pore structure, and specific surface area. 
 05 hours 
 Particle mechanics and rheology: 
-Particle packing characteristics – Models of one and two spherical balls. Gap grading, continuous grading. 
+Particle packing characteristics - Models of one and two spherical balls. Gap grading, continuous grading. 
 Rheological behaviour of slurries and pastes: Newtonian fluid, plastic flow, dilatant liquid, thixotropic, 
 Deflocculating, Zeta potential, effect of electrolytes on Zeta potentials, appl ications in ceramic processing. 
 05 hours 
@@ -4850,17 +4364,14 @@ Text Books
 3. Materials Characterisation: Introduction to Microscopic and Spectroscopic Methods by Prof. Yang Leng, 
 1st Edition, Wiley, 2013. 
 4. Elements of Fuels, Furnaces and Refractories by O. P. Gupta, Khanna Publishers, 1999. 
-
-## Page 110
-
-Back to Semester – VIII 
+ ## Page 110
+ Back to Semester - VIII 
 FMCD2009 / 2.0 110 
- 
-Program: Bachelor of Engineering Semester: VIII 
+  Program: Bachelor of Engineering Semester: VIII 
 Course Title: Nano Materials & Applications Course Code: 22ECEE422 
 L-T-P:3-0-0 Credits: 3 Contact Hours: 3 Hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
 Chapter 1: Fundamentals of Nanomaterials : 
 Introduction to nanoscience and nanotechnology: size dependence, unique properties (electrical, optical, 
@@ -4877,12 +4388,12 @@ Unit II
 Chapter 3: Applications of Nanomaterials in Chemical Engineering : 
 Catalysis: design of nanocatalysts for efficient and selective reactions, Drug delivery and bioengineering 
 applications of nanomaterials, Energy applications: solar cells, batteries, fuel cells using nanomaterials, Water 
-treatment and pollution remediation  using nanomaterials, Sustainable applications of nanomaterials in 
+treatment and pollution remediation using nanomaterials, Sustainable applications of nanomaterials in 
 chemical processes. 
 8 hours 
 Chapter 4: Environmental, Health, and Safety (EHS) Considerations : 
 Potential environmental and health risks associated with nanomaterials, characterisation of nanoparticle 
-toxicity and exposure assessment,  Environmental regulations and safe handling practices for nanomaterials, 
+toxicity and exposure assessment, Environmental regulations and safe handling practices for nanomaterials, 
 Sustainable life cycle management of nanomaterials. 
 8 hours 
 Unit III 
@@ -4899,17 +4410,14 @@ Rao, Wiley Publishers, 2013.
 Reference Books: 
 1. Feynman Lectures on Physics Vol. 3: Quantum Mechanics by Richard P. Feynman, Robert B. Leighton, 
 and Matthew L. Sands, Addison-Wesley, 1965 
-
-## Page 111
-
-Back to Semester – VIII 
+ ## Page 111
+ Back to Semester - VIII 
 FMCD2009 / 2.0 111 
- 
-Program: Bachelor of Engineering Semester: VIII 
+  Program: Bachelor of Engineering Semester: VIII 
 Course Title: AI & ML for Chemical Engineers Course Code: 22ECEE423 
 L-T-P:3-0-0 Credits: 3 Contact Hours: 3 Hrs / week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
 Chapter 1: Introduction to AI and ML : 
 Fundamentals of artificial intelligence and machine learning, Types of machine learning (supervised, 
@@ -4918,12 +4426,12 @@ optimisation, control, materials science), Potential impacts of AI/ML in the che
 8 hours 
 Chapter 2: Machine Learning Fundamentals and Tools : 
 Data acquisition and preprocessing for machine learning, Feature engineering and selection techniques, 
-Introduction to machine learning algorithms (linear regression, decision trees, neural networks), Introduction  
+Introduction to machine learning algorithms (linear regression, decision trees, neural networks), Introduction 
 to Python programming and machine learning libraries (Scikit-learn, Tensor Flow). 
 8 hours 
 Unit II 
 Chapter 3: Applications in Process Engineering : 
-Machine learning for process modelling and prediction,  AI-powered process optimisation and control 
+Machine learning for process modelling and prediction, AI-powered process optimisation and control 
 strategies, Machine learning for anomaly detection and fault diagnosis, Case studies of AI/ML applications in 
 specific chemical engineering processes (e.g., reaction engineering, distillation), Integration of AI/ML models 
 into process simulation software. 
@@ -4948,27 +4456,24 @@ Carlos M. Górecki, CRC Press, 2020 (2nd edition).
 2nd edition, 2019. 
 3. Introduction to Chemical Engineering Computing by Bruce A. Finlayson, Wiley-Interscience, 2nd 
 Edition, 2014. 
-
-## Page 112
-
-Back to Semester – VIII 
+ ## Page 112
+ Back to Semester - VIII 
 FMCD2009 / 2.0 112 
- 
-Program: Bachelor of Engineering Semester: VIII 
+  Program: Bachelor of Engineering Semester: VIII 
 Course Title: Environmental Impact Assessment Course Code: 22ECEE424 
 L-T-P:3-0-0 Credits: 3 Contact Hours: 3Hrs / week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
 Chapter 1: Introduction to EIA, Indian Regulations and Sustainability : 
-Definition, Objectives, Types – Rapid and Comprehensive EIA, EIS, FONSI, Step-by-step procedure for conducting 
+Definition, Objectives, Types - Rapid and Comprehensive EIA, EIS, FONSI, Step-by-step procedure for conducting 
 EIA, Limitations of EIA, Prevention of Significant Deterioration (PSD) Programme. Carrying capacity concept and 
 baseline evaluation. 
 8 hours 
 Chapter 2: EIA Methodology and Scoping : 
 Stages of the EIA process (screening, scoping, impact assessmen t, mitigation, and monitoring). The scoping 
 process involves identifying key environmental issues and stakeholders. Public participation and stakeholder 
-engagement in EIA are also important considerations. Additionally, Data collection and analysis methods  for EIA 
+engagement in EIA are also important considerations. Additionally, Data collection and analysis methods for EIA 
 are crucial. 
 8 hours 
 Unit II 
@@ -4978,10 +4483,10 @@ generation), Assessment methodologies for air, water, and soil impacts, Risk ass
 strategies for environmental hazards, Sustainable design considerations for minimising environmental impacts. 
 8 hours 
 Chapter 4: EIA Report Preparation and Review : 
-Content and structure of an EIA report, Effective communication of environmental impacts in EIA reports,  
+Content and structure of an EIA report, Effective communication of environmental impacts in EIA reports, 
 Review process and decision -making based on EIA findings, Content and structure of an EIA report as per Indian 
-EIA Notification Guidelines,  Effective communication of environmental impacts in EIA reports for Indian 
-audiences, Review process for EIA reports  by SEIAA and State Pollution Control Boards, Case studies of EIA 
+EIA Notification Guidelines, Effective communication of environmental impacts in EIA reports for Indian 
+audiences, Review process for EIA reports by SEIAA and State Pollution Control Boards, Case studies of EIA 
 approvals and rejections in Indian chemical industries. 
 8 hours 
 Unit III 
@@ -4996,22 +4501,19 @@ Routledge, 2019.
 Reference Books: 
 1. Industrial Ecology: Parasites or Symbionts? by T. E. Graedel and B. R. Allenby, Prentice Hall, 2003 
 (Reprint of 1995 edition). 
-
-## Page 113
-
-Back to Semester – VIII 
+ ## Page 113
+ Back to Semester - VIII 
 FMCD2009 / 2.0 113 
- 
-Program: Bachelor of Engineering Semester: VIII 
+  Program: Bachelor of Engineering Semester: VIII 
 Course Title: Corrosion Engineering Course Code: 22ECEE425 
 L-T-P:3-0-0 Credits: 3 Contact Hours: 3Hrs / week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 40 Examination Duration: 3 Hrs  
+Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
 Chapter 1: Fundamentals of Corrosion : 
 Introduction to corrosion and its types (electrochemical, galvanic, stress corrosion cracking), Thermodynamics 
 and kinetics of corrosion processes, Factors influ encing corrosion rates (material properties, environment, 
-temperature), Sustainability considerations of corrosion and its economic impact.  
+temperature), Sustainability considerations of corrosion and its economic impact. 
 8 hours 
 Chapter 2: Corrosion Mechanisms and Material Selection : 
 Understanding different corrosion mechanisms (uniform, pitting, crevice), Corrosion behaviour of various 
@@ -5032,7 +4534,7 @@ maintenance strategies for corroding equipment.
 Unit III 
 Chapter 5: Case Studies and Design Project : 
 Case studies of corrosion failures in the chemical process industry, Student -led design project: propose a 
-solution for a corrosion problem in a specific  chemical process, considering material selection, corrosion control 
+solution for a corrosion problem in a specific chemical process, considering material selection, corrosion control 
 strategies, and sustainability aspects. 
 8 hours 
 Text Books 
@@ -5044,17 +4546,14 @@ John Wiley & Sons, 10th Edition (2014).
 3. Handbook of Corrosion Engineering, edited by Pierre Roberge, McGraw‑Hill (2000). 
 4. Metals Handbook, Volume 13: Corrosion, edited by ASM International, 9th Edition (1987) 
 5. Green Corrosion Inhibitors: Principles and Practices, edited by Xiangxiang Liu et al. (Springer, 2022). 
-
-## Page 114
-
-Back to Semester – VIII 
+ ## Page 114
+ Back to Semester - VIII 
 FMCD2009 / 2.0 114 
- 
-Program: Bachelor of Engineering Semester: VIII 
+  Program: Bachelor of Engineering Semester: VIII 
 Course Title: Green Technology Course Code: 22ECEO401 
 L-T-P:3-0-0 Credits:3 Contact Hours:3Hrs/week 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration:3 Hrs  
+Teaching Hours:40 Examination Duration:3 Hrs 
 Unit I 
 Chapter 1: Introduction to Green Technologies: 
 Definition and principles of green chemistry and engineering, sustainability and the twelve principles of 
@@ -5071,11 +4570,10 @@ Chapter 3: Sustainable Energy Technologies:
 Renewable energy sources: solar, wind, biomass, geothermal, tidal, ocean and hydropower. Energy 
 storage technologies: batteries, fuel cells, and hydrogen storage. Biofuels and their production. Energy 
 efficiency in chemical processes. Carbon capture and sequestration (CCS). 
- 
-07 hours 
+  07 hours 
 Chapter 4: Green Material Science and Engineering: 
 Design for sustainability: life cycle analysis of materials, Biodegradable and compostable materials, Green 
-polymers and composites, Nanotechnology for Environmental Remediation, Life cycle assessment (LCA)  
+polymers and composites, Nanotechnology for Environmental Remediation, Life cycle assessment (LCA) 
 of materials. 
 08 hours 
 Unit III 
@@ -5087,7 +4585,7 @@ programs.
 Text Books 
 1. Solar Energy Utilisation, G.D. Rai, 4th Edn., Khanna Publications, 2006. 
 Reference Books: 
-1. Introduction to Green Chemistry, 3rd Edition by John Andraos and Albert Matlack,  CRC Press (Taylor 
+1. Introduction to Green Chemistry, 3rd Edition by John Andraos and Albert Matlack, CRC Press (Taylor 
 & Francis), 2014. 
 2. Green Chemistry: Theory and Practice by Paul T. Anastas and John C. Warner, Oxford University Press, 
 1998. 
@@ -5095,17 +4593,14 @@ Reference Books:
 Brasier, John Wiley & Sons, Inc., 2008. 
 4. Industrial Green Chemistry: Atom Economy and the Design of Chemical Syntheses by Robert M. 
 Anastas and John C. Warner, Oxford University Press, 1998. 
-
-## Page 115
-
-Back to Semester – VIII 
+ ## Page 115
+ Back to Semester - VIII 
 FMCD2009 / 2.0 115 
- 
-Program: Bachelor of Engineering Semester: VIII 
+  Program: Bachelor of Engineering Semester: VIII 
 Course Title: Process Air Pollution & Control Course Code: 22ECEO402 
 L-T-P:3-0-0 Credits:3 Contact Hours:3Hrs/week 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration:3 Hrs  
+Teaching Hours:40 Examination Duration:3 Hrs 
 Unit I 
 Chapter 1: Introduction: 
 Definition of Air Pollution, sources, characterisation and classification of atmospheric pollutants, air pollution 
@@ -5119,20 +4614,20 @@ heat island effect.
 08 hours 
 Unit II 
 Chapter 3: Monitoring of particulate matter 
-Respirable, non -respirable and nano -particulate matter. Monitoring of gaseous pollutants – CO, CO 2, 
+Respirable, non -respirable and nano -particulate matter. Monitoring of gaseous pollutants - CO, CO 2, 
 Hydrocarbons, SO X and NO X, photochemical oxidants. Monitoring equipment and sampling devices include 
-stack sampling (Isokinetic sampling), air samplers, and a gas exhaust analyser. Air Pollution Index.  
+stack sampling (Isokinetic sampling), air samplers, and a gas exhaust analyser. Air Pollution Index. 
 08 hours 
 Chapter 4: Pollutant dispersion models 
-Point, line and areal sources models. Box model, Gaussian plume dispersion model – for point source (with 
+Point, line and areal sources models. Box model, Gaussian plume dispersion model - for point source (with 
 and without reflection), Gaussian dispersion coefficient, Determination of ground level concentrations. 
 Infinite line source Gaussian model. Plume rise and effective stack height calculations. 
 07 hours 
 Unit III 
 Chapter 5: Air Pollution Control Equipment: 
-Mechanisms, Control equipment for particulate matter – gravity settling chambers, centrifugal collectors, 
+Mechanisms, Control equipment for particulate matter - gravity settling chambers, centrifugal collectors, 
 wet collectors, scrubbers, fabric filters, electrostatic precipitator (ESP) - Control Equipment for gaseous 
-pollutants – adsorption, absorption, condensation and combustion. 
+pollutants - adsorption, absorption, condensation and combustion. 
 10 hours 
 Text Books 
 1. Air Pollution Control Technology Handbook by Karl B. Schnelle Jr. and Paul O. Warner, CRC Press, 2002. 
@@ -5153,17 +4648,14 @@ Inc., Menlo Park, 3rd edition, 1998.Crawford, M., Air Pollution Control Theory, 
 5. Howard S. Peavy, Donald R. Rowe and George Technobanoglous. Environmental Engineering, McGraw - 
 Hill International Publications, 1985. 
 6. Stern, A. C., Air Pollution: The Effects of Air Pollution, Academic Press, 3rd edition, 1977. 
-
-## Page 116
-
-Back to Semester – VIII 
+ ## Page 116
+ Back to Semester - VIII 
 FMCD2009 / 2.0 116 
- 
-Program: Bachelor of Engineering Semester: VIII 
+  Program: Bachelor of Engineering Semester: VIII 
 Course Title: Environmental Protection and Management Course Code: 22ECEO403 
 L-T-P:3-0-0 Credits:3 Contact Hours:3Hrs/week 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration:3 Hrs  
+Teaching Hours:40 Examination Duration:3 Hrs 
 Unit I 
 Chapter 1: Introduction to Environmental Protection and Sustainability: 
 Environmental challenges and their impact on society (climate change, air and water pollution, resource 
@@ -5173,7 +4665,7 @@ engineers in environmental protection.
 Chapter 2: Environmental Regulations and Management Systems: 
 Major environmental regulations (e.g., the Clean Air Act, the Clean Water Act), Environmental impact 
 assessment (EIA) and permitting processes, Environmental management systems (EMS) based on ISO 14001 
-standards, the Pollution prevention (P2) hierarchy, and waste minimisation strategies.  
+standards, the Pollution prevention (P2) hierarchy, and waste minimisation strategies. 
 07 hours 
 Unit II 
 Chapter 3: Sustainable Process Design and Engineering: 
@@ -5185,7 +4677,7 @@ technologies.
 Chapter 4: Environmental Treatment Technologies: 
 Wastewater treatment: biological, physical, and chemical methods. Air pollution control technologies. Solid 
 waste management: recycling, composting, landfills, and waste-to-energy technologies. Remediation of 
-contaminated sites (soil and groundwater). Emerging technologies for environmental protection.  
+contaminated sites (soil and groundwater). Emerging technologies for environmental protection. 
 07 hours 
 Unit III 
 Chapter 5: Case Studies and Sustainability Project: 
@@ -5206,21 +4698,18 @@ Resource Conservation by Frank P. Robinson, Elsevier, 2008.
 4. Environmental Life Cycle Assessment by Olivier Jolliet et al., CRC Press, 1st edition, 2016 
 5. Green Engineering: A Practical Approach to Reducing Pollution by David T. Allen and David R. Shonnard, 
 Prentice Hall, 2003. 
-
-## Page 117
-
-Back to Semester – VIII 
+ ## Page 117
+ Back to Semester - VIII 
 FMCD2009 / 2.0 117 
- 
-Program: Bachelor of Engineering Semester: VIII 
+  Program: Bachelor of Engineering Semester: VIII 
 Course Title: Solid Waste Management Course Code: 22ECEO404 
 L-T-P:3-0-0 Credits:3 Contact Hours:3Hrs/week 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration:3 Hrs  
+Teaching Hours:40 Examination Duration:3 Hrs 
 Unit I 
 1. Chapter 1: Introduction: 
 Sources and engineering classification, characterisation, generation, and quantification; Objectives, 
-principles, and functional elements of a solid waste management system – Regulatory aspects of solid 
+principles, and functional elements of a solid waste management system - Regulatory aspects of solid 
 waste management, major problems. Environmental impli cations of open dumping, Construction debris 
 management and handling, e-waste management, Rag pickers, and their role. 
 08 hours 
@@ -5229,7 +4718,7 @@ Rate of generation, frequency, storage, and refuse collection; physical and chem
 quantity of waste; engineering properties of waste; prediction and modelling concepts. Collection 
 services, Segregation, and Transport: handling and segregati on of waste at the source, collection 
 (primary & secondary) and storage of municipal solid waste, collection equipment, transfer stations, 
-collection route optimisation, and economics, regional concepts.  
+collection route optimisation, and economics, regional concepts. 
 07 hours 
 Unit II 
 3. Chapter 3: Waste Minimization: 
@@ -5244,10 +4733,10 @@ Unit III
 5. Chapter 5: Disposal Methods: 
 Factors affecting disposal methods, open dumping and ocean dumping. 
 Sanitary land filling - Site investigation and selection, Types, geotechnical considerations, design criteria, 
-and design. Liners include earthen, geosynthetic, and geotextile materials.  
+and design. Liners include earthen, geosynthetic, and geotextile materials. 
 6. Chapter 6: Operational Aspects of MSW Landfills 
-Daily cover, leachate disposal, Groundwater monitoring, leachate and gas collection systems – Design, 
-leachate treatment. Landfill Final Cap Design and Water Balance, Modelling (HELP – Hydraulic 
+Daily cover, leachate disposal, Groundwater monitoring, leachate and gas collection systems - Design, 
+leachate treatment. Landfill Final Cap Design and Water Balance, Modelling (HELP - Hydraulic 
 Evaluation of Landfill Performance), post-closure environmental monitoring; landfill remediation. 
 10 hours 
 Text Books 
@@ -5259,49 +4748,46 @@ Metcalf & Eddy, Inc., 5th edition, McGraw-Hill, 2002
 2. Waste Management for the Chemical Industry by William E. Franklin 
 3. Introduction to Materials for Environmental Engineering by Albuquerque et al. 
 4. Handbook of Thermal Desorption by Theodore Vermeulen et al. 
-
-## Page 118
-
-Back to Semester – VIII 
+ ## Page 118
+ Back to Semester - VIII 
 FMCD2009 / 2.0 118 
- 
-Program: Bachelor of Engineering Semester: VIII 
+  Program: Bachelor of Engineering Semester: VIII 
 Course Title: Occupational Safety and Health Administration Course Code: 22ECEO405 
 L-T-P:3-0-0 Credits:3 Contact Hours:3Hrs/week 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration:3 Hrs  
+Teaching Hours:40 Examination Duration:3 Hrs 
 Unit I 
 Chapter 1: Introduction to OSHA: 
-Introduction – concept and scope of occupational safety and environmental health, basic requirements 
+Introduction - concept and scope of occupational safety and environmental health, basic requirements 
 for a healthy environment and environmental quality, human exposure and impact of environmental 
 factors on health. 
 Occupational Safety and Health Administr ation - Laws governing OSHA and Right to Know, National 
-Safety Law, types of diseases and their spread, Health Emergencies.  
+Safety Law, types of diseases and their spread, Health Emergencies. 
 08 hours 
 Chapter 2: Environmental Regulations and Management Systems: 
 Ergonomics at the workplace - Preventing ergonomic hazards, Ergonomic task analysis, Ergonomic 
 standards, and Ergonomic programs. 
-Occupational hazard and control – Hazard analysis, Human error and fault tree analysis, Emergency 
+Occupational hazard and control - Hazard analysis, Human error and fault tree analysis, Emergency 
 response, Principles of Safety. 
 07 hours 
 Unit II 
 Chapter 3: Fire prevention and protection: 
-Fire prevention and protection – fire triangle, fire development and its severity, effect of enclosures, 
+Fire prevention and protection - fire triangle, fire development and its severity, effect of enclosures, 
 early detection of fire, classification of fire and fire extinguishers. Electrical safety, Product safety, safe 
 handling of chemicals, and safety procedures for nuclear installations. 
 08 hours 
-Chapter 4: Accident causation and investigation – causation, investigation, methods of acquiring 
+Chapter 4: Accident causation and investigation - causation, investigation, methods of acquiring 
 accident facts, supervisory role in accident investigation. 
 07 hours 
 Unit III 
 Chapter 5: Personal Protective Equipment: 
 Types of Personal Protective Equipment and their advantages, effects of exposure and treatment in 
-engineering industries, and municipal solid waste. Environment management plans  (EMP) for safety and 
+engineering industries, and municipal solid waste. Environment management plans (EMP) for safety and 
 sustainability. 
 05 hours 
 Chapter 6: Occupational health and safety considerations: 
 Water and wastewater treatment plants, handling of chemicals, and safety measures in water and 
-wastewater treatment plants and laboratories, as well as Construction material manufacturing  
+wastewater treatment plants and laboratories, as well as Construction material manufacturing 
 industries such as c ement plants, RMC plants, precast plants, and construction sites. Policies, roles and 
 responsibilities of workers, managers and supervisors Performance), post -closure environmental 
 monitoring, landfill remediation. 
@@ -5316,17 +4802,14 @@ Thomson Publishing Inc., 1996.
 London, 1973. 
 5. Biomedical Waste (Handling and Management) Rules, Ministry of Environment, Forest and Climate 
 Change, Government of India, 2016. 
-
-## Page 119
-
-Back to Semester – VIII 
+ ## Page 119
+ Back to Semester - VIII 
 FMCD2009 / 2.0 119 
- 
-Program: Bachelor of Engineering Semester: VIII 
+  Program: Bachelor of Engineering Semester: VIII 
 Course Title: Nano Science and Technology Course Code: 22ECEO406 
 L-T-P:3-0-0 Credits:3 Contact Hours:3Hrs/week 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration:3 Hrs  
+Teaching Hours:40 Examination Duration:3 Hrs 
 Unit I 
 Chapter 1: Basics of Nanoscience: 
 Definition and historical background, nanoscience vs. nanotechnology, Nanoscale materials and their unique 
@@ -5342,7 +4825,7 @@ Chapter 3: Types of Nanomaterials:
 Carbon-based nanomaterials: Classification, metal and organic, vesicle, Properties and classification. 
 08 hours 
 Chapter 4: Nanotechnology in Engineering Fields 
-Civil Engineering: Nanomaterials in concrete, coatings, and structural health monitoring;  Mechanical 
+Civil Engineering: Nanomaterials in concrete, coatings, and structural health monitoring; Mechanical 
 Engineering: Nanotribology, nanofluids, and nanoscale mechanical systems; Electrical and Electronics 
 Engineering: Nanoelectronics, nanosensors, and flexibl e electronics; Computer Science and AI: Quantum 
 computing, nanorobotics, and data storage; Biomedical Engineering: Drug delivery, imaging, tissue 
@@ -5350,7 +4833,7 @@ engineering, and diagnostics.
 07 hours 
 Unit III 
 Chapter 5: Environmental Impact: 
-Types of Personal Protective  Equipment and their advantages, effects of exposure and treatment in 
+Types of Personal Protective Equipment and their advantages, effects of exposure and treatment in 
 engineering industries, and municipal solid waste. Environment management plans (EMP) for safety and 
 sustainability. 
 05 hours 
@@ -5360,7 +4843,7 @@ considerations, Impact of NM on health.
 05 hours 
 Textbook 
 1. Introduction to Nano science and Nanotechnology by Gabor L. Hornyak, H. F. Tibbals, Joydeep Dutta, and 
-Anil K. Rao — CRC Press, 1st edition, published December 22, 2008. 
+Anil K. Rao - CRC Press, 1st edition, published December 22, 2008. 
 Reference Books 
 1. Nanotechnology: Principles and Practices (3rd Edition) by Sulabha K. Kulkarni, Springer Cham, 4th ed. 2025. 
 2. Nanomaterials: An Introduction to Synthesis, Properties and Applications (2nd edition) by Dieter Vollath, 

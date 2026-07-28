@@ -1,18 +1,12 @@
 # PDF Document: Biotech_Curriculum_Structure_Content_2021-25
-
-**PDF Source:** https://www.kletech.ac.in/pdf/Biotech_Curriculum_Structure_Content_2021-25.pdf
-
-## Page 1
-
-FMCD2009 / 2.0 1 
- 
-Curriculum Structure and Curriculum Content for the Academic year-2021-25 
+ **PDF Source:** https://www.kletech.ac.in/pdf/Biotech_Curriculum_Structure_Content_2021-25.pdf
+ ## Page 1
+ FMCD2009 / 2.0 1 
+  Curriculum Structure and Curriculum Content for the Academic year-2021-25 
 Department: Biotechnology 
 Program: B.E. Biotechnology 
- 
-## Page 2
-
-FMCD2009 / 2.0 2 
+  ## Page 2
+ FMCD2009 / 2.0 2 
 Table of Contents 
 Vision and Mission of KLE Technological University ........................................... 3 
 Vision and Mission Statements of the School / Department ................................ 4 
@@ -31,72 +25,50 @@ Semester- VIII .................................................................
 List of Open Electives ............................................................................................ 17 
 List of Program Electives ...................................................................................... 18 
 Curriculum Content- Course wise ........................................................................ 19 
- 
-## Page 3
-
-FMCD2009 / 2.0 3 
+  ## Page 3
+ FMCD2009 / 2.0 3 
 Vision and Mission of KLE Technological University 
- 
-Vision 
- 
-KLE Te chnological University will be a national leader in Higher 
-Education–recognised globally for innovative culture, outstanding 
+  Vision 
+  KLE Te chnological University will be a national leader in Higher 
+Education-recognised globally for innovative culture, outstanding 
 student experience, research excellence and social impact. 
- 
-Mission 
- 
-KLE Technological University is dedicated to teaching that me ets highest 
+  Mission 
+  KLE Technological University is dedicated to teaching that me ets highest 
 standards of excellence, generation and application of new knowledge through 
 research and creative endeavors. 
- 
-The three-fold mission of the University is: 
+  The three-fold mission of the University is: 
  To offer undergraduate and post -graduate programs with engaged and 
-experiential learning  environment enriched by high quality instruction 
+experiential learning environment enriched by high quality instruction 
 that prepares students to succeed in their lives and professional careers. 
- 
- To enable and grow disciplinary and inter -disciplinary areas of research 
+   To enable and grow disciplinary and inter -disciplinary areas of research 
 that build on present strengths and future opportunities aligning with 
 areas of national strategic importance and priority. 
- 
- To actively engage in the Socio -economic development of the region by 
+   To actively engage in the Socio -economic development of the region by 
 contributing our expertise, experience and leadership, to enhance 
 competitiveness and quality of life. 
- 
-As a unified c ommunity of faculty, staff and students, we work together with 
-the spirit of collaboration and partnership to accomplish our mission.                                          
- 
-## Page 4
-
-FMCD2009 / 2.0 4 
- 
-Vision and Mission Statements of the School / Department 
- 
-Vision 
- 
-The KLE Tec h – Department of Biotechnology will excel and 
+  As a unified c ommunity of faculty, staff and students, we work together with 
+the spirit of collaboration and partnership to accomplish our mission. 
+  ## Page 4
+ FMCD2009 / 2.0 4 
+  Vision and Mission Statements of the School / Department 
+  Vision 
+  The KLE Tec h - Department of Biotechnology will excel and 
 lead in education, research and innovation in Biotechnology 
-contributing to the evolving needs of the society.  
- 
-Mission 
- 
- To provide an excellent educational experience to undergraduate 
+contributing to the evolving needs of the society. 
+  Mission 
+   To provide an excellent educational experience to undergraduate 
 students of Biotechnology through quality teaching, relevant curriculum 
 and effective research experience that enables students to become 
 leaders in their chosen field. 
- 
- To provide scholarly, vibrant learning and research environment that 
+   To provide scholarly, vibrant learning and research environment that 
 enables to achieve personal and professional development. 
- 
- To cater to the societal needs and serve the communities at local, 
+   To cater to the societal needs and serve the communities at local, 
 national and international levels combined with a deep awareness of 
 ethical responsibilities to profession and society. 
- 
-## Page 5
-
-FMCD2009 / 2.0 5 
- 
-Program Educational Objectives/Program Outcomes and Program-Specific Objectives 
-Program Educational Objectives -PEO’s 
+  ## Page 5
+ FMCD2009 / 2.0 5 
+  Program Educational Objectives/Program Outcomes and Program-Specific Objectives 
+Program Educational Objectives -PEO's 
 Graduates will demonstrate peer- recognized technical competency in the analysis, design 
 and development of solutions for Molecular Biotechnology and Bioprocess Engineering. 
 Graduates will demonstrate leadership and initiative to advance professional and 
@@ -106,7 +78,7 @@ Graduates will be engaged in ongoing learning and p rofessional development thro
 pursuing higher education, and self-study 
 Graduates will be committed to creative practice of engineering and other professions in a 
 responsible manner contributing to the socio-economic development of the society 
-Program Outcomes-PO’s 
+Program Outcomes-PO's 
 Apply the knowledge of mathematics, science, engineering fundamentals, and an 
 engineering specialization for the solution of complex engineering problems. 
 Identify, formulate, research literature, and analyse complex engineering problems 
@@ -132,20 +104,18 @@ Apply ethical principles and commit to professional ethics and responsibilities 
 of the engineering practice. 
 Function effectively as an individual, and as a member or leader in diverse teams, and in 
 multidisciplinary settings. 
-
-## Page 6
-
-FMCD2009 / 2.0 6 
+ ## Page 6
+ FMCD2009 / 2.0 6 
 Communicate effectively on complex engineering activities with the engineering 
 community and with t h e society at large, such as, be ing able to comprehend and write 
 effective reports and design documentation, make effective presentations, and give and 
 receive clear instructions. 
 Demonstrate knowledge and understanding of t h e engineering and management 
-principles and apply these to o ne’s own work, as a member and leader in a team, to 
+principles and apply these to o ne's own work, as a member and leader in a team, to 
 manage projects and in multidisciplinary environments. 
 Recognise the need for, and have the preparation and ability to engage in independent 
 and life-long learning in the broadest context of technological change. 
-Program Specific Objectives -PSO’s 
+Program Specific Objectives -PSO's 
 Demonstrate adequate proficiency of good laboratory practices in terms of accuracy & 
 precision, safety, ethics and reproducibility and able to follow standard operating 
 procedures (SOP). 
@@ -153,141 +123,134 @@ Demonstrate proficiency of Bioprocess Technology towards development of processe
 products in global context. 
 Apply the knowledge of engineering & applied science to demonstrate research 
 aptitude/skills in frontier areas of biotechnology. 
- 
-## Page 7
-
-FMCD2009 / 2.0 7 
+  ## Page 7
+ FMCD2009 / 2.0 7 
 Curriculum Structure-Overall 
-Semester :                                                                                                                                                                                                                                Total Program Credits:178 
+Semester : Total Program Credits:178 
 Course with course code 
- 
-I II III IV V VI VII VIII 
+  I II III IV V VI VII VIII 
 Single Variable Calculus 
 18EMAB101 (4-1-0) 
- Multivariable Calculus  
+ Multivariable Calculus 
 18EMAB102 (4-1-0) 
 NMDE 
 20EMAB205 
  (4-0-0) 
 Biostatistics 
-20EMAB210  
-(3-1-0)  
+20EMAB210 
+(3-1-0) 
 Genetic Engineering & 
 Applications15EBTC301 
-(4-0-0)   
-Bioprocess Engineering  
+(4-0-0) 
+Bioprocess Engineering 
 15EBTC306 
-(4-0-0)  
+(4-0-0) 
 Downstream Processing 
 Technology 
-22EBTC401 (4-0-0)  
-Capstone project  
+22EBTC401 (4-0-0) 
+Capstone project 
 20EBTW402 
 (0-0-11) 
- 
-Internship 
+  Internship 
 project 
 20EBTW494 
 (0-0-11) 
  Engineering Chemistry 
 15ECHB101(3-0-0) 
- Engineering Physics  
+ Engineering Physics 
 15EPHB102 
 (3-0-0) 
-Microbiology  
+Microbiology 
 15EBTC201 
 (4-0-0) 
 Immunology 
 15EBTC203 
 (3-0-0) 
-Bioinformatics  
+Bioinformatics 
 22EBTC301 
-(4-0-0)  
+(4-0-0) 
 Bioprocess Control & 
-Automation  
+Automation 
 23EBTC302 
-(4-0-0)  
+(4-0-0) 
 Bioprocess Equipment 
-Design  
+Design 
 24EBTC402 
-(3-0-0)  
-Program  
-Elective - 06  
+(3-0-0) 
+Program 
+Elective - 06 
 XXEBTE4XX 
 (3-0-0) 
- 
-Internship 
+  Internship 
 training 
 18EBTI493 
 (0-0-6) 
   C Programming for 
-problem solving  
-18ECSP101 (0-0-3)   
+problem solving 
+18ECSP101 (0-0-3) 
 Engineering 
 Mechanics 
 15ECVF102(4-0-0) 
-Biochemistry  
+Biochemistry 
 15EBTC202 
 (4-0-0) 
-Enzyme Technology  
+Enzyme Technology 
 17EBTC201 
-(4-0-0)  
+(4-0-0) 
 Reaction Engineering 
 15EBTC303 
 (4-0-0) 
 Program 
-Elective –01   
-XXEBTE3XX    (3-0-0) 
- Program  
- Elective– 03      
-XXEBTE4XX  (3-0-0) 
-Engineering Exploration  
-15ECRP101 (0-0-3)   
+Elective -01 
+XXEBTE3XX (3-0-0) 
+ Program 
+ Elective- 03 
+XXEBTE4XX (3-0-0) 
+Engineering Exploration 
+15ECRP101 (0-0-3) 
  Computer Aided 
 Engineering Drawing 
 15EMEP101(0-0-3) 
 Bioprocess 
 Calculations 
-15EBTF201 (4-0-0)  
+15EBTF201 (4-0-0) 
 Cell &Molecular Biology 
-15EBTC205 (4-0-0)  
+15EBTC205 (4-0-0) 
 Biological 
 Thermodynamics 
-15EBTC304 (3-0-0)  
- Program  
-Elective – 02     
+15EBTC304 (3-0-0) 
+ Program 
+Elective - 02 
 XXEBTE3XX (3-0-0) 
 Program 
-Elective - 04  
-XXEBTE4XX  (3-0-0) 
-Open Elective    
+Elective - 04 
+XXEBTE4XX (3-0-0) 
+Open Elective 
 Industrial Waste 
 Management 
 19EBTO401 (3-0-0) 
  Basic Electronics 
-18EECF102  
+18EECF102 
 (4-0-0) 
  Basic Electrical 
-Engineering  
+Engineering 
 18EEEF102 (3-0-0) 
 Unit operations-
 22EBTF201 
- (3-0-0)  
+ (3-0-0) 
 Unit operations-II 
 22EBTF202 
-(3-0-0)  
+(3-0-0) 
 Research Methodology 
 15EBTC305 
- (3-0-0)   
- 
-Humanities – 01 (HSC) 
+ (3-0-0) 
+  Humanities - 01 (HSC) 
 (PALR) 
-16EHSC301 (3-0-0)  
+16EHSC301 (3-0-0) 
  Program 
-Elective - 05  
-XXEBTE4XX  (3-0-0) 
-   
- Basic Mechanical E ngg 
+Elective - 05 
+XXEBTE4XX (3-0-0) 
+     Basic Mechanical E ngg 
 15EMEF101 (2-1-0) 
 Design Thinking for 
 Social Innovation 
@@ -304,12 +267,11 @@ Analytical reasoning
 Industry readiness & 
 leadership skills 
 22EHSH302 (0.5-0-0) 
-Humanities -02 (HSC)  
+Humanities -02 (HSC) 
 CIPE & EVS 
 15EHSA401 Audit 
-  
- Professional 
-Communication  
+    Professional 
+Communication 
 15EHSH101 (1-1-0) 
  Engineering Physics 
 Lab 
@@ -319,55 +281,48 @@ Microbiology Lab
 (0-0-1) 
 Enzyme Technology Lab 
 15EBTP204 
-(0-0-1)   
+(0-0-1) 
 Mini Project 
 15EBTW301 
-(0-0-3)  
+(0-0-3) 
 Minor Project 
 15EBTW302 
-(0-0-6)  
+(0-0-6) 
 Senior Design Project 
 20EBTW401 
 (0-0-6) 
-  
-  Biochemistry Lab  
-15EBTP202 (0-0-1)  
+     Biochemistry Lab 
+15EBTP202 (0-0-1) 
 Cell & Molecular Biology 
 Lab15EBTP205 
 (0-0-1) 
 Genetic Engineering & 
-Immunotechnology Lab  
- 23EBTP301  (0-0-1) 
+Immunotechnology Lab 
+ 23EBTP301 (0-0-1) 
 Bioprocess Engineering 
-Lab   23EBTP303 
- (0-0-1)  
+Lab 23EBTP303 
+ (0-0-1) 
 Downstream Processing 
-Technology Lab  
-23EBTP401 (0-0-1)  
-  
-  Unit operations-I Lab  
-17EBTP201 (0-0-1)  
-Unit Operations-II Lab  
-17EBTP202 (0-0-1)  
+Technology Lab 
+23EBTP401 (0-0-1) 
+     Unit operations-I Lab 
+17EBTP201 (0-0-1) 
+Unit Operations-II Lab 
+17EBTP202 (0-0-1) 
 Bioinformatics Lab 
-22EBTP302 (0-0-1)  
+22EBTP302 (0-0-1) 
 Bioprocess Control & 
-Reaction Engineering Lab   
-23EBTP301  (0-0-1)  
+Reaction Engineering Lab 
+23EBTP301 (0-0-1) 
 Mammalian cell culture 
 techniques Lab 
 23EBTP402 (0-0-1) 
-  
-Credits 21 23 22.5 21.5 23.5 25.5 24 17 
-
-## Page 8
-
-FMCD2009 / 2.0 8 
- 
-Curriculum Structure-Semester wise 
+   Credits 21 23 22.5 21.5 23.5 25.5 24 17 
+ ## Page 8
+ FMCD2009 / 2.0 8 
+  Curriculum Structure-Semester wise 
 Semester - I 
- 
-No Code Course Category L-T-P Credits Contact         
+  No Code Course Category L-T-P Credits Contact 
 Hours ISA ESA Total 
 Exam 
 Duration 
@@ -380,14 +335,11 @@ solving ES 0-0-3 3 6 80 20 100 3 Hours
 5 18EECF102 Basic Electronics ES 4-0-0 4 4 50 50 100 3 Hours 
 6 15EMEF101 Basic Mechanical Engg. ES 2-1-0 3 4 50 50 100 3 Hours 
 7 15EHSH101 Professional Communication HSS 1-1-0 2 3 50 50 100 3 Hours 
-TOTAL  15-2-6 23 32     
-
-## Page 9
-
-FMCD2009 / 2.0 9 
+TOTAL 15-2-6 23 32 
+ ## Page 9
+ FMCD2009 / 2.0 9 
 Semester - II 
- 
-No Code Course Category L-T-P Credits Contact 
+  No Code Course Category L-T-P Credits Contact 
 Hours ISA ESA Total 
 Exam 
 Duration 
@@ -401,274 +353,229 @@ Engineering Drawing ES 0-0-3 3 6 80 20 100 3 Hours
 6 20EHSP101 Design Thinking for Social 
 Innovation HSS 0-1-1 2 3 80 20 100 3Hours 
 7 16EPHP102 Engineering Physics Lab BS 0-0-1 1 2 80 20 100 3 Hours 
-TOTAL  14-2-5 21 27     
-
-## Page 10
-
-FMCD2009 / 2.0 10 
+TOTAL 14-2-5 21 27 
+ ## Page 10
+ FMCD2009 / 2.0 10 
 Semester- III 
- 
-No Code Course Category L-T-P Credits Contact 
+  No Code Course Category L-T-P Credits Contact 
 Hours ISA ESA Total 
 Exam 
 Duration 
 (in hrs) 
-1  20EMAB205 Numerical Methods and 
+1 20EMAB205 Numerical Methods and 
 Differential Equations BS 4-0-0 4 4 50 50 100 03 Hours 
-2  15EBTC201  Microbiology  PSC 4-0-0 4 4 50 50 100 03 Hours 
-3  15EBTC202  Biochemistry  PSC 4-0-0 4 4 50 50 100 03 Hours 
-4  15EBTF201  Bioprocess Calculations  ES 4-0-0 4 4 50 50 100 03 Hours 
-5  22EBTF201  Unit Operations-I ES 3-0-0 3 3 50 50 100 03 Hours 
+2 15EBTC201 Microbiology PSC 4-0-0 4 4 50 50 100 03 Hours 
+3 15EBTC202 Biochemistry PSC 4-0-0 4 4 50 50 100 03 Hours 
+4 15EBTF201 Bioprocess Calculations ES 4-0-0 4 4 50 50 100 03 Hours 
+5 22EBTF201 Unit Operations-I ES 3-0-0 3 3 50 50 100 03 Hours 
 6 22EHSH201 Corporate Communication HSH 0.5-0-0 0.5 1 100 00 100 NA 
-7  15EBTP201  Microbiology Lab  PSC 0-0-1 1 2 80 20 100 03 Hours 
-8  15EBTP202  Biochemistry Lab  PSC 0-0-1 1 2 80 20 100 03 Hours 
-9  17EBTP201  Unit Operations-I Lab  ES 0-0-1 1 2 80 20 100 03 Hours 
-TOTAL  19.5-0-3  22.5  26       
-
-## Page 11
-
-FMCD2009 / 2.0 11 
+7 15EBTP201 Microbiology Lab PSC 0-0-1 1 2 80 20 100 03 Hours 
+8 15EBTP202 Biochemistry Lab PSC 0-0-1 1 2 80 20 100 03 Hours 
+9 17EBTP201 Unit Operations-I Lab ES 0-0-1 1 2 80 20 100 03 Hours 
+TOTAL 19.5-0-3 22.5 26 
+ ## Page 11
+ FMCD2009 / 2.0 11 
 Semester- IV 
- 
-No Code Course Category L-T-P Credits Contact 
+  No Code Course Category L-T-P Credits Contact 
 Hours ISA ESA Total 
 Exam 
 Duration 
 (in hrs) 
-1  20EMAB210 Biostatistics  BS  3-1-0 4 5 50 50 100 03 Hours  
-2  15EBTC203  Immunology  PSC  3-0-0 3 3 50 50 100 03 Hours  
-3  17EBTC201  Enzyme Technology   PSC  4-0-0 4 4 50 50 100 03 Hours  
-4  15EBTC205  Cell &Molecular Biology  PSC  4-0-0 4 4 50 50 100 03 Hours  
-5  22EBTF202  Unit Operations-II ES  3-0-0 3 3 50 50 100 03 Hours  
+1 20EMAB210 Biostatistics BS 3-1-0 4 5 50 50 100 03 Hours 
+2 15EBTC203 Immunology PSC 3-0-0 3 3 50 50 100 03 Hours 
+3 17EBTC201 Enzyme Technology PSC 4-0-0 4 4 50 50 100 03 Hours 
+4 15EBTC205 Cell &Molecular Biology PSC 4-0-0 4 4 50 50 100 03 Hours 
+5 22EBTF202 Unit Operations-II ES 3-0-0 3 3 50 50 100 03 Hours 
 6 22EHSH202 Problem Solving & Analysis HSH 0.5-0-0 0.5 1 100 00 100 NA 
-7  15EBTP204  Enzyme Technology Lab  PSC  0-0-1 1 2 80 20 100 03 Hours  
-8  15EBTP205  Cell & Molecular Biology Lab  PSC  0-0-1 1 2 80 20 100 03 Hours  
-9  17EBTP202  Unit Operations-II Lab  PSC  0-0-1 1 2 80 20 100 03 Hours  
-TOTAL  17.5-1-3  21.5  26       
-
-## Page 12
-
-FMCD2009 / 2.0 12 
- 
-Semester- V 
+7 15EBTP204 Enzyme Technology Lab PSC 0-0-1 1 2 80 20 100 03 Hours 
+8 15EBTP205 Cell & Molecular Biology Lab PSC 0-0-1 1 2 80 20 100 03 Hours 
+9 17EBTP202 Unit Operations-II Lab PSC 0-0-1 1 2 80 20 100 03 Hours 
+TOTAL 17.5-1-3 21.5 26 
+ ## Page 12
+ FMCD2009 / 2.0 12 
+  Semester- V 
 No Code Course Category L-T-P Credits Contact 
 Hours ISA ESA Total 
 Exam 
 Duration 
 (in hrs) 
-1  15EBTC301  Genetic Engineering & 
-Applications  PSC  4-0-0  4  4  50  50  100 03 Hours  
-2  22EBTC301  Bioinformatics  PSC  4-0-0  4  4  50  50  100 03 Hours  
-3  15EBTC303  Reaction Engineering  PSC  4-0-0  4  4  50  50  100 03 Hours  
-4  15EBTC304  Biological Thermodynamics  PSC  3-0-0  3  3  50  50  100 03 Hours  
-5  15EBTC305  Research Methodology  PSC  3-0-0  3  3  50  50  100 03 Hours  
+1 15EBTC301 Genetic Engineering & 
+Applications PSC 4-0-0 4 4 50 50 100 03 Hours 
+2 22EBTC301 Bioinformatics PSC 4-0-0 4 4 50 50 100 03 Hours 
+3 15EBTC303 Reaction Engineering PSC 4-0-0 4 4 50 50 100 03 Hours 
+4 15EBTC304 Biological Thermodynamics PSC 3-0-0 3 3 50 50 100 03 Hours 
+5 15EBTC305 Research Methodology PSC 3-0-0 3 3 50 50 100 03 Hours 
 6 22EHSH301 Arithmetical Thinking & 
 Analytical Reasoning HSH 0.5-0-0 0.5 1 100 00 100 NA 
-7  15EBTW301  Mini Project  PRJ  0-0-3  3  9 50  50  100 03 Hours  
-8  23EBTP301  Genetic Engineering & 
-Immunotechnology Lab  PSC  0-0-1  1  2  80  20  100 03 Hours  
-9  22EBTP302  Bioinformatics Lab  PSC  0-0-1  1  2  80  20  100 03 Hours  
-TOTAL  18.5-0-5  23.5  32     
-
-## Page 13
-
-FMCD2009 / 2.0 13 
+7 15EBTW301 Mini Project PRJ 0-0-3 3 9 50 50 100 03 Hours 
+8 23EBTP301 Genetic Engineering & 
+Immunotechnology Lab PSC 0-0-1 1 2 80 20 100 03 Hours 
+9 22EBTP302 Bioinformatics Lab PSC 0-0-1 1 2 80 20 100 03 Hours 
+TOTAL 18.5-0-5 23.5 32 
+ ## Page 13
+ FMCD2009 / 2.0 13 
 Semester- VI 
- 
-No Code Course Category L-T-P Credits Contact 
+  No Code Course Category L-T-P Credits Contact 
 Hours ISA ESA Total 
 Exam 
 Duration 
 (in hrs) 
-1  15EBTC306  Bioprocess Engineering  PSC  4-0-0 4 4 50 50 100 03 Hours  
-2  23EBTC302  Bioprocess Control & 
-Automation  PSC  4-0-0 4 4 50 50 100 03 Hours  
-3  XXEBTE3XX Program Elective - 01      PE  3-0-0 3 3 50 50 100 03 Hours  
-4 XXEBTE3XX Program Elective - 02  PE  3-0-0 3 3 50 50 100 03 Hours  
-5  16EHSC301 Humanities – 01 (PALR)       HSC  3-0-0 3 3 50 50 100 03 Hours  
+1 15EBTC306 Bioprocess Engineering PSC 4-0-0 4 4 50 50 100 03 Hours 
+2 23EBTC302 Bioprocess Control & 
+Automation PSC 4-0-0 4 4 50 50 100 03 Hours 
+3 XXEBTE3XX Program Elective - 01 PE 3-0-0 3 3 50 50 100 03 Hours 
+4 XXEBTE3XX Program Elective - 02 PE 3-0-0 3 3 50 50 100 03 Hours 
+5 16EHSC301 Humanities - 01 (PALR) HSC 3-0-0 3 3 50 50 100 03 Hours 
 6 22EHSH302 Industry Readiness & 
 Leadership Skills HSH 0.5-0-0 0.5 1 100 00 100 NA 
-7 15EBTW302  Minor Project  PRJ  0-0-6 6 18 50 50 100 03 Hours  
-8 23EBTP303  Bioprocess Engineering 
-Lab  PSC  0-0-1.5 1.5 3 80 20 100 03 Hours  
+7 15EBTW302 Minor Project PRJ 0-0-6 6 18 50 50 100 03 Hours 
+8 23EBTP303 Bioprocess Engineering 
+Lab PSC 0-0-1.5 1.5 3 80 20 100 03 Hours 
 9 23EBTP304 Bioprocess Control & 
-Reaction Engineering Lab  PSC  0-0-1.5 1.5 3 80 20 100 03 Hours  
-TOTAL  17.5-0-8 25.5 40      
-
-## Page 14
-
-FMCD2009 / 2.0 14 
+Reaction Engineering Lab PSC 0-0-1.5 1.5 3 80 20 100 03 Hours 
+TOTAL 17.5-0-8 25.5 40 
+ ## Page 14
+ FMCD2009 / 2.0 14 
 Semester- VII 
- 
-No Code Course Category L-T-P Credits Contact 
+  No Code Course Category L-T-P Credits Contact 
 Hours ISA ESA Total 
 Exam 
 Duration 
 (in hrs) 
-1  22EBTC401  Downstream Processing 
-Technology  PSC  4-0-0  4  4  50  50  100 03 Hours  
-2  24EBTC402  Bioprocess Equipment 
-Design   PSC  3-0-0  3  3  50  50  100 03 Hours  
-3  XXEBTE4XX  Program Elective - 03 PE  3-0-0  3  3  50  50  100 03 Hours  
-4 XXEBTE4XX Program Elective - 04  PE  3-0-0  3  3  50  50  100 03 Hours  
-5  XXEBTE4XX Program Elective - 05  PE  3-0-0  3  3  50  50  100 03 Hours  
-6 15EHSA401 Humanities – 02 (CIPE & 
-EVS) HSA Audit       
-7 20EBTW401 Senior Design Project  PRJ 0-0-6 6  18  50  50  100 03 Hours  
-8 23EBTP401  Downstream Processing 
-Technology Lab  PSC  0-0-1  1  2  80  20  100 03 Hours  
+1 22EBTC401 Downstream Processing 
+Technology PSC 4-0-0 4 4 50 50 100 03 Hours 
+2 24EBTC402 Bioprocess Equipment 
+Design PSC 3-0-0 3 3 50 50 100 03 Hours 
+3 XXEBTE4XX Program Elective - 03 PE 3-0-0 3 3 50 50 100 03 Hours 
+4 XXEBTE4XX Program Elective - 04 PE 3-0-0 3 3 50 50 100 03 Hours 
+5 XXEBTE4XX Program Elective - 05 PE 3-0-0 3 3 50 50 100 03 Hours 
+6 15EHSA401 Humanities - 02 (CIPE & 
+EVS) HSA Audit 
+7 20EBTW401 Senior Design Project PRJ 0-0-6 6 18 50 50 100 03 Hours 
+8 23EBTP401 Downstream Processing 
+Technology Lab PSC 0-0-1 1 2 80 20 100 03 Hours 
 9 23EBTP402 Mammalian Cell Culture 
 Techniques Lab PSC 0-0-1 1 2 80 20 100 03 Hours 
-TOTAL  16-0-8 6 18     
+TOTAL 16-0-8 6 18 
 9 17EBTE490 Research Experience for 
 Undergraduates (REU) PE 0-0-6 6 18 50 50 100 03 Hours 
-TOTAL  0-0-6 6 18     
-
-## Page 15
-
-FMCD2009 / 2.0 15 
- 
-Semester- VIII 
-No Code Course  Category L-T-P Credits Contact Hours ISA ESA Total 
+TOTAL 0-0-6 6 18 
+ ## Page 15
+ FMCD2009 / 2.0 15 
+  Semester- VIII 
+No Code Course Category L-T-P Credits Contact Hours ISA ESA Total 
 Exam 
 Duration 
 (in hrs) 
 1 XXEBTE4XX Program Elective -06 PE 3-0-0 3 3 50 50 100 03 Hours 
-2 19EBTO401 Open Elective  OE  3-0-0  3  3  50  50  100 03 Hours  
+2 19EBTO401 Open Elective OE 3-0-0 3 3 50 50 100 03 Hours 
 3 20EBTW402 Capstone Project PRJ 
- 
-0-0-11 
- 
-11 
- 
-33 
- 
-50 
- 
-50 
- 100 03 Hours  
-TOTAL  6-0-11 17         39     
+  0-0-11 
+  11 
+  33 
+  50 
+  50 
+ 100 03 Hours 
+TOTAL 6-0-11 17 39 
 4 18EBTI493 Internship-Training -- 0-0-6 6 -- 50 50 100 03 Hours 
 5 20EBTW494 Internship-Project PRJ 0-0-11 11 33 50 50 100 03 Hours 
-TOTAL   0-0-17 17     
- 
-## Page 16
-
-FMCD2009 / 2.0 16 
- 
-Semester I II III IV V VI VII VIII Total  
+TOTAL 0-0-17 17 
+  ## Page 16
+ FMCD2009 / 2.0 16 
+  Semester I II III IV V VI VII VIII Total 
 Credits 21 23 22.5 21.5 23.5 25.5 24 17 178 
-
-## Page 17
-
-FMCD2009 / 2.0 17 
+ ## Page 17
+ FMCD2009 / 2.0 17 
 List of Open Electives 
-  
-Sr.No Name of the Course Course Code 
+   Sr. No Name of the Course Course Code 
 1 Industrial waste management 19EBTO401 
- 
-## Page 18
-
-FMCD2009 / 2.0 18 
- 
-List of Program Electives 
-Sr.No Name of the Course Course Code 
+  ## Page 18
+ FMCD2009 / 2.0 18 
+  List of Program Electives 
+Sr. No Name of the Course Course Code 
 1 Bioprocess Plant Design and economics 18EBTE301 
-2 Bioprocess Modeling and simulation  18EBTE302 
+2 Bioprocess Modeling and simulation 18EBTE302 
 3 Insilco Modeling and Drug Design 15EBTE302 
-4 Bioanalytical Techniques  19EBTE301 
+4 Bioanalytical Techniques 19EBTE301 
 5 Structural Biology 22EBTE301 
 6 Industrial Biotechnology 20EBTE401 
-7 Food Processing Technology  15EBTE402 
+7 Food Processing Technology 15EBTE402 
 8 Environmental Biotechnology 22EBTE401 
-9 Quality Assurance and regulations        18EBTE403 
-10 Process Safety and Risk Assessment in industrial  
-biotechnology                                            
+9 Quality Assurance and regulations 18EBTE403 
+10 Process Safety and Risk Assessment in industrial 
+biotechnology 
 22EBTE402 
 11 Plant and Animal Biotechnology 15EBTE403 
-12 Biopharmaceuticals  15EBTE404 
+12 Biopharmaceuticals 15EBTE404 
 13 Genomics and Proteomics 15EBTE405 
-14 Bioethics, safety and IPR        20EBTE403 
+14 Bioethics, safety and IPR 20EBTE403 
 15 Vaccine Technology 21EBTE401 
 16 Biological Data Analysis 18EBTE402 
 17 Genomic data analysis 21EBTE402 
 18 Bio-business and entrepreneurship 20EBTE402 
 19 Phytochemicals and Herbal products 22EBTE403 
 20 Clinical Biotechnology 23EBTE303 
- 
-## Page 19
-
-FMCD2009 / 2.0 19 
+  ## Page 19
+ FMCD2009 / 2.0 19 
 Curriculum Content- Course wise 
 Program: Biotechnology Semester: I 
 Course Title: Single variable Calculus Course Code:18EMAB101 
 L-T-P:4-1-0 Credits:05 Contact Hours:50 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:04 Examination Duration:3 Hours  
+Teaching Hours:04 Examination Duration:3 Hours 
 Unit I 
-1.Functions, Graphs and Models             
+1. Functions, Graphs and Models 
 Functions, types of functions, transformations and models (Linear, exponential, trigonometric). 
-07 Hours                                                                                                            
+07 Hours 
 MATLAB: Graphing functions, Domain-Range and Interpreting the models 
- 
-2. Calculus of functions and models  
+  2. Calculus of functions and models 
 Limit of a function, Infinite limits - graph, Continuity and discontinuity, Intermediate value 
 theorem stateme nt, Roots of the equation using Bisection Me thod and Newton - Raphson 
 Method. Interpretation of derivative as a rate of change, All the rules of derivatives (List only), 
 Maxima, Minima and optimization problems. Curvature and Radius of Curvature, 
-Indeterminate forms, L- Hospital’s rule-Examples 
-13 Hours                                                                                                
+Indeterminate forms, L- Hospital's rule-Examples 
+13 Hours 
 MATLAB: optimization problems. Curvature problems 
 Unit II 
-3. Infinite Series                                                                                                                    
-Definition, Convergence of series, Tests of convergence – p-series, Alternating series. Power 
-series, radius of convergence, Taylor’s and Maclaurin’s series, Applications of Ta ylor’s and 
-Maclaurin’s series 
+3. Infinite Series 
+Definition, Convergence of series, Tests of convergence - p-series, Alternating series. Power 
+series, radius of convergence, Taylor's and Maclaurin's series, Applications of Ta ylor's and 
+Maclaurin's series 
 06 Hours 
 MATLAB: Convergence of series 
- 4. Integral calculus                                                                                                              
+ 4. Integral calculus 
 Tracing of standard curves in Cartesian form ,Parametric form and Polar form; Beta and gamma 
 function, relation between them, evaluation of integrals using Beta and gamma functions; 
 Applications to find arc length, Area, Volume and surface area (Cartesian, parametric and polar 
-curves). Approximate integration- Trapezoidal rule, Simpson’s 1 / 3 rule 
+curves). Approximate integration- Trapezoidal rule, Simpson's 1 / 3 rule 
 14 Hours 
 MATLAB: problems on arc length, area, volume and surface area 
- 
-## Page 20
-
-FMCD2009 / 2.0 20 
+  ## Page 20
+ FMCD2009 / 2.0 20 
 (Use this template for all courses, semester wise) 
- 
-BACK 
- 
-Unit III 
- 
-5. Ordinary differential equations of first order                                                                       
-(a) Introduction to Initial Value problems. Linear and Bernoulli’s equations, Exact equations and 
-reducible to exact form, Numerical solution to Initial Value problems -Euler’s method, Modified 
-Euler’s method and Runge-Kutta method 
+  BACK 
+  Unit III 
+  5. Ordinary differential equations of first order 
+(a) Introduction to Initial Value problems. Linear and Bernoulli's equations, Exact equations and 
+reducible to exact form, Numerical solution to Initial Value problems -Euler's method, Modified 
+Euler's method and Runge-Kutta method 
 (b) Applications of first order diffe rential equations-Orthogonal trajectories growth and decay 
 problems, mixture problems, Electrical circuits, falling bodies. 
 10 Hours 
 MATLAB: Solve differential equations 
- 
-Text Books 
-1. Early Transcendentals  Calculus- James Stewart, Thomson Books, 7ed  2010 
- 
-Reference Books: 
+  Text Books 
+1. Early Transcendentals Calculus- James Stewart, Thomson Books, 7ed 2010 
+  Reference Books: 
 1. Calculus Single and Multivariable, Hughues-Hallett Gleason, Wiley India Ed, 4ed, 
 2009. 
 2. Thomas Calculus, George B Thomas, Pearson India, 12ed, 2010 
- 
-## Page 21
-
-FMCD2009 / 2.0 21 
- 
-Program: Biotechnology Semester: I 
+  ## Page 21
+ FMCD2009 / 2.0 21 
+  Program: Biotechnology Semester: I 
 Course Title: Engineering Chemistry Course Code:15ECHB101 
 L-T-P:3-0-0 Credits:03 Contact Hours:40 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:03 Examination Duration:3 Hours  
+Teaching Hours:03 Examination Duration:3 Hours 
 Unit I 
 1. Pure substances 
 Properties of pure substance (Steam), two property rule, T -H diagram, formation of steam at 
@@ -676,71 +583,63 @@ constant pressure. Different states of steam: Wet steam -dryness fraction, deter
 separating-throttling calorimeter, Dry saturated steam, Superheate d steam, thermodynamic 
 parameters of steam, steam table, numerical problems. 
 T-V, P-V & P-T diagram of pure substance taking water as example. Triple point & critical point, 
-sub-cooled point, Sub -cooled liquid, saturated liquid, mixture of saturated liquid  & vapor, 
+sub-cooled point, Sub -cooled liquid, saturated liquid, mixture of saturated liquid & vapor, 
 saturated vapor & superheated vapor states. 
- 
-                      08 Hours 
+                        08 Hours 
 2. Real and ideal gases 
-Properties of Real and Ideal gases. Vander Waal's equation, Vander Waal’s constant in terms of 
-critical properties –numerical problems. Compressibility factor, compressibility chart and Law of 
-corresponding state.  Ideal gas: equation of state, internal energy and enthalpy as functions of 
+Properties of Real and Ideal gases. Vander Waal's equation, Vander Waal's constant in terms of 
+critical properties -numerical problems. Compressibility factor, compressibility chart and Law of 
+corresponding state. Ideal gas: equation of state, internal energy and enthalpy as functions of 
 temperature. Ideal gas mixture: Dalton's law of additive pressures and Amagat's law of additive 
-volumes. Terms used in the analysis of mixture of gases - numerical problems.  
+volumes. Terms used in the analysis of mixture of gases - numerical problems. 
 05 Hours 
 3. Engineering Materials 
-Ferrous metals – properties and applications of Iron and Steel.  Ferrous metal s – properties and 
-applications of copper and aluminium.  Cement- properties, mechanism of setting & hardening 
-of cement and applications.  Lubricants- Properties –viscosity, flash point, fire point, cloud point 
-and pour point, mechanism- hydrodynamic and boundary lubrication and applications.  
- 
-03 Hours 
+Ferrous metals - properties and applications of Iron and Steel. Ferrous metal s - properties and 
+applications of copper and aluminium. Cement- properties, mechanism of setting & hardening 
+of cement and applications. Lubricants- Properties -viscosity, flash point, fire point, cloud point 
+and pour point, mechanism- hydrodynamic and boundary lubrication and applications. 
+  03 Hours 
 Unit II 
 4. Fuel Chemistry 
 Fuels, classification, determination of calorific value of a fuel (solid / liquid fuel by Bomb 
 calorimeter), coal analysis - Numerical problems. Petroleum - cracking, Octane number, Cetane 
 number, reforming, and mechanism of knocking in Petrol and Diesel engines . Renewable energy 
-
-## Page 22
-
-FMCD2009 / 2.0 22 
-sources – power alcohol and bio diesel. 
+ ## Page 22
+ FMCD2009 / 2.0 22 
+sources - power alcohol and bio diesel. 
 06 Hours 
-5.   Energy Storage and Conversion Systems 
-Electrode potential, Nernst equation, Formation of a cell; Reference electrodes – Calomel 
+5. Energy Storage and Conversion Systems 
+Electrode potential, Nernst equation, Formation of a cell; Reference electrodes - Calomel 
 electrode and Determination of electrode potential usin g calomel electrode, numerical 
-problems on E, Ecell,, E0cell.  
+problems on E, Ecell,, E0cell. 
 Batteries: Classification, characteristics, Lead-acid and Li ion batteries. 
-Fuel cells: Methanol-O2 fuel cell.                                 
+Fuel cells: Methanol-O2 fuel cell. 
                                                                                                                                          06 Hours 
 6. Surface Chemistry 
-Corrosion: Electrochemical theory of corrosion taking iron as an example; corrosion control –
-galvanization and tinning.    
-Metal Finishing:  Technological importance of metal finishing, Electroplating, factors affecting 
-nature of electrodeposit - Throwing power of plating bath solution - numerical problems.    
-Electro lessplating – advantages over electroplating, lector less plating of copper an d its 
+Corrosion: Electrochemical theory of corrosion taking iron as an example; corrosion control -
+galvanization and tinning. 
+Metal Finishing: Technological importance of metal finishing, Electroplating, factors affecting 
+nature of electrodeposit - Throwing power of plating bath solution - numerical problems. 
+Electro lessplating - advantages over electroplating, lector less plating of copper an d its 
 applications in the manufacture of printed circuit board. 
 04 Hours 
 Unit III 
 7. Polymers 
 Introduction, free radical mechanism of addition polymerization taking Ethylene as an example; 
-commercial polymers - Plexi glass, polyurethane and polystyrene. A dhesives – synthesis, 
+commercial polymers - Plexi glass, polyurethane and polystyrene. A dhesives - synthesis, 
 properties as applications of Epoxy resins; Polymer Composites - structure, properties and 
 applications of Kevlar and carbon fiber. 
 04 Hours 
 8. Environmental Chemistry: 
 Water: Sources and ill effects of water pollutants - fluoride and nitrate; Determination of total 
-hardness of water by EDTS method – numerical problems.  Sewage: Determination of biological 
-oxygen demand by Winkler’s method – numerical problems and determination of chemical 
-oxygen demand -  numerical problems,  
+hardness of water by EDTS method - numerical problems. Sewage: Determination of biological 
+oxygen demand by Winkler's method - numerical problems and determination of chemical 
+oxygen demand - numerical problems, 
                                                                                                                                                                              0 Hours 
- 
-## Page 23
-
-FMCD2009 / 2.0 23 
- 
-BACK 
- 
-Text Books: 
+  ## Page 23
+ FMCD2009 / 2.0 23 
+  BACK 
+  Text Books: 
 1. A text Book of Engineering Chemistry, 1st edition, Dara. S. S, S. Cha nd & Co. Ltd., 2009, 
 New Delhi. 
 2. A text Book of Engineering Chemistry, 16th edition, Jain P.C and Jain M, DhanpatRai 
@@ -750,60 +649,53 @@ Reference Books:
 Hyderabad. 
 2. Hand book of batteries, David Linden, Thomas B Reddy, 3rd edition McGraw Hill 
 publications, 2001. 
-3. Puri B. R., Sharma L.R.  and Pathania M. S.,  Principles of Physical Chemistry, 33rd 
-Edition, S   Nagin Chand & Co.,1992.  
-4. Fontana M G, Corrosion Engineering, 3rd Edition,  McGraw Hill Publications, 1986. 
-5. Billmeyer F W, Text Book of Polymer Science, John Wiley &Son’s, 1994. 
+3. Puri B. R., Sharma L.R. and Pathania M. S., Principles of Physical Chemistry, 33rd 
+Edition, S Nagin Chand & Co.,1992. 
+4. Fontana M G, Corrosion Engineering, 3rd Edition, McGraw Hill Publications, 1986. 
+5. Billmeyer F W, Text Book of Polymer Science, John Wiley &Son's, 1994. 
 6. Principles of Polymer Chemistry- A. RavvePlelum Press, New York and London. 
 7. Callister William D, Materials Science and Engineering: A n introduction, John Wiley and 
 Sons 2007: 721 pages. 
-
-## Page 24
-
-FMCD2009 / 2.0 24 
- 
-Program: Biotechnology Semester: I 
-Course Title:  C Programming for Problem Solving Course Code:18ECSP101 
-L-T-P:0-0-3 Credits:3 Contact Hours: 6  
+ ## Page 24
+ FMCD2009 / 2.0 24 
+  Program: Biotechnology Semester: I 
+Course Title: C Programming for Problem Solving Course Code:18ECSP101 
+L-T-P:0-0-3 Credits:3 Contact Hours: 6 
 ISA Marks:80 ESA Marks:20 Total Marks:100 
-Teaching Hours:78  Examination Duration:3 Hours  
-1.Introduction to Problem solving 
+Teaching Hours:78 Examination Duration:3 Hours 
+1. Introduction to Problem solving 
 Introduction to algorithms / flowcharts and its notations, top down design, elementary problems. 
 03 Hours 
-2.Basics of C programming language 
+2. Basics of C programming language 
 Characteristics and uses of C, Structure of C program, C Tokens: Keywords, Identifiers, Variables, Constants, 
 Operators, Data-types, Input and Output statements. 
-15  Hours 
-3.Decision control statements  
+15 Hours 
+3. Decision control statements 
 Conditional branching statements: if statemen t, if else statement, else if ladder, switch statement, 
 unconditional branching statements: break, continue. 
 Introduction to Debugging Skills 
 Introduction to Test Driven Programming. 
-12  Hours 
-4.Iterative statements 
+12 Hours 
+4. Iterative statements 
 while, do while, for, nested statements 
 10 Hours 
-5.Functions 
+5. Functions 
 Introduction, Function declaration, definition, call, returns statement, passing parameters to functions, 
 introduction to macros. 
 Introduction to Coding Standards 
-10  Hours 
-6.Arrays and Strings  
+10 Hours 
+6. Arrays and Strings 
 Introduction, Declaration, Accessing ele ments, Storing values in arrays, Operations on one dimensional 
 array, Operations on two dimensional arrays, Introduction to Code Optimization and refactoring 
 15 Hours 
-
-## Page 25
-
-FMCD2009 / 2.0 25 
- 
-BACK 
- 
-7.Pointers  
+ ## Page 25
+ FMCD2009 / 2.0 25 
+  BACK 
+  7. Pointers 
 Introduction, declaring pointer, pointer variables, pointer expression and a rithmetic, passing arguments to 
 functions using pointers, pointers and arrays, passing an array to a function. 
 08 Hours 
-8.Structures and Unions 
+8. Structures and Unions 
 Introduction, passing structures to functions, Array of structures, Unions 
 05 Hours 
 Text Books: 
@@ -814,59 +706,52 @@ Reference Books:
 2. B S Gottfried, Programming with C, 2ed, TMH, 2006. 
 3. B.A. Forouzan , R.F. Gilberg, A Structured Program Approach Using C, 3ed, CENGAGE 
 Learning, 2008. 
- 
-## Page 26
-
-FMCD2009 / 2.0 26 
- 
-BACK 
- 
-Program: Biotechnology Semester: I 
+  ## Page 26
+ FMCD2009 / 2.0 26 
+  BACK 
+  Program: Biotechnology Semester: I 
 Course Title: Engineering Exploration Course Code:15ECRP101 
 L-T-P:0-0-3 Credits:3 Contact Hours:78 
 ISA Marks:80 ESA Marks:20 Total Marks:100 
-Teaching Hours:78 Examination Duration:3 Hours  
-1.Introduction to Engineering and Engineering Study 
+Teaching Hours:78 Examination Duration:3 Hours 
+1. Introduction to Engineering and Engineering Study 
 01 Hours 
-2.Role of Analysis in Engineering, Analysis Methodology 
-02  Hours 
-3.Data Analysis Graphing 
-02  Hours 
-4.Basics of Engineering Design, Multidisciplinary Nature of Engineering Design    
-05  Hours 
-5.Project Management 
-01  Hours 
-6.Sustainability in Engineering 
-02  Hours 
-7.Ethics 
-01  Hours 
-8.Modeling, Simulation and Data Acquisition using Software Tool 
-01  Hours 
-9.Platform based development : Arduino 
-03  Hours 
-10.Course Project  
-03  Hours 
+2. Role of Analysis in Engineering, Analysis Methodology 
+02 Hours 
+3. Data Analysis Graphing 
+02 Hours 
+4. Basics of Engineering Design, Multidisciplinary Nature of Engineering Design 
+05 Hours 
+5. Project Management 
+01 Hours 
+6. Sustainability in Engineering 
+02 Hours 
+7. Ethics 
+01 Hours 
+8. Modeling, Simulation and Data Acquisition using Software Tool 
+01 Hours 
+9. Platform based development : Arduino 
+03 Hours 
+10. Course Project 
+03 Hours 
 Reference Books: 
-1. Engineering Fundamentals  & Problem Solving by  ArvidEide, Roland Jenison, 
-Larry Northup, Steven, McGrawHill Higher Education, 6th Edition ( 2011)  
+1. Engineering Fundamentals & Problem Solving by ArvidEide, Roland Jenison, 
+Larry Northup, Steven, McGrawHill Higher Education, 6th Edition ( 2011) 
 2. Engineering Exploration (Edited Book, 2008) by Pearson Publication. 
-
-## Page 27
-
-FMCD2009 / 2.0 27 
- 
-Program: Biotechnology Semester: I 
+ ## Page 27
+ FMCD2009 / 2.0 27 
+  Program: Biotechnology Semester: I 
 Course Title: Basic Electronics Course Code:18EECF102 
-L-T-P:4-0-0 Credits:4 Contact Hours:4  
+L-T-P:4-0-0 Credits:4 Contact Hours:4 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:50 Hrs Examination Duration:3 Hours   
+Teaching Hours:50 Hrs Examination Duration:3 Hours 
 Unit I 
 Chapter 1: Overview of Electronics in Mechanical Engineering 
 Definition & overview of Mechatronics, Mechatronics and Design Innovation, Mechatronics 
-and Manufacturing, Mechatronics and Education; Typical Mechatronics Components;  Sensors 
+and Manufacturing, Mechatronics and Education; Typical Mechatronics Components; Sensors 
 and Transducers. 
 03 Hours 
-Chapter 2: Semiconductor Devices and Applications:  
+Chapter 2: Semiconductor Devices and Applications: 
 PN junction diode, characteristics and parameters, diode approximations, half wave rectifier, 
 full wave bridg e rectifier, full wave bridge rectifier capacitor filter, Zener diode, Voltage 
 regulator design, BJT, Darlington Pair, JFET, MOSFET, UJT, SCR. 
@@ -876,27 +761,25 @@ Ideal op -amp characteristics, op -amp applications: Comparator, Invert ing ampl
 inverting amplifier, Voltage follower, Integration, Differentiation, Adder, Subtractor and 
 numerical as applicable. 
 08 Hours 
-
-## Page 28
-
-FMCD2009 / 2.0 28 
+ ## Page 28
+ FMCD2009 / 2.0 28 
 Unit II 
-Chapter  4: Digital Logic: 
+Chapter 4: Digital Logic: 
 Digital Number system: Binary & Hexadecimal number systems, Conversion, BCD Number 
 system, Gray code, Data word representation , Binary Arithmetic, Boolean Algebra, Logic gates, 
-Combinational & Sequential circuits,  Adders, Flip-Flops, Registers, Counters, Multiplexer. 
-Introduction to Digital Electronics (Text-2):  
+Combinational & Sequential circuits, Adders, Flip-Flops, Registers, Counters, Multiplexer. 
+Introduction to Digital Electronics (Text-2): 
 Introduction, S witching and Logic Levels using circuits, Digital Waveform (Sections 9.1to 
-9.3).Number system: Binary, Octal Decimal and Hexadecimal, Inter Conversion, BCD Number 
-system, Gray code, Data word representation , Binary Arithmetic, Boolean Algebra: Laws, rules  
+9. 3).Number system: Binary, Octal Decimal and Hexadecimal, Inter Conversion, BCD Number 
+system, Gray code, Data word representation , Binary Arithmetic, Boolean Algebra: Laws, rules 
 & theorems of Boolean algebra, Sum of products form ( SOP ), products of sum form (POS) of 
 Boolean functions. Study of Karnaugh Maps ( K -maps) for 2, 3 & 4 variables only. Logic gates, 
-Adders, Encoder, Decoder, Multiplexer and Demultiplexer.  Combinational & Sequential circuits, 
+Adders, Encoder, Decoder, Multiplexer and Demultiplexer. Combinational & Sequential circuits, 
 Latches and Flip-Flops(SR, JK, D, T), 
 13 Hours 
-Chapter  5: Sensors and Transducers :  
-Introduction, Classification of sensors and transducers, Contact type – Mechanical switches, 
-Non-contact type - proximity sensors & Hall sensors,  principle of working of light sensors,  
+Chapter 5: Sensors and Transducers : 
+Introduction, Classification of sensors and transducers, Contact type - Mechanical switches, 
+Non-contact type - proximity sensors & Hall sensors, principle of working of light sensors, 
 Future Challenges. 
 06 Hours 
 Unit III 
@@ -908,40 +791,33 @@ Chapter 7: Case Studies of Mechatronic Systems:
 Automatic Camera, Drilling Machine, Bar code reader. 
 06 Hours 
 Text Books 
-1. David A Bell, “Electronic devices and Circuits” , PHI New Delhi, 2004. 
-2. Morris Mano, “Digital logic and Computer design” 21st Indian print Prentice Hall India, 
+1. David A Bell, "Electronic devices and Circuits" , PHI New Delhi, 2004. 
+2. Morris Mano, "Digital logic and Computer design" 21st Indian print Prentice Hall India, 
 2000. 
 3. W.Bolton, "Mechatronics - Electronic Control Systems in Mechanical and Electrical 
 Engineering", 3rd edition Pearson Education, 2005. 
-4. David Bradley and David W., “Mechatronics in Action”, 2nd edition, Springer, 2010 
-
-## Page 29
-
-FMCD2009 / 2.0 29 
- 
-BACK 
- 
-Reference Books: 
-1. David G Alciatore, Michael B Histand, “Introduction to Mechatronics and 
-Measurement Systems”, TMH 3rd edition, 2007.  
-2. K.A Krishnamurthy and M.R.Raghuveer, “Electrical, Electronics and Computer 
-Engineering for Scientist and Engineers”, Second Edition New Age Int ernational 
+4. David Bradley and David W., "Mechatronics in Action", 2nd edition, Springer, 2010 
+ ## Page 29
+ FMCD2009 / 2.0 29 
+  BACK 
+  Reference Books: 
+1. David G Alciatore, Michael B Histand, "Introduction to Mechatronics and 
+Measurement Systems", TMH 3rd edition, 2007. 
+2. K.A Krishnamurthy and M.R.Raghuveer, "Electrical, Electronics and Computer 
+Engineering for Scientist and Engineers", Second Edition New Age Int ernational 
 Publishers, Wiley Eastern, 2001. 
-3. P. Malvino, “Electronic Principles” Sixth edition Tata McGraw Hill, 1999. 
-4. Floyd, “Digital fundamentals” Third Edition Prentice Hall India, 2001 
-5. BoylesteadNashelsky, “Electronic devices & Circuit theory” Sixth Edi tion Prentice 
+3. P. Malvino, "Electronic Principles" Sixth edition Tata McGraw Hill, 1999. 
+4. Floyd, "Digital fundamentals" Third Edition Prentice Hall India, 2001 
+5. BoylesteadNashelsky, "Electronic devices & Circuit theory" Sixth Edi tion Prentice 
 Hall India, 2000. 
-6. RamakantGayekawad “Operational Amplifiers & applications” 3rd Edition, PHI, 2000. 
-
-## Page 30
-
-FMCD2009 / 2.0 30 
- 
-Program: Biotechnology Semester: I 
+6. RamakantGayekawad "Operational Amplifiers & applications" 3rd Edition, PHI, 2000. 
+ ## Page 30
+ FMCD2009 / 2.0 30 
+  Program: Biotechnology Semester: I 
 Course Title: Basic Mechanical Engineering Course Code:15EECF101 
 L-T-P:2-1-0 Credits:3 Contact Hours:4 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:50 Examination Duration:3 Hours  
+Teaching Hours:50 Examination Duration:3 Hours 
 Chapter Contents Hours Tutorial Sessions 
 Unit I 
 1 Introduction to Mechanical 
@@ -950,7 +826,7 @@ Definition of engi neering,
 Mechanical Engineering, Branches 
 of Mechanical Engineering, Who 
 are Mechanical Engineers?, 
-Mechanical Engineers’ top ten 
+Mechanical Engineers' top ten 
 achievements. 
 2 Visit to Workshop and 
 Machine Shop, Tools, 
@@ -977,20 +853,17 @@ grinding machines
 Demonstration on 
 Welding (Electric Arc 
 Welding, Gas Welding, 
-Soldering)  
+Soldering) 
 Demonstration and 
 Exercises on Sheet 
 metal work. 
 Visit to Learning 
 Factory 
 5 
- 
-## Page 31
-
-FMCD2009 / 2.0 31 
+  ## Page 31
+ FMCD2009 / 2.0 31 
 Unit II 
- 
-3 Design Engineering: Power 
+  3 Design Engineering: Power 
 Transmission Elements 
 Overview 
 Design Application: 
@@ -1003,7 +876,7 @@ Problems.
 Pinion, Worm Gear, Bevel Gear, 
 Helical Gears. Speed, Torque, 
 and Power in Gear pair. Simple 
-and Compound Gear trains.  
+and Compound Gear trains. 
 Numerical Problems. 
  Ball and Roller Bearings, Types, 
 Applications. 
@@ -1018,7 +891,7 @@ Internal Combustion Engines:
 Classification, IC engine parts, 2 
 stroke SI and CI engine, 4 Stroke SI 
 and CI Engine, PV diagrams of Otto 
-and Diesel cycles,  Comparison of 2 
+and Diesel cycles, Comparison of 2 
 stroke and 4 stroke engine, 
 comparison of CI and SI engine, 
 Problems on Engine Performance, 
@@ -1029,9 +902,8 @@ car or any machine
 Video presentations 
 1 
 Unit III 
- 
-5 Thermal Engineering 2: Thermal 
-Systems’ Applications 
+  5 Thermal Engineering 2: Thermal 
+Systems' Applications 
 Refrigeration system, Air 
 conditioning system, Pumps, 
 Blowers and Compressors, 
@@ -1040,172 +912,145 @@ of vario us thermal
 systems 
 Video presentations 
 1 
- 
-## Page 32
-
-FMCD2009 / 2.0 32 
- 
-BACK 
- 
-Turbines, and their working 
+  ## Page 32
+ FMCD2009 / 2.0 32 
+  BACK 
+  Turbines, and their working 
 principle and specifications. 
- 
-Text Books: 
-1. Jonathan Wickert and  Kemper Lewis, An Introduction to Mechanical Engineering, 
-Third Edition, 2013-  Cengage Learning. 
+  Text Books: 
+1. Jonathan Wickert and Kemper Lewis, An Introduction to Mechanical Engineering, 
+Third Edition, 2013- Cengage Learning. 
 2. K.R.Gopalkrishna, SudhirGopalkrishna, S.C. Sharma. A Text Book of Elements of 
-Mechanical Engineering, 30th Edition, Oct 2010,–Subhash Publishers, Bangalore. 
+Mechanical Engineering, 30th Edition, Oct 2010,-Subhash Publishers, Bangalore. 
 Reference Books: 
-1. Course Material developed by the Department of Mechanical Engineering.  
+1. Course Material developed by the Department of Mechanical Engineering. 
 2. SKH Chowdhary, AKH Chowdhary, Nirjhar Roy, The Elements of Workshop Technology - 
 Vol I & II , 11th edition 2001, Media Promoters and Publishers. 
 3. Basic Manufacturing, Roger Timings, Third edition, Newnes, An imprint of Elsevier. 
-
-## Page 33
-
-FMCD2009 / 2.0 33 
- 
-Program: Biotechnology Semester: I 
-Course Title:  Professional Communication Course Code:15EHSH101 
+ ## Page 33
+ FMCD2009 / 2.0 33 
+  Program: Biotechnology Semester: I 
+Course Title: Professional Communication Course Code:15EHSH101 
 L-T-P:1-1-0-0 Credits:2 Contact Hours:42 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:42 Examination Duration: 3 Hours  
-Chapter No. 1. Basics- English Communication  
+Teaching Hours:42 Examination Duration: 3 Hours 
+Chapter No. 1. Basics- English Communication 
 Course Introduction, Explanation of te mplate mix -ups with correct usages & necessity of 
 grammar in error detection, Usage of tenses 
-09  Hours 
+09 Hours 
 Chapter No. 2. Vocabulary and grammar 
 Vocabulary, Word Formation and Active and Passive Voice 
-06  Hours 
-Chapter No. 3. Bouncing Practice  
-Definition and  types of bouncing and its practice with examples, reading skills, free style 
+06 Hours 
+Chapter No. 3. Bouncing Practice 
+Definition and types of bouncing and its practice with examples, reading skills, free style 
 speech. Individual presentation. 
-06  Hours 
-Chapter No. 4. Rephrasing and Structures  
+06 Hours 
+Chapter No. 4. Rephrasing and Structures 
 Comprehension and Rephrasing, PNQ Paradigm and Structural practice 
-08  Hours 
+08 Hours 
 Chapter No. 5. Dialogues 
-Introduction of dialogues, Situational Role plays,  
+Introduction of dialogues, Situational Role plays, 
 03 Hours 
-Chapter No. 6. Business Communication  
+Chapter No. 6. Business Communication 
 Covering letter, formal letters, Construction of paragraphs on any given general topic. 
-09  Hours 
-
-## Page 34
-
-FMCD2009 / 2.0 34 
- 
-BACK 
- 
-Reference Books: 
-1. Collins Cobuild Advanced Learner’s English Dictionary  
+09 Hours 
+ ## Page 34
+ FMCD2009 / 2.0 34 
+  BACK 
+  Reference Books: 
+1. Collins Cobuild Advanced Learner's English Dictionary 
 2. Raymond Murphy - Intermediate English Grammar, Cambridge University Press Martin 
 Hewings- Advanced English Grammar, Cambridge University Press. 
-
-## Page 35
-
-FMCD2009 / 2.0 35 
- 
-Program: Biotechnology Semester: II 
+ ## Page 35
+ FMCD2009 / 2.0 35 
+  Program: Biotechnology Semester: II 
 Course Title: Multivariable calculus Course Code:18EMAB102 
 L-T-P:4-1-0 Credits:05 Contact Hours:50 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:05 Examination Duration:3 Hours  
+Teaching Hours:05 Examination Duration:3 Hours 
 Unit I 
-1.Partial differentiation                                                                                                               
-Function of several variables, Partial derivatives, Level curves, Chain rule, Errors and             
-Approximations. Extreme value problems. Lagrange’s multipliers. 
+1. Partial differentiation 
+Function of several variables, Partial derivatives, Level curves, Chain rule, Errors and 
+Approximations. Extreme value problems. Lagrange's multipliers. 
 12 Hours 
-2.Double integrals                                                                                                                         
+2. Double integrals 
  Double integrals- Rectangular and polar coordinates, Change the order of integration. Change 
 of variables, Jacobian. Application of double integrals 
 08 Hours 
 MATLAB: optimization problems, application of double integrals. 
 Unit II 
-1.Triple integrals 
+1. Triple integrals 
 Triple integrals, Cartesian, change to Cylindrical and Spherical coordinates Application of Triple 
 integrals 
 07 Hours 
-2.Calculus of Vector Fields                                                                                            
+2. Calculus of Vector Fields 
 Vector fields, Gradient and directional derivatives. Line and Surface integrals. Independence of 
-path and potential functions. Green’s theore m, Divergence of vector field, Divergence 
+path and potential functions. Green's theore m, Divergence of vector field, Divergence 
 theorem, Curl of vector field. Stokes theorem. 
 13 Hours 
 MATLAB: application of Triple integrals, Vector calculus problems 
 Unit III 
-1.Differential equations of higher orders                                                                 
+1. Differential equations of higher orders 
 (a)Linear differential equations of second and higher order with constant coeffiISAnts the 
-method of Variation of parameters. Initial and boundary value problems.                                                                   
-(b) Applications of second order differential equations -Newton’s 2 nd law, electrical circuits, 
+method of Variation of parameters. Initial and boundary value problems. 
+(b) Applications of second order differential equations -Newton's 2 nd law, electrical circuits, 
 Simple Harmonic motion. Series solution of differential equations. Validity of Series solution of 
-
-## Page 36
-
-FMCD2009 / 2.0 36 
- 
-BACK 
- 
-Differential equations. 
+ ## Page 36
+ FMCD2009 / 2.0 36 
+  BACK 
+  Differential equations. 
 (5+5) Hours 
 MATLAB: application of differential equations 
 Text Books 
 1. Early Transcendental Calculus- James Stewart, Thomson Books, 7ed 2010. 
- 
-Reference Books: 
+  Reference Books: 
 1. Calculus Single and Multivariable, Hughues-Hallett Gleason, Wiley India Ed, 4ed, 2009. 
 2. Thomas Calculus, George B Thomas, Pearson India, 12ed, 2010. 
- 
-## Page 37
-
-FMCD2009 / 2.0 37 
- 
-Program: Biotechnology Semester: II 
-Course Title:  Engineering Physics Course Code:15EPHB102 
-L-T-P:3-1-0 Credits:03 Contact Hours: 3  
+  ## Page 37
+ FMCD2009 / 2.0 37 
+  Program: Biotechnology Semester: II 
+Course Title: Engineering Physics Course Code:15EPHB102 
+L-T-P:3-1-0 Credits:03 Contact Hours: 3 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration:3 Hours  
+Teaching Hours:40 Examination Duration:3 Hours 
 Unit I 
-Chapter 1:Concept of Motion - Kinematics in One Dimension 
+Chapter 1: Concept of Motion - Kinematics in One Dimension 
 Introduction, Motion Diagrams, The Particle Model, Position Model, Linear Velocity and 
 Acceleration, Uniform Motion, Instantaneous Velocity, Finding Posi tion from Velocity, Motion 
 with Constant Acceleration, Free Fall Motion on an Inclined Plan, Instantaneous Acceleration, 
 Numerical. 
 06 Hours 
-Chapter 2:Kinematics in Two Dimensions 
+Chapter 2: Kinematics in Two Dimensions 
 Introduction to Vectors, Properties of vectors, Coordinate Systems and Vect or Components, 
 Vector Algebra. Position, velocity and Acceleration vectors, Projectile Motion, Relative Motion, 
 Uniform Circular Motion, Velocity and Acceleration in Uniform Circular Motion, Nonuniform 
 Circular Motion and Angular Acceleration, Numerical. 
 06 Hours 
-Chapter 3:Force and Motion 
-Concept of Force, Identifying Forces, A Virtual Experiment,  
-Newton’s First Law, Newton’s Second Law, Free-Body Diagrams, Applications.  
+Chapter 3: Force and Motion 
+Concept of Force, Identifying Forces, A Virtual Experiment, 
+Newton's First Law, Newton's Second Law, Free-Body Diagrams, Applications. 
 04 Hours 
-
-## Page 38
-
-FMCD2009 / 2.0 38 
- 
-BACK 
- 
-Unit II 
-Chapter 4:Dynamics I 
-Equilibrium using Newton’s second Law, Friction, Drag,  
-Newton’s Third Law, Analyzing Interacting Objects, Newton’s Third Law, Applications. 
+ ## Page 38
+ FMCD2009 / 2.0 38 
+  BACK 
+  Unit II 
+Chapter 4: Dynamics I 
+Equilibrium using Newton's second Law, Friction, Drag, 
+Newton's Third Law, Analyzing Interacting Objects, Newton's Third Law, Applications. 
 05 Hours 
-Chapter 5:Dynamics II 
+Chapter 5: Dynamics II 
 Motion in a plane, Dynamics in Two Dimension, Velocity and Acceleration in Uniform Circular 
-Motion, Dynamics of Uniform Circular  Motion, Fictitious Forces, Non -uniform Circular Motion, 
+Motion, Dynamics of Uniform Circular Motion, Fictitious Forces, Non -uniform Circular Motion, 
 Numerical. 
 06 Hours 
-Chapter 6:Impulse and Momentum 
+Chapter 6: Impulse and Momentum 
 Momentum and Impulse, Problems, Conservation of Momentum, Inelastic Collisions, 
 Explosion, Momentum in Two Dimension, Numericals. 
 05 Hours 
 Unit III 
-Chapter 7:Energy and Work 
-Energy: Kinetic Energy and Gravitational Potential Energy, Restoring Forces, Hooke’s Law, Elastic 
-Potential Energy, Elastic Collisions, Energy Diagrams,  
+Chapter 7: Energy and Work 
+Energy: Kinetic Energy and Gravitational Potential Energy, Restoring Forces, Hooke's Law, Elastic 
+Potential Energy, Elastic Collisions, Energy Diagrams, 
 Work: Work and Kinetic Energy, Force, Work and Potential energy, Conservati on of Energy, 
 Power, Numericals. 
   08 Hours 
@@ -1216,90 +1061,78 @@ Reference Books:
 1. Randall D Knight, Physics for SISAntists and Engineers, Pearson publication, 2ndEdition. 
 2. Hans C Ohanian and John T Markert, Physics for EngineersandSISAntists, W W Norton 
 and Company, Volume 1, 3rd Edition 
-
-## Page 39
-
-FMCD2009 / 2.0 39 
- 
-Program: Biotechnology Semester: II 
-Course Title:   Engineering Mechanics Course Code:15EPHB102 
-L-T-P:4-0-0 Credits:03 Contact Hours: 4  
+ ## Page 39
+ FMCD2009 / 2.0 39 
+  Program: Biotechnology Semester: II 
+Course Title: Engineering Mechanics Course Code:15EPHB102 
+L-T-P:4-0-0 Credits:03 Contact Hours: 4 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:50 Examination Duration:3 Hours  
+Teaching Hours:50 Examination Duration:3 Hours 
 Unit I 
-Chapter 1:  Overview of Civil Engineering 
+Chapter 1: Overview of Civil Engineering 
 Evolution of Civil Engineering 
 Specialization, scope and role. 
 Impact of Civil Engineering on 
-National economy, environment and social & cultural fabric.          
+National economy, environment and social & cultural fabric. 
 Challenges and Opportunities for Civil Engineers 
 Civil Engineering Marvels, Future challenges, Higher education and Research. 
 04 Hours 
-Chapter 2:  Coplanar concurrent force system 
-Introduction to Engineering Mechanics:  
-Basic idealizations – Particle, Continuum, Body, Rigid body, Deformable body, Definition of 
-force and its elements; Laws of Mechanics – Parallelogram law  of forces, Principle of 
-transmissibility, Law of Superposition, Newton’s laws of motion. Classification of force 
-systems  
-03  Hours 
-Resultant of coplanar concurrent force system:  Definitions – Resultant, composition & 
+Chapter 2: Coplanar concurrent force system 
+Introduction to Engineering Mechanics: 
+Basic idealizations - Particle, Continuum, Body, Rigid body, Deformable body, Definition of 
+force and its elements; Laws of Mechanics - Parallelogram law of forces, Principle of 
+transmissibility, Law of Superposition, Newton's laws of motion. Classification of force 
+systems 
+03 Hours 
+Resultant of coplanar concurrent force system: Definitions - Resultant, composition & 
 Resolution of a force, Equilibrium, Equilibrant, Formulae for resultant of forces and resolution 
-of a force. Numerical problems on resultant of forces.  
-04  Hours 
-Equilibrium of coplanar concurrent   force system: 
-Conditions of equilibrium, Action & Reaction, Free body diagram, Lamis’ theorem . Numerical 
-problems on equilibrium of forces.  
-05  Hours 
- 
-## Page 40
-
-FMCD2009 / 2.0 40 
-Chapter  3:Coplanar non-concurrent  force system  
-Resultant of a force system:  Moment, moment of a force, couple, moment of a couple, 
-Characteristics of couple, Equivalent force-couple system,  Numerical problems on moment 
+of a force. Numerical problems on resultant of forces. 
+04 Hours 
+Equilibrium of coplanar concurrent force system: 
+Conditions of equilibrium, Action & Reaction, Free body diagram, Lamis' theorem . Numerical 
+problems on equilibrium of forces. 
+05 Hours 
+  ## Page 40
+ FMCD2009 / 2.0 40 
+Chapter 3: Coplanar non-concurrent force system 
+Resultant of a force system: Moment, moment of a force, couple, moment of a couple, 
+Characteristics of couple, Equivalent force-couple system, Numerical problems on moment 
 of forces and couples, on equivalent force -couple system. Varignons principle of moments, 
 Resultant of coplanar- non-concurrent force systems and numerical problems.5 hrs. 
 05 Hours 
 Unit II 
-Chapter  4: Equilibrium of a force system ( Chapter  3 contd..) 
+Chapter 4: Equilibrium of a force system ( Chapter 3 contd..) 
 Conditions of equilibrium, types of support and loading for a statically determinate beam, 
 Reactions at support connections, Numerical problems on equilibrium of force systems and 
-support reactions for a statically determinate beam.  
+support reactions for a statically determinate beam. 
 05 Hours. 
- 
-Chapter 5:Static Friction 
+  Chapter 5: Static Friction 
 Introduction, types of friction, definition, limiting friction, coeffiISAnt of friction, laws of 
 Coulomb friction, angle of friction and angle of repose, cone of friction. Wedge and belt friction 
 theory. Derivation of belt friction formula. Numerical problems on, impending motion on 
 horizontal and inclined planes (including connected bodies); wedge friction; Ladder friction and 
-Belt friction.                                                                              
+Belt friction. 
 08 Hours 
- 
-Chapter 6:  Centroid of Plane Figures  
+  Chapter 6: Centroid of Plane Figures 
 Introduction, Definition, Methods of determining the centroid, axis of reference, axis of 
 symmetry, Locating the centroid of simple plane figures (triangle, semicircle, quarter of a circle 
-and  sector of a  circle etc,.) using method of integration, Numerical problems on Centroid of 
-simple built up sections.        
-05 Hours                                                           
-
-## Page 41
-
-FMCD2009 / 2.0 41 
- 
-BACK 
+and sector of a circle etc,.) using method of integration, Numerical problems on Centroid of 
+simple built up sections. 
+05 Hours 
+ ## Page 41
+ FMCD2009 / 2.0 41 
+  BACK 
 Unit III 
- 
-Chapter 7: Second moment of area (Plane figures) 
+  Chapter 7: Second moment of area (Plane figures) 
 Introduction, Definition, Method of determining the second moment of area, Section Modulus, 
 Radius of gyration, perpendicular and Parallel axis theorems, Polar second moment of area, 
 second moment of area of simple plane figures (triangle, rectangle, semicircle, circle etc, .) 
-using method of integration, Numerical problems on MI of simple built up sections.              
+using method of integration, Numerical problems on MI of simple built up sections. 
 05 Hours 
- 
-Chapter 8: Kinetics of a particle- Work, Power, Energy 
-Introduction – Kinematics and Kinetics, Definitions – work, power and energy. Work done by a  
+  Chapter 8: Kinetics of a particle- Work, Power, Energy 
+Introduction - Kinematics and Kinetics, Definitions - work, power and energy. Work done by a 
 force (constant, gravitational and spring forces) in rectilinear motion. Numerical problems, 
-Kinetic energy of a particle, principle of work and energy.  
+Kinetic energy of a particle, principle of work and energy. 
 06 Hours 
 Text Books: 
 1. Beer, F.P . and Johnston, R., Mechanics for Engineers: Statics, McGraw Hill Company, 
@@ -1320,22 +1153,18 @@ Bangalore, 2006.
 Publishing Company, New Delhi, 1956. 
 5. Irving H Shames, Engineering Mechanic s, 3rd edition, Prentice-Hall of India Pvt. Ltd, 
 New Delhi- 110 001, 1995. 
- 
-## Page 42
-
-FMCD2009 / 2.0 42 
- 
-Program: Biotechnology Semester: II 
+  ## Page 42
+ FMCD2009 / 2.0 42 
+  Program: Biotechnology Semester: II 
 Course Title: Computer Aided Engineering Drawing Course Code: 15EMEP101 
-L-T-P:0-0-3 Credits:03 Contact Hours: 6  
+L-T-P:0-0-3 Credits:03 Contact Hours: 6 
 ISA Marks:80 ESA Marks:20 Total Marks:100 
-Teaching Hours:50 Examination Duration:3 Hours  
+Teaching Hours:50 Examination Duration:3 Hours 
 Unit I 
-Chapter 01: Introduction to engineering drawing and orthographic projections.        
+Chapter 01: Introduction to engineering drawing and orthographic projections. 
   ( Manual Drafting ) 
- 
-i. Introduction to engineering drawing – BIS conventions. 
-ii. Orthographic projections: first angle projection and third angle projection – 
+  i. Introduction to engineering drawing - BIS conventions. 
+ii. Orthographic projections: first angle projection and third angle projection - 
 symbolic representation. 
 iii. Projections of points. 
 iv. Projections of lines inclined to both the planes and determination of true length by 
@@ -1346,11 +1175,9 @@ or perpendicular to one plane and inclined to other plane (Two stage problems).
 vi. Projection of simple solids such as prisms, pyramids, cylinders, cones and sphere 
 and their frustums in simple positions (Base parallel to or in one of the three 
 planes). 
- 
-08 Hours 
+  08 Hours 
 Chapter 02: Development of lateral surfaces of solids. (MANUAL) 
- 
-i. Development of lateral surface of prisms and cylinders (Either full or truncated 
+  i. Development of lateral surface of prisms and cylinders (Either full or truncated 
 using parallel line development method) 
 ii. Development of lateral surface of pyramids and cones (Either full or truncated or 
 of their frustums using radial line development method) 
@@ -1361,76 +1188,65 @@ Chapter 03: Conversion of pictorial views into orthographic projections using CA
 Drawing orthographic projection of obje cts shown in pictorial views by first angle method of 
 projection using CAD software. (2D drafting only) 
 06 Hours 
- 
-## Page 43
-
-FMCD2009 / 2.0 43 
- 
-BACK 
- 
-Chapter 04: Isometric projection or view using CAD software. 
+  ## Page 43
+ FMCD2009 / 2.0 43 
+  BACK 
+  Chapter 04: Isometric projection or view using CAD software. 
 Drawing isometric projections or views of objects shown in orthographic projections using CAD 
 software. 
 04 Hours 
 Text Books: 
-1. Text Book of Engineering Drawing  by K R Gopalakrishna 
+1. Text Book of Engineering Drawing by K R Gopalakrishna 
 2. Text Book of Engineering Drawing by N D Bhatt and V M Panchal 
-
-## Page 44
-
-FMCD2009 / 2.0 44 
- 
-Program: Biotechnology Semester: II 
-Course Title:   Basic Electrical Engineering  Course Code:18EEEF102 
+ ## Page 44
+ FMCD2009 / 2.0 44 
+  Program: Biotechnology Semester: II 
+Course Title: Basic Electrical Engineering Course Code:18EEEF102 
 L-T-P:3-0-0 Credits:03 Contact Hours: 40 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration:3 Hours  
+Teaching Hours:40 Examination Duration:3 Hours 
 Unit-I 
-1.Overview of Electrical Engineering 
+1. Overview of Electrical Engineering 
 Specialization, scope & role, impact of Electrical Engineering on national economy, 
 environment, Sources of generation, sustainability, challenges and opportunities for electrical 
-engineers, electrical engineering marvels, future challenges.  
+engineers, electrical engineering marvels, future challenges. 
 02 Hours 
-2.DC Circuits 
-Voltage and current sources, Kirchoff’s current and voltage laws, loop and nodal analysis of 
+2. DC Circuits 
+Voltage and current sources, Kirchoff's current and voltage laws, loop and nodal analysis of 
 simple circuits with dc excitation. Time-domain analysis of first-order RL and RC circuits. 
 05 Hours 
-3.AC Circuits 
+3. AC Circuits 
 Representation of sinusoidal waveforms, peak a nd rms values, phasor representation, real 
 power, reactive power, apparent power, power factor. Analysis of single -phase series and 
 parallel R-L-C ac circuits. Three -phase balanced circuits, voltage and current relations in star 
 and delta connections. power measurement using two watt meters 
 08 Hours 
 Unit II 
-4.Electrical Actuators 
+4. Electrical Actuators 
 Electromagnetic principles, Solenoid, Relays, classification of Electric motors, DC motors-shunt, 
-series, compound, separately excited, PMDC motors – Speed Control, Stepper Motors , BLDC 
-motors, three phase induction motor,  Characteristics and applications, selection of motors for 
+series, compound, separately excited, PMDC motors - Speed Control, Stepper Motors , BLDC 
+motors, three phase induction motor, Characteristics and applications, selection of motors for 
 various applications. 
 09 Hours 
-5.Power Electronics (Text1, chapter 45) 
+5. Power Electronics (Text1, chapter 45) 
  Introductory, Thyristor, Some thyristor circuits, Limitations to thyristor operati on, The 
-thyristor in practice, The fully controlled AC/DC converter,  AC/DC inversion, Switching devices 
+thyristor in practice, The fully controlled AC/DC converter, AC/DC inversion, Switching devices 
 in inverters, Three -phase rectifier networks, The three -phase fully controlled converter, 
 Inverter-fed induction motors, Soft -starting induction motors , DC to DC conversion switched -
 mode power 
 06 Hours 
-
-## Page 45
-
-FMCD2009 / 2.0 45 
- 
-BACK 
- 
-Unit III 
-6.Electrical Wiring,  Safety and protection(ref :Text3-page 1 to 10) 
+ ## Page 45
+ FMCD2009 / 2.0 45 
+  BACK 
+  Unit III 
+6. Electrical Wiring, Safety and protection(ref :Text3-page 1 to 10) 
 Types of wires and cables for internal wiring, Types of switches and Circuits, Types of wiring, 
 Safety precautions and rules i n handling electrical appliances, Electric shock, first aid for 
 electrical shocks, Importance of grounding and earthing, Methods for earthing, Fuses, MCB, 
 ELCB and Relays, Lockout and Tagout, Electrical Codes and Standards. 
 05 Hours 
-7.Batteries: 
-Basics of lead acid batteries, Lithium Ion Battery ,  Battery storage capacity, Coulomb 
+7. Batteries: 
+Basics of lead acid batteries, Lithium Ion Battery , Battery storage capacity, Coulomb 
 effiISAncy, Numerical of high and low charging rates, Battery sizing. Numericals.. 
 05 Hours 
 Text Books: 
@@ -1440,29 +1256,23 @@ Text Books:
 John Wiley & Sons 2004 edition 
 4. Frank D. Petruzella, Electric Motors and Control Systems, McGraw Hill Education Private 
 Limited 2009 Edition 
- 
-Reference Books: 
+  Reference Books: 
 1. D C Kulshreshtha, Basic Electrical Engineering, McGraw Hill Publications 
 2. David G Alciatore and Michel B Histand, Introduction to Mechatronics and 
 Measurement Systems, 3rd, Tata McG raw Hill Education Private Limited, New Delhi., 
 2005 
-3. Vincent Del Toro, Electrical Engineering Fundamentals, 2nd  edition Prentice Hall India 
-
-## Page 46
-
-FMCD2009 / 2.0 46 
- 
-Program: Biotechnology Semester: II 
+3. Vincent Del Toro, Electrical Engineering Fundamentals, 2nd edition Prentice Hall India 
+ ## Page 46
+ FMCD2009 / 2.0 46 
+  Program: Biotechnology Semester: II 
 Course Title: Design Thinking for Social Innovation Course Code:20EHSP101 
-L-T-P:0-1-1 Credits:02 Contact Hours: 28  
+L-T-P:0-1-1 Credits:02 Contact Hours: 28 
 ISA Marks:80 ESA Marks:20 Total Marks:100 
-Teaching Hours:28 Examination Duration:3 Hours  
+Teaching Hours:28 Examination Duration:3 Hours 
 Module Topics Assignments Support activities / Tools 
 KNOWLEDGE, TOOLS & DEVELOPMENT 
- 
-Course sensitization 
- 
-1.Introduction  to Social 
+  Course sensitization 
+  1. Introduction to Social 
 Innovation: 
  Awakening social 
 consciousness 
@@ -1476,31 +1286,30 @@ Mini Project, Capstone
 Project, Campus 
 Placements) 
  Course Overview 
- Students’ Self 
+ Students' Self 
 Introduction Activity 
  Group formation Activity 
 Reading assignments 
- Read the handout on “The 
+ Read the handout on "The 
 Process of Social 
-Innovation” by Geoff 
+Innovation" by Geoff 
 Mulgan 
  Design thinking for Social 
 Innovation 
 Written Assignments 
  Writing about 
-AkshayaPatra in class.  
+AkshayaPatra in class. 
 (Background information 
 about Akshayapatra and 
 the Social Cuase it is 
 addressing) 
  Brainstorming Session on 
-Social Innovators in Class  
- 
- Class activity on 
+Social Innovators in Class 
+   Class activity on 
 Behavioural Blocks to 
 Innovation 
 Discussion on the 
-behavioural blocks.  
+behavioural blocks. 
  Introducing o neself 
 with three 
 Adjectives- 
@@ -1514,24 +1323,21 @@ triangles out of popsicle
 sticks to enhance group 
 cohesiveness amongst 
 the group mates) 
-
-## Page 47
-
-FMCD2009 / 2.0 47 
+ ## Page 47
+ FMCD2009 / 2.0 47 
 KNOWLEDGE, TOOLS & DEVELOPMENT 
- 
-Seven Mindsets: 
+  Seven Mindsets: 
 1. Empathy 
-(Example of The Boy and  the 
+(Example of The Boy and the 
 Puppies) 
 2. Optimism 
 ( Person Paralyzed waist 
 down / Glass Halh full Half 
-Empty)  
+Empty) 
 3. Iteration 
-(Thomas Alva Edison)  
+(Thomas Alva Edison) 
 4. Creative Confidence 
-(Origamy – Josef Albers) 
+(Origamy - Josef Albers) 
 5. Making it 
 6. Embracing Ambiguity 
 (Confusion is the Welcome 
@@ -1545,26 +1351,22 @@ about the website)
 business which is never 
 launched) 
 Reading assignments 
- Handout on “ Create 
-Mindsets” 
- 
- (How to train the 
-Dragon?  
+ Handout on " Create 
+Mindsets" 
+   (How to train the 
+Dragon? 
 Common Video for 
 all the mindsets) 
  Watching in Class 
-TED Talk on “How to 
+TED Talk on "How to 
 build youir Creative 
 Confidence by David 
-Kelley – IDEO 
-Founder)  
- 
-## Page 48
-
-FMCD2009 / 2.0 48 
+Kelley - IDEO 
+Founder) 
+  ## Page 48
+ FMCD2009 / 2.0 48 
 KNOWLEDGE, TOOLS & DEVELOPMENT 
- 
-Process of Social Innovation 
+  Process of Social Innovation 
 Engage 
 Community study and Issue 
 Identification 
@@ -1573,12 +1375,12 @@ Identification
 Study and Issue 
 Identification 
  Case Study on 
-“EGramSeva” 
- Case Study on “JananiAgri 
-Serve” 
+"EGramSeva" 
+ Case Study on "JananiAgri 
+Serve" 
 Class Presentations 
  Initial observations being 
-made by the group  
+made by the group 
 ( Literature Surv ey of 
 Places of Hubli - 
 Dharwad)www.readwhere.
@@ -1591,38 +1393,30 @@ Use template 1: Frame your
 Design Challenge 
  Activity on 
 Observation skills 
-To know how to use  
-one’s observation 
+To know how to use 
+one's observation 
 skills in 
 understanding the 
-social conditions  
- 
- Experience sharing 
+social conditions 
+   Experience sharing 
 by senior students 
- 
- Brainstorming 
+   Brainstorming 
 Deliberations on the 
 initial observations 
 and arrive at the 
-“Social Issue” 
- 
- Familiarization of the 
+"Social Issue" 
+   Familiarization of the 
 respective templates 
-with the help of  
+with the help of 
 sample case study 
- 
- PEER REVIEW 
-
-## Page 49
-
-FMCD2009 / 2.0 49 
- 
-Inspiration 
- 
- Plan for the Research 
+   PEER REVIEW 
+ ## Page 49
+ FMCD2009 / 2.0 49 
+  Inspiration 
+   Plan for the Research 
  Development of 
 Interview guide 
- Capture your Learnings  
+ Capture your Learnings 
 Reading assignments 
  Handout on Overview of 
 Inspiration 
@@ -1631,7 +1425,7 @@ Class Presentations
  Identification of the 
 Stake Holders 
 (Examples on Fluoroscent 
-Curtain and Students’ 
+Curtain and Students' 
 Punctuality for Class) 
  Interview Questions 
 (Role Play on Interview 
@@ -1640,54 +1434,44 @@ with Stakeholders)
 Learnings capture 
 Use template 2: Plan your 
 Research 
- 
-Template 3. Development of 
+  Template 3. Development of 
 Interview Guide 
 Template 4. Capture your 
 Learning 
- 
- Familiarization of the 
+   Familiarization of the 
 respective templates 
 with the help of 
 sample case study 
-
-## Page 50
-
-FMCD2009 / 2.0 50 
- 
-Ideation 
-3.1 Synthesis 
+ ## Page 50
+ FMCD2009 / 2.0 50 
+  Ideation 
+3. 1 Synthesis 
  Search for meaning 
- Create “How might we” 
+ Create "How might we" 
 question 
 Reading assignments 
  Handout on Overview of 
 Ideation-Synthesis 
 Class Presentations 
 • Create insights 
-• “How might we” questions 
+• "How might we" questions 
 Use template 5: Create 
 Insights 
-Template 6: Create “How 
-Might We’ Questions 
- 
- Familiarization of the 
+Template 6: Create "How 
+Might We' Questions 
+   Familiarization of the 
 respective templates 
 with the help of 
-sample case study  
- 
- PEER REVIEW 
-
-## Page 51
-
-FMCD2009 / 2.0 51 
- 
- Implementation 
+sample case study 
+   PEER REVIEW 
+ ## Page 51
+ FMCD2009 / 2.0 51 
+   Implementation 
  Create an action plan 
  Community Partners 
 (if any) 
  Budgeting & Fundraising 
-1. Peer to Peer  
+1. Peer to Peer 
 2. Crowd Funding 
 3. Giving Kiosks 
 4. Donation 
@@ -1702,10 +1486,9 @@ www.blog.fundly.com)
  Ethical concerns 
  Launch your solution 
  Feedback (Impact) 
- 
-Reading assignments 
+  Reading assignments 
  Handout on Overview of 
-Implementation  
+Implementation 
 Class Presentations 
  Pilot implementation plan 
 with required resources 
@@ -1715,173 +1498,147 @@ holders & their enagement
 respective template s 
 with the help of 
 sample case study 
- 
-## Page 52
-
-FMCD2009 / 2.0 52 
- 
-BACK 
- 
-5.0 Reflect 
- 
-Reflection of the overall 
+  ## Page 52
+ FMCD2009 / 2.0 52 
+  BACK 
+  5. 0 Reflect 
+  Reflection of the overall 
 learning by the students 
 Reading assignments 
  Handout on Overview of 
-students Reflection  
+students Reflection 
 Use template 9: Reflection on 
 the Process 
 Class Presentations 
 Final Presentation - After 
 Implementation 
- 
- Familiarization of the 
+   Familiarization of the 
 respective templates 
 with the help of 
 sample case study 
- 
-## Page 53
-
-FMCD2009 / 2.0 53 
- 
-Program: Biotechnology Semester: II 
-Course Title:  Engineering Physics lab Course Code:16EPHP102 
-L-T-P:0-0-1 Credits:1 Contact Hours: 2  
+  ## Page 53
+ FMCD2009 / 2.0 53 
+  Program: Biotechnology Semester: II 
+Course Title: Engineering Physics lab Course Code:16EPHP102 
+L-T-P:0-0-1 Credits:1 Contact Hours: 2 
 ISA Marks:80 ESA Marks:20 Total Marks:100 
-Teaching Hours:24 Hours Examination Duration:3 Hours  
+Teaching Hours:24 Hours Examination Duration:3 Hours 
 List of Experiments 
 1 Experimental Data Error Analysis 
 2 Coefficient of Friction 
 3 Centripetal Force 
-4 Young’s Modulus by Searle’s method 
+4 Young's Modulus by Searle's method 
 5 The Law of Forces by three wire suspension table 
 6 Force Table and Vector addition of forces 
 7 Moment of inertia and rotational motion 
 8 Projectile motion 
 9 Variable g pendulum 
 10 Study of one dimension motion by linear air track 
- 
-BACK 
- 
-## Page 54
-
-FMCD2009 / 2.0 54 
- 
-Program: Biotechnology Semester: III 
-Course Title:  Numerical Methods and Differential 
+  BACK 
+  ## Page 54
+ FMCD2009 / 2.0 54 
+  Program: Biotechnology Semester: III 
+Course Title: Numerical Methods and Differential 
 Equations 
 Course Code:20EMAB205 
 L-T-P:4-0-0 Credits:4.0 Contact Hours:4 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration: 3 Hours  
+Teaching Hours:40 Examination Duration: 3 Hours 
 Unit I 
 1. Interpolation techniques 
-Finite differences, Forward, Backward and central difference Operators.  Newton Gregory 
-forward and backward interpolation formulae. Stirling’s formula for central differe nce. 
-Newton’s divided difference formula for unequal intervals. 
+Finite differences, Forward, Backward and central difference Operators. Newton Gregory 
+forward and backward interpolation formulae. Stirling's formula for central differe nce. 
+Newton's divided difference formula for unequal intervals. 
                                                                                                                                             08 Hours 
- 
-2. Numerical Solution of Partial Differential Equations 
+  2. Numerical Solution of Partial Differential Equations 
 Introduction, Classification of PDE, Parabolic, Elliptic and Hyperbolic Partial differential 
 equations, Introduction to finite difference approximations to derivatives, finite difference 
 solution of parabolic PDE, explicit and implicit method s, finite difference method to Elliptic 
-PDE-initial –boundary vale problems, Hyperbolic PDE -explicit method.  Engineering problems: 
+PDE-initial -boundary vale problems, Hyperbolic PDE -explicit method. Engineering problems: 
 Temperature distribution in a heated plate, steady-state heat flow and vibration of a stretched 
 string. 
                                                                                                                                             12 Hours 
 Unit II 
 3. Matrices and System of linear equations 
-Introduction to system of linear equations, Elementary row transformations,  Rank of a matrix, 
+Introduction to system of linear equations, Elementary row transformations, Rank of a matrix, 
 Consistency of system of linear equations, solution of system by (i) Direct methods -Gauss 
 elimination, Gauss Jordon method (ii) Iterative method - Gauss-Seidel method. Eigen values 
 and Eigenvectors of a matrix. Largest Eigen value and th e corresponding Eigenvector by power 
-method. Engineering problems.                                                                                         
+method. Engineering problems. 
 08 Hours 
- 
-4. Introduction to Statistics 
+  4. Introduction to Statistics 
 Introduction, Scope of biostatistics, Variables, Measurement scales, Ordered array, Graphical 
 representation of data: Bar Chart, Line chart, histogram, frequency curve, Ogive curves. 
 Descriptive statistics: Measure of central tendency (arithmetic mean, median, mode, quartiles); 
 Measures of dispersion (Quartile devia tion, Standard deviation, coefficient of variation), 
-Measure of skewness (Pearson and Bowley’s)                                                                                
+Measure of skewness (Pearson and Bowley's) 
 12 Hours 
- 
-## Page 55
-
-FMCD2009 / 2.0 55 
- 
-BACK 
- 
-Unit III 
-5.  Introduction to Laplace transform and Solution of Differential Equations 
+  ## Page 55
+ FMCD2009 / 2.0 55 
+  BACK 
+  Unit III 
+5. Introduction to Laplace transform and Solution of Differential Equations 
 Definition, transforms of elementary functions - transforms of derivatives and integrals -
-Properties. Periodic functions, Unit step functions and Unit impulse functions.  Inverse 
+Properties. Periodic functions, Unit step functions and Unit impulse functions. Inverse 
 Transforms- properties- Convolution Theorem. Applications to differential equations 
                                                                                                                                          10 Hours 
- 
-Text Books: 
+  Text Books: 
 1. Numerical methods for Engineers, Chapra S C and Canale R P , 5ed, TATA McG raw-Hill, 
 2007 
 2. Advanced Engineering Methods, Kreyszig E. 8Ed, John Wiley & sons, 2003. Applied 
 Statistics and Probability for Engineers, Douglas Montgomery, George Runger, 6Ed, John 
 Wiley, 2014 
- 
-Reference Books: 
+  Reference Books: 
 1. Introduction to Probability and Statistics: Principles and Applications for Engineering 
 and Computing, J.Susan Milton, Jesse C Arnold, , 4, TATA Mc-Graw Hill Edition, 2007 
 2. Fundamentals of Mathematical Statistics, Gupta S.C and Kapoor V.K, 11Ed, Sultan Chand 
 & Sons, New Delhi, 2002 
-3. Higher Engineering  Mathematics, Grewal B S, 38ed, Khanna Publication, New Delhi, 
+3. Higher Engineering Mathematics, Grewal B S, 38ed, Khanna Publication, New Delhi, 
 2001. 
- 
-## Page 56
-
-FMCD2009 / 2.0 56 
- 
-Program: Biotechnology Semester: III 
-Course Title:   Microbiology Course Code: 15EBTC201 
-L-T-P:4-0-0 Credits:4.0 Contact Hours:04  
+  ## Page 56
+ FMCD2009 / 2.0 56 
+  Program: Biotechnology Semester: III 
+Course Title: Microbiology Course Code: 15EBTC201 
+L-T-P:4-0-0 Credits:4.0 Contact Hours:04 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:50 Examination Duration: 3 Hours  
+Teaching Hours:50 Examination Duration: 3 Hours 
 Unit I 
-1. Introduction  
+1. Introduction 
 The scope of Microbiology, Historical Foundations, Taxonomy and classification of 
-microorganisms, Bergey’s Manual of Systematic Bacteriology, pr okaryotic and eukaryotic cells, 
+microorganisms, Bergey's Manual of Systematic Bacteriology, pr okaryotic and eukaryotic cells, 
 Eubacteria and Archaebacteria, study of different types of microorganisms: bacteria, yeasts, 
 viruses, fungi, protozoa (structure, classification, modes of reproduction & growth). Microbes 
 and human society: Microbial applica tions in agriculture, veterinary, healthcare, industry and 
 environment. 
-                                                                                                             05 Hours                                                                                                                                                                                                                                                                  
-2. Functional anatomy of Prokaryotic and Eukaryotic cells:  
+                                                                                                             05 Hours 
+2. Functional anatomy of Prokaryotic and Eukaryotic cells: 
 Size, shape and arrangement of bacterial cells, structures external to cell wall, cell wall and 
 structures internal to cell wall including endospores. Structure and functions of eukaryotic cell. 
 Genome structure in prokaryotic and Eukaryotic cells, Genotype & P henotype, Genetic transfer 
 and recombination (Transformation, Conjugation & Transduction), Genes and evolution. 
-                          07 Hours                                                                                                                                                                                   
+                          07 Hours 
 3. Microscopic Examination 
 Bright-field Microscopy, Dark -field Microscopy, Phase -contrast Microscopy, Fluorescence 
 Microscopy and Electron Microscopy. Preparation of specimen for light and electron microscopy. 
 Advances in Scanned Probe Microscopy, Scanning Tunneling Microscopy, Atomic Force 
-Microscopy.                                                                                                                           
+Microscopy. 
 04 Hours 
 4. Microbial Growth 
 The requirements for growth (Physical & Chemical requirements), Culture media & their 
 classification, Effect of different factors on growth, Growth of bacterial culture: bacterial 
 division, generation time, phases of growth. Fundamentals of mic robial growth 
-Kinetics.Chemostat & Turbidostat, Measurement of growth: Direct and Indirect methods.  
+Kinetics.Chemostat & Turbidostat, Measurement of growth: Direct and Indirect methods. 
                                      04 Hours 
- 
-## Page 57
-
-FMCD2009 / 2.0 57 
+  ## Page 57
+ FMCD2009 / 2.0 57 
 Unit II 
 5. Microbial Techniques 
 Pure culture techniques (streak plate, spread plate, pour plate), Staining techniques (simple and 
 differential staining techniques), Enumeration techniques (Direct Microscopic Count, plating 
 techniques, membrane filtration, Electronic enumeration, etc). Characterization: Phenotypic and 
-Biochemical characterization. 16S rRNA gene homology.   
-                                             10 Hours                                                                                   
-6. Microbial Metabolism  
+Biochemical characterization. 16S rRNA gene homology. 
+                                             10 Hours 
+6. Microbial Metabolism 
 Catabolic and Anabolic reactions, Energy production, Carbohydrate catabolism: Glyco lysis, 
 Alternatives to Glycolysis, Cellular respiration, Energy production by aerobic process, Energy 
 production by anaerobic process, Energy production by photosynthesis, Mechanism of ATP 
@@ -1890,80 +1647,70 @@ reactions. Metabolic diversity among microorganisms: autotrophs and heterotrophs
 pathways of energy use: Polysaccharide biosynthesis, lipid biosynthesis, amino acid and protein 
 biosynthesis. The integration of metabolism. Utilization of Energy and Biosynthesis: Utilization of 
 energy for biosynthetic and non-biosynthetic processes. 
-10 Hours                                                                                   
- 
-Unit III 
+10 Hours 
+  Unit III 
 7. Control & Preservation of Microorganisms 
 Control of microorganisms by physical methods (heat, filtration, radiation). Microbial death 
 kinetics, Thermal death point, Thermal death time, Decimal reduction time. Control of 
 microorganisms by chemical methods (phenols, alcohols, halogens, dyes, detergents, heavy 
 metals, etc), Common preservation techniques for microbes. 
-                                                                 05 Hours                                                                                                                                                        
-8. Applied and Industrial Microbiology  
+                                                                 05 Hours 
+8. Applied and Industrial Microbiology 
 Food Microbiology, role of microorganisms in food production, Industrial Microbiology: 
 Introduction to Fermenter & fermentation processes, Media for industrial application, Industrial 
 Products: amino acids, vitamins, enzymes, pharmaceuticals, organic acids (discussion of case 
 study), r -DNA technology & therapeutic products from microbes. Biosynthetic pathways and 
-Introduction to Metabolic Engineering.                                                                                                                                     
+Introduction to Metabolic Engineering. 
                                                                                                                             05 Hours 
- 
-## Page 58
-
-FMCD2009 / 2.0 58 
- 
-BACK 
- 
-Text Books: 
+  ## Page 58
+ FMCD2009 / 2.0 58 
+  BACK 
+  Text Books: 
 1. Chan & Pelzar, Microbiology, Publisher: Tata McGraw Hill 5th Edition 2008. 
-2. Tortora, Microbiology: An Introduction, Publisher:  Pearson Education, 8th Edition, 2004 
+2. Tortora, Microbiology: An Introduction, Publisher: Pearson Education, 8th Edition, 2004 
 Reference Books: 
 1. Stanier Ingraham & Wheeler, General Microbiology, Pub: Mac Millan 5th edition. 2007. 
 2. Heritage, Introductory Microbiology Pub: Cambridge, 1st edition, 2007 
-
-## Page 59
-
-FMCD2009 / 2.0 59 
- 
-Program: Biotechnology Semester: III 
+ ## Page 59
+ FMCD2009 / 2.0 59 
+  Program: Biotechnology Semester: III 
 Course Title: Biochemistry Course Code: 15EBTC202 
-L-T-P:4-0-0 Credits:4.0 Contact Hours:04  
+L-T-P:4-0-0 Credits:4.0 Contact Hours:04 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:50 Examination Duration: 3 Hours  
+Teaching Hours:50 Examination Duration: 3 Hours 
 Unit I 
-1.  Biochemical Foundation & Carbohydrates 
-Types of chemical reactions, Solution chemistry.  pH (Henderson-hesselbatch equation) Buffers 
+1. Biochemical Foundation & Carbohydrates 
+Types of chemical reactions, Solution chemistry. pH (Henderson-hesselbatch equation) Buffers 
 and their Biological importance, carbohydrates - chemical structure and properties 
-classification-  Monosaccharide’s, Disaccharides, Sugar derivatives, deoxy sugars, amino sugars, 
+classification- Monosaccharide's, Disaccharides, Sugar derivatives, deoxy sugars, amino sugars, 
 and sugar acids, phosphorylated sugars, structure and propert ies of polysaccharides, 
 Homopolysaccharides, Heteropolysaccharides - Peptidoglycan, Glycosaminoglycans, 
-Glycoconjugates, Glycobiology . Biological importance of carbohydrates.                                                                               
+Glycoconjugates, Glycobiology . Biological importance of carbohydrates. 
 07 Hours 
-2. Lipids  
-Definition and classification of lipid – simple, compound and derived lipids. Structure, 
+2. Lipids 
+Definition and classification of lipid - simple, compound and derived lipids. Structure, 
 classification and properties of fatty acids, Essential and non -essential fatty acid with 
 physiological importance. Structure and physiogical functio ns of phospholipids, Sphingolipids, 
 cerebrosides and gangliosides. Steroids - Structure and functions of cholesterol,. Eicosanoids, 
-lipoproteins and terpenes. Vitamins-classifications and functions                                                                 
-05 Hours   
-3. Amino acids and Proteins  
+lipoproteins and terpenes. Vitamins-classifications and functions 
+05 Hours 
+3. Amino acids and Proteins 
 Definition, Classification and properties of amino acids, reactions, rare amino acids, essential 
 and nonessential amino acids with physiological importance. Peptides - Definition of peptide 
-bond, Biologically im portant peptides. Proteins – Classification- primary, secondary - Alpha 
+bond, Biologically im portant peptides. Proteins - Classification- primary, secondary - Alpha 
 helix, Beta sheets, tertiary and quaternary proteins -hemoglobin. Ramachandran plot, 
-polypeptide sequencing- Edman degradation, Chemical synthesis of Peptides.                                   
+polypeptide sequencing- Edman degradation, Chemical synthesis of Peptides. 
 05 Hours 
-4. Nucleic acids  
+4. Nucleic acids 
 Structure and properties of purines, pyrimidines, nucleosides and nucleotides. Nucleic acids - 
-Structure of DNA, RNA -Types,                                                                                          
+Structure of DNA, RNA -Types, 
 03 Hours 
 Unit II 
-5. Carbohydrate metabolism  
+5. Carbohydrate metabolism 
 Glycolysis-aerobic and in anaerobic pathway, Energy yield of glycolysis Regulation of glycolysis- 
 metabolic and hormonal. Fates of pyruvate. Glycogen - synthesis and degradation. Regulation 
-
-## Page 60
-
-FMCD2009 / 2.0 60 
+ ## Page 60
+ FMCD2009 / 2.0 60 
 of glycogen metabolism. Gluc oneogenesis, Pentose phosphate pathway. Significance of 
 pentose phosphate pathway and regulation. Production of Acetyl -CoA, Reactions of Citric acid 
 cycle, Anaplerotic reactions, regulation of citric acid cycle. Glyoxylate cycle, Electron transport 
@@ -1971,298 +1718,262 @@ chain, ATP synthesis, shuttle systems and Oxidative phosphorylation. Cyclic and 
 Photophosphorylation and Calvin Cycle (C3) in plants Disorders of carbohydrate metabolism. 
 Production of microbial polysaccharides; industrial and Medical application of 
 exopolysaccharides. 
-                                                                                                           10 Hours   
-6. Metabolism of Amino acids  
+                                                                                                           10 Hours 
+6. Metabolism of Amino acids 
 General reactions of amino acid metabolism, urea cycle, amino acid biosynthesis-aspartate and 
-glutamate family  and degradation of aromatic amino acid - phenylalanine and tyrosine,  
+glutamate family and degradation of aromatic amino acid - phenylalanine and tyrosine, 
 metabolic disorders of amino acid metabolism, biosynthesis of plant substances and 
 neurotransmitters, Environmental and Industrial Significance of Amino acid metabolism. 
                                                                                                                                        05 Hours 
-7. Metabolism of Fatty acids  
-Fatty acid oxidation, biosynthesis of fatty acids, Ketone bodies, phospholip ids and spingolipids  
+7. Metabolism of Fatty acids 
+Fatty acid oxidation, biosynthesis of fatty acids, Ketone bodies, phospholip ids and spingolipids 
 cholesterol biosynthesis, Regulation, metabolic disorders of lipid metabolism. Environmental 
-and Industrial Significance of lipid metabolism                                                                            
+and Industrial Significance of lipid metabolism 
 05 Hours 
 Unit III 
-8. Metabolism of Nucleic acids  
+8. Metabolism of Nucleic acids 
 Biosynthesis and degradation of purines and pyrimidines, salvage pathway, uric acid 
-production, regulation, metabolic disorders of nucleic acid metabolism.                                                
-05 Hours                         
-9. Biological Membranes And Transport Mechanism  
-Composition and functions of biological membranes (fluid mosaic model) – Proteins, 
+production, regulation, metabolic disorders of nucleic acid metabolism. 
+05 Hours 
+9. Biological Membranes And Transport Mechanism 
+Composition and functions of biological membranes (fluid mosaic model) - Proteins, 
 Carbohydrates, Glycoprotein and glycolipids, Membrane transport - Passive transport and 
 Active transport. Mecha nism of Na+ and K+, glucose and amino acid transport. Role of 
-transport in signal transduction processes.                                                                                                       
-05 Hours  
-Text Books   
-1. David L. Nelson, Michael  M. Cox, Lehninger Principles of Biochemistry, Sixth Edition, 
+transport in signal transduction processes. 
+05 Hours 
+Text Books 
+1. David L. Nelson, Michael M. Cox, Lehninger Principles of Biochemistry, Sixth Edition, 
 W.H. Freeman, 2012. 
 2. Jeremy M. Berg, John L. Tymoczko, Lubert Stryer. , Biochemistry, 7th revised 
 International edition, Palgrave MacMillan, 2011. 
-
-## Page 61
-
-FMCD2009 / 2.0 61 
- 
-BACK 
- 
-Reference Books 
+ ## Page 61
+ FMCD2009 / 2.0 61 
+  BACK 
+  Reference Books 
 1. Donald Voet and Judith G. Voet. , Biochemistry, 4th edition, Wiley; , 2010 
-2. Geoffrey L. Zubay, Principles of Biochemistry , Edition: 4th, William C Brown Pub,  
+2. Geoffrey L. Zubay, Principles of Biochemistry , Edition: 4th, William C Brown Pub, 
 1999. 
-
-## Page 62
-
-FMCD2009 / 2.0 62 
- 
-Program: Biotechnology Semester: III 
-Course Title:  Bioprocess Calculations Course Code: 15EBTF201 
-L-T-P:4-0-0 Credits:4.0 Contact Hours:04  
+ ## Page 62
+ FMCD2009 / 2.0 62 
+  Program: Biotechnology Semester: III 
+Course Title: Bioprocess Calculations Course Code: 15EBTF201 
+L-T-P:4-0-0 Credits:4.0 Contact Hours:04 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:50 Examination Duration: 3 Hours  
+Teaching Hours:50 Examination Duration: 3 Hours 
 Unit I 
-1.Units and dimensions 
+1. Units and dimensions 
 Introduction to Fundamental and derived Units. FPS, MKS, CGS and SI system. Conversion from 
 one system to another system with examples. 
-                                                                                                                                           04 Hours                                                                                                                                           
-2.Basics of chemical calculation 
+                                                                                                                                           04 Hours 
+2. Basics of chemical calculation 
  Introduction, concept of mole, Atomic mass and molar mass, composition of mixtures of 
-solids, liquids and ga seous. Ideal gas law, Amagats law and Dalton’s law. Varification of Vol 
+solids, liquids and ga seous. Ideal gas law, Amagats law and Dalton's law. Varification of Vol 
 %=Mol %. Physical properties of solution, normality, morality and molality. Solving problems 
-for normality, morality and molality.                                                                                                           
-         08 Hours                                                                                                                                                                                                                                                                                                                            
-3.Material balances without chemical reaction 
+for normality, morality and molality. 
+         08 Hours 
+3. Material balances without chemical reaction 
 General material balance equation, simplification for steady state without chemi cal reaction. 
 Material balances of unsteady -state operation. Problems on mixing of streams, Distillation, 
 Drying, Absorption, evaporation, Filtration, Extraction & Crystallization. 
-                                                                                                                                            08 Hours                                                                                                       
+                                                                                                                                            08 Hours 
 Unit II 
-4.Material balances with chemical reaction 
+4. Material balances with chemical reaction 
  Introduction, Concept of limiting, excess reactant and inerts. Conversion, yield and selectivity. 
 Fuels and combustion -Definition of ultimate and proximate analysis of coal, air fu el ratio 
 calculation. Problems. 
-         10  Hours                                                                                                                                                                                                              
-5.Energy Balance 
+         10 Hours 
+5. Energy Balance 
 General steady state energy balance Equation.Thermopysics-Enthalpy, Heat capacities of solids, 
 liquids and gases. Heat capacities of mixture, Thermo chemistry-Heat of combustion, formation 
 and reaction. Effect of temperature on heat of reaction. Definition and significances of NCV 
-and GCV and problems.                                                                                                               10 Hours                                                                                                                                           
-
-## Page 63
-
-FMCD2009 / 2.0 63 
- 
-BACK 
- 
-Unit III 
+and GCV and problems. 10 Hours 
+ ## Page 63
+ FMCD2009 / 2.0 63 
+  BACK 
+  Unit III 
 6a .Stoichiometry of microbial growth and product formation kinetics 
  Introduction and definition of various yield coeffiISAnts. Elemental balances and Degree of 
 reduction. Problems. 
                                                                                                                                           05 Hours 
 6b .Stoichiometry of microbial growth and product formation kinetics 
-Introduction and Basic cell kinetic models, Strutured,unstructured and mixed growth kinetic 
+Introduction and Basic cell kinetic models, Strutured, unstructured and mixed growth kinetic 
 models 
                                                                                                                                           05 Hours 
 Text Books 
-1. B.I Bhatt and S.M.Vora, Stoichiometry,Tata McGraw Hill publications,4th edn,2007.  
+1. B.I Bhatt and S.M.Vora, Stoichiometry, Tata McGraw Hill publications, 4th edn, 2007. 
 2. David Himmelblau, Basic principles and calculation in c hemical engineering , Pearson 
-Education  Limited,6th edn,2005 
+Education Limited, 6th edn, 2005 
 Reference Books 
-1. Hougen, Watson and Rigatz, Chemical Process principles  Pati-I ,  CBS Publishers & 
-Distributors,2nd edn,2004. 
-2. J E Bailey and D F Ollis, Biochemical engineering Fundamentals,   Mc G rew Hill 
-Publication,2nd edn,1986. 
-
-## Page 64
-
-FMCD2009 / 2.0 64 
- 
-Program: Biotechnology Semester: III 
-Course Title:   Unit Operations-I Course Code: 17EBTF201 
+1. Hougen, Watson and Rigatz, Chemical Process principles Pati-I , CBS Publishers & 
+Distributors, 2nd edn, 2004. 
+2. J E Bailey and D F Ollis, Biochemical engineering Fundamentals, Mc G rew Hill 
+Publication, 2nd edn, 1986. 
+ ## Page 64
+ FMCD2009 / 2.0 64 
+  Program: Biotechnology Semester: III 
+Course Title: Unit Operations-I Course Code: 17EBTF201 
 L-T-P:: 3-0-0 Credits:3.0 Contact Hours: 03 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration: 3 Hours  
+Teaching Hours:40 Examination Duration: 3 Hours 
 Unit I 
- 1. Basics of mass transfer  
-Introduction to Mass Transfer, Classification of mass transfer operations, Diffusion, Fick’s law of 
-diffusion, Vapour Liquid Equilibrium (Txy & xy plots),Raoult ’s law, Relative volatility and its 
+ 1. Basics of mass transfer 
+Introduction to Mass Transfer, Classification of mass transfer operations, Diffusion, Fick's law of 
+diffusion, Vapour Liquid Equilibrium (Txy & xy plots),Raoult 's law, Relative volatility and its 
 importance. Prediction of VLE data for binary mixture (Ideal system). 
 05 Hours 
- 2. Distillation  
+ 2. Distillation 
 Types of distillation: simple/Batch distillation, Multi stage tray tower distillation, Packed 
 column distillation & steam d istillation. Determination of theoretical stages in multistage tray 
 tower distillation column: Construction of equilibrium curve, Equations for operating lines of 
 rectifying section & stripping section, Equation for feed line (q -line).Concept of Reflux rat io, 
 Types of Refluxes: Total reflux, Minimum reflux & Optimum reflux. Conceptual numerical 
-Problems on determination of number of theoretical stages.     
+Problems on determination of number of theoretical stages. 
 10 Hours 
 Unit II 
-3. Drying & Crystillation:  
+3. Drying & Crystillation: 
 Importance of Drying, Terminologies and definitions, Dry ing rate curves under constant drying 
-conditions, Drying Equipments: Tray dryer, Freeze dryer/Lyophilizer,spray dryer 
-etc.Crystallization:Concept of Crystlallation, Principle and Applications 
+conditions, Drying Equipments: Tray dryer, Freeze dryer/Lyophilizer, spray dryer 
+etc.Crystallization: Concept of Crystlallation, Principle and Applications 
 05 Hours 
-4. Extraction  
+4. Extraction 
 Introduction, Liquid-Liquid & Solid-Liquid Extraction Principles, selection of solvents. Batch and 
-Continuous Extraction.Extraction Processes:Aqueous two phase Extraction, Super critical Fluid 
-extraction.   
+Continuous Extraction.Extraction Processes: Aqueous two phase Extraction, Super critical Fluid 
+extraction. 
 04 Hours 
 5. Adsorption 
  Concept of Adsorption, Types of Adsorption, Adsorption Isotherms, Applications of Adsorption 
-in Chromatography.                                                                                                               
+in Chromatography. 
  03 Hours 
-
-## Page 65
-
-FMCD2009 / 2.0 65 
- 
-BACK 
- 
-6. Heat transfer  
+ ## Page 65
+ FMCD2009 / 2.0 65 
+  BACK 
+  6. Heat transfer 
 Heat transfer: Introduction, Modes of heat transfer: conduction, convec tion and radiation. 
-Conduction: Fourior’s law of heat conduction, Thermal conductivity. Steady state heat 
+Conduction: Fourior's law of heat conduction, Thermal conductivity. Steady state heat 
 conduction through unilayer and multilayer plain wall, Unilayer & multilayer Cylindrical pipe. 
-Conceptual problems.              
-04 Hours                                                                                      
+Conceptual problems. 
+04 Hours 
 Unit III 
-7. Convective heat transfer & Heat transfer equipment’s 
+7. Convective heat transfer & Heat transfer equipment's 
 Forced and natural convection, individual and overall heat transfer coeffiISAnt, Correlation for 
-h   and U for the fl ow in circular tubes and annulus. Calculation of h (film heat transfer 
+h and U for the fl ow in circular tubes and annulus. Calculation of h (film heat transfer 
 coeffiISAnt) based on dimensionless number, Concept of Log Mean Temperature Difference 
 (LMTD). Typical heat transfer equipments: Double pipe heat exchanger, Shell and tube heat 
-exchanger. (Line diagram and operation).     
+exchanger. (Line diagram and operation). 
 05 Hours 
 8. Condensation & Boiling 
 Condensation: Drop wise & Film wise condensation. Boiling: Phenomenon, different regimes 
-of Boiling (descriptive only). Insulation, Critical thickness of Insulation.                          
+of Boiling (descriptive only). Insulation, Critical thickness of Insulation. 
 05 Hours 
 Text Books 
 1. McCabe W. L. and Smith J. C, Unit operations of chemical engineering, 7th, McGraw-
 Hill, 2005 
-2. 2. C. J. Geankoplis, Transport Processes and unit operation s, 4th, Prentice Hall of                   
-India,2004 
+2. 2. C. J. Geankoplis, Transport Processes and unit operation s, 4th, Prentice Hall of 
+India, 2004 
 Reference Books 
 1. George Granger Brown, Unit Operations, 1st , CBS Publishers &Distributors, 2004 
-2. Alan S Foust, Principles of Unit operations, 2nd, John Wiley & Sons, 1980  
-
-## Page 66
-
-FMCD2009 / 2.0 66 
- 
-BACK 
- 
-Program: Biotechnology Semester: III 
-Course Title:    Corporate Communication Course Code: 22EHSH201 
+2. Alan S Foust, Principles of Unit operations, 2nd, John Wiley & Sons, 1980 
+ ## Page 66
+ FMCD2009 / 2.0 66 
+  BACK 
+  Program: Biotechnology Semester: III 
+Course Title: Corporate Communication Course Code: 22EHSH201 
 L-T-P:: 0.5-0-0 Credits:0.5 Contact Hours: 16 
 ISA Marks:100 ESA Marks: 0 Total Marks:100 
-Teaching Hours:16 Examination Duration: N.A  
-Content  
- Chapter No. 1. Communication Skills  
+Teaching Hours:16 Examination Duration: N.A 
+Content 
+ Chapter No. 1. Communication Skills 
 Tools of Communication, Listening, Body Language, Common Postures and Gestures, Open and 
 Closed Body Language, Body Language to be used in Corporate Scenarios, Voice: Pitch, Pace, 
-and Pause, Verbal Language: Positive & Negative Vocabulary, Corporate Conversations  
+and Pause, Verbal Language: Positive & Negative Vocabulary, Corporate Conversations 
 04 Hours 
  Chapter No. 2. Presentation Skills 
 Zero Presentation, Individual Presentations, and feedback, Making Presentations Interactive, 
 Types of Questions, Taking off and Signing off differently, Captivating your Audience, Corporate 
 Presentations 
 04 Hours 
- Chapter No. 3. Spoken English  
+ Chapter No. 3. Spoken English 
 Phonetic and Non-Phonetic Languages, Introduction to IPA, Sounds in English, Syllables, Word 
 Stress, Rhythm, Pausing, and Intonation 
 04 Hours 
- Chapter No. 4. Written English  
+ Chapter No. 4. Written English 
 Vocabulary Enhancement Strategies, Root Words in English, Grammar Improvement 
 Techniques, Dictionary Usage, Similar and Contradictory Words 
 04 Hours 
 Text Book: NA 
-
-## Page 67
-
-FMCD2009 / 2.0 67 
- 
-BACK 
- 
-Program: Biotechnology Semester: III 
-Course Title:    Microbiology Lab Course Code: 15EBTP201 
+ ## Page 67
+ FMCD2009 / 2.0 67 
+  BACK 
+  Program: Biotechnology Semester: III 
+Course Title: Microbiology Lab Course Code: 15EBTP201 
 L-T-P:: 0-0-1 Credits:1.0 Contact Hours: 03 
 ISA Marks:80 ESA Marks:20 Total Marks:100 
 Teaching Hours:24 Examination Duration: 3 
 Hours 
- 
-List of Experiments: 
+  List of Experiments: 
 1. Laboratory safety precautions, material safety guidelines, cleanin g & storage practices, 
-culture disposal practices.  
+culture disposal practices. 
 2. Study of Laboratory equipments: Microscope, Autoclave, Laminar Air Flow Bench, Hot 
-Air Oven, Bacteriological Incubator and Freeze Drier. SOP and Calibration.  
-3. Media preparation: Nutrient broth/Agar, Mac -Conkey’s medium and Potato -Dextrose 
-broth/Agar.   
+Air Oven, Bacteriological Incubator and Freeze Drier. SOP and Calibration. 
+3. Media preparation: Nutrient broth/Agar, Mac -Conkey's medium and Potato -Dextrose 
+broth/Agar. 
 4. Micrometry: Bacterial Cell measurement 
 5. Pure culture techniques: Streak plate Method, Spread plate Method, Pour plate 
 Method. 
 6. Isolation and enumeration of microorganisms from environmental sources. (Open -
 ended experiment) 
-7. Simple and Differential Staining Techniques (Gram staining technique).    
-8. Hanging drop technique for motility and Endospore staining.  
+7. Simple and Differential Staining Techniques (Gram staining technique). 
+8. Hanging drop technique for motility and Endospore staining. 
 9. Study of bacterial growth curve (difference between non spore former and spore 
 former) Sterilization by Filtration and antibiotic susceptibility testing. 
 Text Books/Reference Books: 
 1. Microbiology: A Lab Manual Seventh Edition by Cappuccino J G and Sherman N 2012 
-Pearson education Inc, 2012 (ISBN 978-81-317-1437-9).  
+Pearson education Inc, 2012 (ISBN 978-81-317-1437-9). 
 2. Laboratory experiments in Microbiology, Ninth Edition by Ted R. Johnson and Christine 
-Case. Pearson Education (ISBN 978-0-321-56028-5)  
+Case. Pearson Education (ISBN 978-0-321-56028-5) 
 3. Techniques in Microbiology: A Student Handbook by John M. Lammert. Pearson 
-Education (ISBN 978-0-13-224011-6)   
-
-## Page 68
-
-FMCD2009 / 2.0 68 
- 
-BACK 
- 
-Program: Biotechnology Semester: III 
-Course Title: Biochemistry  Lab Course Code: 15EBTP202 
+Education (ISBN 978-0-13-224011-6) 
+ ## Page 68
+ FMCD2009 / 2.0 68 
+  BACK 
+  Program: Biotechnology Semester: III 
+Course Title: Biochemistry Lab Course Code: 15EBTP202 
 L-T-P:: 0-0-1 Credits:1.0 Contact Hours: 02 
 ISA Marks:80 ESA Marks:20 Total Marks:100 
-Teaching Hours:24 Examination Duration: 3 Hours  
+Teaching Hours:24 Examination Duration: 3 Hours 
 List of Experiments: 
 1. Biochemical Mea surements: Molarity, Normality, Molality, Moles, weight/volume 
-measurements, percent solution, concentration Units. pH measurements  and Buffer 
-preparation, SOP’s, Instrument calibrations. 
+measurements, percent solution, concentration Units. pH measurements and Buffer 
+preparation, SOP's, Instrument calibrations. 
 2. Qualitative analysis of carbohydrates and Lipids 
 3. Qualitative analysis of amino acids and proteins. 
-4. Estimation of reducing sugar by Folin – Wu method. 
-5. Estimation of reducing sugar by Nelson –Somogyi/DNS method. 
+4. Estimation of reducing sugar by Folin - Wu method. 
+5. Estimation of reducing sugar by Nelson -Somogyi/DNS method. 
 6. Estimation of Amino acids by ninhydrin method. 
-7. Estimation of Proteins by Lowry’s method. 
+7. Estimation of Proteins by Lowry's method. 
 8. Estimation of Inorganic Phosphate by Fiske-Subbarao method. 
 9. Estimation of Urea by DAMO method 
 10. Estimation of DNA by Diphenylamine method. 
 11. Estimation of RNA by Orcinol method. 
 Text Books/Reference Books: 
-1. David Plummer An introduction to Practical biochemistry.Third edition,McGraw -
-Hill,1987.  
-2. Sadasivam S and Manickam A.,Biochemical methods.Second edition,New Age 
-International,2005.  
-
-## Page 69
-
-FMCD2009 / 2.0 69 
- 
-BACK 
- 
-Program: Biotechnology Semester: III 
-Course Title:  Unit Operations-I Lab Course Code:  17EBTP201 
+1. David Plummer An introduction to Practical biochemistry.Third edition, McGraw -
+Hill, 1987. 
+2. Sadasivam S and Manickam A.,Biochemical methods.Second edition, New Age 
+International, 2005. 
+ ## Page 69
+ FMCD2009 / 2.0 69 
+  BACK 
+  Program: Biotechnology Semester: III 
+Course Title: Unit Operations-I Lab Course Code: 17EBTP201 
 L-T-P:: 0-0-1 Credits:1.0 Contact Hours: 02 
 ISA Marks:80 ESA Marks:20 Total Marks:100 
 Teaching Hours:24 Examination Duration: 3 
 Hours 
- 
-List of Experiments: 
+  List of Experiments: 
 1. Diffusivity measurements 
 2. Drying characteristics. 
 3. Liquid Extraction 
-4. Convective mass transfer  
+4. Convective mass transfer 
 5. Simple distillation 
 6. Steam distillation 
 7. Heat transfer in packed bed 
@@ -2273,35 +1984,30 @@ Text Books/Reference Books:
 1. McCabe W. L. and Smith J. C, Unit operations of chemical engineering, 7th, McGraw-
 Hill, 2005 
 2. C. J. Geankoplis, Transport Proc esses and unit operation s, 4th, Prentice Hall of 
-India,2004  
-
-## Page 70
-
-FMCD2009 / 2.0 70 
- 
-Program: Biotechnology Semester: IV 
+India, 2004 
+ ## Page 70
+ FMCD2009 / 2.0 70 
+  Program: Biotechnology Semester: IV 
 Course Title: Biostatistics Course Code: 20EMAB210 
 L-T-P:: 3-0-0 Credits:4.0 Contact Hours: 04 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:50 Examination Duration: 3 Hours  
+Teaching Hours:50 Examination Duration: 3 Hours 
 Unit I 
 1. Bivariate Distribution Fitting of curves 
 Introduction to biostatistics, Review of Central tendency and Dispersion, Correlation, linear 
-regression, Curve fitting (Nonlinear and Exponential curves)                                            
+regression, Curve fitting (Nonlinear and Exponential curves) 
 05 Hours 
- 
-2. Probability 
-Definition of probability, addition rule, conditional probability, multiplication rule, Baye’s rule, 
+  2. Probability 
+Definition of probability, addition rule, conditional probability, multiplication rule, Baye's rule, 
 sensitivity, specificity, predictive value positive and negativ e, Probability in Genetics: Punnett 
-square, Hardy - Weinberg law, Wahlund's Principle                                                         
+square, Hardy - Weinberg law, Wahlund's Principle 
  05 Hours 
-  
-3. Probability distributions 
-Discrete probability distributions - Binomial, Poisson, Continuous Probab ility Distribution – 
-Normal, Exponential, Gamma distribution                                                                                       
+   3. Probability distributions 
+Discrete probability distributions - Binomial, Poisson, Continuous Probab ility Distribution - 
+Normal, Exponential, Gamma distribution 
 05 Hours 
 Unit II 
-4.  Sampling and Statistical Inference 
+4. Sampling and Statistical Inference 
 Introduction, Sampling, Sampling distribution, sampl e size determination, Confidence 
 intervals, Tests of hypothesis, p -value, t-test for single mean, difference of mean (with equal 
 variance and unequal variance), paired t -test, Chi Square test for goodness of fit and 
@@ -2310,123 +2016,108 @@ studies of statistical designs of biological experiments (RCBD, RBD)
                                                                                                                                           08 Hours 
 5. Design of Experiments-1 
 Introduction, OFAT, 22 and 23 factorial experiments: Data table, Graphical representation, Main 
-and interaction effects, ANOVA Table                                                                              
+and interaction effects, ANOVA Table 
 07 Hours 
- 
-## Page 71
-
-FMCD2009 / 2.0 71 
- 
-BACK 
- 
-Unit III 
+  ## Page 71
+ FMCD2009 / 2.0 71 
+  BACK 
+  Unit III 
 6. Design of Experiments -2 
 Fractional factorial design, Placket -Burman design, Response Surface Methods -Central 
 Composite Design 
                                                                                                                                          05 Hours 
-7. Population Growth Models  
+7. Population Growth Models 
 Introduction, Discrete time and continuous growth, Density Independent growth model: 
-Geometric and Exponential growth model, Density dependent growth: Logistic growth model         
+Geometric and Exponential growth model, Density dependent growth: Logistic growth model 
 05 Hours 
 Text Books 
-1. Applied Statistics and Probability for Engineers,Douglas Montgomery, George Runger, 
+1. Applied Statistics and Probability for Engineers, Douglas Montgomery, George Runger, 
 6Ed, John Wiley, 2014 
 2. Introduction to Probability and Statistics: Principles and Applications for Engineering 
-and Computing,J.Susan Milton, Jesse C Arnold, , 4, TATA Mc-Graw Hill Edition, 2007 
+and Computing, J.Susan Milton, Jesse C Arnold, , 4, TATA Mc-Graw Hill Edition, 2007 
 3. Mathematical Models in Biology and Medicine, Kapoor J.N, EWP New Delhi, 2000 
 Reference Books 
 1. Fundamentals of Mathematical Statistics, Gupta S.C and Kapoor V.K, 11Ed, Sultan 
-Chand & Sons, New Delhi, 2002  
-
-## Page 72
-
-FMCD2009 / 2.0 72 
- 
-Program: Biotechnology Semester: IV 
-Course Title:  Immunology Course Code: 15EBTC203 
+Chand & Sons, New Delhi, 2002 
+ ## Page 72
+ FMCD2009 / 2.0 72 
+  Program: Biotechnology Semester: IV 
+Course Title: Immunology Course Code: 15EBTC203 
 L-T-P:: 3-0-0 Credits:3.0 Contact Hours: 04 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration: 3 Hours  
+Teaching Hours:40 Examination Duration: 3 Hours 
 Unit I 
-1. Immune system  
+1. Immune system 
 History and Scope of Immunology and Immune system, Classification of Immune system, Types 
 of Immune responses, Molecules ,Cells and Organs of Immune system and Anatomy of 
-immune response.                      
-06 Hours            
-2. Humoral Immunity  
-Overview of Humoral immunity, B- Lymphocytes – Development and their activation, Antibody 
+immune response. 
+06 Hours 
+2. Humoral Immunity 
+Overview of Humoral immunity, B- Lymphocytes - Development and their activation, Antibody 
 response, Structure and functions of Immunoglobulins, Classes and sub -classes of 
 immunoglobulins, genetic control of antibody production, Monoclonal an d Polyclonal 
 antibodies, Production of Monoclonal antibodies and quality screening processes in large scale 
 monoclonal antibody production 
-                                                                                                                                            05  Hours 
-3. Cell Mediated Immunity  
-Overview of cell mediated immunity and its significance, T-Lymphocytes – Development, Types 
+                                                                                                                                            05 Hours 
+3. Cell Mediated Immunity 
+Overview of cell mediated immunity and its significance, T-Lymphocytes - Development, Types 
 and their activation, Major Histocompatibility (MHC) Complex, Antigen Presenting Cells (APC) 
 and antigen processing and presentation, Mechanism of Phagocytosis- Oxygen dependent and 
-Oxygen independent.                                                    
-                                                                                                                                04  Hours 
+Oxygen independent. 
+                                                                                                                                04 Hours 
 Unit II 
-4. Regulation of Immune Response and Immune tolerance  
-Immune response – Nature and necessity of its regulation, Complement System - Types, 
-activation and types and their biological applications, Cytokines – types and  their role in 
-immune response, Immune Tolerance and their types, Hypersensitivity reactions – Types and 
+4. Regulation of Immune Response and Immune tolerance 
+Immune response - Nature and necessity of its regulation, Complement System - Types, 
+activation and types and their biological applications, Cytokines - types and their role in 
+immune response, Immune Tolerance and their types, Hypersensitivity reactions - Types and 
 Treatments. Food allergy, Case study on mechanism of immunity booster. 
-05  Hours 
-5. Immunological disorders  
-Auto immune disorders – Features, important types and Experimental models of auto immune 
-diseases ImmunodefiISAncy Disorders – Types and features.                                              04  Hours 
-
-## Page 73
-
-FMCD2009 / 2.0 73 
- 
-BACK 
- 
-6. Transplantation immunology  
-Transplantation antigens – Types and functions, Types of Transplantations, Immunological basis 
+05 Hours 
+5. Immunological disorders 
+Auto immune disorders - Features, important types and Experimental models of auto immune 
+diseases ImmunodefiISAncy Disorders - Types and features. 04 Hours 
+ ## Page 73
+ FMCD2009 / 2.0 73 
+  BACK 
+  6. Transplantation immunology 
+Transplantation antigens - Types and functions, Types of Transplantations, Immunological basis 
 of Graft rejection , and their disease association, Role of HLA in graft rejection, Tumor specific 
 antigens, Tissue typing, Immune suppression and immune suppressive drugs. 
-                                                                                                                06 Hours      
+                                                                                                                06 Hours 
 Unit III 
-7. Molecular Immunology  
-Vaccines – Types and their development, Production of Recombinant DNA v accines, 
+7. Molecular Immunology 
+Vaccines - Types and their development, Production of Recombinant DNA v accines, 
 Application of PCR technology to produce antibodies, Immune Therapy with genetically 
 engineered antibodies, Catalytic antibodies, immunotherapeutic applications of hematopoietic 
 stem cells, Purification and preparation of antigens in vaccine devel opment and 
 Immunoinformatics. 
-                                                                06 Hours                                                                 
-8. Immunodiagnosis  
-Immunization and Antiserum, Antigen -Antibody interactions – Precipitation reactions and 
+                                                                06 Hours 
+8. Immunodiagnosis 
+Immunization and Antiserum, Antigen -Antibody interactions - Precipitation reactions and 
 Agglutination reactions Immuno -electrophoresis and Immunoflurescence assay, Principle and 
 applications of ELISA and RIA and Western blotting analysis. 
-                                                                                                     04 Hours                                                                                                
+                                                                                                     04 Hours 
 Text Books 
 1. Janis. Kuby, Immunology, V, WH Freeman and Company, 2003 
-2. Pandian and Senthil Kumar, Immunology and Immunotechnology , Panima Publishing  
+2. Pandian and Senthil Kumar, Immunology and Immunotechnology , Panima Publishing 
 Corporation, 2007 
 Reference Books 
 1. P .M. Ladyard, Immunology , Bios SISAntific Publishers Ltd , 2000 
 2. Roitt I, Essential Immunology, Blackwell sISAntific Publications. 
-
-## Page 74
-
-FMCD2009 / 2.0 74 
- 
-Program: Biotechnology Semester: IV 
-Course Title:   Enzyme Technology Course Code: 17EBTC201 
-L-T-P:: 4-0-0 Credits:4.0 Contact Hours: 04  
+ ## Page 74
+ FMCD2009 / 2.0 74 
+  Program: Biotechnology Semester: IV 
+Course Title: Enzyme Technology Course Code: 17EBTC201 
+L-T-P:: 4-0-0 Credits:4.0 Contact Hours: 04 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
 Teaching Hours:50 Examination Duration: 3 
 Hours 
- 
-Unit I 
-1. Introduction to enzymes  
+  Unit I 
+1. Introduction to enzymes 
 History, nomenclature, c lassification of enzymes, sources of enzymes, properties of enzyme, 
 Types of specificities, mechanism of enzyme action-Lock and Key model and Induced fit model, 
 Enzyme catalysis -Acid base catalysis, covalent catalysis, metal ion catalysis, Proximity and 
-orientation effects. Mechanism of coenzymes (NAD/NADP ,FAD/FADH 2,PLP , Coenzyme A, TPP , 
-Biotin)                                                                                                                                   
+orientation effects. Mechanism of coenzymes (NAD/NADP ,FAD/FADH 2, PLP , Coenzyme A, TPP , 
+Biotin) 
 07 Hours 
 2. Purification of enzymes 
 Objectives and strategies in enzyme purification, choice of source -plant, animal and microbial, 
@@ -2435,49 +2126,45 @@ purification),methods of homogenization, methods of separation -Enzyme fractiona
 precipitation (using Temperature, salt, solvent, pH, etc.), liquid -liquid extraction, ionic 
 exchange, gel chromatography, affinity chromatography and other special purification 
 methods., Methods of characterization of enzymes; Analys is of yield, purity and activity of 
-enzymes. Molecular weight determination-SDS-PAGE, MALDI-TOF                                                                              
-08 Hours                  
+enzymes. Molecular weight determination-SDS-PAGE, MALDI-TOF 
+08 Hours 
 3. Enzymatic techniques 
 Enzyme assay, Enzyme and isoenzym e measurement methods with examples(fixed incubation 
 and kinetic methods) Methods for investigating the kinetics of Enzyme catalyzed reactions -
 Initial velocity studies, rapid -reaction techniques, Standardization and optimization methods, 
-stability and activity of enzymes                                                                                                        
+stability and activity of enzymes 
 05 Hours 
 Unit II 
-4. Enzyme Kinetics and Enzyme Inhibitions.  
+4. Enzyme Kinetics and Enzyme Inhibitions. 
 Kinetics of single substrate reactions; Derivation of Michaelis -Menten equ ation, turnover 
 number; Kcat value, determination of Km and Vmax, Line Weaver Burk plot, Eadie Hofstee plot, 
 Hanes woolf plot, Importance of Km & Vmax; Enzyme inhibitions - reversible, competitive, 
-uncompetitive and non -competitive inhibitions and kinetics,  allosteric and irreversible 
+uncompetitive and non -competitive inhibitions and kinetics, allosteric and irreversible 
 inhibition. Substrate inhibitions, Multi -substrate reactions -ordered mechanisms, random 
-
-## Page 75
-
-FMCD2009 / 2.0 75 
- 
-BACK 
- 
-mechanisms, Ping -pong mechanism. Allosteric enzymes and regulation - The Monad - 
+ ## Page 75
+ FMCD2009 / 2.0 75 
+  BACK 
+  mechanisms, Ping -pong mechanism. Allosteric enzymes and regulation - The Monad - 
 Changeux - Wyman model (MCW) and The Koshland - Nemethy - Filmer (KNF) model, 
 Feedback regulation and covalent regulation. 
                                                                                                         07 Hours 
 5. Enzymes Of Medical Importance 
-Acetylcholinesterase, angiotensin converting  enzyme (ACE), ACE Inhibitors, HMG Co A 
+Acetylcholinesterase, angiotensin converting enzyme (ACE), ACE Inhibitors, HMG Co A 
 reductase inhibitors, pseudocholinesterase, 5' -nucleotidase (5NT), glucose -6-phosphate 
 dehydrogenase (GPD), CKisoforms, immunoreactive trypsinogen (IRT) and chymotrypsin; 
 amylase isoenzymes.Importance of enzymes in d iagnostics, Enzyme pattern in diseases like 
-Myocardial infarctions, (SGOT,  SGPT & LDH). Isoenzymes (CK, LD, ALP). Enzymes in 
-immunoassay techniques, Therapeutic enzymes.                                                                                       
+Myocardial infarctions, (SGOT, SGPT & LDH). Isoenzymes (CK, LD, ALP). Enzymes in 
+immunoassay techniques, Therapeutic enzymes. 
 07 Hours 
-6. Enzyme Immobilization  
+6. Enzyme Immobilization 
 Techniques of enzyme immobilization, adsorption - matrix entrapment- encapsulation- cross-
 linking - covalent binding - examples; whole cell immobilization and their application, kinetics 
 of immobilized enzymes, effect of solute, partition & diffusion on the kinetics of immobilized 
 enzymes, uses of immobilized enzymes, Design of Immobilized Enzyme Reactors- Stirred tank 
 reactors(STR), Continuous Flow Stirred Tank Reactors (CSTR), Packed- bed reactors (PBR), 
-Fluidized-bed Reactors (FBR); Membrane reactor                                                              
+Fluidized-bed Reactors (FBR); Membrane reactor 
  06 Hours 
-Text Books  
+Text Books 
 David L. Nelson, Michael M. Cox, Lehninger Principles of Biochemistry. , 6, W.H. Freeman, 2012 
 Trevor Palmer, 2. Enzymes: Biochemistry, Biot echnology and Clinical Chemistry, 1, East -West 
 Press Pvt. Ltd, 2004 
@@ -2486,182 +2173,158 @@ References
 Principles of biochemistry., 3, Prentice Hall, 2002 
 2. Faber, Biotransformation in Organic Chemistry , 4, Springer, 2000 
 3. Aehle W , Enzymes in industry- production and applications, 3, Wiley-VCH, 2007 
-4. Nicholas .C. Price and Lewis Stevens, Fundamentals of Enzymology , 3, Oxford  
+4. Nicholas .C. Price and Lewis Stevens, Fundamentals of Enzymology , 3, Oxford 
              University Press , 1991 
-
-## Page 76
-
-FMCD2009 / 2.0 76 
- 
-Program: Biotechnology Semester: IV 
-Course Title:    Cell and Molecular Biology Course Code: 15EBTC205 
-L-T-P:: 4-0-0 Credits:4.0 Contact Hours: 04  
+ ## Page 76
+ FMCD2009 / 2.0 76 
+  Program: Biotechnology Semester: IV 
+Course Title: Cell and Molecular Biology Course Code: 15EBTC205 
+L-T-P:: 4-0-0 Credits:4.0 Contact Hours: 04 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:50 Examination Duration: 3 Hours  
+Teaching Hours:50 Examination Duration: 3 Hours 
 Unit I 
-1. Cell Biology and Biotechnology                                                       
+1. Cell Biology and Biotechnology 
 Organization of Prokaryotic and Eukaryotic cells. Structure and functions of membranes, 
 nucleus, endoplasmic reticulum, Golgi complex, mitochondria, chloroplast and vacuoles. Cel l 
 division, Cell Cycle regulation and Cancer. Applications of cell biology and its principles in 
 Genetic Engineering and Microbial, Plant & Animal Biotechnology 
-                                                                                                                                            05 Hours                                                                                                                                                    
-                                                              
-2. Molecular Biology and Nucleic Acids 
+                                                                                                                                            05 Hours 
+                                                               2. Molecular Biology and Nucleic Acids 
 Development and scope of Molecular Biology, Central Dogma of Molecular Biology and its 
 updated view, Classical experiments and Nucleic acids as genetic material, Overview of 
 Genome: Viral genome, bacterial geno me, Mitochondrial genome, Eukaryotic genome. 
 Organization of Prokaryotic and Eukaryotic genome/Chromosomes. Typical Gene structure in 
-Prokaryotes and Eukaryotes.  Structure and forms of nucleic acids, factors determine the 
-structure of DNA. Denaturation and  melting curves. Overview of Isolation, Purification, 
-Estimation and Storage of Nucleic acids.                                                                                                               
-                                                                                                                                            10 Hours            
-                                                  
-3. Replication of DNA 
+Prokaryotes and Eukaryotes. Structure and forms of nucleic acids, factors determine the 
+structure of DNA. Denaturation and melting curves. Overview of Isolation, Purification, 
+Estimation and Storage of Nucleic acids. 
+                                                                                                                                            10 Hours 
+                                                   3. Replication of DNA 
 An overview and Basic rules for DNA Replication, Enzymes and proteins of DN A Replication, 
 DNA Replication is Semi conservative, Origin of DNA Replication, Replicon and Replication fork, 
-Unidirectional  and Bidirectional replication of DNA, Mechanism of DNA replication in 
-prokaryotes and in Eukaryotes.                                                                                                       
+Unidirectional and Bidirectional replication of DNA, Mechanism of DNA replication in 
+prokaryotes and in Eukaryotes. 
                                                                                                                                             05 Hours 
 Unit II 
 4. Transcription 
 General features of Transcription process, Types of RNA molecules, Prokaryotic and eukaryotic 
 RNA polymerases, Promoter structure and Mechanism of transcription in prokaryotes and 
 eukaryotes, Post transcriptional modifications of mRNA, tRNA and rRNA, Transcriptio n 
-inhibitors.                                                                                                                                       05 Hours                                                  
-
-## Page 77
-
-FMCD2009 / 2.0 77 
-                                                                                                                                           
-5. Translation 
+inhibitors. 05 Hours 
+ ## Page 77
+ FMCD2009 / 2.0 77 
+                                                                                                                                            5. Translation 
 Features of Genetic code and Wobble hypothesis, Overview of protein synthesis, Components 
-required for protein synthesis, Mechanism of protein synthesis  in prokaryotes and eukaryotes, 
+required for protein synthesis, Mechanism of protein synthesis in prokaryotes and eukaryotes, 
 Post-translational modifications and Protein targeting, Inhibitors in translation 
                                                                                                                                             04 Hours 
 6. Regulation of Gene Expression in Prokaryotes and Eukaryotes. 
 Regulation of gene activity, Gene regulation in Prokaryotes: Constitutive, Inducible and 
 repressible gene expression systems, Operon model for gene expression regulation in 
-prokaryotes, Positive and Negative regulation of – Lac Operon – Regulation, Catabolic 
+prokaryotes, Positive and Negative regulation of - Lac Operon - Regulation, Catabolic 
 repression and Gratuitous inducers etc, Trp Operon and Gal Operon. Gene regulation in 
-Eukaryotes, Regulation of Gene expression at Genome level, Transcriptional level –Acetylation 
+Eukaryotes, Regulation of Gene expression at Genome level, Transcriptional level -Acetylation 
 of Histones, Chromatin remodeling, DNA Methylation, DNA elements, Transcription factors, 
-Insulators, Regulatory proteins and Hormones. Gene regulation at Post transcriptional level – 
-Splicing, RNA interference, Transport of mRNA and by regulating mRNA stability.                                                                                                                        
+Insulators, Regulatory proteins and Hormones. Gene regulation at Post transcriptional level - 
+Splicing, RNA interference, Transport of mRNA and by regulating mRNA stability. 
                                                                                                                                              07 Hours 
- 
-7. Mutations and DNA Repair 
-Mutation – Source of genetic variability, basic features of Mutation process, Molecular basis of 
+  7. Mutations and DNA Repair 
+Mutation - Source of genetic variability, basic features of Mutation process, Molecular basis of 
 Mutation, Conditional lethal mutations as a powerful tool for genetic studies and Ames test of 
 Mutagenecity test ing. DNA damage and different types of DNA repair systems and Human 
-diseases.                                                                                                                 
+diseases. 
                                                                                                                                              04 Hours 
 Unit III 
 8. Polymerase Chain Reaction 
 Principle of polymerase chain reaction (PCR) - Components of PCR reaction and optimization of 
-PCR. Primer design and types of PCR – Inverse PCR, Hot -start PCR, Loop mediated PCR -, 
-Reverse transcription PCR and  Real  time PCR. Chemistry of primer synthesis. 
-                                                                                                                                           05  Hours 
+PCR. Primer design and types of PCR - Inverse PCR, Hot -start PCR, Loop mediated PCR -, 
+Reverse transcription PCR and Real time PCR. Chemistry of primer synthesis. 
+                                                                                                                                           05 Hours 
 9. Analysis of Gene Expression 
-Analyzing Transcription – Northern Blots, RNase protection assay, Reverse Transcription (RT) 
-PCR and Primer extension assay. Transcriptome Analysis – Differential screening and Array 
-based methods. Promoter activity study – Reporter genes and Run -On assays. Translational 
-
-## Page 78
-
-FMCD2009 / 2.0 78 
- 
-BACK 
- 
-Analysis – Western Blots and 2-D Analysis. 
+Analyzing Transcription - Northern Blots, RNase protection assay, Reverse Transcription (RT) 
+PCR and Primer extension assay. Transcriptome Analysis - Differential screening and Array 
+based methods. Promoter activity study - Reporter genes and Run -On assays. Translational 
+ ## Page 78
+ FMCD2009 / 2.0 78 
+  BACK 
+  Analysis - Western Blots and 2-D Analysis. 
                                                                                                                                             05 Hours 
 Text Books 
-1. Cell and Molecular Biology – S C Rastogi, New Age International Publishers,  New Delhi 
+1. Cell and Molecular Biology - S C Rastogi, New Age International Publishers, New Delhi 
 (1996). 
-2. Fundamentals of Molecular Biology Ane’s Student Edition. -  Veer Bala Rastogi, Ane 
+2. Fundamentals of Molecular Biology Ane's Student Edition. - Veer Bala Rastogi, Ane 
 Books India, New Delhi (2008) 
 Reference Books: 
-1. Instant Notes in Molecular Biology – P .C. Turner, Viva Series Publishing, New Delhi 
-2. Essentials of Molecular Biology – V Malathi, Dorling Kindersley (India) Pvt Ltd, New 
+1. Instant Notes in Molecular Biology - P .C. Turner, Viva Series Publishing, New Delhi 
+2. Essentials of Molecular Biology - V Malathi, Dorling Kindersley (India) Pvt Ltd, New 
 Delhi (2013). 
-
-## Page 79
-
-FMCD2009 / 2.0 79 
- 
-Program: Biotechnology Semester: IV 
+ ## Page 79
+ FMCD2009 / 2.0 79 
+  Program: Biotechnology Semester: IV 
 Course Title: Unit Operations-II Course Code: 17EBTF202 
-L-T-P:: 3-0-0 Credits:3.0 Contact Hours: 40  
+L-T-P:: 3-0-0 Credits:3.0 Contact Hours: 40 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration: 3 Hours  
+Teaching Hours:40 Examination Duration: 3 Hours 
 Unit I 
 1. Basic concepts 
 Fluid definition, Properties of bi ological fluids, Classification of biological fluids, Types of fluid 
-flow, Reynolds number, pressure measurement devices: manometers,  Bourdon gauge, bellow 
-gauge, capsule gauge, Hydrostatic equilibrium, Newton’s law of viscosity. 
-                                                                                                       04 Hours                                                                                                                                                                                                                                                                                                                    
+flow, Reynolds number, pressure measurement devices: manometers, Bourdon gauge, bellow 
+gauge, capsule gauge, Hydrostatic equilibrium, Newton's law of viscosity. 
+                                                                                                       04 Hours 
 2. Fluid dynamics 
-Basic equations of fluid flow: Mass balance, Continuity equation, Bernoulli’s equation, Laminar 
+Basic equations of fluid flow: Mass balance, Continuity equation, Bernoulli's equation, Laminar 
 Flow through Circular pipe, Velocity and shear stress distribution, Boundary layer, Boundary 
 layer separation, minor loss and major loss. 
-                                                 05 Hours                                                                                                                                                                                                      
+                                                 05 Hours 
 3. Flow past immersed bodies 
-Drag, lift, Drag coefficient, Kozney - Carman equation, Ergun’s Equation. Motion of particles 
-through fluids, Settling, Types of settling, Stoke’s law, Newton’s law, Criteria for settling regime, 
-Numerical problems.                                                                                                                            
-                                                                                                                                             06 Hours            
+Drag, lift, Drag coefficient, Kozney - Carman equation, Ergun's Equation. Motion of particles 
+through fluids, Settling, Types of settling, Stoke's law, Newton's law, Criteria for settling regime, 
+Numerical problems. 
+                                                                                                                                             06 Hours 
 Unit II 
 4. Transportation and metering of liquids 
-Pipe and tube, joints and fittings, valves —Diaphragm/pneumatic valve, pinch valve, ball valve, 
+Pipe and tube, joints and fittings, valves -Diaphragm/pneumatic valve, pinch valve, ball valve, 
 plug valve. Pumps: peristaltic pumps, sinusoidal pumps, single use diaphragm pumps. 
 Characteristic curves of a pump, Measurement of fluid flow rates, venturimeter, rotameter, 
 pitot tube, vortex-shedding meter, turbine meter, magnetic meters, ultrasonic meters, thermal 
 meters. Numerical problems 
 08 Hours 
-5.  Mechanical separations 
+5. Mechanical separations 
 Filtration, Filter media, Filter aids, factors affecting rate of filtration, specific cake resistance, 
-media resistance. Types of filters, Mem brane processes—ultra filtration and microfiltration, 
+media resistance. Types of filters, Mem brane processes-ultra filtration and microfiltration, 
 Filtration equipment: rotary drum filter, leaf filter . Sedimentation, Kynch theory of 
-sedimentation, Thickener, Numerical problems.                                                                     07 Hours                                                                                                                                                  
-
-## Page 80
-
-FMCD2009 / 2.0 80 
- 
-BACK 
- 
-Unit III 
+sedimentation, Thickener, Numerical problems. 07 Hours 
+ ## Page 80
+ FMCD2009 / 2.0 80 
+  BACK 
+  Unit III 
 6. Mixing and agitation of liquids 
 Mixing and Agitation, Flow patterns in agitated tanks, Mech anism of mixing, Estimation of 
-mixing time, Types of Impellers & propellers, Standard turbine design, Numerical problems.                                                                 
-                                                              05 Hours                                                                                                                                                             
+mixing time, Types of Impellers & propellers, Standard turbine design, Numerical problems. 
+                                                              05 Hours 
 7. Dimensional Analysis and similitude 
 Units and dimensions, Dimensionless number, Rayleigh and Buc kingham π theorem. Model 
 and prototype. Similitude. Problems on Rayleigh and Buckingham π theorem. 
-                                                     05 Hours                                                                                             
+                                                     05 Hours 
 Text Books: 
-1. Unit operations of chemical engineering by McCabe W. L., Smith J. C, and Peter   
+1. Unit operations of chemical engineering by McCabe W. L., Smith J. C, and Peter 
 Harriott, 7th edition, McGraw-Hill, 2005. 
-2. Transport Processes and Separation Process Principles by C. J. Geankoplis, 4th edition,   
+2. Transport Processes and Separation Process Principles by C. J. Geankoplis, 4th edition, 
 Prentice Hall of India, 2004. 
 Reference Books: 
-1. Fluid Mechanics by John F. Douglas, Janusz M. Gasiorek, John A. Swaffield, 4th edition,   
+1. Fluid Mechanics by John F. Douglas, Janusz M. Gasiorek, John A. Swaffield, 4th edition, 
 Pearson Education limited 2007. 
 2. Principles of Unit operations by Alan S Foust, 2nd edition, John Wiley & Sons, 2005. 
-3. Engineering Fluid Mechanics by K. L. Kumar, 7th edition, Eurasia Publishing house (P)   
-Ltd, 2007.  
-
-## Page 81
-
-FMCD2009 / 2.0 81 
- 
-BACK 
- 
-Program: Biotechnology Semester: IV 
-Course Title:  Problem Solving & Analysis Course Code: 22EHSH202 
+3. Engineering Fluid Mechanics by K. L. Kumar, 7th edition, Eurasia Publishing house (P) 
+Ltd, 2007. 
+ ## Page 81
+ FMCD2009 / 2.0 81 
+  BACK 
+  Program: Biotechnology Semester: IV 
+Course Title: Problem Solving & Analysis Course Code: 22EHSH202 
 L-T-P:: 0.5-0-0 Credits: 0.5 Contact Hours: 16 
 ISA Marks:100 ESA Marks: 0 Total Marks:100 
-Teaching Hours:16 Examination Duration: N.A  
-Content  
+Teaching Hours:16 Examination Duration: N.A 
+Content 
  Chapter No. 1. Analytical Thinking 
 Analysis of Problems, Puzzles for practice, Human Relations, Direction Tests; Looking for 
 Patterns: Number and Alphabet Series, Coding Decoding; Diagrammatic Solving: Sets and Venn 
@@ -2669,41 +2332,37 @@ diagram-based puzzles; Visual Reasoning, Clocks and Calendars
 04 Hours 
  Chapter No. 2. Mathematical Thinking 
 Number System, Factors and Multiples, Using Simple Equations for Problem Solving, Ratio, 
-Proportion, and Variation                                                                                                            04 Hours 
- Chapter No. 3. Verbal Ability  
-Problem Solving using Analogies, Sentence Completion                                                       04 Hours 
+Proportion, and Variation 04 Hours 
+ Chapter No. 3. Verbal Ability 
+Problem Solving using Analogies, Sentence Completion 04 Hours 
  Chapter No. 4. Discussions & Debates 
 Team efforts in Problem Solving; A Zero Group Discussion, Mock Group Discussions, and 
 Feedback; Discussion v/s Debate; Starting a Group Discussion: Recruitment and other 
 Corporate Scenarios; Evaluation Parameters in a Recruitment Group Discussion, Types of 
-Initiators: Verbal and Thought, Conclusion of a Discussion                                                   04 Hours                                                                   
+Initiators: Verbal and Thought, Conclusion of a Discussion 04 Hours 
 Text Book: NA 
-References:  
-1. R. S. Aggarwal, “A Modern Approach to Verbal and Non – Verbal Reasoning”, Sultan 
+References: 
+1. R. S. Aggarwal, "A Modern Approach to Verbal and Non - Verbal Reasoning", Sultan 
 Chand and Sons, New Delhi, 2018 
-2. R. S. Aggarwal, “Quantitative Aptitude”, Sultan Chand and Sons, New Delhi, 2018 
-3. Chopra, “Verbal and Non – Verbal Reasoning”, MacMillan India 
-4. M Tyra, “Magical Book on Quicker Maths”, BSC Publications, 2018 
+2. R. S. Aggarwal, "Quantitative Aptitude", Sultan Chand and Sons, New Delhi, 2018 
+3. Chopra, "Verbal and Non - Verbal Reasoning", MacMillan India 
+4. M Tyra, "Magical Book on Quicker Maths", BSC Publications, 2018 
 5. Diana Booher - Communicate With Confidence, Mc Graw Hill Publishers 
-6. Norman Lewis–Word Power Made Easy, Goyal Publishers 
-7. Cambridge Advanced Learner’s Dictionary, Cambridge University Press.Kaplan’s GRE 
+6. Norman Lewis-Word Power Made Easy, Goyal Publishers 
+7. Cambridge Advanced Learner's Dictionary, Cambridge University Press.Kaplan's GRE 
 guide 
-
-## Page 82
-
-FMCD2009 / 2.0 82 
- 
-BACK 
- 
-Program: Biotechnology Semester: IV 
-Course Title:  Enzyme Technology  Lab Course Code: 15EBTP204 
-L-T-P:: 3-0-0 Credits:3.0 Contact Hours: 40  
+ ## Page 82
+ FMCD2009 / 2.0 82 
+  BACK 
+  Program: Biotechnology Semester: IV 
+Course Title: Enzyme Technology Lab Course Code: 15EBTP204 
+L-T-P:: 3-0-0 Credits:3.0 Contact Hours: 40 
 ISA Marks:80 ESA Marks:20 Total Marks:100 
-Teaching Hours:24 Examination Duration: 3 Hours  
+Teaching Hours:24 Examination Duration: 3 Hours 
 List of Experiments 
 1. Biochemical Measurements: Molarity, Normality, Molality, Moles, weight/volume 
-measurements, percent solution, concentration Units. pH measurements  and Buffer 
-preparation, SOP’s, Instrument calibrations.  
+measurements, percent solution, concentration Units. pH measurements and Buffer 
+preparation, SOP's, Instrument calibrations. 
 2. Determination of activity of amylase enzyme 
 3. Estimation of protein content of amylase and specific activity 
 4. Effect of temperature on enzyme activity 
@@ -2715,348 +2374,310 @@ preparation, SOP’s, Instrument calibrations.
 10. Molecular weight determination by SDS PAGE 
 11. Staining the gel using CBB and silver staining 
 Text Books/ Reference Books: 
-1. Introduction to Practical biochemistry – David Plummer, McGraw-Hill Publishing Co,3 rd 
-edition,pp:332. 
+1. Introduction to Practical biochemistry - David Plummer, McGraw-Hill Publishing Co, 3 rd 
+edition, pp:332. 
 2. Biochemical methods - Sadasivam and Manickam(1996), New Age International 
 Publishers, 2nd edition, pp256. 
-3. Experimental Biochemistry – A Student Companion by Beedu Shashidhar Rao and Vijay 
-Deshpande.(2005) I.K International Pvt. Ltd,New Delhi. pp301  
-
-## Page 83
-
-FMCD2009 / 2.0 83 
- 
-BACK 
- 
-Program: Biotechnology Semester: IV 
-Course Title:   Cell and Molecular Biology Lab Course Code: 15EBTP205 
-L-T-P:: 0-0-1 Credits:1.0 Contact Hours: 02  
+3. Experimental Biochemistry - A Student Companion by Beedu Shashidhar Rao and Vijay 
+Deshpande.(2005) I.K International Pvt. Ltd, New Delhi. pp301 
+ ## Page 83
+ FMCD2009 / 2.0 83 
+  BACK 
+  Program: Biotechnology Semester: IV 
+Course Title: Cell and Molecular Biology Lab Course Code: 15EBTP205 
+L-T-P:: 0-0-1 Credits:1.0 Contact Hours: 02 
 ISA Marks:80 ESA Marks:20 Total Marks:100 
-Teaching Hours:24 Examination Duration: 3 Hours  
+Teaching Hours:24 Examination Duration: 3 Hours 
 List of Experiments 
 1. Basic Calculations and Solutions preparation skills and G ood Lab Practices(GLPs)for the 
 Molecular biology lab 
-2. Study SOPs of Cell and Molecular Biology laboratory equipments – Table top cooling 
-Centrifuge, UV – Visible Spectrophotometer, PCR machine and Gel Documentation 
-system.  
-3. Staining and microscopic observation of plant/animal cells and chromosomes  
-4. Study  of Mitosis and Meiosis Cell Divisions 
+2. Study SOPs of Cell and Molecular Biology laboratory equipments - Table top cooling 
+Centrifuge, UV - Visible Spectrophotometer, PCR machine and Gel Documentation 
+system. 
+3. Staining and microscopic observation of plant/animal cells and chromosomes 
+4. Study of Mitosis and Meiosis Cell Divisions 
 5. Isolation of genomic DNA from Bacteria/ Plant/ Animal cells 
 6. UV Spectrophotometric analysis of DNA and RNA 
 7. Calculation of Tm value of isolated DNA sample 
 8. Agarose gel electrophoresis and gel elution method. 
-9. Isolation and agarose gel electrophoresis estimation of Plasmid DNA       
+9. Isolation and agarose gel electrophoresis estimation of Plasmid DNA 
 10. Extraction of Total RNA from different biological sources 
 Text Books/ Reference Books 
-1. Cell and Molecular Biology – A Lab Manual   K V Chaitanya PHI Learning Private Limited 
-Delhi – 110092, 2013.  
-2. Molecular Cloning Volumes I, II and III – Sambrook J et al (2000) Cold Spring Harbour 
-Laboratory Press, 2000  
-
-## Page 84
-
-FMCD2009 / 2.0 84 
- 
-BACK 
- 
-Program: Biotechnology Semester: IV 
+1. Cell and Molecular Biology - A Lab Manual K V Chaitanya PHI Learning Private Limited 
+Delhi - 110092, 2013. 
+2. Molecular Cloning Volumes I, II and III - Sambrook J et al (2000) Cold Spring Harbour 
+Laboratory Press, 2000 
+ ## Page 84
+ FMCD2009 / 2.0 84 
+  BACK 
+  Program: Biotechnology Semester: IV 
 Course Title: Unit Operations-II Lab Course Code: 17EBTP202 
 L-T-P:: 0-0-1 Credits:1.0 Contact Hours: 02 
 ISA Marks:80 ESA Marks:20 Total Marks:100 
 Teaching Hours:24 Examination Duration: 3 
 Hours 
- 
-List of Experiments 
-1. Pressure drop correlations through packed bed.  
-2. Studies on sedimentation.  
-3. Studies on agitation and mixing  
-4. Constant pressure filtration using leaf filter  
-5. Pressure drop correlations through circular pipes  
-6. Study of fluid flow patterns  
-7. Terminal settling velocity  
-8. Studies on Bernoulli’s equation 
+  List of Experiments 
+1. Pressure drop correlations through packed bed. 
+2. Studies on sedimentation. 
+3. Studies on agitation and mixing 
+4. Constant pressure filtration using leaf filter 
+5. Pressure drop correlations through circular pipes 
+6. Study of fluid flow patterns 
+7. Terminal settling velocity 
+8. Studies on Bernoulli's equation 
 9. Studies on flowmeter 
 Text Books/ Reference Books: 
-1. Unit operations of chemical engineering by McCabe W. L., Smith J. C, and Peter   
+1. Unit operations of chemical engineering by McCabe W. L., Smith J. C, and Peter 
 Harriott, 7th edition, McGraw-Hill, 2005. 
-2. Transport Processes and Separation Process Principles by C. J. Geankoplis, 4th edition,   
-Prentice Hall of India, 2004.  
-
-## Page 85
-
-FMCD2009 / 2.0 85 
- 
-Program: Biotechnology Semester: V 
-Course Title:  Genetic Engineering and Applications Course Code: 15EBTC301 
-L-T-P:: 4-0-0 Credits:4.0 Contact Hours: 4  
+2. Transport Processes and Separation Process Principles by C. J. Geankoplis, 4th edition, 
+Prentice Hall of India, 2004. 
+ ## Page 85
+ FMCD2009 / 2.0 85 
+  Program: Biotechnology Semester: V 
+Course Title: Genetic Engineering and Applications Course Code: 15EBTC301 
+L-T-P:: 4-0-0 Credits:4.0 Contact Hours: 4 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:50 Examination Duration: 3 Hours  
+Teaching Hours:50 Examination Duration: 3 Hours 
 Unit I 
-1. Basics of Recombinant DNA technology  
+1. Basics of Recombinant DNA technology 
 Development and Scope of Recombinant DNA Technology and Genetic Engineering. 
 Emergence and commercialization of Molecular Biotechnology. Ethical, Social, Economical 
-and Political issues related to Gene modification and Genetic Engineering.  Gene Cloning: 
+and Political issues related to Gene modification and Genetic Engineering. Gene Cloning: 
 Introduction and Steps involved in gene cloning. Subcloning and its applications. Vectors in 
 GE - biology, features, types, cloning & expression vectors 
-                                                                                                                                                06 Hours                                                                          
+                                                                                                                                                06 Hours 
 2. Enzymes in Genetic Engineering 
 DNA modifying enzymes and necessity of DNA modification in gene cloning. Enzymes used 
 for DNA modification. Restriction Endonucleases, classification & mode of action, Role and 
 applications of different DNA modifying enzymes in gene cloning process - DNA Polymerases, 
 Reverse Transcriptase, RNA Polymerase, Alkaline Phosphatases, Polynucleotide Kinase and 
-DNA Ligases etc.  
-                                                                                                                                         05 Hours                                                                                                           
+DNA Ligases etc. 
+                                                                                                                                         05 Hours 
  3. Molecular Cloning Strategies and Genetic Transformation 
-Isolation and purification of  nucleic acid (genomic/plasmid DNA and RNA),  Quantification on 
-and storage  of   nucleic  acids,   Construction  of   cDNA  library ,   Construction  of   Genomic  
-library ,Screening and preservation of  DNA  libraries. DNA Cloning – Methods and 
+Isolation and purification of nucleic acid (genomic/plasmid DNA and RNA), Quantification on 
+and storage of nucleic acids, Construction of cDNA library , Construction of Genomic 
+library ,Screening and preservation of DNA libraries. DNA Cloning - Methods and 
 applications. Genetic Transformation of proka ryotes and DNA Transfection in Eukaryotic 
 hosts. Biological and Non-biological methods of gene transfer in hosts. Chloroplast 
-transformation.  
-09 Hours  
+transformation. 
+09 Hours 
 Unit II 
 4. Selection, Screening and Analysis of Recombinants 
-Introduction to screening and analysis of  recombinants. Genetic selection and screening 
+Introduction to screening and analysis of recombinants. Genetic selection and screening 
 methods - Selectable Marker genes, Reporter genes. Screening using Nucleic acid 
 hybridization methods - Preparation of probes for hybridization experiments and different 
 blotting techniques. Screening by PCR b ased methods. Screening by Immunological methods 
-
-## Page 86
-
-FMCD2009 / 2.0 86 
+ ## Page 86
+ FMCD2009 / 2.0 86 
 and Analysis of cloned genes. 
-                                                                                                                                   07 Hours                                                                                             
+                                                                                                                                   07 Hours 
 5. Production of Proteins from Cloned Genes 
 Introduction to recombinant gene expression, scope and applications of recombinant gene 
 expression. Special vectors for expression of foreign genes in E coli. General problems with the 
 production of recombinant protein in E coli. Production of recombinant proteins by Eukaryotic 
-cells.                                                                                                                                    
- 07 Hours                                                                                                                           
+cells. 
+ 07 Hours 
 6. Directed Mutagenesis and Protein Engineering 
-Oligonucleotide – Directed Mutagenesis with M13 DNA, Plasmid DNA, PCR Am plification etc. 
-Protein Engineering – Meaning and Scope, Protein Engineering for adding disulphide bonds, 
+Oligonucleotide - Directed Mutagenesis with M13 DNA, Plasmid DNA, PCR Am plification etc. 
+Protein Engineering - Meaning and Scope, Protein Engineering for adding disulphide bonds, 
 increasing enzymatic activity, decreasing protease sensitivity, modifying protein specificity, 
-Increasing enzyme stability and specificity etc.  
-                                                                                                                                            06 Hours   
+Increasing enzyme stability and specificity etc. 
+                                                                                                                                            06 Hours 
 Unit III 
 7. Genetic Engineering and Microbial Biotechnology 
-Genetic manipulation of Microorganisms – Introduction and scope. Applications of 
-Recombinant Microorganism – Production of recombinant therapeutic proteins, Production of 
+Genetic manipulation of Microorganisms - Introduction and scope. Applications of 
+Recombinant Microorganism - Production of recombinant therapeutic proteins, Production of 
 Antibiotics, Combating Human diseases, Microbial pesticides, EffiISAnt utilization of 
 Carbohydrates and Bioremediation or Environmental cleanup. 
-                                                                                                                      05 Hours       
+                                                                                                                      05 Hours 
 8. Plant and Animal Transgenic Technology and Applications 
-Applications of Transgenic Plant Technology – Development of Insect resistant plants, 
+Applications of Transgenic Plant Technology - Development of Insect resistant plants, 
 Herbicide resistant plants, Pathogens resistant plants, and Abiotic stress tolerant plants. Plants 
 as Bioreactors for large scale production. Applications of Animal cloning and Transgenic 
 technology - Cloning in Domestic a nimals. Applications of Transgenic Animals - as research 
 models, and as bioreactors for large scale production of substances for Human welfare. 
-                                                                                                         05 Hours  
+                                                                                                         05 Hours 
 Text Books: 
 1. Genetic Engineering by Smitha Rastogi and Neelam Pathak, Oxford University Press, 
 USA (2009) 
-2. Molecular Biotechnology – Principles and applications of Recombinant DNA by 
+2. Molecular Biotechnology - Principles and applications of Recombinant DNA by 
 Bernard r Glick and Jack J Pasternak, ASM Press, American SoISAty for M icrobiology, 
 Washington DC 2003 
-
-## Page 87
-
-FMCD2009 / 2.0 87 
- 
-BACK 
- 
-Reference Books: 
+ ## Page 87
+ FMCD2009 / 2.0 87 
+  BACK 
+  Reference Books: 
 1. Gene Cloning and DNA Analysis by T A Brown. Wiley-Blackwell (2010) 
-2. An Introduction to Genetic Engineering – Third Edn By Desmond S T Nicholl, Cambridge 
-University Press, Singapore 2008.  
-
-## Page 88
-
-FMCD2009 / 2.0 88 
- 
-Program: Biotechnology Semester: V 
-Course Title:   Bioinformatics Course Code:  22EBTC301 
-L-T-P:: 4-0-0 Credits:4.0 Contact Hours: 04  
+2. An Introduction to Genetic Engineering - Third Edn By Desmond S T Nicholl, Cambridge 
+University Press, Singapore 2008. 
+ ## Page 88
+ FMCD2009 / 2.0 88 
+  Program: Biotechnology Semester: V 
+Course Title: Bioinformatics Course Code: 22EBTC301 
+L-T-P:: 4-0-0 Credits:4.0 Contact Hours: 04 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:50 Examination Duration: 3 Hours  
+Teaching Hours:50 Examination Duration: 3 Hours 
 Unit - I 
- 1.Database 
+ 1. Database 
 Bioinformatics: Definition, components, multidisciplinary nature, and applications of 
 bioinformatics; Databases: Introduction, meaning, types and characteristics of databases, types 
 of databases, Biological database: Cl assification, Primary Database: NCBI, Genbank, DDBJ, 
 EMBL. File formats, Secondary Database: PROSITE, PIR, UNIPROT, BLOCKS, Pfam; metabolic 
 pathway database: KEGG, Structure Database: PDB, MMBD, CATH, SCOP; Ligand Database, 
 Enzyme database, human disease d atabase, microbial and viral genome database, structure 
-visualization tools.                                                                                                             
-                                                                                                                                                                
-                                                                                                                                               07 Hours 
-2.Pairwise Sequence Alignment  
+visualization tools. 
+                                                                                                                                                                                                                                                                                                                07 Hours 
+2. Pairwise Sequence Alignment 
 Pairwise sequence alignment: Definition, significance, and applications; Types of pairwise 
 sequence alignment: Local and Global alignment; Methods of pairwise sequence alignment: 
 Dot matrix, Dynamic programming: features of dynamic programm ing, Global Alignment: 
-Needleman & Wunsch Algorithm,  Local Alignment: Smith – Waterman Algorithm, and Word 
-method: BLAST, PSI -BLAST, PHI-BLAST and FASTA;  Substitution matrices: PAM and BLOSUM; 
-gap penalties.                                                                                                                                                       
+Needleman & Wunsch Algorithm, Local Alignment: Smith - Waterman Algorithm, and Word 
+method: BLAST, PSI -BLAST, PHI-BLAST and FASTA; Substitution matrices: PAM and BLOSUM; 
+gap penalties. 
                                                                                                                                                08 Hours 
-3.Multiple Sequence Alignment  
+3. Multiple Sequence Alignment 
 Multiple Sequence Alignment: Meaning, significance, and applications; Methods of MSA: 
 Progressive Alignment methods, Iterative methods, Local Multiple sequence Alignment: Profile 
-Analysis, BLOCK analysis, Pattern searching and  Motif analysis, Statistical methods or 
+Analysis, BLOCK analysis, Pattern searching and Motif analysis, Statistical methods or 
 Probabilistic models; Multiple Sequence Alignment editors. 
                                                                                                                                                 05 Hours 
 Unit - II 
- 4.Phylogenetics analysis 
+ 4. Phylogenetics analysis 
 Phylogenetic analysis: Meaning and significance; Concepts of evolutionary trees: Tree 
 terminology, types of phylogenetic trees; fundamentals of phylogenetic models, Phylogenetic 
-Data Analysis: Alignment: Building the data m odel, and extraction of phylogenetic data set;  
+Data Analysis: Alignment: Building the data m odel, and extraction of phylogenetic data set; 
 Determining substitution models: Models of Substitution Rates Between Bases, Models of 
 Among-Site Substitution Rate Heterogeneity, Models of Substitution Rates Between Amino 
-
-## Page 89
-
-FMCD2009 / 2.0 89 
+ ## Page 89
+ FMCD2009 / 2.0 89 
 Acids; Tree Building methods: Dist ance based methods: Neighbor Joining (NJ) method, Fitch -
 Margoliash (FM) method; Character based methods: Maximum parsimony, Maximum 
 Likelihood; Tree Evaluation methods, Phylogenetic Softwares 
                                                                                                                                                07 Hours 
- 5.Gene Prediction  
+ 5. Gene Prediction 
 Gene structure, Prokaryote and Eukaryote gene prediction, Prokaryote and Eukaryote 
-promoter site prediction Gene Prediction tools, Genomic database,  Next Generation 
-Sequencing.                                                                                                                                                               
+promoter site prediction Gene Prediction tools, Genomic database, Next Generation 
+Sequencing. 
                                                                                                                                              05 Hours 
- 6.Protein Prediction  
+ 6. Protein Prediction 
 Protein structures: Secondary Structure: Alpha helix, beta Sheets, phi & psi angles, 
-Ramachandran plots. Protein Structure Prediction: Use of sequence p atterns and Amino acid;  
+Ramachandran plots. Protein Structure Prediction: Use of sequence p atterns and Amino acid; 
 Protein Secondary Structure Prediction methods: Chou -Fasman, neural network, and nearest 
 neighbor method; Tertiary Structure Predictions: Homology modeling; Protein sequence and 
 structure analysis: Physicochemical parameters, bindi ng site, sub -cellular location, protein 
 stability, and patterns. 
-.                                                                                                                                              08 Hours 
+. 08 Hours 
 Unit - III 
- 7.In-silico Drug Designing-I  
+ 7. In-silico Drug Designing-I 
 Introduction to traditional drug designing, Introduction in -silico drug designing approach, 
 Methodology for in-silico drug designing: Structure based and Ligand based drug designing; De 
 novo drug designing, pharmacophore modeling in drug designing, Lig and screening, drug 
-designing based on template, Steps in drug designing: Target  identification, target validation, 
-lead identification and validation; different tools used for drug designing.  
+designing based on template, Steps in drug designing: Target identification, target validation, 
+lead identification and validation; different tools used for drug designing. 
                                                                                                                                                 05 Hours 
- 8.In-silico Drug Designing-II  
-Molecular Modeling, Lipinski’s rule, Virtual Screening, Process of Docking, Quantitative 
+ 8. In-silico Drug Designing-II 
+Molecular Modeling, Lipinski's rule, Virtual Screening, Process of Docking, Quantitative 
 structure-activity relationship (QSAR), Phy sical and Chemical basis of receptor ligand 
 interactions, ADMET property analysis, Molecular dynamics simulation of protein and protein -
-drug interaction.                                                                                                       
-                                                                                                                                               05 Hours  
-Text Books   
+drug interaction. 
+                                                                                                                                               05 Hours 
+Text Books 
 1. Andreas D. Baxevanis, B. F. Francis Ouellette, Bioinformatics: A Practical Guide to the 
 Analysis of Genes and Proteins, 3rd, Wiley-Inte, 2005 
 2. David Mount, Bioinformatics: Sequence and Genome Analysis , 2nd, Cold Sprin, 2004 
-
-## Page 90
-
-FMCD2009 / 2.0 90 
- 
-BACK 
- 
-Reference Books: 
+ ## Page 90
+ FMCD2009 / 2.0 90 
+  BACK 
+  Reference Books: 
 1. P . Rastogi, N. Mendiritta, S. C. Rastogi, Bioinformatics: Methods and Applications: 
 Genomics, Proteomics and Drug Discovery, 4th, Prentice-H, 2013. 
 2. Anand Solomon K, Molecular Modelling and Drug Design , 1st, MJP Publis, 2015 
- 
-## Page 91
-
-FMCD2009 / 2.0 91 
- 
-Program: Biotechnology Semester: V 
-Course Title:    Reaction Engineering Course Code:  15EBTC303 
-L-T-P:: 4-0-0 Credits:4.0 Contact Hours: 50  
+  ## Page 91
+ FMCD2009 / 2.0 91 
+  Program: Biotechnology Semester: V 
+Course Title: Reaction Engineering Course Code: 15EBTC303 
+L-T-P:: 4-0-0 Credits:4.0 Contact Hours: 50 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:50 Examination Duration: 3 Hours  
+Teaching Hours:50 Examination Duration: 3 Hours 
 Unit-I 
 1: Introduction 
-Introduction to homogeneous and heterogeneous reaction in ideal reactors. Elementary and  
+Introduction to homogeneous and heterogeneous reaction in ideal reactors. Elementary and 
 Non-elementary reactions kinetics of homogeneous and heterogeneous reaction system. 
-                                     06 Hours  
+                                     06 Hours 
 2: Interpretation of Batch Reactor data 
 Introduction to analysis of experimental reactor data, evaluatio n of rate equation, integral 
-and   differential analysis of kinetic data’s, constant volume system and variable volume 
+and differential analysis of kinetic data's, constant volume system and variable volume 
 System. Total pressure technique of analyzing the kinetic data of gaseous reaction system. 
        08 Hours 
 3. Introduction to Bioreactor Design. 
 General discussion on basics bioreactor design. General material balance equation for various 
 conditions. Ideal reactors for a single reaction. Design equations for homogeneous system: 
-batch, stirred tank and tubular flow reactor, size comparison of reactor systems.                                                                                                                                           
-                                                                                                                                              08 Hours                          
+batch, stirred tank and tubular flow reactor, size comparison of reactor systems. 
+                                                                                                                                              08 Hours 
 Unit-II 
-4  Design for Multiple Reactions 
+4 Design for Multiple Reactions 
 Introduction, general design approach to multiple reactions. Quantitative and qualitative 
 analysis of product distribution. Effect of temperature and pressure on single reaction. General 
 graphical procedure, optimum temperature progression. Factors affecting choice of reactors: 
-optimum yield, conversion, selectivity and reactivity.  
-                                                                                                                                         08 Hours            
+optimum yield, conversion, selectivity and reactivity. 
+                                                                                                                                         08 Hours 
 5 Non-Ideal Reactors 
 Non-ideal reactors, residence time distribution studies, Stimulus Response Technique, pulse 
-and step input response of reactors, RTD’s for CSTR and PFR, Relationship between C, E and F-
+and step input response of reactors, RTD's for CSTR and PFR, Relationship between C, E and F-
 curve. Kinetic models for non-Ideal reaction system, Axial Dispersion Model 
                                                                                                                                               04 Hours 
- 
-## Page 92
-
-FMCD2009 / 2.0 92 
+  ## Page 92
+ FMCD2009 / 2.0 92 
 BACK 
- 
-6 Microbial kinetics: 
+  6 Microbial kinetics: 
 Introduction to microbial kinetics, Yield coefficient, Simple kinetic models for microbial growth, 
-transient growth kinetics Factors affecting the kinetics of   Monod model; Growth of 
-Filamentous Organisms. kinetic Models for  product formation and substrate degradation 
-                                                                                                                                              08 Hours                                                  
+transient growth kinetics Factors affecting the kinetics of Monod model; Growth of 
+Filamentous Organisms. kinetic Models for product formation and substrate degradation 
+                                                                                                                                              08 Hours 
 Unit-III 
 7 Heterogeneous Reactor System: 
 Heterogeneous reactions in Bioprocessing. The rate equation for surface for kinetics, Pore 
 diffusion kinetics with combined with surface kinetics. Porous catalyst particle Performance 
 equation for reactor contain ing Porous catalyst particles. External and internal mass transfer 
-effects.                                                                                                         
+effects. 
                                                                                                                                           04 Hours 
 8 Reactor Engineering 
-Bioreactor configurations: Bubble column, airlift reactor, packed bed, fluidized bed, trickle bed,                          
-                                                                                                                                            04 Hours                      
+Bioreactor configurations: Bubble column, airlift reactor, packed bed, fluidized bed, trickle bed, 
+                                                                                                                                            04 Hours 
 Text Books: 
-1. Chemical Reaction Engineering by Octave and   Levenspiel., John Wiley, 3rd Edition, 2006.  
-2. Elements of Chemical Reaction Engineering by Fogler, H.S., Prentice Hall, 1986.  
+1. Chemical Reaction Engineering by Octave and Levenspiel., John Wiley, 3rd Edition, 2006. 
+2. Elements of Chemical Reaction Engineering by Fogler, H.S., Prentice Hall, 1986. 
 Reference Books: 
-1. Bioprocess Engineering Principles by Pouline M Doran   Academic Press , 2003 
-2. Biochemical Engineering Fundamentals By Bailey and Ollies McGraw Hill      2nd Edition  
-3. Chemical Reactor Analysis and Design by Forment G F and Bischoff K B. John wiley,1976 
+1. Bioprocess Engineering Principles by Pouline M Doran Academic Press , 2003 
+2. Biochemical Engineering Fundamentals By Bailey and Ollies McGraw Hill 2nd Edition 
+3. Chemical Reactor Analysis and Design by Forment G F and Bischoff K B. John wiley, 1976 
 4. Chemical engineering By J.F Richardson and J.M Coulson Volume 6 
-
-## Page 93
-
-FMCD2009 / 2.0 93 
- 
-Program: Biotechnology Semester: V 
-Course Title:   Biological Thermodynamics Course Code:  15EBTC304 
-L-T-P:: 3-0-0 Credits:3.0 Contact Hours: 40  
+ ## Page 93
+ FMCD2009 / 2.0 93 
+  Program: Biotechnology Semester: V 
+Course Title: Biological Thermodynamics Course Code: 15EBTC304 
+L-T-P:: 3-0-0 Credits:3.0 Contact Hours: 40 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
 Teaching Hours:40 Examination Duration: 3 
 Hours 
- 
-Unit I 
+  Unit I 
 1. Basic concepts 
 System, Surrounding, State and Properties, Intensive and extensive properties, State and path 
 functions, Heat reservoir, Hess Law, energy and biological world, energy flow transformation, 
 energy conversions, energy, nutritional requirements of living systems, Flow of electrons in 
 organism, energy flow in metabolic process, division of labor in cells, Numerical problems 
-                                                                                                                          06 Hours                                                                                                                                                                                            
-2. Basic laws of thermodynamics  
-Zeroth law, First law of Thermodynamics,  cyclic process, non -flow process, flow Process, 
+                                                                                                                          06 Hours 
+2. Basic laws of thermodynamics 
+Zeroth law, First law of Thermodynamics, cyclic process, non -flow process, flow Process, 
 internal energy, Heat capacity, second law of thermodynamics, Concept of entropy, Calculation 
 of entropy changes, Third law of thermodynamics. Numerical problems. 
-                                                               09 Hours                                                                                      
+                                                               09 Hours 
 Unit II 
-3.  PVT behavior  
+3. PVT behavior 
 P-V-T Behavior of pure fluid, Processes involving ideal gases, Equation of state for real gases: 
 Vander Waals equation, Redlich -Kwong equation, Peng -Robinson equation, Virial equation. 
-Compressibility charts: Principle of corresponding states, Numerical problems.  
-                                                                                                                                    07 Hours                              
+Compressibility charts: Principle of corresponding states, Numerical problems. 
+                                                                                                                                    07 Hours 
 4. Thermodynamic properties of Biological fluids 
 Classification of thermodynamic properties, Work function, Gibbs free energy, Gibbs -
 Helmholtz equation, ATP Synthesis in cell and Protein Folding, Metabolic reactions in cells. 
@@ -3064,14 +2685,10 @@ Entropy - heat capacity relationships, Relationships between C p and Cv,, Activi
 Chemical potential, Oxidation -Reduction reaction, Cell Membrane Transportation & Protein 
 Extraction, Osmosis, Nernst equation in membrane transportation, Numerical problems. 
                                                              08 Hours 
-
-## Page 94
-
-FMCD2009 / 2.0 94 
- 
-BACK 
- 
-Unit III 
+ ## Page 94
+ FMCD2009 / 2.0 94 
+  BACK 
+  Unit III 
 5. Statistical Thermodynamics 
 Boltzmann distribution & partition function, Protein folding and helix -coil transition, Binding 
 equilibria, Oxygen biding to myoglobin & Hemoglobin. 
@@ -3081,13 +2698,12 @@ Reaction Stoichiometry, Effect of temperature on standard heat of reaction. ener
 reactions, activation energy, Criteria of chemical reaction equilibrium, Relationship between 
 Equilibrium constant and standard free energy change, Effect of temperature, pH and pressure 
 on equilibrium constants and other factors affecting equilibrium conversion, Numerical 
-problems.  
-                                                               06 Hours                                                                     
-  
-Text Books 
+problems. 
+                                                               06 Hours 
+   Text Books 
 1. Biological Thermodynamics by Donald T. Haynie, 2 nd edition, Cambridge University 
-Press,2008 
-2.  Introduction to chemical engineering thermodynamics b y J.M.Smith, H. C. VanNess, 
+Press, 2008 
+2. Introduction to chemical engineering thermodynamics b y J.M.Smith, H. C. VanNess, 
 M.M. Abbott, 7th edition, Tata McGraw-Hill, NewDelhi, 2005. 
 Reference Books 
 1. Thermodynamics. An engineering approach, by Yunus A. Cengel, Michael A. Boles, 8 th 
@@ -3095,93 +2711,81 @@ edition, McGraw- Hill, 2014.
 2. Chemical Engineering Thermodynamics by Y .V.C. Rao. 2nd edition, Universities Press, 
 1997. 
 3. Chemical and Process Thermodynamics by B.G.Kyle. 3 rd edition, Prentice Hall of India 
-Private limited, 2015.  
-
-## Page 95
-
-FMCD2009 / 2.0 95 
- 
-Program: Biotechnology Semester: V 
-Course Title: Research Methodology Course Code:  15EBTC305 
-L-T-P:: 3-0-0 Credits:3.0 Contact Hours: 40  
+Private limited, 2015. 
+ ## Page 95
+ FMCD2009 / 2.0 95 
+  Program: Biotechnology Semester: V 
+Course Title: Research Methodology Course Code: 15EBTC305 
+L-T-P:: 3-0-0 Credits:3.0 Contact Hours: 40 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration: 3 Hours  
+Teaching Hours:40 Examination Duration: 3 Hours 
 Unit I 
-1. Introduction to Research and Research Methodology  
+1. Introduction to Research and Research Methodology 
 Introduction, Objectives and scope of research, Research methods and Methodology. Types of 
-research – Descriptive vs. Analytical, Applied vs. Fundamental, Quantitative vs. Qualitative, 
-Conceptual vs. Empirical Concept of Translatory research.          
+research - Descriptive vs. Analytical, Applied vs. Fundamental, Quantitative vs. Qualitative, 
+Conceptual vs. Empirical Concept of Translatory research. 
                                                                                        04 Hours 
-2. Research Philosophy and Formulation of Research Problem  
+2. Research Philosophy and Formulation of Research Problem 
 Concept of Research Philosophy- (Ontology, Logic, Method and Epistemeology) Formulation of 
 Research Problem - Necessity of defining the research problem and framing the problem 
-statement.        
+statement. 
 03 Hours 
-3. Sources and Review of Literature  
+3. Sources and Review of Literature 
 Introduction and need for Literature Review., Search Procedures and Gap analysis. Sources of 
 Literature - Research articles, review a rticles, Research communications, Book chapters. 
 Bibliometrics- Citation index, Impact factor, author h -index and i10 -index, awareness on 
 predatory journals and its identification, grants and funding agencies for biotechnology 
-research                                                                                                                                                    
+research 
                                                                                                                                              08 Hours 
 Unit II 
-4. Sampling & Data Collection  
-Explain sampling and its significance. Describe different methods of sampling.                 
+4. Sampling & Data Collection 
+Explain sampling and its significance. Describe different methods of sampling. 
  03 Hours 
-5.  Statistical Analysis of Data  
-Measures of Central Tendency, Measures of Dispersion and  variance, Correlation and 
-Regression Development of hypothesis and testing : Chi- square test, Student’s t-test, ANOVA                  
+5. Statistical Analysis of Data 
+Measures of Central Tendency, Measures of Dispersion and variance, Correlation and 
+Regression Development of hypothesis and testing : Chi- square test, Student's t-test, ANOVA 
  07 Hours 
-6.  Design of Experiments  
+6. Design of Experiments 
 Introduction and significance of DOE, Types - Factorial Design, Plackett Burman Design, Central 
 Composite Design, Response Surface Methodology, Design of matrix and analysis, Contour 
-
-## Page 96
-
-FMCD2009 / 2.0 96 
- 
-BACK 
- 
-plots and response surface plots, QBD principles, Introduction to Artificial Intelligence and its 
-application in biotechnology                  
+ ## Page 96
+ FMCD2009 / 2.0 96 
+  BACK 
+  plots and response surface plots, QBD principles, Introduction to Artificial Intelligence and its 
+application in biotechnology 
  05 Hours 
 Unit III 
-7. Environment, Ethics and IPR in Research  
+7. Environment, Ethics and IPR in Research 
 Impacts of Research on Environment, - Ethical issues, ethical committees, Research Generated 
 Intellectual Property Rights - Copy-right & royalty, Patent law, Trade mark, Trade secret, 
 Geographical Indicator, Industrial Design. Concept of Plagiarism 
                                                                                                                                              05 Hours 
-8.  Research Communication  
-Written Communication - Introduction, Structure and components of scientific reports –
-Bibliography, referencing and footnotes. Oral Presentation –  Developing and delivering 
-presentation                                                                                                                          
- 
-05 Hours 
+8. Research Communication 
+Written Communication - Introduction, Structure and components of scientific reports -
+Bibliography, referencing and footnotes. Oral Presentation - Developing and delivering 
+presentation 
+  05 Hours 
 Text Books 
 1. C.R. Kothari and Guarav Garg, Research Methodology, III Edition, New Age International 
 Publisher, New Delhi, 2014 
 2. N. Gurumani, Research Methodology for Biological SISAnces, I Edition, MJP Publishers, 
 Chennai, 2007 
 Reference Books 
-1. Design and Analysis of Experiments by Montgomery D. C.  John Wiley Publishers  
-2. An Introduction to Research Methodology  by Garg, B.L., Karadia, R., Agarwal, F. and 
-Agarwal, U.K.  RBSA Publishers 
-
-## Page 97
-
-FMCD2009 / 2.0 97 
- 
-BACK 
- 
-Program: Biotechnology Semester: V 
+1. Design and Analysis of Experiments by Montgomery D. C. John Wiley Publishers 
+2. An Introduction to Research Methodology by Garg, B.L., Karadia, R., Agarwal, F. and 
+Agarwal, U.K. RBSA Publishers 
+ ## Page 97
+ FMCD2009 / 2.0 97 
+  BACK 
+  Program: Biotechnology Semester: V 
 Course Title: : Arithmetical Thinking and Analytical 
 Reasoning 
-Course Code:  22EHSH301 
+Course Code: 22EHSH301 
 L-T-P-Self Study :: 1-1-
 0-0 
-Credits:0.5 Contact Hours: 16  
+Credits:0.5 Contact Hours: 16 
 ISA Marks:50 ESA Marks: 0 Total Marks:100 
-Teaching Hours:16 Examination Duration: N.A  
+Teaching Hours:16 Examination Duration: N.A 
 Content 
 Chapter No. 1. Analytical Thinking 
 Importance of Sense of Analysis for Engineers, Corporate Methodology of Testing Sense of 
@@ -3189,7 +2793,7 @@ Analysis, Puzzles for practice: Analytical, Mathematical, Classification Puzzles
 Problem Solving 
 04 Hours 
 Chapter No. 2. Mathematical Thinking I 
-Problems on Finance:Percentages, Gain and Loss, Interest; Distribution and Efficiency 
+Problems on Finance: Percentages, Gain and Loss, Interest; Distribution and Efficiency 
 Problems: Averages, Time Work, Permutations Combinations 
 04 Hours 
 Chapter No. 3. Mathematical Thinking II 
@@ -3201,36 +2805,32 @@ questions from Corporate Recruitment Tests
 06 Hours 
 Text Book: NA 
 References: 
-1. George J Summers, “The Great Book of Puzzles & Teasers”, Jaico Publishing House, 1989 
-2. Shakuntala Devi , “Puzzles to Puzzle You”, Orient Paper Backs, New Delhi, 1976 
-3. R. S. Aggarwal, “A Modern Approach to Logical Reasoning”, Sultan Chand and Sons, 
+1. George J Summers, "The Great Book of Puzzles & Teasers", Jaico Publishing House, 1989 
+2. Shakuntala Devi , "Puzzles to Puzzle You", Orient Paper Backs, New Delhi, 1976 
+3. R. S. Aggarwal, "A Modern Approach to Logical Reasoning", Sultan Chand and Sons, 
 New Delhi, 2018 
-4. M Tyra, “Magical Book on Quicker Maths”, BSC Publications, 2018 
-5. Cambridge Advanced Learner’s Dictionary, Cambridge University  Press.Kaplan’s GRE 
+4. M Tyra, "Magical Book on Quicker Maths", BSC Publications, 2018 
+5. Cambridge Advanced Learner's Dictionary, Cambridge University Press.Kaplan's GRE 
 guide 
-
-## Page 98
-
-FMCD2009 / 2.0 98 
- 
-BACK 
- 
-Program: Biotechnology Semester: V 
-Course Title:  Mini Project Course Code:  15EBTW301 
+ ## Page 98
+ FMCD2009 / 2.0 98 
+  BACK 
+  Program: Biotechnology Semester: V 
+Course Title: Mini Project Course Code: 15EBTW301 
 L-T-P:: 0-0-3 Credits:3.0 Contact Hours: 09 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours: NA Examination Duration: 3 Hours  
+Teaching Hours: NA Examination Duration: 3 Hours 
 Preamble: 
 The Mini project is an essential part of the curriculum structure which integrates all the skills 
 acquired from all the theory and laboratory courses of 3 rd and 4th semester. The mini project 
-work is based on the theme: “Isolation and preliminary characterization of metabolit es 
-producing microorganisms”. Mini project emphasizes on basic skill development like isolation, 
+work is based on the theme: "Isolation and preliminary characterization of metabolit es 
+producing microorganisms". Mini project emphasizes on basic skill development like isolation, 
 screening, and characterization of the microorganisms. Students gain hands on experience 
-during their mini Project implementation. Mini project facilitates the  students to present their 
+during their mini Project implementation. Mini project facilitates the students to present their 
 work on different platforms likes seminars and national conferences. Mini project help 
-students in their job, higher studies as well in higher research careers.  
-Guidelines:        
-1. Mini project has to be carried out in teams of four students.  
+students in their job, higher studies as well in higher research careers. 
+Guidelines: 
+1. Mini project has to be carried out in teams of four students. 
 2. Every team needs to maintain laboratory work book which contains details of all the 
 work carried out in the laboratory. 
 3. Make entries in log books for instrument usage. 
@@ -3247,48 +2847,40 @@ Sl. No Phase Marks Review
 3 Definitive design phase 10 Guide/s 
 4 Final submission 15 Committee 
 3 End Semester Assessment 50 External/Internal 
-Total Marks 100  
-  
-## Page 99
-
-FMCD2009 / 2.0 99 
- 
-BACK 
- 
-Program: Biotechnology Semester: V 
-Course Title: Genetic Engineering & Immunotechnology  Lab Course Code:  15EBTP301 
-L-T-P:: 0-0-1 Credits:1.0 Contact Hours: 02  
+Total Marks 100 
+   ## Page 99
+ FMCD2009 / 2.0 99 
+  BACK 
+  Program: Biotechnology Semester: V 
+Course Title: Genetic Engineering & Immunotechnology Lab Course Code: 15EBTP301 
+L-T-P:: 0-0-1 Credits:1.0 Contact Hours: 02 
 ISA Marks:80 ESA Marks:20 Total Marks:100 
-Teaching Hours:24 Examination Duration: 3 Hours  
+Teaching Hours:24 Examination Duration: 3 Hours 
 List of Experiments: 
-1. Preparation of Competent E coli cells (Structured Inquiry)  
+1. Preparation of Competent E coli cells (Structured Inquiry) 
 2. Ligation of DNA fragment with vector and Transformation (Demonstration) 
 3. Restriction digestion analysis of plasmid DNA (Structured Inquiry) 
-4. Introduction to PCR –Programming, and amplification of DNA (Exercise) 
+4. Introduction to PCR -Programming, and amplification of DNA (Exercise) 
 5. Screening of Transformants by Colony PCR (Demonstration) 
-6. TA Cloning method for cloning of PCR product. (Structured Inquiry)  
+6. TA Cloning method for cloning of PCR product. (Structured Inquiry) 
 7. Demonstration of Southern blotting (Demonstration) 
-8. Agglutination techniques –  Heam agglutination techniques and  Bacterial agglutination 
+8. Agglutination techniques - Heam agglutination techniques and Bacterial agglutination 
 techniques (Exercise) 
 9. Radial diffusion and Rocket Immunoelectrophoresis (Exercise) 
 10. Dot-ELISA(Enzyme Linked Immuno Sorbent Assay) (Exercise) 
 Text Books/Reference Books: 
 1. Principles of Gene Manipulations- Introduction to Genetic Engineering, by R.W. Old and 
-S.D. Primrose (    2007), Blackwell SISAntific Publications. 
+S.D. Primrose ( 2007), Blackwell SISAntific Publications. 
 2. Molecular Cloning - By T.Maniatis, E.F. Fritsch and J. Sambrook, Cold spring Harb our 
 (2009) 
-
-## Page 100
-
-FMCD2009 / 2.0 100 
- 
-BACK 
- 
-Program: Biotechnology Semester: V 
-Course Title:  Bioinformatics  Lab Course Code:  22EBTP302 
-L-T-P:: 0-0-1 Credits:1.0 Contact Hours: 02  
+ ## Page 100
+ FMCD2009 / 2.0 100 
+  BACK 
+  Program: Biotechnology Semester: V 
+Course Title: Bioinformatics Lab Course Code: 22EBTP302 
+L-T-P:: 0-0-1 Credits:1.0 Contact Hours: 02 
 ISA Marks:80 ESA Marks:20 Total Marks:100 
-Teaching Hours:24 Examination Duration: 3 Hours  
+Teaching Hours:24 Examination Duration: 3 Hours 
 List of Experiments: 
 1. Biological Databases: Searching bibliographic database for relevant information and 
 retrieve from nucleic acid and Protein sequence database 
@@ -3307,86 +2899,78 @@ sub-cellular location, protein stability, patterns and conserve domain.
 11. Identification of Ligand for protein involved in pathogenesis. 
 Text Books/Reference Books: 
 1. Mohammed Iftekhar and Mohammed Rukunuddin Ghalib; Bioinformatics Practic al 
-Manual; Createspace Independent Pub; Large Print edition (28 September 2015).  
+Manual; Createspace Independent Pub; Large Print edition (28 September 2015). 
 2. K Kasturi, K Sri Lakshmi; Bioinformatics: A Practical Manual; Pharmamed Press; St ed. 
 edition (2 July 2018). 
 3. Andreas D. Baxevanis, B. F. Francis Ouellette, Bioinforma tics: A Practical Guide to the 
 Analysis of Genes and Proteins, 3rd, Wiley-Inte, 2005. 
-
-## Page 101
-
-FMCD2009 / 2.0 101 
- 
-Program: Biotechnology Semester: VI 
-Course Title:  Bioprocess Engineering Course Code:  15EBTC306 
-L-T-P:: 4-0-0 Credits:4.0 Contact Hours: 04  
+ ## Page 101
+ FMCD2009 / 2.0 101 
+  Program: Biotechnology Semester: VI 
+Course Title: Bioprocess Engineering Course Code: 15EBTC306 
+L-T-P:: 4-0-0 Credits:4.0 Contact Hours: 04 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:50 Examination Duration: 3 Hours  
+Teaching Hours:50 Examination Duration: 3 Hours 
 Unit - I 
- 1.Media and Inoculum development for industrial fermentations  
+ 1. Media and Inoculum development for industrial fermentations 
 Bioprocess development: An interdisciplinary challenge, Biotechnology & Bioproces s 
 Engineering, steps in bioprocess development, Media ingredients, medium formulation, 
 oxygen requirements, antifoams, medium optimization, Ingredients for mammalian cell culture 
-and plant cell culture.  Introduction, Criteria for transfer of inoculum, deve lopment of inocula 
+and plant cell culture. Introduction, Criteria for transfer of inoculum, deve lopment of inocula 
 for bacterial processes, yeast processes and mycelial processes. Inoculum development for 
 plant Fermenter. 
-08 Hours  
- 2.Sterilization  
+08 Hours 
+ 2. Sterilization 
 Media sterilization, Design of sterilization process: Batch Process (Dell factor, holding time, and 
 thermal death kinetics), continuous sterilization process; sterilization of fermenter and other 
-ancillaries. Scale up of sterilization, filter sterilization of air and media.  
+ancillaries. Scale up of sterilization, filter sterilization of air and media. 
 05 Hours 
- 3.Design of bioreactors  
+ 3. Design of bioreactors 
 Basic objective of fermenter design, aseptic op eration & containment regulation, achievement 
 and maintenance of aseptic conditions, body construction, agitator and sparger design, baffles, 
-stirrer glands and bearings.  Animal cell bioreactors. Single use bioreactor, perfusion system, 
-Data analysis software for fermenter Ex:simca software. 
+stirrer glands and bearings. Animal cell bioreactors. Single use bioreactor, perfusion system, 
+Data analysis software for fermenter Ex: simca software. 
 07 Hours 
 Unit - II 
-4.Scale Up of Bioreactor 
+4. Scale Up of Bioreactor 
 Scale up of bioreactors: Introduction, Scale -Up methods: Geometric and Dynamic Similarity, 
 Criteria for scale -up: Constant power consumption/volume, constant KLa, constant m ixing 
 time, constant tip speed, Regime analysis: Time constant for transport phenomena, time 
-constant for conversion. Scale down approach.                                                                                           
+constant for conversion. Scale down approach. 
 05 Hours 
- 
-5.Heat Transfer  
-Heat transfer in Bioprocess: Design equation for heat transfer process, Energy balance,  
-Logarithmic and arithmetic mean temperature difference, Calculation for heat transfer  
-coeffiISAnt, applications of design equations, Relationship in between heat transf er, cell  
-concentrations and stirring conditions, Numerical based examples on above.                        
+  5. Heat Transfer 
+Heat transfer in Bioprocess: Design equation for heat transfer process, Energy balance, 
+Logarithmic and arithmetic mean temperature difference, Calculation for heat transfer 
+coeffiISAnt, applications of design equations, Relationship in between heat transf er, cell 
+concentrations and stirring conditions, Numerical based examples on above. 
 04 Hours 
-
-## Page 102
-
-FMCD2009 / 2.0 102 
- 
-BACK 
- 
-6.Mass Transfer  
-Mass transfer in Bioprocess: Role of diffusion in bioprocessing, Different equations in  
-mass transfer ( liquid -solid, liqu id-liquid and gas -liquid) , Oxygen uptake in cell culture:  
-Factors affecting cellular oxygen demand, Oxygen transfer from gas bubble to cells,  
-Oxygen transfer in fermenter, measuring dissolved oxygen concentrations, Measurement  
-of KLa: Oxygen balance metho d, Gassing out techniques ( static method of Gassing out  
-and dynamic method of Gassing out) Sulphite oxidation, Factors affecting KLa, Oxygen  
-transfer in large vessels, Numerical based examples on above.  
-05 Hours  
-7.Fermenter fluid rheology  
+ ## Page 102
+ FMCD2009 / 2.0 102 
+  BACK 
+  6. Mass Transfer 
+Mass transfer in Bioprocess: Role of diffusion in bioprocessing, Different equations in 
+mass transfer ( liquid -solid, liqu id-liquid and gas -liquid) , Oxygen uptake in cell culture: 
+Factors affecting cellular oxygen demand, Oxygen transfer from gas bubble to cells, 
+Oxygen transfer in fermenter, measuring dissolved oxygen concentrations, Measurement 
+of KLa: Oxygen balance metho d, Gassing out techniques ( static method of Gassing out 
+and dynamic method of Gassing out) Sulphite oxidation, Factors affecting KLa, Oxygen 
+transfer in large vessels, Numerical based examples on above. 
+05 Hours 
+7. Fermenter fluid rheology 
 Fermentation broth: Viscosity, Viscosity measurement, Rheological properties of fermentation 
 broths, Factors affecting broth viscosity , Mixing in Fermenters: Mechanism of mixing, 
-Assessing mixing effectiveness, estimation  of mixing time, Power requirement for mixing: 
-Ungassed Newtonian fluids,  ungassed non-Newtonian fluids, Gassed fluids, Calculation of 
-power requirements,  Scaleupof mixing systems, Improving mixing in Fermenters, Effect of 
+Assessing mixing effectiveness, estimation of mixing time, Power requirement for mixing: 
+Ungassed Newtonian fluids, ungassed non-Newtonian fluids, Gassed fluids, Calculation of 
+power requirements, Scaleupof mixing systems, Improving mixing in Fermenters, Effect of 
 rheological properties on mixing, Role of shear in stirred fementers: Interactio n between cells 
-and turbulent eddies, Bubble shear, operating conditions for shear damage.  Numericals  
+and turbulent eddies, Bubble shear, operating conditions for shear damage. Numericals 
 06 Hours 
 Unit - III 
- 8.Bioreactor kinetics  
+ 8. Bioreactor kinetics 
 Batch reactor kinetics, CSTR kinetics, Fedbatch kinetics and plug flow kinetics, Numericals 
                                                  05 Hours 
-9.Solid State fermentation: 
- Introduction, SSF v/s SMF, Types of SSF reactors, Microbial growth kinetics in SSF, Heat & Mass   
+9. Solid State fermentation: 
+ Introduction, SSF v/s SMF, Types of SSF reactors, Microbial growth kinetics in SSF, Heat & Mass 
 Transfer in SSF 
 05 Hours 
 Text Books 
@@ -3394,24 +2978,21 @@ Text Books
 2. Stanbury & Whittaker, Principles of Fermentation Technology, 2, Pergamum Press, 2000 
 Reference Books 
 1. Michael L. Shuler & Fikret Kargi, Bioprocess Engineering, 2, Prentice Hall, 2001 
-2. Bailey, James E.; Ollis, David F., Biochemica l Engineering Fundamentals, McGraw -Hill    
+2. Bailey, James E.; Ollis, David F., Biochemica l Engineering Fundamentals, McGraw -Hill 
 Education, 1986 
-
-## Page 103
-
-FMCD2009 / 2.0 103 
- 
-Program: Biotechnology Semester: VI 
-Course Title:   Bioprocess Control and Automation Course Code:  23EBTC302 
-L-T-P:: 4-0-0 Credits:4.0 Contact Hours: 04  
+ ## Page 103
+ FMCD2009 / 2.0 103 
+  Program: Biotechnology Semester: VI 
+Course Title: Bioprocess Control and Automation Course Code: 23EBTC302 
+L-T-P:: 4-0-0 Credits:4.0 Contact Hours: 04 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:50 Examination Duration: 3 Hours  
+Teaching Hours:50 Examination Duration: 3 Hours 
 Unit I 
-1 Instrumentation & Process Dynamics:  Introduction to Measurement of important 
+1 Instrumentation & Process Dynamics: Introduction to Measurement of important 
 physicochemical and biochemical parameters in bioprocess. Methods of on line and off line 
 estimation of biomass, substrates and products. Brief introduction to typical automatic control 
 system and its components. Open loop and closed loop control systems. 
-                                                                                                                                             05 Hours   
+                                                                                                                                             05 Hours 
 2 First & Second Order Systems: Mathematical representation of physical systems. Transfer 
 function representation of linear first order systems, Examples: mercury in glass thermomet er 
 & Liquid level system. Mathematical forms of standard Input function/Forcing Functions such 
@@ -3419,7 +3000,7 @@ as Step input, Impulse Input, Linearly increasing Input and Sinusoidal Input. Re
 order system for step input, Features of step response, Response of linearly increasing input. 
 Conceptual numerical. First Order Systems in Series: Interacting and Non-Interacting systems & 
 their Transfer function representation. Second Order Systems: Transfer function representation 
-of Second order systems, Example: Pneumatic Control Valve.  
+of Second order systems, Example: Pneumatic Control Valve. 
                                                                                                                                              10 Hours 
 Unit II 
 3 Controller and Final Control Elements : Different types of controllers -P (Special case of P -
@@ -3431,82 +3012,72 @@ Pneumatic Control Valves i.e. Air to close & air to open.
 4 Block Diagram Reduction : Block diagram representation of control systems, Block diagram 
 reduction in case of Servo and Regulatory control systems. Reduction of block diagrams for 
 single input & Single output systems (SISO) & Multiple Input & Multiple Outp ut Systems 
-(MIMO), Problems on block diagram reduction.  
+(MIMO), Problems on block diagram reduction. 
                                                                                                                                              05 Hours 
- 
-## Page 104
-
-FMCD2009 / 2.0 104 
+  ## Page 104
+ FMCD2009 / 2.0 104 
 BACK 
- 
-5 Block Diagram Reduction (MIMO systems):  Analysis of Multiple Input Multiple Output 
+  5 Block Diagram Reduction (MIMO systems): Analysis of Multiple Input Multiple Output 
 Systems: Introduction to Multiple Input & Multiple Output Systems (MIMO), Examples of 
 MIMO systems. Analysis of MIMO systems considering only one Input at a time while other 
 Inputs are Suppressed. Considering only one output at a time while other outputs are 
 Suppressed. Problems on block diagram reduction considering MIMO systems. 
                                                                                                                                             10 Hours 
 Unit III 
-6 Transient response of different controllers for Servo & Regulatory control Problems:  
+6 Transient response of different controllers for Servo & Regulatory control Problems: 
 Transient response of P , PI, PD & PID controllers for servo and regulatory problems. The 
-determination of offset in all cases.                                                                                      
+determination of offset in all cases. 
  05 Hours 
 7 Analysis of Stability: Concept of stability, stability criterion. Routh test for stability. Theorems 
-of Routh Array test, Conceptual numerical on Routh test for stability.                                      
+of Routh Array test, Conceptual numerical on Routh test for stability. 
 05 Hours 
 Text Books: 
-1. Process System analysis and control  by Donald R Coughnowr, 2 nd  Edn.Mc Graw 
-Hill,1991  
+1. Process System analysis and control by Donald R Coughnowr, 2 nd Edn.Mc Graw 
+Hill, 1991 
 2. Chemical Process Control by George Stephanopoulos, Prentice Hall of India, 1999 
 Reference Books: 
 1. Process Control-Peter Harriott, Tata McGraw-Hill Publishing Company Limited, 2004. 
-
-## Page 105
-
-FMCD2009 / 2.0 105 
- 
-BACK 
+ ## Page 105
+ FMCD2009 / 2.0 105 
+  BACK 
 Program: Biotechnology Semester: VI 
-Course Title:    Professional Aptitude and Logical 
-Reasoning                                              
-Course Code:   16EHSC301 
-L-T-P:: 3-0-0 Credits: Contact Hours:   
+Course Title: Professional Aptitude and Logical 
+Reasoning 
+Course Code: 16EHSC301 
+L-T-P:: 3-0-0 Credits: Contact Hours: 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours: 40 Examination Duration: N.A  
-Unit –I - Arithmetical Reasoning and Analytical Thinking 
-Chapter 1. – Arithmetical Reasoning 
+Teaching Hours: 40 Examination Duration: N.A 
+Unit -I - Arithmetical Reasoning and Analytical Thinking 
+Chapter 1. - Arithmetical Reasoning 
 10 Hours 
-Chapter 2. – Analytical Thinking 
+Chapter 2. - Analytical Thinking 
 04 Hours 
-Chapter 3. – Syllogistic Logic  
+Chapter 3. - Syllogistic Logic 
 03 Hours 
-Unit – II - Verbal and Non – Verbal Logic 
-Chapter 4. – Verbal Logic 
+Unit - II - Verbal and Non - Verbal Logic 
+Chapter 4. - Verbal Logic 
 09 Hours 
-Chapter 5. – Non-Verbal Logic 
+Chapter 5. - Non-Verbal Logic 
 06 Hours 
-Unit – III - Lateral Thinking 
-Chapter 6. - Lateral Thinking   
+Unit - III - Lateral Thinking 
+Chapter 6. - Lateral Thinking 
 08 Hours 
-Text Book  
-1. A Modern Approach to Verbal and Non – Verbal Reasoning – R. S. Aggarwal, Sultan 
-Chand and Sons,   New Delhi 
-2. Quantitative Aptitude – R. S. Aggarwal, Sultan Chand and Sons, New Delhi 
+Text Book 
+1. A Modern Approach to Verbal and Non - Verbal Reasoning - R. S. Aggarwal, Sultan 
+Chand and Sons, New Delhi 
+2. Quantitative Aptitude - R. S. Aggarwal, Sultan Chand and Sons, New Delhi 
 References: 
-1. Verbal and Non – Verbal Reasoning – Dr. Ravi Chopra, MacMillan India 
-2. Lateral Thinking – Dr. Edward De Bono, Penguin Books, New Delhi 
-
-## Page 106
-
-FMCD2009 / 2.0 106 
- 
-BACK 
- 
-Program: Biotechnology Semester: VI 
-Course Title:    : Industry Readiness & Leadership Skills Course Code:   22EHSH302 
-L-T-P-Self Study: 0.5-0-0 Credits: 0.5 Contact Hours:  16 
+1. Verbal and Non - Verbal Reasoning - Dr. Ravi Chopra, MacMillan India 
+2. Lateral Thinking - Dr. Edward De Bono, Penguin Books, New Delhi 
+ ## Page 106
+ FMCD2009 / 2.0 106 
+  BACK 
+  Program: Biotechnology Semester: VI 
+Course Title: : Industry Readiness & Leadership Skills Course Code: 22EHSH302 
+L-T-P-Self Study: 0.5-0-0 Credits: 0.5 Contact Hours: 16 
 ISA Marks:100 ESA Marks: 0 Total Marks:100 
-Teaching Hours: 16 Examination Duration: N.A  
-Content  
+Teaching Hours: 16 Examination Duration: N.A 
+Content 
 Chapter No. 1. Written Communication 
 Successful Job Applications, Résumé Writing, Emails, Letters, Business Communication, Essay, 
 and Paragraph Writing for Recruitment Tests 
@@ -3520,39 +3091,35 @@ Lateral Thinking by Edward de Bono, Fractionation and Brain Storming, Mind Maps,
 Enhancement through Activities 
 04 Hours 
 Chapter No. 4. Team Building & Leadership Skills 
-Communication in a Team, Leadership Styles, Playing a Team member, Belbin’s team roles, 
+Communication in a Team, Leadership Styles, Playing a Team member, Belbin's team roles, 
 Ethics, Effective Leadership Strategies 
 02 Hours 
 Text Book: NA 
-References:  
-1. Diana Booher – E Writing, Laxmi Publications 
-2. Edward de Bono–Lateral Thinking – A Textbook of Creativity, Penguin UK 
-3. William Strunk, E B White – The Elements of Style, Pearson 
-4. John Maxwell – The 17 Essential Qualities of a Team Player, HarperCollins Leadership 
-           Robin Ryan – 60 Seconds and You’re Hired! – Penguin Books 
-
-## Page 107
-
-FMCD2009 / 2.0 107 
- 
-BACK 
- 
-Program: Biotechnology Semester: VI 
-Course Title:     Minor Project Course Code: 15EBTW302 
-L-T-P:: 0-0-6 Credits:6.0 Contact Hours: 18  
+References: 
+1. Diana Booher - E Writing, Laxmi Publications 
+2. Edward de Bono-Lateral Thinking - A Textbook of Creativity, Penguin UK 
+3. William Strunk, E B White - The Elements of Style, Pearson 
+4. John Maxwell - The 17 Essential Qualities of a Team Player, HarperCollins Leadership 
+           Robin Ryan - 60 Seconds and You're Hired! - Penguin Books 
+ ## Page 107
+ FMCD2009 / 2.0 107 
+  BACK 
+  Program: Biotechnology Semester: VI 
+Course Title: Minor Project Course Code: 15EBTW302 
+L-T-P:: 0-0-6 Credits:6.0 Contact Hours: 18 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours: NA Examination Duration: 3 Hours  
+Teaching Hours: NA Examination Duration: 3 Hours 
 Preamble: 
 The Minor project is an essential part of the curriculum structure which integrates all the skills 
 acquired from theory and laboratory courses of 3 rd, 4 th and 5 th semester. The minor project 
-work is based on the theme: “Production of metabolites and study of effect of physic -chemical 
-parameters by isolates”. Minor project emphasizes on studies on fermentation process, design 
+work is based on the theme: "Production of metabolites and study of effect of physic -chemical 
+parameters by isolates". Minor project emphasizes on studies on fermentation process, design 
 of experiments, and partial purification o f metabolites. Students gain hands on experience 
 during their minor project implementation. Minor project facilitates the students to present 
 their work on different platforms likes seminars and national conferences. Minor project help 
-students in their job, higher studies as well in higher research careers.  
-Guidelines:        
-1. Minor project has to be carried out in teams of four students.  
+students in their job, higher studies as well in higher research careers. 
+Guidelines: 
+1. Minor project has to be carried out in teams of four students. 
 2. Every team needs to maintain laboratory work book which contains details of all the 
 work carried out in the laboratory. 
 3. Make entries in log books for instrument usage. 
@@ -3569,19 +3136,15 @@ Sl. No Phase Marks Review
 3 Definitive design phase 10 Guide/s 
 4 Final submission 15 Committee 
 5 End Semester Assessment 50 External/Internal 
-Total Marks 100  
-  
-## Page 108
-
-FMCD2009 / 2.0 108 
- 
-BACK 
- 
-Program: Biotechnology Semester: VI 
-Course Title:    Bioprocess Engineering  Lab Course Code: 23EBTP303 
-L-T-P:: 0-0-1.5 Credits:1.5 Contact Hours: 03  
+Total Marks 100 
+   ## Page 108
+ FMCD2009 / 2.0 108 
+  BACK 
+  Program: Biotechnology Semester: VI 
+Course Title: Bioprocess Engineering Lab Course Code: 23EBTP303 
+L-T-P:: 0-0-1.5 Credits:1.5 Contact Hours: 03 
 ISA Marks:80 ESA Marks:20 Total Marks:100 
-Teaching Hours:36 Examination Duration: 3 Hours  
+Teaching Hours:36 Examination Duration: 3 Hours 
 List of Experiments: 
 1. Study of lab fermenter: Design, components, and process control. 
 2. Study of pilot scale fermenter: Design, components, and process control. 
@@ -3595,30 +3158,26 @@ of fermenter: Inoculation, aeration and sampling procedures.
 8. Determination of kinetic parameters of microorganism using batch mode. 
 9. Design an experiment to determine mixing time, power requirement, and K La of 
 fermenter. 
-10. Introduction to bioprocess modeling and simulation software: SuperPro.  
+10. Introduction to bioprocess modeling and simulation software: SuperPro. 
 11. Model batch reactor using SuperPro 
 Text Books/Reference Books 
 1. Debabrata Das and Debayan Das; Biochemical Engineering: A Laboratory Manual; Jenny 
 Stanford Publishing; 1st edition (11 January 2021). 
-2. S. N. Mukhopadhyay ; Process Biotechnology: Theory and Practice;  The Energy and 
+2. S. N. Mukhopadhyay ; Process Biotechnology: Theory and Practice; The Energy and 
 Resources Institute, TERI. 
 3. Pauline M. Doran, Bioprocess Engineering Principles, 2, Academic Press, 2013. 
 Stanbury & Whittaker, Principles of Fermentation Technology, Butterworth-Heinemann; 
 3rd edition (14 September 2016) 
-
-## Page 109
-
-FMCD2009 / 2.0 109 
- 
-BACK 
- 
-Program: Biotechnology Semester: VI 
-Course Title:  Bioprocess Control & Reaction Engineering 
+ ## Page 109
+ FMCD2009 / 2.0 109 
+  BACK 
+  Program: Biotechnology Semester: VI 
+Course Title: Bioprocess Control & Reaction Engineering 
 Lab 
 Course Code: 23EBTP301 
-L-T-P:: 0-0-1.5 Credits:1.5 Contact Hours: 02  
+L-T-P:: 0-0-1.5 Credits:1.5 Contact Hours: 02 
 ISA Marks:80 ESA Marks:20 Total Marks:100 
-Teaching Hours:24 Examination Duration: 3 Hours  
+Teaching Hours:24 Examination Duration: 3 Hours 
 List of Experiments: 
 1. Study of characteristics of Transducers (such as Resistance Temperature Detector (RTD) 
 sensor, Thermister, Thermocouple). 
@@ -3637,165 +3196,146 @@ step input, Impulse Input).
 9. Determination of Vessel dispersion number 
 10. Determination of rate constant for first order reaction. 
 Text Books/Reference Books: 
-1. Process System analysis and control  by Donald R Coughnowr, 2 nd  Edn.Mc Graw 
-Hill,1991  
+1. Process System analysis and control by Donald R Coughnowr, 2 nd Edn.Mc Graw 
+Hill, 1991 
 2. Chemical Process Control by George Stephanopoulos, Prentice Hall of India, 1999 
- 
-## Page 110
-
-FMCD2009 / 2.0 110 
- 
-Program: Biotechnology Semester: VI 
-Course Title:    Bio Analytical Techniques Course Code:   19EBTE301 
+  ## Page 110
+ FMCD2009 / 2.0 110 
+  Program: Biotechnology Semester: VI 
+Course Title: Bio Analytical Techniques Course Code: 19EBTE301 
 L-T-P:3-0-0 Credits:3.0 Contact Hours: 03 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration: 3 Hours  
+Teaching Hours:40 Examination Duration: 3 Hours 
 Unit I 
 1. Introduction to Bio-analysis 
-Introduction to instrumentation, Functional elements of an instrumentation system,  static and 
+Introduction to instrumentation, Functional elements of an instrumentation system, static and 
 dynamic characteristics, calibration of instrumental methods, Types of errors, Methods of 
 expressing precision and accuracy, Confidence limits, Uncertainties in Instrumental 
-measurements – Sensitivity and detection, preparation & storage of solutions, usage of 
+measurements - Sensitivity and detection, preparation & storage of solutions, usage of 
 laboratory glasswares, statistical analysis of experimental data, Electrodes and Biochemical 
 preparation. 
 05 Hours 
 2. Spectroscopy 
-General principles –Radiation, energy and ato mic structure - types of spectra and their 
+General principles -Radiation, energy and ato mic structure - types of spectra and their 
 biochemical usefulness basic laws of light absorption. Electromagnetic radiation & Spectrum, 
-Beer – Lambert’s Law and apparent deviations; UV – VIS Spectrophotometer 
+Beer - Lambert's Law and apparent deviations; UV - VIS Spectrophotometer 
                                                                                                                              05 Hours 
 3. Advanced Spectroscopy 
 Spectroflourimetry, Atomic absorption spectroscopy, IR spectroscopy, FTIR, Nuclear Magnetic 
 Resonance, Mass spectroscopy, ORD, CD, X-ray diffraction. 
-         05 Hours  
+         05 Hours 
 Unit II 
 4. Chromatographic techniques 
 Analytical techniques for biomolecules purification, Paper chromatography, thin layer 
 chromatography, Column chromatography, Gas chromatography, Ion -exchange 
-chromatography, molecular exclusion  chromatography, affinity chromatography, High 
+chromatography, molecular exclusion chromatography, affinity chromatography, High 
 performance liquid chromatography & UPLC- Principles, Methods, Instrumentation, Detectors, 
-Analysis of data.  
+Analysis of data. 
 08 Hours 
- 
-## Page 111
-
-FMCD2009 / 2.0 111 
- 
-BACK 
- 
-5. Electrophoretic techniques 
+  ## Page 111
+ FMCD2009 / 2.0 111 
+  BACK 
+  5. Electrophoretic techniques 
 Theory & application of polyacrylamide & Agarose gel electroph oresis for protein & nucleic 
 acids, capillary electrophoresis, pulsed field gel electrophoresis, Iso -electric focusing, 2D -gel 
-electrophoresis and Immunoelectrophoresis  
+electrophoresis and Immunoelectrophoresis 
 06 Hours 
 Unit III 
 6. Centrifugation techniques 
 Basic principles of sedimentation, cen trifuges and their uses, preparative ultracentrifuges, 
 density gradient ,analytical ultra-centrifuges, applications 
                                                                                                                                        06 Hours 
-7.  Advanced Instrumental methods 
-LC-MS, GC-MS, HPTLC, SEM, Atomic Force Microscopy, transmission electron microscopy (TEM)  
-04 Hours                                                                             
-                     
-Text Books 
-1. Wilson K & Walker J., Principles and Techniques of Practical Biochemistry, 5 th edition,  
+7. Advanced Instrumental methods 
+LC-MS, GC-MS, HPTLC, SEM, Atomic Force Microscopy, transmission electron microscopy (TEM) 
+04 Hours 
+                      Text Books 
+1. Wilson K & Walker J., Principles and Techniques of Practical Biochemistry, 5 th edition, 
 Cambridge Univ. Press., 2000. 
 2. Rodney Boyer, Modern Experimental Biochemistry, 3rd edition, Pearson Education, 2002 
 3. Chatwal and Anand, Spectroscopy, Himalaya Publishing house-New Delhi, 2016 
 Reference Books 
-1. Willard  H. W. & Meritt L. L, Instrumental methods for chemical analysis, 7th edition. 
-CBS Publishers & Distributors,  2004 
+1. Willard H. W. & Meritt L. L, Instrumental methods for chemical analysis, 7th edition. 
+CBS Publishers & Distributors, 2004 
 2. Chatwal and Anand, Instrumental methods for chemical analysis, Himalaya Publishing 
 house, 2012 
-
-## Page 112
-
-FMCD2009 / 2.0 112 
- 
-Program: Biotechnology Semester: VI 
-Course Title: Bioprocess Plant  Design and Economics Course Code: 18EBTE301 
-L-T-P:3-0-0 Credits:3.0 Contact Hours: 03  
+ ## Page 112
+ FMCD2009 / 2.0 112 
+  Program: Biotechnology Semester: VI 
+Course Title: Bioprocess Plant Design and Economics Course Code: 18EBTE301 
+L-T-P:3-0-0 Credits:3.0 Contact Hours: 03 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration: 3 Hours  
+Teaching Hours:40 Examination Duration: 3 Hours 
 Unit I 
 1. Introduction to Process Design Development 
 Design project procedure, design information from the literature and other sources of 
-information,    flow diagrams, preliminary design, and comparison of different proces ses, 
+information, flow diagrams, preliminary design, and comparison of different proces ses, 
 Equipment design and specialization, factors affecting the investment. 
-                                                                                                                                         06 Hours                                                                                                                       
+                                                                                                                                         06 Hours 
 2. General Design Considerations 
  Marketability of the product, availability of technology, Health and safety hazards, raw 
-materials, human resources, loss prevention Envir onmental protection and utilities, site    
+materials, human resources, loss prevention Envir onmental protection and utilities, site 
 characteristics, plant location, plant layout, plant operation and control, utilities, structural 
 design, storage, materials handling, materials and fabrication Selection, optimum design and 
-design strategy. Waste  disposal, physical treatment, chemical treatment and biological 
+design strategy. Waste disposal, physical treatment, chemical treatment and biological 
 treatment, govt. regulations and other legal restrictions, community factors. Safety and hazard 
-control measures.                                                                                              
-                                                                                                                                           10 Hours                                                                                                                                
+control measures. 
+                                                                                                                                           10 Hours 
 Unit II 
 3. Cost Analysis and Manufacturing Cost 
- Cost Analysis:  Factors involved in project cost estimation. Cash flow diagrams for the   
+ Cost Analysis: Factors involved in project cost estimation. Cash flow diagrams for the 
 industrial operation, Cumulative cash position, factors affecting the Investment a nd 
 production cost, Different methods employed for the estimation of the capital investment. 
-Estimation of equipment cost by sixth tenth rule, Cost index. Marshall and swift installed – 
-equipment indexes, Engineers News -Record construction index, Nelson –Farrar refinery 
-construction index. and Chemical Engineering plant cost index Manufacturing Costs:  Direct 
-Production costs, indirect cost and fixed charges  (including depreciation, taxes, insurance, 
-rental costs etc.)                                                                                                                                
+Estimation of equipment cost by sixth tenth rule, Cost index. Marshall and swift installed - 
+equipment indexes, Engineers News -Record construction index, Nelson -Farrar refinery 
+construction index. and Chemical Engineering plant cost index Manufacturing Costs: Direct 
+Production costs, indirect cost and fixed charges (including depreciation, taxes, insurance, 
+rental costs etc.) 
                                                                                                                                            10 Hours 
-4. Bioprocess Economics:  
+4. Bioprocess Economics: 
  Economic analysis for the production of following Products.( Historical Perspective, 
  Fermentation Technology, Recovery of product and process economics of following 
-
-## Page 113
-
-FMCD2009 / 2.0 113 
- 
-BACK 
- 
-products) 
+ ## Page 113
+ FMCD2009 / 2.0 113 
+  BACK 
+  products) 
  High volume, low value products. (Citric acid, Ethanol and Amino acids etc) 
  Medium volume, medium value products.( Antibiotics, Crude Enzymes and Vitamins 
 etc) 
  Low volume, high value products. ( MAb, purified Enzymes and Therapeutic proteins 
-etc)                                                                                                                           
-                                                                                                                                06 Hours                                                                                                                              
- 
-Unit III 
+etc) 
+                                                                                                                                06 Hours 
+  Unit III 
 5. Profitability Analysis and Optimization Technique 
   i) Importance of profitability analysis in investment decision making. Different Methods for 
 calculating the profitability. Minimum Acceptable Rate of return. Methods that Do not 
 consider Time value of money. 
                                                                                                                                           04 Hours 
 ii) General procedure to find the optimum c onditions, factors affecting the optimization, 
-comparison of analytical and graphical methods. Linear programming, Simultaneous   
-Equations  and dynamic programming 
+comparison of analytical and graphical methods. Linear programming, Simultaneous 
+Equations and dynamic programming 
                                                                                                                                           04 Hours 
 Text Books: 
 1. Peters and Timmerhaus, Plant Design and Economics for Chemical Engineers, McGraw 
 Hill 5th edition, 2004. 
-2. Chemical Engineering plant design, Frank C Vilbrandt and Charles E Dryden , McGraw   
+2. Chemical Engineering plant design, Frank C Vilbrandt and Charles E Dryden , McGraw 
 Hill 4th edition, 1959 
 Reference Books: 
 1. Rudd and Watson, Strategy of Process Engineering, Wiley, 1987. 
-2. Backhurst, J.R And Harker, J. H - Process Plant Design, Heieman Educational Books,  (1973). 
-3. Biochemical Engineering Fundamentals, James E Baily David  F Oillis. McGraw -Hill  2 nd 
+2. Backhurst, J.R And Harker, J. H - Process Plant Design, Heieman Educational Books, (1973). 
+3. Biochemical Engineering Fundamentals, James E Baily David F Oillis. McGraw -Hill 2 nd 
 International Edition 
-
-## Page 114
-
-FMCD2009 / 2.0 114 
- 
-Program: Biotechnology Semester: VI 
-Course Title:  Insilco Modeling and Drug Design Course Code:  15EBTE302 
-L-T-P:3-0-0 Credits:3.0 Contact Hours: 03  
+ ## Page 114
+ FMCD2009 / 2.0 114 
+  Program: Biotechnology Semester: VI 
+Course Title: Insilco Modeling and Drug Design Course Code: 15EBTE302 
+L-T-P:3-0-0 Credits:3.0 Contact Hours: 03 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration: 3 Hours  
+Teaching Hours:40 Examination Duration: 3 Hours 
 Unit I 
-1.  Insilico Drug Design 
+1. Insilico Drug Design 
 Generation of rational Approaches in Drug Design Molecular modeling: The second generation, 
-Conception frame and methodology of molecular mode ling, Importance of the “ Bioactive 
-Confirmation”, Molecular Mimicry and Structural Similarities, Molecular Mimicry, Structural 
+Conception frame and methodology of molecular mode ling, Importance of the " Bioactive 
+Confirmation", Molecular Mimicry and Structural Similarities, Molecular Mimicry, Structural 
 similarities and Superimposition Techniques, Rational Drug design and Chemical Intuition 
                                                                                                                                            08 Hours 
 2. Molecular Modeling : 
@@ -3804,15 +3344,14 @@ Structure generation or Retrivel , structure visualization, Confirmation generat
 Bioactive Confirmations Molecule Superposition and Alignment Deriving the Pharmacophoric 
 Pattern, Receptor Mapping, Estimating Biological Activities, Molecular Interactions: Docking 
 Calculation o f Molecular Properties, Energy Calculations ( no derivation), Example of Small 
-Molecular Modeling Work,                                                                                                   
-08 Hours                                                                                                              
- 
-Unit II 
+Molecular Modeling Work, 
+08 Hours 
+  Unit II 
 3. Computer Assisted New LEAD Design. 
 Introduction, Basic Concepts, Molecular Recognition by Receptor and Ligand Design, Active 
 Confirmation, Approaches to Discover New Functions, Ap proaches to the Cases with known 
-and unknown receptor structure                                                                                                
- 03 Hours                                                                                     
+and unknown receptor structure 
+ 03 Hours 
 4. Docking Methods 
 Program GREEN Grid: Three -Dimensional Description of Binding Site Environment and Energy 
 Calculation, Automatic Docking Method, Three Dimensional Database Search Approaches, 
@@ -3820,159 +3359,134 @@ Automated Structure Construction Methods with known Three Dimensio nal Structure
 Receptor, Structure construction in the case of Unknown Receptor Structure. Scope and 
 Limitation Points for Consideration in Structure Methods, Handling of X Ray Structure of 
 Protein, Future Perspectives, Types of programs available fo r molecular modeling scope and 
-limitations-interpretation of results.                                                                                          11 Hours                                                                                                                                              
-
-## Page 115
-
-FMCD2009 / 2.0 115 
- 
-BACK 
- 
-Unit III 
-5.  Computer Assisted Drug Discovery-Part-I. 
+limitations-interpretation of results. 11 Hours 
+ ## Page 115
+ FMCD2009 / 2.0 115 
+  BACK 
+  Unit III 
+5. Computer Assisted Drug Discovery-Part-I. 
 The Drug Development Process, Introduction, The Discovery and Development Process, New 
 Lead Discovery Strategies, Composition of Drug Discovery Team s, The Practice of Computer -
-Assisted Drug Discovery (CADD),  
+Assisted Drug Discovery (CADD), 
 05 Hours 
-6.  Computer Assisted Drug Discovery-Part-II. 
+6. Computer Assisted Drug Discovery-Part-II. 
 Current Practice of CADD in the Pharmaceutical Industry, Management Structure of CADD 
-Groups, Contributions and Achievements of CADD Groups,  Limitations of CADD Support, 
+Groups, Contributions and Achievements of CADD Groups, Limitations of CADD Support, 
 Inherent Limitations of CADD Support, State of Current Computational Models, Software and 
-Hardware Constraints.    
-05 Hours                                  
+Hardware Constraints. 
+05 Hours 
 Text Books: 
-1. Moody P .C.E. and A.J.Wilkinson Protein Engineering,IRL Press Oxford 1990. 
+1. Moody P .C.E. and A.J.Wilkinson Protein Engineering, IRL Press Oxford 1990. 
 2. The molecular modeling perspective in drug design by N Claude 
-Cohen,1996,Academic Press 
+Cohen, 1996, Academic Press 
 Reference Books: 
 1. M.Michael Gromiha, Protein Bioinformatics- From Sequence to Function. Academic 
 press 2010 
 2. Branden C.and Tooze R.Introcuction of Protein structure, Garland 1993 
-
-## Page 116
-
-FMCD2009 / 2.0 116 
- 
-Program: Biotechnology Semester: VI 
-Course Title:   Bioprocess Modeling and Simulation Course Code:  : 18EBTE302 
-L-T-P:3-0-0 Credits:3.0 Contact Hours: 03  
+ ## Page 116
+ FMCD2009 / 2.0 116 
+  Program: Biotechnology Semester: VI 
+Course Title: Bioprocess Modeling and Simulation Course Code: : 18EBTE302 
+L-T-P:3-0-0 Credits:3.0 Contact Hours: 03 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration: 3 Hours  
+Teaching Hours:40 Examination Duration: 3 Hours 
 Unit I 
- 1.Introduction to modeling: 
+ 1. Introduction to modeling: 
 Introduction, Mathematical Modeling of Bioprocess Engineering System, General Aspects of 
 the Modeling Approach, General Modeling Procedure: Fundamenta ls uses of mathematical 
 model, scope of coverage, principles of formulation; Fundamental Laws of Modeling: 
-continuity equation, energy equation with examples                                                                                        
- 
-05 Hours 
- 
-2.Fundamental Laws of Modeling: 
+continuity equation, energy equation with examples 
+  05 Hours 
+  2. Fundamental Laws of Modeling: 
 Equation of motion, transport equation, equation of state, phase and chemical equilibrium, 
-chemical kinetics; Lumped and distributor parameters with examples                               
+chemical kinetics; Lumped and distributor parameters with examples 
  05 Hours 
- 
-3. Mathematical models of Biochemical Engineering Systems:  
+  3. Mathematical models of Biochemical Engineering Systems: 
 Modeling of Batch reactors, modeling of CSTR, Numericals. Plug flow reactor, Fluidized bed 
-reactor, Reactors used in effluent treatments, packed bed reactor.                                    
+reactor, Reactors used in effluent treatments, packed bed reactor. 
 05 Hours 
- 
-Unit II 
+  Unit II 
 4. Use of MATLAB in Process Simulation: 
 Basics-Data analysis-curve fittings, Numerical integration, Euler and fourth order RungeKutta 
 method, Input and Output in MATLAB. Solving problems using MATLAB by numerical 
 integration, Euler and fourth order Runge Kutta meth ods. Simulation of CSTR and Batch 
-Reactor, Simulation of Plug flow reactor.                                                                                                             
- 
-10 Hours    
- 
-4.Introduction to Process Design: 
+Reactor, Simulation of Plug flow reactor. 
+  10 Hours 
+  4. Introduction to Process Design: 
 Steps involved in proces s design, Process flow diagram structure and hierarchical approach, 
-importance of Material and Energy balance, selection of unit operations,                        05 Hours 
-
-## Page 117
-
-FMCD2009 / 2.0 117 
- 
-BACK 
- 
-Unit III 
-5.Introduction to process simulation software 
+importance of Material and Energy balance, selection of unit operations, 05 Hours 
+ ## Page 117
+ FMCD2009 / 2.0 117 
+  BACK 
+  Unit III 
+5. Introduction to process simulation software 
 Bioprocess design with exam ple: Process Description, Specifying Process Sections, Specifying 
 Equipment Sharing, Initialization of Reaction Operations, Process Analysis, Cost Analysis and 
-Economic Evaluation, Environmental Impact.                                                                         
+Economic Evaluation, Environmental Impact. 
 05 Hours 
 6. Use of Super Pro in Process Simulation: 
 Components and mixtures, Physical and Chemical properties of components, material and 
 energy balance simulation, adding unit operation, scheduling the unit process, process cost 
-estimation, sizing of the unit operation.  Case study: Monoclonal antibody production, Enzyme 
+estimation, sizing of the unit operation. Case study: Monoclonal antibody production, Enzyme 
 production 
                                                                                                                                             05 Hours 
 Text Books: 
 1. Luyben W.L., Process Modeling Simulation and Control for Chemical Engineers., 
-McGraw Hill, 1988.  
-2. Pauline M. Doran, “Bioprocess Engineering Calculation”, Blackwell Scientific 
-Publications.  
+McGraw Hill, 1988. 
+2. Pauline M. Doran, "Bioprocess Engineering Calculation", Blackwell Scientific 
+Publications. 
 Reference Books: 
-1. Kenneth J. Beers. “Numerical Methods for Chem ical Engineering Applications in 
-MATLAB®”, Massachusetts Institute of Technology, Cambridge University press 2007 
+1. Kenneth J. Beers. "Numerical Methods for Chem ical Engineering Applications in 
+MATLAB®", Massachusetts Institute of Technology, Cambridge University press 2007 
 edition. 
-2. Bailey and Ollis, “Biochemical Engineering Fundamentals”, 2 nd ed.,McGraw Hill, 1986. 
-
-## Page 118
-
-FMCD2009 / 2.0 118 
- 
-Program: Biotechnology Semester: VI 
-Course Title:  Structural Biology Course Code:  : 22EBTE301 
-L-T-P:3-0-0 Credits:3.0 Contact Hours: 03  
+2. Bailey and Ollis, "Biochemical Engineering Fundamentals", 2 nd ed.,McGraw Hill, 1986. 
+ ## Page 118
+ FMCD2009 / 2.0 118 
+  Program: Biotechnology Semester: VI 
+Course Title: Structural Biology Course Code: : 22EBTE301 
+L-T-P:3-0-0 Credits:3.0 Contact Hours: 03 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration: 3 Hours  
+Teaching Hours:40 Examination Duration: 3 Hours 
 Unit I 
 1 Introduction to Protein Structures: Concept of chirality in biological molecules & its 
 significance, Structural significance of biomolecules, Classification & structures of amino acids, 
 Levels of protein structure, Conformational analysis & forces that determine protein structures, 
-Geometries, Potential energy calculations, Main chain torsional angles – ф (phi), Ψ ( psi), ω 
+Geometries, Potential energy calculations, Main chain torsional angles - ф (phi), Ψ ( psi), ω 
 (omega) & χ (chi). 
-                                                                                                                                            06 Hours       
+                                                                                                                                            06 Hours 
 2. Protein Structures 
 Ramachandran plot, a llowed chi angles in proteins, hydrogen bonding, disulphide bonds, 
-hydrophobic interactions. Secondary structures  : Hélix- Alpha hélix pi hélix, Beta sheets, coils 
-and turns, Helix to coil transition & zipper model.  Tertiary structures of proteins, quaternaire 
+hydrophobic interactions. Secondary structures : Hélix- Alpha hélix pi hélix, Beta sheets, coils 
+and turns, Helix to coil transition & zipper model. Tertiary structures of proteins, quaternaire 
 structures of proteins. Relationships between primary, secondary tertiary & quaternaire 
 structures of proteins. protein folding - General features & thermodynamic aspects of protein 
 folding, folding kinetics. Ligand interactions, Scatchard plot, co -operative interactions, Hill 
 constant & linked functions . Relationship between the primary, secondary, and tertiary 
-structure of proteins. Structure of Immunoglobulin, fibrous proteins (Examples).                                                                                                       
-                                                                                                                                           09 Hours   
- 
-Unit II 
+structure of proteins. Structure of Immunoglobulin, fibrous proteins (Examples). 
+                                                                                                                                           09 Hours 
+  Unit II 
 3. Structures of Nucleic Acids 
-Structure and classification of Nucleic acids.  Difference between nucleoside and nucleotide. 
+Structure and classification of Nucleic acids. Difference between nucleoside and nucleotide. 
 Levels of nucleic acid structure, general characteristics of nucleic structure, glycosidic bond, 
-rotational isomers & rib ose puckering forces (C2’ exo & endo, & C3’exo & endo). 
+rotational isomers & rib ose puckering forces (C2' exo & endo, & C3'exo & endo). 
 Polynucleotide chain, main chain & side torsional angles, base pairing (Watson -Crick, 
 Hoogstein, Reverse Hoogstein, etc), base stacking, secondary structure of DNA and tRNA, A, B 
-& Z forms of DNA, int ra-molecular interactions in the double helix.  Thermodynamics of 
+& Z forms of DNA, int ra-molecular interactions in the double helix. Thermodynamics of 
 melting of double helix. Kinetics of unwinding of double helix, interaction with small ions. DNA 
 replication. Tertiary structure of DNA and tRNA. 
-                                                                                                                                          11 Hours       
+                                                                                                                                          11 Hours 
 4. Structures of Biomembranes 
  Structure and conformational properties of cell membranes, Singer and Nicholson model, 
-
-## Page 119
-
-FMCD2009 / 2.0 119 
- 
-BACK 
- 
-integral proteins in membrane s, conformational variations during ion transport, signal 
+ ## Page 119
+ FMCD2009 / 2.0 119 
+  BACK 
+  integral proteins in membrane s, conformational variations during ion transport, signal 
 transduction and molecular reception (qualitative). 
                                                                                                                                          04 Hours 
 Unit III 
 5. Biomolecular Interactions and Dynamics-I 
-Association of macromolecules, molecular conjugates, supramolecular interactions, DNA – 
-Protein interactions, DNA – small molecule interactions, RNA – Protein interactions, Protein – 
+Association of macromolecules, molecular conjugates, supramolecular interactions, DNA - 
+Protein interactions, DNA - small molecule interactions, RNA - Protein interactions, Protein - 
 protein interactions, lipid/membrane-protein interactions 
                                                                                                                                           05 Hours 
 6. Biomolecular Interactions and Dynamics-II 
@@ -3981,7 +3495,7 @@ principles and its importance towards in -silico simulations, results of molecul
 calculations and their implications to biological function. 
                                                                                                                                            05 Hours 
 Text Books 
-1. Biophysics – An Introduction by Cotterill, Wiley Student Edition 2002. 
+1. Biophysics - An Introduction by Cotterill, Wiley Student Edition 2002. 
 2. Biophysical Chemistry by Cantor R, & Schimmel P .R, W.H Freeman & Co. 2002. 
 3. A Textbook of Biochemistry and Biophysics by S.M Gopinath, Archers & Elevators 
 International Publishing House, India. 1st Edition, 2014. 
@@ -3992,20 +3506,17 @@ Reference Books
 Freeman. 2008 
 3. Introduction to Protein Structure by Carl Branden and John Tooze 2 nd edition, Garland 
 publishing Co. 1999. 
-
-## Page 120
-
-FMCD2009 / 2.0 120 
- 
-Program: Biotechnology Semester: VI 
-Course Title  Clinical Biotechnology Course Code:  : 23EBTE303 
-L-T-P:3-0-0 Credits:3.0 Contact Hours: 03  
+ ## Page 120
+ FMCD2009 / 2.0 120 
+  Program: Biotechnology Semester: VI 
+Course Title Clinical Biotechnology Course Code: : 23EBTE303 
+L-T-P:3-0-0 Credits:3.0 Contact Hours: 03 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration: 3 Hours  
+Teaching Hours:40 Examination Duration: 3 Hours 
 Unit I 
-1. Fundamentals of Pharmacology and Toxicology  
+1. Fundamentals of Pharmacology and Toxicology 
 Pharmacology: Drugs action, general principles - binding of drug molecules to cells, 
-tachyphylaxis and desensitization, molecular aspects - targets for drug, Cellular mechanisms – 
+tachyphylaxis and desensitization, molecular aspects - targets for drug, Cellular mechanisms - 
 excitation, contraction, secretion, cell prolifer ation and apoptosis. Biopharmaceuticals drugs 
 from plants, prokaryote and eukaryote, Bioassay, animal models of disease and drug 
 evaluation. Toxicology: Basic concepts, mechanism of action of toxins, biotransformation of 
@@ -4018,25 +3529,20 @@ Drug discovery pipeline, Hit and lead identification, sources of NCEs, Prototype
 activity relationship (SAR) and quantitative SAR (QSAR), In -silico drug discovery, Target -
 structure based drug discovery, Characterization and Bio analytical aspects of recombinant 
 proteins, The preclinical stages, clinical development, commercial aspect, NDE, IND. 
-                                                                                                                                07 Hours                                                                                                                                                
- 
-Unit II 
+                                                                                                                                07 Hours 
+  Unit II 
 3. Clinical Research and Bioassay methods 
 General principles and guide to data sources, types of epidemiology study designs, clinical 
 study designs, ecological (correlation) studies, case reports, pr evalence surveys or cross -
 sectional studies, case control studies, clinical trials -informed consent, Placebo responses, 
 clinical registries, clinical research institutes, Data Management, clinical research from 
-pharmaceutical industry perspective. Bioassay  methods and their significance in drug 
+pharmaceutical industry perspective. Bioassay methods and their significance in drug 
 development. Concept of pharmacovigilance. 
                                                                                                                                 15 Hours 
-                                                                                                                                                                                      
-## Page 121
-
-FMCD2009 / 2.0 121 
- 
-BACK 
- 
-Unit III 
+                                                                                                                                                                                       ## Page 121
+ FMCD2009 / 2.0 121 
+  BACK 
+  Unit III 
 4. Clinical research governance and ethics 
 Brief History of Clinical Research: Sulphanilamide Traged y, Thalidomide Disaster, Nazi 
 Experiments, Tuskegee Study, Belmont report, Nuremberg code, Declaration of Helsinki 
@@ -4048,79 +3554,71 @@ Process- IND, NDA and ANDA submissio n Procedure. DCGI submission procedure. Oth
 Regulatory authorities - EMEA, MHRA, PhRMA. Overview on regulatory affairs for 
 pharmaceuticals, nutraceuticals and medical devices. Good clinical practices, risk assessment 
 and trail monitoring, legal and ethica l issues on biotechnology, medical research and related 
-clinical practice.                                                                                                                   
+clinical practice. 
  10 Hours 
 Text Books: 
-1. Biochemistry and biotechnology by Gary Walsh, John Wiley & sons Ltd  
+1. Biochemistry and biotechnology by Gary Walsh, John Wiley & sons Ltd 
 2. Principles and practice of clinical research by J. I Gallin and F. P Ognibene, Elsevier 
-publications.  
+publications. 
 3. Current trends in Pharmacology by Arunabha Ray & Kavitha Gulati, IK Intl. 
 4. Pharmaceutical Biotechnology by K Sambamurthy & Ashutosh Kar, New Age 
 Reference Books: 
 1. Basic & clinical Pharmacology by Bartram G. Katzung, Mc Graw Hill. 
 2. Biopharmaceuticals, biochemistry and biotechnology by Gary Walsh, Wiley Pub 
-
-## Page 122
-
-FMCD2009 / 2.0 122 
- 
-Program: Biotechnology Semester: VII 
-Course Title:    Downstream Processing Technology Course Code:  22EBTC401 
+ ## Page 122
+ FMCD2009 / 2.0 122 
+  Program: Biotechnology Semester: VII 
+Course Title: Downstream Processing Technology Course Code: 22EBTC401 
 L-T-P:: 4-0-0 Credits:4.0 Contact Hours: 04 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:50 Examination Duration: 3 Hours  
+Teaching Hours:50 Examination Duration: 3 Hours 
 Unit I 
-1. Introduction  
+1. Introduction 
 Role and import ance of downstream processing in biotechnological processes. Characteristics 
 of biological mixtures: morphology of cells, concentration of cells, products and by -products, 
 rheological behavior. Process design criteria for various classes of by products (high volume, 
 low value products and low volume, high value products), Steps involved: pretreatment, 
-solid/liquid separation, concentration, purification, formulation. case studies,  costing of 
+solid/liquid separation, concentration, purification, formulation. case studies, costing of 
 product and numerical 
-                                                                                                             09 Hours                                                                                                            
-                                                                                                                                                                
-2. Primary Separation Techniques  
+                                                                                                             09 Hours 
+                                                                                                                                                                 2. Primary Separation Techniques 
 Cell disruption methods for intracellular products: mechanical methods, physical methods and 
-chemical methods. Removal of insolubles, Bi omass (and particulate debris)  heat and 
+chemical methods. Removal of insolubles, Bi omass (and particulate debris) heat and 
 photosensitive materials separation techniques; Pretreatment of fermentation broth: heating, 
 coagulation and flocculation, adsorption on filter aids. Theory of centrifugation and methods 
 of centrifugation: tubular bo wl centrifuge, disc stag centrifuge, decanter centrifuge. Theory of 
 filtration and methods of filtration: plate and frame filter press, rotary drum filter and types of 
 filter media, numerical. 
-                                                                                                                                             11 Hours                                               
+                                                                                                                                             11 Hours 
 Unit II 
-3. Membrane separation processes  
-Membrane – based separations theory; Design and configuration of membrane separa tion 
-equipment; Concentration polarization and fouling – causes, consequences and control 
+3. Membrane separation processes 
+Membrane - based separations theory; Design and configuration of membrane separa tion 
+equipment; Concentration polarization and fouling - causes, consequences and control 
 techniques. Membrane modules: tubular module, flat sheet modules, spiral wound module, 
 hollow fiber membrane. Classification of membrane processes: Based on hydrostat ic pressure, 
-concentration and applied electric field  
-                                             12 Hours                                                                                   
-4. Enrichment operations  
+concentration and applied electric field 
+                                             12 Hours 
+4. Enrichment operations 
 Precipitation methods with salts (salti ng-in and salting -out), organic solvents, polymers, 
 isoelectric precipitation. Extraction methods for separation: Reversed micellar extraction and 
-
-## Page 123
-
-FMCD2009 / 2.0 123 
- 
-BACK 
- 
-Aqueous two -phase extraction, Supercritical extraction; In situ product removal / integrated 
-bio-processing, SDS PAGE: determination of molecular weight of unknown protein. Numerical.                                                                                                                                   
-08 Hours  
+ ## Page 123
+ FMCD2009 / 2.0 123 
+  BACK 
+  Aqueous two -phase extraction, Supercritical extraction; In situ product removal / integrated 
+bio-processing, SDS PAGE: determination of molecular weight of unknown protein. Numerical. 
+08 Hours 
 Unit III 
-5. Product recovery-I  
+5. Product recovery-I 
 Introduction to chromatography: Principle, instrumentation and practices ( Van Deemter 
 equation). Derivation of equation for resolution of peaks, Preparative High Performance Liquid 
 Chromatography for recovery of product, Ion Exchange Chromatography for separation of ionic 
 compounds, numericals. 
-                                                                 05 Hours                                                                                                                                                        
-6. Product recovery-II  
+                                                                 05 Hours 
+6. Product recovery-II 
 Gel Filtration Chromatography for molecular weight determination. Affinity Chromatography 
 for purification of protein in cell free extract. Polishing Operations: Crystallization, Drying and 
-Freeze drying or lyophilization                                                                                                                                                      
-                                                                                                                                            05 Hours                   
+Freeze drying or lyophilization 
+                                                                                                                                            05 Hours 
 Text Books: 
 1. B. Sivasankar, Bioseparations: Principles and Techniques , Eastern Economy Edit, 
 Prentice-H, 2005 
@@ -4130,59 +3628,52 @@ Reference Books:
 1. BIOTOL, Product Recovery in Bioprocess Technology, VCH, 1990 
 2. Shuler and Kargi , Bioprocess Engineering , Prentice Hall, 1992 
 3. Asenjo J. and Dekker M, Separation Processes in Biotechnology , 1993 CRC Press 
-
-## Page 124
-
-FMCD2009 / 2.0 124 
- 
-Program: Biotechnology Semester: VII 
+ ## Page 124
+ FMCD2009 / 2.0 124 
+  Program: Biotechnology Semester: VII 
 Course Title: Bioprocess Equipment Design Course Code: 24EBTC402 
-L-T-P:: 3-0-0 Credits:3.0 Contact Hours: 03  
+L-T-P:: 3-0-0 Credits:3.0 Contact Hours: 03 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration: 3 Hours  
-Unit – I 
-1.Notation and terminologies  
- Pipe Joints:  Flanged pipe joint, Hydraulic pipe joint, Gland & stuffing box expansion joint, 
+Teaching Hours:40 Examination Duration: 3 Hours 
+Unit - I 
+1. Notation and terminologies 
+ Pipe Joints: Flanged pipe joint, Hydraulic pipe joint, Gland & stuffing box expansion joint, 
 Union joint, Socket & spigot Joint. Welded joints: Butt, Fillet, lap welded joint. Vessel openings: 
 Manholes, nozzles, drains, sight Glasses. Pipe design: Basic notation and terminologies, 
 Schedule 10 and 40. Introduction to design. 
-04 Hours   
-2.Materials of Construction 
-    Material properties: Mechanical & types of Corrosion; Materials use d: Stainless steel  and 
-their   alloys,    properties of different metals used in stainless steel, Selection criteria, Different  
-Standards (Indian steel codes, American Society for Mechanical Engineers-Bioprocess  Engineer 
-(ASME BPE ) standard, AISI (American Iron & Steel Institute) standard),  different Stainless steel 
+04 Hours 
+2. Materials of Construction 
+    Material properties: Mechanical & types of Corrosion; Materials use d: Stainless steel and 
+their alloys, properties of different metals used in stainless steel, Selection criteria, Different 
+Standards (Indian steel codes, American Society for Mechanical Engineers-Bioprocess Engineer 
+(ASME BPE ) standard, AISI (American Iron & Steel Institute) standard), different Stainless steel 
 grade: 304, 316. 
                                                                                                                                            08 Hours 
-Unit – II 
-1.Design of Bioreactor 
-Fermenter: Steps involved in the design: Volume of Reactor, H/D ratio, impeller design,  baffle 
+Unit - II 
+1. Design of Bioreactor 
+Fermenter: Steps involved in the design: Volume of Reactor, H/D ratio, impeller design, baffle 
 design, shaft design, Thickness of the shell, thickness of the top & bottom cover, thickness of 
 jocket, heat transfer area of jacket, power number, power required to drive the Impeller. 
-09 Hours     
-2.Design of shell and tube Heat exchanger 
+09 Hours 
+2. Design of shell and tube Heat exchanger 
 Heat exchangers: Steps involved in the design, Energy balance, LMTD, Tubing characteristics, 
 Tube side heat transfer coefficient, baffle spacing, shell si de heat transfer coefficient, Fouling, 
-Overall heat transfer coefficient, Tube side & shell side Pressure drop Calculations.  
-                                                                                                                                           09 Hours                                                                                                                                                                                                                               
- 
-## Page 125
-
-FMCD2009 / 2.0 125 
- 
-BACK 
- 
-Unit – III 
-3.Equipment qualification & Validation 
+Overall heat transfer coefficient, Tube side & shell side Pressure drop Calculations. 
+                                                                                                                                           09 Hours 
+  ## Page 125
+ FMCD2009 / 2.0 125 
+  BACK 
+  Unit - III 
+3. Equipment qualification & Validation 
 Design qualification, FAT (factory acceptance test), Site acceptance test, Commissioning, 
 Installation Qualification, Operational qualification, Perform ance qualification, Equipment 
 Validation. 
 05 Hours 
-4.Bioreactor Accessories  
+4. Bioreactor Accessories 
 Sterilization by filters, Design criteria for filters, filter housing, Filter Int egrity test: Diffusive air 
 flow test, Bubble point test, Pressure drop test, Water intrusion test; Valves: Diaphr agm valve, 
-Pneumatic valve, pinch valve, Non -return safety  Valve; Aseptic s eals in fermenter (Gasket, Lip 
-seal, O rings).   
+Pneumatic valve, pinch valve, Non -return safety Valve; Aseptic s eals in fermenter (Gasket, Lip 
+seal, O rings). 
                                                                                                                                            05 Hours 
 Text Books: 
 1. Chemical Engineering Design by R K Sinnott, vol -6, 4th editi on, Butterworth -
@@ -4190,93 +3681,83 @@ Heinemann, 2005.
 2. Process Equipment Design by M. V. Joshi & V. V. Mahajani, 5th edition, Macmillan India 
 Ltd, 2016. 
 Reference Books: 
-1. Fermentation & Biochemical engineering handbook by H. C. Vogel  & C. L. Todaro, 3 rd 
+1. Fermentation & Biochemical engineering handbook by H. C. Vogel & C. L. Todaro, 3 rd 
 edition, Standard publishers distributors. 
 2. Introduction to chemical equipment design by B. C. Bhattacharyya, 1 st e-book edition, 
-CBS      Publishers & distributors, 2018 
-
-## Page 126
-
-FMCD2009 / 2.0 126 
- 
-Program: Biotechnology Semester: VII 
-Course Title:      CIPE & EVS Course Code: 15EHSA401 
-L-T-P::  Audit Credits: Audit Contact Hours: 32 
+CBS Publishers & distributors, 2018 
+ ## Page 126
+ FMCD2009 / 2.0 126 
+  Program: Biotechnology Semester: VII 
+Course Title: CIPE & EVS Course Code: 15EHSA401 
+L-T-P:: Audit Credits: Audit Contact Hours: 32 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours: 32 Examination Duration: 3 Hours  
-Unit – I 
-1. Features of Indian Constitution  
+Teaching Hours: 32 Examination Duration: 3 Hours 
+Unit - I 
+1. Features of Indian Constitution 
 Features of Indian Constitution, Preamble to the constitution of India, Fundamental rights 
-under Part III – details of Exercise of rights, Limitations & Important cases. Berubari Union and 
+under Part III - details of Exercise of rights, Limitations & Important cases. Berubari Union and 
 Exchange of Enclaves, KesavanandBharati vs. UOI, Maneka Gandhi vs. UOI, Air India Ltd. vs. 
-NargeesMeerza,  T.M.A. Pai Foundation v. St. of Karnataka, M.C. Mehta vs. UOI etc., 
+NargeesMeerza, T.M.A. Pai Foundation v. St. of Karnataka, M.C. Mehta vs. UOI etc., 
 04 Hours 
-2. Relevance of Directive principles of State Policy  
+2. Relevance of Directive principles of State Policy 
 Relevance of Directive principles of State Policy under Part IV, Fundamental duties & their 
-significance. SarlaMudgal v. UOI  
+significance. SarlaMudgal v. UOI 
 03 Hours 
-3. Union  
-Union – President, Vice President, Union Council of Ministers, Prime Minister, Parliament & the 
+3. Union 
+Union - President, Vice President, Union Council of Ministers, Prime Minister, Parliament & the 
 Supreme Court of India. 
 04 Hours 
-4. State  
-State – Governors, State Council of Ministers, Chief Minister, State Legislature and Judiciary.  
+4. State 
+State - Governors, State Council of Ministers, Chief Minister, State Legislature and Judiciary. 
 02 Hours 
-5. Constitutional Provisions for Scheduled Castes & Tribes  
+5. Constitutional Provisions for Scheduled Castes & Tribes 
 Constitutional Provisions for Scheduled Castes & Tribes, Women &Children & Backward 
 classes, Emergency Provisions. 
 02 Hours 
-6. Electoral process  
+6. Electoral process 
 Electoral process, Amendment procedure, 42nd, 44th and 86th Constitutional amendments. 
 02 Hours 
-Unit – II 
-7. Scope & Aims of Engineering Ethics  
+Unit - II 
+7. Scope & Aims of Engineering Ethics 
 Scope & Aims of Engineering Ethics: Meaning and purpose of Engineering Ethics, Responsibility 
 of Engineers, Impediments to responsibility, Honesty, Integrity and reliability, risks, safety & 
-liability in engineering. Bhopal Gas Tragedy, Titanic case.  
+liability in engineering. Bhopal Gas Tragedy, Titanic case. 
 05 Hours 
-8. Intellectual Property Rights  
+8. Intellectual Property Rights 
 03 Hours 
-
-## Page 127
-
-FMCD2009 / 2.0 127 
- 
-BACK 
- 
-9.  Ethical perspectives of professional bodies  
-Ethical perspectives of professional bodies- IEEE, ASME, NSPE and ABET, ASCE etc.        03 Hours 
-Unit – III 
-10. Effects of human activities on environment  
+ ## Page 127
+ FMCD2009 / 2.0 127 
+  BACK 
+  9. Ethical perspectives of professional bodies 
+Ethical perspectives of professional bodies- IEEE, ASME, NSPE and ABET, ASCE etc. 03 Hours 
+Unit - III 
+10. Effects of human activities on environment 
 Effects of human activities on environment - Agriculture, Housing, Industry, Mining, and 
 Transportation activities, Environmental Impact Assessment, Sustainability and Sustainable 
-Development.   
+Development. 
 02 Hours 
-11. Environmental Protection  
-Environmental Protection – Constitutional Provisions and Environmental Laws in India.  
+11. Environmental Protection 
+Environmental Protection - Constitutional Provisions and Environmental Laws in India. 
 02 Hours 
-Text Books (List of books as mentioned in the approved syllabus)  
-1. Dr. J. N. Pandey, “Constitutional Law of India”, Central Law Agency, 2005 
-2. Dr. M.K. Bhandari, “Law relating  to Intellectual Property Rights”, Central Law 
+Text Books (List of books as mentioned in the approved syllabus) 
+1. Dr. J. N. Pandey, "Constitutional Law of India", Central Law Agency, 2005 
+2. Dr. M.K. Bhandari, "Law relating to Intellectual Property Rights", Central Law 
 Publicaitons, Allahabad, 2010. 
-3. Charles E. Harris and others, “Engineering Ethics: Concepts and Cases”, Thomson 
+3. Charles E. Harris and others, "Engineering Ethics: Concepts and Cases", Thomson 
 Wadsworth, 2003 
 References 
-1. Durga Das Basu, “Introduction to the Constitution of India”, Prentice-hall EEE, 2001 
-2. Mike Martin and Ronald Schinzinger, “Ethics in Engineering”, Tata McGraw -Hill 
+1. Durga Das Basu, "Introduction to the Constitution of India", Prentice-hall EEE, 2001 
+2. Mike Martin and Ronald Schinzinger, "Ethics in Engineering", Tata McGraw -Hill 
 Publications. 
- 
-## Page 128
-
-FMCD2009 / 2.0 128 
- 
-Program: Biotechnology Semester: VII 
-Course Title:  Senior Design Project Course Code: 20EBTW401 
-L-T-P:: 0-0-6 Credits:6.0 Contact Hours: 03  
+  ## Page 128
+ FMCD2009 / 2.0 128 
+  Program: Biotechnology Semester: VII 
+Course Title: Senior Design Project Course Code: 20EBTW401 
+L-T-P:: 0-0-6 Credits:6.0 Contact Hours: 03 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours: NA Examination Duration: 3 Hours  
+Teaching Hours: NA Examination Duration: 3 Hours 
 Preamble: 
-The engineering graduate’s senior design project work is an essential p art of the curriculum 
+The engineering graduate's senior design project work is an essential p art of the curriculum 
 structure which integrates all the skills acquired during all the theory and laboratory courses 
 addressing Bioprocess Engineering and Molecular Biotechnology verticals. The senior design 
 project work requires exhaustive literature sur vey to define the problem statement and 
@@ -4294,10 +3775,10 @@ Senior design project Themes are open and defined in following areas of research
 4. Phytochemistry 
 5. Bioinformatics and In-silico approach 
 6. Process Optimization 
-Guidelines:        
-1. Project has to be carried out in teams (4 members).  
+Guidelines: 
+1. Project has to be carried out in teams (4 members). 
 2. Every team needs to maintain Project work book which contains details of all the work 
-carried out in the laboratory  
+carried out in the laboratory 
 3. Make entries in log books for instrument usage. 
 4. Adhere on timely report submission to the project coordinator. 
 5. Provide prior requisitions for any project work 
@@ -4307,17 +3788,13 @@ Review committee:
 Review committee is formed by the project coordinator taking into consideration each 
 review committee has faculty experts of all the domains. Review committee consists of the 
 guide of the respective project group also. 
-
-## Page 129
-
-FMCD2009 / 2.0 129 
- 
-BACK 
- 
-Review: 
- In semester assessment (ISA) will be done by the  respective guides/review committee as 
+ ## Page 129
+ FMCD2009 / 2.0 129 
+  BACK 
+  Review: 
+ In semester assessment (ISA) will be done by the respective guides/review committee as 
 per the rubrics. 
- Total of 4 reviews  per semester will be carried out to evaluate the progress of the 
+ Total of 4 reviews per semester will be carried out to evaluate the progress of the 
 projects. 
  During each review, team has to present the project work carried out (Viva-Voce or PPT). 
  End semester Assessment (ESA) evaluation will be done by appointed examiners. 
@@ -4329,24 +3806,20 @@ Sl. No Phase Marks
 4. Final submission phase 20 
 5. End Semester Assessment- External review 50 
 TOTAL 100 
-  
-## Page 130
-
-FMCD2009 / 2.0 130 
- 
-BACK 
- 
-Program: Biotechnology Semester: VII 
-Course Title:  Downstream Processing Technology Lab Course Code:23EBTP401 
-L-T-P:: 0-0-1 Credits:1.0 Contact Hours: 02  
+   ## Page 130
+ FMCD2009 / 2.0 130 
+  BACK 
+  Program: Biotechnology Semester: VII 
+Course Title: Downstream Processing Technology Lab Course Code:23EBTP401 
+L-T-P:: 0-0-1 Credits:1.0 Contact Hours: 02 
 ISA Marks:80 ESA Marks:20 Total Marks:100 
-Teaching Hours:24 Examination Duration: 3 Hours  
+Teaching Hours:24 Examination Duration: 3 Hours 
 List of Experiments 
 1. Cell disruption technique: Sonication. 
 2. Determination of cake and filter medium resistance for separation of biomass by 
 Filtration. 
 3. Determination of settling velocity and RCF of biomass separation by centrifugation. 
-4. Determination of percentage recovery of proteins from broth by aqueous Two – 
+4. Determination of percentage recovery of proteins from broth by aqueous Two - 
 Phase Extraction process. 
 5. Determination of Isoelectric point of protein by isoelectric precipitation. 
 6. Membrane Separation methods: Tangential Flow Filtration. 
@@ -4355,54 +3828,47 @@ Phase Extraction process.
 9. Estimation of metabolite using high performance liquid chromatography 
 10. Determination of asymmetry and HETP of Akta Start column chromatography 
 Text Books/ Reference Books: 
-1. Bioseparations: Principle & Technique; Shiv Shankar B.;  PHI LEARNING PRIVATE 
-LIMITED;2009 
-2. Bioseparations: Downstream Processing for Biotechnology;  Paul A. Belter E. L. Cussler 
+1. Bioseparations: Principle & Technique; Shiv Shankar B.; PHI LEARNING PRIVATE 
+LIMITED; 2009 
+2. Bioseparations: Downstream Processing for Biotechnology; Paul A. Belter E. L. Cussler 
 Wei-Shou Hu; WILEY INDIA PVT. LTD.-NEW DELHI; 2011 
 3. Separation Processes in Biotechnology; Juan A. Asenjo; CRC Press (28 June 1990). 
-Protein Purification : Principles and Practice; Robert K Scopes;Springer; 2010 December 
-
-## Page 131
-
-FMCD2009 / 2.0 131 
- 
-BACK 
- 
-Program: Biotechnology Semester: VII 
-Course Title:  Mammalian Cell Culture Techniques Lab Course Code:23EBTP402 
-L-T-P:: 0-0-1 Credits:1.0 Contact Hours: 02  
+Protein Purification : Principles and Practice; Robert K Scopes; Springer; 2010 December 
+ ## Page 131
+ FMCD2009 / 2.0 131 
+  BACK 
+  Program: Biotechnology Semester: VII 
+Course Title: Mammalian Cell Culture Techniques Lab Course Code:23EBTP402 
+L-T-P:: 0-0-1 Credits:1.0 Contact Hours: 02 
 ISA Marks:80 ESA Marks:20 Total Marks:100 
-Teaching Hours:24 Examination Duration: 3 Hours  
+Teaching Hours:24 Examination Duration: 3 Hours 
 List of Experiments 
 1. Study of facilities and equipments of Mammalian cell culture lab 
 2. Aseptic technique and Good cell culture practice. 
 3. Preparation of cell culture media and sterilization 
 4. Study of primary cell cultures 
-5. Initiation of cell culture by revival of cryopreserved cells  
+5. Initiation of cell culture by revival of cryopreserved cells 
 6. Study of Monolayer and Suspension cell line cultures and growth monitoring 
 7. Subculture of monolayer/suspension cell cultures 
 8. Typhon Blue staining and Counting of Monolayer and Suspension cell cultures 
-9. Cell Viability Assay – MTT Assay. 
+9. Cell Viability Assay - MTT Assay. 
 10. Cryopreservation of cell cultures by freezing method. 
 Text Books: 
 1. Culture of Animal Cells: A Manual of Basic Technique and Specialized Applications, R. 
-Ian  
+Ian 
 Freshne, John Wiley & Sons, 2016, Seventh edition. 
 2. Animal Cell Culture - Practical Approach, Ed. John R.W. Masters, OXFORD, Third 
 edition, 
 2000. 
- 
-## Page 132
-
-FMCD2009 / 2.0 132 
- 
-Program: Biotechnology Semester: VII 
-Course Title:  Research experience for undergraduates 
+  ## Page 132
+ FMCD2009 / 2.0 132 
+  Program: Biotechnology Semester: VII 
+Course Title: Research experience for undergraduates 
 (REU) 
 Course Code: 17EBTE490 
 L-T-P:: 0-0-6 Credits:6.0 Contact Hours: 18 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours: NA Examination Duration: 3 Hours  
+Teaching Hours: NA Examination Duration: 3 Hours 
 Preamble: 
 REU is an initiative being implemented for students of VII semester. It is exclusive course 
 designed to motivate and nurture students aspiring for research at early stage. The course 
@@ -4414,10 +3880,10 @@ Interested students apply with their academic credentials till VI semester. The 
 selected based on their CGPA and i ndividual counselling. Selected candidates undertake 
 REU with their supervisors for VII semester and submit a report. The outcomes are 
 expected in the form of conference/journal publications. Also a REU journal, which is a 
-compilation of all REU papers, is  published as internal circulation at the university level 
+compilation of all REU papers, is published as internal circulation at the university level 
 every year. 
-Guidelines:        
-1. REU has to be carried out individually.  
+Guidelines: 
+1. REU has to be carried out individually. 
 2. Each REU student needs to maintain laboratory work book which contains details of all 
 the work carried out in the laboratory. 
 3. Make entries in log books for instrument usage. 
@@ -4425,62 +3891,51 @@ the work carried out in the laboratory.
 5. Provide requisitions beforehand for any project work 
 Review committee: 
 Review committee is formed by the REU coordinator taking into consideration each review 
-committee has faculty experts from all the domains.  
-  
-REU Evaluation: 
+committee has faculty experts from all the domains. 
+   REU Evaluation: 
 Phase Review Marks Review members 
- 
-1 
+  1 
 (Summer 
 semester) 
 Review-1 15 Guide/s 
 Review-2 15 Guide/s 
 Review-3 20 Committee 
 2 Review-4 25 Guide/s 
-
-## Page 133
-
-FMCD2009 / 2.0 133 
- 
-BACK 
- 
-(Seventh 
+ ## Page 133
+ FMCD2009 / 2.0 133 
+  BACK 
+  (Seventh 
 Semester) 
- 
-Review-5 25 Committee 
- 
-ESA 
+  Review-5 25 Committee 
+  ESA 
 Report 50 Guide/s 
 Viva-voce 50 External 
-Total       200  
-   
-## Page 134
-
-FMCD2009 / 2.0 134 
- 
-Program: Biotechnology Semester: VII 
+Total 200 
+    ## Page 134
+ FMCD2009 / 2.0 134 
+  Program: Biotechnology Semester: VII 
 Course Title: Industrial Biotechnology Course Code: 20EBTE401 
-L-T-P:: 3-0-0 Credits:3.0 Contact Hours: 03  
+L-T-P:: 3-0-0 Credits:3.0 Contact Hours: 03 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration: 3 Hours  
+Teaching Hours:40 Examination Duration: 3 Hours 
 Unit I 
 1 Introduction 
 History of fermentation products, Range of fermentation process: Traditional approach: 
 biomass, enzymes, meta bolites and biotransformation; Modern fermentation process: rDNA 
 products, animal cell culture: therapeutic proteins, monoclonal antibodies; application of 
-system biology approach; generalized representation of typical fermentation process.   
+system biology approach; generalized representation of typical fermentation process. 
 05 Hours 
 2. Isolation and improvement of industrial microorganisms 
 Isolation methods: Primary screening and secondary screening; Improvement of industrial 
 microorganism: selection of induced mutants for primary and secondary metabolites, isolation 
-of revertant mutants, use of rDNA systems, and improvement by other properties.  
+of revertant mutants, use of rDNA systems, and improvement by other properties. 
                                                                                                                                             05 Hours 
 3. Fermentation products 
-Beverages (beer), Etha nol, Aminoacids, enzymes  (lipase/protease), penicillin, therapeutic 
+Beverages (beer), Etha nol, Aminoacids, enzymes (lipase/protease), penicillin, therapeutic 
 proteins, monoclonal antibodies and vaccines. 
                                                                                                                                             05 Hours 
 Unit II 
- 4  Bioreactor configuration-I 
+ 4 Bioreactor configuration-I 
 CSTR with recycle, CSTR in series, Airlift reactor, Fluidized bed bioreactor, bubble column 
 bioreactor, packed bed bioreactor, tickle bed bioreactor, deep jet bioreactor, rotating disc 
 bioreactor. 
@@ -4494,58 +3949,50 @@ bag bioreactor, Perfusion system- single use reactor and Open raise ponds, photo
 6. Advance downstream processing 
 Process integration in product recovery, large scale refolding of therapeutic proteins, advanced 
 membrane technology, Chromatography: column quantification and validation, AKTA purifier, 
-reversed micellar technique for bio separation Single use technology in purification.   05 Hours                                                                        
-
-## Page 135
-
-FMCD2009 / 2.0 135 
- 
-BACK 
- 
-Unit III 
+reversed micellar technique for bio separation Single use technology in purification. 05 Hours 
+ ## Page 135
+ FMCD2009 / 2.0 135 
+  BACK 
+  Unit III 
 7. Fermentation monitoring and control: 
 On-line and off -line monitoring instruments, Bioprocess modeling for control, Estimation 
 technique: Traditional method, linear black-box model and non-linear model; control strategies 
 for fermentation, real time data analysis: Raman spectroscopy. 
 05 Hours 
-8.  Fermentation data analysis: 
+8. Fermentation data analysis: 
 Introduction, classification of fermentation measurement and quantities, calculation of 
 metabolites, estimation of unmeasured variables, calculation of integral and averaged variable, 
 physiological variable and pattern recognition technique, SIMCA software. 
-                                                                                                                                           05 Hours              
+                                                                                                                                           05 Hours 
 Text Books: 
-1. L.E.Casida,JR ,Industrial Microbiology, New Age International (P) Ltd 
+1. L.E.Casida, JR ,Industrial Microbiology, New Age International (P) Ltd 
 Publication. 
 2. Prescot and Dun, Industrial Microbiology, McGraw-Hill Book Company, Inc. New York 
- 
-Reference Books: 
-1. D.Lanch,Drew,Wang, Comprehensive Biotechnology-Volume 3,Elsevier Publication. 
+  Reference Books: 
+1. D.Lanch, Drew, Wang, Comprehensive Biotechnology-Volume 3, Elsevier Publication. 
 2. George T. Austin, Nicholas Basta; Shreves Chemical Process Industries Handbook; 
 McGraw Hill Professional, 1998 
-
-## Page 136
-
-FMCD2009 / 2.0 136 
- 
-Program: Biotechnology Semester: VII 
-Course Title:  Food Processing Technology Course Code:15EBTE402 
-L-T-P:: 3-0-0 Credits:3.0 Contact Hours: 03  
+ ## Page 136
+ FMCD2009 / 2.0 136 
+  Program: Biotechnology Semester: VII 
+Course Title: Food Processing Technology Course Code:15EBTE402 
+L-T-P:: 3-0-0 Credits:3.0 Contact Hours: 03 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration: 3 Hours  
+Teaching Hours:40 Examination Duration: 3 Hours 
 Unit I 
 1. Fundamentals of Food Processing Technology 
-Basic concepts about properties  of foods: liquid, solid and gases; Introduction to food 
-processing: scope and significance; Principles of food processing and preservation  
-                                                                                                                                            04 Hours  
-2.  Microbial Food Spoilage 
+Basic concepts about properties of foods: liquid, solid and gases; Introduction to food 
+processing: scope and significance; Principles of food processing and preservation 
+                                                                                                                                            04 Hours 
+2. Microbial Food Spoilage 
  Food as substrate for microorga nisms, Primary sources of micro organisms in foods, Microbes 
 induced biochemical changes in foods, Micro biological Examination of foods, Food poisoning, 
-and types . ,  A brief account of various organisms related with food poisoning - E. coli, 
+and types . , A brief account of various organisms related with food poisoning - E. coli, 
 Clostridium, Bacillus, Staphylococcus and Vibrio 
-.                                                                                                                                           07 Hours 
+. 07 Hours 
 3. Food biotechnology and Applications 
  Enzymes, organic acids, antibiotics, baker's yeast, single cell protein and Mushrooms. 
-Biocolours, Concept of  fermented foods and beverages, Probiotics, Prebiotics & Symbiotics,  
+Biocolours, Concept of fermented foods and beverages, Probiotics, Prebiotics & Symbiotics, 
 Genetically Modified Foods 
                                                                                                                                             04 Hours 
 Unit II 
@@ -4553,62 +4000,54 @@ Unit II
 Introduction, Food Engineering operations- raw material preparation, cleaning, sorting, grading 
 and peeling. Food conversion operations - size reduction, emulsification, filtration, membrane 
 separation, centrifugation and extraction. Pulsed Electric Field processing, High -Pressure 
-Processing,                                                                                                                         
+Processing, 
  04 Hours 
- 
-5. Thermal Processing of Foods 
+  5. Thermal Processing of Foods 
 Heat processing using steam or water, Blanching, Pasteurization, Heat Sterilization, 
-
-## Page 137
-
-FMCD2009 / 2.0 137 
- 
-BACK 
- 
-Evaporation, Distillation, Extrusion and Canning. dielectric heating, ohmic and infrared heating. 
+ ## Page 137
+ FMCD2009 / 2.0 137 
+  BACK 
+  Evaporation, Distillation, Extrusion and Canning. dielectric heating, ohmic and infrared heating. 
 Dehydration, Intermediate Moisture Foods, Baking and Roasting, Heat processing using hot 
-oils- Frying.                                                                                                                          
+oils- Frying. 
 06 Hours 
-6.Non-Thermal Processing of Foods 
+6. Non-Thermal Processing of Foods 
 Chilling, Freezing, Freeze -drying, Vacuum Concentration, Processing by chemical methods - 
-sugar, salt, curing, smoking, acid and chemicals. Irradiation of foods. Control led and Modified–
-Atmosphere Packaging. Concept of hurdle technology.                                                   
-   05 Hours                                    
+sugar, salt, curing, smoking, acid and chemicals. Irradiation of foods. Control led and Modified-
+Atmosphere Packaging. Concept of hurdle technology. 
+   05 Hours 
 Unit III 
-7. Food Product Development  
+7. Food Product Development 
 Concept and need of new product development, testing and sensory evaluation, Development 
 of product formulation and development,, Role of food ingredients in human health Packaging 
 and shelf life of food products. Concept of Functional Foods and Nutraceuticals. 
                                                                                                                                             05 Hours 
-8. Food laws, Labeling and Regulatory Bodies  
+8. Food laws, Labeling and Regulatory Bodies 
 Food Laws- General Standards and Regulations as per FSSAI, Regulatory bodies governing food 
 laws. Certification and labeling of foods. Concept of HACCP and AGMARK 
                                                                                                                                             05 Hours 
 Text Books: 
 1. P .J.Fellows, Food Processing Technolo gy. Principles and Practices, Second Edition, 
-Woodland Publishing Ltd,Cambridge,England,2002 
+Woodland Publishing Ltd, Cambridge, England, 2002 
 2. Avantina Sharma, Text Book of Food Science and Technology, International Book 
 Distributing Co, Lucknow, UP , 2006 
 Reference Books: 
 1. Ramaswamy H & Marcotte M. Food P rocessing: Principles and Applications . Taylor & 
 Francis. 2006 
-
-## Page 138
-
-FMCD2009 / 2.0 138 
- 
-Program: Biotechnology Semester: VII 
-Course Title:   Environmental Biotechnology Course Code:22EBTE401 
-L-T-P:: 3-0-0 Credits:3.0 Contact Hours: 03  
+ ## Page 138
+ FMCD2009 / 2.0 138 
+  Program: Biotechnology Semester: VII 
+Course Title: Environmental Biotechnology Course Code:22EBTE401 
+L-T-P:: 3-0-0 Credits:3.0 Contact Hours: 03 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration: 3 Hours  
+Teaching Hours:40 Examination Duration: 3 Hours 
 Unit I 
-1. Introduction  
+1. Introduction 
 Issues and scope of Environmental Biotechnology, Environment and Biotechnology, Areas of 
 applications for Biotechnology. Microbes and Environm ent, Genetically modified organisms 
-and Legislation.                                                                                                                        
+and Legislation. 
   03 Hours 
-2. Waste Water Treatment  
+2. Waste Water Treatment 
 Sources of water pollution, Waste water charact eristics: Physical, Chemical and Biological 
 characteristics. Chemical Oxygen Demond (COD) and Biochemical Oxygen Demond (BOD). 
 Introduction to physical and chemical waste water treatment methods. Biological wastewater 
@@ -4616,10 +4055,10 @@ treatment methods: Aerobic suspended g rowth treatment processes (Activated Slud
 Process, aerared lagoons etc), Aerobic attached growth treatment processes (Trickling Filter, 
 Rotating Biological contactors), Anaerobic suspended growth treatment processes - contact 
 digestors, packed column reactors, UASB. Bioelectrochemical systems (BES) including microbial 
-fuel cells (MFCs).                                                                                                                              
+fuel cells (MFCs). 
  12 Hours 
 Unit II 
-3. Solid waste Management  
+3. Solid waste Management 
 Basic aspects, Generation of solid wastes, general composition of Municipal solid waste, On 
 site handling, storage and processing, Collection of solid wastes. Solid waste processing 
 techniques and equipments. Recovery of biological conversion products from solid waste such 
@@ -4633,28 +4072,23 @@ bioremediation of aromati c and aliphatic hydrocarbons, PCB dechlorination, immo
 techniques for bioremediation, biosorption & bioaccumulation, bioaugmentation and 
 biostimulation genetic engineering of microbes for bioremediation. Phytoremediation -plants 
 capable of assimil ating heavy metals. Bioleaching using microbes, role of Thiobacilli, direct & 
-
-## Page 139
-
-FMCD2009 / 2.0 139 
- 
-BACK 
- 
-indirect bioleaching, copper extraction by leaching, dump leaching.                                                                              
+ ## Page 139
+ FMCD2009 / 2.0 139 
+  BACK 
+  indirect bioleaching, copper extraction by leaching, dump leaching. 
 07 Hours 
 Unit III 
-5. Biofuels  
+5. Biofuels 
 Environmental Biotechnology and biofuels: biogas; bioethanol/biomethane; biodiesel; 
 biohydrogen, bioelectricity; Description of the industrial processes involved, microorganisms 
 and biotechnological interventions for optimization of production; phycoremedia tion- biofuels 
 through algal biotechnology; Microbiologically enhanced oil recovery (MEOR); Production of 
-biosurfactants: bioemulsifiers;                                                                                         
+biosurfactants: bioemulsifiers; 
 05 Hours 
- 
-6. Environmental Impact Assessment  
+  6. Environmental Impact Assessment 
 Introduction, Scope and history of EIA, Need of Environmental Impact assessment. Stakeholder 
 and public involvement, Identification and quantification of environmental effects and 
-Environmental Impact statement (EIS), Environmental Regulations.                              
+Environmental Impact statement (EIS), Environmental Regulations. 
   05 Hours 
 Text Books 
 1. Pramod Kumar , Vipin Kumar , Pravin Kumar Sachan , Textbook of Environmental 
@@ -4667,92 +4101,81 @@ Reference Books
 1. Ozcan Konur, Bioenergy and Biofuels, 1st edition, CRC press, 2018. 
 2. P . Rajendran, P . Gunasekaran, Microbial Bioremediation, 1 st edition, Mjp Publishers, 
 2011 
-
-## Page 140
-
-FMCD2009 / 2.0 140 
- 
-Program: Biotechnology Semester: VII 
+ ## Page 140
+ FMCD2009 / 2.0 140 
+  Program: Biotechnology Semester: VII 
 Course Title: Quality Assurance & Regulations Course Code:18EBTE403 
-L-T-P:: 3-0-0 Credits:3.0 Contact Hours: 03  
+L-T-P:: 3-0-0 Credits:3.0 Contact Hours: 03 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration: 3 Hours  
+Teaching Hours:40 Examination Duration: 3 Hours 
 Unit I 
- 1. Introduction  
+ 1. Introduction 
 Introduction to Quality and Quality Regulation, Validation and Regulatory Affairs in Bio 
 (Pharmaceutical) Manufacturing: An Introduction to FDA Operations & Industry Compliance 
-Regulations, The Fundamentals of Regulatory Compliance with respect to Good Clinical  
-Practice (GCP), Good Manufacturing Practice (GMP) & Good Laboratory Practice (GLP).   
+Regulations, The Fundamentals of Regulatory Compliance with respect to Good Clinical 
+Practice (GCP), Good Manufacturing Practice (GMP) & Good Laboratory Practice (GLP). 
                                                                                                                                           06 Hours 
-2. Quality and Quality Management  
+2. Quality and Quality Management 
 Terms Relating to Quality Management System, Quality Policy, Quality Objectives, Quality 
 Planning, Quality Control, Quality Assurance, Quality Improvement, Continual Improvement, 
 Effectiveness, Efficiency; Relating to Process and Product, Qual ity Characteristics; Terms 
 Relating to Conformity, Non-Conformity, Defect, Preventive Action, Corrective Action, Rework, 
 Repair, Scrap, Concession, Deviation Permit, Release; Terms Relating to Documentation. 
-                                                                                                             
-  10 Hours                                                     
+                                                                                                                10 Hours 
 Unit II 
 3. Process Validation 
 Definition and concept of validation, An introduction to process validation, Validation and 
-Qualification, IQ, OQ and PQ.  A Review of Prospective, Concurrent, Retrospective Validation 
+Qualification, IQ, OQ and PQ. A Review of Prospective, Concurrent, Retrospective Validation 
 Calibration and performance evaluation. Validation of Water & Thermal Systems, including 
 HVAC Facilities & Cleaning Validation. Validation septic Processes, Computer softwa re 
 validation in pharmaceuticals (CSV). 
                                                                                                                                            10 Hours 
-4. Analytical Method Validation  
-FDA and ICH guidelines.  Analytical method validation, Specificity, Linearity, Accuracy, Precision, 
+4. Analytical Method Validation 
+FDA and ICH guidelines. Analytical method validation, Specificity, Linearity, Accuracy, Precision, 
 Limits of detection (LOD) and quantification (LOQ), Minimum detectable amount (MDA), 
 Sample stability and method robustness, System suitability, Statistical process control for HPLC, 
-Troubleshooting out-of-control systems, Case studies, Validation of Analytical Methods.  
- 06 Hours                                                                                                                                                                                                               
-
-## Page 141
-
-FMCD2009 / 2.0 141 
- 
-BACK 
- 
-Unit III 
- 5.  Quality Standards  
+Troubleshooting out-of-control systems, Case studies, Validation of Analytical Methods. 
+ 06 Hours 
+ ## Page 141
+ FMCD2009 / 2.0 141 
+  BACK 
+  Unit III 
+ 5. Quality Standards 
 Introduction, ISO 9000 Series of Standards, Management Responsibility, Quality System, 
 Contract Review, Design Control, Document and Data Control, Control of Quality Records, 
-Internal Quality Audits, Training, Servicing, Environmental Management System.                                                                         
-                                                                                                                                           04 Hours                                                                                                                       
-6. Implementation and Regulation  
+Internal Quality Audits, Training, Servicing, Environmental Management System. 
+                                                                                                                                           04 Hours 
+6. Implementation and Regulation 
 Role of QC and QA in Bio/Pharmaceutical organization, Quality Syste m, Contract Review, 
 Design Control, Document and Data Control, Product Identification and Traceability, Process 
-Control,  Control of Quality Records, Internal Quality Audits, Training. 
+Control, Control of Quality Records, Internal Quality Audits, Training. 
                                                                                                                                            04 Hours 
 Text Books: 
 1. Pharmaceutical Process Validation by Robert Nash and Alfred Wachter, Marcel Dekker. 
-Publisher: Marcel Dekker Inc. 2011.  
+Publisher: Marcel Dekker Inc. 2011. 
 2. Good Manufacturing Practices for Pharmaceutic als: A Plan for Total Quality Control 
-From Manufacturer to Consumer, Sidney J. Willig, Publisher: Marcel Dekker Inc. 2005.    
+From Manufacturer to Consumer, Sidney J. Willig, Publisher: Marcel Dekker Inc. 2005. 
 Reference Books: 
 1. Validation of Pharmaceutical Processes: Sterile Products, Frederick J. Carlton (Ed.) and 
-James Agalloco (Ed.), Marcel Dekker, 2008.  
+James Agalloco (Ed.), Marcel Dekker, 2008. 
 2. Validation Standard Operating Procedures: A Step by Step Guide for Achieving 
 Compliance in the Pharmaceutical, Medical Device, and Biotech Industries , Syed Imtiaz 
-Haider, Saint Lucie Press, 2004.  
-
-## Page 142
-
-FMCD2009 / 2.0 142 
- 
-Program: Biotechnology Semester: VII 
-Course Title:  Process Safety & Risk management in 
+Haider, Saint Lucie Press, 2004. 
+ ## Page 142
+ FMCD2009 / 2.0 142 
+  Program: Biotechnology Semester: VII 
+Course Title: Process Safety & Risk management in 
 Industrial Biotechnology 
 Course Code:22EBTE402 
-L-T-P:: 3-0-0 Credits:3.0 Contact Hours: 03  
+L-T-P:: 3-0-0 Credits:3.0 Contact Hours: 03 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration: 3 Hours  
+Teaching Hours:40 Examination Duration: 3 Hours 
 Unit I 
-1.Introduction 
-Introduction to Industrial Hygiene, Basic Laboratory Safety & Personal Protective equipment’s 
+1. Introduction 
+Introduction to Industrial Hygiene, Basic Laboratory Safety & Personal Protective equipment's 
 (PPE). Risk & Risk Assessment, definition of Hazard and process of hazard identification, 
 frequency and severity of Hazard, Occupational Health and Safety Administration, Safety and 
-loss prevention, scope and outline of risk management. Legislation regarding process safety.                                                                                                                                                 
+loss prevention, scope and outline of risk management. Legislation regarding process safety. 
                                                                                                                                              05 Hours 
 2. Biological Hazards & Containment Levels 
 Classiﬁcation of biological hazards, Major pathological mechanisms for health effects 
@@ -4763,238 +4186,217 @@ Health Organization. Bio -waste. Genetically Modified Organisms (GMO): requireme
 other Environmental safety regulations. Containment Levels: Containment requirem ents 
 based on the assessment of potential biohazard, Biological safety cabinets (Class -I, Class -II& 
 Class-III) to provide personnel & environmental protection, Biological safety cabinets for safety 
-in Research & Manufacturing of Biological products.                                                                                                              
+in Research & Manufacturing of Biological products. 
 10 Hours 
 Unit II 
-3.Chemical safety and Fire Safety  
+3. Chemical safety and Fire Safety 
 Toxicity and safe handling of materials. Identification Material Safety Data Sheet (MSDS), 
 evaluating exposure to volatile toxicants. Industrial hygiene, Industrial Hygiene Regulations. 
 Runaway Reactions. Nature of Accidents and major disasters. Some Case Studies: Bhopal Gas 
 Tragedy, The Flixborough UK, Cyclohexane Disaster, Seveso Accident: July 10, 1976, etc. 
 Fire and Explosion, Work Place Hazards, Dangerous Substance, Fire triangle, Effective Ignition 
 Source, Fire Extinguishers. Designs to prevent Fire and Explosion. General Design Methods to 
-prevent Fire.                                                                                                                        
+prevent Fire. 
  05 Hours 
 4. Safe Handling Radioactive Materials/Radioactive Isotopes 
-Introduction to safe handling radioactive materials, Personal Protective Equipment and  
-Clothing, Precautions for  Using Radioactive Material, Radioactive Materials Safe Work 
+Introduction to safe handling radioactive materials, Personal Protective Equipment and 
+Clothing, Precautions for Using Radioactive Material, Radioactive Materials Safe Work 
 Practices, Fume Hoods and Biosafety Cabinets, Good Laboratory Practices , Radiation Safety 
-Committee (RSC).                                                                                                            05 Hours                 
-
-## Page 143
-
-FMCD2009 / 2.0 143 
- 
-BACK 
- 
-5. Risk Assessment  
+Committee (RSC). 05 Hours 
+ ## Page 143
+ FMCD2009 / 2.0 143 
+  BACK 
+  5. Risk Assessment 
 Risk Management, evaluating and analyzing risks associated with those hazards, actions to 
 eliminate the hazards, Risk Matrix, Acceptable risks and safety priorities, co st of saving a life, 
 frequency of accidents, safety check lists, assessment of risks from complex plants, Action and 
-Recommendation. Environmental hazards.                                                                       
-  05 Hours                                                                                                                                            
+Recommendation. Environmental hazards. 
+  05 Hours 
 Unit III 
 6. Hazard Identification and evaluation Techniques 
 Process for identifying hazards, Hazard Identification techniques such as H AZOP (Hazard and 
 Operability Analysis): basic principles, explanation of guide words, procedures, critical 
 examination of flowsheets, FMEA (Failure Modes and Effects Analysis), FTA (Fault Tree 
 Analysis). Event Tree Analysis (ETA), Cause Consequence Analysi s & Layer of Protection 
-Analysis. What-If Analysis.                                                                                                  
+Analysis. What-If Analysis. 
 05 Hours 
-7. Process Safety Audit and Standards  
+7. Process Safety Audit and Standards 
 Safety Audit: Key Elements of a Workplace Safety Audit, Saf ety Audit Checklist, Safety Audit 
 Report, Industrial Process Safety standards: Laws & Regulations. Occupational Health Hazards. 
 Occupational Safety and Health Administration (OSHA) and National Institute of Occupational 
-Safety and Health (NIOSH), Toxic Substance and Control Act (TSCA).                            
+Safety and Health (NIOSH), Toxic Substance and Control Act (TSCA). 
 05 Hours 
 Text Books: 
 1. Crowl D.A. and Louvar J.F., Chemical Process Safety: Fundamentals with Applications. 
 3rd Edition. Prentice Hall Publisher. 
-2. Lees F.P . Lee’s Loss Prevention in Process industries: Hazard Identification, Assessment 
+2. Lees F.P . Lee's Loss Prevention in Process industries: Hazard Identification, Assessment 
 and control. 4th Edition.Sa Mannan Publisher. 
 3. Chemical Process Safety: Fundamentals with Applications (International Series in the 
-Physical and Chemical Engineering Sciences)  Hardcover. 2011 by  Daniel Crowl  and 
+Physical and Chemical Engineering Sciences) Hardcover. 2011 by Daniel Crowl and 
 Joseph Louvar. 3rd Edition. Pearson Prentice Hall Publisher. 
 Reference Books: 
-1. Chemical Process Safety: Fundamentals with Applications, 3e  Paperback – 1 January 
-2013 by  Daniel A. Crowl and Joseph F. Louvar. 3rd Edition. Pearson Prentice Hall 
+1. Chemical Process Safety: Fundamentals with Applications, 3e Paperback - 1 January 
+2013 by Daniel A. Crowl and Joseph F. Louvar. 3rd Edition. Pearson Prentice Hall 
 Publisher. 
 2. What Went Wrong? Case Histories of Process Plant Disasters: How They Could Have 
 Been Avoided. By Kletz T. 5th Edition. Butterworth-Heinemann Publisher. 
-
-## Page 144
-
-FMCD2009 / 2.0 144 
- 
-Program: Biotechnology Semester: VII 
-Course Title:   Plant and Animal Biotechnology Course Code:15EBTE403 
-L-T-P:: 3-0-0 Credits:3.0 Contact Hours: 03  
+ ## Page 144
+ FMCD2009 / 2.0 144 
+  Program: Biotechnology Semester: VII 
+Course Title: Plant and Animal Biotechnology Course Code:15EBTE403 
+L-T-P:: 3-0-0 Credits:3.0 Contact Hours: 03 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration: 3 Hours  
+Teaching Hours:40 Examination Duration: 3 Hours 
 Unit I 
 1. Introduction to plant tissue culture 
 Introduction and scope of plant tissue culture. Historical events in the development of plant 
 tissue culture method. Practical applications and recent advances. Laboratory organization, 
 Cell culture media and its components. Aseptic manipulation in plant tissue culture laboratory. 
 . Ethical and Social issues related to development and release of transgenic plants with case 
-studies – Bt Cotton.  
+studies - Bt Cotton. 
                                                                                                                                           05 Hours 
-2. Methods and Techniques in Plant tissue Culture.  
-Callus and suspension culture, Micropropagation, Protoplast  culture & Somatic Hybridization, 
-Anther & Ovary  Culture, Somatic Embryogenesis, Embryo & Endosperm culture,  Somaclonal 
-variation Germplasm storage by cryopreservation – pretreatment for cryopreservation, 
-freezing, thawing, plant growth and regeneration and applications.                                                 
+2. Methods and Techniques in Plant tissue Culture. 
+Callus and suspension culture, Micropropagation, Protoplast culture & Somatic Hybridization, 
+Anther & Ovary Culture, Somatic Embryogenesis, Embryo & Endosperm culture, Somaclonal 
+variation Germplasm storage by cryopreservation - pretreatment for cryopreservation, 
+freezing, thawing, plant growth and regeneration and applications. 
 04 Hours 
-                                                                                                                    
-3. Introduction to animal cell and tissue culture 
+                                                                                                                     3. Introduction to animal cell and tissue culture 
 History and Scope of Animal cell and Tissue culture, Advantages and Disadvantages of Cell 
 culture, laboratory facilities for tissue culture. Culture media for cells and tissues. Laboratory 
-layout, Essential equipment’s and Consumable items, Aseptic Techniques - elements of aseptic 
-environment and culturing vessels Types  of tissue culture – Primary cultures and Cell lines 
+layout, Essential equipment's and Consumable items, Aseptic Techniques - elements of aseptic 
+environment and culturing vessels Types of tissue culture - Primary cultures and Cell lines 
 maintenance of cell line cultures 
                                                                                                                                          06 Hours 
 Unit II 
- 4.Culture characterization and culture maintenance 
+ 4. Culture characterization and culture maintenance 
 Need for characterization, Parameters of Characterization, Cell Morphology, Confocal 
 microscopy, DNA content analysis, Enzyme activity and Antigenic markers. Contamination in 
-cell culture – sources, monitoring and erad ication of contamination Cryopreservation and 
-transportation.                                                                                                                
+cell culture - sources, monitoring and erad ication of contamination Cryopreservation and 
+transportation. 
   04 Hours 
-                                                                                              
-## Page 145
-
-FMCD2009 / 2.0 145 
- 
-BACK 
+                                                                                               ## Page 145
+ FMCD2009 / 2.0 145 
+  BACK 
 5. Animal Cell culture Scale up and Automation 
 Introduction to scale up and automation. Scale up in suspension culture: Continuous culture, 
 Scale & complexities, Mixing & Aeration. Scale up in Monolayer culture: Multi surface 
 propagators, Roller culture, Microcarriers, and Perfused Monolayer culture. Process control 
-and Automation: Robotic cell culture and High throughput screening.                                    
+and Automation: Robotic cell culture and High throughput screening. 
  05 Hours 
 6. Animal cell culture and Biopharmaceuticals production 
 Mammalian cells as desired expression systems for protein biopharmaceuticals, Construction 
 and selection of high -producing cell lines, Medium development for mammalian cell culture, 
 and Process development for mammalian cell culture. Single use disposable animal cell culture 
-technologies for biopharmaceutical manufacturing.                                                           
-06 Hours                                                                                                                                            
+technologies for biopharmaceutical manufacturing. 
+06 Hours 
 Unit III 
 7. Plant Cell culture and Secondary Metabolite production 
 Introduction, Selection of high yield cells and Mass cultivation of plant cells: Free cell 
 suspension culture, Immobilized plant cell culture, and Two phase system cultur e. Elicitor 
 induced accumulation of products. Biotransformation using plant cell cultures, Genetic 
-modification and factors limiting large scale production of useful compounds.                                                         
-                                                                                                                                        05 Hours              
-8. Animal cell culture applications and Tissue engineering  
+modification and factors limiting large scale production of useful compounds. 
+                                                                                                                                        05 Hours 
+8. Animal cell culture applications and Tissue engineering 
 Hybridoma Technology and Animal cell culture applications in Monoclonal antibodies 
-production. Products of Animal tissue culture – Erythropoietin, Tissue Plasminogen Activator & 
-Factor VIII etc. Tissue Engineering – Introduction, Cell types, Extracellular matrix and Tissue 
+production. Products of Animal tissue culture - Erythropoietin, Tissue Plasminogen Activator & 
+Factor VIII etc. Tissue Engineering - Introduction, Cell types, Extracellular matrix and Tissue 
 engineering concepts. Artificial skin development by tissue engineering and its applications. 
                                                                                                                                       05 Hours 
 Text Books: 
-1.  Introduction to Plant tissue culture Second edit ion. M K Razdan Oxford & IBH 
+1. Introduction to Plant tissue culture Second edit ion. M K Razdan Oxford & IBH 
 Publishing Co Pvt Ltd, New Delhi. 2003 
-2. Animal Cell Culture – Concept and Application by Sheelendra M Bhatt, Narosa 
-Publishing House, New Delhi  ISBN: 978-81-7319-926-4 
+2. Animal Cell Culture - Concept and Application by Sheelendra M Bhatt, Narosa 
+Publishing House, New Delhi ISBN: 978-81-7319-926-4 
 Reference Books: 
 1. Introduction to Plant Cell, Tissue and Organ culture Sunil D Purohit PHI Learning Private 
-Ltd, New Delhi 2013. ISBN – 978-81-203-4677-2 
-2. Culture of Animal Cells -  A Manual of Basic Technique  by R. Ian Freshney  A John Wiley 
-&     Sons, Inc., Publication New York  (2000) 
-
-## Page 146
-
-FMCD2009 / 2.0 146 
- 
-Program: Biotechnology Semester: VII 
-Course Title:  Biopharmaceuticals Course Code:24EBTE404 
-L-T-P:: 3-0-0 Credits:3.0 Contact Hours: 03  
+Ltd, New Delhi 2013. ISBN - 978-81-203-4677-2 
+2. Culture of Animal Cells - A Manual of Basic Technique by R. Ian Freshney A John Wiley 
+& Sons, Inc., Publication New York (2000) 
+ ## Page 146
+ FMCD2009 / 2.0 146 
+  Program: Biotechnology Semester: VII 
+Course Title: Biopharmaceuticals Course Code:24EBTE404 
+L-T-P:: 3-0-0 Credits:3.0 Contact Hours: 03 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration: 3 Hours  
+Teaching Hours:40 Examination Duration: 3 Hours 
 Unit I 
-1. Introduction:   
+1. Introduction: 
 Introduction to pharmaceutical industry, API and pharmaceutical products, Formulation 
 Industry, Introduction to dosage forms, conventional dosage forms, Biopharmaceuticals & 
 Biotechnology, Biopharmaceuticals: Current status & future prospec ts. Drug discovery & 
 development process, Clinical research, pre -clinical testing in -vitro & in -vivo methods, drug 
 safety & pharmacovigilence, Sources of Biopharmaceuticals, Dosage forms and routes of drug 
-administration.                                                                                    
+administration. 
                                                                                                                           06 Hours 
-2. Pharmacokinetic and Pharmacodynamics of Peptide & Protein Drugs:   
+2. Pharmacokinetic and Pharmacodynamics of Peptide & Protein Drugs: 
 Introduction to pharmacokinetics and pharmacodynamics, Disease target identification & 
 selection, receptor based apporach, drug as agonist & antagonist, Pharmacokinetics of protein 
-therapeutics, ADME study for small molecules & protein therapeutics, optimization  of 
+therapeutics, ADME study for small molecules & protein therapeutics, optimization of 
 pharmacokinetic profile, Pharmacodynamics of protein therapeutics, PK/PD Models. Drug 
 metabolism, Phase -I and Phase -II reactions. CYP Families - case study, Drug side effects and 
-adverse effects, drug toxicity, Pharmacogenomics & personalized medicine.                        
+adverse effects, drug toxicity, Pharmacogenomics & personalized medicine. 
                                                                                                                           10 Hours 
-3. The Drug Manufacturing Process:  
+3. The Drug Manufacturing Process: 
 Pharmacopeias, good manufacturing practices (GMP), good laborator y practices (GLP), 
 manufacturing facilities, clean rooms, water plant & grades of water, production of final 
 product & formulation, analysis of final product (Qualitative & Quantitative), documentation: 
 SOP , specifications & records, batch manufacturing re cords (BMR), batch packaging records 
 (BPR). Methods to enhance protein based therapeutics, product preservation and packaging 
-techniques.    
+techniques. 
                                                                                                                 08 Hours 
-4. Therapeutic Agents:   
+4. Therapeutic Agents: 
 The cytokines (Interleukins & Interferons), haemopoetic growth factors (erythropoietin), 
 hormones of therapeutic interest (insulin & glucagon), preservation and clinical use of blood 
 products, therapeutic enzymes, monoclonal & polyclonal antibodies, vaccines and vaccine 
-
-## Page 147
-
-FMCD2009 / 2.0 147 
- 
-BACK 
- 
-technology (with appropriate case studies), gene and cell therapy: recent developments. 
+ ## Page 147
+ FMCD2009 / 2.0 147 
+  BACK 
+  technology (with appropriate case studies), gene and cell therapy: recent developments. 
 Sustained drug release, targeted therapy, role of nanotechnology in drug delivery, Novel Drug 
-Delivery Systems.                          
+Delivery Systems. 
                                                                    08 Hours 
 Unit III 
-5.  Quality in Pharmaceutical Industry:  
+5. Quality in Pharmaceutical Industry: 
 Quality Assurance & Quality Control, validation & qualification studies, aseptic fill -process 
-validation, cleaning  validation, Validation Master Plan, Qualification: IQ, OQ and PQ. 
+validation, cleaning validation, Validation Master Plan, Qualification: IQ, OQ and PQ. 
 Calibration of analytical instruments. Bioassays for protein therapeutics, test for sterility, 
-Bacterial Endotoxin Test, product formulation & stability analysis,  
+Bacterial Endotoxin Test, product formulation & stability analysis, 
                                                                                                                                                              04 Hours 
-6. Regulatory issues and Drug product approval  
+6. Regulatory issues and Drug product approval 
 Drug approval process (NDA & ANDA), Regulatory framework: Quality, Safety & Efficacy, 
 generic and branded products, Global and Indian sccenario, issues concerned to generics and 
 biosimilars, Biosimilars and follow -on biologics, FDA & its Organizational structure, European 
-regulations, Drug Registration in Japan, World harmonization of drug approvals (The ICH).  
+regulations, Drug Registration in Japan, World harmonization of drug approvals (The ICH). 
                                                                                                                           04 Hours 
 Text Books: 
-1.   Biopharmaceuticals: Biochemistry & Biotechnology. Author: Gary Walsh.  Second Edition, 
-Pub: John Wiley & Sons, 2011  
+1. Biopharmaceuticals: Biochemistry & Biotechnology. Author: Gary Walsh. Second Edition, 
+Pub: John Wiley & Sons, 2011 
 2. Pharmaceutical Biotechnology: Fundamentals and Applications. Ed: Daan J.A. Crommelin 
 et al. Third Edition. Publisher: Informa Healthcare, 2007 
 Reference Books: 
-1.  Molecular Biotechnology: Principles & Applications of r-DNA. Author: Bernard Glick & Jack 
-Pasternak.3rd edition, 2002, Pub: Panima Books.    
-2. Manual of Industrial Microbiology & Biotechnology by Arnold L. Demain. 2 nd edition,1999 
-Pub: ASM  Press.  
+1. Molecular Biotechnology: Principles & Applications of r-DNA. Author: Bernard Glick & Jack 
+Pasternak.3rd edition, 2002, Pub: Panima Books. 
+2. Manual of Industrial Microbiology & Biotechnology by Arnold L. Demain. 2 nd edition, 1999 
+Pub: ASM Press. 
 3. Biopharmaceuticals: An Industrial perspective. Authors: Gary Walsh & Brendan Murphy. 
-2009. Pub: Spring Books.  
-
-## Page 148
-
-FMCD2009 / 2.0 148 
- 
-Program: Biotechnology Semester: VII 
+2009. Pub: Spring Books. 
+ ## Page 148
+ FMCD2009 / 2.0 148 
+  Program: Biotechnology Semester: VII 
 Course Title: Genomics and Proteomics Course Code:15EBTE405 
-L-T-P:: 3-0-0 Credits:3.0 Contact Hours: 03  
+L-T-P:: 3-0-0 Credits:3.0 Contact Hours: 03 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration: 3 Hours  
+Teaching Hours:40 Examination Duration: 3 Hours 
 Unit I 
 1. Introductory Genomics 
 Genomics- Introduction, History and Scope and types, Structure of prokaryotic and eukaryotic 
-genome, Mitochondrial and Chloroplast genome, C- value of genome. Genomics Approaches – 
+genome, Mitochondrial and Chloroplast genome, C- value of genome. Genomics Approaches - 
 traditional and updated, Genome mapping as an approach of genomics and recent approaches 
 of genomics. 
                                                                                                                                             04 Hours 
 2. Genome Analysis and markers 
-Genome analysis and markers – Introduction, necessity and tools of genome analysis and 
+Genome analysis and markers - Introduction, necessity and tools of genome analysis and 
 markers. Genome Sequencing - Whole genome Shot gun, Hierarchial Shotgun, High -
 throughput sequencing, Chromosome walking, Chromosome jumping, Next Generation 
 Sequencing. Molecular Markers: Concept of Markers, different types of markers and their 
@@ -5005,24 +4407,20 @@ Selection
 3. Genomics- Recent Advancements and Applications 
 Microarray analysis, Genomic libraries, Gene -disease associations. Genomics Applications: 
 Nutrigenomics, Toxicogenomics, Pharmacogenomics, Metagenomics, Medical applications, 
-Human Genome Project. Model Organisms for Genomics studies- Yeast and Drosophila    
+Human Genome Project. Model Organisms for Genomics studies- Yeast and Drosophila 
                                                                                                                                             04 Hours 
 Unit II 
 4. Introductory Proteomics 
-Proteomics- Introduction, History, Scope an d Types. Protein – Sequence, Structure and 
+Proteomics- Introduction, History, Scope an d Types. Protein - Sequence, Structure and 
 function relationship. Different approaches for proteomics studies and their applications. 
                                                                                                                                             04 Hours 
-5. Proteome  separation and Purification 
+5. Proteome separation and Purification 
 Proteome extraction and purification. Separation of Proteins - ion-exchange, size exclusion and 
-affinity chromatography techniques,1 -D by Isoelectric focusing, 2 -D by SDS -PAGE. Protein 
-
-## Page 149
-
-FMCD2009 / 2.0 149 
- 
-BACK 
- 
-Identification- Edman degradation, Mass Spectrometry, MALDI -TOF, Electrospray ionization, 
+affinity chromatography techniques, 1 -D by Isoelectric focusing, 2 -D by SDS -PAGE. Protein 
+ ## Page 149
+ FMCD2009 / 2.0 149 
+  BACK 
+  Identification- Edman degradation, Mass Spectrometry, MALDI -TOF, Electrospray ionization, 
 Peptide mass fingerprinting. 
                                                                                                                                             08 Hours 
 6. Proteomics- Recent Advancements and Applications 
@@ -5032,10 +4430,10 @@ Protein chips. Clinical and biomedical application of proteomics.
 Unit III 
  7. Bioinformatics tools in Genomics 
 Raw genome sequences, Major Genomic Databases, Genome Annotation, similarity search, 
-Genome sequence alignment tools.   
+Genome sequence alignment tools. 
                                                                                                                                            05 Hours 
 8. Bioinformatics tools in Proteomics 
-Proteome Databases, Proteome Annotation, Protein  characterization and function, Families, 
+Proteome Databases, Proteome Annotation, Protein characterization and function, Families, 
 patterns, domains and profiles. 
                                                                                                                                             05 Hours 
 Text Books: 
@@ -5045,117 +4443,100 @@ S.C. Rastogi, N. Mendiratta and P . Rastogi. PHI Learning Private Limited, delhi
 Reference Books: 
 1. Introduction to Genomics- Arthur Lesk. Oxford University & Cell Press 
 2. Principles of Proteomics by R M Twyman BIOS Scientific Publishers 2004 
-
-## Page 150
-
-FMCD2009 / 2.0 150 
- 
-Program: Biotechnology Semester: VII 
-Course Title:  Bioethics, Safety & IPR Course Code:20EBTE403 
-L-T-P:: 3-0-0 Credits:3.0 Contact Hours: 03  
+ ## Page 150
+ FMCD2009 / 2.0 150 
+  Program: Biotechnology Semester: VII 
+Course Title: Bioethics, Safety & IPR Course Code:20EBTE403 
+L-T-P:: 3-0-0 Credits:3.0 Contact Hours: 03 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration: 3 Hours  
+Teaching Hours:40 Examination Duration: 3 Hours 
 Unit I 
 1. Perceptions about Biotechnology : Biotechnology and social responsibility, Positive & 
 negative perceptions of Biot echnology, Public acceptance issues, surveys, areas of public 
 concern for Biotechnology. Socio, ethical, economic and legal aspects of Biotechnology. Public 
-education & Biotechnology.                                                                                                                
+education & Biotechnology. 
 06 Hours 
 2. Bioethics: Legality, morality, and ethics, Principles of bioethics: autonomy, human rights, 
 beneficence, justice, equity, etc. Expanding scope of ethics from Biomedical practice to 
 Biotechnology, ethical conflicts in Biotechnology. 
 05 Hours 
-                                                               
-3.Biosafety concept and issues  :  Rational vs. subjective perception of risks and benefits, 
+                                                                3. Biosafety concept and issues : Rational vs. subjective perception of risks and benefits, 
 Hazards of BT , relationship between risk and hazard, Ethical implic ations of biotechnology 
-products and techniques,                                                                                                
+products and techniques, 
  05 Hours 
 Unit II 
-4. National and International Regulations:  Cartagena protocol, OECD consensus documents 
-and C odex Alimentarius; Indian regulations – EPA act and rules, guidance documents, 
-regulatory framework – RCGM, GEAC, IBSC and other regulatory bodies; category of rDNA 
-experiments; field trails – biosafety research trials – standard operating procedures - guidelines 
-of state governments; GM labeling – Food Safety and Standards Authority of India (FSSAI)                                                                                                                          
-                                                                                                                                             10 Hours  
-   
-5. Biosafety & Management : Laboratory associated Biosafety practices, assessment of 
+4. National and International Regulations: Cartagena protocol, OECD consensus documents 
+and C odex Alimentarius; Indian regulations - EPA act and rules, guidance documents, 
+regulatory framework - RCGM, GEAC, IBSC and other regulatory bodies; category of rDNA 
+experiments; field trails - biosafety research trials - standard operating procedures - guidelines 
+of state governments; GM labeling - Food Safety and Standards Authority of India (FSSAI) 
+                                                                                                                                             10 Hours 
+    5. Biosafety & Management : Laboratory associated Biosafety practices, assessment of 
 biohazard, Biosafety levels,. Risk analysis and assessme nt, Containment levels -physical, 
 biological containments,. Good manufacturing practice and Good lab practices (GMP and GLP).
                                                                    05 Hours 
-
-## Page 151
-
-FMCD2009 / 2.0 151 
- 
-BACK 
- 
-Unit III 
+ ## Page 151
+ FMCD2009 / 2.0 151 
+  BACK 
+  Unit III 
 6. Intellectual Property rights : Introduction to history of GATT, WTO, WIPO and TRIPS; 
 variety protection, Traditional knowledge, breeders rights, Geographical indications, 
-Biodiversity and farmers rights. Patenting in biotechnology, case studies.   
-         05 Hours  
-                                                                                                                                                                                                            
-7.Food, Agri and Pharma Sector: The GM-food debate and biosafety assessment procedures 
+Biodiversity and farmers rights. Patenting in biotechnology, case studies. 
+         05 Hours 
+                                                                                                                                                                                                             7. Food, Agri and Pharma Sector: The GM-food debate and biosafety assessment procedures 
 for biotech foods including transgenic food crops, case studies - Golden Rice and Flav Savr 
 Tomatto. Biosafety assessment of pharmaceutical products such as d rugs/vaccines etc. 
-Biosafety issues in Clinical Trials.                                                                                                      
-  05 Hours                                                                                                                                 
+Biosafety issues in Clinical Trials. 
+  05 Hours 
 Text Books: 
 1. Bioethics & Biosafety- Sateesh MK, I.K.International Publishing House 
-2. Intellectual Property rights on Biotechnology   – Singh K, BCIL, New Delhi. 
+2. Intellectual Property rights on Biotechnology - Singh K, BCIL, New Delhi. 
 3. Biotechnology: Expanding Horizons - B D Singh, Kalayani Publishers, 2010 
 Reference Books: 
-1. Bioethics & Biosafety – R. Rallapalli & Gita Bali, APH publication, 2007 
+1. Bioethics & Biosafety - R. Rallapalli & Gita Bali, APH publication, 2007 
 2. Safety considerations for Biotechnology-Paris, OECD publications 
-
-## Page 152
-
-FMCD2009 / 2.0 152 
- 
-Program: Biotechnology Semester: VII 
+ ## Page 152
+ FMCD2009 / 2.0 152 
+  Program: Biotechnology Semester: VII 
 Course Title: Vaccine Technology Course Code:21EBTE401 
-L-T-P:: 3-0-0 Credits:3.0 Contact Hours: 03  
+L-T-P:: 3-0-0 Credits:3.0 Contact Hours: 03 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration: 3 Hours  
+Teaching Hours:40 Examination Duration: 3 Hours 
 Unit I 
-1 History of Vaccine Discovery and Development  
-Variolation and Vaccination in Late Imperial era, early methods of vaccination, Edward Jenner’s 
+1 History of Vaccine Discovery and Development 
+Variolation and Vaccination in Late Imperial era, early methods of vaccination, Edward Jenner's 
 Role in the Introduction of Smallpox Vaccine, Eradication of small pox. Fight against 
-polio,Historical background of vaccination, vaccine preventable infectious dise ases, Over view 
+polio, Historical background of vaccination, vaccine preventable infectious dise ases, Over view 
 of bacterial and viral vaccines and their importance to public health. Epidemiology and 
 pathophysiology of vaccine preventable diseases with special emphasis on Diphtheria, and 
 Tetanus. 
-                                                                                                                                     07 Hours       
+                                                                                                                                     07 Hours 
 2. Role of vaccines in epidemiology and public health system. 
 Active and passive immunization, General immunization practices, Strategies for improving 
-vaccination levels. Timing and Spacing of Vaccines.. Adverse Reactions Following Vaccination.  
+vaccination levels. Timing and Spacing of Vaccines.. Adverse Reactions Following Vaccination. 
 Contraindications and Precautions to Vaccination. Role of B and T cells, primary and secondary 
-immune response, Immunological memory, Booster doses, Factors influencing the  magnitude 
-of vaccine performance, adjuvants. Immune correlates in vaccine development.                                                                                                           
-                                                                                                                                     08 Hours    
+immune response, Immunological memory, Booster doses, Factors influencing the magnitude 
+of vaccine performance, adjuvants. Immune correlates in vaccine development. 
+                                                                                                                                     08 Hours 
 Unit II 
 3. Vaccine design, development and types: 
 Subunit vaccine component - antigen, delivery system. Structure -based Vaccine design - tools 
-and techniques. Characters of  effective vaccines:  Vaccines, Live, killed, attenuated, sub unit 
-vaccines, conjugated vaccines.  Vaccine technology - Role and properties of adjuvants, 
+and techniques. Characters of effective vaccines: Vaccines, Live, killed, attenuated, sub unit 
+vaccines, conjugated vaccines. Vaccine technology - Role and properties of adjuvants, 
 recombinant DNA and protein based vaccines, plant -based vaccines, reverse vaccinology; 
 Peptide vaccines, conjugate vaccines, Edible vaccines. 
-                                                                                                                                     06 Hours       
+                                                                                                                                     06 Hours 
 4. Vaccine manufacturing and Quality Control. 
 Commercial scale vaccin e manufacturing: Upstream (use of cell lines, human diploid) and 
 downstream (chromatography) of active substances. Vaccine formulation (liquid and 
 lyophilization). Use of additives/adjuvants/stabilizers. Vaccine safety and efficacy of vaccines 
 (in vitro an d in vivo). cGMP implementation in the production of safe vaccines. Case study of 
-vaccine manufacturing: HBV and polio vaccine                                                                       09 Hours                                                                        
-
-## Page 153
-
-FMCD2009 / 2.0 153 
- 
-BACK 
- 
-Unit III 
-5. Policies, ethical considerations and   Regulatory affairs of vaccines. 
+vaccine manufacturing: HBV and polio vaccine 09 Hours 
+ ## Page 153
+ FMCD2009 / 2.0 153 
+  BACK 
+  Unit III 
+5. Policies, ethical considerations and Regulatory affairs of vaccines. 
 Regulation and testing of vaccines, Regulation of vaccines in developing countries, Role and 
 functioning of National Regulatory Authorities (ICMR) and WHO .Different stages of review 
 and regulation of vaccines (investigational new drug application, biologics license application, 
@@ -5163,10 +4544,10 @@ post-licensure). Evolution of vaccine regulations overtime and the current statu
 functionality globally. Brief on Indian regulatory system. 
                                                                                                                                        05 Hours 
 6. Recent advancements in vaccinology: 
-Concepts of reverse vaccinology, case study of Reve rse Vaccinology.  Novel vaccine delivery 
+Concepts of reverse vaccinology, case study of Reve rse Vaccinology. Novel vaccine delivery 
 systems. Tools & servers for computational Vaccine design -from Genome to Vaccine. 
 Antigenicity modification, epitope replacement, germline targeting. Antigenically variable 
-infectious agents and their vaccines.                                                                                                                       
+infectious agents and their vaccines. 
 05 Hours 
 Text Books: 
 1. IAP Textbook of Vaccines by Nitin K Shah, Rohit Agrawal, Vipin M Vashishtha, TU 
@@ -5176,152 +4557,132 @@ Reference Books:
 1. Vaccine Development and Manufacturing. Emily P. Wen (Editor), Ronald Ellis (Editor), 
 Narahari S. Pujar (Editor). 
 2. Vaccines & Vaccine Technologies. Jose Ronnie Vasconcelos 
-
-## Page 154
-
-FMCD2009 / 2.0 154 
- 
-Program: Biotechnology Semester: VIII 
-Course Title:  Biological Data Analysis Course Code:18EBTE402 
-L-T-P:: 3-0-0 Credits:3.0 Contact Hours: 03  
+ ## Page 154
+ FMCD2009 / 2.0 154 
+  Program: Biotechnology Semester: VIII 
+Course Title: Biological Data Analysis Course Code:18EBTE402 
+L-T-P:: 3-0-0 Credits:3.0 Contact Hours: 03 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration: 3 Hours  
+Teaching Hours:40 Examination Duration: 3 Hours 
 Unit I 
- 1.Introduction to Basic statistics: 
+ 1. Introduction to Basic statistics: 
 Strategy of Experimentation, History of the Design of Experiments, Basic Principles of DOE: 
-Randomization, Replication, Blocking, Multi -factor Designs, Confounding;  Steps for Planning, 
+Randomization, Replication, Blocking, Multi -factor Designs, Confounding; Steps for Planning, 
 Conducting and Analyzing a n Experiment, Typical applications of Experimental design, Basic 
 Principles, Guidelines for Designing, Concepts of random variable, probability, density function, 
 cumulative distribution function. Concept of confidence level. Statistical Distributions: Nor mal, 
-Log Normal &Weibull distributions. Hypothesis testing, Probability plots.                                
+Log Normal &Weibull distributions. Hypothesis testing, Probability plots. 
                                                                                                                                             04 Hours 
 2. Screening Design: 
 Introduction, Te rminology: factors, levels, interactions, treatment combination, Orthogonal 
-array, PB design, analysis of PD design, Numericals.                                                                  
+array, PB design, analysis of PD design, Numericals. 
  05 Hours 
-3.Full Factorial Design: 
+3. Full Factorial Design: 
 Basic Definitions and Principles, The Advantage of Factorials, The Two -Factor Factorial Design, 
 Statistical Analysis of the Fixed Effects Model, Model Adequacy Checking, Estimating the 
-Model Parameters, Concept of the General Factorial Design,  2k Factorial Design, The 22Design, 
-The 23 Design, The General 2k Design.                                                                                        
+Model Parameters, Concept of the General Factorial Design, 2k Factorial Design, The 22Design, 
+The 23 Design, The General 2k Design. 
   07 Hours 
 Unit II 
- 4. Response surface methods:   
-Introduction, Central composite design, Box  Behnken design, importance of counter and 
-surface plots.                                                                                                                                     
+ 4. Response surface methods: 
+Introduction, Central composite design, Box Behnken design, importance of counter and 
+surface plots. 
 05 Hours 
 5. R Programming Basics: 
 Overview of R programming, Envir onment setup with R Studio, R Commands, Variables and 
-Data Types, Control Structures, Vectors, Factors, Functions, Matrices, Arrays and Lists.        
+Data Types, Control Structures, Vectors, Factors, Functions, Matrices, Arrays and Lists. 
   06 Hours 
 6. Interfacing: 
 Interfacing R to other languages, Parallel R, Basic Statistics: Linear Model, Generalized Linear 
-Models, Non-linear models, Time Series, Autocorrelation and Clustering.                          
+Models, Non-linear models, Time Series, Autocorrelation and Clustering. 
 05 Hours 
-
-## Page 155
-
-FMCD2009 / 2.0 155 
- 
-BACK 
- 
-Unit III 
+ ## Page 155
+ FMCD2009 / 2.0 155 
+  BACK 
+  Unit III 
  7. Introduction to Bioconductor for Sequence Data: 
 Sequencing Resources, Ranges Infrastructure, DNA /amino acid sequence from FASTA files, 
 Reads from FASTQ files, Aligned Reads from BAM files, Called Variants from VCF files, Genome 
-Annotations from BED, WIG, GTF files.                                                                           
+Annotations from BED, WIG, GTF files. 
     04 Hours 
 8. Biological Data Analysis: 
 Preparing count matrices, The DESeq, DataSet, sample information, and formula design, 
 exploratory analysis and visualization, Differential expression analysis, Plotting results, 
-Annotating and exporting results                                                                                                           
+Annotating and exporting results 
  04 Hours 
 Text Books: 
 1. R for Everyone: Advanced Analytics and Graphics: b y Jared P . Lander Addison Wesley 
 Data & Analytics Series, 2013. 
-2. Design and analysis of experiments” by D.C. Mont gomery, 7th edition John Wiley and 
+2. Design and analysis of experiments" by D.C. Mont gomery, 7th edition John Wiley and 
 sons, New York 
 Reference Books: 
 1. A Little Book of R for Bioinformatics: by Avril Coghlan, Release 0.1 
 2. Das. M.M. and Giri N.C. : - Design and Analysis of Experiments 
-
-## Page 156
-
-FMCD2009 / 2.0 156 
- 
-Program: Biotechnology Semester: VIII 
-Course Title:   Genomic Data Analysis Course Code:21EBTE402 
-L-T-P:: 3-0-0 Credits:3.0 Contact Hours: 03  
+ ## Page 156
+ FMCD2009 / 2.0 156 
+  Program: Biotechnology Semester: VIII 
+Course Title: Genomic Data Analysis Course Code:21EBTE402 
+L-T-P:: 3-0-0 Credits:3.0 Contact Hours: 03 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration: 3 Hours  
+Teaching Hours:40 Examination Duration: 3 Hours 
 Unit I 
- 1.Introduction to Genomics and Data science: 
-Genomics- Introduction,  Structure of prokaryotic and eukaryotic genome, Central dogma, 
-Genome analysis– Introduction, necessity and tools of genome analysis Genome Sequencing 
+ 1. Introduction to Genomics and Data science: 
+Genomics- Introduction, Structure of prokaryotic and eukaryotic genome, Central dogma, 
+Genome analysis- Introduction, necessity and tools of genome analysis Genome Sequencing 
 methods, Next Generation Sequencing, Introduction to D ata Science: Data, Information, Data 
 science, Data science process, Data analytics process, exploratory data analysis, data types and 
-plotting.                                                                                                                              
+plotting. 
    05 Hours. 
-2. Python for genomic data science:Part I 
+2. Python for genomic data science: Part I 
 Introduction, Installation, Jupyter note book, types and sequence, python numbers and strings, 
 variables, handling numerical data, python objects, data structure. 
                                                                                                                                             10 Hours 
 Unit II 
-3. Python for genomic data science:Part II 
-Ifs and loops, python functions, library, communication with outside, modules and package.                                                                                               
+3. Python for genomic data science: Part II 
+Ifs and loops, python functions, library, communication with outside, modules and package. 
                                                                                                                                              05 Hours 
 4. Genomic analysis: Algorithms 
 Introduction, DNA as string, manipulation of DNA, Dynamic programming: Local and Global 
-alignment, BLAST algorithm, DNA assembly.                                                                       
+alignment, BLAST algorithm, DNA assembly. 
 05 Hours 
 5. Biopython 
 Introduction, working with sequence, sequence objects, sequence alignment, reading genomic 
-sequence files.                                                                                                                      
+sequence files. 
 05 Hours 
-
-## Page 157
-
-FMCD2009 / 2.0 157 
- 
-BACK 
- 
-Unit III 
+ ## Page 157
+ FMCD2009 / 2.0 157 
+  BACK 
+  Unit III 
 6. Introduction to Galaxy software 
 Introduction, galaxy platform, working with genomic data, creation of work flow, annotation, 
-sharing and publishing of genomic data, Genome and RNA sequence analysis.                  
+sharing and publishing of genomic data, Genome and RNA sequence analysis. 
 05 Hours 
- 
-7. Introduction to Bioconductor for Sequence Data 
+  7. Introduction to Bioconductor for Sequence Data 
 Sequencing Resources, Ranges Infrastructure, DNA /amino acid sequence from FASTA files, 
 Reads from FASTQ files, Aligned Reads from BAM files, Called Variants from VCF files, Genome 
-Annotations from BED, WIG, GTF files.                                                                                 
- 
-05 Hours 
+Annotations from BED, WIG, GTF files. 
+  05 Hours 
 Text Books: 
-1. Bioinformatics with Python Cookbook, Second Edition:  Tiago Antao, Ingram short title; 
+1. Bioinformatics with Python Cookbook, Second Edition: Tiago Antao, Ingram short title; 
 2nd edition (1 January 2018), ISBN-13 : 978-1789344691. 
-2. R Bioinformatics Cookbook, Dan MacLean, Packt Publishing Limited (11 October 2019),  
+2. R Bioinformatics Cookbook, Dan MacLean, Packt Publishing Limited (11 October 2019), 
 ISBN-13 : 978-1789950694. 
 3. Hahne F, Huber W , Gentleman R, Falcon S. Bioconductor Case Studies. Springer 
-Publishing Company, 2008. Mathur SK.  
+Publishing Company, 2008. Mathur SK. 
 Reference Books: 
-1. Lee JK. Statistical Bioinformatics: A Guide for Life and Biomedical Science Researchers.   
-Hoboken, N.J.: WileyBlackwell, 2010.  
-2. Statistical Bioinformatics with R. Academic Press, 2010.  
-3. Genome Data Analysis, Ju Han Kim,2019, Springer Singapore 
-
-## Page 158
-
-FMCD2009 / 2.0 158 
- 
-Program: Biotechnology Semester: VIII 
-Course Title:  Bio-business & Entrepreneurship Course Code:20EBTE402 
-L-T-P:: 3-0-0 Credits:3.0 Contact Hours: 03  
+1. Lee JK. Statistical Bioinformatics: A Guide for Life and Biomedical Science Researchers. 
+Hoboken, N.J.: WileyBlackwell, 2010. 
+2. Statistical Bioinformatics with R. Academic Press, 2010. 
+3. Genome Data Analysis, Ju Han Kim, 2019, Springer Singapore 
+ ## Page 158
+ FMCD2009 / 2.0 158 
+  Program: Biotechnology Semester: VIII 
+Course Title: Bio-business & Entrepreneurship Course Code:20EBTE402 
+L-T-P:: 3-0-0 Credits:3.0 Contact Hours: 03 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
 Teaching Hours:40 Examination Duration: 3 
 Hours 
- 
-Unit-I 
+  Unit-I 
 1. Entrepreneurship 
 Concept of Entrepreneurship - Development of Entrepreneurship; Stages in entrepreneurial 
 process; Role of entrepreneurs in Economic Development; Characteristics of successful 
@@ -5330,43 +4691,37 @@ Development models, Entrepreneurial development cycle, Problems faced by Entrepr
 Entrepreneurship in India: Small scale industries: Definition; Characteristics; Need and 
 rationale. Objectives; Scope; Introduction to bio -business, from the India n context, SWOT 
 analysis of bio-business. 
- 
-10 Hours 
+  10 Hours 
 2. Social Responsibilities of Business 
  Meaning of Social Responsibility, Social Responsibilities of Business towards Different Groups, 
-Social Audit, Business Ethics and Corporate Governance Institutional  Support for Business 
+Social Audit, Business Ethics and Corporate Governance Institutional Support for Business 
 Enterprises: Introduction , Policies & Schemes of Central Level Institutions, State Level 
-Institutions.  
+Institutions. 
                                                                                                                                        05 Hours 
 Unit-II 
 3. Entrepreneurship opportunity in biotechnology 
 Business opportunity, Essential requirement, marketing strategies, schemes, challenges and 
 scope-with case studies on entrepreneurship opportunities in different domains of 
 Biotechnology (Agri biotechnology, industrial Biotechnology, food biotechnology, Biopharma, 
-Nutraceuticals. etc).                                                                                                                                
- 
-05 Hours 
+Nutraceuticals. etc). 
+  05 Hours 
 4. Project management, technology management and startup schemes 
-Meaning of  Project; Project Identification; Project Selection; Project Report; Need and 
+Meaning of Project; Project Identification; Project Selection; Project Report; Need and 
 Significance of Report; Contents; Formulation; Guidelines by Planning Commission for Project 
 report; Network Analysis; Errors of Project Report; Project Appraisal. Identification of business 
 opportunities: Market Feasibility Study; Technical Feasibility Study; Financial Feasibility Study 
-& Social Feasibility Study.                                                                               
+& Social Feasibility Study. 
                                                                                                                                       10 Hours 
-
-## Page 159
-
-FMCD2009 / 2.0 159 
- 
-BACK 
- 
-Unit-III 
-5. Startup Schemes  
+ ## Page 159
+ FMCD2009 / 2.0 159 
+  BACK 
+  Unit-III 
+5. Startup Schemes 
 Building Biotech business challenges in Indian context -biotech partners (BIRAC, DBT, 
 Incubation centers. Etc.), operational biotech parks in India. Indian Company act for Bio 
 business-schemes and subsidies. Patent expiry and Entrepreneurship opportunity, Principles of 
 Technology leasing, licensing and transfer, Busin ess incubation support schemes, Successful 
-startups-case study.  
+startups-case study. 
                                                                                                                                   05 Hours 
 6. Funding Opportunities 
 Startup schemes in Indian g overnment Sources of Funding for startups. Crowd funding, Self -
@@ -5375,25 +4730,22 @@ companies: Sole proprietorship company, Partnership company, Private Limited, Li
 company etc. 
                                                                                                                                      05 Hours 
 Text Books: 
-1. Principles of Management – P. C.Tripathi, P.N. Reddy – Tata McGraw Hill,  
-2. Entrepreneurship Development - S.S.Khanka - S.Chand & Co.  
-3. Project Management by Sahni, Ane Books.  
-Reference books  
+1. Principles of Management - P. C.Tripathi, P.N. Reddy - Tata McGraw Hill, 
+2. Entrepreneurship Development - S.S.Khanka - S.Chand & Co. 
+3. Project Management by Sahni, Ane Books. 
+Reference books 
 1. Management Fundamentals - Concepts, Application, Skill Development - Robers Lusier 
-- Thomson  
+- Thomson 
 2. Project Management for Business & Technology, Nicholas, PHI. 
-
-## Page 160
-
-FMCD2009 / 2.0 160 
- 
-Program: Biotechnology Semester: VIII 
+ ## Page 160
+ FMCD2009 / 2.0 160 
+  Program: Biotechnology Semester: VIII 
 Course Title: Phytochemicals and Herbal Products Course Code:22EBTE403 
-L-T-P:: 3-0-0 Credits:3.0 Contact Hours: 03  
+L-T-P:: 3-0-0 Credits:3.0 Contact Hours: 03 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration: 3 Hours  
+Teaching Hours:40 Examination Duration: 3 Hours 
 Unit I 
-1. Crude Drugs, Medicinal and Aromatic Plants  
+1. Crude Drugs, Medicinal and Aromatic Plants 
 Crude Drugs - Scope and Importance, Classification (Taxonomical, Morphological Chemical, 
 Pharmacological); Collection and processing of Crude Drugs; Utilization of Medici nal and 
 Aromatic Plants in India and world; Genetics as applied to Medicinal herbs; Biogenesis of 
@@ -5401,52 +4753,45 @@ Phytopharmaceuticals.
                                                                                                                                          07 Hours 
 2. Types of Phytochemicals 
 Carbohydrates and its derived products- Structures, types and extraction methods : Glycosides 
-- Digitalis, Aloe, Dioscorea; Volatile Oils - Clove, Pippermint Oil; Alkaloids – classification and 
-functions, Triterpenoids,  Phenols, Quinines, Cinchona; Flavonoids -and Resins; Tannins 
+- Digitalis, Aloe, Dioscorea; Volatile Oils - Clove, Pippermint Oil; Alkaloids - classification and 
+functions, Triterpenoids, Phenols, Quinines, Cinchona; Flavonoids -and Resins; Tannins 
 (Hydrolysable and Condensed types). Application of phytochemicals in industry and 
-healthcare; Antioxidants, Biocides, Biofungicides, Biopesticides. Case studies                                     
- 
-08 Hours 
+healthcare; Antioxidants, Biocides, Biofungicides, Biopesticides. Case studies 
+  08 Hours 
 Unit II 
 3. Analysis of Phytochemicals 
 Methods of Drug evaluation (Morphological, Microscopic, Physical and Chemical); Preliminary 
 screening, Assay of Drugs - Biological evaluation / assays, Microbiological methods, Chemical 
-Methods of Analysis  and Detection of Adulterants: Chemical estimations; Drug adulteration - 
-Types of adulterants.                                                                                                        
+Methods of Analysis and Detection of Adulterants: Chemical estimations; Drug adulteration - 
+Types of adulterants. 
   07 Hours 
- 
-4. Techniques for Extraction and characterization of phytochemicals 
+  4. Techniques for Extraction and characterization of phytochemicals 
 Extraction and characterization techniques, Cold extraction, hot extraction, Soxhlet apparatus, 
 Solvents: Petroleum ether, chloroform, ethanol, water, Separation techniques: TLC, colum, 
-HPLC, Characterization techniques: UV spectra, IR specta, GC/MS, HPTLC.                             
+HPLC, Characterization techniques: UV spectra, IR specta, GC/MS, HPTLC. 
 08 Hours 
-
-## Page 161
-
-FMCD2009 / 2.0 161 
- 
-BACK 
- 
-Unit III 
+ ## Page 161
+ FMCD2009 / 2.0 161 
+  BACK 
+  Unit III 
 5. Herbal Products and regulation 
 History, Scope, and Current aspects of herbs and herbal medicines; Preparation of standardized 
 extracts of Garcinea, Forskolin, Garlic, Turmeric and Ca psicum, issues of licensing of herbal 
 drugs. Herbal drug standardization: Regulatory bodies and guidelines, WHO and AYUSH 
-guidelines.                                                                                                                          
+guidelines. 
  05 Hours 
 6. Herbal Informatics 
 Applications of informatics in Herbal medicine, Databases and Tools for listing of 
 phytochemicals and their applications. Databases: Super Natural II, CMAUP , BATMAN, ZINC, 
 PubChem, ChEBI, KNApSAcK. Tools : Openbabel, Chemtool s, ChemDraw, PkCSM. Molecular 
 docking and analysis. Tools : MGL tools, Autodock Vina, PLIP . Network pharmacology and its 
-application. Tools and Databases: Cytoscape, BindingDb.                                                                                   
+application. Tools and Databases: Cytoscape, BindingDb. 
 05 Hours 
- 
-Text Books: 
+  Text Books: 
 1. Shah B, Textbook of Pharmacognosy and Phytochemistry, 2 nd edition, CBS publisher, 
 2019. 
 2. Dr. Deep Panhekar, Ms. Trupti P . Sawant, Dr. D. P . Gogle, Phytochemicals - Extraction, 
-Separation & Analysis Techniques | Phytochemistry - Study of Plants | | Plant 
+Separation & Analysis Techniques | Phytochemistry - Study of Plants |  | Plant
 Physiology, Plant Biotechnology and Plant Pathology Book, Global Education Limited; 
 First Edition, 2019. 
 3. John R Harrison , International Regulation of Natural Health Products , Universal 
@@ -5454,84 +4799,69 @@ Publishers, 2008.
 Reference Books: 
 1. R Amjesh , Bioinformatics in Drug Discovery from Medicinal Plants , LAP Lambert 
 Academic Publishing, 2018. 
-2. Shao Li, Network Pharmacology Kindle Edition,Springer, 2021. 
-
-## Page 162
-
-FMCD2009 / 2.0 162 
- 
-Program: Biotechnology Semester: VIII 
-Course Title:  Industrial Waste Management Course Code:19EBTO401 
-L-T-P:: 3-0-0 Credits:3.0 Contact Hours: 03  
+2. Shao Li, Network Pharmacology Kindle Edition, Springer, 2021. 
+ ## Page 162
+ FMCD2009 / 2.0 162 
+  Program: Biotechnology Semester: VIII 
+Course Title: Industrial Waste Management Course Code:19EBTO401 
+L-T-P:: 3-0-0 Credits:3.0 Contact Hours: 03 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours:40 Examination Duration: 3 Hours  
+Teaching Hours:40 Examination Duration: 3 Hours 
 Unit I 
 1 Introduction 
 Introduction to waste management, general outline of waste management, Importance of 
-waste management in industries.                                                                                                 
+waste management in industries. 
    04 Hours 
- 
-2 Waste Water Treatment  
+  2 Waste Water Treatment 
 Waste water characteristics: Physical, Chemical and Biological characteristics. Chemical Oxygen 
 Demond (COD) and Biochemical Oxygen Demond (BOD). Introduction to physical and chemical 
-waste water treatment methods.  Biological wastewater treatment methods: Aerobic 
+waste water treatment methods. Biological wastewater treatment methods: Aerobic 
 suspended growth treatment processes (Activated Sludge Process, aerared lagoons etc), 
-Aerobic attached growth treatment processes (Trickling Filter). Anaerobic treatment.                                  
+Aerobic attached growth treatment processes (Trickling Filter). Anaerobic treatment. 
    11 Hours 
- 
-Unit II 
-3. Solid Waste Management  
+  Unit II 
+3. Solid Waste Management 
 Basic aspects, Generation of industrial solid wastes, general composition of Municipal solid 
 waste, On site handling, storage and processing, Collection of solid wastes. Solid waste 
 processing techniques and equipments. Recovery of biological conversion products from solid 
-waste such as composting and anaerobic digestion. Disposal of solid wastes.                                           
+waste such as composting and anaerobic digestion. Disposal of solid wastes. 
 09 Hours 
- 
-4. Control of Air Pollution  
+  4. Control of Air Pollution 
 Sources and classification of air pollutants, Effects of air pollution on human health, animals 
 and plants. Sampling proc edures, Control of air pollution by equipments, odour combaitment 
-techniques, Air pollution Legislation and Regulation.                                                           
+techniques, Air pollution Legislation and Regulation. 
 06 Hours 
 Unit III 
-5. Bioremediation  
+5. Bioremediation 
 Introduction, Uses of bacteria for biore mediation, bioremediation of aromatic and aliphatic 
 hydrocarbons, PCB dechlorination, immobilization techniques for bioremediation, biosorption 
-
-## Page 163
-
-FMCD2009 / 2.0 163 
- 
-BACK 
- 
-& bioaccumulation, genetic engineering of microbes for bioremediation. Phytoremediation -
-plants capable of assimilating heavy metals.                                                                               
- 
-05 Hours 
- 
-6. EM Technology  
+ ## Page 163
+ FMCD2009 / 2.0 163 
+  BACK 
+  & bioaccumulation, genetic engineering of microbes for bioremediation. Phytoremediation -
+plants capable of assimilating heavy metals. 
+  05 Hours 
+  6. EM Technology 
 Introduction, Important organisms: Photosynthetic bacteria, Lactobacillus, yeast; their roles, 
-Formulation of EM Mixture, Use of EM technology for treating industrial wastes – case studies. 
+Formulation of EM Mixture, Use of EM technology for treating industrial wastes - case studies. 
                                                                                                                                               05 Hours 
 Text Books: 
 1. Wastewater Engineering-Metcalf and Eddy. McGraw-Hill International Edition.1991 
-2. Solid Wastes-George Tchobanoglous, Hilary Theisen and Rolf Eliassen. McGraw Hill   
-Kogakusha,Ltd. 
+2. Solid Wastes-George Tchobanoglous, Hilary Theisen and Rolf Eliassen. McGraw Hill 
+Kogakusha, Ltd. 
 Reference Books: 
-1. Basic Biotechnology by Colin Ratledge, Cambridge Pub. 2001  
-2. Air Pollution – M.N.Rao and H.V.N Rao.Tata Mc Grew Hill. 
-
-## Page 164
-
-FMCD2009 / 2.0 164 
- 
-BACK 
+1. Basic Biotechnology by Colin Ratledge, Cambridge Pub. 2001 
+2. Air Pollution - M.N.Rao and H.V.N Rao.Tata Mc Grew Hill. 
+ ## Page 164
+ FMCD2009 / 2.0 164 
+  BACK 
 Program: Biotechnology Semester: VIII 
-Course Title:   Capstone Project Course Code:20EBTW402 
-L-T-P::  0-0-11 Credits:11.0 Contact Hours: 03  
+Course Title: Capstone Project Course Code:20EBTW402 
+L-T-P:: 0-0-11 Credits:11.0 Contact Hours: 03 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours: NA Examination Duration: 3 Hours  
+Teaching Hours: NA Examination Duration: 3 Hours 
 Preamble: 
-The engineering graduate’s capstone project is an essential part of the curriculum structure 
+The engineering graduate's capstone project is an essential part of the curriculum structure 
 which integrates all the skills acquired during all the theory and laboratory courses addressi ng 
 Bioprocess Engineering and Molecular Biotechnology verticals. The capstone project work 
 requires exhaustive literature survey to define the problem statement and research objectives. 
@@ -5540,9 +4870,9 @@ solution. Capstone project emphasizes on solving real time problems depicting so
 benefits and industrial applications. Students gain hands on experience during their capstone 
 Project implementation. Projects also facilitate stu dents to present their work on different 
 platforms likes seminars, national and international conferences. Capstone project help 
-students in their jobs opening and higher studies as well in higher research careers.  
-Guidelines:        
-1. Capstone project has to be carried out in teams of four students.  
+students in their jobs opening and higher studies as well in higher research careers. 
+Guidelines: 
+1. Capstone project has to be carried out in teams of four students. 
 2. Every team needs to maintain laboratory work book which contains details of all the 
 work carried out in the laboratory. 
 3. Make entries in log books for instrument usage. 
@@ -5550,7 +4880,7 @@ work carried out in the laboratory.
 5. Provide requisitions beforehand for any project work 
 Review committee: 
 Review committee is formed by the project coordinator taking into consideration each 
-review committee has faculty experts of all the domains. Review committee also consists  of 
+review committee has faculty experts of all the domains. Review committee also consists of 
 the guide of the respective project group. 
 Project evaluation: 
 Sl. No Phase Marks Review 
@@ -5559,51 +4889,43 @@ Sl. No Phase Marks Review
 3 Definitive design phase 10 Guide/s 
 4 Final submission phase 20 Committee 
 5 ESA 50 External 
-TOTAL 100  
-  
-## Page 165
-
-FMCD2009 / 2.0 165 
- 
-Program: Biotechnology Semester: VIII 
-Course Title:  Internship-training Course Code:18EBTI493 
-L-T-P::  : 0-0-6 Credits:6.0 Contact Hours: 18 
+TOTAL 100 
+   ## Page 165
+ FMCD2009 / 2.0 165 
+  Program: Biotechnology Semester: VIII 
+Course Title: Internship-training Course Code:18EBTI493 
+L-T-P:: : 0-0-6 Credits:6.0 Contact Hours: 18 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours: NA Examination Duration: 3 Hours  
-Preamble: Biotechnology engineering  is a field of applied biology and chemical engineering 
+Teaching Hours: NA Examination Duration: 3 Hours 
+Preamble: Biotechnology engineering is a field of applied biology and chemical engineering 
 principles that involves the use of living things in engineering, technology, medicine, and other 
 useful application s. Biotechnology is one of the top fields of studies and employment, both 
 from Indian and global perspectives. Aspiration for a core biotech employment calls for a 
-hands on expertise and practical work experience.  An internship opportunity is the first ha nd 
-real time work experience for the graduates  for acquiring the practical know -how that creates 
+hands on expertise and practical work experience. An internship opportunity is the first ha nd 
+real time work experience for the graduates for acquiring the practical know -how that creates 
 better career prospects. In fact, for biotechnology domain, training and internships are almost 
 mandatory. Internships in biotechnology provide opportunities i n research and development, 
 manufacturing and production, quality control and assurance, technical support, and 
 regulations and documentation. The significant outcome of biotech internship is a full 
-spectrum of lab experience to develop analytical skills.  
- 
-Duration- Jan-May During 8th semester (5 months Full time) 
-Internship course- Internship training  
-Credit Weightage –  6 credits  
+spectrum of lab experience to develop analytical skills. 
+  Duration- Jan-May During 8th semester (5 months Full time) 
+Internship course- Internship training 
+Credit Weightage - 6 credits 
 Assessment: Industry Training: ISA: 50 M, ESA 50 M [Total 100M] 
-Reports: Industry Training    
+Reports: Industry Training 
 Stages of Internship process 
 1. Identification of industry - The major role of the internship coordinator is to identify 
 suitable industry for student internships. The selection of an industry depends on 
 several criteria like, reputation of the company, establishment and stability, products & 
 research focus, infrastructure and instrumentation facilities that could be provided for 
 interns, kind of projects that could be offered to students, student learning 
-
-## Page 166
-
-FMCD2009 / 2.0 166 
- 
-BACK 
- 
-opportunities etc. After studying the industry, the industry is recommended by 
+ ## Page 166
+ FMCD2009 / 2.0 166 
+  BACK 
+  opportunities etc. After studying the industry, the industry is recommended by 
 coordinator for approval by the department head and members of committee. 
 Justification is provided by the coordinator on suitability of the company. Well 
-established industries and start up’s are preferred for student internships. The 
+established industries and start up's are preferred for student internships. The 
 department approved indust ry list is sent for consent approval to the university. The 
 final approved list is recorded with the placement cell. The department and the 
 coordinator are completely responsible for the internship process. 
@@ -5618,22 +4940,19 @@ feedback is collected from the students after the completion of the internship t
 understand the industry requirements and gaps. 
 4. Development- Based on the feedback from guides and students, the department is 
 involved in strengthening the gaps and meeting the industry requirements. 
-
-## Page 167
-
-FMCD2009 / 2.0 167 
- 
-Program: Biotechnology Semester: VIII 
-Course Title:   Internship-Project Course Code:20EBTW494 
-L-T-P::  : 0-0-11 Credits:11.0 Contact Hours: 33 
+ ## Page 167
+ FMCD2009 / 2.0 167 
+  Program: Biotechnology Semester: VIII 
+Course Title: Internship-Project Course Code:20EBTW494 
+L-T-P:: : 0-0-11 Credits:11.0 Contact Hours: 33 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
-Teaching Hours: NA Examination Duration: 3 Hours  
-Preamble: Biotechnology engineering  is a field of applied biology and chemical engineering 
+Teaching Hours: NA Examination Duration: 3 Hours 
+Preamble: Biotechnology engineering is a field of applied biology and chemical engineering 
 principles that involves the use of living things in engineering, technology, medicine, and othe r 
 useful applications. Biotechnology is one of the top fields of studies and employment, both 
 from Indian and global perspectives. Aspiration for a core biotech employment calls for a 
-hands on expertise and practical work experience.  An internship opportu nity is the first hand 
-real time work experience for the graduates  for acquiring the practical know -how that creates 
+hands on expertise and practical work experience. An internship opportu nity is the first hand 
+real time work experience for the graduates for acquiring the practical know -how that creates 
 better career prospects. In fact, for biotechnology domain, training and internships are almost 
 mandatory. Internships in biotechnology pro vide opportunities in research and development, 
 manufacturing and production, quality control and assurance, technical support, and 
@@ -5641,7 +4960,7 @@ regulations and documentation. The significant outcome of biotech internship is 
 spectrum of lab experience to develop analytical skills. 
 Duration- Jan-May During 8th semester (5 months Full time) 
 Internship course- Internship project 
-Credit Weightage – 11 Credits  
+Credit Weightage - 11 Credits 
 Assessment: Industry Project: ISA: 50 M, ESA 50 M [Total 100M] 
 Reports: Industry Project 
 Stages of Internship process 
@@ -5652,21 +4971,18 @@ research focus, infrastructure and instrumentation facilities that could be prov
 interns, kind of projects that could be offered to students, student learning 
 opportunities etc. After studying the industry, the industry is recommende d by 
 coordinator for approval by the department head and members of committee. 
-
-## Page 168
-
-FMCD2009 / 2.0 168 
+ ## Page 168
+ FMCD2009 / 2.0 168 
 BACK 
- 
-Justification is provided by the coordinator on suitability of the company. Well 
-established industries and start up’s are preferred for student internships. The 
+  Justification is provided by the coordinator on suitability of the company. Well 
+established industries and start up's are preferred for student internships. The 
 department approved industry list is sent for consent approval to the university. The 
 final approved list is recorded with the placement cell. The department and the 
 coordinator are completely responsible for the internship process. 
 2. Internship evaluation- The evaluation of the internship program is carried out by the 
 identified industry guide/s for training (50 marks) and project (50 marks). The final 
 evaluation of internship training (50 marks) and project (50 marks) is conducted by the 
-department during  ESA by external and internal examines. The students have to 
+department during ESA by external and internal examines. The students have to 
 demonstrate the learning experience undergone during internship. 
 3. Internship feedback- The performance of the interns and the internship is collected in 
 the form of valuable feedback from the indu stry guides. The internship experience 

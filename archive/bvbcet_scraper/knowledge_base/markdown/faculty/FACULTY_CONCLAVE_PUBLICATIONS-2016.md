@@ -1,10 +1,7 @@
 # PDF Document: FACULTY_CONCLAVE_PUBLICATIONS-2016
-
-**PDF Source:** https://www.kletech.ac.in/pdf/FACULTY CONCLAVE PUBLICATIONS-2016.pdf
-
-## Page 1
-
-Earlier known as 
+ **PDF Source:** https://www.kletech.ac.in/pdf/FACULTY CONCLAVE PUBLICATIONS-2016.pdf
+ ## Page 1
+ Earlier known as 
 B. V. B. College of Engineering & Technology 
 Faculty Conclave 2016 
 Sl. 
@@ -12,28 +9,28 @@ No.
 Title Authors 
 1 Theme-Based Integrated Project 
 Implementation For Basic Skill-Set 
-Development In Biotechnology  
+Development In Biotechnology 
 L. R. Patil, Sharanappa A., B. S. 
 Hungund, V. S. Hombalimath, Zabin 
 Bagewadi, Anil Shet, Gururaj Tennalli, 
 Deepak Yaraguppi, and S. V. Desai 
 2 Packet Tracer Simulation Tool As Pedagogy To 
 Enhance Learning Of Computer Network 
-Concepts  
+Concepts 
 Vijayalakshmi M., Padmashree Desai, 
-Meenaxi M. Raikar  
+Meenaxi M. Raikar 
 3 Design Thinking Framework To Enhance 
 Object Oriented Design And Problem Analysis 
 Skill In Java Programming Laboratory: An 
-Experience  
+Experience 
 K. M. M. Rajashekharaiah , Manjula 
 Pawar, Mahesh S. Patil, Nagratna 
-Kulenavar, Gopalkrishna  Joshi  
-4 Preferential Theme Matrix For Minor Project  Sujatha C., Jayalaxmi G. N, Vijaykumar 
+Kulenavar, Gopalkrishna Joshi 
+4 Preferential Theme Matrix For Minor Project Sujatha C., Jayalaxmi G. N, Vijaykumar 
 B., M. M. Raikar, Suvarna G. K, 
-Karibasappa G. K. and S. G. Totad  
-5 Engineering Profession-Freshman Perspective  Nitya N. Kulkarni, Kaushik M., 
-Gopalkrishna  
+Karibasappa G. K. and S. G. Totad 
+5 Engineering Profession-Freshman Perspective Nitya N. Kulkarni, Kaushik M., 
+Gopalkrishna 
 6 Building Software Resources For In-House 
 Processes Through Projects 
 Jayalaxmi G. N., Sujatha C., Vijaykumar B. 
@@ -59,15 +56,13 @@ Gopalkrishna Joshi
 Effective Learning Of Digital Electronics Laboratory 
 Course 
 Aruna S. Nayak, Umadevi F. M., Preeti T. 
-
-## Page 2
-
-Earlier known as 
+ ## Page 2
+ Earlier known as 
 B. V. B. College of Engineering & Technology 
 22 Enhancing Research Proficiency In Postgraduate 
 Engineering Students 
 Jayalaxmi G. N. and V. P. Baligar 
-23 Open Ended Approach To Empirical   Learning Of 
+23 Open Ended Approach To Empirical Learning Of 
 IOT With Raspberry Pi In Modeling And Simulation 
 Lab 
 Uma Mudengudi, Soumya S. Patil, Supriya 
@@ -90,7 +85,7 @@ Course
 Indira Bidari, Satyadhyan Chickerur 
 28 Effective Learning In Electronic Measurements And 
 Instrumentation Course Through Hands-On 
-Jyoti P.,  Nikita P.,  Nalini C. Iyer 
+Jyoti P., Nikita P., Nalini C. Iyer 
 29 C++ Teaching Using Real Life Example Around A 
 Class As A Core 
 Deepa Mulimani, S. V. Seeri, Shashikala 
@@ -109,10 +104,8 @@ Praveen Kumar, A. R. Lakkundi, B. S.Kakol
 Fabrication In Freshman 
 Sanjeev M. Kavale, Adarsh Patil, Mantesh 
 Choukimath, Basanagouda Shivalli 
- 
-## Page 3
-
-Earlier known as 
+  ## Page 3
+ Earlier known as 
 B. V. B. College of Engineering & Technology 
 34 Framework For Measuring The Attainment Of 
 Major Competencies In Programme Specific 
@@ -136,13 +129,13 @@ Mechanics
 Krishnaraja G. Kodancha 
 39 Collaborative Project Based Learning Through 
 Software Engineering Web Technology And DBMS 
-Courses  
+Courses 
 Vishwanath P. Baligar, Karibasappa K. G. 
 40 Active Learning Explored In Open Elective Course: 
 Internet Of Things (Iot) 
 Meenaxi M. Raikar, Padmashree Desai, 
 Jayalaxmi G. N. 
-41 Experiential Learning: Learning Through Projects  Nagaraj Vannal , Satish Chikkamath , R. 
+41 Experiential Learning: Learning Through Projects Nagaraj Vannal , Satish Chikkamath , R. 
 M. Shet, P. C. Nissimgoudar, Nalini C. Iyer 
 42 Promoting Ethical Skills In First Year Engineering 
 Students Through Socially Relevant Experiments 
@@ -161,10 +154,8 @@ Course Projects In Automotive-Electronics
 S. N. Asundi, Mane 
 46 Project Clinic: An Approach To Project Mentoring Raghuraja Adi , Shraddha G. Revankar, 
 Gopalkrishna Joshi , Preethi Baligar 
-
-## Page 4
-
-Earlier known as 
+ ## Page 4
+ Earlier known as 
 B. V. B. College of Engineering & Technology 
 47 Enhancing Research Skills In CAE Lab: 
 Incorporating Realistic Problems And Technical 
@@ -175,4 +166,4 @@ G. Kodancha
 48 Engineering Exploration-A Course Design 
 Experience 
 Team CEER 
- 
+  

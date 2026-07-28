@@ -1,10 +1,7 @@
 # SGRC Committee
-
-**Source URL:** https://www.kletech.ac.in/cpage.aspx?mpgid=117&pgidtrail=781
-
-# SGRC Committee
-
-| Name | Designation | Position |
+ **Source URL:** https://www.kletech.ac.in/cpage.aspx?mpgid=117&pgidtrail=781
+ # SGRC Committee
+ | Name | Designation | Position |
 | Prof. Sanjay Kotabagi | Dean-Student Welfare. | Chairperson |
 | Dr. (Smt)Vijaylaxmi M | Professor & Head, School of Computer Science & Engineering | Member |
 | Dr. (Smt) Sunita Budhihal | Professor & Head, School of Electronics & Communication Engineering | Member |

@@ -1,21 +1,14 @@
 # Academic Calendar
-
-**Source URL:** https://www.kletech.ac.in/hubballi/academic/academic-calendar
-
-# Academic Calendar
-
-    of BSc - COE 2022-23, Programme
+ **Source URL:** https://www.kletech.ac.in/hubballi/academic/academic-calendar
+ # Academic Calendar
+     of BSc - COE 2022-23, Programme
 - 4 th Semester M.Tech,
-
-    Programme
+     Programme
 - 6th Sem COE 2022-23, Programme
 - 8th Sem COE 2022-23, Programme
 - Final - 2nd & 4th Sem COE 2022-23,
-
-    Programme
+     Programme
 - Revised - 4th sem - MBA
-
-    & MCA COE 2022-23, Programme
+     & MCA COE 2022-23, Programme
 - Extract of the KLE Tech Regulations Governing
-
-    UG & PG, Programmes
+     UG & PG, Programmes

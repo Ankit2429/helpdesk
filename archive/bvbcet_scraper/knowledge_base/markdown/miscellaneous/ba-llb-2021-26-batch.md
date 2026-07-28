@@ -1,20 +1,13 @@
 # PDF Document: ba-llb-2021-26-batch
-
-**PDF Source:** https://www.kletech.ac.in/pdf/ba-llb-2021-26-batch.pdf
-
-## Page 1
-
-1 
- 
-Curriculum Structure and Content for the Academic Batch 2021-26 
+ **PDF Source:** https://www.kletech.ac.in/pdf/ba-llb-2021-26-batch.pdf
+ ## Page 1
+ 1 
+  Curriculum Structure and Content for the Academic Batch 2021-26 
 Law Program 
 Program: B.A.LL.B. 
-
-## Page 2
-
-2 
- 
-Table of Contents 
+ ## Page 2
+ 2 
+  Table of Contents 
 Vision and Mission of KLE Technological University ............................................................................ 3 
 Vision and Mission Statements of the School / Department .............................................................. 4 
 Program Educational Objectives/Program Outcomes and Program-Specific Objectives ....... 5 
@@ -22,7 +15,7 @@ Program Educational Objectives -PEOs ...........................................
 Curriculum Structure-Overall...................................................................................................................... 8 
 Curriculum Structure-Semester-wise ....................................................................................................... 9 
 Semester I ........................................................................................................................................................... 9 
-Semester – II.................................................................................................................................................... 10 
+Semester - II.................................................................................................................................................... 10 
 Semester- III .................................................................................................................................................... 11 
 Semester- IV .................................................................................................................................................... 12 
 Semester- V ..................................................................................................................................................... 13 
@@ -32,57 +25,43 @@ Semester- VIII .................................................................
 Semester- IX… ..................................................................................................................................... 17 
 Semester -X… ...................................................................................................................................... 18 
 List of Electives .............................................................................................................................................. 19 
-
-## Page 3
-
-3 
- 
-Vision and Mission of KLE Technological University 
- 
-Vision 
+ ## Page 3
+ 3 
+  Vision and Mission of KLE Technological University 
+  Vision 
 KLE Technological University will be a national leader in Higher 
-Education–recognised globally for innovative culture, outstanding 
+Education-recognised globally for innovative culture, outstanding 
 student experience, research excellence and social impact. 
- 
-Mission 
+  Mission 
 KLE Technological University is dedicated to teaching that meets 
 the highest standards of excellence, generation and application of 
 new knowledge through research and creative endeavours. 
- 
-The three-fold mission of the University is: 
+  The three-fold mission of the University is: 
  To offer undergraduate and post-graduate programs with an engaged 
 and experiential learning environment enriched by high -quality 
 instruction that prepares students to succeed in their lives and 
 professional careers.
- 
- To enable and grow disciplinary and inter -disciplinary areas of 
+   To enable and grow disciplinary and inter -disciplinary areas of 
 research that build on present strengths and future opportunities, 
 aligning with areas of national strategic importance and priority.
- 
- To actively engage in the Socio -economic development of t he region 
+   To actively engage in the Socio -economic development of t he region 
 by contributing our expertise, experience and leadership to enhance 
 competitiveness and quality of life.
- 
-As a unified community of faculty, staff and students, we work together with 
+  As a unified community of faculty, staff and students, we work together with 
 the spirit of collaboration and partnership to accomplish our mission. 
-
-## Page 4
-
-4 
- 
-Vision and Mission of KLE Law College 
- 
-Vision 
+ ## Page 4
+ 4 
+  Vision and Mission of KLE Law College 
+  Vision 
 To inspire, sculpt and empower the students through holistic education to attain the 
-objective of L e a r n with Purpose and Live with Purpose’ 
- 
-Mission 
+objective of L e a r n with Purpose and Live with Purpose' 
+  Mission 
  To disseminate industry-oriented legal education of global standards rooted in 
 social values.
  To impart coherent legal education by laying special emphasis on participative 
 clinical learning.
  To promote the values of democracy, diversity and inclusiveness.
- To calibrate curricular, co -curricular and extra –curricular activities in tune 
+ To calibrate curricular, co -curricular and extra -curricular activities in tune 
 with the vision of the Institution and also foster democratic values.
  To organise community and social concern oriented programmes in the domain 
 of law with the common man as focal point.
@@ -91,14 +70,10 @@ strong and morally exalted individuals with the values of love, truth, service a
 sacrifice.
  To promote a research culture and nurture innovative ideas among the faculty 
 and students.
-
-## Page 5
-
-5 
- 
-Program Educational Objectives/Program Outcomes and Program-Specific Objectives 
- 
-Program Educational Objectives -PEOs 
+ ## Page 5
+ 5 
+  Program Educational Objectives/Program Outcomes and Program-Specific Objectives 
+  Program Educational Objectives -PEOs 
 B.A. LL.B. graduates are expected to attain the following after 5 years of graduation 
 1. Legal Competence 
 Graduates will demonstrate legal competence by effectively applying legal 
@@ -133,51 +108,40 @@ PO7. Environment and Sustainability: Graduates will recognise environmental conc
 and contribute to sustainable legal solutions that uphold ecological balance. 
 PO8. Ethics: Graduates will demonstrate ethical conduct, practice integrity and maintain 
 accountability in all professional and academic engagements. 
-
-## Page 6
-
-6 
- 
-PO9. Individual and Teamwork: Graduates will function effectively as individuals and 
+ ## Page 6
+ 6 
+  PO9. Individual and Teamwork: Graduates will function effectively as individuals and 
 collaborate as team members in multidisciplinary and multicultural settings. 
 PO10. Communication: Graduates will communicate legal ideas, construct arguments, and 
 present findings clearly through persuasive writing and articulate oral advocacy. 
-PO11 – Project Management and Finance: Graduates will apply basic principles of project 
+PO11 - Project Management and Finance: Graduates will apply basic principles of project 
 management and financial literacy in legal practice and organisational contexts. 
 Program Specific Objectives -PSOs: What graduates will achieve through this 
 programme? 
-PSO1 – Socio-Legal Perspective: Graduates will explain the interplay between law and social 
+PSO1 - Socio-Legal Perspective: Graduates will explain the interplay between law and social 
 Sciences, enabling them to analyse legal issues through sociological, political, and historical 
 contexts. 
-PSO2 – Policy and Governance Analysis: Graduates will critically assess public policies, 
+PSO2 - Policy and Governance Analysis: Graduates will critically assess public policies, 
 constitutional governance, and human rights concerns using interdisciplinary tools from political 
 Science and law. 
-PSO3 – Community-Oriented Legal Engagement: Graduates will engage in grassroots legal 
+PSO3 - Community-Oriented Legal Engagement: Graduates will engage in grassroots legal 
 Literacy, legal aid, and social justice initiatives grounded in an understanding of societal 
 structures and inequalities. 
-
-## Page 7
-
-7 
- 
-Curriculum Structure- Overall 
- 
-Semester: 1 to 10 (2021-26 Batch) Total No. of Credits: 224 
+ ## Page 7
+ 7 
+  Curriculum Structure- Overall 
+  Semester: 1 to 10 (2021-26 Batch) Total No. of Credits: 224 
  I II III IV V VI VII VIII IX X 
-   
-POLITICAL 
- 
-LANGUAGE- 
+    POLITICAL 
+  LANGUAGE- 
 III: Kannada 
 (21LALN201) 
- 
-POLITICAL 
+  POLITICAL 
 SCIENCE- V: 
 Major World 
 Governments 
 (21LALH301) 
- 
-POLITICAL 
+  POLITICAL 
  Labour Law- 
 I: Law 
 Relating to 
@@ -187,47 +151,40 @@ Conflicts and
 Labour 
 Welfare 
 (21LALC403) 
- 
-Law of 
+  Law of 
 Taxation 
 (21LALC501) 
- 
-Environmental 
+  Environmental 
 Law 
 (21LALC503) 
  LANGUAGE- LANGUAGE- SCIENCE- III: SCIENCE- VI: Law of Civil 
  I: General II: Law and Indian Public Policy Procedure and 
  English Literature Government Law and the Limitation 
  (21LALH101) (21LALH104) and Politics Development (21LALC401) 
-   (21LALH201) (21LALH302)  
- 
-POLITICAL 
+   (21LALH201) (21LALH302) 
+  POLITICAL 
 SCIENCE- I: 
 Basic 
 Concepts of 
 Political 
 Science 
 (21LALH102) 
- 
-POLITICAL 
+  POLITICAL 
 SCIENCE- II: 
 Political 
 Theory and 
 Thought 
 (21LALH105) 
- 
-HISTORY- III: 
+  HISTORY- III: 
 Modern 
 Europe 
 (1500-1945) 
 (21LALH202) 
- 
-LANGUAGE- 
+  LANGUAGE- 
 III: Kannada 
 Kali 
 (21LALN202) 
- 
-Law of Crimes 
+  Law of Crimes 
 (24LALC301) 
 Family Law- 
 II: 
@@ -237,13 +194,11 @@ Indian
 Succession 
 Act, 1925 
 (21LALH305) 
- 
-Public 
+  Public 
 International 
 Law 
 (21LALC402) 
- 
-Law of 
+  Law of 
 Evidence 
 (24LALC401) 
 Labour Law- 
@@ -253,15 +208,13 @@ Wages and
 Social 
 Security 
 (21LALC502) 
- 
-OPTIONAL- V: 
+  OPTIONAL- V: 
 Intellectual 
 Property 
 Laws- II 
 (21LALT503) 
-   ECONOMICS-        
-  
-HISTORY- I: 
+   ECONOMICS- 
+   HISTORY- I: 
 Indian 
 History 
 (21LALH103) 
@@ -286,21 +239,17 @@ Principles of
 Public 
 Administration 
 (21LALH204) 
- 
-Administrative 
+  Administrative 
 Law 
 (21LALC302) 
- 
-Law of 
+  Law of 
 Criminal 
 Procedure 
 (24LALC302) 
- 
-OPTIONAL- II: 
+  OPTIONAL- II: 
 Banking Law 
 (21LALT401) 
- 
-OPTIONAL- 
+  OPTIONAL- 
 III: Insurance 
 Law 
 (21LALT403) 
@@ -310,19 +259,17 @@ Intellectual
 Property 
 Laws- I 
 (21LALT501) 
- 
-OPTIONAL- V: 
+  OPTIONAL- V: 
 Criminology 
 Penology and 
 Victimology 
 (21LALT504) 
-    ECONOMICS-       
+    ECONOMICS- 
 Course 
 with 
 Course 
 Code 
- 
-Legal 
+  Legal 
 Methods 
 (21LALC101) 
 ECONOMICS- 
@@ -340,11 +287,9 @@ Indian
 Economy Post 
 1990 
 (21LALH205) 
- 
-Jurisprudence 
+  Jurisprudence 
 (21LALC303) 
- 
-Property Law 
+  Property Law 
 (21LALC307) 
 OPTIONAL- II: 
 Human Rights 
@@ -364,29 +309,23 @@ OPTIONAL- VI:
 International 
 Trade Law 
 (21LALT505) 
-  
-Law of Torts 
+   Law of Torts 
 (21LALC102) 
- 
-Contract Law- 
+  Contract Law- 
 I: General 
 Principles of 
 Law of 
 Contract 
 (21LALC103) 
- 
-Constitutional 
+  Constitutional 
 Law - I 
 (21LALC202) 
- 
-Company Law 
+  Company Law 
 (21LALC203) 
- 
-Family Law- I: 
+  Family Law- I: 
 Hindu Law 
 (21LALC304) 
- 
-OPTIONAL- I: 
+  OPTIONAL- I: 
 Interpretation 
 of Statutes 
 (21LALT301) 
@@ -405,24 +344,20 @@ Dispute
 Resolution 
 Systems 
 (21LALP402) 
- 
-CLINICAL 
+  CLINICAL 
 COURSE- III: 
 Drafting, 
 Pleading and 
 Conveyance 
 (21LALP501) 
- 
-OPTIONAL - 
+  OPTIONAL - 
 VI: Land Laws 
 (21LALT506) 
-   1st  2nd      
-  
-Art of Public 
+   1st 2nd 
+   Art of Public 
 Speaking 
 (21LALL101) 
- 
-Consumer 
+  Consumer 
 Law and 
 Practice 
 (21LALL102) 
@@ -433,8 +368,7 @@ after II Sem,
 assessed and 
 credited in III 
 Sem) 
- 
-Constitutional 
+  Constitutional 
 Law- II 
 (21LALC204) 
 Internship- 4 
@@ -444,24 +378,20 @@ after IV Sem,
 assessed and 
 credited in V 
 Sem) 
- 
-OPTIONAL- I: 
+  OPTIONAL- I: 
 Private 
 International 
 Law 
 (21LALT302) 
- 
-Criminal Law 
+  Criminal Law 
 Practice 
 Essentials 
 (21LALL401) 
- 
-Civil Law 
+  Civil Law 
 Practice 
 Essentials 
 (21LALL402) 
- 
-ELECTIVE - 
+  ELECTIVE - 
 III: Energy 
 Law 
 (21LALE501) 
@@ -471,8 +401,8 @@ Moot Court
 and Trial 
 Preparation 
 (21LALP502) 
-   (21LALI201)  (21LALI301)      
-      Forensic  
+   (21LALI201) (21LALI301) 
+      Forensic 
 ELECTIVE - I: 
 Competition 
 Law 
@@ -483,15 +413,14 @@ Information
 Technology 
 Law 
 (21LBLE402) 
-  
-ELECTIVE - IV: 
+   ELECTIVE - IV: 
 Infrastructure 
 Law 
 (21LALE502) 
  Introduction Introduction Non-Doctrinal Introduction Science And 5th 
  to GenAI to GenAI Research Skills to GenAI Crime Scene Mandatory 
  (21LALL102) (21LALL203) (21LALL201) (21LALL302) Investigation Moot 
-     (21LALL301)  
+     (21LALL301) 
  1st 
 Mandatory 
 Moot (Credits 
@@ -507,8 +436,7 @@ Practice
 Mandatory 
 Moot (Credits 
 for Mandatory 
- 
-ELECTIVE - I: 
+  ELECTIVE - I: 
 Media Law 
 (21LALE401) 
 ELECTIVE - 
@@ -523,23 +451,19 @@ ELECTIVE - IV:
 Healthcare 
 Law 
 (21LALE503) 
-
-## Page 8
-
-8 
- 
- Mandatory  Mandatory  Moots shall be   Law   
+ ## Page 8
+ 8 
+   Mandatory Mandatory Moots shall be Law 
 Moots shall Moots shall awarded in X (21LCLE401) 
-be awarded be awarded Semester as  
-in X Semester in X Semester part of  
-as part of as part of CLINICAL  
+be awarded be awarded Semester as 
+in X Semester in X Semester part of 
+as part of as part of CLINICAL 
 CLINICAL 
 COURSE - IV) 
 CLINICAL 
 COURSE - IV) 
-COURSE - IV)  
-      
-ELECTIVE - I: 
+COURSE - IV) 
+       ELECTIVE - I: 
 Sports Law 
 (21LALE402) 
 ELECTIVE - 
@@ -553,12 +477,11 @@ III: Artificial
 Intelligence 
 and Law 
 (21LBLE502) 
- 
-ELECTIVE - IV: 
+  ELECTIVE - IV: 
 Corporate Due 
 Diligence 
 (21LBLE503) 
-      Research  
+      Research 
 ELECTIVE - 
 III: Aviation 
 Law 
@@ -568,8 +491,7 @@ Experience for Contract
 Undergraduates Drafting and 
 (REU) Interpretation 
 (21LALE403) (21LBLE504) 
-      
-Introduction to 
+       Introduction to 
 GenAI 
 (21LALL403) 
  ELECTIVE - 
@@ -579,13 +501,11 @@ Law
 ELECTIVE - IV: 
 Space Law 
 (21LCLE503) 
-      3rd Internship -   
- 
-Introduction 
+      3rd Internship - 
+  Introduction 
 to GenAI 
 (21LALL403) 
- 
-ELECTIVE - IV: 
+  ELECTIVE - IV: 
 Data 
 Protection 
 Law 
@@ -597,7 +517,7 @@ assessed and
 credited in VII 
 Sem) 
 (21LALI401) 
-      4th Mandatory  4th 
+      4th Mandatory 4th 
 Internship - 4 
 Weeks (to be 
 completed 
@@ -607,8 +527,7 @@ assessed and
 credited in IX 
 Sem) 
 (21LALI501) 
- 
-Moot (Credits 5th Internship 
+  Moot (Credits 5th Internship 
 for Mandatory - 4 Weeks (to 
 Moots shall be be completed 
 awarded in X after IX Sem, 
@@ -617,7 +536,7 @@ part of credited in X
 CLINICAL 
 COURSE - IV) 
 Sem) 
-        5th  
+        5th 
 Mandatory 
 Moot (Credits 
 for 
@@ -629,32 +548,19 @@ as part of
 CLINICAL 
 COURSE - IV) 
 Credits 24 22 24 20 24 22 24 20 22 22 
-
-## Page 9
-
-9 
- 
-Curriculum Structure- Semester-Wise 
- 
-Semester – I 
- 
-No. 
- 
-Code 
- 
-Course 
- 
-Course Type 
- 
-L-T-P-SS 
- 
-Credits 
- 
-ISA 
- 
-ESA 
- 
-Total 
+ ## Page 9
+ 9 
+  Curriculum Structure- Semester-Wise 
+  Semester - I 
+  No. 
+  Code 
+  Course 
+  Course Type 
+  L-T-P-SS 
+  Credits 
+  ISA 
+  ESA 
+  Total 
 Exam 
 Duration 
 (in hrs) 
@@ -668,76 +574,51 @@ Concepts of Political Science Theory 3-1-0-0 4 50 50 100 3
 Development 1-0-1-0 2 100 0 100 * 
 7 21LALL102 Introduction to GenAI Skill 
 Development 1-0-1-0 2 100 0 100 * 
- 
-8 
+  8 
  1st Mandatory Moot (Credits 
 for Mandatory Moots shall be 
 awarded in X Semester as part 
 of CLINICAL COURSE - IV) 
-       
-Total 17-5-2-0 24     
-
-## Page 10
-
-10 
- 
-Semester- II 
- 
-No. 
- 
-Code 
- 
-Course 
- 
-Course Type 
- 
-L-T-P-SS 
- 
-Credits 
-  
-ESA 
- 
-Total 
+        Total 17-5-2-0 24 
+ ## Page 10
+ 10 
+  Semester- II 
+  No. 
+  Code 
+  Course 
+  Course Type 
+  L-T-P-SS 
+  Credits 
+   ESA 
+  Total 
 Exam 
 Duration 
 (in hrs) 
 1 21LALH104 LANGUAGE - II: Law and 
-Literature Theory 3-1-0-0 4  50 100 3 
+Literature Theory 3-1-0-0 4 50 100 3 
 2 21LALH105 POLITICAL SCIENCE - II: Political 
-Theory and Thought Theory 3-1-0-0 4  50 100 3 
+Theory and Thought Theory 3-1-0-0 4 50 100 3 
 3 21LALH106 HISTORY - II: History of Courts 
 and Legal Profession in India Theory 3-1-0-0 4 50 50 100 3 
 4 21LALH107 ECONOMICS - I: Fundamentals of 
-Economics Theory 3-1-0-0 4  50 100 3 
+Economics Theory 3-1-0-0 4 50 100 3 
 5 21LALC103 Contract Law - I: General 
 Principles of Law of Contract Theory 3-1-0-0 4 50 50 100 3 
 6 21LALL102 Consumer Law and Practice Skill 
 Development 1-0-1-0 2 100 0 100 * 
-Total 16-5-1-0 22     
-
-## Page 11
-
-11 
- 
-Semester- III 
- 
-No. 
- 
-Code 
- 
-Course 
- 
-Course Type 
- 
-L-T-P-SS 
- 
-Credits 
- 
-ISA 
- 
-ESA 
- 
-Total 
+Total 16-5-1-0 22 
+ ## Page 11
+ 11 
+  Semester- III 
+  No. 
+  Code 
+  Course 
+  Course Type 
+  L-T-P-SS 
+  Credits 
+  ISA 
+  ESA 
+  Total 
 Exam 
 Duration 
 (in hrs) 
@@ -745,113 +626,71 @@ Duration
 Government and Politics Theory 3-1-0-0 4 50 50 100 3 
 2 21LALH202 HISTORY - III: History of Modern 
 Europe (1500-1945) Theory 3-1-0-0 4 50 50 100 3 
- 
-3 
- 
-21LALH203 
+  3 
+  21LALH203 
 ECONOMICS - II: Development 
 Economics, Public Finance and 
 International Trade 
- 
-Theory 
- 
-3-1-0-0 
- 
-4 
- 
-50 
- 
-50 
- 
-100 
- 
-3 
+  Theory 
+  3-1-0-0 
+  4 
+  50 
+  50 
+  100 
+  3 
 4 21LALC201 Contract Law - II: Special Contracts Theory 3-1-0-0 4 50 50 100 3 
 5 21LALC202 Constitutional Law - I Theory 3-1-0-0 4 50 50 100 3 
- 
-6 
- 
-21LALI201 
+  6 
+  21LALI201 
 1st Internship - 4 Weeks (to be 
 completed after II Sem, assessed and 
 credited in III Sem) 
- 
-Practical 
- 
-0-0-4-0 
- 
-2 
- 
-100 
- 
-0 
- 
-100 
- 
-7 
- 
-21LALL203 
- 
-Introduction to GenAI 
+  Practical 
+  0-0-4-0 
+  2 
+  100 
+  0 
+  100 
+  7 
+  21LALL203 
+  Introduction to GenAI 
 Skill 
 Development 
 (Audit) 
- 
-0-0-0-0 
- 
-2 
- 
-100 
- 
-0 
- 
-100* 
- 
-* 
- 
-8 
+  0-0-0-0 
+  2 
+  100 
+  0 
+  100* 
+  * 
+  8 
  2nd Mandatory Moot (Credits for 
 Mandatory Moots shall be awarded 
 in X Semester as part of CLINICAL 
 COURSE - IV) 
-       
-Total 15-5-4-0 24     
-
-## Page 12
-
-12 
- 
-Semester- IV 
- 
-No. 
- 
-Code 
- 
-Course 
- 
-Course Type 
- 
-L-T-P-SS 
- 
-Credits 
- 
-ISA 
- 
-ESA 
- 
-Total 
+        Total 15-5-4-0 24 
+ ## Page 12
+ 12 
+  Semester- IV 
+  No. 
+  Code 
+  Course 
+  Course Type 
+  L-T-P-SS 
+  Credits 
+  ISA 
+  ESA 
+  Total 
 Exam 
 Duration 
 (in hrs) 
- 
-1 
+  1 
 21LALN201 LANGUAGE - III: Kannada Theory 
-(Audit) 0-0-0-0  
+(Audit) 0-0-0-0 
 0 
-50 50  
+50 50 
 100* 
- 
-3 
+  3 
 21LALN202 LANGUAGE - III: Kannada Kali Theory 
 (Audit) 0-0-0-0 50 50 
 2 21LALH204 POLITICAL SCIENCE - IV: Principles 
@@ -864,31 +703,19 @@ of Indian Economy Post 1990 Theory 3-1-0-0 4 50 50 100 3
 Development 1-0-1-0 2 100 0 100 * 
 7 21LALL202 RTI Law and Practice Skill 
 Development 1-0-1-0 2 100 0 100 * 
-Total 14-4-2-0 20     
-
-## Page 13
-
-13 
- 
-Semester- V 
- 
-No. 
- 
-Code 
- 
-Course 
- 
-Course Type 
- 
-L-T-P-SS 
- 
-Credits 
- 
-ISA 
- 
-ESA 
- 
-Total 
+Total 14-4-2-0 20 
+ ## Page 13
+ 13 
+  Semester- V 
+  No. 
+  Code 
+  Course 
+  Course Type 
+  L-T-P-SS 
+  Credits 
+  ISA 
+  ESA 
+  Total 
 Exam 
 Duration 
 (in hrs) 
@@ -897,78 +724,48 @@ World Governments Theory 3-1-0-0 4 50 50 100 3
 2 24LALC301 Law of Crimes Theory 3-1-0-0 4 50 50 100 3 
 3 21LALC302 Administrative Law Theory 3-1-0-0 4 50 50 100 3 
 4 21LALC303 Jurisprudence Theory 3-1-0-0 4 50 50 100 3 
-5 21LALC304 Family Law – I: Hindu Law Theory 3-1-0-0 4 50 50 100 3 
- 
-6 
- 
-21LALI301 
+5 21LALC304 Family Law - I: Hindu Law Theory 3-1-0-0 4 50 50 100 3 
+  6 
+  21LALI301 
 2nd Internship - 4 Weeks (to be 
 completed after IV Sem, assessed and 
 credited in V Sem) 
- 
-Practical 
- 
-0-0-4-0 
- 
-4 
- 
-100 
- 
-0 
- 
-100 
- 
-7 
- 
-21LALL302 
- 
-Introduction to GenAI 
+  Practical 
+  0-0-4-0 
+  4 
+  100 
+  0 
+  100 
+  7 
+  21LALL302 
+  Introduction to GenAI 
 Skill 
 Development 
 (Audit) 
- 
-0-0-0-0 
- 
-0 
- 
-100 
- 
-0 
- 
-100* 
- 
-* 
- 
-8 
+  0-0-0-0 
+  0 
+  100 
+  0 
+  100* 
+  * 
+  8 
  3rd Mandatory Moot (Credits for 
 Mandatory Moots shall be awarded 
 in X Semester as part of CLINICAL 
 COURSE - IV) 
-       
-Total 15-5-4-0 24     
-
-## Page 14
-
-Semester- VI 
+        Total 15-5-4-0 24 
+ ## Page 14
+ Semester- VI 
 14 
- 
-No. 
- 
-Code 
- 
-Course 
- 
-Course Type 
- 
-L-T-P-SS 
- 
-Credits 
- 
-ISA 
- 
-ESA 
- 
-Total 
+  No. 
+  Code 
+  Course 
+  Course Type 
+  L-T-P-SS 
+  Credits 
+  ISA 
+  ESA 
+  Total 
 Exam 
 Duration 
 (in hrs) 
@@ -978,44 +775,31 @@ Policy, Law and Development Theory 3-1-0-0 4 50 50 100 3
 and The Indian Succession Act, 1925 Theory 3-1-0-0 4 50 50 100 3 
 3 24LALC302 Law of Criminal Procedure Theory 3-1-0-0 4 50 50 100 3 
 4 21LALH307 Property Law Theory 3-1-0-0 4 50 50 100 3 
- 
-5 
+  5 
 21LALT301 OPTIONAL - I: Interpretation of 
-Statutes/Private International Law Theory  
+Statutes/Private International Law Theory 
 3-1-0-0 
- 
-4 
+  4 
 50 50 100 3 
 21LALT302 OPTIONAL - I: Private International 
 Law Theory 50 50 100 3 
 6 21LALL301 Forensic Science and Crime Scene 
 Investigation 
 Skill 
-Development 1-0-1-0 2 100 0 100  
-Total 17-5-2-0 24     
-
-## Page 15
-
-Semester- VII 
+Development 1-0-1-0 2 100 0 100 
+Total 17-5-2-0 24 
+ ## Page 15
+ Semester- VII 
 15 
- 
-No. 
- 
-Code 
- 
-Course 
- 
-Course Type 
- 
-L-T-P-SS 
- 
-Credits 
- 
-ISA 
- 
-ESA 
- 
-Total 
+  No. 
+  Code 
+  Course 
+  Course Type 
+  L-T-P-SS 
+  Credits 
+  ISA 
+  ESA 
+  Total 
 Exam 
 Duration 
 (in hrs) 
@@ -1024,127 +808,82 @@ Limitation Theory 3-1-0-0 4 50 50 100 3
 2 21LALC402 Public International Law Theory 3-1-0-0 4 50 50 100 3 
 3 
 21LALT401 OPTIONAL - II: Banking Law Theory 3-1-0-0 4 50 50 100 3 
-21LALT402 OPTIONAL - II: Human Rights Law Theory   50 50  3 
- 
-4 
- 
-21LALP401 
+21LALT402 OPTIONAL - II: Human Rights Law Theory 50 50 3 
+  4 
+  21LALP401 
 CLINICAL COURSE - I: Professional 
 Ethics and Professional Accounting 
 System 
- 
-Practical 
- 
-3-1-0-0 
- 
-4 
- 
-100 
- 
-0 
- 
-100 
- 
-3 
+  Practical 
+  3-1-0-0 
+  4 
+  100 
+  0 
+  100 
+  3 
 5 21LALL401 Criminal Law Practice Essentials Skill 
 Development 1-0-1-0 2 100 0 100 * 
- 
-6 
-21LALE401 ELECTIVE - I: Media Law  
+  6 
+21LALE401 ELECTIVE - I: Media Law 
 Theory 
- 
-1-0-1-0 
- 
-2 
- 
-100 
- 
-0 
- 
-100 
+  1-0-1-0 
+  2 
+  100 
+  0 
+  100 
 * 
 21LALE402 ELECTIVE - I: Sports Law * 
 21LBLE401 ELECTIVE - I: Competition Law * 
 7 21LALE403 Research Experience for 
 Undergraduates (REU) 
- 0-0-6-0 6* 100 0 100*  
+ 0-0-6-0 6* 100 0 100* 
 8 21LALL403 Introduction to GenAI (Audit) Skill 
 Development 0-0-0-0 0 100 0 100* * 
- 
-9 
- 
-21LALI401 
+  9 
+  21LALI401 
 3rd Internship - 4 Weeks (to be 
 completed after VI Sem, assessed 
 and credited in VII Sem) 
- 
-Practical 
- 
-0-0-4-0 
- 
-4 
- 
-100 
- 
-0 
- 
-100 
- 
-10 
+  Practical 
+  0-0-4-0 
+  4 
+  100 
+  0 
+  100 
+  10 
  4th Mandatory Moot (Credits for 
 Mandatory Moots shall be awarded 
 in X Semester as part of CLINICAL 
 COURSE - IV) 
-       
-Total 13-4-12- 
-0 24     
-
-## Page 16
-
-Semester- VIII 
+        Total 13-4-12- 
+0 24 
+ ## Page 16
+ Semester- VIII 
 16 
- 
-No. 
- 
-Code 
- 
-Course 
- 
-Course Type 
- 
-L-T-P-SS 
- 
-Credits 
- 
-ISA 
- 
-ESA 
- 
-Total 
+  No. 
+  Code 
+  Course 
+  Course Type 
+  L-T-P-SS 
+  Credits 
+  ISA 
+  ESA 
+  Total 
 Exam 
 Duration 
 (in hrs) 
- 
-1 
- 
-21LALC403 
+  1 
+  21LALC403 
 Labour Law - I: Law Relating to 
 Resolution of Industrial Conflicts 
 and Labour Welfare 
- 
-Theory 
- 
-3-1-0-0 
- 
-4 
- 
-50 
- 
-50 
- 
-100 
- 
-3 
+  Theory 
+  3-1-0-0 
+  4 
+  50 
+  50 
+  100 
+  3 
 2 24LALC401 Law of Evidence Theory 3-1-0-0 4 50 50 100 3 
 3 
 21LALT403 OPTIONAL - III: Law of Insurance Theory 
@@ -1157,83 +896,55 @@ Theory
 Dispute Resolution Systems Practical 2-0-2-0 4 100 0 100 3 
 5 21LALL402 Civil Law Practice Essentials Skill 
 Development 1-0-1-0 2 100 0 100 * 
- 
-6 
+  6 
 21LBLE402 ELECTIVE - II: Information 
 Technology Law 
- 
-Theory 
+  Theory 
 (Elective) 
- 
-1-0-1-0 
- 
-2 
- 
-100 
- 
-0 
- 
-100 
- 
-* 21LCLE401 ELECTIVE - II: International 
+  1-0-1-0 
+  2 
+  100 
+  0 
+  100 
+  * 21LCLE401 ELECTIVE - II: International 
 Commercial Arbitration 
 21LCLE402 ELECTIVE - II: Law of Insolvency 
 and Bankruptcy 
-Total 13-4-4-0 20     
-
-## Page 17
-
-Semester- IX 
+Total 13-4-4-0 20 
+ ## Page 17
+ Semester- IX 
 17 
- 
-No. 
- 
-Code 
- 
-Course 
- 
-Course Type 
- 
-L-T-P-SS 
- 
-Credits 
- 
-ISA 
- 
-ESA 
- 
-Total 
+  No. 
+  Code 
+  Course 
+  Course Type 
+  L-T-P-SS 
+  Credits 
+  ISA 
+  ESA 
+  Total 
 Exam 
 Duration 
 (in hrs) 
 1 21LALC501 Law of Taxation Theory 3-1-0-0 4 50 50 100 3 
 2 21LALC502 Labour Law - II: Law Relating to 
 Wages and Social Security Theory 3-1-0-0 4 50 50 100 3 
- 
-3 
+  3 
 21LALT501 OPTIONAL - IV: Intellectual Property 
 Law - I Theory 3-1-0-0 4 50 50 100 3 
 21LALT502 OPTIONAL - IV: Socio Economic 
-Crimes Theory   50 50  3 
+Crimes Theory 50 50 3 
 4 21LALP501 CLINICAL COURSE - III: Drafting, 
 Pleading and Conveyance Practical 2-0-2-0 4 100 0 100 3 
- 
-5 
-21LALE501 ELECTIVE - III: Energy Law  
- 
-Theory 
- 
-1-0-1-0 
- 
-2 
- 
-100 
- 
-0 
- 
-100 
- 
-* 
+  5 
+21LALE501 ELECTIVE - III: Energy Law 
+  Theory 
+  1-0-1-0 
+  2 
+  100 
+  0 
+  100 
+  * 
 21LBLE501 ELECTIVE - III: Corporate 
 Restructuring 
 21LBLE502 ELECTIVE - III: Artificial Intelligence 
@@ -1242,70 +953,47 @@ and Law
 21LCLE502 ELECTIVE - III: Maritime Law 
 6 21LALL403 Introduction to GenAI Skill 
 Development 0-0-0-0 0 100 0 100* * 
- 
-7 
- 
-21LALI501 
+  7 
+  21LALI501 
 4th Internship - 4 Weeks (to be 
 completed after VIII Sem, assessed 
 and credited in IX Sem) 
- 
-Practical 
- 
-0-0-4-0 
- 
-4 
- 
-100 
- 
-0 
- 
-100 
- 
-8 
+  Practical 
+  0-0-4-0 
+  4 
+  100 
+  0 
+  100 
+  8 
  5th Mandatory Moot (Credits for 
 Mandatory Moots shall be awarded 
 in X Semester as part of CLINICAL 
 COURSE - IV) 
-   
-* 
-    
-Total 12-3-7- 
-0 22     
-
-## Page 18
-
-Semester- X 
+    * 
+     Total 12-3-7- 
+0 22 
+ ## Page 18
+ Semester- X 
 18 
- 
-No. 
- 
-Code 
- 
-Course Course 
+  No. 
+  Code 
+  Course Course 
 Type 
- 
-L-T-P-SS 
- 
-Credits 
- 
-ISA 
- 
-ESA 
- 
-Total 
+  L-T-P-SS 
+  Credits 
+  ISA 
+  ESA 
+  Total 
 Exam 
 Duration 
 (in hrs) 
 1 21LALC503 Environmental Law Theory 3-1-0-0 4 50 50 100 3 
- 
-2 
+  2 
 21LALT503 OPTIONAL - V: Intellectual Property Law - 
-II Theory  
+II Theory 
 3-1-0-0 
- 
-4 
-50 50  
+  4 
+50 50 
 100 
 3 
 21LALT504 OPTIONAL- V: Criminology, Penology and 
@@ -1318,59 +1006,39 @@ Victimology Theory 50 50 3
 3 
 21LALT506 OPTIONAL - VI: Land Laws Theory 50 50 3 
 4 21LALP502 CLINICAL COURSE - IV: Moot Court and 
-Trial Preparation Practical 0-0-4-0 4 100 0 100  
- 
-5 
-21LALE502 ELECTIVE - IV: Infrastructure Law  
- 
-Theory 
- 
-1-0-1-0 
- 
-2 
- 
-100 
- 
-0 
- 
-100 
- 
-* 
+Trial Preparation Practical 0-0-4-0 4 100 0 100 
+  5 
+21LALE502 ELECTIVE - IV: Infrastructure Law 
+  Theory 
+  1-0-1-0 
+  2 
+  100 
+  0 
+  100 
+  * 
 21LALE503 ELECTIVE - IV: Healthcare Law 
 21LBLE503 ELECTIVE - IV: Corporate Due Diligence 
 21LBLE504 ELECTIVE - IV: Contract Drafting and 
 Interpretation 
 21LCLE503 ELECTIVE - IV: Space Law 
 21LCLE504 ELECTIVE - IV: Data Protection Law 
- 
-6 
- 
-21LALI502 
+  6 
+  21LALI502 
 5th Internship - 4 Weeks (to be completed 
 after IX Sem, assessed and credited in X 
 Sem) 
- 
-Practical 
- 
-0-0-4-0 
- 
-4 
- 
-100 
- 
-0 
- 
-100 
- 
-Total 10-3-9- 
-0 22     
-
-## Page 19
-
-List of Electives 
+  Practical 
+  0-0-4-0 
+  4 
+  100 
+  0 
+  100 
+  Total 10-3-9- 
+0 22 
+ ## Page 19
+ List of Electives 
 FMCD2009 / 2.0 19 
- 
-Sr. No Name of the Course Course Code 
+  Sr. No Name of the Course Course Code 
 1 ELECTIVE - I: Media Law 21LALE401 
 2 ELECTIVE - I: Sports Law 21LALE402 
 3 ELECTIVE - I: Competition Law 21LBLE401 
@@ -1388,19 +1056,16 @@ Sr. No Name of the Course Course Code
 15 ELECTIVE - IV: Contract Drafting and Interpretation 21LBLE504 
 16 ELECTIVE - IV: Space Law 21LCLE503 
 17 ELECTIVE - IV: Data Protection Law 21LCLE504 
-
-## Page 20
-
-FMCD2009 / 2.0 20 
- 
-Curriculum Content- Course-Wise 
+ ## Page 20
+ FMCD2009 / 2.0 20 
+  Curriculum Content- Course-Wise 
 Program: B.A.LL.B. Semester: I 
-Course Code: 21LALH101 Course Title: LANGUAGE – I: General English 
+Course Code: 21LALH101 Course Title: LANGUAGE - I: General English 
 L-T-P-SS: 3-1-0-0 Credits: 4 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 65  Exam Duration: 3 hrs 
+Teaching Hrs: 65 Exam Duration: 3 hrs 
 Content Hrs 
-Unit – I 
+Unit - I 
 Unit I: Grammar 
 • Parts of Speech and Articles 
 • Types of Sentences 
@@ -1414,9 +1079,9 @@ Unit I: Grammar
 • Homonyms and Homophones 
 • Figures of Speech and Idioms 
 13 
-Unit – II 
+Unit - II 
 Unit II: Fiction 
-• Novella ‘Jonathan Livingston Seagull’ by Richard Bach 
+• Novella 'Jonathan Livingston Seagull' by Richard Bach 
 13 
 Unit-III 
 Unit III: Oral and Written Communication 
@@ -1428,13 +1093,13 @@ Unit III: Oral and Written Communication
 13 
 Unit-IV 
 Unit IV: Non-Fiction 
-‘The Law & The Lawyers’- M. K. Gandhi 
+'The Law & The Lawyers'- M. K. Gandhi 
 • Gandhiji As a Law Student 
 • Gandhiji As a Lawyer (Selected Chapters) 
 First Shock & First Case 
 • The Trials of Gandhiji (Selected Trials) 
 Contempt of Court & The Great Trial 
-‘My Search for Truth’- Dr. S. Radhakrishnan 
+'My Search for Truth'- Dr. S. Radhakrishnan 
 • Formative Years 
 • The Diplomat 
 • The Man 
@@ -1442,71 +1107,63 @@ Contempt of Court & The Great Trial
 Unit-V 
 Unit V: Short Stories 
 By R.K. Narayan: 
-• ‘An Astrologer’s Day’ 
-• ‘Forty-Five a Month’ 
+• 'An Astrologer's Day' 
+• 'Forty-Five a Month' 
 By Sudha Murthy: 
-• ‘A Helping Hand’ 
-• ‘Two Faces of Poverty’ 
+• 'A Helping Hand' 
+• 'Two Faces of Poverty' 
 13 
-
-## Page 21
-
-FMCD2009 / 2.0 21 
- 
-‘The Line of Separation’  
+ ## Page 21
+ FMCD2009 / 2.0 21 
+  'The Line of Separation' 
 Prescribed Book(s): 
 1. Wren and Martin, High School English Grammar and Composition, New Delhi: S Chand 
 Publishing, 2015. 
 2. Richard Bach, Jonathan Livingston Seagull a story, UK: Harpercollins, (October 2005). 
-3. Major Gen (Prof) Nilendra Kumar, Neha Chaturvedi, M.K. Gandhi’s The Law and The Lawyers, 
+3. Major Gen (Prof) Nilendra Kumar, Neha Chaturvedi, M.K. Gandhi's The Law and The Lawyers, 
 Haryana: Universal Law Publishing, (First Edition, 2016). 
 4. The Art of Public Speaking by Dale Carnagey (AKA Dale Carnegie) and J. Berg Esenwein. 
 5. The Quick and Easy Way to Effective Speaking by Dale Carnegie, Dorothy Carnegie. 
 6. S.B. Kher, The Law and Lawyers, M.K. Gandhi, Gujarat: Nava Jivan Publishing House, (Ninth 
 Reprint, 2019). 
-7. Dr. S. Radhakrishnan, My Search for Truth, Bangalore: MPP House, (First Edition,2017). 
+7. Dr. S. Radhakrishnan, My Search for Truth, Bangalore: MPP House, (First Edition, 2017). 
 8. R.K. Narayan, Malgudi Days, USA: Penguin Classics, (November 2006). 
 9. Sudha Murthy, Old Man and His God: Discovering the Spirit of India, India; Penguin (January 
 2006) 
- 
-References: 
+  References: 
 1. Oxford Modern English Grammar, United Kingdom: OUP, 2011. 
 2. Green David, Contemporary English Grammar, India: Laxmi Publications, 2015. 
 3. Oglan R Gerald, Write Right Rite, United States; Allyn& Bacon, 2002 
 4. www.mkgandhi.org 
 5. www.englishgrammar.org 
 List of Phrases: 
-Act on, Break down, Break in, Break up, Bring up, Call back, Call off, Came across, Carry on, Carry  out, 
+Act on, Break down, Break in, Break up, Bring up, Call back, Call off, Came across, Carry on, Carry out, 
 Come apart, Come down, Count on, Cut back on, Do away with, Drop in, Drop out, End up, Fill in, Fill 
 up, Get rid of, Get along/ on with, Give in, Give up, Hand in, Hand out, Hand over, Hang on, Hang out, 
 Hang up, Keep up, Live with, Look into, Looking forward to, Look up, Make away with, Opt for, Opt out, 
 Pass away, Pass by, Pass out, Pick up, Put down, Put off, Put up with, Run out of, Turn on, Turn up, Turn 
 down, Write back. 
- 
-List of Idioms: 
+  List of Idioms: 
 A blessing in disguise, A piece of cake, A storm in the teacup, A tough cookie, All and sundry, Alpha and 
-Omega, Apple of discord, Apple of one’s eye, At one’s fingertips, At the eleventh hour, Bell the cat, Beat 
+Omega, Apple of discord, Apple of one's eye, At one's fingertips, At the eleventh hour, Bell the cat, Beat 
 around the bush, Bite off more than you can chew, Bolt from the blue, Break a leg, Burn the midnigh t 
 oil, Call it a day, Caught red -handed, Crying over spilt milk, Cutting corners, Draw the line, Face the 
 music, Fish out of water, Get off scott-free, Got the extra mile, Have butterflies in your stomach, Hit the 
 sack, In black and white, Judge a book by its cover, Kick the bucket, Leave no stone unturned, Let the 
 cat out of the bag, Look before you leap, Make hay while the sun shines, Nook and corner, Null and void, 
-On cloud nine, Once in a blue moon, Penny wise pound foolish, Play devils’ advocate, Pull someone’s 
+On cloud nine, Once in a blue moon, Penny wise pound foolish, Play devils' advocate, Pull someone's 
 leg, Raining cats and dogs, Read between the lines, Saving for a rainy day, Snowball effect, 
-Spill the beans, Straight from the horse’s mouth, Turn a deaf ear, Under the weather, Yeoman’s service. 
-
-## Page 22
-
-FMCD2009 / 2.0 22 
- 
-Program: B.A.LL.B. Semester: I 
-Course Code: 21LALH102 Course Title: POLITICAL SCIENCE – I: Basic Concepts 
+Spill the beans, Straight from the horse's mouth, Turn a deaf ear, Under the weather, Yeoman's service. 
+ ## Page 22
+ FMCD2009 / 2.0 22 
+  Program: B.A.LL.B. Semester: I 
+Course Code: 21LALH102 Course Title: POLITICAL SCIENCE - I: Basic Concepts 
 of Political Science 
 L-T-P-SS: 3-1-0-0 Credits: 4 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
 Teaching Hrs: 65 Exam Duration: 3 hrs. 
 Content Hrs 
-Unit – 1 
+Unit - 1 
 Unit - I: Political Science: An Introduction 
  Political Science: Meaning, Nature, Scope and Importance 
  Relationship with other Social Sciences 
@@ -1514,7 +1171,7 @@ Unit - I: Political Science: An Introduction
  Approaches to the study of Political Science: Historical and Normative 
  Behaviouralism and post-Behaviouralism 
 13 
-Unit – II 
+Unit - II 
 Unit - II: State and its Elements 
  State: Meaning, definitions and importance 
  Elements and Theories of State: Historical, Divine Right, Social Contract Theories 
@@ -1544,12 +1201,9 @@ Unit - V: Law, Rights and Duties
 theories of rights 
  Human Rights: Evolution and their generations 
 13 
-
-## Page 23
-
-FMCD2009 / 2.0 23 
- 
-Prescribed Book(s): 
+ ## Page 23
+ FMCD2009 / 2.0 23 
+  Prescribed Book(s): 
 1. B.K.Gokhale, Political Science, Mumbai: Himalaya Publishing House, (2018). 
 2. J.C. Johari, Principles of Modern Political Science, New Delhi: Sterling Publishers Pvt Ltd, 
 (2012). 
@@ -1558,49 +1212,44 @@ Prescribed Book(s):
 5. Will Kymlicka, Contemporary Political Philosophy, Oxford University Press, (2004). 
 6. M.J.Vinod and Meena Deshpande, Contemporary Political Theory, New Delhi: PHI Pvt. Ltd., 
 (2016). 
- 
-References: 
+  References: 
 1. Appadorai, The Substance of Politics, Delhi: Oxford University India Press, (1968). 
 2. Fukuyama, Francis, Social Capital and Civil Society, Institute of Public Policy, Mason University, 
 (1999). 
 3. K.K.Ghai, Political Sociology, New Delhi: Kalyani Publishers, (2015). 
-4. D. Glaser, ‘Normative Theory’, in D.Marsh and G.Stoker (eds.) Theory and Methods in Political 
+4. D. Glaser, 'Normative Theory', in D.Marsh and G.Stoker (eds.) Theory and Methods in Political 
 Science, London: Macmillan, (1995). 
 5. Michael J. Sandel, Democracy's Discontent: America in Search of a Public Philosophy, 
 Cambridge: Harvard University Press, (1996). 
-6. J.Srinivasan, ‘Democracy’, in R.Bhargava and A.Acharya (eds.) Political Theory: An 
+6. J.Srinivasan, 'Democracy', in R.Bhargava and A.Acharya (eds.) Political Theory: An 
 Introduction, New Delhi: Pearson Longman, (2008). 
-
-## Page 24
-
-FMCD2009 / 2.0 24 
- 
-Program: B.A.LL.B. Semester: I 
-Course Code: 21LALH103 Course Title: HISTORY – I: Indian History 
+ ## Page 24
+ FMCD2009 / 2.0 24 
+  Program: B.A.LL.B. Semester: I 
+Course Code: 21LALH103 Course Title: HISTORY - I: Indian History 
 L-T-P-SS: 3-1-0-0 Credits: 4 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 65  Exam Duration: 3 hrs. 
+Teaching Hrs: 65 Exam Duration: 3 hrs. 
 Content Hrs 
-Unit – 1 
+Unit - 1 
 Unit- I: History and Law 
  Relevance of History to Law: Interdisciplinary Approach, Rethinking History and 
-Historian’s Craft 
- Indian  Historiography:  Orientalist,  Utilitarian,  Nationalist,  Marxist,  Religious 
+Historian's Craft 
+ Indian Historiography: Orientalist, Utilitarian, Nationalist, Marxist, Religious 
 Nationalist, Subaltern and Regional Histories 
 13 
-Unit – 2 
+Unit - 2 
 Unit - II: Ancient India 
 1. The Vedic Age: 
  Literature, Society, Economy 
  Religion, Status of Women, Nature of State 
  Notions of kingship (early Vedic and later Vedic periods) 
- 
-2. Law and Justice in Ancient India 
+  2. Law and Justice in Ancient India 
  Sources of Law in Ancient India: Concept and Sources of Dharma, Veda, Dharmasutra, 
 Dharma Shastra, Tradition and Custom, Types of Courts and Procedures 
  The Mauryas: Foundation, Chandragupta Maurya, Kautilya (Arthashastra), Ashoka, 
 Polity and administration under the Mauryas 
- The Guptas: Foundation, Samudragupta: The ‘Golden Age’ debate, Polity and 
+ The Guptas: Foundation, Samudragupta: The 'Golden Age' debate, Polity and 
 administration under the Guptas 
  Ancient South India: Sangam Age, Contributions of Cholas, Cheras and Pandyas, Polity 
 as mentioned in Sangam literature 
@@ -1610,7 +1259,7 @@ Unit-3
 Unit - III: Medieval India: Kings and their Courts 
  The Vijayanagara Empire: The four dynasties, Krishnadevaraya, contributions of 
 Vijayanagara Empire, Society, Economy and Polity 
- Delhi Sultanate: Foundation, Balban’s Theory of Kingship, Reforms of Alauddin Khilji, 
+ Delhi Sultanate: Foundation, Balban's Theory of Kingship, Reforms of Alauddin Khilji, 
 Administrative Apparatus (Ulemas and nobility) 
  The Mughals: Foundation, Akbar, 
  Theory of Sovereignty, Reforms and Rajput Policy, Society, Economy and 
@@ -1619,8 +1268,8 @@ Administration Structure
 13 
 Unit-4 
 Unit- IV: The Legal Thinkers in Ancient and Medieval India 
- Legal Thinkers of Ancient India:Manu and Yajnavalkya 
- Legal Traditions in Medieval India:Sources of Islamic Law (Quran, Hadis, Ijma, Qiyas), 
+ Legal Thinkers of Ancient India: Manu and Yajnavalkya 
+ Legal Traditions in Medieval India: Sources of Islamic Law (Quran, Hadis, Ijma, Qiyas), 
 Salient Features of Islamic Criminal Law, Hanafi School of Thought 
 13 
 Unit-5 
@@ -1628,53 +1277,46 @@ Unit -V: Modern India-1885 to 1947
  Freedom struggle in India-1885-1909, 1909-1919, 1919-1947 
  The Indian Independence Act, 1947 
 13 
-
-## Page 25
-
-FMCD2009 / 2.0 25 
- 
- Features of the Indian Constitution of 1950  
+ ## Page 25
+ FMCD2009 / 2.0 25 
+   Features of the Indian Constitution of 1950 
 Prescribed Book(s): 
-1. H.V. Sreenivasa Murthy– History of India, Bengaluru: Eastern Book Company, (2011). 
+1. H.V. Sreenivasa Murthy- History of India, Bengaluru: Eastern Book Company, (2011). 
 2. Romila Thapar, Early India: From the Origins to AD 1300, United State: University of 
 California Press, (2004). 
-3. V.D. Mahajan, Ancient India:S. Chand&Company, New Delhi (2019). 
- 
-References: 
+3. V.D. Mahajan, Ancient India: S. Chand&Company, New Delhi (2019). 
+  References: 
 1. Romila Thapar, Time asa Metaphor of History, OUP, the University of Michigan, (1996). 
 2. T. Rama Jois, Legal and Constitutional History of India: Ancient Legal, Judicial and 
 Constitutional System, Delhi: Universal Law Publishing Co., (2004 Reprint). 
 3. J. Duncan M. Derett, Religion, New York: Law and State in India, Oxford, (1999). 
 4. Robert Lingat, the Classical Law of India, California, 1973 Reprint Oxford, New York, (1998). 
-5. Marc Galanter, Law and Society in Modern India, New York:Oxford University Press, (1989). 
+5. Marc Galanter, Law and Society in Modern India, New York: Oxford University Press, (1989). 
 6. Upinder Singh, A History of Ancient and Early Medieval India: From Stone Age to the 12th 
 Century (PB), London: Pearson, (2009). 
 7. Ranajit Guha (Editor), SubalternStudies-Vol.3, New York: Oxford University Press, (1994). 
-8. Sabyasachi Bhattacharya(ed.) Approaches to History: Essays in Indian,Delhi:Primus Books, 
+8. Sabyasachi Bhattacharya(ed.) Approaches to History: Essays in Indian, Delhi: Primus Books, 
 (2013) 
 Additional reading textbooks for UNIT-V 
 1. Bipin Chandra, History of Modern India, Telangana: Orient Blackswan, (2009). 
-2. Bipan Chandra, India’s Struggle for Independence,1857-1947, Penguin, London, (1989) 
+2. Bipan Chandra, India's Struggle for Independence, 1857-1947, Penguin, London, (1989) 
 3. Sumit Sarkar- Modern India, London: Pearson Publishers, (2013, Latest 2023) 
-
-## Page 26
-
-26 
- 
-Program: B.A.LL.B. Semester: I 
+ ## Page 26
+ 26 
+  Program: B.A.LL.B. Semester: I 
 Course Code: 21LALC101 Course Title: Legal Methods 
 L-T-P-SS: 3-1-0-0 Credits: 4 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
 Teaching Hrs: 65 Exam Duration: 3 hrs. 
 Content Hrs 
-Unit – 1 
+Unit - 1 
 Unit - I: The Discipline of Law 
  What is Law? Meaning and Definition: Is Law necessary? 
  Purpose and Functions of Law 
  Law and Society, Connection of Law with Other Disciplines 
  Sources of Law - Statutes, Precedents, Customs, Values 
 13 
-Unit – II 
+Unit - II 
 Unit - II: Legal Systems 
  Classification of Laws/Legal Systems - Public and Private, Procedure And 
 Substantive, Municipal and International, Civil and Criminal 
@@ -1707,12 +1349,9 @@ Unit- V: Case Law Technique
  Question of law and question of fact 
  Application of law to facts 
 13 
-
-## Page 27
-
-27 
- 
-Prescribed Book(s): 
+ ## Page 27
+ 27 
+  Prescribed Book(s): 
 1. Lloyd Dennis, Idea of Law, London: Penguin Books, Chapters 1 and 9, (2000). 
 2. A.T.H. Smith, Glanville Williams: Learning the Law, London: Stevens & Sons (16th Edition, 
 2016). 
@@ -1721,20 +1360,17 @@ Company, (1st Edition, 2023).
 References: 
 1. Bryan A. Garner, Carlos Bea et.al., The Law of Judicial Precedent, Thomson Reuters (2016). 
 2. Rupert Cross, J.W. Harris, Clarendon Press, Precedent in English Law, (1991). 
-3. A.K. Sarkar, Salmond’s Summary of Jurisprudence, Lexis Nexis (3rd Edition, 1973). 
+3. A.K. Sarkar, Salmond's Summary of Jurisprudence, Lexis Nexis (3rd Edition, 1973). 
 4. www.researchguides.ben.edu/research-basics 
-
-## Page 28
-
-28 
- 
-Program: B.A.LL.B. Semester: I 
+ ## Page 28
+ 28 
+  Program: B.A.LL.B. Semester: I 
 Course Code: 21LALC102 Course Title: Law of Torts 
 L-T-P-SS: 3-1-0-0 Credits: 4 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
 Teaching Hrs: 65 Exam Duration: 3 hrs. 
 Content Hrs 
-Unit – 1 
+Unit - 1 
 Unit - I: Introduction 
  Evolution of Law of Torts - Writ of Forms, Writ of Trespass 
  ubi jus ibiremedium 
@@ -1742,7 +1378,7 @@ Unit - I: Introduction
  Torts Distinguished from Contract and Crime 
  Mental Elements - Intention, Motive, Malice in Law and in Fact 
 13 
-Unit – II 
+Unit - II 
 Unit - II: General Defences 
  Capacity to Sue and be Sued 
  General Defences 
@@ -1776,43 +1412,36 @@ Offences
 Prescribed Book(s): 
 1. Ratan Lal and Dhiraj Lal, The Law of Torts, New Delhi: LexisNexis, (29thEdition, 2022). 
 2. P.S. Achuthen Pillai, Law of Tort, Eastern Book Company, (9th Edition, 2023). 
- 
-References: 
+  References: 
 1. Rogers, W.V.H, Winfield and Jolowicz on Tort, London: Sweet and Maxwell, (15th Edition, 1999). 
 2. R.F.V. Heuston and R. A. Buckley, Salmond and Heuston on the Law of Torts, U.K.: Sweet and 
 Maxwell Ltd, (26th Edition, 1996). 
-
-## Page 29
-
-29 
- 
-3. Howarth, David and Janet O’Sullivan, Hepple, Howarth and Matthew’s Tort: Cases and 
+ ## Page 29
+ 29 
+  3. Howarth, David and Janet O'Sullivan, Hepple, Howarth and Matthew's Tort: Cases and 
 Materials, New Delhi: LexisNexis, (5th Edition, 2000). 
 4. Upendra Baxi and Amita Danda, Valiant victims and Lethal Litigation-The- The Bhopal Case. 
 5. Tony Weir, A Casebook on Tort, London: Sweet and Maxwell, (4th Edition, 1974). 
 6. Kirsty Horsey and Erika Rackley, Case Book on Tort Law, Oxford University (16th Edition, 
 2021). 
-7. Martin Matthews, Jonathan Morgan, Colm O’Cinneide, Tort Cases and Materials, London: 
+7. Martin Matthews, Jonathan Morgan, Colm O'Cinneide, Tort Cases and Materials, London: 
 Butterworth, (1976). 
 8. Glanville Williams and B.A. Hepple: Foundations of the Law of Torts, London: Oxford 
 University Press, (6th Edition, 2008). 
-
-## Page 30
-
-30 
- 
-Program: B.A.LL.B. Semester: I 
+ ## Page 30
+ 30 
+  Program: B.A.LL.B. Semester: I 
 Course Code: 21LALL101 Course Title: Art of Public Speaking 
 L-T-P-Self Study: 1-0-1-0 Credits: 2 
 ISA Marks: 100 ESA Marks: 0 Total Marks: 100 
 Teaching Hrs: 30 
 Content Hrs 
-Unit – 1 
+Unit - 1 
 Unit I: Reading Exercises 
  Reading and understanding newspaper articles 
  Fifteen reading exercises prescribed 
 10 
-Unit – II 
+Unit - II 
 Unit II: Writing Exercises 
  Making notes on the articles read during reading exercises 
  Important words and phrases to be listed 
@@ -1826,12 +1455,9 @@ Unit III: Speaking Exercises
  3-5 rounds of formal speaking training sessions to be done 
  2 rounds of assessment to be conducted 
 10 
-
-## Page 31
-
-31 
- 
-Program: B.A. LL.B. Semester: I 
+ ## Page 31
+ 31 
+  Program: B.A. LL.B. Semester: I 
 Course Code: 21LALL102 Course Title: Introduction to GenAI 
 L-T-P-SS: 1-0-1-0 Credits: 2 
 ISA Marks: 100 ESA Marks: 0 Total Marks: 100 
@@ -1879,19 +1505,15 @@ Unit - V: GenAI Application - Project
  Develop a Legal Case Study Generator
  Build a tool that generates realistic legal case studies using GenAI.
 6 
-
-## Page 32
-
-32 
- 
- Generate Legal Document Templates
+ ## Page 32
+ 32 
+   Generate Legal Document Templates
  Create a tool that uses GenAI to generate various legal document templates.
  Build an AI-powered summarizer for legal documents.
- 
-Prescribed Books: 
+  Prescribed Books: 
 1. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and 
 Techniques to Build Intelligent Systems, Shroff/O'Reilly, 3rd Ed., 2022. 
-2. Abhivardhan, AI Ethics and the Law, EBC Publ’g 2021. 
+2. Abhivardhan, AI Ethics and the Law, EBC Publ'g 2021. 
 3. Pavan Duggal, Artificial Intelligence Law, Cyberlaws.net Publication, 2022. 
 References: 
 1. Woodrow Barfield, Artificial Intelligence and the Law (Edward Elgar Publishing, 2020). 
@@ -1899,48 +1521,43 @@ References:
 (Thomson Reuters 2023). 
 3. Talat Fatima, Cyber Law: Law of Information Technology and Internet (LexisNexis 2022). 
 4. K Swaminathan, Anita Thomas, Generative AI in the Courtroom: A Practical Handbook for 
-Modern Justice: Empowering India’s Legal Professionals with AI Tools and Techniques, (Notion 
+Modern Justice: Empowering India's Legal Professionals with AI Tools and Techniques, (Notion 
 Press, 2024). 
-
-## Page 33
-
-33 
- 
-Semester II 
- 
-Program: B.A.LL.B. Semester: II 
+ ## Page 33
+ 33 
+  Semester II 
+  Program: B.A.LL.B. Semester: II 
 Course Code: 21LBLH104 Course Title: LANGUAGE - II: Law and Literature 
-L-T-P-Self-study: 3-1-0-0 Credits:4  
+L-T-P-Self-study: 3-1-0-0 Credits:4 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 65  Exam Duration: 3hrs. 
+Teaching Hrs: 65 Exam Duration: 3hrs. 
 Content Hrs 
-Unit–1 
+Unit-1 
  United States v. Susan B Anthony Case-1873 
- ‘Swaraj is My Birthright’- Speech by Lokmanya Tilak 
- Plato’s Apology 
+ 'Swaraj is My Birthright'- Speech by Lokmanya Tilak 
+ Plato's Apology 
  Oliver Brown v. Board of Education of Topeka Case-1954 
- Abraham Lincoln’s Letter to his Son’s Headmaster 
+ Abraham Lincoln's Letter to his Son's Headmaster 
 13 
-Unit -II  
- 
- 1984 – Novel by George Orwell 
- The Merchant of Venice – Play by William Shakespeare 
+Unit -II 
+   1984 - Novel by George Orwell 
+ The Merchant of Venice - Play by William Shakespeare 
 13 
-Unit III  
- ‘Epilogue’, excerpt from ‘Roses in December’, the autobiography of M C Chagla 
- “Lessons in the ‘School of Hard Knocks”, 
- Excerpt from ‘Before Memory Fades’, an autobiography of Fali Sam Nariman 
- ‘Yaksha Prashne’ – Text from Mahabharata 
- ‘The Supreme Court’s Judgement in the Minerva Mills’ Case (Pg. No. 207-217), 
-excerpt from ‘We, the People’, the autobiography of Nani Palkhivala 
+Unit III 
+ 'Epilogue', excerpt from 'Roses in December', the autobiography of M C Chagla 
+ "Lessons in the 'School of Hard Knocks", 
+ Excerpt from 'Before Memory Fades', an autobiography of Fali Sam Nariman 
+ 'Yaksha Prashne' - Text from Mahabharata 
+ 'The Supreme Court's Judgement in the Minerva Mills' Case (Pg. No. 207-217), 
+excerpt from 'We, the People', the autobiography of Nani Palkhivala 
 13 
-Unit–IV 
- The Five Functions of the Lawyer – Arthur T Vanderbilt 
+Unit-IV 
+ The Five Functions of the Lawyer - Arthur T Vanderbilt 
  On the Entirely Reasonable Murder of a Police Constable- George Bernard Shaw 
- ‘A Jury of Her Peers’ – Short Story by Susan Glaspell 
- ‘Silence! The Court in Session’ – Play by Vijay Tendulkar 
+ 'A Jury of Her Peers' - Short Story by Susan Glaspell 
+ 'Silence! The Court in Session' - Play by Vijay Tendulkar 
 13 
-Unit - V  
+Unit - V 
  Court (2014 Marathi Film) 
  Nuremberg (2000 English Mini Series) 
  12 Angry Men (1965 English Film) 
@@ -1949,26 +1566,22 @@ Unit - V
 Prescribed Books/Resources: 
 1. Bharvani, Shakuntala. The Law and Literature, Himalaya Publishing House, 8th Edition, 2021, 
 Bangalore 
-2. Srinivasan.A.V., Yaksha Prashna – A Fable from the Mahabharata, Orient Paperbacks, 1st 
+2. Srinivasan.A.V., Yaksha Prashna - A Fable from the Mahabharata, Orient Paperbacks, 1st 
 Edition, 2016, New Delhi 
 3. Plato. The Apology. Double 9 Books, 2023, New Delhi. 
 4. Orwell, George. 1984. Fingerprint Publishing, Ist Edition, 2019, Noida. 
- 5.  Shakespeare, William. The Merchant of Venice. Longman, 1994, London. 
+ 5. Shakespeare, William. The Merchant of Venice. Longman, 1994, London. 
 6. Nariman, Fali Sam. Before Memory Fades: An Autobiography, Hay House, 1st Edition, 2012, 
 New Delhi 
-
-## Page 34
-
-34 
- 
-7. Palkhivala, Nani. We, the People: India: The Largest Democracy. UBS Publishers, 1999. 
+ ## Page 34
+ 34 
+  7. Palkhivala, Nani. We, the People: India: The Largest Democracy. UBS Publishers, 1999. 
 8. Chagla, M.C. Roses in December an Autobiography. Bharatiya Vidya Bhavan, 12th Edition, 
 2012. 
 9. R. P. Bhatnagar, Law and Language, Trinity Press Pvt. Ltd., 1st Edition, 2012, New Delhi 
 10. Tendulkar, Vijay. Silence, The Court is in Session. Oxford University Press, 2017, New Delhi. 
 11. Glaspell, Susan. A Jury of Her Peers. Kessinger Publishing, U.S.A, 2010. 
- 
-Additional Reading(s)/Learning Resource(s) 
+  Additional Reading(s)/Learning Resource(s) 
 1. https:/ /famous-trials.com/anthony/444-home 
 2. https://hwnews.in/articles/explainers/lokmany-tilak-self-rule/51623 
 3. Brown v. Board of Education (1954): www.archives.gov 
@@ -1980,19 +1593,16 @@ List of cases:
 1. United States v. Susan B. Anthony - 1873 
 2. Oliver Brown v. Board of Education of Topeka - 1954 
 3. Minerva Mills Ltd. v. Union of India 
-
-## Page 35
-
-35 
- 
-Program: B.A.LL.B. Semester: II 
+ ## Page 35
+ 35 
+  Program: B.A.LL.B. Semester: II 
 Course Code: 21LALH105 Course Title: POLITICAL SCIENCE- II: Political 
 Theory and Thought 
 L-T-P-Self Study:3-1-0-0 Credits: 4 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 67  Exam Duration: 3 hrs. 
+Teaching Hrs: 67 Exam Duration: 3 hrs. 
 Content Hrs 
-Unit – 1 
+Unit - 1 
 UNIT - I: Introduction to Political Theory and Thought 
  Political Theory: Meaning, definitions, nature and importance 
  Political Thought: Evolution, growth, nature and importance 
@@ -2000,7 +1610,7 @@ UNIT - I: Introduction to Political Theory and Thought
  Political Theory v/s Political Thought 
  Decline of Political Theory 
 13 
-Unit – 2 
+Unit - 2 
 UNIT - II: Western Political Thought 
  Plato: Virtue of knowledge, justice, education, classification of society 
  Aristotle: Citizenship, distributive justice, classification of constitutions 
@@ -2013,7 +1623,7 @@ UNIT - III: Indian Political Thought
  Salient Features of Ancient Indian Political Thought 
  Manu- Ideas on State, Government and Foreign Policy 
  Kautilya- Statecraft and Saptanga theory; foreign policy 
- M.K. Gandhi – Political philosophy, non-violent State 
+ M.K. Gandhi - Political philosophy, non-violent State 
  Dr. B.R. Ambedkar- Ideas on State and Democracy 
 14 
 Unit-4 
@@ -2031,12 +1641,9 @@ democracy
  Equality: Meaning, kinds and importance, relationship between liberty and equality 
  Justice: Meaning, kinds, theories of justice (John Rawls and Thomas Pogge) 
 12 
-
-## Page 36
-
-36 
- 
-Theory: An Introduction. New Delhi: Pearson Longman, 2008. 
+ ## Page 36
+ 36 
+  Theory: An Introduction. New Delhi: Pearson Longman, 2008. 
 9. Chakravarty Pandey, Modern Indian Political Thought, Sage Texts, New Delhi, 2020. 
 10. Collin, Farrelly, Contemporary Political Theory, Sage Reader, London, 2004. 
 A. (eds.) Political 
@@ -2045,7 +1652,7 @@ and
 R. 
 Bhargava, 
 in 
-‘Democracy’, 
+'Democracy', 
 J. 
 Srinivasan, 
 Philosophy. Cambridge: Harvard University Press, 1996. 
@@ -2064,33 +1671,30 @@ References:
 3. David Dockery S. The Challenge of Postmodernism, A Bridge point Book, 1995. 
 4. David Held (Ed), Political Theory Today, Stanford: Stanford University Press, 1991. 
 5. Fukuyama, Francis, Social Capital and Civil Society, Institute of Public Policy, 
-Mason University,1999. 
+Mason University, 1999. 
 6. Michael J. Sandel, Democracy's Discontent: America in Search of a Public 
-
-## Page 37
-
-37 
- 
-Program: B.A.LL.B. Semester: II 
+ ## Page 37
+ 37 
+  Program: B.A.LL.B. Semester: II 
 Course Code: 21LALH106 Course Title: HISTORY-II: History of Courts and 
 Legal Profession in India 
 L-T-P-Self Study: 3-1-0-0 Credits: 4 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 66  Exam Duration: 3 hrs. 
+Teaching Hrs: 66 Exam Duration: 3 hrs. 
 Content Hrs 
-Unit – 1 
+Unit - 1 
 Unit -I: Ancient and Medieval Courts 
  Mauryan courts, Gupta age, Sultans and Mughals. 
- Courts – the British period: Charters of East India Company 1600 and 1661, 
+ Courts - the British period: Charters of East India Company 1600 and 1661, 
 Administration of Justice in the Presidency Towns (1600 -1773) and the 
-development of Courts – Mayor’s court of 1726. 
+development of Courts - Mayor's court of 1726. 
  Warren Hastings Plan of 1772 - Regulating Act of 1773 
  The Adalat System of Courts Reforms made under the Plan of 1774 and re- 
 organization of the Plan 1780. 
  Conflict: Raja Nand Kumar, Kamaluddin, Patna Case and Cossijurah 
- Lord William Bentick’s judicial reforms. 
+ Lord William Bentick's judicial reforms. 
 15 
-Unit – 2 
+Unit - 2 
 Unit- II: Evolution of Law and Legal Institutions 
  Debate on the introduction of English law in India- the Whigs, development of 
 personal law and criminal laws. 
@@ -2121,12 +1725,9 @@ Slavery, caste disability removal Act 1850, female infanticide Act.
  Labour Welfare- Factory Acts in British rule. 
 12 
 Unit-5 
-
-## Page 38
-
-38 
- 
-Unit - V: Legal Profession 14 
+ ## Page 38
+ 38 
+  Unit - V: Legal Profession 14 
  Legal Profession: Organisation of Legal Profession under the Charter of 
 1774.
  Legal Profession in Company Courts Provision for enrolment of Advocates, 
@@ -2136,8 +1737,7 @@ advocates under the Letters Patent issued Legal Practitioners Act, 1879
  Report of the Indian Bar Committee, 1923 - The Indian Bar Councils Act, 
 1926, The All-India Bar Committee, 1951
  History of Law Reporting in India
- 
-Prescribed Book(s): 
+  Prescribed Book(s): 
 1. M. P. Jain: Outline of India Legal History, Dhanwantri Mechanical Law Book House, 
 Delhi. 2014 
 2. A. B. Keith: A Constitutional History of India, 1600-1935, 2nd Ed., Allahabad, Central 
@@ -2156,8 +1756,7 @@ Press, 1907.
 Eastern Book Company, 2012 
 7. Sumeet Malik, Landmarks in Indian Legal & Constitutional History. Eastern Book 
 Company, 2017. 
- 
-Important Statutes passed by British in India 
+  Important Statutes passed by British in India 
  The Regulating Act of 1773 
  The Charter Act of 1793 
  The Charter Act of 1813 
@@ -2170,16 +1769,15 @@ Important Statutes passed by British in India
  The Indian Slavery Act, 1843 
  The Caste Disabilities Removal 
 Act, 1850 
- The Legal Practitioner’s Act, 1853 
+ The Legal Practitioner's Act, 1853 
  The Indian Penal Code, 1860 
- 
- The Indian High Courts Act, 1861 
+   The Indian High Courts Act, 1861 
  The factory Act of 1881 
  The Hindu Widows Remarriage 
 Act of 1856 
  The Government of India Act 0f 
 1858 
- The Indian Council’s Act of 1892 
+ The Indian Council's Act of 1892 
  The Indian councils Act, 1909 
 /Morley-Minto Reforms 
  The Government of India Act of 
@@ -2187,32 +1785,25 @@ Act of 1856
  The Government of India Act of 
 1935 
  Indian Bar Councils Act 1926 
-
-## Page 39
-
-39 
- 
-Cases 
+ ## Page 39
+ 39 
+  Cases 
  The case of Raja Nand Kumar, 1774 
  The case of Kamaluddin, 1775 
- The case of Patna,1777-79, 
+ The case of Patna, 1777-79, 
  The case of Cossijurah, 1779-80 
-
-## Page 40
-
-40 
- 
-←BACK TO SEMESTER I 
- 
-Program: B.A.LL.B. Semester: II 
+ ## Page 40
+ 40 
+  ←BACK TO SEMESTER I 
+  Program: B.A.LL.B. Semester: II 
 Course Code: 21LALH107 Course Title: ECONOMICS - I: Fundamentals of 
 Economics 
 L-T-P-Self Study: 3-1-0-0 Credits: 4 Contact Hrs: 4 hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs:  Exam Duration: 3 hrs. 
+Teaching Hrs: Exam Duration: 3 hrs. 
 Content Hrs 
-Unit – 1 
-UNIT – I: Introduction to Economics 
+Unit - 1 
+UNIT - I: Introduction to Economics 
  Definition of Economics, Nature, and scope of economics 
  Methodology of Economics, Microeconomics and Macroeconomics, Fundamental 
 Economic Problems and Economic Laws 
@@ -2222,18 +1813,18 @@ Economic System,
 Social Welfare. 
 0 
 hrs 
-Unit – 2 
-UNIT – II: Consumer Behaviour 
+Unit - 2 
+UNIT - II: Consumer Behaviour 
  Utility and Law of Diminishing Marginal Utility, Equi Marginal Utility 
- Consumer’s Surplus 
+ Consumer's Surplus 
  Demand- meaning and determinants of demand -Law of Demand - Exceptions to 
 the Law of Demand 
  Elasticity of Demand 
- Indifference curve analysis-properties and Consumer’s Equilibrium 
+ Indifference curve analysis-properties and Consumer's Equilibrium 
  Revealed Preference Theory 
 10 hrs 
 Unit-3 
-UNIT – III: Producer behaviour and Market structure 
+UNIT - III: Producer behaviour and Market structure 
  Supply and Law of Supply 
  Cost-short run and long run cost curves, Revenue in economics 
  Production function-Law of Variable Proportions and Law of Returns to Scale 
@@ -2243,28 +1834,25 @@ UNIT – III: Producer behaviour and Market structure
  Oligopolistic market- features, Duopoly, Price Leadership, Kinked demand 
 10 hrs 
 Unit-4 
-UNIT – IV: National Income 
+UNIT - IV: National Income 
  Circular flow of Money: Two-sector, Three-sector and Four-sector model 
  National Income meaning and definitions, Concepts of National Income, Methods 
-for estimation of National Income, and difficulties in its estimation. (India’s 
+for estimation of National Income, and difficulties in its estimation. (India's 
 perspective) 
  Green GDP, National Income and Social Welfare 
  Parallel economy 
 5 
 Unit-5 
-UNIT – V: Money, Banking and Financial Institutions 
+UNIT - V: Money, Banking and Financial Institutions 
  Money: evolution of money, Types of Money and functions of Money 
  Supply of Money: Four measures of money supply, Determinants of money 
 supply, and High-powered money 
  Inflation and deflation 
  Commercial Banks: Functions, Credit creation of commercial banks 
  Central Bank: Functions, Credit Control measures, Monetary Policy 
- 
-## Page 41
-
-41 
- 
- Role and Functions of Non-Banking Financial Institutions  
+  ## Page 41
+ 41 
+   Role and Functions of Non-Banking Financial Institutions 
 Prescribed Books: 
 1. M.L. Seth, Principles of Economics, Lakshmi Narian Agarwal Educational Publisher, 44th 
 edition, 2015 
@@ -2276,26 +1864,23 @@ References:
 1. K.C. Gopalkrishna, Legal Economics (Inter dimensions of Economics and Law, Eastern Book 
 Company, Lucknow, 1998 
 2. H.L. Ahuja, Modern Economics, S Chand and Company Pvt Limited, Ranmagar, New Delhi, 
-19th Revised edition,2014 
+19th Revised edition, 2014 
 3. Stonier and Hague, A Textbook of Economic Theory, Pearson, Published by Dorling 
 Kindersley (India) Pvt Ltd. 2013 
 4. D.N. Dwivedi, Macroeconomics, Tata McGraw-Hill Publishing Company Limited, New 
 Delhi, 2nd Edition, 2009 
 5. Dr Bimal N Patel, Dr Ranita Nagar, Hitesh Kumar Thakkar, Economic Analysis and Law- An 
 Indian Perspective, LexisNexis, 20 
-
-## Page 42
-
-42 
- 
-Program: B.A.LL.B. Semester: III 
-Course Code: 21LALH201 Course Title: POLITICAL SCIENCE – III: Indian 
+ ## Page 42
+ 42 
+  Program: B.A.LL.B. Semester: III 
+Course Code: 21LALH201 Course Title: POLITICAL SCIENCE - III: Indian 
 Government and Politics 
 L-T-P-SS: 3-1-0-0 Credits: 4 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
 Teaching Hrs: 67 Exam Duration: 3 hrs. 
 Content Hrs. 
-Unit – I 
+Unit - I 
 Unit - I: Constitutional Framework 
  Constituent Assembly-Formation; Composition and Constituent Assembly debates 
  Preamble- Philosophy of Indian Constitution; Salient Features of Indian Constitution 
@@ -2304,13 +1889,13 @@ Unit - I: Constitutional Framework
  Constitutional Amendment- Amendment Procedures, Important Constitutional; 
 Amendments-24th, 42nd, 44th, 100th and others 
 12 
-Unit – II 
+Unit - II 
 Unit-II: Organs of Government 
  Legislature- Meaning, organisational structure, powers and functions of Parliament, 
 Law-Making Process 
  Executive - Meaning, organisational structure, powers and functions of President and 
 Prime Minister; Ordinances- difference between Statutes and Ordinances 
- Judiciary- Supreme Court of India – Evolution, organisation, functions, and 
+ Judiciary- Supreme Court of India - Evolution, organisation, functions, and 
  Jurisdiction, Judicial Review, Judicial Activism, and PIL 
 13 
 Unit-III 
@@ -2336,17 +1921,14 @@ Unit-V
 Unit -V: Political Representation 
  Representation: Meaning and importance, forms of representation -J S Mill and Hare 
 systems 
- Electoral Behavior – facts and implications 
- Public opinion – agencies and techniques 
+ Electoral Behavior - facts and implications 
+ Public opinion - agencies and techniques 
  Constituencies- formation and types 
 14 
-
-## Page 43
-
-43 
- 
-Prescribed Book(s): 
-1. Subash Kashyap- Our Constitution: An Introduction to India’s Constitution; New Delhi: Vitast 
+ ## Page 43
+ 43 
+  Prescribed Book(s): 
+1. Subash Kashyap- Our Constitution: An Introduction to India's Constitution; New Delhi: Vitast 
 Publishing Pvt. Ltd, (2021). 
 2. Ashok Ganguly- Landmark Judgments that changed India; New Delhi: Prabhat Prakashan Pvt 
 Ltd., (2015). 
@@ -2358,7 +1940,7 @@ Trust India, (2007).
 4. Zoya Hasan- Parties and Party Politics in India; New Delhi: Oxford University Press, (2004). 
 5. Neerja Gopal Jayal and P.B. Mehta- The Oxford Companion to Politics in India, New Delhi: JNU, 
 (2010). 
-6. Nirmal K Mukherjee, Balveer Arora – Federalism in India: Origins and Development; New 
+6. Nirmal K Mukherjee, Balveer Arora - Federalism in India: Origins and Development; New 
 Delhi: Vikas Publishing House, (1992). 
 7. Fadia and Fadia. Indian Polity; New Delhi: Sahitya Bhavan Publication, (2021). 
 8. Rajan Kumud Singh, Indian Polity and Constitutional Issues, Uttar Pradesh: Arihant 
@@ -2366,19 +1948,16 @@ Publications, (2019).
 9. M. Lakshmikanth, Governance in India, New Delhi: McGraw-Hill Education Publication, (2015). 
 10. George Andrews Alex., A Landmark Judgments that transformed India, New Delhi: McGraw- 
 Hill Education Series, (2020). 
-
-## Page 44
-
-44 
- 
-Program: B.A.LL.B. Semester: II 
+ ## Page 44
+ 44 
+  Program: B.A.LL.B. Semester: II 
 Course Code: 21LALC103 Course Title: Contract Law- I: General Principles of 
 Law of Contract 
-L-T-P-Self-study: 3-1-0-0 Credits:4  
+L-T-P-Self-study: 3-1-0-0 Credits:4 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 65  Exam Duration: 3hrs. 
+Teaching Hrs: 65 Exam Duration: 3hrs. 
 Content Hrs 
-Unit–1 
+Unit-1 
 Unit - I: Formation of Contract 
  Agreement and contract 
  Definitions, classification 
@@ -2389,15 +1968,14 @@ Unit - I: Formation of Contract
  Essential elements: Consideration: Nudum Pactum, privity of contract and of 
 consideration, exceptions to privity of contract and consideration 
 13 
-Unit -II  
- 
-Unit - II: Concept of Capacity to Contract and Free Consent 
- Capacity to Contract: Minor’s agreements and its effects 
+Unit -II 
+  Unit - II: Concept of Capacity to Contract and Free Consent 
+ Capacity to Contract: Minor's agreements and its effects 
  Agreement of Persons of unsound mind and persons disqualified by Law 
  Consent: Free consent, coercion, undue influence, misrepresentation, fraud, 
 mistake, effects 
 13 
-Unit III  
+Unit III 
 Unit - III: Legality of Object and Kinds of Contract 
  Legality of Object 
  Void Agreements: restraint of marriage, restraint of trade, restraint of legal 
@@ -2406,7 +1984,7 @@ proceedings, ambiguous and uncertain agreement, wager agreement
  Quasi Contracts 
  E-contract: Contractual ability, electronic documents, digital signature 
 13 
-Unit–IV 
+Unit-IV 
 Unit - IV: Modes of Discharge of Contracts and Remedies for the Breach of Contract 
  Modes of discharge of contracts: Time and place of performance, performance of 
 reciprocal promises, appropriation of payments, discharge by agreement, operation 
@@ -2416,13 +1994,10 @@ of law, frustration, impossibility of performance
  Damages: Kinds of damages, remoteness of damages, ascertainment of damages, 
 penalty and liquidated damages, quantum merit 
 13 
-Unit - V  
-
-## Page 45
-
-45 
- 
-Unit - V: The Specific Relief Act, 1963 
+Unit - V 
+ ## Page 45
+ 45 
+  Unit - V: The Specific Relief Act, 1963 
  Equitable relief, The Specific Relief Act: Nature of Specific Relief 
  Recovery of possession of movable and immovable property 
  Specific performance when granted and not granted, who may obtain and against 
@@ -2450,34 +2025,30 @@ University Press, (6th Edition, 2007).
 12. T.S. Venkatesa Iyer, Law of Contract revised by Dr. V. Krishnama Chary, Hyderabed: Asia Law 
 house, (4th Edition, 1983). 
 13. R.K. Singh, Law Relating to Electronic Contracts, Gurgoan: LexisNexis, (2014). 
-
-## Page 46
-
-46 
- 
-Program: UG Semester: II 
+ ## Page 46
+ 46 
+  Program: UG Semester: II 
 Course Code: 21LBLL102 Course Title: Consumer Law and Practice 
-L-T-P-Self Study: 1-0-1-0 Credits:2  
-ISA Marks: 100  Total Marks: 100 
-Teaching Hrs: 30  Exam Duration: 3hrs. 
+L-T-P-Self Study: 1-0-1-0 Credits:2 
+ISA Marks: 100 Total Marks: 100 
+Teaching Hrs: 30 Exam Duration: 3hrs. 
 Content Hrs 
-Unit–1 
+Unit-1 
 Unit I: Introduction to Consumer Law and Practice 
- Introduction to the concepts of ‘consumer’ and ‘consumerism’ 
+ Introduction to the concepts of 'consumer' and 'consumerism' 
  Consumer Protection: Global Scenario 
  Consumer Laws and Constitution 
 Consumer Rights: the right to be informed, the right to choose, the right to safety, the 
 right to be heard, the right to have problems corrected, the right to consumer 
 education, and the right to service 
 6 
-Unit -II  
- 
-Unit II: Evolution of Consumer Law 
- Evolution of Consumer Protection Law – Ancient Period 
- Evolution of Consumer Protection Law – Medieval Period 
+Unit -II 
+  Unit II: Evolution of Consumer Law 
+ Evolution of Consumer Protection Law - Ancient Period 
+ Evolution of Consumer Protection Law - Medieval Period 
 Evolution of Consumer Law in Modern Period - British Era and Post-Independence 
 6 
-Unit III  
+Unit III 
 Unit III: Consumer Protection Law in India 
  Salient features of the Consumer Protection Act, 2019. 
  Definitions under CPA 2019 - advertisement, appropriate laboratory, complainant, 
@@ -2486,9 +2057,9 @@ selling, e -commerce, electronic service provider, endorsement, express warranty
 harm, injury, manufacturer, misleading advertisement, person, product liability, 
 restrictive trade practice, service, unfair contract, unfair trade practice etc. 
  Consumer rights and responsibilities under the Act 
- Comparative Study of Consumer Protection Act,1986 and 2019 
+ Comparative Study of Consumer Protection Act, 1986 and 2019 
 6 
-Unit–IV 
+Unit-IV 
 Unit IV: Consumer Complaints and Redressal Mechanisms 
  Remedies and Penalties under the Consumer Protection Act, 2019. 
  Consumer Complaints - Meaning, types, and procedure 
@@ -2496,45 +2067,38 @@ Unit IV: Consumer Complaints and Redressal Mechanisms
 Council 
  Appellate mechanism and judicial review 
 6 
-Unit - V  
+Unit - V 
 Unit V: Emerging Issues and Remedies in Consumer Protection 
  ADR in Consumer Disputes 
  E-commerce 
  Consumer Protection in Digital Age 
 6 
-
-## Page 47
-
-47 
- 
-References: 
+ ## Page 47
+ 47 
+  References: 
 1. V.K. Agarwal, Consumer Protection Act, 2019 Principles and Practice, Bharat Law House Pvt. 
 Ltd., New Delhi, 1st edition, 2023. 
 2. Y. Venkateshwara Rao, Commentary on the Consumer Act, 2019, Asia Law House, Hyderabad, 
 5th edition, 2022. 
 3. Nandan Kamath, Law Relating to Computers, Internet and E-Commerce, Universal Law 
 Publishing Co., Delhi, 5th Edition, 2017. 
-
-## Page 48
-
-48 
- 
-Semester III 
- 
-Program: B.A.LL.B. Semester: III 
-Course Code: 21LALH202 Course Title: HISTORY–III: History of Modern 
+ ## Page 48
+ 48 
+  Semester III 
+  Program: B.A.LL.B. Semester: III 
+Course Code: 21LALH202 Course Title: HISTORY-III: History of Modern 
 Europe (1500-1945) 
 L-T-P-SS: 3-1-0-0 Credits: 4 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
 Teaching Hrs: 65 Exam Duration: 3 hrs. 
 Content Hrs. 
-Unit – I 
+Unit - I 
 Unit - I: Introduction- The Period of Discoveries 
  Geographical Discoveries- Causes, Important Discoveries, Results 
  Renaissance- Causes, Features, Art and Architecture, Literature and Science 
- Reformation Movement – the role of Martin Luther 
+ Reformation Movement - the role of Martin Luther 
 13 
-Unit – II 
+Unit - II 
 Unit - II: Era of Revolutions, Nationalism and Movements for Unification 
  Industrial Revolution in Europe
  American War of Independence
@@ -2561,38 +2125,31 @@ International Court of Justice- Origin and Development
  History of Tribunals, HR Law, International Criminal Court 
  UNO and Environment- a brief overview 
 13 
-
-## Page 49
-
-49 
- 
-Prescribed Book(s): 
-1. Dr. B.R. Parineetha – History of Modern Europe 1500-1945, Kolkata: United Publishers. 
-2. E.H. Carr – International Relations between the two world wars, 1976, London, Palgrave 
+ ## Page 49
+ 49 
+  Prescribed Book(s): 
+1. Dr. B.R. Parineetha - History of Modern Europe 1500-1945, Kolkata: United Publishers. 
+2. E.H. Carr - International Relations between the two world wars, 1976, London, Palgrave 
 Macmillan (1990). 
-3. K.L. Khurana – World History 1815 AD to 1966 AD, 2017, Agra: Lakshmi Narain Agarwal, (20 
- 
-References: 
+3. K.L. Khurana - World History 1815 AD to 1966 AD, 2017, Agra: Lakshmi Narain Agarwal, (20 
+  References: 
 1. P.C. Thomas - History of Europe, New Delhi: Har Anand Publications, (2007). 
 2. B.V. Rao - History of Modern Europe 1789-1960, 6th Ed., United Kingdom: Bell Publication, 
 (2016). 
 3. V.D. Mahajan, History of Modern Europe since 1789, New Delhi: S Chand Publishing, (2007). 
 4. G.P. Gooch, History of Modern Europe, New York: Henry Holt and Co., (1923). 
 5. J.R. Hale, Renaissance Europe, University of California Press, (1978). 
-
-## Page 50
-
-FMCD2009 / 2.0 50 
- 
-Program: B.A.LL.B. Semester: III 
-Course Code: 21LALH203 Course Title: ECONOMICS –II: 
+ ## Page 50
+ FMCD2009 / 2.0 50 
+  Program: B.A.LL.B. Semester: III 
+Course Code: 21LALH203 Course Title: ECONOMICS -II: 
 Development Economics, Public Finance, and 
 International Trade 
 L-T-P-Self Study: 3-1-0-0 Credits: 4 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
 Teaching Hrs.: 65 Exam Duration: 3 hrs. 
 Content Hrs. 
-Unit – I 
+Unit - I 
 Unit - I: Economic Growth and Development 
  Economic growth and development - concepts and approaches, obstacles for 
 economic development, Indicators and factors determining economic growth and 
@@ -2603,14 +2160,14 @@ a. Balanced and Unbalanced Growth Theory
 b. Rostow's theory of Growth 
  Solow Growth Theory 
 13 
-Unit – II 
+Unit - II 
 Unit - II: Public Finance 
- Public Finance – meaning, definition and scope 
- Public Revenue – sources of public revenue, effects, and significance 
- Tax – features, canons and types of tax and effects of Tax 
+ Public Finance - meaning, definition and scope 
+ Public Revenue - sources of public revenue, effects, and significance 
+ Tax - features, canons and types of tax and effects of Tax 
  Public Expenditure- causes for increase in public expenditure, classification, and 
 effects of public expenditure 
- Public Debt – types and its repayment 
+ Public Debt - types and its repayment 
 13 
 Unit- III 
 Unit - III: Budget 
@@ -2633,12 +2190,9 @@ rate regime
 Unit- V 
 Unit - V: International Economic Relations 
 13 
-
-## Page 51
-
-FMCD2009 / 2.0 51 
- 
- Economic Integration - need for economic integration, benefits from economic 
+ ## Page 51
+ FMCD2009 / 2.0 51 
+   Economic Integration - need for economic integration, benefits from economic 
 integration, problems of economic integration, measures to encourage economic 
 integration among developing countries 
  General Agreement on Trade and Tariffs and World Trade Organisation 
@@ -2646,8 +2200,7 @@ integration among developing countries
  New International Economic Order (NIEO) 
  International Monetary Fund 
  International Bank for Reconstruction and Development 
- 
-Prescribed Book(s): 
+  Prescribed Book(s): 
 1. M.L. Jhingan, The Economics of Development and Planning, Ltd. Delhi: Vrinda Publications (P) 
 (40th Edition, 2015). 
 2. M.L. Jhingan, International Economics, Delhi: Vrinda Publications (P) Ltd, (6th Revised and 
@@ -2661,30 +2214,27 @@ References:
 Revised Edition, 2014). 
 4. Mishra and Puri, Economic Environment of Business, New Delhi: Himalaya Publishing House, 
 (2014). 
-
-## Page 52
-
-FMCD2009 / 2.0 52 
- 
-Program: B.A.LL.B. Semester: III 
-Course Code: 21LALC201 Course Title: Contract Law – II: Special Contract 
+ ## Page 52
+ FMCD2009 / 2.0 52 
+  Program: B.A.LL.B. Semester: III 
+Course Code: 21LALC201 Course Title: Contract Law - II: Special Contract 
 L-T-P-Self Study: 3-1-0-0 Credits: 4 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
 Teaching Hrs.: 65 Exam Duration: 3 hrs. 
 Content Hrs. 
-Unit – I 
+Unit - I 
 Unit- I: Contract of Indemnity and Guarantee Contract of Indemnity: 
  Definition, Nature and Scope 
- Commencement of the indemnifier’s liability 
+ Commencement of the indemnifier's liability 
  Rights of the indemnity holder 
  Contract of Guarantee: 
 o Definition, essential features 
 o Difference between the contract of indemnity and guarantee 
-o Extent of Surety’s liability 
+o Extent of Surety's liability 
 o Discharge of Surety 
 o Rights of surety Co-surety 
 13 
-Unit – II 
+Unit - II 
 Unit- II: Contract of Bailment and Pledge 
 Contract of Bailment: 
  Definition, essential of bailment 
@@ -2719,12 +2269,9 @@ Unit- IV: Partnership
  Definition, essentials of partnership 
  Mode of determining the existence of partnership 
 13 
-
-## Page 53
-
-FMCD2009 / 2.0 53 
- 
- Types of partners 
+ ## Page 53
+ FMCD2009 / 2.0 53 
+   Types of partners 
  Admission of minor to the benefits of firm 
  Relation of partner to one another 
  Relation of partners with third parties 
@@ -2734,8 +2281,7 @@ FMCD2009 / 2.0 53
 registration 
  Dissolution of the Firm 
  Limited Liability Partnership- salient features- liability aspect 
- 
-Unit-V 
+  Unit-V 
 Unit- V: Sale of Goods 
  Contract of sale 
  Agreement to sell 
@@ -2769,18 +2315,15 @@ Statutes:
 5. The Sale of Goods Act, 1930 
 6. The Transfer of Property Act, 1882 
 7. The Hire Purchase Act, 1972 
-
-## Page 54
-
-54 
- 
-Program: B.A.LL.B. Semester: III 
-Course Code: 21LALC202 Course Title: Constitutional Law – I 
+ ## Page 54
+ 54 
+  Program: B.A.LL.B. Semester: III 
+Course Code: 21LALC202 Course Title: Constitutional Law - I 
 L-T-P-Self Study: 3-1-0-0 Credits: 4 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
 Teaching Hrs.: 65 Exam Duration: 3 hrs. 
 Content Hrs. 
-Unit – I 
+Unit - I 
 Unit - I: Introduction 
  Purpose and objectives- Preamble, and Constitutional history 
  Salient features of the Constitution of India 
@@ -2788,7 +2331,7 @@ Unit - I: Introduction
 Preamble 
  Key definitions- Law, law in force, and territory of India 
 13 
-Unit – II 
+Unit - II 
 Unit - II: Fundamental Rights 
  Meaning, nature, importance and scope of fundamental rights 
  Differences between fundamental rights and human rights 
@@ -2809,7 +2352,7 @@ Legitimate Expectation, and Principles of Natural Justice
 Unit-IV 
 Unit - IV: Right to Life, Liberty and Freedoms 
  Right to life and liberty - Meaning, judicial interpretations, new dimensions, 
-differences between ‘due process of law’ and ‘procedure established by law’ 
+differences between 'due process of law' and 'procedure established by law' 
  Right to freedoms - Freedom of speech and expression, assembly, association, 
 movement, residence, profession, trade, business or occupation; reasonable 
 restrictions and the Doctrine of Proportionality 
@@ -2825,71 +2368,54 @@ test, Convention and Constitutional morality
  Directive Principles of State Policy (DPSPs)- Purpose, significance, Enforceability vis- 
 a- vis Fundamental Rights, IX Schedule- Judicial Review Article, 31-B and 31-C 
  Fundamental Duties - Significance and Enforceability 
- 
-Prescribed Book(s): 
+  Prescribed Book(s): 
 1. M.P. Singh (ed), V.N. Shukla, Constitution of India, Lucknow: Eastern Book Company, (13th Ed 
 2018). 
-
-## Page 55
-
-55 
- 
-2. Justice J. Chelameshwar and Justice D.S. Naidu (eds), M.P. Jain, Indian Constitutional Law, New 
-Delhi: LexisNexis, (8th Edition,2018). 
- 
-References: 
+ ## Page 55
+ 55 
+  2. Justice J. Chelameshwar and Justice D.S. Naidu (eds), M.P. Jain, Indian Constitutional Law, New 
+Delhi: LexisNexis, (8th Edition, 2018). 
+  References: 
 1. Granville Austin, The Indian Constitution: Cornerstone of a Nation, Delhi: Oxford University 
 Press, 2018. 
 2. H.M. Seervai, Constitutional Law of India, New Delhi: Universal Law Publishing Co. (4th 
 Edition, 2015). 
 3. D.D. Basu, Shorter Constitution of India, Gurgaon: Lexis Nexis, (15th Edition 2018). 
 4. S. Shiva Rao, Framing of Indian Constitution, New Delhi: Universal Law Publishing, (2005). 
-
-## Page 56
-
-56 
- 
-Semester IV 
- 
-Program: B.A.LL. B Semester: IV 
+ ## Page 56
+ 56 
+  Semester IV 
+  Program: B.A.LL. B Semester: IV 
 Course Title: LANGUAGE-III: Kannada Course Code: 21LALN201 
-L-T-P: 0-0-0-0 Credits: 0  
+L-T-P: 0-0-0-0 Credits: 0 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 30    
- 
-## Page 57
-
-57 
- 
-## Page 58
-
-58 
- 
-Program: B.A.L.L.B Semester: IV 
+Teaching Hours: 30 
+  ## Page 57
+ 57 
+  ## Page 58
+ 58 
+  Program: B.A.L.L.B Semester: IV 
 Course Title: LANGUAGE - III: Kannada Kali Course Code: 21LALN202 
-L-T-P: 0-0-0-0 Credits: 0  
+L-T-P: 0-0-0-0 Credits: 0 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hours: 30    
- 
-## Page 59
-
-59 
- 
-Program: B.A.LL.B. Semester: IV 
+Teaching Hours: 30 
+  ## Page 59
+ 59 
+  Program: B.A.LL.B. Semester: IV 
 Course Code: 21LALH204 Course Title: POLITICAL SCIENCE - IV: Principles of 
 Public Administration 
 L-T-P-Self Study: 3-1-0-0 Credits: 4 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
 Teaching Hrs.: 66 Exam Duration: 3 hrs. 
 Content Hrs. 
-Unit – I 
+Unit - I 
 Unit - I: Public Administration as a Discipline 
  Meaning, Nature, Scope and Significance of the Discipline 
  Evolution of the Discipline of Public Administration 
  Politics - Administration Dichotomy 
  Public and Private Administration 
 12 
-Unit – II 
+Unit - II 
 Unit - II: Structure of Administrative Organisation 
  Chief Executive-Types and Functions 
  Line, Staff and Auxiliary Agencies- Powers and Functions 
@@ -2914,7 +2440,7 @@ Legislation
 Administrative Tribunals 
  Accountability- meaning and dimensions 
  Types of Control- Legislative, Executive and Judicial control over administration; 
- Redressal of citizen grievances - Ombudsmen– Lokpal and Lokayukta 
+ Redressal of citizen grievances - Ombudsmen- Lokpal and Lokayukta 
 13 
 Unit-5 
 Unit - V: Issues and Trends in Public Administration 
@@ -2928,32 +2454,25 @@ Prescribed Book(s):
 2000. 
 2. B.L. Fadia and Kuldeep Fadia, Public Administration: Administrative 
 Theories and Concepts, Sterling Publishers, New Delhi, 2015. 
- 
-References: 
-
-## Page 60
-
-60 
- 
-1. Bidyut Chakraborty and Mohit Bhattacharya, eds., Public Administration: A Reader, Oxford 
+  References: 
+ ## Page 60
+ 60 
+  1. Bidyut Chakraborty and Mohit Bhattacharya, eds., Public Administration: A Reader, Oxford 
 University Press, New Delhi, 2003. 
 2. R.B. Denhardt and Denhardt, Janet V, Public Administration, Cenage 
 Learning India Pvt Ltd, New Delhi, 2009. 
 3. Peters B Guy, and Jon Pierre Ed., The Handbook of Public Administration, Sage Publications, 
 India, 2003. 
-
-## Page 61
-
-61 
- 
-Program: B.A.LL.B. Semester: IV 
+ ## Page 61
+ 61 
+  Program: B.A.LL.B. Semester: IV 
 Course Code: 21LALH205 Course Title: ECONOMICS - III: Structural Reforms of 
 Indian Economy Post 1990 
 L-T-P-Self Study: 3-1-0-0 Credits: 4 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs.: 66  Exam Duration: 3 hrs. 
+Teaching Hrs.: 66 Exam Duration: 3 hrs. 
 Content Hrs. 
-Unit – 1 
+Unit - 1 
 UNIT - I: Structure of Indian Economy 
  Nature of Indian economy 
  Economic planning: meaning, significance, achievements and failures of 
@@ -2961,7 +2480,7 @@ Economic Planning. (Brief)
  Economic crisis in early 1990s, structural reforms and New Economic Policy 
  National Institution for Transforming India Aayog 
 12 
-Unit – 2 
+Unit - 2 
 UNIT - II: Agricultural sector 
  Agriculture: Nature, Importance and Problems of the agricultural sector 
  Evaluation of land reforms 
@@ -2989,23 +2508,20 @@ UNIT - IV: Banking and Infrastructure
 Narasimhan Committee recommendations 
  Reserve Bank of India and its changing roles 
  Non-Banking Financial Institutions -Indian Perspective 
- Infrastructure development – Health, Education, Transportation and Power 
+ Infrastructure development - Health, Education, Transportation and Power 
  Urbanisation and Smart City 
 13 
 Unit-5 
 UNIT V- Foreign Trade 
- India’s Foreign Trade: Composition and Direction of Foreign Trade in India, 
- India’s Balance of Payment 
- Foreign Trade Policy – Post 1991. 
- India’s exchange rate management 
+ India's Foreign Trade: Composition and Direction of Foreign Trade in India, 
+ India's Balance of Payment 
+ Foreign Trade Policy - Post 1991. 
+ India's exchange rate management 
  Foreign Direct Investments and Foreign Institutional Investments 
 13 
-
-## Page 62
-
-62 
- 
- Globalisation and its impact on the Indian economy  
+ ## Page 62
+ 62 
+   Globalisation and its impact on the Indian economy 
 Prescribed Book(s): 
 1. Dutt Ruddar and Sundaram K.P.M- Indian Economy; S.Chand and Company, New Delhi. 
 2022 
@@ -3020,20 +2536,17 @@ edition, 2007
 Edition, 1998 
 3. A. N. Agarwal; Indian Economy Problems of Development and Planning, New Age 
 International Publishers, New Delhi, 36th Edition, 2019 
-
-## Page 63
-
-63 
- 
-Program: B.A.LL.B. Semester: IV 
+ ## Page 63
+ 63 
+  Program: B.A.LL.B. Semester: IV 
 Course Code: 21LALC203 Course Title: Company Law 
-L-T-P-Self-study: 3-1-0-0 Credits:4  
+L-T-P-Self-study: 3-1-0-0 Credits:4 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 65  Exam Duration: 3hrs. 
+Teaching Hrs: 65 Exam Duration: 3hrs. 
 Content Hrs 
-Unit–1 
-Unit – I: Introduction 
- Introduction to various business entities – sole proprietorship, HUF, partnership, 
+Unit-1 
+Unit - I: Introduction 
+ Introduction to various business entities - sole proprietorship, HUF, partnership, 
 LLP, unincorporated associations, corporations, One Person Company (OPC), sole 
 trading company 
  Company - historical development, nature, and characteristics of a company 
@@ -3041,27 +2554,26 @@ trading company
  Classification of companies 
  Salient features of the Companies Act, 2013 
 13 
-Unit -II  
- 
-Unit – II: Registration and Incorporation 
- Promoters – role, duties and liability of promoters, pre-incorporation contracts 
- Procedure of incorporation – certificate of incorporation 
- Memorandum of Association – Articles of Association – Doctrine of indoor 
+Unit -II 
+  Unit - II: Registration and Incorporation 
+ Promoters - role, duties and liability of promoters, pre-incorporation contracts 
+ Procedure of incorporation - certificate of incorporation 
+ Memorandum of Association - Articles of Association - Doctrine of indoor 
 management 
 13 
-Unit III  
-Unit – III: Financial Structure 
+Unit III 
+Unit - III: Financial Structure 
  Sources of corporate financing: prospectus, share capital, and debt capital 
  Key securities - shares, debentures, bonds, derivatives 
- Shares – types, allotment, transfer of shares, rights and privileges of shareholders 
+ Shares - types, allotment, transfer of shares, rights and privileges of shareholders 
  Public offer, private placement, rights issue, bonus issue 
  Dividends - declaration and payment of dividends, prohibition of buyback 
  Debentures - floating charge 
  Acceptance of deposit by companies 
  Charge on assets 
 13 
-Unit–IV 
-Unit – IV: Management and Control 
+Unit-IV 
+Unit - IV: Management and Control 
  Directors - legal position, appointment, qualification, types of directors 
  Board of Directors - duties, functions and powers 
  Meetings and resolutions 
@@ -3071,23 +2583,19 @@ Unit – IV: Management and Control
  Offences and penalties 
 Corporate Governance 
 13 
-Unit - V  
-Unit – V: Corporate Restructuring 
+Unit - V 
+Unit - V: Corporate Restructuring 
  Rec 
 13 
-
-## Page 64
-
-64 
- 
- onstruction, rehabilitation, and amalgamation 
+ ## Page 64
+ 64 
+   onstruction, rehabilitation, and amalgamation 
  National Company Law Tribunal, National Company Law Appellate Tribunal 
  Winding up 
  Overview of the Insolvency and Bankruptcy Code, 2016 
- 
-Prescribed Books: 
+  Prescribed Books: 
 1. Avtar Singh, Company Law, Eastern Book Company, (17thedn., 2018) 
-2. Paul L. Davies, Gower and Davies’ Principles of Modern Company Law, Sweet & Maxwell (10th 
+2. Paul L. Davies, Gower and Davies' Principles of Modern Company Law, Sweet & Maxwell (10th 
 edn., 2016) 
 References: 
 1. Hicks, Andrew & Goo S H, Cases and Material on Company Law, Oxford University Press 
@@ -3096,42 +2604,38 @@ References:
 3. Kershaw, David, Company Law in Context, Oxford University Press, UK, (2nd edn., 2012) 
 4. H.K. Saharay, Company Law (7thedn., 2016) 
 5. G. K. Kapoor and Sanjay Dhamija, Taxman's Company Law and Practice, (26th edn. 2022) 
-
-## Page 65
-
-65 
- 
-Program: B.A.LL.B. Semester: IV 
+ ## Page 65
+ 65 
+  Program: B.A.LL.B. Semester: IV 
 Course Code: 21LALL201 Course Title: Non-Doctrinal Research Skills 
-L-T-P-Self Study: 1-0-1-0 Credits:2  
-ISA Marks: 100  Total Marks: 100 
-Teaching Hrs: 30   
+L-T-P-Self Study: 1-0-1-0 Credits:2 
+ISA Marks: 100 Total Marks: 100 
+Teaching Hrs: 30 
 Content Hrs 
-Unit–1 
+Unit-1 
 UNIT - I: Meaning and Nature of Doctrinal and Non-Doctrinal Research 
  Doctrinal and Non-Doctrinal Research Methods - features, merits, and demerits 
  Importance of non-doctrinal research 
  Suitability of non-doctrinal research 
  Tools for collecting data in non-doctrinal research 
 6 
-Unit -II  
- 
-UNIT – II: Data Collection Tools: Questionnaire 
+Unit -II 
+  UNIT - II: Data Collection Tools: Questionnaire 
  Sampling Methods - Merits and Demerits 
  Questionnaire - essentials of a good questionnaire 
  Merits and demerits of the questionnaire 
 6 
-Unit III  
+Unit III 
 UNIT - III: Data Collection tools: Survey and Interview 
  Survey - Features, Merits and Demerits 
  Interview - Features, kinds, merits, and demerit 
 6 
-Unit–IV 
+Unit-IV 
 UNIT - IV: Data Collection tools: Observation and Case study 
  Observation - Features, kinds, merits, and demerits 
  Case Study - Features, Merits and Demerits 
 6 
-Unit - V  
+Unit - V 
 UNIT - V: Data analysis and Report Writing 
  Data analysis - Importance and Methods 
  Report writing 
@@ -3141,112 +2645,101 @@ Prescribed Book(s):
 2. CR Kothari, Research Methodology Methods and Techniques, New Age International 
 Publishers, 4th Ed., 2019. 
 References: 
-1. Jain, S. N. “Doctrinal and Non-Doctrinal Legal Research.” Journal of the Indian Law Institute, 
+1. Jain, S. N. "Doctrinal and Non-Doctrinal Legal Research." Journal of the Indian Law Institute, 
 vol. 24, 1982. 
-2. Niklas Luhmann, “The Function of Law”, in Law as a Social System (2004). 
+2. Niklas Luhmann, "The Function of Law", in Law as a Social System (2004). 
 3. Roger Cotterrell, Law, Culture and Society: Legal Ideas in the Mirror of Social Theory 
 (2006), Ch. 1 
 4. Cass Sunstein et al, Are Judges Political? An Empirical Analysis of the Federal Judiciary 
 (2006) 
-5. Nick Robinson, A Quantitative Analysis of the Indian Supreme Court’s Workl 
-
-## Page 66
-
-66 
- 
-Program: B.A.LL.B. Semester: IV 
+5. Nick Robinson, A Quantitative Analysis of the Indian Supreme Court's Workl 
+ ## Page 66
+ 66 
+  Program: B.A.LL.B. Semester: IV 
 Course Code: 21LALL202 Course Title: RTI Law and Practice 
-L-T-P-Self Study: 1-0-1-0 Credits:2  
-ISA Marks: 100  Total Marks: 100 
-Teaching Hrs: 30   
+L-T-P-Self Study: 1-0-1-0 Credits:2 
+ISA Marks: 100 Total Marks: 100 
+Teaching Hrs: 30 
 Content Hrs 
-Unit–1 
+Unit-1 
 Course Content: 
 Unit - I - Introduction 
  Evolution 
  Significance of RTI in a Democracy 
  Constitutional basis of RTI 
- Freedom of Information in Sweden, US, and UK – a comparative study 
+ Freedom of Information in Sweden, US, and UK - a comparative study 
  International treaties and the RTI 
 6 
-Unit -II  
- 
-Unit - II – Filing of an RTI application 
+Unit -II 
+  Unit - II - Filing of an RTI application 
  Obtaining Information under the RTI Act 
  Disposal of a Request 
  Making an Appeal 
  Making a Complaint 
  Appeal to the courts 
 6 
-Unit III  
-Unit - III – Criticisms, Amendments and Developments 
+Unit III 
+Unit - III - Criticisms, Amendments and Developments 
  Critical analysis of the Right to Information Act, 2005 
  Critical analysis of the Right to Information (Amendment) Act, 2019 
  Recent developments 
 6 
-Unit–IV 
-Unit – IV – Allied Laws and Rules 
+Unit-IV 
+Unit - IV - Allied Laws and Rules 
  The Official Secrets Act, 1923 
  The Public Records Act, 1993 
  The Public Records Rules, 1997 
  The Indian Evidence Act, 1872 
  The Bharatiya Sakshya Adhiniyama, 202 
 6 
-Unit - V  
-UNIT- V – Abuse of RTI 
+Unit - V 
+UNIT- V - Abuse of RTI 
  By citizens 
  By Public Information Officers 
  By rejection of RTI requests 
 6 
-
-## Page 67
-
-67 
- 
-Prescribed Books: 
-1. V.K. Dewan, Dewan’s Exhaustive Commentary on the RTI Act 2005, 3rd Edition (Thomson 
+ ## Page 67
+ 67 
+  Prescribed Books: 
+1. V.K. Dewan, Dewan's Exhaustive Commentary on the RTI Act 2005, 3rd Edition (Thomson 
 Reuters: Gurgaon) 2021. 
 2. Verma R.K., Right to Information Law and Practice, 2nd ed., (Taxmann Publications: Delhi), 
 2010. 
 References: 
-1. Krishnan, Gokul.,  Paul, Jehosh., Pillai, Revati., Raj, Saurabh. Making Election Manifestos Legally 
+1. Krishnan, Gokul., Paul, Jehosh., Pillai, Revati., Raj, Saurabh. Making Election Manifestos Legally 
 Binding - A Wild Goose Chase, Vol. LVIII No. 8, Economic and Political Weekly, 2023, available 
 on https://www.epw.in/journal/2023/8/commentary/making-election-manifestos-legally- 
 binding.html . 
 2. Sharma, M. Right to Information: A Comparative Study in International Perspective, Shodhganga, 
 2017, available on https://shodhganga.inflibnet.ac.in/handle/10603/182340 . 
-3.  Pande, Suchi. Dying for information: Right to information and whistleblower protection in India, 
+3. Pande, Suchi. Dying for information: Right to information and whistleblower protection in India, 
 U4 Brief, 2015, available on https://www.u4.no/publications/dying-for-information-right-to- 
 information-and-whistleblower-protection-in-india.pdf. 
 4. Singh, Shekhar. The Genesis and evolution of the right to information regime in India, 
-2010,availableonhttps://ecajmer.ac.in/facultylogin/announcements/upload/Genesis%20and%20Ev 
+2010, availableonhttps://ecajmer.ac.in/facultylogin/announcements/upload/Genesis%20and%20Ev 
 olution%20of%20the%20RTI%20in%20India.pdf . 
 5. Ramkumar, Vivek. Case Study, Part 2: The Right to Know Movement in India, Making Change Happen, 
 Just Associates, 2004, available on https://justassociates.org/wp- 
 content/uploads/2022/02/mkss_case_study_section_ii.pdf . 
-6. Roy, Aruna. The RTI Story – Power to the People, 1st ed., Lotus Collection, 2018. 
+6. Roy, Aruna. The RTI Story - Power to the People, 1st ed., Lotus Collection, 2018. 
 7. Harsh Mander & Abha Joshi. The Movement for Right to Information in India, People's Power for 
 the Control of Corruption, 1999. 
 8. Birkinshaw, Patrick. Freedom of Information, Cambridge: Cambridge University Press, 2010. 
 9. Sridhar, Madhabhushi. RTI Use and Abuse, Allahabad Law Agency, 1st ed., 2015. 
 10. Rao, S.V.J. Law Relating to Right to Information: A Comprehensive and Insightful Commentary w 
 Comparative Perspectives, Pentagon Press, 2009 
-
-## Page 68
-
-68 
- 
-Semester V 
- 
-Program: B.A.LL.B. Semester: V 
-Course Code: 21LALH301 Course Title: POLITICAL SCIENCE – V: Major World 
+ ## Page 68
+ 68 
+  Semester V 
+  Program: B.A.LL.B. Semester: V 
+Course Code: 21LALH301 Course Title: POLITICAL SCIENCE - V: Major World 
 Governments 
 L-T-P-SS: 3-1-0-0 Credits: 4 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
 Teaching Hrs.: 65 Exam Duration: 3 hrs. 
 Content Hrs. 
-Unit – I 
-Unit – I: United Kingdom Constitution 
+Unit - I 
+Unit - I: United Kingdom Constitution 
  United Kingdom- Brief History, Introduction, nature, sources, importance, Rule of 
 Law. 
  Executive-The Chief Executive, King and Crown. Political Executive, Prime Minister 
@@ -3255,7 +2748,7 @@ and Council of Ministers and its functions.
  Judiciary- Rule of Law, composition and its functions. 
  Political Parties- Organisation and its function 
 13 
-Unit – II 
+Unit - II 
 Unit - II: United States of America Constitution 
  United States of America- A brief history- A federal constitution. 
  The American Federation- Division of Powers, Amendment Procedure. 
@@ -3284,16 +2777,13 @@ Ministers.
  Political Parties- Multi-party system, features, organisation and working. 
 13 
 Unit- V 
-
-## Page 69
-
-69 
- 
-Unit - V: China Constitution 
+ ## Page 69
+ 69 
+  Unit - V: China Constitution 
  Constitution of People's Republic of China. 
  Salient feature of the Constitution of China 
- President – Powers and functions 
- National People's Congress – Powers and functions 
+ President - Powers and functions 
+ National People's Congress - Powers and functions 
  Standing committee, Party system, Market Socialism. 
 13 
 Prescribed Book(s): 
@@ -3301,22 +2791,18 @@ Prescribed Book(s):
 2. Vishnoo Bhagvan & Vidhya Bhushan, World Constitutions, New Delhi: Sterling Publishers 
 Ltd., (2008). 
 3. V.D. Mahajan, Select Modern Governments, New Delhi: S. Chand and Company Ltd., (2006). 
- 
-References: 
+  References: 
 1. Sachdeva and Gupta, World Constitution, Ajantha Prakasam, Delhi, (2000). 
 2. J.C. Johari, Comparative Politics, Sterling, New Delhi, (2003). 
-
-## Page 70
-
-70 
- 
-Program: B.A.LL.B. Semester: V 
+ ## Page 70
+ 70 
+  Program: B.A.LL.B. Semester: V 
 Course Code:24LALC301 Course Title: Law of Crimes 
 L-T-P-SS: 3-1-0-0 Credits: 4 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
 Teaching Hrs.: 65 Exam Duration: 3 hrs. 
 Content Hrs. 
-Unit – I 
+Unit - I 
 Unit - I: Introduction 
  Meaning of Crime, Morality and Crime 
  Stages of Crime 
@@ -3325,7 +2811,7 @@ Unit - I: Introduction
  Definitions 
  General Explanations 
 13 
-Unit – II 
+Unit - II 
 Unit - II: Punishments, General Exceptions, and Inchoate Offences 
  Punishments: Punishments, Commutation, amount of fine, liability in default of 
 payment of fine, solitary confinement, enhanced punishment for previous conviction 
@@ -3357,53 +2843,46 @@ Unit - V: Offences against Property, Reputation and Attempt to commit offences
  Offences against Property: Theft, snatching, Extortion, Robbery, Dacoity; Criminal 
 Misappropriation of Property and Criminal Breach of Trust, Receiving Stolen 
 Property and Cheating, Mischief and Criminal Trespass 
- Offences relating to Documents: making false document, forgery, falsification  of 
+ Offences relating to Documents: making false document, forgery, falsification of 
 accounts 
  Criminal intimidation, insult, annoyance and defamation 
  Attempt to commit offences 
 13 
 Prescribed Book(s): 
-
-## Page 71
-
-71 
- 
-1. Gaur K.D., A Textbook on The Bharatiya Nyaya Sanhita, 2023, New Delhi: Universal Publishing 
+ ## Page 71
+ 71 
+  1. Gaur K.D., A Textbook on The Bharatiya Nyaya Sanhita, 2023, New Delhi: Universal Publishing 
 Company, (9th Edition, 2024). 
 2. Gaur K.D., A Textbook on the Indian Penal Code, New Delhi: Universal Publishing Company, (7th 
 Edition, 2022). 
-3. Vibhuti, K.I. P.S.A. Pillai’s Criminal Law, Wadhwa, Nagpur: Lexis Nexis, Butterworths (14th 
+3. Vibhuti, K.I. P.S.A. Pillai's Criminal Law, Wadhwa, Nagpur: Lexis Nexis, Butterworths (14th 
 Edition, 2019). 
 References: 
 1. Williams, Glanville, Dennis Baker, Text Book of Criminal Law, London: Sweet & Maxwell, (4th 
 Edition, 2015). 
 2. Rathanlal and Dhirajlal, The Indian Penal Code, New Delhi: LexisNexis, (36th Edition 2020). 
-3. Turner, Cecil J.W. Kenny’s Outlines of Criminal Law, New York: Cambridge University Press, 
+3. Turner, Cecil J.W. Kenny's Outlines of Criminal Law, New York: Cambridge University Press, 
 (18th Edition, 2017). 
 4. 42nd Report of the Law Commission of India, 1971. 
 5. Report of the Committee on Amendments to Criminal Law, 2013 (Justice Verma Committee) 
- 
-Statutes: 
+  Statutes: 
 1. The Bharatiya Nyaya Sanhita, 2023 
-
-## Page 72
-
-72 
- 
-Program: B.A.LL.B. Semester: V 
+ ## Page 72
+ 72 
+  Program: B.A.LL.B. Semester: V 
 Course Code:21LALC302 Course Title: Administrative Law 
 L-T-P-SS: 3-1-0-0 Credits: 4 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
 Teaching Hrs.: 65 Exam Duration: 3 hrs. 
 Content Hrs. 
-Unit – I 
+Unit - I 
 Unit-I: Introduction 13 
   Administrative law - Definition, nature, scope and importance 
  Evolution of Administrative Law in India 
  Key concepts -Constitutionalism, Rule of Law, Separation of Powers, Judicial Review, 
 Delegated Legislation, Principles of Natural Justice, Executive Authority, 
-Classification of Administrative Action – the necessity 
-Unit – II 
+Classification of Administrative Action - the necessity 
+Unit - II 
 Unit-II: Classification of Administrative Actions, Administrative Discretion and 
 Directions 
 13 
@@ -3413,22 +2892,22 @@ discretion
 with the legislative and judicial functions 
  Tests to distinguish 
  Administrative Discretion - Meaning, scope, kinds 
- Judicial review of administrative discretion – Grounds- Abuse of discretion, Failure 
+ Judicial review of administrative discretion - Grounds- Abuse of discretion, Failure 
 to exercise discretion 
  Administrative directions - Meaning, scope and judicial review 
 Unit-III 
 Unit - III: Delegated Legislation 13 
   Concept, Meaning and definitions 
- Administrative rule-making – Types, sources, procedure, growth of delegated 
+ Administrative rule-making - Types, sources, procedure, growth of delegated 
 legislation in India and justifications 
- Permissible limits – Doctrine of vice of excessive delegation, sub-delegation. 
- Control over delegated legislation – Judicial and Parliamentary control 
+ Permissible limits - Doctrine of vice of excessive delegation, sub-delegation. 
+ Control over delegated legislation - Judicial and Parliamentary control 
  Judicial review of delegated legislation - retrospectivity and abridgement of 
 Fundamental rights 
 Unit- IV 
 Unit- IV: Judicial Functions and Principles of Natural justice 13 
   The judicial power of administrative authorities 
- Duty to act judicially – determination 
+ Duty to act judicially - determination 
  Remedies against the decisions of quasi-judicial authorities- Writs, appeal and 
 review 
  Principles of Natural Justice (PNJ) - Concept, meaning, and evolution 
@@ -3439,38 +2918,30 @@ bias
 Unit- V 
 Unit - V: State liability in Contract and Tort 13 
   Meaning of State, Corporation and Public Undertakings- Liabilities in Contract and 
-Tort – nature, principles, Doctrines of Promissory Estoppel, Legitimate Expectation 
-
-## Page 73
-
-73 
- 
-  Administrative deviance – Corruption and maladministration – Control and remedial 
+Tort - nature, principles, Doctrines of Promissory Estoppel, Legitimate Expectation 
+ ## Page 73
+ 73 
+    Administrative deviance - Corruption and maladministration - Control and remedial 
 mechanism - RTI, administrative tribunals, Ombudsman (Lokpal and Lokayukta), 
 Central Vigilance Commission 
  Parliamentary Committees and Commission of Enquiry 
- 
-Prescribed Book(s): 
+  Prescribed Book(s): 
 1. M.P.Jain & S.N.Jain, Principles of Administrative Law, New Delhi: Lexis Nexis, (7th Edition, 
 2017). 
 2. I.P. Massey, Administrative Law, Lucknow: Eastern Book Company, (9th Edition, 2017). 
- 
-References: 
+  References: 
 1. H.W.R. Wade & C.F. Forsyth, Administrative law, New York: Oxford University Press, (11th 
 Edition). 
 2. S.P. Sathe, Administrative Law, Nagpur: LexisNexis, (7th Edition, 2022). 
-
-## Page 74
-
-74 
- 
-Program: B.A.LL.B. Semester: V 
+ ## Page 74
+ 74 
+  Program: B.A.LL.B. Semester: V 
 Course Code:21LALC303 Course Title: Jurisprudence 
 L-T-P-SS: 3-1-0-0 Credits: 4 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
 Teaching Hrs.: 65 Exam Duration: 3 hrs. 
 Content Hrs. 
-Unit – I 
+Unit - I 
 Unit - I: Introduction to Jurisprudence and Schools of Jurisprudence 
  Meaning and nature of Jurisprudence 
  Purpose and value of Jurisprudence 
@@ -3478,12 +2949,12 @@ Unit - I: Introduction to Jurisprudence and Schools of Jurisprudence
  Imperative Theory - Austin and Hart 
  Legal Realism 
 13 
-Unit – II 
+Unit - II 
 Unit - II: Law and Justice 
  Sociological School - Roscoe Pound 
- Historical School – Savigny 
+ Historical School - Savigny 
  Questions of law and fact 
- Functions and purpose of law, justice and its kinds – Aristotle 
+ Functions and purpose of law, justice and its kinds - Aristotle 
  Civil and Criminal administration of justice, Theories of punishment 
  Secondary functions of the Court 
 13 
@@ -3520,40 +2991,33 @@ and sources
  Causation, mens rea, intention, malice, negligence and theories, strict liability, 
 vicarious liability 
 13 
-
-## Page 75
-
-75 
- 
-Prescribed Book(s): 
+ ## Page 75
+ 75 
+  Prescribed Book(s): 
 1. Fitzgerald, Salmond on Jurisprudence, Bombay: Tripathi, (12thEdition, 1996). 
 2. R.W.M.Dias, Jurisprudence, New Delhi: Aditya Books, (5thEdition, 2013). 
- 
-References: 
+  References: 
 1. Michael Freeman, Introduction to Jurisprudence, U. K.: Sweet & Maxwell Ltd, (9thEdition, 
 2014). 
 2. G.W. Paton, A Textbook of Jurisprudence, Oxford University Press, (4thEdition, 2007). 
 3. Edgar Bodenheimer, Jurisprudence: Philosophy and Method of Law, Harvard University 
 Press, (1962): Indian Print 2018. 
-
-## Page 76
-
-76 
- 
-Program: B.A.LL.B. Semester: V 
-Course Code:21LALC304 Course Title: Family Law – I: Hindu Law 
+ ## Page 76
+ 76 
+  Program: B.A.LL.B. Semester: V 
+Course Code:21LALC304 Course Title: Family Law - I: Hindu Law 
 L-T-P-SS: 4-1-0-0 Credits: 4 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
 Teaching Hrs.: 65 Exam Duration: 3 hrs. 
 Content Hrs. 
-Unit – I 
+Unit - I 
 Unit - I: Introduction 
  Introduction - Origin and Development of Hindu Law 
  Application of Hindu law 
  Sources of Hindu Law - Ancient and Modern Sources of Hindu Law, Schools of Hindu 
 Law 
 13 
-Unit – II 
+Unit - II 
 Unit - II: Marriage and Matrimonial Causes 
  Marriage and Kinship - Evolution of the Institution of Marriage and Family 
  The Hindu Marriage Act, 1955: Matrimonial Remedies 
@@ -3582,93 +3046,80 @@ Unit - V: Inheritance and Succession
  Inheritance and Succession - Historical perspective of traditional Hindu Law relating 
 to inheritance 
  The Hindu Succession Act, 1956 - 2005 Amendments to the Hindu Succession Act 
- Stridhan Women’s Estate Gifts and Wills 
+ Stridhan Women's Estate Gifts and Wills 
 13 
 Prescribed Book(s): 
-1. Paras Diwan,Modern Hindu Law,Faridabad: Allahabad Law Agency, (13th Edition, 2023, 
+1. Paras Diwan, Modern Hindu Law, Faridabad: Allahabad Law Agency, (13th Edition, 2023, 
 Reprint 2024). 
 2. Mulla, Principles of Hindu Law, New Delhi: LexisNexis, (24thEdition 2019). 
- 
-References: 
+  References: 
 1. John D. Mayne, A Treatise on Hindu Law and Usage, Madras: Higginbotham, (9thEdition, 1922). 
-2. Paras Diwan,Law of Adoption, Minority, Guardianship and Custody, Universal Law publishing, 
+2. Paras Diwan, Law of Adoption, Minority, Guardianship and Custody, Universal Law publishing, 
 New Delhi: LexisNexis, (5thEdition 2017). 
-
-## Page 77
-
-77 
- 
-3. J.D.M. Derrett, Hindu Law – Past and Present, Calcutta: A Mukherjee and Co., (1957). 
+ ## Page 77
+ 77 
+  3. J.D.M. Derrett, Hindu Law - Past and Present, Calcutta: A Mukherjee and Co., (1957). 
 4. Law Commission Reports: 
-a. 71st Report –The Hindu Marriage Act, 1955 -Irretrievable Breakdown of Marriage as a 
+a. 71st Report -The Hindu Marriage Act, 1955 -Irretrievable Breakdown of Marriage as a 
 Ground of Divorce, (April 1978). 
 b. 174thReport - Property Rights of Women: Proposed Reforms under the Hindu Law, (May 
 2000). 
-c. 208thReport on Proposal for Amendment of Explanation to Section 6 of ‘Hindu’, the Hindu 
+c. 208thReport on Proposal for Amendment of Explanation to Section 6 of 'Hindu', the Hindu 
 Succession Act, 1956 to include oral partition and family arrangement in the defini tion of 
-‘partition’ (July 2008). 
+'partition' (July 2008). 
 d. Right of the Hindu Wife to Maintenance: A Relook at Section 18 of the Hindu Adoptions and 
 Maintenance Act, 1956, (January 2015). 
-
-## Page 78
-
-78 
- 
-Semester VI 
- 
-Program: B.A.LL.B. Semester: VI 
-Course Code: 21LALH305 Course Title: POLITICAL SCIENCE – VI: Public Policy, 
+ ## Page 78
+ 78 
+  Semester VI 
+  Program: B.A.LL.B. Semester: VI 
+Course Code: 21LALH305 Course Title: POLITICAL SCIENCE - VI: Public Policy, 
 Law and Development 
-L-T-P-Self Study: 3-1-0-0 Credits:4  
+L-T-P-Self Study: 3-1-0-0 Credits:4 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 65  Exam Duration: 3hrs. 
+Teaching Hrs: 65 Exam Duration: 3hrs. 
 Content Hrs 
-Unit–1 
+Unit-1 
 UNIT-I : Introduction to Public Policy 
  Introduction: Meaning, Nature, scope and importance of policy science 
  Evolution of policy science 
  Relevance of Social, Economic, Political and Cultural factors to policy science 
 13 
-Unit -II  
- 
-UNIT-II : Concepts of Development 
- Policy Analysis – Process and Stages 
+Unit -II 
+  UNIT-II : Concepts of Development 
+ Policy Analysis - Process and Stages 
  Models in Policy Analysis: Capitalist Model, Socialist Model, Mixed Economy Model, 
 Gandhian Model, Scandinavian Model, System Model, Pressure Group Model, Game 
 Model and Elite 
- Institution and Incremental Model – Dror's Optimal Model 
+ Institution and Incremental Model - Dror's Optimal Model 
 13 
-Unit III  
+Unit III 
 UNIT-III: Sectors of Development 
  Primary, Secondary and Tertiary Sector in India: Public policy 
  Policy Making Process: Stake Holders, Citizens, Pressure Groups, Political Parties 
 Election Manifesto 
- Agencies in Policy Making – Policy Implementation, Policy Evolution 
+ Agencies in Policy Making - Policy Implementation, Policy Evolution 
 13 
-Unit–IV 
+Unit-IV 
 UNIT-IV: Policy, Law and Development 
  Policy, Law and Development: Western, Continental, Eastern and other variations 
  Ethical issues: Central level policy, New Economic Policy, Food and Agriculture Policy 
 Population and Health Policy, Science and Technology Policy 
  New Education Policy, Environment Policy 
 13 
-Unit - V  
+Unit - V 
 UNIT-V: Globalisation and Public Policy 
  Introduction: Liberalization, Privatization and Globalization 
  State-level policy, Language policy, Reservation policy, Social Welfare Policy 
 13 
-
-## Page 79
-
-79 
- 
-Prescribed Book(s): 
+ ## Page 79
+ 79 
+  Prescribed Book(s): 
 1. Dayalishwar and K. Mathur, Dynamics of Formulation of Policy in Government of India, Delhi, 
 publisher, 1976. 
 2. Dubashi P.R., Policy and Performance, New Delhi, SAGE, 1984. 
 3. Kashya PSC., Parliament of India: Myths and Realities, National Book Trust, New Delhi, 1988. 
- 
-Reference Books: 
+  Reference Books: 
 1. Timothy W. Clark and Vincent P. Clark, The Policy Process: A Practical Guide for Natural Resources 
 Professionals, MDPI, 2012. 
 2. Joseph E. Stiglitz, Globalisation and Its Discontents Revisited: Anti-Globalisation in the Era of Trump, 
@@ -3678,19 +3129,16 @@ India, 2017.
 4. Amartya Sen, Development as Freedom, Oxford University Press, 1999. 
 5. Amartya Sen, The Argumentative Indian: Writings on Indian History, Culture and Identity, Allen 
 Lane, an imprint of Penguin Books, 2005. 
-
-## Page 80
-
-80 
- 
-Program: B.A.LL.B. Semester: VI 
-Course Code: 21LALH305 Course Title: Family Law – II: Mohammedan Law and 
+ ## Page 80
+ 80 
+  Program: B.A.LL.B. Semester: VI 
+Course Code: 21LALH305 Course Title: Family Law - II: Mohammedan Law and 
 The Indian Succession Act, 1925 
-L-T-P-Self Study: 3-1-0-0 Credits:4  
+L-T-P-Self Study: 3-1-0-0 Credits:4 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 65  Exam Duration: 3hrs. 
+Teaching Hrs: 65 Exam Duration: 3hrs. 
 Content Hrs 
-Unit–1 
+Unit-1 
 Introduction to Islam and Mohammedan Law 
  Advent of Islam and development of Islamic Law 
  Administration and extent of application of Mohammedan law 
@@ -3699,9 +3147,8 @@ Introduction to Islam and Mohammedan Law
  Customary practices 
  Conversion and reconversion and its consequences on family 
 13 
-Unit -II  
- 
-Marriage and Guardianship 
+Unit -II 
+  Marriage and Guardianship 
  Concept of Muslim Marriage: Definition, essential requirements of a marriage 
  Concept of Mahr: Meaning, origin, classification, rights of women on unpaid dower, 
 effect of apostasy, suit for mahr and limitation. 
@@ -3711,9 +3158,9 @@ marriage
 Acknowledgement of Paternity 
  Guardianship and parental rights 
 13 
-Unit III  
+Unit III 
 Matrimonial Remedies 
- Matrimonial Remedies under Islamic Law (Triple Talaq – Shaira Bano and its 
+ Matrimonial Remedies under Islamic Law (Triple Talaq - Shaira Bano and its 
 aftermath) and Indian Divorce Act, 1869 (Amended Act), Bars to matrimonial relief 
  The Dissolution of Muslim Marriages Act, 1939 
  Alimony and Maintenance: Alimony and maintenance as an independent remedy 
@@ -3722,7 +3169,7 @@ Procedure Code, 1973
  The aftermath of Shah Bano: Maintenance of Divorced Muslim Women under the 
 Muslim Women (Protection of Rights on Divorce) Act, 1986 
 13 
-Unit–IV 
+Unit-IV 
 Testamentary Succession 
  Will: Meaning, difference between will and gift, will made on death bed or during 
 illness, privileged and unprivileged wills, construction of wills in brief, void bequests, 
@@ -3736,13 +3183,10 @@ and Trust
 empt 
  Need of Uniform Civil Code 
 13 
-Unit - V  
-
-## Page 81
-
-81 
- 
-Inheritance and Succession 
+Unit - V 
+ ## Page 81
+ 81 
+  Inheritance and Succession 
  Inheritance: Muslim Law of Inheritance: Shia and Sunni Schools 
  Distribution of property under the Indian Succession Act, 1925 (of Christians, Parsi 
 and Jews), Domicile, Parsi Intestate succession and Non-Parsi Intestate succession 
@@ -3758,25 +3202,22 @@ References:
 1. B.B. Mitra, Indian Succession Act, 1925., New Delhi: Jain Book Agency, (15th Edition, 2018). 
 2. A. Fyzee, Outlines of Mohammedan Law, New Delhi: Oxford University Press India, (2018). 
 3. N.D. Basu, Law of Succession, Calcutta: Eastern Law House, (5th Edition, 2014). 
-4. Paras Diwan, Family Law: Law of Marriage and Divorce in India,New Delhi: Universal Law 
+4. Paras Diwan, Family Law: Law of Marriage and Divorce in India, New Delhi: Universal Law 
 Publishing Co. Ltd, (2021). 
 5. A M. Bhattacharjee, Muslim Law and the Constitution, Calcutta: Eastern Law House, (1994). 
 6. Tahir Mahmood & Saif Mahmood: Introduction to Muslim Law, Gurgaon: LexisNexis (2nd 
 Edition, 2018). 
 7. A.M. Bhattacharjee, Matrimonial Laws and the Constitution, Calcutta: Edited by Ruma Pal, (2nd 
 Edition, EBC, 2017) 
-
-## Page 82
-
-82 
- 
-Program: B.A.LL.B. Semester: VI 
+ ## Page 82
+ 82 
+  Program: B.A.LL.B. Semester: VI 
 Course Code: 24LALC302 Course Title: Law of Criminal Procedure 
-L-T-P-Self Study: 3-1-0-0 Credits:4  
+L-T-P-Self Study: 3-1-0-0 Credits:4 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 65  Exam Duration: 3hrs. 
+Teaching Hrs: 65 Exam Duration: 3hrs. 
 Content Hrs 
-Unit–1 
+Unit-1 
 Introduction to the Sanhita 
  Meaning and importance of the procedure 
  Constitutional dimensions of the Sanhita 
@@ -3787,9 +3228,8 @@ powers
  Process to compel the appearance of a person 
  Features of a fair trial 
 13 
-Unit -II  
- 
-Pre-Trial Proceedings 
+Unit -II 
+  Pre-Trial Proceedings 
  Information to police and their powers to investigate 
  Jurisdiction of criminal courts in inquiries and trials 
  Magisterial powers to take cognizance and inquiry before magistrates 
@@ -3798,7 +3238,7 @@ Pre-Trial Proceedings
  Commencement of proceedings before Magistrates 
  Provisions as to bail and bonds 
 13 
-Unit III  
+Unit III 
 Trial 
  Framing of charge and joinder of charges 
  Trial before a court of session 
@@ -3808,14 +3248,14 @@ Trial
  Evidence in inquiries and trials and general provisions relating to inquiries and trial 
  Judgment 
 13 
-Unit–IV 
+Unit-IV 
 Post-Trial Proceedings 
  Appeals 
  Revision 
  Reference 
  Execution, suspension, remission, and commutation of sentences 
 13 
-Unit - V  
+Unit - V 
 Miscellaneous 
  Transfer of cases 
  Maintenance of wives, children, and parents 
@@ -3824,14 +3264,11 @@ Miscellaneous
  Irregular proceedings 
  Limitation of taking cognizance. 
 13 
-
-## Page 83
-
-83 
- 
- Compounding of offences and plea bargaining  
+ ## Page 83
+ 83 
+   Compounding of offences and plea bargaining 
 Prescribed Book(s): 
-1. N. Chandrasekharan Pillai, R.V. Kelkar’s Criminal Procedure, Lucknow: Eastern Book Company, 
+1. N. Chandrasekharan Pillai, R.V. Kelkar's Criminal Procedure, Lucknow: Eastern Book Company, 
 (2021). 
 2. Rattan Lal Dheeraj Lal, The Bharatiya Nagarik Suraksha Sanhita, 2023, LexisNexis, (2 Volume) 
 23rd Edition, 2025). 
@@ -3845,18 +3282,15 @@ References:
 Statutes: 
 1. The Constitution of India, 1950 
 2. The Bharatiya Nagarik Suraksha Sanhita, 2023 
-
-## Page 84
-
-84 
- 
-Program: B.A.LL.B. Semester: VI 
+ ## Page 84
+ 84 
+  Program: B.A.LL.B. Semester: VI 
 Course Code: 21LALH307 Course Title: Property Law 
-L-T-P-Self Study: 3-1-0-0 Credits:4  
+L-T-P-Self Study: 3-1-0-0 Credits:4 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 65  Exam Duration: 3hrs. 
+Teaching Hrs: 65 Exam Duration: 3hrs. 
 Content Hrs 
-Unit–1 
+Unit-1 
 Concept of Property and Transfer 
  Concept and Meaning of Property 
  Kinds of Property: Movable and immovable property 
@@ -3871,9 +3305,8 @@ Concept of Property and Transfer
  Direction for accumulation 
  Vested and contingent interest 
 13 
-Unit -II  
- 
-Transfer of Property 
+Unit -II 
+  Transfer of Property 
  Doctrine of election 
  Transfer by ostensible and co-owner 
  Apportionment 
@@ -3884,7 +3317,7 @@ Transfer of Property
  Fraudulent transfer 
  Part Performance 
 13 
-Unit III  
+Unit III 
 Sale and Mortgage 
  Sale of immovable property 
  Rights and liabilities of seller and buyer before and after completion of sale 
@@ -3895,30 +3328,26 @@ Sale and Mortgage
  Marshalling and Contribution 
  Charges 
 13 
-Unit–IV 
+Unit-IV 
 Lease, Exchange, Gifts and Actionable Claims 
  Lease of immovable property: Definition and scope 
 13 
-
-## Page 85
-
-85 
- 
- Creation of lease 
+ ## Page 85
+ 85 
+   Creation of lease 
  Rights and liabilities of lessor and lessee 
  Determination and holding over 
  Exchange: Definition and mode 
  Actionable Claim 
  Gifts- Meaning, definition, scope, mode of transfer, universal gifts and onerous gifts 
- 
-Unit - V  
+  Unit - V 
 Trusts and Easements 
  Definition of Trust 
  Comparison of Trust with other relationships -Debt, ownership, bailment, agency and 
 contract 
  Kinds of trusts 
  Creation of trust 
- Trustee: Appointment, duties, rights,liabilities, disabilities, powers 
+ Trustee: Appointment, duties, rights, liabilities, disabilities, powers 
  Rights and liabilities of beneficiary 
  Vacating the office of trustees 
  Extinction of trusts 
@@ -3928,24 +3357,21 @@ contract
 13 
 Prescribed Book(s): 
 1. Mulla, Transfer of Property Act, Haryana: Lexis Nexis, (14thEdition, 2023). 
-2. M.P.Tandon, Indian Trust Act, 1882,Faridabad: Allahabad Law Agency, (21stEdition, 2016). 
-3. Goyle’s, S.K. Roy Chowdhury &H.K.Saharay, Law of Easements and Licences,New Delhi: Eastern 
+2. M.P.Tandon, Indian Trust Act, 1882, Faridabad: Allahabad Law Agency, (21stEdition, 2016). 
+3. Goyle's, S.K. Roy Chowdhury &H.K.Saharay, Law of Easements and Licences, New Delhi: Eastern 
 Law House, (2ndEdition, 2016). 
 Reference Books: 
 1. G.C.V. Subbarao, Transfer of Property, Madras: Subbiah Chetty, (16th Edition, 2021). 
 2. S.N. Shukla, Transfer of Property Act, New Delhi: Jain Book Agency, (29th Edition, 2018). 
-
-## Page 86
-
-86 
- 
-Program: B.A.LL.B. Semester: VI 
+ ## Page 86
+ 86 
+  Program: B.A.LL.B. Semester: VI 
 Course Code: 21LBLT301 Course Title: Interpretation of Statutes 
-L-T-P-Self Study: 3-1-0-0 Credits:4  
+L-T-P-Self Study: 3-1-0-0 Credits:4 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 65  Exam Duration: 3hrs. 
+Teaching Hrs: 65 Exam Duration: 3hrs. 
 Content Hrs 
-Unit–1 
+Unit-1 
 Introduction to Interpretation of Statutes 
  Meaning of Law- Forms of Law 
  Kinds of Statutes 
@@ -3956,17 +3382,16 @@ interpretation and construction
 interpretation 
  Legislative Intent- Meaning and ascertainableness of legislative intent 
 13 
-Unit -II  
+Unit -II 
 Principles and Rules of Statutory Interpretation 
 eral Principles of Interpretation of Statutes - Ut res magis valeat quampereat - Rule of 
 functionality, Statute must be read as a whole in the context, the function of the Court is to 
 expound the law and not to legislate, the meaning of the words to be understood, keeping the 
 language as the basis 
- 
- Primary Rules of Interpretation - Literal or Grammatical Rule, Golden Rule,Mischief 
+   Primary Rules of Interpretation - Literal or Grammatical Rule, Golden Rule, Mischief 
 Rule and Purposive Rule 
  Secondary Rules or Subsidiary Rules of Interpretation -Linguistic canons- Every word 
-to have some meaning, Same word, same meaning, Different words have different  
+to have some meaning, Same word, same meaning, Different words have different 
 meaning, Noscitur a Sociis, and Ejusdem Generis, Reddendo SingulaSingulis, 
 ExpressioUnius Est ExclusioAlterius, ExpressumFacitCessareTacitum, Gender and 
 number, Mandatory and Directory rule, Conjunctive and Disjunctive rule, Casus 
@@ -3978,33 +3403,30 @@ interpretation
 operation of a statute, presumption against absurdity, and presumption as to 
 jurisdiction 
 13 
-Unit III  
-
-## Page 87
-
-87 
- 
-Aids to Interpretation 
- Internal Aids – Short Title, Long Title and Preamble, Sections, Sub-Sections, Heading 
+Unit III 
+ ## Page 87
+ 87 
+  Aids to Interpretation 
+ Internal Aids - Short Title, Long Title and Preamble, Sections, Sub-Sections, Heading 
 and Marginal Notes, Definitions -Purpose and Types of Definitions, Explanation 
 Clause, Illustrations, Interpretation Clause, Proviso, Exceptions, Repeal, Non - 
 obstinate Clause and Saving clause, Punctuation 
- External Aids – Parliamentary History, Juristic opinions, Dictionaries, Lexicons, Books 
+ External Aids - Parliamentary History, Juristic opinions, Dictionaries, Lexicons, Books 
 and Commentaries, Foreign and Domestic PrecedentsReports of the Committees or 
 Commissions, Travaux Preparatories, Subsequent Developments 
 13 
-Unit–IV 
+Unit-IV 
 Interpretation of Different Kinds of Statutes 
  Construction of Taxing Statutes 
  Interpretation of General and Special Statutes- conflict resolution, repeal by 
 necessary implication. 
- Penal Statutes, Remedial and Beneficial Statutes- Construction Principles, Maxwell’s 
+ Penal Statutes, Remedial and Beneficial Statutes- Construction Principles, Maxwell's 
 view on interpreting penal statutes. 
  Construction of substantive and adjective legislation 
  Interpretation of subordinate legislation 
  Directory and mandatory provisions 
 13 
-Unit - V  
+Unit - V 
 General Clauses Act, and Theory of Legislation 
  The General Clauses Act- Need, Utility, application, and limitations 
  Introduction to the Karnataka General Clauses Act of 1899 (KGCA)- features, 
@@ -4022,19 +3444,16 @@ Co., 2007
 Statutes: 
 1. The General Clauses Act, 1897 
 2. The Interpretation Act, 1978 (UK) 
-
-## Page 88
-
-88 
- 
-Program: B.A.LL.B. Semester: VI 
+ ## Page 88
+ 88 
+  Program: B.A.LL.B. Semester: VI 
 Course Code: 21LBLL301 Course Title: Forensic Science and Crime Scene 
 Investigation 
 L-T-P-Self Study: 1-0-1-0 Credits:2 Skill Development 
-ISA Marks: 100  Total: 100 
-Teaching Hrs: 30   
+ISA Marks: 100 Total: 100 
+Teaching Hrs: 30 
 Content Hrs 
-Unit–1 
+Unit-1 
 Introduction to Forensic Science 
  Introduction to forensic science: Definitions need and scope, cardinal principles, 
 history and development 
@@ -4043,9 +3462,8 @@ Delicti
  Expert Testimony and importance of scientific reports 
  Constitutional provisions related to forensic law 
 6 
-Unit -II  
- 
-Domains in Forensic Science 
+Unit -II 
+  Domains in Forensic Science 
  Physics divisions: ballistics, voice, audio-video, automobiles engineering 
  Questioned documents division: stylistics, linguistics, counterfeit 
  Cyber division, superimposition, forensic artistry 
@@ -4053,7 +3471,7 @@ Domains in Forensic Science
  Psychology (Criminal profiling, polygraphy, narco analysis, brain mapping) 
  Crime scene investigation and reconstruction, forensic photography 
 6 
-Unit III  
+Unit III 
 Crime Scene Management 
  Defining the Scene of Crime 
  Importance, problems, location and nature of crime scene 
@@ -4065,29 +3483,26 @@ crime scene security
 sketching 
  Collection, Packaging, Labeling & Forwarding of exhibits to Forensic Laboratories 
 6 
-Unit–IV 
+Unit-IV 
 Crime Scene Evidences 
  Fingerprints and other prints 
  Blood, Semen & other Biological fluids 
  Viscera 
  Shoe impressions 
  Tool marks, Tyre marks, Bite Marks 
- Hair – Animal & Human, Fibers & Fabrics 
+ Hair - Animal & Human, Fibers & Fabrics 
  Glass, Soil, Pollens, Paint 
  Establishment of Identity of Individuals, Fingerprints/Footprints 
- Forensic Anthropology – Skeletal Remains 
+ Forensic Anthropology - Skeletal Remains 
  Forensic Odon 
 6 
-
-## Page 89
-
-89 
- 
-Unit - V  
+ ## Page 89
+ 89 
+  Unit - V 
 Forensic Science Laboratories 
  Services provided by various FSLs, Structure of the FSLs 
  Role and Functions of DFSS 
- Various divisions in the FSL – General Analytical and Instrumentation, Ballistics, 
+ Various divisions in the FSL - General Analytical and Instrumentation, Ballistics, 
 Biology, Chemistry Documents, Physics, Psychology, Serology, Toxicology, Cyber 
 Forensic, Tape Authentication and Speaker Identification (TASI), DNA division 
  Mobile Forensic Science Laboratories 
@@ -4097,21 +3512,16 @@ Prescribed Book(s):
 (3rd Edition). 
 2. D.A. Bronstein, Law for the Expert Witness, CRC Press, Boca Raton, (1999). 
 3. B.R. Sharma, Forensic Science in Criminal Investigation and Trial, (4th Edition). 
- 
-References: 
-1. Henry Lee’s Crime Scene Handbook by Henry C. Lee. 
+  References: 
+1. Henry Lee's Crime Scene Handbook by Henry C. Lee. 
 2. C.Champod, C.Lennard, P. Margot and M.Stoilovic, Fingerprints and other (2004). 
 3. Ridge Skin Impressions, CRC Press, Boca Raton. 
 4. D.R.Redsicker, the Practical Methodology of Forensic Photography, CRC Press, Boca Raton, 
 (2ndEdition, 2000). 
-
-## Page 90
-
-90 
- 
-Semester VII 
- 
-Program: B.A. LL.B. Semester: VII 
+ ## Page 90
+ 90 
+  Semester VII 
+  Program: B.A. LL.B. Semester: VII 
 Course Code: 21LALC401 Course Title: Law of Civil Procedure and Limitation 
 L-T-P-SS: 3-1-0-0 Credits: 4 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -4134,16 +3544,16 @@ Unit - II: Suits
  Stages of a civil suit 
  Parties to the suit-joinder, mis-joinder and non-joinder 
  Frame of suit 
- Pleadings – fundamental and other rules of pleadings 
+ Pleadings - fundamental and other rules of pleadings 
  Plaint and its content, return and rejection of plaint 
- Summons – modes of service 
+ Summons - modes of service 
  Appearance of parties and consequences of non-appearance 
  Written statement, counter claim and set-off 
- Issues – kinds, framing of issues, amendment, striking out issues 
+ Issues - kinds, framing of issues, amendment, striking out issues 
  Hearing of the suit and examination of witnesses 
 13 
 Unit- III 
-Unit – III: Judgment, Decree and Execution 
+Unit - III: Judgment, Decree and Execution 
  Commissions 
  Arrest and Attachment before judgments 
  Temporary Injunctions 
@@ -4152,26 +3562,22 @@ Unit – III: Judgment, Decree and Execution
  Withdrawal and adjustment of suits 
  Adjournment, Affidavit, Interests and Costs, Caveat, Inherent powers 
  Judgment and Decree 
- Execution – general principles, power of the executing court, modes, properties liable 
+ Execution - general principles, power of the executing court, modes, properties liable 
 to attachment and sale and stay of execution 
 13 
- 
-## Page 91
-
-91 
- 
-Unit IV 
+  ## Page 91
+ 91 
+  Unit IV 
 4 Unit - IV: Appeal, Reference, Review, Revision and Special Suits 
- Appeal – from original decree, appellate decree, orders, appeal to the Supreme 
+ Appeal - from original decree, appellate decree, orders, appeal to the Supreme 
 Court, appeals by indigent person 
  Reference 
  Review 
  Revision 
- 
-13 
+  13 
 Unit V 
-5 Unit – V: Special Suits and the Limitation Act, 1963 
- Special suits – by or against Government, Corporations, Indigent persons 
+5 Unit - V: Special Suits and the Limitation Act, 1963 
+ Special suits - by or against Government, Corporations, Indigent persons 
  Interpleader suit 
  Limitation Act- History, meaning, scope and purpose 
  Applicability of limitation to suits, appeals and application 
@@ -4180,27 +3586,23 @@ Unit V
 time 
 13 
 Prescribed Book(s): 
-1. Sir Dinshaw Fardauzi Mulla, Mulla’s Code of Civil Procedure, Haryana: LexisNexis (20th Edition, 
+1. Sir Dinshaw Fardauzi Mulla, Mulla's Code of Civil Procedure, Haryana: LexisNexis (20th Edition, 
 2021). 
 2. U.N. Mitra, Law of Limitation and Prescription, New Delhi: LexisNexis (16th Edition, 2021). 
- 
-References: 
-1. Sudipto Sarkar and V.R. Manohar, Sarkar Code of Civil Procedure,2 Vols, New Delhi: LexisN 
+  References: 
+1. Sudipto Sarkar and V.R. Manohar, Sarkar Code of Civil Procedure, 2 Vols, New Delhi: LexisN 
 (12th Edition, 2015). 
-2. Basu’s Law on Limitation Act 1963, New Delhi: Delhi Law House (11thEdition, 2022). 
-
-## Page 92
-
-92 
- 
-Program: B.A. LL.B. Semester: VII 
+2. Basu's Law on Limitation Act 1963, New Delhi: Delhi Law House (11thEdition, 2022). 
+ ## Page 92
+ 92 
+  Program: B.A. LL.B. Semester: VII 
 Course Code: 21LALC402 Course Title: Public International Law 
 L-T-P-SS: 3-1-0-0 Credits: 4 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
 Teaching Hrs.: 65 Exam Duration: 3 hours 
 Unit I 
 No Content Hrs. 
-1 Unit – I: Introduction, History and Sources 
+1 Unit - I: Introduction, History and Sources 
  Definition, Nature and Scope of Public International Law, Is International Law 
 a true law? 
  Theories as to the basis of International Law - Natural Law and Positivism, 
@@ -4246,36 +3648,30 @@ Law of Sea, 1982; Territorial Sea, Contiguous Zone, Exclusive Economic Zone,
 Continental shelf and H igh Seas, Maritime delimitation, Deep -Sea Mining, 
 Dispute Settlement under Law of the Sea Convention, 1982 
 13 
- 
-## Page 93
-
-93 
- 
-Unit V 
+  ## Page 93
+ 93 
+  Unit V 
 5 Unit - V: Structure and Contemporary Issues 
  United Nations and its Organs - United Nations Organization, Organs and 
-functions of UNO,Jus ad Bellum - Prohibition of use of force, justification, 
+functions of UNO, Jus ad Bellum - Prohibition of use of force, justification, 
 Collective Self-Defence, Responsibility to protect and humanitarian 
 intervention 
 13 
 Prescribed Book(s): 
-1. M.N. Shaw, International law, Cambridge University Press,(8th Edition,2017). 
-2. I.A. Shearer, Starke’s International Law (1st Indian Edition, 2007). 
+1. M.N. Shaw, International law, Cambridge University Press,(8th Edition, 2017). 
+2. I.A. Shearer, Starke's International Law (1st Indian Edition, 2007). 
 References: 
-1. J.Crawford, Brownlie’s Principles of Public International Law (8th Edition, 2013). 
-2. R. Jennings, and A. Watts, (eds.), Oppenheim’s International Law [Vol. I –Peace] (9th Edition, 
+1. J.Crawford, Brownlie's Principles of Public International Law (8th Edition, 2013). 
+2. R. Jennings, and A. Watts, (eds.), Oppenheim's International Law [Vol. I -Peace] (9th Edition, 
 2008). 
 3. A.Boyle, and C.Chinkin, The Making of International Law, Oxford University Press, (2007). 
 4. B.S. Chimni, International Law and World Order, Cambridge University Press, (2017). 
 5. Anne Orford, Reading Humanitarian Intervention: Human Rights and the Use of Force in 
 International Law, Cambridge University Press, (2003). 
-
-## Page 94
-
-94 
- 
-Program: B.A. LL.B. Semester: VII 
-Course Code: 21LALT401 Course Title: OPTIONAL – II: Banking Law 
+ ## Page 94
+ 94 
+  Program: B.A. LL.B. Semester: VII 
+Course Code: 21LALT401 Course Title: OPTIONAL - II: Banking Law 
 L-T-P-SS: 3-1-0-0 Credits: 4 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
 Teaching Hrs.: 65 Exam Duration: 3 hours 
@@ -4313,8 +3709,8 @@ Unit III
  Payment in due course 
  Noting and protest 
  Protection to the paying banker and collecting banker 
- Penal provisions under the Negotiable Instruments Act,1881 
- The Banker’s Book Evidence Act, 1891 
+ Penal provisions under the Negotiable Instruments Act, 1881 
+ The Banker's Book Evidence Act, 1891 
 13 
 Unit IV 
 4 Unit - IV: Banker and Customer Relationship and Debt Recovery Laws 
@@ -4328,21 +3724,17 @@ Loans and Advances
  Modes of securing advances 
  Advances against goods and documents of title to goods 
 13 
-
-## Page 95
-
-95 
- 
-  Special features of Recovery of Debts due underthe Banks and Financial 
+ ## Page 95
+ 95 
+    Special features of Recovery of Debts due underthe Banks and Financial 
 Institutions Act, 1993 
  Special features of the Securitisation and Reconstruction of Financial Assets 
 and Enforcement of Security Interest Act, 2002 
- 
-Unit V 
+  Unit V 
 5 Unit - V: Electronic Banking 
  Regulation of credit and debit cards 
  RBI notifications and circulars 
- Online banking – risks and management 
+ Online banking - risks and management 
  Electronic Fund transfer, plain messages (Telex or data communication) 
 structured messages - SWIFT, RTGS 
  Information Technology 
@@ -4350,26 +3742,22 @@ structured messages - SWIFT, RTGS
  Global developments in Banking Technology 
 13 
 Prescribed Book(s): 
-1. M. L.Tannan, Tannan’s Banking Law and Practice in India, New Delhi: LexisNexis 
+1. M. L.Tannan, Tannan's Banking Law and Practice in India, New Delhi: LexisNexis 
 Butterworths Wadhwa, (2012). 
-2. Vinod Kothari, ‘Tannan’s Banking Law and Practice in India, Gurgaon: LexisNexis, (28th 
+2. Vinod Kothari, 'Tannan's Banking Law and Practice in India, Gurgaon: LexisNexis, (28th 
 Edition, 2022). 
-3. WilliamBlair,Banking and Financial Services Regulation, London: Butterworths, (1998). 
- 
-References: 
+3. WilliamBlair, Banking and Financial Services Regulation, London: Butterworths, (1998). 
+  References: 
 1. E.P.Ellinger, Ellinger's Modern Banking Law, New York: Oxford University Press, New York 
 (2006). 
 2. Wadsley and G.A. Penn, The Law Relating to Domestic Banking, London: Sweet & Maxwell, 
-(2nd Edition,2000). 
+(2nd Edition, 2000). 
 3. K.D. Zacharias, Legal Aspects of Banking Operations, New Delhi: Macmillan, (2005). 
 4. Ross Cranston, Principles of Banking Law, New York: Oxford University Press, (1997). 
-
-## Page 96
-
-96 
- 
-Program: B.A. LL.B. Semester: VII 
-Course Code: 21LALT402 Course Title: OPTIONAL – II: Human Rights Law 
+ ## Page 96
+ 96 
+  Program: B.A. LL.B. Semester: VII 
+Course Code: 21LALT402 Course Title: OPTIONAL - II: Human Rights Law 
 L-T-P-SS: 3-1-0-0 Credits: 4 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
 Teaching Hrs.: 65 Exam Duration: 3 hours 
@@ -4421,16 +3809,12 @@ Unit V
  Human Rights and Vulnerable groups- Women, Children, and Indigenous 
 people 
 13 
-
-## Page 97
-
-97 
- 
-  Operation of Artificial Intelligence in the Human Rights regime 
+ ## Page 97
+ 97 
+    Operation of Artificial Intelligence in the Human Rights regime 
  Human Rights and Terrorism- Definitional change, Climate change, and 
 Internal displacements 
- 
-Prescribed Book(s): 
+  Prescribed Book(s): 
 1. Olivier De Schutter, International Human Rights Law: Cases, Materials, Commentary, UK: 
 Cambridge University Press, (2010). 
 2. S.K. Kapoor, International Law and Human Rights, Prayagraj: Central Law Agency, (2022). 
@@ -4447,12 +3831,9 @@ Resistance, UK: Cambridge University Press, (2003).
 Morals, UK: Oxford University Press, (2nd Edition 2000). 
 6. Justice M. Rama Jois, Legal and Constitutional History of India: Ancient Legal, Judicial and 
 Constitutional System, New Delhi: Universal Law Publishing, (2nd Edition, 2016). 
-
-## Page 98
-
-98 
- 
-Program: B.A. LL.B. Semester: VII 
+ ## Page 98
+ 98 
+  Program: B.A. LL.B. Semester: VII 
 Course Code: 21LALP401 Course Title: CLINICAL COURSE - I: Professional Ethics and 
 Professional Accounting System 
 L-T-P-SS: 3-1-0-0 Credits: 4 
@@ -4460,7 +3841,7 @@ ISA Marks: 100 ESA Marks: 0 Total Marks: 100
 Teaching Hrs.: 65 
 Unit I 
 No Content Hrs. 
-1 Unit – I: Introduction and the Advocates Act, 1961 
+1 Unit - I: Introduction and the Advocates Act, 1961 
  Evolution of the legal profession 
  Importance of the legal profession 
  Equipment of the lawyer 
@@ -4495,24 +3876,21 @@ Maharastra and Another, AIR 1972 SC 46
 9. Supreme Court Bar Association v. Union of India, AIR 1998 SC 1895 
 10. Ex-Capt Harish Uppal v. Union of India, AIR 2003 SC 739 
 13 
- 
-## Page 99
-
-99 
- 
-Unit IV 
+  ## Page 99
+ 99 
+  Unit IV 
 4 Unit - IV: Professional Misconduct -Bar Council of India Opinions 
 Selected cases of professional misconduct decided by the disciplinary committees of 
 the Bar Council of India. 
  Negligence in conducting case 
  Withholding of documents 
  Failure to render accounts 
- Misappropriation of client’s money 
+ Misappropriation of client's money 
  Breach of trust 
- Misuse of client’s confidence 
+ Misuse of client's confidence 
  Misleading client, cheating the client, making false assurances 
  Threatening client 
- Disregard of client’s interest 
+ Disregard of client's interest 
  Withdrawal from case without sufficient reason and sufficient notice 
  Representing the other side, changing of side, appearing for both sides 
  Interfering with the decision by influencing the judge 
@@ -4535,26 +3913,22 @@ Prescribed Book(s):
 1. K.V. Krishnaswamy Iyer, Professional Conduct and Advocacy, Oxford University Press, 
 (1945). 
 2. B.S. Raman, Basic Accounting, Bengaluru: Sapna Book House (2020). 
- 
-References: 
+  References: 
 1. N.R. Madhava Menon, Clinical Legal Education, Eastern Book Co, (2008). 
 2. Dr. B. Malik, Art of Lawyer, Universal Book Agency (1999). 
-3. Sanjiva Row’s, The Advocates Act, 1961, LexisNexis, (9th Edition, 2022) 
+3. Sanjiva Row's, The Advocates Act, 1961, LexisNexis, (9th Edition, 2022) 
 4. The Advocates Act, 1961. 
 5. The Contempt of Courts Act, 1971. 
-
-## Page 100
-
-10 
- 
-Program: B.A. LL.B. Semester: VII 
+ ## Page 100
+ 10 
+  Program: B.A. LL.B. Semester: VII 
 Course Code: 21LALL401 Course Title: Criminal Law Practice Essentials 
 L-T-P-SS: 1-0-1-0 Credits: 2 
 ISA Marks: 100 ESA Marks: 0 Total Marks: 100 
 Teaching Hrs.: 30 
 Unit I 
 No Content Hrs. 
-1 Unit – I: Law relating to Affidavits 
+1 Unit - I: Law relating to Affidavits 
  Need and types of affidavits 
  Filing of affidavits 
  Form of affidavits and rules as to signature 
@@ -4563,7 +3937,7 @@ No Content Hrs.
  Drafting of affidavits 
 10 
 Unit II 
-2 Unit – II: Drafting of Certain Petitions and Applications in Criminal Law 
+2 Unit - II: Drafting of Certain Petitions and Applications in Criminal Law 
  Framing of charges 
  Bail and anticipatory bail applications 
  Drafting of writ of habeas, corpus 
@@ -4591,13 +3965,10 @@ Publishing Co., (2023).
 Reference Books: 
 1. Justice B K Behera, Better Drafting (Civil and Criminal), Vinod Publications Pvt. Ltd., 
 (2023). 
-2. Sanjeev Sarkar, Draftsman (Civil & Criminal), Lawmann’s (2017). 
-
-## Page 101
-
-10 
- 
-Program: B.A. LL.B. Semester: VII 
+2. Sanjeev Sarkar, Draftsman (Civil & Criminal), Lawmann's (2017). 
+ ## Page 101
+ 10 
+  Program: B.A. LL.B. Semester: VII 
 Course Code: 21LALE401 Course Title: ELECTIVE-I: Media Law 
 L-T-P-SS: 1-0-1-0 Credits: 2 
 ISA Marks: 100 ESA Marks: 0 Total Marks: 100 
@@ -4625,7 +3996,7 @@ Hate Speech
 10 
 Unit III 
 3 Unit- III: Media and Ethics 
- Media’s ethical problems including privacy, right to reply, communal writing 
+ Media's ethical problems including privacy, right to reply, communal writing 
 and sensational and yellow journalism; biased and coloured reports 
  Ethical issues related with ownership of Media, Media and Political Control, 
  Social Media - regulation and liability 
@@ -4634,12 +4005,9 @@ and sensational and yellow journalism; biased and coloured reports
 Advertising, Surrogate Advertising, and ASCO Code 
  Media Gag Orders by Courts in India 
 10 
-
-## Page 102
-
-10 
- 
-Prescribed Book(s): 
+ ## Page 102
+ 10 
+  Prescribed Book(s): 
 1. D.D. Basu, LAW OF THE PRESS, (LexisNexis, 2016). 
 2. Sebastian Paul, ETHICS AND THE MEDIA, (LexisNexis, 2015). 
 3. Ram Jethmalani and D. S. Chopra, MEDIA LAW, (Thomson Reuters, 2014). 
@@ -4654,12 +4022,9 @@ Reference(s):
 7. Report on paid news, press council of India, (2010). 
 8. Telecom regulatory authority of India report (2009). 
 9. The Chanda committee report (1966). 
-
-## Page 103
-
-10 
- 
-Program: B.A. LL.B. Semester: VII 
+ ## Page 103
+ 10 
+  Program: B.A. LL.B. Semester: VII 
 Course Code: 21LALE402 Course Title: ELECTIVE-I: Sports Law 
 L-T-P-SS: 1-0-1-0 Credits: 2 
 ISA Marks: 100 ESA Marks: 0 Total Marks: 100 
@@ -4703,18 +4068,14 @@ Unit III
  Criminal and civil liability in sports injuries 
  Understanding the liability of individuals associated with sports 
 10 
-
-## Page 104
-
-10 
- 
-Prescribed book(s): 
+ ## Page 104
+ 10 
+  Prescribed book(s): 
 1. Mukul Mudgal and Vidushpat Singhania, Law & Sports in India- Developments, Issues 
 and Challenges, Lexis Nexis, (2nd Edition, 2015). 
-2. Anderson Jack, Modern Sports Law, Hart Publishing –Oxford and Portland, Oregon, 
+2. Anderson Jack, Modern Sports Law, Hart Publishing -Oxford and Portland, Oregon, 
 (2010). 
- 
-References: 
+  References: 
 1. Antoine Duval, The Russian doping scandal at the Court of Arbitration for Sport: lessons 
 for the world anti-doping system. The International Sports Law Journal, 16(3-4), 177-197, (20 
 2. P.A. Czarnota, Athlete Privacy Rights and Endorsement Contracts: An Analysis of US, UK, and 
@@ -4722,14 +4083,11 @@ Australian Law. Virginia Sports and Entertainment Law Journal, 11, 460, (2011).
 3. Neil Gibson, Note, NCAA Scholarship Restrictions as Anticompetitive Measures: The 
 One-Year Rule and Scholarship Caps as Avenues for Antitrust Scrutiny, 3 WM. & MARY BUS. L. 
 REV. 203, (2012). 
-4. Jeffrey S. Moorad, Billy Beane, Omar Minaya& Phil Griffin, “Moneyball” Impact on 
-Business and Sports,19 VILL. SPORTS & ENT. L.J. 425, (2012). 
-
-## Page 105
-
-10 
- 
-Program: B.A. LL.B. Semester: VII 
+4. Jeffrey S. Moorad, Billy Beane, Omar Minaya& Phil Griffin, "Moneyball" Impact on 
+Business and Sports, 19 VILL. SPORTS & ENT. L.J. 425, (2012). 
+ ## Page 105
+ 10 
+  Program: B.A. LL.B. Semester: VII 
 Course Code: 21LBLE401 Course Title: ELECTIVE-I: Competition Law 
 L-T-P-SS: 1-0-1-0 Credits: 2 
 ISA Marks: 100 ESA Marks: 0 Total Marks: 100 
@@ -4737,73 +4095,67 @@ Teaching Hrs.: 30
 Unit I 
 No Content Hrs. 
 1 Unit - I: Introduction and Development of Competition Law 
- Basic Concepts – Constitutional aspect of Elimination of Concentration of 
+ Basic Concepts - Constitutional aspect of Elimination of Concentration of 
 Wealth and Distribution of resources [Article 39 (b)(c)] 
- Relation between Competition Policy and Competition law – Objectives of 
+ Relation between Competition Policy and Competition law - Objectives of 
 Competition law 
  History and development of Competition Law/antitrust law, Liberalization and 
 Globalization 
  Introduction to Competition Act 2002 
  Difference between MRTP Act and Competition Act, 
  Salient features of Competition Act with reference to EU and US Laws 
- Emerging International Competition Laws – Extraterritorial application (WTO 
-agreements and FTA’s) 
+ Emerging International Competition Laws - Extraterritorial application (WTO 
+agreements and FTA's) 
 10 
 Unit II 
-2 Unit - II: Anti – Competitive Agreements and Regulation 
+2 Unit - II: Anti - Competitive Agreements and Regulation 
  Anti-Competitive Agreements, Horizontal and Vertical Agreements - 
 Exemptions, Penalties, Prohibition of Anti-Competitive Agreements 
- Determination of Relevant Market – Rule of Per se and Reason 
+ Determination of Relevant Market - Rule of Per se and Reason 
  Cartels 
  Predatory Pricing 
  Bid Rigging 
- Role of Sectoral Regulators in Competition Issues – Case Studies of 
+ Role of Sectoral Regulators in Competition Issues - Case Studies of 
 Infrastructure Sector 
 10 
 Unit III 
 3 Unit- III: Regulation of Abuse of Dominant Position, Regulation of Combinations 
- Introduction – Dominance in the Market, Relevant Market, Abusive Conducts 
+ Introduction - Dominance in the Market, Relevant Market, Abusive Conducts 
 under the Competition Act, 2002 
- Penalties – Prevention of Abuse of Dominance 
- Abuse of Dominant Position – Concept, forms and treatment in India 
+ Penalties - Prevention of Abuse of Dominance 
+ Abuse of Dominant Position - Concept, forms and treatment in India 
  Combinations - Concept, forms, reasons and regulatory framework in India 
- Combinations – Merger, Acquisition, Amalgamation and Takeover – Horizontal, 
+ Combinations - Merger, Acquisition, Amalgamation and Takeover - Horizontal, 
 Vertical and Conglomerate Mergers 
  Introduction of State and Central Competition Commissions of India, Powers 
-and Functions, Jurisdictions of the CCI – adjudication and appeals, Director 
+and Functions, Jurisdictions of the CCI - adjudication and appeals, Director 
 General of Investigation (DGI), Penalties and Enforcement 
  Modern Dimensions of Competition Law and Emerging Trends (National and 
 International) 
 10 
-
-## Page 106
-
-10 
- 
-Prescribed book(s): 
+ ## Page 106
+ 10 
+  Prescribed book(s): 
 1. S.M. Dugar, Commentary on MRTP Law, Competition Law & Consumer Protection Law, 4th 
 edition, Wadhwa Nagpur, (2006). 
-2. D.P. Mittal, Taxmann’s Competition Law (2007) Universal Guide to Competition Law in India – 
+2. D.P. Mittal, Taxmann's Competition Law (2007) Universal Guide to Competition Law in India - 
 2003, Universal Law Publishing Company, New Delhi. 
-3. Dr. V.K. Agarwal Competition Act, 2002 – Principles and Practices. 
+3. Dr. V.K. Agarwal Competition Act, 2002 - Principles and Practices. 
 4. Richard Whish, Competition Law, Oxford University Press, (2008). 
 5. Chatterji Souvik, Competition Law in India and Interface with Sectoral Regulators, Thomson 
 Reuters (2019). 
 6. Raghavan Committee Report and other relevant Committee Reports 
-
-## Page 107
-
-10 
- 
-Semester VIII 
+ ## Page 107
+ 10 
+  Semester VIII 
 Program: B.A.LL.B. Semester: VIII 
-Course Code: 21LALC403 Course Title: Labour Law – I: Law Relating to 
+Course Code: 21LALC403 Course Title: Labour Law - I: Law Relating to 
 Resolution of Industrial Conflicts and Labour Welfare 
-L-T-P-Self Study: 3-1-0-0 Credits:4  
+L-T-P-Self Study: 3-1-0-0 Credits:4 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 65  Exam Duration: 3hrs. 
+Teaching Hrs: 65 Exam Duration: 3hrs. 
 Content Hrs 
-Unit–1 
+Unit-1 
 Introduction to the Labour Laws and the Trade Unions Act, 1926 
  Introduction to Labour Laws 
  Evolution of Labour Laws 
@@ -4823,7 +4175,7 @@ o Methods of Collective Bargaining
 o Status of Collective Bargaining Agreements 
  Comparative analysis with the provisions of the Industrial Relations Code, 2020 
 13 
-Unit -II  
+Unit -II 
 The Industrial Disputes Act, 1947 Part I 
  Historical Background 
 o Definitions 
@@ -4842,15 +4194,12 @@ o Compulsory Adjudication (Labour Court, Industrial Tribunal, National
 Tribunal 
  Voluntary Arbitration u/s 10-A 
 13 
-
-## Page 108
-
-10 
- 
- Comparative analysis with the provisions of the Industrial Relations Code, 2020  
-Unit III  
+ ## Page 108
+ 10 
+   Comparative analysis with the provisions of the Industrial Relations Code, 2020 
+Unit III 
 The Industrial Disputes Act, 1947, Part II 
- Government’s power of reference u/s. 10: critical analysis with reference to decided 
+ Government's power of reference u/s. 10: critical analysis with reference to decided 
 cases. 
  Strikes and Lock-Outs 
  Lay-Off and Retrenchment 
@@ -4859,7 +4208,7 @@ cases.
  Unfair Labour Practices 
  Comparative analysis with the provisions of the Industrial Relations Code, 2020 
 13 
-Unit–IV 
+Unit-IV 
 Standing Orders and Child Labour 
  The Industrial Employment (Standing Orders) Act, 1946 
 o Certified Standing Orders 
@@ -4882,7 +4231,7 @@ Regulation) Amendment Act, 2016
  Comparative analysis with the provisions of the Occupational Safety, Health and 
 Working Conditions Code, 2020 
 13 
-Unit - V  
+Unit - V 
 The Contract Labour and the Factories Act, 1948 
  The Contract Labour (Regulation and Abolition) Act, 1970 
 o Abolition and Regularisation of Contract Labour 
@@ -4894,12 +4243,9 @@ o Critical appraisal of working of the Act in present days
 o Definitions 
  Factory 
 13 
-
-## Page 109
-
-10 
- 
- Manufacturing process 
+ ## Page 109
+ 10 
+   Manufacturing process 
  Occupier 
  Worker 
  Hazardous processes 
@@ -4911,8 +4257,7 @@ o Working conditions of employment
  Annual leave facility. 
  Comparative analysis with the provisions Occupational Safety, Health and Working 
 Conditions Code, 2020 
- 
-Prescribed Book(s): 
+  Prescribed Book(s): 
 1. S.C. Srivastava, Industrial Relations and Labour Laws, Haryana: Vikas Publishing House 
 Pvt. Ltd, (7th Edition, 2022). 
 2. S.N. Mishra, Labour and Industrial Laws, Allahabad: Central Law Publications,(29th Edition, 
@@ -4933,48 +4278,44 @@ Statutes:
 4. The Child & Adolescent Labour (Protection and Regulation) Act, 1986 
 5. The Contract Labour (Regulation and Abolition) Act, 1970 
 6. The Factories Act, 1948 
-
-## Page 110
-
-11 
- 
-Program: B.A.LL.B. Semester: VIII 
+ ## Page 110
+ 11 
+  Program: B.A.LL.B. Semester: VIII 
 Course Code: 24LALC401 Course Title: Law of Evidence 
-L-T-P-Self Study: 3-1-0-0 Credits:4  
+L-T-P-Self Study: 3-1-0-0 Credits:4 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 65  Exam Duration: 3hrs. 
+Teaching Hrs: 65 Exam Duration: 3hrs. 
 Content Hrs 
-Unit–1 
+Unit-1 
 Introduction 
 • Nature and scope of the Bharatiya Sakshya Adhiniyam 
-• Interpretation clause – Court, fact, fact in issue, relevant facts, evidence, document, 
+• Interpretation clause - Court, fact, fact in issue, relevant facts, evidence, document, 
 proved, disproved and not proved 
 • Kinds of evidence 
 • Presumptions and its kinds 
-• Doctrine of ‘Res Gestae’ 
+• Doctrine of 'Res Gestae' 
 • Facts which are occasion, cause and effect 
 • Motive, preparation, conduct and proof of conspiracy 
 • Explanatory or introductory facts and test identification parade 
 13 
-Unit -II  
- 
-Admissions and Confessions 
+Unit -II 
+  Admissions and Confessions 
 • Relevance of facts not otherwise relevant 
 • Admissions- Definition, types, parties, circumstances, relevancy and evidentiary value 
-• Confession –Meaning, confessionary statements, types, evidentiary value, rule of 
+• Confession -Meaning, confessionary statements, types, evidentiary value, rule of 
 exclusion, exceptions and limitations 
 • Confession of co-accused and its evidentiary value 
 13 
-Unit III  
+Unit III 
 Relevancy of statement under special circumstances and of character 
 • Statements by persons who cannot be called as witnesses 
 • Relevancy of evidence in prior or same judicial proceeding 
 • Statements made under special circumstances 
 • Relevancy of judgments of Courts 
 • Relevancy of opinion by third persons- Expert opinion, nature and scope 
-• Relevancy of character of parties – Civil and criminal proceedings 
+• Relevancy of character of parties - Civil and criminal proceedings 
 13 
-Unit–IV 
+Unit-IV 
 Proof of Facts 
 • Facts which need not be proved 
 • Oral evidence - Rule of best evidence and hearsay 
@@ -4983,69 +4324,60 @@ Proof of Facts
 • Proof of attested documents and signatures 
 • Exclusion of oral by documentary evidence 
 13 
-Unit - V  
-
-## Page 111
-
-11 
- 
-Production and Effect of Evidence and Examination of Witnesses 
-• Burden of proof – onus of proof, particular fact, general and special exceptions, facts 
+Unit - V 
+ ## Page 111
+ 11 
+  Production and Effect of Evidence and Examination of Witnesses 
+• Burden of proof - onus of proof, particular fact, general and special exceptions, facts 
 within the special knowledge 
 • Presumption - survivorship, death, ownership, good faith in transaction, legitimacy of 
 child, cruelty, abetment of suicide of married woman, dowry death and rape 
-• Estoppel – Meaning, scope and types 
-• Witnesses – qualification and privileged communications 
-Examination of witnesses – order, lawful questions, leading questions, hostile witness, character 
+• Estoppel - Meaning, scope and types 
+• Witnesses - qualification and privileged communications 
+Examination of witnesses - order, lawful questions, leading questions, hostile witness, character 
 of witness, corroboration and contradiction of witness, refreshing of memory 
 13 
 Prescribed Book(s): 
 1. M. Monir, Law of Evidence, Universal Law Publishing Co. Pvt. Ltd, (12th Edition, 2021). 
 2. Avtar Singh, Principles of Law of Evidence, Central Law Publications, (24th Edition, 2020). 
 References: 
-1. Rattan Lal Dheeraj Lal, The BharatiyaSakshya Adhiniyam,2023, LexisNexis, (2 Volume) 27th 
+1. Rattan Lal Dheeraj Lal, The BharatiyaSakshya Adhiniyam, 2023, LexisNexis, (2 Volume) 27th 
 Edition, 2024). 
 2. Sudipto Sarkar and Prof. (Dr.) V. Kesava Rao, Sarkar on Evidence, LexisNexis, (21st Edition, 2020). 
 3. Dyson Heydon, Cross on Evidence, LexisNexis, (13th Edition, 2021). 
-4. Woodroffe and Amir Ali’s Law of Evidence, LexisNexis, (20th Edition, 2019). 
+4. Woodroffe and Amir Ali's Law of Evidence, LexisNexis, (20th Edition, 2019). 
 5. Vepa P. Sarathi, Law of Evidence, Eastern Book Company, (7th Edition, 2018). 
 6. The 69th Law Commission of India Report, 1977. 
- 
-List of Statutes: 
+  List of Statutes: 
 1. The BharatiyaSakshyaAdhiniyam, 2023 
 2. The Bharatiya Nagarik Suraksha Sanhita, 2023 
-
-## Page 112
-
-11 
- 
-Program: B.A.LL.B Semester: VIII 
-Course Code: 21LALT403 Course Title: OPTIONAL – III: Law of Insurance 
-L-T-P-Self Study: 3-1-0-0 Credits:4  
+ ## Page 112
+ 11 
+  Program: B.A.LL.B Semester: VIII 
+Course Code: 21LALT403 Course Title: OPTIONAL - III: Law of Insurance 
+L-T-P-Self Study: 3-1-0-0 Credits:4 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 65  Exam Duration: 3hrs. 
+Teaching Hrs: 65 Exam Duration: 3hrs. 
 Content Hrs 
-Unit–1 
+Unit-1 
 Introduction 
  Origin and development of insurance 
  Meaning, definition and nature of insurance 
  Objectives of insurance 
  Classification of Insurance 
  Regulatory authorities - Insurance Regulatory Development Authority of India 
-(IRDAI) – role, composition, removal, duties and functions, insurance intermediaries- 
+(IRDAI) - role, composition, removal, duties and functions, insurance intermediaries- 
 agents, surveyors and assessors; Tariff Advisory Committee; Insurance Association 
 of India 
  Insurance Ombudsman 
 13 
-Unit -II  
- 
-General Principles of Insurance 13 
- 
-  Aleatory contract, contract of adhesion, utmost good faith, insurable interest, 
+Unit -II 
+  General Principles of Insurance 13 
+    Aleatory contract, contract of adhesion, utmost good faith, insurable interest, 
 indemnity, subrogation, contribution, risk, premium, proximate cause, vis major 
  Double insurance 
  Re-insurance 
-Unit III  
+Unit III 
 Life, Health and Professional Insurance 
  Life insurance - nature and formation of life insurance contract, types of life insurance 
 policies, persons entitled to payment, insurable events, risk, surrender, claims and 
@@ -5054,13 +4386,13 @@ insurance policy
  The Life Insurance Corporation Act, 1956 - Salient features and recent developments 
  Heath insurance - concept, nature, formation of health insurance contract, policy, 
 clauses and claim procedure 
- Professional liability insurance – doctors and lawyers 
+ Professional liability insurance - doctors and lawyers 
 13 
-Unit–IV 
+Unit-IV 
 Motor Vehicle Insurance and Fire Insurance 
 Motor Vehicle Insurance 
  Nature and Scope 
- Types – third-party and comprehensive - principles, clauses, limits of liability 
+ Types - third-party and comprehensive - principles, clauses, limits of liability 
  No fault liability 
  Compensation in hit and run cases 
  Motor Vehicles Accident Claims Tribunal- composition, jurisdiction, powers and 
@@ -5068,14 +4400,10 @@ procedure
  The Employees Compensation Act, 1923 and its nexus with The Motor Vehicles Act, 
 1988 
 13 
-
-## Page 113
-
-11 
- 
-  Settlement of disputes through alternative disputes resolution mechanisms (ADR) 
- 
-Fire Insurance 
+ ## Page 113
+ 11 
+    Settlement of disputes through alternative disputes resolution mechanisms (ADR) 
+  Fire Insurance 
  Nature and Scope 
  Meaning of fire and loss by fire 
  Standard Fire Policy 
@@ -5083,12 +4411,11 @@ Fire Insurance
  Conditions and Warranties 
  Rights and Duties of parties 
  Claims 
- 
-Unit - V  
+  Unit - V 
 Marine Insurance 
  Origin and development 
  Nature and scope 
- The Marine Insurance Act, 1906 (U.K.) and The Marine Insurance Act, 1963 – 
+ The Marine Insurance Act, 1906 (U.K.) and The Marine Insurance Act, 1963 - 
 Comparison 
  Types of policies 
  Insurable interest, proximate cause, perils of sea, insured perils, voyage and 
@@ -5096,81 +4423,70 @@ deviation
  Warranties - types and implications on breach 
  Loss and abandonment 
 13 
- 
-Prescribed Book(s): 
- 
- 1. K.S.N.Murthy & K.V.S.Sharma, Modern Law of Insurance in India, Gurgoan: LexisNexis, (6th 
+  Prescribed Book(s): 
+   1. K.S.N.Murthy & K.V.S.Sharma, Modern Law of Insurance in India, Gurgoan: LexisNexis, (6th 
 Edition, 2019). 
- 2.  M.N.Srinivasan, Principles of Insurance Law, Gurgoan: LexisNexis, (11th Edition, 2021). 
- 
-References: 
- 
- 1. S.K. Sarvaria, B N Singh's New Insurance Law, Delhi: Universal Law Publishing, (2017). 
-2. John Birds,Bird’s Modern Insurance Law, London: Sweet & Maxwell (9th Edition, 2017). 
-3. E.R. Hardy Ivamy, General Principles of Insurance Laws, London: Butterworth’s (6th Edition, 
+ 2. M.N.Srinivasan, Principles of Insurance Law, Gurgoan: LexisNexis, (11th Edition, 2021). 
+  References: 
+   1. S.K. Sarvaria, B N Singh's New Insurance Law, Delhi: Universal Law Publishing, (2017). 
+2. John Birds, Bird's Modern Insurance Law, London: Sweet & Maxwell (9th Edition, 2017). 
+3. E.R. Hardy Ivamy, General Principles of Insurance Laws, London: Butterworth's (6th Edition, 
 1993). 
 4. Avtar Singh, Principles of Insurance Law, Nagpur: Wadhwa& Co., (7th Edition, 2002). 
 5. Tom Baker, Insurance Law and Policy: Cases, Materials and Problems, Aspen Publishing 2003, 
 (3rd Edition, 2003). 
- 
-## Page 114
-
-11 
- 
-Program: B.A.LL.B. Semester: VIII 
-Course Code: 21LALT404 Course Title: OPTIONAL –III: Investment Laws 
-L-T-P-SS: 3-1-0-0 Credits:4  
+  ## Page 114
+ 11 
+  Program: B.A.LL.B. Semester: VIII 
+Course Code: 21LALT404 Course Title: OPTIONAL -III: Investment Laws 
+L-T-P-SS: 3-1-0-0 Credits:4 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 65  Exam Duration: 3hrs. 
+Teaching Hrs: 65 Exam Duration: 3hrs. 
 Content Hrs 
-Unit–1 
+Unit-1 
 Introduction to Investment Laws, Shares and Debentures 
  Evolution, meaning and nature 
  Types of funding viz: Debt Fund, Equity Fund and Hybrid Fund 
  Risks associated with investments 
  Concept of investment and bargaining norms 
- Shares – Definition, nature, types, shareholders, stocks, and share certificates 
+ Shares - Definition, nature, types, shareholders, stocks, and share certificates 
  Share capital - Calls, issue, allotment, transfer, and transmission 
  Debentures - Definition, nature, types, charges and deposits 
  Inter-corporate loans and investments under the Companies Act, 2013 
 13 
-Unit -II  
- 
-Mutual Funds and Venture Capital Investment 
- Non-Banking Financial Institutions (NBFIs) – Role in investments 
+Unit -II 
+  Mutual Funds and Venture Capital Investment 
+ Non-Banking Financial Institutions (NBFIs) - Role in investments 
  Evolution of mutual funds 
- Mutual Funds – Scope, definition, types, classification, risk, and organization 
+ Mutual Funds - Scope, definition, types, classification, risk, and organization 
 structure 
  Venture Capital - Concept, scope, and importance 
  Venture capital legal framework, private equity, vulture, and angel funds. 
  Nitin Desai Committee's recommendations 2006 
 13 
-Unit III  
+Unit III 
 Investor Protection 
  Need for investor protection 
  Factors affecting investors' interests 
  Rights of investors, Investor Education and Protection Fund 
- Measures for investor protection – SEBI and Judicial approach 
+ Measures for investor protection - SEBI and Judicial approach 
  Role of National Stock Exchange and Bombay Stock Exchange in investor protection 
- The Commercial Courts Act,2015 (Sec.2) 
+ The Commercial Courts Act, 2015 (Sec.2) 
 
 13 
-Unit–IV 
+Unit-IV 
 Securities and Exchange Board of India (SEBI) and Foreign Exchange Control Regime 
  Securities and Exchange Board of India (SEBI) - composition, scope, powers and 
 functions 
- Regulation of Foreign investment – direct and indirect 
+ Regulation of Foreign investment - direct and indirect 
  Securities Appellate Tribunal 
  Concept of foreign exchange regulation 
- The Foreign Exchange Management Act (FEMA), 1999 – Customs 
+ The Foreign Exchange Management Act (FEMA), 1999 - Customs 
 13 
-Unit - V  
-
-## Page 115
-
-11 
- 
-Overview of International Investment Law 
+Unit - V 
+ ## Page 115
+ 11 
+  Overview of International Investment Law 
  International investment law: scope and importance 
  Sources of international investment law - treaties, customary international law, and 
 general principles of law 
@@ -5190,26 +4506,22 @@ Prescribed Book(s):
 Law Publications, (2019). 
 3. Dolzer, Rudolf and C. Schreuer, Principles of international Investment Law, Oxford University 
 Press, (3rd Edition, 2022). 
- 
-References: 
+  References: 
 1. Dr. Sudhanshu Kumar and Alok Verma, Guide to Capital Market and Securities Law, Mumbai: 
 Thomson Reuters (2021). 
 2. G. Van Harten, Investment Treaty Arbitration and Public Law, Oxford University Press (2007). 
-3. Ramni Taneja, Foreign Direct Investment and Globalization, New Delhi:Eastern Book 
+3. Ramni Taneja, Foreign Direct Investment and Globalization, New Delhi: Eastern Book 
 Company, (2014). 
-
-## Page 116
-
-11 
- 
-Program: B.A.LL. B Semester: VIII 
-Course Code: 21LALP402 Course Title: CLINICAL COURSE – II: Alternative 
+ ## Page 116
+ 11 
+  Program: B.A.LL. B Semester: VIII 
+Course Code: 21LALP402 Course Title: CLINICAL COURSE - II: Alternative 
 Dispute Resolution Systems 
 L-T-P-Self Study: 2-0-2-0 Credits:4 Practical 
-ISA Marks: 100  Total Marks: 100 
-Teaching Hrs: 65  Exam Duration: 3hrs. 
+ISA Marks: 100 Total Marks: 100 
+Teaching Hrs: 65 Exam Duration: 3hrs. 
 Content Hrs 
-Unit–1 
+Unit-1 
 Introduction to ADRs 
  Meaning, Evolution, Need, and Significance of ADRs 
  Different Methods of Dispute Resolution- Inquisitorial method and Adversarial 
@@ -5219,9 +4531,8 @@ method
  Advantages and disadvantages of ADRs 
  Suitability of ADRs to various types of disputes; Civil Procedure Code and ADRs 
 13 
-Unit -II  
- 
-Negotiation 
+Unit -II 
+  Negotiation 
  Meaning and Significance of Negotiation 
  Stages of Negotiation 
  Styles of Negotiation 
@@ -5230,7 +4541,7 @@ Negotiation
  Skills of Negotiation 
  Clinical activity: Simulation exercises. 
 13 
-Unit III  
+Unit III 
 Mediation 
  Meaning, Significance of Mediation 
  Qualities of mediator 
@@ -5244,7 +4555,7 @@ Mediation
  Salient features of the Mediation Act, 2023 
  Process of Mediation under the Mediation Act, 2023 
 13 
-Unit–IV 
+Unit-IV 
 Conciliation 
  Conciliation: Meaning 
  Different kinds of conciliation - facilitative, evaluative, court- annexed, voluntary, and 
@@ -5252,17 +4563,13 @@ compulsory
  Qualities of a conciliator 
  Role of a conciliator 
 13 
-
-## Page 117
-
-11 
- 
- Stages of conciliation 
+ ## Page 117
+ 11 
+   Stages of conciliation 
  Procedure of Conciliation under the Arbitration and Conciliation Act, 1996 (Section 
 66) 
  Clinical activity: visit to Lok Adalat 
- 
-Unit - V  
+  Unit - V 
 Arbitration 
  Meaning of arbitration 
  Salient features of arbitration 
@@ -5285,7 +4592,7 @@ LexisNexis, (2019).
 References: 
 1. B.C. Thiruvengadam, Making Minds Meet - Conflict to Consensus, Bengaluru: LEXQUISITE, 
 (2022). 
-2. S. Susheela, Mediation – Readers’ Handbook, Asia Law House, (1st Edition, 2012). 
+2. S. Susheela, Mediation - Readers' Handbook, Asia Law House, (1st Edition, 2012). 
 3. The 129th Law Commission of India Report. 
 4. The 222nd Law Commission of India Report. 
 5. D.K. Sampath, Mediation Concept and Technique in support of Resolution of Disputes, National 
@@ -5293,69 +4600,61 @@ Law School of India University, (1991).
 6. Gold Neil et.al., Learning Lawyers Skills, London: Butterworths in conjunction with the 
 Commonwealth Legal Education Association, (Chapter - 7) (1989). 
 7. Michael Noone, Mediation, Cavendish Pub., (Chapters-1, 2 and 3) (1996). 
-8. Sriram Panchu’s, Mediation- Practice and Law, (2022). 
+8. Sriram Panchu's, Mediation- Practice and Law, (2022). 
 9. William Ury, Roger Fisher, Getting to Yes, (2012). 
-10. Justice R.V. Raveendran, “Section 89 CPC: Need for an Urgent Relook”, (2007) 4 SCC J 23 
- 
-Statutes: 
-1. The Code of Civil Procedure,1908 
-2. The Karnataka Court Fees and Suits Valuation Act,1958 
-3. The Arbitration and Conciliation Act,1996 
+10. Justice R.V. Raveendran, "Section 89 CPC: Need for an Urgent Relook", (2007) 4 SCC J 23 
+  Statutes: 
+1. The Code of Civil Procedure, 1908 
+2. The Karnataka Court Fees and Suits Valuation Act, 1958 
+3. The Arbitration and Conciliation Act, 1996 
 4. The Family Courts Act, 1984 
 5. The Hindu Marriage Act, 1955 
 6. The Industrial Disputes Act, 1947 
 7. The Karnataka Civil Procedure (Mediation) Rules, 2005. 
 8. The Commercial Courts Act, 2015 
 9. The Commercial Courts (Pre-institution Mediation and Settlement) Rules, 2018 
-
-## Page 118
-
-11 
- 
-10. The Real Estate (Regulation and Development) Act, 2016 
-11. The Guidelines and Procedure of K-RERA Conciliation and Dispute Resolution Cell,2019 
+ ## Page 118
+ 11 
+  10. The Real Estate (Regulation and Development) Act, 2016 
+11. The Guidelines and Procedure of K-RERA Conciliation and Dispute Resolution Cell, 2019 
 12. The Consumer Protection Act, 2019 
 13. The Consumer Protection (Mediation) Rules, 2020 
 14. The Companies Act, 2013 
 15. The Companies (Mediation and Conciliation) Rules, 2016 
 16. The Legal Services Act, 1986 
 17. The Micro, Small and Medium Enterprises (MSME) Development Act, 2006. 
-
-## Page 119
-
-11 
- 
-Program: B.A.LL. B Semester: VIII 
+ ## Page 119
+ 11 
+  Program: B.A.LL. B Semester: VIII 
 Course Code: 21LALL402 Course Title: Civil Law Practice Essentials 
 L-T-P-Self Study: 1-0-1-0 Credits:2 Skill Development 
-ISA Marks: 100  Total Marks: 100 
-Teaching Hrs: 30   
+ISA Marks: 100 Total Marks: 100 
+Teaching Hrs: 30 
 Content Hrs 
-Unit–1 
+Unit-1 
 Preliminary Proceedings Under Karnataka Civil Rules of Practice, 1967 
 ● Hierarchy of courts 
 ● Definitions- Pleadings, Judge, Presiding Officer, First Hearing, Chief Ministerial 
 Officer, Interlocutory Application 
-● Pleadings – Rule 7, Rule 8, Rule 9, Rule 10, Rule 13, Rule 14, Rule 16-B. 
-● Interlocutory Matters – Rule 17, Rule 18, Rule 21, and Rule 23. 
-● Affidavits – Rule 24, Rule 25, Rule 26, Rule 27, Rule 28, Rule 29. 
-● Court Fees – Karnataka Court Fee and Suit Valuation Act, 1958 – Section 4, 6, 7, 10, 
+● Pleadings - Rule 7, Rule 8, Rule 9, Rule 10, Rule 13, Rule 14, Rule 16-B. 
+● Interlocutory Matters - Rule 17, Rule 18, Rule 21, and Rule 23. 
+● Affidavits - Rule 24, Rule 25, Rule 26, Rule 27, Rule 28, Rule 29. 
+● Court Fees - Karnataka Court Fee and Suit Valuation Act, 1958 - Section 4, 6, 7, 10, 
 11. 
 10 
-Unit -II  
- 
-Court Proceedings 
-● Issues – Rule 33, Posting and Adjournment – Rule 34, 35 
-● Processes – Rule 39, 40, 41, 46 
-● Evidence – Rule 49, 50, 51 
-● Witnesses- Rule 54, 56, 60,61, 66 
+Unit -II 
+  Court Proceedings 
+● Issues - Rule 33, Posting and Adjournment - Rule 34, 35 
+● Processes - Rule 39, 40, 41, 46 
+● Evidence - Rule 49, 50, 51 
+● Witnesses- Rule 54, 56, 60, 61, 66 
 ● Documents 
 o General documents 
 o Record and custody of courts and public officers 
 o Admission of documents and marking of exhibits 
 o Public documents 
 10 
-Unit III  
+Unit III 
 Arguments, Orders, Judgment and Decree 
 ● Arguments- Rule 165. 
 ● Orders and Costs- Rule 94, 99, 155. 
@@ -5371,27 +4670,21 @@ References:
 (2011). 
 2. Practical Tips for Trial Attorneys: A Conversation with Judge James L. Kimbler (Retired) 2017, 
 Sigel Press, (2016 Edition). 
-
-## Page 120
-
-12 
- 
-List of Acts and Rules: 
-1. The Karnataka Civil Rules of Practice,1967 
+ ## Page 120
+ 12 
+  List of Acts and Rules: 
+1. The Karnataka Civil Rules of Practice, 1967 
 2. The Karnataka Court Fee and Suit Valuation Act, (1958). 
 18. The Code of Civil Procedure, 1908. 
-
-## Page 121
-
-12 
- 
-Program: B.A.LL. B Semester: VIII 
+ ## Page 121
+ 12 
+  Program: B.A.LL. B Semester: VIII 
 Course Code: 21LCLE402 Course Title: Law of Insolvency and Bankruptcy 
-L-T-P-Self Study: 4-1-0-0 Credits:4  
+L-T-P-Self Study: 4-1-0-0 Credits:4 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
-Teaching Hrs: 65  Exam Duration: 3hrs. 
+Teaching Hrs: 65 Exam Duration: 3hrs. 
 Content Hrs 
-Unit–1 
+Unit-1 
 General Laws on Corporate Insolvency and Bankruptcy 
 ● Insolvency and Bankruptcy: Concept and Evolution, Historical Development of 
 Insolvency Laws in India 
@@ -5403,9 +4696,8 @@ of Security Interest Act, 2002
 ● The Insolvency and Bankruptcy Board of India: Establishment and Constitution of 
 Board, Powers and Functions of Board 
 13 
-Unit -II  
- 
-Corporate Insolvency Resolution Process 
+Unit -II 
+  Corporate Insolvency Resolution Process 
 ● Important Definitions under Insolvency and Bankruptcy Code, 2016: Bankrupt, 
 corporate person, corporate debtor, creditor -financial and operational, corporate 
 applicant, debt-financial and operational, default, dispute, exclude d assets, financial 
@@ -5413,7 +4705,7 @@ information, financial institution, qualifying debt and excluded debt
 ● Resolution Professionals and their duties 
 ● Resolution Plan and cross-border insolvency 
 13 
-Unit III  
+Unit III 
 Liquidation, Insolvency Resolution and Bankruptcy for Corporate Persons, 
 Individuals and Partnership Firms 
 ● Liquidation process for corporate persons, brief concept of fast -track corporate 
@@ -5433,27 +4725,21 @@ Prescribed Book(s):
 4. The Law of Insolvency in India by Sir Dinshaw Fardunji Mulla and Aparna Ravi, LexisNexis, (6th 
 Edition). 
 Statutes: 
-
-## Page 122
-
-12 
- 
-1. The Insolvency and Bankruptcy Code, 2016 
+ ## Page 122
+ 12 
+  1. The Insolvency and Bankruptcy Code, 2016 
 2. The Recovery of Debts Due to Banks and Financial Institutions Act, 1993 
 3. The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest 
 Act, 2002 
-
-## Page 123
-
-12 
- 
-Program: B.A.LL. B Semester: VIII 
+ ## Page 123
+ 12 
+  Program: B.A.LL. B Semester: VIII 
 Course Code: 21LBLE402 Course Title: Information Technology Law 
-L-T-P-Self Study: 1-0-1-0 Credits:2  
-ISA Marks: 100  Total Marks: 100 
-Teaching Hrs: 30  . 
+L-T-P-Self Study: 1-0-1-0 Credits:2 
+ISA Marks: 100 Total Marks: 100 
+Teaching Hrs: 30 . 
 Content Hrs 
-Unit–1 
+Unit-1 
 Introduction to Cyberspace 
 ● Cyberspace: Meaning and issues 
 ● Cyberspace regulation: needs and models 
@@ -5466,9 +4752,8 @@ o Various conceptions of sovereignty and cyberspace regulations
 o Issues and concerns 
 o Judicial interpretation of cyberspace jurisdiction 
 10 
-Unit -II  
- 
-Information Technology Law 
+Unit -II 
+  Information Technology Law 
 ● Brief overview of the Information Technology Act, 2000 and its amendments 
 ● E-Commerce: Meaning, UNCITRAL model, issues and challenges, regulation under 
 Indian legal system 
@@ -5481,10 +4766,10 @@ o Introduction to The Information Technology (Intermediary Guidelines and
 Digital Media Ethics Code) Rules 2021 
 o Recent developments and role of the judiciary 
 10 
-Unit III  
+Unit III 
 Law enforcement issues in digital environment 
 ● IPR and internet -specific challenges: Software piracy; linking and caching; 
-cybersquatting and domain name disputes; ICANN’s role in resolving domain name 
+cybersquatting and domain name disputes; ICANN's role in resolving domain name 
 disputes 
 ● Cyber Crimes 
 o Offences under the Information Technology Act, 2000 - Document and 
@@ -5496,12 +4781,9 @@ stalking, defamation through internet, spamming, phishing
 ● Privacy and data protection concerns: Introduction to Digital Personal Data 
 Protection Act, 2023; Electronic Signature; Public and Private Key 
 10 
-
-## Page 124
-
-12 
- 
-Prescribed Book(s) : 
+ ## Page 124
+ 12 
+  Prescribed Book(s) : 
 1. Karnika Seth, Computers, Internet and New Technology Laws-A comprehensive reference 
 work with special focus on developments in India, Lexis Nexis, (3rd Edition, 2021). 
 2. Dr. Pavan Duggal, Cyber Laws, Universal Law Publisher, (3rd Edition, 2023). 
@@ -5515,18 +4797,15 @@ NLSIU, (2010).
 Review (2014). 
 4. Timothy S. Wu, Cyberspace Sovereignty? The Internet and the International System, 10(3) 
 Harvard Journal of Law and Technology (1997). 
-
-## Page 125
-
-12 
- 
-Program: B.A.LL. B Semester: VIII 
+ ## Page 125
+ 12 
+  Program: B.A.LL. B Semester: VIII 
 Course Code: 21LCLE401 Course Title: International Commercial Arbitration 
-L-T-P-Self Study: 1-0-1-0 Credits:2  
-ISA Marks: 100  Total Marks: 100 
-Teaching Hrs: 30   
+L-T-P-Self Study: 1-0-1-0 Credits:2 
+ISA Marks: 100 Total Marks: 100 
+Teaching Hrs: 30 
 Content Hrs 
-Unit–1 
+Unit-1 
 Introduction to International Commercial Arbitration 
 ● Arbitration- Meaning, Nature and Scope 
 ● International Commercial Arbitration 
@@ -5535,7 +4814,7 @@ International Trade Law, International Chamber of Commerce, Provisions relating 
 International Arbitration under the Arbitration and Conciliation Act, 1996 with 
 Amendments, role of Judiciary vis-à-vis enforcement of arbitral awards 
 10 
-Unit -II  
+Unit -II 
 Courts of Arbitration and Arbitral Awards 
 ● Formation, validity and interpretation of arbitration agreements 
 ● Jurisdiction of Arbitration Tribunal subject to Bilateral Agreements 
@@ -5543,52 +4822,43 @@ Courts of Arbitration and Arbitral Awards
 selection, International Bar Association rules on ethics of international arbitrators 
 ● Arbitration proceedings - Preliminary matters, written submission, hearing, 
 presentation of evidence, witness examination, post-hearing proceedings 
-● Arbitral Awards - Difference between ‘Orders’ and ‘Awards’, types of awards, validity of 
+● Arbitral Awards - Difference between 'Orders' and 'Awards', types of awards, validity of 
 awards, remedies and costs 
 ● Enforcement and challenging the award 
 10 
-Unit III  
+Unit III 
 : International Investment Arbitrations 
 ● Foreign Direct Investments and growth of arbitration 
 ● International Centre for Settlement of Investment Disputes (ICSID) - Background, 
 jurisdictional requirements, special features of ICSID arbitrators 
-● Bilateral and multilateral investment treaties–violation of terms of BIT and legal 
+● Bilateral and multilateral investment treaties-violation of terms of BIT and legal 
 disputes arising out of investment. 
 10 
 Prescribed Book(s): 
- 
- 1. Margaret L. Mosses – The Principle and Practice of International Commercial Arbitration, 
+   1. Margaret L. Mosses - The Principle and Practice of International Commercial Arbitration, 
 Cambridge University Press, (2008). 
-
-## Page 126
-
-12 
- 
- 2.  Justice R.S. Bachavat - Law of Arbitration & Conciliation Act, Vol – I & II, LexisNexis, (6th Edition, 
+ ## Page 126
+ 12 
+   2. Justice R.S. Bachavat - Law of Arbitration & Conciliation Act, Vol - I & II, LexisNexis, (6th Edition, 
 2017). 
- 
-References: 
+  References: 
  1. N. Blackaby and others, Redfern and Hunter on International Arbitration, Oxford University 
 Press, (7th Editions, 2022). 
 2. G. Born, International Arbitration: Law and Practice, Kluwer, (3rd Edition, 2021). 
 3. P. C. Markanda: Law relating to Arbitration and Conciliation, LexisNexis, (8th Edition, 2013). 
 4. Simon Roberts and Michael Palmer - Dispute Processes, ADR and the Primary Forms of 
 Decision-Making, Cambridge University Press, (2005). 
-5. Ashwinie K. Bansal – Arbitration: Procedure and Practice, LexisNexis, (1st Edition 2009). 
- 
-## Page 127
-
-12 
- 
-Semester IX 
- 
-Program: B.A.LL.B. Semester: IX 
+5. Ashwinie K. Bansal - Arbitration: Procedure and Practice, LexisNexis, (1st Edition 2009). 
+  ## Page 127
+ 12 
+  Semester IX 
+  Program: B.A.LL.B. Semester: IX 
 Course Code: 21LALC501 Course Title: Law of Taxation 
 L-T-P-SS: 3-1-0-0 Credits: 4 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
 Teaching Hrs.: 65 Exam Duration: 3 hrs. 
 Content Hrs. 
-Unit – I 
+Unit - I 
 Unit - I: Introduction 
  History of direct taxation in India 
  Goals of taxation system 
@@ -5610,7 +4880,7 @@ Unit - I: Introduction
  Set off and carry forward of losses 
  Clubbing of income 
 13 
-Unit – II 
+Unit - II 
 Unit - II: Assessment and Income Tax Authorities 
  Incomes exempt from tax 
  Permissible deductions 
@@ -5628,28 +4898,24 @@ Unit - III: Introduction to Goods and Service Tax
  The Constitution (101st Amendment) Act, 2016 
  Dual GST model taxation 
  GST Council, Central GST, 
- GST levy on transactions – sale, transfer, purchase, barter, lease or import of goods 
+ GST levy on transactions - sale, transfer, purchase, barter, lease or import of goods 
 and/or services 
  Compensation law to State Governments 
  Goods and Services Tax Network Portal 
 13 
-
-## Page 128
-
-12 
- 
- Tax Invoice 
+ ## Page 128
+ 12 
+   Tax Invoice 
  GST on Imports and exports 
  Benefits of GST to Trade, Industry, e-commerce and Service Sector 
  Impact of GST on GDP of India and Inflation 
- 
-Unit- IV 
+  Unit- IV 
 Unit - IV: Interstate Transactions and Goods and Services Tax 
  Concept of supply 
  Registration and payment of GST 
  Composite scheme 
  Integrated GST levied by the Central Government 
- Interstate transactions and imported goods or services, State GST – The State Goods 
+ Interstate transactions and imported goods or services, State GST - The State Goods 
 and Services Tax Law, Union Territory Goods and Services Tax Law 
  GST exemption on the sale and purchase of securities 
  Securities Transaction Tax (STT) 
@@ -5672,27 +4938,24 @@ Prescribed Book(s):
 3. R.K. Jha and P.K. Singh, A Birds Eye View of GST, Hyderabad: Asia Law House, (4th Edition, 
 2020). 
 References: 
-1. Kanga and Palkhivala’s- The Law and Practice of Income Tax, Gurgoan: LexisNexis, Vol I &II, 
+1. Kanga and Palkhivala's- The Law and Practice of Income Tax, Gurgoan: LexisNexis, Vol I &II, 
 (11th Edition, 2020). 
 2. T.N. Manoharan- Students Handbook on Taxation (Includes Income-Tax Law and Goods and 
 Services Tax Law), Mumbai: Snow White, (2023). 
-3. B.B. Lal – Direct Taxes- Practice and Planning, Pearson India, (19th Edition, 2020). 
+3. B.B. Lal - Direct Taxes- Practice and Planning, Pearson India, (19th Edition, 2020). 
 4. Dr. H.C Mehotra, Dr. S.P Goyal, Fundamentals of Income Tax, Agra: Sahitya Bhawan 
 Publications, (64th Edition, 2023-2024). 
-
-## Page 129
-
-←BACK TO SEMESTER II 
+ ## Page 129
+ ←BACK TO SEMESTER II 
 12 
- 
-Program: B.A.LL.B. Semester: IX 
-Course Code:21LALC502 Course Title: Labour Law – II: Law Relating to Wages 
+  Program: B.A.LL.B. Semester: IX 
+Course Code:21LALC502 Course Title: Labour Law - II: Law Relating to Wages 
 and Social Security 
 L-T-P-SS: 3-1-0-0 Credits: 4 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
 Teaching Hrs.: 65 Exam Duration: 3 hrs. 
 Content Hrs. 
-Unit – I 
+Unit - I 
 Unit - I: Globalisation and overview of the Constitutional mandate 
  Globalisation - Impact of Globalisation on organised and unorganised sector workers 
 - Emergence of the new kind of unorganised workers, Privatisation and open 
@@ -5703,7 +4966,7 @@ welfare and social security - Review of laws to meet new challenges
  Legislative and Judicial Trends towards application of labour laws - Emergence of 
 Laws relating to SEZs, SEZ and its impact, etc 
 13 
-Unit – II 
+Unit - II 
 Unit - II: Social Welfare Legislations 
  Concept of Wages: Theories of wages and kinds of Wages 
  The Minimum Wages Act, 1948: Definitions- the appropriate government, employer, 
@@ -5734,29 +4997,26 @@ liability or a good gesture- Historical development. The Payment of Gratuity Act
 definition of Employee - Payment of Gratuity- Determination of amount of gratuity - 
 authorities 
  Features and Scheme of Protection of workers in the unorganized sector under the 
-Unorganised Worker’s Social Security Act, 2008 
+Unorganised Worker's Social Security Act, 2008 
 13 
- 
-## Page 130
-
-←BACK TO SEMESTER II 
+  ## Page 130
+ ←BACK TO SEMESTER II 
 13 
- 
-Unit- IV 
+  Unit- IV 
 Unit - IV: Social Security 
  Concept and Importance of Social Security, Influence of I.L.O., Constitutional Mandate 
- The Employees’ Compensation Act, 1923, Definitions, Employee, Employer, 
-Dependent, Partial disablement, Total disablement, etc., Employer’s liability for 
+ The Employees' Compensation Act, 1923, Definitions, Employee, Employer, 
+Dependent, Partial disablement, Total disablement, etc., Employer's liability for 
 compensation, Conditions and Exceptions, Notional extension of the w orkplace, 
 Procedure for claiming compensation, Computation of Compensation, 
 Commissioner: Jurisdiction, Powers, etc 
-The Employees’ State Insurance Act, 1948: Definitions, Employment injury, 
+The Employees' State Insurance Act, 1948: Definitions, Employment injury, 
 Contribution, Dependent, Employee, Principal Employer, etc. Employ ees State 
 Insurance Funds, Contribution, Benefits available, Administrative Mechanism, 
 presumption of the occupational disease in the act and judicial interpretations, E.S.I 
 Corporation, Standing Committee, Medical Benefits Council, Composition, Powers, 
 Duties - Adjudication of Disputes, E.S.I Courts, Comparative analysis of the E.S.I. Act, 
-1948 with the Employees’ Compensation Act, 1923 
+1948 with the Employees' Compensation Act, 1923 
 13 
 Unit- V 
 Unit - V: Regulation of Shops and Establishments and Maternity Benefit 
@@ -5773,39 +5033,35 @@ Prescribed Book(s):
 2019). 
 2. S.C. Srivastava, Treatise on Social Security, Lucknow: Eastern Book Company, (1st Edition, 
 2005). 
- 
-References: 
+  References: 
 1. O.P. Malhotra, Law of Industrial Disputes, Nagpur: LexisNexis, (7th Edition, 2015). 
 International Labour Conventions and Recommendations 
-
-## Page 131
-
-FMCD2009 / 2.0 13 
- 
-Program: B.A.LL.B. Semester: IX 
-Course Code:21LALT501 Course Title: OPTIONAL – IV: Intellectual Property 
-Laws – I 
+ ## Page 131
+ FMCD2009 / 2.0 13 
+  Program: B.A.LL.B. Semester: IX 
+Course Code:21LALT501 Course Title: OPTIONAL - IV: Intellectual Property 
+Laws - I 
 L-T-P-SS: 3-1-0-0 Credits: 4 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
 Teaching Hrs.: 65 Exam Duration: 3 hrs. 
 Content Hrs. 
-Unit – I 
+Unit - I 
 Unit - I: Introduction 
- Property – Concept and kinds 
- Intellectual property – Concept and types 
+ Property - Concept and kinds 
+ Intellectual property - Concept and types 
  Nature and theories (labour theory, personality theory, utilitarian theory and 
 reward theory) 
  Purpose and objectives 
  Evolution 
 13 
-Unit – II 
+Unit - II 
 Unit - II: Trade Marks Law 
- Trade Marks – Definition and kinds 
+ Trade Marks - Definition and kinds 
  General principles, functions and need for protection 
  Registered and un-registered trade marks 
  Use of trade mark on goods, services, advertisement and domain names 
  Registration of trade mark- Procedure, grounds of refusal 
- Passing off and infringement, forums, remedies – civil, criminal and rectification 
+ Passing off and infringement, forums, remedies - civil, criminal and rectification 
  Protection of trade dress and colour combination 
  Tarnishment of trade marks - comparative advertising and disparagement 
  Exhaustion of trademark rights 
@@ -5832,26 +5088,21 @@ Unit- IV
 Providers and rights management system 
  Forums and remedies 
 13 
-
-## Page 132
-
-FMCD2009 / 2.0 13 
- 
-Performances and Phonogram Treaty (WPPT), Brussels Satellite Convention, 
+ ## Page 132
+ FMCD2009 / 2.0 13 
+  Performances and Phonogram Treaty (WPPT), Brussels Satellite Convention, 
 Beijing Treaty on Audiovisual Performance 
- 
-Unit- V 
+  Unit- V 
 Unit - V: Law of Designs and Semiconductor Integrated Circuits Layout Design 
  Protection of designs - Introduction, need and subject matter 
  Procedure for registration 
  Infringement 
- Semiconductor integrated circuits layout design – Meaning, scope and importance 
- Registration – Conditions, procedure, duration, rights conferred, registered users and 
+ Semiconductor integrated circuits layout design - Meaning, scope and importance 
+ Registration - Conditions, procedure, duration, rights conferred, registered users and 
 their rights 
  Transfer 
  Infringement, remedies offences and penalties 
- 
-Prescribed Book(s): 
+  Prescribed Book(s): 
 1. P. Narayanan, Intellectual Property Law in India, Hyderabad: Gogia Law Agency, (3rd Edition, 
 2020). 
 2. V. K., Ahuja, Law Relating to Intellectual Property, New Delhi: LexisNexis, (3rd Edition, 2017). 
@@ -5864,26 +5115,23 @@ Tata Mc Graw Hill Publishing Co., (2001).
 Edition, 2013). 
 5. Unni, Trade Marks and the Emerging concepts of Cyber Property Rights, New Delhi: Eastern 
 Law House, (2002). 
-
-## Page 133
-
-FMCD2009 / 2.0 133 
- 
-Program: B.A.LL.B. Semester: IX 
-Course Code:21LALT502 Course Title: OPTIONAL – IV: Socio-Economic Crimes 
+ ## Page 133
+ FMCD2009 / 2.0 133 
+  Program: B.A.LL.B. Semester: IX 
+Course Code:21LALT502 Course Title: OPTIONAL - IV: Socio-Economic Crimes 
 L-T-P-SS: 3-1-0-0 Credits: 4 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
 Teaching Hrs.: 65 Exam Duration: 3 hrs. 
 Content Hrs. 
-Unit – I 
+Unit - I 
 Unit - I: Introduction 
  Distinction between conventional crimes and socio-economic crimes 
- Socio-economic crimes – History, definition and classification 
+ Socio-economic crimes - History, definition and classification 
  Development of law legislations relating to socio-economic crimes 
- Organised crime – Nature, definition, scope, and characteristics 
+ Organised crime - Nature, definition, scope, and characteristics 
  Role of State in prevention and control of conventional and socio-economic crimes. 
 13 
-Unit – II 
+Unit - II 
 Unit - II: Crimes against Women 
  Dowry 
  Sexual Harassment of Women at Workplace 
@@ -5892,7 +5140,7 @@ Unit - II: Crimes against Women
 13 
 Unit- III 
 Unit - III: Crimes against vulnerable groups 
- Crimes against Children – Sexual offences and child marriage 
+ Crimes against Children - Sexual offences and child marriage 
  Exposure and abandonment of senior citizens 
  Crimes against Scheduled Castes and Scheduled Tribes 
  Human Trafficking 
@@ -5914,41 +5162,34 @@ Unit - V: Investigating Agencies
  Vigilance Bureau, Enforcement Directorate 
 13 
 Prescribed Book(s): 
-1.  K.D. Gaur, Textbook on Socio Economic Offences, Gurgoan: LexisNexis Professional Books, (20 
- 
-References: 
-
-## Page 134
-
-FMCD2009 / 2.0 134 
- 
-1. S.M. Afzal Qadri, Ahamed Siddique’s Criminology, Penology Hall, Jerome: General Principles of 
+1. K.D. Gaur, Textbook on Socio Economic Offences, Gurgoan: LexisNexis Professional Books, (20 
+  References: 
+ ## Page 134
+ FMCD2009 / 2.0 134 
+  1. S.M. Afzal Qadri, Ahamed Siddique's Criminology, Penology Hall, Jerome: General Principles of 
 Criminal Law, Lucknow: Eastern Book Company, (2nd Edition, 1960). 
 2. S.C. Tripathi, Women and Criminal Law, Allahabad: Central Law Publications, (3rd Edition, 
 2021). 
 3. M.P. Tandon, The Indian Penal Code, Faridabad: Allahabad Law Agency, (New Edition, 2023). 
-4. K.I. Vibhute, P.S.A. Pillai’s Criminal Law, Lucknow: Eastern Book Company, (14th Edition, 
+4. K.I. Vibhute, P.S.A. Pillai's Criminal Law, Lucknow: Eastern Book Company, (14th Edition, 
 2019). 
-
-## Page 135
-
-135 
- 
-Program: B.A.LL.B. Semester: IX 
-Course Code:21LALP501 Course Title: CLINICAL COURSE – III: Drafting, Pleading 
+ ## Page 135
+ 135 
+  Program: B.A.LL.B. Semester: IX 
+Course Code:21LALP501 Course Title: CLINICAL COURSE - III: Drafting, Pleading 
 and Conveyance 
 L-T-P-SS: 2-0-2-0 Credits: 4 
 ISA Marks: 100 ESA Marks: 0 Total Marks: 100 
 Teaching Hrs.: 65 Exam Duration: 3 hrs. 
 Content Hrs. 
-Unit – I 
+Unit - I 
 Unit - I: General Principles 
  Importance of legal drafting 
  Essentials - Language, grammar, and structure 
- General Principles – Drafting, pleading and conveyance 
+ General Principles - Drafting, pleading and conveyance 
  Identification of legal issues and material facts and law 
 13 
-Unit – II 
+Unit - II 
 Unit - II: Fundamentals of Drafting of Pleadings 
  Legal Notice and reply 
  Affidavits- Kinds 
@@ -5978,40 +5219,33 @@ Unit - V: Drafting of Writs
  Public Interest Litigation, statement of objections/reply statement 
 13 
 Prescribed Book(s): 
-1. G.C. Mogha and S.N. Dhingra, Mogha’s Law of Pleading in India with Precedents, Kolkata: East 
+1. G.C. Mogha and S.N. Dhingra, Mogha's Law of Pleading in India with Precedents, Kolkata: East 
 House, (18th Edition. 2021). 
-2. G.C. Mogha and P.C. Mogha, Mogha’s Indian Conveyancer, Kolkata: Eastern Law House, (18th 
+2. G.C. Mogha and P.C. Mogha, Mogha's Indian Conveyancer, Kolkata: Eastern Law House, (18th 
 Edition, 2021). 
- 
-References: 
+  References: 
 1. Principles and Forms of Pleadings, Drafting and Conveyancing by Dr. A.N. Chaturvedi, Kolkata 
 Central Law Publications. 
-
-## Page 136
-
-136 
- 
-2. DeSouza’s Forms and Precedents of Conveyancing; by C.R. Datta, Prayagraj: Eastern Law Hous 
+ ## Page 136
+ 136 
+  2. DeSouza's Forms and Precedents of Conveyancing; by C.R. Datta, Prayagraj: Eastern Law Hous 
 (13th Edition, 2020). 
 3. Interpretation of Contracts; Justice Sir Kim Lewison; London: Sweet and amp; Maxwell (7th Ed 
 2020). 
-4. N.S. Bindra, N.S. Bindra’s Pleadings and Practice, Gurgoan: LexisNexis; (13th Edition, 2021). 
-5. Hargopal, The Legal Draftsman – A Comprehensive Guide to Deeds and Documents, Gurgoan: 
+4. N.S. Bindra, N.S. Bindra's Pleadings and Practice, Gurgoan: LexisNexis; (13th Edition, 2021). 
+5. Hargopal, The Legal Draftsman - A Comprehensive Guide to Deeds and Documents, Gurgoan: 
 LexisNexis, Vol. 2, (15th Edition, 2021). 
-6. Shivagopal, Shivagopal’s Conveyancing – Precedents and Forms, Delhi: Eastern Book Company, 
+6. Shivagopal, Shivagopal's Conveyancing - Precedents and Forms, Delhi: Eastern Book Company, 
 (6th Edition, 2016). 
-
-## Page 137
-
-137 
- 
-Program: B.A.LL.B. Semester: IX 
+ ## Page 137
+ 137 
+  Program: B.A.LL.B. Semester: IX 
 Course Code: 21LALE501 Course Title: ELECTIVE-III: Energy Law 
 L-T-P-SS: 1-0-1-0 Credits: 2 
 ISA Marks: 100 ESA Marks: 0 Total Marks: 100 
 Teaching Hrs.: 30 
 Content Hrs. 
-Unit – I 
+Unit - I 
 Unit - I: Introduction to Energy Law and Governance 
  Energy Security: Energy sources, units of energy, distinction between energy and 
 electricity 
@@ -6019,10 +5253,10 @@ electricity
 Women, The International Convention on Economic, Social and Cultural Rights 
  Constitutional provisions- Article 39(b), Seventh Schedule- List III- Entry 38, 
 Articles 246 and 262 
- India’s energy policy landscape: National Electricity Policy, 2005, Integrated Energy 
+ India's energy policy landscape: National Electricity Policy, 2005, Integrated Energy 
 Policy, 2006, Draft Energy Policy, 2017 
 6 
-Unit – II 
+Unit - II 
 Unit - II: Legal and Regulatory Framework in the Energy Sector 
  Fundamentals of energy value chain: generation, transmission, distribution, and 
 consumption 
@@ -6054,21 +5288,17 @@ Hybrid Policy, 2018
 Unit- V 
 Unit - V: Energy and Environment 
  International agreements: United Nations Framework Convention on Climate 
-Change, 1992, Kyoto Protocol, 1997, Paris Agreement, 2015. India’s commitment 
+Change, 1992, Kyoto Protocol, 1997, Paris Agreement, 2015. India's commitment 
 6 
-
-## Page 138
-
-138 
- 
-under these instruments 
+ ## Page 138
+ 138 
+  under these instruments 
  Renewable Purchase Obligations (RPOs) and Renewable Energy Certificates (RECs) 
  The Energy Conservation Act, 2001 
  Carbon markets and carbon credits: regulatory mechanisms and legal compliance 
  ESG disclosures and reporting requirements for energy companies. 
  Waste-to-energy programme 
- 
-Prescribed Book(s): 
+  Prescribed Book(s): 
 1. Sairam Bhat [ed]; Energy Law and Policy in India, NLSIU Books Series -2, 2016 
 2. Nawneet Vibhaw, Energy Law and Policy in India, LexisNexis 
 References: 
@@ -6081,23 +5311,20 @@ rchase_Agreement.pdf
 https://forumofregulators.gov.in/Data/Reports/FoR%20Consumer%20Protection%20Stud 
 y%20Report.pdf 
 4. Ministry of New and Renewable Energy, Guidelin es for implementation of Waste to Energy 
-Programme “Programme on Energy from Urban, Industrial and Agricultural Wastes/Residues 
+Programme "Programme on Energy from Urban, Industrial and Agricultural Wastes/Residues 
 (2022), 
 https://cdnbbsr.s3waas.gov.in/s3716e1b8c6cd17b771da77391355749f3/uploads/2022/12 
 /2022122763-1.pdf 
 5. Ministry of Power & MoEFCC, Policy Paper on Indian Carbon Market (ICM) (Oct. 2022). 
-
-## Page 139
-
-139 
- 
-Program: B.A.LL.B. Semester: IX 
+ ## Page 139
+ 139 
+  Program: B.A.LL.B. Semester: IX 
 Course Code:21LBLE501 Course Title: ELECTIVE - III: Corporate Restructuring 
 L-T-P-SS: 1-0-1-0 Credits: 2 
 ISA Marks: 100 ESA Marks: 0 Total Marks: 100 
 Teaching Hrs.: 30 
 Content Hrs. 
-Unit – I 
+Unit - I 
 Unit - I: Introduction to Corporate Restructuring 
 ● Meaning, Need, and Scope of Corporate Restructuring 
 ● Historical Background 
@@ -6106,14 +5333,14 @@ Unit - I: Introduction to Corporate Restructuring
 ○ Market and Technological Restructuring 
 ○ Organisational Restructuring 
 ● Commonly Applied Tools: 
-○ Mergers, Acquisitions (M&A), Amalgamation – Introduction & Rationale 
-○ Demerger – Introduction & Rationale 
+○ Mergers, Acquisitions (M&A), Amalgamation - Introduction & Rationale 
+○ Demerger - Introduction & Rationale 
 ○ Slump Sale 
 ○ Business Sale / Divestiture 
 ○ Joint Ventures & Strategic Alliances 
 ○ Reverse Merger 
 6 
-Unit – II 
+Unit - II 
 Unit - II: Mergers, Amalgamations, and Demergers 
 ● Mergers & Amalgamation: 
 ○ Types of Mergers (Horizontal, Vertical, Conglomerate, etc.) 
@@ -6138,17 +5365,13 @@ Regulations, 2011
 ○ Defense Strategies (Overview) 
 ● Buy-Back of Securities: 
 6 
-
-## Page 140
-
-140 
- 
-○ Concept and Advantages 
+ ## Page 140
+ 140 
+  ○ Concept and Advantages 
 ○ Legal Framework: Companies Act, 2013 & SEBI (Buy-Back of Securities) 
 Regulations, 2018 
 ○ Modes & Procedure (Tender Offer, Open Market - Basics) 
- 
-Unit- IV 
+  Unit- IV 
 Unit - IV: Strategy, Process, Due Diligence & Approvals Overview 
 ● M&A Strategy: Primary Factors and Considerations 
 ● Funding Overview: 
@@ -6182,50 +5405,44 @@ Prescribed Book:
 1. Mergers & Acquisitions: An India Legal, Regulatory and Tax Perspective, July 2023, Nishith 
 Desai Associates 
 2. Ramaiya, A. Guide to the Companies Act. LexisNexis. (Latest Edition). 
-3. Taxmann’s Company Law. Taxmann Publications Pvt. Ltd. (Latest Edition). 
+3. Taxmann's Company Law. Taxmann Publications Pvt. Ltd. (Latest Edition). 
 References: 
 1. The Companies Act, 2013 (Relevant Sections) 
 2. SEBI (Substantial Acquisition of Shares and Takeovers) Regulations, 2011 
 3. SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 
 4. SEBI (Buy-Back of Securities) Regulations, 2018 
 5. The Competition Act, 2002 (Relevant Sections) 
-
-## Page 141
-
-141 
- 
-6. Websites: Ministry of Corporate Affairs (MCA), Securities and Exchange Board of India 
+ ## Page 141
+ 141 
+  6. Websites: Ministry of Corporate Affairs (MCA), Securities and Exchange Board of India 
 (SEBI), Competition Commission of India (CCI), National Company Law Tribunal (NCLT), 
 Reserve Bank of India (RBI). 
-
-## Page 142
-
-142 
- 
-Program: B.A.LL.B. Semester: IX 
+ ## Page 142
+ 142 
+  Program: B.A.LL.B. Semester: IX 
 Course Code:21LBLE502 Course Title: ELECTIVE - III: Artificial Intelligence and 
 Law 
 L-T-P-SS: 1-0-1-0 Credits: 2 
 ISA Marks: 100 ESA Marks: 0 Total Marks: 100 
 Teaching Hrs.: 30 
 Content Hrs. 
-Unit – I 
+Unit - I 
 Unit - I: Introduction to Artificial Intelligence and Legal Relevance 
  Meaning and types of Artificial Intelligence - narrow, general, super AI 
  Interface of AI in various sectors - Healthcare, Finance, Criminal Justice, Governance 
  Need for legal regulation of AI 
- Jurisprudence – attribution of personhood to AI 
- AI and the Constitution – right to privacy, right to equality and right to freedom of 
+ Jurisprudence - attribution of personhood to AI 
+ AI and the Constitution - right to privacy, right to equality and right to freedom of 
 speech and expression 
 6 
-Unit – II 
+Unit - II 
 Unit - II: AI and Indian Legal Framework 
  Information Technology Act, 2000 in regulating AI 
- Digital Personal Data Protection Act, 2023 – implications for AI 
- Bharatiya Nyaya Sanhita, 2023 – harms caused by AI 
- Patents Act, 1970 – AI-generated inventions 
- Contract Act, 1872 – AI-generated contractual obligations 
- Competition Act, 2002 – abuse of dominance by AI-powered platforms 
+ Digital Personal Data Protection Act, 2023 - implications for AI 
+ Bharatiya Nyaya Sanhita, 2023 - harms caused by AI 
+ Patents Act, 1970 - AI-generated inventions 
+ Contract Act, 1872 - AI-generated contractual obligations 
+ Competition Act, 2002 - abuse of dominance by AI-powered platforms 
 6 
 Unit- III 
 Unit - III: Sector-Specific Applications of AI and Law 
@@ -6238,8 +5455,7 @@ protection from discrimination
 6 
 Unit- IV 
 Unit - IV: AI, Civil and Criminal Liability 
- 
- Licensing and Regulation of AI: State’s Role and Liability 
+   Licensing and Regulation of AI: State's Role and Liability 
  Autonomous systems and tortious liability 
  AI in policing, predictive justice, facial recognition technologies 
  Evidence and AI - AI-Generated evidence, hearsay and AI Output, expert opinion vs 
@@ -6250,39 +5466,32 @@ Unit- V
 Unit - V: Regulation, Ethics and Comparative Law 
  Ethical principles - transparency, fairness, accountability, explainability 
  Regulatory models - Sandbox approach, sectoral guidelines, AI oversight bodies 
- AI Law in Mexico, EU, UK and USA – lessons for India 
+ AI Law in Mexico, EU, UK and USA - lessons for India 
  Future of AI regulation in India - Opportunities and concerns 
 6 
-
-## Page 143
-
-143 
- 
-Prescribed Books: 
-4. Abhivardhan, AI Ethics and the Law, EBC Publ’g 2021. 
+ ## Page 143
+ 143 
+  Prescribed Books: 
+4. Abhivardhan, AI Ethics and the Law, EBC Publ'g 2021. 
 5. Pavan Duggal, Artificial Intelligence Law, Cyberlaws.net Publication, 2022. 
- 
-References: 
+  References: 
 5. Woodrow Barfield, Artificial Intelligence and the Law (Edward Elgar Publishing, 2020). 
 6. K. Kannan ed., Law and Artificial Intelligence: Transforming Legal Landscape in India 
 (Thomson Reuters 2023). 
 7. Talat Fatima, Cyber Law: Law of Information Technology and Internet (LexisNexis 2022). 
 8. K Swaminathan, Anita Thomas, Generative AI in the Courtroom: A Practical Handbook for 
-Modern Justice: Empowering India’s Lega l Professionals with AI Tools and Techniques, 
+Modern Justice: Empowering India's Lega l Professionals with AI Tools and Techniques, 
 (Notion Press, 2024). 
 9. Byron Reese, The Fourth Age, Atria Publications, 2020. 
-
-## Page 144
-
-144 
- 
-Program: B.A.LL.B. Semester: IX 
+ ## Page 144
+ 144 
+  Program: B.A.LL.B. Semester: IX 
 Course Code: 21LCLE501 Course Title: ELECTIVE-III: Aviation Law 
 L-T-P-SS: 1-0-1-0 Credits: 2 
 ISA Marks: 100 ESA Marks: 0 Total Marks: 100 
 Teaching Hrs.: 30 
 Content Hrs. 
-Unit – I 
+Unit - I 
 Unit I: Introduction to Aviation Law and Regulatory Framework 
  History and development of aviation law 
  Constitutional dimensions of Aviation Law 
@@ -6292,7 +5501,7 @@ Unit I: Introduction to Aviation Law and Regulatory Framework
  Directorate General of Civil Aviation (DGCA) 
  Airports Authority of India (AAI): Powers and functions 
 6 
-Unit – II 
+Unit - II 
 Unit II: International Aviation Law and Conventions 
  Warsaw Convention, 1929: Liability framework for air carriers 
  Montreal Convention, 1999: Modernization of liability rules 
@@ -6328,12 +5537,9 @@ Reduction Scheme for International Aviation (CORSIA) initiative
  Aviation insurance and risk management 
  Future of aviation law: Space tourism and suborbital flights 
 6 
-
-## Page 145
-
-145 
- 
-Prescribed Books: 
+ ## Page 145
+ 145 
+  Prescribed Books: 
 1. A Handbook on International Aviation Law, Prof. (Dr.) Dilip Ukey and Adithya Anil Variath Prof. 
 (Dr.) Sandeepa Bhat B., Thomson Reuters, 2023. 
 2. Aviation Law, Rodney D. Ryder, Bloomsbury, First Ed., 2019. 
@@ -6341,18 +5547,15 @@ References Books:
 1. Foundations of Aviation Law by Michael W. Pearson, Daniel S. Riley, Routledge, 2016. 
 2. Aviation Law: Recent Developments in Aviation Laws, Gazala Noor, Prof. (Dr.) Satinder Kumar, 
 BFC Publications, 2024. 
-
-## Page 146
-
-146 
- 
-Program: B.A.LL.B. Semester: IX 
+ ## Page 146
+ 146 
+  Program: B.A.LL.B. Semester: IX 
 Course Code: 21LCLE502 Course Title: ELECTIVE-III: Maritime Law 
 L-T-P-SS: 1-0-1-0 Credits: 2 
 ISA Marks: 100 ESA Marks: 0 Total Marks: 100 
 Teaching Hrs.: 30 
 Content Hrs. 
-Unit – I 
+Unit - I 
 Unit I: Sources and Basic Concepts, and Regime of Maritime Ports 
  History and development of Maritime law and its relation with the law of the sea 
  Customs and International Conventions: UNCLOS III, International Tribunal for Law 
@@ -6365,43 +5568,40 @@ jurisdiction
  The Indian Ports Act, 1908: Classification and management of major and non-major 
 ports, powers and functions of port authorities 
  Registration of Ships 
- Arrest of sea-going ships – immunity of Government ships, maritime liens, Mareva 
+ Arrest of sea-going ships - immunity of Government ships, maritime liens, Mareva 
 Injunction 
  The Admiralty (Jurisdiction and Settlement of Maritime Claims) Act, 2017: 
 Jurisdiction of High Courts in admiralty matters, arrest and detention of ships for 
 maritime claims 
 6 
-Unit – II 
+Unit - II 
 Unit II: Carriage of Goods by Sea 
  International sales of goods, carriage of goods by sea and contracts of carriage 
  The Hague, Hague-Visby, Hamburg, and Rotterdam Rules 
  The Voyage Charter party, bill of lading, sea waybills, implied contracts on loading, 
-ship owners’ bill, agency, assignment and non-contractual obligations 
+ship owners' bill, agency, assignment and non-contractual obligations 
  The Multimodal Transportation of Goods Act, 1993: Regulation, registration alnd 
 liabilities of multimodal transport operators, rights and responsibilities of consignors 
 and consignees 
  Mandatory application and voluntary incorporation, contracting out and third-party 
 reliance on the rules 
- Carrier’s duties and liabilities 
+ Carrier's duties and liabilities 
  The Carriage of Goods by Sea Act, 1925: Application of the Hague Rules in Indian laws, 
 Rights, duties and immunities of carriers and shippers, bill of lading- legal status and 
 evidentiary value, liabilities for loss, damage or delay in carriage 
 6 
 Unit- III 
 Unit III: Laytime, Demurrage and Collision 
- Stevedoring, termination point of the approach and carrying voyages, “Wibon” and 
-“Time Lost” 
+ Stevedoring, termination point of the approach and carrying voyages, "Wibon" and 
+"Time Lost" 
  Laytime exceptions and demurrage, suspending laytime 
  COLLISION: Vicarious liability and standard of care, causation and apportionment of 
 liability 
  Damages, statutory liability and jurisdiction 
 6 
-
-## Page 147
-
-147 
- 
-Unit- IV 
+ ## Page 147
+ 147 
+  Unit- IV 
 Unit IV: Salvage and General Average 
  Maritime property, geographical limits of salvage and eligibility of a salvor, 
 relationship between salvor and salvee, salvage awards, remedies including security 
@@ -6424,20 +5624,15 @@ Prescribed Books:
 2. Samareshwar Mahanty, Maritime Jurisdiction and Admiralty Law in India, Universal Law 
 Publishing, 2nd Ed., 2017. 
 3. Avtar Singh, Law of Carriage: Air, Land & Sea, Eastern Book Company, 5th Ed., 2015. 
- 
-Reference Books: 
+  Reference Books: 
 1. Pallab Das, Through the Lens of Maritime Law: A World View, Eastern Book Company, 1st Ed., 
 2020. 
 2. Paul Todd, Advanced Introduction to Maritime Law, Edward Elgar Publishing Ltd., 2021. 
 3. M.E. Aliyar, Maritime Law, Central Law Publication, 1st Ed., 2025. 
-
-## Page 148
-
-148 
- 
-Semester X 
- 
-Program: B.A.LL.B. Semester: X 
+ ## Page 148
+ 148 
+  Semester X 
+  Program: B.A.LL.B. Semester: X 
 Course Code: 21LALC503 Course Title: Environmental Law 
 L-T-P-SS: 3-1-0-0 Credits: 4 
 ISA Marks: 100 ESA Marks: 0 Total Marks: 100 
@@ -6445,11 +5640,11 @@ Teaching Hrs.: 65 Exam Duration: 3 hours
 Content Hrs. 
 Unit- I 
 Unit - I: Introduction 
- Environment – Meaning, definition and components 
- Pollution – Meaning, sources, types, causes and effects 
- Environmental Jurisprudence – Ancient, Medieval and Modern 
+ Environment - Meaning, definition and components 
+ Pollution - Meaning, sources, types, causes and effects 
+ Environmental Jurisprudence - Ancient, Medieval and Modern 
  Constitutional provisions and the National Environmental Policy, 2006 
- General principles of environmental law – Precautionary Principle; Polluter Pays 
+ General principles of environmental law - Precautionary Principle; Polluter Pays 
 Principle; Sustainable Development; Public Trust Doctrine; Principle of Intergenerational 
 Equity 
 13 
@@ -6459,45 +5654,41 @@ Unit - II: International Environmental Law
  Environment protection and sustainability - Stockholm Conference, Brundtland 
 Commission Report, Earth Summit, Rio-Declaration, Agenda 21, Johannesburg conference 
 and Paris Climate Accord 
- Bio-safety and protection of Biodiversity – Convention on Biological Diversity, Nagoya and 
+ Bio-safety and protection of Biodiversity - Convention on Biological Diversity, Nagoya and 
 Cartagena Protocols 
  Principles and development of international environmental law and determination of 
-State responsibility – Decided case laws 
+State responsibility - Decided case laws 
 13 
 Unit- III 
 Unit - III: Protection of Air, Water and Environment 
- Prevention and control of pollution (water, air and noise) –functions, powers and 
+ Prevention and control of pollution (water, air and noise) -functions, powers and 
 composition of pollution control boards and offences 
- Environment Protection – Powers of Government, Environmental Impact Assessment, and 
+ Environment Protection - Powers of Government, Environmental Impact Assessment, and 
 offences and penalties 
- National Green Tribunal – Role, composition, powers, functions and procedures 
+ National Green Tribunal - Role, composition, powers, functions and procedures 
  Environmental Audit - Coastal Regulation Zone and Special Economic Zone 
  Waste management and disposal - Bio-Medical, Solid and E-waste 
  Public liability insurance 
- Preservation of urban environment – parks, play-fields and open spaces 
+ Preservation of urban environment - parks, play-fields and open spaces 
 13 
 Unit- IV 
 Unit - IV: Forest and Wildlife protection 
  Forests - Forest conservation, forest rights, National Forest Policy 
  Biodiversity 
- Wildlife – Wildlife protection 
+ Wildlife - Wildlife protection 
  Domesticated Animals - prevention of cruelty towards animals 
 13 
 Unit- V 
 Unit - V: Contemporary Challenges 
-• Climate change – climate displacement 
+• Climate change - climate displacement 
 13 
-
-## Page 149
-
-149 
- 
-• Affordable and clean energy 
+ ## Page 149
+ 149 
+  • Affordable and clean energy 
 • Developmental projects, internal displacement and town planning 
 • Water scarcity and ground water management 
 • Sustainable agriculture and food security 
- 
-Prescribed Books: 
+  Prescribed Books: 
 1. S. Divan and A. Rosencranz, Environmental Law and Policy in India, New Delhi: Oxford 
 University Press, (3rd Edition, 2022). 
 2. S.C. Shastri, Environmental Law, Eastern Book Company, (6th Edition, 2018). 
@@ -6512,12 +5703,9 @@ Press (2010).
 4. M. Gadgil and R. Guha, Ecology and Equity, New Delhi: Oxford University Press, (1995). 
 5. S. Ghosh, Indian Environmental Law: Key Concepts and Principles, Bangalore: Oriental Black 
 Swan, (2019). 
-
-## Page 150
-
-150 
- 
-Program: B.A.LL.B. Semester: X 
+ ## Page 150
+ 150 
+  Program: B.A.LL.B. Semester: X 
 Course Code: 21LALT503 Course Title: OPTIONAL - V: Intellectual Property Law - II 
 L-T-P-SS: 3-1-0-0 Credits: 4 
 ISA Marks: 100 ESA Marks: 0 Total Marks: 100 
@@ -6525,14 +5713,14 @@ Teaching Hrs.: 65 Exam Duration: 3 hours
 Content Hrs. 
 Unit - I 
 Unit - I: Introduction to patents 
-• Patent – Origin, nature, scope and objectives 
-• The Patent Act, 1970 – Definitions, patentable and non-patentable inventions 
-• Procedure – Application, specifications, oppositions, grant and refusal 
+• Patent - Origin, nature, scope and objectives 
+• The Patent Act, 1970 - Definitions, patentable and non-patentable inventions 
+• Procedure - Application, specifications, oppositions, grant and refusal 
 Patentee - Rights and obligations 
 13 
 Unit- II 
-Unit - II: Patents – Transfer, infringement and remedies 
-• Transfer – Assignment, licensing, compulsory licensing and Government use 
+Unit - II: Patents - Transfer, infringement and remedies 
+• Transfer - Assignment, licensing, compulsory licensing and Government use 
 • Infringement, forums, remedies and defences 
 • Patent Amendment Act, 2005 
 • International Instruments - Paris Convention, TRIPS Agreement, Patent Cooperation 
@@ -6541,7 +5729,7 @@ Treaty
 Unit- III 
 Unit - III: Protection of Plant Varieties and Farmers Rights 
 • Protection of plant varieties - Evolution, nature, scope and objectives 
-• Plant varieties – Definition and kinds 
+• Plant varieties - Definition and kinds 
 • Rights of breeders, researchers and farmers 
 • Protection of plant varieties and farmers rights authority 
 • Procedure for registration and registry 
@@ -6550,7 +5738,7 @@ Unit - III: Protection of Plant Varieties and Farmers Rights
 • National Gene Fund 
 • International Instruments - Union for the Protection of New Varieties of Plant (UPOV), 
 TRIPS Agreement, Doha declaration; International Treaty on Plant Genetic Resources 
-(“ITPGR”). 
+("ITPGR"). 
 13 
 Unit IV 
 Unit - IV: Protection of Biodiversity 
@@ -6561,19 +5749,16 @@ Unit - IV: Protection of Biodiversity
 • Interface between patent and biodiversity 
 • Regulation of access to biodiversity - Disclosure of origin, prior consent, access and benefit 
 sharing - Case studies 
-• Authorities – National Biodiversity Authority, State Biodiversity Boards, Biodiversity 
+• Authorities - National Biodiversity Authority, State Biodiversity Boards, Biodiversity 
 Management Committees 
 • Peoples Biodiversity Register 
-• International Instruments – Nagoya protocol and Convention on Biodiversity 
+• International Instruments - Nagoya protocol and Convention on Biodiversity 
 13 
- 
-## Page 151
-
-151 
- 
-Unit V 
+  ## Page 151
+ 151 
+  Unit V 
 Unit - V: Contemporary Issues 
-• Abuse of IP Rights – Interplay between IP Laws and Competition Law 
+• Abuse of IP Rights - Interplay between IP Laws and Competition Law 
 • Protection of Digital Intellectual Property 
 • Patentability of Digital Business Model 
 • GMOs, Transgenic Plants Intertwined with Intellectual Property Rights 
@@ -6584,8 +5769,7 @@ Prescribed Books:
 1. P. Narayanan, Intellectual Property Law in India, Hyderabad: Gogia Law Agency, (3rd Edition, 
 2020). 
 2. V.K. Ahuja, Law Relating to Intellectual Property, New Delhi: LexisNexis, (3rd Edition, 2017). 
- 
-References: 
+  References: 
 1. Elizabeth Verkey, Law of Plant Varieties Protection, New Delhi: Eastern Book Co., (1st Edition, 
 2007). 
 London: Sweet & Maxwell, (2nd Edition, 1998). 
@@ -6596,15 +5780,12 @@ Tata Mc Graw Hill Publishing Co., (2001).
 Ltd, (2005). 
 6. Pavan Duggal, Cyber Law: the Indian Perspective, New Delhi: Saakshar Law Publications, 
 (2002). 
-7. D.P. Mittal, Taxmann’s Law of Information Technology (Cyber Law), Lucknow: Taxmann 
+7. D.P. Mittal, Taxmann's Law of Information Technology (Cyber Law), Lucknow: Taxmann 
 Allied Services, (2000). 
-
-## Page 152
-
-152 
- 
-Program: B.A.LL.B. Semester: X 
-Course Code: 21LALT504 Course Title: OPTIONAL – V: Criminology, Penology and 
+ ## Page 152
+ 152 
+  Program: B.A.LL.B. Semester: X 
+Course Code: 21LALT504 Course Title: OPTIONAL - V: Criminology, Penology and 
 Victimology 
 L-T-P-SS: 3-1-0-0 Credits: 4 
 ISA Marks: 50 ESA Marks: 100 Total Marks: 100 
@@ -6612,12 +5793,12 @@ Teaching Hrs.: 65 Exam Duration: 3 hours
 Content Hrs. 
 Unit- I 
 Unit - I: Introduction 
- Crime – Concept, nature and stages 
+ Crime - Concept, nature and stages 
  Theories of crime 
  Crime, morality and societal personification 
  Causation of crime 
  Classification- Indictable and petty offences, felonies and misdemeanours 
- Possible parties to crime – Principles of first and second degree, accessories before and 
+ Possible parties to crime - Principles of first and second degree, accessories before and 
 after the fact, accomplice 
 13 
 Unit- II 
@@ -6632,16 +5813,16 @@ Unit - II: Criminology
 13 
 Unit- III 
 Unit - III: Principles of criminal liability 
- Common law – mens rea and actus reus 
+ Common law - mens rea and actus reus 
  Mens rea in statutory offences 
- Types of criminal liability – Strict, vicarious and constructive 
+ Types of criminal liability - Strict, vicarious and constructive 
  Corporate criminal liability and punishments 
- Variations in liability – Mistake, intoxication, compulsion and legally abnormal persons 
+ Variations in liability - Mistake, intoxication, compulsion and legally abnormal persons 
 13 
 Unit- IV 
 Unit - IV: Penology 
  Penology- Meaning, definition and concept 
- Theories of punishment – Deterrent, preventive, reformative (utilitarian model) 
+ Theories of punishment - Deterrent, preventive, reformative (utilitarian model) 
 retributive 
  Punishment- Nature and types 
  Sentencing policy 
@@ -6653,34 +5834,27 @@ Unit- V
 Unit - V: Victimology 
  Victimology: Definition and nature 
 13 
-
-## Page 153
-
-153 
- 
- Theories of victimology - Victim precipitation theory, lifestyle theory, deviant place theory 
+ ## Page 153
+ 153 
+   Theories of victimology - Victim precipitation theory, lifestyle theory, deviant place theory 
 and routine activities theory. 
- Victims of crime – Persons needing special attention 
+ Victims of crime - Persons needing special attention 
  Restorative and compensatory relief 
  Victim witness assistance programm 
  Role of Courts, Human Rights Commissions, NGOs and media 
- 
-Prescribed Books: 
-1. Kenny’s Outlines of Criminal Law, J.W Cecil Turner (ed), Cambridge: Cambridge Publication 
+  Prescribed Books: 
+1. Kenny's Outlines of Criminal Law, J.W Cecil Turner (ed), Cambridge: Cambridge Publication 
 (19th Edition, 2013). 
-2. Ahmad Siddique’s Criminology Penology and Victimology, S.M. Afzal Qadri (ed.), Lucknow: 
+2. Ahmad Siddique's Criminology Penology and Victimology, S.M. Afzal Qadri (ed.), Lucknow: 
 Eastern Book Company, (7th Edition, 2021). 
 References: 
 1. Sutherland H. Edwin, Principles of Criminology, Rowan & Little Field, (11th Edition, 1992). 
 2. Smith and Hogan, Criminal Law cases and materials, Butterworths Publication, (1975). 
-3. O.P. Srivastava’s Principle of Criminal Law, Ram Narish Choudhry (ed.) Eastern Book 
+3. O.P. Srivastava's Principle of Criminal Law, Ram Narish Choudhry (ed.) Eastern Book 
 Company, (6th Edition, 2003). 
-
-## Page 154
-
-154 
- 
-Program: B.A.LL.B. Semester: X 
+ ## Page 154
+ 154 
+  Program: B.A.LL.B. Semester: X 
 Course Code: 21LALT505 Course Title: OPTIONAL - VI: International Trade Law 
 L-T-P-SS: 3-1-0-0 Credits: 4 
 ISA Marks: 50 ESA Marks: 100 Total Marks: 100 
@@ -6701,8 +5875,8 @@ Agreements and Regional Trade Agreements
  National treatment principle and its exceptions 
  MFN Principle (GATS Article II & Annex) ; Domestic regulations (GATS Article VI) 
  General and Security exceptions in Articles XX and XXI of the General Agreement on Tariffs 
-and Trade 1994 (‘GATT 1994’) and Articles XIV and XIV bis of the General Agreement on 
-Trade in Services (‘GATS’) 
+and Trade 1994 ('GATT 1994') and Articles XIV and XIV bis of the General Agreement on 
+Trade in Services ('GATS') 
 13 
 Unit- III 
 Unit - III: Dispute Settlement Process 
@@ -6715,7 +5889,7 @@ Unit - IV: Barriers to Trade and Protective Measures
  Tariff Barriers to Trade; Tariff bindings under Article II of GATT 1994; Tariff v. 
 Quantitative Restrictions; General Elimination under Article XI of GATT 1994; Exceptions 
 to the Rule in Article XI 
- Non-Tariff Barriers to Trade; The Agreement on Technical Barriers to Trade  (TBT); The 
+ Non-Tariff Barriers to Trade; The Agreement on Technical Barriers to Trade (TBT); The 
 Agreement on Sanitary and Phytosanitary (SPS) Measures 
  Rules on Unfair Trade; Antidumping Measures under Article VI of GATT 1994 and the 
 Antidumping Agreement; Subsidies and Countervailing Duties under Article VI and XVI of 
@@ -6726,7 +5900,7 @@ Unit- V
 Unit - V: An Overview of International Commercial Law 
  International Sale of Goods; the United Nations Convention on Contracts for the 
 International Sale of Goods (1980) (CISG). 
- INCOTERMS – Cost Insurance Freight (CIF) and Fee on Board (FOB); Formation and 
+ INCOTERMS - Cost Insurance Freight (CIF) and Fee on Board (FOB); Formation and 
 Performance of International Contracts; Frustration of Contracts 
  International Commercial Arbitration; UNCITRAL Model Law on International 
 Commercial Arbitration (1985); Anatomy of Arbitration Agreements; Subject Matter of 
@@ -6734,27 +5908,20 @@ ICA; Choice of Forum and Law Rules; United Nations Convention on the Recognition
 Enforcement of Foreign Arbitral Awards (1958). 
 13 
 Prescribed Books: 
-1. Kenny’s Outlines of Criminal Law, J.W Cecil Turner (ed), Cambridge: Cambridge Publication 
+1. Kenny's Outlines of Criminal Law, J.W Cecil Turner (ed), Cambridge: Cambridge Publication 
 (19th Edition, 2013). 
-
-## Page 155
-
-155 
- 
-2. Ahmad Siddique’s Criminology Penology and Victimology, S.M. Afzal Qadri (ed.), Lucknow: 
+ ## Page 155
+ 155 
+  2. Ahmad Siddique's Criminology Penology and Victimology, S.M. Afzal Qadri (ed.), Lucknow: 
 Eastern Book Company, (7th Edition, 2021). 
- 
-References: 
+  References: 
 1. Sutherland H. Edwin, Principles of Criminology, Rowan & Little Field, (11th Edition, 1992). 
 2. Smith and Hogan, Criminal Law cases and materials, Butterworths Publication, (1975). 
-3. O.P. Srivastava’s Principle of Criminal Law, Ram Narish Choudhry (ed.) Eastern Book 
+3. O.P. Srivastava's Principle of Criminal Law, Ram Narish Choudhry (ed.) Eastern Book 
 Company, (6th Edition, 2003). 
-
-## Page 156
-
-156 
- 
-Program: B.A.LL.B. Semester: X 
+ ## Page 156
+ 156 
+  Program: B.A.LL.B. Semester: X 
 Course Code: 21LALT506 Course Title: OPTIONAL - VI: Land Laws 
 L-T-P-SS: 3-1-0-0 Credits: 4 
 ISA Marks: 50 ESA Marks: 100 Total Marks: 100 
@@ -6762,7 +5929,7 @@ Teaching Hrs.: 65 Exam Duration: 3 hours
 Content Hrs. 
 Unit- I 
 Unit - I: Introduction 
- Historical evolution – pre and post Constitution 
+ Historical evolution - pre and post Constitution 
  Agrarian reforms, food security and land reforms 
  Constitutional provisions relating to protection of land laws and right to property 
  Eminent domain and public purpose 
@@ -6790,7 +5957,7 @@ Unit- IV
 Unit - IV: Tenancy, Ownership and Ceiling on Land Holdings 
  The Karnataka Scheduled Castes and Scheduled Tribes (Prohibition of Transfer of Certain 
 Lands) Act, 1978 and Rules 1979 
- The Karnataka Land Reforms Act, 1961 – authorities, powers and procedures 
+ The Karnataka Land Reforms Act, 1961 - authorities, powers and procedures 
  General provisions regarding tenancies 
  Conferment of ownership on tenants 
  Ceiling on land holdings and restrictions on holding or transfer of agricultural lands, 
@@ -6808,28 +5975,21 @@ o Offences, penalties and adjudication.
 o Real estate appellate tribunal 
  The Karnataka Real Estate (Regulation and Development) Rules, 2017 
 13 
-
-## Page 157
-
-157 
- 
- The Karnataka Apartment Ownership Act, 1972  
+ ## Page 157
+ 157 
+   The Karnataka Apartment Ownership Act, 1972 
 Prescribed Books: 
-1. S.G. Biradar, Land Acquisition- A Paradigm Shift, Bangalore: KAS Officers’ Research and 
+1. S.G. Biradar, Land Acquisition- A Paradigm Shift, Bangalore: KAS Officers' Research and 
 Training Institute. 
 2. P. K. Sarkar, Law of Acquisition of land in India, Kolkata: Eastern Law House, (3rd Edition). 
 3. Relevant Central and State Statutes and Rules. 
- 
-References: 
+  References: 
 1. Sachin Mittal, A-2-Z of Real Estate in India, Punjab: White Falcon Publishing. 
 2. Dr. Harshul Savla, An RPWA Initiative Era post RERA, Chennai: Notion Press. 
-
-## Page 158
-
-158 
- 
-Program: B.A.LL.B. Semester: X 
-Course Code: 21LALP502 Course Title: CLINICAL COURSE – IV: Moot Court and Trial 
+ ## Page 158
+ 158 
+  Program: B.A.LL.B. Semester: X 
+Course Code: 21LALP502 Course Title: CLINICAL COURSE - IV: Moot Court and Trial 
 Preparation 
 L-T-P-SS: 0-0-4-0 Credits: 4 
 ISA Marks: 50 ESA Marks: 100 Total Marks: 100 
@@ -6855,7 +6015,7 @@ attendance on different days in the court, the report shall be assessed for 30 m
 13 
 Unit- III 
 Unit - III: Client Interviewing and Counselling 
- Each student will observe one interviewing session of a client at the Lawyer’s Office and 
+ Each student will observe one interviewing session of a client at the Lawyer's Office and 
 record the proceedings in a diary, which will carry 5 marks 
  Each student will take part in a simulation exercise of client consultation done at the college 
 which will carry 10 marks 
@@ -6872,12 +6032,9 @@ Unit - V: Viva Voce
 observation of trial court proceedings, client interview observation and pre-trial preparation. 
 This will carry 10 marks. 
 13 
-
-## Page 159
-
-159 
- 
-Program: B.A.LL.B. Semester: X 
+ ## Page 159
+ 159 
+  Program: B.A.LL.B. Semester: X 
 Course Code: 21LALE502 Course Title: Infrastructure Law 
 L-T-P-SS: 1-0-1-0 Credits: 2 
 ISA Marks: 50 ESA Marks: 0 Total Marks: 100 
@@ -6904,7 +6061,7 @@ disputes in PPP.
  Case studies of successful and failed PPPs 
 6 
 Unit- III 
-Unit – III: Land Acquisition, Environmental and other compliance 
+Unit - III: Land Acquisition, Environmental and other compliance 
  Land Acquisition for an infrastructure project 
  Diversion of forest land for infrastructure projects 
  Role of regulatory authorities: MoEFCC, State Pollution Control Board, environmental 
@@ -6915,35 +6072,30 @@ declared by the Government and its Implementation
  Judicial trends and public interest litigation in infrastructure projects 
 6 
 Unit- IV 
-Unit – IV: Power and Telecommunications Infrastructure Reforms and Policies 
+Unit - IV: Power and Telecommunications Infrastructure Reforms and Policies 
  Power sector: evolution of the power sector reforms, polices, the Electricity Act, 2003, 
-National Electricity policy - legal framework – the state electricity boards - licensing 
-framework - Provisions Relating to and working of Electricity Regulatory Commissions – 
+National Electricity policy - legal framework - the state electricity boards - licensing 
+framework - Provisions Relating to and working of Electricity Regulatory Commissions - 
 their structure, role and functions. 
  Telecommunications: Na tional telecom policies, the legal framework, Composition and 
 functions of TRAI & TDSAT. 
 6 
 Unit- V 
-Unit – V: Petroleum and Transport Infrastructure Reforms and Policies 
+Unit - V: Petroleum and Transport Infrastructure Reforms and Policies 
  Oil and petroleum: Exploration policies and environmental regulations 
  Transport Sector: Transportation by Rail, Road - National Highways and State Highways, 
-Financing and regulatory framework for highway projects and Air – Airports Authority of 
-India, Airport privatisation, and Water – Coastal shipping and Inland Water Transport 
+Financing and regulatory framework for highway projects and Air - Airports Authority of 
+India, Airport privatisation, and Water - Coastal shipping and Inland Water Transport 
 6 
-
-## Page 160
-
-160 
- 
-Policy, Indian Ports Act, 1908, Major Port Authorities Act, 2021. 
- Industrial infrastructure: Special Economic Zones – Significance and related Legislation. 
- 
-Prescribed Book(s): 
+ ## Page 160
+ 160 
+  Policy, Indian Ports Act, 1908, Major Port Authorities Act, 2021. 
+ Industrial infrastructure: Special Economic Zones - Significance and related Legislation. 
+  Prescribed Book(s): 
 1. Joshi, Piyush, Law Relating to Infrastructure Projects. 2nd Edn. New Delhi: Butterworths, 2003. 
 2. Sairam Bhat, Public Private Partnership in India, A Sectoral Analysis, NLSIU Book Series, 2019. 
 3. Vismay P. Shroff, Infrastructure Law and Practice, Notion Press, 2022 
- 
-References: 
+  References: 
 1. R. N. Joshi, Public Private Partnership in Infrastructure Perspectives, Principles, Practices. 
 2. Ramaswamy R Iyer, 2009, Water and the Laws in India, Sage 
 3. Philippe Cullet and Sujith Koonan, 2012, Water Law in India: An Introduction to Legal 
@@ -6958,14 +6110,11 @@ Press.
 Publication Year: 2009. 
 9. N.Brega, Marcos, Trenn, Infrastructure in Emerging Markets, LAP Lambert Academic 
 Publishing. 
-10. Beverley’s Commentary on the Right to Fair Compensation and Transparency in Land 
+10. Beverley's Commentary on the Right to Fair Compensation and Transparency in Land 
 Acquisition, Rehabilitation and Resettlement Act, 2013, 11th Edition, Delhi Law House. 
-
-## Page 161
-
-161 
- 
-Program: B.A.LL.B. Semester: X 
+ ## Page 161
+ 161 
+  Program: B.A.LL.B. Semester: X 
 Course Code: 21LALE503 Course Title: Healthcare Law 
 L-T-P-SS: 1-0-1-0 Credits: 2 
 ISA Marks: 50 ESA Marks: 0 Total Marks: 100 
@@ -6980,7 +6129,7 @@ India
 6 
 Unit- II 
 Unit - II: Patient Rights and Access to Healthcare 
- The Charter of Patients’ Rights 
+ The Charter of Patients' Rights 
  The Mental Healthcare Act, 2017: Rights-based approach to mental health 
  Informed consent, Privacy and Confidentiality 
  Access to affordable healthcare and anti-discrimination 
@@ -7019,23 +6168,17 @@ Prescribed Books:
 2016. 
 2. Dr Nandita Adhikari, Law and Medicine, Central Law Publications, 4th Ed., 2015. 
 3. Jonathan Herrring, Medical Law and Ethics, OUP, 2014. 
-
-## Page 162
-
-162 
- 
-4. Alexander Thomas and Arpitha H.C. Nandimath Omprakash V., Thomson Reuters, 2022. 
+ ## Page 162
+ 162 
+  4. Alexander Thomas and Arpitha H.C. Nandimath Omprakash V., Thomson Reuters, 2022. 
 References: 
 1. Shaun D. Pattinson, Medical Law and Ethics, Sweet and Maxwell, 2009. 
 2. Y.V Rao, Law Relating to Medical Negligence, Asia Law House, 2019. 
 3. Dr Lily Srivastava, Law and Medicine, Universal Law Publishing Co., 2010. 
 4. K. Kannan, Medicine and Law, Oxford University Press, 2014. 
-
-## Page 163
-
-163 
- 
-Program: B.A.LL.B. Semester: X 
+ ## Page 163
+ 163 
+  Program: B.A.LL.B. Semester: X 
 Course Code: 21LBLE502 Course Title: Corporate Due Diligence 
 L-T-P-SS: 1-0-1-0 Credits: 2 
 ISA Marks: 50 ESA Marks: 0 Total Marks: 100 
@@ -7087,12 +6230,9 @@ agreements)
 6 
 Unit- V 
 Unit V: Environmental Due Diligence 6 
-
-## Page 164
-
-164 
- 
- Key Importance, objectives and scope 
+ ## Page 164
+ 164 
+   Key Importance, objectives and scope 
  Checklist for environmental due diligence 
  Identifying potential liabilities 
  Verifying compliances 
@@ -7100,22 +6240,17 @@ Unit V: Environmental Due Diligence 6
  Environmental Site Assessment 
  Regulatory Compliance Review 
  Contamination and hazardous material assessment 
- 
-Prescribed Books: 
+  Prescribed Books: 
 1. Hemant K Batra, Due Diligence, Eastern Book Company, 2019. 
 2. B.D. Chatterjee, Practical Guide to Financial Due Diligence, Bloomsbury India, 2nd Ed., 2021. 
- 
-Reference Books: 
+  Reference Books: 
 1. Linda S. Spedding, Due Diligence and Corporate Governance, Elsevier Science & Technology, 
 2016. 
 2. Peter Howson, Commercial Due Diligence: The Key to Understanding Value in an Acquisition, 
 Grower Publishing, 2015. 
-
-## Page 165
-
-165 
- 
-Program: B.A.LL.B. Semester: X 
+ ## Page 165
+ 165 
+  Program: B.A.LL.B. Semester: X 
 Course Code: 21LBLE503 Course Title: Contract Drafting and Interpretation 
 L-T-P-SS: 1-0-1-0 Credits: 2 
 ISA Marks: 50 ESA Marks: 0 Total Marks: 100 
@@ -7168,19 +6303,15 @@ General Contracts
 Special Contracts 
  Joint venture agreements 
 6 
-
-## Page 166
-
-166 
- 
- Shareholders’ rights agreement
- Shareholder’s subscription agreement
+ ## Page 166
+ 166 
+   Shareholders' rights agreement
+ Shareholder's subscription agreement
  Technology transfer and licensing agreements
  E-Contracts and clickwrap/browsewrap Agreements
  Carrying and forwarding agent agreement
  Open source licenses
- 
-Unit- V 
+  Unit- V 
 Unit V: Interpretation of Contract 
  Unique interpretation of the terms of the contract 
  Subjective and objective purposes of a contract 
@@ -7192,22 +6323,18 @@ Unit V: Interpretation of Contract
 Prescribed Books: 
 1. Reed Dickerson, The Fundamentals of Legal Drafting, Little Brown and Company, 2nd Ed., 
 1986. 
-2. Sir Kim Lewison, The Interpretation of Contracts, Sweet & Maxwell’s, 7th Ed., 2022. 
+2. Sir Kim Lewison, The Interpretation of Contracts, Sweet & Maxwell's, 7th Ed., 2022. 
 3. Ajar Rab, Drafting Contracts: Advanced Principles, Eastern Book Company, 1st Ed., 2024. 
- 
-Reference Books: 
+  Reference Books: 
 1. Paul A. Swegle, Contract Drafting and Negotiation for Entrepreneurs and Business 
 Professionals, Business Law Seminar Group, 1st Ed., 2018. 
 2. Aharon Barak, Purposive Interpretation in Law, Princeton University Press, 1st Ed., 2023. 
 3. Kush Kalra, Corporate Drafting & Commercial Agreements, Whitesmann Publishing Co, 1st 
 Ed., 2025. 
 2016. 
-
-## Page 167
-
-167 
- 
-Program: B.A.LL.B. Semester: X 
+ ## Page 167
+ 167 
+  Program: B.A.LL.B. Semester: X 
 Course Code: 21LCLE502 Course Title: Space Law 
 L-T-P-SS: 1-0-1-0 Credits: 2 
 ISA Marks: 50 ESA Marks: 0 Total Marks: 100 
@@ -7225,7 +6352,7 @@ Unit I: Introduction To Space Law
 Unit- II 
 Unit II: International Treaties And Agreements 
  Outer Space Treaty, 1967: Exploration and use of outer space for peaceful purposes and 
-States’ responsibilities for outer space activities. 
+States' responsibilities for outer space activities. 
  Rescue Agreement, 1968: Rescue of astronauts, the return of astronauts and the return of 
 objects launched into outer space 
  Liability Convention, 1972: International liability for damage caused by space objects 
@@ -7260,24 +6387,17 @@ Unit V: NATIONAL SPACE LAWS AND EMERGING ISSUES
 Prescribed Books: 
 1. Space Law: A Treatise, Francis Lyall, Paul B. Larsen, Routledge, 2nd Ed., 2020. 
 2. Space Law, B. Sandeepa Bhat, Eastern Book House, Eastern Law House, 2nd Ed. 2018. 
-
-## Page 168
-
-168 
- 
-Reference Books: 
+ ## Page 168
+ 168 
+  Reference Books: 
 1. Recent Trends in International Space Law and Policy, V.S. Mani, S. Bhatt, V. Balakista Reddy, 
 Asia Law House, 2nd Ed., 2016. 
 2. Space Law: In the Era of Commercialisation, Sandeepa B. Bhat, Eastern Book Company, 1st Ed., 
 2014. 
-
-## Page 169
-
-FMCD2009 / 2.0 169 
- 
-←BACK TO SEMESTER VIII 
- 
-Program: B.A.LL.B. Semester: X 
+ ## Page 169
+ FMCD2009 / 2.0 169 
+  ←BACK TO SEMESTER VIII 
+  Program: B.A.LL.B. Semester: X 
 Course Code: 21LCLE503 Course Title: Data Protection Law 
 L-T-P-SS: 1-0-1-0 Credits: 2 
 ISA Marks: 50 ESA Marks: 0 Total Marks: 100 
@@ -7312,7 +6432,7 @@ Unit III: Data Protection Principles
  Data sovereignty 
 6 
 Unit- IV 
-Unit IV: The Digital Personal Data Protection Act, 2023  6 
+Unit IV: The Digital Personal Data Protection Act, 2023 6 
   
  
  
@@ -7338,15 +6458,11 @@ Prescribed Books:
 1. Puneet Bhasin, Practical Guide to Digital Personal Data Protection Act, 2023 Law and 
 Compliance, OakBridge Publishing Pvt. Ltd.; First Edition, 2024. 
 2. Pavan Duggal, Data Protection Law in India, Universal Law Publishing Co., 2016. 
-
-## Page 170
-
-3. Naavi, Personal Data Protection Standard of India (PDPSI): A C o m p l←e tBe ACCeKr tTi fOi aSbElMe  FESraTmEReVwIIoIrk 
+ ## Page 170
+ 3. Naavi, Personal Data Protection Standard of India (PDPSI): A C o m p l←e tBe ACCeKr tTi fOi aSbElMe FESraTmEReVwIIoIrk 
 FMCD2009 / 2.0 170 
- 
-for Data Privacy Implementation, Notion Press, 2021. 
- 
-Reference Books: 
+  for Data Privacy Implementation, Notion Press, 2021. 
+  Reference Books: 
 1. Rahul Matthan, Privacy 3.0: Unlocking Our Data-Driven Future, HarperCollins; 1st edition, 
 2018. 
 2. Rahul Matthan, The Third Way: India's Revolutionary Approach to Data, Juggernaut 2023. 

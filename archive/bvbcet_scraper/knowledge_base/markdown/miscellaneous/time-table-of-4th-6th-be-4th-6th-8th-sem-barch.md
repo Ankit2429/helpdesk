@@ -1,13 +1,10 @@
 # PDF Document: time-table-of-4th-6th-be-4th-6th-8th-sem-barch
-
-**PDF Source:** https://www.kletech.ac.in/hubballi/pdf/time-table-of-4th-6th-be-4th-6th-8th-sem-barch.pdf
-
-## Page 1
-
-IV SEMESTER IV SEMESTER VI SEMESTER VI SEMESTER 
+ **PDF Source:** https://www.kletech.ac.in/hubballi/pdf/time-table-of-4th-6th-be-4th-6th-8th-sem-barch.pdf
+ ## Page 1
+ IV SEMESTER IV SEMESTER VI SEMESTER VI SEMESTER 
 PART - I PART - II PART - I PART - II 
 Course (Course Code) Course (Course Code) Course (Course Code) Course (Course Code) 
- (9.00 AM to 11.00 AM)  (2.00 PM to 4.00 PM)  (9.00 A M to 11.00 AM)  (2.00 PM to 4.00 PM) 
+ (9.00 AM to 11.00 AM) (2.00 PM to 4.00 PM) (9.00 A M to 11.00 AM) (2.00 PM to 4.00 PM) 
 Numerical Methods and 
 Partial Differential Equations 
 (15EMAB206) 
@@ -30,9 +27,9 @@ Logical Reasoning
 Control Systems Control Systems 
 19EARC207 19EARC207 
 Computer Vision & Digital 
-Image  Processing 
+Image Processing 
 Computer Vision & Digital 
-Image  Processing 
+Image Processing 
 15EARE302 15EARE302 
 Microcontrollers 
 Programming & Interfacing 
@@ -55,12 +52,12 @@ Robot Analysis & Design Robot Analysis & Design
 18EARC210 18EARC210 
 Prepared By: Checked By: 
 M.S. Kalasad Naveen M.R. Controller of Examinations 
-Note:      1) Students need to Login MS Teams for Morning Session at 9.00 A.M.  & for After Noon Session is 2.00 P.M. 
+Note: 1) Students need to Login MS Teams for Morning Session at 9.00 A.M. & for After Noon Session is 2.00 P.M. 
                2) Exam writing duration for Morning Session is 9.30 A.M. to 11.00 A.M. & for After Noon Session at 2.30 P.M. to 4.00 P.M. 
-                3) An additional time of 30 minutes i.e. for  Morning Session is 11.00 A.M. to 11.30 A.M.  & for After Noon Session at 4.00 P.M. to 4.30 P.M. 
+                3) An additional time of 30 minutes i.e. for Morning Session is 11.00 A.M. to 11.30 A.M. & for After Noon Session at 4.00 P.M. to 4.30 P.M. 
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India) 
 DEPARTMENT OF AUTOMATION AND ROBOTICS 
-Date                      
+Date 
  (Day) 
 02/07/2021 
 (Friday) 
@@ -97,13 +94,11 @@ TIME TABLE FOR IV & VI SEMESTER B.E. END SEMESTER ASSES SMENT EXAMINATIONS JULY 
 ---------------------- 
 ---------------------- ---------------------- 
 ---------------------- ---------------------- 
-
-## Page 2
-
-IV SEMESTER IV SEMESTER VI SEMESTER VI SEMESTER 
+ ## Page 2
+ IV SEMESTER IV SEMESTER VI SEMESTER VI SEMESTER 
 PART - I PART - II PART - I PART - II 
 Course (Course Code) Course (Course Code) Course (Course Code) Course (Course Code) 
- (9.00 AM to 11.00 AM)  (2.00 PM to 4.00 PM)  (9.00 A M to 11.00 AM)  (2.00 PM to 4.00 PM) 
+ (9.00 AM to 11.00 AM) (2.00 PM to 4.00 PM) (9.00 A M to 11.00 AM) (2.00 PM to 4.00 PM) 
 Biostatistics Biostatistics 
 20EMAB210 20EMAB210 
 Bioprocess Engineering Bioprocess Engineering 
@@ -133,9 +128,9 @@ Bioanalytical Techniques Bioanalytical Techniques
 19EBTE301 19EBTE301 
 Prepared By: Checked By: 
 M.S. Kalasad Naveen M.R. Controller of Examinations 
-Note:      1) Students need to Login MS Teams for Morning Session at 9.00 A.M.  & for After Noon Session is 2.00 P.M. 
+Note: 1) Students need to Login MS Teams for Morning Session at 9.00 A.M. & for After Noon Session is 2.00 P.M. 
                2) Exam writing duration for Morning Session is 9.30 A.M. to 11.00 A.M. & for After Noon Session at 2.30 P.M. to 4.00 P.M. 
-                3) An additional time of 30 minutes i.e. for  Morning Session is 11.00 A.M. to 11.30 A.M.  & for After Noon Session at 4.00 P.M. to 4.30 P.M. 
+                3) An additional time of 30 minutes i.e. for Morning Session is 11.00 A.M. to 11.30 A.M. & for After Noon Session at 4.00 P.M. to 4.30 P.M. 
 10/07/2021 
 (Saturday) ---------------------- ---------------------- 
 08/07/2021 
@@ -153,7 +148,7 @@ Note:      1) Students need to Login MS Teams for Morning Session at 9.00 A.M.  
 (Wednesday) ---------------------- 
 ---------------------- 
 DEPARTMENT OF BIOTECHNOLOGY 
-Date                      
+Date 
  (Day) 
 01/07/2021 
 (Thursday) ---------------------- ---------------------- 
@@ -164,13 +159,11 @@ Date
 TIME TABLE FOR IV & VI SEMESTER B.E. END SEMESTER ASSES SMENT EXAMINATIONS JULY 
 2021 
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India) 
-
-## Page 3
-
-IV SEMESTER IV SEMESTER VI SEMESTER VI SEMESTER 
+ ## Page 3
+ IV SEMESTER IV SEMESTER VI SEMESTER VI SEMESTER 
 PART - I PART - II PART - I PART - II 
 Course (Course Code) Course (Course Code) Course (Course Code) Course (Course Code) 
- (9.00 AM to 11.00 AM)  (2.00 PM to 4.00 PM)  (9.00 A M to 11.00 AM)  (2.00 PM to 4.00 PM) 
+ (9.00 AM to 11.00 AM) (2.00 PM to 4.00 PM) (9.00 A M to 11.00 AM) (2.00 PM to 4.00 PM) 
 Applied Statistics with R 
 (20EMAB209) 
 Applied Statistics with R 
@@ -217,9 +210,9 @@ Parallel Computing Parallel Computing
 17ECSE307 17ECSE307 
 Prepared By: Checked By: 
 M.S. Kalasad Naveen M.R. Controller of Examinations 
-Note:      1) Students need to Login MS Teams for Morning Session at 9.00 A.M.  & for After Noon Session is 2.00 P.M. 
+Note: 1) Students need to Login MS Teams for Morning Session at 9.00 A.M. & for After Noon Session is 2.00 P.M. 
                2) Exam writing duration for Morning Session is 9.30 A.M. to 11.00 A.M. & for After Noon Session at 2.30 P.M. to 4.00 P.M. 
-                3) An additional time of 30 minutes i.e. for  Morning Session is 11.00 A.M. to 11.30 A.M.  & for After Noon Session at 4.00 P.M. to 4.30 P.M. 
+                3) An additional time of 30 minutes i.e. for Morning Session is 11.00 A.M. to 11.30 A.M. & for After Noon Session at 4.00 P.M. to 4.30 P.M. 
 ---------------------- 
 12/07/2021 
 (Monday) 
@@ -247,19 +240,17 @@ Note:      1) Students need to Login MS Teams for Morning Session at 9.00 A.M.  
 05/07/2021 
 (Monday) ---------------------- 
 SCHOOL OF COMPUTER SCIENCE AND ENGINEERING 
-Date                      
+Date 
  (Day) 
 01/07/2021 
 (Thursday) ---------------------- ---------------------- 
 TIME TABLE FOR IV & VI SEMESTER B.E. END SEMESTER ASSES SMENT EXAMINATIONS JULY 2021 
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India) 
-
-## Page 4
-
-IV SEMESTER IV SEMESTER VI SEMESTER VI SEMESTER 
+ ## Page 4
+ IV SEMESTER IV SEMESTER VI SEMESTER VI SEMESTER 
 PART - I PART - II PART - I PART - II 
 Course (Course Code) Course (Course Code) Course (Course Code) Course (Course Code) 
- (9.00 AM to 11.00 AM)  (2.00 PM to 4.00 PM)  (9.00 A M to 11.00 AM)  (2.00 PM to 4.00 PM) 
+ (9.00 AM to 11.00 AM) (2.00 PM to 4.00 PM) (9.00 A M to 11.00 AM) (2.00 PM to 4.00 PM) 
 Numerical Methods and 
 Partial Differential Equations 
 (20EMAB207) 
@@ -314,9 +305,9 @@ Engineering
 15ECVC207 15ECVC207 
 Prepared By: Checked By: 
 M.S. Kalasad Naveen M.R. Controller of Examinations 
-Note:      1) Students need to Login MS Teams for Morning Session at 9.00 A.M.  & for After Noon Session is 2.00 P.M. 
+Note: 1) Students need to Login MS Teams for Morning Session at 9.00 A.M. & for After Noon Session is 2.00 P.M. 
                2) Exam writing duration for Morning Session is 9.30 A.M. to 11.00 A.M. & for After Noon Session at 2.30 P.M. to 4.00 P.M. 
-                3) An additional time of 30 minutes i.e. for  Morning Session is 11.00 A.M. to 11.30 A.M.  & for After Noon Session at 4.00 P.M. to 4.30 P.M. 
+                3) An additional time of 30 minutes i.e. for Morning Session is 11.00 A.M. to 11.30 A.M. & for After Noon Session at 4.00 P.M. to 4.30 P.M. 
 ---------------------- 
 ---------------------- 10/07/2021 
 (Saturday) ---------------------- ---------------------- ---------------------- 
@@ -337,7 +328,7 @@ Note:      1) Students need to Login MS Teams for Morning Session at 9.00 A.M.  
 (Wednesday) ---------------------- 
 ---------------------- 
 SCHOOL OF CIVIL ENGINEERING 
-Date                      
+Date 
  (Day) 
 01/07/2021 
 (Thursday) ---------------------- ---------------------- 
@@ -347,13 +338,11 @@ Date
 (Saturday) ---------------------- 
 TIME TABLE FOR IV & VI SEMESTER B.E. END SEMESTER ASSES SMENT EXAMINATIONS JULY 2021 
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India) 
-
-## Page 5
-
-IV SEMESTER IV SEMESTER VI SEMESTER VI SEMESTER 
+ ## Page 5
+ IV SEMESTER IV SEMESTER VI SEMESTER VI SEMESTER 
 PART - I PART - II PART - I PART - II 
 Course (Course Code) Course (Course Code) Course (Course Code) Course (Course Code) 
- (9.00 AM to 11.00 AM)  (2.00 PM to 4.00 PM)  (9.00 A M to 11.00 AM)  (2.00 PM to 4.00 PM) 
+ (9.00 AM to 11.00 AM) (2.00 PM to 4.00 PM) (9.00 A M to 11.00 AM) (2.00 PM to 4.00 PM) 
 Linear Algebra and Partial 
 Differential Equations 
 (15EMAB208) 
@@ -394,10 +383,10 @@ Coding (17EECE308)
 Information Theory and 
 Coding (17EECE308) 
 Multi Core Architecture 
-and   Programming 
+and Programming 
 (20EECE340) 
 Multi Core Architecture 
-and   Programming 
+and Programming 
 (20EECE340) 
 ARM Processor & 
 Applications 
@@ -406,9 +395,9 @@ Applications
 15EECC207 15EECC207 
 Prepared By: Checked By: 
 M.S. Kalasad Naveen M.R. Controller of Examinations 
-Note:      1) Students need to Login MS Teams for Morning Session at 9.00 A.M.  & for After Noon Session is 2.00 P.M. 
+Note: 1) Students need to Login MS Teams for Morning Session at 9.00 A.M. & for After Noon Session is 2.00 P.M. 
                2) Exam writing duration for Morning Session is 9.30 A.M. to 11.00 A.M. & for After Noon Session at 2.30 P.M. to 4.00 P.M. 
-                3) An additional time of 30 minutes i.e. for  Morning Session is 11.00 A.M. to 11.30 A.M.  & for After Noon Session at 4.00 P.M. to 4.30 P.M. 
+                3) An additional time of 30 minutes i.e. for Morning Session is 11.00 A.M. to 11.30 A.M. & for After Noon Session at 4.00 P.M. to 4.30 P.M. 
 ---------------------- 
 08/07/2021 
 (Thursday) ---------------------- ---------------------- 
@@ -427,19 +416,17 @@ Note:      1) Students need to Login MS Teams for Morning Session at 9.00 A.M.  
 03/07/2021 
 (Saturday) ---------------------- ---------------------- 
 SCHOOL OF ELECTRONICS AND COMMUNICATION ENGINEERING
-Date                      
+Date 
  (Day) 
 01/07/2021 
 (Thursday) ---------------------- ---------------------- 
 TIME TABLE FOR IV & VI SEMESTER B.E. END SEMESTER ASSES SMENT EXAMINATIONS JULY 2021 
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India) 
-
-## Page 6
-
-IV SEMESTER IV SEMESTER VI SEMESTER VI SEMESTER 
+ ## Page 6
+ IV SEMESTER IV SEMESTER VI SEMESTER VI SEMESTER 
 PART - I PART - II PART - I PART - II 
 Course (Course Code) Course (Course Code) Course (Course Code) Course (Course Code) 
- (9.00 AM to 11.00 AM)  (2.00 PM to 4.00 PM)  (9.00 A M to 11.00 AM)  (2.00 PM to 4.00 PM) 
+ (9.00 AM to 11.00 AM) (2.00 PM to 4.00 PM) (9.00 A M to 11.00 AM) (2.00 PM to 4.00 PM) 
 Linear Algebra and Partial 
 Differential Equations 
 (15EMAB208) 
@@ -491,9 +478,9 @@ Hybrid Electrical Energy
 System (18EEEE302) 
 Prepared By: Checked By: 
 M.S. Kalasad Naveen M.R. Controller of Examinations 
-Note:      1) Students need to Login MS Teams for Morning Session at 9.00 A.M.  & for After Noon Session is 2.00 P.M. 
+Note: 1) Students need to Login MS Teams for Morning Session at 9.00 A.M. & for After Noon Session is 2.00 P.M. 
                2) Exam writing duration for Morning Session is 9.30 A.M. to 11.00 A.M. & for After Noon Session at 2.30 P.M. to 4.00 P.M. 
-                3) An additional time of 30 minutes i.e. for  Morning Session is 11.00 A.M. to 11.30 A.M.  & for After Noon Session at 4.00 P.M. to 4.30 P.M. 
+                3) An additional time of 30 minutes i.e. for Morning Session is 11.00 A.M. to 11.30 A.M. & for After Noon Session at 4.00 P.M. to 4.30 P.M. 
 12/07/2021 
 (Monday) 
 ---------------------- 
@@ -517,7 +504,7 @@ Note:      1) Students need to Login MS Teams for Morning Session at 9.00 A.M.  
 (Wednesday) ---------------------- 
 ---------------------- 
 DEPARTMENT OF ELECTRICAL AND ELECTRONICS ENGINEERIN G 
-Date                      
+Date 
  (Day) 
 01/07/2021 
 (Thursday) ---------------------- ---------------------- 
@@ -527,13 +514,11 @@ Date
 (Saturday) ---------------------- 
 TIME TABLE FOR IV & VI SEMESTER B.E. END SEMESTER ASSES SMENT EXAMINATIONS JULY 2021 
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India) 
-
-## Page 7
-
-IV SEMESTER IV SEMESTER VI SEMESTER VI SEMESTER 
+ ## Page 7
+ IV SEMESTER IV SEMESTER VI SEMESTER VI SEMESTER 
 PART - I PART - II PART - I PART - II 
 Course (Course Code) Course (Course Code) Course (Course Code) Course (Course Code) 
- (9.00 AM to 11.00 AM)  (2.00 PM to 4.00 PM)  (9.00 A M to 11.00 AM)  (2.00 PM to 4.00 PM) 
+ (9.00 AM to 11.00 AM) (2.00 PM to 4.00 PM) (9.00 A M to 11.00 AM) (2.00 PM to 4.00 PM) 
 Numerical Methods and 
 Partial Differential Equations 
 (15EMAB206) 
@@ -548,9 +533,9 @@ Differential Equations
 (15EMAB241) 
 Heat and Mass Transfer Heat and Mass Transfer 
 15EMEC305 15EMEC305 
-Fundamentals of  Machine 
+Fundamentals of Machine 
 Design 
-Fundamentals of  Machine 
+Fundamentals of Machine 
 Design 
 15EMEC203 15EMEC203 
 Professional Aptitude & 
@@ -584,9 +569,9 @@ Manufacturing
 (15EMEE306) (15EMEE306) 
 Prepared By: Checked By: 
 M.S. Kalasad Naveen M.R. Controller of Examinations 
-Note:      1) Students need to Login MS Teams for Morning Session at 9.00 A.M.  & for After Noon Session is 2.00 P.M. 
+Note: 1) Students need to Login MS Teams for Morning Session at 9.00 A.M. & for After Noon Session is 2.00 P.M. 
                2) Exam writing duration for Morning Session is 9.30 A.M. to 11.00 A.M. & for After Noon Session at 2.30 P.M. to 4.00 P.M. 
-                3) An additional time of 30 minutes i.e. for  Morning Session is 11.00 A.M. to 11.30 A.M.  & for After Noon Session at 4.00 P.M. to 4.30 P.M. 
+                3) An additional time of 30 minutes i.e. for Morning Session is 11.00 A.M. to 11.30 A.M. & for After Noon Session at 4.00 P.M. to 4.30 P.M. 
 12/07/2021 
 (Monday) ---------------------- ---------------------- 
 ---------------------- ---------------------- 
@@ -612,19 +597,17 @@ Note:      1) Students need to Login MS Teams for Morning Session at 9.00 A.M.  
 (Monday) ---------------------- 
 ---------------------- 
 SCHOOL OF MECHANICAL ENGINEERING 
-Date                      
+Date 
  (Day) 
 01/07/2021 
 (Thursday) ---------------------- ---------------------- 
 TIME TABLE FOR IV & VI SEMESTER B.E. END SEMESTER ASSES SMENT EXAMINATIONS JULY 2021 
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India) 
-
-## Page 8
-
-IV SEMESTER IV SEMESTER VI SEMESTER VI SEMESTER VIII SE MESTER VIII SEMESTER 
+ ## Page 8
+ IV SEMESTER IV SEMESTER VI SEMESTER VI SEMESTER VIII SE MESTER VIII SEMESTER 
 PART - I PART - II PART - I PART - II PART - I PART - II
 Course (Course Code) Course (Course Code) Course (Course Code) Course (Course Code) Course (Course Code) Course (Course Code) 
- (9.00 AM to 11.00 AM)  (2.00 PM to 4.00 PM)  (9.00 A M to 11.00 AM)  (2.00 PM to 4.00 PM)  (9.00 AM to 11. 00 AM)  (2.00 PM to 4.00 PM) 
+ (9.00 AM to 11.00 AM) (2.00 PM to 4.00 PM) (9.00 A M to 11.00 AM) (2.00 PM to 4.00 PM) (9.00 AM to 11. 00 AM) (2.00 PM to 4.00 PM) 
 Building constructions & 
 Materials - IV 
 Building constructions & 
@@ -645,7 +628,7 @@ Settlement Planning Settlement Planning
 18AATC312 18AATC312 
 History of Architecture - III History of Architecture - III 
 18AATC211 18AATC211 
-Structures – VI Structures – VI 
+Structures - VI Structures - VI 
 18AATC314 18AATC314 
 Quantity survey & specification Quantity survey & specification Construction Management Construction Management 
 18AATC213 18AATC213 17AATC411 17AATC411 
@@ -653,9 +636,9 @@ Structures - IV Structures - IV
 18AATC214 18AATC214 
 Prepared By: 
 M.S. Kalasad Controller of Examinations 
-Note:      1) Students need to Login MS Teams for Morning Session at 9.00 A.M.  & for After Noon Session is 2.00 P.M. 
+Note: 1) Students need to Login MS Teams for Morning Session at 9.00 A.M. & for After Noon Session is 2.00 P.M. 
                2) Exam writing duration for Morning Session is 9.30 A.M. to 11.00 A.M. & for After Noon Session at 2.30 P.M. to 4.00 P.M. 
-                3) An additional time of 30 minutes i.e. for  Morning Session is 11.00 A.M. to 11.30 A.M.  & for After Noon Session at 4.00 P.M. to 4.30 P.M. 
+                3) An additional time of 30 minutes i.e. for Morning Session is 11.00 A.M. to 11.30 A.M. & for After Noon Session at 4.00 P.M. to 4.30 P.M. 
 ---------------------- 
 ---------------------- 
 ---------------------- ---------------------- ------- --------------- ---------------------- 
@@ -691,7 +674,7 @@ Note:      1) Students need to Login MS Teams for Morning Session at 9.00 A.M.  
 (Saturday) ---------------------- ---------------------- 
 ---------------------- ---------------------- 
 SCHOOL OF ARCHITECTURE 
-Date                      
+Date 
  (Day) 
 01/07/2021 
 (Thursday) ---------------------- ---------------------- ---------------------- ---------------------- 

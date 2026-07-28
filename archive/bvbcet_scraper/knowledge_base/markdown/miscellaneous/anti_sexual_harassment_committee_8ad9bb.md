@@ -1,10 +1,7 @@
 # Anti-Sexual Harassment Committee
-
-**Source URL:** https://www.kletech.ac.in/student-support/anti-sexual-harassment-committee
-
-### Anti-Sexual Harassment Committee of the KLE Technological University
-
-| Sl. No. | Name | Designation | Position | Email-id | Mobile No. |
+ **Source URL:** https://www.kletech.ac.in/student-support/anti-sexual-harassment-committee
+ ### Anti-Sexual Harassment Committee of the KLE Technological University
+ | Sl. No. | Name | Designation | Position | Email-id | Mobile No. |
 | 1 | Dr. Uma Mudengudi | Dean- R&D | Chairperson | uma@bvb.edu | 9343392667 |
 | 2 | Prof. B.S Anami | Registrar | Member | registrar@kletech.ac.in | 08362378150 |
 | 3 | Prof. B.L. Desai | Executive Dean | Member | bldesai@kletech.ac.in | 9844040613 |

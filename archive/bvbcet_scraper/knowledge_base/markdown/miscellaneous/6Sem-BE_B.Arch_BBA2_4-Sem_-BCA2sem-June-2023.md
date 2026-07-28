@@ -1,10 +1,7 @@
 # PDF Document: 6Sem-BE_B.Arch_BBA2_4-Sem_-BCA2sem-June-2023
-
-**PDF Source:** https://www.kletech.ac.in/pdf/6Sem-BE_B.Arch_BBA2_4-Sem_-BCA2sem-June-2023.pdf
-
-## Page 1
-
-09-05-2023
+ **PDF Source:** https://www.kletech.ac.in/pdf/6Sem-BE_B.Arch_BBA2_4-Sem_-BCA2sem-June-2023.pdf
+ ## Page 1
+ 09-05-2023
 31/05/2023 (Wednesday) Power Electronics Motors and Drives
 16EARE301
 02/06/2023 (Friday) AI for Autonomous Robots
@@ -15,10 +12,10 @@ Digital System Design & FPGA Programming
 16EHSC301
 29/05/2023 (Monday) 
 DEPARTMENT OF AUTOMATION AND ROBOTICS
-Date                 (Day)
+Date (Day)
 VI SEMESTER
 Course (Course Code) 
-2.00PM to 5.00PM
+2. 00PM to 5.00PM
 REVISED TIME TABLE FOR VI SEMESTER B.E. END SEMESTER 
 ASSESSMENT THEORY EXAMINATIONS MAY_JUNE 2023
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India)
@@ -30,18 +27,16 @@ Robot Dynamics & Control
 07/06/2023 (Wednesday) 
 05/06/2023 (Monday) 
 15EARE302
-Computer Vision & Digital Image  Processing
-
-## Page 2
-
-27/05/2023 (Saturday) 
+Computer Vision & Digital Image Processing
+ ## Page 2
+ 27/05/2023 (Saturday) 
 TIME TABLE FOR VI SEMESTER B.E. END SEMESTER 
 ASSESSMENT THEORY EXAMINATIONS MAY_JUNE 2023
 DEPARTMENT OF BIOTECHNOLOGY
-Date                 (Day)
+Date (Day)
 VI SEMESTER
 Course (Course Code) 
-2.00PM to 5.00PM
+2. 00PM to 5.00PM
 Professional Aptitude & Logical Reasoning
 16EHSC301
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India)
@@ -56,16 +51,14 @@ Bioanalytical Techniques
 19EBTE301
 03/06/2023 (Saturday) Bioprocess Control & Automation
 19EBTC302
-
-## Page 3
-
-TIME TABLE FOR VI SEMESTER B.E. END SEMESTER 
+ ## Page 3
+ TIME TABLE FOR VI SEMESTER B.E. END SEMESTER 
 ASSESSMENT THEORY EXAMINATIONS MAY_JUNE 2023
 SCHOOL OF COMPUTER SCIENCE AND ENGINEERING
-Date                 (Day)
+Date (Day)
 VI SEMESTER
 Course (Course Code) 
-2.00PM to 5.00PM
+2. 00PM to 5.00PM
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India)
 Professional Aptitude & Logical Reasoning
 31/05/2023 (Wednesday) Semantic Web
@@ -82,19 +75,17 @@ Controller of Examinations
 07/06/2023 (Wednesday) 
 Blockchain and Distributed Ledgers (22ECSC307)
 Blockchain and Distributed Ledgers (21ECSC307)
-
-## Page 4
-
-B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India)
+ ## Page 4
+ B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India)
 TIME TABLE FOR VI SEMESTER B.E. END SEMESTER 
 ASSESSMENT THEORY EXAMINATIONS MAY_JUNE 2023
 Advanced Geotechnical Engineering
 15ECVC306
 SCHOOL OF CIVIL ENGINEERING
-Date                 (Day)
+Date (Day)
 VI SEMESTER
 Course (Course Code) 
-2.00PM to 5.00PM
+2. 00PM to 5.00PM
 29/05/2023 (Monday) 
 27/05/2023 (Saturday) Professional Aptitude & Logical Reasoning
 16EHSC301
@@ -107,21 +98,19 @@ Estimation and Costing
 15ECVC307
 Applied Hydrology and Hydraulic Structures 
 (20ECVE301)
-
-## Page 5
-
-B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India)
+ ## Page 5
+ B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India)
 Controller of Examinations 
 27/05/2023 (Saturday) Professional Aptitude & Logical Reasoning
 16EHSC301
 TIME TABLE FOR VI SEMESTER B.E. END SEMESTER 
 ASSESSMENT THEORY EXAMINATIONS MAY_JUNE 2023
 SCHOOL OF ELECTRONICS AND COMMUNICATION ENGINEERING
-Date                 (Day)
+Date (Day)
 VI SEMESTER
 Course (Course Code) 
-2.00PM to 5.00PM
-AUTOSAR – Fundamentals (22EECC310)
+2. 00PM to 5.00PM
+AUTOSAR - Fundamentals (22EECC310)
 06/06/2023 (Tuesday) 
 03/06/2023 (Saturday) 
 30/05/2023 (Tuesday) 
@@ -134,10 +123,8 @@ Communication System II
 01/06/2023 (Thursday) 
 Internet of Things (17EECE307)
 Information Theory and Coding (21EECE308)
-
-## Page 6
-
-TIME TABLE FOR VI SEMESTER B.E. END SEMESTER 
+ ## Page 6
+ TIME TABLE FOR VI SEMESTER B.E. END SEMESTER 
 ASSESSMENT THEORY EXAMINATIONS MAY_JUNE 2023
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India)
 27/05/2023 (Saturday) Professional Aptitude & Logical Reasoning
@@ -146,10 +133,10 @@ Automotive Electronics
 22EEIC316
 SCHOOL OF ELECTRONICS AND COMMUNICATION ENGINEERING 
 (INDUSTRY INTEGRATED)
-Date                 (Day)
+Date (Day)
 VI SEMESTER
 Course (Course Code) 
-2.00PM to 5.00PM
+2. 00PM to 5.00PM
 Controller of Examinations 
 01/06/2023 (Thursday) 
 03/06/2023 (Saturday) 
@@ -161,16 +148,14 @@ Information Theory and Coding
 30/05/2023 (Tuesday) 
 Communication System II
 22EEIC318
-
-## Page 7
-
-TIME TABLE FOR VI SEMESTER B.E. END SEMESTER 
+ ## Page 7
+ TIME TABLE FOR VI SEMESTER B.E. END SEMESTER 
 ASSESSMENT THEORY EXAMINATIONS MAY_JUNE 2023
 DEPARTMENT OF ELECTRICAL AND ELECTRONICS ENGINEERING
-Date                 (Day)
+Date (Day)
 VI SEMESTER
 Course (Course Code) 
-2.00PM to 5.00PM
+2. 00PM to 5.00PM
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India)
 Professional Aptitude & Logical Reasoning
 01/06/2023 (Thursday) 
@@ -190,19 +175,17 @@ CMOS VLSI Circuits
 08/06/2023 (Thursday) 
 Power System Modeling Operation & Control
 21EEEC302
-
-## Page 8
-
-HVAC Systems 
+ ## Page 8
+ HVAC Systems 
 07/06/2023 (Wednesday) 
 15EMEE306
 TIME TABLE FOR VI SEMESTER B.E. END SEMESTER 
 ASSESSMENT THEORY EXAMINATIONS MAY_JUNE 2023
 SCHOOL OF MECHANICAL ENGINEERING
-Date                 (Day)
+Date (Day)
 VI SEMESTER
 Course (Course Code) 
-2.00PM to 5.00PM
+2. 00PM to 5.00PM
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India)
 Controller of Examinations 
 Professional Aptitude & Logical Reasoning
@@ -218,14 +201,12 @@ Failure Analysis in Design (15EMEE302)
 27/05/2023 (Saturday) 
 05/06/2023 (Monday) 
 02/06/2023 (Friday) 
-
-## Page 9
-
-TIME TABLE FOR VI SEMESTER B.ARCH. END SEMESTER 
+ ## Page 9
+ TIME TABLE FOR VI SEMESTER B.ARCH. END SEMESTER 
 ASSESSMENT THEORY EXAMINATIONS MAY_JUNE 2023
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India)
 SCHOOL OF ARCHITECTURE
-Date                 
+Date 
 (Day)
 29/05/2023 
 (Monday) 
@@ -233,7 +214,7 @@ Date
 (Friday) 
 VI SEMESTER
 Course (Course Code) 
-2.00PM to 5.00PM
+2. 00PM to 5.00PM
 Services IV (Acoustic)
 18AATC310
 Contemporary Architecture
@@ -245,14 +226,12 @@ Controller of Examinations
 (Monday) 
 Settlement Planning
 18AATC312
-Structures – VI
+Structures - VI
 18AATC314
-
-## Page 10
-
-II SEMESTER IV SEMESTER
+ ## Page 10
+ II SEMESTER IV SEMESTER
 Course (Course Code) Course (Course Code) 
-2.00PM to 5.00PM 2.00PM to 5.00PM
+2. 00PM to 5.00PM 2.00PM to 5.00PM
 Operations Management
 21MBAC205
 Business Statistics
@@ -269,10 +248,10 @@ Project Management
 21MBAC208
 Environmental Studies 
 (21MBAC109)
-2.00PM to 3.30PM
+2. 00PM to 3.30PM
 Indian Constitution
 21MBAC209
-English – II
+English - II
 21MBAC110
 Digital Marketing
 21MBAC204
@@ -280,7 +259,7 @@ TIME TABLE FOR II & IV SEMESTER BBA END SEMESTER
 ASSESSMENT THEORY EXAMINATIONS MAY_JUNE 2023
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India)
 BACHELOR OF BUSINESS ADMINISTRATION
-Date                 
+Date 
 (Day)
 29/05/2023 
 (Monday) ---------------------
@@ -311,19 +290,17 @@ Controller of Examinations
 (Friday) 
 05/06/2023 
 (Monday) 
-
-## Page 11
-
-30/05/2023 (Tuesday) Discrete Mathematical Structures
+ ## Page 11
+ 30/05/2023 (Tuesday) Discrete Mathematical Structures
 22EBCB102
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India)
 TIME TABLE FOR II SEMESTER BCA END SEMESTER 
 ASSESSMENT THEORY EXAMINATIONS MAY_JUNE 2023
 DEPARTMENT OF BACHELOR OF COMPUTER APPLICATIONS
-Date                 (Day)
+Date (Day)
 II SEMESTER
 Course (Course Code) 
-2.00PM to 5.00PM
+2. 00PM to 5.00PM
 01/06/2023 (Thursday) Operating Systems
 22EBCC104
 03/06/2023 (Saturday) Object-Oriented Programming in C++

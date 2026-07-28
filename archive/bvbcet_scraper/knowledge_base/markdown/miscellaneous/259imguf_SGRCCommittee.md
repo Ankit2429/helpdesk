@@ -1,10 +1,7 @@
 # PDF Document: 259imguf_SGRCCommittee
-
-**PDF Source:** https://www.kletech.ac.in/Uploads/image/259imguf_SGRCCommittee.pdf
-
-## Page 1
-
-KLtrTT?ffi'IfiIX
+ **PDF Source:** https://www.kletech.ac.in/Uploads/image/259imguf_SGRCCommittee.pdf
+ ## Page 1
+ KLtrTT?ffi'IfiIX
 Creating Value
 Leveraging Knowledge 
 -
@@ -41,7 +38,7 @@ Secretary
 Further, the KLE Technological University, as per the Gazette notification issued by UGC on LL, April
 2023, has appointed Dr G B Patil, Former Registrar (Evaluation) & Dean-Faculty of Law, Karnataka
 State Law University, Hubli as an ombudsperson of the University
-o,T
+o, T
 L.
 2.
 Allthe members of

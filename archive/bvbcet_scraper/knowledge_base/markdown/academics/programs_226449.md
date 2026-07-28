@@ -1,58 +1,33 @@
 # Programs
-
-**Source URL:** https://www.kletech.ac.in/hubballi/program/legal-studies/5
-
-# Programs
-
-You are searching legal studies.
-
-### Browse by Faculties
-
-Engineering
-
-Computer Application
-
-Management
-
-Commerce
-
-Legal Studies
-
-Science
-
-Architecture & Design
-
-Advanced Studies
-
-- LLM - Constitutional Law 
+ **Source URL:** https://www.kletech.ac.in/hubballi/program/legal-studies/5
+ # Programs
+ You are searching legal studies.
+ ### Browse by Faculties
+ Engineering
+ Computer Application
+ Management
+ Commerce
+ Legal Studies
+ Science
+ Architecture & Design
+ Advanced Studies
+ - LLM - Constitutional Law 
 FacultyLegal Studies
-
-Hubballi
+ Hubballi
 - LLM - IPR 
 FacultyLegal Studies
-
-Hubballi
+ Hubballi
 - B.B.A. LL.B. (Hons.) 
 FacultyLegal Studies
-
-Hubballi
+ Hubballi
 - LL.B. (Hons.) 
 FacultyLegal Studies
-
-Hubballi
-
-FacultyLegal Studies
-
-Hubballi
-
-FacultyLegal Studies
-
-Hubballi
-
-FacultyLegal Studies
-
-Hubballi
-
-FacultyLegal Studies
-
-Hubballi
+ Hubballi
+ FacultyLegal Studies
+ Hubballi
+ FacultyLegal Studies
+ Hubballi
+ FacultyLegal Studies
+ Hubballi
+ FacultyLegal Studies
+ Hubballi

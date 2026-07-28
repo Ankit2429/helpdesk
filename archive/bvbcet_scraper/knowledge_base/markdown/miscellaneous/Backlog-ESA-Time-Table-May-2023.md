@@ -1,12 +1,9 @@
 # PDF Document: Backlog-ESA-Time-Table-May-2023
-
-**PDF Source:** https://www.kletech.ac.in/hubballi/pdf/Backlog-ESA-Time-Table-May-2023.pdf
-
-## Page 1
-
-I / II SEMESTER III SEMESTER V SEMESTER VII SEMESTER
+ **PDF Source:** https://www.kletech.ac.in/hubballi/pdf/Backlog-ESA-Time-Table-May-2023.pdf
+ ## Page 1
+ I / II SEMESTER III SEMESTER V SEMESTER VII SEMESTER
 Course (Course Code) Course (Course Code) Course (Course Code) Course (Course Code) 
- (2.00 PM to 5.00 PM)   (9.30 AM to 12.30 PM)   (9.30 AM to 12.30 PM)  (2.00 PM to 5.00 PM)
+ (2.00 PM to 5.00 PM) (9.30 AM to 12.30 PM) (9.30 AM to 12.30 PM) (2.00 PM to 5.00 PM)
 Industrial Data Networks
 16EARC401
 Numerical Methods and Partial 
@@ -47,18 +44,16 @@ EXAMINATIONS MAY 2023
 22/05/2023 
 (Monday) 
 DEPARTMENT OF AUTOMATION AND ROBOTICS
-Date                      
+Date 
  (Day)
 23/05/2023 
 (Tuesday) 
 ----------------------
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India)
-
-## Page 2
-
-V SEMESTER VII SEMESTER
+ ## Page 2
+ V SEMESTER VII SEMESTER
 Course (Course Code) Course (Course Code) 
-  (9.30 AM to 12.30 PM)  (2.00 PM to 5.00 PM)
+  (9.30 AM to 12.30 PM) (2.00 PM to 5.00 PM)
 Bioprocess Equipment Design
 15EBTC402
 Downstream Processing Technology
@@ -79,16 +74,14 @@ For 8th Semester Students Only
 BACKLOG TIME TABLE FOR V & VII SEMESTER B.E. 
 EXAMINATIONS MAY 2023
 DEPARTMENT OF BIOTECHNOLOGY
-Date                      
+Date 
  (Day)
 ----------------------
 ----------------------
-
-## Page 3
-
-I / II SEMESTER III SEMESTER V SEMESTER VII SEMESTER
+ ## Page 3
+ I / II SEMESTER III SEMESTER V SEMESTER VII SEMESTER
 Course (Course Code) Course (Course Code) Course (Course Code) Course (Course Code) 
- (2.00 PM to 5.00 PM)   (9.30 AM to 12.30 PM)   (9.30 AM to 12.30 PM)  (2.00 PM to 5.00 PM)
+ (2.00 PM to 5.00 PM) (9.30 AM to 12.30 PM) (9.30 AM to 12.30 PM) (2.00 PM to 5.00 PM)
 Big Data & Analytics
 17ECSC401
 APPLIED STATISTICS 
@@ -121,19 +114,17 @@ B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (Indi
 ----------------------
 ----------------------
 SCHOOL OF COMPUTER SCIENCE AND ENGINEERING
-Date                      
+Date 
  (Day)
 22/05/2023 
 (Monday) 
 23/05/2023 
 (Tuesday) ----------------------
 -------------------------------------------- ----------------------
-
-## Page 4
-
-I / II SEMESTER III SEMESTER V SEMESTER VII SEMESTER
+ ## Page 4
+ I / II SEMESTER III SEMESTER V SEMESTER VII SEMESTER
 Course (Course Code) Course (Course Code) Course (Course Code) Course (Course Code) 
- (2.00 PM to 5.00 PM)   (9.30 AM to 12.30 PM)   (9.30 AM to 12.30 PM)  (2.00 PM to 5.00 PM)
+ (2.00 PM to 5.00 PM) (9.30 AM to 12.30 PM) (9.30 AM to 12.30 PM) (2.00 PM to 5.00 PM)
 Single Variable Calculus Structural Analysis - ICONSTRUCTION ECONOMICS & 
 MANAGEMENT
 DESIGN OF STEEL 
@@ -160,7 +151,7 @@ Controller of Examinations
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India)
 For 8th Semester Students Only
 SCHOOL OF CIVIL ENGINEERING
-Date                      
+Date 
  (Day)
 22/05/2023 
 (Monday) 
@@ -176,12 +167,10 @@ EXAMINATIONS MAY 2023
 (Friday) 
 ----------------------
 -------------------------------------------- ----------------------
-
-## Page 5
-
-I / II SEMESTER III SEMESTER V SEMESTER VII SEMESTER
+ ## Page 5
+ I / II SEMESTER III SEMESTER V SEMESTER VII SEMESTER
 Course (Course Code) Course (Course Code) Course (Course Code) Course (Course Code) 
- (2.00 PM to 5.00 PM)   (9.30 AM to 12.30 PM)   (9.30 AM to 12.30 PM)  (2.00 PM to 5.00 PM)
+ (2.00 PM to 5.00 PM) (9.30 AM to 12.30 PM) (9.30 AM to 12.30 PM) (2.00 PM to 5.00 PM)
 Single Variable Calculus Microwave & Antennas
 18EMAB101 18EECE411
 Communication System I OOPS with C++
@@ -195,8 +184,8 @@ Communication
 18EMAB102 17EECC307 22EECC401
 Controller of Examinations
 For 8th Semester Students Only
-SCHOOL OF ELECTRONICS  AND COMMUNICATION ENGINEERING
-Date                      
+SCHOOL OF ELECTRONICS AND COMMUNICATION ENGINEERING
+Date 
  (Day)
 22/05/2023 
 (Monday) 
@@ -217,12 +206,10 @@ EXAMINATIONS MAY 2023
 24/05/2023 
 (Wednesday) ---------------------- ---------------------- ----------------------
 ----------------------
-
-## Page 6
-
-I / II SEMESTER III SEMESTER V SEMESTER VII SEMESTER
+ ## Page 6
+ I / II SEMESTER III SEMESTER V SEMESTER VII SEMESTER
 Course (Course Code) Course (Course Code) Course (Course Code) Course (Course Code) 
- (2.00 PM to 5.00 PM)   (9.30 AM to 12.30 PM)   (9.30 AM to 12.30 PM)  (2.00 PM to 5.00 PM)
+ (2.00 PM to 5.00 PM) (9.30 AM to 12.30 PM) (9.30 AM to 12.30 PM) (2.00 PM to 5.00 PM)
 LINEAR INTEGRATED 
 CIRCUITS AUTOSAR
 18EEEC301 21EEEE402
@@ -261,7 +248,7 @@ Controller of Examinations
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India)
 For 8th Semester Students Only
 DEPARTMENT OF ELECTRICAL AND ELECTRONICS ENGINEERING
-Date                      
+Date 
  (Day)
 22/05/2023 
 (Monday) 
@@ -271,12 +258,10 @@ BACKLOG TIME TABLE FOR I, II, III, V & VII SEMESTER B.E.
 EXAMINATIONS MAY 2023
 --------------------------------------------
 ----------------------
-
-## Page 7
-
-I / II SEMESTER III SEMESTER V SEMESTER VII SEMESTER
+ ## Page 7
+ I / II SEMESTER III SEMESTER V SEMESTER VII SEMESTER
 Course (Course Code) Course (Course Code) Course (Course Code) Course (Course Code) 
- (2.00 PM to 5.00 PM)   (9.30 AM to 12.30 PM)   (9.30 AM to 12.30 PM)  (2.00 PM to 5.00 PM)
+ (2.00 PM to 5.00 PM) (9.30 AM to 12.30 PM) (9.30 AM to 12.30 PM) (2.00 PM to 5.00 PM)
 Operations Research
 15EMEC401
 Fluid Mechanics & Hydraulic 
@@ -302,7 +287,7 @@ For 8th Semester Students Only
 BACKLOG TIME TABLE FOR I, II, III, V & VII SEMESTER B.E. 
 EXAMINATIONS MAY 2023
 SCHOOL OF MECHANICAL ENGINEERING
-Date                      
+Date 
  (Day)
 22/05/2023 
 (Monday) 

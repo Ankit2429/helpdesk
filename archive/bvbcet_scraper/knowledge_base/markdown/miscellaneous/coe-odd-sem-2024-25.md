@@ -1,16 +1,13 @@
 # PDF Document: coe-odd-sem-2024-25
-
-**PDF Source:** https://www.kletech.ac.in/pdf/coe-odd-sem-2024-25.pdf
-
-## Page 1
-
-KLtrr;?i:':s[X
+ **PDF Source:** https://www.kletech.ac.in/pdf/coe-odd-sem-2024-25.pdf
+ ## Page 1
+ KLtrr;?i:':s[X
 Creahng Value
 Leveragrnp KnowledBe-
 ANAM 0201/1.0
 CALENDAR OF EVENTS
 ODD SEMESTER2024-2025
-[For B.E ({"', 3'o & 5'n), B.Arch (1"t,3'{, 5'h & 7'h), BBA (1" & 3'o), BGA (1" & 3'o), B.Com (1" & 3'o) &
+[For B.E ({"', 3'o & 5'n), B.Arch (1"t, 3'{, 5'h & 7'h), BBA (1" & 3'o), BGA (1" & 3'o), B.Com (1" & 3'o) &
 B.Sc (Fl[D) (1"', 3'o & 5'h) Semesters]
 Week
 No. Month Week days No of
