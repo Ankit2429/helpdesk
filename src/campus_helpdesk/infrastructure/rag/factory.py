@@ -3,6 +3,7 @@
 from campus_helpdesk.application.rag_pipeline import RAGPipeline
 from campus_helpdesk.config.settings import Settings
 from campus_helpdesk.infrastructure.rag.faiss_store import FAISSSimilarityStore
+from campus_helpdesk.infrastructure.rag.hybrid_retriever import HybridRetriever
 from campus_helpdesk.infrastructure.rag.knowledge_loader import KnowledgeLoader
 from campus_helpdesk.infrastructure.rag.semantic_chunker import SemanticDocumentChunker
 from campus_helpdesk.infrastructure.rag.sentence_transformer_embeddings import (
@@ -20,7 +21,7 @@ def create_rag_pipeline(settings: Settings) -> RAGPipeline:
         show_progress=settings.embedding_show_progress,
         local_files_only=settings.embedding_local_files_only,
     )
-    store = FAISSSimilarityStore(
+    faiss_store = FAISSSimilarityStore(
         embeddings,
         settings.faiss_index_path,
         settings.faiss_allow_dangerous_deserialization,
@@ -29,12 +30,20 @@ def create_rag_pipeline(settings: Settings) -> RAGPipeline:
             "embedding_normalize": settings.embedding_normalize,
         },
     )
+
+    hybrid_retriever = HybridRetriever(
+        similarity_store=faiss_store,
+        bm25_top_k=5,
+        dense_top_k=settings.rag_search_limit,
+        final_top_k=settings.rag_search_limit,
+    )
+
     if settings.faiss_index_path.exists() and (settings.faiss_index_path / "index.faiss").exists():
         try:
-            store.load()
+            hybrid_retriever.load()
         except Exception as e:
             import logging
-            logging.warning(f"Could not load FAISS index from {settings.faiss_index_path}: {e}")
+            logging.warning(f"Could not load hybrid FAISS index from {settings.faiss_index_path}: {e}")
 
     return RAGPipeline(
         document_loader=KnowledgeLoader(
@@ -47,6 +56,6 @@ def create_rag_pipeline(settings: Settings) -> RAGPipeline:
             separators=settings.rag_chunk_separators,
             add_start_index=settings.rag_add_start_index,
         ),
-        similarity_store=store,
+        similarity_store=hybrid_retriever,
         search_limit=settings.rag_search_limit,
     )
