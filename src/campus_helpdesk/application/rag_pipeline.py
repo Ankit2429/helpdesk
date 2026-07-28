@@ -2,6 +2,7 @@
 
 import logging
 from pathlib import Path
+from typing import Any
 
 from campus_helpdesk.application.knowledge_ports import (
     DocumentChunker,
@@ -22,11 +23,15 @@ class RAGPipeline:
         document_chunker: DocumentChunker,
         similarity_store: SimilarityStore,
         search_limit: int,
+        reranker: Any | None = None,
+        reranker_top_n: int = 10,
     ) -> None:
         self._document_loader = document_loader
         self._document_chunker = document_chunker
         self._similarity_store = similarity_store
         self._search_limit = search_limit
+        self._reranker = reranker
+        self._reranker_top_n = reranker_top_n
 
     def ingest_file(self, source_path: Path, persist: bool = True) -> IngestionResult:
         """Load, chunk, index, and optionally persist a knowledge source file (.pdf or .md)."""
@@ -62,6 +67,10 @@ class RAGPipeline:
         result_limit = limit if limit is not None else self._search_limit
         if result_limit < 1:
             raise ValueError("Search limit must be at least one.")
+
+        if self._reranker is not None:
+            candidates = self._similarity_store.search(query, limit=self._reranker_top_n)
+            return self._reranker.rerank(query, candidates, top_m=result_limit)
 
         return self._similarity_store.search(query, result_limit)
 

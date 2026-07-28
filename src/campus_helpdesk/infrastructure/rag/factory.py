@@ -2,6 +2,7 @@
 
 from campus_helpdesk.application.rag_pipeline import RAGPipeline
 from campus_helpdesk.config.settings import Settings
+from campus_helpdesk.infrastructure.rag.cross_encoder_reranker import CrossEncoderReranker
 from campus_helpdesk.infrastructure.rag.faiss_store import FAISSSimilarityStore
 from campus_helpdesk.infrastructure.rag.hybrid_retriever import HybridRetriever
 from campus_helpdesk.infrastructure.rag.knowledge_loader import KnowledgeLoader
@@ -33,9 +34,17 @@ def create_rag_pipeline(settings: Settings) -> RAGPipeline:
 
     hybrid_retriever = HybridRetriever(
         similarity_store=faiss_store,
-        bm25_top_k=5,
-        dense_top_k=settings.rag_search_limit,
-        final_top_k=settings.rag_search_limit,
+        bm25_top_k=settings.reranker_top_n,
+        dense_top_k=settings.reranker_top_n,
+        final_top_k=settings.reranker_top_n,
+    )
+
+    reranker = CrossEncoderReranker(
+        model_name=settings.reranker_model,
+        device=settings.embedding_device,
+        enabled=settings.reranker_enabled,
+        top_n=settings.reranker_top_n,
+        top_m=settings.reranker_top_m,
     )
 
     if settings.faiss_index_path.exists() and (settings.faiss_index_path / "index.faiss").exists():
@@ -58,4 +67,6 @@ def create_rag_pipeline(settings: Settings) -> RAGPipeline:
         ),
         similarity_store=hybrid_retriever,
         search_limit=settings.rag_search_limit,
+        reranker=reranker,
+        reranker_top_n=settings.reranker_top_n,
     )

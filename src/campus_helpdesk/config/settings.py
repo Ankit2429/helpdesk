@@ -44,6 +44,10 @@ class Settings(BaseSettings):
     rag_add_start_index: bool = True
     rag_search_limit: int = 4
     rag_distance_threshold: float = 2.0
+    reranker_enabled: bool = True
+    reranker_model: str = "cross-encoder/ms-marco-MiniLM-L-6-v2"
+    reranker_top_n: int = 10
+    reranker_top_m: int = 4
     webcam_index: int = 0
     camera_fps: int = 15
     person_detection_reset_frames: int = 30
