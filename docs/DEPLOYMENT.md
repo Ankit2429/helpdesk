@@ -1,4 +1,4 @@
-﻿# Campus Helpdesk — Deployment Guide
+# Campus Helpdesk — Deployment Guide
 
 Complete guide for first-time setup, running, troubleshooting, and packaging the Campus Helpdesk Robot application on Windows.
 
@@ -125,16 +125,16 @@ To switch models, change `OLLAMA_MODEL=qwen2.5:3b` in `.env`. No source code cha
 
 ---
 
-## 7. Ingest PDF Knowledge Base
+## 7. Build Canonical Knowledge Base Index
 
-Place PDF files into `data/knowledge/`:
+Place Markdown files into `data/canonical_markdown/`:
 
 ```
 data/
-  knowledge/
-    library.pdf
-    departments.pdf
-    schedule.pdf
+  canonical_markdown/
+    library_hours.md
+    departments.md
+    academic_schedule.md
 ```
 
 Then build the FAISS vector index:

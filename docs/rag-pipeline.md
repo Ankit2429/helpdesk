@@ -11,7 +11,7 @@ from campus_helpdesk.config.settings import get_settings
 from campus_helpdesk.infrastructure.rag.factory import create_rag_pipeline
 
 pipeline = create_rag_pipeline(get_settings())
-pipeline.ingest_pdf(Path("data/knowledge/campus-handbook.pdf"))
+pipeline.ingest_file(Path("data/canonical_markdown/library_hours.md"))
 results = pipeline.search("Where is the admissions office?")
 ```
 

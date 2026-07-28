@@ -30,10 +30,10 @@
 ### 3. FAISS Vector Index Missing or Empty
 
 - **Symptom**: API returns `"I don't have information about that in my knowledge base."` for all queries.
-- **Cause**: PDF documents in `data/knowledge/` have not been ingested into `data/faiss/`.
+- **Cause**: Markdown documents in `data/canonical_markdown/` have not been ingested into `data/faiss/`.
 - **Resolution**:
   ```powershell
-  # Re-ingest knowledge PDFs
+  # Re-ingest canonical knowledge base
   uv run python -m campus_helpdesk.ingest
   ```
 
@@ -61,6 +61,6 @@
 ### 6. Out-of-Domain Hallucination Guarding
 
 - **Symptom**: System declines to answer question.
-- **Cause**: The search distance score exceeded `RAG_DISTANCE_THRESHOLD` (default 1.0).
+- **Cause**: The search distance score exceeded `RAG_DISTANCE_THRESHOLD` (default 2.0).
 - **Resolution**:
-  - If question is valid campus domain knowledge, add relevant PDF documentation to `data/knowledge/` and run `campus_helpdesk.ingest`.
+  - If question is valid campus domain knowledge, add relevant Markdown documentation to `data/canonical_markdown/` and run `campus_helpdesk.ingest`.
