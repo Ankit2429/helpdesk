@@ -47,6 +47,10 @@ class CanonicalIndexBuilder:
         if not md_files:
             raise ValueError(f"No canonical Markdown files (.md) found in {self.canonical_dir}")
 
+        if force_rebuild:
+            if hasattr(self.similarity_store, "reset"):
+                self.similarity_store.reset()
+
         # Load existing manifest for incremental hash comparisons
         previous_hashes = self._load_previous_document_hashes() if not force_rebuild else {}
 

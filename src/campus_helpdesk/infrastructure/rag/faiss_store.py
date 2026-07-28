@@ -34,6 +34,11 @@ class FAISSSimilarityStore:
         self._store: FAISS | None = None
         self._store_lock = RLock()
 
+    def reset(self) -> None:
+        """Reset in-memory FAISS store state."""
+        with self._store_lock:
+            self._store = None
+
     def add(self, documents: Sequence[KnowledgeDocument]) -> None:
         """Embed and add documents, creating the local index on first use."""
         with self._store_lock:

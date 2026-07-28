@@ -4,6 +4,7 @@ import hashlib
 import logging
 import time
 from collections.abc import Sequence
+from pathlib import Path
 from typing import Any
 
 from campus_helpdesk.domain.knowledge import KnowledgeDocument, SearchResult
@@ -32,6 +33,23 @@ class HybridRetriever:
         self.final_top_k = final_top_k
         self.rrf_k = rrf_k
         self._bm25_indexed = len(self.bm25_store._documents) > 0
+
+    @property
+    def _embedding_metadata(self) -> dict[str, Any]:
+        """Forward embedding metadata from underlying FAISS store."""
+        return getattr(self.similarity_store, "_embedding_metadata", {})
+
+    @property
+    def _index_path(self) -> Any:
+        """Forward index path from underlying FAISS store."""
+        return getattr(self.similarity_store, "_index_path", Path("data/faiss"))
+
+    def reset(self) -> None:
+        """Reset FAISS vector store and BM25 index."""
+        if hasattr(self.similarity_store, "reset"):
+            self.similarity_store.reset()
+        self.bm25_store = BM25SearchStore()
+        self._bm25_indexed = False
 
     def index_bm25(self, documents: Sequence[KnowledgeDocument]) -> None:
         """Populate BM25 keyword index from canonical KnowledgeDocument chunks."""
