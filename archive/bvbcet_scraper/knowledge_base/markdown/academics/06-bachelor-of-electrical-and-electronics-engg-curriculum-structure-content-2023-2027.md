@@ -1,45 +1,18 @@
 # PDF Document: 06-bachelor-of-electrical-and-electronics-engg-curriculum-structure-content-2023-2027
+
 **PDF Source:** https://www.kletech.ac.in/pdf/06-bachelor-of-electrical-and-electronics-engg-curriculum-structure-content-2023-2027.pdf
 
 ## Page 1
 
- 
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
- 
- 
- 
- 
-  
- 
  
 Curriculum Structure and Curriculum Content for the Academic year 2023-27 
 Department: Electrical & Electronics Engineering 
 Program: UG 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 2
 
- 
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
- 
  
 Table of Contents 
 Vision and Mission of KLE Technological University 3 
@@ -58,29 +31,16 @@ Semester- VIII 16
 List of Program Electives 17 
 Curriculum Content- Course wise 19 
  
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 3
 
- 
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
  
 Vision and Mission of KLE Technological University 
  
 Vision 
  
- 
 KLE Technological University will be a national leader in Higher Education–recognised globally 
 for innovative culture, outstanding student experience, research excellence and social impact. 
- 
  
 Mission 
  
@@ -104,19 +64,14 @@ life.
 As a unified community of faculty, staff and students, we work together with the spirit of 
 collaboration and partnership to accomplish our mission. 
  
- 
- 
 Back 
 
 ## Page 4
 
- 
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 Vision and Mission Statements of the School / Department 
  
 Vision 
- 
  
 KLE Tech Electrical & Electronics Engineering school will be well recognized nat ionally and 
 internationally for excellence in its educational programs, innovative research and impact on 
@@ -134,23 +89,10 @@ achieve personal and professional growth.
 ● To collaborate within and beyond the discipline to create solutions that benefit 
 humanity and society. 
  
- 
- 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 5
 
- 
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
  
 Program Educational Objectives/Program Outcomes and Program-Specific Objectives 
@@ -197,8 +139,6 @@ community and society at large, such as being able to comprehend and write effec
 
 ## Page 6
 
- 
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 reports and design documentation, make effective presentations considering cultural, 
 language, and learning differences. 
@@ -221,11 +161,9 @@ Back
 
 ## Page 7
 
- 
 FORM 
 ISO 21001:2018 
 Document #: FMCD2005  
- 
  
 Rev: 1.0 
 Title: Curriculum structure semester wise Year:2023-27 
@@ -330,7 +268,6 @@ Systems
 25EEEC302 
  (3-0-1) 
  
- 
 Automotive Electronics 
 23EEEC303 
 ( 2-0-1) 
@@ -397,7 +334,6 @@ Program Elective 5
 (25EEEEXXX)      
 (3-0-0) 
  
- 
 Professional 
 communication 
 15EHSH101 
@@ -422,14 +358,11 @@ Senior Design Project
 21EEEW401 
  (0-0-6) 
  
-
 ## Page 8
 
- 
 FORM 
 ISO 21001:2018 
 Document #: FMCD2005  
- 
  
 Rev: 1.0 
 Title: Curriculum structure semester wise Year:2023-27 
@@ -460,7 +393,6 @@ Program Elective  2
 (25EEEEXXX)        
     (3-0-0) 
    
-  
 Digital Circuits 
 Laboratory 
 15EEEP203 
@@ -477,7 +409,6 @@ Operation & Control
 25EEEC303                                                                                                                                                                                       
  (2-0-1) 
    
-  
   Microcontroller 
 Architecture & 
 Programming 
@@ -498,7 +429,6 @@ Minor Project
 24EEEW301 
 (0-0-6) 
    
-   
 Data Structure 
 Applications Lab 
 23EEEF202 
@@ -512,20 +442,15 @@ Mini project
 23EEEW301 
  (0-0-3) 
    
-  
 Credits 22 22 24 25 25 25 17 17 
- 
  
 Back 
  
-
 ## Page 9
 
- 
 FORM 
 ISO 21001:2018 
 Document #: FMCD2005  
- 
  
 Rev: 1.0 
 Title: Curriculum structure semester wise Year:2023-27 
@@ -533,7 +458,6 @@ Title: Curriculum structure semester wise Year:2023-27
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 Curriculum Structure-Semester wise 
 Semester - I 
- 
  
  Back 
  
@@ -556,11 +480,9 @@ Innovation HSS 0-1-1 2 4 80 20 100 3 hours
 
 ## Page 10
 
- 
 FORM 
 ISO 21001:2018 
 Document #: FMCD2005  
- 
  
 Rev: 1.0 
 Title: Curriculum structure semester wise Year:2023-27 
@@ -568,8 +490,6 @@ Title: Curriculum structure semester wise Year:2023-27
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
  
 Semester - II 
- 
- 
  
  Back 
 No Code Course Category L-T-P Credits Contact 
@@ -590,11 +510,9 @@ Structures ES 0-0-3 3  6  80 20 100 3 hours
 
 ## Page 11
 
- 
 FORM 
 ISO 21001:2018 
 Document #: FMCD2005  
- 
  
 Rev: 1.0 
 Title: Curriculum structure semester wise Year:2023-27 
@@ -633,11 +551,9 @@ Programming ES 2-0-1 3 4 50 50 100 2 hours
 
 ## Page 12
 
- 
 FORM 
 ISO 21001:2018 
 Document #: FMCD2005  
- 
  
 Rev: 1.0 
 Title: Curriculum structure semester wise Year:2023-27 
@@ -679,11 +595,9 @@ ES
 
 ## Page 13
 
- 
 FORM 
 ISO 21001:2018 
 Document #: FMCD2005  
- 
  
 Rev: 1.0 
 Title: Curriculum structure semester wise Year:2023-27 
@@ -716,19 +630,15 @@ Lab PC 0-0-1 1 2   80  20   100 2 hours
 
 ## Page 14
 
- 
 FORM 
 ISO 21001:2018 
 Document #: FMCD2005  
- 
  
 Rev: 1.0 
 Title: Curriculum structure semester wise Year:2023-27 
  
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 Semester- VI 
- 
- 
  
 Back 
 No Code Course Category    L-T-P Credits Contact  
@@ -752,11 +662,9 @@ Operation & Control PC 2-0-1 3 4 67 33 100 2 hours
 
 ## Page 15
 
- 
 FORM 
 ISO 21001:2018 
 Document #: FMCD2005  
- 
  
 Rev: 1.0 
 Title: Curriculum structure semester wise Year:2023-27 
@@ -764,10 +672,7 @@ Title: Curriculum structure semester wise Year:2023-27
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 Semester- VII 
  
- 
- 
 Back 
- 
  
 No Code Course  Category L-T-P Credits Contact 
 Hours ISA ESA Total 
@@ -788,11 +693,9 @@ HSC 0-0-0 Audit 2 50 50 100  3 hours
 
 ## Page 16
 
- 
 FORM 
 ISO 21001:2018 
 Document #: FMCD2005  
- 
  
 Rev: 1.0 
 Title: Curriculum structure semester wise Year:2023-27 
@@ -802,11 +705,8 @@ Semester- VIII
  
  Back 
  
- 
 Semester I II III IV V VI VII VIII Total 
 Credits 22 22 24 25 25 25 17 17 177 
- 
-  
  
 No Code Course Category L-T-P Credits Contact 
 Hours ISA ESA Total 
@@ -820,20 +720,16 @@ Duration
 
 ## Page 17
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 17 
- 
  
 List of Program Electives  
 Sr. No Name of the Course Course Code 
@@ -858,20 +754,16 @@ VII Semester
 
 ## Page 18
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 18 
- 
  
 17.  Modern Control Systems 25EEEE410 
 18.  Digital Control Systems 25EEEE411 
@@ -882,33 +774,18 @@ KLE Tech Confidential                                                           
  
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
-  
- 
-
 ## Page 19
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 19 
- 
  
 Curriculum Content- Course wise 
 I Semester Bachelor of Engineering (Electrical & Electronics Engineering) 
@@ -932,9 +809,6 @@ Curvature, Indeterminate forms, L- Hospital’s rule-Examples
 MATLAB: Optimization problems. Curvature problems. 
 07 Hrs 
  
- 
- 
- 
 13 Hrs 
  
 Unit II 
@@ -952,10 +826,6 @@ Trapezoidal rule, Simpson’s 1/3 rule
 MATLAB: problems on arc length, area, volume and surface area 
 06 Hrs 
  
- 
- 
- 
- 
 14 Hrs 
 Unit III 
 Chapter No. 5 Ordinary differential equations of first order                                                                            
@@ -966,20 +836,16 @@ problems-Euler’s method, Modified Euler’s method and Runge-Kutta method
 
 ## Page 20
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 20 
- 
  
 (b) Applications of first order differential equations -Orthogonal trajectories 
 growth and decay problems, mixture problems, Electrical circuits, falling bodies. 
@@ -992,28 +858,20 @@ Reference Books:
     2009. 
 2.Thomas Calculus, George B Thomas, Pearson India, 12ed, 2010 
  
- 
- 
 Back 
  
-  
-
 ## Page 21
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 21 
- 
  
 Program: UG Semester: I 
 Course Title:  Engineering Physics Course Code: 22EPHB101 
@@ -1050,23 +908,18 @@ parameters, numerical.
  
 05 Hrs 
  
-
 ## Page 22
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 22 
- 
  
                 Unit II  
 Chapter No. 3 ELECTROSTATICS                                                                                                                
@@ -1083,7 +936,6 @@ electric field, polarization, polarization types, frequency dependence of polari
 Capacitors, types of capacitors, capacitors with dielectrics, numericals.                                                                            
 16 Hrs 
  
-  
                   Unit III  
 Chapter No. 4 ELECTROMAGNETICS:                                                                                                             
 Analysis Model: Particle in a magnetic field, motion of a charged particle in a uniform 
@@ -1113,20 +965,16 @@ Back
 
 ## Page 23
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 23 
- 
  
 Program: UG Semester: I 
 Course Title: Basic Electronics Course Code: 18EECF101 
@@ -1177,20 +1025,16 @@ Detection of AM waves: envelope detector. Double side band suppressed carrier
 
 ## Page 24
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 24 
- 
  
 modulation (DSBSC), Generation of DSBSC wave : balanced modulator, Super 
 heterodyne principle. 
@@ -1212,24 +1056,18 @@ India, 2000
 5. Ramakant Gaikwad , Operational Amplifiers & Applications, PHI, 2000 
 Back 
  
-  
-
 ## Page 25
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 25 
- 
  
 Program: UG Semester: I 
 Course Title: Basic Mechanical Engineering Course Code: 22EMEF101 
@@ -1277,20 +1115,16 @@ Sheet Metal Assembly.                                                           
 
 ## Page 26
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 26 
- 
  
 ● Demonstration of various machine tools such as lathe, milling, drilling and 
 grinding machines and safety precautions in workshop. 
@@ -1310,28 +1144,18 @@ I & II, 11th edition, Media Promoters and Publishers, 2001
 Roger Timings, Basic Manufacturing, Third edition, Newnes, An imprint of Elsevier, 2010 
 Back 
  
- 
- 
- 
- 
-  
-
 ## Page 27
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 27 
- 
  
 Program: UG Semester: I 
 Course Title: C Programming for Problem solving Course Code: 18ECSP101 
@@ -1381,20 +1205,16 @@ Back
 
 ## Page 28
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 28 
- 
  
 Program: UG Semester: I 
 Course Title: Engineering Exploration Course Code: 22ECRP101 
@@ -1441,23 +1261,18 @@ Course Project
 Reviews 24 Hrs 
 Back 
  
-
 ## Page 29
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 29 
- 
  
 Back 
   
@@ -1483,20 +1298,16 @@ ii. 2. Stepper motor drive
 
 ## Page 30
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 30 
- 
  
 Program: UG Semester: II 
 Course Title: Multivariable Calculus Course Code: 18EMAB102 
@@ -1541,23 +1352,18 @@ Reference Books:
 2. Thomas Calculus, George B Thomas, Pearson India, 12ed, 2010 
 Back 
  
-
 ## Page 31
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 31 
- 
  
 II Semester Bachelor of Engineering (Electrical & Electronics Engineering) 
 Program: UG   Semester : II 
@@ -1610,20 +1416,16 @@ refining process. Crystal growth: preparation of single crystal silicon by Zhoch
 
 ## Page 32
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 32 
- 
  
 crystal pulling technique and numerical problems. Crystal s licing and wafer 
 preparation; Fabrication process: thermal oxidation, diffusion, ion implantation, 
@@ -1651,20 +1453,16 @@ analysis: UV Spectrophotometer - Instrumentation and applications.
 
 ## Page 33
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 33 
- 
  
 Text Books:  
 1.  A text Book of Engineering Chemistry, 1st edition, Dara. S. S, S. Chand and Co. Ltd., 
@@ -1695,24 +1493,18 @@ John Wiley and Sons, 2007, New York.
 Anand, Himalaya Publishing House, Pvt. Ltd, 2010, Mumbai. 
 Back 
  
-  
-
 ## Page 34
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 34 
- 
  
 Program: UG Semester: II 
 Course Title: Problem Solving with Data Structures Course Code: 18ECSP102 
@@ -1751,24 +1543,18 @@ Reference Books:
 2. Data Structures and Algorithms Made Easy – Narshiman Karumunchi, Career Monk 
 Back 
  
-  
-
 ## Page 35
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 35 
- 
  
 Program: UG Semester: II 
 Course Title: Engineering Mechanics Course Code: 15ECVF101 
@@ -1806,20 +1592,16 @@ Unit II
 
 ## Page 36
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 36 
- 
  
 Chapter No. 4:  Equilibrium of a force system (Chapter 3 contd..)                                                       
 Conditions of equilibrium, types of support and loading for a statically determinate 
@@ -1842,20 +1624,16 @@ Unit – III
 
 ## Page 37
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 37 
- 
  
 Chapter No. 7:  Centroid of Plane Figures                                                                                           
 Introduction, Definition, Methods of determining the centroid, axis of reference, axis 
@@ -1888,25 +1666,18 @@ Reference Books:
  
 Back 
  
- 
-  
-
 ## Page 38
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 38 
- 
  
 Program: UG Semester: II 
 Course Title: Design Thinking for Social Innovation Course Code: 20EHSP101 
@@ -1995,14 +1766,6 @@ Reading assignments
 ● Handout on “Create 
 Mindsets” 
  
- 
- 
- 
- 
- 
- 
- 
- 
 ● (How to train the Dragon?  
 Common Video for all the 
 mindsets) 
@@ -2012,24 +1775,18 @@ Creative Confid ence by
 David Kelley – IDEO 
 Founder)  
  
- 
-
 ## Page 39
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 39 
- 
  
 (Confusion is the 
 Welcome doormat at the 
@@ -2107,20 +1864,16 @@ Reading assignments
 
 ## Page 40
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 40 
- 
  
 ● Plan for the Research 
 ● Development of 
@@ -2184,20 +1937,16 @@ study
 
 ## Page 41
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 41 
- 
  
 3.0 Ideation 
 3.2 Prototyping 
@@ -2286,20 +2035,16 @@ study
 
 ## Page 42
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 42 
- 
  
 Use template 9: 
 Reflection on the 
@@ -2308,27 +2053,20 @@ Class Presentations
 Final Presentation- After 
 Implementation 
  
- 
 Back 
  
-  
-
 ## Page 43
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 43 
- 
  
 Program: UG Semester: II 
 Course Title: Basic Electrical Engineering Course Code: 18EEEF101 
@@ -2380,20 +2118,16 @@ efficiency, Numerical of high and low charging rates, Battery sizing. Numerical.
 
 ## Page 44
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 44 
- 
  
 Text Books:  
 1.Hughes, Electrical & Electronic Technology, 8th , Pearson Education, 2001 
@@ -2413,37 +2147,18 @@ Reference Books:
  
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 45
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 45 
- 
  
 Program: UG Semester: II 
 Course Title: Professional Communication  Code: 15EHSH101 
@@ -2474,29 +2189,18 @@ Reference Books:
  
 Back 
  
- 
- 
- 
- 
- 
-  
-
 ## Page 46
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 46 
- 
  
 III Semester Bachelor of Engineering (Electrical & Electronics Engineering) 
 Program: UG  Semester: III 
@@ -2546,20 +2250,16 @@ and cdf, mean, variance, covariance, correlation.
 
 ## Page 47
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 47 
- 
  
 (b) Introduction to Random process, stationary process, mean, correlation and 
 covariance function, autocorrelation function, cross correlation, Power spectral 
@@ -2580,23 +2280,18 @@ TATA McGraw-Hill Edition 2007
  
  Back 
   
-
 ## Page 48
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 48 
- 
  
 Program: UG  Semester: III 
 Course Title: Calculus and Integral Transforms 
@@ -2646,20 +2341,16 @@ differential equations by Laplace transform method.
 
 ## Page 49
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 49 
- 
  
 Chapter No. 7 Numerical solution of Initial value problem:  Numerical solution of 
 initial value problems by Euler’s Method, Modified Euler’s method and Runge Kutta 
@@ -2678,35 +2369,18 @@ Reference Books:
 4. Ian Glover & Peter Grant, Digital Communications, 2nd Ed, Pearson 2012. 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
-
 ## Page 50
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 50 
- 
  
 Program: UG  Semester: III 
 Course Title: Corporate Communication Course Code: 24EHSA201 
@@ -2740,29 +2414,18 @@ Reference Books:
  
 Back 
  
- 
- 
- 
- 
- 
-  
-
 ## Page 51
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 51 
- 
  
 Program: UG  Semester: III 
 Course Title: Circuit Analysis Course Code: 19EEEC201 
@@ -2813,20 +2476,16 @@ Reference Books:
 
 ## Page 52
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 52 
- 
  
 1. Joseph Edminister, Mahmood Nahavi, Electric Circuits, 3rd, Tata McGra, 1991 
 2. Bruce Carlson, Circuits, 3rd, Thomson Le, 2002 
@@ -2838,26 +2497,18 @@ Electronics, 3rd, Pearson Ed, 2005
  
 Back 
  
- 
- 
-  
-
 ## Page 53
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 53 
- 
  
 Program: UG  Semester: III 
 Course Title: Analog Electronics Circuits  Course Code: 23EEEC201 
@@ -2907,20 +2558,16 @@ single stage amplifiers. Derivation of CS, CG and CD amplifiers parameters and i
 
 ## Page 54
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 54 
- 
  
 comparison. Implications on gain and Bandwidth. High frequency model of the 
 MOSFET considering the internal capacitance. 
@@ -2962,23 +2609,18 @@ Pearson Education, 2003
  
  Back 
   
-
 ## Page 55
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 55 
- 
  
 Program: UG  Semester: III 
 Course Title: Electrical Power Generation, Transmission & 
@@ -3029,20 +2671,16 @@ grading and inter sheath grading, testing of cables
 
 ## Page 56
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 56 
- 
  
 Chapter No. 6. Power Quality  
 Power quality Definition, Power Quality=Voltage Qu ality, Concerns about Power Quality, 
@@ -3064,23 +2702,18 @@ Grigsby, 2012
  
 Back 
   
-
 ## Page 57
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 57 
- 
  
 Program: UG  Semester: III 
 Course Title: Digital Circuits Course Code: 19EEEC203 
@@ -3117,7 +2750,6 @@ Mod-n Counter using clocked JK Flip-Flops Design of a Synchronous Mod-n Counter
 using clocked D, T or SR Flip-Flops. 
 10 Hrs  
          
- 
 Unit-III 
 Chapter No.6 Sequential Circuit Design  
  Introduction to Sequential Circuit Design, Mealy and Moore Models, State Machine 
@@ -3132,20 +2764,16 @@ memory, SRAM, DRAM, NVRAM.
 
 ## Page 58
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 58 
- 
  
 Text Books:  
 1. Donald D. Givone, Digital Principles and Design, Tata McGraw Hill Edition, 2002 
@@ -3159,24 +2787,18 @@ Reference Books:
  
 Back 
  
-  
-
 ## Page 59
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 59 
- 
  
 Program: UG Semester: III 
 Course Title: Microcontroller Architecture & Programming Course Code: 24EEEF201 
@@ -3228,20 +2850,16 @@ interrupt priority, interrupt vector table, interrupt service routine
 
 ## Page 60
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 60 
- 
  
 Text Books: 
 1. " The 8051 Microcontroller  Architecture, Programming & Applications "  by  ' Kenneth  J. 
@@ -3253,28 +2871,18 @@ Reference Books:
  
  Back 
  
- 
- 
- 
- 
-  
-
 ## Page 61
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 61 
- 
  
 Program: UG Semester: III  
 Laboratory Title: Analog Electronics Lab Course Code: 23EEEP201 
@@ -3315,23 +2923,18 @@ Reference Books
  
 Back 
   
-
 ## Page 62
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 62 
- 
  
 Program: UG  Semester: III 
 Course Title: Digital Circuits lab Course Code: 15EEEP203 
@@ -3360,28 +2963,20 @@ display. Demonstrate the results on a general purpose PCB.
 Reference Books: 
 1. Donald D. Givone, Digital Principles and Design, Tata McGraw Hill Edition, 2002 
  
- 
 Back 
  
- 
- 
-
 ## Page 63
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 63 
- 
  
 Program: UG Semester : III 
 Course Title: C Programming  Course Code: 18EEEF201 
@@ -3426,23 +3021,18 @@ Learning, 2008.
  
  Back 
  
-
 ## Page 64
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 64 
- 
  
 IV Semester Bachelor of Engineering (Electrical & Electronics Engineering) 
 Program: UG Semester: IV 
@@ -3495,20 +3085,16 @@ Text Books
 
 ## Page 65
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 65 
- 
  
 2. David C. Lay, Linear Algebra and its Applications, 3ed, Pearson India, 2009 
 3. Peter V. O’neil, Advanced Engineering Mathematics, Thmoson – Books/Cole, 
@@ -3524,23 +3110,18 @@ publications, INC, New York, 1993
  
  Back 
   
-
 ## Page 66
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 66 
- 
  
 Program: UG Semester: IV 
 Course Title: Vector Calculus and Differential equations                                                    Course Code: 15EMAB242 
@@ -3587,20 +3168,16 @@ Back
 
 ## Page 67
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 67 
- 
  
 Program: UG Semester: IV 
 Course Title: Problem Solving & Analysis Course Code: 24EHSA202 
@@ -3636,26 +3213,20 @@ Sultan Chand and Sons, New Delhi, 2018
 7. Cambridge Advanced Learner’s Dictionary, Cambridge University Press. 
 8. Kaplan’s GRE guide 
  
- 
 Back 
   
-
 ## Page 68
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 68 
- 
  
 Program: UG Semester: IV 
 Course Title: Electrical Machines  Course Code: 19EEEC204 
@@ -3706,20 +3277,16 @@ Publications, Canada, 2nd Edition, 2001.
 
 ## Page 69
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 69 
- 
  
 3. Mehrdad Ehsani[et al.],“Modern electric, Hybrid electric, and Fuel Cell Vehicles: 
 fundamentals, theory, and design.”, CRC Press, 2005. 
@@ -3727,23 +3294,18 @@ fundamentals, theory, and design.”, CRC Press, 2005.
 Science Publications, 1989. 
 Back 
   
-
 ## Page 70
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 70 
- 
  
 Program: UG Semester: IV 
 Course Title: Linear Control Systems Course Code: 17EEEC204 
@@ -3793,20 +3355,16 @@ plot and phase plot, determination of gain and phase margins from Bode plot.
 
 ## Page 71
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 71 
- 
  
 Chapter No.8 Root locus diagrams: 
 Basic principle – magnitude and angle criterion, Rules to construct root locus 
@@ -3819,23 +3377,18 @@ Reference Books:
 1. M.Gopal, Control Systems-Principles and Design, 2, TMH, 2002. 
 Back 
   
-
 ## Page 72
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 72 
- 
  
 Program: UG Semester: IV 
 Course Title: ARM Processor & Applications  Course Code: 23EEEC202 
@@ -3887,20 +3440,16 @@ Text Books:
 
 ## Page 73
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 73 
- 
  
 Reference Books:  
 1. “ARM system Developer’s Guide”- Hardbound, Publication date: 2004 Imprint:  
@@ -3908,23 +3457,18 @@ Reference Books:
 2.   User manual on LPC21XX. 
  Back 
   
-
 ## Page 74
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 74 
- 
  
 Program:  UG Semester: IV 
 Course Title: Signals and Systems Course Code: 19EEEC205  
@@ -3970,23 +3514,18 @@ Wiley, 2004
  
 Back 
   
-
 ## Page 75
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 75 
- 
  
 Program: UG Semester: IV 
 Course Title: Power Electronics Course Code: 20EEEC201 
@@ -4039,20 +3578,16 @@ Reference Books:
 
 ## Page 76
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 76 
- 
  
 1. Rashid M. H, Power Electronics: Circuits, Devices and Applications, 3rd  edition, PHI, 
 New Delhi, 2000. 
@@ -4060,26 +3595,18 @@ New Delhi, 2000.
 3. Umanand, Power Electronics, 2nd edition, Wiley-India Publications, New –Delhi, 2009. 
  Back 
  
- 
-  
-
 ## Page 77
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 77 
- 
- 
  
 Program: IV Semester Bachelor of Engineering (Electrical & Electronics Engineering) 
 Course Title: ARM Microcontroller Lab Course Code: 23EEEP202 
@@ -4123,20 +3650,16 @@ Expt. No.9  Write a C program & demonstrate an interfacing of Alphanumeric I2C b
 
 ## Page 78
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 78 
- 
  
 Back 
   
@@ -4159,20 +3682,16 @@ power utilization
 
 ## Page 79
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 79 
- 
  
 Program: UG Semester : IV 
 Course Title: Digital System Design using Verilog Course Code: 18EEEP203 
@@ -4206,23 +3725,18 @@ Expt. No. 7. Advanced HDL Descriptions
 File operations in Verilog,  Memories: RAM, ROM, Block Memories( Xilinx IP) 08 Hrs 
 Back 
   
-
 ## Page 80
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 80 
- 
  
 Program: UG Semester: IV 
 Course Title: Data Structures Applications Lab Course Code: 23EEEF202 
@@ -4253,23 +3767,18 @@ Second Edition.
  
 Back 
   
-
 ## Page 81
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 81 
- 
  
 Program: UG Semester: IV 
 Course Title: Data Structures using C   Course Code: 23EEEF203   
@@ -4288,32 +3797,18 @@ Expt. No. 8 Programs to implement different sorting techniques.
 Expt. No. 9 Programming on hash tables 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
-  
-
 ## Page 82
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 82 
- 
  
 V Semester Bachelor of Engineering (Electrical & Electronics Engineering) 
 Program: UG  Semester: V 
@@ -4361,20 +3856,16 @@ Lab Experiments to be conducted
 
 ## Page 83
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 83 
- 
  
 1. Simulation of Power Electronic Converters fed Drives using Matlab / Simulink 
 or PLECS 
@@ -4393,23 +3884,18 @@ Reference Books:
 University Press, 2005. 
 Back 
   
-
 ## Page 84
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 84 
- 
  
 Program: UG  Semester: V 
 Course Title: Power System Analysis and Stability Course Code: 17EEEC302 
@@ -4461,20 +3947,16 @@ clearing angle, examples on EAC applications
 
 ## Page 85
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 85 
- 
  
 Chapter No.8:  Numerical solution of swing equation for stability analysis  
 Point by point method of solving swing equation, applications of Euler, modified 
@@ -4492,35 +3974,18 @@ Reference Books:
  
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
-
 ## Page 86
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 86 
- 
  
 Program: UG  Semester: V 
 Course Title: OS & Embedded Systems  Course Code: 25EEEC302 
@@ -4571,20 +4036,16 @@ List of experiments
 
 ## Page 87
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 87 
- 
  
 2. Write a C program to demonstrate the concept of basic RTOS programming by    
      using RTX RTOS 
@@ -4605,29 +4066,20 @@ Text Books
 Reference Books: 
 1. Qing Li with Caroline Yao, Real-Time Concepts for Embedded Systems, 1st edition 
  
- 
 Back 
  
- 
- 
-  
-
 ## Page 88
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 88 
- 
  
 Program: UG Semester: V 
 Course Title: Digital Signal Processing Course Code: 20EEEC301 
@@ -4675,20 +4127,16 @@ Back
 
 ## Page 89
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 89 
- 
  
 Program: UG Semester: V 
 Course Title: Linear Integrated Circuits Course Code: 18EEEC301 
@@ -4739,20 +4187,16 @@ Reference Books:
 
 ## Page 90
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 90 
- 
  
 2. James M. Fiore, “Op - Amps and Linear Integrated Circuits”, Thomson Learning, 2001. 
 3. Sergio Franco, “Design with Operational Amplifiers and Analog Integrated Circuits”, TMH,  
@@ -4760,23 +4204,18 @@ KLE Tech Confidential                                                           
 4. David A. Bell, “Operational Amplifiers and Linear IC’s”, 2nd edition, PHI/Pearson, 2004. 
 Back 
   
-
 ## Page 91
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 91 
- 
  
 Program: UG V Semester 
 Course Title: Machine Learning & Deep Learning Course Code: 24EEEC302 
@@ -4806,19 +4245,12 @@ Logistic Regression: Optimization (Gradient Descent),
 Multi-class classification (One-vs.-all classification using logistic regression),  
 Classical supervised learning algorithm- Support Vector Machine (SVM) 
  
- 
- 
- 
- 
- 
- 
 08 Hrs 
 Chapter No. 3 Performance Evaluation 
 Performance Evaluation of learning models: Metrics (Confusion matrix, Precision, 
 Recall, F1 Score, RoC curves), Modelling data and validating learning, Over fitting, 
 Trade of Bias and Variance, Methods to overcome over fitti ng (Feature reduction, 
 Regularization) 
- 
  
 04 Hrs 
 Unit - II 
@@ -4832,24 +4264,18 @@ reduction, Dimensionality Reduction: PCA- Principal Component Analysis
 Chapter No. 5 Introduction to Neural Network and deep learning Introduction to 
 Neural Networks (Motivation: non-linear model, Neurons and perception), Model 
  
- 
-
 ## Page 92
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 92 
- 
  
 representation: Neural Network Architecture (Activation units, Layers),  
 Neural Network : Initialization, Forwards propagation, and Cost function, Back 
@@ -4877,32 +4303,18 @@ Data Mining Inference and Prediction, 2, Springer, 2009
  
  Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 93
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 93 
- 
  
 Program: UG Semester: V 
 Course Title: Machines lab Course Code: 19EEEP301 
@@ -4936,27 +4348,18 @@ Experiments.(DOE)
  
 Back 
  
- 
- 
- 
-  
-
 ## Page 94
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 94 
- 
  
 Program: UG Semester: V 
 Course Title: Data Acquisition and Controls Lab Course Code: 23EEEP302 
@@ -4984,23 +4387,18 @@ of a given second order series RLC system.  (MATLAB/using any simulation tool)
  
 Back 
   
-
 ## Page 95
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 95 
- 
  
 Program: UG Semester: V 
 Course Title: Linear Algebra and Statistics  Course Code: 15EMAB302 
@@ -5049,20 +4447,16 @@ Reference Books:
 
 ## Page 96
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 96 
- 
  
 1. J. Susan Milton, Jesse C. Arnold, Introduction to Probability and Statistics: Principles and 
 Applications for Engineering and the Computing Sciences, 4 th Ed, TATA McGraw -Hill 
@@ -5071,23 +4465,18 @@ Edition 2007.
 India 2009. 
 Back 
   
-
 ## Page 97
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 97 
- 
  
 Program: UG Semester: V 
 Course Title: Arithmetical Thinking and Analytical 
@@ -5121,27 +4510,20 @@ Sons, New Delhi, 2018
 5. Cambridge Advanced Learner’s Dictionary, Cambridge University Press. 
 6. Kaplan’s GRE guide 
  
- 
 Back 
  
-  
-
 ## Page 98
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 98 
- 
  
 VI Semester Bachelor of Engineering (Electrical & Electronics Engineering) 
 Program: UG Sem: VI 
@@ -5189,20 +4571,16 @@ platform
 
 ## Page 99
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 99 
- 
  
 • ABS/TCS/ESP 
 • Seat-belt/Wiper Control 
@@ -5237,20 +4615,16 @@ Automotive Information, Springer, 2014
 
 ## Page 100
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 100 
- 
  
 Reference Books: 
 1. Ronald K Jurgen, Automotive Electronics Handbook, 2nd Edition, McGraw-Hill, 1999 
@@ -5261,24 +4635,18 @@ Techniques,  Elsevier Science, 2001
  
 Back 
  
-  
-
 ## Page 101
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 101 
- 
  
 Program: UG Semester : VI 
 Course Title: CMOS VLSI Circuits  Course Code: 23EEEC304 
@@ -5327,20 +4695,16 @@ Back
 
 ## Page 102
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 102 
- 
  
 Program: UG Sem: VI 
 Course Title: Power System Modelling, Operation & Control  Course Code: 25EEEC303 
@@ -5388,20 +4752,16 @@ Lab Experiments to be conducted
 
 ## Page 103
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 103 
- 
  
 4. Solution of load flow problem using Newton-Raphson method. 02 Hrs 
 5. Economic load dispatch without considering network losses  02 Hrs 
@@ -5425,24 +4785,18 @@ Reference Books:
 Juan J. Sanchez-Gasca, Power System Modelling, Computation 
 Back 
  
-  
-
 ## Page 104
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 104 
- 
  
 Program: UG Semester: VI 
 Course Title: CMOS VLSI Circuits Laboratory Course Code: 23EEEP304      
@@ -5469,24 +4823,18 @@ Text Books:
  
  Back 
  
-  
-
 ## Page 105
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 105 
- 
  
 Program: UG Semester: VI 
 Course Title: Industry Readiness & Leadership Skills  Course Code: 23EHSA304 
@@ -5519,23 +4867,18 @@ Reference Books:
  
 Back 
   
-
 ## Page 106
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 106 
- 
  
 Program: UG Semester: VI 
 Course Title: Professional Aptitude and Logical 
@@ -5563,24 +4906,18 @@ Reference Books:
  
 Back 
  
-  
-
 ## Page 107
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 107 
- 
  
 VII Semester Bachelor of Engineering (Electrical & Electronics Engineering) 
 Program: UG Sem: VII 
@@ -5627,20 +4964,16 @@ Text Books:
 
 ## Page 108
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 108 
- 
  
 1. Switch Gear & Protection by Sunil S. Rao, Khanna Publication. 
 Reference Books: 
@@ -5648,23 +4981,18 @@ Reference Books:
 2. Power System Protection & Switch Gear by Badriram & Vishwa Karma TMH 
 Back 
   
-
 ## Page 109
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 109 
- 
  
 Program: UG Semester : VII 
 Course Title: CIPE & EVS Course Code: 15EHSC402 
@@ -5695,7 +5023,6 @@ Meaning and purpose of Engineering Ethics, Responsibility  of Engineers, Impedim
 responsibility, Honesty, Integrity  and reliability, risks, safety & liability in engineering. 
 Bhopal Gas Tragedy, Titanic case. 
 Chapter No. 8 Intellectual Property Rights :  Intellectual Property Rights (IPRs) - Patents, 
-Copyright and Designs 
 Chapter No. 9 Ethical perspectives of professional bodies :  Ethical perspectives of 
 professional bodies- IEEE, ASME, NSPE and ABET, ASCE etc 
 Unit - III 
@@ -5709,20 +5036,16 @@ Text Books:
 
 ## Page 110
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 110 
- 
  
 1. Dr. J. N. Pandey, “Constitutional Law of India”, Central Law Agency, 2005 
 2. Dr. M.K. Bhandari, “Law relating to Intellectual Property Rights”, Central Law Publications, 
@@ -5735,24 +5058,18 @@ Reference Books:
 Publications 
 Back 
  
-  
-
 ## Page 111
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 111 
- 
  
 Program Electives 
 Program: Electrical & Electronics Engineering Sem: VI 
@@ -5803,20 +5120,16 @@ Edition, Mehrdad Ehsani, Yimin Gao, Ali Emadi, CRC Press, Taylor and Francis Gro
 
 ## Page 112
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 112 
- 
  
 Program: Electrical & Electronics Engineering Semester: VI 
 Course Title: Modelling & Analysis of Hybrid Electrical 
@@ -5860,27 +5173,19 @@ PYTHON/ any suitable. Design four panels of 12V 5 Amp each and connects them
 in series and parallel as shown. Simulate and verify the operation at various 
 insolation levels. 
   
- 
-
 ## Page 113
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
- 
  
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 113 
  
- 
-  
-  
 Case 1: Refer input irradiance table, Temp at 250 constant 
 Time  Irradianc
 e in 
@@ -5922,24 +5227,18 @@ am
 pm 
 0 
  
-
-
 ## Page 114
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 114 
- 
  
 Case 2: Constant irradiance as 1000 W/m2, Variable Temperature as 00,200, 
 400, 500 and 600 
@@ -5965,24 +5264,18 @@ Reference Books:
 1. Gilbert M Masters, Renewable and Efficient Electric Power Systems, Wiley Interscience, 
 New Jersey, 2004 
   
-
-
 ## Page 115
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 115 
- 
  
 Program: Electrical & Electronics Engineering Semester: VI 
 Course Title: Object Oriented Programming using C++ Course Code: 24EEEE305 
@@ -6034,20 +5327,16 @@ Back
 
 ## Page 116
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 116 
- 
  
 Program: Electrical & Electronics Engineering Semester : VI 
 Course Title: Generative AI Course Code: 25EEEE306 
@@ -6096,20 +5385,16 @@ head attention, position-wise feedforward networks.
 
 ## Page 117
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 117 
- 
  
 Transformer Architecture: breakdown of encoder and decoder stacks, Layer 
 normalization and residual connections, Masked self-attention in the decoder for 
@@ -6142,23 +5427,18 @@ images, text, and music with VAEs, GANs, LSTMs, Transformer models”, Packt Pub
 (2021); Packt Publishing Limited, 1-488 Pages, ISBN-13: 978-1800200883 
 Back 
   
-
 ## Page 118
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 118 
- 
  
 Program: Electrical & Electronics Engineering Semester: VI 
 Course Title:  Architectural Design of Integrated Circuits Course code: 24EEEE303 
@@ -6193,24 +5473,18 @@ Reference Books:
 4. Tools: Questa Sim,  Modelsim for Verilog, Cadance Geneus, Xilinx 14.2 ISE 
 Back 
  
-  
-
 ## Page 119
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 119 
- 
  
 Program: Electrical & Electronics Engineering Semester: VII 
 Course Title: Battery Management Systems Course Code: 25EEEE403 
@@ -6258,25 +5532,18 @@ Reference Books:
 Batteries in Electric Drive Vehicles”, John Wiley & Sons, 2015. 
 Back 
  
- 
-
 ## Page 120
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 120 
- 
- 
  
 Program: Electrical & Electronics Engineering Semester : VII 
 Course Title: Powertrain Control System Design Course Code: 25EEEE402 
@@ -6324,25 +5591,19 @@ References:
 
 ## Page 121
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
- 
  
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 121 
  
- 
 Back 
  
- 
-  
 1. Ned Mohan, Tore. M. Undeland and William. P Robbins, Power Electronics: Converters, 
 Applications and Design, John Wiley and Sons, 2003. 
 2. Marian P. Kazmierkowski, R. Krishnan and Frede Blaabjerg, Control in Power Electronics, 
@@ -6353,20 +5614,16 @@ Sons.
 
 ## Page 122
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 122 
- 
  
 Program: Electrical & Electronics Engineering Semester: VII 
 Course Title: Smart Grid Technologies Course Code: 25EEEE401 
@@ -6412,23 +5669,18 @@ Reference Books:
 Edition, Mehrdad Ehsani, Yimin Gao, Ali Emadi, CRC Press, Taylor and Francis Group, 2018 
 Back 
  
-
 ## Page 123
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 123 
- 
  
 Program: Electrical & Electronics Engineering Semester: VII 
  Course Title: Flexible AC Transmission System (FACTS) Course Code: 19EEEE401 
@@ -6455,7 +5707,6 @@ Basic concepts, Three phase full wave diode rectifier, Thyristor based converter
 Rectifier operation with gate tur n ON, Current sourced converter with turn OFF 
 devices,  Current sourced versus Voltage sourced converter. 
  
- 
 05 Hrs 
 Chapter No. 4 Objectives of Series and Shunt Compensation: 
 Objective of Shunt Compensation, Methods of Controllable VAR Generation, Static 
@@ -6477,23 +5728,18 @@ References Books:
 International Publishers, New-Delhi, 2007, ISBN 978 81 224 2142 2. 
 Back 
   
-
 ## Page 124
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 124 
- 
  
 Program: Electrical & Electronics Engineering Semester : VII 
 Course Title: Traction Systems for Electric Vehicles Course Code: 20EEEE401 
@@ -6539,20 +5785,16 @@ Structured Enquiry
 
 ## Page 125
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 125 
- 
  
 results of the simulation, draw practical conclusions from them and prepare a 
 technical report. 
@@ -6563,24 +5805,18 @@ Perspectives”, John Wiley & Sons, 2018.
  
 Back 
  
-  
-
 ## Page 126
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 126 
- 
  
 Program: Electrical & Electronics Engineering Semester: VII 
 Course Title: Nonlinear Control Systems Course Code: 25EEEE409 
@@ -6624,23 +5860,18 @@ Reference Book:
 1. M. Gopal, Control Systems-Principles and Design, TMH 2002, 2nd edition 
 Back 
   
-
 ## Page 127
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 127 
- 
  
 Program: Electrical & Electronics Engineering Semester : VII 
 Course Title: Modern Control Systems Course Code:25EEEE410 
@@ -6688,20 +5919,16 @@ Function approach, Lyapunov Stability Criterion
 
 ## Page 128
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 128 
- 
  
 Text Books: 
 1. Discrete-Time Control systems – K. Ogata, Pearson Education/PHI, 2nd Edition 
@@ -6710,23 +5937,18 @@ Reference Books:
 1. Digital Control and State Variable Methods by M.Gopal, TMH 
 Back 
   
-
 ## Page 129
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 129 
- 
  
 Program: Electrical & Electronics Engineering Semester : VII 
 Course Title: Switched Mode Power Converters Course Code: 25EEEE413 
@@ -6745,7 +5967,6 @@ the Ac line filter, the complet e DC power supply . ( Need for power factor corr
 Simulation demo…)  
 15 hrs  
  
- 
 Unit – II  
  Chapter No. 2. DC-AC Switched Mode Inverters:  
 Introduction, basic concepts of switch-mode inverters, single phase inverters, three phase 
@@ -6758,7 +5979,6 @@ Introduction, Generalized topology with a Common DC Bus, Converters Derived from
 Generalized Topology, Diode Clamped Topology, Flying Capacitor Topology, Multi -pulse 
 converter 
 05 hrs 
- 
  
 Chapter No. 4. Diode Clamped Multilevel Converters: 
 Introduction, Converter’s structure and Functional description: voltage clamping, 
@@ -6780,20 +6000,16 @@ Back
 
 ## Page 130
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 130 
- 
  
 Program: Electrical & Electronics Engineering Semester: VII 
 Course Title: Digital Control System Course Code: 25EEEE411 
@@ -6839,20 +6055,16 @@ Unit  - III
 
 ## Page 131
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 131 
- 
  
 Chapter No.7 Controllability, Observability & Stability: Concepts of 
 Controllability and Observability, Tests for controllability and Observability 
@@ -6870,23 +6082,18 @@ Reference Books:
  
 Back 
   
-
 ## Page 132
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 132 
- 
  
 Program: Electrical & Electronics Engineering Semester: VII 
 Course Title: Electricity & Safety Measures Course Code:  25EEEE412 
@@ -6931,20 +6138,16 @@ Books and references
 
 ## Page 133
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 133 
- 
  
 ● Course OEE-002; OEEL-001 of Programme “Certificate of Competency in Power Distribution” 
 being offered by SOET, IGNOU Block 2: Electrical Safety and Disaster Management of Course 
@@ -6954,24 +6157,18 @@ BEE-002:Energy Management,
 Technology(SOET), IGNOU 
 Back 
  
-  
-
 ## Page 134
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 134 
- 
  
 Program: Electrical & Electronics Engineering Semester: VII 
 Course Title: AUTOSAR Course Code: 25EEEE404 
@@ -7021,20 +6218,16 @@ and PDU Routing
 
 ## Page 135
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 135 
- 
  
 Text Books: 
 1. Oliver Scheid, AUTOSAR Compendium-part 1- Application and RTE, 2015. 
@@ -7043,24 +6236,18 @@ Text Books:
 4. David Smith, Kenneth Simpson, The Safety Critical Systems Handbook, 5th Edition, 2020 
 Back 
  
-  
-
 ## Page 136
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 136 
- 
  
 Program: Electrical and Electronics Engineering Semester:  VII Semester 
 Course Title:  Design for Testability Course Code: 25EEEE414 
@@ -7096,24 +6283,18 @@ Reference Books:
 Nature, 2021. 
 Back 
  
-  
-
 ## Page 137
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 137 
- 
  
 Program:  Electrical and Electronics Engineering Semester:  VII Semester 
 Course Title:  System on Chip Design Course Code: 25EEEE415 
@@ -7157,20 +6338,16 @@ Springer, 2012.
 
 ## Page 138
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 138 
- 
  
 2. Lin, Y-L.S. (ed.), “Essential issues in SOC design: designing complex systems-on-chip. Springer, 
 2006. 
@@ -7178,23 +6355,18 @@ KLE Tech Confidential                                                           
  
 Back 
   
-
 ## Page 139
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 139 
- 
  
 Program: Electrical & Electronics Engineering Semester : VII 
 Course Title: Advanced IC Packaging Course Code: 25EEEE405 
@@ -7235,20 +6407,16 @@ Back
 
 ## Page 140
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 140 
- 
  
  Program: Electrical & Electronics Engineering Semester: VII 
 Course Title: CMOS ASIC Design Course code: 25EEEE407 
@@ -7288,23 +6456,18 @@ Physical Compiler an PrimeTime, 2nd edition, 2001.
  
 Back 
   
-
 ## Page 141
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 141 
- 
  
 Course Content 
 Course Code: 25EEEE408 Course Title: Human Machine Interface 
@@ -7358,20 +6521,16 @@ vehicle infotainment 1.00 6 Chapters 2, 3, 4 &
 
 ## Page 142
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 142 
- 
  
 system using a mobile 
 device 
@@ -7420,23 +6579,18 @@ x. TouchGFX - https://support.touchgfx.com/docs/introduction/welcome
  
 Back 
  
-
 ## Page 143
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Title: Curriculum Content Course wise Year:2023-27 
  
- 
 KLE Tech Confidential                                                                                     CONTROLLED COPY 
 143 
- 
  
 Back 
 Program: Electrical & Electronics Engineering Semester: VII 
@@ -7451,14 +6605,12 @@ typical verification flow, stimulus generation, direct testing, Coverage: Code a
 Functional coverage, coverage plan.  
 02 hrs 
  
-  
 Chapter No. 2.  System Verilog – Language Constructs  
 System Verilog constructs - Data types: two -state data, strings, arrays: queues, 
 dynamic and associative arrays, Structs, enumerated types. Program blocks, 
 module, interfaces, clocking blocks, mod-ports. 
 02 hrs 
  
-  
  Chapter No. 3. System Verilog – Classes & Randomization  
 SV Classes: Language evolution, Classes and objects, Class Variables and Methods, 
 Class instantiation, Inheritance, and encapsulation, Polymorphism.  
@@ -7466,7 +6618,6 @@ Class instantiation, Inheritance, and encapsulation, Polymorphism.
 Randomization. 
 02 hrs 
  
-  
  Chapter No. 4. System Verilog – Assertions & Coverage  
 Assertions: Introduction to Assertion based verification, Immediate and 
 concurrent assertions. Coverage driven  verification : Motivation, Types of 
@@ -7474,7 +6625,6 @@ coverage, Cover Group, Cover Point, Cross Coverage, Concepts of Binning and
 event sampling. 
 04 hrs 
  
-  
  Chapter No. 5. Building Testbench  
 Layered testbench architecture. Introduction to Universal Verification Methodol ogy, 
 OverVIIew of UVM Base Classes and simulation phases in UVM and UVM macros. Unified 

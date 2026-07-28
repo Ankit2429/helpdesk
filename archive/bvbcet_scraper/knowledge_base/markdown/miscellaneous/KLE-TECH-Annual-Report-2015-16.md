@@ -1,4 +1,5 @@
 # PDF Document: KLE-TECH-Annual-Report-2015-16
+
 **PDF Source:** https://www.kletech.ac.in/pdf/KLE-TECH-Annual-Report-2015-16.pdf
 
 ## Page 1
@@ -7,7 +8,6 @@
 www.kletech.ac.in
 ANNUAL
 Report
-
 
 ## Page 2
 
@@ -94,7 +94,6 @@ We would like to extend our sincere thanks to our faculty, staff, students, alum
 their continued support and remarkable contributions. Looking ahead, we will continue to work towards 
 realizing our vision to be a leader in engineering education, and advancing research and innovation to 
 support socio-economic development of the region.
-
 
 ## Page 5
 
@@ -236,7 +235,6 @@ Sl.No. Programme
 6 School of Mechanical Engineering             
 7 Centre for Engineering Education Research
 
-
 ## Page 8
 
 6   | KLE Tech
@@ -330,7 +328,6 @@ strengthens our academic quality and inspires
 student achievement.
 Academic Quality
 
-
 ## Page 10
 
 8   | KLE Tech
@@ -404,7 +401,6 @@ KLE Tech is one of the first few Institutions in India offering PhD in Engineeri
 started from 2015-2016. This program is designed with a vision of contributing to leadership development in 
 Engineering Education. Experiences of a few of the leading universities in the world are used in designing the 
 program.
-
 
 ## Page 12
 
@@ -630,7 +626,6 @@ Focus areas of this cluster are:
  b. Environmental applications
 5.  Biochemical Sensors using III-nitride nanostructures 
 
-
 ## Page 17
 
   www.kletech.ac.in  |  15 
@@ -656,7 +651,6 @@ Outcomes:
  •  Total fund received in 2015-16   : Rs.6.00L (in progress)
  •  Number of product development (in progress) : 03
  •  Number of Industry and Institute collaborations : 04
-
 
 ## Page 18
 
@@ -786,7 +780,6 @@ from Japan, China, Thailand and Guyana, US and India have taken part. Till
 date over 200 students from BVB have graduated out and remarkably many 
 have started their ventures at BVB.
 
-
 ## Page 21
 
   www.kletech.ac.in  |  19 
@@ -832,7 +825,6 @@ Laser Cutting Machine FARO 3D Imager
 Vertical Screw Type
 Injection Molding Machine Plasma Cutting Machine
 CUBEPRO 3D Printers (Duo & Trio)
-
 
 ## Page 23
 
@@ -906,7 +898,6 @@ INSZoom 3
 Sankalp 4
 CrimsonLogic 1
 
-
 ## Page 24
 
 22   | KLE Tech
@@ -949,7 +940,6 @@ for Engineering Education’.It was organized during January 6-8, 2016. Honourab
 Manohar Parrikar inaugurated the conference. More than 70 top colleges of the country and more than 15 
 expert speakers from four countries (USA, France, South Korea and Singapore) participated in the conference. 
 Total numbers of delegates participated in the conference is 425.
-
 
 ## Page 25
 
@@ -1004,7 +994,6 @@ of Innovation Ecosystem in
 Engineering Education: Role Plays 
 of Universities, Industry, and 
 Government
-
 
 ## Page 26
 
@@ -1077,7 +1066,6 @@ TEQIP .
 This workshop aimed at equipping faculty members with the knowledge and skills required to practice 
 engineering education effectively. All twenty sessions were woven around the philosophy and practice of OBE.
 
-
 ## Page 28
 
 26   | KLE Tech
@@ -1088,7 +1076,6 @@ TBI Recognition by DST
 KLE CTIE has been recognized as Technology Businiss Incubator (TBI) by Department of Science and 
 Technology, GOI, and a grant of  Rs 3.40 Crores has been Scantioned.
 Recognitions
-
 
 ## Page 29
 
@@ -1179,7 +1166,6 @@ Buddh International Circuit, Greater Noida during 3rd to 9th July, 2016.
 An interdisciplinary team of 21 students from BVB Motorsports Club 
 participated in SUPRA SAEINDIA 2016
 
-
 ## Page 32
 
 30   | KLE Tech
@@ -1247,7 +1233,6 @@ by BVB Alumni Association. Alumni after the
 AGM visited the construction of Incubation 
 Centre on campus.
 
-
 ## Page 34
 
 32   | KLE Tech
@@ -1271,7 +1256,6 @@ Dr . B. B. Kotturshettar
 Dean - Planning & Development
 Dr . Uma Mudenagudi
 Dean - Research & Development
-
 
 ## Page 35
 
@@ -1320,7 +1304,6 @@ Mechanical
 ## Page 36
 
 Campus Snapshots
-
 
 ## Page 37
 

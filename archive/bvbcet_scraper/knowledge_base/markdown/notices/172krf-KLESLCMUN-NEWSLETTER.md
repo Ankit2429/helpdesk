@@ -1,28 +1,18 @@
 # PDF Document: 172krf-KLESLCMUN-NEWSLETTER
+
 **PDF Source:** https://www.kletech.ac.in/uploads/Files/172krf-KLESLCMUN-NEWSLETTER.pdf
 
 ## Page 1
 
 0 
  
- 
                                     NEWSLETTER 
  
- 
- 
- 
- 
- 
 About the College 
- 
- 
- 
- 
  
 Newsletter 
                 11th & 12th Nov,2017 
  
-
 ## Page 2
 
 1 
@@ -40,19 +30,6 @@ event is to teach the participants the intricacies of international negotiation,
 balancing the national interest with international policy, and above all, to create a spirit of 
 international cooperation and harmony. 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
- 
- 
-
 ## Page 3
 
 2 
@@ -77,17 +54,6 @@ Manoj Kushwaha
 Zoya Ali 
       13 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 4
 
 3 
@@ -186,8 +152,6 @@ were put to vote where the Resolution of USA, UK and Republic of Korea won with 
 The resolution gives new hope for the future, defined terms of strategies and allied measures to curb 
 4GW as well as the crisis at hand. 
  
- 
-
 ## Page 6
 
 5 
@@ -209,22 +173,6 @@ Finally, the session came to an end with the Press Conference.
  
 -Athulya MP 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 7
 
 6 
@@ -264,11 +212,6 @@ The coming together of the delegates to resolve this crisis affecting the world 
 demonstrates hope and a dawn to those endless nights. 
             -Drisya Kamal 
  
- 
- 
- 
- 
-
 ## Page 8
 
 7 
@@ -316,7 +259,6 @@ them was of the mandate. It was surprising that the committee did not know the d
 an immigrant and a refugee. 
            - Sai Rishi 
  
-
 ## Page 9
 
 8 

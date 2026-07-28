@@ -1,39 +1,21 @@
 # PDF Document: 7imguf_IQACComposition
+
 **PDF Source:** https://www.kletech.ac.in/Uploads/image/7imguf_IQACComposition.pdf
 
 ## Page 1
 
- 
- 
- 
- 
- 
- 
- 
- 
 __________________________________________________________________________________________________  
  
 Internal Quality Assurance Cell-IQAC 
 (formed in 2018) 
 __________________________________________________________________________________________________  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
 KLE Technological University  
 (Established under Karnataka Act No.22, 2013)  
 Hubballi, Karnataka
 
-
 ## Page 2
 
- 
 About KLE Tech: 
 KLE Technological University (KLE Tech) has its roots in one of the premier engineering 
 institution of Karnataka, B. V. Bhoomaraddi College of Engineering and Technology (BVB), a 
@@ -70,16 +52,8 @@ master’s program in Management and Computer application. Over 5000 undergradua
 global state -of-the-art in engineering education’, identifies BVB (KLE Tech) as one of fi ve 
 Global institutions that are places to watch in Undergraduate Engineering Education. 
  
- 
- 
- 
- 
- 
-
 ## Page 3
 
- 
- 
 Vision of the Institute 
 KLE Technological University will be a national leader in Higher Education – 
 recognized globally for innovative culture, outstanding student experience, 
@@ -104,15 +78,8 @@ competitiveness and quality of life.
 As a unified community of faculty, staff and students, we work together with 
 the spirit of collaboration and partnership to accomplish our mission. 
  
- 
- 
- 
- 
- 
-
 ## Page 4
 
- 
 Overview: 
  
 IQAC in the University was constituted in year 2018 with the view of initiate Planning, 
@@ -127,7 +94,6 @@ for attaining excellence. The prime task of IQAC is to develop a system of consc
 consistence and catalytic improvement in the overall performance of University. For this, it 
 will channelize all efforts and measures of the University towards promoting i ts holistic 
 academic excellence. 
- 
  
 IQAC Goals 
  
@@ -153,14 +119,8 @@ IQAC Short Term Goals
  To arrange quality improvement programs for faculty and students. 
  To provide leadership in curriculum design and development. 
  
- 
- 
- 
-
 ## Page 5
 
- 
- 
 Aim of IQAC 
  
 The main aim of Internal Quality Assurance Cell (IQAC) is to monitor and coordinate all the 
@@ -207,7 +167,6 @@ quality including adoption and dissemination of best methods and practices
 
 ## Page 6
 
- 
  Ensuring a learner-centric ambience conducive for quality education and for continual 
  improvement. 
  *Emphasize faculty expertise to adopt the knowledge, technology and innovations for 
@@ -239,13 +198,4 @@ IQAC will facilitate/contribute:
  Provide a sound basis for decision-making to improve institutional functioning 
  Act as a dynamic system for quality changes in HEIs 
  Build an organized methodology of documentation and internal communication 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  

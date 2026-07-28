@@ -1,12 +1,10 @@
 # PDF Document: Minutes-10th-ECM-Online
+
 **PDF Source:** https://www.kletech.ac.in/pdf/Minutes-10th-ECM-Online.pdf
 
 ## Page 1
 
 i 
- 
- 
- 
  
 Minutes 
  
@@ -16,14 +14,9 @@ KLE Technological University,
 Hubballi, Karnataka 
 07 September, 2021 at 10.30 am 
  
- 
- 
- 
 KLE Technological University 
 (Established under Karnataka Act No.22, 2013) 
  
- 
-
 ## Page 2
 
 ii 
@@ -48,9 +41,6 @@ Programmes of Legal Studies
  
 52 
  
- 
- 
-
 ## Page 3
 
 1 | P a g e 
@@ -84,15 +74,10 @@ University.
 EC 9.6: Any other subject with the permission of the Chair. 
 NIL 
  
- 
- 
 Action Requested: To confirm the minutes of the previous meeting held on 2nd March 
 2021. 
  
- 
 Discussion: 
- 
- 
  
 Resolution 10.1: Resolved to confirm the minutes of its 9th meeting 
 held on 2nd March 2021. 
@@ -100,7 +85,6 @@ held on 2nd March 2021.
 ## Page 4
 
 3 | P a g e 
- 
  
 EC 
 10.2 
@@ -145,7 +129,6 @@ EC 9.6: Any other subject with the permission of the Chair.
 NIL 
 -- 
  
-
 ## Page 5
 
 4 | P a g e 
@@ -155,11 +138,9 @@ held on 2nd March 2021.
  
 Discussion: 
  
- 
 Resolution 10.2: Resolved to confirm the action taken report on the minutes of its 9th meeting held 
 on 2nd March 2021. 
  
-
 ## Page 6
 
 5 | P a g e 
@@ -208,7 +189,6 @@ colleges.
 
 6 | P a g e 
  
- 
 EC 
 10.4 
 To consider and approve the proposed academic regulations 
@@ -217,13 +197,11 @@ The proposed ‘Academic Regulations Governing UG & PG Programmes of Legal Studi
 of KLE Technological University – 2021 framed as per the provisions of ‘KLE 
 Technological University Act – 2012’ is presented in Annexure – 1. 
  
- 
 Action Requested: The Executive Council is requested to approve the proposed 
 academic regulations governing UG & PG programmes of Legal Studies. 
 Discussion: Prof. Prakash Tewari, Dean Academics, presented the draft academic regulations 
 governing U.G. & P .G. programmes of Legal Studies and explained the salient points. The honorable 
 members expressed their consent 
- 
  
 Resolution 10.4: Resolved to approve the academic regulations 
 governing U.G. & P.G. programmes of Legal Studies. 
@@ -232,14 +210,11 @@ governing U.G. & P.G. programmes of Legal Studies.
 
 7 | P a g e 
  
- 
 BOG 10.5 To discuss the research progress report for the years 
 2020 & 2021. 
 The Dean (R&D) will present the research progress report for the years 2020 & 
 2021.  
 The report is enclosed as Annexure 2 
- 
- 
  
 Action Requested: The Executive Council is requested to discuss the research progress 
 report for the years 2020 & 2021 
@@ -289,9 +264,6 @@ domain/sector for initial thrust for over 4 to 5 years. The Vice-chancellor enqu
 strategies we should have for a period of 4 to 5 years. In reply, Prof. Atre said it is better to start with 
 one strategy, develop technology and transfer technology. 
  
- 
- 
- 
 Resolution 10.4: The EC noted the progress of the research activities 
 during 2020 and 2021.  
 
@@ -299,22 +271,12 @@ during 2020 and 2021.
 
 9 | P a g e 
  
- 
 EC 10.6 Any other subject with the permission of the Chair. 
 NIL 
  
-
 ## Page 11
 
 10 | P a g e 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Annexure -1
 
@@ -322,19 +284,11 @@ Annexure -1
 
 i 
  
- 
- 
- 
 Draft Regulations  
 Governing Undergraduate  
 Postgraduate Programmes of Legal Studies of 
 KLE Technological University  
 2021 
- 
- 
- 
- 
- 
  
 KLE Technological University 
 (Established under Karnataka Act No.22, 2013) 
@@ -342,7 +296,6 @@ KLE Technological University
 ## Page 13
 
 ii 
- 
  
 CONTENTS 
 Section  Description  Page  
@@ -882,9 +835,6 @@ Examinations Malpractice Review Committee before the
 expiry of its term.  
 CHAPTER III  ADMISSION 
  
- 
- 
- 
   Admission to the University shall normally be made at the 
 commencement of each academic year for various 
 programmes of study. The dates for advertisement, 
@@ -972,8 +922,6 @@ Registrar.
 Student 
 Registration 
 Number  
- 
- 
  
 14 Each student shall be assigned a 12-character alphanumeric Student 
 Registration Number (SRN) upon confirmation of admission as per the 
@@ -1111,7 +1059,6 @@ student permanently withdrawing from the University
 shall automatically stand terminated with effect from the 
 date of approval of withdrawal. Further, the University 
 reserves the right to recover any scholarship  
- 
  
 CHAPTER IV PROGRAMMES OF STUDY AND STRUCTURE 
 
@@ -1329,8 +1276,6 @@ of study shall be framed by the concerned Constituent
 College/ Board of Studies with approval of the Academic 
 Council and shall be notified from time to time.  
  
- 
- 
 Course code  
  
 24 24.1 Every course in a programme shall be assigned a course 
@@ -1492,7 +1437,6 @@ internship as in the curriculum structure.
 ## Page 39
 
 24 
- 
  
 11. Courses offered from different centers 
 Students of Bachelor’s and Master’s of Law 
@@ -2189,7 +2133,9 @@ courses and Summer semester Examinations.
 37 
  
 Absolute Grading System 
+
 # Mark
+
 s 
 Letter 
 grade 
@@ -2402,7 +2348,6 @@ CGPA Equivalent Class/Division
 7.75-9.49 >70%  and <87.5% First class with 
 Distinction 
    
- 
   i First Class with Distinction: A student completing a 
 Programme of study within the specified minimum 
 duration, securing a CGPA equal to or greater than 7.75 
@@ -2842,23 +2787,13 @@ the final.
 AMENDMENTS 88  The regulations listed herein, on approval by the Academic Council and Board of Governors, shall be binding on all students enrolled for the Bachelor’s and Master’s Programs in Law degree. The regulations listed herein may be amended, updated, changed through appropriate approval from the Academic Council from time to time and shall be binding on all parties concerned including students, faculty, staff, departments, constituent college authorities. 
 JURISDICTION 89  All disputes arising from the regulations listed herein must be addressed to the Academic Council. The decision of the Academic Council is final and binding on all parties. Any legal issues arising from this set of regulations shall be limited to the legal jurisdiction determined by the location of the College and not that of any other parties. 
   
- 
- 
-
 ## Page 66
 
 51 
  
-
 ## Page 67
 
 52 
- 
- 
- 
- 
- 
- 
  
 Annexure -2
 
@@ -2948,14 +2883,9 @@ Conference Total
 77 04 158 27 2 29 
 (As on July 2021) 1887   849 
  
- 
-
 ## Page 70
 
 3 
- 
- 
- 
  
 4. Patents Published 
  2015-16 2016-17 2017-18 2018-19 2019-20 2020-21 
@@ -2987,7 +2917,6 @@ Dharwad
 ## Page 71
 
 4 
- 
  
 5. Internal Research Grants (CB and GEAR) 
  

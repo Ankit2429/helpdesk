@@ -1,45 +1,18 @@
 # PDF Document: Automation_Robotics_Curriculum_Structure_Content_2021-25
+
 **PDF Source:** https://www.kletech.ac.in/pdf/Automation_Robotics_Curriculum_Structure_Content_2021-25.pdf
 
 ## Page 1
 
- 
- 
 FMCD2009 / 2.0 
  1 
- 
- 
- 
- 
-  
- 
  
 Curriculum Structure and Curriculum Content for the Batch 2021-25 
 Department of Automation & Robotics 
 Bachelor of Engineering (Automation & Robotics) 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 2
 
- 
- 
 FMCD2009 / 2.0 
  2 
  
@@ -63,15 +36,8 @@ List of Open Electives .........................................................
 List of Program Electives ...................................................................................... 18 
 Curriculum Content- Course wise ........................................................................ 19 
  
- 
- 
- 
- 
-
 ## Page 3
 
- 
- 
 FMCD2009 / 2.0 
  3 
  
@@ -79,11 +45,9 @@ Vision and Mission of KLE Technological University
  
 Vision 
  
- 
 KLE Technological University will be a national leader in Higher 
 Education–recognised globally for innovative culture, outstanding 
 student experience, research excellence and social impact. 
- 
  
 Mission 
  
@@ -109,8 +73,6 @@ the spirit of collaboration and partnership to accomplish our mission.
 
 ## Page 4
 
- 
- 
 FMCD2009 / 2.0 
  4 
  
@@ -118,10 +80,8 @@ Vision and Mission Statements of the School / Department
  
 Vision 
  
- 
 To develop into a research -oriented department educating engineers to serve 
 the diverse needs of our changing society. 
- 
  
 Mission 
  
@@ -129,12 +89,8 @@ The mission of the Automation & Robotics Program is to prepare
 undergraduate students with in -depth technical knowledge in the fields of 
 mechanical, electronics, computer, control systems, and applications. 
  
-  
-
 ## Page 5
 
- 
- 
 FMCD2009 / 2.0 
  5 
  
@@ -183,8 +139,6 @@ PO11 - Project Management and Finance: Demonstrate knowledge and understanding o
 
 ## Page 6
 
- 
- 
 FMCD2009 / 2.0 
  6 
 the engineering and management principles and apply these  to one’s own work as a 
@@ -199,11 +153,8 @@ PSO 2 - Integration and Applications of Automation  and Robotics: Identify the n
 design, select, and integrate appropriate automation and robotic subsystems  for diverse 
 applications. 
  
-
 ## Page 7
 
- 
- 
 FMCD2009 / 2.0 
  7 
 Curriculum Structure-Overall 
@@ -382,17 +333,11 @@ Sponsored
 Research Project 
 19EARE493 
  
-
 ## Page 8
 
- 
- 
 FMCD2009 / 2.0 
  8 
  
- 
- 
-  
   Analog & Digital 
 Electronic Circuits 
 Lab 
@@ -465,14 +410,11 @@ Credits 22 22 26.5 26.5 24.5 25.5 15 17
 
 ## Page 9
 
- 
- 
 FMCD2009 / 2.0 
  9 
 Curriculum Structure-Semester wise 
 Semester - I 
  
-  
 No. Code Course Category L-T-P Credits 
 Contact 
 Hours ISA ESA Total 
@@ -493,15 +435,10 @@ TOTAL  13-2-7 22 31
 
 ## Page 10
 
- 
- 
 FMCD2009 / 2.0 
  10 
 Semester - II 
  
- 
- 
-  
 No. Code Course Category L-T-P Credits 
 Contact 
 Hours ISA ESA Total 
@@ -519,14 +456,10 @@ TOTAL  12-3-7 22 32
 
 ## Page 11
 
- 
- 
 FMCD2009 / 2.0 
  11 
 Semester- III 
  
- 
-  
 No. Code Course Category L-T-P Credits 
 Contact 
 Hours ISA ESA Total 
@@ -551,14 +484,10 @@ TOTAL  20.5-0-6 26.5 32.5
 
 ## Page 12
 
- 
- 
 FMCD2009 / 2.0 
  12 
 Semester- IV 
  
- 
-  
 No. Code Course 
 Categor
 y L-T-P Credits 
@@ -584,14 +513,10 @@ TOTAL  19.5-1-6 26.5 33.5
 
 ## Page 13
 
- 
- 
 FMCD2009 / 2.0 
  13 
 Semester- V 
  
- 
-  
 No. Code Course Category L-T-P Credits 
 Contact 
 Hours ISA ESA Total 
@@ -612,13 +537,10 @@ TOTAL  14.5-1-9 24.5 34.5
 
 ## Page 14
 
- 
- 
 FMCD2009 / 2.0 
  14 
 Semester- VI 
  
-  
 No. Code Course Category L-T-P Credits 
 Contact 
 Hours ISA ESA Total 
@@ -641,13 +563,10 @@ TOTAL  16.5-0-9 25.5 34.5
 
 ## Page 15
 
- 
- 
 FMCD2009 / 2.0 
  15 
 Semester- VII 
  
-  
 No. Code Course Category L-T-P Credits 
 Contact 
 Hours ISA ESA Total 
@@ -669,17 +588,12 @@ TOTAL  9-0-6 15 21
 
 ## Page 16
 
- 
- 
 FMCD2009 / 2.0 
  16 
 Semester- VIII 
  
- 
- 
 Semester I II III IV V VI VII VIII Total 
 Credits 22 22 26.5 26.5 24.5 25.5 15 17 179 
- 
  
 No. Code Course Category L-T-P Credits 
 Contact 
@@ -698,43 +612,13 @@ TOTAL  0-0-17 17 34
 
 ## Page 17
 
- 
- 
 FMCD2009 / 2.0 
  17 
 List of Open Electives 
 Sr. No Name of the Course Course Code 
    
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
- 
- 
- 
-
 ## Page 18
 
- 
- 
 FMCD2009 / 2.0 
  18 
 List of Program Electives 
@@ -752,24 +636,8 @@ Sr. No Name of the Course Course Code
 11 Sponsored Research Project 19EARE493 
 12 Smart Manufacturing 17EARE404 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
-
 ## Page 19
 
- 
- 
 FMCD2009 / 2.0 
  19 
 Curriculum Content- Course wise 
@@ -819,8 +687,6 @@ Euler’s method and Runge-Kutta method
 
 ## Page 20
 
- 
- 
 FMCD2009 / 2.0 
  20 
  
@@ -837,8 +703,6 @@ Reference Books:
 
 ## Page 21
 
- 
- 
 FMCD2009 / 2.0 
  21 
 Program: Automation & Robotics Engineering Semester: I 
@@ -886,14 +750,11 @@ Power, Numericals
 
 ## Page 22
 
- 
- 
 FMCD2009 / 2.0 
  22 
  
 BACK 
  
-  
 Text Books:  
 1. John W Jewett and Raymond A Serway, Physics for SISAntists  and Engineers with modern 
 physics, Cengage publication, India Edition, 8th Edition. 
@@ -904,11 +765,8 @@ Company, Volume 1, 3rd Edition
 
 ## Page 23
 
- 
- 
 FMCD2009 / 2.0 
  23 
- 
  
 BACK 
 Program: Automation & Robotics Engineering Semester: I 
@@ -951,20 +809,13 @@ Reference Books:
 
 ## Page 24
 
- 
- 
 FMCD2009 / 2.0 
  24 
   
-
 ## Page 25
 
- 
- 
 FMCD2009 / 2.0 
  25 
- 
- 
  
 BACK 
   
@@ -994,8 +845,6 @@ Learning, 2008
 
 ## Page 26
 
- 
- 
 FMCD2009 / 2.0 
  26 
 Program: Automation & Robotics Engineering Semester: I 
@@ -1039,14 +888,10 @@ Text Books
 Circuits, Morgan Kaufmann -Elsevier, 2005 
 2. Hughes, Electrical and Electronic Technology, 12th Edition, Pearson, 2016. 
  
-
 ## Page 27
 
- 
- 
 FMCD2009 / 2.0 
  27 
- 
  
 BACK 
   
@@ -1069,8 +914,6 @@ Education; 2017
 
 ## Page 28
 
- 
- 
 FMCD2009 / 2.0 
  28 
 Program: Automation & Robotics Engineering Semester: I 
@@ -1142,8 +985,6 @@ Video presentations
 
 ## Page 29
 
- 
- 
 FMCD2009 / 2.0 
  29 
  
@@ -1201,12 +1042,8 @@ I & II, 11th edition 2001, Media Promoters and Publishers.
 
 ## Page 30
 
- 
- 
 FMCD2009 / 2.0 
  30 
- 
- 
  
 BACK 
   
@@ -1229,8 +1066,6 @@ LIST OF EXPERIMENTS
 
 ## Page 31
 
- 
- 
 FMCD2009 / 2.0 
  31 
 Program: Automation & Robotics Engineering Semester: II 
@@ -1272,8 +1107,6 @@ Text Books
 
 ## Page 32
 
- 
- 
 FMCD2009 / 2.0 
  32 
  
@@ -1285,8 +1118,6 @@ Reference Books:
 
 ## Page 33
 
- 
- 
 FMCD2009 / 2.0 
  33 
 Program: Automation & Robotics Engineering Semester: II 
@@ -1334,12 +1165,8 @@ problems on E, Ecell, E0cell.
 Batteries: Classification, characteristics, Lead-acid and Li ion batteries.  
 Fuel cells: Methanol-O2 fuel cell. 
  
- 
-
 ## Page 34
 
- 
- 
 FMCD2009 / 2.0 
  34 
  
@@ -1385,8 +1212,6 @@ Sons 2007: 721 pages.
 
 ## Page 35
 
- 
- 
 FMCD2009 / 2.0 
  35 
 Program: Automation & Robotics Engineering Semester: II 
@@ -1422,8 +1247,6 @@ t of coplanar- non-concurrent force systems and numerical problems.
 
 ## Page 36
 
- 
- 
 FMCD2009 / 2.0 
  36 
 Unit II 
@@ -1475,8 +1298,6 @@ Reference Books:
 
 ## Page 37
 
- 
- 
 FMCD2009 / 2.0 
  37 
  
@@ -1488,11 +1309,8 @@ Delhi- 110 001, 1995
 
 ## Page 38
 
- 
- 
 FMCD2009 / 2.0 
  38 
- 
  
 BACK 
   
@@ -1534,12 +1352,8 @@ Text Books:
 
 ## Page 39
 
- 
- 
 FMCD2009 / 2.0 
  39 
- 
- 
  
 BACK 
   
@@ -1575,8 +1389,6 @@ Reference Books:
 
 ## Page 40
 
- 
- 
 FMCD2009 / 2.0 
  40 
 Program: Automation & Robotics Engineering Semester: II 
@@ -1667,14 +1479,6 @@ Reading assignments
  Handout on “ Create 
 Mindsets” 
  
- 
- 
- 
- 
- 
- 
- 
- 
  (How to train the 
 Dragon?  
 Common Video for 
@@ -1687,13 +1491,8 @@ Confidence by
 David Kelley – 
 IDEO Founder)  
  
- 
-  
-
 ## Page 41
 
- 
- 
 FMCD2009 / 2.0 
  41 
 Process of Social Innovation 
@@ -1712,7 +1511,6 @@ Agri Serve”
 Class Presentations 
  Initial observations being 
 made by the group  
- 
  
 ( Literature Survey of Places 
 of Hubli- Dharwad) 
@@ -1780,11 +1578,8 @@ respective templates with
 the help of sample case 
 study 
  
-
 ## Page 42
 
- 
- 
 FMCD2009 / 2.0 
  42 
  3. Ideation 
@@ -1806,7 +1601,6 @@ respective templates with
 the help of sample case 
 study  
   
- 
 3.0 Ideation 
 3.2 Prototyping 
  
@@ -1869,7 +1663,6 @@ respective templates
 with the help of 
 sample case study 
  
-    
   5.0 Reflect 
  
 Reflection of the overall learning 
@@ -1881,8 +1674,6 @@ with the help of
 
 ## Page 43
 
- 
- 
 FMCD2009 / 2.0 
  43 
  
@@ -1897,14 +1688,10 @@ Implementation
  
 sample case study 
  
-
 ## Page 44
 
- 
- 
 FMCD2009 / 2.0 
  44 
- 
  
 BACK 
   
@@ -1934,8 +1721,6 @@ Reference Books:
 
 ## Page 45
 
- 
- 
 FMCD2009 / 2.0 
  45 
 Program: Automation & Robotics Engineering Semester: III 
@@ -1984,8 +1769,6 @@ forms).
 
 ## Page 46
 
- 
- 
 FMCD2009 / 2.0 
  46 
  
@@ -1999,8 +1782,6 @@ Reference Books:
 
 ## Page 47
 
- 
- 
 FMCD2009 / 2.0 
  47 
 Program: Automation & Robotics Engineering Semester: III 
@@ -2049,8 +1830,6 @@ simple examples
 
 ## Page 48
 
- 
- 
 FMCD2009 / 2.0 
  48 
  
@@ -2071,8 +1850,6 @@ edition, Oxford Ind, 2005
 
 ## Page 49
 
- 
- 
 FMCD2009 / 2.0 
  49 
 Program: Automation & Robotics Engineering Semester: III 
@@ -2121,14 +1898,11 @@ maps, two, three and four variable Karnaugh maps, simplification of expressions.
 
 ## Page 50
 
- 
- 
 FMCD2009 / 2.0 
  50 
  
 BACK 
   
- 
 Chapter 6 : 
 Design of combinational logic circuits and sequential logic 
 Introduction to combinational circuits, code conversions, decoder, encoder, priority encoder, 
@@ -2156,11 +1930,8 @@ Text Books:
 2. Thomas L. Floyd, Digital fundamentals, 9, Pearson Ed, 2006 
 3. Robert L. Boylestad, Electronic Devices and Circuit Theory, 10, Pearson Ed, 2008 
  
-
 ## Page 51
 
- 
- 
 FMCD2009 / 2.0 
  51 
 Program: Automation & Robotics Engineering Semester: III 
@@ -2211,14 +1982,11 @@ Differential screws, Auger screws.
 
 ## Page 52
 
- 
- 
 FMCD2009 / 2.0 
  52 
  
 BACK 
   
- 
 Text Books:  
 1. Fundamentals of Kinematics and Dynamics of Machines and Mechanism, Oleg Vinogradov, 
 CRC Press-2000. 
@@ -2230,8 +1998,6 @@ Second edition.
 
 ## Page 53
 
- 
- 
 FMCD2009 / 2.0 
  53 
 Program: Automation & Robotics Engineering Semester: III 
@@ -2276,8 +2042,6 @@ The Knapsack Problem, The Travelling Salesperson Problem, Longest Common Subsequ
 
 ## Page 54
 
- 
- 
 FMCD2009 / 2.0 
  54 
  
@@ -2291,8 +2055,6 @@ User Guide,” Addison-Wesley, 1999.
 
 ## Page 55
 
- 
- 
 FMCD2009 / 2.0 
  55 
 Program: Automation & Robotics Engineering Semester: III 
@@ -2336,14 +2098,11 @@ Introduction, Resultant Forces Produced by Bending Stresses, The Shear Stress Fo
 First Moment of Area Q, Shear Stresses in Beams of Rectangular Cross Section, Shear Stresses 
 in Beams of Circular Cross Section 
  
- 
 Chapter 8: Beam Deflections  
 Introduction, Moment -Curvature Relationship, The Differential Equation of the Elastic Curve, 
 
 ## Page 56
 
- 
- 
 FMCD2009 / 2.0 
  56 
  
@@ -2359,8 +2118,6 @@ Reference Books:
 
 ## Page 57
 
- 
- 
 FMCD2009 / 2.0 
  57 
 Program: Automation & Robotics Engineering Semester: III 
@@ -2409,8 +2166,6 @@ codes for various machining operations)
 
 ## Page 58
 
- 
- 
 FMCD2009 / 2.0 
  58 
  
@@ -2441,8 +2196,6 @@ CHUA (CK) AND LEONG (KF). (Call No. - 629.892 ADI)
 
 ## Page 59
 
- 
- 
 FMCD2009 / 2.0 
  59 
 Program: Automation & Robotics Engineering Semester: III 
@@ -2491,8 +2244,6 @@ The students should be able to:
 
 ## Page 60
 
- 
- 
 FMCD2009 / 2.0 
  60 
  
@@ -2535,11 +2286,8 @@ The students should be able to:
 
 ## Page 61
 
- 
- 
 FMCD2009 / 2.0 
  61 
- 
  
 BACK 
   
@@ -2565,11 +2313,8 @@ Experiments
 
 ## Page 62
 
- 
- 
 FMCD2009 / 2.0 
  62 
- 
  
 BACK 
   
@@ -2606,11 +2351,8 @@ Guide-ENG.pdf
 
 ## Page 63
 
- 
- 
 FMCD2009 / 2.0 
  63 
- 
  
 BACK 
   
@@ -2652,8 +2394,6 @@ Reference Books:
 
 ## Page 64
 
- 
- 
 FMCD2009 / 2.0 
  64 
 Program: Automation & Robotics Engineering Semester: IV 
@@ -2703,8 +2443,6 @@ Oxford Indian Edition, 2005.
 
 ## Page 65
 
- 
- 
 FMCD2009 / 2.0 
  65 
  
@@ -2719,8 +2457,6 @@ Reference Books:
 
 ## Page 66
 
- 
- 
 FMCD2009 / 2.0 
  66 
 Program: Automation & Robotics Engineering Semester: IV 
@@ -2771,8 +2507,6 @@ helical compression springs, helical torsion springs, improving spring performan
 
 ## Page 67
 
- 
- 
 FMCD2009 / 2.0 
  67 
  
@@ -2810,8 +2544,6 @@ Ltd
 
 ## Page 68
 
- 
- 
 FMCD2009 / 2.0 
  68 
 Program: Automation & Robotics Engineering Semester: IV 
@@ -2862,11 +2594,8 @@ Reference Books:
 
 ## Page 69
 
- 
- 
 FMCD2009 / 2.0 
  69 
- 
  
 BACK 
   
@@ -2875,8 +2604,6 @@ BACK
 
 ## Page 70
 
- 
- 
 FMCD2009 / 2.0 
  70 
 Program: Automation & Robotics Engineering Semester: IV 
@@ -2927,14 +2654,10 @@ Embedded systems design and development, Real -time operating systems (RTOS), se
 actuator interfacing, Robotics and automation applications, Tool chain in different 
 environments, STM32 Cube IDE, Eclipse, GCC ARM, ST Tools and drivers. 
  
-
 ## Page 71
 
- 
- 
 FMCD2009 / 2.0 
  71 
- 
  
 BACK 
   
@@ -2954,8 +2677,6 @@ Systems. Penram International Publishing(India) Pvt. Ltd.
 
 ## Page 72
 
- 
- 
 FMCD2009 / 2.0 
  72 
 Program: Automation & Robotics Engineering Semester: IV 
@@ -2998,11 +2719,8 @@ JavaScript Objects, JavaScript Events, Forms, JSON objects, JSON Arrays.
 
 ## Page 73
 
- 
- 
 FMCD2009 / 2.0 
  73 
- 
  
 BACK 
   
@@ -3031,8 +2749,6 @@ Edition, Create Space Independent Publishing Platform, 2016
 
 ## Page 74
 
- 
- 
 FMCD2009 / 2.0 
  74 
 Program: Automation & Robotics Engineering Semester: IV 
@@ -3071,11 +2787,8 @@ Methods, condition number, singularity analysis.
 
 ## Page 75
 
- 
- 
 FMCD2009 / 2.0 
  75 
- 
  
 BACK 
   
@@ -3095,9 +2808,6 @@ with Parabolic Blends and Via Points, Higher -Order Trajectories, Other Trajecto
 Space Trajectories, Continuous Trajectory Recording. 
 Chapter 7: Wrist Mechanisms  
 Introduction, Bevel-Gear Wrist Mechanisms, structure representation of mechanisms, structure  
- 
- 
- 
  
 characteristics of epicyclic Gear Drives, Kinematics of Robotic Wrist Mechanisms, and static 
 force analysis. 
@@ -3129,12 +2839,8 @@ Robotic
 
 ## Page 76
 
- 
- 
 FMCD2009 / 2.0 
  76 
- 
- 
  
 BACK 
   
@@ -3151,11 +2857,8 @@ Experiment 5- Fabrication of XY positioning table
 
 ## Page 77
 
- 
- 
 FMCD2009 / 2.0 
  77 
- 
  
 BACK 
   
@@ -3198,8 +2901,6 @@ humidity, pressure and sunlight intensity.
 
 ## Page 78
 
- 
- 
 FMCD2009 / 2.0 
  78 
 Program: Automation & Robotics Engineering Semester: V 
@@ -3250,8 +2951,6 @@ Python: Sampling distributions
 
 ## Page 79
 
- 
- 
 FMCD2009 / 2.0 
  79 
  
@@ -3270,8 +2969,6 @@ Applications for Engineering and the Computing Sciences, 4th Ed, TATA McGraw-Hil
 
 ## Page 80
 
- 
- 
 FMCD2009 / 2.0 
  80 
 Program: Automation & Robotics Engineering Semester: V 
@@ -3319,11 +3016,8 @@ Scikit-Learn.
 
 ## Page 81
 
- 
- 
 FMCD2009 / 2.0 
  81 
- 
  
 BACK 
   
@@ -3353,8 +3047,6 @@ Cambridge Press, USA, 2014.
 
 ## Page 82
 
- 
- 
 FMCD2009 / 2.0 
  82 
 Program: Automation & Robotics Engineering Semester: V 
@@ -3405,11 +3097,8 @@ each of the objects of Inter -process communication, namely, semaphore, Message 
 
 ## Page 83
 
- 
- 
 FMCD2009 / 2.0 
  83 
- 
  
 BACK 
   
@@ -3451,11 +3140,8 @@ Reference Books:
 
 ## Page 84
 
- 
- 
 FMCD2009 / 2.0 
  84 
- 
  
 BACK 
   
@@ -3498,8 +3184,6 @@ Reference Books:
 
 ## Page 85
 
- 
- 
 FMCD2009 / 2.0 
  85 
 Program: Automation & Robotics Engineering Semester: V 
@@ -3550,11 +3234,8 @@ Data conversion devices, Signal sampling and aliasing, Sampling theorem, Quantiz
 
 ## Page 86
 
- 
- 
 FMCD2009 / 2.0 
  86 
- 
  
 BACK 
   
@@ -3579,8 +3260,6 @@ Pvt Ltd, 2012
 
 ## Page 87
 
- 
- 
 FMCD2009 / 2.0 
  87 
 Program: Automation & Robotics Engineering Semester: V 
@@ -3632,8 +3311,6 @@ Text Books:
 
 ## Page 88
 
- 
- 
 FMCD2009 / 2.0 
  88 
  
@@ -3645,11 +3322,8 @@ Reference Books:
 
 ## Page 89
 
- 
- 
 FMCD2009 / 2.0 
  89 
- 
  
 BACK 
   
@@ -3686,8 +3360,6 @@ sequence prediction tasks. Implement GANs OR VAEs for image or text generation.
 
 ## Page 90
 
- 
- 
 FMCD2009 / 2.0 
  90 
 Program: Automation & Robotics Semester: V 
@@ -3734,8 +3406,6 @@ which are necessary to represent 3-dimensional position and orientation
 
 ## Page 91
 
- 
- 
 FMCD2009 / 2.0 
  91 
 . Chapter 3: RoboAnalyzer 
@@ -3787,8 +3457,6 @@ Online Programming
 
 ## Page 92
 
- 
- 
 FMCD2009 / 2.0 
  92 
  
@@ -3819,8 +3487,6 @@ your robots in production. This allows very realistic simulations to be performe
 robot programs and configuration files identical to those used on the shop floor. 
 Unit III 
  
- 
- 
 Chapter 8: Structured Enquiry 
 Project  
 Students should form a team of 4 in numbers and select a problem or need statement in 
@@ -3832,11 +3498,8 @@ Students are free to choose the software to complete the project
 
 ## Page 93
 
- 
- 
 FMCD2009 / 2.0 
  93 
- 
  
 BACK 
   
@@ -3882,8 +3545,6 @@ Modeling and simulation 5,6,7&8 Rapid prototyping, Testing and validation Protot
 
 ## Page 94
 
- 
- 
 FMCD2009 / 2.0 
  94 
  
@@ -3928,17 +3589,13 @@ Valves: Direction control valve - types of direction control valv es, ISO design
 control valves, Non return valves, methods of actuation of pneumatic directional control 
 valves, Flow control valves, and Pressure control valves. 
  
-
 ## Page 95
 
- 
- 
 FMCD2009 / 2.0 
  95 
  
 BACK 
   
- 
 Chapter No. 6. Pneumatic Circuit Design and Hydraulic Control Systems 
 Pneumatic Circuit Design: Direct and indirect control of single acting cylinder, control of single 
 acting cylinder using “or”, “and”, “not” valve. Direct control of a double acting cylinder, Indirect 
@@ -3972,8 +3629,6 @@ Company, 2003.
 
 ## Page 96
 
- 
- 
 FMCD2009 / 2.0 
  96 
 Program: Automation & Robotics Engineering Semester: VI 
@@ -4024,11 +3679,8 @@ Sonar Sensor Model, Bayesian, Conditional probabilities , Conditional probabilit
 
 ## Page 97
 
- 
- 
 FMCD2009 / 2.0 
  97 
- 
  
 BACK 
   
@@ -4054,8 +3706,6 @@ Intelligent Robotics and Autonomous Agents series edition,2005
 
 ## Page 98
 
- 
- 
 FMCD2009 / 2.0 
  98 
 Program: Automation & Robotics Engineering Semester: VI 
@@ -4103,14 +3753,10 @@ Chapter 6: Morphological Processing
 Dilation and Erosion, Opening and Closing, The Hit -or-Miss Transformation, Some Basic 
 Morphological Algorithms. 
  
-
 ## Page 99
 
- 
- 
 FMCD2009 / 2.0 
  99 
- 
  
 BACK 
   
@@ -4128,11 +3774,8 @@ Reference Books:
 
 ## Page 100
 
- 
- 
 FMCD2009 / 2.0 
  100 
- 
  
 BACK 
   
@@ -4177,8 +3820,6 @@ Reference Books:
 
 ## Page 101
 
- 
- 
 FMCD2009 / 2.0 
  101 
 Program: Automation & Robotics Engineering Semester: VI 
@@ -4226,14 +3867,10 @@ drives, AC motor characteristics, sp eed control methods of induction motor, com
 DC motor and Electronic commutation. 
 Unit III 
  
-
 ## Page 102
 
- 
- 
 FMCD2009 / 2.0 
  102 
- 
  
 BACK 
   
@@ -4259,8 +3896,6 @@ Reference Books:
 
 ## Page 103
 
- 
- 
 FMCD2009 / 2.0 
  103 
 Program: Automation & Robotics Semester: VI 
@@ -4308,11 +3943,8 @@ Text Books
 
 ## Page 104
 
- 
- 
 FMCD2009 / 2.0 
  104 
- 
  
 BACK 
   
@@ -4327,8 +3959,6 @@ Reference Books:
 
 ## Page 105
 
- 
- 
 FMCD2009 / 2.0 
  105 
 Program: Automation & Robotics Semester: VI 
@@ -4384,8 +4014,6 @@ and pneumatic circuit diagrams.
 
 ## Page 106
 
- 
- 
 FMCD2009 / 2.0 
  106 
  
@@ -4405,15 +4033,11 @@ control circuit using a pressure sequence valve.
 
 ## Page 107
 
- 
- 
 FMCD2009 / 2.0 
  107 
  
- 
 BACK 
  
-  
 Program: Automation & Robotics Semester: VI 
 Course Title: Mechatronics & Measurements 
 Lab 
@@ -4452,8 +4076,6 @@ System identification of DC motor
 
 ## Page 108
 
- 
- 
 FMCD2009 / 2.0 
  108 
 Program: Automation & Robotics Semester: VI 
@@ -4497,8 +4119,6 @@ applications.
 
 ## Page 109
 
- 
- 
 FMCD2009 / 2.0 
  109 
 BACK 
@@ -4547,8 +4167,6 @@ world IoT solutions.
 
 ## Page 110
 
- 
- 
 FMCD2009 / 2.0 
  110 
 Program: Automation & Robotics Semester: VI 
@@ -4593,13 +4211,8 @@ Sl. No Activity SEE Marks out of 20
 
 ## Page 111
 
- 
- 
 FMCD2009 / 2.0 
  111 
- 
- 
- 
  
 BACK 
   
@@ -4610,11 +4223,8 @@ Presentation
 
 ## Page 112
 
- 
- 
 FMCD2009 / 2.0 
  112 
- 
  
 BACK 
   
@@ -4645,8 +4255,6 @@ Reference Books:
 
 ## Page 113
 
- 
- 
 FMCD2009 / 2.0 
  113 
 Program: Automation & Robotics Engineering Semester: VII 
@@ -4696,8 +4304,6 @@ Collection Technologies, OPC (OLE for Process Control)
 
 ## Page 114
 
- 
- 
 FMCD2009 / 2.0 
  114 
  
@@ -4732,14 +4338,11 @@ fieldbus/foundation-technology-overview.
 
 ## Page 115
 
- 
- 
 FMCD2009 / 2.0 
  115 
  
 BACK 
  
-  
 Program: Automation & Robotics Engineering Semester: VII 
 Course Title: Mobile Robotics & Perception Course Code: 17EARE401 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3hrs/week 
@@ -4779,8 +4382,6 @@ Systems “, First Edition, John Wiley & Sons Ltd, 2020.
 
 ## Page 116
 
- 
- 
 FMCD2009 / 2.0 
  116 
 Program: Automation & Robotics Engineering Semester: VII 
@@ -4797,7 +4398,6 @@ Justifying Automation
 Traditional Project Cost Justification for a Purchase, Traditional Costing Estimating for Building 
 and Selling Automation, Win –Win Purchasing Philosophy, Maximum Profit Cost Estimating for 
 Building and Selling Automation, Justifying Flexible Automation over Hard Automation, 
-Intellectual Property, Patents, Trade Marks, Copyrights, and Trade Secrets. 
  
 Chapter 2: The Automation Design Process 
 System Specifications, Brainstorming, Machine Classification by Function, Machine Classification 
@@ -4816,8 +4416,6 @@ Cookies, Case Study Number 2: Feeding of TBBL Cases.
 
 ## Page 117
 
- 
- 
 FMCD2009 / 2.0 
  117 
  
@@ -4864,8 +4462,6 @@ CRC Press, 2005
 
 ## Page 118
 
- 
- 
 FMCD2009 / 2.0 
  118 
 Program: Automation & Robotics Engineering Semester: VII 
@@ -4911,14 +4507,11 @@ role of cloud platforms in device collection, data storage, and computing.
 
 ## Page 119
 
- 
- 
 FMCD2009 / 2.0 
  119 
  
 BACK 
  
-  
 Unit III 
  
 Chapter 7: Sensors, Actuators, and Embedded Platforms 
@@ -4941,12 +4534,8 @@ Universities Press, 2015, ISBN: 9788173719547
 
 ## Page 120
 
- 
- 
 FMCD2009 / 2.0 
  120 
- 
- 
  
 BACK 
   
@@ -4967,11 +4556,8 @@ contemporary issues in the defined area.
 
 ## Page 121
 
- 
- 
 FMCD2009 / 2.0 
  121 
- 
  
 BACK 
   
@@ -5000,12 +4586,8 @@ effective presentation.
 
 ## Page 122
 
- 
- 
 FMCD2009 / 2.0 
  122 
- 
- 
  
 BACK 
   
@@ -5034,12 +4616,8 @@ effective presentation.
 
 ## Page 123
 
- 
- 
 FMCD2009 / 2.0 
  123 
- 
- 
  
 BACK 
   
@@ -5062,8 +4640,6 @@ identified problem from the real world.
 
 ## Page 124
 
- 
- 
 FMCD2009 / 2.0 
  124 
 Program: Automation & Robotics Engineering Semester: VII 
@@ -5106,7 +4682,6 @@ of Engineers, Imped iments to responsibility, Honesty, Integrity and reliability
 liability in engineering. Bhopal Gas Tragedy, Titanic case. 
  
 Chapter 8: Intellectual Property Rights 
-Intellectual Property Rights (IPRs)- Patents, Copyright and Designs 
  
 Chapter 9: Ethical perspectives of professional bodies  
 Ethical perspectives of professional bodies- IEEE, ASME, NSPE and ABET, ASCE etc 
@@ -5115,15 +4690,11 @@ Unit III
 
 ## Page 125
 
- 
- 
 FMCD2009 / 2.0 
  125 
  
- 
 BACK 
   
- 
 Chapter10: Effects of Human Activities on Environment  
 Effects of human activities on environment - Agriculture, Housing, Industry, Mining, and 
 Transportation activities, Environmental Impact Assessment, Sustainability and Sustainable 
@@ -5143,8 +4714,6 @@ Reference Books:
 
 ## Page 126
 
- 
- 
 FMCD2009 / 2.0 
  126 
 Program: Automation & Robotics Semester: VIII 
@@ -5192,8 +4761,6 @@ Standards
 
 ## Page 127
 
- 
- 
 FMCD2009 / 2.0 
  127 
  
@@ -5230,11 +4797,8 @@ Whitepaper #59, 2018.
 
 ## Page 128
 
- 
- 
 FMCD2009 / 2.0 
  128 
- 
  
 BACK 
   
@@ -5257,12 +4821,8 @@ identified problem from the real world.
 
 ## Page 129
 
- 
- 
 FMCD2009 / 2.0 
  129 
- 
- 
  
 BACK 
   
@@ -5288,14 +4848,10 @@ communication.
 
 ## Page 130
 
- 
- 
 FMCD2009 / 2.0 
  130 
  
- 
 BACK 
- 
  
 Program: Automation & Robotics Semester: VIII 
 Course Title: Industry Internship - Project Work Course Code: 17EARW494 

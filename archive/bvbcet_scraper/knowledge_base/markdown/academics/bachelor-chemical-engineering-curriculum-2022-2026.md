@@ -1,27 +1,10 @@
 # PDF Document: bachelor-chemical-engineering-curriculum-2022-2026
+
 **PDF Source:** https://www.kletech.ac.in/pdf/bachelor-chemical-engineering-curriculum-2022-2026.pdf
 
 ## Page 1
 
 FMCD2009 / 2.0 1 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Curriculum Structure and Curriculum Content for the Academic Batch 2022-26 
 Department of Chemical Engineering 
@@ -30,11 +13,6 @@ Program: Bachelor of Engineering
 ## Page 2
 
 FMCD2009 / 2.0 2 
- 
- 
- 
- 
- 
  
 Table of Contents 
 Vision and Mission of KLE Technological University.......................................................................................... 3 
@@ -58,14 +36,12 @@ Curriculum Content - Course wise ...............................................
 
 FMCD2009 / 2.0 3 
  
- 
 Vision and Mission of KLE Technological University 
  
 Vision 
  
 KLE Technological University will be a national leader in Higher Education –recognised globally for innovative 
 culture, outstanding student experience, research excellence and social impact.  
- 
  
 Mission 
  
@@ -91,7 +67,6 @@ partnership to accomplish our mission.
 
 FMCD2009 / 2.0 4 
  
- 
 Vision and Mission Statements of the Chemical Engineering Department 
  
 Vision 
@@ -110,7 +85,6 @@ through seminars and projects.
 ## Page 5
 
 FMCD2009 / 2.0 5 
- 
  
 Program Educational Objectives/Program Outcomes and Program-Specific Objectives 
  
@@ -161,8 +135,6 @@ iii. Critical thinking in the broadest context of technological change. (WK8)
 
 FMCD2009 / 2.0 6 
  
- 
- 
 Program Specific Objectives - PSOs 
 PSO 1 - Expertise in core chemical Courses: Exhibit basic understanding of process calculations, reaction 
 engineering and process equipment design. 
@@ -170,7 +142,6 @@ PSO 2 - Flair to industry: Acquire practical knowledge of unit operations and un
 industry visits, internships and projects. 
 PSO 3 - Expertise in allied areas: Apply principles of chemical engineering to bio-energy, petroleum, 
 biochemical and environmental engineering. 
- 
  
 Knowledge and Attitude Profile (WK) 
 . 
@@ -198,7 +169,6 @@ physical ability etc. with mutual understanding and respect, and of inclusive at
 ## Page 7
 
 7 FMCD2009 / 2.0 
- 
  
 Curriculum Structure - Overall 
 Semester: 1 to 8 (2022- Batch)      Total Program Credits:178 
@@ -414,7 +384,6 @@ Credits 23 21 22 24 24.5 23.5 22 17
 
 8 FMCD2009 / 2.0 
  
- 
 Curriculum Structure-Semester wise 
 Semester – I 
  
@@ -439,9 +408,7 @@ TOTAL  14-3-6 23 32
 
 9 FMCD2009 / 2.0 
  
- 
 Semester – II 
- 
  
 No 
 Code Course Category L-T-P Credits Contact 
@@ -466,14 +433,7 @@ TOTAL  14-2-5 21 27
 
 10 FMCD2009 / 2.0 
  
- 
- 
- 
- 
- 
 Semester – III 
- 
- 
  
 No 
 Code Course Category L-T-P Credits Contact 
@@ -501,12 +461,7 @@ TOTAL  19-0-3 22.5 30
 
 11 FMCD2009 / 2.0 
  
- 
- 
- 
- 
 Semester – IV 
- 
  
 No 
  
@@ -550,11 +505,7 @@ TOTAL  17-1-3 21.5 31
 
 12 FMCD2009 / 2.0 
  
- 
- 
- 
 Semester – V 
- 
  
 No 
  
@@ -601,12 +552,7 @@ TOTAL  18-0-5 23.5 40
 
 13 FMCD2009 / 2.0 
  
- 
- 
- 
- 
 Semester – VI 
- 
  
 No 
  
@@ -645,7 +591,6 @@ Skills
 HS  0.5      
 TOTAL  16-0-8 26.5 30     
  
- 
 Program Electives 
 Vertical-I 
 (Energy, Environment, and Sustainability) 
@@ -663,12 +608,7 @@ Processing
 
 14 FMCD2009 / 2.0 
  
- 
- 
- 
- 
 Semester – VII 
- 
  
 No 
  
@@ -725,11 +665,7 @@ Engineering
 
 15 FMCD2009 / 2.0 
  
- 
- 
- 
 Semester – VIII 
- 
  
 No 
  
@@ -803,10 +739,7 @@ Credits 23 21 22.5 21.5 23.5 26.5 23 17 178
 
 FMCD2009 / 2.0 16 
  
- 
- 
 List of Open Electives 
- 
  
 Sr. No. Name of the Course Course Code 
 1 Green Technology 22ECE0401 
@@ -819,7 +752,6 @@ Sr. No. Name of the Course Course Code
 ## Page 17
 
 FMCD2009 / 2.0 17 
- 
  
 List of Program Electives 
  
@@ -849,9 +781,7 @@ Sr.No Name of the Course Course Code
 
 FMCD2009 / 2.0 18 
  
- 
 Curriculum Content - Course wise (Semester – 1) 
- 
  
 Program: UG Semester: I 
 Course Title: Single Variable Calculus Course Code: 18EMAB101 
@@ -901,8 +831,6 @@ Reference Books:
 ## Page 19
 
 FMCD2009 / 2.0 19 
- 
- 
  
 Back to Semester - 1 
  
@@ -958,8 +886,6 @@ printed circuit boards.
 
 FMCD2009 / 2.0 20 
  
- 
- 
 Unit – III 
 Chapter 7. Polymers 
 Introduction, free radical mechanism of addition polymerisation taking Ethylene as an example; commercial 
@@ -992,7 +918,6 @@ Chand & Co., 1992.
 
 FMCD2009 / 2.0 21 
  
- 
 Back to Semester - 1 
  
 Program: UG Semester: I 
@@ -1013,8 +938,6 @@ Conditional branching statements: if statement, if else statement, else if ladde
 unconditional branching statements: break, continue. 
 Introduction to Debugging Skills Introduction 
 to Test Driven Programming. 
- 
- 
  
 12 hrs 
 4 Iterative statements 
@@ -1049,8 +972,6 @@ Reference Books:
 
 Back to Semester - 1 
 FMCD2009 / 2.0 22 
- 
- 
  
 Program: UG Semester: I 
 Course Title: Engineering Exploration Course Code: 15ECRP101 
@@ -1095,8 +1016,6 @@ Software Tool
 
 Back to Semester - 1 
 FMCD2009 / 2.0 23 
- 
- 
  
 Program: UG Semester: I 
 Course Title: Basic Electronics Course Code: 18EECF102 Teaching 
@@ -1153,9 +1072,6 @@ Automatic Camera, Drilling Machine, Bar code reader.
 
 FMCD2009 / 2.0 24 
  
- 
- 
- 
 Text Books 
 1. David A Bell, “Electronic devices and Circuits” , PHI New Delhi, 2004. 
 2. Morris Mano, “Digital logic and Computer design” 21st Indian print Prentice Hall India, 2000. 
@@ -1175,7 +1091,6 @@ and Engineers”, Second Edition, New Age International Publishers, Wiley Easter
 ## Page 25
 
 FMCD2009 / 2.0 25 
- 
  
 Back to Semester - 1 
  
@@ -1248,8 +1163,6 @@ Video presentations
 
 FMCD2009 / 2.0 26 
  
- 
- 
 4 Thermal Engineering 1: Prime 
 Movers. 
 Internal Combustion Engines: 
@@ -1293,7 +1206,6 @@ edition 2001, Media Promoters and Publishers.
 
 FMCD2009 / 2.0 27 
  
- 
 Back to Semester - 1 
  
 Program: UG Semester: I 
@@ -1328,12 +1240,9 @@ References:
 2. Raymond Murphy - Intermediate English Grammar, Cambridge University Press 
 3. Martin Hewings- Advanced English Grammar, Cambridge University Press. 
  
-
 ## Page 28
 
 FMCD2009 / 2.0 28 
- 
- 
  
 Curriculum Content - Course wise (Semester – 2) 
  
@@ -1380,8 +1289,6 @@ Reference Books:
 
 Back to Semester –II 
 FMCD2009 / 2.0 29 
- 
- 
  
 Program: UG Semester: II 
 Course Title: Engineering Physics Course Code: 15EPHB102 
@@ -1440,8 +1347,6 @@ Company, Volume 1, 3rd Edition
 Back to Semester –II 
 FMCD2009 / 2.0 30 
  
- 
- 
 Program: UG Semester: II 
 Course Title: Engineering Mechanics Course Code: 15ECVF102 
 L-T-P: 4-0-0 Credits: 4 Contact Hours: 3 hrs/week 
@@ -1488,8 +1393,6 @@ support reactions for a statically determinate beam. 5 hrs.
 
 FMCD2009 / 2.0 31 
  
- 
- 
 5 Chapter 5:Static Friction 
 Introduction, types of friction, definition, limiting friction, coefficient of  friction, laws ofCoulomb 
 friction, angle of friction, angle of repose, and cone of friction. Wedge and beltfriction theory. 
@@ -1502,7 +1405,6 @@ Introduction, Definition, Methods of determining the centroid, axis of reference
 symmetry, Locating the centroid of simple plane figures (triangle, semicircle, quarter of a circle 
 and sector of a circle etc,.) using the  method of integration, Numerical problems on Centroid  of 
 simple built up sections. 5 hrs. 
- 
  
 Unit – III 
 7 Chapter 7: Second moment of area (Plane figures) 
@@ -1535,8 +1437,6 @@ Company, New Delhi, 1956.
 
 Back to Semester –II 
 FMCD2009 / 2.0 32 
- 
- 
  
 Program: UG Semester: II 
 Course Title: Computer-Aided Engineering Drawing Course Code: 15EMEP101 
@@ -1587,8 +1487,6 @@ Text Books:
 
 Back to Semester –II 
 FMCD2009 / 2.0 33 
- 
- 
  
 Program: UG Semester: II 
 Course Code: 18EEEF102 Course Title: Basic Electrical Engineering 
@@ -1647,8 +1545,6 @@ Text Books:
 
 FMCD2009 / 2.0 34 
  
- 
- 
 3 Gilbert M Masters, Renewable and Efficient Electrical Power systems, John Wiley & Sons, 2004 
 4 Frank D. Petruzella, Electric Motors and Control Systems, MGH Education, 2009 Edition  
 Reference Books: 
@@ -1660,9 +1556,6 @@ Reference Books:
 ## Page 35
 
 FMCD2009 / 2.0 35 
- 
- 
- 
  
 Back to Semester –II 
  
@@ -1764,15 +1657,12 @@ Kelley – IDEO Founder)
 
 FMCD2009 / 2.0 36 
  
- 
- 
   asking the stakeholders about the 
 website) 
 (Spending one lakh for the 
 business which is never 
 launched) 
   
- 
 Process of Social Innovation 
 Engage 
 Community study and 
@@ -1853,8 +1743,6 @@ sample case study
 
 FMCD2009 / 2.0 37 
  
- 
- 
   3.1 Synthesis 
  Search for meaning 
  Create “How might 
@@ -1870,7 +1758,6 @@ We’ Questions
 respective templates  
 with the help  of sample 
 case study 
- 
  
 3.0 Ideation 
 3.2 Prototyping 
@@ -1941,8 +1828,6 @@ sample case study
 
 FMCD2009 / 2.0 38 
  
- 
- 
   5.0 Reflect 
 Reflection of the overall 
 learning by the students 
@@ -1962,7 +1847,6 @@ sample case study
 ## Page 39
 
 FMCD2009 / 2.0 39 
- 
  
 Back to Semester –II 
  
@@ -1987,11 +1871,7 @@ Experiments
 
 FMCD2009 / 2.0 40 
  
- 
- 
- 
 Curriculum Content - Course wise (Semester – 3) 
- 
  
 Program: Bachelor of Engineering Semester: III 
 Course Title: Calculus and Integral Transforms Course Code:15EMAB231 
@@ -2034,8 +1914,6 @@ Reference Books:
 
 Back to Semester –III 
 FMCD2009 / 2.0 41 
- 
- 
  
 Program: Bachelor of Engineering Semester: III 
 Course Title: Statistics and Integral Transforms Course Code:15EMAB201 
@@ -2089,8 +1967,6 @@ Oxford Indian.
 Back to Semester –III 
 FMCD2009 / 2.0 42 
  
- 
- 
 Program: Bachelor of Engineering Semester: III 
 Course Title: Momentum Transfer Course Code: 22ECEC201 
 L-T-P:4-0-0 Credits:4 Contact Hours:4 hrs/week 
@@ -2142,10 +2018,6 @@ McGraw Hill Education, 2017.
 
 FMCD2009 / 2.0 43 
  
- 
- 
- 
- 
 References 
 1. Coulson J.M. and Richardson J.F. with Backhurst J.R. and Marker J.H., Chemical Engineering, Vol. 1, 6th 
 Edition, B utter worth - Heinemann New Delhi, 1999 
@@ -2155,7 +2027,6 @@ McGraw Hill, New York, 1997
 ## Page 44
 
 FMCD2009 / 2.0 44 
- 
  
 Back to Semester –III 
  
@@ -2219,7 +2090,6 @@ Magnetic separation, Electrostatic separation, Jigging, Heavy media separation, 
 
 FMCD2009 / 2.0 45 
  
- 
 Textbooks 
 1. Warren McCabe, Julian Smith, Peter Harriott, Unit Operations of Chemical Engineering, 7th Edition 
 Paperback – 1 July 2017 
@@ -2234,9 +2104,6 @@ operations. John Wiley & Sons, 2015.
 ## Page 46
 
 FMCD2009 / 2.0 46 
- 
- 
- 
  
 Back to Semester –III 
  
@@ -2285,8 +2152,6 @@ Delhi,1997
 
 Back to Semester –III 
 FMCD2009 / 2.0 47 
- 
- 
  
 Program: Bachelor of Engineering Semester: III 
 Course Title: Chemical Process Industries Course Code: 22ECEC204 
@@ -2337,8 +2202,6 @@ References
 Back to Semester –III 
 FMCD2009 / 2.0 48 
  
- 
- 
 Program: UG Semester: III 
 Course Title: Momentum Transfer Lab. Course Code: 22ECEP201 
 L-T-P:0-0-1 Credits:1 Contact Hours: 2hrs/week 
@@ -2366,8 +2229,6 @@ Text Books
 
 Back to Semester –III 
 FMCD2009 / 2.0 49 
- 
- 
  
 Program: UG Semester: III 
 Course Title: Particulate Technology Lab. Course Code: 22ECEP202 
@@ -2398,8 +2259,6 @@ Text Books
 Back to Semester –III 
 FMCD2009 / 2.0 50 
  
- 
- 
 Program: UG Semester: III 
 Course Code: 22ECEP203 Course Title: Computer-Aided Drawing Lab. 
 L-T-P-SS:0-0-1 Credits: 1 Contact Hrs.: 02 Hrs./Week 
@@ -2429,8 +2288,6 @@ Reference Books:
 Back to Semester –III 
 FMCD2009 / 2.0 51 
  
- 
- 
 Program: UG Semester: III 
 Course Code: 22EHSC201 Course Title: Corporate Communication 
 L-T-P-SS:0-0-0.5 Credits : 0.5 Contact Hrs.: 02 Hrs./Week 
@@ -2459,9 +2316,6 @@ References:
 ## Page 52
 
 FMCD2009/2.0 52 
- 
- 
- 
  
 Curriculum Content - Course wise (Semester – 4) 
  
@@ -2502,10 +2356,6 @@ Reference Books:
 ## Page 53
 
 FMCD2009/2.0 53 
- 
- 
- 
- 
  
 Back to Semester –IV 
  
@@ -2561,8 +2411,6 @@ Reference Books:
 Back to Semester –IV 
 FMCD2009/2.0 54 
  
- 
- 
 Program: UG Semester: IV 
 Course Title: Industrial Pollution and Control Course Code: 22ECEC205 
 L-T-P:3-0-0 Credits:3 Contact Hours: 3 hrs/week 
@@ -2608,8 +2456,6 @@ Home Pvt. Ltd., New Delhi, 2010.
 
 Back to Semester –IV 
 FMCD2009/2.0 55 
- 
- 
  
 Program: UG Semester: IV 
 Course Title: Process Heat Transfer Course Code: 22ECEC206 
@@ -2660,8 +2506,6 @@ Coulson J.M. and Richardson J.F. with Backhurst J.R. and Marker J.H., Coulson J.
 
 Back to Semester –IV 
 FMCD2009/2.0 56 
- 
- 
  
 Program: UG Semester: IV 
 Course Title: Chemical Engineering Thermodynamics Course Code: 22ECEC207 
@@ -2721,8 +2565,6 @@ Limited, New Delhi, 2013
 Back to Semester –IV 
 FMCD2009/2.0 57 
  
- 
- 
 Program: U G Semester: IV 
 Course Title: Material Science and Engineering Course Code: 22ECEC208 
 L-T-P:3-0-0 Credits: 3 Contact Hours: 3hrs/week 
@@ -2776,8 +2618,6 @@ Engineering) by L. H. Van Vlack – 1 January 1989
 Back to Semester –IV 
 FMCD2009/2.0 58 
  
- 
- 
 Program: UG Semester: IV 
 Course Title: Computer-based Chemical Calculations Lab. Course Code: 22ECEP204 
 L-T-P:2-0-0 Credits:2 Contact Hours: 2hrs/week 
@@ -2808,8 +2648,6 @@ Learning Private Limited, 2010
 
 Back to Semester –IV 
 FMCD2009/2.0 59 
- 
- 
  
 Program: UG Semester: IV 
 Course Title: Process Heat Transfer Lab. Course Code: 22ECEP205 
@@ -2843,8 +2681,6 @@ Vol. 1, 6th Edition, Butterworth-Heinemann New Delhi, 1999
 
 Back to Semester –IV 
 FMCD2009/2.0 60 
- 
- 
  
 Program: UG Semester: IV 
 Course Title: Technical Chemistry Lab. Course Code: 22ECEP206 
@@ -2881,8 +2717,6 @@ Text Books
 
 Back to Semester –IV 
 FMCD2009/2.0 61 
- 
- 
  
 Program: UG Semester: IV 
 Course Title: Problem Solving & Analysis Course Code: 22EHSH202 
@@ -2921,7 +2755,6 @@ Delhi, 2018
 ## Page 62
 
 FMCD2009 / 2.0 62 
- 
  
 Curriculum Content - Course wise (Semester – 5) 
  
@@ -2977,7 +2810,6 @@ Engineering and the Computing Sciences, 4th Ed, TATA McGraw-Hill Edition 2007.
 
 FMCD2009 / 2.0 63 
  
- 
 Back to Semester – V 
  
 Program: Bachelor of Engineering Semester: V 
@@ -3021,8 +2853,6 @@ Reference Books:
 
 Back to Semester – V 
 FMCD2009 / 2.0 64 
- 
- 
  
 Program: Bachelor of Engineering Semester: V 
 Course Title: Computer Applications, Modeling & Simulation Course Code: 22ECEC302 
@@ -3075,8 +2905,6 @@ Vol. 1, 6th edition, Butter worth-Heinemann New Delhi, 1999
 
 Back to Semester – V 
 FMCD2009 / 2.0 65 
- 
- 
  
 Program: Bachelor of Engineering Semester: V 
 Course Title: Bioprocess Engineering Course Code: 22ECEC303 
@@ -3131,8 +2959,6 @@ Heinemann an Imprint of Elsevier, 2016
 Back to Semester – V 
 FMCD2009 / 2.0 66 
  
- 
- 
 Program: Bachelor of Engineering Semester: V 
 Course Title: Mass Transfer Course Code: 22ECEC304 
 L-T-P:3-1-0 Credits:4 Contact Hours:4Hrs/week 
@@ -3182,8 +3008,6 @@ Reference Books:
 
 Back to Semester – V 
 FMCD2009 / 2.0 67 
- 
- 
  
 Program: Bachelor of Engineering Semester: V 
 Course Title: Chemical Reaction Engineering - I Course Code: 22ECEC305 
@@ -3236,8 +3060,6 @@ Reference Books:
 Back to Semester – V 
 FMCD2009 / 2.0 68 
  
- 
- 
 Program: Bachelor of Engineering Semester: V 
 Course Title: Mini Project Course Code:15EMEW301 
 L-T-P:0-0-3 Credits:3 Contact Hours:3 Hrs/week 
@@ -3265,8 +3087,6 @@ November 2019)
 
 Back to Semester – V 
 FMCD2009 / 2.0 69 
- 
- 
  
 Program: Bachelor of Engineering Semester: V 
 Course Title: Computer Applications & Simulation Lab. Course Code: 22ECEP301 
@@ -3306,9 +3126,6 @@ and Process Design Principles: Synthesis, Analysis and Evaluation, 4 th edition,
 Back to Semester – V 
 FMCD2009 / 2.0 70 
  
- 
- 
- 
 Program: Bachelor of Engineering Semester: V 
 Course Title: Pollution Control Lab. Course Code: 22ECEP302 
 L-T-P:0-0-1 Credits:4 Contact Hours:4Hrs/week 
@@ -3335,9 +3152,6 @@ Text Books
 ## Page 71
 
 FMCD2009 / 2.0 71 
- 
- 
- 
  
 Back to Semester – V 
  
@@ -3375,8 +3189,6 @@ References:
 
 72 FMCD2009 / 2.0 
  
- 
- 
 Curriculum Content - Course wise (Semester – 6) 
  
 Program: Bachelor of Engineering Semester: VI 
@@ -3409,10 +3221,6 @@ Reference Books
 ## Page 73
 
 73 FMCD2009 / 2.0 
- 
- 
- 
- 
  
 Back to Semester – VI 
  
@@ -3462,8 +3270,6 @@ Wiley, 1990.
 
 Back to Semester – VI 
 74 FMCD2009 / 2.0 
- 
- 
  
 Program: Bachelor of Engineering Semester: VI 
 Course Title: Mass Transfer - II Course Code: 25ECEC307 
@@ -3518,8 +3324,6 @@ Reference Books
 Back to Semester – VI 
 75 FMCD2009 / 2.0 
  
- 
- 
 Program: Bachelor of Engineering Semester: VI 
 Course Title: Minor Project Course Code: 22ECEW302 
 L-T-P : 0-0-6 Credits: 4 Contact Hours: 16 Hrs/week 
@@ -3544,8 +3348,6 @@ communication, teamwork, and time management
 
 Back to Semester – VI 
 76 FMCD2009 / 2.0 
- 
- 
  
 Program: Bachelor of Engineering Semester: VI 
 Course Title: Chemical Reaction Engineering Lab. Course Code: 22ECEP303 
@@ -3576,8 +3378,6 @@ Chemical & Catalytic Reaction Engineering, James J. Carberry, McGraw Hill, 1976.
 Back to Semester – VI 
 77 FMCD2009 / 2.0 
  
- 
- 
 Program: Bachelor of Engineering Semester: VI 
 Course Title: Mass Transfer Lab. Course Code: 22ECEP303 
 L-T-P : 0-0-1.5 Credits: 1.5 Contact Hours: 3 Hrs/week 
@@ -3604,8 +3404,6 @@ Text Books:
 
 Back to Semester – VI 
 78 FMCD2009 / 2.0 
- 
- 
  
 Program: Bachelor of Engineering Semester: VI 
 Course Title: Industry Readiness & Leadership Skills Course Code: 22EHSH302 
@@ -3635,8 +3433,6 @@ References:
 
 Back to Semester – VI 
 79 FMCD2009 / 2.0 
- 
- 
  
 Program: Bachelor of Engineering Semester: VI 
 Course Title: Renewable Energy Course Code: 22ECEE301 
@@ -3693,8 +3489,6 @@ Reference Book
 Back to Semester – VI 
 80 FMCD2009 / 2.0 
  
- 
- 
 Program: Bachelor of Engineering Semester: VI 
 Course Title: Fermentation & Downstream Processing Course Code: 22ECEE302 
 L-T-P:3-0-0 Credits:3 Contact Hours:3Hrs/week 
@@ -3748,8 +3542,6 @@ Edition, Sinauer Associates, 1990.
 
 Back to Semester – VI 
 81 FMCD2009 / 2.0 
- 
- 
  
 Program: Bachelor of Engineering Semester: VI 
 Course Title: Industrial Safety and Health Course Code: 22ECEE304 
@@ -3809,8 +3601,6 @@ Reference Books
 Back to Semester – VI 
 82 FMCD2009 / 2.0 
  
- 
- 
 Program: Bachelor of Engineering Semester: VI 
 Course Title: Transport Phenomena Course Code: 22ECEE305 
 L-T-P:3-0-0 Credits:3 Contact Hours:3Hrs/week 
@@ -3854,22 +3644,11 @@ Text Books
 4. Transport Phenomena - A Unified Approach, Robert S. BrodKey and Henry C. Hershley, Vol.2, Brodkey 
 Publishing, 2003 
  
- 
- 
- 
- 
- 
- 
- 
- 
 Back to Semester – VI 
 
 ## Page 83
 
 83 FMCD2009 / 2.0 
- 
- 
- 
  
 Program: Bachelor of Engineering Semester: VI 
 Course Title: Instrumentation Engineering Course Code: 22ECEE306 
@@ -3931,9 +3710,6 @@ Program: Bachelor of Engineering Semester: VI
 
 84 FMCD2009 / 2.0 
  
- 
- 
- 
 Course Title: Chemical Plant Utilities Course Code: 22ECEE307 
 L-T-P:3-0-0 Credits:3 Contact Hours:3Hrs/week 
 ISA Marks:50 ESA Marks:50 Total Marks:100 
@@ -3989,8 +3765,6 @@ Reference Book
 Back to Semester – VI 
 85 FMCD2009 / 2.0 
  
- 
- 
 Program: Bachelor of Engineering Semester: VI 
 Course Title: Oils and Fats Course Code: 22ECEE308 
 L-T-P:3-0-0 Credits:3 Contact Hours:3Hrs/week 
@@ -4036,8 +3810,6 @@ volumes, 2004–2007.
 
 Back to Semester – VI 
 86 FMCD2009 / 2.0 
- 
- 
  
 Program: Bachelor of Engineering Semester: VI 
 Course Title: Instrumental Methods of Analysis Course Code: 22ECEE303 
@@ -4089,8 +3861,6 @@ Health Association (APHA).
 ## Page 87
 
 87 FMCD2009 / 2.0 
- 
- 
  
 Curriculum Content - Course wise (Semester – 7) 
  
@@ -4145,9 +3915,6 @@ values to determine the total height of the packing needed for efficient absorpt
 
 88 FMCD2009 / 2.0 
  
- 
- 
- 
 Text Books 
 1. Process Equipment Design by M. V. Joshi, 3rd Edition, Reprint, McMillan & Co. India, Delhi, 1998. 
 2. Process Design of Equipment – Volume 1 by S. D. Dawande, 6th Edition, Central Techno Publications, 
@@ -4167,8 +3934,6 @@ Reference Books:
 
 Back to Semester – VII 
 89 FMCD2009 / 2.0 
- 
- 
  
 Program: Bachelor of Engineering Semester: VII 
 Course Title: Process control and IIoT Course Code: 22ECEC402 
@@ -4222,8 +3987,6 @@ Hall, New Delhi, 1998.
 Back to Semester – VII 
 90 FMCD2009 / 2.0 
  
- 
- 
 Program: Bachelor of Engineering Semester: VII 
 Course Title: Introduction to Sustainable Technologies Course Code: 25ECEE401 
 L-T-P:3-0-0 Credits: 3 Contact Hours: 3Hrs / week 
@@ -4269,14 +4032,11 @@ Rao, published by Academic Press in 2020.
 PHI Learning in 2015 
 4. Elements of Sustainable Chemical Process Design by Robert Smith, published by Wiley in 2005 
 5. Industrial Ecology and Sustainable Engineering by T. E. Graedel and Braden R. Allenby, published by 
-Prentice Hall (Pearson) in 2009 (1st Edition) and updated/copyright 2010. 
 
 ## Page 91
 
 Back to Semester – VII 
 91 FMCD2009 / 2.0 
- 
- 
  
 Program: Bachelor of Engineering Semester: VII 
 Course Title: Food Technology Course Code: 22ECEE402 
@@ -4327,8 +4087,6 @@ Reference Books:
 Back to Semester – VII 
 92 FMCD2009 / 2.0 
  
- 
- 
 Program: Bachelor of Engineering Semester: VII 
 Course Title: Advanced Process Control Course Code: 22ECEE403 
 L-T-P:3-0-0 Credits:3 Contact Hours:3Hrs/week 
@@ -4370,8 +4128,6 @@ Johnson, C. D., Process Control Instrumentation Technology, Prentice Hall of Ind
 
 Back to Semester – VII 
 93 FMCD2009 / 2.0 
- 
- 
  
 Program: Bachelor of Engineering Semester: VII 
 Course Title: Waste Management Course Code: 22ECEE404 
@@ -4421,8 +4177,6 @@ Shahul Hamid, Mehran Sanam Bhatti, IGI Global, 2020.
 
 Back to Semester – VII 
 94 FMCD2009 / 2.0 
- 
- 
  
 Program: Bachelor of Engineering Semester: VII 
 Course Title: Petroleum and Petrochemicals Engineering Course Code: 22ECEE405 
@@ -4480,8 +4234,6 @@ Professional Publishing.
 Back to Semester – VII 
 95 FMCD2009 / 2.0 
  
- 
- 
 Program: Bachelor of Engineering Semester: VII 
 Course Title: Process Modelling & Simulation Course Code: 22ECEE406 
 L-T-P:3-0-0 Credits: 3 Contact Hours: 3 Hrs / week 
@@ -4534,8 +4286,6 @@ Edition, 2021
 
 Back to Semester – VII 
 96 FMCD2009 / 2.0 
- 
- 
  
 Program: Bachelor of Engineering Semester: VII 
 Course Title: Pollution Control Technologies Course Code: 22ECEE407 
@@ -4592,8 +4342,6 @@ Shonnard, Prentice Hall.
 Back to Semester – VII 
 97 FMCD2009 / 2.0 
  
- 
- 
 Program: Bachelor of Engineering Semester: VII 
 Course Title: Pulp & Paper Technology Course Code: 22ECEE408 
 L-T-P:3-0-0 Credits: 3 Contact Hours: 3Hrs / week 
@@ -4638,22 +4386,11 @@ Reference Books:
 1. Bleaching of Pulp, 3rd Edition by Carlton W. Dence and Douglas W. Reeve; TAPPI Press, 1996; 
 ISBN 0898520630/9780898520637 
  
- 
- 
- 
- 
- 
- 
- 
 Back to Semester – VII 
 
 ## Page 98
 
 98 FMCD2009 / 2.0 
- 
- 
- 
- 
  
 Program: Bachelor of Engineering Semester: VII 
 Course Title: Data Analytics & Applications in Chemical Engineering Course Code: 22ECEE409 
@@ -4707,9 +4444,6 @@ CRC Press, 2024
 
 99 FMCD2009 / 2.0 
  
- 
- 
- 
 Back to Semester – VII 
  
 Program: Bachelor of Engineering Semester: VII 
@@ -4762,17 +4496,11 @@ Water Works Association (AWWA); AWWA, 2017 (ISBN 978‑1625761910)
 4. Introduction to Environmental Engineering and Science (3rd Edition) by Gilbert M. Masters and 
 William P. Ela; Prentice Hall, 2007 
  
- 
- 
 Back to Semester – VII 
 
 ## Page 100
 
 100 FMCD2009 / 2.0 
- 
- 
- 
- 
  
 Program: Bachelor of Engineering Semester: VII 
 Course Title: Polymer Science & Technology Course Code: 22ECEE411 
@@ -4822,8 +4550,6 @@ Reference Books:
 
 Back to Semester – VII 
 101 FMCD2009 / 2.0 
- 
- 
  
 Program: Bachelor of Engineering Semester: VII 
 Course Title: Machine Learning for Process Optimisation in Chemical 
@@ -4881,8 +4607,6 @@ O'Reilly Media, 2019.
 Back to Semester – VII 
 102 FMCD2009 / 2.0 
  
- 
- 
 Program: Bachelor of Engineering Semester: VII 
 Course Title: CIPE & EVS Course Code: 15EHSA401 
 L-T-P: Audit Credits: Audit Contact Hours: 3 Hrs/week 
@@ -4920,7 +4644,6 @@ Impediments to responsibility, Honesty, Integrity and reliability, risks, safety
 Gas Tragedy, Titanic case. 
 5 Hrs 
 Chapter 8: Intellectual Property Rights 
-Intellectual Property Rights (IPRs)- Patents, Copyright and Designs. 
 3 Hrs 
 Chapter 9: Ethical perspectives of professional bodies 
 Ethical perspectives of professional bodies- IEEE, ASME, NSPE, ABET, ASCE, etc. 
@@ -4938,9 +4661,6 @@ Environmental Protection – Constitutional Provisions and Environmental Laws in
 
 103 FMCD2009 / 2.0 
  
- 
- 
- 
 Text Books (List of books as mentioned in the approved syllabus) 
 1. Dr. J. N. Pandey, "Constitutional Law of India", Central Law Agency, 2005 
 2. Dr. M.K. Bhandari, "Law relating to Intellectual Property Rights", Central Law Publications,Allahabad, 
@@ -4953,10 +4673,6 @@ References
 ## Page 104
 
 104 FMCD2009 / 2.0 
- 
- 
- 
- 
  
 Back to Semester – VII 
  
@@ -4978,11 +4694,7 @@ points into effective business solutions.
 
 105 FMCD2009 / 2.0 
  
- 
- 
- 
 Back to Semester – VII 
- 
  
 Program: Bachelor of Engineering Semester: VII 
 Course Title: Process Control Lab. Course Code: 22ECEP401 
@@ -5013,8 +4725,6 @@ Prentice Hall, New Delhi, 1998.
 
 106 FMCD2009 / 2.0 
  
- 
- 
 Curriculum Content - Course wise (Semester – 8) 
  
 Program: Bachelor of Engineering Semester: VIII 
@@ -5042,8 +4752,6 @@ for the job.
 
 Back to Semester – VIII 
 107 FMCD2009 / 2.0 
- 
- 
  
 Program: Bachelor of Engineering Semester: VIII 
 Course Title: Internship - Project Course Code: 22ECEW403 
@@ -5076,8 +4784,6 @@ help train students to assume responsible roles in society.
 Back to Semester – VIII 
 FMCD2009 / 2.0 108 
  
- 
- 
 Program: Bachelor of Engineering Semester: VIII 
 Course Title: Capstone Project Course Code: 22ECEW402 
 L-T-P: 0-0-11 Credits: 11 Contact Hours: 22 hrs/week 
@@ -5097,8 +4803,6 @@ insight into the latest trends in their field.
 
 Back to Semester – VIII 
 FMCD2009 / 2.0 109 
- 
- 
  
 Program: Bachelor of Engineering Semester: VIII 
 Course Title: Fuels, Furnaces and Refractories Course Code: 22ECEE421 
@@ -5152,8 +4856,6 @@ Text Books
 Back to Semester – VIII 
 FMCD2009 / 2.0 110 
  
- 
- 
 Program: Bachelor of Engineering Semester: VIII 
 Course Title: Nano Materials & Applications Course Code: 22ECEE422 
 L-T-P:3-0-0 Credits: 3 Contact Hours: 3 Hrs/week 
@@ -5202,8 +4904,6 @@ and Matthew L. Sands, Addison-Wesley, 1965
 
 Back to Semester – VIII 
 FMCD2009 / 2.0 111 
- 
- 
  
 Program: Bachelor of Engineering Semester: VIII 
 Course Title: AI & ML for Chemical Engineers Course Code: 22ECEE423 
@@ -5254,8 +4954,6 @@ Edition, 2014.
 Back to Semester – VIII 
 FMCD2009 / 2.0 112 
  
- 
- 
 Program: Bachelor of Engineering Semester: VIII 
 Course Title: Environmental Impact Assessment Course Code: 22ECEE424 
 L-T-P:3-0-0 Credits: 3 Contact Hours: 3Hrs / week 
@@ -5304,8 +5002,6 @@ Reference Books:
 Back to Semester – VIII 
 FMCD2009 / 2.0 113 
  
- 
- 
 Program: Bachelor of Engineering Semester: VIII 
 Course Title: Corrosion Engineering Course Code: 22ECEE425 
 L-T-P:3-0-0 Credits: 3 Contact Hours: 3Hrs / week 
@@ -5353,8 +5049,6 @@ John Wiley & Sons, 10th Edition (2014).
 
 Back to Semester – VIII 
 FMCD2009 / 2.0 114 
- 
- 
  
 Program: Bachelor of Engineering Semester: VIII 
 Course Title: Green Technology Course Code: 22ECEO401 
@@ -5406,8 +5100,6 @@ Anastas and John C. Warner, Oxford University Press, 1998.
 
 Back to Semester – VIII 
 FMCD2009 / 2.0 115 
- 
- 
  
 Program: Bachelor of Engineering Semester: VIII 
 Course Title: Process Air Pollution & Control Course Code: 22ECEO402 
@@ -5467,8 +5159,6 @@ Hill International Publications, 1985.
 Back to Semester – VIII 
 FMCD2009 / 2.0 116 
  
- 
- 
 Program: Bachelor of Engineering Semester: VIII 
 Course Title: Environmental Protection and Management Course Code: 22ECEO403 
 L-T-P:3-0-0 Credits:3 Contact Hours:3Hrs/week 
@@ -5522,8 +5212,6 @@ Prentice Hall, 2003.
 Back to Semester – VIII 
 FMCD2009 / 2.0 117 
  
- 
- 
 Program: Bachelor of Engineering Semester: VIII 
 Course Title: Solid Waste Management Course Code: 22ECEO404 
 L-T-P:3-0-0 Credits:3 Contact Hours:3Hrs/week 
@@ -5576,8 +5264,6 @@ Metcalf & Eddy, Inc., 5th edition, McGraw-Hill, 2002
 
 Back to Semester – VIII 
 FMCD2009 / 2.0 118 
- 
- 
  
 Program: Bachelor of Engineering Semester: VIII 
 Course Title: Occupational Safety and Health Administration Course Code: 22ECEO405 
@@ -5635,8 +5321,6 @@ Change, Government of India, 2016.
 
 Back to Semester – VIII 
 FMCD2009 / 2.0 119 
- 
- 
  
 Program: Bachelor of Engineering Semester: VIII 
 Course Title: Nano Science and Technology Course Code: 22ECEO406 

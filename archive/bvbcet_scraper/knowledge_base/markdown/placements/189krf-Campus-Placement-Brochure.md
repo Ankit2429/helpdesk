@@ -1,4 +1,5 @@
 # PDF Document: 189krf-Campus-Placement-Brochure
+
 **PDF Source:** https://www.kletech.ac.in/uploads/Files/189krf-Campus-Placement-Brochure.pdf
 
 ## Page 1
@@ -105,7 +106,6 @@ Need of the Hour
 Higher Education 
 4th and 5th Sept. 2015 
  
-
 ## Page 5
 
 COLLEGE ACHIEVEMENTS
@@ -163,16 +163,13 @@ Ms. Jyothi D Patil 9th Rank June
 Karnataka State Law University, 
 Hubballi 
  
-
 ## Page 6
 
 Co- Curriculars
 
-
 ## Page 7
 
 Extra Curriculars
-
 
 ## Page 8
 
@@ -224,7 +221,6 @@ Knowledge Partners
 Other organizations
 Kindly note that all the above mentioned organizations have either done a joint venture with us or our students have directly or indirectly been 
 associated with them.
-
 
 ## Page 11
 

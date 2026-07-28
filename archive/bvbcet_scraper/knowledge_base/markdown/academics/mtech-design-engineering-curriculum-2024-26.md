@@ -1,44 +1,17 @@
 # PDF Document: mtech-design-engineering-curriculum-2024-26
+
 **PDF Source:** https://www.kletech.ac.in/pdf/mtech-design-engineering-curriculum-2024-26.pdf
 
 ## Page 1
 
- 
- 
 FMCD2009 / 2.0 1 
- 
- 
- 
- 
-  
- 
  
 Curriculum Structure and Curriculum Content for the Academic Batch - 2024-26 
 School /Department: School of Mechanical Engineering 
 Program: Master of Technology: Design Engineering 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 2
 
- 
- 
 FMCD2009 / 2.0 2 
  
 Table of Contents 
@@ -56,32 +29,16 @@ Semester- IV ...................................................................
 List of Program Electives ...................................................................................... 10 
 Curriculum Content- Course wise ........................................................................ 11 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 3
 
- 
- 
 FMCD2009 / 2.0 3 
 Vision and Mission of KLE Technological University 
  
 Vision 
  
- 
 KLE Technological  University will be a national leader in Higher 
 Education–recognised globally for innovative culture, outstanding 
 student experience, research excellence and social impact. 
- 
  
 Mission 
  
@@ -105,12 +62,8 @@ competitiveness and quality of life.
 As a unified community of  faculty, staff and students, we work together with 
 the spirit of collaboration and partnership to accomplish our mission. 
  
- 
-
 ## Page 4
 
- 
- 
 FMCD2009 / 2.0 4 
 Vision and Mission Statements of the School / Department 
  
@@ -119,27 +72,7 @@ KLE Tech - School of Mechanical Engineering will be a national lea der in
 mechanical engineering education - recognized for innovative culture, 
 outstanding research and societal outreach. 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
 Mission 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 01 
 03 02 
@@ -180,8 +113,6 @@ Vision
 
 ## Page 5
 
- 
- 
 FMCD2009 / 2.0 5 
 Program Educational Objectives/Program Outcomes and Program-Specific 
 Objectives 
@@ -209,25 +140,10 @@ Engineering related problems with an understanding of their limitations.
 PO5: An ability to select and integrate products and processes that account for long -term 
 consumer satisfaction and environmental conservation. 
  
-
 ## Page 6
 
- 
- 
 FMCD2009 / 2.0 6 
 Curriculum Structure-Overall 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Semester- 1 to 4 (2023-25)                                                                                                                    Total Program Credits: 88 
 Course with course code 
@@ -251,7 +167,6 @@ design
 (20EDGC705) 
 Project Phase I 
 (20EDGW801) 
- 
  
 Failure of Materials in 
 Mechanical Design 
@@ -281,13 +196,9 @@ Credits 25 25 18 20
 
 ## Page 7
 
- 
- 
 FMCD2009 / 2.0 7 
 Curriculum Structure-Semester wise 
 Semester – I         ←Back Table of Contents 
- 
- 
  
 No Code Course Category L-T-P Credits Contact   
 Hours ISA ESA Total 
@@ -307,14 +218,8 @@ TOTAL 17-3-5 25 33
 
 ## Page 8
 
- 
- 
 FMCD2009 / 2.0 8 
 Semester - II                                                           ←Back Table of Contents 
- 
- 
- 
- 
  
 No Code Course Category L-T-P Credits Contact  
 Hours ISA ESA Total 
@@ -335,15 +240,10 @@ Total 16-3-6 25 35
 
 ## Page 9
 
- 
- 
 FMCD2009 / 2.0 9 
 Semester- III                                                                ←Back Table of Contents 
  
- 
 Semester- IV 
- 
- 
  
 Semester I II III IV Total 
 Credits 25 25 18 20 88 
@@ -366,8 +266,6 @@ Total 0-0-20 20 40
 
 ## Page 10
 
- 
- 
 FMCD2009 / 2.0 10 
                                         List of Program Electives                    ←back-1Semester 
 Sr. No Name of the Course Course Code 
@@ -384,26 +282,8 @@ Sr. No Name of the Course Course Code
 11 Fracture Mechanics 20EDGE711 
 12 Rotor Dynamics 20EDGE712 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 11
 
- 
- 
 FMCD2009 / 2.0 11 
 Curriculum Content- Course wise      ←back-1Semester 
  
@@ -449,8 +329,6 @@ Age    International, 2003.
 
 ## Page 12
 
- 
- 
 FMCD2009 / 2.0 12 
 ←back-1Semester 
 Program: PG_Design Engineering  Semester: I 
@@ -498,8 +376,6 @@ Reference Books:
 
 ## Page 13
 
- 
- 
 FMCD2009 / 2.0 13 
 4th edition, Pearson, 2011. 
 4. David Hutton, Fundamentals of Finite Element Analysis, Tata McGraw Hill, 2005. 
@@ -511,33 +387,8 @@ Engineers, Wiley-    India Edition, 2009.
 9. S. M. Murigendrappa, Fundamentals of Finite Element Methods, Interline Publication, 2nd 
 Edition 2009. 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 14
 
- 
- 
 FMCD2009 / 2.0 14 
 ←back-1Semester 
 Program: PG_Design Engineering  Semester: I 
@@ -582,11 +433,8 @@ Reference Books:
 3. Robert L. Norton, Machine Design, An Integrated Approach, 2nd edition, Pearson, 2000. 
 4. S. Suresh, Fatigue of Materials, 2nd edition, Cambridge University Press, 1998. 
  
-
 ## Page 15
 
- 
- 
 FMCD2009 / 2.0 15 
 ←back-1Semester 
 Program: PG_Design Engineering  Semester: I 
@@ -635,12 +483,8 @@ Heinemann is an imprint of Elsevier, 2013.
 4. Donatello Annaratone ,Pressure Vessel Design, Springer, 2007 
 5. A S Tooth , J Spence, Pressure Vessel Design: Concepts and Principles, Spon Press, 1994. 
  
- 
-
 ## Page 16
 
- 
- 
 FMCD2009 / 2.0 16 
 ←back-1Semester 
 Program: PG_Design Engineering  Semester: I 
@@ -689,8 +533,6 @@ Reference Books:
 
 ## Page 17
 
- 
- 
 FMCD2009 / 2.0 17 
 ←back-1Semester 
 Program: PG_Design Engineering  Semester: I 
@@ -736,11 +578,8 @@ Product Development, Pearson Education, 2004.
 4. Geoffrey Boothroyd, Wi nston A. Knight, Peter Dewhurst, Product Design for Manufacture and 
 Assembly, 3rd Edition, CRC Press Publication, 2010. 
  
-
 ## Page 18
 
- 
- 
 FMCD2009 / 2.0 18 
 ←back-1Semester 
 Program: PG_Design Engineering  Semester: I 
@@ -779,15 +618,8 @@ Fundamentals, Butterworth Heinemann, 2002.
 4. W. Steed, Mechanics for Road Vehicles”–, Illiffe Books Ltd., London. 
 Crouse, Engine Design, Tata McGraw Publication, Delhi,2000 
  
- 
- 
- 
- 
-
 ## Page 19
 
- 
- 
 FMCD2009 / 2.0 19 
 ←back-1Semester 
 Program: PG_Design Engineering  Semester: I 
@@ -829,13 +661,8 @@ York.
 4. Mason R. L., Gunst, R. F., Hess J. L., Statistical design and Analysis of Experiments with 
 Applications to Engineering and SISAnce, John Wiley & sons, Inc., New York. 
  
- 
- 
-
 ## Page 20
 
- 
- 
 FMCD2009 / 2.0 20 
 ←back-1Semester 
 Program: PG_Design Engineering  Semester: I 
@@ -864,11 +691,8 @@ Reference Books:
 1. Pablo Pedregal, Introduction to Optimization, Springer, 2003.  
 2. S.S. Rao, Engineering Optimization - Theory and Practice, John Wiley and Sons Inc. 1996. 
  
-
 ## Page 21
 
- 
- 
 FMCD2009 / 2.0 21 
 ←back-1Semester 
 Program: PG_Design Engineering  Semester: I 
@@ -890,27 +714,8 @@ Reference Books:
 2. Sham Tickoo, “Catia V5R20 for Engineers and Designers -,A Tutorial Approach ”, CAD CIM 
 Technologies , 2009. 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 22
 
- 
- 
 FMCD2009 / 2.0 22 
 ←back-2Semester 
 Program: PG_Design Engineering  Semester: II 
@@ -959,11 +764,8 @@ International Edition, 5th Edition, 2014.
 3. S. Graham Kelly, Mechanical Vibrations: Theory and Applications, Cengage Learning, SI Edition, 
 2012. 
  
-
 ## Page 23
 
- 
- 
 FMCD2009 / 2.0 23 
 ←back-2Semester 
 Program: PG_Design Engineering  Semester: II 
@@ -1004,14 +806,8 @@ John Wiley & Sons, 2011.
 3. Greenwood, Principles of Dynamics, Prentice Hall of India, 1988. 
 4. Robert L Norton, Design of machinery, 2nd edition, McGraw Hill., 2002. 
  
- 
- 
- 
-
 ## Page 24
 
- 
- 
 FMCD2009 / 2.0 24 
 ←back-2Semester 
 Program: PG_Design Engineering  Semester: II 
@@ -1033,8 +829,6 @@ Edition, Singapore, 2011.
 
 ## Page 25
 
- 
- 
 FMCD2009 / 2.0 25 
 ←back-2Semester 
 Program: PG_Design Engineering  Semester: II 
@@ -1080,11 +874,8 @@ Birkhäuser Basel, 2006.
 5. Michael Blundell and Damian Harty, The Multibody systems approach to vehicl e dynamics, 
 Butterworth-Heinemann, , Elsevier Ltd, Year: 2015. 
  
-
 ## Page 26
 
- 
- 
 FMCD2009 / 2.0 26 
 ←back-2Semester 
 Program: PG_Design Engineering  Semester: II 
@@ -1123,15 +914,8 @@ Reference Books:
 5. PrasantaSahoo, Engineering Tribology, PHI Learning, 2005 
 6. Stachowiak& Batchelor, Engineering Tribology”, Butterworth – Heinimann, 2005 
  
- 
- 
- 
- 
-
 ## Page 27
 
- 
- 
 FMCD2009 / 2.0 27 
 ←back-2Semester 
 Program: PG_Design Engineering  Semester: II 
@@ -1174,13 +958,8 @@ Edition, Cambridge University Press, 2009.
 4. W F Hosford, Mechanical Behavior of Materials, 1 st Edition, Cambridge University Press, 
 2009. 
  
- 
- 
-
 ## Page 28
 
- 
- 
 FMCD2009 / 2.0 28 
 ←back-2Semester 
 Program: PG_Design Engineering  Semester: II 
@@ -1217,16 +996,8 @@ Reference Books:
 Tata McGraw Hill, 1984. 
 3. Dr. Sadhu Singh, Experimental Stress Analysis, Fourth edition, Khanna Publishers, 2004. 
  
- 
- 
- 
- 
- 
-
 ## Page 29
 
- 
- 
 FMCD2009 / 2.0 29 
 ←back-2Semester 
 Program: PG_Design Engineering  Semester: II 
@@ -1270,12 +1041,8 @@ Delhi, 2010.
 6. Surjya Kumar Maiti, Fracture Mechanics Fundamentals and Applications, Cambridge 
 University Press, 2015. 
  
- 
-
 ## Page 30
 
- 
- 
 FMCD2009 / 2.0 30 
 ←back-2Semester 
 Program: PG_Design Engineering  Semester: II 
@@ -1312,16 +1079,8 @@ Reference Books:
 4. Timosenko, Young, Vibration Problems in Engineering D.VanNostrand Company INC. 
 5. Zienkiewicz, the Finite Element Method, Mcgraw-Hill College, 1987. 
  
- 
- 
- 
- 
- 
-
 ## Page 31
 
- 
- 
 FMCD2009 / 2.0 31 
 ←back-2Semester 
 Program: PG_Design Engineering  Semester: II 
@@ -1370,8 +1129,6 @@ Modal Analysis (Free Free and Forced Free) and Thermal Analysis. 01
 
 ## Page 32
 
- 
- 
 FMCD2009 / 2.0 32 
  
 Non-Linear Analysis 02 

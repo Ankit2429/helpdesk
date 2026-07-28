@@ -1,13 +1,9 @@
 # PDF Document: 6th-Sem-COE-2022-23
+
 **PDF Source:** https://www.kletech.ac.in/pdf/6th-Sem-COE-2022-23.pdf
 
 ## Page 1
 
- 
- 
- 
- 
- 
                                                                                                                                                                                                                                        1q2  
  
 ANAM 0201/1.0 
@@ -15,18 +11,12 @@ CALENDAR OF EVENTS
 EVEN SEMESTER 2022 - 2023 
       [For B.E (6th), B.Arch (6th, 8th & 10th), BCA (2nd) & BBA (2nd & 4th) Semesters] 
  
- 
 Important Dates: 
 Courses Term Commencement End of term Date of Commencement 
        Practical Exams     Theory Exams 
 6th Sem B.E and 2nd Sem BBA 23/01/23 16/05/23 22/05/23 to 25/05/23 From 29/05/23 
 6th, 8th & 10th Sem B.Arch 23/01/23 16/05/23 22/05/23 to 25/05/23 From 29/05/23 
  
- 
- 
- 
-   
-  
 Dated: 05/01/2023                                                                                                                         Dean Academics 
 Week 
 No. Month Week days No of 

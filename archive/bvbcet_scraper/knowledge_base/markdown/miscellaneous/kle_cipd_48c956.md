@@ -2,16 +2,13 @@
 
 **Source URL:** http://cipd.kletech.ac.in/
 
-
 # KLE CIPD
 
 Centre for Innovation and Product Development.
 
-
 # Events
 
 Investors can seek opportunities to invest in cutting edge technologies and startups.
-
 
 #### AboutCIPD
 
@@ -26,18 +23,15 @@ Effective marketing resources both online and offline to reach target customers.
 
 Ensures overall growth of a start-up into an established business venture.
 
-
 ## Our Focused Areas
 
 Efficient farms and machines that use technology to ensure crop health and machine productivity.
 
 Products and technologies which support sustainability.
 
-
 ## Our Products
 
 The innovative products developed under CIPD
-
 
 ## Our Achievements
 
@@ -55,5 +49,3 @@ Design and Prototype support to Startups/MSME : 10
 
 Technology collaboration with industry in past 2 years Samsung, Beam Laser, Robert Bosch....
 
-
-### Our Partners

@@ -1,4 +1,5 @@
 # PDF Document: Backlog-ESA-Time-Table-May-2023
+
 **PDF Source:** https://www.kletech.ac.in/hubballi/pdf/Backlog-ESA-Time-Table-May-2023.pdf
 
 ## Page 1
@@ -53,7 +54,6 @@ Date
 ----------------------
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India)
 
-
 ## Page 2
 
 V SEMESTER VII SEMESTER
@@ -83,7 +83,6 @@ Date
  (Day)
 ----------------------
 ----------------------
-
 
 ## Page 3
 
@@ -129,7 +128,6 @@ Date
 23/05/2023 
 (Tuesday) ----------------------
 -------------------------------------------- ----------------------
-
 
 ## Page 4
 
@@ -179,7 +177,6 @@ EXAMINATIONS MAY 2023
 ----------------------
 -------------------------------------------- ----------------------
 
-
 ## Page 5
 
 I / II SEMESTER III SEMESTER V SEMESTER VII SEMESTER
@@ -220,7 +217,6 @@ EXAMINATIONS MAY 2023
 24/05/2023 
 (Wednesday) ---------------------- ---------------------- ----------------------
 ----------------------
-
 
 ## Page 6
 
@@ -275,7 +271,6 @@ BACKLOG TIME TABLE FOR I, II, III, V & VII SEMESTER B.E.
 EXAMINATIONS MAY 2023
 --------------------------------------------
 ----------------------
-
 
 ## Page 7
 

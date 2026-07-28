@@ -1,45 +1,18 @@
 # PDF Document: mtech-ams-curriculum-2024-26
+
 **PDF Source:** https://www.kletech.ac.in/pdf/mtech-ams-curriculum-2024-26.pdf
 
 ## Page 1
 
- 
- 
 FMCD2009 / 2.0 
  1 
- 
- 
- 
- 
-  
- 
  
 Curriculum Structure and Curriculum Content for the Academic Batch 2024-26 
 School /Department: Mechanical Engineering 
 Program: M.Tech in Advanced Manufacturing Systems 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 2
 
- 
- 
 FMCD2009 / 2.0 
  2 
  
@@ -56,33 +29,17 @@ Semester- IV ...................................................................
 List of Program Electives ...................................................................................... 10 
 Curriculum Content- Course wise ........................................................................ 11 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 3
 
- 
- 
 FMCD2009 / 2.0 
  3 
 Vision and Mission of KLE Technological University 
  
 Vision 
  
- 
 KLE Technological University will be a national leader in Higher Education –
 recognised globally for innovative culture, outstanding student experience, 
 research excellence and social impact. 
- 
  
 Mission 
  
@@ -106,12 +63,8 @@ competitiveness and quality of life.
 As a unified community of faculty, staff and students, we work together with 
 the spirit of collaboration and partnership to accomplish our mission. 
  
- 
-
 ## Page 4
 
- 
- 
 FMCD2009 / 2.0 
  4 
 Vision and Mission Statements of the School / Department 
@@ -120,35 +73,7 @@ KLE Tech - School of Mechanical Engineering will be a national leader in
 mechanical engineering education - recognized for innovative culture, 
 outstanding research and societal outreach. 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 Mission 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 01 
 03 02 
@@ -189,8 +114,6 @@ Vision
 
 ## Page 5
 
- 
- 
 FMCD2009 / 2.0 
  5 
 Program Educational Objectives/Program Outcomes and Program-Specific 
@@ -226,27 +149,11 @@ financial factors
 5. Ability to use and develop modern tools in modeling, simulation and 
 analysis of manufacturing/ management related problems 
  
- 
-
 ## Page 6
 
- 
- 
 FMCD2009 / 2.0 
  6 
 Curriculum Structure-Overall 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  Semester 1 to 4 (2023-25)Total Program Credits:88 
 Course with course code 
@@ -305,8 +212,6 @@ Credits 25 25 18 20
 
 ## Page 7
 
- 
- 
 FMCD2009 / 2.0 
  7 
 Curriculum Structure-Semester wise 
@@ -326,21 +231,13 @@ Duration
 7 20EAMP702 PLM Functional Lab PC 0-0-3 3 06 80 20 100 2 hours 
 8 20EAMP703 ERP Functional Lab PC 0-0-3 3 06 80 20 100 2 hours 
            
-           
-           
 TOTAL  14-0-11 25 36     
 
 ## Page 8
 
- 
- 
 FMCD2009 / 2.0 
  8 
 Semester – II       ←Back Table of Contents 
- 
- 
- 
- 
  
 No Code Course Category L-T-P Credits Contact  
 Hours ISA ESA Total 
@@ -360,15 +257,11 @@ TOTAL  13-1-11 25 37
 
 ## Page 9
 
- 
- 
 FMCD2009 / 2.0 
  9 
 Semester- III       ←Back Table of Contents 
  
- 
 Semester- IV 
- 
  
 No Code Course Category L-T-P Credits Contact 
 Hours ISA ESA Total 
@@ -389,8 +282,6 @@ TOTAL  0-0-20 20 40
 
 ## Page 10
 
- 
- 
 FMCD2009 / 2.0 
  10 
 List of Program Electives     ←Back-1Semester 
@@ -404,13 +295,8 @@ Sr.No Name of the Course Course Code
 7 Manufacturing Execution Systems 20EAME707 
 8 Robust Design Optimization 20EAME708 
  
- 
- 
-
 ## Page 11
 
- 
- 
 FMCD2009 / 2.0 
  11 
 Curriculum Content- Course wise   ←Back-1Semester 
@@ -450,15 +336,8 @@ Realization", Springer, Third Edition, 2015
 2. Chaudhery Mustansar Hussain & Paolo Di Sia, "Handbook of Smart Materials, 
 Technologies, and Devices: Applications of Industry 4.0”, Springer. First Edition, 2021 
  
- 
- 
-  
- 
-
 ## Page 12
 
- 
- 
 FMCD2009 / 2.0 
  12 
 ←Back-1Semester 
@@ -503,12 +382,8 @@ research centre of Finland, 2000.
 3. Annita Persson Dahlqvist et.al, PDM and SCM - similarities and differences, The   
 Association of Swedish Engineering Industries, 2001. 
  
- 
-
 ## Page 13
 
- 
- 
 FMCD2009 / 2.0 
  13 
 ←Back-1Semester 
@@ -553,12 +428,8 @@ research centre of Finland, 2000.
 3. Annita Persson Dahlqvist et.al, PDM and SCM - similarities and differences, The   
 Association of Swedish Engineering Industries, 2001. 
  
- 
-
 ## Page 14
 
- 
- 
 FMCD2009 / 2.0 
  14 
 ←Back-1Semester 
@@ -596,16 +467,8 @@ Hill Publication.
 3. Bralla, James G., Handbook of Product Design for Manufacturing, McGraw Hill 
 Publications. 
  
- 
- 
- 
- 
- 
-
 ## Page 15
 
- 
- 
 FMCD2009 / 2.0 
  15 
 ←Back-1Semester 
@@ -656,8 +519,6 @@ Collaborative CRM, Sub-Modules of CRM: Marketing module; Service module; Sales m
 
 ## Page 16
 
- 
- 
 FMCD2009 / 2.0 
  16 
 HR Perspective: Role of ERP in Human Resource Management: Workflow of ERP human 
@@ -707,8 +568,6 @@ Converting existing 3D models into 2D drawings with all relevant details, sectio
 
 ## Page 17
 
- 
- 
 FMCD2009 / 2.0 
  17 
 Import and export different file formats, manage the Mastership of imported objects, Create a 
@@ -749,14 +608,8 @@ References:
 2. Antti Saakasvuori, Anselmi Immonen,  "Product Lifecycle Management" - Springer, 1st 
 Edition, 2003. 
  
- 
- 
- 
-
 ## Page 18
 
- 
- 
 FMCD2009 / 2.0 
  18 
 ←Back-1Semester 
@@ -781,24 +634,8 @@ Generation of reports for various functional modules.
 References: 
 1. SAP Business One Manual 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
-
 ## Page 19
 
- 
- 
 FMCD2009 / 2.0 
  19 
  
@@ -841,13 +678,8 @@ Procedia CIRP 21 2014, 24th CIRP design conference
 regions of the design space. In Proceedings of the 18th Annual Solid Freeform 
 Fabrication Symposium. 
  
- 
- 
-
 ## Page 20
 
- 
- 
 FMCD2009 / 2.0 
  20 
  
@@ -886,15 +718,8 @@ References:
 2. Groover M.P, Industrial Robotics, 3, Tata McGraw-Hill Publication, 2013 
 3. Niku Saeed B, Introduction to Robotics, 4, Prantice Hall India Publication, 2014 
  
- 
- 
- 
- 
-
 ## Page 21
 
- 
- 
 FMCD2009 / 2.0 
  21 
 ←Back-1Semester 
@@ -945,8 +770,6 @@ Operation, Pearson Education.
 
 ## Page 22
 
- 
- 
 FMCD2009 / 2.0 
  22 
 3. Lora Cecere, Supply Chain Metrics that Matter, Wiley. 
@@ -994,11 +817,8 @@ systems, John Wiley & Sons.
 4. Shannon, R.E., System Simulation – The art and science, Prentice Hall, India. 
 5. Averill Law & David M.Kelton, Simulation, Modeling and Analysis, TMH. 
  
-
 ## Page 23
 
- 
- 
 FMCD2009 / 2.0 
  23 
 ←Back 2semester 
@@ -1034,18 +854,8 @@ Edition, 2003.
 2. Grieves Michael, Product Lifecycle Management - Driving the Next generation  of Lean 
 Thinking, McGraw-Hill, 2006. 
  
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 24
 
- 
- 
 FMCD2009 / 2.0 
  24 
 ←Back 2semester 
@@ -1090,11 +900,8 @@ Hill, New Delhi.
 5. Pauline Wee tman, Financial and Management Accounting:  An Introduction, Pearson 
 Education Limited. 
  
-
 ## Page 25
 
- 
- 
 FMCD2009 / 2.0 
  25 
 ←Back 2semester 
@@ -1135,15 +942,8 @@ Technology: Principles and Practice”, Elsevier.
 3. Harold R. Kerzner, “Project Management:  A Systems Approach to Planning, Scheduling, 
 and Controlling”, Wiley, New York. 
  
- 
- 
- 
- 
-
 ## Page 26
 
- 
- 
 FMCD2009 / 2.0 
  26 
 ←Back 2semester 
@@ -1164,27 +964,8 @@ Reference Books:
 Edition, Pearson Edition, Singapore, 2011. 
 3. Dawson Catherine, “Practical Research Methods”, UBS Publishers, New Delhi, 2002. 
  
- 
- 
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 27
 
- 
- 
 FMCD2009 / 2.0 
  27 
 ←Back 2semester 
@@ -1227,13 +1008,8 @@ in Material Science, e-ISBN: 978-3-642- 28359-8.
 4. L. Lu, J. Fuh and Y.-S. Wong, “Laser-induced materials and processes for rapid 
 prototyping”, Kluwer Academic Press, 2001.  
  
- 
- 
-
 ## Page 28
 
- 
- 
 FMCD2009 / 2.0 
  28 
 ←Back 2semester 
@@ -1280,8 +1056,6 @@ Programming and Applications”, Mc Graw Hill Book Publications.
 
 ## Page 29
 
- 
- 
 FMCD2009 / 2.0 
  29 
 ←Back 2semester 
@@ -1328,12 +1102,8 @@ Industry 4.0, Challenges, Industrial Internet of Things (IIoT), Reference Archit
 Industry 4.0, Cyber -Physical Systems (CPS), Cyber -Physical Production Systems (CPPS), Smart 
 Product, Smart Manufacturing, Smart Logistics, Smart Services 
  
- 
-
 ## Page 30
 
- 
- 
 FMCD2009 / 2.0 
  30 
 10. Business Analytics and Business Intelligence, Blockchain 
@@ -1370,17 +1140,8 @@ Report Series, No. 957, 2010.
 17. Mike Bourne, Pippa Bourne, Handbook of Corporate Performance Management, Wiley, 
 2011. 
  
- 
- 
- 
- 
- 
- 
-
 ## Page 31
 
- 
- 
 FMCD2009 / 2.0 
  31 
 ←Back 2semester 
@@ -1429,8 +1190,6 @@ Cliffs, New Jersy.
 
 ## Page 32
 
- 
- 
 FMCD2009 / 2.0 
  32 
 ←Back 2semester 
@@ -1479,8 +1238,6 @@ Cliffs, New Jersy.
 
 ## Page 33
 
- 
- 
 FMCD2009 / 2.0 
  33 
 ←Back 2semester 
@@ -1515,19 +1272,8 @@ References:
 2. Antti Saakasvuori, Anselmi Immonen,"Product Lifecycle Management" - Springer, 1st 
 Edition, 2003. 
  
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 34
 
- 
- 
 FMCD2009 / 2.0 
  34 
 ←Back 2semester 
@@ -1548,27 +1294,8 @@ Generation of reports for various functional modules
 References: 
 SAP Business One Manual. 
  
- 
- 
- 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 35
 
- 
- 
 FMCD2009 / 2.0 
  35 
 ←Back 2semester 

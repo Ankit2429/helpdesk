@@ -1,11 +1,9 @@
 # PDF Document: 7th_BOG_Minutes
+
 **PDF Source:** https://www.kletech.ac.in/pdf/7th_BOG_Minutes.pdf
 
 ## Page 1
 
- 
- 
- 
 Minutes 
  
 7th Board of Governors Meeting 
@@ -17,12 +15,6 @@ September 20th, 2017
 Venue: Sri. S. Nijalingappa College 
 Bengaluru 
  
- 
- 
- 
- 
- 
-
 ## Page 2
 
 ii 
@@ -76,7 +68,6 @@ Registrar
 KLE Technological University, Hubballi 
 Registrar 
  
-
 ## Page 3
 
 iii 
@@ -126,11 +117,6 @@ Annexure 4: Provisional Degree Certificate and Degree Certificate
 Annexure 5: Curriculum Structure and Syllabus Minor in Automotive 
 Engineering 
  
- 
- 
- 
- 
-
 ## Page 4
 
 1 
@@ -220,7 +206,6 @@ Resolution 6.7: BOG considered the recommendations of the Executive Council and
 approved the Annual report of the University for the academic year 
 2015-16. 
  
-
 ## Page 6
 
 3 
@@ -228,18 +213,11 @@ approved the Annual report of the University for the academic year
 Action Requested: To confirm the minutes of the previous meeting held on 17th February 
 2017. 
  
- 
- 
- 
- 
- 
 Discussion: Participating in the discussions Prof. B.S. Sonde, UGC nominee 
 advised to include note while preparing the minutes and minutes should be 
 circulated to all the members within 15 days and members should be given 15 
 days to send their comments. All the board members agreed to the suggestion 
 and Registrar was asked to follow the process.  
- 
- 
  
 Resolution 7.1: The Board of Governors confirmed the minutes of its 
 6th meeting of the Board of Governors held on 17th February 2017 at 
@@ -252,7 +230,6 @@ Titles of B.Sc programmes will be –
 ## Page 7
 
 4 
- 
  
 BOG 7.2 To confirm the action taken report on the minutes of the previous meeting held on 17th 
 February 2017. 
@@ -379,7 +356,6 @@ Discussion:
 
 7 
  
- 
 Item BOG 6.3 
 Dr. Prabhakar Kore, Chairman of BOG expressed that although the University is following the Fee structure as 
 recommended by the ‘Fee fixation committee’ of the Government of Karnataka, there is a need to have ‘Fee 
@@ -396,7 +372,6 @@ Titles of B.Sc programmes will be –
  B.Sc (Computer Science) 
  B.Sc (Electronics) 
  
-
 ## Page 11
 
 8 
@@ -576,7 +551,6 @@ Agenda Point 4 Any other item with the permission of the Chair.
  Views of Executive Council on the recommendations of the Admission Committee will be 
 presented during the meeting as EC meeting is also scheduled on 20th September. 
  
-
 ## Page 14
 
 11 
@@ -589,18 +563,15 @@ the University prepare the document that enumerates the demography of
 the admitted students w.r.t different parameters such as rural/urban; N-K 
 region/ other; gender etc.  
  
- 
 Resolution 7.4: BOG reviewed the recommendations of the 
 Admission Committee held on 18th September and approved the 
 percentage of seats allotted for CET, COMEDK and Management 
 quota; and action taken by the sub-committee for the conduct of 
 ‘Research Entrance Test’. 
  
-
 ## Page 15
 
 12 
- 
  
 BOG 
 7.5 
@@ -639,7 +610,6 @@ Schools have adopted this system, it leads to focus learning by the students
 as students get more time for self-learning and the University program could 
 be aligned with the calendars of top B-schools. 
  
-
 ## Page 16
 
 13 
@@ -655,11 +625,9 @@ BOG resolved to approve the adaptation of relative grading system
 for UG & PG programmes, trimester system for MBA programme 
 and mandatory stay rule for part-time research scholars.  
  
-
 ## Page 17
 
 14 
- 
  
 BOG 
 7.6 
@@ -699,7 +667,6 @@ during the period.
 
 15 
  
- 
 BOG 
 7.7 
 To review progress of implementation of PhD 
@@ -727,7 +694,6 @@ programmes of the University.
 
 16 
  
- 
 BOG 
 7.8 
 To approve the formats proposed for the Degree 
@@ -737,8 +703,6 @@ security features. Executive council is requested to consider and approve the
 proposed formats of the Degree Certificates. 
 Proposed formats are given in annexure 4 
  
- 
- 
 Discussion:  
  
 Resolution 7.8: BOG reviewed the formats and enquired about the 
@@ -746,17 +710,9 @@ security features and the process of procurement and printing of
 the degree certificates, having satisfied with the procedures 
 approved the proposed formats for M.Tech and MBA programmes.  
  
- 
- 
- 
- 
- 
- 
-
 ## Page 20
 
 17 
- 
  
 BOG 
 7.9 
@@ -797,7 +753,6 @@ Engineering’ by the school of Mechanical Engineering.
 
 18 
  
- 
 BOG 
 7.10 
 Any other subject with the permission of the Chair  
@@ -806,16 +761,10 @@ NIL
 
 ## Page 22
 
- 
- 
- 
- 
 Annexure-1 
 [Proposed changes in regulations governing undergraduate and 
 postgraduate programmesof KLE Technological University 2015] 
  
-  
-
 ## Page 23
 
 Proposed changes in regulations governing undergraduate and 
@@ -859,13 +808,10 @@ assessed by Absolute Gradingsystem is as follows:
  Mini Project / Minor Project / Capstone Projects. 
  P.G Programs (M.Tech only) 
  
- 
-  
 Annexure - 1 
 
 ## Page 24
 
- 
 Regulation number Earlier regulation New regulation 
 Grading 
 system 63 
@@ -873,7 +819,9 @@ The University shall follow the absolute grading
 system by allocating a letter grade for each band 
 of marks in a course. The letter grades shall be 
 awarded grade points, as per the following table:  
+
 # Lett
+
 er 
 grad
 e 
@@ -907,7 +855,6 @@ the performance of a student, letter
 grades and grade points will be 
 awarded as per section 63 a. 
   
-
 ## Page 25
 
 63 a. Relative Grading System  
@@ -957,7 +904,9 @@ semester Examinations.
 ## Page 26
 
 Absolute Grading System 
+
 # Marks Letter grade Absolute 
+
 Grade points 
 Remarks 
 1 91-100 S 10 Outstanding 
@@ -980,42 +929,22 @@ Result sheet shall contain the following
  Only Grades, Grade points, Credits, SGPA and CGPA. 
  Grading slab of each course. 
  
- 
- 
-
 ## Page 27
 
- 
- 
- 
 Annexure-2 
 [MBA Regulations] 
   
-
 ## Page 28
 
- 
 Regulations  
 Governing Master of Business 
 Administration Programme of  
 KLE Technological University  
 2017 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 KLE Technological University 
 (Established under Karnataka Act No.22, 2013) 
   
-
-
 ## Page 29
 
 iii 
@@ -1139,9 +1068,6 @@ CHAPTER XIV, MAINTENANCE OF ACADEMIC RECORDS
 ## Page 31
 
 1 
- 
- 
- 
  
 REGULATIONS GOVERNING MASTER OF BUSINESS ADMINISTRATION OF KLE 
 TECHNOLOGICALUNIVERSITY - 2017 
@@ -1501,9 +1427,6 @@ Examinations Malpractice Review Committee before the
 expiry of its term.  
 CHAPTER III  
 ADMISSION 
- 
- 
- 
  
   Admission to the University shall normally be made at the 
 commencement of each academic year for various 
@@ -2847,7 +2770,6 @@ Distinction
 9.50-10.00 >87.5% First class with 
 Honors 
    
- 
   i First Class with Honors: A student completing a 
 Programme of study within the specified minimum 
 duration, securing a CGPA of 9.50 and above, passing all 
@@ -3245,18 +3167,8 @@ academic records to be weeded out shall be destroyed by
 way of shredding under direct supervision of the Dean 
 Academic Affairs / the concerned Dean of Faculty.  
   
- 
-
 ## Page 69
 
- 
- 
- 
- 
- 
- 
- 
- 
 Annexure-3 
 [Proposed changes in Rules and Regulations governing]
 
@@ -3270,20 +3182,10 @@ of
 KLE Technological University  
 2015 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
 KLE Technological University 
  
 (Established under Karnataka Act No.22, 2013) 
  
-
 ## Page 71
 
 1 Ph
@@ -3394,7 +3296,6 @@ Vice Chancellor for each  research scholar, shall consist of:
 Admissi
 ons  
  
- 
 Admission Rules and Regulations: List of faculties for which the 
 degrees are offered, minimum qualifications, relaxation for  minimum 
 qualifications, relaxation for  Research Entrance Test (RET) and 
@@ -3470,7 +3371,6 @@ Committee.
 the  research scholar is selected for provisional registration and 
 notified. 
  
-
 ## Page 74
 
   1.2.8 Categories of  Research Scholars: 
@@ -3657,7 +3557,6 @@ Supervisor (s) shall mention that:  “The Thesis is based on
 the individual, original work of the research scholar, which is 
 previously unpublished research work“.  It shall be ensured 
 by the Research Supervisor (s) that: The Thesis shall not 
-contain any material that infringes the copyright of any other 
 individual or organization and does not hurt the sentiments 
 of any individual(s) or religion(s). The information such as 
 text, tables, equations, diagrams, figures, charts, graphs, 
@@ -3738,7 +3637,6 @@ research scholar is cancelled.
 Evaluat
 ion 
  
- 
 Evaluation Process: Evaluation process involves, eligibility check 
 to submit Thesis, Plagiarism issues, conduct of  final Viva-Voce 
 for PhD and  award of degree. 
@@ -3766,7 +3664,6 @@ Thesis.
 Research Supervisor(s)  andtwo more Adjudicators identified within 
 three months from the date of invitation, before taking further steps. 
  
-
 ## Page 79
 
   1.4.2 Receipt of Thesis Reports 
@@ -3833,7 +3730,6 @@ in accordance with the Regulations Governing the Degree of
 Doctor of Philosophy. 
  The University shall award the PhD Degree Certificate during 
 the forthcoming Convocation. 
-(b) Copy right: University shall hold the copyright of the Thesis 
 submitted to it. 
   1.4.6 Submission to UGC: 
  Following the successful completion of the evaluation process and 
@@ -3854,7 +3750,6 @@ pursue any other Degree programme within the University or at
 other Universities / Institutions, concurrently with his/her on-going 
 registration as a research scholar for the PhD Degree. 
  
-    
  1.5 
 Resear
 ch 
@@ -3885,7 +3780,6 @@ e) The following acts of research Supervisor may lead to
 
 ## Page 81
 
- 
 disqualification of  Supervisor  from guiding any research  scholars 
  Influencing the external examiner to write favorable report on 
 Thesis. 
@@ -3927,38 +3821,23 @@ the RPC and must be approved by Vice Chancellor.
 
 ## Page 84
 
-  
- 
 MAE Curriculum structure & Syllabus 2015 – 19 Batch 
  
-  
               P a g e | 1  
 School of Mechanical Engineering 
- 
- 
- 
- 
  
 Annexure-5 
 [Curriculum Structure and Syllabus Minor  
 in  
 Automotive Engineering] 
  
- 
-
 ## Page 85
 
-  
- 
 MAE Curriculum structure & Syllabus 2015 – 19 Batch 
  
-  
               P a g e | 2  
 School of Mechanical Engineering 
 Board of Studies approved 
- 
- 
- 
  
 Minor  
 in  
@@ -3970,24 +3849,13 @@ Syllabus
 2015 – 19 Batch 
 (2015 Admission) 
  
- 
- 
- 
- 
- 
 School of Mechanical Engineering 
 2017 
  
- 
- 
-
 ## Page 86
 
-  
- 
 MAE Curriculum structure & Syllabus 2015 – 19 Batch 
  
-  
               P a g e | 3  
 School of Mechanical Engineering 
 Preface 
@@ -4029,11 +3897,8 @@ culminates with the student testing and validating a given vehicle for competiti
 
 ## Page 87
 
-  
- 
 MAE Curriculum structure & Syllabus 2015 – 19 Batch 
  
-  
               P a g e | 4  
 School of Mechanical Engineering 
  
@@ -4045,14 +3910,12 @@ Duration
 Systems PC 2-0-1 3 4 100 0 100 Continuous 
 evaluation  TOTAL 2-0-1 3 4    
  
- 
 Semester: Summer I 
 No Code Course Category L-T-P Credits Contact 
 Hours ISA ESA Total Exam 
 Duration 
 1 M16AEC202 Vehicle Dynamics  PC 3-0-1 4 5 60 40 100 Continuous 
 evaluation TOTAL 3-0-1 4 5    
- 
  
 Semester: V 
 No Code Course Category L-T-P Credits Contact 
@@ -4062,7 +3925,6 @@ Duration
 and Electronics PC 2-0-0 2 2 50 50 100 Continuous 
 evaluation TOTAL 2-0-0 2 2    
  
- 
 Semester: VI 
 No Code Course Category L-T-P Credits Contact 
 Hours ISA ESA Total Exam 
@@ -4070,7 +3932,6 @@ Duration
 1 M16AEC302 Advanced Powertrain 
 & Drivetrain Systems PC 2-0-2 4 6 60 40 100 Continuous 
 evaluation TOTAL 2-0-2 4 6    
- 
  
 Semester: Summer II 
 No Code Course Category L-T-P Credits Contact 
@@ -4080,22 +3941,16 @@ Duration
 Validation PC 0-0-2 2 4 100 00 100 Continuous 
 evaluation TOTAL 0-0-2 2 4    
  
- 
 ISA: In Semester Assessment, ESA: End Semester Assessment,  
 L: Lecture;  T: Tutorials;   P: Practical. 
 BS: Basic Science ES: Engineering Science, PC: Program Core, PE: Program Elective 
  
-
 ## Page 88
 
-  
- 
 MAE Curriculum structure & Syllabus 2015 – 19 Batch 
  
-  
               P a g e | 5  
 School of Mechanical Engineering 
- 
  
 Assessment Scheme for all MAE courses (Tentative) 
  
@@ -4122,7 +3977,6 @@ Testing &
 Validation 
 00 00 100 100 00 100 
  
- 
 Minors Exams: 
 Students shall attend two minors; Minors shall be 
  Case analysis and presentation – individually or team 
@@ -4139,18 +3993,10 @@ Tutorials:
  Use analytical and empirical tools for assignments.  
  Tutorials shall be assessed every week wherever applicable  
  
- 
- 
- 
- 
-
 ## Page 89
 
-  
- 
 MAE Curriculum structure & Syllabus 2015 – 19 Batch 
  
-  
               P a g e | 6  
 School of Mechanical Engineering 
 IV Semester 
@@ -4213,20 +4059,15 @@ commonwealth Drive Marrendale, PA 15096-0001 edition 2004 (Reprinted) ISBN - 0 7
 2. Automotive Engineering, Powertrain, Chassis Sytem and Vehicle Body  – Edited by David A. Crola,        
 ISBN: 978-1-85617-577-7 
  
-
 ## Page 90
 
-  
- 
 MAE Curriculum structure & Syllabus 2015 – 19 Batch 
  
-  
               P a g e | 7  
 School of Mechanical Engineering 
 Summer – I 
  
 Course Content 
- 
  
 Course Code: M16AEC202 Course Title:  Vehicle Dynamics 
 L-T-P: 3-0-1 Credits:4 Contact Hrs: 05  hrs/week 
@@ -4283,20 +4124,13 @@ INC 400 Common Wealth Drive Warrandale 1995
 
 ## Page 91
 
-  
- 
 MAE Curriculum structure & Syllabus 2015 – 19 Batch 
  
-  
               P a g e | 8  
 School of Mechanical Engineering 
 Semester V 
  
 Course Content 
- 
- 
- 
- 
  
 Course Code: M16AEC301 Course Title:  Automotive Electrical & Electronics  
 L-T-P: 2-0-0 Credits: 2 Contact Hrs: 02  hrs/week 
@@ -4350,24 +4184,13 @@ References:
 
 ## Page 92
 
-  
- 
 MAE Curriculum structure & Syllabus 2015 – 19 Batch 
  
-  
               P a g e | 9  
 School of Mechanical Engineering 
 Semester VI 
  
 Course Content 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Course Code: M16AEC302 Course Title:   Advanced Powertrain & Drivetrain Systems 
 L-T-P: 2-0-2 Credits:4 Contact Hrs: 06 hrs/week 
@@ -4408,17 +4231,13 @@ ISBN: 978-1-85617-577-7
 
 ## Page 93
 
-  
- 
 MAE Curriculum structure & Syllabus 2015 – 19 Batch 
  
-  
               P a g e | 10  
 School of Mechanical Engineering 
 Summer – II 
  
 Course Content 
- 
  
 Course Code: M16AEC302 Course Title:   Vehicle Testing & Validation 
 L-T-P: 0-0-2 Credits:2 Contact Hrs: 04  hrs/week 

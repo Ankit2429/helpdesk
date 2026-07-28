@@ -1,11 +1,9 @@
 # PDF Document: 11th_BOG_Minutes
+
 **PDF Source:** https://www.kletech.ac.in/pdf/11th_BOG_Minutes.pdf
 
 ## Page 1
 
- 
- 
- 
 Minutes 
  
 11th  Board of Governors Meeting 
@@ -17,13 +15,9 @@ Hubballi, Karnataka
 Venue: Sri. S. Nijalingappa College 
 Bengaluru 
  
- 
- 
 KLE Technological University 
 (Established under Karnataka Act No.22, 2013)  
  
- 
-
 ## Page 2
 
 ii 
@@ -79,7 +73,6 @@ Veerbhadra Kripa, Navodaya Nagar,
 Dharwad-580003 
 Member  
  
-
 ## Page 3
 
 iii 
@@ -107,7 +100,6 @@ UG, PG & PhD programs and approve the same.
 BOG 11.8 To ratify Board of Studies and Board of Examiners. 22 
 BOG 11.9 Any other subject with the permission of the Chair. 23 
  
-
 ## Page 4
 
 1 
@@ -169,7 +161,6 @@ Registrar
 KLE Technological University, Hu bballi  
 Registrar  
  
-
 ## Page 5
 
 2 
@@ -280,11 +271,9 @@ BOG 10.8 Any other subject with the permission of the Chair.
 Chairman thanked all the members for their contribu tions and the meeting was concluded with a 
 vote of thanks to the Chair. 
  
- 
 Action Requested: To confirm the minutes of the 10 
 th  BOG meeting held on 9th  December 
 2018. 
- 
  
 Discussion: The member secretary requested honorable members fo r any 
 observations or comments on the minutes of the 10 th  BOG meeting, which was 
@@ -296,13 +285,6 @@ of its 10
 th  meeting of the Board of Governors held on 9 th  December 
 2018 at the Conference Room, NOVOTEL Hotel, Pune. 
  
- 
- 
- 
- 
- 
- 
-
 ## Page 8
 
 5 
@@ -433,7 +415,6 @@ Twenty students who had enrolled for minor in
 are presently doing their internship and project wo rk 
 at ‘AEQUS’ Belagavi. 
  
-
 ## Page 11
 
 8 
@@ -477,12 +458,9 @@ accreditation.
 4.  Computer Science & Engineering. 
 BOG 10.8 Any other subject with the permission of the Chair. 
  
- 
-
 ## Page 12
 
 9 
- 
  
 Action Requested: The BOG is requested to confirm the action taken re port on the 
 minutes of the previous meeting held on 9th  December 2018. 
@@ -503,7 +481,6 @@ Explore incorporation of MOOC courses into the curriculum.
 Prof. B.S. Sonde advised to refer to ‘Specification s of Regulations’ of UGC for giving B.E 
 (honors) degree. 
  
- 
 Resolution 11.2: Resolved to confirm the action tak en report on the 
 minutes of the previous meeting held on 9 
 th  December 2018. 
@@ -511,7 +488,6 @@ th  December 2018.
 ## Page 13
 
 10 
- 
  
 BOG 
 11.3 
@@ -540,11 +516,9 @@ recommendations related to presentation of heads of expenditure and income.
 Action Requested:  The BOG is requested to consider and approve the re commendations 
 of the 5th  Finance Council. 
  
- 
 Discussion: Prof. Ashok Shettar, Vice-chancellor explained the reason for coming 
 out with the revised budget of 2018-19 and the reas ons for the 
 deviations. 
- 
  
 Resolution 11.3: Resolved to approve the revised bu dget of 2018-19 
 as recommended by the 5 th  Finance Council, which was held on 14 th  
@@ -553,7 +527,6 @@ March 2019.
 ## Page 14
 
 11 
- 
  
 BOG 
 11.4 
@@ -666,7 +639,6 @@ Mechanical Engineering 267 249 222 738
 Architecture 44 49 53 146 
 Total 1254 1158 1099 3511 
  
- 
 Annexure 3.1 
 
 ## Page 17
@@ -706,14 +678,12 @@ VLSI Design & Embedded Systems 15
 Machine Design 12 
 Grand Total  272 
  
-
 ## Page 18
 
 15 
  
 RESEARCH PROGRAM ADMISSION DETAILS - 2018-19  
 Admission to Research Programs in calendar year 2018 
- 
  
 Consolidated Admissions for Academic Year 2018-19  
 Program Course  Class Total 
@@ -746,9 +716,7 @@ Grand Total  12 08 20
 
 16 
  
- 
 Faculty Information 
- 
  
 Department/Program 
 In take 
@@ -786,13 +754,11 @@ Executives   02  01  --  01
   56 76 187 32 
   351  
  
- 
 Annexure 3.2 
 
 ## Page 20
 
 17 
- 
  
 BOG 
 11.5 
@@ -805,10 +771,8 @@ The planned activities of TEQIP Phase III, which includes the following :
 •  Revision of Procurement Plan  
 •  Action Plan for 1st QTR (Apr-June 2019) 
  
- 
 Action Requested: The BOG is requested to consider and approve the pl anned 
 activities of TEQIP Phase III . 
- 
  
 Discussion: 
 Principal presented the progress of implementation of TEQIP-III 
@@ -832,7 +796,6 @@ Targets.
 ## Page 21
 
 18 
- 
  
 BOG 
 11.6 
@@ -886,13 +849,9 @@ BBA colleges are there in North-Karnataka.
 Resolution 11.6: BOG approved starting of BBA progr am from the 
 academic year 2019-20. 
  
- 
- 
-
 ## Page 23
 
 20 
- 
  
 BOG 
 11.7 
@@ -947,7 +906,6 @@ Discussion
 : Prof. B.S. Sonde, UGC nominee advised to be withi n regulations of UGC 
 while making changes to the University regulations. 
  
-
 ## Page 24
 
 21 
@@ -962,7 +920,6 @@ University 2015. Details are given in annexure 1.
 
 22 
  
- 
 BOG 
 11.8 
 To ratify Board of Studies and Board of Examiners  
@@ -973,8 +930,6 @@ Board of Studies and Boards of Examiners respective ly with the approval of the
 Academic Council. The Executive Council is requested to ratify the action taken by the 
 Dean (Academics) in constituting departmental Board  of Studies and Boards of 
 Examiners. 
- 
- 
  
 Action Requested: The Executive Council is requested to ratify the changes made in the 
 Board of Studies and Board of Examiners.  
@@ -991,13 +946,11 @@ University.
 
 23 
  
- 
 BOG 
 11.9 
 Any other subject with the permission of the Chair. 
 Chairman thanked all the members for their active participation. 
  
-
 ## Page 27
 
 24 
@@ -1123,6 +1076,4 @@ and send its recommendations to SRC.
 4.  To conduct pre-synopsis presentations and 
 recommend submission of synopsis and Thesis to 
 SRC. 
- 
- 
  

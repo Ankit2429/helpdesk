@@ -1,13 +1,9 @@
 # PDF Document: 235imguf_COE-4thand6thSemesterCOE2024-25_Even_
+
 **PDF Source:** https://www.kletech.ac.in/Uploads/image/235imguf_COE-4thand6thSemesterCOE2024-25(Even).pdf
 
 ## Page 1
 
- 
- 
- 
- 
- 
                                                                                                                                                                                                                                        1q2  
  
 ANAM 0201/1.0 
@@ -15,16 +11,12 @@ CALENDAR OF EVENTS
 EVEN SEMESTER 2024 – 2025 
 [For B.E (4th & 6th), B.Arch (4th, 6th & 8th), BBA, BCA,B.Com (2nd & 4th), & B.Sc (FAD) (2nd, 4th & 6th) Semesters] 
  
- 
 Important Dates: 
 Courses Term Commencement End of term Date of Commencement 
     Practical Exams   Theory Exams 
 4th, 6th Sem B.E & 2nd ,4th ,6th B.Sc (FAD) 14/02/25 06/06/25 09/06/25 to 12/06/25 From 16/06/25 
 2nd & 4th BBA, BCA,B.Com  14/02/25 06/06/25 09/06/25 to 12/06/25 From 16/06/25 
 4th, 6th & 8th Sem B.Arch 14/02/25 06/06/25 09/06/25 to 12/06/25 From 16/06/25 
- 
- 
- 
  
 Dated: 13/01/2025                                                                                                                                Dean Academics 
  

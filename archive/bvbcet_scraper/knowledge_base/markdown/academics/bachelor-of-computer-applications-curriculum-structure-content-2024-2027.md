@@ -1,51 +1,45 @@
 # PDF Document: bachelor-of-computer-applications-curriculum-structure-content-2024-2027
+
 **PDF Source:** https://www.kletech.ac.in/pdf/bachelor-of-computer-applications-curriculum-structure-content-2024-2027.pdf
 
 ## Page 1
 
-  
 FMCD2009 / 2.0 
  1
         Curriculum Structure and Curriculum Content for the Batch: 2024-27 Department of Computer Applications Program: Bachelor of Computer Applications                   
 
 ## Page 2
 
-  
 FMCD2009 / 2.0 
  2
  Table of Contents Vision and Mission of KLE Technological University ........................................................... 3 Vision and Mission Statements of the School / Department ..... Error! Bookmark not defined. Program Educational Objectives/Program Outcomes and Program-Specific Objectives . 4 - 6 Curriculum Structure-Overall ............................................................................................ 7 Curriculum Structure-Semester wise ............................................................................. 8-13 Semester - I ...................................................................................................................... 8 Semester - II ..................................................................................................................... 9 Semester - III .................................................................................................................. 10 Semester - IV .................................................................................................................. 11 Semester - V ................................................................................................................... 12 Semester - VI .................................................................................................................. 13 List of Program Electives ................................................................................................. 14  Curriculum Content- Course-wise ............................................................................15 to 56        
 
 ## Page 3
 
-  
 FMCD2009 / 2.0 
  3
  Vision and Mission of KLE Technological University  Vision  KLE Technological University will be a national leader in Higher Education–recognised globally for innovative culture, outstanding student experience, research excellence and social impact.   Mission  KLE Technological University is dedicated to teaching that meets highest standards of excellence, generation and application of new knowledge through research and creative endeavors.  The three-fold mission of the University is:  To offer undergraduate and post-graduate programs with engaged and experiential learning environment enriched by high quality instruction that prepares students to succeed in their lives and professional careers.   To enable and grow disciplinary and inter-disciplinary areas of research that build on present strengths and future opportunities aligning with areas of national strategic importance and priority.   To actively engage in the Socio-economic development of the region by contributing our expertise, experience and leadership, to enhance competitiveness and quality of life.  As a unified community of faculty, staff and students, we work together with the spirit of collaboration and partnership to accomplish our mission.    
 
 ## Page 4
 
-  
 FMCD2009 / 2.0 
  4
  Vision and Mission Statements of the Department  Department Vision  To be a premier department offering UG and PG Programs in computer applications to develop competitive professionals having the right knowledge, research skills, and attitude to meet global challenges in the field of computer science and its applications Department Mission  1. To provide high-quality education through outstanding teaching industry-relevant novel curricula to enable them to accomplish a successful career in computer science and its applications.  2. To contribute to advancing knowledge in both fundamentals and applied areas of Computer Science. 3. To provide a scholarly and pleasant learning platform that enables staff and students to grow academically and professionally. 4. To provide valuable services to society through education, entrepreneurship, and professional activities in Computer Science and its Applications.             
 
 ## Page 5
 
-  
 FMCD2009 / 2.0 
  5
 Program Educational Objectives/Program Outcomes and Program-Specific Objectives Program Educational Objectives -PEO’s PEO: 1.Have a strong foundation and ability to apply knowledge of Computer Science, Mathematics, and Humanities to conceive, analyse, design, and implement IT solutions to problems in real-life applications. PEO: 2. Have a comprehensive background to practice Software Engineering Principles in various domains that require software architecture, design, development, and testing practices. PEO: 3. Understand the professional and ethical obligations of a software engineer towards society and the need for lifelong learning. PEO: 4. Have the ability to participate in multi-disciplinary teams using ICT effectively. Program Outcomes-PO’s PO 1. : Computational knowledge: Apply knowledge of computing fundamentals, computing specialization, mathematics, and domain knowledge appropriate for the computing specialization to the abstraction and conceptualization of computing models from defined problems and requirements. PO 2. : Problem analysis: Identity, formulate, research literature, and solve complex computing problems reaching substantiated conclusions using fundamental principles of mathematics, computing sciences, and relevant domain disciplines. PO 3. : Design/Development of Solutions: Design/development of solutions: Design and evaluate solutions for complex computing problems, and design and evaluate systems, components, or processes that meet specified needs with appropriate consideration for public health and safety, cultural, societal, and environmental considerations. PO 4. : Conduct investigations of complex problems: Use research-based knowledge and research methods including design of experiments, analysis, and interpretation of data, and synthesis of the information to provide valid conclusions. PO 5. : Tool usage: Create, select, adapt and apply appropriate techniques, resources, and modern computing tools to complex computing activities, with an understanding of the limitations. PO 6. : Computing Professional and Society: Understand and assess societal, environmental, health, safety, legal, and cultural issues within local and global contexts, and the consequential responsibilities relevant to professional computing practice. PO 7. : Ethics: Understand and commit to professional ethics and cyber regulations, responsibilities, and norms of professional computing practice. PO 8. : Individual and Collaborative Team work: Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary environments. PO 9. : Communication: Communicate effectively with the computing community, and with society at large, about complex computing activities by being able to comprehend and write effective reports, design documentation, make effective presentations and give and understand instructions clearly. PO 10. : Project management and finance: Demonstrate knowledge and understanding of the computing and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments. 
 
 ## Page 6
 
-  
 FMCD2009 / 2.0 
  6
 PO 11. : Life-long learning: Recognize the need, and have the ability, to engage in independent learning for continual development as a computing professional. Program Specific Objectives -PSO’s PSO 12: IT skills: An ability and capacity acquired through deliberate, systematic and sustained effort to carry out complex IT activities involving innovative ideas technical skills and interpersonal skills. PSO 13: Professional Competency: Apply computing concepts, skills, and processes to produce a product/project in the domain demonstrating professional knowledge and attitude.      
 
 ## Page 7
 
-  
 FMCD2009 / 2.0 
  7
     Semester                                    CORRECTED                                             BCA  Regular                                                                Total Program Credit: 132                 Year: 2024 – 2027 
@@ -53,7 +47,6 @@ Courses Semester wise I II III IV V          VI Foundational Mathematics 24EBCB1
 
 ## Page 8
 
-  
 FMCD2009 / 2.0 
  8
 Curriculum Structure-Semester wise Semester - I ISA: In Semester Assessment  ESA: End Semester Assessment  L: Lecture   T: Tutorials   P: Practical Date:                 Program Head No Code Course Category L-T-P Credits Contact Hours ISA ESA Total Exam Duration 1 24EBCB101 Foundational Mathematics BS 3-1-0 4 5 50 50 100 3 hours 2 24EBCB102 Discrete Mathematical Structures BS 3-1-0 4 5 50 50 100 3 hours 3 24EBCC101 
@@ -62,7 +55,6 @@ Curriculum Structure-Semester wise Semester - I ISA: In Semester Assessment  ESA
 
 ## Page 9
 
-  
 FMCD2009 / 2.0 
  9
 Semester - II ISA: In Semester Assessment  ESA: End Semester Assessment  L: Lecture   T: Tutorials   P: Practical   Date:                 Program Head       
@@ -70,49 +62,42 @@ No Code Course Category L-T-P Credits Contact Hours ISA ESA Total Exam Duration 
 
 ## Page 10
 
-  
 FMCD2009 / 2.0 
  10
 Semester - III  No Code Course Category L-T-P Credits Contact Hours ISA ESA Total Exam Duration 1 24EBCB202 Linear Algebra BS 4-0-1 5 6 60 40 100 3 hours 2 24EBCC207 Object Oriented Programming using C++ PSC 3-0-0 3 3 50 50 100 3 hours 3 24EBCC208 Software Engineering PSC 3-0-1 4 5 63 37 100 3 hours 4 24EBCC211 Data Mining PSC 3-0-1 4 5 63 37 100 3 hours 5 24EBCP203 OOPs using C++ Lab PSC 0-0-2 2 4 80 20 100 3 hours 6 24EBCP204 Server-Side Web Development PSC 0-0-1.5 1.5 3 80 20 100 3 hours 7 24EBCP205 DevOps PSC 0-0-2 2 4 80 20 100 3 hours 8 23EHSH102 Problem Solving and Analytical Skills  HSS 0.5-0-0 0.5 1 100 - 100 - TOTAL 13.5-0-8.5 22 31 576 224 800  ISA: In Semester Assessment  ESA: End Semester Assessment  L: Lecture   T: Tutorials   P: Practical   Date:                 Program Head    
 
 ## Page 11
 
-  
 FMCD2009 / 2.0 
  11
  Semester - IV  No Code Course Category L-T-P Credits Contact Hours ISA ESA Total Exam Duration 1 24EBCC209 Machine Learning PSC 3-0-1 4 5 63 37 100 3 hours 2 24EBCC212 Computer Networks PSC 3-0-1 4 5 63 37 100 3 hours 3 24EBCC205 Java Programming PSC 3-0-0 3 3 50 50 100 3 hours 4 24EBCC210 Software Testing PSC 3-0-1 4 5 63 37 100 3 hours 5 24EBCP206 Java Lab PSC 0-0-1.5 1.5 3 80 20 100 3 hours 6 24EBCP207 Full Stack Web Development with MERN PSC 0-0-2 2  4 80 20 100 3 hours 7 23EHSC201 Professional Aptitude and Logical Reasoning HSS 3-0-0 3 3 50 50 100 3 hours 8 23EHSH203 Arithmetical Thinking and Analytical Reasoning HSS 0.5-0-0 0.5 1 100 - 100 - TOTAL 15.5-0-6.5 22 29 549 251 800  ISA: In Semester Assessment  ESA: End Semester Assessment  L: Lecture   T: Tutorials   P: Practical  Date:                 Program Head     
 
 ## Page 12
 
-  
 FMCD2009 / 2.0 
  12
 Semester - V  No Code Course Category L-T-P Credits Contact Hours ISA ESA Total Exam Duration 1 24EBCC305 Big Data Analytics PSC 3-0-1 4 5 63 37 100 3 hours 2 24EBCC301 Cloud Computing PSC 3-0-1 4 5 63 37 100 3 hours 3 24EBCC306 Cyber Security PSC 3-0-1 4 5 63 37 100 3 hours 4 24EBCE3XX Elective -1 PSE 3-0-0 3 3 50 50 100 3 hours 5 24EBCC307 Natural Language Processing and Gen AI PSC 2-0-2 4 6 50 50 100 2 hours 6 24EBCP301 Mobile Application Development  PSC 0-0-1.5 1.5 3 80 20 100 3 hours 7 24EBCP302 Mini Project PW 0-0-3 3 6 50 50 100 3 hours 8 23EHSH204 Industry Readiness and Leadership Skills HSS 0.5-0-0 0.5 1 100 - 100 - TOTAL 14.5-0-9.5 24 34 519 281 800  ISA: In Semester Assessment  ESA: End Semester Assessment  L: Lecture   T: Tutorials   P: Practical   Date:                 Program Head     
 
 ## Page 13
 
-  
 FMCD2009 / 2.0 
  13
   Semester – VI  No Code Course Category L-T-P Credits Contact Hours ISA ESA Total Exam Duration 1 24EBCP303 Capstone Project PW 0-0-14 14 28 50 50 100 3 hours 2 24EBCE3XX Elective -2 PE 3-0-0 3 3 50 50 100 3 hours 3 24EBCE3XX Elective -3 PE 3-0-0 3 3 50 50 100 3 hours   OR  6-0-14 20 34 150 150 300  1 24EBCI302 Industry Project IW 0-0-14 14 28 50 50 100 3 hours 2 24EBCI301 Industry Training IW 0-0-6 6 12 50 50 100 3 hours TOTAL 0-0-20 20 40 100 100 200  ISA: In Semester Assessment  ESA: End Semester Assessment  L: Lecture   T: Tutorials   P: Practical  Date:                 Program Head    Semester I II III IV V VI Total Credits 22 22 22 22 24 20 132 
 
 ## Page 14
 
-  
 FMCD2009 / 2.0 
  14 
 List of Program Electives Sem Name of the Course Course Code Group- Data Analytics 5 Social Network Analysis 24EBCE301 6 Data Visualization 24EBCE302 Group- Software Development 5 Agile Project Management  24EBCE303 6 Programming C# using .Net 24EBCE304 Group- Cyber Security 5 Web Security 24EBCE305 6 Network Security 24EBCE306             
 
 ## Page 15
 
-  
 FMCD2009 / 2.0 
  15 
  Curriculum Content- Course wise Semester - I Program: Bachelor of Computer Applications Semester - I Course Title:Foundational Mathematics Course Code: 24EBCB101 L-T-P: 3-1-0 Credits: 4 Contact Hours: 5 hrs/week ISE Marks: 50 ESA Marks: 50 Total Marks: 100 Teaching Hrs: 40 Tutorial/Practical: 24 Exam Duration: 3 Hours Unit I 1 Number System: Definitions, Number Representations: Decimal, Binary, Octal, and Hexadecimal; Conversion Methods, LCM, HCF, GCD  8 hrs 2 Sequences and Series: AM, GM, HM & their Relation; Odd and Even Series and their Properties; Fibonacci Sequence: Definition, Matrix form; Primes and Divisibility; Prime Factorization: Definition, Methods; Practice problems. 8 hrs Unit II 3 Coordinate Geometry: Introduction to Coordinate Geometry: Distance Formula, Section Formula, Equation of line in Cartesian Plane; Coordinate Geometry formulas and theorems: Calculation of distance between two points, Midpoint theorem, Angle Formula, Area of Triangle in Cartesian Plane; Polar Coordinate System: Polar Grid, Polar Coordinates Formula, Cartesian to Polar Coordinates; 3D polar coordinates. 10 hrs 4 Matrices & Determinants: Definitions, Types of Matrices: Inverse Matrix, Transpose of Matrix; Determinants: Properties, Laplace formula, Determinant of Matrix; Examples. 6 hrs Unit III  5 Straight Lines: Definitions, Types of Equations of Straight Lines, Measuring Straight Lines, Angle between two Straight Lines; Examples. 8 hrs Text Books  1. Handouts provided by Course Teacher. BACK   
 
 ## Page 16
 
-  
 FMCD2009 / 2.0 
  16 
   BACK 
@@ -121,7 +106,6 @@ Program:  Bachelor of Computer Applications Semester - I Course Title: Discrete 
 
 ## Page 17
 
-  
 FMCD2009 / 2.0 
  17 
               
@@ -130,21 +114,18 @@ Program:  Bachelor of Computer Applications Semester - I
 
 ## Page 18
 
-  
 FMCD2009 / 2.0 
  18 BACK  
 Course Title: Computer Organization Course Code: 24EBCC101 L-T-P: 4-0-1 Credits: 5 Contact  Hours: 6 hrs/week ISA Marks: 50 ESA Marks: 50 Total Marks: 100 Teaching Hrs :50 Tutorial/Practical : 24 Exam Duration: 3 Hrs Unit I 1 Binary Systems, Boolean Algebra and Logic Gates Digital Computers and Digital Systems, Binary Numbers, Number Base Conversions, Signed Binary Numbers, Binary Logic, Boolean Algebra and Logic Gates. 4 hrs 2 Simplification of Boolean Functions and Combinational Logic The Map Method, Two- and Three-Variable Maps, Four Variable Map, Product of Sums Simplification, Don’t-Care Conditions, Combinational Logic : Design Procedure, Combinational Logic Circuits, Code Conversions. 8 hrs 3 Sequential Circuit Design  Introduction, Flip-Flops and Triggering of Flip-Flops, Latches, Clocked Sequential Circuits, Introduction to Registers and Counters, Binary storage and Registers, Design of Shift registers and Counters. 8 hrs  Unit II 4 Basic Structure of Computers Computer Types, Functional Units, Basic Operational Concepts, Bus Structure, Memory Locations and Addresses. 8 hrs 5 Machine instruction and Programs Memory Operations, Instructions & Instruction Sequencing, Addressing Modes, Assembly Language. 6 hrs 6 The Memory System  Basics Concepts, Semiconductor RAM Memories, Read-only Memories,  Cache Memories, Virtual Memory. 6 hrs Unit – III 7 Input/output Organization Accessing I/O Devices, Interrupts, Direct Memory Access. 5 hrs 8 Embedded Systems Examples of Embedded Systems, Processor Chips for Embedded Applications,A Simple Microcontroller. 5 hrs Text Book: 1. Digital Logic and Computer Design, Morris Mano, Pearson Education Asia (Kindle Edition)2017. 2. Computer Organization and an Embedded System, Carl Hamacher, Z Varnesic and S Zaky,N Manjikian, 6th Edition, McGraw Hill, 2023. References Books: 1. Digital Electronics Principles and Applications, Tokheim, 9th Edition, McGraw Hill, 2021. 
 
 ## Page 19
 
-  
 FMCD2009 / 2.0 
  19 
 Program: Bachelor of Computer Applications Semester - I Course Title: C Programming Course Code: 24EBCC102 L-T-P: 1-0-3 Credits: 4 Contact Hours:  7 Hrs/week ISA Marks: 50 ESA Marks: 50 Total Marks: 100 TeachingHrs : 12 Tutorial/Practical: 72 Exam Duration:  03 Hrs Unit I 1 Introduction to Problem solving and Programming Problem Solving Framework, Problem Scenario, Principles of Programming, Programming paradigms – procedural, object, logical, functional, Design of C Compilers, Rules and Syntax Orders, Syntax and Semantics, Programming for problem solving. 6 hrs 2 Basics of C programming language Characteristics and uses of C, Structure of C program, C Tokens: Keywords, Identifiers, Variables, Constants, Operators, Data-types, Input and Output statements. 12 hrs 3 Decision control statements  Conditional branching statements: if statement, if else statement, else if ladder, switch statement, unconditional branching statements: break, continue. 12 hrs Unit II 4 Functions Introduction, Function declaration, definition, call, returns statement, passing parameters to functions, introduction to macros. Introduction to Coding Standards. 5 hrs 5 Iterative statements while, do while, for, nested statements 10 hrs 6 Arrays and Strings  Introduction, Declaration, Accessing elements, Storing values in arrays, Operations on one dimensional array, Operations on two dimensional arrays. 15 hrs Unit – III 7 Pointers  Introduction, declaring pointer, pointer variables, pointer expression and arithmetic, passing arguments to functions using pointers, pointers and arrays, passing an array to a function. 6hrs 8 Structures and Unions Introduction, passing structures to functions, Array of structures, Unions 6hrs Text Books 1. Elliot B. Koffman ,Jeri R. Hanly Problem Solving and Program Design in C,8th ed, PHI, 2016. 2. Yashvant Kanetkar, Let us C ,18th ed, BPS Publication, 2016.   ReferencesBooks: 
 
 ## Page 20
 
-  
 FMCD2009 / 2.0 
  20 
 BACK                      Program: Bachelor of Computer Applications Semester – I Course Title: Web Technology Course Code: 24EBCP101 
@@ -152,147 +133,126 @@ BACK                      Program: Bachelor of Computer Applications Semester �
 
 ## Page 21
 
-  
 FMCD2009 / 2.0 
  21 
 L-T-P: 0-0-2 Credits: 2 Contact Hours: 4 hrs/week ISA Marks: 80 ESA Marks: 20 Total Marks: 100 Teaching Hrs: --- Tutorial/Practical: 48 Exam Duration: 3 Hrs Content 1 Fundamentals of Web Introduction to the Internet, The World Wide Web, Web Browsers, Web Servers, Uniform Resource Locators, Hypertext Transfer Protocol,  Security, Web Programmer’s Toolbox 8 hrs 2 HTML 5   HTML5 tags, Multimedia tags, Form attributes, Meter tag, Drag and drop, Image tags, Block & inline, Geo location, Location properties, Handling errors and rejections, Google map, Canvas, URL schemes, ASCII encoding 12 hrs 3 CSS and Bootstrap 5                                                                               Levels of Style Sheets, Style Specification Formats, Box Model, Basic layouts , Animations, Accordions, Progress bar, Validation , Borders, Fonts, Alerts, Toasts, Navbars, Card utilities, Pagination, Slideshow using carousel 14 hrs 4 Dynamic documents and JavaScript                                                                                            JavaScript Execution Environment, Element Access in JavaScript, Event Handling, Button, Text Box and Password Elements, Positioning Elements, Dynamic Content, Stacking Elements, Dragging and Dropping Elements.                 14 hrs Text Book: 1. Robert W Sebesta, Programming the World Wide Web, 8th Edition, Pearson education,2020  ReferencesBooks: 1. Thomas Powell, HTML & CSS: The Complete Reference, 5th Edition, McGraw-Hill, 2017  2. Eric Meyer, Estelle Weyl, CSS: The Definitive Guide : Web Layout and Presentation, 5th Edition , O’ Reilly, 2023 BACK          Program: Bachelor of Computer Applications Semester – I Course Title: Professional Communication Course Code: 24EBCH101 
 
 ## Page 22
 
-  
 FMCD2009 / 2.0 
  22 
 L-T-P: 2-0-1 Credits:3 Contact Hours: 40hrs/week ISA Marks: 50 ESA Marks: 50 Total Marks: 100 Teaching Hrs: 25 Tutorial/Practical: 15 Exam Duration: 3 Hrs Content 1 Chapter 1: Parts of Speech       Noun, Pronoun, Verb, Adjective, Adverb, Preposition, Conjunction, Exclamation, and Interjection. 2 Hrs 2 Chapter 2: Sentence Structures                                                                                     Auxiliary Verbs, PNQ Paradigm 2 Hrs 3 Chapter 3:  Advanced Sentence Structures  Forms of Verbs, Tenses. 2 Hrs 4 Chapter 4: Basic Writing Strategies Active and Passive                                                                                                     2 Hrs 5 Chapter 5: Analytical Grammar Error Identification  2 Hrs 6 Chapter 6: Words’ Usage                                                                                                 Vocabulary – Antonyms, Synonyms, Homonyms, Homophones  2 Hrs 7 Chapter 7: Word Building  Word Formation – Prefixes, Suffixes and Affixes.   2 Hrs 8 Chapter 8: Group Communication                                                                                            Group Discussion  2 Hrs 9 Chapter 9: Presentation Skills                                      Individual Presentation 2 Hrs 10 Chapter 10: Conversations                                                                                            Situational Role Plays.  2 Hrs 11 Chapter 11: Critical Analysis                                      Book Review, Movie Review  2 Hrs 12 Chapter 12: Business Writing  Report Writing, Letter Writing 2 Hrs 13 Chapter 13: Creative Writing  Passage Writing   1 Hrs 14 Practical  15 Hrs Text Book:(List of books as mentioned in the approved syllabus) 1. English Grammar and Composition by Wren and Martin’s  2. English Grammar in Use Book by Raymond Murphy 
 
 ## Page 23
 
-  
 FMCD2009 / 2.0 
  23 
 References Books: 1. Essential English Grammar by Raymond Murphy 2.  Intermediate English Grammar by Raymond Murphy 3. Advanced English Grammar by Raymond Murphy  BACK                      II Semester Program: Bachelor of Computer Applications Semester – II Course Title: Applied Statistics Course Code:24EBCB103 
 
 ## Page 24
 
-  
 FMCD2009 / 2.0 
  24 
 L-T-P: 3-0-1 Credits: 4 Contact Hours: 5 Hours/week ISA Marks: 50 ESA Marks: 50 Total Marks: 100 Teaching Hrs: 40 Tutorial/Practical: 24 Exam Duration: 3hrs Unit-I 1 Description of data Introduction: Data, Type of Variables, mean, weighted mean, median, mode, Quartiles, Variance, Coefficient of variation, skewness, Histogram, Box plots, Normal Quantile-Quantile plots. 8 Hrs 2 Probability  Introduction: Definition, Interpretation of probability value, addition rule, multiplication rule, Baye’s rule.  6 Hrs Unit-II 3 Random variables and Probability Distribution  Random variables, simple Examples, Discrete and continuous random variables. Theoretical distributions: Binomial, Poisson, Normal, Exponential.  8 Hrs 4 Statistical Inference I  Introduction: Sampling, SRSWR, SRSWOR, Cluster Sampling, Stratified Sampling, Basic terminologies of testing hypothesis, Confidence interval, Sample size determination, Hypothesis test for proportions, means(single and differences), using P-value approach.  8 Hrs Unit III 5 Correlation and Regression  Meaning of correlation and regression, coefficient of correlation, Linear regression (ANOVA approach), Multiple linear regression,  5 Hrs 6 Statistical Inference II  Test for independence of attributes (m x n contingency table) Inference based on choice of suitable test procedure (Goodness of fit). 5 Hrs Text Book : 1. J. Susan Milton, Jesse C. Arnold, Introduction to Probability and Statistics: Principles and Applications for Engineering and the Computing Sciences, 4th Ed, TATA McGraw-Hill Edition 2007.  2. Kishor S Trivedi, probability and statistics with reliability queuing and computer science applications, 1ed, PHI, 2000. ReferenceBooks: 1. Gupta S C and Kapoor V K, Fundamentals of Mathematical Statistics, 1ed, Sultan Chand & Sons, New Delhi, 2000. 2. Jiawei Han, Micheline Kamber, Data Mining: Concepts and Techniques, Morgan Kaufmann Publishers, 2005. 3. Sheldon M.Ross, Introduction to Probability and Statistics for Engineers and Scientists. BACK 
 
 ## Page 25
 
-  
 FMCD2009 / 2.0 
  25 
 Program: Bachelor of Computer Applications Semester – II Course Title:  Operating Systems Course Code: 24EBCC103 L-T-P: 4-0-1 Credits: 5 Contact Hours: 6 Hours/week ISA Marks: 50 ESA Marks: 50 Total Marks: 100 Teaching Hrs: 50 Practical Hrs: 24 Exam Duration: 3hrs Unit-I 1 Fundamentals of Process Operating System Functions and Characteristics, Process Concept, Process Control and Operations, System Call, Inter Process Communication. 7 Hrs  2 CPU Scheduling Basic Concepts, Schedulers, Scheduling Criteria, Scheduling Algorithms, Multi- threading models and Thread API, Thread library.  7 Hrs 3 Process Synchronization Background, Synchronization, Producer Consumer problem, The critical section problem, Semaphores, Peterson’s Solution, Classical problems of synchronization.    6 Hrs Unit-II 4 Deadlocks Deadlock System model and Deadlock Characterization, Methods for Handling Deadlocks, Deadlock Prevention, Deadlock Avoidance, Deadlock Detection, Recovery from Deadlock.   7 Hrs 5 Memory Management Memory Management Strategies, Background: Swapping, Contiguous Memory Allocation, Segmentation, Paging, Structure of page table.   7 Hrs 6 Virtual Memory Management Virtual Memory Management: Background, Demand Paging, Page Replacement.  6 Hrs Unit-III 7 File System Management                                                                          Implementing File System, File System Structure, File System Implementation, Directory Implementation, Allocation Methods.  5 Hrs 8 Secondary Storage Management  Mass storage structures, Disk Structure, Disk Scheduling 5 Hrs Text Book:   1. Abraham Silberschatz, Peter Galvin and Greg Gagne, Operating System Principles, 10 ed.., Wiley-India, 2018  
 
 ## Page 26
 
-  
 FMCD2009 / 2.0 
  26 
 2. W. Richard Stevens, Stephen A. Rago, "Advanced Programming in the UNIX Environment", 3 ed.  Addison Wesley Professional, 2018 Reference Books:  1. William Stallings, "Operating System Internals and Design Principles", 1 ed., Pearson Education, Asia, 2015 2. Gary Nutt," Operating System", 3 ed., Pearson Education, 2009  BACK                     
 
 ## Page 27
 
-  
 FMCD2009 / 2.0 
  27 
 Program: Bachelor of Computer Applications Semester - II Course Title: Data Structures with C Course Code: 24EBCC104 L-T-P: 4-0-0 Credits: 4 Contact:  4 Hrs/week ISA Marks: 50 ESA Marks: 50 Total Marks: 100 TeachingHrs :50 Tutorial/Practical: -- Exam Duration:  3 Hrs Unit-I 1  Introduction to Data Structures  Overview of C: Structures, Pointers, Dynamic Memory Allocation, Introduction to Data Structures 8 Hrs 2 Stacks and Recursion Stack: Definitions and Examples, Representing Stacks in C, Applications: Infix to postfix conversion, evaluation of postfix expression, parenthesis matching. Linked Implementation of Stacks, Recursion 12 Hrs Unit-II 3 Queues Queue: Definitions, Representing Queues in C Variants of Queues: Linear queue, circular queue, Applications of queue, Linked Implementation of Queues 8 Hrs 4 Lists Concept of lists: Definition, Representation of linked lists in Memory, Variants of Lists: Singly Linked List, Doubly Linked lists, Circular linked lists. Operations: Traversing, Searching, Insertion and Deletion. Applications of  Linked lists 12 Hrs Unit-III 5 Graphs Graphs: Definitions and examples of graph, Subgraphs, Components, Graph Isomorphism, Vertex Degree, Euler Trails and Circuits, Planar Graphs, Hamilton Paths and Cycles, Graph Colouring and Chromatic Polynomials,  5 Hrs 6  Sorting and Searching Definitions and Importance, Exchange Sorting : Bubble sort, Selection Sort, Insertion sort;  Searching : Linear and Binary Search 5 Hrs Text Book: 1. Data Structures Using C and C++ - Y . Langsam, M. Augenstein And A. M. Tenenbaum, Prentice - Hall of India Pvt. Ltd. Edition- 2, 2020 2. Data Structures with C -- Seymour Lipschutz, Tata McGraw Hill India LTD, EdItion-1, 2011 ReferenceBooks: 1. Data Structures and Algorithms Made Easy – Narshiman Karumunchi, Career Monk Publications, Edition-2, 2017. 2. Data Structure Through C - Yashavant P Kanetkar, BPB Publication, Edition-2. 
 
 ## Page 28
 
-  
 FMCD2009 / 2.0 
  28 
 3. Problem Solving in Data structures and Algorithms Using C – Hemath Jain, TaranTechnologies Private Limited, Edition-1, 2016 4. Data Structures through C in Depth, S.K. Srivastava, DeepaliSrivastava, BPB Publications, 2004 5. Online platform: www.Hackerrank.com 6. https://www.geeksforgeeks.org/  BACK     
 
 ## Page 29
 
-  
 FMCD2009 / 2.0 
  29 
  Program: Bachelor of Computer Applications   Semester - II Course Title: Database Management System Course Code: 24EBCC105 L-T-P: 4-0-1 Credits: 5 Contact Hrs.: 6hrs/week ISA Marks: 50 ESA Marks: 50 Total Marks: 100 Teaching Hrs: 50 Tutorial/Practical: 24 ESA Exam Duration: 3 Hrs Unit –I 1 Introduction and ER Model:                                                                                                   Introduction to DBMS; Data Models, Schemas and Instances; Three-Schema Architecture; Database Languages; Using High-Level Conceptual Data Models for Database Design; An Example Database Application; Entity Types, Entity Sets, Attributes and Keys, Relationship Types, Relationship Sets. Roles and Structural Constraints; Weak Entity Types; Refining the ER Design; ER Diagrams, Naming Conventions and Design Issues.                                                                                                                                                6 Hrs 2 Relational Data Model and Relational Algebra: Relational Model Concepts; Relational Model Constraints and Relational Database Schemas; Update Operations and dealing with constraint violations; Unary Relational Operations: SELECT and PROJECT; Binary Relational Operations: CARTESIAN PRODUCT, JOIN: Additional Relational Operations; Relational Database Design Using ER- to-Relational Mapping. 8 Hrs 3 SQL: SQL Data Definition and Data Types; SQL constraints; DDL and DML statements; JOIN operations; Complex SQL Queries, PL/SQL. 6 Hrs Unit –II 4 Database Design: Informal Design Guidelines for Relation Schemas; Functional Dependencies; Normal Forms Based on Primary Keys; Boyce-Codd Normal Form. 10 Hrs 5 Introduction to Transaction Processing: Introduction to Transaction Processing; Transactions and System concepts; Desirable Properties of Transactions; Characterizing Schedules Based on- Recoverability, Serializibilty. 10 Hrs Unit –III 6 Concurrency Control Techniques: Introduction, Two-phase Locking Techniques for Concurrency Control, Dealing with Dead-lock and Starvation, Concurrency control based on Time stamp Ordering.  5 Hrs 7 Database Security: Introduction to DB Security Issues, Discretionary Access Control, Mandatory Access Control And Role-Based Access Control, SQL Injections, SQL Attacks 5 Hrs 
 
 ## Page 30
 
-  
 FMCD2009 / 2.0 
  30 
 Text Book: 1. Elmasri R. and Navathe S., Fundamentals Database Systems, 7th Ed, Pearson Education, 2015. ReferenceBooks: 1. Ramakrishnan S. and Gehrke J., Database Management Systems, 3rd Ed, McGraw Hill, 2007. 2. Silberschatz A., Korth H.F. and Sudharshan S., Database System Concepts, 5th Ed, Mc- GrawHill, 2006. BACK 
 
 ## Page 31
 
-  
 FMCD2009 / 2.0 
  31 
 Program: Bachelor of Computer Applications Semester - II Course Title: Data Structures Lab Course Code: 24EBCP102 L-T-P: 0-0-1.5 Credits: 1.5 Contact Hours: 3 Hrs/week ISA Marks: 80 ESA Marks: 20 Total Marks: 100 Teaching Hrs: -- Tutorial/Practical: 36 Exam Duration: 3 Hrs Experiment 1 Introduction : Basic operations : Insertion, Delete, Traversal, Reversal  1 2 Stack Applications: Stack Operations using array, Conversion of infix to postfix and prefix, Evaluation of Postfix, Parentheses Checker. 2 3 Queue and Circular Queue Operations using array 2 4 Singly Doubly Linked List:  Insertion, deletion, traversal, and reversal. Stack and Queue using Singly Linked List    2 5 Doubly Linked List:  Insertion, Deletion, Traversal. 1 6 Sorting and Searching Algorithms. 1 7 Project Work : Larger project integrating multiple data structures 3 Text Book: 1. Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein, Introduction to Algorithms, Fourth Edition, The MIT Press, 2022. ReferencesBooks: 1. Mark Allen Weiss, Data Structures and Algorithm Analysis in C++, Pearson Education India; 3rd edition, 2007. 2. Antti Laaksonen, Competitive Programmers Handbook, 2018 3. Bjarne Stroustrup, C++ Programming Language, Addison-Wesley Educational Publishers Inc; 4th edition.    BACK    
 
 ## Page 32
 
-  
 FMCD2009 / 2.0 
  32 
 Program: Bachelor of Computer Applications Semester - II Course Title: Python Programming Course Code: 24EBCP103 L-T-P: 0-0-2 Credits: 2 Contact Hrs: 4 Hrs/week ISA Marks: 80 ESA Marks: 20 Total Marks: 100 Teaching Hrs: -- Tutorial/Practical: 48 Exam Duration: 3 hrs Content 1 Introduction to Python   Installing Python 3.X, Using the Python shell, Strings, print () function, Data types, Order of Evaluation, Number Formats, Rules for defining variable, Built in types, Tuples, List, Dictionary, Ranges of sequences, Control flow statements 8 Hrs 2 Functions  def Statements with Parameters, Return Values and return Statements, None Value, Keyword Arguments, Local and Global Scope, Exception Handling 10 Hrs 3 Files and Directories File objects, Writing text files, Appending Text to a file, Reading text files, File exceptions, Paths and directories, File operations, Globbing, Searching for files, Navigating the file System with the OS Module 8 Hrs 4 Classes and Objects Object, Defining a Class, Objects and Their Scope, Modules and Packages, Importing a Module, Making a Module from Pre-existing Code, Testing of modules and packages 10 Hrs 5 NumPy and Pandas Introduction to NumPy,  NumPy arrays, Array manipulation, Universal functions, Series and Dataframes, Data Manipulation using Pandas, Data cleaning and preparation, Data Visualization  12 Hrs Text Book: 1. Python The Complete Reference, Martin C Brown, Mc Graw Hill, 2018  2. Learning Python, Mark Lutz, Orielly, 5th Edition, 2013  3. Python Programming: A Modern Approach, Vamsi Kurama, Pearson, 2017  References Books: 1. Think Python, 2nd Edition, Allen Downey, Green Tea Press, 2017   2. Core Python Programming, W.Chun, Pearson, 2016 3. Introduction to Python, Kenneth A. Lambert, Cengages, 2015 BACK  
 
 ## Page 33
 
-  
 FMCD2009 / 2.0 
  33 
 Program: Bachelor of Computer Applications   Semester – II Course Title: Corporate Communication Course Code: 23EHSH101 L-T-P: 0.5-0-0 Credits: 0.5 Contact Hrs: 1 Hrs/week ISA Marks: 100 ESA Marks: -- Total Marks: 100 Teaching Hrs: 22 Tutorial/Practical:-- Exam Duration:  -- Unit –I 1 Modules: Communication Skills: Tools of Communication, Listening, Body Language, Common Postures and Gestures, Open and Closed Body Language, Body Language to be used in Corporate Scenarios, Voice: Pitch, Pace, and Pause, Verbal Language: Positive & Negative Vocabulary, Corporate Conversations  Presentation Skills: Zero Presentation, Individual Presentations and feedback, Making Presentations Interactive, Types of Questions, Taking off and Signing off differently, Captivating your Audience, Corporate Presentations  Written English: Vocabulary Enhancement Strategies, Root Words in English, Grammar Improvement Techniques, Dictionary Usage, Similar and Contradictory Words  Spoken English: Phonetic and Non-Phonetic Languages, Introduction to IPA, Sounds in English, Syllables, Word Stress, Rhythm, Pausing, and Intonation  22 Hrs Text Book: 1. Communication Skills: A Practical Guide to Improving Your Social Intelligence, Presentation, Persuasion and Public Speaking: 9 (Positive Psychology Coaching) 11 July 2015. 2. Business Communication Today | Fourteenth Edition | By Pearson, 12 July 2018. Reference Books: 1. 10 Skills for Effective Business Communication: Practical Strategies from the World's Greatest Leaders, 21 August 2018 BACK             
 
 ## Page 34
 
-  
 FMCD2009 / 2.0 
  34 
 III Semester  Program: Bachelor of Computer Applications Semester - III Course Title: Linear Algebra  Course Code: 24EBCB202 L-T-P: 4-0-1 Credits: 5 Contact Hours: 6 Hrs/week ISA Marks: 60 ESA Marks: 40 Total Marks: 100 Teaching Hours: 50 Practical Hours: 24 Examination Duration: 3hrs Unit-I 1 Matrices  Introduction to the system of linear equations and their solutions, elementary row operations-echelon form, Rank of a matrix.   06 Hrs 2 System of linear equations Consistency of system of linear equation, solution of system of equations by (i) Direct methods-Gauss elimination, Gauss Jordon method (ii) Iterative methods- Guass-Seidal method. Eigen values and Eigen vectors of a matrix. Largest Eigen value and the corresponding Eigen vector by power method, Application case study. 14 Hrs Unit-II 3 Vector space Vector spaces and sub spaces- examples, Linear combinations Spanning sets, subspaces,   Linear spans Row space of a matrix, Linear dependence and linear independence. Basis and dimensions, application to matrices, Rank of a matrix. Sums and direct sums, Coordinates, Application case study. 08 Hrs  4 Graph theory Definitions and examples of graph, Sub graphs, Components, Graph Isomorphism, Vertex Degree, Euler Trails and Circuits, Planar Graphs, Hamilton Paths and Cycles, Graph Coloring and Chromatic Polynomials. 12 Hrs Unit III 5 Trees Definitions, Properties, examples, Rooted trees and Binary rooted trees, preorder and post order traversals, sorting, spanning trees, prefix codes and weighted trees, Optimization and Matching- Dijkstra’s shortest path algorithm, Minimum spanning trees, Kruskal and prim’s algorithms. 10 Hrs Text Books : 1. David C. Lay, “Linear Algebra and its Applications”, 5th Ed., Pearson Education, 2015. 2. Discrete Mathematics and its applications., Kenneth H Rosen, Mcgrawhill,8th ed,2021 3. Discrete and Combinatorial Mathematics by Ralph P .P . Grimaldi, Pearson   Education, Asia, 5th edition-2023. 4. Grewal B. S., “Higher Engineering Mathematics”, 43rd Ed., Khanna Publishers, 2014. 
 
 ## Page 35
 
-  
 FMCD2009 / 2.0 
  35 
 Reference Books: 1. Seymour Lipschutz and Marc Lipson, “Linear Algebra”, Schaums outline. 2. Theory and Problems of Combinatorics including concept of Graph Theory by V. K.Balakrishnan (Schaum’s outline series), Mcgraw Hill, 2020. 3. Graph Theory with Applications to Engineering and Computer Science by NarsinghDeo, PHI publications, 2016.    BACK                                     
 
 ## Page 36
 
-  
 FMCD2009 / 2.0 
  36 
   Program : Bachelor of Computer Applications Semester: III Course Title: Object - Oriented Programming using C++ Course code: 24EBCC207 L-T-P: 3-0-0 Credits: 3 Contact Hours:3 Hrs/Week ISA Marks: 50 ESA Marks: 50 Total Marks: 100 Teaching Hrs: 40 Practical Hrs:-- Exam Duration:3 Hours Unit – I 1 Introduction to OOPs and C++: Need for Object-Orientation, Characteristics of Object-Oriented Languages, Structure of C++ program, Input and Output statements: cin & cout, Keywords, Data Type: Basic, Derived and User-Defined, Variable declaration & initialization, Operators in C++ and their precedence, Control Statement and Loops. 5 Hrs 2 Functions:  Function Declaration, Function Definition, Calling the function, Comparison with library functions, Passing Arguments to Functions, Returning values from Functions, Reference Arguments, Function Overloading, Recursion, Inline functions, Default Arguments. 5 Hrs 3 Objects and Classes: C++ Objects as Physical Objects, C++ Objects as Data Types, Constructor and its types, Objects as Function Arguments, Constructor Overloading, Returning objects from Functions, Classes, Objects ,and Memory, Static data members and member functions in C++, Pointers to objects, Destructors in C++ , Nested Classes. 6 Hrs Unit – II 4 Arrays and Strings: Defining Arrays, Initializing Arrays, Multidimensional Arrays, Passing Arrays to Functions, Arrays as Class Member Data, Array of Objects. String Constants, Array of Strings, Strings as Class Members, C++ string Class: Defining and Assigning string Objects, I/O with string Objects, Modifying and Comparing string Objects. 8 Hrs 5 Inheritance and Polymorphism:  Derived Class and Base class, Types of Inheritance in C++, Access Specifiers in C++, Derived Class Constructors, Overriding Member functions, Abstract Classes. Polymorphism in C++, Compile-time Polymorphism and Runtime Polymorphism, Virtual Functions and Friend functions, ‘this’ pointer in C++. 8 Hrs Unit – III 6 Operator Overloading:  Definition, Rules for overloading operators, Overloading Unary Operators, Overloading Binary Operators, Manipulation of strings using operators, Data Conversion.  4 Hrs 7 Exception Handling:  Exception Handling in C++, Handling Multiple Exceptions, User-defined Exceptions, Exception in Constructors and Destructors. 4 Hrs 
 
 ## Page 37
 
-  
 FMCD2009 / 2.0 
  37 
 Text Book: 1. Object – Oriented Programming in C++, Robert Lafore, 4th edition, Pearson Publications, 2001. Reference Book: 1. E Balaguruswamy, Object Oriented Programming in C++, 4th Edition, Tata McGraw Hill, 2008.   BACK                                      
 
 ## Page 38
 
-  
 FMCD2009 / 2.0 
  38 
    Program: Bachelor of Computer Applications Semester  III Course Title: Software Engineering Course Code: 24EBCC208 L-T-P: 3-0-1 Credits: 4 Contact Hours: 5Hrs/week ISA Marks: 63 ESA Marks: 37 Total Marks: 100 Teaching Hrs: 40 Practical Hrs:24 Exam Duration: 03 Hrs Unit-I 1 Introduction to Software Engineering Professional software development, Software engineering ethics, Case studies. 4 Hrs  2 Software Processes Software process models, Process activities, Coping with change, Process improvement. 6 Hrs 3 Agile Software Development Agile methods, Agile development techniques, Agile project management. Scaling agile methods. 6 Hrs Unit-II 4 Requirements Engineering Functional and Non-functional requirements, Requirements Engineering Processes, Requirements Elicitation, Requirements Specification, Requirements Validation. 5 Hrs 5 System Modeling Context Models, Interaction Models, Structural Models, and Behavioral Models. Model-driven Architecture. 6 Hrs 6 Architectural Design Architectural design decisions, Architectural views, Architectural patterns, and Application Architectures. 5 Hrs. Unit-III 7 Design and Implementation. Object-oriented design using UML, design patterns, Implementation Issues, Open source development. 4 Hrs 8 Software Testing. Development Testing, Test-driven Development, Release Testing, and User testing. 4 Hrs Text Books 1. Ian Sommerville, Software Engineering, 10thedition, Pearson Ed, 2021. References Books 1. Roger S. Pressman, Software Engineering: A Practitioners Approach, 7th Edition, McGraw, 2022. 
 
 ## Page 39
 
-  
 FMCD2009 / 2.0 
  39 
 2. Jalote, P , An Integrated Approach to Software Engineering, 6th Edition, willy Publications, 2018. 3. Blaha .M. Rumbaugh, Object Oriented Modelling and Design with UML, 2nd Edition, Pearson, 2013.    BACK    Program: Bachelor of Computer Applications Semester: III Course Title: Data Mining Course Code: 24EBCC211 L-T-P:3-0-1 Credits:4 Contact Hrs:5 Hrs/week ISAMarks:63 ESAMarks:37 Total Marks: 100 Teaching Hrs: 40 Tutorial/Practical: 24 ESA Exam Duration:3 Hrs Unit– I 1  Introduction  Fundamentals of Data Mining, Kinds of Pattern, Technologies and Applications     used, Issues, Data Objects and Attribute Types, Basic Statistical Descriptions of   Data, Data Visualization.                      6 Hrs 2 Data Preprocessing  Need of Preprocessing the Data, Data Cleaning, Data Integration and Transformation,  Data Reduction, Discretization and Concept Hierarchy Generation. 5 Hrs 3 Data Warehousing and Online Analytical Processing  Data Warehouse Basic Concepts, Data Warehouse Modelling, Data Warehouse   Design and Queries, Data Generalization by Attribute-Oriented Induction. 5 Hrs Unit– II 4 Mining Frequent Patterns  Basic Concepts, Frequent Item set Mining Methods, Interesting Patterns, Pattern   Evaluation Methods, Pattern Mining in Multilevel. 8 Hrs 5 Classification  Basic Concepts, Decision Tree, Bayes Classification Methods, Model Evaluation  and  Selection. 8 Hrs Unit– III 6 Cluster Analysis  Cluster Analysis, Different Kinds of Cluster Analysis, Partitioning Methods, Evaluation   of Clustering, Social Networking in World Wide Web.  4 Hrs 7 Mining Complex Types of Data  Multidimensional Analysis and Descriptive Mining of Complex Data Objects, Mining   Spatial Databases, Mining Multimedia Databases. 4 Hrs Text Book 1. J. Han, M. Kamber., Data Mining Concepts and Techniques, 3rd edition, Kaufmann publishers, 2011. 
 
 ## Page 40
 
-  
 FMCD2009 / 2.0 
  40 
 Reference Book 1. Pujari, A.K, Datamining Techniques, 1, Universities Press, 2010.                                         BACK                                          
 
 ## Page 41
 
-  
 FMCD2009 / 2.0 
  41 
   
@@ -301,51 +261,43 @@ Program:  Bachelor of Computer Applications Semester: III Course Title: OOPs usi
 
 ## Page 42
 
-  
 FMCD2009 / 2.0 
  42 
 Program: Bachelor of Computer Applications Semester: III Course Title: Server-Side Web Development Course Code: 24EBCP204 L-T-P: 0-0-1.5 Credits:1.5 Contact Hours: 3 Hours/week ISA Marks: 80 ESA Marks: 20 Total Marks: 100 Teaching Hours: --- Practical Hrs: 36 Hrs Exam Duration: 03 Hrs. Unit I 1 Introduction to Server-Side Programming with PHP  Introduction to server-side scripting and web servers, fundamentals of PHP, Setting up a PHP Development Environment (XAMPP/LAMP), PHP Syntax: Variables, Constants, Data Types, Operators and Expressions, Control Structures, Arrays, Functions.   6 Hrs 2 Advanced JavaScript  JavaScript Essentials (ES6+ Features), scope of variables, Functions, Template Literals, Destructuring of variables, Spread & Rest Operators, Promises & Async/Await, Closures, Hoisting, Scope, Event Loop, Modules & Import/Export in ES6, Understanding JSON. 10 Hrs 3 Working with MySQL  Introduction to MySQL and relational database design, Connecting PHP with MySQL, Performing CRUD operations, Session handling, cookies, authentication basics, Error handling and debugging. 10 Hrs 4 Responsive Frontend with Bootstrap  Overview of frontend frameworks, grid system, containers, cards, navbars, forms, Styling and customizing components, Responsive design and mobile-first development, Pagination, alerts, modals with PHP output, Full-stack integration, Hosting and deployment. 10 Hrs Text Book 1. Jon Duckett, PHP & MySQL: Server-side Web Development, Wiley, 2022 References 1. Robin Nixon, Learning PHP, MySQL & JavaScript: With jQuery, CSS & HTML5, 6th Edition, O'Reilly Media, 2021. 2. Eric A. Mann, PHP Cookbook: Modern Code Solutions for Professional Developers, O'Reilly Media, 2021.         BACK          
 
 ## Page 43
 
-  
 FMCD2009 / 2.0 
  43 
  Program: Bachelor of Computer  Applications Semester: III Course Title: DevOps Course Code: 24EBCP205 L-T-P: 0-0-2 Credits:2 ContactHrs:4 Hours/Week ISAMarks:80 ESAMarks:20 TotalMarks:100 Teaching Hours: -- PracticalHours:48 Hrs ExamDuration:3Hrs Content 1  Introduction to DevOps and Revision Control System Introducing DevOps, The Agile wheel of wheels, DevOps and ITIL. The revision control system, the build server, the artifact repository, Package managers, Test environments, Staging/production, Release management, Scrum, Kanban, and the delivery pipeline Wrapping up a complete example, Identifying bottlenecks.       8  Hrs 2  Everything is Code The need of source code control, The history of source code management system, Roles and code, Source code management system migrations, Choosing a branching strategy, branching problem areas, Artifact version naming, choosing a client, Setting up a basic Git server, Shared authentication, Hosted Git servers, Large binary files, Trying out different Git server implementations, Docker intermission, Gerrit: Installing the git-review package, The value of history revisionism, The pull request model, GitLab.     10 Hrs 3  Building the Code   10 Hrs Importance of building code, The Jenkins build server, Managing build dependencies, Continuous Integration, Continuous Delivery, Jenkins plugins, Triggers, Job chaining and build pipelines, A look at the Jenkins filesystem layout, Build servers and infrastructure as code, Building by dependency order, Build phases. 4 Testing the Code Manual Testing: Concept and limitations, Test Automation: Benefits and challenges, Unit Testing: Fundamentals and use in Python, Introduction to Pytest: Features and syntax, Writing Test Cases with Pytest (with example), Mocking with unittest.mock /pytest-mock, Test Coverage using pytest-cov, Automated Integration Testing with Pytest.    10 Hrs 5  Deploying the Code Configuring the base OS, Describing clusters, Delivering packages to a system, Deploying with Docker, Containerization using Kubernetes.     10Hrs Textbook: 1. Moshe Zadka, DevOps in Python: Infrastructure as Python 2nd Edition,2022. 2. Joakim Verona, Practical DevOps, 2018. Reference Books: 1. Noah Gift, Kennedy Behrman, Alfredo Deza, Grig Gheorghiu, Python for DevOps: Learn Ruthlessly Effective Automation, 2020. 2. Sricharan Vadapalli, DevOps:Continuous Delivery, Integration, and Deployment with DevOps, 2018. 
 
 ## Page 44
 
-  
 FMCD2009 / 2.0 
  44 
   BACK   Program: Bachelor of Computer Applications   Semester - III Course Title: Problem Solving and Analytical Skills Course Code:23EHSH102 L-T-P: 0.5-0-0 Credits: 0.5 Contact Hours:1 Hrs/week ISA Marks: 100 ESA Marks: -- Total Marks: 100 Teaching Hrs: 12 Practical Hrs: Exam Duration: - Content 1 Analytical Thinking:  Analysis of Problems, Puzzles for practice, Human Relations, Direction Tests; Looking for Patterns: Number and Alphabet Series, Coding Decoding; Diagrammatic Solving: Sets and Venn diagram-based puzzles; Visual Reasoning, Clocks and Calendars   Mathematical Thinking:  Number System, Factors and Multiples, Using Simple Equations for Problem Solving, Ratio, Proportion, and Variation   Verbal Ability:  Problem Solving using Analogies, Sentence Completion   Discussions & Debates:  Team efforts in Problem Solving; A Zero Group Discussion, Mock Group Discussions, and Feedback; Discussion v/s Debate; Starting a Group Discussion: Recruitment and other Corporate Scenarios; Evaluation Parameters in a Recruitment Group Discussion, Types of Initiators: Verbal and Thought, Conclusion of a Discussion 12 Hrs Text Book: Vikas Modules, Innovations Unlimited Training Services, Bangalore. Reference Books: https://www.indiabix.com/general-knowledge/questions-and-answers/  BACK           
 
 ## Page 45
 
-  
 FMCD2009 / 2.0 
  45 
 Semester IV   Program: Bachelor of Computer Applications  Semester: IV  Course Title: Machine Learning  Course Code: 24EBCC209  L-T-P:3-0-1  Credits:4  ContactHrs:5 Hrs/week  ISAMarks:63  ESAMarks:37  Total Marks: 100  Teaching Hrs: 40  Practical Hrs: 24 Hrs  Exam Duration:3 Hrs Unit– I 1 Introduction to Machine Learning  Introduction to Machine Learning, Applications of Machine Learning, Types of   Machine Learning: Supervised, Unsupervised and Reinforcement learning, Dataset   Formats, Features and Observations. 6 Hrs 2 Supervised Learning, Linear Regression, Logistic Regression   Linear Regression, Logistic Regression: Single and Multiple variables, Sum of Squares   Error Function, The Gradient Descent Algorithm: Application, The Cost Function,   Classification Using Logistic Regression, Regularization. 10 Hrs Unit–II 3 Supervised Learning Classification   Introduction to Neural Network, Model representation, Gradient Checking, Back  Propagation Algorithm, Multi-class Classification, Support Vector Machines,   Applications & Use-cases. 8 Hrs 4 Unsupervised Learning: Clustering and Dimensionality Reduction  Introduction to Clustering, K Means Clustering Algorithm, Cost Function, Application,   Dimensionality Reduction, PCA- Principal Component Analysis Applications,   Clustering Data and PCA. 8 Hrs Unit–III 5 Introduction to Deep Learning and CNN  Deep Learning, Difference between Machine Learning and Deep Learning, Usage of   Deep Learning, Deep Feed forward Networks, Convolution Neural Networks (CNN)    Convolutional Layer: Filters, Stacking Multiple Feature Maps, Tensor Flow   Implementation, Pooling Layer, and CNN Architectures.  5 Hrs 6 Recurrent Neural Networks  Unfolding Computational Graphs, Recurrent Neural Networks, Bidirectional RNNs,  Sequence Modelling. 3 Hrs Text Book 1. Aurelien Geron, Hands on Machine Learning with Scikit-Learn, Keras and TensorFlow, 2nd Edition, O’ Reilly Media, Inc. 2019. Reference Books 1. Tom Mitchell., Machine Learning, Mc Graw Hill, McGraw-Hill Science, 3rd edition. 2. Aurelian Gerona, Hands-On Machine Learning with Scikit-Learn and Tensor Flow, Concepts, Tools, and Techniques to Build Intelligent Systems, Publisher: O'Reilly Media, July, 2016. 3. Luca Pietro Giovanni Antiga, Thomas Viehmann, Eli Stevens, Deep Learning with PyTorch Manning Publications, 2020.  BACK 
 
 ## Page 46
 
-  
 FMCD2009 / 2.0 
  46 
  Program: Bachelor of  Computer Applications Semester: IV Course Title: Computer Networks Course Code: 24EBCC212 L-T-P:3-0-1 Credits:4 ContactHrs:5 Hrs/week ISAMarks:63 ESAMarks:37 Total Marks: 100 Teaching Hrs: 40 Practical Hrs: 24 Exam Duration:3 Hrs Unit– I 1  Computer Networks and the Internet  Internet, The Network Edge and Core, Delay, Loss, and Throughput in Packet-  Switched Networks, Protocol Layer and Service Models: OSI Model, TCP/IP model,   Network Attacks.  8 Hrs 2  Application Layer Principles of network applications, The Web and HTTP, Electronic Mail in the Internet, DNS, and Peer-to-Peer Applications. 8 Hrs Unit– II 3  Transport-Layer Introduction and Transport-Layer Services, Multiplexing and Demultiplexing, Connectionless Transport: UDP, Principles of Reliable Data Transfer, Connection-Oriented Transport: TCP, TCP Congestion Control. 8 Hrs 4  Network Layer  Data Plane: Overview of Network Layer, What is inside a Router: Input Port   Processing and Destination Based Forwarding, Switching, Output Port Processing,   The Internet Protocol: IPv4, Addressing, IPv6 and More: IPv4 Datagram format, IPv4   Addressing, Network Address Translation (NAT), IPv6. Control Plane: Introduction, Routing Algorithms, Intra-AS Routing in the Internet-OSPF, Routing Among the ISP’s BGP: the role of BGP, ICMP: The Internet Control Message Protocol. 8 Hrs Unit– III 5  The Link Layer: Links, Access networks, and LANs Introduction to the Link Layer, Error-Detection and Correction Techniques, Multiple Access Links, and Protocols. 4 Hrs 6 The Link Layer- Links, Access networks, and LANs Continuation Switched Local Area Networks: Link Layer Addressing and ARP, Retrospective: A Day in the Life of a Web Page Request.  4 Hrs Text Book 1. Computer Networking, A Top-Down Approach,  J.F. Kurose, K.W.Ross, 8th edition Pearson Education,2020. References 1. TCP/IP Protocol Suite, 6th Edition MGH 2022 by B. A. Forouzan.               BACK     
 
 ## Page 47
 
-  
 FMCD2009 / 2.0 
  47 
- 
  
 Program: Bachelor of Computer Applications Semester - IV Course Title: Java Programming Course Code: 24EBCC205 L-T-P: 3-0-0 Credits: 3 Contact Hours:  3 Hrs/week ISA Marks: 50 ESA Marks: 50 Total Marks: 100 Teaching Hrs : 40 Tutorial/Practical: 0 Exam Duration:  03 Hrs Unit I 1 Introduction  Java Fundamentals, The History, and Philosophy of Java, Java’s Magic: The Byte code, The Java Buzzwords, The Java Development Kit, A First Simple Program, Data Types, Variables, Constants, Operators, Control Statements. 4 Hrs 2 Introducing Classes, Objects, and Methods Class Fundamentals, Object Creation, Reference Variables and Assignment, Methods, Constructors and its types, the new Operator Revisited, Garbage Collection, This Keyword, Java’s Access Modifiers, Pass Objects to Methods, Method Overloading, Constructors Overloading, static keyword, Static 4, Introducing Nested and Inner Classes. 7 Hrs 3 Strings  Introduction to Strings, string Constant pool, string buffer, string builder, equals method etc. 5 Hrs Unit II 4 Inheritance Inheritance basics, constructors and Inheritance, understanding super keyword and super class, creating a Multilevel Hierarchy, Superclass References and Subclass Objects, Method Overriding, Using Abstract Classes, using final: To prevent overriding and inheritance, Using final with Data Members, the Object Class. 6 Hrs 5 Packages and Interfaces Working with Package, packages and member access, Understanding Protected Members, Importing Packages, Implementing Interfaces, Using Interface References, default method example, Multiple Inheritance Issues, Use static Methods in an Interface, Private Interface Methods. 5 Hrs 6 Exception Handling The Exception Hierarchy, Exception Handling Fundamentals, Using Try and catch blocks, the consequences of an uncaught exception, using multiple catch statements, catching subclass exceptions, Throwing an Exception, Rethrowing an Exception, A Closer Look at Throwable, Java’s Built-in Exceptions, Creating Exception Subclasses. 5 Hrs Unit – III 7 Collections  Collection Interfaces, Collection and Iterator Interfaces in the Java Library, Linked Lists, Array Lists, Hash Sets, Tree Sets Object Comparison, Maps (hash map). 4 Hrs 8 Multithreading and RMI  4 Hrs 
 
 ## Page 48
 
-  
 FMCD2009 / 2.0 
  48 
  BACK                                 
@@ -353,35 +305,30 @@ Multithreading Fundamentals, The Thread Class and Runnable Interface, creating a
 
 ## Page 49
 
-  
 FMCD2009 / 2.0 
  49 
  Program : Bachelor of Computer Applications Semester - IV Course Title: Software Testing Course Code:  24EBCC210 L-T-P: 3-0-1 Credits: 4 Contact Hours: 5 hrs/week ISA Marks: 63 ESA Marks: 37 Total Marks: 100 Teaching Hours: 40 Practical Hrs: 24 Exam Duration: 3 Hrs Unit I 1 Software Testing Fundamentals Testing and need of testing, Objectives of software Testing, Software Testing Types, STLC (Software Testing Life Cycle), Quality assurance. 8 Hrs 2 Levels of testing Unit Testing, Integration Testing, Functional Testing, System Testing Types, Test environment. 8 Hrs Unit II 3 Test Case Development Test Documentation, Test Scenario, Write Test Cases, Test Analysis, Requirements Traceability Matrix, Test Data Generation. 8 Hrs 4 Selenium Introduction to Selenium, selenium Components & Brief Introduction to each component, Selenium Web Driver, Synchronization in Web Driver, Handling Alerts & Windows, configuring other Browsers, Data Driven Testing. 8 Hrs  Unit III  5 TestNG Overview of TestNG, Annotation of TestNG, Creating Test Suite, Execution of Test Suite, creating groups, Execution of test case with groups, Creating TestNG.xml file, Parallel of Test Cases, understanding of test results, Running only failed test cases. 8 Hrs Text Books:  1. Test Automation using Selenium with Java–Navneesh Garg,Techcanvass, 2022. 2. Software Testing: Principles and Practices-Srinivasan Desikan, Gopalaswamy Ramesh,Pearson Education,2020. Reference Books: 1. Learning Selenium Testing Tools with Python-Unmesh Gundec2nd Edition, 2021,Packt Publishing,2nd Edition, 2021.    BACK        
 
 ## Page 50
 
-  
 FMCD2009 / 2.0 
  50 
    Program: Bachelor of Computer Applications Semester: IV Course Title: Java Lab Course Code: 24EBCP206 L-T-P: 0-0-1.5 Credits:1.5 Contact Hours: 3 Hours/week ISA Marks: 80 ESA Marks: 20 Total Marks: 100 Teaching Hours: -- Practical Hrs: 36  Hrs Exam Duration: 03 Hrs  Exp No List of Experiments Lab Slots 1 Program to demonstrate Java fundamentals like Class and object Creation, constructor overloading and chaining 1 2 Program to demonstrate Strings objects, string comparison etc 1 3 Program to demonstrate garbage collection in java 1 4 Program to demonstrate single inheritance Concepts with super keywords 1 5 Program to demonstrate multi-level, hierarchical Inheritance , hybrid inheritance with superclass reference and subclass objects also method overriding, method hiding 3 6 Program to demonstrate Interfaces and abstract class with inheritance concept 2 7 Program to demonstrate various types of Exception handling with try catch, throw and throws keyword 1 8 Program to demonstrate a program on usage of various collection types like arrayList, LinkedList, Maps, Sets etc. and iterators with Multi-threading concept 2               BACK                    
 
 ## Page 51
 
-  
 FMCD2009 / 2.0 
  51 
 Program: Bachelor of Computer Applications Semester - IV Course Title: Full Stack Web Development with MERN Course Code: 24EBCP207 L-T-P: 0-0-2 Credits: 2 Contact Hrs:  4hrs/week ISA: 80 ESA: 20 Total Marks: 100 Teaching Hrs:-- Practical Hrs: 48 Hrs Exam Duration:  3 Hrs. Content 1 Getting Started with MERN Stack Development and building ReactJS Framework: Components and State. Overview of MERN (MongoDB, Express.js, React.js, Node.js), Client-Server Architecture.  Getting Started with ReactJS: A Quick Overview, The Role of JSX in React Development, Setting Up the Environment, JSX Creating your first React component, Components (Functional vs Class), Props, and State management using React Hooks. 14 Hrs 2 Backend Development NodeJS and Express.js Framework. Introduction to NodeJS, Setting up Node.js environment, HTTP Module, File System (fs) Module, URL Module, Events Module, NPM, Asynchronous Programming.  Setting up the Express.js environment, Creating a basic Express application, Routing in Express.js, Request and Response Objects, Middleware in Express.js: Understanding and implementing middleware functions. Building RESTful APIs, Form Data. 14 Hrs 3 Database Management Using MongoDB An Overview of NoSQL Databases: MongoDB vs. SQL, Key features of MongoDB, MongoDB shell: Leveraging MongoDB Compass for Visual Database Management, Setting Up Databases and Collections in MongoDB, MongoDB CRUD operations. Database Integration. 12 Hrs 4 Case study Blogging Platform, Task Management System (To-Do List Application), E-commerce Website (Basic), Real-Time Chat Application,  Job Board Application, Online Learning Platform, Social Media Platform (Basic), Online Booking System (Event or Hotel Booking) 8 Hrs. Text Book 1. Vasan Subramanian, Pro MERN Stack, 2nd Edition, Apress, 2019. Reference Books 1. Amos Q, Haviv, MERN Web Development, Packt Publishing, 2014. 2. Colin J. Ihrig, Full Stack JavaScript Development with MERN, 2nd Edition, SitePoint, 2019.         
 
 ## Page 52
 
-  
 FMCD2009 / 2.0 
  52 
  List of Experiments Lab slots  1.  Set up a React development environment and create your first app. 1 2.  Build a simple React app with JSX using functional and class components for dynamic content management through props and state. 2 3.  Build a simple web server using Node.js' native HTTP module. 1 4.  To parse and manipulate URLs in Node.js using the URL module. 1 5.  Design asynchronous task handling in Node.js to prevent blocking the event loop. 1 6.  Set up an Express.js environment to create a basic server that responds with a message in the browser. 1 7.  Design a system to access and log client request data using req() method and send responses using res() method. 1 8.  Build and test a basic REST API with enhanced request handling using middleware and Postman. 2 9.  Create a MongoDB database and collection and visually perform CRUD operations and analyse documents using the MongoDB shell. 2          BACK                            
 
 ## Page 53
 
-  
 FMCD2009 / 2.0 
  53 
  
@@ -390,7 +337,6 @@ Program: Bachelor of Computer Applications Semester - IV Course Title: Professio
 
 ## Page 54
 
-  
 FMCD2009 / 2.0 
  54 
  Program : Bachelor of Computer Applications   Semester - IV Course Title: Arithmetical Thinking and Analytical Reasoning Course Code: 23EHSH203 L-T-P: 0.5-0-0 Credits: 0.5 Contact Hours: 1 hrs/week ISA Marks: 100 ESA Marks: -- Total Marks: 100 Teaching Hrs: 12  Tutorial/Practical:-- Exam Duration:  -- Unit – I 1 Modules: Analytical Thinking: Importance of Sense of Analysis for Engineers, Corporate Methodology of Testing Sense of Analysis, Puzzles for practice: Analytical, Mathematical, Classification Puzzles, Teamwork in Problem Solving  Mathematical Thinking: Problems on Finance: Percentages, Gain and Loss, Interest; Distribution and Efficiency Problems: Averages, Time Work, Permutations Combinations Verbal Ability: Comprehension of Passages, Error Detection and Correction Exercises, Common Verbal Ability questions from Corporate Recruitment Tests 12 Hrs Text Book: Vikas Modules, Innovations Unlimited Training Services, Bangalore. Reference Books: https://www.indiabix.com/general-knowledge/questions-and-answers/   BACK                       

@@ -1,11 +1,9 @@
 # PDF Document: 7th_EC_Minutes
+
 **PDF Source:** https://www.kletech.ac.in/pdf/7th_EC_Minutes.pdf
 
 ## Page 1
 
- 
- 
- 
 Minutes 
  
 7th Executive Council Meeting 
@@ -17,12 +15,6 @@ September 20th, 2018 at 10 am
 Venue: Senate Hall of the University 
 Hubballi 
  
- 
- 
- 
- 
- 
-
 ## Page 2
 
 The following are the minutes of the 7th Executive Meeting of KLE Technological University, 
@@ -58,7 +50,6 @@ SL Name Designation Position
  
 Member Member 
  
-
 ## Page 3
 
 Agenda 
@@ -84,7 +75,6 @@ Applications’ Minor Program.
 12 
 EC 7.8 Any other subject with the permission of the Chair . 14 
  
-
 ## Page 4
 
 1 
@@ -134,26 +124,18 @@ NIL
 
 2 
  
- 
- 
 Action Requested: To confirm the minutes of the previous meeting held on 15th March 
 2018. 
  
- 
 Discussion: 
- 
- 
  
 Resolution 7.1: The Executive Council confirmed the minutes of its 
 6th meeting held on 15th March 2018 at KLE 
 Technological University, Hubballi. 
  
- 
-
 ## Page 6
 
 3 
- 
  
 EC 7.2 To confirm the action taken report on the minutes of the previous meeting held on 15th March 
 2018. 
@@ -240,10 +222,8 @@ NIL
 
 5 
  
- 
 Action Requested: The Executive Council is requested to confirm the action taken report on the minutes of the previous meeting 
 held on 15th March 2018. 
- 
  
 Discussion: Participating in the discussions Dr . Atre enquired about the reasons for less participation of students from departments other 
 than Biotechnology. To this Dr. Ashok Shettar, Vice-chancellor said that more branding of bio-engineering minor programme is required. Further he 
@@ -252,11 +232,9 @@ added that branding for all minor programmes is required.
 Resolution 7.2: Resolved to confirm the action taken report on the minutes of its 6th meeting held 
 on 15th March 2018 at KLE Technological University, Hubballi. 
  
-
 ## Page 9
 
 6 
- 
  
 EC 7.3 To consider and approve the recommendations of the 4th 
 Finance Council of the University to be held on 14th 
@@ -300,9 +278,7 @@ recommendations of the 4th Finance Council of the University held on 14th Septem
 
 7 
  
- 
 Discussion: 
- 
  
 Resolution 7.3: The Executive Council considered the 
 recommendations of the 4th finance council held on 14th September 
@@ -312,14 +288,12 @@ recommendations of the 4th finance council held on 14th September
 
 8 
  
- 
 EC 7.4 To discuss and approve ‘Intellectual Property (IP) Policy’ of 
 the University. 
 KLE Tech recognizes the importance of innovations and assists in translating them into 
 products, processes and services for both commercial benefits and achieves the widest 
 public good. The features of this IP Policy aim to meet such needs and enable KLE Tech 
 to achieve its vision.  KLE Tech’s  IP  policy  is  designed  to  identify,  protect  and  
-leverage  the bouquet of IPs that is generated from research– patents, copyrights, 
 design rights and trademarks amongst others, that serve the purpose of knowledge 
 diffusion and commercialization. 
  
@@ -328,15 +302,12 @@ Action Requested: The Executive Council is requested to discuss and approve
  
 Discussion: Dr. Atre suggested to re-word 1c on similar lines with1B.  
  
- 
 Resolution 7.4: The Executive Council approved the ‘Intellectual 
 Property (IP) Policy’ of the University. 
  
-
 ## Page 12
 
 9 
- 
  
 EC 7.5 To review progress of implementation of the ‘Strategic Plan’ 
 of the KLE Technological University. 
@@ -348,7 +319,6 @@ institution was reviewed and approved by the Executive Council on December 27th,
 is being implemented. The first review of progress of implementation was carried out 
 during 6th EC meeting held on 15th March 2018. The progress of implementation need to 
 be reviewed and reflected upon annually.  
- 
  
 Action Requested: The Executive Council is requested to review the progress of 
 implementation of the ‘Strategic Plan’ of the KLE Technological University. 
@@ -371,11 +341,9 @@ o Dean Academics - : Outstanding Student Experience
 o Dean R&D - Impactful Research 
 o Dean P&D - Societal Engagement 
  
-
 ## Page 13
 
 10 
- 
  
 EC 7.6 To review progress of implementation of PhD programmes 
 (Information agenda). 
@@ -440,17 +408,13 @@ parameter for the evaluation/appraisal of the faculty.
 those aspects which are of relevance to KLE-TechUniv. Eg. https://uwm.edu/chancellor/wp-
 content/uploads/sites/290/2015/05/Research-Plan-2017-FINAL.pdf 
  
- 
- 
 Resolution 7.6: The Executive Council noted the progress of 
 implementation of PhD programmes of the 
 University. 
  
-
 ## Page 15
 
 12 
- 
  
 EC 
 7.7 
@@ -499,14 +463,12 @@ Company.
 
 13 
  
- 
 Action Requested: The Executive Council is requested to discuss and ratify institution of 
 ‘Advanced Manufacturing for Aerospace Applications’ undergraduate Minor programme and 
 also note the scheme and syllabi of the programme. 
  
 Discussion: Dr. Atre suggested to look for alternative to AEQUS in the field of aerospace 
 manufacturing to strengthen the minor programme. 
- 
  
 Resolution 7.7: The Executive Council ratified the institution of 
 ‘Advanced Manufacturing for Aerospace Applications’ undergraduate 
@@ -517,9 +479,6 @@ programme.
 
 14 
  
- 
 EC 7.8 Any other subject with the permission of the Chair. 
 NIL 
- 
- 
  

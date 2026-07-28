@@ -1,11 +1,10 @@
 # PDF Document: Spl_BoG_-_Minutes_31-08-2019
+
 **PDF Source:** https://www.kletech.ac.in/pdf/Spl_BoG_-_Minutes_31-08-2019.pdf
 
 ## Page 1
 
 1 
- 
- 
  
 Minutes 
  
@@ -15,13 +14,6 @@ Hubballi, Karnataka
 August 31st, 2019 at 9.30 am 
 Venue: Senate Hall, KLE Technological University 
  
- 
- 
- 
- 
-  
-
-
 ## Page 2
 
 2 
@@ -86,7 +78,6 @@ Member
 
 3 
  
- 
 Item 
 No. 
 Particulars Page No 
@@ -111,18 +102,6 @@ Council) of various programs.
  Annexure I  
  Annexure II  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 4
 
 4 
@@ -135,22 +114,14 @@ Master of Computer Applications) at the first convocation
 of KLE Technological University scheduled on August 31, 
 2019. 
  
- 
 The Overall result approved by Academic council is presented in Annexure -1 
 The Approved list of eligible candidates  is tabled 
  
- 
- 
 Action Requested:Approvethe list of eligible candidates 
- 
  
 Discussion: Dean (AA) presented the results  and after discussion, the members  
 approved the results. The members expressed concern about the results 
 of Department of Automation and Robotics 
- 
- 
- 
- 
  
 Resolution :Resolved to approve the list of eligible candidates 
 (approved and recommended by Academic Council) for the 
@@ -159,35 +130,24 @@ of Technology, Master of Business Administration and Master of
 Computer Applications ) at the first convocation of KLE 
 Technological University scheduled on August 31, 2019. 
   
-
 ## Page 5
 
 5 
  
- 
 2. To approve the list of rank holders (approved and 
 recommended by Academic Council) of various programs.  
- 
  
 The list of the candidates approved by the Academic Council as per the 
 regulations and recommended by COE is enclosed as Annexure - 2 
  
- 
 Action Requested: Approve the list of rank holders 
  
- 
 Discussion: 
- 
- 
- 
- 
  
 Resolution: Resolved to approve the list of rank holders 
 (approved and recommended by Academic 
 Council) of various programs. 
  
-  
-
 ## Page 6
 
 6 
@@ -195,7 +155,6 @@ Council) of various programs.
 3. Approve the proposal of Installation of Gold and Silver 
 medals respectively, for 1st and 2nd Rank holders of 
 various programs of KLE Technological University. 
- 
  
 Action Requested: Approve the proposal of Installation of Gold and 
 Silver medals 
@@ -216,8 +175,6 @@ The members also suggested that wherever more than one candidates have
 the same CGPA, all these candidates shall be awarded Gold or Silver or Rank 
 Certificate as per the rank.  
  
- 
- 
 Resolution: Resolved to approve the proposal of Installation of 
 Gold and Sil ver medals respectively, for 1st and 2nd 
 Rank holders of various programs of KLE 
@@ -226,15 +183,11 @@ the university. It is also resolved to award from next
 academic year “Chancellor Medal” to a rank holder if 
 he/she has scored a CGPA of 10.  
  
-  
-
 ## Page 7
 
 7 
  
 4. Any other matter with the permission of the Chair. 
- 
- 
  
 Table agenda 4.1: To consider closing and re-naming of M.Tech programmes 
 Resolution 4.1: It is resolved to recommend the closure of 

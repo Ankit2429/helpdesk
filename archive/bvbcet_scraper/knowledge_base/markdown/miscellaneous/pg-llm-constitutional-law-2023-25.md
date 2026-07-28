@@ -1,25 +1,10 @@
 # PDF Document: pg-llm-constitutional-law-2023-25
+
 **PDF Source:** https://www.kletech.ac.in/pdf/pg-llm-constitutional-law-2023-25.pdf
 
 ## Page 1
 
  1 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Curriculum Structure and Content for the Academic Batch 2023-25 
 Law Programs 
@@ -28,9 +13,6 @@ Program: LL.M. Constitutional Law
 ## Page 2
 
  2 
- 
- 
- 
  
 Table of Contents 
 Vision and Mission of KLE Technological University .............................................................................. 3 
@@ -47,7 +29,6 @@ Semester- IV ...................................................................
 ## Page 3
 
  3 
- 
  
 Vision and Mission of KLE Technological University 
  
@@ -79,13 +60,11 @@ collaboration and partnership to accomplish our mission.
 
  4 
  
- 
 Vision and Mission Statements of KLE Law College 
  
 Vision 
 To inspire, sculpt, and empower the students through holistic education to attain the objective of ‘Learn 
 with Purpose and Live with Purpose’ 
- 
  
 Mission 
  To disseminate industry-oriented legal education of global standards rooted in social values. 
@@ -99,39 +78,9 @@ common man as the focal point.
 exalted individuals with the values of love, truth, service, and sacrifice. 
  To promote research culture and nurture innovative ideas among the faculty and students 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 5
 
  5 
- 
  
 Program Educational Objectives/Program Outcomes and Program-Specific Objectives 
  
@@ -175,9 +124,6 @@ accountability in all professional and academic engagements.
 
  6 
  
- 
- 
- 
 PO9. Individual and Teamwork:  Graduates will function effectively as individuals and 
 collaborate as team members in multidisciplinary and multicultural settings. 
 PO10. Communication: Graduates will communicate legal ideas, construct arguments, and 
@@ -198,11 +144,9 @@ PSO3 – Engagement with Contemporary Constitutional Challenges:  Graduates will
 with evolving constitutional issues such as federalism, secularism, and constitutional morality 
 through academic and policy research. 
  
-
 ## Page 7
 
 7 
- 
  
 Curriculum Structure-Overall 
  
@@ -210,8 +154,6 @@ Semester: 1 to 4 (2023-25Batch)                                                 
 Program Credits: 64 
 Course with 
 Course Code 
- 
-  
  
 I II III IV 
 Judicial Process and Law-Making 
@@ -264,13 +206,11 @@ Specialisation Paper – 7:
 Constitutional Miscellany  
 (21LLIT204) 
  
-     
 Credits  16 16 16 16 
 
 ## Page 8
 
 8 
- 
  
 Curriculum Structure-Semester-wise 
  
@@ -299,7 +239,6 @@ TOTAL   16
 ## Page 9
 
 9 
- 
  
 Semester – II  
  
@@ -333,7 +272,6 @@ TOTAL   16
 ## Page 10
 
 10 
- 
  
 Semester – III 
  
@@ -373,7 +311,6 @@ TOTAL   16
 
  11 
  
- 
 Semester – IV 
  
 No Code Course Course 
@@ -391,17 +328,12 @@ Theory  2-1-1-0 4 100 0 100 3 hours
 21LLCD201 Dissertation Practical  0-0-8-0 8 100 0 100 NA 
 TOTAL   16     
  
- 
-  
 Semester I II III IV Total 
 Credits 16 16 16 16 64 
  
- 
-
 ## Page 12
 
 12 
- 
  
 Curriculum Content- Course-wise  
 Program: PG Semester: I 
@@ -457,7 +389,6 @@ Unit V: Nature of legislative drafting:
 
 13 
  
- 
 • Steps in legislative drafting; pre-draft preparation; drafting 
 • Deliberation with others;  
 • Post-draft refinement. 
@@ -501,8 +432,6 @@ References:
 ## Page 14
 
 14 
- 
- 
  
 Program: PG Semester: I 
 Course Title: Research Methodology  
@@ -554,7 +483,6 @@ Prescribed Book(s):
 
 15 
  
- 
  1. Bhat Ishwara P., Idea and Methods of Legal Research, (Oxford: Oxford 
     University Press, 2019) 
  
@@ -579,15 +507,10 @@ References:
  11. Russel L. Ack;off (19530- The Design of Social Research (University of Chicago 
       Press). 
  
- 
- 
-
 ## Page 16
 
 ←BACK TO SEMESTER I 
 16 
- 
- 
  
 Program: PG Semester: I 
 Course Title: Legal Theory and Philosophy  
@@ -638,7 +561,6 @@ References:
 ←BACK TO SEMESTER I 
 17 
  
- 
 9. Dworkin, Ronald. Taking rights seriously. Harvard University Press, 1978. 
 10. Posner, Richard A. The Economics of Justice, Harvard University Press, 1981, 
 Chapter 3. 
@@ -647,13 +569,9 @@ University Press, 2001 (Revised edition). (Excerpts)
 12. Okin, Susan Moller. ‘Justice and Gender’, Philosophy and Public Affairs, 16(1), 
 1987. 
  
- 
- 
-
 ## Page 18
 
 18 
- 
  
 Program: PG Semester: I 
 Course Title: Specialisation Course– 1: Constitutional Law 
@@ -670,7 +588,6 @@ Unit I:
 • Requisites of ideal Constitution 
 • Concept of Constitutionalism – its development and role in the legal system 
 • Nature and limitations of constituent and amending power; Basic structure theory 
- 
  
 Unit II:  
 • Saptanga Theory of State in ancient India 
@@ -709,8 +626,6 @@ experience of India, U.S.A. and Canada
 
 19 
  
- 
- 
 Prescribed Book(s): 
   1. Karl Lowenstein. Political Power and Governmental Process. 
   2. Gettel, Readings in Political Science 
@@ -739,25 +654,9 @@ References:
  12. Vepa P. Sarathi, Interpretation of Statutes 
  13.Laurence H. Tribe, American Constitutional Law 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 20
 
 20 
- 
- 
- 
  
 Program: PG Semester: II 
 Course Title: Law and Social Transformation in India 
@@ -779,14 +678,11 @@ Unit II: Religion, law and social transformation
 • Reforms in personal laws on secular lines 
 • Religious minorities and the constitution 
  
- 
- 
 Unit III: Law and gender justice  
 • Gender based social conflicts 
 • Social and economic empowerment of women 
 • Gender based violence - Law and policy 
 • Feminist critique of Indian jurisprudence 
- 
  
 Unit IV: Law and Poverty alleviation  
 • Poverty alleviation: Law and policy framework 
@@ -815,8 +711,6 @@ University Law Review, (1984), pp. 433-546.
 
 21 
  
- 
- 
 Program: PG Semester: II 
 Course Title: Law Pedagogy and Legal Writing 
  
@@ -832,7 +726,6 @@ Unit I: Legal education and methods of teaching
 • Teaching Methods in Law - Lecture Method, Case Method, Problem Method, Discussion Method, 
 Simulation and Role Play, Collaborative Teaching, Seminar Method and Other methods  
  
- 
 Unit II: Outcome-based education (OBE) 
 • Outcome-based legal education 
 • Programme outcomes 
@@ -840,9 +733,6 @@ Unit II: Outcome-based education (OBE)
 • Lesson outcomes  
 • Tools and techniques of OBE  
 • Salient features of Bloom's Taxonomy 
- 
- 
- 
  
 Unit III: Curriculum drafting and deployment  
 • Learning objectives  
@@ -853,18 +743,15 @@ Unit III: Curriculum drafting and deployment
 • Practical training courses and skills training  
 • Extension services - Legal aid and legal awareness  
  
- 
 Unit IV: Assessment planning and execution  
 • Assessment and evaluation of student’s performance  
 • Examination system  
 • Problems in evaluation  
 • Methods of evaluation - Continuous evaluation, end-term exams, assessment and supervision 
  
-
 ## Page 22
 
 22 
- 
  
 Unit V: Legal writing  
 • Legal Writing - Articles, case analysis and book reviews 
@@ -897,18 +784,9 @@ Butterworths, London, (1989).
 5. Gerald F. Hess and Steven Friedland, Techniques for Teaching Law, Carolina Academic Press, 
 (1999). 
  
- 
- 
- 
- 
-
 ## Page 23
 
 23 
- 
- 
- 
- 
  
 Program: PG Semester: II 
 Course Title: Constitutional Law Specialisation - 2: 
@@ -953,15 +831,9 @@ Publishing, New Delhi, (2015).
 4. M.V. Pylee, Select Constitutions of the World, 4th Edition, Universal Law Publishing, (2016). 
 5. M.P. Jain, Indian Constitutional Law, 8th Edition, Lexis Nexis, (2021). 
   
-
 ## Page 24
 
 24 
- 
- 
- 
- 
- 
  
 Program: PG Semester: II 
 Course Title: Constitutional Law Specialisation - 3: Facets of 
@@ -1014,23 +886,16 @@ References
 
 25 
  
- 
 1. Dhavan, Rajeev, and N.S.  Nahar. The Compensation Conundrum -Socialism at the Bar of The 
 Supreme Court, Journal of the Indian Law Institute  20, no. 3 (1978): 406 –37. 
 http://www.jstor.org/stable/43950609. 
 2. A. V. Dicey, An Introduction to the Study of the Law of the Constitution, Macmillan and Co. 
 (1889) 
  
- 
- 
- 
- 
-
 ## Page 26
 
 ←BACK TO SEMESTER I 
 26 
- 
  
 Program: PG Semester: III 
 Course Title: Constitutional Law Specialisation - 4: Centre-
@@ -1085,7 +950,6 @@ References:
 ←BACK TO SEMESTER I 
 27 
  
- 
 8. Administrative Reforms Commission on Centre-State Relationship Ch. 3 (1969) 
 9.Constituent Assembly Debates Vol. 9, 203, 240 and 302-349; Vol. 10, 325-342 
 10. Administrative Reforms Commission, Report of the Study Team on Central-State Relationship 
@@ -1093,14 +957,10 @@ References:
 11. L.M. Singhvi (ed.), Union-State Relations in India 124-154 (19690 
 12. M.P. Jain, Indian constitutional Law (1994), Wadhwa. 
  
- 
- 
-
 ## Page 28
 
 ←BACK TO SEMESTER II 
 28 
- 
  
 Program: PG Semester: III 
 Course Title: Constitutional Law Specialisation - 5: Civil 
@@ -1155,22 +1015,15 @@ References
 ←BACK TO SEMESTER II 
 29 
  
- 
 7. A.V. Dicey – Introduction to the Study of Constitution. 
 8. P Ishwar Bhat - Fundamental Rights 
 9. DD Basu - Constitutional law of India 
 10. M P Jain - Constitutional law of India 
  
- 
- 
- 
- 
-
 ## Page 30
 
 ←BACK TO SEMESTER II 
 30 
- 
  
 Program: PG Semester: III 
 Course Title: Constitutional Law Specialisation - 6: 
@@ -1218,15 +1071,10 @@ Administrative Law.
 Materials). 
 12. D.D. Basu – Administrative Law. 
  
- 
- 
-
 ## Page 31
 
 ←BACK TO SEMESTER II 
 31 
- 
- 
  
 Program: PG Semester: III 
 Course Title: Constitutional Law Specialisation - 7: 
@@ -1280,30 +1128,14 @@ Sept., 2016
 ←BACK TO SEMESTER II 
 32 
  
- 
  Gender https://nhrc.nic.in/sites/default/files/Study_HR_transgender_03082018.pdf 
 8.Akanksha Mishra, Third Gender Rights: The Battle for Equality Christ University Law Journal, 5, 2 
 (2016), 9-21 ISSN 2278-4322|doi.org/10.12728/culj.9.2 9 
 https://core.ac.uk/download/pdf/236436832.pdf 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 33
 
 FMCD2009 / 2.0 33 
- 
  
 Program: PG Semester: IV 
 Course Title: Constitutional Law Specialisation - 8: Law 
@@ -1359,27 +1191,16 @@ References
 
 FMCD2009 / 2.0 34 
  
- 
 1.  P. M. Bakshi, Public Interest Litigation, 3rd edn., Ashoka Law House, New Delhi, (2012). 
 2. S. A. De Smith, Judicial Review of Administrative Action, Cambridge University Press, (2009). 
 3. H. M. Seervai, Constitutional Law of India, 4th edn., Universal Law Publishing Co. Ltd, (2015). 
 4. Justice M. Rama Jois, Services Under the State, The Indian Law Institute, New Delhi, (2007). 
 5. Samaraditya Pal, Law relating to Public Service, 3rd edn. Lexis Nexis (2017). 
  
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 35
 
 ←BACK TO SEMESTER V 
 FMCD2009 / 2.0 35 
- 
  
 Program: PG Semester: IV 
 Course Title: Constitutional Law Specialisation - 9: Law and 
@@ -1434,7 +1255,6 @@ Thomson Reuters (2012).
 ←BACK TO SEMESTER V 
 FMCD2009 / 2.0 36 
  
- 
 2. Sara Hadwin and Dunean Bloy, Law and the Media, London, Sweet and Maxwel, 2 nd Edition 
 (2011). 
 3. Pooja Kataria, Women and the Media, New Delhi, Regal Publications (2007) 
@@ -1444,5 +1264,4 @@ Press Commission, 26 J. I.L.I. 391 (1984).
 6. Rashmi Sharma, Electronic Media: Issues and Innovations, New Delhi, Regal Publications 
 (2007). 
 7. M. Tugendhat and Christie, The Law of Privacy and the Media, 3rd ed., Oxford (2002) 
- 
  

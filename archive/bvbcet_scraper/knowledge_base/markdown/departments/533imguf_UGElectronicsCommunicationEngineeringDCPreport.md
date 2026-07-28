@@ -1,4 +1,5 @@
 # PDF Document: 533imguf_UGElectronicsCommunicationEngineeringDCPreport
+
 **PDF Source:** https://www.kletech.ac.in/Uploads/image/533imguf_UGElectronicsCommunicationEngineeringDCPreport.pdf
 
 ## Page 1
@@ -538,12 +539,7 @@ https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=
 
 1.  
  
- 
 Centre forIntelligentMobility
- 
- 
- 
- 
  
 PerceptionandControl
 3D Lidar UG, PG& PhDStudentsRADAR1642Evaluationmodule,DCA1000EVMEVM CaptureCard
@@ -582,13 +578,11 @@ https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=
 
 ## Page 22
 
-   
 6/30/26, 1:00 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=1434 22/26
 
 ## Page 23
 
- 
 1.    3D LiDAR: A 3D LiDAR sensor from Velodyne is utilized for high-resolution environmental mapping and object detection. The rotating multi-beam laser architecture enables real-timeacquisition of dense 3D point clouds, supporting applications in autonomous navigation, obstacle avoidance and SLAM. Its wide field of view and long-range detection capability allow accuratereconstruction of complex environments under diverse lighting conditions. The system facilitates precise localization and perception experiments by providing reliable spatial data for algorithmdevelopment and validation.
 2.    RADAR AWR1642 Evaluation Module with DCA1000 EVM Capture Card: The AWR1642 radar evaluation module is integrated with the DCA1000 EVM capture card to assessmmWave radar sensing performance for automotive and robotics applications. This setup provides real-time acquisition of raw IF radar data, enabling experiments related to range estimation,velocity profiling, and object detection. The high-frequency FMCW radar supports robust sensing in low-visibility environments, while the capture card ensures lossless high-speed datastreaming for algorithm training, signal processing, and performance benchmarking.
 3.    Real Sense Depth Camera (0.3 m – 3 m, 1280×720, USB-C): An Intel RealSense depth camera is used for stereo-based depth sensing and RGB-D data acquisition in roboticperception tasks. With an operating range of 0.3-3 meters and HD resolution, it enables precise depth mapping for obstacle detection, gesture recognition, and SLAM. The USB-C interfaceensures high-speed data transfer suitable for real-time applications. This system supports evaluation of depth-estimation algorithms and enhances spatial understanding in indoor and outdoorenvironments.
@@ -620,7 +614,6 @@ https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=
 
 20.    Skateboard:The Autonomous Vehicle Skateboard is a modular robotic platform used for research in autonomous navigation and smart mobility systems. It integrates sensors,controllers, motor drivers, and battery systems for experimentation in obstacle detection, path planning, and autonomous control. The platform supports UG projects, research activities, andinnovation in robotics and intelligent transportation technologies.
 21.    Autonomous Buggy: The Autonomous Buggy is a self-driving robotic vehicle platform equipped with sensors, embedded controllers and intelligent navigation algorithms. It is used forhands-on learning and research in autonomous driving, robotics, computer vision, path planning and artificial intelligence. The facility enables students to design, develop and test autonomousnavigation and obstacle avoidance systems, supoorting project based learning and innovation in smart mobility and intelligent transportation applications.
- 
  
 PART E: First Year faculty and financial Resources
 (Data to be filled in for the first year course faculty and budget allocation and utilization)

@@ -1,4 +1,5 @@
 # PDF Document: KLE-TECH-Annual-Report-2019-20
+
 **PDF Source:** https://www.kletech.ac.in/pdf/KLE-TECH-Annual-Report-2019-20.pdf
 
 ## Page 1
@@ -76,7 +77,6 @@ I wish everyone the best.
 Dr. Prabhakar Kore
 Chancellor
 
-
 ## Page 4
 
 2   | KLE Tech
@@ -95,7 +95,6 @@ We would like to extend our sincere thanks to our faculty, staff, students, alum
 partners for their continued support and remarkable contributions. Looking ahead, we will 
 continue to work towards realizing our vision to be a leader in engineering education, and 
 advancing research and innovation to support socio-economic development of the region.
-
 
 ## Page 5
 
@@ -248,7 +247,6 @@ Graduate Common Entrance Test (PGCET)
 conducted by Karnataka examination 
 authority, is used for the selection of students.
 
-
 ## Page 8
 
 6   | KLE Tech
@@ -308,7 +306,6 @@ Sl.No. Programme
 Student admissions for the year 2019-20 - UG
 Student admissions for the year 2019-20 - PG
 
-
 ## Page 10
 
 8   | KLE Tech
@@ -339,7 +336,6 @@ opportunity to build a culture of continuous
 improvement that strengthens our academic 
 quality and inspires student achievement.
 Academic Quality
-
 
 ## Page 11
 
@@ -403,7 +399,6 @@ Inscribe, which foster innovation in them.
 During the academic year 2019-20 following are the major academic initiatives undertaken to 
 improve the teaching and learning process.
 
-
 ## Page 13
 
   www.kletech.ac.in  |  11 
@@ -424,7 +419,6 @@ our students to be prepared for industry requirements and challenges, and has re
 placements in embedded industries. As the vertical seeks attention from many industries and 
 facilitates initiation of ideas, the project theme of the school also is made in line with the vertical to 
 ensure hands on learning.
-
 
 ## Page 14
 
@@ -458,7 +452,6 @@ selected students undergo close to two years of professional exercise., As part 
 partner agreement between KLE Tech., IESA and SEER, University has enabled design a program to 
 create a, mixed signal IC - Elapsed Time Counter in UMC 0.18μm technology, under the guidance of 
 faculty and industry experts.
-
 
 ## Page 15
 
@@ -607,7 +600,9 @@ Aerospace Manufacturing (AM) have evolved through collaboration with lead indust
 specialized courses based on design thinking impart employment linked knowledge and skill-
 sets for assured recruitment. The enabling support infrastructure and ambience in place gives 
 students an authentic experience of the industry-like orientation.
+
 # T echnology Area Courses Industry engaged 
+
 with
 Students 
 impacted Remarks
@@ -729,7 +724,6 @@ assignments aimed at skill development.
 • Activity based learning is based on individual as well as team 
 activities, which encourage peer evaluation and team spirit.
 
-
 ## Page 21
 
   www.kletech.ac.in  |  19 
@@ -737,46 +731,37 @@ Faculty Development Programmes
 Teachers provided with financial support to attend conferences / workshops and towards 
 membership fee of professional bodies during the year 2019-20
 
-
 ## Page 22
 
 20   | KLE Tech
-
 
 ## Page 23
 
   www.kletech.ac.in  |  21 
 
-
 ## Page 24
 
 22   | KLE Tech
-
 
 ## Page 25
 
   www.kletech.ac.in  |  23 
 
-
 ## Page 26
 
 24   | KLE Tech
-
 
 ## Page 27
 
   www.kletech.ac.in  |  25 
 
-
 ## Page 28
 
 26   | KLE Tech
 
-
 ## Page 29
 
   www.kletech.ac.in  |  27 
-
 
 ## Page 30
 
@@ -829,7 +814,6 @@ at KLE Tech and 70 students registered in other universities. The following tabl
 about the research centers.
 Table 1: Details of registered and awarded candidates at 12 research centers 
 
-
 ## Page 32
 
 30   | KLE Tech
@@ -840,7 +824,6 @@ Table 2: Summary of papers published during 2017-18, and 2018-19 & 2019-20
 Indexed in:   W- Web-of- science     S- Scopus   G- Google scholar 
 Indexed in W—Web of science, S-Scopus, G-Google scholar
 Graphs 
-
 
 ## Page 33
 
@@ -870,7 +853,6 @@ the students and faculty mentors has been overwhelmingly positive. The students 
 mentors have devoted considerable time and effort to make the experience worthwhile and 
 fruitful.
 Summary of outcome of the REU course is reflected in the following table. 
-
 
 ## Page 34
 
@@ -912,7 +894,6 @@ Institute funded capacity building projects for individual faculty
 Incentives given to faculty for quality publication, funded research 
 and guiding doctoral students 
 
-
 ## Page 36
 
 34   | KLE Tech
@@ -939,7 +920,6 @@ internship and minor projects.
 • Experienced mentors, who handhold the start-ups in various technical and non – technical 
 areas and upskill them. 
 • Access to funding opportunities by connecting to right investors
-
 
 ## Page 37
 
@@ -971,7 +951,6 @@ Miniature drill machine, Smart irrigation system, PCB etching
 machine, Multipurpose stool. Each team was given a seed 
 fund of Rs. 500 to build the product. Many teams made a 
 breakeven and had profits by sale of their product.
-
 
 ## Page 38
 
@@ -1006,7 +985,6 @@ Ideation Camp in previous years and by Dr. Nitin Kulkarni & Ms. Soumya Kudagi. A
 two, the teams were evaluated by judges, Mr Sagar Virapannavar & Ms. Deepika M. Top three 
 teams were awarded with cash prizes.
 
-
 ## Page 39
 
   www.kletech.ac.in  |  37 
@@ -1039,7 +1017,6 @@ with specific and precision testing equipment. It also
 housing an Anechoic Chamber which helps for testing 
 of Antennas at zero interference of signal. This facility helps for rapid prototyping and testing and 
 taking the product faster to the market for start-ups.
-
 
 ## Page 40
 
@@ -1086,7 +1063,6 @@ Anand Kadakol – 5th & 6th December
 • Seminar by Fintel – 10th January 2020
 • A Seminar on Entrepreneurial & Job Opportunities in VLSI Design by Mr. Shripad Annigeri – 
 22nd February 2020
-
 
 ## Page 42
 
@@ -1155,7 +1131,6 @@ pedestrians at a traffic intersection. The solution can be deployed for normal t
 and mixed transport intersections. The solution is also apt for railway crossings, security gates 
 and private roads.  CIPD shall be working closely with BRTS Hubballi-Dharwad to implement the 
 aforementioned system.
-
 
 ## Page 44
 
@@ -1436,7 +1411,6 @@ and Prof. Veena Kumar, Executive Director of the IUCEE
 international Educators’ Certification Program presented 
 the award. Congratulations Dr. Joshi
 
-
 ## Page 51
 
   www.kletech.ac.in  |  49 
@@ -1460,7 +1434,6 @@ the students' teams and their mentors virtually. A total of 1550 visitors from d
 visited the exhibition. The representations included from the United States, United Arab Emirates, 
 Australia, Hong Kong, Canada, Germany, Kuwait, Nigeria, Netherlands, Nepal, Saudi Arabia, United 
 Kingdom, Pakistan, Qatar and Sweden.
-
 
 ## Page 52
 
@@ -1566,7 +1539,6 @@ Proud to announce we are ranked 5 Star rating by Institutions Innovations
 Council for the year 2019-20. Innovation at KLETech will only grow by leaps 
 and bounds. Thanks to everyone for making this possible.
 
-
 ## Page 55
 
   www.kletech.ac.in  |  53 
@@ -1607,7 +1579,6 @@ DISSERTATION: VII SEMESTER 2015 -2020 BATCH
 8th Semester Student., Won the “Best Paper Award” for the Oral Presentation of her Research Paper 
 titled- “Evaluating Building Aesthetics using Gestalt Analysis” at the Research Conclave 2019 held at 
 IIT Guwahati from 14-17th March 2019. 
-
 
 ## Page 56
 
@@ -1731,7 +1702,6 @@ Alumni expressed their happiness in the progress that their
 College has achieved and spontaneously promised to support 
 the university for Placements and Tech talks etc.
 
-
 ## Page 60
 
 58   | KLE Tech
@@ -1758,7 +1728,6 @@ Dean - Planning &
 Development
 Dr. Uma Mudenagudi
 Dean - Research & Development
-
 
 ## Page 61
 
@@ -1812,7 +1781,6 @@ Mechanical
 ## Page 62
 
 60   | KLE Tech
-
 
 ## Page 63
 

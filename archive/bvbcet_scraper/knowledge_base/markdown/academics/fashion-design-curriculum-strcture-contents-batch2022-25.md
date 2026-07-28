@@ -1,47 +1,20 @@
 # PDF Document: fashion-design-curriculum-strcture-contents-batch2022-25
+
 **PDF Source:** https://www.kletech.ac.in/pdf/fashion-design-curriculum-strcture-contents-batch2022-25.pdf
 
 ## Page 1
 
- 
 FMCD2009 / 2.0 
  1 
- 
- 
- 
- 
- 
  
 Curriculum Structure and Curriculum Content : 2022-25 Batch 
 Department: Fashion & Apparel Design 
 Program: B.Sc. Fashion & Apparel Design 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 2
 
- 
 FMCD2009 / 2.0 
  2 
- 
  
 Table of Contents 
 Vision and Mission of KLE Technological University ...................................................... 3 
@@ -58,12 +31,8 @@ Semester - V ...................................................................
 Semester -VI ...................................................................................................................... 12 
 List of Open Electives ....................................................................................................... 13 
  
- 
-  
-
 ## Page 3
 
- 
 FMCD2009 / 2.0 
  3 
  
@@ -71,11 +40,9 @@ Vision and Mission of KLE Technological University
  
 Vision 
  
- 
 KLE Technological University will be a national leader in Higher Education –
 recognised globally for innovative culture, outstanding student experience, 
 research excellence and social impact. 
- 
  
 Mission 
  
@@ -101,7 +68,6 @@ of collaboration and partnership to accomplish our mission.
 
 ## Page 4
 
- 
 FMCD2009 / 2.0 
  4 
  
@@ -128,16 +94,8 @@ art and craft that stimulates students learning interests.
 management domestically and internationally. To contribute to the development of Fashion and 
 Textile industry in India. 
  
- 
- 
- 
- 
- 
- 
-
 ## Page 5
 
- 
 FMCD2009 / 2.0 
  5 
 Program Educational Objectives/Program Outcomes and Program-Specific Outcomes 
@@ -189,7 +147,6 @@ Industry.
 
 ## Page 6
 
- 
 FMCD2009 / 2.0 
  6 
 Curriculum Structure –Overall   
@@ -334,13 +291,10 @@ FVMT
 DSMB 
 22DFDO102 
  
- 
-  
 Credits 22 25 22 22 22 22 
 
 ## Page 7
 
- 
 FMCD2009 / 2.0 
  7 
 Curriculum Structure-Semester wise 
@@ -377,7 +331,6 @@ TOTAL  14-0-8 22
 
 ## Page 8
 
- 
 FMCD2009 / 2.0 
  8 
 Semester - II 
@@ -409,7 +362,6 @@ TOTAL  14-0-11 25
 
 ## Page 9
 
- 
 FMCD2009 / 2.0 
  9 
 Semester - III 
@@ -432,7 +384,6 @@ TOTAL  12-0-10 22
 
 ## Page 10
 
- 
 FMCD2009 / 2.0 
  10 
 Semester - IV 
@@ -459,12 +410,10 @@ TOTAL  12-0-10 22
 
 ## Page 11
 
- 
 FMCD2009 / 2.0 
  11 
 Semester - V 
 BACK 
- 
  
 No Code Course Category L-T-P Credits Contact 
 Hours ISA ESA Total 
@@ -483,7 +432,6 @@ TOTAL  9-0-13 22
 
 ## Page 12
 
- 
 FMCD2009 / 2.0 
  12 
 Semester -VI 
@@ -509,7 +457,6 @@ TOTAL  15-0-10 22
 
 ## Page 13
 
- 
 FMCD2009 / 2.0 
  13 
  
@@ -523,29 +470,8 @@ Sr. No Name of the Course Course Code
 5 Fashion Graphic Design 24DFDO301 
 6 Advanced Fashion Graphic Design 24DFDO302 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 14
 
- 
 FMCD2009 / 2.0 
  14 
 Curriculum Content- Course wise 
@@ -581,7 +507,6 @@ types, properties and end use. yarn twist and yarn count, folded yarn -2-ply and
 
 ## Page 15
 
- 
 FMCD2009 / 2.0 
  15 
 Chapter 7 
@@ -618,11 +543,8 @@ Delhi, 2004
  
 BACK 
  
- 
-
 ## Page 16
 
- 
 FMCD2009 / 2.0 
  16 
 Course Title: Textile Science Lab  Course Code: 22DFDP101 
@@ -662,10 +584,8 @@ samples for each category (sample size 4 x 4 inches).
 Support materials for garments and trims - Interlinings, linings, tapes, elastic, shoulder pad, etc. 
 BACK 
   
-
 ## Page 17
 
- 
 FMCD2009 / 2.0 
  17 
 Program: B Sc Fashion & Apparel Design Semester: I 
@@ -698,7 +618,6 @@ and decorative design in a dress, selection and application of trimmings and dec
 
 ## Page 18
 
- 
 FMCD2009 / 2.0 
  18 
 Chapter 7 
@@ -725,19 +644,8 @@ Publishing India Private Limited, 2007.
  
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 19
 
- 
 FMCD2009 / 2.0 
  19 
 Program: B Sc Fashion & Apparel Design Semester: I 
@@ -764,11 +672,8 @@ Colour Harmonies
 6 Basic coqui- fashion figure-  8 head, 10 head and 12 head 
 BACK 
  
-  
-
 ## Page 20
 
- 
 FMCD2009 / 2.0 
  20 
 Program: B Sc Fashion & Apparel Design Semester: I 
@@ -816,16 +721,9 @@ pattern, Cutting, stitching & finishing.
 
 ## Page 21
 
- 
 FMCD2009 / 2.0 
  21 
 BACK 
- 
- 
- 
- 
- 
- 
  
 Program: BSc Fashion and Apparel Design Semester: I 
 Course Title:  LANGUAGE - 1 Course Code:22DFDH101 
@@ -851,7 +749,6 @@ Reference Books:---
 
 ## Page 22
 
- 
 FMCD2009 / 2.0 
  22 
  
@@ -887,7 +784,6 @@ Reference Books:--
 
 ## Page 23
 
- 
 FMCD2009 / 2.0 
  23 
 Program: B Sc Fashion & Apparel Design Semester: I 
@@ -937,7 +833,6 @@ animations.
 
 ## Page 24
 
- 
 FMCD2009 / 2.0 
  24 
 • Create an email-ID and sending and forwarding.  
@@ -954,28 +849,8 @@ to Bangalore.
  
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 25
 
- 
 FMCD2009 / 2.0 
  25 
 Program: B Sc Fashion & Apparel Design Semester: I 
@@ -1021,7 +896,6 @@ release and media kit, post-show evaluation.
 
 ## Page 26
 
- 
 FMCD2009 / 2.0 
  26 
 Unit III 
@@ -1049,21 +923,8 @@ Kingdom, 2012.
  
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 27
 
- 
 FMCD2009 / 2.0 
  27 
 Semester: II 
@@ -1101,7 +962,6 @@ Derivatives of Rib knit: 2x2 Rib, 3x2 Rib, half cardigan, Full cardigan
 
 ## Page 28
 
- 
 FMCD2009 / 2.0 
  28 
 Derivatives of Interlock Structure: Eight lock, Ponte-di-roma, Texi-pique. 
@@ -1127,19 +987,10 @@ Mumbai 2007.
 6. N.Gokarneshan, “Fabric Structure and Design”, New Age International Publishers, 1st 
 Edition, New Delhi, 2004. 
  
- 
 BACK 
  
- 
- 
- 
- 
- 
- 
-
 ## Page 29
 
- 
 FMCD2009 / 2.0 
  29 
 Program: B Sc Fashion & Apparel Design Semester: II 
@@ -1165,16 +1016,8 @@ Teaching Hrs: 40 Examination Duration: 3 hrs
 16 Determination of rub / wash fastness of fabric 
 BACK 
  
- 
- 
- 
- 
- 
- 
-
 ## Page 30
 
- 
 FMCD2009 / 2.0 
  30 
  
@@ -1218,7 +1061,6 @@ Body painting & Piercings
 
 ## Page 31
 
- 
 FMCD2009 / 2.0 
  31 
 • Identification of Marital Status 
@@ -1253,16 +1095,8 @@ Publishing India Private Limited, 2007.
  
 BACK 
  
- 
- 
- 
- 
- 
- 
-
 ## Page 32
 
- 
 FMCD2009 / 2.0 
  32 
  
@@ -1294,16 +1128,8 @@ Development of folio with design concepts inspired by one International Designer
 Dior, Gianni Versace, Coco Chanel, Donna Karan, Calvin Klein. 
 BACK 
  
- 
- 
- 
- 
- 
- 
-
 ## Page 33
 
- 
 FMCD2009 / 2.0 
  33 
  
@@ -1341,13 +1167,8 @@ shirt button and button holes, visible and concealed zippers, velcro.
 3.3 Develop garments for women using major and minor components. 
 BACK 
  
- 
- 
- 
-
 ## Page 34
 
- 
 FMCD2009 / 2.0 
  34 
 Program: B Sc Fashion & Apparel Design Semester: II 
@@ -1408,7 +1229,6 @@ i. Basic Knots
 
 ## Page 35
 
- 
 FMCD2009 / 2.0 
  35 
  Lark's Head Knot 
@@ -1430,33 +1250,10 @@ iv. Creating Patterns
 Embellishments) 
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 36
 
- 
 FMCD2009 / 2.0 
  36 
- 
- 
- 
- 
- 
  
 BACK 
  
@@ -1484,12 +1281,9 @@ Reference Books:
 
 ## Page 37
 
- 
 FMCD2009 / 2.0 
  37 
 BACK 
- 
- 
  
 Program: B.Sc Fashion and Apparel Design Semester: II 
 Course Title:  LANGUAGE - 2 Course Code:22DFDH104 
@@ -1517,10 +1311,8 @@ Asking for Help, Offering help, Making, Accepting and Rejecting Conditions.
 Text Books 
 English for the Fashion Industry by Mary E. Ward  
  
-
 ## Page 38
 
- 
 FMCD2009 / 2.0 
  38 
  
@@ -1565,7 +1357,6 @@ Chhattisgarh - Clay Art, Godna Art, Bamboo Craft, Kosa &amp; Wrought Iron Craft.
 
 ## Page 39
 
- 
 FMCD2009 / 2.0 
  39 
 Madhya Pradesh- Gond Painting, Pithora painting, Mandana painting, Nandna Print, 
@@ -1608,10 +1399,8 @@ New Delhi, 1977
  
 BACK 
  
-
 ## Page 40
 
- 
 FMCD2009 / 2.0 
  40 
  
@@ -1640,13 +1429,8 @@ Teaching Hrs: 40 Examination Duration: 3 hrs
  
 BACK 
  
- 
- 
- 
-
 ## Page 41
 
- 
 FMCD2009 / 2.0 
  41 
  
@@ -1688,7 +1472,6 @@ Chapter 8 Finishing
 
 ## Page 42
 
- 
 FMCD2009 / 2.0 
  42 
 Introduction to finishing- objectives- mechanical and chemical finishing. raising, calendaring, anti-
@@ -1711,21 +1494,10 @@ publications, 2014.
 8. K.L.Mittal and Thomas Bhaners,“Textile Finishing: Recent development and Future Trends”  
 ISBN 9781119426769, 2017. 
  
- 
- 
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 43
 
- 
 FMCD2009 / 2.0 
  43 
 Semester III 
@@ -1752,10 +1524,8 @@ Teaching Hrs: 40 Examination Duration: 3 hrs
  
 BACK 
  
-
 ## Page 44
 
- 
 FMCD2009 / 2.0 
  44 
  
@@ -1800,7 +1570,6 @@ for flats, structure for flats, flats for manufacture. Spec types-manual, comput
 
 ## Page 45
 
- 
 FMCD2009 / 2.0 
  45 
 content- season, description, client, fabrication, trims and accessories, brand label, care label, 
@@ -1832,17 +1601,8 @@ USA,2nd edition, 2015.
  
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 46
 
- 
 FMCD2009 / 2.0 
  46 
  
@@ -1885,10 +1645,8 @@ client, texture and fabric swatch boards based on current trend.
  
 BACK 
  
-
 ## Page 47
 
- 
 FMCD2009 / 2.0 
  47 
 Program: B Sc Fashion & Apparel Design Semester: III 
@@ -1929,7 +1687,6 @@ shipment by air and sea, packing marks.
 
 ## Page 48
 
- 
 FMCD2009 / 2.0 
  48 
 UNIT III 
@@ -1955,24 +1712,8 @@ Technology for Fashion Designers", John Wiley & Sons, 2011
  
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 49
 
- 
 FMCD2009 / 2.0 
  49 
 Program: B Sc Fashion & Apparel Design Semester: III 
@@ -2004,20 +1745,8 @@ Specification sheet & cost sheet for the design developed.
 6. Identify different types of textile swatches collection for 40. 
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 50
 
- 
 FMCD2009 / 2.0 
  50 
  
@@ -2055,12 +1784,8 @@ Design & develop of flat sketches along with stitch specification for the follow
 (Shirt, Kurta, Trouser). (any 2) 
 BACK 
  
- 
- 
-
 ## Page 51
 
- 
 FMCD2009 / 2.0 
  51 
 Program: B Sc Fashion & Apparel Design Semester: III 
@@ -2089,16 +1814,10 @@ References
 2. Raymond Murphy - Intermediate English Grammar, Cambridge University Press 
 3. Martin Hewings- Advanced English Grammar, Cambridge University Press. 
  
- 
 BACK 
  
- 
- 
- 
-
 ## Page 52
 
- 
 FMCD2009 / 2.0 
  52 
 Program: B Sc Fashion & Apparel Design Semester: III 
@@ -2142,10 +1861,8 @@ Report writing and Presentation: - Guidelines for research and citation, Assignm
 Bibliography, Conclusion, Presentation skills and tips 
 BACK 
  
-
 ## Page 53
 
- 
 FMCD2009 / 2.0 
  53 
 Semester: IV 
@@ -2182,10 +1899,8 @@ perspiration and colorfastness to light.
 Chapter 6- Difference between quality assurance & quality control, different techniques of quality 
 control in garment Industry. 
  
-
 ## Page 54
 
- 
 FMCD2009 / 2.0 
  54 
 UNIT III 
@@ -2214,20 +1929,8 @@ Pvt. Ltd., 2nd edition, 2016
  
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 55
 
- 
 FMCD2009 / 2.0 
  55 
 Program: B Sc Fashion & Apparel Design Semester: IV 
@@ -2248,19 +1951,8 @@ Teaching Hrs: 40 Examination Duration: 3 hrs
 5.2 Grey Scale Reading 
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 56
 
- 
 FMCD2009 / 2.0 
  56 
 Program: B Sc Fashion & Apparel Design Semester: IV 
@@ -2290,10 +1982,8 @@ Textiles & costumes-
  Mughal 
  Colonial and Post-Colonial Clothing 
  
-
 ## Page 57
 
- 
 FMCD2009 / 2.0 
  57 
 UNIT III 
@@ -2319,21 +2009,10 @@ Fairchild Publication,2009
 8. Costume, Textiles and jewellery of India – Vandana Bhandari 
 9. World Dress Fashion in Detail – RosemeryCrill, Jennifer Wearden and Verity Wilson 
  
- 
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 58
 
- 
 FMCD2009 / 2.0 
  58 
 Program: B Sc Fashion & Apparel Design Semester: IV 
@@ -2366,7 +2045,6 @@ BACK
 
 ## Page 59
 
- 
 FMCD2009 / 2.0 
  59 
 Program: B Sc Fashion & Apparel Design Semester: IV 
@@ -2412,10 +2090,8 @@ importance of small -scale industry, government concessions and encouragement to
 procedure for registering MSM E under UDYAM portal, Types of ownership – sole proprietorship, 
 partnership and co-operative, limited liability Companies– merits and demerits. 
  
-
 ## Page 60
 
- 
 FMCD2009 / 2.0 
  60 
 UNIT III 
@@ -2450,18 +2126,8 @@ a Fashion Business" by Michele M. Granger and Tina M. Sterling
  
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 61
 
- 
 FMCD2009 / 2.0 
  61 
 Program: B Sc Fashion & Apparel Design Semester: IV 
@@ -2502,7 +2168,6 @@ Design children casual, party & night wears using software. (Any 2)
 
 ## Page 62
 
- 
 FMCD2009 / 2.0 
  62 
 7 Flat sketches, Spec sheets and Cost sheets 
@@ -2524,26 +2189,10 @@ plan –
  Dress/ Top 
  Shorts/Trousers and Kurtha.  
  
- 
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 63
 
- 
 FMCD2009 / 2.0 
  63 
 Program: B Sc Fashion & Apparel Design Semester: IV 
@@ -2589,7 +2238,6 @@ Drape a Innovative sleeves suitable for women’s Top
 
 ## Page 64
 
- 
 FMCD2009 / 2.0 
  64 
 6 Developing Garments 
@@ -2607,28 +2255,8 @@ Evening gown using draping technique based on theme, with any two Style features
  
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 65
 
- 
 FMCD2009 / 2.0 
  65 
 Program: B Sc Fashion & Apparel Design Semester: IV 
@@ -2654,17 +2282,8 @@ References:
 3. Martin Hewings- Advanced English Grammar, Cambridge University Press. 
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 66
 
- 
 FMCD2009 / 2.0 
  66 
  
@@ -2713,7 +2332,6 @@ BACK
 
 ## Page 67
 
- 
 FMCD2009 / 2.0 
  67 
 Semester: V 
@@ -2754,10 +2372,8 @@ Datasets.
 Adversarial Examples: Adversarial Image Overlays, Adversarial Additions, Adversarial objects, 
 Possible Implications. 
  
-
 ## Page 68
 
- 
 FMCD2009 / 2.0 
  68 
 UNIT II 
@@ -2798,17 +2414,15 @@ Ethical Considerations and Futures of AI in fashion.
 References 
  1. Artificial Intelligence for Fashion: How AI is Revolutionizing the Fashion Industry, Apress 
  
- 
- 
-
 ## Page 69
 
- 
 FMCD2009 / 2.0 
  69 
 Practical’s 
 List of Activities 
+
 # Topics Activity Weightage  
+
 Practices using CALA: Operating System for Fashion Design   
 1 Textile Patterns Creations of Textile designs using Patterned AI 
 – Natural, Stylized, Geometric & abstract 
@@ -2843,13 +2457,8 @@ and VIVA
  
 BACK 
  
- 
- 
- 
-
 ## Page 70
 
- 
 FMCD2009 / 2.0 
  70 
 Program: B Sc Fashion & Apparel Design Semester: V 
@@ -2887,10 +2496,8 @@ Chapter 6 – Social Innovation and Ethical Practices
 Ethical Fashion Movements, Consumer Awareness and Behavior, Diversity and Inclusion in 
 Fashion, Empowering Communities, Certifications and Standards 
  
-
 ## Page 71
 
- 
 FMCD2009 / 2.0 
  71 
 Unit III 
@@ -2921,19 +2528,8 @@ publication
  
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 72
 
- 
 FMCD2009 / 2.0 
  72 
 Program: B Sc Fashion & Apparel Design Semester: V 
@@ -2977,7 +2573,6 @@ Chapter 6 – Marketing Channels and Product Analysis
 
 ## Page 73
 
- 
 FMCD2009 / 2.0 
  73 
 Marketing Channels and Product Analysis: Marketing Budget, Idea Generation, Quick Reaction, Just-
@@ -3018,12 +2613,10 @@ References
 10. Sidney Packard, Arthur A Winters, “Fashion Buying & Merchandising”, Fairchild  
          Books, 1983.  
  
- 
 BACK 
 
 ## Page 74
 
- 
 FMCD2009 / 2.0 
  74 
 Program: B Sc Fashion & Apparel Design Semester: V 
@@ -3062,11 +2655,8 @@ Muslin – Types, Study of Grains, types of muslin, preparation of muslin.
 - Design and Develop a complete garment by combining any of the above techniques. 
 BACK 
  
- 
-
 ## Page 75
 
- 
 FMCD2009 / 2.0 
  75 
 Program: B Sc Fashion & Apparel Design Semester: V 
@@ -3093,17 +2683,8 @@ materials - Head gears, Foot wear, Bows, neckties, belts, Hand bags, Gloves, Sca
 11 Development of accessory folio. 
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 76
 
- 
 FMCD2009 / 2.0 
  76 
 Program: B Sc Fashion & Apparel Design Semester: V 
@@ -3155,7 +2736,6 @@ BACK
 
 ## Page 77
 
- 
 FMCD2009 / 2.0 
  77 
 Program: B Sc Fashion & Apparel Design Semester: V 
@@ -3185,15 +2765,8 @@ analysis of the results and concluding. Present in the form of written document 
 presentation. 
 BACK 
  
- 
- 
- 
- 
- 
-
 ## Page 78
 
- 
 FMCD2009 / 2.0 
  78 
  
@@ -3243,7 +2816,6 @@ ACTIVITIES OF DIFFERENT DEPARTMENT
 
 ## Page 79
 
- 
 FMCD2009 / 2.0 
  79 
 4 CHAPTER FOUR (FOCUSING DEPARTMENT) 
@@ -3275,20 +2847,8 @@ Presentation and communication skills.
 Reflection on lifelong learning from internship. 
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 80
 
- 
 FMCD2009 / 2.0 
  80 
 Semester: VI 
@@ -3323,10 +2883,8 @@ Chapter-6 Designing with Smart Textiles
 Principles of designing with smart textiles. Ideation & sketching for smart textiles 
 Case studies of innovative smart textile designs in fashion 
  
-
 ## Page 81
 
- 
 FMCD2009 / 2.0 
  81 
 Unit III 
@@ -3354,24 +2912,10 @@ Resources Management Association
 Sabine Seymour 
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 82
 
- 
 FMCD2009 / 2.0 
  82 
- 
  
 Program: B Sc Fashion & Apparel Design Semester: VI 
 Course Title: Boutique Management Course Code: 24DFDC305 
@@ -3406,7 +2950,6 @@ Financial Planning and Budgeting
 
 ## Page 83
 
- 
 FMCD2009 / 2.0 
  83 
 Developing a budget, operating expenses, and capital investments, Sources of Financing, Pri cing 
@@ -3443,12 +2986,8 @@ Denise Ulasi
  
 BACK 
  
- 
- 
-
 ## Page 84
 
- 
 FMCD2009 / 2.0 
  84 
 Program: B Sc Fashion & Apparel Design Semester: VI 
@@ -3479,10 +3018,8 @@ Environmental impacts of leather production, Sustainable practices and certifica
 leather manufacturing, Ethical considerations in sourcing materials and production processes, 
 Regulatory frameworks and stands. 
  
-
 ## Page 85
 
- 
 FMCD2009 / 2.0 
  85 
 UNIT III 
@@ -3505,18 +3042,8 @@ References
  
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 86
 
- 
 FMCD2009 / 2.0 
  86 
 Program: B Sc Fashion & Apparel Design Semester: VI 
@@ -3553,7 +3080,6 @@ credit, short term, medium term, long term finance.
 
 ## Page 87
 
- 
 FMCD2009 / 2.0 
  87 
 UNIT III 
@@ -3578,18 +3104,8 @@ Sultan Chand & Sons, First Edition 2021.
  
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 88
 
- 
 FMCD2009 / 2.0 
  88 
 Program: B Sc Fashion & Apparel Design Semester: VI 
@@ -3618,18 +3134,8 @@ Develop the concept
  
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 89
 
- 
 FMCD2009 / 2.0 
  89 
 Program: B Sc Fashion & Apparel Design Semester: VI 
@@ -3667,11 +3173,8 @@ Signature Style.
  
  BACK 
  
- 
-
 ## Page 90
 
- 
 FMCD2009 / 2.0 
  90 
 Program: B Sc Fashion & Apparel Design Semester: VI 
@@ -3701,17 +3204,8 @@ Portfolio Design: Principles and elements
 Assignment: Graphic Design Final Portfolio 
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 91
 
- 
 FMCD2009 / 2.0 
  91 
 Program: B Sc Fashion & Apparel Design Semester: VI 
@@ -3754,10 +3248,8 @@ Preparing Fabric layout plan
 18 Design Collection inspired by any one international designer of your Choice (5 designs). 
 BACK 
  
-
 ## Page 92
 
- 
 FMCD2009 / 2.0 
  92 
 Program: B.Sc Fashion and Apparel Design Semester: VI 
@@ -3802,12 +3294,9 @@ in fashion industry.
 Concept of sustainable fashion, Fashion and Environment 
  
 Chapter No. 8 Intellectual Property Rights  
-Intellectual Property Rights (IPRs)- Patents, Copyright and Designs 
  
-
 ## Page 93
 
- 
 FMCD2009 / 2.0 
  93 
 BACK 

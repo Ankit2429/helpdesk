@@ -1,45 +1,18 @@
 # PDF Document: EEE__Curriculum_Structure_and_Curriculum_Content_2021-25
+
 **PDF Source:** https://www.kletech.ac.in/pdf/EEE _Curriculum_Structure_and_Curriculum_Content 2021-25.pdf
 
 ## Page 1
 
- 
- 
 1 
 FMCD2009 / 2.0 
- 
- 
- 
- 
-  
- 
  
 Curriculum Structure and Curriculum Content for the Academic year 2021-25 
 School : Electrical & Electronics Engineering 
 Program: UG 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 2
 
- 
- 
 2 
 FMCD2009 / 2.0 
  
@@ -61,19 +34,8 @@ List of Open Electives .........................................................
 List of Program Electives ................................................................................................. 16 
 Curriculum Content- Course wise .................................................................................... 17 
  
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 3
 
- 
- 
 3 
 FMCD2009 / 2.0 
 Vision and Mission of KLE Technological University 
@@ -105,23 +67,15 @@ life.
 As a unified community of faculty, staff and students, we work together with the spirit of 
 collaboration and partnership to accomplish our mission. 
  
- 
- 
- 
- 
- 
 Back 
 
 ## Page 4
 
- 
- 
 4 
 FMCD2009 / 2.0 
 Vision and Mission Statements of the School / Department 
  
 Vision 
- 
  
 KLE Tech Electrical & Electronics Engineering School will be well recognized nationally  and 
 internationally for excellence in its educational programs, innovative research and impact on 
@@ -139,24 +93,10 @@ achieve personal and professional growth.
 ● To collaborate within and beyond the discipline to create solutions that benefit 
 humanity and society. 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 Back 
 
 ## Page 5
 
- 
- 
 5 
 FMCD2009 / 2.0 
 Program Educational Objectives/Program Outcomes and Program-Specific Objectives 
@@ -195,8 +135,6 @@ responsibilities relevant to the professional engineering practice.
 
 ## Page 6
 
- 
- 
 6 
 FMCD2009 / 2.0 
 7. Environment and sustainability: Understand the impact of the professional engineering 
@@ -222,16 +160,10 @@ PSO1: Apply the knowledge of Generation, Transmission, Distribution of Electric 
            its control. 
 PSO2: Apply computational methods to design and analyse Electrical / Electronic Systems.  
  
- 
- 
  Back 
  
- 
-
 ## Page 7
 
- 
- 
 7 
 FMCD2009 / 2.0 
 Curriculum Structure-Overall 
@@ -316,7 +248,6 @@ Artificial
 Intelligence 
 17EEEO402 
 (3-0-0) 
- 
  
 Engineering 
 Exploration 
@@ -408,11 +339,8 @@ Professional Ethics
 and Environmental 
 Studies 15EHSA401 
  
-
 ## Page 8
 
- 
- 
 8 
 FMCD2009 / 2.0 
 (2-1-0) (0-0-0) 
@@ -484,7 +412,6 @@ Senior Design Project
 21EEEW401  
 (0-0-6) 
   
-  
 Digital Circuits 
 Laboratory 
 15EEEP203 
@@ -501,7 +428,6 @@ Drives lab
 20EEEP301  
 (0-0-1) 
    
-  
 Corporate 
 Communication 
 22EHSC201 
@@ -518,8 +444,6 @@ Electronics Lab
 23EEEP303  
 (0-0-1) 
  
-  
-    
 Data Acquisition 
 and Controls Lab 
 23EEEP302  
@@ -528,7 +452,6 @@ CMOS VLSI Circuits
 Lab 23EEEP304 
  (0-0-1) 
  
-     
 Data Structure 
 Applications Lab 
 23EEEF301 
@@ -536,11 +459,8 @@ Minor Project – I
 23EEEW302 
  (1-0-4) 
   
-
 ## Page 9
 
- 
- 
 9 
 FMCD2009 / 2.0 
 (0-0-2) 
@@ -552,7 +472,6 @@ Minor Project – II
 23EEEW303 
  (0-0-5) 
   
-      
 Data Structures using 
 C Lab 
 23EEEF302 
@@ -563,19 +482,12 @@ ts 22 22 23.5 23.5 26.5 25 19 17
  
 Back 
  
- 
- 
-  
-
 ## Page 10
 
- 
- 
 10 
 FMCD2009 / 2.0 
 Curriculum Structure-Semester wise 
 Semester - I 
- 
  
  Back 
  
@@ -597,17 +509,12 @@ TOTAL  13-2-7 22          31
 
 ## Page 11
 
- 
- 
 11 
 FMCD2009 / 2.0 
     
 Semester - II 
  
- 
  Back 
- 
- 
  
 No Code Course Category L-T-P Credits Contact 
 Hours ISA ESA Total 
@@ -627,13 +534,9 @@ TOTAL Total 15-3-4 22 28
 
 ## Page 12
 
- 
- 
 12 
 FMCD2009 / 2.0 
 Semester – III 
- 
- 
  
 Back 
  
@@ -674,11 +577,8 @@ PC 0-0-2
 
 ## Page 13
 
- 
- 
 13 
 FMCD2009 / 2.0 
- 
  
 Semester- IV 
  
@@ -710,8 +610,6 @@ TOTAL  20.5-0-3 23.5 28
 
 ## Page 14
 
- 
- 
 14 
 FMCD2009 / 2.0 
  
@@ -742,11 +640,8 @@ Reasoning ES 0.5-0-0 0.5  2 100 -- 100 3 hours
 
 ## Page 15
 
- 
- 
 15 
 FMCD2009 / 2.0 
- 
  
 Semester- VI 
 Back 
@@ -774,17 +669,13 @@ Skills ES 0.5-0-0 Audit 1 100 -- 100 3 hours
 
 ## Page 16
 
- 
- 
 16 
 FMCD2009 / 2.0 
  
 Semester- VII 
  
- 
 Back 
  
-  
 No Code Course  Category L-T-P Credits Contact Hours ISA ESA Total 
 Exam 
 Duration 
@@ -810,8 +701,6 @@ PC 0-0-1 1 2 80 20 100 2 hours
 
 ## Page 17
 
- 
- 
 17 
 FMCD2009 / 2.0 
 Semester- VIII 
@@ -820,7 +709,6 @@ Back
  
 Semester I II III IV V VI VII VIII Total 
 Credits 22 22 23.5 23.5 26.5 25 19 17 178.5 
- 
  
 No Code Course Category L-T-P Credits Contact Hours ISA ESA Total 
 Exam 
@@ -833,8 +721,6 @@ Duration
 
 ## Page 18
 
- 
- 
 18 
 FMCD2009 / 2.0 
 List of Open Electives 
@@ -857,13 +743,10 @@ Sr. No Name of the Course Course Code
 12 CMOS ASIC Design 24EECE420 
 13 Embedded Linux 19EEEE402 
  
- 
 Back 
 
 ## Page 19
 
- 
- 
 19 
 FMCD2009 / 2.0 
 Curriculum Content- Course wise 
@@ -935,8 +818,6 @@ Video presentations
 
 ## Page 20
 
- 
- 
 20 
 FMCD2009 / 2.0 
  Ball and Roller  Bearings, Types, 
@@ -982,11 +863,8 @@ Reference Books:
  
 Back 
   
-
 ## Page 21
 
- 
- 
 21 
 FMCD2009 / 2.0 
 Program : UG Semester: I 
@@ -1039,8 +917,6 @@ Electric Fields:
 
 ## Page 22
 
- 
- 
 22 
 FMCD2009 / 2.0 
 Properties of Electric Charges, Charging Objects by Induction, Coulomb’s Law, 
@@ -1087,14 +963,10 @@ Reference Books:
 Physics  Vol-II,  Norosa Publishing House (1998). 
 3. Ben G. Streetman, Solid State Electronic Devices, Prentice Hall, 1995 
  
- 
 Back 
   
-
 ## Page 23
 
- 
- 
 23 
 FMCD2009 / 2.0 
 Program: UG Semester: I 
@@ -1140,13 +1012,10 @@ Reference Books:
 1. Calculus Single and Multivariable, Hughues-Hallett Gleason, Wiley India Ed, 4ed, 2009. 
 2. Thomas Calculus, George B Thomas, Pearson India, 12ed, 2010 
  
- 
  Back
 
 ## Page 24
 
- 
- 
 24 
 FMCD2009 / 2.0 
     
@@ -1196,8 +1065,6 @@ system, types of modulation. Amplitude modulation: Time -Domain description, 07 
 
 ## Page 25
 
- 
- 
 25 
 FMCD2009 / 2.0 
 Frequency-Domain description. Generation of AM wave: square law modulator. 
@@ -1222,25 +1089,10 @@ Reference Books:
          2000 
 5. Ramakant Gaikwad , Operational Amplifiers & Applications, PHI, 2000 
  
- 
- 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 26
 
- 
- 
 26 
 FMCD2009 / 2.0 
  
@@ -1269,12 +1121,8 @@ Northup, Steven, McGraw Hill Higher Education, 6th Edition (2011)
  
 Back 
  
-  
-
 ## Page 27
 
- 
- 
 27 
 FMCD2009 / 2.0 
 Program: UG Semester: I 
@@ -1315,34 +1163,14 @@ Reference Books:
 1. Data Structures, Algorithms and Applications In C++ -- Satraj Sahani  
 2. Data Structures and Algorithms Made Easy – Narshiman Karumunchi, Career Monk 
  
- 
 Back 
  
- 
- 
- 
- 
- 
-
 ## Page 28
 
- 
- 
 28 
 FMCD2009 / 2.0 
  
 Back 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Program: UG Semester: I 
 Course Title:  Applied Physics lab (ES)      Course Code:  21EPHP102 
@@ -1366,8 +1194,6 @@ OPEN ENDED EXPERIMENT
 
 ## Page 29
 
- 
- 
 29 
 FMCD2009 / 2.0 
 II Semester Bachelor of Engineering (Electrical & Electronics Engineering) 
@@ -1408,8 +1234,6 @@ Unit II
 
 ## Page 30
 
- 
- 
 30 
 FMCD2009 / 2.0 
 Chapter No. 4:  Equilibrium of a force system (Chapter 3 contd..)                                                       
@@ -1433,8 +1257,6 @@ Unit – III
 
 ## Page 31
 
- 
- 
 31 
 FMCD2009 / 2.0 
 Chapter No. 7:  Centroid of Plane Figures                                                                                           
@@ -1468,11 +1290,8 @@ Delhi- 110 001, 1995.
  
 Back 
   
-
 ## Page 32
 
- 
- 
 32 
 FMCD2009 / 2.0 
 Program: UG Semester: II 
@@ -1525,11 +1344,8 @@ problems, epitaxial growth, masking and photolithography, wet etching, dry etchi
  
 09  Hrs 
  
-
 ## Page 33
 
- 
- 
 33 
 FMCD2009 / 2.0 
 Chapter No. 6 Material Chemistry                                                                                                         
@@ -1577,11 +1393,8 @@ engineering, 1998, New York.
  
 Back 
   
-
 ## Page 34
 
- 
- 
 34 
 FMCD2009 / 2.0 
  
@@ -1638,8 +1451,6 @@ Text Books:
 
 ## Page 35
 
- 
- 
 35 
 FMCD2009 / 2.0 
 1.Hughes, Electrical & Electronic Technology, 8th , Pearson Education, 2001 
@@ -1657,15 +1468,10 @@ Reference Books:
 3.Vincent Del Toro, Electrical Engineering Fundamentals, 2 nd  edition, Prentice Hall 
 India 
  
- 
 Back 
  
-  
-
 ## Page 36
 
- 
- 
 36 
 FMCD2009 / 2.0 
 Program: UG Semester: II 
@@ -1699,12 +1505,8 @@ Reference Books:
  
 Back 
  
-  
-
 ## Page 37
 
- 
- 
 37 
 FMCD2009 / 2.0 
 Program: UG  Semester: II 
@@ -1727,9 +1529,6 @@ Indeterminate forms, L- Hospital’s rule-Examples
 MATLAB: Optimization problems. Curvature problems 
 07 Hrs 
  
- 
- 
- 
 13 Hrs 
  
 Unit II 
@@ -1747,10 +1546,6 @@ rule
 MATLAB: problems on arc length, area, volume and surface area 
 06 Hrs 
  
- 
- 
- 
- 
 14 Hrs 
 Unit III 
 Chapter No. 5 Ordinary differential equations of first order                                                                            
@@ -1764,8 +1559,6 @@ MATLAB: Solve differential equations
 
 ## Page 38
 
- 
- 
 38 
 FMCD2009 / 2.0 
 Text Books  
@@ -1776,14 +1569,10 @@ Reference Books:
 2009. 
 2.Thomas Calculus, George B Thomas, Pearson India, 12ed, 2010 
  
- 
 Back 
   
-
 ## Page 39
 
- 
- 
 39 
 FMCD2009 / 2.0 
 Program: UG Semester: II 
@@ -1835,16 +1624,10 @@ Text Books:
 Learning, 2008. 
 Back 
  
-
 ## Page 40
 
- 
- 
 40 
 FMCD2009 / 2.0 
- 
- 
- 
  
 Back 
 Program: UG Semester: II 
@@ -1854,7 +1637,6 @@ ESA Marks: 80 ISA Marks: 20 Total Marks: 100
 Teaching Hours : 28 Exam Duration: 3 Hrs.  
  Topics Assignments Support activities / Tools 
 KNOWLEDGE, TOOLS & DEVELOPMENT 
- 
  
 Course sensitization 
  
@@ -1928,26 +1710,14 @@ Reading assignments
  Handout on “ Create 
 Mindsets” 
  
- 
- 
- 
- 
- 
- 
- 
- 
  (How to train the Dragon?  
 Common Video for all the mindsets) 
  Watching in Class TED Talk on “How 
 to build your Creative Confidence by 
 David Kelley – IDEO Founder)  
  
- 
-
 ## Page 41
 
- 
- 
 41 
 FMCD2009 / 2.0 
 (Confusion is the 
@@ -2038,8 +1808,6 @@ sample case study
 
 ## Page 42
 
- 
- 
 42 
 FMCD2009 / 2.0 
   
@@ -2071,7 +1839,6 @@ Might We” Questions
  Familiarization of the respective 
 templates with the help of 
 sample case study  
- 
  
 3.0 Ideation 
 3.2 Prototyping 
@@ -2131,11 +1898,8 @@ engagement
 templates with the help of 
 sample case study 
  
-
 ## Page 43
 
- 
- 
 43 
 FMCD2009 / 2.0 
   
@@ -2153,7 +1917,6 @@ www.blog.fundly.com)
 solution 
  Feedback (Impact) 
  
-     
   5.0 Reflect 
  
 Reflection of the overall 
@@ -2172,11 +1935,8 @@ Implementation
 templates with the help of 
 sample case study 
  
-
 ## Page 44
 
- 
- 
 44 
 FMCD2009 / 2.0 
 III Semester Bachelor of Engineering (Electrical & Electronics Engineering) 
@@ -2232,8 +1992,6 @@ Text Books:
 
 ## Page 45
 
- 
- 
 45 
 FMCD2009 / 2.0 
 2. Gupta S C and Kapoor V K, Fundamentals of Mathematical Statistics, 9ed, Sultan Chand & 
@@ -2249,11 +2007,8 @@ Edition 2007
  
 Back 
   
-
 ## Page 46
 
- 
- 
 46 
 FMCD2009 / 2.0 
 Program: UG  Semester: III 
@@ -2312,8 +2067,6 @@ Text Books:
 
 ## Page 47
 
- 
- 
 47 
 FMCD2009 / 2.0 
 2. Bali and Iyengar, A text book of Engineering Mathematics, 6ed, Laxmi 
@@ -2325,13 +2078,8 @@ Reference Books:
 4. Ian Glover & Peter Grant, Digital Communications, 2nd Ed, Pearson 2012. 
 Back 
  
- 
-  
-
 ## Page 48
 
- 
- 
 48 
 FMCD2009 / 2.0 
 Program: UG  Semester: III 
@@ -2366,16 +2114,8 @@ Reference Books:
  
 Back 
  
- 
- 
- 
- 
-  
-
 ## Page 49
 
- 
- 
 49 
 FMCD2009 / 2.0 
 Program: UG  Semester: III 
@@ -2433,8 +2173,6 @@ Back
 
 ## Page 50
 
- 
- 
 50 
 FMCD2009 / 2.0 
 Program: UG  Semester: III 
@@ -2481,8 +2219,6 @@ Unit-III
 
 ## Page 51
 
- 
- 
 51 
 FMCD2009 / 2.0 
 Chapter No.6 Feedback Amplifiers: General feedback structure (Block schematic), 
@@ -2508,11 +2244,8 @@ Pearson Education, 2003
  
 Back 
   
-
 ## Page 52
 
- 
- 
 52 
 FMCD2009 / 2.0 
 Program: UG  Semester: III 
@@ -2559,7 +2292,6 @@ Nominal-T and ∏ representation for transmission lines, Long transmission lines
 line solutions by Rigorous method, equivalent models,    ABCD constants, 
 08 Hrs    
          
- 
 Unit-III  
 Chapter No.7  Insulators: Types, potential distribution over a string of suspensio n 
 insulators. String efficiency and methods of increasing string efficiency and methods of 
@@ -2575,8 +2307,6 @@ Reference Books:
 
 ## Page 53
 
- 
- 
 53 
 FMCD2009 / 2.0 
 1. Principles of Power system   By:  V.K. Mehta & Rohit Metha, S. Chand & Company,  LTD. 2014   
@@ -2586,11 +2316,8 @@ FMCD2009 / 2.0
 India, Regd. Office: d 13/12, Model Town, Delhi 
 Back 
   
-
 ## Page 54
 
- 
- 
 54 
 FMCD2009 / 2.0 
 Program: UG  Semester: III 
@@ -2628,7 +2355,6 @@ Counter using clocked JK Flip -Flops Design of a Synchronous Mod -n Counter usin
 clocked D, T or SR Flip-Flops. 
 08 Hrs  
          
- 
 Unit-III 
 Chapter No.6 Sequential Circuit Design  
  Introduction to Sequential Circuit Design, Mealy and Moore Models, State Machine 
@@ -2649,8 +2375,6 @@ Reference Books:
 
 ## Page 55
 
- 
- 
 55 
 FMCD2009 / 2.0 
 2. Zvi Kohavi, Switching and Finite Automata Theory, 2nd, TMH 
@@ -2658,12 +2382,8 @@ FMCD2009 / 2.0
 4. R. P. Jain, Modern Digital Electronics, 2nd, Tata McGraw Hill , 2000 
 Back 
  
-  
-
 ## Page 56
 
- 
- 
 56 
 FMCD2009 / 2.0 
 Program: UG  Semester: III 
@@ -2726,8 +2446,6 @@ Hours
 
 ## Page 57
 
- 
- 
 57 
 FMCD2009 / 2.0 
 ● USB 
@@ -2748,12 +2466,8 @@ publishers,Bangalore-2005
  
 Back 
  
-  
-
 ## Page 58
 
- 
- 
 58 
 FMCD2009 / 2.0 
  
@@ -2786,8 +2500,6 @@ Laboratory  Hours: 28   Examination Duration: 3  Hrs
 
 ## Page 59
 
- 
- 
 59 
 FMCD2009 / 2.0 
 Program: UG  Semester: III 
@@ -2816,13 +2528,8 @@ Reference Books:
  
 Back 
  
- 
-  
-
 ## Page 60
 
- 
- 
 60 
 FMCD2009 / 2.0 
  
@@ -2870,8 +2577,6 @@ Back
 
 ## Page 61
 
- 
- 
 61 
 FMCD2009 / 2.0 
 IV Semester Bachelor of Engineering (Electrical & Electronics Engineering) 
@@ -2928,8 +2633,6 @@ Reference Books:
 
 ## Page 62
 
- 
- 
 62 
 FMCD2009 / 2.0 
 1. Kreyszig E., Advanced Engineering Mathematics, 8ed, John Wiley & sons, 2003. 
@@ -2940,11 +2643,8 @@ INC, New York, 1993
  
 Back 
   
-
 ## Page 63
 
- 
- 
 63 
 FMCD2009 / 2.0 
 Program: UG Semester: IV 
@@ -2990,13 +2690,8 @@ Reference Books:
 Delhi, 2001 
 Back 
  
- 
-  
-
 ## Page 64
 
- 
- 
 64 
 FMCD2009 / 2.0 
 Program: UG Semester: IV 
@@ -3033,13 +2728,10 @@ Chand and Sons, New Delhi, 2018
 7. Cambridge Advanced Learner’s Dictionary, Cambridge University Press. 
 8. Kaplan’s GRE guide 
  
- 
 Back 
 
 ## Page 65
 
- 
- 
 65 
 FMCD2009 / 2.0 
 Course Content 
@@ -3068,8 +2760,6 @@ Reluctance Machines - Construction, Aligned and unaligned positions,
 Electromagnetic torque, Advantages, disadvantages and Applications of SRMs. 
 Permanent magnet DC brushless motors. 
 08  Hrs 
- 
- 
  
 Chapter No.4: Synchronous Machines: Construction, Classification of synchronous 
 machines, Electromotive force induced in armature winding, Generator and motor 
@@ -3100,20 +2790,14 @@ fundamentals, theory, and design.”, CRC Press, 2005.
 
 ## Page 66
 
- 
- 
 66 
 FMCD2009 / 2.0 
 4. T. J. E.Miller, “Brushless Permanent -Magnet and Reluctance Motor Drives”, Oxford 
 Science Publications, 1989. 
 Back 
  
-  
-
 ## Page 67
 
- 
- 
 67 
 FMCD2009 / 2.0 
 Program: UG Semester: IV 
@@ -3171,19 +2855,14 @@ Text Books
 
 ## Page 68
 
- 
- 
 68 
 FMCD2009 / 2.0 
 Reference Books: 
 1. M.Gopal, Control Systems-Principles and Design, 2, TMH, 2002. 
 Back 
   
-
 ## Page 69
 
- 
- 
 69 
 FMCD2009 / 2.0 
 Program: UG Semester: IV 
@@ -3241,8 +2920,6 @@ Back
 
 ## Page 70
 
- 
- 
 70 
 FMCD2009 / 2.0 
 Program:  UG Semester: IV 
@@ -3287,14 +2964,10 @@ Text Books:
 1. Simon Haykin and Barry Van Veen, Signals and Systems –2nd Edition, John Wiley, 
 2004  
  
- 
 Back 
   
-
 ## Page 71
 
- 
- 
 71 
 FMCD2009 / 2.0 
 Program: UG Semester: IV 
@@ -3353,8 +3026,6 @@ Back
 
 ## Page 72
 
- 
- 
 72 
 FMCD2009 / 2.0 
  
@@ -3401,16 +3072,12 @@ Expt. No. 1 Develop an ARM based application using
                      ii. Actuators  
                      iii.Displays 
  
-
 ## Page 73
 
- 
- 
 73 
 FMCD2009 / 2.0 
 Back 
  
-  
 Program: UG Semester : IV 
 Course Title: Digital System Design using Verilog Course Code: 18EEEP203 
 L-T-P: 0-0-2 Credits: 2 Contact Hours: 4 Hrs/week 
@@ -3447,8 +3114,6 @@ File operations in Verilog,  Memories: RAM, ROM, Block Memories( Xilinx IP) 08 H
 
 ## Page 74
 
- 
- 
 74 
 FMCD2009 / 2.0 
 V Semester Bachelor of Engineering (Electrical & Electronics Engineering) Course Content 
@@ -3504,8 +3169,6 @@ Reference Books:
 
 ## Page 75
 
- 
- 
 75 
 FMCD2009 / 2.0 
 2. S. K. Pillai, A First Course On Electric Drives, Wiley Eastern Ltd, 1990. 
@@ -3562,8 +3225,6 @@ transmission line, expression for critical clearing angle, examples on EAC appli
 
 ## Page 76
 
- 
- 
 76 
 FMCD2009 / 2.0 
 Chapter No.8:  Numerical solution of swing equation for stability analysis  
@@ -3580,11 +3241,8 @@ Reference Books:
 3. J.J. Grainger and W.D. Stevenson, Power System Analysis, McGraw Hill (New York), 1994 
 Back 
   
-
 ## Page 77
 
- 
- 
 77 
 FMCD2009 / 2.0 
 Program: UG  Semester: V 
@@ -3621,7 +3279,6 @@ Task: Structure, Event Flags: Structure, uses, Semaphore: Structure, Types: bin 
 semaphore, mutual exclusion (mutex) semaphore, and uses Message Queue: Structure, 
 Uses. Priority Inversion problem and its solutions. 
  
- 
 08 Hrs 
 Unit-III   
 Chapter No. 6: Typical Embedded System and bus protocols:  
@@ -3638,11 +3295,8 @@ Reference Books:
 1. Qing Li with Caroline Yao, Real-Time Concepts for Embedded Systems, 1st edition 
 Back 
   
-
 ## Page 78
 
- 
- 
 78 
 FMCD2009 / 2.0 
  
@@ -3690,11 +3344,8 @@ Reference Books:
  
 Back 
  
-
 ## Page 79
 
- 
- 
 79 
 FMCD2009 / 2.0 
 Program: UG Semester: V 
@@ -3730,7 +3381,6 @@ converter, Phase shift oscillator, Weinbridge oscillator, Active Filters –Firs
 order Low pass & High pass filters. 
 10 Hrs 
  
- 
 Unit-III 
  
 Chapter No. 6. Nonlinear applications of OPAMP :      
@@ -3751,15 +3401,12 @@ Reference Books:
 
 ## Page 80
 
- 
- 
 80 
 FMCD2009 / 2.0 
     2005. 
 4. David A. Bell, “Operational Amplifiers and Linear IC’s”, 2nd edition, PHI/Pearson, 2004. 
  
 Back 
- 
  
 Program: UG Semester: V 
 Course Title: Machine Learning Course Code: 23EEEC302 
@@ -3789,12 +3436,6 @@ Logistic Regression: Optimization (Gradient Descent)
 Multi-class classification (One-vs-all classification using logistic regression) 
 Classical supervised learning algorithm- Support Vector Machine (SVM) 
  
- 
- 
- 
- 
- 
- 
 08 Hrs 
 Chapter No. 3 Performance Evaluation 
 Performance Evaluation of learning models : Metrics (Confusion matrix, Precision, 
@@ -3802,14 +3443,11 @@ Recall, F1 Score, RoC curves), Modelling data and validating learning, Over fitt
 of Bias and Variance, Methods to overcome over fitting (Feature reduction, 
 Regularization) 
  
- 
 04 Hrs 
 Unit - II 
 
 ## Page 81
 
- 
- 
 81 
 FMCD2009 / 2.0 
 Chapter No. 4 Unsupervised Learning 
@@ -3845,11 +3483,8 @@ Reference Books:
      Mining Inference and Prediction, 2, Springer, 2009 
 Back 
   
-
 ## Page 82
 
- 
- 
 82 
 FMCD2009 / 2.0 
 Program: UG Semester: V 
@@ -3877,11 +3512,8 @@ Expt. No. 8 Write an optimized 'C' program to interface SPI-EEPROM with LPC2148 
                       comment on performance. 
 Back 
   
-
 ## Page 83
 
- 
- 
 83 
 FMCD2009 / 2.0 
 Program: UG Semester: V 
@@ -3914,15 +3546,10 @@ Expt. No. 1 To develop the second order response surface methodology (RSM) based
 prediction model of DC shunt motor by conducting experiments as per Design of 
 Experiments.(DOE)  
  
- 
 Back 
  
-  
-
 ## Page 84
 
- 
- 
 84 
 FMCD2009 / 2.0 
  
@@ -3952,12 +3579,8 @@ given second order series RLC system.  (MATLAB/using any simulation tool)
  
 Back 
  
-  
-
 ## Page 85
 
- 
- 
 85 
 FMCD2009 / 2.0 
 Program: UG Semester: V 
@@ -3987,15 +3610,10 @@ Text Books:
 Approach with C, Second Edition. 
 2. Aaron M. Tenenbaum, Data Structures Using C. 
  
- 
- 
 Back 
   
-
 ## Page 86
 
- 
- 
 86 
 FMCD2009 / 2.0 
 Program: UG Semester: V 
@@ -4052,20 +3670,11 @@ Back
 
 ## Page 87
 
- 
- 
 87 
 FMCD2009 / 2.0 
  
- 
- 
- 
-  
-
 ## Page 88
 
- 
- 
 88 
 FMCD2009 / 2.0 
 Program: UG Semester: V 
@@ -4100,21 +3709,10 @@ Sons, New Delhi, 2018
 5. Cambridge Advanced Learner’s Dictionary, Cambridge University Press. 
 6. Kaplan’s GRE guide 
  
- 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 89
 
- 
- 
 89 
 FMCD2009 / 2.0 
 VI Semester Bachelor of Engineering (Electrical & Electronics Engineering) Course Content 
@@ -4170,8 +3768,6 @@ Text Books:
 
 ## Page 90
 
- 
- 
 90 
 FMCD2009 / 2.0 
 Reference Books: 
@@ -4183,12 +3779,8 @@ Reference Books:
  
 Back 
  
-  
-
 ## Page 91
 
- 
- 
 91 
 FMCD2009 / 2.0 
 Program: UG Semester : VI 
@@ -4236,11 +3828,8 @@ Reference Books
  
 Back 
   
-
 ## Page 92
 
- 
- 
 92 
 FMCD2009 / 2.0 
 Program: UG Semester: VI 
@@ -4273,12 +3862,8 @@ model based design
  
 Back 
  
-  
-
 ## Page 93
 
- 
- 
 93 
 FMCD2009 / 2.0 
 Program: UG Semester: VI 
@@ -4304,11 +3889,8 @@ Text Books:
 2nd  edition, Pearson Education (Asia) Pvt. Ltd., 2000 
 Back 
   
-
 ## Page 94
 
- 
- 
 94 
 FMCD2009 / 2.0 
 Program: UG Semester: VI 
@@ -4328,12 +3910,8 @@ Expt. No. 8 Programs to implement different sorting techniques.
 Expt. No. 9 Programming on hash tables 
 Back 
  
-  
-
 ## Page 95
 
- 
- 
 95 
 FMCD2009 / 2.0 
 Program: UG Sem: VI 
@@ -4358,11 +3936,8 @@ Structured Enquiry Experiment
 TMS320F280X 
 Back 
   
-
 ## Page 96
 
- 
- 
 96 
 FMCD2009 / 2.0 
 Program: UG Semester: VI 
@@ -4390,14 +3965,10 @@ Reference Books:
 2. Lateral Thinking – Dr. Edward De Bono, Penguin Books, New Delhi 
 Back 
   
-
 ## Page 97
 
- 
- 
 97 
 FMCD2009 / 2.0 
- 
  
 Program: UG Semester: VI 
 Course Title: Industry Readiness & Leadership Skills  Course Code: 22EHSH302 
@@ -4430,11 +4001,8 @@ Reference Books:
  
 Back 
   
-
 ## Page 98
 
- 
- 
 98 
 FMCD2009 / 2.0 
 VII Semester Bachelor of Engineering (Electrical & Electronics Engineering) 
@@ -4487,8 +4055,6 @@ Lab Experiments to be conducted
 
 ## Page 99
 
- 
- 
 99 
 FMCD2009 / 2.0 
 7. ABCD Line parameters and line performance 02 Hrs 
@@ -4511,11 +4077,8 @@ Juan J. Sanchez-Gasca, Power System Modelling, Computation
  
 Back 
   
-
 ## Page 100
 
- 
- 
 100 
 FMCD2009 / 2.0 
  
@@ -4543,11 +4106,8 @@ To develop microcontroller based overcurrent, over voltage and impedance relay u
 giving details of program and demonstrate it’s working principle. 
 Back 
   
-
 ## Page 101
 
- 
- 
 101 
 FMCD2009 / 2.0 
 Program Electives 
@@ -4602,8 +4162,6 @@ Back
 
 ## Page 102
 
- 
- 
 102 
 FMCD2009 / 2.0 
 Program: UG Semester : VII 
@@ -4655,8 +4213,6 @@ prepare a technical report.
 
 ## Page 103
 
- 
- 
 103 
 FMCD2009 / 2.0 
 Text Books: 
@@ -4665,18 +4221,13 @@ Text Books:
     Perspectives”, John Wiley & Sons, 2018. 
 Back 
  
-  
-
 ## Page 104
 
- 
- 
 104 
 FMCD2009 / 2.0 
  
 Back 
  
-  
 Program: UG Semester : VII 
 Course Title: Powertrain Control System Design Course Code: 24EEEE402 
 L-T-P: 1-0-2 Credits: 3 Contact Hrs: 5 
@@ -4725,8 +4276,6 @@ ii. Field Oriented Control
 
 ## Page 105
 
- 
- 
 105 
 FMCD2009 / 2.0 
 Back 
@@ -4789,8 +4338,6 @@ Jersey, 2
 
 ## Page 106
 
- 
- 
 106 
 FMCD2009 / 2.0 
 Program: UG Semester: VII 
@@ -4843,8 +4390,6 @@ Springer, 2014
 
 ## Page 107
 
- 
- 
 107 
 FMCD2009 / 2.0 
 2. Janaka Ekanayake, Nick Jenkins, Kithsiri Liyanage Jianzhong Wu Akihiko Yokoyama, Smart Grid 
@@ -4855,11 +4400,8 @@ Reference Books:
 Energy and Technology, 2013 
 Back 
   
-
 ## Page 108
 
- 
- 
 108 
 FMCD2009 / 2.0 
  
@@ -4908,17 +4450,10 @@ References Books:
 Publishers, New-Delhi, 2007, ISBN 978 81 224 2142 2. 
 Back 
  
- 
- 
- 
-
 ## Page 109
 
- 
- 
 109 
 FMCD2009 / 2.0 
- 
  
 Program: UG Semester: VII 
 Course Title: Digital Control System Course Code: 24EEEE403 
@@ -4971,21 +4506,15 @@ Text Books
 
 ## Page 110
 
- 
- 
 110 
 FMCD2009 / 2.0 
 Back 
  
- 
-  
 Reference Books: 
 1. Digital Control and State Variable Methods by M.Gopal, TMH 
 
 ## Page 111
 
- 
- 
 111 
 FMCD2009 / 2.0 
 Program: UG Semester: VI 
@@ -5042,16 +4571,11 @@ Back
 
 ## Page 112
 
- 
- 
 112 
 FMCD2009 / 2.0 
  
- 
- 
 Back 
  
-  
 Program: UG Semester: VI 
 Course Title:  Architectural Design of Integrated Circuits Course code: 23EECE302 
 L-T- P: 2-0-1  Credits: 03 Contact Hrs: 04 hrs/week 
@@ -5087,8 +4611,6 @@ Tools: Questa Sim,  Modelsim for Verilog, Cadance Geneus, Xilinx 14.2 ISE
 
 ## Page 113
 
- 
- 
 113 
 FMCD2009 / 2.0 
 Program: UG Semester: VII 
@@ -5145,25 +4667,18 @@ Text Books:
 
 ## Page 114
 
- 
- 
 114 
 FMCD2009 / 2.0 
 4. David Smith, Kenneth Simpson, The Safety Critical Systems Handbook, 5th Edition, 2020 
  
 Back 
  
-
 ## Page 115
 
- 
- 
 115 
 FMCD2009 / 2.0 
 Back 
  
- 
-  
 Program: UG Semester: VII 
 Course Title:  System Verilog using Verification Course code: 24EECE418 
 L-T- P: 1-0-2  Credits: 03 Contact Hrs: 05 Hrs /week 
@@ -5210,8 +4725,6 @@ Tools: Questa Sim,  NC Verilog, NC Sim, CVER + GTKWave, VCSMX, Modelsim for Veri
 
 ## Page 116
 
- 
- 
 116 
 FMCD2009 / 2.0 
  
@@ -5253,16 +4766,10 @@ Physical Compiler an PrimeTime, 2nd edition, 2001.
 3. Springer Science+Business Media, LLC 2009 
 4. Tools: Cadence Innovous, Encounter 
  
- 
 Back 
  
- 
-  
-
 ## Page 117
 
- 
- 
 117 
 FMCD2009 / 2.0 
  
@@ -5318,8 +4825,6 @@ Character Devices - Tracing and Debugging - Blocking and Wait Queues - Accessing
 
 ## Page 118
 
- 
- 
 118 
 FMCD2009 / 2.0 
 Hardware- Handling Interrupts - Accessing PCI hardware - USB Drivers - Managing 
@@ -5335,13 +4840,10 @@ Reference Books:
 1.  Building Embedded Linux Systems, Karim Yaghmour, First edition, April 2003. 
 2.  Embedded Linux- John Lombardo, Newriders.com 
  
- 
 Back 
 
 ## Page 119
 
- 
- 
 119 
 FMCD2009 / 2.0 
 Open Elective 

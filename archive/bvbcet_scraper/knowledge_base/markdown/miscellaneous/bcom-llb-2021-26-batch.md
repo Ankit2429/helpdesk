@@ -1,18 +1,10 @@
 # PDF Document: bcom-llb-2021-26-batch
+
 **PDF Source:** https://www.kletech.ac.in/pdf/bcom-llb-2021-26-batch.pdf
 
 ## Page 1
 
 1 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Curriculum Structure and Content for the Academic Batch 2021-26 
 Law Program 
@@ -21,9 +13,6 @@ Program: B.Com. LL.B.
 ## Page 2
 
 2 
- 
- 
- 
  
 Table of Contents 
 Vision and Mission of KLE Technological University ............................................................................... 3 
@@ -48,7 +37,6 @@ List of Open Electives .........................................................
 
 3 
  
- 
 Vision and Mission of KLE Technological University 
  
 Vision 
@@ -59,7 +47,6 @@ Mission
 KLE Technological University is dedicated to teaching that meets the highest standards of 
 excellence, generation and application of new knowledge through research and creative 
 endeavours. 
- 
  
 The three-fold mission of the University is: 
  
@@ -80,7 +67,6 @@ collaboration and partnership to accomplish our mission.
 ## Page 4
 
 4 
- 
  
 Vision and Mission Statements of the KLE Law College 
 Vision 
@@ -105,7 +91,6 @@ morally exalted individuals with the values of love, truth, service, and sacrifi
 ## Page 5
 
 5 
- 
  
 Program Educational Objectives/Program Outcomes and Program-Specific Objectives 
  
@@ -149,9 +134,6 @@ accountability in all professional and academic engagements.
 
 6 
  
- 
- 
- 
 PO9. Individual and Teamwork: Graduates will function effectively as individuals and collaborate 
 as team members in multidisciplinary and multicultural settings. 
 PO10. Communication: Graduates will communicate legal ideas, construct arguments, and present 
@@ -175,22 +157,9 @@ matters
 
 7 
  
- 
 Curriculum Structure-Overall 
  
 Semester: 1 to 10 (2021-26 Batch) Total No. of Credits: 224 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Course 
 with 
@@ -198,12 +167,9 @@ Course
 Code 
 I II III IV V VI VII VIII IX X 
  
- 
- 
 LANGUAGE- I: 
 General English 
 (21LCLH101) 
- 
  
 LANGUAGE- II: 
 Law and 
@@ -216,8 +182,6 @@ Fundamental
 s of 
 Accounting 
 (22LCLH205) 
- 
- 
  
 LANGUAGE- 
 III: Kannada 
@@ -239,7 +203,6 @@ Entrepreneuria
 l Skills 
 (21LCLH302) 
  
- 
 Law of Civil 
 Procedure and 
 the Limitation 
@@ -254,13 +217,9 @@ Labour
 Welfare 
 (21LCLC403) 
  
- 
- 
 Law of 
 Taxation 
 (21LCLC501) 
- 
- 
  
 Environmenta 
 l Law 
@@ -290,7 +249,6 @@ III: Kannada
 Kali 
 (21LCLN202) 
  
- 
 Law of Crimes 
 (24LCLC301) 
 Family Law- II: 
@@ -305,7 +263,6 @@ Public
 International 
 Law 
 (21LCLC402) 
- 
  
 Law of 
 Evidence 
@@ -418,12 +375,9 @@ Trade Law
 
 8 
  
- 
     Governance 
 (22LCLH207) 
    )   
- 
- 
  
 Law of Torts 
 (21LCLC102) 
@@ -434,21 +388,17 @@ Principles of
 Law of Contract 
 (21LCLC103) 
  
- 
 Constitutiona 
 l Law - I 
 (21LCLC202) 
- 
  
 Company 
 Law 
 (21LCLC203) 
  
- 
 Family Law- I: 
 Hindu Law 
 (21LCLC304) 
- 
  
 OPTIONAL- I: 
 Interpretation 
@@ -477,16 +427,13 @@ Pleading and
 Conveyance 
 (21LCLP501) 
  
- 
 OPTIONAL - 
 VI: Land Laws 
 (21LCLT506) 
  
- 
 Art of Public 
 Speaking 
 (21LCLL101) 
- 
  
 Consumer Law 
 and Practice 
@@ -500,7 +447,6 @@ assessed and
 credited in III 
 Sem) 
 (21LCLI201) 
- 
  
 Constitutiona 
 l Law- II 
@@ -521,18 +467,15 @@ International
 Law 
 (21LCLT302) 
  
- 
 Criminal Law 
 Practice 
 Essentials 
 (21LCLL401) 
  
- 
 Civil Law 
 Practice 
 Essentials 
 (21LCLL402) 
- 
  
 ELECTIVE - 
 III: Energy 
@@ -546,12 +489,10 @@ and Trial
 Preparation 
 (21LCLP502) 
  
- 
 Introduction to 
 GenAI 
 (21LCLL102) 
   
- 
 Introduction 
 to GenAI 
 (21LCLL203) 
@@ -561,7 +502,6 @@ Doctrinal
 Research 
 Skills 
 (21LCLL201) 
- 
  
 Introduction 
 to GenAI 
@@ -584,7 +524,6 @@ Technology
 Law 
 (21LBLE402 
 ) 
- 
  
 5th 
 Mandatory 
@@ -611,7 +550,6 @@ Moots shall
 be awarded 
 in X Semester 
  
- 
 RTI Law and 
 Practice 
 (21LCLL202) 
@@ -624,7 +562,6 @@ awarded in X
 Semester as 
 part of 
   
- 
 ELECTIVE - I: 
 Media Law 
 (21LALE401) 
@@ -642,7 +579,6 @@ Restructurin
 g 
 (21LBLE501) 
  
- 
 ELECTIVE - IV: 
 Healthcare 
 Law 
@@ -652,15 +588,12 @@ Law
 
 9 
  
- 
  COURSE - IV)  as part of 
 CLINICAL 
 COURSE - IV) 
  CLINICAL 
 COURSE - IV) 
      
-       
- 
 ELECTIVE - I: 
 Sports Law 
 (21LALE402) 
@@ -715,7 +648,6 @@ credited in VII
 Sem) 
 (21LCLI401) 
   
- 
 Introduction 
 to GenAI 
 (21LCLL403) 
@@ -751,7 +683,6 @@ Sem)
 
 10 
  
- 
         CLINICAL 
 COURSE - IV) 
  credited in IX 
@@ -773,11 +704,9 @@ COURSE - IV)
 Credit 
 s 24 22 24 20 24 22 24 20 22 22 
  
-
 ## Page 11
 
 11 
- 
  
 Curriculum Structure-Semester-wise 
  
@@ -815,7 +744,6 @@ TOTAL   24
 
 12 
  
- 
 Semester – II 
  
 No Code Course Course 
@@ -851,8 +779,6 @@ TOTAL   22
 
 Semester- III 
 13 
- 
- 
  
 No Code Course Course Type L-T-P-SS Credit 
 s 
@@ -893,8 +819,6 @@ TOTAL   24
 Semester- IV 
 14 
  
- 
- 
 No Code Course Course 
 Type 
 L-T-P-SS Credit 
@@ -925,8 +849,6 @@ TOTAL   22
 
 Semester- V 
 FMCD2009 / 2.0 15 
- 
- 
  
 No Code Course Course 
 Type 
@@ -964,8 +886,6 @@ TOTAL   24
 Semester- VI 
 FMCD2009 / 2.0 16 
  
- 
- 
 No Code Course Course Type L-T-P-SS Credits ISA ESA Total Exam 
 Duration 
 (in hrs) 
@@ -996,8 +916,6 @@ TOTAL   22
 
 Semester- VII 
 17 
- 
- 
  
 No Code Course Course Type L-T-P-SS Credits ISA ESA Total Exam Duration (in 
 hrs) 
@@ -1035,8 +953,6 @@ TOTAL   24
 Semester- VIII 
 18 
  
- 
- 
 No Code Course Course Type L-T-P-SS Credits ISA ESA Total Exam 
 Duratio 
 n (in 
@@ -1072,8 +988,6 @@ TOTAL   20
 Semester IX 
 19 
  
- 
- 
 No Code Course Course Type L-T-P-SS Credits ISA ESA Total Exam 
 Duration 
 (in hrs) 
@@ -1108,15 +1022,12 @@ Mandatory Moots shall be awarded
 in X Semester as part of CLINICAL 
 COURSE - IV) 
        
-          
 TOTAL   22     
 
 ## Page 20
 
 Semester X 
 20 
- 
- 
  
 No Code Course Course Type L-T-P-SS Credits ISA ESA Total Exam 
 Duration 
@@ -1153,16 +1064,8 @@ TOTAL   22
 
 21 
  
- 
- 
 Semester I II III IV V VI VII VIII IX X Total 
 Credits 24 22 24 20 24 22 24 20 22 22 224 
- 
- 
- 
- 
- 
- 
  
 List of Electives 
  
@@ -1180,8 +1083,6 @@ Sl. No Name of the Course Course Code
 
 22 
  
- 
- 
 9 ELECTIVE - III: Artificial Intelligence and Law 21LBLE502 
 10 ELECTIVE - III: Aviation Law 21LCLE501 
 11 ELECTIVE - III: Maritime Law 21LCLE502 
@@ -1195,8 +1096,6 @@ Sl. No Name of the Course Course Code
 ## Page 23
 
 23 
- 
- 
  
 Program: B.Com.L.L.B Semester: I 
 Course Title: LA  NG U A G E - I : G e n e r a l E n g l i s h Course Code: 21LCLH101 
@@ -1251,7 +1150,6 @@ By Sudha Murthy:
 
 24 
  
- 
 • ‘Two Faces of Poverty’ 
 • ‘The Line of Separation’ 
  
@@ -1298,8 +1196,6 @@ from the horse’s mouth, Turn a deaf ear, Under the weather, Yeoman’s service
 
 25 
  
- 
- 
 Program: B.Com.L.L.B Semester: I 
 Course Title: BUSINESS STUDIES – I: Business Organisation 
 and Environment 
@@ -1344,7 +1240,6 @@ and technological environment
 
 26 
  
- 
 UNIT-V 
 Unit - V: Government and Business 
  Role of Government in business organisation 
@@ -1367,12 +1262,9 @@ House, (40th Edition, 2022).
 3. The Indian Partnership Act, 1932. 
 4. The Companies Act, 2013. 
  
-
 ## Page 27
 
 27 
- 
- 
  
 Program: B.Com.L.L.B Semester: I 
 Course Title: BUSINESS Economics – I: Microeconomics Course Code:21LCLH103 
@@ -1424,7 +1316,6 @@ Monopolistic firm, Product Differentiation
 
 28 
  
- 
 UNIT-V 
 Unit - V: Factor Pricing 
  Ricardian theory of Rent, Quasi rent 
@@ -1450,10 +1341,6 @@ USA, (9th Edition).
 ## Page 29
 
 29 
- 
- 
- 
- 
  
 Program: UG Semester: I 
 Course Title: Legal Methods Course Code:21LCLH101 
@@ -1505,8 +1392,6 @@ Unit- V: Case Law Technique
 
 30 
  
- 
- 
 Prescribed Book(s): 
 1. Lloyd Dennis, Idea of Law, London: Penguin Books, Chapters 1 and 9, (2000). 
 2. A.T.H. Smith, Glanville Williams: Learning the Law, London: Stevens & Sons (16th Edition, 2016). 
@@ -1521,10 +1406,6 @@ References:
 ## Page 31
 
 31 
- 
- 
- 
- 
  
 Program: UG Semester: I 
 Course Title: Law of Torts Course Code:21LCLC102 
@@ -1567,8 +1448,6 @@ Unit - IV: Torts against Person and Property
 
 32 
  
- 
- 
 UNIT-V 
 Unit - V: Vicarious Liability and Remedies 
  Intimidation and Conspiracy 
@@ -1599,8 +1478,6 @@ Press, (6th Edition, 2008).
 
 33 
  
- 
- 
 Program: B.Com.L.L.B Semester: I 
 Course Title: Art of Public Speaking Course Code:21LCLL101 
 L-T-P: 1-0-1-0 Credits: 02  
@@ -1628,10 +1505,6 @@ Unit III: Speaking Exercises
 ## Page 34
 
 34 
- 
- 
- 
- 
  
 Program: B.Com. LL.B. Semester: I 
 Course Code: 21LCLL403 Course Title: Introduction to Gen AI 
@@ -1688,7 +1561,6 @@ Unit V
 
 35 
  
- 
   Build an AI-powered summarizer for legal documents.  
 Prescribed Books: 
 1. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and 
@@ -1708,15 +1580,6 @@ Press, 2024).
 ## Page 36
 
 36 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Program: B.Com.L.L.B Semester: II 
 Course Title: LANGUAGE II- Law and Literature Course Code:21LCLH104 
@@ -1749,7 +1612,6 @@ Unit III
 ## Page 37
 
 37 
- 
  
 UNIT-IV 
 Unit IV 
@@ -1787,15 +1649,10 @@ Additional Reading(s)/Learning Resource(s):
 5. https://www.themathesontrust.org/papers/hinduism/yakshaprashna.pdf 
 6. Inherit the Wind: https://ok.ru/video/537336482544 
 7. 12 Angry Men: https://archive.org/details/12AngryMen1957 
-8. Court: https://www.youtube.com/watch?v=PrYSx-Q9rk0 
-9. Nuremberg: https://www.youtube.com/watch?v=9CS_wwniJf4 
 
 ## Page 38
 
 38 
- 
- 
- 
  
 List of cases: 
 1. United States v. Susan B. Anthony - 1873 
@@ -1805,10 +1662,6 @@ List of cases:
 ## Page 39
 
 39 
- 
- 
- 
- 
  
 Program: B.Com.L.L.B Semester: II 
 Course Title: BUSINESS STUDIES - II: Principles and 
@@ -1857,7 +1710,6 @@ McGregor’s X theory, Y theory, Z theory
 
 40 
  
- 
 UNIT-V 
 Unit - V: Controlling, Coordination and Communication 
  Controlling - meaning, steps, techniques, essentials of an effective control system 
@@ -1880,8 +1732,6 @@ Pvt. Ltd, (10th Edition, 2017).
 ## Page 41
 
 41 
- 
- 
  
 Program: B.Com.L.L.B Semester: II 
 Course Title: BUSINESS ECONOMICS - II: 
@@ -1937,7 +1787,6 @@ through balance sheet approach
 
 42 
  
- 
 UNIT-V 
 Unit - V: Public Finance and Fiscal Policy 
  Public Finance: meaning, definition and scope 
@@ -1971,8 +1820,6 @@ Revised Edition 2021).
 
 ←BACK TO SEMESTER I 
 43 
- 
- 
  
 Program: B.Com.L.L.B Semester: II 
 Course Title: BUSINESS ESSENTIALS - I: Financial 
@@ -2029,7 +1876,6 @@ Index (simple Problems)
 ←BACK TO SEMESTER I 
 44 
  
- 
 UNIT-IV 
 UNIT - IV: Dividend Theories- Dividend Decisions 
  Introduction – Meaning and Dividend policy 
@@ -2072,8 +1918,6 @@ Reference(s):
 
 ←BACK TO SEMESTER II 
 45 
- 
- 
  
 Program: B.Com.L.L.B Semester: II 
 Course Title: Contract Law - I: General Principles of 
@@ -2126,7 +1970,6 @@ penalty and liquidated damages, quantum merit
 ←BACK TO SEMESTER II 
 46 
  
- 
 UNIT-V 
 Unit - V: The Specific Relief Act, 1963 
  Equitable relief, The Specific Relief Act: Nature of Specific Relief 
@@ -2161,8 +2004,6 @@ house, (4th Edition, 1983).
 
 ←BACK TO SEMESTER II 
 47 
- 
- 
  
 Program: B.Com.L.L.B Semester: II 
 Course Title: Consumer Law and Practice Course Code: 21LCLL102 
@@ -2212,7 +2053,6 @@ Council
 ←BACK TO SEMESTER II 
 48 
  
- 
 UNIT-V 
 Unit V: Emerging Issues and Remedies in Consumer Protection 
  
@@ -2238,8 +2078,6 @@ https://consumeraffairs.nic.in/sites/default/files/file uploads/latestnews/Landm
 ## Page 49
 
 49 
- 
- 
  
 Program: B.Com.L.L.B Semester: III 
 Course Title: BUSINESS STUDIES - III: Fundamentals of 
@@ -2282,7 +2120,6 @@ Unit - IV: Preparation of Final Accounts
 
 50 
  
- 
 UNIT-V 
 Unit - V: Emerging Trends in Accounting 
  Computerised Accounting - meaning, features, advantages and disadvantages 
@@ -2307,9 +2144,6 @@ Pvt. Ltd, (10th Edition, 2009).
 ## Page 51
 
 51 
- 
- 
- 
  
 Program: B.Com.L.L.B Semester: III 
 Course Title: BUSINESS ECONOMICS - III: Indian Economy Course Code: 21LCLH202 
@@ -2355,10 +2189,6 @@ measures
 
 52 
  
- 
- 
- 
- 
 UNIT-IV 
 Unit - IV: Tertiary sector 
  Indian Money Market 
@@ -2392,12 +2222,9 @@ References:
 2. Ramesh Singh Indian Economy, New Delhi: McGraw Hill Education, (1997). 
 3. Dr. H.L. Ahuj.a, Modern Economics, New Delhi: S. Chand and Company, (19thRevised Edition,2022). 
 
-
 ## Page 53
 
 53 
- 
- 
  
 Program: B.Com.L.L.B Semester: III 
 Course Title: BUSINESS ESSENTIALS - II: Strategic 
@@ -2458,8 +2285,6 @@ o Lean Six Sigma
 
 54 
  
- 
-  
 UNIT-IV 
 Unit - IV: Strategy Implementation 
  Aspects of strategy implementation 
@@ -2503,10 +2328,6 @@ References:
 
 55 
  
- 
- 
- 
- 
 Program: B.Com.L.L.B Semester: III 
 Course Title: Contract Law - II: Special Contracts Course Code: 21LCLC201 
 L-T-P: 3-1-0-0 Credits: 04  
@@ -2527,7 +2348,6 @@ tract of Guarantee:
  Co-surety 
  
 Con 
- 
  
 UNIT – II 
 Unit- II: Contract of Bailment and Pledge 
@@ -2559,12 +2379,9 @@ Unit- III: Agency
  Liability of Principal 
  Personal liability of Agent 
  
-
 ## Page 56
 
 56 
- 
- 
  
   Termination of Agency   
  
@@ -2593,7 +2410,6 @@ Unit- V: Sale of Goods
  Rights of unpaid seller 
  Remedies for breach of contract 
  
- 
 Prescribed Book(s): 
 1. Avtar Singh, Contract Act and Specific Relief, Lucknow: Eastern Book Company, (12th Edition, 2018). 
 2. Sir Dinshaw Fardunji Mulla, Mulla, The Indian Contract Act, Haryana: LexisNexis, (16th Edition, 2021). 
@@ -2609,9 +2425,6 @@ Edition, 2010).
 
 57 
  
- 
- 
- 
 Statutes: 
 1. The Indian Contract Act, 1872 
 2. The Indian Partnership Act, 1932 
@@ -2624,10 +2437,6 @@ Statutes:
 ## Page 58
 
 58 
- 
- 
- 
- 
  
 Program: B.Com.L.L.B Semester: III 
 Course Title: Constitutional Law - I Course Code: 21LCLC202 
@@ -2674,8 +2483,6 @@ Double jeopardy and self-incrimination
 
 59 
  
- 
- 
 UNIT-V 
 Unit - V: Religious Freedom, Minority Rights, Directive Principles of State Policy and 
 Fundamental Duties 
@@ -2700,35 +2507,19 @@ References:
 
 60 
  
- 
 Program: B.Com.L.L.B Semester: IV 
 Course Title: LANGUAGE - III: Kannada Course Code: 21LCLN201 
 L-T-P: 0-0-0-0 Credits: 0  
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
 Teaching Hours: 30    
  
- 
- 
- 
- 
- 
- 
-
-
 ## Page 61
 
 61 
  
- 
- 
-
-
 ## Page 62
 
 62 
- 
- 
- 
  
 ← 
  
@@ -2741,23 +2532,9 @@ ISA Marks: 50 ESA Marks: 50 Total Marks: 100
 Teaching 
 Hours: 30 
    
- 
- 
- 
- 
- 
- 
- 
- 
-
-
 ## Page 63
 
 63 
- 
- 
- 
- 
  
 Program: B.Com.L.L.B Semester: IV 
 Course Title: BUSINESS STUDIES - IV: International 
@@ -2807,8 +2584,6 @@ Unit - IV:Globalisation and its Impact
 
 64 
  
- 
- 
 UNIT-V 
 Unit - V: Accounting and Taxation in International Business 
  US Generally Accepted Accounting Principles (GAAP) 
@@ -2840,8 +2615,6 @@ Revised Edition, 2011).
 ## Page 65
 
 . 65 
- 
- 
  
 Program: B.Com.L.L.B Semester: IV 
 Course Title: BUSINESS ESSENTIALS - III: Auditing and 
@@ -2895,7 +2668,6 @@ Valuation of specific Assets & Liabilities.
 
 . 66 
  
- 
 UNIT-V 
 Unit - V: Corporate Governance 
 1. Introduction 
@@ -2919,8 +2691,6 @@ Publisher, (2022).
 ## Page 67
 
 . 67 
- 
- 
  
 Program: B.Com.L.L.B Semester: IV 
 Course Title: Company Law Course Code: 21LCLC203 
@@ -2972,7 +2742,6 @@ Corporate Governance
 
 . 68 
  
- 
 UNIT-V 
  
 Unit – V: Corporate Restructuring 
@@ -2997,8 +2766,6 @@ Reference(s):
 ## Page 69
 
 . 69 
- 
- 
  
 Program: B.Com.L.L.B Semester: IV 
 Course Title: Constitutional Law II Course Code: 21LCLC204 
@@ -3045,7 +2812,6 @@ Administrative and Financial Relations. Finance Commission
 
 . 70 
  
- 
 UNIT-V 
 Unit - V: Emergency Provisions, Constitutional Amendment, and Miscellaneous 
  Services under the State, Constitutional protection to Civil Servants 
@@ -3074,8 +2840,6 @@ Reprinted, 2014).
 ## Page 71
 
 71 / 
- 
- 
  
 ←BACK TO SEMESTER II 
  
@@ -3129,10 +2893,6 @@ Nick Robinson, A Quantitative Analysis of the Indian Supreme Court’s Workload.
 
 72 
  
- 
- 
- 
- 
 Program: B.Com.L.L.B Semester: IV 
 Course Title: RTI Law and Practice Course Code: 21LCLL202 
 L-T-P: 1-0-1-0 Credits: 02  
@@ -3180,9 +2940,6 @@ UNIT- V – Abuse of RTI
 
 73 
  
- 
- 
- 
 Prescribed Books: 
 1. V.K. Dewan, Dewan’s Exhaustive Commentary on the RTI Act 2005, 3rd Edition (Thomson Reuters: 
 Gurgaon) 2021. 
@@ -3227,10 +2984,6 @@ Comparative Perspectives, Pentagon Press, 2009.
 ## Page 74
 
 74 
- 
- 
- 
- 
  
 Program: B.Com.L.L.B Semester: V 
 Course Title: BUSINESS STUDIES - V: Human Resource 
@@ -3284,9 +3037,6 @@ Unit - IV: Performance Appraisal, Promotion and Transfers
 
 75 
  
- 
- 
- 
 UNIT-V 
 Unit - V: Employment Relations 
 13 
@@ -3308,10 +3058,6 @@ Reference Book(s):
 ## Page 76
 
 76 
- 
- 
- 
- 
  
 Program: B.Com.L.L.B Semester: V 
 Course Title: Law of Crimes Course Code: 24LCLC301 
@@ -3359,9 +3105,6 @@ and harbouring offender
 
 77 
  
- 
- 
- 
 UNIT-V 
 Unit - V: Offences against Property, Reputation and Attempt to commit offences 
  Offences against Property: Theft, snatching, Extortion, Robbery, Dacoity; Criminal 
@@ -3390,10 +3133,6 @@ Statutes:
 ## Page 78
 
 78 
- 
- 
- 
- 
  
 Program: B.Com.L.L.B Semester: V 
 Course Title: Administrative Law Course Code: 24LCLC302 
@@ -3438,13 +3177,9 @@ Unit- IV: Judicial Functions and Principles of Natural justice
  PNJ - Process of application, and selection parameters 
  Non-compliance of PNJ and exceptions 
  
-
 ## Page 79
 
 79 
- 
- 
- 
  
 UNIT-V 
 Unit - V: State liability in Contract and Tort 
@@ -3467,8 +3202,6 @@ References:
 ## Page 80
 
 80 
- 
- 
  
 Program: B.Com.L.L.B Semester: V 
 Course Title: Jurisprudence Course Code: 21LCLC303 
@@ -3518,7 +3251,6 @@ animal, kinds of legal person, advantages, civil and criminal liabilities of leg
 
 81 
  
- 
 UNIT-V 
 Unit - V: Legal Concepts 
  Property - Definitions and meaning, kinds of a property, jura in re aliena, jura in re propria, 
@@ -3541,10 +3273,6 @@ Indian Print 2018.
 ## Page 82
 
 82 
- 
- 
- 
- 
  
 Program: B.Com.L.L.B Semester: V 
 Course Title: Family Law – I: Hindu Law Course Code: 21LCLC304 
@@ -3586,9 +3314,6 @@ Unit - IV: Hindu Joint Family System
 
 83 
  
- 
- 
- 
 UNIT-V 
 Unit - V: Inheritance and Succession 
  Inheritance and Succession - Historical perspective of traditional Hindu Law relating to 
@@ -3618,9 +3343,6 @@ Maintenance Act, 1956, (January 2015).
 ## Page 84
 
 84 
- 
- 
- 
  
 Program: B.Com. L.L.B. Semester: VI 
 Course Title: Business Studies – VI Start-Up Ecosystem – 
@@ -3653,8 +3375,6 @@ Entrepreneur – issues and challenges
  Key success factors for start-ups – Global Scenario 
  Strategies for scaling and growth 
  
- 
- 
 12 hrs 
 4 Business Models and Strategies 
  Business models for start-ups 
@@ -3681,9 +3401,6 @@ o Common IP mistakes of start-ups (case studies)
 
 85 
  
- 
- 
- 
   Entrepreneurial challenges for the use of IP in start-ups  
  
 Text Books 
@@ -3702,10 +3419,6 @@ Edition, 2014).
 ## Page 86
 
 86 
- 
- 
- 
- 
  
 Program: B.Com. L.L. B 
 Semester: VI 
@@ -3742,8 +3455,6 @@ Procedure Code, 1973
  The aftermath of Shah Bano: Maintenance of Divorced Muslim Women under the 
 Muslim Women (Protection of Rights on Divorce) Act, 1986 
  
- 
- 
 13 hrs 
 4 Testamentary Succession 
  Will: Meaning, difference between will and gift, will made on deathbed or during 
@@ -3762,9 +3473,6 @@ Need of Uniform Civil Code
 ## Page 87
 
 87 
- 
- 
- 
  
 5 : Inheritance and Succession 
 o Inheritance: Muslim law of Inheritance: Shia and Sunni Schools 
@@ -3795,10 +3503,6 @@ Edition, EBC, 2017).
 ## Page 88
 
 88 
- 
- 
- 
- 
  
 Program: B.Com.LL.B. Semester: VI 
 Course Title: Law of Criminal Procedure Course Code: 24LCLC302 
@@ -3833,8 +3537,6 @@ and powers
  Evidence in inquiries and trials and general provisions relating to inquiries 
 and trial 
  
- 
- 
 13 hrs 
 4 Post-Trial Proceedings 
  Appeals 
@@ -3856,10 +3558,6 @@ and trial
 
 89 
  
- 
- 
- 
- 
 Text Books 
 1. N. Chandrasekharan Pillai, R.V. Kelkar’s Criminal Procedure, Lucknow: Eastern Book Company, 
 (2021). 
@@ -3879,10 +3577,6 @@ Statutes:
 ## Page 90
 
 90 
- 
- 
- 
- 
  
 Program: B.Com. LL. B Semester: VI 
 Course Title: Property Law Course Code: 21LCLC307 
@@ -3928,8 +3622,6 @@ features
  Marshalling and Contribution 
  Charges 
  
- 
- 
 13 hrs 
 4 
 Lease, Exchange, Gifts and Actionable Claims 
@@ -3941,9 +3633,6 @@ Lease, Exchange, Gifts and Actionable Claims
 ## Page 91
 
 91 
- 
- 
- 
  
   Determination and holding over 
  Exchange: Definition and mode 
@@ -3979,11 +3668,6 @@ Reference Books:
 ## Page 92
 
 92 
- 
- 
- 
- 
- 
  
 Program: B.Com. LL. B Semester: VI 
 Course Title: Interpretation of Statutes Course Code- 21LCLT301 
@@ -4030,8 +3714,6 @@ Books and Commenta ries, Foreign and Domestic PrecedentsReports of the
 Committees or Commissions, Travaux Preparatories , Subsequent 
 Developments 
  
- 
- 
 13 hrs 
 4 Interpretation of Different Kinds of Statutes 
  Construction of Taxing Statutes 
@@ -4040,9 +3722,6 @@ Developments
 ## Page 93
 
 93 
- 
- 
- 
  
   Interpretation of General and Special Statutes- conflict resolution, repeal by 
 necessary implication. 
@@ -4074,12 +3753,6 @@ Statutes:
 ## Page 94
 
 94 
- 
- 
- 
- 
- 
- 
  
 Program: UG Semester: VI 
 Course Title: Forensic Science and Crime Scene Investigation Course Code- 
@@ -4115,8 +3788,6 @@ sketching
  Collection, Packaging, Labeling & Forwarding of exhibits to Forensic 
 Laboratories 
  
- 
- 
 6 hrs 
 4 Crime Scene Evidences 
  Fingerprints and other prints 
@@ -4133,9 +3804,6 @@ Laboratories
 ## Page 95
 
 95 
- 
- 
- 
  
   Forensic Odontology  
 5 Forensic Science Laboratories 
@@ -4163,13 +3831,6 @@ Edition, 2000).
 ## Page 96
 
 96 
- 
- 
- 
- 
- 
- 
- 
  
 Program: B.Com. LL.B. Semester: VII 
 Course Code: 21LCLC401 Course Title: Law of Civil Procedure and Limitation 
@@ -4221,17 +3882,12 @@ Unit IV
 
 97 
  
- 
- 
- 
 4 Unit - IV: Appeal, Reference, Review, Revision and Special Suits 
  Appeal – from original decree, appellate decree, orders, appeal to the Supreme 
 Court, appeals by indigent person 
  Reference 
  Review 
  Revision 
- 
- 
  
 13 
 Unit V 
@@ -4257,14 +3913,6 @@ References:
 ## Page 98
 
 98 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Program: B.Com. LL.B. Semester: VII 
 Course Code: 21LCLC402 Course Title: Public International Law 
@@ -4315,9 +3963,6 @@ Unit IV
 
 99 
  
- 
- 
- 
 4 Unit - IV: Treaties and Maritime Law 
  Treaties under International Law - Concept of Treaties, Types of Treaties, 
 Formation and the binding nature of treaties, Interpretation of Treaties, 
@@ -4349,14 +3994,6 @@ International Law, Cambridge University Press, (2003).
 ## Page 100
 
 100 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Program: B.Com. LL.B. Semester: VII 
 Course Code: 21LCLT401 Course Title: OPTIONAL – II: Banking Law 
@@ -4405,9 +4042,6 @@ Unit III
 
 101 
  
- 
- 
- 
 Unit IV 
 4 Unit - IV: Banker and Customer Relationship and Debt Recovery Laws 
  Banker and Customer- General and special relationship between banker and 
@@ -4453,9 +4087,6 @@ Ross Cranston, Principles of Banking Law, New York: Oxford University Press, (19
 ## Page 102
 
 102 
- 
- 
- 
  
 Program: B.Com. LL.B. Semester: VII 
 Course Code:21LCLT402 Course Title: OPTIONAL – II: Human Rights Law 
@@ -4509,9 +4140,6 @@ Rehabilitation Act, 2013
 
 103 
  
- 
- 
- 
 Unit V 
 5 Unit - V: Emerging issues in Human Rights 
  Human Rights and Statelessness 
@@ -4543,10 +4171,6 @@ Constitutional System, New Delhi: Universal Law Publishing, (2nd Edition, 2016).
 ## Page 104
 
 104 
- 
- 
- 
- 
  
 Program: B.Com. LL.B. Semester: VII 
 Course Code: 21LCLP401 Course Title: CLINICAL COURSE - I: Professional Ethics and 
@@ -4596,10 +4220,6 @@ SC 1012
 
 105 
  
- 
- 
- 
-   
 Unit IV 
 4 Unit - IV: Professional Misconduct -Bar Council of India Opinions 
 Selected cases of professional misconduct decided by the disciplinary committees of 
@@ -4645,9 +4265,6 @@ References:
 ## Page 106
 
 106 
- 
- 
- 
  
 Program: B.Com. LL.B. Semester: VII 
 Course Code: 21LCLL401 Course Title: Criminal Law Practice Essentials 
@@ -4699,9 +4316,6 @@ Reference Books:
 
 107 
  
- 
- 
- 
 Program: B.Com. LL.B. Semester: VII 
 Course Code: 21LALE401 Course Title: ELECTIVE-I: Media Law 
 L-T-P-SS: 1-0-1-0 Credits: 2 
@@ -4744,10 +4358,6 @@ Advertising, Surrogate Advertising, and ASCO Code
 
 108 
  
- 
- 
- 
- 
 Prescribed Book(s): 
 1. D.D. Basu, LAW OF THE PRESS, (LexisNexis, 2016). 
 2. Sebastian Paul, ETHICS AND THE MEDIA, (LexisNexis, 2015). 
@@ -4767,9 +4377,6 @@ Reference(s):
 ## Page 109
 
 109 
- 
- 
- 
  
 Program: B.Com. LL.B. Semester: VII 
 Course Code: 21LALE402 Course Title: ELECTIVE-I: Sports Law 
@@ -4820,10 +4427,6 @@ Unit III
 
 110 
  
- 
- 
- 
- 
 Prescribed book(s): 
 1. Mukul Mudgal and Vidushpat Singhania, Law & Sports in India- Developments, Issues 
 and Challenges, Lexis Nexis, (2nd Edition, 2015). 
@@ -4844,9 +4447,6 @@ Business and Sports,19 VILL. SPORTS & ENT. L.J. 425, (2012).
 ## Page 111
 
 111 
- 
- 
- 
  
 Program: B.Com. LL.B. Semester: VII 
 Course Code: 21LBLE401 Course Title: ELECTIVE-I: Competition Law 
@@ -4899,10 +4499,6 @@ International)
 
 112 
  
- 
- 
- 
- 
 Prescribed book(s): 
 1. S.M. Dugar, Commentary on MRTP Law, Competition Law & Consumer Protection Law, 4th 
 edition, Wadhwa Nagpur, (2006). 
@@ -4917,9 +4513,6 @@ Reuters (2019).
 ## Page 113
 
 113 
- 
- 
- 
  
 Program: B.Com. LL.B. Semester: VIII 
 Course Code: 21LCLC403 Course Title: Labour Law - I: Law Relating to Resolution of 
@@ -4977,9 +4570,6 @@ Unit III
 ## Page 114
 
 114 
- 
- 
- 
  
 3 Unit - III: The Industrial Disputes Act, 1947 Part II 
  Government’s power of reference u/s. 10: critical analysis with reference to 
@@ -5040,9 +4630,6 @@ o Definitions
 
 115 
  
- 
- 
- 
  o Provisions in re safety and welfare of worker 
 o Regulation of employment of women, children and young persons, 
 o Working conditions of employment 
@@ -5077,9 +4664,6 @@ Statutes:
 ## Page 116
 
 116 
- 
- 
- 
  
 Program: B.Com. LL.B. Semester: VIII 
 Course Code: 24LCLC401 Course Title: Law of Evidence 
@@ -5137,9 +4721,6 @@ facts within the special knowledge
 
 117 
  
- 
- 
- 
   Presumption - survivorship, death, ownership, good faith in transaction, 
 legitimacy of child, cruelty, abetment of suicide of married woman, dowry 
 death and rape 
@@ -5163,7 +4744,6 @@ Edition, 2024).
 11. Vepa P. Sarathi, Law of Evidence, Eastern Book Company, (7th Edition, 2018). 
 12. The 69th Law Commission of India Report, 1977. 
  
- 
 List of Statutes: 
 1. The Bharatiya Sakshya Adhiniyam, 2023 
 2. The Bharatiya Nagarik Suraksha Sanhita, 2023 
@@ -5171,9 +4751,6 @@ List of Statutes:
 ## Page 118
 
 118 
- 
- 
- 
  
 Program: B.Com. LL.B. Semester: VIII 
 Course Code: 21LCLT403 Course Title: OPTIONAL - III: Law of Insurance 
@@ -5228,16 +4805,10 @@ and procedure
 
 119 
  
- 
- 
  The Employees Compensation Act, 1923 and its nexus with The Motor 
 Vehicles Act, 1988 
  Settlement of disputes through alternative disputes resolution mechanisms 
 (ADR) 
- 
- 
- 
- 
  
 5 
 Unit - V: Marine Insurance 
@@ -5270,8 +4841,6 @@ References:
 ## Page 120
 
 120 
- 
- 
  
 Program: B.Com. LL.B. Semester: VIII 
 Course Code: 21LCLT404 Course Title: OPTIONAL - III: Investment Laws 
@@ -5326,8 +4895,6 @@ Unit V
 
 121 
  
- 
- 
 5 Unit - V: Overview of International Investment Law 
  International investment law: scope and importance 
  Sources of international investment law - treaties, customary international 
@@ -5351,7 +4918,6 @@ Law Publications, (2019).
 3. Dolzer, Rudolf and C. Schreuer, Principles of International Investment Law, Oxford 
 University Press, (3rd Edition, 2022). 
  
- 
 References: 
 1. Dr. Sudhanshu Kumar and Alok Verma, Guide to Capital Market and Securities Law, Mumbai: 
 Thomson Reuters (2021). 
@@ -5363,8 +4929,6 @@ Company, (2014).
 ## Page 122
 
 122 
- 
- 
  
 Program: B.Com. LL.B. Semester: VIII 
 Course Code: 21LCLP202 Course Title: CLINICAL COURSE - II: Alternative Dispute 
@@ -5418,8 +4982,6 @@ Unit IV
 ## Page 123
 
 123 
- 
- 
  
  voluntary, and compulsory 
  Qualities of a conciliator 
@@ -5476,9 +5038,6 @@ Statutes:
 
 124 
  
- 
- 
- 
 7. The Karnataka Civil Procedure (Mediation) Rules, 2005. 
 8. The Commercial Courts Act, 2015 
 9. The Commercial Courts (Pre-institution Mediation and Settlement) Rules, 2018 
@@ -5494,8 +5053,6 @@ Statutes:
 ## Page 125
 
 125 
- 
- 
  
 Program: B.Com. LL.B. Semester: VIII 
 Course Code: 21LCLL402 Course Title: Civil Law Practice Essentials 
@@ -5546,9 +5103,6 @@ References:
 
 126 
  
- 
- 
- 
 2. Practical Tips for Trial Attorneys: A Conversation with Judge James L. Kimbler (Retired) 
 2017, Sigel Press, (2016 Edition). 
 List of Acts and Rules: 
@@ -5559,8 +5113,6 @@ List of Acts and Rules:
 ## Page 127
 
 127 
- 
- 
  
 Program: B.Com. LL.B. Semester: VIII 
 Course Code: 21LCLL402 Course Title: ELECTIVE - II: Information Technology Law 
@@ -5616,9 +5168,6 @@ Data Protection Act, 2023; Electronic Signature; Public and Private Key
 
 128 
  
- 
- 
-   
 Prescribed Books: 
 1. Karnika Seth, Computers, Internet and New Technology Laws- A comprehensive reference 
 work with special focus on developments in India, Lexis Nexis, (3rd Edition, 2021). 
@@ -5638,8 +5187,6 @@ Harvard Journal of Law and Technology (1997).
 ## Page 129
 
 129 
- 
- 
  
 Program: B.Com. LL.B. Semester: VIII 
 Course Code: 21LCLE401 Course Title: ELECTIVE - II: International Commercial 
@@ -5695,9 +5242,6 @@ Press, (7th Editions, 2022).
 
 130 
  
- 
- 
- 
 5. Simon Roberts and Michael Palmer - Dispute Processes, ADR and the Primary Forms of 
 Decision-Making, Cambridge University Press, (2005). 
 6. Ashwinie K. Bansal – Arbitration: Procedure and Practice, LexisNexis, (1st Edition 2009). 
@@ -5705,8 +5249,6 @@ Decision-Making, Cambridge University Press, (2005).
 ## Page 131
 
 131 
- 
- 
  
 Program: B.Com. LL.B. Semester: VIII 
 Course Code: 21LCLE402 Course Title: ELECTIVE - II: Law of Insolvency and 
@@ -5761,9 +5303,6 @@ Prescribed Books:
 
 132 
  
- 
- 
- 
 4. The Law of Insolvency in India by Sir Dinshaw Fardunji Mulla and Aparna Ravi, LexisNexis, 
 (6th Edition). 
 Statutes: 
@@ -5775,8 +5314,6 @@ Interest Act, 2002
 ## Page 133
 
 133 
- 
- 
  
 Program: B.Com. LL.B. Semester: IX 
 Course Code: 21LALC501 Course Title: Law of Taxation 
@@ -5834,8 +5371,6 @@ of goods and/or services
 
 134 
  
- 
- 
   Tax Invoice 
  GST on Imports and exports 
  Benefits of GST to Trade, Industry, e-commerce and Service Sector 
@@ -5871,7 +5406,6 @@ Publications, (2019).
 3. Dolzer, Rudolf and C. Schreuer, Principles of international Investment Law, Oxford University Press, 
 Edition, 2022). 
  
- 
 References: 
 1. Dr. Sudhanshu Kumar and Alok Verma, Guide to Capital Market and Securities Law, Mumbai: 
 Thomson Reuters (2021). 
@@ -5882,8 +5416,6 @@ Thomson Reuters (2021).
 ## Page 135
 
 135 
- 
- 
  
 Program: B.Com. LL.B. Semester: IX 
 Course Code: 21LALC502 Course Title: Labour Law - II: Law Relating to Wages and 
@@ -5942,8 +5474,6 @@ Determination of amount of gratuity - authorities
 
 136 
  
- 
- 
   Features and Scheme of Protection of workers in the unorganized sector 
 under the Unorganised Worker’s Social Security Act, 2008 
  
@@ -5976,12 +5506,9 @@ Benefit, Wages, etc. Benefits under the Act - Inspectors
  An overview of the Code on Social Security, 2020 
 13 
  
-
 ## Page 137
 
 137 
- 
- 
  
 Program: B.Com. LL.B. Semester: IX 
 Course Code: 21LALT501 Course Title: OPTIONAL - IV: Intellectual Property Law - I 
@@ -6026,26 +5553,19 @@ matter
 agreement, Nice classification and TRIPS 
 13 
 Unit IV 
-4 Unit - IV: Copyright Law 
- Copyright – Meaning and subject matter 
  Authorship and ownership 
  Rights - Economic rights, moral rights, neighbouring rights 
  Doctrine of fair dealing 
  Term, assignment and licensing 
- Copyright societies 
 13 
 
 ## Page 138
 
 138 
  
- 
- 
   Infringement - protection of technological measures, liability of Internet 
 Service Providers and rights management system 
  Forums and remedies 
- International instruments - Berne Convention, Universal Copyright 
-Convention, WIPO Copyright Treaty, Rome Convention, Geneva Phonogram 
 Convention, WIPO Performances and Phonogram Treaty (WPPT), Brussels 
 Satellite Convention, Beijing Treaty on Audiovisual Performance 
  
@@ -6053,7 +5573,6 @@ Unit V
 5 Unit - V: Law of Designs and Semiconductor Integrated Circuits Layout Design 
  Protection of designs - Introduction, need and subject matter 
  Procedure for registration 
- Rights - Copyright in registered designs 
  Infringement 
  Semiconductor integrated circuits layout design – Meaning, scope and 
 importance 
@@ -6068,13 +5587,11 @@ Edition, 2020).
 2. V. K., Ahuja, Law Relating to Intellectual Property, New Delhi: LexisNexis, (3rd Edition, 2017). 
  
 References: 
-1. William Cornish, Intellectual Property: Patents, Copyright, Trademark and Allied Rights, 
 London: Sweet & Maxwell (2nd Edition, 1998). 
 2. B. L. Wadehra, Law Relating to Intellectual Property, New Delhi: Universal Law Publishing 
 Co., (5th Edition, 2016). 
 3. Prabuddha Ganguli, Intellectual Property Rights: Unleashed the Knowledge Economy, Mumb 
 Tata Mc Graw Hill Publishing Co., (2001). 
-4. Nicholas Caddick et (al)., Coppinger and Skone James, Copyright, U.K: Sweet & 
 Maxwell, (16th Edition, 2013). 
 5. Unni, Trade Marks and the Emerging concepts of Cyber Property Rights, New Delhi: Eastern 
 Law House, (2002). 
@@ -6082,8 +5599,6 @@ Law House, (2002).
 ## Page 139
 
 139 
- 
- 
  
 Program: B.Com. LL.B. Semester: IX 
 Course Code: 21LALT502 Course Title: OPTIONAL - IV: Socio-Economic Crimes 
@@ -6139,13 +5654,8 @@ Prescribed Books:
 
 140 
  
- 
- 
- 
 1. K.D. Gaur, Textbook on Socio Economic Offences, Gurgoan: LexisNexis Professional Books, 
 (2021). 
- 
- 
  
 References: 
 1. S.M. Afzal Qadri, Ahamed Siddique’s Criminology, Penology Hall, Jerome: General Principles of Criminal 
@@ -6157,8 +5667,6 @@ Law, Lucknow: Eastern Book Company, (2nd Edition, 1960).
 ## Page 141
 
 141 
- 
- 
  
 Program: B.Com. LL.B. Semester: IX 
 Course Code: 21LALP501 Course Title: CLINICAL COURSE - III: Drafting, Pleading and 
@@ -6205,13 +5713,9 @@ of India)
  Public Interest Litigation, statement of objections/reply statement 
 13 
  
-
 ## Page 142
 
 142 
- 
- 
- 
  
 Prescribed Books: 
 1. G.C. Mogha and S.N. Dhingra, Mogha’s Law of Pleading in India with Precedents, Kolkata: Eastern 
@@ -6234,8 +5738,6 @@ LexisNexis, Vol. 2, (15th Edition, 2021).
 ## Page 143
 
 143 
- 
- 
  
 Program: B.Com. LL.B. Semester: IX 
 Course Code: 21LALE501 Course Title: ELECTIVE - III: Energy Law 
@@ -6290,8 +5792,6 @@ Amendment Rules, 2024
 
 144 
  
- 
- 
  Solar Hybrid Policy, 2018  
 Unit V 
 5 Unit - V: Energy and Environment 
@@ -6329,8 +5829,6 @@ https://cdnbbsr.s3waas.gov.in/s3716e1b8c6cd17b771da77391355749f3/uploads/2022/12
 ## Page 145
 
 145 
- 
- 
  
 Program: B.Com. LL.B. Semester: IX 
 Course Code: 21LALL403 Course Title: Introduction to GenAI 
@@ -6384,8 +5882,6 @@ Unit V
 
 146 
  
- 
- 
   Build a tool that generates realistic legal case studies using GenAI. 
  Generate Legal Document Templates 
  Create a tool that uses GenAI to generate various legal document templates. 
@@ -6409,8 +5905,6 @@ Press, 2024).
 ## Page 147
 
 147 
- 
- 
  
 Program: B.Com. LL.B. Semester: IX 
 Course Code: 21LBLE501 Course Title: ELECTIVE - III: Corporate Restructuring 
@@ -6460,8 +5954,6 @@ Finance Bank
 ## Page 148
 
 148 
- 
- 
  
 Unit III 
 3 
@@ -6514,8 +6006,6 @@ Unit - V: Post-Merger Integration and Challenges
 
 149 
  
- 
- 
  ● Post-Merger Integration Challenges: 
 ○ Key Areas: Operational, Human Resources & Cultural integration, 
 Systems alignment 
@@ -6528,7 +6018,6 @@ Prescribed Books:
 Associates 
 2. Ramaiya, A. Guide to the Companies Act. LexisNexis. (Latest Edition). 
 3. Taxmann’s Company Law. Taxmann Publications Pvt. Ltd. (Latest Edition). 
- 
  
 References: 
 1. The Companies Act, 2013 (Relevant Sections) 
@@ -6543,8 +6032,6 @@ of India (RBI).
 ## Page 150
 
 150 
- 
- 
  
 Program: B.Com. LL.B. Semester: IX 
 Course Code: 21LBLE502 Course Title: ELECTIVE-III: Artificial Intelligence and Law 
@@ -6568,7 +6055,6 @@ Unit II
  Digital Personal Data Protection Act, 2023 – implications for AI 
  Bharatiya Nyaya Sanhita, 2023 – harms caused by AI 
  Patents Act, 1970 – AI-generated inventions 
- Copyright Act, 1957 – AI-generated works 
  Contract Act, 1872 – AI-generated contractual obligations 
  Competition Act, 2002 – abuse of dominance by AI-powered platforms 
 6 
@@ -6600,8 +6086,6 @@ Unit V
 
 151 
  
- 
- 
   Regulatory models - Sandbox approach, sectoral guidelines, AI oversight 
 bodies 
  AI Law in Mexico, EU, UK and USA – lessons for India 
@@ -6624,8 +6108,6 @@ Justice: Empowering India’s Legal Professionals with AI Tools and Techniques, 
 ## Page 152
 
 152 
- 
- 
  
 Program: B.Com. LL.B. Semester: IX 
 Course Code: 21LCLE501 Course Title: ELECTIVE - III: Aviation Law 
@@ -6669,8 +6151,6 @@ Unit IV
 
 153 
  
- 
- 
   Carrier liability for passenger injuries, death, baggage loss, cargo damage 
  Principles of strict liability and limitation of liability 
  Compensation mechanism under international and domestic law 
@@ -6700,8 +6180,6 @@ Publications, 2024.
 ## Page 154
 
 154 
- 
- 
  
 Program: B.Com. LL.B. Semester: IX 
 Course Code: 21LCLE502 Course Title: ELECTIVE - III: Maritime Law 
@@ -6744,8 +6222,6 @@ obligations
 
 155 
  
- 
- 
   The Multimodal Transportation of Goods Act, 1993: Regulation, registration 
 alnd liabilities of multimodal transport operators, rights and responsibilities 
 of consignors and consignees 
@@ -6787,8 +6263,6 @@ Watchkeeping for Seafarers
 
 156 
  
- 
- 
   Maritime Pollution: International Convention for Prevention of Pollution 
 from Ships (MARPOL Convention) 
  
@@ -6797,13 +6271,6 @@ Prescribed Books:
 2. Samareshwar Mahanty, Maritime Jurisdiction and Admiralty Law in India, Universal Law 
 Publishing, 2nd Ed., 2017. 
 3. Avtar Singh, Law of Carriage: Air, Land & Sea, Eastern Book Company, 5th Ed., 2015. 
- 
- 
- 
- 
- 
- 
- 
  
 References: 
 1. Pallab Das, Through the Lens of Maritime Law: A World View, Eastern Book Company, 1st Ed., 
@@ -6814,8 +6281,6 @@ References:
 ## Page 157
 
 157 
- 
- 
  
 Program: B.Com. LL.B. Semester: X 
 Course Code: 
@@ -6871,8 +6336,6 @@ Unit V
 
 158 
  
- 
- 
 5 UNIT - V: Contemporary Challenges 
 • Climate change – climate displacement 
 • Affordable and clean energy 
@@ -6899,8 +6362,6 @@ Swan, (2019).
 ## Page 159
 
 159 
- 
- 
  
 Program: B.Com. LL.B. Semester: X 
 Course Code: 
@@ -6954,8 +6415,6 @@ benefit sharing - Case studies
 
 160 
  
- 
- 
  • Authorities – National Biodiversity Authority, State Biodiversity Boards, 
 Biodiversity Management Committees 
 • Peoples Biodiversity Register 
@@ -6978,7 +6437,6 @@ Prescribed Books:
 References: 
 1. Elizabeth Verkey, Law of Plant Varieties Protection, New Delhi: Eastern Book Co., (1st Edition, 
 2007). 
-2. William Cornish, Intellectual Property: Patents, Copyright, Trademark and Allied Rights, London: 
 Sweet & Maxwell, (2nd Edition, 1998). 
 3. Prabuddha Ganguli, Intellectual Property Rights: Unleashed the knowledge Economy, Mumbai: Tata 
 Mc Graw Hill Publishing Co., (2001). 
@@ -6992,8 +6450,6 @@ Services, (2000).
 ## Page 161
 
 161 
- 
- 
  
 Program: B.Com. LL.B. Semester: X 
 Course Code: 
@@ -7049,8 +6505,6 @@ retributive
 
 162 
  
- 
- 
 Unit V 
 5 UNIT - V: Victimology 
  Victimology: Definition and nature 
@@ -7075,8 +6529,6 @@ Company, (6th Edition, 2003).
 ## Page 163
 
 163 
- 
- 
  
 Program: B.Com. LL.B. Semester: X 
 Course Code: 
@@ -7134,8 +6586,6 @@ Performance of International Contracts; Frustration of Contracts
 
 164 
  
- 
- 
   International Commercial Arbitration; UNCITRAL Model Law on International 
 Commercial Arbitration (1985); Anatomy of Arbitration Agreements; Subject Matter 
 of ICA; Choice of Forum and Law Rules; United Nations Convention on the Recognition 
@@ -7155,8 +6605,6 @@ Company, (6th Edition, 2003).
 ## Page 165
 
 165 
- 
- 
  
 Program: B.Com. LL.B. Semester: X 
 Course Code: 
@@ -7212,8 +6660,6 @@ o Registration of real estate project and registration of real estate agents,
 
 166 
  
- 
- 
  o Functions and duties of promoter, developer, Joint Development Agreement, 
 irrevocable power of attorney 
 o Rights and duties of allottees, 
@@ -7235,8 +6681,6 @@ References:
 ## Page 167
 
 167 
- 
- 
  
 Program: B.Com. LL.B. Semester: X 
 Course Code: 
@@ -7288,8 +6732,6 @@ preparation. This will carry 10 marks.
 
 168 
  
- 
- 
 Program: B.Com.LL.B Semester: X 
 Course Title: Infrastructure Law Course Code: 21LALE502 
 L-T-P: 1-0-1-0 Credits: 02  
@@ -7331,8 +6773,6 @@ declared by the Government and its Implementation
 
 169 
  
- 
- 
 UNIT-IV 
 Unit – IV: Power and Telecommunications Infrastructure Reforms and Policies 
  Power sector: evolution of the power sector reforms, polices, the Electricity Act, 2003, National 
@@ -7370,26 +6810,18 @@ Press.
 8. Anup Chatterjee, K. Narindar Jetli, Industry and Infrastructure Development in India 
 Publication Year: 2009. 
  
-
 ## Page 170
 
 170 
- 
- 
  
 9. N.Brega, Marcos, Trenn, Infrastructure in Emerging Markets, LAP Lambert Academic 
 Publishing. 
 10. Beverley’s Commentary on the Right to Fair Compensation and Transparency in Land 
 Acquisition, Rehabilitation and Resettlement Act, 2013, 11th Edition, Delhi Law House. 
  
-
 ## Page 171
 
 171 
- 
- 
- 
- 
  
 Program: B.Com.L.L.B Semester: X 
 Course Title: Healthcare Law Course Code: 21LALE503 
@@ -7426,8 +6858,6 @@ Euthanasia
 
 172 
  
- 
- 
 UNIT-IV 
 Unit - IV: Legal Framework Governing Law and Medicine 
  The Drugs and Cosmetics Act, 1940: Regulation of drugs and medical devices 
@@ -7463,26 +6893,18 @@ References:
 3. Dr Lily Srivastava, Law and Medicine, Universal Law Publishing Co., 2010. 
 4. K. Kannan, Medicine and Law, Oxford University Press, 2014. 
  
-
 ## Page 173
 
 173 
- 
- 
  
 5. Sairam Bhat & Binayak Sinha et. al., Healthcare in India: An Introduction to Law and 
 Legal System, Bloomsbury, 2016. 
 6. Surendra Malik & Sudeep Malik, Supreme Court on Drugs, Medical Laws and Medical 
 Negligence, Eastern Book Company, 2014. 
  
-
 ## Page 174
 
 174 
- 
- 
- 
- 
  
 Program: B.Com.L.L.B Semester: X 
 Course Title: Corporate Due Diligence Course Code: 21LBLE502 
@@ -7526,9 +6948,6 @@ balance sheet
 
 175 
  
- 
- 
-  
 UNIT-IV 
 UNIT IV: INTELLECTUAL PROPERTY DUE DILIGENCE 
  Importance, objectives and scope 
@@ -7558,8 +6977,6 @@ UNIT V: Environmental Due Diligence
 
 176 
  
- 
- 
 Prescribed Books: 
 1. Hemant K Batra, Due Diligence, Eastern Book Company, 2019. 
 2. B.D. Chatterjee, Practical Guide to Financial Due Diligence, Bloomsbury India, 2nd Ed., 
@@ -7571,13 +6988,10 @@ Technology, 2016.
 2. Peter Howson, Commercial Due Diligence: The Key to Understanding Value in an 
 Acquisition, Grower Publishing, 2015. 
  
-
 ## Page 177
 
 ←BACK TO SEMESTER IV 
 177 
- 
- 
  
 Program: B.Com.L.L.B Semester: X  
 Course Title: Contract Drafting and Interpretation Course Code: 21LBLE503  
@@ -7616,8 +7030,6 @@ j. Boilerplate clauses
 ←BACK TO SEMESTER IV 
 178 
  
- 
-  
 UNIT – III 
 UNIT III: DRAFTING RISK MANAGEMENT AND NEGOTIATION CLAUSES 
  Risk management in contracts 
@@ -7651,7 +7063,6 @@ Special Contracts
 ←BACK TO SEMESTER IV 
 179 
  
- 
 UNIT-V 
 UNIT V: INTERPRETATION OF CONTRACT 
  Unique interpretation of the terms of the contract 
@@ -7674,15 +7085,12 @@ Professionals, Business Law Seminar Group, 1st Ed., 2018.
 2. Aharon Barak, Purposive Interpretation in Law, Princeton University Press, 1st Ed., 2023. 
 3. Kush Kalra, Corporate Drafting & Commercial Agreements, Whitesmann Publishing Co, 1st 
 Ed., 2025. 
-4. Deborah Fosbrook, Contract and Copyright Drafting Skills, Bloomsbury Professional, 1st 
 Ed., 2016. 
  
-
 ## Page 180
 
 ←BACK TO SEMESTER IV 
 180 
- 
  
 Program: B.Com.L.L.B Semester: X 
 Course Title: Space Law Course Code: 21LCLE502 
@@ -7724,7 +7132,6 @@ UNIT 3: SPACE ACTIVITIES: RIGHTS, LIABILITIES, AND REGULATION
 ←BACK TO SEMESTER IV 
 181 
  
- 
 UNIT-IV 
 UNIT 4: COMMERCIALISATION OF SPACE ACTIVITIES 
  Privatisation and commercialisation of space missions 
@@ -7751,12 +7158,9 @@ Reddy, Asia Law House, 2nd Ed., 2016.
 2. Space Law: In the Era of Commercialisation, Sandeepa B. Bhat, Eastern Book Company, 
 1st Ed., 2014. 
  
-
 ## Page 182
 
 182 
- 
- 
  
 Program: B.Com.L.L.B Semes t←erB:AXCK TO SEMESTER IV  
 Course Title: Data Protection Law Course Code: 21LCLE503  
@@ -7807,7 +7211,6 @@ UNIT - IV: The Digital Personal Data Protection Act, 2023
 
 183 
  
- 
 ←BACK TO SEMESTER IV 
 UNIT-V 
 UNIT - V : Case Studies 
@@ -7828,5 +7231,4 @@ References :
 3. Byron Reese, The Fourth Age, Atria Publications, 2020. 
 4. Viktor Mayer-Schönberger, Kenneth Cukier, Big Data: A Revolution That Will Transform How We 
 Live, Work and Think (London: John Murray Publishers, 2013). 
- 
  

@@ -1,4 +1,5 @@
 # PDF Document: KLE-TECH-Annual-Report-2016-17
+
 **PDF Source:** https://www.kletech.ac.in/pdf/KLE-TECH-Annual-Report-2016-17.pdf
 
 ## Page 1
@@ -7,7 +8,6 @@
 www.kletech.ac.in
 ANNUAL
 Report
-
 
 ## Page 2
 
@@ -99,7 +99,6 @@ We would like to extend our sincere thanks to our faculty, staff, students, alum
 their continued support and remarkable contributions. Looking ahead, we will continue to work towards 
 realizing our vision to be a leader in engineering education, and advancing research and innovation to 
 support socio-economic development of the region.
-
 
 ## Page 5
 
@@ -204,7 +203,6 @@ records of qualifying examinations.
 Common Entrance Test (PGCET) conducted 
 by Karnataka examination authority, is used 
 for the selection of students.
-
 
 ## Page 7
 
@@ -339,7 +337,6 @@ improvement that strengthens our academic
 quality and inspires student achievement.
 Academic Quality
 
-
 ## Page 10
 
 8   | KLE Tech
@@ -413,7 +410,6 @@ to provide an orderly process for organizing an ill-structured design activity i
 decisions and trade-offs among possibly competing solutions.
 During the first academic year 2016-17 following are the major academic initiatives undertaken to 
 improvise the teaching and learning process.
-
 
 ## Page 12
 
@@ -842,7 +838,6 @@ startups at KLE-CTIE. disciplines to achieve a common
 goal, second is, to understand the design/product hand 
 off stages between various development phases.
 
-
 ## Page 22
 
 20   | KLE Tech
@@ -876,7 +871,6 @@ attended the session.
 This workshop was followed by one on one mentoring session completely focused on early stage startups. 
 Total 12 startups attended the Session which was highly appreciated and received good feedback by the 
 attendees. 
-
 
 ## Page 23
 
@@ -1014,7 +1008,6 @@ CNC Laser Cutting Machine
 3D Printer 
  Cubepro 3D Printers (2 Nos.)
 
-
 ## Page 27
 
   www.kletech.ac.in  |  25 
@@ -1027,7 +1020,6 @@ Drilling Machine Surface Grinder Universal Tool & Cutter
 Grinding Machine
 Universal Cylindrical Grinding 
 Machine
-
 
 ## Page 28
 
@@ -1100,7 +1092,6 @@ United Heat Transfer 4
 Walmart Labs 10
 Various Biotech Companies 23
 
-
 ## Page 29
 
   www.kletech.ac.in  |  27 
@@ -1171,7 +1162,6 @@ learning and assessment through training, workshop and allied activities
 4. Conduct outreach activities like  publication,  workshops, trainings and conferences
 Background:
 
-
 ## Page 31
 
   www.kletech.ac.in  |  29 
@@ -1212,7 +1202,6 @@ Tech, Mr . Vineeth, Ms. Vinuta, Ms. Sushma and Mr .
 Sumedh under the guidance of Prof. Kaushik M and Mr . 
 Raghuraja Adi. This year’s event was held at R V College 
 of Engineering, Bengaluru during 26th - 28th May 2017 
-
 
 ## Page 32
 
@@ -1350,8 +1339,6 @@ research and frame research questions
 3. Increase Team motivation by engaging in team building 
 activities
  
-
-
 ## Page 36
 
 34   | KLE Tech
@@ -1366,7 +1353,6 @@ The Department of Biotechnology of KLE Tech has been chosen as one of  the host 
 to run its flagship BiSEP programme for the Fermentation and Bioprocess domain.
 Recognitions
 
-
 ## Page 37
 
   www.kletech.ac.in  |  35 
@@ -1377,7 +1363,6 @@ Continuing our efforts to develop ambient green campus, new landscape projects w
 new landscape focuses on creating informal interaction space for the students in the campus.
 School of Electronics & Communication Engineering
 Musical Fountain
-
 
 ## Page 38
 
@@ -1463,7 +1448,6 @@ and text output understood by all.
 The objective of the competition was to design, fabricate and develop a completely electric All-Terrain 
 Vehicle (ATV) which can withstand the harshest elements. The student made vehicles were tested in very 
 difficult track and rough terrain.
-
 
 ## Page 40
 
@@ -1586,7 +1570,6 @@ Dean - Planning & Development
 Dr . Uma Mudenagudi
 Dean - Research & Development
 
-
 ## Page 43
 
   www.kletech.ac.in  |  41 
@@ -1635,7 +1618,6 @@ Mechanical
 ## Page 44
 
 Campus Snapshots
-
 
 ## Page 45
 

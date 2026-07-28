@@ -1,44 +1,18 @@
 # PDF Document: bca-curricullum-structure-contents-2022-25-batch
+
 **PDF Source:** https://www.kletech.ac.in/pdf/bca-curricullum-structure-contents-2022-25-batch.pdf
 
 ## Page 1
 
- 
- 
 FMCD2009 / 2.0 
  1 
- 
- 
- 
- 
-  
- 
  
 Curriculum Structure and Curriculum Content for the Batch: 2022-25 
 Department: Department of Computer Applications 
 Program: Bachelor of Computer Applications 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 2
 
- 
- 
 FMCD2009 / 2.0 
  2 
 Table of Contents 
@@ -57,16 +31,8 @@ Semester- VI ...................................................................
 List of Program Electives..................................................................................................... 14 
 Curriculum Content- Course wise ................................................................................. 15-113 
  
- 
- 
- 
- 
-  
-
 ## Page 3
 
- 
- 
 FMCD2009 / 2.0 
  3 
  
@@ -74,11 +40,9 @@ Vision and Mission of KLE Technological University
  
 Vision 
  
- 
 KLE Technological University will be a national leader in Higher Education –recognised 
 globally for innovative culture, outstanding student experience, research excellence and 
 social impact. 
- 
  
 Mission 
  
@@ -102,12 +66,8 @@ life.
 As a unified community of faculty, staff and students, we work together with the spirit of 
 collaboration and partnership to accomplish our mission. 
  
-  
-
 ## Page 4
 
- 
- 
 FMCD2009 / 2.0 
  4 
  
@@ -131,21 +91,8 @@ students to achieve academic and professional growth.
 entrepreneurship, and professional activities in the field of Computer 
 Science and its Applications. 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
-
 ## Page 5
 
- 
- 
 FMCD2009 / 2.0 
  5 
 Program Educational Objectives/Program Outcomes and Program-Specific Objectives 
@@ -195,8 +142,6 @@ PO 11: Individual and team work: Function effectively as an individual, and as a
 
 ## Page 6
 
- 
- 
 FMCD2009 / 2.0 
  6 
 or leader in diverse teams, and in multidisciplinary environments. 
@@ -211,15 +156,11 @@ PSO 2: Professional Competency: Apply computing concepts, skills and processes t
 produce a product/project in the domain demonstrating professional knowledge and 
 attitude. 
  
-
 ## Page 7
 
- 
- 
 FMCD2009 / 2.0 
  7 
 Curriculum Structure-Overall 
- 
  
 Semester: I to VI                                                                                                                                   Total Program Credits: 132 Year : 2022-25 
 Course with course code 
@@ -233,10 +174,8 @@ Structures (22EBCB102)
 Applied Statistics 
 (22EBCB201) 
  
- 
 Programming with C# and .Net 
 (22EBCC204) 
- 
  
 Cloud Computing 
 (22EBCC301) 
@@ -331,8 +270,6 @@ Credits 23 22 22 22 25 18
 
 ## Page 8
 
- 
- 
 FMCD2009 / 2.0 
  8 
 Curriculum Structure-Semester wise 
@@ -357,8 +294,6 @@ Date:                 Program Head
 
 ## Page 9
 
- 
- 
 FMCD2009 / 2.0 
  9 
  
@@ -381,11 +316,8 @@ ISA: In Semester Assessment  ESA: End Semester Assessment  L: Lecture   T: Tutor
  
 Date:                 Program Head 
  
-
 ## Page 10
 
- 
- 
 FMCD2009 / 2.0 
  10 
 Semester- III 
@@ -412,14 +344,8 @@ ISA: In Semester Assessment  ESA: End Semester Assessment  L: Lecture   T: Tutor
  
 Date:                 Program Head 
  
- 
- 
- 
-
 ## Page 11
 
- 
- 
 FMCD2009 / 2.0 
  11 
  
@@ -448,12 +374,8 @@ Date:                 Program Head
 
 ## Page 12
 
- 
- 
 FMCD2009 / 2.0 
  12 
- 
- 
  
 Semester- V 
 No Code Course Category L-T-P Credits Contact 
@@ -474,12 +396,8 @@ ISA: In Semester Assessment  ESA: End Semester Assessment  L: Lecture   T: Tutor
  
 Date:                 Program Head 
  
- 
-
 ## Page 13
 
- 
- 
 FMCD2009 / 2.0 
  13 
  
@@ -500,16 +418,11 @@ ISA: In Semester Assessment  ESA: End Semester Assessment  L: Lecture   T: Tutor
  
 Date:                 Program Head 
  
- 
- 
 Semester I II III IV V VI Total 
 Credits 23 22 22 22 25 18 132 
  
-
 ## Page 14
 
- 
- 
 FMCD2009 / 2.0 
  14 
 List of Program Electives 
@@ -538,13 +451,8 @@ Data Analytics and Machine Learning
 5 Generative Language Modelling 22EBCE317 
 6 Neural Networks and Deep Learning 22EBCE318 
  
- 
- 
-
 ## Page 15
 
- 
- 
 FMCD2009 / 2.0 
  15 
 Curriculum Content- Course wise 
@@ -593,8 +501,6 @@ study.
 
 ## Page 16
 
- 
- 
 FMCD2009 / 2.0 
  16 
 Text Books  
@@ -614,22 +520,8 @@ Deo, PHI publications (1986).
  
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 17
 
- 
- 
 FMCD2009 / 2.0 
  17 
 Program:  Bachelor of Computer Applications Semester - I 
@@ -684,8 +576,6 @@ modifying data, Handling errors, Building a Login form.  05 hrs
 
 ## Page 18
 
- 
- 
 FMCD2009 / 2.0 
  18 
 7 
@@ -706,26 +596,8 @@ Reference Books:
 . 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 19
 
- 
- 
 FMCD2009 / 2.0 
  19 
  
@@ -781,8 +653,6 @@ applications, A simple microcontroller.
 
 ## Page 20
 
- 
- 
 FMCD2009 / 2.0 
  20 
 Text Books: 
@@ -793,41 +663,8 @@ Reference Books:
 . 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 21
 
- 
- 
 FMCD2009 / 2.0 
  21 
 Program:  Bachelor of Computer Applications Semester - I 
@@ -888,8 +725,6 @@ writing string to screen, arithmetic operations on characters, putting
 
 ## Page 22
 
- 
- 
 FMCD2009 / 2.0 
  22 
 strings together, comparison of two strings, string handling functions, 
@@ -938,8 +773,6 @@ free, altering the size of a block: realloc, programming examples.
 
 ## Page 23
 
- 
- 
 FMCD2009 / 2.0 
  23 
 Text Books: 
@@ -953,37 +786,8 @@ Holistic approach to Learning  C  with C 2nd Edition PHI,2010.
 . 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 24
 
- 
- 
 FMCD2009 / 2.0 
  24 
 Program:  Bachelor of Computer Applications Semester - I 
@@ -1018,7 +822,6 @@ L-T-P: 0-0-1.5 Credits: 1.5 Contact Hours: 3hrs/week
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
 Teaching Hours: -- Tutorial/Practical: 36 Exam Duration: 3hrs 
  
- 
 Expt 
 No. 
 Lab assignments/experiment  
@@ -1027,8 +830,6 @@ Lab assignments/experiment
 
 ## Page 25
 
- 
- 
 FMCD2009 / 2.0 
  25 
 4-5 Client side scripting using JavaScript  
@@ -1043,39 +844,8 @@ Exercise programs on Client side scripting using JavaScript
  
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 26
 
- 
- 
 FMCD2009 / 2.0 
  26 
 Program:  Bachelor of Computer Applications Semester – I 
@@ -1083,7 +853,6 @@ Course Title: IT Skills Development Practices Course Code: 22EBCP103
 L-T-P: 0-0-1 Credits: 1 Contact Hours: 2hrs/week 
 ISA Marks: 100 ESA Marks: -- Total Marks: 100 
 Teaching Hours: 50 Tutorial/Practical: -- Exam Duration: -- 
- 
  
 Expt 
 No. 
@@ -1116,18 +885,8 @@ Current industry trends and IT scenarios
 . 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 27
 
- 
- 
 FMCD2009 / 2.0 
  27 
 Program:  Bachelor of Computer Applications Semester – I 
@@ -1184,11 +943,8 @@ Paragraph Development.
 Introduction, Steps to effective precise writing.  
 Unit III 
  
-
 ## Page 28
 
- 
- 
 FMCD2009 / 2.0 
  28 
 11 
@@ -1214,27 +970,8 @@ Reference Books:
 . 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 29
 
- 
- 
 FMCD2009 / 2.0 
  29 
 Semester II 
@@ -1287,8 +1024,6 @@ groups.
 
 ## Page 30
 
- 
- 
 FMCD2009 / 2.0 
  30 
 Text Books: 
@@ -1308,33 +1043,8 @@ Reference Books:
 . 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 31
 
- 
- 
 FMCD2009 / 2.0 
  31 
 Program:  Bachelor of Computer Applications Semester – II 
@@ -1396,8 +1106,6 @@ control, Revocation of access rights.
 
 ## Page 32
 
- 
- 
 FMCD2009 / 2.0 
  32 
 Text Books: 
@@ -1410,40 +1118,8 @@ Hill, 2002
 . 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 33
 
- 
- 
 FMCD2009 / 2.0 
  33 
 Program:  Bachelor of Computer Applications Semester – II 
@@ -1499,11 +1175,8 @@ Inheritance and Program Development
 06 hrs 
 Unit III 
  
-
 ## Page 34
 
- 
- 
 FMCD2009 / 2.0 
  34 
 7 
@@ -1531,30 +1204,8 @@ edition (October 28, 2011)
  
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 35
 
- 
- 
 FMCD2009 / 2.0 
  35 
 Program:  Bachelor of Computer Applications Semester – II 
@@ -1607,8 +1258,6 @@ Testing.
 
 ## Page 36
 
- 
- 
 FMCD2009 / 2.0 
  36 
 Text Books: 
@@ -1621,38 +1270,8 @@ Reference Books:
 . 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 37
 
- 
- 
 FMCD2009 / 2.0 
  37 
  
@@ -1712,8 +1331,6 @@ Sort, Merge Sort.                                                               
 
 ## Page 38
 
- 
- 
 FMCD2009 / 2.0 
  38 
 7 
@@ -1732,36 +1349,8 @@ Asia, 1997.
 . 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 39
 
- 
- 
 FMCD2009 / 2.0 
  39 
 Program:  Bachelor of Computer Applications Semester – II 
@@ -1788,25 +1377,8 @@ streams.
 . 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 40
 
- 
- 
 FMCD2009 / 2.0 
  40 
 Program:  Bachelor of Computer Applications Semester – II 
@@ -1837,20 +1409,8 @@ Airline Reservations System.
 . 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 41
 
- 
- 
 FMCD2009 / 2.0 
  41 
 Program:  Bachelor of Computer Applications Semester – II 
@@ -1895,20 +1455,8 @@ Resources. How to Use GIMP , JavaTpoint GIMP Resources.
 . 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 42
 
- 
- 
 FMCD2009 / 2.0 
  42 
 Semester- III 
@@ -1965,8 +1513,6 @@ with ANOVA approach 04 hrs
 
 ## Page 43
 
- 
- 
 FMCD2009 / 2.0 
  43 
 Text Books  
@@ -1985,35 +1531,8 @@ Scientists.
 . 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 44
 
- 
- 
 FMCD2009 / 2.0 
  44 
 Program:  Bachelor of Computer Applications Semester – III 
@@ -2070,8 +1589,6 @@ tool.   1
 
 ## Page 45
 
- 
- 
 FMCD2009 / 2.0 
  45 
 6 Investigating Ethernet protocol and ARP with Wireshark tool. 1 
@@ -2094,33 +1611,8 @@ Reference Books:
 . 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 46
 
- 
- 
 FMCD2009 / 2.0 
  46 
 Program:  Bachelor of Computer Applications Semester – III 
@@ -2183,8 +1675,6 @@ Injections, SQL Attacks.
 
 ## Page 47
 
- 
- 
 FMCD2009 / 2.0 
  47 
 Text Books  
@@ -2201,37 +1691,8 @@ Edition, McGraw-Hill, 2003.
 . 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 48
 
- 
- 
 FMCD2009 / 2.0 
  48 
 Program:  Bachelor of Computer Applications Semester – III 
@@ -2291,8 +1752,6 @@ Methods.
 
 ## Page 49
 
- 
- 
 FMCD2009 / 2.0 
  49 
 7 
@@ -2312,36 +1771,8 @@ Third edition (1 June 2022).
 . 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 50
 
- 
- 
 FMCD2009 / 2.0 
  50 
 Program:  Bachelor of Computer Applications Semester – III 
@@ -2404,8 +1835,6 @@ v) Solving simple, complex and nested queries on the database.
 
 ## Page 51
 
- 
- 
 FMCD2009 / 2.0 
  51 
 . 
@@ -2441,7 +1870,6 @@ MongoDB
 Introducing MongoDB, Key features of MongoDB, MongoDB shell, 
 MongoDB databases, MongoDB collections, MongoDB CRUD operations
   
- 
 08 hrs 
 Text Books :  
  
@@ -2457,16 +1885,8 @@ development problems”, 2nd Edition, 2019
  
 Back 
  
- 
- 
- 
- 
- 
-
 ## Page 52
 
- 
- 
 FMCD2009 / 2.0 
  52 
 Program:  Bachelor of Computer Applications Semester – III 
@@ -2518,16 +1938,8 @@ Reference Books:
  
 Back 
  
- 
- 
- 
- 
- 
-
 ## Page 53
 
- 
- 
 FMCD2009 / 2.0 
  53 
  
@@ -2558,26 +1970,10 @@ Unit III
 Reference Books:  
 1. https://www.indiabix.com/general-knowledge/questions-and-answers/ 
  
- 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 54
 
- 
- 
 FMCD2009 / 2.0 
  54 
  
@@ -2630,11 +2026,8 @@ Implementation.
 05 hrs 
 Unit III 
  
-
 ## Page 55
 
- 
- 
 FMCD2009 / 2.0 
  55 
 6 
@@ -2667,26 +2060,8 @@ Apress, Troelsen, Andrew, Japikse, Philip, 10 editions.
 . 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 56
 
- 
- 
 FMCD2009 / 2.0 
  56 
  
@@ -2736,8 +2111,6 @@ Naïve Bayesian 3
 
 ## Page 57
 
- 
- 
 FMCD2009 / 2.0 
  57 
 Text Books  
@@ -2754,37 +2127,8 @@ PyTorch Manning Publications, 2020
 . 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 58
 
- 
- 
 FMCD2009 / 2.0 
  58 
 Program:  Bachelor of Computer Applications Semester –IV 
@@ -2835,13 +2179,8 @@ Reference Books:
 . 
 Back 
  
- 
- 
-
 ## Page 59
 
- 
- 
 FMCD2009 / 2.0 
  59 
 Program:  Bachelor of Computer Applications Semester –IV 
@@ -2890,8 +2229,6 @@ Flipkart Ecommerce Site.
 
 ## Page 60
 
- 
- 
 FMCD2009 / 2.0 
  60 
 5 Banking Site 
@@ -2919,28 +2256,8 @@ Reference Books:
 . 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 61
 
- 
- 
 FMCD2009 / 2.0 
  61 
 Program:  Bachelor of Computer Applications Semester –IV 
@@ -2988,11 +2305,8 @@ Students are asked to make a team of 3 -4 members and can choose the different
 categories of projects like desktop applications, web applications, mobile applications, and 
 distributed applications and work once it is approved by the coordinator . 
  
-
 ## Page 62
 
- 
- 
 FMCD2009 / 2.0 
  62 
 Expt 
@@ -3035,21 +2349,10 @@ Materials and Resources Required:
 . 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 63
 
- 
- 
 FMCD2009 / 2.0 
  63 
- 
  
 Program:  Bachelor of Computer Applications Semester –IV 
 Course Title: Professional Aptitude and Logical Reasoning Course Code: 23EHSC201 
@@ -3086,7 +2389,6 @@ type
 questions-
 30 Nos * 
  
- 
 Objective  
 type  
 questions-50 
@@ -3107,12 +2409,8 @@ Reference Books:
 . 
 Back 
  
- 
-
 ## Page 64
 
- 
- 
 FMCD2009 / 2.0 
  64 
 Program:  Bachelor of Computer Applications Semester -IV 
@@ -3140,26 +2438,8 @@ Reference Books:
 . 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 65
 
- 
- 
 FMCD2009 / 2.0 
  65 
  
@@ -3217,8 +2497,6 @@ computing.
 
 ## Page 66
 
- 
- 
 FMCD2009 / 2.0 
  66 
 Text Books  
@@ -3234,28 +2512,8 @@ Approach, McGraw Hil, 2017
 . 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 67
 
- 
- 
 FMCD2009 / 2.0 
  67 
 Program:  Bachelor of Computer Applications Semester - V 
@@ -3313,8 +2571,6 @@ Application.
 
 ## Page 68
 
- 
- 
 FMCD2009 / 2.0 
  68 
 Text Books  
@@ -3327,29 +2583,8 @@ Reference Books:
 . 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 69
 
- 
- 
 FMCD2009 / 2.0 
  69 
 Program:  Bachelor of Computer Applications Semester - V 
@@ -3399,8 +2634,6 @@ data, Case studies and real-world applications.
 
 ## Page 70
 
- 
- 
 FMCD2009 / 2.0 
  70 
 Text Books:  
@@ -3417,28 +2650,8 @@ Colleen Mccue , Elsevier, 2007
 . 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 71
 
- 
- 
 FMCD2009 / 2.0 
  71 
 Program:  Bachelor of Computer Applications Semester - V 
@@ -3500,8 +2713,6 @@ Digital forensics case illustrations Online Scams.
 
 ## Page 72
 
- 
- 
 FMCD2009 / 2.0 
  72 
 Text Books:  
@@ -3515,29 +2726,8 @@ Publication. 2009.
 . 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 73
 
- 
- 
 FMCD2009 / 2.0 
  73 
 Program:  Bachelor of Computer Applications Semester - V 
@@ -3597,8 +2787,6 @@ Asynchronous Programming.
 
 ## Page 74
 
- 
- 
 FMCD2009 / 2.0 
  74 
 6 
@@ -3621,26 +2809,8 @@ applications by Simone Alessandria.
 . 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 75
 
- 
- 
 FMCD2009 / 2.0 
  75 
 Program:  Bachelor of Computer Applications Semester - V 
@@ -3692,8 +2862,6 @@ based
 
 ## Page 76
 
- 
- 
 FMCD2009 / 2.0 
  76 
  
@@ -3702,33 +2870,8 @@ and apply machine learning algorithms to process and derive insights from the da
 . 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 77
 
- 
- 
 FMCD2009 / 2.0 
  77 
 VI semester 
@@ -3772,8 +2915,6 @@ Back
 
 ## Page 78
 
- 
- 
 FMCD2009 / 2.0 
  78 
 Program:  Bachelor of Computer Applications Semester - VI 
@@ -3796,24 +2937,8 @@ internship are responsible to find a company on their own for the Training.
 . 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 79
 
- 
- 
 FMCD2009 / 2.0 
  79 
 Program:  Bachelor of Computer Applications Semester - VI 
@@ -3831,27 +2956,8 @@ are responsible to find a company on their own.
 . 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 80
 
- 
- 
 FMCD2009 / 2.0 
  80 
 Elective Groups- Cyber Security 
@@ -3900,11 +3006,8 @@ Techno-legal challenges form hand-held devices Guidelines.
 08 hrs 
 Unit III 
  
-
 ## Page 81
 
- 
- 
 FMCD2009 / 2.0 
  81 
 5 
@@ -3928,25 +3031,8 @@ Publication. 2009
 . 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 82
 
- 
- 
 FMCD2009 / 2.0 
  82 
 Program:  Bachelor of Computer Applications Semester – V /VI 
@@ -3991,8 +3077,6 @@ Integration of security tools into incident response processes;  05 hrs
 
 ## Page 83
 
- 
- 
 FMCD2009 / 2.0 
  83 
 Text Books:  
@@ -4013,25 +3097,8 @@ Joseph Muniz, Gary McIntyre, and Nadhem AlFardan
 . 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 84
 
- 
- 
 FMCD2009 / 2.0 
  84 
 Program:  Bachelor of Computer Applications Semester – V /VI 
@@ -4090,11 +3157,8 @@ Understanding social engineering tactics;Phishing attacks and
 countermeasures 
 Physical security assessment techniques 
  
-
 ## Page 85
 
- 
- 
 FMCD2009 / 2.0 
  85 
 Text Books:  
@@ -4111,27 +3175,8 @@ https://www.tutorialspoint.com/ethical_hacking/index.htm
 . 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 86
 
- 
- 
 FMCD2009 / 2.0 
  86 
 Program:  Bachelor of Computer Applications Semester – V /VI 
@@ -4189,8 +3234,6 @@ Back
 
 ## Page 87
 
- 
- 
 FMCD2009 / 2.0 
  87 
  
@@ -4240,8 +3283,6 @@ driving), Network Forensics, Mobile Forensics, Cloud Forensics. 05 hrs
 
 ## Page 88
 
- 
- 
 FMCD2009 / 2.0 
  88 
 Text Books:  
@@ -4258,27 +3299,8 @@ Elsevier 2007
 . 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 89
 
- 
- 
 FMCD2009 / 2.0 
  89 
 Program:  Bachelor of Computer Applications Semester – V /VI 
@@ -4335,11 +3357,8 @@ detection, analysis, containment, eradication, and recovery.
 08 hrs 
 Unit III 
  
-
 ## Page 90
 
- 
- 
 FMCD2009 / 2.0 
  90 
 6 Cryptography: Objectives, Type, OS Encryption, Public key Cryptography 04 hrs 
@@ -4372,22 +3391,8 @@ Network Security, TMH 2014
 . 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 91
 
- 
- 
 FMCD2009 / 2.0 
  91 
 Elective Groups- Software Engineering 
@@ -4443,8 +3448,6 @@ Sortable Table, Radial Table, Multi-Y Graph, Small Multiples, Treemap.
 
 ## Page 92
 
- 
- 
 FMCD2009 / 2.0 
  92 
 7 
@@ -4464,27 +3467,8 @@ New Riders, 2011.
 . 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 93
 
- 
- 
 FMCD2009 / 2.0 
  93 
 Program:  Bachelor of Computer Applications Semester – V /VI 
@@ -4534,11 +3518,8 @@ Keywords
 08 hrs 
 Unit III 
  
-
 ## Page 94
 
- 
- 
 FMCD2009 / 2.0 
  94 
 5 
@@ -4571,22 +3552,8 @@ Rastogi, Todd Miranda, and Scott Hanselman, 2016.
 . 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 95
 
- 
- 
 FMCD2009 / 2.0 
  95 
 Program:  Bachelor of Computer Applications Semester – V/VI 
@@ -4646,8 +3613,6 @@ Asynchronous Programming.
 
 ## Page 96
 
- 
- 
 FMCD2009 / 2.0 
  96 
 6 
@@ -4670,25 +3635,8 @@ applications by Simone Alessandria.
 . 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 97
 
- 
- 
 FMCD2009 / 2.0 
  97 
 Program:  Bachelor of Computer Applications Semester – V/VI 
@@ -4739,8 +3687,6 @@ Regression tests, Test automation.
 
 ## Page 98
 
- 
- 
 FMCD2009 / 2.0 
  98 
 Text Books:  
@@ -4761,26 +3707,8 @@ Addison-Wesley
 . 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 99
 
- 
- 
 FMCD2009 / 2.0 
  99 
 Program:  Bachelor of Computer Applications Semester – V/VI 
@@ -4837,8 +3765,6 @@ Patterns.
 
 ## Page 100
 
- 
- 
 FMCD2009 / 2.0 
  100 
 6 
@@ -4858,27 +3784,8 @@ https://www.coursera.org/course/softwaresec
 . 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 101
 
- 
- 
 FMCD2009 / 2.0 
  101 
 Program:  Bachelor of Computer Applications Semester – V/VI 
@@ -4935,11 +3842,8 @@ Architecture of the ATM system as the example.
 06 hrs 
 Unit III 
  
-
 ## Page 102
 
- 
- 
 FMCD2009 / 2.0 
  102 
 6 
@@ -4974,27 +3878,8 @@ Johnson, J. Vlissides, Addison-Wesley, 1995.
 . 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 103
 
- 
- 
 FMCD2009 / 2.0 
  103 
 Elective Group - Data Analytics and Machine Learning 
@@ -5055,8 +3940,6 @@ of visualizations.
 
 ## Page 104
 
- 
- 
 FMCD2009 / 2.0 
  104 
 Text Books:  
@@ -5072,38 +3955,8 @@ Reference Books:
 . 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 105
 
- 
- 
 FMCD2009 / 2.0 
  105 
 Program:  Bachelor of Computer Applications Semester – V/VI 
@@ -5154,8 +4007,6 @@ IoT project development, Presentation and documentation
 
 ## Page 106
 
- 
- 
 FMCD2009 / 2.0 
  106 
 Text Books:  
@@ -5173,36 +4024,8 @@ Adam Dunkels
 . 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 107
 
- 
- 
 FMCD2009 / 2.0 
  107 
  
@@ -5245,8 +4068,6 @@ generation techniques (e.g., Markov chains, LSTM)
 
 ## Page 108
 
- 
- 
 FMCD2009 / 2.0 
  108 
 Text Books:  
@@ -5263,37 +4084,8 @@ Benjamin/Cummingspublishing company, 1995.
 . 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 109
 
- 
- 
 FMCD2009 / 2.0 
  109 
 Program:  Bachelor of Computer Applications Semester – V/VI 
@@ -5343,8 +4135,6 @@ Network: A Methodological and Empirical Study
 
 ## Page 110
 
- 
- 
 FMCD2009 / 2.0 
  110 
 Text Books:  
@@ -5365,33 +4155,8 @@ connections on the social  web, 1st Edition, O’Reilly Media, 2011.
 . 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 111
 
- 
- 
 FMCD2009 / 2.0 
  111 
 Program:  Bachelor of Computer Applications Semester – V/VI 
@@ -5446,11 +4211,8 @@ Reference Books:
 . 
 Back 
  
-
 ## Page 112
 
- 
- 
 FMCD2009 / 2.0 
  112 
 Program:  Bachelor of Computer Applications Semester – V/VI 
@@ -5505,8 +4267,6 @@ Generation, Image Compression,
 
 ## Page 113
 
- 
- 
 FMCD2009 / 2.0 
  113 
 6 

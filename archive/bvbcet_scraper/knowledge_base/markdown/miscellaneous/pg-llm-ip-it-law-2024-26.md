@@ -1,24 +1,10 @@
 # PDF Document: pg-llm-ip-it-law-2024-26
+
 **PDF Source:** https://www.kletech.ac.in/pdf/pg-llm-ip-it-law-2024-26.pdf
 
 ## Page 1
 
- 
 1  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Curriculum Structure and Content for the Academic Batch 2024-26 
 Law Programs 
@@ -26,9 +12,7 @@ Program: LL.M. IP & IT Law
 
 ## Page 2
 
- 
 2  
- 
  
 Table of Contents 
 Vision and Mission of KLE Technological University .............................................................................. 3 
@@ -44,7 +28,6 @@ Semester- IV ...................................................................
 
 ## Page 3
 
- 
 3  
 Vision and Mission of KLE Technological University 
  
@@ -74,7 +57,6 @@ collaboration and partnership to accomplish our mission.
 
 ## Page 4
 
- 
 4  
 Vision and Mission Statements of the KLE Law College 
   
@@ -96,40 +78,8 @@ with the common man as the focal point.
 morally exalted individuals with the values of love, truth, service, and sacrifice. 
  To promote research culture and nurture innovative ideas among the faculty and students 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 5
 
- 
 5  
 Program Educational Objectives/Program Outcomes and Program-Specific Objectives 
  
@@ -171,9 +121,7 @@ accountability in all professional and academic engagements.
 
 ## Page 6
 
- 
 6  
- 
  
 PO9. Individual and Teamwork:  Graduates will function effectively as individuals and 
 collaborate as team members in multidisciplinary and multicultural settings. 
@@ -195,10 +143,8 @@ PSO3 – Engagement with Contemporary Constitutional Challenges:  Graduates will
 with evolving constitutional issues such as federalism, secularism, and constitutional morality 
 through academic and policy research. 
  
-
 ## Page 7
 
- 
 7  
 Curriculum Structure-Overall 
  
@@ -206,8 +152,6 @@ Semester: 1 to 4 (2024-26 Batch)                                                
 Program Credits: 64 
 Course with 
 Course Code 
- 
-  
  
 I II III IV 
 Judicial Process and Law-Making 
@@ -243,7 +187,6 @@ Property
 Legal Theory and Philosophy 
 (22LLIC103) 
 Specialisation Course – 2: 
-Copyrights: Law and Practice  
 (22LLIT102) 
  
 Specialisation Course - 6: Future of 
@@ -258,7 +201,6 @@ Indication and Unfair
 Competition 
 (22LLIT101) 
  
- 
 Specialisation Course – 3: Data 
 Protection Law 
 (22LLIT103) 
@@ -267,14 +209,10 @@ Intellectual Property Law and
 Other Laws 
 (22LLIT204) 
  
- 
-    
-  
 Credits  16 16 16 16 
 
 ## Page 8
 
- 
 8  
         Curriculum Structure-Semester-wise  
 Semester – I 
@@ -300,7 +238,6 @@ TOTAL   16
 
 ## Page 9
 
- 
 9  
 Semester – II  
  
@@ -318,7 +255,6 @@ Development
 3 22LLIT102 
  
 Specialisation Course – 2: 
-Copyrights: Law and Practice 
 Theory  4-0-0-0 4 50 50 100 3 hours 
 4 22LLIT103 
  
@@ -329,7 +265,6 @@ TOTAL   16
 
 ## Page 10
 
- 
 10  
 Semester III 
  
@@ -367,7 +302,6 @@ TOTAL   16
 
 ## Page 11
 
- 
 11  
 Semester IV 
  
@@ -392,16 +326,11 @@ Theory  4-0-0-0 4 100 0 100 3 hours
 22LLID201 Dissertation Practical  0-0-8-0 8 100 0 100 NA 
 TOTAL   16     
  
- 
-  
 Semester I II III IV Total 
 Credits 16 16 16 16 64 
  
- 
-
 ## Page 12
 
- 
 12  
  
   Curriculum Content- Course-wise 
@@ -450,10 +379,8 @@ opinion
 • Golden Rule 
 • Purposive approach: Mischief Rule; Compromise approach 
  
-
 ## Page 13
 
- 
 13  
 Unit V: Nature of legislative drafting: 
  
@@ -504,14 +431,12 @@ References:
 
 ## Page 14
 
- 
 14  
  14. Reed Dickerson, Interpretation of Statutes 
  15. G P Singh, Statutory Interpretation (14th ed, 2018) 
 
 ## Page 15
 
- 
 15  
  
 Program: PG Semester: I 
@@ -557,10 +482,8 @@ questionnaire, survey
 • Qualitative legal research; sampling method: varieties and uses 
 • Quantitative legal research 
  
-
 ## Page 16
 
- 
 16  
 Unit V: Integrated methods of legal research and Research Reporting 
  
@@ -593,13 +516,8 @@ References:
  11. Russel L.Ack;off (19530- The Design of Social Research (University of Chicago 
       Press). 
  
- 
- 
-
 ## Page 17
 
- 
- 
 17  
  
 Program: PG Semester: I 
@@ -647,8 +565,6 @@ References:
 
 ## Page 18
 
- 
- 
 18  
  5. D’ Entreaves – Natural Law, 
  6. Summers- Essays on Law, 
@@ -662,12 +578,8 @@ References:
  12. Okin, Susan Moller. ‘Justice and Gender’, Philosophy and Public Affairs, 16(1), 
       1987. 
  
- 
- 
-
 ## Page 19
 
- 
 19  
  
 Program: PG Semester: I 
@@ -697,8 +609,6 @@ Minimum International Standards for Trade Marks, Development of Trademarks legis
 in India; 
 • Origin and growth of Trademarks; Definitions; Essentials and functions of Trademarks. 
  
- 
- 
 Unit III: Origin and Development of Trade Mark Law 
  
 • Kinds of Marks: Trade Marks, Service Marks, Certification Marks, Collective Marks, Well-
@@ -709,12 +619,8 @@ known Marks, Common Law Marks, Internet Domain Name
 Concurrent Registration. 
 • Trade dress and Colour Combination 
  
- 
- 
-
 ## Page 20
 
- 
 20  
 Unit IV: Trademark transfer and Infringement 
  
@@ -728,7 +634,6 @@ Evidentiary Problems in an Action of Passing Off.
 • Remedies for Infringement 
 • Authorities under the Trademarks legislation; Domain Name Disputes and Cyber squatting. 
  
- 
 Unit V: Geographical Indications 
  
 • Need for protecting goods of geographical origin, International provisions Relating to  
@@ -739,12 +644,10 @@ Definitions, Protection and Subject matter of GI, Procedure of Registration of G
 of GI, Importance of GI for India. 
 • GIs in Regional Perspective- Benefits of registration- case studies 
  
- 
 Prescribed Book(s): 
 1. Ashwani Kumar Bansal, Law of Trademarks in India, 1st ed., Commercial Law 
 Publishers Pvt. Ltd. (2003). 
 2. The Law of Geographical Indications, Vandana Singh, Eastern Law House (2007). 
-3. Cornish and Llewelyn, Intellectual Property: Patents, Copyrights, Trademarks and Allied 
 Rights, 1st ed., Sweet and Maxwell (2007). 
 4. Narayanan P.S., Law and Trademarks and Passing Off, 5th Ed. Eastern Law House 
 (2000). 
@@ -763,67 +666,12 @@ India Ltd. (2006).
 6. UNCTAD-ICTSD, Resource book on TRIPS and Development, Cambridge University 
 Press (2005).Chapter 3 
  
-
 ## Page 21
 
- 
 21  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 22
 
- 
 22  
  
 Program: PG Semester: II 
@@ -846,15 +694,12 @@ Unit II: Religion, law and social transformation
 • Reforms in personal laws on secular lines 
 • Religious minorities and the constitution 
  
- 
- 
 Unit III: Law and gender justice  
  
 • Gender based social conflicts 
 • Social and economic empowerment of women 
 • Gender based violence - Law and policy 
 • Feminist critique of Indian jurisprudence 
- 
  
 Unit IV: Law and Poverty alleviation  
  
@@ -871,10 +716,8 @@ Unit V: Strategies for social inclusion and empowerment
 • Reforms in justice delivery system  
 • Role of NGOs and Local self-governments  
  
-
 ## Page 23
 
- 
 23  
 Prescribed Book(s): 
 1. P Ishwara Bhat, Law and Social Transformation, EBC Publications, 2nd edition (2022).  
@@ -886,13 +729,8 @@ References:
 5. P. K. Gandhi (Ed.), Social Action Through Law, Department of Law, Special Issue, Cochin 
 University Law Review, (1984) , pp. 433-546. 
  
- 
- 
- 
-
 ## Page 24
 
- 
 24  
  
 Program: PG Semester: II 
@@ -909,7 +747,6 @@ Unit I: Legal education and methods of teaching
 • Teaching Methods in Law - Lecture Method, Case Method, Problem Method, Discussion 
 Method, Simulation and Role Play, Collaborative Teaching, Seminar Method and Other methods  
  
- 
 Unit II: Outcome-based education (OBE) 
  
 • Outcome-based legal education 
@@ -918,9 +755,6 @@ Unit II: Outcome-based education (OBE)
 • Lesson outcomes  
 • Tools and techniques of OBE  
 • Salient features of Bloom's Taxonomy 
- 
- 
- 
  
 Unit III: Curriculum drafting and deployment  
  
@@ -932,7 +766,6 @@ Unit III: Curriculum drafting and deployment
 • Practical training courses and skills training  
 • Extension services - Legal aid and legal awareness  
  
- 
 Unit IV: Assessment planning and execution  
  
 • Assessment and evaluation of student’s performance  
@@ -940,10 +773,8 @@ Unit IV: Assessment planning and execution
 • Problems in evaluation  
 • Methods of evaluation - Continuous evaluation, end-term exams, assessment and supervision 
  
-
 ## Page 25
 
- 
 25  
 Unit V: Legal writing  
  
@@ -977,14 +808,11 @@ Butterworths, London, (1989).
 5. Gerald F. Hess and Steven Friedland, Techniques for Teaching Law, Carolina Academic Press, 
 (1999). 
  
-
 ## Page 26
 
- 
 26  
  
 Program: PG Semester: II 
-Course Title: Specialisation Course – 2: Copyrights: Law and 
 Practice  
 Course Code: 22LLIT102 
  
@@ -995,72 +823,32 @@ Teaching Hours: 60 Examination Duration: 3hrs
 Unit I: Introduction  
  
 • Purpose and Objectives  
-• Principles of Copyright protection 
-• Evolution of Copyright Law 
  
-Unit II: International Copyright Law  
- 
-• Introduction to Various Copyright Treaties  
-• Bilateral Copyright Treaties  
-• Multilateral Copyright Treaties 
- 
-Unit III: Copyright Law in India 
- 
-• Historical development of Copyright law in India 
-• Nature and Subject Matter of Copyright 
-• Term of Copyright 
-• Author and Ownership of Copyright  
- 
- 
- 
-Unit IV: Copyrights: Registration, rights and infringement 
- 
-• Procedure of Registration of a Copyright  
-• Rights Conferred by Copyright  
-• Copyrights- Related rights 
 • Infringement - Statutory exceptions, Fair Use Doctrine 
 • Fair Use Doctrine- Comparison of US, UK and India, ISP liability 
  
- 
-Unit V: Copyrights: Management, transfer and remedies 
- 
-• Collective management of Copyrights and related rights 
-• Transfer of Copyright 
 • Remedies against infringement 
  
 Prescribed Book(s): 
-1. Coppinger and Skone James, Copyright Law, Vol 1, Sweet & Maxwell, (2010). 
-2. David Nimmer, Copyright Law, LexisNexis, (2007). 
 
 ## Page 27
 
- 
 27  
 3. Gopalkrishnan, N.S. and Agitha T.G, Principles of Intellectual Property, Eastern Book Company, 
 (2009). 
-4. W R Cornish, Intellectual Prop erty: Patents Copyright Trademarks and allied rights, Sweet & 
 Maxwell, London, (2010). 
-5. P Narayanan, Law of Copyright and Industrial Designs, Eastern Law House, (2018). 
-6. A.K. Kaul & V.K.Ahuja, Law of Copyright: From Gutenberg’s Invention to Internet, University of 
 Delhi, Delhi, (2001).  
  
 References: 
 1. Mira Sundara Rajan, Moral Rights: Principles, Practice, and New Technology, Oxford University 
 Press, (2011).  
-2. Neil Weinstock Netanel, Copyright's Paradox, Oxford University Press, (2008).  
-3. Robert A Gorman, Jane C. Ginsburg, Copyright Cases and Materials, Foundation Press, (2011).  
-4. S. Sivakumar and Lisa P. Lukose, Broadcasting Reproduction Right in India: Copyright and 
 Neighbouring Right Issues, ILI, New Delhi, (2013).  
-5. Paul Goldstein, International Copyright: Principles, Law, and Practice, Oxford University Press, 
 (2012). 
 6. Ananth Padmanabhan, Intellectual Property Rights Infringement and Remedies, Lexis Nexis, 
 (2012).  
  
- 
-
 ## Page 28
 
- 
 28  
  
 Program: PG Semester: II 
@@ -1096,7 +884,6 @@ Unit III: Data Protection Law in the UK
 Protection Act, 2018 
 • Judicial developments  
  
- 
 Unit IV: Data Protection Law in the USA  
  
 • Federal and State Legislations  
@@ -1114,7 +901,6 @@ Prescribed Book(s):
 
 ## Page 29
 
- 
 29  
 2. Hert, De Paul, Research Handbook on Privacy and Data Protection Law: Values, Norms 
 and Global Politic, Edward Elgar Publishing, Massachusetts, USA, (2022). 
@@ -1132,12 +918,8 @@ Framework for Data Privacy Implementation, Notion Press, (2022).
 House, Singapore, (2019).  
 4. Peter Carey, Data Protection: A Practical Guide to UK Law, OUP, Oxford, (2020). 
  
- 
-
 ## Page 30
 
- 
- 
 30  
  
 Program: PG Semester: II 
@@ -1165,7 +947,6 @@ Unit II: Patent Registration and Grant of patent
 • Utility Patent, Plant Patents, Design Patents in US 
 • WIPO, PCT and Procedure 
  
- 
 Unit III: Requisites and understanding of patent application 
  
 • Patent Specifications - Provisions of Acts in Indian, US, EU and PCT 
@@ -1181,12 +962,8 @@ Unit IV: Other Important Aspects of Patent Law
 • Licenses of Right 
 • Software Patents and Business Methods 
  
- 
-
 ## Page 31
 
- 
- 
 31  
 Unit V: Enforcement of Patents - Patent Infringement with Case Studies  
  
@@ -1206,7 +983,6 @@ References:
  Bainbridge, David, Intellectual Property, 6th Edition. Pearson Longsman (2006). 
  Calstone Catherine and Middleton Kirsty, Modern Intellectual Property Law, 2nd edn, 
 Cavendish Publishing Pvt. Ltd. (2005). 
- Cornish W & Llewellyn D., Intellectual Property: Patents, Copyright, Trademarks & 
 Allied Rights, Sweet & Maxwell (2010.) 
  Faber Robert C., Landis on Mechanics of Patent Claim Drafting, 5th Edition, Practising 
 Law Institute (2003). 
@@ -1217,7 +993,6 @@ TATA McGraw-Hill Publishing Company, New Delhi (2001).
 Technological Age, Aspen Publishers, Inc. (2008). 
  WIPO Handbook of IPR. 
  
-
 ## Page 32
 
 ←BACK TO SEMESTER II 
@@ -1277,15 +1052,12 @@ Convention)
  
 33  
  
- 
 Prescribed Book(s): 
 1. Verkey Elizabeth, Law of Plant Varieties Protection, Eastern Book Company 1st edn., 2007 
 (reprint with supplement 2021). 
 2. Verkey Elizabeth, Intellectual Property Rights: Law and practice, Eastern Book Company 1st 
 edn., 2015. 
  
- 
-
 ## Page 34
 
 ←BACK TO SEMESTER II 
@@ -1338,7 +1110,6 @@ Unit IV: Electronic evidence and its appreciation
 • Technical issues 
 • Admissibility of electronic evidence under Indian laws. 
  
-
 ## Page 35
 
 ←BACK TO SEMESTER II 
@@ -1353,13 +1124,11 @@ Unit V: Emerging issues in cyber space
 • Internet of Things 
 • Artificial Intelligence and its legal implications. 
  
- 
 Prescribed Book(s): 
 1. Chris Reed, Internet Law- Text and Materials, Universal Law Publishing Co. New Delhi, 
 2nd Edition, 2005. 
 2. Nandan Kamath, Law Relating to Computers, Internet and E-Commerce, Universal Law 
 Publishing Co. New Delhi, 5th Edition, 2012. 
- 
  
 List of Statutes/Conventions/ Rules etc.: 
 1. UNCITRAL model law on E-Commerce 1996 
@@ -1367,10 +1136,8 @@ List of Statutes/Conventions/ Rules etc.:
 3. The Information Technology Act, 2001 
 4. GDPR 
  
-
 ## Page 36
 
- 
 36  
  
 Program: PG Semester: III 
@@ -1394,14 +1161,12 @@ Unit II: Strategies for IP Commercialisation
 • IP valuation methods and techniques 
 • Developing an IP commercialisation strategy 
  
- 
 Unit III: Legal and Regulatory Considerations in IP Commercialisation  
  
 • Intellectual property licensing agreements 
 • Technology transfer agreements 
 • Franchise agreements 
 • IP infringement and enforcement issues 
- 
  
 Unit IV: Negotiation and Contract Drafting for IP Commercialisation 
   
@@ -1422,7 +1187,6 @@ LexisNexis (2012).
 
 ## Page 37
 
- 
 37  
  
 Readings: 
@@ -1456,13 +1220,9 @@ highlights the strategic considerations and IP commercialization aspects of the 
 offers insights into IP valuation, technology transfer, and international IP 
 commercialization. 
  
- 
-
 ## Page 38
 
- 
 38  
- 
  
 Program: PG Semester: IV 
 Course Title: Specialisation Course – 8: Information 
@@ -1480,14 +1240,8 @@ Unit I: Patents and IT
 • Standard Essential Patents (SEPs) and requirements for patenting IT 
 • Patent infringement and litigation 
  
-Unit II: Copyrights and IT 
- 
-• Copyright protection and its scope in IT industry 
 • Digital rights management 
 • Fair use and exceptions in the digital realm  
-• Copyright infringement and enforcement 
-• Issues related to software copyrights 
- 
  
 Unit III: Trademarks and IT  
  
@@ -1496,7 +1250,6 @@ Unit III: Trademarks and IT
 • Trademark infringement and dilution in IT sector 
 • Ambush Marketing and Brand Protection 
 • Protecting trademarks in the digital space 
- 
  
 Unit IV: Licensing and Technology Transfer  
  
@@ -1514,13 +1267,11 @@ Unit V: IP in the Digital Age - Ethical and social considerations
 
 ## Page 39
 
- 
 39  
 • Block-chain and IP management 
 • Ethical issues related to IP in IT 
 • Balancing IP rights with the public interest  
 • Open access and open innovation  
- 
  
 Readings: 
 1. P. Narayanan, Intellectual Property Law in India, Eastern Law House, (2020), 3rd Edition.  
@@ -1534,12 +1285,8 @@ Autonomous Systems, Big Data, IT Security and Legal Tech; Springer, (2022), 2nd 
 6. Neil Wilkof, Shamnad Basheer and Irene Calboli, “Overlapping Intellectual Property Rights”, 
 Oxford University Press, (2023), 2nd Edition. 
  
- 
-
 ## Page 40
 
- 
- 
 40  
  
 Program: PG Semester: IV 
@@ -1578,12 +1325,10 @@ agreements, joint venture agreements, Non-Disclosure Agreements (NDAs), developm
 agreements, manufacturing agreements, distribution agreements, franchise agreements 
 • Dispute Resolution: Litigation and Alternative Dispute Resolution (ADR) 
  
- 
 Unit IV: Regulatory Framework  
  
 • Patents: Assignment, licensing and compulsory licensing 
 • Trademarks: Registered User and assignment 
-• Copyright: Assignment, licensing and copyright societies 
 • Geographical Indications of Goods: Registered Users 
 • Protection of Plant Varieties and Farmers Rights: Farmers Rights and Breeders Rights 
 • Information Technology: Digital Rights Management (DRM) 
@@ -1591,19 +1336,14 @@ Unit IV: Regulatory Framework
 
 ## Page 41
 
- 
- 
 41  
 Unit V: International Law and Recent Trends 
  
 • International Instruments: TRIPS Agreement, Paris Convention, Berne Convention, Madrid 
-System, Patent Cooperation Treaty, Hague Agreement, Budapest Treaty, WIPO Copyright 
 Treaty (WCT) and the WIPO Performances and Phonograms Treaty (WPPT) 
 • Recent Trends: National Intellectual Property Rights (IPR) Policy, 2016, Start-ups Intellectual 
 Property Protection (SIPP), Technology Transfer Offices (TTOs), Unitary Patent System, 
 Digital Transformation and IT Innovations, IP Financing and Monetization 
- 
- 
  
 Prescribed Readings: 
  
@@ -1623,11 +1363,7 @@ McGraw Hill Education, (2017).
 3. Ashish Bharadwaj, Intellectual Property and Competitive Strategies in the 21st Century, 
 Kluwer Law International (2009). 
  
-
 ## Page 42
 
- 
 42 
- 
- 
  

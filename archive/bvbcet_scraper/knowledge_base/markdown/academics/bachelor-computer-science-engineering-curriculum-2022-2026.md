@@ -1,45 +1,18 @@
 # PDF Document: bachelor-computer-science-engineering-curriculum-2022-2026
+
 **PDF Source:** https://www.kletech.ac.in/pdf/bachelor-computer-science-engineering-curriculum-2022-2026.pdf
 
 ## Page 1
 
- 
- 
 FMCD2009 / 2.0 
  1 
   
- 
- 
- 
-  
- 
- 
 Curriculum Structure and Curriculum Content for the Batch: 2022-2026 
 School: Computer Science and Engineering 
 Program: B.E- Computer Science and Engineering 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 2
 
- 
- 
 FMCD2009 / 2.0 
  2 
  
@@ -62,28 +35,16 @@ List of Open Electives .........................................................
 List of Program Electives ................................................................................................. 17 
 Curriculum Content- Course wise ..................................................................................... 19 
  
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 3
 
- 
- 
 FMCD2009 / 2.0 
  3 
 Vision and Mission of KLE Technological University 
  
 Vision 
  
- 
 KLE Technological University will be a national leader in Higher Education–recognised globally 
 for innovative culture, outstanding student experience, research excellence and social impact. 
- 
  
 Mission 
  
@@ -106,11 +67,8 @@ expertise, experience and leadership, to enhance competitiveness and quality of 
 As a unified community of faculty, staff and students, we work together with the spirit of 
 collaboration and partnership to accomplish our mission. 
   
-
 ## Page 4
 
- 
- 
 FMCD2009 / 2.0 
  4 
  
@@ -130,18 +88,8 @@ future of computing technologies.
  To collaborate within and beyond discipline to create solutions that benefit humanity and 
 society. 
  
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 5
 
- 
- 
 FMCD2009 / 2.0 
  5 
 Program Educational Objectives/Program Outcomes and Program-Specific 
@@ -189,8 +137,6 @@ language, and learning differences
 
 ## Page 6
 
- 
- 
 FMCD2009 / 2.0 
  6 
 PO10: Project Management and Finance : Apply knowledge and understandin g of 
@@ -206,11 +152,8 @@ construction of software systems of varying complexity.
 PSO 2:  Domain-specific knowledge: An ability to develop AI based solutions in the domain 
 of data, system and network engineering. 
  
-
 ## Page 7
 
- 
- 
 FMCD2009 / 2.0 
  7 
 Curriculum Structure-Overall 
@@ -361,14 +304,10 @@ PE-1 XXECSE3XX
 Minor Project 24ECSW302 
 (0-0-6)  
  
-     
 Professional Aptitude & 
 Logical Reasoning 
 16EHSC301 (3-0-0) 
  
- 
- 
-  
 Corporate 
 Communication 
 22EHSH201 (0.5-0-0) 
@@ -382,27 +321,18 @@ Industry Readiness &
 Leadership Skills  
 (23EHSA304) (Audit) 
  
- 
 Credi
 ts 21 23 24 26 23 26 18 17 
 
 ## Page 8
 
- 
- 
 FMCD2009 / 2.0 
  8 
 Curriculum Structure-Semester wise 
 Semester - I 
 ISA: In Semester Assessment  ESA: End Semester Assessment  L: Lecture   T: Tutorials   P: Practical 
  
- 
- 
 Date:                 Program Head 
- 
- 
- 
- 
  
 No 
  
@@ -420,16 +350,12 @@ TOTAL 14-2-5 21 27 440 260 700
 
 ## Page 9
 
- 
- 
 FMCD2009 / 2.0 
  9 
  
 Semester - II 
  
 ISA: In Semester Assessment  ESA: End Semester Assessment  L: Lecture   T: Tutorials   P: Practical 
- 
- 
  
 Date:                 Program Head 
   
@@ -447,8 +373,6 @@ TOTAL 14-3-6 23 32 410 290 700
 
 ## Page 10
 
- 
- 
 FMCD2009 / 2.0 
  10 
 Semester- III 
@@ -471,16 +395,10 @@ ISA: In Semester Assessment  ESA: End Semester Assessment  L: Lecture   T: Tutor
  
 *Note Graph Theory and Calculus (15EMAB233) offered only for diploma students 
  
- 
- 
- 
 Date:                 Program Head 
   
-
 ## Page 11
 
- 
- 
 FMCD2009 / 2.0 
  11 
 Semester- IV 
@@ -508,16 +426,10 @@ ISA: In Semester Assessment  ESA: End Semester Assessment  L: Lecture   T: Tutor
  
 *Note Vectors Calculus and Linear Algebra (15EMAB243) offered only for diploma students 
  
- 
- 
- 
 Date:                 Program Head 
  
-
 ## Page 12
 
- 
- 
 FMCD2009 / 2.0 
  12 
 Semester- V 
@@ -550,16 +462,10 @@ TOTAL 14-1-8/
 ISA: In Semester Assessment  ESA: End Semester Assessment  L: Lecture   T: Tutorials   P: Practical 
 Note * Statistics and probability (15EMAB303) only for diploma students 
  
- 
- 
 Date:                Program Head 
  
- 
-
 ## Page 13
 
- 
- 
 FMCD2009 / 2.0 
  13 
 Semester- VI 
@@ -579,15 +485,10 @@ Reasoning HSS 3-0-0 3 3 50 50 100 3 hours
  16-0-10 26 37 530 370 900  
 ISA: In Semester Assessment  ESA: End Semester Assessment  L: Lecture   T: Tutorials   P: Practical 
  
- 
- 
 Date:                 Program Head 
   
-
 ## Page 14
 
- 
- 
 FMCD2009 / 2.0 
  14 
  
@@ -606,17 +507,10 @@ Duration
 TOTAL  10-0-8 18 28 332 268 600  
 ISA: In Semester Assessment  ESA: End Semester Assessment  L: Lecture  T: Tutorials  P: Practical 
  
- 
- 
 Date:                Program Head 
  
- 
- 
-
 ## Page 15
 
- 
- 
 FMCD2009 / 2.0 
  15 
  
@@ -626,9 +520,7 @@ ISA: In Semester Assessment               ESA: End Semester Assessment         L
  
 *Note students can either choose (1, 2 & 4(Capstone project) or (3 & 4(Internship project).) 
  
- 
 Date:               Program Head 
- 
  
 Semester I II III IV V VI VII VIII Total 
 Credits 21 23 24 26 23 26 18 17 178 
@@ -644,8 +536,6 @@ TOTAL  6-0-17 17 34 100 100 200
 
 ## Page 16
 
- 
- 
 FMCD2009 / 2.0 
  16 
 List of Open Electives 
@@ -661,22 +551,8 @@ Code
 5 Essential of IT (3-0-0) 15ECSO405 
 6 Big Data Analytics (3-0-0) 18ECSO401 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
-
 ## Page 17
 
- 
- 
 FMCD2009 / 2.0 
  17 
 List of Program Electives 
@@ -721,8 +597,6 @@ Data Engineering
 
 ## Page 18
 
- 
- 
 FMCD2009 / 2.0 
  18 
 5.  Multimodal AI (2-0-1)  25ECSE460 
@@ -757,13 +631,8 @@ Electives  for Skill Enhancement
 8.  Privacy and Security in Online Social Media  
 9.  Blockchain and its Applications  
  
- 
- 
-
 ## Page 19
 
- 
- 
 FMCD2009 / 2.0 
  19 
 Curriculum Content- Course wise 
@@ -817,13 +686,8 @@ Mat Lab: problems on arc length, area, volume and surface area.
  
 14 hrs 
  
- 
- 
-
 ## Page 20
 
- 
- 
 FMCD2009 / 2.0 
  20 
 6 
@@ -845,20 +709,8 @@ Reference Books:
  
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
-  
-
 ## Page 21
 
- 
- 
 FMCD2009 / 2.0 
  21 
  
@@ -909,8 +761,6 @@ diodes
 
 ## Page 22
 
- 
- 
 FMCD2009 / 2.0 
  22 
  
@@ -961,28 +811,9 @@ Induced emf and Electric Fields Generators and Motors, Eddy Currents
 
 ## Page 23
 
- 
- 
 FMCD2009 / 2.0 
  23 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
 Text Book: 
 1. David A Bell, “Electronics Devices and Circuits ”, Fifth Edition, Oxford University 
 Press. 
@@ -1000,14 +831,10 @@ ISA  Marks: 50 ESA Marks: 50 Total Marks: 100
 
 ## Page 24
 
- 
- 
 FMCD2009 / 2.0 
  24 
  
 BACK 
- 
- 
  
 Teaching Hrs: 50   Exam Duration: 3 hours 
 Unit I 
@@ -1060,8 +887,6 @@ and Belt friction.
 
 ## Page 25
 
- 
- 
 FMCD2009 / 2.0 
  25 
   
@@ -1111,8 +936,6 @@ New Delhi- 110 001, 1995.
 
 ## Page 26
 
- 
- 
 FMCD2009 / 2.0 
  26 
 Program: Bachelor of Engineering   Semester - I 
@@ -1162,13 +985,10 @@ Reference Books:
 3. B.A. Forouzan, R.F. Gilberg, A Structured Program Approach Using C, 3ed, CENGAGE 
 Learning, 2008. 
  
- 
 BACK 
 
 ## Page 27
 
- 
- 
 FMCD2009 / 2.0 
  27 
 Program: Bachelor of Engineering   Semester - I 
@@ -1227,8 +1047,6 @@ hrs
 
 ## Page 28
 
- 
- 
 FMCD2009 / 2.0 
  28 
 7 
@@ -1252,20 +1070,10 @@ Measurement Systems, 3rd, Tata McGraw Hill Education Private Limited, New Delhi.
 2005 
 3. Vincent Del Toro, Electrical Engineering Fundamentals, 2nd  edition Prentice Hall India 
  
- 
 BACK 
  
- 
- 
- 
- 
- 
-  
-
 ## Page 29
 
- 
- 
 FMCD2009 / 2.0 
  29 
 Program: Bachelor of Engineering   Semester - I 
@@ -1355,11 +1163,6 @@ Reading assignments
  Handout on “ Create 
 Mindsets” 
  
- 
- 
- 
- 
- 
  (How to train the 
 Dragon?  
 Common Video 
@@ -1372,8 +1175,6 @@ Creative
 
 ## Page 30
 
- 
- 
 FMCD2009 / 2.0 
  30 
 (Thomas Alva Edison)  
@@ -1393,12 +1194,9 @@ website)
 the business which is 
 never launched) 
  
- 
- 
 Confidence by 
 David Kelley – 
 IDEO Founder)  
- 
  
  Process of Social Innovation 
 Engage 
@@ -1453,8 +1251,6 @@ study
 
 ## Page 31
 
- 
- 
 FMCD2009 / 2.0 
  31 
 Use template 1: Frame 
@@ -1520,8 +1316,6 @@ sample case study
 
 ## Page 32
 
- 
- 
 FMCD2009 / 2.0 
  32 
 Use template 5: Create 
@@ -1605,11 +1399,8 @@ the help of
 sample case 
 study 
  
-
 ## Page 33
 
- 
- 
 FMCD2009 / 2.0 
  33 
  Feedback (Impact) 
@@ -1634,16 +1425,10 @@ the help of
 sample case 
 study 
  
- 
- 
- 
 BACK 
   
-
 ## Page 34
 
- 
- 
 FMCD2009 / 2.0 
  34 
  
@@ -1666,22 +1451,8 @@ Experiments
  
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
-
 ## Page 35
 
- 
- 
 FMCD2009 / 2.0 
  35 
 II Semester 
@@ -1736,8 +1507,6 @@ BACK
 
 ## Page 36
 
- 
- 
 FMCD2009 / 2.0 
  36 
 Program: Bachelor of Engineering   Semester - II 
@@ -1795,8 +1564,6 @@ etching, dry etching.
 
 ## Page 37
 
- 
- 
 FMCD2009 / 2.0 
  37 
 6 
@@ -1847,8 +1614,6 @@ BACK
 
 ## Page 38
 
- 
- 
 FMCD2009 / 2.0 
  38 
  
@@ -1892,12 +1657,8 @@ Reference Books:
  
 BACK 
  
-  
-
 ## Page 39
 
- 
- 
 FMCD2009 / 2.0 
  39 
 Program: Bachelor of Engineering   Semester - II 
@@ -1940,8 +1701,6 @@ BACK
 
 ## Page 40
 
- 
- 
 FMCD2009 / 2.0 
  40 
 Program: Bachelor of Engineering   Semester - II 
@@ -2006,8 +1765,6 @@ hrs
 
 ## Page 41
 
- 
- 
 FMCD2009 / 2.0 
  41 
 suppressed carrier modulation (D SBSC), Generation of DSBSC wave : 
@@ -2031,13 +1788,10 @@ References:
 4. BoylesteadNashelsky, Electronic devices & Circuit theory, Prentice Hall India, 2000 
 5. RamakantGaikawad , Operational Amplifiers & applications, PHI, 2000 
  
- 
 BACK  
 
 ## Page 42
 
- 
- 
 FMCD2009 / 2.0 
  42 
 Program: Bachelor of Engineering   Semester - II 
@@ -2113,8 +1867,6 @@ Video presentations
 
 ## Page 43
 
- 
- 
 FMCD2009 / 2.0 
  43 
 Power in Gear pair. Simple and 
@@ -2171,8 +1923,6 @@ BACK
 
 ## Page 44
 
- 
- 
 FMCD2009 / 2.0 
  44 
  
@@ -2211,8 +1961,6 @@ BACK
 
 ## Page 45
 
- 
- 
 FMCD2009 / 2.0 
  45 
 Semester-III 
@@ -2244,8 +1992,6 @@ Jordon method (ii) Iterative methods- Guass-Seidal method. Eigen values
 and Eigen vectors of a matrix. Largest Eigen value and the corresponding 
 Eigen vector by power method, Application case study. 
  
- 
- 
 12 hrs 
 4 
 Vector space:  Vector spaces and sub spaces - examples, Linear 
@@ -2269,8 +2015,6 @@ properties.
 
 ## Page 46
 
- 
- 
 FMCD2009 / 2.0 
  46 
 Text Books 
@@ -2289,7 +2033,6 @@ K. Balakrishnan (Schaum’s outline series), Mcgraw Hill, 1995
 NarsinghDeo, PHI publications (1986). 
      4.   Simon Haykin, Barry Van Veen, Signals and Systems, John Wiley, 2002. 
  
- 
 Scheme for End Semester Assessment (ESA) 
  
 UNIT 8 Questions to be set of 20 
@@ -2303,11 +2046,8 @@ III Q.No.-7 5 Solve Any 1 Q.No.-8 5
  
 BACK 
   
-
 ## Page 47
 
- 
- 
 FMCD2009 / 2.0 
  47 
 Program: Bachelor of Engineering    Semester - III 
@@ -2357,12 +2097,8 @@ Introduction, 5th Edition, Pearson Publication, May 8, 2019.
 2. Basavaraj S Anami and Venakanna S Madalli, Discrete Mathem atics – A Concept 
 based approach, Universities Press, 2016 
  
-  
-
 ## Page 48
 
- 
- 
 FMCD2009 / 2.0 
  48 
 Scheme for End Semester Assessment (ESA) 
@@ -2374,7 +2110,6 @@ Instructions
 I Q.No.-1, Q.No.-2, Q.No.-3 1, 2 Solve Any 2 
 II Q.No.-4, Q.No.-5, Q.No.-6 3, 4 Solve Any 2 
 III Q.No.-7 5 Solve Any 1 Q.No.-8 6 
- 
  
 Tutorial Content: 
 Sl.No Topic No of slots 
@@ -2391,8 +2126,6 @@ BACK
 
 ## Page 49
 
- 
- 
 FMCD2009 / 2.0 
  49 
 Program: Bachelor of Engineering Semester-III 
@@ -2449,8 +2182,6 @@ Cuda Basics, GPU versus CPU, GPU Architecture Overview 04 hrs
 
 ## Page 50
 
- 
- 
 FMCD2009 / 2.0 
  50 
 7 Control Unit  Operation: Micro-Operations , Control of the Processor , 
@@ -2497,8 +2228,6 @@ BACK
 
 ## Page 51
 
- 
- 
 FMCD2009 / 2.0 
  51 
 Program: Bachelor of Engineering   Semester - III 
@@ -2535,18 +2264,8 @@ Technologies Private Limited, 2016.
  
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 52
 
- 
- 
 FMCD2009 / 2.0 
  52 
 Program: Bachelor of Engineering   SE   Semester- III 
@@ -2604,8 +2323,6 @@ Control, SQL Injections, SQL Attacks
 
 ## Page 53
 
- 
- 
 FMCD2009 / 2.0 
  53 
 Text Books: 
@@ -2641,8 +2358,6 @@ BACK
 
 ## Page 54
 
- 
- 
 FMCD2009 / 2.0 
  54 
  
@@ -2694,8 +2409,6 @@ Teaching Hrs:  Practical: 42 hrs Exam Duration: 3 hrs
 
 ## Page 55
 
- 
- 
 FMCD2009 / 2.0 
  55 
 Program: Bachelor of Engineering   Semester – III 
@@ -2737,8 +2450,6 @@ BACK
 
 ## Page 56
 
- 
- 
 FMCD2009 / 2.0 
  56 
 Program: Bachelor of Engineering   Semester- III 
@@ -2789,11 +2500,8 @@ Text Books (List of books as mentioned in the approved syllabus)
 2011 
 3. 
   
-
 ## Page 57
 
- 
- 
 FMCD2009 / 2.0 
  57 
 References 
@@ -2803,14 +2511,10 @@ Graph Theory, 4e, Mcgraw Hill, 1995
 3. Narsingh Deo, 3. Graph Theory with Applications to Engineering and Computer 
 Science, 4e, PHI publications, 1986. 
  
- 
 BACK 
   
-
 ## Page 58
 
- 
- 
 FMCD2009 / 2.0 
  58 
 Semester-IV 
@@ -2866,8 +2570,6 @@ Regression with ANOVA approach 04 hrs
 
 ## Page 59
 
- 
- 
 FMCD2009 / 2.0 
  59 
 Text Books  
@@ -2883,7 +2585,6 @@ Chand & Sons, New Delhi, 2000.
 Kaufmann Publishers, 2005 
 3. Sheldon M.Ross ,Introduction to Probability and Statistics for Engineers and 
 Scientists 
- 
  
 Scheme for End Semester Assessment (ESA) 
  
@@ -2901,11 +2602,8 @@ III Q.No.-7 6 Solve Any 1 out of 2 Q.No.-8 7
  
 BACK 
   
-
 ## Page 60
 
- 
- 
 FMCD2009 / 2.0 
  60 
 Program: Bachelor of Engineering Semester- IV 
@@ -2964,8 +2662,6 @@ Programming for I/O Ports,I/O  Bit Manipulations,
 
 ## Page 61
 
- 
- 
 FMCD2009 / 2.0 
  61 
 Hands on I/O Port programming 06 hrs 
@@ -3017,15 +2713,10 @@ Embedded System using Assembly and C”, Prentice Hall.
 Reference Books: 
 1.  J. M. Hughes, “Arduino A Technical Reference”, O’Reilly 
  
- 
- 
- 
 BACK  
 
 ## Page 62
 
- 
- 
 FMCD2009 / 2.0 
  62 
 Program: Bachelor of Engineering Semester- IV 
@@ -3067,12 +2758,8 @@ Reference Books
 1. Lippman S B, Lajorie J, Moo B E, C++ Primer, 5Ed, Addison Wesley, 2013. 
 2. Herbert Schildt: The Complete Reference C++, 4th Ed, Tata McGraw Hill, 2017 
  
-  
-
 ## Page 63
 
- 
- 
 FMCD2009 / 2.0 
  63 
 Scheme for End Semester Assessment (ESA) 
@@ -3092,8 +2779,6 @@ BACK
 
 ## Page 64
 
- 
- 
 FMCD2009 / 2.0 
  64 
 Program: Bachelor of Engineering Semester- IV 
@@ -3143,8 +2828,6 @@ hrs
 
 ## Page 65
 
- 
- 
 FMCD2009 / 2.0 
  65 
 Text Book: 
@@ -3189,8 +2872,6 @@ BACK
 
 ## Page 66
 
- 
- 
 FMCD2009 / 2.0 
  66 
 Program: Bachelor of Engineering   Semester- IV 
@@ -3244,11 +2925,8 @@ Text Books:
 Environment", 3 ed.  Addison Wesley Professional, 2018xv6: Programming from the 
 Ground Up, Jonathan Bartlett Edited by Dominick Bruno, Jr 2021 
   
-
 ## Page 67
 
- 
- 
 FMCD2009 / 2.0 
  67 
  Reference Books: 
@@ -3284,8 +2962,6 @@ BACK
 
 ## Page 68
 
- 
- 
 FMCD2009 / 2.0 
  68 
  
@@ -3340,8 +3016,6 @@ BACK
 
 ## Page 69
 
- 
- 
 FMCD2009 / 2.0 
  69 
 Program: Bachelor of Engineering Semester- IV 
@@ -3349,8 +3023,6 @@ Course Title: Object Oriented Programming Lab Course Code: 20ECSP203
 L-T-P: 0-0-1.5 Credits: 1.5 Contact Hrs: 3 hrs/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
 Teaching Hrs:  Practical: 42 hrs Exam Duration: 3hrs 
- 
- 
  
 Evaluation: 
 Students Assessment through CIE (80%) + ESA (20%) 
@@ -3391,8 +3063,6 @@ Reference Books:
 
 ## Page 70
 
- 
- 
 FMCD2009 / 2.0 
  70 
  
@@ -3432,14 +3102,10 @@ Sultan Chand and Sons, New Delhi, 2018
 7. Cambridge Advanced Learner’s Dictionary, Cambridge University Press. 
 8. Kaplan’s GRE guide 
  
- 
 BACK 
   
-
 ## Page 71
 
- 
- 
 FMCD2009 / 2.0 
  71 
 Diploma Course 
@@ -3495,8 +3161,6 @@ References Books:
 
 ## Page 72
 
- 
- 
 FMCD2009 / 2.0 
  72 
 Semester – V 
@@ -3551,8 +3215,6 @@ BACK
 
 ## Page 73
 
- 
- 
 FMCD2009 / 2.0 
  73 
 Program: Bachelor of Engineering Semester-V 
@@ -3594,13 +3256,8 @@ Reference Books:
 Kaufmann series in networking, 2012 
 2. Behrouz A. Forouzan, TCP/IP protocol suite, 4th, McGraw Hill, 2010. 
  
- 
-  
-
 ## Page 74
 
- 
- 
 FMCD2009 / 2.0 
  74 
 Computer Networks-I Tutorial 
@@ -3638,7 +3295,6 @@ in the network. 1
  
 Scheme for End Semester Assessment (ESA) 
  
- 
 BACK  
 UNIT 8 Questions to be set of 20 Marks 
 Each 
@@ -3650,8 +3306,6 @@ Q.No.-7 5
 
 ## Page 75
 
- 
- 
 FMCD2009 / 2.0 
  75 
 Unit – I  
@@ -3707,8 +3361,6 @@ Teaching Hrs: 40   Tutorial: 28 hrs Exam Duration: 3hrs
 
 ## Page 76
 
- 
- 
 FMCD2009 / 2.0 
  76 
 References 
@@ -3739,11 +3391,8 @@ S. No Topics Lab slots
  
 BACK 
   
-
 ## Page 77
 
- 
- 
 FMCD2009 / 2.0 
  77 
  
@@ -3791,8 +3440,6 @@ BACK
 
 ## Page 78
 
- 
- 
 FMCD2009 / 2.0 
  78 
 Program: Bachelor of Engineering Semester- V 
@@ -3801,7 +3448,6 @@ L-T-P: 2-0-2 Credits: 4 Contact Hrs:  6 hrs/week
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
 Teaching Hrs: 30  Practical Hrs: 56 Exam Duration:  2 hrs 
  
-  
 Unit –I 
 1 Introduction and Regression:  Fundamentals of ML, li near, ridge, lasso, 
 elastic-net regression, evaluation. 07 hrs 
@@ -3828,8 +3474,6 @@ PyTorch Manning Publications, 2020.
 
 ## Page 79
 
- 
- 
 FMCD2009 / 2.0 
  79 
 List of Experiments: 
@@ -3853,13 +3497,10 @@ II Q.No.-5, Q.No. -6, Q.No. -
 7,Q.No-8 4,5,6 Solve Any 3 
 III Lab exam 1,2,3,4,5,6 Lab exam evaluation 
  
- 
 BACK  
 
 ## Page 80
 
- 
- 
 FMCD2009 / 2.0 
  80 
 Program: Bachelor of Engineering Semester- V 
@@ -3902,14 +3543,10 @@ identified problem, testing and results) 35
 3 Individual Contribution to the team 10 
 Total 50 
  
- 
 BACK 
   
-
 ## Page 81
 
- 
- 
 FMCD2009 / 2.0 
  81 
 Program: Bachelor of Engineering Semester - V 
@@ -3956,12 +3593,8 @@ Minor Exam 1 50
 Minor Exam 2 50 
 Total 100 
  
-  
-
 ## Page 82
 
- 
- 
 FMCD2009 / 2.0 
  82 
 Course Unitization for Minor Exams and End Semester Assessment 
@@ -3980,8 +3613,6 @@ BACK
 
 ## Page 83
 
- 
- 
 FMCD2009 / 2.0 
  83 
  
@@ -4033,11 +3664,8 @@ Chand & Sons, New Delhi, 2000.
 and Applications for Engineering and the Computing Sciences, 4th Ed, TATA McGraw-
 Hill Edition 2007. 
   
-
 ## Page 84
 
- 
- 
 FMCD2009 / 2.0 
  84 
 References 
@@ -4061,11 +3689,8 @@ III Q.No.-7, Q.No-8 6 Solve Any 1 out of 2
  
 BACK 
   
-
 ## Page 85
 
- 
- 
 FMCD2009 / 2.0 
  85 
 Semester - VI 
@@ -4119,11 +3744,8 @@ Text Books
 Pearson Education, 2021. 
 2. Raj Jain, “Performance evaluation of computer systems”, Wiley, 1991. 
   
-
 ## Page 86
 
- 
- 
 FMCD2009 / 2.0 
  86 
 Reference Books: 
@@ -4143,13 +3765,10 @@ I Q.No.-1, Q.No.-2, Q.No.-3 1 & 2 Solve Any 2 out of 3
 II Q.No.-4, Q.No.-5, Q.No.-6 3 & 4 Solve Any 2 out of 3 
 III Q.No.-7, Q.No-8 5 & 6 Solve Any 1 out of 2 
  
- 
 BACK  
 
 ## Page 87
 
- 
- 
 FMCD2009 / 2.0 
  87 
 Program: Bachelor of Engineering Semester: VI 
@@ -4205,11 +3824,8 @@ and Hall/CRC 1 July 2021.
 2. Dan C. Marinescu, Cloud Computing Theory and Practice, 3rd Edition, Elsevier - 
 February 15, 2022. 
   
-
 ## Page 88
 
- 
- 
 FMCD2009 / 2.0 
  88 
 Reference Books: 
@@ -4256,8 +3872,6 @@ BACK
 
 ## Page 89
 
- 
- 
 FMCD2009 / 2.0 
  89 
 Program: Bachelor of Engineering   Semester: VI 
@@ -4308,12 +3922,8 @@ Marks
 4.  Course Project 30 15 
 Total 50 
  
-  
-
 ## Page 90
 
- 
- 
 FMCD2009 / 2.0 
  90 
 Evaluation Scheme (ESA) 
@@ -4358,8 +3968,6 @@ BACK
 
 ## Page 91
 
- 
- 
 FMCD2009 / 2.0 
  91 
 Program: Bachelor of Engineering Semester: VI 
@@ -4405,8 +4013,6 @@ BACK
 
 ## Page 92
 
- 
- 
 FMCD2009 / 2.0 
  92 
 Program: Bachelor of Engineering   Semester: VI 
@@ -4471,12 +4077,8 @@ Review-3 20
 ESA 50 
                                                 Total  100 
  
- 
-
 ## Page 93
 
- 
- 
 FMCD2009 / 2.0 
  93 
 Scheme for In-Semester Assessment (ISA) 
@@ -4520,13 +4122,10 @@ Presentation 9.3.1 10 5 3
 Report 10.1.2 05 4 3 
 Total =    50 
  
- 
 BACK  
 
 ## Page 94
 
- 
- 
 FMCD2009 / 2.0 
  94 
 Program: Bachelor of Engineering Semester: VI 
@@ -4565,8 +4164,6 @@ BACK
 
 ## Page 95
 
- 
- 
 FMCD2009 / 2.0 
  95 
 Program: Bachelor of Engineering Semester: VI 
@@ -4606,8 +4203,6 @@ BACK
 
 ## Page 96
 
- 
- 
 FMCD2009 / 2.0 
  96 
 Professional Electives-1, 2 & 3 
@@ -4650,13 +4245,8 @@ India, 2nd Ed, 2015.
 3. R. I. Hartley and A. Zisserman, Multiple View Geometry in Computer Vision, 
 Cambridge University Press, 2nd Edition, 2004. 
  
- 
-  
-
 ## Page 97
 
- 
- 
 FMCD2009 / 2.0 
  97 
 Scheme for End Semester Assessment (ESA) 
@@ -4688,8 +4278,6 @@ BACK
 
 ## Page 98
 
- 
- 
 FMCD2009 / 2.0 
  98 
 Program: Bachelor of Engineering   
@@ -4733,12 +4321,8 @@ ISA-1 (Theory) 30 17 ISA-2 (Theory) 30
 Lab Activity 50 33 
 Total 50 
  
-  
-
 ## Page 99
 
- 
- 
 FMCD2009 / 2.0 
  99 
 End-Semester Assessment Scheme 
@@ -4763,8 +4347,6 @@ BACK
 
 ## Page 100
 
- 
- 
 FMCD2009 / 2.0 
  100 
 Program: Bachelor of Engineering 
@@ -4806,13 +4388,8 @@ Effective Modeling in RDFS and OWL, Morgan Kaufmann; 2nd edition, 2011.
 3. John Hebeler, Matthew Fisher, Ryan Blace, Andrew Perez -Lopez, and Mike Dean 
 (Foreword), Semantic Web Programming, Wiley Publishers, 1 edition 2009. 
  
- 
- 
-
 ## Page 101
 
- 
- 
 FMCD2009 / 2.0 
  101 
 Scheme for End Semester Assessment (ESA) 
@@ -4825,13 +4402,10 @@ I Q.No.-1, Q.No.-2, Q.No.-3 1, 2,3 Solve Any 2
 II Q.No.-4, Q.No.-5, Q.No.-6 4,5 Solve Any 2 
 III Q.No.-7 6 Solve Any 1 Q.No.-8 6 
  
- 
 BACK  
 
 ## Page 102
 
- 
- 
 FMCD2009 / 2.0 
  102 
 Program: Bachelor of Engineering 
@@ -4852,14 +4426,12 @@ parallel and cascade), properties of linear systems. (homogeneity
 ,superposition, linearity a nd time invariance, stability, memory, 
 causality) 
  
- 
 10hrs 
 2 
 Chapter No. 02 : LTI System Representation 
 Impulse response representation and properties, Convolution, 
 convolution sum and convolution integral. Differential and difference 
 equation Representation, Block diagram representation 
- 
  
 10hrs 
 Unit –II 
@@ -4893,14 +4465,11 @@ Reference Books:
 
 ## Page 103
 
- 
- 
 FMCD2009 / 2.0 
  103 
 2. Ganesh Rao and Satish Tunga, Signals and Systems 1st edition, Cengage India, 2017 
 3. M. J. Roberts, Fundamentals of Signals and Systems  2nd edition, McGraw Hill 
 Education, 2017 
- 
  
 Scheme for End Semester Assessment (ESA) 
  
@@ -4916,8 +4485,6 @@ BACK
 
 ## Page 104
 
- 
- 
 FMCD2009 / 2.0 
  104 
 Program: Bachelor of Engineering 
@@ -4977,8 +4544,6 @@ compression, transform coding, JPEG, and sub band image compression.
 
 ## Page 105
 
- 
- 
 FMCD2009 / 2.0 
  105 
 8 
@@ -5007,7 +4572,6 @@ Reference Books:
 Pte. Ltd. /Prentice Hall of India, 2004. 
 4. Alan C Bovik “Essential Guide to Video Processing”, AP Elsevier publication, 2009. 
  
- 
 Scheme for End Semester Assessment (ESA) 
  
 UNIT 8 Questions to be set of 20 
@@ -5018,13 +4582,8 @@ I Q.No.-1, Q.No.-2, Q.No.-3 1, 2,3,4 Solve Any 2 out of 3
 II Q.No.-4, Q.No.-5, Q.No.-6 5,6,7,8 Solve Any 2 out of 3 
 III Q.No.-7 9 Solve Any 1 out of 2 Q.No.-8 19 
  
- 
-  
-
 ## Page 106
 
- 
- 
 FMCD2009 / 2.0 
  106 
 Laboratory Plan 
@@ -5082,11 +4641,8 @@ MOOC course and course project.
  
 BACK 
   
-
 ## Page 107
 
- 
- 
 FMCD2009 / 2.0 
  107 
 Program: Bachelor of Engineering   
@@ -5104,7 +4660,6 @@ Normalization, transfer learning, back propagation algorithms.
 2 Deep Neural Network – 2 
 Update rules, hyper parameter tuning, vs learning rate scheduling, data 
 augmentation Architectures: AlexNet, VGG, ResNet,MobileNet 
- 
  
 8 hrs 
 Unit-II 
@@ -5136,12 +4691,8 @@ Techniques to Build Intelligent Systems, By  Aurélien Géron  , Publisher:  O'R
 Media, July 2016 
 3. Advanced Machine Learning with Python Paperback, 28 Jul 2016 by John Hearty. 
  
- 
-
 ## Page 108
 
- 
- 
 FMCD2009 / 2.0 
  108 
 List of experiments 
@@ -5165,15 +4716,10 @@ Word2vec
 parameter tuning, Regularization and Optimization 1 
 7.  Course Project 4 
  
- 
 BACK 
  
-  
-
 ## Page 109
 
- 
- 
 FMCD2009 / 2.0 
  109 
 Program: Bachelor of Engineering 
@@ -5219,13 +4765,8 @@ Lab Experiments 15 17
 Certification 15 
 Total 50 
  
- 
- 
-
 ## Page 110
 
- 
- 
 FMCD2009 / 2.0 
  110 
 End-Semester Assessment Scheme 
@@ -5268,8 +4809,6 @@ generalization.
 
 ## Page 111
 
- 
- 
 FMCD2009 / 2.0 
  111 
 Program: Bachelor of Engineering   
@@ -5324,8 +4863,6 @@ Revolution Press, 2016.
 
 ## Page 112
 
- 
- 
 FMCD2009 / 2.0 
  112 
 List of Experiments: 
@@ -5380,8 +4917,6 @@ Project Review – Phase 3 10
 
 ## Page 113
 
- 
- 
 FMCD2009 / 2.0 
  113 
 Infosys Springboard 
@@ -5399,8 +4934,6 @@ BACK
 
 ## Page 114
 
- 
- 
 FMCD2009 / 2.0 
  114 
 Program: Bachelor of Engineering 
@@ -5448,12 +4981,8 @@ Reference Weblink:
 1. https://now.informatica.com/Customer-360-SaaS-for-Business-Users-Instructor-
 Led.html 
  
-  
-
 ## Page 115
 
- 
- 
 FMCD2009 / 2.0 
  115 
 Evaluation Scheme (ISA) 
@@ -5496,8 +5025,6 @@ Transformations, Mapplets 3
 
 ## Page 116
 
- 
- 
 FMCD2009 / 2.0 
  116 
   
@@ -5558,8 +5085,6 @@ image database, analysis of individual images, image sequences, applications.
 
 ## Page 117
 
- 
- 
 FMCD2009 / 2.0 
  117 
 Text Books: 
@@ -5569,7 +5094,6 @@ Second Edition,Springer, 2014.
 Content Processing”, 2nd Edition, Pearson Education / PHI, 2003. 
 Reference Books: 
 3. James E Shuman, “Multimedia in Action” 2nd Indian reprint 2008, Cengage learning. 
- 
  
 Scheme for End Semester Assessment (ESA) 
  
@@ -5582,8 +5106,6 @@ BACK
 
 ## Page 118
 
- 
- 
 FMCD2009 / 2.0 
  118 
 Program: Bachelor of Engineering 
@@ -5643,8 +5165,6 @@ automation, Smart Cities, Environme nt, Energy, Agriculture, Health,
 
 ## Page 119
 
- 
- 
 FMCD2009 / 2.0 
  119 
 Retail with emphasis on data analytics and security. Industrial IoT (IIoT). 
@@ -5718,8 +5238,6 @@ BACK
 
 ## Page 120
 
- 
- 
 FMCD2009 / 2.0 
  120 
 Program: Bachelor of Engineering 
@@ -5772,11 +5290,8 @@ Reference Books:
 2. Arshdeep Bhaga, Vijay Madisetti, "Blockchain Applications: A Hands-On Approach", 1st 
 Edition, VPT, January 31, 2017.  
  
-
 ## Page 121
 
- 
- 
 FMCD2009 / 2.0 
  121 
 Evaluation Scheme 
@@ -5822,11 +5337,8 @@ Design and Front end design 1
  
 BACK 
  
-
 ## Page 122
 
- 
- 
 FMCD2009 / 2.0 
  122 
 Program: Bachelor of Engineering 
@@ -5879,11 +5391,8 @@ Reference Books:
 4. Arshdeep Bhaga, Vijay Madisetti, "Blockchain Applications: A Hands-On Approach", 1st 
 Edition, VPT, January 31, 2017.  
  
-
 ## Page 123
 
- 
- 
 FMCD2009 / 2.0 
  123 
 Evaluation Scheme 
@@ -5933,11 +5442,8 @@ Design and Front end design 1
  
 BACK 
   
-
 ## Page 124
 
- 
- 
 FMCD2009 / 2.0 
  124 
  
@@ -5985,11 +5491,8 @@ Detecting Threats, Packt Publishing, 2021.
 2. E. Al-Shaer, Automated Security Operations: Threat Hunting, Detection, and Response 
 at Scale, Pearson, 2020. 
  
-
 ## Page 125
 
- 
- 
 FMCD2009 / 2.0 
  125 
 Evaluation Scheme 
@@ -6018,15 +5521,10 @@ SIEM component.
 8 Network attack detection. 02 
 9 SIEM alert management. 03 
  
- 
 BACK 
  
-  
-
 ## Page 126
 
- 
- 
 FMCD2009 / 2.0 
  126 
 Program: Bachelor of Engineering 
@@ -6076,11 +5574,8 @@ Laboratory
 Assessment 60 33 
 Total 66 
  
-
 ## Page 127
 
- 
- 
 FMCD2009 / 2.0 
  127 
 ESA Scheme 
@@ -6103,16 +5598,10 @@ integration
 03 
 8 Open Ended Activity 04 
  
- 
 BACK 
  
- 
-  
-
 ## Page 128
 
- 
- 
 FMCD2009 / 2.0 
  128 
 Program: Bachelor of Engineering 
@@ -6170,8 +5659,6 @@ BACK
 
 ## Page 129
 
- 
- 
 FMCD2009 / 2.0 
  129 
 Program: Bachelor of Engineering 
@@ -6229,8 +5716,6 @@ BACK
 
 ## Page 130
 
- 
- 
 FMCD2009 / 2.0 
  130 
  
@@ -6289,12 +5774,9 @@ Reference Books:
 
 ## Page 131
 
- 
- 
 FMCD2009 / 2.0 
  131 
 1. Michael Quinn, Parallel Computing Theory and Practice, Tata McGraw Hill, 2003 
- 
  
 Scheme for End Semester Assessment (ESA) 
  
@@ -6306,13 +5788,10 @@ I Q.No.-1, Q.No.-2, Q.No.-3 1, 2 Solve Any 2
 II Q.No.-4, Q.No.-5, Q.No.-6 3,4 Solve Any 2 
 III Q.No.-7 5 Solve Any 1 Q.No.-8 5 
  
- 
 BACK  
 
 ## Page 132
 
- 
- 
 FMCD2009 / 2.0 
  132 
 Program: Bachelor of Engineering 
@@ -6366,11 +5845,8 @@ Computing “, Oxford University, Press, 2007
  
 Scheme for End Semester Assessment (ESA) 
  
-
 ## Page 133
 
- 
- 
 FMCD2009 / 2.0 
  133 
 UNIT 8 Questions to be set of 20 
@@ -6386,8 +5862,6 @@ BACK
 
 ## Page 134
 
- 
- 
 FMCD2009 / 2.0 
  134 
 Program: Bachelor of Engineering 
@@ -6435,12 +5909,8 @@ Laboratory
 Assessment 60 33 
 Total 66 
  
-  
-
 ## Page 135
 
- 
- 
 FMCD2009 / 2.0 
  135 
 ESA Scheme 
@@ -6493,11 +5963,8 @@ beyond the brain and heart.
  
 BACK 
   
-
 ## Page 136
 
- 
- 
 FMCD2009 / 2.0 
  136 
 Program: Bachelor of Engineering   
@@ -6521,7 +5988,6 @@ model, Federated Learning, Flexible Inferencing.
 3 Android Anatomy: Android Architecture, Linux Kernel, Binder, HAL Native 
 Libraries, Android Runtime, Dalvik Application framework, Applications, IPC. 5 hrs 
 Text Books 
-1. Linux System Programming, by Robert Love, Copyright © 2007 O'Reilly Media. 
 2. Heterogeneous Computing with OpenCL, 2nd Edition by Dana Schaa, Perhaad Mistry, 
 David R. Kaeli, Lee Howes, Benedict Gaster, Publisher: Morgan Kaufmann. 
 3. Deep Learning, MIT Press book, Goodfellow, Bengio, and Courville’s. 
@@ -6549,11 +6015,8 @@ Weightage in
 Marks 
 Lab Exam (ESA) 1, 2, 3 40 34 Marks 
  
-
 ## Page 137
 
- 
- 
 FMCD2009 / 2.0 
  137 
 List of experiments 
@@ -6601,8 +6064,6 @@ BACK
 
 ## Page 138
 
- 
- 
 FMCD2009 / 2.0 
  138 
 Program: Bachelor of Engineering   
@@ -6654,12 +6115,8 @@ Reference Books:
 design,  Morgan Ka, 2012 
 2. Steve Furber, ARM System-on-chip Architecture, 2, Pearson, 2000 
  
-  
-
 ## Page 139
 
- 
- 
 FMCD2009 / 2.0 
  139 
  
@@ -6693,8 +6150,6 @@ BACK
 
 ## Page 140
 
- 
- 
 FMCD2009 / 2.0 
  140 
 Program: Bachelor of Engineering   
@@ -6749,8 +6204,6 @@ Defining and Assessing Selectors - Customization - Debugging - Dynamic
 
 ## Page 141
 
- 
- 
 FMCD2009 / 2.0 
  141 
 Selectors - Partial Selectors - RPA Challenge - Image, Text & Advanced Citrix 
@@ -6781,7 +6234,6 @@ Automate Repetitive Tasks & Become An RPA Consultant
 benefits: Understanding RPA and Intelligent Automation 
 4. https://www.uipath.com/rpa/robotic-process-automation 
  
- 
 Scheme for End Semester Assessment (ESA) 
  
 UNIT 8 Questions to be set of 20 
@@ -6794,11 +6246,8 @@ III Q.No.-7 5 Solve Any 1 Q.No.-8 5
  
 BACK 
   
-
 ## Page 142
 
- 
- 
 FMCD2009 / 2.0 
  142 
 Program: Bachelor of Engineering   
@@ -6851,8 +6300,6 @@ BACK
 
 ## Page 143
 
- 
- 
 FMCD2009 / 2.0 
  143 
 Semester – VII 
@@ -6900,11 +6347,8 @@ India Pvt Ltd 2022.
 3. Gerard Maas and François Garillot, Stream Processing with Apache Spark Mastering 
 Structured Streaming and Spark Streaming, O’REILLY , 2019. 
   
-
 ## Page 144
 
- 
- 
 FMCD2009 / 2.0 
  144 
 References: 
@@ -6952,11 +6396,8 @@ Industry
 CO1 L3 1st  &2nd 
 week 1.4.1 4 Nil 
   
-
 ## Page 145
 
- 
- 
 FMCD2009 / 2.0 
  145 
 2.  Problem Identification (10 M) 
@@ -7003,16 +6444,8 @@ Week
 2 2 10 
  Total  28 50 
  
- 
- 
- 
- 
-  
-
 ## Page 146
 
- 
- 
 FMCD2009 / 2.0 
  146 
  
@@ -7034,16 +6467,10 @@ Marks
 Theory 60 33 
 Total 33 
  
- 
                                                                                                                              BACK 
  
-  
-  
-
 ## Page 147
 
- 
- 
 FMCD2009 / 2.0 
  147 
  
@@ -7092,11 +6519,8 @@ Edition, Pearson, 2020
 2. Mark Stamp, “Information Security: Principles and Practices”, 3rdEdition, John Wiley 
 and Sons, 2021. 
    
-
 ## Page 148
 
- 
- 
 FMCD2009 / 2.0 
  148 
 References 
@@ -7154,8 +6578,6 @@ and network security protocols
 
 ## Page 149
 
- 
- 
 FMCD2009 / 2.0 
  149 
  
@@ -7206,8 +6628,6 @@ Review-3 Implementation and Testing.
 
 ## Page 150
 
- 
- 
 FMCD2009 / 2.0 
  150 
  
@@ -7226,19 +6646,10 @@ and Viva voce.
 30 
 4. Project Report. 10 
  
- 
                                                                                                                                              BACK 
  
- 
- 
- 
- 
-  
-
 ## Page 151
 
- 
- 
 FMCD2009 / 2.0 
  151 
  
@@ -7281,15 +6692,11 @@ Impediments to responsibility, Honesty, Integrity and reliability, risks, safety
 liability in engineering. Bhopal Gas Tragedy, Titanic case.  
 5 hrs 
 8 Intellectual Property Rights: Intellectual Property Rights (IPRs) - Patents, 
-Copyright and Designs 3 hrs 
 9 Ethical perspectives of professional bodies: Ethical perspectives of 
 professional bodies- IEEE, ASME, NSPE and ABET, ASCE etc. 3 hrs 
   
-
 ## Page 152
 
- 
- 
 FMCD2009 / 2.0 
  152 
  Unit – III  
@@ -7322,18 +6729,8 @@ Assignment 10
  
                                                                                                                          BACK 
                            
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 153
 
- 
- 
 FMCD2009 / 2.0 
  153 
  
@@ -7376,7 +6773,6 @@ Reference Books:
 second edition, cambridge university press, march 2004. 
 3. Ian goodfellow, yoshuabengio and aaron courville, deep learning, mit press, 2016. 
   
- 
 Evaluation Scheme 
 In-Semester Assessment Scheme 
 Assessment Conducted for 
@@ -7390,8 +6786,6 @@ Total 67
 
 ## Page 154
 
- 
- 
 FMCD2009 / 2.0 
  154 
 End-Semester Assessment Scheme 
@@ -7401,8 +6795,6 @@ Weightage in
 Marks 
 Theory 60 33 
 Total 33 
- 
- 
  
 Laboratory Plan 
                  List of Exercises 
@@ -7429,12 +6821,8 @@ tensorflow 2(7hr 6m**)
  
                                   BACK 
  
-  
-
 ## Page 155
 
- 
- 
 FMCD2009 / 2.0 
  155 
  
@@ -7483,12 +6871,8 @@ Kearns and Aaron Roth
 4. "Responsible Artificial Intelligence: How to Develop and Use AI in a Responsible 
 Way" Virginia Dignum 
  
-  
-
 ## Page 156
 
- 
- 
 FMCD2009 / 2.0 
  156 
 Lab Plan: 
@@ -7511,7 +6895,6 @@ SHAP and LIME
 Performance Optimization and Scaling 
 4 
  
- 
   Evaluation Scheme 
 In-Semester Assessment Scheme 
 Assessment Conducted for 
@@ -7532,13 +6915,8 @@ Total 33
   
 BACK 
  
- 
-  
-
 ## Page 157
 
- 
- 
 FMCD2009 / 2.0 
  157 
 Program: Bachelor of Engineering   
@@ -7594,8 +6972,6 @@ the GAME framework.
 
 ## Page 158
 
- 
- 
 FMCD2009 / 2.0 
  158 
 Ethical Considerations and Bias Detection 
@@ -7622,11 +6998,8 @@ Total 33
  
 BACK 
   
-
 ## Page 159
 
- 
- 
 FMCD2009 / 2.0 
  159 
  
@@ -7679,8 +7052,6 @@ Total 33
 
 ## Page 160
 
- 
- 
 FMCD2009 / 2.0 
  160 
  
@@ -7730,8 +7101,6 @@ BACK
 
 ## Page 161
 
- 
- 
 FMCD2009 / 2.0 
  161 
 Program: Bachelor of Engineering   
@@ -7780,12 +7149,8 @@ Publishing and Distribution, Deployment Pipelines for Lifecycle Management,
 Data Governance and Compliance. 
 04 Hrs 
  
-  
-
 ## Page 162
 
- 
- 
 FMCD2009 / 2.0 
  162 
    Evaluation Scheme 
@@ -7800,11 +7165,8 @@ Theory 60 33
 Total 33 
 BACK 
   
-
 ## Page 163
 
- 
- 
 FMCD2009 / 2.0 
  163 
 Program: Bachelor of Engineering   
@@ -7854,8 +7216,6 @@ Scheme for End Semester Assessment (ESA): No ESA for the course
 
 ## Page 164
 
- 
- 
 FMCD2009 / 2.0 
  164 
   
@@ -7901,8 +7261,6 @@ Architecture, Network Slicing.
 
 ## Page 165
 
- 
- 
 FMCD2009 / 2.0 
  165 
 Text Books  
@@ -7952,8 +7310,6 @@ IoT, video streaming).
 
 ## Page 166
 
- 
- 
 FMCD2009 / 2.0 
  166 
 4 
@@ -7970,11 +7326,8 @@ edge applications and analyze performance.
  
 BACK 
   
-
 ## Page 167
 
- 
- 
 FMCD2009 / 2.0 
  167 
 Program: Bachelor of Engineering   
@@ -8023,8 +7376,6 @@ Textbooks:
 
 ## Page 168
 
- 
- 
 FMCD2009 / 2.0 
  168 
 Reference Books: 
@@ -8046,11 +7397,8 @@ II Q.No.-6, Q.No.-7, Q.No.-8 4, 5 Solve Any 2 out of 3
  
  BACK 
   
-
 ## Page 169
 
- 
- 
 FMCD2009 / 2.0 
  169 
 Program: Bachelor of Engineering   
@@ -8094,12 +7442,8 @@ UNIT-II
 9. Interaction between Legacy Networks and SDN Networks. 
 10. Configuring VPLS. UNIT-II 11. Network function virtualization 
  
-  
-
 ## Page 170
 
- 
- 
 FMCD2009 / 2.0 
  170 
 Evaluation Scheme 
@@ -8122,12 +7466,8 @@ Total 33
   
 BACK 
  
-  
-
 ## Page 171
 
- 
- 
 FMCD2009 / 2.0 
  171 
  
@@ -8181,8 +7521,6 @@ Sl.No. Experiments No.of lab slots
 
 ## Page 172
 
- 
- 
 FMCD2009 / 2.0 
  172 
 5 DDoS and AWS WAF Setup 1 
@@ -8202,12 +7540,8 @@ Theory 60 33
 Total 33 
 BACK 
  
-  
-
 ## Page 173
 
- 
- 
 FMCD2009 / 2.0 
  173 
 Program: Bachelor of Engineering 
@@ -8255,12 +7589,8 @@ Wiley, ISBN: 978-1118026472, 2011.
 3. Andrew Hoffman,  Web Application Security: Exploitation and Countermeasures for 
 Java, .NET, and PHP , 1st Edition (2020) O’Reilly Media, ISBN: 978-149205311 
  
-  
-
 ## Page 174
 
- 
- 
 FMCD2009 / 2.0 
  174 
 Evaluation Scheme 
@@ -8293,11 +7623,8 @@ Misconfigurations
 8 Implementing Content Security Policy (CSP) 02 
 BACK 
   
-
 ## Page 175
 
- 
- 
 FMCD2009 / 2.0 
  175 
 Program: Bachelor of Engineering   
@@ -8345,11 +7672,8 @@ Patterns Catalog, Relationships between Tactics and Patterns, Using Tactics
 Together 
 5 hrs 
   
-
 ## Page 176
 
- 
- 
 FMCD2009 / 2.0 
  176 
 Unit – III 
@@ -8391,12 +7715,8 @@ III Q.No.-7 7 Solve Any 1 out of 2 Q.No.-8 8
  
   BACK 
  
-  
-
 ## Page 177
 
- 
- 
 FMCD2009 / 2.0 
  177 
 Program: Bachelor of Engineering   
@@ -8446,8 +7766,6 @@ Thinking.
 
 ## Page 178
 
- 
- 
 FMCD2009 / 2.0 
  178 
  
@@ -8467,14 +7785,10 @@ I Q.No.-1, Q.No.-2, Q.No.-3 1, 2 Solve Any 2
 II Q.No.-4, Q.No.-5, Q.No.-6 3,4 Solve Any 2 
 III Q.No.-7 5 Solve Any 1 Q.No.-8 6 
  
- 
   BACK 
   
-
 ## Page 179
 
- 
- 
 FMCD2009 / 2.0 
  179 
 Program: Bachelor of Engineering   
@@ -8500,16 +7814,10 @@ Mini Project   ~10 hours (students work guided by lab faculty and periodically A
 engineers) 
 Open source HPC code and optimization opportunities 
  
- 
- 
- 
  BACK 
   
-
 ## Page 180
 
- 
- 
 FMCD2009 / 2.0 
  180 
 Program: Bachelor of Engineering   
@@ -8555,11 +7863,8 @@ Simon’s Algorithm.
 8 Case Studies and Projects done during the course: Image processing, Data 
 Sciences, Machine Learning, Networking  4 hrs 
   
-
 ## Page 181
 
- 
- 
 FMCD2009 / 2.0 
  181 
 Text Book (List of books as mentioned in the approved syllabus)  
@@ -8571,11 +7876,8 @@ References
  
 BACK 
   
-
 ## Page 182
 
- 
- 
 FMCD2009 / 2.0 
  182 
 Program: Bachelor of Engineering   
@@ -8632,8 +7934,6 @@ Paperback", 1st Edition, Morgan Kaufmann, 2015.
 
 ## Page 183
 
- 
- 
 FMCD2009 / 2.0 
  183 
 Reference Books: 
@@ -8689,12 +7989,8 @@ using CUDA programming 02 10
 OpenCL. 01 10 
 BACK 
  
- 
-
 ## Page 184
 
- 
- 
 FMCD2009 / 2.0 
  184 
 Program: Bachelor of Engineering   
@@ -8748,8 +8044,6 @@ Buttons, Configuring Tab Order.
 
 ## Page 185
 
- 
- 
 FMCD2009 / 2.0 
  185 
 6. 
@@ -8787,7 +8081,6 @@ Pearson, 2009.
 2010. 
 4. Joseph Albahari and Ben Albhari, “C# 3.0/4.0 in Nutshell”, 3rd Edition, O’Rilley, 2007. 
  
- 
 Scheme for End Semester Assessment (ESA) 
 UNIT 8 Questions to be set of 20 
 Marks Each 
@@ -8800,11 +8093,8 @@ III Q.No.-7 7 Solve Any 1 out of 2 Q.No.-8 8
  
 BACK 
   
-
 ## Page 186
 
- 
- 
 FMCD2009 / 2.0 
  186 
 Program: Bachelor of Engineering   
@@ -8852,12 +8142,8 @@ and Mind Series), The MIT Press, 2008.
 Reference Books: 
 1. Model Thinking Coursera online course from Michigan University. 
   
-  
-
 ## Page 187
 
- 
- 
 FMCD2009 / 2.0 
  187 
 Scheme for End Semester Assessment (ESA) 
@@ -8873,11 +8159,8 @@ III Q.No.-7 6 Solve Any 1 Q.No.-8 7
  
  BACK 
   
-
 ## Page 188
 
- 
- 
 FMCD2009 / 2.0 
  188 
 Program: Bachelor of Engineering   
@@ -8929,8 +8212,6 @@ Hill International Edition, Seventh edition, 2009.
 
 ## Page 189
 
- 
- 
 FMCD2009 / 2.0 
  189 
 References: 
@@ -8954,11 +8235,8 @@ III Q.No.-7, Q.No.-8 6, 7 Solve Any 1
  
  BACK 
   
-
 ## Page 190
 
- 
- 
 FMCD2009 / 2.0 
  190 
 Program: Bachelor of Engineering   
@@ -8998,12 +8276,8 @@ and Sons, Ltd., Publication
 3. Ahmed M. Ibrahi m, Fuzzy Logic for Embedded Systems Applications, Elesvier Press, 
 2004. 
  
-  
-
 ## Page 191
 
- 
- 
 FMCD2009 / 2.0 
  191 
 Scheme for End Semester Assessment (ESA) 
@@ -9019,11 +8293,8 @@ III Q.No.-7 5 Solve Any 1 Q.No.-8 6
  
 BACK 
   
-
 ## Page 192
 
- 
- 
 FMCD2009 / 2.0 
  192 
 Program: Bachelor of Engineering   
@@ -9074,11 +8345,8 @@ II Q.No.-4, Q.No.-5, Q.No.-6 4,5,6 Solve Any 2 out of 3
 III Q.No.-7 7 Solve Any 1 out of 2 Q.No.-8 8 
 BACK 
  
-
 ## Page 193
 
- 
- 
 FMCD2009 / 2.0 
  193 
 Program: Bachelor of Engineering   
@@ -9091,8 +8359,6 @@ Undergraduate/Postgraduate
 COURSE LAYOUT 
 Week 1: Introduction ; Tutorial 1: Introduction to Python/Colab;  Tutorial 2: 
 Introduction to NetworkX - Part I 
- 
- 
  
 6 hrs 
 2 Week 2: Network Measures ; Tutorial 3: Introduction to NetworkX - Part II 
@@ -9113,12 +8379,10 @@ Foundations of privacy - Information privacy, Measurement, Theories.
 Week 10: Introduction to Deep Learning; Graph Representation Learning - Part 
 I 
  
- 
 4 hrs 
 8 Week 11: Graph Representation Learning - Part II ; Tutorial: Coding on Graph 
 Representation Learning 
 Week 12: Applications and Case Studies ; Conclusion 
- 
  
 4 hrs 
 Text Books: 
@@ -9134,14 +8398,8 @@ University Press, 2003.
 4. Duncan Watts, Six degrees: the science of a connected age, W. W. Norton & 
 Company,  2004. 
  
- 
- 
- 
-
 ## Page 194
 
- 
- 
 FMCD2009 / 2.0 
  194 
 ISA: Scheme of Evaluation 
@@ -9157,15 +8415,10 @@ Final score = Average assignment score + Exam score
 ISA1 & ISA2 50 
 Total 100 
  
- 
 BACK 
  
-  
-
 ## Page 195
 
- 
- 
 FMCD2009 / 2.0 
  195 
 Program: Bachelor of Engineering   
@@ -9208,11 +8461,8 @@ Exam score = 75% of the proctored certification exam score out of 100
 Final score = Average assignment score + Exam score 
 BACK 
  
-
 ## Page 196
 
- 
- 
 FMCD2009 / 2.0 
  196 
 Program: Bachelor of Engineering   
@@ -9249,12 +8499,8 @@ learning, accessed November 2018.
 2. Van Kessel, P. Is cyber security about more than protection? EY Global 
 Information Security Survey 2018-2019. 
  
-  
-
 ## Page 197
 
- 
- 
 FMCD2009 / 2.0 
  197 
 Scheme for In Semester Assessment (ISA) conducted by KLE TECH 
@@ -9275,11 +8521,8 @@ Final score = Average assignment score + Exam score
  
 BACK 
   
-
 ## Page 198
 
- 
- 
 FMCD2009 / 2.0 
  198 
  
@@ -9312,13 +8555,8 @@ a) "Internship- Training" Marks (Out of 100)
 b) "Internship - Project" Marks (Out of 100) 
 c) Industry shall issue Internship Certificate to student-intern. 
  
- 
-  
-
 ## Page 199
 
- 
- 
 FMCD2009 / 2.0 
  199 
 Program: Bachelor of Engineering   Semester: VIII 
@@ -9349,7 +8587,6 @@ CO 4. Offered jobs in the organizations in which they undergo their Internship T
 CO 5. Demonstrate common practices, employment opportunities and work ethics in their 
 relevant  
  
- 
 Scheme for in Semester Assessment (ISA) and End Semester Assessment (ESA) 
  
 Course Course Code Max ISA marks Max ESA 
@@ -9362,12 +8599,8 @@ both ISA and ESA.
  
 BACK 
  
- 
-
 ## Page 200
 
- 
- 
 FMCD2009 / 2.0 
  200 
 Program: Bachelor of Engineering   Semester-VIII 
@@ -9410,12 +8643,8 @@ ISA and ESA.
  
 BACK 
  
-  
-
 ## Page 201
 
- 
- 
 FMCD2009 / 2.0 
  201 
  
@@ -9462,21 +8691,8 @@ Committee 25
 End Semester Assessment (50%) Final Review 50 
 Total 100 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 202
 
- 
- 
 FMCD2009 / 2.0 
  202 
 Student Evaluation Matrix: 
@@ -9500,13 +8716,10 @@ Sl.No Expectation Marks
 4. Relevance of project to ethical/ social/ legal/ economic concerns 05 
  Total  50 
  
-    
                                                                                                                                  BACK  
 
 ## Page 203
 
- 
- 
 FMCD2009 / 2.0 
  203 
 Open Electives 
@@ -9561,11 +8774,8 @@ Parallel Processing to the Internet of Things, Elsevier, 2013.
 6. Nigel Poulton, The Kubernetes Book, Packt Publishing, 2019. 
 BACK 
   
-
 ## Page 204
 
- 
- 
 FMCD2009 / 2.0 
  204 
 Program: Bachelor of Engineering   
@@ -9615,12 +8825,8 @@ Starvation, Concurrency control based on Time stamp Ordering.
  
 BACK 
  
-  
-
 ## Page 205
 
- 
- 
 FMCD2009 / 2.0 
  205 
  
@@ -9663,12 +8869,8 @@ Testing, User Testing.
 System building, Release management. 
 4 hrs 
  
- 
-
 ## Page 206
 
- 
- 
 FMCD2009 / 2.0 
  206 
 Text Books: 
@@ -9692,16 +8894,10 @@ II Q.No.-4, Q.No.-5, Q.No.-6 4,5,6 Solve Any 2 out of 3
 III Q.No.-7 7 Solve Any 1 out of 2 
 Q.No.-8 8 
  
- 
                                                                                                                                 BACK 
  
- 
-  
-
 ## Page 207
 
- 
- 
 FMCD2009 / 2.0 
  207 
 Program: Bachelor of Engineering   
@@ -9751,11 +8947,8 @@ libraries, tools, and frameworks
 6 Case Studies and Projects done during the course:  Various case studies from 
 various engineering discipline 4hrs 
  
-
 ## Page 208
 
- 
- 
 FMCD2009 / 2.0 
  208 
 Text Books 
@@ -9769,7 +8962,6 @@ Seamless Approach to Parallel Algorithms and their Implementation, Cambridge
 University Press,2003. 
 2.  M.J. Quinn, Parallel Programming in C with MPI and OpenMP , McGraw-Hill, 2004. 
  
- 
 Scheme for End Semester Assessment (ESA) 
 UNIT 8 Questions to be set of 
 20 Marks Each 
@@ -9780,14 +8972,10 @@ I Q.No.-1, Q.No.-2, Q.No.-3 1, 2 Solve Any 2
 II Q.No.-4, Q.No.-5, Q.No.-6 3,4 Solve Any 2 
 III Q.No.-7 5 Solve Any 1 Q.No.-8 6 
  
- 
  BACK 
   
-
 ## Page 209
 
- 
- 
 FMCD2009 / 2.0 
  209 
 Program: Bachelor of Engineering  
@@ -9830,11 +9018,8 @@ operators, aggregate functions, order by and group by clause, joins and
 sub queries. 
 4 hrs 
  
-
 ## Page 210
 
- 
- 
 FMCD2009 / 2.0 
  210 
 Text Books: 
@@ -9857,16 +9042,10 @@ Instructions
 I  Project Examination 4 - 8 Project implementation and 
 demonstration  20 marks 
  
-  
                                                                                              BACK  
  
- 
-  
-
 ## Page 211
 
- 
- 
 FMCD2009 / 2.0 
  211 
  
@@ -9905,12 +9084,8 @@ SAS Business Series, 2012.
 2. Colleen Mccue, Data Mining and Predictive Analysis: Intelligence Gathering and Crime 
 Analysis, Elsevier, 2007. 
  
-  
-
 ## Page 212
 
- 
- 
 FMCD2009 / 2.0 
  212 
  
@@ -9924,8 +9099,6 @@ Instructions
 I Q.No.-1, Q.No.-2, Q.No.-3 1, 2,3 Solve Any 2 out of 3 
 II Q.No.-4, Q.No.-5, Q.No.-6 4,5 Solve Any 2 out of 3 
 III Q.No.-7 6 Solve Any 1 out of 2 Q.No.-8 7 
- 
- 
  
                                                                                                                         BACK 
  

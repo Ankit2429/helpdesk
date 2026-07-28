@@ -1,11 +1,9 @@
 # PDF Document: 9th_BOG_Minutes
+
 **PDF Source:** https://www.kletech.ac.in/pdf/9th_BOG_Minutes.pdf
 
 ## Page 1
 
- 
- 
- 
 Minutes of Meeting 
  
 9th Board of Governors Meeting 
@@ -17,12 +15,6 @@ June 11th, 2018 at 10 am
 Venue: Senate Hall, KLE Technological University, Hubballi - 
 580031 
  
- 
- 
- 
- 
- 
-
 ## Page 2
 
 ii 
@@ -78,7 +70,6 @@ Member
 Government of Karnataka. 
 Member 
  
-
 ## Page 3
 
 iii 
@@ -103,7 +94,6 @@ Table Agenda 2: To consider and accord permission to raise a loan of Rs.10.00
 Crores towards construction of Indoor Stadium. 
 15 
  
-
 ## Page 4
 
 1 
@@ -273,12 +263,9 @@ credit facility from AXIS Bank Limited, Hubballi to the extent of Rs. 5.0 Crores
 Chairman thanked all the members for their contributions and with a vote of thanks to the Chair, 
 the meeting was concluded. 
  
- 
 Action Requested: To confirm the minutes of the 8th BOG meeting held on 24th March 2018. 
  
- 
 Discussion: 
- 
  
 Resolution 9.1: The Board of Governors confirmed the minutes of its 8 th meeting of the Board 
 of Governors held on 24 th March 2018 at the Board Room of KLE University, J N 
@@ -287,7 +274,6 @@ Medical College campus, Belagavi.
 ## Page 8
 
 5 
- 
  
 BOG 9.2 To confirm the action taken report on the minutes of the previous meeting held on 24th March 2018. 
 Agenda Description Action Taken 
@@ -363,7 +349,6 @@ admissions under supernumerary quota.
  Visit to BI TS (Pilani) will be made to study 
 their model for students’ feedback. 
  
-
 ## Page 10
 
 7 
@@ -466,13 +451,9 @@ Referring to curriculum structure of first year Prof. B.S. Sonde draw the attent
  
 Resolution 9.2: Resolved to confirm the action taken report on the minutes of the previous meeting held on 24th March 2018. 
  
- 
- 
-
 ## Page 13
 
 10 
- 
  
 BOG 
 9.3 
@@ -546,7 +527,6 @@ given, capital should be brought by the graduates who wish to start their compan
 suggested having neutral examiners to assess ‘ Start-up Internship Experience ’ course. To this Smt. 
 Sudha Murty expressed that the startup may not be interested in 3rd person looking at their work.  
  
-
 ## Page 15
 
 12 
@@ -561,7 +541,6 @@ following new academic initiatives of UG programs approved by the Academic Counc
 ## Page 16
 
 13 
- 
  
 BOG 
 9.4 
@@ -614,16 +593,11 @@ University, Hubballi for a further period of three years and
  Prof. B.L. Desai is re -appointed as the Registrar of the KLE Technological University, 
 Hubballi for a further period of one year. 
  
- 
- 
-
 ## Page 18
 
 15 
  
- 
 BOG 9.5 Any other subject with the permission of the Chair. 
- 
  
 Table Agenda 1: To open the fixed deposit accounts with Axis Bank Ltd, Vidyanagar Branch, 
 Hubballi. 
@@ -638,7 +612,6 @@ as per the requirement of the University.
  Singly authorize Prof. B.L Desai, Registrar to sign, execute and deliver all the documents as 
 may be necessary for prope r availing of the said facility and as may be required by the 
 Bank. 
- 
  
 Table Agenda 2: To consider and accord permission to rai se a loan of Rs.10.00 Crores to wards 
 construction of Indoor Stadium. 

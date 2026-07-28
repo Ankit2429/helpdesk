@@ -1,15 +1,10 @@
 # PDF Document: 5th_BOG_Minutes
+
 **PDF Source:** https://www.kletech.ac.in/pdf/5th_BOG_Minutes.pdf
 
 ## Page 1
 
 1 
- 
- 
- 
- 
- 
- 
  
 Minutes 
 5th Board of Governors Meeting 
@@ -18,8 +13,6 @@ KLE Technological University
 Hubballi, Karnataka 
 October 27, 2016 
  
-
-
 ## Page 2
 
 2 
@@ -74,13 +67,11 @@ Veerbhadra Kripa, Navodaya Nagar,
 Dharwad-580003 
 Member 
  
-
 ## Page 3
 
 3 
  
 Agenda 
- 
  
 Item 
 No. 
@@ -198,11 +189,6 @@ for the
 academic 
 year 2016-17 
  
- 
- 
- 
- 
- 
 UG Engineering Programs: 
 Sl. 
 No. 
@@ -283,7 +269,6 @@ the seat
 sharing ratio is 
 95:5. 
  
-
 ## Page 6
 
 6 
@@ -383,7 +368,6 @@ and functions
 of the Estate 
 Council. 
  
-
 ## Page 7
 
 7 
@@ -394,7 +378,6 @@ report on the minutes of the previous meeting held on 5th April 2016.
 Resolution 5.2: Resolved to approve the action taken report on the 
 minutes of the previous meeting held on 5th April 2016. 
  
-
 ## Page 8
 
 8 
@@ -464,7 +447,6 @@ Registrar for necessary actions in the matter .
  
 List is attached as Annexure-5 
  
-
 ## Page 10
 
 10 
@@ -495,17 +477,12 @@ Registrar, KLE Technological University, Hubballi (UG Aided Courses)
  
 Chairman thanked all the members for their contributions 
  
- 
                    Chairman 
          Board of Governors 
 
 ## Page 11
 
 11 
- 
- 
- 
- 
  
 ANNEXURE – 1 
  
@@ -540,15 +517,11 @@ First Year BE, totally fifteen divisions have been made. Having become Universit
 already generated the Student Registration Number (SRN) and updated in the software. We shall 
 be shortly providing the permanent RF ID cards to students with SRN. 
  
- 
 22.10.2016      Coordinator, Admission Committee 
  
-
 ## Page 13
 
 13 
- 
- 
  
  Intake for Academic Year 2016-17 
 Sl. No. Programs/ Courses  Intake 
@@ -588,12 +561,9 @@ Faculty of Management
 At Second year admissions additional intake -  Lateral entry shall be 20% of each 
 Department intake except for BT & Architecture programs. 
  
-
 ## Page 15
 
 15 
- 
- 
  
 Students Admitted Report for Academic Year 2016-17 
  
@@ -656,7 +626,6 @@ Grand Total   32
 
 17 
  
-  
 Admissions to Second Year 
  
 BE Programs 
@@ -676,7 +645,6 @@ Mechanical Engineering 235 31 24 290
 Architecture 60 -- -- 60 
 Grand Total 1029 131 66 1226 
  
-
 ## Page 18
 
 18 
@@ -709,41 +677,15 @@ BE/BArch Second Year 1226
 PG Programs Second Year 245 
 Grand Total 2840 
  
- 
- 
- 
- 
- 
-
 ## Page 19
 
 19 
  
 B E admitted in 2016-17 Student Quality Index for General Merit Students Only. 
  
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 20
 
 20 
- 
- 
- 
- 
  
 ANNEXURE – 2 
 Research Council Report for the Calendar Year 2016-17 
@@ -783,7 +725,6 @@ tenure of 03 year have been approved by the RPC.(Appendix -5: RRC)
 F.  Research Entrance Test (RET), Pre-registration presentations and Final List of 
 candidates for Ph.D Programme 
  
-
 ## Page 22
 
 22 
@@ -900,8 +841,6 @@ Devices And Platforms
 Energy Cluster Solar thermal, SPV, Wind &Hybrid Systems, 
 Biothermal 
  
- 
- 
 J. MoUs have been signed between KLE Technological University &the following 
 organizations for R & D: 
  University of Agricultural Sciences, Dharwad – Technology solutions for 
@@ -909,21 +848,13 @@ Agriculture
  Continental – Mobility solutions 
 MMRFIC – RF IC 
  
-
 ## Page 26
 
 26 
  
- 
- 
- 
- 
- 
 ANNEXURE – 3 
 Nominations of Experts on Faculty Selection Committees 
  
- 
-
 ## Page 27
 
 27 
@@ -1017,7 +948,6 @@ Designation  Organization / Institute
 7. Dr . M.M. Mujumdar Professor IISc. Bangalore 
 8. Dr . Koshy Varghese Professor IITM, Chennai 
  
-
 ## Page 29
 
 29 
@@ -1075,77 +1005,49 @@ Designation Organization / Institute
 3. Dr. V. N. Shet Principal GEC, Goa 
 4. Dr. B. N. Choudhari Dean  COE, Pune 
  
-
 ## Page 30
 
 30 
  
- 
- 
- 
- 
- 
 ANNEXURE – 4 
 Results of the Even and Summer Semesters of all Programs 
  
- 
- 
-
 ## Page 31
 
 31 
  
- 
-
 ## Page 32
 
 32 
  
- 
-
 ## Page 33
 
 33 
  
- 
-
 ## Page 34
 
 34 
  
- 
-
 ## Page 35
 
 35 
  
- 
- 
- 
-
 ## Page 36
 
 36 
  
- 
-
 ## Page 37
 
 37 
  
- 
 ANNEXURE – 5 
- 
  
 List of faculty transferred from B. V. Bhoomaraddi College of Engg. & Tech. to  
 KLE Technological University 
  
- 
-
 ## Page 38
 
 38 
- 
  
 Transfers from BVB College of Engg & Technology Hubballi to  
 KLE Technological University Hubballi 
@@ -1168,7 +1070,6 @@ School of Computer Science & Engineering
 12 Sri. ANAND METI ASST.PROF. 
 13 Ms Sujatha C ASSOC.PROF. Computer Science (PG) 
    
- 
 School of Mechanical Engineering 
 Sl.No NAME DESIGNATION BVB DEPARTMENT 
 1 Dr. RAVI C GUTTAL PROFESSOR Mechanical 
@@ -1196,7 +1097,6 @@ Sl.No NAME DESIGNATION BVB DEPARTMENT
 18 Sri. ADITYA M DESHPANDE ASSOC.PROF. 
 19 Dr.P P REVANKAR ASSOC.PROF. Mech- Energy Systems(PG) 
  
- 
 School of Electronics Engineering 
  Sl.No NAME DESIGNATION BVB DEPARTMENT 
 1 Mrs.R V HANAGAL ASSOC.PROF. Instrumentation Technology 
@@ -1214,9 +1114,7 @@ Communication 6 Mrs.UJWALA PATIL ASSOC.PROF.
 12 Sri.A L KAKHANDKI ASSOC.PROF. ECE- Digital Electronics(PG) 
 13 Sri. PRASHANT V ACHARI ASST.PROF. ECE- VLSI & ES (PG) 
  
- 
 Mathematics 
- 
  
 Sl.No NAME DESIGNATION BVB DEPARTMENT 
 1 Sri Y M UMATHAR ASSOC.PROF. Mathematics 
@@ -1263,7 +1161,6 @@ Sl.No NAME DESIGNATION BVB DEPARTMENT
 3 Ms. ZABIN K BAGEWADI ASST.PROF. 
 4 Sri.ANIL R SHET ASST.PROF. 
  
- 
 Department of Electrical & Electronics 
     Sl.No NAME DESIGNATION BVB DEPARTMENT 
       Electrical & Electronics 
@@ -1284,12 +1181,9 @@ Sl.No NAME DESIGNATION BVB DEPARTMENT
 3 Smt. DEEPA C MULIMANI ASST.PROF. 
 4 Sri. AMIT V KACHAVIMATH ASST PROF. 
  
- 
-
 ## Page 42
 
 42 
- 
  
 NON-TEACHING STAFF 
 School of Computer Science & Engineering 
@@ -1397,9 +1291,4 @@ Other Staff
 28 Ms DEEPA U GAONKAR SYS ANALYST Exam Section 
 29 Sri.ANAND HANCHINAL SYST. ADM. Info Cell 
 30 Sri. ADVEPPA I B ASST.INST. 
- 
- 
- 
- 
- 
  

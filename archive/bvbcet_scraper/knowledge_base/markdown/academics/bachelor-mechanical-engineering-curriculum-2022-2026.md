@@ -1,25 +1,10 @@
 # PDF Document: bachelor-mechanical-engineering-curriculum-2022-2026
+
 **PDF Source:** https://www.kletech.ac.in/pdf/bachelor-mechanical-engineering-curriculum-2022-2026.pdf
 
 ## Page 1
 
 FMCD2009 / 2.0 1 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Curriculum Structure and Curriculum Content for the Academic Batch 2022-26 
 School of Mechanical Engineering 
@@ -28,9 +13,6 @@ Program: Bachelor of Engineering
 ## Page 2
 
 FMCD2009 / 2.0 2 
- 
- 
- 
  
 Table of Contents 
 Vision and Mission of KLE Technological University ............................................................. 3 
@@ -53,7 +35,6 @@ List of Program Electives ......................................................
 ## Page 3
 
 FMCD2009 / 2.0 3 
- 
  
 Vision and Mission of KLE Technological University 
  
@@ -87,7 +68,6 @@ spirit of collaboration and partnership to accomplish our mission.
 
 FMCD2009 / 2.0 4 
  
- 
 01 
 innovative 
 culture 
@@ -106,19 +86,6 @@ Vision
 KLE Tech - School of Mechanical Engineering will be a national leader in 
 mechanical engineering education - recognized for innovative culture, 
 outstanding research and societal outreach. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Mission 
  
@@ -155,7 +122,6 @@ system
 ## Page 5
 
 FMCD2009 / 2.0 5 
- 
  
 Program Educational Objectives/Program Outcomes and Program-Specific Objectives 
  
@@ -208,9 +174,6 @@ a member or leader in diverse/multi- disciplinary teams.
 
 FMCD2009 / 2.0 6 
  
- 
- 
- 
 PO9. Communication: Communicate effectively and inclusively within the engineering 
 community and society at large, such as being able to comprehend and write effective 
 reports and design documentation, make effective presentations considering cultural, 
@@ -233,7 +196,6 @@ integrate to offer innovative solutions to real-life problems.
 ## Page 7
 
 FMCD2009 / 2.0 7 
- 
  
 Curriculum Structure-Overall 
  
@@ -278,7 +240,6 @@ Credits 22 22 22.5 24.5 22.5 23.5 23 17
 
 FMCD2009 / 2.0 8 
  
- 
 Curriculum Structure-Semester-wise ← 
  
 Semester – I 
@@ -303,7 +264,6 @@ TOTAL  13-2-7 22 31
 
 FMCD2009 / 2.0 9 
  
- 
 Semester – II ← 
  
 No Code Course Category L-T-P Credits Contact Hou ISA ESA Total Exam 
@@ -325,8 +285,6 @@ TOTAL  12-3-7 22 32
 
 Semester- III ← 
 FMCD2009 / 2.0 10 
- 
- 
  
 No Code Course Category L-T-P Credits Contact 
 Hours 
@@ -353,8 +311,6 @@ TOTAL  16.5-1-5 22.5 29
 Semester- IV ← 
 FMCD2009 / 2.0 11 
  
- 
- 
 No Code Course Category L-T-P Credits Contact Hou ISA ESA Total Exam 
 Duration 
 (in hrs) 
@@ -378,8 +334,6 @@ TOTAL  18.5-1-5 24.5 31
 Semester- V ← 
 FMCD2009 / 2.0 12 
  
- 
- 
 No Code Course Category L-T-P Credits Contact Hours ISA ESA Total Exam 
 Duration 
 (in hrs) 
@@ -402,8 +356,6 @@ TOTAL  11.5-0-11 22.5 34
 
 Semester- VI ← 
 FMCD2009 / 2.0 13 
- 
- 
  
 No Code Course Category L-T-P Credits Contact Hours ISA ESA Total Exam 
 Duration 
@@ -430,8 +382,6 @@ TOTAL  13.5-0-
 Semester- VII ← 
 FMCD2009 / 2.0 14 
  
- 
- 
 No Code Course Category L-T-P Credits Contact 
 Hours 
 ISA ESA Total Exam 
@@ -453,8 +403,6 @@ TOTAL  14-0-7 23 34
 Semester- VIII ← 
 FMCD2009 / 2.0 15 
  
- 
- 
 No Code Course Category L-T-P Credits Contact Hou ISA ESA Total Exam 
 Duration 
 (in hrs) 
@@ -474,9 +422,6 @@ Internship – Project
 PW 0-0-11 11 22 50 50 100 3 Hours 
 TOTAL  6-0-17 17 28     
  
- 
- 
- 
 Semester I II III IV V VI VII VIII Total 
 Credits 22 22 22.5 24.5 22.5 23.5 23 17 177 
 
@@ -484,10 +429,7 @@ Credits 22 22 22.5 24.5 22.5 23.5 23 17 177
 
 FMCD2009 / 2.0 16 
  
- 
- 
 List of Open Electives ← 
- 
  
 Sr. No Name of the Course Course Code 
 1. Introduction to Nano-Science & Nano Technology 15EMEO401 
@@ -498,7 +440,6 @@ Sr. No Name of the Course Course Code
 ## Page 17
 
 FMCD2009 / 2.0 17 
- 
  
 List of Program Electives ← 
  
@@ -538,8 +479,6 @@ Sr. No Name of the Course Course Code
 
 FMCD2009 / 2.0 18 
  
- 
- 
 31 Advanced Welding Technology 24EMEE406 
 32 Operations Research 24EMEE401 
 33 Computational Heat Transfer and Fluid Flow 15EMEE407 
@@ -557,7 +496,6 @@ FMCD2009 / 2.0 18
 ## Page 19
 
 FMCD2009 / 2.0 19 
- 
  
 Curriculum Content- Course wise ←BACK TO SEMESTER I 
  
@@ -606,8 +544,6 @@ Reference Books:
 ## Page 20
 
 FMCD2009 / 2.0 20 
- 
- 
  
 Program: UG Semester: I ←BACK TO SEMESTER I 
 Course Title: Engineering Physics Course Code: 22EPHB102 
@@ -659,8 +595,6 @@ Text Books:
 
 FMCD2009 / 2.0 21 
  
- 
- 
 Reference Books: 
 1. John W Jewett and Raymond A Serway, Physics for Scientists and Engineers with modern physics, 
 Cengage publication, India Edition, 9e (2014) 
@@ -673,8 +607,6 @@ Vol-1, 3e (2006)
 
 ←BACK TO SEMESTER I 
 FMCD2009 / 2.0 22 
- 
- 
  
 Program: UG Semester: I 
 Course Title: C Programming for Problem Solving Course Code: 18ECSP101 
@@ -694,8 +626,6 @@ Conditional branching statements: if statement, if else statement, else if ladde
 statement, unconditional branching statements: break, continue. 
 Introduction to Debugging Skills 
 Introduction to Test Driven Programming. 
- 
- 
  
 12 hrs 
 4 Iterative statements 
@@ -733,8 +663,6 @@ Reference Books:
 
 ←BACK TO SEMESTER I 
 FMCD2009 / 2.0 23 
- 
- 
  
 Program: Bachelor of Engineering Semester: I 
 Course Title: Engineering Exploration Course Code: 22ECRP101 
@@ -795,8 +723,6 @@ c. Performance Testing (PT) PT-05
 
 FMCD2009 / 2.0 24 
  
- 
- 
 Total 72 80 
 Assessment will be done in course projects 
 Scheme for End-semester Assessment (ESA) 
@@ -809,8 +735,6 @@ Video Documentation (VD) 05
 ## Page 25
 
 FMCD2009 / 2.0 25 
- 
- 
  
 ←BACK TO SEMESTER I 
  
@@ -872,8 +796,6 @@ Scientist and Engineers, 2, New Age International Publishers, Wiley Eastern, 200
 
 FMCD2009 / 2.0 26 
  
- 
- 
 8. W.Bolton, Mechatronics - Electronic Control Systems in Mechanical and Electrical Engineering, 3, 
 Pearson Education, 2005 
 9. Ernest O Doeblin, Dhanesh N Manik, Measurement Systems, 6th Edition, MGH; 2017 
@@ -881,8 +803,6 @@ Pearson Education, 2005
 ## Page 27
 
 FMCD2009 / 2.0 27 
- 
- 
  
 ←BACK TO SEMESTER I 
  
@@ -938,9 +858,6 @@ Engineering, First Edition, Sunstar Publisher, 2014
 
 FMCD2009 / 2.0 28 
  
- 
- 
- 
 Reference Books: 
 1. SKH Chowdhary, AKH Chowdhary, Nirjhar Roy, The Elements of Workshop Technology, Vol I & II, 
 11th edition, Media Promoters and Publishers, 2001 
@@ -950,8 +867,6 @@ Reference Books:
 
 ←BACK TO SEMESTER I 
 FMCD2009 / 2.0 29 
- 
- 
  
 Program: BE Semester: I 
 Course Title: Applied Physics lab (ES) Course Code: 21EPHP102 
@@ -991,8 +906,6 @@ ISA (80%) + ESA (20%) Total 100
 
 ←BACK TO SEMESTER II 
 FMCD2009 / 2.0 30 
- 
- 
  
 Program: UG Semester: II 
 Course Title: Multivariable calculus Course Code: 18EMAB102 
@@ -1034,8 +947,6 @@ Reference Books:
 
 ←BACK TO SEMESTER II 
 FMCD2009 / 2.0 31 
- 
- 
  
 Program: UG Semester: II 
 Course Title: Engineering Chemistry Course Code: 22ECHB102 
@@ -1081,12 +992,9 @@ properties, smart glass: electrochromic, thermochromic and photochromic smart gl
 and applications. Thermoelectric and Piezoelectric materials - meaning, properties and applications. 
 03 Hrs 
  
-
 ## Page 32
 
 FMCD2009 / 2.0 32 
- 
- 
  
 Unit – III 
 7. Water Chemistry 
@@ -1127,8 +1035,6 @@ Himalaya Publishing House, Pvt. Ltd, 2010, Mumbai.
 ## Page 33
 
 FMCD2009 / 2.0 33 
- 
- 
  
 ←BACK TO SEMESTER II 
  
@@ -1187,8 +1093,6 @@ symmetry, Locating the centroid of simple plane figures (triangle, semicircle, q
 
 FMCD2009 / 2.0 34 
  
- 
- 
  a circle and sector of a circle etc,.) using method of integration, Numerical problems on 
 Centroid of simple built up sections. 5 hrs. 
  
@@ -1222,8 +1126,6 @@ References:
 
 ←BACK TO SEMESTER II 
 FMCD2009 / 2.0 35 
- 
- 
  
 Program: Bachelor of Engineering Semester: II 
 Course Title: Computer Aided Engineering Drawing Course Code: 15EMEP101 
@@ -1272,8 +1174,6 @@ Prentice-Hall of India Pvt. Ltd., New Delhi.
 
 ←BACK TO SEMESTER II 
 FMCD2009 / 2.0 36 
- 
- 
  
 Program: Bachelor of Engineering Semester: II 
 Course Code:18ECSP102 Course Title: Problem Solving with Data Structures 
@@ -1324,8 +1224,6 @@ Clifford Stein. The MIT Press, Edition-3, 2009.
 
 ←BACK TO SEMESTER II 
 FMCD2009 / 2.0 37 
- 
- 
  
 Program: UG Semester: II 
 Course Code: 20EHSP101 Course Title: Design Thinking for Social Innovation 
@@ -1429,12 +1327,9 @@ Kelley – IDEO Founder)
 
 FMCD2009 / 2.0 38 
  
- 
- 
   (Spending one lakh for the 
 business which is never launched) 
   
- 
 Process of Social Innovation 
  
 Engage 
@@ -1515,9 +1410,6 @@ sample case study
 
 FMCD2009 / 2.0 39 
  
- 
- 
-   
 3. Ideation 
 3.1 Synthesis 
  Search for meaning 
@@ -1536,7 +1428,6 @@ We’ Questions
 respective templates 
 with the help of sample 
 case study 
- 
  
 3.0 Ideation 
 3.2 Prototyping 
@@ -1605,12 +1496,9 @@ respective templates
 with the help of 
 sample case study 
      
-
 ## Page 40
 
 FMCD2009 / 2.0 40 
- 
- 
  
   5.0 Reflect 
  
@@ -1629,13 +1517,10 @@ respective templates
 with the help of 
 sample case study 
  
-
 ## Page 41
 
 ←BACK TO SEMESTER II 
 FMCD2009 / 2.0 41 
- 
- 
  
 Program: UG Semester: II 
 Course Code: 15EHSH101 Course Title: Professional Communication 
@@ -1673,8 +1558,6 @@ References:
 
 ←BACK TO SEMESTER III 
 FMCD2009 / 2.0 42 
- 
- 
  
 Program: Bachelor of Engineering Semester: III 
 Course Title: Calculus and Integral transforms Course Code:15EMAB231 
@@ -1718,8 +1601,6 @@ Reference Books:
 
 ←BACK TO SEMESTER III 
 FMCD2009 / 2.0 43 
- 
- 
  
 Program: Bachelor of Engineering Semester: III 
 Course Title: Statistics and Integral Transforms Course Code: 15EMAB201 
@@ -1773,8 +1654,6 @@ Indian
 ←BACK TO SEMESTER III 
 FMCD2009 / 2.0 44 
  
- 
- 
 Program: Bachelor of Engineering Semester: III 
 Course Title: Mechanics of Materials Course Code: 22EMEF201 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 Hrs/week 
@@ -1824,8 +1703,6 @@ International Edition, 2012.
 
 ←BACK TO SEMESTER III 
 FMCD2009 / 2.0 45 
- 
- 
  
 Program: Bachelor of Engineering Semester: III 
 Course Title: Manufacturing Processes Course Code: 22EMEC201 
@@ -1880,9 +1757,6 @@ Education, 2014.
 
 FMCD2009 / 2.0 46 
  
- 
- 
- 
 Reference Books: 
 1. Juneja B. L. and Sekhon G. S., Fundamentals of Metal Cutting and Machine Tools, 3rd edition, New 
 Age International Limited, 2008. 
@@ -1900,8 +1774,6 @@ in Advanced Manufacturing, 2018.
 
 ←BACK TO SEMESTER III 
 FMCD2009 / 2.0 47 
- 
- 
  
 Program: Bachelor of Engineering Semester: III 
 Course Title: Engineering Thermodynamics Course Code: 15EMEC202 
@@ -1956,8 +1828,6 @@ Experiments (Delivery is Course Integrated, no separate lab)
 ←BACK TO SEMESTER III 
 FMCD2009 / 2.0 48 
  
- 
- 
 Program: Bachelor of Engineering Semester: III 
 Course Title: Control Systems Course Code: 19EMEC201 
 L-T-P: 2-1-0 Credits: 3 Contact Hours: 4 Hrs/week 
@@ -1999,8 +1869,6 @@ Reference Books:
 
 ←BACK TO SEMESTER III 
 FMCD2009 / 2.0 49 
- 
- 
  
 Program: Bachelor of Engineering Semester: III 
 Course Title: Manufacturing Processes Lab Course Code: 22EMEP201 
@@ -2046,8 +1914,6 @@ edition, Prentice Hall, 2014.
 ←BACK TO SEMESTER III 
 FMCD2009 / 2.0 50 
  
- 
- 
 Program: Bachelor of Engineering Semester: III 
 Course Title: Control Systems Lab Course Code: 22EMEP202 
 L-T-P: 0-0-1 Credits: 1 Contact Hours: 2 Hrs/week 
@@ -2088,8 +1954,6 @@ Reference Books:
 ←BACK TO SEMESTER III 
 FMCD2009 / 2.0 51 
  
- 
- 
 Program: Bachelor of Engineering Semester: III 
 Course Title: Machine Drawing Lab Course Code: 22EMEP203 
 L-T-P: 0-0-2 Credits: 2 Contact Hours: 4 Hrs/week 
@@ -2125,8 +1989,6 @@ Reference Books:
 
 ←BACK TO SEMESTER IV 
 FMCD2009 / 2.0 52 
- 
- 
  
 Program: Bachelor of Engineering Semester: IV 
 Course Title: Vector Calculus and Differential Equations Course Code: 15EMAB241 
@@ -2166,7 +2028,6 @@ Reference Books:
 
 ←BACK TO SEMESTER IV 
 FMCD2009 / 2.0 53 
- 
  
 Program: Bachelor of Engineering Semester: IV 
 Course Title: Numerical Methods and Partial Differential Equations Course Code: 19EMAB206 
@@ -2222,8 +2083,6 @@ Reference Books:
 ←BACK TO SEMESTER IV 
 FMCD2009 / 2.0 54 
  
- 
- 
 Program: Bachelor of Engineering Semester: IV 
 Course Title: Fundamentals of Machine Design Course Code: 22EMEC202 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 Hrs/week 
@@ -2275,8 +2134,6 @@ House Pvt. Ltd., New Delhi, 2015.
 ←BACK TO SEMESTER IV 
 FMCD2009 / 2.0 55 
  
- 
- 
 Program: Bachelor of Engineering Semester: IV 
 Course Title: Machines & Mechanisms Course Code: 22EMEC203 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 Hrs/week 
@@ -2319,8 +2176,6 @@ Oxford University Press-New Delhi. 2009
 
 ←BACK TO SEMESTER IV 
 FMCD2009 / 2.0 56 
- 
- 
  
 Program: Bachelor of Engineering Semester: IV 
 Course Title: Engineering Materials Course Code: 15EMEF202 
@@ -2374,8 +2229,6 @@ Text Books
 
 FMCD2009 / 2.0 57 
  
- 
- 
 1. William Callister, Materials Science and Engineering, John Wiley & Sons. Inc., 10th Edition, January 
 2018 (ISBN: 978-1-119-40549-8). 
 2. Michael Ashby and D R H Jones, Engineering Materials: An Introduction to Properties, 
@@ -2389,8 +2242,6 @@ Edition, CRC Press, 07-Sep-2007
 ## Page 58
 
 FMCD2009 / 2.0 58 
- 
- 
  
 ←BACK TO SEMESTER IV 
  
@@ -2451,8 +2302,6 @@ amplifier.
 
 FMCD2009 / 2.0 59 
  
- 
- 
 7. PCB design using Eagle software. 03 
 Text Books 
 1. Tilak Thakur, Mechatronics, 1st edition, Oxford Higher Education, 2016. 
@@ -2465,10 +2314,6 @@ Reference Books:
 ## Page 60
 
 FMCD2009 / 2.0 60 
- 
- 
- 
- 
  
 ←BACK TO SEMESTER IV 
  
@@ -2513,20 +2358,12 @@ Penram International Publishing (India) Pvt. Ltd.
 2. Ajay V Deshmukh, “Microcontroller: Theory and Applications”, Tata McGraw-Hill Publishing 
 company limited. 
  
- 
- 
- 
- 
- 
- 
 ←BACK TO SEMESTER IV 
 
 ## Page 61
 
 ←BACK TO SEMESTER IV 
 FMCD2009 / 2.0 61 
- 
- 
  
 Program: Bachelor of Engineering Semester: IV 
 Course Title: Microcontroller & Interfacing Lab Course Code: 22EMEP204 
@@ -2572,8 +2409,6 @@ image processing to detect the tennis ball.
 ←BACK TO SEMESTER IV 
 FMCD2009 / 2.0 62 
  
- 
- 
 Program: Bachelor of Engineering Semester: IV 
 Course Title: Machines & Mechanisms Lab Course Code: 15EMEP204 
 L-T-P: 0-0-1 Credits: 1 Contact Hours: 2 Hrs/week 
@@ -2603,7 +2438,6 @@ Oxford University Press, New Delhi
 
 ←BACK TO SEMESTER IV 
 FMCD2009 / 2.0 63 
- 
  
 Program: Bachelor of Engineering Semester: IV 
 Course Title: Engineering Materials Lab Course Code: 15EMEP202 
@@ -2661,8 +2495,6 @@ Press, 07-Sep-2007
 ←BACK TO SEMESTER V 
 FMCD2009 / 2.0 64 
  
- 
- 
 Program: Bachelor of Engineering Semester: V 
 Course Title: Numerical Methods and Statistics Course Code: 19EMAB301 
 L-T-P: 3-0-1 Credits: 4 Contact Hours: 6Hrs/week 
@@ -2709,7 +2541,6 @@ for Engineering and the Computing Sciences, 4th Ed, TATA McGraw-Hill Edition 200
 
 ←BACK TO SEMESTER V 
 FMCD2009 / 2.0 65 
- 
  
 Program: Bachelor of Engineering Semester: V 
 Course Title: Design of Machine Elements Course Code: 23EMEC301 
@@ -2760,8 +2591,6 @@ McGraw Hill Publishing Company Ltd., New Delhi, Special Indian Edition, 2008.
 
 ←BACK TO SEMESTER V 
 FMCD2009 / 2.0 66 
- 
- 
  
 Program: Bachelor of Engineering Semester: V 
 Course Title: Programming Industrial Automation Systems Course Code: 24EMEC302 
@@ -2816,8 +2645,6 @@ function
 
 FMCD2009 / 2.0 67 
  
- 
- 
 4. Car Safety System 
 Create a ladder logic program for a car safety system that prevents the 
 application of ignition power when the car door is open and the seatbelt is not 
@@ -2865,8 +2692,6 @@ References
 ## Page 68
 
 FMCD2009 / 2.0 68 
- 
- 
  
 ←BACK TO SEMESTER V 
  
@@ -2922,8 +2747,6 @@ Edition, Prentice Hall of India, 2004.
 
 FMCD2009 / 2.0 69 
  
- 
- 
 2. Nitin Ghokale, S.S. Deshpande, S.V. Bedekar and A.N. Thiee, Practical finite element analysis, 
 Finite to infinite, 2008 
 3. S. S. Rao, Finite Element Method in Engineering, Fourth Edition, Elsevier Publishing, 2007 
@@ -2936,8 +2759,6 @@ Reference Books:
 
 ←BACK TO SEMESTER V 
 FMCD2009 / 2.0 70 
- 
- 
  
 Program: Bachelor of Engineering Semester: V 
 Course Title: CAD modelling and PLM Lab Course Code: 24EMEP301 
@@ -2975,8 +2796,6 @@ Reference Books:
 
 ←BACK TO SEMESTER V 
 FMCD2009 / 2.0 71 
- 
- 
  
 Program: Bachelor of Engineering Semester: V 
 Course Title: Automation Lab Course Code: 15EMEP303 
@@ -3032,8 +2851,6 @@ operation.
 
 FMCD2009 / 2.0 72 
  
- 
- 
 13 To control extension/retraction with or without delay using ladder logic 1 
 14 To build and simulate arc/spot welding process in robotic environment 1 
 15 To build and simulate pick and place mechanism in robotic environment 1 
@@ -3084,10 +2901,7 @@ Reference Books:
 
 FMCD2009 / 2.0 73 
  
- 
- 
 ←BACK TO SEMESTER V 
- 
  
 Program: Bachelor of Engineering Semester: V 
 Course Title: Finite Element Methods Lab Course Code: 23EMEP301 
@@ -3150,8 +2964,6 @@ Start from scratch
 
 FMCD2009 / 2.0 74 
  
- 
- 
  Understand the physics of the problem (Working Principle with load's and boundary conditions) 
  Interpretation of Results with conclusion. 
 Category: Open ended 
@@ -3174,8 +2986,6 @@ Materials and Resources Required:
 
 ←BACK TO SEMESTER V 
 FMCD2009 / 2.0 75 
- 
- 
  
 Program: Bachelor of Engineering Semester: V 
 Course Title: Mini Project Course Code: 15EMEW301 
@@ -3213,8 +3023,6 @@ symbols wherever necessary.
 
 ←BACK TO SEMESTER V 
 FMCD2009 / 2.0 76 
- 
- 
  
 Program: Bachelor of Engineering Semester: V 
 Course Title: Mechanical Vibrations Course Code: 15EMEE301 
@@ -3265,8 +3073,6 @@ Reference Books:
 ←BACK TO SEMESTER V 
 FMCD2009 / 2.0 77 
  
- 
- 
 Program: Bachelor of Engineering Semester: V 
 Course Title: Product Innovation Course Code: 24EMEE305 
 L-T-P: 2-1-0 Credits: 3 Contact Hours: 4Hrs/week 
@@ -3306,8 +3112,6 @@ Skogstad, P., Leifer, L. edited by Meinel, C., Leifer, L., Plattner, H. Springer
 
 ←BACK TO SEMESTER V 
 FMCD2009 / 2.0 78 
- 
- 
  
 Program: Bachelor of Engineering  Semester: V 
 Course Title: Advanced Machining Processes Course Code: 15EMEE305 
@@ -3354,8 +3158,6 @@ Reference Books:
 ←BACK TO SEMESTER V 
 FMCD2009 / 2.0 79 
  
- 
- 
 Program: Bachelor of Engineering Semester: V 
 Course Title: Additive Manufacturing Processes Course Code: 22EMEE301 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3Hrs/week 
@@ -3401,8 +3203,6 @@ Edition, World Scientific Publishers, 2010.
 
 ←BACK TO SEMESTER V 
 FMCD2009 / 2.0 80 
- 
- 
  
 Program: Bachelor of Engineering Semester: V 
 Course Title: Turbo Machines Course Code: 18EMEE303 
@@ -3456,8 +3256,6 @@ Text Books
 
 FMCD2009 / 2.0 81 
  
- 
- 
 2. Yadav R., (2007) ‘Steam & gas turbines and power plant engineering’, Central Publishing House 
 Allahabad, Vol. 1, 
 3. S. M. Yahya, Turbines, Compressors & Fans, Tata McGraw Hill Co. Ltd., 2nd edition, 2002. 
@@ -3472,8 +3270,6 @@ Age International, 1st Edn, 2006.
 
 ←BACK TO SEMESTER V 
 FMCD2009 / 2.0 82 
- 
- 
  
 Program: Bachelor of Engineering Semester: V 
 Course Title: Thermal Management of EV Battery Systems Course Code: 22EMEE302 
@@ -3518,8 +3314,6 @@ Reference Books:
 
 ←BACK TO SEMESTER V 
 FMCD2009 / 2.0 83 
- 
- 
  
 Program: Bachelor of Engineering Semester: V 
 Course Title: Advanced CAE - I Course Code: 25EMEE301 
@@ -3576,7 +3370,6 @@ Reference Books:
 ←BACK TO SEMESTER V 
 FMCD2009 / 2.0 84 
  
- 
 Program: Bachelor of Engineering Semester: V 
 Course Title: Bionic Design Course Code: 22EMEE303 
 L-T-P: 1-2-0 Credits: 3 Contact Hours: 3 Hrs/week 
@@ -3607,8 +3400,6 @@ Reference Books:
 
 ←BACK TO SEMESTER V 
 FMCD2009 / 2.0 85 
- 
- 
  
 Program: Bachelor of Engineering Semester: V 
 Course Title: Enterprise Resource Planning-I Course Code: 24EMEE301 
@@ -3662,8 +3453,6 @@ John Wiley & Sons Inc., 2011.
 ←BACK TO SEMESTER V 
 FMCD2009 / 2.0 86 
  
- 
- 
 Program: Bachelor of Engineering Semester: V 
 Course Title: Fundamentals of Product Lifecycle Management Course Code: 24EMEE302 
 L-T-P: 2-1-0 Credits: 3 Contact Hours: 4 Hrs/week 
@@ -3698,7 +3487,6 @@ Springer, 3rd Edition, 2015
 
 ←BACK TO SEMESTER V 
 FMCD2009 / 2.0 87 
- 
  
 Program: Bachelor of Engineering Semester: V 
 Course Title: Advanced Statistics and Machine Learning Course Code: 19EMEE302 
@@ -3738,9 +3526,6 @@ http://neuralnetworksanddeeplearning.com/.
 ←BACK TO SEMESTER VI 
 FMCD2009 / 2.0 88 
  
- 
- 
- 
 Program: Bachelor of Engineering Semester: VI 
 Course Title: Professional Aptitude & Logical Reasoning Course Code: 16EHSC301 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3Hrs/week 
@@ -3750,7 +3535,6 @@ Teaching Hours: 40 Examination Duration: 3 Hrs
 Chapter 1. – Arithmetical Reasoning 10 Hrs 
 Chapter 2. – Analytical Thinking  4 Hrs 
 Chapter 3. – Syllogistic Logic 3 Hrs 
- 
  
 Chapter 1. – Verbal Logic 
 Chapter 2. – Non-Verbal Logic 
@@ -3773,8 +3557,6 @@ References:
 
 ←BACK TO SEMESTER VI 
 FMCD2009 / 2.0 89 
- 
- 
  
 Program: Bachelor of Engineering Semester: VI 
 Course Title: Fluid Mechanics and Hydraulic Machines Course Code: 24EMEC301 
@@ -3826,9 +3608,6 @@ Reference Books:
 
 ←BACK TO SEMESTER VI 
 FMCD2009 / 2.0 90 
- 
- 
- 
  
 Program: Bachelor of Engineering Semester: VI 
 Course Title: Metrology and Quality Engineering Course Code: 23EMEC304 
@@ -3882,8 +3661,6 @@ Reference Books:
 
 FMCD2009 / 2.0 91 
  
- 
- 
 3. Bosch J A, Giddings and Lewis Dayton, Marcel Dekker, Co-Ordinate Measuring Machines and 
 Systems 2nd Edition CRC press 2015 
 4. Grant and Leavenworth, Statistical Quality Control, 7th Edition, McGraw-Hill Publications 1996 
@@ -3891,8 +3668,6 @@ Systems 2nd Edition CRC press 2015
 ## Page 92
 
 FMCD2009 / 2.0 92 
- 
- 
  
 ←BACK TO SEMESTER VI 
  
@@ -3948,8 +3723,6 @@ Reference Books:
 
 FMCD2009 / 2.0 93 
  
- 
- 
 1. Shuvra Das, Mechatronic modeling and simulation using bond graphs, CRC Press, 2009 
 2. Klaus Janschek, Mechatronic Systems Design, Springer, 2012 
 
@@ -3957,8 +3730,6 @@ FMCD2009 / 2.0 93
 
 ←BACK TO SEMESTER VI 
 FMCD2009 / 2.0 94 
- 
- 
  
 Program: Bachelor of Engineering Semester: VI 
 Course Title: Metrology and Quality Engineering Lab Course Code: 15EMEP301 
@@ -4002,8 +3773,6 @@ Reference Books:
 ←BACK TO SEMESTER VI 
 FMCD2009 / 2.0 95 
  
- 
- 
 Program: Bachelor of Engineering Semester: VI 
 Course Title: Minor Project Course Code: 18EMEW301 
 L-T-P: 0-0-6 Credits: 6 Contact Hours: 6Hrs/week 
@@ -4041,8 +3810,6 @@ symbols wherever necessary.
 ←BACK TO SEMESTER VI 
 FMCD2009 / 2.0 96 
  
- 
- 
 Program: Bachelor of Engineering Semester: VI 
 Course Title: Industry Readiness & Leadership Skills Course Code: 22EHSH302 
 L-T-P: 0.5-0-0 Credits: 0.5 Contact Hours: 1Hr/week 
@@ -4072,8 +3839,6 @@ References:
 
 ←BACK TO SEMESTER VI 
 FMCD2009 / 2.0 97 
- 
- 
  
 Program: Bachelor of Engineering Semester: VI 
 Course Title: Failure Analysis in Design Course Code: 15EMEE302 
@@ -4122,9 +3887,6 @@ Reference Books:
 ←BACK TO SEMESTER VI 
 FMCD2009 / 2.0 98 
  
- 
- 
- 
 Program: Bachelor of Engineering Semester: VI 
 Course Title: Product Design & Development Course Code: 24EMEE306 
 L-T-P: 2-1-0 Credits: 3 Contact Hours: 4Hrs/week 
@@ -4153,8 +3915,6 @@ Virtual Prototyping
 
 ←BACK TO SEMESTER VI 
 FMCD2009 / 2.0 99 
- 
- 
  
 Program: Bachelor of Engineering Semester: VI 
 Course Title: Computer Integrated Manufacturing Course Code: 15EMEE306 
@@ -4206,8 +3966,6 @@ Reference Books:
 
 ←BACK TO SEMESTER VI 
 FMCD2009 / 2.0 100 
- 
- 
  
 Program: Bachelor of Engineering Semester: VI 
 Course Title: Noise, Vibration and Harshness (NVH) Course Code: 23EMEE301 
@@ -4265,8 +4023,6 @@ the natural frequency.
 
 FMCD2009 / 2.0 101 
  
- 
- 
 3 Normal mode analysis of a Bracket with design changes (Free- Free and Forced- 
 Fixed). 
 01 
@@ -4288,8 +4044,6 @@ ii) Monocoque chassis.
 
 ←BACK TO SEMESTER VI 
 FMCD2009 / 2.0 102 
- 
- 
  
 Program: Bachelor of Engineering Semester: VI 
 Course Title: Design for Additive Manufacturing (DfAM) Course Code: 25EMEE303 
@@ -4324,8 +4078,6 @@ suitability for given application.
 
 ←BACK TO SEMESTER VI 
 FMCD2009 / 2.0 103 
- 
- 
  
 Program: Bachelor of Engineering Semester: VI 
 Course Title: Green Hydrogen Course Code: 22EMEE306 
@@ -4370,8 +4122,6 @@ Reference Books:
 
 ←BACK TO SEMESTER VI 
 FMCD2009 / 2.0 104 
- 
- 
  
 Program: Bachelor of Engineering Semester: VI 
 Course Title: Advanced CAE- II Course Code: 25EMEE302 
@@ -4438,8 +4188,6 @@ Demo 03
 
 FMCD2009 / 2.0 105 
  
- 
- 
   Electro-Mechanical Analysis   
 Text Books 
 1. Nitin Ghokale, Practical finite element analysis, Finite to infinite, 2008. 
@@ -4454,8 +4202,6 @@ Engineering Using ANSYS®-Springer US (2015)
 
 ←BACK TO SEMESTER VI 
 FMCD2009 / 2.0 106 
- 
- 
  
 Program: Bachelor of Engineering Semester: VI 
 Course Title: Biomechanics Course Code: 22EMEE307 
@@ -4510,8 +4256,6 @@ Goldsheyder and Leger. Third edition, Springer, 2014.
 ←BACK TO SEMESTER VI 
 FMCD2009 / 2.0 107 
  
- 
- 
 Program: Bachelor of Engineering Semester: VI 
 Course Title: Enterprise Resource Planning-II Course Code: 24EMEE303 
 L-T-P: 2-0-1 Credits: 3 Contact Hours: 4 Hrs/week 
@@ -4560,8 +4304,6 @@ John Wiley & Sons Inc., 2011.
 ←BACK TO SEMESTER VI 
 FMCD2009 / 2.0 108 
  
- 
- 
 Program: Bachelor of Engineering Semester: VI 
 Course Title: Advanced Product Lifecycle Management Course Code: 24EMEE304 
 L-T-P: 2-1-0 Credits: 3 Contact Hours: 4 Hrs/week 
@@ -4594,8 +4336,6 @@ Springer, Third Edition, 2015
 
 ←BACK TO SEMESTER VI 
 FMCD2009 / 2.0 109 
- 
- 
  
 Program: Bachelor of Engineering Semester: VI 
 Course Title: Vehicle Structure and Design Optimization Course Code: 24EMEE307 
@@ -4650,8 +4390,6 @@ Heinemann, 2001.
 
 FMCD2009 / 2.0 110 
  
- 
- 
 3. L. Morello, L. Rosti Rossini, G. Pia, D. Tonoli, The Automotive Body: Volume I and II – Components 
 Design, Springer, 2011. 
 4. T. R. Banga and N. Singh, Automobile Engineering, Khanna Publishers, 2013. 
@@ -4669,8 +4407,6 @@ presentation and report of it.
 
 ←BACK TO SEMESTER VI 
 FMCD2009 / 2.0 111 
- 
- 
  
 Program: Bachelor of Engineering Semester: VI 
 Course Title: Machine Learning Applications Course Code: 19EMEE307 
@@ -4705,8 +4441,6 @@ http://neuralnetworksanddeeplearning.com/.
 
 ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 112 
- 
- 
  
 Program: Bachelor of Engineering Semester: VII 
 Course Title: Heat and Mass Transfer Course Code: 24EMEC401 
@@ -4759,8 +4493,6 @@ Text Books:
 ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 113 
  
- 
- 
 Program: Bachelor of Engineering Semester: VII 
 Course Title: I C Engines Course Code: 19EMEC401 
 L-T-P: 2-0-0 Credits: 2 Contact Hours: 2 Hrs/week 
@@ -4809,8 +4541,6 @@ Reference Books:
 ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 114 
  
- 
- 
 Program: Bachelor of Engineering Semester: VII 
 Course Title: Thermal Engineering Lab Course Code: 19EMEP401 
 L-T-P: 0-0-1 Credits: 1 Contact Hours: 2 Hrs/week 
@@ -4844,8 +4574,6 @@ Materials and Resources Required:
 
 ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 115 
- 
- 
  
 Program: Bachelor of Engineering Semester: VII 
 Course Title: Gen AI for All Course Code: 25EMEP401 
@@ -4893,9 +4621,6 @@ Module 4: Gen AI Showcase – (10 labs )
 ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 116 
  
- 
- 
- 
 Program: Bachelor of Engineering Semester: VII 
 Course Title: Senior Design Project Course Code: 20EMEW401 
 L-T-P: 0-0-6 Credits: 6 Contact Hours: 6 Hrs/week 
@@ -4914,8 +4639,6 @@ points into business solution.
 
 ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 117 
- 
- 
  
 Program: Bachelor of Engineering Semester: VII 
 Course Title: CIPE & EVS Course Code: 15EHSA401 
@@ -4947,7 +4670,6 @@ Scope &  Aims of Engineering Ethics: Meaning and purpose of Engineering Ethics, 
 Engineers, Impediments to responsibility, Honesty, Integrity and reliability, risks, safety & liability in 
 engineering. Bhopal Gas Tragedy, Titanic case. 
 Chapter 8 Intellectual Property Rights: 3 Hrs 
-Intellectual Property Rights (IPRs)- Patents, Copyright and Designs 
 Chapter 9 Ethical perspectives of professional bodies: 3 Hrs 
 Ethical perspectives of professional bodies- IEEE, ASME, NSPE and ABET, ASCE etc. 
 Unit – 3 
@@ -4969,9 +4691,6 @@ References
 
 ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 118 
- 
- 
- 
  
 Program: Bachelor of Engineering Semester: VII 
 Course Title: Operations Research Course Code: 24EMEE401 
@@ -5014,9 +4733,6 @@ Reference Books:
 
 ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 119 
- 
- 
- 
  
 Program: Bachelor of Engineering Semester: VII 
 Course Title: Design of Thermal Systems Course Code: 24EMEE402 
@@ -5063,8 +4779,6 @@ Reference Books:
 
 ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 120 
- 
- 
  
 Program: Bachelor of Engineering Semester: VII 
 Course Title: Mechanics of Composite Materials Course Code: 25EMEE401 
@@ -5119,8 +4833,6 @@ Text Books:
 
 FMCD2009 / 2.0 121 
  
- 
- 
 1. Krishan K. Chawla, Composite Materials - Science and Engineering, 3rd Edition, Springer, 2012. 
 2. Robert M. Jones, Mechanics of Composite Materials, 2nd Edition, Tailor & Francis Inc. 1999. 
 Reference Books: 
@@ -5132,8 +4844,6 @@ Series), 2nd Edition, Cambridge University Press, 1996.
 
 ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 122 
- 
- 
  
 Program: Bachelor of Engineering Semester: VII 
 Course Title: Design of Automotive Power Train Course Code: 15EMEE402 
@@ -5177,8 +4887,6 @@ Reference Books:
 
 ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 123 
- 
- 
  
 Program: Bachelor of Engineering Semester: VII 
 Course Title: Design and Analysis of Experiments Course Code: 25EMEE403 
@@ -5224,8 +4932,6 @@ and Western Methods or Statistical Experimental Design- Chapman and Hall.
 
 ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 124 
- 
- 
  
 Program: Bachelor of Engineering Semester: VII 
 Course Title: Dynamics & Durability of Vehicles Course Code: 25EMEE402 
@@ -5281,8 +4987,6 @@ Improve drag performance of a selected external vehicle element projects:
 ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 125 
  
- 
- 
 Program: Bachelor of Engineering Semester: VII 
 Course Title: Operations Management Course Code: 15EMEE405 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 Hrs/week 
@@ -5335,8 +5039,6 @@ Reference Books:
 
 ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 126 
- 
- 
  
 Program: Bachelor of Engineering Semester: VII 
 Course Title: Supply Chain Management Course Code: 15EMEE406 
@@ -5392,8 +5094,6 @@ Integrated Value Systems, ed 2002, Pearson Education Inc. ISBN: 81- 297-0113-8.
 ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 127 
  
- 
- 
 Program: Bachelor of Engineering Semester: VII 
 Course Title: Modern Trends in Manufacturing Course Code: 15EMEE417 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 Hrs/week 
@@ -5447,8 +5147,6 @@ Publication.
 ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 128 
  
- 
- 
 Program: Bachelor of Engineering Semester: VII 
 Course Title: Computational Heat Transfer and Fluid Flow Course Code: 15EMEE407 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 Hrs/week 
@@ -5499,9 +5197,6 @@ Verlag, Berlin, 2001
 
 ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 129 
- 
- 
- 
  
 Program: Bachelor of Engineering Semester: VII 
 Course Title: Fundamentals of Gas Turbines Course Code: 15EMEE408 
@@ -5555,8 +5250,6 @@ recorders, Ground indicators, Maintenance precautions, Trouble shooting, Adjustm
 
 FMCD2009 / 2.0 130 
  
- 
- 
 Text Books: 
 1. Rolls Royce - “The Jet Engine” 5th edition, ISBN 0 902121 2 35,© Rolls-Royce plc 1986 
 2. Saravanamutto H.I.H, Rogers G.F.C., Cohen H, Gas Turbine Theory, 5th Edn., Pearson 2006 
@@ -5570,8 +5263,6 @@ Group, London New York.ISBN 978-0-8493-9196-5
 
 ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 131 
- 
- 
  
 Program: Bachelor of Engineering  Semester: VII 
 Course Title: Optimization Methods  Course Code: 24EMEE408 
@@ -5611,7 +5302,6 @@ Reference Books:
 
 ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 132 
- 
  
 Program: Bachelor of Engineering Semester: VII 
 Course Title: HVAC Systems Course Code: 24EMEE405 
@@ -5669,8 +5359,6 @@ Reference Books:
 ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 133 
  
- 
- 
 Program: Bachelor of Engineering Semester: VII 
 Course Title: Design of Jigs, Fixtures and Press Tools Course Code: 24EMEE404 
 L-T-P: 2-0-1 Credits: 3 Contact Hours: 4 Hrs/week 
@@ -5723,9 +5411,6 @@ Reference Books:
 ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 134 
  
- 
- 
- 
 Program: Bachelor of Engineering Semester: VII 
 Course Title: Advanced Welding Technology Course Code: 24EMEE406 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 Hrs/week 
@@ -5776,8 +5461,6 @@ Chapter 10. Chemical, Metallurgical, and Mechanical testing of weldments: 02 Hrs
 
 FMCD2009 / 2.0 135 
  
- 
- 
 Comparison of destructive and non-destructive tests, chemical tests, forms of corrosion, testing for 
 corrosion resistance, and metallographic tests. 
 Chapter 11. Visual and liquid penetrant inspection: 02 Hrs 
@@ -5799,8 +5482,6 @@ Brazing and soldering- for low temperatures below 300 °C
 
 ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 136 
- 
- 
  
 Program: Bachelor of Engineering Semester: VII 
 Course Title: Implementation of Product Lifecycle Management Course Code: 24EMEE407 
@@ -5837,8 +5518,6 @@ Springer, Third Edition, 2015
 
 ←BACK TO SEMESTER VIII 
 FMCD2009 / 2.0 137 
- 
- 
  
 Program: Bachelor of Engineering Semester: VIII 
 Course Title: Internship – Training Course Code: 18EMEI493 
@@ -5891,8 +5570,6 @@ development lifecycle.
 ←BACK TO SEMESTER VIII 
 FMCD2009 / 2.0 138 
  
- 
- 
 Program: Bachelor of Engineering Semester: VIII 
 Course Title: Capstone Project Course Code: 20EMEW402 
 L-T-P: 0-0-11 Credits: 11 Contact Hours: 
@@ -5912,7 +5589,6 @@ capstone project, students will also gain insight into the latest trends in thei
 
 ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 139 
- 
  
 Program: Bachelor of Engineering Semester: VIII 
 Course Title: Aircraft Systems and Design Course Code: 15EMEE413 
@@ -5969,9 +5645,6 @@ Text Books
 ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 140 
  
- 
- 
- 
 Program: Bachelor of Engineering Semester: VIII 
 Course Title: Industrial Engineering Methods and Practices Course Code: 15EMEE414 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 Hrs/week 
@@ -6021,8 +5694,6 @@ Publishing (India) Pvt.Ltd.
 
 ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 141 
- 
- 
  
 Program: Bachelor of Engineering Semester: VIII 
 Course Title: Advanced Energy Technology Course Code: 15EMEE415 
@@ -6077,8 +5748,6 @@ Reference Books:
 
 FMCD2009 / 2.0 142 
  
- 
- 
 4. Bagotsky. V.S, “Fuel Cells”, Wiley, 2009. 
 5. Ibrahim Dincer and Marc A. Rosen, “Thermal Energy Storage Systems and Applications”, 2nd Edition, 
 John Wiley and Sons Ltd., 2011. 
@@ -6087,9 +5756,6 @@ John Wiley and Sons Ltd., 2011.
 
 ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 143 
- 
- 
- 
  
 Program: Bachelor of Engineering Semester: VIII 
 Course Title: Thermal Management of Electronic Equipment Course Code: 15EMEE416 
@@ -6143,8 +5809,6 @@ Reference Books:
 ←BACK TO SEMESTER VIII 
 FMCD2009 / 2.0 144 
  
- 
- 
 Program: Bachelor of Engineering Semester: VIII 
 Course Title: Introduction to Nano-science and Nanotechnology Course Code: 15EMEO401 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 Hrs/week 
@@ -6196,8 +5860,6 @@ Chapter 6 Specific Applications: 8Hrs
 
 FMCD2009 / 2.0 145 
  
- 
- 
 Part of this can be implemented as a student project that involves: literature-survey, project report and a 
 Seminar (Power-Point) Presentations by groups of two students each (applications and students to be 
 identified by teachers and monitored by one teacher each): 
@@ -6240,8 +5902,6 @@ supplemented with course material from the course instructors.
 
 ←BACK TO SEMESTER VIII 
 FMCD2009 / 2.0 146 
- 
- 
  
 Program: Bachelor of Engineering Semester: VIII 
 Course Title: Nanotechnology Course Code: 15EMEO402 
@@ -6292,7 +5952,6 @@ Technology]: et al (Ed); Springer (2004).
 ←BACK TO SEMESTER VIII 
 FMCD2009 / 2.0 147 
  
- 
 Program: Bachelor of Engineering Semester: VIII 
 Course Title: Design of Experiments Course Code: 15EMEO403 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 Hrs/week 
@@ -6337,8 +5996,6 @@ Western Methods or Statistical Experimental Design”, Chapman and Hall.
 
 ←BACK TO SEMESTER VIII 
 FMCD2009 / 2.0 148 
- 
- 
  
 Program: Bachelor of Engineering 
 Course Title: Engine Management Systems 

@@ -1,4 +1,5 @@
 # PDF Document: IT-Policies_and_Procedures_Manual_Updated_12-4-21
+
 **PDF Source:** https://www.kletech.ac.in/pdf/IT-Policies_and_Procedures_Manual_Updated_12-4-21.pdf
 
 ## Page 1
@@ -8,7 +9,6 @@ K.L.E. TECHNOLOGICAL UNIVERSITY, HUBBALLI
 IT POLICIES AND 
 PROCEDURES 
  
-  
 (Approved by BOG-3: Dated: 24-12-2015) 
 
 ## Page 2
@@ -16,7 +16,6 @@ PROCEDURES
 Document valid when printed only  
 Last printed 27/07/2021 1:15:00 PM  Page 1 of 21 
   
- 
 INFOCELL 
 Information Technology Policy 
 Table of Contents 
@@ -51,7 +50,6 @@ Procedures ................................ ................................ ...
 Purpose of the Policy ................................ ................................ ................................ ............ 16 
 Procedures ................................ ................................ ................................ ........................... 16 
 
-
 ## Page 3
 
 Document valid when printed only  
@@ -65,7 +63,6 @@ Last printed 27/07/2021 1:15:00 PM  Page 2 of 21
 9.1.1 Purpose of the Policy ................................ ................................ ................................ ... 20 
 9.1.2 Procedure of the Policy ................................ ................................ ................................  20 
  
-
 ## Page 4
 
 Document valid when printed only  
@@ -97,7 +94,6 @@ is classified into the following groups:
 8. Bring your own device policy. 
 9. E-waste Policy 
   
-
 ## Page 5
 
 Document valid when printed only  
@@ -110,12 +106,10 @@ This Policy provides guidelines for software use for all employees within the ca
 that all software use is appropriate. Under this Policy, FOSSEE software will be conducted under 
 the same commercial/educational software procedures. 
 1.1.2 Software Licensing  
-All employees of the campus will follow all computer software copyrights and terms of all software 
 licenses.  
 Where licensing states limited usage (i.e., number of computers or users, etc.), it is the IT cell's 
 responsibility to ensure these terms are followed. 
 The Department lab instructor is responsible for completing a software audit of all hardware twice 
-a year to ensure that software copyrights and license agreements have adhered. 
 1.1.3 Software Installation 
 KLE Technological University is to be the registered owner of all software. 
 Only software obtained in accordance with the getting software policy is to be installed on the 
@@ -148,11 +142,9 @@ Unauthorized software is prohibited from being used on the campus. This includes
 software owned by an employee and used within the campus. 
 The unauthorized duplicating, acquiring, or use of software copies is prohibited. Any  employee 
 who makes acquires or uses unauthorized copies of software will be referred to The Registrar for 
-disciplinary action. The illegal duplication of software or other copyrighted works is not condoned 
 within this campus, and The Registrar is authorized to undertake disciplinary action where such 
 event occurs. 
   
-
 ## Page 7
 
 Document valid when printed only  
@@ -213,7 +205,6 @@ High-security zones like the exam section, account section, and data centers hav
 entry. In these areas, trespassing is monitored on CCTV.  
 Exam section LAN is isolated from accessing from campus LAN. 
  
-
 ## Page 9
 
 Document valid when printed only  
@@ -331,7 +322,6 @@ Do not include drawings, pictures, maps, graphics in your signature or an inspir
 type of quotation at the end. Such material is unnecessary in business communication and may 
 not be well-received. 
   
-
 ## Page 13
 
 Document valid when printed only  
@@ -378,7 +368,6 @@ automatically carried out daily at 4:15 PM and mailed to the administrator email
  Student admission/ course registration/ attendance/ fees/ exam all data is stored at the 
 contineo server and replicated on the cloud. 
   
-
 ## Page 15
 
 Document valid when printed only  
@@ -416,7 +405,6 @@ Last printed 27/07/2021 1:15:00 PM  Page 15 of 21
 All open-source or freeware must be compatible with the campus’s hardware and software 
 systems. 
   
-
 ## Page 17
 
 Document valid when printed only  
@@ -514,7 +502,6 @@ specification, cost, warranty, payment terms and delivery.
 vii. The negotiation meeting will be conducted and purchase order is issued to the 
 vendor. 
   
-
 ## Page 20
 
 Document valid when printed only  

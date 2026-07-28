@@ -1,4 +1,5 @@
 # PDF Document: Faculty-Conclave-2019-converted
+
 **PDF Source:** https://www.kletech.ac.in/pdf/Faculty-Conclave-2019-converted.pdf
 
 ## Page 1
@@ -6,7 +7,6 @@
     Earlier known as   
         B.V.B College of Engineering and Technology  
   
- 
 Faculty Conclave- 2022 
 Sl.No Title Authors 
 1 Engaging Lab Experience in Fluid Mechanics – 
@@ -46,7 +46,6 @@ enhance students learning outcome during
 pandemic situation 
 A.M. Hunashyal, Roopa AK 
  
-
 ## Page 2
 
     Earlier known as   
@@ -79,7 +78,6 @@ student learning
 Unnati Koppikar, Vijayalakshmi M, Poornima   
 Mohanachandran, Dr. Ashok. Shettar 
   
-
 ## Page 3
 
     Earlier known as   

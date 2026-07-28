@@ -1,11 +1,9 @@
 # PDF Document: 6th_EC_Minutes
+
 **PDF Source:** https://www.kletech.ac.in/pdf/6th_EC_Minutes.pdf
 
 ## Page 1
 
- 
- 
- 
 Minutes 
  
 6th Executive Council Meeting 
@@ -17,12 +15,6 @@ March 15th, 2018 at 10 am
 Venue: Senate Hall of the University 
 Hubballi 
  
- 
- 
- 
- 
- 
-
 ## Page 2
 
 ii 
@@ -105,7 +97,6 @@ Technological University.
 16 
 EC 6.10 Any other subject with the permission of the Chair. 17 
  
-
 ## Page 4
 
 1 
@@ -173,15 +164,10 @@ schemes and syllabi of the UG Minor Degree Programme in ‘Automotive Engineerin
 EC 5.12 Any other subject with the permission of the Chair 
 NIL 
  
- 
 Action Requested: To confirm the minutes of the previous meeting held on 20th 
 September 2017. 
  
- 
 Discussion: 
- 
- 
- 
  
 Resolution 6.1: The Executive Council confirmed the minutes of its 
 5th meeting held on 20th September 2017 at Sri. S. 
@@ -190,7 +176,6 @@ Nijalingappa College, Bengaluru.
 ## Page 6
 
 3 
- 
  
 EC 6.2 To confirm the action taken report on the minutes of the previous meeting held on 20th 
 September 2017. 
@@ -303,20 +288,14 @@ NIL
 Action Requested: The Executive Council is requested to confirm the action taken report on the minutes of the previous meeting 
 held on 20th September 2017. 
  
- 
 Discussion: 
  
 Resolution 6.2: Resolved to confirm the action taken report on the minutes of the previous 
 meeting held on 20th September 2017. 
  
- 
- 
- 
-
 ## Page 9
 
 6 
- 
  
 EC 
 6.3 
@@ -383,13 +362,11 @@ admissions to UG, PG and PhD programs for the academic year
 Agenda 5.5: Any other subject with the permission of the Chair 
 NIL 
  
- 
 Action Requested: The Executive Council is requested to consider and approve the 
 recommendations of the Admission Committee of the University held on 14th March 
 2018. 
  
 Discussion: 
- 
  
 Resolution 6.3: Executive Council reviewed the recommendations of 
 the Admission Committee held on 14th March and resolved to 
@@ -398,7 +375,6 @@ recommend the same to BOG.
 ## Page 11
 
 8 
- 
  
 EC 6.4 To discuss the University progress report for the academic 
 year 2017-18 (Information agenda). 
@@ -424,7 +400,6 @@ the University for the year 2017-18
  
 Discussion:  
  
- 
 Resolution 6.4: EC noted the progress report of the University 
 presented by the Vice Chancellor. The members of the EC expressed 
 their satisfaction and appreciation over the progress made by the 
@@ -435,9 +410,6 @@ University during the period.
 9 
  
 Enclosure 3.1 
- 
- 
- 
  
 Statement showing the Admisssion status of the University during the year 2017-
 18 
@@ -471,15 +443,9 @@ MCA 60 60
 Total 120 119 
 Grand Total (99+119) 270 218 
  
- 
- 
- 
- 
-
 ## Page 13
 
 10 
- 
  
 Semester: III & IV (Under graduate) 
 Sl No. Branch Strength 
@@ -531,7 +497,6 @@ Sl No. Branch Strength
 1. III & IV Semester 53 
 Total 53 
  
-
 ## Page 14
 
 11 
@@ -559,11 +524,9 @@ CTIE 0 1 0 1
 TOTAL 43 75 165 33 
 Grand Total 316 
  
-
 ## Page 15
 
 12 
- 
  
 EC 6.5 To consider and approve proposed changes in curriculum 
 structure of first year. 
@@ -578,21 +541,17 @@ Electrical Science (E&E, E&C and CS) students.
  Sequence of course to be ‘C-Programming’ course in first semester followed by 
 ‘Data Structure’ course in second semester. 
  
- 
 Action Requested: The Executive Council is requested to consider and approve proposed 
 changes in curriculum structure of first year 
  
 Discussion: 
  
- 
 Resolution 6.5: EC noted the proposed changes in curriculum 
 structure of first year. 
  
-
 ## Page 16
 
 13 
- 
  
 EC 6.6 To approve the Board of Studies and Board of Examiners 
 approved by the Academic Council. 
@@ -614,16 +573,13 @@ Resolution 6.6: EC approved the Board of Studies and Board of
 Examiners constituted by the Dean Academics and 
 resolved to recommend to the BOG. 
  
-
 ## Page 17
 
 14 
  
- 
 EC 6.7 To discuss and approve results of previous examinations. 
 The results of the examination conducted since last Executive Council meeting are 
 placed before the Council. 
- 
  
 Action Requested: The Executive Council is requested to approve the results as 
 presented by the Controller of Examination. The same results have been provisionally 
@@ -632,14 +588,12 @@ approved.
  
 Discussion:  
  
- 
 Resolution 6.7: Executive Council noted the results analysis of Dec 
 2016/Jan 2017 examination and May/June 2017 examination. 
 
 ## Page 18
 
 15 
- 
  
 EC 6.8 To discuss and ratify Undergraduate Minor Programme in 
 ‘Bioengineering’ that has been instituted by the University 
@@ -657,14 +611,11 @@ Target Disciplines
 • Biotechnology, Mechanical Engineering, Electrical & Electronics Engineering, 
 Electronics & Communication Engineering, Computer Science & Engineering 
  
- 
 Action Requested: The Executive Council is requested to discuss and ratify institution of 
 ‘Bioengineering’ undergraduate Minor programme and also note the scheme and syllabi of 
 the programme. 
  
- 
 Discussion:  
- 
  
 Resolution 6.8: Executive Council noted the Academic Council 
 approved Schemes and Syllabi of Undergraduate Minor Programme 
@@ -673,7 +624,6 @@ in ‘Bioengineering’.
 ## Page 19
 
 16 
- 
  
 EC 6.9 To review progress of implementation of the ‘Strategic 
 Plan’ of the KLE Technological University. 
@@ -685,14 +635,11 @@ institution was reviewed and approved by the Executive Council on December 27th,
 Plan’ is being implemented.  The progress of implementation need to be reviewed 
 and reflected upon annually.  
  
- 
- 
 Action Requested: The Executive Council is requested to review the progress of 
 implementation of the ‘Strategic Plan’ of the KLE Technological 
 University. 
  
 Discussion:  
- 
  
 Resolution 6.9: EC approved the progress of implementation of the 
 ‘Strategic Plan’ of the KLE Technological University 
@@ -703,9 +650,6 @@ monitor the progress of it’s implementation.
 
 17 
  
- 
 EC 6.10 Any other subject with the permission of the Chair. 
 NIL 
- 
- 
  

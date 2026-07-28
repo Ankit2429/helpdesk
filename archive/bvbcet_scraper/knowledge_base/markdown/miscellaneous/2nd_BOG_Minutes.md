@@ -1,16 +1,10 @@
 # PDF Document: 2nd_BOG_Minutes
+
 **PDF Source:** https://www.kletech.ac.in/pdf/2nd_BOG_Minutes.pdf
 
 ## Page 1
 
 i 
- 
- 
- 
- 
- 
- 
- 
  
 Minutes 
 2nd Board of Governors Meeting 
@@ -19,14 +13,6 @@ KLE Technological University
 Hubballi, Karnataka 
 July 25, 2015 
  
- 
- 
- 
- 
- 
- 
-  
-
 ## Page 2
 
 ii 
@@ -124,7 +110,6 @@ Government Of
 Karnataka. 
 Member 
  
-
 ## Page 3
 
 iii 
@@ -189,11 +174,9 @@ ii. Dr K Balaveera Reddy, Former Vice Chancellor, VTU Belagavi
 Resolution 2.1: Resolved to confirm the minutes of the meeting of the Board 
 of Governors held on 1st May 2105 
   
-
 ## Page 5
 
 2 
- 
  
 Agenda 2.2 
 To approve the action taken report on the minutes of the meeting of the 
@@ -281,7 +264,6 @@ been constituted
 
 3 
  
- 
 As per the provisions of 
 Karnataka Act No. 22 of 
 2013 the Chancellor has 
@@ -298,7 +280,6 @@ Academic Council of the
 KLE Technological 
 University [Annexure-4] 
  
- 
 Resolution 2.2: Resolved to approve the action taken report on the minutes 
 of  the meeting of the Board of Governors held on 1st May 2015 
 Agenda 2.3  
@@ -313,11 +294,9 @@ Resolution 2.3: Resolved to approve Statutes of KLE Technological University,
 Hubballi, framed and approved by Executive Council as per the provisions of 
 ‘KLE Technological University Act – 2012’. 
   
-
 ## Page 7
 
 4 
- 
  
 Agenda 2.4 
 To consider and approve ‘Academic Regulations, Service Rules (framed as 
@@ -359,7 +338,6 @@ programs that are to be instituted by the University from the academic year
 2015-16, as per the recommendations of the Academic Council and the 
 Executive Council. 
  
- 
 Agenda 2.6 
 To discuss and approve the broad curriculum framework for various 
 academic programs of the University 
@@ -374,12 +352,6 @@ various academic programs of the University.
 Agenda 2.7 
 Any other subject with the Permission of the Chair 
  
- 
- 
- 
- 
- 
-
 ## Page 9
 
 6 
@@ -389,53 +361,29 @@ ANNEXURE – 1
 [Nomination Committee’ was formed as per Section 17 clause 2 of the KLE Technological 
 University Act 2012] 
   
-
 ## Page 10
 
 7 
  
- 
- 
-
-
 ## Page 11
 
 8 
  
- 
- 
- 
- 
 ANNEXURE – 2 
 [Appointment letter of the first Vice-Chancellor] 
  
-  
-
 ## Page 12
 
 9 
  
- 
- 
- 
- 
-
-
 ## Page 13
 
 10 
- 
- 
- 
- 
- 
  
 ANNEXURE – 3 
  
 [First Executive Council of the KLE Technological University] 
  
-  
-
 ## Page 14
 
 11 
@@ -463,27 +411,13 @@ Dr P G Tewari Dean Academic Member
 Dr B B Kotturshettar Dean Planning & Development Member  
 Prof B L Desai Registrar  Member Secretary  
  
- 
-  
-
 ## Page 15
 
 12 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
 ANNEXURE – 4 
 [First Academic Council of the KLE Technological University] 
  
-  
-
 ## Page 16
 
 13 
@@ -495,7 +429,6 @@ For the Constitution of
 First Academic Council 
 For KLE Technological University, Hubballi 
  
- 
 Preamble: 
 The KLE Technological University has been constituted as per the Karnataka Act No. 22 of 
 2013. As per the powers vested with the Chancellor through the said Act, The Chancellor 
@@ -504,7 +437,6 @@ nominates the First Academic Council for The KLE Technological University Hubbal
 Constitution of the First Academic Council of The KLE Technological University Hubballi: 
 The Chancellor is pleased to constitute the First Academic Council of The KLE 
 Technological University Hubballi as given below: 
- 
  
 First Academic council 
 Sr  Name  Designation  Position  
@@ -552,65 +484,28 @@ Member
 25.Prof B L Desai Registrar  Member 
 Secretary  
  
-
 ## Page 18
 
 15 
- 
  
  Invitees    
 26 Dr Nalini Head of IT, BVB Member  
 27 Dr Meena S M Head of ISE, BVB Member  
  
- 
-         
- 
- 
-  
-
 ## Page 19
 
 16 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 ANNEXURE – 5 
  
 [The first draft of Statutes of KLE Technological University framed as per 
 the provisions of ‘KLE Technological University Act – 2012’] 
  
-  
-
 ## Page 20
 
 17 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 The First Statutes of KLE Technological University 
- 
- 
- 
- 
- 
- 
- 
- 
  
 KLE TECHNOLOGICAL University 
 (Established under Karnataka Act No.22, 2013) 
@@ -618,8 +513,6 @@ Vidyanagar
 Hubballi - 580031 
 www.kletech.ac.in 
   
-
-
 ## Page 21
 
 18 
@@ -722,7 +615,6 @@ proceedings
 47 Protection of action taken in good faith 23 
 48 Power to amend the Statutes 23 
  
-
 ## Page 24
 
 21 
@@ -774,7 +666,6 @@ University;
   v  "Board" means the Board of Governors of the 
 University; 
  
-
 ## Page 25
 
 22 
@@ -849,7 +740,6 @@ under the KLE Technological University Act, 2012.
   xxiii  "Visitor" and "Pro Visitor" mean respectively the 
 Visitor and Pro Visitor of the University. 
  
- 
 CHAPTER – II  
 UNIVERSITY AND ITS OFFICERS 
  
@@ -879,7 +769,6 @@ appointed by the Sponsoring Body and shall have
 such powers and functions as prescribed under 
 Section 15(5) of the Act. 
  
-
 ## Page 27
 
 24 
@@ -917,7 +806,6 @@ Chancellor as per Section-17(1) of the Act whose
 terms and conditions of appointment shall be 
 those contained in the contract of appointment. 
  
- 
   7.2  The selection of the Vice-Chancellor shall be as per 
 provisions of 17(1)-(3) of the Act. 
  
@@ -940,7 +828,6 @@ addition:
 ## Page 28
 
 25 
- 
  
   7.5.1  The Vice-Chancellor shall exercise all powers 
 necessary for the maintenance of discipline in the 
@@ -1046,7 +933,6 @@ contract of appointment.
   10.2 The Finance Officer shall be a whole-time salaried 
 officer of the University. 
  
-
 ## Page 30
 
 27 
@@ -1054,7 +940,6 @@ officer of the University.
   10.3 The term of appointment of the Finance Officer 
 shall be THREE years which may be renewable for 
 further terms. 
- 
  
   10.4 The Finance Officer shall assist the Vice-Chancellor 
 in all matters of finance and take up such other 
@@ -1113,14 +998,9 @@ be performed either by the Registrar or a person
 nominated by the Vice-Chancellor with the 
 approval of the Chancellor. 
  
- 
- 
-  
-
 ## Page 32
 
 29 
- 
  
 CHAPTER – III 
 AUTHORITIES OF THE UNIVERSITY 
@@ -1173,7 +1053,6 @@ members of the Board shall be THREE years.
 THREE members attending and voting at such 
 meetings. 
  
-
 ## Page 33
 
 30 
@@ -1216,7 +1095,6 @@ years.
 reconstitute the Executive Council before the 
 expiry of its term.  
  
-   
 15.6. 
  
 The powers and functions of the Executive Council 
@@ -1231,7 +1109,6 @@ the University; and
   iii To perform such other functions as may be 
 assigned by the Board. 
  
-
 ## Page 34
 
 31 
@@ -1292,7 +1169,6 @@ times a year. However, the Vice-Chancellor may
 convene an extraordinary meeting of the Academic 
 Council for the transaction of any urgent matter. 
  
-   
 16.7 
  
 The quorum for all meetings of the Academic 
@@ -1337,7 +1213,6 @@ degrees.
   16.9 The Academic Council shall seek the approval of 
 the Executive Council in relevant matters. 
  
-
 ## Page 36
 
 33 
@@ -1462,7 +1337,6 @@ Board from time to time.
   18.9 The Finance Council shall seek the approval of the 
 Board in all matters of significance. 
  
- 
 Rules of Business of 
 meetings of the 
 Authorities: 
@@ -1483,7 +1357,6 @@ functions within the delegated authority and terms
 of reference, and automatically get dissolved on 
 completion of their tenures or by a specific order 
 of dissolution by the Vice-Chancellor. 
- 
  
 CHAPTER – IV 
 OPERATION OF FUNDS AND THEIR MAINTENANCE 
@@ -1506,7 +1379,6 @@ Chartered Accountants to undertake the statutory
 audit of accounts of the University in the manner 
 prescribed under Section-54 of the Act. 
  
-
 ## Page 39
 
 36 
@@ -1529,9 +1401,6 @@ December 31 of each year.
 Auditor(s) to conduct periodical and / or 
 concurrent audit to report the findings to the 
 Finance Council. 
- 
- 
- 
  
 CHAPTER – V 
 ADMISSIONS, FEES AND OTHER STUDENT MATTERS 
@@ -1611,8 +1480,6 @@ Residence
 for the conditions of residence of the students of 
 the University. 
  
- 
- 
 CHAPTER – VI 
 CONFERMENT OF DEGREES 
  
@@ -1625,7 +1492,6 @@ and/or Guidelines shall be framed for this purpose
 by the Academic Council and approved by the 
 Executive Council. 
  
- 
 Conferment of 
 honorary degrees 
 30  In exercise of the powers conferred by Sections 33 
@@ -1633,11 +1499,9 @@ honorary degrees
 Honorary Degree(s) as per the following 
 procedure: 
  
-
 ## Page 41
 
 38 
- 
  
   i  All the proposals for the conferment of honorary 
 degrees and/or fellowships shall be made by the 
@@ -1660,14 +1524,9 @@ University for good and sufficient cause. The Board
 shall consider the recommendation of Academic 
 Council before arriving at the final decision. 
  
- 
- 
-  
-
 ## Page 42
 
 39 
- 
  
 CHAPTER – VII 
 APPOINTMENT AND SERVICE CONDITIONS  
@@ -1696,7 +1555,6 @@ to be made by the Vice-Chancellor to the various
 positions, shall be made by the Board on the 
 recommendation of the Executive Council through 
 selection committees constituted as follows: 
- 
  
   32.3.1  For Professor / Associate Professors and equivalent 
 positions: 
@@ -1757,9 +1615,6 @@ selection committee.
 conditions for the various positions shall be as 
 prescribed by the Executive Council from time to 
 time. 
- 
- 
- 
  
   32.7  Where a post has to be filled by contract or 
 invitation, the Vice-Chancellor may at his 
@@ -1822,7 +1677,6 @@ from time to time.
 governing the seniority requirements for different 
 purposes from time to time. 
  
-
 ## Page 45
 
 42 
@@ -1852,10 +1706,8 @@ The committee may resolve the issues, with its
 recommendation of penalties and/or rewards, if 
 any. 
  
- 
 CHAPTER – VIII 
 MISCELLANEOUS 
- 
  
 Cooperation and 
 collaboration with 
@@ -1945,7 +1797,6 @@ cases of ragging.
 the Act, and also meeting legal requirements, shall 
 be framed for handling cases of sexual harassment.  
  
-
 ## Page 47
 
 44 
@@ -2008,7 +1859,6 @@ methods in electronic and print forms. The Board
 shall formulate Regulations and/or necessary 
 Guidelines for this purpose. 
  
-
 ## Page 48
 
 45 
@@ -2018,7 +1868,6 @@ exploitation of
 knowledge 
 43  The University shall formulate appropriate 
 Regulations and/or Guidelines regarding 
-intellectual properties, copyrights and their 
 exploitation, and sharing of benefits between the 
 University and other stakeholders, with the 
 approval of the Board.  
@@ -2065,20 +1914,9 @@ the Statutes
 amend or repeal the Statutes as prescribed under 
 Section-35 of the Act. 
  
-  
-
 ## Page 49
 
 46 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 ANNEXURE – 6 
  
@@ -2086,13 +1924,9 @@ ANNEXURE – 6
 the Academic Council as per the provisions of ‘KLE Technological University Act – 
 2012’] 
   
-
 ## Page 50
 
 47 
- 
- 
- 
  
 Regulations  
 Governing Undergraduate  
@@ -2100,16 +1934,9 @@ Postgraduate Programmes of
 KLE Technological University  
 2015 
  
- 
- 
- 
- 
- 
 KLE Technological University 
 (Established under Karnataka Act No.22, 2013) 
   
-
-
 ## Page 51
 
 48 
@@ -2763,9 +2590,6 @@ circumstances, if deemed fit, he/she may
 reconstitute the Examinations Malpractice 
 Review Committee before the expiry of its term.  
 CHAPTER III  ADMISSION 
- 
- 
- 
  
   Admission to the University shall normally be 
 made at the commencement of each academic 
@@ -4373,7 +4197,9 @@ Deviation will be used strictly for awarding
 grades to all the re-evaluated courses and 
 Summer semester Examinations. 
 Absolute Grading System 
+
 # Mark
+
 s 
 Letter 
 grade 
@@ -4632,7 +4458,6 @@ First
 First class with 
 Distinction 
    
- 
   i  First Class with Distinction: A student completing 
 a Programme of study within the specified 
 minimum duration, securing a CGPA equal to or 
@@ -4892,7 +4717,6 @@ minimum prescribed passing marks in
 ISA for that course by such grace 
 marks. 
  
-
 ## Page 110
 
 107 
@@ -5176,13 +5000,9 @@ JURISDICTI
 ON 
 90  All disputes arising from the regulations listed herein must be addressed to the Academic Council. The decision of the Academic Council is final and binding on all parties. Any legal issues arising from this set of regulations shall be limited to the legal jurisdiction determined by the location of the College and not that of any other parties. 
  
- 
-
 ## Page 116
 
 113 
- 
- 
  
 ANNEXURE –7 
  
@@ -6020,8 +5840,6 @@ Rule 48 EMPLOYEES PROVIDENT FUND
 As per the provisions made there on, by the KLE Technological University/ KLE 
 Society.  
  
-  
-
 ## Page 136
 
 133 
@@ -6196,7 +6014,6 @@ eligible for the maternity leave if she gives birth to twins in the second deliv
 8.3 The maximum period of entitlement for maternity leave shall be 90 days with full 
 pay of which not more than 45 days shall proceed the date of expected delivery. 
  
-
 ## Page 140
 
 137 
@@ -6299,19 +6116,9 @@ leave on loss or pay or unauthorized absence such weekly holiday or authorized
 holiday will be included in the period of the leave on loss of pay or unauthorized and 
 he will not be entitled to pay and allowance.                 
  
-  
-
 ## Page 143
 
 140 
- 
- 
- 
- 
- 
- 
- 
- 
  
 ANNEXURE –8 
  
@@ -6338,7 +6145,6 @@ Rs. 10,000  Remarks
 4. Hosting industry / academia experts  
 5. Buying Books 
  
- 
  Over and above the allocated budget Deans and Registrar have the following sanctioning 
 power: 
  
@@ -6359,20 +6165,9 @@ Vice- Chancellor Rs. 10,00,000  Remarks
 Laboratory, research etc., 
 4. Events   
  
- 
-  
-
 ## Page 145
 
 142 
- 
- 
- 
- 
- 
- 
- 
- 
  
 ANNEXURE –9 
  
@@ -6457,7 +6252,6 @@ Convocation:
 absence of the Visitor, Pro-Visitor (The Honorable Minister for Higher education, GoK).  In 
 absence of both Chancellor shall preside over the convocation.  
  
-
 ## Page 148
 
 145 
@@ -6534,24 +6328,11 @@ Special convocation: Special convocation for conferring honorary degrees or othe
 distinctions may be held on such date and time as the BOG may with the Chancellor’s 
 approval determine. 
  
- 
 Approved by the Chancellor 
  
-  
-
 ## Page 150
 
 147 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 ANNEXURE –10 
  
@@ -6559,8 +6340,6 @@ ANNEXURE –10
 started by the KLE Technological University from the academic year 
 2015-16] 
  
-  
-
 ## Page 151
 
 148 
@@ -6590,21 +6369,9 @@ POST GRADUATE PROGRAMS
 8 Master of Computer Applications (MCA) 60 
 9 Master of Business Administration (MBA) 60 
  
-  
-
 ## Page 152
 
 149 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 ANNEXURE –11 
  
@@ -6617,7 +6384,6 @@ Various Academic Programs of the University]
  
 Broad curriculum frameworks proposed for Undergraduate and Postgraduate programs are 
 as follows: 
- 
  
 BE PROGRAM The different programs shall consist of a number of courses and each course shall be assigned with credits, which is a measure of the weightage of the course. The minimum number of credits that must be earned to be awarded the B.E. degree shall be 176 for regular students. For B.E. lateral entry students, the credits shall be 132. A typical Break down for BE degree Curriculum shall be as below  Number of Credits Average number of Credits (Typical) Humanities and Social Sciences (HSS) 9 – 15 10  Basic Sciences (BS) 20 - 30 26 Engineering Sciences(ES) 25 - 35 30 Professional Subjects (PS) Core 50 - 70 57 Elective Courses  Essential Programme Electives (EPE)  Optional Programme Electives (OPE)  Open Electives (OE) 25 - 35 33 Project Work 15 – 25 20 Total 176 - 180 176 
  
@@ -6635,7 +6401,6 @@ M.TECH  PROGRAM The program shall consist of a number of courses and each course
 
 152 
  
- 
 MCA  PROGRAM The different programs shall consist of a number of courses and each course shall be assigned with credits, which is a measure of the weightage of the course. The minimum number of credits that must be earned to be awarded the MCA degree shall be 132 for regular students. A typical Break down of MCA program Subject Area MCA Program  Number of Credits  Average number of Credits (Typical) Professional Subjects (PSC) Core 90-100 94 Professional Subjects (PSE) -Electives 8-16 12 Industrial Training  --- --- Seminars --- --- Project Work 25-30 26 Others (specify if any) 0-4 3* Total 132-135 132 
 * Mandatory Non-credit course 
 MBA  PROGRAM The different programs shall consist of a number of courses and each course shall be assigned with credits, which is a measure of the weightage of the course. The minimum number of credits that must be earned to be awarded the MBA degree shall be 88, for regular students.  A typical Break down of MBA program Subject Area MBA Program  Number of Credits Average number of Credits (Typical) Professional Subjects (PSC) Core 40-60 50 Professional Subjects (PSE) -Electives 25-30 27 
@@ -6645,6 +6410,4 @@ MBA  PROGRAM The different programs shall consist of a number of courses and eac
 153 
  
 Industrial Training  4-8 6 Seminars --- --- Project Work 3-6 4 Others (specify if any) 0-4 1 Total 88-90 88 
- 
- 
  

@@ -1,4 +1,5 @@
 # PDF Document: 187imguf_bvbcet-annual-report-2013-14
+
 **PDF Source:** https://www.kletech.ac.in/Uploads/image/187imguf_bvbcet-annual-report-2013-14.pdf
 
 ## Page 1
@@ -70,7 +71,6 @@ We would like to extend our sincere thanks to our faculty, staff, students, alum
 their continued support and remarkable contributions. Looking ahead, we will continue to work towards 
 realizing our vision to be a leader in engineering education, and advancing research and innovation to 
 support socio-economic development of the region.
-
 
 ## Page 4
 
@@ -195,7 +195,6 @@ college to contribute to the growth of socio-
 economic potential of the region.
 Our Vision
 
-
 ## Page 6
 
 6   | BVBCET
@@ -237,7 +236,6 @@ plan of the Institution.
 The aspirations of our institution are reflected in our vision and mission statements.
 Our Vision
 
-
 ## Page 7
 
 7   | BVBCET
@@ -277,7 +275,6 @@ the rules framed by the Visveswaraya
 Technological University , Belgaum. 
 Postgraduate Admissions
 Student Enrollment
-
 
 ## Page 8
 
@@ -431,7 +428,6 @@ strengthens our academic quality and inspires
 student achievement.
 Academic Quality
 
-
 ## Page 12
 
 12   | BVBCET
@@ -458,7 +454,6 @@ identified by analyzing combination of individual
 course reports and student works.  The frame 
 work adopted by the college is depicted in the 
 Figure below.
-
 
 ## Page 13
 
@@ -505,7 +500,6 @@ Graphical
 Symbolic
 The college continually works to bring about innovations in curriculum design, pedagogy and 
 assessment to enhance the student learning. Few of the initiatives are:
-
 
 ## Page 14
 
@@ -567,7 +561,6 @@ Developing Engineering Academics (IIDEA)’,
 USA as OBE trainers. (only group recognised in 
 India) .
 
-
 ## Page 15
 
 15   | BVBCET
@@ -605,7 +598,6 @@ Staff Trained
 Faculty Development Programs
 Staff Development Programs
 
-
 ## Page 16
 
 16   | BVBCET
@@ -638,7 +630,6 @@ activities in the college are presented.
 To meet its growth aspirations, one of the challenges faced by the college is to transform itself 
 from a good teaching institute to an excellent teaching and research institute. It is important 
 that we need to further the research and developmental activities for the following:
-
 
 ## Page 18
 
@@ -823,7 +814,6 @@ students
 (Completed) 5
 2014-15 46 51
 
-
 ## Page 21
 
 21   | BVBCET
@@ -904,7 +894,6 @@ applications
 Energy Conservation 
 (in lighting systems) 
 
-
 ## Page 23
 
 23   | BVBCET
@@ -961,7 +950,6 @@ world  -2012 *
 35 employees.
 ‘Most Innovative Company’  award by DBT, Govt. of 
 India 
-
 
 ## Page 24
 
@@ -1029,7 +1017,6 @@ and present them to win cash prizes. This is a
 regular event.
 PUPA (End-to-end product development-marketing activity)
 
-
 ## Page 25
 
 25   | BVBCET
@@ -1091,7 +1078,6 @@ entrepreneurial culture and research based
 product development capabilities of the US 
 institutions. This Both UML and BVB faculty 
 shall conduct the program sessions.  
-
 
 ## Page 26
 
@@ -1256,7 +1242,6 @@ were benefitted by this.
 Background:
 Activities:
 
-
 ## Page 29
 
 29   | BVBCET
@@ -1322,7 +1307,6 @@ members and support them with funds up to Rs.10,000 per proposal. This year a to
 faculty members from 06 departments are given Curriculum Innovation Grants during the year 
 2014-2015. 
 
-
 ## Page 30
 
 30   | BVBCET
@@ -1349,7 +1333,6 @@ Shettar are acting as resource persons for
 Mechanical, Computer Science & IT and 
 Electronics streams for curriculum review 
 and design initiative by NASSCOM.
-
 
 ## Page 31
 
@@ -1410,7 +1393,6 @@ learners i.e., they learn better when visual representation of the concepts is p
 The digital tablet is emerging as a powerfull tool to bring in this aspect into the teaching / learning 
 process.
 
-
 ## Page 32
 
 32   | BVBCET
@@ -1438,7 +1420,6 @@ undertaken. The new landscape focuses on
 creating informal interaction space for the 
 students in the campus. 
 Capital and IT
-
 
 ## Page 33
 
@@ -1599,7 +1580,6 @@ Prof M. I. Savadatti
 Head of the Institution/Member Secretary
 Dr. Ashok Shettar
 
-
 ## Page 37
 
 37   | BVBCET
@@ -1612,31 +1592,25 @@ from TEQIP–Project Implementation Plan document have been considered while for
 plan of the Institution. The progress of the activities undertaken to achieve envisioned developmental 
 objectives are reported below.
 
-
 ## Page 38
 
 38   | BVBCET
-
 
 ## Page 39
 
 39   | BVBCET
 
-
 ## Page 40
 
 40   | BVBCET
-
 
 ## Page 41
 
 41   | BVBCET
 
-
 ## Page 42
 
 42   | BVBCET
-
 
 ## Page 43
 
@@ -1686,7 +1660,6 @@ former Vice-chancellor Gulbarga University,
 Dr. Prabhakar Kore, Chairman KLE Society 
 and office bearers of alumni association were 
 present on the occasion.
-
 
 ## Page 44
 
@@ -1744,8 +1717,6 @@ The conference opened avenues of possible
 collaboration  with Virginia Tech USA for reforms 
 in freshman Engineering curriculum.
  
-
-
 ## Page 45
 
 45   | BVBCET
@@ -1952,7 +1923,6 @@ timers, professionals, & middle-aged men.
 KLE Dhwani BVB 90.4 fm is available on air for 
 8 hours from Monday to Sunday.
 
-
 ## Page 50
 
 50   | BVBCET
@@ -2041,7 +2011,6 @@ bridge the gaps between Industry and
 Institute wherever necessary and actively 
 participate in these relations proposed.
 
-
 ## Page 52
 
 52   | BVBCET
@@ -2122,11 +2091,9 @@ Humanities
 Prof. T. V. M. Swamy
 First Year
 
-
 ## Page 54
 
 Campus Snapshots
-
 
 ## Page 55
 

@@ -1,52 +1,21 @@
 # PDF Document: mba-curriculum-2023-25
+
 **PDF Source:** https://www.kletech.ac.in/pdf/mba-curriculum-2023-25.pdf
 
 ## Page 1
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  1 
  
- 
- 
- 
- 
- 
 School of Management Studies and Research 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Curriculum and Syllabus 
 (2023-2025) 
 MBA- Masters of Business Administration 
  
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 2
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  2 
@@ -60,30 +29,8 @@ Sr.No Content Page No
 5 Curriculum Structure – Semester-wise 9 
 6 Curriculum Content- Course-wise 13 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 3
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  3 
@@ -92,11 +39,9 @@ Title: Vision and Mission Statements of the KLE Technological University
  
 Vision 
  
- 
 KLE Technological University will be a national leader in Higher 
 Education –recognised globally for innovative culture, outstanding 
 student experience, research excellence and social impact. 
- 
  
 Mission 
  
@@ -121,12 +66,8 @@ As a unified community of faculty, staff and students, we work together with the
 spirit of collaboration and partnership to accomplish our mission. 
            Back 
  
- 
-
 ## Page 4
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  4 
@@ -146,18 +87,10 @@ management challenges and shapes professionals
 3. To engage with industry and community stakeholders by contributing to the 
 region's socio-economic development. 
  
- 
-            
- 
- 
- 
- 
            Back 
 
 ## Page 5
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  5 
@@ -197,8 +130,6 @@ societal issues.
 
 ## Page 6
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  6 
@@ -229,8 +160,6 @@ TOTAL  15-2-4 21
 
 ## Page 7
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  7 
@@ -304,14 +233,9 @@ Credits 21 24 22 21
 
 ## Page 8
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  8 
- 
- 
- 
  
 II Semester 
  
@@ -340,12 +264,9 @@ TOTAL  17-2-5 24
 
 ## Page 9
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  9 
- 
  
 III Semester 
  
@@ -375,16 +296,11 @@ TOTAL  15-0-7 22
 
 ## Page 10
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  10 
  
 IV Semester 
- 
- 
- 
  
 No Code Course  Category L-T-P Credits Contact 
 Hours 
@@ -406,8 +322,6 @@ TOTAL  18-0-3 21
 
 ## Page 11
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  11 
@@ -501,11 +415,8 @@ Analysis
  
                  Back 
  
-
 ## Page 12
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  12 
@@ -560,8 +471,6 @@ Entrepreneurial Perspective, Tata McGraw-Hill, 15th Edition, 2019
 
 ## Page 13
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  13 
@@ -607,12 +516,8 @@ Company,2003.
  D N Dwivedi, Managerial Economics, 7th edition, Vikas Publication house, 2010. 
            Back 
   
-  
-
 ## Page 14
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  14 
@@ -659,12 +564,8 @@ Pearson India Education Services, 5th edn, 2016.
 International Publishers, 1st edn, 2011. 
        Back 
  
-  
-
 ## Page 15
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  15 
@@ -723,13 +624,10 @@ Hill.
 
 ## Page 16
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  16 
  
-  
  G. C. Beri, Business Statistics, 2nd edition, 2005, Tata McGraw-Hill 
  R I Lewin and David S Rubin, Statistics for Management, 7th edition,2009, Pearson. 
  Robert E. Stine, Dean Foste r, Statistics for Business: Decision Making and Analysis, 1 st 
@@ -738,8 +636,6 @@ edition, 2014, Pearson
 
 ## Page 17
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  17 
@@ -777,14 +673,8 @@ A south Asian Perspective, 14th edition, Pearson Publication.
  Michael Hutt, Dheeraj Sharma, B2B Marketing, 11th edition, Cengage learning. 
                                    Back 
  
- 
- 
-  
-
 ## Page 18
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  18 
@@ -834,11 +724,8 @@ Private Limited; 2 edition, 2015
 Education India Private Limited; 10 edition, 2011 
            Back 
  
-
 ## Page 19
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  19 
@@ -868,12 +755,8 @@ employee strength, Product/services and market served, competitors)
 90Hrs 
          Back 
  
-  
-
 ## Page 20
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  20 
@@ -896,14 +779,8 @@ Analysis)
 90Hrs 
         Back 
  
- 
- 
-  
-
 ## Page 21
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  21 
@@ -957,11 +834,8 @@ Communication, 3rd edition, Thomson South-Western.
  Sam Phillips, 3000 Synonyms and Antonyms 1st Edition, Goodwill Publishing House 
            Back 
  
-
 ## Page 22
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  22 
@@ -1015,8 +889,6 @@ Marketplace, 6th edn, Tata McGraw Hill.
 
 ## Page 23
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  23 
@@ -1072,8 +944,6 @@ Western.
 
 ## Page 24
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  24 
@@ -1119,12 +989,8 @@ Corporate   Finance, 6thedn, Tata McGraw Hill.
 Hall of India. 
         Back 
  
-  
-
 ## Page 25
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  25 
@@ -1164,11 +1030,8 @@ Biztantra, 2008.
  Gary Dessler and Biju Varrkey, Human Resource Management, Pearson, 16th edition 2020. 
          Back 
   
-
 ## Page 26
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  26 
@@ -1217,11 +1080,8 @@ References:
  Klassen RD and Larry J. Menor LJ, Cases in operations Management, Sage. 
            Back 
   
-
 ## Page 27
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  27 
@@ -1269,12 +1129,8 @@ and Practice, 2nd edition, Wiley International.
 Analytic Hierarchy Process, Springer publication ,2012 
          Back 
  
-  
-
 ## Page 28
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  28 
@@ -1324,11 +1180,8 @@ Sons.
 and Quality Publishing Private Limited 
          Back 
  
-
 ## Page 29
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  29 
@@ -1388,8 +1241,6 @@ Non – Verbal Logic 02Hrs
 
 ## Page 30
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  30 
@@ -1409,13 +1260,8 @@ Communication, 3rd edition, Thomson South-Western.
  John Jackman and Wendy Wren, Nelson English Evaluation Pack – Book 5, Thomas Nelson. 
          Back 
  
- 
-  
-
 ## Page 31
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  31 
@@ -1434,13 +1280,8 @@ The students have to undergo AI certification course mandatorily in the second p
 90Hrs 
          Back 
  
- 
-  
-
 ## Page 32
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  32 
@@ -1464,27 +1305,8 @@ Students are expected to work on the following points:
 90Hrs 
          Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 33
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  33 
@@ -1532,11 +1354,8 @@ Executing Strategy – the quest for competitive advantage, Tata McGraw Hill
 and Schuster 
      Back 
   
-
 ## Page 34
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  34 
@@ -1550,7 +1369,6 @@ Particulars Hours
  
  Evolution of sustainability philosophy 
  
- 
 28 Hrs 
  Impact of Climate change from the perspectives of Social, Environmental, 
 Economics and Organizational Management.                                                                                             
@@ -1563,14 +1381,8 @@ Agriculture, Water resources, Energy, Industrialization, Urbanization and Health
 and Hygiene, Corporate Social Responsibility (CSR). 
     Back 
  
- 
- 
-  
-
 ## Page 35
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  35 
@@ -1592,14 +1404,8 @@ activities:
 90 hrs 
       Back 
  
- 
- 
-  
-
 ## Page 36
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  36 
@@ -1615,13 +1421,8 @@ conclusion, suggestion for future research, practical/theoretical implications.
 90 hrs 
       Back 
  
- 
-  
-
 ## Page 37
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  37 
@@ -1642,13 +1443,8 @@ Students are expected to work on the following activities:
 90 hrs 
      Back 
  
- 
-  
-
 ## Page 38
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  38 
@@ -1668,13 +1464,8 @@ Tasks
 90 hrs 
       Back 
  
- 
-  
-
 ## Page 39
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  39 
@@ -1696,12 +1487,8 @@ entrepreneurship.
 90 hrs 
      Back 
  
-  
-
 ## Page 40
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  40 
@@ -1751,11 +1538,8 @@ References:
  Gogna, P. P. S. A Textbook of Business Law, S. Chand & Co. 
     Back 
  
-
 ## Page 41
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  41 
@@ -1805,11 +1589,8 @@ Pearson/PHI, 4th Edition, 2011.
 Chain Management, Cengage Learning India Pvt Ltd. 
            Back 
  
-
 ## Page 42
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  42 
@@ -1824,11 +1605,8 @@ as per the mutual interest of the organization and student.
 90 hrs 
          Back 
   
-
 ## Page 43
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  43 
@@ -1849,12 +1627,8 @@ Students are expected to work on the following activities:
 90 hrs 
       Back 
  
-  
-
 ## Page 44
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  44 
@@ -1874,14 +1648,8 @@ Tasks:
 90 hrs 
      Back 
  
- 
- 
-  
-
 ## Page 45
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  45 
@@ -1906,12 +1674,8 @@ venture
 90 hrs 
       Back 
  
-  
-
 ## Page 46
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  46 
@@ -1952,12 +1716,8 @@ References:
  Tapan K Panda, Sunil Sahadev, Sales Management, 2, Oxford Higher Education., 2014 
        Back 
  
-  
-
 ## Page 47
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  47 
@@ -2005,12 +1765,8 @@ References:
  Wayne L Winston, Marketing Analytics, Wiley,2014 
       Back 
  
- 
-
 ## Page 48
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  48 
@@ -2050,12 +1806,8 @@ References:
  Gopalaswamy T.P., Rural Marketing, Vikas Publishing House 
       Back 
  
-  
-
 ## Page 49
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  49 
@@ -2098,11 +1850,8 @@ References:
  Christopher Lovelock, Principles of Services Marketing, Pearson Education 
       Back 
   
-
 ## Page 50
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  50 
@@ -2148,13 +1897,8 @@ References:
 Communications, 3rd Edition, Pearson Publication 
       Back 
  
- 
-  
-
 ## Page 51
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  51 
@@ -2205,12 +1949,8 @@ References:
 2. Ralph S Alexander, Richard M Hill, Industrial Marketing, 3rd edition.   
       Back 
  
-  
-
 ## Page 52
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  52 
@@ -2248,12 +1988,8 @@ Person publication
  YLR Murthy, Brand management Indian prospective, Vikas Publications 
       Back 
  
-  
-
 ## Page 53
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  53 
@@ -2298,13 +2034,8 @@ targeted and Measurable online campaigns, Wiley, 2016.
 day, Wiley, 3rd edition. 
     Back 
  
- 
-  
-
 ## Page 54
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  54 
@@ -2355,8 +2086,6 @@ Portfolio Investment & Risk. Asset Management Companies. Practical exercises.
 
 ## Page 55
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  55 
@@ -2409,11 +2138,8 @@ Reference books:
  Ashwath Damodaran, Corporate Finance: Theory& Practice, 2/e, Wiley India Pvt. Ltd., 2009. 
            Back 
   
-
 ## Page 56
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  56 
@@ -2472,8 +2198,6 @@ Reverse mortgage (Problems related to outright purchase, HP and Leasing)
 
 ## Page 57
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  57 
@@ -2498,14 +2222,8 @@ References:
  Indian Financial System – Machiraju, 4/e, Vikas, 2010. 
          Back 
  
- 
- 
-  
-
 ## Page 58
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  58 
@@ -2562,8 +2280,6 @@ Pearson Education
 
 ## Page 59
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  59 
@@ -2612,12 +2328,8 @@ Control, PHI
  Mergers and Acquisitions, ICFAI Publisher. 
       Back 
  
-  
-
 ## Page 60
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  60 
@@ -2671,8 +2383,6 @@ Module downloaded material.
 
 ## Page 61
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  61 
@@ -2713,12 +2423,8 @@ References:
  Value investing and behavioral finance, Parag Parikh, McGraw Hill Education India 
       Back 
  
- 
-
 ## Page 62
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  62 
@@ -2758,8 +2464,6 @@ References:
 
 ## Page 63
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  63 
@@ -2808,13 +2512,8 @@ Ltd, New Delhi.
 Performance Improvement Programs, 2nd Edition. 
       Back 
  
- 
- 
-
 ## Page 64
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  64 
@@ -2858,8 +2557,6 @@ References:
 
 ## Page 65
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  65 
@@ -2905,13 +2602,8 @@ Applications, and Future Directions, SAGE Publications
 (India) Private Ltd. 
       Back 
  
- 
-  
-
 ## Page 66
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  66 
@@ -2956,12 +2648,8 @@ Wiley India Pvt. Ltd
 2019, SAGE Publications India Pvt. Ltd. 
         Back 
  
-  
-
 ## Page 67
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  67 
@@ -3004,13 +2692,10 @@ HR audit.
                                                                                                                                                              
 08 hrs 
  
- 
 Back 
 
 ## Page 68
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  68 
@@ -3064,8 +2749,6 @@ planning.
 
 ## Page 69
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  69 
@@ -3115,8 +2798,6 @@ Click view and Fusion Charts.
 
 ## Page 70
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  70 
@@ -3130,12 +2811,8 @@ A. Huselid, Mark A Huselid, David Ulrich, 2001.
  HR Analytics: The What, Why and How, by Tracey Smith 
     Back 
  
-  
-
 ## Page 71
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  71 
@@ -3187,12 +2864,8 @@ Edition). New York Psychology Press, Inc, 2006
  
         Back 
  
- 
-
 ## Page 72
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  72 
@@ -3244,12 +2917,8 @@ Oriented Toolkit Sage 2011
  
          Back 
  
-  
-
 ## Page 73
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  73 
@@ -3296,11 +2965,8 @@ Pearson/PHI, 4th Edition, 2011
 Chain Management, Cengage Learning India Pvt Ltd 
           Back 
  
-
 ## Page 74
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  74 
@@ -3342,12 +3008,8 @@ Pearson.
 Satisfaction, Business One Irwin/ APICS 
          Back 
  
-  
-
 ## Page 75
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  75 
@@ -3386,11 +3048,8 @@ Introduction to Project Management Software.
  The Managerial Process, Project Management- by Clifford Gray and Erik Larson TMH, 3rd 
 Edition                                                                                                                           Back 
   
-
 ## Page 76
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  76 
@@ -3434,12 +3093,8 @@ References
  Narasimhan Sitaraman and McLeavey Dennis, Production Planning and Inventory Control 
          Back 
  
-  
-
 ## Page 77
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  77 
@@ -3482,12 +3137,8 @@ ConceptsLaxmi Publications (2015)
  Chopra and Mendal, Supply Chain Management 
         Back 
  
-  
-
 ## Page 78
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  78 
@@ -3521,10 +3172,6 @@ programming, multi-criteria decision -making models such as goal programming and
 analytic hierarchy process), analytics using orange, SPSS and MS Excel. 
 10 hrs 
  
- 
- 
- 
- 
 Back 
 Module 4:          
 Introduction to Association Rule,  Data Mining and Preprocessing  
@@ -3546,11 +3193,8 @@ References:
 Bhimasankaram Pochiraju, Sridhar Seshadri, Springer. 
  Introduction to Data Science, Laura Igual Santi Seguí, Springer.  
  
-
 ## Page 79
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  79 
@@ -3601,12 +3245,8 @@ References:
  R for Dummies" by Joris Meys and Andrie de Vries. , 2nd edition, Wiley publication. 
            Back 
  
- 
-
 ## Page 80
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  80 
@@ -3649,11 +3289,8 @@ References:
  Python for Data Analysis" by Wes McKinney  
            Back 
  
-
 ## Page 81
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  81 
@@ -3705,14 +3342,8 @@ visualization principles.
 of meaningful data visualization. 
            Back 
  
- 
- 
- 
-
 ## Page 82
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  82 
@@ -3764,11 +3395,8 @@ Wiley, Latest Edition
 Publications ,2019 
            Back 
  
-
 ## Page 83
 
- 
- 
 School of Management Studies and Research 
 Format No: FMCD2009 /1.0  
  83 

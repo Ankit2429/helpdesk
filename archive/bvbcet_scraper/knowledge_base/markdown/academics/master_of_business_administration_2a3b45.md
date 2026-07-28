@@ -2,32 +2,17 @@
 
 **Source URL:** https://www.kletech.ac.in/hubballi/course/master-of-business-administration
 
-
-# Master of Business Administration
-
-- Home
-- Programs
-
-- Course Overview
-- Course Curriculum
-- Educational Objectives
-- Eligibility Criteria
-
-
 ## The main focus of the MBA program is student-centric experiential learning.
 
 The program inculcates hard work, discipline, and punctuality with values, ethics, and culture to lead business firms. The program's focus is on training students in the art and science of managing a business.
-
 
 #### Experiential Learning
 
 SMSR Experiential Learning focuses on engaging students in hands-on experiences and practical situations. So that they are in a better position to connect theories and knowledge learned in the classroom to real-world situations.
 
-
 #### Student, Institution and Industry track (SIIT)
 
 The MBA program is knitted with Student, Institution, and Industry Track (SIIT) to blend continuous classroom learning and field experience for a better knowledge, skills, and attitude. Further, students who are interested in Entrepreneurship Track (ET) and Research Experience (RE) will have a chance to pursue them and impact society.
-
 
 #### AI and Data Analytics at SMSR
 
@@ -122,10 +107,6 @@ Sem - 4
 
 06Social Entrepreneurship – Phase – II
 
-
-#### Project Work, Entrepreneurship Track, Research Track
-
-
 #### Details of Electives offered in I, II, III, and IV semesters
 
 Electives* I, II, III, IV *Student can choose any eight electives out of the listed below
@@ -152,7 +133,6 @@ Marketing - 20MBAE8XX
 
 Finance - 20MBAE8XY
 
-
 - Learning and Development – 20MBAE821
 - Legal Aspects of Employment – 20MBAE822
 - Operations – 20MBAE823HR
@@ -165,7 +145,6 @@ Finance - 20MBAE8XY
 
 Human Resource - 20MBAE8XZ
 
-
 - Total Quality Management  – 22MBAE832
 - Services Operations Management  – 20MBAE832
 - Project Management  – 20MBAE833
@@ -174,7 +153,6 @@ Human Resource - 20MBAE8XZ
 
 Operations - 20MBAE8XA
 
-
 - Data Science for Business – 24MBAE841
 - Introduction to Python – 24MBAE843
 - DBMS for Managers – 24MBAE845
@@ -182,49 +160,60 @@ Operations - 20MBAE8XA
 
 Business Analytics - 20MBAE8XB
 
-
 #### Vision of the Department
 
-KLE Tech Department of Management will be a premier institute in management education by fostering an innovative
-culture, delivering a transformative student experience, driving impactful research, and contributing meaningfully to
-business and society.
+KLE Tech Department of Management will be a premier institute in management education by fostering an innovative
 
+culture, delivering a transformative student experience, driving impactful research, and contributing meaningfully to
+
+business and society.
 
 #### Mission of the Department
 
-The Department of Management at KLE Technological University is committed to delivering education that upholds the
-highest standards of excellence while fostering the application of new knowledge through research and innovative
+The Department of Management at KLE Technological University is committed to delivering education that upholds the
+
+highest standards of excellence while fostering the application of new knowledge through research and innovative
+
 practices.
 
 The three-fold mission of the department is:
 
-- To offer a program in an engaging and experiential learning environment, preparing students for success in their
+- To offer a program in an engaging and experiential learning environment, preparing students for success in their
+
     lives and professional careers.
-- To strengthen management knowledge through research that addresses real-world management challenges and shapes
+- To strengthen management knowledge through research that addresses real-world management challenges and shapes
+
     professionals
 - To engage with industry and community stakeholders by contributing to the region's socioeconomic development.
 
-The Department of Management at KLE Technological University is strongly committed to fulfilling its
+The Department of Management at KLE Technological University is strongly committed to fulfilling its
+
 mission by nurturing a teamwork and collaborative culture.
 
 The MBA program develops graduates with strong managerial acumen, strategic thinking, and ethical leadership skills to excel in diverse business environments. Our graduates are expected to:
 
 PEO Statements – The Department of Management has defined program educational objectives for its teaching-learning practices, targeting their realisation in 3–5 years after graduation. These statements are measurable long-term indicators of our OBE framework, evidenced by alumni achievements as indicated below:
 
-Managerial Competence
+Managerial Competence
+
 Graduating students will use their management and problem-solving skills to develop effective business solutions and grow professionally and personally.
 
-Leadership Role
+Leadership Role
+
 Graduating students will take on leadership roles, work well in teams, and act with professionalism, ethics, and respect for cultural differences.
 
-Societal Development
+Societal Development
+
 Graduating students will apply ethical management practices to meet stakeholder needs and contribute positively to society.
 
-Professional Development
+Professional Development
+
 Graduating students will engage in continuous learning, participate in applied research, and enhance their skills to remain competitive and explore evolving career opportunities.
 
-An ability to apply knowledge of management (Apply knowledge of management theories and practices to
-solve
+An ability to apply knowledge of management (Apply knowledge of management theories and practices to
+
+solve
+
 business problems).
 
 Foster analytical and critical thinking abilities for data-based decision making.
@@ -233,7 +222,8 @@ Ability to develop value-based leadership ability.
 
 Ability to understand, analyse and communicate global, economic, legal, and ethical aspects of business.
 
-Ability to lead themselves and others in the achievement of organizational goals, contributing effectively to a
+Ability to lead themselves and others in the achievement of organizational goals, contributing effectively to a
+
 team environment.
 
 What You'll Achieve Through This Program
@@ -241,31 +231,33 @@ What You'll Achieve Through This Program
 Ability to analyse, synthesize and solve organizational and societal issues.
 
 - Eligibility Criteria
-
+
     Any bachelor’s degree (10+2+3) with an aggregate of minimum of 50% in graduation.
-
-    Successful clearance of PGCET entrance exam conducted by Karnataka Examination Authority, Bengaluru. PGCET is
+
+    Successful clearance of PGCET entrance exam conducted by Karnataka Examination Authority, Bengaluru. PGCET is
+
     mandatory for candidates seeking admission under government quota.
-
-    Successful clearance of any one of the following entrance exam like CMAT, CAT, KMAT or PGCET for candidates
+
+    Successful clearance of any one of the following entrance exam like CMAT, CAT, KMAT or PGCET for candidates
+
     seeking admission under management quota.
-
+
     Student intake for MBA program - 60
 Enquire Now
-
 
 #### Eligibility Criteria
 
 Any bachelor’s degree (10+2+3) with an aggregate of minimum of 50% in graduation.
 
-Successful clearance of PGCET entrance exam conducted by Karnataka Examination Authority, Bengaluru. PGCET is
+Successful clearance of PGCET entrance exam conducted by Karnataka Examination Authority, Bengaluru. PGCET is
+
     mandatory for candidates seeking admission under government quota.
 
-Successful clearance of any one of the following entrance exam like CMAT, CAT, KMAT or PGCET for candidates
+Successful clearance of any one of the following entrance exam like CMAT, CAT, KMAT or PGCET for candidates
+
     seeking admission under management quota.
 
 Student intake for MBA program - 60
-
 
 ### Testimonials
 
@@ -291,9 +283,12 @@ Regional Manager -Asia pacific &Japan at Advanced Micro Devices Inc.
 
 Dear Sir,
 
-” Am one of the many proud ex-students of KLE Dr. M.S. Sheshgiri College of Engineering and Tech( was known to us as KLE inst of Tech), and will not shy to say that I am here today because of the education & skilling this institute has induced in me. Am from the 1993 passed out batch of E&C , when Sir Babladi was our Principal, Sir Punagin as HOD of E&C and Sir S.B.Kulkarni(famously known as SBK Sir) as our professor then.
-	Was fortunate to be part of such an esteemed faculty and we have gained and enriched our selves with great knowledge and skills. I was also fortunate to visit the Institute in Jan-2015 and was overwhelmed to see a new and dedicated E&C building , with state of the art labs , of which I was priviledged to inaugurate one of them.
-	Nevertheless to say….Proud to have been part of this Institution and even proud to have been part of E&C .
+” Am one of the many proud ex-students of KLE Dr. M.S. Sheshgiri College of Engineering and Tech( was known to us as KLE inst of Tech), and will not shy to say that I am here today because of the education & skilling this institute has induced in me. Am from the 1993 passed out batch of E&C , when Sir Babladi was our Principal, Sir Punagin as HOD of E&C and Sir S.B.Kulkarni(famously known as SBK Sir) as our professor then.
+
+	Was fortunate to be part of such an esteemed faculty and we have gained and enriched our selves with great knowledge and skills. I was also fortunate to visit the Institute in Jan-2015 and was overwhelmed to see a new and dedicated E&C building , with state of the art labs , of which I was priviledged to inaugurate one of them.
+
+	Nevertheless to say….Proud to have been part of this Institution and even proud to have been part of E&C .
+
 	Cheers E&C….
 
 - Mr. Saivijay khangav
@@ -452,642 +447,3 @@ Currently, Abhishek Bekwadkar is a vital member of the Rakuten team, a leading g
 
 - Abhishek Bekwadkar
 - Notable Alumni
-
-- Connect
-- Programs
-- Admissions
-- Menu
-
-Connect
-
-Programs
-
-Admissions
-
-Menu
-
-
-- Admission Process
-- FAQ
-- Scholarships
-
-
-#### Admission Help
-
-+91-836-2378103
-
-- B V. Bhoomaraddi Campus
-
-                                    Hubballi
-                                    Campus
-
-
-
-                                            Undergraduate
-                                        
-
-
-
-Undergraduate
-
-
-
-                                                                B E Civil Engineering
-
-                                                                B E Mechanical Engineering
-
-                                                                B E Electronics & Communication Engineering
-
-                                                                B E Computer Science and Engineering
-
-                                                                B E Computer Science and Engineering (Artificial Intelligence)
-
-                                                                B E Electrical & Electronics Engineering
-
-                                                                B E Automation & Robotics
-
-                                                                B E Biotechnology
-
-                                                                B E Electronics Engineering (VLSI Design & Technology)
-
-                                                                Bachelor of Architecture
-
-                                                                Bachelors of Business Administration
-
-                                                                Bachelor of Computer Applications (BCA)
-
-                                                                Bachelor of Commerce
-
-                                                                Bachelor of Commerce Integrated with ACCA
-
-                                                                Bachelor of Science (Fashion and Apparel Design)
-
-                                                                B.B.A. LL.B. (Hons.)
-
-                                                                LL.B. (Hons.)
-
-                                                                B.Sc. in Hotel Management and Catering Technology (B.Sc. HMCT)
-
-
-
-
-                                            Postgraduate
-                                        
-
-
-
-Postgraduate
-
-
-
-                                                                M.Tech Structural Engineering
-
-                                                                M.Tech Design Engineering
-
-                                                                M.Tech Advanced Manufacturing Systems
-
-                                                                M.Tech VLSI Design And Embedded Systems
-
-                                                                M.Tech Computer Science and  Engineering
-
-                                                                LLM - Constitutional Law
-
-                                                                LLM - IPR
-
-                                                                Master of Business Administration
-
-                                                                Master of Computer Application
-
-
-
-
-                                            Research
-                                        
-
-
-
-Research
-
-
-
-                                                                Ph.D. in Mechanical Engineering
-
-                                                                Ph.D. in Electronics & Communication Engineering
-
-                                                                Ph.D. in Computer Science & Engineering
-
-                                                                Ph.D. in Electrical & Electronics Engineering
-
-                                                                Ph.D. in Biotechnology
-
-                                                                Ph.D. in Civil Engineering
-
-                                                                Ph. D. in Architecture
-
-                                                                Ph. D. in Management Studies & Research
-
-                                                                Ph. D. in Chemistry
-
-                                                                Ph. D. in Mathematics
-
-                                                                Ph. D. in Physics
-
-                                                                Ph.D. In Humanities and Social Studies
-
-                                                                Ph. D. in Automation & Robotics
-
-                                                                MS Civil Engineering
-
-                                                                MS (Engg.) by Research in Visual Intelligence (CSE)
-
-                                                                MS (Engg.) by Research (ECE)
-
-                                                                MS Mechanical  Engineering
-
-                                                                MS Management Studies & Research
-
-                                                                MS Biotechnology
-
-                                                                MS Electrical & Electronics Engineering
-
-                                                                MS Automation and Robotics Engineering
-
-                                                                Centre for Engineering Education Research
-- Dr. M. S. Sheshgiri Campus
-
-                                    Belagavi
-                                    Campus
-
-
-
-                                            Undergraduate
-                                        
-
-
-
-Undergraduate
-
-
-
-                                                                B E Civil Engineering
-
-                                                                B E Mechanical Engineering
-
-                                                                B E Electronics & Communication Engineering
-
-                                                                B E Computer Science and Engineering
-
-                                                                B E Computer Science and Engineering (Artificial Intelligence)
-
-                                                                B E Electrical & Electronics Engineering
-
-                                                                B E Biomedical Engineering
-
-                                                                B E Chemical Engineering
-
-                                                                Bachelors of Business Administration
-
-                                                                Bachelor of Computer Applications (BCA)
-
-                                                                Bachelor of Commerce
-
-                                                                Bachelor of Commerce Integrated with ACCA
-
-                                                                Bachelor of Computer Applications (Honours)
-
-
-
-
-                                            Postgraduate
-                                        
-
-
-
-Postgraduate
-
-
-
-                                                                M.Tech Structural Engineering
-
-                                                                Master of Business Administration
-
-                                                                Master of Computer Application
-
-
-
-
-                                            Research
-                                        
-
-
-
-Research
-
-
-
-                                                                Ph.D. in Mechanical Engineering
-
-                                                                Ph.D. in Electronics & Communication Engineering
-
-                                                                Ph.D. in Computer Science & Engineering
-
-                                                                Ph.D. in Electrical & Electronics Engineering
-
-                                                                Ph.D. in Civil Engineering
-
-                                                                Ph. D. in Management Studies & Research
-- KLE Law Campus
-
-                                    Bengaluru
-                                    Campus
-
-
-
-                                            Undergraduate
-                                        
-
-
-
-Undergraduate
-
-
-
-                                                                B.A. LL.B
-
-                                                                B.B.A. LL.B
-
-                                                                B.Com. LL.B
-
-                                                                LL.B
-
-
-
-
-                                            Postgraduate
-                                        
-
-
-
-Postgraduate
-
-
-
-                                                                LLM - Constitutional Law
-
-                                                                LLM - IPR
-
-
-
-
-                                            Ph.D.
-                                        
-
-
-
-Ph.D.
-
-
-
-                                                                Ph.D. in Law
-
-- Undergraduate
-                                        
-
-
-
-Undergraduate
-
-
-
-                                                                B E Civil Engineering
-
-                                                                B E Mechanical Engineering
-
-                                                                B E Electronics & Communication Engineering
-
-                                                                B E Computer Science and Engineering
-
-                                                                B E Computer Science and Engineering (Artificial Intelligence)
-
-                                                                B E Electrical & Electronics Engineering
-
-                                                                B E Automation & Robotics
-
-                                                                B E Biotechnology
-
-                                                                B E Electronics Engineering (VLSI Design & Technology)
-
-                                                                Bachelor of Architecture
-
-                                                                Bachelors of Business Administration
-
-                                                                Bachelor of Computer Applications (BCA)
-
-                                                                Bachelor of Commerce
-
-                                                                Bachelor of Commerce Integrated with ACCA
-
-                                                                Bachelor of Science (Fashion and Apparel Design)
-
-                                                                B.B.A. LL.B. (Hons.)
-
-                                                                LL.B. (Hons.)
-
-                                                                B.Sc. in Hotel Management and Catering Technology (B.Sc. HMCT)
-- Postgraduate
-                                        
-
-
-
-Postgraduate
-
-
-
-                                                                M.Tech Structural Engineering
-
-                                                                M.Tech Design Engineering
-
-                                                                M.Tech Advanced Manufacturing Systems
-
-                                                                M.Tech VLSI Design And Embedded Systems
-
-                                                                M.Tech Computer Science and  Engineering
-
-                                                                LLM - Constitutional Law
-
-                                                                LLM - IPR
-
-                                                                Master of Business Administration
-
-                                                                Master of Computer Application
-- Research
-                                        
-
-
-
-Research
-
-
-
-                                                                Ph.D. in Mechanical Engineering
-
-                                                                Ph.D. in Electronics & Communication Engineering
-
-                                                                Ph.D. in Computer Science & Engineering
-
-                                                                Ph.D. in Electrical & Electronics Engineering
-
-                                                                Ph.D. in Biotechnology
-
-                                                                Ph.D. in Civil Engineering
-
-                                                                Ph. D. in Architecture
-
-                                                                Ph. D. in Management Studies & Research
-
-                                                                Ph. D. in Chemistry
-
-                                                                Ph. D. in Mathematics
-
-                                                                Ph. D. in Physics
-
-                                                                Ph.D. In Humanities and Social Studies
-
-                                                                Ph. D. in Automation & Robotics
-
-                                                                MS Civil Engineering
-
-                                                                MS (Engg.) by Research in Visual Intelligence (CSE)
-
-                                                                MS (Engg.) by Research (ECE)
-
-                                                                MS Mechanical  Engineering
-
-                                                                MS Management Studies & Research
-
-                                                                MS Biotechnology
-
-                                                                MS Electrical & Electronics Engineering
-
-                                                                MS Automation and Robotics Engineering
-
-                                                                Centre for Engineering Education Research
-
-- Undergraduate
-
-- B E Civil Engineering
-- B E Mechanical Engineering
-- B E Electronics & Communication Engineering
-- B E Computer Science and Engineering
-- B E Computer Science and Engineering (Artificial Intelligence)
-- B E Electrical & Electronics Engineering
-- B E Automation & Robotics
-- B E Biotechnology
-- B E Electronics Engineering (VLSI Design & Technology)
-- Bachelor of Architecture
-- Bachelors of Business Administration
-- Bachelor of Computer Applications (BCA)
-- Bachelor of Commerce
-- Bachelor of Commerce Integrated with ACCA
-- Bachelor of Science (Fashion and Apparel Design)
-- B.B.A. LL.B. (Hons.)
-- LL.B. (Hons.)
-- B.Sc. in Hotel Management and Catering Technology (B.Sc. HMCT)
-
-- Postgraduate
-
-- M.Tech Structural Engineering
-- M.Tech Design Engineering
-- M.Tech Advanced Manufacturing Systems
-- M.Tech VLSI Design And Embedded Systems
-- M.Tech Computer Science and  Engineering
-- LLM - Constitutional Law
-- LLM - IPR
-- Master of Business Administration
-- Master of Computer Application
-
-- Research
-
-- Ph.D. in Mechanical Engineering
-- Ph.D. in Electronics & Communication Engineering
-- Ph.D. in Computer Science & Engineering
-- Ph.D. in Electrical & Electronics Engineering
-- Ph.D. in Biotechnology
-- Ph.D. in Civil Engineering
-- Ph. D. in Architecture
-- Ph. D. in Management Studies & Research
-- Ph. D. in Chemistry
-- Ph. D. in Mathematics
-- Ph. D. in Physics
-- Ph.D. In Humanities and Social Studies
-- Ph. D. in Automation & Robotics
-- MS Civil Engineering
-- MS (Engg.) by Research in Visual Intelligence (CSE)
-- MS (Engg.) by Research (ECE)
-- MS Mechanical  Engineering
-- MS Management Studies & Research
-- MS Biotechnology
-- MS Electrical & Electronics Engineering
-- MS Automation and Robotics Engineering
-- Centre for Engineering Education Research
-
-- Undergraduate
-                                        
-
-
-
-Undergraduate
-
-
-
-                                                                B E Civil Engineering
-
-                                                                B E Mechanical Engineering
-
-                                                                B E Electronics & Communication Engineering
-
-                                                                B E Computer Science and Engineering
-
-                                                                B E Computer Science and Engineering (Artificial Intelligence)
-
-                                                                B E Electrical & Electronics Engineering
-
-                                                                B E Biomedical Engineering
-
-                                                                B E Chemical Engineering
-
-                                                                Bachelors of Business Administration
-
-                                                                Bachelor of Computer Applications (BCA)
-
-                                                                Bachelor of Commerce
-
-                                                                Bachelor of Commerce Integrated with ACCA
-
-                                                                Bachelor of Computer Applications (Honours)
-- Postgraduate
-                                        
-
-
-
-Postgraduate
-
-
-
-                                                                M.Tech Structural Engineering
-
-                                                                Master of Business Administration
-
-                                                                Master of Computer Application
-- Research
-                                        
-
-
-
-Research
-
-
-
-                                                                Ph.D. in Mechanical Engineering
-
-                                                                Ph.D. in Electronics & Communication Engineering
-
-                                                                Ph.D. in Computer Science & Engineering
-
-                                                                Ph.D. in Electrical & Electronics Engineering
-
-                                                                Ph.D. in Civil Engineering
-
-                                                                Ph. D. in Management Studies & Research
-
-- Undergraduate
-
-- B E Civil Engineering
-- B E Mechanical Engineering
-- B E Electronics & Communication Engineering
-- B E Computer Science and Engineering
-- B E Computer Science and Engineering (Artificial Intelligence)
-- B E Electrical & Electronics Engineering
-- B E Biomedical Engineering
-- B E Chemical Engineering
-- Bachelors of Business Administration
-- Bachelor of Computer Applications (BCA)
-- Bachelor of Commerce
-- Bachelor of Commerce Integrated with ACCA
-- Bachelor of Computer Applications (Honours)
-
-- Postgraduate
-
-- M.Tech Structural Engineering
-- Master of Business Administration
-- Master of Computer Application
-
-- Research
-
-- Ph.D. in Mechanical Engineering
-- Ph.D. in Electronics & Communication Engineering
-- Ph.D. in Computer Science & Engineering
-- Ph.D. in Electrical & Electronics Engineering
-- Ph.D. in Civil Engineering
-- Ph. D. in Management Studies & Research
-
-- Undergraduate
-                                        
-
-
-
-Undergraduate
-
-
-
-                                                                B.A. LL.B
-
-                                                                B.B.A. LL.B
-
-                                                                B.Com. LL.B
-
-                                                                LL.B
-- Postgraduate
-                                        
-
-
-
-Postgraduate
-
-
-
-                                                                LLM - Constitutional Law
-
-                                                                LLM - IPR
-- Ph.D.
-                                        
-
-
-
-Ph.D.
-
-
-
-                                                                Ph.D. in Law
-
-- Undergraduate
-
-- B.A. LL.B
-- B.B.A. LL.B
-- B.Com. LL.B
-- LL.B
-
-- Postgraduate
-
-- LLM - Constitutional Law
-- LLM - IPR
-
-- Ph.D.
-
-- Ph.D. in Law
-
-- +91-836-2378103
-- +91-836-2378105
-- +91-836-2378106
-
-info@kletech.ac.in

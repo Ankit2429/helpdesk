@@ -1,4 +1,5 @@
 # PDF Document: 236krf-Resuming-Offline-Classes
+
 **PDF Source:** https://www.kletech.ac.in/uploads/Files/236krf-Resuming-Offline-Classes.pdf
 
 ## Page 1

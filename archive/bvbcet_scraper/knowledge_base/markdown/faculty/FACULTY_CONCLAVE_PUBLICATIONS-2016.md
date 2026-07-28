@@ -1,12 +1,9 @@
 # PDF Document: FACULTY_CONCLAVE_PUBLICATIONS-2016
+
 **PDF Source:** https://www.kletech.ac.in/pdf/FACULTY CONCLAVE PUBLICATIONS-2016.pdf
 
 ## Page 1
 
- 
-  
- 
- 
 Earlier known as 
 B. V. B. College of Engineering & Technology 
 Faculty Conclave 2016 
@@ -65,10 +62,6 @@ Aruna S. Nayak, Umadevi F. M., Preeti T.
 
 ## Page 2
 
- 
-  
- 
- 
 Earlier known as 
 B. V. B. College of Engineering & Technology 
 22 Enhancing Research Proficiency In Postgraduate 
@@ -117,13 +110,8 @@ Fabrication In Freshman
 Sanjeev M. Kavale, Adarsh Patil, Mantesh 
 Choukimath, Basanagouda Shivalli 
  
-
 ## Page 3
 
- 
-  
- 
- 
 Earlier known as 
 B. V. B. College of Engineering & Technology 
 34 Framework For Measuring The Attainment Of 
@@ -176,10 +164,6 @@ Gopalkrishna Joshi , Preethi Baligar
 
 ## Page 4
 
- 
-  
- 
- 
 Earlier known as 
 B. V. B. College of Engineering & Technology 
 47 Enhancing Research Skills In CAE Lab: 
@@ -192,5 +176,3 @@ G. Kodancha
 Experience 
 Team CEER 
  
- 
-  

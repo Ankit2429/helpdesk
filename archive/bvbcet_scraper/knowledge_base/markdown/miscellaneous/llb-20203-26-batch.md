@@ -1,25 +1,10 @@
 # PDF Document: llb-20203-26-batch
+
 **PDF Source:** https://www.kletech.ac.in/pdf/llb-20203-26-batch.pdf
 
 ## Page 1
 
 FMCD2009 / 2.0 1 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Curriculum Structure and Content for the Academic Batch 2023-26 
 School of Law 
@@ -28,9 +13,6 @@ Program: Bachelor of Laws
 ## Page 2
 
 FMCD2009 / 2.0 2 
- 
- 
- 
  
 Table of Contents 
 Vision and Mission of KLE Technological University ............................................................. 3 
@@ -51,7 +33,6 @@ List of Program Electives ......................................................
 ## Page 3
 
 FMCD2009 / 2.0 3 
- 
  
 Vision and Mission of KLE Technological University 
  
@@ -85,14 +66,11 @@ collaboration and partnership to accomplish our mission.
 
 FMCD2009 / 2.0 4 
  
- 
- 
 Vision and Mission Statements of KLE LAW COLLEGE BENGALURU 
  
 Vision 
 To inspire, sculpt, and empower the students through holistic education to attain the objective of ‘Learn 
 with Purpose and Live with Purpose. 
- 
  
 Mission 
  
@@ -110,11 +88,9 @@ morally exalted individuals with the values of love, truth, service, and sacrifi
  To promote research culture and nurture innovative ideas among the faculty and 
 students 
   
-
 ## Page 5
 
 FMCD2009 / 2.0 5 
- 
  
 Program Educational Objectives/Program Outcomes and Program-Specific Objectives 
  
@@ -155,9 +131,6 @@ accountability in all professional and academic engagements.
 
 FMCD2009 / 2.0 6 
  
- 
- 
- 
 PO9. Individual and Teamwork: Graduates will function effectively as individuals and 
 collaborate as team members in multidisciplinary and multicultural settings. 
 PO10. Communication: Graduates will communicate legal ideas, construct arguments, and 
@@ -175,7 +148,6 @@ rule of law in professional conduct and legal decision-making.
 ## Page 7
 
 FMCD2009 / 2.0 7 
- 
  
 Curriculum Structure-Overall 
  
@@ -251,7 +223,6 @@ Court Exercise and Trial
 Preparation 
 (21LLLP302) 
  
- 
 Introduction to 
 GenAI 
 Language II: 
@@ -267,7 +238,6 @@ Credits 21 21 24 21 24 24
 ## Page 8
 
 FMCD2009 / 2.0 8 
- 
  
 Curriculum Structure-Semester-wise  
  
@@ -306,7 +276,6 @@ TOTAL      18-7-
 
 FMCD2009 / 2.0 9 
  
- 
 Semester – II  
  
 No Code Course Categor
@@ -344,8 +313,6 @@ TOTAL  19-7-1-0 21 415
 Semester- III ← 
 FMCD2009 / 2.0 10 
  
- 
- 
 No Code Course Category L-T-P-SS Credits Contact 
 Hours 
 ISA ESA Total Exam 
@@ -367,8 +334,6 @@ TOTAL  15-5-0-4 24 290
 
 Semester- IV ← 
 FMCD2009 / 2.0 11 
- 
- 
  
 No Code Course Category L-T-P-SS Credits Contact Hou ISA ESA Total Exam 
 Duration 
@@ -402,8 +367,6 @@ TOTAL  20-7-2-0 21 355
 
 Semester- V ← 
 FMCD2009 / 2.0 12 
- 
- 
  
 No Code Course Category L-T-
 P-SS 
@@ -443,8 +406,6 @@ TOTAL  19-6-2-4 24 420
 Semester- VI ← 
 FMCD2009 / 2.0 13 
  
- 
- 
 No Code Course Category L-T-P-
 SS 
 Credits Contact 
@@ -480,7 +441,6 @@ TOTAL  18-6-
 ## Page 14
 
 FMCD2009 / 2.0 14 
- 
  
 Curriculum Content- Course-wise 
  
@@ -520,11 +480,9 @@ Doctrine of Proportionality – 7 Hours
  Rights of the accused - Protection against arbitrary arrest and detention, Expost facto law, 
 Double jeopardy and self-incrimination – 2 Hours 
  
-
 ## Page 15
 
 FMCD2009 / 2.0 15 
- 
  
 Unit -V Religious Freedom, Minority Rights, Directive Principles of State Policy and 
 Fundamental Duties – 13 Hours 
@@ -541,7 +499,6 @@ Edition, 2018).
 2. Justice J. Chelameshwar and Justice D.S. Naidu (eds), M.P.  Jain, Indian Constitutional 
 Law, New Delhi: LexisNexis, (8th Edition, 2018). 
  
- 
 Reference Books: 
 1. Granville Austin, The Indian Constitution: Cornerstone of a Nation, Delhi: Oxford 
 University Press, 2018. 
@@ -551,12 +508,9 @@ University Press, 2018.
 4. S. Shiva Rao, Framing of Indian Constitution, New Delhi: Universal Law Publishing, 
 (2005). 
  
-
 ## Page 16
 
 FMCD2009 / 2.0 16 
- 
- 
  
 Program: UG Semester – I 
 Course Title: Contract Law – I: General Principles of 
@@ -578,14 +532,12 @@ UNIT-I:  Formation of Contract - 13 Hours
  Essential elements: Consideration: NudumPactum, privity of contract and of 
 consideration, exceptions to privity of contract and consideration -3 Hours 
  
-  
 UNIT – II: Concept of Capacity to Contract and Free Consent - 13 Hours 
  Capacity to Contract: Minor’s agreements and its effects – 4 Hours 
  Agreement of Persons of unsound mind and persons disqualified by Law – 4 Hours 
  Consent: Free consent, coercion, undue influence, misrepresentation, fraud, mistake, 
 effects. – 5 Hours 
  
-  
 UNIT – III- Legality of Object and Kinds of Contract – 13 Hours 
  Legality of Object – 2 Hours 
  Void Agreements: restraint of marriage, restraint of trade, restraint of legal 
@@ -594,12 +546,9 @@ proceedings, ambiguous and uncertain agreement, wager agreement - 5 Hours
  Quasi Contracts - 2 Hours 
  E-contract: Contractual ability, electronic documents, digital signature -2 Hours 
  
-  
-
 ## Page 17
 
 FMCD2009 / 2.0 17 
- 
  
 Unit – IV: Modes of Discharge of Contracts and Remedies for the Breach of Contract 
 - 13 Hours 
@@ -647,16 +596,12 @@ Delhi: Oxford University Press, (6th Edition, 2007).
 
 FMCD2009 / 2.0 18 
  
- 
 Hyderabed: Asia Law house, (4th Edition, 1983). 
 10. R.K. Singh, Law Relating to Electronic Contracts, Gurgoan: LexisNexis, (2014). 
  
-
 ## Page 19
 
 FMCD2009 / 2.0 19 
- 
- 
  
 Program: UG Semester: I 
 Course Title: Law of Torts Course Code: 21LLLC103 
@@ -684,9 +629,6 @@ Teaching Hrs: 65 Exam Duration: 3 hrs Semester: I
  Contributory Negligence, Composite Negligence 
  Strict and Absolute Liability 
  
- 
- 
- 
 13 Hours 
 4 
 Unit – IV: Torts against Person and Property 
@@ -696,7 +638,6 @@ Unit – IV: Torts against Person and Property
  Torts Against Property -Trespass to Goods, Trespass t o Land, Safety of 
 Premises 
  Liability for Chattels and Liability for Animals 
- 
  
 13 Hours 
 5 Unit- V: Vicarious Liability and Remedies 
@@ -712,8 +653,6 @@ in Sexual Offences
 ## Page 20
 
 FMCD2009 / 2.0 20 
- 
- 
  
 Text Books: 
 1. Ratanlal and Dhirajlal, The Law of Torts, New Delhi: LexisNexis, (29th Edition, 2022). 
@@ -734,11 +673,9 @@ Butterworh, (1976).
 8. Glanville Williams and B.A. Hepple: Foundations of the Law of Torts, London: Oxford 
 University Press, (6th Edition, 2008). 
  
-
 ## Page 21
 
 FMCD2009 / 2.0 21 
- 
  
 Program: UG Semester: I 
 Course Title: Family Law – I: Hindu Law Course Code: 21LLLC104 
@@ -766,9 +703,6 @@ Duties and Powers of Guardians
  Foreign Adoption 
  Rights relating to maintenance 
  
- 
- 
- 
 13 Hours 
 4 Unit – IV: Hindu Joint Family System 
  Hindu Undivided Family - Formation and Incidents 
@@ -777,7 +711,6 @@ Duties and Powers of Guardians
  Debts 
  Partition and Reunion 
  Religious and Charitable Endowments 
- 
  
 13 Hours 
 5 Unit- V: Inheritance and Succession 
@@ -794,7 +727,6 @@ Text Books:
 ## Page 22
 
 FMCD2009 / 2.0 22 
- 
  
 1. Paras Diwan, Modern Hindu Law, Faridabad:  Allahabad Law Agency, (13 th Edition, 2023, 
 Reprint 2024). 
@@ -817,15 +749,9 @@ definition of ‘partition’ (July 2008).
 d. Right of the Hindu Wife to Maintenance: A Relook at Section 18 of the Hindu Adoptions 
 and Maintenance Act, 1956, (January 2015). 
  
- 
- 
- 
-  
-
 ## Page 23
 
 FMCD2009 / 2.0 23 
- 
  
 Program: UG Semester: I 
 Law of Crimes Course Code: 24LLLC101 
@@ -856,9 +782,6 @@ offences of causing miscarriage, offences against children
 restrain and wrongful confinement, criminal force and assault, kidnapping, 
 abduction 
  
- 
- 
- 
 13 Hours 
 4 Unit – IV: Offences against State, Public Tranquility, False Evidence and 
 Public Justice 
@@ -872,7 +795,6 @@ language etc., imputations, assertions prejudicial to national integration
 false evidence, using false evidence, disappearance and dest ruction of 
 evidence, giving false information and harbouring offender 
  
- 
 13 Hours 
 5 Unit - V: Offences against Property, Reputation and Attempt to  commit 
 offences 
@@ -882,7 +804,6 @@ offences
 
 FMCD2009 / 2.0 24 
  
- 
  Offences against Property: Theft, snatching, Extortion, Robbery, Dacoity; 
 Criminal Misappropriation of Property and Criminal Breach of Trust, 
 Receiving Stolen Property and Cheating, Mischief and Criminal Trespass  
@@ -890,7 +811,6 @@ Receiving Stolen Property and Cheating, Mischief and Criminal Trespass
 falsification of accounts 
  Criminal intimidation, insult, annoyance and defamation  
  Attempt to commit offences 
- 
  
 Text Books: 
 1. Gaur K.D., A Textbook on the Bharatiya  Nyaya Sanhita, 2023, New Delhi: Universal 
@@ -909,14 +829,9 @@ Press, (18th Edition, 2017).
 5. Report of the Committee on Amendments to Criminal Law, 2013 (Justice Verma 
 Committee) 
  
- 
- 
-  
-
 ## Page 25
 
 FMCD2009 / 2.0 25 
- 
  
 Program: UG Semester: I 
 General English Course Code: 21LLLN101 
@@ -953,7 +868,6 @@ Unit- II: Oral Communication
  Phrases 
  Idioms 
  
- 
 13 Hours 
 5 Unit - V: Prose:  
  M K Gandhi – The Law and the Lawyers 
@@ -966,11 +880,9 @@ Lawyers, Universal Law Publishing, Haryana, (1st Edition, 2016).
 2. S.B. Kher , The Law and The Lawyers  by M.K. Gandhi, Navajivan Publishing House, 
 Gujarat, (9th Reprint Edition, 2019). 
  
-
 ## Page 26
 
 FMCD2009 / 2.0 26 
- 
  
 Reference Books: 
 1. English Grammar and Composition – Wren and Martin 
@@ -980,17 +892,9 @@ Reference Books:
 Words - Bill Moore 
 5. Write Right! – A Desktop Digest of Punctuation, Grammar, and Style – JanVenolia 
  
- 
- 
- 
- 
-  
-  
-
 ## Page 27
 
 FMCD2009 / 2.0 27 
- 
  
 Program: UG Semester: I 
 Academic Research Course Code: 21LLLL101 
@@ -1020,9 +924,6 @@ legal research
  Statement of Problem and Hypothesis  
  Deductive and inductive method  
  
- 
- 
- 
 6 Hours 
 4 Unit - IV:  Data Collection  
  Data: primary and secondary  
@@ -1030,7 +931,6 @@ legal research
  Selection of method for data collection 
  Tools to collect data: observation, interview, questionnaires and schedule 
  Collection of secondary data 
- 
  
 6 Hours 
 5 Unit - V:  Research Design and Research Paper  
@@ -1047,27 +947,18 @@ Edition, 2019).
 2. C.R. Kothari, Research Methodology Methods and Techniques, New Age International 
 Publishers, (4th Edition, 2019). 
  
-
 ## Page 28
 
 FMCD2009 / 2.0 28 
- 
  
 Reference Books: 
 1. S.N. Jain, Doctrinal and Non-Doctrinal legal research, Journal of the Indian Law 
 Institute, vol. 24, (1982). 
 2. Rattan Singh, Legal Research Methodology, LexisNexis, (3rd Edition, 2021). 
  
- 
- 
-  
- 
-  
-
 ## Page 29
 
 FMCD2009 / 2.0 29 
- 
  
 Program: UG Semester: II 
 Constitutional Law – II  
@@ -1105,9 +996,6 @@ justice
 Terms of Office and Removal of judge of High Court, Jurisdiction and 
 Powers of High Court 
  
- 
- 
- 
 13 Hours 
 4 Unit - IV: Centre-State Relations and Local Self-Government 
  Federalism and Cooperative Federalism, Distribution of 
@@ -1131,9 +1019,6 @@ Structure
 
 FMCD2009 / 2.0 30 
  
- 
- 
- 
 Text Books: 
 1. Dr. V.N. Shukla, Constitution of India, Lucknow: EBC Publishers, (14thEdition, 2022). 
 2. M. P. Jain, Indian Constitutional Law, New Delhi: LexisNexis, (9thEdition, 2024). 
@@ -1149,14 +1034,9 @@ University Press, (1st Edition,1999).
 5. Granville Austin, Working in a Democratic Constitution: A History of the Indian 
 Experience, New Delhi: Oxford University Press, (1st Edition, 2003). 
  
- 
-  
-  
-
 ## Page 31
 
 FMCD2009 / 2.0 31 
- 
  
 Program: UG Semester: II 
 Contract Law – II: Special Contracts 
@@ -1214,7 +1094,6 @@ Contract of Pledge:
 
 FMCD2009 / 2.0 32 
  
- 
 4 Unit - IV: Partnership 
  Definition, essentials of partnership 
  Mode of determining the existence of partnership 
@@ -1259,17 +1138,9 @@ Ltd., (2004).
 3. Sir Mulla Dinshah Fardunji, Mulla on the Sale of Goods Act, Haryana: LexisNexis, (10th 
 Edition, 2012). 
  
- 
- 
- 
- 
- 
- 
-
 ## Page 33
 
 FMCD2009 / 2.0 33 
- 
  
 Program: UG Semester: II 
 Labour Law – I: Law Relating to Resolution of Industrial 
@@ -1325,7 +1196,6 @@ National tribunal
 ## Page 34
 
 FMCD2009 / 2.0 34 
- 
  
 3 Unit - III: The Industrial Disputes Act, 1947 Part II 
  Government’s power of reference u/s. 10: critical analysis with reference to 
@@ -1384,7 +1254,6 @@ o Provisions in re safety and welfare of worker
 
 FMCD2009 / 2.0 35 
  
- 
 o Regulation of employment of women, children and young persons, 
 o Working conditions of employment 
  Working hours 
@@ -1392,7 +1261,6 @@ o Working conditions of employment
  Annual leave facility. 
  Comparative analysis with the provisions Occupational Safety, Health and 
 Working Conditions Code, 2020 
- 
  
 Text Books: 
 1. S.C. Srivastava, Industrial Relations and Labour Laws, Haryana: Vikas Publishing House 
@@ -1410,15 +1278,9 @@ Relations, Himalayan Publishing House.
 6. Second National Labour Commission Report, 2002. 
 7. International Labour Conventions and Recommendations 
  
- 
-  
-  
-
 ## Page 36
 
 FMCD2009 / 2.0 36 
- 
- 
  
 Program: UG Semester: III 
 Jurisprudence Course Code: 21LLLC109 
@@ -1476,13 +1338,11 @@ jura in re propria, modes of acquisition
 
 FMCD2009 / 2.0 37 
  
- 
  Obligation - Meaning, difference between duty and obligation, sole 
 obligation, kinds and sources 
  Liability - Conditions for liability 
  Causation, mens rea, intention, malice, negligence and theories, strict 
 liability, vicarious liability 
- 
  
 Text Books: 
 1. Fitzgerald, Salmond on Jurisprudence, Bombay: Tripathi, (12th Edition, 1996). 
@@ -1495,15 +1355,9 @@ Edition, 2014).
 3. Edgar Bodenheimer, Jurisprudence: Philosophy and Method of Law, Harvard University 
 Press, (1962): Indian Print 2018. 
  
- 
- 
-  
-  
-
 ## Page 38
 
 FMCD2009 / 2.0 38 
- 
  
 Program: UG Semester: III 
 Family Law – II: Mohammedan Law and The Indian 
@@ -1545,9 +1399,6 @@ under the Criminal Procedure Code, 1973
  The aftermath of Shah Bano: Maintenance of Divorced Muslim Women 
 under the Muslim Women (Protection of Rights on Divorce) Act, 1986 
  
- 
- 
- 
 13 Hours 
 4 Unit - IV: Testamentary Succession 
  Will: Meaning, difference between will and gift, will made on death bed or 
@@ -1566,7 +1417,6 @@ can pre-empt
 ## Page 39
 
 FMCD2009 / 2.0 39 
- 
  
  Need of Uniform Civil Code 
  
@@ -1602,14 +1452,9 @@ Edition, 2018).
 7. A.M. Bhattacharjee, Matrimonial Laws and the Constitution, Calcutta: Edited by Ruma 
 Pal, (2nd Edition, EBC, 2017) 
  
- 
-  
-  
-
 ## Page 40
 
 FMCD2009 / 2.0 40 
- 
  
 Program: UG Semester: II 
 CONSUMER LAW AND PRACTICE Course Code: 21LLLL102 
@@ -1643,9 +1488,6 @@ unfair contract, unfair trade practice etc.
  Consumer rights and responsibilities under the Act 
  Comparative Study of Consumer Protection Act,1986 and 2019 
  
- 
- 
- 
 13 Hours 
 4 Unit IV: Consumer Complaints and Redressal Mechanisms 
  Remedies  and Penalties under the Consumer Protection Act, 2019. 
@@ -1672,8 +1514,6 @@ Edition, 2021.
 
 FMCD2009 / 2.0 41 
  
- 
- 
 Reference Books: 
 1. V.K. Agarwal, Consumer Protection Act, 2019 Principles and Practice, Bharat Law House 
 Pvt. Ltd., New Delhi, 1st edition, 2023. 
@@ -1682,14 +1522,9 @@ Hyderabad, 5th edition, 2022.
 3. Nandan Kamath, Law relating to Computers, Internet and E-Commerce, Universal Law 
 Publishing Co. Delhi, 5th Edition, 2017. 
  
- 
-  
-
 ## Page 42
 
 FMCD2009 / 2.0 42 
- 
- 
  
 Program: UG Semester: III 
 Property Law Course Code: 21LLLC201 
@@ -1735,7 +1570,6 @@ their features
  Marshalling and Contribution  
  Charges  
  
- 
 13 Hours 
 4 Unit - IV: Lease, Exchange, Gifts and Actionable Claims 
  Lease of immovable property: Definition and scope  
@@ -1746,7 +1580,6 @@ their features
 ## Page 43
 
 FMCD2009 / 2.0 43 
- 
  
  Determination and holding over 
  Exchange: Definition and mode 
@@ -1782,17 +1615,9 @@ Reference Books:
 2. S.N. Shukla, Transfer of Property Act, New Delhi: Jain Book Agency, (29th Edition, 
 2018). 
  
- 
- 
- 
-  
-  
-
 ## Page 44
 
 FMCD2009 / 2.0 44 
- 
- 
  
 Program: UG Semester: III 
 Labour Law – II: Law Relating to Wages and Social Security 
@@ -1846,14 +1671,11 @@ Payment of Gratuity Act, 1972. Definitions- Judicial Interpretations and
 Parliamentary Amendment of the definition of Employee - Payment of 
 Gratuity- Determination of amount of gratuity - authorities 
  
- 
- 
 13 Hours 
 
 ## Page 45
 
 FMCD2009 / 2.0 45 
- 
  
  Features and Scheme of Protection of workers in the unorganized sector 
 under the Unorganised Worker’s Social Security Act, 2008 
@@ -1898,8 +1720,6 @@ Reference Books:
 1. O.P. Malhotra, Law of Industrial Disputes, Nagpur: LexisNexis, (7th Edition, 2015). 
 2. International Labour Conventions and Recommendations. 
  
-  
- 
 Program: UG Semester: III 
 Law of Taxation  
  
@@ -1908,7 +1728,6 @@ Course Code: 21LLLC203
 ## Page 46
 
 FMCD2009 / 2.0 46 
- 
  
 L-T-P-SS: 3-1-0-0 Credits: 4 Contact Hrs: 5 hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -1960,14 +1779,11 @@ of goods and/or services
  GST on Imports and exports 
  Benefits of GST to Trade, Industry, e-commerce and Service Sector 
  
- 
- 
 13 Hours 
 
 ## Page 47
 
 FMCD2009 / 2.0 47 
- 
  
  Impact of GST on GDP of India and Inflation 
  
@@ -2010,7 +1826,6 @@ and Services Tax Law), Mumbai: Snow White, (2023).
 4. Dr. H.C Mehotra, Dr. S.P Goyal, Fundamentals of Income Tax, Agra: Sahitya Bhawan 
 Publications, (64th Edition, 2023-2024).  
  
- 
 Program: UG Semester: III 
 Administrative law 
  
@@ -2021,7 +1836,6 @@ L-T-P-SS: 3-1-0-0 Credits: 4 Contact Hrs: 5 hrs/week
 ## Page 48
 
 FMCD2009 / 2.0 48 
- 
  
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
 Teaching Hrs: 65 Exam Duration: 3 hrs Semester: III 
@@ -2057,9 +1871,6 @@ delegation.
  Judicial review of delegated legislation - retrospectivity and abridgment of 
 Fundamental rights 
  
- 
- 
- 
 13 Hours 
 4 Unit - IV: Judicial Functions and Principles of Natural Justice 
  The judicial power of administrative authorities   
@@ -2072,13 +1883,11 @@ Partem, and bias
  PNJ - Process of application, and selection parameters 
  Non-compliance of PNJ and exceptions  
   
- 
 13 Hours 
 
 ## Page 49
 
 FMCD2009 / 2.0 49 
- 
  
 5 Unit - V:  State liability in Contract and Tort  
  Meaning of State, Corporation and Public Undertakings- Liabilities in 
@@ -2101,30 +1910,6 @@ Reference Books:
 (11th Edition). 
 2. S.P. Sathe, Administrative Law, Nagpur: LexisNexis, (7th Edition, 2022). 
  
- 
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 Program: UG Semester: III 
 Professional Ethics and Professional Accounting System Course Code: 21LLLP201 
 L-T-P-SS: 3-1-0-0 Credits: 4 Contact Hrs: 5 hrs/week 
@@ -2134,7 +1919,6 @@ Teaching Hrs: 65 Exam Duration: 3 hrs Semester: III
 ## Page 50
 
 FMCD2009 / 2.0 50 
- 
  
 1 Unit - I: Introduction and the Advocates Act, 1961 
  Evolution of the legal profession 
@@ -2172,9 +1956,6 @@ Maharastra and Another, AIR 1972 SC 46
 1895 
 10. Ex-Capt Harish Uppal v. Union of India, AIR 2003 SC 739 
  
- 
- 
- 
 13 Hours 
 4 Unit - IV: Professional Misconduct -Bar Council of India Opinions 
 Selected cases of professional misconduct decided by the disciplinary 
@@ -2195,7 +1976,6 @@ committees of the Bar Council of India.
 ## Page 51
 
 FMCD2009 / 2.0 51 
- 
  
  Interfering with the decision by influencing the judge 
  Making scandalous allegations against the presiding officer 
@@ -2226,14 +2006,9 @@ Reference Books:
 4. The Advocates Act, 1961.  
 5. The Contempt of Courts Act, 1971. 
  
- 
-  
-
 ## Page 52
 
 FMCD2009 / 2.0 52 
- 
- 
  
 Program: UG Semester: IV 
 Public International Law 
@@ -2281,9 +2056,6 @@ of State Responsibility, Situations precluding wrongfulness, Reparations
 obligations under treaties, customs and to membership of international 
 organizations 
  
- 
- 
- 
 13 Hours 
 4 UNIT - IV: Treaties and Maritime Law 
 ● Treaties under International Law - Concept of Treaties, Types of Treaties, 
@@ -2296,7 +2068,6 @@ treaties.
 ## Page 53
 
 FMCD2009 / 2.0 53 
- 
  
 the Law of Sea, 1982; Territorial Sea; Contiguous Zone; Exclusive 
 Economic Zone; Continental shelf and High Seas; Maritime delimitation; 
@@ -2325,13 +2096,9 @@ Reference Books:
 6. Anne Oxford, Reading Humanitarian Intervention: Human Rights and the Use of 
 7. Force in International Law, Cambridge University Press, (2003) 
  
- 
-  
-
 ## Page 54
 
 FMCD2009 / 2.0 54 
- 
  
 Program: UG Semester: IV 
 Law of Criminal Procedure Course Code: 24LLLC201 
@@ -2369,9 +2136,6 @@ functions and powers
 and trial 
  Judgment  
  
- 
- 
- 
 13 Hours 
 4 Unit - IV: Post Trial Proceedings  
  Appeals  
@@ -2395,8 +2159,6 @@ and trial
 
 FMCD2009 / 2.0 55 
  
- 
- 
 Text Books: 
 1. N. Chandrasekharan Pillai, R.V. Kelkar’s Criminal Procedure, Lucknow: Eastern Book 
 Company, (2021). 
@@ -2412,11 +2174,9 @@ Reference Books:
 5. Justice P.S. Narayana, Code of Criminal Procedure, Hyderabad: ALT Publications, (2012).  
 6. S.C. Sarkar, The Law of Criminal Procedure, Nagpur: Wadhawa& Co., (2019).  
  
-
 ## Page 56
 
 FMCD2009 / 2.0 56 
- 
  
 Program: UG Semester: IV 
 OPTIONAL – I: Interpretation of Statutes Course Code: 21LLLT201 
@@ -2468,9 +2228,6 @@ Lexicons, Books and Commentaries, Foreign and Domestic Precedents
 Reports of the Committees or Commissions, Travaux  Preparatories, 
  Subsequent Developments  
  
- 
- 
- 
 13 Hours 
 4 Unit-IV: Interpretation of Different Kinds of Statutes 
  Construction of Taxing Statutes 
@@ -2479,7 +2236,6 @@ Reports of the Committees or Commissions, Travaux  Preparatories,
 ## Page 57
 
 FMCD2009 / 2.0 57 
- 
  
  Interpretation of General and Special Statutes- conflict resolution, repeal by 
 necessary implication.  
@@ -2509,12 +2265,9 @@ Reference Books:
 Publishing Co., 2007 
 3. A.B. Kafaltiya, Interpretation of Statutes, Universal Law Publishing Co., 2008. 
  
-  
-
 ## Page 58
 
 FMCD2009 / 2.0 58 
- 
  
 Program: UG Semester: IV 
 OPTIONAL – II: Banking Law  
@@ -2558,9 +2311,6 @@ Insolvency and Bankruptcy Code, 2016.
  Penal provisions under the Negotiable Instruments Act 
  Banker’s Book Evidence Act, 1891 
  
- 
- 
- 
 13 Hours 
 4 Unit - IV: Banker and Customer Relationship and Debt Recovery Laws 
  Banker and Customer- General and special relationship between banker 
@@ -2577,7 +2327,6 @@ and customer, nature and types of accounts
 ## Page 59
 
 FMCD2009 / 2.0 59 
- 
  
 Institutions Act, 1993 
  Special features of the Securitisation and Reconstruction of Financial Assets 
@@ -2611,14 +2360,9 @@ Maxwell, (2nd Edition, 2000).
 5. Misra, Ranganath, Bhashyam and Adigas’s the Negotiable Instruments Act, 18th ed. New 
 Delhi: Bharath Law House, 20 
  
- 
-  
-
 ## Page 60
 
 FMCD2009 / 2.0 60 
- 
- 
  
 Program: UG Semester: IV 
 OPTIONAL – II: Human Rights Law 
@@ -2655,9 +2399,6 @@ Covenant on Economic, Social and Cultural Rights
 Court on Human and Peoples' Rights  
 ● Comparative analysis of the three regional systems 
  
- 
- 
- 
 13 Hours 
 4 Unit - IV: Indian framework of human rights 
 ● Human rights and the Constitution of India 
@@ -2685,9 +2426,7 @@ people
 
 FMCD2009 / 2.0 61 
  
- 
 Internal Displacements 
- 
  
 Text Books: 
 1. Olivier De Schutter, International Human Rights Law: Cases, Materials, Commentary, 
@@ -2712,13 +2451,9 @@ and Constitutional System, New Delhi: Universal Law Publishing, (2nd Edition, 20
 8. Upendra Baxi, Human Rights in a Posthuman World, New Delhi: Oxford University Press, 
 (1st Edition, 2009). 
  
- 
-  
-
 ## Page 62
 
 FMCD2009 / 2.0 62 
- 
  
 Program: UG Semester: IV 
 CLINICAL COURSE – II: Alternative Dispute Resolution 
@@ -2763,9 +2498,6 @@ ADRs
  Salient features of the Mediation Act, 2023 
  Process of Mediation under the Mediation Act, 2023 
  
- 
- 
- 
 13 Hours 
 4 Unit - IV: Conciliation 
  Conciliation: Meaning 
@@ -2782,8 +2514,6 @@ voluntary, and compulsory
 ## Page 63
 
 FMCD2009 / 2.0 63 
- 
- 
  
 5 Unit - V: Arbitration  
  Meaning of arbitration 
@@ -2837,7 +2567,6 @@ LEXQUISITE, (2022).
 
 FMCD2009 / 2.0 64 
  
- 
 5. D.K. Sampath, Mediation Concept and Technique in support of Resolution of Disputes, 
 National Law School of India University, (1991). 
 6. Gold Neil et.al., Learning Lawyers' Skills, London: Butterworths in conjunction with the 
@@ -2848,14 +2577,9 @@ Commonwealth Legal Education Association, (Chapter 7) (1989).
 10. Justice R.V. Raveendran, “Section 89 CPC: Need for an Urgent Relook”, (2007) 4 SCC J 
 23 
  
- 
- 
-  
-
 ## Page 65
 
 FMCD2009 / 2.0 65 
- 
  
 Program: UG Semester: IV 
 RTI Law and Practice Course Code: 21LLLL201 
@@ -2918,7 +2642,6 @@ Statutes:
 
 FMCD2009 / 2.0 66 
  
- 
 8. The International Covenant on Civil and Political Rights (ICCPR), 1966. 
 9. The UN Convention Against Corruption (UNCAC), 2003. 
 10. The International Convention on the Elimination of all forms of Racial Discrimination, 
@@ -2950,31 +2673,9 @@ the Control of Corruption, 1999.
 10. Rao, S.V.J. Law Relating to Right to Information: A Comprehensive and Insightful Commentary 
 with Comparative Perspectives, Pentagon Press, 2009. 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 67
 
 FMCD2009 / 2.0 67 
- 
- 
  
 Program: UG Semester: V 
 Company Law 
@@ -3013,9 +2714,6 @@ shareholders
  Acceptance of deposit by companies 
 ● Charge on assets 
  
- 
- 
- 
 13 Hours 
 4 Unit – IV: Management and Control 
  Directors - legal position, appointment, qualification, types of directors 
@@ -3041,9 +2739,7 @@ rs
 
 FMCD2009 / 2.0 68 
  
- 
  Overview of the Insolvency and Bankruptcy Code, 2016 
- 
  
 Text Books: 
 1. Avtar Singh, Company Law, Eastern Book Company, (17thedn., 2018)  
@@ -3059,12 +2755,9 @@ Press (8thedn.,2008)
 5. G. K. Kapoor and Sanjay Dhamija, Taxman n's CompanyLaw and Practice, (26thedn. 
 2022) 
  
-  
-
 ## Page 69
 
 FMCD2009 / 2.0 69 
- 
  
 Program: UG Semester: V 
 Law of Civil Procedure and Limitation 
@@ -3110,9 +2803,6 @@ Teaching Hrs: 65 Exam Duration: 3 hrs Semester: V
  Execution - general principles, power of the executing court, modes, 
 properties liable to attachment and sale and stay of execution  
  
- 
- 
- 
 13 Hours 
 4 Unit - IV: Appeal, Reference, Review, Revision and Special Suits 
  Appeal – from original decree, appellate decree, orders, appeal to the 
@@ -3126,7 +2816,6 @@ Supreme Court, appeals by indigent person
 ## Page 70
 
 FMCD2009 / 2.0 70 
- 
  
 5 Unit - V:  Special Suits and the Limitation Act, 1963 
  Special suits - by or against Government, Corporations, Indigent persons 
@@ -3150,13 +2839,9 @@ Reference Books:
 LexisNexis (12th Edition, 2015).  
 2. Basu’s Law on Limitation Act 1963, New Delhi: Delhi Law House (11th Edition, 2022). 
  
- 
-  
-
 ## Page 71
 
 FMCD2009 / 2.0 71 
- 
  
 Program: UG Semester: V 
 OPTIONAL – III: Law of Insurance Course Code: 21LLLT301 
@@ -3194,9 +2879,6 @@ developments
 policy, clauses and claim procedure 
  Professional liability insurance – doctors and lawyers 
  
- 
- 
- 
 13 Hours 
 4 Unit - IV: Motor Vehicle Insurance and Fire Insurance 
 Motor Vehicle Insurance 
@@ -3219,7 +2901,6 @@ Fire Insurance
 ## Page 72
 
 FMCD2009 / 2.0 72 
- 
  
  Meaning of fire and loss by fire 
  Standard Fire Policy 
@@ -3255,12 +2936,9 @@ Reference Books:
 5. Tom Baker, Insurance Law and Policy: Cases, Materials and Problems, Aspen Publishing 
 2003, (3rd Edition, 2003). 
  
-  
-
 ## Page 73
 
 FMCD2009 / 2.0 73 
- 
  
 Program: UG Semester: V 
 OPTIONAL – III:  Investment Laws 
@@ -3300,9 +2978,6 @@ organization structure
 protection 
  Commercial Courts Act,2015 (Sec.2) 
  
- 
- 
- 
 13 Hours 
 4 Unit - IV: Securities and Exchange Board of India (SEBI) and Foreign 
 Exchange Control   Regime 
@@ -3325,7 +3000,6 @@ law, and general principles of law
 
 FMCD2009 / 2.0 74 
  
- 
 favored-nation treatment, fair and equitable treatment, and expropriation 
 and compensation 
  International Investment Agreements (IIAs) - Bilateral Investment Treaties 
@@ -3337,7 +3011,6 @@ mechanisms
 (ICSID) 
  United Nations Convention on International Settlement Agreements 
 Resulting from Mediation (Singapore Convention) 
- 
  
 Text Books: 
 1. Avtar Singh, Company Law, New Delhi: Eastern Book Company, (17th Edition, 2023).  
@@ -3354,13 +3027,9 @@ Mumbai: Thomson Reuters (2021).
 3. Ramni Taneja, Foreign Direct Investment and Globalization, New Delhi: Eastern Book 
 Company, (2014). 
  
- 
-  
-
 ## Page 75
 
 FMCD2009 / 2.0 75 
- 
  
 Program: UG Semester: V 
 OPTIONAL – IV: Intellectual Property Laws – I 
@@ -3404,17 +3073,11 @@ subject matter
  International instruments - Paris convention, Madrid agreement, Lisbon 
 agreement, Nice classification and TRIPS 
  
- 
- 
- 
 13 Hours 
-4 Unit - IV: Copyright Law  
- Copyright – Meaning and subject matter 
  Authorship and ownership  
  Rights - Economic rights, moral rights, neighbouring rights 
  Doctrine of fair dealing 
  Term, assignment and licensing  
- Copyright societies   
  Infringement - protection of technological measures, liability of Internet 
 Service Providers and  rights management system 
  Forums and remedies 
@@ -3424,9 +3087,6 @@ Service Providers and  rights management system
 
 FMCD2009 / 2.0 76 
  
- 
- International instruments - Berne Convention, Universal Copyright 
-Convention, WIPO Copyright Treaty, Rome Convention, Geneva 
 Phonogram Convention, WIPO Performances and Phonogram Treaty 
 (WPPT), Brussels Satellite Convention, Beijing Treaty on Audiovisual 
 Performance 
@@ -3435,7 +3095,6 @@ Performance
 Design 
  Protection of designs - Introduction, need and subject matter  
  Procedure for registration  
- Rights - Copyright in registered designs  
  Infringement 
  Semiconductor integrated circuits layout design – Meaning, scope and 
 importance 
@@ -3453,27 +3112,18 @@ Edition, 2020).
 2017). 
  
 Reference Books: 
-1. William Cornish, Intellectual Property: Patents, Copyright, Trademark and Allied Rights, 
 London: Sweet & Maxwell (2nd Edition, 1998). 
 2. B. L. Wadehra, Law Relating to Intellectual Property, New Delhi: Universal Law 
 Publishing Co., (5th Edition, 2016). 
 3. Prabuddha Ganguli, Intellectual Property Rights: Unleashed the Knowledge Economy, 
 Mumbai: Tata Mc Graw Hill Publishing Co., (2001). 
-4. Nicholas Caddick et (al)., Copinger and Skone James, Copyright, U.K: Sweet & Maxwell, 
 (16th Edition, 2013). 
 5. Unni, Trade Marks and the Emerging Concepts of Cyber Property Rights, New Delhi: 
 Eastern Law House, (2002). 
  
- 
- 
- 
-  
-
 ## Page 77
 
 FMCD2009 / 2.0 77 
- 
- 
  
 Program: UG Semester: V 
 OPTIONAL – IV: Socio-Economic Crimes  Course Code: 21LLLT304 
@@ -3525,11 +3175,9 @@ Text Books:
 1. K.D. Gaur, Textbook on Socio Economic Offences, Gurgoan: LexisNexis Professional 
 Books, (2021). 
  
-
 ## Page 78
 
 FMCD2009 / 2.0 78 
- 
  
 Reference Books: 
 1. S.M. Afzal Qadri, Ahamed Siddique’s Criminology, Penology Hall, Jerome: General 
@@ -3541,52 +3189,9 @@ Edition, 2021).
 4. K.I. Vibhute, P.S.A. Pillai’s Criminal Law, Lucknow: Eastern Book Company, (14th 
 Edition, 2019). 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 79
 
 FMCD2009 / 2.0 79 
- 
  
 Program: UG Semester: V 
  
@@ -3650,7 +3255,6 @@ House, (13th Edition, 2020).
 
 FMCD2009 / 2.0 80 
  
- 
 3. Interpretation of Contracts; Justice Sir Kim Lewison; London: Sweet and amp; Maxwell 
 (7th Edition, 2020). 
 4. N.S. Bindra, N.S. Bindra’s Pleadings and Practice, Gurgoan: LexisNexis; (13th Edition, 
@@ -3660,15 +3264,9 @@ Gurgoan: LexisNexis, Vol. 2, (15th Edition, 2021)
 6. Shivagopal, Shivagopal’s Conveyancing – Precedents and Forms, Delhi: Eastern Book 
 Company, (6th Edition, 2016). 
  
- 
-  
-
 ## Page 81
 
 FMCD2009 / 2.0 81 
- 
- 
- 
  
 Program: UG Semester: VI 
 Law of Evidence 
@@ -3708,9 +3306,6 @@ character
 • Relevancy of opinion by third persons- Expert opinion, nature and scope 
 • Relevancy of character of parties – Civil and criminal proceedings 
  
- 
- 
- 
 13 Hours 
 4 UNIT - IV: Proof of Facts 
 • Facts which need not be proved  
@@ -3734,13 +3329,11 @@ death and rape
 
 FMCD2009 / 2.0 82 
  
- 
 • Estoppel – Meaning, scope and types 
 • Witnesses – qualification and privileged communications  
 • Examination of witnesses – order, lawful questions, leading questions, 
 hostile witness, character of witness, corroboration and contradiction of 
 witness, refreshing of memory 
- 
  
 Text Books: 
 1. M. Monir, Law of Evidence, Universal Law Publishing Co. Pvt. Ltd, (12th Edition, 2021).  
@@ -3756,30 +3349,6 @@ Edition, 2020).
 4. Woodroffe and Amir Ali’s Law of Evidence, LexisNexis, (20th Edition, 2019). 
 5. Vepa P. Sarathi, Law of Evidence, Eastern Book Company, (7th Edition, 2018). 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 Program: UG Semester: VI 
 Environmental Law  Course Code: 21LLLC304 
  
@@ -3790,7 +3359,6 @@ Teaching Hrs: 65 Exam Duration: 3 hrs Semester: VI
 ## Page 83
 
 FMCD2009 / 2.0 83 
- 
  
 1 UNIT - I: Introduction 
 • Environment – Meaning, definition and components 
@@ -3826,9 +3394,6 @@ Zone
 • Public liability insurance 
 • Preservation of urban environment – parks, play-fields and open spaces 
  
- 
- 
- 
 13 Hours 
 4 UNIT - IV: Forest and Wildlife protection 
 • Forests - Forest conservation, forest rights, National Forest Policy 
@@ -3856,7 +3421,6 @@ University Press, (3rd Edition, 2022).
 
 FMCD2009 / 2.0 84 
  
- 
 University Press, (4th Edition, 2018). 
  
 Reference Books: 
@@ -3869,14 +3433,9 @@ Edition, 2009).
 5. S. Ghosh, Indian Environmental Law: Key Concepts and Principles, Bangalore: Oriental 
 Black Swan, (2019). 
  
- 
-  
-
 ## Page 85
 
 FMCD2009 / 2.0 85 
- 
- 
  
 Program: UG Semester: VI 
 OPTIONAL – V: Intellectual Property Laws – II  
@@ -3916,9 +3475,6 @@ Cooperation Treaty
 Plant (UPOV), TRIPS Agreement, Doha declaration; International Treaty 
 on Plant Genetic Resources (“ITPGR”). 
  
- 
- 
- 
 13 Hours 
 4 UNIT - IV: Protection of Biodiversity 
 • Biological diversity and biological resources  
@@ -3940,7 +3496,6 @@ Biodiversity
 
 FMCD2009 / 2.0 86 
  
- 
 5 UNIT - V: Contemporary Issues 
 • Abuse of IP Rights – Interplay between IP Laws and Competition Law 
 • Protection of Digital Intellectual Property 
@@ -3960,7 +3515,6 @@ Edition, 2020).
 Reference Books: 
 1. Elizabeth Verkey, Law of Plant Varieties Protection, New Delhi: Eastern Book Co., (1st 
 Edition, 2007). 
-2. William Cornish, Intellectual Property: Patents, Copyright, Trademark and Allied Rights, 
 London: Sweet & Maxwell, (2nd Edition, 1998). 
 3. Prabuddha Ganguli, Intellectual Property Rights: Unleashed the knowledge Economy, 
 Mumbai: Tata Mc Graw Hill Publishing Co., (2001). 
@@ -3973,14 +3527,9 @@ Publications, (2002).
 7. D.P. Mittal, Taxmann’s Law of Information Technology (Cyber Law), Lucknow: Taxmann 
 Allied Services, (2000). 
  
- 
- 
-  
-
 ## Page 87
 
 FMCD2009 / 2.0 87 
- 
  
 Program: UG Semester: VI 
 OPTIONAL – V: Criminology, Penology and Victimology  
@@ -4018,9 +3567,6 @@ accessories before and after the fact, accomplice
  Variations in liability – Mistake, intoxication, compulsion and legally 
 abnormal persons 
  
- 
- 
- 
 13 Hours 
 4 UNIT - IV: Penology 
  Penology- Meaning, definition and concept 
@@ -4046,9 +3592,7 @@ deviant place theory and routine activities theory.
 
 FMCD2009 / 2.0 88 
  
- 
  Role of Courts, Human Rights Commissions, NGOs and media 
- 
  
 Text Books: 
 1. Kenny’s Outlines of Criminal Law, J.W Cecil Turner (ed), Cambridge: Cambridge 
@@ -4063,18 +3607,13 @@ Reference Books:
 3. O.P. Srivastava’s Principle of Criminal Law, Ram Narish Choudhry (ed.) Eastern Book 
 Company, (6th Edition, 2003). 
  
-
 ## Page 89
 
 FMCD2009 / 2.0 89 
  
- 
-  
-
 ## Page 90
 
 FMCD2009 / 2.0 90 
- 
  
 Program: UG Semester: VI 
 OPTIONAL – VI: International Trade Law 
@@ -4137,10 +3676,8 @@ Agreements; Subject Matter of ICA; Choice of Forum and Law Rules;
 
 FMCD2009 / 2.0 91 
  
- 
 United Nations Convention on the Recognition and Enforcement of 
 Foreign Arbitral Awards (1958). 
- 
  
 Text Books: 
 1. Mitsuo Matsushita, Thomas J. Schoenbaum, Petros C. Mavroidis, The World Trade 
@@ -4167,21 +3704,13 @@ Edition, 1960).
 5. John H Jackson , The Jurisprudence of GATT and WTO: Cambridge Publication (1st 
 Edition) 
  
- 
- 
-  
-
 ## Page 92
 
 FMCD2009 / 2.0 92 
  
- 
-  
-
 ## Page 93
 
 FMCD2009 / 2.0 93 
- 
  
 Program: UG Semester: VI 
 OPTIONAL – VI: Land Laws 
@@ -4217,9 +3746,6 @@ o Acquisition, Rehabilitation and Resettlement Authority
  Record of rights, Mutation Register, realisation of land revenue and the 
 legal effects of entries in land records. 
  
- 
- 
- 
 13 Hours 
 4 UNIT - IV: Tenancy, Ownership and Ceiling on Land Holdings  
  The Karnataka Scheduled Castes and Scheduled Tribes (Prohibition of 
@@ -4248,10 +3774,8 @@ o Real estate appellate tribunal
 
 FMCD2009 / 2.0 94 
  
- 
  The Karnataka Real Estate (Regulation and Development) Rules, 2017  
  The Karnataka Apartment Ownership Act, 1972 
- 
  
 Text Books: 
 1. S.G. Biradar, Land Acquisition- A Paradigm Shift, Bangalore: KAS Officers’ Research 
@@ -4263,13 +3787,9 @@ Reference Books:
 1. Sachin Mittal, A-2-Z of Real Estate in India, Punjab: White Falcon Publishing. 
 2. Dr. Harshul Savla, An RPWA Initiative Era post RERA, Chennai: Notion Press. 
  
- 
-  
-
 ## Page 95
 
 FMCD2009 / 2.0 95 
- 
  
 Program: UG Semester: VI 
 CLINICAL COURSE – IV: Moot Court And Trial Preparation Course Code: 21LLLP302 
@@ -4303,9 +3823,6 @@ marks
  Each student will take part in a simulation exercise of client consultation 
 done at the college which will carry 10 marks 
  
- 
- 
- 
 13 Hours 
 4 UNIT - IV:  Pre-Trial Preparations  
  Each student shall observe the preparation of documents by an Advocate 
@@ -4325,11 +3842,7 @@ observation and pre-trial preparation. This will carry 10 marks.
 
 FMCD2009 / 2.0 96 
  
- 
-
 ## Page 97
 
 FMCD2009 / 2.0 97 
- 
- 
  

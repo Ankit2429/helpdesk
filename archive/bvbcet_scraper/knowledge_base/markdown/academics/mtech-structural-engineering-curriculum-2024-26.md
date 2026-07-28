@@ -1,45 +1,18 @@
 # PDF Document: mtech-structural-engineering-curriculum-2024-26
+
 **PDF Source:** https://www.kletech.ac.in/pdf/mtech-structural-engineering-curriculum-2024-26.pdf
 
 ## Page 1
 
- 
- 
 FMCD2009 / 2.0 
  1 
- 
- 
- 
- 
-  
- 
  
 Curriculum Structure and Curriculum Content for the Academic Batch  2024-2026 
 School of Civil Engineering 
 Program: Structural Engineering 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 2
 
- 
- 
 FMCD2009 / 2.0 
  2 
  
@@ -56,16 +29,8 @@ List of Program Electives for Semester 1 .......................................
 Semester – II ............................................................................................................. 9 
 List of Program Electives for Semester 2 ............................................................ 10 
  
- 
- 
- 
-  
-  
-
 ## Page 3
 
- 
- 
 FMCD2009 / 2.0 
  3 
 Vision and Mission of KLE Technological University 
@@ -75,7 +40,6 @@ Vision
 KLE Technological University will be a national leader in Higher 
 Education–recognised globally for innovative culture, outstanding 
 student experience, research excellence and social impact. 
- 
  
 Mission 
  
@@ -99,11 +63,8 @@ competitiveness and quality of life.
 As a unified community of faculty, staff and students, we work tog ether with 
 the spirit of collaboration and partnership to accomplish our mission. 
   
-
 ## Page 4
 
- 
- 
 FMCD2009 / 2.0 
  4 
 Vision and Mission Statements of the Department 
@@ -128,11 +89,8 @@ Service: To provide community services and involve in professional
 contributions leading to regional growth adding value through 
 knowledge and expertise. 
   
-
 ## Page 5
 
- 
- 
 FMCD2009 / 2.0 
  5 
 Program Educational Objectives/Program Outcomes and Program-Specific Objectives 
@@ -161,16 +119,12 @@ Program Specific Objectives -PSO’s
  
 Nil 
  
-
 ## Page 6
 
- 
- 
 FMCD2009 / 2.0 
  6 
 Curriculum Structure-Overall 
  
-  
 Semester                                                                                                                                                                          Total Program Credits: 178 
 Course with course code 
 I II III IV 
@@ -190,19 +144,15 @@ Recent Topics on
 Technology Trends 
 Design Project 
  
- 
 Credits 25 25 18 20 
 
 ## Page 7
 
- 
- 
 FMCD2009 / 2.0 
  7 
 Scheme Semester – I 
 AY: 2024-25 
  
-  
 No Code Course Category L-T-P Credits Contact   
 Hours ISA ESA Total 
 Exam 
@@ -225,8 +175,6 @@ TOTAL  21-2-2 25 29
 
 ## Page 8
 
- 
- 
 FMCD2009 / 2.0 
  8 
 List of Program Electives for Semester 1 
@@ -235,17 +183,13 @@ Sr. No Name of the Course Course Code
 2.  Advanced Concrete Technology 24ESEE702 
 3.  Fire Resistance of Structures 20ESEE701 
   
-
 ## Page 9
 
- 
- 
 FMCD2009 / 2.0 
  9 
 Semester – II 
 AY: 2024-25 
  
-  
 No Code Course Category L-T-P Credits Contact 
 Hours ISA ESA Total 
 Exam 
@@ -263,15 +207,10 @@ TOTAL  22-1-2 25 27
 
 ## Page 10
 
- 
- 
 FMCD2009 / 2.0 
  10 
 List of Program Electives for Semester 2 
  
- 
- 
-  
 Sr. No Name of the Course Course Code 
 Program Elective-I 
 1.  Design of Industrial Steel Structures 15ESEE703 
@@ -284,13 +223,10 @@ Program Elective-II
 
 ## Page 11
 
- 
- 
 FMCD2009 / 2.0 
  11 
 Semester- III 
 AY: 2025-26 
- 
  
 Semester- IV 
 AY: 2025-26 
@@ -335,27 +271,13 @@ PW 0-0-20 20 20 50 50 100 3 hours
 
 ## Page 12
 
- 
- 
 FMCD2009 / 2.0 
  12 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
 SEMESTER 1 
  
-
 ## Page 13
 
- 
- 
 FMCD2009 / 2.0 
  13 
 Program: Master of Technology (Structural Engineering) Semester: I 
@@ -406,8 +328,6 @@ Text Books
 
 ## Page 14
 
- 
- 
 FMCD2009 / 2.0 
  14 
 Back 
@@ -422,11 +342,8 @@ Reference Books:
 Materials, 4ed. John Wiley & Sons,, New York, 1985. 
 2. Sadd, M.H., Elasticity – Theory, Applications and Numeric, Academic Press, 2014. 
  
-
 ## Page 15
 
- 
- 
 FMCD2009 / 2.0 
  15 
   
@@ -475,8 +392,6 @@ force, Seismicity of India, Supplemental devices – passive, semi-active, activ
 
 ## Page 16
 
- 
- 
 FMCD2009 / 2.0 
  16 
  
@@ -502,8 +417,6 @@ Bureau of Indian Standards, New Delhi, 1993
 
 ## Page 17
 
- 
- 
 FMCD2009 / 2.0 
  17 
  
@@ -554,8 +467,6 @@ Granular and Powdery Materials- Part I General Requirements and Assessment of Bi
 
 ## Page 18
 
- 
- 
 FMCD2009 / 2.0 
  18 
 Back  
@@ -567,8 +478,6 @@ Assessment of Loads.
 
 ## Page 19
 
- 
- 
 FMCD2009 / 2.0 
  19 
  
@@ -615,8 +524,6 @@ Software Applications, 3ed., Tata McGraw Hill, New Delhi,  1998.
 
 ## Page 20
 
- 
- 
 FMCD2009 / 2.0 
  20 
  
@@ -663,13 +570,9 @@ Course Title: Design of Bridges Course Code:  24ESEE701
 
 ## Page 21
 
- 
- 
 FMCD2009 / 2.0 
  21 
 Back 
- 
- 
  
 Program: Master of Technology (Structural Engineering) Semester: I 
 Course Title:Advanced Concrete Technology Course Code:  24ESEE702 
@@ -711,8 +614,6 @@ Reference Books:
 
 ## Page 22
 
- 
- 
 FMCD2009 / 2.0 
  22 
  
@@ -761,16 +662,10 @@ Francis group, New York, 2003.
 
 ## Page 23
 
- 
- 
 FMCD2009 / 2.0 
  23 
  
 Back 
- 
- 
- 
- 
  
 Program: Master of Technology (Structural Engineering) Semester: I 
 Course Title:Computer Aided Analysis and Design Lab Course Code: 15ESEP701 
@@ -802,37 +697,15 @@ Reference Books:
 4. Jain, A.K. Reinforced Concrete Limit State Design, 7ed., Nemi Chand & 
 Bros., Roorkee, 2012 
  
-
 ## Page 24
 
- 
- 
 FMCD2009 / 2.0 
  24 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 SEMESTER 2 
   
-
 ## Page 25
 
- 
- 
 FMCD2009 / 2.0 
  25 
  
@@ -883,30 +756,9 @@ USA: McGraw Hill, 2016.
 
 ## Page 26
 
- 
- 
 FMCD2009 / 2.0 
  26 
 Back 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 2020. 
 3 B. S. Smith and A. Coll, Tall Building Structures: Analysis and Design , 2nd ed. New York, 
@@ -921,8 +773,6 @@ International Limited, 2015.
 
 ## Page 27
 
- 
- 
 FMCD2009 / 2.0 
  27 
  
@@ -973,12 +823,9 @@ Delhi, 2004.
 
 ## Page 28
 
- 
- 
 FMCD2009 / 2.0 
  28 
  
-  
 Bangalore, 2003. 
 References: 
 1. Rajasekaran, S., Finite Element Analysis in Engineering Design, S. Chand Group, 2006. 
@@ -993,8 +840,6 @@ Engineering, 4ed, Pearson, 2011.
 
 ## Page 29
 
- 
- 
 FMCD2009 / 2.0 
  29 
  
@@ -1044,8 +889,6 @@ New Delhi, 2017.
 
 ## Page 30
 
- 
- 
 FMCD2009 / 2.0 
  30 
  
@@ -1094,8 +937,6 @@ New Delhi, 2010.
 
 ## Page 31
 
- 
- 
 FMCD2009 / 2.0 
  31 
   
@@ -1146,8 +987,6 @@ KOGA, 2012.
 
 ## Page 32
 
- 
- 
 FMCD2009 / 2.0 
  32 
  
@@ -1185,11 +1024,8 @@ Hall,1994
 7. Timoshenko, S.P . and Woinoisky-Krieger, Theory of Plates and Shells, McGraw- Hill Book Co., 
 New York, 1959. 
  
-
 ## Page 33
 
- 
- 
 FMCD2009 / 2.0 
  33 
  
@@ -1237,12 +1073,9 @@ Company New Dehli , 2002.
 
 ## Page 34
 
- 
- 
 FMCD2009 / 2.0 
  34 
  
-  
 8. Varghese. P .C., Foundation Engineering, PHI Pub. New Delhi. 2005. 
 9. Winterkorn, H. F. and Fang H. Y ., Foundation Engineering Hand Book, 2ed, Van Nostrand 
 Reinhold Company, 1991. 
@@ -1256,8 +1089,6 @@ Raft Foundations
 
 ## Page 35
 
- 
- 
 FMCD2009 / 2.0 
  35 
  
@@ -1307,8 +1138,6 @@ Applications, 2ed., Wiley India Pvt. Ltd., 2006.
 
 ## Page 36
 
- 
- 
 FMCD2009 / 2.0 
  36 
  
@@ -1348,8 +1177,6 @@ Applications, Douglas E Adams, John Wiley & Sons, New York, 2007.
 
 ## Page 37
 
- 
- 
 FMCD2009 / 2.0 
  37 
  
@@ -1399,12 +1226,9 @@ Thite, 1st ed., Finite to Infinite, 2008.
 
 ## Page 38
 
- 
- 
 FMCD2009 / 2.0 
  38 
 Back 
- 
  
 Program: M.Tech (Structural Engineering) Semester: II 
 Course Title: Design Project Course Code:19ESEP702 

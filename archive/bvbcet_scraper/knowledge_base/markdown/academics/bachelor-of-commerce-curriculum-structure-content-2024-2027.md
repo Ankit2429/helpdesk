@@ -1,52 +1,16 @@
 # PDF Document: bachelor-of-commerce-curriculum-structure-content-2024-2027
+
 **PDF Source:** https://www.kletech.ac.in/pdf/bachelor-of-commerce-curriculum-structure-content-2024-2027.pdf
 
 ## Page 1
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED 
 COPY         
  
 1
  
-  
 School of Management Studies and Research  
   
-  
-  
- 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 Curriculum and Syllabus 
 (2024-2027) 
 Bachelor of Commerce 
@@ -54,16 +18,10 @@ Bachelor of Commerce
 
 ## Page 2
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED 
 COPY         
  
 2 
- 
- 
- 
- 
  
 INDEX 
 Sr.No Content Page No 
@@ -76,55 +34,20 @@ Research 04
 6 Curriculum Structure – Semester-wise 07-13 
 7 Curriculum Content- Course-wise 13-78 
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
- 
- 
- 
- 
- 
- 
-
 ## Page 3
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED 
 COPY         
  
 3
  
- 
- 
- 
- 
 Title: Vision and Mission Statements of the KLE Technological University 
   
 Vision 
   
-  
 KLE Technological University will be a national leader in Higher 
 Education –recognised globally for innovative culture, outstanding 
 student experience, research excellence and social impact. 
-  
   
 Mission 
   
@@ -145,11 +68,8 @@ areas of national strategic importance and priority.
 contributing our expertise, experience and leadership, to enhance 
 competitiveness and quality of life. 
   
-
 ## Page 4
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED 
 COPY         
  
@@ -157,11 +77,6 @@ COPY
 As a unified community of faculty, staff and students, we work together with 
 the spirit of collaboration and partnership to accomplish our mission. 
   
- 
-  
- 
- 
- 
 Title: Vision and Mission Statements of School of Management Studies and Research 
 Vision: A business school of national repute by achieving excellence through 
 teaching–learning, research and impacting society. 
@@ -173,37 +88,11 @@ achieve personal and professional growth
 • To contribute to the body of knowledge in management science 
 • To positively impact the society by upholding the values of KLE Society. 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 5
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY         
  
 5
- 
- 
  
 Title: Consolidated View of Program Educational Objectives (PEOs) and Program Outcomes (POs)  
   
@@ -227,17 +116,8 @@ The ability to empathize by utilizing moral and ethical principles.
  Demonstrate knowledge of the impact of foreign business practices on local and 
 global economies. 
   
-  
- 
- 
- 
- 
- 
-
 ## Page 6
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY         
  
 6
@@ -329,7 +209,6 @@ Business and Technology
 Management Accounting 
  (4-0-0) Exempted 
  
- 
 Financial Reporting for Managers (
 4-0-0) 
  
@@ -337,7 +216,6 @@ Business Performance Manage
 ment  
 (4-0-0) 
 Strategic Financial Reporting (4-0-0) 
- 
  
 7 
 Financial Accounting for Mana
@@ -353,10 +231,8 @@ Financial Reporting
 Performance Management  
 (4-0-0) Exempted 
  
- 
 Strategic Business Reporting 
 (4-0-0) Non Exempted 
- 
  
 8 
 Financial Accounting   
@@ -373,7 +249,6 @@ Tax Laws and Practice
 Modern Performance Management 
 (4-0-0) 
  
- 
 9 
 Essential Communicative Abili
 ty 
@@ -384,14 +259,11 @@ Tally Prime
 Financial Management  
 (4-0-0) Non Exempted 
  
- 
 Taxation Exempted 
 (4-0-0) 
  
- 
 Advanced Performance Management  
 (4-0-0) Non Exempted 
- 
  
 10 
  Advanced Communication  
@@ -401,29 +273,22 @@ Social Awareness
  Industry Readiness   
 (0-0-1) 
  
- 
 11   Professional Aptitude  
 (0-0-1) 
   
- 
- 
 Tota
 l 
 23 23 25 24 22 18 
 
 ## Page 7
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY         
  
 7
  
- 
 FORM 
 ISO 21001:2018 
 Document #: FMCD2004 
- 
  
 Rev: 1.0 
 Title:  Curriculum structure semester wise Page 7 to 11 
@@ -453,8 +318,6 @@ Hours ISA ESA Total
 
 ## Page 8
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY         
  
 8
@@ -463,13 +326,6 @@ ISA: In-semester Assessment  ESA: End Semester Assessment  L: Lecture T: Tutoria
  
 ___________                  ____________ 
 Date                   Program Head 
- 
- 
- 
- 
- 
- 
- 
  
 Sr.No Course code Course Title L T P Evaluation scheme Credit 
 (L+T+P) 
@@ -490,8 +346,6 @@ TOTAL 20 0 3    23
 
 ## Page 9
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY         
  
 9
@@ -500,12 +354,6 @@ ISA: In-semester Assessment  ESA: End Semester Assessment  L: Lecture T: Tutoria
  
 ___________                  ____________ 
 Date                   Program Head 
- 
- 
- 
- 
- 
- 
  
 Sr.No Course code Course Title L T P Evaluation scheme Credit 
 (L+T+P) 
@@ -529,8 +377,6 @@ Total 22  3    25
 
 ## Page 10
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY         
  
 10
@@ -540,12 +386,6 @@ ISA: In-semester Assessment  ESA: End Semester Assessment  L: Lecture T: Tutoria
  
 ___________                  ____________ 
 Date                   Program Head 
- 
- 
- 
- 
- 
- 
  
 Sr.No Course code Course Title L T P Evaluation scheme Credit 
 (L+T+P) 
@@ -566,8 +406,6 @@ Total 22 1 1    24
 
 ## Page 11
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY         
  
 11
@@ -577,14 +415,6 @@ ISA: In-semester Assessment  ESA: End Semester Assessment  L: Lecture T: Tutoria
  
 ___________                  ____________ 
 Date                   Program Head 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Sr.No Course code Course Title L T P Evaluation scheme Credit 
 (L+T+P) 
@@ -606,8 +436,6 @@ Total 21 0 1    22
 
 ## Page 12
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY         
  
 12
@@ -634,19 +462,17 @@ Total 10 0 8    18
 
 ## Page 13
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 13
  
 FORM 
 ISO 21001:2018 
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise         Page: 13 to 78 
@@ -672,7 +498,6 @@ functions; printing worksheets; using graph plotting Capabilities of spreadsheet
 graphs; database management & interfacing spreadsheets with database systems; writing macros and 
 creating customized menus with macros. 
  
- 
 Scheme for Semester End Examination (ESA): 
 UNIT 8 Questions to be set of 20 Marks Each 
 (Answer any 5Q out of 8) 
@@ -683,22 +508,10 @@ questions, which could be from any module.   1 Module 2
   1 Module 4 
   2 Module 5 
  
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 14
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 14
  
 Program: B.Com (General/IFA) 
@@ -749,17 +562,11 @@ module.   1 Module 2
   2 Module 5 
   2 Module 5 
  
- 
-
 ## Page 15
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 15
- 
  
 Program: B.Com (General/IFA) 
 Course Title: Business Economics  Course Code: 23MBCC103 
@@ -806,15 +613,10 @@ module.   1 Module 2
   1 Module 4 
   2 Module 5 
  
- 
-
 ## Page 16
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 16
  
 Program: B.Com (General/IFA) 
@@ -865,14 +667,9 @@ module. 1 Module 2
 
 ## Page 17
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 17
- 
- 
  
 Program: B.Com (General/IFA) 
 Course Title:  Emerging  Technologies in Business  Course Code: 23MBCE101 
@@ -918,19 +715,11 @@ module.   1 Module 2
   1 Module 4 
   2 Module 5 
  
- 
- 
-
 ## Page 18
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 18
- 
- 
  
 Program: B.Com (General/IFA) 
 Course Title:  Business and Technology Course Code: 23MBCE102 
@@ -971,22 +760,11 @@ Sec - B (Descriptive) Answer all 04 Questions Each carries 7 marks 28
 Sec - C (Descriptive) Answer 02 full Questions Each carries 15 marks 30 
 Total Marks 70 
  
- 
- 
- 
- 
- 
-
 ## Page 19
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 19
- 
- 
  
 Program: B.Com (General/IFA) 
 Course Title: Financial Accounting for Managers Course Code: 23MBCE105 
@@ -1028,22 +806,11 @@ module.   1 Module 2
   1 Module 4 
   2 Module 5 
  
- 
- 
- 
- 
- 
-
 ## Page 20
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 20
- 
- 
  
 Program: B.Com (General/IFA) 
 Course Title: Financial Accounting  Course Code: 23MBCE106 
@@ -1081,24 +848,11 @@ Sec - B (Descriptive) Answer all 04 Questions Each carries 7 marks 28
 Sec - C (Descriptive) Answer 02 full Questions Each carries 15 marks 30 
 Total Marks 70 
  
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 21
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 21
- 
- 
  
 Program: B.Com (General/IFA) 
 Course Title: Essential Communicative Ability  Course Code: 23MBCP101 
@@ -1117,45 +871,11 @@ Stress, Rhythm, Pausing, and Intonation.
  
 No ESA Exam 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 22
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 22
- 
- 
- 
- 
  
 Program: B.Com (General/IFA) 
 Course Title: Marketing Management  Course Code: 23MBCC106 
@@ -1203,17 +923,9 @@ module.   1 Module 2
 
 ## Page 23
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 23
- 
- 
- 
- 
- 
  
 Program: B.Com (General/IFA) 
 Course Title: Organization Behavior Course Code: 23MBCC107 
@@ -1254,20 +966,11 @@ any module. 1 Module 2
 1 Module 3 
 2 1 Module 4 Compulsory from any module 
  
- 
- 
- 
- 
-
 ## Page 24
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 24
- 
  
 Program: B.Com (General/IFA) 
 Course Title: Business Statistics  Course Code: 24MBCC101 
@@ -1275,7 +978,6 @@ L-T-P: 4-0-0 Credits: 4 Contact Hours:4 Sessions/week
 ISA Marks: 50 ESA Marks: 50 Total Marks:100 
 Teaching Hours:50 hrs Examination Duration: 3 
 Hours 
- 
  
 Module I:   Data Collection          
  Introduction to Statistics, Scope of Statistics in Business and Industry. 
@@ -1311,14 +1013,10 @@ Module IV: Measures of Dispersion and Skewness
 ● Skewness: Meaning, Measures (Absolute and relative) of Skewness. Karl Pearson’s and 
 Bowley’s Coefficient of Skewness.  
  
-
 ## Page 25
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 25
 Module V: Time Series Analysis: Meaning, Different Components, Determination of trend by different 
 Methods: Graphical, Moving Average and Least square methods. Problems, Merits & Demerits. 
@@ -1328,48 +1026,10 @@ SC Gupta, Fundamentals of statistics, Himalaya Publishing house, 7th edition
  
   
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 26
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 26
 Program: B.Com (General/IFA) 
 Course Title: English-II  Course Code: 23MBCC108 
@@ -1412,19 +1072,10 @@ Answer 2 out of 3 each, each carries
 15 Marks  1 
  1 
  
- 
- 
- 
- 
- 
-
 ## Page 27
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 27
 Program: B.Com (General/IFA) 
 Course Title: Cost and  Management Accounting Course Code: 23MBCE103 
@@ -1467,20 +1118,10 @@ module.   1 Module 2
   1 Module 4 
   2 Module 5 
  
- 
- 
- 
- 
- 
- 
-
 ## Page 28
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 28
  
 Program: B.Com (General/IFA) 
@@ -1518,24 +1159,10 @@ Sec - B (Descriptive) Answer all 04 Questions Each carries 7 marks 28
 Sec - C (Descriptive) Answer 02 full Questions Each carries 15 marks 30 
 Total Marks 70 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 29
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 29
  
 Program: B.Com (General/IFA) 
@@ -1572,26 +1199,10 @@ module.   1 Module 2
   1 Module 4 
   2 Module 5 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 30
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 30
  
 Program: B.Com (General/IFA) 
@@ -1624,28 +1235,10 @@ Sec - B (Descriptive) Answer all 04 Questions Each carries 7 marks 28
 Sec - C (Descriptive) Answer 02 full Questions Each carries 15 marks 30 
 Total Marks 70 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 31
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 31
  
 Program: B.Com (General/IFA) 
@@ -1679,31 +1272,11 @@ Module 1 –
  
 No ESA Exam 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 32
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 32
- 
  
 Program: B.Com (General/Hons) 
 Course Title: Banking Operations Management   Course Code:23MBCC201 
@@ -1750,14 +1323,10 @@ module.   1 Module 2
   1 Module 4 
   2 Module 5 
   
-
 ## Page 33
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 33
 Program: B.Com (General/Hons) 
 Course Title: People Management  Course Code:25MBCC201 
@@ -1792,7 +1361,6 @@ References:
  "Human Resource Management" by C.B. Gupta: Sultan Chand & Sons, ISBN-978-8180548106 
  "Human Resource Management" by Gary Dessler: Pearson India, ISBN- 978-9353919560 
  
- 
 Scheme for Semester End Examination (ESA):  
 UNIT 8 Questions to be set of 20 Marks Each 
 (Answer any 5Q out of 8) 
@@ -1804,15 +1372,10 @@ module.   1 Module 2
   1 Module 4 
   2 Module 5 
  
- 
-
 ## Page 34
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 34
 Course Title: Corporate Accounting Course Code:23MBCC203 
 L-T-P:  3-0-0 Credits:  3 Contact Hours:03 Sessions/week 
@@ -1867,11 +1430,8 @@ module.   1 Module 2
 
 ## Page 35
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 35
  
 Program : B.Com (General/IFA) 
@@ -1903,7 +1463,6 @@ Reference Books:
 • Audit and Assurance, Kaplan Publications. 
 • Audit and Assurance, BPP Publications. 
  
-  
  Scheme for Semester End Examination (ESA): 
 UNIT 8 Questions to be set of 20 Marks Each 
 (Answer any 5Q out of 8) 
@@ -1915,21 +1474,10 @@ module.   1 Module 2
   1 Module 4 
   2 Module 5 
  
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 36
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 36
  
 Program : B.Com (General/IFA) 
@@ -1961,30 +1509,16 @@ Reference Books:
 • Audit and Assurance, Kaplan Publications. 
 • Audit and Assurance, BPP Publications. 
  
-  
  Scheme for Semester End Examination (ESA): ACCA Paper 
 Sec - A (MCQ) Answer all 12 Questions Each carries 1 mark 12 
 Sec - B (Descriptive) Answer all 04 Questions Each carries 7 marks 28 
 Sec - C (Descriptive) Answer 02 full Questions Each carries 15 marks 30 
 Total Marks 70 
  
- 
-  
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 37
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 37
  
 Program : B.Com (General/IFA) 
@@ -2037,14 +1571,10 @@ module.   1 Module 2
   1 Module 4 
   2 Module 5 
  
-
 ## Page 38
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 38
  
 Program : B.Com (General/IFA) 
@@ -2091,19 +1621,11 @@ Sec - B (Descriptive) Answer all 04 Questions Each carries 7 marks 28
 Sec - C (Descriptive) Answer 02 full Questions Each carries 15 marks 30 
 Total Marks 70 
  
- 
- 
- 
-
 ## Page 39
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 39
- 
  
 Program : B.Com  (General/IFA) 
 Course Title: Fundamentals Financial  Management Course Code : 23MBCE205 
@@ -2154,16 +1676,11 @@ Text Book:
 Reference Books: 
 • Financial Management, BPP Publications. 
   
-
 ## Page 40
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 40
- 
  
 Scheme for Semester End Examination (ESA): 
 UNIT 8 Questions to be set of 20 Marks Each 
@@ -2176,50 +1693,11 @@ module.   1 Module 2
   1 Module 4 
   2 Module 5 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 41
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 41
- 
  
 Program : B.Com  (General/IFA) 
 Course Title:  Financial  Management Course Code : 23MBCE206 
@@ -2272,11 +1750,8 @@ Reference Books:
 
 ## Page 42
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 42
  
  Scheme for Semester End Examination (ESA): ACCA Paper 
@@ -2285,51 +1760,10 @@ Sec - B (Descriptive) Answer all 04 Questions Each carries 7 marks 28
 Sec - C (Descriptive) Answer 02 full Questions Each carries 15 marks 30 
 Total Marks 70 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
-  
-
 ## Page 43
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 43
 Program : B.Com (General/IFA) 
 Course Title: Social Awareness Course Code : 23MBCP201 
@@ -2351,40 +1785,10 @@ homes. Visit to Government schools and conduct activities to children’s.
   
  No ESA Exam 
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
- 
- 
- 
- 
- 
- 
-  
-  
-
 ## Page 44
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 44
 Program : B.Com (General/IFA) 
 Course Title: Professional Aptitude Course Code : 24MBCP201 
@@ -2401,45 +1805,10 @@ Problems: Averages, Time Work.
   
  No ESA Exam 
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 45
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 45
 Program : B.Com (General/IFA) 
 Course Title: Legal Aspects of Business Course Code : 23MBCC204 
@@ -2479,25 +1848,10 @@ module.   1 Module 2
   1 Module 4 
   2 Module 5 
  
- 
- 
-  
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 46
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 46
  
 Program : B.Com (General/IFA) 
@@ -2527,7 +1881,6 @@ References:
 • Punithavati Pandyan, Security Analysis and Portfolio Management, Latest edition, Vikas Publ. 
 • Fischer & Jordan, Security Analysis & Portfolio Management, Prentice Hall 
   
-  
  Scheme for Semester End Examination (ESA):  
 UNIT 8 Questions to be set of 20 Marks Each 
 (Answer any 5Q out of 8) 
@@ -2539,23 +1892,10 @@ module.   1 Module 2
   1 Module 4 
   2 Module 5 
  
- 
-  
- 
- 
- 
- 
- 
-  
- 
-
 ## Page 47
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 47
 Program : B.Com  (General/IFA) 
 Course Title:  Business Research Methods Course Code : 23MBCC206 
@@ -2610,11 +1950,8 @@ module.   1 Module 2
 
 ## Page 48
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 48
  
 Program : B.Com (General/IFA) 
@@ -2661,18 +1998,10 @@ module.   1 Module 2
   1 Module 4 
   2 Module 5 
  
- 
- 
- 
- 
-
 ## Page 49
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 49
 Program : B.Com (General/IFA) 
 Course Title: Indian Constitution Course Code : 23MBCC208 
@@ -2721,11 +2050,8 @@ Answer 2 out of 3 each, each carries
 
 ## Page 50
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 50
  
 Program : B.Com (General/IFA) 
@@ -2782,11 +2108,8 @@ module.   1 Module 2
 
 ## Page 51
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 51
  
 Program : B.Com (General/IFA) 
@@ -2839,11 +2162,8 @@ Total Marks 70
 
 ## Page 52
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 52
  
 Program : B.Com (General/IFA) 
@@ -2893,16 +2213,10 @@ Reference Books:
 • GST - Law & Practice: Dr. B.G. Bhaskara, Manjunath. N & Naveen Kumar IM. 
 • Understanding GST: Kamal Garg, Barat's Publication. 
   
- 
- 
-
 ## Page 53
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 53
  
 Scheme for Semester End Examination (ESA):  
@@ -2916,51 +2230,11 @@ module.   1 Module 2
   1 Module 4 
   2 Module 5 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 54
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 54
- 
  
 Program : B.Com (General/IFA) 
 Course Title: Taxation Course Code : 23MBCE210 
@@ -3009,14 +2283,10 @@ Reference Books:
 • GST - Law & Practice: Dr. B.G. Bhaskara, Manjunath. N & Naveen Kumar IM. 
 • Understanding GST: Kamal Garg, Barat's Publication. 
   
-
 ## Page 55
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 55
  Scheme for Semester End Examination (ESA): ACCA Paper 
 Sec - A (MCQ) Answer all 12 Questions Each carries 1 mark 12 
@@ -3024,53 +2294,10 @@ Sec - B (Descriptive) Answer all 04 Questions Each carries 7 marks 28
 Sec - C (Descriptive) Answer 02 full Questions Each carries 15 marks 30 
 Total Marks 70 
  
- 
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 56
 
- 
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 56
   
 Program : B.Com (General/IFA) 
@@ -3087,34 +2314,4 @@ Team Building & Leadership Skills: Communication in a Team, Leadership Styles, P
 Ethics. 
   
 No ESA Exam 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  

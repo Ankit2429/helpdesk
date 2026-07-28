@@ -1,4 +1,5 @@
 # PDF Document: 8imguf_MOMIQAC16May22and7July21609
+
 **PDF Source:** https://www.kletech.ac.in/Uploads/image/8imguf_MOMIQAC16May22and7July21609.pdf
 
 ## Page 1
@@ -20,7 +21,6 @@ Following is the agenda for the meeting:
 3.   Any other matter with the permission of the chair.
 inator, lcIAC
 Copy to: Registrar / Finance Officer / HOD's of School
-
 
 ## Page 2
 
@@ -60,7 +60,6 @@ Alumni Representative
 Dr. Sanjay Kotabagi -Dean Student Welfare Coordinator -lcIAC
 .zfatfri-
 
-
 ## Page 3
 
 KLE Technological
@@ -90,8 +89,6 @@ ln view of few administrative changes and requirement it was decided to re-const
 composition   of   lQAC.   The   chairman   advised   the   .Director,   IQAC   to   nominate   the
 composition as per NAAC / AQAR guidelines.
 The meeting was concluded with a formal vote of thanks by lQAC coordinator.
-#+ffiCoordinator, lcIAC
-
 
 ## Page 4
 
@@ -118,7 +115,6 @@ points               . A 1 i              ~, \ Besponsibti]ity
 REEEE
 Diredor - lQAC
 KLE Techrologlcal unbersfty Hubballl.
-
 
 ## Page 5
 

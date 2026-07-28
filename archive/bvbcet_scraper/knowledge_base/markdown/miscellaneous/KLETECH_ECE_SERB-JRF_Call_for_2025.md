@@ -1,4 +1,5 @@
 # PDF Document: KLETECH_ECE_SERB-JRF_Call_for_2025
+
 **PDF Source:** https://www.kletech.ac.in/pdf/KLETECH_ECE_SERB-JRF_Call_for_2025.pdf
 
 ## Page 1
@@ -6,7 +7,6 @@
 KLE Technological University 
 School of Electronics and Communication Engineering 
 BVB Campus, Vidyanagar, Hubballi, Karnataka - 580031 
- 
  
 Ref. No:            Date:25-03-2025 
  
@@ -86,14 +86,11 @@ Tests like NET
 Work experience (if any) 
 Sl.no. Duration Organization Designation Nature of work 
      
-     
 Publication details (if any) 
  
 Motivation to apply for this position 
  
 Any other relevant information. 
- 
- 
  
 All the above information provided by me is true to the best of my knowledge and I understand that, if found 
 incorrect, I may be disallowed to appear for the interview/test or terminated at any stage. 
@@ -103,6 +100,4 @@ Place :
 Date: 
  
 Signature of the candidate 
- 
- 
  

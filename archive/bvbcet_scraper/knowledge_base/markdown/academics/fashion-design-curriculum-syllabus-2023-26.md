@@ -1,45 +1,19 @@
 # PDF Document: fashion-design-curriculum-syllabus-2023-26
+
 **PDF Source:** https://www.kletech.ac.in/pdf/fashion-design-curriculum-syllabus-2023-26.pdf
 
 ## Page 1
 
- 
 FMCD2009 / 2.0 
  1 
- 
- 
- 
- 
- 
  
 Curriculum Structure and Curriculum Content 
 Department: Fashion & Apparel Design 
 Program: B.Sc. Fashion & Apparel Design 
 (2023-26 Batch) 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 2
 
- 
 FMCD2009 / 2.0 
  2 
  
@@ -59,16 +33,8 @@ List of Open Electives .........................................................
 List of Program Electives ................................................................................... 13 
 Curriculum Content- Course wise ...................................................................... 14 
  
- 
- 
- 
- 
- 
-  
-
 ## Page 3
 
- 
 FMCD2009 / 2.0 
  3 
  
@@ -76,11 +42,9 @@ Vision and Mission of KLE Technological University
  
 Vision 
  
- 
 KLE Technological University will be a national leader in Higher Education –
 recognised globally for innovative culture, outstanding student experience, 
 research excellence and social impact. 
- 
  
 Mission 
  
@@ -106,7 +70,6 @@ of collaboration and partnership to accomplish our mission.
 
 ## Page 4
 
- 
 FMCD2009 / 2.0 
  4 
  
@@ -132,18 +95,8 @@ opportunities.
 successful fashion entrepreneurs and industry trailblazers, integrating traditional 
 craftsmanship with contemporary innovation. 
  
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 5
 
- 
 FMCD2009 / 2.0 
  5 
 Program Educational Objectives/Program Outcomes and Program-Specific Objectives 
@@ -195,7 +148,6 @@ Industry.
 
 ## Page 6
 
- 
 FMCD2009 / 2.0 
  6 
 Curriculum Structure –Overall   
@@ -346,7 +298,6 @@ Credits 24 22 22 22 25 20
 
 ## Page 7
 
- 
 FMCD2009 / 2.0 
  7 
 Curriculum Structure-Semester wise 
@@ -377,7 +328,6 @@ TOTAL  15-0-9 24
 
 ## Page 8
 
- 
 FMCD2009 / 2.0 
  8 
 Semester - II 
@@ -407,7 +357,6 @@ TOTAL  12-0-10 22
 
 ## Page 9
 
- 
 FMCD2009 / 2.0 
  9 
 Semester - III 
@@ -430,7 +379,6 @@ TOTAL  11-0-11 22
 
 ## Page 10
 
- 
 FMCD2009 / 2.0 
  10 
 Semester - IV 
@@ -457,7 +405,6 @@ TOTAL  11-0-11 22
 
 ## Page 11
 
- 
 FMCD2009 / 2.0 
  11 
 Semester - V 
@@ -489,7 +436,6 @@ TOTAL  11-0-14 25
 
 ## Page 12
 
- 
 FMCD2009 / 2.0 
  12 
  
@@ -514,7 +460,6 @@ TOTAL  11-0-11 20
 
 ## Page 13
 
- 
 FMCD2009 / 2.0 
  13 
  
@@ -529,25 +474,8 @@ Sr. No Name of the Course Course Code
  
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 14
 
- 
 FMCD2009 / 2.0 
  14 
 Curriculum Content- Course wise 
@@ -589,10 +517,8 @@ Fancy yarns- Types, properties and end use. Texturization- Types properties and 
 threads- types, properties and end use. yarn twist and yarn count, folded yarn -2-ply and 3 -ply 
 yarns. 
  
-
 ## Page 15
 
- 
 FMCD2009 / 2.0 
  15 
 Chapter 7 Fabric manufacture – preparatory process 
@@ -622,20 +548,8 @@ Manchester,1989, ISBN: 0 900739 258.
  
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 16
 
- 
 FMCD2009 / 2.0 
  16 
 Course Code: 23 DFDP101 Course Title: Textile Studies –I Lab 
@@ -673,10 +587,8 @@ samples for each category (sample size 4 x 4 inches).
  
 BACK 
   
-
 ## Page 17
 
- 
 FMCD2009 / 2.0 
  17 
 Course Code: 23DFDC102 Course Title: Fashion Design & Illustration - 1 
@@ -724,7 +636,6 @@ Publishing India Private Limited, 2007.
 
 ## Page 18
 
- 
 FMCD2009 / 2.0 
  18 
 3. James Stockton, “Designers Guide to Colour", Chronicle Books, San Francisco, 1984. 
@@ -736,31 +647,8 @@ Ltd.,2003.
  
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 19
 
- 
 FMCD2009 / 2.0 
  19 
  
@@ -794,14 +682,8 @@ Basic coqui- fashion figure- 12 head ( Female)
  
 BACK 
  
- 
- 
- 
- 
-
 ## Page 20
 
- 
 FMCD2009 / 2.0 
  20 
 Chapter 1: Fashion Communication 
@@ -835,7 +717,6 @@ Chapter 8: Fashion Communication Ethics
 Ethical Considerations in Fashion Communication, Cultural Sensitivity and Diversity in Fashion 
 Representation.  
   
- 
 Reference Books 
 1. Sanda Miller, Fashion journalism: History, Theory and Practice, Bloomsbury publishing, 
 2018. 
@@ -846,7 +727,6 @@ Teaching Hrs: 40  Exam Duration: 3 Hrs
 
 ## Page 21
 
- 
 FMCD2009 / 2.0 
  21 
 2. Kate Nelson Bet, The history and fashion journalism, Berg publishers, 2017.  
@@ -859,38 +739,8 @@ Fairchild.
  
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 22
 
- 
 FMCD2009 / 2.0 
  22 
 Course Code: 23DFDP104 Course Title: Pattern Making and Garment 
@@ -924,11 +774,8 @@ faced placket, Zipper plackets.
 9 Design and develop kid’s wear – A Line & pleated frocks. 
 BACK 
  
-  
-
 ## Page 23
 
- 
 FMCD2009 / 2.0 
  23 
 Course Code: 23DFDP105 Course Title: Needle Craft 
@@ -955,11 +802,8 @@ Knots, Braiding
  
 BACK 
  
-  
-
 ## Page 24
 
- 
 FMCD2009 / 2.0 
  24 
 Course Code: 23DFDH101 Course Title: Professional Communication- I 
@@ -988,11 +832,8 @@ References:
 3. Martin Hewings- Advanced English Grammar, Cambridge University Press. 
 BACK 
  
-  
-
 ## Page 25
 
- 
 FMCD2009 / 2.0 
  25 
 Course Code: 23DFDO101 Course Title: Digital Fluency 
@@ -1031,10 +872,8 @@ technology, Internet of Things (IoT), Sustainable technology, V oice Commerce,
 8 CANV A Designs  
 BACK 
  
-
 ## Page 26
 
- 
 FMCD2009 / 2.0 
  26 
 SEMESTER-II 
@@ -1079,10 +918,8 @@ Chapter-8 Preparation and Pre-treatment
 Introduction to the fabric preparatory processes, Terminologies, singeing, designing, scouring, 
 bleaching, mercerizing processes. 
  
-
 ## Page 27
 
- 
 FMCD2009 / 2.0 
  27 
 Reference books 
@@ -1098,10 +935,8 @@ Reference books
  
 BACK 
   
-
 ## Page 28
 
- 
 FMCD2009 / 2.0 
  28 
 Course Code: 23DFDP106 Course Title: Fabric Structure and Colouration Lab 
@@ -1126,10 +961,8 @@ Pre-processing of textiles: scouring of cotton fabric
 Pre-processing of textiles: Optical whitening, mercerization 
 BACK 
   
-
 ## Page 29
 
- 
 FMCD2009 / 2.0 
  29 
 Course Code: 23DFDC107 Course Title: Garment Manufacturing Technology 
@@ -1174,12 +1007,8 @@ and fusing equipment. Fusing machines, fusing materials, components of fusing, t
 Chapter 8- In process quality inspection, objectives, advantages, inspection methods. Final inspection, 
 random inspection, AQL inspection method for shirts, trouser and kid’s garments. 
  
- 
- 
-
 ## Page 30
 
- 
 FMCD2009 / 2.0 
  30 
 References 
@@ -1195,10 +1024,8 @@ Garment Technology for Fashion Designers", John Wiley & Sons, 2011
  
 BACK 
   
-
 ## Page 31
 
- 
 FMCD2009 / 2.0 
  31 
 Course Code: 23DFDC108 Course Title: Fashion Design  
@@ -1241,7 +1068,6 @@ painting& Piercings
 
 ## Page 32
 
- 
 FMCD2009 / 2.0 
  32 
 Fashion Psychology, role of clothing in physical, social, psychological and cultural scenario, How 
@@ -1260,7 +1086,6 @@ Hilfiger, Calvin Klein and their brands based on followingcriteria - Introductio
 education, specialty, brand / label,contribution to fashion, product range, outlets, collection showcase. 
 Fashionbrands, fashion capitals, fashion icons and role of fashion in movies, sports,and politics. 
  
- 
  References 
 1. ElisabettaDrudi, TizianaPaci, “Figure Drawing for Fashion Design”, Pepin Press 
 Publication, 2002. 
@@ -1275,10 +1100,8 @@ Publishing India Private Limited, 2007.
 Ltd.,2003. 
                                                                                                                                             BACK 
   
-
 ## Page 33
 
- 
 FMCD2009 / 2.0 
  33 
 Course Code: 23DFDP109 Course Title: Fashion Illustration Lab 
@@ -1311,11 +1134,8 @@ Development of folio with design concepts inspired by one International Designer
 Christian Dior, Gianni Versace, Coco Chanel, Donna Karan, Calvin Klein. 
 BACK 
  
-  
-
 ## Page 34
 
- 
 FMCD2009 / 2.0 
  34 
 Course Code: 23DFDP110 Course Title: Garment Detailing Lab 
@@ -1359,11 +1179,8 @@ Design garments for women using major and minor components. (Two Garments)
 Develop garments for women using major and minor components. (Two Garments) 
 BACK 
  
-  
-
 ## Page 35
 
- 
 FMCD2009 / 2.0 
  35 
 Course Code: 23DFDP111 Course Title: Fabric Artistry & Embroidery 
@@ -1398,11 +1215,8 @@ Developing samples using smocking technique (10)
 Design and develop 1 products using smocking technique 
 BACK 
  
-  
-
 ## Page 36
 
- 
 FMCD2009 / 2.0 
  36 
 Course Code: 23DFDH102 Course Title: Intermediate English 
@@ -1429,18 +1243,8 @@ References:
 3. Martin Hewings- Advanced English Grammar, Cambridge University Press. 
                                                                                                                                                               BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 37
 
- 
 FMCD2009 / 2.0 
  37 
  
@@ -1469,17 +1273,8 @@ Publish and generate traffic to social media and website
  
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 38
 
- 
 FMCD2009 / 2.0 
  38 
 III Semester  
@@ -1520,10 +1315,8 @@ Use of Eco-labeled chemicals and dyes.
 Chapter-8 Recent Trends and Innovation 
 Green Processing, Green marketing, Dyeing Machineries, Biodegradable packages. 
  
-
 ## Page 39
 
- 
 FMCD2009 / 2.0 
  39 
 References: 
@@ -1537,7 +1330,6 @@ NCUTE 2003.
 5. V.A. Shenai, “Principles & Practice of Dyeing”, Sevak Publications, Bombay, 2000 
 6. Arthur D Broadbent, “Basic Principles of Textile Coloration”, Society of Dyers and Colouris, 2001. 
 7. Bhagwat R.S “Handbook of Textile Processing Machinery”, Colour Publication, Mumbai, 1999. 
- 
  
 Course Title: Textile Wet Processing Lab 
 1 Dyeing of cotton using Basic dyes 
@@ -1561,17 +1353,8 @@ Eco-Printing
  
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 40
 
- 
 FMCD2009 / 2.0 
  40 
  
@@ -1617,7 +1400,6 @@ in Trend Analysis, Process and application of Trend Analysis and Trend presentat
 
 ## Page 41
 
- 
 FMCD2009 / 2.0 
  41 
  
@@ -1643,24 +1425,12 @@ References
 7. Bryan Lawson. (2005). How Designers Think: The design process demystified. Biddles Ltd.  
 8. Nigel Cross. (2011). Design Thinking. Breg Publishers.  
  
- 
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 42
 
- 
 FMCD2009 / 2.0 
  42 
- 
  
 Program: III Semester B Sc Fashion & Apparel Design 
 Course Title: Fashion Event Management Course Code: 24DFDC203 
@@ -1702,7 +1472,6 @@ Security related issues: Handling other legal issues of event management.
 
 ## Page 43
 
- 
 FMCD2009 / 2.0 
  43 
 UNIT III 
@@ -1730,20 +1499,10 @@ Boston,2013.
 9. Julia Rutherford Silvers, “Professional Event Co-ordination”, Wiley, 2nd edition, 
 UnitedKingdom, 2012. 
  
- 
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 44
 
- 
 FMCD2009 / 2.0 
  44 
  
@@ -1769,19 +1528,8 @@ colour, client, texture and fabric swatch boards based on current trend.
 8 Design development - thematic figure composition. 
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 45
 
- 
 FMCD2009 / 2.0 
  45 
 Program: III Semester B Sc Fashion & Apparel Design 
@@ -1819,13 +1567,8 @@ Design & develop of flat sketches along with stitch specification for the follow
  
 BACK 
  
- 
- 
- 
-
 ## Page 46
 
- 
 FMCD2009 / 2.0 
  46 
 Program: III Semester B Sc Fashion & Apparel Design 
@@ -1874,10 +1617,8 @@ garments.
 - Develop cost sheets 
 BACK 
  
-
 ## Page 47
 
- 
 FMCD2009 / 2.0 
  47 
 Program: III Semester B Sc Fashion & Apparel Design 
@@ -1908,17 +1649,8 @@ References
  
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 48
 
- 
 FMCD2009 / 2.0 
  48 
 Scheme Program: III Semester B Sc Fashion & Apparel Design 
@@ -1963,10 +1695,8 @@ Report writing and Presentation: - Guidelines for research and citation, Assignm
 Bibliography, Conclusion, Presentation skills and tips. 
 BACK 
  
-
 ## Page 49
 
- 
 FMCD2009 / 2.0 
  49 
 Semester: IV 
@@ -2005,7 +1735,6 @@ colorfastness to rubbing, colorfastness to perspiration and colorfastness to lig
 
 ## Page 50
 
- 
 FMCD2009 / 2.0 
  50 
 UNIT III 
@@ -2048,7 +1777,6 @@ BACK
 
 ## Page 51
 
- 
 FMCD2009 / 2.0 
  51 
 Program:  IV Semester B Sc Fashion & Apparel Design 
@@ -2078,10 +1806,8 @@ Textiles & costumes-
 • Mughal 
 • Colonial and Post-Colonial Clothing 
  
-
 ## Page 52
 
- 
 FMCD2009 / 2.0 
  52 
 UNIT III 
@@ -2107,21 +1833,10 @@ Fairchild Publication,2009
 8. Costume, Textiles and jewellery of India – Vandana Bhandari 
 9. World Dress Fashion in Detail – RosemeryCrill, Jennifer Wearden and Verity Wilson 
  
- 
- 
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 53
 
- 
 FMCD2009 / 2.0 
  53 
 Program:  IV Semester B Sc Fashion & Apparel Design 
@@ -2165,7 +1880,6 @@ Warli Painting, Paithani Saris, Kolhapur Chappal, crochet, Kaavi art & Hand Pain
 
 ## Page 54
 
- 
 FMCD2009 / 2.0 
  54 
 Unit III 
@@ -2191,22 +1905,8 @@ New Delhi, 1977
  
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 55
 
- 
 FMCD2009 / 2.0 
  55 
 Program:  IV Semester B Sc Fashion & Apparel Design 
@@ -2239,7 +1939,6 @@ BACK
 
 ## Page 56
 
- 
 FMCD2009 / 2.0 
  56 
 Program:  IV Semester B Sc Fashion & Apparel Design 
@@ -2273,10 +1972,8 @@ Toss repeat. (any 3)
 Create all over, Seam less pattern 
 Design and develop of Saree with Borders, Pallu and Allover.  
  
-
 ## Page 57
 
- 
 FMCD2009 / 2.0 
  57 
 6 Designing Apparels 
@@ -2302,23 +1999,10 @@ plan –
  Dress/ Top 
  Shorts/Trousers and Kurtha.  
  
- 
- 
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 58
 
- 
 FMCD2009 / 2.0 
  58 
 Program:  IV Semester B Sc Fashion & Apparel Design 
@@ -2364,7 +2048,6 @@ Drape a Innovative sleeves suitable for women’s Top
 
 ## Page 59
 
- 
 FMCD2009 / 2.0 
  59 
 6 Developing Garments 
@@ -2380,29 +2063,10 @@ Skirt & Top using draping technique with combining any of the draping techniques
 features. 
 Evening gown using draping technique based on theme, with any two Style features. 
  
- 
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 60
 
- 
 FMCD2009 / 2.0 
  60 
 Program:  IV Semester B Sc Fashion & Apparel Design 
@@ -2427,17 +2091,10 @@ References:
 2. Raymond Murphy - Intermediate English Grammar, Cambridge University Press 
 3. Martin Hewings- Advanced English Grammar, Cambridge University Press. 
  
- 
 BACK 
  
- 
- 
- 
- 
-
 ## Page 61
 
- 
 FMCD2009 / 2.0 
  61 
 Program:  IV Semester B Sc Fashion & Apparel Design 
@@ -2480,10 +2137,8 @@ for selecting camera and lens.
 • Compositions 
 BACK 
  
-
 ## Page 62
 
- 
 FMCD2009 / 2.0 
  62 
 Semester: V 
@@ -2518,7 +2173,6 @@ Adversarial Examples and Implications in Fashion AI
 
 ## Page 63
 
- 
 FMCD2009 / 2.0 
  63 
 Chapter 5:  Virtual Stylists and Fashion Assistants 
@@ -2577,7 +2231,6 @@ differences.
 
 ## Page 64
 
- 
 FMCD2009 / 2.0 
  64 
 Fashion 
@@ -2637,18 +2290,10 @@ VIVA
 4 Fashion Retail  
   Total 100  
  
- 
 BACK 
  
- 
- 
- 
- 
- 
-
 ## Page 65
 
- 
 FMCD2009 / 2.0 
  65 
 Program: V Semester B Sc Fashion & Apparel Design 
@@ -2686,10 +2331,8 @@ Chapter 6 – Social Innovation and Ethical Practices
 Ethical Fashion Movements, Consumer Awareness and Behavior, Diversity and Inclusion in Fashion, Empowering 
 Communities, Certifications and Standards 
  
-
 ## Page 66
 
- 
 FMCD2009 / 2.0 
  66 
 Unit III 
@@ -2718,20 +2361,8 @@ International.
  
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 67
 
- 
 FMCD2009 / 2.0 
  67 
 Program: V Semester B Sc Fashion & Apparel Design 
@@ -2775,7 +2406,6 @@ of Sale (POS), Planning, Directing, Lead Time Coordinating, and Regulating.
 
 ## Page 68
 
- 
 FMCD2009 / 2.0 
  68 
 UNIT III 
@@ -2806,18 +2436,8 @@ References
          Perspective”, Bloomsbury Publishing India Private Limited, 2012. 
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 69
 
- 
 FMCD2009 / 2.0 
  69 
 Program: V Semester B Sc Fashion & Apparel Design 
@@ -2854,10 +2474,8 @@ industry, government concessions and encouragement to MSME, procedure for regist
 portal, Types of ownership – sole proprietorship, partnership and co-operative, limited liability Companies– merits 
 and demerits. 
  
-
 ## Page 70
 
- 
 FMCD2009 / 2.0 
  70 
 UNIT III 
@@ -2884,21 +2502,8 @@ References
          Perspective”, Bloomsbury Publishing India Private Limited, 2012. 
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 71
 
- 
 FMCD2009 / 2.0 
  71 
 Program: V Semester B Sc Fashion & Apparel Design 
@@ -2934,12 +2539,8 @@ Muslin – Types, Study of Grains, types of muslin, preparation of muslin.
 - Design and develop a complete garment by combining any of the above techniques. 
 BACK 
  
- 
- 
-
 ## Page 72
 
- 
 FMCD2009 / 2.0 
  72 
 Program: V Semester B Sc Fashion & Apparel Design 
@@ -2965,17 +2566,8 @@ Costing for the developed products.
  
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 73
 
- 
 FMCD2009 / 2.0 
  73 
 Program: VI Semester B Sc Fashion & Apparel Design 
@@ -3002,20 +2594,10 @@ Develop the concept
 6 Create a range of collections inspired by the chosen costume designer 
 7 Report on evolution of film costume and its influence in fashion  
  
- 
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 74
 
- 
 FMCD2009 / 2.0 
  74 
 Program: V Semester B Sc Fashion & Apparel Design 
@@ -3052,7 +2634,6 @@ Typographic Elements in Brand Communication
 
 ## Page 75
 
- 
 FMCD2009 / 2.0 
  75 
 Assignment: Typographic Hierarchy Exercise. Design a promotional poster for a fashion brand using 
@@ -3070,32 +2651,8 @@ Assignment: Design Fashion Graphic Design Portfolio
  
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 76
 
- 
 FMCD2009 / 2.0 
  76 
 Program: V Semester B Sc Fashion & Apparel Design 
@@ -3125,14 +2682,8 @@ analysis of the results and concluding. Present in the form of written document 
 presentation. 
 BACK 
  
- 
- 
- 
- 
-
 ## Page 77
 
- 
 FMCD2009 / 2.0 
  77 
 Semester: VI 
@@ -3167,10 +2718,8 @@ Chapter-6 Designing with Smart Textiles
 Principles of designing with smart textiles. Ideation & sketching for smart textiles 
 Case studies of innovative smart textile designs in fashion 
  
-
 ## Page 78
 
- 
 FMCD2009 / 2.0 
  78 
 Unit III 
@@ -3197,20 +2746,8 @@ Management Association
 Seymour 
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 79
 
- 
 FMCD2009 / 2.0 
  79 
 Program: VI Semester B Sc Fashion & Apparel Design 
@@ -3253,7 +2790,6 @@ digital marketing performance
 
 ## Page 80
 
- 
 FMCD2009 / 2.0 
  80 
 UNIT III 
@@ -3281,21 +2817,8 @@ Retail Business By Emily Benson
  
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 81
 
- 
 FMCD2009 / 2.0 
  81 
 Program: VI Semester B Sc Fashion & Apparel Design 
@@ -3326,10 +2849,8 @@ Environmental impacts of leather production, Sustainable practices and certifica
 manufacturing, Ethical considerations in sourcing materials and production processes, Regulatory frameworks 
 and stands. 
  
-
 ## Page 82
 
- 
 FMCD2009 / 2.0 
  82 
 UNIT III 
@@ -3350,20 +2871,10 @@ References
 7. "Handbook of Leather Manufacture" by Dr. H. R. Procter 
 8. "Leather Science and Technology" by Dr. T. D. Sengupta 
  
- 
- 
 BACK 
  
- 
- 
- 
- 
- 
- 
-
 ## Page 83
 
- 
 FMCD2009 / 2.0 
  83 
 Program: VI Semester B Sc Fashion & Apparel Design 
@@ -3399,14 +2910,8 @@ Develop a layout for given outlet and design a visual display using designing so
 • Couture collections 
 BACK 
  
- 
- 
- 
-  
-
 ## Page 84
 
- 
 FMCD2009 / 2.0 
  84 
 Program: VI Semester B Sc Fashion & Apparel Design 
@@ -3437,16 +2942,8 @@ Assignment: Graphic Design Final Portfolio
  
 BACK 
  
- 
- 
- 
- 
- 
- 
-
 ## Page 85
 
- 
 FMCD2009 / 2.0 
  85 
 Program: VI Semester B Sc Fashion & Apparel Design 
@@ -3495,7 +2992,6 @@ ACTIVITIES OF DIFFERENT DEPARTMENT
 
 ## Page 86
 
- 
 FMCD2009 / 2.0 
  86 
 4 CHAPTER FOUR (FOCUSING DEPARTMENT) 
@@ -3528,18 +3024,8 @@ Reflection on lifelong learning from internship.
  
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 87
 
- 
 FMCD2009 / 2.0 
  87 
 Program: VI Semester B Sc Fashion & Apparel Design 
@@ -3575,7 +3061,6 @@ Board. Design Development Sheets
 
 ## Page 88
 
- 
 FMCD2009 / 2.0 
  88 
  Making toile fit for the collection  
@@ -3585,10 +3070,8 @@ Preparing Fabric layout plan
 18 Design Collection inspired by any one international designer of your Choice (5 designs). 
 BACK 
  
-
 ## Page 89
 
- 
 FMCD2009 / 2.0 
  89 
 Program: B.Sc Fashion and Apparel Design Semester: VI 
@@ -3633,32 +3116,15 @@ in fashion industry.
 Concept of sustainable fashion, Fashion and Environment 
  
 Chapter No. 8 Intellectual Property Rights  
-Intellectual Property Rights (IPRs)- Patents, Copyright and Designs 
  
 Chapter No. 9 Ethical perspectives of professional bodies  
 
 ## Page 90
 
- 
 FMCD2009 / 2.0 
  90 
  
  BACK 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Code of ethics in fashion - International Textile and Apparel Association (ITAA) Global Organic Textile 
 Standard (GOTS) and Fair Wear Foundation (FWF) 

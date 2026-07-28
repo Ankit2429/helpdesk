@@ -1,11 +1,9 @@
 # PDF Document: 14th_BOG_Minutes
+
 **PDF Source:** https://www.kletech.ac.in/pdf/14th_BOG_Minutes.pdf
 
 ## Page 1
 
- 
- 
- 
 Minutes 
  
 14th Board of Governors Meeting (Online) 
@@ -14,12 +12,6 @@ KLE Technological University,
 Hubballi, Karnataka 
 11th September, 2021 at 11.30 am  
  
- 
- 
- 
- 
- 
-
 ## Page 2
 
 ii 
@@ -70,22 +62,15 @@ Member
 Government of Karnataka. 
 Member 
  
-
 ## Page 3
 
 iii 
  
 BOG 14 Online meeting screenshots 
  
- 
- 
- 
- 
-
 ## Page 4
 
 iv 
- 
  
 Agenda 
  
@@ -129,7 +114,6 @@ programmes.
 Separately 
 attached 
  
-
 ## Page 5
 
 1 
@@ -190,7 +174,6 @@ Member
 Government of Karnataka. 
 Member 
  
-
 ## Page 6
 
 2 
@@ -337,7 +320,6 @@ the matter.
 Chairman thanked all the members for their contributions and the meeting was concluded with a 
 vote of thanks to the Chair. 
  
- 
 Action Requested: To confirm the minutes of the 13th BOG meeting held on 9th March 
 2021. 
  
@@ -346,20 +328,13 @@ observations or comments on the minutes of the 13th BOG meeting, which was
 circulated earlier . There were no specific comments or observations on the minutes of 
 the 13th meeting. 
  
- 
 Resolution 14.1: The Board of Governors confirmed the minutes of 
 its 13th meeting of the Board of Governors held on 9th March 2021 in 
 online mode. 
  
- 
- 
- 
- 
-
 ## Page 10
 
 6 
- 
  
 BOG 
 14.2 
@@ -430,8 +405,6 @@ expenditure is in line with the approved Budget 2020-
 The UGC Expert Committee for 12B visited the 
 University on 21st & 22nd of August 2021.  
  
- 
-
 ## Page 12
 
 8 
@@ -531,7 +504,6 @@ project closure will be on 30th September 2021, and any
 additional expenditures related audit will be paid 
 directly by the NPIU. 
  
-
 ## Page 14
 
 10 
@@ -573,8 +545,6 @@ intake by 60 in the Mechanical Engineering programme.
 With this the revised intake of Mechanical Engineering 
 will be 180. 
  
- 
-
 ## Page 15
 
 11 
@@ -588,7 +558,6 @@ and do the needful in the matter.
  
 Chairman thanked all the members for their contributions, and the meeting was concluded with a vote of thanks to the Chair. 
  
- 
 Action Requested: To confirm the action taken on the minutes of 13th Board of Governors meeting of KLE Technological 
 University, Hubballi. 
  
@@ -597,8 +566,6 @@ Prof. H.P . Khincha, former Vice-Chancellor of Visvesvaraya Technological Univer
 he would explore the possibilities of having the proposed experts as new members of the BOG. 
  
 Prof.R.Natarajan asked to permit R.A.’s to register for PhD. Further, he advised checking for sufficiency of faculty in the ‘Artificial Intelligence’ area. 
- 
- 
  
 Resolution 14.2: Resolved to confirm the action taken report on the minutes of the previous 
 meeting held on 9th March 2021. 
@@ -646,13 +613,9 @@ year 2021-22:
 1. Bachelor of Science (Major - Computer Science) 
 2. Bachelor of Science (Major - Electronics) 
  
- 
- 
-
 ## Page 17
 
 13 
- 
  
 BOG 
 14.4 
@@ -664,10 +627,8 @@ preparing for further action.
 The status reports of KLE Dr . M.S. Sheshgiri College of Engineering and Technology, Belagavi 
 and KLE Society’s Law College, Bengaluru will be presented during the meeting.  
  
- 
 Action Requested: The BOG is requested to note the status report of the constituent 
 colleges. 
- 
  
 Discussion: Prof. R.Natarajan expressed concern over the ‘B’ grade obtained by the KLE Law 
 College, Bangalore, and the poor faculty to students ratio.  
@@ -679,13 +640,11 @@ college.
 Prof. Ashok Shettar, the Vice-chancellor assured that he would work on the advice of Smt. Sudha 
 Murty and take the help of Prof. Nigam in revamping the law college completely. 
  
- 
 Resolution: BOG noted the status report of the constituent colleges. 
 
 ## Page 18
 
 14 
- 
  
 BOG 
 14.5 
@@ -699,26 +658,19 @@ academic regulations are placed before the BOG for consideration and approval.
 The draft academic regulations governing U.G. & P .G. programmes of the legal studies 
 approved by the Executive Council are given in annexures 1. 
  
- 
 Action Requested: The BOG is requested to consider and approve the academic regulations 
 governing U.G. & P.G. programmes of Legal Studies. 
- 
- 
- 
  
 Discussion: Prof. Prakash Tewari, Dean Academics, presented the draft academic regulations 
 governing U.G. & P .G. programmes of Legal Studies and explained the salient points. The honorable 
 members expressed their consent. 
  
- 
 Resolution: Resolved to approve the academic regulations governing 
 U.G. & P.G. programmes of Legal Studies. 
  
-
 ## Page 19
 
 15 
- 
  
 BOG 
 14.6 
@@ -729,10 +681,8 @@ Hubballi requires representatives of these institutions in our Academic Council.
 of this, it is proposed to appoint the Principals of the constituent colleges as the new 
 members of the academic council of the KLE Technological University. 
  
- 
 Action Requested: The BOG is requested to approve the Principals of the constituent colleges 
 as new members of the Academic Council. 
- 
  
 Discussion: Prof. Ashok Shettar, the Vice-chancellor said we need the representation of the 
 constituent colleges in our academic council and hence requested the BOG to approve the Principals 
@@ -744,11 +694,9 @@ Belagavi and (2) Dr. J.M. Mallikarjunaiah, Principal, KLE Law College,
 Bengaluru as the new members of the Academic Council of the KLE 
 Technological University. 
  
-
 ## Page 20
 
 16 
- 
  
 BOG 14.7 To approve the new Board of Studies and Board of 
 Examiners for the new constituent Law College, 
@@ -759,8 +707,6 @@ Examiners for legal studies to design the curriculum and conduct examinations as
 per the University guidelines. 
 The proposed Board of Studies and the Board of Examiners are enclosed as 
 annexure 2. 
- 
- 
  
 Action Requested: The BOG is requested to approve the new Board of Studies and Board of 
 Examiners for the new constituent Law College, Bengaluru 
@@ -773,11 +719,9 @@ guidelines.
 Resolution: Resolved to approve the new Board of Studies and Board 
 of Examiners for the new constituent Law College, Bengaluru. 
  
-
 ## Page 21
 
 17 
- 
  
 BOG 
 14.8 
@@ -790,7 +734,6 @@ to be transferred from these constituent colleges to KLE Technological Universit
 phased manner to meet the academic workload.  
 As per the requirement, the Vice-Chancellor is directed to accept the transfers 
 proposed by the principals of the constituent colleges in a phased manner. 
- 
  
 Action Requested: The BOG is requested to authorize the Vice-Chancellor to accept the 
 transfers proposed by the principals of the constituent colleges in a phased manner . 
@@ -808,7 +751,6 @@ phased manner.
 ## Page 22
 
 18 
- 
  
 BOG 
 14.9 
@@ -841,11 +783,9 @@ Bengaluru, respectively.
 
 19 
  
- 
 BOG 
 14.10 
 Any other subject with the permission of the Chair 
- 
  
 Table agenda 1: To consider and approve the admission of B.Tech/B.E students in other branches 
 of engineering through lateral entry as per the AICTE circular (F. No. AICTE/ P&AP/ Misc/ 2O2O 
@@ -874,7 +814,6 @@ want to study another branch.
 Resolution: The BOG approved the implementation of lateral entry to the second B.E programme 
 as per the AICTE circular (F. No. AICTE/ P&AP/ Misc/ 2O2O dated 09-08-2021). 
  
-
 ## Page 24
 
 20 
@@ -927,7 +866,6 @@ Fertilizers, Chemicals, and Petroleum, New Delhi, India
 Development Studies on the “Status of India in Science and Technology as Reflected in its Publication 
 Output in Scopus International Database”, 1996-2006.   
  
- 
 The other eminent researchers of SAS are: 
 1. Prof. S.T. Nandibewoor, Electrochemistry and Analytical Chemistry 
 2. Prof. Shrishail Kubakaddi, Theoretical solid state physics 
@@ -945,5 +883,4 @@ College of Engineering and Technology.
  
 Resolution: The BOG noted the information presented regarding 
 School of Advanced Sciences. 
- 
  

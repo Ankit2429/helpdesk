@@ -1,4 +1,5 @@
 # PDF Document: 241imguf_KLE-Technological-University-Public-Mandatory-Disclosure
+
 **PDF Source:** https://www.kletech.ac.in/Uploads/image/241imguf_KLE-Technological-University-Public-Mandatory-Disclosure.pdf
 
 ## Page 1
@@ -407,10 +408,8 @@ Wise Faculty/
 https://www.kletech.ac.in/Uploads/image/255imguf_Teachi
 ngStaffListason16-01-2025.pdf 
    
-
 ## Page 7
 
- 
 Staff Details 
 with 
 Photographs 
@@ -540,7 +539,6 @@ https://www.kletech.ac.in/happenings/news
 
 ## Page 9
 
- 
 Job Openings https://www.kletech.ac.in/careers/current-
 positions 
 Reservation Roster 

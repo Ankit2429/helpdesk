@@ -1,12 +1,9 @@
 # PDF Document: FACULTY_CONCLAVE_PUBLICATIONS-2018
+
 **PDF Source:** https://www.kletech.ac.in/pdf/FACULTY CONCLAVE PUBLICATIONS-2018.pdf
 
 ## Page 1
 
- 
-  
- 
- 
 Earlier known as 
 B. V. B. College of Engineering & Technology 
 Faculty Conclave- 2018 
@@ -72,10 +69,6 @@ Mahantesh Halagatti
 
 ## Page 2
 
- 
-  
- 
- 
 Earlier known as 
 B. V. B. College of Engineering & Technology 
 13 Teaching Methodologies For Generation Z Kids Prakash Hegade 
@@ -133,10 +126,6 @@ Joshi
 
 ## Page 3
 
- 
-  
- 
- 
 Earlier known as 
 B. V. B. College of Engineering & Technology 
 28 Exploring The Capabilities Of Freshman Students 
@@ -177,6 +166,4 @@ Teaching Of Research Methodology Course At
 6Undergraduate Level 
 S. V. Desai, Zabin K. Bagewadi and Uday 
 M. Muddapur 
- 
- 
  

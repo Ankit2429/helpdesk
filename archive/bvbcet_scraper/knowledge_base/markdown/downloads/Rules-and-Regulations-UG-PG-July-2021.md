@@ -1,27 +1,18 @@
 # PDF Document: Rules-and-Regulations-UG-PG-July-2021
+
 **PDF Source:** https://www.kletech.ac.in/pdf/Rules-and-Regulations-UG-PG-July-2021.pdf
 
 ## Page 1
 
- 
- 
- 
 Regulations  
 Governing Undergraduate  
 Postgraduate Programmes of 
 KLE Technological University  
 2015 
  
- 
- 
- 
- 
- 
 KLE Technological University 
 (Established under Karnataka Act No.22, 2013) 
   
-
-
 ## Page 2
 
 ii 
@@ -589,9 +580,6 @@ circumstances, if deemed fit, he/she may reconstitute the
 Examinations Malpractice Review Committee before the 
 expiry of its term.  
 CHAPTER III  ADMISSION 
- 
- 
- 
  
   Admission to the University shall normally be made at the 
 commencement of each academic year for various 
@@ -1919,7 +1907,9 @@ time based on the Average & Standard Deviation will be
 used strictly for awarding grades to all the re-evaluated 
 courses and Summer semester Examinations. 
 Absolute Grading System 
+
 # Mark
+
 s 
 Letter 
 grade 
@@ -2136,7 +2126,6 @@ CGPA Equivalent Class/Division
 7.75-9.49 >70%  and <87.5% First class with 
 Distinction 
    
- 
   i  First Class with Distinction: A student completing a 
 Programme of study within the specified minimum 
 duration, securing a CGPA equal to or greater than 7.75 
@@ -2576,4 +2565,3 @@ JURISDICTION 90  All disputes arising from the regulations listed herein must be
  
 Council is final and binding on all parties. Any legal issues arising from this set of regulations shall be limited to the legal jurisdiction determined by the location of the College and not that of any other parties. 
   
- 

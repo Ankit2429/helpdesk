@@ -1,4 +1,5 @@
 # PDF Document: Regulations-Governing-MS-Programs-20-July-2020-2
+
 **PDF Source:** https://www.kletech.ac.in/pdf/Regulations-Governing-MS-Programs-20-July-2020-2.pdf
 
 ## Page 1
@@ -11,31 +12,12 @@ of
 KLE Technological University  
 2015 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
 KLE Technological University 
  
 (Established under Karnataka Act No.22, 2013) 
  
- 
- 
- 
- 
- 
- 
- 
-
-
 ## Page 2
 
- 
 1 MS 
 pro
 gra
@@ -172,7 +154,6 @@ the Vice-Chancellor for each  research scholar and shall consist of:
 Admissi
 ons  
  
- 
 Admission Rules and Regulations: List of faculties for which the 
 degrees are offered, minimum qualifications, and different categories of 
 MS by Research programs are announced by the University. 
@@ -217,7 +198,6 @@ along with other necessary documents.
 selected to MS (Engg) by Research program as decided by Admission 
 Committee, shall be called for registration. 
  
-
 ## Page 5
 
   1.2.8 Categories of  Research Scholars: 
@@ -366,7 +346,6 @@ research scholar is canceled.
 Evaluat
 ion 
  
- 
 Evaluation Process: Evaluation process involves eligibility check to 
 submit Thesis, Plagiarism issues, the conduct of final Viva-Voce for the 
 award of Degree. 
@@ -423,7 +402,6 @@ been awarded in accordance with the Regulations Governing the
 MS by Research Programme. The University shall confer the MS 
 by Research Degree to the successful scholars during the 
 forthcoming Convocation. 
-(b) Copy right: University shall hold the copyright of the thesis 
 submitted to it. 
   1.4.6 Submission of Thesis to UGC: 
 Following the successful completion of the evaluation process and 
@@ -457,7 +435,6 @@ ii) Making effort to intervene in external examiners evaluation work.
 
 ## Page 9
 
-  
 iii) Writing thesis valuation reports on behalf of external examiners 
 and making arrangements to send such reports from External 
 Examiners. 

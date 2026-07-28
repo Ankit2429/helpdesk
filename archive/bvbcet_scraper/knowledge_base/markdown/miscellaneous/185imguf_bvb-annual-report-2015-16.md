@@ -1,4 +1,5 @@
 # PDF Document: 185imguf_bvb-annual-report-2015-16
+
 **PDF Source:** https://www.kletech.ac.in/Uploads/image/185imguf_bvb-annual-report-2015-16.pdf
 
 ## Page 1
@@ -9,7 +10,6 @@ KLE Society's
 B. V. Bhoomaraddi
 College of Engineering & T echnology
 www.bvb.edu
-
 
 ## Page 2
 
@@ -93,7 +93,6 @@ We would like to extend our sincere thanks to our faculty, staff, students, alum
 their continued support and remarkable contributions. Looking ahead, we will continue to work towards 
 realizing our vision to be a leader in engineering education, and advancing research and innovation to 
 support socio-economic development of the region.
-
 
 ## Page 5
 
@@ -194,7 +193,6 @@ college to contribute to the growth of socio-
 economic potential of the region.
 Our Vision
 
-
 ## Page 7
 
   www.bvb.edu  |  5 
@@ -272,7 +270,6 @@ Sl. No. Program
 9. Master of Computer Application
 Undergraduate Programs
 
-
 ## Page 9
 
   www.bvb.edu  |  7 
@@ -304,7 +301,6 @@ strengthens our academic quality and inspires
 student achievement.
 Academic Quality
 
-
 ## Page 10
 
 8   | BVBCET
@@ -331,7 +327,6 @@ identified by analyzing combination of individual
 course reports and student works.  The frame 
 work adopted by the college is depicted in the 
 Figure below.
-
 
 ## Page 11
 
@@ -434,7 +429,6 @@ Av. IF=1.01
 Maximum=5.46
 Total 114 265 33 415 114 941
 
-
 ## Page 14
 
 12   | BVBCET
@@ -453,8 +447,6 @@ SI.NO Year Number of projects Amount sanctioned Funding Agency
 4 2015-16 02 23.31 L UAS, Continental Ltd Bangalore
 TOTAL 11 138.95 L
  
-
-
 ## Page 15
 
   www.bvb.edu  |  13 
@@ -511,7 +503,6 @@ Outcomes:
 • Number of products in progress: 1
 •Number of Industry and Institute collaborations: 2
 
-
 ## Page 16
 
 14   | BVBCET
@@ -555,7 +546,6 @@ Outcomes:
  •  Total fund received in 2015-16   : Rs.6.00L (in progress)
  •  Number of product development (in progress) : 03
  •  Number of Industry and Institute collaborations : 04
-
 
 ## Page 17
 
@@ -749,7 +739,6 @@ Vertical Screw Type
 Injection Molding Machine
 Plasma Cutting Machine
 
-
 ## Page 22
 
 20   | BVBCET
@@ -822,7 +811,6 @@ INSZoom 3
 Sankalp 4
 CrimsonLogic 1
 
-
 ## Page 23
 
   www.bvb.edu  |  21 
@@ -866,7 +854,6 @@ ties for Engineering Education’.It was organized during January 6-8, 2016. Hon
 Sri Manohar Parrikar inaugurated the conference. More than 70 top colleges of the country and more than 
 15 expert speakers from four countries (USA, France, South Korea and Singapore) participated in the confer-
 ence. Total numbers of delegates participated in the conference is 425.
-
 
 ## Page 24
 
@@ -921,7 +908,6 @@ novation Ecosystem in Engineering
 Education: Role Plays of Universi-
 ties, Industry, and Government
 
-
 ## Page 25
 
   www.bvb.edu  |  23 
@@ -958,7 +944,6 @@ prioritized themes for collaboration:-
  H. Attaining autonomous status 
  I. Updating Infrastructure
 
-
 ## Page 26
 
 24   | BVBCET
@@ -982,7 +967,6 @@ of Engineering Colleges and Polytechnics and supported by State Project Facilita
 of TEQIP . 
 This workshop aimed at equipping faculty members with the knowledge and skills required to practice en-
 gineering education effectively. All twenty sessions were woven around the philosophy and practice of OBE.
-
 
 ## Page 27
 
@@ -1074,8 +1058,6 @@ Member Secretary
 Dr. Ashok Shettar
 Governance 
  
-
-
 ## Page 30
 
 28   | BVBCET
@@ -1120,7 +1102,6 @@ petition and secured 4th position in their debut year among 124
 teams at Buddh International Circuit, Greater Noida during 3rd to 
 9th July, 2016. An interdisciplinary team of 21 students from BVB 
 Motorsports Club participated in SUPRA SAEINDIA 2016
-
 
 ## Page 31
 
@@ -1190,7 +1171,6 @@ by BVB Alumni Association. Alumni after the
 AGM visited the construction of Incubation 
 Centre on campus.
 
-
 ## Page 33
 
   www.bvb.edu  |  31 
@@ -1218,7 +1198,6 @@ Examinations
 Dr. Sanjay Kotabagi
 Dean - Student Welfare
 BVB Executive Leadership Team
-
 
 ## Page 34
 
@@ -1283,12 +1262,10 @@ Humanities
 Prof. T. V. M. Swamy
 First Year
 
-
 ## Page 35
 
   www.bvb.edu  |  33 
 Campus Snapshots
-
 
 ## Page 36
 

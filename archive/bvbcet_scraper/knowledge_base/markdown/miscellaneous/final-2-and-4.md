@@ -1,13 +1,9 @@
 # PDF Document: final-2-and-4
+
 **PDF Source:** https://www.kletech.ac.in/pdf/final-2-and-4.pdf
 
 ## Page 1
 
- 
- 
- 
- 
- 
                                                                                                                                                                                                                                         1q2  
  
 ANAM 0201/1.0 
@@ -15,19 +11,11 @@ CALENDAR OF EVENTS
 EVEN SEMESTER 2022 - 2023 
       [For B.E (2nd & 4th), B.Arch (2nd & 4th) Semesters] 
  
- 
 Important Dates: 
 Courses Term Commencement End of term Date of Commencement 
        Practical Exams     Theory Exams 
 2nd & 4th Sem B.E & B.Arch 10/04/23 27/07/23 27/07/23 to 31/07/23 From 02/08/23 
  
- 
- 
- 
- 
- 
-   
-  
 Dated: 21/04/2023                                                                                                                           Dean Academics 
 Week 
 No. Month Week days No of 

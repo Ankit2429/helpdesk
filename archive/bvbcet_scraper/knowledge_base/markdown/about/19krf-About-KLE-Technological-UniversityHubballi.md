@@ -1,4 +1,5 @@
 # PDF Document: 19krf-About-KLE-Technological-UniversityHubballi
+
 **PDF Source:** https://www.kletech.ac.in/uploads/Files/19krf-About-KLE-Technological-UniversityHubballi.pdf
 
 ## Page 1
@@ -236,12 +237,10 @@ section
 
 University Infrastructure:
 
-
 ## Page 18
 
 High Profile Visitors
 :
-
 
 ## Page 19
 

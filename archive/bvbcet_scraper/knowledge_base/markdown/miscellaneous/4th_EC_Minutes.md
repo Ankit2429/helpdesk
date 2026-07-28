@@ -1,11 +1,9 @@
 # PDF Document: 4th_EC_Minutes
+
 **PDF Source:** https://www.kletech.ac.in/pdf/4th_EC_Minutes.pdf
 
 ## Page 1
 
- 
- 
- 
 Minutes 
  
 4th Executive Council Meeting 
@@ -14,12 +12,6 @@ KLE Technological University,
 Hubballi, Karnataka 
 December 27th, 2016 
  
- 
- 
- 
- 
- 
-
 ## Page 2
 
 ii 
@@ -64,7 +56,6 @@ b. Modifications in B.Sc regulations
 Lateral Entry & PhD seats of the University. 
 4.10 Any other subject with the permission of the Chair 
  
-
 ## Page 3
 
 iii 
@@ -145,18 +136,12 @@ the academic year 2016-17 without any changes.
 EC 3.8 Any other subject with the permission of the Chair. 
 NIL. 
  
- 
- 
- 
- 
- 
 Resolution: Resolved to confirm the minutes of the previous meeting 
 held on 21st March 2016.
 
 ## Page 5
 
 2 
- 
  
 EC 4.2 To confirm the action taken report on the minutes of the previous meeting held on 21st March 
 2016. 
@@ -216,13 +201,6 @@ EC 3.8 Any other subject with the permission of the Chair
 NIL. 
 Not applicable. 
 * E&E approved intake 60 but communicated intake is 120 and BOG has ratified this action. 
- 
- 
- 
- 
- 
- 
- 
  
 Resolution:
 
@@ -308,11 +286,9 @@ Annexure 4: Fee structure for the year 2016-17
 Annexure 5: Budget for the Office of the Controller of Examinations 
 Annexure 6: Remuneration paid for examination work. 
  
-
 ## Page 9
 
 6 
- 
  
 EC 4.4 To discuss the Schemes and Syllabi as listed below of 
 Undergraduate Minor Degree Programme of 2017-18 
@@ -341,7 +317,6 @@ Annexure 10_Minor-Innovn +prod dvp-sch+syll
 Annexure 11a_minor_robotics_syllabus-2017 
 Annexure 11b_Minor project in Robotics-Scheme 
  
-
 ## Page 10
 
 7 
@@ -354,9 +329,6 @@ same:
 ## Page 11
 
 8 
- 
- 
- 
  
 EC 4.5 To consider and approve Bachelor of Science (B.Sc) 
 programs that  are to be instituted by the University from 
@@ -389,13 +361,11 @@ Science (B.Sc) programs that are to be instituted by the University from the aca
 2017-18, which are approved by the Academic council. 
 Discussion:  
  
- 
 Resolution:
 
 ## Page 12
 
 9 
- 
  
 EC 4.6 To discuss and approve the University Annual Report for the 
 academic year 2015-16. 
@@ -406,7 +376,6 @@ Annexure 15_KLE Tech Annual Report 2015-16
  
 Resolution: Resolved to discuss and approve the University Annual 
 Report for the academic year 2015-16. 
- 
  
 EC 4.7 To discuss and approve the ‘Strategic Plan’ of the KLE 
 Technological University. 
@@ -461,8 +430,6 @@ of the Board of Governors.
  KLE Technological University Regulations Governing PhD Programmes for Fee 
 Fixation is as follows: 
  
- 
- 
 1.2 : 
 Admissions 
 1.2.12 PhD Programme: Prescribing fee for registration, 
@@ -481,7 +448,6 @@ the University.
  
 Chairman thanked all the members for their contributions. 
  
-                                                                                                            
           Chairman 
                                                                                                  Executive Council 
 

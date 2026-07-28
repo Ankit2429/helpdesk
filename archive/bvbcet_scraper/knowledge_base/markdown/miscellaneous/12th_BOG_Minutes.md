@@ -1,11 +1,9 @@
 # PDF Document: 12th_BOG_Minutes
+
 **PDF Source:** https://www.kletech.ac.in/pdf/12th_BOG_Minutes.pdf
 
 ## Page 1
 
- 
- 
- 
 Minutes 
  
 12th Board of Governors Meeting (Online) 
@@ -14,12 +12,6 @@ KLE Technological University,
 Hubballi, Karnataka 
 19th September, 2020 at 11.30 am  
  
- 
- 
- 
- 
- 
-
 ## Page 2
 
 ii 
@@ -73,7 +65,6 @@ Member
 Government of Karnataka. 
 Member 
  
-
 ## Page 3
 
 iii 
@@ -103,7 +94,6 @@ BOG 12.6 Any other subject with the permission of the Chair. 24
  Annexure 1: [The new academic regulations governing MCA program] 11 
  Annexure 2: [The new academic regulations governing MBA program] 64 
  
-
 ## Page 4
 
 1 
@@ -164,7 +154,6 @@ Veerbhadra Kripa, Navodaya Nagar,
 Dharwad-580003 
 Member 
  
-
 ## Page 5
 
 2 
@@ -310,7 +299,6 @@ BOG 11.9 Any other subject with the permission of the Chair.
 Chairman thanked all the members for their contributions and the meeting was concluded with a 
 vote of thanks to the Chair. 
  
-
 ## Page 8
 
 5 
@@ -373,7 +361,6 @@ Veerbhadra Kripa, Navodaya Nagar,
 Dharwad-580003 
 Member 
  
-
 ## Page 9
 
 6 
@@ -420,7 +407,6 @@ NIL
 Chairman thanked all the members for their contributions and the meeting was concluded with a 
 vote of thanks to the Chair. 
  
-
 ## Page 10
 
 7 
@@ -428,13 +414,10 @@ vote of thanks to the Chair.
 Action Requested: To confirm the minutes of the 11th BOG meeting held on 1st April 2019 
 and the special BOG meeting held on 31st August 2019. 
  
- 
 Discussion: The member secretary requested honorable members for any 
 observations or comments on the minutes of the 11th BOG meeting, which was 
 circulated earlier . There were no specific comments or observations on the minutes of 
 the 11th meeting. 
- 
- 
  
 Resolution 12.1: The Board of Governors confirmed the minutes of 
 its 11th meeting of the Board of Governors held on 1st April 2019 in 
@@ -442,13 +425,6 @@ the office of the Principal of Sri. S. Nijalingappa College, Bengaluru
 and special BOG meeting held on 31st August 2019 in the senate hall 
 of the KLE Technological University, Hubballi. 
  
- 
- 
- 
- 
- 
- 
-
 ## Page 11
 
 8 
@@ -670,9 +646,6 @@ Award of ‘Chancellor’ medal to a rank holder if he/she
 has scored a CGPA of 10 will be implemented during the 
 ensuing convocation. 
  
- 
- 
-
 ## Page 17
 
 14 
@@ -692,12 +665,9 @@ holder if he/she has scored a CGPA of 10.
 BOG SPL 4 Any other matter with the permission of the Chair. 
 NIL 
  
- 
-
 ## Page 18
 
 15 
- 
  
 Action Requested: The BOG is requested to confirm the action taken report on the 
 minutes of the previous meeting held on 1st April 2019 and 31st August 2019. 
@@ -719,11 +689,9 @@ Resolution 12.2: Resolved to confirm the action taken report on the
 minutes of the previous meeting held on 1st April 2019 and 31st 
 August 2019. 
  
-
 ## Page 19
 
 Page 1 of 131 
- 
  
 BOG 
 12.3 
@@ -785,7 +753,6 @@ BVB Sports Arena.
 Action Requested: The BOG is requested to consider and approve the recommendations 
 of the 6th and 7th Finance Council Meetings. 
  
- 
 Discussion: Honorable Vice-Chancellor presented both the audited statements for the 
 year 2018-19 and the budget estimates for the year 2020-21. The Vice-Chancellor also 
 requested to approve an additional term loan of Rs. 5 crores to construct Sports Arena in 
@@ -805,7 +772,6 @@ December 2019.
 ## Page 21
 
 Page 3 of 131 
- 
  
 BOG 
 12.4 
@@ -834,14 +800,12 @@ These changes in terms of program duration for MCA and semester system for MBA
 necessitates suitable changes in the academic regulations. The new academic regulations 
 governing MCA and MBA programs are given in annexures 1 & 2. 
  
- 
 Action Requested: The BOG is requested to discuss and approve the new academic 
 regulations governing the Master of Business Administration Program and Master of 
 Computer Application Program. 
 Discussion: Prof. M.I. Savadatti enquired about the University’s plan of offering a 
 BBA program. The Vice-Chancellor informed that the BBA program would be offered from 
 the 2021-22 academic year with an intake of 60. 
- 
  
 Resolution 12.4: Resolved to approve the new academic 
 regulations governing the Master of Business Administration 
@@ -852,7 +816,6 @@ University Act 2012’ provisions.
 ## Page 22
 
 Page 4 of 131 
- 
  
 BOG 
 12.5 
@@ -903,7 +866,6 @@ University for the year 2019-20.
 
 Page 6 of 131 
  
- 
 UG PROGRAM ADMISSION DETAILS - 2019-20 
 Admissions to BE / BArch Program for First Year  
 Course  Intake Male Female  Total 
@@ -949,7 +911,6 @@ Annexure 3.1
 
 Page 7 of 131 
  
- 
 PG PROGRAM ADMISSION DETAILS - 2019-20 
 Admissions to M Tech /MBA /MCA Program for First Year  
 Course  Intake Male Female  Total 
@@ -981,7 +942,6 @@ VLSI Design & Embedded Systems 18
 Machine Design 18 
 Grand Total 267 
  
-
 ## Page 26
 
 Page 8 of 131 
@@ -1000,7 +960,6 @@ School of Mechanical Engineering 04 00 04
 School of Management 01 00 01 
 Grand Total 12 08 20 
  
- 
 Consolidated Admissions for Academic Year 2019-20 
 Program Course  Class Total 
 UG Programs 
@@ -1015,11 +974,9 @@ Research Programs
 2016 32 
 Grand Total 5716 
  
-
 ## Page 27
 
 Page 9 of 131 
- 
  
 Faculty Information 
  
@@ -1060,32 +1017,20 @@ Executives -- 03 -- -- --
   60 58 218 19 
   355 
  
- 
- 
 Annexure 3.2 
 
 ## Page 28
 
 Page 10 of 131 
  
- 
- 
 BOG 
 12.6 
 Any other subject with the permission of the Chair 
 NIL 
  
- 
-
 ## Page 29
 
 Page 11 of 131 
- 
- 
- 
- 
- 
- 
  
 ANNEXURE -1 
 [The new academic regulations governing MCA program] 
@@ -1093,8 +1038,6 @@ ANNEXURE -1
 ## Page 30
 
 Page 12 of 131 
- 
-  
  
 Regulations Governing Master of Computer 
 Applications-MCA 
@@ -1104,28 +1047,9 @@ KLE Technological University
 2020 
 (Established under Karnataka Act No.22, 2013) 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 31
 
 Page 13 of 131 
- 
- 
  
 CONTENTS 
 Section  Description  Page 
@@ -1247,31 +1171,9 @@ CHAPTER XIV, MAINTENANCE OF ACADEMIC RECORDS  48
 89 AMENDMENTS 49 
 90 JURISDICTION 50 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 34
 
 Page 16 of 131 
- 
  
 REGULATIONS GOVERNING POSTGRADUATE PROGRAMME – MASTER OF COMPUTER 
 PPLICATIONS(MCA) 02 YEARS PROGRAMME OF KLE TECHNOLOGICALUNIVERSITY - 2020 
@@ -2844,7 +2746,9 @@ time based on the Average & Standard Deviation will be
 used strictly for awarding grades to all the re-evaluated 
 courses and Summer term Examinations. 
 Absolute Grading System 
+
 # Marks Letter 
+
 grade 
 Absolute 
 Grade 
@@ -3045,7 +2949,6 @@ Page 54 of 131
 7.75-9.49 >70% and <87.5% First class with 
 Distinction 
    
- 
   i  First Class with Distinction: A student completing a 
 Programme of study within the specified minimum 
 duration, securing a CGPA equal to or greater than 7.75 
@@ -3211,7 +3114,6 @@ that course by such gracing.
 ## Page 76
 
 Page 58 of 131 
- 
  
 GMR3 : A student is eligible to get a maximum of 1 % of 
 SGPA (0.1 out of 10) as grace if the student is 
@@ -3468,15 +3370,9 @@ legal issues arising from this set of regulations shall be
 limited to the legal jurisdiction determined by the location 
 of the College and not that of any other parties. 
  
-
 ## Page 82
 
 Page 64 of 131 
- 
- 
- 
- 
- 
  
 ANNEXURE -2 
 [The new academic regulations governing MBA program] 
@@ -3485,32 +3381,15 @@ ANNEXURE -2
 
 Page 65 of 131 
  
- 
- 
- 
 Regulations  
 Governing Master of Business Administration 
 Programme of  
 KLE Technological University  
 2020 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 KLE Technological University 
 (Established under Karnataka Act No.22, 2013) 
  
- 
- 
- 
-
 ## Page 84
 
 lxvi 
@@ -4024,9 +3903,6 @@ expiry of its term.
     
 CHAPTER III  ADMISSION 
  
- 
- 
- 
   Admission to the University shall normally be made at the 
 commencement of each academic year for various 
 programmes of study except in research programmes. The 
@@ -4118,7 +3994,6 @@ following scheme:
 ## Page 98
 
 80 
- 
  
 Field Campus 
 Full/Par
@@ -5187,7 +5062,9 @@ time based on the Average & Standard Deviation will be
 used strictly for awarding grades to all the re-evaluated 
 courses and Summer Semester Examinations. 
 Absolute Grading System 
+
 # Marks Letter 
+
 grade 
 Absolute 
 Grade 
@@ -5384,7 +5261,6 @@ CGPA Equivalent Class/Division
 First class with 
 Distinction 
    
- 
   i First Class with Distinction: A student completing a 
 Programme of study within the specified minimum 
 duration, securing a CGPA equal to or greater than 7.75 

@@ -1,10 +1,9 @@
 # PDF Document: 4th-Sem-MTech-COE-2022-23
+
 **PDF Source:** https://www.kletech.ac.in/pdf/4th-Sem-MTech-COE-2022-23.pdf
 
 ## Page 1
 
- 
- 
 Academic Calendar for 4th Semester M.Tech, Programme 
 2022-23 
 Registration  
@@ -30,7 +29,4 @@ Project Phase – II, Dissertation
 Submission 
 Before 31st Aug 2023 
  
- 
-   
-  
 Date: 15 April 2023                    Dean Academics 

@@ -1,4 +1,5 @@
 # PDF Document: 6Sem-BE_B.Arch_BBA2_4-Sem_-BCA2sem-June-2023
+
 **PDF Source:** https://www.kletech.ac.in/pdf/6Sem-BE_B.Arch_BBA2_4-Sem_-BCA2sem-June-2023.pdf
 
 ## Page 1
@@ -31,7 +32,6 @@ Robot Dynamics & Control
 15EARE302
 Computer Vision & Digital Image  Processing
 
-
 ## Page 2
 
 27/05/2023 (Saturday) 
@@ -56,7 +56,6 @@ Bioanalytical Techniques
 19EBTE301
 03/06/2023 (Saturday) Bioprocess Control & Automation
 19EBTC302
-
 
 ## Page 3
 
@@ -84,7 +83,6 @@ Controller of Examinations
 Blockchain and Distributed Ledgers (22ECSC307)
 Blockchain and Distributed Ledgers (21ECSC307)
 
-
 ## Page 4
 
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India)
@@ -109,7 +107,6 @@ Estimation and Costing
 15ECVC307
 Applied Hydrology and Hydraulic Structures 
 (20ECVE301)
-
 
 ## Page 5
 
@@ -138,7 +135,6 @@ Communication System II
 Internet of Things (17EECE307)
 Information Theory and Coding (21EECE308)
 
-
 ## Page 6
 
 TIME TABLE FOR VI SEMESTER B.E. END SEMESTER 
@@ -165,7 +161,6 @@ Information Theory and Coding
 30/05/2023 (Tuesday) 
 Communication System II
 22EEIC318
-
 
 ## Page 7
 
@@ -196,7 +191,6 @@ CMOS VLSI Circuits
 Power System Modeling Operation & Control
 21EEEC302
 
-
 ## Page 8
 
 HVAC Systems 
@@ -224,7 +218,6 @@ Failure Analysis in Design (15EMEE302)
 27/05/2023 (Saturday) 
 05/06/2023 (Monday) 
 02/06/2023 (Friday) 
-
 
 ## Page 9
 
@@ -254,7 +247,6 @@ Settlement Planning
 18AATC312
 Structures – VI
 18AATC314
-
 
 ## Page 10
 
@@ -319,7 +311,6 @@ Controller of Examinations
 (Friday) 
 05/06/2023 
 (Monday) 
-
 
 ## Page 11
 

@@ -1,50 +1,19 @@
 # PDF Document: mba-curriculum-structure-2025-2027
+
 **PDF Source:** https://www.kletech.ac.in/pdf/mba-curriculum-structure-2025-2027.pdf
 
 ## Page 1
 
- 
- 
 Format No: FMCD2009 /1.0  1 
  
- 
- 
- 
- 
- 
 School of Management Studies and Research 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Curriculum and Syllabus 
 (2025-2027) 
 MBA- Master of Business Administration 
  
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 2
 
- 
- 
 Format No: FMCD2009 /1.0  2 
  
 INDEX 
@@ -57,35 +26,12 @@ Sr.No. Content Page No
 5 Curriculum Structure – Semester-wise 7 
 6 Curriculum Content- Course-wise 12 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 3
 
- 
- 
 Format No: FMCD2009 /1.0  3 
 Title: Vision and Mission Statements of the KLE Technological University 
  
 Vision 
- 
  
 KLE Technological University will be a national leader in Higher 
 Education –recognised globally for innovative culture, outstanding 
@@ -115,19 +61,10 @@ spirit of collaboration and partnership to accomplish our mission.
     
           Back 
  
- 
- 
- 
- 
- 
-
 ## Page 4
 
- 
- 
 Format No: FMCD2009 /1.0  4 
 Title: Vision and Mission Statements of the Department/School 
- 
  
 Vision: 
 KLE Tech Department of Management will be a premier institute in management education 
@@ -144,18 +81,10 @@ world management challenges and shapes professionals
 M3: To engage with industry and community stakeholders by contributing to the 
 region's socio-economic development. 
  
- 
-            
- 
- 
- 
- 
            Back 
 
 ## Page 5
 
- 
- 
 Format No: FMCD2009 /1.0  5 
 Title: Consolidated View of Program Educational Objectives (PEOs) /Program Outcomes (POs) and Program-Specific Objectives (PSOs) 
   
@@ -192,11 +121,8 @@ environment.
 societal issues. 
                  Back 
  
-
 ## Page 6
 
- 
- 
 Format No: FMCD2009 /1.0  6 
  
 Title: Curriculum Structure -Overall 
@@ -266,8 +192,6 @@ Credits 23 22 22 21
 
 ## Page 7
 
- 
- 
 Format No: FMCD2009 /1.0  7 
  
 Title: Curriculum Structure- Semester-wise 
@@ -277,15 +201,11 @@ I Semester
 for 2 Hours and Max Marks is 60 Marks. 
 ISA: In-semester Assessment  ESA: End Semester Assessment  L: Lecture T: Tutorials P: Practical 
  
- 
 Date                                                                                                                                                                                   Program Head  
    
- 
- 
 FORM 
 ISO 21001:2018 
 Document #: FMCD2004 
- 
  
 Rev: 1.0 
 Title:  Curriculum structure semester wise Page  
@@ -305,18 +225,13 @@ Hours ISA ESA Total
 8 25MBAP704 Business Communication 0 0 1 80 20 100 1 - 
 TOTAL 15 1 6    22  
 
-
 ## Page 8
 
- 
- 
 Format No: FMCD2009 /1.0  8 
                 
- 
 FORM 
 ISO 21001:2018 
 Document #: FMCD2004 
- 
  
 Rev: 1.0 
 Title:  Curriculum structure semester wise Page  
@@ -345,14 +260,11 @@ TOTAL 12 2 9    23
 
 ## Page 9
 
- 
- 
 Format No: FMCD2009 /1.0  9 
  
 FORM 
 ISO 21001:2018 
 Document #: FMCD2004 
- 
  
 Rev: 1.0 
 Title:  Curriculum structure semester wise Page  
@@ -382,15 +294,11 @@ TOTAL 15 0 7    22
 
 ## Page 10
 
- 
- 
 Format No: FMCD2009 /1.0  10 
- 
  
 FORM 
 ISO 21001:2018 
 Document #: FMCD2004 
- 
  
 Rev: 1.0 
 Title:  Curriculum structure semester wise Page  
@@ -420,8 +328,6 @@ TOTAL 18 0 3    21
 
 ## Page 11
 
- 
- 
 Format No: FMCD2009 /1.0  11 
 Electives I, II, III, IV, V, VI, VII, VIII 
 Marketing 
@@ -488,17 +394,8 @@ Business
 Using Power Bi 
 (25MBAE842) 
  
- 
- 
- 
- 
- 
- 
-
 ## Page 12
 
- 
- 
 Format No: FMCD2009 /1.0  12 
 Electives I, II, III, IV, V, VI, VII, VIII 
 Marketing 
@@ -563,7 +460,6 @@ Warehouse
 Management 
 (20MBAE835) 
  
- 
 ▪ Introduction to 
 Python 
 (24MBAE847) 
@@ -574,18 +470,14 @@ Managers
 Analytics 
 (25MBAE841) 
  
-
 ## Page 13
 
- 
- 
 Format No: FMCD2009 /1.0  13 
  
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise Page 12 to 110 
@@ -629,11 +521,8 @@ to Groups & Teams, Basics of power and politics, Organizational culture, Organiz
 diversity in workplace. Digital Workplace- role and Perspectives. Lean & Green Workspace. 
 Reduced Inequalities, Ethical Challenges.08 hrs 
 
-
 ## Page 14
 
- 
- 
 Format No: FMCD2009 /1.0  14 
 References 
 • Jones Gareth R, George Jennifer M, Contemporary Management, TMH, 5th Edition, 2009 
@@ -648,7 +537,6 @@ Each Question carries 20
 Marks  
 Module  numbers Instructions 
  
- 
 UNIT I 
 I 
 All Questions Compulsory 
@@ -659,25 +547,8 @@ IV
 V 
        Back 
   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 15
 
- 
- 
 Format No: FMCD2009 /1.0  15 
  
 Program: MBA 
@@ -730,65 +601,19 @@ Module
 numbers 
 Instructions 
  
- 
 I All Questions Compulsory 
  II 
 
 ## Page 16
 
- 
- 
 Format No: FMCD2009 /1.0  16 
 UNIT I III 
 IV 
 V 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 17
 
- 
- 
 Format No: FMCD2009 /1.0  17 
 Program: MBA 
 Course Title: Accounting for Managers Course Code: 25MBAC704 
@@ -837,7 +662,6 @@ Each Question carries 20
 Marks  
 Module  numbers Instructions 
  
- 
 UNIT I 
 I 
 All Questions Compulsory II 
@@ -847,15 +671,11 @@ V
 
 ## Page 18
 
- 
- 
 Format No: FMCD2009 /1.0  18 
 Back 
 
 ## Page 19
 
- 
- 
 Format No: FMCD2009 /1.0  19 
 Program: MBA 
 Course Title: Business Research Methods Course Code: 25MBAC706 
@@ -901,8 +721,6 @@ Plagiarism, ethical issues.
 
 ## Page 20
 
- 
- 
 Format No: FMCD2009 /1.0  20 
 References: 
 • Cooper and Schlinder, Business Research Methods, 9th edition, 2011 TMH 
@@ -923,7 +741,6 @@ Each Question carries 20
 Marks  
 Module  numbers Instructions 
  
- 
 UNIT I 
 I 
 All Questions Compulsory II 
@@ -933,13 +750,8 @@ V
  
 Back 
  
- 
-  
-
 ## Page 21
 
- 
- 
 Format No: FMCD2009 /1.0  21 
 Program: MBA 
 Course Title: Marketing Management Course Code: 25MBAC705 
@@ -974,15 +786,11 @@ A south Asian Perspective, 14th edition, Pearson Publication.
 • Michael Hutt, Dheeraj Sharma, B2B Marketing, 11th edition, Cengage learning. 
      Scheme for Semester End Examination (ESA) 
  
- 
- 
- 
 UNIT 
 3 Questions  
 Each Question carries 20 
 Marks  
 Module  numbers Instructions 
- 
  
 UNIT I 
 I 
@@ -991,11 +799,8 @@ III
 IV 
 Back 
  
-
 ## Page 22
 
- 
- 
 Format No: FMCD2009 /1.0  22 
 Program: MBA 
 Course Title: Statistics and Probability Course Code: 25MBAC702 
@@ -1039,7 +844,6 @@ Each Question carries 20
 Marks  
 Module  numbers Instructions 
  
- 
 UNIT I 
 I 
 All Questions Compulsory II 
@@ -1049,8 +853,6 @@ Back
 
 ## Page 23
 
- 
- 
 Format No: FMCD2009 /1.0  23 
 Program: MBA 
 Course Title: Industry Experience- Phase I Course Code: 25MBAP703 
@@ -1080,12 +882,8 @@ strength, Product/services and market served, competitors)
         
  Back 
  
-  
-
 ## Page 24
 
- 
- 
 Format No: FMCD2009 /1.0  24 
 Program: MBA 
 Course Title: Business Communication Course Code: 25MBAP704 
@@ -1139,8 +937,6 @@ Longman.
 
 ## Page 25
 
- 
- 
 Format No: FMCD2009 /1.0  25 
 Semester II 
 Program: MBA 
@@ -1186,7 +982,6 @@ Module
 numbers 
 Instructions 
  
- 
 UNIT I 
 I All Questions Compulsory 
 II 
@@ -1196,8 +991,6 @@ IV
 
 ## Page 26
 
- 
- 
 Format No: FMCD2009 /1.0  26 
 Program: MBA 
 Course Title: Entrepreneurship 
@@ -1251,11 +1044,8 @@ Western.
 • David H. Holt, Entrepreneurship: New Venture Creation, Prentice Hall of India 2002.  
 •  Raj Shankar, Entrepreneurship Theory & Practice, Vijay Nicole Imprints Pvt Ltd.  
            
-
 ## Page 27
 
- 
- 
 Format No: FMCD2009 /1.0  27 
 Scheme for Semester End Examination (ESA) 
 UNIT 5 Questions 
@@ -1264,7 +1054,6 @@ Marks
 Module  
 numbers 
 Instructions 
- 
  
 UNIT I 
 I All Questions Compulsory 
@@ -1275,11 +1064,8 @@ IV
      
 Back 
   
-
 ## Page 28
 
- 
- 
 Format No: FMCD2009 /1.0  28 
 Program: MBA 
 Course Title: Financial Management Course Code: 24MBAC703 
@@ -1321,11 +1107,9 @@ UNIT 3 Questions
 Each Question carries 20 
 Marks 
  
- 
 Module  
 numbers 
 Instructions 
- 
  
 UNIT I 
 I All Questions Compulsory 
@@ -1335,12 +1119,8 @@ IV
  
 Back 
  
- 
-
 ## Page 29
 
- 
- 
 Format No: FMCD2009 /1.0  29 
 Program: MBA 
 Course Title: Human Resource Management Course Code: 24MBAC704 
@@ -1384,11 +1164,9 @@ UNIT 3 Questions
 Each Question carries 20 
 Marks 
  
- 
 Module  
 numbers 
 Instructions 
- 
  
 UNIT I 
 I All Questions Compulsory 
@@ -1399,8 +1177,6 @@ Back
 
 ## Page 30
 
- 
- 
 Format No: FMCD2009 /1.0  30 
 Program: MBA 
 Course Title: Operations Management Course Code: 20MBAC712 
@@ -1436,8 +1212,6 @@ dependent demand attributes, framework, Materials Requirement Planning (MRP).
 
 ## Page 31
 
- 
- 
 Format No: FMCD2009 /1.0  31 
 Module 5: 
 Scheduling of operations: 
@@ -1461,11 +1235,9 @@ UNIT
 Each Question carries 20 
 Marks 
  
- 
 Module  
 numbers 
 Instructions 
- 
  
 UNIT I 
 I All Questions Compulsory 
@@ -1474,15 +1246,10 @@ III
 IV 
 V 
   
- 
-       
 Back 
   
-
 ## Page 32
 
- 
- 
 Format No: FMCD2009 /1.0  32 
 Program: MBA 
 Course Title: Gen AI for Managers  Course Code: 25MBAP701  
@@ -1525,13 +1292,8 @@ Mastering Prompt Engineering for Generative AI: Unlocking the Full Potential of 
 Technology, Anand Vemula , Amazon Digital Services LLC – Kdp ,2024 
    Back 
  
- 
- 
-
 ## Page 33
 
- 
- 
 Format No: FMCD2009 /1.0  33 
  
 Program: MBA 
@@ -1580,8 +1342,6 @@ schedule, and launch dates for different campaign elements.
 
 ## Page 34
 
- 
- 
 Format No: FMCD2009 /1.0  34 
 • Social Media Management: Develop a social media strategy outlining posting frequency, 
 content formats (images, videos, stories), and appropriate hashtags. 
@@ -1599,12 +1359,8 @@ chosen rural products.
          
 Back 
  
-  
-
 ## Page 35
 
- 
- 
 Format No: FMCD2009 /1.0  35 
 Program: MBA 
 Course Title: Managerial 
@@ -1660,8 +1416,6 @@ Verbal Logic
 
 ## Page 36
 
- 
- 
 Format No: FMCD2009 /1.0  36 
 • Letter and Number Series 
 • Decoding the Codes 
@@ -1684,13 +1438,8 @@ Communication, 3rd edition, Thomson South-Western.
 • John Jackman and Wendy Wren, Nelson English Evaluation Pack – Book 5, Thomas Nelson. 
 Back 
  
- 
-  
-
 ## Page 37
 
- 
- 
 Format No: FMCD2009 /1.0  37 
  
 Program: MBA 
@@ -1707,13 +1456,8 @@ The students have to undergo AI certification course mandatorily in the second p
  
          Back 
  
- 
-  
-
 ## Page 38
 
- 
- 
 Format No: FMCD2009 /1.0  38 
 Program: MBA 
 Course Title: Business Venture Phase - I Course Code: 25MBAP702 
@@ -1738,17 +1482,4 @@ Students are expected to work on the following points:
 8.Funding raising& Resource Mobilization Plan 
 90Hrs 
          Back 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  

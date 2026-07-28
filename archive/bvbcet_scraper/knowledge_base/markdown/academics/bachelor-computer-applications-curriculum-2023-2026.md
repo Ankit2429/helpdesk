@@ -1,25 +1,10 @@
 # PDF Document: bachelor-computer-applications-curriculum-2023-2026
+
 **PDF Source:** https://www.kletech.ac.in/pdf/bachelor-computer-applications-curriculum-2023-2026.pdf
 
 ## Page 1
 
 FMCD2009 / 2.0 1 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Curriculum Structure and Curriculum Content for the Batch: 2023-26 
 Department of Computer Applications 
@@ -28,10 +13,6 @@ Program: Bachelor of Computer Applications
 ## Page 2
 
 FMCD2009 / 2.0 2 
- 
- 
- 
- 
  
 Table of Contents 
 Vision and Mission of KLE Technological University ................................................................. 3 
@@ -52,12 +33,10 @@ Curriculum Content- Course wise ................................................
 
 FMCD2009 / 2.0 3 
  
- 
 Vision and Mission of KLE Technological University 
 Vision 
 KLE Technological University will be a national leader in Higher Education–recognised globally 
 for innovative culture, outstanding student experience, research excellence and social impact. 
- 
  
 Mission 
  
@@ -83,7 +62,6 @@ collaboration and partnership to accomplish our mission.
 
 FMCD2009 / 2.0 4 
  
- 
 Vision and Mission Statements of the Department 
 Department Vision 
 To be a premier department offering UG and PG Programs in computer applications to 
@@ -103,7 +81,6 @@ professional activities in Computer Science and its Applications.
 ## Page 5
 
 FMCD2009 / 2.0 5 
- 
  
 Program Educational Objectives/Program Outcomes and Program-Specific Objectives 
  
@@ -154,8 +131,6 @@ the consequential responsibilities relevant to professional computing practice.
 
 FMCD2009 / 2.0 6 
  
- 
- 
 PO 11: Individual and teamwork: Function effectively as an individual and as a member or 
 leader in diverse teams and multi-disciplinary environments. 
 PO 12: Innovation and Entrepreneurship: Identify a timely opportunity and use of 
@@ -173,10 +148,7 @@ attitude.
 
 FMCD2009 / 2.0 7 
  
- 
- 
 Curriculum Structure-Overall 
- 
  
 Course with course code 
 Semester Total Program Credits:132 Year: 2023-26 
@@ -197,7 +169,6 @@ Java Programming
 Cloud Computing 
 (24EBCC301) 
 3-0-1 
- 
  
 Industry 
 Training 
@@ -306,12 +277,9 @@ Professional
 Aptitude and Minor Project-2 
 (23EBCP301) 
   
-
 ## Page 8
 
 FMCD2009 / 2.0 8 
- 
- 
  
  0-0-1.5 0-0-1.5 Reasoning 
 (23EHSH203) 
@@ -344,7 +312,6 @@ Credits 20 20 21 20 26 25
 
 FMCD2009 / 2.0 9 
  
- 
 Curriculum Structure-Semester wise 
  
 Semester - I 
@@ -367,39 +334,15 @@ PSC 3-1-0 4 5 50 50 100 3 hours
 Total  12.5-1-6.5 20 28 540 260 800  
 ISA: In Semester Assessment ESA: End Semester Assessment L: Lecture T: Tutorials P: Practical 
  
- 
 Date: Program Head 
 
 ## Page 10
 
 FMCD2009 / 2.0 10 
  
- 
- 
- 
- 
 Semester - II 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 Semester Assessment ESA: End Semester Assessment L: Lecture T: Tutorials P: Practical 
- 
- 
- 
  
 Date: Program Head 
 ISA: 
@@ -418,14 +361,9 @@ Duration
 7 23EHSH102 Problem-Solving and Analytical Skills HSC 0.5-0-0 0.5 1 100 -- 100 -- 
 Total  15.5-1-3.5 20.0 25 460 240 700  
  
-
 ## Page 11
 
 FMCD2009 / 2.0 11 
- 
- 
- 
- 
  
 Semester- III 
 ISA: In Semester Assessment ESA: End Semester Assessment L: Lecture T: Tutorials P: Practical 
@@ -451,8 +389,6 @@ Date: Program Head
 Semester- IV 
 FMCD2009 / 2.0 12 
  
- 
- 
 No Code Course Category L-T-P Credits Contact 
 Hours 
 ISA ESA Total Exam 
@@ -467,7 +403,6 @@ Duration
 7 24EBCC205 Java Programming Lab PSC 0-0-2 2 4 80 20 100 3 hours 
 TOTAL  9.5-0-10.5 20 31 460 240 700  
  
- 
 ISA: In Semester Assessment ESA: End Semester Assessment L: Lecture T: Tutorials P: Practical 
 Date:    Program Hea 
 
@@ -475,8 +410,6 @@ Date:    Program Hea
 
 Semester- V 
 FMCD2009 / 2.0 13 
- 
- 
  
 No Code Course Category L-T-P Credits Contact 
 Hours 
@@ -491,7 +424,6 @@ Duration
 6 23EBCP301 Minor Project-2 PSC 0-0-6 6 12 50 50 100 3 hours 
 TOTAL  14-0-12 26 38 352 248 600  
  
- 
 ISA: In Semester Assessment ESA: End Semester Assessment L: Lecture T: Tutorials P: Practical 
 Date: 
    
@@ -500,12 +432,6 @@ Program Head
 ## Page 14
 
 FMCD2009 / 2.0 14 
- 
- 
- 
- 
- 
- 
  
 Semester- VI 
  
@@ -522,7 +448,6 @@ Duration
 2 23EBCI301 Industry Project PW 0-0-17 17 34 50 50 100 3 hours 
 TOTAL  0-0-25 25 50 100 100 200  
  
- 
 ISA: In Semester Assessment ESA: End Semester Assessment L: Lecture T: Tutorials P: Practical 
 Date: 
    
@@ -531,7 +456,6 @@ Program Head
 ## Page 15
 
 FMCD2009 / 2.0 15 
- 
  
 List of Program Electives 
  
@@ -561,9 +485,6 @@ Group- Data Analytics and Machine Learning (Elective3)
 ## Page 16
 
 FMCD2009 / 2.0 16 
- 
- 
- 
  
 Curriculum Content- Course wise 
 Semester - I 
@@ -611,7 +532,6 @@ Mass storage structures; Disk structure; Disk scheduling.
 
 FMCD2009 / 2.0 17 
  
- 
 Text Books: 
 1 Abraham Silberschatz, Peter Galvin and Greg Gagne, Operating System Principles, 10 ed 
 edition, Wiley-India, 2018 
@@ -627,7 +547,6 @@ BACK
 ## Page 18
 
 FMCD2009 / 2.0 18 
- 
  
 Program: Bachelor of Computer Applications Semester: I 
 Course Title: Discrete Mathematical Structures Course Code:23EBCB101 
@@ -702,9 +621,6 @@ BACK
 
 FMCD2009 / 2.0 19 
  
- 
- 
- 
 Program: Bachelor of Computer Applications Semester - I 
 Course Title: Computer Organization and Architecture Course Code: 23EBCC101 
 L-T-P: 3-1-0 Credits:4 Contact Hrs: 5 hrs/week 
@@ -757,9 +673,6 @@ Zaky,NManjikian, 6th Edition, McGraw Hill, 2023.
 
 FMCD2009 / 2.0 20 
  
- 
- 
- 
 . 
 BACK 
 References: 
@@ -769,7 +682,6 @@ References:
 ## Page 21
 
 FMCD2009 / 2.0 21 
- 
  
 Program: Bachelor of Computer Applications Semester - I 
 Course Title: Problem Solving using C Course Code: 23EBCP101 
@@ -831,8 +743,6 @@ BACK
 
 FMCD2009 / 2.0 22 
  
- 
- 
 Program: Bachelor of Computer Applications Semester - I 
 Course Title: Python Programming Course Code: 23EBCP102 
 L-T-P: 0-0-1 Credits: 1 Contact: 2 hrs/week 
@@ -844,7 +754,6 @@ Installing Python 3.X, Using the Python shell, Strings, print () function, Data
 types, Order of Evaluation, Number Formats, Rules for defining variable, 
 Built in types, Tuples, List, Dictionary, Ranges of sequences, Control flow 
 statements 
- 
  
 6 Hrs 
 2 Functions 
@@ -880,8 +789,6 @@ BACK
 ## Page 23
 
 FMCD2009 / 2.0 23 
- 
- 
  
 Program: Bachelor of Computer Applications Semester - I 
 Course Title: Web Technology Course Code: 23EBCP103 
@@ -934,7 +841,6 @@ BACK
 ## Page 24
 
 FMCD2009 / 2.0 24 
- 
  
 Program: Bachelor of Computer Applications Semester - I 
 Course Title: Professional Communication Course Code: 23EBCH101 
@@ -997,7 +903,6 @@ BACK
 
 FMCD2009 / 2.0 25 
  
- 
 Program: Bachelor of Computer Applications Semester - I 
 Course Title: Corporate Communication Skills Course Code: 23EBCH102 
 L-T-P: 0.5-0-0 Credits: 0.5 Contact Hours: 1 hr/week 
@@ -1032,7 +937,6 @@ BACK
 ## Page 26
 
 FMCD2009 / 2.0 26 
- 
  
 II Semester 
 Program: Bachelor of Computer Applications Semester - II 
@@ -1087,8 +991,6 @@ NarsinghDeo, PHI publications ,2016
 ## Page 27
 
 FMCD2009 / 2.0 27 
- 
- 
  
 Program: Bachelor of Computer Applications Semester – II 
 Course Title: Database Management Systems Course Code: 23EBCC103 
@@ -1145,9 +1047,6 @@ References:
 
 FMCD2009 / 2.0 28 
  
- 
- 
- 
 . 
 Back 
 Management. Cengage 2017. 
@@ -1159,8 +1058,6 @@ Edition, McGraw-Hill, 2003.
 
 FMCD2009 / 2.0 29 
  
- 
- 
 Program: Bachelor of Computer Applications Semester - II 
 Course Title: Data Structures and Algorithms Course Code: 23EBCC104 
 L-T-P: 4-0-0 Credits: 4 Contact: 4 hrs/week 
@@ -1168,14 +1065,12 @@ ISA Marks: 50 ESA Marks: 50 Total Marks: 100
 Teaching hrs: 50  Exam Duration: 3 Hrs 
 Unit - I 
  
- 
 1 
 Introduction to Data Structures and Stack 
 Data structure, Dynamic memory allocation in C, Introduction to Algorithms, 
 Asymptotic notations and common functions. 
 Stack: Definition, Operations, Representation, Applications: infix to postfix 
 conversion, postfix expression evaluation, Parenthesis matching. 
- 
  
 10 Hrs 
  
@@ -1203,14 +1098,12 @@ Circular Linked List, Applications of Linked List.
  
 10 Hrs 
  
- 
 5 
 Trees and Graphs 
 Binary tree: Definition, Operations, Representation, AVL tree and 2-3 tree 
 algorithm, Applications of Trees. 
 Graphs: Definition, Representation of Graphs, Graph Traversal, Minimum 
 Spanning Trees: Kruskal and Prims Algorithm. 
- 
  
 10 Hrs 
 Unit - III 
@@ -1238,56 +1131,12 @@ References:
 1. Weiss, M.A., Data Structures and Algorithm Analysis in C, 2, Pearson Education Asia, 
 1997 
 
-
 ## Page 30
 
 FMCD2009 / 2.0 30 
  
- 
- 
- 
 . 
 Back 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 2. Gilberg, R.F. and Forouzan, B.A. , Data Structures A Pseudo code Approach with C, 3, 
 Reprint,Thomson Course Technology, 2005 
@@ -1298,7 +1147,6 @@ Hall India
 ## Page 31
 
 FMCD2009 / 2.0 31 
- 
  
 Program: Bachelor of Computer Applications Semester - II 
 Course Title: Software Engineering Course Code: 23EBCC105 
@@ -1375,14 +1223,12 @@ Back
 
 FMCD2009 / 2.0 32 
  
- 
 Program: Bachelor of Computer Applications Semester - II 
 Course Title: Data Structures and Algorithms Lab Course Code: 23EBCP104 
 L-T-P: 0-0-2 Credits: 2 Contact Hours: 4 Hrs/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
 Teaching Hrs: -- Tutorial/Practical: 48hrs Examination Duration: 3 Hrs. 
 Unit-I 
- 
  
 1 
 Demonstration 
@@ -1392,10 +1238,7 @@ Implement the various concepts like dynamic memory allocation,
 structures and pointer. 
 Iterative and recursive algorithms 
  
- 
 8 Hrs 
- 
- 
  
 2 
 Exercises 
@@ -1406,8 +1249,6 @@ Recognize the merits and demerits of implementing one data structure over
 another. 
 Graph Traversal Techniques 
 Comparison of sorting algorithms efficiency. 
- 
- 
  
 28 Hrs 
 3 Structured Enquiry 
@@ -1433,8 +1274,6 @@ Back
 ## Page 33
 
 FMCD2009 / 2.0 33 
- 
- 
  
 Program: Bachelor of Computer Applications Semester – II 
 Course Title: Database Management Systems Lab Course Code: 23EBCP105 
@@ -1488,7 +1327,6 @@ iii) Normalizing the database.
 
 FMCD2009 / 2.0 34 
  
- 
  iv) Populating the database with data. 
 v) Solving simple, complex and nested queries on the database. 
  
@@ -1509,19 +1347,12 @@ Back
 
 FMCD2009 / 2.0 35 
  
- 
 Program: Bachelor of Computer Applications Semester - II 
 Course Title: Problem-Solving and Analytical Skills Course Code: 23EHSH102 
 L-T-P: 0.5-0-0 Credits:0.5 Contact Hrs: 1 hr/week 
 ISA Marks: 100 ESA Marks: -- Total Marks: 100 
 Teaching Hrs: 12  Exam Duration: -- 
 Content 
- 
- 
- 
- 
- 
- 
  
 1 
 Modules 
@@ -1540,12 +1371,6 @@ Starting a Group Discussion: Recruitment and other Corporate Scenarios;
 Evaluation Parameters in a Recruitment Group Discussion, Types of 
 Initiators: Verbal and Thought, Conclusion of a Discussion 
  
- 
- 
- 
- 
- 
- 
 12 Hrs 
 Text Books 
 Vikas Modules, Innovations Unlimited Training Services, Bangalore. 
@@ -1557,7 +1382,6 @@ Back
 ## Page 36
 
 FMCD2009 / 2.0 36 
- 
  
 III Semester 
  
@@ -1614,7 +1438,6 @@ Back
 
 FMCD2009 / 2.0 37 
  
- 
 Program: Bachelor of Computer Applications Semester - III 
 Course Title: Computer Networks Course Code: 24EBCC201 
 L-T-P:3-0-1 Credits: 4 Contact Hrs: 5hrs/week 
@@ -1665,14 +1488,12 @@ Back
 
 FMCD2009 / 2.0 38 
  
- 
 Program: Bachelor of Computer Applications Semester - III 
 Course Title: Object- Oriented Programming using C++ Course Code:24EBCC202 
 L-T-P:3-0-2 Credits: 5 Contact Hrs: 7 hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
 Teaching Hrs: 40 Practical Hrs: 48 Exam Duration: 3 hrs 
 Unit –I 
- 
  
 1 
 Introduction to OOPs and C++: 
@@ -1682,9 +1503,7 @@ Languages, Structure of C++ program, Input and Output statements: cin
 declaration & initialization, Operators in C++ and their precedence, 
 Control Statement and Loops. 
  
- 
 6 Hrs 
- 
  
 2 
 Functions: 
@@ -1693,9 +1512,7 @@ Comparison with library functions, Passing Arguments to Functions,
 Returning values from Functions, Reference Arguments, Function 
 Overloading, Recursion, Inline functions, Default Arguments. 
  
- 
 5 Hrs 
- 
  
 3 
 Objects and Classes: 
@@ -1705,10 +1522,8 @@ Returning objects from Functions, Classes, Objects, and Memory, Static
 data members and member functions in C++, Pointers to objects, 
 Destructors in C++ , Nested Classes. 
  
- 
 5 Hrs 
 Unit –II 
- 
  
 4 
 Arrays and Strings: 
@@ -1718,10 +1533,7 @@ String Constants, Array of Strings, Strings as Class Members, C++ string
 Class: Defining and Assigning string Objects, I/O with string Objects, 
 Modifying and Comparing string Objects. 
  
- 
 5 Hrs 
- 
- 
  
 5 
 Inheritance and Polymorphism: 
@@ -1731,8 +1543,6 @@ functions, Abstract Classes.
 Polymorphism in C++, Compile-time Polymorphism and Runtime 
 Polymorphism, Virtual Functions and Friend functions, ‘this’ pointer in 
 C++. 
- 
- 
  
 6 Hrs 
  
@@ -1757,7 +1567,6 @@ Exceptions, Exception in Constructors and Destructors.
 
 FMCD2009 / 2.0 39 
  
- 
  File Handling through C++ classes: Classes for file stream operations, I/O 
 Redirection in C++. 
  
@@ -1772,8 +1581,6 @@ Back
 ## Page 40
 
 FMCD2009 / 2.0 40 
- 
- 
  
 Program: Bachelor of Computer Applications Semester - III 
 Course Title: Data Mining Course Code: 24EBCC203 
@@ -1823,7 +1630,6 @@ by Backpropagation
  
 6 Hrs 
  
- 
 6 
 Graph Mining, Social Network Analysis, and Multi-relational Data 
 Mining 
@@ -1831,7 +1637,6 @@ Methods for Mining Frequent Sub graphs, Mining Variant and
 Constrained Substructure Patterns, Characteristics of Social Networks, 
 Mining on Social Networks, Multirelational mining, Multirelational 
 Classification, Multirelational Clustering with User Guidance. 
- 
  
 5 Hrs 
 Unit –III 
@@ -1856,7 +1661,6 @@ the World Wide Web.
 
 FMCD2009 / 2.0 41 
  
- 
 Text Books: 
 1. J. Han, M. Kamber., Data Mining Concepts and Techniques, 3rd edition, Kaufmann 
 publishers, 2011 
@@ -1868,7 +1672,6 @@ Back
 ## Page 42
 
 FMCD2009 / 2.0 42 
- 
  
 Program: Bachelor of Computer Applications Semester - III 
 Course Title: Full Stack Web Development Course Code: 24EBCC204 
@@ -1908,7 +1711,6 @@ Back
 
 FMCD2009 / 2.0 43 
  
- 
 Program: Bachelor of Computer Applications Semester - III 
 Course Title: Arithmetical Thinking and Analytical Reasoning Course Code:23EHSH203 
 L-T-P: 0.5-0-0 Credits: 0.5 Contact Hrs: 1 hr /week 
@@ -1936,7 +1738,6 @@ Back
 ## Page 44
 
 FMCD2009 / 2.0 44 
- 
  
 IV Semester 
  
@@ -1995,7 +1796,6 @@ and Dequeues, Priority Queues, Maps.
 
 FMCD2009 / 2.0 45 
  
- 
 Text Books: 
 1. Herbert Schildt, Java: A Beginner’s Guide Ninth Edition, 9th Edition, McGraw Hill; 
 Eighth edition(2022). 
@@ -2004,14 +1804,11 @@ References:
 1. Kathy Sierra: Head First Java: A Brain-Friendly Guide, Third Edition, Shroff/O'Reilly; 
 Third edition (1 June 2022). 
  
- 
 Back 
 
 ## Page 46
 
 FMCD2009 / 2.0 46 
- 
- 
  
 Program: Bachelor of Computer Applications Semester - IV 
 Course Title: Big Data Analytics Course Code: 24EBCC206 
@@ -2078,7 +1875,6 @@ data, Case studies and real-world applications
 
 FMCD2009 / 2.0 47 
  
- 
 Text Books: 
 1. "Big Data Fundamentals Concepts, Drivers & Techniques " by Thomas Erl, 
 WajidKhattak and Paul Buhler, Prentice Hall, 2015 
@@ -2095,9 +1891,6 @@ Back
 ## Page 48
 
 FMCD2009 / 2.0 48 
- 
- 
- 
  
 Program: Bachelor of Computer Applications Semester - IV 
 Course Title: DevOps Lab Course Code: 24EBCP201 
@@ -2150,10 +1943,6 @@ Reference Books:
 
 FMCD2009 / 2.0 49 
  
- 
- 
- 
- 
 Back 
 2. The DevOps Handbook: How to Create World -Class Speed, Reliability, and Security 
 in Technology Organizations, Gene Kim, Patrick Debois, John Willis, Jez HumbleIT 
@@ -2162,9 +1951,6 @@ Revolution Press, 2016.
 ## Page 50
 
 FMCD2009 / 2.0 50 
- 
- 
- 
  
 Program: Bachelor of Computer Applications Semester - IV 
 Course Title: Minor Project-1 Course Code: 23EBCP201 
@@ -2215,8 +2001,6 @@ Back
 
 FMCD2009 / 2.0 51 
  
- 
- 
 Program: Bachelor of Computer Applications Semester - IV 
 Course Title: Java Programming Lab Course Code: 23EBCP202 
 L-T-P:0-0-2 Credits: 2 Contact Hrs: 4 hrs/week 
@@ -2255,18 +2039,12 @@ Third edition (1 June 2022).
 
 FMCD2009 / 2.0 52 
  
- 
- 
 Program: Bachelor of Computer Applications Semester - IV 
 Course Title: Industry Readiness and Leadership Skills Course Code: 23EHSH204 
 L-T-P:0.5-0-0 Credits: 0.5 Contact Hrs: 1 hr/week 
 ISA Marks: 100 ESA Marks: -- Total Marks: 100 
 Teaching Hrs: 12  Exam Duration: -- 
 Unit – I 
- 
- 
- 
- 
  
 1 
 Modules: 
@@ -2281,10 +2059,6 @@ through Activities
 Team Building & Leadership Skills: Communication in a Team, Leadership 
 Styles, Playing a Team member, Ethic 
  
- 
- 
- 
- 
 12 Hrs 
 Text Books: 
 1 Vikas Modules, Innovations Unlimited Training Services, Bangalore. 
@@ -2296,8 +2070,6 @@ Back
 ## Page 53
 
 FMCD2009 / 2.0 53 
- 
- 
  
 Program: Bachelor of Computer Applications Semester - IV 
 Course Title: Professional Aptitude and Logical Reasoning Course Code: 23EHSC201 
@@ -2321,13 +2093,11 @@ Reference Books:
 1 .Verbal and Non – Verbal Reasoning – Dr. Ravi Chopra, MacMillan India 
 2. Lateral Thinking – Dr. Edward De Bono, Penguin Books, New Delhi 
  
- 
 Back 
 
 ## Page 54
 
 FMCD2009 / 2.0 54 
- 
  
 V- Semester 
  
@@ -2340,7 +2110,6 @@ Teaching Hrs.: 40 Practical Hours: 24 Exam Duration: 3 hrs
 Content 
 Unit –I 
  
- 
 1 
 Introduction 
 Motivation for cloud computing, elastic computing and its advantages: Business 
@@ -2348,9 +2117,7 @@ models for cloud providers, Types of clouds: multi -cloud, cloud platforms. Data
 center infrastructure: Network equipment and multi-port server interfaces, Leaf 
 spine network topology 
  
- 
 5 Hrs 
- 
  
 2 
 Virtualization and containerization 
@@ -2359,7 +2126,6 @@ virtual machines. Advantages and disadvantages of virtual machines, isolation
 facilities in an operating system, Linux namespaces used for isolation, container 
 approach for isolated apps, Docker containers, Docker software components, items 
 in a Docker file. Monolithic applications in a data center 
- 
  
 10 
 Hrs 
@@ -2371,7 +2137,6 @@ Automation in data centers, Advantages and disadvantages of Automation levels of
 automation, zero touch provisioning and infrastructure as code, automation tools 
  
 4 Hrs 
- 
  
 4 
 Orchestration 
@@ -2405,7 +2170,6 @@ disadvantages of Serverless computing.
 
 FMCD2009 / 2.0 55 
  
- 
 Text Books: 
  
 1. Douglas Comer, “The Cloud Computing: The Future of Computing”, 1st ed, Chapman and 
@@ -2417,9 +2181,6 @@ Reference Books:
 Hill, 2013. 
 2. Anthony T. Velte, Toby J. Velte, Robert Elsenpeter, Cloud Computing, A Practical Approach, 
 McGraw Hil, 2017 
- 
- 
- 
  
 Integrated Practices 
  
@@ -2433,18 +2194,11 @@ Para/Full Virtualization
 3 Demonstration of Docker and containers 03 
 4 Implementation Docker and containers 03 
  
- 
- 
- 
- 
 Back 
 
 ## Page 56
 
 FMCD2009 / 2.0 56 
- 
- 
- 
  
 Program: Bachelor of Computer Applications Semester - V 
 Course Title: Advanced Java Programming Course Code: 24EBCC302 
@@ -2501,12 +2255,6 @@ References Books:
 
 FMCD2009 / 2.0 57 
  
- 
- 
- 
- 
- 
- 
 Expt. 
 No. 
 Integrated Practices Lab 
@@ -2537,8 +2285,6 @@ bean action tag
 Integration. Note: Use maven as build tool 
 2 
  
- 
- 
 Back 
 2. Advanced Java Programming, Prof. Pushpender Sarao, Lambert Academic Publishing, 
 2023 
@@ -2546,8 +2292,6 @@ Back
 ## Page 58
 
 FMCD2009 / 2.0 58 
- 
- 
  
 Program: Bachelor of Computer Applications Semester: V 
 Course Title: Machine Learning Course Code: 24EBCC303 
@@ -2604,13 +2348,6 @@ PyTorch Manning Publications, 2020.
 
 FMCD2009 / 2.0 59 
  
- 
- 
- 
- 
- 
- 
- 
 Expr. 
 No. 
 Integrated Practices Sessions 
@@ -2639,15 +2376,11 @@ groupings in data.
 problems involving image data. 
 2 
  
- 
- 
 Back 
 
 ## Page 60
 
 FMCD2009 / 2.0 60 
- 
- 
  
 Program: Bachelor of Computer Applications Semester: V 
 Course Title: Natural Language Processing and Gen AI Course Code:24EBCC304 
@@ -2705,15 +2438,11 @@ Reference Books:
 1. "Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play" by David 
 Foster,2019 
  
- 
- 
 Back 
 
 ## Page 61
 
 FMCD2009 / 2.0 61 
- 
- 
  
 Program: Bachelor of Computer Applications Semester: V 
 Course Title: Minor Project-2 Course Code: 23EBCP301 
@@ -2764,7 +2493,6 @@ data-driven features.
 
 FMCD2009 / 2.0 62 
  
- 
 Scheme of Evaluation 
  
 In-Semester 
@@ -2787,28 +2515,11 @@ Modification 10
 Viva-voce 10 
 Total 50 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 Back 
 
 ## Page 63
 
 FMCD2009 / 2.0 63 
- 
  
 List of Electives 
  
@@ -2862,7 +2573,6 @@ Cybercrimes; Psychology, Mindset and Skills of hackers and other
 
 FMCD2009 / 2.0 64 
  
- 
  cybercriminals; Sociology of cybercriminals.  
 6 Cybercrime: Illustrations, Examples and Mini Cases 
 Introduction, Real-Life Examples, Case Studies: Illustrations of Financial 
@@ -2905,8 +2615,6 @@ Back
 ## Page 65
 
 FMCD2009 / 2.0 65 
- 
- 
  
 Program: Bachelor of Computer Applications Semester: V 
 Course Title: Security Operations & Incident Response Course Code: 24EBCE302 
@@ -2961,9 +2669,6 @@ Text Books:
 ## Page 66
 
 FMCD2009 / 2.0 66 
- 
- 
- 
  
 Sl.l No. Integrated Practices Lab Slot 
  
@@ -3051,8 +2756,6 @@ such as unauthorized access or data exfiltration.
 
 FMCD2009 / 2.0 67 
  
- 
- 
 12 
 Incident Documentation and Reporting: 
 Document all actions taken during a cybersecurity incident and create a 
@@ -3060,14 +2763,11 @@ detailed report covering analysis, response, and remediation steps.
  
 1 
  
- 
- 
 Back 
 
 ## Page 68
 
 FMCD2009 / 2.0 68 
- 
  
 Program: Bachelor of Computer Applications Semester: V 
 Course Title: Ethical Hacking and Penetration Testing Course Code:24EBCE303 
@@ -3089,7 +2789,6 @@ Foot printing and Reconnaissance:
 Types of foot printing (Active, Passive), Open -source intelligence (OSINT) 
 techniques, WHOIS,DNS, Email, Social Media reconnaissance, Countermeasures 
 against foot printing 
- 
  
 3 Hrs 
 3 Scanning Networks: 
@@ -3139,7 +2838,6 @@ and Awareness
  
 UNIT 3 
  
- 
 9 
 Denial of Service (DoS/DDoS) Attacks : 3 Hrs 
 
@@ -3147,17 +2845,14 @@ Denial of Service (DoS/DDoS) Attacks : 3 Hrs
 
 FMCD2009 / 2.0 69 
  
- 
  Types of DoS and DDoS attacks, Botnets and DDoS tools, Mitigation techniques 
 and protection mechanisms 
- 
  
 10 
 Web Application Hacking: 
 OWASP Top 10,SQL Injection, XSS, CSRF, File Inclusion, Web server and 
 application attack methodologies, Tools: Burp Suite, OWASP 
 ZAP,Countermeasures and secure coding practices 
- 
  
 5Hrs 
 Textbooks: 
@@ -3171,8 +2866,6 @@ Maras – 2022
 ## Page 70
 
 FMCD2009 / 2.0 70 
- 
- 
  
 Sl. No Integrated Practices Lab Slot 
 1 Perform passive reconnaissance using various OSINT (Open Source 
@@ -3206,15 +2899,11 @@ application using DVWA, Burp Suite,
 Burp Suite. 
 1 
  
- 
- 
- 
 Back 
 
 ## Page 71
 
 FMCD2009 / 2.0 71 
- 
  
 Program: Bachelor of Computer Applications Semester: V 
 Course Title: Blockchain Technologies Course Code: 24EBCE304 
@@ -3274,9 +2963,6 @@ Decentralized Applications(3rd Edition) Imran Bashir Year: 2020
 
 FMCD2009 / 2.0 72 
  
- 
- 
- 
 Practical 
 No. Integrated Practices Lab Slot 
 1 
@@ -3307,7 +2993,6 @@ Back
 ## Page 73
 
 FMCD2009 / 2.0 73 
- 
  
 Program: Bachelor of Computer Applications Semester: V 
 Course Title: Digital Forensics Course Code: 24EBCE305 
@@ -3378,7 +3063,6 @@ Christopher Steuart — 6th Edition, 2019
 ## Page 74
 
 FMCD2009 / 2.0 74 
- 
  
 Sl. No. Integrated Practices Lab 
 Slot 
@@ -3463,19 +3147,14 @@ Identify and collect digital evidence from cloud environments, 2
 
 FMCD2009 / 2.0 75 
  
- 
  including logs, file access records, and user activities across 
 Cloud storage services. 
- 
- 
- 
  
 Back 
 
 ## Page 76
 
 FMCD2009 / 2.0 76 
- 
  
 Program: Bachelor of Computer Applications Semester: V 
 Course Title: Cyber Attacks & Counter Measures Course Code: 24EBCE306 
@@ -3544,9 +3223,6 @@ Reference books:
 
 FMCD2009 / 2.0 77 
  
- 
- 
- 
 Sl.No. Integrated Practices Lab Slot 
 1 Conduct malware detection and performed basic static analysis to 
 Identify malicious code and understand its behavior. 1 
@@ -3578,9 +3254,7 @@ Back
 
 FMCD2009 / 2.0 78 
  
- 
 VI- Semester 
- 
  
 Program: Bachelor of Computer Applications Semester: VI 
 Course Title: Industry Training Course Code: 22EBCI301 
@@ -3602,16 +3276,11 @@ Industry Training depending upon the need of the company. Other students who
 wish to do internship are responsible to find a company on their own for the 
 Training. 
  
- 
- 
 Back 
 
 ## Page 79
 
 FMCD2009 / 2.0 79 
- 
- 
- 
  
 Program: Bachelor of Computer Applications Semester: VI 
 Course Title: Industry Project Course Code: 23EBCI301 
@@ -3628,27 +3297,11 @@ The students who got placed in campus interviews may be offered Industry Project
 depending upon the need of the company. Other students who wish to do Industry 
 Project are responsible to find a company on their own. 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 Back 
 
 ## Page 80
 
 FMCD2009 / 2.0 80 
- 
- 
  
 Program: Bachelor of Computer Applications Semester: VI 
 Course Title: User Interface Design Course Code: 24EBCE307 
@@ -3705,14 +3358,6 @@ Shroff/Rheinwerk Computing, 2024
 
 FMCD2009 / 2.0 81 
  
- 
- 
- 
- 
- 
- 
- 
- 
 Sl No. Integrated Practices (using Canva/Panpot) Lab Slots 
 1 Design a homepage with a title, message, and two navigation 
 buttons. 
@@ -3737,7 +3382,6 @@ Team W, Inc ,2024
 ## Page 82
 
 FMCD2009 / 2.0 82 
- 
  
 Program: Bachelor of Computer Applications Semester: VI 
 Course Title: ASP.NET MVC Framework Course Code:24EBCE308 
@@ -3796,7 +3440,6 @@ Adding a Mock Object to a Unit Test, Creating a More Complex Mock Object
 
 FMCD2009 / 2.0 83 
  
- 
 Text Book: 
 1. Pro ASP.NET MVC 5, Publisher Apress, 6th ed. 2022 
 2. Pro C# 9 with .NET 6, Foundational Principles and Practices in Programming, Apress 
@@ -3805,10 +3448,6 @@ References:
 1. Adam Freeman - Pro ASP.NET Core 7, Tenth Edition - McGraw Hill Education- 2023 
 2. Andrew Lock - ASP.NET Core in Action, Third Edition - Manning Publications- 2023 
 3. Adam Freeman - Pro ASP.NET Core 6 – Apress 2022 
- 
- 
- 
- 
  
 Sl.No Integrated Practices Lab Slots 
 1 Create a basic ASP.NET MVC project and render a homepage view. 2 
@@ -3820,34 +3459,11 @@ Sl.No Integrated Practices Lab Slots
 7 Set up Dependency Injection using Ninject in an MVC project. 2 
 8 Create and run basic unit tests using Visual Studio’s testing tools. 1 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 Back 
 
 ## Page 84
 
 FMCD2009 / 2.0 84 
- 
- 
  
 Program: Bachelor of Computer Applications Semester: VI 
 Course Title: Mobile Application Development Course Code:24EBCE309 
@@ -3902,7 +3518,6 @@ Using Staggered Animations
 
 FMCD2009 / 2.0 85 
  
- 
 6 App Navigation 
 Using the Navigator Using the Named Navigator Route Using Hero Animation, Using 
 the BottomNavigationBar Using the  BottomAppBar Using the TabBar and 
@@ -3915,12 +3530,6 @@ on October 18, 2024, by Apress
 References: 
 1. Alessandro Biessek, Flutter for Beginners – Third Edition, Packt Publishing, 2023. 
 2. Simone Alessandria, Flutter Cookbook – Second Edition, Packt Publishing, 2023. 
- 
- 
- 
- 
- 
- 
  
 Sl.No. Integrated Practices Lab Slots 
 1 Install Flutter SDK and run a basic "Hello World" app. 1 
@@ -3938,25 +3547,11 @@ Container.
 2 
 10 Create a simple app with a Bottom Navigation Bar and multiple tabs. 1 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 Back 
 
 ## Page 86
 
 FMCD2009 / 2.0 86 
- 
  
 Program: Bachelor of Computer Applications Semester: VI 
 Course Title: Agile Project Management Course Code:24EBCE310 
@@ -3973,14 +3568,12 @@ Agility.
  
 8 Hrs 
  
- 
 2 
 Project Planning 
 Recognizing the structure of an agile team– Programmers, Managers, Customers. User 
 stories– Definition, Characteristics and content. Estimation – Planning poker, 
 Prioritizing, and selecting user stories with the customer, projecting team velocity for 
 releases and iterations. 
- 
  
 8 Hrs 
 Unit II 
@@ -4029,11 +3622,6 @@ Wesley, 2021.
 
 FMCD2009 / 2.0 87 
  
- 
- 
- 
- 
- 
 Sl.No. Integrated Experiments Lab Slots 
 1 Write the Agile Manifesto and list its core principles in your own words. 1 
 2 Identify roles in an Agile team and create a sample team structure. 1 
@@ -4046,20 +3634,11 @@ Sl.No. Integrated Experiments Lab Slots
 9 Write unit tests using TDD approach for a simple calculator function. 1 
 10 Use Git to push code and show how automatic testing can run after each push. 1 
  
- 
- 
- 
- 
- 
- 
- 
 Back 
 
 ## Page 88
 
 FMCD2009 / 2.0 88 
- 
- 
  
 Program: Bachelor of Computer Applications Semester: VI 
 Course Title: Secure Software Engineering Course Code:24EBCE311 
@@ -4074,14 +3653,12 @@ Security. Threats to Software Security Sources of Software Insecurity. The Benef
 Detecting Software Security Defects Early: Making the Business Case for Software Security 
 Current State. 
  
- 
 10 Hrs 
 2 Introduction to Properties of Secure Software 
 Core Properties of Secure Software. Influential Properties of Secure Software. How to 
 Influence the Security Properties of Software: The Defensive Perspective. The Attacker's 
 Perspective. How to Assert and Specify Desired Security Properties: Building a Security 
 Assurance Case. 
- 
  
 6 Hrs 
 Unit II 
@@ -4092,7 +3669,6 @@ Misuse Cases, An Abuse Case Example. The SQUARE Process Model: A Brief Descripti
 of SQUA RE, Tools, Expected results. SQUARE Sample Outputs: Output from SQUARE 
 Steps, SQUARE Final Results. 
  
- 
 8 Hrs 
 4 Requirements Elicitation: 
 Overview of Several Elicitation Methods, Elicitation Evaluation Criteria.  Requirements 
@@ -4101,8 +3677,6 @@ Comparison, and Recommendations for Requirements Prioritization. Software Securi
 Practices for Architecture and Design Architectural Risk Analysis: Characterization, Threat. 
 Assessment, Determination, Risk. Risk Mitigation Planning. Recapping Architectural Risk 
 Analysis. 
- 
- 
  
 8 Hrs 
 Unit – III 
@@ -4127,12 +3701,6 @@ Security Flaws (Second Edition), Wiley, 2021.
 
 FMCD2009 / 2.0 89 
  
- 
- 
- 
- 
- 
- 
 Sl.no  
 Integrated Practices 
 Lab 
@@ -4151,8 +3719,6 @@ design.
 8 Create a risk assessment sheet for a small mobile app. 1 
 9 List 5 security principles and match them with relevant attack patterns. 1 
  
- 
- 
 Back 
 Reference Book: 
 1. Software Reliability Engineering: More Reliable Software Faster and Cheaper," was published in 2004 
@@ -4164,9 +3730,6 @@ e- Learning Resources:
 ## Page 90
 
 FMCD2009 / 2.0 90 
- 
- 
- 
  
 Program: Bachelor of Computer Applications Semester: VI 
 Course Title: Object Oriented Modelling and Design Course Code:24EBCE312 
@@ -4222,7 +3785,6 @@ behavior, Adjustment of inheritance, Organizing a class Design, ATM example.
 
 FMCD2009 / 2.0 91 
  
- 
  What is a pattern and what makes a pattern? Relationships between patterns, Pattern 
 description. Pattern categories; Communication patterns: Forwarder -Receiver. 
 Management Patterns: Command processor. Idioms: What can idioms provide? Idioms and 
@@ -4241,11 +3803,6 @@ Unified Modeling Language User Guide, Addison-Wesley Professional, 2015.
 Elements of Reusable Object-Oriented Software, Addison-Wesley Professional, 2024, ISBN: 978- 
 0138141789. 
  
- 
- 
- 
- 
- 
 Sl.No.  
 Integrated Practices 
 Lab 
@@ -4259,18 +3816,11 @@ slots
 7 Build a domain model with "User" and "Account" classes. 2 
 8 Implement the Singleton pattern in a "Logger" class. 1 
  
- 
- 
- 
- 
 Back 
 
 ## Page 92
 
 FMCD2009 / 2.0 92 
- 
- 
- 
  
 BCA-2023-26- Elective3 Groups- Data Analytics and Machine Learning 
  
@@ -4327,10 +3877,6 @@ University Press, 2020.
 
 FMCD2009 / 2.0 93 
  
- 
- 
- 
- 
 Integrated Practices 
  
 Expr. 
@@ -4346,14 +3892,11 @@ Experiments Lab Slot
 8 Time Series Analysis and Forecasting 1 
 9 Visualization Techniques for Statistical Data 1 
  
- 
 Back 
 
 ## Page 94
 
 FMCD2009 / 2.0 94 
- 
- 
  
 Program: Bachelor of Computer Applications Semester: VI 
 Course Title: Internet of Things Course Code:24EBCE314 
@@ -4406,8 +3949,6 @@ Protocols”, Wiley, 2nd Edition, 2021.
 
 FMCD2009 / 2.0 95 
  
- 
- 
 Integrated Practices 
  
 Expr. 
@@ -4428,8 +3969,6 @@ Experiments Lab Slot
 ## Page 96
 
 FMCD2009 / 2.0 96 
- 
- 
  
 Program: Bachelor of Computer Applications Semester: VI 
 Course Title: Social Network Analysis Course Code:24EBCE315 
@@ -4482,8 +4021,6 @@ Connected World, Revised Edition, Cambridge University Press, 2020.
 
 FMCD2009 / 2.0 97 
  
- 
- 
 Integrated Practices 
  
 Expr. 
@@ -4499,36 +4036,11 @@ Name of Experiment Lab Slot
 8 Influence Analysis and Hashtag Trends 1 
 9 Information Diffusion Modeling 2 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 Back 
 
 ## Page 98
 
 FMCD2009 / 2.0 98 
- 
- 
- 
  
 Program: Bachelor of Computer Applications Semester: VI 
 Course Title: Capstone Project Course Code: 23EBCP302 
@@ -4555,15 +4067,9 @@ application for a mini-world problem.
 documents, user manuals, and technical reports for the software application 
 developed. 
  
-
 ## Page 99
 
 FMCD2009 / 2.0 99 
- 
- 
- 
- 
- 
  
 Internal Semester 
 Assessment (50%) 
@@ -4575,8 +4081,5 @@ End Semester
 Assessment (50%) 
 Final Review 50 
  Total 100 
- 
- 
- 
  
 Back 

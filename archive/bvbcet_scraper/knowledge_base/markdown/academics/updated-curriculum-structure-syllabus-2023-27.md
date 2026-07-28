@@ -1,44 +1,17 @@
 # PDF Document: updated-curriculum-structure-syllabus-2023-27
+
 **PDF Source:** https://www.kletech.ac.in/pdf/updated-curriculum-structure-syllabus-2023-27.pdf
 
 ## Page 1
 
- 
- 
 FMCD2009 / 2.0 1 
- 
- 
- 
- 
-  
- 
  
 Curriculum Structure and Curriculum Content for the Batch 2023-27 
 School /Department: Electronics and Communication Engineering 
 Program: Bachelor Of Engineering 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 2
 
- 
- 
 FMCD2009 / 2.0 2 
 Table of Contents 
  
@@ -69,26 +42,17 @@ List of Swayam Courses ---------------------------------------------------------
 Curriculum Content – Coursewise ------------------------------------------------------------- 
 20 
  
- 
- 
-
 ## Page 3
 
- 
- 
 FMCD2009 / 2.0 3 
- 
- 
  
 Vision and Mission of KLE Technological University 
  
 Vision 
  
- 
 KLE Technological  University will be a national leader in Higher 
 Education–recognised globally for innovative culture, outstanding 
 student experience, research excellence and social impact. 
- 
  
 Mission 
  
@@ -112,8 +76,6 @@ enhance competitiveness and quality of life.
 
 ## Page 4
 
- 
- 
 FMCD2009 / 2.0 4 
  
 As a unified community of  faculty, staff and students, we work together with 
@@ -127,9 +89,7 @@ KLE Tech -School of Electronics and C ommunication will be well reco gnized
 nationally and internationally for excellence in its educational programs, 
 pioneering research and impact on the industry and society. 
  
- 
 Mission 
- 
  
 1. To create a unique learning environment through rigorous curriculum o f 
 theory and practice that dev elops students’ technical, scientific, and 
@@ -142,17 +102,9 @@ boundaries of disciplinary and interdisciplinary knowledge and its applications.
 3. To collaborate within and beyond the discipline to create solutions that 
 benefit humanity and society 
  
- 
- 
- 
-
 ## Page 5
 
- 
- 
 FMCD2009 / 2.0 5 
- 
- 
  
 Program Educational Objectives/Program Outcomes and Program-Specific Objectives 
 Program Educational Objectives -PEO’s 
@@ -186,8 +138,6 @@ conclusions. WK 8
 
 ## Page 6
 
- 
- 
 FMCD2009 / 2.0 6 
 PO5: Eng ineering Tool Usage: Create, select and apply appropriate techniques, 
 resources and modern engineering & IT tools, including prediction and modelling 
@@ -224,8 +174,6 @@ systems of varying complexity.
 
 ## Page 7
 
- 
- 
 FMCD2009 / 2.0 7 
 PSO 2:13 
 Demonstrate the knowledge of the state of art tools and apply for the development 
@@ -234,11 +182,8 @@ PSO 3:14
 An ability to use appropriate modern techniques for analysis, design and 
 development of Communication components/systems 
  
-
 ## Page 8
 
- 
- 
 FMCD2009 / 2.0 8 
 Curriculum Structure-Overall 
 Course with course code 
@@ -470,16 +415,11 @@ CIPE
 
 ## Page 9
 
- 
- 
 FMCD2009 / 2.0 9 
  
 Total Credits: 176 
  
- 
- 
 2-0-0 (23EECP303) 
- 
  
 PCL2: Analog 
 Electronic Circuits 
@@ -535,15 +475,10 @@ Credits 21 23 22 22 24 24 23 17
 
 ## Page 10
 
- 
- 
 FMCD2009 / 2.0 10 
- 
- 
  
 Curriculum Structure-Semester wise 
 Semester - I 
- 
  
 No Code Course Category L-T-P Credits Contact         
 Hours ISA ESA Total 
@@ -561,13 +496,8 @@ TOTAL   21 28 440 260 700
 
 ## Page 11
 
- 
- 
 FMCD2009 / 2.0 11 
 Semester - II 
- 
- 
- 
  
 No Code Course Category L-T-P Credits Contact 
 Hours 
@@ -588,12 +518,8 @@ ES 0-0-3 3 6 80 20 100 3 Hrs.
 
 ## Page 12
 
- 
- 
 FMCD2009 / 2.0 12 
 Semester- III 
- 
- 
  
 No Code Course Category L-T-P Credits Contact 
 Hours 
@@ -632,11 +558,8 @@ TOTAL   22  590 310 900
 
 ## Page 13
 
- 
- 
 FMCD2009 / 2.0 13 
 Semester- IV 
- 
  
 No Code Course  Category L-T-P Credits Contact 
 Hours 
@@ -690,8 +613,6 @@ ES
 
 ## Page 14
 
- 
- 
 FMCD2009 / 2.0 14 
 Semester- V 
 No Code Course  Category L-T-P Credits Contact 
@@ -720,8 +641,6 @@ TOTAL   24 34 523 377 900
 
 ## Page 15
 
- 
- 
 FMCD2009 / 2.0 15 
  
 Semester- VI 
@@ -747,12 +666,8 @@ Networks I Lab PC 0-0-1 1 2 80 20 100 2 hours
 
 ## Page 16
 
- 
- 
 FMCD2009 / 2.0 16 
 Semester- VII 
- 
- 
  
 No Code Course  Category L-T-P Credits Contact 
 Hours 
@@ -770,8 +685,6 @@ TOTAL   23 30 367 334 700
 
 ## Page 17
 
- 
- 
 FMCD2009 / 2.0 17 
 Semester- VIII 
  
@@ -804,8 +717,6 @@ TOTAL  6-0-11 17  150 150 300
 
 ## Page 18
 
- 
- 
 FMCD2009 / 2.0 18 
 List of Open Electives 
 Sr. No Name of the Course Course Code 
@@ -839,8 +750,6 @@ Sr.No Name of the Course Course Code
 
 ## Page 19
 
- 
- 
 FMCD2009 / 2.0 19 
 List of Swayam Courses 
 Sr.No Name of the Course Course Code 
@@ -863,21 +772,8 @@ Analytics and Machine Learning
 13 Cryptography And Network Security 22EECE431 
 14 RFIC Design 25EECE449 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 20
 
- 
- 
 FMCD2009 / 2.0 20 
 Curriculum Content- Course wise 
 Back to Semester1  
@@ -927,8 +823,6 @@ Program: Electronics and Communication Engineering  Semester: I
 
 ## Page 21
 
- 
- 
 FMCD2009 / 2.0 21 
 Program: Electronics and Communication Engineering  Semester: I 
 Course Title: Engineering Physics  Course Code:22EPHB101 
@@ -979,14 +873,9 @@ Lines Motion of a Charged Particle in a Uniform Electric Field
 
 ## Page 22
 
- 
- 
 FMCD2009 / 2.0 22 
  
 Back to Semester I 
- 
- 
- 
  
 Gauss’s Law:  
 Electric Flux, Gauss’s Law, Application of Gauss’s Law to  Various Charge Distributions, 
@@ -1026,8 +915,6 @@ Norosa Publishing House (1998).
 
 ## Page 23
 
- 
- 
 FMCD2009 / 2.0 23 
 Program: Electronics & Communication Engineering Semester: I 
 Course Title:  Engineering Mechanics Course Code: 15ECVF101 
@@ -1074,8 +961,6 @@ angle of friction and angle of repose, cone of friction. Wed ge t heory. Numeric
 
 ## Page 24
 
- 
- 
 FMCD2009 / 2.0 24 
 motion on horizontal and inclined planes (including connected bodies); wedge friction and Ladder friction.                                                                                                               
 6. Simple Stress and Strain                                                                                                                     
@@ -1111,14 +996,10 @@ Company, New Delhi, 2017
 India Pvt. Ltd, New Delhi, 2005 
 5. Ramamrutham, S., Engineering Mechanics, Dhanpat Rai Publishing Co., New Delhi, 2016 
  
- 
 Back to Semester I 
  
-
 ## Page 25
 
- 
- 
 FMCD2009 / 2.0 25 
 Program: Electronics & Communication Engineering Semester: I 
 Course Title:  C Programming for Problem solving Course Code: 18ECSP101 
@@ -1150,17 +1031,8 @@ Reference Books:
  
 Back to Semester I 
  
- 
- 
- 
- 
- 
- 
-
 ## Page 26
 
- 
- 
 FMCD2009 / 2.0 26 
 Program: Electronics & Communication Engineering Semester: I 
 Course Title:  Basic Electrical Engineering Course Code: 18EEEF101 
@@ -1206,8 +1078,6 @@ high and low charging rates, Battery sizing. Numericals.
 
 ## Page 27
 
- 
- 
 FMCD2009 / 2.0 27 
 Text Books  
 1. Hughes, Electrical & Electronic Technology, 8th, Pearson Education, 2001 
@@ -1224,27 +1094,8 @@ Tata McGraw Hill Education Private Limited, New Delhi., 2005
  
 Back to Semester I 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 28
 
- 
- 
 FMCD2009 / 2.0 28 
  
 Program: Electronics & Communication Engineering Semester: I 
@@ -1255,9 +1106,7 @@ Teaching Hours: 28Hrs Examination Duration: 3 Hrs
 Module Topics Assignments Support activities / Tools 
 KNOWLEDGE, TOOLS & DEVELOPMENT 
  
-  
 Course sensitization 
- 
  
 1. Introduction to Social 
 Innovation: 
@@ -1323,8 +1172,6 @@ group mates)
 
 ## Page 29
 
- 
- 
 FMCD2009 / 2.0 29 
 Create Mindsets 
  
@@ -1359,14 +1206,6 @@ assignments
 “Create 
 Mindsets” 
  
- 
- 
- 
- 
- 
- 
- 
- 
  (How to train the 
 Dragon?  
 Common Video for all the 
@@ -1376,7 +1215,6 @@ Talk on “How to build
 your Creative Confidence 
 by David Kelley – IDEO 
 Founder)  
- 
  
  Process of Social 
 Innovation Engage 
@@ -1394,8 +1232,6 @@ in understanding the
 
 ## Page 30
 
- 
- 
 FMCD2009 / 2.0 30 
 Identification 
  Case Study on 
@@ -1462,8 +1298,6 @@ case study
 
 ## Page 31
 
- 
- 
 FMCD2009 / 2.0 31 
 Punctuality for Class) 
  Interview 
@@ -1520,8 +1354,6 @@ case study
 
 ## Page 32
 
- 
- 
 FMCD2009 / 2.0 32 
  Select Promising 
 Ideas 
@@ -1578,11 +1410,8 @@ respective templates
 with the help of sample 
 case study 
  
-
 ## Page 33
 
- 
- 
 FMCD2009 / 2.0 33 
 www.blog.fundly.com) 
  Duration 
@@ -1608,26 +1437,10 @@ respective templates
 with the help of sample 
 case study 
  
- 
- 
 Back to Semester I 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 34
 
- 
- 
 FMCD2009 / 2.0 34 
 Program: Electronics & Communication Engineering Semester: I 
 Course Title:  Applied Physics lab Course Code: 21EPHP101 
@@ -1650,22 +1463,8 @@ OPEN ENDED EXPERIMENT
  
 Back to Semester I 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 35
 
- 
- 
 FMCD2009 / 2.0 35 
 Program: Electronics & Communication Engineering Semester: II 
 Course Title:  Multivariable calculus Course Code: 18EMAB102 
@@ -1705,12 +1504,8 @@ Reference Books:
  
 Back to Semester II 
  
- 
-
 ## Page 36
 
- 
- 
 FMCD2009 / 2.0 36 
 Program: Electronics & Communication Engineering Semester: II 
 Course Title:  Engineering Chemistry Course Code: 22ECHB102 
@@ -1755,8 +1550,6 @@ Liquid crystals: classification of liq uid crysta ls, applicat ions of liquid cr
 
 ## Page 37
 
- 
- 
 FMCD2009 / 2.0 37 
 properties, sma rt glass: electrochromic, thermochromic a nd photochromi c smart glass - properties an d 
 applications. Thermoelectric and Piezoelectric materials - meaning, properties and applications. 
@@ -1787,15 +1580,8 @@ Publishing House, Pvt. Ltd, 2010, Mumbai.
  
 Back to Semester II 
  
- 
- 
- 
- 
-
 ## Page 38
 
- 
- 
 FMCD2009 / 2.0 38 
 Program: Electronics & Communication Engineering Semester: II 
 Course Title:  Problem Solving with Data Structures Course Code: 18ECSP102 
@@ -1829,14 +1615,8 @@ Reference Books:
  
 Back to Semester II 
  
- 
- 
- 
-
 ## Page 39
 
- 
- 
 FMCD2009 / 2.0 39 
 Program: Electronics & Communication Engineering Semester: II 
 Course Title:  Engineering Exploration Course Code: 22ECRP101 
@@ -1871,11 +1651,8 @@ Course Project
 Reviews 
 Back to Semester II 
  
-
 ## Page 40
 
- 
- 
 FMCD2009 / 2.0 40 
 Program: Electronics & Communication Engineering Semester: II 
 Course Title:  Basic Electronics Course Code: 18EECF101 
@@ -1923,8 +1700,6 @@ Working principle of linear power supply, UPS and CRO. Measurement of amplitude,
 
 ## Page 41
 
- 
- 
 FMCD2009 / 2.0 41 
 given signal. 
 Text Books 
@@ -1940,26 +1715,10 @@ Reference Books:
 4. Boylestead Nashelsky, Electronic devices & Circuit theory, Prentice Hall India, 2000 
 5. Ramakant Gaikawad, Operational Amplifiers & applications, PHI, 2000 
  
- 
 Back to Semester II 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 42
 
- 
- 
 FMCD2009 / 2.0 42 
 Program: Electronics & Communication Engineering Semester: II 
 Course Title:  Basic Mechanical Engineering Course Code: 22EECF101 
@@ -2002,8 +1761,6 @@ Video presentations
 
 ## Page 43
 
- 
- 
 FMCD2009 / 2.0 43 
 Text Books 
 1. Jonathan Wickert and K emper Lewis, An Introduction to Mechanical En gineering, Third Edition, 2013-  
@@ -2018,25 +1775,8 @@ Basic Manufacturing, Roger Timings, Third edition, Newnes, An imprint of Elsevie
  
 Back to Semester II 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 44
 
- 
- 
 FMCD2009 / 2.0 44 
 Program: Electronics & Communication Engineering Semester: II 
 Course Title:  Professional Communication Course Code: 15EHSH101 
@@ -2065,18 +1805,8 @@ Reference Books:
  
 Back to Semester II 
  
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 45
 
- 
- 
 FMCD2009 / 2.0 45 
 Program:  Bachelor of Engineering (Electronic s & Communication 
 Engineering) 
@@ -2124,13 +1854,8 @@ Introduction to Random  process, stationary proc ess, mean, correlation and cova
 autocorrelation function, cro ss correlation, Power spectral Dens ity: properties of the spectral de nsity; 
 Gaussian Process: Properties of Gaussian process. 
  
- 
- 
-
 ## Page 46
 
- 
- 
 FMCD2009 / 2.0 46 
 Text Books 
 1. Kreyszig E., Advanced Engineering Mathematics, 10th edition, Wiley, 2015 
@@ -2147,26 +1872,8 @@ Reference Books:
  
 Back to Semester III 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 47
 
- 
- 
 FMCD2009 / 2.0 47 
 Program: Electronics & Communication Engineering Semester: III 
 Course Title: Corporate Communication Course Code: 22EHSH201 
@@ -2193,19 +1900,8 @@ Reference Books:
  
 Back to Semester III 
  
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 48
 
- 
- 
 FMCD2009 / 2.0 48 
 Program:  Bachelor of Engineering (Electronics & Comm unication 
 Engineering) 
@@ -2253,12 +1949,8 @@ curve, peaking of f requency curve a nd its relation to damping factor . Series 
 factor, Selectivity and Bandwidth  
 [Text 2: Chapter 7,8] [ Text 1: Chapter 4,5, 7] 
  
- 
-
 ## Page 49
 
- 
- 
 FMCD2009 / 2.0 49 
 Text Books 
 1. W H Hayt, J E Kemmer ly, S M Durban, “Engineering Ci rcuit Analysis” McGraw Hill Educati on; Eighth 
@@ -2270,31 +1962,10 @@ Reference Books:
 2.  V. K . Aatre, ―Network T heory and Filter  Design,3rd edition, New Age International Private 
 Limited,2014 
  
- 
 Back to Semester III 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 50
 
- 
- 
 FMCD2009 / 2.0 50 
 Program:  Bachelor of Engineering (Electronics & Communication 
 Engineering) 
@@ -2342,11 +2013,8 @@ degenerated common source amplifier, cascode and cascaded circuits High frequenc
 revision of common-gate, common- source, common-drain circuits; poles and zeros in the transfer function 
 (T1:4.4,4.5, 4.6.1 to 4.6.7, 4.7.1, 4.7.2, 4.7.3, 4.7.5, 4.7.6, 4.7.7;4.8.1,4.8.2, 4.8.3,4.8.4, 4.9.1 to 4.9.3) 
  
-
 ## Page 51
 
- 
- 
 FMCD2009 / 2.0 51 
 Unit III 
 Chapter 6: Feedback Amplifiers  
@@ -2373,20 +2041,8 @@ Education,2003
  
 Back to Semester III 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 52
 
- 
- 
 FMCD2009 / 2.0 52 
 Program:  Bachelor of Engineering (Electronics & Communication 
 Engineering) 
@@ -2434,8 +2090,6 @@ Reference Books:
 
 ## Page 53
 
- 
- 
 FMCD2009 / 2.0 53 
 2. ZviKohavi, Switching and Finite Automata Theory Cambridge University Press;  
 3 edition October 2009 
@@ -2444,32 +2098,8 @@ FMCD2009 / 2.0 53
  
 Back to Semester III 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 54
 
- 
- 
 FMCD2009 / 2.0 54 
 Program:  Bachelor of Engineering (Electronics & Communication 
 Engineering) 
@@ -2506,15 +2136,8 @@ Reference Books:
  
 Back to Semester III 
  
- 
- 
- 
- 
-
 ## Page 55
 
- 
- 
 FMCD2009 / 2.0 55 
 Program:  Bachelor of Engineering (Electronics & Communication 
 Engineering) 
@@ -2544,21 +2167,10 @@ Reference Books:
 1. K.A. Krishnamurthy―Digital lab primer‖, Pearson Education Asia Publications, 2003. 
 2. A.P. Malvino, ―Electronic Principles 7th edition, McGraw Hill Education,2017 
  
- 
 Back to Semester III 
  
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 56
 
- 
- 
 FMCD2009 / 2.0 56 
 Program:  Bachelor of Engineering (Electronics & Communication 
 Engineering) 
@@ -2595,15 +2207,8 @@ manual.
  
 Back to Semester III 
  
- 
- 
- 
- 
-
 ## Page 57
 
- 
- 
 FMCD2009 / 2.0 57 
 Program:  Bachelor of Engineering (Electronics & Communication 
 Engineering) 
@@ -2651,8 +2256,6 @@ Mazidi’ , Pearson Education, 2003
 
 ## Page 58
 
- 
- 
 FMCD2009 / 2.0 58 
  
 Reference Books: 
@@ -2660,33 +2263,8 @@ Reference Books:
  
 Back to Semester III 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 59
 
- 
- 
 FMCD2009 / 2.0 59 
 Program:  Bachelor of Engineering (Electronics & Communication 
 Engineering) 
@@ -2729,8 +2307,6 @@ Back to Semester III
 
 ## Page 60
 
- 
- 
 FMCD2009 / 2.0 60 
 Program:  Bachelor of Engineering (Electronics & Communication 
 Engineering) 
@@ -2781,8 +2357,6 @@ New York,1993
 
 ## Page 61
 
- 
- 
 FMCD2009 / 2.0 61 
 Program: Electronics & Communication Engineering Semester: IV 
 Course Title: Problem Solving & Analysis Course Code: 22EHSH202 
@@ -2814,16 +2388,8 @@ New Delhi, 2018
  
 Back to Semester IV 
  
- 
- 
- 
- 
- 
-
 ## Page 62
 
- 
- 
 FMCD2009 / 2.0 62 
 Program:  Bachelor of Engineering (Electronics & Communication 
 Engineering) 
@@ -2870,8 +2436,6 @@ Back to Semester IV
 
 ## Page 63
 
- 
- 
 FMCD2009 / 2.0 63 
 Program:  Bachelor of Engineering (Electronics & Communication 
 Engineering) 
@@ -2918,8 +2482,6 @@ McGraw Hill 2014
 
 ## Page 64
 
- 
- 
 FMCD2009 / 2.0 64 
 Program:  Bachelor of Engineering (Electronics & Communication 
 Engineering) 
@@ -2968,8 +2530,6 @@ Program:  Bachelor of Engineering (Electronics & Communication Semester:IV Semes
 
 ## Page 65
 
- 
- 
 FMCD2009 / 2.0 65 
 Engineering) 
 Course Title: ARM Processor & Applications Course Code:22EECC207 
@@ -3017,8 +2577,6 @@ Back to Semester IV
 
 ## Page 66
 
- 
- 
 FMCD2009 / 2.0 66 
 Program:  Bachelor of Engineering (Electronics & Communication 
 Engineering) 
@@ -3056,16 +2614,8 @@ McGraw   Hill Education 2017.
  
 Back to Semester IV 
  
- 
- 
- 
- 
- 
-
 ## Page 67
 
- 
- 
 FMCD2009 / 2.0 67 
 Program:  Bachelor of Engineering (Electronics & Communication 
 Engineering) 
@@ -3108,8 +2658,6 @@ Text Books:
 
 ## Page 68
 
- 
- 
 FMCD2009 / 2.0 68 
 Pearson Education, 2015 
 2. Sergio Franco Design with Op-amps and Analog Integrated circuits, MHE; third edition,2012 
@@ -3122,29 +2670,8 @@ Hall,1985
  
 Back to Semester IV 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 69
 
- 
- 
 FMCD2009 / 2.0 69 
 Program:  Bachelor of Engineering (Electronics & Communication 
 Engineering) 
@@ -3195,8 +2722,6 @@ microcontroller.
 
 ## Page 70
 
- 
- 
 FMCD2009 / 2.0 70 
  
 9. Develop a C program to demonstrate the concept of serial communication with an example. 
@@ -3220,23 +2745,8 @@ Reference Books:
  
 Back to Semester IV 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 71
 
- 
- 
 FMCD2009 / 2.0 71 
 Program:  Bachelor of Engineering (Electronics & Communication 
 Engineering) 
@@ -3266,19 +2776,8 @@ Edition.
  
 Back to Semester IV 
  
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 72
 
- 
- 
 FMCD2009 / 2.0 72 
 Program:  Bachelor of Engineering (Electronics & Communication 
 Engineering) 
@@ -3324,8 +2823,6 @@ Back to Semester IV
 
 ## Page 73
 
- 
- 
 FMCD2009 / 2.0 73 
 Program:  Bachelor of Engineering (Electronics & Communication 
 Engineering) 
@@ -3371,11 +2868,8 @@ Approach” Springer 2009
 4. Keith Barr - ASIC Design in the Silicon Sandbox- A Complete Guide to Building Mixed-Signal 
 Integrated Circuits-McGraw-Hill Professional (2006) 
  
-
 ## Page 74
 
- 
- 
 FMCD2009 / 2.0 74 
 Reference Books: 
 1. Wayne, Wolf, Modern VLSI design: System on Silicon, 3, Pearson Ed, 2005 
@@ -3385,31 +2879,8 @@ McGraw, 2007
  
 Back to Semester V 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 75
 
- 
- 
 FMCD2009 / 2.0 75 
 Program:  Bachelor of Engineering (Electronics & Communication 
 Engineering) 
@@ -3454,8 +2925,6 @@ Back to Semester V
 
 ## Page 76
 
- 
- 
 FMCD2009 / 2.0 76 
  
 Program:  Bachelor of Engineering (Electronics & Communication 
@@ -3494,14 +2963,8 @@ Reference Books:
  
 Back to Semester V 
  
- 
- 
- 
-
 ## Page 77
 
- 
- 
 FMCD2009 / 2.0 77 
 Program:  Bachelor of Engineering (Electronics & Communication 
 Engineering) 
@@ -3541,16 +3004,10 @@ Limited,2017
 Reference Books:1. Dhananjay Dhamdhere, Operating Systems a Concept Based Approach,3rd  edition, 
 McGraw-HillEducation,2017 
  
- 
- 
- 
- 
 Experiment Wise Plan  
 
 ## Page 78
 
- 
- 
 FMCD2009 / 2.0 78 
  List of experiments/jobs planned to meet the requirements of the course. 
 Category: Exercise 
@@ -3577,17 +3034,8 @@ the specific requirements outlined in the given problem statement.
  
 Back to Semester V 
  
- 
- 
- 
- 
- 
- 
-
 ## Page 79
 
- 
- 
 FMCD2009 / 2.0 79 
 Program:  Bachelor of Engineering (Electronics & Communication 
 Engineering) 
@@ -3637,8 +3085,6 @@ Back to Semester V
 
 ## Page 80
 
- 
- 
 FMCD2009 / 2.0 80 
 Program:  Bachelor of Engineering (Electronics & Communication 
 Engineering) 
@@ -3670,20 +3116,8 @@ edition, Pearson Education (Asia) Ptv. Ltd.,2000.
  
 Back to Semester V 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 81
 
- 
- 
 FMCD2009 / 2.0 81 
 Program:  Bachelor of Engineering (Electronics & Communication 
 Engineering) 
@@ -3700,18 +3134,6 @@ Project should be able to exhibit sensing, controlling and actuation sections.
 The mini project essentially will comprise of two components: 
  The hardware design  
  The graphical user interface (GUI) for application and data analysis with report generation. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Student can select a project which leads to a product or model or prototype related to following areas (not 
 limited to these areas). 
@@ -3738,8 +3160,6 @@ Output
 
 ## Page 82
 
- 
- 
 FMCD2009 / 2.0 82 
 Program: Electronics & Communication Engineering Semester: V 
 Course Title: Arithmetical Thinking and Analytical Reasoning Course Code: 23EHSA303 
@@ -3767,19 +3187,8 @@ Reference Books:
  
 Back to Semester V 
  
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 83
 
- 
- 
 FMCD2009 / 2.0 83 
 Program: Bachelor of Engineering  
 Course Title: Communication Systems Lab Course Code:25EECP304 
@@ -3803,18 +3212,8 @@ Environments
  
 Back to Semester V 
  
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 84
 
- 
- 
 FMCD2009 / 2.0 84 
 Program:  Bachelor of Engineering (Electronics & Communication 
 Engineering) 
@@ -3845,19 +3244,8 @@ Reference Books:
  
 Back to Semester VI 
  
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 85
 
- 
- 
 FMCD2009 / 2.0 85 
 Program: Electronics & Communication Engineering Semester: VI 
 Course Title: Industry Readiness & Leadership Skills Course Code: 23EHSA304 
@@ -3884,19 +3272,8 @@ Reference Books:
  
 Back to Semester VI 
  
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 86
 
- 
- 
 FMCD2009 / 2.0 86 
 Program:  Bachelor of Engineering (Electronics & Communication 
 Engineering) 
@@ -3937,8 +3314,6 @@ steady acceleration.
 
 ## Page 87
 
- 
- 
 FMCD2009 / 2.0 87 
  Modeling and simulation of wiper control system using state flow and realization on the hardware platform. 
  Develop embedded C code for the power window system of an automobile and realization on the hardware platform. 
@@ -3961,23 +3336,8 @@ Reference Books:
  
 Back to Semester VI 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 88
 
- 
- 
 FMCD2009 / 2.0 88 
 Program:  Bachelor of Engineering (Electronics & Communication 
 Engineering) 
@@ -4013,17 +3373,8 @@ Reference Books:
  
 Back to Semester VI 
  
- 
- 
- 
- 
- 
- 
-
 ## Page 89
 
- 
- 
 FMCD2009 / 2.0 89 
 Program:  Bachelor of Engineering (Electronics & Communication 
 Engineering) 
@@ -4070,11 +3421,8 @@ tuning.
 Transformer-based Autoregressive Models: Overview, Architecture, Training, Applications, BERT (Bidirectional 
 Encoder Representations from Transformers), T5 (Text-to-Text Transfer Transformer) 
  
-
 ## Page 90
 
- 
- 
 FMCD2009 / 2.0 90 
 Chapter 6: Generative Models II: Large Language Models (LLMs) 
 Introduction to LLMs, Overview of Large Language Models (e.g., GPT -3, GPT-4), Training methodologies and 
@@ -4104,19 +3452,8 @@ images, text,  and mu sic with VAEs, GANs, LSTMs, Transformer models”, Packt P
  
 Back to Semester VI 
  
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 91
 
- 
- 
 FMCD2009 / 2.0 91 
 Program:  Bachelor of Engineering (Electronics & Communication 
 Engineering) 
@@ -4146,18 +3483,10 @@ Reference Books:
 1. Cisco networking academy, https://www.netacad.com/ 
 2. Juniper networking academy, https://learningportal.juniper .net/ 
  
- 
 Back to Semester VI 
  
- 
- 
- 
- 
-
 ## Page 92
 
- 
- 
 FMCD2009 / 2.0 92 
 Program:  Bachelor of Engineering (Electronics & Communication 
 Engineering) 
@@ -4194,7 +3523,6 @@ Details of the project batches:
 1. Number of faculty members: 64 
 2. Number of students: 278    
  
- 
 Role of a Guide  
 The primary responsibility of the guide is to help students to understand the meaning and need of 
 various stages in the implementation of the project. At every stage of the project development, guide 
@@ -4204,8 +3532,6 @@ How student should carry out a project:
 
 ## Page 93
 
- 
- 
 FMCD2009 / 2.0 93 
 1. Define the problem 
 2. Specify the requirements  
@@ -4223,25 +3549,8 @@ The report needs to be shown to guide and committee for each review.
  
 Back to Semester VI 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 94
 
- 
- 
 FMCD2009 / 2.0 94 
 Program:  Bachelor of Engineering (Electronics & Communication 
 Engineering) 
@@ -4274,17 +3583,8 @@ Reference Books:
  
 Back to Semester VI 
  
- 
- 
- 
- 
- 
- 
-
 ## Page 95
 
- 
- 
 FMCD2009 / 2.0 95 
 Program:  Bachelor of Engineering (Electronics & Communication 
 Engineering) 
@@ -4322,16 +3622,8 @@ Tools: Questa Sim, NC Verilog, NC Sim, CVER + GTKWave, VCSMX, Modelsim for Veril
  
 Back to Semester VI 
  
- 
- 
- 
- 
- 
-
 ## Page 96
 
- 
- 
 FMCD2009 / 2.0 96 
 Program:  Bachelor of Engineering (Electronics & Communication 
 Engineering) 
@@ -4360,7 +3652,6 @@ and design considerations to choose a particular pre-trained model, Federated Le
 Android Architecture, Linux Kernel, Binder, HAL Native Libraries, Android Runtime, D alvik Application 
 framework, Applications, IPC. 
 Text Books 
-1. Linux System Programming, by Robert Love, Copyright © 2007 O'Reilly Media 
 2. Heterogeneous Computing with OpenCL, 2nd Edition by Dana Schaa, Perhaad Mistry, David R. Kaeli, 
 Lee Howes, Benedict Gaster, Publisher: Morgan Kaufmann  
 Reference Books: 
@@ -4369,16 +3660,8 @@ Reference Books:
  
 Back to Semester VI 
  
- 
- 
- 
- 
- 
-
 ## Page 97
 
- 
- 
 FMCD2009 / 2.0 97 
 Experiment wise plan 
 Expt./Job No. Experiment/job Details 
@@ -4400,20 +3683,8 @@ architectures based on provided specifications.
  
 Back to Semester VI 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 98
 
- 
- 
 FMCD2009 / 2.0 98 
 Program:  Bachelor of Engineering (Electronics & Communication 
 Engineering) 
@@ -4449,18 +3720,10 @@ Reference Books:
 1. Lippman S B, Lajorie J, Moo B E, C++ Primer, 5ed, Addison Wesley, 2013. 
 2. Herbert Schildt: The Complete Reference C++, 4th Edition, Tata McGraw Hill 
  
- 
 Back to Semester VI 
  
- 
- 
- 
- 
-
 ## Page 99
 
- 
- 
 FMCD2009 / 2.0 99 
 Program:  Bachelor of Engineering (Electronics & Communication 
 Engineering) 
@@ -4499,14 +3762,8 @@ professional technical reference, 2002.
  
 Back to Semester VI 
  
- 
- 
- 
-
 ## Page 100
 
- 
- 
 FMCD2009 / 2.0 100 
 Program:  Bachelor of Engineering (Electronics & Communication 
 Engineering) 
@@ -4544,15 +3801,8 @@ Reference Books:
  
 Back to Semester VI 
  
- 
- 
- 
- 
-
 ## Page 101
 
- 
- 
 FMCD2009 / 2.0 101 
 7th Semester: 
 Program: Electronics & Communication Engineering Semester: VII 
@@ -4588,16 +3838,8 @@ References
  
 Back to Semester VII 
  
- 
- 
- 
- 
- 
-
 ## Page 102
 
- 
- 
 FMCD2009 / 2.0 102 
 Program: Electronics & Communication Engineering Semester: VII 
 Course Title: CIPE & EVS Course Code: 15EHSC402 
@@ -4624,7 +3866,6 @@ Unit II
 Chapter No. 7 Scope & Aims of Engineering Ethics : Scope & Aims of Engineering Ethics: Meaning and 
 purpose of Engineering Ethics, Responsibility of Engineers, Impediments to responsibility, Honesty, Integrity 
 and reliability, risks, safety & liability in engineering. Bhopal Gas Tragedy, Titanic case.  
-Chapter No. 8 Intellectual Property Rights : Intellectual Property Rights (IPRs)- Patents, Copyright and 
 Designs 
 Chapter No. 9 Ethical perspectives of professional bodies :Ethical perspectives of professional bodies- IEEE, 
 ASME, NSPE and ABET, ASCE etc. 
@@ -4639,8 +3880,6 @@ Text Book (List of books as mentioned in the approved syllabus)
 
 ## Page 103
 
- 
- 
 FMCD2009 / 2.0 103 
 1. Dr . J. N. Pandey, “Constitutional Law of India”, Central Law Agency, 2005 
 2. Dr . M.K. Bhandari, “Law relating to Intellectual Property Rights”, Central Law Publications, Allahabad, 
@@ -4651,32 +3890,10 @@ References
 1. Durga Das Basu, “Introduction to the Constitution of India”, Prentice-hall EEE, 2001 
 2. Mike Martin and Ronald Schinzinger, “Ethics in Engineering”, Tata McGraw-Hill Publications. 
  
- 
 Back to Semester VII 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 104
 
- 
- 
 FMCD2009 / 2.0 104 
 Program: Electronics & Communication Engineering Semester: VII 
 Course Title: Senior Design Project Course Code: 20EECW401 
@@ -4727,8 +3944,6 @@ How student should carry out a project:
 
 ## Page 105
 
- 
- 
 FMCD2009 / 2.0 105 
 • Prepare a document and presentation. 
  
@@ -4744,29 +3959,10 @@ Evaluation Scheme
 • Project shall be reviewed and evaluated by the concerned Guide for 50% of the marks. 
 • Project shall be evaluated by the review committee for 50% of the marks. 
  
- 
 Back to Semester VII 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 106
 
- 
- 
 FMCD2009 / 2.0 106 
 7th semester Electives 
 Program: Electronics & Communication Engineering Semester: VII 
@@ -4801,17 +3997,8 @@ Tools: Questa Sim,  NC Verilog, NC Sim, CVER + GTKWave, VCSMX, Modelsim for Veri
  
 Back to Semester VII 
  
- 
- 
- 
- 
- 
- 
-
 ## Page 107
 
- 
- 
 FMCD2009 / 2.0 107 
 Program: Electronics & Communication Engineering Semester: VII 
 Course Title:  Speech Processing Course Code: 24EECE422 
@@ -4848,16 +4035,8 @@ Reference Books:
  
 Back to Semester VII 
  
- 
- 
- 
- 
- 
-
 ## Page 108
 
- 
- 
 FMCD2009 / 2.0 108 
 Program: Electronics & Communication Engineering Semester: VII 
 Course Title:  Multimedia Communication Course Code: 18EECE410 
@@ -4891,17 +4070,8 @@ systems: Techniques, Standards, & Networks”, Second Indian reprint, 2004.
  
 Back to Semester VII 
  
- 
- 
- 
- 
- 
- 
-
 ## Page 109
 
- 
- 
 FMCD2009 / 2.0 109 
 Program: Electronics & Communication Engineering Semester: VII 
 Course Title:  Physical Design - Analog Course Code: 25EECE419 
@@ -4930,16 +4100,8 @@ References
  
 Back to Semester VII 
  
- 
- 
- 
- 
- 
-
 ## Page 110
 
- 
- 
 FMCD2009 / 2.0 110 
 Program: Electronics & Communication Engineering Semester: VII 
 Course Title:  CMOS ASIC Design Course Code: 25EECE420 
@@ -4974,20 +4136,11 @@ Tools: Cadence Innovous, Encounter
  
 Back to Semester VII 
  
- 
- 
- 
- 
-
 ## Page 111
 
- 
- 
 FMCD2009 / 2.0 111 
  
 Back to Semester VII 
- 
- 
  
 Program: Electronics & Communication Engineering Semester: VII 
 Course Title:  Microwave & Antenna Course Code: 23EECE411 
@@ -5025,11 +4178,8 @@ References
 3. K.D.Prasad, “Antenna and wave propagation” first edition, 1990. 
 4. C.A.Balnis “Antenna theory and analysis and design”, third edition,1999. 
  
-
 ## Page 112
 
- 
- 
 FMCD2009 / 2.0 112 
 Program: Electronics & Communication Engineering Semester: VII 
 Course Title:  AUTOSAR Course Code: 25EECE406 
@@ -5069,16 +4219,8 @@ Text Book (List of books as mentioned in the approved syllabus)
  
 Back to Semester VII 
  
- 
- 
- 
- 
- 
-
 ## Page 113
 
- 
- 
 FMCD2009 / 2.0 113 
 Program: Electronics & Communication Engineering Semester: VII 
 Course Title:  Human Machine Interface Course Code: 25EECE428 
@@ -5115,22 +4257,11 @@ CRC Press.
  
 Back to Semester VII 
  
- 
- 
- 
- 
- 
-
 ## Page 114
 
- 
- 
 FMCD2009 / 2.0 114 
  
- 
 Back to Semester VII 
- 
- 
  
 Program: Electronics & Communication Engineering Semester: VII 
 Course Title:  Wireless & Mobile Communication Course Code: 24EECE432 
@@ -5170,8 +4301,6 @@ Reception, Pearson publication pvt. Ltd, 2004
 
 ## Page 115
 
- 
- 
 FMCD2009 / 2.0 115 
 Program: Bachelor of Engineering (Electronics & Communication 
 Engineering) 
@@ -5220,8 +4349,6 @@ open-source tools
 
 ## Page 116
 
- 
- 
 FMCD2009 / 2.0 116 
  Setup of Basic Session Management in 5G Core 
 Chapter No. 5. Network Slicing, Quality of Service (QoS), and Emerging Trends  
@@ -5252,18 +4379,8 @@ Reference Books:
  
 Back to Semester VII 
  
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 117
 
- 
- 
 FMCD2009 / 2.0 117 
 Program: Bachelor of Engineering (Electronics & Communication 
 Engineering) 
@@ -5312,8 +4429,6 @@ House, 2017
 
 ## Page 118
 
- 
- 
 FMCD2009 / 2.0 118 
 Driving”, Hans-Leo Ross, Springer International Publishing Switzerland 2016. 
 Reference Books: 
@@ -5326,29 +4441,8 @@ Smith and Kenneth G. L. Simpson.
  
 Back to Semester VII 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 119
 
- 
- 
 FMCD2009 / 2.0 119 
 Program: Bachelor of Engineering (Electronics & Communication 
 Engineering) 
@@ -5390,14 +4484,8 @@ Reference Books
  
 Back to Semester VII 
  
- 
- 
- 
-
 ## Page 120
 
- 
- 
 FMCD2009 / 2.0 120 
 Program:  Bachelor of Engineering (Electronics and Communication 
 Engineering) 
@@ -5435,13 +4523,8 @@ Reference Books:
  
 Back to Semester VII 
  
- 
- 
-
 ## Page 121
 
- 
- 
 FMCD2009 / 2.0 121 
 Program:  Bachelor of Engineering (Electronics and Communication 
 Engineering) 
@@ -5480,16 +4563,8 @@ Compatibility. CRC Press, 2018.
  
 Back to Semester VII 
  
- 
- 
- 
- 
- 
-
 ## Page 122
 
- 
- 
 FMCD2009 / 2.0 122 
 8th Semester Electives 
 Program: Bachelor of Engineering (Electronics & Communication 
@@ -5529,14 +4604,8 @@ Reference books:
  
 Back to Semester VIII 
  
- 
- 
- 
-
 ## Page 123
 
- 
- 
 FMCD2009 / 2.0 123 
 Program:  Bachelor of Engineering (Electronics and Communication 
 Engineering) 
@@ -5574,16 +4643,8 @@ Textbook:
  
 Back to Semester VIII 
  
- 
- 
- 
- 
- 
-
 ## Page 124
 
- 
- 
 FMCD2009 / 2.0 124 
 Program:  Bachelor of Engineering (Electronics and Communication 
 Engineering) 
@@ -5620,8 +4681,6 @@ Lectures:
 
 ## Page 125
 
- 
- 
 FMCD2009 / 2.0 125 
  Launch-on-shift vs. launch-on-capture techniques 
  Multiple clock domain test strategies 
@@ -5655,8 +4714,6 @@ Lab:
 
 ## Page 126
 
- 
- 
 FMCD2009 / 2.0 126 
 Assignment: 
  Development of a comprehensive boundary scan solution for a complex ASIC 
@@ -5690,8 +4747,6 @@ Assignment:
 
 ## Page 127
 
- 
- 
 FMCD2009 / 2.0 127 
 Week 9: DFT for Low Power Designs 
 Lectures: 
@@ -5725,8 +4780,6 @@ Final Project Presentation:
 
 ## Page 128
 
- 
- 
 FMCD2009 / 2.0 128 
  Comprehensive DFT implementation for a complex ASIC/SoC 
  Test coverage analysis and optimization 
@@ -5741,28 +4794,8 @@ V. Agrawal
 Referenc Tools: 
  Mentor Graphics Tessent 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 129
 
- 
- 
 FMCD2009 / 2.0 129 
 Swayam Courses 
 Back to List of Program Electives 
@@ -5786,7 +4819,6 @@ ISA Marks:100 ESA Marks: Total Marks:100
 Teaching Hours:42Hrs Examination Duration:3Hrs  
  
 Back to List of Program Electives 
- 
  
 Program: Bachelor of Engineering (Electronics & Communication Engineering) 
 Course Title:    Introduction To Algorithms And Analysis (Swayam) 
@@ -5813,10 +4845,7 @@ Teaching Hours:42Hrs Examination Duration:3Hrs
 
 ## Page 130
 
- 
- 
 FMCD2009 / 2.0 130 
- 
  
 Program: Bachelor of Engineering (Electronics & Communication 
 Engineering) 
@@ -5840,7 +4869,6 @@ Teaching Hours:42Hrs Examination Duration:3Hrs
  
 Back to List of Program Electives 
  
- 
 Back to List of Program Electives 
  
 Program: Bachelor of Engineering (Electronics & Communication 
@@ -5853,9 +4881,6 @@ Teaching Hours:42Hrs Examination Duration:3Hrs
  
 Back to List of Program Electives 
  
- 
- 
- 
 Program: Bachelor of Engineering (Electronics & Communication 
 Engineering) 
 Semester: VII 
@@ -5866,8 +4891,6 @@ Teaching Hours:42Hrs Examination Duration:3Hrs
 
 ## Page 131
 
- 
- 
 FMCD2009 / 2.0 131 
 Program: Bachelor of Engineering (Electronics & Communication 
 Engineering) 
@@ -5921,8 +4944,6 @@ Teaching Hours:42Hrs Examination Duration:3Hrs
 
 ## Page 132
 
- 
- 
 FMCD2009 / 2.0 132 
 Program: Electronics & Communication Engineering Semester: VIII 
 Course Title: Capstone Project Course Code: 20EECW402 
@@ -5961,7 +4982,6 @@ The primary responsi bility of the guide is to help students  to under stand the
 various stages in the implementat ion of the project. At every stage of the project development, guide 
 should help towards its successful completion as per the predefined standards. 
  
- 
 How student should carry out a project: 
 • Define the problem. 
 • Specify the requirements. 
@@ -5973,8 +4993,6 @@ How student should carry out a project:
 
 ## Page 133
 
- 
- 
 FMCD2009 / 2.0 133 
 • Result representation and analysis. 
 • Prepare a document and presentation. 
@@ -5991,38 +5009,12 @@ Evaluation Scheme
 • Project shall be reviewed and evaluated by the concerned Guide for 50% of the marks. 
 • Project shall be evaluated by the review committee for 50% of the marks. 
  
- 
- 
 Back to Semester VIII 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Program: Electronics & Communication Engineering Semester: VIII 
 
 ## Page 134
 
- 
- 
 FMCD2009 / 2.0 134 
 Course Title: Internship- Training Course Code: 18EECI493 
 L-T-P: 0-0-6 Credits: 6 Contact Hours: 12 hrs/week 
@@ -6042,35 +5034,10 @@ Evaluation parameters for Internship Training
  Conclusions and discussion 
  Presentation skills 
  
- 
 Back to Semester VIII 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 135
 
- 
- 
 FMCD2009 / 2.0 135 
 Program: Electronics & Communication Engineering Semester: VIII 
 Course Title: Internship- Project Course Code: 20EECW494 
@@ -6090,7 +5057,6 @@ Evaluation parameters for Internship Project
  Reflection on results 
  Conclusions and discussion 
  Presentation skills 
- 
  
 Back to Semester VIII 
  

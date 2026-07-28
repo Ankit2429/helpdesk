@@ -1,4 +1,5 @@
 # PDF Document: 251imguf_KLETech-BoardofStudies
+
 **PDF Source:** https://www.kletech.ac.in/Uploads/image/251imguf_KLETech-BoardofStudies.pdf
 
 ## Page 1
@@ -60,13 +61,6 @@ Prasannakshi Bidari
 Subash P 
 PhD Student 
  
- 
- 
- 
- 
- 
- 
-
 ## Page 2
 
 School of Computer Science and Engineering 
@@ -133,8 +127,6 @@ Miss Sanjeevini Member
 19 Post-graduate meritorious alumnus 
 nominated by the Vice-Chancellor Miss. Uma Hiremath     Member        
     
- 
-
 ## Page 3
 
 Sl. 
@@ -149,32 +141,6 @@ Dr. Padmashree Desai
 Member 
 Secretary  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 4
 
 School of Civil Engineering 
@@ -232,12 +198,6 @@ School/ Center
 G.C. Bellad Member 
 Secretary 
  
- 
- 
- 
- 
- 
-
 ## Page 5
 
 School of Electrical and Communication Engineering 
@@ -279,8 +239,6 @@ Members
 23  PG – Shraddha Betageri 
 24  PH: Ph.D. – Shraddha H. 
  
- 
-
 ## Page 6
 
 School of Architecture 
@@ -327,15 +285,6 @@ Center
 Vaishnavi Baddi Student 
 Member 
  
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 7
 
 School of Mechanical Engineering 
@@ -382,9 +331,6 @@ Lab, Bangalore Vijaykumar R Invited Member
 (PG,DE incharge) Dr.Gireesha Chalageri,  Invited Member 
 16 Head, DME, MSSCET, Belgaum Dr. C V Adake Invited Member 
  
- 
- 
-
 ## Page 8
 
 School of Electrical and Electronics Engineering 
@@ -412,8 +358,6 @@ Dr. Uday V Wali
 Professor, Electrical & 
 Electronics Engg. Dept.  
 KLETU, Hubli. 
- 
- 
  
 Members 
 Dr. Kiran R Patil 
@@ -497,26 +441,6 @@ Dept. KLETU, Hubli.
  
 Member 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 10
 
 School of Management Studies and Research 
@@ -529,9 +453,7 @@ Management, SMSR, KLE Technological
 University. 
 Dr. M. R. Shollapur  
  
- 
 Chairperson 
- 
  
 2 Professor & HoS 
 SMSR, KLE Technological University. 

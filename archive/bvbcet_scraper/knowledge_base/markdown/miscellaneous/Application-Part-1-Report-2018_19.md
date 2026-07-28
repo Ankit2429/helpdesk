@@ -1,4 +1,5 @@
 # PDF Document: Application-Part-1-Report-2018_19
+
 **PDF Source:** https://www.kletech.ac.in/pdf/Application-Part-1-Report-2018_19.pdf
 
 ## Page 1
@@ -1164,7 +1165,6 @@ Twining Program Request Not interested NBA Accreditation status (As on 10th Apri
 2018)
 No
     
- 
 Sr. No. 2 Course Unique Id 1-3626782863 Programme ENGINEERING AND 
 TECHNOLOGY
 Level UNDER GRADUATE Course MECHANICAL 
@@ -1185,7 +1185,6 @@ Twining Program Request Not interested NBA Accreditation status (As on 10th Apri
 2018)
 No
     
- 
 Sr. No. 3 Course Unique Id 1-3626782866 Programme ENGINEERING AND 
 TECHNOLOGY
 Level UNDER GRADUATE Course COMPUTER SCIENCE
@@ -1206,7 +1205,6 @@ Twining Program Request Not interested NBA Accreditation status (As on 10th Apri
 2018)
 No
     
- 
 Sr. No. 4 Course Unique Id 1-3635077630 Programme ENGINEERING AND 
 TECHNOLOGY
 Level UNDER GRADUATE Course ELECTRONICS AND 
@@ -1228,7 +1226,6 @@ Twining Program Request Not interested NBA Accreditation status (As on 10th Apri
 2018)
 No
     
- 
 Sr. No. 5 Course Unique Id 1-3635077650 Programme ENGINEERING AND 
 TECHNOLOGY
 
@@ -1260,7 +1257,6 @@ Twining Program Request Not interested NBA Accreditation status (As on 10th Apri
 2018)
 No
     
- 
 Sr. No. 6 Course Unique Id 1-3635077945 Programme ENGINEERING AND 
 TECHNOLOGY
 Level UNDER GRADUATE Course AUTOMATION AND 
@@ -1281,7 +1277,6 @@ Twining Program Request Not interested NBA Accreditation status (As on 10th Apri
 2018)
 No
     
- 
 Sr. No. 7 Course Unique Id 1-3635077948 Programme ENGINEERING AND 
 TECHNOLOGY
 Level UNDER GRADUATE Course BIOTECHNOLOGY Shift 1st Shift
@@ -1300,7 +1295,6 @@ Twining Program Request Not interested NBA Accreditation status (As on 10th Apri
 2018)
 No
     
- 
 Sr. No. 8 Course Unique Id 1-3635189131 Programme ARCHITECTURE
 Level UNDER GRADUATE Course ARCHITECTURE Shift 1st Shift
 FT/PT FULL TIME Started In 2018 Applying For EoA Only
@@ -1318,7 +1312,6 @@ Twining Program Request Not interested NBA Accreditation status (As on 10th Apri
 2018)
 No
     
- 
 Sr. No. 9 Course Unique Id 1-3635189134 Programme ENGINEERING AND 
 TECHNOLOGY
 Level POST GRADUATE Course ENERGY SYSTEMS 
@@ -1349,7 +1342,6 @@ Twining Program Request Not interested NBA Accreditation status (As on 10th Apri
 2018)
 No
     
- 
 Sr. No. 10 Course Unique Id 1-3635189137 Programme ENGINEERING AND 
 TECHNOLOGY
 Level POST GRADUATE Course PRODUCTION 
@@ -1370,7 +1362,6 @@ Twining Program Request Not interested NBA Accreditation status (As on 10th Apri
 2018)
 No
     
- 
 Sr. No. 11 Course Unique Id 1-3635189140 Programme ENGINEERING AND 
 TECHNOLOGY
 Level POST GRADUATE Course MACHINE DESIGN Shift 1st Shift
@@ -1389,7 +1380,6 @@ Twining Program Request Not interested NBA Accreditation status (As on 10th Apri
 2018)
 No
     
- 
 Sr. No. 12 Course Unique Id 1-3635189274 Programme ENGINEERING AND 
 TECHNOLOGY
 Level POST GRADUATE Course STRUCTURAL 
@@ -1410,7 +1400,6 @@ Twining Program Request Not interested NBA Accreditation status (As on 10th Apri
 2018)
 No
     
- 
 Sr. No. 13 Course Unique Id 1-3635189278 Programme ENGINEERING AND 
 TECHNOLOGY
 Level POST GRADUATE Course COMPUTER SCEINCE
@@ -1431,8 +1420,6 @@ Twining Program Request Not interested NBA Accreditation status (As on 10th Apri
 2018)
 No
     
- 
-
 ## Page 13
 
 Application Report - Part 1
@@ -1462,7 +1449,6 @@ Twining Program Request Not interested NBA Accreditation status (As on 10th Apri
 2018)
 No
     
- 
 Sr. No. 15 Course Unique Id 1-3635189314 Programme ENGINEERING AND 
 TECHNOLOGY
 Level POST GRADUATE Course VLSI DESIGN AND 
@@ -1484,7 +1470,6 @@ Twining Program Request Not interested NBA Accreditation status (As on 10th Apri
 2018)
 No
     
- 
 Sr. No. 16 Course Unique Id 1-3635189317 Programme MANAGEMENT
 Level POST GRADUATE Course MASTERS IN 
 BUSINESS 
@@ -1505,7 +1490,6 @@ Twining Program Request Not interested NBA Accreditation status (As on 10th Apri
 2018)
 No
     
- 
 Sr. No. 17 Course Unique Id 1-3635189331 Programme MCA
 Level POST GRADUATE Course MASTER OF 
 COMPUTER 
@@ -5561,7 +5545,6 @@ ARC2 42.28 Ready Ready Ready Ready
  
  15 MBA-B3 MBA BLOCK Faculty Room AUS102 27 Ready Ready Ready Ready
  
-
 ## Page 34
 
 Application Report - Part 1
@@ -6000,7 +5983,6 @@ Faculty Room S8 23.23 Ready Ready Ready Ready
 Engineering
 Faculty Room S9 31.1 Ready Ready Ready Ready
  
-
 ## Page 37
 
 Application Report - Part 1
@@ -6385,7 +6367,6 @@ N IN
 7
 No
  
-
 ## Page 39
 
 Application Report - Part 1
@@ -6610,7 +6591,6 @@ TION LAB
 0
 No
  
-
 ## Page 40
 
 Application Report - Part 1
@@ -6847,7 +6827,6 @@ ELECTRONIC
 S & DIGITAL 
 100000 20000 30000 No
  
-
 ## Page 41
 
 Application Report - Part 1
@@ -7093,7 +7072,6 @@ LAB
 8
 No
  
-
 ## Page 42
 
 Application Report - Part 1
@@ -7323,7 +7301,6 @@ LAB
 0
 No
  
-
 ## Page 43
 
 Application Report - Part 1
@@ -7558,7 +7535,6 @@ CAL
 BLOCK
 MCAS202 7000 10000 85000 No
  
-
 ## Page 44
 
 Application Report - Part 1
@@ -8052,7 +8028,6 @@ CONCRETE
 LAB
 0 30000 0 No
  
-
 ## Page 46
 
 Application Report - Part 1

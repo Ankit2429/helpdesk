@@ -1,4 +1,5 @@
 # PDF Document: 188imguf_placement-brochure-kle-tech
+
 **PDF Source:** https://www.kletech.ac.in/Uploads/image/188imguf_placement-brochure-kle-tech.pdf
 
 ## Page 1
@@ -7,7 +8,6 @@ Website : kletech.ac.in
 KLE Technological University, Hubballi , 
 Karnataka State
 A brief walkthrough about us--
-
 
 ## Page 2
 
@@ -290,11 +290,9 @@ section
 
 Our Campus Infrastructure:
 
-
 ## Page 20
 
 High Profile Visitors:
-
 
 ## Page 21
 

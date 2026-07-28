@@ -1,4 +1,5 @@
 # PDF Document: KLE-TECH-Annual-Report-2018-19
+
 **PDF Source:** https://www.kletech.ac.in/pdf/KLE-TECH-Annual-Report-2018-19.pdf
 
 ## Page 1
@@ -100,7 +101,6 @@ We would like to extend our sincere thanks to our faculty, staff, students, alum
 partners for their continued support and remarkable contributions. Looking ahead, we will continue 
 to work towards realizing our vision to be a leader in engineering education, and advancing 
 research and innovation to support socio-economic development of the region.
-
 
 ## Page 5
 
@@ -219,7 +219,6 @@ Graduate Common Entrance Test
 examination authority, is used for the 
 selection of students.
 
-
 ## Page 7
 
   www.kletech.ac.in  |  5 
@@ -330,7 +329,6 @@ Student Gender Distribution  (UG)
 2018 -19
 Female 1629
 
-
 ## Page 9
 
   www.kletech.ac.in  |  7 
@@ -361,7 +359,6 @@ opportunity to build a culture of continuous
 improvement that strengthens our academic 
 quality and inspires student achievement.
 Academic Quality
-
 
 ## Page 10
 
@@ -491,31 +488,25 @@ Faculty Development Programmes
 Teachers provided with financial support to attend conferences / workshops and towards membership fee of 
 professional bodies during the year 2018-19
 
-
 ## Page 14
 
 12   | KLE Tech
-
 
 ## Page 15
 
   www.kletech.ac.in  |  13 
 
-
 ## Page 16
 
 14   | KLE Tech
-
 
 ## Page 17
 
   www.kletech.ac.in  |  15 
 
-
 ## Page 18
 
 16   | KLE Tech
-
 
 ## Page 19
 
@@ -567,7 +558,6 @@ at KLE Tech and 88 students registered in other universities. The following tabl
 about the research centers.
 Table 1: Details of registered and awarded candidates at 12 research centers 
 
-
 ## Page 21
 
   www.kletech.ac.in  |  19 
@@ -579,7 +569,6 @@ Indexed in:   W- Web-of- science     S- Scopus   G- Google scholar
 Indexed in W—Web of science, S-Scopus, G-Google scholar
 Graphs 
 Publications in 2018-19
-
 
 ## Page 22
 
@@ -600,7 +589,6 @@ Research grants received: 2014-2019
 External funded projects
 Summary of External Funding 
 
-
 ## Page 23
 
   www.kletech.ac.in  |  21 
@@ -618,7 +606,6 @@ Summary of outcome of the REU course is reflected in the following table. In the
 REU students have published 25 papers in international conferences and journals, and 8 of them 
 have either completed or doing post graduation. About 25% of the total REU students from 
 2011-14 are doing post graduation either in India or abroad
-
 
 ## Page 24
 
@@ -660,12 +647,10 @@ Outcomes of IRPs in 2018-19
 Details of Sanctioned IRP ISP Projects
 Budget Utilized in 2018-19
 
-
 ## Page 26
 
 24   | KLE Tech
 Institute Funded Projects under RC/RG/PDDG/FSSG
-
 
 ## Page 27
 
@@ -674,7 +659,6 @@ Institute funded capacity building projects for individual faculty
 Outcome of Capacity building projects
 Incentives given to faculty for quality publication, funded research 
 and guiding doctoral students 
-
 
 ## Page 28
 
@@ -701,7 +685,6 @@ internship and minor projects.
 areas and upskill them. 
 |  Access to funding opportunities by connecting to right investors
 CTIE has following to claim.
-
 
 ## Page 29
 
@@ -741,7 +724,6 @@ land mapping (survey) and inspection of structures
 (dams, bridges, electric towers etc), surveillance, 
 plant health (Agriculture), thermal imaging (Energy 
 industries) and disaster management.
-
 
 ## Page 30
 
@@ -810,7 +792,6 @@ platform. Started in 2013, in collaboration of BVB college
 of Engineering, Hubli and Manning School of Business at 
 University of Massachusetts, Lowell, USA this program has 
 only been growing and proved more successful every year.
-
 
 ## Page 32
 
@@ -1025,7 +1006,6 @@ pedestrians at a traffic intersection. The solution can be deployed for normal t
 and mixed transport intersections. The solution is also apt for railway crossings, security gates 
 and private roads.  CIPD shall be working closely with BRTS Hubballi-Dharwad to implement the 
 aforementioned system.
-
 
 ## Page 38
 
@@ -1248,7 +1228,6 @@ institutes and companies including
  3. Dr. Badrinath Ramamurthy, Ericsson.
 Departments of the KLE Technological University.
 
-
 ## Page 44
 
 42   | KLE Tech
@@ -1365,7 +1344,6 @@ February 2019, The coveted award was out of 341 entries
 nationwide. Akashh was mentored by Prof Kalpeshkumar 
 Patel, School of Architecture
 
-
 ## Page 48
 
 46   | KLE Tech
@@ -1405,7 +1383,6 @@ Presentation of her Research Paper titled- “Evaluating
 Building Aesthetics using Gestalt Analysis”at the 
 Research Conclave 2019held at IIT Guwahatifrom 
 14-17thMarch 2019. 
-
 
 ## Page 49
 
@@ -1496,7 +1473,6 @@ in bridge construction site for the benefit of students and faculty. The technic
 by Mr.Ramanath Bhat 1994 CV alumni from Pune. It is scheduled on the 26th March, 2019 in Civil 
 Department at 10.30 am on the campus.
 
-
 ## Page 51
 
   www.kletech.ac.in  |  49 
@@ -1585,7 +1561,6 @@ prize money worth 3 lakhs in that competition. This competition was conducted by
 Government of India. I would like to thank BVBCET for giving me the foundation of Entrepreneurship in our 
 curriculum..
 
-
 ## Page 53
 
   www.kletech.ac.in  |  51 
@@ -1605,7 +1580,6 @@ Inc since 2008 in San Diego, CA, USA, amidst us. He has agreed to have interacti
 students.
 Program is scheduled with faculty on 1st August, 2019 amd with students on 6th August, 2019.
 We are pleased to put forward the brief profile of Mr.Shivanand Havanagi below.
-
 
 ## Page 54
 
@@ -1631,7 +1605,6 @@ Dean - Planning &
 Development
 Dr. Uma Mudenagudi
 Dean - Research & Development
-
 
 ## Page 55
 

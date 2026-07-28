@@ -1,12 +1,9 @@
 # PDF Document: FACULTY_CONCLAVE_PUBLICATIONS-2017
+
 **PDF Source:** https://www.kletech.ac.in/pdf/FACULTY CONCLAVE PUBLICATIONS-2017.pdf
 
 ## Page 1
 
- 
-  
- 
- 
 Earlier known as 
 B. V. B. College of Engineering & Technology 
 Faculty Conclave 2017 
@@ -65,10 +62,6 @@ Meena Maralappanavar
 
 ## Page 2
 
- 
-  
- 
- 
 Earlier known as 
 B. V. B. College of Engineering & Technology 
 15 The Flipped Classroom: An Inverted Method Of Teaching 
@@ -97,16 +90,4 @@ Nissimagoudar; Gireesh H. M.
 Informatics-Based Approach To Establish  Gene-Protein 
 Relationship. 
 Sharanappa A., S. V. Desai 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  

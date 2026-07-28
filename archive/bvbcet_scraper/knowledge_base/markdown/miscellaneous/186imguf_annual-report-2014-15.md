@@ -1,4 +1,5 @@
 # PDF Document: 186imguf_annual-report-2014-15
+
 **PDF Source:** https://www.kletech.ac.in/Uploads/image/186imguf_annual-report-2014-15.pdf
 
 ## Page 1
@@ -92,7 +93,6 @@ We would like to extend our sincere thanks to our faculty, staff, students, alum
 their continued support and remarkable contributions. Looking ahead, we will continue to work towards 
 realizing our vision to be a leader in engineering education, and advancing research and innovation to 
 support socio-economic development of the region.
-
 
 ## Page 5
 
@@ -217,7 +217,6 @@ college to contribute to the growth of socio-
 economic potential of the region.
 Our Vision
 
-
 ## Page 7
 
   www.bvb.edu  |  5 
@@ -257,7 +256,6 @@ the rules framed by the Visveswaraya
 Technological University , Belgaum. 
 Postgraduate Admissions
 Student Enrollment
-
 
 ## Page 8
 
@@ -304,7 +302,6 @@ Administration 60
 9. Master of Computer
 Application 60 
 Undergraduate Programs
-
 
 ## Page 9
 
@@ -464,7 +461,6 @@ strengthens our academic quality and inspires
 student achievement.
 Academic Quality
 
-
 ## Page 12
 
 10   | BVBCET
@@ -491,7 +487,6 @@ identified by analyzing combination of individual
 course reports and student works.  The frame 
 work adopted by the college is depicted in the 
 Figure below.
-
 
 ## Page 13
 
@@ -662,15 +657,12 @@ Factor
 Conference Conference   
 Factor     
      
-      
-        
 Average Impact Factor 
 =1.630 
 2012-13 20  43 01 29 18 111 
 Maximum Impact Factor 
 =5.96 
          
-        
 Average Impact Factor 
 =1.510 
 2013-14 40  107 07 154 36 344 
@@ -686,18 +678,11 @@ Total 110  232      24 303 112 781
  
 Publications International Journals Publications : Conferences
 
-
 ## Page 18
 
 16   | BVBCET
 Summary of external funded projects
 Research grants received: 2012-2015
- 
- 
- 
- 
- 
- 
  
 SI.NO Year Number of projects Amount sanctioned Funding Agency 
 1 2012-2013 01 20.0 L VGST 
@@ -705,8 +690,6 @@ SI.NO Year Number of projects Amount sanctioned Funding Agency
 DST,VGST 
 3 2014-2015 03 14.0 L UAS,VGST 
  TOTAL 09 115.64 L  
- 
- 
  
 Year 
 Sanctioned 
@@ -803,20 +786,12 @@ Total 226 1165 593 2816 104 56
 
   www.bvb.edu  |  17 
  
- 
- 
- 
- 
- 
- 
 SI.NO Year Number of projects Amount sanctioned Funding Agency 
 1 2012-2013 01 20.0 L VGST 
 2 2013-2014 05 81.64 L AICTE, DRDO, 
 DST,VGST 
 3 2014-2015 03 14.0 L UAS,VGST 
  TOTAL 09 115.64 L  
- 
- 
  
 Year 
 Sanctioned 
@@ -908,7 +883,6 @@ Outcomes:
  Number of product development (in progress) :  5
  Number of Industry and Institute collaborations :  02
 
-
 ## Page 20
 
 18   | BVBCET
@@ -935,7 +909,6 @@ Outcomes:
  Total project proposals sent in 2014-15: 14
  Total fund received in 2014-15: Rs.70 Lakhs (External)
  Number of products in progress:01
-
 
 ## Page 21
 
@@ -982,7 +955,6 @@ Centre for Technology Innovation &
 E ntrepreneurship 
 CTI E
  
-
 ## Page 22
 
 20   | BVBCET
@@ -1168,7 +1140,6 @@ Precision Desktop
 Objet30 Pro 3D desktop milling
 machine
 
-
 ## Page 26
 
 24   | BVBCET
@@ -1240,7 +1211,6 @@ To make the students competent in PC based
 Automation Software tool TwinCAT based PLC, 
 Motion control, Robotics & Visualization functions 
 that are available in TwinCAT.
-
 
 ## Page 27
 
@@ -1362,7 +1332,6 @@ creating informal interaction space for the
 students in the campus and construction of 
 ‘Musical Fountain’.
 Capital and IT
-
 
 ## Page 30
 
@@ -1515,8 +1484,6 @@ Head of the Institution/Member Secretary
 Dr. Ashok Shettar
 Governance 
  
-
-
 ## Page 32
 
 30   | BVBCET
@@ -1529,31 +1496,25 @@ partners. The inputs from TEQIP–Project Implementation Plan document have been
 formulating the strategic plan of the Institution. The progress of the activities undertaken to achieve 
 envisioned developmental objectives are reported below.
 
-
 ## Page 33
 
   www.bvb.edu  |  31 
-
 
 ## Page 34
 
 32   | BVBCET
 
-
 ## Page 35
 
   www.bvb.edu  |  33 
-
 
 ## Page 36
 
 34   | BVBCET
 
-
 ## Page 37
 
   www.bvb.edu  |  35 
-
 
 ## Page 38
 
@@ -1693,7 +1654,6 @@ Tewari, Prof. K R Biradar, Dr. Sanjay Kotabagi,
 Dr. Uma Mudenagudi, Dr.A.B.RAju were part 
 of the celebration. 
 
-
 ## Page 41
 
   www.bvb.edu  |  39 
@@ -1774,12 +1734,10 @@ Humanities
 Prof. T. V. M. Swamy
 First Year
 
-
 ## Page 43
 
   www.bvb.edu  |  41 
 Campus Snapshots
-
 
 ## Page 44
 

@@ -1,47 +1,20 @@
 # PDF Document: bachelor-electrical-electronics-engineering-curriculum-2022-2026
+
 **PDF Source:** https://www.kletech.ac.in/pdf/bachelor-electrical-electronics-engineering-curriculum-2022-2026.pdf
 
 ## Page 1
 
- 
- 
 1 
 FMCD2009 / 2.0 
- 
- 
- 
- 
-  
- 
  
 Curriculum Structure and Curriculum Content for the Academic Batch - 2022-26 
 Department : Electrical & Electronics Engineering 
 Program: Bachelor of Engineering 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 2
 
- 
- 
 2 
 FMCD2009 / 2.0 
- 
  
 Table of Contents 
 Vision and Mission of KLE Technological University ........................................................... 3 
@@ -61,30 +34,17 @@ List of Open Electives .........................................................
 List of Program Electives ................................................................................................. 16 
 Curriculum Content- Course wise .................................................................................... 17 
  
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 3
 
- 
- 
 3 
 FMCD2009 / 2.0 
- 
  
 Vision and Mission of KLE Technological University 
  
 Vision 
  
- 
 KLE Technological University will be a national leader in Higher Education–recognised globally 
 for innovative culture, outstanding student experience, research excellence and social impact. 
- 
  
 Mission 
  
@@ -109,19 +69,13 @@ As a unified community of faculty, staff and students, we work together with the
 collaboration and partnership to accomplish our mission. 
 Back 
  
- 
- 
-
 ## Page 4
 
- 
- 
 4 
 FMCD2009 / 2.0 
 Vision and Mission Statements of the School / Department 
  
 Vision 
- 
  
 KLE Tech Electrical & Electronics Engineering school will be well recognized nationally and 
 internationally for excellence in its educational programs, innovative research and impact on 
@@ -141,22 +95,8 @@ humanity and society.
  
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 5
 
- 
- 
 5 
 FMCD2009 / 2.0 
 Program Educational Objectives/Program Outcomes and Program-Specific Objectives 
@@ -209,8 +149,6 @@ PO10: Project Management and Finance:
 
 ## Page 6
 
- 
- 
 6 
 FMCD2009 / 2.0 
 Apply knowledge and understanding of engineering management principles and economic 
@@ -228,8 +166,6 @@ Back
 
 ## Page 7
 
- 
- 
 7 
 FMCD2009 / 2.0 
 Curriculum Structure-Overall 
@@ -441,8 +377,6 @@ Senior Design Project (0-0-6)
 
 ## Page 8
 
- 
- 
 8 
 FMCD2009 / 2.0 
  (0-1-1)  (0-0-3) 
@@ -461,7 +395,6 @@ Generative-AI
 (24EEEC305) 
 (2-0-1) 
    
-  
 23EEEF201  
 Microcontroller 
 Architecture & 
@@ -482,9 +415,6 @@ controls Lab
 Minor Project                          
 (0-0-6) 
  
- 
-  
-   
 23EEEF202  
 Data Structure 
 Applications Lab  
@@ -501,20 +431,14 @@ Credits 22 22 24.5 25.5 25 25 19 17
  
 Back 
  
- 
-  
-
 ## Page 9
 
- 
- 
 9 
 FMCD2009 / 2.0 
 Curriculum Structure-Semester wise 
 Semester - I 
 Back 
  
-  
 No Code Course Category L-T-P Credits Contact         
 Hours ISA ESA Total 
 Exam 
@@ -533,17 +457,12 @@ Innovation HSS 0-1-1 2 4 80 20 100 3  hours
 
 ## Page 10
 
- 
- 
 10 
 FMCD2009 / 2.0 
 Semester - II 
  
- 
 Back 
  
- 
-  
 No Code Course Category L-T-P Credits Contact 
  Hours ISA ESA Total 
 Exam 
@@ -561,12 +480,9 @@ Structures ES 0-0-3 3  6  80 20 100 3  hours
 
 ## Page 11
 
- 
- 
 11 
 FMCD2009 / 2.0 
 Semester- III 
- 
  
 Back 
  
@@ -599,8 +515,6 @@ Programming ES 2-0-1 3 4 80 20 100 2 hours
 
 ## Page 12
 
- 
- 
 12 
 FMCD2009 / 2.0 
 Semester- IV 
@@ -637,8 +551,6 @@ ES
 
 ## Page 13
 
- 
- 
 13 
 FMCD2009 / 2.0 
 Semester- V 
@@ -671,16 +583,11 @@ PC 0-0-1 1 2   80  20   100 2 hours
 
 ## Page 14
 
- 
- 
 14 
 FMCD2009 / 2.0 
  
 Semester- VI 
 Back 
- 
- 
- 
  
 No Code Course Category    L-T-P Credits Contact  
 Hours ISA ESA Total 
@@ -702,14 +609,10 @@ Skills ES 0-0-0 Audit 1 100 -- 100 --
 
 ## Page 15
 
- 
- 
 15 
 FMCD2009 / 2.0 
 Semester- VII 
 Back 
- 
- 
  
 No Code Course Category L-T-P Credits Contact 
 Hours ISA ESA Total 
@@ -731,11 +634,8 @@ Engineering lab PC 0-0-1 1 2 80 20 100 2 hours
 7 21EEEW401 Senior Design Project PC 0-0-6 6 12 50 50 100 3 hours 
    TOTAL 11-0-8 19 27     
  
-
 ## Page 16
 
- 
- 
 16 
 FMCD2009 / 2.0 
  
@@ -760,8 +660,6 @@ or
 
 ## Page 17
 
- 
- 
 17 
 FMCD2009 / 2.0 
 List of Program Electives 
@@ -789,11 +687,8 @@ Sr. No Name of the Course Course Code
 21.  System on Chip Design 25EEEE415 
 Back 
  
-
 ## Page 18
 
- 
- 
 18 
 FMCD2009 / 2.0 
 Curriculum Content- Course wise 
@@ -817,9 +712,6 @@ problems. Curvature and Radius of Curvature, Indeterminate forms, L- Hospital’
 rule-Examples MATLAB: Optimization problems. Curvature problems 
 07 Hrs 
  
- 
- 
- 
 13 Hrs 
  
 Unit II 
@@ -837,10 +729,6 @@ Trapezoidal rule, Simpson’s 1/3 rule
 MATLAB: problems on arc length, area, volume and surface area 
 06 Hrs 
  
- 
- 
- 
- 
 14 Hrs 
 Unit III 
 Chapter No. 5 Ordinary differential equations of first order                                                                            
@@ -854,8 +742,6 @@ MATLAB: Solve differential equations.
 
 ## Page 19
 
- 
- 
 19 
 FMCD2009 / 2.0 
 Text Books  
@@ -866,14 +752,10 @@ Reference Books:
 4ed, 2009. 
 2.Thomas Calculus, George B Thomas, Pearson India, 12ed, 2010 
  
- 
 Back 
   
-
 ## Page 20
 
- 
- 
 20 
 FMCD2009 / 2.0 
 Program: Electrical & Electronics Engineering Semester: I 
@@ -928,8 +810,6 @@ Unit – III
 
 ## Page 21
 
- 
- 
 21 
 FMCD2009 / 2.0 
 Chapter No. 7:  Centroid of Plane Figures                                                                                           
@@ -961,18 +841,8 @@ Reference Books:
  
 Back 
  
- 
- 
- 
- 
- 
- 
-  
-
 ## Page 22
 
- 
- 
 22 
 FMCD2009 / 2.0 
  
@@ -1031,8 +901,6 @@ Chapter No. 5 Material Chemistry                                                
 
 ## Page 23
 
- 
- 
 23 
 FMCD2009 / 2.0 
 Liquid crystals: classification of liquid crystals, applications of liquid crystals in  
@@ -1082,11 +950,8 @@ K Anand, Himalaya Publishing House, Pvt. Ltd, 2010, Mumbai.
 11.  
  Back 
  
-
 ## Page 24
 
- 
- 
 24 
 FMCD2009 / 2.0 
  
@@ -1143,8 +1008,6 @@ Education, 2001
 
 ## Page 25
 
- 
- 
 25 
 FMCD2009 / 2.0 
 2.P C Sen, Principals of Electrical Machines and Power Electronics, 2nd, Wiley Publications 
@@ -1160,29 +1023,8 @@ Systems, 3rd, Tata McGraw Hill Education Private Limited, New Delhi., 2005
  
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 26
 
- 
- 
 26 
 FMCD2009 / 2.0 
 Program: Electrical & Electronics Engineering Semester: I 
@@ -1214,27 +1056,10 @@ Reference Books:
  
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 27
 
- 
- 
 27 
 FMCD2009 / 2.0 
- 
- 
- 
- 
  
 Program: Electrical & Electronics Engineering Semester: I 
 Course Title: Design Thinking for Social Innovation Course Code: 20EHSP101 
@@ -1243,7 +1068,6 @@ ESA Marks: 80 ISA Marks: 20 Total Marks: 100
 Teaching Hours : 28 Exam Duration: 3 Hrs.  
  Topics Assignments Support activities / Tools 
 KNOWLEDGE, TOOLS & DEVELOPMENT 
- 
  
 Course sensitization 
  
@@ -1321,14 +1145,6 @@ Reading assignments
  Handout on “ Create 
 Mindsets” 
  
- 
- 
- 
- 
- 
- 
- 
- 
  (How to train the Dragon?  
 Common Video for all the 
 mindsets) 
@@ -1337,12 +1153,8 @@ mindsets)
 Confidence by David Kelley – 
 IDEO Founder)  
  
- 
-
 ## Page 28
 
- 
- 
 28 
 FMCD2009 / 2.0 
 Back 
@@ -1435,8 +1247,6 @@ study
 
 ## Page 29
 
- 
- 
 29 
 FMCD2009 / 2.0 
 (Role Play on Interview 
@@ -1471,7 +1281,6 @@ Might We’ Questions
 respective templates with 
 the help of sample case 
 study  
- 
  
 3.0 Ideation 
 3.2 Prototyping 
@@ -1532,19 +1341,11 @@ respective templates with
 the help of sample case 
 study 
  
-
 ## Page 30
 
- 
- 
 30 
 FMCD2009 / 2.0 
  
- 
- 
- 
- 
-  
 6. Marathons/ 
 Walkathons 
 7. Conducting Yoga 
@@ -1556,7 +1357,6 @@ www.blog.fundly.com)
  Launch your solution 
  Feedback (Impact) 
  
-     
   5.0 Reflect 
  
 Reflection of the overall 
@@ -1575,12 +1375,8 @@ respective templates with
 the help of sample case 
 study 
  
- 
-
 ## Page 31
 
- 
- 
 31 
 FMCD2009 / 2.0 
 Program: Electrical & Electronics Engineering Semester: I 
@@ -1632,14 +1428,10 @@ Text Books:
     Learning, 2008. 
 Back 
  
-
 ## Page 32
 
- 
- 
 32 
 FMCD2009 / 2.0 
- 
  
 II Semester Bachelor of Engineering (Electrical & Electronics Engineering) 
 Program: Electrical & Electronics Engineering Semester: II 
@@ -1690,8 +1482,6 @@ machines and safety precautions in workshop.
 
 ## Page 33
 
- 
- 
 33 
 FMCD2009 / 2.0 
  Assembly and disassembly of bicycle and demonstration on welding (electric arc 
@@ -1711,27 +1501,8 @@ Reference Books:
  
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 34
 
- 
- 
 34 
 FMCD2009 / 2.0 
  
@@ -1778,8 +1549,6 @@ and parameters, numericals.
 
 ## Page 35
 
- 
- 
 35 
 FMCD2009 / 2.0 
 Chapter No. 3 ELECTROSTATICS                                                                                                                
@@ -1798,7 +1567,6 @@ polarisibilty. Capacitors, types of capacitors, capacitors with dielectrics,
 numericals.                                                                            
 16 Hrs 
  
-  
                   Unit III  
 Chapter No. 4 ELECTROMAGNETICS:                                                                                                             
 Analysis Model: Particle in a magnetic field, motion of a charged particle in a 
@@ -1829,11 +1597,8 @@ Vol-II, Norosa Publishing House, 1998.
 4. Ben. G. Streetman, Solid State Electronic Devices, Prentice Hall, 1995. 
 Back 
  
-
 ## Page 36
 
- 
- 
 36 
 FMCD2009 / 2.0 
  
@@ -1880,15 +1645,10 @@ Reference Books:
 2. Thomas Calculus, George B Thomas, Pearson India, 12ed, 2010 
 Back 
  
-  
-
 ## Page 37
 
- 
- 
 37 
 FMCD2009 / 2.0 
- 
  
 Program: Electrical & Electronics Engineering Semester: II 
 Course Title: Basic Electronics Course Code: 18EECF101 
@@ -1934,8 +1694,6 @@ Unit III
 
 ## Page 38
 
- 
- 
 38 
 FMCD2009 / 2.0 
 Chapter No.  6: Communication Systems: Basic block diagram of communication 
@@ -1965,21 +1723,8 @@ Reference Books:
  
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 39
 
- 
- 
 39 
 FMCD2009 / 2.0 
  
@@ -2003,24 +1748,10 @@ OPEN ENDED EXPERIMENT
 1. Realization of a ±5/12V regulated power supply 
 2. Stepper motor drive 
  
- 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 40
 
- 
- 
 40 
 FMCD2009 / 2.0 
 Program: Electrical & Electronics Engineering Semester: II 
@@ -2069,14 +1800,8 @@ Course Project
 Reviews 24 Hrs 
 Back 
  
- 
- 
- 
-
 ## Page 41
 
- 
- 
 41 
 FMCD2009 / 2.0 
 Program: Electrical & Electronics Engineering Semester: II 
@@ -2117,16 +1842,8 @@ Reference Books:
  
 Back 
  
- 
- 
- 
- 
- 
-
 ## Page 42
 
- 
- 
 42 
 FMCD2009 / 2.0 
 III Semester Bachelor of Engineering (Electrical & Electronics Engineering) 
@@ -2182,8 +1899,6 @@ Text Books
 
 ## Page 43
 
- 
- 
 43 
 FMCD2009 / 2.0 
 1. Kreyszig E., Advanced Engineering Mathematics, 8ed, John Wiley & sons, 2003. 
@@ -2199,11 +1914,8 @@ McGraw-Hill Edition 2007
 3. Ian Glover & Peter Grant, Digital Communications, 2nd Ed, Pearson 2012. 
 Back 
   
-
 ## Page 44
 
- 
- 
 44 
 FMCD2009 / 2.0 
 Program: Electrical & Electronics Engineering  Semester: III 
@@ -2262,8 +1974,6 @@ Text Books:
 
 ## Page 45
 
- 
- 
 45 
 FMCD2009 / 2.0 
 2. Bali and Iyengar, A text book of Engineering Mathematics, 6ed, Laxmi Publications(p) 
@@ -2275,11 +1985,8 @@ Reference Books:
 4. Ian Glover & Peter Grant, Digital Communications, 2nd Ed, Pearson 2012. 
 Back 
   
-
 ## Page 46
 
- 
- 
 46 
 FMCD2009 / 2.0 
   
@@ -2315,16 +2022,8 @@ Reference Books:
  
 Back 
  
- 
- 
- 
- 
-  
-
 ## Page 47
 
- 
- 
 47 
 FMCD2009 / 2.0 
 Program: Electrical & Electronics Engineering  Semester: III 
@@ -2376,8 +2075,6 @@ Reference Books:
 
 ## Page 48
 
- 
- 
 48 
 FMCD2009 / 2.0 
 1. Joseph Edminister, Mahmood Nahavi, Electric Circuits, 3rd, Tata McGra, 1991 
@@ -2388,33 +2085,10 @@ FMCD2009 / 2.0
 5. Muhammad H . Rashid, Introduction to PSPICE using OrCAD for circuits and 
 Electronics, 3rd, Pearson Ed, 2005 
  
- 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 49
 
- 
- 
 49 
 FMCD2009 / 2.0 
 Program: Electrical & Electronics Engineering Semester: III 
@@ -2470,8 +2144,6 @@ Gate Work function Requirements, Gate EWF and Gate Induced Drain Leakage, V-I
 
 ## Page 50
 
- 
- 
 50 
 FMCD2009 / 2.0 
 Characteristics  (T1:4.4,4.5, 4. 6.1 to 4.6.7 ; 4.7.1, 4.7.2, 4.7.3, 4.7.5, 4.7.6, 
@@ -2508,18 +2180,8 @@ Pearson Education, 2003
 5. FinFETs and Other Multi-Gate Transistors 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 51
 
- 
- 
 51 
 FMCD2009 / 2.0 
 Program: Electrical & Electronics Engineering Semester: III 
@@ -2571,7 +2233,6 @@ transmission lines, Long line solutions by Rigorous method, equivalent models,
 ABCD constants 
 08 Hrs    
          
- 
 Unit-III  
 Chapter No.7 Insulators: Types, potential distribution over a string of suspension  
 insulators. String efficiency and methods of increasing string efficiency and methods 
@@ -2580,8 +2241,6 @@ of increasing string efficiency, testing of insulators.
 
 ## Page 52
 
- 
- 
 52 
 FMCD2009 / 2.0 
 Chapter No.8 Underground Cables: Types, material used. Insulation resistance, 
@@ -2600,28 +2259,8 @@ of India, Regd. Office: d 13/12, Model Town, Delhi
  
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 53
 
- 
- 
 53 
 FMCD2009 / 2.0 
  
@@ -2660,7 +2299,6 @@ Mod-n Counter using clocked JK Flip-Flops Design of a Synchronous Mod-n Counter
 using clocked D, T or SR Flip-Flops. 
 10 Hrs  
          
- 
 Unit-III 
 Chapter No.6 Sequential Circuit Design  
 Introduction to Sequential Circuit Design, Mealy and Moore Models, State Machine 
@@ -2679,8 +2317,6 @@ Text Books:
 
 ## Page 54
 
- 
- 
 54 
 FMCD2009 / 2.0 
 Reference Books: 
@@ -2690,33 +2326,8 @@ Reference Books:
 4. R P Jain, Modern Digital Electronics, 2nd, Tata McGraw Hill , 2000 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 55
 
- 
- 
 55 
 FMCD2009 / 2.0 
 Program: Electrical & Electronics Engineering Semester: III 
@@ -2769,8 +2380,6 @@ interrupt priority, interrupt vector table, interrupt service routine
 
 ## Page 56
 
- 
- 
 56 
 FMCD2009 / 2.0 
 Text Books: 
@@ -2783,31 +2392,8 @@ Reference Books:
  
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 57
 
- 
- 
 57 
 FMCD2009 / 2.0 
 Program: Electrical & Electronics Engineering Semester: III  
@@ -2848,11 +2434,8 @@ Reference Books
              Electronics Lab manual. 
 Back 
  
-
 ## Page 58
 
- 
- 
 58 
 FMCD2009 / 2.0 
 Program: Electrical & Electronics Engineering  Semester: III 
@@ -2882,12 +2465,8 @@ Reference Books:
 1. Donald D Givone, Digital Principles and Design, Tata McGraw Hill Edition, 2002 
 Back 
  
-  
-
 ## Page 59
 
- 
- 
 59 
 FMCD2009 / 2.0 
  
@@ -2933,11 +2512,8 @@ Reference Books:
 Learning, 2008. 
 Back 
   
-
 ## Page 60
 
- 
- 
 60 
 FMCD2009 / 2.0 
 IV Semester Bachelor of Engineering (Electrical & Electronics Engineering) 
@@ -2995,8 +2571,6 @@ Singapore
 
 ## Page 61
 
- 
- 
 61 
 FMCD2009 / 2.0 
 4. Advanced Engineering Mathematics, 3ed, Dennis G Zill and Michael R Cullin, Narosa 
@@ -3010,11 +2584,8 @@ publications, INC, New York, 1993
  
 Back 
   
-
 ## Page 62
 
- 
- 
 62 
 FMCD2009 / 2.0 
 Program: Electrical & Electronics Engineering Semester: IV 
@@ -3060,12 +2631,8 @@ Reference Books:
 2001 
 Back 
  
-  
-
 ## Page 63
 
- 
- 
 63 
 FMCD2009 / 2.0 
  
@@ -3106,20 +2673,12 @@ Reasoning”, Sultan Chand and Sons, New Delhi, 2018
 7. Cambridge Advanced Learner’s Dictionary, Cambridge University Press. 
 8. Kaplan’s GRE guide 
  
- 
 Back 
  
- 
- 
- 
-
 ## Page 64
 
- 
- 
 64 
 FMCD2009 / 2.0 
- 
  
 Program: Electrical & Electronics Engineering Semester: IV 
 Course Title: Electrical Machines  Course Code: 19EEEC204 
@@ -3172,8 +2731,6 @@ Publications, Canada, 2nd Edition, 2001.
 
 ## Page 65
 
- 
- 
 65 
 FMCD2009 / 2.0 
 fundamentals, theory, and design.”, CRC Press, 2005. 
@@ -3182,13 +2739,8 @@ Science Publications, 1989.
  
 Back 
  
- 
-  
-
 ## Page 66
 
- 
- 
 66 
 FMCD2009 / 2.0 
  
@@ -3244,8 +2796,6 @@ diagram (proof not required), method to construct root locus diagram.
 
 ## Page 67
 
- 
- 
 67 
 FMCD2009 / 2.0 
 Text Books  
@@ -3256,32 +2806,8 @@ Reference Books:
  
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 68
 
- 
- 
 68 
 FMCD2009 / 2.0 
 Program: Electrical & Electronics Engineering Semester: IV 
@@ -3339,8 +2865,6 @@ Back
 
 ## Page 69
 
- 
- 
 69 
 FMCD2009 / 2.0 
  
@@ -3388,13 +2912,8 @@ Wiley, 2004
  
 Back 
  
- 
- 
-
 ## Page 70
 
- 
- 
 70 
 FMCD2009 / 2.0 
 Back 
@@ -3452,8 +2971,6 @@ Delhi, 2000.
 
 ## Page 71
 
- 
- 
 71 
 FMCD2009 / 2.0 
 Program: Electrical & Electronics Engineering Semester : IV 
@@ -3493,22 +3010,10 @@ File operations in Verilog,  Memories: RAM, ROM, Block Memories( Xilinx IP) 08 H
  
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 72
 
- 
- 
 72 
 FMCD2009 / 2.0 
- 
  
 Program: Electrical & Electronics Engineering Semester:  IV 
 Course Title: ARM Microcontroller Lab Course Code: 23EEEP202 
@@ -3555,8 +3060,6 @@ Structured Enquiry
 
 ## Page 73
 
- 
- 
 73 
 FMCD2009 / 2.0 
  
@@ -3577,8 +3080,6 @@ utilization
 
 ## Page 74
 
- 
- 
 74 
 FMCD2009 / 2.0 
 Program: Electrical & Electronics Engineering Semester: IV 
@@ -3610,11 +3111,8 @@ Second Edition.
  
 Back 
  
-
 ## Page 75
 
- 
- 
 75 
 FMCD2009 / 2.0 
 Program: Electrical & Electronics Engineering Semester: IV 
@@ -3634,20 +3132,8 @@ Expt. No. 8 Programs to implement different sorting techniques.
 Expt. No. 9 Programming on hash tables 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
-  
-
 ## Page 76
 
- 
- 
 76 
 FMCD2009 / 2.0 
  
@@ -3699,8 +3185,6 @@ Characterization of Squirrel cage IM using Sciamble Kit
 
 ## Page 77
 
- 
- 
 77 
 FMCD2009 / 2.0 
 On-line starting of Squirrel cage IM using PLECS 
@@ -3723,25 +3207,10 @@ Science Publications, 1989.
 2. Jacek F. Gieras, “Electrical Machines: Fundamentals of Electromechanical Energy 
 Conversion”, CRC Press, Taylor & Francis Group, 2017. 
  
- 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 78
 
- 
- 
 78 
 FMCD2009 / 2.0 
  
@@ -3796,8 +3265,6 @@ Chapter No.8:  Numerical solution of swing equation for stability analysis  05 H
 
 ## Page 79
 
- 
- 
 79 
 FMCD2009 / 2.0 
 Point by point method of solving swing equation, applications of Euler, modified 
@@ -3814,32 +3281,10 @@ Reference Books:
  3. J.J. Grainger and W.D. Stevenson, Power System Analysis, McGraw Hill (New York), 1994 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 80
 
- 
- 
 80 
 FMCD2009 / 2.0 
- 
  
 Program: Electrical & Electronics Engineering  Semester: V 
 Course Title: OS and Embedded System Design Course Code: 24EEEC303 
@@ -3892,8 +3337,6 @@ List of experiments
 
 ## Page 81
 
- 
- 
 81 
 FMCD2009 / 2.0 
 2. Write a C program to demonstrate the concept of basic RTOS programming by    
@@ -3918,26 +3361,10 @@ Qing Li with Caroline Yao, Real-Time Concepts for Embedded Systems, 1st edition
   
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 82
 
- 
- 
 82 
 FMCD2009 / 2.0 
- 
  
 Program: Electrical & Electronics Engineering Semester: V 
 Course Title: Digital Signal Processing Course Code: 20EEEC301 
@@ -3985,8 +3412,6 @@ Back
 
 ## Page 83
 
- 
- 
 83 
 FMCD2009 / 2.0 
 Program: Electrical & Electronics Engineering Semester: V 
@@ -4043,8 +3468,6 @@ Back
 
 ## Page 84
 
- 
- 
 84 
 FMCD2009 / 2.0 
 Program: Electrical & Electronics Engineering V Semester 
@@ -4074,18 +3497,12 @@ Optimization (Gradient Descent), Multi-class classification (One-vs.-all
 classification using logistic regression), Classical supervised learning algorithm - 
 Support Vector Machine (SVM) 
  
- 
- 
- 
- 
- 
 08 Hrs 
 Chapter No. 3 Performance Evaluation 
 Performance Evaluation of learning models: Metrics (Confusion matrix, Precision, 
 Recall, F1 Score, RoC curves), Modeling data and validating learning, Over fitting, 
 Trade of Bias and Variance, Methods to overcome over fitting (Feature reduction, 
 Regularization) 
- 
  
 04 Hrs 
 Unit - II 
@@ -4103,15 +3520,11 @@ Layers), Neural Network: Initialization, Forwards pro pagation, and Cost functio
 Back propagation algorithm, multi -class classification, Steps to train a neural 
 network, Applications of Neural Networks 
  
- 
- 
 05 Hrs  
 Chapter No. 6 Introduction to Deep learning  05 Hrs 
 
 ## Page 85
 
- 
- 
 85 
 FMCD2009 / 2.0 
 Introduction to Deep Learning (Motivation, Overview), Convolution Neural 
@@ -4139,22 +3552,8 @@ References
 Data Mining Inference and Prediction, 2, Springer, 2009 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 86
 
- 
- 
 86 
 FMCD2009 / 2.0 
 Program: Electrical & Electronics Engineering Semester: V 
@@ -4189,18 +3588,8 @@ Experiments.(DOE)
  
 Back 
  
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 87
 
- 
- 
 87 
 FMCD2009 / 2.0 
 Program: Electrical & Electronics Engineering Semester: V 
@@ -4229,11 +3618,8 @@ of a given second order series RLC system.  (MATLAB/using any simulation tool)
  
 Back 
   
-
 ## Page 88
 
- 
- 
 88 
 FMCD2009 / 2.0 
 Program: Electrical & Electronics Engineering Semester: V 
@@ -4290,8 +3676,6 @@ Back
 
 ## Page 89
 
- 
- 
 89 
 FMCD2009 / 2.0 
 Program: Electrical & Electronics Engineering Semester: V 
@@ -4326,17 +3710,10 @@ Sons, New Delhi, 2018
 5. Cambridge Advanced Learner’s Dictionary, Cambridge University Press. 
 6. Kaplan’s GRE guide 
  
- 
 Back 
  
- 
- 
-  
-
 ## Page 90
 
- 
- 
 90 
 FMCD2009 / 2.0 
 VI Semester Bachelor of Engineering (Electrical & Electronics Engineering) 
@@ -4393,8 +3770,6 @@ Text Books:
 
 ## Page 91
 
- 
- 
 91 
 FMCD2009 / 2.0 
 2. Denton.T, Automobile Electrical and Electronic Systems, Elsevier, 3rd Edition, 2004 
@@ -4410,18 +3785,8 @@ Reference Books:
  
 Back 
  
- 
- 
- 
- 
- 
- 
-  
-
 ## Page 92
 
- 
- 
 92 
 FMCD2009 / 2.0 
 Program: Electrical & Electronics Engineering Semester : VI 
@@ -4470,11 +3835,8 @@ Reference Books
  
 Back 
   
-
 ## Page 93
 
- 
- 
 93 
 FMCD2009 / 2.0 
 Program: Electrical & Electronics Engineering Semester : VI 
@@ -4529,8 +3891,6 @@ Transformer), Overview, Architecture, Training, Applications, BERT (Bidirectiona
 
 ## Page 94
 
- 
- 
 94 
 FMCD2009 / 2.0 
 Encoder Representations from Transformers), T5 (Text -to-Text Transfer 
@@ -4560,14 +3920,10 @@ images, text, and music with VAEs, GANs, LSTMs, Transformer models”, Packt Pub
  
 Back 
   
-
 ## Page 95
 
- 
- 
 95 
 FMCD2009 / 2.0 
- 
  
 Program: Electrical & Electronics Engineering Semester: VI 
 Course Title: CMOS VLSI Circuits Laboratory Course Code: 23EEEP304      
@@ -4594,11 +3950,8 @@ Text Books:
  
 Back 
   
-
 ## Page 96
 
- 
- 
 96 
 FMCD2009 / 2.0 
  
@@ -4632,13 +3985,8 @@ Reference Books:
 5.  Robin Ryan – 60 Seconds and You’re Hired! – Penguin Books 
 Back 
  
- 
-  
-
 ## Page 97
 
- 
- 
 97 
 FMCD2009 / 2.0 
 Program: Electrical & Electronics Engineering Semester: VI 
@@ -4666,12 +4014,8 @@ Reference Books:
 2. Lateral Thinking – Dr. Edward De Bono, Penguin Books, New Delhi 
 Back 
  
-  
-
 ## Page 98
 
- 
- 
 98 
 FMCD2009 / 2.0 
 VII Semester Bachelor of Engineering (Electrical & Electronics Engineering) 
@@ -4723,8 +4067,6 @@ Lab Experiments to be conducted
 
 ## Page 99
 
- 
- 
 99 
 FMCD2009 / 2.0 
 6. Economic load dispatch considering network losses  02 Hrs 
@@ -4748,23 +4090,8 @@ Juan J. Sanchez-Gasca, Power System Modelling, Computation
  
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 100
 
- 
- 
 100 
 FMCD2009 / 2.0 
  
@@ -4792,21 +4119,8 @@ To develop microcontroller based overcurrent, over voltage and impedance relay u
  
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 101
 
- 
- 
 101 
 FMCD2009 / 2.0 
 Program Electives 
@@ -4860,8 +4174,6 @@ Edition, Mehrdad Ehsani, Yimin Gao, Ali Emadi, CRC Press, Taylor and Francis Gro
 
 ## Page 102
 
- 
- 
 102 
 FMCD2009 / 2.0 
 Program: Electrical & Electronics Engineering VII Semester 
@@ -4911,14 +4223,8 @@ Batteries in Electric Drive Vehicles”, John Wiley & Sons, 2015.
  
 Back 
  
- 
- 
- 
-
 ## Page 103
 
- 
- 
 103 
 FMCD2009 / 2.0 
 Program: Electrical & Electronics Engineering Semester : VII 
@@ -4970,8 +4276,6 @@ prepare a technical report.
 
 ## Page 104
 
- 
- 
 104 
 FMCD2009 / 2.0 
 Text Books: 
@@ -4981,36 +4285,10 @@ Perspectives”, John Wiley & Sons, 2018.
  
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 105
 
- 
- 
 105 
 FMCD2009 / 2.0 
- 
  
 Program: Electrical & Electronics Engineering Semester : VII 
 Course Title: Powertrain Control System Design Course Code: 25EEEE402 
@@ -5062,22 +4340,16 @@ Academic Press, 2002.
 
 ## Page 106
 
- 
- 
 106 
 FMCD2009 / 2.0 
 Back 
  
- 
-  
 3. Marian K. Kazimierczuk, Pulse -width Modulated DC –DC Power Converters, John Wiley & 
 Sons. 
 4. Robert W. Erickson, Fundamentals of Power Electronics, Kluwer Academic Publishers, 2000. 
 
 ## Page 107
 
- 
- 
 107 
 FMCD2009 / 2.0 
  
@@ -5124,15 +4396,10 @@ PYTHON/ any suitable. Design four panels of 12V 5 Amp each and connects them
 in series and parallel as shown. Simulate and verify the operation at various 
 insolation levels. 
   
- 
-
 ## Page 108
 
- 
- 
 108 
 FMCD2009 / 2.0 
-  
   
 Case 1: Refer input irradiance table, Temp at 250 constant 
 Time  Irradiance 
@@ -5178,12 +4445,8 @@ Case 2: Constant irradiance as 1000 W/m2, Variable Temperature as 00,200,
 Phase II (10 Marks) :  For the PV panel given in the table. Design and select a 
 suitable converter and generate necessary plots and waveforms 
  
-
-
 ## Page 109
 
- 
- 
 109 
 FMCD2009 / 2.0 
  
@@ -5206,20 +4469,8 @@ Reference Books:
 Interscience, New Jersey, 2004 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
-
-
 ## Page 110
 
- 
- 
 110 
 FMCD2009 / 2.0 
  
@@ -5268,13 +4519,8 @@ Edition, Mehrdad Ehsani, Yimin Gao, Ali Emadi, CRC Press, Taylor and Francis Gro
  
 Back 
  
- 
- 
-
 ## Page 111
 
- 
- 
 111 
 FMCD2009 / 2.0 
  
@@ -5303,7 +4549,6 @@ Basic concepts, Three phase full wave diode rectifier, Thyristor based converter
 Rectifier operation with gate turn ON, Current sourced converter with turn OFF 
 devices,  Current sourced versus Voltage sourced converter. 
  
- 
 05 Hrs 
 Chapter No. 4 Objectives of Series and Shunt Compensation: 
 Objective of Shunt Compensation, Methods of Controllable VAR Generation, Static 
@@ -5325,11 +4570,8 @@ References Books:
 International Publishers, New-Delhi, 2007, ISBN 978 81 224 2142 2. 
 Back 
   
-
 ## Page 112
 
- 
- 
 112 
 FMCD2009 / 2.0 
 Program: Electrical & Electronics Engineering Semester: VII 
@@ -5375,12 +4617,8 @@ Reference Book:
  
 Back 
  
-  
-
 ## Page 113
 
- 
- 
 113 
 FMCD2009 / 2.0 
 Program: Electrical & Electronics Engineering Semester : VII 
@@ -5436,8 +4674,6 @@ Back
 
 ## Page 114
 
- 
- 
 114 
 FMCD2009 / 2.0 
 Program: Electrical & Electronics Engineering Semester : VII 
@@ -5457,7 +4693,6 @@ the Ac line filter , the complete DC power supply . ( Need for power factor corr
 Simulation demo…)  
 15 hrs  
  
- 
 Unit – II  
  Chapter No. 2. DC-AC Switched Mode Inverters:  
 Introduction, basic concepts of switch-mode inverters, single phase inverters, three phase 
@@ -5470,7 +4705,6 @@ Introduction, Generalized topology with a Common DC Bus, Converters Derived from
 Generalized Topology, Diode Clamped Topology, Flying Capacitor Topology,  Multi-pulse 
 converter 
 05 hrs 
- 
  
 Chapter No. 4. Diode Clamped Multilevel Converters: 
 Introduction, Converter’s structure and Functional description: voltage  clamping, 
@@ -5490,13 +4724,8 @@ Reference Books:
 4. V. Ramanarayanan, Switched Mode Power Converters Notes, IISC, Bangalore, 2008 
 Back 
  
- 
- 
-
 ## Page 115
 
- 
- 
 115 
 FMCD2009 / 2.0 
 Program: Electrical & Electronics Engineering Semester: VII 
@@ -5551,8 +4780,6 @@ through pole placement – Necessary and sufficient conditions. 04 Hrs
 
 ## Page 116
 
- 
- 
 116 
 FMCD2009 / 2.0 
 Text Books 
@@ -5563,11 +4790,8 @@ Reference Books:
  
 Back 
   
-
 ## Page 117
 
- 
- 
 117 
 FMCD2009 / 2.0 
 Program: Electrical & Electronics Engineering Semester: VII 
@@ -5615,11 +4839,8 @@ Management,
 Technology(SOET), IGNOU 
 Back 
  
-
 ## Page 118
 
- 
- 
 118 
 FMCD2009 / 2.0 
 (Embedded System) 
@@ -5676,8 +4897,6 @@ Back
 
 ## Page 119
 
- 
- 
 119 
 FMCD2009 / 2.0 
 Program: Electrical & Electronics Engineering Semester: VII 
@@ -5734,8 +4953,6 @@ Back
 
 ## Page 120
 
- 
- 
 120 
 FMCD2009 / 2.0 
  
@@ -5773,11 +4990,8 @@ Reference Books:
 4. Tools: Questa Sim,  Modelsim for Verilog, Cadance Geneus, Xilinx 14.2 ISE 
 Back 
   
-
 ## Page 121
 
- 
- 
 121 
 FMCD2009 / 2.0 
 Program: Electrical and Electronics Engineering Semester:  VII Semester 
@@ -5814,12 +5028,8 @@ Reference Books:
 Nature, 2021. 
 Back 
  
-  
-
 ## Page 122
 
- 
- 
 122 
 FMCD2009 / 2.0 
 Program:  Electrical and Electronics Engineering Semester:  VII Semester 
@@ -5866,11 +5076,8 @@ Springer, 2012.
  3. Wayne Wolf, “Modern VLSI Design: IP Based Design”, Prentice-Hall India, Fourth edition, 2009. 
 Back 
  
-
 ## Page 123
 
- 
- 
 123 
 FMCD2009 / 2.0 
 Program: Electrical & Electronics Engineering Semester : VII 
@@ -5880,9 +5087,6 @@ ISA Marks: 67 ESA Marks: 33 Total Marks: 100
 Teaching Hours:16+48  Exam Duration: 03 Hrs 
 Back 
  
- 
- 
-  
 Chapter 1: Introduction to Advanced Semiconductor Packaging 
  Overview of semiconductor packaging 
  Evolution of packaging technologies 
@@ -5915,11 +5119,8 @@ Reference Books
 2012. 
 4. Rao R Tummala, Fundamentals of Microsystems Packaging, McGraw Hill, 2001. 
  
-
 ## Page 124
 
- 
- 
 124 
 FMCD2009 / 2.0 
 Back 
@@ -5936,14 +5137,12 @@ typical verification flow, stimulus generation, direct testing, Coverage: Code a
 Functional coverage, coverage plan.  
 02 hrs 
  
-  
 Chapter No. 2.  System Verilog – Language Constructs  
 System Verilog constructs - Data types: two -state data, strings, arrays: queues, 
 dynamic and associative arrays, Structs, enumerated types. Program blocks, 
 module, interfaces, clocking blocks, mod-ports. 
 02 hrs 
  
-  
  Chapter No. 3. System Verilog – Classes & Randomization  
 SV Classes: Language evolution, Classes and objects, Class Variables and Methods, 
 Class instantiation, Inheritance, and encapsulation, Polymorphism.  
@@ -5951,7 +5150,6 @@ Class instantiation, Inheritance, and encapsulation, Polymorphism.
 Randomization. 
 02 hrs 
  
-  
  Chapter No. 4. System Verilog – Assertions & Coverage  
 Assertions: Introduction to Assertion based verification, Immediate and 
 concurrent assertions. Coverage driven verification : Motivation, Types of 
@@ -5959,7 +5157,6 @@ coverage, Cover Group, Cover Point, Cross Coverage, C oncepts of Binning and
 event sampling. 
 04 hrs 
  
-  
  Chapter No. 5. Building Testbench  
 Layered testbench architecture. Introduction to Universal Verification 
 Methodology, OverVIIew of UVM Base Classes and simulation phases in UVM and 
@@ -5974,12 +5171,9 @@ Tools: Questa Sim,  NC Verilog, NC Sim, CVER + GTKWave, VCSMX, Modelsim for Veri
 
 ## Page 125
 
- 
- 
 125 
 FMCD2009 / 2.0 
   
- 
 Program: Electrical & Electronics Engineering Semester: VII 
 Course Title: CMOS ASIC Design Course code: 25EEEE407 
 L-T- P: 1-0-2 Credits: 03 Contact Hrs: 05 hrs/week 
@@ -6016,14 +5210,10 @@ Physical Compiler an PrimeTime, 2nd edition, 2001.
 3. Springer Science+Business Media, LLC 2009 
 4. Tools: Cadence Innovous, Encounter 
  
- 
 Back 
   
-
 ## Page 126
 
- 
- 
 126 
 FMCD2009 / 2.0 
                                                             
@@ -6082,11 +5272,8 @@ device
 1.00 6 Chapters 2, 3, 4 & 
 5 
  
-
 ## Page 127
 
- 
- 
 127 
 FMCD2009 / 2.0 
 Category: Course Project Total Weightage: 5 No. of lab 

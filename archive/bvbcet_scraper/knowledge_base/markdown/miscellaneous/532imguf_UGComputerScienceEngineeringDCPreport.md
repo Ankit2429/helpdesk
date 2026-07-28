@@ -1,4 +1,5 @@
 # PDF Document: 532imguf_UGComputerScienceEngineeringDCPreport
+
 **PDF Source:** https://www.kletech.ac.in/Uploads/image/532imguf_UGComputerScienceEngineeringDCPreport.pdf
 
 ## Page 1
@@ -644,7 +645,6 @@ S.N. Name of the Laboratory
 1 Centre for Artificial Intelligence Research(CAIR)
 2 Centre of Excellence in Visual Intelligence (CEVI)
  Centre for Artificial Intelligence Research (CAIR)
- 
  
 1. Objectives and Vision of CAIR
 The Centre for AI Research (CAIR) at KLE Technological University, Hubballi, is an interdisciplinary research centre established to advance artificial intelligence research across three core domains: Intelligent Industrialautomation and AI in Healthcare. The centre operates under the School of Computer Science and Engineering and is directed by Prof. Satyadhyan Chickerur.

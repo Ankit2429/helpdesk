@@ -1,45 +1,18 @@
 # PDF Document: mca-curriculum-2024-26
+
 **PDF Source:** https://www.kletech.ac.in/pdf/mca-curriculum-2024-26.pdf
 
 ## Page 1
 
- 
- 
 FMCD2009 / 2.0 
  1 
- 
- 
- 
- 
-  
- 
  
 Curriculum Structure and Curriculum Content for the Academic Bach 2024-26 
 Department of Computer Applications 
 Master of Computer Applications 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 2
 
- 
- 
 FMCD2009 / 2.0 
  2 
  
@@ -57,18 +30,8 @@ Semester- IV ................................ ................................ .
 List of Program Electives ................................ ................................ .......................  12 
 Curriculum Content- Course wise ................................ ................................ ... 13-101 
  
- 
- 
- 
- 
- 
- 
-  
-
 ## Page 3
 
- 
- 
 FMCD2009 / 2.0 
  3 
 Vision and Mission of KLE Technological University 
@@ -77,7 +40,6 @@ Vision
 KLE Technological University will be a national leader in  Higher 
 Education–recognised globally for innovative culture, outstanding 
 student experience, research excellence and social impact. 
- 
  
 Mission 
 KLE Technological University is dedicated to teaching that meets 
@@ -105,8 +67,6 @@ our mission.
 
 ## Page 4
 
- 
- 
 FMCD2009 / 2.0 
  4 
  
@@ -128,16 +88,8 @@ students to achieve academic and professional growth.
 research, and entrepreneurship, in the field of Computer 
 Science and applications. 
  
- 
- 
- 
- 
-  
-
 ## Page 5
 
- 
- 
 FMCD2009 / 2.0 
  5 
 Program Educational Objectives/Program Outcomes and Pro gram-Specific 
@@ -181,8 +133,6 @@ practice.
 
 ## Page 6
 
- 
- 
 FMCD2009 / 2.0 
  6 
 7. Life-long learning: Recognize the need, and have the ability, to engage 
@@ -216,8 +166,6 @@ professional knowledge and attitude.
 
 ## Page 7
 
- 
- 
 FMCD2009 / 2.0 
  7 
 Curriculum Structure-Overall 2024-26 
@@ -228,7 +176,8 @@ Data Structures using C
 (3-0-1.5) 
 OOPS using Java 
 24ECAC705 
-(3-0-0) 
+
+(3-0-0) 
 Machine Learning 
 24ECAC801 
 (3-0-1) 
@@ -251,7 +200,8 @@ Data Mining
 (3-0-1) 
 Big Data Analytics 
 24ECAC802 
-(3-0-1) 
+
+(3-0-1) 
 Elective-3 (MOOC) 
 23ECAP8XX 
 (0-0-2) 
@@ -264,10 +214,12 @@ and NoSQL Databases
 (0-0-2) 
 Computer Networks 
 24ECAC703 
-(3-0-1) 
+
+(3-0-1) 
 Software Engineering 
 24ECAC707 
-(3-0-0) 
+
+(3-0-0) 
 Advanced JAVA Programming 
 24ECAC804 
 (3-0-1) 
@@ -281,10 +233,12 @@ Practices 23ECAP806
 (0-0-2) 
 Operating Systems 
 24ECAC704 
-(3-0-1) 
+
+(3-0-1) 
 Cloud Computing 
 24ECAC708 
-(3-0-1) 
+
+(3-0-1) 
 Elective-1 
 23ECAE8XX 
 (3-0-0) 
@@ -298,7 +252,8 @@ Intelligence 23ECAP807
 Mathematical Thinking & 
 Logical Reasoning 
 15EHSC701 
-(3-0-0) 
+
+(3-0-0) 
 Design and Analysis of 
 Algorithms 
 24ECAC709 
@@ -352,11 +307,13 @@ Ethical Hacking
 Critical Thinking and 
 Problem-Solving Skills 
 24EHSC701 
-(1-0-0) 
+
+(1-0-0) 
 Communication and 
 Leadership Skills 
 24EHSC702 
-(1-0-0) 
+
+(1-0-0) 
   
 Natural Language 
 Processing & Gen-AI 
@@ -369,16 +326,10 @@ Credits 23 23 22 20
 
 ## Page 8
 
- 
- 
 FMCD2009 / 2.0 
  8 
 Curriculum Structure-Semester wise 
 Semester - I 
- 
- 
- 
- 
  
 No Code Course Category L-T-P Credits Contact  
 Hours ISA ESA Total 
@@ -396,17 +347,11 @@ TOTAL  16-0-7 23 30 430 270 700
 
 ## Page 9
 
- 
- 
 FMCD2009 / 2.0 
  9 
  
 Semester - II 
  
- 
- 
- 
-  
 No Code Course Category L-T-P Credits Contact Hours ISA ESA Total Exam 
 Duration 
 (in  Hrs) 
@@ -424,17 +369,11 @@ TOTAL  16-0-7 23 30 480 320 800
 
 ## Page 10
 
- 
- 
 FMCD2009 / 2.0 
  10 
  
 Semester- III 
  
- 
- 
- 
-  
 No Code Course Category L-T-P Credits Contact Hours ISA ESA Total Exam 
 Duration 
 (in  Hrs) 
@@ -449,13 +388,10 @@ TOTAL  15-0-7 22 29 419 281 700
 
 ## Page 11
 
- 
- 
 FMCD2009 / 2.0 
  11 
  
 Semester- IV 
- 
  
 Semester I II III IV Total 
 Credits 23 23 22 20 88 
@@ -470,8 +406,6 @@ TOTAL  0-0-20 20 38 200 150 350
 
 ## Page 12
 
- 
- 
 FMCD2009 / 2.0 
  12 
  
@@ -486,7 +420,6 @@ Sr. No Name of the Course Course Code
 7.  Full Stack Development with MERN  23ECAE808 
 8.  Natural Language Processing & GenAI 23ECAE817 
  
- 
 List of Program Electives-3 IV-Semester 
 Sr. No Name of the Course Course Code 
 1.  Modern Web Development Framework 23ECAP804 
@@ -498,11 +431,8 @@ Sr. No Name of the Course Course Code
 7.  Network Security and Ethical Hacking 23ECAP810 
 8.  Building Blockchain Applications 23ECAP811 
  
- 
-
 ## Page 13
 
- 
 FMCD2009 / 2.0 
  13 
  
@@ -555,7 +485,6 @@ circular list, Primitive operations on circular lists, doubly linked lists
 
 ## Page 14
 
- 
 FMCD2009 / 2.0 
  14 
   
@@ -609,10 +538,8 @@ Reference Books:
 Reprint,Thomson Course Technology, 2005 
 3. Reema Thareja, Data Structures using C , 2 nd Edition, 2014, Oxford University Press 
  
-
 ## Page 15
 
- 
 FMCD2009 / 2.0 
  15 
 III 2 Questions to be set of 20 Marks 
@@ -680,7 +607,6 @@ BACK
 
 ## Page 16
 
- 
 FMCD2009 / 2.0 
  16 
  
@@ -738,7 +664,6 @@ Object Database Extensions to SQL.
 
 ## Page 17
 
- 
 FMCD2009 / 2.0 
  17 
 Unit III 
@@ -773,7 +698,6 @@ Management.   Cengage 2017.
 Edition, McGraw-Hill, 2003 
 4. https://courses.cs.duke.edu/fall17/compsci316/lectures/03-design-notes.pdf 
  
- 
 Evaluation Scheme 
 In Semester Assessment (ISA) 
 Assessment Marks 
@@ -781,13 +705,8 @@ ISA 50
 ESA 50 
 Total 100 
  
- 
- 
- 
-
 ## Page 18
 
- 
 FMCD2009 / 2.0 
  18 
 End Semester Assessment (ESA) 
@@ -844,16 +763,10 @@ Total 100
  
 BACK 
  
- 
- 
- 
- 
- 
 Program:  Master of Computer Applications Semester: I 
 
 ## Page 19
 
- 
 FMCD2009 / 2.0 
  19 
 Course Title:   Computer Networks Course Code: 24ECAC703 
@@ -912,7 +825,6 @@ Pearson Education,2017.
 
 ## Page 20
 
- 
 FMCD2009 / 2.0 
  20 
 Reference Books: 
@@ -985,7 +897,6 @@ design of the network.
 
 ## Page 21
 
- 
 FMCD2009 / 2.0 
  21 
 5 
@@ -1010,23 +921,7 @@ Simulation and Implementation of Routing
 Protocols. 
 2 
  
- 
 BACK 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Program:  Master of Computer Applications Semester: I 
 Course Title:  Operating Systems Course Code: 24ECAC704 
@@ -1037,7 +932,6 @@ Unit I
 
 ## Page 22
 
- 
 FMCD2009 / 2.0 
  22 
 1 Introduction to Operating Systems, System structures  
@@ -1095,7 +989,6 @@ rights, Capability-Based systems
 
 ## Page 23
 
- 
 FMCD2009 / 2.0 
  23 
 Design principles Kernel modules, Process management Scheduling, 
@@ -1136,19 +1029,8 @@ Each
 7,8 Any 1 questi on is to be 
 answered 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 24
 
- 
 FMCD2009 / 2.0 
  24 
 Lab Activities 
@@ -1204,18 +1086,10 @@ Program to simulate Unix commands and
 System calls.  
 2 
  
- 
 BACK 
  
- 
- 
- 
- 
- 
-
 ## Page 25
 
- 
 FMCD2009 / 2.0 
  25 
 Program:  Master of Computer Applications Semester: I 
@@ -1248,16 +1122,8 @@ Total 100
  
 BACK 
  
- 
- 
- 
- 
- 
- 
-
 ## Page 26
 
- 
 FMCD2009 / 2.0 
  26 
  
@@ -1315,14 +1181,12 @@ Text Books :
 
 ## Page 27
 
- 
 FMCD2009 / 2.0 
  27 
 Reference Books: 
  1.Chris Bates, Web Programming: Building internet applications, John Wiley & Sons, 2007 
 2. Luke welling & Laura Thomson, PHP and MySQL Web Development 4th Edition, 2012 
 3. Steven Holzner, PHP Complete Reference, Mc Graw Hill, 2010 
- 
  
 Evaluation Scheme 
   In Semester Assessment 
@@ -1374,7 +1238,6 @@ validation using PHP and MySQL
 
 ## Page 28
 
- 
 FMCD2009 / 2.0 
  28 
 Program:  Master of Computer Applications Semester: I 
@@ -1418,15 +1281,8 @@ No.       Content  Hrs
 Text Books : 
 Reference Books:  
  
- 
- 
- 
- 
- 
-
 ## Page 29
 
- 
 FMCD2009 / 2.0 
  29 
  
@@ -1437,32 +1293,8 @@ Activities 100
 Total 100 
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 30
 
- 
 FMCD2009 / 2.0 
  30 
  
@@ -1518,7 +1350,6 @@ Unit – III
 
 ## Page 31
 
- 
 FMCD2009 / 2.0 
  31 
 Background; The life cycle of servlet, A simple servlet, The Servlet API, The 
@@ -1561,20 +1392,12 @@ Each
 7,8 Any 1 question is to be 
 answered 
  
- 
- 
 BACK 
  
- 
- 
- 
-
 ## Page 32
 
- 
 FMCD2009 / 2.0 
  32 
- 
  
 Program:  Master of Computer Applications Semester: II 
 Course Title:  Data Mining Course Code: 24ECAC706 
@@ -1627,10 +1450,8 @@ Time Series and Sequence Data, Mining Text Databases, Mining the World
 Wide Web. 
 4  Hrs 
  
-
 ## Page 33
 
- 
 FMCD2009 / 2.0 
  33 
  
@@ -1689,10 +1510,8 @@ Text Books:
 Reference Books: 
 1. Pujari, A.K, Datamining Techniques, 1, Universities Press, 2010. 
  
-
 ## Page 34
 
- 
 FMCD2009 / 2.0 
  34 
 9.  
@@ -1709,34 +1528,10 @@ dataset using:
  
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 35
 
- 
 FMCD2009 / 2.0 
  35 
- 
  
 Program:  Master of Computer Applications Semester: II 
 Course Title:   Software Engineering Course Code: 24ECAC707 
@@ -1790,7 +1585,6 @@ Reference Books:
 
 ## Page 36
 
- 
 FMCD2009 / 2.0 
  36 
  
@@ -1800,14 +1594,6 @@ Assessment Marks
 ISA 50 
 ESA 50 
 Total 100 
- 
- 
- 
- 
- 
- 
- 
- 
  
 End Semester Assessment (ESA) 
 UNIT 8 Questions to be set of 20 
@@ -1830,20 +1616,10 @@ answered
  
 BACK 
  
- 
- 
- 
- 
- 
-
 ## Page 37
 
- 
 FMCD2009 / 2.0 
  37 
- 
- 
- 
  
 In Semester Assessment (ISA) 
  
@@ -1851,9 +1627,6 @@ Assessment  Marks
 ISA 50 
 ESA 50 
 Total 100 
- 
- 
- 
  
 End Semester Assessment (ESA) 
 UNIT 8 Questions to be set of 20 
@@ -1895,7 +1668,6 @@ SaaS, PaaS, or IaaS should it embrace and why? What
 
 ## Page 38
 
- 
 FMCD2009 / 2.0 
  38 
 Program:  Master of Computer Applications Semester: II 
@@ -1948,7 +1720,6 @@ Resource management and dynamic application scaling.
 
 ## Page 39
 
- 
 FMCD2009 / 2.0 
  39 
 Applications would be most beneficial for the 
@@ -2000,10 +1771,8 @@ Approach, McGraw Fill, 2010.
 3. Cloud Computing for Dummies: J. Hurwitz, ISBN 978-0-470-484-8 
 4. Dr. Kumar Sourabh, Cloud Computing, 2nd Edition, Wiley India, 2011. 
  
-
 ## Page 40
 
- 
 FMCD2009 / 2.0 
  40 
 Demonstration Cloud services using AWS or Azu re or 
@@ -2067,7 +1836,6 @@ admission control, capacity allocation, load balancing,
 
 ## Page 41
 
- 
 FMCD2009 / 2.0 
  41 
 energy optimization, and QoS guarantees be actually 
@@ -2104,23 +1872,10 @@ Total 100
   
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 42
 
- 
 FMCD2009 / 2.0 
  42 
- 
  
 Program:  Master of Computer Applications Semester: II 
 Course Title:   Design & Analysis of Algorithms Course Code: 24ECAC709 
@@ -2177,7 +1932,6 @@ problems.
 
 ## Page 43
 
- 
 FMCD2009 / 2.0 
  43 
 Text Books : 
@@ -2245,7 +1999,6 @@ Implement the following:
 
 ## Page 44
 
- 
 FMCD2009 / 2.0 
  44 
 5 Greedy method Implementation of the following : 
@@ -2258,38 +2011,10 @@ Total 100
  
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 45
 
- 
 FMCD2009 / 2.0 
  45 
- 
- 
- 
- 
  
 Program: Master of Computer Applications Semester - II 
 Course Title: Java  Lab Course Code: 24ECAP701 
@@ -2340,7 +2065,6 @@ like 1
 
 ## Page 46
 
- 
 FMCD2009 / 2.0 
  46 
 ArrayList, LinkedList, Maps, Sets etc. and iterators. 
@@ -2355,7 +2079,6 @@ References Books:
 1. Head First Java 2nd Edition by Kathy Sierra and Bert Bates, OREILLY. 
 2. Different websites on Java like Tutorialspoint.com, javatpoint.com etc. 
  
- 
 Evaluation Scheme 
 Assessment  Weightage in Marks 
 Lab ISA 80 
@@ -2364,26 +2087,10 @@ Total 80+20= 100
  
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 47
 
- 
 FMCD2009 / 2.0 
  47 
- 
- 
- 
  
 Program:  Master of Computer Applications Semester: II 
 Course Title:    Mini Project-1 Course Code: 24ECAP702 
@@ -2425,16 +2132,10 @@ Assessment  Marks
 Total 100 
 BACK 
  
- 
-
 ## Page 48
 
- 
 FMCD2009 / 2.0 
  48 
- 
- 
- 
  
 Program:  Master of Computer Applications Semester: II 
 Course Title: Communication and Leadership Skills Course Code:24EHSC702 
@@ -2476,15 +2177,10 @@ Teaching Hours: 16 Tutorial/Practical Hours:-- Examination Duration:3  Hrs
 Text Books : 
 Reference Books:  
  
-
 ## Page 49
 
- 
 FMCD2009 / 2.0 
  49 
- 
- 
- 
  
 Evaluation Scheme 
 In Semester Assessment (ISA) 
@@ -2493,33 +2189,10 @@ Assessment  Marks
 Total 100 
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 50
 
- 
 FMCD2009 / 2.0 
  50 
- 
- 
- 
  
 Semester-III 
 Program: Master of Computer Applications Semester: III 
@@ -2569,7 +2242,6 @@ Bidirectional RNNs, Sequence Modeling.
 
 ## Page 51
 
- 
 FMCD2009 / 2.0 
  51 
 Text Book: 
@@ -2582,15 +2254,6 @@ RaschkaVahidMirjalili, December 2019.
  
 Evaluation Scheme 
 1. In Semester Assessment (ISA)  
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 2. End Semester Assessment (ESA) 
  
@@ -2626,7 +2289,6 @@ answered
 
 ## Page 52
 
- 
 FMCD2009 / 2.0 
  52 
 4 Classification – Logistic Regression 1 
@@ -2636,37 +2298,12 @@ FMCD2009 / 2.0
 8 Unsupervised Learning – K-Means Clustering 2 
 9  Deep Learning – Convolution Neural Networks Application 2 
  
- 
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 53
 
- 
 FMCD2009 / 2.0 
  53 
- 
- 
- 
  
 Program:  Master of Computer Applications Semester: III 
 Course Title: Big Data Analytics Course Code: 24ECAC802 
@@ -2712,21 +2349,13 @@ and SAS Business Series, 2012
 2.   Data Mining and Predictive Analysis: Intelligence Gathering and Crime Analysis  by 
 Colleen Mccue , Elsevier. 
   
-
 ## Page 54
 
- 
 FMCD2009 / 2.0 
  54 
  
 Evaluation Scheme 
 1. In Semester Assessment (ISA) 
- 
- 
- 
- 
- 
- 
  
 2. End Semester Assessment (ESA) 
  
@@ -2788,7 +2417,6 @@ answered
 
 ## Page 55
 
- 
 FMCD2009 / 2.0 
  55 
 5 MongoDB and 
@@ -2811,34 +2439,12 @@ Functions)
  Hive ETL: Loading JSON, XML, Text Data Examples 
 2 
  
- 
- 
- 
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 56
 
- 
 FMCD2009 / 2.0 
  56 
- 
- 
  
 Program: Master of Computer Applications Semester - III 
 Course Title: Advanced JAVA Programming Course Code: 24ECAC803 
@@ -2891,7 +2497,6 @@ Reference Books:
 
 ## Page 57
 
- 
 FMCD2009 / 2.0 
  57 
  
@@ -2930,7 +2535,6 @@ Management System using Maven as build tool
 along with DAO, AOP techniques. Like Student management system, 
 Restaurant management system etc using Maven as build tool 
  
- 
 Evaluation Scheme 
 Assessment Marks 
 ISA- 1 15 
@@ -2943,38 +2547,14 @@ Total ISA Marks 63
 ESA 37 
 Total 100 
  
- 
- 
- 
-
 ## Page 58
 
- 
 FMCD2009 / 2.0 
  58 
  
 End Semester Assessment (ESA) 
  
 BACK 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 UNIT 8 Questions to be set of 20 Marks 
 Each 
@@ -2996,7 +2576,6 @@ answered
 
 ## Page 59
 
- 
 FMCD2009 / 2.0 
  59 
 Program: Master of Computer Applications Semester: III 
@@ -3058,7 +2637,6 @@ Rap Payne.
 
 ## Page 60
 
- 
 FMCD2009 / 2.0 
  60 
 Evaluation Scheme 
@@ -3095,16 +2673,8 @@ having Google maps.
 1 
 BACK 
  
- 
- 
- 
- 
- 
- 
-
 ## Page 61
 
- 
 FMCD2009 / 2.0 
  61 
 Program:  Master of Computer Applications Semester: III 
@@ -3132,21 +2702,8 @@ Students are asked to make a team of 3 -4 members and can choose the different c
 projects like desktop applications, web applications, mobile application and distributed application 
 and work once it is approved by the coordinator.  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 62
 
- 
 FMCD2009 / 2.0 
  62 
 1.1 Course Objectives:  
@@ -3171,20 +2728,8 @@ market and brings more revenue in the app sales and there will be more exposure 
 business. 
 • Evaluation: The project assessment is done by an evaluation team as per the schedule. 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 63
 
- 
 FMCD2009 / 2.0 
  63 
 In-Semester 
@@ -3208,28 +2753,10 @@ Presentation, Demonstration  30
 Viva-voce 10 
 Total 50 
  
- 
- 
- 
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 64
 
- 
 FMCD2009 / 2.0 
  64 
 Elective – 1 and 2 
@@ -3284,7 +2811,6 @@ Managing Log Files in a Graphical Environment.
 
 ## Page 65
 
- 
 FMCD2009 / 2.0 
  65 
 Unit – III 
@@ -3322,16 +2848,8 @@ ISA 50
 ESA 50 
 Total 100 
  
- 
- 
- 
- 
- 
- 
-
 ## Page 66
 
- 
 FMCD2009 / 2.0 
  66 
 2. End Semester Assessment (ESA) Pattern: 
@@ -3354,29 +2872,8 @@ Each
  
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 67
 
- 
 FMCD2009 / 2.0 
  67 
  
@@ -3429,7 +2926,6 @@ Reference Books:
 
 ## Page 68
 
- 
 FMCD2009 / 2.0 
  68 
 1. Effective DevOps: Building a Culture of Collaboration, Affinity and Tooling at Scale by Jennifer 
@@ -3490,7 +2986,6 @@ simulated merge conflicts between branches.
 
 ## Page 69
 
- 
 FMCD2009 / 2.0 
  69 
 Install Gerrit, configure `git -review`, and conduct a sample peer 
@@ -3515,26 +3010,8 @@ tests, then deploy a Dockerized app to a Kubernetes cluster using
  
  BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 70
 
- 
 FMCD2009 / 2.0 
  70 
 Program:  Master of Computer Applications Semester: III 
@@ -3592,11 +3069,8 @@ Reference Books:
 
 ## Page 71
 
- 
 FMCD2009 / 2.0 
  71 
- 
- 
  
 Evaluation scheme 
 1. In Semester Assessment (ISA)  
@@ -3608,18 +3082,9 @@ Activity 20
 ESA 50 
 Total 100 
  
- 
 2. End Semester Assessment (ESA) 
  
 BACK 
- 
- 
- 
- 
- 
- 
- 
- 
  
 UNIT 8 Questions to be set of 20 Marks 
 Each 
@@ -3641,7 +3106,6 @@ answered
 
 ## Page 72
 
- 
 FMCD2009 / 2.0 
  72 
  
@@ -3695,7 +3159,6 @@ cybercriminals.
 
 ## Page 73
 
- 
 FMCD2009 / 2.0 
  73 
 Introduction, Real -Life Examples, Case Studies: Illustrations of Financial Frauds in 
@@ -3734,16 +3197,8 @@ Each
  
 BACK 
  
- 
- 
- 
- 
- 
- 
-
 ## Page 74
 
- 
 FMCD2009 / 2.0 
  74 
  
@@ -3797,7 +3252,6 @@ possible example, Configuring the state of an exception, System – Level Except
 
 ## Page 75
 
- 
 FMCD2009 / 2.0 
  75 
 (System. System Exception), Application -Level Exception 
@@ -3846,12 +3300,8 @@ Press
 2. Tom Archer: Inside C#, WP Publishers, 2001. 
 3. Herbert Schildt: The Complete Reference C#,Tata McGraw Hill, 2004 
  
- 
- 
-
 ## Page 76
 
- 
 FMCD2009 / 2.0 
  76 
 Evaluation Scheme 
@@ -3878,24 +3328,8 @@ Each
  
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 77
 
- 
 FMCD2009 / 2.0 
  77 
 Program:  Master of Computer Applications Semester: III 
@@ -3948,7 +3382,6 @@ Reference Books:
 
 ## Page 78
 
- 
 FMCD2009 / 2.0 
  78 
 1. Wu, James, and Stephen Coggeshall. Foundations of predictive analytics. Chapman and 
@@ -3980,19 +3413,10 @@ III 2 Questions to be set of 20 Marks
 Each 
  5 Any 1 question is to be answered 
  
- 
 BACK 
  
- 
- 
- 
- 
- 
- 
-
 ## Page 79
 
- 
 FMCD2009 / 2.0 
  79 
 Program:  Master of Computer Applications Semester: III 
@@ -4047,7 +3471,6 @@ Date: September 2014.
 
 ## Page 80
 
- 
 FMCD2009 / 2.0 
  80 
 2. Full Stack JavaScript Development with MEAN by Adam Bretz and Colin J. Ihrig, 
@@ -4105,7 +3528,6 @@ authentication state using Redux Toolkit.
 
 ## Page 81
 
- 
 FMCD2009 / 2.0 
  81 
 Design a basic CRUD API for product management using Express.js, 
@@ -4132,27 +3554,10 @@ Implement a live chat feature using Socket.io in Node.js and React,
 enabling real-time user interaction. 
 2 
  
- 
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 82
 
- 
 FMCD2009 / 2.0 
  82 
 Program: Master of Computer Applications Semester: III 
@@ -4209,10 +3614,8 @@ Springer, 2024.
  
 BACK 
  
-
 ## Page 83
 
- 
 FMCD2009 / 2.0 
  83 
 Semester-IV 
@@ -4225,8 +3628,6 @@ Teaching  Hrs: Full Time Practical:-- Exam Duration:3 Hrs
 A student must carry out a project on any domain using cutting edge technologies and 
 demonstrates the same at the end of the semester. 
  
- 
- 
 Internal Semester 
 Assessment (50%) 
 Assessment Weightage in 
@@ -4238,25 +3639,10 @@ End Semester Assessment
 Final Review 50 
 Total 100 
  
- 
- 
- 
- 
- 
- 
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 84
 
- 
 FMCD2009 / 2.0 
  84 
 Elective 3 (MOOC) 
@@ -4303,7 +3689,6 @@ Teaching Hrs : 30 Practical: 24 Exam Duration: --
 
 ## Page 85
 
- 
 FMCD2009 / 2.0 
  85 
  
@@ -4345,7 +3730,6 @@ Neural Networks
 Interpretability & 
 CNN Applications 
  
- 
  Neural Style Transfer using VGG16 Model 
  Car Detection using YOLO  
 3 
@@ -4367,7 +3751,6 @@ Reference Books:
 
 ## Page 86
 
- 
 FMCD2009 / 2.0 
  86 
   
@@ -4424,7 +3807,6 @@ the smart contract platform, NEO blockchain: Building blocks of a NEO
 
 ## Page 87
 
- 
 FMCD2009 / 2.0 
  87 
  
@@ -4435,19 +3817,7 @@ Assessment  Marks
 ISA 100 
 ESA --- 
  
- 
 BACK 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 blockchain, NEO technology, NEO nodes, NEO network, NEO transactions, 
 Ethereum  blockchain: Ethereum nodes, Getting started, Creating a 
@@ -4463,7 +3833,6 @@ Text Book:
 
 ## Page 88
 
- 
 FMCD2009 / 2.0 
  88 
  
@@ -4522,7 +3891,6 @@ Unit – III
 
 ## Page 89
 
- 
 FMCD2009 / 2.0 
  89 
 The DStream API for Spark Streaming, Real -time Monitoring of the Most Popular 
@@ -4553,17 +3921,10 @@ ISA 100
 ESA --- 
 Total 100 
  
- 
 BACK 
  
- 
- 
- 
- 
-
 ## Page 90
 
- 
 FMCD2009 / 2.0 
  90 
  
@@ -4605,12 +3966,8 @@ Reference Books:
 1.Software Testing and quality Assurance ,Theory and Practice – Kshirasagar Naik and 
 Priyadarshini Tripathy 
  
- 
- 
-
 ## Page 91
 
- 
 FMCD2009 / 2.0 
  91 
  
@@ -4653,7 +4010,6 @@ More exercise on Selenium and TestNG
 
 ## Page 92
 
- 
 FMCD2009 / 2.0 
  92 
 1 Design and execute a selenium -based automation solution to display 
@@ -4687,22 +4043,8 @@ displaying the name of visited current page for verification.
  
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 93
 
- 
 FMCD2009 / 2.0 
  93 
 Program:  Master of Computer Applications Semester: IV 
@@ -4757,7 +4099,6 @@ Reference Books:
 
 ## Page 94
 
- 
 FMCD2009 / 2.0 
  94 
 Springer (2005) 
@@ -4770,29 +4111,10 @@ ISA 50
 ESA -- 
 Total 100 
  
- 
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 95
 
- 
 FMCD2009 / 2.0 
  95 
 Program: Master of Computer Applications Semester - IV 
@@ -4841,7 +4163,6 @@ and Industry 4.0. CRC Press
 
 ## Page 96
 
- 
 FMCD2009 / 2.0 
  96 
  
@@ -4852,31 +4173,10 @@ Assessment  Marks
 ISA 100 
 ESA --- 
  
- 
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 97
 
- 
 FMCD2009 / 2.0 
  97 
 Program:  Master of Computer Applications Semester: IV 
@@ -4933,7 +4233,6 @@ Introduction, WAP ,  MMS, GPRS, Application
 
 ## Page 98
 
- 
 FMCD2009 / 2.0 
  98 
 10 CDMA & 3G 
@@ -4954,26 +4253,10 @@ ISA 100
 ESA --- 
 Total 100 
  
- 
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 99
 
- 
 FMCD2009 / 2.0 
  99 
  
@@ -5026,10 +4309,8 @@ Text Book:
 1. Web Content Management, Systems, Features, and Best Practices, Deane Barker,  
 Publisher: O'Reilly Media, March 2016. 
  
-
 ## Page 100
 
- 
 FMCD2009 / 2.0 
  100 
 WEB CONTENT MANAGEMENT SYSTEM – COURSE PROJECT 
@@ -5092,7 +4373,6 @@ articles in order with categories.
 
 ## Page 101
 
- 
 FMCD2009 / 2.0 
  101 
 Menus) approach to creating 
@@ -5116,8 +4396,6 @@ extensions.
 5. Content creation & 
 Customization using the CAM 
 model  
- 
- 
  
 3.  Joomla Menus  
 o Creating and controlling 
@@ -5163,12 +4441,10 @@ CSS and HTML tricks.
 Select and Customize template for 
 website. 
  
- 
 20 
 
 ## Page 102
 
- 
 FMCD2009 / 2.0 
  102 
 6.  User management and 
@@ -5186,8 +4462,6 @@ new users, reset password, and
 new user registration email notice 
 to administration.  
 20 
- 
- 
  
 Evaluation Scheme 
 1. In Semester Assessment (ISA)  

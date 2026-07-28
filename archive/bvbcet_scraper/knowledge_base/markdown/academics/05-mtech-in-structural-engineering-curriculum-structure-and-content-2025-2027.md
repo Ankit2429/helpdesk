@@ -1,47 +1,20 @@
 # PDF Document: 05-mtech-in-structural-engineering-curriculum-structure-and-content-2025-2027
+
 **PDF Source:** https://www.kletech.ac.in/pdf/05-mtech-in-structural-engineering-curriculum-structure-and-content-2025-2027.pdf
 
 ## Page 1
 
- 
- 
 FMCD2009 / 2.0 
  1 
- 
- 
- 
- 
-  
- 
  
 Curriculum Structure and Curriculum Content for the Academic Batch 2025-2027 
 School of Civil Engineering  
 Program: M.Tech.  Structural Engineering  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 2
 
- 
- 
 FMCD2009 / 2.0 
  2 
- 
  
 Table of Contents 
 Vision and Mission of KLE Technological University ........................................... 3 
@@ -58,14 +31,8 @@ List of Program Electives for Semester 2 .......................................
 Semester- III ............................................................................................................ 11 
 Semester- IV ........................................................................................................... 11 
  
- 
-  
-  
-
 ## Page 3
 
- 
- 
 FMCD2009 / 2.0 
  3 
 Vision and Mission of KLE Technological University 
@@ -75,7 +42,6 @@ Vision
 KLE Technological University will be a national leader in Higher 
 Education–recognised globally for innovative culture, outstanding 
 student experience, research excellence and social impact. 
- 
  
 Mission 
  
@@ -99,11 +65,8 @@ to enhance competitiveness and quality of life.
 together with the spirit of collaboration and partnership to 
 accomplish our mission. 
   
-
 ## Page 4
 
- 
- 
 FMCD2009 / 2.0 
  4 
 Vision and Mission Statements of the Department 
@@ -128,11 +91,8 @@ Service: To provide community services and involve in professional
 contributions leading to regional growth adding value through 
 knowledge and expertise. 
   
-
 ## Page 5
 
- 
- 
 FMCD2009 / 2.0 
  5 
 Program Educational Objectives/Program Outcomes and Program-Specific Objectives 
@@ -155,17 +115,12 @@ Program Specific Objectives -PSO’s
  
 Nil 
  
-
 ## Page 6
 
- 
- 
 FMCD2009 / 2.0 
  6 
 Curriculum Structure-Overall – 2025-27 batch 
  
- 
-  
 Semester Program Credits Total: 88 
 Course with course code 
 I II III IV 
@@ -185,7 +140,6 @@ Finite Element Method
 Minor Project/Project Work 
 Phase I 
 (0-0-10) 
- 
  
 Advanced Design of RC 
 Structures 
@@ -216,14 +170,11 @@ Credits 25.0 25.0 18.0 20.0
 
 ## Page 7
 
- 
- 
 FMCD2009 / 2.0 
  7 
 Scheme Semester – I 
 AY: 2025-26 
  
-  
 No Code Course Category L-T-P Credits Contact         
 Hours ISA ESA Total 
 Exam 
@@ -246,8 +197,6 @@ TOTAL  21-2-2 25 29
 
 ## Page 8
 
- 
- 
 FMCD2009 / 2.0 
  8 
 List of Program Electives for Semester 1 
@@ -256,17 +205,13 @@ Sr. No Name of the Course Course Code
 2.  Advanced Concrete Technology  24ESEE701 
 3.  Fire Resistance of Structures 20ESEE701 
   
-
 ## Page 9
 
- 
- 
 FMCD2009 / 2.0 
  9 
 Semester – II 
 AY: 2025-26 
  
-  
 No Code Course Category L-T-P Credits Contact 
 Hours ISA ESA Total 
 Exam 
@@ -284,15 +229,10 @@ TOTAL  22-1-2 25 27
 
 ## Page 10
 
- 
- 
 FMCD2009 / 2.0 
  10 
 List of Program Electives for Semester 2 
  
- 
- 
-  
 Sr. No Name of the Course Course Code 
 Program Elective-I 
 1.  Design of Industrial Steel Structures 15ESEE703 
@@ -305,13 +245,10 @@ Program Elective-II
 
 ## Page 11
 
- 
- 
 FMCD2009 / 2.0 
  11 
 Semester- III 
 AY: 2026-27 
- 
  
 Semester- IV 
 AY: 2026-27 
@@ -356,26 +293,13 @@ PW 0-0-20 20 20 50 50 100 3 hours
 
 ## Page 12
 
- 
- 
 FMCD2009 / 2.0 
  12 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 SEMESTER 1 
 
 ## Page 13
 
- 
- 
 FMCD2009 / 2.0 
  13 
  
@@ -425,12 +349,9 @@ Mohr’s theory of failure; Stress space and strain space.                      
 
 ## Page 14
 
- 
- 
 FMCD2009 / 2.0 
  14 
  
-  
 Text Books 
 1 Timoshenko, S.P . and Goodier, J.N., Theory of Elasticity, 3ed. McGraw- Hill Book Co., 
 New York, 2017. 
@@ -443,11 +364,8 @@ Reference Books:
 Materials, 4ed. John Wiley & Sons,, New York, 1985. 
 2. Sadd, M.H., Elasticity – Theory, Applications and Numeric, Academic Press, 2014. 
  
-
 ## Page 15
 
- 
- 
 FMCD2009 / 2.0 
  15 
   
@@ -496,8 +414,6 @@ force, Seismicity of India, Supplemental devices – passive, semi-active, activ
 
 ## Page 16
 
- 
- 
 FMCD2009 / 2.0 
  16 
   
@@ -521,8 +437,6 @@ Bureau of Indian Standards, New Delhi, 1993
 
 ## Page 17
 
- 
- 
 FMCD2009 / 2.0 
  17 
 Program:  Master of Technology (Structural Engineering) Semester: I 
@@ -571,8 +485,6 @@ Hill.
 
 ## Page 18
 
- 
- 
 FMCD2009 / 2.0 
  18 
   
@@ -585,12 +497,9 @@ Assessment of Loads.
 
 ## Page 19
 
- 
- 
 FMCD2009 / 2.0 
  19 
  
-  
 Program:  Master of Technology (Structural Engineering) Semester: I 
 Course Title:    Numerical Methods and Programming Course Code:  15ESEC703 
 L-T-P: 4-0-1 Credits: 5 Contact Hours: 6hrs/week 
@@ -632,11 +541,8 @@ Software Applications, 3ed., Tata McGraw Hill, New Delhi,  1998.
 
 ## Page 20
 
- 
- 
 FMCD2009 / 2.0 
  20 
- 
  
 Program:  Master of Technology (Structural Engineering) Semester: I 
 Course Title:     Design of Bridges Course Code: 18ESEE701 
@@ -678,13 +584,8 @@ Reference Books:
 
 ## Page 21
 
- 
- 
 FMCD2009 / 2.0 
  21 
- 
- 
- 
  
 Program:  Master of Technology (Structural Engineering) Semester: I 
 Course Title:      Advanced  Concrete Technology Course Code:  24ESEE701 
@@ -726,11 +627,8 @@ Reference Books:
 
 ## Page 22
 
- 
- 
 FMCD2009 / 2.0 
  22 
- 
  
 Program:  Master of Technology (Structural Engineering) Semester: I 
 Course Title:        Fire Resistance of Structures Course Code:  20ESEE701 
@@ -776,14 +674,8 @@ Francis group, New York, 2003.
 
 ## Page 23
 
- 
- 
 FMCD2009 / 2.0 
  23 
- 
- 
- 
- 
  
 Program:  Master of Technology (Structural Engineering) Semester: I 
 Course Title: Computer Aided Analysis and Design Lab Course Code:  15ESEP701 
@@ -816,40 +708,15 @@ ETABS and SAFE
 4. Jain, A.K. Reinforced Concrete Limit State Design, 7ed., Nemi Chand & Bros., 
 Roorkee, 2012 
  
-
 ## Page 24
 
- 
- 
 FMCD2009 / 2.0 
  24 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 SEMESTER 2 
   
-
 ## Page 25
 
- 
- 
 FMCD2009 / 2.0 
  25 
  
@@ -899,31 +766,8 @@ McGraw Hill, 2016.
 
 ## Page 26
 
- 
- 
 FMCD2009 / 2.0 
  26 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 3 B. S. Smith and A. Coll, Tall Building Structures: Analysis and Design , 2nd ed. New York, 
 NY , USA: John Wiley, 2010. 
@@ -937,8 +781,6 @@ International Limited, 2015.
 
 ## Page 27
 
- 
- 
 FMCD2009 / 2.0 
  27 
 Program: M.Tech Structural Engineering Semester: II 
@@ -987,12 +829,9 @@ Delhi, 2004.
 
 ## Page 28
 
- 
- 
 FMCD2009 / 2.0 
  28 
  
-  
 3 Bhavikatti, S.S., Structural Analysis Volume -I and II, Vikas Publishing House Pvt. Ltd., 
 Bangalore, 2003. 
 References: 
@@ -1008,8 +847,6 @@ Engineering, 4ed, Pearson, 2011.
 
 ## Page 29
 
- 
- 
 FMCD2009 / 2.0 
  29 
  
@@ -1059,13 +896,9 @@ New Delhi, 2017.
 
 ## Page 30
 
- 
- 
 FMCD2009 / 2.0 
  30 
  
- 
-  
 Program: M.Tech Structural Engineering Semester: II 
 Course Title:    Design of Industrial Steel Structures Course Code:15ESEE703 
 L-T-P: 4-0-0 Credits: 04 Contact Hours:4 hrs/week 
@@ -1108,8 +941,6 @@ New Delhi, 2010.
 
 ## Page 31
 
- 
- 
 FMCD2009 / 2.0 
  31 
  
@@ -1159,14 +990,9 @@ References
 
 ## Page 32
 
- 
- 
 FMCD2009 / 2.0 
  32 
  
- 
- 
-  
 Program:  Master of Technology (Structural Engineering) Semester: I 
 Course Title: Theory of Plates & Shell Structures Course Code:  20ESEE702 
 L-T-P: 4-0-0 Credits: 4 Contact Hours: 4 hrs/week 
@@ -1198,11 +1024,8 @@ Hall,1994
 7. Timoshenko, S.P . and Woinoisky-Krieger, Theory of Plates and Shells, McGraw- Hill Book Co., 
 New York, 1959. 
  
-
 ## Page 33
 
- 
- 
 FMCD2009 / 2.0 
  33 
  
@@ -1249,12 +1072,9 @@ IBH publishing co. Pvt. Ltd., 2006.
 
 ## Page 34
 
- 
- 
 FMCD2009 / 2.0 
  34 
  
-  
 6. Srinivasulu, P . and Vaidyanathan, C.V., Hand Book of Machine Foundations, Tata McGraw 
 Hill Company New Dehli , 2002. 
 7. Tomlinson, M.J., Pile Design and Construction Practice, 6ed, CRC Press, 2014 
@@ -1271,12 +1091,9 @@ Raft Foundations
 
 ## Page 35
 
- 
- 
 FMCD2009 / 2.0 
  35 
  
-  
 Program: M.Tech Structural Engineering Semester: II 
 Course Title:      Structural Optimization Course Code:15ESEE707 
 L-T-P: 4-0-0 Credits: 04 Contact Hours: 4 hrs/week 
@@ -1322,16 +1139,9 @@ Applications, 2ed., Wiley India Pvt. Ltd., 2006.
 
 ## Page 36
 
- 
- 
 FMCD2009 / 2.0 
  36 
  
- 
- 
- 
- 
-  
 Program: M.Tech Structural Engineering Semester: II 
 Course Title:      Structural Health Monitoring Course Code:20ESEE703 
 L-T-P: 4-0-0 Credits: 04 Contact Hours:40 
@@ -1369,8 +1179,6 @@ Douglas E Adams, John Wiley & Sons, New York, 2007.
 
 ## Page 37
 
- 
- 
 FMCD2009 / 2.0 
  37 
  
@@ -1421,13 +1229,8 @@ N. Thite, 1st ed., Finite to Infinite, 2008.
 
 ## Page 38
 
- 
- 
 FMCD2009 / 2.0 
  38 
- 
- 
- 
  
 Program:  M.Tech Structural Engineering Semester: II 
 Course Title:  Design Project       Course Code: 19ESEP702 

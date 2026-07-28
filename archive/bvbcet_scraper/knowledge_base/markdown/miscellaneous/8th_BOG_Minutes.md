@@ -1,11 +1,9 @@
 # PDF Document: 8th_BOG_Minutes
+
 **PDF Source:** https://www.kletech.ac.in/pdf/8th_BOG_Minutes.pdf
 
 ## Page 1
 
- 
- 
- 
 Minutes of 
  
 8th Board of Governors Meeting 
@@ -17,12 +15,6 @@ March 24th, 2018 at 10 am
 Venue: Board Room of KLE University, J N Medical 
 College campus, Belagavi 
  
- 
- 
- 
- 
- 
-
 ## Page 2
 
 ii 
@@ -78,11 +70,9 @@ Member
 Government of Karnataka. 
 Member 
  
-
 ## Page 3
 
 iii 
- 
  
 Agenda 
  
@@ -114,7 +104,6 @@ Dean Academics and approved by the Academic Council and Executive Council.
 20 
 BOG 8.10 Any other subject with the permission of the Chair. 21 
  
-
 ## Page 4
 
 1 
@@ -328,28 +317,21 @@ approval from AICTE for technical programmes offered by the University.
  Chairman thanked all the members for their contributions and with a vote of thanks 
 to the Chair, the meeting was concluded. 
  
- 
 Action Requested: To confirm the minutes of the 7th BOG meeting held on 20th 
 September 2017. 
- 
  
 Discussion: Prof. B.S. Sonde, UGC nominee advised to include information about members 
 who attended the meeting. Registrar, assured that henceforth, the members attendance will be 
 included in the minutes, which will be part of agenda 1. 
- 
- 
  
 Resolution 8.1: The Board of Governors confirmed the minutes of 
 its 7th meeting of the Board of Governors held on 
 20th September 2017 at Sri. S. Nijalingappa 
 College, Bengaluru. 
  
- 
-
 ## Page 9
 
 5 
- 
  
 BOG 
 8.2 
@@ -510,11 +492,9 @@ Discussion: Prof. B.S. Sonde, UGC nominee advised not to leave blank under actio
 Resolution 8.2: Resolved to confirm the action taken report on the minutes of the previous 
 meeting held on 20th September 2017. 
  
-
 ## Page 13
 
 9 
- 
  
 BOG 
 8.3 
@@ -581,7 +561,6 @@ admissions to UG, PG and PhD programs for the academic year
 Agenda 5.5: Any other subject with the permission of the Chair 
 NIL 
  
- 
 Action Requested: The BOG is requested to consider and approve the 
 recommendations of the Admission Committee of the University held on 14th March 
 2018. 
@@ -597,7 +576,6 @@ Admission Committee held on 14th March and approved the same.
 ## Page 15
 
 11 
- 
  
 BOG 
 8.4 
@@ -673,9 +651,6 @@ made by the University during the period.
  
 Enclosure 3.1 
  
- 
- 
- 
 Statement showing the Admisssion status of the University during the year 2017-
 18 
 Semester: I & II 
@@ -708,12 +683,6 @@ MCA 60 60
 Total 120 119 
 Grand Total (99+119) 270 218 
  
- 
- 
- 
- 
- 
-
 ## Page 18
 
 14 
@@ -768,7 +737,6 @@ Sl No. Branch Strength
 1. III & IV Semester 53 
 Total 53 
  
-
 ## Page 19
 
 15 
@@ -796,11 +764,9 @@ CTIE 0 1 0 1
 TOTAL 43 75 165 33 
 Grand Total 316 
  
-
 ## Page 20
 
 16 
- 
  
 BOG 
 8.5 
@@ -817,7 +783,6 @@ Electrical Science (E&E, E&C and CS) students.
  Sequence of courses to be -- ‘C-Programming’ course in first semester followed 
 by ‘Data Structures’ course in second semester. 
  
- 
 Action Requested: The BOG is requested to consider and approve proposed changes in 
 curriculum structure of first year 
  
@@ -825,14 +790,12 @@ Discussion:  Prof. B. S. Sonde appreciated the initiatives at first year level b
 look into the AICTE model curriculum w.r.t introduction of internship, 160 
 credits for UG programmes and introduction of biology. 
  
- 
 Resolution 8.5: BOG noted the proposed changes in curriculum 
 structure of first year. 
 
 ## Page 21
 
 17 
- 
  
 BOG 8.6 To discuss and ratify Undergraduate Minor Programme in 
 ‘Bioengineering’ that has been instituted by the University 
@@ -848,7 +811,6 @@ Target Disciplines
 • Biotechnology, Mechanical Engineering, Electrical & Electronics Engineering, 
 Electronics & Communication Engineering, Computer Science & Engineering 
  
- 
 Action Requested: The BOG is requested to discuss and ratify institution of 
 ‘Bioengineering’ undergraduate Minor programme and also note the scheme and syllabi of 
 the programme. 
@@ -863,7 +825,6 @@ the programme.
 
 18 
  
- 
 BOG 8.7 To review progress of implementation of the ‘Strategic 
 Plan’ of the KLE Technological University. 
 The Strategic Plan provides an overarching framework of goals and objectives that 
@@ -874,13 +835,10 @@ institution was reviewed and approved by the Executive Council on December 27th,
 Plan’ is being implemented.  The progress of implementation need to be reviewed 
 and reflected upon annually.  
  
- 
- 
 Action Requested: The BOG is requested to review the progress of implementation of 
 the ‘Strategic Plan’ of the KLE Technological University. 
  
 Discussion:  
- 
  
 Resolution 8.7: BOG approved the progress of implementation of 
 the ‘Strategic Plan’ of the KLE Technological 
@@ -892,7 +850,6 @@ implementation.
 
 19 
  
- 
 BOG 
 8.8 
 To discuss and approve the University Annual Report for the 
@@ -900,7 +857,6 @@ academic year 2016-17
 The KLE Technological University has completed its second year and the annual report 
 for the academic year 2016-17 has been placed before the Board of Governors for 
 approval. 
- 
  
 Action Requested: The BOG is requested to review and approve the second annual 
 report of the KLE Technological University. 
@@ -912,11 +868,9 @@ the annual report shall be uploaded.
 Resolution 8.8: BOG approved the Annual report of the University 
 for the academic year 2016-17. 
  
-
 ## Page 24
 
 20 
- 
  
 BOG 
 8.9 
@@ -944,23 +898,15 @@ Examiners constituted by the Dean Academics.
 
 21 
  
- 
 BOG 
 8.10 
 Any other subject with the permission of the Chair. 
 Chairman thanked all the members for their active participation & the 
 contributions made. 
  
- 
-
 ## Page 26
 
 22 
- 
- 
- 
- 
- 
  
 Annexure-1 
 [Notification for the admissions to UG, PG and PhD programs for the academic year 2017-18] 

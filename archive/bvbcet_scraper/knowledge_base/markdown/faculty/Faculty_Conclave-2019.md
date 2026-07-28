@@ -1,4 +1,5 @@
 # PDF Document: Faculty_Conclave-2019
+
 **PDF Source:** https://www.kletech.ac.in/pdf/Faculty Conclave-2019.pdf
 
 ## Page 1
@@ -87,5 +88,4 @@ customisation of the PLM platform: An Initiative
 Vinay S Tigadi, Mallikarjun Akki, 
 K.M.M Rajashekharaiah, Dr. B B 
 Kotturshettar 
- 
  

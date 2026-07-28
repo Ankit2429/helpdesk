@@ -1,12 +1,9 @@
 # PDF Document: FACULTY_CONCLAVE_PUBLICATIONS_-_2015
+
 **PDF Source:** https://www.kletech.ac.in/pdf/FACULTY CONCLAVE PUBLICATIONS - 2015.pdf
 
 ## Page 1
 
- 
-  
- 
- 
 Earlier known as 
 B. V. B. College of Engineering & Technology 
 Faculty Conclave -2015 
@@ -60,10 +57,6 @@ Anil Kabbur, Dr. Priyatamkumar
 
 ## Page 2
 
- 
-  
- 
- 
 Earlier known as 
 B. V. B. College of Engineering & Technology 
 14 Attainment Of Program Outcome ‘3b’ Of ABET Through 
@@ -130,10 +123,6 @@ Joshi
 
 ## Page 3
 
- 
-  
- 
- 
 Earlier known as 
 B. V. B. College of Engineering & Technology 
 29 Flipped Classroom Implementation To Effectively Utilize 
@@ -197,10 +186,6 @@ Gaitonde
 
 ## Page 4
 
- 
-  
- 
- 
 Earlier known as 
 B. V. B. College of Engineering & Technology 
 44 Web Technologies Integrated With Advance Database 
@@ -225,15 +210,4 @@ Kaushik M., Satish Chikkamath,
 Nalini C. Iyer 
 50 A Progressive Activity: An Attempt Beyond Teaching Shraddha B., Raghavendra S., Nikita 
 P., Preeti  Pillai , Nalini Iyer 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  

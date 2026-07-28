@@ -1,11 +1,9 @@
 # PDF Document: 5th_EC_Minutes
+
 **PDF Source:** https://www.kletech.ac.in/pdf/5th_EC_Minutes.pdf
 
 ## Page 1
 
- 
- 
- 
 Minutes 
  
 5th Executive Council Meeting 
@@ -17,12 +15,6 @@ September 20th, 2017 at 9 am
 Venue: Sri. S. Nijalingappa College 
 Bengaluru 
  
- 
- 
- 
- 
- 
-
 ## Page 2
 
 ii 
@@ -99,7 +91,6 @@ of studies and approved by the Academic Council.
 18 
 5.12 Any other subject with the permission of the Chair. 19 
  
-
 ## Page 4
 
 1 
@@ -201,23 +192,18 @@ Resolution 4.9: Resolved to continue the admission process of the University for
 the academic year 2017-18 also. 
 EC 4.10 Any other subject with the permission of the Chair 
  
- 
 Action Requested: To confirm the minutes of the previous meeting held on 27th 
 December 2016. 
  
- 
 Discussion: 
- 
  
 Resolution 5.1: Executive Council resolved to confirm the minutes of 
 its 4th meeting held at senate hall of the University on 27th 
 December 2016. 
  
-
 ## Page 7
 
 4 
- 
  
 EC 5.2 To confirm the action taken report on the minutes of the previous meeting held on 27th 
 December 2016. 
@@ -356,15 +342,11 @@ EC 4.10 Any other subject with the permission of the Chair
 Action Requested: The Executive Council is requested to confirm the action taken report on the minutes of the previous meeting 
 held on 27th December 2016. 
  
- 
 Discussion: 
  
 Resolution 5.2: The Executive Council confirmed the action taken on the minutes of its 4th meeting 
 held on 27th December 2016. 
  
- 
- 
-
 ## Page 11
 
 8 
@@ -398,10 +380,8 @@ Resolution 3.2 The budget for the year 2018-19 is approved. The same is
 recommended for consideration and approval by the 
 Executive Council. 
  
- 
 Action Requested: The Executive Council is requested to consider and approve the 
 recommendations of the Finance Council. 
- 
  
 Discussion: 
  
@@ -412,7 +392,6 @@ September 2017 and approved the same.
 ## Page 12
 
 9 
- 
  
 EC 
 5.4 
@@ -547,13 +526,11 @@ Agenda Point 4 Any other item with the permission of the Chair.
  
     NIL  
  
- 
 Action Requested: The Executive Council is requested to consider and approve 
 the recommendations of the Admission Committee of the University held on 
 18th September 2017. 
  
 Discussion: 
- 
  
 Resolution 5.4: The Executive Council considered the 
 recommendations of the Admission Committee held on 18th 
@@ -562,11 +539,9 @@ Research programs; and the actions taken by Sub-Committee
 for the conduct of the Research Entrance Test (RET) and 
 approved the same. 
  
-
 ## Page 15
 
 12 
- 
  
 EC 5.5 To discuss the proposed changes in Rules and 
 Regulations governing UG & PG  programs and approve 
@@ -589,7 +564,6 @@ Annexure 1: Relative Grading
 Annexure 2: MBA 
 Annexure 3: PhD 
  
- 
 Action Requested: To discuss the proposed changes in section 46 and 63 of 
 Regulations Governing Undergraduate and Postgraduate Programmes of KLE 
 Technological University 2015 and approve the same. 
@@ -609,7 +583,6 @@ completion.
 
 13 
  
- 
 EC 5.6 To review progress of implementation of PhD 
 programmes (Information agenda). 
 Progress of PhD programs  for the year 2017-18   is presented and it includes:   
@@ -621,21 +594,14 @@ courses offered and completed at schools and departments
 Action Requested: To discuss the progress of implementation of PhD programmes 
 of the University. 
  
- 
 Discussion:  
- 
  
 Resolution 5.6: The Executive Council noted the progress of 
 implementation of PhD programmes.  
  
- 
- 
- 
-
 ## Page 17
 
 14 
- 
  
 EC 5.7 To ratify Board of Studies and Board of Examiners 
 approved by the Academic Council. 
@@ -661,13 +627,11 @@ Council approved Board of Studies and Board of Examiners.
 
 15 
  
- 
 EC 5.8 To discuss and approve results of previous 
 examinations. 
 The results of the examination conducted since last Executive Council meeting 
 are placed before the Council. 
  Consolidated reports of the results for the same are enclosed in Annexure 5. 
- 
  
 Action Requested: The Executive Council is requested to approve the results as 
 presented by the Controller of Examination. The same results have been 
@@ -681,11 +645,9 @@ Resolution 5.8: The Executive Council noted the Academic
 Council approved results of examinations held during January 
 2017 and June 2017. 
  
-
 ## Page 19
 
 16 
- 
  
 EC 5.9 To approve the proposed Grade cards for UG, PG & 
 PhD programmes. 
@@ -694,10 +656,8 @@ security features. Executive council is requested to consider and approve the
 proposed formats of the grade cards.  
 Proposed formats are given in annexure 6. 
  
- 
 Discussion: Dr. Syed Shakeeb ur Rahman suggested to study the policy of only ‘Second 
 Class’ for students scoring less than 60% by the VTU. 
- 
  
 Resolution 5.9: The Executive Council approved the proposed 
 Grade cards for UG, PG & PhD programmes. 
@@ -706,7 +666,6 @@ Grade cards for UG, PG & PhD programmes.
 
 17 
  
- 
 EC 5.10 To approve the formats proposed for the Degree 
 Certificates of MTech and MBA programmes. 
 Degree certificates for M.Tech and MBA programmes have been designed with 
@@ -714,9 +673,7 @@ security features. Executive council is requested to consider and approve the
 proposed formats of the Degree Certificates.  
 Proposed formats are given in annexure 7. 
  
- 
 Discussion:  
- 
  
 Resolution 5.10: The Executive Council approved the proposed 
 Degree Certificates of MTech and MBA programmes. 
@@ -724,7 +681,6 @@ Degree Certificates of MTech and MBA programmes.
 ## Page 21
 
 18 
- 
  
 EC 5.11 To ratify the Schemes and Syllabi of Undergraduate 
 Minor Programme in ‘Automotive Engineering’ as 
@@ -756,7 +712,6 @@ the schemes and syllabi of the UG Minor Degree Programme in ‘Automotive
 Engineering’. 
 Discussion:  
  
-
 ## Page 22
 
 19 
@@ -768,7 +723,6 @@ Programme in ‘Automotive Engineering’.
 ## Page 23
 
 20 
- 
  
 EC 5.12 Any other subject with the permission of the Chair. 
  

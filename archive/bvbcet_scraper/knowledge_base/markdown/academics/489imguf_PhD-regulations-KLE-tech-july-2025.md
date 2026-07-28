@@ -1,11 +1,10 @@
 # PDF Document: 489imguf_PhD-regulations-KLE-tech-july-2025
+
 **PDF Source:** https://www.kletech.ac.in/Uploads/image/489imguf_PhD-regulations-KLE-tech-july-2025.pdf
 
 ## Page 1
 
 1 
- 
- 
  
 Regulations Governing  
 Ph.D. Programme  
@@ -13,22 +12,9 @@ of
 KLE Technological University  
 2025 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 KLE Technological University 
 (Established under Karnataka Act No.22, 2013) 
  
-  
-
-
 ## Page 2
 
 2 
@@ -575,7 +561,6 @@ iv. Colloquium, Open Seminar
 v. Pre-synopsis presentation (Part-III) 
 vi. Ph.D. Thesis (Part-IV) 
  
-
 ## Page 14
 
 14 
@@ -659,7 +644,6 @@ recommending the award of the PhD degree to the Registrar office.
 award of the PhD degree. 
 (16) The duration of process from evaluation of thesis to taking out the 
 notification shall not exceed six (6) months. 
-(17) Copy right: The University shall  hold the  copyright of the Thesis             
 submitted to it. 
  
 14.0 Award of degree  
@@ -687,5 +671,4 @@ binding.
 specified above, the Vice Chancellor shall have all the powers to 
 amend/modify and remove the difficulty in the application of the relevant 
 regulation.  
- 
  

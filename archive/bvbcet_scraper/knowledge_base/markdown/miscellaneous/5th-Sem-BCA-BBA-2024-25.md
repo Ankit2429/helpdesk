@@ -1,28 +1,19 @@
 # PDF Document: 5th-Sem-BCA-BBA-2024-25
+
 **PDF Source:** https://www.kletech.ac.in/pdf/5th-Sem-BCA-BBA-2024-25.pdf
 
 ## Page 1
 
- 
- 
- 
- 
- 
                                                                                                                                                                                                                                        1q2  
 ANAM 0201/1.0 
 CALENDAR OF EVENTS 
 ODD SEMESTER 2024 – 2025 
  [For B.C.A. (5th) Semester and B.B.A. (5th) Semester] 
  
- 
 Important Dates: 
 Courses Term Commencement End of term Date of Commencement 
         Practical Exams   Theory Exams 
 7th Sem B.E 19/08/24 12/12/24 12/12/24 to 16/12/24 From 21/12/24 
- 
- 
- 
- 
  
 Dated: 06/07/2024                                                                                                                                Dean Academics 
 Week 

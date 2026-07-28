@@ -1,43 +1,17 @@
 # PDF Document: bachelor-biotechnology-curriculum-2022-2026
+
 **PDF Source:** https://www.kletech.ac.in/pdf/bachelor-biotechnology-curriculum-2022-2026.pdf
 
 ## Page 1
 
- 
 FMCD2009 / 2.0 1 
- 
- 
- 
- 
-  
- 
  
 Curriculum Structure and Curriculum Content for the Batch:2022-26 
 Department: Biotechnology 
 Program: B.E. Biotechnology 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 2
 
- 
 FMCD2009 / 2.0 2 
 Table of Contents 
 Vision and Mission of KLE Technological University ........................................... 3 
@@ -58,32 +32,16 @@ List of Open Electives .........................................................
 List of Program Electives ...................................................................................... 18 
 Curriculum Content- Course wise ........................................................................ 19 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 3
 
- 
 FMCD2009 / 2.0 3 
 Vision and Mission of KLE Technological University 
  
 Vision 
  
- 
 KLE Technologi cal University will be a national leader in Higher 
 Education–recognised globally for innovative culture, outstanding 
 student experience, research excellence and social impact. 
- 
  
 Mission 
  
@@ -107,12 +65,8 @@ competitiveness and quality of life.
 As a unified community  of faculty, staff and students, we work together with 
 the spirit of collaboration and partnership to accomplish our mission.                                          
  
- 
- 
-
 ## Page 4
 
- 
 FMCD2009 / 2.0 4 
  
 Vision and Mission Statements of the School / Department 
@@ -137,18 +91,8 @@ enables to achieve personal and professional development.
 national and international levels combined with a deep awareness of 
 ethical responsibilities to profession and society. 
  
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 5
 
- 
 FMCD2009 / 2.0 5 
  
 Program Educational Objectives/Program Outcomes and Program-Specific Objectives 
@@ -181,7 +125,6 @@ modern engineering & IT tools, including prediction and modelling recognizing th
 
 ## Page 6
 
- 
 FMCD2009 / 2.0 6 
 limitations to solve complex engineering problems. (WK2 and WK6) 
 The Engineer and The World: Analyze an d evaluate societal and environmental aspects 
@@ -212,15 +155,12 @@ products in global context.
 Apply the knowledge of engineering & applied science to demonstrate research 
 aptitude/skills in frontier areas of biotechnology. 
  
-
 ## Page 7
 
- 
 FMCD2009 / 2.0 7 
 Curriculum Structure-Overall 
 Semester :                                                                                                                                                                                                                                Total Program Credits:178 
 Course with course code 
- 
  
 I II III IV V VI VII VIII 
 Single Variable Calculus 
@@ -424,13 +364,10 @@ Credits 21 23 22.5 21.5 23.5 25.5 24 17
 
 ## Page 8
 
- 
 FMCD2009 / 2.0 8 
  
 Curriculum Structure-Semester wise 
 Semester - I 
- 
- 
  
 No Code Course Category L-T-P Credits Contact         
 Hours ISA ESA Total 
@@ -449,12 +386,8 @@ TOTAL  13-2-7 22 31
 
 ## Page 9
 
- 
 FMCD2009 / 2.0 9 
 Semester - II 
- 
- 
- 
  
 No Code Course Category L-T-P Credits Contact 
 Hours ISA ESA Total 
@@ -475,12 +408,8 @@ TOTAL  12-2-5 22 32
 
 ## Page 10
 
- 
 FMCD2009 / 2.0 10 
 Semester- III 
- 
- 
- 
  
 No Code Course Category L-T-P Credits Contact 
 Hours ISA ESA Total 
@@ -501,15 +430,8 @@ TOTAL  19.5-0-3  22.5  26
 
 ## Page 11
 
- 
 FMCD2009 / 2.0 11 
 Semester- IV 
- 
- 
- 
- 
- 
- 
  
 No Code Course Category L-T-P Credits Contact 
 Hours ISA ESA Total 
@@ -529,7 +451,6 @@ TOTAL  17.5-1-3  21.5  26
 
 ## Page 12
 
- 
 FMCD2009 / 2.0 12 
  
 Semester- V 
@@ -554,13 +475,8 @@ TOTAL  18.5-0-5  23.5  32
 
 ## Page 13
 
- 
 FMCD2009 / 2.0 13 
 Semester- VI 
- 
- 
- 
- 
  
 No Code Course Category L-T-P Credits Contact 
 Hours ISA ESA Total 
@@ -584,11 +500,8 @@ TOTAL  17.5-0-8 25.5 40
 
 ## Page 14
 
- 
 FMCD2009 / 2.0 14 
 Semester- VII 
- 
- 
  
 No Code Course Category L-T-P Credits Contact 
 Hours ISA ESA Total 
@@ -616,7 +529,6 @@ TOTAL  0-0-6 6 18
 
 ## Page 15
 
- 
 FMCD2009 / 2.0 15 
  
 Semester- VIII 
@@ -643,64 +555,23 @@ TOTAL  6-0-11 17         39
 5 20EBTW494 Internship-Project PRJ 0-0-11 11 33 50 50 100 03 Hours 
 TOTAL  0-0-17 17      
  
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 16
 
- 
 FMCD2009 / 2.0 16 
- 
- 
- 
- 
- 
- 
  
 Semester I II III IV V VI VII VIII Total  
 Credits 21 23 22.5 21.5 23.5 25.5 24 17 178 
 
 ## Page 17
 
- 
 FMCD2009 / 2.0 17 
 List of Open Electives 
   
- 
- 
- 
 Sr.No Name of the Course Course Code 
 1 Industrial waste management 19EBTO401 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 18
 
- 
 FMCD2009 / 2.0 18 
  
 List of Program Electives 
@@ -728,11 +599,8 @@ biotechnology
 19 Phytochemicals and Herbal products 22EBTE403 
 20 Clinical Biotechnology 23EBTE303 
  
- 
-
 ## Page 19
 
- 
 FMCD2009 / 2.0 19 
 Curriculum Content- Course wise 
 Program: Biotechnology Semester: I 
@@ -767,11 +635,9 @@ function, relation between them, evaluation of integrals using Beta and gamma fu
 
 ## Page 20
 
- 
 FMCD2009 / 2.0 20 
 (Use this template for all courses, semester wise) 
 BACK 
- 
  
 Applications to find arc length, Area, Volume and surface area (Cartesian, parametric and polar 
 curves). Approximate integration- Trapezoidal rule, Simpson’s 1 / 3 rule 
@@ -798,10 +664,8 @@ Reference Books:
 2. Thomas Calculus, George B Thomas, Pearson India, 12ed, 2010 
 3. Calculus- Early Transcendentals,  Anton, Bivens, Davis,10ed, Wiley India, 2012 
  
-
 ## Page 21
 
- 
 FMCD2009 / 2.0 21 
  
 Program: Biotechnology Semester: I 
@@ -835,18 +699,10 @@ circular motion, numericals.
 inelastic collisions, explosion, momentum in two dimensions, numericals.                                     
 05  Hours  
                    
-
 ## Page 22
 
- 
 FMCD2009 / 2.0 22 
 BACK 
- 
- 
- 
- 
- 
- 
  
 UNIT – III 
 7. Quantum Mechanics : Introduction, dual nature of matter waves , De-Broglie concept of 
@@ -877,7 +733,6 @@ Company, Vol-1, 3e (2006)
 
 ## Page 23
 
- 
 FMCD2009 / 2.0 23 
  
 Program: Biotechnology Semester: I 
@@ -913,20 +768,8 @@ array, Operations on two dimensional arrays, Introduction to Code Optimization a
 
 ## Page 24
 
- 
 FMCD2009 / 2.0 24 
 BACK 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 7.Pointers  
 Introduction, declaring pointer, pointer variables, pointer expression and arithmetic, passing arguments to 
@@ -948,11 +791,9 @@ Learning, 2008.
 
 ## Page 25
 
- 
 FMCD2009 / 2.0 25 
  
 BACK 
- 
  
 Program: Biotechnology Semester: I 
 Course Title: Engineering Exploration Course Code:15ECRP101 
@@ -986,7 +827,6 @@ Larry Northup, Steven, McGrawHill Higher Education, 6th Edition ( 2011)
 
 ## Page 26
 
- 
 FMCD2009 / 2.0 26 
  
 Program: Biotechnology Semester: I 
@@ -1013,7 +853,6 @@ numerical as applicable.
 
 ## Page 27
 
- 
 FMCD2009 / 2.0 27 
 Unit II 
 Chapter  4: Digital Logic: 
@@ -1050,23 +889,8 @@ Text Books
 
 ## Page 28
 
- 
 FMCD2009 / 2.0 28 
 BACK 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Engineering", 3rd edition Pearson Education, 2005. 
 4. David Bradley and David W., “Mechatronics in Action”, 2nd edition, Springer, 2010 
@@ -1084,7 +908,6 @@ Hall India, 2000.
 
 ## Page 29
 
- 
 FMCD2009 / 2.0 29 
  
 Program: Biotechnology Semester: I 
@@ -1135,12 +958,8 @@ Visit to Learning
 Factory 
 5 
  
- 
- 
-
 ## Page 30
 
- 
 FMCD2009 / 2.0 30 
 Unit II 
  
@@ -1195,31 +1014,14 @@ systems
 Video presentations 
 1 
  
- 
-
 ## Page 31
 
- 
 FMCD2009 / 2.0 31 
  
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 Turbines, and their working 
 principle and specifications. 
- 
  
 Text Books: 
 1. Jonathan Wickert and Kemper Lewis, An Introduction to Mechanical 
@@ -1235,16 +1037,9 @@ Elsevier.
 
 ## Page 32
 
- 
 FMCD2009 / 2.0 32 
  
- 
 BACK 
- 
- 
- 
- 
- 
  
 Program: Biotechnology Semester: I 
 Course Title:  Applied Physics lab (ES)      Course Code:21EPHP102 
@@ -1269,7 +1064,6 @@ OPEN ENDED EXPERIMENT
 
 ## Page 33
 
- 
 FMCD2009 / 2.0 33 
  
 Program: Biotechnology Semester: II 
@@ -1307,26 +1101,9 @@ Simple Harmonic motion. Series solution of differential equations. Validity of S
 
 ## Page 34
 
- 
 FMCD2009 / 2.0 34 
  
 BACK 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Differential equations. 
 (5+5) Hours 
@@ -1338,10 +1115,8 @@ Reference Books:
 1. Calculus Single and Multivariable, Hughues-Hallett Gleason, Wiley India Ed, 4ed, 2009. 
 2. Thomas Calculus, George B Thomas, Pearson India, 12ed, 2010. 
  
-
 ## Page 35
 
- 
 FMCD2009 / 2.0 35 
  
 Program: Biotechnology Semester: II 
@@ -1376,7 +1151,6 @@ applications.
 
 ## Page 36
 
- 
 FMCD2009 / 2.0 36 
 Unit – II 
 4.  Plating Techniques 
@@ -1410,7 +1184,6 @@ process and applications.
 
 ## Page 37
 
- 
 FMCD2009 / 2.0 37 
 8.  Instrumental Methods of Measurement 
 Advantages over conventional methods. Electro analytical methods: Potentiometer - principle, 
@@ -1442,28 +1215,9 @@ Engineering, 1998, New York.
 
 ## Page 38
 
- 
 FMCD2009 / 2.0 38 
  
 BACK 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 8. Solid State Devices & Technology, 4 th Edition, V. Suresh Babu, Sanguine Technical 
 Publishers, 2005, Bangalore. 
@@ -1472,10 +1226,8 @@ Wiley and Sons, 2007, New York.
 10. Instrumental Methods of Chemical A nalysis, 5 th edition, Gurdeep R Chatwal, Sham K 
 Anand, Himalaya Publishing House, Pvt. Ltd, 2010, Mumbai. 
  
-
 ## Page 39
 
- 
 FMCD2009 / 2.0 39 
  
 Program: Biotechnology Semester: II 
@@ -1506,10 +1258,8 @@ forces and couples, on equivalent force -couple system. Varignons princi ple of 
 Resultant of coplanar- non-concurrent force systems and numerical problems.  
 05  Hours 
  
-
 ## Page 40
 
- 
 FMCD2009 / 2.0 40 
 Chapter  3:Coplanar non-concurrent  force system  
 Resultant of a force system:  Moment, moment of a force, couple, moment of a couple, 
@@ -1538,7 +1288,6 @@ uniform & varying cross sections. Composite sections. Problems connected to abov
 
 ## Page 41
 
- 
 FMCD2009 / 2.0 41 
 BACK 
  
@@ -1574,7 +1323,6 @@ Publishing Company, New Delhi, 2017
 
 ## Page 42
 
- 
 FMCD2009 / 2.0 42 
  
 Program: Biotechnology Semester: II 
@@ -1615,14 +1363,8 @@ truncations. Development of transition pieces by triangulation method.
 
 ## Page 43
 
- 
 FMCD2009 / 2.0 43 
 BACK 
- 
- 
- 
- 
- 
  
 4. Conversion of Pictorial views into Orthographic projections :                                               
 Introduction to Isometric drawings. Conversion of pictorial or isometric views into orthographic 
@@ -1648,7 +1390,6 @@ Edition, 2005-Prentice-Hall of India Pvt. Ltd., New Delhi.
 
 ## Page 44
 
- 
 FMCD2009 / 2.0 44 
  
 Program: Biotechnology Semester: II 
@@ -1682,20 +1423,9 @@ applications.
 
 ## Page 45
 
- 
 FMCD2009 / 2.0 45 
  
 BACK 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Text Books 
 1. Data Structures Using C and C++ - Y . Langsam, M. Augenstein And A. M. Tenenbaum, 
@@ -1716,7 +1446,6 @@ Publications, 2004
 
 ## Page 46
 
- 
 FMCD2009 / 2.0 46 
  
 Program: Biotechnology Semester: II 
@@ -1746,7 +1475,6 @@ Placements)
  Students’ Self 
 Introduction Activity 
  Group formation Activity 
- 
  
 Reading assignments 
  Read the handout on “The 
@@ -1786,10 +1514,8 @@ the group mates)
 
 ## Page 47
 
- 
 FMCD2009 / 2.0 47 
 KNOWLEDGE, TOOLS & DEVELOPMENT 
- 
  
 Seven Mindsets: 
 1. Empathy 
@@ -1819,14 +1545,6 @@ Reading assignments
  Handout on “ Create 
 Mindsets” 
  
- 
- 
- 
- 
- 
- 
- 
- 
  (How to train the 
 Dragon?  
 Common Video for 
@@ -1838,11 +1556,8 @@ Confidence by David
 Kelley – IDEO 
 Founder)  
  
- 
-
 ## Page 48
 
- 
 FMCD2009 / 2.0 48 
 KNOWLEDGE, TOOLS & DEVELOPMENT 
  
@@ -1893,14 +1608,11 @@ respective templates
 with the help of 
 sample case study 
  
- 
  PEER REVIEW 
 
 ## Page 49
 
- 
 FMCD2009 / 2.0 49 
- 
  
 Inspiration 
  
@@ -1938,9 +1650,7 @@ sample case study
 
 ## Page 50
 
- 
 FMCD2009 / 2.0 50 
- 
  
 Ideation 
 3.1 Synthesis 
@@ -1967,9 +1677,7 @@ sample case study
 
 ## Page 51
 
- 
 FMCD2009 / 2.0 51 
- 
  
  Implementation 
  Create an action plan 
@@ -2005,34 +1713,11 @@ respective templates
 with the help of 
 sample case study 
  
- 
-    
-
 ## Page 52
 
- 
 FMCD2009 / 2.0 52 
  
- 
 BACK 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 5.0 Reflect 
  
@@ -2052,10 +1737,8 @@ respective templates
 with the help of 
 sample case study 
  
-
 ## Page 53
 
- 
 FMCD2009 / 2.0 53 
  
 Program: Biotechnology Semester: II 
@@ -2084,34 +1767,11 @@ Chapter No. 6. Business Communication
 Covering letter, formal letters, Construction of paragraphs on any given general topic. 
 09  Hours 
  
-
 ## Page 54
 
- 
 FMCD2009 / 2.0 54 
  
 BACK 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Reference Books: 
 1. Collins Cobuild Advanced Learner’s English Dictionary  
@@ -2120,7 +1780,6 @@ Hewings- Advanced English Grammar, Cambridge University Press.
 
 ## Page 55
 
- 
 FMCD2009 / 2.0 55 
  
 Program: Biotechnology Semester: III 
@@ -2162,24 +1821,10 @@ Measures of dispersion (Quartile deviation, Standard deviation, coefficient of v
 Measure of skewness (Pearson and Bowley’s)                                                                                
 12 Hours 
  
- 
-
 ## Page 56
 
- 
 FMCD2009 / 2.0 56 
 BACK 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Unit III 
 5.  Introduction to Laplace transform and Solution of Differential Equations 
@@ -2203,10 +1848,8 @@ and Computing, J.Susan Milton, Jesse C Arnold, , 4, TATA Mc-Graw Hill Edition, 2
 3. Higher Engineering Mathematics, Grewal B S, 38ed, Khanna Publication, New Delhi, 
 2001. 
  
-
 ## Page 57
 
- 
 FMCD2009 / 2.0 57 
  
 Program: Biotechnology Semester: III 
@@ -2242,10 +1885,8 @@ division, generation time, phases of growth. Fundamentals of microbial growth
 Kinetics.Chemostat & Turbidostat, Measurement of growth: Direct and Indirect methods.  
                                      04 Hours 
  
-
 ## Page 58
 
- 
 FMCD2009 / 2.0 58 
 Unit II 
 5. Microbial Techniques 
@@ -2280,32 +1921,10 @@ study), r -DNA technology & therapeutic products from microbes. Biosynthetic pat
 Introduction to Metabolic Engineering.                                                                                                                                     
                                                                                                                             05 Hours 
  
-                   
-
 ## Page 59
 
- 
 FMCD2009 / 2.0 59 
 BACK 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Text Books: 
 1. Chan & Pelzar, Microbiology, Publisher: Tata McGraw Hill 5th Edition 2008. 
@@ -2316,7 +1935,6 @@ Reference Books:
 
 ## Page 60
 
- 
 FMCD2009 / 2.0 60 
  
 Program: Biotechnology Semester: III 
@@ -2358,7 +1976,6 @@ metabolic and hormonal. Fates of pyruvate. Glycogen - synthesis and degradation.
 
 ## Page 61
 
- 
 FMCD2009 / 2.0 61 
 of glycogen metabolism. Gluconeogenesis, Pentose phosphate pathway. Sign ificance of 
 pentose phosphate pathway and regulation. Production of Acetyl -CoA, Reactions of Citric acid 
@@ -2398,31 +2015,9 @@ International edition, Palgrave MacMillan, 2011.
 
 ## Page 62
 
- 
 FMCD2009 / 2.0 62 
  
 BACK 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Reference Books 
 1. Donald Voet and Judith G. Voet. , Biochemistry, 4th edition, Wiley; , 2010 
@@ -2431,7 +2026,6 @@ Reference Books
 
 ## Page 63
 
- 
 FMCD2009 / 2.0 63 
  
 Program: Biotechnology Semester: III 
@@ -2470,19 +2064,9 @@ of NCV and GCV and problems.
 
 ## Page 64
 
- 
 FMCD2009 / 2.0 64 
  
 BACK 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Unit III 
 6a .Stoichiometry of microbial growth and product formation kinetics 
@@ -2505,7 +2089,6 @@ Publication,2nd edn,1986.
 
 ## Page 65
 
- 
 FMCD2009 / 2.0 65 
  
 Program: Biotechnology Semester: III 
@@ -2545,13 +2128,9 @@ in Chromatography.
 
 ## Page 66
 
- 
 FMCD2009 / 2.0 66 
  
 BACK 
- 
- 
- 
  
 6. Heat transfer  
 Heat transfer: Introduction, Modes of heat transfer: conduction, convection and radiation. 
@@ -2582,14 +2161,9 @@ Reference Books
 
 ## Page 67
 
- 
 FMCD2009 / 2.0 67 
  
- 
 BACK 
- 
- 
- 
  
 Program: Biotechnology Semester: III 
 Course Title:    Microbiology Lab Course Code: 15EBTP201 
@@ -2624,14 +2198,9 @@ Education (ISBN 978-0-13-224011-6)
 
 ## Page 68
 
- 
 FMCD2009 / 2.0 68 
  
 BACK 
- 
- 
- 
- 
  
 Program: Biotechnology Semester: III 
 Course Title: Biochemistry  Lab Course Code: 15EBTP202 
@@ -2660,15 +2229,9 @@ International,2005.
 
 ## Page 69
 
- 
 FMCD2009 / 2.0 69 
  
- 
 BACK 
- 
- 
- 
- 
  
 Program: Biotechnology Semester: III 
 Course Title:  Unit Operations-I Lab Course Code:  17EBTP201 
@@ -2696,7 +2259,6 @@ India,2004
 
 ## Page 70
 
- 
 FMCD2009 / 2.0 70 
  
 Program: Biotechnology Semester: IV 
@@ -2733,23 +2295,11 @@ Introduction, OFAT, 22 and 23 factorial experiments: Data table, Graphical repre
 and interaction effects, ANOVA Table                                                                              
 07 Hours 
  
- 
-
 ## Page 71
 
- 
 FMCD2009 / 2.0 71 
  
 BACK 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Unit III 
 6. Design of Experiments -2 
@@ -2772,7 +2322,6 @@ Chand & Sons, New Delhi, 2002
 
 ## Page 72
 
- 
 FMCD2009 / 2.0 72 
  
 Program: Biotechnology Semester: IV 
@@ -2813,14 +2362,8 @@ diseases ImmunodefiISAncy Disorders – Types and features.
 
 ## Page 73
 
- 
 FMCD2009 / 2.0 73 
 BACK 
- 
- 
- 
- 
- 
  
 6. Transplantation immunology  
 Transplantation antigens – Types and functions, Types of Transplantations, Immunological basis 
@@ -2850,7 +2393,6 @@ Reference Books
 
 ## Page 74
 
- 
 FMCD2009 / 2.0 74 
  
 Program: Biotechnology Semester: IV 
@@ -2893,7 +2435,6 @@ inhibition. Substrate inhibitions, Multi -substrate reactions -ordered mechanism
 
 ## Page 75
 
- 
 FMCD2009 / 2.0 75 
  
 BACK 
@@ -2933,7 +2474,6 @@ Principles of biochemistry., 3, Prentice Hall, 2002
 
 ## Page 76
 
- 
 FMCD2009 / 2.0 76 
  
 Program: Biotechnology Semester: IV 
@@ -2968,7 +2508,6 @@ prokaryotes and in Eukaryotes.
 
 ## Page 77
 
- 
 FMCD2009 / 2.0 77 
 Unit II 
 4. Transcription 
@@ -3000,13 +2539,9 @@ diseases.                                                                       
 
 ## Page 78
 
- 
 FMCD2009 / 2.0 78 
  
 BACK 
- 
- 
- 
  
 Unit III 
 8. Polymerase Chain Reaction 
@@ -3032,7 +2567,6 @@ Delhi (2013).
 
 ## Page 79
 
- 
 FMCD2009 / 2.0 79 
  
 Program: Biotechnology Semester: IV 
@@ -3072,19 +2606,9 @@ sedimentation, Thickener, Numerical problems.                                   
 
 ## Page 80
 
- 
 FMCD2009 / 2.0 80 
  
 BACK 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Unit III 
 6. Mixing and agitation of liquids 
@@ -3109,15 +2633,9 @@ Ltd, 2007.
 
 ## Page 81
 
- 
 FMCD2009 / 2.0 81 
  
- 
 BACK 
- 
- 
- 
- 
  
 Program: Biotechnology Semester: IV 
 Course Title:  Enzyme Technology  Lab Course Code: 15EBTP204 
@@ -3148,14 +2666,9 @@ Deshpande.(2005) I.K International Pvt. Ltd,New Delhi. pp301
 
 ## Page 82
 
- 
 FMCD2009 / 2.0 82 
  
- 
 BACK 
- 
- 
- 
  
 Program: Biotechnology Semester: IV 
 Course Title:   Cell and Molecular Biology Lab Course Code: 15EBTP205 
@@ -3184,15 +2697,9 @@ Laboratory Press, 2000
 
 ## Page 83
 
- 
 FMCD2009 / 2.0 83 
  
- 
 BACK 
- 
- 
- 
- 
  
 Program: Biotechnology Semester: IV 
 Course Title: Unit Operations-II Lab Course Code: 17EBTP202 
@@ -3219,7 +2726,6 @@ Prentice Hall of India, 2004.
 
 ## Page 84
 
- 
 FMCD2009 / 2.0 84 
  
 Program: Biotechnology Semester: V 
@@ -3252,7 +2758,6 @@ transformation.                                                                 
 
 ## Page 85
 
- 
 FMCD2009 / 2.0 85 
 Unit II 
 4. Selection, Screening and Analysis of Recombinants 
@@ -3284,19 +2789,9 @@ Carbohydrates and Bioremediation or Environmental cleanup.
 
 ## Page 86
 
- 
 FMCD2009 / 2.0 86 
  
 BACK 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 8. Plant and Animal Transgenic Technology and Applications 
 Applications of Transgenic Plant Technology – Development of Insect resistant plants, 
@@ -3318,7 +2813,6 @@ Cambridge University Press, Singapore 2023.
 
 ## Page 87
 
- 
 FMCD2009 / 2.0 87 
  
 Program: Biotechnology Semester: V 
@@ -3350,10 +2844,8 @@ Progressive Alignment methods, Iterative methods, Local Multiple sequence Alignm
 Analysis, BLOCK analysis, Patte rn searching and Motif analysis, Statistical methods or 
 Probabilistic models; Multiple Sequence Alignment editors.                                                05 Hours  
                                                                                                                                                 
-
 ## Page 88
 
- 
 FMCD2009 / 2.0 88 
 Unit - II 
  4.Phylogenetics analysis 
@@ -3388,19 +2880,9 @@ designing based on template, Steps in drug designing: Target  identification, ta
 
 ## Page 89
 
- 
 FMCD2009 / 2.0 89 
  
 BACK 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 lead identification and validation; different tools used for drug designing.  
                                                                                                                                                 05 Hours 
@@ -3419,10 +2901,8 @@ Reference Books:
 Genomics, Proteomics and Drug Discovery, 4th, Prentice-H, 2013. 
 2. Anand Solomon K, Molecular Modelling and Drug Design , 1st, MJP Publis, 2015 
  
-
 ## Page 90
 
- 
 FMCD2009 / 2.0 90 
  
 Program: Biotechnology Semester: V 
@@ -3458,14 +2938,11 @@ and step input response of reactors, RTD’s for CSTR and PFR, Relationship betw
 curve. Kinetic models for non-Ideal reaction system, Axial Dispersion Model 
                                                                                                                                               04 Hours 
  
-
 ## Page 91
 
- 
 FMCD2009 / 2.0 91 
  
 BACK 
- 
  
 6 Microbial kinetics: 
 Introduction to microbial kinetics, Yield coefficient, Simple kinetic models for microbial growth, 
@@ -3496,7 +2973,6 @@ edition 2011
 
 ## Page 92
 
- 
 FMCD2009 / 2.0 92 
  
 Program: Biotechnology Semester: V 
@@ -3534,15 +3010,8 @@ Extraction, Osmosis, Nernst equation in membrane transportation, Numerical probl
 
 ## Page 93
 
- 
 FMCD2009 / 2.0 93 
 BACK 
- 
- 
- 
- 
- 
- 
  
 Unit III 
 5. Statistical Thermodynamics 
@@ -3572,7 +3041,6 @@ Private limited, 2015.
 
 ## Page 94
 
- 
 FMCD2009 / 2.0 94 
  
 Program: Biotechnology Semester: V 
@@ -3612,17 +3080,9 @@ Composite Design, Response Surface Methodology, Design of matrix and analysis, C
 
 ## Page 95
 
- 
 FMCD2009 / 2.0 95 
  
 BACK 
- 
- 
- 
- 
- 
- 
- 
  
 plots and response surface plots, QBD principles, Introduction to Artificial Intelligence and its 
 application in biotechnology                  
@@ -3651,7 +3111,6 @@ Agarwal, U.K.  RBSA Publishers
 
 ## Page 96
 
- 
 FMCD2009 / 2.0 96 
  
 BACK 
@@ -3690,18 +3149,11 @@ Sl. No Phase Marks Review
 3 End Semester Assessment 50 External/Internal 
 Total Marks 100  
   
-
 ## Page 97
 
- 
 FMCD2009 / 2.0 97 
  
 BACK 
- 
- 
- 
- 
- 
  
 Program: Biotechnology Semester: V 
 Course Title: Genetic Engineering & Immunotechnology  
@@ -3732,13 +3184,9 @@ S.D. Primrose(    2007), Blackwell SISAntific Publications.
 
 ## Page 98
 
- 
 FMCD2009 / 2.0 98 
  
 BACK 
- 
- 
- 
  
 Program: Biotechnology Semester: V 
 Course Title:  Bioinformatics  Lab Course Code:  22EBTP302 
@@ -3771,7 +3219,6 @@ Analysis of Genes and Proteins, 3rd, Wiley-Inte, 2005.
 
 ## Page 99
 
- 
 FMCD2009 / 2.0 99 
  
 Program: Biotechnology Semester: VI 
@@ -3816,11 +3263,8 @@ concentrations and stirring conditions, Numerical based examples on above.
 
 ## Page 100
 
- 
 FMCD2009 / 2.0 100 
 BACK 
- 
- 
  
 6.Mass Transfer  
 Mass transfer in Bioprocess: Role of diffusion in bioprocessing, Different equations in  
@@ -3858,7 +3302,6 @@ Education, 1986
 
 ## Page 101
 
- 
 FMCD2009 / 2.0 101 
  
 Program: Biotechnology Semester: VI 
@@ -3894,19 +3337,10 @@ single input & Single output systems (SISO) & Multiple Input & Multiple Output S
 (MIMO), Problems on block diagram reduction.  
                                                                                                                                              05 Hours 
  
-
 ## Page 102
 
- 
 FMCD2009 / 2.0 102 
 BACK 
- 
- 
- 
- 
- 
- 
- 
  
 5 Block Diagram Reduction (MIMO systems):  Analysis of Multiple Input Multiple Output 
 Systems: Introduction to Multiple Input & Multiple Output Systems (MIMO), Examples  of 
@@ -3933,7 +3367,6 @@ Limited, 2017.
 
 ## Page 103
 
- 
 FMCD2009 / 2.0 103 
  
 BACK 
@@ -3972,15 +3405,11 @@ Sl. No Phase Marks Review
 5 End Semester Assessment 50 External/Internal 
 Total Marks 100  
   
-
 ## Page 104
 
- 
 FMCD2009 / 2.0 104 
  
- 
 BACK 
- 
  
 Program: Biotechnology Semester: VI 
 Course Title:    Bioprocess Engineering  Lab Course Code: 23EBTP303 
@@ -4015,13 +3444,9 @@ Resources Institute, TERI.
 
 ## Page 105
 
- 
 FMCD2009 / 2.0 105 
  
- 
- 
 BACK 
- 
  
 Program: Biotechnology Semester: VI 
 Course Title:  Bioprocess Control & Reaction Engineering 
@@ -4055,7 +3480,6 @@ Text Books/Reference Books:
 
 ## Page 106
 
- 
 FMCD2009 / 2.0 106 
  
 Program: Biotechnology Semester: VI 
@@ -4090,18 +3514,10 @@ performance liquid chromatography & UPLC- Principles, Methods, Instrumentation, 
 Analysis of data.  
 08 Hours 
  
-
 ## Page 107
 
- 
 FMCD2009 / 2.0 107 
 BACK 
- 
- 
- 
- 
- 
- 
  
 5. Electrophoretic techniques 
 Theory & application of polyacryla mide & Agarose gel electrophoresis for protein & nucleic 
@@ -4130,7 +3546,6 @@ house, 2012
 
 ## Page 108
 
- 
 FMCD2009 / 2.0 108 
  
 Program: Biotechnology Semester: VI 
@@ -4170,13 +3585,9 @@ rental costs etc.)
 
 ## Page 109
 
- 
 FMCD2009 / 2.0 109 
  
 BACK 
- 
- 
- 
  
 products) 
  High volume, low value products. (Citric acid, Ethanol and Amino acids etc) 
@@ -4209,7 +3620,6 @@ International Edition
 
 ## Page 110
 
- 
 FMCD2009 / 2.0 110 
  
 Program: Biotechnology Semester: VI 
@@ -4251,18 +3661,9 @@ limitations-interpretation of results
 
 ## Page 111
 
- 
 FMCD2009 / 2.0 111 
  
 BACK 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Unit III 
 5.  Computer Assisted Drug Discovery-Part-I. 
@@ -4287,7 +3688,6 @@ press 2010
 
 ## Page 112
 
- 
 FMCD2009 / 2.0 112 
  
 Program: Biotechnology Semester: VI 
@@ -4330,18 +3730,9 @@ importance of Material and Energy balance, selection of unit operations,
 
 ## Page 113
 
- 
 FMCD2009 / 2.0 113 
  
- 
 BACK 
- 
- 
- 
- 
- 
- 
- 
  
 Unit III 
 5.Introduction to process simulation software 
@@ -4368,7 +3759,6 @@ edition.
 
 ## Page 114
 
- 
 FMCD2009 / 2.0 114 
  
 Program: Biotechnology Semester: VI 
@@ -4410,15 +3800,9 @@ replication. Tertiary structure of DNA and tRNA.
 
 ## Page 115
 
- 
 FMCD2009 / 2.0 115 
  
- 
 BACK 
- 
- 
- 
- 
  
 integral proteins in membranes, conformational variations during ion transport, signal 
 transduction and molecular reception (qualitative). 
@@ -4449,7 +3833,6 @@ publishing Co. 1999.
 
 ## Page 116
 
- 
 FMCD2009 / 2.0 116 
  
 Program: Biotechnology Semester: VI 
@@ -4485,20 +3868,11 @@ pharmaceutical industry perspective. Bioassay methods and their significance in 
 development. Concept of pharmacovigilance. 
                                                                                                                                 15 Hours 
                                                                                                                                                                                       
-
 ## Page 117
 
- 
 FMCD2009 / 2.0 117 
  
- 
 BACK 
- 
- 
- 
- 
- 
- 
  
 Unit III 
 4. Clinical research governance and ethics 
@@ -4526,7 +3900,6 @@ Reference Books:
 
 ## Page 118
 
- 
 FMCD2009 / 2.0 118 
  
 Program: Biotechnology Semester: VII 
@@ -4567,15 +3940,8 @@ isoelectric precipitation. Extraction methods for separation: Reversed micellar 
 
 ## Page 119
 
- 
 FMCD2009 / 2.0 119 
 BACK 
- 
- 
- 
- 
- 
- 
  
 Aqueous two -phase extraction, Supercritical extraction; In situ product removal / integrated 
 bio-processing, SDS PAGE: determination of molecular weight of unknown protein. Numerical.                                                                                                                                   
@@ -4604,7 +3970,6 @@ Reference Books:
 
 ## Page 120
 
- 
 FMCD2009 / 2.0 120 
  
 Program: Biotechnology Semester: VII 
@@ -4638,20 +4003,10 @@ Tube side heat transfer coefficient, baffle spacing, shell si de heat transfer c
 Overall heat transfer coefficient, Tube side & shell side Pressure drop Calculations.  
                                                                                                                                            09 Hours                                                                                                                                                                                                                               
  
-
 ## Page 121
 
- 
 FMCD2009 / 2.0 121 
 BACK 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Unit – III 
 3.Equipment qualification & Validation 
@@ -4678,7 +4033,6 @@ CBS      Publishers & distributors, 2018
 
 ## Page 122
 
- 
 FMCD2009 / 2.0 122 
  
 Program: Biotechnology Semester: VII 
@@ -4720,18 +4074,8 @@ review committee has faculty experts of all the domains. Review committee consis
 
 ## Page 123
 
- 
 FMCD2009 / 2.0 123 
 BACK 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 guide of the respective project group also. 
 Review: 
@@ -4750,12 +4094,9 @@ Sl. No Phase Marks
 5. End Semester Assessment- External review 50 
 TOTAL 100 
   
-
 ## Page 124
 
- 
 FMCD2009 / 2.0 124 
- 
  
 BACK 
  
@@ -4787,12 +4128,9 @@ Protein Purification : Principles and Practice; Robert K Scopes;Springer; 2010 D
 
 ## Page 125
 
- 
 FMCD2009 / 2.0 125 
  
- 
 BACK 
- 
  
 Program: Biotechnology Semester: VII 
 Course Title:  Mammalian Cell Culture Techniques Lab Course Code:23EBTP402 
@@ -4820,7 +4158,6 @@ edition,
 
 ## Page 126
 
- 
 FMCD2009 / 2.0 126 
  
 Program: Biotechnology Semester: VII 
@@ -4855,21 +4192,9 @@ Review committee is formed by the REU coordinator taking into consideration each
 
 ## Page 127
 
- 
 FMCD2009 / 2.0 127 
  
 BACK 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 committee has faculty experts from all the domains.  
   
@@ -4894,10 +4219,8 @@ Report 50 Guide/s
 Viva-voce 50 External 
 Total       200  
    
-
 ## Page 128
 
- 
 FMCD2009 / 2.0 128 
  
 Program: Biotechnology Semester: VII 
@@ -4928,10 +4251,8 @@ bioreactor, packed bed bioreactor, tickle bed bioreactor, deep jet bioreactor, r
 bioreactor. 
 05 Hours 
  
-
 ## Page 129
 
- 
 FMCD2009 / 2.0 129 
 5. Bioreactor configuration-II 
 Animal cell bioreactors: - Homogeneous re actor: Solid and macro porous micro carriers 
@@ -4960,33 +4281,11 @@ Text Books:
 Publication. 
 2. Prescot and Dun, Industrial Microbiology, McGraw-Hill Book Company, Inc. New York 
  
-
 ## Page 130
 
- 
 FMCD2009 / 2.0 130 
  
 BACK 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Reference Books: 
 1. D.Lanch,Drew,Wang, Comprehensive Biotechnology-Volume 3,Elsevier Publication. 
@@ -4995,7 +4294,6 @@ McGraw Hill Professional, 1998
 
 ## Page 131
 
- 
 FMCD2009 / 2.0 131 
  
 Program: Biotechnology Semester: VII 
@@ -5026,7 +4324,6 @@ and peeling. Food conversion operations - size reduction, emulsification, filtra
 
 ## Page 132
 
- 
 FMCD2009 / 2.0 132 
 separation, centrifugation and extraction. Pulsed Electric Field processing, High -Pressure 
 Processing,                                                                                                                         
@@ -5055,27 +4352,9 @@ food laws. Certification and labeling of foods. Concept of HACCP and AGMARK
 
 ## Page 133
 
- 
 FMCD2009 / 2.0 133 
  
 BACK 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Text Books: 
 1. P .J.Fellows, Food Processing Technology. Principles and Practices, Second Edition, 
@@ -5088,7 +4367,6 @@ Francis. 2006
 
 ## Page 134
 
- 
 FMCD2009 / 2.0 134 
  
 Program: Biotechnology Semester: VII 
@@ -5123,7 +4401,6 @@ biomass for ethanol production                                                  
 
 ## Page 135
 
- 
 FMCD2009 / 2.0 135 
                                                                                                                                             
 4. Bioremediation and Bioleaching 
@@ -5156,29 +4433,9 @@ Applications, Dreamtech Press, 2019.
 
 ## Page 136
 
- 
 FMCD2009 / 2.0 136 
  
 BACK 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 3. Pradipta Kumar Mohapatra, Textbook of Environmental Biotechnology, I K International 
 Publishing House, 2007. 
@@ -5189,7 +4446,6 @@ Reference Books
 
 ## Page 137
 
- 
 FMCD2009 / 2.0 137 
  
 Program: Biotechnology Semester: VII 
@@ -5229,13 +4485,9 @@ Troubleshooting out-of-control systems, Case studies, Validation of Analytical M
 
 ## Page 138
 
- 
 FMCD2009 / 2.0 138 
  
- 
 BACK 
- 
- 
  
 Unit III 
  5.  Quality Standards  
@@ -5262,7 +4514,6 @@ Haider, Saint Lucie Press, 2004.
 
 ## Page 139
 
- 
 FMCD2009 / 2.0 139 
  
 Program: Biotechnology Semester: VII 
@@ -5308,12 +4559,10 @@ Committee (RSC).                                                                
 
 ## Page 140
 
- 
 FMCD2009 / 2.0 140 
  
 BACK 
  
-                                                                                                                          
 5. Risk Assessment  
 Risk Management, evaluating and analyzing risks associated with those hazards, actions to 
 eliminate the hazards, Risk Matrix, Acceptable risks and safety priorities, cost of saving a life, 
@@ -5351,7 +4600,6 @@ Been Avoided. By Kletz T. 5th Edition. Butterworth-Heinemann Publisher.
 
 ## Page 141
 
- 
 FMCD2009 / 2.0 141 
  
 Program: Biotechnology Semester: VII 
@@ -5389,10 +4637,8 @@ cell culture – sources, monitoring and eradication of contamination Cryopreser
 transportation.                                                                                                                
   04 Hours 
                                                                                               
-
 ## Page 142
 
- 
 FMCD2009 / 2.0 142 
 BACK 
  
@@ -5434,7 +4680,6 @@ Ltd, New Delhi 2013. ISBN – 978-81-203-4677-2
 
 ## Page 143
 
- 
 FMCD2009 / 2.0 143 
  
 Program: Biotechnology Semester: VII 
@@ -5474,11 +4719,8 @@ products, thera peutic enzymes, monoclonal & polyclonal antibodies, vaccines and
 
 ## Page 144
 
- 
 FMCD2009 / 2.0 144 
 BACK 
- 
- 
  
 technology (with appropriate case studies), gene and cell therapy: recent developments. 
 Sustained drug release, targeted therapy, role of nanotechnology in drug delivery, Novel Drug 
@@ -5512,7 +4754,6 @@ Pub: ASM  Press.
 
 ## Page 145
 
- 
 FMCD2009 / 2.0 145 
  
 Program: Biotechnology Semester: VII 
@@ -5552,14 +4793,9 @@ affinity chromatography techniques,1 -D by Isoelectric focusing, 2 -D by SDS -PA
 
 ## Page 146
 
- 
 FMCD2009 / 2.0 146 
  
- 
 BACK 
- 
- 
- 
  
 Identification- Edman degradation, Mass Spectrometry, MALDI -TOF, Electrospray ionization, 
 Peptide mass fingerprinting. 
@@ -5587,7 +4823,6 @@ Reference Books:
 
 ## Page 147
 
- 
 FMCD2009 / 2.0 147 
  
 Program: Biotechnology Semester: VII 
@@ -5625,22 +4860,12 @@ biological containments,. Good manufacturing practice and Good lab practices (GM
 
 ## Page 148
 
- 
 FMCD2009 / 2.0 148 
- 
  
 BACK 
  
- 
- 
- 
- 
- 
- 
- 
 Unit III 
 6. Intellectual Property rights : Introd uction to history of GATT, WTO, WIPO and TRIPS; 
-Introduction to IPR, Types of IP: Patents, Trademarks, Copyright, Design & Related Rights. Plant 
 variety protection, Traditional knowledge, breeders rights, Geographical indications, 
 Biodiversity and farmers rights. Patenting in biotechnology, case studies.   
          05 Hours  
@@ -5660,7 +4885,6 @@ Reference Books:
 
 ## Page 149
 
- 
 FMCD2009 / 2.0 149 
  
 Program: Biotechnology Semester: VII 
@@ -5701,18 +4925,8 @@ vaccine manufacturing: HBV and polio vaccine                                    
 
 ## Page 150
 
- 
 FMCD2009 / 2.0 150 
 BACK 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Unit III 
 5. Policies, ethical considerations and   Regulatory affairs of vaccines. 
@@ -5739,7 +4953,6 @@ Narahari S. Pujar (Editor).
 
 ## Page 151
 
- 
 FMCD2009 / 2.0 151 
  
 Program: Biotechnology Semester: VIII 
@@ -5782,17 +4995,9 @@ Models, Non-linear models, Time Series, Autocorrelation and Clustering.
 
 ## Page 152
 
- 
 FMCD2009 / 2.0 152 
  
- 
 BACK 
- 
- 
- 
- 
- 
- 
  
 Unit III 
  7. Introduction to Bioconductor for Sequence Data: 
@@ -5817,7 +5022,6 @@ Reference Books:
 
 ## Page 153
 
- 
 FMCD2009 / 2.0 153 
  
 Program: Biotechnology Semester: VIII 
@@ -5852,14 +5056,8 @@ sequence files.
 
 ## Page 154
 
- 
 FMCD2009 / 2.0 154 
 BACK 
- 
- 
- 
- 
- 
  
 Unit III 
 6. Introduction to Galaxy software 
@@ -5888,7 +5086,6 @@ Hoboken, N.J.: WileyBlackwell, 2010.
 
 ## Page 155
 
- 
 FMCD2009 / 2.0 155 
  
 Program: Biotechnology Semester: VIII 
@@ -5933,18 +5130,8 @@ opportunities: Market Feasibility Study; Technical Feasibility Study; Financial 
 
 ## Page 156
 
- 
 FMCD2009 / 2.0 156 
 BACK 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Unit-III 
 5. Startup Schemes  
@@ -5971,7 +5158,6 @@ Reference books
 
 ## Page 157
 
- 
 FMCD2009 / 2.0 157 
  
 Program: Biotechnology Semester: VIII 
@@ -6010,12 +5196,9 @@ HPLC, Characterization techniques: UV spectra, IR specta, GC/MS, HPTLC.
 
 ## Page 158
 
- 
 FMCD2009 / 2.0 158 
  
 BACK 
- 
- 
  
 Unit III 
 5. Herbal Products and regulation 
@@ -6048,7 +5231,6 @@ Academic Publishing, 2018.
 
 ## Page 159
 
- 
 FMCD2009 / 2.0 159 
  
 Program: Biotechnology Semester: VIII 
@@ -6090,20 +5272,9 @@ hydrocarbons, PCB dechlorination, immobilization techniques for bioremediation, 
 
 ## Page 160
 
- 
 FMCD2009 / 2.0 160 
  
 BACK 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 & bioaccumulation, genetic engineering of micro bes for bioremediation. Phytoremediation -
 plants capable of assimilating heavy metals.                                                                               
@@ -6124,7 +5295,6 @@ Reference Books:
 
 ## Page 161
 
- 
 FMCD2009 / 2.0 161 
  
 Program: Biotechnology Semester: VIII 
@@ -6157,27 +5327,9 @@ the guide of the respective project group.
 
 ## Page 162
 
- 
 FMCD2009 / 2.0 162 
  
- 
 BACK 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Project evaluation: 
 Sl. No Phase Marks Review 
@@ -6188,10 +5340,8 @@ Sl. No Phase Marks Review
 5 ESA 50 External 
 TOTAL 100  
   
-
 ## Page 163
 
- 
 FMCD2009 / 2.0 163 
  
 Program: Biotechnology Semester: VIII 
@@ -6225,20 +5375,9 @@ opportunities etc. After studying the industry, the industry is recommended by
 
 ## Page 164
 
- 
 FMCD2009 / 2.0 164 
  
 BACK 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 coordinator for approval by the department head and members of committee. 
 Justification is provided by the coordinator on suitability of the company. Well 
@@ -6260,7 +5399,6 @@ involved in strengthening the gaps and meeting the industry requirements.
 
 ## Page 165
 
- 
 FMCD2009 / 2.0 165 
  
 Program: Biotechnology Semester: VIII 
@@ -6295,7 +5433,6 @@ coordinator for approval by the department head and members of committee.
 
 ## Page 166
 
- 
 FMCD2009 / 2.0 166 
 BACK 
  

@@ -1,4 +1,5 @@
 # PDF Document: 11imguf_2_4SemesterLLMESATimeTableAug_Sept.2023
+
 **PDF Source:** https://www.kletech.ac.in/Uploads/image/11imguf_2_4SemesterLLMESATimeTableAug_Sept.2023.pdf
 
 ## Page 1
@@ -40,14 +41,12 @@ TIME TABLE FOR II & IV SEMESTER LL.M. END SEMESTER
 ASSESSMENT THEORY EXAMINATIONS AUGUST 2023
 LL.M. (Constitutional Law)
 
-
 ## Page 2
 
 Prepared By:
 M.S. Kalasad Controller of Examinations 
 28/08/2023 
 (Monday) 
-Specialisation Paper – 2: Copyrights: Law and Practice
 22LLIT102
 30/08/2023 
 (Wednesday)

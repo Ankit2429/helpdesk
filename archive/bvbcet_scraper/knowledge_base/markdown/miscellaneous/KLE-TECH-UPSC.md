@@ -1,26 +1,14 @@
 # PDF Document: KLE-TECH-UPSC
+
 **PDF Source:** https://www.kletech.ac.in/pdf/KLE-TECH-UPSC.pdf
 
 ## Page 1
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 If your aIms are hIgh, we say the lImIt 
 Is the sky!!! 
   
-
-
 ## Page 2
 
- 
- 
 STATEMENT OR NEED OF CLUB 
     Every year many students appear for the civil services examination and come up with 
 flying colours. However, these efforts have been largely individual. With this in mind, 
@@ -43,13 +31,6 @@ queries.
  
 Work Structure : 
  
-
-## Page 3
-
- 
-  
-
-
 ## Page 4
 
 MONTHLY PLAN FOR CLUB 
@@ -200,8 +181,6 @@ COLLEGE
  
 IMPLETATION: 
  
-
-
 ## Page 9
 
 SOME RESPONSES FROM 
@@ -215,106 +194,4 @@ knowledge. Thank you. This is helping a lot.
 prepare 
 ● Expecting daily classes. 
 ● Group discussions, Guidance from Officers 
- 
- 
-  
-
-
-## Page 10
-
-  
- 
- 
-  
-
-
-## Page 11
-
- 
-  
-
-## Page 12
-
- 
-  
-
-## Page 13
-
- 
-  
-
-## Page 14
-
- 
-  
-
-## Page 15
-
- 
-  
-
-## Page 16
-
- 
-  
-
-## Page 17
-
-  
-
-## Page 18
-
- 
-  
-
-## Page 19
-
- 
-  
-
-## Page 20
-
- 
-  
-
-## Page 21
-
- 
-  
-
-## Page 22
-
-  
- 
- 
-
-## Page 23
-
- 
-  
-  
-   
- 
-  
-
-## Page 24
-
- 
- 
- 
- 
-  
-
-## Page 25
-
- 
-  
-
-## Page 26
-
- 
-  
-
-## Page 27
-
  

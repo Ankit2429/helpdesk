@@ -1,25 +1,10 @@
 # PDF Document: mtech-ams-curriculum-2023-25
+
 **PDF Source:** https://www.kletech.ac.in/pdf/mtech-ams-curriculum-2023-25.pdf
 
 ## Page 1
 
 FMCD2009 / 2.0 1 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Curriculum Structure and Curriculum Content for the Academic Batch 2023-25 
 School /Department: Mechanical Engineering 
@@ -28,9 +13,6 @@ Program: M.Tech in Advanced Manufacturing Systems
 ## Page 2
 
 FMCD2009 / 2.0 2 
- 
- 
- 
  
 Table of Contents 
 Vision and Mission of KLE Technological University ............................................ 3 
@@ -49,7 +31,6 @@ Curriculum Content- Course wise ................................................
 
 FMCD2009 / 2.0 3 
  
- 
 Vision and Mission of KLE Technological University 
  
 Vision 
@@ -57,7 +38,6 @@ Vision
 KLE Technological University will be a national leader in Higher Education – 
 recognised globally for innovative culture, outstanding student experience, 
 research excellence and social impact. 
- 
  
 Mission 
 KLE Technological University is dedicated to teaching that meets highest 
@@ -84,13 +64,11 @@ the spirit of collaboration and partnership to accomplish our mission.
 
 FMCD2009 / 2.0 4 
  
- 
 Vision and Mission Statements of the School / Department 
 Vision 
 KLE Tech - School of Mechanical Engineering will be a national leader in 
 mechanical engineering education - recognized for innovative culture, 
 outstanding research and societal outreach. 
- 
  
 Mission 
  
@@ -137,7 +115,6 @@ system
 
 FMCD2009 / 2.0 5 
  
- 
 Program Educational Objectives/Program Outcomes and Program-Specific Objectives 
  
 Program Educational Objectives -PEOs 
@@ -171,12 +148,9 @@ financial factors
 5. Ability to use and develop modern tools in modeling, simulation and 
 analysis of manufacturing/ management related problems 
  
-
 ## Page 6
 
 FMCD2009 / 2.0 6 
- 
- 
  
 Curriculum Structure-Overall 
  
@@ -239,11 +213,9 @@ Credits 25 25 18 20
 
 FMCD2009 / 2.0 7 
  
- 
 Curriculum Structure-Semester wise 
  
 Semester – I ←Back Table of Contents 
- 
  
 No 
  
@@ -275,17 +247,13 @@ Duration
 7 20EAMP702 PLM Functional Lab PC 0-0-3 3 06 80 20 100 2 hours 
 8 20EAMP703 ERP Functional Lab PC 0-0-3 3 06 80 20 100 2 hours 
            
-           
-           
 TOTAL  14-0-11 25 36     
 
 ## Page 8
 
 FMCD2009 / 2.0 8 
  
- 
 Semester – II ←Back Table of Contents 
- 
  
 No 
  
@@ -323,11 +291,7 @@ TOTAL  13-1-11 25 37
 
 FMCD2009 / 2.0 9 
  
- 
 Semester- III ←Back Table of Contents 
- 
- 
- 
  
 No 
  
@@ -354,9 +318,7 @@ Duration
 2 20EAMW801 Project Work Phase I PJ 0-0-8 8 24 50 50 100 2 hours 
 TOTAL  0-0-18 18 54     
  
- 
 Semester- IV 
- 
  
 No 
  
@@ -387,8 +349,6 @@ TOTAL  0-0-20 20 40
 
 FMCD2009 / 2.0 10 
  
- 
- 
 List of Program Electives ←Back-1Semester 
  
 Sr.No Name of the Course Course Code 
@@ -404,8 +364,6 @@ Sr.No Name of the Course Course Code
 ## Page 11
 
 FMCD2009 / 2.0 11 
- 
- 
  
 Curriculum Content- Course wise ←Back-1Semester 
  
@@ -449,8 +407,6 @@ Technologies, and Devices: Applications of Industry 4.0”, Springer. First Edit
 
 ←Back-1Semester 
 FMCD2009 / 2.0 12 
- 
- 
  
 Program: PG_Advanced Manufacturing Systems Semester: I 
 Course Title: Engineering Data Management Course Code:20EAMC702 
@@ -498,8 +454,6 @@ Association of Swedish Engineering Industries, 2001.
 ←Back-1Semester 
 FMCD2009 / 2.0 13 
  
- 
- 
 Program: PG_Advanced Manufacturing Systems Semester: I 
 Course Title: Engineering Data Management Course Code:20EAMC702 
 L-T-P: 4-0-0 Credits: 4 Contact Hours: 4 
@@ -546,8 +500,6 @@ Association of Swedish Engineering Industries, 2001.
 ←Back-1Semester 
 FMCD2009 / 2.0 14 
  
- 
- 
 Program: PG_Advanced Manufacturing Systems Semester: I 
 Course Title: Product Design & Development Course Code:20EAMC703 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 
@@ -586,8 +538,6 @@ Publications.
 
 ←Back-1Semester 
 FMCD2009 / 2.0 15 
- 
- 
  
 Program: PG_Advanced Manufacturing Systems Semester: I 
 Course Title: Enterprise Resource Planning – I Course Code:20EAMC704 
@@ -637,8 +587,6 @@ Collaborative CRM, Sub-Modules of CRM: Marketing module; Service module; Sales m
 ## Page 16
 
 FMCD2009 / 2.0 16 
- 
- 
  
 HR Perspective: Role of ERP in Human Resource Management: Workflow of ERP human 
 resource mana gement system; Advantages of ERP human resource management system, 
@@ -690,8 +638,6 @@ Converting existing 3D models into 2D drawings with all relevant details, sectio
 
 FMCD2009 / 2.0 17 
  
- 
- 
 Import and export different file formats, manage the Mastership of imported objects, Create a 
 new product structure, Use different sections of the Action bar effectively, Manage the 
 changes in a product structure, Save the product structure in the database 
@@ -735,8 +681,6 @@ Edition, 2003.
 
 FMCD2009 / 2.0 18 
  
- 
- 
 ←Back-1Semester 
  
 Program: PG_Advanced Manufacturing Systems Semester: I 
@@ -764,8 +708,6 @@ References:
 
 ←Back-1Semester 
 FMCD2009 / 2.0 19 
- 
- 
  
 Program: PG_Advanced Manufacturing Systems Semester: I 
 Course Title: Design for Additive Manufacturing Course Code:20EAME701 
@@ -810,8 +752,6 @@ Fabrication Symposium.
 ←Back-1Semester 
 FMCD2009 / 2.0 20 
  
- 
- 
 Program: PG_Advanced Manufacturing Systems Semester: I 
 Course Title: Industrial Robotics Course Code:20EAME702 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 
@@ -849,8 +789,6 @@ References:
 ## Page 21
 
 FMCD2009 / 2.0 21 
- 
- 
  
 ←Back-1Semester 
  
@@ -903,9 +841,6 @@ Operation, Pearson Education.
 
 FMCD2009 / 2.0 22 
  
- 
- 
- 
 ←Back-1Semester 
  
 Program: PG_Advanced Manufacturing Systems Semester: I 
@@ -957,8 +892,6 @@ Chain Management Processes, The International Journal of Logistic Management.
 ←Back 2semester 
 FMCD2009 / 2.0 23 
  
- 
- 
 Program: PG_Advanced Manufacturing Systems Semester: II 
 Course Title: PLM Advanced Course Code:20EAMC705 
 L-T-P: 2-0-0 Credits: 3 Contact Hours: 2 
@@ -995,8 +928,6 @@ Thinking, McGraw-Hill, 2006.
 
 ←Back 2semester 
 FMCD2009 / 2.0 24 
- 
- 
  
 Program: PG_Advanced Manufacturing Systems Semester: II 
 Course Title: Enterprise Resource Planning-II Course Code:20EAMC706 
@@ -1044,8 +975,6 @@ Education Limited.
 ←Back 2semester 
 FMCD2009 / 2.0 25 
  
- 
- 
 Program: PG_Advanced Manufacturing Systems Semester: II 
 Course Title: Project Feasibility and Analysis Course Code:21EAMC701 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 
@@ -1088,8 +1017,6 @@ and Controlling”, Wiley, New York.
 ←Back 2semester 
 FMCD2009 / 2.0 26 
  
- 
- 
 Program: PG_Advanced Manufacturing Systems Semester: II 
 Course Title: Research Methodology Course Code: 20EAMC708 
 L-T-P: 2-1-0 Credits: 3 Contact Hours: 5 
@@ -1111,8 +1038,6 @@ Edition, Pearson Edition, Singapore, 2011.
 
 ←Back 2semester 
 FMCD2009 / 2.0 27 
- 
- 
  
 Program: PG_Advanced Manufacturing Systems Semester: II 
 Course Title: Additive Manufacturing Course Code:20EAME705 
@@ -1157,8 +1082,6 @@ prototyping”, Kluwer Academic Press, 2001.
 
 ←Back 2semester 
 FMCD2009 / 2.0 28 
- 
- 
  
 Program: PG_Advanced Manufacturing Systems Semester: II 
 Course Title: Manufacturing Systems & Automation Course Code:20EAME706 
@@ -1205,8 +1128,6 @@ Programming and Applications”, Mc Graw Hill Book Publications.
 
 ←Back 2semester 
 FMCD2009 / 2.0 29 
- 
- 
  
 Program: PG_Advanced Manufacturing Systems Semester: II 
 Course Title: Manufacturing Execution Systems Course Code:20EAME707 
@@ -1255,8 +1176,6 @@ Product, Smart Manufacturing, Smart Logistics, Smart Services
 
 FMCD2009 / 2.0 30 
  
- 
- 
 10. Business Analytics and Business Intelligence, Blockchain 
 Knowledge Management, Case -Based Reasoning (CBR), Big Data, Decision Analytics,  
 Descriptive Analytics, Predictive Analytics, Prescriptive Analytics, Bitcoin and Blockchain, 
@@ -1295,8 +1214,6 @@ Report Series, No. 957, 2010.
 
 ←Back 2semester 
 FMCD2009 / 2.0 31 
- 
- 
  
 Program: PG_Advanced Manufacturing Systems Semester: II 
 Course Title: Robust Design Optimization Course Code:20EAME708 
@@ -1346,8 +1263,6 @@ Cliffs, New Jersy.
 ←Back 2semester 
 FMCD2009 / 2.0 32 
  
- 
- 
 Program: PG_Advanced Manufacturing Systems Semester: II 
 Course Title: Robust Design Optimization Course Code:20EAME708 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 
@@ -1395,8 +1310,6 @@ Cliffs, New Jersy.
 
 FMCD2009 / 2.0 33 
  
- 
- 
 ←Back 2semester 
 Program: PG_Advanced Manufacturing Systems Semester: II 
 Course Title: PLM Advanced Lab Course Code:21EAMP701 
@@ -1434,8 +1347,6 @@ Edition, 2003.
 ←Back 2semester 
 FMCD2009 / 2.0 34 
  
- 
- 
 Program: PG_Advanced Manufacturing Systems Semester: II 
 Course Title: ERP Technical Lab Course Code: 20EAMP705 
 L-T-P: 0-0-2 Credits: 2 Contact Hours: 4 
@@ -1457,8 +1368,6 @@ SAP Business One Manual.
 
 ←Back 2semester 
 FMCD2009 / 2.0 35 
- 
- 
  
 Program: PG_Advanced Manufacturing Systems Semester: II 
 Course Title:Product Automation Lab Course Code: 20EAMP706 

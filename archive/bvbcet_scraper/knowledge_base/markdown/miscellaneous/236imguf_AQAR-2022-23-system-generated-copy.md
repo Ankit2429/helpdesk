@@ -1,4 +1,5 @@
 # PDF Document: 236imguf_AQAR-2022-23-system-generated-copy
+
 **PDF Source:** https://www.kletech.ac.in/Uploads/image/236imguf_AQAR-2022-23-system-generated-copy.pdf
 
 ## Page 1
@@ -1897,7 +1898,9 @@ Technological University in Karnataka’s Hubballi city to
 strengthen India’s innovation ecosystem, build capabilities among
 students that meet industry needs and promote industry-academia
 collaboration, furthering Samsung’s commitment to its vision of
+
 #PoweringDigitalIndia.
+
 The lab called Samsung Student Ecosystem for Engineered Data
 (SEED) lab, will see students and faculty at KLE Tech work on
 joint research projects with engineers at Samsung R&D Institute,

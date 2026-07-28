@@ -1,11 +1,9 @@
 # PDF Document: 6th_BOG_Minutes
+
 **PDF Source:** https://www.kletech.ac.in/pdf/6th_BOG_Minutes.pdf
 
 ## Page 1
 
- 
- 
- 
 Minutes 
  
 6th Board of Governors Meeting 
@@ -14,14 +12,9 @@ KLE Technological University,
 Hubballi, Karnataka 
 February 17th, 2017 
  
- 
- 
- 
 KLE Technological University 
 (Established under Karnataka Act No.22, 2013) 
  
- 
-
 ## Page 2
 
 ii 
@@ -69,9 +62,6 @@ BOG 6.7 To discuss and approve the University Annual  Report for the academic ye
 13 
 BOG 6.8 Any other subject with the permission of the Chair. 14 
  
- 
- 
-
 ## Page 3
 
 1 
@@ -137,8 +127,6 @@ Resolution 9b: Resolved to authorize the Vice Chanc ellor to open S.B. Account i
 State Bank of Mysore, Unkal Branch in the name of “T he Registrar, KLE Technological 
 University, Hubballi (UG Aided Courses). 
  
- 
- 
 Action Requested: To confirm the minutes of the previous meeting held on 27th October 
 2016. 
  
@@ -147,11 +135,9 @@ Discussion:
 Resolution 6.1: Resolved to confirm the minutes of the previous 
 meeting held on 27th October 2016. 
  
-
 ## Page 5
 
 3 
- 
  
 BOG 
 6.2 
@@ -241,7 +227,6 @@ Resolution 9b: Resolved to authorize the Vice Chanc ellor to open S.B. Account i
 Bank of Mysore, Unkal Branch in the name of “The Re gistrar, KLE Technological University, 
 Hubballi (UG Aided Courses). 
  
- 
 Action Requested: The BOG is requested to confirm the action taken re port on the minutes of the previous meeting held on  27th 
 October 2016 
  
@@ -250,7 +235,6 @@ Discussion:
 Resolution 6.2: Resolved to confirm the action take n report on the minutes of the previous 
 meeting held on 27th October 2016 
  
-
 ## Page 8
 
 6 
@@ -364,10 +348,8 @@ Annexure 3: Fee structure for the year 2016-17
 recommendations of Finance Council of the University and 
 recommend it to the BOG. 
  
- 
 Action Requested: BOG is requested to consider and approve the 
 recommendations of the Executive Council. 
- 
  
 Discussion: 
  
@@ -404,11 +386,9 @@ with AXIS bank, Vidyanagar branch, Hubballi.
 name of Registrar, KLE Technological University 
 with RBL Bank Ltd at Hubballi branch. 
  
-
 ## Page 12
 
 10 
- 
  
 BOG 
 6.4 
@@ -444,7 +424,6 @@ of the UG Minor Degree Programmes approved & recomm ended by both the Academic
 Council and the Executive Council. 
 Discussion: 
  
-
 ## Page 13
 
 11 
@@ -459,11 +438,9 @@ Programmes:
 4. Minor in Innovation and Product Development 
 5. Minor in Robotics 
  
-
 ## Page 14
 
 12 
- 
  
 BOG 
 6.5 
@@ -501,7 +478,6 @@ Action Requested: The BOG is requested to discuss and approve Bachelo r of Scien
  
 Discussion:  
  
-
 ## Page 15
 
 13 
@@ -515,11 +491,9 @@ academic year 2017-18:
  B.Sc (Computer Science – Industry Track) 
  B.Sc (Electronics – Industry Track) 
  
-
 ## Page 16
 
 14 
- 
  
 BOG 
 6.6 
@@ -546,12 +520,9 @@ Executive Council and approved the Strategic Plan
 of the University along with the vision and mission  
 of the University written accordingly.
   
- 
-
 ## Page 17
 
 15 
- 
  
 BOG 
 6.7 
@@ -567,30 +538,20 @@ Action Requested: The BOG is requested to discuss and approve the Uni versity An
 Report for the academic year 2015-16 that has been approved by the Academic Council and 
 the Executive Council. 
  
- 
 Discussion:  
- 
  
 Resolution 6.7: BOG considered the recommendations o f the 
 Executive Council and approved the Annual report 
 of the University for the academic year 2015-16. 
  
- 
- 
- 
- 
-
 ## Page 18
 
 16 
- 
  
 BOG 6.8
  Any other subject with the permission of the Chair 
 NIL 
  
- 
-
 ## Page 19
 
 17 
@@ -610,7 +571,6 @@ Annexure 11: Modifications in B.Sc regulations
 Annexure 12: Strategic Plan of the KLE Technological University 
 Annexure 13: Annual Report for the academic year 2015-16 
  
-
 ## Page 20
 
 [The audited statements of the financial year 2015-16]
@@ -1952,13 +1912,9 @@ GRAND TOTAL 33,500.00 63,500.00 168,500.00 138,500.00
 
 ## Page 66
 
- 
 Minor Degree in 
 Entrepreneurship 
 Syllabus 
- 
- 
- 
  
 Offered by CTIE in collaboration with  
 University of Massachusetts, Lowell, USA 
@@ -1967,12 +1923,10 @@ Course Coordinator:
 Praveen H J, Asst Professor, CTIE 
 KLE Technological University 
  
-  
 Offered by: Centre for Technology Innovation and Entrepreneurship, KLE Technological University, Hubli 
 
 ## Page 67
 
-                                                     
 1 
 Offered by Centre for Technology Innovation and Entrepreneurship (CTIE) 
 Course 1: 
@@ -1997,8 +1951,6 @@ professional aspirations.(11.3.2) L6
 high-tech/high growth entrepreneurship, corporate entrepreneurship and social  
 entrepreneurship.(8.2.1) L4 
  
- 
- 
 Course Code and Title M16E CTC 201 
 Principles of Innovation and Entrepreneurship 
 Pre requisites NA 
@@ -2010,7 +1962,6 @@ Course duration in hours 40 hours
 
 ## Page 68
 
-                                                     
 2 
 Offered by Centre for Technology Innovation and Entrepreneurship (CTIE) 
 Syllabus: 
@@ -2037,14 +1988,8 @@ Part 5: Creating Value (6 hrs)
 16. Business Models and capturing value 
 17. Learning to Manage Innovation and Entrepreneurship 
  
- 
- 
- 
- 
-
 ## Page 69
 
-                                                     
 3 
 Offered by Centre for Technology Innovation and Entrepreneurship (CTIE) 
 Grading 
@@ -2056,7 +2001,6 @@ B Case analysis presentations 30
 C Attendance and Class Participation 10 
   Total 100 
  
-  
 Individual Assignments  
 Each student is responsible for completing 2 written course assignments that will introdu ce them to 
 innovation and entrepreneurship. (Based on interaction with entrepreneurs) 
@@ -2068,15 +2012,8 @@ Cases:
 5. CS Dyson and the bag-less vacuum cleaner 
 6. Arvind Eye Clinics 
  
- 
- 
- 
- 
- 
-
 ## Page 70
 
-                                                     
 4 
 Offered by Centre for Technology Innovation and Entrepreneurship (CTIE) 
 Group Project  
@@ -2104,17 +2041,8 @@ Student resources:
 https://www.researchgate.net/publication/285734411_Innovation_and_Entrepreneurship 
 http://www.innovation-portal.info/online-resources-for-innovation-entrepreneurship/ 
  
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 71
 
-                                                     
 5 
 Offered by Centre for Technology Innovation and Entrepreneurship (CTIE) 
 Course 2: 
@@ -2138,10 +2066,6 @@ innovation and technological change;(5.2.2) L4
 4. Illustrate business development strategies for a specific field of scientific  or 
 technological research.(4.2.2) L4 
  
- 
- 
- 
- 
 Course Code and Title M16E CTC 202 
 Managing Innovation 
 Pre requisites NA 
@@ -2154,7 +2078,6 @@ Course duration in hours 40 hours
 
 ## Page 72
 
-                                                     
 6 
 Offered by Centre for Technology Innovation and Entrepreneurship (CTIE) 
 Syllabus 
@@ -2166,13 +2089,11 @@ PART ONE: Industry Dynamics of Technological Innovation (12 hrs)
 4. Standards Battles and Design dominance 
 5. Timing of entry 
  
- 
 PART TWO: Formulating Technological Innovation strategy (14 hrs) 
 6. Defining the organization’s strategic direction 
 7. Choosing innovation projects 
 8. Collaboration strategies 
 9. Protecting innovation 
- 
  
 PART THREE: Implementing Technological Innovation strategy (14 hrs) 
 10. Organizing for innovation 
@@ -2188,12 +2109,8 @@ B Case analysis presentations 30
 C Attendance and Class Participation 10 
   Total 100 
  
- 
- 
-
 ## Page 73
 
-                                                     
 7 
 Offered by Centre for Technology Innovation and Entrepreneurship (CTIE) 
 Mini Project 
@@ -2205,29 +2122,8 @@ Participation on the team, active involvement in the research component, develop
 and visual presentation aids and participation in the final presentation will all co unt toward each 
 student’s final grade on this assignment.  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 74
 
-                                                     
 8 
 Offered by Centre for Technology Innovation and Entrepreneurship (CTIE) 
 Course 3: 
@@ -2250,9 +2146,6 @@ management guidelines (7.1.1) L5
 4.  As a team identify one idea for  product/Service to work through - Concept generatio n, 
 evaluation, testing, and screening (8.3.3) L6 
  
- 
- 
- 
 Course Code and Title M16E CTC 301 
 New Product and Services Management 
 Pre requisites Business Canvas Model workshop 
@@ -2265,7 +2158,6 @@ Course duration in hours 40 hours
 
 ## Page 75
 
-                                                     
 9 
 Offered by Centre for Technology Innovation and Entrepreneurship (CTIE) 
 Syllabus 
@@ -2302,11 +2194,8 @@ B Case analysis presentations 30
 C Attendance and Class Participation 10 
   Total 100 
  
- 
-
 ## Page 76
 
-                                                     
 10 
 Offered by Centre for Technology Innovation and Entrepreneurship (CTIE) 
  
@@ -2352,11 +2241,8 @@ b) Domino’s
 12 Chap 17 - Implementation of the strategic plan Dodge Nitro 
 13 Chap 18 - Market testing PepsiCo-Pepsi Kona and Pepsi One 
  
- 
-
 ## Page 77
 
-                                                     
 11 
 Offered by Centre for Technology Innovation and Entrepreneurship (CTIE) 
  
@@ -2391,11 +2277,8 @@ Section IV: Market Testing and Entry Strategy (10 hrs)
 Section V. Concluding remarks (4 hrs) 
               To be included in presentation and final paper  
  
- 
-
 ## Page 78
 
-                                                     
 12 
 Offered by Centre for Technology Innovation and Entrepreneurship (CTIE) 
  
@@ -2411,7 +2294,6 @@ Upon successful completion of workshops students must be able to:
 4. Examine the cost of capital and valuation techniques(3.2.1) L4 
 5. Interpret alternative financing choices for entrepreneurial ventures, incl uding debt, 
 equity and crowdfunding(5.2.3) L4 
- 
  
 Course Code and Title M16E CTC 302 
 Finance and Marketing for Emerging Entrepreneurs 
@@ -2439,7 +2321,6 @@ Course 4
 
 ## Page 79
 
-                                                     
 13 
 Offered by Centre for Technology Innovation and Entrepreneurship (CTIE) 
  
@@ -2474,13 +2355,10 @@ Unit 5: Bootstrapping, Business Evaluation and Valuation (Workshop 2)
  Merger and Acquisitions valuation 
  Taxation 
  
-
 ## Page 80
 
-                                                     
 14 
 Offered by Centre for Technology Innovation and Entrepreneurship (CTIE) 
- 
  
 Workshop 1  Workshop 2 
 This workshop shall be held for 2 days 
@@ -2527,10 +2405,8 @@ d) Marketing environment
 e) Marketing in the internet age. 
 f) Marketing Mix 
  
-
 ## Page 81
 
-                                                     
 15 
 Offered by Centre for Technology Innovation and Entrepreneurship (CTIE) 
  
@@ -2561,13 +2437,10 @@ TOTAL 100
  B Plan presentations are evaluated by 7 star mentoring team;  
  Rubrics of Capstone SEE are to be used. 
  
-
 ## Page 82
 
-                                                     
 16 
 Offered by Centre for Technology Innovation and Entrepreneurship (CTIE) 
- 
  
 This course is designed for students with a curiosity and interest in start ing a new business. It 
 helps students to identify, evaluate, and obtain control over opportunities that can be exploited 
@@ -2606,7 +2479,6 @@ Course 5
 
 ## Page 83
 
-                                                     
 17 
 Offered by Centre for Technology Innovation and Entrepreneurship (CTIE) 
  
@@ -2641,10 +2513,8 @@ B Case analysis presentations 30
  B Plan presentations are evaluated by 7 star mentoring team;  
  Rubrics of Capstone SEE are to be used. 
  
-
 ## Page 84
 
-                                                     
 18 
 Offered by Centre for Technology Innovation and Entrepreneurship (CTIE) 
  
@@ -2681,35 +2551,27 @@ Likewise, the audience will be asked how the business model has changed th e wor
 the presentation will have addressed these points so that the audience can easily answer the 
 instructor’s questions.  
  
- 
-
 ## Page 85
 
 [Minor in Computer Science & Engineering] 
  
-
 ## Page 86
 
- 
 FORM 
 ISO 9001: 2008  
 Department of Computer Science & Engineering 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Curriculum Content- Course wise Page 1 of 9 
 Year: 2015-19 
  
-      
 Program: Minor Degree – Computer Science & Engg. 
  
 CIE: Continuous Internal Evaluation SEE: Semester End Examination L: Lecture T: Tutorials P: Practical 
  
 Date:             Program Head 
- 
- 
  
 No Code Course Category L-T-P Credits Contact 
  
@@ -2733,19 +2595,15 @@ TOTAL 9-1-5 15 20 250 250 500
 
 ## Page 87
 
- 
 FORM 
 ISO 9001: 2008  
 Department of Computer Science & Engineering 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Curriculum Content- Course wise Page 1 of 9 
 Year: 2015-19 
- 
-      
  
 Program: Minor Degree   
 Course Title: Data Structures and Algorithms Course Code: M16CSC201 
@@ -2783,19 +2641,16 @@ Dynamic programming, Randomized algorithms, Backtracking algorithms. 04 hrs
 
 ## Page 88
 
- 
 FORM 
 ISO 9001: 2008  
 Department of Computer Science & Engineering 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Curriculum Content- Course wise Page 2 of 9 
 Year: 2015-19 
  
-      
 Text Books: 
 1. Mark Allen Weiss, “Data Structures and Algorithm Analysi s in C”, 2 nd Edition, Pearson 
 Education, 2010. 
@@ -2807,9 +2662,6 @@ Structures in C”, 2nd Edition, Orient Blackswan 2008.
 3. Levitin A., “Introduction to the Design and Analysis of Algo rithms”, 2nd Edition, 
 Pearson Education, 2008. 
   
- 
- 
- 
 Experiments Lab assignments/experiments 
 2-Demonstration Programming Assignments on C language F eatures, structures time 
 complexity calculations 
@@ -2821,19 +2673,15 @@ structure and algorithms.
 
 ## Page 89
 
- 
 FORM 
 ISO 9001: 2008  
 Department of Computer Science & Engineering 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Curriculum Content- Course wise Page 3 of 9 
 Year: 2015-19 
- 
-      
  
 Program: Minor Degree 
 Course Title: Computer Organization and Operating System Course Code: M16CSC202 
@@ -2872,19 +2720,16 @@ File system mounting; File sharing; Protection.  06 hrs
 
 ## Page 90
 
- 
 FORM 
 ISO 9001: 2008  
 Department of Computer Science & Engineering 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Curriculum Content- Course wise Page 4 of 9 
 Year: 2015-19 
  
-      
 Text Books: 
 1. Computer Organization - Carl Hamacher, Zvonks Vranesic, SafeaZaky, 5th Edition, 
 McGraw Hill. 
@@ -2901,19 +2746,15 @@ management, IPC, deadlock management, file system and memory management.
 
 ## Page 91
 
- 
 FORM 
 ISO 9001: 2008  
 Department of Computer Science & Engineering 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Curriculum Content- Course wise Page 5 of 9 
 Year: 2015-19 
- 
-      
  
 Program: Bachelor of Engineering   
 Course Title: Object Oriented Programming with Java Course Code: M16CSC301 
@@ -2955,7 +2796,6 @@ Reference Books:
 1. Kathy Sierra and Bert Bates, Head First JAVA, 2, O’Reilly Media, 2005. 
 2. Object-Oriented Programming with C++, A K Sharma 
  
- 
 Experiments Lab assignments/experiment 
 2-Demonstration Java Basics, NetBeans ID 
 4–Exercise Classes and objects, Inheritance, Exceptions Handling 
@@ -2963,19 +2803,16 @@ Experiments Lab assignments/experiment
 
 ## Page 92
 
- 
 FORM 
 ISO 9001: 2008  
 Department of Computer Science & Engineering 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Curriculum Content- Course wise Page 6 of 9 
 Year: 2015-19 
  
-      
 Program: Minor Degree 
 Course Title: Database Management System Course Code: M16CSC302 
 L-T-P: 2-0-1 Credits: 3 Contact Hrs: 4 hrs/week 
@@ -3012,19 +2849,16 @@ Serializibilty. 06 hrs
 
 ## Page 93
 
- 
 FORM 
 ISO 9001: 2008  
 Department of Computer Science & Engineering 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Curriculum Content- Course wise Page 7 of 9 
 Year: 2015-19 
  
-      
 Text Books: 
 1. Elmasri R. and Navathe S., Fundamentals Database System s, 6 th edition, Pearson 
 Education, 2011. 
@@ -3035,31 +2869,23 @@ Hill, 2007.
 2. Silberschatz A., Korth H.F. and Sudharshan S., Data base System Concepts, 5th Edition, 
 Mc- GrawHill, 2006. 
   
- 
- 
 Experiments Lab assignments/experiment 
 3-Demonstration SQL 
 4-Exercise Set Theory Operators, Cartesian Product, Aggregate Functions, 
 Nested Queries, Joins 
 2-Structured Enquiry Database Design, Complex SQL queries 
  
- 
-
 ## Page 94
 
- 
 FORM 
 ISO 9001: 2008  
 Department of Computer Science & Engineering 
 Document #: 
 FMCD2005  
  
- 
 Rev: 1.0 
 Curriculum Content- Course wise Page 8 of 9 
 Year: 2015-19 
- 
-      
  
 Program: Minor Degree 
 Course Title: Project Course Code: M16CSP303 
@@ -3090,35 +2916,16 @@ Project Report  04
 Presentation skills and Viva-voce 04 
 Total 25 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 95
 
 [Minor in Electronics] 
  
-
 ## Page 96
 
-              
-   
 Earlier known as 
 B. V. B. College of Engineering & Technology 
  
- 
 Minor in Electronics (Eligibility: Mech. Civil, CS, A&R) 
- 
  
 No  Course  Category  L-T-P  Credits  
 Contact 
@@ -3134,7 +2941,6 @@ Design  PSC 2-0-1 3 4
 -- PSE 
 5  Project PSP 0-0-2 2 5 
 TOTAL 10-0-5 15 22 
- 
  
 Scheduled delivery of the courses 
  
@@ -3163,29 +2969,10 @@ discipline
 Project  
 (0-0-2) 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 97
 
-              
-   
 Earlier known as 
 B. V. B. College of Engineering & Technology 
- 
- 
  
 Minor in Electronics Teaching 
 Hours Course Title:   Electronic circuits and Digital System Design Course Code:  
@@ -3242,8 +3029,6 @@ References
 
 ## Page 98
 
-              
-   
 Earlier known as 
 B. V. B. College of Engineering & Technology 
  
@@ -3283,7 +3068,6 @@ Filters –First order Low pass & High pass filters, A ctive filters- Second ord
 pass filters, ADC and DAC Converters. 
 07Hrs 
  
- 
 Unit –III 
 Chapter 6: Nonlinear applications of OPAMP  
 Crossing detectors (ZCD. Comparator), Inverting Sch mitt trigger circuits Mono stable& A-stable 
@@ -3311,8 +3095,6 @@ Education, 2003
 
 ## Page 99
 
-              
-   
 Earlier known as 
 B. V. B. College of Engineering & Technology 
 7. David A. Bell, Operational Amplifiers and Linear Ics. 
@@ -3320,8 +3102,6 @@ B. V. B. College of Engineering & Technology
 
 ## Page 100
 
-              
-   
 Earlier known as 
 B. V. B. College of Engineering & Technology 
  
@@ -3358,8 +3138,6 @@ Industry Case Study: small & large embedded system like Washing Machine, Automot
 applications. 
 06 Hrs 
  
- 
- 
 Chapter 4:Program design and Analysis 
 Components of Embedded system: State machines; stre am oriented programming and circular 
 buffers, queues. Models of programs: data flow grap h and control flow graphs, Assembly, 
@@ -3389,8 +3167,6 @@ Text Books:
 
 ## Page 101
 
-              
-   
 Earlier known as 
 B. V. B. College of Engineering & Technology 
 1. Introduction to Embedded Systems, by Shibu K V 
@@ -3406,12 +3182,8 @@ Morgan Kuffmann
 
 ## Page 102
 
-              
-   
 Earlier known as 
 B. V. B. College of Engineering & Technology 
- 
- 
  
 Minor in Electronics TeachingH
 ours Course Title:   Project Course Code:  
@@ -3429,33 +3201,21 @@ protocol
 Deliverables 
  Complete ES to demonstrate the functionalities of the chosen application 
  
- 
- 
 05Hrs 
 
 ## Page 103
 
 [Minor in Innovation and Product Development] 
  
-
 ## Page 104
 
- 
- 
- 
 MIPD Curriculum structure & Syllabus 2015 – 19 Batch 
  
-  
-              
 P a g e  | 1  
 Earlier known as 
 B. V. B. College of Engineering & Technology 
  
- 
 Board of Studies approved 
- 
- 
- 
  
 Minor  
 in  
@@ -3468,24 +3228,13 @@ Syllabus
 2015 – 19 Batch 
 (2015-16 Admission) 
  
- 
- 
- 
 School of Mechanical Engineering 
 November 30, 2016 
  
- 
- 
-
 ## Page 105
 
- 
- 
- 
 MIPD Curriculum structure & Syllabus 2015 – 19 Batch 
  
-  
-              
 P a g e  | 2  
 Earlier known as 
 B. V. B. College of Engineering & Technology 
@@ -3514,16 +3263,10 @@ Students at the end of this program shall be able to
   6. Develop prototype of a product based on product specifications 
   7. Generate product verification and validation plan 
  
-
 ## Page 106
 
- 
- 
- 
 MIPD Curriculum structure & Syllabus 2015 – 19 Batch 
  
-  
-              
 P a g e  | 3  
 Earlier known as 
 B. V. B. College of Engineering & Technology 
@@ -3538,7 +3281,6 @@ Duration
 evaluation  
 TOTAL 1-1-1 3 5    
  
- 
 Semester: Summer I 
 No Code Course Category L-T-P Credits Contact 
 Hours ISA ESA Total Exam 
@@ -3548,7 +3290,6 @@ Introduction
 PC 1-1-2 4 7 60 40 100 Continuous 
 evaluation 
 TOTAL 1-1-2 4 7    
- 
  
 Semester: V 
 No Code Course Category L-T-P Credits Contact 
@@ -3565,7 +3306,6 @@ PC 1-1-0 2 3 60 40 100 Continuous
 evaluation 
 TOTAL 1-1-0 2 3    
  
- 
 Semester: VI 
 No Code Course Category L-T-P Credits Contact 
 Hours ISA ESA Tota
@@ -3577,7 +3317,6 @@ and Realization
 PC 1-1-2 4 7 60 40 100 Continuous 
 evaluation 
 TOTAL 1-1-2 4 7    
- 
  
 Semester: Summer II- One elective to be chosen 
 No Code Course Category L-T-P Credits Contact 
@@ -3595,31 +3334,22 @@ Introduction to IOT
 PE 1-0-1 2 3 60 40 100 
 TOTAL 1-0-1 2 3    
  
- 
 ISA: In Semester Assessment, ESA: End Semester Assessment,  
 L: Lecture;  T: Tutorials;   P: Practical. 
 BS: Basic Science ES: Engineering Science, PC: Program Core, PE: Program Elective 
  
-
 ## Page 107
 
- 
- 
- 
 MIPD Curriculum structure & Syllabus 2015 – 19 Batch 
  
-  
-              
 P a g e  | 4  
 Earlier known as 
 B. V. B. College of Engineering & Technology 
- 
  
 Assessment Scheme for all MIPD courses (Tentative) 
  
 Minor 1 Minor 2 Assignment Total ISA Course Project – ESA Total  
 20 20 20 60 40 100 
- 
  
 Minors: 
 Students shall attend two minors; Minors could be 
@@ -3627,12 +3357,10 @@ Students shall attend two minors; Minors could be
  Project presentations 
  Written exam 
  
- 
 Tutorials:  
  Students shall apply their learning on real life examples;  
  Use analytical and empirical tools for assignments.  
  Tutorials shall be assessed every week where applicable  
- 
  
 Projects:  
  Multi-disciplinary teams shall work together to achieve project goals.  
@@ -3641,17 +3369,10 @@ Projects:
  Assessment shall be done during the course as well as semester end based on 
 presentation of course project 
  
- 
-
 ## Page 108
 
- 
- 
- 
 MIPD Curriculum structure & Syllabus 2015 – 19 Batch 
  
-  
-              
 P a g e  | 5  
 Earlier known as 
 B. V. B. College of Engineering & Technology 
@@ -3684,8 +3405,6 @@ Collaboration strategies, Protecting innovation
  
 3 hours 
  
- 
- 
 3 hours 
 Innovation Process and Methods 
 TRIZ – Theory of innovative problem solving, ToC – Theory of Constraints, Managing 
@@ -3695,8 +3414,6 @@ Innovation Tools
 Fore-sighting, S-curve for technology and consumer, Time cone and contextual map, 
 Functional Analysis 
 4 hours 
- 
- 
  
 2 hours 
 References 
@@ -3709,13 +3426,8 @@ Heidelberg. 2011: 19–43
 
 ## Page 109
 
- 
- 
- 
 MIPD Curriculum structure & Syllabus 2015 – 19 Batch 
  
-  
-              
 P a g e  | 6  
 Earlier known as 
 B. V. B. College of Engineering & Technology 
@@ -3751,11 +3463,6 @@ Competition value chain analysis, Competitive strategies for products
  
 4 hours 
  
- 
- 
- 
- 
- 
 2 hours 
 VoC to Product Specifications  
 QFD methods to develop product specification from VoC 
@@ -3768,23 +3475,14 @@ X = Manufacturability, Assembly, Quality, Cost, Sustainability methodology;
 Knowledge based engineering design techniques 
 4 hours 
  
- 
- 
- 
- 
 2 hours 
 References:  
 Product Management by Donald Lehmann, and Russell  
 
 ## Page 110
 
- 
- 
- 
 MIPD Curriculum structure & Syllabus 2015 – 19 Batch 
  
-  
-              
 P a g e  | 7  
 Earlier known as 
 B. V. B. College of Engineering & Technology 
@@ -3821,25 +3519,15 @@ communication skills,
 Project and Program Management (Stage-gate process) 
 4 hours 
  
- 
- 
- 
 2 hours 
 References 
 The Standard for Program Management – PMI  
 Finance Basics by Harvard Business Review 
  
- 
-
 ## Page 111
 
- 
- 
- 
 MIPD Curriculum structure & Syllabus 2015 – 19 Batch 
  
-  
-              
 P a g e  | 8  
 Earlier known as 
 B. V. B. College of Engineering & Technology 
@@ -3880,9 +3568,6 @@ Technology management methods, Technology as a competitive tool, Critical Compon
 Development Process, Technology Development Process 
 2 hours 
  
- 
- 
- 
 2 hours 
 References 
 Product Design and Development by Karl Ulrich and Steven Eppinge 
@@ -3892,13 +3577,8 @@ Innovation in Product Design: From CAD to Virtual Prototyping by Monica Bordegon
 
 ## Page 112
 
- 
- 
- 
 MIPD Curriculum structure & Syllabus 2015 – 19 Batch 
  
-  
-              
 P a g e  | 9  
 Earlier known as 
 B. V. B. College of Engineering & Technology 
@@ -3933,16 +3613,12 @@ Quality Engineering Using Robust Design by Madhav S. Phadke
 Design and Analysis of Experiments, 8th Edition by Douglas C. Montgomery 
 Systems Engineering Principles and Practice by Alexander Kossiakoff 
  
-
 ## Page 113
 
 [Minor in Robotics] 
  
-
 ## Page 114
 
- 
- 
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi 580031. Karnataka (India) 
 Tel. : +91 ‐ 836 ‐ 2378123  Fax : +91 ‐ 836 ‐ 2374985. www.kletech.ac.in 
  
@@ -3960,38 +3636,8 @@ L+P 
 6  Project  2
   Total  16
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 115
 
- 
- 
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi 580031. Karnataka (India) 
 Tel. : +91 ‐ 836 ‐ 2378123  Fax : +91 ‐ 836 ‐ 2374985. www.kletech.ac.in 
  
@@ -4033,36 +3679,19 @@ Text Book (List of books as mentioned in the approved syllabus)
  
 1. Sabri Centikunt, Mechatronics with experiments, Second edition, Wiley, 2015 
  
- 
 References 
  
 1. W. Bolton, Mechatronics: Electronic control systems in mechanical and electrical engineering, 4th Edition, 
 Pearson, 2010 
   
- 
-  
- 
-  
- 
- 
- 
- 
- 
- 
-
 ## Page 116
 
- 
- 
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi 580031. Karnataka (India) 
 Tel. : +91 ‐ 836 ‐ 2378123  Fax : +91 ‐ 836 ‐ 2374985. www.kletech.ac.in 
  
 Earlier known as 
 B. V. B. College of Engineering & Technology 
  
- 
-  
- 
 Course Code:     Course Title:  Kinematics of Machinery 
 L-T-P: 3-0-0 Credits:3 Contact Hrs: 3 
 CIE Marks: 50 SEE Marks: 50 Total Marks: 100 
@@ -4112,18 +3741,13 @@ Text Book:
  David H Myszka, “Machines and mechanisms”, Prentice Hall. 
  Kenneth J Waldron, Gary L.Kinzel, “Kinematics, Dynamics, & Design of Machinery”, John Wiley & Sons India 
 
-
 ## Page 117
 
- 
- 
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi 580031. Karnataka (India) 
 Tel. : +91 ‐ 836 ‐ 2378123  Fax : +91 ‐ 836 ‐ 2374985. www.kletech.ac.in 
  
 Earlier known as 
 B. V. B. College of Engineering & Technology 
- 
- 
  
 Course Content 
                                                                      
@@ -4166,8 +3790,6 @@ Inverse Jacobian, Static analysis. 
 
 ## Page 118
 
- 
- 
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi 580031. Karnataka (India) 
 Tel. : +91 ‐ 836 ‐ 2378123  Fax : +91 ‐ 836 ‐ 2374985. www.kletech.ac.in 
  
@@ -4211,14 +3833,8 @@ McGraw‐Hill Book Co., 
 4. John J. Craig, “Introduction to Robotics‐Mechanics & Control”, Pearson Education, Inc., 2005. 
 5. T. Bajd, M. Mihelj, J. Lenarcic, A. Stanovnik, M. Munih., “Robotics”, Springer, Vol 43. 
  
- 
- 
- 
-
 ## Page 119
 
- 
- 
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi 580031. Karnataka (India) 
 Tel. : +91 ‐ 836 ‐ 2378123  Fax : +91 ‐ 836 ‐ 2374985. www.kletech.ac.in 
  
@@ -4263,21 +3879,16 @@ Load,  Sharp_Unsharp Masking,  Shifts Introduced by Median  Filt ers, 
 Shifts,  The Role of Filters in Industrial Applications of Vision,  Color in Image Filtering 
 5 
 
-
 ## Page 120
 
- 
- 
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi 580031. Karnataka (India) 
 Tel. : +91 ‐ 836 ‐ 2378123  Fax : +91 ‐ 836 ‐ 2374985. www.kletech.ac.in 
  
 Earlier known as 
 B. V. B. College of Engineering & Technology 
  
- 
 Machine Learning 
     Syllabus 
- 
  
 Chapter 1: Introduction to Machine learning 
  Introduction to machine learning Examples of Machine Learning Applications, machine   learning 
@@ -4315,12 +3926,8 @@ Press. 
 2. Ulrich Nehmzow “Mobile Robotics: A Practical Introduction”, 2nd edition,  Springer 
 3. E. R. DAVIES  “ Computer and Machine Vision: Theory, Algorithms,  Practicalities”, 4th Edition,  2012  Elsevier . 
  
-
-
 ## Page 121
 
- 
- 
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi 580031. Karnataka (India) 
 Tel. : +91 ‐ 836 ‐ 2378123  Fax : +91 ‐ 836 ‐ 2374985. www.kletech.ac.in 
  
@@ -4346,8 +3953,6 @@ MLib: The Machine Learning Library.
   The R Basics, Simple Linear Regression, Accessing R from Java, R and Hadoop 
 3hrs 
  
- 
- 
 Text-Book: 
 1. Jason Bell, Machine Learning Hands-On for Developers and Technical Professionals, John    
 Wiley & Sons, Inc. 
@@ -4355,39 +3960,25 @@ Wiley & Sons, Inc.
 3. Stuart J. Russell and Peter Norvig, Artificial Intelligence ,A Modern Approach, 2, Pearson 
 Education, 2010. 
  
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 122
 
 Scheme and Syllabi of  
 B.Sc (Computer Science – Industry Track) 
  
-
 ## Page 124
 
- 
 FORM 
 ISO 9001: 2008 – KLE Tech 
 School of Computer Science & Engineering 
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise Page 1 of  
 Year: 2017 -18 
- 
- 
-         
- 
  
 Program: B.Sc in Computer Science – Industrial Trac k 
 Course Title: Professional Communication Course Code: 17BSCA101 
@@ -4421,34 +4012,20 @@ Text Books
 Reference Books:  
 1. Martin Hewings- Advanced English Grammar, Cambridge University Press 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 125
 
- 
 FORM 
 ISO 9001: 2008 – KLE Tech 
 School of Computer Science & Engineering 
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise Page 1 of  
 Year: 2017 -18 
- 
- 
-         
- 
  
 Program: B.Sc CS-IT 
 Course Title: Mathematics Course Code: 17SCSC103  
@@ -4489,24 +4066,20 @@ Reference Books:
 the Computing Sciences, 4th Ed, TATA McGraw-Hill Edition 2007.  
 4. Jiawei Han, Micheline Kamber, Data Mining: Concep ts and Techniques, Morgan Kaufmann Publishers, 2005. 
   
-
 ## Page 126
 
- 
 FORM 
 ISO 9001: 2008 – KLE Tech 
 School of Computer Science & Engineering 
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise Page 1 of  
 Year: 2017 -18 
- 
- 
-         
  
 Program: B.Sc CS-IT 
 Course Title: Programming in C Course Code:17BSCC101 
@@ -4551,25 +4124,20 @@ Reference Books:
 1. H. Schildt. C: The Complete Reference, 4 th Edition. TMH Edition, 2000. 
 2. Kanetkar Y., Let us C, BPB Pub., New Delhi, 1999 . 
  
-  
-
 ## Page 127
 
- 
 FORM 
 ISO 9001: 2008 – KLE Tech 
 School of Computer Science & Engineering 
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise Page 1 of  
 Year: 2017 -18 
- 
- 
-         
  
 Program: B.Sc CS-IT 
 Course Title: Computer Organization & Architecture Course Code:17BSCC102 
@@ -4608,25 +4176,20 @@ Reference Books:
 1. Computer Organization: Carl Hamacher, Zvonko Vranes ic, Safwat Zaky, McGraw-Hill Higher 
 Education; 5 edition  20011. 
  
-  
-
 ## Page 128
 
- 
 FORM 
 ISO 9001: 2008 – KLE Tech 
 School of Computer Science & Engineering 
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise Page 1 of  
 Year: 2017 -18 
- 
- 
-         
  
 Program: B.Sc CS-IT 
 Course Title: Operating System Course Code:17BSCC103 
@@ -4665,25 +4228,20 @@ Reference Books:
 2005 
 2. Gary Nutt, Operating System, 3, Pearson Education, 2004 
  
-  
-
 ## Page 129
 
- 
 FORM 
 ISO 9001: 2008 – KLE Tech 
 School of Computer Science & Engineering 
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise Page 1 of  
 Year: 2017 -18 
- 
- 
-         
  
 Program: B.Sc CS-IT 
 Course Title: Programming in C Lab Course Code:17BSCL101 
@@ -4701,26 +4259,20 @@ Programming exercises on
 5. Arrays  
 6. Strings and File I/O 
  
-  
-
 ## Page 130
 
- 
 FORM 
 ISO 9001: 2008 – KLE Tech 
 School of Computer Science & Engineering 
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise Page 1 of  
 Year: 2017 -18 
- 
- 
-         
- 
  
 Program: B.Sc CS-IT 
 Course Title: Data Structures and Algorithms Course Code:17BSCC104 
@@ -4755,25 +4307,20 @@ Reference Books:
 2. Aron M. Tenenbaum, et. al, Data Structures using C, 3, PHI, 2006 
 3. Levitin A, Introduction to the Design and Analysis of Algorithms, 2, Pearson Ed, 2008 
  
-  
-
 ## Page 131
 
- 
 FORM 
 ISO 9001: 2008 – KLE Tech 
 School of Computer Science & Engineering 
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise Page 1 of  
 Year: 2017 -18 
- 
- 
-         
  
 Program: B.Sc CS-IT 
 Course Title: Software Engineering Course Code:17BSCC105 
@@ -4810,25 +4357,20 @@ Reference Books:
 1. “Software Engineering”, Ian Somerville 
 2. Software Engineering-A practitioner’s approach”,  Roger Pressman  
  
-  
-
 ## Page 132
 
- 
 FORM 
 ISO 9001: 2008 – KLE Tech 
 School of Computer Science & Engineering 
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise Page 1 of  
 Year: 2017 -18 
- 
- 
-         
  
 Program: B.Sc CS-IT 
 Course Title: Computer Networking Course Code:17BSCC106 
@@ -4849,7 +4391,6 @@ Protocols: One-bit, Go Back N and Selective Repeat
 Data Link Layer: Media Access Control: ALOHA, Slott ed ALOHA, CSMA, Collision free protocols; 
 Random Access Protocols, Token Passing  Protocols; Token Ring 
  
- 
 Unit III 
 Introduction to LAN technologies, Network topologies, Subnet, Addressing schemes. 
  
@@ -4859,24 +4400,20 @@ Text Books
 1. Behrouz A Forouzan, “Data Communications and Net working”, McGraw Hill.2014 
 Reference Books: 
   
-
 ## Page 133
 
- 
 FORM 
 ISO 9001: 2008 – KLE Tech 
 School of Computer Science & Engineering 
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise Page 1 of  
 Year: 2017 -18 
- 
- 
-         
  
 Program: B.Sc CS-IT 
 Course Title: Data Structures and Algorithms Lab Course Code:17BSCL102 
@@ -4895,21 +4432,16 @@ Programming exercises on
     
 7. Searching,  
  
- 
-
 ## Page 134
 
 Scheme and Syllabi of B.Sc (Electronics – Industry Track) 
  
-
 ## Page 135
 
- 
 FORM 
 ISO 9001: 2008 – BVBCET 
 School of  Electronics  
 Document #:  FMCD2003 
- 
  
 Rev: 1.0 
 Title:  Curriculum Structure-Overall 
@@ -4917,8 +4449,6 @@ B.Sc Electronics- Industrial Track                                              
 Page  1 of 1 
 Year: 2017-20 
  
- 
-  
 Course with credits and codes 
 I II III IV V VI 
 Professional Communication 
@@ -4979,7 +4509,6 @@ CADENCE SKILL Programming
 0-0-2 
 17SECI302 
  
- 
 Basic Electrical & Electronics 
 4-2-0 
 17SECC103 
@@ -5013,33 +4542,24 @@ Circuit Design & Simulation
 0-0-2 
 17SECI202 
   
-    
 Credits 21 21 21 21 22 24 
 
 ## Page 136
 
-  
- 
 FORM 
 ISO 9001: 2008 – BVBCET 
 School of Electronics  
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise 
 B.Sc in Electronics-Industrial Track 
 Page 2 of 10 
 Year: 2017 - 18 
- 
- 
- 
- 
- 
- 
- 
  
 Course Title: Professional Communication Course Code:  17SECH101 
 L-T-P:2-0-0 Credits: 2 Contact Hrs: 2 Hrs/week 
@@ -5076,15 +4596,14 @@ References:
 
 ## Page 137
 
-  
- 
 FORM 
 ISO 9001: 2008 – BVBCET 
 School of Electronics  
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise 
@@ -5092,13 +4611,7 @@ B.Sc in Electronics-Industrial Track
 Page 3 of 10 
 Year: 2017 - 18 
  
- 
- 
- 
- 
- 
 B.Sc ( Electronics-Industrial Track)  
- 
  
 Teaching 
 Hours 
@@ -5136,26 +4649,20 @@ References:
 
 ## Page 138
 
-  
- 
 FORM 
 ISO 9001: 2008 – BVBCET 
 School of Electronics  
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise 
 B.Sc in Electronics-Industrial Track 
 Page 4 of 10 
 Year: 2017 - 18 
- 
- 
- 
- 
- 
  
 B.Sc ( Electronics-Industrial Track) 
 Mathematics  Course Code: 17SECC102  
@@ -5198,32 +4705,22 @@ References :
 2. Calculus I, Jerrold Marsden and Alan Weinstein, Springer-Verlag,2e,1986. 
 3. K.N. HariBhat & D.GaneshRao, Digital Communications: A simplified Approach, 2nd Ed, Sanguine,2005, Bangalore 
  
- 
- 
-
 ## Page 139
 
-  
- 
 FORM 
 ISO 9001: 2008 – BVBCET 
 School of Electronics  
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise 
 B.Sc in Electronics-Industrial Track 
 Page 5 of 10 
 Year: 2017 - 18 
- 
- 
- 
- 
- 
- 
  
 B.Sc ( Electronics-Industrial Track)
  Teaching 
@@ -5263,26 +4760,20 @@ Analysis, Super mesh,  Star – Delta Transformation.
 
 ## Page 140
 
-  
- 
 FORM 
 ISO 9001: 2008 – BVBCET 
 School of Electronics  
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise 
 B.Sc in Electronics-Industrial Track 
 Page 6 of 10 
 Year: 2017 - 18 
- 
- 
- 
- 
- 
  
  Unit - III  
 Chapter 5: Network Theorems        
@@ -5308,51 +4799,22 @@ House (1998).
 5. Serway and Jewett, “Physics for Scientists and Engin eers-with Modern Physics”, 9 th Edition, CENGAGE learning. 
 2014  
  
- 
- 
- 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 141
 
-  
- 
 FORM 
 ISO 9001: 2008 – BVBCET 
 School of Electronics  
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise 
 B.Sc in Electronics-Industrial Track 
 Page 7 of 10 
 Year: 2017 - 18 
- 
- 
- 
- 
- 
  
 B.Sc ( Electronics-Industrial Track) Teaching 
 Hours Course Title: Microcontroller & Application Course Code : 17SECC104 
@@ -5366,7 +4828,6 @@ Architectures, Harvard & Von-Neumann CPU architecture, C omputer software.
 The 8051 Architecture: Introduction, Architecture of 80 51, Pin diagram of 8051, Memory organization, Externa l Memory 
 interfacing, Stacks. 
  
- 
 08Hrs 
  
 Chapter 2:  
@@ -5375,7 +4836,6 @@ Register addressing, Direct addressing, Indirect addres sing, relative addressin
 Indexed addressing, Bit inherent addressing, bit direc t addressing. Instruction set: Instruction timings, 8 051 instructions: 
 Data transfer instructions, Arithmetic instructions, Lo gical instructions, Branch instructions, Subroutine instructions, Bit 
 manipulation instruction. . 
- 
  
 10 Hrs 
 Unit II 
@@ -5396,7 +4856,6 @@ timers/counters, programming 8051 timers in assembly and C .
  
 08 Hrs 
  
- 
 Chapter 6:  
 8051 Serial Communication: Data communication, Basic s of Serial Data Communication, 8051 Serial Communica tion, 
 connections to RS-232, Serial communication Programming in assembly and C. 
@@ -5407,29 +4866,22 @@ TEXT BOOKS:
 Mazidi and Janice Gillespie Mazidi and Rollin D. McKinlay; PHI, 2006 / Pearson, 2006 
 2. The 8051 Microcontroller By Kenneth J. Ayala 3 
  
-
 ## Page 142
 
-  
- 
 FORM 
 ISO 9001: 2008 – BVBCET 
 School of Electronics  
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise 
 B.Sc in Electronics-Industrial Track 
 Page 8 of 10 
 Year: 2017 - 18 
- 
- 
- 
- 
- 
  
 B.Sc ( Electronics-Industrial Track) Teaching 
 Hours Course Title: Electronic Circuits & Devices Course C ode: 17SECC105 
@@ -5442,9 +4894,6 @@ Introduction to BJT
 Bipolar Junction Transistor: BJT Construction and Op eration: Biasing, Transistor Symbols, Operation, Earl y 
 Effect.  
  
- 
- 
- 
 04 Hrs 
 Chapter 2: 
 MOSFETs  structure and physical operation:  
@@ -5454,7 +4903,6 @@ complementary MOS or CMOS, operating the mos transist or in the sub threshold re
 characteristics: circuit symbol, the id vs vds characteristics, finite output resistance in saturation, characteristics 
 of the p-channel MOSFET, the role of the substrate-t he body effect, temperature effects, breakdown and inpu t 
 protection. MOSFET circuits at DC. 
- 
  
 08 Hrs 
 Chapter 3: 
@@ -5468,9 +4916,6 @@ Implications on gain and Bandwidth
  
 12 Hrs 
  
- 
- 
- 
 Chapter 5: Differential Amplifiers 08hrs 
 Unit III 
 Chapter 5: 
@@ -5480,28 +4925,22 @@ Differentiator, Numerical Examples.
  
 10 Hrs 
  
-
 ## Page 143
 
-  
- 
 FORM 
 ISO 9001: 2008 – BVBCET 
 School of Electronics  
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise 
 B.Sc in Electronics-Industrial Track 
 Page 9 of 10 
 Year: 2017 - 18 
- 
- 
- 
- 
  
 Text Books 
 1.  A.S. Sedra & K.C. Smith, "Microelectronic Circuits", 5th Edition, Oxford Univ. Press, 1999. 
@@ -5514,32 +4953,22 @@ References
 6. J. Millman & A. Grabel, "Microelectronics"-2nd  edition, McGraw Hill, 1987. 
 7. Behzad Razavi, “Fundamentals of Microelectronics”, reprint 2015 Wiley publications. 
  
- 
- 
-
 ## Page 144
 
-  
- 
 FORM 
 ISO 9001: 2008 – BVBCET 
 School of Electronics  
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise 
 B.Sc in Electronics-Industrial Track 
 Page 10 of 10 
 Year: 2017 - 18 
- 
- 
- 
- 
- 
- 
  
 B.Sc ( Electronics-Industrial Track) Teaching 
 Hours Course Title:  Basic Digital Design Course Code: 17SECC106 
@@ -5678,8 +5107,6 @@ Compulsory Courses(AEC)3%
 Skill Enhancement Courses 7% 04 02 08 
 Total   130 
  
- 
-
 ## Page 147
 
 [Strategic Plan of the KLE Technological University] 
@@ -5689,13 +5116,8 @@ Total   130
 KLE Technological University, Hubballi 
 Strategic Plan: 2016- 2020 
  
- 
 Overview 
  
- 
- 
-
-
 ## Page 149
 
 Introduction 
@@ -5727,7 +5149,6 @@ heritage of BVB College as one of the best engineering college comb ined with br
 KLE Society are the starting points for KLE Technological University to emerge as a University with 
 a national distinction.   
   
-
 ## Page 150
 
 Vice-Chancellor’s foreword 
@@ -5760,31 +5181,22 @@ propel KLE Tech. towards the bright future and compete successfully with the bes
 Your energy, commitment, and ideas are key to our success. I look forward to your ongoing 
 support as we continue on this exciting journey. 
  
- 
 Yours sincerely 
- 
  
 Dr. Ashok Shettar 
 Vice-Chancellor 
   
-
 ## Page 151
 
 KLE Technological University  
 Hubballi 
 Strategic Plan: 2016- 2020 
  
- 
- 
- 
- 
-  
 VISION 
 MISSION 
 
 ## Page 152
 
- 
 Vision 
  
 KLE Technological University will be a national lea der in Higher 
@@ -5808,10 +5220,8 @@ competitiveness and quality of life.
 As a unified community of faculty, staff and students, we work together with the 
 spirit of collaboration and partnership to accomplish our mission. 
  
-
 ## Page 153
 
- 
 Theme 1 
 Outstanding Student Experience 
 The KLE Technological University will offer learning experience that stimulates, 
@@ -5844,7 +5254,6 @@ c. Continually engage employers / industry in curriculum design
 d. Evolve Strong verticals that are connected to the industry trend and 
 employment opportunities. 
  
-
 ## Page 154
 
 2. Learning experience 
@@ -5891,7 +5300,6 @@ c) Identify the means by which information that results from assessment can
 be used the effectively in course design, curriculum review, and program 
 development 
   
-
 ## Page 156
 
 Theme 2 
@@ -5929,7 +5337,6 @@ disciplinary areas of research & development, that will allow us to compete
 successfully for large funding opportunities and provide the ability to create 
 innovative solutions to societal needs. 
  
-
 ## Page 157
 
 a. Promote and support interdisciplinary research and development 
@@ -5968,7 +5375,6 @@ postgraduate students in University research programs.
 c. Evolve innovative enrollment strategies to recruit and support full time 
 researchers and personnel from industry. 
  
-
 ## Page 158
 
 Theme 3 
@@ -6002,10 +5408,8 @@ b. Encourage and support the students to take up projects that have distinctive
 feature of community engagement and benefit the local and regional 
 communities. 
  
-
 ## Page 159
 
- 
 Institute-Society 
 Actively engage in advancement of the region through leadership role in the 
 community and emerge as a model for university-society partnership. 
@@ -6020,7 +5424,6 @@ applied research and collaboration with appropriate organizations.
 c. Support educational institutions and students in the Region through 
 outreach programs and services to enhance quality of education.
  
- 
 Entrepreneurship 
 Create entrepreneurial ecosystem driven by innovation and collaboration for the 
 growth of industries and employment opportunities in the region. 
@@ -6032,13 +5435,8 @@ c. Promote and support innovation and research by students and faculty
 leading to solutions that address wide range of societal needs and also create 
 value for the new enterprises.  
  
- 
-  
-
 ## Page 160
 
- 
- 
 Enablers 
  
 People 
@@ -6067,11 +5465,8 @@ faculty to enhance the relevance of the programs being offered.
  Ensure all staff appointed to research enabled positions have a PhD or a 
 Research Development Plan as a condition of employment. 
  
-  
-
 ## Page 161
 
- 
 Infrastructure 
 To provide modern, effective and efficient infrastructure and services that supports 
 stimulating working and learning environment of the University. 
@@ -6134,39 +5529,16 @@ the social and economic development of the region.
  Tie up with national and international professional bodies to constantly 
 learn and adapt world-wide best practices in educational practice. 
  
- 
- 
-
 ## Page 163
 
 [Annual Report for the Academic Year 2015-16] 
 
 ## Page 164
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 KLE TECHNOLOGICAL UNIVERSITY 
 ANNUAL REPORT 
 2015-16 
  
- 
- 
- 
- 
- 
-
-
-## Page 165
-
-  
-
 ## Page 166
 
 KLE TECHNOLOGICAL UNIVERSITY 
@@ -6290,7 +5662,6 @@ as management seats on the basis of academic records of qualifying examinations.
 For post graduate programs, Post Graduate Common Entrance Test (PGCET) conducted by 
 Karnataka examination authority, is used for the selection of students. 
   
-
 ## Page 169
 
 Undergraduate Programs 
@@ -6330,7 +5701,6 @@ Sl.No. Programme
 8 Social Sciences 
 9 Applied Sciences 
  
-
 ## Page 170
 
 Student admissions for the year 2015-16 – UG 
@@ -6362,7 +5732,6 @@ Student Strength
 A total of 2840 students are studying at the Universit y of which 2326 are UG students, 482 
 are PG students and 32 are Research Scholars. 
   
-
 ## Page 171
 
 UG 2016 Examinations 
@@ -6389,8 +5758,6 @@ Mechanical Sciences Average CGPA 7.83 7.23
 Electrical Sciences Average CGPA 7.29 7.89 
 Architecture Overall Average CGPA 6.89 6.84 
  
-  
-
 ## Page 172
 
 PG 2016 Examinations 
@@ -6413,8 +5780,6 @@ MBA Overall Average CGPA 6.96 6.85
 MCA Overall Average CGPA 6.92 6.90 
 MTech. Overall Average CGPA 7.33 7.56 
  
-  
-
 ## Page 173
 
 Research and Innovation 
@@ -6506,8 +5871,6 @@ Curriculum intervention:
 Board of studies of every program is having at least two senior members from Industries like 
 Microsoft, GE, Tata motors, TCS, Samsung, Sankalp etc. 
  
-  
-
 ## Page 175
 
 MoU’s Signed: 
@@ -6544,7 +5907,6 @@ Details of existing smart class facilities
  15 classrooms are equipped with lecture capturing systems.  
  Video conference facilities at 2 conference halls.  
   
-
 ## Page 176
 
 Events Organized 

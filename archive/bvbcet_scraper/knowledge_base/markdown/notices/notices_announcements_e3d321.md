@@ -2,21 +2,12 @@
 
 **Source URL:** https://www.kletech.ac.in/happenings/notices-announcements
 
-
-# Notices & Announcements
-
-- Home
-- Happenings
-- Notices & Announcements
-
-
 ### December 2024
 
 - Dec 19, 2024
 Submission for online exam application for UG/PG Silver Jubilee examinations - 2025
 
 Dec 19, 2024
-
 
 ### August 2023
 
@@ -25,14 +16,12 @@ Class Commencement for Odd Semester for KLETech Students 2023-24
 
 Aug 12, 2023
 
-
 ### July 2023
 
 - Jul 15, 2023
 Career Opportunities in Law and Corporate Sector Internships, Retainershis and Employment
 
 Jul 15, 2023
-
 
 ### June 2023
 
@@ -41,14 +30,12 @@ Jul 15, 2023
 
 Jun 23, 2023
 
-
 ### May 2023
 
 - May 04, 2023
 Even Semester 2022-23 – Re-scheduled Commencement Date
 
 May 04, 2023
-
 
 ### March 2023
 
@@ -61,14 +48,12 @@ Mar 17, 2023
 
 Mar 12, 2023
 
-
 ### February 2023
 
 - Feb 15, 2023
 New state of matter in one-dimensional quantum gas
 
 Feb 15, 2023
-
 
 ### December 2022
 
@@ -77,14 +62,12 @@ National Constitutional Moot Court Competition 2022- 23
 
 Dec 19, 2022
 
-
 ### November 2022
 
 - Nov 09, 2022
 Subsequent Year Admissions and Class Commencement 2022
 
 Nov 09, 2022
-
 
 ### October 2022
 
@@ -93,14 +76,12 @@ Postponement of ‘Law of Evidence’ Exam
 
 Oct 03, 2022
 
-
 ### August 2022
 
 - Aug 04, 2022
 Inviting applications for ‘Small Research Projects Grant’
 
 Aug 04, 2022
-
 
 ### April 2022
 
@@ -113,14 +94,12 @@ Apr 23, 2022
 
 Apr 16, 2022
 
-
 ### March 2022
 
 - Mar 21, 2022
 Gold Medals Conferred to KLELC Students
 
 Mar 21, 2022
-
 
 ### February 2022
 
@@ -137,7 +116,6 @@ Feb 02, 2022
 
 Feb 01, 2022
 
-
 ### January 2022
 
 - Jan 29, 2022
@@ -148,7 +126,6 @@ KSLU Examination New Circular
 Jan 29, 2022
 
 Jan 05, 2022
-
 
 ### December 2021
 
@@ -161,7 +138,6 @@ Dec 02, 2021
 
 Dec 01, 2021
 
-
 ### November 2021
 
 - Nov 18, 2021
@@ -169,14 +145,12 @@ Important Notice – Exams & Admissions
 
 Nov 18, 2021
 
-
 ### October 2021
 
 - Oct 11, 2021
 Upcoming Exam Time Table – Oct, Nov 2021
 
 Oct 11, 2021
-
 
 ### September 2021
 
@@ -189,14 +163,12 @@ Sep 17, 2021
 
 Sep 16, 2021
 
-
 ### August 2021
 
 - Aug 13, 2021
 National Moot Court Competition 2021
 
 Aug 13, 2021
-
 
 ### July 2021
 
@@ -205,7 +177,6 @@ Remaining Examination Time Table – March 2021
 
 Jul 05, 2021
 
-
 ### June 2021
 
 - Jun 09, 2021
@@ -213,14 +184,12 @@ National Conference on Law and Privacy
 
 Jun 09, 2021
 
-
 ### April 2021
 
 - Apr 21, 2021
 Remaining Exams Postponed
 
 Apr 21, 2021
-
 
 ### March 2021
 
@@ -241,14 +210,12 @@ Mar 17, 2021
 
 Mar 16, 2021
 
-
 ### February 2021
 
 - Feb 11, 2021
 Postponement of Examination
 
 Feb 11, 2021
-
 
 ### January 2021
 
@@ -269,7 +236,6 @@ Jan 04, 2021
 
 Jan 04, 2021
 
-
 ### September 2020
 
 - Sep 29, 2020
@@ -280,7 +246,6 @@ Admission Date Extension Circular
 Sep 29, 2020
 
 Sep 09, 2020
-
 
 ### August 2020
 
@@ -305,14 +270,12 @@ Aug 19, 2020
 
 Aug 08, 2020
 
-
 ### July 2019
 
 - Jul 10, 2019
 Commencement of Classes for the Odd Semester 2019-20
 
 Jul 10, 2019
-
 
 ### April 2019
 
@@ -321,14 +284,12 @@ National Conference 2019
 
 Apr 08, 2019
 
-
 ### March 2019
 
 - Mar 30, 2019
 3rd Surana and Surana Moot Court Competition
 
 Mar 30, 2019
-
 
 ### April 2018
 
@@ -341,7 +302,6 @@ Apr 18, 2018
 
 Apr 13, 2018
 
-
 ### November 2017
 
 - Nov 13, 2017
@@ -353,14 +313,12 @@ Nov 13, 2017
 
 Nov 11, 2017
 
-
 ### October 2017
 
 - Oct 28, 2017
 National Law Conference on “Media – Hopes and Despairs”
 
 Oct 28, 2017
-
 
 ### October 2016
 
@@ -373,7 +331,6 @@ Oct 21, 2016
 
 Oct 01, 2016
 
-
 ### August 2016
 
 - Aug 01, 2016
@@ -381,14 +338,12 @@ Commencement of Classes for the academic year 2016-17
 
 Aug 01, 2016
 
-
 ### July 2016
 
 - Jul 23, 2016
 New Campus Inagurated by Shri. Arun Jaitley
 
 Jul 23, 2016
-
 
 ### May 2016
 
@@ -409,14 +364,12 @@ May 16, 2016
 
 May 16, 2016
 
-
 ### April 2016
 
 - Apr 01, 2016
 K.L.E. Society’s Law College -Top ranked Law College in India – GHRDC Law School Survey 2016
 
 Apr 01, 2016
-
 
 ### March 2016
 
@@ -437,14 +390,12 @@ Mar 10, 2016
 
 Mar 04, 2016
 
-
 ### August 2015
 
 - Aug 29, 2015
 Inauguration of college activities and signing of MOU with NLSIU
 
 Aug 29, 2015
-
 
 ### June 2015
 
@@ -457,7 +408,6 @@ Jun 25, 2015
 
 Jun 18, 2015
 
-
 ### March 2015
 
 - Mar 12, 2015
@@ -465,16 +415,11 @@ Academic Excellence !
 
 Mar 12, 2015
 
-
-### Filter by Year
-
-
 ## 2024
 
 2024
 
 - December
-
 
 ## 2023
 
@@ -488,7 +433,6 @@ Mar 12, 2015
 - March
 - February
 
-
 ## 2022
 
 2022
@@ -501,488 +445,3 @@ Mar 12, 2015
 - March
 - February
 - January
-
-- Connect
-- Programs
-- Admissions
-- Menu
-
-Connect
-
-Programs
-
-Admissions
-
-Menu
-
-
-- Admission Process
-- FAQ
-- Scholarships
-
-
-#### Admission Help
-
-+91-836-2378103
-
-- B V. Bhoomaraddi Campus
-
-                                    Hubballi
-                                    Campus
-
-
-
-                                            Undergraduate
-                                        
-
-
-
-Undergraduate
-
-
-B E Civil Engineering
-B E Mechanical Engineering
-B E Electronics & Communication Engineering
-B E Computer Science and Engineering
-B E Computer Science and Engineering (Artificial Intelligence)
-B E Electrical & Electronics Engineering
-B E Automation & Robotics
-B E Biotechnology
-B E Electronics Engineering (VLSI Design & Technology)
-Bachelor of Architecture
-Bachelors of Business Administration
-Bachelor of Computer Applications (BCA)
-Bachelor of Commerce
-Bachelor of Commerce Integrated with ACCA
-Bachelor of Science (Fashion and Apparel Design)
-B.B.A. LL.B. (Hons.)
-LL.B. (Hons.)
-B.Sc. in Hotel Management and Catering Technology (B.Sc. HMCT)
-
-
-
-
-                                            Postgraduate
-                                        
-
-
-
-Postgraduate
-
-
-M.Tech Structural Engineering
-M.Tech Design Engineering
-M.Tech Advanced Manufacturing Systems
-M.Tech VLSI Design And Embedded Systems
-M.Tech Computer Science and  Engineering
-LLM - Constitutional Law
-LLM - IPR
-Master of Business Administration
-Master of Computer Application
-
-
-
-
-                                            Research
-                                        
-
-
-
-Research
-
-
-Ph.D. in Mechanical Engineering
-Ph.D. in Electronics & Communication Engineering
-Ph.D. in Computer Science & Engineering
-Ph.D. in Electrical & Electronics Engineering
-Ph.D. in Biotechnology
-Ph.D. in Civil Engineering
-Ph. D. in Architecture
-Ph. D. in Management Studies & Research
-Ph. D. in Chemistry
-Ph. D. in Mathematics
-Ph. D. in Physics
-Ph.D. In Humanities and Social Studies
-Ph. D. in Automation & Robotics
-MS Civil Engineering
-MS (Engg.) by Research in Visual Intelligence (CSE)
-MS (Engg.) by Research (ECE)
-MS Mechanical  Engineering
-MS Management Studies & Research
-MS Biotechnology
-MS Electrical & Electronics Engineering
-MS Automation and Robotics Engineering
-Centre for Engineering Education Research
-- Dr. M. S. Sheshgiri Campus
-
-                                    Belagavi
-                                    Campus
-
-
-
-                                            Undergraduate
-                                        
-
-
-
-Undergraduate
-
-
-B E Civil Engineering
-B E Mechanical Engineering
-B E Electronics & Communication Engineering
-B E Computer Science and Engineering
-B E Computer Science and Engineering (Artificial Intelligence)
-B E Electrical & Electronics Engineering
-B E Biomedical Engineering
-B E Chemical Engineering
-Bachelors of Business Administration
-Bachelor of Computer Applications (BCA)
-Bachelor of Commerce
-Bachelor of Commerce Integrated with ACCA
-Bachelor of Computer Applications (Honours)
-
-
-
-
-                                            Postgraduate
-                                        
-
-
-
-Postgraduate
-
-
-M.Tech Structural Engineering
-Master of Business Administration
-Master of Computer Application
-
-
-
-
-                                            Research
-                                        
-
-
-
-Research
-
-
-Ph.D. in Mechanical Engineering
-Ph.D. in Electronics & Communication Engineering
-Ph.D. in Computer Science & Engineering
-Ph.D. in Electrical & Electronics Engineering
-Ph.D. in Civil Engineering
-Ph. D. in Management Studies & Research
-- KLE Law Campus
-
-                                    Bengaluru
-                                    Campus
-
-
-
-                                            Undergraduate
-                                        
-
-
-
-Undergraduate
-
-
-B.A. LL.B
-B.B.A. LL.B
-B.Com. LL.B
-LL.B
-
-
-
-
-                                            Postgraduate
-                                        
-
-
-
-Postgraduate
-
-
-LLM - Constitutional Law
-LLM - IPR
-
-
-
-
-                                            Ph.D.
-                                        
-
-
-
-Ph.D.
-
-
-Ph.D. in Law
-
-- Undergraduate
-                                        
-
-
-
-Undergraduate
-
-
-B E Civil Engineering
-B E Mechanical Engineering
-B E Electronics & Communication Engineering
-B E Computer Science and Engineering
-B E Computer Science and Engineering (Artificial Intelligence)
-B E Electrical & Electronics Engineering
-B E Automation & Robotics
-B E Biotechnology
-B E Electronics Engineering (VLSI Design & Technology)
-Bachelor of Architecture
-Bachelors of Business Administration
-Bachelor of Computer Applications (BCA)
-Bachelor of Commerce
-Bachelor of Commerce Integrated with ACCA
-Bachelor of Science (Fashion and Apparel Design)
-B.B.A. LL.B. (Hons.)
-LL.B. (Hons.)
-B.Sc. in Hotel Management and Catering Technology (B.Sc. HMCT)
-- Postgraduate
-                                        
-
-
-
-Postgraduate
-
-
-M.Tech Structural Engineering
-M.Tech Design Engineering
-M.Tech Advanced Manufacturing Systems
-M.Tech VLSI Design And Embedded Systems
-M.Tech Computer Science and  Engineering
-LLM - Constitutional Law
-LLM - IPR
-Master of Business Administration
-Master of Computer Application
-- Research
-                                        
-
-
-
-Research
-
-
-Ph.D. in Mechanical Engineering
-Ph.D. in Electronics & Communication Engineering
-Ph.D. in Computer Science & Engineering
-Ph.D. in Electrical & Electronics Engineering
-Ph.D. in Biotechnology
-Ph.D. in Civil Engineering
-Ph. D. in Architecture
-Ph. D. in Management Studies & Research
-Ph. D. in Chemistry
-Ph. D. in Mathematics
-Ph. D. in Physics
-Ph.D. In Humanities and Social Studies
-Ph. D. in Automation & Robotics
-MS Civil Engineering
-MS (Engg.) by Research in Visual Intelligence (CSE)
-MS (Engg.) by Research (ECE)
-MS Mechanical  Engineering
-MS Management Studies & Research
-MS Biotechnology
-MS Electrical & Electronics Engineering
-MS Automation and Robotics Engineering
-Centre for Engineering Education Research
-
-- Undergraduate
-
-- B E Civil Engineering
-- B E Mechanical Engineering
-- B E Electronics & Communication Engineering
-- B E Computer Science and Engineering
-- B E Computer Science and Engineering (Artificial Intelligence)
-- B E Electrical & Electronics Engineering
-- B E Automation & Robotics
-- B E Biotechnology
-- B E Electronics Engineering (VLSI Design & Technology)
-- Bachelor of Architecture
-- Bachelors of Business Administration
-- Bachelor of Computer Applications (BCA)
-- Bachelor of Commerce
-- Bachelor of Commerce Integrated with ACCA
-- Bachelor of Science (Fashion and Apparel Design)
-- B.B.A. LL.B. (Hons.)
-- LL.B. (Hons.)
-- B.Sc. in Hotel Management and Catering Technology (B.Sc. HMCT)
-
-- Postgraduate
-
-- M.Tech Structural Engineering
-- M.Tech Design Engineering
-- M.Tech Advanced Manufacturing Systems
-- M.Tech VLSI Design And Embedded Systems
-- M.Tech Computer Science and  Engineering
-- LLM - Constitutional Law
-- LLM - IPR
-- Master of Business Administration
-- Master of Computer Application
-
-- Research
-
-- Ph.D. in Mechanical Engineering
-- Ph.D. in Electronics & Communication Engineering
-- Ph.D. in Computer Science & Engineering
-- Ph.D. in Electrical & Electronics Engineering
-- Ph.D. in Biotechnology
-- Ph.D. in Civil Engineering
-- Ph. D. in Architecture
-- Ph. D. in Management Studies & Research
-- Ph. D. in Chemistry
-- Ph. D. in Mathematics
-- Ph. D. in Physics
-- Ph.D. In Humanities and Social Studies
-- Ph. D. in Automation & Robotics
-- MS Civil Engineering
-- MS (Engg.) by Research in Visual Intelligence (CSE)
-- MS (Engg.) by Research (ECE)
-- MS Mechanical  Engineering
-- MS Management Studies & Research
-- MS Biotechnology
-- MS Electrical & Electronics Engineering
-- MS Automation and Robotics Engineering
-- Centre for Engineering Education Research
-
-- Undergraduate
-                                        
-
-
-
-Undergraduate
-
-
-B E Civil Engineering
-B E Mechanical Engineering
-B E Electronics & Communication Engineering
-B E Computer Science and Engineering
-B E Computer Science and Engineering (Artificial Intelligence)
-B E Electrical & Electronics Engineering
-B E Biomedical Engineering
-B E Chemical Engineering
-Bachelors of Business Administration
-Bachelor of Computer Applications (BCA)
-Bachelor of Commerce
-Bachelor of Commerce Integrated with ACCA
-Bachelor of Computer Applications (Honours)
-- Postgraduate
-                                        
-
-
-
-Postgraduate
-
-
-M.Tech Structural Engineering
-Master of Business Administration
-Master of Computer Application
-- Research
-                                        
-
-
-
-Research
-
-
-Ph.D. in Mechanical Engineering
-Ph.D. in Electronics & Communication Engineering
-Ph.D. in Computer Science & Engineering
-Ph.D. in Electrical & Electronics Engineering
-Ph.D. in Civil Engineering
-Ph. D. in Management Studies & Research
-
-- Undergraduate
-
-- B E Civil Engineering
-- B E Mechanical Engineering
-- B E Electronics & Communication Engineering
-- B E Computer Science and Engineering
-- B E Computer Science and Engineering (Artificial Intelligence)
-- B E Electrical & Electronics Engineering
-- B E Biomedical Engineering
-- B E Chemical Engineering
-- Bachelors of Business Administration
-- Bachelor of Computer Applications (BCA)
-- Bachelor of Commerce
-- Bachelor of Commerce Integrated with ACCA
-- Bachelor of Computer Applications (Honours)
-
-- Postgraduate
-
-- M.Tech Structural Engineering
-- Master of Business Administration
-- Master of Computer Application
-
-- Research
-
-- Ph.D. in Mechanical Engineering
-- Ph.D. in Electronics & Communication Engineering
-- Ph.D. in Computer Science & Engineering
-- Ph.D. in Electrical & Electronics Engineering
-- Ph.D. in Civil Engineering
-- Ph. D. in Management Studies & Research
-
-- Undergraduate
-                                        
-
-
-
-Undergraduate
-
-
-B.A. LL.B
-B.B.A. LL.B
-B.Com. LL.B
-LL.B
-- Postgraduate
-                                        
-
-
-
-Postgraduate
-
-
-LLM - Constitutional Law
-LLM - IPR
-- Ph.D.
-                                        
-
-
-
-Ph.D.
-
-
-Ph.D. in Law
-
-- Undergraduate
-
-- B.A. LL.B
-- B.B.A. LL.B
-- B.Com. LL.B
-- LL.B
-
-- Postgraduate
-
-- LLM - Constitutional Law
-- LLM - IPR
-
-- Ph.D.
-
-- Ph.D. in Law
-
-- +91-836-2378103
-- +91-836-2378105
-- +91-836-2378106
-
-info@kletech.ac.in
-
-coe@kletech.ac.in  (Controller of Examinations)

@@ -1,4 +1,5 @@
 # PDF Document: 8-Sem-ESA-Time-table-May-2023
+
 **PDF Source:** https://www.kletech.ac.in/pdf/8-Sem-ESA-Time-table-May-2023.pdf
 
 ## Page 1
@@ -23,7 +24,6 @@ Management Theory and Practice
 15EHSO402
 17/05/2023 
 (Wednesday) 
-
 
 ## Page 2
 
@@ -53,7 +53,6 @@ Controller of Examinations
 Natural Language Processing (18ECSE403)
 C# Programming and . NET (18ECSE409)
 
-
 ## Page 3
 
 Nano Composite Materials 
@@ -79,7 +78,6 @@ Construction Quality Management
 (Wednesday) 
 Controller of Examinations 
 
-
 ## Page 4
 
 Prepared By:
@@ -98,7 +96,6 @@ Artificial Intelligence
 17/05/2023 
 (Wednesday) 
 Controller of Examinations 
-
 
 ## Page 5
 
@@ -129,7 +126,6 @@ Controller of Examinations
 (Friday) 
 MEMS 
 18EECE403
-
 
 ## Page 6
 

@@ -1,49 +1,20 @@
 # PDF Document: mtech-cs-curriculum-2023-25
+
 **PDF Source:** https://www.kletech.ac.in/pdf/mtech-cs-curriculum-2023-25.pdf
 
 ## Page 1
 
- 
- 
 FMCD2009 / 2.0 
  1 
- 
- 
- 
- 
-  
- 
  
 Curriculum Structure and Curriculum Content for the Academic year: 2023-25 
 School: Computer Science and Engineering 
 Program: M.Tech-Computer Science and Engineering  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 2
 
- 
- 
 FMCD2009 / 2.0 
  2 
- 
- 
  
 Table of Contents 
 Vision and Mission of KLE Technological University 3 
@@ -55,23 +26,14 @@ Curriculum Structure-Semester wise 7
 List of Program Electives 12 
 Curriculum Content- Course wise 13 
  
- 
- 
- 
- 
-  
-
 ## Page 3
 
- 
- 
 FMCD2009 / 2.0 
  3 
  
 Vision and Mission Statements of the KLE Technological University 
  
 Vision 
- 
  
 KLE Technological University will be a national leader in Higher 
 Education –recognised globally for innovative culture, outstanding 
@@ -99,24 +61,16 @@ competitiveness and quality of life.
 As a unified community of faculty, staff and students, we work together with 
 the spirit of collaboration and partnership to accomplish our mission. 
  
- 
-
 ## Page 4
 
- 
- 
 FMCD2009 / 2.0 
  4 
 Vision and Mission Statements of the Department/School 
- 
  
 Department Vision 
 The KLE Tech - School of Computer Science will excel and lead in education, 
 research and innovation in computing and information technology, 
 contributing to the evolving needs of the world we live in. 
- 
- 
- 
  
 Department Mission 
  To foster a dynamic academic environment with cutting edge 
@@ -128,24 +82,8 @@ innovations leading to the future of computing technologies.
  To collaborate within and beyond discipline to create soluti ons that 
 benefit humanity and society. 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 5
 
- 
- 
 FMCD2009 / 2.0 
  5 
 Consolidated View of Program Educational Objectives (PEOs) /Program Outcomes (POs) and Program-Specific Objectives (PSOs) 
@@ -192,13 +130,8 @@ professional practicehaving an understanding of
 responsibility towards society with 
 sustainabledevelopment for life time. 
  
- 
- 
-
 ## Page 6
 
- 
- 
 FMCD2009 / 2.0 
  6 
 Curriculum Structure-Overall 
@@ -252,8 +185,6 @@ Credits 23 25 20 20
 
 ## Page 7
 
- 
- 
 FMCD2009 / 2.0 
  7 
 Curriculum Scheme - Semester wise 
@@ -262,7 +193,6 @@ Semester: I
 Note: L: Lecture T: Tutorials P: Practical, ISA: In Semester Assessment ESA: End Semester Assessment 
  
 Date:                                                                                                            P G Coordinator                                                                   Head, SoCSE 
- 
  
 No. Code Course Category L-T-P Credits 
 Contact 
@@ -283,8 +213,6 @@ TOTAL
 
 ## Page 8
 
- 
- 
 FMCD2009 / 2.0 
  8 
 Semester - II  
@@ -292,7 +220,6 @@ Note: L: Lecture T: Tutorials P: Practical, ISA: In Semester Assessment ESA: End
 Programme Elective 
  
 Date                                                                                                         P G Coordinator                                                                       Head, SoCSE 
- 
  
 No. Code Course Category L-T-P Credits Contact  
 Hours ISA ESA Total Exam 
@@ -314,23 +241,13 @@ TOTAL 25(14-0-11) 25 36 430 370   800
 
 ## Page 9
 
- 
- 
 FMCD2009 / 2.0 
  9 
 Semester: III 
  
 Note: L: Lecture T: Tutorials P: Practical,ISA: In Semester Assessment ESA: End Semester Assessment PJ-Project 
  
- 
- 
- 
 Date:                                                                                     P G Coordinator                                                                      Head SoCSE 
- 
- 
- 
- 
- 
  
 No Code Course Category L-T-P Credits Contact  
 Hours ISA ESA Total Exam 
@@ -343,8 +260,6 @@ TOTAL 20
 
 ## Page 10
 
- 
- 
 FMCD2009 / 2.0 
  10 
 Semester: IV 
@@ -352,12 +267,7 @@ Semester: IV
 Note: L: Lecture T: Tutorials P: Practical,ISA: In Semester Assessment ESA: End Semester Assessment PJ-Project, PC-Programme Core,  
 PE-Programme Elective 
  
- 
 Date:                                                                                                             P G Coordinator                                                                     Head, SoCSE 
- 
- 
- 
- 
  
 No Code Course Category L-T-P Credits Contact  
 Hours ISA ESA Total Exam 
@@ -367,43 +277,14 @@ TOTAL 0-0-20 20 40
 
 ## Page 11
 
- 
- 
 FMCD2009 / 2.0 
  11 
 Consolidated Credits of all semesters: 
 Semester I II III IV Total 
 Credits 23 25 20 20 88 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 12
 
- 
- 
 FMCD2009 / 2.0 
  12 
 List of Program Electives 
@@ -412,33 +293,8 @@ Sr. No Name of the Course Course Code
 2.  Block-chain and Distributed Ledgers 23ECSE701 
 3.  High Performance Computing 21ECSE717 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 13
 
- 
- 
 FMCD2009 / 2.0 
  13 
 Curriculum Content- Course wise 
@@ -482,8 +338,6 @@ Simple Linear Regression, Properties of Least square Estimators and
 
 ## Page 14
 
- 
- 
 FMCD2009 / 2.0 
  14 
 Estimation of Variances, Transformations to a Straight line, Correlation, 
@@ -527,8 +381,6 @@ sessions/batch
 
 ## Page 15
 
- 
- 
 FMCD2009 / 2.0 
  15 
 Program: Master of Technology Semester I 
@@ -577,8 +429,6 @@ Outlier Detection.
 
 ## Page 16
 
- 
- 
 FMCD2009 / 2.0 
  16 
  Chapter- 6:  Social Network Analysis  
@@ -622,8 +472,6 @@ and machine learning.
 
 ## Page 17
 
- 
- 
 FMCD2009 / 2.0 
  17 
 Program: Master of Technology  Semester I 
@@ -677,11 +525,8 @@ Morgan Kaufmann (Elsevier), 2011.
 
 ## Page 18
 
- 
- 
 FMCD2009 / 2.0 
  18 
- 
  
 References:  
 1. Behrouz Forouzan, Data Communications and Networking, 5th Ed, McGraw 
@@ -724,8 +569,6 @@ the network. 01
 
 ## Page 19
 
- 
- 
 FMCD2009 / 2.0 
  19 
 i. Implementation of a given application using socket 
@@ -735,42 +578,10 @@ performance analysis using the wireshark tool.
 12.  Develop a mobile application for Bluetooth Client – Server 
 communication using Mit app inventor. 02 
  
- 
- 
- 
                 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 20
 
- 
- 
 FMCD2009 / 2.0 
  20 
 Program: Master of Technology Semester I 
@@ -820,11 +631,8 @@ References:
 1. Getting Started with Raspberry Pi, Matt Richardson & Shawn Wallace, O'Reilly (SPD), 
 2014, ISBN: 9789350239759  
  
-
 ## Page 21
 
- 
- 
 FMCD2009 / 2.0 
  21 
 Evaluation Scheme 
@@ -877,8 +685,6 @@ and  Sensors through website using NODE MCU / Raspberry Pi
 
 ## Page 22
 
- 
- 
 FMCD2009 / 2.0 
  22 
 Program: Master of Technology Semester I 
@@ -925,8 +731,6 @@ Consistency Models, Consistency Protocols.
 
 ## Page 23
 
- 
- 
 FMCD2009 / 2.0 
  23 
 7 Fault Tolerance, Security: Introduction To Fault Tolerance, Process 
@@ -959,15 +763,8 @@ ISA-2 15
 Lab Activity 20 
 Total 50 
  
- 
- 
- 
- 
-
 ## Page 24
 
- 
- 
 FMCD2009 / 2.0 
  24 
 Laboratory Plan 
@@ -989,25 +786,10 @@ and record Locking
 6.  Process synchronization and deadlock 2 
 7.  Memory management 2 
  
- 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 25
 
- 
- 
 FMCD2009 / 2.0 
  25 
 Program: Master of Technology Semester I 
@@ -1037,8 +819,6 @@ Taran Technologies Private Limited, 2016
        2009. Introduction to Algorithms, Third Edition (3rd ed.). The MIT Press 
 3. Data Structures Using C and C++ -- Langsam and Tanenbaum, PHI Publication. 
  
- 
- 
 Evaluation:  
 Students Assessment through ISA (80%) + ESA (20%)      
  
@@ -1050,8 +830,6 @@ ESA (20%) - 20
 
 ## Page 26
 
- 
- 
 FMCD2009 / 2.0 
  26 
 Experiment wise Plan  
@@ -1104,16 +882,11 @@ data structures
  Recognize suitable advanced data structure to implement 
 course project 
  
- 
- 
- 
 Chapter 3 
 Category: Exercise Total Weightage: 20 No. of lab 
 
 ## Page 27
 
- 
- 
 FMCD2009 / 2.0 
  27 
 sessions: 2 
@@ -1176,8 +949,6 @@ Chapter 2
 
 ## Page 28
 
- 
- 
 FMCD2009 / 2.0 
  28 
 20 Implement of given 
@@ -1227,13 +998,8 @@ Chapter 3
  
 Back 
  
- 
- 
-
 ## Page 29
 
- 
- 
 FMCD2009 / 2.0 
  29 
 Program: Master of Technology Semester I 
@@ -1262,11 +1028,6 @@ Press, 3rd Edition 2010
 Evaluation:  
 Students Assessment through ISA (80%) + ESA (20%)      
  
- 
- 
- 
- 
- 
 ISA (80%)  Assessment Weightage in Marks 
 Exercises (4-Evaluation ) 50 
 Structured Enquiry(1-evaluations) 30 
@@ -1275,8 +1036,6 @@ ESA (20%)  20
 
 ## Page 30
 
- 
- 
 FMCD2009 / 2.0 
  30 
 Experiment wise Plan 
@@ -1326,8 +1085,6 @@ Pandas
 
 ## Page 31
 
- 
- 
 FMCD2009 / 2.0 
  31 
  Learning Outcomes:  
@@ -1368,21 +1125,14 @@ theory
 Machine learning model 
 2 30  
  
-  
- 
 1. Given a task, derive a machine learning model 
 2. Analyse and compare models and algorithms with respect to 
 their complexity, performance and applicability. 
  
- 
  Back 
  
- 
-
 ## Page 32
 
- 
- 
 FMCD2009 / 2.0 
  32 
 II SEMSTER 
@@ -1420,8 +1170,6 @@ completeness.
 
 ## Page 33
 
- 
- 
 FMCD2009 / 2.0 
  33 
 Reference Books: 
@@ -1439,7 +1187,6 @@ ISA-1 15
 ISA-2 15 
 Lab activity 20 
 Total 50 
- 
  
 Laboratory Plan 
  
@@ -1460,13 +1207,8 @@ given problem
  
  Back 
  
- 
- 
-
 ## Page 34
 
- 
- 
 FMCD2009 / 2.0 
  34 
 Program: Master of Technology Semester II 
@@ -1513,8 +1255,6 @@ virtualization, Security risks posed by shared images, Security risks
 
 ## Page 35
 
- 
- 
 FMCD2009 / 2.0 
  35 
 posed by a management OS, Xoar - breaking the monolithic design of 
@@ -1559,8 +1299,6 @@ scheduling and security mechanisms
 
 ## Page 36
 
- 
- 
 FMCD2009 / 2.0 
  36 
 Program: Master of Technology Semester II 
@@ -1606,11 +1344,8 @@ Term Frequency —Inverse Document Frequency (TFIDF),  Categorizing
 Documents  by  Topics, Determining Sentiments. 
 04hrs 
  
-
 ## Page 37
 
- 
- 
 FMCD2009 / 2.0 
  37 
 Text Books (List of books as mentioned in the approved syllabus)  
@@ -1651,8 +1386,6 @@ ii. People
 
 ## Page 38
 
- 
- 
 FMCD2009 / 2.0 
  38 
 iii. Technology 
@@ -1673,26 +1406,8 @@ Data Visualization(3M)
  
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 39
 
- 
- 
 FMCD2009 / 2.0 
  39 
 Program: Master of Technology   Semester II 
@@ -1742,8 +1457,6 @@ Text Books:
 
 ## Page 40
 
- 
- 
 FMCD2009 / 2.0 
  40 
 Edition, Pearson, 2017. 
@@ -1778,17 +1491,11 @@ topics of cryptography and network security
  
  Back
  
- 
- 
-
 ## Page 41
 
- 
- 
 FMCD2009 / 2.0 
  41 
  
-  
 Program: Master of Technology   Semester II 
 Course Title: Image and Video Processing Course Code: 21ECSC713   
 L-T-P: 2-0-1 Credits: 3 Contact Hrs:  4 hrs/week 
@@ -1827,8 +1534,6 @@ object tracking and articulated object tracking
 
 ## Page 42
 
- 
- 
 FMCD2009 / 2.0 
  42 
 Text Books:  
@@ -1872,8 +1577,6 @@ Video segmentation
 
 ## Page 43
 
- 
- 
 FMCD2009 / 2.0 
  43 
 Program: Master of Technology   Semester II 
@@ -1913,8 +1616,6 @@ References
 
 ## Page 44
 
- 
- 
 FMCD2009 / 2.0 
  44 
 Evaluation Scheme  
@@ -1943,16 +1644,8 @@ sessions
  
  Back 
  
- 
- 
- 
- 
- 
-
 ## Page 45
 
- 
- 
 FMCD2009 / 2.0 
  45 
 Program: Master of Technology   Semester II 
@@ -2001,11 +1694,8 @@ Edition, Inverted Forest Publishing, 2019
 4. Matt Zand, Xun Wu, Mark Anthony Morris, “Hands -On Smart Contract Development 
 with Hyperledger Fabric V2”, 1st Edition, O'Reilly Media, 2018. 
  
-
 ## Page 46
 
- 
- 
 FMCD2009 / 2.0 
  46 
 Evaluation Parameters for Course Project 
@@ -2064,14 +1754,8 @@ Metamask/Myetherwallet
  
 Back 
  
- 
- 
- 
-
 ## Page 47
 
- 
- 
 FMCD2009 / 2.0 
  47 
 Program: Master of Technology Semester II 
@@ -2113,11 +1797,8 @@ Implementation
 6.  Review 3 01 
    Back 
  
-
 ## Page 48
 
- 
- 
 FMCD2009 / 2.0 
  48 
 Program: Master of Technology Semester II 
@@ -2156,8 +1837,6 @@ Total 100
 
 ## Page 49
 
- 
- 
 FMCD2009 / 2.0 
  49 
 Experiment wise Plan  
@@ -2179,32 +1858,21 @@ theory
 and HTML5 basics 
  2 0.00  
  
-  
- 
 5. Use HTML tags attributes and CSS3 to build a 
 web page.  
 6. Write JavaScript programs. 
 Chapter 1    
 3 Angular2 2 0.00  
  
-  
- 
 1. Use basic building blocks of Angular apps – 
 Models, Views,   Controllers, Services and Filters 
 Chapter2    
 6 NodeJS 2 0.00  
  
-  
- 
 1. Handle HTTP requests with Node’s API  
 2. Accept user input from forms  
 Chapter2    
 10 Ruby on Rails 2 0.00  
- 
- 
- 
- 
- 
  
 1. Describe core principles of Ruby on Rails.  
 2. Use basic building blocks of Rails framework– 
@@ -2213,8 +1881,6 @@ Chapter 3
 
 ## Page 50
 
- 
- 
 FMCD2009 / 2.0 
  50 
 Category: Exercise Total Weightage: 40.00 No. of lab sessions: 4 
@@ -2239,8 +1905,6 @@ The students should be able to:
  
 5 Angular2 1 10.00  
  
-  
- 
 1. Use basic building blocks of Angular apps – 
 Models, Views, Controllers, Services and Filters. 
 2. Structure sites with routes services and Filters.  
@@ -2248,15 +1912,11 @@ Models, Views, Controllers, Services and Filters.
 Chapter 2    
 8 NodeJS 1 10.00  
  
-  
- 
 1. Handle HTTP requests with Node’s API.   
 2. Build RESTful web service and Filters.   
 3. Accept user input from forms and Filters . 
 Chapter 2 
 12 Ruby on Rails 1 10.00  
- 
-  
  
 1. Develop web applications using core principles 
 of Ruby on Rails.  
@@ -2266,8 +1926,6 @@ Chapter 3
 
 ## Page 51
 
- 
- 
 FMCD2009 / 2.0 
  51 
 Category: Structured Enquiry Total Weightage: 40.00 No. of lab sessions: 2 
@@ -2286,8 +1944,6 @@ Experiment with the
 theory 
 9 NodeJS, Angular2 1 20.00  
  
-  
- 
 1. Develop a web application using framework  
 2. Identify their own learning issues and to work on 
 those issues  
@@ -2296,28 +1952,15 @@ server-side framework.
 Chapter 2 
 13 Ruby on Rails 1 20.00  
  
-  
- 
 1. Develop a web application using framework  
 2. Identify their own learning issues and to work on 
 those issues.  
 Chapter 3   
  
- 
  Back 
  
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 52
 
- 
- 
 FMCD2009 / 2.0 
  52 
 Semester III 
@@ -2363,17 +2006,12 @@ experiments  08
 6.  Review 3 01 
    Back 
  
-
 ## Page 53
 
- 
- 
 FMCD2009 / 2.0 
  53 
  
 Program: Master of Technology  Semester III 
- 
- 
  
  Course Title  : Minor Project  Course Code: 21ECSW802 
  L-T-P: 0-0-8  Credits: 08  Contact Hrs: 24 hrs/week 
@@ -2402,17 +2040,8 @@ ISA (50) Assessment Weightage in Marks
 ESA (50) -- 50 
  Total 100 
  
- 
- 
- 
- 
- 
- 
-
 ## Page 54
 
- 
- 
 FMCD2009 / 2.0 
  54 
 Laboratory Plan 
@@ -2430,34 +2059,10 @@ Implementation
 5.  Result discussion, report and paper writing  36 
 6.  Review 3 01 
  
- 
  Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 55
 
- 
- 
 FMCD2009 / 2.0 
  55 
 Semester IV 
@@ -2489,18 +2094,8 @@ ISA (50) Assessment Weightage in Marks
 ESA (50) -- 50 
  Total 100 
  
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 56
 
- 
- 
 FMCD2009 / 2.0 
  56 
 Laboratory Plan 
@@ -2520,12 +2115,5 @@ Implementation
 5.  Result discussion, report and paper writing  54 
 6.  Review 3 01 
  
- 
- 
 Back 
- 
- 
- 
- 
- 
  

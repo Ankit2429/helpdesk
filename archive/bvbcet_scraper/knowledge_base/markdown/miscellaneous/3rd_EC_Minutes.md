@@ -1,15 +1,10 @@
 # PDF Document: 3rd_EC_Minutes
+
 **PDF Source:** https://www.kletech.ac.in/pdf/3rd_EC_Minutes.pdf
 
 ## Page 1
 
 1 | P a g e 
- 
- 
- 
- 
- 
- 
  
 Minutes 
  
@@ -19,16 +14,9 @@ KLE Technological University,
 Hubballi, Karnataka 
 March 21, 2016 
  
- 
- 
- 
- 
- 
-
 ## Page 2
 
 2 | P a g e 
- 
  
 The following are the minutes of the Executive Meeting of KLE Technological University, Hubballi  
 which was held  on 12th December 2015 at 9.30 am  at the Chamber of KLE Society’s, S. Nijalingappa 
@@ -63,7 +51,6 @@ Secretary
 Academic Affairs 
 Member 
     
- 
 The following members sought the leave of absence 
 SL Name Designation Position 
 1 Dr. B.B. Kotturshettar Dean Planning and 
@@ -73,7 +60,6 @@ Member
 ## Page 3
 
 3 | P a g e 
- 
  
 SL 
 No 
@@ -102,8 +88,6 @@ year 2016-17.
  
 Any other subject with the permission of the Chair. 
  
- 
-
 ## Page 4
 
 4 | P a g e 
@@ -113,10 +97,8 @@ Agenda 3.1
 To read & confirm the minutes of the  previous meeting held on 12th 
 December 2015. 
  
- 
 Resolution:  Resolved to confirm the minutes of the  previous  
                        meeting held on 12th December 2015. 
- 
  
 Agenda 3.2 
  
@@ -165,7 +147,6 @@ Thesis shall be rejected. It shall be
 The  approved  Regulations 
 are being implemented. 
  
-
 ## Page 5
 
 5 | P a g e 
@@ -228,7 +209,6 @@ follows
 B.Sc (Electronics – Industry Track) 
 B.Sc (Computer Science – Industry 
 Track) 
- 
  
 Preparations are on to 
 offer B.Sc programs from 
@@ -295,11 +275,9 @@ objectives, scope and
 frequency of Finance 
 Council meetings. 
  
- 
 Resolution:  Resolved to confirm the action taken report on the  
             minutes of the previous meeting held on 12th Dec   
             2015. 
- 
  
 Agenda 3.3 
  
@@ -307,7 +285,6 @@ To consider & approve the Budget for the year 2016-17.
  
 Resolution:   Resolved to consider & approve the Budget for the year 
 2016-17. 
- 
  
 Agenda 3.4 
 To review the status of admissions for the year 2015-16. 
@@ -352,7 +329,6 @@ MCA 60 57
 MBA 60 54 
 Total 274 252 
  
- 
 Resolution:  Resolved to review the status of admissions for the  
  year 2015-16. 
  
@@ -364,7 +340,6 @@ same will be presented during the meeting.
  
 Resolution: Resolved to review the results of I sem of all programs. 
  
-
 ## Page 8
 
 8 | P a g e 
@@ -415,15 +390,8 @@ Sl. No. Master of Computer Applications Intake in Nos.
 Sl. No. Master of Business Administration Intake in Nos. 
 1. MBA 60 
  
- 
- 
 Resolution:  Resolved to consider and approve the intake for 
 Admissions for the academic year 2016-17. 
  
- 
- 
 Chairman thanked all the members for their contributions. 
  
- 
- 
-                                                                                                          

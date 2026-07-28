@@ -1,13 +1,9 @@
 # PDF Document: 2nd-and-4th_sem-COE-2022-23_Even__BSc-FAD
+
 **PDF Source:** https://www.kletech.ac.in/pdf/2nd-and-4th sem-COE-2022-23(Even)_BSc-FAD.pdf
 
 ## Page 1
 
- 
- 
- 
- 
- 
                                                                                                                                                                                                                                        1q2  
  
 ANAM 0201/1.0 
@@ -15,18 +11,11 @@ CALENDAR OF EVENTS
 EVEN SEMESTER 2022 - 2023 
       [For B.Sc Fashion and Apparel Design (2nd & 4th) Semesters] 
  
- 
 Important Dates: 
 Courses Term Commencement End of term Date of Commencement 
       Practical Exams        Theory Exams 
 2nd & 4th Sem B.Sc (FAD) 29/05/23 13/09/23 15/09/23 to 19/09/23 From 23/09/23 
  
- 
- 
- 
- 
-   
-  
 Dated: 20/04/2023                                                                                                                         Dean Academics 
 Week 
 No. Month Week days No of 

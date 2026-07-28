@@ -1,12 +1,10 @@
 # PDF Document: 8th_EC_Minutes
+
 **PDF Source:** https://www.kletech.ac.in/pdf/8th_EC_Minutes.pdf
 
 ## Page 1
 
 i 
- 
- 
- 
  
 Minutes 
  
@@ -16,14 +14,9 @@ KLE Technological University,
 Hubballi, Karnataka 
 16th March, 2019 
  
- 
- 
- 
 KLE Technological University 
 (Established under Karnataka Act No.22, 2013) 
  
- 
-
 ## Page 2
 
 ii 
@@ -58,7 +51,6 @@ Member
 Development 
 Member 
  
-
 ## Page 3
 
 iii 
@@ -90,9 +82,6 @@ Technological University.
 EC 8.10 To ratify Board of Studies and Board of Examiners. 22 
 EC 8.11 Any other subject with the permission of the Chair. 23 
  
- 
- 
-
 ## Page 4
 
 1 
@@ -135,9 +124,6 @@ noted the scheme and syllabi of the programme.
 EC 7.8 Any other subject with the permission of the Chair. 
 NIL 
  
- 
- 
-
 ## Page 5
 
 2 
@@ -145,18 +131,14 @@ NIL
 Action Requested: To confirm the minutes of the previous meeting held on 20th 
 September 2018. 
  
- 
 Discussion: 
- 
  
 Resolution 8.1: Resolved to confirm the minutes of its 7th meeting 
 held on 20th September 2018. 
  
-
 ## Page 6
 
 3 
- 
  
 EC 8.2 To confirm the action taken report on the minutes of the previous meeting held on 20th 
 September 2018 
@@ -258,10 +240,8 @@ project work at ‘AEQUS’ Belagavi.
 EC 7.8 Any other subject with the permission of the Chair. 
 NIL 
  
- 
 Action Requested: The Executive Council is requested to confirm the action taken report on the minutes of the previous meeting 
 held on 20th September 2018. 
- 
  
 Discussion: Prof.. M.V. Atre wanted to know what is meant by ‘The same has been implemented’ w.r.t the IP policy of the 
 University. Prof. Tewari mentioned that after the BOG approval the IP policy of the University has been put into practice. 
@@ -270,7 +250,6 @@ Further he also elaborated the status of ‘Advanced Manufacturing for Aerospace
 Resolution 8.2: Resolved to confirm the action taken report on the minutes of its 7th meeting held on 
 20th September 2018. 
  
-
 ## Page 9
 
 6 
@@ -330,7 +309,6 @@ and approved the same.
 
 8 
  
- 
 EC 8.4 To review the academic progress of the University for the 
 year 2018-19 (Information Agenda) 
 The Dean Academic Affairs will make a detailed presentation. Some of the points are as 
@@ -369,9 +347,6 @@ o Modeling (CATIA)
 II Sem 
 o Analysis (HyperMesh, ANSYS) 
  
- 
- 
-
 ## Page 12
 
 9 
@@ -432,13 +407,10 @@ o Machine Learning
 o Image and Video processing 
   All courses are introduced with Lab 
  
- 
 SMSR 
  2 value added (non-credit) courses have been introduced 
 o Self- Development 
 o Leader in You   
- 
- 
  
 Action Requested: The Executive Council is requested to note the academic progress of 
 the University for the year 2018-19. 
@@ -461,7 +433,6 @@ candidates with this skill is less.
 Prof. Atre asked for details of MoU with Coventry University and Prof. Ashok Shettar, VC 
 explained the main objectives of the MoU and the status of the joint proposal submitted to 
 the Royal Academy of Engineering on e-mobility. 
- 
  
 Resolution 8.4: The Executive Council noted the progress of the 
 University for the academic year 2018-19. 
@@ -504,7 +475,6 @@ Mechanical Engineering 267 249 222 738
 Architecture 44 49 53 146 
 Total 1254 1158 1099 3511 
  
- 
 Annexure 3.1 
 
 ## Page 15
@@ -543,14 +513,12 @@ VLSI Design & Embedded Systems 15
 Machine Design 12 
 Grand Total 272 
  
-
 ## Page 16
 
 13 
  
 RESEARCH PROGRAM ADMISSION DETAILS - 2018-19 
 Admission to Research Programs in calendar year 2018 
- 
  
 Consolidated Admissions for Academic Year 2018-19 
 Program Course  Class Total 
@@ -582,9 +550,7 @@ Grand Total 12 08 20
 
 14 
  
- 
 Faculty Information 
- 
  
 Department/Program 
 In take 
@@ -622,22 +588,18 @@ Executives  02 01 -- 01
   56 76 187 32 
   351 
  
- 
 Annexure 3.2 
 
 ## Page 18
 
 15 
  
- 
 EC 8.5 To discuss the results of previous examinations 
 The results of the examination conducted since last Executive Council meeting 
 (May/June 2018 and Dec 2018 / Jan 2019 are placed before the Council.  
  
- 
 Action Requested: The Executive Council is requested to discuss and note the results of 
 previous examinations. 
- 
  
 Discussion:  
 Participating in the discussions prof. Ashok Shettar mentioned that KLE Tech will work with 
@@ -646,22 +608,12 @@ not KLE Tech faculty group working on ‘Data Mining & Data Analytics’ do the 
 from academic perspective. VC appreciated the suggestion and said he will ask his team to 
 take up this challenge.  
  
- 
 Resolution 8.5: The Executive Council noted the analysis of results of 
 May/June 2018 and Dec 2018/ Jan 2019 examinations. 
  
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 19
 
 16 
- 
  
 EC 8.6 To consider introduction of BBA program from the academic 
 year 2019-20. 
@@ -706,7 +658,6 @@ from the academic year 2019-20.
 ## Page 21
 
 18 
- 
  
 EC 8.7 To discuss the AC approved changes in Rules and 
 Regulations governing UG, PG & PhD programs and approve 
@@ -765,7 +716,6 @@ completed in 3 years and one time extension may be given by RPC for a semester.
 Prof. Atre said the change from ‘Full Time’ to ‘Part Time’ and vice versa to be approved by 
 RPC. 
  
- 
 Resolution 8.7:  Resolved to approve the proposed changes in 
 section 21.2 of Regulations Governing Undergraduate and 
 Postgraduate Programmes of KLE Technological University 2015; 
@@ -776,7 +726,6 @@ annexure 1.
 
 20 
  
- 
 EC 8.8 To discuss initiatives to streamline and enhance research 
 productivity. 
 Dean R&D will present the new initiatives during the meeting. 
@@ -784,26 +733,18 @@ Dean R&D will present the new initiatives during the meeting.
 Action Requested: To discuss the progress of implementation of PhD programmes of the 
 University. 
  
- 
 Discussion: Prof. M.V. Atre appreciated the initiative taken by the University to 
 streamline and enhance research productivity. Prof. Ashok Shettar, VC presented many 
 formats prepared for research path submission by the research scholars and research 
 supervisors. He also explained the highlights of the ‘REEF’ program. 
  
- 
 Resolution 8.8: The Executive Council noted the initiatives taken by 
 the University to streamline and enhance research productivity and 
 appreciated the action taken by the Vice-chancellor. 
  
- 
- 
- 
- 
-
 ## Page 24
 
 21 
- 
  
 EC 8.9 To review progress of implementation of the ‘Strategic Plan’ 
 of the KLE Technological University. 
@@ -820,8 +761,6 @@ Presently University has adopted ‘Objectives-Key Results’ (OKR) concept to e
 operational effectiveness by timely attainment of results. All the schools/ departments 
 have adopted the same and it is being monitored periodically. 
  
- 
- 
 Action Requested: The Executive Council is requested to review the progress of 
 implementation of the ‘Strategic Plan’ of the KLE Technological University. 
  
@@ -833,7 +772,6 @@ He also expressed the need to carry out research review and concern about not ge
 updates on CTIE. VC consented and asked the registrar to have these issues as agenda 
 points in the next meeting. 
  
- 
 Resolution 8.9: The Executive Council reviewed the progress of 
 implementation of the ‘Strategic Plan’ of the KLE Technological 
 University and expressed its satisfaction upon the progress made. 
@@ -841,7 +779,6 @@ University and expressed its satisfaction upon the progress made.
 ## Page 25
 
 22 
- 
  
 EC 8.10 To ratify Board of Studies and Board of Examiners 
 As per sections 6 and 7 of Regulations Governing Undergraduate and Postgraduate 
@@ -851,8 +788,6 @@ Board of Studies and Boards of Examiners respectively with the approval of the
 Academic Council. The Executive Council is requested to ratify the action taken by the 
 Dean (Academics) in constituting departmental Board of Studies and Boards of 
 Examiners. 
- 
- 
  
 Action Requested: The Executive Council is requested to ratify the changes made in the 
 Board of Studies and Board of Examiners. 
@@ -865,14 +800,10 @@ Board of Examiners of Biotechnology department, Mechanical
 Engineering and Automation & Robotics of KLE Technological 
 University. 
  
-
 ## Page 26
 
 23 
  
- 
 EC 8.11 Any other subject with the permission of the Chair. 
 NIL 
- 
- 
  

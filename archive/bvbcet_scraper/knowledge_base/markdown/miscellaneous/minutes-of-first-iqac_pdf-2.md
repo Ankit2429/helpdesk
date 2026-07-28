@@ -1,18 +1,11 @@
 # PDF Document: minutes-of-first-iqac_pdf-2
+
 **PDF Source:** https://www.kletech.ac.in/pdf/minutes-of-first-iqac_pdf-2.pdf
 
 ## Page 1
 
 KLE	Tech-IQAC	 1	
 	
-	
-	
- 
- 
- 
- 
- 
- 
 Minutes of 
  
 1st Internal Quality Assurance Cell Meeting 
@@ -23,17 +16,6 @@ Hubballi, Karnataka
  
 June 15th, 2017 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
 ## Page 2
 
 KLE	Tech-IQAC	 2	
@@ -75,7 +57,6 @@ Coodinator-	School	of	Computer	Science
 &	Engineering	
 Member	
   
-
 ## Page 3
 
 KLE	Tech-IQAC	 3	
@@ -90,42 +71,9 @@ IQAC	1.3	 To	 review	 the	 KPI’s	 set	 for	 the	 various	 parameters	 and	 che
 achievements	
 IQAC	1.4	 Any	other	subject	with	the	permission	of	the	Chair	
  
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
 ## Page 4
 
 KLE	Tech-IQAC	 4	
-	
 	
 IQAC	1.1	 To	 read	 and	 confirm	 the	 Objectives,	 Goals	 and	 Basic	 functions	 of	 Internal	
 Quality	Assurance	Cell	(IQAC)	of	KLE	Technological	University	
@@ -150,34 +98,14 @@ objectives.
 	Decisions	Taken:	it	has	been	resolved	to	Monitor	the	KPI	defined	on	students’	
 success	at	the	schools	and	department	levels	for	better	monitoring.	
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
 ## Page 5
 
 KLE	Tech-IQAC	 5	
-	
-	
 	
 ANNEXURE	1	
 	
 The	Internal	Quality	Assurance	Cell	(IQAC)	at	KLE	Technological	University	(KLE	Tech)	is	meant	
 for:	
-	
 	
 • 
 Planning,	 Guiding	 and	 Monitoring	 Quality	 Assurance	 and	 Quality	 Enhancement	
@@ -229,20 +157,9 @@ c)		Provide	a	sound	basis	for	decision-making	to	improve	institutional	functioni
 d)		Act	as	a	dynamic	system	for	quality	changes	in	HEIs	
 e)		Build	an	organised	methodology	of	documentation	and	internal	communication.	
 	
-	
-	
-	
-	
-	
-	
-	
-	
-
 ## Page 7
 
 KLE	Tech-IQAC	 7	
-	
-	
 	
 ANNEXURE	2	
 Quality	Assurance	System	Model	@	KLE	Tech	
@@ -277,42 +194,7 @@ KLE	Tech-IQAC	 8
 4. Support	Services	
 5. Quality	Management	
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 																														5.	Quality	Management	
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 1. Education	Delivery	
 	
@@ -327,16 +209,11 @@ FIVE	KEY	PROCESSES
 
 KLE	Tech-IQAC	 9	
  
- 
- 
- 
 Vision	
 		
 KLE	 Technological	 University	 will	 be	 a	 national	 leader	 in	 Higher	 Education	–
 recognized	 globally	 for	 innovative	 culture,	 outstanding	 student	 experience,	
 research	excellence	and	social	impact.	
-	
-	
 	
 Mission	
 	
@@ -356,49 +233,11 @@ competitiveness	and	quality	of	life.
 As	a	unified	community	of	faculty,	staff	and	students,	we	work	together	with	the	
 spirit	of	collaboration	and	partnership	to	accomplish	our	mission. 	
 	
-
 ## Page 10
 
 KLE	Tech-IQAC	 10	
 	
-	
-	
-	
-	
-	
 Organization	Chart	of	the	Institution	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	 	
-	
-	
-	
-	
 	
 Chancellor	
 Vice	Chancellor	
@@ -422,14 +261,9 @@ Academic	Council
 Research	Council	
 Estate	Council	
 	
-
 ## Page 11
 
 KLE	Tech-IQAC	 11	
-	
-	
-	
-	
 	
 Academic	Process	at	KLE	Tech	
  
@@ -451,60 +285,12 @@ Records	of	the	audits	and	results	are	analysed	and	necessary	correction	and	corr
 are	taken	without	undue	delay	to	eliminate	the	gaps.	
 . 
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
 ## Page 12
 
 KLE	Tech-IQAC	 12	
 Realization	of	Vison	of	the	University	through	KPI’s		
 	
-	
-	
-	
-	
-	
-	
-	 																																												
 Dept	1												Dept	2																	Dept3											Dept4												Dept5										Dept6												Dept7	 												Dept8													
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	
 Quality Policy 
 Quality Objectives 
@@ -523,10 +309,7 @@ Placement
 Library 
 Examination 
 	
-	
-	
 Objectives,	Processes,	Guidelines,	Procedures,	KPI 	
-	
 	
 Objectives 
 Processes 
@@ -615,7 +398,6 @@ Class	Committee	Meetings
 DUGC	&	DPGC	Meetings	
 Students	Counseling	
 	
-
 ## Page 14
 
 KLE	Tech-IQAC	 14	
@@ -628,15 +410,12 @@ placements
 Employers	Feedback	
 Employers	database	
 	
-	
 Process	
 HUMAN	RESOURCE	TRAINING	
 Measurements	 	
 Master	Training	calendar	
 Vikas	Calendar	
 Recapture	Sessions	
-	
-	
 	
 Process	
 EXAMINATION	
@@ -655,8 +434,6 @@ Admission	Guidelines
 Admitted	students	list	
 Students	complaints		
 	
-	
-	
 Process	
 LIBRARY	
 Measurements	 	
@@ -665,7 +442,6 @@ Books	purchase	and
 maintenance	
 Issue	and	receipt	of	books	
 Students	complaints	
-	
 	
 Process	
 CURRICULUM	DESIGN	AND	
@@ -677,8 +453,6 @@ Changes-	Curriculum	Content
 Curriculum	Structure	
 Course	Content	
 	
-	
-
 ## Page 15
 
 KLE	Tech-IQAC	 15	
@@ -688,7 +462,6 @@ A	continual	improvement	process,	also	often	called	a	continuous	improvement	proc
 ongoing	 effort	 to	 improve	 products,	 services,	 or	 processes.	 These	 efforts	 can	 seek	
 "incremental"	improvement	over	time	or	"breakthrough"	 improvement	all	at	once	through	
 Functional	Objectives	and	Key	Performance	Indicators	(KPI)	defined	at	KLE	Tech.	
-	
 	
 Functional	Objective:	Student	Success	
 	
@@ -725,28 +498,4 @@ Functional	Objective:	Institutional	Development
 Key	Performance	Indicators	
 1. Strategic	plan	progress	
 2. New	initiatives	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	

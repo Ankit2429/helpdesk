@@ -1,45 +1,18 @@
 # PDF Document: bachelor-civil-engineering-curriculum-2022-2026
+
 **PDF Source:** https://www.kletech.ac.in/pdf/bachelor-civil-engineering-curriculum-2022-2026.pdf
 
 ## Page 1
 
- 
- 
 FMCD2009 / 2.0 
  1 
- 
- 
- 
- 
-  
- 
  
 Curriculum Structure and Curriculum Content for the Academic Batch 2022-2026 
 School of Civil Engineering 
 Program: Civil Engineering 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 2
 
- 
- 
 FMCD2009 / 2.0 
  2 
  
@@ -62,28 +35,17 @@ List of Open Electives .........................................................
 List of Program Electives ...................................................................................... 16 
 Curriculum Content- Course wise ........................................................................ 17 
  
- 
- 
- 
- 
- 
-  
-
 ## Page 3
 
- 
- 
 FMCD2009 / 2.0 
  3 
 Vision and Mission of KLE Technological University 
  
 Vision 
  
- 
 KLE Technological Univers ity will be a national leader in Higher 
 Education–recognised globally for innovative culture, outstanding 
 student experience, research excellence and social impact. 
- 
  
 Mission 
  
@@ -107,11 +69,8 @@ competitiveness and quality of life.
 As a unified community of faculty , staff and students, we work together with 
 the spirit of collaboration and partnership to accomplish our mission. 
   
-
 ## Page 4
 
- 
- 
 FMCD2009 / 2.0 
  4 
 Vision and Mission Statements of the School / Department 
@@ -132,14 +91,8 @@ resilient sustainable infrastructure.
  To engage with industry and community stakeholders to drive impactful 
 solutions for societal challenges. 
  
- 
- 
-  
-
 ## Page 5
 
- 
- 
 FMCD2009 / 2.0 
  5 
 Program Educational Objectives/Program Outcomes and Program-Specific 
@@ -189,8 +142,6 @@ reports and design documentation, make effective presentations considering cultu
 
 ## Page 6
 
- 
- 
 FMCD2009 / 2.0 
  6 
 language, and learning differences. 
@@ -211,11 +162,8 @@ from initial design to the closure of the project.
 Ability to identify and analyze va rious properties of construction materials and their 
 applications in design and construction of various structures. 
  
-
 ## Page 7
 
- 
- 
 FMCD2009 / 2.0 
  7 
 Curriculum Structure-Overall 
@@ -384,21 +332,17 @@ Sustainability in Civil
 Engineering 
 (0-0-3) 
    
-    
 Extensive Survey  
 (0-0-1.5)    
 Credits 22 22 23.5 24.5 25.0 21.5 22.5 17 
 
 ## Page 8
 
- 
- 
 FMCD2009 / 2.0 
  8 
 Curriculum Structure-Semester wise 
 Semester - I 
  
-  
 No Code Course Category L-T-P Credits Contact   
 Hours ISA ESA Total 
 Exam 
@@ -419,14 +363,9 @@ TOTAL  15-1-6 22
 
 ## Page 9
 
- 
- 
 FMCD2009 / 2.0 
  9 
 Semester - II 
- 
- 
- 
  
 No Code Course Category L-T-P Credits Contact  
 Hours 
@@ -450,14 +389,9 @@ TOTAL  15-1-6 22
 
 ## Page 10
 
- 
- 
 FMCD2009 / 2.0 
  10 
 Semester- III 
- 
- 
- 
  
 No Code Course Category L-T-P Credits Contact  
 Hours 
@@ -479,13 +413,9 @@ TOTAL  19.5-0-4 23.5
 
 ## Page 11
 
- 
- 
 FMCD2009 / 2.0 
  11 
 Semester- IV 
- 
- 
  
 No Code Course  Category L-T-P Credits Contact  
 Hours 
@@ -516,12 +446,9 @@ TOTAL  21.5-0-3 24.5
 
 ## Page 12
 
- 
- 
 FMCD2009 / 2.0 
  12 
 Semester- V 
- 
  
 No Code Course  Category L-T-P Credits Contact  
 Hours 
@@ -551,12 +478,9 @@ TOTAL  17.5-0-7.5 25
 
 ## Page 13
 
- 
- 
 FMCD2009 / 2.0 
  13 
 Semester- VI 
- 
  
 No Code Course Category L-T-P Credits Contact  
 Hours 
@@ -582,13 +506,9 @@ TOTAL  12.5-0-10 21.5
 
 ## Page 14
 
- 
- 
 FMCD2009 / 2.0 
  14 
 Semester- VII 
- 
- 
  
 No Code Course  Category L-T-P Credits Contact 
 Hours 
@@ -611,8 +531,6 @@ TOTAL  15-0-7.5 22.5
 
 ## Page 15
 
- 
- 
 FMCD2009 / 2.0 
  15 
 Semester- VIII 
@@ -636,8 +554,6 @@ TOTAL  6-0-11/
 
 ## Page 16
 
- 
- 
 FMCD2009 / 2.0 
  16 
 List of Open Electives 
@@ -664,27 +580,15 @@ Earthquake Engineering
 13.  Air Pollution 15ECVE409 
 14.  Advanced Waste Water Treatment 15ECVE408 
  
- 
- 
-
 ## Page 17
 
- 
- 
 FMCD2009 / 2.0 
  17 
  
- 
- 
- 
- 
 Curriculum Content- Course wise 
  
-
 ## Page 18
 
- 
- 
 FMCD2009 / 2.0 
  18 
 Program: BE Civil Engineering Semester: I 
@@ -706,7 +610,6 @@ Interpretation of derivative as a rate of change, All the rules of derivatives (
 Minima and optimization problems. Curvature and Radius of Curva ture, Indeterminate forms, 
 L- Hospital’s rule-Examples 
 MATLAB: optimization problems. Curvature problems 
- 
  
 Unit II 
 3. Infinite Series                                                                                                                   06 hrs 
@@ -735,8 +638,6 @@ Reference Books:
 
 ## Page 19
 
- 
- 
 FMCD2009 / 2.0 
  19 
  
@@ -747,8 +648,6 @@ Back
 
 ## Page 20
 
- 
- 
 FMCD2009 / 2.0 
  20 
 Program: BE Civil Engineering Semester: I 
@@ -799,22 +698,16 @@ Reference Books:
 
 ## Page 21
 
- 
- 
 FMCD2009 / 2.0 
  21 
  
 Back 
   
- 
 2.Hans C Ohanian and John T Markert, Physics for Engineers and SISAntists, W W Norton and 
 Company, Volume 1, 3rd Edition 
  
-
 ## Page 22
 
- 
- 
 FMCD2009 / 2.0 
  22 
 Program: BE Civil Engineering Semester: I 
@@ -861,12 +754,8 @@ Edition, 2013-  Cengage Learning.4
 2. K.R.Gopalkrishna, SudhirGopalkrishna, S.C. Sharma. A Text Book of Elements of Mechanical 
 Engineering, 30th Edition, Oct 2010,–Subhash Publishers, Bangalore. 
  
- 
-
 ## Page 23
 
- 
- 
 FMCD2009 / 2.0 
  23 
  
@@ -880,8 +769,6 @@ Reference Books:
 
 ## Page 24
 
- 
- 
 FMCD2009 / 2.0 
  24 
 Program: BE Civil Engineering Semester: I 
@@ -932,8 +819,6 @@ Reference Books:
 
 ## Page 25
 
- 
- 
 FMCD2009 / 2.0 
  25 
 Back 
@@ -943,8 +828,6 @@ Back
 
 ## Page 26
 
- 
- 
 FMCD2009 / 2.0 
  26 
  
@@ -995,8 +878,6 @@ Scientist and Engineers, 2, New Age International Publishers, Wiley Eastern, 200
 
 ## Page 27
 
- 
- 
 FMCD2009 / 2.0 
  27 
  
@@ -1013,16 +894,11 @@ Education; 2017
 
 ## Page 28
 
- 
- 
 FMCD2009 / 2.0 
  28 
   
- 
 Back 
  
- 
-  
 Program: BE Civil Engineering Semester: I 
 Course Title: Engineering Exploration Course Code:22ECRP101 
 L-T-P: 0-0-3 Credits: 03 Contact Hours:6 hrs per week 
@@ -1047,8 +923,6 @@ Steven, Mc GrawHill Higher Education, 6th Edition ( 2011)
 
 ## Page 29
 
- 
- 
 FMCD2009 / 2.0 
  29 
 Program: BE Civil Engineering Semester: I 
@@ -1100,30 +974,22 @@ Reference Books:
 
 ## Page 30
 
- 
- 
 FMCD2009 / 2.0 
  30 
  
 Back 
  
- 
-  
 2. B S Gottfried, Programming with C, 2ed, TMH, 2006. 
 3. B.A. Forouzan, R.F. Gilberg, A Structured Program Approach Using C, 3ed, CENGAGE 
 Learning, 2008. 
 
 ## Page 31
 
- 
- 
 FMCD2009 / 2.0 
  31 
  
- 
 Back 
  
-  
 Program: BE Civil Engineering Semester: I 
 Course Title: Applied Physics Lab Course Code:21EPHP102 
 L-T-P: 0-0-1 Credits: 01 Contact Hours:02 Hrs./Week 
@@ -1143,11 +1009,8 @@ Unit I
 
 ## Page 32
 
- 
- 
 FMCD2009 / 2.0 
  32 
- 
  
 Back 
   
@@ -1189,8 +1052,6 @@ Reference Books:
 
 ## Page 33
 
- 
- 
 FMCD2009 / 2.0 
  33 
 Program: BE Civil Engineering Semester: II 
@@ -1242,14 +1103,11 @@ simple built up sections.
 
 ## Page 34
 
- 
- 
 FMCD2009 / 2.0 
  34 
  
 Back 
  
-  
 Unit III 
 7. Second moment of area (Plane figures)                                                                                       5hrs 
 Introduction, Definition, Method of determining the second moment of area, Section Modulus, 
@@ -1280,14 +1138,10 @@ Publishing Company, New Delhi, 1956.
 5. Irving H Shames, Engineering Mechanics, 3rd edition, Prentice-Hall of India Pvt. Ltd, New 
 Delhi- 110 001, 1995. 
  
-
 ## Page 35
 
- 
- 
 FMCD2009 / 2.0 
  35 
- 
  
 Back 
   
@@ -1332,8 +1186,6 @@ Text Books
 
 ## Page 36
 
- 
- 
 FMCD2009 / 2.0 
  36 
 Program: BE Civil Engineering Semester: II 
@@ -1385,14 +1237,11 @@ nature of electrodeposit - Throwing power of plating bath solution - numerical p
 
 ## Page 37
 
- 
- 
 FMCD2009 / 2.0 
  37 
  
 Back 
  
-  
 Electro less plating – advantages over electroplating, lector less plating of copper and its 
 applications in the manufacture of printed circuit board. 
  
@@ -1429,15 +1278,11 @@ Nagin Chand & Co., 1992.
 
 ## Page 38
 
- 
- 
 FMCD2009 / 2.0 
  38 
  
- 
 Back 
  
-  
 Program: BE Civil Engineering Semester: II 
 Course Title: Professional Communication Course Code:15EHSH101 
 L-T-P: 0-1-1 Credits: 02 Contact Hours: 42 
@@ -1468,11 +1313,8 @@ Reference Books:
 2.Raymond Murphy - Intermediate English Grammar, Cambridge University Press 
 3.Martin Hewings- Advanced English Grammar, Cambridge University Press. 
  
-
 ## Page 39
 
- 
- 
 FMCD2009 / 2.0 
  39 
   
@@ -1519,8 +1361,6 @@ Clifford Stein. The MIT Press, Edition-3, 2009.
 
 ## Page 40
 
- 
- 
 FMCD2009 / 2.0 
  40 
  
@@ -1569,8 +1409,6 @@ Thinking, Eugene, OR, Amazon Digital Services LLC.
 
 ## Page 41
 
- 
- 
 FMCD2009 / 2.0 
  41 
  
@@ -1620,8 +1458,6 @@ Edition 2007.
 
 ## Page 42
 
- 
- 
 FMCD2009 / 2.0 
  42 
 Back 
@@ -1640,8 +1476,6 @@ Oxford Indian Edition, 2005.
 
 ## Page 43
 
- 
- 
 FMCD2009 / 2.0 
  43 
 Program: Civil Engineering Semester: III 
@@ -1690,11 +1524,8 @@ Methods of plastering, Stucco plastering, Lath plastering.
 Painting: Purpose of Painting, Distemper, Plastic emulsion, Enamel, Powder coated painting to 
 walls and iron and steel surfaces. 
  
-
 ## Page 44
 
- 
- 
 FMCD2009 / 2.0 
  44 
 Back 
@@ -1731,8 +1562,6 @@ Materials and Technologies, New Age International (P) Ltd., New Delhi, 2007.
 
 ## Page 45
 
- 
- 
 FMCD2009 / 2.0 
  45 
  
@@ -1782,8 +1611,6 @@ transition curve, setting out of transition curve.
 
 ## Page 46
 
- 
- 
 FMCD2009 / 2.0 
  46 
 Theodolite, EDM and Total Station Modern theodolites- Micro-optic theodolites, digital 
@@ -1825,7 +1652,6 @@ Delhi, 2019.
 5.Lille Sand, John Wiley and Sons, Remote Sensing and Image Interpretation, 7th Edition, 2015. 
 6.Chandra, A.M., Plane Surveying, 3ed. New Age India Ltd. 2015. 
  
- 
 Reference Books: 
 1. T.P. Kannetkar and S.V. Kulkarni , ‘Surveying and Levelling Vol. I and II’, Pune 
 VidyarthiGrihaPrakashan, 2006 
@@ -1835,8 +1661,6 @@ Publications, 2012.
 
 ## Page 47
 
- 
- 
 FMCD2009 / 2.0 
  47 
 Back 
@@ -1844,11 +1668,8 @@ Back
 4.Roy, S.K., Fundamentals of Surveying, Prentice Hall of India, 2010.  
 5.E-notes: https://sites.google.com/a/mitr.iitm.ac.in/iitmcivil/ce2080, 2015. 
  
-
 ## Page 48
 
- 
- 
 FMCD2009 / 2.0 
  48 
 Program: Civil Engineering Semester: III 
@@ -1900,8 +1721,6 @@ equation. Analysis- Raleigh’s method, Buckingham’s Π theorem. Non-dimension
 
 ## Page 49
 
- 
- 
 FMCD2009 / 2.0 
  49 
 Back 
@@ -1931,11 +1750,8 @@ Reference Books:
 J.A.., Fluid Mechanics, 5ed., Pearson Education, India, 2006. 
 3.Streeter V.L. and Wylie E. B., Fluid Mechanics, McGraw Hill Education, London, 9ed., 2010. 
  
-
 ## Page 50
 
- 
- 
 FMCD2009 / 2.0 
  50 
 Program: Civil Engineering Semester: III 
@@ -1987,8 +1803,6 @@ and sketching of various stresses in beams (2-D and 3-D).
 
 ## Page 51
 
- 
- 
 FMCD2009 / 2.0 
  51 
 Back 
@@ -2002,17 +1816,13 @@ Publishing Co. Inc., 2014.
 4.Basavarajaiah B.S. and Mahadevappa P ., Strength of Materials in SI units, 3ed., CBS Publishers, 
 New Delhi, 2011. 
  
-
 ## Page 52
 
- 
- 
 FMCD2009 / 2.0 
  52 
  
 Back 
  
-  
 Program: Civil Engineering Semester: III 
 Course Title: Survey Practice – I Course Code:17ECVP201 
 L-T-P:  0-0-1 Credits:1 Contact Hours:2 hrs/week 
@@ -2049,11 +1859,8 @@ Reference Books:
 4.https://sites.google.com/a/mitr.iitm.ac.in/iitmcivil/ce2080  
 5.SP:7, National Building Code of India, Bureau of Indian Standards, 2016 
  
-
 ## Page 53
 
- 
- 
 FMCD2009 / 2.0 
  53 
  
@@ -2099,8 +1906,6 @@ Publications Pvt Ltd, 2010.
 
 ## Page 54
 
- 
- 
 FMCD2009 / 2.0 
  54 
  
@@ -2147,8 +1952,6 @@ specification, Fourth revision
 
 ## Page 55
 
- 
- 
 FMCD2009 / 2.0 
  55 
 Program: BE Civil Engineering Semester: IV 
@@ -2200,16 +2003,10 @@ Singularities, Poles, Residue theorem – problems.
 
 ## Page 56
 
- 
- 
 FMCD2009 / 2.0 
  56 
 Back 
  
- 
- 
- 
-  
 Text Books 
 1. Kreyszig E., Advanced Engineering Mathematics, 8ed, John Wiley & sons, 2003. 
 2. Potter M C, Jack Goldberg and Aboufadel E F, Advanced Engineering Mathematics, 3ed, 
@@ -2224,8 +2021,6 @@ Reference Books:
 
 ## Page 57
 
- 
- 
 FMCD2009 / 2.0 
  57 
 Program: Civil Engineering Semester: IV 
@@ -2276,8 +2071,6 @@ Reference Books:
 
 ## Page 58
 
- 
- 
 FMCD2009 / 2.0 
  58 
 Back 
@@ -2294,8 +2087,6 @@ New York, 1965.
 
 ## Page 59
 
- 
- 
 FMCD2009 / 2.0 
  59 
  
@@ -2343,17 +2134,11 @@ Self-purification phenomenon, Zones of purification, Oxygen sag curve. Numerical
 Disposal of Effluents using Streeter Phelps equation. 
 Land disposal: Sewage sickness. 
  
-
 ## Page 60
 
- 
- 
 FMCD2009 / 2.0 
  60 
 Back 
- 
- 
- 
  
 Unit III 
 9.Sewage treatment  and  Sludge Disposal                                                                                  10 hrs 
@@ -2396,8 +2181,6 @@ Francis  Group, 2017
 
 ## Page 61
 
- 
- 
 FMCD2009 / 2.0 
  61 
  
@@ -2448,8 +2231,6 @@ Text Books
 
 ## Page 62
 
- 
- 
 FMCD2009 / 2.0 
  62 
 Back 
@@ -2473,8 +2254,6 @@ Rebound hammer
 
 ## Page 63
 
- 
- 
 FMCD2009 / 2.0 
  63 
 Program: Civil Engineering Semester: IV 
@@ -2522,17 +2301,12 @@ construction, safety measure to be taken during excavation, hot bituminous work,
 drilling & blasting, scaffolds/platforms work & equipment operations. Safety through 
 legislation, safety campaign & insurance. 
  
- 
-
 ## Page 64
 
- 
- 
 FMCD2009 / 2.0 
  64 
 Back 
   
- 
 7.Resource Allocation                                                                                                                  05 hrs 
 Introduction, Objectives of resource allocation, Methods of resource allocation. Resource -
 smoothening, Steps in resource smoothening. Resource leveling, Steps in resource leve lling. 
@@ -2549,8 +2323,6 @@ methods, Tata McGraw Hill Pvt. Ltd, New Delhi, 3ed., 2010.
 
 ## Page 65
 
- 
- 
 FMCD2009 / 2.0 
  65 
 Program: Civil Engineering Semester: IV 
@@ -2602,8 +2374,6 @@ Introduction, Types of earthen dams, Failure of earthen dams, Drainage arrangeme
 
 ## Page 66
 
- 
- 
 FMCD2009 / 2.0 
  66 
 Back 
@@ -2632,8 +2402,6 @@ Reference Books:
 
 ## Page 67
 
- 
- 
 FMCD2009 / 2.0 
  67 
  
@@ -2682,8 +2450,6 @@ New Delhi.
 
 ## Page 68
 
- 
- 
 FMCD2009 / 2.0 
  68 
 Program: Civil Engineering Semester: IV 
@@ -2720,7 +2486,6 @@ VI. Open Ended Experiment:
 •To prepare the concrete mix design apart from conventional concrete, propose the mix 
 proportions, procure the materials, cast and tests 
  
- 
 Reference Books: 
 1.Bhavikatti S.S., Strength of materials, 4ed., Vikas Publishing House, 2018. 
 2.Gambhir M L and Neha Jamwal, Building and construction materials- Testing and Quality 
@@ -2735,8 +2500,6 @@ IS Code:( For Concrete)
 
 ## Page 69
 
- 
- 
 FMCD2009 / 2.0 
  69 
 Back 
@@ -2766,8 +2529,6 @@ specification, Fourth revision
 
 ## Page 70
 
- 
- 
 FMCD2009 / 2.0 
  70 
  
@@ -2806,8 +2567,6 @@ computation', New Age International Publishers, 2003.
 
 ## Page 71
 
- 
- 
 FMCD2009 / 2.0 
  71 
  
@@ -2858,8 +2617,6 @@ Company, New Delhi, 2005.
 
 ## Page 72
 
- 
- 
 FMCD2009 / 2.0 
  72 
 Back 
@@ -2871,8 +2628,6 @@ Pvt. Ltd., 2011.
 
 ## Page 73
 
- 
- 
 FMCD2009 / 2.0 
  73 
 Program: Civil Engineering Semester: V 
@@ -2924,8 +2679,6 @@ Unit III
 
 ## Page 74
 
- 
- 
 FMCD2009 / 2.0 
  74 
 Back 
@@ -2966,8 +2719,6 @@ Laboratory Testing of Soils for Civil Engineering Purpose
 
 ## Page 75
 
- 
- 
 FMCD2009 / 2.0 
  75 
 Program: Civil Engineering Semester: V 
@@ -3019,8 +2770,6 @@ General features, types of staircases, loads on stairs, effective span as per IS
 
 ## Page 76
 
- 
- 
 FMCD2009 / 2.0 
  76 
 Back 
@@ -3051,8 +2800,6 @@ building and structures, BIS, 1987
 
 ## Page 77
 
- 
- 
 FMCD2009 / 2.0 
  77 
 Program: Civil Engineering Semester: V 
@@ -3104,8 +2851,6 @@ and Stabilization techniques in pavement construction, Construction of different
 
 ## Page 78
 
- 
- 
 FMCD2009 / 2.0 
  78 
 in rigid pavement, Highway drainage system, Integration of science, technology and innovation 
@@ -3157,8 +2902,6 @@ New Delhi.
 
 ## Page 79
 
- 
- 
 FMCD2009 / 2.0 
  79 
 Back 
@@ -3172,8 +2915,6 @@ Roads Congress, New Delhi.
 
 ## Page 80
 
- 
- 
 FMCD2009 / 2.0 
  80 
 Program: Civil Engineering Semester: V 
@@ -3225,8 +2966,6 @@ Text Books
 
 ## Page 81
 
- 
- 
 FMCD2009 / 2.0 
  81 
 Back 
@@ -3244,8 +2983,6 @@ New Delhi-2007.
 
 ## Page 82
 
- 
- 
 FMCD2009 / 2.0 
  82 
 Program: Civil Engineering Semester: V 
@@ -3297,8 +3034,6 @@ test for soils
 
 ## Page 83
 
- 
- 
 FMCD2009 / 2.0 
  83 
 Back 
@@ -3309,8 +3044,6 @@ sources.
 
 ## Page 84
 
- 
- 
 FMCD2009 / 2.0 
  84 
  
@@ -3349,8 +3082,6 @@ Purpose, BIS, New Delhi
 
 ## Page 85
 
- 
- 
 FMCD2009 / 2.0 
  85 
  
@@ -3399,8 +3130,6 @@ Microsoft Excel 2010 Formulas, John Walkenbach, Wiley-India pvt. Ltd.
 
 ## Page 86
 
- 
- 
 FMCD2009 / 2.0 
  86 
 Program: Civil Engineering Semester: V 
@@ -3451,8 +3180,6 @@ University of Technology, Sweden), Aji P Mathew (Luleå University of Technology
 
 ## Page 87
 
- 
- 
 FMCD2009 / 2.0 
  87 
  
@@ -3465,8 +3192,6 @@ ISBN 9781845695842, 1845695844, 2009.
 
 ## Page 88
 
- 
- 
 FMCD2009 / 2.0 
  88 
 Program: Civil Engineering Semester: V 
@@ -3517,20 +3242,15 @@ Chand and Bros. Publishers, Roorkee, 2015.
 
 ## Page 89
 
- 
- 
 FMCD2009 / 2.0 
  89 
 Back 
  
-  
 9. Punmia B.C., Jain, Ashok K. Jain, Arun K. Surveying Vol. 1 and Vol-2, Lakshmi Publishers, 
 2015. 
 
 ## Page 90
 
- 
- 
 FMCD2009 / 2.0 
  90 
  
@@ -3580,8 +3300,6 @@ Reference Books:
 
 ## Page 91
 
- 
- 
 FMCD2009 / 2.0 
  91 
  
@@ -3632,8 +3350,6 @@ Estimation of bituminous road and cement concrete roads.
 
 ## Page 92
 
- 
- 
 FMCD2009 / 2.0 
  92 
 Back 
@@ -3661,8 +3377,6 @@ New Delhi, 2013.
 
 ## Page 93
 
- 
- 
 FMCD2009 / 2.0 
  93 
  
@@ -3693,8 +3407,6 @@ Reference Books:
 
 ## Page 94
 
- 
- 
 FMCD2009 / 2.0 
  94 
 Program: Civil Engineering Semester: VI 
@@ -3746,8 +3458,6 @@ Unit III
 
 ## Page 95
 
- 
- 
 FMCD2009 / 2.0 
  95 
 Back 
@@ -3792,8 +3502,6 @@ Pile Foundations.
 
 ## Page 96
 
- 
- 
 FMCD2009 / 2.0 
  96 
 Program: Civil Engineering Semester: VI 
@@ -3846,8 +3554,6 @@ Text Books
 
 ## Page 97
 
- 
- 
 FMCD2009 / 2.0 
  97 
 Back 
@@ -3869,8 +3575,6 @@ Learning Pvt. Ltd., 2006.
 
 ## Page 98
 
- 
- 
 FMCD2009 / 2.0 
  98 
 Program: Civil Engineering Semester: VI 
@@ -3921,8 +3625,6 @@ Reference Books:
 
 ## Page 99
 
- 
- 
 FMCD2009 / 2.0 
  99 
 Back 
@@ -3944,8 +3646,6 @@ Elastic Joints, Indian Roads Congress, New Delhi.
 
 ## Page 100
 
- 
- 
 FMCD2009 / 2.0 
  100 
 Program: Civil Engineering Semester: VI 
@@ -3996,8 +3696,6 @@ Reference Books:
 
 ## Page 101
 
- 
- 
 FMCD2009 / 2.0 
  101 
 Back 
@@ -4011,8 +3709,6 @@ Education Pvt. Ltd., New Delhi, 2015.
 
 ## Page 102
 
- 
- 
 FMCD2009 / 2.0 
  102 
 Program: Civil Engineering Semester: VI 
@@ -4064,8 +3760,6 @@ along a highway, along a pedestrian-way. Deterministic queueing and stochastic a
 
 ## Page 103
 
- 
- 
 FMCD2009 / 2.0 
  103 
 Back 
@@ -4116,8 +3810,6 @@ New Delhi.
 
 ## Page 104
 
- 
- 
 FMCD2009 / 2.0 
  104 
  
@@ -4142,7 +3834,6 @@ columns with lacings / battens.
 9. Detailing of Simple slab base & Gusseted base connections for I-section columns. 
 10. Quiz 
  
- 
 Text Books 
 1. Bhavikatti, S.S., Design of Steel Structures by Lim it State of Method – As per IS 800 -
 2007, I.K. International Publishing House Pvt. Ltd., New Delhi, 2009 
@@ -4162,8 +3853,6 @@ IS Codes:
 
 ## Page 105
 
- 
- 
 FMCD2009 / 2.0 
  105 
  
@@ -4208,8 +3897,6 @@ Laboratory Testing of Soils for Civil Engineering Purpose
 
 ## Page 106
 
- 
- 
 FMCD2009 / 2.0 
  106 
  
@@ -4244,8 +3931,6 @@ Reference Books:
 
 ## Page 107
 
- 
- 
 FMCD2009 / 2.0 
  107 
 Program: Civil Engineering Semester: VI 
@@ -4297,28 +3982,10 @@ and its maintenance, BIS.
 
 ## Page 108
 
- 
- 
 FMCD2009 / 2.0 
  108 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
 (Second Rev.)  
 8.IS 7564 – 1974 Recommendations for Co-ordination of Dimensions in Buildings – 
 Arrangement of Building Components. 
@@ -4337,8 +4004,6 @@ Fairhaven Printers.
 
 ## Page 109
 
- 
- 
 FMCD2009 / 2.0 
  109 
  
@@ -4388,8 +4053,6 @@ limited, 2010
 
 ## Page 110
 
- 
- 
 FMCD2009 / 2.0 
  110 
  
@@ -4440,13 +4103,10 @@ Text Books
 
 ## Page 111
 
- 
- 
 FMCD2009 / 2.0 
  111 
 Back 
  
-  
 Ltd., India, 2014. 
 3.Murthy V.N.S., Soil Mechanics and Foundation Engineering, 4ed., UBS Publishers and 
 Distributors, New Delhi, 2016. 
@@ -4470,8 +4130,6 @@ Age International (P) Ltd., Publishers, 1997.
 
 ## Page 112
 
- 
- 
 FMCD2009 / 2.0 
  112 
  
@@ -4519,8 +4177,6 @@ New Delhi, 2000
 
 ## Page 113
 
- 
- 
 FMCD2009 / 2.0 
  113 
  
@@ -4543,7 +4199,6 @@ integrals, Integration by parts-Review, Gradient and Divergence Theorems, Functi
 Virtual Work and Variational Principle  (Rayleigh-Ritz Method ), Weighted Integrals and Weak 
 Formulation, Different types of weighted integral methods such as Galerkin Method, Petrov-
 Galerkin Method, Collocation Method and Method of Least-squares 
- 
  
 Unit II 
 4. Second Order Boundary Value Problem.                                                                  08 Hrs 
@@ -4568,8 +4223,6 @@ New Delhi, 2004.
 
 ## Page 114
 
- 
- 
 FMCD2009 / 2.0 
  114 
 Back 
@@ -4590,8 +4243,6 @@ Engineering, 4ed, Pearson, 2011.
 
 ## Page 115
 
- 
- 
 FMCD2009 / 2.0 
  115 
 Program: BE Civil Engineering Semester: VII 
@@ -4639,8 +4290,6 @@ Transporting and handling – Concrete chute, concrete mixer with lift, concrete
 
 ## Page 116
 
- 
- 
 FMCD2009 / 2.0 
  116 
 Back 
@@ -4674,8 +4323,6 @@ Publications, New Delhi, 2015...
 
 ## Page 117
 
- 
- 
 FMCD2009 / 2.0 
  117 
  
@@ -4726,14 +4373,10 @@ payment, Procurement criteria, Identifying and choosing procurement methods
 
 ## Page 118
 
- 
- 
 FMCD2009 / 2.0 
  118 
 Back 
  
- 
-  
 Contractual relationship in management contracting, Use of management contracting, 
 Principles of management contracting, risk in management contracting, approach to 
 management contracting.                                                                                                                                                             
@@ -4748,12 +4391,8 @@ publishers, 2009.
 6. Handbook of contracts: Hudson 
 7. Patil B. S.,(2009) “Civil Engineering Contracts and Estimates”, University Press. 
  
- 
-
 ## Page 119
 
- 
- 
 FMCD2009 / 2.0 
  119 
 Program: BE Civil Engineering Semester: VII 
@@ -4801,8 +4440,6 @@ safety, safety and health management system.
 
 ## Page 120
 
- 
- 
 FMCD2009 / 2.0 
  120 
 Back 
@@ -4812,7 +4449,6 @@ Introduction, construction labour in India, payment of wages to labour, Labour L
 of wages act 1936, minimum wages act 1948, workers compensation act 1923, contract labor 
 act 1970, employees state insurance act 1948, bonus act, employee’s provident fund act, trade 
 unions and their role. 
- 
  
 Text Books 
 1. Kumar Neeraj Jha, Construction Project Management: Theory and Practice , 2ed. 
@@ -4827,8 +4463,6 @@ Reference Books:
 
 ## Page 121
 
- 
- 
 FMCD2009 / 2.0 
  121 
 Program: BE Civil Engineering Semester: VII 
@@ -4877,13 +4511,10 @@ treatment and disposal. Hazardous Waste (Management and Handling) Rules, 2016.
 
 ## Page 122
 
- 
- 
 FMCD2009 / 2.0 
  122 
 Back 
   
- 
 Text Books 
 1. George Tchobanoglous, Hilary Theisen and Vigil S. A., Integrated solid waste 
 management: engi neering principles and management issues , McGraw -Hill Inc , US , 
@@ -4907,8 +4538,6 @@ Springer Science & Business Media,  2012
 
 ## Page 123
 
- 
- 
 FMCD2009 / 2.0 
  123 
 Program: BE Civil Engineering Semester: VII 
@@ -4942,7 +4571,6 @@ Unit III
 Gravity Thickening, Flotation Thickening, Dewatering, Pressure Filtration, Stabilization, Aerobic 
 and Anaerobic Digestion, Composting, Drying, Incineration, Landfilling, Land Application  
  
- 
 Text Books 
 1. Eddy and Metcalf, Wastewater Engineering – Treatment and Reuse, Tata McGraw Hill 
 Education Pvt Ltd., New Delhi, 2003. 
@@ -4957,21 +4585,15 @@ Prentice Hall, New Delhi. 2002.
 
 ## Page 124
 
- 
- 
 FMCD2009 / 2.0 
  124 
 Back 
  
- 
-  
 Hill Education Pvt. Ltd., New Delhi. 2010 
 3. Hammer M.J., Water and Waste Water Technology, John Wiley and Sons, New York, 2000. 
 
 ## Page 125
 
- 
- 
 FMCD2009 / 2.0 
  125 
 Program: BE Civil Engineering Semester: VII 
@@ -5014,14 +4636,11 @@ Environmental Impact Assessment in industrial plant locations and planning. Stan
 legislation -Air quality and emission standards-legislation and regulation, Air pollution index, EIA 
 Case Study-Mining. Introduction to Air Quality Modelling. 
  
- 
 Text Books 
 1. Rao, H.V.N., and Rao, M.N., Air Pollution , Tata McGraw Hill Education Pvt. Ltd., New 
 
 ## Page 126
 
- 
- 
 FMCD2009 / 2.0 
  126 
 Back 
@@ -5035,8 +4654,6 @@ Reference Books:
 
 ## Page 127
 
- 
- 
 FMCD2009 / 2.0 
  127 
 Program: BE Civil Engineering Semester: VII 
@@ -5085,8 +4702,6 @@ Safety and environmental aspects o f nano -materials, future challenge, cost opt
 
 ## Page 128
 
- 
- 
 FMCD2009 / 2.0 
  128 
 Back 
@@ -5108,8 +4723,6 @@ New York, 2007.
 
 ## Page 129
 
- 
- 
 FMCD2009 / 2.0 
  129 
 Program: BE Civil Engineering Semester: VII 
@@ -5152,14 +4765,11 @@ Minimization using Geometric Programming,
 7.   Dynamic Programming04 Hrs 
 Multistage decision concert, principles of optimality. 
  
- 
 Text Books 
 1. Rao S.S., Engineering Optimization Theory and Application , 3ed.,New Age International 
 
 ## Page 130
 
- 
- 
 FMCD2009 / 2.0 
  130 
 Back 
@@ -5180,8 +4790,6 @@ Ltd., New Delhi, 2009.
 
 ## Page 131
 
- 
- 
 FMCD2009 / 2.0 
  131 
 Program: Civil Engineering Semester: VII 
@@ -5233,8 +4841,6 @@ methods, Tata McGraw Hill Pvt. Ltd, New Delhi, 3ed., 2010.
 
 ## Page 132
 
- 
- 
 FMCD2009 / 2.0 
  132 
 Back 

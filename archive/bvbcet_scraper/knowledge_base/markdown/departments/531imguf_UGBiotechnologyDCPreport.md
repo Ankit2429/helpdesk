@@ -1,4 +1,5 @@
 # PDF Document: 531imguf_UGBiotechnologyDCPreport
+
 **PDF Source:** https://www.kletech.ac.in/Uploads/image/531imguf_UGBiotechnologyDCPreport.pdf
 
 ## Page 1
@@ -362,12 +363,7 @@ https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=
 
 ## Page 13
 
- 
- 
- 
 Centrifuge
- 
- 
  
 Research Laboratory – II (Process and Product Development Laboratory)
 Research Laboratory–II is established to facilitate process optimization, scale-up studies, and product development activities. The laboratory provides advanced instrumentation for bioprocess development, downstreamprocessing, analytical characterization, and quality assessment. It is equipped with a 50 L Pilot-Scale Fermentor for scale-up studies, HPLC for analytical and quality analysis, AKTA Protein Purification System forbiomolecule purification, Microplate Reader for high-throughput analysis, Homogenizer for sample preparation, and supporting equipment such as UV–Visible Spectrophotometer, Centrifuge, pH Meter, ElectronicWeighing Balance, Ultra-Pure Water System, and Water Purification System. The laboratory enables faculty, research scholars, and students to undertake translational research, process development, and industry-oriented product innovation.
@@ -392,26 +388,19 @@ Homogenizer
  
 Pilot Scale Fermenter
  
- 
 AKTA Protein Purification System
 6/30/26, 12:56 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=539 14/19
 
 ## Page 15
 
- 
- 
- 
 HPLC
 6/30/26, 12:56 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=539 15/19
 
 ## Page 16
 
- 
- 
 Spectrophtometer
- 
  
 Microplate Reader
 6/30/26, 12:56 PM e - NBA
@@ -419,7 +408,6 @@ https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=
 
 ## Page 17
 
- 
 External Research Funded Project
 An external  research project (VGST-K-FIST-L1-GRD-886)  titled "Nutritional Profile and Metagenomics Insights of Microbial Diversity of Nucchu Ambli- a millet-based traditional Fermented Food of North Karnataka " wasundertaken and completed. It was funded by Vision Group of Science and Technology, Government of karnataka.
  

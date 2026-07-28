@@ -1,45 +1,18 @@
 # PDF Document: bachelor-electronics-communication-engineering-vlsi-curriculum-2022-2026
+
 **PDF Source:** https://www.kletech.ac.in/pdf/bachelor-electronics-communication-engineering-vlsi-curriculum-2022-2026.pdf
 
 ## Page 1
 
- 
- 
 FMCD2009 / 2.0 
  1 
- 
- 
- 
- 
-  
- 
  
 Curriculum Structure and Curriculum Content for the Academic Batch – 2022-26 
 School /Department: Electrical & Electronics Engineering 
 Program: Electronics Engineering (VLSI Design & Technology) 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 2
 
- 
- 
 FMCD2009 / 2.0 
  2 
  
@@ -62,17 +35,8 @@ List of Program Electives ......................................................
 List of Open Electives ............................................................................................ 18 
 Curriculum Content- Course-wise ........................................................................ 19 
  
- 
- 
- 
- 
- 
- 
-
 ## Page 3
 
- 
- 
 FMCD2009 / 2.0 
  3 
   
@@ -80,11 +44,9 @@ Vision and Mission of KLE Technological University
  
 Vision 
  
- 
 KLE Technological University will be a national leader in Higher 
 Education–recognised globally for innovative culture, outst anding 
 student experience, research excellence and social impact. 
- 
  
 Mission 
  
@@ -110,8 +72,6 @@ spirit of collaboration and partnership to accomplish our mission.
 
 ## Page 4
 
- 
- 
 FMCD2009 / 2.0 
  4 
  
@@ -122,8 +82,6 @@ KLE Tech-Department of Electronics Engineering (VLSI Design and Technology)
 will be well recognized nationally and internationally for excellence in its 
 educational programs,  pioneering research and impact on the industry and 
 society. 
- 
- 
  
 Mission 
  Electronics Engineering (VLSI Design and Technology)  at KLE Tech  
@@ -145,11 +103,8 @@ innovation are embedded throughout the curriculum. Students graduate
 not just as engineers, but as solution creators driving the future of an 
 intelligent, efficient, and connected world. 
  
-
 ## Page 5
 
- 
- 
 FMCD2009 / 2.0 
  5 
 Program Educational Objectives/Program Outcomes and Program-Specific 
@@ -192,8 +147,6 @@ PO 6: The Engineer and The World:
 
 ## Page 6
 
- 
- 
 FMCD2009 / 2.0 
  6 
 Analyze and evaluate societal and environmental aspects while solving 
@@ -228,13 +181,8 @@ PSO 2: Demonstrate proficiency in using industry-standard EDA tools for front-
 end and back -end VLSI design, with exposure to advanced IC packaging 
 technologies. 
  
- 
- 
-
 ## Page 7
 
- 
- 
 FMCD2009 / 2.0 
  7 
 Curriculum Structure-Overall                                                                                                                                                                              
@@ -418,11 +366,8 @@ PSE Elective 5
 (24EVTExxx) 
 3 credits 
  
-
 ## Page 8
 
- 
- 
 FMCD2009 / 2.0 
  8 
 Professional 
@@ -497,23 +442,12 @@ Reasoning
    
 Credits 22 22 25.5 24.5 25 23 21 17 
  
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 9
 
- 
- 
 FMCD2009 / 2.0 
  9 
 Curriculum Structure-Semester wise 
 Semester - I 
- 
  
 No Code Course Category L-T-P Credits Contact 
 Hours 
@@ -535,15 +469,10 @@ TOTAL 15-3-4 22 27 410 290 700
 
 ## Page 10
 
- 
- 
 FMCD2009 / 2.0 
  10 
  
 Semester - II 
- 
- 
- 
  
 No Code Course Category L-T-P Credits Contact 
 Hours 
@@ -563,8 +492,6 @@ TOTAL 13-2-7 22 32 410 290 700
 
 ## Page 11
 
- 
- 
 FMCD2009 / 2.0 
  11 
  
@@ -602,8 +529,6 @@ TOTAL 22.5-0-3 25.5 29 590 310 900
 
 ## Page 12
 
- 
- 
 FMCD2009 / 2.0 
  12 
  
@@ -639,8 +564,6 @@ TOTAL 18.5-0-6 24.5 31 590 310 900
 
 ## Page 13
 
- 
- 
 FMCD2009 / 2.0 
  13 
 Semester- V 
@@ -674,8 +597,6 @@ TOTAL 18-0-7 25 34 580 320 900
 
 ## Page 14
 
- 
- 
 FMCD2009 / 2.0 
  14 
 Semester- VI 
@@ -702,17 +623,10 @@ ES 0-0-0 Audit 1 25 75 100 3 hours
 TOTAL 12-0-11 23 33 426 374 800  
 Semester- VII 
  
- 
-
 ## Page 15
 
- 
- 
 FMCD2009 / 2.0 
  15 
- 
- 
- 
  
 No Code Course Category L-T-P Credits Contact 
 Hours 
@@ -730,11 +644,8 @@ TOTAL 15-0-6 21 29 350 350 700
 
 ## Page 16
 
- 
- 
 FMCD2009 / 2.0 
  16 
- 
  
 Semester- VIII 
  
@@ -762,16 +673,12 @@ TOTAL 6-0-11 17 28 150 150 300
 
 ## Page 17
 
- 
- 
 FMCD2009 / 2.0 
  17 
 Credits 22 22 25.5 24.5 25 23 21 17 180 
 
 ## Page 18
 
- 
- 
 FMCD2009 / 2.0 
  18 
  
@@ -803,11 +710,8 @@ Sr.No Name of the Course Course Code
 17.  VLSI Interconnects 25EVTE418 
 18.  Advanced DFT for ASIC Design 25EVTE419 
  
-
 ## Page 19
 
- 
- 
 FMCD2009 / 2.0 
  19 
                                   List of Open Electives VIII Sem 
@@ -815,12 +719,8 @@ Sr.No Name of the Course Course Code
 1 Hardware-Software Co-design 24EVTO401 
 2 System on Chip (SoC) Design 24EVTO402 
  
-  
-
 ## Page 20
 
- 
- 
 FMCD2009 / 2.0 
  20 
 Curriculum Content- Course wise 
@@ -865,8 +765,6 @@ MATLAB: Solve differential equations
 
 ## Page 21
 
- 
- 
 FMCD2009 / 2.0 
  21 
  
@@ -879,12 +777,8 @@ Reference Books:
  
                         Back to Semester - I 
  
-  
-
 ## Page 22
 
- 
- 
 FMCD2009 / 2.0 
  22 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: I 
@@ -936,8 +830,6 @@ Gauss’s Law:
 
 ## Page 23
 
- 
- 
 FMCD2009 / 2.0 
  23 
 Electric Flux, Gauss’s Law, Application of Gauss’s Law to Various Charge Distributions, Conductors 
@@ -977,14 +869,8 @@ II, Norosa Publishing House (1998).
  
 Back to Semester - I 
   
- 
- 
- 
-
 ## Page 24
 
- 
- 
 FMCD2009 / 2.0 
  24 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: I 
@@ -1036,8 +922,6 @@ Chapter 7:  Centroid of Plane Figures
 
 ## Page 25
 
- 
- 
 FMCD2009 / 2.0 
  25 
 Introduction, Definition, Methods of determining the centroid, axis of reference , axis of 
@@ -1070,11 +954,8 @@ Publishing Company, New Delhi, 1956.
 Delhi- 110 001, 1995. 
 Back to Semester - I 
   
-
 ## Page 26
 
- 
- 
 FMCD2009 / 2.0 
  26 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: I 
@@ -1119,16 +1000,12 @@ Learning, 2008.
 
 ## Page 27
 
- 
- 
 FMCD2009 / 2.0 
  27 
  Back to Semester - I 
 
 ## Page 28
 
- 
- 
 FMCD2009 / 2.0 
  28 
   
@@ -1174,8 +1051,6 @@ Numerical of high and low charging rates, Battery sizing. Numericals.
 
 ## Page 29
 
- 
- 
 FMCD2009 / 2.0 
  29 
 Text Books  
@@ -1196,8 +1071,6 @@ Back to Semester - I
 
 ## Page 30
 
- 
- 
 FMCD2009 / 2.0 
  30 
   
@@ -1211,10 +1084,7 @@ Teaching Hours: 28Hrs Examination Duration: 3 Hrs
 Module Topics Assignments Support activities / Tools 
 KNOWLEDGE, TOOLS & DEVELOPMENT 
  
- 
- 
 Course sensitization 
- 
  
 1. Introduction  to Social 
 Innovation: 
@@ -1294,14 +1164,6 @@ Reading assignments
  Handout on “ Create 
 Mindsets” 
  
- 
- 
- 
- 
- 
- 
- 
- 
  (How to train the 
 Dragon?  
 Common Video for all 
@@ -1313,12 +1175,8 @@ Confidence by David
 Kelley – IDEO 
 Founder)  
  
- 
-
 ## Page 31
 
- 
- 
 FMCD2009 / 2.0 
  31 
 (Designing Website first and 
@@ -1344,7 +1202,6 @@ Agri Serve”
 Class Presentations 
  Initial observations being 
 made by the group  
- 
  
 ( Literature Survey of 
 Places of Hubli- 
@@ -1407,8 +1264,6 @@ study
 
 ## Page 32
 
- 
- 
 FMCD2009 / 2.0 
  32 
 (Examples on 
@@ -1451,7 +1306,6 @@ templates with  the
 help of sample case 
 study  
  
- 
 3.0 Ideation 
 3.2 Prototyping 
  
@@ -1484,8 +1338,6 @@ management
 
 ## Page 33
 
- 
- 
 FMCD2009 / 2.0 
  33 
  Test and get 
@@ -1535,7 +1387,6 @@ templates with the
 help of sample case 
 study 
  
-     
   5.0 Reflect 
  
 Reflection of the overall 
@@ -1552,45 +1403,17 @@ templates with the
 help of sample case 
 study 
  
-
 ## Page 34
 
- 
- 
 FMCD2009 / 2.0 
  34 
 Final Presentation- After 
 Implementation 
  
- 
- 
 Back to Semester - I 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 35
 
- 
- 
 FMCD2009 / 2.0 
  35 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: I 
@@ -1614,8 +1437,6 @@ Back to Semester - I
 
 ## Page 36
 
- 
- 
 FMCD2009 / 2.0 
  36 
   
@@ -1656,11 +1477,8 @@ Reference Books:
 2. Thomas Calculus, George B Thomas, Pearson India, 12ed, 2010 
 Back to Semester - II 
  
-
 ## Page 37
 
- 
- 
 FMCD2009 / 2.0 
  37 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: II 
@@ -1711,8 +1529,6 @@ materials – meaning, properties and applications.
 
 ## Page 38
 
- 
- 
 FMCD2009 / 2.0 
  38 
  
@@ -1752,12 +1568,9 @@ Back to Semester - II
 
 ## Page 39
 
- 
- 
 FMCD2009 / 2.0 
  39 
   
- 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: II 
 Course Title:  Problem Solving with Data Structures Course Code: 18ECSP102 
 L-T-P: 0-0-3 Credits: 3 Contact Hours:6 hrs/week 
@@ -1791,15 +1604,10 @@ Reference Books:
 Learning, 2008. 
 Back to Semester - II 
  
-
 ## Page 40
 
- 
- 
 FMCD2009 / 2.0 
  40 
- 
- 
  
 Program: Electronics Engineering (VLSI Design & Technology) Semester: II 
 Course Title:  Engineering Exploration Course Code: 15ECRP101 
@@ -1824,17 +1632,8 @@ Northup, Steven, McGraw Hill Higher Education, 6th Edition ( 2011)
  
 Back to Semester - II 
  
- 
- 
- 
- 
- 
- 
-
 ## Page 41
 
- 
- 
 FMCD2009 / 2.0 
  41 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: II 
@@ -1882,8 +1681,6 @@ Chapter 7: Linear Power Supply, UPS & CRO:
 
 ## Page 42
 
- 
- 
 FMCD2009 / 2.0 
  42 
 Working principle of linear power supply, UPS and CRO. Measurement of amplitude, frequency 
@@ -1904,11 +1701,8 @@ Reference Books:
  
 Back to Semester - II 
   
-
 ## Page 43
 
- 
- 
 FMCD2009 / 2.0 
  43 
  
@@ -1949,8 +1743,6 @@ SI and CI Engine, PV diagrams of Otto and Diesel cycles,  Comparison of 2 stroke
 
 ## Page 44
 
- 
- 
 FMCD2009 / 2.0 
  44 
 Back to Semester - II 
@@ -1978,8 +1770,6 @@ Vol I & II , 11th edition 2001, Media Promoters and Publishers.
 
 ## Page 45
 
- 
- 
 FMCD2009 / 2.0 
  45 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: II 
@@ -2008,19 +1798,8 @@ Reference Books:
 3. Martin Hewings- Advanced English Grammar, Cambridge University Press. 
 Back to Semester - II 
  
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 46
 
- 
- 
 FMCD2009 / 2.0 
  46 
  
@@ -2068,11 +1847,8 @@ variance, covariance, correlation.
 function, autocorrelation function, cross correlatio n, Power spectral Density: properties of 
 the spectral density; Gaussian Process: Properties of Gaussian process. 
  
-
 ## Page 47
 
- 
- 
 FMCD2009 / 2.0 
  47 
  
@@ -2092,24 +1868,8 @@ Edition, 2017
  
 Back to Semester - III 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 48
 
- 
- 
 FMCD2009 / 2.0 
  48 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: III 
@@ -2138,12 +1898,8 @@ Reference Books:
  
 Back to Semester - III 
  
-  
-
 ## Page 49
 
- 
- 
 FMCD2009 / 2.0 
  49 
 Program: Electronics Engineering (VLSI Design & Technology) Semester:  III Semester 
@@ -2186,11 +1942,8 @@ integrator models, time and frequency domain responses R -C, R-L circuits as Low
 pass filters 
 [ Text 2: Chapter 5, Text 1: Chapter 8,9,10] 
  
-
 ## Page 50
 
- 
- 
 FMCD2009 / 2.0 
  50 
 Unit III 
@@ -2212,26 +1965,10 @@ Reference Books:
 2.  V. K. Aatre, ―Network Theory and Filter Design,3rd edition, New Age International Private 
 Limited,2014 
  
- 
 Back to Semester - III 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 51
 
- 
- 
 FMCD2009 / 2.0 
  51 
  
@@ -2281,8 +2018,6 @@ Derivation of CS, CG and CD amplifiers parameters and its comparison, Implicatio
 
 ## Page 52
 
- 
- 
 FMCD2009 / 2.0 
  52 
 Bandwidth. Source degenerated common source amplifi er, cascode and cascaded  circuits High  
@@ -2320,14 +2055,10 @@ Pearson Education,2003
 6. J. Millman& A. Grabel, "Microelectronics"-2nd edition, McGraw Hill,2017 
 7. BehzadRazavi,―Fundamentals of Microelectronics, 2nd  edition Wiley;2013 
  
- 
 Back to Semester - III 
  
-
 ## Page 53
 
- 
- 
 FMCD2009 / 2.0 
  53 
  
@@ -2375,8 +2106,6 @@ memory, MROM, PROM, EPROM, EEPROM, Random access memory, SRAM, DRAM, NVRAM.
 
 ## Page 54
 
- 
- 
 FMCD2009 / 2.0 
  54 
  
@@ -2394,25 +2123,8 @@ Reference Books:
  
 Back to Semester - III 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 55
 
- 
- 
 FMCD2009 / 2.0 
  55 
  
@@ -2455,11 +2167,8 @@ Text Books:
 2. Alan V Oppenheim, Alan S Willsky and S. Hamid Nawab, Signals and Systems, 
 Second, PHI public,1997 
  
-
 ## Page 56
 
- 
- 
 FMCD2009 / 2.0 
  56 
 Reference Books: 
@@ -2468,34 +2177,10 @@ Reference Books:
 3. M.J.Roberts, Fundamentals of Signals and Systems 2nd edition, McGraw Hill Education, 
 2017 
  
- 
 Back to Semester - III 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 57
 
- 
- 
 FMCD2009 / 2.0 
  57 
 Program: Electronics Engineering (VLSI Design & Technology) Semester:  III Semester 
@@ -2528,19 +2213,10 @@ Reference Books:
 1. K.A.Krishnamurthy―Digital labprimer‖, Pearson Education Asia Publications, 2003. 
 2. A.P. Malvino, ―Electronic Principles 7th edition, McGraw Hill Education,2017 
  
- 
- 
 Back to Semester - III 
  
- 
- 
- 
- 
-
 ## Page 58
 
- 
- 
 FMCD2009 / 2.0 
  58 
 Program: Electronics Engineering (VLSI Design & Technology) Semester:  III Semester 
@@ -2583,11 +2259,8 @@ Electronics Lab manual.
  
 Back to Semester - III 
  
-
 ## Page 59
 
- 
- 
 FMCD2009 / 2.0 
  59 
 Program: Electronics Engineering (VLSI Design & Technology) Semester:  III Semester 
@@ -2634,8 +2307,6 @@ Interfacing 8051 to LCD, Keyboard, ADC, DAC, Stepper Motor, DC Motor.
 
 ## Page 60
 
- 
- 
 FMCD2009 / 2.0 
  60 
  
@@ -2652,29 +2323,10 @@ Gillispie Mazidi’, Pearson Education, 2003
 Reference Books: 
 1. “Programming and Customizing the 8051 Microcontroller ", by ‘Predko’, TMH. 
  
- 
 Back to Semester - III 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 61
 
- 
- 
 FMCD2009 / 2.0 
  61 
 Program: Electronics Engineering (VLSI Design & Technology) Semester:  III Semester 
@@ -2719,12 +2371,8 @@ ii) Print the pattern
 10. Write a C program to 
                Find out addition of two matrices. 
  
-  
-
 ## Page 62
 
- 
- 
 FMCD2009 / 2.0 
  62 
 Text Books 
@@ -2732,12 +2380,8 @@ Text Books
  
 Back to Semester - III 
  
-  
-
 ## Page 63
 
- 
- 
 FMCD2009 / 2.0 
  63 
 Program: Electronics Engineering (VLSI Design & Technology) Semester:  IV Semester 
@@ -2787,8 +2431,6 @@ Text Books
 
 ## Page 64
 
- 
- 
 FMCD2009 / 2.0 
  64 
 1. Simon Haykin, Barry Van Veen, Signals and Systems,2nd edition, Wiley,2007 
@@ -2802,30 +2444,10 @@ Reference Books:
 2. Stanley J Farlow, Partial differential equations for Scientists and Engineers, Dover 
 publications, INC, New York,1993 
  
- 
 Back to Semester - IV 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 65
 
- 
- 
 FMCD2009 / 2.0 
  65 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: IV 
@@ -2860,11 +2482,8 @@ Chand and Sons, New Delhi, 2018
  
 Back to Semester - IV 
  
-
 ## Page 66
 
- 
- 
 FMCD2009 / 2.0 
  66 
 Program: Electronics Engineering (VLSI Design & Technology) Semester:  IV Semester 
@@ -2906,11 +2525,8 @@ Chapter 7.
 Effect of tox - Effect of high-k and low-k dielectrics on the gate leakage and Source and drain leakage 
 - tunneling effects - Different gate structures in UDSM - Impact and reliability challenges in UDSM 
  
-
 ## Page 67
 
- 
- 
 FMCD2009 / 2.0 
  67 
 Text Books 
@@ -2921,35 +2537,12 @@ Publishers, US, 2017
 4. M K Achutan and K N Bhatt, Fundamental of Semiconductor Devices, McGraw Hill 
 Education, US, 2017 
  
- 
 Back to Semester - IV 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 68
 
- 
- 
 FMCD2009 / 2.0 
  68 
- 
  
 Program: Electronics Engineering (VLSI Design & Technology) Semester:  IV Semester 
 Course Title:  Linear Integrated Circuits Course Code: 23EVTC206 
@@ -2995,8 +2588,6 @@ Text Books
 
 ## Page 69
 
- 
- 
 FMCD2009 / 2.0 
  69 
 2. Phillip E. Allen, Douglas R. Holberg,  CMOS Analog Circuit Design, Oxford University Press, 
@@ -3010,31 +2601,10 @@ edition, Tata McGraw Hill 2014
 3. David A. Bell, Operational Amplifiers and Linear IC’s, 3rd ed., Oxford University Press, 2011 
 4. B. Razavi, Fundamentals of Microelectronics, 2nd edition. 
  
- 
 Back to Semester - IV 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 70
 
- 
- 
 FMCD2009 / 2.0 
  70 
 Program: Electronics Engineering (VLSI Design & Technology) Semester:  IV Semester 
@@ -3083,8 +2653,6 @@ Text Books
 
 ## Page 71
 
- 
- 
 FMCD2009 / 2.0 
  71 
 1. Computer Organization and Design, The hardware/Software interface, ARM edition – David 
@@ -3093,8 +2661,6 @@ A. Patterson, John L.Hennessy.   4th edition, MK publishers,2009
 Reference Books: 
 1. Computer Architecture and Organization– John P . Hayes, 3rd edition, McGraw-Hill, 1998 
 2. Computer Organization – V. Carl Hamacher, 6th edition, McGraw-Hill Higher Education 
- 
- 
  
 Experiment wise plan 
 List of Experiments planned to meet the requirements of the course 
@@ -3122,8 +2688,6 @@ execution).
 
 ## Page 72
 
- 
- 
 FMCD2009 / 2.0 
  72 
 Program: Electronics Engineering (VLSI Design & Technology) Semester:  IV Semester 
@@ -3172,8 +2736,6 @@ Text Books:
 
 ## Page 73
 
- 
- 
 FMCD2009 / 2.0 
  73 
 2. William Hohl, ARM Assembly Language fundamentals and Techniques, 1s t, CRC press, 
@@ -3183,8 +2745,6 @@ Reference Books:
 1. “ARM system Developer’s Guide”- Hardbound, Publication date: 2004 Imprint: MORGAN 
 KAUFFMAN 
 2. User manual onLPC21XX. 
- 
- 
  
 List of Experiments 
 1 Write an ALP to achieve the following arithmetic operations:  
@@ -3211,21 +2771,10 @@ prime number generation.
 
 ## Page 74
 
- 
- 
 FMCD2009 / 2.0 
  74 
  
 Back to Semester - IV 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Apply suitable machine dependent optimization technique and analyze for memory and 
 time consumed 
@@ -3245,8 +2794,6 @@ RTC value on a display device.
 
 ## Page 75
 
- 
- 
 FMCD2009 / 2.0 
  75 
  
@@ -3290,11 +2837,8 @@ McGraw
  
 Back to Semester - IV 
  
-
 ## Page 76
 
- 
- 
 FMCD2009 / 2.0 
  76 
  
@@ -3336,11 +2880,8 @@ d. David A. Bell, Operational Amplifiers and Linear IC’s, 2ed., PHI/Pearson, 2
 e. Manual: Lab manual prepared by SoECE Department. 
 Back to Semester - IV 
  
-
 ## Page 77
 
- 
- 
 FMCD2009 / 2.0 
  77 
 Program: Electronics Engineering (VLSI Design & Technology) Semester:  IV Semester 
@@ -3356,7 +2897,6 @@ algorithms, master’s theorem, complexity analysis of algorithms.
  
 Chapter No 2. Analysis of linear data-structures and its applications:  
 Complexity analysis of basic data structures (Stacks, Queues, Linked lists) 
- 
  
 Unit II 
 Chapter No 3. Analysis of non-linear data-structures and its applications  
@@ -3374,16 +2914,8 @@ Second Edition.
  
 Back to Semester - IV 
  
- 
- 
- 
- 
- 
-
 ## Page 78
 
- 
- 
 FMCD2009 / 2.0 
  78 
 Program: Electronics Engineering (VLSI Design & Technology) Semester:  IV Semester 
@@ -3405,7 +2937,6 @@ Correlation of Experiment
 with the theory 
 1 Programs on Pointer concepts. 2.00 0.00  
  
-  
 Learning Objectives : 
 The students should be able to 
 Perform basic programming structures on 
@@ -3429,8 +2960,6 @@ a)Perform string handling functions like
 
 ## Page 79
 
- 
- 
 FMCD2009 / 2.0 
  79 
 5. Strings reverse. 
@@ -3477,8 +3006,6 @@ different types of Linked lists
 
 ## Page 80
 
- 
- 
 FMCD2009 / 2.0 
  80 
 The students should be able to write a modular program to use the 
@@ -3517,8 +3044,6 @@ The students should be able to
 
 ## Page 81
 
- 
- 
 FMCD2009 / 2.0 
  81 
  Write modular program on 
@@ -3536,15 +3061,10 @@ C”, 2nd Edition , Course Technology, Oct 2009.
 8. Kernighan and Ritchie, The ANSI C programming Language, 2 ed., PHI.  
 9. Robert Kruse, Data Structures and Program Design in C, 2 ed., Pearson 
  
- 
- 
 Back to Semester - IV 
   
-
 ## Page 82
 
- 
- 
 FMCD2009 / 2.0 
  82 
  
@@ -3592,8 +3112,6 @@ Text Books
 
 ## Page 83
 
- 
- 
 FMCD2009 / 2.0 
  83 
 4. M. J. S. Smith, "Application Specific Integrated Circuits”, Addison -Wesley Longman Inc., 
@@ -3606,16 +3124,10 @@ Pablo Duarte, Navid Payvadosi, Ai Niknejad, Chenming Hu, Elsevier Publication, 2
 3. Douglas A Pucknell and Kamran Eshraghian, Basic VLSI Design, 3, PHI, 2005 
 4. Faranak Nekoogar, “From ASICs to SOCs: A Practical Approach”, Prentice Hall PTR, 2003. 
  
- 
 Back to Semester - V 
  
- 
-  
-
 ## Page 84
 
- 
- 
 FMCD2009 / 2.0 
  84 
 Program: Electronics Engineering (VLSI Design & Technology) Semester:  V Semester 
@@ -3665,8 +3177,6 @@ Text Books
 
 ## Page 85
 
- 
- 
 FMCD2009 / 2.0 
  85 
 1. J. Nagrath and M. Gopal, Control Systems Engineering; Sixth edition, New Age 
@@ -3679,31 +3189,10 @@ Ltd,2015,
 2. Richord C Dorf and Robert H. Bishop, Modern Control Systems, 13th edition, Pearson; 
 2016 
  
- 
 Back to Semester - V 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 86
 
- 
- 
 FMCD2009 / 2.0 
  86 
 Program: Electronics Engineering (VLSI Design & Technology) Semester:  V Semester 
@@ -3750,11 +3239,8 @@ classification, Steps to train a neural network, Applications of Neural Networks
 Deep Learning (Motiv ation, Overview), Convolution Neural Networks (CNN) (Architecture, 
 terminologies, Evolution and Modelling). 
  
-
 ## Page 87
 
- 
- 
 FMCD2009 / 2.0 
  87 
 Unit III 
@@ -3773,28 +3259,10 @@ Reference Books:
 1. Trevor Hastie, Robert Tibshirani, Jerome Friedman, The Elements of Statistical 
 Learning: Data Mining Inference and Prediction, 2, Springer, 2009 
  
- 
- 
 Back to Semester - V 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 88
 
- 
- 
 FMCD2009 / 2.0 
  88 
  
@@ -3820,8 +3288,6 @@ Chapter 3: Electrostatic Boundary-Value Problems
 Introduction, Poisson ’s and Laplace ’s Equations, Uniqueness Theorem, General Procedure for 
 Solving Poisson’s or Laplace’s Equation, Resistance and Capacitance, Method of Images. 
   
- 
- 
 Unit II 
 Chapter 4: Magnetostatic Fields 
 Introduction, Biot -Savart’s Law, Am pere’s Circuit Law —Maxwell’s Equation, Applications of 
@@ -3837,11 +3303,8 @@ Chapter 6: Maxwell’s Equations
 Introduction, Faraday ’s Law, Transformer and Motional Electromotive Forces, Displacement 
 Current, Maxwell’s Equations in Final Forms, Time-Varying Potentials, Time-Harmonic Fields. 
  
-
 ## Page 89
 
- 
- 
 FMCD2009 / 2.0 
  89 
 Unit III 
@@ -3856,30 +3319,10 @@ Text Books
 2. William Hayt, Jr. John A. Buck, Engineering Electromagnetics, 8th edition, TMH, 2012 
 3. Kraus, John D. Electromagnetics. United Kingdom, McGraw-Hill, 1992. 
  
- 
- 
 Back to Semester - V 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 90
 
- 
- 
 FMCD2009 / 2.0 
  90 
  
@@ -3924,11 +3367,8 @@ Chapter No. 6. VLSI Digital Signal Processing Systems
 Introduction, FIR Filters, IIR Filters, design high-speed, low-area, and low-power VLSI systems for a 
 broad range of DSP applications. 
  
-
 ## Page 91
 
- 
- 
 FMCD2009 / 2.0 
  91 
 Text Books: 
@@ -3945,30 +3385,10 @@ Singapore
 3. Emmanuel C Ifeachor and B W Jervis, “Digital Signal Processing: A Practical Approach ”, 
 Pearson Education, New Delhi.     
  
- 
 Back to Semester - V 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 92
 
- 
- 
 FMCD2009 / 2.0 
  92 
 Program: Electronics Engineering (VLSI Design & Technology) Semester:  V Semester 
@@ -4010,11 +3430,8 @@ Reference Books:
  
 Back to Semester - V 
  
-
 ## Page 93
 
- 
- 
 FMCD2009 / 2.0 
  93 
 Program: Electronics Engineering (VLSI Design & Technology) Semester:  V Semester 
@@ -4046,20 +3463,8 @@ Perspective,  2nd edition, Pearson  Education  (Asia) Ptv. Ltd.,2000.
  
 Back to Semester - V 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 94
 
- 
- 
 FMCD2009 / 2.0 
  94 
 Program: Electronics Engineering (VLSI Design & Technology) Semester:  V Semester 
@@ -4077,16 +3482,6 @@ four semesters, so that the student will learn to integrate, the knowledge base 
  The hardware design  
  The graphical user interface (GUI) for application and data analysis with report 
 generation. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 4. Student can select a project which leads to a product or model or prototype related to 
 following areas (not limited to these areas). 
@@ -4117,8 +3512,6 @@ t
 
 ## Page 95
 
- 
- 
 FMCD2009 / 2.0 
  95 
 Program: Electronics Engineering (VLSI Design & Technology) Semester:  V Semester 
@@ -4149,12 +3542,8 @@ New Delhi, 2018
  
 Back to Semester - V 
  
-  
-
 ## Page 96
 
- 
- 
 FMCD2009 / 2.0 
  96 
 Program: Electronics Engineering (VLSI Design & Technology) Semester:  VI Semester 
@@ -4193,15 +3582,8 @@ Wiley-IEEE Press, 2010.
  
 Back to Semester - VI 
  
- 
- 
- 
- 
-
 ## Page 97
 
- 
- 
 FMCD2009 / 2.0 
  97 
 Program: Electronics Engineering (VLSI Design & Technology) Semester:  VI Semester 
@@ -4250,8 +3632,6 @@ Back to Semester - VI
 
 ## Page 98
 
- 
- 
 FMCD2009 / 2.0 
  98 
  
@@ -4295,11 +3675,8 @@ Tools: Questa Sim, NC Verilog, NC Sim, CVER + GTKWave, VCSMX, Modelsim for Veril
  
 Back to Semester - VI 
  
-
 ## Page 99
 
- 
- 
 FMCD2009 / 2.0 
  99 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VI Semester 
@@ -4347,8 +3724,6 @@ Chapter 6: Generative Models II: Large Language Models (LLMs)
 
 ## Page 100
 
- 
- 
 FMCD2009 / 2.0 
  100 
 Introduction to LLMs, Overview of Large Language Models (e.g., GPT -3, GPT -4), Training  
@@ -4366,28 +3741,8 @@ applications, Responsible use of generative models in society
  
 Back to Semester - VI 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 101
 
- 
- 
 FMCD2009 / 2.0 
  101 
 Program: Electronics Engineering (VLSI Design & Technology) Semester:  VI Semester 
@@ -4424,18 +3779,14 @@ Details of the project batches:
 1. Number of faculty members: 64 
 2. Number of students: 278    
  
- 
 Role of a Guide  
 The primary responsibility of the guide is to help students to understand the meaning and need 
 of various stages in the implementation of the project. At every stage of the project 
 development, guide should help towards its successful completion as per the predefined 
 standards. 
  
-
 ## Page 102
 
- 
- 
 FMCD2009 / 2.0 
  102 
 How student should carry out a project: 
@@ -4455,11 +3806,8 @@ Report Writing
  
  Back to Semester - VI 
   
-
 ## Page 103
 
- 
- 
 FMCD2009 / 2.0 
  103 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VI 
@@ -4488,12 +3836,8 @@ Reference Books:
  
                                                      Back to Semester - VI 
  
-  
-
 ## Page 104
 
- 
- 
 FMCD2009 / 2.0 
  104 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VI Semester 
@@ -4523,14 +3867,8 @@ Reference Books:
  
     Back to Semester - VI 
  
- 
- 
-  
-
 ## Page 105
 
- 
- 
 FMCD2009 / 2.0 
  105 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VI 
@@ -4580,22 +3918,16 @@ Reference Books
 
 ## Page 106
 
- 
- 
 FMCD2009 / 2.0 
  106 
 3. Bernard S Matisoff, Handbook of Electronics Packaging Design and Engineering, 
 Springer, 2012. 
 4. Rao R Tummala, Fundamentals of Microsystems Packaging, McGraw Hill, 2001. 
  
- 
 Back to List of Electives 
   
-
 ## Page 107
 
- 
- 
 FMCD2009 / 2.0 
  107 
 Program: Electronics Engineering (VLSI Design & Technology) Semester:  VI Semester 
@@ -4638,49 +3970,21 @@ Text Books
 2. “Principles of communication Systems”, by Taub & Schilling, 2nd edition, TMH. 
 3. “Digital communications”, Simon Haykin, John Wiley, 2006 
  
- 
 Reference Books: 
 1. Communication Systems, by B.P .Lathi ,  
 
 ## Page 108
 
- 
- 
 FMCD2009 / 2.0 
  108 
 2. Ganesh Rao, K N Haribhat, Analog Communication, Sanguine, 2009 
 3. Communication Systems by Harold. P .E, Stern Samy. A. Mahmond, Pearson Education, 2004. 
 4. Electronic communication systems, Kennedy and Davis, TMH, Edn. 6, 2012 
  
- 
- 
 Back to List of Electives 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 109
 
- 
- 
 FMCD2009 / 2.0 
  109 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VI Semester 
@@ -4720,15 +4024,10 @@ Reference Books:
 2. Larry L. Peterson and Bruce S. Davie, Computer Networks A Systems Approach, 4th Edition, 
 Elsevier, 2007 
  
- 
- 
 Back to List of Electives 
  
-
 ## Page 110
 
- 
- 
 FMCD2009 / 2.0 
  110 
  
@@ -4765,7 +4064,6 @@ Android Architecture, Linux Kernel, Binder, HAL Native Libraries, Android Runtim
 Application framework, Applications, IPC. 
  
 Text Books 
-1. Linux System Programming, by Robert Love, Copyright © 2007 O'Reilly Media 
 2. Heterogeneous Computing with OpenCL, 2nd Edition by Dana Schaa, Perhaad Mistry, 
 David R. Kaeli, Lee Howes, Benedict Gaster, Publisher: Morgan Kaufmann  
  
@@ -4773,12 +4071,8 @@ Reference Books:
 1. Deep Learning, MIT Press book, Goodfellow, Bengio, and Courville’s 
 2. Beginning Android, by Wei-Meng Lee , Publisher: Wrox , O'Reilly Media 
  
- 
-
 ## Page 111
 
- 
- 
 FMCD2009 / 2.0 
  111 
  
@@ -4804,18 +4098,8 @@ different architectures based on provided specifications.
  
 Back to List of Electives 
  
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 112
 
- 
- 
 FMCD2009 / 2.0 
  112 
  
@@ -4865,8 +4149,6 @@ controls for autonomous driving, connected vehicles.
 
 ## Page 113
 
- 
- 
 FMCD2009 / 2.0 
  113 
 Functional Safety: Need for safety standard -ISO 26262, safety concept, safety process for product 
@@ -4890,25 +4172,10 @@ Reference Books:
 Techniques, Elsevier Science,2001 
 4. Nicholas Navet, Automotive Embedded System Handbook ,2009 
  
- 
- 
 Back to List of Electives 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 114
 
- 
- 
 FMCD2009 / 2.0 
  114 
 Program: Electronics Engineering (VLSI Design & Technology) Semester:  VII Semester 
@@ -4946,16 +4213,10 @@ Chadha,
  Springer Science+Business Media, LLC 2009 
 Tools: Cadence Innovous, Encounter 
  
- 
 Back to Semester VII 
  
- 
- 
-
 ## Page 115
 
- 
- 
 FMCD2009 / 2.0 
  115 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VII 
@@ -5002,8 +4263,6 @@ How student should carry out a project:
 
 ## Page 116
 
- 
- 
 FMCD2009 / 2.0 
  116 
 • Specify the de sign in the understandable form (Block Diagram, Flowchart, Algorithm, 
@@ -5027,26 +4286,10 @@ Evaluation Scheme
 • Project shall be reviewed and evaluated by the concerned Guide for 50% of the marks. 
 • Project shall be evaluated by the review committee for 50% of the marks. 
  
- 
 Back to Semester VII 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 117
 
- 
- 
 FMCD2009 / 2.0 
  117 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VII 
@@ -5080,7 +4323,6 @@ Scope & Aims of Engineering Ethics: Meaning and purpose of Engineering Ethics, R
 of Engineers, Impediments to responsibility, Honesty, Integrity and reliab ility, risks, safety & 
 liability in engineering. Bhopal Gas Tragedy, Titanic case.  
 Chapter No. 8 Intellectual Property Rights  
-Intellectual Property Rights (IPRs)- Patents, Copyright and Designs 
 Chapter No. 9  Ethical perspectives of professional bodies  
 Ethical perspectives of professional bodies- IEEE, ASME, NSPE and ABET, ASCE etc. 
 Unit III 
@@ -5091,8 +4333,6 @@ Development.
 
 ## Page 118
 
- 
- 
 FMCD2009 / 2.0 
  118 
 Chapter No. 11 Environmental Protection  
@@ -5109,28 +4349,10 @@ References
 2. Mike Martin and Ronald Schinzinger, “Ethics in Engineering”, Tata McGraw-Hill 
 Publications. 
  
- 
- 
- 
 Back to Semester VII 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 119
 
- 
- 
 FMCD2009 / 2.0 
  119 
 Program: Electronics Engineering (VLSI Design & Technology) Semester:  VII Semester 
@@ -5174,11 +4396,8 @@ Reference Books:
  
 Back to List of Electives 
   
-
 ## Page 120
 
- 
- 
 FMCD2009 / 2.0 
  120 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VII 
@@ -5217,11 +4436,8 @@ Compatibility. CRC Press, 2018.
  
 Back to List of Electives 
   
-
 ## Page 121
 
- 
- 
 FMCD2009 / 2.0 
  121 
 Program: Electronics Engineering (VLSI Design & Technology) Semester:  VII Semester 
@@ -5255,18 +4471,10 @@ Systems. Kluwer, 1995
  5. IEEE and ACM Transactions. 6. Jorgen Staunstrup, Wayne Wolf, Hardware / Software Co-Design: 
 Principles and Practice, Kluwer Academic, 1997 7. Black David C. Systemc : From The Ground Up 
  
- 
 Back to List of Electives 
  
- 
- 
- 
- 
-
 ## Page 122
 
- 
- 
 FMCD2009 / 2.0 
  122 
 Program: Electronics Engineering (VLSI Design & Technology) Semester:  VII Semester 
@@ -5299,14 +4507,10 @@ Reference Books
 3. C. Mead and L. Conway, Introduction to VLSI Systems, Addison Wesley, 1979. 
 4. B Razavi ‘Design of Analog CMOS Integrated Circuits’ First Edition McGraw Hill 2001 
  
- 
 Back to List of Electives 
   
-
 ## Page 123
 
- 
- 
 FMCD2009 / 2.0 
  123 
 Program: Electronics Engineering (VLSI Design & Technology) Semester:  VII Semester 
@@ -5356,20 +4560,15 @@ Circuits”, Springer, 1st edition, 2nd printing 2005.
 
 ## Page 124
 
- 
- 
 FMCD2009 / 2.0 
  124 
 3.  Brent Keeth, R. Jacob Baker, Brian Johnson, Feng Lin, “DRAM Circuit Design: Fundamental  and 
 High-Speed Topics”, 2E, Wiley, IEEE Press December 2007. 
  
- 
 Back to List of Electives  
 
 ## Page 125
 
- 
- 
 FMCD2009 / 2.0 
  125 
 Program: Electronics Engineering (VLSI Design & Technology) Semester:  VII Semester 
@@ -5418,8 +4617,6 @@ Springer, 2012.
 
 ## Page 126
 
- 
- 
 FMCD2009 / 2.0 
  126 
 2006. 
@@ -5427,11 +4624,8 @@ FMCD2009 / 2.0
  
 Back to List of Electives 
   
-
 ## Page 127
 
- 
- 
 FMCD2009 / 2.0 
  127 
 Program: Electronics Engineering (VLSI Design & Technology) Semester:  VII Semester 
@@ -5475,11 +4669,8 @@ education, New Delhi
  
 Back to List of Electives 
  
-
 ## Page 128
 
- 
- 
 FMCD2009 / 2.0 
  128 
 Program: Electronics Engineering (VLSI Design & Technology) Semester:  VII Semester 
@@ -5518,15 +4709,8 @@ Reference Books:
  
 Back to List of Electives 
  
- 
- 
- 
- 
-
 ## Page 129
 
- 
- 
 FMCD2009 / 2.0 
  129 
 Program: Electronics Engineering (VLSI Design & Technology) Semester:  VII Semester 
@@ -5565,11 +4749,8 @@ ltd. London.
  
 Back to List of Electives 
   
-
 ## Page 130
 
- 
- 
 FMCD2009 / 2.0 
  130 
 Program: Electronics Engineering (VLSI Design & Technology) Semester:  VII Semester 
@@ -5607,11 +4788,8 @@ Blackwell, 2016.
  
 Back to List of Electives 
   
-
 ## Page 131
 
- 
- 
 FMCD2009 / 2.0 
  131 
  
@@ -5656,8 +4834,6 @@ Piscataway, New Jersey: IEEE Press, 1994
 
 ## Page 132
 
- 
- 
 FMCD2009 / 2.0 
  132 
 5. D. K. Pradhan (Editor). Fault-Tolerant Computing: Theory and Techniques, Prentice Hall, NJ, 
@@ -5667,11 +4843,8 @@ FMCD2009 / 2.0
  
 Back to List of Electives 
   
-
 ## Page 133
 
- 
- 
 FMCD2009 / 2.0 
  133 
 Program: Electronics Engineering (VLSI Design & Technology) Semester:  VII Semester 
@@ -5682,11 +4855,8 @@ Teaching Hours:42Hrs Examination Duration:3Hrs
  
 Back to List of Electives 
   
-
 ## Page 134
 
- 
- 
 FMCD2009 / 2.0 
  134 
 Program: Electronics Engineering (VLSI Design & Technology) Semester:  VII Semester 
@@ -5732,11 +4902,8 @@ edition, 2014.
  
 Back to List of Electives 
  
-
 ## Page 135
 
- 
- 
 FMCD2009 / 2.0 
  135 
 Program: Electronics Engineering (VLSI Design & Technology) Semester:  VII Semester 
@@ -5779,11 +4946,8 @@ TMH, 2003 (Third Edition).
  
 Back to List of Electives 
   
-
 ## Page 136
 
- 
- 
 FMCD2009 / 2.0 
  136 
 Program: Electronics Engineering (VLSI Design & Technology) Semester:  VII Semester 
@@ -5794,11 +4958,8 @@ Teaching Hours:42Hrs Examination Duration:3Hrs
  
 Back to List of Electives 
   
-
 ## Page 137
 
- 
- 
 FMCD2009 / 2.0 
  137 
  
@@ -5843,11 +5004,8 @@ Reference books:
  
 Back to List of Electives 
   
-
 ## Page 138
 
- 
- 
 FMCD2009 / 2.0 
  138 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VIII 
@@ -5889,11 +5047,8 @@ Publication, 2003.
  
 Back to List of Electives 
   
-
 ## Page 139
 
- 
- 
 FMCD2009 / 2.0 
  139 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VIII 
@@ -5940,8 +5095,6 @@ How student should carry out a project:
 
 ## Page 140
 
- 
- 
 FMCD2009 / 2.0 
  140 
 • Specify the design in the understandable form (Block Diagram, Flowchart, Algorithm, 
@@ -5965,26 +5118,10 @@ Evaluation Scheme
 • Project shall be reviewed and evaluated by the concerned Guide for 50% of the marks. 
 • Project shall be evaluated by the review committee for 50% of the marks. 
  
- 
 Back to Semester VIII 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 141
 
- 
- 
 FMCD2009 / 2.0 
  141 
  
@@ -6007,14 +5144,10 @@ Evaluation parameters for Internship Training
  Conclusions and discussion 
  Presentation skills 
  
- 
 Back to Semester VIII 
   
-
 ## Page 142
 
- 
- 
 FMCD2009 / 2.0 
  142 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VIII 
@@ -6036,25 +5169,10 @@ Evaluation parameters for Internship Project
  Conclusions and discussion 
  Presentation skills 
  
- 
 Back to Semester VIII 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 143
 
- 
- 
 FMCD2009 / 2.0 
  143 
 Program: Electronics Engineering (VLSI Design & Technology) Semester:  VIII Semester 
@@ -6090,16 +5208,8 @@ Principles and Practice, Kluwer Academic, 1997 7. Black David C. Systemc : From 
  
 Back to List of Electives 
  
- 
- 
- 
- 
- 
-
 ## Page 144
 
- 
- 
 FMCD2009 / 2.0 
  144 
  
@@ -6148,8 +5258,6 @@ Springer, 2012.
 
 ## Page 145
 
- 
- 
 FMCD2009 / 2.0 
  145 
 2. Lin, Y-L.S. (ed.), “Essential issues in SOC design: designing complex systems-on-chip. Springer, 
@@ -6158,32 +5266,8 @@ FMCD2009 / 2.0
  
 Back to List of Electives 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 146
 
- 
- 
 FMCD2009 / 2.0 
  146 
 Program:  Electronics Engineering - VLSI Design and 
@@ -6221,8 +5305,6 @@ Lectures:
 
 ## Page 147
 
- 
- 
 FMCD2009 / 2.0 
  147 
  Launch-on-shift vs. launch-on-capture techniques 
@@ -6257,8 +5339,6 @@ Assignment:
 
 ## Page 148
 
- 
- 
 FMCD2009 / 2.0 
  148 
  Development of a comprehensive boundary scan solution for a complex ASIC 
@@ -6293,8 +5373,6 @@ Week 9: DFT for Low Power Designs
 
 ## Page 149
 
- 
- 
 FMCD2009 / 2.0 
  149 
 Lectures: 
@@ -6329,8 +5407,6 @@ Final Project Presentation:
 
 ## Page 150
 
- 
- 
 FMCD2009 / 2.0 
  150 
  Test coverage analysis and optimization 
@@ -6346,5 +5422,4 @@ Reference Tools:
  Mentor Graphics Tessent 
  
 Back to List of Electives 
- 
  

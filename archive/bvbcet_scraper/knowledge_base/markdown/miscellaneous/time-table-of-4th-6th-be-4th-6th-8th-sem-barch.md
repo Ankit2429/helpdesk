@@ -1,4 +1,5 @@
 # PDF Document: time-table-of-4th-6th-be-4th-6th-8th-sem-barch
+
 **PDF Source:** https://www.kletech.ac.in/hubballi/pdf/time-table-of-4th-6th-be-4th-6th-8th-sem-barch.pdf
 
 ## Page 1
@@ -97,7 +98,6 @@ TIME TABLE FOR IV & VI SEMESTER B.E. END SEMESTER ASSES SMENT EXAMINATIONS JULY 
 ---------------------- ---------------------- 
 ---------------------- ---------------------- 
 
-
 ## Page 2
 
 IV SEMESTER IV SEMESTER VI SEMESTER VI SEMESTER 
@@ -164,7 +164,6 @@ Date
 TIME TABLE FOR IV & VI SEMESTER B.E. END SEMESTER ASSES SMENT EXAMINATIONS JULY 
 2021 
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India) 
-
 
 ## Page 3
 
@@ -254,7 +253,6 @@ Date
 (Thursday) ---------------------- ---------------------- 
 TIME TABLE FOR IV & VI SEMESTER B.E. END SEMESTER ASSES SMENT EXAMINATIONS JULY 2021 
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India) 
-
 
 ## Page 4
 
@@ -350,7 +348,6 @@ Date
 TIME TABLE FOR IV & VI SEMESTER B.E. END SEMESTER ASSES SMENT EXAMINATIONS JULY 2021 
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India) 
 
-
 ## Page 5
 
 IV SEMESTER IV SEMESTER VI SEMESTER VI SEMESTER 
@@ -436,7 +433,6 @@ Date
 (Thursday) ---------------------- ---------------------- 
 TIME TABLE FOR IV & VI SEMESTER B.E. END SEMESTER ASSES SMENT EXAMINATIONS JULY 2021 
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India) 
-
 
 ## Page 6
 
@@ -532,7 +528,6 @@ Date
 TIME TABLE FOR IV & VI SEMESTER B.E. END SEMESTER ASSES SMENT EXAMINATIONS JULY 2021 
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India) 
 
-
 ## Page 7
 
 IV SEMESTER IV SEMESTER VI SEMESTER VI SEMESTER 
@@ -623,7 +618,6 @@ Date
 (Thursday) ---------------------- ---------------------- 
 TIME TABLE FOR IV & VI SEMESTER B.E. END SEMESTER ASSES SMENT EXAMINATIONS JULY 2021 
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India) 
-
 
 ## Page 8
 

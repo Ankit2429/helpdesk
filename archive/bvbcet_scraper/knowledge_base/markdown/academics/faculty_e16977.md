@@ -2,5014 +2,4368 @@
 
 **Source URL:** https://www.kletech.ac.in/hubballi/academic/faculty
 
-
 # Faculty
 
-- Home
-- Academic
-- Faculty
+                                                                                            Ashok.S.Shettar   
 
-- Dr.
-                                                                                            Ashok.S.Shettar   
-                                                                                    
-
                                                                                         Pro Chancellor, KLE Technological University, Hubballi
 
+### Dr.
 
-### Dr.
                                                                                             Ashok.S.Shettar
 
 Pro Chancellor, KLE Technological University, Hubballi
 
-- Dr.
-                                                                                            B. B. Kotturshettar
-                                                                                    
-
+- Dr.
+
+                                                                                            B. B. Kotturshettar
+
                                                                                         Dean, Faculty Applied Engineering
 - Ph.D.
 
+### Dr.
 
-### Dr.
                                                                                             B. B. Kotturshettar
 
 Dean, Faculty Applied Engineering
 
-- Dr.
-                                                                                            G.U.Raju
-                                                                                    
-
+- Dr.
+
+                                                                                            G.U.Raju
+
                                                                                         Professor and HoD
 - Ph.D.
 
+### Dr.
 
-### Dr.
                                                                                             G.U.Raju
 
 Professor and HoD
 
-- Dr.
-                                                                                            M.R.Shollapur   
-                                                                                    
-
+- Dr.
+
+                                                                                            M.R.Shollapur   
+
                                                                                         Dean-Faculty of Commerce and Management
 
+### Dr.
 
-### Dr.
                                                                                             M.R.Shollapur
 
 Dean-Faculty of Commerce and Management
 
-- Dr.
-                                                                                            Gurubasavarya Hiremath
-                                                                                    
-
+- Dr.
+
+                                                                                            Gurubasavarya Hiremath
+
                                                                                         Professor and HoD
 
+### Dr.
 
-### Dr.
                                                                                             Gurubasavarya Hiremath
 
 Professor and HoD
 
-- Prof.
-                                                                                            B.L.Desai   
-                                                                                    
-
+- Prof.
+
+                                                                                            B.L.Desai   
+
                                                                                         Prof And Executive Dean
 
+### Prof.
 
-### Prof.
                                                                                             B.L.Desai
 
 Prof And Executive Dean
 
-- Dr.
-                                                                                            N. Ayachit  
-                                                                                    
-
+- Dr.
+
+                                                                                            N. Ayachit  
+
                                                                                         Professor and Director Research
 
+### Dr.
 
-### Dr.
                                                                                             N. Ayachit
 
 Professor and Director Research
 
-- Dr.
-                                                                                            T.M. Aminbhavi  
-                                                                                    
-
+- Dr.
+
+                                                                                            T.M. Aminbhavi  
+
                                                                                         Professor and Director Research
 
+### Dr.
 
-### Dr.
                                                                                             T.M. Aminbhavi
 
 Professor and Director Research
 
-- Dr.
-                                                                                            M.R.Patil   
-                                                                                    
-
+- Dr.
+
+                                                                                            M.R.Patil   
+
                                                                                         Professor & HOD
 - Ph.D.
 
+### Dr.
 
-### Dr.
                                                                                             M.R.Patil
 
 Professor & HOD
 
-- Dr.
-                                                                                            A.B.Raju   
-                                                                                    
-
+- Dr.
+
+                                                                                            A.B.Raju   
+
                                                                                         Professor & HOD
 
+### Dr.
 
-### Dr.
                                                                                             A.B.Raju
 
 Professor & HOD
 
-- Sri.
-                                                                                            A.C. Giriyapur  
-                                                                                    
-
+- Sri.
+
+                                                                                            A.C. Giriyapur  
+
                                                                                         Professor & HOD
 
+### Sri.
 
-### Sri.
                                                                                             A.C. Giriyapur
 
 Professor & HOD
 
-- Dr.
-                                                                                            Basavaraj.S. Hungund  
-                                                                                    
-
+- Dr.
+
+                                                                                            Basavaraj.S. Hungund  
+
                                                                                         Professor & HOD
 
+### Dr.
 
-### Dr.
                                                                                             Basavaraj.S. Hungund
 
 Professor & HOD
 
-- Dr.
-                                                                                            (Smt). Vinaya Hiremath 
-                                                                                    
-
+- Dr.
+
+                                                                                            (Smt). Vinaya Hiremath 
+
                                                                                         Professor & HOD
 
+### Dr.
 
-### Dr.
                                                                                             (Smt). Vinaya Hiremath
 
 Professor & HOD
 
-- Dr.
-                                                                                            G.B. Marali  
-                                                                                    
-
+- Dr.
+
+                                                                                            G.B. Marali  
+
                                                                                         Professor & HOD
 
+### Dr.
 
-### Dr.
                                                                                             G.B. Marali
 
 Professor & HOD
 
-- Dr.
-                                                                                            Prakashgouda Patil  
-                                                                                    
-
+- Dr.
+
+                                                                                            Prakashgouda Patil  
+
                                                                                         Professor & HOD
 
+### Dr.
 
-### Dr.
                                                                                             Prakashgouda Patil
 
 Professor & HOD
 
-- Dr
-                                                                                            (Smt). Nalini .C. Iyer
-                                                                                    
-
+- Dr
+
+                                                                                            (Smt). Nalini .C. Iyer
+
                                                                                         Professor & HOD
 
+### Dr
 
-### Dr
                                                                                             (Smt). Nalini .C. Iyer
 
 Professor & HOD
 
-- Dr.
-                                                                                            (Smt) Meena S Maralappanavar 
-                                                                                    
-
+- Dr.
+
+                                                                                            (Smt) Meena S Maralappanavar 
+
                                                                                         Professor & HOD
 
+### Dr.
 
-### Dr.
                                                                                             (Smt) Meena S Maralappanavar
 
 Professor & HOD
 
-- Dr.
-                                                                                            Gurunath Kampli  
-                                                                                    
-
+- Dr.
+
+                                                                                            Gurunath Kampli  
+
                                                                                         Associate Professor and Associate HOD
 - Ph.D.
 
+### Dr.
 
-### Dr.
                                                                                             Gurunath Kampli
 
 Associate Professor and Associate HOD
 
-- Dr.
-                                                                                            M.V.Chitwadagi   
-                                                                                    
-
+- Dr.
+
+                                                                                            M.V.Chitwadagi   
+
                                                                                         Professor
 
+### Dr.
 
-### Dr.
                                                                                             M.V.Chitwadagi
 
 Professor
 
-- Dr.
-                                                                                            S.S.Dyavanal   
-                                                                                    
-
+- Dr.
+
+                                                                                            S.S.Dyavanal   
+
                                                                                         Professor
 - Ph.D.
 
+### Dr.
 
-### Dr.
                                                                                             S.S.Dyavanal
 
 Professor
 
-- Dr.
-                                                                                            N.R. Banapuramath  
-                                                                                    
-
+- Dr.
+
+                                                                                            N.R. Banapuramath  
+
                                                                                         Professor
 - Ph.D.
 
+### Dr.
 
-### Dr.
                                                                                             N.R. Banapuramath
 
 Professor
 
-- Dr.
-                                                                                            K. G. Kodancha 
-                                                                                    
-
+- Dr.
+
+                                                                                            K. G. Kodancha 
+
                                                                                         Professor
 - Ph.D.
 
+### Dr.
 
-### Dr.
                                                                                             K. G. Kodancha
 
 Professor
 
-- Dr.
-                                                                                            Sanjay V. Kotabagi
-                                                                                    
-
+- Dr.
+
+                                                                                            Sanjay V. Kotabagi
+
                                                                                         Professor
 - Ph.D.
 
+### Dr.
 
-### Dr.
                                                                                             Sanjay V. Kotabagi
 
 Professor
 
-- Dr.
-                                                                                            Revankar P.P
-                                                                                    
-
+- Dr.
+
+                                                                                            Revankar P.P
+
                                                                                         Professor
 - Ph.D.
 
+### Dr.
 
-### Dr.
                                                                                             Revankar P.P
 
 Professor
 
-- Dr.
-                                                                                            Siddhalingeshwar I.G.
-                                                                                    
-
+- Dr.
+
+                                                                                            Siddhalingeshwar I.G.
+
                                                                                         Professor
 - Ph.D.
 
+### Dr.
 
-### Dr.
                                                                                             Siddhalingeshwar I.G.
 
 Professor
 
-- Dr.
-                                                                                            S.B. Karajgi  
-                                                                                    
-
+- Dr.
+
+                                                                                            S.B. Karajgi  
+
                                                                                         Professor
 
+### Dr.
 
-### Dr.
                                                                                             S.B. Karajgi
 
 Professor
 
-- Dr.
-                                                                                            Shrinivas.D. Desai  
-                                                                                    
-
+- Dr.
+
+                                                                                            Shrinivas.D. Desai  
+
                                                                                         Professor
 
+### Dr.
 
-### Dr.
                                                                                             Shrinivas.D. Desai
 
 Professor
 
-- Dr.
-                                                                                            Mrityunjaya Kappali  
-                                                                                    
-
+- Dr.
+
+                                                                                            Mrityunjaya Kappali  
+
                                                                                         Professor
 
+### Dr.
 
-### Dr.
                                                                                             Mrityunjaya Kappali
 
 Professor
 
-- Dr.
-                                                                                            Uday V Wali  
-                                                                                    
-
+- Dr.
+
+                                                                                            Uday V Wali  
+
                                                                                         Professor
 
+### Dr.
 
-### Dr.
                                                                                             Uday V Wali
 
 Professor
 
-- Dr.
-                                                                                            Sachin Karadgi  
-                                                                                    
-
+- Dr.
+
+                                                                                            Sachin Karadgi  
+
                                                                                         Professor
 
+### Dr.
 
-### Dr.
                                                                                             Sachin Karadgi
 
 Professor
 
-- Dr.
-                                                                                            Uday M Muddapur 
-                                                                                    
-
+- Dr.
+
+                                                                                            Uday M Muddapur 
+
                                                                                         Professor
 
+### Dr.
 
-### Dr.
                                                                                             Uday M Muddapur
 
 Professor
 
-- Smt.
-                                                                                            Geetanjali Rao  
-                                                                                    
-
+- Smt.
+
+                                                                                            Geetanjali Rao  
+
                                                                                         Professor
 
+### Smt.
 
-### Smt.
                                                                                             Geetanjali Rao
 
 Professor
 
-- Sri.
-                                                                                            Sharanbasanagouda S Goudar  
-                                                                                    
-
+- Sri.
+
+                                                                                            Sharanbasanagouda S Goudar  
+
                                                                                         Professor
 
+### Sri.
 
-### Sri.
                                                                                             Sharanbasanagouda S Goudar
 
 Professor
 
-- Dr.
-                                                                                            N.R. Patil  
-                                                                                    
-
+- Dr.
+
+                                                                                            N.R. Patil  
+
                                                                                         Professor
 
+### Dr.
 
-### Dr.
                                                                                             N.R. Patil
 
 Professor
 
-- Dr.
-                                                                                            S.S.Kubakaddi   
-                                                                                    
-
+- Dr.
+
+                                                                                            S.S.Kubakaddi   
+
                                                                                         Professor
 
+### Dr.
 
-### Dr.
                                                                                             S.S.Kubakaddi
 
 Professor
 
-- Dr.
-                                                                                            N.M. Badiger  
-                                                                                    
-
+- Dr.
+
+                                                                                            N.M. Badiger  
+
                                                                                         Professor
 
+### Dr.
 
-### Dr.
                                                                                             N.M. Badiger
 
 Professor
 
-- Dr.
-                                                                                            P. M. Patil 
-                                                                                    
-
+- Dr.
+
+                                                                                            P. M. Patil 
+
                                                                                         Professor
 
+### Dr.
 
-### Dr.
                                                                                             P. M. Patil
 
 Professor
 
-- Dr.
-                                                                                            P.S. Hiremath  
-                                                                                    
-
+- Dr.
+
+                                                                                            P.S. Hiremath  
+
                                                                                         Professor
 
+### Dr.
 
-### Dr.
                                                                                             P.S. Hiremath
 
 Professor
 
-- Dr.
-                                                                                            (Smt) R.M. Banakar 
-                                                                                    
-
+- Dr.
+
+                                                                                            (Smt) R.M. Banakar 
+
                                                                                         Professor
 
+### Dr.
 
-### Dr.
                                                                                             (Smt) R.M. Banakar
 
 Professor
 
-- Dr.
-                                                                                            (Smt) Uma. K. Mudenagudi
-                                                                                    
-
+- Dr.
+
+                                                                                            (Smt) Uma. K. Mudenagudi
+
                                                                                         Professor
 
+### Dr.
 
-### Dr.
                                                                                             (Smt) Uma. K. Mudenagudi
 
 Professor
 
-- Dr.
-                                                                                            A.V.Nandi   
-                                                                                    
-
+- Dr.
+
+                                                                                            A.V.Nandi   
+
                                                                                         Professor
 
+### Dr.
 
-### Dr.
                                                                                             A.V.Nandi
 
 Professor
 
-- Dr.
-                                                                                            G Priyatam Kumar 
-                                                                                    
-
+- Dr.
+
+                                                                                            G Priyatam Kumar 
+
                                                                                         Professor
 
+### Dr.
 
-### Dr.
                                                                                             G Priyatam Kumar
 
 Professor
 
-- Dr.
-                                                                                            R.B. Shettar  
-                                                                                    
-
+- Dr.
+
+                                                                                            R.B. Shettar  
+
                                                                                         Professor
 
+### Dr.
 
-### Dr.
                                                                                             R.B. Shettar
 
 Professor
 
-- Dr.
-                                                                                            (Smt). Saroja Virupakshappa Siddamal
-                                                                                    
-
+- Dr.
+
+                                                                                            (Smt). Saroja Virupakshappa Siddamal
+
                                                                                         Professor
 
+### Dr.
 
-### Dr.
                                                                                             (Smt). Saroja Virupakshappa Siddamal
 
 Professor
 
-- Dr.
-                                                                                            (Smt) Sujata .S. Kotabagi 
-                                                                                    
-
+- Dr.
+
+                                                                                            (Smt) Sujata .S. Kotabagi 
+
                                                                                         Professor
 
+### Dr.
 
-### Dr.
                                                                                             (Smt) Sujata .S. Kotabagi
 
 Professor
 
-- Dr.
-                                                                                            (Smt). Suneeta V Budihal
-                                                                                    
-
+- Dr.
+
+                                                                                            (Smt). Suneeta V Budihal
+
                                                                                         Professor
 
+### Dr.
 
-### Dr.
                                                                                             (Smt). Suneeta V Budihal
 
 Professor
 
-- Dr.
-                                                                                            (Smt) Vijayalakshmi M.  
-                                                                                    
-
+- Dr.
+
+                                                                                            (Smt) Vijayalakshmi M.  
+
                                                                                         Professor
 
+### Dr.
 
-### Dr.
                                                                                             (Smt) Vijayalakshmi M.
 
 Professor
 
-- Dr
-                                                                                            (Smt). P.G. Sunita Hiremath
-                                                                                    
-
+- Dr
+
+                                                                                            (Smt). P.G. Sunita Hiremath
+
                                                                                         Professor
 
+### Dr
 
-### Dr
                                                                                             (Smt). P.G. Sunita Hiremath
 
 Professor
 
-- Dr.
-                                                                                            (Smt). Ujwala Patil 
-                                                                                    
-
+- Dr.
+
+                                                                                            (Smt). Ujwala Patil 
+
                                                                                         Professor
 
+### Dr.
 
-### Dr.
                                                                                             (Smt). Ujwala Patil
 
 Professor
 
-- Smt.
-                                                                                            P. C. Nissimgoudar 
-                                                                                    
-
+- Smt.
+
+                                                                                            P. C. Nissimgoudar 
+
                                                                                         Professor
 
+### Smt.
 
-### Smt.
                                                                                             P. C. Nissimgoudar
 
 Professor
 
-- Dr.
-                                                                                            (Smt). S.R.Nirmala  
-                                                                                    
-
+- Dr.
+
+                                                                                            (Smt). S.R.Nirmala  
+
                                                                                         Professor
 
+### Dr.
 
-### Dr.
                                                                                             (Smt). S.R.Nirmala
 
 Professor
 
-- Prof.
-                                                                                            S.B. Kurubar  
-                                                                                    
-
+- Prof.
+
+                                                                                            S.B. Kurubar  
+
                                                                                         Professor
 
+### Prof.
 
-### Prof.
                                                                                             S.B. Kurubar
 
 Professor
 
-- Dr.
-                                                                                            Vishwanath P Baligar 
-                                                                                    
-
+- Dr.
+
+                                                                                            Vishwanath P Baligar 
+
                                                                                         Professor
 
+### Dr.
 
-### Dr.
                                                                                             Vishwanath P Baligar
 
 Professor
 
-- Dr.
-                                                                                            Satyadhyan Chickerur  
-                                                                                    
-
+- Dr.
+
+                                                                                            Satyadhyan Chickerur  
+
                                                                                         Professor
 
+### Dr.
 
-### Dr.
                                                                                             Satyadhyan Chickerur
 
 Professor
 
-- Dr.
-                                                                                            Shashikumar G. Totad 
-                                                                                    
-
+- Dr.
+
+                                                                                            Shashikumar G. Totad 
+
                                                                                         Professor
 
+### Dr.
 
-### Dr.
                                                                                             Shashikumar G. Totad
 
 Professor
 
-- Dr.
-                                                                                            Karibasappa K.G.  
-                                                                                    
-
+- Dr.
+
+                                                                                            Karibasappa K.G.  
+
                                                                                         Professor
 
+### Dr.
 
-### Dr.
                                                                                             Karibasappa K.G.
 
 Professor
 
-- Dr.
-                                                                                            Narayan D.G.  
-                                                                                    
-
+- Dr.
+
+                                                                                            Narayan D.G.  
+
                                                                                         Professor
 
+### Dr.
 
-### Dr.
                                                                                             Narayan D.G.
 
 Professor
 
-- Dr.
-                                                                                            Shankar Gangisetty  
-                                                                                    
-
+- Dr.
+
+                                                                                            Shankar Gangisetty  
+
                                                                                         Professor
 
+### Dr.
 
-### Dr.
                                                                                             Shankar Gangisetty
 
 Professor
 
-- Dr.
-                                                                                            (Smt). Sujata C 
-                                                                                    
-
+- Dr.
+
+                                                                                            (Smt). Sujata C 
+
                                                                                         Professor
 
+### Dr.
 
-### Dr.
                                                                                             (Smt). Sujata C
 
 Professor
 
-- Dr.
-                                                                                            (Smt). Suvarna G. Kanakaraddi
-                                                                                    
-
+- Dr.
+
+                                                                                            (Smt). Suvarna G. Kanakaraddi
+
                                                                                         Professor
 
+### Dr.
 
-### Dr.
                                                                                             (Smt). Suvarna G. Kanakaraddi
 
 Professor
 
-- Dr.
-                                                                                            (Smt). Jayalaxmi G.N. 
-                                                                                    
-
+- Dr.
+
+                                                                                            (Smt). Jayalaxmi G.N. 
+
                                                                                         Professor
 
+### Dr.
 
-### Dr.
                                                                                             (Smt). Jayalaxmi G.N.
 
 Professor
 
-- Dr.
-                                                                                            Padmashree Desai  
-                                                                                    
-
+- Dr.
+
+                                                                                            Padmashree Desai  
+
                                                                                         Professor
 
+### Dr.
 
-### Dr.
                                                                                             Padmashree Desai
 
 Professor
 
-- Dr.
-                                                                                            A.M.Hunshyal   
-                                                                                    
-
+- Dr.
+
+                                                                                            A.M.Hunshyal   
+
                                                                                         Associate Professor
 - Ph.D.
 
+### Dr.
 
-### Dr.
                                                                                             A.M.Hunshyal
 
 Associate Professor
 
-- Smt.
-                                                                                            Geeta C. Bellad   
-                                                                                    
-
+- Smt.
+
+                                                                                            Geeta C. Bellad   
+
                                                                                         Associate Professor
 - M.Tech.
 
+### Smt.
 
-### Smt.
                                                                                             Geeta C. Bellad
 
 Associate Professor
 
-- Dr.
-                                                                                            Shivaraj Halayal  
-                                                                                    
-
+- Dr.
+
+                                                                                            Shivaraj Halayal  
+
                                                                                         Associate Professor
 - Ph.D.
 
+### Dr.
 
-### Dr.
                                                                                             Shivaraj Halayal
 
 Associate Professor
 
-- Mr.
-                                                                                            V. N. Sanagoudar
-                                                                                    
-
+- Mr.
+
+                                                                                            V. N. Sanagoudar
+
                                                                                         Associate Professor
 - M.Tech.
 
+### Mr.
 
-### Mr.
                                                                                             V. N. Sanagoudar
 
 Associate Professor
 
-- Mr.
-                                                                                            V. Komalapur
-                                                                                    
-
+- Mr.
+
+                                                                                            V. Komalapur
+
                                                                                         Associate Professor
 - M.Tech.
 
+### Mr.
 
-### Mr.
                                                                                             V. Komalapur
 
 Associate Professor
 
-- Mr.
-                                                                                            V. A. Goudar
-                                                                                    
-
+- Mr.
+
+                                                                                            V. A. Goudar
+
                                                                                         Associate Professor
 - M.Tech.
 
+### Mr.
 
-### Mr.
                                                                                             V. A. Goudar
 
 Associate Professor
 
-- Mr.
-                                                                                            B. S. Kakol
-                                                                                    
-
+- Mr.
+
+                                                                                            B. S. Kakol
+
                                                                                         Associate Professor
 - M.E.
 
+### Mr.
 
-### Mr.
                                                                                             B. S. Kakol
 
 Associate Professor
 
-- Dr.
-                                                                                            Veeresh G Balikai
-                                                                                    
-
+- Dr.
+
+                                                                                            Veeresh G Balikai
+
                                                                                         Associate Professor
 - Ph.D.
 
+### Dr.
 
-### Dr.
                                                                                             Veeresh G Balikai
 
 Associate Professor
 
-- Dr.
-                                                                                            M.B. Gorwar  
-                                                                                    
-
+- Dr.
+
+                                                                                            M.B. Gorwar  
+
                                                                                         Associate Professor
 - Ph.D.
 
+### Dr.
 
-### Dr.
                                                                                             M.B. Gorwar
 
 Associate Professor
 
-- Dr.
-                                                                                            Vinayak Kulkarni
-                                                                                    
-
+- Dr.
+
+                                                                                            Vinayak Kulkarni
+
                                                                                         Associate Professor
 - Ph.D.
 
+### Dr.
 
-### Dr.
                                                                                             Vinayak Kulkarni
 
 Associate Professor
 
-- Smt.
-                                                                                            R.B. Jyoti  
-                                                                                    
-
+- Smt.
+
+                                                                                            R.B. Jyoti  
+
                                                                                         Associate Professor
 
+### Smt.
 
-### Smt.
                                                                                             R.B. Jyoti
 
 Associate Professor
 
-- Dr.
-                                                                                            Mahantesh Halagatti  
-                                                                                    
-
+- Dr.
+
+                                                                                            Mahantesh Halagatti  
+
                                                                                         Associate Professor
 
+### Dr.
 
-### Dr.
                                                                                             Mahantesh Halagatti
 
 Associate Professor
 
-- Dr.
-                                                                                            (Smt). Jyoti.S. Bali 
-                                                                                    
-
+- Dr.
+
+                                                                                            (Smt). Jyoti.S. Bali 
+
                                                                                         Associate Professor
 
+### Dr.
 
-### Dr.
                                                                                             (Smt). Jyoti.S. Bali
 
 Associate Professor
 
-- Dr.
-                                                                                            Vinodkumar.V. Meti  
-                                                                                    
-
+- Dr.
+
+                                                                                            Vinodkumar.V. Meti  
+
                                                                                         Associate Professor
 
+### Dr.
 
-### Dr.
                                                                                             Vinodkumar.V. Meti
 
 Associate Professor
 
-- Dr.
-                                                                                            Laxmikant.R. Patil  
-                                                                                    
-
+- Dr.
+
+                                                                                            Laxmikant.R. Patil  
+
                                                                                         Associate Professor
 
+### Dr.
 
-### Dr.
                                                                                             Laxmikant.R. Patil
 
 Associate Professor
 
-- Dr.
-                                                                                            V S Hombalimath 
-                                                                                    
-
+- Dr.
+
+                                                                                            V S Hombalimath 
+
                                                                                         Associate Professor
 
+### Dr.
 
-### Dr.
                                                                                             V S Hombalimath
 
 Associate Professor
 
-- Dr.
-                                                                                            (Smt). Zabin.K. Bagewadi 
-                                                                                    
-
+- Dr.
+
+                                                                                            (Smt). Zabin.K. Bagewadi 
+
                                                                                         Associate Professor
 
+### Dr.
 
-### Dr.
                                                                                             (Smt). Zabin.K. Bagewadi
 
 Associate Professor
 
-- Dr.
-                                                                                            Shivalingsraj V Desai 
-                                                                                    
-
+- Dr.
+
+                                                                                            Shivalingsraj V Desai 
+
                                                                                         Associate Professor
 
+### Dr.
 
-### Dr.
                                                                                             Shivalingsraj V Desai
 
 Associate Professor
 
-- Smt.
-                                                                                            Deepa A Mane 
-                                                                                    
-
+- Smt.
+
+                                                                                            Deepa A Mane 
+
                                                                                         Associate Professor
 
+### Smt.
 
-### Smt.
                                                                                             Deepa A Mane
 
 Associate Professor
 
-- Sri.
-                                                                                            M.M. Dandin  
-                                                                                    
-
+- Sri.
+
+                                                                                            M.M. Dandin  
+
                                                                                         Associate Professor
 
+### Sri.
 
-### Sri.
                                                                                             M.M. Dandin
 
 Associate Professor
 
-- Sri.
-                                                                                            Kalpeshkumar Patel  
-                                                                                    
-
+- Sri.
+
+                                                                                            Kalpeshkumar Patel  
+
                                                                                         Associate Professor
 
+### Sri.
 
-### Sri.
                                                                                             Kalpeshkumar Patel
 
 Associate Professor
 
-- Smt.
-                                                                                            Rohini Malagi  
-                                                                                    
-
+- Smt.
+
+                                                                                            Rohini Malagi  
+
                                                                                         Associate Professor
 
+### Smt.
 
-### Smt.
                                                                                             Rohini Malagi
 
 Associate Professor
 
-- Smt.
-                                                                                            Dipanwita Chakravarty  
-                                                                                    
-
+- Smt.
+
+                                                                                            Dipanwita Chakravarty  
+
                                                                                         Associate Professor
 
+### Smt.
 
-### Smt.
                                                                                             Dipanwita Chakravarty
 
 Associate Professor
 
-- Sri.
-                                                                                            Abhishek. S. Patil 
-                                                                                    
-
+- Sri.
+
+                                                                                            Abhishek. S. Patil 
+
                                                                                         Associate Professor
 
+### Sri.
 
-### Sri.
                                                                                             Abhishek. S. Patil
 
 Associate Professor
 
-- Dr.
-                                                                                            Nagaraj P Shetti 
-                                                                                    
-
+- Dr.
+
+                                                                                            Nagaraj P Shetti 
+
                                                                                         Associate Professor
 
+### Dr.
 
-### Dr.
                                                                                             Nagaraj P Shetti
 
 Associate Professor
 
-- Dr.
-                                                                                            MohanKrishna Gunda   
-                                                                                    
-
+- Dr.
+
+                                                                                            MohanKrishna Gunda   
+
                                                                                         Associate Professor
 
+### Dr.
 
-### Dr.
                                                                                             MohanKrishna Gunda
 
 Associate Professor
 
-- Dr.
-                                                                                            Ashok.M. Sajjan  
-                                                                                    
-
+- Dr.
+
+                                                                                            Ashok.M. Sajjan  
+
                                                                                         Associate Professor
 
+### Dr.
 
-### Dr.
                                                                                             Ashok.M. Sajjan
 
 Associate Professor
 
-- Dr.
-                                                                                            (Smt). Uma Neeli  
-                                                                                    
-
+- Dr.
+
+                                                                                            (Smt). Uma Neeli  
+
                                                                                         Associate Professor
 
+### Dr.
 
-### Dr.
                                                                                             (Smt). Uma Neeli
 
 Associate Professor
 
-- Dr.
-                                                                                            Y.M. Umathar  
-                                                                                    
-
+- Dr.
+
+                                                                                            Y.M. Umathar  
+
                                                                                         Associate Professor
 
+### Dr.
 
-### Dr.
                                                                                             Y.M. Umathar
 
 Associate Professor
 
-- Smt.
-                                                                                            Sunita K. Salimath 
-                                                                                    
-
+- Smt.
+
+                                                                                            Sunita K. Salimath 
+
                                                                                         Associate Professor
 
+### Smt.
 
-### Smt.
                                                                                             Sunita K. Salimath
 
 Associate Professor
 
-- Smt.
-                                                                                            Tanuja R Patil 
-                                                                                    
-
+- Smt.
+
+                                                                                            Tanuja R Patil 
+
                                                                                         Associate Professor
 
+### Smt.
 
-### Smt.
                                                                                             Tanuja R Patil
 
 Associate Professor
 
-- Smt.
-                                                                                            R.V.Hanagal   
-                                                                                    
-
+- Smt.
+
+                                                                                            R.V.Hanagal   
+
                                                                                         Associate Professor
 
+### Smt.
 
-### Smt.
                                                                                             R.V.Hanagal
 
 Associate Professor
 
-- Sri.
-                                                                                            Chandrashekhar .D. Kerure 
-                                                                                    
-
+- Sri.
+
+                                                                                            Chandrashekhar .D. Kerure 
+
                                                                                         Associate Professor
 
+### Sri.
 
-### Sri.
                                                                                             Chandrashekhar .D. Kerure
 
 Associate Professor
 
-- Smt.
-                                                                                            Aruna S. Nayak  
-                                                                                    
-
+- Smt.
+
+                                                                                            Aruna S. Nayak  
+
                                                                                         Associate Professor
 
+### Smt.
 
-### Smt.
                                                                                             Aruna S. Nayak
 
 Associate Professor
 
-- Dr.
-                                                                                            Baswaraj   
-                                                                                    
-
+- Dr.
+
+                                                                                            Baswaraj   
+
                                                                                         Associate Professor
 
+### Dr.
 
-### Dr.
                                                                                             Baswaraj
 
 Associate Professor
 
-- Sri.
-                                                                                            Shivashankar A Huddar 
-                                                                                    
-
+- Sri.
+
+                                                                                            Shivashankar A Huddar 
+
                                                                                         Associate Professor
 
+### Sri.
 
-### Sri.
                                                                                             Shivashankar A Huddar
 
 Associate Professor
 
-- Sri.
-                                                                                            Vijay H.M   
-                                                                                    
-
+- Sri.
+
+                                                                                            Vijay H.M   
+
                                                                                         Associate Professor
 
+### Sri.
 
-### Sri.
                                                                                             Vijay H.M
 
 Associate Professor
 
-- Dr.
-                                                                                            RAMAKRISHNA JOSHI  
-                                                                                    
-
+- Dr.
+
+                                                                                            RAMAKRISHNA JOSHI  
+
                                                                                         Associate Professor
 
+### Dr.
 
-### Dr.
                                                                                             RAMAKRISHNA JOSHI
 
 Associate Professor
 
-- Dr.
-                                                                                            Gururaj .S.Hanchinamani  
-                                                                                    
-
+- Dr.
+
+                                                                                            Gururaj .S.Hanchinamani  
+
                                                                                         Associate Professor
 
+### Dr.
 
-### Dr.
                                                                                             Gururaj .S.Hanchinamani
 
 Associate Professor
 
-- Smt.
-                                                                                            Lalitha Madanbhavi  
-                                                                                    
-
+- Smt.
+
+                                                                                            Lalitha Madanbhavi  
+
                                                                                         Associate Professor
 
+### Smt.
 
-### Smt.
                                                                                             Lalitha Madanbhavi
 
 Associate Professor
 
-- Smt.
-                                                                                            Vidya Handur  
-                                                                                    
-
+- Smt.
+
+                                                                                            Vidya Handur  
+
                                                                                         Associate Professor
 
+### Smt.
 
-### Smt.
                                                                                             Vidya Handur
 
 Associate Professor
 
-- Smt.
-                                                                                            Nagaratna Kulenavar  
-                                                                                    
-
+- Smt.
+
+                                                                                            Nagaratna Kulenavar  
+
                                                                                         Associate Professor
 
+### Smt.
 
-### Smt.
                                                                                             Nagaratna Kulenavar
 
 Associate Professor
 
-- Smt.
-                                                                                            Meenaxi Jannu  
-                                                                                    
-
+- Smt.
+
+                                                                                            Meenaxi Jannu  
+
                                                                                         Associate Professor
 
+### Smt.
 
-### Smt.
                                                                                             Meenaxi Jannu
 
 Associate Professor
 
-- Sri.
-                                                                                            K.M.M. Rajashekharaiah  
-                                                                                    
-
+- Sri.
+
+                                                                                            K.M.M. Rajashekharaiah  
+
                                                                                         Associate Professor
 
+### Sri.
 
-### Sri.
                                                                                             K.M.M. Rajashekharaiah
 
 Associate Professor
 
-- Dr.
-                                                                                            (Smt). Shantala Giraddi  
-                                                                                    
-
+- Dr.
+
+                                                                                            (Smt). Shantala Giraddi  
+
                                                                                         Associate Professor
 
+### Dr.
 
-### Dr.
                                                                                             (Smt). Shantala Giraddi
 
 Associate Professor
 
-- Mr.
-                                                                                             U P Hosmani
-                                                                                    
-
+- Mr.
+
+                                                                                             U P Hosmani
+
                                                                                         Associate Professor
 - B. E
 
+### Mr.
 
-### Mr.
                                                                                              U P Hosmani
 
 Associate Professor
 
-- Smt.
-                                                                                            Prema Malali  
-                                                                                    
-
+- Smt.
+
+                                                                                            Prema Malali  
+
                                                                                         Assistant Professor
 
+### Smt.
 
-### Smt.
                                                                                             Prema Malali
 
 Assistant Professor
 
-- Dr.
-                                                                                            Chaitanya Akkannavar  
-                                                                                    
-
+- Dr.
+
+                                                                                            Chaitanya Akkannavar  
+
                                                                                         Assistant Professor
 - Ph.D.
 
+### Dr.
 
-### Dr.
                                                                                             Chaitanya Akkannavar
 
 Assistant Professor
 
-- Dr.
-                                                                                            Basanagouda I Patil 
-                                                                                    
-
+- Dr.
+
+                                                                                            Basanagouda I Patil 
+
                                                                                         Assistant Professor
 - Ph.D.
 
+### Dr.
 
-### Dr.
                                                                                             Basanagouda I Patil
 
 Assistant Professor
 
-- Dr.
-                                                                                            Roopa A Kuri 
-                                                                                    
-
+- Dr.
+
+                                                                                            Roopa A Kuri 
+
                                                                                         Assistant Professor
 - Ph.D.
 
+### Dr.
 
-### Dr.
                                                                                             Roopa A Kuri
 
 Assistant Professor
 
-- Sri.
-                                                                                            Vinayak Naikar  
-                                                                                    
-
+- Sri.
+
+                                                                                            Vinayak Naikar  
+
                                                                                         Assistant Professor
 - M.E.
 
+### Sri.
 
-### Sri.
                                                                                             Vinayak Naikar
 
 Assistant Professor
 
-- Dr.
-                                                                                            Bapugouda B Biradar 
-                                                                                    
-
+- Dr.
+
+                                                                                            Bapugouda B Biradar 
+
                                                                                         Assistant Professor
 - Ph.D.
 
+### Dr.
 
-### Dr.
                                                                                             Bapugouda B Biradar
 
 Assistant Professor
 
-- Sri.
-                                                                                            Naveen Chikkaveerayyanavar
-                                                                                    
-
+- Sri.
+
+                                                                                            Naveen Chikkaveerayyanavar
+
                                                                                         Assistant Professor
 - M.Tech.
 
+### Sri.
 
-### Sri.
                                                                                             Naveen Chikkaveerayyanavar
 
 Assistant Professor
 
-- Dr.
-                                                                                            ArunKumar G S 
-                                                                                    
-
+- Dr.
+
+                                                                                            ArunKumar G S 
+
                                                                                         Assistant Professor
 - Ph.D.
 
+### Dr.
 
-### Dr.
                                                                                             ArunKumar G S
 
 Assistant Professor
 
-- Sri.
-                                                                                            Abhishek B Kamadollishettar 
-                                                                                    
-
+- Sri.
+
+                                                                                            Abhishek B Kamadollishettar 
+
                                                                                         Assistant Professor
 - M.Tech.
 
+### Sri.
 
-### Sri.
                                                                                             Abhishek B Kamadollishettar
 
 Assistant Professor
 
-- Sri.
-                                                                                            Darshan G R 
-                                                                                    
-
+- Sri.
+
+                                                                                            Darshan G R 
+
                                                                                         Assistant Professor
 - M.Tech.
 
+### Sri.
 
-### Sri.
                                                                                             Darshan G R
 
 Assistant Professor
 
-- Mrs.
-                                                                                            Nagalakshmi Kulkarni
-                                                                                    
-
+- Mrs.
+
+                                                                                            Nagalakshmi Kulkarni
+
                                                                                         Assistant Professor
 - M.Tech.
 
+### Mrs.
 
-### Mrs.
                                                                                             Nagalakshmi Kulkarni
 
 Assistant Professor
 
-- Dr.
-                                                                                            Panditharadhya B J
-                                                                                    
-
+- Dr.
+
+                                                                                            Panditharadhya B J
+
                                                                                         Assistant Professor
 - Ph.D.
 
+### Dr.
 
-### Dr.
                                                                                             Panditharadhya B J
 
 Assistant Professor
 
-- Mr.
-                                                                                            Prashant Kammar
-                                                                                    
-
+- Mr.
+
+                                                                                            Prashant Kammar
+
                                                                                         Assistant Professor
 - M.Tech.
 
+### Mr.
 
-### Mr.
                                                                                             Prashant Kammar
 
 Assistant Professor
 
-- Mr.
-                                                                                            Hemantkumar Ronad
-                                                                                    
-
+- Mr.
+
+                                                                                            Hemantkumar Ronad
+
                                                                                         Assistant Professor
 - M.Tech.
 
+### Mr.
 
-### Mr.
                                                                                             Hemantkumar Ronad
 
 Assistant Professor
 
-- Dr.
-                                                                                            Sharanabasava Patil
-                                                                                    
-
+- Dr.
+
+                                                                                            Sharanabasava Patil
+
                                                                                         Assistant Professor
 - Ph.D.
 
+### Dr.
 
-### Dr.
                                                                                             Sharanabasava Patil
 
 Assistant Professor
 
-- Dr.
-                                                                                            Jyothi Yedulla
-                                                                                    
-
+- Dr.
+
+                                                                                            Jyothi Yedulla
+
                                                                                         Assistant Professor
 - Ph.D.
 
+### Dr.
 
-### Dr.
                                                                                             Jyothi Yedulla
 
 Assistant Professor
 
-- Dr.
-                                                                                            Madhusudhana H. K.
-                                                                                    
-
+- Dr.
+
+                                                                                            Madhusudhana H. K.
+
                                                                                         Assistant Professor
 - Ph.D.
 
+### Dr.
 
-### Dr.
                                                                                             Madhusudhana H. K.
 
 Assistant Professor
 
-- Dr.
-                                                                                            Praveen Kumar Petkar 
-                                                                                    
-
+- Dr.
+
+                                                                                            Praveen Kumar Petkar 
+
                                                                                         Assistant Professor
 - Ph.D.
 
+### Dr.
 
-### Dr.
                                                                                             Praveen Kumar Petkar
 
 Assistant Professor
 
-- Mr.
-                                                                                            Nimbagal. Vijaykumar  
-                                                                                    
-
+- Mr.
+
+                                                                                            Nimbagal. Vijaykumar  
+
                                                                                         Assistant Professor
 - M.Tech.
 
+### Mr.
 
-### Mr.
                                                                                             Nimbagal. Vijaykumar
 
 Assistant Professor
 
-- Dr.
-                                                                                            Prabhakar M Bhovi
-                                                                                    
-
+- Dr.
+
+                                                                                            Prabhakar M Bhovi
+
                                                                                         Assistant Professor
 - Ph.D.
 
+### Dr.
 
-### Dr.
                                                                                             Prabhakar M Bhovi
 
 Assistant Professor
 
-- Dr.
-                                                                                            Rajshekar S. Hosmath
-                                                                                    
-
+- Dr.
+
+                                                                                            Rajshekar S. Hosmath
+
                                                                                         Assistant Professor
 - Ph.D.
 
+### Dr.
 
-### Dr.
                                                                                             Rajshekar S. Hosmath
 
 Assistant Professor
 
-- Mr.
-                                                                                            Vinayak.P. Khatawate  
-                                                                                    
-
+- Mr.
+
+                                                                                            Vinayak.P. Khatawate  
+
                                                                                         Assistant Professor
 - M.Tech.
 
+### Mr.
 
-### Mr.
                                                                                             Vinayak.P. Khatawate
 
 Assistant Professor
 
-- Dr.
-                                                                                            Nagaraj Ekabote
-                                                                                    
-
+- Dr.
+
+                                                                                            Nagaraj Ekabote
+
                                                                                         Assistant Professor
 - Ph.D.
 
+### Dr.
 
-### Dr.
                                                                                             Nagaraj Ekabote
 
 Assistant Professor
 
-- Dr.
-                                                                                            Gireesha R. Chalageri
-                                                                                    
-
+- Dr.
+
+                                                                                            Gireesha R. Chalageri
+
                                                                                         Assistant Professor
 - Ph.D.
 
+### Dr.
 
-### Dr.
                                                                                             Gireesha R. Chalageri
 
 Assistant Professor
 
-- Mr.
-                                                                                            Gururaj P. Fattepur
-                                                                                    
-
+- Mr.
+
+                                                                                            Gururaj P. Fattepur
+
                                                                                         Assistant Professor
 - M.Tech.
 
+### Mr.
 
-### Mr.
                                                                                             Gururaj P. Fattepur
 
 Assistant Professor
 
-- Dr.
-                                                                                            Adarsh Patil
-                                                                                    
-
+- Dr.
+
+                                                                                            Adarsh Patil
+
                                                                                         Assistant Professor
 - Ph.D.
 
+### Dr.
 
-### Dr.
                                                                                             Adarsh Patil
 
 Assistant Professor
 
-- Mr.
-                                                                                            Mantesh Choukimath
-                                                                                    
-
+- Mr.
+
+                                                                                            Mantesh Choukimath
+
                                                                                         Assistant Professor
 - M. Tech.
 
+### Mr.
 
-### Mr.
                                                                                             Mantesh Choukimath
 
 Assistant Professor
 
-- Mr.
-                                                                                            Balachandra S. Halemani
-                                                                                    
-
+- Mr.
+
+                                                                                            Balachandra S. Halemani
+
                                                                                         Assistant Professor
 - M.Tech.
 
+### Mr.
 
-### Mr.
                                                                                             Balachandra S. Halemani
 
 Assistant Professor
 
-- Dr.
-                                                                                            Jangali Satish G.
-                                                                                    
-
+- Dr.
+
+                                                                                            Jangali Satish G.
+
                                                                                         Assistant Professor
 - Ph.D.
 
+### Dr.
 
-### Dr.
                                                                                             Jangali Satish G.
 
 Assistant Professor
 
-- Mr.
-                                                                                            Shreeshail M.L.
-                                                                                    
-
+- Mr.
+
+                                                                                            Shreeshail M.L.
+
                                                                                         Assistant Professor
 - M.Tech.
 
+### Mr.
 
-### Mr.
                                                                                             Shreeshail M.L.
 
 Assistant Professor
 
-- Mr.
-                                                                                            Shivaprasad Mukhandmath
-                                                                                    
-
+- Mr.
+
+                                                                                            Shivaprasad Mukhandmath
+
                                                                                         Assistant Professor
 - M.Tech.
 
+### Mr.
 
-### Mr.
                                                                                             Shivaprasad Mukhandmath
 
 Assistant Professor
 
-- Mr.
-                                                                                            Santosh G Billur 
-                                                                                    
-
+- Mr.
+
+                                                                                            Santosh G Billur 
+
                                                                                         Assistant Professor
 - M.E.
 
+### Mr.
 
-### Mr.
                                                                                             Santosh G Billur
 
 Assistant Professor
 
-- Mr.
-                                                                                            Vinay S Tigadi 
-                                                                                    
-
+- Mr.
+
+                                                                                            Vinay S Tigadi 
+
                                                                                         Assistant Professor
 - M.Tech.
 
+### Mr.
 
-### Mr.
                                                                                             Vinay S Tigadi
 
 Assistant Professor
 
-- Mr.
-                                                                                            Shrihari Katti
-                                                                                    
-
+- Mr.
+
+                                                                                            Shrihari Katti
+
                                                                                         Assistant Professor
 - M.Tech.
 
+### Mr.
 
-### Mr.
                                                                                             Shrihari Katti
 
 Assistant Professor
 
-- Mr.
-                                                                                            Praveen Muragod  
-                                                                                    
-
+- Mr.
+
+                                                                                            Praveen Muragod  
+
                                                                                         Assistant Professor
 - M.Tech.
 
+### Mr.
 
-### Mr.
                                                                                             Praveen Muragod
 
 Assistant Professor
 
-- Mr.
-                                                                                            Praveen Goggal  
-                                                                                    
-
+- Mr.
+
+                                                                                            Praveen Goggal  
+
                                                                                         Assistant Professor
 - M.Tech.
 
+### Mr.
 
-### Mr.
                                                                                             Praveen Goggal
 
 Assistant Professor
 
-- Sri.
-                                                                                            Siddarameshwara H N 
-                                                                                    
-
+- Sri.
+
+                                                                                            Siddarameshwara H N 
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Siddarameshwara H N
 
 Assistant Professor
 
-- Ms.
-                                                                                            Anupama R Itagi 
-                                                                                    
-
+- Ms.
+
+                                                                                            Anupama R Itagi 
+
                                                                                         Assistant Professor
 
+### Ms.
 
-### Ms.
                                                                                             Anupama R Itagi
 
 Assistant Professor
 
-- Sri.
-                                                                                            Anoopkumar.Anil. Patil  
-                                                                                    
-
+- Sri.
+
+                                                                                            Anoopkumar.Anil. Patil  
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Anoopkumar.Anil. Patil
 
 Assistant Professor
 
-- Sri.
-                                                                                            Kiran Ravikumar Patil 
-                                                                                    
-
+- Sri.
+
+                                                                                            Kiran Ravikumar Patil 
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Kiran Ravikumar Patil
 
 Assistant Professor
 
-- Smt.
-                                                                                            Leah S Joshi 
-                                                                                    
-
+- Smt.
+
+                                                                                            Leah S Joshi 
+
                                                                                         Assistant Professor
 
+### Smt.
 
-### Smt.
                                                                                             Leah S Joshi
 
 Assistant Professor
 
-- Ms.
-                                                                                            Kavita Chachadi  
-                                                                                    
-
+- Ms.
+
+                                                                                            Kavita Chachadi  
+
                                                                                         Assistant Professor
 
+### Ms.
 
-### Ms.
                                                                                             Kavita Chachadi
 
 Assistant Professor
 
-- Sri.
-                                                                                            Hanumanthagouda R Patil 
-                                                                                    
-
+- Sri.
+
+                                                                                            Hanumanthagouda R Patil 
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Hanumanthagouda R Patil
 
 Assistant Professor
 
-- Ms.
-                                                                                            Shweta .N. Koraddi 
-                                                                                    
-
+- Ms.
+
+                                                                                            Shweta .N. Koraddi 
+
                                                                                         Assistant Professor
 
+### Ms.
 
-### Ms.
                                                                                             Shweta .N. Koraddi
 
 Assistant Professor
 
-- Ms.
-                                                                                            Aditi Kadam  
-                                                                                    
-
+- Ms.
+
+                                                                                            Aditi Kadam  
+
                                                                                         Assistant Professor
 
+### Ms.
 
-### Ms.
                                                                                             Aditi Kadam
 
 Assistant Professor
 
-- Sri.
-                                                                                            Altaf Husain  
-                                                                                    
-
+- Sri.
+
+                                                                                            Altaf Husain  
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Altaf Husain
 
 Assistant Professor
 
-- Ms.
-                                                                                            Padmaja B Kallimani 
-                                                                                    
-
+- Ms.
+
+                                                                                            Padmaja B Kallimani 
+
                                                                                         Assistant Professor
 
+### Ms.
 
-### Ms.
                                                                                             Padmaja B Kallimani
 
 Assistant Professor
 
-- Ms.
-                                                                                            Jayashree Mallidu  
-                                                                                    
-
+- Ms.
+
+                                                                                            Jayashree Mallidu  
+
                                                                                         Assistant Professor
 
+### Ms.
 
-### Ms.
                                                                                             Jayashree Mallidu
 
 Assistant Professor
 
-- Ms.
-                                                                                            Sahana Kalligudd  
-                                                                                    
-
+- Ms.
+
+                                                                                            Sahana Kalligudd  
+
                                                                                         Assistant Professor
 
+### Ms.
 
-### Ms.
                                                                                             Sahana Kalligudd
 
 Assistant Professor
 
-- Ms.
-                                                                                            Vandana H Muratti 
-                                                                                    
-
+- Ms.
+
+                                                                                            Vandana H Muratti 
+
                                                                                         Assistant Professor
 
+### Ms.
 
-### Ms.
                                                                                             Vandana H Muratti
 
 Assistant Professor
 
-- Ms.
-                                                                                            Priya M Jadhav 
-                                                                                    
-
+- Ms.
+
+                                                                                            Priya M Jadhav 
+
                                                                                         Assistant Professor
 
+### Ms.
 
-### Ms.
                                                                                             Priya M Jadhav
 
 Assistant Professor
 
-- Ms.
-                                                                                            Megha B Nigadi 
-                                                                                    
-
+- Ms.
+
+                                                                                            Megha B Nigadi 
+
                                                                                         Assistant Professor
 
+### Ms.
 
-### Ms.
                                                                                             Megha B Nigadi
 
 Assistant Professor
 
-- Ms.
-                                                                                            Smita A Patil 
-                                                                                    
-
+- Ms.
+
+                                                                                            Smita A Patil 
+
                                                                                         Assistant Professor
 
+### Ms.
 
-### Ms.
                                                                                             Smita A Patil
 
 Assistant Professor
 
-- Mr.
-                                                                                            Chandru N Jathar 
-                                                                                    
-
+- Mr.
+
+                                                                                            Chandru N Jathar 
+
                                                                                         Assistant Professor
 
+### Mr.
 
-### Mr.
                                                                                             Chandru N Jathar
 
 Assistant Professor
 
-- Ms.
-                                                                                            Sarala D  
-                                                                                    
-
+- Ms.
+
+                                                                                            Sarala D  
+
                                                                                         Assistant Professor
 
+### Ms.
 
-### Ms.
                                                                                             Sarala D
 
 Assistant Professor
 
-- Mr.
-                                                                                            Nagaraj Gadagin  
-                                                                                    
-
+- Mr.
+
+                                                                                            Nagaraj Gadagin  
+
                                                                                         Assistant Professor
 
+### Mr.
 
-### Mr.
                                                                                             Nagaraj Gadagin
 
 Assistant Professor
 
-- Dr.
-                                                                                            Nagaraj Navalgund
-                                                                                    
-
+- Dr.
+
+                                                                                            Nagaraj Navalgund
+
                                                                                         Assistant Professor
 
+### Dr.
 
-### Dr.
                                                                                             Nagaraj Navalgund
 
 Assistant Professor
 
-- Dr.
-                                                                                            Suvarna Nimbagal
-                                                                                    
-
+- Dr.
+
+                                                                                            Suvarna Nimbagal
+
                                                                                         Assistant Professor
 
+### Dr.
 
-### Dr.
                                                                                             Suvarna Nimbagal
 
 Assistant Professor
 
-- Smt.
-                                                                                            Ranjeeta Amminabhavi  
-                                                                                    
-
+- Smt.
+
+                                                                                            Ranjeeta Amminabhavi  
+
                                                                                         Assistant Professor
 
+### Smt.
 
-### Smt.
                                                                                             Ranjeeta Amminabhavi
 
 Assistant Professor
 
-- Dr.
-                                                                                            Alok Gaddi  
-                                                                                    
-
+- Dr.
+
+                                                                                            Alok Gaddi  
+
                                                                                         Assistant Professor
 
+### Dr.
 
-### Dr.
                                                                                             Alok Gaddi
 
 Assistant Professor
 
-- Dr.
-                                                                                            Mrityunjaya B Chavannavar
-                                                                                    
-
+- Dr.
+
+                                                                                            Mrityunjaya B Chavannavar
+
                                                                                         Assistant Professor
 
+### Dr.
 
-### Dr.
                                                                                             Mrityunjaya B Chavannavar
 
 Assistant Professor
 
-- Dr.
-                                                                                            Preeti Baligar  
-                                                                                    
-
+- Dr.
+
+                                                                                            Preeti Baligar  
+
                                                                                         Assistant Professor
 
+### Dr.
 
-### Dr.
                                                                                             Preeti Baligar
 
 Assistant Professor
 
-- Sri.
-                                                                                            Vinay M Talageri 
-                                                                                    
-
+- Sri.
+
+                                                                                            Vinay M Talageri 
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Vinay M Talageri
 
 Assistant Professor
 
-- Ms.
-                                                                                            Jyoti Gadad  
-                                                                                    
-
+- Ms.
+
+                                                                                            Jyoti Gadad  
+
                                                                                         Assistant Professor
 
+### Ms.
 
-### Ms.
                                                                                             Jyoti Gadad
 
 Assistant Professor
 
-- Ms.
-                                                                                            Madhu V Asundi 
-                                                                                    
-
+- Ms.
+
+                                                                                            Madhu V Asundi 
+
                                                                                         Assistant Professor
 
+### Ms.
 
-### Ms.
                                                                                             Madhu V Asundi
 
 Assistant Professor
 
-- Ms.
-                                                                                            Unnati Koppikar  
-                                                                                    
-
+- Ms.
+
+                                                                                            Unnati Koppikar  
+
                                                                                         Assistant Professor
 
+### Ms.
 
-### Ms.
                                                                                             Unnati Koppikar
 
 Assistant Professor
 
-- Ms.
-                                                                                            Radhika Amashi  
-                                                                                    
-
+- Ms.
+
+                                                                                            Radhika Amashi  
+
                                                                                         Assistant Professor
 
+### Ms.
 
-### Ms.
                                                                                             Radhika Amashi
 
 Assistant Professor
 
-- Smt.
-                                                                                            Nagaratna Yaligar  
-                                                                                    
-
+- Smt.
+
+                                                                                            Nagaratna Yaligar  
+
                                                                                         Assistant Professor
 
+### Smt.
 
-### Smt.
                                                                                             Nagaratna Yaligar
 
 Assistant Professor
 
-- Sri.
-                                                                                            Deepak Kumar Mehta 
-                                                                                    
-
+- Sri.
+
+                                                                                            Deepak Kumar Mehta 
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Deepak Kumar Mehta
 
 Assistant Professor
 
-- Dr.
-                                                                                            Vijeth Kotagi  
-                                                                                    
-
+- Dr.
+
+                                                                                            Vijeth Kotagi  
+
                                                                                         Assistant Professor
 
+### Dr.
 
-### Dr.
                                                                                             Vijeth Kotagi
 
 Assistant Professor
 
-- Smt.
-                                                                                            Sneha Varur  
-                                                                                    
-
+- Smt.
+
+                                                                                            Sneha Varur  
+
                                                                                         Assistant Professor
 
+### Smt.
 
-### Smt.
                                                                                             Sneha Varur
 
 Assistant Professor
 
-- Ms.
-                                                                                            Rachana N  
-                                                                                    
-
+- Ms.
+
+                                                                                            Rachana N  
+
                                                                                         Assistant Professor
 
+### Ms.
 
-### Ms.
                                                                                             Rachana N
 
 Assistant Professor
 
-- Ms.
-                                                                                            Savita Katagi  
-                                                                                    
-
+- Ms.
+
+                                                                                            Savita Katagi  
+
                                                                                         Assistant Professor
 
+### Ms.
 
-### Ms.
                                                                                             Savita Katagi
 
 Assistant Professor
 
-- Dr.
-                                                                                            Shankru Guggari  
-                                                                                    
-
+- Dr.
+
+                                                                                            Shankru Guggari  
+
                                                                                         Assistant Professor
 
+### Dr.
 
-### Dr.
                                                                                             Shankru Guggari
 
 Assistant Professor
 
-- Mrs.
-                                                                                            Vijayalaxmi Sajjanavar  
-                                                                                    
-
+- Mrs.
+
+                                                                                            Vijayalaxmi Sajjanavar  
+
                                                                                         Assistant Professor
 
+### Mrs.
 
-### Mrs.
                                                                                             Vijayalaxmi Sajjanavar
 
 Assistant Professor
 
-- Ms.
-                                                                                            Swetha Kulkarni   
-                                                                                    
-
+- Ms.
+
+                                                                                            Swetha Kulkarni   
+
                                                                                         Assistant Professor
 
+### Ms.
 
-### Ms.
                                                                                             Swetha Kulkarni
 
 Assistant Professor
 
-- Sri.
-                                                                                            Amit L. Talli 
-                                                                                    
-
+- Sri.
+
+                                                                                            Amit L. Talli 
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Amit L. Talli
 
 Assistant Professor
 
-- Sri.
-                                                                                            Shridhar Doddamani  
-                                                                                    
-
+- Sri.
+
+                                                                                            Shridhar Doddamani  
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Shridhar Doddamani
 
 Assistant Professor
 
-- Smt.
-                                                                                            Shilpa V Tanvashi 
-                                                                                    
-
+- Smt.
+
+                                                                                            Shilpa V Tanvashi 
+
                                                                                         Assistant Professor
 
+### Smt.
 
-### Smt.
                                                                                             Shilpa V Tanvashi
 
 Assistant Professor
 
-- Sri.
-                                                                                            Rakesh P. Tapaskar 
-                                                                                    
-
+- Sri.
+
+                                                                                            Rakesh P. Tapaskar 
+
                                                                                         Assistant Professor
 - M-Tech, B.E.
 
+### Sri.
 
-### Sri.
                                                                                             Rakesh P. Tapaskar
 
 Assistant Professor
 
-- Smt.
-                                                                                            Channavva B Kolanur 
-                                                                                    
-
+- Smt.
+
+                                                                                            Channavva B Kolanur 
+
                                                                                         Assistant Professor
 
+### Smt.
 
-### Smt.
                                                                                             Channavva B Kolanur
 
 Assistant Professor
 
-- Ms.
-                                                                                            Poornima Byahatti  
-                                                                                    
-
+- Ms.
+
+                                                                                            Poornima Byahatti  
+
                                                                                         Assistant Professor
 
+### Ms.
 
-### Ms.
                                                                                             Poornima Byahatti
 
 Assistant Professor
 
-- Mr.
-                                                                                            Girish Karikatti  
-                                                                                    
-
+- Mr.
+
+                                                                                            Girish Karikatti  
+
                                                                                         Assistant Professor
 
+### Mr.
 
-### Mr.
                                                                                             Girish Karikatti
 
 Assistant Professor
 
-- Sri.
-                                                                                            Prashanth Udapudi  
-                                                                                    
-
+- Sri.
+
+                                                                                            Prashanth Udapudi  
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Prashanth Udapudi
 
 Assistant Professor
 
-- Mr.
-                                                                                            Madhu R Koravanavar 
-                                                                                    
-
+- Mr.
+
+                                                                                            Madhu R Koravanavar 
+
                                                                                         Assistant Professor
 
+### Mr.
 
-### Mr.
                                                                                             Madhu R Koravanavar
 
 Assistant Professor
 
-- Sri.
-                                                                                            Anil Ramdas Shet 
-                                                                                    
-
+- Sri.
+
+                                                                                            Anil Ramdas Shet 
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Anil Ramdas Shet
 
 Assistant Professor
 
-- Sri.
-                                                                                            Gururaj Tennalli  
-                                                                                    
-
+- Sri.
+
+                                                                                            Gururaj Tennalli  
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Gururaj Tennalli
 
 Assistant Professor
 
-- Sri.
-                                                                                            Deepak.A.Yaraguppi   
-                                                                                    
-
+- Sri.
+
+                                                                                            Deepak.A.Yaraguppi   
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Deepak.A.Yaraguppi
 
 Assistant Professor
 
-- Sri.
-                                                                                            Sharnappa A  
-                                                                                    
-
+- Sri.
+
+                                                                                            Sharnappa A  
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Sharnappa A
 
 Assistant Professor
 
-- Dr.
-                                                                                            Preeti Basavaraj Patil 
-                                                                                    
-
+- Dr.
+
+                                                                                            Preeti Basavaraj Patil 
+
                                                                                         Assistant Professor
 
+### Dr.
 
-### Dr.
                                                                                             Preeti Basavaraj Patil
 
 Assistant Professor
 
-- Dr.
-                                                                                            Shashidhar N Kubsad 
-                                                                                    
-
+- Dr.
+
+                                                                                            Shashidhar N Kubsad 
+
                                                                                         Assistant Professor
 
+### Dr.
 
-### Dr.
                                                                                             Shashidhar N Kubsad
 
 Assistant Professor
 
-- Sri.
-                                                                                            Sandeep A Harapanahalli 
-                                                                                    
-
+- Sri.
+
+                                                                                            Sandeep A Harapanahalli 
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Sandeep A Harapanahalli
 
 Assistant Professor
 
-- Sri.
-                                                                                            Pradeep E Patil 
-                                                                                    
-
+- Sri.
+
+                                                                                            Pradeep E Patil 
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Pradeep E Patil
 
 Assistant Professor
 
-- Sri.
-                                                                                            Harishkumar B.P.  
-                                                                                    
-
+- Sri.
+
+                                                                                            Harishkumar B.P.  
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Harishkumar B.P.
 
 Assistant Professor
 
-- Smt.
-                                                                                            Divya Sharma  
-                                                                                    
-
+- Smt.
+
+                                                                                            Divya Sharma  
+
                                                                                         Assistant Professor
 
+### Smt.
 
-### Smt.
                                                                                             Divya Sharma
 
 Assistant Professor
 
-- Sri.
-                                                                                            Sourabh Narendra  
-                                                                                    
-
+- Sri.
+
+                                                                                            Sourabh Narendra  
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Sourabh Narendra
 
 Assistant Professor
 
-- Smt.
-                                                                                            Hima C S 
-                                                                                    
-
+- Smt.
+
+                                                                                            Hima C S 
+
                                                                                         Assistant Professor
 
+### Smt.
 
-### Smt.
                                                                                             Hima C S
 
 Assistant Professor
 
-- Sri.
-                                                                                            Manjunath Karkal  
-                                                                                    
-
+- Sri.
+
+                                                                                            Manjunath Karkal  
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Manjunath Karkal
 
 Assistant Professor
 
-- Ms.
-                                                                                            Suchitra Kondguli   
-                                                                                    
-
+- Ms.
+
+                                                                                            Suchitra Kondguli   
+
                                                                                         Assistant Professor
 
+### Ms.
 
-### Ms.
                                                                                             Suchitra Kondguli
 
 Assistant Professor
 
-- Ms.
-                                                                                            Vani Gole  
-                                                                                    
-
+- Ms.
+
+                                                                                            Vani Gole  
+
                                                                                         Assistant Professor
 
+### Ms.
 
-### Ms.
                                                                                             Vani Gole
 
 Assistant Professor
 
-- Mr.
-                                                                                            Namrata Nagmule  
-                                                                                    
-
+- Mr.
+
+                                                                                            Namrata Nagmule  
+
                                                                                         Assistant Professor
 
+### Mr.
 
-### Mr.
                                                                                             Namrata Nagmule
 
 Assistant Professor
 
-- Ms.
-                                                                                            Sanket S Ghanti 
-                                                                                    
-
+- Ms.
+
+                                                                                            Sanket S Ghanti 
+
                                                                                         Assistant Professor
 
+### Ms.
 
-### Ms.
                                                                                             Sanket S Ghanti
 
 Assistant Professor
 
-- Dr
-                                                                                            .Veena.H. Choudapur  
-                                                                                    
-
+- Dr
+
+                                                                                            .Veena.H. Choudapur  
+
                                                                                         Assistant Professor
 
+### Dr
 
-### Dr
                                                                                             .Veena.H. Choudapur
 
 Assistant Professor
 
-- Dr.
-                                                                                            (Smt). Varsha.V. Koppal 
-                                                                                    
-
+- Dr.
+
+                                                                                            (Smt). Varsha.V. Koppal 
+
                                                                                         Assistant Professor
 
+### Dr.
 
-### Dr.
                                                                                             (Smt). Varsha.V. Koppal
 
 Assistant Professor
 
-- Sri.
-                                                                                            Gangadhar V Muddapur  
-                                                                                    
-
+- Sri.
+
+                                                                                            Gangadhar V Muddapur  
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Gangadhar V Muddapur
 
 Assistant Professor
 
-- Dr.
-                                                                                            Sangeeta. Kolavekar  
-                                                                                    
-
+- Dr.
+
+                                                                                            Sangeeta. Kolavekar  
+
                                                                                         Assistant Professor
 
+### Dr.
 
-### Dr.
                                                                                             Sangeeta. Kolavekar
 
 Assistant Professor
 
-- Dr.
-                                                                                            (Smt.) Rajashree M Hodlur
-                                                                                    
-
+- Dr.
+
+                                                                                            (Smt.) Rajashree M Hodlur
+
                                                                                         Assistant Professor
 
+### Dr.
 
-### Dr.
                                                                                             (Smt.) Rajashree M Hodlur
 
 Assistant Professor
 
-- Dr.
-                                                                                            Prashant N Patil  
-                                                                                    
-
+- Dr.
+
+                                                                                            Prashant N Patil  
+
                                                                                         Assistant Professor
 
+### Dr.
 
-### Dr.
                                                                                             Prashant N Patil
 
 Assistant Professor
 
-- MISS
-                                                                                            NEELAMMA GUMMAGOL  
-                                                                                    
-
+- MISS
+
+                                                                                            NEELAMMA GUMMAGOL  
+
                                                                                         Assistant Professor
 
+### MISS
 
-### MISS
                                                                                             NEELAMMA GUMMAGOL
 
 Assistant Professor
 
-- Dr.
-                                                                                            Smt. S. Dhanalakshmi  
-                                                                                    
-
+- Dr.
+
+                                                                                            Smt. S. Dhanalakshmi  
+
                                                                                         Assistant Professor
 
+### Dr.
 
-### Dr.
                                                                                             Smt. S. Dhanalakshmi
 
 Assistant Professor
 
-- Sri.
-                                                                                            S.R. Kurundawade  
-                                                                                    
-
+- Sri.
+
+                                                                                            S.R. Kurundawade  
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             S.R. Kurundawade
 
 Assistant Professor
 
-- Dr.
-                                                                                            (Smt). Shweta J Malode
-                                                                                    
-
+- Dr.
+
+                                                                                            (Smt). Shweta J Malode
+
                                                                                         Assistant Professor
 
+### Dr.
 
-### Dr.
                                                                                             (Smt). Shweta J Malode
 
 Assistant Professor
 
-- Dr.
-                                                                                            S.V. Ganachari  
-                                                                                    
-
+- Dr.
+
+                                                                                            S.V. Ganachari  
+
                                                                                         Assistant Professor
 
+### Dr.
 
-### Dr.
                                                                                             S.V. Ganachari
 
 Assistant Professor
 
-- Dr.
-                                                                                            Bharati M Shettar 
-                                                                                    
-
+- Dr.
+
+                                                                                            Bharati M Shettar 
+
                                                                                         Assistant Professor
 
+### Dr.
 
-### Dr.
                                                                                             Bharati M Shettar
 
 Assistant Professor
 
-- Dr
-                                                                                            (Smt). Dakshyani. R Mammigatti
-                                                                                    
-
+- Dr
+
+                                                                                            (Smt). Dakshyani. R Mammigatti
+
                                                                                         Assistant Professor
 
+### Dr
 
-### Dr
                                                                                             (Smt). Dakshyani. R Mammigatti
 
 Assistant Professor
 
-- Dr.
-                                                                                            M.B. Page  
-                                                                                    
-
+- Dr.
+
+                                                                                            M.B. Page  
+
                                                                                         Assistant Professor
 
+### Dr.
 
-### Dr.
                                                                                             M.B. Page
 
 Assistant Professor
 
-- Dr
-                                                                                            (Smt). Shaila.V. Chougala 
-                                                                                    
-
+- Dr
+
+                                                                                            (Smt). Shaila.V. Chougala 
+
                                                                                         Assistant Professor
 
+### Dr
 
-### Dr
                                                                                             (Smt). Shaila.V. Chougala
 
 Assistant Professor
 
-- Dr.
-                                                                                            (Smt). Sumedha.S. Shinde  
-                                                                                    
-
+- Dr.
+
+                                                                                            (Smt). Sumedha.S. Shinde  
+
                                                                                         Assistant Professor
 
+### Dr.
 
-### Dr.
                                                                                             (Smt). Sumedha.S. Shinde
 
 Assistant Professor
 
-- Smt.
-                                                                                            Roopa. S. Algur 
-                                                                                    
-
+- Smt.
+
+                                                                                            Roopa. S. Algur 
+
                                                                                         Assistant Professor
 
+### Smt.
 
-### Smt.
                                                                                             Roopa. S. Algur
 
 Assistant Professor
 
-- Dr.
-                                                                                            Narayana Swamy  
-                                                                                    
-
+- Dr.
+
+                                                                                            Narayana Swamy  
+
                                                                                         Assistant Professor
 
+### Dr.
 
-### Dr.
                                                                                             Narayana Swamy
 
 Assistant Professor
 
-- Dr.
-                                                                                            Gururaj N. Bhadri 
-                                                                                    
-
+- Dr.
+
+                                                                                            Gururaj N. Bhadri 
+
                                                                                         Assistant Professor
 
+### Dr.
 
-### Dr.
                                                                                             Gururaj N. Bhadri
 
 Assistant Professor
 
-- Smt.
-                                                                                            P Vinothini Acharya 
-                                                                                    
-
+- Smt.
+
+                                                                                            P Vinothini Acharya 
+
                                                                                         Assistant Professor
 
+### Smt.
 
-### Smt.
                                                                                             P Vinothini Acharya
 
 Assistant Professor
 
-- Dr.
-                                                                                            (Smt). Nivedita S Kabbur 
-                                                                                    
-
+- Dr.
+
+                                                                                            (Smt). Nivedita S Kabbur 
+
                                                                                         Assistant Professor
 
+### Dr.
 
-### Dr.
                                                                                             (Smt). Nivedita S Kabbur
 
 Assistant Professor
 
-- Sri.
-                                                                                            Roshan Kumar Arya 
-                                                                                    
-
+- Sri.
+
+                                                                                            Roshan Kumar Arya 
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Roshan Kumar Arya
 
 Assistant Professor
 
-- Smt.
-                                                                                            Jyoti Macha  
-                                                                                    
-
+- Smt.
+
+                                                                                            Jyoti Macha  
+
                                                                                         Assistant Professor
 
+### Smt.
 
-### Smt.
                                                                                             Jyoti Macha
 
 Assistant Professor
 
-- Sri.
-                                                                                            Praveen I Chandaragi 
-                                                                                    
-
+- Sri.
+
+                                                                                            Praveen I Chandaragi 
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Praveen I Chandaragi
 
 Assistant Professor
 
-- Dr.
-                                                                                            Sunil Benawadi  
-                                                                                    
-
+- Dr.
+
+                                                                                            Sunil Benawadi  
+
                                                                                         Assistant Professor
 
+### Dr.
 
-### Dr.
                                                                                             Sunil Benawadi
 
 Assistant Professor
 
-- Ms.
-                                                                                            Deepa Katagi  
-                                                                                    
-
+- Ms.
+
+                                                                                            Deepa Katagi  
+
                                                                                         Assistant Professor
 
+### Ms.
 
-### Ms.
                                                                                             Deepa Katagi
 
 Assistant Professor
 
-- Sri.
-                                                                                            Praveenkumar S M 
-                                                                                    
-
+- Sri.
+
+                                                                                            Praveenkumar S M 
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Praveenkumar S M
 
 Assistant Professor
 
-- Smt.
-                                                                                            Jayanti D Shinge 
-                                                                                    
-
+- Smt.
+
+                                                                                            Jayanti D Shinge 
+
                                                                                         Assistant Professor
 
+### Smt.
 
-### Smt.
                                                                                             Jayanti D Shinge
 
 Assistant Professor
 
-- Sri.
-                                                                                            Sanjay.V. Kulkarni  
-                                                                                    
-
+- Sri.
+
+                                                                                            Sanjay.V. Kulkarni  
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Sanjay.V. Kulkarni
 
 Assistant Professor
 
-- Smt.
-                                                                                            Geeta S Maralappanavar 
-                                                                                    
-
+- Smt.
+
+                                                                                            Geeta S Maralappanavar 
+
                                                                                         Assistant Professor
 
+### Smt.
 
-### Smt.
                                                                                             Geeta S Maralappanavar
 
 Assistant Professor
 
-- Sri.
-                                                                                            Ashok.K. Chikaraddi  
-                                                                                    
-
+- Sri.
+
+                                                                                            Ashok.K. Chikaraddi  
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Ashok.K. Chikaraddi
 
 Assistant Professor
 
-- Smt.
-                                                                                            Sujata R. Kulkarni 
-                                                                                    
-
+- Smt.
+
+                                                                                            Sujata R. Kulkarni 
+
                                                                                         Assistant Professor
 
+### Smt.
 
-### Smt.
                                                                                             Sujata R. Kulkarni
 
 Assistant Professor
 
-- Smt.
-                                                                                            Deepa C. Mulimani 
-                                                                                    
-
+- Smt.
+
+                                                                                            Deepa C. Mulimani 
+
                                                                                         Assistant Professor
 
+### Smt.
 
-### Smt.
                                                                                             Deepa C. Mulimani
 
 Assistant Professor
 
-- Sri.
-                                                                                            Amit.V. Kachavimath  
-                                                                                    
-
+- Sri.
+
+                                                                                            Amit.V. Kachavimath  
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Amit.V. Kachavimath
 
 Assistant Professor
 
-- Smt.
-                                                                                            Shashikala.V.Budni   
-                                                                                    
-
+- Smt.
+
+                                                                                            Shashikala.V.Budni   
+
                                                                                         Assistant Professor
 
+### Smt.
 
-### Smt.
                                                                                             Shashikala.V.Budni
 
 Assistant Professor
 
-- Sri.
-                                                                                            Nagaraj B Chakalabbi 
-                                                                                    
-
+- Sri.
+
+                                                                                            Nagaraj B Chakalabbi 
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Nagaraj B Chakalabbi
 
 Assistant Professor
 
-- Smt.
-                                                                                            Vani Yelamali  
-                                                                                    
-
+- Smt.
+
+                                                                                            Vani Yelamali  
+
                                                                                         Assistant Professor
 
+### Smt.
 
-### Smt.
                                                                                             Vani Yelamali
 
 Assistant Professor
 
-- Ms.
-                                                                                            Pooja Appanavar  
-                                                                                    
-
+- Ms.
+
+                                                                                            Pooja Appanavar  
+
                                                                                         Assistant Professor
 
+### Ms.
 
-### Ms.
                                                                                             Pooja Appanavar
 
 Assistant Professor
 
-- Sri.
-                                                                                            Sangmesh Melinmani  
-                                                                                    
-
+- Sri.
+
+                                                                                            Sangmesh Melinmani  
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Sangmesh Melinmani
 
 Assistant Professor
 
-- Mr.
-                                                                                            Satwik Mathad  
-                                                                                    
-
+- Mr.
+
+                                                                                            Satwik Mathad  
+
                                                                                         Assistant Professor
 
+### Mr.
 
-### Mr.
                                                                                             Satwik Mathad
 
 Assistant Professor
 
-- Ms.
-                                                                                            Renuka Ganiger  
-                                                                                    
-
+- Ms.
+
+                                                                                            Renuka Ganiger  
+
                                                                                         Assistant Professor
 
+### Ms.
 
-### Ms.
                                                                                             Renuka Ganiger
 
 Assistant Professor
 
-- Miss.
-                                                                                            Amruta Gaikwad  
-                                                                                    
-
+- Miss.
+
+                                                                                            Amruta Gaikwad  
+
                                                                                         Assistant Professor
 
+### Miss.
 
-### Miss.
                                                                                             Amruta Gaikwad
 
 Assistant Professor
 
-- Dr.
-                                                                                            Rohini.S. Hongal  
-                                                                                    
-
+- Dr.
+
+                                                                                            Rohini.S. Hongal  
+
                                                                                         Assistant Professor
 
+### Dr.
 
-### Dr.
                                                                                             Rohini.S. Hongal
 
 Assistant Professor
 
-- Sri.
-                                                                                            Hemantraj. M. Kelagadi 
-                                                                                    
-
+- Sri.
+
+                                                                                            Hemantraj. M. Kelagadi 
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Hemantraj. M. Kelagadi
 
 Assistant Professor
 
-- Sri.
-                                                                                            Shivaraj.B. Hublikar  
-                                                                                    
-
+- Sri.
+
+                                                                                            Shivaraj.B. Hublikar  
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Shivaraj.B. Hublikar
 
 Assistant Professor
 
-- Sri.
-                                                                                            Kiran M. R. 
-                                                                                    
-
+- Sri.
+
+                                                                                            Kiran M. R. 
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Kiran M. R.
 
 Assistant Professor
 
-- Smt.
-                                                                                            Vijaya S Eligar 
-                                                                                    
-
+- Smt.
+
+                                                                                            Vijaya S Eligar 
+
                                                                                         Assistant Professor
 
+### Smt.
 
-### Smt.
                                                                                             Vijaya S Eligar
 
 Assistant Professor
 
-- Sri.
-                                                                                            Shamshuddin K.  
-                                                                                    
-
+- Sri.
+
+                                                                                            Shamshuddin K.  
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Shamshuddin K.
 
 Assistant Professor
 
-- Sri.
-                                                                                            Kaushik M  
-                                                                                    
-
+- Sri.
+
+                                                                                            Kaushik M  
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Kaushik M
 
 Assistant Professor
 
-- Sri.
-                                                                                            Suhas B Shirol 
-                                                                                    
-
+- Sri.
+
+                                                                                            Suhas B Shirol 
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Suhas B Shirol
 
 Assistant Professor
 
-- Sri
-                                                                                            Vishal B Pattanshetti 
-                                                                                    
-
+- Sri
+
+                                                                                            Vishal B Pattanshetti 
+
                                                                                         Assistant Professor
 
+### Sri
 
-### Sri
                                                                                             Vishal B Pattanshetti
 
 Assistant Professor
 
-- Sri.
-                                                                                            Satish S Chikkamath 
-                                                                                    
-
+- Sri.
+
+                                                                                            Satish S Chikkamath 
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Satish S Chikkamath
 
 Assistant Professor
 
-- Sri.
-                                                                                            Gireesha H.M  
-                                                                                    
-
+- Sri.
+
+                                                                                            Gireesha H.M  
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Gireesha H.M
 
 Assistant Professor
 
-- Smt.
-                                                                                            Jyoti Ravikumar  
-                                                                                    
-
+- Smt.
+
+                                                                                            Jyoti Ravikumar  
+
                                                                                         Assistant Professor
 
+### Smt.
 
-### Smt.
                                                                                             Jyoti Ravikumar
 
 Assistant Professor
 
-- Smt.
-                                                                                            Heera G Wali 
-                                                                                    
-
+- Smt.
+
+                                                                                            Heera G Wali 
+
                                                                                         Assistant Professor
 
+### Smt.
 
-### Smt.
                                                                                             Heera G Wali
 
 Assistant Professor
 
-- Sri.
-                                                                                            Anil M. Kabbur 
-                                                                                    
-
+- Sri.
+
+                                                                                            Anil M. Kabbur 
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Anil M. Kabbur
 
 Assistant Professor
 
-- Smt.
-                                                                                            Rajeshwari Mattimani  
-                                                                                    
-
+- Smt.
+
+                                                                                            Rajeshwari Mattimani  
+
                                                                                         Assistant Professor
 
+### Smt.
 
-### Smt.
                                                                                             Rajeshwari Mattimani
 
 Assistant Professor
 
-- Sri.
-                                                                                            Shashidhar S Neelakanthmath 
-                                                                                    
-
+- Sri.
+
+                                                                                            Shashidhar S Neelakanthmath 
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Shashidhar S Neelakanthmath
 
 Assistant Professor
 
-- Sri.
-                                                                                            Ramesh A Tabib 
-                                                                                    
-
+- Sri.
+
+                                                                                            Ramesh A Tabib 
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Ramesh A Tabib
 
 Assistant Professor
 
-- Sri.
-                                                                                            Raghavendra.M. Shet  
-                                                                                    
-
+- Sri.
+
+                                                                                            Raghavendra.M. Shet  
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Raghavendra.M. Shet
 
 Assistant Professor
 
-- Sri.
-                                                                                            Rohit Kalyani  
-                                                                                    
-
+- Sri.
+
+                                                                                            Rohit Kalyani  
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Rohit Kalyani
 
 Assistant Professor
 
-- Smt.
-                                                                                            Preeti S Pillai 
-                                                                                    
-
+- Smt.
+
+                                                                                            Preeti S Pillai 
+
                                                                                         Assistant Professor
 
+### Smt.
 
-### Smt.
                                                                                             Preeti S Pillai
 
 Assistant Professor
 
-- Smt.
-                                                                                            Shraddha B. Hiremath 
-                                                                                    
-
+- Smt.
+
+                                                                                            Shraddha B. Hiremath 
+
                                                                                         Assistant Professor
 
+### Smt.
 
-### Smt.
                                                                                             Shraddha B. Hiremath
 
 Assistant Professor
 
-- Ms.
-                                                                                            Bhagyashree Kinnal  
-                                                                                    
-
+- Ms.
+
+                                                                                            Bhagyashree Kinnal  
+
                                                                                         Assistant Professor
 
+### Ms.
 
-### Ms.
                                                                                             Bhagyashree Kinnal
 
 Assistant Professor
 
-- Ms.
-                                                                                            Nikita K Patil 
-                                                                                    
-
+- Ms.
+
+                                                                                            Nikita K Patil 
+
                                                                                         Assistant Professor
 
+### Ms.
 
-### Ms.
                                                                                             Nikita K Patil
 
 Assistant Professor
 
-- Ms.
-                                                                                            Shraddha G Revankar 
-                                                                                    
-
+- Ms.
+
+                                                                                            Shraddha G Revankar 
+
                                                                                         Assistant Professor
 
+### Ms.
 
-### Ms.
                                                                                             Shraddha G Revankar
 
 Assistant Professor
 
-- Smt.
-                                                                                            Supriya Katwe  
-                                                                                    
-
+- Smt.
+
+                                                                                            Supriya Katwe  
+
                                                                                         Assistant Professor
 
+### Smt.
 
-### Smt.
                                                                                             Supriya Katwe
 
 Assistant Professor
 
-- Sri.
-                                                                                            Akash Kulkarni  
-                                                                                    
-
+- Sri.
+
+                                                                                            Akash Kulkarni  
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Akash Kulkarni
 
 Assistant Professor
 
-- Mr.
-                                                                                            Nandish Humbi  
-                                                                                    
-
+- Mr.
+
+                                                                                            Nandish Humbi  
+
                                                                                         Assistant Professor
 
+### Mr.
 
-### Mr.
                                                                                             Nandish Humbi
 
 Assistant Professor
 
-- Ms.
-                                                                                            Nagaratna Shanbhag  
-                                                                                    
-
+- Ms.
+
+                                                                                            Nagaratna Shanbhag  
+
                                                                                         Assistant Professor
 
+### Ms.
 
-### Ms.
                                                                                             Nagaratna Shanbhag
 
 Assistant Professor
 
-- Ms.
-                                                                                            Sheela A Badagi 
-                                                                                    
-
+- Ms.
+
+                                                                                            Sheela A Badagi 
+
                                                                                         Assistant Professor
 
+### Ms.
 
-### Ms.
                                                                                             Sheela A Badagi
 
 Assistant Professor
 
-- Ms.
-                                                                                            Sahana E Punagin  
-                                                                                    
-
+- Ms.
+
+                                                                                            Sahana E Punagin  
+
                                                                                         Assistant Professor
 
+### Ms.
 
-### Ms.
                                                                                             Sahana E Punagin
 
 Assistant Professor
 
-- Sri
-                                                                                            Shivaprasad Chennagi  
-                                                                                    
-
+- Sri
+
+                                                                                            Shivaprasad Chennagi  
+
                                                                                         Assistant Professor
 
+### Sri
 
-### Sri
                                                                                             Shivaprasad Chennagi
 
 Assistant Professor
 
-- Smt.
-                                                                                            Vidyashrimath   
-                                                                                    
-
+- Smt.
+
+                                                                                            Vidyashrimath   
+
                                                                                         Assistant Professor
 
+### Smt.
 
-### Smt.
                                                                                             Vidyashrimath
 
 Assistant Professor
 
-- Sri.
-                                                                                            L Bhargav Kumar 
-                                                                                    
-
+- Sri.
+
+                                                                                            L Bhargav Kumar 
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             L Bhargav Kumar
 
 Assistant Professor
 
-- Mrs.
-                                                                                            Heena Shirahatti  
-                                                                                    
-
+- Mrs.
+
+                                                                                            Heena Shirahatti  
+
                                                                                         Assistant Professor
 
+### Mrs.
 
-### Mrs.
                                                                                             Heena Shirahatti
 
 Assistant Professor
 
-- Mr.
-                                                                                            Raghuraja Adi  
-                                                                                    
-
+- Mr.
+
+                                                                                            Raghuraja Adi  
+
                                                                                         Assistant Professor
 
+### Mr.
 
-### Mr.
                                                                                             Raghuraja Adi
 
 Assistant Professor
 
-- Mr.
-                                                                                            Rajeshwari Karnam  
-                                                                                    
-
+- Mr.
+
+                                                                                            Rajeshwari Karnam  
+
                                                                                         Assistant Professor
 
+### Mr.
 
-### Mr.
                                                                                             Rajeshwari Karnam
 
 Assistant Professor
 
-- Ms.
-                                                                                            Nirmala Koliwad   
-                                                                                    
-
+- Ms.
+
+                                                                                            Nirmala Koliwad   
+
                                                                                         Assistant Professor
 
+### Ms.
 
-### Ms.
                                                                                             Nirmala Koliwad
 
 Assistant Professor
 
-- Mrs.
-                                                                                            Jyothsna c   
-                                                                                    
-
+- Mrs.
+
+                                                                                            Jyothsna c   
+
                                                                                         Assistant Professor
 
+### Mrs.
 
-### Mrs.
                                                                                             Jyothsna c
 
 Assistant Professor
 
-- Smt.
-                                                                                            Preeti. T  
-                                                                                    
-
+- Smt.
+
+                                                                                            Preeti. T  
+
                                                                                         Assistant Professor
 
+### Smt.
 
-### Smt.
                                                                                             Preeti. T
 
 Assistant Professor
 
-- Sri.
-                                                                                            Parikshit P Hegade 
-                                                                                    
-
+- Sri.
+
+                                                                                            Parikshit P Hegade 
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Parikshit P Hegade
 
 Assistant Professor
 
-- Smt.
-                                                                                            P D Kalawad 
-                                                                                    
-
+- Smt.
+
+                                                                                            P D Kalawad 
+
                                                                                         Assistant Professor
 
+### Smt.
 
-### Smt.
                                                                                             P D Kalawad
 
 Assistant Professor
 
-- Sri.
-                                                                                            Vijay.S. Biradar  
-                                                                                    
-
+- Sri.
+
+                                                                                            Vijay.S. Biradar  
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Vijay.S. Biradar
 
 Assistant Professor
 
-- Sri.
-                                                                                            Manjunath K Gonal 
-                                                                                    
-
+- Sri.
+
+                                                                                            Manjunath K Gonal 
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Manjunath K Gonal
 
 Assistant Professor
 
-- Smt.
-                                                                                            Namrata D Hiremath 
-                                                                                    
-
+- Smt.
+
+                                                                                            Namrata D Hiremath 
+
                                                                                         Assistant Professor
 
+### Smt.
 
-### Smt.
                                                                                             Namrata D Hiremath
 
 Assistant Professor
 
-- Smt.
-                                                                                            Kavitha H. S 
-                                                                                    
-
+- Smt.
+
+                                                                                            Kavitha H. S 
+
                                                                                         Assistant Professor
 
+### Smt.
 
-### Smt.
                                                                                             Kavitha H. S
 
 Assistant Professor
 
-- Sri.
-                                                                                            Prakash B. Hegde 
-                                                                                    
-
+- Sri.
+
+                                                                                            Prakash B. Hegde 
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Prakash B. Hegde
 
 Assistant Professor
 
-- Smt.
-                                                                                            Umadevi.F.M   
-                                                                                    
-
+- Smt.
+
+                                                                                            Umadevi.F.M   
+
                                                                                         Assistant Professor
 
+### Smt.
 
-### Smt.
                                                                                             Umadevi.F.M
 
 Assistant Professor
 
-- Sri.
-                                                                                            P.M. Dhulavvagol  
-                                                                                    
-
+- Sri.
+
+                                                                                            P.M. Dhulavvagol  
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             P.M. Dhulavvagol
 
 Assistant Professor
 
-- Sri.
-                                                                                            Anand.S. Meti  
-                                                                                    
-
+- Sri.
+
+                                                                                            Anand.S. Meti  
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Anand.S. Meti
 
 Assistant Professor
 
-- Smt.
-                                                                                            Nirmala.S. Patil  
-                                                                                    
-
+- Smt.
+
+                                                                                            Nirmala.S. Patil  
+
                                                                                         Assistant Professor
 
+### Smt.
 
-### Smt.
                                                                                             Nirmala.S. Patil
 
 Assistant Professor
 
-- Sri.
-                                                                                            Mahesh.S.Patil   
-                                                                                    
-
+- Sri.
+
+                                                                                            Mahesh.S.Patil   
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Mahesh.S.Patil
 
 Assistant Professor
 
-- Smt.
-                                                                                            Indira Bidari  
-                                                                                    
-
+- Smt.
+
+                                                                                            Indira Bidari  
+
                                                                                         Assistant Professor
 
+### Smt.
 
-### Smt.
                                                                                             Indira Bidari
 
 Assistant Professor
 
-- Sri.
-                                                                                            Uday Kulkarni  
-                                                                                    
-
+- Sri.
+
+                                                                                            Uday Kulkarni  
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Uday Kulkarni
 
 Assistant Professor
 
-- Smt.
-                                                                                            Manjula K. Pawar 
-                                                                                    
-
+- Smt.
+
+                                                                                            Manjula K. Pawar 
+
                                                                                         Assistant Professor
 
+### Smt.
 
-### Smt.
                                                                                             Manjula K. Pawar
 
 Assistant Professor
 
-- Sri.
-                                                                                            Shivalingappa Battur  
-                                                                                    
-
+- Sri.
+
+                                                                                            Shivalingappa Battur  
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Shivalingappa Battur
 
 Assistant Professor
 
-- Sri.
-                                                                                            Sunil V Gurlhosur 
-                                                                                    
-
+- Sri.
+
+                                                                                            Sunil V Gurlhosur 
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Sunil V Gurlhosur
 
 Assistant Professor
 
-- Sri.
-                                                                                            Somashekar Patil  
-                                                                                    
-
+- Sri.
+
+                                                                                            Somashekar Patil  
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Somashekar Patil
 
 Assistant Professor
 
-- Sri.
-                                                                                            Mallikarjun S Akki 
-                                                                                    
-
+- Sri.
+
+                                                                                            Mallikarjun S Akki 
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Mallikarjun S Akki
 
 Assistant Professor
 
-- Sri.
-                                                                                            Prashant M. Narayankar 
-                                                                                    
-
+- Sri.
+
+                                                                                            Prashant M. Narayankar 
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Prashant M. Narayankar
 
 Assistant Professor
 
-- Smt.
-                                                                                            Pooja Shettar  
-                                                                                    
-
+- Smt.
+
+                                                                                            Pooja Shettar  
+
                                                                                         Assistant Professor
 
+### Smt.
 
-### Smt.
                                                                                             Pooja Shettar
 
 Assistant Professor
 
-- Smt.
-                                                                                            Bhagya P Sunag 
-                                                                                    
-
+- Smt.
+
+                                                                                            Bhagya P Sunag 
+
                                                                                         Assistant Professor
 
+### Smt.
 
-### Smt.
                                                                                             Bhagya P Sunag
 
 Assistant Professor
 
-- Smt.
-                                                                                            Priyadarshini M Patil 
-                                                                                    
-
+- Smt.
+
+                                                                                            Priyadarshini M Patil 
+
                                                                                         Assistant Professor
 
+### Smt.
 
-### Smt.
                                                                                             Priyadarshini M Patil
 
 Assistant Professor
 
-- Smt.
-                                                                                            Neha Tarannum  
-                                                                                    
-
+- Smt.
+
+                                                                                            Neha Tarannum  
+
                                                                                         Assistant Professor
 
+### Smt.
 
-### Smt.
                                                                                             Neha Tarannum
 
 Assistant Professor
 
-- Mr.
-                                                                                            Guruprasad S Konnurmath 
-                                                                                    
-
+- Mr.
+
+                                                                                            Guruprasad S Konnurmath 
+
                                                                                         Assistant Professor
 
+### Mr.
 
-### Mr.
                                                                                             Guruprasad S Konnurmath
 
 Assistant Professor
 
-- Sri.
-                                                                                            Sandeep N Kulkarni 
-                                                                                    
-
+- Sri.
+
+                                                                                            Sandeep N Kulkarni 
+
                                                                                         Assistant Professor
 
+### Sri.
 
-### Sri.
                                                                                             Sandeep N Kulkarni
 
 Assistant Professor
 
-- Dr.
-                                                                                            Sandeep Dhaduti
-                                                                                    
-
+- Dr.
+
+                                                                                            Sandeep Dhaduti
+
                                                                                         Assistant Professor
 - Ph.D.
 
+### Dr.
 
-### Dr.
                                                                                             Sandeep Dhaduti
 
 Assistant Professor
 
-- Dr.
-                                                                                            Shridhar H Budapanahalli
-                                                                                    
-
+- Dr.
+
+                                                                                            Shridhar H Budapanahalli
+
                                                                                         Assistant Professor
 - Ph.D.
 
+### Dr.
 
-### Dr.
                                                                                             Shridhar H Budapanahalli
 
 Assistant Professor
 
-- Mr.
-                                                                                            Shivanand P. P.
-                                                                                    
-
+- Mr.
+
+                                                                                            Shivanand P. P.
+
                                                                                         Assistant Professor
 - MSc Engg. By Research
 
+### Mr.
 
-### Mr.
                                                                                             Shivanand P. P.
 
 Assistant Professor
 
-- Mr.
-                                                                                            G.M.Hiremath
-                                                                                    
-
+- Mr.
+
+                                                                                            G.M.Hiremath
+
                                                                                         Assistant Professor
 - M.Tech.
 
+### Mr.
 
-### Mr.
                                                                                             G.M.Hiremath
 
 Assistant Professor
 
-- Mr.
-                                                                                            Anand R. Lakkundi
-                                                                                    
-
+- Mr.
+
+                                                                                            Anand R. Lakkundi
+
                                                                                         Assistant Professor
 - M.Tech.
 
+### Mr.
 
-### Mr.
                                                                                             Anand R. Lakkundi
 
 Assistant Professor
 
-- Mr.
-                                                                                            Karthik K
-                                                                                    
-
+- Mr.
+
+                                                                                            Karthik K
+
                                                                                         Assistant Professor
 - M.Tech.
 
+### Mr.
 
-### Mr.
                                                                                             Karthik K
 
 Assistant Professor
 
-- Mr.
-                                                                                            N. Akshaykumar
-                                                                                    
-
+- Mr.
+
+                                                                                            N. Akshaykumar
+
                                                                                         Assistant Professor
 - M.Tech.
 
+### Mr.
 
-### Mr.
                                                                                             N. Akshaykumar
 
 Assistant Professor
 
-- Mr.
-                                                                                            Guruputtarayya Patil
-                                                                                    
-
+- Mr.
+
+                                                                                            Guruputtarayya Patil
+
                                                                                         Assistant Professor
 - M.Tech.
 
+### Mr.
 
-### Mr.
                                                                                             Guruputtarayya Patil
 
 Assistant Professor
 
-- Mr.
-                                                                                            Manjunath Gangadhar
-                                                                                    
-
+- Mr.
+
+                                                                                            Manjunath Gangadhar
+
                                                                                         Assistant Professor
 - M.Tech.
 
+### Mr.
 
-### Mr.
                                                                                             Manjunath Gangadhar
 
 Assistant Professor
 
-- Ms.
-                                                                                            Varunashree Meti
-                                                                                    
-
+- Ms.
+
+                                                                                            Varunashree Meti
+
                                                                                         Assistant Professor
 - M.Tech.
 
+### Ms.
 
-### Ms.
                                                                                             Varunashree Meti
 
 Assistant Professor
 
-- Sri.
-                                                                                            Rajashekarswamy C Patil
-                                                                                    
-
+- Sri.
+
+                                                                                            Rajashekarswamy C Patil
+
                                                                                         Assistant Professor-Training and Placement
 
+### Sri.
 
-### Sri.
                                                                                             Rajashekarswamy C Patil
 
 Assistant Professor-Training and Placement
 
-- Mr.
-                                                                                            Sanjay Kulkarni
-                                                                                    
-
+- Mr.
+
+                                                                                            Sanjay Kulkarni
+
                                                                                         Lecturer
 - B. E
 
+### Mr.
 
-### Mr.
                                                                                             Sanjay Kulkarni
 
 Lecturer
 
-- Ar.
-                                                                                            Dipika Malhotra  
-                                                                                    
-
+- Ar.
+
+                                                                                            Dipika Malhotra  
+
                                                                                         Teaching hrs 10/week
 
+### Ar.
 
-### Ar.
                                                                                             Dipika Malhotra
 
 Teaching hrs 10/week
 
-- Ar.
-                                                                                            K V Nagmule 
-                                                                                    
-
+- Ar.
+
+                                                                                            K V Nagmule 
+
                                                                                         Teaching hrs 12/week
 
+### Ar.
 
-### Ar.
                                                                                             K V Nagmule
 
 Teaching hrs 12/week
 
-- Ar.
-                                                                                            Mahesh Hiremath  
-                                                                                    
-
+- Ar.
+
+                                                                                            Mahesh Hiremath  
+
                                                                                         Teaching hrs 4/week
 
+### Ar.
 
-### Ar.
                                                                                             Mahesh Hiremath
 
 Teaching hrs 4/week
 
-- Ar.
-                                                                                            Prasad Manvi  
-                                                                                    
-
+- Ar.
+
+                                                                                            Prasad Manvi  
+
                                                                                         Teaching hrs 4/week
 
+### Ar.
 
-### Ar.
                                                                                             Prasad Manvi
 
 Teaching hrs 4/week
 
-- Ar.
-                                                                                            Hegde Shrivatsa  
-                                                                                    
-
+- Ar.
+
+                                                                                            Hegde Shrivatsa  
+
                                                                                         Teaching hrs 4/week
 
+### Ar.
 
-### Ar.
                                                                                             Hegde Shrivatsa
 
 Teaching hrs 4/week
 
-- Ar.
-                                                                                            Guru Hiremath  
-                                                                                    
-
+- Ar.
+
+                                                                                            Guru Hiremath  
+
                                                                                         Teaching hrs 4/week
 
+### Ar.
 
-### Ar.
                                                                                             Guru Hiremath
 
 Teaching hrs 4/week
 
-- Ar.
-                                                                                            Shruti Joshi  
-                                                                                    
-
+- Ar.
+
+                                                                                            Shruti Joshi  
+
                                                                                         Teaching hrs 4/week
 
+### Ar.
 
-### Ar.
                                                                                             Shruti Joshi
 
 Teaching hrs 4/week
 
-- Ar.
-                                                                                            Anjali Joshi  
-                                                                                    
-
+- Ar.
+
+                                                                                            Anjali Joshi  
+
                                                                                         Teaching hrs 4/week
 
+### Ar.
 
-### Ar.
                                                                                             Anjali Joshi
 
 Teaching hrs 4/week
 
-- Ar.
-                                                                                            Shobha Karennavar  
-                                                                                    
-
+- Ar.
+
+                                                                                            Shobha Karennavar  
+
                                                                                         Teaching hrs 8/week
 
+### Ar.
 
-### Ar.
                                                                                             Shobha Karennavar
 
 Teaching hrs 8/week
 
-- Ar.
-                                                                                            Chetan Savanoormath  
-                                                                                    
-
+- Ar.
+
+                                                                                            Chetan Savanoormath  
+
                                                                                         Teaching hrs 8/week
 
+### Ar.
 
-### Ar.
                                                                                             Chetan Savanoormath
 
 Teaching hrs 8/week
 
-- Ar.
-                                                                                            Pratima Bengeri  
-                                                                                    
-
+- Ar.
+
+                                                                                            Pratima Bengeri  
+
                                                                                         Teaching hrs 8/week
 
+### Ar.
 
-### Ar.
                                                                                             Pratima Bengeri
 
 Teaching hrs 8/week
 
-- Ar.
-                                                                                            Hemanth Gokhale  
-                                                                                    
-
+- Ar.
+
+                                                                                            Hemanth Gokhale  
+
                                                                                         Teaching hrs 8/week
 
+### Ar.
 
-### Ar.
                                                                                             Hemanth Gokhale
 
 Teaching hrs 8/week
 
-- Ar.
-                                                                                            Shivshankar Gurikar  
-                                                                                    
-
+- Ar.
+
+                                                                                            Shivshankar Gurikar  
+
                                                                                         Teaching hrs 2/week
 
+### Ar.
 
-### Ar.
                                                                                             Shivshankar Gurikar
 
 Teaching hrs 2/week
 
-- Ar.
-                                                                                            Prateek Mahagaonkar  
-                                                                                    
-
+- Ar.
+
+                                                                                            Prateek Mahagaonkar  
+
                                                                                         Teaching hrs 5/week
 
+### Ar.
 
-### Ar.
                                                                                             Prateek Mahagaonkar
 
 Teaching hrs 5/week
 
-- Ar.
-                                                                                            Akash Yaligar  
-                                                                                    
-
+- Ar.
+
+                                                                                            Akash Yaligar  
+
                                                                                         Teaching hrs 6/week
 
+### Ar.
 
-### Ar.
                                                                                             Akash Yaligar
 
 Teaching hrs 6/week
 
-- Ar.
-                                                                                            Mahesh Rangannavar  
-                                                                                    
-
+- Ar.
+
+                                                                                            Mahesh Rangannavar  
+
                                                                                         Teaching hrs 6/week
 
+### Ar.
 
-### Ar.
                                                                                             Mahesh Rangannavar
 
 Teaching hrs 6/week
 
-- Mrs.
-                                                                                            Tulasa Badagi   
-                                                                                    
-
+- Mrs.
+
+                                                                                            Tulasa Badagi   
+
                                                                                         Teaching Assistant
 
+### Mrs.
 
-### Mrs.
                                                                                             Tulasa Badagi
 
 Teaching Assistant
 
-- Mr.
-                                                                                            Vishal Bhavikatti  
-                                                                                    
-
+- Mr.
+
+                                                                                            Vishal Bhavikatti  
+
                                                                                         Teaching Assistant
 
+### Mr.
 
-### Mr.
                                                                                             Vishal Bhavikatti
 
 Teaching Assistant
 
-- Ms.
-                                                                                            Khezia Olagundi  
-                                                                                    
-
+- Ms.
+
+                                                                                            Khezia Olagundi  
+
                                                                                         Teaching Assistant
 
+### Ms.
 
-### Ms.
                                                                                             Khezia Olagundi
 
 Teaching Assistant
 
-- Mr.
-                                                                                            Darshan Badiger  
-                                                                                    
-
+- Mr.
+
+                                                                                            Darshan Badiger  
+
                                                                                         Teaching Assistant
 
+### Mr.
 
-### Mr.
                                                                                             Darshan Badiger
 
 Teaching Assistant
 
-- Ms.
-                                                                                            Pratibha Hosamani  
-                                                                                    
-
+- Ms.
+
+                                                                                            Pratibha Hosamani  
+
                                                                                         Teaching Assistant
 
+### Ms.
 
-### Ms.
                                                                                             Pratibha Hosamani
 
 Teaching Assistant
 
-- Ms.
-                                                                                            Meghana Kulkarni  
-                                                                                    
-
+- Ms.
+
+                                                                                            Meghana Kulkarni  
+
                                                                                         Teaching Assistant
 
+### Ms.
 
-### Ms.
                                                                                             Meghana Kulkarni
 
 Teaching Assistant
 
-- Ms.
-                                                                                            Shilpa Hotagi  
-                                                                                    
-
+- Ms.
+
+                                                                                            Shilpa Hotagi  
+
                                                                                         Teaching Assistant
 
+### Ms.
 
-### Ms.
                                                                                             Shilpa Hotagi
 
 Teaching Assistant
 
-- Ms.
-                                                                                            Deepa S Betageri  
-                                                                                    
-
+- Ms.
+
+                                                                                            Deepa S Betageri  
+
                                                                                         Teaching Assistant
 
+### Ms.
 
-### Ms.
                                                                                             Deepa S Betageri
 
 Teaching Assistant
 
-- Ms.
-                                                                                            Sushma Garawad  
-                                                                                    
-
+- Ms.
+
+                                                                                            Sushma Garawad  
+
                                                                                         Teaching Assistant
 
+### Ms.
 
-### Ms.
                                                                                             Sushma Garawad
 
 Teaching Assistant
 
-- Ms.
-                                                                                            Maheshwari M Kittur  
-                                                                                    
-
+- Ms.
+
+                                                                                            Maheshwari M Kittur  
+
                                                                                         Teaching Assistant
 
+### Ms.
 
-### Ms.
                                                                                             Maheshwari M Kittur
 
 Teaching Assistant
 
-- Ms.
-                                                                                            Anuradha Vijay Shiriyannavar 
-                                                                                    
-
+- Ms.
+
+                                                                                            Anuradha Vijay Shiriyannavar 
+
                                                                                         Teaching Assistant
 
+### Ms.
 
-### Ms.
                                                                                             Anuradha Vijay Shiriyannavar
 
 Teaching Assistant
 
-- Ms.
-                                                                                            Girija Rathod
-                                                                                    
-
+- Ms.
+
+                                                                                            Girija Rathod
+
                                                                                         Teaching Assistant
 - B. E
 
+### Ms.
 
-### Ms.
                                                                                             Girija Rathod
 
 Teaching Assistant
 
-- Mr.
-                                                                                            Vinayak Chakalabbi
-                                                                                    
-
+- Mr.
+
+                                                                                            Vinayak Chakalabbi
+
                                                                                         Teaching Assistant
 - B. E
 
+### Mr.
 
-### Mr.
                                                                                             Vinayak Chakalabbi
 
 Teaching Assistant
-
-- Connect
-- Programs
-- Admissions
-- Menu
-
-Connect
-
-Programs
-
-Admissions
-
-Menu
-
-
-- Admission Process
-- FAQ
-- Scholarships
-
-
-#### Admission Help
-
-+91-836-2378103
-
-- B V. Bhoomaraddi Campus
-
-                                    Hubballi
-                                    Campus
-
-
-
-                                            Undergraduate
-                                        
-
-
-
-Undergraduate
-
-
-
-                                                                B E Civil Engineering
-
-                                                                B E Mechanical Engineering
-
-                                                                B E Electronics & Communication Engineering
-
-                                                                B E Computer Science and Engineering
-
-                                                                B E Computer Science and Engineering (Artificial Intelligence)
-
-                                                                B E Electrical & Electronics Engineering
-
-                                                                B E Automation & Robotics
-
-                                                                B E Biotechnology
-
-                                                                B E Electronics Engineering (VLSI Design & Technology)
-
-                                                                Bachelor of Architecture
-
-                                                                Bachelors of Business Administration
-
-                                                                Bachelor of Computer Applications (BCA)
-
-                                                                Bachelor of Commerce
-
-                                                                Bachelor of Commerce Integrated with ACCA
-
-                                                                Bachelor of Science (Fashion and Apparel Design)
-
-                                                                B.B.A. LL.B. (Hons.)
-
-                                                                LL.B. (Hons.)
-
-                                                                B.Sc. in Hotel Management and Catering Technology (B.Sc. HMCT)
-
-
-
-
-                                            Postgraduate
-                                        
-
-
-
-Postgraduate
-
-
-
-                                                                M.Tech Structural Engineering
-
-                                                                M.Tech Design Engineering
-
-                                                                M.Tech Advanced Manufacturing Systems
-
-                                                                M.Tech VLSI Design And Embedded Systems
-
-                                                                M.Tech Computer Science and  Engineering
-
-                                                                LLM - Constitutional Law
-
-                                                                LLM - IPR
-
-                                                                Master of Business Administration
-
-                                                                Master of Computer Application
-
-
-
-
-                                            Research
-                                        
-
-
-
-Research
-
-
-
-                                                                Ph.D. in Mechanical Engineering
-
-                                                                Ph.D. in Electronics & Communication Engineering
-
-                                                                Ph.D. in Computer Science & Engineering
-
-                                                                Ph.D. in Electrical & Electronics Engineering
-
-                                                                Ph.D. in Biotechnology
-
-                                                                Ph.D. in Civil Engineering
-
-                                                                Ph. D. in Architecture
-
-                                                                Ph. D. in Management Studies & Research
-
-                                                                Ph. D. in Chemistry
-
-                                                                Ph. D. in Mathematics
-
-                                                                Ph. D. in Physics
-
-                                                                Ph.D. In Humanities and Social Studies
-
-                                                                Ph. D. in Automation & Robotics
-
-                                                                MS Civil Engineering
-
-                                                                MS (Engg.) by Research in Visual Intelligence (CSE)
-
-                                                                MS (Engg.) by Research (ECE)
-
-                                                                MS Mechanical  Engineering
-
-                                                                MS Management Studies & Research
-
-                                                                MS Biotechnology
-
-                                                                MS Electrical & Electronics Engineering
-
-                                                                MS Automation and Robotics Engineering
-
-                                                                Centre for Engineering Education Research
-- Dr. M. S. Sheshgiri Campus
-
-                                    Belagavi
-                                    Campus
-
-
-
-                                            Undergraduate
-                                        
-
-
-
-Undergraduate
-
-
-
-                                                                B E Civil Engineering
-
-                                                                B E Mechanical Engineering
-
-                                                                B E Electronics & Communication Engineering
-
-                                                                B E Computer Science and Engineering
-
-                                                                B E Computer Science and Engineering (Artificial Intelligence)
-
-                                                                B E Electrical & Electronics Engineering
-
-                                                                B E Biomedical Engineering
-
-                                                                B E Chemical Engineering
-
-                                                                Bachelors of Business Administration
-
-                                                                Bachelor of Computer Applications (BCA)
-
-                                                                Bachelor of Commerce
-
-                                                                Bachelor of Commerce Integrated with ACCA
-
-                                                                Bachelor of Computer Applications (Honours)
-
-
-
-
-                                            Postgraduate
-                                        
-
-
-
-Postgraduate
-
-
-
-                                                                M.Tech Structural Engineering
-
-                                                                Master of Business Administration
-
-                                                                Master of Computer Application
-
-
-
-
-                                            Research
-                                        
-
-
-
-Research
-
-
-
-                                                                Ph.D. in Mechanical Engineering
-
-                                                                Ph.D. in Electronics & Communication Engineering
-
-                                                                Ph.D. in Computer Science & Engineering
-
-                                                                Ph.D. in Electrical & Electronics Engineering
-
-                                                                Ph.D. in Civil Engineering
-
-                                                                Ph. D. in Management Studies & Research
-- KLE Law Campus
-
-                                    Bengaluru
-                                    Campus
-
-
-
-                                            Undergraduate
-                                        
-
-
-
-Undergraduate
-
-
-
-                                                                B.A. LL.B
-
-                                                                B.B.A. LL.B
-
-                                                                B.Com. LL.B
-
-                                                                LL.B
-
-
-
-
-                                            Postgraduate
-                                        
-
-
-
-Postgraduate
-
-
-
-                                                                LLM - Constitutional Law
-
-                                                                LLM - IPR
-
-
-
-
-                                            Ph.D.
-                                        
-
-
-
-Ph.D.
-
-
-
-                                                                Ph.D. in Law
-
-- Undergraduate
-                                        
-
-
-
-Undergraduate
-
-
-
-                                                                B E Civil Engineering
-
-                                                                B E Mechanical Engineering
-
-                                                                B E Electronics & Communication Engineering
-
-                                                                B E Computer Science and Engineering
-
-                                                                B E Computer Science and Engineering (Artificial Intelligence)
-
-                                                                B E Electrical & Electronics Engineering
-
-                                                                B E Automation & Robotics
-
-                                                                B E Biotechnology
-
-                                                                B E Electronics Engineering (VLSI Design & Technology)
-
-                                                                Bachelor of Architecture
-
-                                                                Bachelors of Business Administration
-
-                                                                Bachelor of Computer Applications (BCA)
-
-                                                                Bachelor of Commerce
-
-                                                                Bachelor of Commerce Integrated with ACCA
-
-                                                                Bachelor of Science (Fashion and Apparel Design)
-
-                                                                B.B.A. LL.B. (Hons.)
-
-                                                                LL.B. (Hons.)
-
-                                                                B.Sc. in Hotel Management and Catering Technology (B.Sc. HMCT)
-- Postgraduate
-                                        
-
-
-
-Postgraduate
-
-
-
-                                                                M.Tech Structural Engineering
-
-                                                                M.Tech Design Engineering
-
-                                                                M.Tech Advanced Manufacturing Systems
-
-                                                                M.Tech VLSI Design And Embedded Systems
-
-                                                                M.Tech Computer Science and  Engineering
-
-                                                                LLM - Constitutional Law
-
-                                                                LLM - IPR
-
-                                                                Master of Business Administration
-
-                                                                Master of Computer Application
-- Research
-                                        
-
-
-
-Research
-
-
-
-                                                                Ph.D. in Mechanical Engineering
-
-                                                                Ph.D. in Electronics & Communication Engineering
-
-                                                                Ph.D. in Computer Science & Engineering
-
-                                                                Ph.D. in Electrical & Electronics Engineering
-
-                                                                Ph.D. in Biotechnology
-
-                                                                Ph.D. in Civil Engineering
-
-                                                                Ph. D. in Architecture
-
-                                                                Ph. D. in Management Studies & Research
-
-                                                                Ph. D. in Chemistry
-
-                                                                Ph. D. in Mathematics
-
-                                                                Ph. D. in Physics
-
-                                                                Ph.D. In Humanities and Social Studies
-
-                                                                Ph. D. in Automation & Robotics
-
-                                                                MS Civil Engineering
-
-                                                                MS (Engg.) by Research in Visual Intelligence (CSE)
-
-                                                                MS (Engg.) by Research (ECE)
-
-                                                                MS Mechanical  Engineering
-
-                                                                MS Management Studies & Research
-
-                                                                MS Biotechnology
-
-                                                                MS Electrical & Electronics Engineering
-
-                                                                MS Automation and Robotics Engineering
-
-                                                                Centre for Engineering Education Research
-
-- Undergraduate
-
-- B E Civil Engineering
-- B E Mechanical Engineering
-- B E Electronics & Communication Engineering
-- B E Computer Science and Engineering
-- B E Computer Science and Engineering (Artificial Intelligence)
-- B E Electrical & Electronics Engineering
-- B E Automation & Robotics
-- B E Biotechnology
-- B E Electronics Engineering (VLSI Design & Technology)
-- Bachelor of Architecture
-- Bachelors of Business Administration
-- Bachelor of Computer Applications (BCA)
-- Bachelor of Commerce
-- Bachelor of Commerce Integrated with ACCA
-- Bachelor of Science (Fashion and Apparel Design)
-- B.B.A. LL.B. (Hons.)
-- LL.B. (Hons.)
-- B.Sc. in Hotel Management and Catering Technology (B.Sc. HMCT)
-
-- Postgraduate
-
-- M.Tech Structural Engineering
-- M.Tech Design Engineering
-- M.Tech Advanced Manufacturing Systems
-- M.Tech VLSI Design And Embedded Systems
-- M.Tech Computer Science and  Engineering
-- LLM - Constitutional Law
-- LLM - IPR
-- Master of Business Administration
-- Master of Computer Application
-
-- Research
-
-- Ph.D. in Mechanical Engineering
-- Ph.D. in Electronics & Communication Engineering
-- Ph.D. in Computer Science & Engineering
-- Ph.D. in Electrical & Electronics Engineering
-- Ph.D. in Biotechnology
-- Ph.D. in Civil Engineering
-- Ph. D. in Architecture
-- Ph. D. in Management Studies & Research
-- Ph. D. in Chemistry
-- Ph. D. in Mathematics
-- Ph. D. in Physics
-- Ph.D. In Humanities and Social Studies
-- Ph. D. in Automation & Robotics
-- MS Civil Engineering
-- MS (Engg.) by Research in Visual Intelligence (CSE)
-- MS (Engg.) by Research (ECE)
-- MS Mechanical  Engineering
-- MS Management Studies & Research
-- MS Biotechnology
-- MS Electrical & Electronics Engineering
-- MS Automation and Robotics Engineering
-- Centre for Engineering Education Research
-
-- Undergraduate
-                                        
-
-
-
-Undergraduate
-
-
-
-                                                                B E Civil Engineering
-
-                                                                B E Mechanical Engineering
-
-                                                                B E Electronics & Communication Engineering
-
-                                                                B E Computer Science and Engineering
-
-                                                                B E Computer Science and Engineering (Artificial Intelligence)
-
-                                                                B E Electrical & Electronics Engineering
-
-                                                                B E Biomedical Engineering
-
-                                                                B E Chemical Engineering
-
-                                                                Bachelors of Business Administration
-
-                                                                Bachelor of Computer Applications (BCA)
-
-                                                                Bachelor of Commerce
-
-                                                                Bachelor of Commerce Integrated with ACCA
-
-                                                                Bachelor of Computer Applications (Honours)
-- Postgraduate
-                                        
-
-
-
-Postgraduate
-
-
-
-                                                                M.Tech Structural Engineering
-
-                                                                Master of Business Administration
-
-                                                                Master of Computer Application
-- Research
-                                        
-
-
-
-Research
-
-
-
-                                                                Ph.D. in Mechanical Engineering
-
-                                                                Ph.D. in Electronics & Communication Engineering
-
-                                                                Ph.D. in Computer Science & Engineering
-
-                                                                Ph.D. in Electrical & Electronics Engineering
-
-                                                                Ph.D. in Civil Engineering
-
-                                                                Ph. D. in Management Studies & Research
-
-- Undergraduate
-
-- B E Civil Engineering
-- B E Mechanical Engineering
-- B E Electronics & Communication Engineering
-- B E Computer Science and Engineering
-- B E Computer Science and Engineering (Artificial Intelligence)
-- B E Electrical & Electronics Engineering
-- B E Biomedical Engineering
-- B E Chemical Engineering
-- Bachelors of Business Administration
-- Bachelor of Computer Applications (BCA)
-- Bachelor of Commerce
-- Bachelor of Commerce Integrated with ACCA
-- Bachelor of Computer Applications (Honours)
-
-- Postgraduate
-
-- M.Tech Structural Engineering
-- Master of Business Administration
-- Master of Computer Application
-
-- Research
-
-- Ph.D. in Mechanical Engineering
-- Ph.D. in Electronics & Communication Engineering
-- Ph.D. in Computer Science & Engineering
-- Ph.D. in Electrical & Electronics Engineering
-- Ph.D. in Civil Engineering
-- Ph. D. in Management Studies & Research
-
-- Undergraduate
-                                        
-
-
-
-Undergraduate
-
-
-
-                                                                B.A. LL.B
-
-                                                                B.B.A. LL.B
-
-                                                                B.Com. LL.B
-
-                                                                LL.B
-- Postgraduate
-                                        
-
-
-
-Postgraduate
-
-
-
-                                                                LLM - Constitutional Law
-
-                                                                LLM - IPR
-- Ph.D.
-                                        
-
-
-
-Ph.D.
-
-
-
-                                                                Ph.D. in Law
-
-- Undergraduate
-
-- B.A. LL.B
-- B.B.A. LL.B
-- B.Com. LL.B
-- LL.B
-
-- Postgraduate
-
-- LLM - Constitutional Law
-- LLM - IPR
-
-- Ph.D.
-
-- Ph.D. in Law
-
-- +91-836-2378103
-- +91-836-2378105
-- +91-836-2378106
-
-info@kletech.ac.in

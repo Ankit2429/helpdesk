@@ -1,4 +1,5 @@
 # PDF Document: PhD_Regulations
+
 **PDF Source:** https://www.kletech.ac.in/bengaluru/pdf/PhD_Regulations.pdf
 
 ## Page 1
@@ -12,24 +13,12 @@ KLE Technological University
 Suggested modifications during 
 Academic Council June 2023 
  
- 
- 
- 
- 
- 
- 
 KLE Technological University 
  
 (Established under Karnataka Act No.22, 2013) 
 
-
 ## Page 2
 
- 
- 
- 
- 
- 
 1 PhD 
 prog 
 ram 
@@ -86,7 +75,6 @@ The RRC shall be formed for each of the provisionally registered PhDresearch
 scholar. 
 The RRC shall be responsible for reviewing and monitoring the 
  
-
 ## Page 3
 
     progress of the research scholar from his/her commencement of 
@@ -483,7 +471,6 @@ Supervisor (s) shall mention that: “The Thesis is based on the
 individual, original work of the research scholar, which is  
 previously unpublished research work“. It  shall be ensured  
 by the Research Supervisor (s) that: The Thesis shall not  
-contain any material that infringes the copyright of any other  
 individual or organization and does not hurt the sentiments of 
 any individual(s) or religion(s). The information such as text,  
 tables, equations, diagrams, figures, charts, graphs, and 
@@ -664,7 +651,6 @@ the Regulations Governing the Degree of Doctor of
 Philosophy. 
 • The University shall award the PhD Degree Certificate during the 
 forthcoming Convocation. 
-(b) Copy right: University shall hold the copyright of the Thesis 
 submitted to it. 
   1.4.6 Submission to UGC: 
 Following the successful completion of the evaluation process and 

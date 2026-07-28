@@ -1,35 +1,10 @@
 # PDF Document: mtech-ec-vlsi-curriculum-2023-25
+
 **PDF Source:** https://www.kletech.ac.in/pdf/mtech-ec-vlsi-curriculum-2023-25.pdf
 
 ## Page 1
 
 FMCD2009 / 2.0 1 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Curriculum Structure and Curriculum Content for the Academic Batch– 2023-25 
 School /Department: Electronics & Communication Engineering 
@@ -38,7 +13,6 @@ Program: Post Graduate in VLSI Design and Embedded Systems
 ## Page 2
 
 FMCD2009 / 2.0 2 
- 
  
 Table of Contents 
 Vision and Mission of KLE Technological University ........................................................... 3 
@@ -53,7 +27,6 @@ Semester- IV ...................................................................
 ## Page 3
 
 FMCD2009 / 2.0 3 
- 
  
 Vision and Mission 
 Vision 
@@ -79,7 +52,6 @@ benefit humanity and society.
 
 FMCD2009 / 2.0 4 
  
- 
 Program Educational Objectives (PEO’s) 
 1. Graduates will demonstrate peer - recognized technical competency to 
 solve contemporary problems in the analysis, design and development of 
@@ -98,7 +70,6 @@ development of the society.
 
 FMCD2009 / 2.0 5 
  
- 
 Program Outcomes (PO’s) 
 The graduates will have, 
  
@@ -116,8 +87,6 @@ lifetime.
 
 ## Page 6
 
- 
- 
 Curriculum Structure-Overall 
  
 Semester                                                                                              Total Program Credits: 88 
@@ -184,22 +153,20 @@ Credits 24 26 18 20
 
 ## Page 7
 
- 
 FORM 
 ISO 21001:2018 
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise Page 7 of 27 
 Year: 2023-25 
  
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 Semester: I Semester M. Tech 
 Program: VLSI Design & Embedded Systems 
 Course Title: Data Structures using C  Course Code: 18EVEC701 
@@ -242,29 +209,22 @@ Lab:
 12. Design and implement linked list data structures Project 
 13. Project 
  
-
 ## Page 8
 
- 
 FORM 
 ISO 21001:2018 
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise Page 7 of 27 
 Year: 2023-25 
  
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
- 
- 
- 
- 
 Program: VLSI Design & Embedded Systems 
 Course Title: Analog Circuits  Course Code: 20EVEC702 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs.: 5 hrs./week 
@@ -298,25 +258,20 @@ Compensation, Bandwidth and frequency response curve.
 
 ## Page 9
 
- 
 FORM 
 ISO 21001:2018 
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise Page 7 of 27 
 Year: 2023-25 
  
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
- 
- 
- 
 Text books  
 1. ‘William Hayt and Jack Kemmerly and Jamie Phillips and Steven Durbin, “Engineering Circuit Analysis”, 9th 
 Edition, Mc Graw Hill publications, 2019 
@@ -331,47 +286,22 @@ Circuits”,5th edition, John Wiley & Sons (January 2009)
 3. Adel S. Sedra and Kenneth C. Smith, “Microelectronic Circuits”, 7E, Oxford University Press (2015)  
 4. R. Jacob Baker, “CMOS Circuit Design, Layout, and Simulation”, 3rd edition, John Wiley & Sons (2010) 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 10
 
- 
 FORM 
 ISO 21001:2018 
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise Page 7 of 27 
 Year: 2023-25 
  
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
- 
- 
 Program: VLSI Design & Embedded Systems 
 Course Title: CMOS VLSI Design Course Code: 22EVEC704 
 L-T-P: 3-0-1 Credits: 4 Contact Hours: 5 Hrs./week 
@@ -407,22 +337,20 @@ Sequencing static circuits, Circuit design of latches and flip-flops, Clocking- 
 
 ## Page 11
 
- 
 FORM 
 ISO 21001:2018 
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise Page 7 of 27 
 Year: 2023-25 
  
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 Text Books   
 1. John P. Uyemura, Introduction to VLSI Circuits and Systems, 1, Wiley, 2007 
 2. Neil Weste, David Harris & Ayan Banerjee, CMOS VLSI Design, 3, Pearson Ed,        2005 
@@ -447,38 +375,22 @@ Lab:
 6. Design a Phase Detector using D-FF 
 7. Design complex combinational circuits and analyze the performance using Cadence tool. 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 12
 
- 
 FORM 
 ISO 21001:2018 
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise Page 7 of 27 
 Year: 2023-25 
  
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 Program: VLSI Design and Embedded System 
 Course Title: Advanced Digital Logic Design Course Code: 17EVEC710 
 L-T-P: 0-0-2 Credits: 2 Contact Hours: 4Hrs/week 
@@ -516,27 +428,22 @@ Reference Books:
 3. Principles of VLSI RTL Design: A Practical Guide by Sapan Garg, 2011 Tools: 1. NC Verilog, NC Sim, CVER + GTKWave, 
 VCSMX, Modelsim for Verilog 2. Microwind for layout. 
  
- 
- 
-
 ## Page 13
 
- 
 FORM 
 ISO 21001:2018 
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise Page 7 of 27 
 Year: 2023-25 
  
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 Program: VLSI Design and Embedded System 
 Course Title: Machine Learning  Course Code: 22EVEC708 
 L-T-P: 3-0-1 Credits: 4 Contact Hours: 5Hrs/week 
@@ -572,25 +479,22 @@ Reference Books:
       2. Trevor Hastie, Robert Tibshirani, Jerome Friedman, The Elements of Statistical Learning: Data Mining,  
       Inference and Prediction, 2, Springer, 2009 
  
-
 ## Page 14
 
- 
 FORM 
 ISO 21001:2018 
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise Page 7 of 27 
 Year: 2023-25 
  
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 Implementation Assignments: 
 1. Assignments are designed to explore the concepts like 
  Supervise and unsupervised learning, 
@@ -599,53 +503,22 @@ Implementation Assignments:
 2. Motivate students to take up open challenges like Kaggle, walmart, ect  
 3. To explore different Machine Learning Tools/ Libraries. 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 15
 
- 
 FORM 
 ISO 21001:2018 
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise Page 7 of 27 
 Year: 2023-25 
  
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 Program: VLSI Design and Embedded System 
 Course Title: RISC Architectures and Programming Course Code: 17EVEC705 
 L-T-P: 4-0-1 Credits: 5 Contact Hours: 6Hrs/week 
@@ -680,25 +553,22 @@ Duo Processor: The CPU, Memory Controller, I/O Controller.
 Chapter 09.  Current Trends in Intel Architectures and Applications (03 hrs.) 
 Seminar on current trends in Intel Architectures 
  
-
 ## Page 16
 
- 
 FORM 
 ISO 21001:2018 
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise Page 7 of 27 
 Year: 2023-25 
  
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 Reference Books:  
 1. ARM System- on-Chip Architecture” by 'Steve Furber', LPE, Second Edition. 
 2. “ARM Assembly Language fundamentals and Techniques” by William Hohl, CRC press, 2009. 
@@ -740,24 +610,20 @@ iii. To find whether given string is palindrome
 
 ## Page 17
 
- 
 FORM 
 ISO 21001:2018 
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise Page 7 of 27 
 Year: 2023-25 
  
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
- 
- 
 Reference Books 
 1. “ARM System- on-Chip Architecture” by 'Steve Furber”, LPE, Second Edition. 
 2. “Embedded Systems- Architecture, Programming and Design” by Raj Kamal, TMH 
@@ -767,54 +633,22 @@ Manual
 1. LPC2148 datasheet by NXP. 
 2. LPC2148 board manual by ALS, Bangalore 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 18
 
- 
 FORM 
 ISO 21001:2018 
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise Page 7 of 27 
 Year: 2023-25 
  
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
- 
 Program: VLSI Design and Embedded System 
 Course Title: Electronic System Design Course Code: 17EVEC707 
 L-T-P: 0-0-3 Credits: 3 Contact Hours: 6Hrs/week 
@@ -830,44 +664,22 @@ References
 1. A. S Sedra and KC Smith, Microelectronic circuits, Oxford, 1998. 
 2. G.L. Ginsberg, Printed Circuit Design, McGraw Hill, 1991 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 19
 
- 
 FORM 
 ISO 21001:2018 
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise Page 7 of 27 
 Year: 2023-25 
  
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
- 
 Semester: II Semester M. Tech 
 Course Title:  Mathematical Thinking and  Logical 
 Reasoning 
@@ -891,42 +703,22 @@ Reference Books:
 1. Verbal and Non – Verbal Reasoning – Dr. Ravi Chopra, MacMillan India 
 2. Lateral Thinking – Dr. Edward De Bono, Penguin Books, New Delhi 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 20
 
- 
 FORM 
 ISO 21001:2018 
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise Page 7 of 27 
 Year: 2023-25 
  
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
- 
 Program: VLSI Design & Embedded Systems 
 Course Title: Automotive Electronics and Communication  Course Code: 19EVEC701 
 L-T-P: 3-0-1 Credits: 4 Contact Hours: 5 hrs./week. 
@@ -969,22 +761,20 @@ Diagnosis, Diagnostic procedures and sequence, On board and off board diagnostic
 
 ## Page 21
 
- 
 FORM 
 ISO 21001:2018 
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise Page 7 of 27 
 Year: 2023-25 
  
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 Concept of DTCs, DLC, MIL, Freeze Frames, History memory, Diagnostic tools, Diagnostic protocols: KWP2000 and 
 UDS. 
  Text books: 
@@ -1008,25 +798,22 @@ hardware platform.
 8. Develop matlab code for stepper motor control and convert it to Simulink model and port it to embedded 
 hardware 
   
-
 ## Page 22
 
- 
 FORM 
 ISO 21001:2018 
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise Page 7 of 27 
 Year: 2023-25 
  
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 Program: VLSI Design & Embedded Systems 
 Course Title: Real Time Embedded System Course Code: 19EVEC702 
 L-T-P: 3-0-1 Credits: 4 Contact Hours: 5 Hrs./week 
@@ -1055,22 +842,20 @@ The students shall give seminars on current trends in the field of RTES, ethical
 
 ## Page 23
 
- 
 FORM 
 ISO 21001:2018 
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise Page 7 of 27 
 Year: 2023-25 
  
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 Text Books 
 1. Philip. A. Laplante, “Real -Time Systems Design and Analysis - an Engineer’s Handbook” - Second Edition, PHI 
 Publications. 
@@ -1086,48 +871,22 @@ References
 6. C. M. Krishna,  “Real Time Systems” MGH, 1997  
 7. Jane W.S. Liu, “Real-Time Systems”, Pearson Education Inc., 2000 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 24
 
- 
 FORM 
 ISO 21001:2018 
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise Page 7 of 27 
 Year: 2023-25 
  
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 Program: VLSI Design & Embedded Systems 
 Course Title: Advanced Digital Logic Verification  Course Code: 19EVEC703 
 L-T-P: 0-0-3 Credits: 3 Contact Hours: 6 Hrs./week 
@@ -1159,32 +918,22 @@ language features - Springer, 2012
 3. Step-by-Step Functional Verification with System Verilog and OVM by Sasan Iman SiMantis Inc. Santa 
 Clara, CA Spring 2008 Tools: 1. NC Verilog, NC Sim, VCSMX for System. 
  
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 25
 
- 
 FORM 
 ISO 21001:2018 
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise Page 7 of 27 
 Year: 2023-25 
  
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 Program: VLSI Design & Embedded Systems 
 Course Title: Analog and Mixed mode VLSI Circuits Course Code: 21EVEC704 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 hrs./week 
@@ -1214,33 +963,22 @@ Reference Books
 3. C. Mead and L. Conway, Introduction to VLSI Systems, Addison Wesley, 1979.  
 4. B Razavi ‘Design of Analog CMOS Integrated Circuits’ First Edition McGraw Hill 2001 
  
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 26
 
- 
 FORM 
 ISO 21001:2018 
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise Page 7 of 27 
 Year: 2023-25 
  
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 Program: VLSI Design & Embedded Systems 
 Course Title: Image and Video Processing  Course Code: 17EVEE701 
 L-T-P: 2-0-1 Credits: 3 Contact Hours: 4 hrs./week 
@@ -1278,22 +1016,20 @@ Implementation assignments are designed using OpenCV/C++ to explore the concepts
 
 ## Page 27
 
- 
 FORM 
 ISO 21001:2018 
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise Page 7 of 27 
 Year: 2023-25 
  
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 2. Image transforms 
 3. Image restoration technique 
 4. Develop an image processing application to assist 
@@ -1306,51 +1042,22 @@ f. Remote sensing
 5. Track an object in video 
 6. Optimal use of surveillance video 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 28
 
- 
 FORM 
 ISO 21001:2018 
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise Page 7 of 27 
 Year: 2023-25 
  
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 Course Title:  MEMS Course code: 19EVEE701 
 L-T- P: 2-0-1 Credits: 03 Contact Hrs.:  04hrs/week 
 ISA Marks: 50 ESA Marks:  50 Total Marks: 100 
@@ -1379,31 +1086,22 @@ Text Book / Reference:
 References: 
 Micro system Design , Stephen D. Senturia, Kluwer Academic Publishers, 2001. 
  
- 
- 
- 
- 
- 
- 
-
 ## Page 29
 
- 
 FORM 
 ISO 21001:2018 
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise Page 7 of 27 
 Year: 2023-25 
  
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 Program: VLSI Design & Embedded Systems 
 Course Title: System on Chip Course Code: 19EVEE702 
 L-T-P: 2-0-1 Credits: 3 Contact Hours: 4 hrs./week 
@@ -1435,30 +1133,22 @@ Reference books
 Circuits,  Kluwer Academic Publishers, 2001. 
 3. Thomas Kropf, “Introduction to Formal Hardware Verification”, Springer 1999. 
  
- 
- 
- 
- 
- 
-
 ## Page 30
 
- 
 FORM 
 ISO 21001:2018 
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise Page 7 of 27 
 Year: 2023-25 
  
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 Program: VLSI Design & Embedded Systems 
 Course Title: CMOS ASIC Design  Course Code: 19EVEE703 
 L-T-P: 2-0-1 Credits: 3 Contact Hrs.: 4 hrs./week 
@@ -1491,28 +1181,22 @@ processing”, Prentice Hall, 1994.
 4. Mohammed Ismail and Terri Fiez, “Analog VLSI Signal and Information Processing “, McGraw Hill, 1994. 
 S. Y. Kung, H. J. Whilo House, T. Kailath, “VLSI and Modern Signal Processing”, Prentice Hall, 1985. 
  
- 
- 
- 
-
 ## Page 31
 
- 
 FORM 
 ISO 21001:2018 
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise Page 7 of 27 
 Year: 2023-25 
  
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 Program: VLSI Design & Embedded Systems 
 Course Title: Standard Cell Design and Layout Course Code: 17EVEE703 
 L-T-P: 2-0-1 Credits: 3 Contact Hrs: 4 hrs./week 
@@ -1532,43 +1216,22 @@ parameters, setup and runs across PVT corners. Library representation formats. (
 synthesis, timing, layout, timing, LVS, DRC) 
  References: Standard cell and memory library documentation by Vendors 90nm EDK library 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 32
 
- 
 FORM 
 ISO 21001:2018 
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise Page 7 of 27 
 Year: 2023-25 
  
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 Program: VLSI Design & Embedded Systems 
 Course Title: Testing and IC Characterization  Course Code: 19EVEE704 
 L-T-P: 2-0-1 Credits: 3 Contact Hrs.: 4 hrs./week 
@@ -1600,31 +1263,22 @@ language features - Springer, 2012
 3. Step-by-Step Functional Verification with SystemVerilog and OVM by Sasan Iman SiMantis Inc. Santa 
 Clara, CA Spring 2008 Tools: 1. NC Verilog, NC Sim, VCSMX for System. 
  
- 
- 
- 
- 
- 
- 
-
 ## Page 33
 
- 
 FORM 
 ISO 21001:2018 
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise Page 7 of 27 
 Year: 2023-25 
  
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 Program: VLSI Design & Embedded Systems 
 Course Title: Low Power VLSI Circuits Course Code: 19EVEE705 
 L-T-P: 2-0-1 Credits: 3 Contact Hours: 4 hrs./week 
@@ -1650,7 +1304,6 @@ Chapter 7: Algorithmic level methodologies for power reduction: (08 hrs.)
       Algorithm and architectural level methodologies- algorithmic level analysis & optimization, architecture level 
 estimation and synthesis, Current trends 
  
- 
 Text Books 
 1. Gary K. Yeap, “Practical Low Power Digital VLSI Design”, KAP, 2002.  
 2. Rabaey, Pedram, “Low power design methodologies” Kluwer Academic, 1997. 
@@ -1661,25 +1314,22 @@ Reference Books:
 3. Laung-Terng Wang, Charles E. Stroud, Nur A. Touba, “System-on-chip Test Architectures”, 2008. 
 4. Kaushik Roy, Sharat Prasad, “Low-Power CMOS VLSI Circuit Design” Wiley, 2000. 
  
-
 ## Page 34
 
- 
 FORM 
 ISO 21001:2018 
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise Page 7 of 27 
 Year: 2023-25 
  
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 Program: VLSI Design & Embedded Systems 
 Course Title: Internet Of Things  Course Code: 19EVEE706 
 L-T-P: 2-0-1 Credits: 3 Contact Hours: 4 Hrs./week 
@@ -1719,22 +1369,20 @@ Arduino, Android and AWS based Experiments
 
 ## Page 35
 
- 
 FORM 
 ISO 21001:2018 
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise Page 7 of 27 
 Year: 2023-25 
  
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 Lua Programming Based Experiments 
 1. Introduction to Lua programming 
 2. Controlling inbuilt LED of ESP8266 
@@ -1756,41 +1404,22 @@ Protocols” John Wiley & Sons – 2012.
 Reference Books: 
 Subhas Chandra Mukhopadhyay “Internet of Things Challenges and Opportunities” Springer- 2014. 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 36
 
- 
 FORM 
 ISO 21001:2018 
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise Page 7 of 27 
 Year: 2023-25 
  
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 Program: VLSI Design & Embedded Systems 
 Course Code: 20EVEE707 Course Title: AUTOSAR  
 L-T-P : 2-0-1 Credits: 3 Contact Hrs.: 4 Hrs./week 
@@ -1824,29 +1453,22 @@ Protocol data unit router, Diagnostic log and trace unit, COMM manager.
 Text Book (List of books as mentioned in the approved syllabus)  
 1. Ronald K. Jurgen, Infotainment systems, 2007, SAE International, 2007 
  
- 
- 
- 
- 
-
 ## Page 37
 
- 
 FORM 
 ISO 21001:2018 
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise Page 7 of 27 
 Year: 2023-25 
  
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 Program: VLSI Design & Embedded Systems 
 Course Title: Mini Project  Course Code: 19EVEW701 
 L-T-P-SS: 0-0-3 Credits: 3 Contact Hours: 6 
@@ -1869,26 +1491,22 @@ Semester end examination (SEE) includes submission of the project report, demons
 and viva-voce conducted by the external and internal examiner. SEE  carries  50% weightage of total marks of 
 mini-projects.  
  
- 
-
 ## Page 38
 
- 
 FORM 
 ISO 21001:2018 
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise Page 7 of 27 
 Year: 2023-25 
  
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 Semester: III Semester M.Tech. 
 Program: VLSI Design & Embedded Systems 
 Course Title: Internship / Mini Project   Course Code: 17EVEI801 
@@ -1915,66 +1533,22 @@ Semester end examination (ESA) includes submission of the project report, demons
 viva-voce conducted by the external and internal examiner. ESA  carries  50% weightage of total marks of mini -
 projects.      
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 39
 
- 
 FORM 
 ISO 21001:2018 
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise Page 7 of 27 
 Year: 2023-25 
  
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 Program: VLSI Design & Embedded Systems 
 Course Title: Project Phase I / Minor Project Course Code: 17EVEW801 
 L-T-P: 0-0-10 Credits: 10 Contact Hours: 20/week 
@@ -1986,22 +1560,20 @@ end of III Semester.
 
 ## Page 40
 
- 
 FORM 
 ISO 21001:2018 
 Document 
+
 #: 
+
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise Page 7 of 27 
 Year: 2023-25 
  
- 
 KLE Tech Confidential                                      CONTROLLED COPY 
         
- 
 Semester:  IV Semester M.Tech 
 Program: VLSI Design & Embedded Systems 
 Course Title: Project Phase II / Major project Course Code: 17EVEW802 
@@ -2012,11 +1584,3 @@ ISA Marks: 50 ESA Marks: 100  Total Marks: 150
 during the project work. Evaluation shall be taken up during the end of IV Semester. At the end of t he Semester 
 Project Work Evaluation and Viva-Voce Examinations will be conducted.    
  
- 
- 
- 
- 
- 
- 
- 
-  

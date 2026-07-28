@@ -1,4 +1,5 @@
 # PDF Document: KLE-TECH-Annual-Report-2017-18
+
 **PDF Source:** https://www.kletech.ac.in/pdf/KLE-TECH-Annual-Report-2017-18.pdf
 
 ## Page 1
@@ -101,7 +102,6 @@ We would like to extend our sincere thanks to our faculty, staff, students, alum
 their continued support and remarkable contributions. Looking ahead, we will continue to work towards 
 realizing our vision to be a leader in engineering education, and advancing research and innovation to 
 support socio-economic development of the region.
-
 
 ## Page 5
 
@@ -210,7 +210,6 @@ Graduate Common Entrance Test (PGCET)
 conducted by Karnataka examination 
 authority, is used for the selection of 
 students.
-
 
 ## Page 7
 
@@ -341,7 +340,6 @@ improvement that strengthens our academic
 quality and inspires student achievement.
 Academic Quality
 
-
 ## Page 10
 
 8   | KLE Tech
@@ -422,7 +420,6 @@ holds such a space for thoughts to fully form before being set down into a holis
 During the academic year 2017-18 following are the major academic initiatives undertaken to improvise 
 the teaching and learning process.
 
-
 ## Page 12
 
 10   | KLE Tech
@@ -462,7 +459,6 @@ projects carried out led to publications as well. Sample other projects carried 
 using Robin Karp algorithm and SVM, Developing an model to predict and classify the heritage images 
 with appropriate labels ( Multi class), Road Fighter games using Reinforcement  & Q Learning, Image 
 prediction using CNN etc. 
-
 
 ## Page 13
 
@@ -535,7 +531,6 @@ partner agreement between KLE Tech., IESA and SEER, University has enabled desig
 create a, mixed signal IC - Elapsed Time Counter in UMC 0.18µm technology, under the guidance of 
 faculty and industry experts.
 
-
 ## Page 15
 
   www.kletech.ac.in  |  13 
@@ -546,7 +541,6 @@ new courses developed by School of Mechanical Engineering in collaboration with 
 to impart employment linked specialized knowledge and skills through design thinking led innovative 
 curriculum interventions for assured campus recruitments.
 A glimpse of the course designed to be part of the curriculum is indicated below.
-
 
 ## Page 16
 
@@ -573,7 +567,6 @@ Course: PLM - Technical
 Industry Cases
 Tools: ENOVIA
 Specialist in PLM - Customization, Configuration and Integration
-
 
 ## Page 17
 
@@ -674,7 +667,6 @@ Among Software Services companies, Accenture recruited 267 and Infosys 150, whic
 considered good number in current scenario.
 New companies visited include -- Tata Hitachi, SLK Software, Ducom, DiFACTO A&R
 Total number of offers is 800+.
-
 
 ## Page 20
 
@@ -1009,13 +1001,14 @@ Graphs
 Details 2015-2016 2016-17 2017-18
 Journal Conference Journal Conference Journal Conference
 IJ NJ IC NC IJ NJ IC NC IJ NJ IC NC
+
 # of
+
 Publications 154 17 123 10 154 18 126 8 151 8 222 11
 171 133 172 134 159 233
 W 32 46 148
 S 78 99 81
 G 246 226 324
-
 
 ## Page 26
 
@@ -1050,7 +1043,9 @@ Consolidated  list of projects  from 2013 to 2017
 2013 to 2017 2017-18
 Name of School/Dept. # of projects Amount in 
 Lakhs
+
 # of projects Amount in 
+
 Lakhs
 Civil 01 20.00 0 0
 CSE 02 32.50 0 0
@@ -1065,10 +1060,14 @@ Summary of External Funding
   www.kletech.ac.in  |  25 
 Year # REU  students # REU
 Supervisors
+
 # of
+
 Publications 
 from REU
+
 # REU students  
+
 pursuing PG
 2011-12
 (completed)
@@ -1361,7 +1360,6 @@ announced at the end of 3 rounds. B-Plan Hackathon had 192 participants, 3 winne
 after 7 rigorous stages. Battle for Sharks had 54 teams competing against each with the total prize money 
 being worth INR 1,00,000/-
 
-
 ## Page 35
 
   www.kletech.ac.in  |  33 
@@ -1548,7 +1546,6 @@ United Heat Transfer 4
 Walmart Labs 10
 Various Biotech Companies 23
 
-
 ## Page 40
 
 38   | KLE Tech
@@ -1587,7 +1584,6 @@ number of Engineering Colleges in India have taken inspiration and have setup su
 their respective Institutions taking best practices and courses from. 
 About CEER:
 
-
 ## Page 41
 
   www.kletech.ac.in  |  39 
@@ -1616,7 +1612,6 @@ Table 1.  Details of Prayog-Vasant and Sharat
 Number of projects Date
 Prayog Vasant 147 projects by 550 freshmen April 27 2018
 Sharat 127 projects by 480 freshmen Dec 3, 2017
-
 
 ## Page 42
 
@@ -1706,7 +1701,6 @@ Second 13 64 May 14-18, 2018
 Master Trainers Workshop 1
 Glimpses of faculty in action during workshop 1 and workshop 2
 
-
 ## Page 45
 
   www.kletech.ac.in  |  43 
@@ -1758,7 +1752,6 @@ Warangal
 Joseph Engineering College, 
 Mangalore
 
-
 ## Page 46
 
 44   | KLE Tech
@@ -1792,7 +1785,6 @@ Institute Name Participants Dates
 KLE’s MSSCoE, 
 Belgaum 80 July 02-03, 2018
 KLE IT, Hubballi 40 July 30-31, 2018
-
 
 ## Page 47
 
@@ -1836,7 +1828,6 @@ Aurangabad
 80 Nov 8-9, 2017
 Vignan's Institute of Information 
 Technology, Visakhapatnam 120 May 4-5, 2018
-
 
 ## Page 48
 
@@ -1893,7 +1884,6 @@ Transformation in Engineering Education” at Bennett University, New
 Delhi by IUCEE (India US Council for Engineering Education) for the 
 second consecutive year.
 Recognitions
-
 
 ## Page 49
 
@@ -2029,7 +2019,6 @@ The new landscape focuses on creating informal interaction space for the student
 School of Computer Science & Engineering
 KLE Techpark
 
-
 ## Page 52
 
 50   | KLE Tech
@@ -2087,7 +2076,6 @@ support. This stick can even be used to protect themselves from the hazardous an
 and avoid any harm. As this product is handy and all the circuits are operated away from the body so there 
 would be no harm to human body. It is easy to maintain and due to simple placement of the circuits on the 
 stick and it is easily affordable.
-
 
 ## Page 54
 
@@ -2223,7 +2211,6 @@ During the program 23 beneficiaries were given
 scholarship of Rs.20000 each for their hostel needs 
 under Nurture Merit @ BVBCET Project.
 
-
 ## Page 57
 
   www.kletech.ac.in  |  55 
@@ -2247,7 +2234,6 @@ Dr . B. B. Kotturshettar
 Dean - Planning & Development
 Dr . Uma Mudenagudi
 Dean - Research & Development
-
 
 ## Page 58
 
@@ -2297,7 +2283,6 @@ Mechanical
 ## Page 59
 
 Campus Snapshots
-
 
 ## Page 60
 

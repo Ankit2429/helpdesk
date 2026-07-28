@@ -1,32 +1,21 @@
 # PDF Document: bachelor-business-administration-curriculum-structure-2022-2025
+
 **PDF Source:** https://www.kletech.ac.in/pdf/bachelor-business-administration-curriculum-structure-2022-2025.pdf
 
 ## Page 1
 
 School of Management Studies and Research 
  
- 
- 
 School of Management Studies and Research 
- 
- 
- 
- 
- 
- 
  
 Curriculum Structure and Content 
 Academic Batch: 2022-2025 
  
 Bachelor of Business Administration 
  
-
 ## Page 2
 
 School of Management Studies and Research 
- 
- 
- 
  
 INDEX 
  
@@ -46,15 +35,12 @@ Specific Objectives (PSOs)
 
 School of Management Studies and Research 
  
- 
  Vision and Mission Statements of the KLE Technological University 
  
 Vision 
  
- 
 KLE Technological University will be a national leade r in Higher Education –recognised globally 
 for innovative culture, outstanding student experience, research excellence and social impact. 
- 
  
 Mission 
 KLE Technological University is dedicated to teaching that meets highest standards of excellence, 
@@ -79,7 +65,6 @@ collaboration and partnership to accomplish our mission.
 
 School of Management Studies and Research 
  
- 
 Vision and Mission Statements of the Department/School 
  
 Vision 
@@ -98,7 +83,6 @@ To positively impact the society by upholding the values of KLE Society
 ## Page 5
 
 School of Management Studies and Research 
- 
  
 Consolidated View of Program Educational Objectives (PEOs) /Program Outcomes (POs) and 
 Program-Specific Objectives (PSOs) 
@@ -131,9 +115,7 @@ human
 
 ## Page 6
 
- 
 Curriculum Overall 
- 
  
 Semester Total Program Credits: 135 credits 
 Course with course code 
@@ -282,7 +264,6 @@ its
 
 School of Management Studies and Research 
  
- 
 Bachelor of Business Administration 
 Curriculum Structure  
 I Year BBA 
@@ -343,8 +324,6 @@ Business Communication (22MBAP101), Self Development (21MBAP105) and Entrepreneu
 
 School of Management Studies and Research 
  
- 
- 
 II Year BBA 
 Semester III 
  
@@ -371,7 +350,6 @@ Management 3-0-1 4 5 50 50 100 3 hours
  
  Tally and Advanced excel (21MBAP201) and Small Business Management (21MBAP202),and Web 
 design (21MBAP203) courses will have In Semester Assessment (ISA) only. 
- 
  
 Semester IV 
  
@@ -400,10 +378,8 @@ Assessment (ISA) only.
 
 ## Page 9
 
- 
 III Year BBA 
 Semester V 
- 
  
 Sl. 
 No. Code Course L-T-P Credits Contact 
@@ -432,7 +408,6 @@ Supply chain management
   Total 19-0-1 20      
  
 Ethics & Self Awareness (21MBAP304) course will have In Semester Assessment (ISA) only. 
- 
  
 Semester VI 
  
@@ -465,7 +440,6 @@ Assessment (ISA) only
 
 ## Page 10
 
- 
 DSE –I, II & III, IV 
  
 HR Specialization Marketing Specialization Finance Specialization 
@@ -494,7 +468,6 @@ Risk management
 ## Page 11
 
 School of Management Studies and Research 
- 
  
 Bachelor of Business Administration 
 Curriculum content  
@@ -549,7 +522,6 @@ spiral, Role of FDI & FII, Concept of GDP, GNP, NNP.
 
 School of Management Studies and Research 
  
- 
 Module 5: 
 Multinational – Definition, Investment motives, Benefits, Demerits, Recent trends, 
 Multinational in India - Introduction, public, private joint & co -operative sectors, 
@@ -571,7 +543,6 @@ References:
 ## Page 13
 
 School of Management Studies and Research 
- 
  
 Course Code: 21MBAC102 Course Title: Principles of Management 
 L-T-P: 3-0-1 Credits: 4 Contact Hrs: 05 Sessions/week 
@@ -627,7 +598,6 @@ Reference:
 
 School of Management Studies and Research 
  
- 
 Course Code: 21MBAC103 Course Title: Management Accounting 
 L-T-P: 3-0-1 Credits: 4 Contact Hrs: 05 Sessions/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -677,7 +647,6 @@ of India.
 
 School of Management Studies and Research 
  
- 
 Course Code: 21MBAC104 Course Title: Entrepreneurship Development 
 L-T-P: 2-0-1 Credits: 3 Contact Hrs: 04 Sessions/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -725,7 +694,6 @@ Western.
 ## Page 16
 
 School of Management Studies and Research 
- 
  
 Course Code: 21MBAC105 Course Title: English -I 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Sessions/week 
@@ -776,7 +744,6 @@ what a text does, to understand what a text means
 
 School of Management Studies and Research 
  
- 
 Course Code: 21MBAP101 Course Title: Introduction to MS Office 
 L-T-P: 1-0-1 Credits: 2 Contact Hrs: 03 Sessions/week 
 ISA Marks: 100 ESA Marks: -- Total Marks: 100 
@@ -812,82 +779,19 @@ Fourth Annual Edition, Thomson Learning.
 
 ## Page 18
 
- 
 Balake Kannada-I 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 23 
 
-
 ## Page 19
 
- 
- 
- 
 Adalitha Kannada-I 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 24 
-
 
 ## Page 20
 
 School of Management Studies and Research 
- 
  
 Semester II 
  
@@ -930,7 +834,6 @@ Reference Books:
 ## Page 21
 
 School of Management Studies and Research 
- 
  
 Course Code: 21MBAC107 Course Title: Business Mathematics 
 L-T-P: 3-1-0 Credits: 4 Contact Hrs: 05 Sessions/week 
@@ -976,7 +879,6 @@ References:
 ## Page 22
 
 School of Management Studies and Research 
- 
  
 Course Code: 21MBAC108 Course Title: Business Economics 
 L-T-P: 4-0-0 Credits: 4 Contact Hrs: 04 Sessions/week 
@@ -1033,7 +935,6 @@ References:
 
 School of Management Studies and Research 
  
- 
  P. N. Chopra Advanced Economics Theory; Kalyani Publishers, New Delhi. 
 Course Code: 21MBAC109 Course Title: Environmental Studies 
 L-T-P: 1-0-1 Credits: 2 Contact Hrs: 03 Sessions/week 
@@ -1061,7 +962,6 @@ NiveditaSarnaik
 ## Page 24
 
 School of Management Studies and Research 
- 
  
 Course Code: 21MBAC110 Course Title: English -II 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Sessions/week 
@@ -1094,7 +994,6 @@ Basics of Business Presentations
 ## Page 25
 
 School of Management Studies and Research 
- 
  
 Course Code: 22MBAP101 Course Title: Business Communication 
 L-T-P: 2-0-1 Credits: 3 Contact Hrs: 04 Sessions/week 
@@ -1135,7 +1034,6 @@ Principles, Do’s and Don’ts etc. to be studied for each type).
 
 School of Management Studies and Research 
  
- 
 Course Code: 21MBAP105 Course Title: Self Development 
 L-T-P: 0-0-2 Credits: 2 Contact Hrs: 04 Sessions/week 
 ISA Marks: 100 ESA Marks: --- Total Marks: 100 
@@ -1156,7 +1054,6 @@ Particulars Hours
 ## Page 27
 
 School of Management Studies and Research 
- 
  
 Course Code: 21MBAW101 Course Title: Entrepreneurship Project 
 L-T-P: 0-0-3 Credits: 2 Contact Hrs: 06 Sessions/week 
@@ -1180,7 +1077,6 @@ Tasks:
 ## Page 28
 
 School of Management Studies and Research 
- 
  
 Bachelor of Business Administration 
 Curriculum content 2021-24 
@@ -1232,7 +1128,6 @@ Text Book (List of books as mentioned in the approved syllabus)
 ## Page 29
 
 School of Management Studies and Research 
- 
  
 Course Code: 21MBAC202 Course Title: Human Resource Management 
 L-T-P: 3-0-1 Credits: 4 Contact Hrs: 05 Sessions/week 
@@ -1286,7 +1181,6 @@ Text book
 
 School of Management Studies and Research 
  
- 
 Course Code: 21MBAC203 Course Title: Marketing Management 
 L-T-P: 3-0-1 Credits: 4 Contact Hrs: 05 Sessions/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -1335,7 +1229,6 @@ House Pvt. Ltd.,- Mumbai
 
 School of Management Studies and Research 
  
- 
 Course Code: 22MBAC201 Course Title: Research Methodology 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Sessions/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -1380,7 +1273,6 @@ ISBN: 978-0273712046
 
 School of Management Studies and Research 
  
- 
 Course Code: 21MBAP201 Course Title: Tally and Advanced Excel 
 L-T-P: 1-0-1 Credits: 2 Contact Hrs: 03 Sessions/week 
 ISA Marks: 100 ESA Marks: -- Total Marks: 100 
@@ -1403,7 +1295,6 @@ charts, and solver.
 ## Page 33
 
 School of Management Studies and Research 
- 
  
 Course Code: 21MBAP202 Course Title: Small Business Management 
 L-T-P: 1-0-2 Credits: 3 Contact Hrs: 05 Sessions/week 
@@ -1442,7 +1333,6 @@ Edition 2005, Himalaya Publications
 
 School of Management Studies and Research 
  
- 
 Course Code: 21MBAP203 Course Title: Web Design 
 L-T-P: 2-0-1 Credits: 3 Contact Hrs: 04 Sessions/week 
 ISA Marks: 100 ESA Marks: Total Marks: 100 
@@ -1475,7 +1365,6 @@ Fifth Edition Paperback – 1 January 2018’by Jennifer Robbins
 ## Page 35
 
 School of Management Studies and Research 
- 
  
 Semester -IV 
  
@@ -1531,7 +1420,6 @@ Management,9th Edition,Pearson,2011.
 
 School of Management Studies and Research 
  
- 
 Course Code: 21MBAC206 Course Title: Organizational Behavior 
 L-T-P: 3-0-1 Credits: 4 Contact Hrs: 05 Sessions/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -1583,7 +1471,6 @@ Suggested Books:
 
 School of Management Studies and Research 
  
- 
 Course Code: 21MBAC207 Course Title: Business Taxation 
 L-T-P: 4-0-0 Credits: 4 Contact Hrs: 04 Sessions/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -1630,7 +1517,6 @@ Act – Bare Acts.
 
 School of Management Studies and Research 
  
- 
 Course Code:21MBAC208 Course Title: Project Management 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Sessions/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -1671,7 +1557,6 @@ McGraw Hill, 3rd Edition.
 ## Page 39
 
 School of Management Studies and Research 
- 
  
 Course Code: 21MBAC209 Course Title: Indian Constitution 
 L-T-P: 2-0-0 Credits: 2 Contact Hrs: 02 Sessions/week 
@@ -1718,7 +1603,6 @@ India, 2001.
 
 School of Management Studies and Research 
  
- 
 Course Code: 21MBAC204 Course Title: Digital Marketing 
 L-T-P: 2-0-1 Credits: 3 Contact Hrs: 04 Sessions/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -1753,7 +1637,6 @@ Generation – Damian Ryan and Calvin Jones
 
 School of Management Studies and Research 
  
- 
 Course Code: 21MBAP207 Course Title: Sports and Yoga 
 L-T-P: 0-0-2 Credits: 2 Contact Hrs: 04 Sessions/week 
 ISA Marks: 100 ESA Marks: -- Total Marks: 100 
@@ -1779,7 +1662,6 @@ Lagori (Team Game)
 
 School of Management Studies and Research 
  
- 
 Course Code: 21MBAI201 Course Title: Industry Internship 
 L-T-P: 0-0-3 Credits: 3 Contact Hrs: 06 Sessions/week 
 ISA Marks: 100 ESA Marks: -- Total Marks: 100 
@@ -1797,17 +1679,10 @@ tasks:
  SWOT Analysis of the organization(strength, Weakness, opportunity and 
 threats) 
  
- 
- 
- 
- 
 90Hrs 
 
 ## Page 43
 
- 
- 
- 
 III Year BBA Semester V 
 Course Code: 21MBAC301 Course Title: Quality Management 
 L-T-P-: 4-0-0 Credits: 4 Contact Sessions: 4 Sessions /week 
@@ -1852,7 +1727,6 @@ Professional.
 
 ## Page 44
 
- 
 Course Code: 21MBAC302 Course Title: Legal Environment and IPR 
 L-T-P-: 3-0-0 Credits: 3 Contact Sessions: 3 Sessions 
 /week 
@@ -1895,8 +1769,6 @@ Companies Act 2013, Taxmann.September - 2022
 
 ## Page 45
 
- 
- 
 Course Code: 21MBAC303 Course Title: Technology For Business 
 L-T-P-: 2-0-1 Credits: 3 Contact Sessions: 4 
 Sessions/week 
@@ -1933,8 +1805,6 @@ New Delhi.
 
 ## Page 46
 
- 
- 
 Course Code: 24MBAC301 Course Title: Supply Chain Management 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 3 Sessions/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -1978,8 +1848,6 @@ for Competitive Advantage Concepts and Cases, 2, Tata Mcgraw Hill, 2011
 
 ## Page 47
 
- 
- 
 Course Code: 21MBAP304 Course Title: Ethics and Self Awareness 
 L-T-P: 1-0-0 Credits: 1 Contact Hours: 1 Session /week 
 ISA Marks: 100 ESA Marks: NA Total Marks: 100 
@@ -2006,8 +1874,6 @@ Reference books:
 
 ## Page 48
 
- 
- 
 Semester VI 
  
 Course Code: 21MBAC304 Course Title: Family Business 
@@ -2052,7 +1918,6 @@ Jossey Bass Publishers.
 
 ## Page 49
 
- 
 Course Code: 24MBAC302 Course Title: International Business Environment 
 L-T-P-: 3-0-0 Credits: 3 Contact Sessions: 3 Sessions/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -2099,7 +1964,6 @@ Aswathappa, International business, Tata Mc Graw Hill publications, New Delhi.
 
 ## Page 50
 
- 
 Course Code: 24MBAC303 Course Title: Analytics for Business 
 L-T-P: 2-0-0 Credits: 2 Contact Hrs: 02 Sessions/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -2146,7 +2010,6 @@ EducationIndia Private Limited; 10 edition, 2011
 
 ## Page 51
 
- 
 Course Code: 21MBAP303 Course Title: Event Management 
 L-T-P: 0-0-2 Credits: 2 Contact Hrs: 04 Sessions/week 
 ISA Marks: 100 ESA Marks: NA Total Marks: 100 
@@ -2176,13 +2039,11 @@ Ganga Sagar Singh - Har-an and Publications Pvt. Ltd. – 2012
 
 ## Page 52
 
- 
 Course Code: 24MBAP301 Course Title: Internship 
 L-T-P: 0-0-3 Credit: 3 Contact Hrs: 06 Sessions 
 /week 
 ISA Marks: 100 ESA Marks: NA Total Marks: 100 
 Teaching Hrs: NA  Exam Duration: NA 
- 
  
 Content Hrs 
 ● Introduction 
@@ -2198,7 +2059,6 @@ Content Hrs
 
 ## Page 53
 
- 
 Course Code: 23MBAE311 Course Title: HR Planning and Talent Acquisition 
 L-T-P-: 3-0-0 Credits: 3 Contact Sessions: 3 
 Sessions/week 
@@ -2241,7 +2101,6 @@ Reference Books:
 
 ## Page 54
 
- 
 Course Code : 23MBAE312 Course Title: Industrial and Labour Law 
 L-T-P-: 3-0-0 Credits:3 Contact Sessions: 3 
 Sessions/week 
@@ -2283,7 +2142,6 @@ Publishing.
 
 ## Page 55
 
- 
 Course Code: 23MBAE313 Course Title: Training and Development 
 L-T-P-: 3-0-0 Credits: 3 Contact Hours: 3 sessions / week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -2329,7 +2187,6 @@ Raymond Noe, Employee Training, McGraw Hill
 
 ## Page 56
 
- 
 Course Code: 23MBAE314 Course Title: Performance and Compensation Management 
 L-T-P-: 3-0-0 Credits: 3 Contact Hours: 3 sessions / Week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -2373,7 +2230,6 @@ Varkkey, B., & Dessler, G. (2018). Human Resource Management (15th ed.). Pearson
 
 ## Page 57
 
- 
 Course Code: 23MBAE321 Course Title: Sales and Distribution Management 
 L-T-P-: 3-0-0 Credits: 3 Contact Sessions: 3 Sessions/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -2418,7 +2274,6 @@ Reference Books:
 
 ## Page 58
 
- 
 Course Code: 23MBAE322 Course Title: Integrated Marketing Communication 
 L-T-P-: 3-0-0 Credits: 3 Contact Sessions: 3 Sessions/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -2461,7 +2316,6 @@ Reference Books:
 
 ## Page 59
 
- 
 Course Code: 23MBAE323 Course Title: Consumer Behavior 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 hours / week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -2510,7 +2364,6 @@ Sarkar A Problems of Consumer Behaviour in India, Discovery Publishing House New
 
 ## Page 60
 
- 
 Course Code: 23MBAE324 Course Title: International Marketing Management 
 L-T-P-: 3-0-0 Credits: 3 Contact Sessions : 3 hrs/ week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -2554,7 +2407,6 @@ by Johny Johansson (Author)
 
 ## Page 61
 
- 
 Course Code: 23MBAE331 Course Title: Security Analysis and Portfolio 
 Management 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 3 Sessions/week 
@@ -2596,7 +2448,6 @@ References Books:
 
 ## Page 62
 
- 
 Course Code: 23MBAE332 Course Title: Risk Management 
 L-T-P-: 3-0-0 Credits: 3 Contact Sessions: 3 
 Sessions/week 
@@ -2633,7 +2484,6 @@ Reference Books :
 
 ## Page 63
 
- 
 Course Code: 23MBAE335 Course Title: International Finance Management 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 3 sessions/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -2675,7 +2525,6 @@ the Parent Firm’s Perspective, Risk Adjustment in the Capital Budgeting Proces
 
 ## Page 64
 
- 
 References 
 1. Jeff Madhura, International Financial Management, South-Western 
 2. Prakash G Apte, International Financial Management, 5thedn, TMH 
@@ -2686,7 +2535,6 @@ Financial M
 
 ## Page 65
 
- 
 Course Code: 24MBAE341 Course Title: Advanced Financial Management 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 3 sessions/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -2728,5 +2576,4 @@ Vanhorne, Financial Management &amp; Policy, 12/e, Pearson
 3. Ashwath Damodaran, Corporate Finance: Theory&amp; Practice, 2/e, Wiley India 
 Pvt. Ltd., 2009. 
 4. Ravi M. Kishore, Financial Management, 7/e, Taxmann’s 
- 
  

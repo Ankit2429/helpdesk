@@ -1,15 +1,10 @@
 # PDF Document: 4th_BOG_Minutes
+
 **PDF Source:** https://www.kletech.ac.in/pdf/4th_BOG_Minutes.pdf
 
 ## Page 1
 
 i 
- 
- 
- 
- 
- 
- 
  
 Minutes 
 4th Board of Governors Meeting 
@@ -18,7 +13,6 @@ KLE Technological University
 Hubballi, Karnataka 
 April 05, 2016 
  
-
 ## Page 2
 
 ii 
@@ -72,7 +66,6 @@ Chairperson, Infosys Foundation, Bengaluru.
 Nominee of sponsoring body, KLE Society. 
 Member 
  
-
 ## Page 3
 
 iii 
@@ -97,7 +90,6 @@ year 2016-17
 Table Agenda 1 : To Constitute the Estate Council 
 7 
  
-
 ## Page 4
 
 1 
@@ -192,7 +184,6 @@ registration during
 28th to 31 st March 
 2016. 
  
-
 ## Page 5
 
 2 
@@ -374,9 +365,6 @@ per the requirement of clause
 36 of KLE Technological 
 University Act – 2012. 
  
- 
- 
-  
 Resolved to constitute an 
 expert committee with following 
 Board Members to frame and 
@@ -398,7 +386,6 @@ Director IIT Madras.
  
 Expert Committee has 
 been constituted. 
- 
  
 Resolution 4.2: Resolved to approve the action taken report on the 
 minutes of the meeting of the Board of Governors held on 24th December 
@@ -524,7 +511,6 @@ Prof M. S. Meena Coordinator, School of Computer Science Member
  
 Resolution 4.7 T1: Resolved to Constitute the Estate Council as proposed. 
  
- 
 Resolution 4.7 T1: Resolved to Constitute the Estate Council as given below: 
 Name  Designation  Position 
 Prof Ashok Shettar Vice Chancellor Chairperson 
@@ -542,7 +528,5 @@ Sri V. M. Nishandar Resident Engineer KLE Society Belagavi Member
 Prof B. L. Desai Registrar  Member 
 Secretary 
  
- 
 Chairman thanked all the members for their contributions.    
                    
- 

@@ -1,4 +1,5 @@
 # PDF Document: 2-sem-august-2021
+
 **PDF Source:** https://www.kletech.ac.in/pdf/2-sem-august-2021.pdf
 
 ## Page 1
@@ -31,7 +32,6 @@ Date
 TIME TABLE FOR II SEMESTER B.ARCH. END SEMESTER ASSESSMENT 
 EXAMINATIONS AUGUST 2021
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India)
-
 
 ## Page 2
 
@@ -84,7 +84,6 @@ B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (Indi
 TIME TABLE FOR II SEMESTER B.E. END SEMESTER ASSESSMENT EXAMINATIONS AUGUST 2021
 Stream Electrical Sciences Electrical Sciences Mechanical Sciences Mechanical Sciences
 
-
 ## Page 3
 
 II SEMESTER II SEMESTER
@@ -126,7 +125,6 @@ Date
 REVISED TIME TABLE FOR II SEMESTER MCA END SEMESTER 
 ASSESSMENT EXAMINATIONS AUGUST 2021
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India)
-
 
 ## Page 4
 

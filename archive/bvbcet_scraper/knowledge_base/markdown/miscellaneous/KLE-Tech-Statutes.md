@@ -1,30 +1,16 @@
 # PDF Document: KLE-Tech-Statutes
+
 **PDF Source:** https://www.kletech.ac.in/pdf/KLE-Tech-Statutes.pdf
 
 ## Page 1
 
 i 
  
- 
 UNIVERSITY NOTIFICATION 
  
 Volume No. 1         Issue No. 1            2015 
  
- 
- 
- 
- 
- 
- 
 The First Statutes of KLE Technological University 
- 
- 
- 
- 
- 
- 
- 
- 
  
 KLE TECHNOLOGICAL UNIVERSITY 
 (Established under Karnataka Act No.22, 2013) 
@@ -119,7 +105,6 @@ iv
 51 Utilization 27 
 52 Appointment of Auditors  27 
  
-
 ## Page 5
 
 1 
@@ -173,7 +158,6 @@ University;
   vi  “Campus” means a campus(es) established and 
 maintained by the University; 
  
-
 ## Page 6
 
 2 
@@ -258,7 +242,6 @@ shall be located at Vidyanagar, Hubballi –
 Sponsoring Body 4  Karnatak Lingayat Education Society, Belagavi 
 shall be the sponsoring body of the University. 
  
- 
 CHAPTER – III  
 OFFICERS OF THE UNIVERSITY 
 The Chancellor  
@@ -286,7 +269,6 @@ shall be final and binding on the University.
 
 4 
  
- 
 The Pro Chancellor  
  
 6 6.1  In exercise of the powers conferred by Section-
@@ -294,7 +276,6 @@ The Pro Chancellor
 appointed by the Sponsoring Body in 
 consultation with the Chancellor on terms and 
 conditions listed in the contract of appointment. 
- 
  
   6.2  Pro Chancellor, appointed by the Chancellor 
 when the need arises, shall have powers as 
@@ -346,7 +327,6 @@ Act and in addition:
 ## Page 9
 
 5 
- 
  
   7.6.1  The Vice-Chancellor shall exercise all powers 
 necessary for the maintenance of discipline in 
@@ -570,7 +550,6 @@ Professor, whose terms and conditions for the
 appointment shall be those contained in the 
 contract of appointment.  
  
-
 ## Page 13
 
 9 
@@ -757,12 +736,10 @@ knowledge
  15.18 
  The University shall formulate appropriate 
 Regulations and/or Guidelines regarding 
-intellectual property rights, copyrights and their 
 exploitation, and sharing of benefits between 
 the University and other stakeholders, with the 
 approval of the Board.  
  
-
 ## Page 16
 
 12 
@@ -840,7 +817,6 @@ THREE years.
 may reconstitute the Executive Council before 
 the expiry of its term.  
  
-   
 16.6.  
 The powers and functions of the Executive 
 Council shall be: 
@@ -890,7 +866,6 @@ Chancellor- Member.
 PG, and Ph.D., invited for select meetings, of 
 whom at least one shall be a woman- Invitees. 
  
-
 ## Page 18
 
 14 
@@ -1001,7 +976,6 @@ under Section-47 of the Act.
 members of the Research Council shall be 
 THREE years. 
  
-
 ## Page 20
 
 16 
@@ -1176,13 +1150,11 @@ Chancellor.
 CHAPTER – V 
 STATUTES AND REGULATIONS 
  
- 
 Rules of Business of 
 meetings of the 
 Authorities: 
 22 
  
-  
 The rules of business of meetings of various 
 Authorities shall be framed by the respective 
 authorities with the approval of the Board. The 
@@ -1237,7 +1209,6 @@ Statutes
 Statutes or amend or repeal the Statutes as 
 prescribed under Section-35 of the Act. 
  
-
 ## Page 24
 
 20 
@@ -1322,7 +1293,6 @@ through an endowment fund under the guidance
 of the Board. Appropriate Regulations and/or 
 Guidelines shall be formulated for this purpose. 
  
- 
 Conditions of 
 Residence 
 32 
@@ -1347,7 +1317,6 @@ Regulation Committee constituted by the
 Government, as prescribed under Section-39 of 
 the Act. The fees for the other seats shall be as 
 specified by the Finance Council. 
- 
  
 CHAPTER – VI 
 MISCELLANEOUS 
@@ -1380,11 +1349,9 @@ Board on the recommendation of the Executive
 Council through Selection Committees 
 constituted as follows: 
  
-
 ## Page 26
 
 22 
- 
  
   35.5  For Professor / Associate Professor and 
 equivalent positions: 
@@ -1683,7 +1650,6 @@ Chartered Accountant. Every year, the accounts
 shall be closed by 31 
 st  March. 
  
-
 ## Page 31
 
 27 
@@ -1760,5 +1726,4 @@ of each year.
 Internal Auditor(s) to conduct periodical and / 
 or concurrent audit and to report the findings to 
 the Finance Council. 
- 
  

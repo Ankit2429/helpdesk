@@ -1,50 +1,18 @@
 # PDF Document: bachelor-biomedical-engineering-curriculum-2022-2026
+
 **PDF Source:** https://www.kletech.ac.in/pdf/bachelor-biomedical-engineering-curriculum-2022-2026.pdf
 
 ## Page 1
 
- 
- 
 FMCD2009 / 2.0 
  1 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
- 
  
 Curriculum Structure and Curriculum Content for the Academic Batch – 2022-26 
 School /Department: Biomedical Engineering 
 Program: Bachelor of Engineering 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 2
 
- 
- 
 FMCD2009 / 2.0 
  2 
  
@@ -65,11 +33,8 @@ List of Open Electives…………………………………………………�
 List of Program Electives………………………………………………………………..17 
 Curriculum Content- Course wise………………………………………………………18 
   
-
 ## Page 3
 
- 
- 
 FMCD2009 / 2.0 
  3 
  
@@ -105,8 +70,6 @@ the spirit of collaboration and partnership to accomplish our mission.
 
 ## Page 4
 
- 
- 
 FMCD2009 / 2.0 
  4 
 Vision and Mission Statements of the School / Department 
@@ -115,7 +78,6 @@ Vision
  
 To impart quality education in the field of Biomedical  science by applying 
 engineering principles. 
- 
  
 Mission 
  
@@ -130,16 +92,8 @@ Mission
 5.     To develop competencies for employability and entrepreneurship in core  
         and interdisciplinary areas. 
  
- 
- 
- 
- 
- 
-
 ## Page 5
 
- 
- 
 FMCD2009 / 2.0 
  5 
 Curriculum Structure 2022-26 
@@ -214,7 +168,6 @@ Generative AI
 25EBMC402 
 (2-0-1) 
  
- 
 Open Elective 1 
 (22EBMO40X)/ 
 Internship- 
@@ -285,11 +238,8 @@ PSE Elective 4
 (22EBME43X) 
 3-0-0 
  
-
 ## Page 6
 
- 
- 
 FMCD2009 / 2.0 
  6 
 Basic 
@@ -415,11 +365,8 @@ ARM
 Microcontroller 
 Lab 
     
-
 ## Page 7
 
- 
- 
 FMCD2009 / 2.0 
  7 
 Programming 
@@ -441,30 +388,21 @@ using C Lab
 (22EBMF205) 
 1-0-2 
  
-    
    Vector calculus 
 and differential 
 equations 
 (15EMAB242) 
 4-0-0 
     
-         
 Credits 22 22 25.5 24.5 21 27 19 17 
 178 
  
- 
- 
-
 ## Page 8
 
- 
- 
 FMCD2009 / 2.0 
  8 
 Curriculum Structure-Semester wise 
 Semester - I 
- 
- 
  
 No Code Course Category L-T-P Credits Contact 
 Hours ISA ESA Total 
@@ -486,14 +424,9 @@ HSS 0-1-1 2 3 50 50 100 1.5hrs
 
 ## Page 9
 
- 
- 
 FMCD2009 / 2.0 
  9 
 Semester - II 
- 
- 
- 
  
 No Code Course Category L-T-P Credits Contact 
 Hours ISA ESA Total 
@@ -513,8 +446,6 @@ TOTAL 15-2-6 23 32 410 290 700
 
 ## Page 10
 
- 
- 
 FMCD2009 / 2.0 
  10 
 Semester- III 
@@ -539,7 +470,6 @@ PC 0-0-1 1 2 80 20 100
  
 2 hours 
  
- 
 9 
 22EBMF202 
  
@@ -554,17 +484,8 @@ ES
 
 ## Page 11
 
- 
- 
 FMCD2009 / 2.0 
  11 
- 
- 
- 
- 
- 
- 
- 
  
 Semester- IV 
 10 15EMAB232 
@@ -584,11 +505,8 @@ BS 4-0-0 4 4 50 50 100 3 hours
 
 ## Page 12
 
- 
- 
 FMCD2009 / 2.0 
  12 
- 
  
 2 22EHSH202 Problem Solving & Analysis ES 0.5-0-0 0.5 1 100 -- 100 3 hours 
 3 22EBMC205  Biomedical Instrumentation PC 4-0-0 4 4 50 50 100 3 hours 
@@ -610,8 +528,6 @@ PC 0-0-2 2 4 80 20 100 2 hours
 
 ## Page 13
 
- 
- 
 FMCD2009 / 2.0 
  13 
  
@@ -642,8 +558,6 @@ Audit 0-0-0 -- 1
 
 ## Page 14
 
- 
- 
 FMCD2009 / 2.0 
  14 
 Semester- VI 
@@ -678,14 +592,10 @@ PE 3-0-0 3 3 50 50 100 3 hours
 
 ## Page 15
 
- 
- 
 FMCD2009 / 2.0 
  15 
  
 Semester- VII 
- 
- 
  
 No Code Course Category L-T-P Credits Contact 
 Hours ISA ESA Total 
@@ -706,8 +616,6 @@ TOTAL 12-0-7 19 28 300 300 600
 
 ## Page 16
 
- 
- 
 FMCD2009 / 2.0 
  16 
 Semester- VIII 
@@ -731,8 +639,6 @@ OR
 
 ## Page 17
 
- 
- 
 FMCD2009 / 2.0 
  17 
 List of Open Electives 
@@ -765,11 +671,8 @@ Sr. No Name of  the Course Course Code
 19. Medical Informatics and Expert systems 22EBME443 
 20. Biomechanics 22EBME444 
   
-
 ## Page 18
 
- 
- 
 FMCD2009 / 2.0 
  18 
 Curriculum Content- Course wise 
@@ -814,8 +717,6 @@ MATLAB: Solve differential equations
 
 ## Page 19
 
- 
- 
 FMCD2009 / 2.0 
  19 
 Text Books  
@@ -824,13 +725,8 @@ Reference Books:
 1. Calculus Single and Multivariable, Hughues-Hallett Gleason, Wiley India Ed, 4ed, 2009. 
 2. Thomas Calculus, George B Thomas, Pearson India, 12ed, 2010 
  
- 
-  
-
 ## Page 20
 
- 
- 
 FMCD2009 / 2.0 
  20 
 Program: Biomedical Engineering  Semester: I 
@@ -882,8 +778,6 @@ Lines Motion of a Charged Particle in a Uniform Electric Field
 
 ## Page 21
 
- 
- 
 FMCD2009 / 2.0 
  21 
 Gauss’s Law:  
@@ -923,14 +817,8 @@ Reference Books:
 II, Norosa Publishing House (1998). 
 3. Ben G Streetman, Solid State Electronic Devices, Prentice Hall, 1995 
  
- 
- 
- 
-
 ## Page 22
 
- 
- 
 FMCD2009 / 2.0 
  22 
 Program: Biomedical Engineering Semester: I 
@@ -982,8 +870,6 @@ uniform & varying cross sections. Composite sections. Problems connected to abov
 
 ## Page 23
 
- 
- 
 FMCD2009 / 2.0 
  23 
 Unit III 
@@ -1018,11 +904,8 @@ Publishing Company, New Delhi, 1956.
 5. Irving H Shames, Engineering Mechanics, 3rd edition, Prentice-Hall of India Pvt. Ltd, 
 New Delhi- 110 001, 1995. 
   
-
 ## Page 24
 
- 
- 
 FMCD2009 / 2.0 
  24 
 Program: Biomedical Engineering Semester: I 
@@ -1065,11 +948,8 @@ Reference Books:
 3. B.A. Forouzan, R.F. Gilberg, A Structured Program Approach Using C, 3ed, CENGAGE 
 Learning, 2008. 
  
-
 ## Page 25
 
- 
- 
 FMCD2009 / 2.0 
  25 
   
@@ -1116,8 +996,6 @@ Numerical of high and low charging rates, Battery sizing. Numericals.
 
 ## Page 26
 
- 
- 
 FMCD2009 / 2.0 
  26 
 Text Books  
@@ -1134,12 +1012,8 @@ Measurement Systems, 3rd, Tata McGraw Hill Education Private Limited, New Delhi.
 2005 
 3. Vincent Del Toro, Electrical Engineering Fundamentals, 2nd  edition Prentice Hall India 
  
-  
-
 ## Page 27
 
- 
- 
 FMCD2009 / 2.0 
  27 
 Program: Biomedical Engineering Semester: I 
@@ -1151,9 +1025,7 @@ Module Topics Assignments Support activities
 / Tools 
 KNOWLEDGE, TOOLS & DEVELOPMENT 
  
-  
 Course sensitization 
- 
  
 1. Introduction to Social 
 Innovation: 
@@ -1225,8 +1097,6 @@ mates)
 
 ## Page 28
 
- 
- 
 FMCD2009 / 2.0 
  28 
 Create Mindsets 
@@ -1261,14 +1131,6 @@ Reading assignments
  Handout on “Create 
 Mindsets” 
  
- 
- 
- 
- 
- 
- 
- 
- 
  (How to train 
 the Dragon?  
 Common 
@@ -1282,7 +1144,6 @@ Creative
 Confidence by 
 David Kelley – 
 IDEO Founder)  
- 
  
  Process of Social Innovation 
  
@@ -1315,14 +1176,11 @@ conditions
 
 ## Page 29
 
- 
- 
 FMCD2009 / 2.0 
  29 
  Initial observations 
 being made by the 
 group  
- 
  
 (Literature Survey of 
 Places of Hubli- 
@@ -1389,8 +1247,6 @@ case study
 
 ## Page 30
 
- 
- 
 FMCD2009 / 2.0 
  30 
 (Role Play on 
@@ -1432,11 +1288,8 @@ with the help
 of sample 
 case study  
  
-
 ## Page 31
 
- 
- 
 FMCD2009 / 2.0 
  31 
  
@@ -1517,11 +1370,8 @@ with the help
 of sample 
 case study 
  
-
 ## Page 32
 
- 
- 
 FMCD2009 / 2.0 
  32 
 Walkathons 
@@ -1535,7 +1385,6 @@ www.blog.fundly.com)
 solution 
  Feedback (Impact) 
  
-     
   5.0 Reflect 
  
 Reflection of the 
@@ -1558,21 +1407,8 @@ with the help
 of sample 
 case study 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 33
 
- 
- 
 FMCD2009 / 2.0 
  33 
 Program: Biomedical Engineering Semester: I 
@@ -1592,13 +1428,8 @@ List of Experiments
 9. Calibration of thermocouple 
 10. Calibration of electrical meters  
  
- 
-  
-
 ## Page 34
 
- 
- 
 FMCD2009 / 2.0 
  34 
  Program: Biomedical Engineering Semester: II 
@@ -1638,13 +1469,8 @@ Reference Books:
 1. Calculus Single and Multivariable, Hughues-Hallett Gleason, Wiley India Ed, 4ed, 2009. 
 2. Thomas Calculus, George B Thomas, Pearson India, 12ed, 2010 
   
- 
-  
-
 ## Page 35
 
- 
- 
 FMCD2009 / 2.0 
  35 
 Program: Biomedical Engineering Semester: II 
@@ -1695,8 +1521,6 @@ materials – meaning, properties and applications.
 
 ## Page 36
 
- 
- 
 FMCD2009 / 2.0 
  36 
 Unit III 
@@ -1732,11 +1556,8 @@ Anand, Himalaya Publishing House Pvt. Ltd, 2010, Mumbai.
 7. VLSI Technology, 2 nd Edition, S.M.Sze, McGraw Hill Series in electrical and computer 
 engineering, 1998, New York. 
  
-
 ## Page 37
 
- 
- 
 FMCD2009 / 2.0 
  37 
   
@@ -1772,14 +1593,8 @@ Reference Books:
 3. B.A. Forouzan, R.F. Gilberg, A Structured Program Approach Using C, 3ed, CENGAGE 
 Learning, 2008. 
   
- 
- 
- 
-
 ## Page 38
 
- 
- 
 FMCD2009 / 2.0 
  38 
 Program: Biomedical Engineering Semester: II 
@@ -1803,23 +1618,8 @@ Reference Books:
 Northup, Steven, McGraw Hill Higher Education, 6th Edition (2011)  
 2. Engineering Exploration (Edited Book, 2008) by Pearson Publication 
  
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 39
 
- 
- 
 FMCD2009 / 2.0 
  39 
 Program: Biomedical Engineering Semester: II 
@@ -1868,8 +1668,6 @@ Working principle of linear power supply, UPS and CRO. Measurement of amplitude,
 
 ## Page 40
 
- 
- 
 FMCD2009 / 2.0 
  40 
 and phase of a given signal. 
@@ -1887,13 +1685,8 @@ Reference Books:
 4. Boylestead Nashelsky, Electronic devices & Circuit theory, Prentice Hall India, 2000 
 5. Ramakant Gaikawad, Operational Amplifiers & applications, PHI, 2000 
  
-  
-  
-
 ## Page 41
 
- 
- 
 FMCD2009 / 2.0 
  41 
   
@@ -1937,13 +1730,9 @@ Video presentations
 
 ## Page 42
 
- 
- 
 FMCD2009 / 2.0 
  42 
  
-  
-  
 Unit III 
 Chapter 5:  Thermal Engineering 2: Thermal Systems’ Applications 
 Refrigeration system, Air conditioning system, Pumps, Blowers and Compressors, Turbines, and 
@@ -1963,8 +1752,6 @@ Vol I & II, 11th edition 2001, Media Promoters and Publishers.
 
 ## Page 43
 
- 
- 
 FMCD2009 / 2.0 
  43 
 Program: Biomedical Engineering Semester: II 
@@ -1992,20 +1779,8 @@ Reference Books:
 2. Raymond Murphy - Intermediate English Grammar, Cambridge University Press 
 3. Martin Hewings- Advanced English Grammar, Cambridge University Press. 
   
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 44
 
- 
- 
 FMCD2009 / 2.0 
  44 
 Program:  Bachelor of Engineering (Biomedical Engineering) Semester: II 
@@ -2045,11 +1820,8 @@ Chapter No. 6: Mechatronic Subsystem
 Power supply, Introduction to sensors and actuators, signal conditioning and interfacing,  Control 
 logic design for mechatronic applications. 
   
-
 ## Page 45
 
- 
- 
 FMCD2009 / 2.0 
  45 
 Text Books: 
@@ -2074,23 +1846,8 @@ Engineering, 3, Pearson Education, 2005
 9. Ernest O Doeblin , Dhanesh N Manik, Measurement Systems, 6th Edition, McGraw Hill 
 Education; 2017 
  
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 46
 
- 
- 
 FMCD2009 / 2.0 
  46 
 Program:  Bachelor of Engineering (Biomedical Engineering) Semester: III Semester 
@@ -2137,12 +1894,8 @@ Introduction to Random process, stationary process, mean, correlation and covari
 autocorrelation func tion, cross correlation, Power spectral Density: properties of the spectral 
 density; Gaussian Process: Properties of Gaussian process. 
  
-  
-
 ## Page 47
 
- 
- 
 FMCD2009 / 2.0 
  47 
 Text Books 
@@ -2160,12 +1913,8 @@ Edition, 2017
 4. Ian Glover & Peter Grant, Digital Communications, 3rd edition, Pearson 2009. 
 Back to Semester- III 
  
-  
-
 ## Page 48
 
- 
- 
 FMCD2009 / 2.0 
  48 
 Program: Biomedical Engineering Semester: III 
@@ -2192,18 +1941,8 @@ Reference Books:
 2. Norman Lewis – Word Power Made Easy, Goyal Publishers 
 3. Cambridge Advanced Learner’s Dictionary, Cambridge University Press. 
   
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 49
 
- 
- 
 FMCD2009 / 2.0 
  49 
 Program:  Bachelor of Engineering (Biomedical Engineering) Semester: III Semester 
@@ -2245,11 +1984,8 @@ integrator models, time and frequency domain respons es R-C, R-L circuits as Low
 pass filters 
 [ Text 2: Chapter 5, Text 1: Chapter 8,9,10] 
  
-
 ## Page 50
 
- 
- 
 FMCD2009 / 2.0 
  50 
 Unit III 
@@ -2271,18 +2007,8 @@ Education, 2017
 2.  V. K. Aatre, ―Network Theory and Filter Design, 3rd edition, New Age International 
 Private Limited,2014 
  
- 
- 
- 
- 
- 
- 
-  
-
 ## Page 51
 
- 
- 
 FMCD2009 / 2.0 
  51 
 Program:  Bachelor of Engineering (Biomedical Engineering) Semester: III Semester 
@@ -2332,8 +2058,6 @@ circuits; poles and zeros in the transfer function
 
 ## Page 52
 
- 
- 
 FMCD2009 / 2.0 
  52 
 Unit III 
@@ -2365,17 +2089,8 @@ Pearson Education,2003
 6. J. Millman& A. Grabel, "Microelectronics"-2nd edition, McGraw Hill,2017 
 7. Behzad Razavi,―Fundamentals of Microelectronics, 2nd  edition Wiley;2013 
  
- 
- 
- 
- 
- 
- 
-
 ## Page 53
 
- 
- 
 FMCD2009 / 2.0 
  53 
 Program:  Bachelor of Engineering (Biomedical Engineering) Semester: III Semester 
@@ -2423,8 +2138,6 @@ Only memory, MROM, PROM, EPROM, EEPROM, Random access memory, SRAM, DRAM, NVRAM.
 
 ## Page 54
 
- 
- 
 FMCD2009 / 2.0 
  54 
 Text Books 
@@ -2439,14 +2152,8 @@ Reference Books:
 3. R.D. Sudhaker Samuel, Logic Design, Pearson Education ,2010 
 4. R P Jain, Modern Digital Electronics ,4th edition, McGraw Hill Education,2009 
  
- 
- 
-  
-
 ## Page 55
 
- 
- 
 FMCD2009 / 2.0 
  55 
 Program:  Bachelor of Engineering  (Biomedical Engineering) Semester:  III Semester 
@@ -2488,8 +2195,6 @@ generator, AF sine and Square wave generator, Function generator, Square and Pul
 
 ## Page 56
 
- 
- 
 FMCD2009 / 2.0 
  56 
 Bridge Circuits for Measurement of R, L & C: 
@@ -2515,15 +2220,8 @@ Reference Books:
 2. Modern Electronic Instrumentation and Measuring Techniques”, Cooper D & A D Helfrick, PHI, 
 1998. 
  
- 
-  
- 
-  
-
 ## Page 57
 
- 
- 
 FMCD2009 / 2.0 
  57 
  
@@ -2557,17 +2255,8 @@ Reference Books:
 1. K.A. Krishnamurthy―Digital lab primer‖, Pearson Education Asia Publications, 2003. 
 2. A.P. Malvino, ―Electronic Principles 7th edition, McGraw Hill Education,2017 
  
-  
- 
- 
- 
- 
- 
-
 ## Page 58
 
- 
- 
 FMCD2009 / 2.0 
  58 
 Program:  Bachelor of Engineering (Biomedical Engineering) Semester: III Semester 
@@ -2607,13 +2296,8 @@ Device data sheets.
 5. KLETECH Electronics and Communication Engineering Department 2023-24 Analog 
 Electronics Lab manual. 
  
-  
- 
-
 ## Page 59
 
- 
- 
 FMCD2009 / 2.0 
  59 
  
@@ -2656,11 +2340,8 @@ Chapter 7:  Serial Communication
 Basics of Serial Communication, 8051 connections to RS -232,8051 Serial Communication modes, 
 Programming, Serial port programming in C. 
  
-
 ## Page 60
 
- 
- 
 FMCD2009 / 2.0 
  60 
 Chapter 8: 8051 interfacing and applications 
@@ -2679,17 +2360,8 @@ Janice Gillispie Mazidi’, Pearson Education, 2003
 Reference Books: 
 1. " Programming and Customizing the 8051 Microcontroller ", by ‘Predko’, TMH. 
  
-  
- 
- 
- 
- 
-  
-
 ## Page 61
 
- 
- 
 FMCD2009 / 2.0 
  61 
 Program:  Bachelor of Engineering (Biomedical Engineering) Semester: III Semester 
@@ -2738,8 +2410,6 @@ Text Books
 
 ## Page 62
 
- 
- 
 FMCD2009 / 2.0 
  62 
 Program:  Bachelor of Engineering (Biomedical Engineering) Semester: IV Semester 
@@ -2785,12 +2455,8 @@ Chapter 6: Complex Integration
 Line integral, Cauchy ‘ s theorem - corollaries, Cauchy ‘ s integral formula. Taylor ‘s and Laurent 
 Series, Singularities, Poles, Residue theorem – problems. 
  
- 
-
 ## Page 63
 
- 
- 
 FMCD2009 / 2.0 
  63 
 Text Books 
@@ -2805,15 +2471,8 @@ Reference Books:
 2. Stanley J Farlow, Partial differential equations for Scientists and Engineers, Dover 
 publications, INC, New York,1993 
  
-  
- 
- 
-  
-
 ## Page 64
 
- 
- 
 FMCD2009 / 2.0 
  64 
 Program: Biomedical Engineering Semester: IV 
@@ -2846,12 +2505,8 @@ Chand and Sons, New Delhi, 2018
 7. Cambridge Advanced Learner’s Dictionary, Cambridge University Press. 
 8. Kaplan’s GRE guide 
   
-  
-
 ## Page 65
 
- 
- 
 FMCD2009 / 2.0 
  65 
 Program:  Bachelor of Engineering  (Biomedical Engineering) Semester:  IV Semester 
@@ -2894,12 +2549,8 @@ Chapter 5: Biomedical Recorders:  Basic recording system, Biomedical signal anal
 Recorders: Electrocardiograph, Phonocardiograph, Electroenchephalograph, Electromyograph, 
 Digital recorders. Biosensors and Smart Sensors               10 Hrs. 
  
-  
-
 ## Page 66
 
- 
- 
 FMCD2009 / 2.0 
  66 
 Text Books: 
@@ -2911,19 +2562,8 @@ Reference Books:
 A. Pfeiffer, 2nd Edition, Prentice-Hall India Pvt. Ltd., 2004. 
 2. Transducers and Instrumentation -D. V. S. Murty Prentice Hall India Pvt ltd. 2nd Edition 
  
- 
- 
- 
- 
- 
- 
- 
-  
-
 ## Page 67
 
- 
- 
 FMCD2009 / 2.0 
  67 
  Program:  Bachelor of Engineering (Biomedical Engineering)   Semester:  IV Semester 
@@ -2971,8 +2611,6 @@ Text Books
 
 ## Page 68
 
- 
- 
 FMCD2009 / 2.0 
  68 
 2. Phillip E. Allen, Douglas R. Holberg, CMOS Analog Circuit Design, Oxford University Press, 
@@ -2985,13 +2623,8 @@ edition, Tata McGraw Hill 2014
 3. David A. Bell, Operational Amplifiers and Linear IC’s, 3rd ed., Oxford University Press, 2011 
 4. B. Razavi, Fundamentals of Microelectronics, 2nd edition. 
  
- 
-  
-
 ## Page 69
 
- 
- 
 FMCD2009 / 2.0 
  69 
  Program: Bachelor of Engineering (Biomedical Engineering) Semester:  III Semester 
@@ -3027,11 +2660,8 @@ pulmonary circulation, systemic circulation-aorta (different parts of aorta & th
 supply, in brief). Summary of the main blood vessels (arteries & veins, explanation with flow 
 diagram only). 10 Hrs. 
   
-
 ## Page 70
 
- 
- 
 FMCD2009 / 2.0 
  70 
 Chapter 6: Respiratory and Digestive System: Organs of respiration, Nose and Nasal cavity- 
@@ -3064,13 +2694,8 @@ Jaypee Publications
 3. Human Physiology: From Cells to Systems – by Lauralee Sherwood, 6th Edition, Thomson 
 India Edition, 2007. 
  
- 
-  
-
 ## Page 71
 
- 
- 
 FMCD2009 / 2.0 
  71 
 Program:  Bachelor of Engineering (Biomedical Engineering) Semester: IV Semester 
@@ -3115,12 +2740,8 @@ Chapter No. 8 Architectural support for high level languages
 Abstraction in software design, data types, floating point data types, The ARM floating point 
 architecture, use of memory, run time environment. 
  
-  
-
 ## Page 72
 
- 
- 
 FMCD2009 / 2.0 
  72 
  
@@ -3135,16 +2756,8 @@ Reference Books:
 1. ARM system Developer ‘s Guide- Hard bound, Publication date:2004 Imprint: MORGAN 
 KAUFFMAN User manual on LPC21XX. 
  
-  
- 
- 
- 
-  
-
 ## Page 73
 
- 
- 
 FMCD2009 / 2.0 
  73 
 Program:  Bachelor of Engineering (Biomedical Engineering) Semester: IV Semester 
@@ -3194,8 +2807,6 @@ ARM microcontroller.
 
 ## Page 74
 
- 
- 
 FMCD2009 / 2.0 
  74 
  
@@ -3220,13 +2831,8 @@ Reference Books:
 KAUFFMAN 
 2. User manual onLPC21XX. 
  
- 
-  
-
 ## Page 75
 
- 
- 
 FMCD2009 / 2.0 
  75 
 Program:  Bachelor of Engineering (Biomedical Engineering) Semester:  IV Semester 
@@ -3266,14 +2872,8 @@ Reference Books
 4. David A. Bell, Operational Amplifiers and Linear IC’s, 2ed., PHI/Pearson, 2004 
 5. Manual: Lab manual prepared by SoECE Department. 
  
- 
- 
- 
-
 ## Page 76
 
- 
- 
 FMCD2009 / 2.0 
  76 
 Program:  Bachelor of Engineering (Biomedical Engineering) Semester: IV Semester 
@@ -3306,8 +2906,6 @@ Spectrophotometer and Colorimeter
 16. Design and develop a thermistor being used as a temperature sensor 
 17. Design and develop a LVDT to measure displacement 
  
- 
- 
 Text Books 
 1. Electronic Instrumentation by H. S. Kalsi, TMH, 2004 (Module-2,3 & 4) 
 2. Electronic Instrumentation and Measurements by David A Bell, PHI / Pearson 
@@ -3321,11 +2919,8 @@ Reference Books:
 2003 
 3. . 
  
-
 ## Page 77
 
- 
- 
 FMCD2009 / 2.0 
  77 
 Program:  Bachelor of Engineering (Biomedical Engineering) Semester: IV Semester 
@@ -3374,8 +2969,6 @@ b) Implement Structures, union and bit-field
 
 ## Page 78
 
- 
- 
 FMCD2009 / 2.0 
  78 
  Learning Outcomes:  
@@ -3422,8 +3015,6 @@ application.
 
 ## Page 79
 
- 
- 
 FMCD2009 / 2.0 
  79 
 6  Programs on 
@@ -3468,8 +3059,6 @@ sorting techniques
 
 ## Page 80
 
- 
- 
 FMCD2009 / 2.0 
  80 
 9 Programming on hash 
@@ -3494,11 +3083,8 @@ C”, 2nd Edition, Course Technology, Oct 2009.
 7. Kernighan and Ritchie, The ANSI C Programming Language, 2 ed., PHI. 
 8. Robert Kruse, Data Structures and Program Design in C, 2 ed., Pearson 
   
-
 ## Page 81
 
- 
- 
 FMCD2009 / 2.0 
  81 
 Program:  Bachelor of Engineering (Biomedical Engineering) Semester: V Semester 
@@ -3537,11 +3123,8 @@ Chapter No. 5. Multirate Digital Signal Processing & Adaptive Filters:
 Introduction, Decimation Process, Interpolation Process, Digital Filter Bank, Adaptive Filters, LMS 
 adaptive algorithm, Applications, Features & Architectural of TMS320C54XX processor.         10 Hrs 
   
-
 ## Page 82
 
- 
- 
 FMCD2009 / 2.0 
  82 
 Text Books 
@@ -3555,30 +3138,8 @@ edition.
 2. S K Mitra, “Digital Signal Processing”, 4th Edition, McGraw-Hill. 
 3. Avtar Singh, “Digital Signal Processing Implementation”, Brooks Cole. 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 83
 
- 
- 
 FMCD2009 / 2.0 
  83 
 Program:  Bachelor of Engineering (Biomedical Engineering) Semester: V Semester 
@@ -3621,13 +3182,8 @@ Education, 2013.
 3. “Comprehensive Ophthalmology”, A. K. Khurana, 4th Edition, New Age International 
 Ltd., 2010  
  
- 
-  
-
 ## Page 84
 
- 
- 
 FMCD2009 / 2.0 
  84 
 Course Code: 22EBMC303 Course Title: Therapeutic Devices and Circuits 
@@ -3653,8 +3209,6 @@ Laser, Carbondioxide lasers, Excimer Laser, Semiconductor Laser safety.
 Electrotherapy Equipments: High frequency heat therapy, Shortwave diathermy, 
 Microwave diathermy, Electrodiagnostic and Therapeutic apparatus.   
  
- 
- 
 10 hours 
  Unit - 2  
 Chapter  3.  
@@ -3674,14 +3228,11 @@ Infusion pump, Components of drug infusion systems, Implantable infusion
 system, Closed-loop control in infusion system 
 Laser and its applications in biomedical 
  
- 
 10 hours 
  Unit - 3  
 
 ## Page 85
 
- 
- 
 FMCD2009 / 2.0 
  85 
 Chapter  5  
@@ -3691,8 +3242,6 @@ current. Shock Hazards from Electrical equipment‟s. Methods of accident preven
  
 Precautions to minimize Electric shock hazards. Safety codes for Electromedical 
 equipment. Electrical safety analyser. 
- 
- 
  
 10 hours 
 Text Books: 
@@ -3705,13 +3254,8 @@ Weibell, Erich A. Pfeiffer, 2nd Edition, Prentice Hall of India Private Limited,
 4. “Introduction to Biomedical Equipment Technology”, Joseph J Carr, John M. 
 Brown, 4th Edition, Pearson Education, 2004.  
  
- 
-  
-
 ## Page 86
 
- 
- 
 FMCD2009 / 2.0 
  86 
 Program:  Bachelor of Engineering (Biomedical Engineering) Semester: V Semester 
@@ -3760,8 +3304,6 @@ McGraw-HillEducation,2017
 
 ## Page 87
 
- 
- 
 FMCD2009 / 2.0 
  87 
 Experiment Wise Plan  
@@ -3789,15 +3331,8 @@ Experiment / Job Details
 1 Design and implement an application using a Real-Time Operating System (RTOS) 
 to address the specific requirements outlined in the given problem statement. 
  
- 
- 
- 
-  
-
 ## Page 88
 
- 
- 
 FMCD2009 / 2.0 
  88 
 Program:  Bachelor of Engineering (Biomedical Engineering) Semester: V Semester 
@@ -3826,21 +3361,8 @@ Reference Books:
 1. . “Medical Instrumentation, Application and Design”, John G. Webster, 3rd Edition, 
 John Wiley & Sons 
  
-  
- 
- 
- 
-  
- 
- 
- 
- 
- 
-
 ## Page 89
 
- 
- 
 FMCD2009 / 2.0 
  89 
 Program:  Bachelor of Engineering (Biomedical Engineering) Semester: 5 Semester 
@@ -3858,16 +3380,6 @@ The mini project essentially will comprise of two components:
  The hardware design  
  The graphical user interface (GUI) for application and data analysis with report 
 generation. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Student can select a project which leads to a product or model or prototype related to 
 following areas (not limited to these areas). 
@@ -3901,8 +3413,6 @@ t
 
 ## Page 90
 
- 
- 
 FMCD2009 / 2.0 
  90 
  Program: Biomedical Engineering Semester: V 
@@ -3931,14 +3441,8 @@ Delhi, 2018
 5. Cambridge Advanced Learner’s Dictionary, Cambridge University Press. 
 6. Kaplan’s GRE guide 
  
- 
-  
-  
-
 ## Page 91
 
- 
- 
 FMCD2009 / 2.0 
  91 
 Program:  Bachelor of Engineering (Biomedical Engineering) Semester: VI Semester 
@@ -3966,13 +3470,8 @@ Reference Books:
 1. Verbal and Non – Verbal Reasoning – Dr. Ravi Chopra, MacMillan India 
 2. Lateral Thinking – Dr. Edward De Bono, Penguin Books, New Delhi 
   
- 
-  
-
 ## Page 92
 
- 
- 
 FMCD2009 / 2.0 
  92 
 Program: Biomedical Engineering Semester: VI 
@@ -3999,13 +3498,8 @@ Reference Books:
 4. John Maxwell – The 17 Essential Qualities of a Team Player, HarperCollins Leadership 
 5. Robin Ryan – 60 Seconds and You’re Hired! – Penguin Books 
  
-  
-  
-
 ## Page 93
 
- 
- 
 FMCD2009 / 2.0 
  93 
 Program:  Bachelor of Engineering (Biomedical Engineering) Semester: VI Semester 
@@ -4045,13 +3539,8 @@ Reference Books:
 2. Digital Image Processing and Computer Vision - Milan Sonka, India Edition, Cengage 
 Learning  
  
- 
-  
-
 ## Page 94
 
- 
- 
 FMCD2009 / 2.0 
  94 
 Program:  Bachelor of Engineering (Biomedical Engineering) Semester: VI Semester 
@@ -4089,11 +3578,8 @@ DPCM, Entropy coding, Peak -picking compression, Cycle -to-Cycle compression, Da
 techniques comparison.  
 08 Hrs 
   
-
 ## Page 95
 
- 
- 
 FMCD2009 / 2.0 
  95 
 Text Books / References: 
@@ -4108,30 +3594,8 @@ References
 publication  
 2. Biomedical Engineering and Design Handbook by Myer Kutz, McGraw Hill  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 96
 
- 
- 
 FMCD2009 / 2.0 
  96 
 Program:  Bachelor of Engineering (Biomedical Engineering) Semester: VI Semester 
@@ -4173,11 +3637,8 @@ representation: Neural Network Architecture (Activation units,  Layers), Neural 
 Initialization, Forwards propagation, and Cost function,  Back propagation algorithm, multi -class 
 classification, Steps to train a neural network, Applications of Neural Networks. 05 Hrs 
   
-
 ## Page 97
 
- 
- 
 FMCD2009 / 2.0 
  97 
 Chapter No. 6 Introduction to Deep learning 
@@ -4193,12 +3654,8 @@ Reference Books:
 1. Trevor Hastie, Robert Tibshirani, Jerome Friedman, The Elements of Statistical 
 Learning: Data Mining Inference and Prediction, 2, Springer, 2009 
  
-  
-
 ## Page 98
 
- 
- 
 FMCD2009 / 2.0 
  98 
 Program:  Bachelor of Engineering (Biomedical Engineering) Semester: VI Semester 
@@ -4241,12 +3698,8 @@ need of various stages in the implementation of the project. At every stage of t
 development, guide should help towards its successful completion as per the predefined 
 standards. 
  
- 
-
 ## Page 99
 
- 
- 
 FMCD2009 / 2.0 
  99 
 How student should carry out a project: 
@@ -4265,27 +3718,8 @@ Report Writing
 The format for report writing should be downloaded from ftp://10.3.0.3/minorprojects  
 The report needs to be shown to guide and committee for each review. 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 100
 
- 
- 
 FMCD2009 / 2.0 
  100 
 Program:  Bachelor of Engineering (Biomedical Engineering) Semester: VI Semester 
@@ -4325,11 +3759,8 @@ Programming : Creating and Extending Thread Class, Stopping, Blockin g and Life 
 Using Thread Methods, Thread Exceptions and Priority, Synchronization, Implementing runnable 
 Interface. 8 Hrs 
   
-
 ## Page 101
 
- 
- 
 FMCD2009 / 2.0 
  101 
 Unit III 
@@ -4344,12 +3775,8 @@ Text Books:
 Reference Books: 
 1. Object oriented programming in TURBO C++ - Robert Lafore, Galgotia Publications, 2002. 
  
-  
-
 ## Page 102
 
- 
- 
 FMCD2009 / 2.0 
  102 
 Program:  Bachelor of Engineering (Biomedical Engineering) Semester: VI Semester 
@@ -4389,15 +3816,8 @@ Text Books
 Automotive Information, Springer, 2014 
 4. David Smith, Kenneth Simpson, The Safety Critical Systems Handbook, 5th Edition, 2020 
  
- 
- 
- 
- 
-
 ## Page 103
 
- 
- 
 FMCD2009 / 2.0 
  103 
 Program:  Bachelor of Engineering (Biomedical Engineering) Semester: VI Semester 
@@ -4434,12 +3854,8 @@ Reference Books:
 1. Object Oriented Programming with C++, E.Balaguruswamy, TMH, 6th Edition, 2013. 
 2. Object Oriented Programming using C++, Robert Lafore, Galgotia publication 2010. 
  
- 
-
 ## Page 104
 
- 
- 
 FMCD2009 / 2.0 
  104 
 Program:  Bachelor of Engineering (Biomedical Engineering) Semester: VI Semester 
@@ -4489,8 +3905,6 @@ sort, Inheritance, Class diagrams, Data encapsulation 8 Hrs
 
 ## Page 105
 
- 
- 
 FMCD2009 / 2.0 
  105 
 Unit III 
@@ -4514,25 +3928,8 @@ Reference Books:
 1. Allen B. Downey, “Think Python: How to Think Like a Computer Scientist”, 2nd 
 Edition, Green Tea Press, 2015.    
   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 106
 
- 
- 
 FMCD2009 / 2.0 
  106 
  
@@ -4578,11 +3975,8 @@ Publications
 3.  Clinical Engineering Principle & Practices - By John G. Webster &Albert M. Cook, 
 Prentice Hall.  
   
-
 ## Page 107
 
- 
- 
 FMCD2009 / 2.0 
  107 
  
@@ -4633,8 +4027,6 @@ Regulations, Domestic Software Standards, International Software Regulations, In
 
 ## Page 108
 
- 
- 
 FMCD2009 / 2.0 
  108 
 Software Standards, The Move Toward One Software Standard History of the quality  system 
@@ -4651,29 +4043,8 @@ World Health Organization
 2. Product Safety in the European Union by GáborCzitán, Attila Gutassy, Ralf Wilde, 
 Akadémia, 2008. 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 109
 
- 
- 
 FMCD2009 / 2.0 
  109 
 Program: Biomedical Engineering Semester: VII 
@@ -4701,14 +4072,16 @@ Nyquist stability criteria. 08 Hrs
  Chapter No. 4.  
 CARDIOVASCULAR CONTROL SYSTEMS: Regulation of heart rate, Blood pressure and cardiac 
 output, Respiratory Control System, Chemical regulation of ventilation  cheyne Stokes 
-breathing. 08 Hrs   
+breathing.
+ 08 Hrs   
 Unit 3 
 Chapter No. 5.   
 TYPES OF PHYSIOLOGICAL CONTROL SYSTEMS: Difference between general control systems 
 and physiological control systems, Examples of positive and negative feedback  physiological 
 control systems; Body temperature Regulation; Blood glucose regulation, Pupil Control System, 
 Visual Fixation System, Oculo -motor System, Muscle stretch  reflex, Skeletal muscle Servo -
-mechanism. 08 Hrs   
+mechanism.
+ 08 Hrs   
 Text Books 
 1. A. Nagoor Kani “Digital Signal Processing”, 2nd edition, Tata Mc. Graw Hill, 2012. 
 2. NagrathI. J and Gopal M., “Control Systems Engineering”, 3rd edition, New Age 
@@ -4717,13 +4090,8 @@ Reference Books
 1. Michael C. Khoo, “Physiological Control Systems-Analysis, Simulation and Estimation”, 
 IEEE 
  
- 
- 
-
 ## Page 110
 
- 
- 
 FMCD2009 / 2.0 
  110 
 Program: Biomedical Engineering Semester: VII 
@@ -4770,11 +4138,8 @@ Settle, CBS Publishing & Distribution.
 Reference Books 
 1. Braun R.D., Introduction to Instrumental Analysis, McGraw –Hill Singapore,2006.  
  
-
 ## Page 111
 
- 
- 
 FMCD2009 / 2.0 
  111 
  
@@ -4818,11 +4183,8 @@ detectors, Collimators, Diagnostic methods using radiation detector probes – T
 test, Renal function test, Blood volume  measurement, Radionuclide imaging systems - 
 Rectilinear scanner, Scintillation camera, SPECT, PET. 10 Hrs 
   
-
 ## Page 112
 
- 
- 
 FMCD2009 / 2.0 
  112 
 Unit III 
@@ -4842,28 +4204,8 @@ References
 1. The Physics of Medical Imaging – by Steve Webb (Editor), Adam Hilger, Bristol and 
 Philadelphia Publications, 1988. 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 113
 
- 
- 
 FMCD2009 / 2.0 
  113 
  
@@ -4914,8 +4256,6 @@ with LLMs, Building and deploying LLM-based applications. 05 Hrs
 
 ## Page 114
 
- 
- 
 FMCD2009 / 2.0 
  114 
 Chapter 7: Ethical Considerations and Responsible AI:  
@@ -4938,26 +4278,8 @@ References
 1. The Physics of Medical Imaging – by Steve Webb (Editor), Adam Hilger, Bristol and 
 Philadelphia Publications, 1988. 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 115
 
- 
- 
 FMCD2009 / 2.0 
  115 
 Program: Biomedical Engineering Semester: VII 
@@ -4990,15 +4312,11 @@ Scope & Aims of Engineering Ethics: Meaning and purpose of Engineering Ethics, R
 of Engineers, Impediments to responsibility, Honesty, Integrity and reliability, risks, safety & 
 liability in engineering. Bhopal Gas Tragedy, Titanic case.  
 Chapter No. 8 Intellectual Property Rights  
-Intellectual Property Rights (IPRs)- Patents, Copyright and Designs 
 Chapter No. 9 Ethical perspectives of professional bodies  
 Ethical perspectives of professional bodies- IEEE, ASME, NSPE and ABET, ASCE etc. 
   
-
 ## Page 116
 
- 
- 
 FMCD2009 / 2.0 
  116 
 Unit III 
@@ -5020,20 +4338,8 @@ References
 2. Mike Martin and Ronald Schinzinger, “Ethics in Engineering”, Tata McGraw-Hill 
 Publications. 
  
-  
- 
- 
- 
- 
- 
- 
- 
-  
-
 ## Page 117
 
- 
- 
 FMCD2009 / 2.0 
  117 
 Program: Biomedical Engineering Semester: VII 
@@ -5085,8 +4391,6 @@ etc).
 
 ## Page 118
 
- 
- 
 FMCD2009 / 2.0 
  118 
 • Optimize the design and generate the results.  
@@ -5105,13 +4409,8 @@ Evaluation Scheme
 • Project shall be reviewed and evaluated by the concerned Guide for 50% of the marks. 
 • Project shall be evaluated by the review committee for 50% of the marks. 
  
-  
-  
-
 ## Page 119
 
- 
- 
 FMCD2009 / 2.0 
  119 
  
@@ -5149,19 +4448,14 @@ Android Architecture, Linux Kernel, Binder, HAL Native Libraries, Android Runtim
 Application framework, Applications, IPC. 08 Hrs   
  
 Text Books 
-1. Linux System Programming, by Robert Love, Copyright © 2007 O'Reilly Media 
 2. Heterogeneous Computing with OpenCL, 2nd Edition by Dana Schaa, Perhaad Mistry, 
 David R. Kaeli, Lee Howes, Benedict Gaster, Publisher: Morgan Kaufmann 
 Reference Books 
 1. Deep Learning, MIT Press book, Goodfellow, Bengio, and Courville’s  
 2. Beginning Android, by Wei-Meng Lee , Publisher: Wrox , O'Reilly Media  
  
- 
-
 ## Page 120
 
- 
- 
 FMCD2009 / 2.0 
  120 
  
@@ -5210,8 +4504,6 @@ Reference Books
 
 ## Page 121
 
- 
- 
 FMCD2009 / 2.0 
  121 
  
@@ -5257,8 +4549,6 @@ Hill Higher Education The Internet of Things – Key applications and Protocols,
 
 ## Page 122
 
- 
- 
 FMCD2009 / 2.0 
  122 
 Hersent, David Boswarthick, Omar Elloumi and Wiley, 2012 (for Unit2). 
@@ -5271,31 +4561,8 @@ Florian (Eds), Springer,2011.
 3. Recipes to Begin, Expand, and Enhance Your Projects, 2nd Edition, Michael Margolis, 
 Arduino Cookbook and O‟Reilly Media,2011.  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 123
 
- 
- 
 FMCD2009 / 2.0 
  123 
 Program: Biomedical Engineering Semester: VII 
@@ -5340,13 +4607,8 @@ Application, and Design, 2nd Edition, Morgan Kaufmann Publishers, Elsevier, 2019
 3.  Grigore C. Burdea, Philippe Coiffet, Virtual Reality Technology, 2nd Edition, Wiley,2017. 
 4. K.S. Hale and K. M. Stanney, Handbook on Virtual Environments, 2nd Edition, CRC Press, 
  
- 
- 
-
 ## Page 124
 
- 
- 
 FMCD2009 / 2.0 
  124 
 Program: Biomedical Engineering Semester: VII 
@@ -5397,8 +4659,6 @@ Unit 3
 
 ## Page 125
 
- 
- 
 FMCD2009 / 2.0 
  125 
 Chapter No. 5. 
@@ -5422,25 +4682,8 @@ Reference Books
 1. Data base System Concepts - by Silberschatz, Korth and Sudharshan. (4th Edition), 
 McGraw Hill, 2002.  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 126
 
- 
- 
 FMCD2009 / 2.0 
  126 
 Program: Biomedical Engineering Semester: VII 
@@ -5486,11 +4729,8 @@ Microsystem Fabrication Process: Photolithography, Ion Implantation, Diffusion, 
 Chemical Vapour Deposition, Physical Vapour Deposition, Deposition By Epitaxy, Etching, The 
 LIGA Process, Design Consideration Overview, Design Constraints. 08 Hrs   
   
-
 ## Page 127
 
- 
- 
 FMCD2009 / 2.0 
  127 
 Text Books 
@@ -5503,32 +4743,8 @@ Reference Books
 2. “Bio-MEMS: Technologies and Applications”, Wanjun Wang, Steven A. Soper, CRC 
 Press, 2006.  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 128
 
- 
- 
 FMCD2009 / 2.0 
  128 
 Program: Biomedical Engineering Semester: VII 
@@ -5573,13 +4789,8 @@ Text Books
 1. Rehabilitation Medicine – By Dr. S. Sunder, 3rd Edition, Jaypee Medical Publications, 
 Reprint 2004. 
  
- 
- 
-
 ## Page 129
 
- 
- 
 FMCD2009 / 2.0 
  129 
 Program: Biomedical Engineering Semester: VII 
@@ -5621,13 +4832,8 @@ Text Books
 Reference Books 
 1. Lasers in Medicine - by Ronal W. Waynant, CRC Press, 2002.  
  
- 
-  
-
 ## Page 130
 
- 
- 
 FMCD2009 / 2.0 
  130 
 Program: Biomedical Engineering Semester: VII 
@@ -5673,11 +4879,8 @@ Ethernet Performance.
 Wireless Lans: The 802.11 Protocol Stack, The 802.11 Physical Layer, The 802.11 MAC Sublayer 
 Protocol, The 802.11 Frame Structure, Services. 08 Hrs   
   
-
 ## Page 131
 
- 
- 
 FMCD2009 / 2.0 
  131 
 Unit 3 
@@ -5705,23 +4908,8 @@ Reference Books
 Hill, 2006. 
 3. Computer Networking – Kurose and Ross, Pearson Education, 2004.  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 132
 
- 
- 
 FMCD2009 / 2.0 
  132 
 Program: Biomedical Engineering Semester: VII 
@@ -5772,8 +4960,6 @@ Publications, 2003.
 
 ## Page 133
 
- 
- 
 FMCD2009 / 2.0 
  133 
 Reference Books 
@@ -5783,33 +4969,8 @@ E.H.Shortliffe, G. Wiederhold, L.E.Perreault and L.M.Fagan, 2ndEdition, Springer
 2. Handbook of Medical Informatics by J.H.VanBemmel, Stanford University Press/ 
 Springer, 2000.  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 134
 
- 
- 
 FMCD2009 / 2.0 
  134 
 Program: Biomedical Engineering Semester: VII 
@@ -5855,12 +5016,8 @@ Reference Books
 1. Biomechanics of Human Motion - by T. McClurg Anderson, Sports Pub., 2007. 
 2. Biomechanics, Structures and Systems - by A. A. Biewener, Sports Publication.  
  
- 
-
 ## Page 135
 
- 
- 
 FMCD2009 / 2.0 
  135 
 Semester VIII 
@@ -5911,8 +5068,6 @@ grafts-history, synthetic grafts, regional patency, thrombosis, neointimal hyper
 
 ## Page 136
 
- 
- 
 FMCD2009 / 2.0 
  136 
 infections. 
@@ -5941,22 +5096,8 @@ IEEE Press, 2000)
 3. Handbook of Biomedical Instrumentation (2nd Edition) by R. S. Khandpur (Tata 
 McGraw Hill, 2003). 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 137
 
- 
- 
 FMCD2009 / 2.0 
  137 
 Program: Biomedical Engineering Semester: VIII 
@@ -6008,8 +5149,6 @@ Internet Working, Repeaters, Hubs, Bridges, Switches, Routers, and Gateways, Vir
 
 ## Page 138
 
- 
- 
 FMCD2009 / 2.0 
  138 
 The Network Layer: Network Layer Design Issues: Store -and- Forward Packet Switching, 
@@ -6033,25 +5172,8 @@ Reference Books
 Hill, 2006. 
 6. Computer Networking – Kurose and Ross, Pearson Education, 2004.  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 139
 
- 
- 
 FMCD2009 / 2.0 
  139 
  
@@ -6102,8 +5224,6 @@ Text Books
 
 ## Page 140
 
- 
- 
 FMCD2009 / 2.0 
  140 
 Publications, 2003. 
@@ -6114,33 +5234,8 @@ E.H.Shortliffe, G. Wiederhold, L.E.Perreault and L.M.Fagan, 2ndEdition, Springer
 4. Handbook of Medical Informatics by J.H.VanBemmel, Stanford University Press/ 
 Springer, 2000.  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 141
 
- 
- 
 FMCD2009 / 2.0 
  141 
 Program: Biomedical Engineering Semester: VIII 
@@ -6186,12 +5281,8 @@ Reference Books
 3. Biomechanics of Human Motion - by T. McClurg Anderson, Sports Pub., 2007. 
 4. Biomechanics, Structures and Systems - by A. A. Biewener, Sports Publication.  
  
- 
-
 ## Page 142
 
- 
- 
 FMCD2009 / 2.0 
  142 
 Program:  Bachelor of Engineering  (Biomedical Engineering) Semester:  VIII   
@@ -6240,8 +5331,6 @@ CRC Press, 1997.
 
 ## Page 143
 
- 
- 
 FMCD2009 / 2.0 
  143 
 Reference Books: 
@@ -6249,34 +5338,8 @@ Reference Books:
 A. Pfeiffer, 2nd Edition, Prentice-Hall India Pvt. Ltd., 2004. 
 2. Transducers and Instrumentation -D. V. S. Murty Prentice Hall India Pvt ltd. 2nd Edition 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 144
 
- 
- 
 FMCD2009 / 2.0 
  144 
 Program:  Bachelor of Engineering (Biomedical Engineering) Semester: VIII   
@@ -6320,11 +5383,8 @@ Press)-2005
 2005.  
 3. Biomedical Digital Signal Processing-Willis J.Tompkins, PHI, 2000..  
  
-
 ## Page 145
 
- 
- 
 FMCD2009 / 2.0 
  145 
 References 
@@ -6332,35 +5392,8 @@ References
 publication  
 4. Biomedical Engineering and Design Handbook by Myer Kutz, McGraw Hill  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 146
 
- 
- 
 FMCD2009 / 2.0 
  146 
 Program: Biomedical Engineering Semester: VIII 
@@ -6406,11 +5439,8 @@ production rule  systems, algorithmic method, OAV, object oriented knowledge, da
 comparisons, statistical  pattern classification, decision analysis, tools, neural networks, 
 advantages of ES, applications of ES. 08 Hrs 
   
-
 ## Page 147
 
- 
- 
 FMCD2009 / 2.0 
  147 
 Text Books 
@@ -6423,32 +5453,8 @@ E.H.Shortliffe, G. Wiederhold, L.E.Perreault and L.M.Fagan, 2ndEdition, Springer
 6. Handbook of Medical Informatics by J.H.VanBemmel, Stanford University Press/ 
 Springer, 2000.  
  
- 
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 148
 
- 
- 
 FMCD2009 / 2.0 
  148 
 Program: Biomedical Engineering Semester: VIII 
@@ -6493,11 +5499,8 @@ MRI System & Imaging Methods: Introduction, Magnet, NMR Coil/Probe, Transmitter,
 Data acquisition. MRI Imaging Method.  Biological effects of magnetic fields - Static magnetic 
 fields, Radio-frequency fields, Gradient magnetic fields, Imaging safety.   08 Hrs 
   
-
 ## Page 149
 
- 
- 
 FMCD2009 / 2.0 
  149 
 Text Book (List of books as mentioned in the approved syllabus)  
@@ -6508,33 +5511,8 @@ References
 1. The Physics of Medical Imaging – by Steve Webb (Editor), Adam Hilger, Bristol and 
 Philadelphia Publications, 1988. 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 150
 
- 
- 
 FMCD2009 / 2.0 
  150 
 Program: Biomedical Engineering Semester: VIII 
@@ -6586,8 +5564,6 @@ etc).
 
 ## Page 151
 
- 
- 
 FMCD2009 / 2.0 
  151 
 • Optimize the design and generate the results.  
@@ -6606,28 +5582,8 @@ Evaluation Scheme
 • Project shall be reviewed and evaluated by the concerned Guide for 50% of the marks. 
 • Project shall be evaluated by the review committee for 50% of the marks. 
  
- 
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
-
 ## Page 152
 
- 
- 
 FMCD2009 / 2.0 
  152 
 Program: Biomedical Engineering Semester: VIII 
@@ -6649,13 +5605,8 @@ Evaluation parameters for Internship Training
  Conclusions and discussion 
  Presentation skills 
  
-  
-  
-
 ## Page 153
 
- 
- 
 FMCD2009 / 2.0 
  153 
 Program: Biomedical Engineering Semester: VIII 
@@ -6676,10 +5627,4 @@ Evaluation parameters for Internship Project
  Reflection on results 
  Conclusions and discussion 
  Presentation skills 
- 
- 
-  
- 
- 
- 
  

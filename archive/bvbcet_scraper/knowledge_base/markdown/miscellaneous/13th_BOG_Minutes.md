@@ -1,11 +1,9 @@
 # PDF Document: 13th_BOG_Minutes
+
 **PDF Source:** https://www.kletech.ac.in/pdf/13th_BOG_Minutes.pdf
 
 ## Page 1
 
- 
- 
- 
 Minutes 
  
 13th Board of Governors Meeting (Online) 
@@ -14,12 +12,6 @@ KLE Technological University,
 Hubballi, Karnataka 
 09th March, 2021 at 11.30 am  
  
- 
- 
- 
- 
- 
-
 ## Page 2
 
 ii 
@@ -75,18 +67,12 @@ Member
 Government of Karnataka. 
 Member 
  
-
 ## Page 3
 
 iii 
  
 BOG 13 Online meeting screen shots 
  
- 
- 
- 
- 
-
 ## Page 4
 
 iv 
@@ -125,7 +111,6 @@ by reducing the intake by sixty in the Mechanical Engineering programme
 from the academic year 2021-22. 
 20 
  
-
 ## Page 5
 
 1 
@@ -186,7 +171,6 @@ Government of Karnataka.
  
 Member 
  
-
 ## Page 6
 
 2 
@@ -275,8 +259,6 @@ vote of thanks to the Chair.
 Action Requested: To confirm the minutes of the 12th BOG meeting held on 19th 
 September 2020. 
  
- 
-
 ## Page 8
 
 4 
@@ -286,18 +268,10 @@ observations or comments on the minutes of the 12th BOG meeting, which was
 circulated earlier . There were no specific comments or observations on the minutes of 
 the 12th meeting. 
  
- 
 Resolution 13.1: The Board of Governors confirmed the minutes of 
 its 12th meeting of the Board of Governors held on 19th September 
 2020 in online mode. 
  
- 
- 
- 
- 
- 
- 
-
 ## Page 9
 
 5 
@@ -401,11 +375,9 @@ during the Covid-19 pandemic period.
 BOG 12.6 Any other subject with the permission of the Chair 
 NIL 
  
-
 ## Page 12
 
 8 
- 
  
 Action Requested: The BOG is requested to confirm the action taken report on the 
 minutes of the previous meeting held on 19th September 2020. 
@@ -427,11 +399,9 @@ larger interest of the students who wish to receive their degree in person.
 Resolution 13.2: Resolved to confirm the action taken report on the 
 minutes of the previous meeting held on 19th September 2020. 
  
-
 ## Page 13
 
 9 
- 
  
 BOG 
 13.3 
@@ -523,7 +493,6 @@ February 2021 respectively.
 
 11 
  
- 
 BOG 
 13.4 
 To discuss the University progress report for the academic year 
@@ -562,7 +531,6 @@ for the year 2020-21.
 ## Page 16
 
 12 
- 
  
 UG PROGRAM ADMISSION DETAILS – 2020-21 
 Admissions to BE / BArch Program for First Year  
@@ -606,8 +574,6 @@ Annexure 3.1
 
 13 
  
- 
- 
 PG PROGRAM ADMISSION DETAILS – 2020-21 
 Admissions to M Tech /MBA /MCA Program for First Year  
 Course  Intake Male Female  Total 
@@ -638,11 +604,9 @@ VLSI Design & Embedded Systems 09
 Machine Design 13 
 Grand Total 252 
  
-
 ## Page 18
 
 14 
- 
  
 Consolidated Admissions for Academic Year 2020-21 
 Program Course  Class Total 
@@ -658,11 +622,9 @@ Research Programs
 2016 32 
 Grand Total 5453 
  
-
 ## Page 19
 
 15 
- 
  
 Faculty Information 
  
@@ -703,14 +665,11 @@ Executives -- 3 -- -- --
 Total  82 57 210 7 
 Grand Total  356 
  
- 
- 
 Annexure 3.2 
 
 ## Page 20
 
 16 
- 
  
 BOG 
 13.5 
@@ -772,7 +731,6 @@ Act No 22 of 2013.
 
 18 
  
- 
 BOG 
 13.6 
 To review the progress of implementation and approve the 
@@ -784,10 +742,8 @@ The planned activities of TEQIP Phase III, which includes the following :
  Action Plan for 4th QTR (Jan-Mar 2021) 
 A brief presentation will be made during the meeting. 
  
- 
 Action Requested: The BOG is requested to consider and approve the planned activities 
 of TEQIP Phase III. 
- 
  
 Discussion: Prof. Prakash Tewari, Principal, presented the progress of implementation 
 and approve the planned activities of TEQIP Phase III. He presented that the total 
@@ -805,11 +761,9 @@ or approve activities for effective implementation of TEQIP III.
  Review of new DLI’s (Disbursement Linked Indicator’s) and 
 Targets. 
  
-
 ## Page 23
 
 19 
- 
  
 BOG 13.7 To approve the reconstituted Board of Studies and Board 
 of Examiners 
@@ -819,8 +773,6 @@ concerned Dean of Faculty may constitute the requisite number of Departmental
 Board of Studies and Boards of Examiners respectively with the approval of the 
 Academic Council. The Executive Council is requested to approve the reconstituted 
 Board of Studies and Boards of Examiners. 
- 
- 
  
 Action Requested: The BOG is requested to approve the reconstituted Board of Studies 
 and Board of Examiners. 
@@ -835,16 +787,13 @@ engineering, Civil Engineering, School of Management Studies and
 Research and B. Architecture department of KLE Technological 
 University. 
  
-
 ## Page 24
 
 20 
  
- 
 BOG 
 13.8 
 Any other subject with the permission of the Chair. 
- 
  
 Table Agenda: To consider and approve institution of ‘Computer 
 Science and Engineering (Artificial Intelligence)/ Computer Science 
@@ -863,5 +812,4 @@ intake by sixty in the Mechanical Engineering programme from the
 academic year 2021-22. Further the Vice-Chancellor is authorized to 
 study and finalize the new programme to apply and do the needful in 
 the matter.  
- 
  

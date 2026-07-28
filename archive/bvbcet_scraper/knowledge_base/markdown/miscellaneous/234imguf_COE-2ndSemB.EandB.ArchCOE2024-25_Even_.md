@@ -1,13 +1,9 @@
 # PDF Document: 234imguf_COE-2ndSemB.EandB.ArchCOE2024-25_Even_
+
 **PDF Source:** https://www.kletech.ac.in/Uploads/image/234imguf_COE-2ndSemB.EandB.ArchCOE2024-25(Even).pdf
 
 ## Page 1
 
- 
- 
- 
- 
- 
                                                                                                                                                                                                                                        1q2  
  
 ANAM 0201/1.0 
@@ -15,19 +11,12 @@ CALENDAR OF EVENTS
 EVEN SEMESTER 2024 – 2025 
 [For B.E (2nd) and B.Arch (2nd) Semesters] 
  
- 
 Important Dates: 
 Courses Term Commencement End of term Date of Commencement 
      Practical Exams   Theory Exams 
 2nd Sem B.E and B.Arch 24/02/25 17/06/25 19/06/25 to 23/06/25 From 25/06/25 
  
- 
- 
- 
- 
 Dated: 13/01/2025                                                                                                                                Dean Academics 
- 
- 
  
 Week 
 No. Month Week days No of 

@@ -1,13 +1,9 @@
 # PDF Document: 3rd-sem-mba-mca-mtech-2024-25-odd
+
 **PDF Source:** https://www.kletech.ac.in/pdf/3rd-sem-mba-mca-mtech-2024-25-odd.pdf
 
 ## Page 1
 
- 
- 
- 
- 
- 
                                                                                                                                                                                                                                        1q2  
  
 ANAM 0201/1.0 
@@ -15,14 +11,10 @@ CALENDAR OF EVENTS
 ODD SEMESTER 2024 – 2025 
 [For MBA (3rd), MCA (3rd) & M.Tech (3rd) Semesters] 
  
- 
 Important Dates: 
 Courses Term Commencement End of term Date of Commencement 
 Exam Dates 
 3rd Sem MBA, MCA & M.Tech 03/02/25 26/05/25      From 02/06/25 
- 
- 
- 
  
 Dated: 24/01/2025                                                                                                                             Dean Academics 
  

@@ -2,7 +2,6 @@
 
 **Source URL:** https://www.kletech.ac.in/course-detail/m-tech-design-engineering/hubballi
 
-
 ### Undergraduate
 
 - B E Civil Engineering
@@ -24,7 +23,6 @@
 - LL.B. (Hons.)
 - B.Sc. in Hotel Management and Catering Technology (B.Sc. HMCT)
 
-
 ### Postgraduate
 
 - M.Tech Structural Engineering
@@ -36,7 +34,6 @@
 - LLM - IPR
 - Master of Business Administration
 - Master of Computer Application
-
 
 ### Research
 
@@ -63,7 +60,6 @@
 - MS Automation and Robotics Engineering
 - Centre for Engineering Education Research
 
-
 ### Undergraduate
 
 - B E Civil Engineering
@@ -80,13 +76,11 @@
 - Bachelor of Commerce Integrated with ACCA
 - Bachelor of Computer Applications (Honours)
 
-
 ### Postgraduate
 
 - M.Tech Structural Engineering
 - Master of Business Administration
 - Master of Computer Application
-
 
 ### Research
 
@@ -97,7 +91,6 @@
 - Ph.D. in Civil Engineering
 - Ph. D. in Management Studies & Research
 
-
 ### Undergraduate
 
 - B.A. LL.B
@@ -105,12 +98,10 @@
 - B.Com. LL.B
 - LL.B
 
-
 ### Postgraduate
 
 - LLM - Constitutional Law
 - LLM - IPR
-
 
 ### Ph.D.
 

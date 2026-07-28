@@ -1,15 +1,10 @@
 # PDF Document: 2nd_EC_Minutes
+
 **PDF Source:** https://www.kletech.ac.in/pdf/2nd_EC_Minutes.pdf
 
 ## Page 1
 
 1 | P a g e 
- 
- 
- 
- 
- 
- 
  
 Minutes 
  
@@ -19,16 +14,9 @@ KLE Technological University,
 Hubballi, Karnataka 
 December 12th, 2015 
  
- 
- 
- 
- 
- 
-
 ## Page 2
 
 2 | P a g e 
- 
  
 SL 
 No 
@@ -38,7 +26,6 @@ Particulars
 2 To confirm the action taken report on the minutes of the previous meeting 
 held on 23nd July 2015. 
 3 
- 
  
 To consider & approve the Regulations Governing Research Programmes of 
 KLE Technological University’ framed and approved by Academic Council as 
@@ -50,12 +37,10 @@ programs framed and approved by Academic Council as per the provisions of
 ‘KLE Technological University Act -2012’. 
 5 
  
- 
 To consider and approve the Regulations Governing Minor disciplines in the 
 Undergraduate programs framed and approved by Academic Council as per 
 the provisions of ‘KLE Technological University Act -2012’. 
 6 
- 
  
 To consider & approve the Regulations Governing Bachelor of Science (B.Sc.) 
 Industry Integrated (Evening) Programme of KLE Technological University - 
@@ -75,7 +60,6 @@ To consider the issues of transfer of faculty from B V Bhoomaraddi College of
 Engg & Tech to KLE Technological University. 
 12 Any other subject with the permission of the Chair. 
   
-
 ## Page 3
 
 3 | P a g e 
@@ -116,7 +100,6 @@ Member
 Development 
 Member 
  
-
 ## Page 4
 
 4 | P a g e 
@@ -126,12 +109,9 @@ Agenda 2.1
 To read and confirm the minutes of the previous meeting held on 
 23rd July 2015. 
  
- 
 Resolution :    Resolved to confirm the minutes of the previous meeting 
 held on 23rd July 2015 
   
- 
- 
 Agenda 2.2 
  
 To confirm the action taken report on the minutes of the previous 
@@ -140,7 +120,6 @@ meeting held on 22nd July 2015
 Resolution :  Resolved to confirm the action taken on the minutes of 1st 
 Executive Council meeting of KLE Technological University, 
 Hubballi 
- 
  
 Agenda Resolution Action Taken 
 Agenda 1.1 
@@ -152,7 +131,6 @@ framed as per the
 provisions of ‘KLE 
 Technological 
 University Act – 2012’ . 
- 
  
 Resolution: Resolved to 
 approve the Statues of 
@@ -177,7 +155,6 @@ per the provisions of
 ‘KLE Technological 
 University Act – 2012’ . 
  
- 
 Resolved to approve 
 ‘Regulations of KLE 
 Technological 
@@ -193,7 +170,6 @@ Technological University’ are being
 implemented from the academic year 
 2015-16 
  
-
 ## Page 5
 
 5 | P a g e 
@@ -210,7 +186,6 @@ be started by the
 University from 
 academic year 2015-16 
  
- 
 Resolved to approve 
 the recommendation 
 of Academic Council 
@@ -225,7 +200,6 @@ The approved Undergraduate and Post-
 Graduate programs have been started by 
 the University from the academic year 
 2015-16 
- 
  
 Agenda 1.4  
 Any other subject with 
@@ -274,9 +248,6 @@ implemented from the academic year
 2015-16 for all the programs starting from 
 2015-16 
  
- 
- 
-
 ## Page 6
 
 6 | P a g e 
@@ -386,7 +357,6 @@ the University from the academic year 2016-17.
 
 9 | P a g e 
  
- 
 The Academic Council approved and recommended Industry-Integrated Diploma Sandwich 
 Programme details will be presented by the Registrar during the meeting. 
  
@@ -419,8 +389,6 @@ The proposed composition of the ‘Research Council’ is presented in Annexure 
 Resolution :  Resolved to approve  constitution of the Research  
   Council. 
  
- 
-
 ## Page 10
 
 10 | P a g e 
@@ -455,9 +423,6 @@ is attached as Annexure 10)
  
 Resolution :  Resolved to approve the appointments of faculty 
  
- 
- 
-
 ## Page 11
 
 11 | P a g e 
@@ -476,12 +441,5 @@ Resolution :  Resolved to approve the issues of transfer of faculty
   from B V Bhoomaraddi College of Engg & Tech to KLE  
   Technological University. 
  
- 
- 
 Chairman thanked all the members for their contributions. 
- 
- 
- 
-                
-    
  

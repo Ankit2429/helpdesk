@@ -1,50 +1,19 @@
 # PDF Document: mba-curriculum-2024-26
+
 **PDF Source:** https://www.kletech.ac.in/pdf/mba-curriculum-2024-26.pdf
 
 ## Page 1
 
- 
- 
 Format No: FMCD2009 /1.0  1 
  
- 
- 
- 
- 
- 
 School of Management Studies and Research 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Curriculum and Syllabus 
 (2024-2026) 
 MBA- Master of Business Administration 
  
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 2
 
- 
- 
 Format No: FMCD2009 /1.0  2 
  
 INDEX 
@@ -57,39 +26,13 @@ Sr.No. Content Page No
 5 Curriculum Structure – Semester-wise 7 
 6 Curriculum Content- Course-wise 12 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 3
 
- 
- 
 Format No: FMCD2009 /1.0  3 
- 
- 
- 
  
 Title: Vision and Mission Statements of the KLE Technological University 
  
 Vision 
- 
  
 KLE Technological University will be a national leader in Higher 
 Education –recognised globally for innovative culture, outstanding 
@@ -119,19 +62,11 @@ spirit of collaboration and partnership to accomplish our mission.
     
           Back 
  
- 
-
 ## Page 4
 
- 
- 
 Format No: FMCD2009 /1.0  4 
  
- 
- 
- 
 Title: Vision and Mission Statements of the Department/School 
- 
  
 Vision: 
 KLE Tech Department of Management will be a premier institute in management education 
@@ -148,18 +83,10 @@ world management challenges and shapes professionals
 M3: To engage with industry and community stakeholders by contributing to 
 the region's socio-economic development. 
  
- 
-            
- 
- 
- 
- 
            Back 
 
 ## Page 5
 
- 
- 
 Format No: FMCD2009 /1.0  5 
 Title: Consolidated View of Program Educational Objectives (PEOs) /Program Outcomes (POs) and Program-Specific Objectives (PSOs) 
   
@@ -196,15 +123,10 @@ environment.
 societal issues. 
                  Back 
  
- 
-
 ## Page 6
 
- 
- 
 Format No: FMCD2009 /1.0  6 
 Title: Curriculum Structure -Overall 
- 
  
 Semester                                                                                                                                                                                 Total Program Credits: 88 
 Course with course Code 
@@ -275,24 +197,17 @@ Credits 22 23 22 21
 
 ## Page 7
 
- 
- 
 Format No: FMCD2009 /1.0  7 
 Title: Curriculum Structure- Semester-wise 
 Curriculum Structure for the year 2024-26 batch 
 I Semester 
 ISA: In-semester Assessment  ESA: End Semester Assessment  L: Lecture T: Tutorials P: Practical 
  
- 
 Date                                                                                                                                                                                   Program Head  
    
- 
-                
- 
 FORM 
 ISO 21001:2018 
 Document #: FMCD2004 
- 
  
 Rev: 1.0 
 Title:  Curriculum structure semester wise Page  
@@ -317,17 +232,13 @@ Hours ISA ESA Total
 8 20MBAP703 Business Communication 0 0 1 100 -- 100 1 - 
 TOTAL 16 1 5    22  
 
-
 ## Page 8
 
- 
- 
 Format No: FMCD2009 /1.0  8 
  
 FORM 
 ISO 21001:2018 
 Document #: FMCD2004 
- 
  
 Rev: 1.0 
 Title:  Curriculum structure semester wise Page  
@@ -355,14 +266,11 @@ TOTAL 15 2 6    23
 
 ## Page 9
 
- 
- 
 Format No: FMCD2009 /1.0  9 
  
 FORM 
 ISO 21001:2018 
 Document #: FMCD2004 
- 
  
 Rev: 1.0 
 Title:  Curriculum structure semester wise Page  
@@ -392,15 +300,11 @@ TOTAL 15 0 7    22
 
 ## Page 10
 
- 
- 
 Format No: FMCD2009 /1.0  10 
- 
  
 FORM 
 ISO 21001:2018 
 Document #: FMCD2004 
- 
  
 Rev: 1.0 
 Title:  Curriculum structure semester wise Page  
@@ -432,10 +336,7 @@ TOTAL 18 0 3    21
 
 ## Page 11
 
- 
- 
 Format No: FMCD2009 /1.0  11 
- 
  
 Electives I, II, III, IV 
 Marketing 
@@ -525,18 +426,14 @@ Analytics
  
                  Back 
  
-
 ## Page 12
 
- 
- 
 Format No: FMCD2009 /1.0  12 
  
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise Page 12 to 110 
@@ -580,11 +477,8 @@ to Groups & Teams, Basics of power and politics, Organizational culture, Organiz
 diversity in workplace. Digital Workplace- role and Perspectives. Lean & Green Workspace. 
 Reduced Inequalities, Ethical Challenges.08 hrs 
 
-
 ## Page 13
 
- 
- 
 Format No: FMCD2009 /1.0  13 
 References 
  Jones Gareth R, George Jennifer M, Contemporary Management, TMH, 5th Edition, 2009 
@@ -599,7 +493,6 @@ Each Question carries 20
 Marks  
 Module  numbers Instructions 
  
- 
 UNIT I 
 I 
 All Questions Compulsory 
@@ -610,11 +503,8 @@ IV
 V 
        Back 
   
-
 ## Page 14
 
- 
- 
 Format No: FMCD2009 /1.0  14 
   
 Program: MBA 
@@ -662,7 +552,6 @@ Module
 numbers 
 Instructions 
  
- 
 UNIT I 
 I 
 All Questions Compulsory 
@@ -675,8 +564,6 @@ Back
 
 ## Page 15
 
- 
- 
 Format No: FMCD2009 /1.0  15 
 Program: MBA 
 Course Title: Accounting for Managers Course Code: 20MBAC703 
@@ -724,7 +611,6 @@ Each Question carries 20
 Marks  
 Module  numbers Instructions 
  
- 
 UNIT I 
 I 
 All Questions Compulsory II 
@@ -735,8 +621,6 @@ Back
 
 ## Page 16
 
- 
- 
 Format No: FMCD2009 /1.0  16 
 Program: MBA 
 Course Title: Business Research Methods Course Code: 22MBAC701 
@@ -782,8 +666,6 @@ Plagiarism, ethical issues.
 
 ## Page 17
 
- 
- 
 Format No: FMCD2009 /1.0  17 
 References: 
  Cooper and Schlinder, Business Research Methods, 9th edition, 2011 TMH 
@@ -804,7 +686,6 @@ Each Question carries 20
 Marks  
 Module  numbers Instructions 
  
- 
 UNIT I 
 I 
 All Questions Compulsory II 
@@ -814,13 +695,8 @@ V
  
 Back 
  
- 
-  
-
 ## Page 18
 
- 
- 
 Format No: FMCD2009 /1.0  18 
 Program: MBA 
 Course Title: Marketing Management Course Code: 24MBAC702 
@@ -855,15 +731,11 @@ A south Asian Perspective, 14th edition, Pearson Publication.
  Michael Hutt, Dheeraj Sharma, B2B Marketing, 11th edition, Cengage learning. 
     Scheme for Semester End Examination (ESA) 
  
- 
- 
- 
 UNIT 
 5 Questions  
 Each Question carries 20 
 Marks  
 Module  numbers Instructions 
- 
  
 UNIT I 
 I 
@@ -872,11 +744,8 @@ III
 IV 
 Back 
  
-
 ## Page 19
 
- 
- 
 Format No: FMCD2009 /1.0  19 
 Program: MBA 
 Course Title: Business Statistics and 
@@ -925,7 +794,6 @@ Each Question carries 20
 Marks  
 Module  numbers Instructions 
  
- 
 UNIT I 
 I 
 All Questions Compulsory II 
@@ -935,8 +803,6 @@ Back
 
 ## Page 20
 
- 
- 
 Format No: FMCD2009 /1.0  20 
 Program: MBA 
 Course Title: Industry Experience- Phase I Course Code: 20MBAP701 
@@ -966,12 +832,8 @@ strength, Product/services and market served, competitors)
         
  Back 
  
-  
-
 ## Page 21
 
- 
- 
 Format No: FMCD2009 /1.0  21 
 Program: MBA 
 Course Title: Business Communication Course Code: 20MBAP703 
@@ -1025,8 +887,6 @@ Longman.
 
 ## Page 22
 
- 
- 
 Format No: FMCD2009 /1.0  22 
 Semester II 
 Program: MBA 
@@ -1070,7 +930,6 @@ Module
 numbers 
 Instructions 
  
- 
 UNIT I 
 I All Questions Compulsory 
 II 
@@ -1080,8 +939,6 @@ IV
 
 ## Page 23
 
- 
- 
 Format No: FMCD2009 /1.0  23 
 Program: MBA 
 Course Title: Entrepreneurship 
@@ -1135,11 +992,8 @@ Western.
  David H. Holt, Entrepreneurship: New Venture Creation, Prentice Hall of India 2002.  
   Raj Shankar, Entrepreneurship Theory & Practice, Vijay Nicole Imprints Pvt Ltd.  
            
-
 ## Page 24
 
- 
- 
 Format No: FMCD2009 /1.0  24 
 Scheme for Semester End Examination (ESA) 
 UNIT 5 Questions 
@@ -1148,7 +1002,6 @@ Marks
 Module  
 numbers 
 Instructions 
- 
  
 UNIT I 
 I All Questions Compulsory 
@@ -1159,11 +1012,8 @@ IV
      
 Back 
   
-
 ## Page 25
 
- 
- 
 Format No: FMCD2009 /1.0  25 
 Program: MBA 
 Course Title: Financial Management Course Code: 24MBAC703 
@@ -1205,11 +1055,9 @@ UNIT 5 Questions
 Each Question carries 20 
 Marks 
  
- 
 Module  
 numbers 
 Instructions 
- 
  
 UNIT I 
 I All Questions Compulsory 
@@ -1219,12 +1067,8 @@ IV
  
 Back 
  
- 
-
 ## Page 26
 
- 
- 
 Format No: FMCD2009 /1.0  26 
 Program: MBA 
 Course Title: Human Resource Management Course Code: 24MBAC704 
@@ -1268,11 +1112,9 @@ UNIT 5 Questions
 Each Question carries 20 
 Marks 
  
- 
 Module  
 numbers 
 Instructions 
- 
  
 UNIT I 
 I All Questions Compulsory 
@@ -1283,8 +1125,6 @@ Back
 
 ## Page 27
 
- 
- 
 Format No: FMCD2009 /1.0  27 
 Program: MBA 
 Course Title: Operations Management Course Code: 20MBAC712 
@@ -1320,8 +1160,6 @@ dependent demand attributes, framework, Materials Requirement Planning (MRP).
 
 ## Page 28
 
- 
- 
 Format No: FMCD2009 /1.0  28 
 Module 5: 
 Scheduling of operations: 
@@ -1345,11 +1183,9 @@ UNIT
 Each Question carries 20 
 Marks 
  
- 
 Module  
 numbers 
 Instructions 
- 
  
 UNIT I 
 I All Questions Compulsory 
@@ -1358,15 +1194,10 @@ III
 IV 
 V 
   
- 
-       
 Back 
   
-
 ## Page 29
 
- 
- 
 Format No: FMCD2009 /1.0  29 
 Program: MBA 
 Course Title:  Decision Modelling  Course Code: 24MBAC705  
@@ -1407,15 +1238,10 @@ Thomas L Saaty, Luis G Vargas, Models, Methods, Concepts & Applications of the A
 Hierarchy Process, Springer publication , 2012 
    Back 
  
- 
- 
- 
 Program: MBA 
 
 ## Page 30
 
- 
- 
 Format No: FMCD2009 /1.0  30 
 Course Title: Digital Marketing for Rural 
 Business 
@@ -1466,8 +1292,6 @@ selection criteria for influencers, collaboration details, and content expectati
 
 ## Page 31
 
- 
- 
 Format No: FMCD2009 /1.0  31 
 Website & E-commerce Integration (Optional): If selling products online, ensure website 
 optimization for rural audiences and consider integrating an e-commerce platform.8Hrs 
@@ -1481,12 +1305,8 @@ chosen rural products.
          
 Back 
  
-  
-
 ## Page 32
 
- 
- 
 Format No: FMCD2009 /1.0  32 
 Program: MBA 
 Course Title: Managerial 
@@ -1542,8 +1362,6 @@ Verbal Logic
 
 ## Page 33
 
- 
- 
 Format No: FMCD2009 /1.0  33 
  Letter and Number Series 
  Decoding the Codes 
@@ -1566,13 +1384,8 @@ Communication, 3rd edition, Thomson South-Western.
  John Jackman and Wendy Wren, Nelson English Evaluation Pack – Book 5, Thomas Nelson. 
 Back 
  
- 
-  
-
 ## Page 34
 
- 
- 
 Format No: FMCD2009 /1.0  34 
  
 Program: MBA 
@@ -1589,13 +1402,8 @@ The students have to undergo AI certification course mandatorily in the second p
  
          Back 
  
- 
-  
-
 ## Page 35
 
- 
- 
 Format No: FMCD2009 /1.0  35 
 Program: MBA 
 Course Title: Business Venture Phase - I Course Code: 25MBAP702 
@@ -1621,24 +1429,8 @@ Students are expected to work on the following points:
 90Hrs 
          Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 36
 
- 
- 
 Format No: FMCD2009 /1.0  36 
 2024-26 Batch 
 Course Content Semester III 
@@ -1684,10 +1476,7 @@ and Schuster
 
 ## Page 37
 
- 
- 
 Format No: FMCD2009 /1.0  37 
- 
  
 Scheme for Semester End Examination (ESA) 
 UNIT 
@@ -1696,7 +1485,6 @@ Each Question carries 20
 Marks  
 Module  numbers Instructions 
  
- 
 UNIT I 
 I  
 All Questions Compulsory  II 
@@ -1704,16 +1492,10 @@ III
 IV 
 V 
  
- 
-   
-    
  Back 
   
-
 ## Page 38
 
- 
- 
 Format No: FMCD2009 /1.0  38 
 Program: MBA 
 Course Title: Climate Change  & 
@@ -1727,7 +1509,6 @@ Particulars
  
  Evolution of sustainability philosophy 
  
- 
 28 Hrs 
  Impact of Climate change from the perspectives of Social, Environmental, 
 Economics and Organizational Management.                                                                                             
@@ -1740,14 +1521,8 @@ Agriculture, Water resources, Energy, Industrialization, Urbanization and Health
 and Hygiene, Corporate Social Responsibility (CSR). 
     Back 
  
- 
- 
-  
-
 ## Page 39
 
- 
- 
 Format No: FMCD2009 /1.0  39 
 Program: MBA 
 Course Title: Summer Internship Course Code: 25MBAI801 
@@ -1767,14 +1542,8 @@ activities:
 90 hrs 
       Back 
  
- 
- 
-  
-
 ## Page 40
 
- 
- 
 Format No: FMCD2009 /1.0  40 
 Program: MBA 
 Course Title: Industry Experience -Phase III Course Code: 25MBAP802 
@@ -1791,13 +1560,8 @@ suggestion for future research, practical/theoretical implications.
 90 hrs 
       Back 
  
- 
-  
-
 ## Page 41
 
- 
- 
 Format No: FMCD2009 /1.0  41 
  
 Program: MBA 
@@ -1818,13 +1582,8 @@ Students are expected to work on the following activities:
  
      Back 
  
- 
-  
-
 ## Page 42
 
- 
- 
 Format No: FMCD2009 /1.0  42 
 Program: MBA 
 Course Title: Research Experience - Phase I Course Code: 25MBAR801   
@@ -1844,13 +1603,8 @@ Tasks
 90 hrs 
       Back 
  
- 
-  
-
 ## Page 43
 
- 
- 
 Format No: FMCD2009 /1.0  43 
  
 Program: MBA 
@@ -1873,12 +1627,8 @@ entrepreneurship.
 90 hrs 
      Back 
  
-  
-
 ## Page 44
 
- 
- 
 Format No: FMCD2009 /1.0  44 
 IV Semester 
 Program: MBA 
@@ -1921,8 +1671,6 @@ Foreign Exchange Management Act 1999, Introduction to Intellectual Property Righ
 
 ## Page 45
 
- 
- 
 Format No: FMCD2009 /1.0  45 
 References:  
  Saha Ray H.K., Law of Contracts, Eastern Law Book House. 
@@ -1935,7 +1683,6 @@ Each Question carries 20
 Marks  
 Module  numbers Instructions 
  
- 
 UNIT I 
 I  
 All Questions Compulsory  II 
@@ -1943,14 +1690,10 @@ III
 IV 
 V 
  
- 
 Back 
   
-
 ## Page 46
 
- 
- 
 Format No: FMCD2009 /1.0  46 
  
 Program: MBA 
@@ -1992,8 +1735,6 @@ management, Supply chain risk management.
 
 ## Page 47
 
- 
- 
 Format No: FMCD2009 /1.0  47 
 References: 
  Chopra, S. and Meindl P, Supply Chain Management – Strategy, Planning and Operation, 
@@ -2010,7 +1751,6 @@ Each Question carries 20
 Marks  
 Module  numbers Instructions 
  
- 
 UNIT I 
 I  
 All Questions Compulsory  II 
@@ -2020,11 +1760,8 @@ V
  
 Back 
   
-
 ## Page 48
 
- 
- 
 Format No: FMCD2009 /1.0  48 
  
 Program: MBA 
@@ -2061,12 +1798,8 @@ Students are expected to work on the following activities:
 90 hrs 
       Back 
  
-  
-
 ## Page 49
 
- 
- 
 Format No: FMCD2009 /1.0  49 
 Program: MBA 
 Course Title: Research Experience - 
@@ -2087,14 +1820,8 @@ Tasks:
 90 hrs 
      Back 
  
- 
- 
-  
-
 ## Page 50
 
- 
- 
 Format No: FMCD2009 /1.0  50 
  
 Program: MBA 
@@ -2118,12 +1845,8 @@ developing, testing, launching and evaluating social change venture.
 90 hrs 
       Back 
  
-  
-
 ## Page 51
 
- 
- 
 Format No: FMCD2009 /1.0  51 
 ELECTIVES 
 Marketing 
@@ -2164,12 +1887,7 @@ References:
 
 ## Page 52
 
- 
- 
 Format No: FMCD2009 /1.0  52 
- 
- 
- 
  
 Scheme for Semester End Examination (ESA) 
  
@@ -2179,23 +1897,16 @@ Each Question carries 20
 Marks  
 Module  numbers Instructions 
  
- 
 UNIT I 
 I  
 All Questions Compulsory  II 
 III 
 IV 
  
-    
-      
 Back 
  
-  
-
 ## Page 53
 
- 
- 
 Format No: FMCD2009 /1.0  53 
 Program: MBA 
 Course Title: Retail Management Course Code: 25MBAE802 
@@ -2239,11 +1950,8 @@ References:
 
 ## Page 54
 
- 
- 
 Format No: FMCD2009 /1.0  54 
     
- 
 Scheme for Semester End Examination (ESA) 
  
 UNIT 
@@ -2252,22 +1960,16 @@ Each Question carries 20
 Marks  
 Module  numbers Instructions 
  
- 
 UNIT I 
 I  
 All Questions Compulsory  II 
 III 
 IV 
  
-    
-    
 Back 
   
-
 ## Page 55
 
- 
- 
 Format No: FMCD2009 /1.0  55 
 Program: MBA 
 Course Title: Rural Marketing Course Code: 25MBAE803 
@@ -2312,7 +2014,6 @@ Each Question carries 20
 Marks  
 Module  numbers Instructions 
  
- 
 UNIT I 
 I  
 All Questions Compulsory  II 
@@ -2321,18 +2022,12 @@ IV
 
 ## Page 56
 
- 
- 
 Format No: FMCD2009 /1.0  56 
     
 Back 
  
-  
-
 ## Page 57
 
- 
- 
 Format No: FMCD2009 /1.0  57 
 Program: MBA 
 Course Title: Services Marketing Course Code: 25MBAE804 
@@ -2377,7 +2072,6 @@ Each Question carries 20
 Marks  
 Module  numbers Instructions 
  
- 
 UNIT I 
 I  
 All Questions Compulsory  
@@ -2389,8 +2083,6 @@ IV
 
 ## Page 58
 
- 
- 
 Format No: FMCD2009 /1.0  58 
 Program: MBA 
 Course Title: Integrated Marketing 
@@ -2431,16 +2123,12 @@ operations and communications.
 
 ## Page 59
 
- 
- 
 Format No: FMCD2009 /1.0  59 
 References: 
  Belch, M.A., and Belch, G.E., Advertising and Promotion, Tata Mc-Graw Hill Publication  
  Shah, K. and D’souza, A., Advertising & Promotion, Tata Mc-Graw Hill Publication.  
  Kenneth E. Clow, Donald E. Baack, Integrated advertising promotion and Marketing 
 Communications, 3rd Edition, Pearson Publication 
- 
- 
  
 Scheme for Semester End Examination (ESA) 
  
@@ -2450,7 +2138,6 @@ Each Question carries 20
 Marks  
 Module  numbers Instructions 
  
- 
 UNIT I 
 I  
 All Questions Compulsory  
@@ -2459,19 +2146,6 @@ Back
 II 
 III 
 IV 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Program: MBA 
 Course Title: Industrial Marketing Course Code: 25MBAE805 
@@ -2484,8 +2158,6 @@ Module1:
 
 ## Page 60
 
- 
- 
 Format No: FMCD2009 /1.0  60 
 Basic concept of Industrial Marketing: Industrial Marketing, consumer and industrial products, 
 consumer and industrial marketing, differences of consumer and industrial marketing.  
@@ -2522,19 +2194,8 @@ References:
 90674-3-0). (in Greek)  
 2. Ralph S Alexander, Richard M Hill, Industrial Marketing, 3rd edition.   
    
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 61
 
- 
- 
 Format No: FMCD2009 /1.0  61 
  
 Scheme for Semester End Examination (ESA) 
@@ -2545,22 +2206,16 @@ Each Question carries 20
 Marks  
 Module  numbers Instructions 
  
- 
 UNIT I 
 I  
 All Questions Compulsory  II 
 III 
 IV 
     
-     
 Back 
  
-  
-
 ## Page 62
 
- 
- 
 Format No: FMCD2009 /1.0  62 
 Program: MBA 
 Course Title: Product and Brand 
@@ -2600,20 +2255,8 @@ Person publication
  David Aaker, Brand Management, TMH publication 
  YLR Murthy, Brand management Indian prospective, Vikas Publications 
   
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 63
 
- 
- 
 Format No: FMCD2009 /1.0  63 
 Scheme for Semester End Examination (ESA) 
  
@@ -2623,22 +2266,16 @@ Each Question carries 20
 Marks  
 Module  numbers Instructions 
  
- 
 UNIT I 
 I  
 All Questions Compulsory  II 
 III 
 IV 
     
-      
 Back 
  
-  
-
 ## Page 64
 
- 
- 
 Format No: FMCD2009 /1.0  64 
 Program: MBA 
 Course Title: Digital Marketing Course Code: 24MBAE801  
@@ -2684,7 +2321,6 @@ Each Question carries 20
 Marks  
 Module  numbers Instructions 
  
- 
 UNIT I 
 I  
 All Questions Compulsory  II 
@@ -2692,12 +2328,8 @@ III
 IV 
       Back 
  
-  
-
 ## Page 65
 
- 
- 
 Format No: FMCD2009 /1.0  65 
 Finance 
 Program: MBA 
@@ -2747,8 +2379,6 @@ Publication.
 
 ## Page 66
 
- 
- 
 Format No: FMCD2009 /1.0  66 
             
 Scheme for Semester End Examination (ESA) 
@@ -2759,7 +2389,6 @@ Each Question carries 20
 Marks  
 Module  numbers Instructions 
  
- 
 UNIT I 
 I  
 All Questions Compulsory  II 
@@ -2768,11 +2397,8 @@ IV
   
 Back 
   
-
 ## Page 67
 
- 
- 
 Format No: FMCD2009 /1.0  67 
 Program: MBA 
 Course Title: Advanced Financial 
@@ -2819,8 +2445,6 @@ procedural aspects of dividends Corporate Dividend Tax.
 
 ## Page 68
 
- 
- 
 Format No: FMCD2009 /1.0  68 
 Reference books: 
  M.Y. Khan & P.K. Jain, Financial Management, 6/e, TMH, 2011. 
@@ -2832,16 +2456,13 @@ Reference books:
  Brearly and Myers, Principle of Corporate Finance–, 10/e, TMH, 2012. 
  Ashwath Damodaran, Corporate Finance: Theory& Practice, 2/e, Wiley India Pvt. Ltd., 2009. 
             
- 
 Scheme for Semester End Examination (ESA) 
- 
  
 UNIT 
 5 Questions  
 Each Question carries 20 
 Marks  
 Module  numbers Instructions 
- 
  
 UNIT I 
 I  
@@ -2852,24 +2473,8 @@ V
  
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 69
 
- 
- 
 Format No: FMCD2009 /1.0  69 
 Program: MBA 
 Course Title: Merchant Banking & 
@@ -2923,10 +2528,7 @@ with Credit sale, Instalment sale and Leasing. Banks and Hire Purchase, Reverse 
 
 ## Page 70
 
- 
- 
 Format No: FMCD2009 /1.0  70 
- 
  
 Module 5:    
 Venture Capital: Concept, features, Origin in India and the current Indian Scenario. Overview, 
@@ -2950,13 +2552,11 @@ References:
           
 Scheme for Semester End Examination (ESA) 
  
- 
 UNIT 
 5 Questions  
 Each Question carries 20 
 Marks  
 Module  numbers Instructions 
- 
  
 UNIT I 
 I  
@@ -2965,17 +2565,10 @@ III
 IV 
 V 
  
- 
 Back 
  
- 
- 
-  
-
 ## Page 71
 
- 
- 
 Format No: FMCD2009 /1.0  71 
 Program: MBA 
 Course Title: International Financial 
@@ -3021,14 +2614,9 @@ Hill International.
 
 ## Page 72
 
- 
- 
 Format No: FMCD2009 /1.0  72 
             
- 
- 
 Scheme for Semester End Examination (ESA) 
- 
  
 UNIT 
 5 Questions  
@@ -3036,22 +2624,16 @@ Each Question carries 20
 Marks  
 Module  numbers Instructions 
  
- 
 UNIT I 
 I  
 All Questions Compulsory  II 
 III 
 IV 
  
- 
- 
 Back 
   
-
 ## Page 73
 
- 
- 
 Format No: FMCD2009 /1.0  73 
  
 Program: MBA 
@@ -3102,22 +2684,15 @@ Control, PHI
 
 ## Page 74
 
- 
- 
 Format No: FMCD2009 /1.0  74 
   
- 
- 
- 
 Scheme for Semester End Examination (ESA) 
- 
  
 UNIT 
 5 Questions  
 Each Question carries 20 
 Marks  
 Module  numbers Instructions 
- 
  
 UNIT I 
 I  
@@ -3126,15 +2701,10 @@ III
 IV 
 V 
  
-      
 Back 
  
-  
-
 ## Page 75
 
- 
- 
 Format No: FMCD2009 /1.0  75 
 Program: MBA 
 Course Title:  Derivatives &Risk 
@@ -3183,24 +2753,19 @@ References:
 
 ## Page 76
 
- 
- 
 Format No: FMCD2009 /1.0  76 
  NCFM Derivatives Market, Options Strategies, Currency, Interest Rate & Commodities 
 Market Module downloaded material. 
  Options and Futures & Options Markets by John C Hull, PHI Publication. 
  Financial Derivatives by S SS Kumar, PHI Learning, 2007. 
             
- 
 Scheme for Semester End Examination (ESA) 
- 
  
 UNIT 
 5 Questions  
 Each Question carries 20 
 Marks  
 Module  numbers Instructions 
- 
  
 UNIT I 
 I  
@@ -3209,14 +2774,10 @@ III
 IV 
 V 
  
- 
 Back 
   
-
 ## Page 77
 
- 
- 
 Format No: FMCD2009 /1.0  77 
  
 Program: MBA 
@@ -3263,7 +2824,6 @@ Each Question carries 20
 Marks  
 Module  numbers Instructions 
  
- 
 UNIT I 
 I  
 All Questions Compulsory  II 
@@ -3272,11 +2832,8 @@ IV
 V 
 Back 
  
-
 ## Page 78
 
- 
- 
 Format No: FMCD2009 /1.0  78 
  
 Program: MBA 
@@ -3319,20 +2876,16 @@ Each Question carries 20
 Marks  
 Module  numbers Instructions 
  
- 
 UNIT I 
 I  
 All Questions Compulsory  II 
 III 
 IV 
  
- 
 Back 
 
 ## Page 79
 
- 
- 
 Format No: FMCD2009 /1.0  79 
 Human Resource 
 Course Title: Learning and Development Course Code: 20MBAE821 
@@ -3372,13 +2925,11 @@ Advantage for your organisation, Kogan Page Limited (2007).
 Delhi. 
  Rao T.V, Performance Appraisal – Theory and Practice. 
  
- 
 Scheme for Semester End Examination (ESA) 
   
 5 Questions  
 Each Question carries 20 Marks  
 Module  numbers Instructions 
- 
  
 UNIT I 
 I  
@@ -3389,12 +2940,8 @@ V
   
 Back 
  
-  
-
 ## Page 80
 
- 
- 
 Format No: FMCD2009 /1.0  80 
 Program: MBA 
 Course Title: Legal Aspects of Employment Course Code: 20MBAE822 
@@ -3428,7 +2975,6 @@ References:
  Mishra S.N, Labour and Industrial Laws, Central Law Publications, Allahabad. 
  Taxman’s Labour new Labour and Industrial Laws with draft rules, 2023 
      
- 
 Scheme for Semester End Examination (ESA) 
  
 UNIT 
@@ -3436,7 +2982,6 @@ UNIT
 Each Question carries 20 
 Marks  
 Module  numbers Instructions 
- 
  
 UNIT I 
 I  
@@ -3447,11 +2992,8 @@ V
  
 Back 
  
-
 ## Page 81
 
- 
- 
 Format No: FMCD2009 /1.0  81 
 Program: MBA  
 Course Title: HR Operations Course Code: 24MBAE823 
@@ -3492,15 +3034,8 @@ Applications, and Future Directions, SAGE Publications
  Piyali Ghosh, ShefaliNandan,  Industrial Relations and Labour Laws, McGraw Hill Education 
 (India) Private Ltd. 
        
- 
- 
- 
- 
-
 ## Page 82
 
- 
- 
 Format No: FMCD2009 /1.0  82 
 Scheme for Semester End Examination (ESA) 
  
@@ -3510,23 +3045,16 @@ Each Question carries 20
 Marks  
 Module  numbers Instructions 
  
- 
 UNIT I 
 I  
 All Questions Compulsory  II 
 III 
 IV 
  
- 
 Back 
  
- 
-  
-
 ## Page 83
 
- 
- 
 Format No: FMCD2009 /1.0  83 
 Program: MBA 
 Course Title:  Emerging Trends in HR 
@@ -3573,11 +3101,9 @@ Each Question carries 20
 Marks  
 Module  numbers Instructions 
  
- 
 UNIT I 
 I  
 All Questions Compulsory  
- 
  
 Back 
 II 
@@ -3587,11 +3113,7 @@ V
 
 ## Page 84
 
- 
- 
 Format No: FMCD2009 /1.0  84 
- 
- 
  
 Program: MBA 
 Course Title: Talent& Competency 
@@ -3629,8 +3151,6 @@ References
 
 ## Page 85
 
- 
- 
 Format No: FMCD2009 /1.0  85 
 2. Dessler, Gary, Human Resource Management, Pearson Education  
 3. Mathi, Robert, and John Jackson, Human Resource Management, Thomson Learning Inc  
@@ -3641,8 +3161,6 @@ Practices,2013, Grin Verlag   Back
 6. Sanghi, Seema. The Handbook of Competency Mappi ng: Understanding, Designing and 
 Implementin 
  
- 
- 
 Scheme for Semester End Examination (ESA 
  
 UNIT 
@@ -3650,7 +3168,6 @@ UNIT
 Each Question carries 20 
 Marks  
 Module  numbers Instructions 
- 
  
 UNIT I 
 I  
@@ -3660,24 +3177,8 @@ IV
 V 
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 86
 
- 
- 
 Format No: FMCD2009 /1.0  86 
 Program: MBA 
 Course Title: Team Development and 
@@ -3724,15 +3225,9 @@ References:
  Fred Luthons, Organizational Behavior, 10th edition, McGraw-Hill.  
  Stephen Robbins, Organizational Behavior, 11th edition, Prentice Hall of India. 
     
- 
- 
-
 ## Page 87
 
- 
- 
 Format No: FMCD2009 /1.0  87 
- 
  
 Scheme for Semester End Examination (ESA) 
  
@@ -3741,7 +3236,6 @@ UNIT
 Each Question carries 20 
 Marks  
 Module  numbers Instructions 
- 
  
 UNIT I 
 I  
@@ -3752,11 +3246,8 @@ V
  
 Back 
   
-
 ## Page 88
 
- 
- 
 Format No: FMCD2009 /1.0  88 
  
 Program: MBA 
@@ -3805,8 +3296,6 @@ Charts.
 
 ## Page 89
 
- 
- 
 Format No: FMCD2009 /1.0  89 
   
 References: 
@@ -3820,13 +3309,11 @@ A. Huselid, Mark A Huselid, David Ulrich, 2001.
  
   Scheme for Semester End Examination (ESA) 
  
- 
 UNIT 
 5 Questions  
 Each Question carries 20 
 Marks  
 Module  numbers Instructions 
- 
  
 UNIT I 
 I  
@@ -3835,15 +3322,10 @@ III
 IV 
 V 
  
-  
  Back 
  
-  
-
 ## Page 90
 
- 
- 
 Format No: FMCD2009 /1.0  90 
 Program: MBA 
 Course Title: Emotional Intelligence in 
@@ -3889,16 +3371,9 @@ Bantam, 2006
  Ciarrochi, J., Forgas, J. P ., & Mayer, J. D., Emotional Intelligence in Everyday Life (2nd 
 Edition). New York Psychology Press, Inc, 2006 
  
-     
- 
- 
-
 ## Page 91
 
- 
- 
 Format No: FMCD2009 /1.0  91 
- 
  
 Scheme for Semester End Examination (ESA) 
  
@@ -3908,7 +3383,6 @@ Each Question carries 20
 Marks  
 Module  numbers Instructions 
  
- 
 UNIT I 
 I  
 All Questions Compulsory  II 
@@ -3916,14 +3390,10 @@ III
 IV 
 V 
  
-    
                                                                                                                                                                 Back 
   
-
 ## Page 92
 
- 
- 
 Format No: FMCD2009 /1.0  92 
  
 Program: MBA 
@@ -3971,12 +3441,8 @@ Organizations Pearson 2017
 Sage 2011  
 P . G. Aquinas Organization Structure and Design: Applications and Challenges Excel 2008  
        
-    
-
 ## Page 93
 
- 
- 
 Format No: FMCD2009 /1.0  93 
 Scheme for Semester End Examination (ESA) 
  
@@ -3986,7 +3452,6 @@ Each Question carries 20
 Marks  
 Module  numbers Instructions 
  
- 
 UNIT I 
 I  
 All Questions Compulsory  II 
@@ -3994,15 +3459,10 @@ III
 IV 
 V 
  
-   
 Back 
  
-  
-
 ## Page 94
 
- 
- 
 Format No: FMCD2009 /1.0  94 
 Operations 
 Program: MBA 
@@ -4044,13 +3504,8 @@ Pearson/PHI, 4th Edition, 2011
  Coyle J, C John Langley, Gibson B, Novack R and Bardi E. A Logistics Approach to Supply 
 Chain Management, Cengage Learning India Pvt Ltd 
    
- 
- 
-
 ## Page 95
 
- 
- 
 Format No: FMCD2009 /1.0  95 
  
 Scheme for Semester End Examination (ESA) 
@@ -4061,42 +3516,15 @@ Each Question carries 20
 Marks  
 Module  numbers Instructions 
  
- 
 UNIT I 
 I  
 All Questions Compulsory  II 
 III 
  
- 
-           
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 96
 
- 
- 
 Format No: FMCD2009 /1.0  96 
 Program: MBA 
 Course Title: Service Operations 
@@ -4144,7 +3572,6 @@ Each Question carries 20
 Marks  
 Module  numbers Instructions 
  
- 
 UNIT I 
 I  
 All Questions Compulsory  II 
@@ -4154,11 +3581,8 @@ V
  
       Back 
  
-
 ## Page 97
 
- 
- 
 Format No: FMCD2009 /1.0  97 
 Program: MBA 
 Course Title: Project Management Course Code: 20MBAE833 
@@ -4204,7 +3628,6 @@ Each Question carries 20
 Marks  
 Module  numbers Instructions 
  
- 
 UNIT I 
 I  
 All Questions Compulsory  II 
@@ -4212,13 +3635,8 @@ III
 IV 
 V 
  
-   
-      
-
 ## Page 98
 
- 
- 
 Format No: FMCD2009 /1.0  98 
 Program: MBA 
 Course Title: Inventory Management Course Code: 20MBAE834 
@@ -4258,16 +3676,9 @@ References
  Max Muller, Essentials of Inventory Management 
  Narasimhan Sitaraman and McLeavey Dennis, Production Planning and Inventory Control 
       
- 
- 
- 
-
 ## Page 99
 
- 
- 
 Format No: FMCD2009 /1.0  99 
- 
  
 Scheme for Semester End Examination (ESA) 
  
@@ -4276,7 +3687,6 @@ UNIT
 Each Question carries 20 
 Marks  
 Module  numbers Instructions 
- 
  
 UNIT I 
 I  
@@ -4287,12 +3697,8 @@ V
      
 Back 
  
-  
-
 ## Page 100
 
- 
- 
 Format No: FMCD2009 /1.0  100 
 Program: MBA 
 Course Title: Logistics & Warehouse 
@@ -4335,14 +3741,8 @@ ConceptsLaxmi Publications (2015)
  Christopher, M; Richard Irwin Logistics and Supply Chain Management 
  Chopra and Mendal, Supply Chain Management 
     
- 
- 
- 
-
 ## Page 101
 
- 
- 
 Format No: FMCD2009 /1.0  101 
    
 Scheme for Semester End Examination (ESA) 
@@ -4353,7 +3753,6 @@ Each Question carries 20
 Marks  
 Module  numbers Instructions 
  
- 
 UNIT I 
 I  
 All Questions Compulsory  II 
@@ -4361,15 +3760,10 @@ III
 IV 
 V 
      
-    
 Back 
  
-  
-
 ## Page 102
 
- 
- 
 Format No: FMCD2009 /1.0  102 
 Business Analytics 
  
@@ -4418,11 +3812,8 @@ References:
 BhimasankaramPochiraju, Sridhar Seshadri, Springer. 
  Introduction to Data Science, Laura Igual Santi Seguí, Springer.  
  
-
 ## Page 103
 
- 
- 
 Format No: FMCD2009 /1.0  103 
  
 Scheme for Semester End Examination (ESA) 
@@ -4433,7 +3824,6 @@ Each Question carries 20
 Marks  
 Module  numbers Instructions 
  
- 
 UNIT I 
 I  
 All Questions Compulsory  II 
@@ -4441,53 +3831,10 @@ III
 IV 
 V 
      
- 
-            
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 104
 
- 
- 
 Format No: FMCD2009 /1.0  104 
 Program: MBA 
 Course Title:  Introduction to Python Course Code:  24MBAE843 
@@ -4514,8 +3861,6 @@ Framework for building ML Systems, Introduction to deep learning, neural network
 
 ## Page 105
 
- 
- 
 Format No: FMCD2009 /1.0  105 
 Module 4:          
 Supervised Learning: Introduction to classification, Linear Regression, Metrics for evaluating linear 
@@ -4535,12 +3880,6 @@ References:
 Kumar Das ,Pearson Publication 1st Edition ,2018 
  Business Analytics: The Science of Data driven decision making, U Dinesh Kumar, Wiley 
  
-    
- 
- 
- 
- 
-        
 Scheme for Semester End Examination (ESA) 
  
 UNIT 
@@ -4549,7 +3888,6 @@ Each Question carries 20
 Marks  
 Module  numbers Instructions 
  
- 
 UNIT I 
 I  
 All Questions Compulsory  II 
@@ -4557,27 +3895,10 @@ III
 IV 
 V 
      
-  
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 106
 
- 
- 
 Format No: FMCD2009 /1.0  106 
 Program: MBA 
 Course Title: Data Visualization using Power 
@@ -4610,8 +3931,6 @@ Desktop, Loading Data in Power BI Desktop, Views in Power BI Desktop, Query Edit
 
 ## Page 107
 
- 
- 
 Format No: FMCD2009 /1.0  107 
 Module 4:          
 Data Transformation : 
@@ -4631,7 +3950,6 @@ visualization principles.
  "Data Points: Visualization That Means Something" by Nathan Yau: Explores the principles 
 of meaningful data visualization. 
         
- 
 Scheme for Semester End Examination (ESA) 
  
 UNIT 
@@ -4640,7 +3958,6 @@ Each Question carries 20
 Marks  
 Module  numbers Instructions 
  
- 
 UNIT I 
 I  
 All Questions Compulsory  II 
@@ -4648,32 +3965,10 @@ III
 IV 
 V 
      
-     
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 108
 
- 
- 
 Format No: FMCD2009 /1.0  108 
  
 Program: MBA 
@@ -4703,8 +3998,6 @@ Model: Introduction, Basic E-R Concepts-Entities, relationship, Attributes & con
 
 ## Page 109
 
- 
- 
 Format No: FMCD2009 /1.0  109 
 Module 4:  
 Introduction to SQL  : 
@@ -4735,7 +4028,6 @@ Each Question carries 20
 Marks  
 Module  numbers Instructions 
  
- 
 UNIT I 
 I  
 All Questions Compulsory  II 
@@ -4743,30 +4035,10 @@ III
 IV 
 V 
      
-          
 Back 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 110
 
- 
- 
 Format No: FMCD2009 /1.0  110 
  
 Program: MBA 
@@ -4799,8 +4071,6 @@ Introduction to AP. Formulation of AP and obtaining optimum solution using Hunga
 
 ## Page 111
 
- 
- 
 Format No: FMCD2009 /1.0  111 
 Module 4:  
 Game &Queuing Theory: 
@@ -4831,7 +4101,6 @@ and Implementation ,Jossey-Bass publication , 4th edition , 2015
  U Dinesh Kumar. Business Analytics: The Science of Data-Driven Decision Making. 
 Wiley India, 2017 
  
-      
 Scheme for Semester End Examination (ESA) 
  
 UNIT 
@@ -4840,7 +4109,6 @@ Each Question carries 20
 Marks  
 Module  numbers Instructions 
  
- 
 UNIT I 
 I  
 All Questions Compulsory  II 
@@ -4848,6 +4116,5 @@ III
 IV 
 V 
      
-      
  Back 
  

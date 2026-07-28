@@ -1,10 +1,9 @@
 # PDF Document: Mandatory-Disclosure-Edited
+
 **PDF Source:** https://www.kletech.ac.in/pdf/Mandatory-Disclosure-Edited.pdf
 
 ## Page 1
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -13,20 +12,13 @@ B. V. B. College of Engineering & Technology
 MANDATORY DISCLOSURES  
 (University Documents G.O. No: ED/387/URC/2022 dated 6th March 2023) 
  
- 
- 
 KLE Technological University 
 Vidyanagar, Hubballi -580031 
 Tel. No.: 0836 2378123, 2378103 
 Email: registrar@kletech.ac.in, Website: www.kletech.ac.in 
  
-  
-
-
 ## Page 2
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -91,8 +83,6 @@ Complete information
 
 ## Page 3
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -151,8 +141,6 @@ along with holder details and assigned work
 
 ## Page 4
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -172,11 +160,8 @@ Scholarships, free education, hostel facilities
 259 
 28 Details of all MoUs signed (in PDF format) 260-508 
  
-
 ## Page 5
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -188,14 +173,8 @@ Following documents are shared/attached:
  KLE Technological University Statutes  
  KLE Technological University Rules and Regulation for all courses 
  
- 
- 
- 
-
 ## Page 6
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -207,12 +186,8 @@ Following documents are shared/attached:
  Annual Budget 2023-24 Soft Copy  
  Annual Budget 2022-23 Soft Copy 
  
- 
-
 ## Page 7
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -222,12 +197,8 @@ Following documents are shared/attached:
  Annual Report 2020-21 & 2021-22 
  Audit Report 2020-21 & 2021-22 
  
- 
-
 ## Page 8
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -242,12 +213,8 @@ Following documents are shared/attached:
  Academic Council Details and MOM 
  Finance Council Details and MOM 
  
- 
-
 ## Page 9
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -298,8 +265,6 @@ e
 
 ## Page 10
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -321,8 +286,9 @@ E-Books:
 B 
 Number of journals both national and 
 International 
-#Journals 
+
 #National #International 
+
 49 24637 
 C Digital Library facility with number of nodes and 
 video lectures 
@@ -355,8 +321,6 @@ Intranet: Backbone 10Gbps*
 
 ## Page 11
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -369,13 +333,10 @@ intercom Telephone facility.
 Every school and department is also provided 
 with access to WIFI facility.  
  
- 
 Note: Entire Campus Infrastructure photos (Sample) are attached below:  
 
 ## Page 12
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -384,14 +345,8 @@ Main Building:
  
 School of Computer Science & Engineering: 
  
- 
- 
-
-
 ## Page 13
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -400,13 +355,8 @@ School of Mechanical Engineering:
  
 School of Electronics & Communication Engineering: 
  
- 
-
-
 ## Page 14
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -415,51 +365,25 @@ Biotechnology Department & School of Advanced Science:
  
 KLE Technology Park and Alumni Office: 
  
-
-
 ## Page 15
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
 B. V. B. College of Engineering & Technology 
 School of Management and Commerce: 
  
-
-
 ## Page 16
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
 B. V. B. College of Engineering & Technology 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 Details of Department wise Movable Properties 
  
- 
-
 ## Page 17
 
-  
- 
 37 
  
 3.0 Equipment/Computer Details (Details of Cost) 
@@ -502,11 +426,8 @@ Sl No School/Department No of Equipments/Items Amount in (₹)
 10 Department of Physics 03 75,300.00 
  Total Amount 84 3,39,40,270.50 
  
-
 ## Page 18
 
-  
- 
 38 
  
 Table: 3.3 Details of Equipment School/Department wise (Academic Year: 2017-18) 
@@ -551,11 +472,8 @@ Sl No School/Department No of Equipment’s/Items Amount in (₹)
 9 School of Management Studies and Research 06 4,53,107.00 
  Total Amount 68 1,90,82,740.54 
  
-
 ## Page 19
 
-  
- 
 39 
  
 Table: 3.6 Details of Equipment School/Department wise Procured (Before July 2015) 
@@ -572,14 +490,8 @@ Sl No School/Department No of Equipment’s/Items Amount in (₹)
 10 Department of Chemistry 46 16,01,600.00 
  Total Amount 232 6,55,46,486.00 
  
- 
- 
- 
-
 ## Page 20
 
-  
- 
 40 
  
 3.1. Name of the School/Department: School of Architecture 
@@ -626,11 +538,8 @@ Year
 13 Zebronics SMPS, Keyboards 10,128.00 
 14 Ceramic  Green Black Boards for Studios-3 nos 39,900.00 
  
-
 ## Page 21
 
-  
- 
 41 
  
 Table 3.1.3: Details of Equipments Procured during the Academic Year 2017-18 
@@ -678,11 +587,8 @@ Equipment and  Computers Cost
 16 Tray from drafting table 14,160.00 
 17 Photoshop software for Comp Lab 1,32,160.00 
  
-
 ## Page 22
 
-  
- 
 42 
  
 Table 3.1.5: Details of Equipments Procured during the Academic Year 2019-20 
@@ -715,11 +621,8 @@ Major Equipment and  Computer Cost
 4 Drafting Table Tops – 100 nos 57,250.00 
 5 Drawing Tables- 20 for studios 83,585.00 
  
-
 ## Page 23
 
-  
- 
 43 
  
 3.2. Name of the School/Department: Department of Automation & Robotics 
@@ -764,8 +667,6 @@ Year
 
 ## Page 24
 
-  
- 
 44 
  
 Year 
@@ -808,11 +709,8 @@ Year
 6 Sensors 5,31,00.00 
 7 Voltera,Drillattachment,Rivets ,solder apst,Cartridge Bundle 6,25,477.00 
  
-
 ## Page 25
 
-  
- 
 45 
  
 Table 3.2.5: Details of Equipments Procured during the Academic Year 2019-20 
@@ -840,23 +738,8 @@ Raspberry pi ,Arduino mega Templates ,conductive link cartridge
 14 HP Laptop 67,201.00 
 15 Hitachi LED Smart 140cm 34,994.00 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 26
 
-  
- 
 46 
  
 3.3. Name of the School/Department: Department of Biotechnology 
@@ -902,8 +785,6 @@ control panel & Air compressor
 
 ## Page 27
 
-  
- 
 47 
  
 Year 
@@ -953,8 +834,6 @@ Major Equipment and  Computer Cost
 
 ## Page 28
 
-  
- 
 48 
  
 Year 
@@ -996,11 +875,8 @@ Major Equipment and  Computer Cost
 50 Computers HP 280 G1MT (16 Nos) 4,60,000.00 
 51 Compaq-Presario Computers (18 Nos) 6,22,800.00 
  
-
 ## Page 29
 
-  
- 
 49 
  
 3.4. Name of the School/Department: School of Civil Engineering and Environment 
@@ -1052,8 +928,6 @@ update 9,99,410.00
 
 ## Page 30
 
-  
- 
 50 
  
 Year 
@@ -1111,10 +985,7 @@ projector screen 6*8
 
 ## Page 31
 
-  
- 
 51 
- 
  
 Table 3.4.4: Details of Equipments Procured during the Academic Year 2018-19 
 Year 
@@ -1166,8 +1037,6 @@ Vibrators
 
 ## Page 32
 
-  
- 
 52 
  
 Year 
@@ -1209,16 +1078,8 @@ gauge01x25mm (06-09-2013)
 35 Impact of jet on vanes 37,968.00 
 36 Centrifugal pump (10Hp) for lifting of water 3,600.00 
  
- 
- 
- 
- 
- 
-
 ## Page 33
 
-  
- 
 53 
  
 3.5. School of Computer Science and Engineering 
@@ -1259,14 +1120,9 @@ Cost
 3 HP Workstation R7082303DC 5,95,360.00 
 4 UPS withbatteries 1,35,000.00 
  
- 
-
 ## Page 34
 
-  
- 
 54 
- 
  
 Table 3.5.4: Details of Equipments Procured during the Academic Year 2018-19 
 Year 
@@ -1316,8 +1172,6 @@ Before July ‘2015 Major Equipment and  Computer Cost
 
 ## Page 35
 
-  
- 
 55 
  
 Year 
@@ -1333,12 +1187,8 @@ Before July ‘2015 Major Equipment and  Computer Cost
 13 Sharp AR 5620 Digital Copier/Printer/Scanner 67,000.00 
 14 Sharp AR 5620 Digital Copier/Printer/Scanner 67,000.00 
  
- 
-
 ## Page 36
 
-  
- 
 56 
  
 3.6. School of Electronics and Communication Engineering 
@@ -1383,8 +1233,6 @@ Cost
 
 ## Page 37
 
-  
- 
 57 
  
 Year 
@@ -1434,8 +1282,6 @@ Cost
 
 ## Page 38
 
-  
- 
 58 
  
 Year 
@@ -1480,16 +1326,8 @@ Cost
 85,080.00 
 24 CPLD/FPA Kits 1,45,749.00 
  
- 
- 
- 
- 
- 
-
 ## Page 39
 
-  
- 
 59 
  
 3.7. Name of the School/Department: Department of Electrical and Electronics 
@@ -1545,8 +1383,6 @@ Microcontroller Kit  (10)
 
 ## Page 40
 
-  
- 
 60 
  
 Year 
@@ -1606,8 +1442,6 @@ USB cable pin out (10No)
 
 ## Page 41
 
-  
- 
 61 
  
 Year 
@@ -1671,8 +1505,6 @@ to R- Load this unit consist of control ckt. and power
 
 ## Page 42
 
-  
- 
 62 
  
 Year 
@@ -1722,16 +1554,8 @@ ARM 7 2148 Evaluation Board (10)
 ARM CORTEX M3 Project Board with PROTO PRO Board (5) 
 1,19,458.00 
  
- 
- 
- 
- 
- 
-
 ## Page 43
 
-  
- 
 63 
  
 3.8. Name of the School/Department: School of Mechanical Engineering 
@@ -1785,8 +1609,6 @@ Engineers 9,86,499.00
 
 ## Page 44
 
-  
- 
 64 
  
 Year 
@@ -1839,11 +1661,8 @@ HDD-
 4 ERP Software -SAP Business -Professional user licenses-20  17,32,999.00 
 AMC charge Altair Hyper works Software - 30 licenses 29,33,700.00 
  
-
 ## Page 45
 
-  
- 
 65 
  
 Table 3.8.5: Details of Equipments Procured during the Academic Year 2019-20 
@@ -1907,8 +1726,6 @@ Digital Out Put 24 V,  (1 A) . Allen Bradley 1,54,735.00
 
 ## Page 46
 
-  
- 
 66 
  
 Year 
@@ -1965,8 +1782,6 @@ ELPULS-15 23,32,845.00
 
 ## Page 47
 
-  
- 
 67 
  
 Year 
@@ -1993,12 +1808,8 @@ Disk-03 nos 99,603.00
 48 HP Scanner SJ200-01, Onida 50" LED TV, HP LaserJet Printer M1536, 
 HP Probook 4520S Laptop 1,21,472.00 
  
- 
-
 ## Page 48
 
-  
- 
 68 
  
 3.9. Name of the School/Department: Department of Physics 
@@ -2043,12 +1854,8 @@ Cost
 2 Function Generator 50,218.00 
 3 Ammeter 350.00 
  
- 
-
 ## Page 49
 
-  
- 
 69 
  
 Table 3.9.3: Details of Equipments Procured during the Academic Year 2017-18 
@@ -2078,13 +1885,9 @@ Two way plug keys
 Thermometer 
 1,50,272.00 
  
-
 ## Page 50
 
-  
- 
 70 
- 
  
 3.10 Name of the School/Department: School of Management Studies and Research 
 The following are details of Equipment/Computers purchased by the School/Department from the 
@@ -2131,8 +1934,6 @@ Cost
 
 ## Page 51
 
-  
- 
 71 
  
 Year 
@@ -2163,17 +1964,6 @@ Cost
 12 HP Pro 3330 MT Desktops 2,97,510.00 
 13 HP LaserJet Pro CP1025 Color Printer 14,650.00 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 52
 
 Sl.no Bank Name Account Number Date of opening of 
@@ -2251,8 +2041,6 @@ Account Purpose
 
 ## Page 54
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -2263,55 +2051,25 @@ Following documents are shared/attached below:
 
 ## Page 56
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
 B. V. B. College of Engineering & Technology 
- 
- 
- 
- 
- 
- 
  
 Purchase Orders / Tenders in 2022-23 
  
- 
-
 ## Page 70
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
 B. V. B. College of Engineering & Technology 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Continuing Physical Infrastructure 
 Page under updation 
  
- 
-
 ## Page 71
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -2330,24 +2088,8 @@ www.kletech.ac.in
  Faculty Details (Qualification, Teaching Experience & Professional 
 Experience etc.) 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 72
 
-                                  
-                                 
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
  
@@ -2356,21 +2098,11 @@ B. V. B. College of Engineering & Technology
 KLE Technological University, Hubballi 
 Strategic Plan: 2017- 2022 
  
- 
- 
- 
- 
- 
- 
-  
 VISION 
 MISSION 
 
 ## Page 73
 
-                                  
-                                 
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
  
@@ -2408,19 +2140,13 @@ propel KLE Tech. towards the bright future and compete successfully with the bes
 Your energy, commitment, a nd ideas are key to our success. I look forward to your ongoing 
 support as we continue on this exciting journey. 
  
- 
 Yours sincerely 
- 
  
 Dr. Ashok Shettar 
 Vice-Chancellor 
   
-
 ## Page 74
 
-                                  
-                                 
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
  
@@ -2456,12 +2182,8 @@ heritage of BVB College as one of the be st engineering college combined with br
 KLE Society are the starting points for KLE Technological University to emerge as a University 
 with a national distinction.   
   
-
 ## Page 75
 
-                                  
-                                 
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
  
@@ -2473,16 +2195,11 @@ Strategic Plan: 2016- 2020
  
 Overview 
  
- 
-  
 VISION 
 MISSION 
 
 ## Page 76
 
-                                  
-                                 
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
  
@@ -2511,13 +2228,8 @@ competitiveness and quality of life.
 As a unified community of faculty, staff and students, we work together with the 
 spirit of collaboration and partnership to accomplish our mission. 
  
-  
-
 ## Page 77
 
-                                  
-                                 
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
  
@@ -2529,9 +2241,6 @@ Section-1
 
 ## Page 78
 
-                                  
-                                 
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
  
@@ -2572,9 +2281,6 @@ standards.
 
 ## Page 79
 
-                                  
-                                 
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
  
@@ -2612,18 +2318,13 @@ international best practice
 e. Leverage new delivery models and technologies to provide flexible blended 
 and / or online learning   
  
-
 ## Page 80
 
-                                  
-                                 
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
  
 Earlier known as 
 B. V. B. College of Engineering & Technology 
- 
  
 1.4 Measure and Improve 
  
@@ -2643,12 +2344,8 @@ c) Identify the m eans by which information that results from assessment can
 be used the effectively in course design, curriculum review, and program 
 development 
   
-
 ## Page 81
 
-                                  
-                                 
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
  
@@ -2684,13 +2381,8 @@ c. Enhance research active faculty
 d. Establish metrics to measure and reflect research output and impact 
 using a range of measures at individual and institutional level. 
  
- 
-
 ## Page 82
 
-                                  
-                                 
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
  
@@ -2711,8 +2403,6 @@ b. Ensure that these centers give priority to problem s/opportunity-focused
 projects/products that demonstrate successful interdisciplinary 
 collaboration and address the market needs. 
  
- 
- 
 2.3 Funding 
  
 Objective: 
@@ -2732,18 +2422,11 @@ companies and supporting external entrepreneurs.
 
 ## Page 83
 
-                                  
-                                 
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
  
 Earlier known as 
 B. V. B. College of Engineering & Technology 
- 
- 
- 
- 
  
 2.4 Programs 
  
@@ -2760,12 +2443,8 @@ postgraduate students in University research programs.
 c. Evolve innovative enrollment strategies to recruit a nd support full time 
 researchers and personnel from industry. 
   
-
 ## Page 84
 
-                                  
-                                 
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
  
@@ -2793,13 +2472,8 @@ and ideas. Our work in driving innovation and entrep reneurship in our region
 will be  grounded on a strong entrepreneurial culture among our faculty and 
 students. 
  
-  
-
 ## Page 85
 
-                                  
-                                 
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
  
@@ -2818,8 +2492,6 @@ b. Encourage and support the students to take up projects that have
 distinctive feature of community engagement and benefit the local and 
 regional communities. 
  
- 
- 
 3.2 Institute-Society 
 Objective: 
 Actively engage in advancement of the region through leadership role in the 
@@ -2833,12 +2505,8 @@ applied research and collaboration with appropriate organizations.
 c. Support educational institutions and students in the Region through 
 outreach programs and services to enhance quality of education. 
  
-
 ## Page 86
 
-                                  
-                                 
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
  
@@ -2857,12 +2525,8 @@ c. Promote and support innovation and research by students and faculty
 leading to solutions that address wide range of societal needs and also 
 create value for the new enterprises.  
  
-
 ## Page 87
 
-                                  
-                                 
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
  
@@ -2874,9 +2538,6 @@ Section-2
 
 ## Page 88
 
-                                  
-                                 
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
  
@@ -2911,13 +2572,8 @@ faculty to enhance the relevance of the programs being offered.
  Ensure all staff appointed to research enabl ed positions have a PhD or a 
 Research Development Plan as a condition of employment. 
  
-  
-
 ## Page 89
 
-                                  
-                                 
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
  
@@ -2958,9 +2614,6 @@ benchmark University governance against them.
 
 ## Page 90
 
-                                  
-                                 
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
  
@@ -3000,7 +2653,6 @@ the social and economic development of the region.
  Tie up with national and international professional bodies to constantly 
 learn and adapt world-wide best practices in educational practice. 
  
-
 ## Page 91
 
 Sl .No Emp ID Employee Name Father's Name Date of Joining DESIGNATION Occupation
@@ -3992,8 +3644,6 @@ TURNER) Male 18.5
 
 ## Page 118
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -4016,23 +3666,8 @@ graduate-program
  Fees Structure:  
 https://www.kletech.ac.in/admission/domestic-admission/fee-structure 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 119
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -4043,23 +3678,8 @@ planned
 Following documents are shared/attached below: 
  Academic Calendar 2022-23 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 120
 
- 
 (Established under The KLE Technological University Act 2012, Karnataka Act No.22, 2013)   
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India) 
  
@@ -4072,7 +3692,6 @@ To,
        The Head of School/Department  
        KLE Technological University 
 Hubballi – 580031 
- 
  
 Sub:  Schedule of activities of Examination section to be followed by School /  Dept. for 
 Academic year 2022-23 B.E. 8th Semester 
@@ -4105,10 +3724,8 @@ ESA Start date 15th May 2023
 I Grade list  2 days after completing last scheduled ESA Exam 
 Controller of Examinations  
 
-
 ## Page 121
 
- 
 (Established under The KLE Technological University Act 2012, Karnataka Act No.22, 2013)   
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India) 
  
@@ -4123,7 +3740,6 @@ To,
        KLE Society's Dr. M. S. Sheshgiri, 
 College of Engineering and Technology, 
 Udyambag, Belagavi, - 590008. 
- 
  
 Sub:   Schedule of activities of Examination section to be followed by School / Dept.  for 
  Academic year 2021-22 B.E. & B.Arch. 1st Semester 
@@ -4155,17 +3771,12 @@ Freezing ISA marks in Contineo 5th April 2022
 ESA Start date 11th April 2022 
 I Grade list  2 days after completing last scheduled ESA Exam 
  
- 
- 
-
-
 ## Page 122
 
 Controller of Examinations
 
 ## Page 123
 
- 
 (Established under The KLE Technological University Act 2012, Karnataka Act No.22, 2013)   
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India) 
  
@@ -4178,7 +3789,6 @@ To,
        The Head of School/Department  
        KLE Technological University 
 Hubballi – 580031 
- 
  
 Sub:  Schedule of activities of Examination section to be followed by School / Dept . for 
 Academic year 2022-23 B.E. 6th Sem., B.Arch. 6, 8 & 10, BCA 2 nd & BBA 2nd & 4th 
@@ -4212,10 +3822,8 @@ ESA Start date 29th May 2023
 I Grade list  2 days after completing last scheduled ESA Exam 
 Controller of Examinations  
 
-
 ## Page 124
 
- 
 (Established under The KLE Technological University Act 2012, Karnataka Act No.22, 2013)   
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India) 
  
@@ -4229,7 +3837,6 @@ To,
        KLE Society's Dr. M. S. Sheshgiri, 
 College of Engineering and Technology, 
 Udyambag, Belagavi, - 590008. 
- 
  
 Sub:  Schedule of activities of Examination section to be followed by School / Dept.  for 
 Academic year 2022-23 B.E. 6th Sem., B.Arch. 6, 8 & 10, BCA 2 nd & BBA 2nd & 4th 
@@ -4262,17 +3869,12 @@ Freezing ISA marks in Contineo 22nd May 2023
 ESA Start date 29th May 2023 
 I Grade list  2 days after completing last scheduled ESA Exam 
  
- 
- 
-
-
 ## Page 125
 
 Controller of Examinations
 
 ## Page 126
 
- 
 (Established under The KLE Technological University Act 2012, Karnataka Act No.22, 2013)   
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India) 
  
@@ -4284,7 +3886,6 @@ To,
        The Principal/Head of School/Department  
        KLE Technological University 
 Hubballi & Belagavi Campuses 
- 
  
 Sub:  Schedule of activities of Examination section to be followed by School / Dept . for 
 Academic year 2022-23, 2nd Semesters of MBA, MCA & M.Tech.  
@@ -4317,10 +3918,8 @@ ESA Start date 30 October 2023
 I Grade list  2 days after completing last scheduled ESA Exam 
 Controller of Examinations  
 
-
 ## Page 127
 
- 
 (Established under The KLE Technological University Act 2012, Karnataka Act No.22, 2013)   
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India) 
  
@@ -4334,7 +3933,6 @@ To,
        KLE Society's Dr. M. S. Sheshgiri, 
 College of Engineering and Technology, 
 Udyambag, Belagavi, - 590008. 
- 
  
 Sub:  Schedule of activities of Examination section to be followed by School / Dept.  for 
 Academic year 2022-23 B.E. 6th Sem., B.Arch. 6, 8 & 10, BCA 2 nd & BBA 2nd & 4th 
@@ -4367,17 +3965,12 @@ Freezing ISA marks in Contineo 22nd May 2023
 ESA Start date 29th May 2023 
 I Grade list  2 days after completing last scheduled ESA Exam 
  
- 
- 
-
-
 ## Page 128
 
 Controller of Examinations
 
 ## Page 129
 
- 
 (Established under The KLE Technological University Act 2012, Karnataka Act No.22, 2013)   
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India) 
  
@@ -4389,7 +3982,6 @@ To,
        The Principal/Head of School/Department  
        KLE Technological University 
 Hubballi & Belagavi Campuses 
- 
  
 Sub:  Schedule of activities of Examination section to be followed by School / Dept . for 
 Academic year 2022-23, 4th Semesters MBA, MCA & M.Tech.  
@@ -4423,10 +4015,8 @@ ESA Start date 09 September 2023
 I Grade list  2 days after completing last scheduled ESA Exam 
 Controller of Examinations  
 
-
 ## Page 130
 
- 
 (Established under The KLE Technological University Act 2012, Karnataka Act No.22, 2013)   
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India) 
  
@@ -4440,7 +4030,6 @@ To,
        KLE Society's Dr. M. S. Sheshgiri, 
 College of Engineering and Technology, 
 Udyambag, Belagavi, - 590008. 
- 
  
 Sub:  Schedule of activities of Examination section to be followed by School / Dept.  for 
 Academic year 2022-23 B.E. 6th Sem., B.Arch. 6, 8 & 10, BCA 2 nd & BBA 2nd & 4th 
@@ -4473,18 +4062,12 @@ Freezing ISA marks in Contineo 22nd May 2023
 ESA Start date 29th May 2023 
 I Grade list  2 days after completing last scheduled ESA Exam 
  
- 
- 
-
-
 ## Page 131
 
 Controller of Examinations 
 
 ## Page 132
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -4494,13 +4077,8 @@ Endowment Act, University Endowment Act, General Fund, Development
 Details of funds, journals and industry-sponsored research 
 Documents with above details are shared/attached below: 
  
- 
-  
-
 ## Page 133
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -4553,16 +4131,12 @@ universities
 14.  Architecture 1 0 0 
  Total 116 94 22 
  
-
 ## Page 134
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
 B. V. B. College of Engineering & Technology 
- 
  
 Summary of publications  
 The following table summarizes the number of publications of research work in refereed 
@@ -4591,12 +4165,8 @@ As compared to previous academic year (2020) there are 97 more number of Scopus 
 publications in the academic year 2021. There is good improvement in citations also. In year 
 2022, additionally there are 409 citations in Scopus and 103 citations in Web of Science. 
  
-
-
 ## Page 135
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -4606,20 +4176,15 @@ Index of university is 53 and has increased by 6 as compared to the year 2021. T
 in H – Index of university by 7 in case of   WoS. Current WoS is 44. Following two figures presents 
 trend of h-index and average H – Index of Schools, Departments for Scopus in the last 4 years. 
  
- 
 It is worth noting improvement in quality of publication, there is substantial improvement in Q1 
 and Q2 journal papers in the last two years. 
 
-
 ## Page 136
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
 B. V. B. College of Engineering & Technology 
- 
  
 Number of publications per faculty is 1.0 for Scopus and 0.4 for WoS in 2021, University research 
 is growing by 38.2%. Field weighted citation impact 1.21 (World Avg: 1.00 ). 51.6% growth is seen 
@@ -4630,23 +4195,15 @@ top 10% journal (World Avg: 14.2% ) and 64% of publications are in Q3 & Q4 Quart
 There is very good indication of Collaborations in Research Publication. The following figure 
 presents collaboration at global and national level.  
  
-
-
 ## Page 137
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
 B. V. B. College of Engineering & Technology 
   
-
-
 ## Page 138
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -4665,7 +4222,6 @@ Patents: 2021-22
 • Total Number of Patents Applied:5 
 • Total number of patents published:3 
  
- 
 Research Experience for Undergraduate (REU)  
  
 Undergraduate research opportunities help the student to experience and learn how to identify 
@@ -4681,10 +4237,14 @@ devoted considerable time and effort to make the experience worthwhile and fruit
 Summary of outcome of the REU course is reflected in the following table.  
 Year # REU  students # REU 
 Supervisors 
+
 # of 
+
 Publications 
 from REU 
+
 # REU students  
+
 pursuing PG 
 2017-18  73 68 50 2 
 2018-19  73 60 67 2 
@@ -4692,12 +4252,8 @@ pursuing PG
 2020-21  32 34 21 2 
 2021-22  69 52 25 2 
  
-  
-
 ## Page 139
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -4740,11 +4296,8 @@ Year Total projects Total  amount in Lakhs
 2020-21 24 62.45 
 2021-22 24 53.70 
   
-
 ## Page 140
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -4809,8 +4362,6 @@ Following are the category of funded research initiatives funded under the GEAR 
 
 ## Page 141
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -4833,11 +4384,17 @@ automotive front & rare component applications, Coordinator: Arun Y Patil
 Outcomes of IRPs: 
 Year # Papers Communicated 
 /Published 
+
 # Proof of 
+
 Concepts 
+
 # 
+
 Prototypes 
+
 # of Products # Patents 
+
 applied 
 2018-19 9 Communicated     
 15 Published 
@@ -4871,12 +4428,8 @@ working
 2020-21 6+2 10.5 L 1.27 L 73 50 
 2021-22 9+3 16.5 L  14.5 85 35 
  
-  
-
 ## Page 142
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -4906,8 +4459,6 @@ Foundation, Multi-Disciplinary Research
 Unit (KIMS Hubli). 
  TOTAL 35 673.27  
  
- 
- 
 Summary of External Funding  
 Consolidated list of projects from 2017 to 2022 
  2017-18 2018-19 2019-20 2020-21 2021-22 
@@ -4915,28 +4466,40 @@ Name
 of 
 School/
 Dept. 
+
 # of 
+
 projects 
 Amount in 
 Lakhs 
+
 # of 
+
 project
 s 
+
 # of 
+
 project
 s 
+
 # of 
+
 project
 s 
 Amou
 nt in 
 Lakhs 
+
 # of 
+
 project
 s 
 Amount 
 in Lakhs 
+
 # of 
+
 projec
 ts 
 Amoun
@@ -4961,16 +4524,10 @@ Total 3 66.50 4 165.00 10 149.16 8 160.94 8 101.68
 
 ## Page 143
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
 B. V. B. College of Engineering & Technology 
- 
- 
- 
- 
  
 Samsung Sets Up Cutting Edge Research Lab at KLE Tech University; 
 Students to Work on Real-World AI & Data Engineering Projects 
@@ -5010,8 +4567,6 @@ transform the way we live, work and do business. The Samsung SE ED lab is a grea
 
 ## Page 144
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -5053,14 +4608,8 @@ Sl. No Year # of incentives Total amount in Rs.
 7.  2021-22 14 1,28,000/- 
   Total 18,64,320/- 
  
- 
- 
-  
-
 ## Page 145
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -5105,12 +4654,8 @@ others  12.75 54.42
  TOTAL 282.85 269.18 363.79 187.39 385.97 248.43 490.00 377.05 
 TEQIP 10 7.10 10 33.03 10 -- -- -- 
  
-  
-
 ## Page 146
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -5163,19 +4708,14 @@ Patents filed
  Ceramic membranes for exhaust gas treatment (201641034227) 
  Nanoceramic coating for cement composite (201641034228) 
 
-
 ## Page 147
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
 B. V. B. College of Engineering & Technology 
  Effect of Granite dust on mechanical properties of Cement and sand mortar 
 (201641035851) 
- 
- 
  
 One new research facility is created in collaboration  with SRIB Bangalore, where students works  
 on Real-world AI & data Engineering Projects. Engineers at Samsung R&D Institute, Bangalore will 
@@ -5184,7 +4724,9 @@ Samsung, India’s largest and most trusted  consumer electronics and smartphone
 up a data science lab at KLE  Technological University in Karnataka’s Hubballi  city to strengthen 
 India’s innovation ecosystem,  build capabilities among students that meet  industry needs and 
 promote industry -academia collaboration, furthering Samsung’s commitment  to its vision of 
+
 #PoweringDigitalIndia. 
+
 The lab, called Samsung Student Ecosystem for Engineered Data (SEED) lab, will see students and 
 faculty at KLE Tech work on joint research  projects with engineers at Samsung R&D  Institute, 
 Bangalore (SRI-B), which is Samsung’s largest R&D facility outside Korea, helping find solutions to 
@@ -5200,11 +4742,8 @@ encouraged to publish papers and file patents jointly with SRI-B engineers. All 
 certificates for their contribution at the end of each project from SRI-B. The lab set up at KLE Tech 
 is spread across over  3,000 sq ft and is equipped with facilities such  as a special dark room with 
 
-
 ## Page 148
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -5234,36 +4773,18 @@ Patent)
 Samsung)  
 • Automatic 3D Scene Composition (Filed - US Patent with Samsung)  
  
- 
- 
- 
- 
- 
- 
 Number of students involved 
 Summary of patents 
 
 ## Page 149
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
 B. V. B. College of Engineering & Technology 
  
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 150
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -5284,9 +4805,6 @@ Fully automated Library with state-of-the-art technological applications with a 
 It holds knowledge resources predominantly related to Engineering, Technology, Management, and allied 
 subjects. 
  
- 
- 
- 
 DETAILS OF 
 CATALOGUE 
 RESOURCES VOLUMES TITLES 
@@ -5295,27 +4813,12 @@ JOURNALS BOUND VOLUMES 750 450
 IS CODE 250 153 
  PhD Theses 05 05 
  
- 
- 
- 
-
-
 ## Page 151
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
 B. V. B. College of Engineering & Technology 
- 
- 
- 
- 
- 
- 
- 
- 
  
 DATABASE (NAMES OF ALL SUBSCRIBED JOURNALS, DIGITAL VOLUMES, PRINTED, UNIVERSITY JOURNALS, 
 UNIVERSITY PUBLICATIONS,UNIVERSITY LECTURE PUBLICATIONS) 
@@ -5345,8 +4848,6 @@ SL Open/Free E-Resources
 
 ## Page 152
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -5354,15 +4855,8 @@ B. V. B. College of Engineering & Technology
 3 ERIC Database 
 4 DOAJ 
  
- 
- 
- 
- 
- 
-  
 HARDCOPYOF JOURNALS/MAGAZINES/UNIVERSITY PUBLICATIONS/UNIVERSITY PUBLICATIONS/UNIVERSITY LECTURE 
 PUBLICATIONS 
- 
  
 SL TYPE OF JOURNALS QTY 
 1 NATIONAL JOURNAL 18 
@@ -5383,8 +4877,6 @@ ASCE 37 http://library.kletech.ac.in
 
 ## Page 153
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -5393,11 +4885,6 @@ B. V. B. College of Engineering & Technology
 4 INTERNATIONAL MAGAZINES 5 
 5 NEWS PAPERS 13 
  
- 
- 
- 
- 
- 
 UNIVERSITY QUESTION PAPERS AND ARCHIVES 
  
 Question Papers and Archives is an organized collection of Question Papers,  publications of Faculty and 
@@ -5405,12 +4892,9 @@ Students of KLETU and KLETU related news and activities  are being uploaded on t
 Server using DSPACE and are accessible with the Campus. Digitization process using CZUR  Scanner is 
 being carried out. The URL is: http://10.2.0.91:8080/jspui/ 
  
- 
 DSPACE 
 DIGITAL LIBRARY REPOSITORY SYSTEM 
 http://10.2.0.91:8080/jspui/ 
- 
- 
  
 DETAILS OF LIBRARY TIMINGS 
  
@@ -5418,11 +4902,8 @@ LIBRARY SECTION TIMING
 ISSUE SECTION               8:00 AM TO 8:00 PM 
 REFERENCE SECTION               8:00 AM TO 8:00 PM 
 
-
 ## Page 154
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -5432,9 +4913,6 @@ SATURDAY               8:00 AM TO 5:00 PM
 SUNDAY & HOLIDAY               10:00 AM TO 2:00 PM 
 Note: Books on all working days will be issued and returned from 8:00 am to 8:00 pm. Sunday, also, books 
 will be issued and returned. 
- 
- 
- 
  
 SERVICES AVAILABLE IN THE CENTRAL LIBRARY  
  
@@ -5468,17 +4946,13 @@ SMS and EMAIL Alert Service
 An SMS and EMAIL alert service provides the user community with their library transactions status a nd 
 reminders for overdue. 
  
- 
 Reprographic and Printing Service 
-Photocopy of books with limited pages provided in the central library with minimal fees subject to copyright 
 issues. 
  
 WEB OPAC SERVICES 
 
 ## Page 155
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -5514,8 +4988,6 @@ cloud systems. Through this Central Library has subscribed online resources like
 books.  
   
  
- 
- 
 RESEARCH ASSISTANCE (TECHNOLOGY PLATFORM AND RESEARCH DATABASES) 
  
 Central Library facilitates access to the following subscribed and open source research tools and databases 
@@ -5534,8 +5006,6 @@ official email id. There is an option for using the same license in multiple des
 
 ## Page 156
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -5562,7 +5032,6 @@ ZETERO: It is a free and open source reference management software to manage bib
 related research materials, PDF, Notable features including web browser integration, online syncing 
 generation of in text citations, footnotes and bibliographies. 
  
- 
 LIBRARY AUTOMATION 
 The Library has automated all its services using the Web-based Library Management system CONTINEO LMS, 
 a comprehensive package for routine Library transactions, such as Acquisition, Circulation, Cataloguing, serial 
@@ -5579,13 +5048,10 @@ https://library.kletech.ac.in/
 
 ## Page 157
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
 B. V. B. College of Engineering & Technology 
- 
  
 REMOTE ACCESS SERVICES 
  REMOTE ACCESS:  Remote access to e -resources has been facilitated by library through the 
@@ -5594,12 +5060,8 @@ services of KNIMBUS Digital Library Platform with Remote Access So lution.
  
 KNIMBUS PLATFORM 
  
-
-
 ## Page 158
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -5617,20 +5079,14 @@ REGISTRATION PROCESS
 4.     Also available on Mobile App "mlibrary-Your Mobile eLibrary" (iOS & Android), which can be downloaded 
 from Google Playstore. 
  
- 
 STANDRADS & EXAMINATION DATA/CODE BOOKS  
 Library is having Design  Data Books, Code books, which are required for Examination are added and 
 updated according to student strength and requirement. These books will be supplied to the examination 
 room on examination dates, room invigilators are the accountability of these books after the examination 
 over on the day, and they have to submit to the library immediately. 
  
- 
- 
-
 ## Page 161
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -5657,15 +5113,8 @@ Average Compensation in the last three years
 Year1 Year2 Year3 
 5.35 Lakhs 5.94 Lakhs 6.13 Lakhs 
  
- 
- 
- 
- 
-
 ## Page 162
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -5675,8 +5124,6 @@ B. V. B. College of Engineering & Technology
 membership details available in the below mentioned link: 
  https://www.bvbkletechalumni.org/ 
  
- 
-
 ## Page 163
 
 Programme name Program Code List of students undertaking field 
@@ -7785,8 +7232,6 @@ ABHISHEK D POTDAR
 
 ## Page 202
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -7802,32 +7247,18 @@ engineering/15
  List of Full-time Ph.D holders & their details in the University 
  List of Ph.D students and their details 
  
- 
-
 ## Page 203
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
 B. V. B. College of Engineering & Technology 
 23. Details International cell for students 
  
- 
- 
- 
- 
- 
- 
 Page under updation 
  
- 
-
 ## Page 204
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -7842,8 +7273,6 @@ o Centre for Centre for Innovation and Product Development (CIPD)
 o https://www.klectie.com/ 
 o http://cipd.kletech.ac.in/ 
  
- 
-
 ## Page 205
 
 SARTUP INNOVATION ECHO-SYSTEM: 
@@ -7885,8 +7314,6 @@ faculty, and start-ups
 
 ## Page 206
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -7899,12 +7326,8 @@ Following Documents are shared/attached below:
  Scholarship/Free ships Statistics (Excel Table) 
  Details of Hostel Facility 
  
- 
-
 ## Page 207
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -8012,15 +7435,12 @@ children 100 5999591.25
 
 ## Page 210
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
 B. V. B. College of Engineering & Technology 
  
 HOSTEL DETAILS 
- 
  
 Sl. No.     Name of the Hostel   Capacity 
  
@@ -8031,14 +7451,11 @@ Sl. No.     Name of the Hostel   Capacity
 5   SHARAVATI Girls Hostel   224 
 6   VINDHYA1 Boys Hostel    212 
  
- 
-
 ## Page 211
 
 2 | P a g e 
  
 _______________________________________________________________________________ 
- 
  
 Redressal of Student Grievances 
  
@@ -8081,7 +7498,6 @@ vindictive manner towards any of them for any reason.
  
 _______________________________________________________________________________ 
  
- 
 DEFINITIONS  
 Grievance: Grievance means a formal complaint –includes any kind of discontent or dissatisfaction or 
 negative perception, whether expressed or not, arising out of anything connected with University that a 
@@ -8118,8 +7534,6 @@ Dean-Student
 Affairs 
 Member dean_sw@kletech.ac.in  
  
- 
-
 ## Page 213
 
 4 | P a g e 
@@ -8163,7 +7577,6 @@ The staff and students can register their complaints through arc@kletech.ac.in
 
 5 | P a g e 
  
- 
 Functions of Anti-Ragging Committee 
  
 1. To ensure compliance with the provision of these regulations and any law for the 
@@ -8197,14 +7610,9 @@ regard to punishment or otherwise, depending on the facts of each incident of ra
 and nature and gravity of the incident of ragging established in the recommendations 
 of the Anti-Ragging Committee. 
  
- 
- 
-
 ## Page 215
 
 6 | P a g e 
- 
- 
  
 2.  The Anti-Ragging Committee depending on the nature and gravity of the guilt will follow 
 up the punishment based on the committee’s decision.  
@@ -8223,33 +7631,9 @@ also consequent admission to any other institution
  Registration of FIR against the accused and Prosecution under the Indian Penal 
 Code, 1860. 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 216
 
 7 | P a g e 
- 
- 
-  
  
 Anti-Sexual Harassment Committee 
 (Internal Complaint Committee) 
@@ -8284,11 +7668,9 @@ Communication Engineering Member Secretary
  
 The staff and students can register their complaints through ash@kletech.ac.in 
  
-
 ## Page 217
 
 8 | P a g e 
- 
  
 Objectives 
  To develop guidelines and norms for policies against sexual harassment 
@@ -8301,8 +7683,6 @@ aiming at ensuring support services to the  victimize
 
 ## Page 218
 
-                                                                  
- 
 B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia)  
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -8313,21 +7693,6 @@ B. V. B. College of Engineering & Technology
 all the programmes are offered through LMS –Learning Management 
 System) 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 219
 
 Organisation with which MoU is 

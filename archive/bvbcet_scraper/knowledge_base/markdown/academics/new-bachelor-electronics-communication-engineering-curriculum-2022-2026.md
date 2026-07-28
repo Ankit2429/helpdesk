@@ -1,39 +1,20 @@
 # PDF Document: new-bachelor-electronics-communication-engineering-curriculum-2022-2026
+
 **PDF Source:** https://www.kletech.ac.in/pdf/new-bachelor-electronics-communication-engineering-curriculum-2022-2026.pdf
 
 ## Page 1
 
- 
- 
          KLE Tech Confidential                CONTROLLED COPY                                
                                                                                 
-                                             
-   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
                 Curriculum Structure and Curriculum Content for the Batch – 2022-26 
 School /Department: Electronics & Communication Engineering 
 Program: Bachelor of Engineering 
 
 ## Page 2
 
- 
- 
 KLE Tech Confidential                            CONTROLLED COPY                                                                                               
                                                 
-       
 Table of Contents 
- 
  
 Curriculum Structure-Overall ........................................................................................ 9 
 Curriculum Structure-Semester wise ............................................................................ 11 
@@ -49,16 +30,10 @@ List of Open Electives .........................................................
 List of Program Electives ............................................................................................ 19 
 Curriculum Content- Course wise ................................................................................ 22 
  
- 
-  
-
 ## Page 3
 
- 
- 
 KLE Tech Confidential                            CONTROLLED COPY                                                                                               
                                                 
-       
 Vision and Mission of KLE Technological University 
 Vision 
  
@@ -76,7 +51,6 @@ The three-fold mission of the University is:
 experiential learning environment enriched by high quality instruction that 
 prepares students to succeed in their lives and professional careers. 
  
- 
 • To enable and grow disciplinary and inter-disciplinary areas of research that 
 build on present strengths and future opportunities aligning with areas of 
 national strategic importance and priority. 
@@ -88,21 +62,16 @@ competitiveness and quality of life.
 As a unified community of faculty, staff and students, we work together with the 
 spirit of collaboration and partnership to accomplish our mission. 
   
-
 ## Page 4
 
- 
- 
 KLE Tech Confidential                            CONTROLLED COPY                                                                                               
                                                 
-       
 Vision and Mission Statements of the School / Department 
 Vision 
  
 KLE Tech -School of Electronics and Communication will be well recognized 
 nationally and internationally for excellence in its educational programs, pioneering 
 research and impact on the industry and society. 
- 
  
 Mission 
  
@@ -117,12 +86,8 @@ humanity and society.
 
 ## Page 5
 
- 
- 
          KLE Tech Confidential                CONTROLLED COPY                                
                                                                                 
-                                             
-   
 Program Educational Objectives/Program Outcomes and Program-Specific Objectives 
 Program Educational Objectives -PEO’s 
 1. Graduates will demonstrate peer - recognized technical competency to 
@@ -152,11 +117,8 @@ components or processes that meet the specified needs with appropriate
 
 ## Page 6
 
- 
- 
 KLE Tech Confidential                            CONTROLLED COPY                                                                                               
                                                 
-       
 consideration for public health and safety, whole -life cost, net zero carbon, 
 cultural, societal, and environmental considerations. 
 PO4: Conduct investigations of complex problems:  
@@ -185,11 +147,8 @@ engineering community and with t h e society at large, such as, being able to
 
 ## Page 7
 
- 
- 
 KLE Tech Confidential                            CONTROLLED COPY                                                                                               
                                                 
-       
 comprehend and write effective reports and design documentation, make 
 effective presentations considering cultural, language, and learning 
 differences. 
@@ -212,15 +171,11 @@ development of VLSI circuits/systems.
 PSO 3: An ability to use appropriate modern techniques for analysis, design 
 and development of Communication components/systems. 
  
- 
-
 ## Page 8
 
- 
 FORM 
 ISO 21001:2018 
 Document #: FMCD2004 
- 
  
 Rev: 1.0 
 Title:  Curriculum structure semester wise Year:2022-26 
@@ -229,19 +184,14 @@ Title:  Curriculum structure semester wise Year:2022-26
                                                     8  
 Curriculum structure 2022-26 
  
-
-
 ## Page 9
 
- 
 FORM 
 ISO 21001:2018 
 Document #: FMCD2004 
  
- 
 Rev: 1.0 
 Title:  Curriculum structure semester wise Year:2022-26 
- 
  
 KLE Tech Confidential                             CONTROLLED COPY                                                                                               
                                                                                          9 
@@ -406,18 +356,14 @@ P3: Senior
 Design Project 
 (20EECW401) 
  
-
 ## Page 10
 
- 
 FORM 
 ISO 21001:2018 
 Document #: FMCD2004 
  
- 
 Rev: 1.0 
 Title:  Curriculum structure semester wise Year:2022-26 
- 
  
 KLE Tech Confidential                             CONTROLLED COPY                                                                                               
                                                                                          10 
@@ -442,7 +388,6 @@ Networks I Lab
 CIPE 
  (15EHSC402) 
  
-  
 PCL2: Analog 
 Electronic 
 Circuits Lab  
@@ -473,7 +418,6 @@ PCL4: ARM
 Microcontroller 
 Lab (22EECP204) 
   
-  
    PCL3: Data 
 Structure 
 Applications Lab 
@@ -485,26 +429,20 @@ Structure Lab
     
 Credits 21 23 25.5 24.5 24 24 21 17 
  
-  
-
 ## Page 11
 
- 
 FORM 
 ISO 21001:2018 
 Document #: FMCD2004 
  
- 
 Rev: 1.0 
 Title:  Curriculum structure semester wise Year:2022-26 
- 
  
 KLE Tech Confidential                             CONTROLLED COPY                                                                                               
                                                                                          11 
 Curriculum Structure-Semester wise 
 Semester - I 
  
-  
 No Code Course Category L-T-P Credits Contact 
 Hours 
 ISA ESA Total Exam 
@@ -523,21 +461,17 @@ TOTAL 14-2-5 21 28 410 290 700
 
 ## Page 12
 
- 
 FORM 
 ISO 21001:2018 
 Document #: FMCD2004 
  
- 
 Rev: 1.0 
 Title:  Curriculum structure semester wise Year:2022-26 
- 
  
 KLE Tech Confidential                             CONTROLLED COPY                                                                                               
                                                                                          12 
 Semester - II 
  
-  
 No Code Course Category L-T-P Credits Contact 
 Hours 
 ISA ESA Total Exam 
@@ -557,21 +491,17 @@ TOTAL 15-2-6 23 33 410 290 700
 
 ## Page 13
 
- 
 FORM 
 ISO 21001:2018 
 Document #: FMCD2004 
  
- 
 Rev: 1.0 
 Title:  Curriculum structure semester wise Year:2022-26 
- 
  
 KLE Tech Confidential                             CONTROLLED COPY                                                                                               
                                                                                          13 
 Semester- III  
  
-  
 No Code Course Category L-T-P Credits Contact 
 Hours ISA ESA Total 
 Exam 
@@ -603,15 +533,12 @@ TOTAL 22.5-0-3 25.5 29 590 310 900
 
 ## Page 14
 
- 
 FORM 
 ISO 21001:2018 
 Document #: FMCD2004 
  
- 
 Rev: 1.0 
 Title:  Curriculum structure semester wise Year:2022-26 
- 
  
 KLE Tech Confidential                             CONTROLLED COPY                                                                                               
                                                                                          14 
@@ -646,21 +573,17 @@ TOTAL 18.5-0-6 24.5 31 670 330 1000
 
 ## Page 15
 
- 
 FORM 
 ISO 21001:2018 
 Document #: FMCD2004 
  
- 
 Rev: 1.0 
 Title:  Curriculum structure semester wise Year:2022-26 
- 
  
 KLE Tech Confidential                             CONTROLLED COPY                                                                                               
                                                                                          15 
 Semester- V 
  
-  
 No Code Course  Category L-T-P Credits Contact 
 Hours ISA ESA Total 
 Exam 
@@ -690,15 +613,12 @@ TOTAL 14-0-10 24 35 540 260 800
 
 ## Page 16
 
- 
 FORM 
 ISO 21001:2018 
 Document #: FMCD2004 
  
- 
 Rev: 1.0 
 Title:  Curriculum structure semester wise Year:2022-26 
- 
  
 KLE Tech Confidential                             CONTROLLED COPY                                                                                               
                                                                                          16 
@@ -734,11 +654,9 @@ TOTAL 15-0-9 24 34 434 366 800
 
 ## Page 17
 
- 
 FORM 
 ISO 21001:2018 
 Document #: FMCD2004 
- 
  
 Rev: 1.0 
 Title:  Curriculum structure semester wise Year:2022-26 
@@ -763,11 +681,9 @@ TOTAL 14-0-7 21 29 367 333 700
 
 ## Page 18
 
- 
 FORM 
 ISO 21001:2018 
 Document #: FMCD2004 
- 
  
 Rev: 1.0 
 Title:  Curriculum structure semester wise Year:2022-26 
@@ -796,11 +712,9 @@ TOTAL 6-0-11 17 28 150 150 300
 
 ## Page 19
 
- 
 FORM 
 ISO 21001:2018 
 Document #: FMCD2004 
- 
  
 Rev: 1.0 
 Title:  Curriculum structure semester wise Year:2022
@@ -835,11 +749,9 @@ Sr. No Name of the Course Course Code
 
 ## Page 20
 
- 
 FORM 
 ISO 21001:2018 
 Document #: FMCD2004 
- 
  
 Rev: 1.0 
 Title:  Curriculum structure semester wise Year:2022
@@ -875,11 +787,9 @@ Analytics and Machine Learning
 
 ## Page 21
 
- 
 FORM 
 ISO 21001:2018 
 Document #: FMCD2004 
- 
  
 Rev: 1.0 
 Title:  Curriculum structure semester wise Year:2022
@@ -892,12 +802,10 @@ KLE Tech Confidential                       CONTROLLED COPY
 
 ## Page 22
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -945,12 +853,10 @@ MATLAB: Solve differential equations
 
 ## Page 23
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -964,16 +870,12 @@ Reference Books:
 2. Thomas Calculus, George B Thomas, Pearson India, 12ed, 2010 
 Back to Semester - I 
  
-                                                 
-
 ## Page 24
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -1013,21 +915,12 @@ Zener diodes: Junction break down, circuit symbols and packages, characteristics
 equivalent circuits. 
 (Text 1 Page No 34-71) 
  
- 
- 
- 
- 
- 
- 
-
 ## Page 25
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -1071,12 +964,10 @@ Eddy Currents (Text 2 Page No 868-969)
 
 ## Page 26
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -1096,12 +987,10 @@ Back to Semester - I
 
 ## Page 27
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -1145,15 +1034,12 @@ Equivalent force-couple system, Numerical problems on moment of forces and coupl
 couple system. Varignons principle of mom ents, Resultant of coplanar - non-concurrent force systems and 
 numerical problems. 
  
-
 ## Page 28
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -1178,7 +1064,6 @@ Stress – Strain Diagram for structural steel, working stress and Factor of saf
 acting on it. Law of super  position. Stresses in bars of uniform & varying cross sections. Composite sections. 
 Problems connected to above topics. 
  
- 
 Unit III 
  
 Chapter 7:  Centroid of Plane Figures  
@@ -1192,15 +1077,12 @@ gyration, perpendicular and Parallel axis theorems, Polar second moment of area,
 simple plane figures (triangle, rectangle, semic ircle, circle etc,.) using method of integration, Numerical 
 problems on MI of simple built up sections. 
  
-
 ## Page 29
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -1224,12 +1106,10 @@ Back to Semester - I
 
 ## Page 30
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -1267,15 +1147,12 @@ Reference Books:
 3. B.A. Forouzan, R.F. Gilberg, A Structured Program Approach Using C, 3ed, CENGAGE Learning, 2008. 
 Back to Semester - I 
  
-
 ## Page 31
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -1317,15 +1194,12 @@ fully controlled AC/DC converter, AC/DC inversion, switching devices in inverter
 networks, the three -phase fully co ntrolled converter, Inverter-fed induction motors, Soft -starting induction 
 motors, DC to DC conversion switched-mode power 
  
-
 ## Page 32
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -1357,15 +1231,12 @@ Tata McGraw Hill Education Private Limited, New Delhi., 2005
  
 Back to Semester - I 
  
-
 ## Page 33
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -1382,10 +1253,7 @@ Teaching Hours: 28Hrs Examination Duration: 3 Hrs
 Module Topics Assignments Support activities / Tools 
 KNOWLEDGE, TOOLS & DEVELOPMENT 
  
- 
- 
 Course sensitization 
- 
  
 1. Introduction to Social 
 Innovation: 
@@ -1448,12 +1316,10 @@ group mates)
 
 ## Page 34
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -1494,14 +1360,6 @@ assignments
 “Create 
 Mindsets” 
  
- 
- 
- 
- 
- 
- 
- 
- 
 • (How to train the 
 Dragon?  
 Common Video for all the 
@@ -1512,16 +1370,12 @@ your Creative Confidence
 by David Kelley – IDEO 
 Founder)  
  
- 
-
 ## Page 35
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -1551,7 +1405,6 @@ Class Presentations
 being made by the 
 group  
  
- 
 (Literature Survey of 
 Places of Hubli- 
 Dharwad) 
@@ -1579,15 +1432,12 @@ respective templates
 with the help of sample 
 case study 
  
-
 ## Page 36
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -1637,12 +1487,10 @@ case study
 
 ## Page 37
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -1709,12 +1557,10 @@ games
 
 ## Page 38
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -1762,15 +1608,12 @@ respective templates
 with the help of sample 
 case study 
  
-
 ## Page 39
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -1800,18 +1643,14 @@ respective templates
 with the help of sample 
 case study 
  
- 
- 
 Back to Semester - I 
 
 ## Page 40
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -1840,12 +1679,10 @@ Back to Semester - I
 
 ## Page 41
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -1890,12 +1727,10 @@ MATLAB: application of differential equations
 
 ## Page 42
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -1909,17 +1744,12 @@ Reference Books:
 2. Thomas Calculus, George B Thomas, Pearson India, 12ed, 2010 
 Back to Semester - II 
  
- 
- 
-
 ## Page 43
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -1965,15 +1795,12 @@ masking and photolithography, wet etching, dry etching.
 Fluorescence and Phosphorescence – Jablonski diagram, Thermoelectric and Piezoelectric materials – 
 meaning, properties and applications. 
  
-
 ## Page 44
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -2012,12 +1839,10 @@ Back to Semester - II
 
 ## Page 45
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -2058,12 +1883,10 @@ Back to Semester - II
 
 ## Page 46
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -2097,12 +1920,10 @@ Back to Semester - II
 
 ## Page 47
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -2149,12 +1970,10 @@ amplifier, Voltage follower, Integration, Differentiation, Adder, Subtractor, ZC
 
 ## Page 48
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -2187,12 +2006,10 @@ Back to Semester - II
 
 ## Page 49
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -2236,12 +2053,10 @@ bike, car or any machine Video presentations.
 
 ## Page 50
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -2266,15 +2081,12 @@ edition 2001, Media Promoters and Publishers.
 Basic Manufacturing, Roger Timings, Third edition, Newnes, An imprint of Elsevier 
 Back to Semester - II 
  
-
 ## Page 51
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -2309,16 +2121,12 @@ Reference Books:
 3. Martin Hewings- Advanced English Grammar, Cambridge University Press. 
 Back to Semester - II 
  
- 
-
 ## Page 52
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -2363,15 +2171,12 @@ Fourier representation of non-periodic signals, Magnitude and phase spectra. Pro
 Linearity, Symmetry Properties, Time shift, Frequency Shift, Scaling, Time differential differentiation coefficients, 
 Time domain Convolution, Multiplication Theorem, Parseval’s theorem and Examples on these properties.                                                                                                                                                                                          
  
-
 ## Page 53
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -2385,7 +2190,6 @@ covariance, correlation.
 Introduction to Random process, stationary process, mean, correlation and covariance function, 
 autocorrelation function, cross correlation, Power spectral Density: properties of the spectral density; 
 Gaussian Process: Properties of Gaussian process. 
- 
  
 Text Books 
 1. Kreyszig E., Advanced Engineering Mathematics, 10th edition, Wiley, 2015 
@@ -2403,12 +2207,10 @@ Back to Semester- III
 
 ## Page 54
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -2443,12 +2245,10 @@ Back to Semester- III
 
 ## Page 55
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -2498,12 +2298,10 @@ frequency domain responses R-C, R-L circuits as Low pass and high pass filters[ 
 
 ## Page 56
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -2532,12 +2330,10 @@ Back to Semester- III
 
 ## Page 57
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -2587,12 +2383,10 @@ as a linear amplifier and Numericals.
 
 ## Page 58
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -2633,12 +2427,10 @@ Back to Semester- III
 
 ## Page 59
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -2669,7 +2461,6 @@ Chapter 3: Analysis and design of combinational logic
 General approach, Decoders -BCD decoders, Encoders, Digital multiplexers - Using multiplexers as Boolean 
 function generators. Adders and subtractor-Cascading full adders, look ahead carry adders, Binary comparators. 
  
- 
 Unit II 
  
 Chapter 4: Introduction to Sequential Circuits 
@@ -2683,15 +2474,12 @@ Registers and Counters, Binary Ripple Counters, Synchronous Binary counters, Rin
 Design of a Synchronous counters, Design of a Synchronous Mod -n Counter using clocked JK Flip -Flops Design 
 of a Synchronous Mod-n Counter using clocked D, T or SR Flip-Flops. 
  
-
 ## Page 60
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -2721,12 +2509,10 @@ Back to Semester- III
 
 ## Page 61
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -2771,12 +2557,10 @@ Back to Semester- III
 
 ## Page 62
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -2817,12 +2601,10 @@ Back to Semester- III
 
 ## Page 63
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -2867,12 +2649,10 @@ Back to Semester- III
 
 ## Page 64
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -2916,15 +2696,12 @@ Accessing code ROM space, Data serialization.
 Chapter 6:  Counter/Timer Programming in 8051 
 Programming 8051 Timers, Programming Timer0 and Timer1 in 8051C 
  
-
 ## Page 65
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -2956,12 +2733,10 @@ Back to Semester- III
 
 ## Page 66
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -3011,12 +2786,10 @@ Back to Semester- III
 
 ## Page 67
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -3058,15 +2831,12 @@ Fourier representation of non-periodic signals, Magnitude and phase spectra. Pro
 Linearity, Symmetry Properties, Time shift, Frequency Shift, Scaling, Time differential differentiation coefficients, 
 Time domain Convolution, Multiplication Theorem, Parseval‘s theorem and Examples on these properties. 
  
-
 ## Page 68
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -3098,12 +2868,10 @@ Back to Semester- IV
 
 ## Page 69
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -3143,12 +2911,10 @@ Back to Semester- IV
 
 ## Page 70
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -3189,15 +2955,12 @@ Chapter 6: Maxwell’s Equations
 Introduction, Faraday’s Law, Transformer and Motional Electromotive Forces, Displacement Current, Maxwell’s 
 Equations in Final Forms, Time-Varying Potentials, Time-Harmonic Fields. 
  
-
 ## Page 71
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -3215,17 +2978,14 @@ Text Books
 2. William Hayt, Jr. John A. Buck, Engineering Electromagnetics, 8th edition, TMH, 2012 
 3. Kraus, John D. Electromagnetics. United Kingdom, McGraw-Hill, 1992. 
  
- 
 Back to Semester- IV 
 
 ## Page 72
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -3262,16 +3022,12 @@ New Delhi, 2018
  
 Back to Semester- IV 
  
- 
-
 ## Page 73
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -3314,15 +3070,12 @@ Chapter 6: Maxwell’s Equations
 Introduction, Faraday’s Law, Transformer and Motional Electromotive Forces, Displacement Current, Maxwell’s 
 Equations in Final Forms, Time-Varying Potentials, Time-Harmonic Fields. 
  
-
 ## Page 74
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -3344,12 +3097,10 @@ Back to Semester- IV
 
 ## Page 75
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -3399,12 +3150,10 @@ Text Books
 
 ## Page 76
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -3422,12 +3171,10 @@ Back to Semester- IV
 
 ## Page 77
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -3473,16 +3220,12 @@ Chapter No. 5. Frequency Response Analysis
 Introduction, Bode Diagrams -Determination of Frequency Domain Specifications and Transfer Function from 
 The Bode Diagram-Phase Margin and Gain Margin-Stability Analysis from Bode Plots. 
  
- 
-
 ## Page 78
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -3502,12 +3245,10 @@ Back to Semester- IV
 
 ## Page 79
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -3553,16 +3294,12 @@ Chapter No. 8 Architectural support for high level languages
 Abstraction in software design, data types, floating point data types, The ARM floating point architecture, use 
 of memory, run time environment. 
  
- 
-
 ## Page 80
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -3581,17 +3318,14 @@ Reference Books:
 1. ARM system Developer ‘s Guide- Hard bound, Publication date:2004 Imprint: MORGAN KAUFFMAN 
 2. User manual onLPC21XX. 
  
- 
 Back to Semester- IV 
 
 ## Page 81
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -3637,12 +3371,10 @@ Back to Semester- IV
 
 ## Page 82
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -3683,15 +3415,12 @@ determine the stability of the system using Bode Plots.
 9. Compensation Techniques  To determine suitable compensator for the given system (PD, PI, PID  
 Controller using Quanser Qube). 
 
-
 ## Page 83
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -3718,12 +3447,10 @@ Back to Semester- IV
 
 ## Page 84
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -3769,15 +3496,12 @@ Apply suitable machine dependent optimization technique and analyze for memory a
 time consumed 
 5. Write a C program to test working of LEDs and seven segment using LPC2148. 
  
-
 ## Page 85
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -3816,12 +3540,10 @@ Back to Semester- IV
 
 ## Page 86
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -3859,12 +3581,10 @@ Back to Semester- IV
 
 ## Page 87
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -3910,12 +3630,10 @@ files.
 
 ## Page 88
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -3954,12 +3672,10 @@ theory
 
 ## Page 89
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -3998,12 +3714,10 @@ lists
 
 ## Page 90
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -4039,12 +3753,10 @@ techniques
 
 ## Page 91
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -4082,12 +3794,10 @@ Back to Semester- IV
 
 ## Page 92
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -4137,12 +3847,10 @@ Text Books
 
 ## Page 93
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -4164,12 +3872,10 @@ Back to Semester- V
 
 ## Page 94
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -4216,12 +3922,10 @@ Back to Semester- V
 
 ## Page 95
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -4267,12 +3971,10 @@ Back to Semester- V
 
 ## Page 96
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -4321,12 +4023,10 @@ Back to Semester- V
 
 ## Page 97
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -4352,7 +4052,6 @@ performance.
 6 Write an optimized RTOS program & demonstrate the concept of Semaphore, and comment on 
 performance. 
  
- 
 Category: Open Ended 
 Expt./ Job 
 No. 
@@ -4363,12 +4062,10 @@ Back to Semester- V
 
 ## Page 98
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -4415,15 +4112,12 @@ propagation, and Cost function, Back propagation algorithm, Multi-class classifi
 network, Applications of Neural Networks, Introduction to Deep Learning (Motivation, Overview), Convolution 
 Neural Networks (CNN) (Architecture, terminologies, Evolution and Modelling). 
  
-
 ## Page 99
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -4449,12 +4143,10 @@ Back to Semester- V
 
 ## Page 100
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -4494,12 +4186,10 @@ Back to Semester- V
 
 ## Page 101
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -4524,24 +4214,6 @@ The mini project essentially will comprise of two components:
 • The hardware design  
 • The graphical user interface (GUI) for application and data analysis with report generation. 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 Input 
 Data acquisition 
 and Processing 
@@ -4556,12 +4228,10 @@ Output
 
 ## Page 102
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -4583,12 +4253,10 @@ Back to Semester- V
 
 ## Page 103
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -4624,12 +4292,10 @@ Back to Semester- V
 
 ## Page 104
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -4669,12 +4335,10 @@ Back to Semester- VI
 
 ## Page 105
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -4709,12 +4373,10 @@ Back to Semester- VI
 
 ## Page 106
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -4764,12 +4426,10 @@ Experiments List
 
 ## Page 107
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -4807,12 +4467,10 @@ Back to Semester- VI
 
 ## Page 108
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -4859,12 +4517,10 @@ Back to Semester- VI
 
 ## Page 109
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -4909,15 +4565,12 @@ Autoregressive Models for Generative AI:
 PixelCNN - Overview, Architecture, Training, Applications 
 WaveNet - Overview, Architecture, Training, Applications 
  
-
 ## Page 110
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -4949,12 +4602,10 @@ Back to Semester- VI
 
 ## Page 111
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -4995,12 +4646,10 @@ Back to Semester- VI
 
 ## Page 112
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -5044,15 +4693,12 @@ Details of the project batches:
 1. Number of faculty members: 64 
 2. Number of students: 278    
  
-
 ## Page 113
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -5084,12 +4730,10 @@ Back to Semester- VI
 
 ## Page 114
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -5130,12 +4774,10 @@ Back to List of Program Electives
 
 ## Page 115
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -5181,12 +4823,10 @@ Back to List of Program Electives
 
 ## Page 116
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -5236,12 +4876,10 @@ factory security.
 
 ## Page 117
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -5267,12 +4905,10 @@ Back to List of Program Electives
 
 ## Page 118
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -5319,12 +4955,10 @@ Burst and Random Error correcting codes.
 
 ## Page 119
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -5342,12 +4976,10 @@ Back to List of Program Electives
 
 ## Page 120
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -5383,7 +5015,6 @@ and design considerations to choose a particular pre-trained model, Federated Le
 Android Architecture, Linux Kernel, Binder, HAL Native Libraries, Android Runtime, Dalvik Application 
 framework, Applications, IPC. 
 Text Books 
-1. Linux System Programming, by Robert Love, Copyright © 2007 O'Reilly Media 
 2. Heterogeneous Computing with OpenCL, 2nd Edition by Dana Schaa, Perhaad Mistry, David R. Kaeli, 
 Lee Howes, Benedict Gaster, Publisher: Morgan Kaufmann  
 Reference Books: 
@@ -5393,12 +5024,10 @@ Back to List of Program Electives
 
 ## Page 121
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -5429,12 +5058,10 @@ Back to List of Program Electives
 
 ## Page 122
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -5479,15 +5106,12 @@ Multicore timing analysis - Timing simulation: Why it is needed? – WCET (Worst
 – Schedulability analysis – Additional challenges in Multicore - Tools used in automotive: Timing architect, 
 ChronSIM, Sym TA/S- Deterministic behaviour – Logical Execution Time (LET) 
  
-
 ## Page 123
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -5503,12 +5127,10 @@ Back to List of Program Electives
 
 ## Page 124
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -5555,12 +5177,10 @@ Back to List of Program Electives
 
 ## Page 125
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -5607,12 +5227,10 @@ Back to List of Program Electives
 
 ## Page 126
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -5658,12 +5276,10 @@ Back to List of Program Electives
 
 ## Page 127
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -5706,12 +5322,10 @@ Back to Semester- VII
 
 ## Page 128
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -5745,21 +5359,16 @@ Unit II
 Chapter No. 7 Scope & Aims of Engineering Ethics : Scope & Aims of Engineering Ethics: Meaning and 
 purpose of Engineering Ethics, Responsibility of Engineers, Impediments to responsibility, Honesty, Integrity 
 and reliability, risks, safety & liability in engineering. Bhopal Gas Tragedy, Titanic case.  
-Chapter No. 8 Intellectual Property Rights : Intellectual Property Rights (IPRs)- Patents, Copyright and 
 Designs 
 Chapter No. 9 Ethical perspectives of professional bodies :Ethical perspectives of professional bodies- IEEE, 
 ASME, NSPE and ABET, ASCE etc. 
  
- 
-
 ## Page 129
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -5786,12 +5395,10 @@ Back to Semester- VII
 
 ## Page 130
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -5837,15 +5444,12 @@ The primary responsibility of the guide is to help students to understand the me
 stages in the implementation of the project. At every stage of the project development, guide should help 
 towards its successful completion as per the predefined standards. 
  
-
 ## Page 131
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -5879,12 +5483,10 @@ Back to Semester- VII
 
 ## Page 132
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -5927,12 +5529,10 @@ Back to List of Program Electives
 
 ## Page 133
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -5977,12 +5577,10 @@ Back to List of Program Electives
 
 ## Page 134
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-
@@ -6023,12 +5621,10 @@ Back to List of Program Electives
 
 ## Page 135
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-
@@ -6065,12 +5661,10 @@ Back to List of Program Electives
 
 ## Page 136
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-
@@ -6112,12 +5706,10 @@ Back to List of Program Electives
 
 ## Page 137
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-
@@ -6162,15 +5754,12 @@ References
 3. K.D.Prasad, “Antenna and wave propagation” first edition, 1990. 
 4. C.A.Balnis “Antenna theory and analysis and design”, third edition,1999. 
  
-
 ## Page 138
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-
@@ -6217,12 +5806,10 @@ Back to List of Program Electives
 
 ## Page 139
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-
@@ -6266,12 +5853,10 @@ Back to List of Program Electives
 
 ## Page 140
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-
@@ -6318,12 +5903,10 @@ Reception, Pearson publication pvt. Ltd, 2004
 
 ## Page 141
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-
@@ -6367,18 +5950,12 @@ Generation NodeBs) and NG-RAN interfaces.
 • Developing PDCP Layer for Header Compression and Encryption 
 • Establishing RRC Connection Setup and Management 
  
- 
- 
- 
-
 ## Page 142
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-
@@ -6424,12 +6001,10 @@ Back to List of Program Electives
 
 ## Page 143
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-
@@ -6480,12 +6055,10 @@ Hill.
 
 ## Page 144
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-
@@ -6508,12 +6081,10 @@ Back to List of Program Electives
 
 ## Page 145
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-
@@ -6562,12 +6133,10 @@ Back to List of Program Electives
 
 ## Page 146
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-
@@ -6612,12 +6181,10 @@ Back to List of Program Electives
 
 ## Page 147
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-
@@ -6663,12 +6230,10 @@ Back to List of Program Electives
 
 ## Page 148
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-
@@ -6715,12 +6280,10 @@ Back to List of Program Electives
 
 ## Page 149
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-
@@ -6765,12 +6328,10 @@ Back to List of Program Electives
 
 ## Page 150
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-
@@ -6806,16 +6367,12 @@ Lab:
 • Implementation of compressed scan chains using industry tools 
 • Analysis of test pattern count reduction 
  
- 
-
 ## Page 151
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-
@@ -6852,12 +6409,10 @@ Week 5: Boundary Scan and IEEE 1149.x Standards
 
 ## Page 152
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-
@@ -6894,12 +6449,10 @@ Project:
 
 ## Page 153
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-
@@ -6936,12 +6489,10 @@ Lectures:
 
 ## Page 154
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-
@@ -6980,12 +6531,10 @@ Back to List of Program Electives
 
 ## Page 155
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-
@@ -7030,12 +6579,10 @@ Teaching Hours:42Hrs Examination Duration:3Hrs
 
 ## Page 156
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-
@@ -7080,12 +6627,10 @@ Back to List of Program Electives
 
 ## Page 157
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-
@@ -7131,12 +6676,10 @@ Teaching Hours:42Hrs Examination Duration:3Hrs
 
 ## Page 158
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-
@@ -7175,12 +6718,10 @@ Back to List of Program Electives
 
 ## Page 159
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-
@@ -7225,18 +6766,15 @@ The primary responsibility of the guide is to help students to understand the me
 stages in the implementation of the project. At every stage of the project development, guide should help 
 towards its successful completion as per the predefined standards. 
  
- 
 How student should carry out a project: 
 • Define the problem. 
 
 ## Page 160
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-
@@ -7269,12 +6807,10 @@ Back to Semester VIII
 
 ## Page 161
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-
@@ -7301,17 +6837,14 @@ Evaluation parameters for Internship Training
 ▪ Conclusions and discussion 
 ▪ Presentation skills 
  
- 
 Back to Semester VIII 
 
 ## Page 162
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-
@@ -7342,12 +6875,10 @@ Back to Semester VIII
 
 ## Page 163
 
- 
 FORM 
 ISO 21001:2018 
 Document #: 
 FMCD2005  
- 
  
 Rev: 1.0 
 Curriculum Content- Course wise  Year: 2022-26 
@@ -7356,4 +6887,3 @@ Curriculum Content- Course wise  Year: 2022-26
                                                     
   163
   
- 

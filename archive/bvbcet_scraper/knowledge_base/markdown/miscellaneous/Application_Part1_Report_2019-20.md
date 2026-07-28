@@ -1,4 +1,5 @@
 # PDF Document: Application_Part1_Report_2019-20
+
 **PDF Source:** https://www.kletech.ac.in/pdf/Application_Part1_Report_2019-20.pdf
 
 ## Page 1
@@ -1210,7 +1211,6 @@ Twining Program Request Not interested NBA Accreditation status (As on 10th Apri
 2018)
 No
   
- 
 Sr. No. 2 Course Unique Id 1-3626782863 Programme ENGINEERING AND 
 TECHNOLOGY
 
@@ -1241,7 +1241,6 @@ Twining Program Request Not interested NBA Accreditation status (As on 10th Apri
 2018)
 No
   
- 
 Sr. No. 3 Course Unique Id 1-3626782866 Programme ENGINEERING AND 
 TECHNOLOGY
 Level UNDER GRADUATE Course COMPUTER SCIENCE
@@ -1262,7 +1261,6 @@ Twining Program Request Not interested NBA Accreditation status (As on 10th Apri
 2018)
 No
   
- 
 Sr. No. 4 Course Unique Id 1-3635077630 Programme ENGINEERING AND 
 TECHNOLOGY
 Level UNDER GRADUATE Course ELECTRONICS AND 
@@ -1284,7 +1282,6 @@ Twining Program Request Not interested NBA Accreditation status (As on 10th Apri
 2018)
 No
   
- 
 Sr. No. 5 Course Unique Id 1-3635077650 Programme ENGINEERING AND 
 TECHNOLOGY
 Level UNDER GRADUATE Course ELECTRICAL AND 
@@ -1306,7 +1303,6 @@ Twining Program Request Not interested NBA Accreditation status (As on 10th Apri
 2018)
 No
   
- 
 Sr. No. 6 Course Unique Id 1-3635077945 Programme ENGINEERING AND 
 TECHNOLOGY
 Level UNDER GRADUATE Course AUTOMATION AND 
@@ -1337,7 +1333,6 @@ Twining Program Request Not interested NBA Accreditation status (As on 10th Apri
 2018)
 No
   
- 
 Sr. No. 7 Course Unique Id 1-3635077948 Programme ENGINEERING AND 
 TECHNOLOGY
 Level UNDER GRADUATE Course BIOTECHNOLOGY Shift 1st Shift
@@ -1356,7 +1351,6 @@ Twining Program Request Not interested NBA Accreditation status (As on 10th Apri
 2018)
 No
   
- 
 Sr. No. 8 Course Unique Id 1-3635189131 Programme ARCHITECTURE AND 
 PLANNING
 Level UNDER GRADUATE Course ARCHITECTURE Shift 1st Shift
@@ -1375,7 +1369,6 @@ Twining Program Request Not interested NBA Accreditation status (As on 10th Apri
 2018)
 No
   
- 
 Sr. No. 9 Course Unique Id 1-3635189134 Programme ENGINEERING AND 
 TECHNOLOGY
 Level POST GRADUATE Course ENERGY SYSTEMS 
@@ -1396,7 +1389,6 @@ Twining Program Request Not interested NBA Accreditation status (As on 10th Apri
 2018)
 No
   
- 
 Sr. No. 10 Course Unique Id 1-3635189137 Programme ENGINEERING AND 
 TECHNOLOGY
 Level POST GRADUATE Course PRODUCTION 
@@ -1426,7 +1418,6 @@ Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Pri
 Printed By : aict10956
 2018)
   
- 
 Sr. No. 11 Course Unique Id 1-3635189140 Programme ENGINEERING AND 
 TECHNOLOGY
 Level POST GRADUATE Course MACHINE DESIGN Shift 1st Shift
@@ -1445,7 +1436,6 @@ Twining Program Request Not interested NBA Accreditation status (As on 10th Apri
 2018)
 No
   
- 
 Sr. No. 12 Course Unique Id 1-3635189274 Programme ENGINEERING AND 
 TECHNOLOGY
 Level POST GRADUATE Course STRUCTURAL 
@@ -1466,7 +1456,6 @@ Twining Program Request Not interested NBA Accreditation status (As on 10th Apri
 2018)
 No
   
- 
 Sr. No. 13 Course Unique Id 1-3635189278 Programme ENGINEERING AND 
 TECHNOLOGY
 Level POST GRADUATE Course COMPUTER SCEINCE
@@ -1487,7 +1476,6 @@ Twining Program Request Not interested NBA Accreditation status (As on 10th Apri
 2018)
 No
   
- 
 Sr. No. 14 Course Unique Id 1-3635189311 Programme ENGINEERING AND 
 TECHNOLOGY
 Level POST GRADUATE Course DIGITAL 
@@ -1508,7 +1496,6 @@ Twining Program Request Not interested NBA Accreditation status (As on 10th Apri
 2018)
 No
   
- 
 Sr. No. 15 Course Unique Id 1-3635189314 Programme ENGINEERING AND 
 TECHNOLOGY
 Level POST GRADUATE Course VLSI DESIGN AND 
@@ -1540,7 +1527,6 @@ Twining Program Request Not interested NBA Accreditation status (As on 10th Apri
 2018)
 No
   
- 
 Sr. No. 16 Course Unique Id 1-3635189317 Programme MANAGEMENT
 Level POST GRADUATE Course MASTERS IN 
 BUSINESS 
@@ -1561,7 +1547,6 @@ Twining Program Request Not interested NBA Accreditation status (As on 10th Apri
 2018)
 No
   
- 
 Sr. No. 17 Course Unique Id 1-3635189331 Programme MCA
 Level POST GRADUATE Course MASTER OF 
 COMPUTER 
@@ -5843,7 +5828,6 @@ Cabin for
 Head of Dept
 H10-AR 62.25 Ready Ready Ready Ready
  
-
 ## Page 36
 
 Application Report - Part 1
@@ -6294,7 +6278,6 @@ DIGITAL
 6
 No
  
-
 ## Page 39
 
 Application Report - Part 1
@@ -6777,7 +6760,6 @@ TION LAB
 0
 No
  
-
 ## Page 41
 
 Application Report - Part 1
@@ -7008,7 +6990,6 @@ SIGNAL
 16
 No
  
-
 ## Page 42
 
 Application Report - Part 1
@@ -7253,7 +7234,6 @@ Y LAB
 47
 No
  
-
 ## Page 43
 
 Application Report - Part 1
@@ -7478,7 +7458,6 @@ MACHINE
 DESIGN LAB
 25000 50000 0 No
  
-
 ## Page 44
 
 Application Report - Part 1
@@ -7721,7 +7700,6 @@ S LAB
 0
 No
  
-
 ## Page 45
 
 Application Report - Part 1
@@ -8212,7 +8190,6 @@ DESIGN LAB
 0
 No
  
-
 ## Page 47
 
 Application Report - Part 1

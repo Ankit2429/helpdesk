@@ -1,42 +1,17 @@
 # PDF Document: 02-mtech-in-ams-curriculum-structure-and-content-2025-2027
+
 **PDF Source:** https://www.kletech.ac.in/pdf/02-mtech-in-ams-curriculum-structure-and-content-2025-2027.pdf
 
 ## Page 1
 
-  
 FMCD2009 / 2.0 1
- 
- 
- 
- 
-  
- 
  
 Curriculum Structure and Curriculum Content for the Academic Batch 2025-27 
 School /Department: Mechanical Engineering 
 Program: M.Tech in Advanced Manufacturing Systems 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 2
 
-  
 FMCD2009 / 2.0 2
  
 Table of Contents 
@@ -52,31 +27,16 @@ Semester- IV ...................................................................
 List of Program Electives ................................................................................................. 11 
 Curriculum Content- Course wise ..................................................................................... 11 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 3
 
-  
 FMCD2009 / 2.0 3
 Vision and Mission of KLE Technological University 
  
 Vision 
  
- 
 KLE Technological University will be a national leader in Higher Education–
 recognised globally for innovative culture, outstanding student experience, 
 research excellence and social impact. 
- 
  
 Mission 
  
@@ -100,11 +60,8 @@ competitiveness and quality of life.
 As a unified community of faculty, staff and students, we work together with 
 the spirit of collaboration and partnership to accomplish our mission. 
  
- 
-
 ## Page 4
 
-  
 FMCD2009 / 2.0 4
 Vision and Mission Statements of the School / Department 
 Vision 
@@ -112,35 +69,7 @@ KLE Tech - School of Mechanical Engineering will be a national leader in
 mechanical engineering education - recognized for innovative culture, 
 outstanding research and societal outreach. 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 Mission 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 01 
 03 02 
@@ -181,7 +110,6 @@ Vision
 
 ## Page 5
 
-  
 FMCD2009 / 2.0 5
 Program Educational Objectives/Program Outcomes and Program-Specific 
 Objectives 
@@ -213,25 +141,10 @@ area as per the specialization of the program. The mastery should be
 at a level higher than the requirements in the appropriate bachelor 
 program 
  
- 
-
 ## Page 6
 
-  
 FMCD2009 / 2.0 6
 Curriculum Structure-Overall 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
   Semester 1 to 4 (2025-27)                                                                                                                              Total Program Credits:88 
 Course with course code 
@@ -243,7 +156,6 @@ Project Work Phase II
 Engineering Data Management ERP System Implementation 
 and Management 
 Project Work Phase I 
- 
  
 Product Design and Development Project Feasibility and Analysis 
   
@@ -261,12 +173,9 @@ Credits 25 25 18 20
 
 ## Page 7
 
-  
 FMCD2009 / 2.0 7
 Curriculum Structure-Semester wise 
 Semester – I      ←Back Table of Contents 
- 
- 
  
 No Code Course Category L-T-P Credits Contact 
 Hours ISA ESA Total 
@@ -285,7 +194,6 @@ TOTAL  15-1-9 25 35
 
 ## Page 8
 
-  
 FMCD2009 / 2.0 8
  
 Semester – II      ←Back Table of Contents 
@@ -312,12 +220,9 @@ TOTAL  14-2-9 25 36
 
 ## Page 9
 
-  
 FMCD2009 / 2.0 9
  
- 
 Semester- III      ←Back Table of Contents 
- 
  
 No Code Course Category  L-T-P Credits Contact 
 Hours ISA ESA Total 
@@ -330,17 +235,9 @@ TOTAL  0-0-18 18 54
 
 ## Page 10
 
-  
 FMCD2009 / 2.0 10
  
- 
- 
 Semester- IV 
- 
- 
- 
- 
-  
  
 No Code Course Category  L-T-P Credits Contact 
 Hours ISA ESA Total 
@@ -353,7 +250,6 @@ TOTAL  0-0-20 20 40
 
 ## Page 11
 
-  
 FMCD2009 / 2.0 11 
 List of Program Electives     ←Back-1Semester 
 Sr.No Name of the Course Course Code 
@@ -366,26 +262,10 @@ Sr.No Name of the Course Course Code
 7 Manufacturing Execution Systems 25EAME707 
 8 Robust Design Optimization 25EAME708 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 12
 
-  
 FMCD2009 / 2.0 12 
 Curriculum Content- Course wise           ←Back-1Semester 
- 
  
 Program: Advanced Manufacturing Systems Semester: I 
 Course Title: Engineering Data Management Course Code: 25EAMC702 
@@ -429,12 +309,8 @@ Reference Books:
 
 ## Page 13
 
-  
 FMCD2009 / 2.0 13 
 Curriculum Content- Course wise      ←Back-1Semester 
- 
- 
- 
  
 Program: Advanced Manufacturing Systems Semester: I 
 Course Title: Product Lifecycle Management Course Code: 25EAMC701 
@@ -478,17 +354,8 @@ Techniques for Quality Engineering” , McGraw -Hill International.
 
 ## Page 14
 
-  
 FMCD2009 / 2.0 14 
 Curriculum Content- Course wise                                              ←Back-1Semester 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Program: Advanced Manufacturing Systems Semester: I 
 Course Title:  Product Design & Development Course Code: 25EAMC703 
@@ -522,7 +389,6 @@ Reference Books:
 
 ## Page 15
 
-  
 FMCD2009 / 2.0 15 
 Curriculum Content- Course wise                                              ←Back-1Semester 
 Program: Advanced Manufacturing Systems Semester: I 
@@ -569,9 +435,7 @@ Limited.
 
 ## Page 16
 
-  
 FMCD2009 / 2.0 16 
- 
  
 Curriculum Content- Course wise                           ←Back-1Semester 
 Program: Master of Technology 
@@ -610,14 +474,8 @@ design conference
 4. Rosen, D.W., 2007. Design for additive manufacturing: A method to explore unexplored regions 
 of the design space. In Proceedings of the 18th Annual Solid Freeform Fabrication Symposium. 
  
- 
- 
- 
- 
-
 ## Page 17
 
-  
 FMCD2009 / 2.0 17
  
 Curriculum Content- Course wise        ←Back-1Semester 
@@ -654,20 +512,10 @@ Reference Books:
 2. Groover M.P, Industrial Robotics, 3, Tata McGraw-Hill Publication, 2013 
 3. Niku Saeed B, Introduction to Robotics, 4, Prantice Hall India Publication, 2014 
  
- 
- 
- 
- 
- 
- 
-
 ## Page 18
 
-  
 FMCD2009 / 2.0 18 
 Curriculum Content- Course wise        ←Back-1Semester 
- 
- 
  
 Program: Advanced Manufacturing Systems Semester: I 
 Course Title: Supply Chain Management Course Code: 25EAME703 
@@ -710,10 +558,8 @@ Operation,” Pearson Education.
 3. HartmutStadtler, “Supply Chain Management and Advanced Planning – Basics, Overview and 
 Challenges,” European Journal of Operations Research, 163, 2015. 
  
-
 ## Page 19
 
-  
 FMCD2009 / 2.0 19 
 Curriculum Content- Course wise         ←Back-1Semester 
  
@@ -755,14 +601,8 @@ John Wiley & Sons.
 4. Shannon, R.E., System Simulation – The art and science, Prentice Hall, India. 
 5. Averill Law & David M.Kelton, Simulation, Modeling and Analysis, TMH. 
  
- 
- 
- 
- 
-
 ## Page 20
 
-  
 FMCD2009 / 2.0 20
  
 Curriculum Content- Course wise        ←Back-1Semester 
@@ -809,11 +649,8 @@ Programming and Applications”, Mc Graw Hill Book Publications.
 4. W. Bolton , “Programmable Logic Controllers” Fifth Edition, Elsevier 
 5. Vijay R. Jadhav, “Programmable Logic Controller”, Second Edition, Khanna Publishers. 
  
- 
-
 ## Page 21
 
-  
 FMCD2009 / 2.0 21 
  
 Curriculum Content- Course wise         ←Back-1Semester 
@@ -862,11 +699,8 @@ Analytics, Predictive Analytics, Prescriptive Analytics, Bitcoin and Blockchain,
 Types, Scope and Application of Blockchain in Manufacturing 
 Text Books 
  
- 
-
 ## Page 22
 
-  
 FMCD2009 / 2.0 22 
 Reference Books: 
 1. SachinKaradgi, “A Reference Architecture for Real-Time Performance Measurement,” Springer, 
@@ -897,22 +731,8 @@ http://www.opcfoundation.org/.
 Series, No. 957, 2010. 
 17. Mike Bourne, Pippa Bourne, Handbook of Corporate Performance Management, Wiley, 2011. 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## Page 23
 
-  
 FMCD2009 / 2.0 23 
 Curriculum Content- Course wise                              ←Back-1Semester 
  
@@ -958,15 +778,10 @@ Applications to Engineering and SISAnce”, John Wiley & sons, Inc., New York.
 New Jersy.  
 6. Ross P. J., “Taguchi Techniques for Quality Engineering”, McGraw -Hill International. 
  
- 
- 
-
 ## Page 24
 
-  
 FMCD2009 / 2.0 24 
 Curriculum Content- Course wise                                          ←Back-1Semester 
- 
  
 Program: Advanced Manufacturing Systems Semester: I 
 Course Title:  Collaborative Design - Modelling Lab Course Code: 25EAMP701 
@@ -995,20 +810,7 @@ Reference:
 
 ## Page 25
 
-  
 FMCD2009 / 2.0 25
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Program: Advanced Manufacturing Systems Semester: I 
 Course Title: ERP Functional Lab Course Code: 25EAMP703 
@@ -1038,21 +840,9 @@ Reference:
 
 ## Page 26
 
-  
 FMCD2009 / 2.0 26
  
 Curriculum Content- Course wise                                              ←Back-1Semester 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Program: Advanced Manufacturing Systems Semester: I 
 Course Title:  PLM Functional Lab Course Code: 25EAMP702  
@@ -1080,14 +870,8 @@ Reference:
 
 ## Page 27
 
-  
 FMCD2009 / 2.0 27
 Curriculum Content- Course wise                                              ←Back 2semester 
- 
- 
- 
- 
- 
  
 Program: Advanced Manufacturing Systems Semester: II 
 Course Title:  Advanced Technologies in PLM  Course Code: 25EAMC705 
@@ -1128,7 +912,6 @@ Reference Books:
 
 ## Page 28
 
-  
 FMCD2009 / 2.0 28 
  
 Program: Advanced Manufacturing Systems Semester: II 
@@ -1147,17 +930,7 @@ budgeting, generation of ideas, situational analysis, specification of objective
 
 ## Page 29
 
-  
 FMCD2009 / 2.0 29 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Curriculum Content- Course wise               ←Back 2semester 
 techniques, conduct of market survey, characteristics of market, swot analysis, demand forecasting, 
@@ -1192,7 +965,6 @@ Chapter 1. ERP implementation Basics: 7 hrs
 
 ## Page 30
 
-  
 FMCD2009 / 2.0 30 
  
 Master data management – item master, vendor master, COA, customer master, machine master, etc. 
@@ -1229,11 +1001,9 @@ Limited.
 
 ## Page 31
 
-  
 FMCD2009 / 2.0 31 
  
 Curriculum Content- Course wise                                               ←Back 2semester 
- 
  
 Program: Master of Technology Semester: II 
 Course Title: Research Methodology Course Code: 20EAMC708 
@@ -1254,7 +1024,6 @@ Pearson Edition, Singapore, 2011.
 
 ## Page 32
 
-  
 FMCD2009 / 2.0 32 
  
 Curriculum Content- Course wise               ←Back 2semester 
@@ -1301,21 +1070,9 @@ Kluwer Academic Press, 2001.
 
 ## Page 33
 
-  
 FMCD2009 / 2.0 33 
  
 Curriculum Content- Course wise               ←Back 2semester 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Program: Advanced Manufacturing Systems Semester: II 
 Course Title:  PLM Advanced Lab Course Code: 25EAMP704  
@@ -1343,7 +1100,6 @@ Reference:
 
 ## Page 34
 
-  
 FMCD2009 / 2.0 34 
 Curriculum Content- Course wise               ←Back 2semester 
  
@@ -1375,25 +1131,9 @@ Reference:
 
 ## Page 35
 
-  
 FMCD2009 / 2.0 35 
  
 Curriculum Content- Course wise                                                       ←Back 2semester 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Program: Master of Technology Semester: II 
 Course Title: Mini Project Course Code: 20EAMW701 

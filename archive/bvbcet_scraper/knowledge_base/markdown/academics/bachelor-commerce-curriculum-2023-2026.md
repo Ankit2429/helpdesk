@@ -1,4 +1,5 @@
 # PDF Document: bachelor-commerce-curriculum-2023-2026
+
 **PDF Source:** https://www.kletech.ac.in/pdf/bachelor-commerce-curriculum-2023-2026.pdf
 
 ## Page 1
@@ -391,7 +392,9 @@ KLE Tech Confidential CONTROLLED COPY
 FORM
 ISO 21001:2018
 Document
+
 #:
+
 FMCD2005 Rev: 1.0
 Curriculum Content- Course wise Page: 13 to 78
 Year:2025

@@ -1,10 +1,9 @@
 # PDF Document: 257imguf_kle-tech_equal-opportunity-cell
+
 **PDF Source:** https://www.kletech.ac.in/Uploads/image/257imguf_kle-tech_equal-opportunity-cell.pdf
 
 ## Page 1
 
- 
- 
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi 580031. Karnataka (India) 
 Tel. : +91 - 836 - 2378123  Fax : +91 - 836 - 2374985. www.kletech.ac.in 
  
@@ -52,11 +51,8 @@ CC:
 1. Office of the Registrar, KLE Technological University, Hubballi 
 2. PA to Vice-Chancellor, KLE Technological University, Hubball 
  
-
 ## Page 2
 
- 
- 
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi 580031. Karnataka (India) 
 Tel. : +91 - 836 - 2378123  Fax : +91 - 836 - 2374985. www.kletech.ac.in 
  
@@ -83,7 +79,6 @@ Circle Police Inspector Representative from Law and Order  Member
 Dr. Kiran Kulkarni Parent of the student  Member 
 Student Representatives First Year BE Class Representatives Members 
  
- 
 (Dr B. S. Anami) 
 REGISTRAR,  
 KLE Technological University Hubballi  
@@ -93,12 +88,8 @@ CC:
 2. Office of the Registrar, KLE Technological University, Hubballi 
 3. PA to Vice-Chancellor, KLE Technological University, Hubballi 
  
- 
-
 ## Page 3
 
- 
- 
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi 580031. Karnataka (India) 
 Tel. : +91 - 836 - 2378123  Fax : +91 - 836 - 2374985. www.kletech.ac.in 
  
@@ -124,13 +115,9 @@ Ms. Samarth Kosti III Semester Student from Computer Science & Engg. Member
 Smt. Savitri B Anami Practicing Lawyer Member 
 Prof. Sumedha Shinde Assistant Professor, Department of Mathematics Member Secretary 
  
- 
- 
 (Dr B. S. Anami) 
 REGISTRAR,  
 KLE Technological University Hubballi  
- 
- 
  
 To, 
 1. All the members of the SICC 
@@ -138,19 +125,13 @@ CC:
 2. Office of the Registrar, KLE Technological University, Hubballi 
 3. PA to Vice-Chancellor, KLE Technological University, Hubballi 
  
- 
-
 ## Page 4
 
- 
- 
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi 580031. Karnataka (India) 
 Tel. : +91 - 836 - 2378123  Fax : +91 - 836 - 2374985. www.kletech.ac.in 
  
 Earlier known as 
 B. V. B. College of Engineering & Technology 
- 
- 
  
          Date: 01-08-2019 
 NOTIFICATION         
@@ -159,16 +140,12 @@ As per the Directions of the Hon. Vice -Chancellor and in accordance  with the S
 Castes and the Scheduled Tribes Act, 1989, No. 33 of 1989, dated 11.09.1989), the following 
 SC/ST committee of KLE Technological University, Hubballi, has been constituted. 
  
- 
 Name  Designation  Position 
 Dr. B S Anami Registrar  Chair Person 
 Dr. Sanjay V. Kotabagi Dean- Student Welfare Member Secretary 
 Prof. Anil Badiger Professor, Department of Mechanical Engineering Member 
 Smt. Shweta Malode Assistant Professor, School of Advanced Studies Member 
 Ms. Pooja Kadam Instructor-Department of Management Studies & Research  Member 
- 
- 
- 
  
 (Dr. B S Anami) 
 Registrar 
@@ -180,21 +157,13 @@ CC:
 2. Office of the Registrar, KLE Technological University, Hubballi 
 3. PA to Vice-Chancellor, KLE Technological University, Hubballi 
  
- 
- 
- 
- 
-
 ## Page 5
 
- 
- 
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi 580031. Karnataka (India) 
 Tel. : +91 - 836 - 2378123  Fax : +91 - 836 - 2374985. www.kletech.ac.in 
  
 Earlier known as 
 B. V. B. College of Engineering & Technology 
- 
  
          Date: 01-08-2024 
 NOTIFICATION         
@@ -214,7 +183,6 @@ Smt. Shweta Malode Assistant Professor, School of Advanced Studies Member
 Ms. Pooja Kadam Instructor-Department of Management Studies & Research  Member 
 Miss. Rakshita Naik Student Secretary  Student Member 
 Mr. M M Turukani Student Secretary Student Member 
- 
  
 (Dr. B S Anami) 
 Registrar 

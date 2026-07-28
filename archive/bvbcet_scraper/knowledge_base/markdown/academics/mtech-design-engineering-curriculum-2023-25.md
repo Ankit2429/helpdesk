@@ -1,25 +1,10 @@
 # PDF Document: mtech-design-engineering-curriculum-2023-25
+
 **PDF Source:** https://www.kletech.ac.in/pdf/mtech-design-engineering-curriculum-2023-25.pdf
 
 ## Page 1
 
 FMCD2009 / 2.0 1 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
 Curriculum Structure and Curriculum Content for the Academic Batch 2023-25 
 School /Department: School of Mechanical Engineering 
@@ -28,9 +13,6 @@ Program: Master of Technology: Design Engineering
 ## Page 2
 
 FMCD2009 / 2.0 2 
- 
- 
- 
  
 Table of Contents 
 Vision and Mission of KLE Technological University ............................................ 3 
@@ -50,7 +32,6 @@ Curriculum Content- Course wise ................................................
 ## Page 3
 
 FMCD2009 / 2.0 3 
- 
  
 Vision and Mission of KLE Technological University 
  
@@ -85,14 +66,12 @@ the spirit of collaboration and partnership to accomplish our mission.
 
 FMCD2009 / 2.0 4 
  
- 
 Vision and Mission Statements of the School / Department 
  
 Vision 
 KLE Tech - School of Mechanical Engineering will be a national leader in 
 mechanical engineering education - recognized for innovative culture, 
 outstanding research and societal outreach. 
- 
  
 Mission 
  
@@ -139,7 +118,6 @@ system
 
 FMCD2009 / 2.0 5 
  
- 
 Program Educational Objectives/Program Outcomes and Program-Specific Objectives 
  
 Program Educational Objectives -PEOs 
@@ -169,8 +147,6 @@ consumer satisfaction and environmental conservation.
 ## Page 6
 
 FMCD2009 / 2.0 6 
- 
- 
  
 Curriculum Structure-Overall 
  
@@ -227,11 +203,9 @@ Credits 25 25 18 20
 
 FMCD2009 / 2.0 7 
  
- 
 Curriculum Structure-Semester wise 
  
 Semester – I ←Back Table of Contents 
- 
  
 No 
  
@@ -270,9 +244,6 @@ TOTAL 17-3-5 25 33
 Semester - II ←Back Table of Contents 
 FMCD2009 / 2.0 8 
  
- 
- 
- 
 No 
  
 Code 
@@ -310,9 +281,6 @@ Total 16-3-6 25 35
 Semester- III ←Back Table of Contents 
 FMCD2009 / 2.0 9 
  
- 
- 
- 
 No Code Course Category L-T-P Credits Contact 
 Hours 
 ISA ESA Total Exam 
@@ -322,7 +290,6 @@ Duration
 Project PI 0-0-10 10 30 50 50 100 2 hours 
 02 20EDGW801 Project Phase I PW 0-0-8 8 24 50 50 100 2 hours 
 Total 0-0-18 18 54     
- 
  
 Semester- IV 
  
@@ -334,19 +301,12 @@ Duration
 01 20EDGW802 Project Phase II PW 0-0-20 20 40 50 50 100 2 hours 
 Total 0-0-20 20 40     
  
- 
- 
- 
- 
- 
 Semester I II III IV Total 
 Credits 25 25 18 20 88 
 
 ## Page 10
 
 FMCD2009 / 2.0 10 
- 
- 
  
 List of Program Electives ←back-1Semester 
  
@@ -367,8 +327,6 @@ Sr. No Name of the Course Course Code
 ## Page 11
 
 FMCD2009 / 2.0 11 
- 
- 
  
 Curriculum Content- Course wise ←back-1Semester 
  
@@ -415,7 +373,6 @@ Age International, 2003.
 ## Page 12
 
 FMCD2009 / 2.0 12 
- 
  
 ←back-1Semester 
  
@@ -466,9 +423,6 @@ Reference Books:
 
 FMCD2009 / 2.0 13 
  
- 
- 
- 
 4th edition, Pearson, 2011. 
 4. David Hutton, Fundamentals of Finite Element Analysis, Tata McGraw Hill, 2005. 
 5. 5. Kenneth Huebner, Donald Dewhirst, Douglas Smith and Ted Byrom, The Finite Method for 
@@ -483,8 +437,6 @@ Edition 2009.
 
 ←back-1Semester 
 FMCD2009 / 2.0 14 
- 
- 
  
 Program: PG_Design Engineering Semester: I 
 Course Title: Failure of Materials in Mechanical Design Course Code: 20EDGC703 
@@ -533,8 +485,6 @@ Reference Books:
 ←back-1Semester 
 FMCD2009 / 2.0 15 
  
- 
- 
 Program: PG_Design Engineering Semester: I 
 Course Title: Design of Pressure Vessels Course Code: 20EDGE701 
 L-T-P: 4-0-0 Credits: 04 Contact Hours: 50 
@@ -581,12 +531,9 @@ Heinemann is an imprint of Elsevier, 2013.
 4. Donatello Annaratone ,Pressure Vessel Design, Springer, 2007 
 5. A S Tooth , J Spence, Pressure Vessel Design: Concepts and Principles, Spon Press, 1994. 
  
-
 ## Page 16
 
 FMCD2009 / 2.0 16 
- 
- 
  
 ←back-1Semester 
 Program: PG_Design Engineering Semester: I 
@@ -638,8 +585,6 @@ Reference Books:
 ←back-1Semester 
 FMCD2009 / 2.0 17 
  
- 
- 
 Program: PG_Design Engineering Semester: I 
 Course Title: Integrated Product Design Course Code: 20EDGE703 
 L-T-P: 4-0-0 Credits: 04 Contact Hours: 50 
@@ -688,8 +633,6 @@ Assembly, 3rd Edition, CRC Press Publication, 2010.
 ←back-1Semester 
 FMCD2009 / 2.0 18 
  
- 
- 
 Program: PG_Design Engineering Semester: I 
 Course Title: Automobile System Design Course Code: 20EDGE704 
 L-T-P: 4-0-0 Credits: 04 Contact Hours: 50 
@@ -730,8 +673,6 @@ Crouse, Engine Design, Tata McGraw Publication, Delhi,2000
 
 ←back-1Semester 
 FMCD2009 / 2.0 19 
- 
- 
  
 Program: PG_Design Engineering Semester: I 
 Course Title: Design and Analysis of Experiments Course Code: 20EDGE705 
@@ -777,8 +718,6 @@ Applications to Engineering and SISAnce, John Wiley & sons, Inc., New York.
 ←back-1Semester 
 FMCD2009 / 2.0 20 
  
- 
- 
 Program: PG_Design Engineering Semester: I 
 Course Title: Optimization Techniques in Design Course Code: 20EDGE706 
 L-T-P: 4-0-0 Credits: 04 Contact Hours: 50 
@@ -810,8 +749,6 @@ Reference Books:
 ←back-1Semester 
 FMCD2009 / 2.0 21 
  
- 
- 
 Program: PG_Design Engineering Semester: I 
 Course Title: CAD Modelling Lab Course Code: 20EDGP701 
 L-T-P: 0-0-5 Credits: 05 Contact Hours: 120 
@@ -835,8 +772,6 @@ Technologies , 2009.
 
 ←back-2Semester 
 FMCD2009 / 2.0 22 
- 
- 
  
 Program: PG_Design Engineering Semester: II 
 Course Title: Theory of Vibrations with Applications Course Code: 20EDGC704 
@@ -889,8 +824,6 @@ International Edition, 5th Edition, 2014.
 ←back-2Semester 
 FMCD2009 / 2.0 23 
  
- 
- 
 Program: PG_Design Engineering Semester: II 
 Course Title: Dynamics and Mechanism Design Course Code: 20EDGC705 
 L-T-P: 3-1-0 Credits: 04 Contact Hours: 40 
@@ -934,8 +867,6 @@ John Wiley & Sons, 2011.
 ←back-2Semester 
 FMCD2009 / 2.0 24 
  
- 
- 
 Program: PG_Design Engineering Semester: II 
 Course Title: Research Methodology Course Code: 20EDGC706 
 L-T-P: 2-1-0 Credits: 03 Contact Hours: 24 
@@ -957,8 +888,6 @@ Edition, Singapore, 2011.
 
 ←back-2Semester 
 FMCD2009 / 2.0 25 
- 
- 
  
 Program: PG_Design Engineering Semester: II 
 Course Title: Multi Body Dynamics Course Code: 20EDGE707 
@@ -1008,8 +937,6 @@ Butterworth-Heinemann, , Elsevier Ltd, Year: 2015.
 ←back-2Semester 
 FMCD2009 / 2.0 26 
  
- 
- 
 Program: PG_Design Engineering Semester: II 
 Course Title: Engineering Tribology Course Code: 20EDGE708 
 L-T-P: 4-0-0 Credits: 04 Contact Hours: 50 
@@ -1050,8 +977,6 @@ Reference Books:
 
 ←back-2Semester 
 FMCD2009 / 2.0 27 
- 
- 
  
 Program: PG_Design Engineering Semester: II 
 Course Title: Mechanical Behaviour of Materials Course Code: 20EDGE709 
@@ -1098,8 +1023,6 @@ Edition, Cambridge University Press, 2009.
 ←back-2Semester 
 FMCD2009 / 2.0 28 
  
- 
- 
 Program: PG_Design Engineering Semester: II 
 Course Title: Applied Stress Analysis Course Code: 20EDGE710 
 L-T-P: 4-0-0 Credits: 04 Contact Hours: 50 
@@ -1138,8 +1061,6 @@ Tata McGraw Hill, 1984.
 
 ←back-2Semester 
 FMCD2009 / 2.0 29 
- 
- 
  
 Program: PG_Design Engineering Semester: II 
 Course Title: Fracture Mechanics Course Code: 20EDGE711 
@@ -1187,8 +1108,6 @@ University Press, 2015.
 ←back-2Semester 
 FMCD2009 / 2.0 30 
  
- 
- 
 Program: PG_Design Engineering Semester: II 
 Course Title: Rotor dynamics Course Code: 20EDGE712 
 L-T-P: 4-0-0 Credits: 04 Contact Hours: 50 
@@ -1227,8 +1146,6 @@ Reference Books:
 
 ←back-2Semester 
 FMCD2009 / 2.0 31 
- 
- 
  
 Program: PG_Design Engineering Semester: II 
 Course Title: Analysis Lab Course Code: 20EDGP702 
@@ -1283,9 +1200,6 @@ Modal Analysis (Free Free and Forced Free) and Thermal Analysis. 01
 ## Page 32
 
 FMCD2009 / 2.0 32 
- 
- 
- 
  
 Non-Linear Analysis 02 
  

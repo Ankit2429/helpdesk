@@ -1,13 +1,9 @@
 # PDF Document: 8sem
+
 **PDF Source:** https://www.kletech.ac.in/pdf/8sem.pdf
 
 ## Page 1
 
- 
- 
- 
- 
- 
                                                                                                                                                                                                                                        1q2  
  
 ANAM 0201/1.0 
@@ -15,18 +11,10 @@ CALENDAR OF EVENTS
 EVEN SEMESTER 2022 - 2023 
       [For B.E (8th) Semester] 
  
- 
 Important Dates: 
 Courses Term Commencement End of term Date of Commencement 
         Practical Exams Theory Exams 
 8th Sem B.E 09/01/23 02/05/23 08/05/23 to 11/05/23          From 15/05/23 
- 
- 
- 
- 
- 
- 
- 
  
 Dated: 12/12/2022                                                                                                                         Dean Academics 
 Week 

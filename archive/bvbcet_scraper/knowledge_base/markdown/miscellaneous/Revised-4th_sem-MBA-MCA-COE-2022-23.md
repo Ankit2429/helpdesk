@@ -1,13 +1,9 @@
 # PDF Document: Revised-4th_sem-MBA-MCA-COE-2022-23
+
 **PDF Source:** https://www.kletech.ac.in/pdf/Revised-4th sem-MBA-MCA-COE-2022-23.pdf
 
 ## Page 1
 
- 
- 
- 
- 
- 
                                                                                                                                                                                                                                        1q2  
  
 ANAM 0201/1.0 
@@ -15,18 +11,11 @@ CALENDAR OF EVENTS
 EVEN SEMESTER 2022 - 2023 
       [For MBA (4th) & MCA (4th) Semesters] 
  
- 
 Important Dates: 
 Courses Term Commencement End of term Date of Commencement 
       Practical Exams        Theory Exams 
 4th Sem MBA & MCA  15/05/23 30/08/23 01/09/23 to 04/09/23 From 09/09/23 
  
- 
- 
- 
- 
-    
-  
 Dated: 17/04/2023                                                                                                                         Dean Academics 
 Week 
 No. Month Week days No of 

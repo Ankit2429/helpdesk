@@ -1,11 +1,9 @@
 # PDF Document: 10th_BOG_Minutes
+
 **PDF Source:** https://www.kletech.ac.in/pdf/10th_BOG_Minutes.pdf
 
 ## Page 1
 
- 
- 
- 
 Minutes 
  
 10th Board of Governors Meeting 
@@ -17,12 +15,6 @@ December 9th, 2018 at 2.00 pm
 Venue: Conference Room, NOVOTEL Hotel 
 PUNE 
  
- 
- 
- 
- 
- 
-
 ## Page 2
 
 ii 
@@ -121,8 +113,6 @@ Annexure 3: ‘Intellectual Property (IP) Policy’ of the University
 Annexure 4: Scheme and Syllabi of ‘Advanced Manufac turing for Aerospace 
 Applications’ Minor Program 
  
- 
-
 ## Page 4
 
 1 
@@ -272,7 +262,6 @@ Hubballi.
  Get Fixed Deposits issued from Axis Bank, Vidyanagar  Branch for any specified 
 amount as per the requirement of the University. 
  
-
 ## Page 7
 
 4 
@@ -289,25 +278,20 @@ permission to raise Rs. 10.00 Crores loan towards construction of Indoor Stadium
 Chairman thanked all the members for their contribu tions and the meeting was concluded with a 
 vote of thanks to the Chair. 
  
- 
 Action Requested: To confirm the minutes of the 9 th BOG meeting held on 11 th June 
 2018. 
- 
  
 Discussion: The member secretary requested honorable members for any observations or 
 comments on the minutes of the 9 th BOG meeting, which was circulated earlier. There were  no 
 specific comments or observations on minutes of 9th meeting. 
  
- 
 Resolution 10.1: The Board of Governors confirmed t he minutes of 
 its 9th meeting of the Board of Governors held on 11 th June 2018 at 
 the Senate Hall of the KLE Technological University, Hubballi. 
  
-
 ## Page 8
 
 5 
- 
  
 BOG 
 10.2 
@@ -475,7 +459,6 @@ DMG MORI for our MakerSpace.
 construction of Indoor stadium will be raised 
 shortly. 
  
-
 ## Page 12
 
 9 
@@ -503,11 +486,9 @@ crores loan towards construction of Indoor stadium and it is expected to be sanc
 Resolution 10.2: Resolved to confirm the action taken report on the minutes of the previous meeting 
 held on 11th June 2018. 
  
-
 ## Page 13
 
 10 
- 
  
 BOG 
 10.3 
@@ -561,7 +542,6 @@ approval is taken for the year 2018-19.
 Action Requested:  The BOG is requested to consider and approve the 
 recommendations of the Executive Council. 
  
- 
 Discussion: Participating in the discussion Prof. B.S. Sonde ask ed for presence of any audit 
 objections in the audited report. To this Vice-chanc ellor replied no objections were reported. 
 Further, Prof. Ashok Shettar, VC informed that Rs. 12.5 Crores has been reserved for indoor stadium. 
@@ -575,11 +555,9 @@ Rs. 10 crores during F.Y 2018-19 and Rs. 7.5 crores  in F.Y. 2019-20
 for major capital expenditures as recommended by th e 4 th Finance 
 Council, which was held on 14th September 2018. 
  
-
 ## Page 15
 
 12 
- 
  
 BOG 
 10.4
@@ -590,7 +568,6 @@ KLE Tech recognizes the importance of innovations and  assists in translating th
 products, processes and services for both commercial  benefits and achieves the widest 
 public good. The features of this IP Policy aim to m eet such needs and enable KLE Tech to 
 achieve its vision.  KLE Tech ’s  IP  policy  is  designed  to  identify,  protect  an d  leverage  
-the bouquet of IPs that is generated from research– p atents, copyrights, design rights and 
 trademarks amongst others, that serve the purpose of kn owledge diffusion and 
 commercialization. 
  
@@ -610,7 +587,6 @@ Members expressed satisfaction over the ‘IP Policy’ of the University.
 Resolution 10.4: Resolved to approve the ‘Intellectual Property (IP) 
 Policy’ of the University. 
  
-
 ## Page 16
 
 13 
@@ -646,12 +622,9 @@ made in implementation of the ‘Strategic Plan’ of t he KLE
 Technological University and asked to focus on few goals at a time to 
 get maximum impact. 
  
- 
-
 ## Page 17
 
 14 
- 
  
 BOG 
 10.6 
@@ -696,7 +669,6 @@ Minor Program in ‘Advanced Manufacturing for Aerospace Applications’
 15 credits, 5 courses + Final semester project in an  Aerospace Sub systems’ Manufacturing 
 Company.
  
-
 ## Page 18
 
 15 
@@ -712,7 +684,6 @@ Resolution 10.6: BOG ratified the institution of Und ergraduate Minor
 Programme in ‘Advanced Manufacturing for Aerospace Applications’ 
 and noted the scheme and syllabi of the programme. 
  
-
 ## Page 19
 
 16 
@@ -725,7 +696,6 @@ The KLE Technological University has completed its third year and the annual rep
 for the academic year 2017-18 has been placed before t he Board of Governors for 
 approval.  
 Annual Report is given in Annexure 5
- 
  
 Action Requested: The BOG is requested to review and approve the thir d annual 
 report of the KLE Technological University. 
@@ -749,16 +719,13 @@ Shettar, VC mentioned that NBA has identified KLE Te ch as one of the two instit
 Resolution 10.7: BOG approved the Annual report of the University 
 for the academic year 2017-18.  
  
-
 ## Page 20
 
 17 
  
- 
 BOG 
 10.8 
 Any other subject with the permission of the Chair. 
- 
  
 Table Agenda No: 10.8a: To consider & approve the I nstitution of Bachelor of 
 Business Administration a new program of study from  the academic year 2019-20, 
@@ -790,13 +757,6 @@ Coventry University, United Kingdom.
 ## Page 21
 
 18 
- 
- 
- 
- 
- 
- 
- 
  
 Annexure-1 
 [Audited Statements of the Financial Year 2017-18] 
@@ -2055,31 +2015,14 @@ as on 31-3-18
 
 ## Page 63
 
- 
- 
- 
- 
 Intellectual Property (IP) Policy, KLE Technological University, Hubballi 
- 
- 
- 
- 
- 
- 
  
 Annexure-3 
 The Intellectual Property (IP)
  Policy 
  
- 
-  
-
 ## Page 64
 
- 
- 
- 
- 
 Intellectual Property (IP) Policy, KLE Technological University, Hubballi 
 The Intellectual Property (IP) Policy 
  
@@ -2089,55 +2032,15 @@ KLE Technological University
  
 2018 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 May 
 2018
  
- 
-  
-
 ## Page 65
 
- 
- 
- 
- 
 Intellectual Property (IP) Policy, KLE Technological University, Hubballi 
 2 
  
- 
 Section II: IntellectualProperty (IP) Policy, KLE Tech, Hubballi. 
- 
- 
  
 S.No Contents Page 
 1. PartA: IP Policy Preamble 3 
@@ -2158,14 +2061,12 @@ PartC: The Inventions IP Policy–
 4. 
  
 Part D: TheExpressionsIP Policy 
-(Copyrights related) 
  
 12 
  
 5. 
  
 Part E: Annexure 15 
- 
  
 S.No Annexure Remarks 
 1. Annexure 1 Defining the parties concerned & Signifi cant 
@@ -2176,20 +2077,10 @@ Usage
 4. Annexure 4 Role of Dean ( Research and Development) 
 5. Annexure 5 Relevant Contracts and Agreements 
  
- 
- 
- 
-  
-
 ## Page 66
 
- 
- 
- 
- 
 Intellectual Property (IP) Policy, KLE Technological University, Hubballi 
 3 
- 
  
 The IntellectualProperty Policy of KLE Tech- 2018 
  
@@ -2206,13 +2097,11 @@ fellows,research students, postgraduate and graduatest udents, guest researchers
 sponsors,technologytransferunitsandthe nationalIPoffi ces.Beinga publiceducational 
 institute,interestsofthevarious stakeholdershave beenattempted to be taken care of. 
  
- 
 KLE Techrecognizesthe importanceof innovationsandassis tsintranslatingthem into 
 products,processesand servicesforbothcommercialbenef itsandachievesthewidest 
 publicgood.ThefeaturesofthisIP Policyaim tomeetsuch n eedsandenableKLE Tech to achieve its 
 vision. KLE Tech
 ’s IP policy is designed to identify, protect, and lev erage the bouquetofIPsthat 
-isgeneratedfromresearch–patents,copyrights, designrig htsand trademarks 
 amongstothers,that servethepurposeofknowledgediffusionand commercialization. 
  
 TheIPpolicyofKLE Techissegregated intotwoprimary subp oliciesrelatingto(a) 
@@ -2220,17 +2109,11 @@ TheIPpolicyofKLE Techissegregated intotwoprimary subp oliciesrelatingto(a)
 (b) “expressions”associatedactivitiesattheKLE Tech.ThemainIPpolicyprese ntsthe 
 genericpositionofKLE Tech.TheInventionsrelatedIPPol icyrelatestopatent,design,layout, 
 trademark, bio-diversity and related rights whilst the ExpressionsrelatedIPPolicy 
-providesdirectionfortheCopyrightandrelatedrights.Var iousformsthatexplainin 
 detailthesubprocesses,varioussituationsandrequireddo cumentationwillbeincluded as part 
 ofthe implementationofthis policy. 
   
-
 ## Page 67
 
- 
- 
- 
- 
 Intellectual Property (IP) Policy, KLE Technological University, Hubballi 
 4 
  
@@ -2282,13 +2165,8 @@ KLE Tech. In this scenario IP rights are mutually agree d upon by external party
 before the start of the collaboration, and an agreement  (Annexure 5) is signed regarding 
 sharing of monetized IP value. IP rights can be filed jointly by KLE Tech or a third party. 
  
-
 ## Page 68
 
- 
- 
- 
- 
 Intellectual Property (IP) Policy, KLE Technological University, Hubballi 
 5 
  
@@ -2306,7 +2184,6 @@ ated(conceivedorreducedtopractice inwhole orinpart)by membersofthefaculty orstaf
 (includingresearch staff, doctoralstudents, students a ndvisitingscholars)oftheKLE Techand 
 external stake-holders inthe course oftheirKLE Techre lated activities. KLE Techidentifiesthe 
 relevantstatutoryand othermechanisms 
-notlimitedtoPatent,Copyright,Trademark,DesignRights,Integrated Circuit,PlantVarieties 
 andresttowardsregistration.Disclosureenablespromptactionby KLE Tech to 
 appropriatelyprotectanddisseminate the research activiti es occurringatKLE Tech. All 
 requests/claims for IP must be routed through the of fice of Dean R&D, and appropriate 
@@ -2343,10 +2220,6 @@ diligence,notlimitingtobusinessplan,businessmodel,milestones andusageplanof
 
 ## Page 69
 
- 
- 
- 
- 
 Intellectual Property (IP) Policy, KLE Technological University, Hubballi 
 6 
  
@@ -2366,7 +2239,6 @@ TechownedIPatthesametime,preferencefor licensingmaybep rovidedtothe inventor(s)b
 onthenature of technology amongst other considerations. 
  
 Irrespectiveofthe licenseprovided,KLE Tech retainsth erightfor researchexemptionand 
-experimental use for patents,design rights and under fair useof copyrights and 
 trademarksonanKLE Techwideperpetuallicensetowardsit bas icobjectiveofacademics 
 andenhancingresearch.Thiswill includethe righttopublis h,use oftechnicaldata,the method, 
 product andrelatedservices that has resulted from earlie r research which has been licensed 
@@ -2400,13 +2272,8 @@ features of the licensingincludethe following:
 i. Preferred mode is Non Exclusive licensing. Exceptio ns to this will be based on the 
 funding of the project and any other relevant requirements.  
  
-
 ## Page 70
 
- 
- 
- 
- 
 Intellectual Property (IP) Policy, KLE Technological University, Hubballi 
 7 
  
@@ -2417,7 +2284,6 @@ license agreement.
 2.IncubationthroughCenter of Technology Innovation and Entrepreneurship (CTIE):KLE 
 Techinventorsandcommunityinterestedtoincubatethetechnologiesdevelopedhave 
 anopportunitythroughCTIE.SalientfeaturesforCTIEincubationmodelinclude the following: 
- 
  
 i. Nature of license (exclusive, non-exclusive or transf er of know how)will be based on 
 the nature of the technology developed and on any p rior contract governing the IP to 
@@ -2444,11 +2310,9 @@ not toaffect thevalue ofthe IP,throughappropriateagree mentssuch asNon-
 DisclosureAgreement(NDA)with thepotentiallicensee(s ) duringtechnology 
 marketingdiscussions. 
  
- 
 IfKLE Techhasnotbeenabletocommercializethe creativewor kinareasonabletimeframe, 
 thecreator(s) may approach the Dean R&D forthe assignme nt of rights of the invention(s)to 
 them. 
- 
  
 VI. Infringements, Damages, Liability and Indemnity In surance 
  
@@ -2459,19 +2323,12 @@ needtoindemnifyKLE Tech personnelbuiltintothelicens eagreementsfor
 Sponsoredresearchandconsultativework.KLE Techshallret aintherighttoengage inany litigation 
 concerning itsIPand license infringements. 
  
- 
- 
 VII. Conflict ofInterest 
 
 ## Page 71
 
- 
- 
- 
- 
 Intellectual Property (IP) Policy, KLE Technological University, Hubballi 
 8 
- 
  
 Theinventor(s)arerequiredtodisclosepotentialconflictofinterestwhileundertaking 
 anyIPrelatedactivity.Iftheinventor(s)and/ortheir immedi atefamilyhaveastakein a licenseeor 
@@ -2481,7 +2338,6 @@ whichtheinventorsalsohaveastake andmanagementrole shallbe subjecttothe
 approvaloftheDeanR&Dtakingthe aboveconsiderationintofac t. AllKLE TechPersonnel 
 shallbeboundbythe conflictof interestrelatedpolicy/ g uidelinesof KLE Techasapplicable from 
 time to time. 
- 
  
 VIII. DisputeResolution 
  
@@ -2496,14 +2352,8 @@ IX. Jurisdiction
 Allagreements to be signed by KLE Techwillhave the ju risdictionofthe court inKarnataka and 
 shallbe governed by appropriate lawsof India. 
  
-  
-
 ## Page 72
 
- 
- 
- 
- 
 Intellectual Property (IP) Policy, KLE Technological University, Hubballi 
 9 
  
@@ -2518,25 +2368,16 @@ research(internalandexternal)andtherange ofinventionsinc ludespatentablesubject
 matter,trademark/servicemark,geographical indicators,de signregistrations,integrated circuits 
 layout, plant varieties, materials transferandother related necessary Confidential Information. 
  
- 
 EvaluationofacademicworkassociatedwithIPcreationwillbesubjecttoKLE Technorms as 
 applicablefrom time totime. Anyagreement with an extern al agency,which requiresdelay 
 inpublic disclosurefor thepurposeofIP protection,sh ouldusually not haveeffectfor 
 longerthanthreemonthsfromthetimeofnotification byKLE Techtothesaid agency. 
  
- 
 TheapplicabilityoftheIPpolicywillbecoveredthroughappropriateformstobefilled by the KLE 
 Tech personnel. 
  
- 
-  
-
 ## Page 73
 
- 
- 
- 
- 
 Intellectual Property (IP) Policy, KLE Technological University, Hubballi 
 10 
  
@@ -2590,10 +2431,6 @@ agreed IP agreementinsuch cases,KLE Tech followsits IP policy.
 
 ## Page 74
 
- 
- 
- 
- 
 Intellectual Property (IP) Policy, KLE Technological University, Hubballi 
 11 
  
@@ -2609,7 +2446,6 @@ academicand research purposes.
 Thedesignrightforacreatedcomponent(physicalorgraphic,anydimension)follows the IP 
 inventions policyas indicated inthis section. 
  
- 
 6. Trade Mark(s)/ ServiceMark(s) 
  
 The logoofKLE TechwouldbethetrademarkoftheKLE Techno logical University.It istobe 
@@ -2618,10 +2454,8 @@ oftheKLE Techpersonnel. Officialactivitiesthatarepartoft heofficiallyrecognizedb
 Tech,webpages hosted onthe KLE Techdomain, projectwebsites andreportsinwhichKLE Tech is 
 aproject member, student thesisare allowedby default to have the KLE Tech logo. 
  
- 
 TheusageoftheKLE Techlogo,KLE Technameinfullorpartialfo rallotheractivitieshastogetdue 
 approval ofKLE Tech. 
- 
  
 7. Material Transfer Agreements (MTAs) 
 Thisagreement isofrelevancetoactivitywhich requires a physicalmaterialaccessfor research. 
@@ -2634,19 +2468,12 @@ and fromexternal agencies.
  
 *~~* End ofInventionsrelated IPPolicy*~~* 
  
-  
-
 ## Page 75
 
- 
- 
- 
- 
 Intellectual Property (IP) Policy, KLE Technological University, Hubballi 
 12 
  
 Part D:The ExpressionsrelatedIP Policy 
- 
  
 1. Applicability & Requirements 
  
@@ -2654,28 +2481,21 @@ Thispolicyisapplicable toallKLE Techpersonnelasdefinedi ntheoverallIPpolicyandth
 activities during theirengagement with KLE Tech such  as, but notlimited to, teaching, 
 research,distanceeducation, continuingeducation, consu ltancy,sponsored 
 work,collaborativeactivity(internalandexternal),KLE Techd esignatedorsponsored 
-work(academic, cultural)andthe rangeofcreationsincludes copyrightableworksand related 
 necessary confidentialinformation. 
- 
  
 Thissubpolicyislimitedtothe“literal”component ofany deliverable andpatentable / 
 “inventions”-related contentwillbeunderthe purviewo fthe IP inventionspolicy.Asan 
-example,thesisunderthecopyrightpolicyofKLE Tech refer sonlytotheliterarywork ofthe thesis. 
- 
  
 EvaluationofacademicworkassociatedwithIPcreation willbes ubjecttoKLE Technorms as 
 applicable from time totime. Anyagreement with an exter nal agency,which requiresdelay 
 inpublic disclosurefor thepurposeofIP protection,sh ouldusually not haveeffectfor 
 longerthanthreemonthsfromthetimeofnotification byKLE Techtothesaid agency. 
  
- 
 2. Relevant creationsandownership 
  
 Titletosuchcreationsincludingliteraryworks, software,m usic,cinematography,sound and other 
-rightscovered underthe Copyright Actof India, 1956 an damendments thereof,where 
 applicable, thatare createdinKLE Techwith the useofsign ificant KLE Tech resourcesunderthis 
 policy are assigned to and owned by KLE Tech. 
- 
  
 KLE Tech istheownertotheadministrativeandother docume nts createdaspart ofdesignated 
 work.Examplesinclude courseoutlinedocuments,question papers,answersheets,grade 
@@ -2688,9 +2508,7 @@ equalsharingamongst the creators.
 3. Ownership exemptions 
  
 Exemptiontoownership is giveninthe following cases andKLE Tech reservesthe rightto 
-revisetheseexemptions onacaseto casebasis.Copyrightb eingpresent bydefaultonany 
 materialbeingcreated,thepolicyprovidesthefollowingownershipexemptionstothevarious 
-creations that occur as part of KLE Techpersonnel’s ac tivities. Thecopyrightownership 
 istreated separatelyforthe various creationsidentified. 
  
 Teaching/ Course material 
@@ -2701,27 +2519,19 @@ with/stay at KLE Tech.
 
 ## Page 76
 
- 
- 
- 
- 
 Intellectual Property (IP) Policy, KLE Technological University, Hubballi 
 13 
  
 2. Asmostofthecoursecontentiscreatedcumulativelyandinordertoenablea widerusageand 
 distributionoftheteaching materialscreated,KLE Techby defaultgets 
-alicensetothecopyrightandallotherrightsofthecontent createdbythecreator for fair 
 dealingunder academicand research context. 
  
-3. KLETechisnotliableforanyofthecopyrightviolationsbyitspersonnelforthe 
 contentcreated.Theauthor isexpectedto carryoutduedili gence inthe courseof content 
 creation. 
- 
  
 Thesis 
  
 1. Thestudentistheoriginalcreatorofthe thesis,fine-tuned withrelevant contributionof 
-thesupervisor(s)andthecopyrightauthorshiprestswiththe student creator. 
  
 2. Theownershipisjointlyheldbythestudentcreatorandthesupervisor(s) 
 concerned.Thesupervisor(s)canwaiveofftheir jointowner ship ifdesired. Relevant 
@@ -2738,7 +2548,6 @@ academicandresearch purposes.
  
 5. Inthecaseofathesisresultingfromexternalfunding,thejointownershipofthe 
 thesisextends tothe externalsupervisor(s).Pendingany  specificagreement,theIP and 
-Copyright policy ofKLE Tech willbeapplicable bydefault insuchcases. 
  
 6. Boththestudentandthefacultysupervisor(s), where app licable,havetherightto 
 firstrefusalforany furtheradaptationsandotherderivativewo rkthat isintended 
@@ -2758,50 +2567,31 @@ evaluation.
  
 9. KLE Tech getsan automaticrightto display the thesisinsoftandhard forms 
  
- 
-
 ## Page 77
 
- 
- 
- 
- 
 Intellectual Property (IP) Policy, KLE Technological University, Hubballi 
 14 
- 
- 
  
 Books, articles and related literary works 
  
 KLE Tech encouragesitspersonneltospread knowledgeandbo oks,technicalarticlesetc.are 
 waysinwhichthisvisioncanbeachieved.Inthisrespect,KLE Techdoesnot claimownership 
-ofcopyrightonbooksauthoredbyKLE Techpersonnel.Incase swherethebooksarerelated to the 
 multiple research groups / faculty teachingthe course  intheKLE Tech, it is expected 
 thattheinterestedauthorshallgettherelevantnoobjectioncertificate fromco-authors/ other 
 contributors. 
- 
  
 UseofKLE Techlogoonanypersonalpublications bythefaculty /staff/studentisprohibited. 
 IncasesofKLE Techdesignated worksandotherworkslikethec ontentdevelopment programme, 
 the ownership rests with KLE Tech. 
  
- 
 Studentswhowishtopublishtheirthesis,priortosubmissionforanacademicdegree,as a bookor 
 anyother typeofpublicationarerequiredtoseeka prior wri ttenapprovalfrom Dean R&D -KLE 
 Tech. 
  
- 
 *~~* End of Expressions related IP Policy*~~* 
  
- 
-  
-
 ## Page 78
 
- 
- 
- 
- 
 Intellectual Property (IP) Policy, KLE Technological University, Hubballi 
 15 
  
@@ -2819,7 +2609,6 @@ relationship with KLE Techor through anyrelatedactivi ty.
 officestaffwill notbe considered“significantuse”ofKL E Techfacilitiesandequipment.In 
 addition, the followingare accepted as no significant usage of KLE Techresources: 
  
- 
 2. TheinventordoesnotuseanyKLE TechprovidedfundsorKLE T ech.administered funds 
 inconnectionwith the activityresultingin generationofIP. 
  
@@ -2833,10 +2622,8 @@ waivers.Itistobe notedthat intheeventoffurtherdevel opmentor modificationstoan
 earlierindividualworkbymakingsignificantuse ofKLE Tech facilities, resourcesand related 
 funding,KLE Tech mayassertfurtherrights inaccordancewi th itsIP policies. 
  
- 
 Accesstofacilitiesforexternalregisteredstudentsislimitedtotheirrelatedresearchand is bound by 
 the IP policy of KLE Tech. 
- 
  
 Annexure 2– Disclosure, Assessment and Protection 
  
@@ -2847,7 +2634,6 @@ representativeattheearliestdateusinganInventionDisclosure form(IDF)ofthe KLE Tec
 DisclosureisacriticalpartoftheIPprotectionprocessanditformallydocumentsclaims 
 ofinventorship, thedateofthe inventionandotherdetails ofthe invention.The inventor(s) 
 shallassignthe rights ofthe disclosed inventionto KLE Tech. 
- 
  
 Forsponsoredactivity,theprovisions ofthecontractpertainingto disclosure of creative work are 
 applicable.For IP generated collaboratively with an ex ternal agency disclosure process can be 
@@ -2861,10 +2647,6 @@ maintained till thedate asdemandedby the relevant cont ract, if any,betweenthe
 
 ## Page 79
 
- 
- 
- 
- 
 Intellectual Property (IP) Policy, KLE Technological University, Hubballi 
 16 
  
@@ -2901,7 +2683,6 @@ theirown.HowevertheownershiprightsshallremainwithKLE Tech.Insuchcases, thecost
 andrevenuesharingwillbegovernedbyaseparateagreementbetween KLE Techand the 
 inventor /creator(s). 
  
- 
 RenewalofIP Rights 
  
 AdecisionontheannualrenewalofIP rightswillbetakenby the KLE Tech.If KLE Techdecides 
@@ -2911,21 +2692,12 @@ caseswhereIPrights inanyspecific countryhavebeenreassi gnedtotheinventor(s),KLE
 Techshallnotclaim anyshareof proceedsearnedthroughthatI P inthat countryexceptingfor the 
 costsalready incurred by KLE Tech. 
  
- 
- 
- 
 Annexure 3– Revenue Sharing 
  
 Net earnings from the commercializationof IP owned by KLE Techwould be shared as follows: 
  
- 
-
 ## Page 80
 
- 
- 
- 
- 
 Intellectual Property (IP) Policy, KLE Technological University, Hubballi 
 17 
  
@@ -2944,7 +2716,6 @@ betweenKLE Techand the inventor / creator(s).
  
 TheinventorsmayatanytimebymutualconsentrevisethedistributionofIPearnings agreement. 
  
- 
 Annexure 4– Role ofDean R&D 
  
 Dean R&DKLE Techprovides guidance,supportandresources to allKLE Techpersonneland 
@@ -2954,7 +2725,6 @@ policy,ensurestransparencyandfairnessofimplementationprocesses, solicitsfeedback
 regardingthefulfillment oftheIPpolicyandperiodicallyre viewsthePolicytoimprove 
 uponanyshortcomings,strengthensthe infrastructureandr esourcesfor protection and 
 exploitationofIP and makes available expert inputs. 
- 
  
 Issues of ownership, confidentiality, disclosure,pate ntability, technology transfer, 
 revenuesharing,andconflictofinterestamongothersplayaveryimportantroleinany 
@@ -2979,20 +2749,12 @@ servicesthrough professional consultants.
 
 ## Page 81
 
- 
- 
- 
- 
 Annexure -4 
 Advanced Manufacturing for Aerospace Applications    
 Curriculum Scheme and Structure  
  
- 
-  
-
 ## Page 82
 
- 
 Minor Program: Advanced Manufacturing for Aerospace Applications   11/06/2018 
 Curriculum Scheme and Structure (2016-20) 
 Offered in collaboration with AEQUS-Aerospace sub system Manufacturers 
@@ -3034,13 +2796,8 @@ Total
        
 24 
  
- 
- 
- 
-
 ## Page 83
 
- 
 2).Practicals CNC: M17EASL301 
 Details No of 
 hrs 
@@ -3138,9 +2895,6 @@ This is a project assignment in process planning and design .
 Having given an input and output component the students have to carry out 
 the following activities  
  
- 
- 
- 
 Contact 
 hrs is  
 160 hrs, 
@@ -3159,10 +2913,6 @@ stage.
 6) The students in a batch of 2 have to continuosly inte ract with the 
 faculty till it is approved by coordinator 
 Total 160 hrs 
-
-## Page 85
-
- 
 
 ## Page 86
 
@@ -3262,7 +3012,6 @@ We would like to extend our sincere thanks to our faculty, staff, students, alum
 their continued support and remarkable contributions. Looking ahead, we will continue to work towards 
 realizing our vision to be a leader in engineering education, and advancing research and innovation to 
 support socio-economic development of the region.
-
 
 ## Page 90
 
@@ -3371,7 +3120,6 @@ Graduate Common Entrance Test (PGCET)
 conducted by Karnataka examination 
 authority, is used for the selection of 
 students.
-
 
 ## Page 92
 
@@ -3502,7 +3250,6 @@ improvement that strengthens our academic
 quality and inspires student achievement.
 Academic Quality
 
-
 ## Page 95
 
 8   | KLE Tech
@@ -3583,7 +3330,6 @@ holds such a space for thoughts to fully form before being set down into a holis
 During the academic year 2017-18 following are the major academic initiatives undertaken to improvise 
 the teaching and learning process.
 
-
 ## Page 97
 
 10   | KLE Tech
@@ -3623,7 +3369,6 @@ projects carried out led to publications as well. Sample other projects carried 
 using Robin Karp algorithm and SVM, Developing an model to predict and classify the heritage images 
 with appropriate labels ( Multi class), Road Fighter games using Reinforcement  & Q Learning, Image 
 prediction using CNN etc. 
-
 
 ## Page 98
 
@@ -3696,7 +3441,6 @@ partner agreement between KLE Tech., IESA and SEER, University has enabled desig
 create a, mixed signal IC - Elapsed Time Counter in UMC 0.18µm technology, under the guidance of 
 faculty and industry experts.
 
-
 ## Page 100
 
   www.kletech.ac.in  |  13 
@@ -3707,7 +3451,6 @@ new courses developed by School of Mechanical Engineering in collaboration with 
 to impart employment linked specialized knowledge and skills through design thinking led innovative 
 curriculum interventions for assured campus recruitments.
 A glimpse of the course designed to be part of the curriculum is indicated below.
-
 
 ## Page 101
 
@@ -3735,7 +3478,6 @@ PLM - Technical
 Industry Cases
 Tools: ENOVIA
 Specialist in PLM - Customization, Configuration and Integration
-
 
 ## Page 102
 
@@ -3837,7 +3579,6 @@ considered good number in current scenario.
 New companies visited include -- Tata Hitachi, SLK Software, Ducom, DiFACTO A&R
 Total number of offers is 800+.
 
-
 ## Page 105
 
 18   | KLE Tech
@@ -3897,13 +3638,14 @@ Graphs
 Details 2015-2016 2016-17 2017-18
 Journal Conference Journal Conference Journal Conference
 IJ NJ IC NC IJ NJ IC NC IJ NJ IC NC
+
 # of
+
 Publications 154 17 123 10 154 18 126 8 151 8 222 11
 171 133 172 134 159 233
 W 32 46 148
 S 78 99 81
 G 246 226 324
-
 
 ## Page 107
 
@@ -3938,7 +3680,9 @@ Consolidated  list of projects  from 2013 to 2017
 2013 to 2017 2017-18
 Name of School/Dept. # of projects Amount in 
 Lakhs
+
 # of projects Amount in 
+
 Lakhs
 Civil 01 20.00 0 0
 CSE 02 32.50 0 0
@@ -3953,10 +3697,14 @@ Summary of External Funding
   www.kletech.ac.in  |  21 
 Year # REU  students # REU
 Supervisors
+
 # of
+
 Publications 
 from REU
+
 # REU students  
+
 pursuing PG
 2011-12
 (completed)
@@ -4249,7 +3997,6 @@ announced at the end of 3 rounds. B-Plan Hackathon had 192 participants, 3 winne
 after 7 rigorous stages. Battle for Sharks had 54 teams competing against each with the total prize money 
 being worth INR 1,00,000/-
 
-
 ## Page 116
 
   www.kletech.ac.in  |  29 
@@ -4436,7 +4183,6 @@ United Heat Transfer 4
 Walmart Labs 10
 Various Biotech Companies 23
 
-
 ## Page 121
 
 34   | KLE Tech
@@ -4475,7 +4221,6 @@ number of Engineering Colleges in India have taken inspiration and have setup su
 their respective Institutions taking best practices and courses from. 
 About CEER:
 
-
 ## Page 122
 
   www.kletech.ac.in  |  35 
@@ -4504,7 +4249,6 @@ Table 1.  Details of Prayog-Vasant and Sharat
 Number of projects Date
 Prayog Vasant 147 projects by 550 freshmen April 27 2018
 Sharat 127 projects by 480 freshmen Dec 3, 2017
-
 
 ## Page 123
 
@@ -4594,7 +4338,6 @@ Second 13 64 May 14-18, 2018
 Master Trainers Workshop 1
 Glimpses of faculty in action during workshop 1 and workshop 2
 
-
 ## Page 126
 
   www.kletech.ac.in  |  39 
@@ -4646,7 +4389,6 @@ Warangal
 Joseph Engineering College, 
 Mangalore
 
-
 ## Page 127
 
 40   | KLE Tech
@@ -4680,7 +4422,6 @@ Institute Name Participants Dates
 KLE’s MSSCoE, 
 Belgaum 80 July 02-03, 2018
 KLE IT, Hubballi 40 July 30-31, 2018
-
 
 ## Page 128
 
@@ -4724,7 +4465,6 @@ Aurangabad
 80 Nov 8-9, 2017
 Vignan's Institute of Information 
 Technology, Visakhapatnam 120 May 4-5, 2018
-
 
 ## Page 129
 
@@ -4781,7 +4521,6 @@ Transformation in Engineering Education” at Bennett University, New
 Delhi by IUCEE (India US Council for Engineering Education) for the 
 second consecutive year.
 Recognitions
-
 
 ## Page 130
 
@@ -4917,7 +4656,6 @@ The new landscape focuses on creating informal interaction space for the student
 School of Computer Science & Engineering
 KLE Techpark
 
-
 ## Page 133
 
 46   | KLE Tech
@@ -4975,7 +4713,6 @@ support. This stick can even be used to protect themselves from the hazardous an
 and avoid any harm. As this product is handy and all the circuits are operated away from the body so there 
 would be no harm to human body. It is easy to maintain and due to simple placement of the circuits on the 
 stick and it is easily affordable.
-
 
 ## Page 135
 
@@ -5111,7 +4848,6 @@ During the program 23 beneficiaries were given
 scholarship of Rs.20000 each for their hostel needs 
 under Nurture Merit @ BVBCET Project.
 
-
 ## Page 138
 
   www.kletech.ac.in  |  51 
@@ -5135,7 +4871,6 @@ Dr . B. B. Kotturshettar
 Dean - Planning & Development
 Dr . Uma Mudenagudi
 Dean - Research & Development
-
 
 ## Page 139
 
@@ -5185,7 +4920,6 @@ Mechanical
 ## Page 140
 
 Campus Snapshots
-
 
 ## Page 141
 

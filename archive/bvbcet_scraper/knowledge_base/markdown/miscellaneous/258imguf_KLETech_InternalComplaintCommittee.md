@@ -1,10 +1,9 @@
 # PDF Document: 258imguf_KLETech_InternalComplaintCommittee
+
 **PDF Source:** https://www.kletech.ac.in/Uploads/image/258imguf_KLETech_InternalComplaintCommittee.pdf
 
 ## Page 1
 
- 
- 
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi 580031. Karnataka (India) 
 Tel. : +91 - 836 - 2378123  Fax : +91 - 836 - 2374985. www.kletech.ac.in 
  
@@ -31,7 +30,6 @@ Ms. Samarth Kosti III Semester Student from Computer Science & Engg. Member
 Smt. Savitri B Anami Practicing Lawyer Member 
 Prof. Sumedha Shinde Assistant Professor, Department of Mathematics Member Secretary 
  
- 
 (Dr B. S. Anami) 
 REGISTRAR,  
 KLE Technological University Hubballi  
@@ -42,4 +40,3 @@ CC:
 2. Office of the Registrar, KLE Technological University, Hubballi 
 3. PA to Vice-Chancellor, KLE Technological University, Hubballi 
  
-     
