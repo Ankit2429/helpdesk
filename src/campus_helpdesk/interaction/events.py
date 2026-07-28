@@ -158,6 +158,30 @@ class EventType(str, Enum):
     Payload:   :class:`VoicePayload`
     """
 
+    MICROPHONE_STARTED = "MICROPHONE_STARTED"
+    """Emitted when the VAD Service opens the microphone stream.
+
+    Producer:  ``vad_service``
+    Consumers: ``ui_service``, ``logging_service``
+    Payload:   :class:`VoicePayload`
+    """
+
+    MICROPHONE_STOPPED = "MICROPHONE_STOPPED"
+    """Emitted when the VAD Service closes the microphone stream.
+
+    Producer:  ``vad_service``
+    Consumers: ``ui_service``, ``logging_service``
+    Payload:   :class:`VoicePayload`
+    """
+
+    MICROPHONE_ERROR = "MICROPHONE_ERROR"
+    """Emitted when VAD microphone streaming encounters hardware/API errors.
+
+    Producer:  ``vad_service``
+    Consumers: ``interaction_manager``, ``logging_service``
+    Payload:   :class:`VoicePayload`
+    """
+
     # ---- Speech-to-text ----------------------------------------------------
 
     TRANSCRIPT_PARTIAL = "TRANSCRIPT_PARTIAL"
@@ -1137,6 +1161,9 @@ EVENT_PAYLOAD_MAP: dict[EventType, type] = {
     EventType.CAMERA_DISCONNECTED: CameraPayload,
     EventType.CAMERA_RECONNECTED: CameraPayload,
     EventType.CAMERA_ERROR: CameraPayload,
+    EventType.MICROPHONE_STARTED: VoicePayload,
+    EventType.MICROPHONE_STOPPED: VoicePayload,
+    EventType.MICROPHONE_ERROR: VoicePayload,
 }
 
 # Maps payload class name string → class, used during deserialisation.
