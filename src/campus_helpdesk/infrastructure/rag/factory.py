@@ -4,10 +4,10 @@ from campus_helpdesk.application.rag_pipeline import RAGPipeline
 from campus_helpdesk.config.settings import Settings
 from campus_helpdesk.infrastructure.rag.faiss_store import FAISSSimilarityStore
 from campus_helpdesk.infrastructure.rag.knowledge_loader import KnowledgeLoader
+from campus_helpdesk.infrastructure.rag.semantic_chunker import SemanticDocumentChunker
 from campus_helpdesk.infrastructure.rag.sentence_transformer_embeddings import (
     SentenceTransformerEmbeddings,
 )
-from campus_helpdesk.infrastructure.rag.text_chunker import RecursiveTextChunker
 
 
 def create_rag_pipeline(settings: Settings) -> RAGPipeline:
@@ -41,7 +41,7 @@ def create_rag_pipeline(settings: Settings) -> RAGPipeline:
             settings.knowledge_source_path,
             settings.knowledge_max_file_size_bytes,
         ),
-        document_chunker=RecursiveTextChunker(
+        document_chunker=SemanticDocumentChunker(
             chunk_size=settings.rag_chunk_size,
             chunk_overlap=settings.rag_chunk_overlap,
             separators=settings.rag_chunk_separators,
