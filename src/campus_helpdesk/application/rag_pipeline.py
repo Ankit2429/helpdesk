@@ -28,8 +28,8 @@ class RAGPipeline:
         self._similarity_store = similarity_store
         self._search_limit = search_limit
 
-    def ingest_pdf(self, source_path: Path, persist: bool = True) -> IngestionResult:
-        """Load, chunk, index, and optionally persist a PDF source file."""
+    def ingest_file(self, source_path: Path, persist: bool = True) -> IngestionResult:
+        """Load, chunk, index, and optionally persist a knowledge source file (.pdf or .md)."""
         documents = self._document_loader.load(source_path)
         chunks = self._document_chunker.split(documents)
         if not chunks:
@@ -49,6 +49,10 @@ class RAGPipeline:
             extra={"document_count": result.document_count, "chunk_count": result.chunk_count},
         )
         return result
+
+    def ingest_pdf(self, source_path: Path, persist: bool = True) -> IngestionResult:
+        """Backward-compatible alias for ingest_file."""
+        return self.ingest_file(source_path, persist=persist)
 
     def search(self, query: str, limit: int | None = None) -> list[SearchResult]:
         """Find relevant indexed chunks for a natural-language query."""
