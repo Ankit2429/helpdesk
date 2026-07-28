@@ -112,6 +112,7 @@ class CanonicalIndexBuilder:
             "build_timestamp": datetime.datetime.now(datetime.timezone.utc).isoformat(),
             "pipeline_version": self.PIPELINE_VERSION,
             "embedding_model": str(self.similarity_store._embedding_metadata.get("embedding_model", "unknown")),
+            "embedding_normalize": bool(self.similarity_store._embedding_metadata.get("embedding_normalize", True)),
             "embedding_dimension": 384,
             "faiss_index_type": "FAISS_FlatL2",
             "number_of_documents": documents_processed,

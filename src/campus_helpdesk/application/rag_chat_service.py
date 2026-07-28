@@ -6,6 +6,7 @@ from campus_helpdesk.application.chat_models import ChatResult
 from campus_helpdesk.application.chat_service import ChatService
 from campus_helpdesk.application.llm_service import LLMService
 from campus_helpdesk.application.rag_pipeline import RAGPipeline
+from campus_helpdesk.infrastructure.rag.prompt_context_builder import PromptContextBuilder
 
 logger = logging.getLogger(__name__)
 
@@ -29,13 +30,18 @@ class RAGChatService(ChatService):
         self,
         llm_service: LLMService,
         rag_pipeline: RAGPipeline | None = None,
-        distance_threshold: float = 1.0,
+        distance_threshold: float = 2.0,
+        max_context_size: int = 3000,
         system_prompt: str = DEFAULT_SYSTEM_PROMPT,
     ) -> None:
         self._llm_service = llm_service
         self._rag_pipeline = rag_pipeline
         self._distance_threshold = distance_threshold
         self._system_prompt = system_prompt
+        self._context_builder = PromptContextBuilder(
+            max_context_size=max_context_size,
+            similarity_threshold=distance_threshold,
+        )
 
     def respond(self, message: str) -> ChatResult:
         """Process user message through RAG retrieval and generate answer via local LLM."""
@@ -47,18 +53,11 @@ class RAGChatService(ChatService):
             try:
                 search_results = self._rag_pipeline.search(message)
                 if search_results:
-                    top_distance = search_results[0].distance
-                    if top_distance <= self._distance_threshold:
-                        retrieved_chunks = [
-                            res.document.content
-                            for res in search_results
-                            if res.distance <= self._distance_threshold
-                        ]
-                        context_str = "\n---\n".join(retrieved_chunks)
-                    else:
+                    context_str = self._context_builder.build_context(search_results)
+                    if not context_str:
                         logger.info(
-                            f"Top search result distance ({top_distance:.4f}) exceeds threshold ({self._distance_threshold}). "
-                            "Skipping RAG context — will use general LLM knowledge."
+                            "All search results exceeded similarity distance threshold (%f). Skipping RAG context.",
+                            self._distance_threshold,
                         )
             except Exception as err:
                 logger.warning(f"RAG context retrieval exception: {err}")
@@ -66,7 +65,6 @@ class RAGChatService(ChatService):
         if context_str:
             prompt = f"{self._system_prompt}\n\nContext:\n{context_str}\n\nUser Question: {message}"
         else:
-            # No RAG context found — fall back to general LLM knowledge
             prompt = f"{GENERAL_SYSTEM_PROMPT}\n\nUser Question: {message}"
 
         reply = self._llm_service.generate(prompt)
@@ -83,18 +81,11 @@ class RAGChatService(ChatService):
             try:
                 search_results = self._rag_pipeline.search(message)
                 if search_results:
-                    top_distance = search_results[0].distance
-                    if top_distance <= self._distance_threshold:
-                        retrieved_chunks = [
-                            res.document.content
-                            for res in search_results
-                            if res.distance <= self._distance_threshold
-                        ]
-                        context_str = "\n---\n".join(retrieved_chunks)
-                    else:
+                    context_str = self._context_builder.build_context(search_results)
+                    if not context_str:
                         logger.info(
-                            f"Top search result distance ({top_distance:.4f}) exceeds threshold ({self._distance_threshold}). "
-                            "Skipping RAG context — will use general LLM knowledge."
+                            "All search results exceeded similarity distance threshold (%f). Skipping RAG context.",
+                            self._distance_threshold,
                         )
             except Exception as err:
                 logger.warning(f"RAG context retrieval exception: {err}")
