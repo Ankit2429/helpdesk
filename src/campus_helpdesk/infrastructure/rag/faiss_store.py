@@ -111,5 +111,9 @@ class FAISSSimilarityStore:
         except json.JSONDecodeError as error:
             raise ValueError("FAISS index metadata is invalid. Rebuild the index before loading it.") from error
 
-        if index_metadata != self._embedding_metadata:
-            raise ValueError("FAISS index embedding configuration differs. Rebuild the index before loading it.")
+        for key, expected_value in self._embedding_metadata.items():
+            if index_metadata.get(key) != expected_value:
+                raise ValueError(
+                    f"FAISS index embedding configuration differs for '{key}'. "
+                    f"Expected '{expected_value}', got '{index_metadata.get(key)}'. Rebuild the index before loading it."
+                )

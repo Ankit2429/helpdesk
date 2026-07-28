@@ -6,6 +6,9 @@ Includes Q9 (Rephrased Answerable Query) and Q10 (Genuinely Unanswerable Query).
 
 import sys
 import time
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent.parent))
 
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8")
