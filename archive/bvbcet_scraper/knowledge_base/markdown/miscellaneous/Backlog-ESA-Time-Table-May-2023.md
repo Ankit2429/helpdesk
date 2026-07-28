@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: Backlog-ESA-Time-Table-May-2023"
+title: "Backlog Esa Time Table May 2023"
 category: "miscellaneous"
 subcategory: ""
 document_type: "timetable"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["backlog", "code", "course", "document", "esa", "examinations", "india", "may", "semester", "table"]
 aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "7"
 ---
-# PDF Document: Backlog-ESA-Time-Table-May-2023
- **PDF Source:** https://www.kletech.ac.in/hubballi/pdf/Backlog-ESA-Time-Table-May-2023.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/hubballi/pdf/Backlog-ESA-Time-Table-May-2023.pdf
  I / II SEMESTER III SEMESTER V SEMESTER VII SEMESTER
 Course (Course Code) Course (Course Code) Course (Course Code) Course (Course Code) 
  (2.00 PM to 5.00 PM) (9.30 AM to 12.30 PM) (9.30 AM to 12.30 PM) (2.00 PM to 5.00 PM)
@@ -64,7 +64,6 @@ Date
 (Tuesday) 
 ----------------------
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India)
- ## Page 2
  V SEMESTER VII SEMESTER
 Course (Course Code) Course (Course Code) 
   (9.30 AM to 12.30 PM) (2.00 PM to 5.00 PM)
@@ -92,7 +91,6 @@ Date
  (Day)
 ----------------------
 ----------------------
- ## Page 3
  I / II SEMESTER III SEMESTER V SEMESTER VII SEMESTER
 Course (Course Code) Course (Course Code) Course (Course Code) Course (Course Code) 
  (2.00 PM to 5.00 PM) (9.30 AM to 12.30 PM) (9.30 AM to 12.30 PM) (2.00 PM to 5.00 PM)
@@ -135,7 +133,6 @@ Date
 23/05/2023 
 (Tuesday) ----------------------
 -------------------------------------------- ----------------------
- ## Page 4
  I / II SEMESTER III SEMESTER V SEMESTER VII SEMESTER
 Course (Course Code) Course (Course Code) Course (Course Code) Course (Course Code) 
  (2.00 PM to 5.00 PM) (9.30 AM to 12.30 PM) (9.30 AM to 12.30 PM) (2.00 PM to 5.00 PM)
@@ -181,7 +178,6 @@ EXAMINATIONS MAY 2023
 (Friday) 
 ----------------------
 -------------------------------------------- ----------------------
- ## Page 5
  I / II SEMESTER III SEMESTER V SEMESTER VII SEMESTER
 Course (Course Code) Course (Course Code) Course (Course Code) Course (Course Code) 
  (2.00 PM to 5.00 PM) (9.30 AM to 12.30 PM) (9.30 AM to 12.30 PM) (2.00 PM to 5.00 PM)
@@ -220,7 +216,6 @@ EXAMINATIONS MAY 2023
 24/05/2023 
 (Wednesday) ---------------------- ---------------------- ----------------------
 ----------------------
- ## Page 6
  I / II SEMESTER III SEMESTER V SEMESTER VII SEMESTER
 Course (Course Code) Course (Course Code) Course (Course Code) Course (Course Code) 
  (2.00 PM to 5.00 PM) (9.30 AM to 12.30 PM) (9.30 AM to 12.30 PM) (2.00 PM to 5.00 PM)
@@ -272,7 +267,6 @@ BACKLOG TIME TABLE FOR I, II, III, V & VII SEMESTER B.E.
 EXAMINATIONS MAY 2023
 --------------------------------------------
 ----------------------
- ## Page 7
  I / II SEMESTER III SEMESTER V SEMESTER VII SEMESTER
 Course (Course Code) Course (Course Code) Course (Course Code) Course (Course Code) 
  (2.00 PM to 5.00 PM) (9.30 AM to 12.30 PM) (9.30 AM to 12.30 PM) (2.00 PM to 5.00 PM)

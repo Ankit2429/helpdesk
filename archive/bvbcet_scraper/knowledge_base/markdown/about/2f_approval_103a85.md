@@ -14,4 +14,3 @@ last_modified: "2026-07-28"
 ---
 # 2f Approval
  **Source URL:** https://www.kletech.ac.in/hubballi/about/2f-approval
- 

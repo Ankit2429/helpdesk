@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 05-bachelor-of-cs-artificial-intelligence-curriculum-structure-content-2023-2027"
+title: "BE- Computer Science and Engineering (Artificial Intelligence) Curriculum"
 category: "academics"
 subcategory: ""
 document_type: "syllabus"
@@ -11,18 +11,15 @@ language: "en"
 keywords: ["artificial", "bachelor", "content", "course", "curriculum", "data", "document", "engineering", "intelligence", "marks"]
 aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "206"
 ---
-# PDF Document: 05-bachelor-of-cs-artificial-intelligence-curriculum-structure-content-2023-2027
- **PDF Source:** https://www.kletech.ac.in/pdf/05-bachelor-of-cs-artificial-intelligence-curriculum-structure-content-2023-2027.pdf
- ## Page 1
- FMCD2009 / 2.0 
- 1 
+**PDF Source:** https://www.kletech.ac.in/pdf/05-bachelor-of-cs-artificial-intelligence-curriculum-structure-content-2023-2027.pdf
+
   Curriculum Structure and Curriculum Content for the Batch: 2023-27 
 School: Computer Science and Engineering 
 Program: BE- Computer Science and Engineering (Artificial Intelligence) 
-  ## Page 2
- FMCD2009 / 2.0 
- 2 
+
   Table of Contents 
 Vision and Mission of KLE Technological University ............................................................. 3 
 Vision and Mission Statements of the School / Department ................................................ 4 
@@ -41,9 +38,7 @@ Semester- VIII .................................................................
 List of Open Electives .......................................................................................................... 16 
 List of Program Electives..................................................................................................... 17 
 Curriculum Content- Course wise ........................................................................................ 19 
-  ## Page 3
- FMCD2009 / 2.0 
- 3 
+
   Vision and Mission of KLE Technological University 
   Vision 
   KLE Technological University will be a national leader in Higher Education-recognised globally 
@@ -63,9 +58,7 @@ importance and priority.
 expertise, experience and leadership, to enhance competitiveness and quality of life. 
   As a unified community of faculty, staff and students, we work together with the spirit of 
 collaboration and partnership to accomplish our mission. 
-  ## Page 4
- FMCD2009 / 2.0 
- 4 
+
   Vision and Mission Statements of the School / Department 
   Department Vision 
 The KLE Tech - School of Computer Science will excel and lead in education, research and 
@@ -79,9 +72,7 @@ computing and information technology businesses and occupations.
 future of computing technologies. 
  To collaborate within and beyond discipline to create solutions that benefit humanity and 
 society. 
-  ## Page 5
- FMCD2009 / 2.0 
- 5 
+
 Program Educational Objectives/Program Outcomes and Program-Specific Objectives 
 Program Educational Objectives -PEO's 
 PEO: 1. Graduates will demonstrate peer recognized technical competency to solve analyze, 
@@ -125,9 +116,7 @@ PO 10: Communication: Communicate effectively on complex engineering activities 
 the engineering community and with the society at large, such as, being able to 
 comprehend and write effective reports and design documentation, make effective 
 presentations, and give and receive clear instructions 
- ## Page 6
- FMCD2009 / 2.0 
- 6 
+
 PO 11: Project management and finance : Demonstrate knowledge and understanding of 
 the engineering and management principles and apply t hese to one 's own work, as a 
 member and leader in a team, to manage projects and in multidisciplinary environments. 
@@ -139,9 +128,7 @@ PSO 1: Domain-specific knowledge: An ability to apply techniques to develop comp
 based solutions in the domain of data, system and network engineering. 
 PSO 2: Software System Construction: Apply design and development principles in the 
 construction of software systems of varying complexity. 
-  ## Page 7
- FMCD2009 / 2.0 
- 7 
+
 Curriculum Structure-Overall 
 CSE-AI Total Program Credit: 176 (44+132) Year: 2023-27 
 Courses Semester wise 
@@ -300,9 +287,7 @@ Industry Readiness &
 Leadership Skills 
 (23EHSA304)(Audit) 
    Credits 21 23 23.5 24.5 23 26 18 17 
- ## Page 8
- FMCD2009 / 2.0 
- 8 
+
 Curriculum Structure-Semester wise 
 Semester - I 
 ISA: In Semester Assessment ESA: End Semester Assessment L: Lecture T: Tutorials P: Practical 
@@ -319,9 +304,7 @@ Duration
 6 20EHSP101 Design Thinking for Social Innovation HSS 0-1-1 2 3 80 20 100 3 hours 
 7 21EPHP101 Applied Physics Lab BS 0-0-1 1 2 80 20 100 3 hours 
 Total 14-2-5 21 27 440 260 700 
- ## Page 9
- FMCD2009 / 2.0 
- 9 
+
 Semester - II 
 ISA: In Semester Assessment ESA: End Semester Assessment L: Lecture T: Tutorials P: Practical 
   Date: Program Head 
@@ -337,9 +320,7 @@ Duration
 6 22EMEF101 Basic Mechanical Engineering ES 2-1-0 3 4 50 50 100 3 hours 
 7 15EHSH101 Professional Communication HSS 1-1-0 2 3 50 50 100 3 hours 
 Total 14-3-6 23 32 410 290 700 
- ## Page 10
- FMCD2009 / 2.0 
- 10 
+
 Semester: III 
 No Code Course Category L-T-P Credits Contact 
 Hours ISA ESA Total Exam 
@@ -356,9 +337,7 @@ Architecture PC 3-0-1 4 5 63 37 100 3 hours
 TOTAL 17-1-5.5 23.5 30 530 264 800 
 ISA: In Semester Assessment ESA: End Semester Assessment L: Lecture T: Tutorials P: Practical 
   Date: Program Head 
-   ## Page 11
- FMCD2009 / 2.0 
- 11 
+
 Semester: IV 
   No Code Course Category L-T-P Credits Contact 
 Hours ISA ESA Total Exam 
@@ -376,9 +355,7 @@ Programming PC 4-0-1 5 6 60 40 100 3 hours
  16-2-6.5 24.5 34 506 294 800 
 ISA: In Semester Assessment ESA: End Semester Assessment L: Lecture T: Tutorials P: Practical 
   Date: Program Head 
-   ## Page 12
- FMCD2009 / 2.0 
- 12 
+
 Semester: V 
 No Code Course Category L-T-P Credits Contact 
 Hours ISA ESA Total Exam 
@@ -402,9 +379,7 @@ Reasoning HSS 0-0-0 0 1 100 0 100 3 hours
   1000 
    ISA: In Semester Assessment ESA: End Semester Assessment L: Lecture T: Tutorials P: Practical 
   Date: Program Head 
-                    ## Page 13
- FMCD2009 / 2.0 
- 13 
+
 Semester: VI 
 No Code Course Category L-T-P Credits Contact 
 Hours ISA ESA Total Exam 
@@ -421,9 +396,7 @@ Reasoning HSS 3-0-0 3 3 50 50 100 3 hours
  15-0-11 26 29 479 321 800 
 ISA: In Semester Assessment ESA: End Semester Assessment L: Lecture T: Tutorials P: Practical 
   Date: Program Head 
-   ## Page 14
- FMCD2009 / 2.0 
- 14 
+
 Semester- VII 
 No Code Course Category L-T-P Credits 
 Contact 
@@ -439,9 +412,7 @@ Duration
 Total 10-0-8 18 19 316 284 600 
 ISA: In Semester Assessment ESA: End Semester Assessment L: Lecture T: Tutorials P: Practical 
   Date: Program Head 
-   ## Page 15
- FMCD2009 / 2.0 
- 15 
+
 Semester- VIII 
   No Code Course Category L-T-P Credits 
 Contact 
@@ -460,9 +431,7 @@ PW 0-0-11 11 22 50 50 100 3 hours
   Date: Program Head 
   Semester I II III IV V VI VII VIII Total 
 Credits 21 23 23.5 24.5 23 26 18 17 176 
- ## Page 16
- FMCD2009 / 2.0 
- 16 
+
 List of Open Electives 
    Sr. No Name of the Course Course Code 
 1. Distributed and Cloud Computing (2-0-1) 22ECAO401 
@@ -474,9 +443,7 @@ High Performance Computing for Engineering Applications
 4. Essentials of IT (0-0-3) 22ECAO405 
 5. Software Engineering (3-0-0) 22ECAO403 
 6. Big Data Analytics (3-0-0) 22ECAO406 
-  ## Page 17
- FMCD2009 / 2.0 
- 17 
+
 List of Program Electives 
 Sr. No Name of the Course Course Code 
 3rd Year (Professional Electives- 1, 2 & 3) 
@@ -506,9 +473,7 @@ System and Software Development
 4. DevOps and MLOps (0-0-2) 23ECAE335 
 5. Microservice Architecture using JAVA(2-0-1) 24ECAE304 
 6. Multicore architecture and Programming (2-0-1) 25ECAE334 
-  ## Page 18
- FMCD2009 / 2.0 
- 18 
+
 4th Year (Professional Electives- 4, 5 & 6) 
 Data Intelligence 
 1. Advanced Computer Graphics(0-0-3) 22ECAE407 
@@ -528,9 +493,7 @@ System and Software Development
 4. Software Architecture and Design Thinking (3-0-0) 25ECAE425 
 5. Advanced Parallel Computing (3-0-0) 22ECAE414 
 6. Scalable AI(3-0-0) 22ECAE415 
-  ## Page 19
- FMCD2009 / 2.0 
- 19 
+
 Curriculum Content- Course wise 
 Semester - I 
 Program: Bachelor of Engineering Semester - I 
@@ -576,9 +539,7 @@ rule
 MatLab: problems on arc length, area, volume and surface area 
 14 hrs 
 Unit III 
-  ## Page 20
- FMCD2009 / 2.0 
- 20 
+
 6 
 Ordinary differential equations of first order: (a) Introduction to Initial 
 Value problems. Linear and Bernoulli 's equations, Exact equations and 
@@ -594,10 +555,7 @@ Text Books
 Reference Books: 
 1. Hughues- Hallett Gleason, Calculus Single and Multivariable, 4ed, Wiley India, 2009. 
 2. Thomas Calculus, George B Thomas, Pearson India, 12ed, 2010 
-   BACK 
-  ## Page 21
- FMCD2009 / 2.0 
- 21 
+
   Program: Bachelor of Engineering Semester - I 
 Course Title: Engineering Physics Course Code: 22EPHB101 
 L-T-P: 3-0-0 Credits:3 Contact Hrs: 3hrs/week 
@@ -639,9 +597,7 @@ Diode specifications: Diode data sheets, low power diodes, rectifier diodes
 Diode testing: Ohmmeter tests, use of digital meter, plotting diode 
 characteristics. 
 10 Hrs 
- ## Page 22
- FMCD2009 / 2.0 
- 22 
+
 Zener diodes: Junction break down, circuit sym bols and packages, 
 characteristics and parameters, data sheet, equivalent circuits. 
 (Text 1 Page No 34-71) 
@@ -685,10 +641,7 @@ Faraday's Law:
 Faraday's Law of Induction, Motional emf, Lenz 's Law, Induced emf and 
 Electric Fields Generators and Motors, Eddy Currents 
 10 Hrs 
- ## Page 23
- FMCD2009 / 2.0 
- 23 
-   BACK 
+
   (Text 2 Page No 868-969) 
 Text Book: 
 1. David A Bell, "Electronics Devices and Circuits", Fifth Edition, Oxford University Press. 
@@ -699,9 +652,7 @@ References:
 2. R P Feynman, Robert B Leighton, Matthew Sands, The Feynman Lectures on Physics 
 Vol-II, Norosa Publishing House (1998). 
 3. Ben G Streetman, Solid State Electronic Devices, Prentice Hall, 1995 
- ## Page 24
- FMCD2009 / 2.0 
- 24 
+
   Program: Bachelor of Engineering Semester - I 
 Course Title: Engineering Mechanics Course Code: 15ECVF101 
 L-T-P: 4-0-0 Credits:4 Contact Hrs: 4hrs/week 
@@ -753,10 +704,7 @@ friction formula. Numerical probl ems on, impending motion on horizontal
 and inclined planes (including connected bodies); wedge friction; Ladder 
 friction and Belt friction. 
 8 hrs 
- ## Page 25
- FMCD2009 / 2.0 
- 25 
- BACK 
+
    6 
 Simple Stress and Strain: Introduction, Properties of Materials, Stress, Strain, 
 Elasticity, Elastic limit, Hooke's law & Young's modulus, Stress - Strain 
@@ -800,9 +748,7 @@ Bangalore, 2006.
 Publishing Company, New Delhi, 1956. 
 5. Irving H Shames, Engineering Mechanics, 3rd edition, Prentice-Hall of India Pvt. Ltd, 
 New Delhi- 110 001, 1995. 
- ## Page 26
- FMCD2009 / 2.0 
- 26 
+
   Program: Bachelor of Engineering Semester - I 
 Course Title: C Programming for Problem Solving Course Code: 18ECSP101 
 L-T-P: 0-0-3 Credits: 3 Contact hrs: 6 Hrs/week 
@@ -850,9 +796,7 @@ arrays, passing an array to a function.
 08 hrs 
 8 Structures and Unions 
 Introduction, passing structures to functions, Array of structures, Unions 05 hrs 
- ## Page 27
- FMCD2009 / 2.0 
- 27 
+
 Text Books 
 1. R.G. Dromey, How to Solve it by Computer, 1ed, PHI, 2008. 
 2. Yashvant Kanetkar, Let us C, 15th ed, BPS Publication, 2016. 
@@ -861,10 +805,7 @@ Reference Books:
 2. B S Gottfried, Programming with C, 2ed, TMH, 2006. 
 3. B.A. Forouzan, R.F. Gilberg, A Structured Program Approach Using C, 3ed, CENGAGE 
 Learning, 2008. 
-  BACK 
-  ## Page 28
- FMCD2009 / 2.0 
- 28 
+
   Program: Bachelor of Engineering Semester - I 
 Course Title: Basic Electrical Engineering Course Code: 18EEEF101 
 L-T-P: 3-0-0 Credits: 3 Contact: 3hrs/week 
@@ -908,9 +849,7 @@ three-phase fully controlled converter, Inverter-fed induction motors,
 Soft-starting induction motors, DC to DC conversion switched -mode 
 power 
 6 hrs 
-   ## Page 29
- FMCD2009 / 2.0 
- 29 
+
 Unit-III 
 6 
 Electrical Wiring, Safety and protection(Ref :Text3-page 1 to 10) : 
@@ -939,10 +878,7 @@ Reference Books:
 Measurement Systems, 3rd, Tata McGraw Hill Education Private Limited, New Delhi., 
 2005 
 3. Vincent Del Toro, Electrical Engineering Fundamentals, 2nd edition Prentice Hall India 
-   BACK 
-  ## Page 30
- FMCD2009 / 2.0 
- 30 
+
   Program: Bachelor of Engineering Semester - I 
 Course Title: Design Thinking for Social Innovation Course Code: 20EHSP101 
 L-T-P: 0-1-1 Credits: 2 Contact Hrs: 4hrs/week 
@@ -1026,9 +962,7 @@ for all the
 mindsets) 
  Watching in Class 
 TED Talk on "How 
- ## Page 31
- FMCD2009 / 2.0 
- 31 
+
 ( Person Paralyzed waist 
 down / Glass Halh full 
 Half Empty) 
@@ -1095,9 +1029,7 @@ arrive at the
 "Social Issue" 
  Familiarization of 
 the respective 
- ## Page 32
- FMCD2009 / 2.0 
- 32 
+
  Detailed interaction / 
 engagements with 
 the society and 
@@ -1158,9 +1090,7 @@ Synthesis
  Familiarization of 
 the respective 
 templates with 
- ## Page 33
- FMCD2009 / 2.0 
- 33 
+
  Create "How might 
 we" question 
 Class Presentations 
@@ -1240,9 +1170,7 @@ templates with
 the help of 
 sample case 
 study 
-  ## Page 34
- FMCD2009 / 2.0 
- 34 
+
 7. Conducting Yoga 
 Classes 
 ( www.causevox.com / 
@@ -1270,10 +1198,7 @@ templates with
 the help of 
 sample case 
 study 
-   BACK 
-  ## Page 35
- FMCD2009 / 2.0 
- 35 
+
   Program: Bachelor of Engineering Semester - I 
 Course Title: Applied Physics Lab Course Code: 21EPHP101 
 L-T-P: 0-0-1 Credits : 1 Contact Hrs.: 02 Hrs/Week 
@@ -1290,10 +1215,7 @@ Experiments
 8. Study of frequency response of passive components 
 9. Calibration of thermocouple 
 10. Calibration of electrical meters 
-   BACK 
-  ## Page 36
- FMCD2009 / 2.0 
- 36 
+
 II Semester 
 Program: Bachelor of Engineering Semester - II 
 Course Title: Multivariable calculus Course Code: 18EMAB102 
@@ -1340,10 +1262,7 @@ Reference Books:
 1. Hughues- Hallett Gleason, Calculus Single and Multivariable, 4ed, Wiley India, 
 2009. 
 2. Thomas Calculus, George B Thomas, Pearson India, 12ed, 2010 
-BACK 
- ## Page 37
- FMCD2009 / 2.0 
- 37 
+
   Program: Bachelor of Engineering Semester - II 
 Course Title: Engineering Chemistry Course Code: 22ECHB102 
 L-T-P: 3-0-0 Credits: 03 Contact Hours: 3hrs/week 
@@ -1391,9 +1310,7 @@ process. Crystal growth; preparation of single crystal silicon by Czhochralski
 crystal pulling technique - numerical problems. Crystal slicing and wafer 
 preparation. 
 09 hrs 
- ## Page 38
- FMCD2009 / 2.0 
- 38 
+
 Fabrication process: thermal oxidation, diffusion, ion implantation - 
 numerical problems, epitaxial growth, masking and photolithography, wet 
 etching, dry etching. 
@@ -1439,10 +1356,7 @@ Wiley and sons, 2007, New York.
 Anand, Himalaya Publishing House Pvt. Ltd, 2010, Mumbai. 
 7. VLSI Technology, 2nd Edition, S.M.Sze, McGraw Hill Series in electrical and computer 
 engineering, 1998, New York. 
- BACK 
- ## Page 39
- FMCD2009 / 2.0 
- 39 
+
 Program: Bachelor of Engineering Semester - II 
 Course Title: Problem Solving with Data Structures Course Code: 18ECSP102 
 L-T-P: 0-0-3 Credits: 3 Contact: 6 hrs/week 
@@ -1483,10 +1397,7 @@ Text Books
 Reference Books: 
 1. Data Structures, Algorithms and Applications In C++ -- Satraj Sahani 
 2. Data Structures and Algorithms Made Easy - Narshiman Karumunchi, Career Monk 
-  BACK 
-  ## Page 40
- FMCD2009 / 2.0 
- 40 
+
 Program: Bachelor of Engineering Semester - II 
 Course Title: Engineering Exploration Course Code: 22ECRP101 
 L-T-P: 0-0-3 Credits: 3 Contact Hrs.: 6hrs/week 
@@ -1525,10 +1436,7 @@ percentage
 Tool - 
 10 Platform Based Development: Arduino - 
 10 Course Project 40 
-BACK 
- ## Page 41
- FMCD2009 / 2.0 
- 41 
+
 Program: Bachelor of Engineering Semester - II 
 Course Title: Basic Electronics Course Code: 18EECF101 
 L-T-P: 4-0-0 Credits: 4 Contact Hours: 4 Hrs/week 
@@ -1578,9 +1486,7 @@ Subtractor, ZCD and Comparator .
 Unit-III 
 6 Communication Systems: Basic block diagram of communication 
 system, types of modulation. Amplitude modulation: Time -Domain 07 hrs 
- ## Page 42
- FMCD2009 / 2.0 
- 42 
+
 description, Frequency-Domain description. Generation of AM wave: 
 square law modulator . Detection of AM waves: envelope detector . 
 Double side band suppressed carrier modulation (DSBSC), Generation 
@@ -1602,10 +1508,7 @@ References:
 3. Floyd, Digital fundamentals, 3, Prentice Hall India, 2001 
 4. BoylesteadNashelsky, Electronic devices & Circuit theory, Prentice Hall India, 2000 
 5. RamakantGaikawad , Operational Amplifiers & applications, PHI, 2000 
-   BACK 
- ## Page 43
- FMCD2009 / 2.0 
- 43 
+
    Program: Bachelor of Engineering Semester - II 
 Course Title: Basic Mechanical Engineering Course code: 22EMEF101 
 L-T-P: 2-1-0 Credits: 3 Contact Hrs: 4hrs/week 
@@ -1675,9 +1578,7 @@ aluminium can
 crusher 
 Video presentations 
 5 
- ## Page 44
- FMCD2009 / 2.0 
- 44 
+
  Gears. Spur Gear, Rack and 
 Pinion, Worm Gear, Bevel Gear, 
 Helical Gears. Speed, Torque, and 
@@ -1729,10 +1630,7 @@ Reference Books:
 2. SKH Chowdhary, AKH Chowdhary, Nirjhar Roy, The Elements of Workshop Technology 
 - Vol I & II, 11th edition 2001, Media Promoters and Publishers. 
 3. Basic Manufacturing, Roger Timings, Third edition, Newnes, An imprint of Elsevier 
-BACK 
-  ## Page 45
- FMCD2009 / 2.0 
- 45 
+
 Program: Bachelor of Engineering Semester - II 
 Course Title: Professional Communication Course Code: 15EHSH101 
 L-T-P: 1-1-0 Credits: 2 Contact Hrs.: 3hrs/week 
@@ -1757,10 +1655,7 @@ References:
 1. Collins Cobuild Advanced Learner's English Dictionary 
 2. Raymond Murphy - Intermediate English Grammar, Cambridge University Press 
 3. Martin Hewings- Advanced English Grammar, Cambridge University Press. 
-   BACK 
-   ## Page 46
- FMCD2009 / 2.0 
- 46 
+
 Semester - III 
 Program: Bachelor of Engineering Semester - III 
 Course Title: Linear Algebra Course Code: 24EMAB208 
@@ -1804,9 +1699,7 @@ Reference Books:
 vectors, matrices, and least squares", Cambridge university press, 2018. 
 2. Linear algebra for computer science "Essential Mathematics for Computer Scientists " 
 M. THULASIDAS, Singapore Management University, 2021. 
-  ## Page 47
- FMCD2009 / 2.0 
- 47 
+
 Evaluation Scheme ISA 
 Assessment Conducted for Marks ISA Weightage 
 ISA1 30 38 
@@ -1818,10 +1711,7 @@ Assessment Conducted for Marks ISA Weightage
 ESA Theory 
 Exam 
 100 37 
-BACK 
- ## Page 48
- FMCD2009 / 2.0 
- 48 
+
    Program: Bachelor of Engineering Semester - III 
 Course Title: Discrete Mathematical Structures Course Code:24ECAC201 
 L-T-P: 3-1-0 Credits: 4 Contact Hrs: 5hrs/week 
@@ -1870,9 +1760,7 @@ Reference Books:
 Introduction, 5th Edition, Pearson Publication, May 8, 2019. 
 2. Basavaraj S Anami and Venakanna S Madalli, Discrete Mathematics - A Concept based 
 approach, Universities Press, 2016 
- ## Page 49
- FMCD2009 / 2.0 
- 49 
+
   Scheme for End Semester Assessment (ESA) 
 UNIT 8 Questions to be set of 20 
 Marks Each Chapter numbers Instructions 
@@ -1903,9 +1791,7 @@ Note:
 5. Groups 2 
 6. Number theory 1 
 7. Programming : With C 2 
- ## Page 50
- FMCD2009 / 2.0 
- 50 
+
   Rubrics for Activity 
 Parameter Outstanding 
 (8-10 Marks) 
@@ -1975,10 +1861,7 @@ the problem.
 output for few of 
 the legitimate 
 inputs 
- BACK 
-  ## Page 51
- FMCD2009 / 2.0 
- 51 
+
 Program: Bachelor of Engineering Semester - III 
 Course Title: Computer Organization and Architecture CourseCode:24ECAC202 
 L-T-P:3-0-1 Credits: 4 Contact Hrs: 5 hrs/week 
@@ -2027,9 +1910,7 @@ Multicore Computers: Hardware Performance Issues, Software
 Performance Issues, Multicore Organization, Heterogeneous Multicore 
 Organization. 
 08 hrs 
-   ## Page 52
- FMCD2009 / 2.0 
- 52 
+
 Unit -III 
 6 General-Purpose Graphic Processing Units: Cuda Basics, GPU versus CPU, 
 GPU Architecture Overview 04 hrs 
@@ -2062,9 +1943,7 @@ Multiplexer) 01
 11. Design and simulation of datapath for processor design 
 (contd..) 01 
 12. Comparative study of contemporary processors 01 
-  ## Page 53
- FMCD2009 / 2.0 
- 53 
+
 Evaluation Scheme ISA 
 Assessment Conducted for Marks ISA Weightage 
 ISA1 30 38 
@@ -2076,10 +1955,7 @@ Assessment Conducted for Marks ISA Weightage
 ESA Theory 
 Exam 
 100 37 
-BACK 
-   ## Page 54
- FMCD2009 / 2.0 
- 54 
+
   Program: Bachelor of Engineering Semester - III 
 Course Title: Design and Analysis of Algorithms Course Code: 24ECAC203 
 L-T-P: 4-0-0 Credits: 4 Contact Hrs: 4 hrs/week 
@@ -2120,10 +1996,7 @@ II Q.No.-4, Q.No.-5, Q.No.-6 4, 5 Solve Any 2
 III Q.No.-7 6 
 Solve Any 1 
  Q.No.-8 6 
- ## Page 55
- FMCD2009 / 2.0 
- 55 
-BACK 
+
    Program: Bachelor of Engineering Semester - III 
 Course Title: Database Management System Course Code: 22ECAC204 
 L-T-P: 4-0-0 Credits: 4 Contact Hrs: 4 hrs/week 
@@ -2164,9 +2037,7 @@ Processing; Transactions and System concepts; Desirable Properties of
 Transactions; Characterizing Schedules Based on - Recoverability, 
 Serializibilty. 
 09 hrs 
-   ## Page 56
- FMCD2009 / 2.0 
- 56 
+
 Unit -III 
 6 
 Concurrency Control Techniques: 
@@ -2198,10 +2069,7 @@ III
 Q.No.-7 6 
 Solve Any 1 
 Q.No.-8 7 
-   BACK 
-  ## Page 57
- FMCD2009 / 2.0 
- 57 
+
    List of experiments/jobs planned to meet the requirements of the course. 
 4- Demonstration  Introduction to RDBMS/Case study/ basic SQL 
 commands. 
@@ -2233,9 +2101,7 @@ Course Title: Database Applications Lab Course Code: 22ECAP201
 L-T-P: 0-0-1.5 Credits: 1.5 Contact Hrs: 3 hrs/week 
 ISA Marks: 80 ESA Marks:20 Total Marks: 100 
 Teaching Hrs: -- Tutorial/Practical: 42hrs Exam Duration: 3 hrs 
- ## Page 58
- FMCD2009 / 2.0 
- 58 
+
 Evaluation: 
 Students Assessment through ISA (80%) + ESA (20%) 
 Internal Semester 
@@ -2248,10 +2114,7 @@ End Semester Assessment
 (20%) 
 ESA 20 
  Total 100 
-   BACK 
- ## Page 59
- FMCD2009 / 2.0 
- 59 
+
    Sl. No. Experiment No. of Slots 
 1 Objected Oriented Programming Using C++ Basics 2 
 2 Introduction and Efficiency Analysis 1 
@@ -2277,15 +2140,12 @@ Sl. No. Experiment Marks
 2 Structured Inquiry 30 
 2 Project Work (ISA - 30, ESA - 20) 50 
  Total 100 
-   BACK 
   Program: Bachelor of Engineering Semester - III 
 Course Title: Algorithms Lab Course Code: 24ECAP202 
 L-T-P: 0-0-2 Credits: 2 Contact Hrs: 4 hrs/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
 Teaching Hrs: -- Tutorial/Practical: 56hrs Exam Duration: 03 
- ## Page 60
- FMCD2009 / 2.0 
- 60 
+
 Program: Bachelor of Engineering Semester - III 
 Course Title: Corporate Communications (AUDIT) Course Code: 24EHSA201 
 L-T-P: 0-0-0 Credits: 0 Contact Hrs: 1 hr/week 
@@ -2321,10 +2181,7 @@ Reference Books:
 1. Diana Booher - Communicate with Confidence, Mc Graw Hill Publishers 
 2. Norman Lewis - Word Power Made Easy, Goyal Publishers 
 3. Cambridge Advanced Learner's Dictionary, Cambridge University Press. 
-    BACK 
-  ## Page 61
- FMCD2009 / 2.0 
- 61 
+
 Semester - IV 
 Program: Bachelor of Engineering Semester - IV 
 Course Title: Probability & Statistics Course Code: 24EMAB209 
@@ -2374,9 +2231,7 @@ contingency table) Inference based on choice of suitable test procedure
 04 hrs 
  Lab: Linear Regression with ANOVA approach, Multiple Regression with 
 ANOVA approach 04 hrs 
-   ## Page 62
- FMCD2009 / 2.0 
- 62 
+
 Text Books 
 1. Douglas C Montgomery, George C Runger, Applied Statistics for Engineers, 5th Edition, 
 John Wiley and Sons 
@@ -2392,10 +2247,7 @@ Kaufmann Publishers, 2005
 Chand & Sons, New Delhi, 2000. 
 3. Sheldon M. Ross, Introduction to Probability and Statistics for Engineers and 
 Scientists 
-    BACK 
-  ## Page 63
- FMCD2009 / 2.0 
- 63 
+
 Program: Bachelor of Engineering Semester - IV 
 Course Title: Microcontroller Programming and 
 Interfacing Course Code: 24ECAC206 
@@ -2445,9 +2297,7 @@ Embedded C
 Course project 40 
 ISA 30 33 
 Total 100 66 
- ## Page 64
- FMCD2009 / 2.0 
- 64 
+
 End-Semester Assessment Scheme 
 Assessment Conducted 
 for marks 
@@ -2504,10 +2354,7 @@ Interfacing
 14 Review on Course Project Model demonstration by 
 each team 
      1 
- BACK 
- ## Page 65
- FMCD2009 / 2.0 
- 65 
+
 Program: Bachelor of Engineering Semester - IV 
 Course Title: Object Oriented Programming Course Code: 24ECAC207 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 3 hrs/week 
@@ -2556,9 +2403,7 @@ Unit -III
 7 Spring Boot: Overview, key features, architecture, setting -up a Spring 
 Boot, RESTful API, spring data JPA, CRUD Operations. 4 hrs 
 8 Design Patterns: Creational, Structural and Behavioral design patterns. 4 hrs 
-   ## Page 66
- FMCD2009 / 2.0 
- 66 
+
 Textbooks 
 1. Herbert Schildt, "The Complete Reference", 9th Edition, McGraw-Hill. 
 Reference Books 
@@ -2583,10 +2428,7 @@ III
 Q.No.-7 7 
 Solve Any 1 out of 2 
 Q.No.-8 8 
-   BACK 
-  ## Page 67
- FMCD2009 / 2.0 
- 67 
+
 Program: Bachelor of Engineering Semester - IV 
 Course Title: Operating System Principles and 
 Programming Course Code: 24ECAC208 
@@ -2638,9 +2480,7 @@ Text Books:
 Principles, 10 ed., Wiley-India, 2018. 
 2. W. Richard Stevens, Stephen A. Rago, "Advanced Programming in the UNIX 
 Environment", 3 ed. Addison Wesley Professional, 2013 
- ## Page 68
- FMCD2009 / 2.0 
- 68 
+
 Reference Books: 
 1. William Stallings, "Operating System Internals and Design Principles", 1 ed., 
 Pearson Education, Asia, 2015 
@@ -2683,9 +2523,7 @@ ISA-1 (Theory) 40
 Flipped Classroom 20 
 Laboratory Assessment-1 40 20% 10 Laboratory Assessment-2 40 
 Total 50 
-  ## Page 69
- FMCD2009 / 2.0 
- 69 
+
 End-Semester Assessment Scheme 
 Assessment Conducted 
 for marks 
@@ -2703,10 +2541,7 @@ I Q.No.-1, Q.No.-2, Q.No.-3 1, 2, 3 Solve Any 2
 II Q.No.-4, Q.No.-5, Q.No.-6 4, 5, 6 Solve Any 2 
 III Q.No.-7 7 Solve Any 1 
 Q.No.-8 8 
- BACK 
-  ## Page 70
- FMCD2009 / 2.0 
- 70 
+
 Program: Bachelor of Engineering Semester - IV 
 Course Title: Principles of Compiler Design Course Code:22ECAC209 
 L-T-P:3-1-0 Credits: 4 Contact Hrs: 5 hrs/week 
@@ -2754,9 +2589,7 @@ References:
 Press, 1999. 
 2. Charles N. Fischer, Richard J. leBlanc, Jr, Crafting a Compiler with C, Pearson, 
 2011. 
- ## Page 71
- FMCD2009 / 2.0 
- 71 
+
 3. Peter Linz, An Introduction to formal languages and Automata, IV edition, 
 Narosa, 2016. 
 4. Basavaraj S Anami, Karibasappa K.G, Formal Languages and Automata Theory, 
@@ -2783,10 +2616,7 @@ Instructions
 I Q.No.-1, Q.No.-2, Q.No.-3 1, 2 ,3 Solve Any 2 
 II Q.No.-4, Q.No.-5, Q.No.-6 4 ,5 Solve Any 2 
 III Q.No.-7 6 Solve Any 1 Q.No.-8 7 
-  BACK 
-  ## Page 72
- FMCD2009 / 2.0 
- 72 
+
 Program: Bachelor of Engineering Semester - IV 
 Course Title: Exploratory Data Analysis Course Code: 24ECAC210 
 L-T-P: 2-0-2 Credits: 4 Contact Hrs: 6 hrs/week 
@@ -2830,9 +2660,7 @@ Assessment Conducted for marks Weightage in Marks
 Theory 60 25 
 Lab 25 25 
 Total 50 
- ## Page 73
- FMCD2009 / 2.0 
- 73 
+
 Lab Schedule 
 S.No Chapter and Topics Activity Lab 
 slots 
@@ -2904,10 +2732,7 @@ working project
 1 
 13 Review of portfolio/term paper 1 
 14 Submission of portfolio and term paper 1 
- ## Page 74
- FMCD2009 / 2.0 
- 74 
- BACK 
+
   Program: Bachelor of Engineering Semester - IV 
 Course Title: Object Oriented Programming Lab Course Code: 24ECAP206 
 L-T-P: 0-0-1.5 Credits: 1.5 Contact Hrs: 3 hrs/week 
@@ -2925,7 +2750,6 @@ End Semester Assessment
 (20%) 
 Structured Enquiry 20 
  Total 100 
-   BACK 
 Experiments 
 Number 
 Lab assignments/experiment No. of 
@@ -2954,9 +2778,7 @@ Reference Books:
 1. Kathy Sierra and Bert Bates, Head First Java: A Brain-Friendly Guide, 2nd Edition, 
 O'Reilly Media. 
 2. Introduction to Java Programming, Liang Y D, Pearson, 11th Edition. 
- ## Page 75
- FMCD2009 / 2.0 
- 75 
+
   Program: Bachelor of Engineering Semester - IV 
 Course Title: Problem Solving and Analysis (AUDIT) Course Code: 24EHSA202 
 L-T-P: 0-0-0 Credits: 0 Contact Hrs: 1hr/week 
@@ -2990,10 +2812,7 @@ Chand and Sons, New Delhi, 2018
 6. Norman Lewis - Word Power Made Easy, Goyal Publishers 
 7. Cambridge Advanced Learner's Dictionary, Cambridge University Press. 
 8. Kaplan's GRE guide 
-   BACK 
-  ## Page 76
- FMCD2009 / 2.0 
- 76 
+
 Semester - V 
 Semester - V 
 Program: Bachelor of Engineering Semester - V 
@@ -3035,9 +2854,7 @@ continuous integration, Jenkins architecture, Jenkins security
 management, Jekins master-slave architecture, Jenkins delivery pipeline 
 and authentication. 
 04 hrs 
- ## Page 77
- FMCD2009 / 2.0 
- 77 
+
   Evaluation Scheme (ISA) 
 Assessment Conducted for Marks Weightage in Marks 
            ISA1 40 20 
@@ -3048,10 +2865,7 @@ Evaluation Scheme (ESA)
 Assessment Conducted for Marks Weightage in Marks 
            Theory 100 50 
                                                                           Total 50 
-  BACK 
-   ## Page 78
- FMCD2009 / 2.0 
- 78 
+
 Program: Bachelor of Engineering Semester - V 
 Course Title: Computer Networks Course Code: 24ECAC302 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 3hrs/week 
@@ -3102,9 +2916,7 @@ Switched Local Area Networks: Link-Layer Addressing and ARP , Ethernet
 Virtual Local Area Netw orks (VLANs), Multiprotocol Label Switching 
 (MPLS) 
 4 hrs 
- ## Page 79
- FMCD2009 / 2.0 
- 79 
+
 Text Books 
 1. J. F. Kurose, K. W . Ross, "Computer Networking, A Top-Down Approach", 8th Edition, 
 Pearson Education, 2021. 
@@ -3123,10 +2935,7 @@ Evaluation Scheme (ESA)
 Assessment Conducted for Marks Weightage in Marks 
            Theory 100 50 
                                                                           Total 50 
-BACK 
-                                                                                              ## Page 80
- FMCD2009 / 2.0 
- 80 
+
 Program: Bachelor of Engineering Semester - V 
 Course Title: Machine Learning Course Code: 22ECAC303 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 3hrs/week 
@@ -3176,9 +2985,7 @@ References
 Techniques to Build Intelligent Systems, Aurelian Gerona, Publisher: O'Reilly Media, July 
 2016. 
 2. Advanced Machine Learning with Python Paperback, 28 Jul 2016 by John Hearty.. 
- ## Page 81
- FMCD2009 / 2.0 
- 81 
+
   Evaluation Scheme (ISA) 
 Assessment Conducted for Marks Weightage in Marks 
            ISA1 (Theory) 40 20 
@@ -3189,10 +2996,7 @@ Evaluation Scheme (ESA)
 Assessment Conducted for Marks Weightage in Marks 
            Theory 100 50 
                                                                           Total 50 
-  BACK 
-  ## Page 82
- FMCD2009 / 2.0 
- 82 
+
   Program: Bachelor of Engineering Semester - V 
 Course Title: Internet of Things Course Code: 24ECAC308 
 L-T-P: 2-0-1 Credits: 3 Contact Hrs: 4hrs/week 
@@ -3239,9 +3043,7 @@ automation, Smart Cities, Environment, Energy, Agriculture, Health, Retail
 with emphasis on data analytics and security, Industrial IoT (IIoT), Role of 
 AI/ML in IoT (AIoT). 
 06 hrs 
-   ## Page 83
- FMCD2009 / 2.0 
- 83 
+
 Text Books: 
 1. Olivier Hersent, David Boswarthick, Omar Elloumi, "The Internet of Things: Key 
 Applications and Protocols" John Wiley & Sons - 2012. 
@@ -3296,9 +3098,7 @@ Messaging in IoT / Application Protocol (CoAP) /Web Socket
 Building MQTT Dashboard, Publish and Subscribe using MQTT, 
 AMQP 
 1 
- ## Page 84
- FMCD2009 / 2.0 
- 84 
+
 8 
 Review - 2 
 Methodology 
@@ -3331,10 +3131,7 @@ Weightage in
 Marks 
 Theory 60 33 
 Total 33 
-  BACK 
-   ## Page 85
- FMCD2009 / 2.0 
- 85 
+
 Program: Bachelor of Engineering Semester - V 
 Course Title: Machine Learning Lab Course Code: 22ECAP303 
 L-T-P:0-0-1.5 Credits: 1.5 Contact Hrs: 3 hrs/week 
@@ -3376,9 +3173,7 @@ frameworks in any of the areas listed below:
  Data visualization and analysis 
 4 
 9. Course Project Review 2 
-  ## Page 86
- FMCD2009 / 2.0 
- 86 
+
   Reference Books: 
 1. Tom Mitchell., Machine Learning, Mc Graw Hill, McGraw-Hill Science, 3rd edition. 
 2. Christopher Bishop., Pattern Recognition and Machine Learning, Springer, 2006. 
@@ -3401,10 +3196,7 @@ End Semester
 Assessment (20%) 
 Exercise 20 
 Total 100 
-  BACK 
-  ## Page 87
- FMCD2009 / 2.0 
- 87 
+
 Program: Bachelor of Engineering Semester - V 
 Course Title: Web Technologies Lab Course Code: 24ECAP304 
 L-T-P: 0-0-2 Credits: 2 Contact Hrs: 4hrs/week 
@@ -3445,9 +3237,7 @@ JavaScript 01
 7 Demonstration on React 03 
 8 Exercise on React 01 
 9 Open ended Experiment 02 
-  ## Page 88
- FMCD2009 / 2.0 
- 88 
+
   Evaluation: 
 Students Assessment through ISA (80%) + ESA (20%) 
 In Semester 
@@ -3463,10 +3253,7 @@ End Semester
 Assessment (20%) 
 Exercise 20 
 Total 100 
-  BACK 
-  ## Page 89
- FMCD2009 / 2.0 
- 89 
+
    Tentative plan of lab Implementation 
   Week No Lab Assignments 
 1 Demonstration of n/w commands and tools in command prompt. 
@@ -3497,9 +3284,7 @@ Course Title: Computer Networks Lab Course Code: 22ECAP302
 L-T-P: 0-0-1.5 Credits: 1.5 Contact Hrs: 3 hrs/week 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
 Teaching Hrs: Tutorial/Practical: 45hrs Exam Duration: 3hrs 
- ## Page 90
- FMCD2009 / 2.0 
- 90 
+
 Evaluation: 
 Students Assessment through ISA (80%) + ESA (20%) 
 In Semester 
@@ -3515,10 +3300,7 @@ End Semester
 Assessment (20%) 
 Exercise 20 
 Total 100 
-  BACK 
-   ## Page 91
- FMCD2009 / 2.0 
- 91 
+
 Program: Bachelor of Engineering Semester - V 
 Course Title: Mini Project Course Code: 22ECAW301 
 L-T-P: 0-0-3 Credits: 3 Contact Hrs: 3 hrs/week 
@@ -3555,10 +3337,7 @@ project 05
 problem, testing and results) 35 
 4 Individual Contribution to the team 10 
  Total 50 
-               BACK 
-          ## Page 92
- FMCD2009 / 2.0 
- 92 
+
 Program: Bachelor of Engineering Semester - V 
 Course Title: Arithmetical Thinking and Analytical Reasoning 
 (AUDIT) 
@@ -3601,9 +3380,7 @@ Assessment Weightage in Marks
 Minor Exam 1 50 
 Minor Exam 2 50 
 Total 100 
-  ## Page 93
- FMCD2009 / 2.0 
- 93 
+
 Course Unitization for Minor Exams and End Semester Assessment 
 Sl No Chapter Teaching 
 Hours 
@@ -3614,10 +3391,7 @@ in ESA
 3 Mathematical Thinking II 4 N.A. 
 4 Verbal Ability 4 N.A. 
   Note* All questions are compulsory. 
-  BACK 
-   ## Page 94
- FMCD2009 / 2.0 
- 94 
+
 Semester - VI 
 Program: Bachelor of Engineering Semester - VI 
 Course Title: Deep Learning Course Code: 24ECAC305 
@@ -3662,9 +3436,7 @@ Text book:
 2. Deep Learning with Python, Second Edition, 
 3. Python Machine Learning: Machine Learning and Deep Learning with Python, 
 scikit-learn, and TensorFlow 2, 3rd Edition, Sebastian Raschka, Vahid Mirjalili. 
- ## Page 95
- FMCD2009 / 2.0 
- 95 
+
 Reference book: 
 1. Christopher Bishop., Pattern Recognition and Machine Learning, Springer, 2006 
 2. Hands-On Machine Learning with Scikit -Learn and TensorFlow, Concepts, Tools, 
@@ -3713,18 +3485,13 @@ ISA1 30 38
 ISA2 30 
 Lab 40 25 
 Total 100 63 
-  ## Page 96
- FMCD2009 / 2.0 
- 96 
+
 Evaluation Scheme ESA 
 Assessment Conducted for Marks ISA Weightage 
 ESA Theory 
 Exam 
 100 37 
-BACK 
-   ## Page 97
- FMCD2009 / 2.0 
- 97 
+
   Program: Bachelor of Engineering Semester - VI 
 Course Title: Embedded Intelligent Systems Course code: 24ECAC306 
 L-T-P: 1-0-2 Credits: 3 Contact Hrs: 5hrs/week 
@@ -3769,9 +3536,7 @@ Kaufmann
 Reference Books: 
 1. Deep Learning, MIT Press book ,Goodfellow, Bengio, and Courville's 
 2. Beginning Android , by Wei-Meng Lee , Publisher: Wrox , O'Reilly Media 
-  ## Page 98
- FMCD2009 / 2.0 
- 98 
+
 SI. 
 No. 
 Experiments Number 
@@ -3804,10 +3569,7 @@ Weightage in
 Marks 
 Theory 60 33 
 Total 33 
-  BACK 
-   ## Page 99
- FMCD2009 / 2.0 
- 99 
+
                                                                                                               Program: Bachelor of Engineering Semester - VI 
 Course Title: Natural language processing and Gen AI Course Code: 24ECAC307 
 L-T-P: 2-0-2 Credits: 4 Contact Hrs: 06 hrs/week 
@@ -3844,9 +3606,7 @@ Generation Projects to Extend Your Generative AI Skills" by Rafael Valle.
 References: 
 1. Dan Jurafsky and James H. Martin. Speech and Language Processing (3rd ed. draft). 
 2. Ian Goodfellow, Yoshua Bengio, and Aaron Courville. Deep Learning. MIT Press. 
-  ## Page 100
- FMCD2009 / 2.0 
- 100 
+
 Natural Language Processing and GenAI Lab Plan: 
 List of Experiments: 
 Experiment 
@@ -3896,10 +3656,7 @@ in Marks
 20 
 25 20 
 10 
-BACK 
- ## Page 101
- FMCD2009 / 2.0 
- 101 
+
 Program: Bachelor of Engineering Semester - VI 
 Course Title: Minor Project Course Code: 24ECAW304 
 L-T-P: 0-0-6 Credits: 6 Contact Hrs: 3 hrs/week 
@@ -3967,9 +3724,7 @@ Review-2 20
 Review-3 20 
 ESA 50 
                                                 Total 100 
-  ## Page 102
- FMCD2009 / 2.0 
- 102 
+
   Scheme for In-Semester Assessment (ISA) 
 ISA 
 (periodic 
@@ -4005,10 +3760,7 @@ Presentation 9.3.1 05 3 3
 Individual Contribution 14.3.1 05 3 3 
 Report 10.1.2 05 3 3 
                                        Total = 50 
-  BACK 
-   ## Page 103
- FMCD2009 / 2.0 
- 103 
+
 Program: Bachelor of Engineering Semester - VI 
 Course Title: Professional Aptitude and Logical Reasoning Course Code: 16EHSC301 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 3hrs/week 
@@ -4042,10 +3794,7 @@ Assessment Conducted for Marks Weightage in Marks
                                                                           Total 50 
   **The indicated method may be adopted for CIE after due approval from DUGC of 
 Department of Humanities. 
-              BACK 
- ## Page 104
- FMCD2009 / 2.0 
- 104 
+
   Program: Bachelor of Engineering Semester - VI 
 Course Title: Industry Readiness & Leadership Skills 
 (AUDIT) Course Code: 23EHSA304 
@@ -4085,10 +3834,7 @@ Assessment Weightage in Marks
 Minor Exam 1 50 
 Minor Exam 2 50 
 Total 100 
-  BACK 
-  ## Page 105
- FMCD2009 / 2.0 
- 105 
+
   Professional Electives-1, 2 & 3 
 Data Intelligence 
 Program: Bachelor of Engineering 
@@ -4133,9 +3879,7 @@ Video Compression: Motion-compensated hybrid video encoding and
 video compression standards including H.261, H.263, H.264, H.265, MPEG-
 1, MPEG-2, and MPEG-4. 
 3 hrs 
-   ## Page 106
- FMCD2009 / 2.0 
- 106 
+
 Unit -III 
 8 
 Image and Video Segmentation: Intensity discontinuity and intensity 
@@ -4193,9 +3937,7 @@ sharpening.
 Selection of course project topic. 
 7 Lossless Compression methods Implementation of lossless image 
 compression methods. 
- ## Page 107
- FMCD2009 / 2.0 
- 107 
+
 8 Lossy Compression methods Implementation of lossy image 
 compression methods. 
 9 Image segmentation Edge detection and region based 
@@ -4225,10 +3967,7 @@ Weightage in
 Marks 
 Theory 60 33 
 Total 33 
-  BACK 
-  ## Page 108
- FMCD2009 / 2.0 
- 108 
+
   Program: Bachelor of Engineering 
 Course Title: Computer Vision Course Code: 24ECAE336 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 3hrs/week 
@@ -4270,9 +4009,7 @@ Reference Books:
 India, 2nd Ed, 2015. 
 3. R. I. Hartley and A. Zisserman, Multiple View Geometry in Computer Vision, 
 Cambridge University Press, 2nd Edition, 2004. 
-  ## Page 109
- FMCD2009 / 2.0 
- 109 
+
 Laboratory Plan 
   Expt. No. Experiments No. of 
 Slots 
@@ -4304,10 +4041,7 @@ Weightage in
 Marks 
 Theory 60 33 
 Total 33 
-  BACK 
-  ## Page 110
- FMCD2009 / 2.0 
- 110 
+
   Program: Bachelor of Engineering 
 Course Title: Reinforcement Learning Course Code: 22ECAE312 
 L-T-P: 3-0-0 Credits: 3 Contact hrs.: 3hrs/week 
@@ -4342,9 +4076,7 @@ applications of Reinforcement Learning.
   Text Book: 
 1. "Reinforcement Learning: An Introduction" by Richard S. Sutton and Andrew G. 
 Barto (2nd edition, MIT Press, 2018). 
- ## Page 111
- FMCD2009 / 2.0 
- 111 
+
 Reference Books: 
 1. Kaelbling, L. P ., Littman, M. L., & Moore, A. W . (1996). Reinforcement learning: A 
 survey. Journal of artificial intelligence research, 4, 237-285. 
@@ -4374,10 +4106,7 @@ in Marks
 20 
 25 20 
 10 
-  BACK 
-  ## Page 112
- FMCD2009 / 2.0 
- 112 
+
 Program: Bachelor of Engineering 
 Course Title: Bioinformatics Course Code: 22ECAE314 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 3 hrs/week 
@@ -4423,9 +4152,7 @@ Maximum parsimony, Maximum Likelihood; Tree Evaluation methods,
 Phylogenetic Softwares. 
 08 hrs 
 Unit -III 
- ## Page 113
- FMCD2009 / 2.0 
- 113 
+
 5 
 Gene Prediction: Gene structure, Prokaryote and Eukaryote gene 
 prediction, Prokaryote and Eukaryote promoter site prediction Gene 
@@ -4469,10 +4196,7 @@ in Marks
 20 
 25 20 
 10 
-BACK 
-   ## Page 114
- FMCD2009 / 2.0 
- 114 
+
   Program: Bachelor of Engineering 
 Course Title: Computer Graphics Course Code: 22ECAE315 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 3 hrs/week 
@@ -4522,9 +4246,7 @@ Text Books:
 1. Computer Graphics: Principles and Practice, James D. Foley, Andries van Dam, 
 Steven K. Feiner, John F. Hughes ,2nd Edition, Pearson Education, 2008 
 2. Interactive Computer Graphics - A Top-Down Approach Using OpenGL (5/e), 
- ## Page 115
- FMCD2009 / 2.0 
- 115 
+
 Edward Angel, 5th Edition, Pearson Education, 2009 
 Reference Books: 
 1. Computer Graphics using OpenGL, F. S. Hill Jr . and S. M. Kelley, 3 rd Edition 
@@ -4551,10 +4273,7 @@ in Marks
 20 
 25 20 
 10 
-  BACK 
-  ## Page 116
- FMCD2009 / 2.0 
- 116 
+
 Program: Bachelor of Engineering 
 Course Title: Multimedia Computing Course Code: 22ECAE316 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 3 hrs/week 
@@ -4596,9 +4315,7 @@ Reference Books:
 1. Multimedia Communications, Applications, Networks, Protocols and Standards, 
 Fred Halsall, Pearson Education Asia 
 2. Multimedia Systems, John F. Koegel Buford, Pearson Education Asia 
-  ## Page 117
- FMCD2009 / 2.0 
- 117 
+
   Evaluation Scheme (ISA) 
 SL. 
 No. Section Conducted for 
@@ -4619,10 +4336,7 @@ in Marks
 20 
 25 20 
 10 
-  BACK 
-  ## Page 118
- FMCD2009 / 2.0 
- 118 
+
   Program: Bachelor of Engineering 
 Course Title: Ethics in AI Course Code: 23ECAE325 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 3hrs/week 
@@ -4668,9 +4382,7 @@ Marks
 3. Lab Evaluation 20 10 
 4. Course Project 30 15 
 Total 50 
-  ## Page 119
- FMCD2009 / 2.0 
- 119 
+
 Evaluation Scheme (ESA) 
 SL. No. Section Conducted 
 for marks 
@@ -4681,10 +4393,7 @@ in Marks
 20 
 25 20 
 10 
-  BACK 
-   ## Page 120
- FMCD2009 / 2.0 
- 120 
+
   Lab Experiments 
 Sl. No Experiments No of Slots (2 
 hrs/per week) 
@@ -4729,9 +4438,7 @@ References
 2. Grigore C. Burdea, Philippe Coiffet, "Virtual Reality Technology ", Wiley Interscience, 
 2nd Edition, 2006. ISBN: 978-0-471-36089-6 
 3. Greengard, Samuel. Virtual reality. Mit Press, 2019. 
- ## Page 121
- FMCD2009 / 2.0 
- 121 
+
 7 Create a menu driven interface for adding and removing 
 objects from a Scene 
 1 
@@ -4759,10 +4466,7 @@ Weightage in
 Marks 
 Theory 60 33 
 Total 33 
-      BACK 
-   ## Page 122
- FMCD2009 / 2.0 
- 122 
+
 Program: Bachelor of Engineering 
 Course Title: Parallel Computing Course Code: 22ECAE320 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 3 hrs/week 
@@ -4811,9 +4515,7 @@ Synchronization constructs in opn MP, Data handling in OpenMP, Open
 MP library functions, Environment variables in OpenMP, Explicit Thread 
 versus OpenMP based programming. 
 4 hrs 
- ## Page 123
- FMCD2009 / 2.0 
- 123 
+
 Text Books: 
 1. Ananth Grama, George Karypis, Vipin Kumar and Anshul Gupta, Introduction to 
 Parallel Computing, Second Edition, Pearson India, 2013 
@@ -4838,10 +4540,7 @@ in Marks
 25 20 
 10 
 Total 50 
-  BACK 
-   ## Page 124
- FMCD2009 / 2.0 
- 124 
+
 Program: Bachelor of Engineering 
 Course Title: Computational Medicine Course Code: 24ECSE340 
 L-T-P: 2-0-1 Credits: 3 Contact Hrs: 4hrs/week 
@@ -4888,9 +4587,7 @@ Hands-On - Probable Lab Work
  Development of image analysis pipelines for specific clinical problems. 
  Application of machine learning techniques for image analysis. 
  Collaboration with clinicians for data interpretation and clinical validation. 
-   ## Page 125
- FMCD2009 / 2.0 
- 125 
+
 Evaluation Scheme 
 In-Semester Assessment Scheme 
 Assessment Conducted for 
@@ -4909,10 +4606,7 @@ Weightage in
 Marks 
 Theory 60 33 
 Total 33 
-  BACK 
-  ## Page 126
- FMCD2009 / 2.0 
- 126 
+
   Networking and Security 
 Program: Bachelor of Engineering 
 Course Title: Cloud Computing Course Code: 24ECAE338 
@@ -4961,9 +4655,7 @@ disadvantages of Serverless computing.
 Ansible. Configuration management using Ansible, Ansible- Modules, Ad Hoc, 
 Playbooks, Ansible for IT automation. 
 3 hrs 
- ## Page 127
- FMCD2009 / 2.0 
- 127 
+
 Text Books: 
 1. Douglas Comer, "The Cloud Computing: The Future of Computing ", 1st ed, Chapman 
 and Hall/CRC 1 July 2021. 
@@ -5008,10 +4700,7 @@ Weightage in
 Marks 
 Theory 60 33 
 Total 33 
-BACK 
- ## Page 128
- FMCD2009 / 2.0 
- 128 
+
 Program: Bachelor of Engineering 
 Course Title: Data Integration and Cloud Services Course code: 24ECAE319 
 L-T-P: 1-0-2 Credits: 3 Contact hrs: 5hrs/week 
@@ -5055,9 +4744,7 @@ Publisher: Packt, 2017.
 Reference book: 
 1. Data Mining Concepts and Techniques, Third Edition, Jiawei Han, Micheline 
 Kamber, Jian Pei, Publisher: Elsevier, 2012. 
-  ## Page 129
- FMCD2009 / 2.0 
- 129 
+
   SI. No. Experiments Number of slots 
 1. Demonstration on PowerCenter tool 2 
 2. Exercise on workflow creation and perform 
@@ -5084,10 +4771,7 @@ Weightage in
 Marks 
 Theory 60 33 
 Total 33 
-  BACK 
-   ## Page 130
- FMCD2009 / 2.0 
- 130 
+
 Program: Bachelor of Engineering 
 Course Title: Cyber Security Course Code: 24ECAE337 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 3hrs/week 
@@ -5130,9 +4814,7 @@ Industry Threat Models, Standards, Guidelines, and Frameworks,
 Vulnerabilities, Risk & Business Challenges 
   7hrs 
                                                                              Unit - 3 
- ## Page 131
- FMCD2009 / 2.0 
- 131 
+
 5 
 Chapter 5 
 Development of SOC: SOC Maturity Model, Key SOC Functions: Threat 
@@ -5177,9 +4859,7 @@ or Suricata
 7. Firewall Functionality and Traffic Control 
 Demonstration 
 1 
- ## Page 132
- FMCD2009 / 2.0 
- 132 
+
 8. Configuring Identity and Access Management (IAM) 
 in OpenStack 
 1 
@@ -5208,10 +4888,7 @@ Weightage in
 Marks 
 Theory 60 33 
 Total 33 
-          BACK 
-   ## Page 133
- FMCD2009 / 2.0 
- 133 
+
 Program: Bachelor of Engineering 
 Course Title: Web Security Course Code: 24ECAE302 
 L-T-P: 2-0-1 Credits: 3 Contact Hrs: 4 hrs/week 
@@ -5252,9 +4929,7 @@ Reference Books:
 1. Hoffman, A. Web Application Security: Exploitation and Countermeasures for 
 Modern Web Applications, O'Reilly Media, 2020. 
 2. OWASP Foundation, OWASP Top 10: Web Application Security Risks, 2021 
-  ## Page 134
- FMCD2009 / 2.0 
- 134 
+
 Lab experiments: 
 Expt./Jo
 b No. 
@@ -5309,10 +4984,7 @@ Weightage in
 Marks 
 Theory 60 33 
 Total 33 
-  BACK 
- ## Page 135
- FMCD2009 / 2.0 
- 135 
+
 Program: Bachelor of Engineering 
 Course Title: Security Operations Course Code: 25ECAE330 
 L-T-P: 2-0-1 Credits: 3 Contact Hrs: 4 hrs/week 
@@ -5355,9 +5027,7 @@ Reference Books:
 and Detecting Threats, Packt Publishing, 2021. 
 2. E. Al-Shaer, Automated Security Operations: Threat Hunting, Detection, and 
 Response at Scale, Pearson, 2020. 
-  ## Page 136
- FMCD2009 / 2.0 
- 136 
+
   Laboratory Plan 
 Expt No. Name of the Experiment No. of tutorial Slots 
 per batch (estimate) 
@@ -5391,10 +5061,7 @@ Weightage in
 Marks 
 Theory 60 33 
 Total 33 
-  BACK 
- ## Page 137
- FMCD2009 / 2.0 
- 137 
+
 Program: Bachelor of Engineering 
 Course Title: Software Defined Networks Course Code: 25ECAE331 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 3 hrs/week 
@@ -5440,10 +5107,7 @@ Reference Books:
 OpenStack", Packt Publishing, 2016. 
 2. POX manual current documentation, 
  https://openflow.stanford.edu/display/ONL/POX+Wiki.html 
-                                  BACK 
-   ## Page 138
- FMCD2009 / 2.0 
- 138 
+
 Program: Bachelor of Engineering 
 Course Title: Edge Computing Course Code: 25ECAE332 
 L-T-P: 2-0-1 Credits: 3 Contact Hrs: 3 hrs/week 
@@ -5490,9 +5154,7 @@ batch (estimate) Marks
 2. EdgeXFoundry for IoT Data Analysis 01 --- 
 3. LF Edge Demo 01 
 4. KubeEdge Evaluations 01 5 
- ## Page 139
- FMCD2009 / 2.0 
- 139 
+
 5. Edge Application Deployment on KubeEdge- 
 IoT 01 --- 
 6. Edge Application Deployment on KubeEdge- 
@@ -5518,10 +5180,7 @@ Weightage in
 Marks 
 Theory 60 33 
 Total 33 
-  BACK 
-   ## Page 140
- FMCD2009 / 2.0 
- 140 
+
 System and Software Development 
 Program: Bachelor of Engineering 
 Course Title: Advanced Java Programming Course Code: 24ECAE329 
@@ -5577,9 +5236,7 @@ Education, 2018.
 Edition, Pearson, 2017. 
 3. Rod Johnson , Expert One -on-One J2EE Development without EJB , Wrox Press, 
 2004. 
- ## Page 141
- FMCD2009 / 2.0 
- 141 
+
 4. Paul Deck, Spring Boot: Up & Running, O'Reilly Media, 2021. 
 5. Leonard Richardson, Mike Amundsen, Sam Ruby , RESTful Web APIs , O'Reilly 
 Media, 2013. 
@@ -5623,10 +5280,7 @@ Weightage in
 Marks 
 Theory 60 33 
 Total 33 
-  BACK 
-  ## Page 142
- FMCD2009 / 2.0 
- 142 
+
 Program: Bachelor of Engineering 
 Course Title: Blockchain and Distributed Ledgers Course Code: 24ECAE339 
 L-T-P: 2-0-1 Credits: 3 Contact Hrs: 4 hrs/week 
@@ -5672,9 +5326,7 @@ Reference Books:
 2014. 
 3. Arshdeep Bhaga, Vijay Madisetti, "Blockchain Applications: A Hands-On Approach", 1st 
 Edition, VPT, January 31, 2017. 
-   ## Page 143
- FMCD2009 / 2.0 
- 143 
+
 List of Exercises 
   Expt./ 
 No. Brief description about the experiment/job No. of Lab. Slots 
@@ -5710,10 +5362,7 @@ Weightage in
 Marks 
 Theory 60 33 
 Total 33 
-  BACK 
-  ## Page 144
- FMCD2009 / 2.0 
- 144 
+
 Program: Bachelor of Engineering 
 Course Title: Algorithmic Problem Solving Course Code: 24ECSE309 
 L-T-P: 2-0-4 Credits: 6 Contact Hrs: 10 hrs/week 
@@ -5740,9 +5389,7 @@ Pearson Education, 2017.
 Reference Books: 
 1. Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, 
 "Introduction to Algorithms", Third Edition, MIT Press, 2010. 
-  ## Page 145
- FMCD2009 / 2.0 
- 145 
+
 Evaluation Scheme (ISA) 
 SL. 
 No. Section Conducted for 
@@ -5775,10 +5422,7 @@ Concept Hours
 5 Search Space Analysis 16 
 6 Problem Assortments 16 
 7 CSES Problem Set 16 
-  BACK 
-  ## Page 146
- FMCD2009 / 2.0 
- 146 
+
   Program: Bachelor of Engineering 
 Course Title: DevOps and MLOps Course Code: 23ECAE335 
 L-T-P: 0-0-2 Credits: 3 Contact Hrs: 4 hrs/week 
@@ -5821,9 +5465,7 @@ Reference Books:
 USA: O'Reilly Media, 2020. 
 2. B. Beyer, C. Jones, J. Petoff, and N. R. Murphy, Site Reliability Engineering: How 
 Google Runs Production Systems, Sebastopol, CA, USA: O'Reilly Media, 2016. 
-  ## Page 147
- FMCD2009 / 2.0 
- 147 
+
 Evaluation: 
 Students Assessment through ISA (80%) + ESA (20%) 
 In Semester 
@@ -5859,10 +5501,7 @@ ML model
 7. CI/CD for ML Models, Jenkins/GitHub Actions, Automate model testing 
 and deployment 2 
 8. Open Ended Activity 4 
-  BACK 
-  ## Page 148
- FMCD2009 / 2.0 
- 148 
+
 Program: Bachelor of Engineering 
 Course Title: Microservice Architecture using Java Course Code: 24ECAE304 
 L-T-P: 2-0-1 Credits: 3 Contact Hrs: 4 hrs/week 
@@ -5911,9 +5550,7 @@ Redbooks.
 3. Binildas Christudas, "Practical Microservices Architectural Patterns: Event -Based 
 Java Microservices with Spring Boot and Spring Cloud", Apress. 
 4. Christian Posta, "Microservices for Java Developers", O'Reilly Media, Inc. 
-  ## Page 149
- FMCD2009 / 2.0 
- 149 
+
   Lab experiments: 
 Expt./ 
 Job No. 
@@ -5954,10 +5591,7 @@ Weightage in
 Marks 
 Theory 60 33 
 Total 33 
-  BACK 
-   ## Page 150
- FMCD2009 / 2.0 
- 150 
+
 Program: Bachelor of Engineering 
 Course Title: Multicore architecture and Programming Course Code: 25ECAE334 
 L-T-P: 2-0-1 Credits: 3 Contact Hrs: 4 hrs/week 
@@ -6013,9 +5647,7 @@ Performance through Software Multi-threading, Intel Press , 2010
 Paperback", 1st Edition, Morgan Kaufmann, 2015. 
 3. Robert(Bob) Robey, and Yuliana(Yulie) Zamora, Parallel and High performance 
 computing, Manning publications, 2021. 
- ## Page 151
- FMCD2009 / 2.0 
- 151 
+
   Lab Experiments: 
 Expt./Job 
 No. 
@@ -6062,10 +5694,7 @@ Weightage in
 Marks 
 Theory 60 33 
 Total 33 
-  BACK 
-   ## Page 152
- FMCD2009 / 2.0 
- 152 
+
 Semester - VII 
 Program: Bachelor of Engineering Semester - VII 
 Course Title: Big Data and Analytics Course Code: 24ECAC404 
@@ -6107,9 +5736,7 @@ Types, Hive File Format, Hive Query Language (HQL), RCFile
 Implementation, User -Defined Function (UDF). Serialization and 
 Deserialization. 
 3 hrs 
- ## Page 153
- FMCD2009 / 2.0 
- 153 
+
   Text Books: 
 1. Thomas Erl, Wajid Khattak, and Paul Buhler, Big Data Fundamentals Concepts, 
 Drivers & Techniques, Prentice Hall, 2015. 
@@ -6139,9 +5766,7 @@ everyday life.
 Frameworks and tools for handling, processing, and analyzing huge datasets. 
  Team size: Group of 3- 4 
  Type: Each batch will work for one distinct application area 
-  ## Page 154
- FMCD2009 / 2.0 
- 154 
+
 Sl. 
 No. Experiments CO Blooms 
 level 
@@ -6194,9 +5819,7 @@ c) Data Conditioning (3M)
 Data Visualization (3M) 
 CO2 L3 5th & 6th 
 Week 1.4.3 4 10 
- ## Page 155
- FMCD2009 / 2.0 
- 155 
+
 5. Design and Model Selection CO2 L3 7th & 8 
 th Week 2.3.1 4 10 
 6. Implementation 
@@ -6228,10 +5851,7 @@ Weightage in
 Marks 
 Theory 60 33 
 Total 33 
-BACK 
-   ## Page 156
- FMCD2009 / 2.0 
- 156 
+
 Program: Bachelor of Engineering Semester - VII 
 Course Title: Cryptography & Network Security Course Code: 24ECAC403 
 L-T-P: 2-0-1 Credits: 3 Contact Hrs: 4 hrs/week 
@@ -6273,9 +5893,7 @@ Text Book
 Edition, Pearson, 2020 
 2. Mark Stamp, "Information Security: Principles and Practices ", 3rd Edition, John 
 Wiley and Sons, 2021. 
- ## Page 157
- FMCD2009 / 2.0 
- 157 
+
 References 
 1. Jonathan Katz and Yehuda Lindell, "Introduction to Modern Cryptography ", 3rd 
 edition, CRC Press, 2020. 
@@ -6309,10 +5927,7 @@ Weightage in
 Marks 
 Theory 60 33 
 Total 33 
-BACK 
-  ## Page 158
- FMCD2009 / 2.0 
- 158 
+
 Program: Bachelor of Engineering Semester - VII 
 Course Title: Senior Design Project Course Code: 22ECAW401 
 L-T-P: 0-0-6 Credits: 6 Contact Hrs: 3 hrs/week 
@@ -6356,9 +5971,7 @@ formulation
 Review-2 Requirements, Design, design principles adopted in 
 modules/components and Algorithms. 
 Review-3 Implementation and Testing. 
-  ## Page 159
- FMCD2009 / 2.0 
- 159 
+
   Scheme for End Semester Assessment (ESA) 
 Sl. No. Expectation Marks 
 1 Write up 
@@ -6373,10 +5986,7 @@ presentation with consultation of your respective guides.
 and Viva voce. 
 30 
 4. Project Report. 10 
-  BACK 
-   ## Page 160
- FMCD2009 / 2.0 
- 160 
+
 Program: Bachelor of Engineering Semester - VII 
 Course Title: CIPE & EVS Course Code: 15EHSA401 
 L-T-P : Audit Credits: Audit Contact Hrs: 2 hrs/week 
@@ -6425,9 +6035,7 @@ environment - Agriculture, Housing, Industry, Mining, and Transportation
 activities, Environmental Impact Assessment, Sustainability and Sustainable 
 Development. 
 2 hrs 
- ## Page 161
- FMCD2009 / 2.0 
- 161 
+
 11 Environmental Protection: Environmental Protection - Constitutional 
 Provisions and Environmental Laws in India. 2 hrs 
 Text Books (List of books as mentioned in the approved syllabus) 
@@ -6448,10 +6056,7 @@ Minor Exam-1 20
 Minor Exam-2 20 
 Assignment 10 
  Total 50 
-  BACK 
-   ## Page 162
- FMCD2009 / 2.0 
- 162 
+
 Professional Electives- 4, 5 & 6 
 Data Intelligence 
 Program: Bachelor of Engineering 
@@ -6491,18 +6096,13 @@ Procedural Approach 2e AP Professional.
 11. Hoffman, C. Geometric and Solide Modeling Morgan Kaufmann. 
 12. Graphics Gems I-V, AP Professional. 
 13. 
- ## Page 163
- FMCD2009 / 2.0 
- 163 
+
   Scheme for End Semester Assessment (ESA): No ESA for the course 
  * Content and reference material as shared by IIT Delhi Professor 
-   BACK 
    14. Pharr, M., Jakob, W ., and Humphreys, G. Physically Based Rendering: From Theory To 
 Implementation. 
 15. Bretscher, O., Linear Algebra with Applications 2e Prentice Hall. 
- ## Page 164
- FMCD2009 / 2.0 
- 164 
+
   Program: Bachelor of Engineering 
 Course Title: Social Network Analysis Course Code: 24ECAE405 
 L-T-P: 2-0-1 Credits: 3 Contact Hrs: 4hrs/week 
@@ -6544,9 +6144,7 @@ Reference Books:
 1. Peter R. Monge, Noshir S, Contractor, Theories of communication networks, 
 Oxford University Press, 2003. 
 2. Duncan Watts, Six degrees: the science of a connected age. Norton, 2004. 
-  ## Page 165
- FMCD2009 / 2.0 
- 165 
+
   Evaluation Scheme 
 In-Semester Assessment Scheme 
 Assessment Conducted for 
@@ -6564,10 +6162,7 @@ Weightage in
 Marks 
 Theory 60 34 
 Total 34 
-BACK 
-   ## Page 166
- FMCD2009 / 2.0 
- 166 
+
 Program: Bachelor of Engineering 
 Course Title: Information Retrieval Course Code: 24ECAE406 
 L-T-P: 2-0-1 Credits: 3 Contact Hrs: 4 hrs/week 
@@ -6609,9 +6204,7 @@ ISA-1 (Theory) 30 33
 ISA-2 (Theory) 30 
 Lab Activity 50 33 
 Total 66 
- ## Page 167
- FMCD2009 / 2.0 
- 167 
+
 End-Semester Assessment Scheme 
 Assessment Conducted for 
 marks 
@@ -6619,10 +6212,7 @@ Weightage in
 Marks 
 Theory 60 34 
 Total 34 
-BACK 
-   ## Page 168
- FMCD2009 / 2.0 
- 168 
+
   Program: Bachelor of Engineering 
 Course Title: Multimodal Learning Course Code: 25ECAE416 
 L-T-P: 2-0-1 Credits: 3 Contact Hrs: 4hrs/week 
@@ -6664,9 +6254,7 @@ sessions/batch
 4. Multimodal alignment based application 02 
 5. Multimodal generation based applications 02 
 6. Course activity 02 
-                    ## Page 169
- FMCD2009 / 2.0 
- 169 
+
   Evaluation Scheme 
 Scheme of ISA Evaluation Scheme 
 Assessment Weightage in Marks 
@@ -6677,10 +6265,7 @@ Total 66
 Assessment Weightage in Marks 
 ESA Theory 34 
 Total 34 
-      BACK 
-  ## Page 170
- FMCD2009 / 2.0 
- 170 
+
 Program: Bachelor of Engineering 
 Course Title: Quantum Computing Course Code: 25ECAE421 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 3hrs 
@@ -6724,9 +6309,7 @@ Algorithm, Simon's Algorithm
 4 hrs 
 8 Case Studies and Projects done during the course : Image processing, 
 Data Sciences, Machine Learning, Networking 4 hrs 
- ## Page 171
- FMCD2009 / 2.0 
- 171 
+
 Text Books 
 1. Phillip Kaye, Raymond Laflamme and Michele Mosca "An Introduction to 
 Quantum Computing ", Oxford University, Press, 2007 
@@ -6743,10 +6326,7 @@ III
 Q.No.-7 7 
 Solve Any 1 
 Q.No.-8 8 
-  BACK 
-  ## Page 172
- FMCD2009 / 2.0 
- 172 
+
 Program: Bachelor of Engineering 
 Course Title: Agentic AI Course Code: 25ECAE426 
 L-T-P: 2-0-1 Credits: 3 Contact Hours: 4 hrs/Week 
@@ -6789,9 +6369,7 @@ Edition, 2020)
 et al. (2007) 
 2"Artificial Intelligence: Foundations of Computational Agents" by David L. Poole and 
 Alan K. Mackworth (2nd Edition, 2017) 
-  ## Page 173
- FMCD2009 / 2.0 
- 173 
+
 Evaluation Scheme 
 In-Semester Assessment Scheme 
 Assessment Conducted for 
@@ -6809,10 +6387,7 @@ Weightage in
 Marks 
 Theory 60 34 
 Total 34 
-  BACK 
-  ## Page 174
- FMCD2009 / 2.0 
- 174 
+
 Networking and Security 
   Program: Bachelor of Engineering 
 Course Title: AI for Cyber Security Course Code: 25ECAE419 
@@ -6854,9 +6429,7 @@ References:
 Publishing, 2019 
 2. Clarence Chio, David Freeman, "Machine Learning and Security", O'Reilly 
 Publishing, 2018 
-  ## Page 175
- FMCD2009 / 2.0 
- 175 
+
 List of Experiments 
 Sl.no Details of Experiment No. of 
 Lab. Slots 
@@ -6893,10 +6466,7 @@ Total 66
 Assessment Weightage in Marks 
 ESA Theory 34 
 Total 34 
-                       BACK 
-  ## Page 176
- FMCD2009 / 2.0 
- 176 
+
 Program: Bachelor of Engineering 
 Course Title: Mobile and Wireless Networks Course Code: 22ECAE412 
 L-T-P:3-0-0 Credits: 3 Contact Hrs: 3 hrs/week 
@@ -6947,9 +6517,7 @@ AI driven 5G Optimization: Network Slicing: Slice isolation and resource
 allocation. GNN for Network slicing, Beamforming: Techniques for 
 improving directional communication, AI for beamforming. 
 4 hrs 
- ## Page 177
- FMCD2009 / 2.0 
- 177 
+
 Text Book (List of books as mentioned in the approved syllabus) 
 1. Dharma Prakash Agrawal, Qing -An Zeng , " Introduction to wireless and mobile 
 systems", Cengage Learning, 2014. 
@@ -6967,10 +6535,7 @@ Pvt. Ltd., 2004.
 4. Jochen Schiller, "Mobile Communications", Addision Wesley, 2nd Edition, 2011. 
 5. Radhika Ranjan Roy, "Networked Artificial Intelligence AI-Enabled 5G 
 Networking, Auerbach Publications, 2024. 
-  BACK 
-  ## Page 178
- FMCD2009 / 2.0 
- 178 
+
   System and Software Development 
 Program: Bachelor of Engineering Semester - 
 Course Title: C# and .NET Course Code: 25ECAE422 
@@ -7009,9 +6574,7 @@ Reference Books:
 4. Jon Skeet, C# in Depth, 4th Edition, Manning Publications, 2019. 
 5. Dino Esposito, Modern Web Development with ASP.NET Core 3, Microsoft Press, 
 2020. 
-  ## Page 179
- FMCD2009 / 2.0 
- 179 
+
   Expt/ Job No. Experiment/ Job details No. of Lab sessions/batch 
 1. 
 Introduction to C# and Visual Studio - 
@@ -7068,10 +6631,7 @@ ESA Scheme
 Assessment Weightage in Marks 
 ESA Theory 34 
 Total 34 
- ## Page 180
- FMCD2009 / 2.0 
- 180 
-                      BACK 
+
   Program: Bachelor of Engineering 
 Course Title: Robotic Process Automation Design & 
 Development Course Code: 25ECAE423 
@@ -7115,9 +6675,7 @@ collections and Tables - Text Manipulation - Data Manipulation - Gathering
 and Assembling Data 
 8 hrs 
 4 Advanced Automation Concepts And Techniques : Recording and 8 hrs 
- ## Page 181
- FMCD2009 / 2.0 
- 181 
+
 Advanced UI Interaction - Recording Introduction - Basic and Desktop 
 Recording - Web Recording - Input/Output Methods - Screen Scraping - 
 Data Scraping - Scraping advanced techniques - Selectors - Selectors - 
@@ -7160,10 +6718,7 @@ I Q.No.-1, Q.No.-2, Q.No.-
 II Q.No.-4, Q.No.-5, Q.No.-
 6 3, 4 Solve Any 2 
 III Q.No.-7 5 Solve Any 1 
- ## Page 182
- FMCD2009 / 2.0 
- 182 
-BACK 
+
   Program: Bachelor of Engineering 
 Course Title: Software Testing Course Code: 25ECAE424 
 L-T-P:3-0-0 Credits: 3 Contact Hrs: 03 hrs/week 
@@ -7205,9 +6760,7 @@ Introduction to quality cost - Measuring quality cost - Total Quality
 Management (TQM).Architecture, Process, memory and file management 
 in Mobile OS, Network OS. 
 4hrs 
-  ## Page 183
- FMCD2009 / 2.0 
- 183 
+
 Text Books: 
 1. Glenford J. Myers, Tom Badgett, Corey Sandler, and Todd M. Thomas, "The Art 
 ofSoftware Testing", John Wiley & Sons, Second edition, 2004. 
@@ -7230,10 +6783,7 @@ Instructions
 I Q.No.-1, Q.No.-2, Q.No.-3 1, 2, 3 Solve Any 2 
 II Q.No.-4, Q.No.-5, Q.No.-6 4, 5 Solve Any 2 
 III Q.No.-7, Q.No.-8 6, 7 Solve Any 1 
-   BACK 
-  ## Page 184
- FMCD2009 / 2.0 
- 184 
+
 Program: Bachelor of Engineering 
 Course Title: Software Architecture and Design Thinking Course Code: 25ECAE425 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 3hrs/week 
@@ -7278,9 +6828,7 @@ Architectural Tactics and Patterns: Architectural Patterns, Overview of the
 Patterns Catalog, Relationships between Tactics and Patterns, Using Tactics 
 Together 
 5 hrs 
-   ## Page 185
- FMCD2009 / 2.0 
- 185 
+
 Unit - III 
 7 
 Architecture and Requirements: Gathering ASRs from Requirements 
@@ -7315,10 +6863,7 @@ Instructions
 I Q.No.-1, Q.No.-2, Q.No.-3 1, 2, 3 Solve Any 2 out of 3 
 II Q.No.-4, Q.No.-5, Q.No.-6 4, 5, 6 Solve Any 2 out of 3 
 III Q.No.-7 7 Solve Any 1 out of 2 Q.No.-8 8 
-    BACK 
-  ## Page 186
- FMCD2009 / 2.0 
- 186 
+
 Program: Bachelor of Engineering 
 Course Title: Advanced Parallel Computing Course Code: 22ECAE414 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 hrs/week 
@@ -7366,9 +6911,7 @@ Computational Thinking.
 Text Books: 
 1. David B. Kirk, Wen -mei W . Hwu, "Programming Massively Parallel Processors: A 
 Hands on Approach", Morgan Kaufmann/Elsevier India reprint, 2010. 
-  ## Page 187
- FMCD2009 / 2.0 
- 187 
+
 Reference Books: 
 1. Benedict R Gaster, Lee Howes, David Kaeli, Perhaad Mistry and Dana Schaa, 
 "Heterogeneous Computing with OpenCl ", Morgan Kaufmann/Elsevier reprint, 
@@ -7382,10 +6925,7 @@ Instructions
 I Q.No.-1, Q.No.-2, Q.No.-3 1, 2 Solve Any 2 
 II Q.No.-4, Q.No.-5, Q.No.-6 3, 4 Solve Any 2 
 III Q.No.-7 5 Solve Any 1 Q.No.-8 6 
-   BACK 
-  ## Page 188
- FMCD2009 / 2.0 
- 188 
+
   Program: Bachelor of Engineering 
 Course Title: Scalable AI Course Code:22ECAE415 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 3 hrs/week 
@@ -7434,9 +6974,7 @@ Algorithms, Global Update Rules
 Selection, Parallelizing Feature Selection Algorithms, Scalable machine 
 learning tools (Hadoop, Spark etc.) 
 4 hrs 
-   ## Page 189
- FMCD2009 / 2.0 
- 189 
+
 Textbooks 
 1. Scaling Up Machine Learning, Bekkerman, R., Bilenko, M., Langford, J., (2011), 
 Cambridge University Press 
@@ -7446,10 +6984,7 @@ Reference Books
 1. Hadoop: The definitive Guide. Tom White. Oreilly Press. 
 2. Tensorflow for Machine Intelligence: A hands on introduction to learning algorithms. 
 Sam Abrahams et al. Bleeding edge press. 
-  BACK 
-   ## Page 190
- FMCD2009 / 2.0 
- 190 
+
 Semester - VIII 
 Industry Internship and Industry Project: Rules and Regulations 
   Total Duration: 5 months full time (No breaks) 
@@ -7476,9 +7011,7 @@ b) The industry is expected to provide the student performance evaluation as fol
 a) "Internship- Training" Marks (Out of 100) 
 b) "Internship - Project" Marks (Out of 100) 
 c) Industry shall issue Internship Certificate to student-intern. 
-  ## Page 191
- FMCD2009 / 2.0 
- 191 
+
 Program: Bachelor of Engineering Semester: VIII 
 Course Title: Internship Training Course Code: 25ECAI493 
 L-T-P: 0-0-6 Credits: 6 Contact Hrs: 12 hrs/week 
@@ -7511,10 +7044,7 @@ Training 22ECAI493 50 50
 Students must secure 
 minimum of 40% marks in 
 both ISA and ESA. 
-  BACK 
-  ## Page 192
- FMCD2009 / 2.0 
- 192 
+
 Program: Bachelor of Engineering Semester-VIII 
 Course Title: Internship Project Course Code: 25ECAW494 
 L-T-P: 0-0-11 Credits: 11 Contact Hrs: 22 hrs/week 
@@ -7547,10 +7077,7 @@ Students must
 secure minimum of 
 40% marks in both 
 ISA and ESA. 
-  BACK 
-   ## Page 193
- FMCD2009 / 2.0 
- 193 
+
 Program: Bachelor of Engineering Semester - VIII 
 Course Title: Capstone Project Course Code: 22ECAW402 
 L-T-P: 0-0-11 Credits: 11 Contact Hrs: 3 hrs/week 
@@ -7606,9 +7133,7 @@ used, Module implementation &amp; integration,
 Presentation & Report 
 Review-3 Complete Project Demo, Report, Presentation / Paper 
 Publication 
- ## Page 194
- FMCD2009 / 2.0 
- 194 
+
   Scheme for End Semester Assessment (ESA) 
   Sl. No Expectation Marks 
 1 Literature Survey/ Existing Methods 15 
@@ -7616,10 +7141,7 @@ Publication
 3 Project demonstration. 10 
 4. Relevance of project to ethical/ social/ legal/ economic concerns 05 
  Total 50 
-  BACK 
-  ## Page 195
- FMCD2009 / 2.0 
- 195 
+
 Open Electives 
 Program: Bachelor of Engineering 
 Course Title: Distributed and Cloud Computing Course Code: 22ECAO401 
@@ -7670,9 +7192,7 @@ Text Books:
 Parallel Processing to the Internet of Things, Elsevier, 2013. 
 4. Dan C. Marinescu, Cloud Computing Theory and Practice, Elsevier, 2013. 
 5. Nigel Poulton, The Kubernetes Book, Packt Publishing, 2019. 
-  ## Page 196
- FMCD2009 / 2.0 
- 196 
+
 Evaluation Scheme 
 In-Semester Assessment Scheme 
 Assessment Conducted for 
@@ -7691,10 +7211,7 @@ Weightage in
 Marks 
 Theory 60 34 
 Total 34 
-BACK 
-   ## Page 197
- FMCD2009 / 2.0 
- 197 
+
 Program: Bachelor of Engineering 
 Course Title: Database Management System Course Code: 22ECAO404 
 L-T-P: 2-0-1 Credits: 3 Contact Hrs: 4 hrs/week 
@@ -7738,9 +7255,7 @@ Concurrency Control Techniq ues: Introduction, Two -phase Locking
 Techniques for Concurrency Control, Dealing with Dead -lock and 
 Starvation, Concurrency control based on Time stamp Ordering. 
   04 hrs 
-  ## Page 198
- FMCD2009 / 2.0 
- 198 
+
 Evaluation Scheme 
 In-Semester Assessment Scheme 
 Assessment Conducted for 
@@ -7759,10 +7274,7 @@ Weightage in
 Marks 
 Theory 60 34 
 Total 34 
-  BACK 
-  ## Page 199
- FMCD2009 / 2.0 
- 199 
+
 Program: Bachelor of Engineering 
 Course Title: High Performance Computing for 
 Engineering Applications Course Code:22ECAO402 
@@ -7807,9 +7319,7 @@ performance bottlenecks, Restructuring applications for deep memory
 hierarchies, Partitioning applications for heterogeneous resources, using 
 existing libraries, tools, and frameworks 
 4 hrs 
-   ## Page 200
- FMCD2009 / 2.0 
- 200 
+
 6 Case Studies and Projects done during the course: Various case studies 
 from various engineering discipline 4 hrs 
 Text Books 
@@ -7831,10 +7341,7 @@ Instructions
 I Q.No.-1, Q.No.-2, Q.No.-3 1, 2 Solve Any 2 
 II Q.No.-4, Q.No.-5, Q.No.-6 3, 4 Solve Any 2 
 III Q.No.-7 5 Solve Any 1 Q.No.-8 6 
-   BACK 
-   ## Page 201
- FMCD2009 / 2.0 
- 201 
+
 Program: Bachelor of Engineering 
 Course Title: Essentials of Information Technology Course Code:22ECAO405 
 L-T-P: 0-0-3 Credits: 3 Contact Hrs: 6 hrs/week 
@@ -7879,9 +7386,7 @@ Structured Query Language: SQL data types, database languages,
 operators, aggregate functions, order by and group by clause, joins and 
 sub queries. 
 4 hrs 
- ## Page 202
- FMCD2009 / 2.0 
- 202 
+
 Text Books: 
 1. Infosys Campus Connect Foundation Program Volume:1-3, Education and 
 Research Department, Infosys Technologies Ltd, 2013. 
@@ -7900,10 +7405,7 @@ Instructions
 I Project Examination 4 - 8 Project implementation and 
 demonstration 
  20 marks 
-    BACK 
-                                ## Page 203
- FMCD2009 / 2.0 
- 203 
+
 Program: Bachelor of Engineering 
 Course Title: Software Engineering Course Code: 22ECAO403 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 3 hrs/week 
@@ -7940,9 +7442,7 @@ Unit -III
 Release Testing, User Testing. 4 hrs 
 8 Configuration management: Change management, Version 
 management, System building, Release management. 4 hrs 
- ## Page 204
- FMCD2009 / 2.0 
- 204 
+
 Text Books: 
 1. Ian Somerville, Software Engineering, 9th, Pearson Ed, 2015 
 Reference Books: 
@@ -7962,10 +7462,7 @@ I Q.No.-1, Q.No.-2, Q.No.-3 1, 2, 3 Solve Any 2 out of 3
 II Q.No.-4, Q.No.-5, Q.No.-6 4, 5, 6 Solve Any 2 out of 3 
 III Q.No.-7 7 Solve Any 1 out of 2 
 Q.No.-8 8 
-  BACK 
-   ## Page 205
- FMCD2009 / 2.0 
- 205 
+
 Program: Bachelor of Engineering 
 Course Title: Big Data Analytics Course Code: 22ECAO406 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 3 hrs/week 
@@ -8001,9 +7498,7 @@ Reference Books:
 SAS Business Series, 2012. 
 2. Colleen Mccue, Data Mining and Predictive Analysis: Intelligence Gathering and 
 Crime Analysis, Elsevier, 2007. 
-  ## Page 206
- FMCD2009 / 2.0 
- 206 
+
   Scheme for End Semester Assessment (ESA) 
   UNIT 8 Questions to be set 
 of 20 Marks Each 
@@ -8016,6 +7511,4 @@ Q.No.-3
 II Q.No.-4, Q.No.-5, 
 Q.No.-6 
 4, 5 Solve Any 2 out of 3 
-III Q.No.-7 6 Solve Any 1 out of 2 Q.No.-8 7 
-  BACK 
-  
+III Q.No.-7 6 Solve Any 1 out of 2 Q.No.-8 7

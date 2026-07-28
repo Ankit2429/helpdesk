@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 8sem"
+title: ""
 category: "miscellaneous"
 subcategory: ""
 document_type: "minutes"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["april", "date", "document", "last", "march", "minor"]
 aliases: []
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "1"
 ---
-# PDF Document: 8sem
- **PDF Source:** https://www.kletech.ac.in/pdf/8sem.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/8sem.pdf
                                                                                                                                                                                                                                         1q2 
   ANAM 0201/1.0 
 CALENDAR OF EVENTS 
@@ -75,5 +75,4 @@ Ramzan : 22nd April
 No of working 
 days 16 16 16 15 14 13 90 Final attendance / Marks display : 3rd May 
 Holidays 
-  Marks / Attendance display Minor exam Feedback 
-    
+  Marks / Attendance display Minor exam Feedback

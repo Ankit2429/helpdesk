@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 13th_BOG_Minutes"
+title: "BOG Minutes"
 category: "miscellaneous"
 subcategory: ""
 document_type: "minutes"
@@ -11,17 +11,16 @@ language: "en"
 keywords: ["document", "meeting", "prof", "technological", "university", "year"]
 aliases: ["ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "24"
 ---
-# PDF Document: 13th_BOG_Minutes
- **PDF Source:** https://www.kletech.ac.in/pdf/13th_BOG_Minutes.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/13th_BOG_Minutes.pdf
  Minutes 
   13th Board of Governors Meeting (Online) 
 of 
 KLE Technological University, 
 Hubballi, Karnataka 
 09th March, 2021 at 11.30 am 
-  ## Page 2
  ii 
   The following are the minutes of the Board of Governors Meeting of KLE Technological 
 University, Hubballi which was held on 9th March 2021 at 11.30 am. in online mode. 
@@ -73,10 +72,8 @@ Member
 2 The Principal Secretary/Secretary, Medical Education, 
 Government of Karnataka. 
 Member 
-  ## Page 3
  iii 
   BOG 13 Online meeting screen shots 
-  ## Page 4
  iv 
   Agenda 
   Item No. Particulars Page No 
@@ -110,7 +107,6 @@ Science and Engineering (AI and ML)" BE programme with an intake of sixty
 by reducing the intake by sixty in the Mechanical Engineering programme 
 from the academic year 2021-22. 
 20 
-  ## Page 5
  1 
   BOG 
 13. 1 
@@ -164,7 +160,6 @@ Government of Karnataka.
 2 The Principal Secretary/Secretary, Medical Education, 
 Government of Karnataka. 
   Member 
-  ## Page 6
  2 
   BOG 12.1 To confirm the minutes of the previous meeting held on 1st April 2019 and 31st 
 August 2019. 
@@ -207,7 +202,6 @@ Smt. Sudha Murty wanted to know about the status of the old indoor stadium. The
 Vice-Chancellor informed that it is renovated and now it has two shuttle badminton 
 courts, table tennis, carom & chess, wrestling, judo & yoga, and multi-gym facilities. 
 Resolution 12.3: Resolved to approve the audited statements of 2018-19 & budget of 
- ## Page 7
  3 
   2020-21 as recommended by the Finance Council in their 6th & 7th meetings held on 
 3rd October 2019 and 11th December 2019. 
@@ -243,7 +237,6 @@ BOG 12.6 Any other subject with the permission of the Chair
 vote of thanks to the Chair. 
   Action Requested: To confirm the minutes of the 12th BOG meeting held on 19th 
 September 2020. 
-  ## Page 8
  4 
   Discussion: The member secretary requested honorable members for any 
 observations or comments on the minutes of the 12th BOG meeting, which was 
@@ -252,7 +245,6 @@ the 12th meeting.
   Resolution 13.1: The Board of Governors confirmed the minutes of 
 its 12th meeting of the Board of Governors held on 19th September 
 2020 in online mode. 
-  ## Page 9
  5 
   BOG 
 13. 2 
@@ -288,7 +280,6 @@ The Board noted and approved the action
 taken report on the minutes of the previous 
 meetings held on 1st April 2019 and 31st 
 August 2019. 
- ## Page 10
  6 
   Resolution 12.2: Resolved to confirm the action taken report on the minutes of the 
 previous meetings 1st April 2019 and 31st August 2019. 
@@ -320,7 +311,6 @@ program. The Vice-Chancellor informed that the BBA program would be offered from
 the 2021-22 academic year with an intake of 60. 
 Resolution 12.4: Resolved to approve the new academic regulations governing the 
 Noted 
- ## Page 11
  7 
   Master of Business Administration Program and Master of Computer Application 
 Program of KLE Technological University, Hubballi, as per the 'KLE Technological 
@@ -346,7 +336,6 @@ in improving the placement numbers even
 during the Covid-19 pandemic period. 
 BOG 12.6 Any other subject with the permission of the Chair 
 NIL 
-  ## Page 12
  8 
   Action Requested: The BOG is requested to confirm the action taken report on the 
 minutes of the previous meeting held on 19th September 2020. 
@@ -365,7 +354,6 @@ Prabhakar Kore, Chairman BOG suggested to wait till May before taking the final 
 larger interest of the students who wish to receive their degree in person. 
   Resolution 13.2: Resolved to confirm the action taken report on the 
 minutes of the previous meeting held on 19th September 2020. 
-  ## Page 13
  9 
   BOG 
 13. 3 
@@ -401,7 +389,6 @@ To consider and approve the Revised Budget Estimates for the Financial year 2020
 Resolution 9.2: The Revised budget for the year 2020-21 is approved. The same is 
 recommended for consideration and approval by the Executive Council. 
   Agenda Point 9.3 
- ## Page 14
  10 
   To consider and approve the Budget Estimates for the Financial year 2021-22. 
 Resolution 9.3: The budget for the year 2021-22 is approved with a suggestion to delete 
@@ -437,7 +424,6 @@ able to get two experts with industry background.
 2019-20 & budget of 2021-22 as recommended by the Finance 
 Council in their 8th & 9th meetings held on 19th November 2020 & 8th 
 February 2021 respectively. 
- ## Page 15
  11 
   BOG 
 13. 4 
@@ -472,7 +458,6 @@ Commenting on the publications Smt. Sudha Murty, asked for the breakup of the pu
 papers in various journals. 
 Resolution 13.4: BOG noted the academic progress of the University 
 for the year 2020-21. 
- ## Page 16
  12 
   UG PROGRAM ADMISSION DETAILS - 2020-21 
 Admissions to BE / BArch Program for First Year 
@@ -511,7 +496,6 @@ Mechanical Engineering 228 223 203 654
 Architecture 74 70 40 49 233 
 Total 1320 1203 1007 49 3579 
 Annexure 3.1 
- ## Page 17
  13 
   PG PROGRAM ADMISSION DETAILS - 2020-21 
 Admissions to M Tech /MBA /MCA Program for First Year 
@@ -542,7 +526,6 @@ Computer Science 17
 VLSI Design & Embedded Systems 09 
 Machine Design 13 
 Grand Total 252 
-  ## Page 18
  14 
   Consolidated Admissions for Academic Year 2020-21 
 Program Course Class Total 
@@ -557,7 +540,6 @@ Research Programs
 2017 35 
 2016 32 
 Grand Total 5453 
-  ## Page 19
  15 
   Faculty Information 
   Department/Program 
@@ -597,7 +579,6 @@ Executives -- 3 -- -- --
 Total 82 57 210 7 
 Grand Total 356 
   Annexure 3.2 
- ## Page 20
  16 
   BOG 
 13. 5 
@@ -635,7 +616,6 @@ Smt. Sudha Murty expressed that she could understand taking KLES Belagavi engine
 college into KLE Tech but wanted to know the reasons for taking KLE Law College, 
 Bengaluru. In reply, Dr. Prabhakar Kore, Chairman BOG, explained that the need to make 
 the University multidisciplinary as per the guidelines of New Education Policy. Prof. Ashok 
- ## Page 21
  17 
   Shettar, VC, also elaborated this point. Madam was satisfied with the answer and wished 
 best of luck for the new endeavor. 
@@ -646,7 +626,6 @@ KLE Society's Law College, Bengaluru as the constituent
 colleges/units of KLE Technological University as per the provisions 
 in para 6 of the KLE Technological University Act 2012 (Karnataka 
 Act No 22 of 2013. 
- ## Page 22
  18 
   BOG 
 13. 6 
@@ -675,7 +654,6 @@ or approve activities for effective implementation of TEQIP III.
  Twinning Activities with mentee Institute. 
  Review of new DLI's (Disbursement Linked Indicator's) and 
 Targets. 
-  ## Page 23
  19 
   BOG 13.7 To approve the reconstituted Board of Studies and Board 
 of Examiners 
@@ -695,7 +673,6 @@ Studies and the Board of Examiners of school of Computer Science &
 engineering, Civil Engineering, School of Management Studies and 
 Research and B. Architecture department of KLE Technological 
 University. 
-  ## Page 24
  20 
   BOG 
 13. 8 
@@ -716,5 +693,4 @@ and Engineering (AI and ML)" with an intake of sixty by reducing the
 intake by sixty in the Mechanical Engineering programme from the 
 academic year 2021-22. Further the Vice-Chancellor is authorized to 
 study and finalize the new programme to apply and do the needful in 
-the matter. 
-  
+the matter.

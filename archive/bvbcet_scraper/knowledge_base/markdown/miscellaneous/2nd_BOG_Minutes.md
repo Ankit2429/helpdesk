@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 2nd_BOG_Minutes"
+title: "BOG Minutes"
 category: "miscellaneous"
 subcategory: ""
 document_type: "syllabus"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["chancellor", "council", "document", "shall", "student", "university"]
 aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE", "KLETech", "KLE Tech", "BVB", "BVBCET"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "156"
 ---
-# PDF Document: 2nd_BOG_Minutes
- **PDF Source:** https://www.kletech.ac.in/pdf/2nd_BOG_Minutes.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/2nd_BOG_Minutes.pdf
  i 
   Minutes 
 2nd Board of Governors Meeting 
@@ -22,7 +22,6 @@ of
 KLE Technological University 
 Hubballi, Karnataka 
 July 25, 2015 
-  ## Page 2
  ii 
   The following are the minutes of the Board of Governors Meeting of KLE Technological 
 University, Hubballi which was held on 25th July 2015 at 2 pm at the chamber of KLE Society's, 
@@ -109,7 +108,6 @@ Medical Education,
 Government Of 
 Karnataka. 
 Member 
-  ## Page 3
  iii 
   AGENDA 
   S.No. Particulars Page No. 
@@ -140,7 +138,6 @@ Academic Council and the Executive Council.
 academic programs of the University. 
 6 
 2. 7 Any other subject with the Permission of the Chair. 6 
- ## Page 4
  1 
   Agenda 2.1 
 To read and confirm the minutes of the meeting of the Board of Governors 
@@ -164,7 +161,6 @@ i. Prof M. I. Savadatti, Former Vice Chancellor, Mangalore University
 ii. Dr K Balaveera Reddy, Former Vice Chancellor, VTU Belagavi 
   Resolution 2.1: Resolved to confirm the minutes of the meeting of the Board 
 of Governors held on 1st May 2105 
-   ## Page 5
  2 
   Agenda 2.2 
 To approve the action taken report on the minutes of the meeting of the 
@@ -244,7 +240,6 @@ i.Executive Council has
 been constituted 
 ii.Academic Council has 
 been constituted 
- ## Page 6
  3 
   As per the provisions of 
 Karnataka Act No. 22 of 
@@ -272,7 +267,6 @@ presented in annexure 5.
   Resolution 2.3: Resolved to approve Statutes of KLE Technological University, 
 Hubballi, framed and approved by Executive Council as per the provisions of 
 'KLE Technological University Act - 2012'. 
-   ## Page 7
  4 
   Agenda 2.4 
 To consider and approve 'Academic Regulations, Service Rules (framed as 
@@ -301,7 +295,6 @@ the University from the academic year 2015-16, to be presented before the Academ
 Council and the Executive Council is presented in Annexure 10. 
   Resolution 2.5: Resolved to approve the Undergraduate and Post-Graduate 
 programs that are to be instituted by the University from the academic year 
- ## Page 8
  5 
   2015-16, as per the recommendations of the Academic Council and the 
 Executive Council. 
@@ -315,24 +308,18 @@ Annexure 11.
 various academic programs of the University. 
   Agenda 2.7 
 Any other subject with the Permission of the Chair 
-  ## Page 9
  6 
   ANNEXURE - 1 
   [Nomination Committee' was formed as per Section 17 clause 2 of the KLE Technological 
 University Act 2012] 
-   ## Page 10
  7 
-  ## Page 11
  8 
   ANNEXURE - 2 
 [Appointment letter of the first Vice-Chancellor] 
-  ## Page 12
  9 
-  ## Page 13
  10 
   ANNEXURE - 3 
   [First Executive Council of the KLE Technological University] 
-  ## Page 14
  11 
   Ref No: Date: 6-7-2015 
 NOTIFICATION 
@@ -356,11 +343,9 @@ Dr M S Shivakumar Former Registrar VTU Member
 Dr P G Tewari Dean Academic Member 
 Dr B B Kotturshettar Dean Planning & Development Member 
 Prof B L Desai Registrar Member Secretary 
-  ## Page 15
  12 
   ANNEXURE - 4 
 [First Academic Council of the KLE Technological University] 
-  ## Page 16
  13 
   Ref No: Date: 6-7-2015 
   NOTIFICATION 
@@ -384,7 +369,6 @@ Sr Name Designation Position
 6. Dr Lokesh Boregowda Senior Principal Engineer 
 Samsung R & D Bangalore 
 Member 
- ## Page 17
  14 
   7. Sri Vivek G Pawar Chairman Sankalp 
 Semiconductors Hubballi 
@@ -416,17 +400,14 @@ Member
 24. Prof C D Kerure Placement Officer Member 
 25. Prof B L Desai Registrar Member 
 Secretary 
-  ## Page 18
  15 
    Invitees 
 26 Dr Nalini Head of IT, BVB Member 
 27 Dr Meena S M Head of ISE, BVB Member 
-  ## Page 19
  16 
   ANNEXURE - 5 
   [The first draft of Statutes of KLE Technological University framed as per 
 the provisions of 'KLE Technological University Act - 2012'] 
-  ## Page 20
  17 
   The First Statutes of KLE Technological University 
   KLE TECHNOLOGICAL University 
@@ -434,7 +415,6 @@ the provisions of 'KLE Technological University Act - 2012']
 Vidyanagar 
 Hubballi - 580031 
 www.kletech.ac.in 
-   ## Page 21
  18 
   Contents 
 Section Description Page 
@@ -466,7 +446,6 @@ Section Description Page
 20 Other Authorities 13 
   CHAPTER - IV, OPERATION OF FUNDS AND THEIR MAINTENANCE 
   14 
- ## Page 22
  19 
   21 Operation of Funds 
 22 Appointment of Auditors 15 
@@ -499,7 +478,6 @@ proceedings
 35 Delegation of Powers 21 
 36 Resolution of Disputes 21 
 37 Action against students and staff 21 
- ## Page 23
  20 
   38 Teaching-Learning methodology 22 
 39 Creation of entities 22 
@@ -512,7 +490,6 @@ proceedings
 46 Decision of the Board in interpretation of the Statutes 23 
 47 Protection of action taken in good faith 23 
 48 Power to amend the Statutes 23 
-  ## Page 24
  21 
   UNIVERSITY NOTIFICATION 
   No. KLETECH/STATUTES/2015/1 Date: July 23, 2015 
@@ -550,7 +527,6 @@ approval of the Chair;
 University; 
     v "Board" means the Board of Governors of the 
 University; 
-  ## Page 25
  22 
     vi "Campus" means a campus(es) established and 
 maintained by the University; 
@@ -589,7 +565,6 @@ Regulations, Guidelines and Notifications;
 document as in "he" or "his" is for convenience. 
 Such usage includes the feminine form of the 
 pronoun in its intent; 
- ## Page 26
  23 
     xvii "Regulations" means the Regulations of the 
 University; 
@@ -628,7 +603,6 @@ appointed with the approval of the Board.
 appointed by the Sponsoring Body and shall have 
 such powers and functions as prescribed under 
 Section 15(5) of the Act. 
-  ## Page 27
  24 
     5. 2 The Chancellor shall be the Head of the University 
 and shall ensure that the Act, Statutes, 
@@ -670,7 +644,6 @@ affairs of the University.
     7. 5 The Vice-Chancellor shall have such powers and 
 duties provided under Section-17 of the Act and in 
 addition: 
- ## Page 28
  25 
     7. 5.1 The Vice-Chancellor shall exercise all powers 
 necessary for the maintenance of discipline in the 
@@ -714,7 +687,6 @@ Chancellor shall be THREE years which may be
 renewable for further terms. 
     8. 5 The Pro Vice-Chancellor shall assist the Vice-
 Chancellor and take up such responsibilities as may 
- ## Page 29
  26 
   be assigned by the Vice-Chancellor from time to 
 time. 
@@ -753,7 +725,6 @@ Chancellor, on terms and conditions listed in the
 contract of appointment. 
     10. 2 The Finance Officer shall be a whole-time salaried 
 officer of the University. 
-  ## Page 30
  27 
     10. 3 The term of appointment of the Finance Officer 
 shall be THREE years which may be renewable for 
@@ -796,11 +767,9 @@ the Vice-Chancellor from time to time.
     12. 5 If the office of the Controller of Examinations falls 
 vacant for any reason, the duties of the office shall 
 be performed either by the Registrar or a person 
- ## Page 31
  28 
   nominated by the Vice-Chancellor with the 
 approval of the Chancellor. 
-  ## Page 32
  29 
   CHAPTER - III 
 AUTHORITIES OF THE UNIVERSITY 
@@ -843,7 +812,6 @@ members of the Board shall be THREE years.
     14. 7 The quorum for all meetings of the Board shall be 
 THREE members attending and voting at such 
 meetings. 
-  ## Page 33
  30 
     14. 8 If a member of the Board fails to attend three 
 consecutive meetings without leave of absence 
@@ -886,7 +854,6 @@ the Regulations, Rules, Guidelines, and Manuals of
 the University; and 
   iii To perform such other functions as may be 
 assigned by the Board. 
-  ## Page 34
  31 
     15. 7 The Executive Council shall meet as and when 
 necessary and at least TWO times a year. 
@@ -928,7 +895,6 @@ reconstitute the Academic Council before the
 expiry of its term. 
     16. 6 The Academic Council shall meet at least TWO 
 times a year. However, the Vice-Chancellor may 
- ## Page 35
  32 
   convene an extraordinary meeting of the Academic 
 Council for the transaction of any urgent matter. 
@@ -972,7 +938,6 @@ programmes; and
 degrees. 
     16. 9 The Academic Council shall seek the approval of 
 the Executive Council in relevant matters. 
-  ## Page 36
  33 
   The Research 
 Council 
@@ -1013,7 +978,6 @@ Council shall be FIVE members.
 research culture in the University; 
   iii Formulate, co-ordinate and supervise the R&D 
 policies of the University; 
- ## Page 37
  34 
     iv Formulate, co-ordinate and supervise the 
 involvement of the University in the economic 
@@ -1054,7 +1018,6 @@ shall be THREE members.
   i Examine and scrutinize the annual budget, annual 
 audit report and annual accounts of the University 
 and make recommendations to the Board; 
- ## Page 38
  35 
     ii Give its views and recommendations to the Board 
 either suo motu or on the request of the Board or 
@@ -1101,7 +1064,6 @@ Auditors
 Chartered Accountants to undertake the statutory 
 audit of accounts of the University in the manner 
 prescribed under Section-54 of the Act. 
-  ## Page 39
  36 
     22. 1 The contract with the firm of Chartered 
 Accountants shall be for a term of THREE years 
@@ -1144,7 +1106,6 @@ of merit following the procedure of normalization,
 wherever entrance test is not essentially required. 
     24. 4 The University shall have the freedom to admit 
 students both from India and abroad by 
- ## Page 40
  37 
   formulating necessary Regulations and / or 
 Guidelines. 
@@ -1198,7 +1159,6 @@ honorary degrees
 (viii) of the Act, the University may confer the 
 Honorary Degree(s) as per the following 
 procedure: 
-  ## Page 41
  38 
     i All the proposals for the conferment of honorary 
 degrees and/or fellowships shall be made by the 
@@ -1218,7 +1178,6 @@ distinctions conferred on any person by the
 University for good and sufficient cause. The Board 
 shall consider the recommendation of Academic 
 Council before arriving at the final decision. 
-  ## Page 42
  39 
   CHAPTER - VII 
 APPOINTMENT AND SERVICE CONDITIONS 
@@ -1260,7 +1219,6 @@ Members;
   v ONE external expert nominated by the Board - 
 Member; 
   vi Dean Academic Affairs - Member; 
- ## Page 43
  40 
     vii Dean Research & Development - Member; and 
   viii Departmental Chairperson - Member 
@@ -1297,7 +1255,6 @@ as the circumstances may require.
 and conditions of appointment shall be advertised 
 by the Registrar and all applications received 
 within the date specified shall be considered by the 
- ## Page 44
  41 
   selection committee. However, the selection 
 committee for sufficient reasons may also consider 
@@ -1337,7 +1294,6 @@ from time to time.
     32. 17 The University shall frame appropriate Regulations 
 governing the seniority requirements for different 
 purposes from time to time. 
-  ## Page 45
  42 
     32. 18 The different benefits and facilities to the eligible 
 employees and their positions held by them shall 
@@ -1385,7 +1341,6 @@ which include the possible grant and transfer of
 credits for the academic work carried out by the 
 students in those organizations. Such MOUs shall 
 be reported to the Board in its next meeting. 
- ## Page 46
  43 
   Authentication of 
 orders and 
@@ -1438,7 +1393,6 @@ cases of ragging.
     37. 3 Appropriate Regulations and/or Guidelines as per 
 the Act, and also meeting legal requirements, shall 
 be framed for handling cases of sexual harassment. 
-  ## Page 47
  44 
     37. 4 Appropriate Regulations and/or Guidelines in 
 consonance with legal requirements shall be 
@@ -1492,7 +1446,6 @@ programmes through contemporary means and
 methods in electronic and print forms. The Board 
 shall formulate Regulations and/or necessary 
 Guidelines for this purpose. 
-  ## Page 48
  45 
   Ownership and 
 exploitation of 
@@ -1538,13 +1491,11 @@ the Statutes
 48 The Board may make new or additional Statutes or 
 amend or repeal the Statutes as prescribed under 
 Section-35 of the Act. 
-  ## Page 49
  46 
   ANNEXURE - 6 
   ['Academic regulations of KLE Technological University' framed and approved by 
 the Academic Council as per the provisions of 'KLE Technological University Act - 
 2012'] 
-   ## Page 50
  47 
   Regulations 
 Governing Undergraduate 
@@ -1553,7 +1504,6 @@ KLE Technological University
 2015 
   KLE Technological University 
 (Established under Karnataka Act No.22, 2013) 
-   ## Page 51
  48 
   CONTENTS 
 Section Description Page 
@@ -1606,7 +1556,6 @@ CHAPTER VII, EXAMINATION SYSTEM
 40 Deputy Chief Superintendent(s) 31 
 41 Invigilators 31 
 42 Group Invigilators 32 
- ## Page 52
  49 
   43 Obligation to perform the examination work 32 
 44 Errors committed by an examiner 32 
@@ -1660,14 +1609,12 @@ CHAPTER XIII, FELLOWSHIP / SCHOLARSHIP / FINANCIAL ASSISTANCE
 84 Award of Fellowships, Scholarships and Stipends by External Agencies 50 
 CHAPTER XIV, MAINTENANCE OF ACADEMIC RECORDS 
 85 Maintenance of Academic Records 50 
- ## Page 53
  50 
   86 Maintenance of Answer Books 50 
 87 Weeding off of Academic Records 50 
 88 Clarification of Doubts 51 
 89 Amendments 51 
 90 Jurisdiction 51 
- ## Page 54
  51 
   REGULATIONS GOVERNING UNDERGRADUATE AND POSTGRADUATE PROGRAMMES 
 OF KLE TECHNOLOGICAL UNIVERSITY - 2015 
@@ -1712,7 +1659,6 @@ Act, 2012 (Karnataka Act No. 22 of 2013);
   ii "Board of Governors", "Executive Council", 
 "Academic Council", and "Finance Council", 
 means respectively the Board of Governors, 
- ## Page 55
  52 
   Executive Council, Academic Council, and 
 Finance Council, of the University. 
@@ -1751,7 +1697,6 @@ the University.
 comprises a Programme of study. 
   xii "Credit" means credit earned by a student after 
 a successful completion of a credited course. 
- ## Page 56
  53 
     xiii "Degree" means a degree awarded by the 
 University with or without Specialization and/or 
@@ -1788,7 +1733,6 @@ under Section-22(3) of the UGC Act.
 offers programme(s) instituted by the University. 
   xxiii "Regulations" means the Regulations of the 
 University, notified by the Executive Council. 
- ## Page 57
  54 
     xxiv "Statutes" means the Statutes of KLE 
 Technological University, notified by the Board 
@@ -1832,7 +1776,6 @@ by the Vice-Chancellor consisting of:
   i Registrar - Chairperson 
   ii Coordinator Admission Cell - Member Secretary 
   iii ONE Dean Nominated by the Vice-Chancellor 
- ## Page 58
  55 
     iv ONE nominee of the Executive Council - 
 Member 
@@ -1862,7 +1805,6 @@ migrating into the University as per regulation
 the Dean Academic Affairs / the concerned Dean 
 of Faculty 
   ii The Constitution of the equivalence committee shall be as given below: Dean (Academics) Chairperson First year co-ordinator Member Chairman, BOS of the department to which candidate is seeking Admission Member 
- ## Page 59
  56 
     iii Committee shall examine the courses already 
 studied by the student, the syllabi thereof and 
@@ -1880,14 +1822,12 @@ credit to be earned by the student
   4. 5 Central Steering Committee (CSC) 
    The constitution of CSC shall be as follows:  Vice-Chancellor Chairman,  Deans, HoDs and Cell Coordinators will be the Members and  Senior faculty nominated by the Vice Chancellor shall be member coordinator. 
    The CSC has the following functions 1. To formulate the strategic policies in the following areas:  Facilitating student success  Creation of learner-centered environment  Support services beyond curriculum  Requirements of Human resources  Institution image building  Value based administration  Infrastructure planning and management  Interaction with other departments, cells/committees and stakeholders 2. To prepare strategic plans to pursue the above referred policies 
- ## Page 60
  57 
   3. To guide all the school/department/cells/committees towards implementation of policies 4. To conduct regular meetings to monitor the working of various school/department/cells/committees 5. To evaluate performance of each school/department/ cell/committee vis-à-vis stake holders expectations The committee shall meet as per the direction of Vice Chancellor. 
   4. 5 Department Undergraduate/ Postgraduate 
 Committee (DUGC/DPGC) There shall be a Department Undergraduate/ Postgraduate Committee for each Department offering an undergraduate/postgraduate academic programs. 
    It shall have the following members: 1. Head of School/Department , Chairman 2. Two Professors (by rotation for one year) 3. Two Associate Professors ( by rotation for one year) 4. Two Assistant Professors (by rotation for one year) 
    The DUGC/ DPGC shall perform the following functions: 1. Monitor the conduct of courses offered by the department 2. Ensure academic standard and excellence of the courses offered by the department 3. Oversee the evaluation of each course offered by the department 4. Develop and revise the curriculum based on past experience and to recommend the same to the BoS 5. Review of examination results (ISA and ESA) and moderate (in consultation with the course coordinator) where necessary to ensure fair assessment. 
- ## Page 61
  58 
   Fee Fixation 5 There shall be two types of seats in various 
 programmes of study offered by the University, 
@@ -1926,7 +1866,6 @@ maximum of an additional 20% or as notified
 from time to time by the state government shall 
 be applicable for admission to a higher semester 
 of certain programmes of study. The university 
- ## Page 62
  59 
   can also admit diploma candidates against the 
 vacancies that exists during the first year .The 
@@ -1968,7 +1907,6 @@ may invite additional experts to the
 Departmental Board of Studies as deemed fit 
 with permission from Dean(AA) 
   6. 2 A Departmental Board of Studies shall: 
- ## Page 63
  60 
     i Meet at least once a year, sufficiently before the 
 commencement of odd semester 
@@ -2014,7 +1952,6 @@ shall appoint the Chairman and the members of
 Board of Examiners (BOE) as stated below 
   7. 1 A Board of Examiners shall comprise of the 
 following members: 
- ## Page 64
  61 
     I One Senior Professor/ Head of 
 School/Department/Center shall be the 
@@ -2054,7 +1991,6 @@ appoint suitable persons as examiners, question
 paper setters, evaluators and moderators with 
 the approval of the Dean Academic Affairs / The 
 concerned Dean of Faculty; and 
- ## Page 65
  62 
     v Meet before the commencement of every 
 examination. 
@@ -2097,7 +2033,6 @@ Faculty- Members; and
   9. 2 The Results Scrutiny Panel shall: 
   i Review the report of the Controller of 
 Examinations pertaining to the results; 
- ## Page 66
  63 
     ii Validate the statistics of the results placed by the 
 Controller of Examinations; 
@@ -2137,7 +2072,6 @@ concerned Departmental Chairperson or any
 other Teacher as deemed necessary. 
   10. 2 The Examinations Malpractice Review 
 Committee shall: 
- ## Page 67
  64 
     i Review and inquire into cases of malpractice or 
 indiscipline during examinations reported by the 
@@ -2181,7 +2115,6 @@ qualifying exam as per Government norms;
   ii The candidate shall have passed the qualifying 
 examination as required for the programme on 
 or before the date of admission which shall be 
- ## Page 68
  65 
   duly supported by provisional certificate issued 
 by competent authorities. 
@@ -2224,7 +2157,6 @@ passport/visa/clearance/NOC from concerned
 bodies to the Admissions Committee. 
   12. 5 Admission shall be subject to the candidate 
 being certified medically fit by a registered 
- ## Page 69
  66 
   medical practitioner recognized by the 
 University for the purpose. 
@@ -2270,7 +2202,6 @@ refusal.
   13. 3 If, at any time after admission, it is found that a 
 candidate has not fulfilled all the requirements 
 stipulated in the letter of admission or has 
- ## Page 70
  67 
   submitted forged or invalid documents, the 
 Admissions Committee may revoke the 
@@ -2334,7 +2265,6 @@ the courses. In case of two students having the
 same CGPA, the normalized aggregate 
 percentage marks in the qualifying examination 
 shall be considered to decide the merit. 
- ## Page 71
  68 
   Transfer/ 
 Migration 
@@ -2380,7 +2310,6 @@ to a student migrating out of the University shall
 automatically stand terminated with effect from 
 the date of approval of migration. Further, the 
 University reserves the right to recover any 
- ## Page 72
  69 
   scholarship or financial assistance already given 
 to such a student before approval of migration. 
@@ -2421,7 +2350,6 @@ withdrawal.
   17. 5 A student who has temporarily withdrawn from 
 the University and fails to apply for resumption 
 of the programme of study, at the end of the 
- ## Page 73
  70 
   approved period of temporary withdrawal, shall 
 be deemed to have withdrawn permanently 
@@ -2469,7 +2397,6 @@ Bachelor of Architecture shall be five years with
 ten semesters. The Post graduate program in 
 Engineering will have the minimum period of 
 two years with four semesters while, the Master 
- ## Page 74
  71 
   degree in computer Science shall be for three 
 years with six semesters. 
@@ -2511,7 +2438,6 @@ normally shall be from August-December and
 even semester normally shall be from January-
 May each year . Fast-track term normally shall be 
 during June-July each year . 
- ## Page 75
  72 
     20. 4 The calendar of events in respect of each 
 programme shall be notified by the Registrar 
@@ -2538,7 +2464,6 @@ the case of very-short non-degree programmes.
 course in a programme of study based on the 
 following pattern: 
 a) Lectures: One lecture hour per week shall be assigned one credit b) Tutorials: Two tutorial hours per week shall be assigned one credit c) Practicals: Two laboratory hours per week shall be assigned one credit. Not more than three credits may be assigned to a practical course having only laboratory component. The courses having three hours of contact every alternate week shall have one credit only d) Drawing: Two drawing class hours per week shall be assigned one credit e) Mini-projects, Minor-projects, Seminars, Projects: Three contact and preparation hours per week shall be assigned one credit f) Studio : One studio Class hour per week shall be assigned one credit 
- ## Page 76
  73 
   g) Dissertation : Three contact and preparation hours per week shall be assigned one credit h) Self Study: There can be a self-study component in the curriculum as decided by the DUGC/DPGC. 
   21. 2 The course credits for each course shall be 
@@ -2574,7 +2499,6 @@ for the award of degrees are as follows:
 Bachelor of Engineering: (BE) : 176 
 Bachelor of Engineering ( Lateral Entry) : (BE): 
 132 
- ## Page 77
  74 
   Master of Engineering : (M. Tech) : 88 
 Master of Computer Application: (MCA): 132 
@@ -2617,7 +2541,6 @@ programs except architecture. Basic Science
 courses shall be in the range of 20 - 30 credits. 
   22. 1.3 Engineering Science Courses (ES): Engineering 
 Science courses give a broad spectrum of allied 
- ## Page 78
  75 
   engineering disciplines that is needed to address 
 real time engineering problems that are multi-
@@ -2657,7 +2580,6 @@ programme of study.
   22. 2 Certain programmes of study may have 
 additional requirements such as apprenticeship 
 and residency. 
- ## Page 79
  76 
   Audit & 
 Minor 
@@ -2700,7 +2622,6 @@ studies.
 not meeting the minimum course requirements 
 shall not qualify for Minor . 
 CHAPTER V CURRICULA AND SYLLABI 
- ## Page 80
  77 
   Curricula 
 and Syllabi 
@@ -2758,7 +2679,6 @@ Field Work = D; and Non-credit course = N. The
 Departmental Curriculum Committee shall 
 assign a code to a course as and when a new 
 course is introduced. 
- ## Page 81
  78 
     25. 2 A digit shall be assigned for each course 
 depending on the level of course as: 
@@ -2802,7 +2722,6 @@ doubts in the course.
 learning 
 The laboratory experience has been enhanced 
 by categorizing the experiments as 
- ## Page 82
  79 
   a. Demo Experiments 
 b. Exercise experiments 
@@ -2845,7 +2764,6 @@ develop lifelong learning skills
 8. Online or MOOC courses 
 Selected online / MOOC courses either 
 independent or as part of project work 
- ## Page 83
  80 
   give the students exposure to 
 international best practices and help in 
@@ -2886,7 +2804,6 @@ student may re-register either for the
 same course or chooses 2 electives at a 
 later date when the same are offered to 
 fulfil the curriculum requirement. 
- ## Page 84
  81 
   10. Internship Project A student is allowed to earn maximum of 20 credits during his/her internship. The breakup of earned credits is as follows: Capstone project of 14 credits after withdrawing of 7th semester Phase-I project of 3 credits Internship Report of 6 credits 11. Courses offered from different centers Students of B.E., B.Arch., M. Tech., M.C.A and M.B.A programs may be permitted to register for courses offered by CTIE/ Research clusters/ Centers of Excellences of the college as a regular / open elective for the regular requirement of award of degree. Such courses may be approved by the board of studies proposed by the head of centers and approved by the Chairman, Academic Council. 12. Seminars The curriculum may contain a Seminar normally based on a review on a topic of the state of the art in a chosen field related to the branch in which the student is enrolled and shall consist of literature review, categorization of information collected, interpretation of presented information and presentation. 
 Note : Faculty can adopt the above teaching 
@@ -2906,7 +2823,6 @@ that course. If a course is taught by more than
 one Teacher in the same semester, it shall be 
 coordinated by one of the Teachers designated 
 as the course coordinator . He/she has the 
- ## Page 85
  82 
   responsibility for framing the course policy, 
 which includes lesson plan, coverage, 
@@ -2949,7 +2865,6 @@ any other elective course in the EC category.
   28. 4 If a student fails to register for course(s) during a 
 semester without intimation to the Dean 
 Academic Affairs / the concerned Dean of 
- ## Page 86
  83 
   Faculty, his/her admission shall be liable to be 
 cancelled. 
@@ -3001,7 +2916,6 @@ more course(s) before the deadline with the
 approval of the Dean Academic Affairs / the 
 concerned Dean of Faculty, upon payment of 
 additional fees, if any. 
- ## Page 87
  84 
     ii Withdrawal: A student may withdraw from a 
 course before the deadline specified for the 
@@ -3046,7 +2960,6 @@ any shortage in attendance.
   34. 2 A student shall maintain the prescribed 
 minimum attendance in each individual course, 
 as specified in the guidelines for the programme 
- ## Page 88
  85 
   of study. Without the minimum attendance in a 
 course, the student shall be ineligible to appear 
@@ -3090,7 +3003,6 @@ Chancellor;
 examination time table from time to time; 
   iv Supervise the registration of students for End 
 Semester Assessment, if applicable; 
- ## Page 89
  86 
     v Appoint the required number of officials and 
 staff for the conduct of examinations, with the 
@@ -3130,7 +3042,6 @@ the Finance Council for its consideration.
   xv Apart from what is said here the Controller 
 examination shall strictly implement what is 
 stated in the examination process approved by 
- ## Page 90
  87 
   appropriate authority and will take steps to 
 maintain all secrecy and confidentiality of 
@@ -3179,7 +3090,6 @@ Additional Chief Superintendent(s), if
 necessitated by the number of students 
 registered for the examination, from amongst 
 the senior T eachers of the University, with the 
- ## Page 91
  88 
    approval of the Vice Chancellor . The Additional 
 Chief Superintendent(s) shall perform similar 
@@ -3232,7 +3142,6 @@ University.
 assignment of taking part in the conduction of 
 examinations and all such activities incidental 
 thereto and connected therewith, whenever 
- ## Page 92
  89 
   his/her kith and kin are appearing for the 
 examinations. 
@@ -3283,7 +3192,6 @@ follows:
  Courses with enrolment less than 30. 
  Industry Visit and Lecture / Industrial 
 Training / Seminar. 
- ## Page 93
  90 
    Mini Project / Minor Project / Capstone 
 Projects. 
@@ -3332,7 +3240,6 @@ demonstrations, field work, models, worksheets,
 practical record books, quizzes, tests, and award 
 of marks for attendance. If a student misses a 
 practical / laboratory session owing to genuine 
- ## Page 94
  91 
   reasons, he/she shall complete the activity of 
 that session before the end of the semester, with 
@@ -3386,7 +3293,6 @@ project report, and viva-voce. The concerned
 Head of the Department/ School/ Center shall 
 arrange for the evaluation of such components. 
 The concerned Head of the Department / School 
- ## Page 95
  92 
   Experience 
 for 
@@ -3433,7 +3339,6 @@ course for which a student is registered,
 following requirements must be met: 
   i Attendance as mentioned in section 35.2 
   ii ISA marks: Not less than 40% of ISA marks in UG programs and 50% in case of PG programs (except in those cases where it is not specially mentioned in the scheme of evaluation) 
- ## Page 96
  93 
     iii Students not fulfilling attendance requirement 
 or ISA requirement shall be assigned an 'FA" or 
@@ -3482,7 +3387,6 @@ quizzes, and viva voce.
   58. 3 The Office of the Controller of Examinations may 
 code the answer books of ESA for the purpose of 
 anonymous evaluation. 
- ## Page 97
  94 
     59. 4 Central valuation shall be conducted in the 
 University premises only. 
@@ -3538,7 +3442,6 @@ on the type of course.
 However, for the purpose of reporting the 
 performance of a student, letter grades and 
 grade points will be awarded as per section 63 a. 
- ## Page 98
  95 
   63 a. Relative Grading System 
 In this system, the grades are awarded to the 
@@ -3600,7 +3503,6 @@ Incomplete
 AP - Audit 
 Pass 
 Audit Pass
- ## Page 99
  96 
   AF - Audit Fail Audit Fail 
 FA 0 Fail due 
@@ -3660,7 +3562,6 @@ attendance
 shortage 
 * "W", "X" and "I" grades shall be considered to 
 be transitional grades. 
- ## Page 100
  97 
   Result sheet shall contain the following 
  Only Grades, Grade points, Credits, 
@@ -3701,7 +3602,6 @@ semester, the "W" grade shall be converted to an
 "F" grade. 
 "W" grade is not awarded in supplementary 
 semester . 
- ## Page 101
  98 
     63. 4 'I' grade: ‟I‟ grade shall be awarded temporarily 
 to a student who is unable to appear for ESA for 
@@ -3743,7 +3643,6 @@ course when offered next.
 course shall have an option of repeating the 
 same elective course when offered next or 
 register for any other elective course. 
- ## Page 102
  99 
     63. 6.3 The 'FA' grade denotes poor attendance i.e. 
 failure in a course due to attendance shortage 
@@ -3789,7 +3688,6 @@ Progression
 65 The requirement to progress to the next 
 academic year is only on the basis of number of 
 courses and is as follows: 
- ## Page 103
  100 
     65. 1 Maximum number of F grades that can be 
 carried at the end of any academic year is 04 
@@ -3831,7 +3729,6 @@ courses with "F" & "FA" grades and transitional
 grades. 
   66. 3 If a student obtains an "F" grade in a course and 
 registers for the same course in a subsequent 
- ## Page 104
  101 
   semester, the new grade obtained shall replace 
 the previous "F" grade in calculating the CGPA. 
@@ -3874,7 +3771,6 @@ study by securing a CGPA between 6.75 and 7.74
 in First Class. 
   iii Second Class: A student completing the 
 programme of study by securing a CGPA 
- ## Page 105
  102 
   between 5.75 and 6.74 shall be declared to have 
 passed in second class. 
@@ -3915,7 +3811,6 @@ B.Arch. program the CGPA of I semester to X
 semesters shall be taken into account to declare 
 the ranks. 
   vii Not faced any disciplinary action. 
- ## Page 106
  103 
     viii The minimum number of registered candidates 
 for a program during the final year shall be a 
@@ -3960,7 +3855,6 @@ answer books of ESA only for theory component
 of courses. Any delay in the announcement of re-
 totaling and/or revaluation results for any reason 
 whatsoever shall not confer the right upon the 
- ## Page 107
  104 
   student for admission to the subsequent 
 semester and for any other kind of claim. There 
@@ -4004,7 +3898,6 @@ component of courses shall be supplied within
 THREE working days after the receipt of the 
 application at the Office of the Controller of 
 Examinations. 
- ## Page 108
  105 
   Revaluation 
   72 A student may apply to the Controller of 
@@ -4056,7 +3949,6 @@ following stages before its announcement:
   i Draft results prepared by the Office of Controller 
 of Examinations shall be placed before the 
 Results Scrutiny Panel for review; 
- ## Page 109
  106 
     ii Subsequent to the review, the Controller of 
 Examinations shall announce the provisional 
@@ -4097,7 +3989,6 @@ course provided the student gets the
 minimum prescribed passing marks in 
 ISA for that course by such grace 
 marks. 
-  ## Page 110
  107 
   GMR5 : The student is eligible to be graced 
 under GMR2 only if grace marks have 
@@ -4141,7 +4032,6 @@ grade card or duplicate degree certificate to a
 student in case of loss or mutilation, upon 
 submission of application in prescribed format 
 along with requisite documents and payment of 
- ## Page 111
  108 
   fee as specified by the Office of the Controller of 
 Examinations. 
@@ -4188,7 +4078,6 @@ Award of
 Degree 
 80 A candidate shall be declared to be eligible for 
 the award of a degree if he/she has: 
- ## Page 112
  109 
     i Credits and grades compliance as prescribed by 
 the concerned Faculty of Study within the 
@@ -4233,7 +4122,6 @@ Merit
 Scholarship 
 83 The merit scholarship may be awarded on a year 
 to year basis for students in various programmes. 
- ## Page 113
  110 
     83. 1 The BOG shall, on the recommendation of the 
 Academic Council, determine from time to time 
@@ -4285,7 +4173,6 @@ Academic Affairs / the concerned Dean of
 Faculty may choose to maintain such student 
 files in the office of the concerned 
 Departmental/ School Chairperson. 
- ## Page 114
  111 
     85. 3 The Office of the Controller of Examinations shall 
 maintain a file for each student comprising of 
@@ -4333,7 +4220,6 @@ settled;
 correspondence) shall be destroyed for which 
 proceedings are going on in a Court of Law till the 
 case is finalized; and 
- ## Page 115
  112 
     v A list of records proposed to be destroyed shall 
 be prepared by the Dean Academic Affairs / the 
@@ -4356,11 +4242,9 @@ NTS
 JURISDICTI
 ON 
 90 All disputes arising from the regulations listed herein must be addressed to the Academic Council. The decision of the Academic Council is final and binding on all parties. Any legal issues arising from this set of regulations shall be limited to the legal jurisdiction determined by the location of the College and not that of any other parties. 
-  ## Page 116
  113 
   ANNEXURE -7 
   [Service Rules (framed as per the service rules & policies of KLE Society)] 
- ## Page 117
  114 
   KLE TECHNOLOGICAL UNIVERSITY, HUBBALLI 
 SERVICE RULES 
@@ -4400,7 +4284,6 @@ purview of KLE Technological University.
 3. 5 "Management" means the BOG-Chairman, Vice Chancellor, Pro -Vice Chancellors, Heads 
 of the institutions, Deans of faculty, Principals, Registrar i.e. any other person vested 
 with the authority to enforce the service rules and regulations 
- ## Page 118
  115 
   3. 6 "Appointing Authority, Disciplinary Authority, Competent Authority", under these rules 
 mean Chairman of BOG, ,Vice - Chancellor, Deans, Heads of institutions or any other as 
@@ -4444,7 +4327,6 @@ when need arises.
 Rule 5 EXERCISE OF POWERS 
 The power conferred by these rules may be exercised by the BOG through any person 
 or any such authority. 
- ## Page 119
  116 
   Rule 6 DUTIES OF EMPLOYEES 
 The duties of an employee shall pertain to his work as per the terms and conditions 
@@ -4485,7 +4367,6 @@ of occasional or casual nature.
 NOTE: Employees covered under Sub Rules 8.4, 8.5, 8.6 and 8.7 are not entitled to 
 benefits provided to a probationary / permanent employee unless 
 specifically provided in the letter of contract/ appointment/engagement. 
- ## Page 120
  117 
   Rule 9 APPOINTMENTS 
 9. 1 All appointment of employees shall be made in writing by the Appointing Authority 
@@ -4526,7 +4407,6 @@ appointed, increments given from time to time, leave availed of, transfers, prom
 suspensions, punishments, dismissal etc. The register/file shall be opened immediately 
 after the employee reports for duty and to be up dated periodically 
 Rule 11 IDENTITY CARD / BADGE 
- ## Page 121
  118 
   Every employee shall be given an identity card/badge, appropriate to his classification 
 and he shall wear it while on duty and show it to the person authorized by the 
@@ -4566,7 +4446,6 @@ work 6 days a week. The number of hours they have to work per day, inclusive of
 rest interval/time for meals, but inclusive of not more than 15 minutes break, twice 
 daily for tea/ coffee, will depend on the shifts. However it will not be less than 8 
 hours. 
- ## Page 122
  119 
   13. 4 Employees on shift duty shall continue to be on duty until relieved by the employees 
 of the next shift. The management at their discretion may transfer an employee from 
@@ -4607,7 +4486,6 @@ the post to which he was appointed or has not passed the special examinations
 or special tests, if any, required to be passed during the period of probation, 
 the Appointing Authority shall, unless the period of probation is extended by 
 order, discharge him from service. 
- ## Page 123
  120 
   15. 5 A probationer shall not be considered to have satisfactorily completed the 
 probation unless a specific order to that effect is passed. Any delay in the issue of an 
@@ -4649,7 +4527,6 @@ with effect from 01.06.2019.
 18. 5 When an employee working in the lower cadre and scale of pay is promoted or 
 appointed to a higher cadre and scale of pay, his increment will fall due after he 
 completes one year of service in the higher scale of pay. 
- ## Page 124
  121 
   18. 6 The increment due to an employee will be paid to him even if he is on leave on the 
 due date, except in the case of leave on loss of pay. 
@@ -4693,7 +4570,6 @@ may relax notice period of three months or part of it on the case-by-case basis.
 any time after 25 years of service in KLE Technological University and its associated 
 institutions or after 50 years of age, by giving 3 months notice or 3 months pay in 
 lieu thereof. However, in certain cases the Management enjoys the right of retiring 
- ## Page 125
  122 
   the employee any time if it finds that his services are no longer required for the 
 institutions by giving 3 months notice. 
@@ -4735,7 +4611,6 @@ No Due Certificate to that effect. The management reserves the right to recover 
 such outstanding amounts and value of the property of KLE Technological University 
 and its associated institutions from amounts due to the employee or in any other 
 manner as the management deems fit. 
- ## Page 126
  123 
   22. 8 After completion of all the formalities as detailed in 22.7 and on the submission 
 of no due certificate by the employee, relieving order will be issued. 
@@ -4777,7 +4652,6 @@ profit or advantage for himself or any other person.
 f) engage directly or indirectly in any trade or business or a vocation or 
 undertake any other employment. 
 23. 3 No employee shall: 
- ## Page 127
  124 
   a) propagate/indulge in communal or sectarian activity. 
 b) discriminate against person on the grounds of caste, creed, language, 
@@ -4819,7 +4693,6 @@ An employee found in unauthorized possession of any goods, equipments,
 implements, articles, materials, etc. which are in use in KLE Technological University 
 or kept in stock in KLE Technological University and are not normally carried by the 
 person, will be deemed to have got into possession of such goods by improper 
- ## Page 128
  125 
   means. The management may confiscate such goods and such unauthorized 
 possession attracts disciplinary action as well as any other action as deemed fit by 
@@ -4861,7 +4734,6 @@ on any public platform, provided, however, that nothing in this rule shall apply
 any statement made or views expressed by an employee in his official capacity or in 
 the due performance of the duties assigned to him. 
 Rule 32 UNAUTHORISED COMMUNICATION OF INFORMATION 
- ## Page 129
  126 
   No employee shall, except in accordance with any general or special order of KLE 
 Technological University or in the bonafide performance of the duties assigned to 
@@ -4904,7 +4776,6 @@ the interest of the management or other employees or officers of the management.
 Any act of omission/commission/ indiscipline which affects the reputation or 
 prestige of the Management shall amount to misconduct whether committed within 
 or outside the premises of KLE Technological University and associated institutions 
- ## Page 130
  127 
   or any act or conduct unbecoming of an employee of KLE Technological University 
 and associated institutions. 
@@ -4943,7 +4814,6 @@ institutions.
 KLE Technological University and associated institutions or in a case 
 conducted in a Court of Law in which of KLE Technological University and 
 associated institutions is a party. 
- ## Page 131
  128 
   14. Travelling or carrying unauthorized passengers, materials in any of KLE 
 Technological University and associated institutions vehicles without valid 
@@ -4984,7 +4854,6 @@ Technological University and associated institutions.
 facilities unauthorisedly for personal gains. 
 29. Not allowing of KLE Technological University and associated institutions 
 employees/officers/ superiors either to enter or come out of the premises or 
- ## Page 132
  129 
   causing ingress or egress of the material or equipments of KLE Technological 
 University and associated institutions. 
@@ -5025,7 +4894,6 @@ in support of his defense and cross-examine the witnesses on whose evidence the
 charges are based. No legal practitioner shall be allowed to appear on behalf of the 
 employee. The statements of the management and the employee and the evidence 
 lead by either side shall be recorded by the Enquiry Officer. If the employee 
- ## Page 133
  130 
   concerned fails to attend the enquiry, it shall be proceeded ex-parte. The Enquiry 
 Officer shall submit his findings to the management based on the evidence recorded 
@@ -5067,7 +4935,6 @@ a) Suspension without salary and allowance for a period up to 90 days.
 b) Demotion to a lower grade or post or to a lower stage in the time scale 
 of pay for a specified period at the discretion of the management. 
 c) Reduction in rank. 
- ## Page 134
  131 
   d) Discharge/removal/dismissal/compulsory retirement from service. 
 Rule 40 SUSPENSION PENDING ENQUIRY 
@@ -5110,7 +4977,6 @@ management subject to availability of accommodation.
 Rule 43 SERVICE CERTIFICATE 
 A service Certificate shall be valid only if it is issued and signed by the Appointing 
 Authority or a person authorized to do so or head of the institution. 
- ## Page 135
  132 
   Rule 44 SERVING OF NOTICE 
 44. 1 Every employee shall intimate the change of his postal address for communication 
@@ -5133,7 +4999,6 @@ As per the provisions made thereon by the KLE Technological University/ KLE Soci
 Rule 48 EMPLOYEES PROVIDENT FUND 
 As per the provisions made there on, by the KLE Technological University/ KLE 
 Society. 
-  ## Page 136
  133 
   HOLIDAYS AND LEAVE RULES APPLICABLE TO EMPLOYEES OF K.L.E. SOCIETY 
 1. HOLIDAY WEEKLY HOLIDAYS 
@@ -5174,7 +5039,6 @@ authority shall satisfy itself that sufficient reasons did not exist that preven
 employees from obtaining prior sanction. 
 2. 10 Employees applying for leave on medical grounds should produce medical 
 certificate from a doctor who is on the rolls of one of the associated hospitals of 
- ## Page 137
  134 
   K.L.E. Society. Exceptions may be made where the competent authority is satisfied 
 that the employee was not in a position to get examined/treated by a doctor of the 
@@ -5213,7 +5077,6 @@ a time.
 10 days of earned leave for every completed year of service from the date of joining. 
 Subsequent entitlement of earned leave will be in proportion to the length of service 
 calculated on monthly basis. 
- ## Page 138
  135 
   4. 2 An employee wishing to avail earned leave must apply for the same for a minimum 
 period of 5 days at a time. Application should be made to the appropriate authority 
@@ -5255,7 +5118,6 @@ of an appropriate authority to forego his vacation or a part thereof.
 should be on duty on the last working day before vacation leave and the first working 
 day on re-opening. Otherwise the total period of absence will be treated as earned leave 
 or in case no earned leave is due, by enforcing loss of pay. 
- ## Page 139
  136 
   7. COMMUTED LEAVE (HALF PAY LEAVE) 
 7. 1 A non-teaching permanent employee is entitled to 20 days of half pay leave in respect 
@@ -5295,7 +5157,6 @@ delivery. However, a woman employee with one living child from the first deliver
 eligible for the maternity leave if she gives birth to twins in the second delivery. 
 8. 3 The maximum period of entitlement for maternity leave shall be 90 days with full 
 pay of which not more than 45 days shall proceed the date of expected delivery. 
-  ## Page 140
  137 
   8. 4 In case of a miscarriage or medical termination of pregnancy, a woman employee, on 
 production or prescribed proof, shall be entitled to 45 days leave with pay 
@@ -5334,7 +5195,6 @@ Fellowship Leave.
 be equivalent to one-year emoluments. 
 11. 5 The applicant shall also have to tender a bank guarantee for an amount of 3 months 
 salary. 
- ## Page 141
  138 
   11. 6 There must be a clear gap of five years between two spells of Long Term Fellowship 
 Leave. Leave on loss of pay exceeding one month shall not be reckoned as service 
@@ -5374,7 +5234,6 @@ salary.
 14. LEAVE FOR EMPLOYEES ON FIXED TERM CONTRACT (FTC) 
 14. 1 An employee on Fixed Term Contract will be entitled to leave benefits as per the 
 terms and conditions of his contract. 
- ## Page 142
  139 
   15. MISCELLANEOUS 
 1. No leave other than casual leave shall be granted to an employee once notice 
@@ -5388,11 +5247,9 @@ termination.
 leave on loss or pay or unauthorized absence such weekly holiday or authorized 
 holiday will be included in the period of the leave on loss of pay or unauthorized and 
 he will not be entitled to pay and allowance. 
-  ## Page 143
  140 
   ANNEXURE -8 
   [Delegation of Financial Powers] 
- ## Page 144
  141 
   Delegation of financial powers 
   The financial power delegated to the leadership team of the University is as shown below: 
@@ -5423,11 +5280,9 @@ power:
 3. Department requirements -
 Laboratory, research etc., 
 4. Events 
-  ## Page 145
  142 
   ANNEXURE -9 
   [Conduct of Convocation and regarding installation of Medals and Prizes] 
- ## Page 146
  143 
   THE KLE TECHNOLOGICAL UNIVERSITY REGULATIONS GOVERNING CONVOCATIONS TO 
 CONFER DEGREES 
@@ -5464,7 +5319,6 @@ Distribution of Degree certificates:
 (i) The Certificates for Degrees shall be signed by the Vice-Chancellor. 
 (ii) Distribution of Degree Certificates to the persons referred in clause (iii) of this 
 regulation shall be made either at the convocation or at any time after the Convocation. 
- ## Page 147
  144 
   Provided that only such candidates will be admitted to the convocation who have 
 submitted their application in the prescribed form to the Controller of Examination with the 
@@ -5499,7 +5353,6 @@ Convocation:
 (i) The Visitor (His Excellency Governor of GoK) shall preside at any convocation and in the 
 absence of the Visitor, Pro-Visitor (The Honorable Minister for Higher education, GoK). In 
 absence of both Chancellor shall preside over the convocation. 
-  ## Page 148
  145 
   (ii) Candidates attending the Convocation shall come in dress as specified in the instructions 
 for the candidates and shall occupy their respective seats before the proceedings begin. 
@@ -5538,7 +5391,6 @@ to declare the Convocation open".
 year------..." 
   The Dean of Academic Affairs or any person nominated by the Vice-Chancellor shall 
 present the candidates to the Visitor for the award of degrees: 
- ## Page 149
  146 
   "Sir, 
 I present the candidates whose names are set out in the list for the degrees of 
@@ -5565,13 +5417,11 @@ Special convocation: Special convocation for conferring honorary degrees or othe
 distinctions may be held on such date and time as the BOG may with the Chancellor's 
 approval determine. 
   Approved by the Chancellor 
-  ## Page 150
  147 
   ANNEXURE -10 
   [List of Undergraduate and Post-Graduate programs that are to be 
 started by the KLE Technological University from the academic year 
 2015-16] 
-  ## Page 151
  148 
   List of Undergraduate and Post-Graduate programs that are to be started by the KLE 
 TECHNOLOGICAL University from the academic year 2015-16 are as follows: 
@@ -5596,27 +5446,21 @@ POST GRADUATE PROGRAMS
 7 MTech in Machine Design 18 
 8 Master of Computer Applications (MCA) 60 
 9 Master of Business Administration (MBA) 60 
-  ## Page 152
  149 
   ANNEXURE -11 
   [Academic Council Recommended Broad Curriculum Framework for 
 Various Academic Programs of the University] 
- ## Page 153
  150 
   Broad curriculum frameworks proposed for Undergraduate and Postgraduate programs are 
 as follows: 
   BE PROGRAM The different programs shall consist of a number of courses and each course shall be assigned with credits, which is a measure of the weightage of the course. The minimum number of credits that must be earned to be awarded the B.E. degree shall be 176 for regular students. For B.E. lateral entry students, the credits shall be 132. A typical Break down for BE degree Curriculum shall be as below Number of Credits Average number of Credits (Typical) Humanities and Social Sciences (HSS) 9 - 15 10 Basic Sciences (BS) 20 - 30 26 Engineering Sciences(ES) 25 - 35 30 Professional Subjects (PS) Core 50 - 70 57 Elective Courses  Essential Programme Electives (EPE)  Optional Programme Electives (OPE)  Open Electives (OE) 25 - 35 33 Project Work 15 - 25 20 Total 176 - 180 176 
    BARCH PROGRAM The program shall consist of a number of courses and each course shall be assigned with credits, which is a measure of the weightage of the course. The minimum number of credits that must be earned to be awarded the B. Arch degree shall be 220 for regular students. 
- ## Page 154
  151 
   A typical Break down of B. ARCH program Subject Area B. ARCH. Program Number of Credits Average number of Credits (Typical) Professional Communication Subjects 10 - 15 12 Design Subjects 80 - 90 83 Construction Subjects 50 - 60 57 Professional Subjects 06 - 12 09 Thesis Project Work 10 - 20 15 Professional Training 40 - 50 44 Total 220 - 225 220 
   M.TECH PROGRAM The program shall consist of a number of courses and each course shall be assigned with credits, which is a measure of the weightage of the course. The minimum number of credits that must be earned to be awarded the M.Tech degree shall be 88 for regular students. A typical Break down of M.TECH program Subject Area M.TECH. Program Number of Credits Average number of Credits (Typical) Professional Subjects (PSC) Core 40-50 45 Professional Subjects (PSE) -Electives 8-16 12 Industrial Training 1-2 2 Seminars 1-2 1 Project Work 25-30 28 Others (specify if any) 0-4 Total 88-90 88 
- ## Page 155
  152 
   MCA PROGRAM The different programs shall consist of a number of courses and each course shall be assigned with credits, which is a measure of the weightage of the course. The minimum number of credits that must be earned to be awarded the MCA degree shall be 132 for regular students. A typical Break down of MCA program Subject Area MCA Program Number of Credits Average number of Credits (Typical) Professional Subjects (PSC) Core 90-100 94 Professional Subjects (PSE) -Electives 8-16 12 Industrial Training --- --- Seminars --- --- Project Work 25-30 26 Others (specify if any) 0-4 3* Total 132-135 132 
 * Mandatory Non-credit course 
 MBA PROGRAM The different programs shall consist of a number of courses and each course shall be assigned with credits, which is a measure of the weightage of the course. The minimum number of credits that must be earned to be awarded the MBA degree shall be 88, for regular students. A typical Break down of MBA program Subject Area MBA Program Number of Credits Average number of Credits (Typical) Professional Subjects (PSC) Core 40-60 50 Professional Subjects (PSE) -Electives 25-30 27 
- ## Page 156
  153 
-  Industrial Training 4-8 6 Seminars --- --- Project Work 3-6 4 Others (specify if any) 0-4 1 Total 88-90 88 
-  
+  Industrial Training 4-8 6 Seminars --- --- Project Work 3-6 4 Others (specify if any) 0-4 1 Total 88-90 88

@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: mba-curriculum-2023-25"
+title: "Mba Curriculum 2023 25"
 category: "academics"
 subcategory: ""
 document_type: "syllabus"
@@ -11,21 +11,20 @@ language: "en"
 keywords: ["course", "curriculum", "document", "hours", "management", "marks", "mba", "module"]
 aliases: ["HOD", "Head of Department", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "83"
 ---
-# PDF Document: mba-curriculum-2023-25
- **PDF Source:** https://www.kletech.ac.in/pdf/mba-curriculum-2023-25.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/mba-curriculum-2023-25.pdf
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 1 
+
   School of Management Studies and Research 
   Curriculum and Syllabus 
 (2023-2025) 
 MBA- Masters of Business Administration 
-  ## Page 2
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 2 
+
 INDEX 
 Sr. No Content Page No 
   1 Vision and Mission o f KL E Te ch n o l o g i ca l Un i ve rs i t y 3 
@@ -34,10 +33,9 @@ Sr. No Content Page No
 4 Curriculum Structure-Overall 6 
 5 Curriculum Structure - Semester-wise 9 
 6 Curriculum Content- Course-wise 13 
-  ## Page 3
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 3 
+
   Title: Vision and Mission Statements of the KLE Technological University 
   Vision 
   KLE Technological University will be a national leader in Higher 
@@ -59,11 +57,9 @@ contributing our expertise, exper ience and leadership, to enhance
 competitiveness and quality of life. 
   As a unified community of faculty, staff and students, we work together with the 
 spirit of collaboration and partnership to accomplish our mission. 
-           Back 
-  ## Page 4
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 4 
+
 Title: Vision and Mission Statements of the Department/School 
   Vision: 
 KLE Tech Department of Management will be a premier institute in management education 
@@ -76,11 +72,9 @@ students for success in their lives and professional careers.
 management challenges and shapes professionals 
   3. To engage with industry and community stakeholders by contributing to the 
 region's socio-economic development. 
-             Back 
- ## Page 5
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 5 
+
 Title: Consolidated View of Program Educational Objectives (PEOs) /Program Outcomes (POs) and Program-Specific Objectives (PSOs) 
 Program Educational Objectives (PEO) Program Outcomes (PO) 
   PEO1: Graduates will demonstrate entrepreneurial and 
@@ -112,11 +106,9 @@ economic, legal, and ethical aspects of business.
 organizational goals, contributing effectively to a team environment. 
  PSO1: Ability to analyse, synthesize and solve organizational and 
 societal issues. 
-                 Back 
- ## Page 6
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 6 
+
   Title: Curriculum Structure -Overall 
 Title: Curriculum Structure- Semester wise 
 Curriculum Structure for the year 2023-25 batch 
@@ -138,10 +130,9 @@ Duration
 21MBAP701 Entrepreneurship Phase- I 
 8 20MBAP703 Business Communication 0-0-1 1 2 100 - 100 - 
 TOTAL 15-2-4 21 
- ## Page 7
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 7 
+
   Semester Total Program Credits: 88 
 Course with course Code 
 I II III IV 
@@ -208,10 +199,9 @@ Social Entrepreneurship Phase- II
 Social Entrepreneurship Phase- I 
 (22MBAP802) 
 Credits 21 24 22 21 
- ## Page 8
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 8 
+
   II Semester 
   No Code Course Category L-T-P Credits Contact 
 Hours 
@@ -234,10 +224,9 @@ Aptitude
 0-0-3 3 6 100 - 100 - 
 21MBAP702 Entrepreneurship Phase - II 
 TOTAL 17-2-5 24 
- ## Page 9
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 9 
+
   III Semester 
   No Code Course Category L-T-P Credits Contact 
 Hours 
@@ -261,10 +250,9 @@ Management
 20MBAR801 Research Experience Phase- I 
 22MBAP802 Social Entrepreneurship Phase- I 
 TOTAL 15-0-7 22 
- ## Page 10
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 10 
+
   IV Semester 
   No Code Course Category L-T-P Credits Contact 
 Hours 
@@ -283,10 +271,9 @@ Duration
 24MBAR801 Research Experience Phase- II 
 24MBAP803 Social Entrepreneurship Phase- II 
 TOTAL 18-0-3 21 
- ## Page 11
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 11 
+
 Electives I, II, III, IV 
 Marketing 
 20MBAE8XX 
@@ -373,11 +360,9 @@ Using Power Bi
 Managers 
  Exploratory Data 
 Analysis 
-                   Back 
-  ## Page 12
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 12 
+
 Title: Curriculum Content- Course-wise 
 2024-26 Batch 
 Course Content Semester I 
@@ -425,11 +410,9 @@ References
 Entrepreneurial Perspective, Tata McGraw-Hill, 15th Edition, 2019 
  Fred Luthons, Organizational Behavior, Tata McGraw-Hill, 12th Edition, 2017 
  Stephen Robbins, Judge, Vohra, Organizational Behavior, Pearson, 18th Edition, 2018 
-           Back 
- ## Page 13
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 13 
+
 Course Code: 20MBAC702 Course Title: Managerial Economics 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -470,11 +453,9 @@ India, 2005.
 Company, 2003. 
  N Gergory Mankiw, Principles of Economics, 3rd edition, Thomson South-Western, 2003. 
  D N Dwivedi, Managerial Economics, 7th edition, Vikas Publication house, 2010. 
-           Back 
-   ## Page 14
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 14 
+
 Course Code: 20MBAC703 Course Title: Accounting for Managers 
 L-T-P: 2-1-0 Credits: 3 Contact Hrs: 04 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -516,12 +497,9 @@ India, 5th edn, 2012.
 Pearson India Education Services, 5th edn, 2016. 
  C Rama Gopal, Financial Management and Management Accounting, New Age 
 International Publishers, 1st edn, 2011. 
-       Back 
-  ## Page 15
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 15 
-          Back 
+
   Course Code: 22MBAC701 Course Title: Business Research Methods 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -572,19 +550,17 @@ Hill.
  Uma Sekaran and Roger Bougie, Research Methods for Business, 5th ed, 2014, Wiley 
  Uwe Flick, An Introduction to Qualitative Research, 1st edition, 2019, Sage Publications 
  Gerard Guthrie, Basic Research Methods, 1st edition, 2010, Sage Publications 
- ## Page 16
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 16 
+
    G. C. Beri, Business Statistics, 2nd edition, 2005, Tata McGraw-Hill 
  R I Lewin and David S Rubin, Statistics for Management, 7th edition, 2009, Pearson. 
  Robert E. Stine, Dean Foste r, Statistics for Business: Decision Making and Analysis, 1 st 
 edition, 2014, Pearson 
  J K Sharma, Business Research Methods &amp; Statistics, 2nd edition, 2006, Pearson. 
- ## Page 17
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 17 
+
 Course Code: 20MBAC709 Course Title: Marketing Management 
 L-T-P: 2-1-0 Credits: 3 Contact Hrs: 04 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -617,11 +593,9 @@ A south Asian Perspective, 14th edition, Pearson Publication.
  Ramaswamy Namakumari, Marketing Management, 5th edition, Tata McGraw Hill. 
  Rajan Saxena, Marketing Management, 4th edition, Tata McGraw Hill. 
  Michael Hutt, Dheeraj Sharma, B2B Marketing, 11th edition, Cengage learning. 
-                                   Back 
-  ## Page 18
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 18 
+
 Course Code: 22MBAC702 Course Title: Analytics for Business 
 L-T-P: 2-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -666,11 +640,9 @@ Publication; 1st Edition, 2012
 Private Limited; 2 edition, 2015 
  James O'Brien and George Marakas, Management Information Systems, McGraw Hill 
 Education India Private Limited; 10 edition, 2011 
-           Back 
-  ## Page 19
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 19 
+
 Course Code: 20MBAP701 Course Title: Industry Experience- Phase I 
 L-T-P: 0-0-3 Credits: 3 Contact Hrs: 06 Hours/week 
 ISA Marks: 100 ESA Marks: -- Total Marks: 100 
@@ -694,11 +666,9 @@ employee strength, Product/services and market served, competitors)
  Environment, Health and Safety 
  Ethical Practices and Corporate Social Responsibility. 
 90Hrs 
-         Back 
-  ## Page 20
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 20 
+
 Course Code: 21MBAP701 Course Title: Entrepreneurship Phase-I 
 L-T-P: 0-0-3 Credits: 3 Contact Hrs: 06 Hours/week 
 ISA Marks: 100 ESA Marks: -- Total Marks: 100 
@@ -715,11 +685,9 @@ Analysis)
 6. Develop the resource mapping for the finalized Idea 
 7. Elevator Pitch 
 90Hrs 
-        Back 
-  ## Page 21
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 21 
+
 Course Code: 20MBAP703 Course Title: Business Communication 
 L-T-P: 0-0-1 Credits: 1 Contact Hrs: 02 Hrs/week 
 ISA Marks: 100 ESA Marks: -- Total Marks: 100 
@@ -768,11 +736,9 @@ Pearson Longman.
 Communication, 3rd edition, Thomson South-Western. 
  Raymond V. Lesikar, Basic Business Communication: Irwin/McGraw-Hill, 2099 
  Sam Phillips, 3000 Synonyms and Antonyms 1st Edition, Goodwill Publishing House 
-           Back 
-  ## Page 22
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 22 
+
 Semester II 
 Course Code: 20MBAC707 Course Title: Business Environment 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
@@ -819,11 +785,9 @@ Perspective.
  Justin Paul, Business Environment: Text and Cases, McGraw-Hill. 
  Charles W. L Hill and Arun K Jain, International Business -Competing in the Global 
 Marketplace, 6th edn, Tata McGraw Hill. 
-                                        Back 
- ## Page 23
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 23 
+
 Course Code: 20MBAC705 Course Title: Entrepreneurship Development 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -872,11 +836,9 @@ Dryden Press.
 Western. 
  David H. Holt, Entrepreneurship: New Venture Creation, Prentice Hall of India 2002. 
  Raj Shankar, Entrepreneurship Theory & Practice, Vijay Nicole Imprints Pvt Ltd. 
-          Back 
- ## Page 24
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 24 
+
 Course Code: 20MBAC710 Course Title: Financial Management 
 L-T-P: 2-1-0 Credits: 3 Contact Hrs: 04 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -917,11 +879,9 @@ Corporate Finance, 6thedn, Tata McGraw Hill.
  Aswath Damodaran, Corporate Finance - Theory and Finance, 2nd edition, Wiley India. 
  Richard A. Brearley, and Stewart C. Myers, Principles of Corporate Finance, 7thedn, Prentice 
 Hall of India. 
-        Back 
-  ## Page 25
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 25 
+
 Course Code: 20MBAC711 Course Title: Human Resource Management 
 L-T-P: 2-1-0 Credits: 3 Contact Hrs: 04 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -956,11 +916,9 @@ References:
 Biztantra, 2008. 
  Ashwatappa K, Human Resource Management, 9th edition, Tata McGraw Hill, 2021. 
  Gary Dessler and Biju Varrkey, Human Resource Management, Pearson, 16th edition 2020. 
-         Back 
-   ## Page 26
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 26 
+
 Course Code: 20MBAC712 Course Title: Operations Management 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -1004,11 +962,9 @@ References:
  Gaither N and Fraizier G, Operations Management, Thomson South-Western. 
  Monks JG, Operations Management: Theory and Problems, 3rd edition, McGraw Hill. 
  Klassen RD and Larry J. Menor LJ, Cases in operations Management, Sage. 
-           Back 
-   ## Page 27
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 27 
+
 Course Code: 20MBAC713 Course Title: Decision Modelling 
 L-T-P: 2-0-0 Credits: 2 Contact Hrs: 02 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -1051,11 +1007,9 @@ Hill Science.
 and Practice, 2nd edition, Wiley International. 
  Thomas L Saaty, Luis G Vargas, Models, Methods, Concepts & Applications of the 
 Analytic Hierarchy Process, Springer publication ,2012 
-         Back 
-  ## Page 28
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 28 
+
 Course Code: 22MBAC703 Course Title: Applied Business Research 
 L-T-P: 2-0-0 Credits: 2 Contact Hrs.: 02 Sessions/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -1100,11 +1054,9 @@ Hierarchy Process, Kluwer Academic Publishers Boston.
 Sons. 
  Sridhar Lolla, The Path Leveraging Operations in a Complex and Chaotic World, Productive 
 and Quality Publishing Private Limited 
-         Back 
-  ## Page 29
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 29 
+
 Course Code: 20MBAP704 Course Title: Managerial Communication and Aptitude 
 L-T-P: 0-0-2 Credits: 2 Contact Hrs: 04 Hours/week 
 ISA Marks: 100 ESA Marks: -- Total Marks: 100 
@@ -1157,10 +1109,9 @@ Verbal Logic
  Decoding the Codes 
   04Hrs 
 Non - Verbal Logic 02Hrs 
- ## Page 30
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 30 
+
  Non - Verbal Analogy 
  Non - Verbal Classification 
  Pattern Completion 
@@ -1175,11 +1126,9 @@ Communication, 3rd edition, Thomson South-Western.
  Raymond V. Lesikar, Basic Business Communication: Irwin/McGraw-Hill, 1999. 
  Sam Phillips, 3000 Synonyms and Antonyms 1st Edition, Goodwill Publishing House. 
  John Jackman and Wendy Wren, Nelson English Evaluation Pack - Book 5, Thomas Nelson. 
-         Back 
-  ## Page 31
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 31 
+
   Course Code: 20MBAP705 Course Title: Industry Experience -Phase II 
 L-T-P: 0-0-3 Credits: 3 Contact Hrs: 06 Hours/week 
 ISA Marks: 100 ESA Marks: -- Total Marks: 100 
@@ -1191,11 +1140,9 @@ possible solution.
 Or 
 The students have to undergo AI certification course mandatorily in the second phase. 
   90Hrs 
-         Back 
-  ## Page 32
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 32 
+
 Course Code: 21MBAP702 Course Title: Entrepreneurship Phase - II 
 L-T-P: 0-0-3 Credits: 3 Contact Hrs: 06 Hours/week 
 ISA Marks: 100 ESA Marks: -- Total Marks: 100 
@@ -1211,11 +1158,9 @@ Pre-requisite: Entrepreneurship Phase- I
  Financial 
 2. Estimate the seed capital for the incubation and prepare a proposal 
   90Hrs 
-         Back 
-  ## Page 33
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 33 
+
 2023-25 Batch 
 Course Content Semester III 
 Course Code: 20MBAC801 Course Title: Strategic Management 
@@ -1258,11 +1203,9 @@ References:
 Executing Strategy - the quest for competitive advantage, Tata McGraw Hill 
  Porter, M.E., Competitive advantage: Creating and sustaining superior performance, Simon 
 and Schuster 
-     Back 
-   ## Page 34
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 34 
+
 Course Code: 22MBAP801 Course Title: Climate Change & Sustainability 
 Management 
 L-T-P: 0-0-1 Credits: 1 Contact Hrs: 02 Hours/week 
@@ -1281,11 +1224,9 @@ minimize the climate change impact.
  Integrating climate change and development: a sectoral view covering 
 Agriculture, Water resources, Energy, Industrialization, Urbanization and Health 
 and Hygiene, Corporate Social Responsibility (CSR). 
-    Back 
-  ## Page 35
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 35 
+
 Course Code: 20MBAI801 Course Title: Summer Internship 
 L-T-P: 0-0-3 Credits: 3 Contact Hrs: 06 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -1301,11 +1242,9 @@ activities:
  Data Analysis 
  Conclusion 
   90 hrs 
-      Back 
-  ## Page 36
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 36 
+
 Course Code: 20MBAP801 Course Title: Industry Experience -Phase III 
 L-T-P: 0-0-3 Credits: 3 Contact Hrs: 06 Hours/week 
 ISA Marks: 100 ESA Marks: -- Total Marks: 100 
@@ -1316,11 +1255,9 @@ Student has to do one mandatory research project in any sector/domain.
 Note: Introduction, literature review, methodology, findings, suggestions and 
 conclusion, suggestion for future research, practical/theoretical implications. 
 90 hrs 
-      Back 
-  ## Page 37
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 37 
+
   Course Code: 21MBAP801 Course Title: Entrepreneurship Phase - III 
 L-T-P: 0-0-3 Credits: 3 Contact Hrs: 06 Hours/week 
 ISA Marks: 100 ESA Marks: -- Total Marks: 100 
@@ -1334,11 +1271,9 @@ Students are expected to work on the following activities:
 4. Assess the profit and revenue flow 
 5. Plan for enterprise registration 
 90 hrs 
-     Back 
-  ## Page 38
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 38 
+
   Course Code: 20MBAR801 Course Title: Research Experience - Phase I 
 L-T-P: 0-0-3 Credits: 3 Contact Hrs: 06 Hours/week 
 ISA Marks: 100 ESA Marks: -- Total Marks: 100 
@@ -1352,11 +1287,9 @@ Tasks
  Research design 
  Research proposal 
 90 hrs 
-      Back 
-  ## Page 39
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 39 
+
   Course Code: 22MBAP802 Course Title: Social Entrepreneurship Phase - I 
 L-T-P: 0-0-3 Credits: 3 Contact Hrs: 06 Hours/week 
 ISA Marks: 100 ESA Marks: -- Total Marks: 100 
@@ -1372,11 +1305,9 @@ entrepreneurship.
 5. Translate a social problem into an opportunity. 
 6. Prepare a report to create an implementation. 
 90 hrs 
-     Back 
-  ## Page 40
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 40 
+
 IV Semester 
 Course Code: 20MBAC804 Course Title: Legal Aspects of Business 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
@@ -1421,11 +1352,9 @@ References:
  Saha Ray H.K., Law of Contracts, Eastern Law Book House. 
  Kapoor N D, Elements of Mercantile Law, Sultan Chand. 
  Gogna, P. P. S. A Textbook of Business Law, S. Chand & Co. 
-    Back 
-  ## Page 41
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 41 
+
 Course Code: 22MBAC801 Course Title: Supply Chain Management 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -1470,11 +1399,9 @@ Pearson/PHI, 4th Edition, 2011.
  Sahay B.S., Supply Chain Management in the 21st Century. 
  Coyle J, C., John Langley, Gibson, B., Novack, R. and Bardi E. A Logistics Approach to Supply 
 Chain Management, Cengage Learning India Pvt Ltd. 
-           Back 
-  ## Page 42
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 42 
+
 Course Code: 24MBAP801 Course Title: Industry Experience -Phase IV 
 L-T-P: 0-0-3 Credits: 3 Contact Hrs: 06 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -1484,11 +1411,9 @@ Particulars Hours
 Student has to do one mandatory project work in any functional area in an organization 
 as per the mutual interest of the organization and student. 
 90 hrs 
-         Back 
-   ## Page 43
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 43 
+
 Course Code: 24MBAP802 Course Title: Entrepreneurship Phase - IV 
 L-T-P: 0-0-3 Credits: 3 Contact Hrs: 06 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -1502,11 +1427,9 @@ Particulars Hours
  Continue on enterprise registration process 
  Design the diversification strategy 
 90 hrs 
-      Back 
-  ## Page 44
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 44 
+
 Course Code: 24MBAR801 Course Title: Research Experience - Phase II 
 L-T-P: 0-0-3 Credits: 3 Contact Hrs: 06 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -1520,11 +1443,9 @@ Particulars Hours
  Findings and Discussions 
  Draft paper 
 90 hrs 
-     Back 
-  ## Page 45
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 45 
+
   Course Code: 24MBAP803 Course Title: Social Entrepreneurship Phase - II 
 L-T-P: 0-0-3 Credits: 3 Contact Hrs: 06 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -1542,11 +1463,9 @@ venture
  Compare funding options for social change venture 
  Choose to create and implement a plan to make your vision happen 
 90 hrs 
-      Back 
-  ## Page 46
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 46 
+
 ELECTIVES 
 Marketing 
 Course Code: 20MBAE801 Course Title: Sales Management 
@@ -1582,11 +1501,9 @@ References:
  Spiro, Stanton, Rich, Management of Sales force, 11, Tata McGraw Hill, 2013 
  Krishna K H., M Cavale, Sales and Distribution Management, 2, Tata McGraw Hill, 2014 
  Tapan K Panda, Sunil Sahadev, Sales Management, 2, Oxford Higher Education., 2014 
-       Back 
-  ## Page 47
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 47 
+
   Course Code: 20MBAE802 Course Title: Retail Management 
 L-T-P: 2-1-0 Credits: 3 Contact Hrs: 04 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -1628,11 +1545,9 @@ References:
  Michael Levy, Barton Weitz, Ajay Pandit, Retail Management, Tata Mc GRAW Hill 
  SwapnaPradhan, Retail Management, Tata McGraw Hill 
  Wayne L Winston, Marketing Analytics, Wiley, 2014 
-      Back 
-  ## Page 48
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 48 
+
 Course Code: 20MBAE803 Course Title: Rural Marketing 
 L-T-P: 2-1-0 Credits: 3 Contact Hrs: 04 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -1667,11 +1582,9 @@ Contemporary topics.
 References: 
  Kashyap, P., & Rant S, The Rural Marketing Book, Biztantra 
  Gopalaswamy T.P., Rural Marketing, Vikas Publishing House 
-      Back 
-  ## Page 49
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 49 
+
 Course Code: 20MBAE804 Course Title: Services Marketing 
 L-T-P: 2-1-0 Credits: 3 Contact Hrs: 04 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -1709,11 +1622,9 @@ Contemporary topics (role of technology in services marketing).
 References: 
  V. A. Zeitaml, D. D. Gremler, M. J. Bitner and Ajay Pandit, Services Marketing, TMH 
  Christopher Lovelock, Principles of Services Marketing, Pearson Education 
-      Back 
-   ## Page 50
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 50 
+
 Course Code: 24MBAE802 Course Title: Integrated Marketing Communications 
 L-T-P: 2-1-0 Credits: 3 Contact Hrs: 04 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -1754,11 +1665,9 @@ References:
  Shah, K. and D'souza, A., Advertising & Promotion, Tata Mc-Graw Hill Publication. 
  Kenneth E. Clow, Donald E. Baack, Integrated advertising promotion and Marketing 
 Communications, 3rd Edition, Pearson Publication 
-      Back 
-  ## Page 51
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 51 
+
 Course Code: 20MBAE806 Course Title: Industrial Marketing 
 L-T-P: 2-1-0 Credits: 3 Contact Hrs: 04 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -1804,11 +1713,9 @@ References:
 1. Tomaras P . (2009). Industrial Marketing. Published by the author. Athens, (ISBN: 978-960-
 90674-3-0). (in Greek) 
 2. Ralph S Alexander, Richard M Hill, Industrial Marketing, 3rd edition. 
-      Back 
-  ## Page 52
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 52 
+
 Course Code: 24MBAE803 Course Title: Product and Brand Management 
 L-T-P: 2-1-0 Credits: 3 Contact Hrs: 04 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -1841,11 +1748,9 @@ Contemporary Practices.
 Person publication 
  David Aaker, Brand Management, TMH publication 
  YLR Murthy, Brand management Indian prospective, Vikas Publications 
-      Back 
-  ## Page 53
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 53 
+
 Course Code: 24MBAE801 Course Title: Digital Marketing 
 L-T-P: 2-0-1 Credits: 3 Contact Hrs: 04 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -1885,11 +1790,9 @@ targeted and Measurable online campaigns, Wiley, 2016.
  Seema Gupta, Digital Marketing, McGraw Hill, 2017. 
  Danny Sullivan, Jennifer Grappone, Couzin Gradiva, Search engine optimization an hour a 
 day, Wiley, 3rd edition. 
-    Back 
-  ## Page 54
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 54 
+
 Finance 
 Course Code: 20MBAE811 Course Title: Security Analysis & Portfolio 
 Management 
@@ -1933,11 +1836,9 @@ Portfolio Investment & Risk. Asset Management Companies. Practical exercises.
  Alexander, Sharpe, Bailley, Fundamentals of Investment, Pearson, 
  Chndra Prasanna, Investment Analysis and Portfolio Management, 3rd Edition, TMH 
  Danesh Khatri, Security Analysis and Portfolio Management, Mc Millan Publications. 
-           Back 
- ## Page 55
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 55 
+
 Course Code: 20MBAE812 Course Title: Advanced Financial Management 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -1984,11 +1885,9 @@ Reference books:
  Keown, Martin, Petty. Scott, Financial management: principles and applications, PHI. 
  Brearly and Myers, Principle of Corporate Finance-, 10/e, TMH, 2012. 
  Ashwath Damodaran, Corporate Finance: Theory& Practice, 2/e, Wiley India Pvt. Ltd., 2009. 
-           Back 
-   ## Page 56
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 56 
+
   Course Code: 20MBAE813 Course Title: Merchant Banking & Financial Services 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -2039,10 +1938,9 @@ Hire Purchasing: Concepts and features, Hire Purchase Agreement, Comparison of
 Hire Purchase with Credit sale, Instalment sale and Leasing. Banks and Hire Purchase, 
 Reverse mortgage (Problems related to outright purchase, HP and Leasing) 
   07 hrs 
- ## Page 57
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 57 
+
 Module 5: 
 Venture Capital: Concept, features, Origin in India and the current Indian Scenario. 
 Overview, Stages of VC. 
@@ -2062,11 +1960,9 @@ References:
  Banking Theory and Practice - Shekar & Shekar, Vikas, 20/e, 2011. 
  Merchant Banking & Financial services- Vij & Dhavan, 1/e, McGraw Hill, 2011. 
  Indian Financial System - Machiraju, 4/e, Vikas, 2010. 
-         Back 
-  ## Page 58
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 58 
+
   Course Code: 20MBAE814 Course Title: International Financial Management 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -2115,11 +2011,9 @@ Pearson Education
  Prakash G Apte, International Financial Management, 5thedn, TMH 
  Sharan, International Financial Management, Prentice Hall 
  Shapiro, International Financial Management, Prentice Hall 
-           Back 
- ## Page 59
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 59 
+
 Course Code: 20MBAE815 Course Title: Mergers, Acquisition and 
 Corporate Restructuring. 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
@@ -2163,11 +2057,9 @@ Control, PHI
  Ramanujam S, Mergers: The new dimension for Corporate Restructuring, Tata McGraw-Hill 
  Kamal Ghosh Ray, Mergers and Acquisitions, PHI, 2011 
  Mergers and Acquisitions, ICFAI Publisher. 
-      Back 
-  ## Page 60
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 60 
+
   Course Code: 24MBAE816 Course Title: Derivatives & Risk Management 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -2213,11 +2105,9 @@ References:
 Module downloaded material. 
  Options and Futures & Options Markets by John C Hull, PHI Publication. 
  Financial Derivatives by S S S Kumar, PHI Learning, 2007. 
-           Back 
- ## Page 61
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 61 
+
 Course Code: 21MBAE811 Course Title: Behavioral Biases and Investment 
 L-T-P: 2-0-1 Credits: 3 Contact Hrs: 04 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -2253,11 +2143,9 @@ References:
  Sujata Kapoor and Jaya Mamata Prosad, Behavioural finance, 2019, Sage Publication. 
  Kadir C Yalcin, Behavioural finance, 2012, LAP Lambert Academic Publishing 
  Value investing and behavioral finance, Parag Parikh, McGraw Hill Education India 
-      Back 
-  ## Page 62
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 62 
+
 Course Code: 22MBAE811 Course Title: Behavioural Finance 
 L-T-P: 2-0-1 Credits: 3 Contact Hrs: 04 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -2290,11 +2178,9 @@ behavioral finance, and way forward.
 08 hrs 
 References: 
  Sujata Kapoor and Jaya Mamata Prosad, Behavioural finance, 2019, Sage Publication. 
-           Back 
- ## Page 63
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 63 
+
 Human Resource 
    Course Code: 20MBAE821 Course Title: Learning and Development 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
@@ -2337,11 +2223,9 @@ Ltd, New Delhi.
  Rao T.V, Performance Appraisal - Theory and Practice. 
  Jack J. Phillips, Butterworth-Heinemann Return on Investment in Training and 
 Performance Improvement Programs, 2nd Edition. 
-      Back 
-  ## Page 64
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 64 
+
 Course Code: 20MBAE822 Course Title: Legal Aspects of Employment 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -2378,11 +2262,9 @@ References:
  Srivastava. S. C, Labour Law in Factories, Mines, Plantationsetc, Printice Hall. 
  Mishra S.N, Labour and Industrial Laws, Central Law Publications, Allahabad. 
  Taxman's Labour new Labour and Industrial Laws with draft rules, 2023 
-           Back 
- ## Page 65
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 65 
+
 Course Code: 24MBAE823 Course Title: HR Operations 
 L-T-P: 2-1-0 Credits: 3 Contact Hrs: 04 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -2423,11 +2305,9 @@ References:
 Applications, and Future Directions, SAGE Publications 
  Piyali Ghosh, Shefali Nandan, Industrial Relations and Labour Laws, McGraw Hill Education 
 (India) Private Ltd. 
-      Back 
-  ## Page 66
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 66 
+
   Course Code: 20MBAE824 Course Title: Emerging Trends in HR Practices 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -2466,11 +2346,9 @@ Learning, South Western Publications
 Wiley India Pvt. Ltd 
  Pratyush Banerjee, Jatin Pandey and Manish Gupta, Practical Applications of HR Analytics, 
 2019, SAGE Publications India Pvt. Ltd. 
-        Back 
-  ## Page 67
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 67 
+
 Course Code: 20MBAE825 Course Title: Talent & Competency Management 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -2508,11 +2386,9 @@ HR in knowledge era : HR in knowledge industry, HR in virtual organizations, HR 
 mergers and acquisitions, outplacement, outsourcing HR functions, employee leasing, 
 HR audit. 
                                                                                                                                                               08 hrs 
-  Back 
- ## Page 68
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 68 
+
 Course Code: 20MBAE826 Course Title: Team Development and Leadership 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -2559,11 +2435,9 @@ planning.
  Gary Yukl, Leadership in Organizations (Pearson Education - LPE) for Leadership, 6/e. 
  Fred Luthons, Organizational Behavior, 10th edition, McGraw-Hill. 
  Stephen Robbins, Organizational Behavior, 11th edition, Prentice Hall of India. 
-           Back 
- ## Page 69
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 69 
+
 Course Code: 22MBAE821 Course Title: HR Analytics 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -2607,10 +2481,9 @@ HR Dashboards: Statistical software used for HR analytics: MS -Excel, IBM - SPSS
 IBMAMOS, SAS, and R programming and data visualisation tools such as Tableau, Ploty, 
 Click view and Fusion Charts. 
 08 hrs 
- ## Page 70
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 70 
+
 References: 
  Moore, McCabe, Duckworth, and Alwan. The Practice of Business Statistics: Using Data 
 for Decisions, Second Edition, New York: W.H.Freeman, 2008. 
@@ -2619,11 +2492,9 @@ for Decisions, Second Edition, New York: W.H.Freeman, 2008.
  The HR Scorecard: Linking People, Strategy, and Performance, by Brian E. Becker, Mark 
 A. Huselid, Mark A Huselid, David Ulrich, 2001. 
  HR Analytics: The What, Why and How, by Tracey Smith 
-    Back 
-  ## Page 71
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 71 
+
 Course Code: 24MBAE821 Course Title: Emotional Intelligence in Practice 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -2669,11 +2540,9 @@ References
 Bantam, 2006 
  Ciarrochi, J., Forgas, J. P ., & Mayer, J. D., Emotional Intelligence in Everyday Life (2nd 
 Edition). New York Psychology Press, Inc, 2006 
-          Back 
-  ## Page 72
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 72 
+
 Course Code: 24MBAE822 Course Title: Organizational Change and Development 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -2719,11 +2588,9 @@ Cengage 2014
 Oriented Toolkit Sage 2011 
  P. G. Aquinas Organization Structure and Design: Applications and Challenges Excel 
 2008 
-           Back 
-  ## Page 73
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 73 
+
 Operations 
 Course Code: 24MBAE831 Course Title: Total Quality Management 
 L-T-P: 2-1-0 Credits: 3 Contact Hrs: 04 Hours/week 
@@ -2765,11 +2632,9 @@ Pearson/PHI, 4th Edition, 2011
  Sahay BS, Supply Chain Management in the 21st Century 
  Coyle J, C John Langley, Gibson B, Novack R and Bardi E. A Logistics Approach to Supply 
 Chain Management, Cengage Learning India Pvt Ltd 
-          Back 
-  ## Page 74
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 74 
+
 Course Code: 20MBAE832 Course Title: Service Operations Management 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -2806,11 +2671,9 @@ Pearson.
  Schemenner R, Service Operations Management, Prentice Hall 
  Hill, AV, Field Service Management: An Integrated Approach to Increasing Customer 
 Satisfaction, Business One Irwin/ APICS 
-         Back 
-  ## Page 75
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 75 
+
 Course Code: 20MBAE833 Course Title: Project Management 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -2845,10 +2708,9 @@ Introduction to Project Management Software.
  Gido I Clements, Project Management Cengage Learning 
  The Managerial Process, Project Management- by Clifford Gray and Erik Larson TMH, 3rd 
 Edition Back 
-   ## Page 76
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 76 
+
 Course Code: 20MBAE834 Course Title: Inventory Management 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -2887,11 +2749,9 @@ References
  Buffa and Sarin, Operations Management 
  Max Muller, Essentials of Inventory Management 
  Narasimhan Sitaraman and McLeavey Dennis, Production Planning and Inventory Control 
-         Back 
-  ## Page 77
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 77 
+
 Course Code: 20MBAE835 Course Title: Logistics & Warehouse Management 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -2929,11 +2789,9 @@ References
 ConceptsLaxmi Publications (2015) 
  Christopher, M; Richard Irwin Logistics and Supply Chain Management 
  Chopra and Mendal, Supply Chain Management 
-        Back 
-  ## Page 78
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 78 
+
 Business Analytics 
   Course Code: 24MBAE841 Course Title: Data Science for Business 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
@@ -2962,7 +2820,6 @@ clustering and neural networks), Prescriptive Analytics (linear program ming, in
 programming, multi-criteria decision -making models such as goal programming and 
 analytic hierarchy process), analytics using orange, SPSS and MS Excel. 
 10 hrs 
-  Back 
 Module 4: 
 Introduction to Association Rule, Data Mining and Preprocessing 
 Data mining - definition and functionalities, KDD Process, Data Cleaning: - Missing 
@@ -2982,10 +2839,9 @@ References:
  Essentials of Business Analytics: An Introduction to the methodology and its application, 
 Bhimasankaram Pochiraju, Sridhar Seshadri, Springer. 
  Introduction to Data Science, Laura Igual Santi Seguí, Springer. 
-  ## Page 79
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 79 
+
   Course Code: 24MBAE842 Course Title: Using R for Analytics 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -3030,11 +2886,9 @@ References:
  R for Data Science by Hadley Wickham, Garrett Grolemund , Publisher O'Reilly Media, Inc. 
 2016 
  R for Dummies" by Joris Meys and Andrie de Vries. , 2nd edition, Wiley publication. 
-           Back 
-  ## Page 80
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 80 
+
 Course Code: 24MBAE843 Course Title: Introduction to Python 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -3072,11 +2926,9 @@ References:
  Python: The Complete Reference, by Martin Brown, McGraw Hill Education; Forth edition, 
 2018. 
  Python for Data Analysis" by Wes McKinney 
-           Back 
-  ## Page 81
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 81 
+
 Course Code: 24MBAE844 Course Title: Data Visualization using Power BI 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -3123,11 +2975,9 @@ Nussbaumer Knaflic: Focuses on the art of storytelling through data visualizatio
 visualization principles. 
  "Data Points: Visualization That Means Something" by Nathan Yau: Explores the principles 
 of meaningful data visualization. 
-           Back 
-  ## Page 82
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 82 
+
 Course Code: 24MBAE845 Course Title: DBMS for Managers 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Hours/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -3174,11 +3024,9 @@ References:
 Wiley, Latest Edition 
  Ramez Elmasri ,Shamkant B.Navathe, Fundamentals of Database systems:, Pearson 
 Publications ,2019 
-           Back 
-  ## Page 83
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
- 83 
+
 Course Code: 24MBAE846 Course Title: Exploratory Data Analysis 
 L-T-P: 2-1-0 Credits: 3 Contact Hrs: 04 Sessions/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -3217,6 +3065,4 @@ References:
  John W. Tukey "Exploratory Data Analysis", 1st Edition, Pearson ,1977 
  S.C. Gupta, Fundamentals of Statistics, Himalaya Publishing House, 7th Edition, 2018. 
  Max Kuhn and Kjell Johnson, Applied Predictive Modeling, Springer Publishers, 2nd 
-Edition, 2018. 
-           Back 
- 
+Edition, 2018.

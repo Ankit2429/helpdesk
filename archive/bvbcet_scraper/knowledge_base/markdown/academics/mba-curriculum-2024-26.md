@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: mba-curriculum-2024-26"
+title: "Mba Curriculum 2024 26"
 category: "academics"
 subcategory: ""
 document_type: "syllabus"
@@ -11,16 +11,15 @@ language: "en"
 keywords: ["course", "curriculum", "document", "hours", "management", "marks", "mba", "module"]
 aliases: ["HOD", "Head of Department", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "111"
 ---
-# PDF Document: mba-curriculum-2024-26
- **PDF Source:** https://www.kletech.ac.in/pdf/mba-curriculum-2024-26.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/mba-curriculum-2024-26.pdf
  Format No: FMCD2009 /1.0 1 
   School of Management Studies and Research 
   Curriculum and Syllabus 
 (2024-2026) 
 MBA- Master of Business Administration 
-  ## Page 2
  Format No: FMCD2009 /1.0 2 
   INDEX 
 Sr. No. Content Page No 
@@ -30,7 +29,6 @@ Sr. No. Content Page No
 4 Curriculum Structure-Overall 6 
 5 Curriculum Structure - Semester-wise 7 
 6 Curriculum Content- Course-wise 12 
-  ## Page 3
  Format No: FMCD2009 /1.0 3 
   Title: Vision and Mission Statements of the KLE Technological University 
   Vision 
@@ -53,8 +51,6 @@ contributing ou r expertise, experience and leadership, to enhance
 competitiveness and quality of life. 
   As a unified community of faculty, staff and students, we work together with the 
 spirit of collaboration and partnership to accomplish our mission. 
-               Back 
-  ## Page 4
  Format No: FMCD2009 /1.0 4 
   Title: Vision and Mission Statements of the Department/School 
   Vision: 
@@ -68,8 +64,6 @@ preparing students for success in their lives and professional careers.
 world management challenges and shapes professionals 
   M3: To engage with industry and community stakeholders by contributing to 
 the region's socio-economic development. 
-             Back 
- ## Page 5
  Format No: FMCD2009 /1.0 5 
 Title: Consolidated View of Program Educational Objectives (PEOs) /Program Outcomes (POs) and Program-Specific Objectives (PSOs) 
    Program Educational Objectives (PEOs) Program Outcomes (POs) 
@@ -102,8 +96,6 @@ organizational goals, contributing effectively to a team
 environment. 
  PSO1: Ability to analyse, synthesize and solve organizational and 
 societal issues. 
-                 Back 
-  ## Page 6
  Format No: FMCD2009 /1.0 6 
 Title: Curriculum Structure -Overall 
   Semester Total Program Credits: 88 
@@ -172,7 +164,6 @@ Social Entrepreneurship Phase- II
 Social Entrepreneurship Phase- I 
 (25MBAP804) 
 Credits 22 23 22 21 
- ## Page 7
  Format No: FMCD2009 /1.0 7 
 Title: Curriculum Structure- Semester-wise 
 Curriculum Structure for the year 2024-26 batch 
@@ -201,7 +192,6 @@ Hours ISA ESA Total
  21MBAP701 Entrepreneurship Phase I 
 8 20MBAP703 Business Communication 0 0 1 100 -- 100 1 - 
 TOTAL 16 1 5 22 
- ## Page 8
  Format No: FMCD2009 /1.0 8 
   FORM 
 ISO 21001:2018 
@@ -227,7 +217,6 @@ ISA ESA Total
 8 24MBAP702 Managerial Communication and Aptitude 0 0 2 80 20 100 2 2 hours 
 9 24MBAP703 Industry Experience- Phase II 0 0 3 50 50 100 3 3 hours 25MBAP702 Entrepreneurship Phase - II 0 
 TOTAL 15 2 6 23 
- ## Page 9
  Format No: FMCD2009 /1.0 9 
   FORM 
 ISO 21001:2018 
@@ -255,7 +244,6 @@ Hours ISA ESA Total
 25MBAR801 Research Experience Phase- I 
 25MBAP804 Social Entrepreneurship Phase- I 
 TOTAL 15 0 7 22 
- ## Page 10
  Format No: FMCD2009 /1.0 10 
   FORM 
 ISO 21001:2018 
@@ -285,7 +273,6 @@ Hours ISA ESA Total
 24MBAR801 Research Experience Phase- II 
 24MBAP803 Social Entrepreneurship Phase- II 
 TOTAL 18 0 3 21 
- ## Page 11
  Format No: FMCD2009 /1.0 11 
   Electives I, II, III, IV 
 Marketing 
@@ -371,8 +358,6 @@ Using Power Bi
 Managers 
  Perspective 
 Analytics 
-                   Back 
-  ## Page 12
  Format No: FMCD2009 /1.0 12 
   FORM 
 ISO 21001:2018 
@@ -418,7 +403,6 @@ Behaviour in working environment: Leadership, contemporary issues in leadership,
 to Groups & Teams, Basics of power and politics, Organizational culture, Organizational change, 
 diversity in workplace. Digital Workplace- role and Perspectives. Lean & Green Workspace. 
 Reduced Inequalities, Ethical Challenges.08 hrs 
- ## Page 13
  Format No: FMCD2009 /1.0 13 
 References 
  Jones Gareth R, George Jennifer M, Contemporary Management, TMH, 5th Edition, 2009 
@@ -439,8 +423,6 @@ All Questions Compulsory
 III 
 IV 
 V 
-       Back 
-   ## Page 14
  Format No: FMCD2009 /1.0 14 
    Program: MBA 
 Course Title: Managerial Economics Course Code: 20MBAC702 
@@ -492,8 +474,6 @@ All Questions Compulsory
 III 
 IV 
 V 
-Back 
- ## Page 15
  Format No: FMCD2009 /1.0 15 
 Program: MBA 
 Course Title: Accounting for Managers Course Code: 20MBAC703 
@@ -546,8 +526,6 @@ All Questions Compulsory II
 III 
 IV 
 V 
-Back 
- ## Page 16
  Format No: FMCD2009 /1.0 16 
 Program: MBA 
 Course Title: Business Research Methods Course Code: 22MBAC701 
@@ -590,7 +568,6 @@ and regression. On-parametric test - Chi-square, Discriminant Analysis, Multi-di
 SEM, Report writing and ethics of research: Layout of the report, report writing and presentation, 
 Plagiarism, ethical issues. 
 09Hrs 
- ## Page 17
  Format No: FMCD2009 /1.0 17 
 References: 
  Cooper and Schlinder, Business Research Methods, 9th edition, 2011 TMH 
@@ -616,8 +593,6 @@ All Questions Compulsory II
 III 
 IV 
 V 
-  Back 
-  ## Page 18
  Format No: FMCD2009 /1.0 18 
 Program: MBA 
 Course Title: Marketing Management Course Code: 24MBAC702 
@@ -661,8 +636,6 @@ I
 All Questions Compulsory II 
 III 
 IV 
-Back 
-  ## Page 19
  Format No: FMCD2009 /1.0 19 
 Program: MBA 
 Course Title: Business Statistics and 
@@ -714,8 +687,6 @@ I
 All Questions Compulsory II 
 III 
 IV 
-Back 
- ## Page 20
  Format No: FMCD2009 /1.0 20 
 Program: MBA 
 Course Title: Industry Experience- Phase I Course Code: 20MBAP701 
@@ -741,8 +712,6 @@ strength, Product/services and market served, competitors)
  Environment, Health and Safety 
  Ethical Practices and Corporate Social Responsibility. 
 90Hrs 
-          Back 
-  ## Page 21
  Format No: FMCD2009 /1.0 21 
 Program: MBA 
 Course Title: Business Communication Course Code: 20MBAP703 
@@ -792,8 +761,6 @@ Longman.
 3rd edition, Thomson South-Western. 
  Raymond V. Lesikar, Basic Business Communication: Irwin/McGraw-Hill, 
  Sam Phillips, 3000 Synonyms and Antonyms 1st Edition, Goodwill Publishing House 
-    Back 
- ## Page 22
  Format No: FMCD2009 /1.0 22 
 Semester II 
 Program: MBA 
@@ -842,7 +809,6 @@ II
 III 
 IV 
  V Back 
- ## Page 23
  Format No: FMCD2009 /1.0 23 
 Program: MBA 
 Course Title: Entrepreneurship 
@@ -895,7 +861,6 @@ Dryden Press.
 Western. 
  David H. Holt, Entrepreneurship: New Venture Creation, Prentice Hall of India 2002. 
  Raj Shankar, Entrepreneurship Theory & Practice, Vijay Nicole Imprints Pvt Ltd. 
-            ## Page 24
  Format No: FMCD2009 /1.0 24 
 Scheme for Semester End Examination (ESA) 
 UNIT 5 Questions 
@@ -910,8 +875,6 @@ II
 III 
 IV 
  V 
-      Back 
-   ## Page 25
  Format No: FMCD2009 /1.0 25 
 Program: MBA 
 Course Title: Financial Management Course Code: 24MBAC703 
@@ -960,8 +923,6 @@ I All Questions Compulsory
 II 
 III 
 IV 
-  Back 
-  ## Page 26
  Format No: FMCD2009 /1.0 26 
 Program: MBA 
 Course Title: Human Resource Management Course Code: 24MBAC704 
@@ -1012,8 +973,6 @@ I All Questions Compulsory
 II 
 III 
 IV 
-Back 
- ## Page 27
  Format No: FMCD2009 /1.0 27 
 Program: MBA 
 Course Title: Operations Management Course Code: 20MBAC712 
@@ -1046,7 +1005,6 @@ frame work for aggregate production planning, alternatives for managing demand a
 strategies for aggregate production planning, Master Production Schedule. Resources planning: 
 dependent demand attributes, framework, Materials Requirement Planning (MRP). 
  09Hrs 
- ## Page 28
  Format No: FMCD2009 /1.0 28 
 Module 5: 
 Scheduling of operations: 
@@ -1077,8 +1035,6 @@ II
 III 
 IV 
 V 
-   Back 
-   ## Page 29
  Format No: FMCD2009 /1.0 29 
 Program: MBA 
 Course Title: Decision Modelling Course Code: 24MBAC705 
@@ -1117,9 +1073,7 @@ Hill Science.
 and Practice, 2nd edition, Wiley International. 
 Thomas L Saaty, Luis G Vargas, Models, Methods, Concepts & Applications of the Analytic 
 Hierarchy Process, Springer publication , 2012 
-   Back 
   Program: MBA 
- ## Page 30
  Format No: FMCD2009 /1.0 30 
 Course Title: Digital Marketing for Rural 
 Business 
@@ -1167,7 +1121,6 @@ schedule, and launch dates for different campaign elements.
 content formats (images, videos, stories), and appropriate hashtags. 
  Influencer Marketing (Optional): If implementing influencer marketing, outline the 
 selection criteria for influencers, collaboration details, and content expectations. 
- ## Page 31
  Format No: FMCD2009 /1.0 31 
 Website & E-commerce Integration (Optional): If selling products online, ensure website 
 optimization for rural audiences and consider integrating an e-commerce platform.8Hrs 
@@ -1178,8 +1131,6 @@ lessons learned.
  Present specific recommendations for future marketing initiatives to further promote the 
 chosen rural products. 
 3Hrs 
-          Back 
-  ## Page 32
  Format No: FMCD2009 /1.0 32 
 Program: MBA 
 Course Title: Managerial 
@@ -1232,7 +1183,6 @@ Analytical Thinking
 Verbal Logic 
  Verbal Analogy 
  Verbal Classification 
- ## Page 33
  Format No: FMCD2009 /1.0 33 
  Letter and Number Series 
  Decoding the Codes 
@@ -1253,8 +1203,6 @@ Communication, 3rd edition, Thomson South-Western.
  Raymond V. Lesikar, Basic Business Communication: Irwin/McGraw-Hill, 1999. 
  Sam Phillips, 3000 Synonyms and Antonyms 1st Edition, Goodwill Publishing House. 
  John Jackman and Wendy Wren, Nelson English Evaluation Pack - Book 5, Thomas Nelson. 
-Back 
-  ## Page 34
  Format No: FMCD2009 /1.0 34 
   Program: MBA 
 Course Title: Industry Experience -Phase II Course Code: 24MBAP703 
@@ -1267,8 +1215,6 @@ Identify the problems and prospects faced by start-ups, mini or micro enterprise
 solution. 
 Or 
 The students have to undergo AI certification course mandatorily in the second phase.90Hrs 
-           Back 
-  ## Page 35
  Format No: FMCD2009 /1.0 35 
 Program: MBA 
 Course Title: Business Venture Phase - I Course Code: 25MBAP702 
@@ -1291,8 +1237,6 @@ Students are expected to work on the following points:
  Financial 
 8. Funding raising& Resource Mobilization Plan 
 90Hrs 
-         Back 
-  ## Page 36
  Format No: FMCD2009 /1.0 36 
 2024-26 Batch 
 Course Content Semester III 
@@ -1335,7 +1279,6 @@ References:
 Executing Strategy - the quest for competitive advantage, Tata McGraw Hill 
  Porter, M.E., Competitive advantage: Creating and sustaining superior performance, Simon 
 and Schuster 
- ## Page 37
  Format No: FMCD2009 /1.0 37 
   Scheme for Semester End Examination (ESA) 
 UNIT 
@@ -1349,8 +1292,6 @@ All Questions Compulsory II
 III 
 IV 
 V 
-   Back 
-   ## Page 38
  Format No: FMCD2009 /1.0 38 
 Program: MBA 
 Course Title: Climate Change & 
@@ -1372,8 +1313,6 @@ minimize the climate change impact.
  Integrating climate change and development: a sectoral view covering 
 Agriculture, Water resources, Energy, Industrialization, Urbanization and Health 
 and Hygiene, Corporate Social Responsibility (CSR). 
-    Back 
-  ## Page 39
  Format No: FMCD2009 /1.0 39 
 Program: MBA 
 Course Title: Summer Internship Course Code: 25MBAI801 
@@ -1391,8 +1330,6 @@ activities:
  Data Analysis 
  Conclusion 
 90 hrs 
-      Back 
-  ## Page 40
  Format No: FMCD2009 /1.0 40 
 Program: MBA 
 Course Title: Industry Experience -Phase III Course Code: 25MBAP802 
@@ -1407,8 +1344,6 @@ Student has to do one mandatory research project in any sector/domain.
 Note: Introduction, literature review, methodology, findings, suggestions and conclusion, 
 suggestion for future research, practical/theoretical implications. 
 90 hrs 
-      Back 
-  ## Page 41
  Format No: FMCD2009 /1.0 41 
   Program: MBA 
 Course Title: Entrepreneurship Phase - III Course Code: 25MBAP803 
@@ -1424,8 +1359,6 @@ Students are expected to work on the following activities:
 4. Assess the profit and revenue flow 
 5. Plan for enterprise registration 
 90 hrs 
-       Back 
-  ## Page 42
  Format No: FMCD2009 /1.0 42 
 Program: MBA 
 Course Title: Research Experience - Phase I Course Code: 25MBAR801 
@@ -1443,8 +1376,6 @@ Tasks
  Research design 
  Research proposal 
 90 hrs 
-      Back 
-  ## Page 43
  Format No: FMCD2009 /1.0 43 
   Program: MBA 
 Course Title: Social Entrepreneurship 
@@ -1464,8 +1395,6 @@ entrepreneurship.
 5. Translate a social problem into an opportunity. 
 6. Prepare a report to create an implementation. 
 90 hrs 
-     Back 
-  ## Page 44
  Format No: FMCD2009 /1.0 44 
 IV Semester 
 Program: MBA 
@@ -1505,7 +1434,6 @@ procedures for disposal of complaints, penalty. Right to Information Act, Inform
 Act, Introduction to Environment Protection Act, Introduction to Competition Act, Introduction to 
 Foreign Exchange Management Act 1999, Introduction to Intellectual Property Rights. 
 08 hrs 
- ## Page 45
  Format No: FMCD2009 /1.0 45 
 References: 
  Saha Ray H.K., Law of Contracts, Eastern Law Book House. 
@@ -1523,8 +1451,6 @@ All Questions Compulsory II
 III 
 IV 
 V 
-  Back 
-   ## Page 46
  Format No: FMCD2009 /1.0 46 
   Program: MBA 
 Course Title: Supply Chain Management Course Code: 22MBAC801 
@@ -1562,7 +1488,6 @@ Innovation, customer relationship management, supplier relationship management, 
 IT in practice, Green SCM: Introduction, Need, Challenges and Benefits. Reverse supply chain 
 management, Supply chain risk management. 
 08 hrs 
- ## Page 47
  Format No: FMCD2009 /1.0 47 
 References: 
  Chopra, S. and Meindl P, Supply Chain Management - Strategy, Planning and Operation, 
@@ -1582,8 +1507,6 @@ All Questions Compulsory II
 III 
 IV 
 V 
-  Back 
-   ## Page 48
  Format No: FMCD2009 /1.0 48 
   Program: MBA 
 Course Title: Industry Experience -Phase IV Course Code: 24MBAP801 
@@ -1597,7 +1520,6 @@ Particulars Hours
 Student has to do one mandatory project work in any functional area in an organization 
 as per the mutual interest of the organization and student. 
 90 hrs 
-         Back 
   Program: MBA 
 Course Title: Entrepreneurship Phase - IV Course Code: 24MBAP802 
 L-T-P: 0-0-3 Credits: 3 Contact Hrs: 06 Hours/week 
@@ -1614,8 +1536,6 @@ Particulars Hours
  Continue on enterprise registration process 
  Design the diversification strategy 
 90 hrs 
-      Back 
-  ## Page 49
  Format No: FMCD2009 /1.0 49 
 Program: MBA 
 Course Title: Research Experience - 
@@ -1633,8 +1553,6 @@ Particulars Hours
  Findings and Discussions 
  Draft paper 
 90 hrs 
-     Back 
-  ## Page 50
  Format No: FMCD2009 /1.0 50 
   Program: MBA 
 Course Title: Social Entrepreneurship 
@@ -1654,8 +1572,6 @@ developing, testing, launching and evaluating social change venture.
  Compare funding options for social change venture 
  Choose to create and implement a plan to make your vision happen 
 90 hrs 
-      Back 
-  ## Page 51
  Format No: FMCD2009 /1.0 51 
 ELECTIVES 
 Marketing 
@@ -1693,7 +1609,6 @@ References:
  Spiro, Stanton, Rich, Management of Sales force, 11, Tata McGraw Hill, 2013 
  Krishna K H., M Cavale, Sales and Distribution Management, 2, Tata McGraw Hill, 2014 
  Tapan K Panda, Sunil Sahadev, Sales Management, 2, Oxford Higher Education., 2014 
- ## Page 52
  Format No: FMCD2009 /1.0 52 
   Scheme for Semester End Examination (ESA) 
   UNIT 
@@ -1706,8 +1621,6 @@ I
 All Questions Compulsory II 
 III 
 IV 
-  Back 
-  ## Page 53
  Format No: FMCD2009 /1.0 53 
 Program: MBA 
 Course Title: Retail Management Course Code: 25MBAE802 
@@ -1748,7 +1661,6 @@ References:
  Michael Levy, Barton Weitz, Ajay Pandit, Retail Management, Tata Mc GRAW Hill 
  SwapnaPradhan, Retail Management, Tata McGraw Hill 
  Wayne L Winston, Marketing Analytics, Wiley, 2014 
- ## Page 54
  Format No: FMCD2009 /1.0 54 
      Scheme for Semester End Examination (ESA) 
   UNIT 
@@ -1761,8 +1673,6 @@ I
 All Questions Compulsory II 
 III 
 IV 
-  Back 
-   ## Page 55
  Format No: FMCD2009 /1.0 55 
 Program: MBA 
 Course Title: Rural Marketing Course Code: 25MBAE803 
@@ -1810,10 +1720,7 @@ I
 All Questions Compulsory II 
 III 
 IV 
- ## Page 56
  Format No: FMCD2009 /1.0 56 
-     Back 
-  ## Page 57
  Format No: FMCD2009 /1.0 57 
 Program: MBA 
 Course Title: Services Marketing Course Code: 25MBAE804 
@@ -1859,11 +1766,9 @@ Module numbers Instructions
   UNIT I 
 I 
 All Questions Compulsory 
-Back 
   II 
 III 
 IV 
- ## Page 58
  Format No: FMCD2009 /1.0 58 
 Program: MBA 
 Course Title: Integrated Marketing 
@@ -1901,7 +1806,6 @@ Contemporary topics: Social and ethical aspects of promotional tools, Introducti
 as a business tool: use of face book, YouTube, twitter and LinkedIn as modern tools for business 
 operations and communications. 
 04 hrs 
- ## Page 59
  Format No: FMCD2009 /1.0 59 
 References: 
  Belch, M.A., and Belch, G.E., Advertising and Promotion, Tata Mc-Graw Hill Publication 
@@ -1917,7 +1821,6 @@ Module numbers Instructions
   UNIT I 
 I 
 All Questions Compulsory 
-Back 
   II 
 III 
 IV 
@@ -1929,7 +1832,6 @@ Teaching Hrs: 28hrs Exam Duration: 2 hrs
 Course Content 
 Particulars 
 Module1: 
- ## Page 60
  Format No: FMCD2009 /1.0 60 
 Basic concept of Industrial Marketing: Industrial Marketing, consumer and industrial products, 
 consumer and industrial marketing, differences of consumer and industrial marketing. 
@@ -1965,7 +1867,6 @@ References:
 1. Tomaras P . (2009). Industrial Marketing. Published by the author. Athens, (ISBN: 978-960-
 90674-3-0). (in Greek) 
 2. Ralph S Alexander, Richard M Hill, Industrial Marketing, 3rd edition. 
-    ## Page 61
  Format No: FMCD2009 /1.0 61 
   Scheme for Semester End Examination (ESA) 
   UNIT 
@@ -1978,8 +1879,6 @@ I
 All Questions Compulsory II 
 III 
 IV 
-     Back 
-  ## Page 62
  Format No: FMCD2009 /1.0 62 
 Program: MBA 
 Course Title: Product and Brand 
@@ -2018,7 +1917,6 @@ References:
 Person publication 
  David Aaker, Brand Management, TMH publication 
  YLR Murthy, Brand management Indian prospective, Vikas Publications 
-   ## Page 63
  Format No: FMCD2009 /1.0 63 
 Scheme for Semester End Examination (ESA) 
   UNIT 
@@ -2031,8 +1929,6 @@ I
 All Questions Compulsory II 
 III 
 IV 
-     Back 
-  ## Page 64
  Format No: FMCD2009 /1.0 64 
 Program: MBA 
 Course Title: Digital Marketing Course Code: 24MBAE801 
@@ -2081,8 +1977,6 @@ I
 All Questions Compulsory II 
 III 
 IV 
-      Back 
-  ## Page 65
  Format No: FMCD2009 /1.0 65 
 Finance 
 Program: MBA 
@@ -2129,7 +2023,6 @@ Publication.
  Alexander, Sharpe, Bailley, Fundamentals of Investment, Pearson, 
  Chndra Prasanna, Investment Analysis and Portfolio Management, 3rd Edition, TMH 
  Danesh Khatri, Security Analysis and Portfolio Management, Mc Millan Publications. 
- ## Page 66
  Format No: FMCD2009 /1.0 66 
              Scheme for Semester End Examination (ESA) 
   UNIT 
@@ -2142,8 +2035,6 @@ I
 All Questions Compulsory II 
 III 
 IV 
-   Back 
-   ## Page 67
  Format No: FMCD2009 /1.0 67 
 Program: MBA 
 Course Title: Advanced Financial 
@@ -2187,7 +2078,6 @@ Walter's & Gordon 's model, Modigliani & Miller approach. Dividend policies -sta
 stable payout and growth, Bonus shares and stock split corporate dividend behavior. Legal & 
 procedural aspects of dividends Corporate Dividend Tax. 
 06 hrs 
- ## Page 68
  Format No: FMCD2009 /1.0 68 
 Reference books: 
  M.Y. Khan & P.K. Jain, Financial Management, 6/e, TMH, 2011. 
@@ -2210,8 +2100,6 @@ All Questions Compulsory II
 III 
 IV 
 V 
-  Back 
-  ## Page 69
  Format No: FMCD2009 /1.0 69 
 Program: MBA 
 Course Title: Merchant Banking & 
@@ -2262,7 +2150,6 @@ Hire Purchasing: Concepts and features, Hire Purchase Agreement, Comparison of H
 with Credit sale, Instalment sale and Leasing. Banks and Hire Purchase, Reverse mortgage 
 (Problems related to outright purchase, HP and Leasing) 
 07 hrs 
- ## Page 70
  Format No: FMCD2009 /1.0 70 
   Module 5: 
 Venture Capital: Concept, features, Origin in India and the current Indian Scenario. Overview, 
@@ -2295,8 +2182,6 @@ All Questions Compulsory II
 III 
 IV 
 V 
-  Back 
-  ## Page 71
  Format No: FMCD2009 /1.0 71 
 Program: MBA 
 Course Title: International Financial 
@@ -2339,7 +2224,6 @@ References:
  Prakash G Apte, International Financial Management, 5thedn, TMH 
  Resnick, B. G., & Eun, C. S, International Financial Management. 7thEdn, 2014, McGraw 
 Hill International. 
- ## Page 72
  Format No: FMCD2009 /1.0 72 
              Scheme for Semester End Examination (ESA) 
   UNIT 
@@ -2352,8 +2236,6 @@ I
 All Questions Compulsory II 
 III 
 IV 
-  Back 
-   ## Page 73
  Format No: FMCD2009 /1.0 73 
   Program: MBA 
 Course Title: Mergers, Acquisition and 
@@ -2400,7 +2282,6 @@ Control, PHI
  Ramanujam S, Mergers: The new dimension for Corporate Restructuring, Tata McGraw-Hill 
  Kamal Ghosh Ray, Mergers and Acquisitions, PHI, 2011 
  Mergers and Acquisitions, ICFAI Publisher. 
- ## Page 74
  Format No: FMCD2009 /1.0 74 
    Scheme for Semester End Examination (ESA) 
   UNIT 
@@ -2414,8 +2295,6 @@ All Questions Compulsory II
 III 
 IV 
 V 
-  Back 
-  ## Page 75
  Format No: FMCD2009 /1.0 75 
 Program: MBA 
 Course Title: Derivatives &Risk 
@@ -2461,7 +2340,6 @@ References:
  Derivatives & Risk Management by Rajiv Srivastava, Oxford Publication. 
  Derivatives & Risk Management by Dhanesh Kumar Kharti, Mcmillan Publication. 
  Commodity Derivatives by Indian Institute of Banking & Finance. 
- ## Page 76
  Format No: FMCD2009 /1.0 76 
  NCFM Derivatives Market, Options Strategies, Currency, Interest Rate & Commodities 
 Market Module downloaded material. 
@@ -2479,8 +2357,6 @@ All Questions Compulsory II
 III 
 IV 
 V 
-  Back 
-   ## Page 77
  Format No: FMCD2009 /1.0 77 
   Program: MBA 
 Course Title: Behavioral Biases and 
@@ -2530,8 +2406,6 @@ All Questions Compulsory II
 III 
 IV 
 V 
-Back 
-  ## Page 78
  Format No: FMCD2009 /1.0 78 
   Program: MBA 
 Course Title: Behavioural Finance Course Code: 22MBAE811 
@@ -2576,8 +2450,6 @@ I
 All Questions Compulsory II 
 III 
 IV 
-  Back 
- ## Page 79
  Format No: FMCD2009 /1.0 79 
 Human Resource 
 Course Title: Learning and Development Course Code: 20MBAE821 
@@ -2626,8 +2498,6 @@ All Questions Compulsory II
 III 
 IV 
 V 
-   Back 
-  ## Page 80
  Format No: FMCD2009 /1.0 80 
 Program: MBA 
 Course Title: Legal Aspects of Employment Course Code: 20MBAE822 
@@ -2672,8 +2542,6 @@ All Questions Compulsory II
 III 
 IV 
 V 
-  Back 
-  ## Page 81
  Format No: FMCD2009 /1.0 81 
 Program: MBA 
 Course Title: HR Operations Course Code: 24MBAE823 
@@ -2713,7 +2581,6 @@ References:
 Applications, and Future Directions, SAGE Publications 
  Piyali Ghosh, ShefaliNandan, Industrial Relations and Labour Laws, McGraw Hill Education 
 (India) Private Ltd. 
-        ## Page 82
  Format No: FMCD2009 /1.0 82 
 Scheme for Semester End Examination (ESA) 
   UNIT 
@@ -2726,8 +2593,6 @@ I
 All Questions Compulsory II 
 III 
 IV 
-  Back 
-  ## Page 83
  Format No: FMCD2009 /1.0 83 
 Program: MBA 
 Course Title: Emerging Trends in HR 
@@ -2775,12 +2640,10 @@ Module numbers Instructions
   UNIT I 
 I 
 All Questions Compulsory 
-  Back 
 II 
 III 
 IV 
 V 
- ## Page 84
  Format No: FMCD2009 /1.0 84 
   Program: MBA 
 Course Title: Talent& Competency 
@@ -2815,7 +2678,6 @@ HR in knowledge era : HR in knowledge industry, HR in virtual organizations, HR 
 acquisitions, outplacement, outsourcing HR functions, employee leasing, HR audit. 08 hrs 
 References 
 1. Ivanceivich, John M., Human Resource Management, Tata McGraw Hill, New Delhi. 
- ## Page 85
  Format No: FMCD2009 /1.0 85 
 2. Dessler, Gary, Human Resource Management, Pearson Education 
 3. Mathi, Robert, and John Jackson, Human Resource Management, Thomson Learning Inc 
@@ -2837,8 +2699,6 @@ All Questions Compulsory II
 III 
 IV 
 V 
-Back 
-  ## Page 86
  Format No: FMCD2009 /1.0 86 
 Program: MBA 
 Course Title: Team Development and 
@@ -2884,7 +2744,6 @@ References:
  Gary Yukl, Leadership in Organizations (Pearson Education - LPE) for Leadership, 6/e. 
  Fred Luthons, Organizational Behavior, 10th edition, McGraw-Hill. 
  Stephen Robbins, Organizational Behavior, 11th edition, Prentice Hall of India. 
-     ## Page 87
  Format No: FMCD2009 /1.0 87 
   Scheme for Semester End Examination (ESA) 
   UNIT 
@@ -2898,8 +2757,6 @@ All Questions Compulsory II
 III 
 IV 
 V 
-  Back 
-   ## Page 88
  Format No: FMCD2009 /1.0 88 
   Program: MBA 
 Course Title: HR Analytics Course Code: 22MBAE821 
@@ -2944,7 +2801,6 @@ HR Dashboards: Statistical software used for HR analytics: MS -Excel, IBM- SPSS,
 and R programming and data visualisation tools such as Tableau, Ploty, Click view and Fusion 
 Charts. 
 08 hrs 
- ## Page 89
  Format No: FMCD2009 /1.0 89 
    References: 
  Moore, McCabe, Duckworth, and Alwan. The Practice of Business Statistics: Using Data 
@@ -2966,8 +2822,6 @@ All Questions Compulsory II
 III 
 IV 
 V 
-   Back 
-  ## Page 90
  Format No: FMCD2009 /1.0 90 
 Program: MBA 
 Course Title: Emotional Intelligence in 
@@ -3012,7 +2866,6 @@ References
 Bantam, 2006 
  Ciarrochi, J., Forgas, J. P ., & Mayer, J. D., Emotional Intelligence in Everyday Life (2nd 
 Edition). New York Psychology Press, Inc, 2006 
-  ## Page 91
  Format No: FMCD2009 /1.0 91 
   Scheme for Semester End Examination (ESA) 
   UNIT 
@@ -3026,8 +2879,6 @@ All Questions Compulsory II
 III 
 IV 
 V 
-                                                                                                                                                                  Back 
-   ## Page 92
  Format No: FMCD2009 /1.0 92 
   Program: MBA 
 Course Title: Organizational Change and 
@@ -3073,7 +2924,6 @@ Organizations Pearson 2017
  Tupper Cawsy, Gene Deszca, Cynthia A. Inglos Organizational Change: An Action - Oriented Toolkit 
 Sage 2011 
 P . G. Aquinas Organization Structure and Design: Applications and Challenges Excel 2008 
-        ## Page 93
  Format No: FMCD2009 /1.0 93 
 Scheme for Semester End Examination (ESA) 
   UNIT 
@@ -3087,8 +2937,6 @@ All Questions Compulsory II
 III 
 IV 
 V 
-  Back 
-  ## Page 94
  Format No: FMCD2009 /1.0 94 
 Operations 
 Program: MBA 
@@ -3129,7 +2977,6 @@ Pearson/PHI, 4th Edition, 2011
  Sahay BS, Supply Chain Management in the 21st Century 
  Coyle J, C John Langley, Gibson B, Novack R and Bardi E. A Logistics Approach to Supply 
 Chain Management, Cengage Learning India Pvt Ltd 
-    ## Page 95
  Format No: FMCD2009 /1.0 95 
   Scheme for Semester End Examination (ESA) 
   UNIT 
@@ -3141,8 +2988,6 @@ Module numbers Instructions
 I 
 All Questions Compulsory II 
 III 
-  Back 
-  ## Page 96
  Format No: FMCD2009 /1.0 96 
 Program: MBA 
 Course Title: Service Operations 
@@ -3194,8 +3039,6 @@ All Questions Compulsory II
 III 
 IV 
 V 
-        Back 
-  ## Page 97
  Format No: FMCD2009 /1.0 97 
 Program: MBA 
 Course Title: Project Management Course Code: 20MBAE833 
@@ -3231,7 +3074,6 @@ References:
  Gido I Clements, Project Management Cengage Learning 
  The Managerial Process, Project Management- by Clifford Gray and Erik Larson TMH, 3rd 
 Edition 
-Back 
   Scheme for Semester End Examination (ESA) 
   UNIT 
 5 Questions 
@@ -3244,7 +3086,6 @@ All Questions Compulsory II
 III 
 IV 
 V 
-  ## Page 98
  Format No: FMCD2009 /1.0 98 
 Program: MBA 
 Course Title: Inventory Management Course Code: 20MBAE834 
@@ -3283,7 +3124,6 @@ References
  Buffa and Sarin, Operations Management 
  Max Muller, Essentials of Inventory Management 
  Narasimhan Sitaraman and McLeavey Dennis, Production Planning and Inventory Control 
-       ## Page 99
  Format No: FMCD2009 /1.0 99 
   Scheme for Semester End Examination (ESA) 
   UNIT 
@@ -3297,8 +3137,6 @@ All Questions Compulsory II
 III 
 IV 
 V 
-      Back 
-  ## Page 100
  Format No: FMCD2009 /1.0 100 
 Program: MBA 
 Course Title: Logistics & Warehouse 
@@ -3340,7 +3178,6 @@ References
 ConceptsLaxmi Publications (2015) 
  Christopher, M; Richard Irwin Logistics and Supply Chain Management 
  Chopra and Mendal, Supply Chain Management 
-     ## Page 101
  Format No: FMCD2009 /1.0 101 
     Scheme for Semester End Examination (ESA) 
   UNIT 
@@ -3354,8 +3191,6 @@ All Questions Compulsory II
 III 
 IV 
 V 
-      Back 
-  ## Page 102
  Format No: FMCD2009 /1.0 102 
 Business Analytics 
   Program: MBA 
@@ -3402,7 +3237,6 @@ References:
  Essentials of Business Analytics: An Introduction to the methodology and its application, 
 BhimasankaramPochiraju, Sridhar Seshadri, Springer. 
  Introduction to Data Science, Laura Igual Santi Seguí, Springer. 
-  ## Page 103
  Format No: FMCD2009 /1.0 103 
   Scheme for Semester End Examination (ESA) 
   UNIT 
@@ -3416,8 +3250,6 @@ All Questions Compulsory II
 III 
 IV 
 V 
-      Back 
-  ## Page 104
  Format No: FMCD2009 /1.0 104 
 Program: MBA 
 Course Title: Introduction to Python Course Code: 24MBAE843 
@@ -3441,7 +3273,6 @@ Machine Learning and Cognitive Intelligence: Introduction to Machine Learning - 
 Evolution, Machine Learning categories: Supervised, Unsupervised and Reinforcement learni ng. 
 Framework for building ML Systems, Introduction to deep learning, neural networks. 
 08 hrs 
- ## Page 105
  Format No: FMCD2009 /1.0 105 
 Module 4: 
 Supervised Learning: Introduction to classification, Linear Regression, Metrics for evaluating linear 
@@ -3472,8 +3303,6 @@ All Questions Compulsory II
 III 
 IV 
 V 
-      Back 
-  ## Page 106
  Format No: FMCD2009 /1.0 106 
 Program: MBA 
 Course Title: Data Visualization using Power 
@@ -3503,7 +3332,6 @@ Introduction to PowerBI
 Working with data - Importing from flat files, excel files, other Sources, Data Sources in Power BI 
 Desktop, Loading Data in Power BI Desktop, Views in Power BI Desktop, Query Editor in Power BI 
 10 hrs 
- ## Page 107
  Format No: FMCD2009 /1.0 107 
 Module 4: 
 Data Transformation : 
@@ -3534,8 +3362,6 @@ All Questions Compulsory II
 III 
 IV 
 V 
-      Back 
-  ## Page 108
  Format No: FMCD2009 /1.0 108 
   Program: MBA 
 Course Title: DBMS for Managers Course Code: 24MBAE845 
@@ -3561,7 +3387,6 @@ Introduction to E-R Data Model and RDBMS: The Relational Model, Introduction to 
 with relations of RDBMS, Advantages and Disadvantages of Relational Database System. E-R Data 
 Model: Introduction, Basic E-R Concepts-Entities, relationship, Attributes & constraints. 
 08 hrs 
- ## Page 109
  Format No: FMCD2009 /1.0 109 
 Module 4: 
 Introduction to SQL : 
@@ -3595,8 +3420,6 @@ All Questions Compulsory II
 III 
 IV 
 V 
-      Back 
-  ## Page 110
  Format No: FMCD2009 /1.0 110 
   Program: MBA 
 Course Title: Perspective Analytics Course Code: 25MBAE841 
@@ -3625,7 +3448,6 @@ Assignment problem:
 Introduction to AP. Formulation of AP and obtaining optimum solution using Hungarian method. 
 (Software tools for hands on experience- MS-Solver or TORA) 
 09 hrs 
- ## Page 111
  Format No: FMCD2009 /1.0 111 
 Module 4: 
 Game &Queuing Theory: 
@@ -3666,6 +3488,4 @@ I
 All Questions Compulsory II 
 III 
 IV 
-V 
-       Back 
- 
+V

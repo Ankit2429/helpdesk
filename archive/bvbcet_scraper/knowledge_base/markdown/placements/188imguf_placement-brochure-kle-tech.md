@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 188imguf_placement-brochure-kle-tech"
+title: "Placement Brochure KLE Tech"
 category: "placements"
 subcategory: ""
 document_type: "act"
@@ -11,15 +11,14 @@ language: "en"
 keywords: ["bosch", "brochure", "document", "engg", "kle", "students", "tech", "university"]
 aliases: ["CSE", "CS", "ECE", "EC", "EEE", "EE", "KLETech", "KLE Tech", "BVB", "BVBCET"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "22"
 ---
-# PDF Document: 188imguf_placement-brochure-kle-tech
- **PDF Source:** https://www.kletech.ac.in/Uploads/image/188imguf_placement-brochure-kle-tech.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/Uploads/image/188imguf_placement-brochure-kle-tech.pdf
  Website : kletech.ac.in
 KLE Technological University, Hubballi , 
 Karnataka State
 A brief walkthrough about us--
- ## Page 2
  Introduction
 BVBCET, Hubballi started in the year 1947.
 Obtained "State Private University" status in the year
@@ -31,7 +30,6 @@ Institutions
 Situated in the heart of the Hubballi City- Just 3Km from
 Bus Stand, 5Km from Railway Station and 5Km from
 Airport
- ## Page 3
  Bachelor of Engineering (B.E.) 
 branches offered:
  Computer Science & Engg
@@ -43,7 +41,6 @@ branches offered:
  Civil Engg 
  Biotechnology
  Architecture
- ## Page 4
  MTech Branches offered and other PG 
 courses
  MTech in Computer Science & Engg
@@ -55,7 +52,6 @@ Other PG courses
  MCA 
  MBA
 We also have Research Centers for (PhD)
- ## Page 5
  Our leading Alumni :
 Dr. Sudha Murty, Ex.Chairperson, Infosys Foundation 
 Sri. Basavaraj Bommai, Former Chief Minister, Govt of Karnataka
@@ -67,7 +63,6 @@ Mr. Pradeep Vajram, Founder of SmartPlay Tech and a serial entrepreneur
 Mr. Anilkumar M & D R Subramanium, Founders, SLN Technologies, Bangalore
 Mr Nagraj Dixit, Director, Texas Instruments, India
 Mr. Apoorva Ankad, Co-founder, Deevia Software
- ## Page 6
  Our Industry collaborations:
 Industry Supported labs at our campus:
 Sl.no Laboratory Domain Supporting Industry
@@ -82,7 +77,6 @@ Dassault Systems
 Pneumatics Lab
 Bosch- Rexroth
 7 Advanced IC packaging TCS
- ## Page 7
  Subjects designed with inputs from 
 Industry- experts to meet Industry requirements:
 SNo Subject Supported by the Industry
@@ -97,7 +91,6 @@ SNo Subject Supported by the Industry
 9. Advanced CAE Altair
 10. Multicore Embedded Systems Bosch Global Software(BGSW)
 11. Data Integration & Cloud Services Informatica
- ## Page 8
  MOU with leading Companies:
  MOU with NVIDIA:
 This MOU is intended to facilitate a collaborative relationships to 
@@ -106,7 +99,6 @@ challenge exploration by students & faculty of KLE Tech University
 working closely with NVIDIA experts in areas of interest to NVIDIA.
 Students use the NVIDIA Jetson hardware as a embedded 
 hardware
- ## Page 9
  Unique Initiatives to empower knowledge:
  Platform for Research at UG level through REU program (Research Experience for
 Undergraduates program)
@@ -127,7 +119,6 @@ All machinery/equipments required for building a prototype of an Electromechanic
 Product are available under a single roof :walk- in with an Idea and walk-out with a
 Prototype
 Dedicated space of almost 20, 000 sqft
- ## Page 10
  Our Core recruiters :
 •Amazon •Mercedes Benz R&D •Samsung R&D •Samsung Semiconductors
 •Twilio •Robert Bosch (BGSW) •Toshiba •SONY
@@ -146,7 +137,6 @@ Solutions •LTTS
 •Zycus •Societe Generale •Hitachi Energy •Adani Group
 •Netcracker •Extreme Networks •Clarivate Analytics •Vitesco Tech
 •Medicodio •Vegam •Target • JMC Projects
- ## Page 11
  Our Software services 
 recruiters:
 Our Core recruiters 
@@ -178,7 +168,6 @@ steels
 • Aequs • Kion- Dematic
 • HalleysBlue • Suprajit Engg and many 
 more
- ## Page 12
  2023 Batch: Top Recruiters and number 
 of Students recruited
 Recruiters No. of Students recruited 
@@ -193,7 +182,6 @@ Dassault Systems 15
 Deloitte 45
 JSW 23
 Daimler Trucks (DTICI) 10
- ## Page 13
  2022 Batch: Top Recruiters and number 
 of Students recruited
 Recruiters No. of Students recruited 
@@ -206,7 +194,6 @@ Cognizant 272
 Accenture 115
 Capgemini 91
 LTTS 170
- ## Page 14
  Soft skills Training provided to Students:
  Soft skills Training named as "VIKAS"
  Total duration of 64 Hours spread over 4 semesters
@@ -220,7 +207,6 @@ Technical Thinking (TT)
 Corporate Behavior (CB)
 Written English (WE)
 Spoken English (SE)
- ## Page 15
  Companies in our Campus (Incubation)
  Around 38 Companies, many among them are start ups, operate 
 from our Campus. This has resulted in better Industry engagement 
@@ -228,7 +214,6 @@ opportunities for students.
  Companies Provide: 
 1) Internship opportunities to students 
 2) Real world problem statements for student projects
- ## Page 16
  University Achievements:
 Good Governance Award by TEQIP (Technical Education Quality Improvement Program of 
 World Bank & Government of India)
@@ -241,7 +226,6 @@ Our VC Dr. Ashok Shettar was awarded with prestigious Techno visionary Award by 
 (Indian Electronics & Semiconductor Association) on 27th Feb, 2018 and also very prestigious 
 "Karnataka Rajyotsava Award" on 7th November, 2020 for his great contributions to the field of 
 Engg education & entrepreneurship.
- ## Page 17
  Our University was given Appreciation Award by Robert Bosch for
 Maximum Campus Selections( recruited more than 100 students) for
 the year 2018-19 Batch. Award was given during Placement Officers
@@ -256,17 +240,13 @@ student teams
 have won :
 MIT(USA) identifies BVB ( now KLE Tech) as one of the Five Places to
 Watch Globally for future leadership in Engineering Education.
- ## Page 18
  Our Certifications :
 NBA accredited
 NAAC accredited ( 'A' Grade)
 NIRF Ranking 151-200 band in the University Ranking 
 section
- ## Page 19
  Our Campus Infrastructure:
- ## Page 20
  High Profile Visitors:
- ## Page 21
  Contact Us:
 Prof. C. D. Kerure
 Training & Placement Officer,
@@ -276,5 +256,4 @@ HUBBALLI-580031(Karnataka State, India)
 Mobile: 98451 17196
 Email : placement@kletech.ac.in
 Website: www.kletech.ac.in
- ## Page 22
- Thank You 
+ Thank You

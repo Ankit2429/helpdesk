@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 42imguf_admission-notification"
+title: "Admission Notification"
 category: "admissions"
 subcategory: ""
 document_type: "document"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["college", "document", "engineering", "karnataka", "kletech", "notification"]
 aliases: ["KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "1"
 ---
-# PDF Document: 42imguf_admission-notification
- **PDF Source:** https://www.kletech.ac.in/Uploads/image/42imguf_admission-notification.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/Uploads/image/42imguf_admission-notification.pdf
  KLtrl, T?ffi':si: i
 Crealing Value
 ieveraging Knowledge B.v. B. cotrege of Engineerl"T'fi, S"Jfi;

@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: nirf-engineering-category-2nd-february-2026"
+title: "Nirf Engineering Category 2nd February 2026"
 category: "miscellaneous"
 subcategory: ""
 document_type: "act"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["assistant", "category", "document", "engineering", "february", "male", "nirf", "professor", "regular", "tech"]
 aliases: ["HOD", "Head of Department", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "17"
 ---
-# PDF Document: nirf-engineering-category-2nd-february-2026
- **PDF Source:** https://www.kletech.ac.in/Uploads/image/nirf-engineering-category-2nd-february-2026.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/Uploads/image/nirf-engineering-category-2nd-february-2026.pdf
  National Institutional Ranking Framework
 Ministry of Education
 Government of India
@@ -139,7 +139,6 @@ only)
 2022-23 108 43 2023-24 43 34 450000(Four Lakh fifty
 thousand only)
 0
- ## Page 2
  2023-24 108 53 2024-25 53 39 450000(Four Lakh fifty
 thousand only)
 1
@@ -206,7 +205,6 @@ Thousand Four Hundred Twenty Two )
 and twenty four only)
 IPR
 Calendar year 2024 2023 2022
- ## Page 3
  No. of Patents Published 0 1 6
 No. of Patents Granted 9 5 1
 Sponsored Research Details
@@ -251,7 +249,6 @@ RONAD
 GURUPUTRAYYA
 PATIL
 33 Assistant Professor Male M.Tech 84 Yes 26-02-2024 -- Regular
- ## Page 4
  8 Shri AMIT S
 BIRADAR
 30 Assistant Professor Male M.Tech 72 No 08-09-2023 18-07-2025 Regular
@@ -316,7 +313,6 @@ SUNAGAR
 MADGI
 60 Professor Male Ph.D 382 Yes 01-09-2023 -- Regular
 31 Dr N SOUMYA 44 Associate Professor Female Ph.D 252 No 28-12-2023 06-02-2025 Regular
- ## Page 5
  32 Shri TEJAS K
 RAYANAGOUDAR
 47 Associate Professor Male M.Tech 192 Yes 20-05-2024 -- Regular
@@ -387,7 +383,6 @@ CHIKKAMATH
 SHANBHAG
 37 Assistant Professor Female M.Tech 96 Yes 04-08-2017 -- Regular
 54 SMT LEAH S JOSHI 42 Assistant Professor Female M.Tech 132 Yes 21-07-2014 -- Regular
- ## Page 6
  55 SMT ANUPAMA R
 ITAGI
 41 Assistant Professor Female M.Tech 204 Yes 01-08-2008 -- Regular
@@ -452,7 +447,6 @@ KARADGI
 79 SMT GEETA C
 BELLAD
 60 Associate Professor Female M.Tech 444 Yes 31-08-1988 -- Regular
- ## Page 7
  80 SRI
 BASANAGOUDA I
 PATIL
@@ -517,7 +511,6 @@ CHICKERUR
 HANCHINAMANI
 54 Associate Professor Male Ph.D 384 Yes 08-10-1993 -- Regular
 103 DR JAYALAXMI G N 57 Associate Professor Female Ph.D 288 Yes 08-09-2001 -- Regular
- ## Page 8
  104 SMT MEENAXI M
 jANNU
 52 Associate Professor Female M.Tech 192 Yes 14-08-2009 -- Regular
@@ -585,7 +578,6 @@ KINNAL
 127 MR VINAY S
 TIGADI
 35 Assistant Professor Male M.Tech 108 Yes 13-09-2017 -- Regular
- ## Page 9
  128 MS PADMAJA B
 KALLIMANI
 32 Assistant Professor Female B.E 84 Yes 01-08-2018 -- Regular
@@ -652,7 +644,6 @@ PATTANASHETTI
 152 SMT JYOTI
 RAVIKUMAR
 50 Assistant Professor Female M.Tech 276 Yes 04-08-2014 -- Regular
- ## Page 10
  153 SRI SHASHIDHAR
 S
 NEELAKANTHMAT
@@ -719,7 +710,6 @@ TEWARI
 176 DR NAGARAJ R
 BHANAPURAMATH
 61 Professor Male Ph.D 360 Yes 22-12-1998 -- Regular
- ## Page 11
  177 SRI VENKAPPA N
 SANNAGOUDAR
 56 Associate Professor Male M.Tech 324 Yes 09-09-1998 -- Regular
@@ -784,7 +774,6 @@ HIREMATH
 TABIB
 37 Assistant Professor Male M.Tech 132 Yes 01-06-2016 -- Regular
 201 Dr KIRAN R PATIL 40 Assistant Professor Male Ph.D 156 Yes 02-08-2012 -- Regular
- ## Page 12
  202 SMT KAVITA
 CHACHADI
 48 Assistant Professor Female M.Tech 96 Yes 03-08-2017 -- Regular
@@ -849,7 +838,6 @@ R H N
 224 SMT SUPRIYA V
 KATWE
 38 Assistant Professor Female M.Tech 132 Yes 23-09-2014 -- Regular
- ## Page 13
  225 SMT
 PRIYADARSHINI M
 PATIL
@@ -912,7 +900,6 @@ KARIKATTI
 250 MR AKASH
 KULKARNI
 33 Assistant Professor Male M.Tech 69 Yes 01-10-2019 -- Regular
- ## Page 14
  251 Ms SAHANA E
 PUNAGIN
 30 Assistant Professor Female M.Tech 51 Yes 09-04-2021 -- Regular
@@ -977,7 +964,6 @@ BASAVARAJ PATIL
 274 Dr Smt SHWETA J
 MALODE
 42 Assistant Professor Female Ph.D 192 Yes 22-09-2021 -- Regular
- ## Page 15
  275 HEENA
 SHIRAHATTI
 32 Assistant Professor Female M.Tech 56 Yes 01-07-2022 -- Regular
@@ -1029,7 +1015,6 @@ GARAWAD
 301 P M PATIL 66 Professor Male Ph.D 434 Yes 01-07-2022 -- Regular
 302 PRIYA JADHAV 33 Assistant Professor Female M.Tech 72 Yes 22-08-2022 -- Regular
 303 MEGHA NIGADI 38 Assistant Professor Female M.Tech 111 Yes 01-09-2022 -- Regular
- ## Page 16
  304 JYOTHSNA C 50 Assistant Professor Female M.Tech 324 Yes 01-03-2023 -- Regular
 305 ANURADHA
 SHIRIYANNAVAR
@@ -1082,7 +1067,6 @@ AYYAPPANAVAR
 331 CHAITRA
 ANANTAPUR
 31 Assistant Professor Female M.Tech 90 Yes 04-11-2024 -- Adhoc / Contractual
- ## Page 17
  332 RAGHURAJA ADI 34 Assistant Professor Male M.Tech 88 Yes 06-03-2025 -- Regular
 333 ROHINI
 BATAKOORSE

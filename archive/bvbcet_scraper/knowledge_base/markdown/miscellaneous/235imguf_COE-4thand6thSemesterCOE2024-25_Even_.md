@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 235imguf_COE-4thand6thSemesterCOE2024-25_Even_"
+title: "COE 4thand6thsemestercoe2024 25 Even"
 category: "miscellaneous"
 subcategory: ""
 document_type: "minutes"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["april", "date", "document", "last", "march", "minor"]
 aliases: []
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "1"
 ---
-# PDF Document: 235imguf_COE-4thand6thSemesterCOE2024-25_Even_
- **PDF Source:** https://www.kletech.ac.in/Uploads/image/235imguf_COE-4thand6thSemesterCOE2024-25(Even).pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/Uploads/image/235imguf_COE-4thand6thSemesterCOE2024-25(Even).pdf
                                                                                                                                                                                                                                         1q2 
   ANAM 0201/1.0 
 CALENDAR OF EVENTS 
@@ -78,5 +78,4 @@ June 26 27 28 29 30 31 1 6 Last date for course (s) withdrawal : 28th May
 No of working 
 days 14 16 14 14 16 16 90 
 Holidays 
-  Marks / Attendance display Minor exam Feedback 
-    
+  Marks / Attendance display Minor exam Feedback

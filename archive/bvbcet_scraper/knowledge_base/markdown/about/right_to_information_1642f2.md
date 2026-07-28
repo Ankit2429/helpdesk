@@ -14,4 +14,3 @@ last_modified: "2026-07-28"
 ---
 # Right to Information
  **Source URL:** https://www.kletech.ac.in/about/recognitions-approvals/rti
- 

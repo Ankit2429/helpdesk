@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: ECE_Curriculum_Structure_and_Content_2021-25"
+title: "Bachelor of Engineering Curriculum"
 category: "academics"
 subcategory: "ECE"
 document_type: "syllabus"
@@ -11,18 +11,15 @@ language: "en"
 keywords: ["chapter", "course", "document", "engineering", "hours", "marks"]
 aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "ECE", "EC", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "147"
 ---
-# PDF Document: ECE_Curriculum_Structure_and_Content_2021-25
- **PDF Source:** https://www.kletech.ac.in/pdf/ECE_Curriculum_Structure_and_Content_2021-25.pdf
- ## Page 1
- FMCD2009 / 2.0 
- 1 
+**PDF Source:** https://www.kletech.ac.in/pdf/ECE_Curriculum_Structure_and_Content_2021-25.pdf
+
   Curriculum Structure and Curriculum Content for the Academic Year - 2021-25 
 School /Department: Electronics & Communication Engineering 
 Program: Bachelor of Engineering 
-  ## Page 2
- FMCD2009 / 2.0 
- 2 
+
   Table of Contents 
 Vision and Mission of KLE Technological University ........................................................... 3 
 Vision and Mission Statements of the School / Department ............................................... 4 
@@ -40,9 +37,7 @@ Semester- VIII .................................................................
 List of Open Electives ...................................................................................................... 17 
 List of Program Electives ................................................................................................. 17 
 Curriculum Content- Course wise ..................................................................................... 19 
-  ## Page 3
- FMCD2009 / 2.0 
- 3 
+
   Vision and Mission of KLE Technological University 
   Vision 
   KLE Technological University will be a national leader in Higher 
@@ -64,9 +59,7 @@ contributing our expertise, experience and leadership, to enhance
 competitiveness and quality of life. 
   As a unified community of faculty, staff and students, we work together with the 
 spirit of collaboration and partnership to accomplish our mission. 
- ## Page 4
- FMCD2009 / 2.0 
- 4 
+
   Vision and Mission Statements of the School / Department 
 Vision 
   KLE Tech -School of Electronics and Communication will be well recognized 
@@ -81,9 +74,7 @@ businesses and occupations.
 boundaries of disciplinary and interdisciplinary knowledge and its applications. 
 3. To collaborate within and beyond the discipline to create solutions that benefit 
 humanity and society. 
-  ## Page 5
- FMCD2009 / 2.0 
- 5 
+
 Program Educational Objectives/Program Outcomes and Program-Specific Objectives 
 Program Educational Objectives -PEO's 
 1. Graduates will demonstrate peer - recognized technical competency to 
@@ -120,9 +111,7 @@ Create, select, and apply appropriate techniques, resources, and modern
 engineering and IT tools including prediction and modelling to complex 
 engineering activities with an understanding of the limitations. 
 PO 6: The engineer and society: 
- ## Page 6
- FMCD2009 / 2.0 
- 6 
+
 Apply reasoning informed by the contextual knowledge to assess societal, 
 health, safety, legal, and cultural issues and the consequent responsibilities 
 relevant to the professional engineering practice. 
@@ -156,9 +145,7 @@ PSO 2: Demonstrate the knowledge of the state of art tools and apply for the
 development of VLSI circuits/systems. 
 PSO 3: An ability to us e appropriate modern techniques for analysis, design 
 and development of Communication components/systems. 
-  ## Page 7
- FMCD2009 / 2.0 
- 7 
+
 Curriculum Structure-Overall 
   Semester Total Program Credits: 177 
 Course with course code 
@@ -310,9 +297,7 @@ Networks I Lab
 P3: Senior 
 Design Project 
 20EECW401 
-  ## Page 8
- FMCD2009 / 2.0 
- 8 
+
 Engineering 
 Physics Lab 
 16EPHP101 
@@ -374,9 +359,7 @@ Structure Using C
 Lab(Diploma) 
 21EECF203 
     Credits 21 23 25.5 24.5 23 22 21 17 
-  ## Page 9
- FMCD2009 / 2.0 
- 9 
+
 Curriculum Structure-Semester wise 
 Semester - I 
   No Code Course Category L-T-P Credits Contact 
@@ -394,9 +377,7 @@ ES 0-0-3 3 6 80 20 100 3 hrs
 6 15EHSP101 Social Innovation HSS 0-1-1 2 3 50 50 100 1.5hrs 
 7 16EPHP101 Engineering Physics Lab BS 0-0-1 1 2 80 20 100 3 hrs 
 TOTAL 14-2-5 21 27 410 290 700 
- ## Page 10
- FMCD2009 / 2.0 
- 10 
+
 Semester - II 
   No Code Course Category L-T-P Credits Contact 
 Hours 
@@ -415,9 +396,7 @@ ES 0-0-3
 6 15EMEF101 Basic Mechanical Engineering ES 2-1-0 3 4 50 50 100 3 hrs 
 7 15EHSH101 Professional Communication HSS 1-1-0 2 3 50 50 100 1.5 hrs 
 TOTAL 14-3-6 23 32 410 290 700 
- ## Page 11
- FMCD2009 / 2.0 
- 11 
+
 Semester- III 
 No Code Course Category L-T-P Credits Contact 
 Hours 
@@ -455,9 +434,7 @@ ES
 3 4 
 80 20 100 2 hours 
 TOTAL 22.5-0-3 25.5 29 590 310 900 
- ## Page 12
- FMCD2009 / 2.0 
- 12 
+
 Semester- IV 
 No Code Course Category L-T-P Credits Contact Hours ISA ESA Total Exam Duration 
 (in hrs) 
@@ -494,9 +471,7 @@ Lab(Diploma)
 2 4 80 20 100 
 2 hours 
   TOTAL 18.5-0-6 24.5 31 670 330 1000 
- ## Page 13
- FMCD2009 / 2.0 
- 13 
+
 Semester- V 
 No Code Course Category L-T-P Credits Contact 
 Hours 
@@ -521,9 +496,7 @@ Audit
 -- 1 
 50 50 100 3 hours 
 TOTAL 14-0-9 23 33 590 310 900 
- ## Page 14
- FMCD2009 / 2.0 
- 14 
+
 Semester- VI 
   No Code Course Category L-T-P Credits Contact Hours ISA ESA Total Exam 
 Duration 
@@ -550,9 +523,7 @@ PC 0-0-1 1 2 80 20 100 2 hours
 8 23EECW302 P2: Minor Project - I PW 1-0-4 5 9 50 50 100 2 hours 
 9 23EECW303 P3: Minor Project - II PW 0-0-5 5 10 50 50 100 2 hours 
 TOTAL 11-0-11 22 37 485 415 900 
- ## Page 15
- FMCD2009 / 2.0 
- 15 
+
 Semester- VII 
   No Code Course Category L-T-P Credits Contact 
 Hours 
@@ -567,9 +538,7 @@ Duration
 6 20EECW401 P3: Senior Design Project PW 0-0-6 6 12 50 50 100 3 hours 
 7 15EHSA401 CIPE & EVS M 2-0-0 0 2 50 50 100 3 hours 
 TOTAL 14-0-7 21 29 350 350 700 
- ## Page 16
- FMCD2009 / 2.0 
- 16 
+
 Semester-VIII 
   Semester I II III IV V VI VII VIII Total 
 Credits 21 23 25.5 24.5 23 22 21 17 177 
@@ -607,9 +576,7 @@ PRJ
 3 hours 
   3 hours 
 TOTAL 6-0-11 17 28 150 150 300 
- ## Page 17
- FMCD2009 / 2.0 
- 17 
+
   List of Open Electives 
    Sr. No Name of the Course Course Code 
 1 Automotive Electronics 18EECO403 
@@ -636,9 +603,7 @@ Sr. No Name of the Course Course Code
 19 Wireless & Mobile Communication 24EECE432 
 20 Speech Processing 24EECE422 
 21 Product and Functional Safety 24EECE433 
- ## Page 18
- FMCD2009 / 2.0 
- 18 
+
 22 5G and Software Defined Networking 24EECE434 
 23 GEN AI 24EECE435 
 24 Advance IC Packaging 24EECE436 
@@ -650,9 +615,7 @@ Sr. No Name of the Course Course Code
 30 Cyber Security and Privacy (Swayam) 23EECE439 
 31 Introduction To Algorithms And Analysis (Swayam) 23EECE440 
 32 Introduction to Internet of Things 24EECE446 
-  ## Page 19
- FMCD2009 / 2.0 
- 19 
+
 Curriculum Content- Course wise 
 Program: Electronics & Communication Engineering Semester: I 
 Course Title: Single Variable Calculus Course Code:18EMAB101 
@@ -690,18 +653,14 @@ Euler's method and Runge-Kutta method
 (b) Applications of first order differential equations -Orthogonal trajectories growth and decay 
 problems, mixture problems, Electrical circuits, falling bodies. 
 MATLAB: Solve differential equations 
- ## Page 20
- FMCD2009 / 2.0 
- 20 
+
 Text Books: 
 1. Early Transcendentals Calculus- James Stewart, Thomson Books, 7ed 2010. 
 Reference Books: 
 1. Calculus Single and Multivariable, Hughues-Hallett Gleason, Wiley India Ed, 4ed, 2009. 
 2. Thomas Calculus, George B Thomas, Pearson India, 12ed, 2010 
   Back to Semester I 
-   ## Page 21
- FMCD2009 / 2.0 
- 21 
+
 Program: Electronics & Communication Engineering Semester: I 
 Course Title: Engineering Physics Course Code: 15EPHB101 
 L-T-P: 3-0-0 Credits: 3 Contact Hours:3 hrs/week 
@@ -746,9 +705,7 @@ Analysis Model: Particle in a Field (Electric), Electric Field of a Continuous C
 Electric Field Lines Motion of a Charged Particle in a Uniform Electric Field 
 Gauss's Law: Electric Flux, Gauss 's Law, Application of Gauss 's Law t o Various Charge 
 Distributions, Conductors in Electrostatic Equilibrium 
- ## Page 22
- FMCD2009 / 2.0 
- 22 
+
 Electric Potential: Electric Potential and Potential Difference, Potential Difference in a Uniform 
 Electric Field, Electric Potential and Potential Energy Due to Point Charges, Obtaining the Value 
 of the Electric Fi eld from the Electric Potential, Electric Potential Due to Continuous Charge 
@@ -777,9 +734,7 @@ Reference Books:
 2. R P Feynman, Robert B Leighton, Matthew Sands, The Feynman Lectures on Physics Vol-
 II, Norosa Publishing House (1998). 
 3. Ben G Streetman, Solid State Electronic Devices, Prentice Hall, 1995 
-  ## Page 23
- FMCD2009 / 2.0 
- 23 
+
 Program: Electronics & Communication Engineering Semester: I 
 Course Title: Engineering Mechanics Course Code: 15ECVF101 
 L-T-P: 4-0-0 Credits: 4 Contact Hours:4 hrs/week 
@@ -826,9 +781,7 @@ Introduction, Definition, Methods of determining the centroid, axis of reference
 symmetry, Locating the centroid of simple plane figures (triangle, semicircle, quarter of a circle 
 and sector of a circle etc,.) using method of integration, Numerical problems on Centroid of 
 simple built up sections. 
- ## Page 24
- FMCD2009 / 2.0 
- 24 
+
 Chapter 8: Second moment of area (Plane figures) 
 Introduction, Definition, Method of determining the second moment of area, Section Modulus, 
 Radius of gyration, perpendicular and Parallel axis theorems, Polar second moment of area, 
@@ -853,9 +806,7 @@ Publishing Company, New Delhi, 1956.
 5. Irving H Shames, Engineering Mechanics, 3rd edition, Prentice-Hall of India Pvt. Ltd, New 
 Delhi- 110 001, 1995. 
   Back to Semester I 
-   ## Page 25
- FMCD2009 / 2.0 
- 25 
+
 Program: Electronics & Communication Engineering Semester: I 
 Course Title: C Programming for Problem solving Course Code: 18ECSP101 
 L-T-P: 0-0-3 Credits: 3 Contact Hours:6 hrs/week 
@@ -893,9 +844,7 @@ Reference Books:
 3. B. A. Forouzan, R.F. Gilberg, A Structured Program Approach Using C, 3ed, CENGAGE 
 Learning, 2008. 
 Back to Semester I 
-  ## Page 26
- FMCD2009 / 2.0 
- 26 
+
 Program: Electronics & Communication Engineering Semester: I 
 Course Title: Basic Electrical Engineering Course Code: 18EEEF101 
 L-T-P: 3-0-0 Credits: 3 Contact Hours:3 hrs/week 
@@ -934,9 +883,7 @@ ELCB and Relays, Lockout and Tagout, Electrical Codes and Standards.
 Batteries 
 Basics of lead acid batteries, Lithium Ion Battery , Battery storage capacity, Coulomb efficiency, 
 Numerical of high and low charging rates, Battery sizing. Numericals. 
- ## Page 27
- FMCD2009 / 2.0 
- 27 
+
 Text Books: 
 1. Hughes, Electrical & Electronic Technology, 8th , Pearson Education, 2001 
 2. P C Sen, Principals of Electrical Machines and Power Electronics, 2nd, Wiley Publications 
@@ -950,9 +897,7 @@ Reference Books:
 Systems, 3rd, Tata McGraw Hill Education Private Limited, New Delhi., 2005 
 3. Vincent Del Toro, Electrical Engineering Fundamentals, 2nd edition Prentice Hall India 
   Back to Semester I 
-   ## Page 28
- FMCD2009 / 2.0 
- 28 
+
 Program: Electronics & Communication Engineering Semester: I 
 Course Title: Design Thinking for Social Innovation Course Code: 20EHSP101 
 L-T-P: 0-1-1 Credits: 2 Contact Hours:3 hrs/week 
@@ -1056,9 +1001,7 @@ To know how to use
 one's observation skills 
 in understanding the 
 social conditions 
-  ## Page 29
- FMCD2009 / 2.0 
- 29 
+
 Class Presentations 
  Initial observations being 
 made by the group 
@@ -1123,9 +1066,7 @@ Ideation-Synthesis
 respective templates 
 with the help of sample 
 case study 
- ## Page 30
- FMCD2009 / 2.0 
- 30 
+
  Create "How might 
 we" question 
 Class Presentations 
@@ -1197,9 +1138,7 @@ holders & their enagement
 respective templates 
 with the help of sample 
 case study 
-  ## Page 31
- FMCD2009 / 2.0 
- 31 
+
   5. 0 Reflect 
   Reflection of the overall 
 learning by the students 
@@ -1216,9 +1155,7 @@ respective templates
 with the help of sample 
 case study 
   Back to Semester I 
-  ## Page 32
- FMCD2009 / 2.0 
- 32 
+
 Program: Electronics & Communication Engineering Semester: I 
 Course Title: Engineering Physics lab Course Code: 16EPHP101 
 L-T-P: 0-0-1 Credits: 1 Contact Hours:2 hrs/week 
@@ -1236,9 +1173,7 @@ List of Experiments
 9. Calibration of thermocouple 
 10. Calibration of electrical meters 
   Back to Semester I 
-   ## Page 33
- FMCD2009 / 2.0 
- 33 
+
 Program: Electronics & Communication Engineering Semester: II 
 Course Title: Multivariable calculus Course Code: 18EMAB102 
 L-T-P: 4-1-0 Credits: 5 Contact Hours:5 hrs/week 
@@ -1275,9 +1210,7 @@ Reference Books:
 1. Calculus Single and Multivariable, Hughues-Hallett Gleason, Wiley India Ed, 4ed, 2009. 
 2. Thomas Calculus, George B Thomas, Pearson India, 12ed, 2010 
   Back to Semester II 
-  ## Page 34
- FMCD2009 / 2.0 
- 34 
+
   Program: Electronics & Communication Engineering Semester: II 
 Course Title: Engineering Chemistry Course Code: 15ECHB102 
 L-T-P: 3-0-0 Credits: 3 Contact Hours:3 hrs/week 
@@ -1321,9 +1254,7 @@ etching.
 Liquid Crystals - Types of liquid crystals, applications of Liquid Crystal in Display system. 
 Fluorescence and Phosphorescence - Jablonski diagram, Thermoelectric and Piezoelectric 
 materials - meaning, properties and applications. 
-  ## Page 35
- FMCD2009 / 2.0 
- 35 
+
 Unit III 
 7. Instrumental methods of measurement 
 Advantages over conventional methods. Electro analytical methods: Potentiometer - 
@@ -1355,9 +1286,7 @@ Anand, Himalaya Publishing House Pvt. Ltd, 2010, Mumbai.
 7. VLSI Technology, 2nd Edition, S. M. Sze, McGraw Hill Series in electrical and computer 
 engineering, 1998, New York. 
   Back to Semester II 
-   ## Page 36
- FMCD2009 / 2.0 
- 36 
+
 Program: Electronics & Communication Engineering Semester: II 
 Course Title: Problem Solving with Data Structures Course Code: 18ECSP102 
 L-T-P: 0-0-3 Credits: 3 Contact Hours:6 hrs/week 
@@ -1389,9 +1318,7 @@ Text Books:
 3. B. A. Forouzan, R. F. Gilberg, A Structured Program Approach Using C, 3ed, CENGAGE 
 Learning, 2008. 
   Back to Semester II 
-  ## Page 37
- FMCD2009 / 2.0 
- 37 
+
   Program: Electronics & Communication Engineering Semester: II 
 Course Title: Engineering Exploration Course Code: 15ECRP101 
 L-T-P: 0-0-3 Credits: 3 Contact Hours:6 hrs/week 
@@ -1413,9 +1340,7 @@ Reference Books:
 Northup, Steven, Mc GrawHill Higher Education, 6th Edition ( 2011) 
 2. Engineering Exploration ( Edited Book, 2008) by Pearson Publication 
   Back to Semester II 
-  ## Page 38
- FMCD2009 / 2.0 
- 38 
+
   Program: Electronics & Communication Engineering Semester: II 
 Course Title: Basic Electronics Course Code: 18EECF101 
 L-T-P: 4-0-0 Credits: 4 Contact Hours:4 hrs/week 
@@ -1458,9 +1383,7 @@ modulator. Detection of AM waves: envelope detector. Double side band suppressed
 modulation (DSBSC), Generation of DSBSC wave: balanced modulator, Super heterodyne 
 principle. 
 Chapter 7: Linear Power Supply, UPS & CRO 
- ## Page 39
- FMCD2009 / 2.0 
- 39 
+
 Working principle of linear power supply, UPS and CRO. Measurement of amplitude, frequency 
 and phase of a given signal. 
 Text Books 
@@ -1476,9 +1399,7 @@ Engineering for Scientists and Engineers, 2, New Age International Publishers, 2
 4. Boylestead Nashelsky, Electronic devices & Circuit theory, Prentice Hall India, 2000 
 5. Ramakant Gaikawad , Operational Amplifiers & applications, PHI, 2000 
   Back to Semester II 
-   ## Page 40
- FMCD2009 / 2.0 
- 40 
+
 Course Title: Basic Mechanical Engineering Course Code: 15EECF101 
 L-T-P: 2-1-0 Credits: 3 Contact Hours:4 hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -1520,18 +1441,14 @@ Text Books:
 Edition, 2013- Cengage Learning.4 
 2. K. R. Gopalkrishna, Sudhir Gopalkrishna, S.C. Sharma. A Text Book of Elements of 
 Mechanical Engineering, 30th Edition, Oct 2010,-Subhash Publishers, Bangalore. 
- ## Page 41
- FMCD2009 / 2.0 
- 41 
+
   Back to Semester II 
   Reference Books: 
 1. Course Material developed by the Department of Mechanical Engineering. 
 2. SKH Chowdhary, AKH Chowdhary, Nirjhar Roy, The Elements of Workshop Technology - 
 Vol I & II , 11th edition 2001, Media Promoters and Publishers. 
 3. Basic Manufacturing, Roger Timings, Third edition, Newnes, An imprint of Elsevier 
- ## Page 42
- FMCD2009 / 2.0 
- 42 
+
   Program: Electronics & Communication Engineering Semester: II 
 Course Title: Professional Communication Course Code: 15EHSH101 
 L-T-P: 1-1-0 Credits: 2 Contact Hours:3 hrs/week 
@@ -1557,9 +1474,7 @@ Reference Books:
 2. Raymond Murphy - Intermediate English Grammar, Cambridge University Press 
 3. Martin Hewing's- Advanced English Grammar, Cambridge University Press. 
   Back to Semester II 
-  ## Page 43
- FMCD2009 / 2.0 
- 43 
+
   Program: Electronics & Communication Engineering Semester: III 
 Course Title: Integral transforms and Statistics Course Code: 15EMAB203 
 L-T-P: 4-0-0 Credits: 4 Contact Hours: 4 hrs/week 
@@ -1600,9 +1515,7 @@ function, autocorrelation function, cross correlation, Power spectral Density: p
 the spectral density; Gaussian Process: Properties of Gaussian process. 
 Text Books 
 1. Kreyszig E., Advanced Engineering Mathematics , , 10th edition, Wiley, 2015 
- ## Page 44
- FMCD2009 / 2.0 
- 44 
+
 2. Gupta S C and Kapoor V K, Fundamentals of Mathematical Statistics, 11th edition, Sultan 
 Chand & Sons, 2018 
 3. Walpole and Myers, Probability and Statistics for Engineers and Scientists, ; 9thedition , 
@@ -1614,9 +1527,7 @@ Pearson Education India, 2013.
 Hill Edition, 2017 
 4. Ian Glover & Peter Grant, Digital Communications, 3rd edition, Pearson 2009. 
   Back to Semester III 
-  ## Page 45
- FMCD2009 / 2.0 
- 45 
+
 Program: Electronics & Communication Engineering Semester: III 
 Course Title: Corporate Communication Course Code: 22EHSH201 
 L-T-P: 0.5-0-0 Credits: 0.5 Contact Hours: 1 hrs/week 
@@ -1641,9 +1552,7 @@ Reference Books:
 2. Norman Lewis - Word Power Made Easy, Goyal Publishers 
 3. Cambridge Advanced Learner's Dictionary, Cambridge University Press. 
   Back to Semester III 
-   ## Page 46
- FMCD2009 / 2.0 
- 46 
+
 Program: Electronics & Communication Engineering Semester: III 
 Course Title: Circuit Analysis Course Code: 22EECC201 
 L-T-P: 4-0-0 Credits: 4 Contact Hours: 4 hrs/week 
@@ -1685,9 +1594,7 @@ Frequency response curve, Peaking of frequency curve and its relation to damping
 and Parallel Resonance, Quality factor, Selectivity and Bandwidth 
 [Text 2: Chapter 7, 8] [ Text 1: Chapter 4, 5, 7] 
 Text Books: 
- ## Page 47
- FMCD2009 / 2.0 
- 47 
+
 1. W H Hayt, J E Kemmerly, S M Durban, "Engineering Circuit Analysis " McGraw Hill 
 Education; Eighth edition ,2013 
 2. M E. Van Valkenburg, Network Analysis, Third edition Pearson Education, 2019 
@@ -1697,9 +1604,7 @@ Education, 2017
 2. V. K. Aatre, ―Network Theory and Filter Design, 3rd edition, New Age International 
 Private Limited, 2014 
   Back to Semester III 
-  ## Page 48
- FMCD2009 / 2.0 
- 48 
+
   Program: Electronics & Communication Engineering Semester: III 
 Course Title: Analog Electronic Circuits Course Code: 22EECC202 
 L-T-P: 4-0-0 Credits: 4 Contact Hours:4 hrs/week 
@@ -1741,9 +1646,7 @@ common-drain circuits; poles and zeros in the transfer function (T1:4.4, 4.5, 4.
 4. 7.2, 4.7.3, 4.7.5, 4.7.6, 4.7.7; 4.8.1, 4.8.2, 4.8.3, 4.8.4, 4.9.1 to 4.9.3) 
 Unit III 
 Chapter 6: Feedback Amplifiers : 
- ## Page 49
- FMCD2009 / 2.0 
- 49 
+
 General feedback structure (Block schematic), Feedback desensitivity factor, positive and 
 negative feedback Nyquist stability Criterion, RC phase shift oscilla tor, wein bridge Oscillator , 
 merits of negative feedback, feedback topologies: series-shunt feedback amplifier, series-series 
@@ -1767,9 +1670,7 @@ Pearson Education, 2003
 6. J. Millman& A. Grabel, "Microelectronics"-2nd edition, McGraw Hill, 2017 
 7. Behzad Razavi,―Fundamentals of Microelectronics, 2nd edition Wiley; 2013 
   Back to Semester III 
-  ## Page 50
- FMCD2009 / 2.0 
- 50 
+
 Program: Electronics & Communication Engineering Semester: III 
 Course Title: Digital Circuits Course Code: 19 EECC201 
 L-T-P: 4-0-0 Credits: 4 Contact Hours: 4 hrs/week 
@@ -1812,18 +1713,14 @@ Text Books
 2006 
 3. A Anand Kumar, Fundamentals of digital circuits 4th Revised edition, PHI ,2016 
 Reference Books: 
- ## Page 51
- FMCD2009 / 2.0 
- 51 
+
 1. Charles H Roth, Fundamentals of Logic Design, 7th edition ,Cengage Learning, 2015 
 2. ZviKohavi, Switching and Finite Automata Theory Cambridge University Press; 3rd edition 
 October 2009 
 3. R.D. Sudhaker Samuel, Logic Design, Pearson Education ,2010 
 4. R P Jain, Modern Digital Electronics ,4th edition, McGraw Hill Education, 2009 
   Back to Semester III 
- ## Page 52
- FMCD2009 / 2.0 
- 52 
+
   Back to Semester III 
 Program: Electronics & Communication Engineering Semester: III 
 Course Title: Signals and Systems Course Code: 19EECC202 
@@ -1862,9 +1759,7 @@ Reference Books:
 2. Ganesh Rao and SatishT unga, Signals and Systems 1st edition, Cengage India, 2017 
 3. M. J. Roberts, Fundamentals of Signals and Systems 2nd edition, McGraw Hill Education, 
 2017 
- ## Page 53
- FMCD2009 / 2.0 
- 53 
+
   Program: Electronics & Communication Engineering Semester: III 
 Course Title: Digital Circuits Laboratory Experiments Course Code: 22EECP201 
 L-T-P: 0-0-1 Credits: 1 Contact Hours:2 hrs/week 
@@ -1891,9 +1786,7 @@ Spice Simulators (Avoid using drag n drop), before implementing the circuits on 
 4. K. A. Krishnamurthy―Digital lab primer‖, Pearson Education Asia Publications, 2003. 
 5. A.P. Malvino, ―Electronic Principles 7th edition, McGraw Hill Education, 2017 
   Back to Semester III 
-  ## Page 54
- FMCD2009 / 2.0 
- 54 
+
   Program: Electronics & Communication Engineering Semester: III 
 Course Title: Analog Electronics Laboratory Experiments Course Code: 22EECP202 
 L-T-P: 0-0-1 Credits: 1 Contact Hours:2 hrs/week 
@@ -1925,9 +1818,7 @@ Reference Books:
 2nd edition 2017 
 3. "Electronic Principles" by A.P. Malvino, 7thedition, McGraw Hill Education, 2017 
   Back to Semester III 
-  ## Page 55
- FMCD2009 / 2.0 
- 55 
+
   Program: Electronics & Communication Engineering Semester: III 
 Course Title: Microcontroller Architecture & Programming Course Code: 22EECF202 
 L-T-P: 2-0-1 Credits: 3 Contact Hours: 2 hrs/week 
@@ -1963,9 +1854,7 @@ Programming, Serial port programming in C.
   Chapter 8: 8051 interfacing and applications 
 Interfacing 8051 to LCD, Keyboard, ADC, DAC, Stepper Motor, DC Motor. 
   Chapter 9: Interrupts 
- ## Page 56
- FMCD2009 / 2.0 
- 56 
+
 Introduction to interrupts, interrupts vs polling, classification of interrupts, interrupt priority, 
 interrupt vector table, interrupt service routine 
 Text Books 
@@ -1976,9 +1865,7 @@ Janice Gillispie Mazidi', Pearson Education, 2003
   Reference Books: 
 1. "Programming and Customizing the 8051 Microcontroller ", by 'Predko', TMH. 
   Back to Semester III 
-  ## Page 57
- FMCD2009 / 2.0 
- 57 
+
   Program: Electronics & Communication Engineering Semester: III 
 Course Title: C Programming (for Diploma) Course Code: 18EECF204 
 L-T-P: 0-0-2 Credits: 2 Contact Hours:4 hrs/week 
@@ -2019,9 +1906,7 @@ ii) Print the pattern
 1 2 
 1 2 3 
 01 
- ## Page 58
- FMCD2009 / 2.0 
- 58 
+
 1 2 3 4 
 1 2 3 4 5 
 6. Write a C program to 
@@ -2046,9 +1931,7 @@ Find out addition of two matrices.
 Text Book 
 1. Programming in ANSI C, E Balagurusamy 
   Back to Semester III 
-  ## Page 59
- FMCD2009 / 2.0 
- 59 
+
   Program: Electronics & Communication Engineering Semester: IV 
 Course Title: Linear Algebra and Partial Differential 
 Equations 
@@ -2089,9 +1972,7 @@ Line integral, Cauchy 's theorem - corollaries, Cauchy 's integral for mula. Tay
 Series, Singularities, Poles, Residue theorem - problems. 
 Text Books 
 1. Simon Haykin, Barry Van Veen, Signals and Systems, 2ndedition, Wiley, 2007 
- ## Page 60
- FMCD2009 / 2.0 
- 60 
+
 2. Peter V. O'neil, Advanced Engineering Mathematics Cengage Learning Custom Publishing; 
 7th Revised edition2011 
 3. Dennis G Zilland Michael R Cullin,"Advanced Engineering Mathematics",4th edition, 
@@ -2101,9 +1982,7 @@ Reference Books:
 2. Stanley J Farlow, Partial differential equations for Scientists and Engineers, Dover 
 publications, INC, New York, 1993 
   Back to Semester IV 
-  ## Page 61
- FMCD2009 / 2.0 
- 61 
+
 Program: Electronics & Communication Engineering Semester: IV 
 Course Title: Problem Solving & Analysis Course Code: 22EHSH202 
 L-T-P: 0.5-0-0 Credits: 0.5 Contact Hours: 1 hrs/week 
@@ -2134,9 +2013,7 @@ Chand and Sons, New Delhi, 2018
 7. Cambridge Advanced Learner's Dictionary, Cambridge University Press. 
 8. Kaplan's GRE guide 
   Back to Semester IV 
-   ## Page 62
- FMCD2009 / 2.0 
- 62 
+
 Program: Electronics & Communication Engineering Semester: IV 
 Course Title: Electromagnetic Fields and Waves Course Code: 21EECC209 
 L-T-P: 3-0-0 Credits: 3 Contact Hours:3 hrs/week 
@@ -2182,13 +2059,9 @@ Education, 2018.
 2. R. K. Shevgaonkar, Electromagnetic Waves McGraw Hill Education; 1st edition, 2017 
 3. Mathew N. O. Sadiku, Elements of Electromagnetics; S ixth edition, Oxford University , 
 2015 
- ## Page 63
- FMCD2009 / 2.0 
- 63 
+
 Back to Semester IV 
-  ## Page 64
- FMCD2009 / 2.0 
- 64 
+
   Program: Electronics & Communication Engineering 
   Semester: IV 
 Course Title: Linear Integrated circuits Course Code: 19EECC203 
@@ -2231,9 +2104,7 @@ edition, 2015
 Reference Books: 
 1. A.S. Sedra & K.C. Smith, Microelectronic Circuits, 7th edition, Oxford University Press 
 2017 
- ## Page 65
- FMCD2009 / 2.0 
- 65 
+
   Back to Semester IV 
   2. Sergio Franco, Design with Operational Amplifiers and A nalog Integrated Circuits, , 3 rd 
 edition , MHE ,2012 
@@ -2241,9 +2112,7 @@ edition , MHE ,2012
 Press, 2011 
 4. B. Razavi, Design of Analog CMOS Integrated Circuits, Second edition, McGraw Hill 
 Education; 2017 
- ## Page 66
- FMCD2009 / 2.0 
- 66 
+
 Program: Electronics & Communication Engineering Semester: IV 
 Course Title: Control Systems Course Code: 22ECC206 
 L-T-P: 4-0-0 Credits: 4 Contact Hours:4 hrs/week 
@@ -2285,18 +2154,14 @@ vectors, Controllability, Observability.
 1. J. Nagrath and M. Gopal, Control Systems Engineering; Sixth edition, New Age 
 International Pvt Ltd 2018 
 2. B. C. Kuo, Automatic Control Systems, 9th edition, John wiley and Sons, 2014 
- ## Page 67
- FMCD2009 / 2.0 
- 67 
+
   Reference Books: 
 1. Katsuhiko Ogata, Modern Control Engineering, 5th edition, Pearson education India Pvt. 
 Ltd, 2015 
 2. Richord C Dorf and Robert H. Bishop, Modern Control Systems, 13th edition, Pearson; 
 2016 
   Back to Semester IV 
-  ## Page 68
- FMCD2009 / 2.0 
- 68 
+
 Course Title: ARM Processor & Applications Course Code:22EECC207 
 L-T-P: 3-0-0 Credits: 3 Contact Hours:3 hrs/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -2336,16 +2201,12 @@ Cenage Learning; 3rf edition 2007
 3. ARM Assembly Language fundamentals and Techniques by William Hohl, CRC press CRC 
 Press; 2nd edition, 2014 
 Reference Books: 
- ## Page 69
- FMCD2009 / 2.0 
- 69 
+
 1. ARM system Developer's Guide- Hardbound, Publication date: 2004 Imprint: 
 MORGANKAUFFMAN 
 2. User manual on LPC21XX. 
   Back to Semester IV 
-  ## Page 70
- FMCD2009 / 2.0 
- 70 
+
 Program: Electronics & Communication Engineering Semester: IV 
 Course Title: Digital System Design using Verilog Course Code: 22EECC208 
 L-T-P: 0-0-2 Credits: 2 Contact Hours:4 hrs/week 
@@ -2378,9 +2239,7 @@ edition, McGraw Hill Education 2017.
 4. Charles. H. Roth, Jr.,Lizy Kurian John ― Digital System Design using VHDL, Thomson, 2nd 
 Edition, 2008. 
   Back to Semester IV 
-  ## Page 71
- FMCD2009 / 2.0 
- 71 
+
 Program: Electronics & Communication Engineering Semester: IV 
 Course Title: Data Acquisition and Control Lab Course Code: 22EECP203 
 L-T-P: 0-0-1 Credits: 1 Contact Hours: 2 hrs/week 
@@ -2415,9 +2274,7 @@ Bode Plots
 To determine suitable compensator for the given system (PD, PI, PID Controller 
 using QuanserQube). 
   10. Structured Enquiry (16+16=32marks) 
- ## Page 72
- FMCD2009 / 2.0 
- 72 
+
  MOS Amplifier Design and implementation 
  Design and implement a PD control system using Co-simulation. 
   Text Books: 
@@ -2432,9 +2289,7 @@ Prentice Hall, 1985
 Press, 2011 
 3. Sedra and Smith ― Microelectronics Circuits, Sixth edition, Oxford University, 2013 
   Back to Semester IV 
-  ## Page 73
- FMCD2009 / 2.0 
- 73 
+
 Program: Electronics & Communication Engineering Semester: IV 
 Course Title: ARM Microcontroller Laboratory Experiments Course Code: 22EECP204 
 L-T-P: 0-0-1 Credits: 1 Contact Hours: 2 hrs/week 
@@ -2466,9 +2321,7 @@ number generation.
 Apply suitable machine dependent optimization technique and analyze for memory and time 
 consumed 
 5 Write a C program to test working of LEDs and seven segment using LPC2148. 
- ## Page 74
- FMCD2009 / 2.0 
- 74 
+
   6 Write a C program & demonstrate an interfacing of Alphanumeric LCD 2X16 panel and 4X4 
 keypad to LPC2148 Microcontroller. 
 7 Write an ALP to generate the following waveforms of different frequencies 
@@ -2492,9 +2345,7 @@ References:
 MORGANKAUFFMAN 
 2. User manual onLPC21XX. 
   Back to Semester IV 
-  ## Page 75
- FMCD2009 / 2.0 
- 75 
+
 Program: Electronics & Communication Engineering Semester: IV 
 Course Title: Data Structures Application Lab Course Code: 21EECF201 
 L-T-P: 0-0-2 Credits: 2 Contact Hours: 4 hrs/week 
@@ -2517,9 +2368,7 @@ Text Books
 C, Second Edition. 
 2. Aaron M. Tenenbaum, Data Structures Using C. 
   Back to Semester IV 
-   ## Page 76
- FMCD2009 / 2.0 
- 76 
+
 Program: Electronics & Communication Engineering Semester: IV 
 Course Title: Data Structures using C (Diploma) Course Code: 21EECF203 
 L-T-P: 0-0-3 Credits: 3 Contact Hours: 6 hrs/week 
@@ -2562,9 +2411,7 @@ a)Perform string handling functions like
 3. Strings compare. 
 4. String copy. 
 1 
- ## Page 77
- FMCD2009 / 2.0 
- 77 
+
 5. Strings reverse. 
 b) Implement Structures, union and bit-field 
 3 Programming on files. 2.00 0.00 
@@ -2607,9 +2454,7 @@ structures.
  Learning Outcomes: 
 The students should be able to: 
 3 
- ## Page 78
- FMCD2009 / 2.0 
- 78 
+
 Write a program using queue data structure for an 
 application. 
 6 Programs on 
@@ -2646,9 +2491,7 @@ The students should be able to:
 sorting techniques 
 1. Selection 
 5 
- ## Page 79
- FMCD2009 / 2.0 
- 79 
+
   2. Insertion 
 3. Bubble 
 4. Merge 
@@ -2675,9 +2518,7 @@ C", 2nd Edition, Course Technology, Oct 2009.
 7. Kernighan and Ritchie, The ANSI C programming Language, 2 ed., PHI. Robert Kruse, 
 Data Structures and Program Design in C, 2 ed., Pearson 
   Back to Semester IV 
-  ## Page 80
- FMCD2009 / 2.0 
- 80 
+
 Program: Electronics & Communication Engineering Semester: V 
 Course Title: CMOS VLSI Circuits Course Code: 19EECC301 
 L-T-P: 4-0-0 Credits: 4 Contact Hours:4 hrs/week 
@@ -2721,13 +2562,9 @@ Pablo Duarte, Navid Payvadosi, Ai Niknejad, Chenming Hu, Elsevier Publication, 2
 3. Douglas A Pucknell and Kamran Eshraghian, Basic VLSI Design, 3rd edition, PHI, 2005 
 4. Phillip. E. Allen, Douglas R. Holber g, CMOS Analog circuit Design, 3rd edition, Oxford 
 University, 2011 
- ## Page 81
- FMCD2009 / 2.0 
- 81 
+
 Back to Semester V 
-  ## Page 82
- FMCD2009 / 2.0 
- 82 
+
   Program: Electronics & Communication Engineering Semester: V 
 Course Title: Communication Systems Course Code: 23EECC302 
 L-T-P: 3-0-1 Credits: 4 Contact Hours:5 hrs/week 
@@ -2769,9 +2606,7 @@ Reference Books:
 3. Communication Systems by Harold. P.E, Stern Samy. A. Mahmond, Pearson Education, 
 2004. 
 4. Electronic communication systems, Kennedy and Davis, TMH, Edn. 6, 2012 
- ## Page 83
- FMCD2009 / 2.0 
- 83 
+
 Back to Semester V 
   Program: Electronics & Communication Engineering Semester: V 
 Course Title: Digital Signal Processing Course Code: 23EECC303 
@@ -2799,9 +2634,7 @@ edition, PHI, New Delhi, 2007
 Reference Books: 
 1. Oppenheim & Schaffer, Discrete Time Signal Processing, 5th edition, PHI, New Delhi, 2000 
   Back to Semester V 
-  ## Page 84
- FMCD2009 / 2.0 
- 84 
+
 Program: Electronics & Communication Engineering Semester: V 
 Course Title: Operating System and Embedded System Design Course Code: 22EECC304 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 hrs/week 
@@ -2843,15 +2676,11 @@ Bus Protocol, SPI, RS 485, wireless protocols (Bluetooth, 802.11 and its variant
   Chapter 7: Case study 
 Applications based on Cortex M series in RTOS environment 
   Reference Books: 
- ## Page 85
- FMCD2009 / 2.0 
- 85 
+
 1. Dhananjay Dhamdhere, Operating Systems a Concept Based Approach, 3rd edition, McGraw-
 HillEducation, 2017 
   Back to Semester V 
-  ## Page 86
- FMCD2009 / 2.0 
- 86 
+
 Program: Electronics & Communication Engineering Semester: V 
 Course Title: Machine Learning Course Code: 23EECC307 
 L-T-P: 2-0-1 Credits: 3 Contact Hours:4 hrs/week 
@@ -2894,9 +2723,7 @@ Unit III
 Chapter No. 6 Deep learning algorithms 
 Recurrent Neural Networks (RNN), Self -supervised models (Auto encoders and variants), 
 Generative Models (GAN, its variants and applications) 
- ## Page 87
- FMCD2009 / 2.0 
- 87 
+
   Back to Semester V 
   Chapter No. 7 Sequence to Sequence Learning 
 Attention networks, Transformer based architecture, Transformer for Time-Series 
@@ -2906,9 +2733,7 @@ Text Books
 Reference Books: 
 1. Trevor Hastie, Robert Tibshirani, Jerome Friedman, The Elements of Statistical Learning : 
 Data Mining Inference and Prediction, 2, Springer, 2009 
- ## Page 88
- FMCD2009 / 2.0 
- 88 
+
   Program: Electronics & Communication Engineering Semester: V 
 Course Title: CMOS VLSI Circuits Laboratory Experiments Course Code: 19EECP301 
 L-T-P: 0-0-1 Credits: 1 Contact Hours: 28Hrs 
@@ -2929,9 +2754,7 @@ Books/References:
 2. Neil Weste and K. Eshragian, Principles of CMOS VLSI Design: A System Perspective, 2 nd 
 edition, Pearson Education (Asia) Ptv. Ltd., 2000. 
   Back to Semester V 
-  ## Page 89
- FMCD2009 / 2.0 
- 89 
+
 Program: Electronics & Communication Engineering Semester: V 
 Course Title: RTOS Lab Course Code: 22EECP302 
 L-T-P: 0-0-1 Credits: 1 Contact Hours: 2 hrs/week 
@@ -2967,9 +2790,7 @@ Manual
 1. LPC2148 datasheet by NXP . 
 2. LPC2148 board manual by ALS, Bangalore. 
 Back to Semester V 
- ## Page 90
- FMCD2009 / 2.0 
- 90 
+
   Program: Electronics & Communication Engineering Semester: V 
 Course Title: Mini Project Course Code: 23EECW301 
 L-T-P: 0-0-3 Credits: 3 Contact Hours: 6 hrs/week 
@@ -3006,9 +2827,7 @@ FPGA, CPLD, Assembl
 y/Highlevel /HDL) 
 Control System 
 Output 
- ## Page 91
- FMCD2009 / 2.0 
- 91 
+
 Back to Semester V 
   Program: Electronics & Communication Engineering Semester: V 
 Course Title: Arithmetical Thinking and Analytical Reasoning Course Code: 23EHSA303 
@@ -3036,9 +2855,7 @@ Delhi, 2018
 5. Cambridge Advanced Learner's Dictionary, Cambridge University Press. 
 6. Kaplan's GRE guide 
   Back to Semester V 
-   ## Page 92
- FMCD2009 / 2.0 
- 92 
+
   Back to Semester VI 
    Program: Electronics & Communication Engineering Semester: VI 
 Course Title: Professional Aptitude and Logical reasoning Course Code: 23EHSA302 
@@ -3061,9 +2878,7 @@ and Sons, New Delhi
 Reference Books: 
 1. Verbal and Non - Verbal Reasoning - Dr. Ravi Chopra, MacMillan India 
 2. Lateral Thinking - Dr. Edward De Bono, Penguin Books, New Delhi 
- ## Page 93
- FMCD2009 / 2.0 
- 93 
+
 Program: Electronics & Communication Engineering Semester: VI 
 Course Title: Industry Readiness & Leadership Skills Course Code: 23EHSA304 
 L-T-P: 0-0-0 Credits: 0 Contact Hours: 1 hrs/week 
@@ -3088,9 +2903,7 @@ Reference Books:
 4. John Maxwell - The 17 Essential Qualities of a Team Player, HarperCollins Leadership 
 5. Robin Ryan - 60 Seconds and You're Hired! - Penguin Books 
   Back to Semester VI 
-   ## Page 94
- FMCD2009 / 2.0 
- 94 
+
 Program: Electronics & Communication Engineering Semester: VI 
 Course Title: Automotive Electronics Course Code: 22EECC305 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 hrs/week 
@@ -3137,9 +2950,7 @@ Chapter No: 7. Diagnostics and Reliability
 Discussion of legislated state, federal and international requirements. On -board aut omotive 
 sensors to monitor vehicle operation, typical diagnostic algorithms. Analytical methods for 
 designing fault-tolerant systems and assessing vehicle reliability, including safety critical systems 
- ## Page 95
- FMCD2009 / 2.0 
- 95 
+
 and 'limp-home' modes. Use of handheld scanners and sp ecialized diagnostic equipment to 
 classify faults. Diagnostic protocols: KWP2000 and UDS. 
 Text Books 
@@ -3153,9 +2964,7 @@ Reference Books:
 Techniques, Elsevier Science, 2001 
 4. Nicholas Navet , Automotive Embedded System Handbook , 2009 
   Back to Semester VI 
-   ## Page 96
- FMCD2009 / 2.0 
- 96 
+
 Program: Electronics & Communication Engineering Semester: VI 
 Course Title: Computer Communication Networks I Course Code: 23EECC306 
 L-T-P: 4-0-0 Credits: 4 Contact Hours: 4 hrs/week 
@@ -3190,9 +2999,7 @@ Reference Books:
 2. Larry L. Peterson and Bruce S. Davie, Computer Networks A Systems App roach, : 4th Edition, 
 Elsevier 
   Back to Semester VI 
-  ## Page 97
- FMCD2009 / 2.0 
- 97 
+
 Program: Electronics & Communication Engineering Semester: VI 
 Course Title: Computer Communication Networks I Lab Course Code: 23EECP303 
 L-T-P: 0-0-1 Credits: 1 Contact Hours: 2 hrs/week 
@@ -3217,9 +3024,7 @@ Reference Books:
 1. Cisco networking academy, https://www.netacad.com/ 
 2. Juniper networking academy, https://learningportal.juniper.net/ 
   Back to Semester VI 
-  ## Page 98
- FMCD2009 / 2.0 
- 98 
+
 Program: Electronics & Communication Engineering Semester: VI 
 Course Title: Automotive Electronics Lab Course Code: 22EECP304 
 L-T-P: 0-0-1 Credits: 1 Contact Hours: 2 hrs/week 
@@ -3244,9 +3049,7 @@ platform.
 1. Ribbens, Understanding of Automotive electronics, 6th, Elsevier, 2003 
 2. Denton.T , Automobile Electrical and Electronic Systems, 5th edition, Routledge, 2017 
   Back to Semester VI 
-  ## Page 99
- FMCD2009 / 2.0 
- 99 
+
   Program: Electronics & Communication Engineering Semester: VI 
 Course Title: Minor Project I Course Code: 23EECW302 
 L-T-P: 1-0-4 Credits: 5 Contact Hours: 9 hrs/week 
@@ -3286,9 +3089,7 @@ of various stages in the implementation of the project. At every stage of the pr
 development, guide should help towards its successful completion as per the predefined 
 standards. 
   How student should carry out a project: 
- ## Page 100
- FMCD2009 / 2.0 
- 100 
+
 1. Define the problem 
 2. Specify the requirements 
 3. Specify the design in an understandable form (Block Diagram, Flowchart, Algorithm, etc) 
@@ -3302,9 +3103,7 @@ standards.
 1. The format for report writing should be downloaded from ftp://10.3.0.3/minorprojects 
 2. The report needs to be shown to guide and committee for each review. 
   Back to Semester VI 
-  ## Page 101
- FMCD2009 / 2.0 
- 101 
+
 Program: Electronics & Communication Engineering Semester: VI 
 Course Title: Analog Integrated Circuit Design Course Code: 23EECE301 
 L-T-P: 2-0-1 Credits: 3 Contact Hours:4 hrs/week 
@@ -3335,9 +3134,7 @@ Reference Books:
 1. Baker, Li, Boyce, "CMOS: Circuit Design, Layout and Simulation ", Prentice Hall of India, 
 2000 
   Back to Elective 
-   ## Page 102
- FMCD2009 / 2.0 
- 102 
+
 Program: Electronics & Communication Engineering Semester: VI 
 Course Title: Introduction to Deep Learning Course Code: 23EECE322 
 L-T-P: 2-0-1 Credits: 3 Contact Hours:4 hrs/week 
@@ -3378,9 +3175,7 @@ Text Books
 1. Deep learning Ian Good fellow, Yoshua Bengio, Aaron Courville, MIT Press 
 2. Neural Networks and Deep Learning by Michael Nielsen 
 Back to Elective 
-  ## Page 103
- FMCD2009 / 2.0 
- 103 
+
 Program: Electronics & Communication Engineering Semester: VI 
 Course Title: Architectural Design of Integrated Circuits Course Code: 23EECE302 
 L-T-P: 2-0-1 Credits: 3 Contact Hours: 4 hrs/week 
@@ -3408,9 +3203,7 @@ Reference Books:
 3. Principles of VLSI RTL Design: A Practical Guide by Sapan Garg, 2011. 
   Tools: Questa Sim, NC Verilog, NC Sim, CVER + GTKWave, VCSMX, Modelsim for Verilog 
   Back to Elective 
-  ## Page 104
- FMCD2009 / 2.0 
- 104 
+
 Program: Electronics & Communication Engineering Semester: VI 
 Course Title: Internet of Things and its Applications Course Code: 23EECE307 
 L-T-P: 2-0-1 Credits: 3 Contact Hours: 4 hrs/week 
@@ -3456,16 +3249,12 @@ Edition, VPT, 2014. (ISBN: 978-8173719547)
 Reference Books: 
 1. Daniel Minoli, "Building the Internet of Things with IPv6 and MIPv6: The Evolving World 
 of M2M Communications", ISBN: 978-1-118- 47347-4, Willy Publications 
- ## Page 105
- FMCD2009 / 2.0 
- 105 
+
 2. Peter Waher, "Learning Internet of Things", PACKT publishing, BIRMINGHAM - MUMBAI 
 3. Bernd Scholz-Reiter, Florian Michahelles, "Architecting the Internet of Things", ISBN 
 4. 978-3-642-19156-5 e-ISBN 978-3-642-19157-2, Springer 
   Back to Elective 
-  ## Page 106
- FMCD2009 / 2.0 
- 106 
+
   Back to Elective 
 Program: Electronics & Communication Engineering Semester: VI 
 Course Title: Information Theory and Coding Course Code: 21EECE308 
@@ -3504,9 +3293,7 @@ References
 1. Ranjan Bose, ITC and Cryptography, TMH(reprint 2007), 2002 
 2. Glover and Grant, Digital Communications , 2, Pearson, 2008 
 3. D Ganesh Rao, K N Haribhat, Digital Communications, Sanguine, 2009 
- ## Page 107
- FMCD2009 / 2.0 
- 107 
+
   Program: Electronics & Communication Engineering Semester: VI 
 Course Title: Embedded Intelligent Systems Course Code: 23EECE310 
 L-T-P: 1-0-2 Credits: 3 Contact Hours: 5 hrs/week 
@@ -3547,9 +3334,7 @@ Experiment/job Details
   2. Implement toolchain, linker, and loaders while building Hello World on the host, then execute 
 on target. 
   3. Basic OpenCL examples - Coding, compilation, and execution 
-  ## Page 108
- FMCD2009 / 2.0 
- 108 
+
 4. High-level language to assembly language translation - optimization and power management. 
   5. Implementation of Caffe TensorFlow, TF Lite machine learning frameworks & architecture. Execution 
 of sample programs with various pre-trained models 
@@ -3560,9 +3345,7 @@ Distillation execution with parameters.
   9. Design an ML/DL model for a given problem targeted at Android devices with different architectures 
 based on provided specifications. 
   Back to Elective 
-  ## Page 109
- FMCD2009 / 2.0 
- 109 
+
 Program: Electronics & Communication Engineering Semester: VI 
 Course Title: Multicore Architecture and Programming Course Code: 23EECE340 
 L-T-P: 2-0-1 Credits: 3 Contact Hours: 4 hrs/week 
@@ -3606,9 +3389,7 @@ References:
 2. Highly Recommended for Embedded system and Real Time basics - Programming 
 Embedded Systems with C and GNU Development Tools - Michael Barr 
   Back to Elective 
- ## Page 110
- FMCD2009 / 2.0 
- 110 
+
   Program: Electronics & Communication Engineering Semester: VI 
 Course Title: OOPS using C++ Course Code: 23EECE321 
 L-T-P: 2-0-1 Credits: 3 Contact Hours: 4 hrs/week 
@@ -3643,9 +3424,7 @@ References
 1. Lippman S B, Lajorie J, Moo B E, C++ Primer, 5ed, Addison Wesley, 2013. 
 2. Herbert Schildt: The Complete Reference C++, 4th Edition, Tata McGraw Hill 
   Back to Elective 
-  ## Page 111
- FMCD2009 / 2.0 
- 111 
+
 Program: Electronics & Communication Engineering Semester: VI 
 Course Title: Multimodal Machine Learning Course Code: 23EECE327 
 L-T-P: 2-0-1 Credits: 3 Contact Hours: 4 hrs/week 
@@ -3678,9 +3457,7 @@ Response based, Feature based and Relation based knowledge distillation models
 Techniques for evaluating multimodal machine learning models and optimizing their 
 performance, including metrics, cross-validation, and hyperparameter tuning 
 Back to Elective 
-   ## Page 112
- FMCD2009 / 2.0 
- 112 
+
   Program: Electronics & Communication Engineering Semester: VI 
 Course Title: Digital Image Processing Course Code: 23EECE328 
 L-T-P: 2-0-1 Credits: 3 Contact Hours: 4 hrs/week 
@@ -3714,9 +3491,7 @@ Text Books (List of books as mentioned in the approved syllabus)
   References: 
 1. A.K. Jain, ''Fundamentals of Digital Image Processing", Pearson Education (Asia) Pvt. Ltd. 
   Back to Elective 
-  ## Page 113
- FMCD2009 / 2.0 
- 113 
+
 Program: Electronics & Communication Engineering Semester: VII 
 Course Title: Wireless and Mobile Networks Course Code: 24EECC403 
 L-T-P: 2-0-1 Credits: 3 Contact Hours: 4 hrs/week 
@@ -3758,9 +3533,7 @@ Parkvall, Johan Sköld , Academic Press
 2. Larry L. Peterson and Bruce S. Davie, Computer Networks A Systems Approach, : 4th 
 Edition, Elsevier , 2007 
 Back to Semester VII 
-  ## Page 114
- FMCD2009 / 2.0 
- 114 
+
   Program: Electronics & Communication Engineering Semester: VII 
 Course Title: Senior Design Project Course Code: 20EECW401 
 L-T-P: 0-0-6 Credits: 6 Contact Hours: 12 hrs/week 
@@ -3798,9 +3571,7 @@ standards.
 • Specify the requirements. 
 • Specify the design in the understandable form (Block Diagram, Flowchart, 
 Algorithm, etc). 
- ## Page 115
- FMCD2009 / 2.0 
- 115 
+
 • Analyze the design and identify hardware and software components separately. 
 • Select appropriate simulation tool and development board for the design. 
 • Implement the design. 
@@ -3817,9 +3588,7 @@ Evaluation Scheme
 marks. 
 • The review committee for 50% of the marks shall evaluate project. 
   Back to Semester VII 
-  ## Page 116
- FMCD2009 / 2.0 
- 116 
+
 Program: Electronics & Communication Engineering Semester: VII 
 Course Title: CIPE & EVS Course Code: 15EHSA401 
 L-T-P: 2-0-0 Credits: Audit Contact Hours: 2 hrs/week 
@@ -3863,9 +3632,7 @@ Text Book (List of books as mentioned in the approved syllabus)
 1. Dr. J. N. Pandey, "Constitutional Law of India", Central Law Agency, 2005 
 2. Dr. M.K. Bhandari, "Law relating to Intellectual Property Rights", Central Law Publications, 
 Allahabad, 2010. 
- ## Page 117
- FMCD2009 / 2.0 
- 117 
+
 3. Charles E. Harris and others, "Engineering Ethics: Concepts and Cases ", Thomson 
 Wadsworth, 2003 
   References 
@@ -3873,9 +3640,7 @@ Wadsworth, 2003
 2. Mike Martin and Ronald Schinzinger, "Ethics in Engineering ", Tata McGraw -Hill 
 Publications. 
   Back to Semester VII 
-   ## Page 118
- FMCD2009 / 2.0 
- 118 
+
 Program: Electronics & Communication Engineering Semester: VII 
 Course Title: System Verilog for Verification Course Code: 24EECE418 
 L-T-P: 2-0-1 Credits: 3 Contact Hours:4 hrs/week 
@@ -3907,9 +3672,7 @@ Reference Books
 testbench language features - Springer, 2012 
 Tools: Questa Sim, NC Verilog, NC Sim, CVER + GTK Wave, VCSMX, Mode lsim for Verilog 
   Back to Elective 
-  ## Page 119
- FMCD2009 / 2.0 
- 119 
+
 Program: Electronics & Communication Engineering Semester: VII 
 Course Title: Speech Processing Course Code: 24EECE422 
 L-T-P: 2-0-1 Credits: 3 Contact Hours: 4 hrs/week 
@@ -3949,15 +3712,11 @@ Wiley-IEEE Press, NY , USA, 1999.
 1. D. O 'Shaughnessy, Speech Communications: Human and Machine, Second Edition, 
 University Press, 2005. 
 2. T. F. Quatieri, "Discrete time processing of speech signals", Pearson Education, 2005. 
- ## Page 120
- FMCD2009 / 2.0 
- 120 
+
 3. L. R. Rabiner, B. H. Jhuang and B. Yegnanarayana, "Fundamentals of speech recognition", 
 Pearson Education, 2009. 
   Back to Elective 
-  ## Page 121
- FMCD2009 / 2.0 
- 121 
+
 Program: Electronics & Communication Engineering Semester: VII 
 Course Title: Multimedia Communication Course Code: 18EECE410 
 L-T-P: 3-0-0 Credits: 3 Contact Hours:3 hrs/week 
@@ -3991,9 +3750,7 @@ Applications", Pearson Education, 2004
 communication systems: Techniques, Standards, & Networks ",. Second Indian reprint, 
 2004. 
   Back to Elective 
-  ## Page 122
- FMCD2009 / 2.0 
- 122 
+
 Program: Electronics & Communication Engineering Semester: VII 
 Course Title: Physical Design - Analog Course Code: 18EECE419 
 L-T-P: 0-0-3 Credits: 3 Contact Hours:6 hrs/week 
@@ -4020,9 +3777,7 @@ References
 2. CMOS IC layout - Dan Clien 
 3. IC Layout Basics - Chris saint and Judy saint 
   Back to Elective 
-  ## Page 123
- FMCD2009 / 2.0 
- 123 
+
 Program: Electronics & Communication Engineering Semester: VII 
 Course Title: CMOS ASIC Design Course Code: 24EECE420 
 L-T-P: 2-0-1 Credits: 3 Contact Hours: 4 hrs/week 
@@ -4053,9 +3808,7 @@ Compiler and Prime Time, 2nd edition, 2001.
 Chadha, SpringerScience+Business Media, LLC 2009 
 Tools: Cadence Innovous, Encounter 
   Back to Elective 
-  ## Page 124
- FMCD2009 / 2.0 
- 124 
+
 Program: Electronics & Communication Engineering Semester: VII 
 Course Title: Microwave & Antenna Course Code: 23EECE411 
 L-T-P: 3-0-0 Credits: 3 Contact Hours:3 hrs/week 
@@ -4096,9 +3849,7 @@ References
 3. K. D. Prasad, "Antenna and wave propagation" first edition, 1990. 
 4. C. A. Blains "Antenna theory and analysis and design", third edition, 1999. 
   Back to Elective 
-  ## Page 125
- FMCD2009 / 2.0 
- 125 
+
 Program: Electronics & Communication Engineering Semester: VII 
 Course Title: AUTOSAR Course Code: 20EECE406 
 L-T-P: 3-0-0 Credits: 3 Contact Hours:3 hrs/week 
@@ -4136,9 +3887,7 @@ Network management, Protocol data unit router, Diagnostic log and trace unit, CO
 Text Book (List of books as mentioned in the approved syllabus) 
       1. Ronald K. Jurgen, Infotainment systems, 2007, SAE International, 2007 
 Back to Elective 
-  ## Page 126
- FMCD2009 / 2.0 
- 126 
+
 Program: Electronics & Communication Engineering Semester: VII 
 Course Title: Human Machine Interface Course Code: 23EECE428 
 L-T-P: 2-0-1 Credits: 3 Contact Hours:4 hrs/week 
@@ -4173,9 +3922,7 @@ Eds. G. A. Boy, CRC Press.
 Addison-Wesley. 
 4. Tutorials for tools/ libraries: Blender, GIMP, GTK, QT, unity, OpenGL 
   Back to Elective 
-   ## Page 127
- FMCD2009 / 2.0 
- 127 
+
   Back to Elective 
   Program: Electronics & Communication Engineering Semester: VII 
 Course Title: Wireless & Mobile Communication Course Code: 24EECE432 
@@ -4211,9 +3958,7 @@ Techniques, Prentice Hall of India, 2004
 2. Vijay K Garg, IS_95 CDMA and cdma 2000, Pearson publication pvt. Ltd, 2004 
 3. Xiaodong Wang and Vincent Poor, wireless Communicating system: Advanced 
 Techniques for signal Reception, Pearson publication pvt. Ltd, 2004 
- ## Page 128
- FMCD2009 / 2.0 
- 128 
+
 Program: Bachelor of Engineering (Electronics & 
 Communication Engineering) 
 Semester: VII 
@@ -4257,9 +4002,7 @@ Understanding network slicing concepts and its role in enabling customized servi
 Implementation of network slicing and QoS management using SDN principles and open-source 
 software platforms 
 Overview of emerging technologies beyond 5G NR, research challenges, and opportunities 
- ## Page 129
- FMCD2009 / 2.0 
- 129 
+
 Unit III 
 Chapter No. 6. Software-Defined Networking and Virtualization 
 OpenFlow Concepts : Match fields and actions in OpenFlow protocol Flow tables and pipeline 
@@ -4282,9 +4025,7 @@ Reference Books:
 2. "Software Defined Networks: A Comprehensive Approach" by Paul Goransson, Chuck 
 Black (Morgan Kaufmann) 
   Back to Elective 
-  ## Page 130
- FMCD2009 / 2.0 
- 130 
+
 Program: Bachelor of Engineering (Electronics & 
 Communication Engineering) 
 Semester: VII 
@@ -4329,15 +4070,11 @@ Reference Books:
 61508", David Smith, Kenneth Simpson, Elsvier 
 2. "Assessment of Safety Standards for Automotive Electronic Control Systems ", Van Eikema 
 Hommes, Qi D, National Highway Traffic Safety Administration 
- ## Page 131
- FMCD2009 / 2.0 
- 131 
+
   Back to Elective 
    3. "Functional Safety: A Straightforward Guide to Applying IEC 61508 and Related Standards", 
 David J. Smith and Kenneth G. L. Simpson. 
- ## Page 132
- FMCD2009 / 2.0 
- 132 
+
 Program: Bachelor of Engineering (Electronics & 
 Communication Engineering) 
 Semester: VII 
@@ -4385,9 +4122,7 @@ methodologies and scalability, Integration of LLMs in various generati ve tasks,
 transfer learning with LLMs, Building and deploying LLM-based applications. 
 Unit III 
 Chapter 7: Advanced Topics in Generative AI: 
- ## Page 133
- FMCD2009 / 2.0 
- 133 
+
 Flow-Based Models, Invertibility, Volume Preservation, Normalizing Flows, Invertible 
 Convolution, Coupling Layers Sparse Attention Mechanisms, Multimodal Generative Models, 
 Meta-Learning and Few -Shot Learning, Continual Learning and Transfer Learning, Privacy -
@@ -4396,9 +4131,7 @@ Chapter 8: Ethical Considerations and Responsible AI:
 Bias and fairness in generative AI models, Privacy concerns and data protection in generative AI 
 applications, Responsible use of generative models in society 
 Back to Elective 
-  ## Page 134
- FMCD2009 / 2.0 
- 134 
+
 Program: Bachelor of Engineering (Electronics & 
 Communication Engineering) 
 Semester: VII 
@@ -4438,9 +4171,7 @@ using a commercial router such as In Novus
 2012. 
 4. Rao R Tummala, Fundamentals of Microsystems Packaging, McGraw Hill, 2001. 
   Back to Elective 
- ## Page 135
- FMCD2009 / 2.0 
- 135 
+
 Program: Bachelor of Engineering (Electronics & 
 Communication Engineering) 
 Semester: VIII 
@@ -4477,9 +4208,7 @@ Reference books:
 1. Lippman S B, Lajorie J, Moo B E, C++ Primer, 5ed, Addison Wesley, 2013. 
 2. Herbert Schildt: The Complete Reference C++, 4th Edition, Tata McGraw Hill 
   Back to Elective 
-   ## Page 136
- FMCD2009 / 2.0 
- 136 
+
   Back to Elective 
   Program: Bachelor of Engineering (Electronics & 
 Communication Engineering) 
@@ -4514,9 +4243,7 @@ Course Title: Phase-locked loops(Swayam) Course Code:22EECE432
 L-T-P: 0-0-3 Credits:3 Contact Hours:6 hrs/week 
 ISA Marks:100 ESA Marks: Total Marks:100 
 Teaching Hours:42Hrs Examination Duration:3Hrs 
- ## Page 137
- FMCD2009 / 2.0 
- 137 
+
 Program: Bachelor of Engineering (Electronics & 
 Communication Engineering) 
 Semester: VII 
@@ -4525,9 +4252,7 @@ L-T-P: 0-0-3 Credits:3 Contact Hours:6 hrs/week
 ISA Marks:100 ESA Marks: Total Marks:100 
 Teaching Hours:42Hrs Examination Duration:3Hrs 
 Back to Elective 
-  ## Page 138
- FMCD2009 / 2.0 
- 138 
+
 Program: Bachelor of Engineering (Electronics & 
 Communication Engineering) 
 Semester: VIII 
@@ -4568,17 +4293,13 @@ encoders, structure of Auto encoders, collaborative filtering with RBM, Deep bel
 1. Deep Learning, Ian Goodfellow and Yoshua Bengio and Aaron Courville, MIT Press, 
 http://www.deeplearningbook.org, 2016. 
 2. Neural Networks and Deep Learning by Michael Nielsen. 
-  ## Page 139
- FMCD2009 / 2.0 
- 139 
+
 Reference books: 
 1. Deep Learning with Python, Francois Chollet, by Manning Publications, 2018. 
 2. Deep Learning by Microsoft Research 
 3. Deep Learning Tutorial by LISA lab, University of Montreal 
   Back to Elective 
-   ## Page 140
- FMCD2009 / 2.0 
- 140 
+
 Program: Bachelor of Engineering (Electronics & 
 Communication Engineering) 
 Semester: VIII 
@@ -4616,9 +4337,7 @@ Pearson.
   Reference books: 
 1. A.K. Jain, ''Fundamentals of Digital Image Processing", Pearson Education (Asia) Pvt. Ltd. 
   Back to Elective 
-   ## Page 141
- FMCD2009 / 2.0 
- 141 
+
 Program: Electronics & Communication Engineering Semester: VIII 
 Course Title: MEMS Course Code: 23EECE403 
 L-T-P: 2-0-1 Credits: 3 Contact Hours: 4 hrs/week 
@@ -4656,9 +4375,7 @@ Text Book:
 3. "RF MEMS: Theory, Design, and Technology", Gabriel M. Rebeiz, John Wiley & Sons 
 Publication, 2003. 
   Back to Elective 
-  ## Page 142
- FMCD2009 / 2.0 
- 142 
+
   Program: Electronics & Communication Engineering Semester: VIII 
 Course Title: Automotive Electronics Course Code: 18EECO403 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 hrs/week 
@@ -4701,9 +4418,7 @@ Advanced Driver Assistance Systems (ADAS), Autonomous vehicle basics, sensing, p
 controls for autonomous driving, connected vehicles. 
 Functional Safety: Need for safety standard-ISO 26262, safety concept, safety process for product 
 life cycle, safety by design, validation. 
- ## Page 143
- FMCD2009 / 2.0 
- 143 
+
 Chapter No:7. Diagnostics and Reliability 
 Discussion of legislated state, federal and international requirements. On -board automotive 
 sensors to monitor vehic le operation, typical diagnostic algorithms. Analytical methods for 
@@ -4721,9 +4436,7 @@ Reference Books:
 Techniques, Elsevier Science, 2001 
 4. Nicholas Navet , Automotive Embedded System Handbook ,2009 
   Back to Elective 
-  ## Page 144
- FMCD2009 / 2.0 
- 144 
+
 Program: Electronics & Communication Engineering Semester: VIII 
 Course Title: Project Work Course Code: 20EECW402 
 L-T-P: 0-0-11 Credits: 11 Contact Hours: 22 hrs/week 
@@ -4764,9 +4477,7 @@ etc).
 • Analyze the design and identify hardware and software components separately. 
 • Select appropriate simulation tool and development board for the design. 
 • Implement the design. 
- ## Page 145
- FMCD2009 / 2.0 
- 145 
+
 • Optimize the design and generate the results. 
 • Result representation and analysis. 
 • Prepare a document and presentation. 
@@ -4780,9 +4491,7 @@ Evaluation Scheme
 • Project shall be reviewed and evaluated by the concerned Guide for 50% of the marks. 
 • Project shall be evaluated by the review committee for 50% of the marks. 
   Back to Semester VIII 
-  ## Page 146
- FMCD2009 / 2.0 
- 146 
+
 Program: Electronics & Communication Engineering Semester: VIII 
 Course Title: Internship- Training Course Code: 18EECI493 
 L-T-P: 0-0-6 Credits: 6 Contact Hours: 12 hrs/week 
@@ -4802,9 +4511,7 @@ Evaluation parameters for Internship Training
  Conclusions and discussion 
  Presentation skills 
   Back to Semester VIII 
-   ## Page 147
- FMCD2009 / 2.0 
- 147 
+
 Program: Electronics & Communication Engineering Semester: VIII 
 Course Title: Internship- Project Course Code: 20EECW494 
 L-T-P: 0-0-11 Credits: 11 Contact Hours: 22 hrs/week 
@@ -4823,5 +4530,4 @@ Evaluation parameters for Internship Project
  Reflection on results 
  Conclusions and discussion 
  Presentation skills 
-  Back to Semester VIII 
-  
+  Back to Semester VIII

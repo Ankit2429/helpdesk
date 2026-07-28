@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: KLETECH_ECE_SERB-JRF_Call_for_2025"
+title: "KLE Tech Ece Serb Jrf Call For 2025"
 category: "miscellaneous"
 subcategory: "KLETECH"
 document_type: "document"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["communication", "document", "engineering", "experience", "research", "university"]
 aliases: ["CSE", "CS", "ECE", "EC", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "2"
 ---
-# PDF Document: KLETECH_ECE_SERB-JRF_Call_for_2025
- **PDF Source:** https://www.kletech.ac.in/pdf/KLETECH_ECE_SERB-JRF_Call_for_2025.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/KLETECH_ECE_SERB-JRF_Call_for_2025.pdf
  KLE Technological University 
 School of Electronics and Communication Engineering 
 BVB Campus, Vidyanagar, Hubballi, Karnataka - 580031 
@@ -54,7 +54,6 @@ suneeta_vb@kletech.ac.in. For more details, visit: www.kletech.ac.in/career on o
   The shortlisted candidates will be informed by E-mail/Phone. Selection will be based on qualification, 
 experience, and performance in the interview. KLE Technological University, Hubballi , reserves the right to 
 reject any or all the applications without assigning any reasons thereof. 
- ## Page 2
  KLE Technological University 
 School of Electronics and Communication Engineering 
 BVB Campus, Vidyanagar, Hubballi, Karnataka - 580031 
@@ -91,5 +90,4 @@ Sl.no. Duration Organization Designation Nature of work
 incorrect, I may be disallowed to appear for the interview/test or terminated at any stage. 
   Place : 
   Date: 
-  Signature of the candidate 
-  
+  Signature of the candidate

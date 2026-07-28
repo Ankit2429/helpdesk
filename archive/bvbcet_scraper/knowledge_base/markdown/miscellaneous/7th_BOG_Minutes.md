@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 7th_BOG_Minutes"
+title: "BOG Minutes"
 category: "miscellaneous"
 subcategory: ""
 document_type: "syllabus"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["course", "document", "research", "shall", "student", "university"]
 aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "EEE", "EE", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "93"
 ---
-# PDF Document: 7th_BOG_Minutes
- **PDF Source:** https://www.kletech.ac.in/pdf/7th_BOG_Minutes.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/7th_BOG_Minutes.pdf
  Minutes 
   7th Board of Governors Meeting 
 of 
@@ -23,7 +23,6 @@ Hubballi, Karnataka
 September 20th, 2017 
   Venue: Sri. S. Nijalingappa College 
 Bengaluru 
-  ## Page 2
  ii 
   The following are the minutes of the Board of Governors Meeting of KLE Technological 
 University, Hubballi which was held on 20th September 2017 at 11.30 am., in the office of 
@@ -72,7 +71,6 @@ Member
 Registrar 
 KLE Technological University, Hubballi 
 Registrar 
-  ## Page 3
  iii 
   Agenda 
   Item No. Particulars Page No 
@@ -113,7 +111,6 @@ postgraduate programmesof KLE Technological University 2015
   Annexure 4: Provisional Degree Certificate and Degree Certificate 
   Annexure 5: Curriculum Structure and Syllabus Minor in Automotive 
 Engineering 
-  ## Page 4
  1 
   BOG 7.1 To confirm the minutes of the previous meeting held on 
 17th February 2017. 
@@ -155,7 +152,6 @@ Hubballi.
 7. Opening of Saving /Fixed Deposit Account in the name of Registrar, 
 KLE Technological University with RBL Bank Ltd at Hubballi branch. 
 BOG 6.4: To consider the Schemes and Syllabi as listed below of Undergraduate Minor Degree 
- ## Page 5
  2 
   Programmes of 2017-18 batches and approve the same. These are as per the 
 recommendations of the respective Board of studies and approvals by the Academic 
@@ -195,7 +191,6 @@ BOG 6.7: To discuss and approve the University Annual Report for the academic ye
 Resolution 6.7: BOG considered the recommendations of the Executive Council and 
 approved the Annual report of the University for the academic year 
 2015-16. 
-  ## Page 6
  3 
   Action Requested: To confirm the minutes of the previous meeting held on 17th February 
 2017. 
@@ -211,7 +206,6 @@ resolution 6.5:
 Titles of B.Sc programmes will be - 
  B.Sc (Computer Science) 
  B.Sc (Electronics) 
- ## Page 7
  4 
   BOG 7.2 To confirm the action taken report on the minutes of the previous meeting held on 17th 
 February 2017. 
@@ -258,7 +252,6 @@ the name of Registrar, KLE
 Technological University in AXIS 
 and RBL banks have been 
 opened. 
- ## Page 8
  5 
   Technological University Act - 2012. 
  General Fund as per the provisions of the KLE Technological 
@@ -291,7 +284,6 @@ The approved Undergraduate Minor
 Degree Programmes have been 
 offered to the students of 4th 
 semester. 
- ## Page 9
  6 
   4. Minor in Innovation and Product Development 
 5. Minor in Robotics 
@@ -325,7 +317,6 @@ website.
   Action Requested: The BOG is requested to confirm the action taken report on the minutes of the previous meeting held on 17th 
 February 2017. 
   Discussion: 
- ## Page 10
  7 
   Item BOG 6.3 
 Dr. Prabhakar Kore, Chairman of BOG expressed that although the University is following the Fee structure as 
@@ -342,7 +333,6 @@ held on 17th February 2017 with incorporating following changes in resolution 6.
 Titles of B.Sc programmes will be - 
  B.Sc (Computer Science) 
  B.Sc (Electronics) 
-  ## Page 11
  8 
   BOG 
 7. 3 
@@ -384,7 +374,6 @@ Resolution 7.3: Resolved to approve the audited statements of the
 financial year 2016-17 and budget for the year 2018-19 as 
 recommended by the 3rd Finance Council, which was held on 16th 
 September 2017. 
- ## Page 12
  9 
   BOG 
 7. 4 
@@ -446,7 +435,6 @@ approve notification for admissions to PG programs for the academic year
 Resolution 2 Resolved to ratify the actions taken for admissions to first year 
 BE/BArch, PG and PhD programs for the academic year 2017-18. 
  1) Seat allocation under different quotas: 
- ## Page 13
  10 
   Sl. 
 No. 
@@ -506,7 +494,6 @@ Agenda Point 4 Any other item with the permission of the Chair.
     NIL 
  Views of Executive Council on the recommendations of the Admission Committee will be 
 presented during the meeting as EC meeting is also scheduled on 20th September. 
-  ## Page 14
  11 
   Action Requested: The BOG is requested to consider and approve the recommendations of 
 the Admission Committee of the University held on 18th September 2017. 
@@ -520,7 +507,6 @@ Admission Committee held on 18th September and approved the
 percentage of seats allotted for CET, COMEDK and Management 
 quota; and action taken by the sub-committee for the conduct of 
 'Research Entrance Test'. 
-  ## Page 15
  12 
   BOG 
 7. 5 
@@ -556,7 +542,6 @@ Commenting on the need for trimester system he said, most of the top B-
 Schools have adopted this system, it leads to focus learning by the students 
 as students get more time for self-learning and the University program could 
 be aligned with the calendars of top B-schools. 
-  ## Page 16
  13 
   Mandatory stay on-campus by part-time research scholars is required in-
 order to ensure steady progress of research work and interaction between 
@@ -568,7 +553,6 @@ campus stay rule for part-time research scholars.
 BOG resolved to approve the adaptation of relative grading system 
 for UG & PG programmes, trimester system for MBA programme 
 and mandatory stay rule for part-time research scholars. 
-  ## Page 17
  14 
   BOG 
 7. 6 
@@ -602,7 +586,6 @@ Resolution 7.6: BOG noted the progress report of the University
 presented by the Vice Chancellor. The Board of Governors 
 expressed its satisfaction over the progress made by the University 
 during the period. 
- ## Page 18
  15 
   BOG 
 7. 7 
@@ -625,7 +608,6 @@ Prof. B.S. Sonde, expressed the need to make stay on campus compulsory
 during course work. 
 Resolution 7.7: BOG noted the progress of implementation of PhD 
 programmes of the University. 
- ## Page 19
  16 
   BOG 
 7. 8 
@@ -640,7 +622,6 @@ Proposed formats are given in annexure 4
 security features and the process of procurement and printing of 
 the degree certificates, having satisfied with the procedures 
 approved the proposed formats for M.Tech and MBA programmes. 
-  ## Page 20
  17 
   BOG 
 7. 9 
@@ -672,17 +653,14 @@ syllabi of the UG Minor Degree Programme in 'Automotive Engineering'.
   Discussion: 
   Resolution 7.9: BOG noted the offer of Minor in 'Automotive 
 Engineering' by the school of Mechanical Engineering. 
- ## Page 21
  18 
   BOG 
 7. 10 
 Any other subject with the permission of the Chair 
   NIL 
- ## Page 22
  Annexure-1 
 [Proposed changes in regulations governing undergraduate and 
 postgraduate programmesof KLE Technological University 2015] 
-  ## Page 23
  Proposed changes in regulations governing undergraduate and 
 postgraduate programmesof KLE Technological University 2015 
   The original regulations (if exits) and modified /new regulations are presented below. 
@@ -720,7 +698,6 @@ assessed by Absolute Gradingsystem is as follows:
  Mini Project / Minor Project / Capstone Projects. 
  P.G Programs (M.Tech only) 
   Annexure - 1 
- ## Page 24
  Regulation number Earlier regulation New regulation 
 Grading 
 system 63 
@@ -761,7 +738,6 @@ However, for the purpose of reporting
 the performance of a student, letter 
 grades and grade points will be 
 awarded as per section 63 a. 
-   ## Page 25
  63 a. Relative Grading System 
 In this system, the grades are awarded to the students based on their performance relative to 
 others in Theory courses having In-Semester Assessment (ISA) and End Semester Assessment 
@@ -803,7 +779,6 @@ examinations separately (i.e. 40 out of 100).
 NOTE: The Course Grading table generated for the first time based on the Average & Standard 
 Deviation will be used strictly for awarding grades to all the re-evaluated courses and Summer 
 semester Examinations. 
- ## Page 26
  Absolute Grading System 
  # Marks Letter grade Absolute 
  Grade points 
@@ -827,10 +802,8 @@ shortage
 Result sheet shall contain the following 
  Only Grades, Grade points, Credits, SGPA and CGPA. 
  Grading slab of each course. 
-  ## Page 27
  Annexure-2 
 [MBA Regulations] 
-   ## Page 28
  Regulations 
 Governing Master of Business 
 Administration Programme of 
@@ -838,7 +811,6 @@ KLE Technological University
 2017 
   KLE Technological University 
 (Established under Karnataka Act No.22, 2013) 
-   ## Page 29
  iii 
   CONTENTS 
 Section Description Page 
@@ -894,7 +866,6 @@ CHAPTER VII, EXAMINATION SYSTEM 20
 43 Obligation to perform the examination work 23 
 44 Errors committed by an examiner 23 
 45 Remuneration 23 
- ## Page 30
  iv 
   46 Assessment 23 
 47 Question papers 23 
@@ -952,7 +923,6 @@ CHAPTER XIV, MAINTENANCE OF ACADEMIC RECORDS
 85 Maintenance of Academic Records 36 
 86 Maintenance of Answer Books 37 
 87 Weeding off of Academic Records 37 
- ## Page 31
  1 
   REGULATIONS GOVERNING MASTER OF BUSINESS ADMINISTRATION OF KLE 
 TECHNOLOGICALUNIVERSITY - 2017 
@@ -994,7 +964,6 @@ requires:
 respectively the Board of Governors, Executive 
 Council, Academic Council, and Finance Council, of 
 the University. 
- ## Page 32
  2 
     iii "Campus" means a campus established and 
 maintained by the University. 
@@ -1034,7 +1003,6 @@ and Notifications.
 higher education programme pursued for a degree 
 awarded by the University as specified under 
 Section-22(3) of the UGC Act. 
- ## Page 33
  3 
     xvii "Department or School" means an entity that offers 
 programme(s) instituted by the University. 
@@ -1076,7 +1044,6 @@ the Vice-Chancellor consisting of:
   ii Coordinator Admission Cell - Member Secretary 
   iii ONE Dean Nominated by the Vice-Chancellor 
   iv ONE nominee of the Executive Council - Member 
- ## Page 34
  4 
     v ONE nominee of the Academic Council - Member 
   vi ONE member from society at large, nominated by the 
@@ -1118,7 +1085,6 @@ Academic Council.
 following members: 
   i Concerned Head of the Department/ School/ Center - 
 Chairperson; 
- ## Page 35
  5 
     Ii ONE Professor, ONE Associate Professor and ONE 
 Assistant Professor from the Department, nominated by 
@@ -1163,7 +1129,6 @@ Examiners
   7 The Dean Academic Affairs / The concerned Dean of 
 Faculty may constitute the requisite number of Boards of 
 Examiners with the approval of Academic Council 
- ## Page 36
  6 
     7. 1 A Board of Examiners shall comprise of the following 
 members: 
@@ -1209,7 +1174,6 @@ Squad
 8 The Controller of Examinations shall appoint an 
 Examination Squad, if required, to ensure that the 
 examinations are held as per the code of conduct. At least 
- ## Page 37
  7 
    one member of the Squad shall be a woman. The Chief of 
 the Squad shall submit a report to the Controller of 
@@ -1253,7 +1217,6 @@ Malpractice Review Committee for reviewing and
 recommending suitable actions on the reported cases of 
 malpractice. 
   10. 1 The composition of the committee shall be: 
- ## Page 38
  8 
     i The Vice-Chancellor or his/her nominee - Chairperson; 
   Ii Dean Academic Affairs / The concerned Dean of Faculty- 
@@ -1298,7 +1261,6 @@ notified by the Registrar in the Admission Brochure.
 However, the following provisions shall be considered 
 while specifying the eligibility for admission to various 
 programmes: 
- ## Page 39
  9 
     i In case of SC / ST / OBC candidates, there shall be a 
 relaxation of a specified percentage in the prescribed 
@@ -1348,7 +1310,6 @@ to have indulged in acts of indiscipline or unlawful
 demonstrations and the like. Candidates who have been 
 expelled/ rusticated/ debarred from other institutions shall 
 not be admitted. 
- ## Page 40
  10 
     13. 2 The Vice-Chancellor reserves the right to refuse admission 
 to a candidate whose admission, in his/her judgment, is 
@@ -1408,7 +1369,6 @@ may be exempted.
 from the previous university or institution 
   16. 4 The fee structure shall be decided by the Admissions 
 Committee for transfer/migration of a candidate to the 
- ## Page 41
  11 
   University at the time of transfer/migration and shall be 
 binding for his/her remaining minimum duration of the 
@@ -1459,7 +1419,6 @@ programme of study, at the end of the approved period of
 temporary withdrawal, shall be deemed to have withdrawn 
 permanently from the University. Such students are liable 
 to pay the prescribed fees for the remaining minimum 
- ## Page 42
  12 
   duration of the programme. 
 Permanent 
@@ -1509,7 +1468,6 @@ formalities, if the First term (for fresh students) is delayed
 by few days, the subsequent Second and Third term may 
 be correspondingly delayed. 
 It would be desirable to have 60 teaching days per 
- ## Page 43
  13 
   termexcluding examinations. 
   20. 4 The calendar of events in respect of MBAprogramme shall 
@@ -1555,7 +1513,6 @@ credits in a regular term. However, the minimum number
 of credits for which a student shall register is 11. 
   21. 5 A full-time student may be permitted to register for a 
 maximum of NINETEENcredits during a regular term. 
- ## Page 44
  14 
     21. 6 Every course in a programme of study normally runs for 
 the full length of a term. 
@@ -1602,7 +1559,6 @@ Open Elective (OE)
   Elective courses shall be in the range of 25 - 35 credits 
   22. 1.6 Internship, Research or Project Work (PW): These are 
 intended to enhance the student's practical knowledge 
- ## Page 45
  15 
   and exposure to research and industry. The credits for this 
 category shall not exceed 25 credits. Project work shall 
@@ -1667,7 +1623,6 @@ category = E; PW category = W; Research = R; Internship
 topic = T; Apprenticeship = A; Laboratory / Practical = P; 
 Field Work = D; and Non-credit course = N. The 
 Departmental Curriculum Committee shall assign a code 
- ## Page 46
  16 
   to a course as and when a new course is introduced. 
   25. 2 A digit shall be assigned for each course depending on the 
@@ -1715,7 +1670,6 @@ To give a better feel of the concepts or
 managementpractices fieldwork is assigned 
 to the students 
 5. Group projects with co-operative learning 
- ## Page 47
  17 
   Group projects like course projects, mini projects 
 and dissertation create integrated experience for 
@@ -1766,7 +1720,6 @@ for the courses in the first term. Registration for the first
 termof a programme shall be a part of admission process. 
   28. 2 Registration process, either online or offline, shall consist 
 of the following steps: 
- ## Page 48
  18 
     i Meeting with the course coordinator, if required, to verify 
 prerequisites; 
@@ -1822,7 +1775,6 @@ from courses
 course(s) before the deadline with the approval of the 
 Dean Academic Affairs / the concerned Dean of Faculty, 
 upon payment of additional fees, if any. 
- ## Page 49
  19 
     ii Withdrawal: A student may withdraw from a course before 
 the deadline specified for the purpose, with the approval of 
@@ -1874,7 +1826,6 @@ Attendance
 35 In rare and genuine cases, the Vice-Chancellor may 
 condone a shortage of attendance to a maximum extent of 
 10% on the recommendation of the Dean Academic 
- ## Page 50
  20 
   Shortage Affairs/ the concerned Dean of Faculty. 
 CHAPTER VII 
@@ -1918,7 +1869,6 @@ and further action;
   xii Make arrangements for maintenance of stock, accounts, 
 records, and statistics of the Office of the Controller of 
 Examinations and for annual stock verification; 
- ## Page 51
  21 
     xiii Submit the infrastructural requirements of the Office of the 
 Controller of Examinations as and when required to the 
@@ -1969,7 +1919,6 @@ Superintendent(s)
 Superintendent(s), from amongst the senior Teachers of 
 the University, with the approval of the Vice Chancellor, if 
 required. The Deputy Chief Superintendent(s) shall assist 
- ## Page 52
  22 
   the Chief Superintendent in the conduct of examinations. 
 Invigilators 
@@ -2027,7 +1976,6 @@ course. The ITA and ETA components for each course
 shall be conducted as per the calendar of events and the 
 time-table specified from time to time. The weights of ITA 
 and ETA components in the total marks for a course shall 
- ## Page 53
  23 
   be notified by the Teacher in the lesson plans as per the 
 approval of Board of Studies. A student shall be awarded a 
@@ -2078,7 +2026,6 @@ various components such as Mid Term Examinations,
 quizzes, tests, seminars, term papers, demonstrations, 
 presentations and award of marks for attendance. 
 Practical components of courses may be evaluated by the 
- ## Page 54
  24 
   way of experiments, demonstrations, field work, models, 
 worksheets, practical record books, quizzes, tests, and 
@@ -2137,7 +2084,6 @@ of technical and project reports shall be notified by the
 concerned Head of the Department/ School/ Center from 
 time to time. 
 Announcement of 52 The concerned Head of the School shall make 
- ## Page 55
  25 
   ITA marks 
   arrangements for the announcement of ITA marks 
@@ -2193,7 +2139,6 @@ extra-ordinary circumstances, a student whose name does
 not find a place in the student list may be permitted to 
 appear for ETA of a course. The results of such a student 
 may be announced after due verification. 
- ## Page 56
  26 
   ETA and 
 evaluation: 
@@ -2249,7 +2194,6 @@ absolute grading system depending on the type of course.
 However, for the purpose of reporting the performance 
 of a student, letter grades and grade points will be 
 awarded as per section 63 a.: 
- ## Page 57
  27 
   Relative Grading 
 System 
@@ -2321,7 +2265,6 @@ grade
 Grade points Marks Remarks 
 1 S 10 91-100 Outstanding 
 2 A 9 81-90 Excellent 
- ## Page 58
  28 
   3 B 8 71-80 Very Good 
 4 C 7 61-70 Good 
@@ -2361,7 +2304,6 @@ pass the course to qualify for the degree.
   63. 3 'W' grade: "W" grade shall be awarded to a student who 
 has withdrawn from a course. Further, the "W" grade shall 
 be recorded in the grade card. A student may withdraw 
- ## Page 59
  29 
   from an audit course in which case there shall be no 
 mention of the course in the grade card. 
@@ -2409,7 +2351,6 @@ have an option of repeating the same elective course
 when offered next or register for any other elective course. 
   63. 6.3 The 'FA' grade denotes poor attendance i.e. failure in a 
 course due to attendance shortage (i.e. <75%) and the 
- ## Page 60
  30 
   course instructor is supposed to take utmost care while 
 awarding this double-letter grade. A student with "FA" 
@@ -2460,7 +2401,6 @@ particular term. The TGPA shall be calculated as: TGPA =
 Σ CiGi / Σ Ci, where Ci‟s, are the number of credits for the 
 courses registered for the term, and Gi‟s are the 
 corresponding grade points secured by the student. 
- ## Page 61
  31 
     66. 2 The CGPA is an indication of an up-to-date overall 
 performance of a student and the weighted average of the 
@@ -2508,7 +2448,6 @@ Programme of study within the specified minimum
 duration, securing a CGPA between 7.75 and 9.49 (both 
 inclusive), passing all the courses of the programme in the 
 first appearance, and not obtaining any transitional grades 
- ## Page 62
  32 
   shall be declared to have passed in First class with 
 Distinction. 
@@ -2557,7 +2496,6 @@ Study" (NFPS) and terminated from the programme of
 study if he/she: 
   i fails to obtain a term grade point average of at least 4.0 on 
 a number of occasions numerically equal to the minimum 
- ## Page 63
  33 
   duration of the programme in years. If the performance of 
 a student at the end of a registered term is below 4.0, 
@@ -2606,7 +2544,6 @@ questions attempted were awarded marks. If such a
 student finds any discrepancy in totaling of marks, he / she 
 shall bring the same to the notice of the concerned 
 officials for incorporating the necessary corrections. 
- ## Page 64
  34 
   Supply of 
 photocopy 
@@ -2659,7 +2596,6 @@ results
 stages before its announcement: 
   i Draft results prepared by the Office of Controller of 
 Examinations shall be placed before the Results Scrutiny 
- ## Page 65
  35 
   Panel for review; 
   ii Subsequent to the review, the Controller of Examinations 
@@ -2711,7 +2647,6 @@ any amount due shall be refunded;
 period of ONE year from the date the student leaves the 
 University, after which it shall stand credited to the 
 Endowment Fund of the University; and 
- ## Page 66
  36 
     v After successful completion of all the requirements for the 
 award of degree, the Dean Academic Affairs / the 
@@ -2762,7 +2697,6 @@ any other certificates, delay in re-valuation, re-totaling or
 any other process associated with the examinations or 
 evaluation, or other like cases. 
 CHAPTER XIII 
- ## Page 67
  37 
    FELLOWSHIP / SCHOLARSHIP / FINANCIAL ASSISTANCE 
 Merit Scholarship 
@@ -2815,7 +2749,6 @@ Departmental/ School Chairperson.
 a file for each student comprising of examination 
 registration details, up to date academic performance, and 
 such other relevant documents. 
- ## Page 68
  38 
   Maintenance of 
 Answer Books 
@@ -2854,10 +2787,8 @@ invariably be obtained before they are destroyed. The
 academic records to be weeded out shall be destroyed by 
 way of shredding under direct supervision of the Dean 
 Academic Affairs / the concerned Dean of Faculty. 
-   ## Page 69
  Annexure-3 
 [Proposed changes in Rules and Regulations governing]
- ## Page 70
  Regulations Governing 
   PhD Programs 
   of 
@@ -2865,7 +2796,6 @@ KLE Technological University
 2015 
   KLE Technological University 
   (Established under Karnataka Act No.22, 2013) 
-  ## Page 71
  1 Ph
 D 
 pro
@@ -2929,7 +2859,6 @@ shall be:
 1. To scrutinize and approve the Coursework (Part-I). 
 2. To conduct Comprehensive Viva-Voce (Part-II) and 
 confirmation of the PhD registration. 
- ## Page 72
  3. To review/monitor periodically (at least once in six months) 
 the research progress of each research scholar until his/her 
 submission of the PhD Thesis. 
@@ -2986,7 +2915,6 @@ pursue PhD programme in a subject area of inter- disciplinary nature
 subject to the approval ofRRC. 
   1. 2.2 Minimum qualifications and Relaxation for admissions: 
 The minimum academic qualifications to be satisfied by the research 
- ## Page 73
  scholars seeking admission to PhD Programme, 
  The research scholars shall possess a Master's Degree in 
 Engineering/Technology/Architecture (allied 
@@ -3038,7 +2966,6 @@ Committee.
  If the performance of the research scholar is satisfactory then 
 the research scholar is selected for provisional registration and 
 notified. 
-  ## Page 74
    1. 2.8 Categories of Research Scholars: 
  There shall be provision for the following categories of research 
 scholars for admission to PhD. 
@@ -3097,7 +3024,6 @@ supervisors as specified in 1.3.2(i).
 2) Part-II: Comprehensive Viva Voce - Research scholars 
 need to present the research title and direction during the 
 Comprehensive Viva to seek recommendations to continue 
- ## Page 75
  with the research plan. 
 3) Part-III: Pre-synopsis presentation and synopsis submission 
 - Research scholars need to present the synopsis to RRC 
@@ -3153,7 +3079,6 @@ on research plan and progress, for the conduct of comprehensive
 Viva Voce, within SIX months after successful completion of 
 Coursework. 
 (b) The Supervisor/s of the research scholar in consultation with the 
- ## Page 76
  Head of the school shall conduct the comprehensive Viva Voce in 
 the English language preferably within four weeks. 
 (c) The Comprehensive Viva Voce shall consist of a presentation by 
@@ -3208,7 +3133,6 @@ Comprehensive Viva-Voce, at least ONE publications and
 all other academic requirements are fulfilled, and (ii) There 
 is prima facie case for the submission of the Thesis and the 
 Thesis does not contain any work, which has been 
- ## Page 77
  previously submitted for the award of any Degree anywhere. 
 III. Undertaking from the research scholar as well as research 
 Supervisor (s) shall mention that: "The Thesis is based on 
@@ -3261,7 +3185,6 @@ recommendations of RPC.
  The maximum period for submission of the Thesis for Part-Time 
 research scholar shall be SIX years from the date of provisional 
 registration with 1 year extension with the recommendations of 
- ## Page 78
  RPC. 
   1. 3.11 The research scholar shall pay the prescribed Thesis submission fees, 
 and produce the "No Dues Certificates" from the School while submit 
@@ -3317,7 +3240,6 @@ Thesis.
 (c) The University shall arrange for the Thesis to be evaluated by the 
 Research Supervisor(s) andtwo more Adjudicators identified within 
 three months from the date of invitation, before taking further steps. 
-  ## Page 79
    1. 4.2 Receipt of Thesis Reports 
 All the Adjudicators shall evaluate the Thesis and send their Reports. 
 The Adjudicators shall make any one of the following 
@@ -3371,7 +3293,6 @@ along with duly corrected version of both the hard and the soft
 copies of the Thesis through the School to the CoE. The CoE shall 
 present the Consolidated Report to the Academic Council. 
   1. 4.5 Award of PhD degree : 
- ## Page 80
  (a) Degree Certificates: Upon the approval by the Academic Council, 
 the University shall issue a Provisional PhD Degree Certificate to 
 the research scholar certifying that the Degree has been awarded 
@@ -3425,7 +3346,6 @@ d) A research student can opt for a maximum of TWO supervisors and,
 ifone of the supervisor's is from outside the University, he/she shall 
 be called co-supervisor. 
 e) The following acts of research Supervisor may lead to 
- ## Page 81
  disqualification of Supervisor from guiding any research scholars 
  Influencing the external examiner to write favorable report on 
 Thesis. 
@@ -3464,7 +3384,6 @@ newly admitted research scholars during an academic year.
 up to FOUR research scholars at once to supervise with proper 
 reasoning. This extraordinary case shall be exercised carefully by 
 the RPC and must be approved by Vice Chancellor. 
- ## Page 84
  MAE Curriculum structure & Syllabus 2015 - 19 Batch 
                 P a g e | 1 
 School of Mechanical Engineering 
@@ -3472,7 +3391,6 @@ School of Mechanical Engineering
 [Curriculum Structure and Syllabus Minor 
 in 
 Automotive Engineering] 
-  ## Page 85
  MAE Curriculum structure & Syllabus 2015 - 19 Batch 
                 P a g e | 2 
 School of Mechanical Engineering 
@@ -3487,7 +3405,6 @@ Syllabus
 (2015 Admission) 
   School of Mechanical Engineering 
 2017 
-  ## Page 86
  MAE Curriculum structure & Syllabus 2015 - 19 Batch 
                 P a g e | 3 
 School of Mechanical Engineering 
@@ -3522,7 +3439,6 @@ course. In the next stage the student is exposed to the essentials of Electrical
 control systems in a vehicle. Design and development of powertrain and drivetrain systems 
 complete the system knowledge necessary to work on an entire vehicle. The degree finally 
 culminates with the student testing and validating a given vehicle for competition. 
- ## Page 87
  MAE Curriculum structure & Syllabus 2015 - 19 Batch 
                 P a g e | 4 
 School of Mechanical Engineering 
@@ -3563,7 +3479,6 @@ evaluation TOTAL 0-0-2 2 4
   ISA: In Semester Assessment, ESA: End Semester Assessment, 
 L: Lecture; T: Tutorials; P: Practical. 
 BS: Basic Science ES: Engineering Science, PC: Program Core, PE: Program Elective 
-  ## Page 88
  MAE Curriculum structure & Syllabus 2015 - 19 Batch 
                 P a g e | 5 
 School of Mechanical Engineering 
@@ -3603,7 +3518,6 @@ Students shall attend two minors; Minors shall be
  Students shall apply their learning on real life examples; 
  Use analytical and empirical tools for assignments. 
  Tutorials shall be assessed every week wherever applicable 
-  ## Page 89
  MAE Curriculum structure & Syllabus 2015 - 19 Batch 
                 P a g e | 6 
 School of Mechanical Engineering 
@@ -3662,7 +3576,6 @@ References:
 commonwealth Drive Marrendale, PA 15096-0001 edition 2004 (Reprinted) ISBN - 0 7680 0596 5. 
 2. Automotive Engineering, Powertrain, Chassis Sytem and Vehicle Body - Edited by David A. Crola, 
 ISBN: 978-1-85617-577-7 
-  ## Page 90
  MAE Curriculum structure & Syllabus 2015 - 19 Batch 
                 P a g e | 7 
 School of Mechanical Engineering 
@@ -3717,7 +3630,6 @@ References:
 INC 400 Common Wealth Drive Warrandale 1995 
 2. Fundamentals of Vehicle Dynamics by Thomas D. Gillipse, SAE, USA, ISBN1 56091-526-9 SAE INC 
 400 Common Wealth Drive Warrandale 1992 
- ## Page 91
  MAE Curriculum structure & Syllabus 2015 - 19 Batch 
                 P a g e | 8 
 School of Mechanical Engineering 
@@ -3770,7 +3682,6 @@ References:
 1. Tom Denton, Automobile Electrical and Electronic systems, 3rd, SAE publication, 2004 
 2. Julien Happian and Smith, An introduction to modern vehicle design, 2nd, SAE publication., 2002 
 3. W. Bolton, Longman, Mechatronics, 2nd, Pearson publication, 1999 
- ## Page 92
  MAE Curriculum structure & Syllabus 2015 - 19 Batch 
                 P a g e | 9 
 School of Mechanical Engineering 
@@ -3810,7 +3721,6 @@ References:
 1. Internal Combustion Engine Fundamentals, John B. Heywood, McGraw-Hill series 
 2. Automotive Engineering, Powertrain, Chassis Sytem and Vehicle Body - Edited by David A. Crola, 
 ISBN: 978-1-85617-577-7 
- ## Page 93
  MAE Curriculum structure & Syllabus 2015 - 19 Batch 
                 P a g e | 10 
 School of Mechanical Engineering 
@@ -3846,4 +3756,4 @@ Presenting data obtained from testing and validation. 2
 hours 
 References: 
 1. Race Car Vehicle Dynamics by William F. Milliken & Douglas L. Milliken ISBN1 56091-526-9 SAE 
-INC 400 Common Wealth Drive Warrandale 1995 
+INC 400 Common Wealth Drive Warrandale 1995

@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 14th_BOG_Minutes"
+title: "BOG Minutes"
 category: "miscellaneous"
 subcategory: ""
 document_type: "syllabus"
@@ -11,17 +11,16 @@ language: "en"
 keywords: ["approve", "board", "document", "prof", "technological", "university"]
 aliases: ["ME", "Mechanical Dept", "CSE", "CS", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "25"
 ---
-# PDF Document: 14th_BOG_Minutes
- **PDF Source:** https://www.kletech.ac.in/pdf/14th_BOG_Minutes.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/14th_BOG_Minutes.pdf
  Minutes 
   14th Board of Governors Meeting (Online) 
 of 
 KLE Technological University, 
 Hubballi, Karnataka 
 11th September, 2021 at 11.30 am 
-  ## Page 2
  ii 
   The following are the minutes of the Board of Governors Meeting of KLE Technological 
 University, Hubballi, which was held on 11th September 2021 at 11.30 am. in online mode. 
@@ -68,10 +67,8 @@ Member
 2 The Principal Secretary/Secretary, Medical Education, 
 Government of Karnataka. 
 Member 
-  ## Page 3
  iii 
   BOG 14 Online meeting screenshots 
-  ## Page 4
  iv 
   Agenda 
   Item No. Particulars Page No 
@@ -110,7 +107,6 @@ the legal studies approved by the Executive Council.
 programmes. 
   Separately 
 attached 
-  ## Page 5
  1 
   BOG 
 14. 1 
@@ -166,7 +162,6 @@ Member
 2 The Principal Secretary/Secretary, Medical Education, 
 Government of Karnataka. 
 Member 
-  ## Page 6
  2 
   BOG 13.1 To confirm the minutes of the previous meeting held on 19th September 2020. 
 Discussion: The member secretary requested honorable members for any observations 
@@ -208,7 +203,6 @@ scholarship then getting good quality research scholars will be a problem. Prof.
 Shettar, VC, replied that the University has applied for the 12B status, and once we get 
 the University will be eligible for the Government scholarships. Dr. Prabhakar Kore, 
 Chairman BOG, asked to give Rs. 25, 000/- per month scholarship to two students based 
- ## Page 7
  3 
   on the recommendation of a committee. To this decision, all honorable members 
 agreed. 
@@ -251,7 +245,6 @@ Policy. Prof. Ashok Shettar, VC, also elaborated on this point. Madam was satisf
 the answer and wished the best of luck for the new endeavor. 
 Resolution 13.5: Resolved to approve the proposal to establish constituent colleges at 
 Belagavi and Bengaluru by making KLE Dr. M.S. Sheshgiri College of Engineering and 
- ## Page 8
  4 
   Technology, Belagavi and KLE Society's Law College, Bengaluru as the constituent 
 colleges/units of KLE Technological University as per the provisions in para 6 of the 
@@ -293,7 +286,6 @@ Resolution 13.8A: Resolved to approve the institution of any one of the B.E.
 programme 'Computer Science and Engineering (Artificial Intelligence) or Computer 
 Science and Design or Computer Science and Engineering (A.I. and ML)" with an 
 intake of sixty by reducing the intake by sixty in the Mechanical Engineering 
- ## Page 9
  5 
   programme from the academic year 2021-22. Further the Vice-Chancellor is 
 authorized to study and finalize the new programme to apply and do the needful in 
@@ -309,7 +301,6 @@ the 13th meeting.
   Resolution 14.1: The Board of Governors confirmed the minutes of 
 its 13th meeting of the Board of Governors held on 9th March 2021 in 
 online mode. 
-  ## Page 10
  6 
   BOG 
 14. 2 
@@ -341,7 +332,6 @@ already delayed. Smt Sudha Murty and Prof. R. Natarajan were in favor of the
 The Board noted and approved the action taken report 
 on the minutes of the 12th meeting of the Board of 
 Governors held on 9th March 2021. 
- ## Page 11
  7 
   online mode and Prof. M.I. Savadatti favoured in person but attendance 
 restricted to only rank holders and some dignitaries. Dr. Prabhakar Kore, 
@@ -375,7 +365,6 @@ expenditure is in line with the approved Budget 2020-
 21. 
   The UGC Expert Committee for 12B visited the 
 University on 21st & 22nd of August 2021. 
-  ## Page 12
  8 
   basis for the project period and will be more interested for looking out for a 
 job than pursuing PhD. 
@@ -418,7 +407,6 @@ and Social Innovation Labs is in progress.
 2. Procurement of equipment for the laboratory is 
 in progress. 
 3. DR. Sheshgiri engineering college faculty are 
- ## Page 13
  9 
   500)/KSURF (at least 4 stars) in the two preceding years. On these issues the 
 Vice Chancellor mentioned that the University has complete 5 years of 
@@ -466,7 +454,6 @@ utilized till 31st March 2021 was Rs. 840.02 lakhs. The
 project closure will be on 30th September 2021, and any 
 additional expenditures related audit will be paid 
 directly by the NPIU. 
-  ## Page 14
  10 
   Resolution 13.6: BOG noted the progress of TEQIP-III activities and resolved 
 to approve the following: 
@@ -504,7 +491,6 @@ year 2021-22 with an intake of 60 by reducing the
 intake by 60 in the Mechanical Engineering programme. 
 With this the revised intake of Mechanical Engineering 
 will be 180. 
-  ## Page 15
  11 
   programme 'Computer Science and Engineering (Artificial Intelligence) or 
 Computer Science and Design or Computer Science and Engineering (A.I. and 
@@ -521,7 +507,6 @@ he would explore the possibilities of having the proposed experts as new members
   Prof.R.Natarajan asked to permit R.A.'s to register for PhD. Further, he advised checking for sufficiency of faculty in the 'Artificial Intelligence' area. 
   Resolution 14.2: Resolved to confirm the action taken report on the minutes of the previous 
 meeting held on 9th March 2021. 
- ## Page 16
  12 
   BOG 
 14. 3 
@@ -557,7 +542,6 @@ structure to start the following B.Sc programmes from the academic
 year 2021-22: 
 1. Bachelor of Science (Major - Computer Science) 
 2. Bachelor of Science (Major - Electronics) 
-  ## Page 17
  13 
   BOG 
 14. 4 
@@ -579,7 +563,6 @@ college.
 Prof. Ashok Shettar, the Vice-chancellor assured that he would work on the advice of Smt. Sudha 
 Murty and take the help of Prof. Nigam in revamping the law college completely. 
   Resolution: BOG noted the status report of the constituent colleges. 
- ## Page 18
  14 
   BOG 
 14. 5 
@@ -598,7 +581,6 @@ governing U.G. & P .G. programmes of Legal Studies and explained the salient poi
 members expressed their consent. 
   Resolution: Resolved to approve the academic regulations governing 
 U.G. & P.G. programmes of Legal Studies. 
-  ## Page 19
  15 
   BOG 
 14. 6 
@@ -618,7 +600,6 @@ Principal, Dr. M.S. Sheshgiri College of Engineering and Technology,
 Belagavi and (2) Dr. J.M. Mallikarjunaiah, Principal, KLE Law College, 
 Bengaluru as the new members of the Academic Council of the KLE 
 Technological University. 
-  ## Page 20
  16 
   BOG 14.7 To approve the new Board of Studies and Board of 
 Examiners for the new constituent Law College, 
@@ -637,7 +618,6 @@ as they are required to design the curriculum and to conduct examinations as per
 guidelines. 
   Resolution: Resolved to approve the new Board of Studies and Board 
 of Examiners for the new constituent Law College, Bengaluru. 
-  ## Page 21
  17 
   BOG 
 14. 8 
@@ -661,7 +641,6 @@ Madam Sudha Murty also expressed the same opinion.
   Resolution: The BOG authorized the Vice-Chancellor to accept the 
 transfers proposed by the principals of the constituent colleges in a 
 phased manner. 
- ## Page 22
  18 
   BOG 
 14. 9 
@@ -686,7 +665,6 @@ enquired about 'Life Sciences' to this the Vice-chancellor replied that it is pa
   Resolution: Resolved to grant permission to recruit required faculty 
 for the year 2021-22 for the two constituent colleges at Belagavi and 
 Bengaluru, respectively. 
- ## Page 23
  19 
   BOG 
 14. 10 
@@ -715,7 +693,6 @@ Prof. R.Natarajan suggested creating a structure for lateral entry of students w
 want to study another branch. 
 Resolution: The BOG approved the implementation of lateral entry to the second B.E programme 
 as per the AICTE circular (F. No. AICTE/ P&AP/ Misc/ 2O2O dated 09-08-2021). 
-  ## Page 24
  20 
   Table agenda 2: Information regarding School of Advanced Sciences. 
 Keeping the mandate of the University to become multidisciplinary in nature as per the new 
@@ -748,7 +725,6 @@ Tehran, Iran (2008-2009): Received by the President of Iran (Mahmoud Ahmadinejad
 Tehran, Iran (9th February 2009). 
  Madurai Kamaraj University, Indian Science Award: Received from the Vice Chancellor 
 (Professor P. Maradamutthu), Madurai Kamaraj University, Madurai India (April, 2007) 
- ## Page 25
  21 
    CIPET Award for Research in Polymer Science and Technology on "Polymers in Drug Delivery and 
 Membrane Science", Fourth National Award (July 17th2014), Technology Innovation, Ministry of 
@@ -771,5 +747,4 @@ four BOG meetings a year.
 The Vice-chancellor presented a broad plan about the 'Platinum Jubilee' celebration of the BVB 
 College of Engineering and Technology. 
   Resolution: The BOG noted the information presented regarding 
-School of Advanced Sciences. 
-  
+School of Advanced Sciences.

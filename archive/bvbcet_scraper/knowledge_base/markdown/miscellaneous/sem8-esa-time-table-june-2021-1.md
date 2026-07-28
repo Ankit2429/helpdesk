@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: sem8-esa-time-table-june-2021-1"
+title: "Sem8 Esa Time Table June 2021 1"
 category: "miscellaneous"
 subcategory: ""
 document_type: "timetable"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["document", "engineering", "esa", "june", "management", "nano", "part", "table", "technology", "time"]
 aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "1"
 ---
-# PDF Document: sem8-esa-time-table-june-2021-1
- **PDF Source:** https://www.kletech.ac.in/hubballi/pdf/sem8-esa-time-table-june-2021-1.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/hubballi/pdf/sem8-esa-time-table-june-2021-1.pdf
  Automation & Robotics 
 Engineering Biotechnology Computer Science & 
 Engineering Civil Engineering Electronics & Communication 
@@ -106,4 +106,4 @@ Part-II
 ------------------ 
 ------------------ 
 ---------------- ------------------ 
----------------- ------------------ 
+---------------- ------------------

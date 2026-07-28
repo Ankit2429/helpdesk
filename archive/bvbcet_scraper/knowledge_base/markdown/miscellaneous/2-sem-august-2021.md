@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 2-sem-august-2021"
+title: "2 Sem August 2021"
 category: "miscellaneous"
 subcategory: ""
 document_type: "timetable"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["august", "course", "design", "document", "engineering", "part", "sem", "session"]
 aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "4"
 ---
-# PDF Document: 2-sem-august-2021
- **PDF Source:** https://www.kletech.ac.in/pdf/2-sem-august-2021.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/2-sem-august-2021.pdf
  II SEMESTER II SEMESTER
 PART - I PART - II
 Course (Course Code) Course (Course Code) 
@@ -43,7 +43,6 @@ Date
 TIME TABLE FOR II SEMESTER B.ARCH. END SEMESTER ASSESSMENT 
 EXAMINATIONS AUGUST 2021
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India)
- ## Page 2
  PART - I PART - II PART - I PART - II
 Course (Course Code) Course (Course Code) Course (Course Code) Course (Course Code) 
  (9.00 AM to 11.00 AM) (2.00 PM to 4.00 PM) (9.00 AM to 11.00 AM) (2.00 PM to 4.00 PM)
@@ -92,7 +91,6 @@ Date
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India)
 TIME TABLE FOR II SEMESTER B.E. END SEMESTER ASSESSMENT EXAMINATIONS AUGUST 2021
 Stream Electrical Sciences Electrical Sciences Mechanical Sciences Mechanical Sciences
- ## Page 3
  II SEMESTER II SEMESTER
 PART - I PART - II
 Course (Course Code) Course (Course Code) 
@@ -132,7 +130,6 @@ Date
 REVISED TIME TABLE FOR II SEMESTER MCA END SEMESTER 
 ASSESSMENT EXAMINATIONS AUGUST 2021
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India)
- ## Page 4
  PART - I Design and Analysis of AlgorithmsEarthquake Resistant Design of 
 Structures
 Automotive Electronics and 
@@ -216,4 +213,4 @@ Timings
 Part / Timing Computer Science & Engineering Structural Engineering Digital Electronics VLSI Testing & Design Advanced Manufacturing Systems Design Engineering
 Course (Course Code) 
 17/08/2021 
-(Tuesday) 
+(Tuesday)

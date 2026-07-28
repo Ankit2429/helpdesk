@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: Application-for-Duplicate-Grade-Cards-Degree-Cert"
+title: "Application For Duplicate Grade Cards Degree Cert"
 category: "examination"
 subcategory: ""
 document_type: "act"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["application", "cards", "cert", "degree", "document", "duplicate", "fees", "grade"]
 aliases: ["KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "1"
 ---
-# PDF Document: Application-for-Duplicate-Grade-Cards-Degree-Cert
- **PDF Source:** https://www.kletech.ac.in/pdf/Application-for-Duplicate-Grade-Cards-Degree-Cert.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/Application-for-Duplicate-Grade-Cards-Degree-Cert.pdf
     KLE Technological University 
                 (Established under Karnataka Act No.22, 2013) 
                            Hubballi, Karnataka State, INDIA 
@@ -54,4 +54,4 @@ POSTAL ADDRESS TO WHICH DUPLICATE MARKS CARDS ARE TO BE SENT (This portion will 
 correctness) Note: Postage fee of Rs. 300 for inside India Rs. 4500 for outside India to be added to the fees to be paid. 
 Name SRN: 
 Address 
-  PIN: Mobile: 
+  PIN: Mobile:

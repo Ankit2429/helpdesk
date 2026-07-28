@@ -14,4 +14,3 @@ last_modified: "2026-07-28"
 ---
 # UG PG Programs
  **Source URL:** https://www.kletech.ac.in/academics/ug-pg-programs
- 

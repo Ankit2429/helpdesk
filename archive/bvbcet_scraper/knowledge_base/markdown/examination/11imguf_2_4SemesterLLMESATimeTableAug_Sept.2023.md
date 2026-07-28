@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 11imguf_2_4SemesterLLMESATimeTableAug_Sept.2023"
+title: "2 4semesterllmesatimetableaug Sept.2023"
 category: "examination"
 subcategory: ""
 document_type: "timetable"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["course", "document", "examinations", "paper", "semester", "specialisation"]
 aliases: ["KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "2"
 ---
-# PDF Document: 11imguf_2_4SemesterLLMESATimeTableAug_Sept.2023
- **PDF Source:** https://www.kletech.ac.in/Uploads/image/11imguf_2_4SemesterLLMESATimeTableAug_Sept.2023.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/Uploads/image/11imguf_2_4SemesterLLMESATimeTableAug_Sept.2023.pdf
  II SEMESTER IV SEMESTER
 Course (Course Code) Course (Course Code) 
 (9.30 AM to 12.30 PM) (9.30 AM to 12.30 PM)
@@ -51,7 +51,6 @@ Constituent College of KLE Technological University
 TIME TABLE FOR II & IV SEMESTER LL.M. END SEMESTER 
 ASSESSMENT THEORY EXAMINATIONS AUGUST 2023
 LL.M. (Constitutional Law)
- ## Page 2
  Prepared By:
 M.S. Kalasad Controller of Examinations 
 28/08/2023 

@@ -14,4 +14,3 @@ last_modified: "2026-07-28"
 ---
 # Exam Notifications
  **Source URL:** https://www.kletech.ac.in/student-support/exam-notifications
- 

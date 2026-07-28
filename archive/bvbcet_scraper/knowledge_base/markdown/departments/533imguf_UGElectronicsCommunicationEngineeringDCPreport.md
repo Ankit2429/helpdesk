@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 533imguf_UGElectronicsCommunicationEngineeringDCPreport"
+title: "Ugelectronicscommunicationengineeringdcpreport"
 category: "departments"
 subcategory: ""
 document_type: "act"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["assistantprofessorassistantprofessor", "document", "faculty", "regular", "students", "year"]
 aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE", "KLETech", "KLE Tech", "BVB", "BVBCET"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "26"
 ---
-# PDF Document: 533imguf_UGElectronicsCommunicationEngineeringDCPreport
- **PDF Source:** https://www.kletech.ac.in/Uploads/image/533imguf_UGElectronicsCommunicationEngineeringDCPreport.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/Uploads/image/533imguf_UGElectronicsCommunicationEngineeringDCPreport.pdf
  Program Name : ELECTRONICS AND COMMUNICATION ENGINEERING Discipline: Engineering & Technology
 Level : Under Graduate Tier: 1
 Application No: 11860 Date of Submission: 20-05-2026
@@ -47,7 +47,6 @@ NATIONAL BOARD OF ACCREDITATION
 Data Capturing Points of the Program Applied for NBA Accreditation- Tier I/II UG (Engineering) Institute Programs
 6/30/26, 1:00 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=1434 1/26
- ## Page 2
  10 Engineering & TechnologyUG Computer Science andEngineering (Artificial Intelligence)2021 -- Computer Science andEngineering (Artificial Intelligence)
 11 Engineering & Technology PG Design Engineering2020 -- Mechanical Engineering
 12 Engineering & TechnologyUG Electrical & ElectronicsEngineering 2015 -- Electrical and ElectronicsEngineering
@@ -72,7 +71,6 @@ B1. Provide the Required Information for the Program Applied For:
 Table No. B1: Program details.A. List of the Programs Offered by the Department:
 6/30/26, 1:00 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=1434 2/26
- ## Page 3
  Sr. No.PROGRAM NAME
 PROGRAM APPLIED LEVEL
 YEAR OF START /YEAR OF CLOSED SANCTIONED INTAKE INCREASE/DECREASEINTAKE (if any)YEAR OFINCREASE/DECREASECURRENTINTAKE
@@ -104,7 +102,6 @@ Table No.B3.1: Admission details for the program excluding those admitted throug
 Item (Information to be provided cumulatively for all theshifts with explicit headings, wherever applicable)2025-26 (CAY) 2024-25 (CAYm1)2023-24 (CAYm2)2022-23 (CAYm3)2021-22 (CAYm4)2020-21 (CAYm5)2019-20(CAYm6)
 6/30/26, 1:00 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=1434 3/26
- ## Page 4
  N=Sanctioned intake of the program (as per AICTE /Competentauthority) 540 360 360 300 300 300 300
 N1=Total no. of students admitted in the 1st year minus the No. of students, who migrated to other programs/ institutions plusno. of students, who migrated to this program506 351 360 301 299 299 289
 N2=Number of students admitted in 2nd year in the same batchvia lateral entry including leftover seats0 40 30 35 36 16 27
@@ -137,7 +134,6 @@ Average API[ (AP1+AP2+AP3)/3 ] : 7.69
 B7: Academic Performance of the Second Year Students of the Program
 6/30/26, 1:00 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=1434 4/26
- ## Page 5
  Table No.B7.1: Academic Performance of the Second Year Students of the Program.
 Academic Performance CAYm1 ( 2024-25 )CAYm2 ( 2023-24 )CAYm3 ( 2022-23 )
 X=(Mean of 2nd year grade point average of all successful students on a 10-point scale) or (Mean of the percentage of marks of all successful students in2rd year/10) 7.93 7.83 7.58
@@ -178,7 +174,6 @@ In case ofNO, Date ofLeaving
 ISHOD?
 6/30/26, 1:00 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=1434 5/26
- ## Page 6
  1 Dr. Suneeta V.Budihal XXXXXXX02BM.E.andPh.D.VTU WirelessCommunication07/09/200223.8 LecturerProfessor01/11/2018Regular Yes Yes
 2 Dr. R. M.Banakar XXXXXXX98MM.TechandPh.D.IIT-DELHIVLSI andCommunicationsystems 07/09/198837.8 LecturerProfessor02/08/2004ContractualFulltime Yes No
 3 Dr. Nalini C.Iyer XXXXXXX64BM.TechandPh.D.VTU Network Security12/09/198836.11 LecturerProfessor21/04/2014Regular No 29/08/2025No
@@ -197,7 +192,6 @@ Ohio StateUniversity USANeural Networks09/04/20215.1 AssistantProfessorAssociate
 15 Mr. Kiran M. R.XXXXXXX61FM.TechVTU Digital Electronics14/01/200818.4 LecturerAssistantProfessor Regular Yes No
 6/30/26, 1:00 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=1434 6/26
- ## Page 7
  16 Mr.ShamshuddinK. XXXXXXX28PM.TechVTU ComputerNetworkingEngineering20/07/201015.9 LecturerAssistantProfessor Regular Yes No
 17 Ms.BhagyashreeKinnal XXXXXXX02CM.TechVTU VDES 02/08/201015.9 LecturerAssistantProfessor Regular Yes No
 18 Mr. KaushikMallibhatXXXXXXX48MM.TechVTU VDES 07/05/201214 AssistantProfessorAssistantProfessor Regular Yes No
@@ -218,7 +212,6 @@ https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=
 33 Mr. MohammedAzharuddinXXXXXXX39KM.TechVTU ComputerscienceEngineering18/10/20232.6 AssistantProfessorAssistantProfessor Regular Yes No
 6/30/26, 1:00 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=1434 7/26
- ## Page 8
  34 Ms. SushmaGarawadXXXXXXX54RM.TechKLETU VDES 01/11/20232.6 AssistantProfessorAssistantProfessor Regular Yes No
 35 Ms. Lydia R.Darla XXXXXXX52GM.TechKLETU VDES 07/11/20232.6 AssistantProfessorAssistantProfessor Regular Yes No
 36 Mr.SachidanandB. N. XXXXXXX68JM.TechVTU Digital Electronics31/08/20241.8 AssistantProfessorAssistantProfessor Regular Yes No
@@ -240,7 +233,6 @@ https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=
 52 Dr. Rohini S.Hongal XXXXXXX11NM.TechandPh.D.VTU EmbeddedSecurity 13/02/200322.10 LecturerProfessor06/04/2021Regular No 18/12/2025No
 6/30/26, 1:00 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=1434 8/26
- ## Page 9
  53 Ms. PoornimaPatil XXXXXXX96DM.TechVTU VDES 07/08/20232 AssistantProfessorAssistantProfessor Regular No 21/08/2025No
 54 Ms. SumitaGuddin XXXXXXX23NM.TechVTU Computer Science 03/10/20231.9 AssistantProfessorAssistantProfessor Regular No 09/07/2025No
 55 Dr. Tanuja R.Patil XXXXXXX50MM.TechandPh.D.VTU Image Processing16/03/199432.2 LecturerAssociateProfessor01/11/2011 Regular Yes No
@@ -262,7 +254,6 @@ https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=
 71 Mr. R. M. ShetXXXXXXX75NM.TechandPh.D.VTU Control Systems25/08/200420.5 LecturerAssistantProfessor Regular No 31/01/2025No
 6/30/26, 1:00 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=1434 9/26
- ## Page 10
  72 Dr. SarojaSiddamalXXXXXXX40FM.TechandPh.D.JNTU VLSI architecture& SignalProcessing04/10/200221.9 LecturerProfessor27/06/2016Regular No 01/07/2024No
 73 Dr. Vijay H. M.XXXXXXX32BM.TechandPh.D.VIT Vellore Semiconductormemories10/04/20213.4 AssistantProfessorAssociateProfessor01/03/2023Regular No 30/08/2024No
 74 Mr. ShashidharN. XXXXXXX36BM.TechVTU Digital Electronics01/09/20177 AssistantProfessorAssistantProfessor Regular No 30/08/2024No
@@ -297,7 +288,6 @@ ISHOD?
 1 Dr. SujataKotabagiXXXXXXX67BNA MS andPhD VTU Analog & MixedMode VLSI29/08/200223.8 AssistantProfessorProfessor01/11/2018Regular Yes Yes
 6/30/26, 1:00 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=1434 10/26
- ## Page 11
  2 Dr. Vijay H.M. XXXXXXX32BNA M.TechandPh.D.
 VITVelloreSemiconductormemories31/08/20241.8 AssociateProfessorAssociateProfessor Regular Yes No
 3 Ms. AsmitaA. XXXXXXX04ENA M.TechVTU IndustrialElectronics01/02/20251.3 AssistantProfessorAssistantProfessor Regular Yes No
@@ -319,7 +309,6 @@ UG2: ELECTRONICS AND COMMUNICATION ENGINEERING 1122 1047 990
 UG3.B 65 64 64
 6/30/26, 1:00 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=1434 11/26
- ## Page 12
  Description CAY(2025-26) CAYm1 (2024-25) CAYm2 (2023-24)
 UG3.C 64 65 0
 UG3.D 65 0 0
@@ -354,7 +343,6 @@ Assistant Professors
 Required RF3 Available AF3
 6/30/26, 1:00 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=1434 12/26
- ## Page 13
  2025-26 7.00 8.00 15.00 6.00 47.00 45.00
 2024-25 7.00 12.00 14.00 6.00 44.00 38.00
 2023-24 7.00 12.00 14.00 4.00 43.00 38.00
@@ -385,7 +373,6 @@ C7. Sponsored Research Project
 Table No. C7.1: List of sponsored research projects received from external agencies.
 6/30/26, 1:00 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=1434 13/26
- ## Page 14
  (CAYm1)
 PI NameCo-PInames ifany
 Name of the Dept., whereproject is sanctionedProject Title* Name of the Fundingagency Duration ofthe projectAmount(Lacs)i.e. 15, 25, 000=15.25
@@ -411,7 +398,6 @@ Ramesh A. Tabib CEVI-SEED under SOCSEData and Operational ConsultancySamsung R&D
       Amount received (Rs.):28.69
 6/30/26, 1:00 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=1434 14/26
- ## Page 15
  (CAYm2)
 PI Name Co-PI names if anyName of the Dept., where project is sanctionedProject Title* Name of the Funding agencyDuration of the projectAmount(Lacs)i.e. 15, 25, 000=15.25
 Ramesh A. Tabib CEVI-SEED under SOCSEData and Operational ConsultancySamsung R&D Institute India Bangalore(SRI-B)12 32.13
@@ -439,7 +425,6 @@ PART D: Laboratory Infrastructure in the Department
 D1. Adequate and Well-Equipped Laboratories, and Technical Manpower
 6/30/26, 1:00 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=1434 15/26
- ## Page 16
  Table No.D1.1: List of laboratories and technical manpower.
 Sr. No Name of the LaboratoryNumber ofstudents per setup(Batch Size)Name of the Important Equipment
 Weeklyutilizationstatus(all thecourses forwhich the lab isutilized)
@@ -476,7 +461,6 @@ Table No. D2.1: List of various safety measures in laboratories.
 Sr.NoLaboratory Name Safety Measures
 6/30/26, 1:00 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=1434 16/26
- ## Page 17
  1
 Digital Electronics Lab Do's Handle all laboratory equipment carefully. Ensure all power supplies are properly grounded. Use only regulated DC power supplies within therecommended voltage and current limits. Switch off the power supply before making or changing any circuit connections. Follow the lab manual andinstructor's instructions carefully. Maintain a logbook to record equipment usage and report faults.Check all equipment before the commencement ofexperiments to ensure they are in proper working condition. Report any breakage or malfunction immediately to the lab in charge. Don'ts Do notkeep bags, water bottles, or food items on the laboratory tables. Do not operate equipment that is damaged or not in working condition. Do notignore faults or breakages-always inform the lab in charge immediately.
 2
@@ -499,17 +483,14 @@ Automotive Electronics Do's Keep the workspace clean and free from unnecessary e
 IC packing lab Do's Keep the workspace clean and free of unnecessary tools or materials. Turn OFF the power supply before connecting or removing IC testsockets or boards. Don'ts Do not bring food, water bottles, or unrelated electronic devices near the work area. Do not connect or remove IC testsockets or boards while the power is ON.
 6/30/26, 1:00 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=1434 17/26
- ## Page 18
  11
 Project lab Do's Always turn OFF the power supply before: Changing components Adjusting circuit connections Mounting or removing ICs Ensure propergrounding for instruments such as oscilloscopes and function generators. Shut down computers and instruments properly before leaving thelaboratory. Report any damaged tools or faulty equipment immediately to the lab in-charge. Ensure proper ventilation when using: Etching chemicals(FeCl3) PCB cleaners Isopropyl alcohol Don'ts Do not work on live circuits while changing components or ICs. Do not use damaged or faulty tools orequipment. Do not leave computers or instruments powered ON when not in use Do not use chemicals in poorly ventilated areas.
 D3. Project Laboratory/Research Laboratory
 6/30/26, 1:00 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=1434 18/26
- ## Page 19
  Sl. No. Name of theLab Area ofWork ResourceUtilization
 6/30/26, 1:00 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=1434 19/26
- ## Page 20
  1. 
   Centre forIntelligentMobility
   PerceptionandControl
@@ -529,7 +510,6 @@ Workstations(HPZ6 G4
 32-bit ARMCortex-M7Evaluation Board
 6/30/26, 1:00 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=1434 20/26
- ## Page 21
  Event CameraSensorPSF138MPEV280
 Skateboard
 AutonomousBuggy
@@ -543,10 +523,8 @@ Signal IntegrityandElectromagneticCompatibility
 Cadence(Sigrity) UG, PG
   6/30/26, 1:00 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=1434 21/26
- ## Page 22
  6/30/26, 1:00 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=1434 22/26
- ## Page 23
  1. 3D LiDAR: A 3D LiDAR sensor from Velodyne is utilized for high-resolution environmental mapping and object detection. The rotating multi-beam laser architecture enables real-timeacquisition of dense 3D point clouds, supporting applications in autonomous navigation, obstacle avoidance and SLAM. Its wide field of view and long-range detection capability allow accuratereconstruction of complex environments under diverse lighting conditions. The system facilitates precise localization and perception experiments by providing reliable spatial data for algorithmdevelopment and validation.
 2. RADAR AWR1642 Evaluation Module with DCA1000 EVM Capture Card: The AWR1642 radar evaluation module is integrated with the DCA1000 EVM capture card to assessmmWave radar sensing performance for automotive and robotics applications. This setup provides real-time acquisition of raw IF radar data, enabling experiments related to range estimation, velocity profiling, and object detection. The high-frequency FMCW radar supports robust sensing in low-visibility environments, while the capture card ensures lossless high-speed datastreaming for algorithm training, signal processing, and performance benchmarking.
 3. Real Sense Depth Camera (0.3 m - 3 m, 1280×720, USB-C): An Intel RealSense depth camera is used for stereo-based depth sensing and RGB-D data acquisition in roboticperception tasks. With an operating range of 0.3-3 meters and HD resolution, it enables precise depth mapping for obstacle detection, gesture recognition, and SLAM. The USB-C interfaceensures high-speed data transfer suitable for real-time applications. This system supports evaluation of depth-estimation algorithms and enhances spatial understanding in indoor and outdoorenvironments.
@@ -554,7 +532,6 @@ https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=
 5. Xilinx PYNQ-Z2 Board: The Xilinx PYNQ-Z2 is a Zynq-7000 SoC-based development board used for rapid prototyping of FPGA-accelerated algorithms. Its Python-based PYNQenvironment allows seamless integration of programmable logic for hardware acceleration in image processing, machine learning, and control tasks. The platform enables experimentation withcustom hardware overlays and supports real-time embedded system development.
 6/30/26, 1:00 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=1434 23/26
- ## Page 24
  6. Xilinx ZCU104 Evaluation Kit: The ZCU104 evaluation kit, powered by the Zynq UltraScale+ MPSoC, supports high-performance embedded processing and hardware acceleration for AI, DSP and Real-time Control applications. The board provides extensive I/O, PL resources, and multi-core ARM processing, enabling system-level development of perception pipelines, neuralnetwork inference engines, and heterogeneous computing architectures. It is ideal for validating compute-intensive algorithms in autonomous and edge-AI research.
 7. Buggy Vehicle: A research-grade buggy vehicle serves as a mobile platform for autonomous navigation and perception experiments. It supports integration of LiDARs, Cameras, Radarsand Embedded computers for real-world testing of control algorithms, sensor fusion, and path-planning. The platform's adaptability allows safe and repeatable evaluation of autonomousdriving functions under controlled conditions.
 8. Logitech G29 Racing Wheel: The Logitech G29 racing wheel is employed as a human-machine interface device for driver-behavior modeling, driving simulators, and control-systemtesting. Its force-feedback mechanism replicates realistic steering dynamics, enabling accurate studies of manual control inputs, driver reaction analysis, and semi-autonomous vehiclesupervision tasks.
@@ -571,7 +548,6 @@ https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=
 19. ChipWhisperer Lite 2-Port with XMEGA: The Chip-Whisperer Lite 2-port platform with XMEGA microcontroller is used for side-channel analysis (SCA) and hardware-securityexperimentation. Designed for power-analysis, fault-injection, and cryptographic vulnerability research, it enables high-precision capture of power traces during embedded firmware execution.The XMEGA target allows controlled execution of cryptographic algorithms such as AES for evaluating resistance against timing attacks, differential power analysis, and glitch-based faultattacks. This setup provides a comprehensive environment for studying embedded system security, validating countermeasures, and training machine-learning models for SCA-based threatdetection.
 6/30/26, 1:00 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=1434 24/26
- ## Page 25
  20. Skateboard: The Autonomous Vehicle Skateboard is a modular robotic platform used for research in autonomous navigation and smart mobility systems. It integrates sensors, controllers, motor drivers, and battery systems for experimentation in obstacle detection, path planning, and autonomous control. The platform supports UG projects, research activities, andinnovation in robotics and intelligent transportation technologies.
 21. Autonomous Buggy: The Autonomous Buggy is a self-driving robotic vehicle platform equipped with sensors, embedded controllers and intelligent navigation algorithms. It is used forhands-on learning and research in autonomous driving, robotics, computer vision, path planning and artificial intelligence. The facility enables students to design, develop and test autonomousnavigation and obstacle avoidance systems, supoorting project based learning and innovation in smart mobility and intelligent transportation applications.
   PART E: First Year faculty and financial Resources
@@ -596,7 +572,6 @@ Outreach Programs2000000.00 1821446.00 1700000.00 1059445.00 1200000.00 1185057.
 R&D 95000000.0089863171.00 120000000.00105715282.2091000000.0067685714.98 85916358 85916358
 6/30/26, 1:00 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=1434 25/26
- ## Page 26
  Training, Placement and Industry linkage 40000000.0032995616.20 28000000.0028096690.28 39400000.0027868861.85 16700000 22804772.45
 SDGs 500000.00 00 500000.00 000 00 00 00 00
 Entrepreneurship 6000000.00 5500402.00 6500000.00 5765247.00 8500000.00 8288555.00 6000000 5721313

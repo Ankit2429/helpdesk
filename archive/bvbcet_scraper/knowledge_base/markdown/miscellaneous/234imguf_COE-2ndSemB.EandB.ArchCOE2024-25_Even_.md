@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 234imguf_COE-2ndSemB.EandB.ArchCOE2024-25_Even_"
+title: "COE 2ndsemb.eandb.archcoe2024 25 Even"
 category: "miscellaneous"
 subcategory: ""
 document_type: "minutes"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["april", "date", "document", "eandb", "june", "march", "minor"]
 aliases: []
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "1"
 ---
-# PDF Document: 234imguf_COE-2ndSemB.EandB.ArchCOE2024-25_Even_
- **PDF Source:** https://www.kletech.ac.in/Uploads/image/234imguf_COE-2ndSemB.EandB.ArchCOE2024-25(Even).pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/Uploads/image/234imguf_COE-2ndSemB.EandB.ArchCOE2024-25(Even).pdf
                                                                                                                                                                                                                                         1q2 
   ANAM 0201/1.0 
 CALENDAR OF EVENTS 
@@ -78,5 +78,4 @@ Bakird : 7th June
 No of working 
 days 15 17 14 14 15 15 90 
 Holidays 
-  Marks / Attendance display Minor exam Feedback 
-    
+  Marks / Attendance display Minor exam Feedback

@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 257imguf_kle-tech_equal-opportunity-cell"
+title: "KLE Tech Equal Opportunity Cell"
 category: "miscellaneous"
 subcategory: ""
 document_type: "act"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["cell", "document", "hubballi", "member", "opportunity", "registrar", "technological", "university"]
 aliases: ["ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "5"
 ---
-# PDF Document: 257imguf_kle-tech_equal-opportunity-cell
- **PDF Source:** https://www.kletech.ac.in/Uploads/image/257imguf_kle-tech_equal-opportunity-cell.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/Uploads/image/257imguf_kle-tech_equal-opportunity-cell.pdf
  B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi 580031. Karnataka (India) 
 Tel. : +91 - 836 - 2378123 Fax : +91 - 836 - 2374985. www.kletech.ac.in 
   Earlier known as 
@@ -56,7 +56,6 @@ University, Hubli
 CC: 
 1. Office of the Registrar, KLE Technological University, Hubballi 
 2. PA to Vice-Chancellor, KLE Technological University, Hubball 
-  ## Page 2
  B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi 580031. Karnataka (India) 
 Tel. : +91 - 836 - 2378123 Fax : +91 - 836 - 2374985. www.kletech.ac.in 
   Earlier known as 
@@ -89,7 +88,6 @@ To,
 CC: 
 2. Office of the Registrar, KLE Technological University, Hubballi 
 3. PA to Vice-Chancellor, KLE Technological University, Hubballi 
-  ## Page 3
  B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi 580031. Karnataka (India) 
 Tel. : +91 - 836 - 2378123 Fax : +91 - 836 - 2374985. www.kletech.ac.in 
   Earlier known as 
@@ -120,7 +118,6 @@ KLE Technological University Hubballi
 CC: 
 2. Office of the Registrar, KLE Technological University, Hubballi 
 3. PA to Vice-Chancellor, KLE Technological University, Hubballi 
-  ## Page 4
  B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi 580031. Karnataka (India) 
 Tel. : +91 - 836 - 2378123 Fax : +91 - 836 - 2374985. www.kletech.ac.in 
   Earlier known as 
@@ -144,7 +141,6 @@ KLE Technological University Hubballi
 CC: 
 2. Office of the Registrar, KLE Technological University, Hubballi 
 3. PA to Vice-Chancellor, KLE Technological University, Hubballi 
-  ## Page 5
  B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi 580031. Karnataka (India) 
 Tel. : +91 - 836 - 2378123 Fax : +91 - 836 - 2374985. www.kletech.ac.in 
   Earlier known as 
@@ -172,5 +168,4 @@ KLE Technological University Hubballi
 1. All the members of the Equal Opportunity Cell 
   CC: 
 2. Office of the Registrar, KLE Technological University, Hubballi 
-3. PA to Vice-Chancellor, KLE Technological University, Hubballi 
- 
+3. PA to Vice-Chancellor, KLE Technological University, Hubballi

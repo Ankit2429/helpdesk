@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: bachelor-automation-robotics-curriculum-2022-2026"
+title: "Bachelor Automation Robotics Curriculum 2022 2026"
 category: "academics"
 subcategory: ""
 document_type: "syllabus"
@@ -11,15 +11,14 @@ language: "en"
 keywords: ["automation", "bachelor", "chapter", "course", "curriculum", "design", "document", "engineering", "marks", "robotics"]
 aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "EEE", "EE", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "130"
 ---
-# PDF Document: bachelor-automation-robotics-curriculum-2022-2026
- **PDF Source:** https://www.kletech.ac.in/pdf/bachelor-automation-robotics-curriculum-2022-2026.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/bachelor-automation-robotics-curriculum-2022-2026.pdf
  FMCD2009 / 2.0 1 
   Curriculum Structure and Curriculum Content for the Batch 2022-26 
 Department of Automation & Robotics 
 Bachelor of Engineering (Automation & Robotics) 
- ## Page 2
  FMCD2009 / 2.0 2 
   Table of Contents 
 Vision and Mission of KLE Technological University ............................................ 3 
@@ -40,7 +39,6 @@ Semester- VIII .................................................................
 List of Open Electives ............................................................................................ 17 
 List of Program Electives....................................................................................... 18 
 Curriculum Content- Course wise ......................................................................... 19 
- ## Page 3
  FMCD2009 / 2.0 3 
   Vision and Mission of KLE Technological University 
   Vision 
@@ -63,7 +61,6 @@ contributing our expertise, experience and leadership, to enhance
 competitiveness and quality of life. 
   As a unified community of faculty, staff and students, we work together with 
 the spirit of collaboration and partnership to accomplish our mission. 
- ## Page 4
  FMCD2009 / 2.0 4 
   Vision and Mission Statements of the Department of Automation & Robotics 
   Vision 
@@ -73,7 +70,6 @@ the diverse needs of our changing society.
   The mission of the Automation & Robotics Program is to prepare 
 undergraduate students with in -depth technical knowledge in th e fields of 
 mechanical, electronics, computer, control systems, and applications. 
- ## Page 5
  FMCD2009 / 2.0 5 
   Program Educational Objectives/Program Outcomes and Program-Specific 
 Objectives 
@@ -114,7 +110,6 @@ PO7. Ethics: Apply ethical principles and commit to professional ethics, human v
 diversity and inclusion; adhere to national & international laws. (WK9) 
 PO8. Individual and Collaborative Team work: Function effectively as an individual, and as 
 a member or leader in diverse/multi- disciplinary teams. 
- ## Page 6
  FMCD2009 / 2.0 6 
   PO9. Communication: Communicate effectively and inclusively within the engineering 
 community and society at large, such as being able to comprehend and write effective 
@@ -134,7 +129,6 @@ robotic systems and programs for diverse applications.
 PSO 2 - Integration and Applications of Automation and Robotics: Identify the needs, 
 design, select, and integrate appropriate automation and robotic subsystems for diverse 
 applications. 
- ## Page 7
  FMCD2009 / 2.0 7 
   Curriculum Structure-Overall 
   Semester Total Program Credits: 177 
@@ -189,7 +183,6 @@ Applied Physics Lab Professional Manufacturing Robot Analysis & Machine Learning
 21EPHP102 Communication Technology & Design & ROS Lab Pneumatics Project 
  15EHSH101 Processes 18EARC210 18EARP301 Lab 25EARW401 
   23EARC205 16EARP302 
- ## Page 8
  FMCD2009 / 2.0 8 
      Analog & Digital Manufacturing & Industrial Mechatronics & Constitution of 
 Electronic Circuits Metrology Lab Robotics Lab Measurements India, Professional 
@@ -215,7 +208,6 @@ Readiness and
 Leadership Skills 
 22EHSH302 
 Credits 22 22 26.5 26.5 22.5 25.5 15 17 
- ## Page 9
  FMCD2009 / 2.0 9 
   Curriculum Structure-Semester wise 
   Semester - I 
@@ -244,7 +236,6 @@ ES 4-0-0 4 4 50 50 100 3 Hrs
 6 22EMEF101 Basic Mechanical Engineering ES 2-1-0 3 4 50 50 100 3 Hrs 
 7 21EPHP102 Applied Physics Lab BS 0-0-1 1 2 80 20 100 3 Hrs 
 TOTAL 13-2-7 22 31 
- ## Page 10
  Semester - II 
 FMCD2009 / 2.0 10 
   No. 
@@ -269,7 +260,6 @@ Duration
 6 20EHSP101 Design Thinking for Social Innovation HSS 0-1-1 2 4 80 20 100 3 Hrs 
 7 15EHSH101 Professional Communication HSS 1-1-0 2 3 50 50 100 3 Hrs 
 TOTAL 12-3-7 22 32 
- ## Page 11
  Semester- III 
 FMCD2009 / 2.0 11 
   No. 
@@ -301,7 +291,6 @@ Laboratory
 PSC 0-0-1 1 2 80 20 100 3 Hrs 
 11 22EHSH201 Corporate Communication HSS 0.5-0-0 0.5 0.5 100 0 100 3 Hrs 
 TOTAL 19.5-1-6 26.5 33.5 
- ## Page 12
  Semester- IV 
 FMCD2009 / 2.0 12 
   No. 
@@ -335,7 +324,6 @@ PSC 2-0-3 5 8 80 20 100 3 Hrs
 9 22EARP208 Microcontrollers Programming & Interfacing Lab PSC 0-0-1 1 2 80 20 100 3 Hrs 
 10 22EHSH202 Problem Solving and Analysis HSS 0.5-0-0 0.5 0.5 100 0 100 3 Hrs 
 TOTAL 19.5-1-6 26.5 33.5 
- ## Page 13
  Semester- V 
 FMCD2009 / 2.0 13 
   No. 
@@ -364,7 +352,6 @@ Duration
 9 18EARW301 Mini Project - (Engineering Design Project) PRJ 0-0-3 3 6 80 20 100 3 Hrs 
 10 22EHSH301 Arithmetical Thinking and Analytical Reasoning HSC 0.5-0-0 0.5 0.5 100 0 100 3 Hrs 
 TOTAL 12.5-0-10 22.5 32.5 
- ## Page 14
  Semester- VI 
 FMCD2009 / 2.0 14 
   No. 
@@ -394,7 +381,6 @@ Duration
 11 16EHSC301 Professional Aptitude & Logical Reasoning HSC 3-0-0 3 3 50 50 100 1.5 Hrs 
 12 22EHSH302 Industry Readiness and Leadership Skills HSC 0.5-0-0 0.5 0.5 100 0 100 3 Hrs 
 TOTAL 16.5-0-9 25.5 34.5 
- ## Page 15
  Semester- VII 
 FMCD2009 / 2.0 15 
   No. 
@@ -423,7 +409,6 @@ Constitution of India, Professional Ethics
 and Environmental Studies 
 HSC 0-0-0 0 0 50 50 100 3 Hrs 
 TOTAL 9-0-6 15 21 
- ## Page 16
  Semester- VIII 
 FMCD2009 / 2.0 16 
   No. 
@@ -450,7 +435,6 @@ OR
 TOTAL 0-0-17 17 28 
   Semester I II III IV V VI VII VIII Total 
 Credits 22 22 26.5 26.5 22.5 25.5 15 17 177 
- ## Page 17
  FMCD2009 / 2.0 17 
   List of Open Electives 
   Sr. No Name of the Course Course Code 
@@ -467,7 +451,6 @@ Credits 22 22 26.5 26.5 22.5 25.5 15 17 177
 11 Technical Writing 18EHSO402 
 12 Advanced Mathematics 22EMAO401 
 13 Applied Numerical Methods 15EMAO401 
- ## Page 18
  FMCD2009 / 2.0 18 
   List of Program Electives 
   Sr. No Name of the Course Course Code 
@@ -482,7 +465,6 @@ Credits 22 22 26.5 26.5 22.5 25.5 15 17 177
 9 Research Experience for Undergraduates 17EARE490 
 10 Institutional Research Project 17EARE491 
 11 Smart Manufacturing 17EARE404 
- ## Page 19
  FMCD2009 / 2.0 19 
   Curriculum Content- Course wise 
   Program: Automation & Robotics Engineering Semester: I 
@@ -522,7 +504,6 @@ Unit III
 Introduction to Initial Value problems. Linear and Bernoulli's equations, Exact equations and 
 reducible to exact form, Numerical solution to Initial Value problems-Euler's method, Modified 
 Euler's method and Runge-Kutta method 
- ## Page 20
  FMCD2009 / 2.0 20 
   Applications of first order differential equations-Orthogonal trajectories growth and decay 
 problems, mixture problems, Electrical circuits, falling bodies. 
@@ -532,8 +513,6 @@ Text Books
 Reference Books: 
 1. Calculus Single and Multivariable, Hughues-Hallett Gleason, Wiley India Ed, 4ed, 2009. 
 2. Thomas Calculus, George B Thomas, Pearson India, 12ed, 2010 
-  BACK 
- ## Page 21
  FMCD2009 / 2.0 21 
   Program: Automation & Robotics Engineering Semester: I 
 Course Title: Engineering Physics Course Code: 22EPHB102 
@@ -572,7 +551,6 @@ density of states andconfinement of electron energy states in 3D, 2D, 1D an d 0D
 physical properties (mechanical, optical, electric, magnetic, chemical) from bulk to thin films to 
 nano-materials, nano-particle examples: metal(magnetic and non-magnetic), Graphene, carbon 
 nanotubes, biological nanoparticles. 
- ## Page 22
  FMCD2009 / 2.0 22 
   Text Books: 
 1. Randall D Knight, Physics for Scientists and Engineers, Pearson publication, 3e (2008) 
@@ -585,8 +563,6 @@ modern physics, Cengage publication, India Edition, 9e (2014)
 Norton and Company, Vol-1, 3e (2006) 
 3. A.K. Bandopadhya, Nanomaterials, New Age Publishers, (2004) 
 4. S.K. Prasad, Advanced nano technology, Discovery publishing house Pvt. Ltd New Delhi 
-  BACK 
- ## Page 23
  FMCD2009 / 2.0 23 
   Program: Automation & Robotics Engineering Semester: I 
 Course Title: C Programming for Problem Solving Course Code: 18ECSP101 
@@ -625,8 +601,6 @@ Reference Books:
 1. B W Kernighan, D M Ritchie, The Programming language C, 2ed, PHI, 2004. 
 2. B S Gottfried, Programming with C, 2ed, TMH, 2006. 
 3. B.A. Forouzan, R.F. Gilberg, A Structured Program Approach Using C, 3ed, CENGAGE Learning, 2008 
-  BACK 
- ## Page 24
  FMCD2009 / 2.0 24 
   Program: Automation & Robotics Engineering Semester: I 
 Course Title: Engineering Exploration Course Code: 22ECRP101 
@@ -661,8 +635,6 @@ Applying Moral Theories and codes of conduct for resolution of Ethical Dilemmas.
 Module 7. Sustainability in Engineering 
 Introduction to sustainability, Sustainability leadership, Life cycle assessment, carbon foot 
 print. 
-  BACK 
- ## Page 25
  FMCD2009 / 2.0 25 
   Program: Automation & Robotics Engineering Semester: I 
 Course Title: Basic Electrical & Electronics Engineering Course Code: 21EEXF101 
@@ -700,7 +672,6 @@ Text Books
 1. Anant Agarwal and Jefferey H. Lang, Foundations of Analog and Digital Electronic 
 Circuits, Morgan Kaufmann -Elsevier, 2005 
 2. Hughes, Electrical and Electronic Technology, 12th Edition, Pearson, 2016. 
- ## Page 26
  FMCD2009 / 2.0 26 
   Reference Books: 
 1. N.P.Mahalik, Mechatronics - Principles, Concepts and Applications, Tata McGraw-Hill, 
@@ -718,8 +689,6 @@ Eastern, 2001
 Engineering, 3, Pearson Education, 2005 
 9. Ernest O Doeblin, Dhanesh N Manik, Measurement Systems, 6th Edition, McGraw Hill 
 Education; 2017 
-  BACK 
- ## Page 27
  FMCD2009 / 2.0 27 
   Program: Automation & Robotics Engineering Semester: I 
 Course Title: Basic Mechanical Engineering Course Code: 22EMEF101 
@@ -755,7 +724,6 @@ Pumps, Blowers and Compressors and their working principle
   Tutorial Content 
 Virtual Prototyping: 2D sketching, 3D modelling-Extrude, Revolve, Pattern and Sheet Metal 
 Assembly. 
- ## Page 28
  FMCD2009 / 2.0 28 
   Visit to workshop: welding shop, sheet metal shop, machine Shop. 
 Demonstration of various machine tools such as lathe, milling, drilling and grinding machines 
@@ -775,8 +743,6 @@ Reference Books:
 1. 1. SKH Chowdhary, AKH Chowdhary, Nirjhar Roy, The Elements of Workshop Technology, 
 Vol I &amp; II, 11th edition, Media Promoters and Publishers, 2001 
 2. Roger Timings, Basic Manufacturing, Third edition, Newnes, An imprint of Elsevier, 2010 
-  BACK 
- ## Page 29
  FMCD2009 / 2.0 29 
   Program: Automation & Robotics Engineering Semester: I 
 Course Title: Applied Physics Lab Course Code: 21EPHP102 
@@ -794,8 +760,6 @@ LIST OF EXPERIMENTS
 8. Use of measuring instruments (RPS & FG) and calibration of oscilloscope 
 9. Realization of basic gates (Using IC's) 
 10. Zener diode characteristics and voltage regulation (line and load regulation). 
-  BACK 
- ## Page 30
  FMCD2009 / 2.0 30 
   Program: Automation & Robotics Engineering Semester: II 
 Course Title: Multivariable Calculus Course Code: 18EMAB102 
@@ -828,13 +792,10 @@ Series solution of Differential equations.
 MATLAB: application of differential equations 
 Text Books 
 1. Early Transcendental Calculus- James Stewart, Thomson Books, 7ed 2010 
- ## Page 31
  FMCD2009 / 2.0 31 
   Reference Books: 
 1. Calculus Single and Multivariable, Hughues-Hallett Gleason, Wiley India Ed, 4ed, 2009. 
 2. Thomas Calculus, George B Thomas, Pearson India, 12ed, 2010 
-  BACK 
- ## Page 32
  FMCD2009 / 2.0 32 
   Program: Automation & Robotics Engineering Semester: II 
 Course Title: Engineering Chemistry Course Code:22ECHB101 
@@ -876,7 +837,6 @@ Types of fuel cells; Methanol - Oxygen fuel cell
   Chapter 6: Surface Chemistry 
 Corrosion: Electrochemical theory of corrosion by taking Iron as an example; Metal Finishing: 
 Electroplating: Definition, electroplating of Chromium, determination of Throwing Power of 
- ## Page 33
  FMCD2009 / 2.0 33 
   plating bath by Haring Blum cell and numerical problems; Electroless plating: advantages of 
 electroless plating over electroplating, electroless plating of Nickel; Hot dipping coating: 
@@ -915,14 +875,11 @@ S Nagin Chand and Co., 1992, New Delhi.
 publications, 2001, New York. 
 7. Corrosion Engineering, 3rd edition, Fontana M G, McGraw Hill Publications, 1986, New York. 
 8. Materials Science and Engineering: An introduction, 7th, Edition William D Callister, John 
- ## Page 34
  FMCD2009 / 2.0 34 
   Wiley and Sons, 2007, New York. 
 9. Text Book of Polymer Science, 3rd edition, Fred W. Billmeyer, John Wiley and Son's, 1984, 
 New York. 
 10. Principles of Polymer Chemistry, A. Ravve, Plenum Press, 2012, New York and London. 
-  BACK 
- ## Page 35
  FMCD2009 / 2.0 35 
   Program: Automation & Robotics Engineering Semester: II 
 Course Title: Engineering Mechanics Course Code: 15ECVF102 
@@ -951,7 +908,6 @@ Characteristics of couple, Equivalent force -couple system, Numerical problems o
 forces and couples, on equivalent force-couple system. Varignons principle of moments, 
 Resultan 
 t of coplanar- non-concurrent force systems and numerical problems. 
- ## Page 36
  FMCD2009 / 2.0 36 
   Unit II 
   Chapter 4: Equilibrium of a force system (Chapter 3 contd.) 
@@ -994,13 +950,10 @@ Reference Books:
 2. Ramamrutham, S., Engineering Mechanics, Dhanpat Rai Publishing Co., New Delhi, 1998. 
 3. Singer, F.L., Engineering Mechanics, 3rd edition Harper Collins, 1994. 
 4. Timoshenko, S.P. and Young, D.H., Engineering Mechanics, 4th edition, McGraw Hill 
- ## Page 37
  FMCD2009 / 2.0 37 
   Publishing Company, New Delhi, 1956. 
 5. Irving H Shames, Engineering Mechanics, 3rd edition, Prentice-Hall of India Pvt. Ltd, New 
 Delhi- 110 001, 1995 
-  BACK 
- ## Page 38
  FMCD2009 / 2.0 38 
   Program: Automation & Robotics Engineering Semester: II 
 Course Title: Computer-Aided Engineering Drawing Course Code: 15EMEP101 
@@ -1037,8 +990,6 @@ software
 Text Books: 
 1. Text Book of Engineering Drawing by K R Gopalakrishna 
 2. Text Book of Engineering Drawing by N D Bhatt and V M Panchal 
-  BACK 
- ## Page 39
  FMCD2009 / 2.0 39 
   Program: Automation & Robotics Engineering Semester: II 
 Course Title: Problem-Solving with Data Structures Course Code: 18ECSP102 
@@ -1069,8 +1020,6 @@ Text Books
 Reference Books: 
 1. Data Structures, Algorithms and Applications In C++ -- Satraj Sahani 
 2. Data Structures and Algorithms Made Easy - Narshiman Karumunchi, Career Monk 
-  BACK 
- ## Page 40
  FMCD2009 / 2.0 40 
   Program: Automation & Robotics Engineering Semester: II 
 Course Title: Design Thinking for Social Innovation Course Code: 20EHSP101 
@@ -1165,7 +1114,6 @@ Creative
 Confidence by 
 David Kelley - 
 IDEO Founder) 
-   ## Page 41
  FMCD2009 / 2.0 41 
   Process of Social Innovation 
   Engage 
@@ -1238,7 +1186,6 @@ respective templates with
 the help of sample case 
 study 
 Capture your Learnings 
-  ## Page 42
  FMCD2009 / 2.0 42 
     3. Ideation 
 3. 1 Synthesis 
@@ -1322,7 +1269,6 @@ Reading assignments
  Familiarization of the 
 respective templates 
 with the help of 
- ## Page 43
  FMCD2009 / 2.0 43 
     by the students students Reflection 
 Use template 9: Reflection on the 
@@ -1331,8 +1277,6 @@ Class Presentations
   Final Presentation- After 
 Implementation 
 sample case study 
-  BACK 
- ## Page 44
  FMCD2009 / 2.0 44 
   Program: Automation & Robotics Engineering Semester: II 
 Course Title: Professional Communication Course Code: 15EHSH101 
@@ -1357,8 +1301,6 @@ Reference Books:
 1. Collins Cobuild Advanced Learner's English Dictionary 
 2. Raymond Murphy - Intermediate English Grammar, Cambridge University Press 
 3. Martin Hewings- Advanced English Grammar, Cambridge University Press. 
-  BACK 
- ## Page 45
  FMCD2009 / 2.0 45 
   Program: Automation & Robotics Engineering Semester: III 
 Course Title: Calculus And Integral Transforms Course Code: 15EMAB231 
@@ -1396,15 +1338,12 @@ Initial value problems.
 Function of comp lex variables. Limits, continuity and differentiability. Analytic functions, C -R 
 equations in Cartesian and polar forms, construction of Analytic functions (Cartesian and polar 
 forms). 
- ## Page 46
  FMCD2009 / 2.0 46 
   Text Books: 
 1. Grewal B S, Higher Engineering Mathematics, 38, Khanna Pub, 2001 
 2. Bali and Iyengar, A text book of Engineering Mathematics, 6, Laxmi Publ, 2003 
 Reference Books: 
 1. James Stewart, Early Transcendental Calculus, 5, Cengage Le, 2007. 
-  BACK 
- ## Page 47
  FMCD2009 / 2.0 47 
   Program: Automation & Robotics Engineering Semester: III 
 Course Title: Statistics And Integral Transforms Course Code: 15EMAB201 
@@ -1443,7 +1382,6 @@ range series and examples
 Chapter 7: .Fourier Transform 
 Exponential Representation of non -periodic functions and Existence of Fourier transforms and 
 simple examples 
- ## Page 48
  FMCD2009 / 2.0 48 
   Text Books: 
 1. Gupta S C and Kapoor V K, Fundamentals of Mathematical Statistics, 9th edition, Sultan 
@@ -1457,8 +1395,6 @@ applications, 1st edition, PHI, 2000
 2. Miller, Freud and Johnson, Probability and Statistics for Engineering, 5th edition, PHI, 2000 
 3. Potter.M.C, Jack Goldberg and Aboufadel.E. F, Advanced Engineering Mathematics, 3rd 
 edition, Oxford Ind, 2005 
-  BACK 
- ## Page 49
  FMCD2009 / 2.0 49 
   Program: Automation & Robotics Engineering Semester: III 
 Course Title: Analog & Digital Electronic Circuit Course Code: 18EARF201 
@@ -1498,7 +1434,6 @@ associative and distributive properties, DE Morgan's theorems, realization of sw
 functions using logic gates. 
 Switching equations, canonical logic forms, sum of product & product of sums, Karnaugh 
 maps, two, three and four variable Karnaugh maps, simplification of expressions. 
- ## Page 50
  FMCD2009 / 2.0 50 
   Chapter 6 : 
 Design of combinational logic circuits and sequential logic 
@@ -1523,8 +1458,6 @@ Text Books:
 2005 
 2. Thomas L. Floyd, Digital fundamentals, 9, Pearson Ed, 2006 
 3. Robert L. Boylestad, Electronic Devices and Circuit Theory, 10, Pearson Ed, 2008 
-  BACK 
- ## Page 51
  FMCD2009 / 2.0 51 
   Program: Automation & Robotics Engineering Semester: III 
 Course Title: Kinematics of Machinery Course Code: 19EARF202 
@@ -1564,7 +1497,6 @@ geometry, Chain drive kinematics.
 Chapter 8: Screw Mechanisms 
 Thread features, Thread forms, Ball screws, Lead Screw kinematics, Screw forces and torques, 
 Differential screws, Auger screws. 
- ## Page 52
  FMCD2009 / 2.0 52 
   Text Books: 
 1. Fundamentals of Kinematics and Dynamics of Machines and Mechanism, Oleg Vinogradov, 
@@ -1574,8 +1506,6 @@ Pearson Education.
 Reference Books: 
 1. Kinematics, Dynamics and Design of Machinery, Kenneth J. Waldron, Wiley India Pvt Ltd; 
 Second edition. 
-  BACK 
- ## Page 53
  FMCD2009 / 2.0 53 
   Program: Automation & Robotics Engineering Semester: III 
 Course Title: Object Oriented Programming Course Code:22EARC202 
@@ -1609,15 +1539,12 @@ Terminologies, Representation, Graph Traversal - Breadth First Search and Depth 
 Shortest Path Problems - Dijkstra's Algorithm, Minimal Cost Spanning Trees -Kruskal's Algorithm 
   Chapter 6: DYNAMIC PROGRAMMING 
 The Knapsack Problem, The Travelling Salesperson Problem, Longest Common Subsequence 
- ## Page 54
  FMCD2009 / 2.0 54 
   Text Books: 
 1. Herbert Schildt, "C++: The Complete Reference", Tata McGraw-Hill, 2003. 
 2. Grady Booch, James Rumbaugh and Ivar Jacobson, "Unified Modeling Language 
 User Guide," Addison-Wesley, 1999. 
 3. 3.Johan Sannemo, "Principles of Algorithmic Solving Problems", 2018 
-  BACK 
- ## Page 55
  FMCD2009 / 2.0 55 
   Program: Automation & Robotics Engineering Semester: III 
 Course Title: Mechanics of Materials Course Code: 18EARF204 
@@ -1654,7 +1581,6 @@ First Moment of Area Q, Shear Stresses in Beams of Rectangular Cross Section, Sh
 in Beams of Circular Cross Section 
   Chapter 8: Beam Deflections 
 Introduction, Moment-Curvature Relationship, The Differential Equation of the Elastic Curve, 
- ## Page 56
  FMCD2009 / 2.0 56 
   Deflections by Integration of a Moment Equation, Deflections by Integration of Shear-Force or 
 Load Equations, Deflections Using Discontinuity Functions 
@@ -1663,8 +1589,6 @@ Text Books:
 Wiley 
 Reference Books: 
 1. Roy R., Craig, JR. Mechanics of Materials, Third edition, JOHN WILEY & SONS. 
-  BACK 
- ## Page 57
  FMCD2009 / 2.0 57 
   Program: Automation & Robotics Engineering Semester: III 
 Course Title: Manufacturing Technology & Processes Course Code: 23EARC205 
@@ -1703,7 +1627,6 @@ Introduction to CNC machines - Principles of operation, coordinate systems of CN
 construction and elements of a CNC system, manual part programming methods, G & M codes, 
 Selection of CNC machine tool. CNC programming (Tutorials: Building and simulation of CNC 
 codes for various machining operations) 
- ## Page 58
  FMCD2009 / 2.0 58 
   Unit III 
 Chapter 7: Additive Manufacturing 
@@ -1725,8 +1648,6 @@ Reference Books:
 1. Rapid prototyping, 3D printing and additive manufacturing principles and applications, 
 CHUA (CK) AND LEONG (KF). (Call No. - 629.892 ADI) 
 2. Engineering Dimensional Metrology, MILLER. (Call No. - 669 MIL) 
-  BACK 
- ## Page 59
  FMCD2009 / 2.0 59 
   Program: Automation & Robotics Engineering Semester: III 
 Course Title: Analog & Digital Electronic Circuits Lab Course Code: 18EARP201 
@@ -1767,7 +1688,6 @@ The students should be able to:
 1. Explain and Learn circuit analysis using these theorems 
 2. How to solve linear circuit problems and short circuit current 
 3. Verifification of Network theorems using Matlab software 
- ## Page 60
  FMCD2009 / 2.0 60 
   Unit II 
   Structured Enquiry 
@@ -1802,8 +1722,6 @@ Project Learning Outcomes :
 The students should be able to: 
 1. Carryout a project in a team. 
 2. Come up with PCB design using Eagle software 
-  BACK 
- ## Page 61
  FMCD2009 / 2.0 61 
   Program: Automation & Robotics Engineering Semester: III 
 Course Title: Kinematics of Machinery lab Course Code: 18EARP202 
@@ -1824,8 +1742,6 @@ Experiments
 11 Crank & Flywheel 
 12 Importing CAD model in Mat lab 
 13 Project 
-  BACK 
- ## Page 62
  FMCD2009 / 2.0 62 
   Program: Automation & Robotics Engineering Semester: III 
 Course Title: Machine Drawing, Modeling & Analysis Laboratory Course Code: 22EARP201 
@@ -1857,8 +1773,6 @@ Reference Books:
 Guide, 
 www.solidworks.com/sw/images/content/Training/SolidWorks_Simulation_Student_ 
 Guide-ENG.pdf 
-  BACK 
- ## Page 63
  FMCD2009 / 2.0 63 
   Program: Automation & Robotics Engineering Semester: IV 
 Course Title: Vector Calculus and Differential Equations Course Code: 15EMAB241 
@@ -1893,8 +1807,6 @@ Text Books:
 New Delhi, 2003 
 Reference Books: 
 1. Early Transcendental Calculus by James Stewart, Thomson Books, 5ed, 2007 
-  BACK 
- ## Page 64
  FMCD2009 / 2.0 64 
   Program: Automation & Robotics Engineering Semester: IV 
 Course Title: Numerical Methods and Partial Differential Course Code: 19EMAB206 
@@ -1938,7 +1850,6 @@ Text Books:
 1. Kreyszig E., Advanced Engineering Mathematics, 8ed, John Wiley & sons, 2003. 
 2. Potter M C, Jack Goldberg and Aboufadel E F, Advanced Engineering Mathematics, 3ed, 
 Oxford Indian Edition, 2005. 
- ## Page 65
  FMCD2009 / 2.0 65 
   3. Grewal B S, Higher Engineering Mathematics, 38ed, TATA McGraw-Hill, 2001 
 Reference Books: 
@@ -1946,8 +1857,6 @@ Reference Books:
 2. Simmons G F and Krantz S G, Differential Equations, TATA McGraw-Hill, 2007. 
 3. Sastry S S, Introductory method for numerical analysis, 3ed, PHI, 2003 
 4. Chapra S C and Canale R P, Numerical methods for Engineers, 5ed, TATA McGraw-Hill, 2007. 
-  BACK 
- ## Page 66
  FMCD2009 / 2.0 66 
   Program: Automation & Robotics Engineering Semester: IV 
 Course Title: Machine Design Course Code: 18EARC206 
@@ -1989,7 +1898,6 @@ materials and strength, externally applied force on a bolted joint, thread strip
 other means of fa stening and joining. Kinds of springs, helical compression springs, stresses 
 and deflection for helical compression springs, analysis of spring characteristics, design of 
 helical compression springs, helical torsion springs, improving spring performance by shot 
- ## Page 67
  FMCD2009 / 2.0 67 
   peening, spring manufacturing. 
   Chapter 6: Clutches and Brakes 
@@ -2017,8 +1925,6 @@ Reference Books:
 1. Shigley J.E. and Mischke C.R, Mechanical Engineering Design, McGraw Hill Publication Co. 
 Ltd 
 2. Michael F. Ashby, Materials Selection in Mechanical Design, Fourth Edition, 2014, 2014 
-  BACK 
- ## Page 68
  FMCD2009 / 2.0 68 
   Program: Automation & Robotics Engineering Semester: IV 
 Course Title: Control Systems Design and Practice Course Code: 22EARC201 
@@ -2056,12 +1962,9 @@ Text Books:
 1. Norman S. Nise, "Control Systems Engineering", John Wiley & Sons, Inc, Sixth edition, 2011. 
 Reference Books: 
 1. Benjamin C. Kuo, Automatic Control Systems by, PHI/ 7th edition. 
- ## Page 69
  FMCD2009 / 2.0 69 
   2. https: //ocw.mit.edu/courses/2-04a-systems-and-controls-spring-2013. 
 3. K.Ogata "Modern Control Engineering", Pearson Education Asia/ PHI, 4th Edition, 2002. 
-  BACK 
- ## Page 70
  FMCD2009 / 2.0 70 
   Program: Automation & Robotics Engineering Semester: IV 
 Course Title: Microcontrollers Programming & Interfacing Course Code: 22EARC208 
@@ -2101,7 +2004,6 @@ Chapter 7: Application Development and Setting Up the Tool Chain
 Embedded systems design and development, Real -time operating systems (RTOS), sensor and 
 actuator interfacing, Robotics and automation applications, Tool chain in different 
 environments, STM32 Cube IDE, Eclipse, GCC ARM, ST Tools and drivers. 
- ## Page 71
  FMCD2009 / 2.0 71 
   Chapter 8: Case studies: Microcontrollers in robotics and automation. 
 Microcontroller-based robot control systems, Microcontroller -based automation systems, 
@@ -2116,8 +2018,6 @@ Reference Books:
 Systems. Penram International Publishing(India) Pvt. Ltd. 
 2. Ajay V Deshmukh, "Microcontroller: Theory and Applications" 
 3. M Krishnakumar, "Microprocessors and Microcontrollers". 
-  BACK 
- ## Page 72
  FMCD2009 / 2.0 72 
   Program: Automation & Robotics Engineering Semester: IV 
 Course Title: Database Management System and Application 
@@ -2152,7 +2052,6 @@ Model, V-Model, Spiral Model
   Chapter 5: WEB APPLICATION DESIGNAND DEPLOYMENT 
 JavaScript Introduction, Language Syntax, Client -Side Scripting, JavaScript Design Principles, 
 JavaScript Objects, JavaScript Events, Forms, JSON objects, JSON Arrays. 
- ## Page 73
  FMCD2009 / 2.0 73 
   Unit III: 
   Chapter 6: NOSQL DATABASE 
@@ -2174,8 +2073,6 @@ World of Polyglot Persistence", Pearson Addison Wesley, 2012.
 Pearson Education India. 
 6. Charles R. Severance, "Python for Everybody: Exploring Data Using Python 3", 1st 
 Edition, Create Space Independent Publishing Platform, 2016 
-  BACK 
- ## Page 74
  FMCD2009 / 2.0 74 
   Program: Automation & Robotics Engineering Semester: IV 
 Course Title: Robot Analysis & Design Course Code: 18EARC210 
@@ -2206,7 +2103,6 @@ Different Kinematics of rigid body, Different Kinematics of serial manipulators,
 coordinates and screw systems, Manipulator Jacobian Matrix, conventional Jaco bian, Screw - 
 Based Jacobian, and Transformations of screw coordinates. Relationship Between Two 
 Methods, condition number, singularity analysis. 
- ## Page 75
  FMCD2009 / 2.0 75 
   Unit II- 
   Chapter 5: Statics and Dynamics of Serial Manipulators 
@@ -2243,8 +2139,6 @@ McGraw-Hill Book Co.
 6. Peter Corke, "Robotics, Vision and Control: Fundamental Algorithms In MATLAB, Second, 
 Completely Revised, Extended and Updated Edition: 118 (Springer Tracts in Advanced 
 Robotic 
-  BACK 
- ## Page 76
  FMCD2009 / 2.0 76 
   Program: Automation & Robotics Engineering Semester: IV 
 Course Title: Manufacturing & Metrology Lab Course Code: 16EARP205 
@@ -2256,8 +2150,6 @@ Experiment 2- Metrology
 Experiment 3- Additive Manufacturing 
 Experiment 4- Measurement for linear and angular dimensions 
 Experiment 5- Fabrication of XY positioning table 
-  BACK 
- ## Page 77
  FMCD2009 / 2.0 77 
   Program: Automation & Robotics Semester: IV 
 Course Title: Microcontrollers Programming & Interfacing Lab Course Code:22EARP208 
@@ -2295,8 +2187,6 @@ incoming data surpasses predefined upper and lower trigger points
 11 Develop an IoT system using ESP/STM32 microcontroller for developing a 
 weather station to display and record parameters like temperature, 
 humidity, pressure and sunlight intensity. 
-  BACK 
- ## Page 78
  FMCD2009 / 2.0 78 
   Program: Automation & Robotics Engineering Semester: V 
 Course Title: Numerical Methods and Statistics Course Code: 24EMAB301 
@@ -2337,7 +2227,6 @@ Type- II errors, Level of significance. Confidence limits for means (large sampl
 Testing of hypothesis for means. Large and small samples and student's t- distribution and 
 Confidence limits for means (small sample). 
 Python: Sampling distributions 
- ## Page 79
  FMCD2009 / 2.0 79 
   Text Books: 
 1. Bali and Iyengar, A text book of Engineering Mathematics, 6ed, Laxmi Publications(p) Ltd, 
@@ -2349,8 +2238,6 @@ Reference Books:
 2. J. Susan Milton, Jesse C. Arnold, Introduction to Probability and Statistics: Principles and 
 Applications for Engineering and the Computing Sciences, 4th Ed, TATA McGraw-Hill Edition 
 2007 
-  BACK 
- ## Page 80
  FMCD2009 / 2.0 80 
   Program: Automation & Robotics Engineering Semester: V 
 Course Title: Machine Learning Course Code: 23EARC301 
@@ -2392,7 +2279,6 @@ The decision tree mo del and its advantages and disadvantages, Training decision
 Scikit-Learn, Regularization techniques for decision trees (max_depth, min_samples_split, etc.), 
 The random forest model and its advantages over decision trees, Training random forests with 
 Scikit-Learn. 
- ## Page 81
  FMCD2009 / 2.0 81 
   Unit III 
 Chapter 7: Ensemble Learning and Gradient Boosting 
@@ -2416,8 +2302,6 @@ Reference Books:
 Cambridge Press, USA, 2014. 
 2. Tom Mitchell "Machine Learning" McGraw-Hill Science/Engineering/Math ( March 1, 
 1997). 
-  BACK 
- ## Page 82
  FMCD2009 / 2.0 82 
   Program: Automation & Robotics Engineering Semester: V 
 Course Title: Real-time Embedded Systems Course Code: 18EARC303 
@@ -2460,7 +2344,6 @@ shared-resource-access synchronization, Recursive shared - resource-access synch
 message queue, its structure, Message copying and memory use for sending and receiving 
 messages, Sending messages in FIFO or LIFO order, broadcasting messages., Demonstration of 
 each of the objects of Inter-process communication, namely, semaphore, Message Queue, 
- ## Page 83
  FMCD2009 / 2.0 83 
   MUTEX, Mailbox, etc. Case-study on Magnetic Resonance Imaging (MRI) 
   Chapter 5: Tasks and Task Management 
@@ -2493,8 +2376,6 @@ Reference Books:
 2012. 
 2. Raj Kamal," Embedded Systems," McGraw-Hill Education 
 3. Steve Furber, "ARM System-on-Chip Architecture" LPE, Second Edition 
-  BACK 
- ## Page 84
  FMCD2009 / 2.0 84 
   Program: Automation & Robotics Engineering Semester: V 
 Course Title: Mechatronics System Design Course Code: 24EARC302 
@@ -2530,7 +2411,6 @@ What is Prototyping? Need of prototyping, Traditional Des ign vs Modern Design, 
 prototyping, Stages in Virtual prototyping, The virtual prototyping process 
   Chapter 8: System Integration 
 Introduction, Mechatronics Design Approach, Model of Mechatronic Module Design Process, 
- ## Page 85
  FMCD2009 / 2.0 85 
   Control Algorithm Selection, Control Stage Components, Microcontroller Based Control 
 Subsystem (Embedded), Digital Signal Processor (DSP), Application Specific Integrated Circuits 
@@ -2546,8 +2426,6 @@ Text Books:
 lib.org) (1). 
   Reference Books: 
 1. Mechatronics system fundamentals by Rolf Isermann. 
-  BACK 
- ## Page 86
  FMCD2009 / 2.0 86 
   Program: Automation & Robotics Engineering Semester: V 
 Course Title: Measurement Systems Course Code: 18EARC305 
@@ -2587,7 +2465,6 @@ Radiation Methods.
 Unit III 
   Chapter No.7. Data Acquisition Systems 
 Data conversion devices, Signal sampling and aliasing, Sampling theorem, Quantization, 
- ## Page 87
  FMCD2009 / 2.0 87 
   Encoding, Digital to analog conversion methods, Analog to digital conversion methods, Sample 
 & Hold circuit, Flash ADC, Successive approximation ADC, Dual slope ADC, Sigma Delta ADC, 
@@ -2606,8 +2483,6 @@ References:
 1. Sabri Cetinkunt "Mechatronics with Experiments", WILEY, Second Edition, 2015. 
 2. J. P. Holman, "Experimental Methods for Engineers", Eighth Edition, McGraw Hill Education 
 Pvt Ltd, 2012 
-  BACK 
- ## Page 88
  FMCD2009 / 2.0 88 
   Program: Automation & Robotics Engineering Semester: V 
 Course Title: Programming Industrial Automation Systems 
@@ -2645,7 +2520,6 @@ OPC DA, OPC UA, OPC Features, OPC Server, OPC Client, Tags, Mapping Tags onto PL
 OPC Aggregation, OPC Tunneling, OPC Bridging, Inter-Process Communication 
   Chapter 7: PLC Selection Guidelines and Commissioning 
 PLC Selection process, estimation of program memory and time requirements, PLC Sizes and 
- ## Page 89
  FMCD2009 / 2.0 89 
   Scope of applications, Special I/O modules, Electrical relay diagram symbols, Fail Safe Design, 
 IEC 61508/61511 safety standards, Process modeling, Programming for large systems, Control 
@@ -2658,8 +2532,6 @@ Text Books:
 Applications, Fifth Edition, PHI, 2012. 
 Reference Books: 
 1. Frank D. Petruzella, Programmable Logic Controllers, McGraw- Hi, 1989 
-  BACK 
- ## Page 90
  FMCD2009 / 2.0 90 
   Program: Automation & Robotics Semester: V 
 Course Title: Machine Learning & ROS Lab Course Code: 18EARP301 
@@ -2691,8 +2563,6 @@ disadvantages. Implement Random Forests and compare their performance.
 AdaBoost algorithm and explore its impact on model performance. 
 11 Implement neural networks for image recognition using CNNs. OR Explore RNNs for 
 sequence prediction tasks. Implement GANs OR VAEs for image or text generation. 
-  BACK 
- ## Page 91
  FMCD2009 / 2.0 91 
   Program: Automation & Robotics Semester: V 
 Course Title: Industrial Robotics Lab Course Code: 18EARP303 
@@ -2727,7 +2597,6 @@ robot's environment perception, mobility, and interaction.
   Chapter 2: Robotics Toolbox 
 The Toolbox has always provided many functions that are useful for the study and simulation of 
 classical arm-type robotics, for example such things as kinematics, dynamics, and trajectory 
- ## Page 92
  FMCD2009 / 2.0 92 
   . Chapter 3: RoboAnalyzer 
 Explaining the concepts in a course on Robotics typically requires a 3D model of a serial- 
@@ -2773,7 +2642,6 @@ Topics to be covered:
 5. Reachability 
 6. Create MultiMove System from Layout 
 Online Programming 
-    ## Page 93
  FMCD2009 / 2.0 93 
   To perform a particular action, robots are programmed either by guiding or by off-line 
 programming. Most of the industrial robots are programmed by guiding a robot from point to 
@@ -2807,8 +2675,6 @@ The project should consists of following requirements:
 Minimum 3 to 6 DOF robot arm 
 DH Parameters 
 Students are free to choose the software to complete the project 
-  BACK 
- ## Page 94
  FMCD2009 / 2.0 94 
   Program: Automation & Robotics Semester: V 
 Course Title: Mini Project - (Engineering Design Project) Course Code: 18EARW301 
@@ -2846,8 +2712,6 @@ Week No Activities Deliverables
 3&4 Product development Component designs & Integration, 
 5, 6, 7&8 Rapid prototyping, Testing and validation Prototype (hardware and software) 
 9&10 Reporting Test reports and Conclusion 
-  BACK 
- ## Page 95
  FMCD2009 / 2.0 95 
   Program: Automation & Robotics Engineering Semester: VI 
 Course Title: Hydraulics & Pneumatics Course Code: 18EARC308 
@@ -2884,7 +2748,6 @@ Cylinder mountings, Cylinder seals, End cushioning in pneumatic cylinders. Pneum
 Valves: Direction control valve - types of direction control valves, ISO desig nation of direction 
 control valves, Non return valves, methods of actuation of pneumatic directional control 
 valves, Flow control valves, and Pressure control valves. 
- ## Page 96
  FMCD2009 / 2.0 96 
   Chapter No. 6. Pneumatic Circuit Design and Hydraulic Control Systems 
 Pneumatic Circuit Design: Direct and indirect control of single acting cylinder, control of single 
@@ -2914,8 +2777,6 @@ Reference Books:
 2. Peter J Chapple, Principles of Hydraulic System Design, 1st Edition, Coxmoor Publishing 
 Company, 2003. 
 3. S. R. Majumdar, Oil Hydraulic Systems, Tata McGraw Hill publishing Company Ltd, 2001 
-  BACK 
- ## Page 97
  FMCD2009 / 2.0 97 
   Program: Automation & Robotics Engineering Semester: VI 
 Course Title: AI for Autonomous Robots Course Code: 17EARE301 
@@ -2956,7 +2817,6 @@ Architecture
 Unit III 
   Chapter 6: Localization and Map Making 
 Sonar Sensor Model, Bayesian, Conditional probabilities, Conditional probabilities, Updating 
- ## Page 98
  FMCD2009 / 2.0 98 
   with Bayes' rule, Dempster -Shafer Theory, Shafer belief functions Belief function for sonar 
 Dempster's rule of combination Weight of conflict metric, HIMM sonar model and Comparison 
@@ -2976,8 +2836,6 @@ Reference Books:
 10: 0070087709 
 2. Sebastian Thrun, Wolfram Burgard, Dieter Fox, "Probabilistic Robotics" MIT Press; 
 Intelligent Robotics and Autonomous Agents series edition, 2005 
-  BACK 
- ## Page 99
  FMCD2009 / 2.0 99 
   Program: Automation & Robotics Engineering Semester: VI 
 Course Title: Computer Vision & Digital Image Processing Course Code: 15EARE302 
@@ -3017,7 +2875,6 @@ Unit III
   Chapter 6: Morphological Processing 
 Dilation and Erosion, Opening and Closing, The Hit-or-Miss Transformation, Some Basic 
 Morphological Algorithms. 
- ## Page 100
  FMCD2009 / 2.0 100 
   Chapter 7: Recognition and Bayesian Modeling 
 Object detection, Face recognition. Instance recognition, Category recognition, Context and 
@@ -3030,8 +2887,6 @@ Pearson publication, 2003.
 Hall publication, 2002 
 Reference Books: 
 1. Richard Szeliski, Computer Vision: Algorithms and Applications, Springer publication, 2010 
-  BACK 
- ## Page 101
  FMCD2009 / 2.0 101 
   Program: Automation & Robotics Semester: VI 
 Course Title: Robot Dynamics & Control Course Code: 17EARE302 
@@ -3071,8 +2926,6 @@ University Press, 2017
 Heidelberg, Springer, Cham, 978-3-319-54413-7 
 Reference Books: 
 1. Robot Modeling and Control, M. W. Spong, S. Hutchinson, and M. Vidyasagar, Wiley, 2020. 
-  BACK 
- ## Page 102
  FMCD2009 / 2.0 102 
   Program: Automation & Robotics Engineering Semester: VI 
 Course Title: Power Electronics, Motors & Drives Course Code: 16EARE301 
@@ -3112,7 +2965,6 @@ Speed control of DC motor, chopper -controlled DC drives, Microprocesso r-Contro
 drives, AC motor characteristics, speed control methods of induction motor, commutator less 
 DC motor and Electronic commutation. 
 Unit III 
- ## Page 103
  FMCD2009 / 2.0 103 
   Chapter 7: Stepper Motor 
 Principle of Stepper motor, Classification of Stepper motor, Principle of variable reluctant 
@@ -3132,8 +2984,6 @@ edition, Pearson Publications
 Reference Books: 
 1. P.S Bhimbhra, Power Electronics, Fourth, Khanna, 2007 
 2. Mohammed A Sharkawi, Fundamental of electric drives, Fourth, Brooks/Cole, 2000 
-  BACK 
- ## Page 104
  FMCD2009 / 2.0 104 
   Program: Automation & Robotics Semester: VI 
 Course Title: Operation Research with Evolutionary 
@@ -3176,7 +3026,6 @@ Lieberman, McGraw-Hill, 10th Edition.
 Edition. 
 4. Evolutionary Computation: A Unified Approach by Kenneth A. De Jong, MIT Press, 1st 
 Edition. 
- ## Page 105
  FMCD2009 / 2.0 105 
   5. Scheduling: Theory, Algorithms, and Systems, Michael L. Pinedo, Springer, 5th 
 Edition. 
@@ -3186,8 +3035,6 @@ Reference Books:
 3. Coursera - Operations Research Specialization by Professor Michael C. Ferris, 
 University of Wisconsin-Madison. 
 4. Stanford University - Operations Research by Professor Yinyu Ye, Stanford University 
-  BACK 
- ## Page 106
  FMCD2009 / 2.0 106 
   Program: Automation & Robotics Semester: VI 
 Course Title: Hydraulics and Pneumatics Lab Course Code: 16EARP302 
@@ -3236,7 +3083,6 @@ compensate for the tractive forces
 signal overlapping occurring during this exercise is 
 constructively solved by use of ro llers with idle return. 
 Practice is obtained in developing sequential diagrams 
- ## Page 107
  FMCD2009 / 2.0 107 
   13 
   Open Ended 
@@ -3249,8 +3095,6 @@ fully extended position of the cylinder has been reached
 and sufficient clamping force has been developed, the 
 cylinder is to retract to the initial position. Develop a 
 control circuit using a pressure sequence valve. 
-  BACK 
- ## Page 108
  FMCD2009 / 2.0 108 
   Program: Automation & Robotics Semester: VI 
 Course Title: Mechatronics & Measurements 
@@ -3286,8 +3130,6 @@ Enquiry
 System identification of DC motor 
 7 Control of an Inverted Pendulum on a Cart. 
 8 Open Ended Control of a Linear Electric Actuator 
-  BACK 
- ## Page 109
  FMCD2009 / 2.0 109 
   Program: Automation & Robotics Semester: VI 
 Course Title: Real-Time Embedded Systems Lab Course Code: 16EARP307 
@@ -3327,7 +3169,6 @@ Learning Objectives:
 acquisition. 
 ● Develop skills in calibrating and processing analog sensor data for various 
 applications. 
- ## Page 110
  FMCD2009 / 2.0 110 
   5 MSP430Sensor Data Acquisition and Processing Techniques 
 Learning Objectives: 
@@ -3370,8 +3211,6 @@ Learning Objectives:
 Raspberry Pi. 
 ● Learn to integrate sensors, actuators, and communication modules for real- 
 world IoT solutions. 
-BACK 
- ## Page 111
  FMCD2009 / 2.0 111 
   Program: Automation & Robotics Semester: VI 
 Course Title: Minor Project Course Code: 17EARW302 
@@ -3411,14 +3250,11 @@ Component designs & Integration 20
 Experiment wise plan 
 List of activities planned to meet the requirements of the syllabus 
   Sl. No Activity SEE Marks out of 20 
- ## Page 112
  FMCD2009 / 2.0 112 
   1 Project Report & 
 Presentation 
 10 
 2 Demo of Project 10 
-  BACK 
- ## Page 113
  FMCD2009 / 2.0 113 
   Program: Automation & Robotics Semester: VI 
 Course Title: Professional Aptitude & Logical Reasoning Course Code: 16EHSC301 
@@ -3444,8 +3280,6 @@ Chand and Sons, New Delhi
 Reference Books: 
 1. Verbal and Non - Verbal Reasoning - Dr. Ravi Chopra, MacMillan India 
 2. Lateral Thinking - Dr. Edward De Bono, Penguin Books, New Delhi 
-  BACK 
- ## Page 114
  FMCD2009 / 2.0 114 
   Program: Automation & Robotics Engineering Semester: VII 
 Course Title: Industrial Data Networks Course Code: 24EARC401 
@@ -3485,7 +3319,6 @@ HART: HART Protocol, Physical Layer, Data Link Layer and Application Layer of HA
 OPC: Enterprise Integration, Manufacturing Execution Systems (MES), Process Analysis, Process 
 Modeling, Data Modeling, Data Flow Diagrams (DFDs), Communication Patterns, Data 
 Collection Technologies, OPC (OLE for Process Control) 
- ## Page 115
  FMCD2009 / 2.0 115 
   Unit III 
   Chapter 7. CAN, and CAN FD 
@@ -3512,8 +3345,6 @@ fieldbus/foundation-technology-overview.
 10. OPC Foundation, https: //opcfoundation.org. 
 11. CAN, https: //www.can-cia.org/can-knowledge. 
 12. CAN FD, https: //www.can-cia.org/can-knowledge/can/can-fd. 
-  BACK 
- ## Page 116
  FMCD2009 / 2.0 116 
   Program: Automation & Robotics Engineering Semester: VII 
 Course Title: Mobile Robotics & Perception Course Code: 17EARE401 
@@ -3551,8 +3382,6 @@ Reference Books:
 1. Eugene Kagan, Nir Shvalb & Irad Ben-Gal, "Autonomous Mobile Robots and Multi-Robot 
 Systems ", First Edition, John Wiley & Sons Ltd, 2020. 
 2. Nikolaus Correll, Introduction to Autonomous Robots, 1st edition 
-BACK 
- ## Page 117
  FMCD2009 / 2.0 117 
   Program: Automation & Robotics Engineering Semester: VII 
 Course Title: Design of Automatic Machinery Course Code: 17EARE402 
@@ -3580,7 +3409,6 @@ Feeders, Automatic Feeding and Orienting - Vibratory Feeders, Escapement Feeders
 Bowl Feeder, Centripetal Feeder, Flexible Feeders, Gravity Feed Tracks, Powered Feed Tracks, 
 Escapements, Parts-Placing Mechanisms, Assembly Robots, Case Study Number 1: Dropping 
 Cookies, Case Study Number 2: Feeding of TBBL Cases. 
- ## Page 118
  FMCD2009 / 2.0 118 
   Unit II 
   Chapter 4: Conveyors 
@@ -3615,8 +3443,6 @@ Text Books
 Reference Books: 
 1. Geoffrey Boothroyd, "Assembly Automation and Product Design"‚ Taylor & Francis Group, 
 CRC Press, 2005 
-  BACK 
- ## Page 119
  FMCD2009 / 2.0 119 
   Program: Automation & Robotics Engineering Semester: VII 
 Course Title: Industrial Internet of Things Course Code: 25EARE401 
@@ -3656,7 +3482,6 @@ Stream Processing (Apache Kafka, AWS IoT Analytics).
 Concept of cloud computing in IoT and its signi ficance, cloud deployment models: SaaS, IaaS, 
 PaaS, DaaS, concept of "Everything -as-a-Service", cloud service models and their applications, 
 role of cloud platforms in device collection, data storage, and computing. Fog Computing, 
- ## Page 120
  FMCD2009 / 2.0 120 
   Hybrid Cloud models, Open-source IIoT platforms (ThingsBoard, Node-RED). 
 Unit III 
@@ -3678,8 +3503,6 @@ Education (India) Private Limited. 2017, ISBN-13: 978-93-5260-522-4
 Reference Books: 
 1. Internet of Things - A Hands-on Approach, Arshdeep Bahga and Vijay Madisetti, 
 Universities Press, 2015, ISBN: 9788173719547 
-  BACK 
- ## Page 121
  FMCD2009 / 2.0 121 
   Program: Automation & Robotics Engineering Semester: VII 
 Course Title: Research Experience for Undergraduates Course Code: 17EARE490 
@@ -3695,8 +3518,6 @@ contemporary issues in the defined area.
 4. Establish flowchart/test bench/block diagram etc towards solving the defined problem. 
 5. Conduct/simulate, analyze and interpret the data/input for the defined problem. 
 6. Communicate effectively in written and oral form of the research findings 
-  BACK 
- ## Page 122
  FMCD2009 / 2.0 122 
   Program: Automation & Robotics Engineering Semester: VII 
 Course Title: Institutional Research Project Course Code: 17EARE491 
@@ -3719,8 +3540,6 @@ as needed.
 5. Function effectively as an individual and collaborate successfully with other members in 
 the team to achieve the desired outcomes. 
 6. Prepare effective design documentation, project report, and technical paper and make 
-  BACK 
- ## Page 123
  FMCD2009 / 2.0 123 
   Program: Automation & Robotics Engineering Semester: VII 
 Course Title: Senior Design Project Course Code: 25EARW401 
@@ -3738,8 +3557,6 @@ identified problem from the real world.
 4. Apply suitable design processes and develop the best possible solution. 
 5. Develop proof of concepts and models for verification. 
 6. Prepare production drawings, bill of materials and process plans. 
-  BACK 
- ## Page 124
  FMCD2009 / 2.0 124 
   Program: Automation & Robotics Engineering Semester: VII 
 Course Title: Constitution of India, Professional Ethics and 
@@ -3776,7 +3593,6 @@ liability in engineering. Bhopal Gas Tragedy, Titanic case.
   Chapter 9: Ethical perspectives of professional bodies 
 Ethical perspectives of professional bodies- IEEE, ASME, NSPE and ABET, ASCE etc 
   Unit III 
- ## Page 125
  FMCD2009 / 2.0 125 
   Chapter10: Effects of Human Activities on Environment 
 Effects of human activities on environment - Agriculture, Housing, Industry, Mining, and 
@@ -3793,8 +3609,6 @@ Wadsworth, 2003
 Reference Books: 
 1. Durga Das Basu, "Introduction to the Constitution of India", Prentice-hall EEE, 2001 
 2. Mike Martin and Ronald Schinzinger, "Ethics in Engineering", Tata McGraw-Hill Publications. 
-  BACK 
- ## Page 126
  FMCD2009 / 2.0 126 
   Program: Automation & Robotics Semester: VIII 
 Course Title: Smart Manufacturing Course Code: 17EARE404 
@@ -3832,7 +3646,6 @@ Manufacturing Execution Systems (MES), MES Functionalities, MES Models, Function
 Model, MES in Discrete Industry, MES in Process Industry, Data Collection, Traceability, 
 Performance Measurement and Management, Real -Time Enterprise, Revisit Digital Twin, 
 Standards 
- ## Page 127
  FMCD2009 / 2.0 127 
   Unit III 
   Chapter 6: Cloud Computing 
@@ -3860,8 +3673,6 @@ Systems," National Institute of Standards and Technology (NIST), (2016).
 2. MESA International, "Three Functional Dimensions Converge on Smart Manufacturing," 
 Whitepaper #59, 2018. 
 3. MESA International, "Smart Manufacturing and Cloud Computing," Whitepaper #60, 2018. 
-  BACK 
- ## Page 128
  FMCD2009 / 2.0 128 
   Program: Automation & Robotics Semester: VIII 
 Course Title: Capstone Project Course Code: 18EARW402 
@@ -3879,8 +3690,6 @@ identified problem from the real world.
 4. Apply suitable design processes and develop the best possible solution. 
 5. Develop proof of concepts and models for verification. 
 6. Prepare production drawings, bill of materials and process plans. 
-  BACK 
- ## Page 129
  FMCD2009 / 2.0 129 
   Program: Automation & Robotics Semester: VIII 
 Course Title: Industry Internship - Training Course Code: 17EARI493 
@@ -3899,8 +3708,6 @@ functions.
 technical knowledge for industrial application. 
 5. Understanding of lifelong learning processes through critical reflection of internship 
 experiences. 
-  BACK 
- ## Page 130
  FMCD2009 / 2.0 130 
   Program: Automation & Robotics Semester: VIII 
 Course Title: Industry Internship - Project Work Course Code: 17EARW494 
@@ -3919,5 +3726,4 @@ At the end of the course, students will be able to:
 5. Distribute the work load based on competences among team members and integrate the 
 various components of the solution 
 6. Adhere to promised deliverable, including bill of material, production drawings, 
-manufacturing of components, assembly, and so forth 
-  BACK 
+manufacturing of components, assembly, and so forth

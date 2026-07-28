@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 251imguf_KLETech-BoardofStudies"
+title: "KLE Tech Boardofstudies"
 category: "miscellaneous"
 subcategory: ""
 document_type: "act"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["boardofstudies", "chancellor", "document", "member", "nominated", "professor", "vice"]
 aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "EEE", "EE", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "11"
 ---
-# PDF Document: 251imguf_KLETech-BoardofStudies
- **PDF Source:** https://www.kletech.ac.in/Uploads/image/251imguf_KLETech-BoardofStudies.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/Uploads/image/251imguf_KLETech-BoardofStudies.pdf
  KLE Technological University, Hubballi 
 Board of Studies 
   Department of Automation and Robotics 
@@ -70,7 +70,6 @@ Prasannakshi Bidari
 3rd Year UG Student 
 Subash P 
 PhD Student 
-  ## Page 2
  School of Computer Science and Engineering 
 Sl. 
 No. Profession Name of the Person Nomination of 
@@ -134,7 +133,6 @@ School/ Center
 Miss Sanjeevini Member 
 19 Post-graduate meritorious alumnus 
 nominated by the Vice-Chancellor Miss. Uma Hiremath Member 
-     ## Page 3
  Sl. 
 No. Profession Name of the Person Nomination of 
 the Committee 
@@ -145,7 +143,6 @@ Department/ School/ Center
 Dr. Padmashree Desai 
   Member 
 Secretary 
-  ## Page 4
  School of Civil Engineering 
 Sl. 
 No. Profession Name of the Person Nomination of 
@@ -199,7 +196,6 @@ the concerned Head of the Department/
 School/ Center 
   G.C. Bellad Member 
 Secretary 
-  ## Page 5
  School of Electrical and Communication Engineering 
 Sl. 
 No. Profession Name of the Person Nomination of 
@@ -238,7 +234,6 @@ Members
 22 UG - Mohammad Shahid 
 23 PG - Shraddha Betageri 
 24 PH: Ph.D. - Shraddha H. 
-  ## Page 6
  School of Architecture 
 Sl. 
 No. Profession Name of the Person Nomination of 
@@ -281,7 +276,6 @@ program offered by the Department/ School/
 Center 
 Vaishnavi Baddi Student 
 Member 
-  ## Page 7
  School of Mechanical Engineering 
 Sl. 
 No. Profession Name of the Person Nomination of 
@@ -325,7 +319,6 @@ Lab, Bangalore Vijaykumar R Invited Member
 15 Assistant Professor, SME, KLETech 
 (PG, DE incharge) Dr.Gireesha Chalageri, Invited Member 
 16 Head, DME, MSSCET, Belgaum Dr. C V Adake Invited Member 
-  ## Page 8
  School of Electrical and Electronics Engineering 
 Sl. 
 No. Profession Name of the Person Nomination of 
@@ -396,7 +389,6 @@ Electrical & Electronics Engg.
 Dept. KLESCET, Belgaum Members 
 Dr.Tamalika 
 Associate Professor, 
- ## Page 9
  Electrical & Electronics Engg. 
 Dept. KLESCET, Belgaum 
 7 ONE Post -graduate meritorious alumnus 
@@ -423,7 +415,6 @@ Asst. Professor,
 Electrical & Electronics Engg. 
 Dept. KLETU, Hubli. 
   Member 
-  ## Page 10
  School of Management Studies and Research 
 Sl. 
 No. Profession Name of the Person Nomination of 
@@ -495,7 +486,6 @@ Dr. Chandrahas Naidu
 18 Asst. Professor, Dept. of Humanities, 
 SMSR, KLETU, Vidyanagar Hubballi. 
 Prof. Jayanti Shinge 
- ## Page 11
  Sl. 
 No. Profession Name of the Person Nomination of 
 the Committee 
@@ -515,5 +505,4 @@ Members
 Student Member 
 22 Student of III Year, BBA, SMSR, KLETU, 
 Vidyanagar, Hubballi. 
-Miss. Janhavi Kulkarni 
-  
+Miss. Janhavi Kulkarni

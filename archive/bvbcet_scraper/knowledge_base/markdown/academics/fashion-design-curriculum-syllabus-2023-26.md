@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: fashion-design-curriculum-syllabus-2023-26"
+title: "B.Sc. Fashion & Apparel Design Curriculum (2023-26 Batch)"
 category: "academics"
 subcategory: ""
 document_type: "syllabus"
@@ -11,19 +11,16 @@ language: "en"
 keywords: ["chapter", "course", "curriculum", "design", "document", "fashion", "marks", "syllabus"]
 aliases: ["HOD", "Head of Department", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "90"
 ---
-# PDF Document: fashion-design-curriculum-syllabus-2023-26
- **PDF Source:** https://www.kletech.ac.in/pdf/fashion-design-curriculum-syllabus-2023-26.pdf
- ## Page 1
- FMCD2009 / 2.0 
- 1 
+**PDF Source:** https://www.kletech.ac.in/pdf/fashion-design-curriculum-syllabus-2023-26.pdf
+
   Curriculum Structure and Curriculum Content 
 Department: Fashion & Apparel Design 
 Program: B.Sc. Fashion & Apparel Design 
 (2023-26 Batch) 
-  ## Page 2
- FMCD2009 / 2.0 
- 2 
+
   Table of Contents 
 Vision and Mission of KLE Technological University ............................................... 3 
 Vision and Mission Statements of the School / Department .................................. 4 
@@ -39,9 +36,7 @@ Semester- VI ...................................................................
 List of Open Electives ........................................................................................ 13 
 List of Program Electives ................................................................................... 13 
 Curriculum Content- Course wise ...................................................................... 14 
-  ## Page 3
- FMCD2009 / 2.0 
- 3 
+
   Vision and Mission of KLE Technological University 
   Vision 
   KLE Technological University will be a national leader in Higher Education -
@@ -63,9 +58,7 @@ contributing our expertise, experience and leadership, to enhance
 competitiveness and quality of life. 
   As a unified community of faculty, staff and students, we work together with the spirit 
 of collaboration and partnership to accomplish our mission. 
- ## Page 4
- FMCD2009 / 2.0 
- 4 
+
   Vision and Mission Statements of the School / Department 
 VISION 
   To be recognized as a Foundation of Innovation and Creativity in fashion education-empowering 
@@ -86,9 +79,7 @@ opportunities.
 • Equip students with the creativity, business acumen, and leadership skills to thrive as 
 successful fashion entrepreneurs and industry trailblazers, integrating traditional 
 craftsmanship with contemporary innovation. 
-  ## Page 5
- FMCD2009 / 2.0 
- 5 
+
 Program Educational Objectives/Program Outcomes and Program-Specific Objectives 
 Program Educational Objectives -PEO's 
   1. To ensure students are professionally competent in Apparel designing or entrepreneurship 
@@ -132,11 +123,8 @@ related to fashion.
 PO 12 Lifelong Learning: Recognise the need for, and have the preparation and ability to engage in 
 independent and life -long learning in the broadest context of technological change in Fashion 
 Industry. 
- ## Page 6
- FMCD2009 / 2.0 
- 6 
+
 Curriculum Structure -Overall 
-  BACK 
 Semester Total Program Credits:135 
 Course with course code 
 I II III IV V VI 
@@ -276,12 +264,9 @@ EMBROIDERY
   CRAFT DOCUMENTATION 
 24DFDW301 
   Credits 24 22 22 22 25 20 
- ## Page 7
- FMCD2009 / 2.0 
- 7 
+
 Curriculum Structure-Semester wise 
 Semester - I 
-  BACK 
 No Code Course Category L-T-P Credits Contact 
  Hours ISA ESA Total 
 Exam 
@@ -303,11 +288,8 @@ PC 1-0-2 3 5 80 20 100 4 HOURS
 8 23DFDH101 PROFESSIONAL COMMUNICATION - I HS 3-0-0 3 3 50 50 100 3 HOURS 
 9 23DFDO101 DIGITAL FLUENCY OE 1-0-1 2 3 80 20 100 3 HOURS 
 TOTAL 15-0-9 24 
- ## Page 8
- FMCD2009 / 2.0 
- 8 
+
 Semester - II 
-BACK 
 NO CODE COURSE CATEGORY L-T-P CREDITS CONTACT 
 HOURS ISA ESA TOTAL 
 EXAM 
@@ -330,11 +312,8 @@ PC 3-0-0 3 3 50 50 100 3 HOURS
  HS 2-0-0 2 2 50 50 100 3 HOURS 
 9 23DFDO102 DIGITAL & SOCIAL MEDIA BRANDING OE 0-0-2 2 4 80 20 100 3 HOURS 
 TOTAL 12-0-10 22 
- ## Page 9
- FMCD2009 / 2.0 
- 9 
+
 Semester - III 
-BACK 
   No Code Course Category L-T-P Credits Contact Hours ISA ESA Total 
 Exam 
 Duration 
@@ -349,11 +328,8 @@ Duration
 7 24DFDH201 ADVANCED ENGLISH HS 2-0-0 2 2 50 50 100 2 HOURS 
 8 24DFDO201 DESIGN THINKING & 3D PRINTING OE 0-0-2 2 4 80 20 100 3 HOURS 
 TOTAL 11-0-11 22 
- ## Page 10
- FMCD2009 / 2.0 
- 10 
+
 Semester - IV 
-BACK 
   No Code Course Category L-T-P Credits Contact 
 Hours ISA ESA Total 
 Exam 
@@ -372,11 +348,8 @@ Fashion Visualization: Multimedia
 Techniques 
 PC 0-0-2 2 4 50 50 100 VIVA VOCE 
 TOTAL 11-0-11 22 
- ## Page 11
- FMCD2009 / 2.0 
- 11 
+
 Semester - V 
-BACK 
 No Code Course Category L-T-P Credits Contact 
 Hours ISA ESA Total 
 Exam 
@@ -401,11 +374,8 @@ PC 3-0-0 3 3 80 20 100 3 HOURS
 8 25DFDP302 Costume Designing OE 0-0-2 2 4 80 20 100 3 HOURS 
 9 24DFDW301 Craft Documentation 0-0-3 3 2 50 50 100 Viva Voce 
 TOTAL 11-0-14 25 
- ## Page 12
- FMCD2009 / 2.0 
- 12 
+
   Semester -VI 
-BACK 
 Semester I II III IV V VI Total 
 Credits 24 22 22 22 25 20 135 
 No Code Course Category L-T-P Credits Contact Hours ISA ESA Total Exam Duration 
@@ -422,9 +392,7 @@ Constitution Of India, Professional Ethics
 and Environmental Studies 
 PC 2-0-0 AUDIT 2 50 50 100 2 HOURS 
 TOTAL 11-0-11 20 
- ## Page 13
- FMCD2009 / 2.0 
- 13 
+
   List of Open Electives 
    Sr. No Name of the Course Course Code 
 1 Digital Fluency 23DFDO101 
@@ -432,10 +400,7 @@ TOTAL 11-0-11 20
 3 Design Thinking & 3D Printing 24DFDO201 
 4 Fashion Graphic Design 24DFDO301 
 5 Advanced Fashion Graphic Design 24DFDO302 
-  BACK 
-  ## Page 14
- FMCD2009 / 2.0 
- 14 
+
 Curriculum Content- Course wise 
 I Semester 
   Course Code: 23 DFDC101 Course Title: Textile Studies -I 
@@ -468,9 +433,7 @@ Blends-Definition, types, advantages and end uses of blended yarn / fabrics, P/C
 Fancy yarns- Types, properties and end use. Texturization- Types properties and end uses. Sewing 
 threads- types, properties and end use. yarn twist and yarn count, folded yarn -2-ply and 3 -ply 
 yarns. 
-  ## Page 15
- FMCD2009 / 2.0 
- 15 
+
 Chapter 7 Fabric manufacture - preparatory process 
 Methods of Fabric formation -woven, knitted and nonwovens. Geometrical properties of fabrics -thread 
 density, fabric cover factor, fabric weight -GSM, crimp. 
@@ -493,10 +456,7 @@ Publishers Ltd UK, reprint, 1992.
 Mahajan Publications, Ahmedabad, 1999. 
 7. Marks R. and Robinson T.C., "Principles of Weaving", The Textile Institute, 
 Manchester, 1989, ISBN: 0 900739 258. 
-  BACK 
-  ## Page 16
- FMCD2009 / 2.0 
- 16 
+
 Course Code: 23 DFDP101 Course Title: Textile Studies -I Lab 
 L-T-P: 0-0-2 Credits: 2 Contact Hrs: 4 
 ISA Marks: 80 ESA Marks: 20 Total Marks:100 
@@ -529,10 +489,7 @@ sports/active wear, leisure wear) - 4 samples for each category (sample size - 2
 4x4 inches) 
 16 Household's application - Kitchen towels. Mop cloth, carpets, and table cloth etc. - 2 
 samples for each category (sample size 4 x 4 inches). 
-  BACK 
-   ## Page 17
- FMCD2009 / 2.0 
- 17 
+
 Course Code: 23DFDC102 Course Title: Fashion Design & Illustration - 1 
 L-T-P : 3-0-0 Credits: 3 Contact Hrs: 3 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -567,19 +524,14 @@ and Recurring Fashion. Predicting the movement of fashion.
 Publication, 2002. 
 2. Gavin Ambrose, Paul Harris, "The Visual Dictionary of Fashion Design", Bloomsbury 
 Publishing India Private Limited, 2007. 
- ## Page 18
- FMCD2009 / 2.0 
- 18 
+
 3. James Stockton, "Designers Guide to Colour", Chronicle Books, San Francisco, 1984. 
 4. Maier, Manfred, "Basic Principles of Design", Van Nostrand Reinhold, 1980. 
 5. Sharon L Tate, Mona S Edwards, "Inside Fashion Design", Pearson Education India, 
 2006. 
 6. Stanyer Peter, "The Complete Book of Drawing Techniques", Arcturus Publishing 
 Ltd.,2003. 
-  BACK 
-  ## Page 19
- FMCD2009 / 2.0 
- 19 
+
   Course Code: 23DFDP102 Course Title: Fashion Design & Illustration - I Lab 
 L-T-P : 0-0-2 Credits: 2 Contact Hrs: 4 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
@@ -606,10 +558,7 @@ Harmony
 17. Basic coqui- fashion figure- 10 head (Male & Female) 
   18. 
 Basic coqui- fashion figure- 12 head ( Female) 
-  BACK 
-  ## Page 20
- FMCD2009 / 2.0 
- 20 
+
 Chapter 1: Fashion Communication 
 Historical Evolution of Fashion Communication, Role of Communication in the Fashion Industry. 
    Chapter 2: Visual Communication in Fashion 
@@ -640,9 +589,7 @@ Course Code: 23DFDC103 Course Title: Fashion Communication
 L-T-P : 3-0-0 Credits: 3 Contact Hrs: 3 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
 Teaching Hrs: 40 Exam Duration: 3 Hrs 
- ## Page 21
- FMCD2009 / 2.0 
- 21 
+
 2. Kate Nelson Bet, The history and fashion journalism, Berg publishers, 2017. 
 3. Harriet Posner, Marketing Fashion: Strategy, Branding and Promotion, Laurence king 
 publishing, 2015. 
@@ -650,10 +597,7 @@ publishing, 2015.
 Fairchild. 
 5. Jay & Ellen Diamond, "Fashion Advertising & Promotion", Fairchild, 1999 
 6. Kristen K Swanson, "Writing for Fashion Business", Fairchild Books Publishers, 2008. 
-  BACK 
-  ## Page 22
- FMCD2009 / 2.0 
- 22 
+
 Course Code: 23DFDP104 Course Title: Pattern Making and Garment 
 Construction- 1 Lab 
 L-T-P : 1-0-2 Credits: 3 Contact Hrs: 5 
@@ -682,10 +626,7 @@ faced placket, Zipper plackets.
 * Pleats - Accordion, knife, box, inverted, gathering, shirring. 
 8 Design and develop kid's wear- zabla. 
 9 Design and develop kid's wear - A Line & pleated frocks. 
-BACK 
-  ## Page 23
- FMCD2009 / 2.0 
- 23 
+
 Course Code: 23DFDP105 Course Title: Needle Craft 
 L-T-P : 1-0-2 Credits: 3 Contact Hrs: 5 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
@@ -706,10 +647,7 @@ Single, Double, Treble
 Knots, Braiding 
 9 Design and Develop the product - Crochet. 
 10 Design and Develop the product - Macrame. 
-  BACK 
-  ## Page 24
- FMCD2009 / 2.0 
- 24 
+
 Course Code: 23DFDH101 Course Title: Professional Communication- I 
 L-T-P : 3-0-0 Credits: 3 Contact Hrs: 3 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -733,10 +671,7 @@ References:
 1. Collins Cobuild Advanced Learner's English Dictionary 
 2. Raymond Murphy - Intermediate English Grammar, Cambridge University Press 
 3. Martin Hewings- Advanced English Grammar, Cambridge University Press. 
-BACK 
-  ## Page 25
- FMCD2009 / 2.0 
- 25 
+
 Course Code: 23DFDO101 Course Title: Digital Fluency 
 L-T-P : 1-0-1 Credits: 2 Contact Hrs: 3 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
@@ -771,10 +706,7 @@ fashion businesses
 (AR), Artificial Intelligence (AI), Machine Learning, Smart Textiles and wearable 
 technology, Internet of Things (IoT), Sustainable technology, V oice Commerce, 
 8 CANV A Designs 
-BACK 
-  ## Page 26
- FMCD2009 / 2.0 
- 26 
+
 SEMESTER-II 
 Course Code: 23DFDC106 Course Title: Fabric Structure and Coloration 
 L-T-P: 3-0-0 Credits:3 Contact Hrs: 3 /week 
@@ -811,9 +743,7 @@ styles and methods of textile printing.
   Chapter-8 Preparation and Pre-treatment 
 Introduction to the fabric preparatory processes, Terminologies, singeing, designing, scouring, 
 bleaching, mercerizing processes. 
-  ## Page 27
- FMCD2009 / 2.0 
- 27 
+
 Reference books 
 1. Fabric Structure and Design by N. Gokarneshan 
 2. Principles of Fabric Formation by P.K. Chakraborty 
@@ -824,10 +754,7 @@ Reference books
 7. Woven Fabrics: Principles and Applications by V . K. Kothari and M. Jassal 
 8. Nonwoven Textiles" by Harold N. G. Wadsworth and Stanley Backer 
 9. "Knitting Technology: Kadiresan & Dr. Jayaprakash & other authersimportant 
-  BACK 
-   ## Page 28
- FMCD2009 / 2.0 
- 28 
+
 Course Code: 23DFDP106 Course Title: Fabric Structure and Colouration Lab 
 L-T-P : 0-0-2 Credits: 2 Contact Hrs: 4 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
@@ -847,10 +774,7 @@ layout for the same.
 Pre-processing of textiles: scouring of cotton fabric 
 4 Pre-processing of textiles: Bleaching of cotton fabric 
 Pre-processing of textiles: Optical whitening, mercerization 
-BACK 
-   ## Page 29
- FMCD2009 / 2.0 
- 29 
+
 Course Code: 23DFDC107 Course Title: Garment Manufacturing Technology 
 L-T-P : 3-0-0 Credits: 3 Contact Hrs: 3 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -885,9 +809,7 @@ and fusing equipment. Fusing machines, fusing materials, components of fusing, t
 & its applications for various garment products 
   Chapter 8- In process quality inspection, objectives, advantages, inspection methods. Final inspection, 
 random inspection, AQL inspection method for shirts, trouser and kid's garments. 
-  ## Page 30
- FMCD2009 / 2.0 
- 30 
+
 References 
 1. Rajkishore Nayak Rajiv Padhye, "Garment Manufacturing Technology" Ist Edition, 
 woodhead publication, 2015. 
@@ -898,10 +820,7 @@ Garment Technology for Fashion Designers", John Wiley & Sons, 2011
 4. Francis Cherunilam, "International Buisness Text and Cases", Prentice Hall India, 2009 
 5. Harold CarL Barbara Latham. "The Technology of Clothing Manufacture", Wiley, 1994. 
 6. T.A.S Balagopal, "Export Management ", New age Publishers, 2008. 
-  BACK 
-   ## Page 31
- FMCD2009 / 2.0 
- 31 
+
 Course Code: 23DFDC108 Course Title: Fashion Design 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 3 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -936,9 +855,7 @@ painting& Piercings
 • Identification of Marital Status 
 • Identification of Individual Status in a Tribe 
    Chapter No. 6Fashion Psychology 
- ## Page 32
- FMCD2009 / 2.0 
- 32 
+
 Fashion Psychology, role of clothing in physical, social, psychological and cultural scenario, How 
 dress affects behaviour: Enclothed cognition, First impression, Halo Effect Stereotyping, perceptions, 
 Clothing and gender differentiation and psychologicalobsolence. 
@@ -965,10 +882,7 @@ Publishing India Private Limited, 2007.
 2006. 
 6. Stanyer Peter, "The Complete Book of Drawing Techniques", Arcturus Publishing 
 Ltd.,2003. 
-                                                                                                                                            BACK 
-   ## Page 33
- FMCD2009 / 2.0 
- 33 
+
 Course Code: 23DFDP109 Course Title: Fashion Illustration Lab 
 L-T-P : 0-0-2 Credits: 2 Contact Hrs: 4 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
@@ -996,10 +910,7 @@ Sabyasachi Mukherjee, Ritu Kumar, JJ Valaya, Wendell Rodrick's, Raghavendra
 Rathod, Manish Malhotra, Bhumika, Shyamal. 
 Development of folio with design concepts inspired by one International Designer - 
 Christian Dior, Gianni Versace, Coco Chanel, Donna Karan, Calvin Klein. 
-BACK 
-  ## Page 34
- FMCD2009 / 2.0 
- 34 
+
 Course Code: 23DFDP110 Course Title: Garment Detailing Lab 
 L-T-P : 1-0-2 Credits: 3 Contact Hrs: 5 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
@@ -1037,10 +948,7 @@ button and button holes, visible and concealed zippers, Velcro.Development of fo
 Develop Garments - Circular Skirt and Long Skirt 
 Design garments for women using major and minor components. (Two Garments) 
 Develop garments for women using major and minor components. (Two Garments) 
-BACK 
-  ## Page 35
- FMCD2009 / 2.0 
- 35 
+
 Course Code: 23DFDP111 Course Title: Fabric Artistry & Embroidery 
 L-T-P : 0-0-2 Credits: 2 Contact Hrs: 4 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
@@ -1070,10 +978,7 @@ Embroidery of Gujarat
 Developing samples using smocking technique (10) 
 4 Design and develop 1 products embellishing with embroidery (any 3) 
 Design and develop 1 products using smocking technique 
-BACK 
-  ## Page 36
- FMCD2009 / 2.0 
- 36 
+
 Course Code: 23DFDH102 Course Title: Intermediate English 
 L-T-P : 2-0-0 Credits: 2 Contact Hrs: 3 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -1094,10 +999,7 @@ References:
 1. Collins Cobuild Advanced Learner's English Dictionary 
 2. Raymond Murphy - Intermediate English Grammar, Cambridge University Press 
 3. Martin Hewings- Advanced English Grammar, Cambridge University Press. 
-                                                                                                                                                              BACK 
-  ## Page 37
- FMCD2009 / 2.0 
- 37 
+
   Course Code: 23DFDO102 Course Title: Digital & Social Media Branding 
 L-T-P : 0-0-2 Credits: 2 Contact Hrs: 4 
 ISA Marks: 80 ESA Marks: 20 Total Marks: 100 
@@ -1119,10 +1021,7 @@ Create social media professional accounts with proper has tags/usernames
 Create social media posts using website link, text and flyers 
 6 Create landing page using Convertkit 
 Publish and generate traffic to social media and website 
-  BACK 
-  ## Page 38
- FMCD2009 / 2.0 
- 38 
+
 III Semester 
   Program: III Semester B Sc Fashion & Apparel Design 
 Course Title: Textile Wet Processing Course Code: 24DFDC201 
@@ -1155,9 +1054,7 @@ Ethical fashion-Introduction, Definition, Criteria, Importance, Need of Sustaina
 Use of Eco-labeled chemicals and dyes. 
 Chapter-8 Recent Trends and Innovation 
 Green Processing, Green marketing, Dyeing Machineries, Biodegradable packages. 
-  ## Page 39
- FMCD2009 / 2.0 
- 39 
+
 References: 
 1. C.V Koushik and Antao Irwin, "Chemical Processing of Textiles - Preparatory process and dyeing" 
 NCUTE 2003. 
@@ -1185,10 +1082,7 @@ Dyeing of Acrylic using Basic dyes
 Printing -Block Printing 
 Printing-Screen Printing 
 Eco-Printing 
-  BACK 
-  ## Page 40
- FMCD2009 / 2.0 
- 40 
+
   Program: III Semester B Sc Fashion & Apparel Design 
 Course Title: Fashion Design & Forecasting Course Code: 24DFDC202 
 L-T-P : 3-0-0 Credits: 3 Contact Hrs: 3 
@@ -1222,9 +1116,7 @@ Forecasting Resources and Agencies.
   Chapter 6 - Trend Analysis 
 Trend Analysis- Trend forecasting- Introduction, Objectives. Importance of Trend Analysis, Theories and Concepts 
 in Trend Analysis, Process and application of Trend Analysis and Trend presentation. 
- ## Page 41
- FMCD2009 / 2.0 
- 41 
+
   UNIT III 
   Chapter 7 - Design Layout 
 Design Layout- Design direction, attitude in a pose, Design Emphasis, Stylization for Designers, Design objectives, 
@@ -1244,10 +1136,7 @@ References
 6. Karl Aspelund. (2010). The Design Process. Fairchild Publications. 
 7. Bryan Lawson. (2005). How Designers Think: The design process demystified. Biddles Ltd. 
 8. Nigel Cross. (2011). Design Thinking. Breg Publishers. 
-  BACK 
-  ## Page 42
- FMCD2009 / 2.0 
- 42 
+
   Program: III Semester B Sc Fashion & Apparel Design 
 Course Title: Fashion Event Management Course Code: 24DFDC203 
 L-T-P : 3-0-0 Credits: 3 Contact Hrs: 3 
@@ -1279,9 +1168,7 @@ selection and styling, Choreography and rehearsals and Backstage management.
 Relevant Fashion events laws, licenses and permissions, Legal contracts-constructing a contract, 
 trade mark and service mark, Official bodies and contracts, 
 Security related issues: Handling other legal issues of event management. 
- ## Page 43
- FMCD2009 / 2.0 
- 43 
+
 UNIT III 
   Chapter 7- Digital and Virtual Events 
 Planning virtual fashion events, using technology and software for virtual events, engaging online 
@@ -1304,10 +1191,7 @@ YaleUniversity Press, New Haven, 2019.
 Boston, 2013. 
 9. Julia Rutherford Silvers, "Professional Event Co-ordination", Wiley, 2nd edition, 
 UnitedKingdom, 2012. 
-  BACK 
-  ## Page 44
- FMCD2009 / 2.0 
- 44 
+
   Program: III Semester B Sc Fashion & Apparel Design 
 Course Title: Advanced Fashion Illustration Course Code: 24DFDP201 
 L-T-P: 0-0-2 Credits: 2 Contact Hrs: 4 
@@ -1326,10 +1210,7 @@ grouping of figures
 7 Research design- design journal pages, Preparation of portfolio based on inspiration, mood, 
 colour, client, texture and fabric swatch boards based on current trend. 
 8 Design development - thematic figure composition. 
-BACK 
-  ## Page 45
- FMCD2009 / 2.0 
- 45 
+
 Program: III Semester B Sc Fashion & Apparel Design 
 Course Title: Digital Fashion Course Code: 24DFDP202 
 L-T-P: 0-0-2 Credits: 2 Contact Hrs: 4 
@@ -1362,10 +1243,7 @@ Design & develop of flat sketches along with stitch specification for the follow
 's (Top, Skirt, gown). (any 2) 
 Design & develop of flat sketches along with stitch specification for the following: Adults -Men 's 
 (Shirt, Kurta, Trouser). (any 2) 
-  BACK 
-  ## Page 46
- FMCD2009 / 2.0 
- 46 
+
 Program: III Semester B Sc Fashion & Apparel Design 
 Course Title: Advance Garment Construction Course Code: 24DFDP203 
 L-T-P: 0-0-3 Credits: 3 Contact Hrs: 6 
@@ -1407,10 +1285,7 @@ garments.
 - Construction of the garments 
 - Estimate the layout for fabric 
 - Develop cost sheets 
-BACK 
-  ## Page 47
- FMCD2009 / 2.0 
- 47 
+
 Program: III Semester B Sc Fashion & Apparel Design 
 Course Title: Advanced English Course Code: 24DFDH201 
 L-T-P : 2-0-0 Credits: 2 Contact Hrs: 2 
@@ -1436,10 +1311,7 @@ References
 4. Diana Booher - Communicate with Confidence, Mc Graw Hill Publishers 
 5. Norman Lewis-Word Power Made Easy, Goyal Publishers 
 6. Cambridge Advanced Learner's Dictionary, Cambridge University Press. 
-  BACK 
-  ## Page 48
- FMCD2009 / 2.0 
- 48 
+
 Scheme Program: III Semester B Sc Fashion & Apparel Design 
 Course Title: Design Thinking & 3D Printing Course Code: 24DFDO201 
 L-T-P: 0-0-2 Credits: 2 Contact Hrs: 4 
@@ -1477,10 +1349,7 @@ Stakeholder feedback: -User-experience feedback, Identify limitations and scope 
 improvement 
 Report writing and Presentation: - Guidelines for research and citation, Assignment description, 
 Bibliography, Conclusion, Presentation skills and tips. 
-BACK 
-  ## Page 49
- FMCD2009 / 2.0 
- 49 
+
 Semester: IV 
 Program: IV Semester B Sc Fashion & Apparel Design 
 Course Title: Apparel Quality & Testing Course Code: 24DFDC204 
@@ -1509,9 +1378,7 @@ system and its application in garment production.
 Introduction to Colorfastness, Types of colorfastness, Factors affecting the colorfastness property 
 of a dyed material, Methods and equipment's used to determine colorfastness to washing, 
 colorfastness to rubbing, colorfastness to perspiration and colorfastness to light. 
- ## Page 50
- FMCD2009 / 2.0 
- 50 
+
 UNIT III 
   Chapter 7 - Quality Assurance in Supply Chain Management 
 Quality assurance practices in the garment supply chain. Vendor evaluation and selection criteria, 
@@ -1544,10 +1411,7 @@ Pvt. Ltd., 2nd edition, 2016
 9 Drapability Test for Fabric Evaluation 
 10 Understanding different light setup and mechanism of Colour cabinet. 
 Grey Scale Reading for Color Assessment 
-BACK 
- ## Page 51
- FMCD2009 / 2.0 
- 51 
+
 Program: IV Semester B Sc Fashion & Apparel Design 
 Course Title: Historical Costumes Course Code: 24DFDC205 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 3 
@@ -1573,9 +1437,7 @@ Chapter 6
 Textiles & costumes- 
 • Mughal 
 • Colonial and Post-Colonial Clothing 
-  ## Page 52
- FMCD2009 / 2.0 
- 52 
+
 UNIT III 
 Chapter 7 - Regional Costumes of India- North & Eastern states of India 
 Traditional costumes of North India - Jammu & Kashmir, Punjab, Himachal Pradesh, Haryana, 
@@ -1598,10 +1460,7 @@ Fairchild Publication, 2009
 7. Indian Costumes - Renee W. Chase 
 8. Costume, Textiles and jewellery of India - Vandana Bhandari 
 9. World Dress Fashion in Detail - RosemeryCrill, Jennifer Wearden and Verity Wilson 
-  BACK 
-  ## Page 53
- FMCD2009 / 2.0 
- 53 
+
 Program: IV Semester B Sc Fashion & Apparel Design 
 Course Title: Indian Textile Art & Craft Course Code: 24DFDC206 
 L-T-P : 3-0-0 Credits: 3 Contact Hrs: 3 
@@ -1636,9 +1495,7 @@ Textile Art & Craft of West India-
 Phad Painting, Pichwais, Blue Pottery, Applique Work, Usta Art, Printing - Bagru hand block 
 printing, Sanganeri Block Printing, Khavda Pottery, Bandhej, Patola, Rogan art, Kutch embroidery. 
 Warli Painting, Paithani Saris, Kolhapur Chappal, crochet, Kaavi art & Hand Painted Tiles, 
- ## Page 54
- FMCD2009 / 2.0 
- 54 
+
 Unit III 
 Chapter 7 
 Textile Art of North-East India- Weaving Craft, Silk Textiles, Textiles of Meghalaya, Traditional 
@@ -1657,10 +1514,7 @@ Pvt Ltd, 2014
 6. Chattopadhya K.D, Indian Carpets and Floor Coverings, All India Handicrafts Board, 
 New Delhi, 1977 
 7. K.Prakash,' Rajasthani Folk Art'" English edition publishers 
-  BACK 
-  ## Page 55
- FMCD2009 / 2.0 
- 55 
+
 Program: IV Semester B Sc Fashion & Apparel Design 
 Course Title: Historical Costume Exploration Course Code: 24DFDP204 
 L-T-P: 0-0-2 Credits: 2 Contact Hrs: 4 
@@ -1687,10 +1541,7 @@ contemporary motifs
 costume 
 18 Preparation of concept, Research and Mood board for contemporary design based on one 
 Indian costume. 
-BACK 
- ## Page 56
- FMCD2009 / 2.0 
- 56 
+
 Program: IV Semester B Sc Fashion & Apparel Design 
 Course Title: Advanced Digital Fashion Course Code: 24DFDP205 
 L-T-P: 0-0-2 Credits: 2 Contact Hrs: 4 
@@ -1721,9 +1572,7 @@ Use the motif for pattern creation - Pattern layout - ½ drop, ¼ drop, ¾ drop 
 Toss repeat. (any 3) 
 Create all over, Seam less pattern 
 Design and develop of Saree with Borders, Pallu and Allover. 
-  ## Page 57
- FMCD2009 / 2.0 
- 57 
+
 6 Designing Apparels 
 Design women 's casual, party, night, sports, office/formal wears using software. (Any 3) 
 Design men 's casual, party, night, sports, office/formal wears using software. (Any 3) 
@@ -1746,10 +1595,7 @@ plan -
  Shirt 
  Dress/ Top 
  Shorts/Trousers and Kurtha. 
-  BACK 
-  ## Page 58
- FMCD2009 / 2.0 
- 58 
+
 Program: IV Semester B Sc Fashion & Apparel Design 
 Course Title: Fashion Draping Course Code: 24DFDP206 
 L-T-P: 0-0-3 Credits: 3 Contact Hrs: 6 
@@ -1790,9 +1636,7 @@ Sleeves -
 - Bishop Sleeve 
 Fabric preparation, Draping method, Marking and Truing. 
 Drape a Innovative sleeves suitable for women's Top 
- ## Page 59
- FMCD2009 / 2.0 
- 59 
+
 6 Developing Garments 
 Straight Shift 
 Sheath Dress 
@@ -1805,10 +1649,7 @@ Drape a Garment using combining any of the creative draping methods
 Skirt & Top using draping technique with combining any of the draping techniques with any two Style 
 features. 
 Evening gown using draping technique based on theme, with any two Style features. 
-  BACK 
-  ## Page 60
- FMCD2009 / 2.0 
- 60 
+
 Program: IV Semester B Sc Fashion & Apparel Design 
 Course Title: Functional English Course Code: 24DFDH202 
 L-T-P: 2-0-0 Credits: 2 Contact Hrs: 2 
@@ -1830,10 +1671,7 @@ References:
 1. Collins Cobuild Advanced Learner's English Dictionary 
 2. Raymond Murphy - Intermediate English Grammar, Cambridge University Press 
 3. Martin Hewings- Advanced English Grammar, Cambridge University Press. 
-  BACK 
-  ## Page 61
- FMCD2009 / 2.0 
- 61 
+
 Program: IV Semester B Sc Fashion & Apparel Design 
 Course Title: Fashion Visualization: Multimedia Techniques Course Code: 24DFDW201 
 L-T-P: 0-0-2 Credits: 2 Contact Hrs: 4 
@@ -1871,10 +1709,7 @@ for selecting camera and lens.
 • Angles 
 • Lighting Setups 
 • Compositions 
-BACK 
-  ## Page 62
- FMCD2009 / 2.0 
- 62 
+
 Semester: V 
 Program: V Semester B Sc Fashion & Apparel Design 
 Course Title: AI in Fashion Design Course Code: 25DFDC301 
@@ -1901,9 +1736,7 @@ Image-Based Applications in the Fashion Industry, Image Tagging, Reverse Image S
 Neural Networks Overview: Feedforward, Recurrent, and Convolutional Neural Networks, Training Neural 
 Networks, Datasets 
 Adversarial Examples and Implications in Fashion AI 
- ## Page 63
- FMCD2009 / 2.0 
- 63 
+
 Chapter 5: Virtual Stylists and Fashion Assistants 
 AI Personal Stylists and Virtual Assistants, Voice Interfaces and Features of Style Assistants 
 Case Study: Amazon Echo Look 
@@ -1953,9 +1786,7 @@ versions from prompts, and
 evaluate similarities and 
 differences. 
 30 
- ## Page 64
- FMCD2009 / 2.0 
- 64 
+
 Fashion 
 Accessories 
 How can AI help design 
@@ -2010,10 +1841,7 @@ VIVA
 3 Trend Forecasting 
 4 Fashion Retail 
   Total 100 
-  BACK 
-  ## Page 65
- FMCD2009 / 2.0 
- 65 
+
 Program: V Semester B Sc Fashion & Apparel Design 
 Course Title: Fashion Sustainability & Innovation Course Code: 24DFDC302 
 L-T-P : 3-0-0 Credits: 3 Contact Hrs: 3 
@@ -2041,9 +1869,7 @@ Challenges and Opportunities
   Chapter 6 - Social Innovation and Ethical Practices 
 Ethical Fashion Movements, Consumer Awareness and Behavior, Diversity and Inclusion in Fashion, Empowering 
 Communities, Certifications and Standards 
-  ## Page 66
- FMCD2009 / 2.0 
- 66 
+
 Unit III 
 Chapter 7 - Fashion and the Circular Economy 
 Circular Fashion Systems, Waste Management, Clothing Rental and Resale and Extended Producer 
@@ -2065,10 +1891,7 @@ Publication
 International. 
 6. Thames & Hudson (2012). The Sustainable Fashion handbook, Sandy black publication. 
 7. Walker, S. & Giard, J. (2013).The handbook of Design for Sustainability, Bloomsbury publication 
-  BACK 
-  ## Page 67
- FMCD2009 / 2.0 
- 67 
+
 Program: V Semester B Sc Fashion & Apparel Design 
 Course Title: Fashion Retail Marketing & Merchandising Course Code: 25DFDC302 
 L-T-P : 3-0-0 Credits: 3 Contact Hrs: 3 
@@ -2103,9 +1926,7 @@ Chapter 6 - Marketing Channels and Product Analysis
 Marketing Channels and Product Analysis: Marketing Budget, Idea Generation, Quick Reaction, Just -In-Time, 
 Merchandiser Calendar, Trend Analysis, Forecast Analysis, Ideas for Product Line, Point of Purchase (POP) and Point 
 of Sale (POS), Planning, Directing, Lead Time Coordinating, and Regulating. 
- ## Page 68
- FMCD2009 / 2.0 
- 68 
+
 UNIT III 
 Chapter 7 - Retail Marketing 
 Retail Marketing - Definition, Importance, types, retail organization structure, store - buying, selling, retailing 
@@ -2130,10 +1951,7 @@ References
 1997, ISBN-13: 978-1563670862. 
 8. Patricia Mink Rath, Richard Petrizzi, Penny Gill, "Marketing Fashion - A Global 
          Perspective", Bloomsbury Publishing India Private Limited, 2012. 
-BACK 
-  ## Page 69
- FMCD2009 / 2.0 
- 69 
+
 Program: V Semester B Sc Fashion & Apparel Design 
 Course Title: Entrepreneurship Development Course Code: 25DFDC303 
 L-T-P : 3-0-0 Credits: 3 Contact Hrs: 3 
@@ -2163,9 +1981,7 @@ Micro, Small and Medium Enterprises (MSME): Definition as per the Ministry of MS
 industry, government concessions and encouragement to MSME, procedure for registering MSME under UDYAM 
 portal, Types of ownership - sole proprietorship, partnership and co-operative, limited liability Companies- merits 
 and demerits. 
-  ## Page 70
- FMCD2009 / 2.0 
- 70 
+
 UNIT III 
 Chapter 7 Strategies for Growth 
 Incubation & start India -Introduction to Startup Ecosystem in India, Access to Funding, Market Expansion 
@@ -2186,10 +2002,7 @@ References
 1997, ISBN-13: 978-1563670862. 
 8. Patricia Mink Rath, Richard Petrizzi, Penny Gill, "Marketing Fashion - A Global 
          Perspective", Bloomsbury Publishing India Private Limited, 2012. 
-BACK 
-  ## Page 71
- FMCD2009 / 2.0 
- 71 
+
 Program: V Semester B Sc Fashion & Apparel Design 
 Course Title: Advanced Fashion Draping Course Code: 24DFDP301 
 L-T-P: 0-0-2 Credits: 2 Contact Hrs: 4 
@@ -2221,10 +2034,7 @@ Muslin - Types, Study of Grains, types of muslin, preparation of muslin.
 - Subtract cutting, TR Cutting, Zero-Waste, 
 - Introducing Twist and Knots in draping. 
 - Design and develop a complete garment by combining any of the above techniques. 
-BACK 
-  ## Page 72
- FMCD2009 / 2.0 
- 72 
+
 Program: V Semester B Sc Fashion & Apparel Design 
 Course Title: Fashion Accessories Course Code: 25DFDP301 
 L-T-P: 0-0-3 Credits: 3 Contact Hrs: 5 
@@ -2243,10 +2053,7 @@ Thewa Jewellery.
 materials - Head gears, Foot wear, Bows, neckties, belts, Hand bags, Gloves, Scarves & Stoles. 
 Costing for the developed products. 
 8 Study & report of current fashion accessories trends 
-  BACK 
-  ## Page 73
- FMCD2009 / 2.0 
- 73 
+
 Program: VI Semester B Sc Fashion & Apparel Design 
 Course Title: Costume Designing Course Code: 25DFDP302 
 L-T-P: 0-0-2 Credits: 2 Contact Hrs: 4 
@@ -2270,10 +2077,7 @@ designs each).
 Develop the concept 
 6 Create a range of collections inspired by the chosen costume designer 
 7 Report on evolution of film costume and its influence in fashion 
-  BACK 
-  ## Page 74
- FMCD2009 / 2.0 
- 74 
+
 Program: V Semester B Sc Fashion & Apparel Design 
 Course Title: Fashion Graphic Design Course Code: 24DFDO301 
 L-T-P: 0-0-2 Credits: 2 Contact Hrs: 4 
@@ -2305,9 +2109,7 @@ and emotional associations. Present the palette and explain the reasoning behind
  Typography and Visual Communication, Importance of Typography in Fashion Design, Choosing Fonts 
 that Reflect Brand Identity, Typography Hierarchy and Layout Design 
 Typographic Elements in Brand Communication 
- ## Page 75
- FMCD2009 / 2.0 
- 75 
+
 Assignment: Typographic Hierarchy Exercise. Design a promotional poster for a fashion brand using 
 typographic hierarchy to emphasize key information. Focus on font choice, size, spacing, and layout 
 to guide viewer attention. 
@@ -2320,10 +2122,7 @@ Assignment: Design stationery designs for a fashion brand with mock-ups
 Assignment: Design a standee, name boards and magazine cover page with mock-ups 
  Introduction to Graphic Design Portfolio design 
 Assignment: Design Fashion Graphic Design Portfolio 
-  BACK 
-  ## Page 76
- FMCD2009 / 2.0 
- 76 
+
 Program: V Semester B Sc Fashion & Apparel Design 
 Course Title: Craft Documentation Course Code: 24DFDW301 
 L-T-P: 0-0-3 Credits: 3 Contact Hrs: 2 
@@ -2349,10 +2148,7 @@ or graph is used to analyse and interpret the meaning of the result
 10 Developing the written document -literature review, methodology adopted, tabulating and 
 analysis of the results and concluding. Present in the form of written document and oral 
 presentation. 
-BACK 
-  ## Page 77
- FMCD2009 / 2.0 
- 77 
+
 Semester: VI 
 Program: VI Semester B Sc Fashion & Apparel Design 
 Course Title: Smart Fashion Textiles & Accessories Course Code: 24DFDC304 
@@ -2378,9 +2174,7 @@ materials, Stimuli sensitive materials, Shape memory materials.
   Chapter-6 Designing with Smart Textiles 
 Principles of designing with smart textiles. Ideation & sketching for smart textiles 
 Case studies of innovative smart textile designs in fashion 
-  ## Page 78
- FMCD2009 / 2.0 
- 78 
+
 Unit III 
   Chapter-7 Sustainability and Future Trends 
 Introduction to eco-friendly textile materials, Green composites, Ethical and Social Impact. 
@@ -2400,10 +2194,7 @@ Management Association
 5. "Smart Textiles: Wearable Nanotechnology" by Nazire Deniz Yılmaz and Mehmet Uzun 
 6. "Fashionable Technology: The Intersection of Design, Fashion, Science, and Technology" by Sabine 
 Seymour 
-BACK 
-  ## Page 79
- FMCD2009 / 2.0 
- 79 
+
 Program: VI Semester B Sc Fashion & Apparel Design 
 Course Title: Boutique Management Course Code: 24DFDC305 
 L-T-P : 3-0-0 Credits: 3 Contact Hrs: 3 
@@ -2439,9 +2230,7 @@ Understanding Brand Identity, Market Analysis and Segmentation, Marketing Channe
 Promotional strategies to drive traffic and sales. 
 Digital marketing channels, Social media marketing strategies for boutique businesses, Measuring and evaluating 
 digital marketing performance 
- ## Page 80
- FMCD2009 / 2.0 
- 80 
+
 UNIT III 
 Chapter 7 
 HR Management, Legal and Ethical Considerations 
@@ -2463,10 +2252,7 @@ Retail Business By Emily Benson
 6. The Online Boutique CEO -How to Start an Online Clothing Boutique Line from Scratch by Denise Ulasi 
 7. Rajagopal, Entrepreneurship & Rural markets 
 8. Fashion Retailing-3rd Edition by Jay Diamond, Ellen Diamond & Sheri Diamond Litt 
-  BACK 
-  ## Page 81
- FMCD2009 / 2.0 
- 81 
+
 Program: VI Semester B Sc Fashion & Apparel Design 
 Course Title: Leather Technology Course Code: 24DFDC306 
 L-T-P : 3-0-0 Credits: 3 Contact Hrs: 3 
@@ -2493,9 +2279,7 @@ Chapter-6 Eco friendly and Ethical practices
 Environmental impacts of leather production, Sustainable practices and certifications in vegan leather 
 manufacturing, Ethical considerations in sourcing materials and production processes, Regulatory frameworks 
 and stands. 
-  ## Page 82
- FMCD2009 / 2.0 
- 82 
+
 UNIT III 
 Chapter-7 Care and maintenance 
 Importance of proper care and maintenance in preserving leather, Washing instructions, Storage , Protection, 
@@ -2512,10 +2296,7 @@ various industries.
 6. "Leather Processing, Tanning Technology, and Applications" edited by Walid Elshahed 
 7. "Handbook of Leather Manufacture" by Dr. H. R. Procter 
 8. "Leather Science and Technology" by Dr. T. D. Sengupta 
-  BACK 
-  ## Page 83
- FMCD2009 / 2.0 
- 83 
+
 Program: VI Semester B Sc Fashion & Apparel Design 
 Course Title: Fashion Styling & Visual Merchandising Course Code: 25DFDP303 
 L-T-P: 0-0-2 Credits: 2 Contact Hrs: 4 
@@ -2547,10 +2328,7 @@ Develop a layout for given outlet and design a visual display using designing so
 • Commercial Brand store 
 • Luxury goods (in house interiors) 
 • Couture collections 
-BACK 
-  ## Page 84
- FMCD2009 / 2.0 
- 84 
+
 Program: VI Semester B Sc Fashion & Apparel Design 
 Course Title: Advanced Fashion Graphic Design Course Code: 24DFDO302 
 L-T-P: 0-0-2 Credits: 2 Contact Hrs: 4 
@@ -2576,10 +2354,7 @@ Assignment: Design Brand assets for Landing page, Email marketing and Payment ga
 Assignment: Design a Online shopping page 
 Portfolio Design: Principles and elements 
 Assignment: Graphic Design Final Portfolio 
-  BACK 
-  ## Page 85
- FMCD2009 / 2.0 
- 85 
+
 Program: VI Semester B Sc Fashion & Apparel Design 
 Course Title: Internship Course Code: 25DFDI301 
 L-T-P: 0-0-3 Credits: 3 Contact Hrs: Industrial Internship 
@@ -2623,9 +2398,7 @@ ACTIVITIES OF DIFFERENT DEPARTMENT
 3. 16 Quality Assurance Department 
 3. 17 Planning Department 
                  3. 18 IT policy of Apparel Promoters Ltd 
- ## Page 86
- FMCD2009 / 2.0 
- 86 
+
 4 CHAPTER FOUR (FOCUSING DEPARTMENT) 
 Best Practice in Merchandising 
 4. 1 Merchandising Activities 
@@ -2651,10 +2424,7 @@ Tasks/ assignments performed during the internship.
 Correlating field knowledge with academic knowledge in par with standards. 
 Presentation and communication skills. 
 Reflection on lifelong learning from internship. 
-  BACK 
-  ## Page 87
- FMCD2009 / 2.0 
- 87 
+
 Program: VI Semester B Sc Fashion & Apparel Design 
 Course Title: Fashion Portfolio Course Code: 24DFDW302 
 L-T-P: 0-0-4 Credits: 4 Contact Hrs: 6 
@@ -2685,18 +2455,13 @@ Visual presentation boards: Inspiration, mood board, Client, Color, Swatch board
 Board. Design Development Sheets 
 14 Final range of five ensembles Preparing Specification sheets 
 15 Development of any 1 design by drafting, draping and flat pattern method. 
- ## Page 88
- FMCD2009 / 2.0 
- 88 
+
  Making toile fit for the collection 
 Preparing Fabric layout plan 
 16 Realize the final collection in appropriate material with proper finishing 
 17 Design Collection inspired by any one National designer of your Choice (5 designs). 
 18 Design Collection inspired by any one international designer of your Choice (5 designs). 
-BACK 
-  ## Page 89
- FMCD2009 / 2.0 
- 89 
+
 Program: B.Sc Fashion and Apparel Design Semester: VI 
 Course Title: Constitution of India, Professional Ethics and 
 Environmental Studies 
@@ -2731,10 +2496,7 @@ in fashion industry.
 Concept of sustainable fashion, Fashion and Environment 
   Chapter No. 8 Intellectual Property Rights 
   Chapter No. 9 Ethical perspectives of professional bodies 
- ## Page 90
- FMCD2009 / 2.0 
- 90 
-   BACK 
+
   Code of ethics in fashion - International Textile and Apparel Association (ITAA) Global Organic Textile 
 Standard (GOTS) and Fair Wear Foundation (FWF) 
 Fashion laws in India 
@@ -2749,4 +2511,4 @@ Text Books
 2. Dr. M.K. Bhandari, "Law relating to Intellectual Property Rights", Central Law Publicaitons, 
 Allahabad, 2010. 
 Reference Books: 
-1. Durga Das Basu, "Introduction to the Constitution of India", Prentice-hall EEE, 2001 
+1. Durga Das Basu, "Introduction to the Constitution of India", Prentice-hall EEE, 2001

@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 241imguf_KLE-Technological-University-Public-Mandatory-Disclosure"
+title: "KLE Technological University Public Mandatory Disclosure"
 category: "miscellaneous"
 subcategory: ""
 document_type: "syllabus"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["disclosure", "document", "education", "https", "kletech", "mandatory", "public", "research", "technological", "university"]
 aliases: ["HOD", "Head of Department", "CSE", "CS", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "9"
 ---
-# PDF Document: 241imguf_KLE-Technological-University-Public-Mandatory-Disclosure
- **PDF Source:** https://www.kletech.ac.in/Uploads/image/241imguf_KLE-Technological-University-Public-Mandatory-Disclosure.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/Uploads/image/241imguf_KLE-Technological-University-Public-Mandatory-Disclosure.pdf
  KLE Technological University, Hubballi 
   Public Self Disclosure 
 Sr. N
@@ -76,7 +76,6 @@ Receipts and
 Payments 
 Account Along 
 https://www.kletech.ac.in/audited-reports 
- ## Page 2
  with Audit 
 Report 
 Sponsoring 
@@ -145,7 +144,6 @@ Karnataka Government Suvarna Karna taka Rajyotsav
 Award in 2006. 
 Dr. Prabhakar Kore 's unwavering dedication to societal 
 development continues to inspire and impact various 
- ## Page 3
  sectors, leaving an indelible mark on the communities he 
 serves. 
 Pro Chancellor 
@@ -206,7 +204,6 @@ Mobile: 9845903330
 Profile: Dr. Prakash G. Tewari is the Vice-Chancellor of KLE 
 Technological University (KLE Tech) in Hubballi, Karnataka, 
 India. Prior to his current role, he served as the Dean of 
- ## Page 4
  Academic Affairs at KLE Tech. He has also held the position 
 of Principal, B.V.B. College of Engineering &amp; 
 Technology. Dr. Tewari earned his Ph.D. from the Indian 
@@ -259,7 +256,6 @@ established him as a leading figure in his field, contributing
 significantly to both academia and industry applications. 
    Finance Officer Name: CA Pooja Kandoi 
 Email: Pooja_k@kletech.ac.in 
- ## Page 5
  Mobile: 9742501857 
 Profile: Professional Summary 
 CA. Pooja R. Kandoi is a highly accomplished finance 
@@ -319,7 +315,6 @@ Systems
 Contributions: 
 Fellow of Institution of Engineers (India) LM ISTE, LM 
 Systems Society of India, LM Semiconductor Society of 
- ## Page 6
  India, Chairman ISTE Chapter in the Institute Mentor / 
 Resource person for INSPIRE program of DST, GoI. 
 Member BoS RIT Sangli, Maharashtra Awarded Fellowship 
@@ -400,7 +395,6 @@ School/ Centre
 Wise Faculty/ 
 https://www.kletech.ac.in/Uploads/image/255imguf_Teachi
 ngStaffListason16-01-2025.pdf 
-    ## Page 7
  Staff Details 
 with 
 Photographs 
@@ -454,7 +448,6 @@ ip Cell
  https://klectie.com/ 
 Central 
 Facilities https://www.kletech.ac.in/campus-life/academic-facilities 
- ## Page 8
  6 Student Life 
 Sports Facilities https://www.kletech.ac.in/campus-life/sports-and-
 health 
@@ -524,7 +517,6 @@ News, Recent
 Events & 
 Achievements 
 https://www.kletech.ac.in/happenings/news 
- ## Page 9
  Job Openings https://www.kletech.ac.in/careers/current-
 positions 
 Reservation Roster 
@@ -552,4 +544,4 @@ Address, Location
 Map 
 https://www.kletech.ac.in/contact-us 
 Telephone Directory https://www.kletech.ac.in/pdf/intercom-04-03-
-2022. pdf 
+2022. pdf

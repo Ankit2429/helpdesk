@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 7th_EC_Minutes"
+title: "EC Minutes"
 category: "miscellaneous"
 subcategory: ""
 document_type: "syllabus"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["council", "document", "held", "research", "resolution", "university"]
 aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "17"
 ---
-# PDF Document: 7th_EC_Minutes
- **PDF Source:** https://www.kletech.ac.in/pdf/7th_EC_Minutes.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/7th_EC_Minutes.pdf
  Minutes 
   7th Executive Council Meeting 
 of 
@@ -23,7 +23,6 @@ Hubballi, Karnataka
 September 20th, 2018 at 10 am 
   Venue: Senate Hall of the University 
 Hubballi 
-  ## Page 2
  The following are the minutes of the 7th Executive Meeting of KLE Technological University, 
 Hubballi which was held on 20th September 2018 at 10 am in the Senate hall of the 
 University. 
@@ -52,7 +51,6 @@ Invitee
 SL Name Designation Position 
 1 Dr. Syed Shakeeb Ur Rahman 
   Member Member 
-  ## Page 3
  Agenda 
   Sl No Particulars Page No 
 EC 7.1 To confirm the minutes of the previous meeting held on 15th March 2018. 1 
@@ -74,7 +72,6 @@ University during summer semester of the academic year 2017-18.
 Applications' Minor Program. 
 12 
 EC 7.8 Any other subject with the permission of the Chair . 14 
-  ## Page 4
  1 
   EC 7.1 To confirm the minutes of the previous meeting held on 15th 
 March 2018. 
@@ -116,7 +113,6 @@ of the KLE Technological University and also the 'Key Performance Indicators (KP
 monitor the progress of it's implementation. 
 EC 6.10 Any other subject with the permission of the Chair 
 NIL 
- ## Page 5
  2 
   Action Requested: To confirm the minutes of the previous meeting held on 15th March 
 2018. 
@@ -124,7 +120,6 @@ NIL
   Resolution 7.1: The Executive Council confirmed the minutes of its 
 6th meeting held on 15th March 2018 at KLE 
 Technological University, Hubballi. 
-  ## Page 6
  3 
   EC 7.2 To confirm the action taken report on the minutes of the previous meeting held on 15th March 
 2018. 
@@ -163,7 +158,6 @@ April 2018 following changes have been
 implemented from the academic year 
 2018-19. 
  Replacement of 'Computer Aided 
- ## Page 7
  4 
   Engineering Drawing' course by 'Data 
 Structures' for Electrical Science (E&E, 
@@ -202,7 +196,6 @@ Noted.
 EC 6.10 Any other subject with the permission of the Chair 
 NIL 
 -- 
- ## Page 8
  5 
   Action Requested: The Executive Council is requested to confirm the action taken report on the minutes of the previous meeting 
 held on 15th March 2018. 
@@ -211,7 +204,6 @@ than Biotechnology. To this Dr. Ashok Shettar, Vice-chancellor said that more br
 added that branding for all minor programmes is required. 
   Resolution 7.2: Resolved to confirm the action taken report on the minutes of its 6th meeting held 
 on 15th March 2018 at KLE Technological University, Hubballi. 
-  ## Page 9
  6 
   EC 7.3 To consider and approve the recommendations of the 4th 
 Finance Council of the University to be held on 14th 
@@ -245,13 +237,11 @@ fresh approval is taken for the year 2018-19.
   Action Requested: The Executive Council is requested to consider and approve the 
 recommendations of the 4th Finance Council of the University held on 14th September 
 2018. 
- ## Page 10
  7 
   Discussion: 
   Resolution 7.3: The Executive Council considered the 
 recommendations of the 4th finance council held on 14th September 
 2018 and approved the same. 
- ## Page 11
  8 
   EC 7.4 To discuss and approve 'Intellectual Property (IP) Policy' of 
 the University. 
@@ -266,7 +256,6 @@ diffusion and commercialization.
   Discussion: Dr. Atre suggested to re-word 1c on similar lines with1B. 
   Resolution 7.4: The Executive Council approved the 'Intellectual 
 Property (IP) Policy' of the University. 
-  ## Page 12
  9 
   EC 7.5 To review progress of implementation of the 'Strategic Plan' 
 of the KLE Technological University. 
@@ -297,7 +286,6 @@ presented.
 o Dean Academics - : Outstanding Student Experience 
 o Dean R&D - Impactful Research 
 o Dean P&D - Societal Engagement 
-  ## Page 13
  10 
   EC 7.6 To review progress of implementation of PhD programmes 
 (Information agenda). 
@@ -336,7 +324,6 @@ synergies between the two, and one may lead to the other - but the distinction h
 maintained. 
 11. Patents may be considered during appraisal for research excellence of faculty, if original 
 research has resulted in the patent. 
- ## Page 14
  11 
   12. Any research proposal must be specific in nature with statement of technical goal. Generic 
 terminologies regarding broad areas of field of domains cannot be considered as research 
@@ -359,7 +346,6 @@ content/uploads/sites/290/2015/05/Research-Plan-2017-FINAL.pdf
   Resolution 7.6: The Executive Council noted the progress of 
 implementation of PhD programmes of the 
 University. 
-  ## Page 15
  12 
   EC 
 7. 7 
@@ -403,7 +389,6 @@ enhance the employability of our students in the field.
 Minor Program in 'Advanced Manufacturing for Aerospace Applications' 
 15 credits, 5 courses + Final semester project in an Aerospace Sub systems' Manufacturing 
 Company. 
- ## Page 16
  13 
   Action Requested: The Executive Council is requested to discuss and ratify institution of 
 'Advanced Manufacturing for Aerospace Applications' undergraduate Minor programme and 
@@ -414,8 +399,6 @@ manufacturing to strengthen the minor programme.
 'Advanced Manufacturing for Aerospace Applications' undergraduate 
 Minor programme and also noted the scheme and syllabi of the 
 programme. 
- ## Page 17
  14 
   EC 7.8 Any other subject with the permission of the Chair. 
-NIL 
-  
+NIL

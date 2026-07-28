@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 2nd-and-4th_sem-COE-2022-23_Even__BSc-FAD"
+title: "And 4th Sem COE 2022 23 Even Bsc Fad"
 category: "miscellaneous"
 subcategory: ""
 document_type: "minutes"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["coe", "date", "document", "fad", "july", "june", "last", "minor"]
 aliases: []
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "1"
 ---
-# PDF Document: 2nd-and-4th_sem-COE-2022-23_Even__BSc-FAD
- **PDF Source:** https://www.kletech.ac.in/pdf/2nd-and-4th sem-COE-2022-23(Even)_BSc-FAD.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/2nd-and-4th sem-COE-2022-23(Even)_BSc-FAD.pdf
                                                                                                                                                                                                                                         1q2 
   ANAM 0201/1.0 
 CALENDAR OF EVENTS 
@@ -75,5 +75,4 @@ Last date for course (s) withdrawal : 2nd Sep
 No of working 
 days 16 15 16 14 15 14 90 
 Holidays 
-  Marks / Attendance display Minor exam Feedback 
-    
+  Marks / Attendance display Minor exam Feedback

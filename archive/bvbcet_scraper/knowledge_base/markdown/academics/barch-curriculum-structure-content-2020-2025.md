@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: barch-curriculum-structure-content-2020-2025"
+title: "Bachelor of Architecture Curriculum"
 category: "academics"
 subcategory: ""
 document_type: "syllabus"
@@ -11,15 +11,14 @@ language: "en"
 keywords: ["architecture", "barch", "content", "curriculum", "design", "document", "hours", "marks", "structure", "unit"]
 aliases: ["HOD", "Head of Department", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "126"
 ---
-# PDF Document: barch-curriculum-structure-content-2020-2025
- **PDF Source:** https://www.kletech.ac.in/pdf/barch-curriculum-structure-content-2020-2025.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/barch-curriculum-structure-content-2020-2025.pdf
  FMCD2009 / 2.0 1 
 Curriculum Structure and Curriculum Content for the Academic Batch 2020-25 
 School of Architecture 
 Program: Bachelor of Architecture 
- ## Page 2
  FMCD2009 / 2.0 2 
   School of Architecture 
   Table of Contents 
@@ -40,7 +39,6 @@ Semester- VIII .................................................................
 Semester- IX ............................................................................................................ ..17 
 Semester- X ............................................................................................................. ..18 
 Curriculum Content Course wise ………………………………………………………….19 
- ## Page 3
  FMCD2009 / 2.0 3 
   School of Architecture 
 Vision and Mission of KLE Technological University 
@@ -64,7 +62,6 @@ contributing our expertise, experience and leadership, to enhance
 competitiveness and quality of life. 
 As a unified community of faculty, staff and students, we work together with the 
 spirit of collaboration and partnership to accomplish our mission. 
- ## Page 4
  FMCD2009 / 2.0 4 
   Vision and Mission Statements of the School of Architecture 
   Vision 
@@ -111,7 +108,6 @@ Education
 Innovation 
 through 
 Education 
- ## Page 5
  FMCD2009 / 2.0 5 
   School of Architecture 
 Program Educational Objectives/Program Outcomes and Program-Specific Objectives 
@@ -157,7 +153,6 @@ relevant codes & regulations including the principles of life-safety & accessibi
 PO6.i) Ordering systems: Ability to apply the fundamentals of both natural and formal 
 ordering systems and the capacity of each to inform two & three-dimensional design. 
   Use of case studies: Ability to examine and comprehend the fundamental principles present 
- ## Page 6
  FMCD2009 / 2.0 6 
   in relevan t precedents and to make informed choices about the incorporation of such 
 principles into architecture design projects 
@@ -206,7 +201,6 @@ PO13 Integrated Evaluations: Integrated Evaluations and Decision-Making Design P
 Ability to demonstrate the skills associated with making integrated decisions across multiple 
 systems and variables in the completion of a design project. This demonstration includes 
 problem identification, setting evaluative criteria, analyzing solution. 
- ## Page 7
  FMCD2009 / 2.0 7 
 Curriculum Structure-Overall 
 Semester: 1 to 10 (2020-25 Batch) Total Program Credits : 220 
@@ -415,7 +409,6 @@ Studio's=02
 Theory=00
 Studio's=03 
 Credits 22 22 22 22 22 22 22 22 22 22 
- ## Page 8
  FMCD2009 / 2.0 8 
   Curriculum Structure-Semester wise 
   Semester -I ← 
@@ -446,7 +439,6 @@ Graphics - I Communication 0-4-0 4 6 50 50 100 NA
   ISA: Internal Semester Assessment ESA: End Semester Assessment, P: Practical, S: Studio, L: Lecture, 
 Credit Lecture Hours Studio Hours Practical Hours 
 1 1 1.5 2 
-  ## Page 9
  FMCD2009 / 2.0 9 
   Semester -II← 
   No 
@@ -468,7 +460,6 @@ Digital Tool-I Communication 0-0-1 1 2 50 50 100 NA
   ISA: Internal Semester Assessment, ESA: End Semester Assessment, P: Practical, S: Studio, L: Lecture, 
   Credit Lecture Hours Studio Hours Practical Hours 
 1 1 1.5 2 
-  ## Page 10
  Semester- III ← 
 FMCD2009 / 2.0 10 
    . 
@@ -492,7 +483,6 @@ TOTAL 9 12 1 22 400 400 800
   ISA: In-semester Assessment ESA: End Semester Assessment L: Lecture T: Tutorials P: Practical 
   Credit Lecture Hours Studio Hours Practical Hours 
 1 1 1.5 2 
- ## Page 11
  Semester- IV ← 
 FMCD2009 / 2.0 11 
   No 
@@ -528,7 +518,6 @@ TOTAL 11 11 22 30 400 400 800
   ISA: In-semester Assessment ESA: End Semester Assessment L: Lecture T: Tutorials P: Practical 
 Credit Lecture Hours Studio Hours Practical Hours 
 1 1 1.5 2 
- ## Page 12
  Semester- V ← 
 FMCD2009 / 2.0 12 
   No 
@@ -553,7 +542,6 @@ TOTAL 7 15 22 30 400 400 800
 ISA: In-semester Assessment ESA: End Semester Assessment L: Lecture T: Tutorials P: Practical 
   Credit Lecture Hours Studio Hours Practical Hours 
 1 1 1.5 2 
- ## Page 13
  Semester- VI ← 
 FMCD2009 / 2.0 13 
   No 
@@ -583,7 +571,6 @@ TOTAL 9 13 22 30 400 400 800
   ISA: In-semester Assessment ESA: End Semester Assessment L: Lecture T: Tutorials P: Practical 
 Credit Lecture Hours Studio Hours Practical Hours 
 1 1 1.5 2 
- ## Page 14
  Semester- VII ← 
 FMCD2009 / 2.0 14 
   No 
@@ -611,7 +598,6 @@ TOTAL 4 18 22 35 350 350 700 350
   ISA: In-semester Assessment ESA: End Semester Assessment L: Lecture T: Tutorials P: Practical 
 Credit Lecture Hours Studio Hours Practical Hours 
 1 1 1.5 2 
- ## Page 15
  FMCD2009 / 2.0 15 
 Semester- VIII 
 ← 
@@ -624,7 +610,6 @@ TOTAL 0 22 22 34 50 50 100
                                                                                                     ISA: In-semester Assessment ESA: End Semester Assessment L: Lecture T: Tutorials P: Practical 
 Credit Lecture Hours Studio Hours Practical Hours 
 1 1 1.5 2 
-   ## Page 16
  Semester- IX ← 
 FMCD2009 / 2.0 16 
 . 
@@ -660,7 +645,6 @@ TOTAL 6 16 22 30 250 250 500 250
   ISA: In-semester Assessment ESA: End Semester Assessment L: Lecture T: Tutorials P: Practical 
 Credit Lecture Hours Studio Hours Practical Hours 
 1 1 1.5 2 
-  ## Page 17
  FMCD2009 / 2.0 17 
 Semester- X ← 
 . 
@@ -685,7 +669,6 @@ TOTAL 0 22 22 30 150 150 300
                                                                                                   ISA: In-semester Assessment ESA: End Semester Assessment L: Lecture T: Tutorials P: Practical 
 Credit Lecture Hours Studio Hours Practical Hours 
 1 1 1.5 2 
-  ## Page 18
  FMCD2009 / 2.0 18 
   Curriculum Content- Course wise 
 ←BACK TO SEMESTER-I 
@@ -724,7 +707,6 @@ The design issues to be addressed are
 The design projects could be, my dream house, guest house, farm house, tree house, cottage, etc. 
 Reference Books: 
 Ching, Francis DK, Architecture: Form, Space and Order, 2nd ed.Van Nostrand Reinhold, New York, 1999 
-  ## Page 19
  FMCD2009 / 2.0 19 
   Scheme for Internal semester assessment (ISA) 
 The Portfolio covering the given topics and the study models shall be presented. 
@@ -735,7 +717,6 @@ Scheme for End Semester Assessment (ESA)
 Term work: Evaluation of Portfolio and assignments by internal and external examiners/Viva 
 Mode of assessment : Portfolio, Models 
 Text Books: NIL 
- ## Page 20
  FMCD2009 / 2.0 20 
   Program: Architecture 
 Course Title: BUILDING CONSTRUCTION & MATERIALS - I Course Code: 18AATC102 
@@ -787,7 +768,6 @@ Text Books - Nil
 Reference Books: 
 1. McKay J.K Building Construction Metric Vol 1-4, 4th edi Orient Longman Pvt. Ltd, Mumbai, 2002 
 2. "Construction Technology" Volume-I by R Chudley, ELBS & Longman group Ltd. 
- ## Page 21
  FMCD2009 / 2.0 21 
   3. Barry R, "The construction of buildings" , Vol-2, 5th Edi, East West Press, New Delhi 1999. 
 4. Bindra S.P and Arora S.P, Building Construction-Planning Techniques and Method of Construction, 19th edi, 
@@ -800,7 +780,6 @@ Dhanpat Rai Pub ,NewDelhi, 2000
 10. Chowdhary K.P. Engineering Materials used in India, 7th Edi, Oxford and IBH Pub ltd New Delhi, 1990. 
 11. Building Construction Hand book : By R Chudly & R Greeno, Bullerworth Heinemann, New -Delhi. 
   ←BACK TO SEMESTER-I 
-  ## Page 22
  FMCD2009 / 2.0 22 
   ←BACK TO SEMESTER-I 
 ←BACK TO SEMESTER-I 
@@ -837,7 +816,6 @@ Mode of assessment : Portfolio.
 Text Books: 
 Bhat N.D. and Panchal V.M, Engineering Drawing, Plane and solid geometry, Charotar Publishing house, Anand 2002. 
 Francis D.K. Ching, Architectural Graphics, 4th Edition, John Wiley & Son, New York 
- ## Page 23
  FMCD2009 / 2.0 23 
   ←BACK TO SEMESTER-I 
   Program : Architecture 
@@ -866,7 +844,6 @@ Mode of assessment: Portfolio / Models.
 References: Book: Robert Gill: Rendering with pen & ink, Thames & Hudson New York 1984. Robert Gill: Basic 
 Rendering, Thames & Hudson New York 1991. John Chen: Architecture in pen & ink, McGraw -Hill Inc- USA 1995. 
 Colin Saxton: Art School, Chart well Books Inc. New Jersey. 
- ## Page 24
  FMCD2009 / 2.0 24 
   Scheme for End Semester Assessment (ESA) 
   Sl.No 8 Questions to be set of 20 Marks Each Chapter Number Instructions 
@@ -916,7 +893,6 @@ Text Books : NIL
 References: 
 1. "History of Architecture in India "byTadgell Christopher. 
 2. Sir Banister Fletcher's "History of Architecture 
- ## Page 25
  FMCD2009 / 2.0 25 
   Program : Architecture 
 Course Title: Basic Design Course Code: 18AATC106 
@@ -944,7 +920,6 @@ Term work: Evaluation of Portfolio, assignments by internal and external examine
                      John Chen : Architecture in pen & ink, McGraw-Hill Inc- USA 1995 
                      Colin Saxton : Art School, Chartwell Books Inc New Jersy. 
   ←BACK TO SEMESTER-I 
-   ## Page 26
  FMCD2009 / 2.0 26 
   Program : Architecture 
 Course Title: Structures-I Course Code: 18AATC107 
@@ -985,7 +960,6 @@ Scheme for Internal semester assessment (ISA)
  Regular Assignments 
 Scheme for End Semester Assessment (ESA) - External examination-3 hrs. 
 Mode of assessment: Portfolio & Theory Exam. 
-  ## Page 27
  FMCD2009 / 2.0 27 
   Text Books: Egg Mechanics by S.S.Bhavikatti III-edition .Vikas publications New Delhi. 
   Reference Books 
@@ -999,10 +973,8 @@ I Q.No.-1, Q.No.-2, Q.No.-3 1, 2, 3, 4, 5 Solve Any 2 out of 3
 II Q.No.-4, Q.NO - 5 Q.No.-6, 6, 7, 8, 9 Solve Any 2 out of 3 
 III Q.No.-7, Q.No.-8 10, 11 Solve Any 1 out of 2 
  ←BACK TO SEMESTER-I 
-  ## Page 28
  FMCD2009 / 2.0 28 
   II SEMESTER 
-  ## Page 29
  FMCD2009 / 2.0 29 
   Program : Architecture 
 Course Title: ARCHITECTURAL DESIGN - II Course Code: 18AATC108 
@@ -1041,7 +1013,6 @@ Term work: Evaluation of Portfolio and assignments by internal and external exam
 Mode of assessment : Portfolio, Models, Reviws. 
 Text Books: NIL 
   RETURN TO SEM II 
- ## Page 30
  FMCD2009 / 2.0 30 
   Program: Architecture 
   Course Title: BUILDING CONSTRUCTION & MATERIALS - II Course Code: 18AATC109 
@@ -1077,7 +1048,6 @@ Term work: Evaluation of Portfolio, assignments by internal examiner
 Scheme for End Semester Assessment (ESA) - 
 Term work: Evaluation of Portfolio, assignments by internal and external examiners 
 Mode of assessment : Portfolio . 
-   ## Page 31
  FMCD2009 / 2.0 31 
   Text Books - Nil 
 Reference Books: 
@@ -1094,7 +1064,6 @@ edi, Dhanpat Rai Pub ,NewDelhi, 2000
 21. Chowdhary K.P. Engineering Materials used in India, 7th Edi, Oxford and IBH Pub ltd New Delhi, 1990. 
 22. Building Construction Hand book : By R Chudly & R Greeno, Bullerworth Heinemann, New-Delhi. 
   RETURN TO SEM II 
-  ## Page 32
  FMCD2009 / 2.0 32 
   RETURN TO SEM II 
   Program : Architecture 
@@ -1132,7 +1101,6 @@ Basic Perspective" by Robert Gill, Rendering with Pen & Ink by Robert Gill.
 Perspective for Interior Desingners by John Pile. 
 Applied perspective by John Holmes. 
 Building Drawing by M.G.Shah, C.M.Kale & S.Y.Patk 
- ## Page 33
  FMCD2009 / 2.0 33 
    RETURN TO SEM II 
   Program : Bachelor of Architecture 
@@ -1176,7 +1144,6 @@ Term work: Evaluation of Portfolio, assignments by internal and external examine
 Mode of assessment: Portfolio 
 Text Books : NIL 
 Reference Books : NIL 
- ## Page 34
  FMCD2009 / 2.0 34 
   RETURN TO SEM II 
   Program : Architecture 
@@ -1210,7 +1177,6 @@ Text Books : NIL
 References: 
 Sir Banister Fletcher - History of Architecture 
 F.D K Ching, Mark Jarzombek and Vikramaditya Prakash - A Global History of Architecture 
- ## Page 35
  FMCD2009 / 2.0 35 
   Program : Architecture 
 Course Title: Digital Tool -I (CAD) Course Code: 18AATP108 
@@ -1241,7 +1207,6 @@ ISBN-10: 0471786497, ISBN-13: 978-0471786498
 Publisher: Syrex (January 21, 2005) Language: English 
 ISBN-10: 0782143865 ISBN-13: 978-0782143867 
   RETURN TO SEM II 
-  ## Page 36
  FMCD2009 / 2.0 36 
   Program : Architecture 
 Course Title: Structures - II Course Code: 18AATC114 
@@ -1280,7 +1245,6 @@ I Q.No.-1, Q.No.-2, Q.No.-3 1, 2, 3, 4, 5 Solve Any 2 out of 3
 II Q.No.-4, Q.NO - 5 Q.No.-6, 6, 7, 8, 9 Solve Any 2 out of 3 
 III Q.No.-7, Q.No.-8 10, 11 Solve Any 1 out of 2 
   RETURN TO SEM II 
-  ## Page 37
  FMCD2009 / 2.0 37 
   Program : Architecture 
 Course Title: Surveying Course Code: 18AATC113 
@@ -1313,10 +1277,8 @@ B.C. Punmia, Surveying and Levelling, Vol-I Chirator Publications.
 Kanetkar T. P. and Kulkarni S.V, Surveying and Levelling Part- 
 Reference Books: Duggal, Surveying and Levelling. Vol-I 
   RETURN TO SEM II
- ## Page 38
  FMCD2009 / 2.0 38 
   III- SEMESTER 
-  ## Page 39
  FMCD2009 / 2.0 39 
   Program : Architecture 
 Course Title: ARCHITECTURAL DESIGN - III Course Code: 18AATC201 
@@ -1352,7 +1314,6 @@ Reference Books:
 6. Elements of space forming, Yatin Pandya. 
 7. Architectural Composition, Krier, Rob 
   RETURN TO SEM III 
-  ## Page 40
  FMCD2009 / 2.0 40 
   Program : Architecture 
 Course Title: BUILDING CONSTRUCTION&MATERIALS- III Course Code: 18AATC202 
@@ -1387,7 +1348,6 @@ External examination-3 hrs.
 Mode of assessment: 
 Portfolio Theory Exam. 
 Text Books: NIL 
-   ## Page 41
  FMCD2009 / 2.0 41 
   Reference Books: 
 23. McKay J.K Building Construction Metric Vol 1-4, 4th edi Orient Longman Pvt. Ltd, Mumbai, 2002 
@@ -1408,7 +1368,6 @@ I Q.No.-1, Q.No.-2, 1, 2 Solve Any 1 out of 2
 II Q.No.-3, Q.NO - 4, 3, 4 Solve Any 1 out of 2 
 III Q.No.-5, Q.No.-6 4, 5 Solve Any 1 out of 2 
   RETURN TO SEM III 
-  ## Page 42
  FMCD2009 / 2.0 42 
   Program : Architecture 
 Course Title: SERVICES - I (WATER SUPPLY & SANITATION) Course Code: 18AATC203 
@@ -1442,7 +1401,6 @@ Scheme for End Semester Assessment (ESA)
 External examination-3 hrs. 
 Mode of assessment: Portfolio& Theory Exam. 
 Text Books: NIL 
-   ## Page 43
  FMCD2009 / 2.0 43 
   Reference Books: 
 1. Husain, S. K. T. B. of water Supply and Sanitary Engineering, 3rd ed. Oxford and IBH Pub. Ltd. New Delhi, 
@@ -1465,7 +1423,6 @@ I Q.No.-1, Q.No.-2, 1, 2 Solve Any 1 out of 2
 II Q.No.-3, Q.NO - 4, 3, 4 Solve Any 1 out of 2 
 III Q.No.-5, Q.No.-6 4, 5 Solve Any 1 out of 2 
   RETURN TO SEM III 
-  ## Page 44
  FMCD2009 / 2.0 44 
   Program : Architecture 
 Course Title: CLIMATOLOGY Course Code: 18AATC204 
@@ -1505,7 +1462,6 @@ I Q.No.-1, Q.No.-2, 1, 2 Solve Any 1 out of 2
 II Q.No.-3, Q.NO - 4, 3, 4 Solve Any 1 out of 2 
 III Q.No.-5, Q.No.-6 4, 5 Solve Any 1 out of 2 
   RETURN TO SEM III 
-  ## Page 45
  FMCD2009 / 2.0 45 
   Program : Architecture 
 Course Title: HISTORY OF ARCHITECTURE - II Course Code: 18AATC205 
@@ -1554,14 +1510,12 @@ Reference Books:
 5. Vistara . The Architecture of India 
 6. Yatin Pandya: Concept of space making in Indian traditional Architecture 
   RETURN TO SEM3 
-  ## Page 46
  FMCD2009 / 2.0 46 
   Scheme for End Semester Assessment (ESA) 
   Sl.No 8 Questions to be set of 20 Marks Each Chapter Number Instructions 
 I Q.No.-1, Q.No.-2, Q.No.-3 1, 2, 3 Solve Any 2 out of 3 
 II Q.No.-4, Q.NO - 5 Q.No.-6, 4, 5, 6 Solve Any 2 out of 3 
 III Q.No.-7, Q.No.-8 7, 8 Solve Any 1 out of 2 
-  ## Page 47
  FMCD2009 / 2.0 47 
   Program : Architecture 
 Course Title: MEASURE DRAWING Course Code: 18AATC206 
@@ -1587,7 +1541,6 @@ Portfolio
 Text Books : NIL 
 Reference Books : NIL 
   RETURN TO SEM3 
-  ## Page 48
  FMCD2009 / 2.0 48 
   Program : Architecture 
 Course Title: STRUCTURES - III Course Code: 18AATC207 
@@ -1628,7 +1581,6 @@ I Q.No.-1, Q.No.-2, Q.No.-3 1, 2, Solve Any 2 out of 3
 II Q.No.-4, Q.NO - 5 Q.No.-6, 3, 4, 5, 6, 7 Solve Any 2 out of 3 
 III Q.No.-7, Q.No.-8 8, 9 Solve Any 1 out of 2 
 RETURN TO SEM3 
-  ## Page 49
  FMCD2009 / 2.0 49 
   Program : Architecture 
 Course Title: DIGITAL TOOL - II Course Code: 18AATP201 
@@ -1659,11 +1611,9 @@ Mode of assessment : Portfolio
 Text Books : NIL 
 Reference Books: Online Sketch Up Manual. 
   RETURN TO SEM3 
-  ## Page 50
  FMCD2009 / 2.0 50 
   IV SEMESTER 
   . 
-  ## Page 51
  FMCD2009 / 2.0 51 
   Program : Architecture 
 Course Title: Architectural Design - IV Course Code: 18AATC208 
@@ -1698,7 +1648,6 @@ Reference Books:
 2. Various books and magazines about architectural design 
 3. Architecture: Form, Space and Order, Ching, Francis DK 
   RETURN TO SEM4 
-  ## Page 52
  FMCD2009 / 2.0 52 
   Program : Architecture 
 Course Title: BUILDING CONSTRUCTION & 
@@ -1737,7 +1686,6 @@ Scheme for Semester End Assessment (ESA)
 External examination-3 hrs.' 
 Mode of assessment: 
 Portfolio& Theory exam. 
-  ## Page 53
  FMCD2009 / 2.0 53 
   Text Books: 
 1. McKay J.K Building Construction Metric Vol 1-4, 4th edi Orient Longman Pvt. Ltd, Mumbai, 2002 
@@ -1758,7 +1706,6 @@ I Q.No.-1, Q.No.-2, Q.No.-3 1, 2, 3 Solve Any 2 out of 3
 II Q.No.-4, Q.NO - 5 Q.No.-6, 4, 5, 6 Solve Any 2 out of 3 
 III Q.No.-7, Q.No.-8 7, 8 Solve Any 1 out of 2 
   RETURN TO SEM4 
-  ## Page 54
  FMCD2009 / 2.0 54 
   Program : Architecture 
 Course Title: SERVICES - II (ELECTRICITY & ILLUMINATION) Course Code: 18AATC210 
@@ -1795,7 +1742,6 @@ Scheme for End Semester Assessment (ESA)
 External examination-3 hrs. 
 Mode of assessment: 
 Portfolio& Theory exam. 
-   ## Page 55
  FMCD2009 / 2.0 55 
   Reference books: 
 1. H Cotton, Electrical Technology 
@@ -1812,7 +1758,6 @@ I Q.No.-1, Q.No.-2, Q.No.-3 1, 2, 3 Solve Any 2 out of 3
 II Q.No.-4, Q.NO - 5 Q.No.-6, 4, 5, 6 Solve Any 2 out of 3 
 III Q.No.-7, Q.No.-8 7, 8 Solve Any 1 out of 2 
   RETURN TO SEM4 
-  ## Page 56
  FMCD2009 / 2.0 56 
   Program: Architecture 
 Course Title: HISTORY OF ARCHITECTURE - III Course Code: 18AATC211 
@@ -1860,7 +1805,6 @@ I Q.No.-1, Q.No.-2, Q.No.-3 1, 2, 3 Solve Any 2 out of 3
 II Q.No.-4, Q.NO - 5 Q.No.-6, 4, 5, 6 Solve Any 2 out of 3 
 III Q.No.-7, Q.No.-8 7, 8 Solve Any 1 out of 2 
   RETURN TO SEM4 
-  ## Page 57
  FMCD2009 / 2.0 57 
   Program : Architecture 
 Course Title: THEORY OF ARCHITECTURE Course Code: 18AATC212 
@@ -1900,7 +1844,6 @@ Reference Books:
 19. Alexander Christopher: Synthesis of Form 
 20. Alexander Christopher: City is not a Tree 
       RETURN TO SEM4 
-  ## Page 58
  FMCD2009 / 2.0 58 
   Program : Architecture 
 Course Title: Quantity survey and specifications. Course Code: 18AATC213 
@@ -1932,7 +1875,6 @@ Sl.No 8 Questions to be set of 20 Marks Each Unit Number Instructions
 2 Question Numbers 3, 5 & 6 II Solve Any 2 out of 3 
 3 Question Numbers 7 & 8 III Solve Any 1 out of 2 
   RETURN TO SEM4 
-  ## Page 59
  FMCD2009 / 2.0 59 
   Program : Architecture 
 Course Title: STRUCTURES - IV Course Code: 18AATC214 
@@ -1974,7 +1916,6 @@ I Q.No.-1, Q.No.-2, Q.No.-3 1, 2 Solve Any 2 out of 3
 II Q.No.-4, Q.NO - 5 Q.No.-6, 3, 4, 5 Solve Any 2 out of 3 
 III Q.No.-7, Q.No.-8 6, 7, 8 Solve Any 1 out of 2 
   RETURN TO SEM4 
-  ## Page 60
  FMCD2009 / 2.0 60 
   Program : Architecture 
 Course Title: Elective - Space, Culture & Architecture Course Code: 18AATE201 
@@ -2002,7 +1943,6 @@ Reference Books:
 1) J Habraken Sociologic of space 
 2) Rappoport Amos: House Form and Culture 
   RETURN TO SEM4 
-  ## Page 61
  FMCD2009 / 2.0 61 
   Program : Architecture 
 Course Title: Elective - Human Centered Design - I Course Code: 18AATE202 
@@ -2035,7 +1975,6 @@ Reference Books:
 Objects/Communication/Environments/Identities/Systems/Contexts/Future 
 3. Klaus Krippendorff: The Semantic Turn ,Meaning of Artifact in :Use/Language/Life Cycle/Ec ology 
   RETURN TO SEM4 
-  ## Page 62
  FMCD2009 / 2.0 62 
   Program : Architecture 
 Course Title: Elective - Biomimicry in Architecture Course Code: 18AATE203 
@@ -2063,7 +2002,6 @@ Reference Books:
 1. Michael Pawlyn, "Biomimicry in Architecture",Riba Publishing, 2nd Edition, 2016 
 2. Janine M Benyus ,Biomimicry: Innovation Inspired by Nature, ISR Journal, 
   RETURN TO SEM4 
-  ## Page 63
  FMCD2009 / 2.0 63 
   Program : Architecture 
 Course Title: Elective - Digital Rendering Course Code: 18AATE204 
@@ -2086,10 +2024,8 @@ Term work: Evaluation of Portfolio, assignments by internal and external examine
 Mode of assessment: Soft copy and printed version. 
 References: 
   RETURN TO SEM4 
- ## Page 64
  FMCD2009 / 2.0 64 
   V SEMESTER 
-  ## Page 65
  FMCD2009 / 2.0 65 
   Program: Architecture 
 Course Title: Architectural Design - V Course Code: 18AATC301 
@@ -2127,7 +2063,6 @@ Secondary Design Development stage: Development of detail plans, elevations and 
 Models, Development of Three dimensional massing with corresponding fenestrations, etc. through visual 
 programming language (VPL) Grasshopper that is a plug-in running within Rhinoceros 3D modeling software. 
   RETURN TO SEM 5 
-   ## Page 66
  FMCD2009 / 2.0 66 
   Unit III 
 Finalization of design: Presentation (computer aided) and rendering 
@@ -2150,7 +2085,6 @@ Evaluation of Portfolio, assignments by internal and external examiners
 The students have to present the entire semester work for assessment along with Models. 
 A viva-voce (Approximate 15 minutes /student) shall be conducted by a jury comprising of an external examiner and 
 an internal examiner. The drawings, models and shall be presented by the student. 
-  ## Page 67
  FMCD2009 / 2.0 67 
   Program : Architecture 
 Course Title: BUILDING CONSTRUCTION&MATERIALS- V Course Code: 18AATC302 
@@ -2190,7 +2124,6 @@ Reference Books:
 21. Chowdhary K.P. Engineering Materials used in India, 7th Edi, Oxford and IBH Pub ltd New Delhi, 1990. 
 Building Construction Hand book : By R Chudly& R Greeno, Bullerworth Heinemann, New-Delhi 
   RETURN TO SEM 5 
-  ## Page 68
  FMCD2009 / 2.0 68 
   Program: Architecture 
 Course Title: SERVICES - III (HVAC) Course Code: 18AATC303 
@@ -2228,7 +2161,6 @@ Ltd, New Delhi.
 3). Blue star ltd: Blue star Guide to Comfort Air conditioning. India Published by Packaged Air conditioning division. 
 4). Roy J Dosat., Principles of Refrigeration. 
 5). Dagostino, F. R:(1982) "Mechanical and Electrical systems in Building" Varginia, Reston Publishing Co. 
-  ## Page 69
  FMCD2009 / 2.0 69 
   Scheme for Semester End Examination (ESA) 
 UNI
@@ -2240,7 +2172,6 @@ I Question Numbers 1, 2 & 3 I Solve Any 2 out of 3
 II Question Numbers 3, 5 & 6 II Solve Any 2 out of 3 
 III Assignment III Design application Solve 1 OUT OF 1 
   RETURN TO SEM 5 
-  ## Page 70
  FMCD2009 / 2.0 70 
   Program : Architecture 
 Course Title: Modern Architecture Course Code: 18AATC304 
@@ -2274,7 +2205,6 @@ Sl.No 8 Questions to be set of 20 Marks Each Unit Number Instructions
 2 Question Numbers 3, 5 & 6 II Solve Any 2 out of 3 
 3I Question Numbers 7 & 8 III Solve Any 1 out of 2 
   RETURN TO SEM 5 
-  ## Page 71
  FMCD2009 / 2.0 71 
   Program : Architecture 
 Course Title: Working Drawing Course Code: 18AATC305 
@@ -2300,7 +2230,6 @@ ISBN-10: 0471786497, ISBN-13: 978-0471786498
 Scheme for Semester End Examination (ESA) 
 Assignments, Checking of Portfolio of Term Work / Viva. 
   RETURN TO SEM 5 
-  ## Page 72
  FMCD2009 / 2.0 72 
   Program: Bachelor of Architecture. 
 Teaching 
@@ -2350,7 +2279,6 @@ to architectural design
 Studio exercises emphasizing relationship between built form and outdoor areas and site 
 planning issues for industrial, commercial, any public building. 
 12 hrs 
-  ## Page 73
  FMCD2009 / 2.0 73 
   Reference Books 
 1. Blane Alan, Landscape Construction and detailing , 1, B T Batsford Ltd, London , 
@@ -2362,7 +2290,6 @@ Jersey, 1986
   Scheme for End Semester Assessment (ESA) 
 Evaluation of Portfolio of Term Work / Viva 
                   RETURN TO SEM 5 
-  ## Page 74
  FMCD2009 / 2.0 74 
   Program : Architecture 
 Course Title: STRUCTURES - V Course Code: 18AATC307 
@@ -2394,7 +2321,6 @@ Reference Books:
 Pune 
 2. Pre stressed concrete by Krishnaraju 
   RETURN TO SEM 5 
-  ## Page 75
  FMCD2009 / 2.0 75 
   Program : Architecture 
 Course Title: Vernacular Architecture ( Elective) Course Code: 18AATE301 
@@ -2444,7 +2370,6 @@ Chettiar Heritage.
 Tillotsum, G. H. R. (1989). The tradition of Indian Architecture: Continuity, Controversy and Change since 1850. 
 Delhi: Oxford University Press. 
   RETURN TO SEM 5 
-  ## Page 76
  FMCD2009 / 2.0 76 
   Program : Architecture 
 Course Title: Bio-inspired Architecture Course Code: 18AATE302 
@@ -2466,10 +2391,8 @@ Mode of assessment:
 Evaluation of Portfolio, assignments by internal and external examiners 
 References : Architectural design books, periodicals & websites 
   RETURN TO SEM 5 
-  ## Page 77
  FMCD2009 / 2.0 77 
   VI SEMESTER 
-  ## Page 78
  FMCD2009 / 2.0 78 
   Program: Architecture 
 Course Title: Architectural Design VI ( Housing) Course Code: 18AATC308 
@@ -2517,7 +2440,6 @@ amenities.
 UNIT III: 
  Finalization of design: 
 Report and portfolio in computer aided Architectural Presentation and rendered drawings 
-   ## Page 79
  FMCD2009 / 2.0 79 
   Text Books 
 Reference Books: 
@@ -2542,7 +2464,6 @@ The students have to present the entire semester work for assessment along with 
 (Approximate 15 minutes /student) shall be conducted by a jury comprising of an external examiner and an internal 
 examiner. 
   RETURN TO SEM 6 
-  ## Page 80
  FMCD2009 / 2.0 80 
   Program : Architecture 
 Course Title: BUILDING CONSTRUCTION & MATERIALS - VI Course Code: 18AATC309 
@@ -2572,7 +2493,6 @@ Components / Spans. (Sheet - 2nos.)
 Note - The Portfolio covering the above topics shall be presented for Term work. Site visits shall be arranged 
 by studio teacher. Study of material application shall be submitted in the form notes, sketches and photo brief 
 as a part of portfolio 
-   ## Page 81
  FMCD2009 / 2.0 81 
   Text Books: 
 22. McKay J.K Building Construction Metric Vol 1-4, 4thedi Orient Longman Pvt. Ltd, Mumbai, 2002 
@@ -2590,7 +2510,6 @@ as a part of portfolio
   Scheme for internal Assessment ( ISA): Evaluation of term work regularly and tests conducted 
 Scheme for Semester End Examination (ESA): Evaluation of term work portfolio & Viva 
        RETURN TO SEM 6 
-  ## Page 82
  FMCD2009 / 2.0 82 
   Program: Architecture 
 Course Title: SERVICES - IV(Acoustic) Course Code: 18AATC310 
@@ -2630,7 +2549,6 @@ Case study of an auditorium acoustically treated with drawings---acoustical desi
 RT calculations. 
   Objective: To acquaint the student with the general guiding principles and procedures on which Acoustical 
 Designing is based and applications of such principles in Architectural cases. 
-  ## Page 83
  FMCD2009 / 2.0 83 
   Text Books 
 Reference Books: 
@@ -2655,7 +2573,6 @@ I Question Numbers 1, 2 & 3 I Solve Any 2 out of 3
 II Question Numbers 4, 5 & 6 II Solve Any 2 out of 3 
 III Assignment III Design application Solve 1 OUT OF 1 
   RETURN TO SEM 6 
-  ## Page 84
  FMCD2009 / 2.0 84 
   Program : Architecture 
 Course Title: Contemporary Architecture Course Code: 18AATC311 
@@ -2689,7 +2606,6 @@ Sl.No 8 Questions to be set of 20 Marks Each Unit Number Instructions
 2 Question Numbers 3, 5 & 6 II Solve Any 2 out of 3 
 3 Question Numbers 7 & 8 III Solve Any 1 out of 2 
   RETURN TO SEM 6 
-  ## Page 85
  FMCD2009 / 2.0 85 
   Program: VI Semester B. Arch 
 Course Title: Settlement Planning Course Code: 18AATC312 
@@ -2723,7 +2639,6 @@ town, densities of a town, Principles, Advantages and types of Zoning. Scope and
 Regional Plan, Development Plan, Local Area Plan, Special Purpose Plan, Annual Plan, Project, and Concept of 
 Participatory approach in planning process. Introduction to Urban Design, Basic Definitions and Termin ology, 
 elements, principles, Concept of public and private realm 
-  ## Page 86
  FMCD2009 / 2.0 86 
   Unit III 
 5. TOWN PLANNING TECHNIQUES 
@@ -2766,7 +2681,6 @@ I Q.No.-1, Q.No.-2, Q.No.-3 I Solve Any 2 out of 3
 II Q.No.-4, Q.NO - 5 Q.No.-6, II Solve Any 2 out of 3 
 III Q.No.-7, Q.No.-8 III Solve Any 1 out of 2 
   RETURN TO SEM 6 
-  ## Page 87
  FMCD2009 / 2.0 87 
   Program : Architecture 
 Course Title: Interior Design Course Code: 18AATC313 
@@ -2808,7 +2722,6 @@ The students have to present the entire semester work for assessment along with 
 Term work Evaluation of Portfolio, assignments by internal examiner 
   Scheme for End Semester Assessment (ESA) 
 Term work: Evaluation of Portfolio and assignments by internal and external examiners/Viva 
-  ## Page 88
  FMCD2009 / 2.0 88 
   RETURN TO SEM 6 
   Mode of assessment : Portfolio, Models, Assignment, Presentation, Reviews 
@@ -2831,7 +2744,6 @@ Standards. New York : Whitney Library ofDesign.
 Publishing. 
 Scheme for internal Assessment (ISA ) : Evaluation of term work regularly andReviews 
 Scheme for Semester End Examination ( ESA ) : Evaluation of term work portfolio &Viva 
- ## Page 89
  FMCD2009 / 2.0 89 
   Program : Architecture 
 Course Title: STRUCTURES - VI Course Code: 18AATC313 
@@ -2863,7 +2775,6 @@ Sl.No 8 Questions to be set of 20 Marks Each Unit Number Instructions
 I Q.No.-1, Q.No.-2, Q.No.-3 I Solve Any 2 out of 3 
 II Q.No.-4, Q.NO - 5 Q.No.-6, II Solve Any 2 out of 3 
 III Q.No.-7, Q.No.-8 III Solve Any 1 out of 2 
-  ## Page 90
  FMCD2009 / 2.0 90 
   Program : Architecture 
 Course Title: Analyzing Architecture Course Code: 18AATE308 
@@ -2885,11 +2796,9 @@ Evaluation of assignments in three stages
 Evaluation of Portfolio, assignments by internal and external examiners 
   References: Architectural design books, periodicals & websites 
   RETURN TO SEM 6 
-  ## Page 91
  FMCD2009 / 2.0 91 
   VII SEMESTER 
   VII 
- ## Page 92
  FMCD2009 / 2.0 92 
   Program: Architecture 
   Teaching 
@@ -2939,7 +2848,6 @@ operations after an analytical understanding of the site, surroundings, program 
 diversity of program and its resulting spatial variety and the relationship between the built and the 
 unbuilt established through movement systems, linkages and nodes etc. 
   40 hrs. 
-   ## Page 93
  FMCD2009 / 2.0 93 
   Unit II 
 Secondary Design Development stage: Informal structuring, Architecture is an integrative 
@@ -2993,7 +2901,6 @@ The students have to present the entire semester work for assessment along with 
 A viva-voce (Approximate 15 minutes /student) shall be conducted by a jury comprising of an external examiner and 
 an internal examiner. The drawings, models and shall be presented by the student. 
   RETURN TO SEM 7 
-  ## Page 94
  FMCD2009 / 2.0 94 
   Program: Architecture 
 Course Title: Building construction & Materials-VII Course Code: 18AATC402 
@@ -3036,7 +2943,6 @@ Term work: Evaluation of Portfolio, assignments by internal examiner
 Term work: Evaluation of Portfolio, assignments by the External examiner through VIVA VOICE 
   Mode of assessment: 
 Portfolio 
-  ## Page 95
  FMCD2009 / 2.0 95 
   RETURN TO SEM 7 
   Text Books 
@@ -3052,7 +2958,6 @@ DhanpatRai Pub, NewDelhi, 2000
 7. Sushil Kumar T.B of Building Construction 19thedi, Standard Pub House, NewDelhi, 2003. 
 8. ChowdharyK.P. Engineering Materials used in India, 7th Edi, Oxford and IBH Pub ltd New Delhi, 1990. 
 9. Building Construction Hand book : By R Chudly& R Greeno, Bullerworth Heinemann, New -Delhi. 
- ## Page 96
  FMCD2009 / 2.0 96 
   Program: Architecture 
 Course Title: Research Methodology Dissertation Course Code: 18AATC403 
@@ -3102,7 +3007,6 @@ Students are expected to present the progress of the study at various stages of 
 5. Visual research methods in Design; Henry Sanoff, Van Nostrnad Reinhold, New York 
             Architectural research; Snyder James C; Van Nostrnad Reinhold 
   RETURN TO SEM 7 
-  ## Page 97
  FMCD2009 / 2.0 97 
   Program: Architecture 
 Course Title: STRUCTURES - VII Course Code: 
@@ -3157,7 +3061,6 @@ structures publications Pune
 2. IS : 456- 2000 Code of practice for plane and reinforced concrete. 
 3. Structures Martin Bechthold, Daniel L Schodek. PHI Learning pvt. Ltd 
   RETURN TO SEM 7 
-  ## Page 98
  FMCD2009 / 2.0 98 
   Program: Architecture 
 Course Title: Professional Practice I Course Code: 
@@ -3206,7 +3109,6 @@ ISA 1 and ISA 2 - Theory Examination
   ISA 3 - Assignments 
 Mode of assessment: 
 Theory Examination 
-  ## Page 99
  FMCD2009 / 2.0 99 
         RETURN TO SEM 7 
   Text Books 
@@ -3217,7 +3119,6 @@ References
 12. Architectural Practice in India - Ar. Madhav Deobhakta 
 13. Professional Practice - Dr. K G Krishna Murthy and Prof S V Ravindra 
 14. The Business of Architectural Practice - Derek Sharp 
-  ## Page 100
  FMCD2009 / 2.0 10
 0 
   Program : Architecture 
@@ -3251,7 +3152,6 @@ Term work: Evaluation of Portfolio booklet and online portfolio website by exter
   Mode of assessment: Printed portfolio booklet and online portfolio website 
   References :www.adobe.com, www.wordpress.com, video tutorials and web resources 
   RETURN TO SEM 7 
-  ## Page 101
  FMCD2009 / 2.0 10
 1 
   Program: Architecture 
@@ -3299,11 +3199,9 @@ New Construction Methods, Pisa Cathedral, The Abbey Church, Cluny
 Gothic Architecture 
              Cathedrals, Gothic Churches with construction of pointed arch, Rose windows, etc. 
   RETURN TO SEM 7 
-  ## Page 102
  FMCD2009 / 2.0 10
 2 
   VIII Semester 
-  ## Page 103
  FMCD2009 / 2.0 10
 3 
   Program : Architecture 
@@ -3342,11 +3240,9 @@ To provide exposure to the various dimensions of architectural practice.
 Text Books: NIL 
 Reference Books: NIL 
   RETURN TO SEM 8 
-  ## Page 104
  FMCD2009 / 2.0 10
 4 
   IX SEMESTER
- ## Page 105
  FMCD2009 / 2.0 1 
              RETURN TO SEM 9 
    Program: Architecture Teaching Hrs 
@@ -3387,7 +3283,6 @@ Third Phase Individual Project Proposals
 Note: The above said task will be carry out in the holidays before the commencement of the 
 semester and will take approximately two-three weeks 
 80 hrs. 
- ## Page 106
  FMCD2009 / 2.0 2 
   Phase 1 
 Site Analysis 
@@ -3450,7 +3345,6 @@ period of time. In this sense your solutions must be concrete spatial proposals,
 be thought of as flexible temporal frameworks for urban change. 
 (13th week) +1 week for Final Presentation of individual interventions) 
 50 
-  ## Page 107
  FMCD2009 / 2.0 3 
   Scheme for Internal semester assessment (ISA): Weight age in % 
 Participation- Field studies, Pin -ups, critique, discussion, activity engagement, studio 
@@ -3505,7 +3399,6 @@ Publishers for Architecture
 2) Lawson B,(1980)How Designers Think, London Architectural Press 
 3) De Bono, E(1977) Lateral Thinking, Harmondsworth: Penguin 
 4) Jane Jacob, The Death and Life of Great American Cities (1961) New York, Random House. 
- ## Page 108
  FMCD2009 / 2.0 4 
   5) Rudi & Academy of Urbanism, Place Making 2009 
 6) Atkins, Hinkley Town Center Renaissance Master Plan 
@@ -3520,7 +3413,6 @@ Publishers for Architecture
 15) DETR and CABE (2000) By Design: Urban Design in the Planning System: Towards Better Practice 
 16) Urban Design Compendium 
             RETURN TO SEM 9 
-  ## Page 109
  FMCD2009 / 2.0 5 
   Program: Architecture Teachin
 g hrs. 
@@ -3566,7 +3458,6 @@ References
 3. Council of Architecture, Archive of Architecture Thesis 
 4. Architecture Journals 
                RETURN TO SEM 7 
- ## Page 110
  FMCD2009 / 2.0 6 
   Program: Architecture Teaching hrs. 
   Course Title: Professional Practice II Code: 18AATC503 
@@ -3614,7 +3505,6 @@ Chapter 9: Arbitration and Conciliation -
   Methods to settle disputes and differences, Arbitration - Types, Arbitrator, power and duties 
 of Arbitral Tribunal, Umpire, Awards and Conduct of arbitration proceedings. Conciliation - 
   06 
- ## Page 111
  FMCD2009 / 2.0 7 
   Duties of Conciliator. Arbitration and Conciliation Act 1996 
 Chapter 10: Dilapidation and Easements - 
@@ -3639,7 +3529,6 @@ ISA 1 and ISA 2 - Theory Examination
 9. Professional Practice - Dr. K G Krishna Murthy and Prof S V Ravindra 
 10. Constitutional Law of India - Dr. J N Pandey 
             RETURN TO SEM 9 
-  ## Page 112
  FMCD2009 / 2.0 8 
   Program: Architecture 
 Teaching 
@@ -3684,7 +3573,6 @@ process and maintenance methods.
 Text Books: 
  "Construction planning, equipment and methods by R L Purifoy. 
  Project management for architects" by S P Mukopadhyay 
- ## Page 113
  FMCD2009 / 2.0 9 
   Reference Books: 
  Guide, A., 2017. Project Management Body of Knowledge (PMBOK® GUIDE). Project 
@@ -3710,7 +3598,6 @@ I Question Numbers 1, 2 I, II Solve Any 2 out of 3
 II Question Numbers 3, 4, 5 III, IV and V Solve Any 2 out of 3 
 III Question Numbers 7 & 8 VI Solve Any 1 out of 2 
                      RETURN TO SEM 9 
-  ## Page 114
  FMCD2009 / 2.0 10 
                          RETURN TO SEM 9 
   Program: Architecture Teaching 
@@ -3737,7 +3624,6 @@ Text Books
 Reference Books: Online tutorials 
 Scheme for Semester End Examination (ESA) 
 Assignments, Checking of Portfolio of Term Work / Viva. 
-  ## Page 115
  FMCD2009 / 2.0 11 
   Program: Architecture Teachin
 g hrs. 
@@ -3775,7 +3661,6 @@ Portfolio submission
   Mode of assessment: 
 Assignment and market study of luminaires and portfolio submission. 
                 RETURN TO SEM 9 
-  ## Page 116
  FMCD2009 / 2.0 12 
             RETURN TO SEM 9 
   Program: Architecture Teachin
@@ -3807,7 +3692,6 @@ Mode of assessment:
 Portfolio Assessment by External 
 Text Books: NA. 
 References - Nil 
-  ## Page 117
  FMCD2009 / 2.0 13 
   Program : Architecture 
 Teaching 
@@ -3844,10 +3728,8 @@ Scheme for Internal semester assessment (ISA)
 8. Mode of assessment : Portfolio, Models 
 Text Books: NIL 
                 RETURN TO SEM 9 
-  ## Page 118
  FMCD2009 / 2.0 14 
   X SEMETER 
-  ## Page 119
  FMCD2009 / 2.0 15 
                                                                                                    Unit II 
 Stage 3 Preliminary Design Development 
@@ -3899,7 +3781,6 @@ Behavioral Analysis - Users their activities, the culture of the people. Interre
 analysis - Space programming, (Bubble diagrams), Organization of spaces, Zoning. 
 formulation of design brief. 
 110 
- ## Page 120
  FMCD2009 / 2.0 16 
        Scheme for End Semester Assessment (ESA): 
     Jury, Term work and Final report 
@@ -3940,7 +3821,6 @@ Nastrand Reinhold Company, London/New York 1977.
 for Energy Efficient Buildings, TATA McGraw Hill Publishing Company Limited, New 
 Delhi, 2007 
   RETURN TO SEM 10 
-  ## Page 121
  FMCD2009 / 2.0 17 
   Program: Architecture 
 Teaching 
@@ -3973,7 +3853,6 @@ Text Books
 2. NA. 
 References 
 11. Nil 
-  ## Page 122
  FMCD2009 / 2.0 18 
   Program : Architecture 
 Course Title: Architecture and Human Behavior Code:18AATE506 Teaching 
@@ -4020,7 +3899,6 @@ Unit II
 Unit III 
   Chapter No. 7. Final Evaluation and Assessment 
      6Hrs 
- ## Page 123
  FMCD2009 / 2.0 19 
   UNIT II 
 The Human - Nature interface through the medium of Basophilic Design. 
@@ -4070,7 +3948,6 @@ Press.
 4. Clovis, H. (1977). Behavioral Architecture. McGraw Hill. 
 5. Lynch, K. (1973). The image of a city. Cambridge: MIT. _ 
 6. Sarnoff, H. (1991). Visual Research Methods in Design. New York: John Wiley & Sons. _ 
-  ## Page 124
  FMCD2009 / 2.0 20 
   7. Zeisel, J. (1984). Enquiry by design: Tools for Environment-
 Behavior Research. Cambridge: Cambridge University Press. 
@@ -4086,7 +3963,6 @@ Bangalore
 3: Spaces of Social Influence by Anna P Gawlikowska 
 4: Psychology of Architecture by W.Bro Victor G Popow 5: Behavioral Architecture - SPA 
 Vijaywada 
-  ## Page 125
  FMCD2009 / 2.0 21 
   Program: Architecture 
 Course Title: Elective - Adobe Illustrator Course Code: 18AATE507 Teaching 
@@ -4112,6 +3988,5 @@ Reference Books: Online tutorials
 Scheme for Semester End Examination (ESA) 
 Assignments, Checking of Portfolio of Term Work / Viva. 
   RETURN TO SEM 10 
-  ## Page 126
  FMCD2009 / 2.0 22 
-  END OF DOCUMENT. 
+  END OF DOCUMENT.

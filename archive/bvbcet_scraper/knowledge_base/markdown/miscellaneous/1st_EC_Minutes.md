@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 1st_EC_Minutes"
+title: "EC Minutes"
 category: "miscellaneous"
 subcategory: ""
 document_type: "syllabus"
@@ -11,17 +11,16 @@ language: "en"
 keywords: ["chancellor", "course", "document", "engineering", "shall", "university"]
 aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "180"
 ---
-# PDF Document: 1st_EC_Minutes
- **PDF Source:** https://www.kletech.ac.in/pdf/1st_EC_Minutes.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/1st_EC_Minutes.pdf
  Minutes 
   1st Executive Council Meeting 
 of 
 KLE Technological University, 
 Hubballi, Karnataka 
 July 23rd , 2015 
-  ## Page 2
  ii 
   Sl No Particulars 
 1 To discuss and approve Statues of KLE Technologic al University, Hubballi, framed 
@@ -39,7 +38,6 @@ i. To consider and approve academic council recommended broad curriculum
 framework for various academic programs of the University 
 ii. To consider and approve academic council recommended schemes of study 
 and syllabi of first year for all the programs starting from 2015-16. 
-  ## Page 3
  iii 
    The following are the minutes of the Executive Meeting of KLE Technological University, 
 Hubballi which was held on 23 rd July 2015 at 2 pm at the Senate Hall of the University. 
@@ -71,7 +69,6 @@ Member
 6 Dr. B.B.Kotturshettar Dean Planning and 
 Development 
 Member 
-  ## Page 4
  1 
   Agenda 1.1 
   To discuss and approve Statues of KLE Technological 
@@ -106,7 +103,6 @@ installation of Medals and Prizes of KLE
 Technological University' framed and approved by 
 the Academic Council as per the provisions of 'KLE 
 Technological University Act - 2012'. 
- ## Page 5
  2 
   Agenda 1.3 
   To consider the recommendation of Academic Council and 
@@ -137,7 +133,6 @@ POST GRADUATE PROGRAMS
 7 MTech in Machine Design 18 
 8 Master of Computer Applications (MCA) 60 
 9 Master of Business Administration (MBA ) 60 
-  ## Page 6
  3 
   Resolution: Resolved t o approve the Academic Council 
 recommended Undergraduate and Post-Graduate 
@@ -163,12 +158,10 @@ programs of the University
 2) Resolved to consider and approve academic council 
 recommended schemes of study and syllabi of first year for all the 
 programs starting from 2015-16. 
- ## Page 7
  4 
   ANNEXURE - 1 
   [The first draft of Statutes of KLE Technological University framed as per 
 the provisions of 'KLE Technological University Act - 2012'] 
- ## Page 8
  5 
   The First Statutes of KLE Technological University 
   KLE TECHNOLOGICAL University 
@@ -176,7 +169,6 @@ the provisions of 'KLE Technological University Act - 2012']
 Vidyanagar 
 Hubballi - 580031 
 www.kletech.ac.in 
- ## Page 9
  6 
   Contents 
   Section Description Page 
@@ -208,7 +200,6 @@ CHAPTER - I, PRELIMINARY 1
   CHAPTER - IV , OPERATION OF FUNDS AND THEIR MAINTENANCE 
   14 
 21 Operation of Funds 
- ## Page 10
  7 
   22 Appointment of Auditors 14 
   CHAPTER - V , ADMISSIONS, FEES AND OTHER STUDENT MATTERS 
@@ -243,7 +234,6 @@ proceedings
 38 Teaching-Learning methodology 21 
 39 Creation of entities 22 
 40 Resource mobilization and corpus fund(s) 22 
- ## Page 11
  8 
   41 Life-long learning and continuing education 22 
 42 Knowledge resources and management 22 
@@ -253,7 +243,6 @@ proceedings
 46 Decision of the Board in interpretation of the S tatutes 23 
 47 Protection of action taken in good faith 23 
 48 Power to amend the Statutes 23 
-  ## Page 12
  9 
   UNIVERSITY NOTIFICATION 
   No. KLETECH/STATUTES/2015/1 Date: July 23, 2015 
@@ -295,7 +284,6 @@ University;
     v "Board" means the Board of Governors of the 
 University; 
     vi "Campus" means a campus(es) establi shed and 
- ## Page 13
  10 
   maintained by the University; 
     vii "Chancellor", "Pro Chancellor", "Vice -
@@ -338,7 +326,6 @@ University;
     xviii "Society" means the Karnatak Lingayat Education 
 Society Belagavi (KLES); 
   xix "Sponsoring Body" means the Karnatak Lingayat 
- ## Page 14
  11 
   Education Society Belagavi (KLES ); 
     xx "State", means the State of Karnataka; 
@@ -381,7 +368,6 @@ observed.
     5. 3 In the event of any conflict(s) between authorities 
 of the University, the Chancellor's decision shall 
 be final and binding on the University. 
-  ## Page 15
  12 
   The Pro Chancellor 
   6 6.1 In exercise of the powers conferred by Section -
@@ -428,7 +414,6 @@ Board. Such Committee(s) or Panel(s) shall be
 automatically dissolved on completion of their 
 tenure or by an express order of dissolution by the 
 Vice-Chancellor. 
- ## Page 16
  13 
     7. 6 If the office of the Vice -Chancellor becomes 
 vacant for any reason- (i) if the vacancy is 
@@ -478,7 +463,6 @@ Officer of the University whose terms and
 conditions of appointment shall be those contained 
 in the contract of appointment, as approved by the 
 Board. 
-  ## Page 17
  14 
     9. 4 The term of appointment of the Registrar shall be 
 THREE years which may be renewable for further 
@@ -526,7 +510,6 @@ with the approval of the Board.
 THREE years which may be renewable for further 
 terms
 . 
-  ## Page 18
  15 
     11. 4 The Dean(s) shall assist the Vice -Chancellor in all 
 matters pertaining to the University activities and 
@@ -559,7 +542,6 @@ vacant for any reason, the duties of the office sha ll
 be performed either by the Registrar or a person 
 nominated by the Vice-Chancellor with the 
 approval of the Chancellor. 
-  ## Page 19
  16 
   CHAPTER - III 
 AUTHORITIES OF THE UNIVERSITY 
@@ -605,7 +587,6 @@ THREE members attending and voting at such
 meetings. 
     14. 8 If a member of the Board fails to attend three 
 consecutive meetings without leave of absence 
- ## Page 20
  17 
   from the Board, he/she shall cease to be a member 
 of the Board. 
@@ -651,7 +632,6 @@ assigned by the Board.
 necessary and at least TWO times a year. 
     15. 8 The quorum for all meetings of the Executive 
 Council shall be at least FOUR members. 
-  ## Page 21
  18 
   The Academic 
 Council 
@@ -698,7 +678,6 @@ Council shall be FIVE members.
     16. 8 The powers and functions of the Academic 
 Council shall be: 
   i To coordinate and supervise the academic policies 
- ## Page 22
  19 
   of the University as prescribed under Section -26 
 (2) of the Act; 
@@ -750,7 +729,6 @@ following additional members:
   ii TWO external expe rts from institutes of higher 
 learning, research organizations, and industries 
 nominated by the Vice-Chancellor- Members 
- ## Page 23
  20 
     17. 3 Not withstanding anything contained in any other 
 provisions of the Act and these Statutes, the FIRST 
@@ -795,7 +773,6 @@ Financial Body of the University as prescribed
 under Section-28 of the Act. 
     18. 2 The co mposition of the Finance Council shall be 
 as prescribed under Section-28 (1) of the Act. 
- ## Page 24
  21 
     18. 3 Not withstanding anything contained in any other 
 provisions of the Act and these Statutes, the first 
@@ -842,7 +819,6 @@ the powers to constitute Committee(s), as deemed
 fit, with the approval of the Chancellor. Such 
 committees shall exercise their powers and 
 functions within the delegated authority and terms 
- ## Page 25
  22 
   of reference, and automatically get dissolved on 
 completion of their tenures or by a specific order 
@@ -886,7 +862,6 @@ Finance Council.
   CHAPTER - V 
 ADMISSIONS, FEES AND OTHER STUDENT MATTERS 
   Number of seats in 23 The number of seats in different programmes shall 
- ## Page 26
  23 
   different 
 programmes 
@@ -951,7 +926,6 @@ Residence
  Regulations and/or Guidelines shall be formulated 
 for the conditions of residence of the students of 
 the University. 
- ## Page 27
  24 
   CHAPTER - VI 
 CONFERMENT OF DEGREES 
@@ -991,7 +965,6 @@ University for good and sufficient cause. The
 Board shall consider the recommendation of 
 Academic Council before arriving at the final 
 decision. 
-  ## Page 28
  25 
   CHAPTER - VII 
 APPOINTMENT AND SERVICE CONDITIONS 
@@ -1035,7 +1008,6 @@ Chairperson;
   v ONE external expert nominated by the Board - 
 Member; 
   vi Dean Academic Affairs - Member; 
- ## Page 29
  26 
     vii Dean Research & Development - Member; and 
   viii Departmental Chairperson - Member 
@@ -1075,7 +1047,6 @@ terms and conditions of appointment shall be
 advertised by the Registrar and all applications 
 received within the date specified shall be 
 considered by the selection committee. However, 
- ## Page 30
  27 
   the selection committee for sufficient reasons may 
 also consider applications received after the date. 
@@ -1119,7 +1090,6 @@ for different purposes from time to time.
 employees and their positions held by them shall 
 be as per Regulations to be framed by the 
 University. 
- ## Page 31
  28 
     32. 19 The Board shall frame the terms and conditions for 
 faculty consulting and entrepreneurship initiatives 
@@ -1178,7 +1148,6 @@ behalf.
     34. 2 The Registrar may sue or be sued on behalf of the 
 University. The Registrar or his nominee in 
 writing shall represent the University in legal 
- ## Page 32
  29 
   proceedings, sign pleadings and other documents 
 and accept processes on behalf of the University in 
@@ -1234,7 +1203,6 @@ mode of teaching-learning adopted to impart
 education to the students including direct contact, 
 online, hybrid / blended or any other mode 
 deemed fit. 
-  ## Page 33
  30 
   Creation of entities 39 The Board may lay down suitable Regulations 
 and/or Guidelines for establishing entities 
@@ -1300,7 +1268,6 @@ higher education and other development sectors, in
 collaboration with other institutions of repute, 
 research organizations, and/or industry, with prior 
 approval of the Board. 
-  ## Page 34
  31 
   Secrecy and 
 Confidentiality 
@@ -1334,13 +1301,11 @@ the Statutes
  The Board may make new or additional Statutes or 
 amend or repeal the Statutes as prescribed under 
 Section-35 of the Act. 
-  ## Page 35
  32 
   ANNEXURE - 2a 
   [Academic regulations of KLE Technological University' framed and 
 approved by the Academic Council as per the provisions of 'KLE 
 Technological University Act - 2012 ] 
- ## Page 36
  33 
   Academic Regulations Governing 
 Undergraduate and Postgraduate 
@@ -1348,7 +1313,6 @@ Programmes of
 KLE Technological University - 2015 
   KLE Technological University 
 (Established under Karnataka Act No.22, 2013) 
-  ## Page 37
  34 
   CONTENT S 
 Section Description Page 
@@ -1399,7 +1363,6 @@ CHAPTER VII, EXAMI NATION SYSTEM 26
 38 Deputy Controller of Examinations 28 
 39 Chief Superintendent 28 
 40 Additional Chief Superintendent(s) 29 
- ## Page 38
  35 
   41 Deputy Chief Superintendent(s) 29 
 42 Invigilators 29 
@@ -1451,7 +1414,6 @@ CHAPTER XII, ANNOUNCEMENT OF RESULTS 44
 81 Eligibility for Award of Degree 46 
 82 Award of Degree 46 
 83 Bar to claim damages for delay 46 
- ## Page 39
  36 
   CHAPTER XIII, FELLOWSHIP / SCHOLARSHIP / FINANCIAL ASSISTANCE 47 
 84 Merit Scholarship 
@@ -1462,7 +1424,6 @@ CHAPTER XIV, MAINTENANCE OF ACADEMIC RECORDS 47
 86 Maintenance of Academic Records 48 
 87 Maintenance of Answer Books 48 
 88 Weeding off of Academic Records 48 
-  ## Page 40
  37 
   ACADEMIC REGULATIONS GOVERNING UNDERGRADUATE AND POSTGRADUATE PROGRAMMES 
 OF KLE TECHNOLOGICAL UNIVERSITY - 2015 No. KLETU/Acad/Reg/ 2015 / 01 Date: 22 / 07 / 2015 
@@ -1496,7 +1457,6 @@ University, shall continue to be governed by the
 erstwhile regulations of the BVB College of 
 Engineering and Technology and the affiliating 
 university. 
-  ## Page 41
  38 
   Definitions 2 In these Statutes, unless the context otherwise 
 requires: 
@@ -1525,7 +1485,6 @@ Assessment of the University
     Vii "Committees" means the committees formed by 
 the various authorities and officers of the 
 University 
-  ## Page 42
  39 
     viii "Convocation" means the convocation of the 
 University, where Degrees, Honorary Degrees, 
@@ -1554,7 +1513,6 @@ Regulations, and Notifications
 higher education programme pursued for a 
 degree awarded by the University as specified 
 under Section-22(3) of the UGC Act 
- ## Page 43
  40 
     xvii "Department or School" means an entity that 
 offers programme(s) instituted by the University 
@@ -1587,7 +1545,6 @@ Chairperson/ Center Chairperson for each
 Department/School/Center. 
     3. 2 The terms and conditions of appointment shall be 
 those contained in the contract of appointment. 
- ## Page 44
  41 
     3. 3 The Departmental/ School/ Center Chairperson shall 
 oversee the day-to-day affairs of the Department/ 
@@ -1612,7 +1569,6 @@ the:
     i notification of intake following reservation policy as 
 applicable 
     ii conduction/coordination of the entrance test(s) 
- ## Page 45
  42 
     iii preparation of merit list(s) 
     iv arrangement of counseling for candidates 
@@ -1642,7 +1598,6 @@ Committee(s)
   6 The Dean Academic Affairs may constitute the requis ite 
 number of Departmental Board of Studies with the ap proval 
 of the Academic Council. 
-  ## Page 46
  43 
     6. 1 A Departmental Board of Studies shall comprise of t he 
 following members: 
@@ -1672,7 +1627,6 @@ approval and publication; and
     iii Revise the curricula and syllabi from time to time and 
 submit to the Academic Council for approval and 
 publication. 
-  ## Page 47
  44 
     6. 3 The Dean Academic Affairs may, in cases of urgency, 
 obtain the opinion of a Departmental Board of Studi es by 
@@ -1705,7 +1659,6 @@ Secretary; and
     i Make arrangements for setting of the question paper s for 
 various courses for which examinations are being 
 conducted at the University; 
- ## Page 48
  45 
     ii Make arrangements to scrutinize the question papers for 
 quality, standard, appropriateness, syllabus covera ge and 
@@ -1743,7 +1696,6 @@ Scrutiny Panel
   9 The Vice-Chancellor shall constitute a Results Scru tiny 
 Panel for the finalization and approval of the resu lts of 
 examinations before announcement. 
-  ## Page 49
  46 
     9. 1 The Results Scrutiny Panel shall consist of the fol lowing 
 members: 
@@ -1765,7 +1717,6 @@ complaints, if deemed necessary; and
     v Meet before the announcement of results. 
     9. 3 The Vice-Chancellor shall reconstitute the Results Scrutiny 
 Panel once every THREE years under normal 
- ## Page 50
  47 
   circumstances and under extenuating circumstances, if 
 deemed fit, he/she may reconstitute the Results Scr utiny 
@@ -1795,7 +1746,6 @@ necessary.
 during examinations reported by the Controller of 
 Examinations and recommend suitable action and 
 penalties, if any; 
- ## Page 51
  48 
     ii Meet after the conduct of every examination if ther e are 
 cases of reported malpractice or indiscipline. 
@@ -1830,7 +1780,6 @@ Government norms ; and
 examination on or before the date of admission whic h shall 
 be duly supported by provisional certificate issued by 
 competent authorities. 
-  ## Page 52
  49 
   Admission 
 Process 
@@ -1869,7 +1818,6 @@ have indulged in acts of indiscipline or unlawful
 demonstrations and the like. Candidates who have be en 
 expelled/ rusticated/ debarred from other instituti ons shall 
 not be admitted. 
-  ## Page 53
  50 
     13. 2 The Vice-Chancellor reserves the right to refuse ad mission 
 to a candidate whose admission, in his/her judgment , is not 
@@ -1919,7 +1867,6 @@ study; and (iii) no "F" or "W" grades in any of the courses.
 In case of two students having the same CGPA, the 
 normalized aggregate percentage marks in the qualif ying 
 examination shall be considered to decide the merit. 
-  ## Page 54
  51 
   Transfer/ 
 Migration of 
@@ -1964,7 +1911,6 @@ from the
 17 17.1 A student may be permitted by the Registrar to with draw 
 from a programme for a period not exceeding ONE yea r for 
 reasons of ill health or other valid reasons, after providing 
- ## Page 55
  52 
   programme 
   sufficient documentary evidence. Such a student see king 
@@ -2004,7 +1950,6 @@ prescribed format.
     18. 2 The student discontinuing from a programme shall pa y the 
 balance fees for his/her remainder minimum duration of the 
 programme. 
-  ## Page 56
  53 
     18. 3 Any scholarship or financial assistance awarded to a 
 student permanently withdrawing from the University shall 
@@ -2044,7 +1989,6 @@ programme
 20 20.1 Each academic year shall consist of two regular sem esters, 
 odd (Fall) semester and even (Spring) semester, and a 
 fast-track (Summer) term. 
- ## Page 57
  54 
     20. 2 Activities in a semester shall include teaching, le arning, 
 examination and evaluation. 
@@ -2078,7 +2022,6 @@ programme of study based on the following pattern:
 • ONE credit for ONE lecture (L) hour; 
 • ONE credit for TWO tutorial (T) hours; 
 • ONE credit for TWO laboratory/seminar (P) hours; 
-  ## Page 58
  55 
     21. 2 Each course shall be represented in the form of 'L- T-P' 
 where L, T, and P mean respectively, the number of lecture 
@@ -2117,7 +2060,6 @@ economics, environment, psychology, philosophy, his tory,
 law, political science, professional ethics, and so on. 
 Humanities & Social Science courses shall be in the range 
 of 3-6% of the total minimum credits for a programme. 
-   ## Page 59
  56 
     22. 1.2 Basic Science Courses (BS) : Basic Science courses 
 Mathematics, Physics, Chemistry and Biology and the y are 
@@ -2159,7 +2101,6 @@ India, may not be assigned credits. Such courses sh all be
 referred to as non-credit (NC) courses, and may be 
 mandatory in a programme of study. 
     22. 2 Certain programmes of study may have additional 
- ## Page 60
  57 
   requirements such as apprenticeship and residency. 
   Audit courses 
@@ -2200,7 +2141,6 @@ of broad-based and in-depth knowledge but also apti tude
 for life-long learning. 
     25. 1 Medium of instruction shall be English, except in those 
 Faculties where other languages are permitted by th e 
- ## Page 61
  58 
    Academic Council. 
     25. 2 The detailed curriculum and syllabus for each progr amme 
@@ -2238,7 +2178,6 @@ level of course as:
   i Levels 1-6 indicate the minimum number of years of 
 education in a programme beyond 10+2 as specified in 
 the eligibility criteria for admission; 
- ## Page 62
  59 
     ii Levels 7-9 shall be reserved for research courses, Master's 
 and Ph.D. research work, and the like. 
@@ -2281,7 +2220,6 @@ semester according to a schedule specified by the D ean
 Academic Affairs, except for the courses in the fir st 
 semester. Registration for the first semester of a 
 programme shall be a part of admission process. 
- ## Page 63
  60 
     29. 2 Registration process, either online or offline, sha ll consist of 
 the following steps: 
@@ -2312,7 +2250,6 @@ on-line. Queries related to registration shall be c onsidered
 only when accompanied by the original registration record. 
 This record shall be preserved until the semester g rade 
 card is received by the student. 
- ## Page 64
  61 
   Registration 
 validation 
@@ -2358,7 +2295,6 @@ courses. Such a student shall pay the prescribed fe es for
 the minimum duration of the programme, notwithstand ing 
 the number of credits to be earned during the final year / 
 semester. 
-  ## Page 65
  62 
     34. 3 A student who registers for a course in the Summer Term 
 on account of failure, withdrawal or any other form of 
@@ -2398,7 +2334,6 @@ Examinations
 37 The Controller of Examinations shall be responsible for the 
 conduct of examinations of all the courses of all t he 
 programmes of the University, and all other matters 
- ## Page 66
  63 
    incidental thereto and ancillary therewith, under t he 
 supervision and monitoring by the Vice-Chancellor. The 
@@ -2426,7 +2361,6 @@ for the conduct of examinations, if necessary;
     ix Arrange for the issue of grade cards, transcripts, 
 provisional degree certificates, degree certificate s, 
 migration certificates and so on to the students; 
-  ## Page 67
  64 
     x Maintain utmost secrecy while preparing and maintai ning 
 the confidential materials, bills, and proceedings; 
@@ -2459,7 +2393,6 @@ Chancellor.
     39. 1 One Chief Superintendent shall be appointed for eac h 
 examination centre. 
     39. 2 The Chief Superintendent shall: 
-  ## Page 68
  65 
     i Arrange for the required materials (e.g. answer boo ks, 
 drawing cards, data handbooks and other stationery) for 
@@ -2497,7 +2430,6 @@ the Chief Superintendent in the conduct of examinat ions.
   42 The Chief Superintendent shall appoint the required 
 number of Invigilators for all blocks where examina tions are 
 held, as required. 
-  ## Page 69
  66 
   Group 
 Invigilators 
@@ -2545,7 +2477,6 @@ ISA, ESA and all other matters incidental thereto a nd
 ancillary therewith, with or without remuneration s hall be 
 deemed to be a part of normal duty of every employe e of 
 the University. 
-  ## Page 70
  67 
   Assessment 
   47 The University shall follow a combination of In-Sem ester 
@@ -2591,7 +2522,6 @@ IN-SEMESTER ASSESSMENT
 ISA 50 The ISA for courses may be carried out by the way o f 
 various components such as Mid Term Examinations, 
 quizzes, tests, seminars, term papers, demonstratio ns, and 
- ## Page 71
  68 
    award of marks for attendance. Practical components of 
 courses may be evaluated by the way of experiments, 
@@ -2635,7 +2565,6 @@ REU, Seminar, Internship-Projects, Major Project may be
 carried out in the form of various components, such as oral 
 presentations, demonstrations, technical / project report, 
 and viva-voce. The concerned Head of the Department / 
- ## Page 72
  69 
   Internship -
 Projects, Major 
@@ -2677,7 +2606,6 @@ those cases where it is not specially mentioned in the
 scheme of evaluation) 
     iii Students not fulfilling attendance requirement or I SA 
 requirement shall be assigned an 'F" grade 
- ## Page 73
  70 
   Student list for 
 ESA 
@@ -2719,7 +2647,6 @@ anonymous evaluation by the Office of the Controlle r of
 Examinations. 
     59. 4 Central valuation shall be conducted in the Univers ity 
 premises only. 
- ## Page 74
  71 
   ESA for Mini 
 and Major 
@@ -2765,7 +2692,6 @@ Grade points Marks Remarks
 1 S 10 91-100 Outstanding 
 2 A 9 81-90 Excellent 
 3 B 8 71-80 Very Good 
- ## Page 75
  72 
   4 C 7 61-70 Good 
 5 D 6 51-60 Fair 
@@ -2799,7 +2725,6 @@ re-register for the course again but are required t o pass the
 course to qualify for the degree. 
     64. 3 'W' grade : "W" grade shall be awarded to a student who 
 has withdrawn from a course. Further, the "W" grade shall 
- ## Page 76
  73 
   be recorded in the grade card. A student may withdr aw 
 from an audit course in which case there shall be n o 
@@ -2841,7 +2766,6 @@ supplementary semester.
 either fails in the course or is absent for the ESA of that 
 course. 
   64. 6.1 A student who obtains "F" grade in a non-elective c ourse 
- ## Page 77
  74 
   shall re-register for the same course when offered next. 
     64. 6.2 A student who obtains "F" grade in an elective cour se shall 
@@ -2889,7 +2813,6 @@ SGPA and
 CGPA 
 67 The overall performance of a student shall be indic ated by 
 two indices namely, Semester Grade Point Average 
- ## Page 78
  75 
    (SGPA) and Cumulative Grade Point Average (CGPA). 
     67. 1 The SGPA is the weighted average of the grade point s 
@@ -2926,7 +2849,6 @@ criteria. The class obtained by the student shall b e inferred
 as per the table given below: 
   CGPA Equivalent Class/Division 
 5. 00-5.74 - Pass 
- ## Page 79
  76 
   5. 75-6.74 > 50% and <60% Second 
 6. 75-7.74 > 60% and <70% First 
@@ -2966,7 +2888,6 @@ graduating class. However, the total number of rank s shall
 not exceed FIVE irrespective of the total number of 
 graduating students in a programme of study. A stud ent 
 shall be eligible for a rank at the time of award o f degree in 
- ## Page 80
  77 
   the programme of Study, provided he/she has: 
     i Passed in all the courses of all semesters in FIRST 
@@ -2999,7 +2920,6 @@ study if he/she:
 minimum duration of the programme in years. If the 
 performance of a student at the end of a registered 
 semester is below 4.0, he/she shall be issued a war ning by 
- ## Page 81
  78 
   the Controller of Examinations in the first two ins tances and 
 a show cause notice in the third instance, each of which 
@@ -3037,7 +2957,6 @@ from the date of announcement of the results.
 called in batches to the office of Controller of Ex aminations, 
 on the dates fixed for re-totaling of marks. Such s tudents 
 shall be accompanied by Faculty Advisor / Class Tea cher / 
- ## Page 82
  79 
   Parent / Guardian. 
     71. 2 A student, who has applied for re-totaling, shall b e shown 
@@ -3084,7 +3003,6 @@ permitted only once during the entire programme of study.
 A student, who has rejected the whole semester resu lts, 
 shall re-register for the courses of rejected semes ter upon 
 payment of the prescribed fees. 
- ## Page 83
  80 
   Production of 
 answer books 
@@ -3122,7 +3040,6 @@ Examinations.
     78. 2 On request and payment of prescribed fee, the acade mic 
 transcript, in the prescribed format, shall be issu ed to a 
 student by the Controller of Examinations. 
- ## Page 84
  81 
     78. 3 A student, on payment of prescribed fee, if any, ma y 
 request the Controller of Examinations in prescribe d format 
@@ -3158,7 +3075,6 @@ report to the Registrar for notification of result. The
 Controller of Examinations shall subsequently issue the 
 Provisional Degree Certificate and transcript recor d to the 
 student. 
-  ## Page 85
  82 
   Other 
 Certificates 
@@ -3201,7 +3117,6 @@ whatsoever from the University on the account of la te
 declaration of result, delay in the issue of grade cards or 
 any other certificates, delay in challenge valuatio n, re-
 totaling or any other process associated with the 
- ## Page 86
  83 
   examinations or evaluation, or other like cases. 
   CHAPTER XIII 
@@ -3237,7 +3152,6 @@ formulate the terms and conditions with the concern ed
 parties, with the approval of the Executive Council. 
   CHAPTER XIV 
 MAINTENANCE OF ACADEMIC RECORDS 
-  ## Page 87
  84 
   Maintenance of 
 Academic 
@@ -3280,7 +3194,6 @@ from the conduct of entrance test, except in cases of
 disputes; 
     iii The personal files of the students shall be retaine d as 
 permanent records, either digitally or in hard copies; 
- ## Page 88
  85 
     iv Subject to any general or special rule or order in this 
 behalf, no University records (including correspond ence) 
@@ -3298,12 +3211,10 @@ Vice-Chancellor shall invariably be obtained before they are
 destroyed. The academic records to be weeded out sh all 
 be destroyed by way of shredding under direct super vision 
 of the Dean Academic Affairs. 
-  ## Page 89
  86 
   ANNEXURE - 2b 
   [Service Rules (framed as per the service rules & policies of KLE 
 Society) ] 
- ## Page 90
  87 
   KLE TECHNOLOGICAL UNIVERSITY, HUBBALLI 
 SERVICE RULES 
@@ -3347,7 +3258,6 @@ notified by the order of the BOG from time to time.
 3. 7 "Selection Committee" means the authority nomin ated by the BOG to recommend for 
 recruitment/promotion/ granting special increment o n the basis of tests/ interviews/performance 
 reports etc. as needed. 
- ## Page 91
  88 
   3. 8 "Employer" means the KLE Technological Universi ty. 
 3. 9 "Employee" means anybody who is working as paid servant of the KLE Technological 
@@ -3393,7 +3303,6 @@ Technological University and its parent society K L E Society.
 Rule 8 CLASSIFICATION OF EMPLOYEES 
 8. 1 "Employee" shall be classified as : 
 a) Permanent 
- ## Page 92
  89 
   b) Probationary 
 c) Temporary 
@@ -3439,7 +3348,6 @@ in the Service Register shall be final and conclusi ve and under no circumstance
 for correction of the same will be entertained. 
 9. 3 The Candidates selected for appointment shall a lso submit the self attested photo-copies of 
 the following Certificate along with the originals for verification at the time of joining duty: 
- ## Page 93
  90 
   1. Qualification 
 2. Experience 
@@ -3482,7 +3390,6 @@ be the penalty for every three days' late attendanc e. Habitual three days' late
 absence from the place of work without permission will entail in disciplinary action. 
 Absence without prior sanction or for absence witho ut valid reason, shall not be sanctioned as 
 'leave on loss of pay' but will be treated as 'un a uthorized absence' and it will amount to break 
- ## Page 94
  91 
   in service and such days will not be considered as 'service' for the purpose of gratuity or 
 otherwise 
@@ -3525,7 +3432,6 @@ probation, the Appointing Authority shall consider the suitability of the probat
 the post to which he was appointed, and - 
 (a) If Appointing Authority decides that the probatione r is suitable to hold the post to 
 which he was appointed and has passed the special e xaminations or tests, if any, 
- ## Page 95
  92 
   required to be passed during the period of probation the Appointing Authority shall, as 
 soon as possible, issue an order declaring the prob ationer to have satisfactorily 
@@ -3570,7 +3476,6 @@ withholding the increment for three months and if n o clause is added that it wi
 cumulative effect, the increment that is due on 01.06.2018 will be withheld for three months 
 but the next increment which falls due on 01.06.201 9 will be given to him with effect from 
 01. 06.2019. 
- ## Page 96
  93 
   18. 5 When an employee working in the lower cadre an d scale of pay is promoted or appointed to 
 a higher cadre and scale of pay, his increment will fall due after he completes one year of 
@@ -3617,7 +3522,6 @@ after 25 years of service in KLE Technological University and its associated ins
 after 50 years of age, by giving 3 months notice or 3 months pay in lieu thereof. However, in 
 certain cases the Management enjoys the right of retiring the employee any time if it finds 
 that his services are no longer required for the institutions by giving 3 months notice. 
- ## Page 97
  94 
   NOTE : 
 In case where the date of retirement of an employee and the day/days preceding thereto are 
@@ -3662,7 +3566,6 @@ due certificate by the employee, relieving order will be issued.
 permission in writing continuously for 30 days, the management may give him a notice to 
 report for duty within 30 days from the date of rec eipt of the notice, and to give satisfactory 
 explanation for his absence. In case he fails to re port for duty without valid explanations, he 
- ## Page 98
  95 
   shall be treated as having voluntarily abandoned se rvice. This is without prejudice to the 
 right of the management to take appropriate discipl inary action against the employee 
@@ -3705,7 +3608,6 @@ e) indulge in private tuition.
 23. 4 No employee shall: 
 a) be a member of the K.L.E. Society, Belgaum or any e ducational society 
 without the specific permission of the Management. 
- ## Page 99
  96 
   b) take part or canvas at the elections to the Nation; State and the K.L.E. Society, 
 Belgaum etc. 
@@ -3750,7 +3652,6 @@ Employee shall not posses or be under the influence of intoxicating dinks/drugs 
 duty. 
 Rule 28 PARTICIPATION IN POLITICS AND ELECTIONS 
 28. 1 No employee shall 
- ## Page 100
  97 
   a) without prior permission in writing, by the managem ent, be a member of or be 
 otherwise associated with any political party or an y organization which takes part in 
@@ -3796,7 +3697,6 @@ Rule 35 SEARCH
 35. 1 Employees are liable to be searched by persons authorized by the management at any time, 
 and also while entering or leaving the premises of the KLE Technological University and its 
 institutions. However, the women employees shall be searched by women only. 
- ## Page 101
  98 
   35. 2 If necessary by law, Quarters, accommodation and such other facilities provided by the KLE 
 Technological University are also liable to be sear ched in the presence of the employee 
@@ -3840,7 +3740,6 @@ whatsoever.
 from place of work. 
 9. Loitering while on duty and after duty in of KLE Te chnological University 
 and associated institutions premises. 
- ## Page 102
  99 
   10. Negligence or neglect of work. 
 11. Accepting service for any consideration inside or o utside the 
@@ -3884,7 +3783,6 @@ student or visitors within of KLE Technological Uni versity and associated
 institutions premises. 
 26. Refusal to accept memorandum or charge sheet or any other communication 
 issued by the superior or Disciplinary Authority. 
- ## Page 103
  100 
   27. Participation in any activity prejudicial to the in terests of KLE Technological 
 University and associated institutions. 
@@ -3928,7 +3826,6 @@ charges and produce documents and witnesses in supp ort of his defense and cross
 the witnesses on whose evidence the charges are bas ed. No legal practitioner shall be 
 allowed to appear on behalf of the employee. The st atements of the management and the 
 employee and the evidence lead by either side shall be recorded by the Enquiry Officer. If 
- ## Page 104
  101 
   the employee concerned fails to attend the enquiry, it shall be proceeded ex-parte. The 
 Enquiry Officer shall submit his findings to the ma nagement based on the evidence 
@@ -3971,7 +3868,6 @@ b) Demotion to a lower grade or post or to a lower sta ge in the time scale of p
 for a specified period at the discretion of the management. 
 c) Reduction in rank. 
 d) Discharge/removal/dismissal/compulsory retirement from service. 
- ## Page 105
  102 
   Rule 40 SUSPENSION PENDING ENQUIRY 
 40. 1 Any officer empowered with such powers may place under suspension, pending enquiry, an 
@@ -4016,7 +3912,6 @@ Rule 44 SERVING OF NOTICE
 44. 1 Every employee shall intimate the change of hi s postal address for communication to his 
 Head of the Department/Office within 7 days of the change and also his leave address 
 whenever he proceeds on leave. 
- ## Page 106
  103 
   44. 2 Orders, notices and/or other service communica tions issued under these Rules will be 
 communicated to the employee either in person when he is personally available or by post 
@@ -4034,7 +3929,6 @@ As per the provisions made thereon by the KLE Technological University/ KLE Soci
                                                                CHAPTER VII PROVIDENT FUND 
 Rule 48 EMPLOYEES PROVIDENT FUND 
 As per the provisions made there on, by the KLE Technological University/ KLE Society. 
-  ## Page 107
  104 
   HOLIDAYS AND LEAVE RULES APPLICABLE TO EMPLOYEES OF K.L.E. SOCIETY 
 1. HOLIDAY WEEKLY HOLIDAYS 
@@ -4075,7 +3969,6 @@ obtaining prior sanction.
 2. 10 Employees applying for leave on medical grounds sho uld produce medical certificate 
 from a doctor who is on the rolls of one of the ass ociated hospitals of K.L.E. Society. 
 Exceptions may be made where the competent authorit y is satisfied that the employee was 
- ## Page 108
  105 
   not in a position to get examined/treated by a doct or of the associated hospitals of K.L.E. 
 Society. 
@@ -4119,7 +4012,6 @@ applications or broken periods shall not be entertained.
 5. ENCASHMENT OF EARNED LEAVE 
 5. 1 Encashment of earned leave is at the discretion of management. 
 5. 2 Encashment of leave (if granted) for less than 30 days is not permitted. 
- ## Page 109
  106 
   5. 3 Application for encashment of earned leave should be made to the management through the 
 proper channel at least 30 days in advance. 
@@ -4161,7 +4053,6 @@ each completed year of service.
 served for complete one year excluding all periods of absence if any. 
 7. 4 Half the amount of half pay leave due to a permanent employee, may be commuted into full 
 pay commuted leave under any special circumstances subject to the following conditions: 
-  ## Page 110
  107 
   a) No commuted leave may be granted under this rule un less the authority 
 competent to sanction leave has reason to believe that the employee will return to duty 
@@ -4206,7 +4097,6 @@ its grant genuine and is supported by a medical certificate.
 All matters pertaining to the cases of study leave shall be placed before the BOG meeting on 
 case to case basis for approval and shall have the sanction of the management. 
 10. SHORT TERM FELLOWSHIP 
- ## Page 111
  108 
   Short Term Fellowship leave is to be used for visit s to academic centers for research or 
 teaching activities. This is completely at the discretion of BOG. 
@@ -4249,7 +4139,6 @@ emoluments.
 12. 7 The applicant will also have to furnish a bank guarantee for an amount equal to 3 months. 
 12. 8 Note more than one professor per department at a time will be permitted to go on Sabbatical 
 Leave. 
- ## Page 112
  109 
   13. OVERSEAS ASSIGNMENT LEAVE 
 Overseas Assignment Leave has to be utilized for th e purpose of an employment outside the 
@@ -4275,11 +4164,9 @@ employee will be on duty in the last day of the notice of termination.
 on loss or pay or unauthorized absence such weekly holiday or authorized holiday will be 
 included in the period of the leave on loss of pay or unauthorized and he will not be entitled 
 to pay and allowance. 
-  ## Page 113
  110 
   ANNEXURE - 2c 
   [Delegation of Financial Powers) ] 
- ## Page 114
  111 
   Delegation of financial powers 
   The financial power delegated to the leadership team of the University is as shown below: 
@@ -4309,12 +4196,10 @@ Remarks
 3. Department requirements -
 Laboratory, research etc., 
 4. Events 
-  ## Page 115
  112 
   ANNEXURE - 2d 
   [Conduct of Convocation and regarding installation of Medals and 
 Prizes ] 
- ## Page 116
  113 
   THE KLE TECHNOLOGICAL UNIVERSITY REGULATIONS GOVERNING 
 CONVOCATIONS TO CONFER DEGREES 
@@ -4353,7 +4238,6 @@ Provided that only such candidates will be admitted to the convocation who have 
 application in the prescribed form to the 
 Controller of Examination with the prescribed fee so as to 
 reach him not later than 5 days before the date fixed for the convocation. 
- ## Page 117
  114 
         (iii) Distribution of Degree Certificates to other graduates included in the list mentioned in this 
 regulation 2 (iii) shall ordinarily be made by the respective School/ Departments from where they 
@@ -4392,7 +4276,6 @@ Preliminary meeting of the academic council and BOG.
 which the list of candidates recommended for admission to the several degrees shall be approved. 
 Convocation procession: The Visitor, Pro-Visitor, Chancellor, the Pro Chan cellor, the Vice-
 Chancellor and members of the Academic Council and - Executive Council, BOG shall go in 
- ## Page 118
  115 
   procession to the place where the convocation to be held along with Chief Guest and 
 recipients of Honorary degrees, if any. The order of the procession will be as under:. 
@@ -4432,7 +4315,6 @@ to the candidates.
 "By virtue of the authority vested in me as Visitor / Pro-visitor/Chancellor of KLE 
 Technological University, 
 I admit all the candidates presented ." 
- ## Page 119
  116 
   Convocation address : An address suitable to the occasion will then be delivered by the chief 
 Guest. 
@@ -4447,12 +4329,10 @@ Special convocation: Special convocation for conferring honorary degree s or oth
 may be held on such date and time as the BOG may wi th the Chancellor's approval 
 determine. 
   Approved by the Chancellor 
-  ## Page 120
  117 
   ANNEXURE - 3 
   [Academic Council Recommended Broad Curriculum Framework for 
 Various Academic Programs of the University] 
-  ## Page 121
  118 
   Broad curriculum frameworks proposed for Undergradu ate and Postgraduate programs are as 
 follows: 
@@ -4485,7 +4365,6 @@ for regular students.
 A typical Break down of B. ARCH program 
 Subject Area B. ARCH. Program 
  Number Average number o f Credits 
- ## Page 122
  119 
   of Credits (Typical) 
 Professional Communication Subjects 10 - 15 12 
@@ -4513,7 +4392,6 @@ Seminars 1-2 1
 Project Work 25-30 28 
 Others (specify if any) 0-4 
 Total 88-90 88 
-  ## Page 123
  120 
   MCA PROGRAM 
 The different programs shall consist of a number of courses and each course shall be assigned with 
@@ -4545,18 +4423,15 @@ Credits (Typical)
 Professional Subjects (PSC) Core 40-60 50 
 Professional Subjects (PSE) -Electives 25-30 27 
 Industrial Training 4-8 6 
- ## Page 124
  121 
   Seminars --- --- 
 Project Work 3-6 4 
 Others (specify if any) 0-4 1 
 Total 88-90 88 
-  ## Page 125
  122 
   ANNEXURE - 4 
   [Academic Council Recommended Schemes of Study and Syllabi of First 
 Year for all the Programs Starting from 2015-16] 
- ## Page 126
  123 
   FIRST SEMESTER B E PROGRAM 
   Electrical Science Stream 
@@ -4615,7 +4490,6 @@ BS 5-0-0
 2 15ECHB101 Engineering Chemistry BS 3-0-0 3 3 50 50 100 3 hours 
 3 15ECSP101 Programming in C ES 0-0-3 3 6 80 20 100 3 hours 
 4 15ECRP101 Engineering Exploration ES 0-0-3 3 6 80 20 100 3 hours 
- ## Page 127
  124 
   5 15EECF101 Basic Electronics ES 4-0-0 4 4 50 50 100 3 hours 
 6 15EMEF101 Basic Mechanical Engg. ES 2-1-0 3 4 50 50 100 3 hours 
@@ -4625,7 +4499,6 @@ HSS 1-1-0
 2 3 
 50 50 100 1.5 hrs 
 Total 16-1-6 23 31 
- ## Page 128
  125 
   SECOND SEMESTER B E PROGRAM 
   Mechanical Science Stream 
@@ -4690,7 +4563,6 @@ Programming in C ES 0-0-3
  6 
 80 20 100 3 hrs 
 4 15ECRP10 Engineering Exploration ES 0-0-3 3 6 80 20 100 3 hrs 
- ## Page 129
  126 
   FIRST SEMESTER B E PROGRAM 
   Electrical Science Stream 
@@ -4745,7 +4617,6 @@ ES 3-0-0 3 3 50 50 100 3 hrs
 Lab 
 BS 0-0-1 1 2 80 20 100 3 hrs 
 Total 15-1-5 21 26 
- ## Page 130
  127 
   Mechanical Science Stream 
 This stream comprises of Departments of Mechanical Engg / Civil Engg / Bo Technology / Automation and 
@@ -4772,7 +4643,6 @@ HSS 1-1-0
 2 3 
 50 50 100 1.5 hrs 
 Total 16-1-6 23 31 
- ## Page 131
  128 
   FIRST SEMESTER B E PROGRAM 
 Electrical Science Stream Syllabi Content 
@@ -4806,7 +4676,6 @@ Unit III
 6. Vectors and Geometry of space (5+5) hours 
 (a) Three dimensional Coordinate system, Vectors in space, position vector, Direction 
 cosines, Direction angles and planes, angle between planes. 
- ## Page 132
  129 
         (b) Equations of line, coplanar lines, skew lines, surfaces. Cylindrical and spherical 
           coordinates, curves in 3-d spaces 
@@ -4840,7 +4709,6 @@ density.
 Semiconductor conductivity: Drift current, diffusion current, charge carrier 
 05 
 Hours 
-  ## Page 133
  130 
   velocity, conductivity, Hall Effect. 
 (Text 1 Page No 1-33) 
@@ -4891,7 +4759,6 @@ Value of the Electric Field from the Electric Potential, Electric Potential Due 
 Continuous Charge Distributions Electric Potential Due to a Charged Conductor, 
 15 
 Hours 
-  ## Page 134
  131 
   FIRST SEMESTER B E PROGRAM 
 Electrical Science Stream Syllabi Content 
@@ -4929,7 +4796,6 @@ References:
 Norosa Publishing House (1998). 
 3. Ben G Streetman, Solid State Electronic Devices, Prentice Hall, 1995 
   Program: UG 
- ## Page 135
  132 
   Course Code: 15ECVF101 Course Title: Engineering Mechanics 
 L-T-P-SS: 4-0-0-0 Credits:4 Contact Hrs: 50 
@@ -4975,7 +4841,6 @@ concurrent force systems and numerical problems. 5 hrs
   4 
 Chapter 4: Equilibrium of a force system (Chapter 3 contd..) 
 Conditions of equilibrium, types of support and loading for a statically 19 
- ## Page 136
  133 
   determinate beam, Reactions at support connections, Numerical problems on 
 equilibrium of force systems and support reactions for a statically determinate 
@@ -5026,7 +4891,6 @@ Delhi, 2006
 References: 
 1. Jagadeesh, T.R. and Jayaram, Elements of Civil Engineering , Sapna Book House, 
 Bangalore, 2006. 
- ## Page 137
  134 
   FIRST SEMESTER B E PROGRAM 
   Electrical Science Stream Syllabi Content 
@@ -5067,7 +4931,6 @@ Course Code: 15EMEP101 Course Title: Computer Aided Engineering Drawing
 L-T-P-SS: 0-0-3 Credits: 3 Contact Hrs: 50 
 CIE Marks: 80 SEE Marks: 20 Total Marks: 100 
 Teaching Hrs: 6 Exam Duration: 3 hours 
- ## Page 138
  135 
   development of transition pieces. 
   03 Chapter 03: Conversion of pictorial views into orthographic projections using CAD 
@@ -5092,7 +4955,6 @@ Course Code: 15EEEF101 Course Title: Basic Electrical Engineering
 L-T-P-SS: 3-0-0 Credits:4 Contact Hrs: 50 
 CIE Marks: 50 SEE Marks: 50 Total Marks: 100 
 Teaching Hrs: 3 Exam Duration: 3 hours 
- ## Page 139
  136 
   Chapter No. 1: Overview of Electrical Engineering 
 Specialization, scope & role, impact of Electrical Engineering on national economy, 
@@ -5146,7 +5008,6 @@ Reference Books:
 2. David G Alciatore and Michel B Histand, Introduciton to Mechatronics and Measurement Systems, 
 3
 rd edition 2005, Tata McGraw Hill Education Private Limited, New Delhi. 
-  ## Page 140
  137 
   FIRST SEMESTER B E PROGRAM 
   Electrical Science Stream Syllabi Content 
@@ -5213,7 +5074,6 @@ Course Code: 15EHSP101 Course Title: Social Innovation
 L-T-P-SS: 0-1-1 Credits:2 Contact Hrs: 40 
 CIE Marks: 50 SEE Marks: 50 Total Marks: 100 
 Teaching Hrs: 3 Exam Duration: 1.5 hours 
- ## Page 141
  138 
   5. Issues Based Problem 
 Solving Tree 
@@ -5270,7 +5130,6 @@ Hosting
   Course Code: 15EPHP101 Course Title: 
 Engineering Physics lab 
 L-T-P: 0-0-1 Credits : 1 Contact Hrs: 02 Hrs/Week 
- ## Page 142
  139 
   FIRST SEMESTER B E PROGRAM 
 Electrical Science Stream Syllabi Content 
@@ -5294,7 +5153,6 @@ given semiconductor material.
 11. Zener diode as voltage regulator 
 12. V-I characteristics of BJT. 
 13. Resonance in LCR circuit 
- ## Page 143
  140 
   FIRST SEMESTER B E PROGRAM 
 Mechanical Science Stream Syllabi Content 
@@ -5328,7 +5186,6 @@ Unit III
 7. Vectors and Geometry of space (5+5) hours 
 (a) Three dimensional Coordinate system, Vectors in space, position vector, Direction 
 cosines, Direction angles and planes, angle between planes. 
- ## Page 144
  141 
         (b) Equations of line, coplanar lines, skew lines, surfaces. Cylindrical and spherical 
           coordinates, curves in 3-d spaces 
@@ -5339,7 +5196,6 @@ Reference Books:
 • Calculus I, Jerrold Marsden and Alan Weinstein, Springer-Verlag, 2e, 1986. 
 • Calculus II, Jerrold Marsden and Alan Weinstein, Springer-Verlag, 2e, 1986. 
 • Calculus III, Jerrold Marsden and Alan Weinstein, Springer-Verlag, 2e, 1986. 
-  ## Page 145
  142 
   SEMESTER B E PROGRAM 
 Mechanical Science Stream Syllabi Content 
@@ -5369,7 +5225,6 @@ volumes, evaluation of properties. Numerical problems.
  Cement- properties and applications, mechanism of setting & hardening of cement.
              Lubricants- Classification, Mechanism of lubrication, Properties and applications. 
                                                                                                                                                                                                                                                                         03Hrs 
-                                                                                                                                 ## Page 146
  143 
   Unit - II 
 4. Fuel Chemistry 
@@ -5401,7 +5256,6 @@ Water: Sources of water, impurities in water, Sources, Causes and ill effects of
 and nitrate. Determination of total hardness of water sample. Numerical problems on hardness. Sewage: 
 Determination of BOD & COD. Numerical problems on BOD & COD. 
 0Hrs 
- ## Page 147
  144 
   Text Books: 
 1. A text Book of Engineering Chemistry, 1st edition, Dara. S. S, S. Chand & Co. Ltd., 2009, New Delhi. 
@@ -5442,7 +5296,6 @@ Introduction, Function declaration, definition, call, returns statement, passing
 parameters to functions, introduction to macros. 
 Introduction to Coding Standards 
 5, 6 
- ## Page 148
  145 
   4 
 Decision control statements 
@@ -5487,7 +5340,6 @@ Reference Books:
   FIRST SEMESTER B E PROGRAM 
   Mechanical Science Stream Syllabi Content 
   ENGINEERING EXPLORATION 
- ## Page 149
  146 
             Course Code : 15ECRP101 
 Chapter No Name Sessions 
@@ -5515,7 +5367,6 @@ Software Tool 12 hrs
 Reference Books: 
 1. Engineering Fundamentals & Problem Solving by Arvid Eide, Roland Jenison, Larry Northup, Steven, 
 McGrawHill Higher Education, 6th Edition ( 2011) 
- ## Page 150
  147 
   2. Engineering Exploration ( Edited Book, 2008) by Pearson Publication 
   FIRST SEMESTER B E PROGRAM 
@@ -5555,7 +5406,6 @@ Unit - III
 Analog & Digital signals, Digital to Analog Conversion, R-2R DAC, Analog to Digital 
 Conversion, SAR ADC, Data Acquisition . 
 06 Hrs 
- ## Page 151
  148 
   7. Case Studies of Mechatronics Systems: 
 Automatic Camera, Drilling Machine, Bar code reader. 
@@ -5595,7 +5445,6 @@ Mechanical Engineering, Mechanical product Example: Pressure Cooker,
 The main manufacturing sectors, The importance of the main 
 manufacturing sectors to the Indian economy. 
 5 1 
- ## Page 152
  149 
   Text Book (List of books as mentioned in the approved syllabus) 
 1. Jonathan Wickert and Kemper Lewis, An Introduction to Mechanical Engineering, Third Edition, 
@@ -5639,7 +5488,6 @@ engine, Problems on Engine Performance, Recent trends in IC engines.
 Refrigeration system, Air conditioning system, Pumps, Blowers and 
 Compressors and their working principle and specifications. 
   4 2 
- ## Page 153
  150 
    Mechanical Science Stream Syllabi Content 
   Course Code: 15EHSH101 Course Title: Professional Communication 
@@ -5678,7 +5526,6 @@ References:
 1. Collins Cobuild Advanced Learner's English Dictionary 
 2. Raymond Murphy - Intermediate English Grammar, Cambridge University Press 
 3. Martin Hewings- Advanced English Grammar, Cambridge University Press. 
- ## Page 154
  151 
   SECOND SEMESTER B E PROGRAM 
   Mechanical Science Stream 
@@ -5741,7 +5588,6 @@ Programming in C ES 0-0-3
 3 6 
 80 20 100 3 hrs 
 4 15ECRP10 Engineering Exploration ES 0-0-3 3 6 80 20 100 3 hrs 
- ## Page 155
  152 
   SECOND SEMESTER B E PROGRAM 
   Mechanical Science Stream Syllabi Content 
@@ -5788,7 +5634,6 @@ HSS 1-1-0
 50 50 100 1.5 
 hrs 
 Total 16-1-6 23 31 
- ## Page 156
  153 
   equations and reducible to exact form, Applications of first order differential equations-
 Orthogonal trajectories, growth and decay problems, mixture problems, Electrical 
@@ -5822,7 +5667,6 @@ Model, Linear Velocity and Acceleration, Uniform Motion,
 Instantaneous Velocity, Finding Position from Velocity, Motion 
 with Constant Acceleration, Free Fall Motion on an Inclined Plan, 
 6 hours 
- ## Page 157
  154 
   Instantaneous Acceleration, Numericals. 
 Chapter 2 Kinematics in Two Dimensions 
@@ -5864,7 +5708,6 @@ Collisions, Energy Diagrams,
 Work: Work and Kinetic Energy, Force, Work and Potential energy, 
 Conservation of Energy, Power, Numericals. 
 8 Hours 
-  ## Page 158
  155 
   Text Book: 
 1. John W Jewett and Raymond A Serway, Physics for Scientists and Engineers with modern 
@@ -5897,7 +5740,6 @@ Basic idealizations - Particle, Continuum, Body, Ri gid body, Deformable
 body, Definition of force and its elements; Laws of Mechanics - Parallelogram 
 law of forces, Principle of transmissibility, Law o f Superposition, Newton's 
 laws of motion. Classification of force systems 3 hrs 12 
- ## Page 159
  156 
   Resultant of coplanar concurrent force system: Definitions - Resultant, 
 composition & Resolution of a force, Equilibrium, E quilibrant, Formulae for 
@@ -5950,7 +5792,6 @@ Chapter 8: Kinetics of a particle- Work, Power, Energy
 Introduction - Kinematics and Kinetics, Definitions - work, power and energy. 
 Work done by a force (constant, gravitational and spring forces) in rectilinear 
 motion. Numerical problems, Kinetic energy of a particle, principle of work and 
- ## Page 160
  157 
   FIRST SEMESTER B E PROGRAM 
   Mechanical Science Stream Syllabi Content 
@@ -5981,7 +5822,6 @@ New Delhi- 110 001, 1995.
 L-T-P-SS: 0-0-3 Credits: 3 Contact Hrs/Week: 6 
 CIE Marks: 80 SEE Marks: 20 Total Marks: 100 
 Teaching Hrs: 50 Exam Duration: 3 hours 
- ## Page 161
  158 
   01 Chapter 01: Introduction to engineering drawing and orthographic projections. 
 ( Manual Drafting ) 
@@ -6020,7 +5860,6 @@ using CAD software.
 Text Books: 
 3. Text Book of Engineering Drawing by K R Gopalakrishna 
 4. Text Book of Engineering Drawing by N D Bhatt and V M Panchal 
-  ## Page 162
  159 
   SECOND SEMESTER B E PROGRAM 
   Mechanical Science Stream Syllabi Content 
@@ -6057,7 +5896,6 @@ Course Code: 15EEEF102 Course Title: Basic Electrical Engineering
 L-T-P-SS: 3-0-0 Credits: 3 Contact Hrs/Week: 3 
 CIE Marks: 50 SEE Marks: 50 Total Marks: 100 
 Teaching Hrs: 50 Exam Duration: 3 hours 
- ## Page 163
  160 
   installation. Types of lamps, fixtures and reflectors, Illumination schemes for 
 domestic, industrial and commercial premises, lumen requirement for different 
@@ -6111,7 +5949,6 @@ Course Code: 15EHSP101 Course Title: Social Innovation
 L-T-P-SS: 0-1-1 Credits:2 Contact Hrs: 3 / week 
 CIE Marks: 50 SEE Marks: 50 Total Marks: 100 
 Teaching Hrs: 40 Exam Duration: 1.5 hours 
- ## Page 164
  161 
   KNOWLEDGE & 
 TOOLS 
@@ -6188,7 +6025,6 @@ Sessions
 Management 
 • Classroom Activity • Structure building 
 games 
- ## Page 165
  162 
   13. Calculative Risk 
 Management 
@@ -6224,13 +6060,11 @@ Experiments
 6. Compressibility of pure water by ultrasonic method. 
 7. Determination of thermal conductivity of a bad conductor. 
 8. Calibration of a pressure guage. 
- ## Page 166
  163 
   9. Photoelectric effect and estimation of Work function. 
 10. Determination of Particle Size of a nano system. 
 11. Measurement of dielectric constant. 
 12. Verification of Stefan's T 4 law and estimation of errors. 
- ## Page 167
  164 
   Note: Minimum Ten experiments have to be conducted 
   SECOND SEMESTER B E PROGRAM 
@@ -6259,7 +6093,6 @@ field, Divergence theorem, Curl of vector field. Stokes theorem.
 hours Introduction to Initial Value problems. Linear and Bernoulli's equations, Exact 
 equations and reducible to exact form, Applications of first order differential equations-
 Orthogonal trajectories, growth and decay problems, mixture problems, Electrical 
- ## Page 168
  165 
   circuits, falling bodies. Approximate solution to I nitial Value problems-Euler's method, 
 Modified Euler's method and Runge-Kutta method. 
@@ -6277,7 +6110,6 @@ Reference Books:
 2. Calculus I, Jerrold Marsden and Alan Weinstein, Springer-Verlag, 2e, 1986. 
 3. Calculus II, Jerrold Marsden and Alan Weinstein, Springer-Verlag, 2e, 1986. 
 4. Calculus III, Jerrold Marsden and Alan Weinstein, Springer-Verlag, 2e, 1986. 
-  ## Page 169
  166 
   SECOND SEMESTER B E PROGRAM 
 Electrical Science Stream Syllabi Content 
@@ -6306,7 +6138,6 @@ Commercial polymers - Plexi glass, PS, polyurethane . Elastomers: advantages of 
 rubber, neoprene and butyl rubbers. Adhesives - Ep oxy resins and Phenol-Formaldehyde resins. Polyme r 
 Composites: carbon fiber, Kevlar, - structure, properties and applications, Fiberglass. 
 06 hrs 
-   ## Page 170
  167 
   Unit - II 
 4. Plating Techniques 
@@ -6339,7 +6170,6 @@ Instrumentation and applications.
        and nitrate. Determination of total hardness of water sample. Numerical problems on hardness. 
        Sewage: Determination of BOD & COD. Numerical problems on BOD & COD. 
 04 hrs 
-  ## Page 171
  168 
   Text Books: 
 3. A text Book of Engineering Chemistry, 1st edition, Dara. S. S, S. Chand & Co. Ltd., 2009, New Delhi. 
@@ -6360,7 +6190,6 @@ Bangalore
 pages. 
 9. C. N. Banwell and E. M. Mccash, Fundamentals of Molecular Spectroscopy, Mc-Graw Hill International, UK, 
 1995. 
-  ## Page 172
  169 
   SECOND SEMESTER B E PROGRAM 
 Electrical Science Stream Syllabi Content 
@@ -6412,7 +6241,6 @@ Strings
 Introduction, String operations, Array of strings, pointer to strings. 
 15 
   9 Structures and Unions 23, 24 
- ## Page 173
  170 
   Introduction, passing structures to functions, Unions, Array of structures. 
 Text Book: 
@@ -6424,7 +6252,6 @@ Reference Books:
 8. B S Gottfried, Programming with C, 2ed, TMH, 2006. 
 9. B.A. Forouzan, R.F.Gilberg, A Structured Progam. Approach Using C, 3ed, CENGAGE Learning, 2008. 
 10. Yashavant Kanetkar, Let Us C, 13ed, BPS Publication, 2013. 
-  ## Page 174
  171 
   SECOND SEMESTER B E PROGRAM 
 Electrical Science Stream Syllabi Content 
@@ -6451,14 +6278,12 @@ Tool 12 hrs
 • Explain engineering design process and apply / demonstrate it to build simple systems 
 • Identify ethical and sustainability issues involved in providing engineering solutions 
 • Explain basics of engineering project management 
- ## Page 175
  172 
   • Demonstrate modelling, simulation, data acquisition and analysis skills using a software tool. 
   Reference Books: 
 1. Engineering Fundamentals & Problem Solving by Arvid Eide, Roland Jenison, Larry Northup, Steven, 
 McGrawHill Higher Education, 6th Edition ( 2011) 
 2. Engineering Exploration ( Edited Book, 2008) by Pearson Publication 
- ## Page 176
  173 
   SECOND SEMESTER B E PROGRAM 
 Electrical Science Stream Syllabi Content 
@@ -6498,7 +6323,6 @@ full adders.
 of positive and negative feedback (At zero frequenc y). Linear and non-linear 
 applications: Inverting amplifier, Non inverting am plifier, Voltage follower, 
 Integration, Differentiation, Adder, Subtractor, ZCD and Comparator. 8 hours 
- ## Page 177
  174 
   Unit-III 
 6. Communication Systems: Basic block diagram of communication system, 
@@ -6520,7 +6344,6 @@ Reference Books:
 • Floyd, "Digital fundamentals" Third Edition Prentice HallIndia, 2001. 
 • BoylesteadNashelsky, "Electronic devices & Circuit theory" Sixth Edition Prentice HallIndia, 2000. 
 • RamakantGaikawad "Operational Amplifiers & applications" 3rd Edition, PHI, 2000. 
- ## Page 178
  175 
   SECOND SEMESTER B E PROGRAM 
 Electrical Science Stream Syllabi Content 
@@ -6562,7 +6385,6 @@ Internal Combustion Engines: Classification, IC engine parts, 2 stroke SI and CI
 engine, 4 Stroke SI and CI Engine, PV diagrams of Otto and Diesel cycles, 
 Comparison of 2 stroke and 4 stroke engine, comparison of CI and SI engine, 
 7 2 
- ## Page 179
  176 
   Text Book (List of books as mentioned in the approved syllabus) 
 4. Jonathan Wickert and Kemper Lewis, An Introduction to Mechanical Engineering, Third Edition, 
@@ -6595,7 +6417,6 @@ Teaching Hrs: 42 Exam Duration: 90 min
   Chapter 1. 
  Linguistic data installation : 
 09 Hrs 
- ## Page 180
  177 
   Chairman thanked all the members for their contributions. 
                         Chairman 
@@ -6625,5 +6446,4 @@ Interrogation, Question tags etc…, Active and Pass ive Voice 04 Hrs
 References: 
 4. Collins Cobuild Advanced Learner's English Dictionary 
 5. Raymond Murphy - Intermediate English Grammar, Cambridge University Press 
-6. Martin Hewings- Advanced English Grammar, Cambridge University Press. 
- 
+6. Martin Hewings- Advanced English Grammar, Cambridge University Press.

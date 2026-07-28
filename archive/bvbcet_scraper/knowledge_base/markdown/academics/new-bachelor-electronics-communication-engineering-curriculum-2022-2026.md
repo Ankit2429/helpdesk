@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: new-bachelor-electronics-communication-engineering-curriculum-2022-2026"
+title: "Bachelor of Engineering Curriculum"
 category: "academics"
 subcategory: ""
 document_type: "syllabus"
@@ -11,15 +11,14 @@ language: "en"
 keywords: ["bachelor", "chapter", "communication", "course", "curriculum", "document", "electronics", "engineering", "hours", "marks"]
 aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "ECE", "EC", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "163"
 ---
-# PDF Document: new-bachelor-electronics-communication-engineering-curriculum-2022-2026
- **PDF Source:** https://www.kletech.ac.in/pdf/new-bachelor-electronics-communication-engineering-curriculum-2022-2026.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/new-bachelor-electronics-communication-engineering-curriculum-2022-2026.pdf
           KLE Tech Confidential CONTROLLED COPY 
                                                                                                  Curriculum Structure and Curriculum Content for the Batch - 2022-26 
 School /Department: Electronics & Communication Engineering 
 Program: Bachelor of Engineering 
- ## Page 2
  KLE Tech Confidential CONTROLLED COPY 
                                                  Table of Contents 
   Curriculum Structure-Overall ........................................................................................ 9 
@@ -35,7 +34,6 @@ Semester- VIII .................................................................
 List of Open Electives ................................................................................................ 19 
 List of Program Electives ............................................................................................ 19 
 Curriculum Content- Course wise ................................................................................ 22 
-  ## Page 3
  KLE Tech Confidential CONTROLLED COPY 
                                                  Vision and Mission of KLE Technological University 
 Vision 
@@ -58,7 +56,6 @@ contributing our expertise, experience and leadership, to enhance
 competitiveness and quality of life. 
   As a unified community of faculty, staff and students, we work together with the 
 spirit of collaboration and partnership to accomplish our mission. 
-   ## Page 4
  KLE Tech Confidential CONTROLLED COPY 
                                                  Vision and Mission Statements of the School / Department 
 Vision 
@@ -74,7 +71,6 @@ occupations.
 boundaries of disciplinary and interdisciplinary knowledge and its applications. 
 3. To collaborate within and beyond the discipline to create solutions that benefit 
 humanity and society.
- ## Page 5
           KLE Tech Confidential CONTROLLED COPY 
                                                                                  Program Educational Objectives/Program Outcomes and Program-Specific Objectives 
 Program Educational Objectives -PEO's 
@@ -102,7 +98,6 @@ sciences, and engineering sciences.
 PO 3: Design/Development of Solutions: 
 Design solutions for complex engineering problems and design system 
 components or processes that meet the specified needs with appropriate 
- ## Page 6
  KLE Tech Confidential CONTROLLED COPY 
                                                  consideration for public health and safety, whole -life cost, net zero carbon, 
 cultural, societal, and environmental considerations. 
@@ -129,7 +124,6 @@ and/or multidisciplinary teams.
 PO 9: Communication: 
 Communicate effectively on complex engineering activities with the 
 engineering community and with t h e society at large, such as, being able to 
- ## Page 7
  KLE Tech Confidential CONTROLLED COPY 
                                                  comprehend and write effective reports and design documentation, make 
 effective presentations considering cultural, language, and learning 
@@ -152,7 +146,6 @@ PSO 2: Demonstrate the knowledge of the state of art tools and apply for the
 development of VLSI circuits/systems. 
 PSO 3: An ability to use appropriate modern techniques for analysis, design 
 and development of Communication components/systems. 
-  ## Page 8
  FORM 
 ISO 21001:2018 
 Document #: FMCD2004 
@@ -161,7 +154,6 @@ Title: Curriculum structure semester wise Year:2022-26
       KLE Tech Confidential CONTROLLED COPY 
                                                     8 
 Curriculum structure 2022-26 
-  ## Page 9
  FORM 
 ISO 21001:2018 
 Document #: FMCD2004 
@@ -326,7 +318,6 @@ PSE Elective 1
 P3: Senior 
 Design Project 
 (20EECW401) 
-  ## Page 10
  FORM 
 ISO 21001:2018 
 Document #: FMCD2004 
@@ -390,7 +381,6 @@ Structure Lab
 (Diploma) 
 (21EECF203) 
      Credits 21 23 25.5 24.5 24 24 21 17 
-  ## Page 11
  FORM 
 ISO 21001:2018 
 Document #: FMCD2004 
@@ -415,7 +405,6 @@ Innovation
 HSS 0-1-1 2 4 50 50 100 1.5hrs 
 7 21EPHP101 Applied Physics Lab BS 0-0-1 1 2 80 20 100 3 hrs 
 TOTAL 14-2-5 21 28 410 290 700 
- ## Page 12
  FORM 
 ISO 21001:2018 
 Document #: FMCD2004 
@@ -440,7 +429,6 @@ ES 0-0-3 3 6 80 20 100 3 hrs
 6 22EMEF101 Basic Mechanical Engineering ES 2-1-0 3 4 50 50 100 3 hrs 
 7 15EHSH101 Professional Communication HSS 1-1-0 2 4 50 50 100 1.5 hrs 
 TOTAL 15-2-6 23 33 410 290 700 
- ## Page 13
  FORM 
 ISO 21001:2018 
 Document #: FMCD2004 
@@ -476,7 +464,6 @@ ES
 80 20 100 2 hours 
 0-0-2 2 4 
 TOTAL 22.5-0-3 25.5 29 590 310 900 
- ## Page 14
  FORM 
 ISO 21001:2018 
 Document #: FMCD2004 
@@ -508,7 +495,6 @@ ES
 0-0-2 2 4 80 20 100 2 hours 
   0-0-3 3 6 
 TOTAL 18.5-0-6 24.5 31 670 330 1000 
- ## Page 15
  FORM 
 ISO 21001:2018 
 Document #: FMCD2004 
@@ -542,7 +528,6 @@ Audit 0-0-0 -- 1
 50 
   50 100 3 hours 
 TOTAL 14-0-10 24 35 540 260 800 
- ## Page 16
  FORM 
 ISO 21001:2018 
 Document #: FMCD2004 
@@ -579,7 +564,6 @@ PC 0-0-1
 1 2 80 20 100 2 hours 
 8 24EECW302 P2: Minor Project - I PW 0-0-6 6 12 50 50 100 2 hours 
 TOTAL 15-0-9 24 34 434 366 800 
- ## Page 17
  FORM 
 ISO 21001:2018 
 Document #: FMCD2004 
@@ -601,7 +585,6 @@ Duration
 6 20EECW401 P3: Senior Design Project PW 0-0-6 6 12 50 50 100 3 hours 
 7 15EHSC402 CIPE & EVS M 2-0-0 - 2 50 50 100 3 hours 
 TOTAL 14-0-7 21 29 367 333 700 
- ## Page 18
  FORM 
 ISO 21001:2018 
 Document #: FMCD2004 
@@ -627,7 +610,6 @@ And
 OR 
 4 20EECW402 Capstone Project PRJ 0-0-11 11 22 50 50 100 3 hours 
 TOTAL 6-0-11 17 28 150 150 300 
- ## Page 19
  FORM 
 ISO 21001:2018 
 Document #: FMCD2004 
@@ -658,7 +640,6 @@ Sr. No Name of the Course Course Code
 15 Speech Processing 24EECE422 
 16 Product and Functional Safety 24EECE433 
 17 5G and Software Defined Networking 24EECE434 
- ## Page 20
  FORM 
 ISO 21001:2018 
 Document #: FMCD2004 
@@ -691,7 +672,6 @@ Analytics and Machine Learning
 23EECE437 
 11 Introduction to Adaptive Signal Processing 25EECE448 
 12 Introduction to Algorithms and Analysis 23EECE440 
- ## Page 21
  FORM 
 ISO 21001:2018 
 Document #: FMCD2004 
@@ -702,7 +682,6 @@ Title: Curriculum structure semester wise Year:2022
    21 
 13 Cryptography And Network Security 22EECE431 
 14 RFIC Design 25EECE449 
- ## Page 22
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -746,7 +725,6 @@ Kutta method
 (b) Applications of first order differential Equations-Orthogonal trajectories growth and decay problems, mixture 
 problems, Electrical circuits, falling bodies. 
 MATLAB: Solve differential equations 
- ## Page 23
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -761,7 +739,6 @@ Reference Books:
 1. Calculus Single and Multivariable, Hughues-Hallett Gleason, Wiley India Ed, 4ed, 2009. 
 2. Thomas Calculus, George B Thomas, Pearson India, 12ed, 2010 
 Back to Semester - I 
-  ## Page 24
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -800,7 +777,6 @@ Diode testing: Ohmmeter tests, use of digital meter, plotting diode characterist
 Zener diodes: Junction break down, circuit symbols and packages, characteristics and parameters, data sheet, 
 equivalent circuits. 
 (Text 1 Page No 34-71) 
-  ## Page 25
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -843,7 +819,6 @@ of a Solenoid, Gauss's Law in Magnetism, Magnetism in Matter
 Faraday's Law: 
 Faraday's Law of Induction, Motional emf, Lenz's Law, Induced emf and Electric Fields Generators and Motors, 
 Eddy Currents (Text 2 Page No 868-969) 
- ## Page 26
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -862,7 +837,6 @@ Reference Books:
 Publishing House (1998). 
 3. Ben G Streetman, Solid State Electronic Devices, Prentice Hall, 1995 
 Back to Semester - I 
- ## Page 27
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -899,7 +873,6 @@ Resultant of a force system: Moment, moment of a force, couple, moment of a coup
 Equivalent force-couple system, Numerical problems on moment of forces and couples, on equivalent force -
 couple system. Varignons principle of mom ents, Resultant of coplanar - non-concurrent force systems and 
 numerical problems. 
-  ## Page 28
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -932,7 +905,6 @@ Introduction, Definition, Method of determining the second moment of area, Secti
 gyration, perpendicular and Parallel axis theorems, Polar second moment of area, second moment of area of 
 simple plane figures (triangle, rectangle, semic ircle, circle etc,.) using method of integration, Numerical 
 problems on MI of simple built up sections. 
-  ## Page 29
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -955,7 +927,6 @@ Reference Books:
 New Delhi, 1956. 
 5. Irving H Shames, Engineering Mechanics, 3rd edition, Prentice-Hall of India Pvt. Ltd, 
 Back to Semester - I 
- ## Page 30
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -992,7 +963,6 @@ Reference Books:
 2. B S Gottfried, Programming with C, 2ed, TMH, 2006. 
 3. B.A. Forouzan, R.F. Gilberg, A Structured Program Approach Using C, 3ed, CENGAGE Learning, 2008. 
 Back to Semester - I 
-  ## Page 31
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1029,7 +999,6 @@ Introductory, Thyristor, some thyristor circuits, Limitations to thyristor opera
 fully controlled AC/DC converter, AC/DC inversion, switching devices in inverters, Three -phase rectifier 
 networks, the three -phase fully co ntrolled converter, Inverter-fed induction motors, Soft -starting induction 
 motors, DC to DC conversion switched-mode power 
-  ## Page 32
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1060,7 +1029,6 @@ Reference Books:
 Tata McGraw Hill Education Private Limited, New Delhi., 2005 
 3. Vincent Del Toro, Electrical Engineering Fundamentals, 2nd edition Prentice Hall India 
   Back to Semester - I 
-  ## Page 33
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1134,7 +1102,6 @@ triangles out of popsicle
 sticks to enhance group 
 cohesiveness amongst the 
 group mates) 
- ## Page 34
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1182,7 +1149,6 @@ Talk on "How to build
 your Creative Confidence 
 by David Kelley - IDEO 
 Founder) 
-  ## Page 35
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1234,7 +1200,6 @@ Issue"
 respective templates 
 with the help of sample 
 case study 
-  ## Page 36
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1280,7 +1245,6 @@ your Research
 respective templates 
 with the help of sample 
 case study 
- ## Page 37
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1344,7 +1308,6 @@ management
 management 
 Structure building 
 games 
- ## Page 38
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1392,7 +1355,6 @@ engagement
 respective templates 
 with the help of sample 
 case study 
-  ## Page 39
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1423,7 +1385,6 @@ respective templates
 with the help of sample 
 case study 
   Back to Semester - I 
- ## Page 40
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1449,7 +1410,6 @@ List of Experiments
 9. Calibration of thermocouple 
 10. Calibration of electrical meters 
 Back to Semester - I 
- ## Page 41
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1488,7 +1448,6 @@ Applications of sec ond order differential Equations -Newton's 2 nd law, electri
 Harmonic motion. Series solution of differential equations. Validity of Series solution of Differential 
 equations. 
 MATLAB: application of differential equations 
- ## Page 42
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1503,7 +1462,6 @@ Reference Books:
 1. Calculus Single and Multivariable, Hughues-Hallett Gleason, Wiley India Ed, 4ed, 2009. 
 2. Thomas Calculus, George B Thomas, Pearson India, 12ed, 2010 
 Back to Semester - II 
-  ## Page 43
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1547,7 +1505,6 @@ masking and photolithography, wet etching, dry etching.
 6. Material Chemistry: Liquid Crystals - Types of liquid crystals, applications of Liquid Crystal in Display system. 
 Fluorescence and Phosphorescence - Jablonski diagram, Thermoelectric and Piezoelectric materials - 
 meaning, properties and applications. 
-  ## Page 44
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1584,7 +1541,6 @@ Publishing House Pvt. Ltd, 2010, Mumbai.
 7. VLSI Technology, 2nd Edition, S.M.Sze, McGraw Hill Series in electrical and computer engineering, 1998, 
 New York. 
 Back to Semester - II 
- ## Page 45
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1622,7 +1578,6 @@ Reference Books:
 2. B S Gottfried, Programming with C, 2ed, TMH, 2006. 
 3. B.A. Forouzan, R.F. Gilberg, A Structured Program Approach Using C, 3ed, CENGAGE Learning, 2008. 
 Back to Semester - II 
- ## Page 46
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1652,7 +1607,6 @@ Reference Books:
 McGraw Hill Higher Education, 6th Edition (2011) 
 2. Engineering Exploration (Edited Book, 2008) by Pearson Publication 
   Back to Semester - II 
- ## Page 47
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1691,7 +1645,6 @@ Parallel Adder using full adders.
   Chapter 5: Operational Amplifier: 
 OPAMP characteristics (ideal and practical), Linear and non-linear applications: Inverting amplifier, Non inverting 
 amplifier, Voltage follower, Integration, Differentiation, Adder, Subtractor, ZCD and Comparator. 
- ## Page 48
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1721,7 +1674,6 @@ and Engineers, 2, New Age International Publishers, 2001
 4. Boylestead Nashelsky, Electronic devices & Circuit theory, Prentice Hall India, 2000 
 5. Ramakant Gaikawad, Operational Amplifiers & applications, PHI, 2000 
   Back to Semester - II 
- ## Page 49
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1762,7 +1714,6 @@ Internal Combustion Engines: Classification, IC engine parts, 2 stroke SI and CI
 PV diagrams of Otto and Diesel cycles, Comparison of 2 stroke and 4 stroke engine, comparison of CI and SI 
 engine, Problems on Engine Perfor mance, Future trends in IC engines. Case study on power requirement of a 
 bike, car or any machine Video presentations. 
- ## Page 50
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1788,7 +1739,6 @@ Reference Books:
 edition 2001, Media Promoters and Publishers. 
 Basic Manufacturing, Roger Timings, Third edition, Newnes, An imprint of Elsevier 
 Back to Semester - II 
-  ## Page 51
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1822,7 +1772,6 @@ Reference Books:
 2. Raymond Murphy - Intermediate English Grammar, Cambridge University Press 
 3. Martin Hewings- Advanced English Grammar, Cambridge University Press. 
 Back to Semester - II 
-  ## Page 52
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1861,7 +1810,6 @@ Time domain Convolution, Multiplication Theorem, Parseval's theorem and Examples
 Fourier representation of non-periodic signals, Magnitude and phase spectra. Properties of Fourier Transform: 
 Linearity, Symmetry Properties, Time shift, Frequency Shift, Scaling, Time differential differentiation coefficients, 
 Time domain Convolution, Multiplication Theorem, Parseval's theorem and Examples on these properties. 
-  ## Page 53
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1889,7 +1837,6 @@ India, 2013.
 3. Applications for Engineering and the Computing Sciences, 4th edition, TATA McGraw-Hill Edition, 2017 
 4. Ian Glover & Peter Grant, Digital Communications, 3rd edition, Pearson 2009. 
 Back to Semester- III
- ## Page 54
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1921,7 +1868,6 @@ Reference Books:
 2. Norman Lewis - Word Power Made Easy, Goyal Publishers 
 3. Cambridge Advanced Learner's Dictionary, Cambridge University Press. 
 Back to Semester- III
- ## Page 55
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1964,7 +1910,6 @@ Transient response of R -C and R -L networks (with Initial conditions) Concept o
 Frequency response characteristics, Polar Plots-C, R-L circuits as differentiator and integrator models, time and 
 frequency domain responses R-C, R-L circuits as Low pass and high pass filters[ Text 2: Chapter 5, Text 1: Chapter 
 8, 9, 10] 
- ## Page 56
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1989,7 +1934,6 @@ edition ,2013
 2. V. K. Aatre, ―Network Theory and Filter Design, 3rd edition, New Age International Private 
 Limited, 2014 
   Back to Semester- III 
- ## Page 57
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2032,7 +1976,6 @@ MOSFET circuits at DC continued. Biasing in MOS amplifier circuits: By fixing VG
 gate feedback resistor; Constant current source biasing, MOSFET as a switch Large - signal operation, operation 
 as a linear amplifier and Numericals. 
 (T1:4.3) 
- ## Page 58
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2070,7 +2013,6 @@ Education, 2003
 6. J. Millman& A. Grabel, "Microelectronics"-2nd edition, McGraw Hill, 2017 
 7. Behzad Razavi,―Fundamentals of Microelectronics, 2nd edition Wiley; 2013 
 Back to Semester- III
- ## Page 59
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2107,7 +2049,6 @@ Negative-Edge Triggered D Flip-Flop; Characteristic Equations
 Registers and Counters, Binary Ripple Counters, Synchronous Binary counters, Ring and Johnson Counters, 
 Design of a Synchronous counters, Design of a Synchronous Mod -n Counter using clocked JK Flip -Flops Design 
 of a Synchronous Mod-n Counter using clocked D, T or SR Flip-Flops. 
-  ## Page 60
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2134,7 +2075,6 @@ Text Books
 3. R.D. Sudhaker Samuel, Logic Design, Pearson Education ,2010 
 4. R P Jain, Modern Digital Electronics ,4th edition, McGraw Hill Education, 2009 
 Back to Semester- III
- ## Page 61
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2176,7 +2116,6 @@ Reference Books:
 2. Ganesh Rao and SatishTunga, SignalsandSystems1st edition, Cengage India, 2017 
 3. M.J.Roberts, Fundamentals of Signals and Systems 2nd edition, McGraw Hill Education, 2017 
 Back to Semester- III
- ## Page 62
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2212,7 +2151,6 @@ the results on a general purposePCB.
 1. K.A. Krishnamurthy―Digital lab primer‖, Pearson Education Asia Publications, 2003. 
 2. A.P. Malvino, ―Electronic Principles 7th edition, McGraw Hill Education, 2017 
   Back to Semester- III 
- ## Page 63
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2254,7 +2192,6 @@ data sheets.
 5. KLETECH Electronics and Communication Engineering Department 2023 -24 Analog Electronics Lab 
 manual. 
 Back to Semester- III 
- ## Page 64
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2292,7 +2229,6 @@ Data Types and Time delays in 8051C, I/O Programming, Logic operations, Data Con
 Accessing code ROM space, Data serialization. 
   Chapter 6: Counter/Timer Programming in 8051 
 Programming 8051 Timers, Programming Timer0 and Timer1 in 8051C 
-  ## Page 65
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2318,7 +2254,6 @@ Mazidi', Pearson Education, 2003
   Reference Books: 
 1. "Programming and Customizing the 8051 Microcontroller ", by 'Predko', TMH. 
   Back to Semester- III
- ## Page 66
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2364,7 +2299,6 @@ array.
 10. Write a C program to Find out addition of two matrices. 
 Text Books: Programming in ANSI C, E Balagurusamy. 
 Back to Semester- III
- ## Page 67
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2401,7 +2335,6 @@ properties.
 Fourier representation of non-periodic signals, Magnitude and phase spectra. Properties of Fourier Transform: 
 Linearity, Symmetry Properties, Time shift, Frequency Shift, Scaling, Time differential differentiation coefficients, 
 Time domain Convolution, Multiplication Theorem, Parseval's theorem and Examples on these properties. 
-  ## Page 68
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2428,7 +2361,6 @@ House, NewDelhi, 2012
 2. Stanley J Farlow, Partial differential equations for Scientists and Engineers, Dover publications, INC, 
 New York, 1993 
   Back to Semester- IV 
- ## Page 69
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2465,7 +2397,6 @@ New Delhi, 2018
 7. Cambridge Advanced Learner's Dictionary, Cambridge University Press. 
 8. Kaplan's GRE guide 
 Back to Semester- IV 
- ## Page 70
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2505,7 +2436,6 @@ Magnetic Materials
 Chapter 6: Maxwell's Equations 
 Introduction, Faraday's Law, Transformer and Motional Electromotive Forces, Displacement Current, Maxwell's 
 Equations in Final Forms, Time-Varying Potentials, Time-Harmonic Fields. 
-  ## Page 71
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2524,7 +2454,6 @@ Incidence, Reflection of a Plane Wave at Oblique Incidence.
 2. William Hayt, Jr. John A. Buck, Engineering Electromagnetics, 8th edition, TMH, 2012 
 3. Kraus, John D. Electromagnetics. United Kingdom, McGraw-Hill, 1992. 
   Back to Semester- IV 
- ## Page 72
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2559,7 +2488,6 @@ New Delhi, 2018
 7. Cambridge Advanced Learner's Dictionary, Cambridge University Press. 
 8. Kaplan's GRE guide 
   Back to Semester- IV 
-  ## Page 73
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2599,7 +2527,6 @@ Magnetic Materials
   Chapter 6: Maxwell's Equations 
 Introduction, Faraday's Law, Transformer and Motional Electromotive Forces, Displacement Current, Maxwell's 
 Equations in Final Forms, Time-Varying Potentials, Time-Harmonic Fields. 
-  ## Page 74
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2618,7 +2545,6 @@ Incidence, Reflection of a Plane Wave at Oblique Incidence.
 2. William Hayt, Jr. John A. Buck, Engineering Electromagnetics, 8th edition, TMH, 2012 
 3. Kraus, John D. Electromagnetics. United Kingdom, McGraw-Hill, 1992. 
   Back to Semester- IV 
- ## Page 75
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2665,7 +2591,6 @@ Text Books
 2. Phillip E. Allen, Douglas R. Holberg, CMOS Analog Circuit Design, Oxford University Press, USA, 2010 
 3. Ramakant A. Gayakwad, Op - Amps and Linear Integrated Circuits, 4th Edition 
 4. 
- ## Page 76
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2681,7 +2606,6 @@ McGraw Hill 2014
 3. David A. Bell, Operational Amplifiers and Linear IC's, 3rd ed., Oxford University Press, 2011 
 4. B. Razavi, Fundamentals of Microelectronics, 2nd edition. 
   Back to Semester- IV 
- ## Page 77
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2726,7 +2650,6 @@ Root Locus Technique: The Root Locus Concept - Construction of Root Loci.
 Chapter No. 5. Frequency Response Analysis 
 Introduction, Bode Diagrams -Determination of Frequency Domain Specifications and Transfer Function from 
 The Bode Diagram-Phase Margin and Gain Margin-Stability Analysis from Bode Plots. 
-  ## Page 78
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2743,7 +2666,6 @@ Text Books
 1. Katsuhiko Ogata, Modern Control Engineering, 5th edition, Pearson education India Pvt. Ltd, 2015, 
 2. Richord C Dorf and Robert H. Bishop, Modern Control Systems, 13th edition, Pearson; 2016 
   Back to Semester- IV 
- ## Page 79
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2785,7 +2707,6 @@ ARM interfacing techniques and programming: Timers, RTC, UART, ADC, DAC, I2C and
 Chapter No. 8 Architectural support for high level languages 
 Abstraction in software design, data types, floating point data types, The ARM floating point architecture, use 
 of memory, run time environment. 
-  ## Page 80
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2804,7 +2725,6 @@ edition, 2014
 1. ARM system Developer 's Guide- Hard bound, Publication date:2004 Imprint: MORGAN KAUFFMAN 
 2. User manual onLPC21XX. 
   Back to Semester- IV 
- ## Page 81
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2846,7 +2766,6 @@ McGraw Hill Education 2017.
 4. Charles. H. Roth, Jr.,Lizy Kurian John―Digital System Design using VHDL, Thomson, 
 2ndEdition, 2008. 
 Back to Semester- IV 
- ## Page 82
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2886,7 +2805,6 @@ Time response using Quanser Qube
 determine the stability of the system using Bode Plots. 
 9. Compensation Techniques To determine suitable compensator for the given system (PD, PI, PID 
 Controller using Quanser Qube). 
- ## Page 83
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2908,7 +2826,6 @@ Hall, 1985
 2. David A. Bell, Operational Amplifiers and LinearICs.; Third edition, Oxford University Press, 2011 
 3. Sedra and Smith ― Microelectronics Circuits, Sixth edition, Oxford University, 2013 
   Back to Semester- IV 
- ## Page 84
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2949,7 +2866,6 @@ generation.
 Apply suitable machine dependent optimization technique and analyze for memory and 
 time consumed 
 5. Write a C program to test working of LEDs and seven segment using LPC2148. 
-  ## Page 85
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2982,7 +2898,6 @@ Cenage Learning; 3rd edition 2007
 1. ―ARM system Developer 's Guide- Hardbound, Publication date:2004 Imprint: MORGAN KAUFFMAN 
 2. User manual onLPC21XX. 
 Back to Semester- IV 
- ## Page 86
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3014,7 +2929,6 @@ Applications
 Edition. 
 2. Aaron M. Tenenbaum, Data Structures Using C 
 Back to Semester- IV 
- ## Page 87
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3057,7 +2971,6 @@ handling functions,
 structures union and bit-
 files. 
 2. 00 0.00 
- ## Page 88
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3095,7 +3008,6 @@ Marks /
 Experiment 
 Correlation of Experiment with the 
 theory 
- ## Page 89
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3133,7 +3045,6 @@ different types of Linked
 lists 
 2. 00 4.00 
  Learning Outcomes: 4 
- ## Page 90
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3168,7 +3079,6 @@ The students should be able to:
  Write modular program on perform the following sorting 
 techniques 
 5 
- ## Page 91
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3204,7 +3114,6 @@ Course Technology, Oct 2009.
 7. Kernighan and Ritchie, The ANSI C Programming Language, 2 ed., PHI. 
 8. Robert Kruse, Data Structures and Program Design in C, 2 ed., Pearson 
 Back to Semester- IV 
- ## Page 92
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3245,7 +3154,6 @@ Timing Paths, Time Borrowing, Basic Concepts of Setup and Hold time, Basic Conce
 violation, Practical examples for Setup and Hold time/violation 
 Text Books 
 1. John P . Uyemura, Introduction to VLSI Circuits and Systems, 1, Wiley, 2007 
- ## Page 93
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3265,7 +3173,6 @@ Integrated Circuits-McGraw-Hill Professional (2006)
 3. Sung-Mo Kang & Yusuf Leblebici, CMOS Digital Integrated Circuits: Analysis and Design, 3, Tata 
 McGraw, 2007 
 Back to Semester- V 
- ## Page 94
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3309,7 +3216,6 @@ Reference Books:
 3. Communication Systems by Harold. P .E, Stern Samy. A. Mahmond, Pearson Education, 2004. 
 4. Electronic communication systems, Kennedy and Davis, TMH, Edn. 6, 2012 
 Back to Semester- V 
- ## Page 95
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3348,7 +3254,6 @@ PHI, New Delhi, 2007
 Reference Books: 
 1. Oppenheim & Schaffer, Discrete Time Signal Processing, 5th edition, PHI, New Delhi, 2000 
 Back to Semester- V
- ## Page 96
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3394,7 +3299,6 @@ Limited, 2017
 Reference Books:1. Dhananjay Dhamdhere, Operating Systems a Concept Based Approach, 3rd edition, 
 McGraw-HillEducation, 2017 
 Back to Semester- V
- ## Page 97
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3426,7 +3330,6 @@ Experiment / Job Details
 1 Design and implement an application using a Real-Time Operating System (RTOS) to address the 
 specific requirements outlined in the given problem statement. 
 Back to Semester- V
- ## Page 98
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3472,7 +3375,6 @@ representation: Neural Network Architecture (Activation units, Layers), Neural N
 propagation, and Cost function, Back propagation algorithm, Multi-class classification, Steps to train a neural 
 network, Applications of Neural Networks, Introduction to Deep Learning (Motivation, Overview), Convolution 
 Neural Networks (CNN) (Architecture, terminologies, Evolution and Modelling). 
-  ## Page 99
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3494,7 +3396,6 @@ Reference Books:
 1. Trevor Hastie, Robert Tibshirani, Jerome Friedman, The Elements of Statistical Learning: Data 
 Mining Inference and Prediction, 2, Springer, 2009 
   Back to Semester- V
- ## Page 100
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3527,7 +3428,6 @@ Teaching Hours: -- Examination Duration:2 Hrs
 2. Neil Weste and K. Eshragian, Principles of CMOS VLSI Design: A System Perspective, 2nd 
 edition, Pearson Education (Asia) Ptv. Ltd.,2000. 
 Back to Semester- V
- ## Page 101
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3562,7 +3462,6 @@ FPGA, CPLD, Assembly/Hi
 ghlevel /HDL) 
 Control System 
 Output 
- ## Page 102
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3583,7 +3482,6 @@ Time plan: Effort to do the project should be between 120-150 Hrs per team, whic
 study of an individual member (80-100 Hrs) and team work (40-50hrs). 
 Learning overhead should be 20-25% of total project development time. 
 Back to Semester- V
- ## Page 103
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3616,7 +3514,6 @@ Reference Books:
 5. Cambridge Advanced Learner's Dictionary, Cambridge University Press. 
 6. Kaplan's GRE guide 
 Back to Semester- V
- ## Page 104
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3649,7 +3546,6 @@ Reference Books:
 1. Verbal and Non - Verbal Reasoning - Dr. Ravi Chopra, MacMillan India 
 2. Lateral Thinking - Dr. Edward De Bono, Penguin Books, New Delhi 
   Back to Semester- VI 
- ## Page 105
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3681,7 +3577,6 @@ Reference Books:
 4. John Maxwell - The 17 Essential Qualities of a Team Player, HarperCollins Leadership 
 5. Robin Ryan - 60 Seconds and You're Hired! - Penguin Books 
 Back to Semester- VI
- ## Page 106
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3728,7 +3623,6 @@ Experiments List
 ▪ CAN bus communication for ECU networking 
 ▪ Embedded C code for CAN cluster development. (Event based transmission) 
 ▪ CAN node prioritization 
- ## Page 107
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3765,7 +3659,6 @@ Reference Books:
 2001 
 4. Nicholas Navet, Automotive Embedded System Handbook, 2009 
 Back to Semester- VI
- ## Page 108
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3805,7 +3698,6 @@ Text Books:
 2. Larry L. Peterson and Bruce S. Davie, Computer Networks A Systems Approach, 4th Edition, Elsevier, 
 2007 
 Back to Semester- VI
- ## Page 109
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3846,7 +3738,6 @@ Average (ARIMA)
 Autoregressive Models for Generative AI: 
 PixelCNN - Overview, Architecture, Training, Applications 
 WaveNet - Overview, Architecture, Training, Applications 
-  ## Page 110
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3875,7 +3766,6 @@ Continual Learning and Transfer Learning, Privacy-Preserving Generative Models, 
 Bias and fairness in generative AI models, Privacy concerns and data protection in generative AI applications, 
 Responsible use of generative models in society 
 Back to Semester- VI
- ## Page 111
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3910,7 +3800,6 @@ Reference Books:
 1. Cisco networking academy, https://www.netacad.com/ 
 2. Juniper networking academy, https://learningportal.juniper.net/ 
   Back to Semester- VI
- ## Page 112
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3949,7 +3838,6 @@ Every Project batch will be allocated with one faculty.
   Details of the project batches: 
 1. Number of faculty members: 64 
 2. Number of students: 278 
-  ## Page 113
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3976,7 +3864,6 @@ should help towards its successful completion as per the predefined standards.
 The format for report writing should be downloaded from ftp://10.3.0.3/minorprojects 
 The report needs to be shown to guide and committee for each review. 
   Back to Semester- VI
- ## Page 114
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4013,7 +3900,6 @@ Text Books:
 Reference Books: 
 1. Baker, Li, Boyce, "CMOS: Circuit Design, Layout and Simulation", Prentice Hall of India, 2000 
 Back to List of Program Electives 
- ## Page 115
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4050,7 +3936,6 @@ Timing Closure, Synthesis), Static Timing Analysis, Clock Skew.
 3. Principles of VLSI RTL Design: A Practical Guide by Sapan Garg, 2011. 
   Tools: Questa Sim, NC Verilog, NC Sim, CVER + GTKWave, VCSMX, Modelsim for Verilog 
 Back to List of Program Electives 
- ## Page 116
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4091,7 +3976,6 @@ A brief history about OT, Common challenges in OT Security, device level securit
 Chapter No.8. IoT in Industry 
 Manufacturing: Introduction to connected manufacturing, an architecture for the connected factory, connected 
 factory security. 
- ## Page 117
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4113,7 +3997,6 @@ Communications", ISBN: 978-1-118- 47347-4, Willy Publications
 3. Bernd Scholz-Reiter, Florian Michahelles, "Architecting the Internet of Things", ISBN 
 978-3-642-19156-5 e-ISBN 978-3-642-19157-2, Springer 
   Back to List of Program Electives 
- ## Page 118
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4153,7 +4036,6 @@ Unit III
 Burst and random error correcting codes, cyclic codes and convolutional codes for bursts error correction, Reed 
 soloman codes, Cyclic redundancy codes, Golay codes, shortened cyclic codes, Burst error correcting codes. 
 Burst and Random Error correcting codes. 
- ## Page 119
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4170,7 +4052,6 @@ Reference Books:
 2. Glover and Grant, Digital Communications, 2, Pearson, 2008 
 3. D Ganesh Rao, K N Haribhat, Digital Communications, Sanguine, 2009 
 Back to List of Program Electives 
- ## Page 120
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4212,7 +4093,6 @@ Reference Books:
 1. Deep Learning, MIT Press book, Goodfellow, Bengio, and Courville's 
 2. Beginning Android, by Wei-Meng Lee , Publisher: Wrox , O'Reilly Media 
 Back to List of Program Electives 
- ## Page 121
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4239,7 +4119,6 @@ architecture.
 9. Design an ML/DL model for a given problem targeted at Android devices with different 
 architectures based on provided specifications. 
 Back to List of Program Electives 
- ## Page 122
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4283,7 +4162,6 @@ Chapter 5: Advanced Multicore topics - Introduction/Overview
 Multicore timing analysis - Timing simulation: Why it is needed? - WCET (Worst Case Execution Time) analysis 
 - Schedulability analysis - Additional challenges in Multicore - Tools used in automotive: Timing architect, 
 ChronSIM, Sym TA/S- Deterministic behaviour - Logical Execution Time (LET) 
-  ## Page 123
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4297,7 +4175,6 @@ Reference Books:
 2. Highly Recommended for Embedded system and Real Time basics -Programming Embedded Systems 
 with C and GNU Development Tools - Michael Barr 
   Back to List of Program Electives
- ## Page 124
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4340,7 +4217,6 @@ Reference Books:
 1. Lippman S B, Lajorie J, Moo B E, C++ Primer, 5ed, Addison Wesley, 2013. 
 2. Herbert Schildt: The Complete Reference C++, 4th Edition, Tata McGraw Hill 
   Back to List of Program Electives
- ## Page 125
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4384,7 +4260,6 @@ professional technical reference, 2002.
 3. Christensen, Mads G. Introduction to audio processing. Springer, 2019. 
 4. Multimodal Machine Learning -CVPR 2022 Tutorial by Carnegie Mellon University 
 Back to List of Program Electives
- ## Page 126
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4427,7 +4302,6 @@ Reference Books:
 1. M. Gopal, Digital Control and State variable methods, TATA McGraw Hill Company 
 2. Benjamin C. Kuo, Digital Control Systems, Oxford University Press, USA, 1995 
 Back to List of Program Electives
- ## Page 127
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4467,7 +4341,6 @@ References
 1. Behrouz A. Forouzan, 1. Data Communications and Networking, 4th Edition, Tata McGraw, 2006 
 2. Larry L. Peterson and Bruce S. Davie, Computer Networks A Systems Approach, : 4th Edition, Elsevier, 2007 
 Back to Semester- VII
- ## Page 128
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4503,7 +4376,6 @@ and reliability, risks, safety & liability in engineering. Bhopal Gas Tragedy, T
 Designs 
 Chapter No. 9 Ethical perspectives of professional bodies :Ethical perspectives of professional bodies- IEEE, 
 ASME, NSPE and ABET, ASCE etc. 
-  ## Page 129
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4527,7 +4399,6 @@ Text Book (List of books as mentioned in the approved syllabus)
 1. Durga Das Basu, "Introduction to the Constitution of India", Prentice-hall EEE, 2001 
 2. Mike Martin and Ronald Schinzinger, "Ethics in Engineering", Tata McGraw-Hill Publications. 
   Back to Semester- VII
- ## Page 130
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4567,7 +4438,6 @@ Every Project batch will be allocated with one faculty.
 The primary responsibility of the guide is to help students to understand the meaning and need of various 
 stages in the implementation of the project. At every stage of the project development, guide should help 
 towards its successful completion as per the predefined standards. 
-  ## Page 131
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4596,7 +4466,6 @@ Evaluation Scheme
 • Project shall be reviewed and evaluated by the concerned Guide for 50% of the marks. 
 • Project shall be evaluated by the review committee for 50% of the marks. 
   Back to Semester- VII
- ## Page 132
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4636,7 +4505,6 @@ Reference Books
 language features - Springer, 2012 
 Tools: Questa Sim, NC Verilog, NC Sim, CVER + GTKWave, VCSMX, Modelsim for Verilog 
 Back to List of Program Electives 
- ## Page 133
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4678,7 +4546,6 @@ Reference Books:
 3. L. R. Rabiner, B. H. Jhuang and B. Yegnanarayana, "Fundamentals of speech recognition", Pearson Education, 
 2009. 
 Back to List of Program Electives
- ## Page 134
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4718,7 +4585,6 @@ Education, 2004
 2. K R Rao, Zoran S Bojkovic, Dragord A Milovanvic, Pearson education, "Multimedia communication 
 systems: Techniques, Standards, & Networks", Second Indian reprint, 2004. 
 Back to List of Program Electives
- ## Page 135
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4753,7 +4619,6 @@ References
 2. CMOS IC layout - Dan Clien 
 3. IC Layout Basics - Chris saint and Judy saint 
   Back to List of Program Electives 
- ## Page 136
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4794,7 +4659,6 @@ Prime Time, 2nd edition, 2001.
 Springer Science Business Media, LLC 2009 
 Tools: Cadence Innovous, Encounter 
 Back to List of Program Electives
- ## Page 137
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4840,7 +4704,6 @@ References
 2. E.C.Jordan, Electromagnetic waves & radiating systems, second edition, PHI publication. 
 3. K.D.Prasad, "Antenna and wave propagation" first edition, 1990. 
 4. C.A.Balnis "Antenna theory and analysis and design", third edition, 1999. 
-  ## Page 138
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4883,7 +4746,6 @@ Protocol data unit router, Diagnostic log and trace unit, COMM manager.
 Text Book (List of books as mentioned in the approved syllabus) 
       1. Ronald K. Jurgen, Infotainment systems, 2007, SAE International, 2007 
 Back to List of Program Electives 
- ## Page 139
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4926,7 +4788,6 @@ CRC Press.
 3. The Humane Interface: New Directions for Designing Interactive Systems. J. Raskin, Addison-Wesley. 
 4. Tutorials for tools/ libraries: Blender, GIMP, GTK, QT, unity, OpenGL 
 Back to List of Program Electives
- ## Page 140
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4972,7 +4833,6 @@ Hall of India, 2004
 2. Vijay K Garg, IS_95 CDMA and cdma 2000, Pearson publication pvt. Ltd, 2004 
 3. Xiaodong Wang and Vincent Poor, wireless Communicating system: Advanced Techniques for signal 
 Reception, Pearson publication pvt. Ltd, 2004 
- ## Page 141
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -5012,7 +4872,6 @@ Generation NodeBs) and NG-RAN interfaces.
 • Implementing RLC Layer Functionality for Data Segmentation and Reassembly 
 • Developing PDCP Layer for Header Compression and Encryption 
 • Establishing RRC Connection Setup and Management 
-  ## Page 142
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -5057,7 +4916,6 @@ Reference Books:
 2. "Software Defined Networks: A Comprehensive Approach" by Paul Goransson, Chuck Black 
 (Morgan Kaufmann) 
 Back to List of Program Electives
- ## Page 143
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -5101,7 +4959,6 @@ Introduction to STPA, SOTIF, Integration with ISO
   Text Books 
 1. "Engineering Ethics and Design for Product Safety", 1st Edition, ISBN: 9781260460537, McGraw 
 Hill. 
- ## Page 144
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -5123,7 +4980,6 @@ Hommes, Qi D, National Highway Traffic Safety Administration
 "Functional Safety: A Straightforward Guide to Applying IEC 61508 and Related Standards", David J. 
 Smith and Kenneth G. L. Simpson. 
 Back to List of Program Electives 
- ## Page 145
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -5171,7 +5027,6 @@ Reference Books
 3. Bernard S Matisoff, Handbook of Electronics Packaging Design and Engineering, Springer, 2012. 
 4. Rao R Tummala, Fundamentals of Microsystems Packaging, McGraw Hill, 2001. 
 Back to List of Program Electives
- ## Page 146
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -5215,7 +5070,6 @@ Reference Books:
 2. Wang, Laung-Terng. VLSI Test Principles and Architectures. Morgan Kaufmann, 2006. 
 3. Huhn, Sebastian. Design for Testability, Debug and Reliability. Springer Nature, 2021. 
 Back to List of Program Electives
- ## Page 147
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -5260,7 +5114,6 @@ References:
 Compatibility. CRC Press, 2018. 
 4. Russ, Samuel. Signal Integrity. Springer Nature, 2022. 
 Back to List of Program Electives 
- ## Page 148
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -5306,7 +5159,6 @@ Reference books:
 1. Lippman S B, Lajorie J, Moo B E, C++ Primer, 5ed, Addison Wesley, 2013. 
 2. Herbert Schildt: The Complete Reference C++, 4th Edition, Tata McGraw Hill 
 Back to List of Program Electives 
- ## Page 149
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -5350,7 +5202,6 @@ Hierarchical classification, sensor management techniques 04 Hrs.
 Textbook: 
 1. H.B.Mitchell, , Multi Sensor Data Fusion, An Introduction, II, springer, 2007 
 Back to List of Program Electives 
- ## Page 150
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -5387,7 +5238,6 @@ Lectures:
 Lab: 
 • Implementation of compressed scan chains using industry tools 
 • Analysis of test pattern count reduction 
-  ## Page 151
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -5422,7 +5272,6 @@ Lab:
 Assignment: 
 • Design of a memory BIST solution for an embedded SRAM array 
   Week 5: Boundary Scan and IEEE 1149.x Standards 
- ## Page 152
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -5457,7 +5306,6 @@ Week 7: Midterm Project Week
 Project: 
 • Comprehensive DFT implementation for a medium-complexity ASIC 
 • Test strategy documentation and presentation 
- ## Page 153
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -5493,7 +5341,6 @@ Assignment:
 Week 10: DFT for Advanced SoCs and Multi-Core Designs 
 Lectures: 
 • Hierarchical test strategies 
- ## Page 154
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -5531,7 +5378,6 @@ V. Agrawal
 Referenc Tools: 
 • Mentor Graphics Tessent 
 Back to List of Program Electives 
- ## Page 155
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -5574,7 +5420,6 @@ Course Title: Phase-locked loops(Swayam) Course Code:22EECE432
 L-T-P: 0-0-3 Credits:3 Contact Hours:6 hrs/week 
 ISA Marks:100 ESA Marks: Total Marks:100 
 Teaching Hours:42Hrs Examination Duration:3Hrs 
- ## Page 156
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -5618,7 +5463,6 @@ L-T-P: 0-0-3 Credits:3 Contact Hours:6 hrs/week
 ISA Marks:100 ESA Marks: Total Marks:100 
 Teaching Hours:42Hrs Examination Duration:3Hrs 
 Back to List of Program Electives
- ## Page 157
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -5660,7 +5504,6 @@ Course Title: Computer Vision (Swayam) Course Code:25EECE443
 L-T-P: 0-0-3 Credits:3 Contact Hours:6 hrs/week 
 ISA Marks:100 ESA Marks: Total Marks:100 
 Teaching Hours:42Hrs Examination Duration:3Hrs 
- ## Page 158
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -5696,7 +5539,6 @@ L-T-P: 0-0-3 Credits:3 Contact Hours:6 hrs/week
 ISA Marks:100 ESA Marks: Total Marks:100 
 Teaching Hours:42Hrs Examination Duration:3Hrs 
 Back to List of Program Electives 
- ## Page 159
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -5739,7 +5581,6 @@ stages in the implementation of the project. At every stage of the project devel
 towards its successful completion as per the predefined standards. 
   How student should carry out a project: 
 • Define the problem. 
- ## Page 160
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -5767,7 +5608,6 @@ Evaluation Scheme
 • Project shall be reviewed and evaluated by the concerned Guide for 50% of the marks. 
 • Project shall be evaluated by the review committee for 50% of the marks. 
   Back to Semester VIII 
- ## Page 161
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -5796,7 +5636,6 @@ Evaluation parameters for Internship Training
 ▪ Conclusions and discussion 
 ▪ Presentation skills 
   Back to Semester VIII 
- ## Page 162
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -5825,7 +5664,6 @@ Evaluation parameters for Internship Project
 ▪ Conclusions and discussion 
 ▪ Presentation skills 
   Back to Semester VIII 
- ## Page 163
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -5834,4 +5672,3 @@ FMCD2005
 Curriculum Content- Course wise Year: 2022-26 
       KLE Tech Confidential CONTROLLED COPY 
                                                        163
-   

@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: KLE-Tech-Statutes"
+title: "KLE Tech Statutes"
 category: "miscellaneous"
 subcategory: ""
 document_type: "minutes"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["board", "chancellor", "council", "document", "kle", "shall", "statutes", "tech", "university"]
 aliases: ["HOD", "Head of Department", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "32"
 ---
-# PDF Document: KLE-Tech-Statutes
- **PDF Source:** https://www.kletech.ac.in/pdf/KLE-Tech-Statutes.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/KLE-Tech-Statutes.pdf
  i 
   UNIVERSITY NOTIFICATION 
   Volume No. 1 Issue No. 1 2015 
@@ -23,7 +23,6 @@ last_modified: "2026-07-28"
 (Established under Karnataka Act No.22, 2013) 
 Vidyanagar, Hubballi - 580031 
 www.kletech.ac.in 
- ## Page 2
  ii 
   Contents 
 Sl.No Description Page 
@@ -60,7 +59,6 @@ of higher learning, industries and other organizations
 17 The Academic Council 13 
 18 The Research Council 15 
 19 The Finance Council 16 
- ## Page 3
  iii 
   Sl.No Description Page 
 20 The Estates' Council 17 
@@ -95,14 +93,12 @@ CHAPTER - VI- MISCELLANEOUS
 45 Investment 26 
 46 Accounts 26 
 47 Amendment 27 
- ## Page 4
  iv 
   48 Dissolution 27 
 49 Irrevocability 27 
 50 Beneficiary 27 
 51 Utilization 27 
 52 Appointment of Auditors 27 
-  ## Page 5
  1 
   UNIVERSITY NOTIFICATION 
   No. KLETECH/STATUTES/2015/1 Date: July 25, 2015 
@@ -147,7 +143,6 @@ University;
 University; 
   vi "Campus" means a campus(es) established and 
 maintained by the University; 
-  ## Page 6
  2 
     vii "Chancellor", "Pro Chancellor", "Vice-
 Chancellor", "Pro Vice-Chancellor", 
@@ -189,7 +184,6 @@ form of the pronoun in its intent;
   xvii "Regulations" means the Regulations of the 
 University; 
     xviii "Society" means the Karnatak Lingayat 
- ## Page 7
  3 
   Education Society Belagavi (KLES); 
   xix "Sponsoring Body" means the Karnatak 
@@ -229,7 +223,6 @@ to interpretation and implementation of
 Statutes, Regulations and other legal documents 
 of the University, the Chancellor's decision 
 shall be final and binding on the University. 
- ## Page 8
  4 
   The Pro Chancellor 
   6 6.1 In exercise of the powers conferred by Section-
@@ -276,7 +269,6 @@ the Sponsoring Body.
     7. 6 The Vice-Chancellor shall have such powers 
 and duties provided under Section-17 of the 
 Act and in addition: 
- ## Page 9
  5 
     7. 6.1 The Vice-Chancellor shall exercise all powers 
 necessary for the maintenance of discipline in 
@@ -323,7 +315,6 @@ be renewable for further terms
 . 
     8. 5 The Pro Vice-Chancellor shall assist the Vice-
 Chancellor and take up such responsibilities as 
- ## Page 10
  6 
   may be assigned by the Vice-Chancellor from 
 time to time. 
@@ -371,7 +362,6 @@ e. However, the Chancellor shall have the
 authority to appoint a person who is 
 fulfilling requirements (a & b) above. 
     10. 2 Not withstanding anything contained in any 
- ## Page 11
  7 
   other provisions of the Act and these Statutes, 
 the FIRST Registrar shall be appointed by the 
@@ -414,7 +404,6 @@ writing shall represent the University in legal
 proceedings, sign pleadings and other 
 documents and accept processes on behalf of 
 the University in such legal proceedings. 
- ## Page 12
  8 
   The Finance Officer 
   11 11.1 
@@ -461,7 +450,6 @@ approval of the Board.
 Professor, whose terms and conditions for the 
 appointment shall be those contained in the 
 contract of appointment. 
-  ## Page 13
  9 
     12. 2.2 The term of appointment of the Controller of 
 Examinations shall be THREE years which 
@@ -515,7 +503,6 @@ University not otherwise provided by the Act,
 the Statutes and the Regulations. 
     15. 3 The Board shall have the powers to review 
 decisions of other Authorities if they are not in 
- ## Page 14
  10 
   conformity with the provisions of the Act. 
     15. 4 The Board shall consist of the following 
@@ -563,7 +550,6 @@ and the provisions therein shall be final and
 binding. 
   Creation of entities 15.14 The Board may lay down suitable Regulations 
 and/or Guidelines for establishing entities 
- ## Page 15
  11 
   including Special Purpose Vehicles (SPV), 
 Companies under section-25 of the Companies 
@@ -623,7 +609,6 @@ Regulations and/or Guidelines regarding
 exploitation, and sharing of benefits between 
 the University and other stakeholders, with the 
 approval of the Board. 
-  ## Page 16
  12 
   Furtherance of 
 objects of University 
@@ -683,7 +668,6 @@ under Section-47 of the Act.
 members of the Executive Council shall be 
 THREE years. 
     16. 5. Under extenuating circumstances, the Board 
- ## Page 17
  13 
   may reconstitute the Executive Council before 
 the expiry of its term. 
@@ -729,7 +713,6 @@ Chancellor- Member.
   viii Student members one each at the level of UG, 
 PG, and Ph.D., invited for select meetings, of 
 whom at least one shall be a woman- Invitees. 
-  ## Page 18
  14 
     17. 3 Notwithstanding anything contained in any 
 other provisions of the Act and these Statutes, 
@@ -775,7 +758,6 @@ fellowships, prizes and medals, and to frame
 Regulations for the award of the same. 
   vi To advise the Executive Council on 
 suggestions(s) pertaining to academic affairs 
- ## Page 19
  15 
   made by it. 
   vii To perform such other functions as may be 
@@ -821,7 +803,6 @@ under Section-47 of the Act.
     18. 4 The normal tenure of Office of the nominated 
 members of the Research Council shall be 
 THREE years. 
-  ## Page 20
  16 
     18. 5 Under extenuating circumstances, the Board 
 may reconstitute the Research Council before 
@@ -866,7 +847,6 @@ following additional members:
 Member(s) 
   19. 3 Notwithstanding anything contained in any 
 other provisions of the Act and these Statutes, 
- ## Page 21
  17 
   the first Finance Council shall be constituted by 
 the Chancellor, as prescribed under Section-47 
@@ -910,7 +890,6 @@ Member
 5. Professor in-charge of Civil works - 
 Member 
 6. University Architect -Member 
- ## Page 22
  18 
   7. Registrar - Member Secretary 
 8. One representative of the user 
@@ -960,7 +939,6 @@ and functions within the delegated authority
 and terms of reference, and automatically get 
 dissolved on completion of their tenures or by a 
 specific order of dissolution by the Vice-
- ## Page 23
  19 
   Chancellor. 
   CHAPTER - V 
@@ -1018,7 +996,6 @@ Statutes
  The Board may make new or additional 
 Statutes or amend or repeal the Statutes as 
 prescribed under Section-35 of the Act. 
-  ## Page 24
  20 
   Number of seats in 
 different 
@@ -1080,7 +1057,6 @@ studentships, free-
  The Board shall have powers to institute 
 fellowships, studentships, free-ships, 
 scholarships, medals, awards and prizes. The 
- ## Page 25
  21 
   ships, scholarships, 
 medals and prizes 
@@ -1136,7 +1112,6 @@ to the various positions, shall be made by the
 Board on the recommendation of the Executive 
 Council through Selection Committees 
 constituted as follows: 
-  ## Page 26
  22 
     35. 5 For Professor / Associate Professor and 
 equivalent positions: 
@@ -1177,7 +1152,6 @@ Member;
     35. 9 For any other positions not covered by the 
 above, The Vice-Chancellor at his discretion 
 may constitute such Selection Committees as 
- ## Page 27
  23 
   considered appropriate by him. 
     35. 10 The Chairperson of the Selection Committee 
@@ -1221,7 +1195,6 @@ the Board.
     35. 19 The University may make joint appointments 
 between different faculties and / or adjunct 
 faculty or distinguished faculty or equivalent, 
- ## Page 28
  24 
   keeping in view the needs of the University as 
 considered necessary. The Board shall frame 
@@ -1272,7 +1245,6 @@ employee
 Committee for disciplinary action on a case to 
 case basis. The Committee may resolve the 
 issues, with its recommendation of action to the 
- ## Page 29
  25 
   Executive Council. 
   37. 2 Appropriate Regulations and/or Guidelines 
@@ -1318,7 +1290,6 @@ binding on all disputes.
   Right to appeal 39 The aggrieved employee or a student shall have 
 the right to appeal to the Vice-Chancellor about 
 the disciplinary action recommended by the 
- ## Page 30
  26 
   Committee. 
 Protection of action 
@@ -1382,7 +1353,6 @@ accounts shall be duly audited by a qualified
 Chartered Accountant. Every year, the accounts 
 shall be closed by 31 
 st March. 
-  ## Page 31
  27 
   Amendment 
   47 No amendments to the KLE Technological 
@@ -1438,12 +1408,10 @@ through the Finance Council and Executive
 Council for approval by the Board sufficiently 
 before November 30 of each year, for the 
 onward transmission to the Visitor, Pro Visitor 
- ## Page 32
  28 
   and the Government on or before December 31 
 of each year. 
     52. 4 The Chancellor may consider appointing 
 Internal Auditor(s) to conduct periodical and / 
 or concurrent audit and to report the findings to 
-the Finance Council. 
-  
+the Finance Council.

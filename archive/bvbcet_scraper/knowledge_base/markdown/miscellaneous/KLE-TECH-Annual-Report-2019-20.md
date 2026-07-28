@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: KLE-TECH-Annual-Report-2019-20"
+title: "KLE Tech Annual Report 2019 20"
 category: "miscellaneous"
 subcategory: ""
 document_type: "syllabus"
@@ -11,17 +11,16 @@ language: "en"
 keywords: ["annual", "document", "engineering", "kle", "report", "research", "students", "tech", "university"]
 aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE", "KLETech", "KLE Tech", "BVB", "BVBCET"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "63"
 ---
-# PDF Document: KLE-TECH-Annual-Report-2019-20
- **PDF Source:** https://www.kletech.ac.in/pdf/KLE-TECH-Annual-Report-2019-20.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/KLE-TECH-Annual-Report-2019-20.pdf
  Vidyanagar
 Hubballi (India)
 www.kletech.ac.in
 REPORT
 2019-20
 ANNUAL
- ## Page 2
  Our Parent Organization: 
 Karnataka Lingayat Education Society (KLE Society)
 Initiatives by private organizations and dedicated individuals have played a critical role in 
@@ -48,7 +47,6 @@ is rendering services in the areas of:
 With a visionary leadership of Chairman Dr. Prabhakar Kore, and members of Board of 
 Management, the society's institutions serve more than 1, 25, 000 students. Over 16, 000 
 dedicated faculty and staff work together to meet the high standards set by the management.
- ## Page 3
  Chancellor's Message
 It is a great time to be writing about our institution which scaled some wonderful heights this 
 year in terms of academic excellence and establishing new standards in higher education.
@@ -83,7 +81,6 @@ to the next level.
 I wish everyone the best.
 Dr. Prabhakar Kore
 Chancellor
- ## Page 4
  2 | KLE Tech
 Foreword
 Dr. Ashok S. Shettar
@@ -100,7 +97,6 @@ We would like to extend our sincere thanks to our faculty, staff, students, alum
 partners for their continued support and remarkable contributions. Looking ahead, we will 
 continue to work towards realizing our vision to be a leader in engineering education, and 
 advancing research and innovation to support socio-economic development of the region.
- ## Page 5
    www.kletech.ac.in | 3 
 CONTENTS
 04
@@ -138,7 +134,6 @@ KLE TECH EXECUTIVE TEAM
 19
 FACULTY DEVELOPMENT 
 PROGRAMMES
- ## Page 6
  4 | KLE Tech
 Introduction
 KLE Technological University (KLE 
@@ -203,7 +198,6 @@ KLE Technological University has received
 2f status from the UGC.
 Creating Value
 Leveraging Knowledge
- ## Page 7
    www.kletech.ac.in | 5 
 Admission Process
 The University does not conduct 
@@ -245,7 +239,6 @@ academic records of qualifying examinations.
 Graduate Common Entrance Test (PGCET) 
 conducted by Karnataka examination 
 authority, is used for the selection of students.
- ## Page 8
  6 | KLE Tech
 Postgraduate Programs
 Research Programs
@@ -296,11 +289,9 @@ Sl.No. Programme
 10 Department of Chemistry
 11 Department of Mathematics
 12 Center for Engineering Education Research
- ## Page 9
    www.kletech.ac.in | 7 
 Student admissions for the year 2019-20 - UG
 Student admissions for the year 2019-20 - PG
- ## Page 10
  8 | KLE Tech
 The initiatives undertaken to enhance the quality of education and student performance are 
 presented under following three tenets of academic quality
@@ -329,7 +320,6 @@ opportunity to build a culture of continuous
 improvement that strengthens our academic 
 quality and inspires student achievement.
 Academic Quality
- ## Page 11
    www.kletech.ac.in | 9 
 Advances in Curriculum
 The curriculum of all the programs offered 
@@ -363,7 +353,6 @@ the system. The frame work adopted by the
 University is depicted in the Figure below.
 KLE T ech
 Developing and Institutionalizing Curriculum Framework
- ## Page 12
  10 | KLE Tech
 Major Academic initiatives Undertaken:
 School of Electronics and Communication Engineering
@@ -387,7 +376,6 @@ actively participate and win prizes at the national level competitions like KPIT
 Inscribe, which foster innovation in them.
 During the academic year 2019-20 following are the major academic initiatives undertaken to 
 improve the teaching and learning process.
- ## Page 13
    www.kletech.ac.in | 11 
 Embedded Systems
 Embedded Systems is one of the major vertical in Electronics and Communication Engineering 
@@ -406,7 +394,6 @@ our students to be prepared for industry requirements and challenges, and has re
 placements in embedded industries. As the vertical seeks attention from many industries and 
 facilitates initiation of ideas, the project theme of the school also is made in line with the vertical to 
 ensure hands on learning.
- ## Page 14
  12 | KLE Tech
 VLSI Initiatives 
 To meet the contemporary demands of semiconductor industry, KLE Technological University (KLE 
@@ -437,7 +424,6 @@ selected students undergo close to two years of professional exercise., As part 
 partner agreement between KLE Tech., IESA and SEER, University has enabled design a program to 
 create a, mixed signal IC - Elapsed Time Counter in UMC 0.18μm technology, under the guidance of 
 faculty and industry experts.
- ## Page 15
    www.kletech.ac.in | 13 
 Computer Vision and Graphics Initiatives 
 The Computer Vision and Graphics (CVG) group at KLETech focuses on the computer-based 
@@ -477,7 +463,6 @@ conducting Codethons and Hackathons. SRIB also provides student internships to s
 Tech under the initiative. Under the initiative SRIB also plays a role in capacity building of faculties 
 by conducting faculty development programs (FDP), workshops, training programs, and also provide 
 internships to faculties.
- ## Page 16
  14 | KLE Tech
 Under the initiative collaborative projects with faculties and includes activities like writing 
 proposals to funding agencies, industry sponsored projects, institutional sponsored projects 
@@ -517,7 +502,6 @@ independent optimization techniques are addressed at higher level courses like R
 Embedded System and Course Projects. This exposure enables our students to be prepared for 
 industry requirements and challenges, and has resulted in increased placements in embedded 
 industries. 
- ## Page 17
    www.kletech.ac.in | 15 
 E-Mobility Vertical (Electives)
 We have introduced e-Mobility vertical (Electives) from 6th 
@@ -556,7 +540,6 @@ industry visits were organized by the department for students of all semesters l
 Plant Kaiga, Hydro Power Plant Dandeli, 220 kV Sharavati Receiving Station, Hubli, Loco Shed 
 Hubli, Kirloskar Electric Company, Hubli and Solar Photovoltaic Power Plant at Chikkodi, Belgaum 
 District.
- ## Page 18
  16 | KLE Tech
 School of Mechanical Engineering
 Accreditation
@@ -621,7 +604,6 @@ AEQUS Aerospace 50
 placed in 
 Aerospace 
 sector
- ## Page 19
    www.kletech.ac.in | 17 
 Industry-Institute Collaboration for On-line New Course Development
 The Peer Learning EXPERIENCE Program (PLEXP) is an innovative online learning solution for 
@@ -659,7 +641,6 @@ sense. A similar transformation was evident
 three decades ago, when highly human 
 centered 'standardized processes' were 
 automated. Our interactions with industry 
- ## Page 20
  18 | KLE Tech
 Trending T echnology: MEAN-Stack
 Mean-Stack is the new course introduced in the curriculum. It 
@@ -694,28 +675,18 @@ Learning (Learning-by-doing) based on real-life IT projects.
 assignments aimed at skill development.
 • Activity based learning is based on individual as well as team 
 activities, which encourage peer evaluation and team spirit.
- ## Page 21
    www.kletech.ac.in | 19 
 Faculty Development Programmes
 Teachers provided with financial support to attend conferences / workshops and towards 
 membership fee of professional bodies during the year 2019-20
- ## Page 22
  20 | KLE Tech
- ## Page 23
    www.kletech.ac.in | 21 
- ## Page 24
  22 | KLE Tech
- ## Page 25
    www.kletech.ac.in | 23 
- ## Page 26
  24 | KLE Tech
- ## Page 27
    www.kletech.ac.in | 25 
- ## Page 28
  26 | KLE Tech
- ## Page 29
    www.kletech.ac.in | 27 
- ## Page 30
  28 | KLE Tech
 Placement
 Students of 2019-20 pass out batch got ample of placement opportunities. Both Core & Services 
@@ -744,7 +715,6 @@ Devices, CommerceIQ, ComViva, Contineo, Dassault Systems, Deevia S/w, Faurecia, 
 paints, Mukand Sumi Special Steels, OneTrust, Prodapt, Saankhya Labs, Sasken Technologies, Shilpa 
 Medicare, Sifive, SOROCO, SmartDrive Systems, Tata Motors, TEK Systems, Total Environment, 
 Veoneer, Amagi
- ## Page 31
    www.kletech.ac.in | 29 
 Research and Innovation
 To meet its growth aspirations, one of the challenges faced by the University is to transform itself 
@@ -762,7 +732,6 @@ KLE TECH has 13 research centers with 79 doctoral faculty guiding 72 registered 
 at KLE Tech and 70 students registered in other universities. The following table presents details 
 about the research centers.
 Table 1: Details of registered and awarded candidates at 12 research centers 
- ## Page 32
  30 | KLE Tech
 Summary of publications
 The following table summarizes the number of publications of research work in refereed 
@@ -771,7 +740,6 @@ Table 2: Summary of papers published during 2017-18, and 2018-19 & 2019-20
 Indexed in: W- Web-of- science S- Scopus G- Google scholar 
 Indexed in W-Web of science, S-Scopus, G-Google scholar
 Graphs 
- ## Page 33
    www.kletech.ac.in | 31 
 Summary of Patents
 Patents: 2017-18
@@ -797,7 +765,6 @@ the students and faculty mentors has been overwhelmingly positive. The students 
 mentors have devoted considerable time and effort to make the experience worthwhile and 
 fruitful.
 Summary of outcome of the REU course is reflected in the following table. 
- ## Page 34
  32 | KLE Tech
 Research Promotion Schemes 
 University -Research promotion Schemes
@@ -828,12 +795,10 @@ Details of Sanctioned IRP ISP SRP Projects
 (IRP)
 (SRP)
 (SRP)
- ## Page 35
    www.kletech.ac.in | 33 
 Institute funded capacity building projects for individual faculty
 Incentives given to faculty for quality publication, funded research 
 and guiding doctoral students 
- ## Page 36
  34 | KLE Tech
 Centre for Technology Innovation and Entrepreneurship (CTIE):
 Entrepreneurship
@@ -858,7 +823,6 @@ internship and minor projects.
 • Experienced mentors, who handhold the start-ups in various technical and non - technical 
 areas and upskill them. 
 • Access to funding opportunities by connecting to right investors
- ## Page 37
    www.kletech.ac.in | 35 
 MIB Outbound Program 
 Make in BVB (MiB) is the student front of KLE - CTIE. This is the team of young enthusiast who drive 
@@ -887,7 +851,6 @@ Miniature drill machine, Smart irrigation system, PCB etching
 machine, Multipurpose stool. Each team was given a seed 
 fund of Rs. 500 to build the product. Many teams made a 
 breakeven and had profits by sale of their product.
- ## Page 38
  36 | KLE Tech
 Ideation Camp - 14th & 15th February 2020
 The Ideation Camp - a two-day event, conducted for 
@@ -918,7 +881,6 @@ same. Each of the team was mentored by a student mentor, one who had already att
 Ideation Camp in previous years and by Dr. Nitin Kulkarni & Ms. Soumya Kudagi. At end of day 
 two, the teams were evaluated by judges, Mr Sagar Virapannavar & Ms. Deepika M. Top three 
 teams were awarded with cash prizes.
- ## Page 39
    www.kletech.ac.in | 37 
 Electronics Enabling Lab (EEL) Inaugural - 21st September 2019
 Two - day workshop on Research, T echnology & Innovation - Jan 31 - Feb 1, 
@@ -949,7 +911,6 @@ with specific and precision testing equipment. It also
 housing an Anechoic Chamber which helps for testing 
 of Antennas at zero interference of signal. This facility helps for rapid prototyping and testing and 
 taking the product faster to the market for start-ups.
- ## Page 40
  38 | KLE Tech
 Investor Meets 
 KLE - CTIE enabled with help of its Mentors, 8 Investor Meets during this year. The Investors who 
@@ -978,7 +939,6 @@ started doing the sessions as we wouldn't find many inter -
 startup interactions. These sessions will only help them to get 
 to know each other's strengths, to leverage upon it, so that 
 better results be delivered.
- ## Page 41
    www.kletech.ac.in | 39 
 Other Events conducted 
 • Innovator's Life and Crossroad by Mr. Anand Kadakol - 25th October 2019
@@ -991,7 +951,6 @@ Anand Kadakol - 5th & 6th December
 • Seminar by Fintel - 10th January 2020
 • A Seminar on Entrepreneurial & Job Opportunities in VLSI Design by Mr. Shripad Annigeri - 
 22nd February 2020
- ## Page 42
  40 | KLE Tech
 Over Arching Philosophy of CIPD
 Product 
@@ -1030,7 +989,6 @@ Develop eco-system for product innovation and Intellectual Property Management -
 tools
 Capability Building: Develop Product Innovation, Design and Development curriculum; Training 
 programs and workshops for faculty and industry partners
- ## Page 43
    www.kletech.ac.in | 41 
 PRODUCTS IN DEVELOPMENT STAGE
 Vision - A system solution (patented) to aid in navigation and provide safety to visually impaired - 
@@ -1055,7 +1013,6 @@ pedestrians at a traffic intersection. The solution can be deployed for normal t
 and mixed transport intersections. The solution is also apt for railway crossings, security gates 
 and private roads. CIPD shall be working closely with BRTS Hubballi-Dharwad to implement the 
 aforementioned system.
- ## Page 44
  42 | KLE Tech
 BAHUBALI
 Shredding machine can shred agricultural domestic and industrial waste
@@ -1071,7 +1028,6 @@ Application : To carry material like meals, drugs, waste etc.
 Food and Beverages: For transport products like drinks, cereals, snack 
 food etc
 Office: To carry material like files, stationary etc.
- ## Page 45
    www.kletech.ac.in | 43 
 The 'MakerSpace' is a central facility created 
 to promote product development and 
@@ -1104,7 +1060,6 @@ MakerSpace
 Students
 IndustryFaculty
 MakerSpace
- ## Page 46
  44 | KLE Tech
 MakerSpace - Added with more facilities
 AION-500 3D Printing Machine
@@ -1123,7 +1078,6 @@ Students will gain
 exposure on machining 
 aerospace parts on this 
 same machine. 
- ## Page 47
    www.kletech.ac.in | 45 
 It is essential that the institute continues to strengthen its association with the industries 
 to enhance its student learning experience and relevance of its research activities.
@@ -1186,7 +1140,6 @@ R& D, Siemens Healthcare, Volvo, SAP Labs,
 Sankalp, INS-Zoom, Salarpuria, Sattava Group 
 Bangalore, HAL, JSW steels etc. with stipend 
 ranging from Rs 5000 to Rs 30000 per month.
- ## Page 48
  46 | KLE Tech
 Centre for Engineering Education Research (CEER) 
 Education Research
@@ -1227,7 +1180,6 @@ five years. CEER has earned a respectable position among the practitioners of en
 education. A good number of Engineering Colleges in India have taken inspiration and 
 have set up such centres in their respective Institutions taking best practices and courses 
 from CEER
- ## Page 49
    www.kletech.ac.in | 47 
 PhD in Engineering Education
 KLE Tech is one of the few Institutions 
@@ -1272,7 +1224,6 @@ participated in these workshops representing affiliated and autonomous engineeri
 and technical universities. Prof. Ashok Shettar, Prof.Prakash Tewari and Prof. Gopalkrishna Joshi 
 conducted these workshops as workshop leaders. This team was ably supported by Ms. Preethi 
 Baligar, Mr. Kaushik M, and Mr. Sanjeev Kavale.
- ## Page 50
  48 | KLE Tech
 REGIONAL RESEARCH SYMPOSIUM ON 
 PBL 
@@ -1320,7 +1271,6 @@ Universal Collaboration for Engineering Education (IUCEE)
 and Prof. Veena Kumar, Executive Director of the IUCEE 
 international Educators' Certification Program presented 
 the award. Congratulations Dr. Joshi
- ## Page 51
    www.kletech.ac.in | 49 
 Prof. William Oakes's visit to CEER
 It was a pleasure to have Prof. William Oakes, Director 
@@ -1342,7 +1292,6 @@ the students' teams and their mentors virtually. A total of 1550 visitors from d
 visited the exhibition. The representations included from the United States, United Arab Emirates, 
 Australia, Hong Kong, Canada, Germany, Kuwait, Nigeria, Netherlands, Nepal, Saudi Arabia, United 
 Kingdom, Pakistan, Qatar and Sweden.
- ## Page 52
  50 | KLE Tech
 IT Platforms and Services
 The present IT infrastructure of KLE TECH was redesigned in the year 2014-15, as to cater modern 
@@ -1370,7 +1319,6 @@ Telephone & EPABX: Matrix - ETERNITY MENX16SDC Hybrid PBX with Analog Extension 
 Mat Lab campus wide License for students and staff for academic use.
 Antivirus - Sophos End Point Advance. Intercept X with 2000 Licenses.
 Microsoft Academic Alliance License for Operating systems and Development tools.
- ## Page 53
    www.kletech.ac.in | 51 
 Name Designation
 Dr. Prabhakar B. Kore
@@ -1408,7 +1356,6 @@ Dr. N. H. Ayachit
 Registrar, KLE Technological University, Hubballi
 Member Secretary
 Board of Governors
- ## Page 54
  52 | KLE Tech
 Award & Recognitions
 KLE TECHNOLOGICAL UNIVERSITY HAS BAGGED 'BAND 
@@ -1440,7 +1387,6 @@ INSTITUTIONS INNOVATIONS COUNCIL FOR THE YEAR 2019-20
 Proud to announce we are ranked 5 Star rating by Institutions Innovations 
 Council for the year 2019-20. Innovation at KLETech will only grow by leaps 
 and bounds. Thanks to everyone for making this possible.
- ## Page 55
    www.kletech.ac.in | 53 
 Student Accolades
 BAJA SAE INDIA 2020
@@ -1479,7 +1425,6 @@ DISSERTATION: VII SEMESTER 2015 -2020 BATCH
 8th Semester Student., Won the "Best Paper Award" for the Oral Presentation of her Research Paper 
 titled- "Evaluating Building Aesthetics using Gestalt Analysis" at the Research Conclave 2019 held at 
 IIT Guwahati from 14-17th March 2019. 
- ## Page 56
  54 | KLE Tech
 SAEINDIA AERO-DESIGN CHALLENGE 2019
 1st Position at the National Level 
@@ -1496,7 +1441,6 @@ They were chosen among Top 24 Innovative POC's in the National Innovation Contes
 Innovation Council (IIC), MHRD, GoI. 
 They also won the TiE Mega Business Competition organized by TiE Hubli, a chapter of TiE Global in 
 the year 2019. 
- ## Page 57
    www.kletech.ac.in | 55 
 Financials
  Income Amount (Rs) Revenue 
@@ -1528,7 +1472,6 @@ Financials
 KLE Technological University, Hubballi
 Income and Expenditure Statement for the year 2019-20
 (Includes Capital Expenditures)
- ## Page 58
  56 | KLE Tech
 Alumni Association 
 MR. RAM KERUR, OUR ALUMNUS BAGS ELCINA AWARD 18-19
@@ -1565,7 +1508,6 @@ activities.
 Alumni then held discussions with faculty and PG students (MTech - CSE, DE and MCA) about the 
 recent trends in banking, finance and data science. During the discussion the alumni came forward to 
 support collaborative activities like projects, joint research with few of the faculty members.
- ## Page 59
    www.kletech.ac.in | 57 
 ALUMNI MEET 1999 MECHANICAL BATCH
 We are very happy to inform you that 1999 Batch Mechanical around alumni came together at the 
@@ -1593,7 +1535,6 @@ also presennt on the occasion.
 Alumni expressed their happiness in the progress that their 
 College has achieved and spontaneously promised to support 
 the university for Placements and Tech talks etc.
- ## Page 60
  58 | KLE Tech
 KLE Tech Executive Leadership Team
 Prof Gopal Joshi
@@ -1618,7 +1559,6 @@ Dean - Planning &
 Development
 Dr. Uma Mudenagudi
 Dean - Research & Development
- ## Page 61
    www.kletech.ac.in | 59 
 Center Heads
 Heads of Schools / Departments
@@ -1665,9 +1605,7 @@ Dr. Vinaya Hiremath
 Architecture
 Dr. B. B. Kotturshettar
 Mechanical
- ## Page 62
  60 | KLE Tech
- ## Page 63
    www.kletech.ac.in | 61 
 www.kletech.ac.in
 KLE Technological University

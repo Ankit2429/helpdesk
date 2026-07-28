@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 6th-Sem-COE-2022-23"
+title: "Sem COE 2022 23"
 category: "miscellaneous"
 subcategory: ""
 document_type: "minutes"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["april", "coe", "date", "document", "last", "march", "minor", "sem"]
 aliases: []
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "1"
 ---
-# PDF Document: 6th-Sem-COE-2022-23
- **PDF Source:** https://www.kletech.ac.in/pdf/6th-Sem-COE-2022-23.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/6th-Sem-COE-2022-23.pdf
                                                                                                                                                                                                                                         1q2 
   ANAM 0201/1.0 
 CALENDAR OF EVENTS 
@@ -75,5 +75,4 @@ Minor 2 Marks Display : 3rd May
 No of working 
 days 16 16 15 15 14 14 90 
 Holidays 
-  Marks / Attendance display Minor exam Feedback 
-    
+  Marks / Attendance display Minor exam Feedback

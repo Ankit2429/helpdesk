@@ -38,4 +38,3 @@ last_modified: "2026-07-28"
  - Power Electronic Converters for Smart EV Drive Applications
 - Battery Technology for EV Applications
 - Grid Integrated Charging Infrastructure
- 

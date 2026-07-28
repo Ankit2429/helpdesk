@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 7imguf_IQACComposition"
+title: "Iqaccomposition"
 category: "miscellaneous"
 subcategory: ""
 document_type: "syllabus"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["academic", "activities", "document", "iqac", "quality", "university"]
 aliases: ["HOD", "Head of Department", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "6"
 ---
-# PDF Document: 7imguf_IQACComposition
- **PDF Source:** https://www.kletech.ac.in/Uploads/image/7imguf_IQACComposition.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/Uploads/image/7imguf_IQACComposition.pdf
  __________________________________________________________________________________________________ 
   Internal Quality Assurance Cell-IQAC 
 (formed in 2018) 
@@ -22,7 +22,6 @@ ________________________________________________________________________________
   KLE Technological University 
 (Established under Karnataka Act No.22, 2013) 
 Hubballi, Karnataka
- ## Page 2
  About KLE Tech: 
 KLE Technological University (KLE Tech) has its roots in one of the premier engineering 
 institution of Karnataka, B. V. Bhoomaraddi College of Engineering and Technology (BVB), a 
@@ -58,7 +57,6 @@ master's program in Management and Computer application. Over 5000 undergraduate
 500 postgraduate students' study in these programs. The MIT report (2018 -March) on 'The 
 global state -of-the-art in engineering education', identifies BVB (KLE Tech) as one of fi ve 
 Global institutions that are places to watch in Undergraduate Engineering Education. 
-  ## Page 3
  Vision of the Institute 
 KLE Technological University will be a national leader in Higher Education - 
 recognized globally for innovative culture, outstanding student experience, 
@@ -80,7 +78,6 @@ contributing our expertise, experience and leadership, to enhance
 competitiveness and quality of life. 
   As a unified community of faculty, staff and students, we work together with 
 the spirit of collaboration and partnership to accomplish our mission. 
-  ## Page 4
  Overview: 
   IQAC in the University was constituted in year 2018 with the view of initiate Planning, 
 Guiding and Monitoring Quality Assurance and Quality Enhancement activities of 
@@ -109,7 +106,6 @@ IQAC Short Term Goals
    To organize conferences, seminars and short intensive courses on current technology. 
  To arrange quality improvement programs for faculty and students. 
  To provide leadership in curriculum design and development. 
-  ## Page 5
  Aim of IQAC 
   The main aim of Internal Quality Assurance Cell (IQAC) is to monitor and coordinate all the 
 activities of the institute by considering the Quality for upgrading t he Institutional 
@@ -145,7 +141,6 @@ Research
  activities 
  Playing as a nodal agency of the institute for coordinating various activities ensuring 
 quality including adoption and dissemination of best methods and practices 
- ## Page 6
   Ensuring a learner-centric ambience conducive for quality education and for continual 
  improvement. 
  *Emphasize faculty expertise to adopt the knowledge, technology and innovations for 
@@ -171,5 +166,4 @@ through best practices.
  institutionalize all good practices 
  Provide a sound basis for decision-making to improve institutional functioning 
  Act as a dynamic system for quality changes in HEIs 
- Build an organized methodology of documentation and internal communication 
-  
+ Build an organized methodology of documentation and internal communication

@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 6th_BOG_Minutes"
+title: "BOG Minutes"
 category: "miscellaneous"
 subcategory: ""
 document_type: "syllabus"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["budget", "course", "document", "fees", "total", "university"]
 aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE", "KLETech", "KLE Tech", "BVB", "BVBCET"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "176"
 ---
-# PDF Document: 6th_BOG_Minutes
- **PDF Source:** https://www.kletech.ac.in/pdf/6th_BOG_Minutes.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/6th_BOG_Minutes.pdf
  Minutes 
   6th Board of Governors Meeting 
 of 
@@ -23,7 +23,6 @@ Hubballi, Karnataka
 February 17th, 2017 
   KLE Technological University 
 (Established under Karnataka Act No.22, 2013) 
-  ## Page 2
  ii 
   Agenda 
   Item No. Particulars Page No 
@@ -66,7 +65,6 @@ BOG 6.7 To discuss and approve the University Annual Report for the academic yea
 2015-16 
 13 
 BOG 6.8 Any other subject with the permission of the Chair. 14 
-  ## Page 3
  1 
   BOG 
 6. 1 
@@ -112,7 +110,6 @@ for construction of E & C Building, Architecture Bu ilding, Civil Building and C
 Building on the campus of KLE Technological Univers ity Hubballi. He said it is 
 estimated to have construction of 57, 233 sft compri sing of ground floor, first floor, 
 second floor, third floors. He further said, the pro ject will cost approximately Rs.6.49 
- ## Page 4
  2 
   Crores. We need to raise a term loan of approximatel y Rs Five crores to implement 
 the project. 
@@ -130,7 +127,6 @@ University, Hubballi (UG Aided Courses).
   Discussion: 
   Resolution 6.1: Resolved to confirm the minutes of the previous 
 meeting held on 27th October 2016. 
-  ## Page 5
  3 
   BOG 
 6. 2 
@@ -165,7 +161,6 @@ BOG 5.5: To consider and approve the report submitted by the Research Council.
 Research Committee has been 
 informed to come out with some 
 benchmarking process. 
- ## Page 6
  4 
   BOG 5.6: To nominate Experts on Faculty Selection Committees. 
   Resolution: Resolved to approve list of experts to be nominated on Faculty Selection 
@@ -199,7 +194,6 @@ University to obtain sanction of term loan to the t une of Rs Five crores from t
   Process of raising term loan of Rs.5.00 
 crores from the Syndicate Bank has 
 been initiated. 
- ## Page 7
  5 
   Bank BVB Campus, Hubballi Branch, by mortgaging the proposed construction. 
 9 (b): To authorize the Vice Chancellor to open S.B. Account in the State Bank of Mysore. 
@@ -211,7 +205,6 @@ October 2016
   Discussion: 
   Resolution 6.2: Resolved to confirm the action take n report on the minutes of the previous 
 meeting held on 27th October 2016 
-  ## Page 8
  6 
   BOG 
 6. 3 
@@ -254,7 +247,6 @@ monitoring of the following funds;
  Development Fund. 
 Decision requested: The Finance Council is requested to discuss and app rove the 
 operation, maintenance and monitoring of Permanent 
- ## Page 9
  7 
   Statutory Endowment Fund, University Endowment Fund , 
 General Fund, Development Fund. 
@@ -295,7 +287,6 @@ Account in the name of Registrar, KLE Technological University
 with AXIS bank, Vidyanagar branch, Hubballi. 
 Table Agenda To approve opening of Saving /Fixed Deposit Account in the 
 name of Registrar, KLE Technological University with R BL Bank 
- ## Page 10
  8 
   Ltd at Hubballi branch. 
 Resolution Resolved to approve opening of Saving /F ixed Deposit Account 
@@ -330,7 +321,6 @@ Technological University Act - 2012.
  Development Fund as per the provisions of the KLE 
 Technological University Act - 2012. 
 4. The fee structure of the University 
- ## Page 11
  9 
   5. Term loan of Rs. 5 crores during F.Y 2016-17 
 and Rs. 10 crores in F.Y. 2017-18 for major 
@@ -341,7 +331,6 @@ with AXIS bank, Vidyanagar branch, Hubballi.
 7. Opening of Saving /Fixed Deposit Account in the 
 name of Registrar, KLE Technological University 
 with RBL Bank Ltd at Hubballi branch. 
-  ## Page 12
  10 
   BOG 
 6. 4 
@@ -375,7 +364,6 @@ Annexure 8: Minor in Robotics
 of the UG Minor Degree Programmes approved & recomm ended by both the Academic 
 Council and the Executive Council. 
 Discussion: 
-  ## Page 13
  11 
   Resolution 6.4: BOG considered the recommendations o f the 
 Executive Council and approved the schemes and 
@@ -386,7 +374,6 @@ Programmes:
 3. Minor in Electronics 
 4. Minor in Innovation and Product Development 
 5. Minor in Robotics 
-  ## Page 14
  12 
   BOG 
 6. 5 
@@ -421,7 +408,6 @@ Annexure 11: Modifications in B.Sc regulations
 (B.Sc) programs that are to be instituted by the Un iversity from the academic year 2017-
 18, which are approved by both the Academic council & the Executive Council. 
   Discussion: 
-  ## Page 15
  13 
   Resolution 6.5: BOG considered the recommendations of the 
 Executive Council and approved the 'Scheme and 
@@ -431,7 +417,6 @@ are to be instituted by the University from the
 academic year 2017-18: 
  B.Sc (Computer Science - Industry Track) 
  B.Sc (Electronics - Industry Track) 
-  ## Page 16
  14 
   BOG 
 6. 6 
@@ -452,7 +437,6 @@ the Executive Council.
 Executive Council and approved the Strategic Plan 
 of the University along with the vision and mission 
 of the University written accordingly.
-   ## Page 17
  15 
   BOG 
 6. 7 
@@ -469,12 +453,10 @@ the Executive Council.
   Resolution 6.7: BOG considered the recommendations o f the 
 Executive Council and approved the Annual report 
 of the University for the academic year 2015-16. 
-  ## Page 18
  16 
   BOG 6.8
  Any other subject with the permission of the Chair 
 NIL 
-  ## Page 19
  17 
   List of annexures enclosed 
 Annexure 1: The audited statements of the financial year 2015-16 
@@ -490,9 +472,7 @@ Annexure 10: Scheme and Syllabi of B.Sc (Electronics - Industry Track)
 Annexure 11: Modifications in B.Sc regulations 
 Annexure 12: Strategic Plan of the KLE Technological University 
 Annexure 13: Annual Report for the academic year 2015-16 
-  ## Page 20
  [The audited statements of the financial year 2015-16]
- ## Page 37
  19
 Depreciation Schedule Amount (Rs)
 Description GROSS BLOCK DEPRECIATION NET BLOCK
@@ -547,21 +527,17 @@ XII. Capital work-in-progress - - -
        TRANSFER TO ASSETS -
 B. NET WORK-IN-PROGRESS - 35, 989, 095.00 - 35, 989, 095.00 - - - - 35, 989, 095.00
       TOTAL (A+B) - 62, 921, 869.00 - 62, 921, 869.00 - 5, 073, 335.00 - 5, 073, 335.00 57, 848, 534.00
- ## Page 38
  20
 Notes to Statement of Accounts of KLE Technological University for the F.Y 2015-16
 1. Bank Guarantee of Rs. 5 Crores is given by Syndicate Bank, Nehru Nagar, Belagavi.
 2. Only  income of Aided section of University is accounted in the books of accounts whereas major expenditures of aided section is accounted
 in BVB College, Hubbali.
 3. Corpus fund mentioned in schedule 1 is another name for Permanent Statutory Endowment Fund.
- ## Page 39
  [Budget proposal for the year 2017-18] 
- ## Page 40
  1
 BUDGET ESTIMATES
 Unaided Courses
 2017-2018
- ## Page 41
  2
 KLE TECHNOLOGICAL UNIVERSITY
 BVB COLLEGE CAMPUS, HUBBALLI-580031
@@ -612,7 +588,6 @@ Total Capital Expenditure 25, 280, 000.00 62, 230, 672.00 116, 600, 000.00 232, 
 Reinvestment In Funds - 2, 414, 500.00 8, 400, 000.00 8, 540, 000.00
 Surplus 8, 609, 220.00 22, 514, 050.00 30, 816, 200.00
 Total 123, 343, 920.00 141, 218, 046.00 310, 959, 050.00 533, 265, 000.00
- ## Page 42
  3
 KLE TECHNOLOGICAL UNIVERSITY, HUBBALLI-31
 Schedules Annexured to Income Budget of Unaided Courses
@@ -680,7 +655,6 @@ No Particulars Sch Budget 2015-16 Actual 2015-16 Budget 2016-17 Budget 2017-18
 3 Miscellaneous Income 200, 000.00 1, 480, 430.00 500, 000.00 700, 000.00
 Total 775, 000.00 2, 830, 861.00 2, 400, 000.00 2, 750, 000.00
 Note: Miscellaneous Income in F.Y 2015-16 includes admission cancellation income which was not budgeted.
- ## Page 43
  5
 KLE TECHNOLOGICAL UNIVERSITY
 Schedules Annexed to Expenditure Budget of Unaided Courses
@@ -837,7 +811,6 @@ years as a Book Fund was received in BVB and the same is not anticipated to be r
 an indoor stadium.
 4 Principal and interest repayment of Term Loans relates to Rs.5cr loan for 9 months and another Rs.5cr Loan for 4 months
 @ anticipated Interest rate of 12% p.a
- ## Page 44
  6
 Annexures to Schedule I - 1
 Annexure - A
@@ -919,7 +892,6 @@ University Quota Fees (Rs) 7, 200, 000 18, 600, 000 16, 650, 000 - 19, 500, 000 
 TOTAL (Rs) 8, 550, 000 22, 920, 000 21, 015, 000 - 25, 440, 000 3, 700, 000 5, 880, 000 5, 775, 000
 TOTAL -C (Rs) 93, 280, 000
 GRAND TOTAL A+B+C (Rs) 316, 810, 000
- ## Page 45
  7
 2. University Examination Fees
 Particulars Fees (Rs) No of Students Total (Rs)
@@ -936,7 +908,6 @@ Particulars Fees (Rs) No of Students Total (Rs)
 1st Year 2, 500.00 900 2, 250, 000.00
 Total 2, 250, 000.00
 Note: 1st year student strength is sanctioned strength and latter is anticipated.
- ## Page 46
  8
 Annexure - B
 Budgeted Strength of the Students for the year 2017-18 of Post Graduate Courses 
@@ -973,7 +944,6 @@ Students Total (Rs)
 1st Year 4, 000.00 96 384, 000.00
 Total 384, 000.00
 Note: 1st year student strength is sanctioned strength and 2nd year is anticipated.
- ## Page 47
  9
 ANNEXURE C
 Budgeted Strength of the students and fees for the year 2017-2018 of MBA Course
@@ -1003,7 +973,6 @@ Particulars Fees (Rs) No of Students Total (Rs)
 1st Year 5, 000.00 60 300, 000.00
 Total 300, 000.00
 Note: 1st year student strength is sanctioned strength and 2nd year is anticipated.
- ## Page 48
  10
 Annexure D
 Budgeted Strength of the Students and fees for the year 2017 -2018 of MCA Course
@@ -1033,12 +1002,10 @@ Students Total (Rs)
 1st Year 5, 000.00 60 300, 000.00
 Total 300, 000.00
 Note: 1st year student strength is sanctioned strength & latter is anticipated.
- ## Page 49
  11
 BUDGET ESTIMATES
 Aided Courses
 2017-2018
- ## Page 50
  12
 KLE TECHNOLOGICAL UNIVERSITY
 BVB COLLEGE CAMPUS, HUBBALLI-580031
@@ -1085,7 +1052,6 @@ Total Revenue Expenditure 37, 696, 000.00 90, 274.00 69, 138, 000.00 105, 111, 0
 Total Capital Expenditure 3, 360, 000.00 691, 197.00 2, 000, 000.00 4, 300, 000.00
 Surplus 13, 733, 650.00
 Total 41, 056, 000.00 14, 515, 121.00 71, 138, 000.00 109, 411, 000.00
- ## Page 51
  13
 KLE TECHNOLOGICAL UNIVERSITY, HUBBALLI-31
 Schedules Annexed to Income Budget of Aided Courses
@@ -1131,7 +1097,6 @@ No Particulars Sch Budget 2015-16 Actual 2015-16 Budget 2016-17 Budget 2017-18
 1 SB & FD Interest from Bank 245, 000.00 223, 861.00 500, 000.00 500, 000.00
 2 Miscellaneous Income - 326, 720.00 12, 000.00 15, 000.00
 Total 245, 000.00 550, 581.00 512, 000.00 515, 000.00
- ## Page 52
  15
 KLE TECHNOLOGICAL UNIVERSITY
 Schedules Annexed to Expenditure Budget of Aided Courses
@@ -1261,7 +1226,6 @@ Budget Estimates
 - 51, 840.00 - -
 Note: In F.Y 2015-16 only income from fees was accounted in aided section and major capital and revenue expenditures
 was accounted in BVB College.
- ## Page 53
  16
 Annexures to Schedule I - 1
 Annexure - A
@@ -1316,7 +1280,6 @@ Particulars Fees (Rs) No of Students Total (Rs)
 1st Year 2, 500.00 240 600, 000.00
 Total (Rs) 600, 000.00
 Note: 1st year student strength is sanctioned strength and latter is anticipated.
- ## Page 54
  17
 Annexure - B
 Budgeted Strength of the Students for the year 2017-18 of Post Graduate Courses - Aided
@@ -1347,13 +1310,11 @@ Particulars Fees (Rs) No of Students Total (Rs)
 1st Year 4, 000.00 54 216, 000.00
 Total (Rs) 216, 000.00
 Note: 1st year student strength is sanctioned strength and 2nd year is anticipated.
- ## Page 55
  18
 BUDGET ESTIMATES
 Consolidated Budget
 (Aided & Unaided)
 2017-2018
- ## Page 56
  19
 KLE TECHNOLOGICAL UNIVERSITY
 BVB COLLEGE CAMPUS, HUBBALLI-580031
@@ -1406,7 +1367,6 @@ Total Capital Expenditure 28, 640, 000.00 62, 921, 869.00 118, 600, 000.00 236, 
 Reinvestment In Funds - 2, 414, 500.00 8, 400, 000.00 8, 540, 000.00
 Surplus 22, 342, 870.00
 Total 164, 399, 920.00 155, 733, 167.00 359, 583, 000.00 611, 859, 800.00
- ## Page 57
  20
 KLE TECHNOLOGICAL UNIVERSITY, HUBBALLI-31
 Schedules Annexured to Income Budget of Aided & Unaided Courses
@@ -1461,7 +1421,6 @@ No Particulars Budget 2015-16 Actual 2015-16 Budget 2016-17 Budget 2017-18
 2 Rental Income - - 400, 000.00 450, 000.00
 3 Miscellaneous Income 200, 000.00 1, 807, 150.00 512, 000.00 715, 000.00
 Total 1, 020, 000.00 3, 381, 442.00 2, 912, 000.00 3, 265, 000.00
- ## Page 58
  22
 KLE TECHNOLOGICAL UNIVERSITY
 Schedules Annexed to Expenditure Budget of Aided and Unaided Courses
@@ -1577,7 +1536,6 @@ Budget Estimates
 2017-18
 1 Depreciation (Annexure - I) - 5, 073, 335.00 - -
 - 5, 073, 335.00 - -
- ## Page 59
  23
 Annexure I to Sch- E 8
 Depreciation Schedule Amount (Rs)
@@ -1633,9 +1591,7 @@ XII. Capital work-in-progress - - -
        TRANSFER TO ASSETS -
 B. NET WORK-IN-PROGRESS - 35, 989, 095.00 - 35, 989, 095.00 - - - - 35, 989, 095.00
       TOTAL (A+B) - 62, 921, 869.00 - 62, 921, 869.00 - 5, 073, 335.00 - 5, 073, 335.00 57, 848, 534.00
- ## Page 60
  [Fee structure for the year 2016-17] 
- ## Page 61
  KLE TECHNOLOGICAL UNIVERSITY
 HUBBALLI
 FEES STRUCTURE OF UNDER GRADUATE COURSES FOR THE ACADEMIC YEAR 2016-17
@@ -1684,7 +1640,6 @@ COLLEGE OTHER FEES 9, 100.00 9, 100.00 9, 100.00 9, 100.00 9, 100.00 9, 100.00
 NASA FEES - - - - - 2, 000.00
 EXAM FEES 2, 500.00 2, 500.00 2, 500.00 2, 500.00 2, 500.00 2, 500.00
 29, 050.00 59, 050.00 164, 050.00 114, 050.00 134, 050.00 166, 050.00
- ## Page 62
  KLE TECHNOLOGICAL UNIVERSITY
 HUBBALLI
  FEES STRUCTURE FOR THE YEAR ACADEMIC 2016-17
@@ -1724,7 +1679,6 @@ TOTALCET MNGT
 5 DIGITAL ELECTRONICS 75, 000.00 125, 000.00 2, 500.00 11, 100.00 3, 400.00 92, 000.00 142, 000.00
 6 VLSI DESIGN & TESTING 75, 000.00 125, 000.00 2, 500.00 11, 100.00 3, 400.00 92, 000.00 142, 000.00
 7 MACHINE DESIGN 85, 000.00 125, 000.00 2, 500.00 11, 100.00 3, 400.00 102, 000.00 142, 000.00
- ## Page 63
  MBA & MCA FEES STRUCTURE FOR THE ACADEMIC YEAR 2016-17
 MBA
 SL
@@ -1750,7 +1704,6 @@ SEMESTER
 4 EXAM FEES 3, 400.00 3, 400.00
 5 ALUMINI ASSOCIATION - -
 TOTAL FEES 94, 000.00 91, 000.00
- ## Page 64
  KLE TECHNOLOGICAL UNIVERSITY
 HUBBALLI
  LATERAL ENTRY IIIrd & IVth SEMESTER FEE STRUCTURE FOR THE YEAR 2016-17
@@ -1767,9 +1720,7 @@ MECH, EC, CS, CIVIL
 6 COLLEGE OTHER FEES 10, 500.00 10, 500.00 10, 500.00 10, 500.00
 7 EXAM FEES 2, 500.00 2, 500.00 2, 500.00 2, 500.00
 GRAND TOTAL 33, 500.00 63, 500.00 168, 500.00 138, 500.00
- ## Page 65
  [Minor in Entrepreneurship] 
- ## Page 66
  Minor Degree in 
 Entrepreneurship 
 Syllabus 
@@ -1779,7 +1730,6 @@ University of Massachusetts, Lowell, USA
 Praveen H J, Asst Professor, CTIE 
 KLE Technological University 
   Offered by: Centre for Technology Innovation and Entrepreneurship, KLE Technological University, Hubli 
- ## Page 67
  1 
 Offered by Centre for Technology Innovation and Entrepreneurship (CTIE) 
 Course 1: 
@@ -1809,7 +1759,6 @@ Recommended books Innovation and Entrepreneurship, 3rd ed., by John
 Bessant and Joe Tidd 
   ISBN: 978-1-118-99309-5 
 Course duration in hours 40 hours 
- ## Page 68
  2 
 Offered by Centre for Technology Innovation and Entrepreneurship (CTIE) 
 Syllabus: 
@@ -1835,7 +1784,6 @@ Part 5: Creating Value (6 hrs)
 15. Exploiting knowledge and Intellectual property 
 16. Business Models and capturing value 
 17. Learning to Manage Innovation and Entrepreneurship 
-  ## Page 69
  3 
 Offered by Centre for Technology Innovation and Entrepreneurship (CTIE) 
 Grading 
@@ -1855,7 +1803,6 @@ Cases:
 4. P & G 
 5. CS Dyson and the bag-less vacuum cleaner 
 6. Arvind Eye Clinics 
-  ## Page 70
  4 
 Offered by Centre for Technology Innovation and Entrepreneurship (CTIE) 
 Group Project 
@@ -1880,7 +1827,6 @@ http://bcs.wiley.com/he-bcs/Books?action=index&itemId=1118993098&bcsId=9615
   Student resources: 
 https://www.researchgate.net/publication/285734411_Innovation_and_Entrepreneurship 
 http://www.innovation-portal.info/online-resources-for-innovation-entrepreneurship/ 
-  ## Page 71
  5 
 Offered by Centre for Technology Innovation and Entrepreneurship (CTIE) 
 Course 2: 
@@ -1909,7 +1855,6 @@ Recommended books Strategic Management of Technological
 Innovation, 4th ed., by Melissa A. Schilling 
   ISBN: 978-0-07-802923-3 
   Course duration in hours 40 hours 
- ## Page 72
  6 
 Offered by Centre for Technology Innovation and Entrepreneurship (CTIE) 
 Syllabus 
@@ -1936,7 +1881,6 @@ B Case analysis presentations 30
   Group Project and Presentation 40 
 C Attendance and Class Participation 10 
   Total 100 
-  ## Page 73
  7 
 Offered by Centre for Technology Innovation and Entrepreneurship (CTIE) 
 Mini Project 
@@ -1947,7 +1891,6 @@ successful, and how they will market the product to customers.
 Participation on the team, active involvement in the research component, development o f both written 
 and visual presentation aids and participation in the final presentation will all co unt toward each 
 student's final grade on this assignment. 
-  ## Page 74
  8 
 Offered by Centre for Technology Innovation and Entrepreneurship (CTIE) 
 Course 3: 
@@ -1976,7 +1919,6 @@ authored by Crawford and Di Benedetto, McGraw-
 Hill/Irwin Publishing: 
   ISBN-10: 007802904X; ISBN-13: 978-0078029042 
 Course duration in hours 40 hours 
- ## Page 75
  9 
 Offered by Centre for Technology Innovation and Entrepreneurship (CTIE) 
 Syllabus 
@@ -2012,7 +1954,6 @@ B Case analysis presentations 30
   Group Project and Presentation 40 
 C Attendance and Class Participation 10 
   Total 100 
-  ## Page 76
  10 
 Offered by Centre for Technology Innovation and Entrepreneurship (CTIE) 
   CASE ANALYSIS 
@@ -2056,7 +1997,6 @@ b) Domino's
 11 Chap 16 - Strategic launch planning New Consumer Nondurables 
 12 Chap 17 - Implementation of the strategic plan Dodge Nitro 
 13 Chap 18 - Market testing PepsiCo-Pepsi Kona and Pepsi One 
-  ## Page 77
  11 
 Offered by Centre for Technology Innovation and Entrepreneurship (CTIE) 
   GROUP PROJECT 
@@ -2089,7 +2029,6 @@ Section IV: Market Testing and Entry Strategy (10 hrs)
 4. Concluding remarks, lessons learned, and real-world applications from this project 
 Section V. Concluding remarks (4 hrs) 
               To be included in presentation and final paper 
-  ## Page 78
  12 
 Offered by Centre for Technology Innovation and Entrepreneurship (CTIE) 
   Finance course: 
@@ -2123,7 +2062,6 @@ Shetty and Co, Hubli
 Company Secretary, Fintel Solutions, Hubli 
 Course duration in hours 40 hours 
 Course 4 
- ## Page 79
  13 
 Offered by Centre for Technology Innovation and Entrepreneurship (CTIE) 
   Syllabus: 
@@ -2155,7 +2093,6 @@ Unit 5: Bootstrapping, Business Evaluation and Valuation (Workshop 2)
  Sources of raising capital - Bootstrapping -> Debt, Venture Capitalist 
  Merger and Acquisitions valuation 
  Taxation 
-  ## Page 80
  14 
 Offered by Centre for Technology Innovation and Entrepreneurship (CTIE) 
   Workshop 1 Workshop 2 
@@ -2197,7 +2134,6 @@ c) Marketing process
 d) Marketing environment 
 e) Marketing in the internet age. 
 f) Marketing Mix 
-  ## Page 81
  15 
 Offered by Centre for Technology Innovation and Entrepreneurship (CTIE) 
   Unit 2: Integrated Marketing Communications - 
@@ -2222,7 +2158,6 @@ Pitch on B-Plan 50
 TOTAL 100 
    B Plan presentations are evaluated by 7 star mentoring team; 
  Rubrics of Capstone SEE are to be used. 
-  ## Page 82
  16 
 Offered by Centre for Technology Innovation and Entrepreneurship (CTIE) 
   This course is designed for students with a curiosity and interest in start ing a new business. It 
@@ -2256,7 +2191,6 @@ Barringer and R.Duane Ireland
 255552-2 
   Course duration in hours 40 hours 
 Course 5 
- ## Page 83
  17 
 Offered by Centre for Technology Innovation and Entrepreneurship (CTIE) 
   Syllabus: 
@@ -2287,7 +2221,6 @@ B Case analysis presentations 30
   Total 100 
    B Plan presentations are evaluated by 7 star mentoring team; 
  Rubrics of Capstone SEE are to be used. 
-  ## Page 84
  18 
 Offered by Centre for Technology Innovation and Entrepreneurship (CTIE) 
   (1) Business Feasibility Study Related Assignments: 
@@ -2321,9 +2254,7 @@ will ask the audience of venture capitalists how the presented business mo del m
 Likewise, the audience will be asked how the business model has changed th e world. Hopefully, 
 the presentation will have addressed these points so that the audience can easily answer the 
 instructor's questions. 
-  ## Page 85
  [Minor in Computer Science & Engineering] 
-  ## Page 86
  FORM 
 ISO 9001: 2008 
 Department of Computer Science & Engineering 
@@ -2352,7 +2283,6 @@ JAVA PSC 2-0-
 5 M16CSP303 Project PRJ 0-0-
 2 2 3 50 50 100 3 hours 
 TOTAL 9-1-5 15 20 250 250 500 
- ## Page 87
  FORM 
 ISO 9001: 2008 
 Department of Computer Science & Engineering 
@@ -2393,7 +2323,6 @@ Unit -III
 Greedy algorithms, Divide and conquer 04 hrs 
 8 Algorithm Design techniques (contd..) 
 Dynamic programming, Randomized algorithms, Backtracking algorithms. 04 hrs 
- ## Page 88
  FORM 
 ISO 9001: 2008 
 Department of Computer Science & Engineering 
@@ -2419,7 +2348,6 @@ Algorithms
 1-Structured Enquiry Graphs and Dynamic Programming 
 1- Course Project Develop a real world application by selecti ng appropriate data 
 structure and algorithms. 
- ## Page 89
  FORM 
 ISO 9001: 2008 
 Department of Computer Science & Engineering 
@@ -2461,7 +2389,6 @@ Memory Management Strategies: Swapping; Contiguous mem ory allocation;
 Paging; Segmentation. Virtual Memory Management: Demand pag ing; Page 
 replacement; File System: File concept; Access methods; Directory structure; 
 File system mounting; File sharing; Protection. 06 hrs 
- ## Page 90
  FORM 
 ISO 9001: 2008 
 Department of Computer Science & Engineering 
@@ -2482,7 +2409,6 @@ Pearson Education.
   Plan of Tutorials 
 Tutorial / Hands on sessions on Instruction level exec ution, interfacing, process 
 management, IPC, deadlock management, file system and memory management. 
- ## Page 91
  FORM 
 ISO 9001: 2008 
 Department of Computer Science & Engineering 
@@ -2532,7 +2458,6 @@ Reference Books:
 2-Demonstration Java Basics, NetBeans ID 
 4-Exercise Classes and objects, Inheritance, Exceptions Handling 
 3-Structured Enquiry Inheritance, Exceptional Handling 
- ## Page 92
  FORM 
 ISO 9001: 2008 
 Department of Computer Science & Engineering 
@@ -2573,7 +2498,6 @@ Unit -III
 Introduction to Transaction Processing; Transactions and S ystem concepts; 
 Desirable Properties of Transactions; Characterizing schedules based on 
 Serializibilty. 06 hrs 
- ## Page 93
  FORM 
 ISO 9001: 2008 
 Department of Computer Science & Engineering 
@@ -2595,7 +2519,6 @@ Mc- GrawHill, 2006.
 4-Exercise Set Theory Operators, Cartesian Product, Aggregate Functions, 
 Nested Queries, Joins 
 2-Structured Enquiry Database Design, Complex SQL queries 
-  ## Page 94
  FORM 
 ISO 9001: 2008 
 Department of Computer Science & Engineering 
@@ -2629,9 +2552,7 @@ Integration and testing 06
 Project Report 04 
 Presentation skills and Viva-voce 04 
 Total 25 
-  ## Page 95
  [Minor in Electronics] 
-  ## Page 96
  Earlier known as 
 B. V. B. College of Engineering & Technology 
   Minor in Electronics (Eligibility: Mech. Civil, CS, A&R) 
@@ -2672,7 +2593,6 @@ discipline
 (2-0-1) 
 Project 
 (0-0-2) 
-  ## Page 97
  Earlier known as 
 B. V. B. College of Engineering & Technology 
   Minor in Electronics Teaching 
@@ -2723,7 +2643,6 @@ circuit, Design of arithmetic logic unit, design of shifter, Design of accumulat
 References 
 1. Charles H Roth, Jr; Fundamentals of Logic Design, Thomson Learning, 2004. 
 2. "ARM Assembly Language Fundamentals and techniques" by William Hohl, CRC Pess 2009. 
- ## Page 98
  Earlier known as 
 B. V. B. College of Engineering & Technology 
   Minor in Electronics TeachingH
@@ -2780,12 +2699,10 @@ References
 Education, 2003 
 5. J. Millman & A. Grabel, "Microelectronics"-2nd edition, McGraw Hill, 1987 
 6. Sergio Franco, Design with Operational Amplifiers and Analog Integrated Circuits. 
- ## Page 99
  Earlier known as 
 B. V. B. College of Engineering & Technology 
 7. David A. Bell, Operational Amplifiers and Linear Ics. 
 8. Behzad Razavi "Design of analog integrated circuits" 
- ## Page 100
  Earlier known as 
 B. V. B. College of Engineering & Technology 
   Minor in Electronics Teaching 
@@ -2844,7 +2761,6 @@ concepts. Sensors and sensor Node and interfacing u sing any Embedded target boa
 (Raspberry Pi / Intel Galileo/ARM Cortex/ Arduino) 
 07Hrs 
 Text Books: 
- ## Page 101
  Earlier known as 
 B. V. B. College of Engineering & Technology 
 1. Introduction to Embedded Systems, by Shibu K V 
@@ -2857,7 +2773,6 @@ edition, Morgan Kaufmann Publishers is an imprint of Elsevier.
 OvidiuVermesan, Dr. Peter Friess, River Publishers. 
 4. Interconnecting Smart Objects with IP: The Next Inte rnet, Jean-Philippe Vasseur, Adam Dunkels, 
 Morgan Kuffmann 
- ## Page 102
  Earlier known as 
 B. V. B. College of Engineering & Technology 
   Minor in Electronics TeachingH
@@ -2876,9 +2791,7 @@ protocol
 Deliverables 
  Complete ES to demonstrate the functionalities of the chosen application 
   05Hrs 
- ## Page 103
  [Minor in Innovation and Product Development] 
-  ## Page 104
  MIPD Curriculum structure & Syllabus 2015 - 19 Batch 
   P a g e | 1 
 Earlier known as 
@@ -2895,7 +2808,6 @@ Syllabus
 (2015-16 Admission) 
   School of Mechanical Engineering 
 November 30, 2016 
-  ## Page 105
  MIPD Curriculum structure & Syllabus 2015 - 19 Batch 
   P a g e | 2 
 Earlier known as 
@@ -2921,7 +2833,6 @@ disciplinary teams and develop team behavioural skills.
   5. Develop product strategies and product lifecycle management road-maps 
   6. Develop prototype of a product based on product specifications 
   7. Generate product verification and validation plan 
-  ## Page 106
  MIPD Curriculum structure & Syllabus 2015 - 19 Batch 
   P a g e | 3 
 Earlier known as 
@@ -2987,7 +2898,6 @@ TOTAL 1-0-1 2 3
   ISA: In Semester Assessment, ESA: End Semester Assessment, 
 L: Lecture; T: Tutorials; P: Practical. 
 BS: Basic Science ES: Engineering Science, PC: Program Core, PE: Program Elective 
-  ## Page 107
  MIPD Curriculum structure & Syllabus 2015 - 19 Batch 
   P a g e | 4 
 Earlier known as 
@@ -3010,7 +2920,6 @@ Students shall attend two minors; Minors could be
  The team shall work hands-on to develop a product. 
  Assessment shall be done during the course as well as semester end based on 
 presentation of course project 
-  ## Page 108
  MIPD Curriculum structure & Syllabus 2015 - 19 Batch 
   P a g e | 5 
 Earlier known as 
@@ -3053,7 +2962,6 @@ TRIZ and ToC - Handouts
 A Unified Innovation Process Model for Engineering Designers and Managers (In Design Thinking) 
 Skogstad, P., Leifer, L.edited by Meinel, C., Leifer, L., Plattner, H. Springer Berlin 
 Heidelberg. 2011: 19-43 
- ## Page 109
  MIPD Curriculum structure & Syllabus 2015 - 19 Batch 
   P a g e | 6 
 Earlier known as 
@@ -3096,7 +3004,6 @@ Knowledge based engineering design techniques
   2 hours 
 References: 
 Product Management by Donald Lehmann, and Russell 
- ## Page 110
  MIPD Curriculum structure & Syllabus 2015 - 19 Batch 
   P a g e | 7 
 Earlier known as 
@@ -3131,7 +3038,6 @@ communication skills,
 References 
 The Standard for Program Management - PMI 
 Finance Basics by Harvard Business Review 
-  ## Page 111
  MIPD Curriculum structure & Syllabus 2015 - 19 Batch 
   P a g e | 8 
 Earlier known as 
@@ -3172,7 +3078,6 @@ Product Design and Development by Karl Ulrich and Steven Eppinge
 The PDMA Handbook of New Product Development, Second Edition by Kenneth B. Kahn 
 Innovation in Product Design: From CAD to Virtual Prototyping by Monica Bordegoni 
  (Editor), Caterina Rizzi (Editor) 
- ## Page 112
  MIPD Curriculum structure & Syllabus 2015 - 19 Batch 
   P a g e | 9 
 Earlier known as 
@@ -3204,9 +3109,7 @@ References
 Quality Engineering Using Robust Design by Madhav S. Phadke 
 Design and Analysis of Experiments, 8th Edition by Douglas C. Montgomery 
 Systems Engineering Principles and Practice by Alexander Kossiakoff 
-  ## Page 113
  [Minor in Robotics] 
-  ## Page 114
  B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi 580031. Karnataka (India) 
 Tel. : +91 ‐ 836 ‐ 2378123  Fax : +91 ‐ 836 ‐ 2374985. www.kletech.ac.in 
   Earlier known as 
@@ -3221,7 +3124,6 @@ L+P 
 5  Machine Learning   2
 6  Project  2
   Total  16
-  ## Page 115
  B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi 580031. Karnataka (India) 
 Tel. : +91 ‐ 836 ‐ 2378123  Fax : +91 ‐ 836 ‐ 2374985. www.kletech.ac.in 
   Earlier known as 
@@ -3261,7 +3163,6 @@ Model, Problems.
   References 
   1. W. Bolton, Mechatronics: Electronic control systems in mechanical and electrical engineering, 4th Edition, 
 Pearson, 2010 
-   ## Page 116
  B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi 580031. Karnataka (India) 
 Tel. : +91 ‐ 836 ‐ 2378123  Fax : +91 ‐ 836 ‐ 2374985. www.kletech.ac.in 
   Earlier known as 
@@ -3313,7 +3214,6 @@ torques, Differential screws, Auger screws. 5 
 Text Book: 
  David H Myszka, "Machines and mechanisms", Prentice Hall. 
  Kenneth J Waldron, Gary L.Kinzel, "Kinematics, Dynamics, & Design of Machinery", John Wiley & Sons India 
- ## Page 117
  B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi 580031. Karnataka (India) 
 Tel. : +91 ‐ 836 ‐ 2378123  Fax : +91 ‐ 836 ‐ 2374985. www.kletech.ac.in 
   Earlier known as 
@@ -3354,7 +3254,6 @@ of the Differential Change, Differential Changes between Frames, Differe
 a Robot and Its Hand Frame, How to Relate the Jacobian and the Differential Operator, 
 Inverse Jacobian, Static analysis. 
 6 
- ## Page 118
  B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi 580031. Karnataka (India) 
 Tel. : +91 ‐ 836 ‐ 2378123  Fax : +91 ‐ 836 ‐ 2374985. www.kletech.ac.in 
   Earlier known as 
@@ -3396,7 +3295,6 @@ McGraw‐Hill Book Co., 
 3. Ashitavia Ghoshal, "Robotics Fundamental Concepts & Analysis, Oxford University Press. 
 4. John J. Craig, "Introduction to Robotics‐Mechanics & Control", Pearson Education, Inc., 2005. 
 5. T. Bajd, M. Mihelj, J. Lenarcic, A. Stanovnik, M. Munih., "Robotics", Springer, Vol 43. 
-  ## Page 119
  B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi 580031. Karnataka (India) 
 Tel. : +91 ‐ 836 ‐ 2378123  Fax : +91 ‐ 836 ‐ 2374985. www.kletech.ac.in 
   Earlier known as 
@@ -3438,7 +3336,6 @@ Noise Suppression by Gaussian Smoothing,  Median Filters,  Mode  Filte
 Load,  Sharp_Unsharp Masking,  Shifts Introduced by Median  Filt ers,  Discrete Model of  Median 
 Shifts,  The Role of Filters in Industrial Applications of Vision,  Color in Image Filtering 
 5 
- ## Page 120
  B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi 580031. Karnataka (India) 
 Tel. : +91 ‐ 836 ‐ 2378123  Fax : +91 ‐ 836 ‐ 2374985. www.kletech.ac.in 
   Earlier known as 
@@ -3480,7 +3377,6 @@ Recommended Text Book:
 Press. 
 2. Ulrich Nehmzow "Mobile Robotics: A Practical Introduction", 2nd edition,  Springer 
 3. E. R. DAVIES  " Computer and Machine Vision: Theory, Algorithms,  Practicalities", 4th Edition,  2012  Elsevier . 
-  ## Page 121
  B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi 580031. Karnataka (India) 
 Tel. : +91 ‐ 836 ‐ 2378123  Fax : +91 ‐ 836 ‐ 2374985. www.kletech.ac.in 
   Earlier known as 
@@ -3510,10 +3406,8 @@ Wiley & Sons, Inc.
 2. Tom M. Mitchell , Machine Learning, McGraw-Hill Science/Engineering/Math, 1997. 
 3. Stuart J. Russell and Peter Norvig, Artificial Intelligence ,A Modern Approach, 2, Pearson 
 Education, 2010. 
-  ## Page 122
  Scheme and Syllabi of 
 B.Sc (Computer Science - Industry Track) 
-  ## Page 124
  FORM 
 ISO 9001: 2008 - KLE Tech 
 School of Computer Science & Engineering 
@@ -3550,7 +3444,6 @@ Text Books
 2. Raymond Murphy - Intermediate English Grammar, Cambridge University Press 
   Reference Books: 
 1. Martin Hewings- Advanced English Grammar, Cambridge University Press 
-  ## Page 125
  FORM 
 ISO 9001: 2008 - KLE Tech 
 School of Computer Science & Engineering 
@@ -3596,7 +3489,6 @@ Reference Books:
 3. J. Susan Milton, Jesse C. Arnold, Introduction to Probability and Statistics: Principles and Applications for Engineering and 
 the Computing Sciences, 4th Ed, TATA McGraw-Hill Edition 2007. 
 4. Jiawei Han, Micheline Kamber, Data Mining: Concep ts and Techniques, Morgan Kaufmann Publishers, 2005. 
-   ## Page 126
  FORM 
 ISO 9001: 2008 - KLE Tech 
 School of Computer Science & Engineering 
@@ -3646,7 +3538,6 @@ Text Books
 Reference Books: 
 1. H. Schildt. C: The Complete Reference, 4 th Edition. TMH Edition, 2000. 
 2. Kanetkar Y., Let us C, BPB Pub., New Delhi, 1999 . 
-  ## Page 127
  FORM 
 ISO 9001: 2008 - KLE Tech 
 School of Computer Science & Engineering 
@@ -3686,7 +3577,6 @@ Multiprogramming and Multiprocessing; Introduction to pipelined operation and ar
   Reference Books: 
 1. Computer Organization: Carl Hamacher, Zvonko Vranes ic, Safwat Zaky, McGraw-Hill Higher 
 Education; 5 edition 20011. 
-  ## Page 128
  FORM 
 ISO 9001: 2008 - KLE Tech 
 School of Computer Science & Engineering 
@@ -3729,7 +3619,6 @@ India, 2008
 1. William Stallings, Operating System Internals and D esign principles, 5, Pearson Education, Asia,, 
 2005 
 2. Gary Nutt, Operating System, 3, Pearson Education, 2004 
-  ## Page 129
  FORM 
 ISO 9001: 2008 - KLE Tech 
 School of Computer Science & Engineering 
@@ -3752,7 +3641,6 @@ Unit I
 4. Pointers 
 5. Arrays 
 6. Strings and File I/O 
-  ## Page 130
  FORM 
 ISO 9001: 2008 - KLE Tech 
 School of Computer Science & Engineering 
@@ -3793,7 +3681,6 @@ Text Books
 1. Alfred V. Aho, John E. Hopcroft, Jeffrey D. Ullman, Data Structures and Algorithms, 1, Addison We, 1983 
 2. Aron M. Tenenbaum, et. al, Data Structures using C, 3, PHI, 2006 
 3. Levitin A, Introduction to the Design and Analysis of Algorithms, 2, Pearson Ed, 2008 
-  ## Page 131
  FORM 
 ISO 9001: 2008 - KLE Tech 
 School of Computer Science & Engineering 
@@ -3830,7 +3717,6 @@ Management, Cost management, Risk management.
   Reference Books: 
 1. "Software Engineering", Ian Somerville 
 2. Software Engineering-A practitioner's approach", Roger Pressman 
-  ## Page 132
  FORM 
 ISO 9001: 2008 - KLE Tech 
 School of Computer Science & Engineering 
@@ -3863,7 +3749,6 @@ Hierarchical Routing;
 Text Books 
 1. Behrouz A Forouzan, "Data Communications and Net working", McGraw Hill.2014 
 Reference Books: 
-   ## Page 133
  FORM 
 ISO 9001: 2008 - KLE Tech 
 School of Computer Science & Engineering 
@@ -3886,9 +3771,7 @@ Teaching Hours: Examination Duration:2 hours
 5. Trees 
 6. Sorting
      7. Searching, 
-  ## Page 134
  Scheme and Syllabi of B.Sc (Electronics - Industry Track) 
-  ## Page 135
  FORM 
 ISO 9001: 2008 - BVBCET 
 School of Electronics 
@@ -3985,7 +3868,6 @@ Circuit Design & Simulation
 0-0-2 
 17SECI202 
    Credits 21 21 21 21 22 24 
- ## Page 136
  FORM 
 ISO 9001: 2008 - BVBCET 
 School of Electronics 
@@ -4029,7 +3911,6 @@ References:
 1. Collins Cobuild Advanced Learner's English Dictionary 
 2. Raymond Murphy - Intermediate English Grammar, Cambridge University Press 
 3. Martin Hewings- Advanced English Grammar, Cambridge Uni versity Press. 
- ## Page 137
  FORM 
 ISO 9001: 2008 - BVBCET 
 School of Electronics 
@@ -4073,7 +3954,6 @@ Text book
 References: 
 1. H. Schildt. C: The Complete Reference, 4th Edition. TMH Edition, 2000. 
 2. Kanetkar Y., Let us C, BPB Pub., New Delhi, 1999. 
- ## Page 138
  FORM 
 ISO 9001: 2008 - BVBCET 
 School of Electronics 
@@ -4124,7 +4004,6 @@ References :
 1. Calculus Single and Multivariable, Hughues- Hallett Gleason, Wiley India Ed, 4ed, 2009. 
 2. Calculus I, Jerrold Marsden and Alan Weinstein, Springer-Verlag, 2e, 1986. 
 3. K.N. HariBhat & D.GaneshRao, Digital Communications: A simplified Approach, 2nd Ed, Sanguine, 2005, Bangalore 
-  ## Page 139
  FORM 
 ISO 9001: 2008 - BVBCET 
 School of Electronics 
@@ -4170,7 +4049,6 @@ Active and passive circuit elements, Voltage & current sources, Resistive networ
 Analysis, Super mesh, Star - Delta Transformation. 
 [ Text 1: Chapter 4, 5, 7 
 10 hrs 
- ## Page 140
  FORM 
 ISO 9001: 2008 - BVBCET 
 School of Electronics 
@@ -4202,7 +4080,6 @@ House (1998).
 2005, Tata McGraw Hill Education Private Limited, New Delhi. 
 5. Serway and Jewett, "Physics for Scientists and Engin eers-with Modern Physics", 9 th Edition, CENGAGE learning. 
 2014 
-  ## Page 141
  FORM 
 ISO 9001: 2008 - BVBCET 
 School of Electronics 
@@ -4254,7 +4131,6 @@ connections to RS-232, Serial communication Programming in assembly and C.
 1. "The 8051 Microcontroller and Embedded Systems - using assembly and C "-, Muhammad Ali 
 Mazidi and Janice Gillespie Mazidi and Rollin D. McKinlay; PHI, 2006 / Pearson, 2006 
 2. The 8051 Microcontroller By Kenneth J. Ayala 3 
-  ## Page 142
  FORM 
 ISO 9001: 2008 - BVBCET 
 School of Electronics 
@@ -4302,7 +4178,6 @@ Introduction operational amplifiers: OP-AMP Architect ure, Basic OP-AMP Circuits
 Non-inverting Amplifier. Linear Applications of OP-AMP : Summer Circuit, Subtractor. Voltage Follower, Inte grator and 
 Differentiator, Numerical Examples. 
   10 Hrs 
-  ## Page 143
  FORM 
 ISO 9001: 2008 - BVBCET 
 School of Electronics 
@@ -4324,7 +4199,6 @@ References
 5. Richard R. Spencer & Mohammed S. Ghousi, " Introduction to Electronic Circuit Design", Pearson Education, 2003 
 6. J. Millman & A. Grabel, "Microelectronics"-2nd edition, McGraw Hill, 1987. 
 7. Behzad Razavi, "Fundamentals of Microelectronics", reprint 2015 Wiley publications. 
-  ## Page 144
  FORM 
 ISO 9001: 2008 - BVBCET 
 School of Electronics 
@@ -4378,9 +4252,7 @@ References
 3. Mono and Kim, Logic and Computer Design Fundamentals, Pea rson, 2ed, 2001 
 4. 
 David Harris Money and Sarah Harris, Digital Design and Computer Architecture, Morgan Kaufman, 2007. 
- ## Page 145
  [Modifications in B.Sc regulations] 
- ## Page 146
  The original regulations and modified /new regulations are presented below 
 Regulation 
 number 
@@ -4466,13 +4338,10 @@ Compulsory Courses(AEC)3%
 02 02 04 
 Skill Enhancement Courses 7% 04 02 08 
 Total 130 
-  ## Page 147
  [Strategic Plan of the KLE Technological University] 
- ## Page 148
  KLE Technological University, Hubballi 
 Strategic Plan: 2016- 2020 
   Overview 
-  ## Page 149
  Introduction 
   KLE Technological University (KLE Tech) has its roots in one of the premier engineering institution 
 of Karnataka, B. V. Bhoomaraddi College of Engineering and Technology, Hubl i (BVB). The 
@@ -4500,7 +4369,6 @@ college was recognized as a state private University by Government of Karnataka.
 heritage of BVB College as one of the best engineering college comb ined with brand equity of 
 KLE Society are the starting points for KLE Technological University to emerge as a University with 
 a national distinction. 
-   ## Page 150
  Vice-Chancellor's foreword 
   Dear Colleagues, 
   With the rich heritage of seven decades in engineering education, B. V. B. College of Engineering 
@@ -4531,13 +4399,11 @@ support as we continue on this exciting journey.
   Yours sincerely 
   Dr. Ashok Shettar 
 Vice-Chancellor 
-   ## Page 151
  KLE Technological University 
 Hubballi 
 Strategic Plan: 2016- 2020 
   VISION 
 MISSION 
- ## Page 152
  Vision 
   KLE Technological University will be a national lea der in Higher 
 Education -recognized globally for innovative culture, outstanding 
@@ -4558,7 +4424,6 @@ contributing our expertise, experience and leadershi p, to enhance
 competitiveness and quality of life. 
 As a unified community of faculty, staff and students, we work together with the 
 spirit of collaboration and partnership to accomplish our mission. 
-  ## Page 153
  Theme 1 
 Outstanding Student Experience 
 The KLE Technological University will offer learning experience that stimulates, 
@@ -4586,7 +4451,6 @@ standards.
 c. Continually engage employers / industry in curriculum design 
 d. Evolve Strong verticals that are connected to the industry trend and 
 employment opportunities. 
-  ## Page 154
  2. Learning experience 
 Deliver a transformative Learning experience that is experiential, global and 
 Technology rich 
@@ -4616,14 +4480,12 @@ program improvement.
   a) Evolve student learning assessment plans and appropriate methods or 
 instruments for gathering data to measure attainment of student learning 
 outcomes. 
- ## Page 155
  b) Specify procedures for analyzing and interpreting the evidence gathered in 
 assessment learning outcomes at course level and program-level and 
 coordinate institutional learning assessment activities. 
 c) Identify the means by which information that results from assessment can 
 be used the effectively in course design, curriculum review, and program 
 development 
-   ## Page 156
  Theme 2 
 Impactful Research 
 KLE Tech will actively nurture and organize its research efforts and creative 
@@ -4653,7 +4515,6 @@ schools.
 disciplinary areas of research & development, that will allow us to compete 
 successfully for large funding opportunities and provide the ability to create 
 innovative solutions to societal needs. 
-  ## Page 157
  a. Promote and support interdisciplinary research and development 
 centers, that leverage breadth of our expertise to address the complex 
 problems faced by our nation and the world. 
@@ -4683,7 +4544,6 @@ teaching/learning, including the participation of undergraduate and
 postgraduate students in University research programs. 
 c. Evolve innovative enrollment strategies to recruit and support full time 
 researchers and personnel from industry. 
-  ## Page 158
  Theme 3 
 Societal Engagement 
 KLE Tech will actively seek out those strategic opportunities to contribute to the 
@@ -4711,7 +4571,6 @@ solutions to address them.
 b. Encourage and support the students to take up projects that have distinctive 
 feature of community engagement and benefit the local and regional 
 communities. 
-  ## Page 159
  Institute-Society 
 Actively engage in advancement of the region through leadership role in the 
 community and emerge as a model for university-society partnership. 
@@ -4733,7 +4592,6 @@ ecosystem in the campus and in the region.
 c. Promote and support innovation and research by students and faculty 
 leading to solutions that address wide range of societal needs and also create 
 value for the new enterprises. 
-  ## Page 160
  Enablers 
   People 
 KLE Tech. aspires to be an employer of choice, where faculty and staff achieve their 
@@ -4758,7 +4616,6 @@ links to reward, recognition and future development planning.
 faculty to enhance the relevance of the programs being offered. 
  Ensure all staff appointed to research enabled positions have a PhD or a 
 Research Development Plan as a condition of employment. 
-  ## Page 161
  Infrastructure 
 To provide modern, effective and efficient infrastructure and services that supports 
 stimulating working and learning environment of the University. 
@@ -4790,7 +4647,6 @@ about the University activities
 services and administrative activities 
  Develop Key Performance Indicators to measure and review the 
 performance of the University and leadership team. 
- ## Page 162
   Prioritize and align resources to our strategic priorities by actively 
 monitoring the funding position and objectively appraising the short and 
 long-term financial implications of all major decisions 
@@ -4813,13 +4669,10 @@ laboratory development.
 the social and economic development of the region. 
  Tie up with national and international professional bodies to constantly 
 learn and adapt world-wide best practices in educational practice. 
-  ## Page 163
  [Annual Report for the Academic Year 2015-16] 
- ## Page 164
  KLE TECHNOLOGICAL UNIVERSITY 
 ANNUAL REPORT 
 2015-16 
-  ## Page 166
  KLE TECHNOLOGICAL UNIVERSITY 
 KLE in its efforts to continue to serve the cause of education, has established 'KLE 
 Technological University, Hubballi' by upgrading on e of it's prestigious institutions 'B. V. 
@@ -4856,7 +4709,6 @@ drawn from different engineering disciplines in design and delivery of the cours
 The pedagogy of mathematics teaching in the University follows rule of four i.e. every topic 
 is dealt not only symbolically and numerically but also visually and contextually. Digital 
 tablets with appropriate software help every student in visualizing and contextualizing 
- ## Page 167
  mathematical concepts. This initiative in mathematics teaching is on the lines of 'Calculus 
 reform movement' of Harvard University consortium. 
 Social Innovations 
@@ -4895,7 +4747,6 @@ Engineering Education. And many Institutions in the country are showing interest
 from our practices. IUCEE is spreading this through f ormation of cluster of Gurukuls, which 
 is a group of Engineering Institutions with demonstr ated capabilities and aspirations to raise 
 their level of performance. 
- ## Page 168
  The IUCEE Gurukuls for Learning and Outcomes Based Ed ucation (iGLOBE) program 
 addresses this vital need for institutions to develop self-reliance towards achieving 
 excellence in engineering education. IUCEE will faci litate these Gurukuls (i.e. Centers for 
@@ -4934,7 +4785,6 @@ test and qualifying examination score, while allotting the ranks
 as management seats on the basis of academic records of qualifying examinations. 
 For post graduate programs, Post Graduate Common Entrance Test (PGCET) conducted by 
 Karnataka examination authority, is used for the selection of students. 
-   ## Page 169
  Undergraduate Programs 
 Sl.No. Programme Sanctioned Intake 
 1 Civil Engineering 120 
@@ -4969,7 +4819,6 @@ Sl.No. Programme
 7 Centre for Engineering Education Research 
 8 Social Sciences 
 9 Applied Sciences 
-  ## Page 170
  Student admissions for the year 2015-16 - UG 
 Sl.No. Programme Admitted Nos. 
 1 Civil Engineering 125 
@@ -4997,7 +4846,6 @@ Sl.No. Programme Admitted Nos.
 Student Strength 
 A total of 2840 students are studying at the Universit y of which 2326 are UG students, 482 
 are PG students and 32 are Research Scholars. 
-   ## Page 171
  UG 2016 Examinations 
 Course & Class I Semester % of 
 Passing 
@@ -5019,7 +4867,6 @@ Electrical Sciences % of Passing 88.47 92.48
 Mechanical Sciences Average CGPA 7.83 7.23 
 Electrical Sciences Average CGPA 7.29 7.89 
 Architecture Overall Average CGPA 6.89 6.84 
-  ## Page 172
  PG 2016 Examinations 
 Course & Class I Semester% of 
 Passing 
@@ -5038,7 +4885,6 @@ Machine Design 95.65 100.00
 MBA Overall Average CGPA 6.96 6.85 
 MCA Overall Average CGPA 6.92 6.90 
 MTech. Overall Average CGPA 7.33 7.56 
-  ## Page 173
  Research and Innovation 
 Research centers 
   KLE TECH has 9 research centers with 27 doctoral facul ty guiding 32 registered doctoral 
@@ -5078,7 +4924,6 @@ ecosystem
   CTIE Strategy: 
 To help build a technology entrepreneurship ecosyst em, CTIE followed a two pronged 
 approach. The first is to encourage external entreprene urs with a good business plan and 
- ## Page 174
  cultural fit to start their business on University cam pus. This enabled quick ramping up of 
 companies with commercial interest that served as a beacon to engage students in a variety 
 of collaborative activities. Alumni of BVB responded to this call effectively and many 
@@ -5114,7 +4959,6 @@ enhance its student learning experience and relevance of its research activities
   Curriculum intervention: 
 Board of studies of every program is having at least two senior members from Industries like 
 Microsoft, GE, Tata motors, TCS, Samsung, Sankalp etc. 
-  ## Page 175
  MoU's Signed: 
 KLE Technological University has signed MOUs with f ollowing Industries and 
 Institutions for collaborative academic &research works: 
@@ -5144,7 +4988,6 @@ platform are part of new network.
  5 conference halls and 2 auditoriums with audiovisual facilities 
  15 classrooms are equipped with lecture capturing systems. 
  Video conference facilities at 2 conference halls. 
-   ## Page 176
  Events Organized 
 University organized its first international conference on 'Enabling Make in India: Challenges 
 and Opportunities for Engineering Education'. It was organized during January 6-8, 2016. 
@@ -5154,5 +4997,4 @@ than 70 top colleges of the country and more than 15 expert speakers from four c
 delegates participated in the conference is 425. 
   The aim of the Conference was to bring about greater understanding of the issue involved in 
 Make in India, sharing of world-wide best practices and experiences in this area and evolve 
-a broad framework for the transformative process that enables the initiative. 
- 
+a broad framework for the transformative process that enables the initiative.

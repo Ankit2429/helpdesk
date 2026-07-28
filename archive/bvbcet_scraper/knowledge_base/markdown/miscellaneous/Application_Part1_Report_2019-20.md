@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: Application_Part1_Report_2019-20"
+title: "Application Part1 Report 2019 20"
 category: "miscellaneous"
 subcategory: "Application"
 document_type: "notice"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["document", "engineering", "graduate", "ready", "school", "technology"]
 aliases: ["HOD", "Head of Department", "CSE", "CS", "EEE", "EE", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "51"
 ---
-# PDF Document: Application_Part1_Report_2019-20
- **PDF Source:** https://www.kletech.ac.in/pdf/Application_Part1_Report_2019-20.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/Application_Part1_Report_2019-20.pdf
  Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
                      All India Council for Technical Education (An Autonomous Organization, Under Ministry of HRD, Govt. of India)
@@ -67,7 +67,6 @@ The number so generated WRO 1-1123456717.1002001 should be written on top of eac
 W R O 1 - 1 1 2 3 4 5 6 7 1 7 . 1 0 0 2 0 0 1
 Please do not bind or staple, as all pages are going to be scanned. All pages should be knotted on the left hand top corner. This set of knotted 
 documents should be submitted.
- ## Page 2
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -97,7 +96,6 @@ Note: Please submit the hard copy of this Report to Regional Officer only if App
 Received" / "Payment Not Applicable" - IN CASE OF GOVT/GOVT. AIDED/ CENTRAL/STATE UNIVERSITY DEPT
 **All the Dates in the Report are in dd/mm/yyyy format.
 **NA refers to Not Applicable
- ## Page 3
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -182,7 +180,6 @@ Technology and/or MCA courses into regular courses?
 No
 (xii) Whether your institution is selected for Study in India Program by Govt. by India? No
 (xiii) Whether your Institution has got affiliation from university or DTE or Board? (Applicable for Only Data Not Provided by the Institute 
- ## Page 4
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -269,7 +266,6 @@ State/UT Karnataka District DHARWAD
 Pin Code 580031 Designation HOD & DEAN(P&D)
 Cell No. 9243282898 Alternate Cell No. Data Not Provided by the Institute 
 Email bbkshettar@kletech.ac.in Alternate Email Address bbkshettar@gmail.com
- ## Page 5
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -371,7 +367,6 @@ Administrative (Sqm)
 652 Constructed Carpet 
 Area Administrative 
 652
- ## Page 6
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -539,7 +534,6 @@ courses run in the
 Building (If Any)
 NIL
 Name of the Building Hubli-Dharwad Building Plan Approval 06/06/1985 Approval No. hdc/206
- ## Page 7
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -699,7 +693,6 @@ Area(Sqm)
 1490 Approved Carpet Area 
 Instructional (Sqm)
 777. 89
- ## Page 8
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -873,7 +866,6 @@ Muncipal
 Building Plan Approval 
 Date
 05/09/1984 Approval No. hdc/682
- ## Page 9
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -1037,7 +1029,6 @@ Amenities(Sqm)
 (Sqm)
 1694. 94
 Total Area Constructed 1694.94 Activities Conducted in POST OFFICE, Non AICTE approved NIL
- ## Page 10
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -1170,7 +1161,6 @@ Twining Program Request Not interested NBA Accreditation status (As on 10th Apri
 No
    Sr. No. 2 Course Unique Id 1-3626782863 Programme ENGINEERING AND 
 TECHNOLOGY
- ## Page 11
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -1259,7 +1249,6 @@ Level UNDER GRADUATE Course AUTOMATION AND
 ROBOTICS
 Shift 1st Shift
 FT/PT FULL TIME Started In 2018 Applying For EoA Only
- ## Page 12
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -1349,7 +1338,6 @@ PIO / FN / Gulf Quota
 Approval status OCI
 Applied to continue
 Twining Program Request Not interested NBA Accreditation status (As on 10th April, No
- ## Page 13
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -1436,7 +1424,6 @@ TECHNOLOGY
 Level POST GRADUATE Course VLSI DESIGN AND 
 EMBEDDED 
 Shift 1st Shift
- ## Page 14
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -1560,7 +1547,6 @@ ADC
 102
 71 Ready Ready Ready Ready
  4 MCA POST MB1 Departme Tutorial ADC 47 Ready Ready Ready Ready
- ## Page 15
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -1803,7 +1789,6 @@ Laboratory AR1
 02A
 67 Ready Ready Ready Ready
  25 ENGINEERING UNDER MS-B13 School of Laboratory AR1 70 Ready Ready Ready Ready
- ## Page 16
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -2086,7 +2071,6 @@ Room
 ARL
 18B
 34 Ready Ready Ready Ready
- ## Page 17
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -2332,7 +2316,6 @@ Laboratory BTL1
 06
 30 Ready Ready Ready Ready
  69 ENGINEERING UNDER BT-B7 Departme Laboratory BTL1 88.28 Ready Ready Ready Ready
- ## Page 18
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -2532,7 +2515,6 @@ Environm
 Classroom CEC
 107
 66 Ready Ready Ready Ready
- ## Page 19
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -2712,7 +2694,6 @@ Engg.
 Laboratory CEL
 14A
 100 Ready Ready Ready Ready
- ## Page 20
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -2927,7 +2908,6 @@ B6
 CLITE Laboratory CSL
 23A
 65. 23 Ready Ready Ready Ready
- ## Page 21
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -3134,7 +3114,6 @@ s &
 Classroom ECC
 104
 47 Ready Ready Ready Ready
- ## Page 22
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -3303,7 +3282,6 @@ Laboratory
 ECL
 116
 66 Ready Ready Ready Ready
- ## Page 23
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -3465,7 +3443,6 @@ Communi
 Laboratory ECL
 205
 95 Ready Ready Ready Ready
- ## Page 24
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -3650,7 +3627,6 @@ Engg
 Classroom EEC
 201
 58 Ready Ready Ready Ready
- ## Page 25
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -3838,7 +3814,6 @@ Hall
 EES
 210
 200 Ready Ready Ready Ready
- ## Page 26
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -4054,7 +4029,6 @@ IPT1
 01
 34 Ready Ready Ready Ready
  199 ENGINEERING UNDER MS-B13 School of Tutorial IPT2 33 Ready Ready Ready Ready
- ## Page 27
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -4249,7 +4223,6 @@ Memorial
 Classroom LHC
 102
 90 Ready Ready Ready Ready
- ## Page 28
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -4393,7 +4366,6 @@ Classroom LHC
 203
 66 Ready Ready Ready Ready
  222 ENGINEERING UNDER RHK-B11 Dr Classroom LHC 66 Ready Ready Ready Ready
- ## Page 29
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -4542,7 +4514,6 @@ ni
 Classroom LHC
 27A
 71 Ready Ready Ready Ready
- ## Page 30
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -4707,7 +4678,6 @@ Room
 LHT
 201
 55 Ready Ready Ready Ready
- ## Page 31
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -4919,7 +4889,6 @@ MDT
 2
 35 Ready Ready Ready Ready
  257 ENGINEERING UNDER MS-B13 School of Additional ME 205 Ready Ready Ready Ready
- ## Page 32
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -5177,7 +5146,6 @@ Mechanic
 Laboratory MEL
 16
 167. 28 Ready Ready Ready Ready
- ## Page 33
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -5418,7 +5386,6 @@ GRADUATE
 EC-B4 TIFAC2 Classroom TIFA
 C2
 75 Ready Ready Ready Ready
- ## Page 34
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -5529,7 +5496,6 @@ Environmental Engg
 Faculty Room CE119 20.44 Ready Ready Ready Ready
    19 MB-1 MAIN BUILDING Central Store CEA101 130 Ready Ready Ready Ready
    20 MB-1 MAIN BUILDING Other Office CEA118 20 Ready Ready Ready Ready
- ## Page 35
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -5641,7 +5607,6 @@ Engineering
 Cabin for 
 Head of Dept
 H10-AR 62.25 Ready Ready Ready Ready
-  ## Page 36
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -5766,7 +5731,6 @@ Faculty Room S11 9.28 Ready Ready Ready Ready
 Engineering
 Faculty Room S12 28.43 Ready Ready Ready Ready
    83 MS-B13 School of Mechanical Faculty Room S13 8.92 Ready Ready Ready Ready
- ## Page 37
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -5876,7 +5840,6 @@ Furniture
 & Fixtures
  1 ARC-B20 MAIN BUILDING Toilet ARC-CR 50.4 Ready Ready Ready Ready
    2 ATM-21 ATM Others ATM 10 Ready Ready Ready Ready
- ## Page 38
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -6002,7 +5965,6 @@ DIGITAL
 300000 20000 65371
 6
 No
-  ## Page 39
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -6234,7 +6196,6 @@ N LAB
 9
 No
    16 ENGINEERING UNDER MECHANICAL MS-B13 SCHOOL AUTOMATIO 30000 5000 0 No
- ## Page 40
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -6455,7 +6416,6 @@ TION LAB
 90000 20000 90000
 0
 No
-  ## Page 41
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -6671,7 +6631,6 @@ SIGNAL
 10000 5000 21052
 16
 No
-  ## Page 42
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -6901,7 +6860,6 @@ Y LAB
 50000 50000 14250
 47
 No
-  ## Page 43
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -7112,7 +7070,6 @@ CAL
 MACHINE 
 DESIGN LAB
 25000 50000 0 No
-  ## Page 44
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -7337,7 +7294,6 @@ S LAB
 200000 10000 20000
 0
 No
-  ## Page 45
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -7579,7 +7535,6 @@ CLITE-B6 CLITE PG LAB 140000 50000 54770
 8
 No
    93 ENGINEERING UNDER ELECTRICAL EE-B2 ELECTRI POWER 50000 30000 51005 No
- ## Page 46
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -7796,7 +7751,6 @@ DESIGN LAB
 170000 40000 20000
 0
 No
-  ## Page 47
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -8004,7 +7958,6 @@ box
 BY CLICKING THIS CHECK BOX THE INSTITUTE HEREBY DECLARES THAT IT HAS SUBSCRIBED FOR ALL THE 
 REQUIRED E-JOURNALS AS MENTIONED IN APPROVAL PROCESS HANDBOOK 2019-2020.
 No
- ## Page 48
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -8168,7 +8121,6 @@ Grievance Committee Appointment Yes OMBUDSMAN Appointment Yes
 Ombudsman Appointment/Grievance Committee Details
 Data not entered by Institute
 Anti-Ragging Related Details Provided by the Institute
- ## Page 49
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -8253,7 +8205,6 @@ Yes
 Establishment of Grievance Redressal Committee in the Institute and Appointment of OMBUDSMAN by the
 University
 Yes
- ## Page 50
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -8292,7 +8243,6 @@ Efforts to encourage Final Year students to appear GATE examination Yes
 Display of information submitted to AICTE (including the accreditation status and Board of Governors) 
 along with mandatory disclosures in the Web site of the Institution
 Yes
- ## Page 51
  Application Report - Part 1
 Application Status: Submitted
 Application Sub-Status: Payment Received

@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 189krf-Campus-Placement-Brochure"
+title: "Campus Placement Brochure"
 category: "placements"
 subcategory: ""
 document_type: "act"
@@ -11,14 +11,13 @@ language: "en"
 keywords: ["brochure", "campus", "college", "document", "karnataka", "legal", "placement", "students", "university"]
 aliases: []
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "11"
 ---
-# PDF Document: 189krf-Campus-Placement-Brochure
- **PDF Source:** https://www.kletech.ac.in/uploads/Files/189krf-Campus-Placement-Brochure.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/uploads/Files/189krf-Campus-Placement-Brochure.pdf
  KLE SOCIETY'S LAW COLLEGE
 BENGALURU
 Hosted By
- ## Page 2
  KLE SOCIETY'S LAW COLLEGE
 The K.L.E. Society's Law College at Bangalore has been conceived as a nursery and training ground for 
 those seeking to enter the legal profession. Under the umbrella of Karnataka Lingayat Education 
@@ -47,7 +46,6 @@ among one of the renowned places of excellence in legal education. Spacious clas
 with comfort seating and LCD facilities for interactive teaching, staff rooms with IT resources for the staff, 
 moot court hall, a very well stalked library, e-library with access to various online and off-line databases 
 for research and other facilities makes legal research easy and enjoyable.
- ## Page 3
  MENTOR
 THE CAREER GUIDANCE CELL
 MENTOR is the Career Guidance Cell of KLE Society's Law College and has been training students and 
@@ -73,7 +71,6 @@ Some of our current partners are:
 4) Green Lawyers
 5) British Legal Centre
 6) Xplore Consultancy
- ## Page 4
  COLLEGE ACHIEVEMENTS
 ACHIEVEMENTS OF STAFF 
 S. NO. NAME AWARD YEAR OF AWARD 
@@ -109,7 +106,6 @@ Need of the Hour
 4. Mr. Rajesh Kumar Skills Orientation and Upgradation in 
 Higher Education 
 4th and 5th Sept. 2015 
-  ## Page 5
  COLLEGE ACHIEVEMENTS
 EXTRA CURRICULAR ACHIEVEMENTS OF STUDENTS 
 S. NO NAME COMPETITON(S) AWARDS 
@@ -162,11 +158,8 @@ Hubballi
 2015 
 Karnataka State Law University, 
 Hubballi 
-  ## Page 6
  Co- Curriculars
- ## Page 7
  Extra Curriculars
- ## Page 8
  Student Analysis
 Total Students : 162
 Job
@@ -179,7 +172,6 @@ Speaking
 Hindi 
 SpeakingKannada 
 Speaking
- ## Page 9
  Our Visitors
 Mr. Malcolm 
 Dowden
@@ -205,13 +197,11 @@ Justice K.L.
 Manjunath
 Mr. S. Vijay 
 Shankar
- ## Page 10
  PREVIOUSLY ASSOCIATED ORGANIZATIONS
 Knowledge Partners
 Other organizations
 Kindly note that all the above mentioned organizations have either done a joint venture with us or our students have directly or indirectly been 
 associated with them.
- ## Page 11
  GET IN TOUCH
 K.L.E Society Law College 
 P. Box No: 1059, II Block,

@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 5th_BOG_Minutes"
+title: "BOG Minutes"
 category: "miscellaneous"
 subcategory: ""
 document_type: "minutes"
@@ -11,19 +11,18 @@ language: "en"
 keywords: ["asst", "department", "document", "engineering", "prof", "year"]
 aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "45"
 ---
-# PDF Document: 5th_BOG_Minutes
- **PDF Source:** https://www.kletech.ac.in/pdf/5th_BOG_Minutes.pdf
- ## Page 1
- 1 
+**PDF Source:** https://www.kletech.ac.in/pdf/5th_BOG_Minutes.pdf
+
   Minutes 
 5th Board of Governors Meeting 
 of 
 KLE Technological University 
 Hubballi, Karnataka 
 October 27, 2016 
-  ## Page 2
- 2 
+
   The following are the minutes of the Board of Governors Meeting of KLE Technological 
 University, Hubballi which was held on 27th October 2016 at 3 .00 pm. at the Senate Hall 
 of the university. 
@@ -73,8 +72,7 @@ Former Vice Chancellor, Mangalore University,
 Veerbhadra Kripa, Navodaya Nagar, 
 Dharwad-580003 
 Member 
-  ## Page 3
- 3 
+
   Agenda 
   Item 
 No. 
@@ -114,8 +112,7 @@ Technological University.
  Annexure-4 : List of faculty transferred from B. V. Bhoomaraddi College of 
 Engg. & Tech. to KLE Technological University 
 34 
- ## Page 4
- 4 
+
   Agenda 5.1 
 To read and confirm the minutes of the meeting of the Board of Governors 
 held on 5th April 2016 
@@ -175,8 +172,7 @@ Action taken:
 Students have 
 been admitted 
 to the 
- ## Page 5
- 5 
+
   for the 
 academic 
 year 2016-17 
@@ -256,8 +252,7 @@ n Engineering
 the seat 
 sharing ratio is 
 95:5. 
-  ## Page 6
- 6 
+
   Agenda 
 4. 7 
   To appoint 
@@ -348,14 +343,12 @@ about scope
 and functions 
 of the Estate 
 Council. 
-  ## Page 7
- 7 
+
   Action Requested: The Board of Governors is requested to approve the action taken 
 report on the minutes of the previous meeting held on 5th April 2016. 
   Resolution 5.2: Resolved to approve the action taken report on the 
 minutes of the previous meeting held on 5th April 2016. 
-  ## Page 8
- 8 
+
   Agenda 5.3 
 To consider and approve the resolutions of Finance Council of the 
 University. 
@@ -385,8 +378,7 @@ The report consists of the following:
 2. Research strategy 
 Resolution 5.5: Resolved to approve the report submitted by the Research 
 Council. 
- ## Page 9
- 9 
+
   Approved report is enclosed as Annexure 2. 
 Agenda 5.6 
 To nominate Experts on Faculty Selection Committees. 
@@ -414,8 +406,7 @@ the Vice-Chancellor of KLE Technological University to
 approve such transfers in future and direct the 
 Registrar for necessary actions in the matter . 
   List is attached as Annexure-5 
-  ## Page 10
- 10 
+
   Agenda 5.9 
 Any other subject with the permission of the Chair 
 Table Agenda: To consider raising of term loan for the proposed 
@@ -442,12 +433,10 @@ Registrar, KLE Technological University, Hubballi (UG Aided Courses)
   Chairman thanked all the members for their contributions 
                      Chairman 
          Board of Governors 
- ## Page 11
- 11 
+
   ANNEXURE - 1 
   Admission Committee Report for the Academic Year 2016-17 
- ## Page 12
- 12 
+
   ADMISSION COORDINATOR REPORT FOR 2016-17 
 We are pleased to present the admissions report for the academic year 2016-17 as following. 
 Conducive environment is provided for admissions with studio facility to take photos of students, 
@@ -473,8 +462,7 @@ First Year BE, totally fifteen divisions have been made. Having become Universit
 already generated the Student Registration Number (SRN) and updated in the software. We shall 
 be shortly providing the permanent RF ID cards to students with SRN. 
   22. 10.2016 Coordinator, Admission Committee 
-  ## Page 13
- 13 
+
    Intake for Academic Year 2016-17 
 Sl. No. Programs/ Courses Intake 
 UNDER GRADUATE PROGRAMS 
@@ -499,8 +487,7 @@ Faculty of Engineering & Technology
 7. ME / MTech in Machine Design 24 
  Sub Total 150 
 Faculty of Computer Applications 
- ## Page 14
- 14 
+
   1. Master of Computer Applications 60 
 Faculty of Management 
 1. Master of Business Management 60 
@@ -508,8 +495,7 @@ Faculty of Management
    In addition GOI (Govt. of India) quota shall be max of 28 Nos. at First Year BE/ BTech. 
 At Second year admissions additional intake - Lateral entry shall be 20% of each 
 Department intake except for BT & Architecture programs. 
-  ## Page 15
- 15 
+
   Students Admitted Report for Academic Year 2016-17 
   Students admitted lists are as following: 
 1. First year BE/BArch and PG Programs during academic year 2016-17 and 
@@ -533,8 +519,7 @@ Course Intake Male Female Total
 MBA 60 36 21 57 
 MCA 60 24 32 56 
 M Tech 
- ## Page 16
- 16 
+
   Structural Engg 18 11 07 18 
 Energy Systems Engg 18 10 05 15 
 Production Management 18 11 02 13 
@@ -558,8 +543,7 @@ School of Electrical & Electronics Engineering 03 01 04
 School of Mechanical Engineering 06 00 06 
 School of Management 00 01 01 
 Grand Total 32 
- ## Page 17
- 17 
+
   Admissions to Second Year 
   BE Programs 
 Course Class Eligible from BE First Year Lateral CET Admission Lateral against Vacancy Total 
@@ -577,8 +561,7 @@ Communication
 Mechanical Engineering 235 31 24 290 
 Architecture 60 -- -- 60 
 Grand Total 1029 131 66 1226 
-  ## Page 18
- 18 
+
   P G Programs 
 Course Class Total 
 MBA Second Year 53 
@@ -604,15 +587,12 @@ Research Programs Calendar year 2016 32
 BE/BArch Second Year 1226 
 PG Programs Second Year 245 
 Grand Total 2840 
-  ## Page 19
- 19 
+
   B E admitted in 2016-17 Student Quality Index for General Merit Students Only. 
-  ## Page 20
- 20 
+
   ANNEXURE - 2 
 Research Council Report for the Calendar Year 2016-17 
- ## Page 21
- 21 
+
   Research Council Report : 
 A. Formation of Regulations Governing Research Programmes of KLE Technological 
 University: 
@@ -638,8 +618,7 @@ from SRC and School heads, and any other issue related to MS/PhD registrations f
 tenure of 03 year have been approved by the RPC.(Appendix -5: RRC) 
   F. Research Entrance Test (RET), Pre-registration presentations and Final List of 
 candidates for Ph.D Programme 
-  ## Page 22
- 22 
+
   The list if candidare applied for the admission to Ph.D programme has been prepared 
 from the applications submiited by the candidates. The RET exam was scheduled from 
 10:30am to 12:30pm on 6th March 2016. Total of 82 cadidates attended for the 
@@ -667,8 +646,7 @@ Applied Sciences (AS) PHY 4 03
  CHEM 3 02 
  MATHS 2 00 
 Total 82 32 
- ## Page 23
- 23 
+
   The details of the PhD Programme fees collected based on the category of admission. 
 The detais are as follows: 
 Category Candidates From Academic Candidates From Industry 
@@ -691,8 +669,7 @@ E & E 12 3 15
 Civil & Env. 11 1 12 
 Mechanical 15 0 15 
 Applied Sciences 6 2 8 
- ## Page 24
- 24 
+
   Mgnt. & Social Science 7 0 7 
 biotechnology 2 1 3 
 Engg. Edu Research 5 0 5 
@@ -730,8 +707,7 @@ Effective Communication skills, Entrepreneurial
 qualities, Enhancing Potential of Rural Women 
 Centre for Engineering 
 Education Research Engineering Education 
- ## Page 25
- 25 
+
   Center for Material Science Nano Composites, Membrane Technology, Mano 
 Materils, Semiconductor and Bio Plastic Materials 
 ESD Cluster Cloud Storage And Big Data Analytics, M2m And 
@@ -745,12 +721,10 @@ organizations for R & D:
 Agriculture 
  Continental - Mobility solutions 
 MMRFIC - RF IC 
-  ## Page 26
- 26 
+
   ANNEXURE - 3 
 Nominations of Experts on Faculty Selection Committees 
-  ## Page 27
- 27 
+
   Suggestions for nomination of Experts for 
 faculty selection committee 
   School of Mechanical Engineering 
@@ -793,8 +767,7 @@ soma.biswas@ee.iisc.ernet.in
 4. Dr.Subhashis Banerjee Professor Computer Science and Engineering 
 IIT Delhi, Delhi 
 Phone: +91 (11) 26591288 
- ## Page 28
- 28 
+
     suban@cse.iitd.ac.in 
 5. Dr.Muralidhar Kulkarni Professor Dept. of E & C at NITK Surathkal, 
 Karnataka 
@@ -829,8 +802,7 @@ Designation Organization / Institute
 6. Dr .Shivashankar Professor NITK Surathkal 
 7. Dr . M.M. Mujumdar Professor IISc. Bangalore 
 8. Dr . Koshy Varghese Professor IITM, Chennai 
-  ## Page 29
- 29 
+
   School of Computer Science & Engineering 
 Sl.No Name of Expert 
 suggested 
@@ -880,29 +852,14 @@ Designation Organization / Institute
 2. Dr. K. N. Shubhang Professor NIT, Surthkal 
 3. Dr. V. N. Shet Principal GEC, Goa 
 4. Dr. B. N. Choudhari Dean COE, Pune 
-  ## Page 30
- 30 
+
   ANNEXURE - 4 
 Results of the Even and Summer Semesters of all Programs 
-  ## Page 31
- 31 
-  ## Page 32
- 32 
-  ## Page 33
- 33 
-  ## Page 34
- 34 
-  ## Page 35
- 35 
-  ## Page 36
- 36 
-  ## Page 37
- 37 
+
   ANNEXURE - 5 
   List of faculty transferred from B. V. Bhoomaraddi College of Engg. & Tech. to 
 KLE Technological University 
-  ## Page 38
- 38 
+
   Transfers from BVB College of Engg & Technology Hubballi to 
 KLE Technological University Hubballi 
 For the Year 2016-17 
@@ -933,8 +890,7 @@ Sl.No NAME DESIGNATION BVB DEPARTMENT
 7 Sri. SHRIDHAR M ASST PROF 
 8 Sri. S M MUKHANDMATH ASST PROF 
 9 Sri. ADARSH PATIL ASST.PROF. 
- ## Page 39
- 39 
+
   10 Dr. B B KOTTURSHETTAR PROFESSOR HOD Industrial Production 
 11 Sri.B S KAKOL ASSOC.PROF. 
 12 Sri.PRASANNA RARAVI ASST.PROF. 
@@ -965,8 +921,7 @@ Communication 6 Mrs.UJWALA PATIL ASSOC.PROF.
 1 Sri Y M UMATHAR ASSOC.PROF. Mathematics 
 2 Smt.D A PATIL ASST.PROF. 
 3 Ms. NIVEDITA KABBUR ASST.PROF. 
- ## Page 40
- 40 
+
   4 Mrs. P VINOTHINI ACHARYA ASST.PROF. 
 5 Dr. M B PAGE ASST.PROF. 
 6 Ms. ROOPA S ALGUR ASST.PROF. 
@@ -989,8 +944,7 @@ Sl.No NAME DESIGNATION BVB DEPARTMENT
 3 MANJULA P PANDARIKAR ASST.PROF. 
  Department of Bio Technology 
     Sl.No NAME DESIGNATION BVB DEPARTMENT 
- ## Page 41
- 41 
+
   1 Dr. UDAY MUDDAPUR PROFESSOR Bio Technology 
 2 Sri.LAXMIKANT R PATIL ASSOC.PROF. 
 3 Ms. ZABIN K BAGEWADI ASST.PROF. 
@@ -1013,8 +967,7 @@ Sl.No NAME DESIGNATION BVB DEPARTMENT
 2 Smt. SUJATA R KULKARNI ASST.PROF. 
 3 Smt. DEEPA C MULIMANI ASST.PROF. 
 4 Sri. AMIT V KACHAVIMATH ASST PROF. 
-  ## Page 42
- 42 
+
   NON-TEACHING STAFF 
 School of Computer Science & Engineering 
     Sl.No NAME DESIGNATION BVB DEPARTMENT 
@@ -1039,8 +992,7 @@ Sl.No NAME DESIGNATION BVB DEPARTMENT
 1 Sri.M N CHATTANNAVAR FOREMAN Instrumentation Technology 
 2 Smt. A G SHETTAR INSTRUCTOR 
 3 Sri.R B KALYANI ASST.INST. 
- ## Page 43
- 43 
+
    School of Architecture 
     Sl.No NAME DESIGNATION BVB DEPARTMENT 
 1 Sri.S P SEERI INSTRUCTOR Architecture 
@@ -1061,8 +1013,7 @@ Sl.No NAME DESIGNATION BVB DEPARTMENT
       School of Management Studies and Research 
 Sl.No NAME DESIGNATION BVB DEPARTMENT 
 1 Ms. JAYANTI BELUR PL OFFICER MBA 
- ## Page 44
- 44 
+
   2 Sri. V GADAGIN OFF. ASST. 
 3 Sri. J P CHATNI OFF. ASST. 
 4 Sri. RAVI KAMMAR ASST.INST. 
@@ -1098,10 +1049,8 @@ Sl.No NAME DESIGNATION BVB DEPARTMENT
 24 Mrs.SHAMBHAVI G D ASST.LIBRARIAN 
 25 Sri.SIDDANNA ARESHIMI ELECTRICIAN 
 26 Mrs. BHARATI BENDIGERI OFF. ASST. 
- ## Page 45
- 45 
+
   27 Mrs. MEDHA DESHPANDE OFF ASST. 
 28 Ms DEEPA U GAONKAR SYS ANALYST Exam Section 
 29 Sri.ANAND HANCHINAL SYST. ADM. Info Cell 
-30 Sri. ADVEPPA I B ASST.INST. 
-  
+30 Sri. ADVEPPA I B ASST.INST.

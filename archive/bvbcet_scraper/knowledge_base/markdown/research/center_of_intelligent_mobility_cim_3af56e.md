@@ -44,4 +44,3 @@ last_modified: "2026-07-28"
  - Perception and Control
 - Security
 - Connectivity
- 

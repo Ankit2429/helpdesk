@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 3rd-sem-mba-mca-mtech-2024-25-odd"
+title: "Sem Mba Mca Mtech 2024 25 Odd"
 category: "academics"
 subcategory: ""
 document_type: "minutes"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["april", "date", "document", "last", "march", "mba", "mca", "minor", "mtech", "odd"]
 aliases: []
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "1"
 ---
-# PDF Document: 3rd-sem-mba-mca-mtech-2024-25-odd
- **PDF Source:** https://www.kletech.ac.in/pdf/3rd-sem-mba-mca-mtech-2024-25-odd.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/3rd-sem-mba-mca-mtech-2024-25-odd.pdf
                                                                                                                                                                                                                                         1q2 
   ANAM 0201/1.0 
 CALENDAR OF EVENTS 
@@ -76,5 +76,4 @@ Minor 2 Marks Display : 16th May
 No of working 
 days 15 16 14 14 15 16 90 
 Holidays 
-  Marks / Attendance display Minor exam Feedback 
-    
+  Marks / Attendance display Minor exam Feedback

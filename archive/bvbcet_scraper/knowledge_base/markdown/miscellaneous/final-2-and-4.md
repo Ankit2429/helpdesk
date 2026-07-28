@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: final-2-and-4"
+title: "Final 2 And 4"
 category: "miscellaneous"
 subcategory: ""
 document_type: "minutes"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["april", "date", "document", "final", "july", "june", "minor"]
 aliases: []
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "1"
 ---
-# PDF Document: final-2-and-4
- **PDF Source:** https://www.kletech.ac.in/pdf/final-2-and-4.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/final-2-and-4.pdf
                                                                                                                                                                                                                                          1q2 
   ANAM 0201/1.0 
 CALENDAR OF EVENTS 
@@ -73,5 +73,4 @@ Last date for course (s) withdrawal : 22nd July
 No of working 
 days 16 16 15 15 14 14 90 
 Holidays 
-  Marks / Attendance display Minor exam Feedback 
-    
+  Marks / Attendance display Minor exam Feedback

@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: bba-llb-2021-26-batch"
+title: "B.B.A. LL.B. Curriculum"
 category: "miscellaneous"
 subcategory: ""
 document_type: "syllabus"
@@ -11,16 +11,15 @@ language: "en"
 keywords: ["batch", "bba", "course", "document", "edition", "india", "llb", "marks", "unit"]
 aliases: ["HOD", "Head of Department", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "167"
 ---
-# PDF Document: bba-llb-2021-26-batch
- **PDF Source:** https://www.kletech.ac.in/pdf/bba-llb-2021-26-batch.pdf
- ## Page 1
- 1 
+**PDF Source:** https://www.kletech.ac.in/pdf/bba-llb-2021-26-batch.pdf
+
   Curriculum Structure and Content for the Academic Batch 2021-26 
   Law Programs 
 Program: B.B.A. LL.B. 
- ## Page 2
- 2 
+
   Table of Contents 
 Vision and Mission of KLE Technological University .............................................................................. 3 
 Vision and Mission Statements of the School / Department ................................................................ 4 
@@ -40,8 +39,7 @@ Semester- IX…………………………………………………………�
 Semester -X……………………………………………………………………………………………………………………………20 
 List of Open Electives .................................................................................................................................... 21 
 List of Program Electives ............................................................................................................................. 22 
- ## Page 3
- 3 
+
 Vision and Mission of KLE Technological University 
   Vision 
 KLE Technological University will be a national leader in Higher Education -recognised globally 
@@ -61,8 +59,7 @@ importance and priority.
 expertise, experience and leadership, to enhance competitiveness and quality of life. 
   As a unified community of faculty, staff and students, we work together with the spirit of 
 collaboration and partnership to accomplish our mission. 
-  ## Page 4
- 4 
+
   Vision and Mission Statements of the KLE Law College 
    Vision 
    To inspire, sculpt, and empower the students through holistic education to attain the objective of 'Learn with 
@@ -78,8 +75,7 @@ common man as the focal point.
  To create an apt atmosphere for learning with the aim of developing ethically strong and morally 
 exalted individuals with the values of love, truth, service, and sacrifice. 
  To promote research culture and nurture innovative ideas among the faculty and students 
-   ## Page 5
- 5 
+
   Program Educational Objectives/Program Outcomes and Program-Specific Objectives 
   Program Educational Objectives -PEOs 
 B.B.A. LL.B. graduates are expected to attain the following after 5 years of graduation 
@@ -116,8 +112,7 @@ PO7. Environment and Sustainability: Graduates will recognise environmental conc
 contribute to sustainable legal solutions that uphold ecological balance. 
 PO8. Ethics: Graduates will demonstrate ethical conduct, practice integrity and maintain accountability 
 in all professional and academic engagements. 
- ## Page 6
- 6 
+
   PO9. Individual and Teamwork: Graduates will function effectively as individuals and 
 collaborate as team members in multidisciplinary and multicultural settings. 
 PO10. Communication: Graduates will communicate legal ideas, construct arguments, and 
@@ -136,8 +131,7 @@ Governance and competition laws.
 PSO3 - Entrepreneurial and In-House Legal Roles: Graduates will develop legal 
 Strategies and support decision-making in start-ups, corporate legal cells and emerging 
 business ventures with a commercial legal perspective. 
- ## Page 7
- 7 
+
 Curriculum Structure-Overall 
   Semester: 1 to 10 (2021-26 batch) Total Credits: 224 
  I II III IV V VI VII VII IX X 
@@ -345,8 +339,7 @@ OPTIONAL - VI:
 International 
 Trade Law 
 21LBLT505 
- ## Page 8
- 8 
+
 Law of Torts 
 21LBLC102 
 Contract Law - 
@@ -543,8 +536,7 @@ ng
 ELECTIVE - IV: 
 Healthcare Law 
 21LALE503 
- ## Page 9
- 9 
+
 COURSE - 
 IV) 
             ELECTIVE 
@@ -630,8 +622,7 @@ be
 4 Weeks (to be 
 completed 
 after IX Sem, 
- ## Page 10
- 10 
+
 for 
 Mandator
 y Moots 
@@ -669,8 +660,7 @@ CLINICAL
 COURSE - 
 IV) 
   Credits 24 22 24 20 24 22 24 20 22 22 
- ## Page 11
- 11 
+
 Curriculum Structure-Semester-wise ← 
   Semester - I 
   No. Code Course Course Type L-T-P-SS Cre
@@ -688,8 +678,7 @@ Development 1-0-1-0 2 100 0 100 *
 8 1st Mandatory Moot (Credits for Mandatory Moots shall be awarded in X 
 Semester as part of CLINICAL COURSE - IV) 
 Total 17-5-2-0 24 
- ## Page 12
- 12 
+
 Semester - II ← 
   No. Code Course Course Type L-T-P-SS Credits ISA ESA Total Exam Duration (in 
 hrs) 
@@ -704,7 +693,6 @@ Management Theory 3-1-0-0 4 50 50 100 3
 Development 1-0-1-0 2 10
 0 0 100 * 
 Total 16-5-1-0 22 
- ## Page 13
  Semester- III ← 
 FMCD2009 / 2.0 13 
   No. Code Course Course 
@@ -719,7 +707,6 @@ hrs)
 5 21LBLC202 Constitutional Law - I Theory 3-1-0-0 4 50 50 100 3 
 6 21LBLI201 1st Internship - 4 Weeks (to be completed after II Sem, assessed and credited 
 in III Sem) Practical 0-0-4-0 2 100 0 100 
- ## Page 14
  Semester- IV ← 
 FMCD2009 / 2.0 14 
   No. Code Course Course Type L-T-P-SS Credits ISA ESA Total Exam Duration 
@@ -742,7 +729,6 @@ Development 1-0-1-0 2 10
 Development 1-0-1-0 2 10
 0 0 100 * 
 Total 14-4-2-0 20 
- ## Page 15
  Semester- V ← 
 FMCD2009 / 2.0 15 
   No. Code Course Course Type L-T-P-SS Credits ISA ESA Total 
@@ -762,7 +748,6 @@ credited in V Sem) Practical 0-0-4-0 4 100 0 100
 8 3rd Mandatory Moot (Credits for Mandatory Moots shall be awarded in X 
 Semester as part of CLINICAL COURSE - IV) 
 Total 15-5-4-0 24 
- ## Page 16
  Semester- VI ← 
 FMCD2009 / 2.0 16 
   No. Code Course Course Type L-T-P-SS Credits ISA ESA Total Exam Duration 
@@ -779,7 +764,6 @@ FMCD2009 / 2.0 16
 Development 1-0-1-0 2 10
 0 0 100 * 
 Total 17-5-2-0 24 
- ## Page 17
  Semester- VII ← 
 FMCD2009 / 2.0 17 
   No. Code Course Course Type L-T-P-SS Credits ISA ESA Total 
@@ -808,7 +792,6 @@ in VII Sem) Practical 0-0-4-0 4 100 0 100
 10 4th Mandatory Moot (Credits for Mandatory Moots shall be awarded in X 
 Semester as part of CLINICAL COURSE - IV) 
 Total 13-4-12-0 24 
- ## Page 18
  Semester- VIII ← 
 FMCD2009 / 2.0 18 
   No. Code Course Course Type L-T-P-SS Credits ISA ES
@@ -837,8 +820,7 @@ Theory 1-0-1-0 2 10
 0 0 100 * 21LCLE401 ELECTIVE - II: International Commercial Arbitration 
 21LCLE402 ELECTIVE - II: Law of Insolvency and Bankruptcy 
 Total 13-4-4-0 18 
- ## Page 19
- 19 
+
   Semester IX 
   No. Code Course Course 
 Type L-T-P-SS Credits ISA ESA Total 
@@ -872,8 +854,7 @@ after VIII Sem, assessed and credited in IX
 Sem) 
   * 
 Total 12-3-7-0 22 
-  ## Page 20
- 20 
+
   Semester X 
   No. Code Course Course 
 Type L-T-P-SS Credits ISA ESA Total 
@@ -907,11 +888,9 @@ Theory 1-0-1-0 2 100 0 100 *
 6 21LBLI502 5th Internship - 4 Weeks (to be completed after IX Sem, assessed 
 and credited in X Sem) Practical 0-0-4-0 4 100 0 100 
 Total 10-3-9-0 22 
-  ## Page 21
- 21 
+
   List of Open Electives ← 
-  ## Page 22
- 22 
+
 List of Program Electives ← 
   Sr. No Name of the Course Course Code 
 1 ELECTIVE - I: Media Law 21LALE401 
@@ -931,8 +910,7 @@ List of Program Electives ←
 15 ELECTIVE - IV: Contract Drafting and Interpretation 21LBLE503 
 16 ELECTIVE - IV: Space Law 21LCLE502 
 17 ELECTIVE - IV: Data Protection Law 21LCLE503 
- ## Page 23
- 23 
+
   Curriculum Content- Course-wise ←BACK TO SEMESTER I 
   Program: B. B.A.LL.B. Semester: I 
 Course Code: 21LBLH101 Course Title: LANGUAGE - I: General English 
@@ -985,8 +963,7 @@ By R.K. Narayan:
 • 'An Astrologer's Day' 
 • 'Forty-Five a Month' 
 13 
- ## Page 24
- 24 
+
 By Sudha Murthy: 
 • 'A Helping Hand' 
 • 'Two Faces of Poverty' 
@@ -1030,8 +1007,7 @@ corner, Null and void, On cloud nine, Once in a blue moon, Penny wise pound fool
 advocate, Pull someone's leg, Raining cats and dogs, Read between the lines, Saving for a rainy day, 
 Snowball effect, Spill the beans, Straight from the horse's mouth, Turn a deaf ear, Under the weather, 
 Yeoman's service. 
-  ## Page 25
- 25 
+
   Program: B.B.A LL.B. Semester: I 
 Course Title: B u s i n e s s S t u d i e s- I : B u s i n e s s 
 O r g a n i s a t i o n a n d E n v i r o n m e n t 
@@ -1070,8 +1046,7 @@ technological environment
  Role of Government in business organisation 
  Impact of Government policy on business and industry 
  Impact of liberalisation, privatisation and globalisation on business in India 
-  ## Page 26
- 26 
+
 Prescribed Book(s): 
 1. K. Aswathappa, Essentials of Business Environment, Mumbai: Himalaya Publishing House, 
 (15th Revised Edition, 2022). 
@@ -1086,8 +1061,7 @@ Edition, 1994).
 Edition, 2022). 
 3. The Indian Partnership Act, 1932. 
 4. The Companies Act, 2013. 
-  ## Page 27
- 27 
+
   Program: B.B.A LL.B. Semester: I 
 Course Title: B u s i n e s s E c o n o m i c s - I : 
 M a n a g e r i a l E c o n o m i c s 
@@ -1136,8 +1110,7 @@ Unit - V: Capital Budgeting and Profit Management
  Cost benefit Analysis- use of cost benefit analysis, general steps of cost benefit analysis 
 and its importance 
  Meaning of profit, accounting profit and economic profit 
-  ## Page 28
- 28 
+
 Prescribed Book(s): 
 1. Dr H.L. Ahuja, Managerial Economics - Analysis of Managerial Decision Making, New Delhi: 
 S Chand and Company Pvt. Ltd, (9th Edition, 2014). 
@@ -1150,8 +1123,7 @@ and Sons, (9th Edition, 2013).
 International Editions, New York: Pearson education, (2013). 
 3. Geetika, Piyali Ghosh, Purba Roy Choudhury, Managerial Economics, New Delhi: Mc Graw 
 Hill Education, (3rd Edition, 2011). 
-  ## Page 29
- 29 
+
 Program: B.B.A LL.B. Semester: I 
 Course Code: 21LBLC101 Course Title: Legal Methods 
 L-T-P-SS: 3-1-0-0 Credits: 4 
@@ -1198,8 +1170,7 @@ Unit- V: Case Law Technique
  Question of law and question of fact 
  Application of law to facts 
 13 
- ## Page 30
- 30 
+
 Prescribed Book(s): 
 1. Lloyd Dennis, Idea of Law, London: Penguin Books, Chapters 1 and 9, (2000). 
 2. A.T.H. Smith, Glanville Williams: Learning the Law, London: Stevens & Sons (16th Edition, 
@@ -1211,7 +1182,6 @@ Company, (1st Edition, 2023).
 2. Rupert Cross, J.W. Harris, Clarendon Press, Precedent in English Law, (1991). 
 3. A.K. Sarkar, Salmond's Summary of Jurisprudence, Lexis Nexis (3rd Edition, 1973). 
 4. www.researchguides.ben.edu/research-basics 
- ## Page 31
  FMCD2009 / 2.0 31 
   Program: B.B.A LL.B. 
 Course Code: 21LBLC102 Course Title: Law of Torts 
@@ -1253,7 +1223,6 @@ Unit - V: Vicarious Liability and Remedies
  Vicarious Liability - Principles of Vicarious Liability, recent developments in Sexual 
 Offences 
  Judicial and extrajudicial remedies 
- ## Page 32
  FMCD2009 / 2.0 32 
   Prescribed Book(s): 
 1. Ratan Lal and Dhiraj Lal, The Law of Torts, New Delhi: LexisNexis, (29thEdition, 2022). 
@@ -1273,7 +1242,6 @@ Materials, New Delhi: LexisNexis, (5th Edition, 2000).
 Butterworth, (1976). 
 8. Glanville Williams and B.A. Hepple: Foundations of the Law of Torts, London: Oxford 
 University Press, (6th Edition, 2008). 
-  ## Page 33
  FMCD2009 / 2.0 33 
   Program: B.B.A LL.B. Semester: I 
   Course Code: 21LBLL101 Course Title: Art of Public Speaking 
@@ -1300,7 +1268,6 @@ Unit III: Speaking Exercises
  3-5 rounds of formal speaking training sessions to be done 
  2 rounds of assessment to be conducted 
 10 
- ## Page 34
  FMCD2009 / 2.0 34 
   Program: B.B.A. LL.B. Semester: I 
 Course Code: 21LALL403 Course Title: Introduction to Gen AI 
@@ -1353,7 +1320,6 @@ Unit V
  Create a tool that uses GenAI to generate various legal document templates. 
  Build an AI-powered summarizer for legal documents. 
   13 
- ## Page 35
  FMCD2009 / 2.0 35 
   Prescribed Books: 
 1. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and 
@@ -1368,7 +1334,6 @@ Techniques to Build Intelligent Systems, Shroff/O'Reilly, 3rd Ed., 2022.
 4. K Swaminathan, Anita Thomas, Generative AI in the Courtroom: A Practical Handbook for 
 Modern Justice: Empowering India's Legal Professionals with AI Tools and Techniques, 
 (Notion Press, 2024). 
- ## Page 36
  ←BACK TO SEMESTER III 
 FMCD2009 / 2.0 36 
   Program: UG 
@@ -1401,7 +1366,6 @@ from 'We, the People', the autobiography of Nani Palkhivala
  'A Jury of Her Peers' - Short Story by Susan Glaspell 
  'Silence! The Court in Session' - Play by Vijay Tendulkar 
  
-  ## Page 37
  ←BACK TO SEMESTER III 
 FMCD2009 / 2.0 37 
   Unit - V 
@@ -1434,14 +1398,12 @@ Delhi.
 5. https://www.themathesontrust.org/papers/hinduism/yakshaprashna.pdf 
 6. Inherit the Wind: https://ok.ru/video/537336482544 
 7. 12 Angry Men: https://archive.org/details/12AngryMen1957 
- ## Page 38
  ←BACK TO SEMESTER III 
 FMCD2009 / 2.0 38 
   List of cases: 
 1. United States v. Susan B. Anthony - 1873 
 2. Oliver Brown v. Board of Education of Topeka - 1954 
 3. Minerva Mills Ltd. v. Union of India 
-  ## Page 39
  FMCD2009 / 2.0 39 
   Program: UG Semester: II 
 Course Title: Business Studies - II: Principles and Practices of 
@@ -1481,7 +1443,6 @@ transition leadership, charismatic leadership style, situational leadership
  Motivation theories - Maslow's Need Hierarchy Theory, Herzberg's Two Factor Theory, 
 McGregor's X theory, Y theory, Z theory 
  Direction - meaning, nature, principles 
-  ## Page 40
  FMCD2009 / 2.0 40 
   Unit V 
  Unit - V: Controlling, Coordination and Communication 
@@ -1502,7 +1463,6 @@ Education Pvt. Ltd, (10th Edition, 2017).
 2009). 
 3. Appannaiah and Reddy, Business Management, New Delhi: Himalaya Publishing House, (7th 
 Edition, 2011). 
-  ## Page 41
  FMCD2009 / 2.0 41 
   Program: B.B.A.LL.B. Semester: II 
 Course Title: B u s i n e s s E c o n o m i c s - I I : 
@@ -1530,7 +1490,6 @@ Supply
  Commercial banks and its functions 
  Central Bank functions, Quantitative and Qualitative Credit Control measures 
  Monetary Policy- objectives and Instruments 
-  ## Page 42
  FMCD2009 / 2.0 42 
   Unit - III 
    Unit - III: Inflation and Economic fluctuations 
@@ -1567,7 +1526,6 @@ Edition, 2018).
 New Delhi: S. Chand and Company Ltd. (19th Revised Edition, 2017). 
 4. M.L. Jhingan, International Economics, Delhi: Vrinda Publications (P) Ltd, (6 th Revised and 
 enlarged Edition, 2009). 
-  ## Page 43
  FMCD2009 / 2.0 43 
    References: 
 1. M.L. Seth, Monetary Economics, Agra: Lakshmi Narain Agarwal Educational Publisher, (15 th 
@@ -1579,7 +1537,6 @@ company ltd., (2nd Edition, 2009).
 4. H.L. Bhatia, Public Finance, New Delhi: Vikas Publishing Pvt. ltd., (27th Edition, 2015). 
 5. Mishra and Puri, Environment of Business, Mumbai: Himalaya Publishing House, (5 th Edition, 
 2009). 
-  ## Page 44
  FMCD2009 / 2.0 44 
   ←BACK TO SEMESTER II 
   Program: UG Semester: II 
@@ -1607,7 +1564,6 @@ Unit - I: Introduction to Marketing
  Application of Consumer Behaviour in marketing 
  Factors influencing Consumer Behaviour 
  Buying Decision Process 
-  ## Page 45
  FMCD2009 / 2.0 45 
   Unit - III 
   Unit - III: Marketing Mix - Pricing Practices and Strategies 
@@ -1639,7 +1595,6 @@ Unit - I: Introduction to Marketing
  Branding, Packaging and Labeling 
  Product life cycle - Strategic Implications 
  New product development and consumer adoption process 
-  ## Page 46
  FMCD2009 / 2.0 46 
   Prescribed Book(s): 
 1. Philip Kotler, Marketing Management, Chennai: Prentice Hall of India, (15th Edition, 2016). 
@@ -1654,7 +1609,6 @@ Edition, 2006).
 2012). 
 3. Dr. H.R. Ramanath and H.R. Appanniah, Marketing Management, Pune: Himalaya Publishing 
 House, (1st Edition, 2021). 
-  ## Page 47
  ←BACK TO SEMESTER II 
 FMCD2009 / 2.0 47 
   Program: UG Semester: II 
@@ -1707,7 +1661,6 @@ Unit - V: The Specific Relief Act, 1963
  Equitable relief, The Specific Relief Act: Nature of Specific Relief 
  Recovery of possession of movable and immovable property 
 13 
- ## Page 48
  ←BACK TO SEMESTER II 
 FMCD2009 / 2.0 48 
    Specific performance when granted and not granted, who may obtain and against 
@@ -1732,7 +1685,6 @@ G.C.V. Subba Rao, Law of Specific Relief, New Delhi: Orient Publishing Company, 
 T.S. Venkatesa Iyer, Law of Contract revised by Dr. V. Krishnama Chary, Hyderabed: Asia Law house, 
 (4th Edition, 1983). 
 R.K. Singh, Law Relating to Electronic Contracts, Gurgoan: LexisNexis, (2014). 
-  ## Page 49
  ←BACK TO SEMESTER II 
 FMCD2009 / 2.0 49 
   Program: UG Semester: II 
@@ -1773,7 +1725,6 @@ Unit IV: Consumer Complaints and Redressal Mechanisms
  Remedies and Penalties under the Consumer Protection Act, 2019. 
  Consumer Complaints - Meaning, types, and procedure 
 6 
- ## Page 50
  ←BACK TO SEMESTER II 
 FMCD2009 / 2.0 50 
    Jurisdiction, Composition, Powers and Functions of Consumer Commissions and 
@@ -1792,7 +1743,6 @@ Ltd., New Delhi, 1st edition, 2023.
 5th edition, 2022. 
 3. Nandan Kamath, Law relating to Computers, Inte rnet and E -Commerce, Universal Law 
 Publishing Co. Delhi, 5th Edition, 2017. 
-  ## Page 51
  ←BACK TO SEMESTER III 
 FMCD2009 / 2.0 51 
   Program: UG Semester: III 
@@ -1835,7 +1785,6 @@ Unit - III: Subsidiary Books of Accounting
  Features, advantages of Tally 
  Creation of new company and setting - up accounts in Tally 
  Types of vouchers - its creation in Tally 
- ## Page 52
  ←BACK TO SEMESTER III 
 FMCD2009 / 2.0 52 
    Transaction - Data Entry and extracting Ledgers, Trial Balance, Profit and Loss and Balance 
@@ -1849,7 +1798,6 @@ Publishing House, (1st Edition, 2015).
   Reference: 
 S.N. Maheshwari, S.K. Maheshwari, Advanced Accountancy Vol-1, New Delhi: Vikas Publishing 
 House Pvt. Ltd, (10th Edition, 2009). 
-  ## Page 53
  ←BACK TO SEMESTER III 
 FMCD2009 / 2.0 53 
   Program: UG Semester: III 
@@ -1895,7 +1843,6 @@ Unit - IV
  Changing roles of RBI 
  Banking Laws (Amendment) Bill 2011 
  Infrastructure development - Health, Education, Transportation and Power 
- ## Page 54
  ←BACK TO SEMESTER III 
 FMCD2009 / 2.0 54 
    ITES industry and India's IT 
@@ -1922,7 +1869,6 @@ Prakashan, (1999).
 2. Ramesh Singh Indian Economy, New Delhi: McGraw Hill Education, (1997). 
 3. Dr. H.L. Ahuja, Modern Economics, New Delhi: S Chand and Company, (19 th Revised Edition, 
 2022). 
-  ## Page 55
  ←BACK TO SEMESTER III 
 FMCD2009 / 2.0 55 
   Program: UG Semester: III 
@@ -1971,7 +1917,6 @@ o Combination Strategies
  Niche/focus strategy 
  Tools 
 o BCG Matrix 
- ## Page 56
  ←BACK TO SEMESTER III 
 FMCD2009 / 2.0 56 
   o GE 9 Cell Matrix 
@@ -2013,7 +1958,6 @@ House, (2nd Edition, 2017).
 1. V.S.P. Rao, Strategic Management, New Delhi: Excel Books, (2nd Edition, 2016). 
 C.N Sontakki, Neeti Gupta, Anuj Gupta, Strategic Management, Bengaluru: Kalyani Publishers, (3 rd 
 Edition, 2016). 
- ## Page 57
  ←BACK TO SEMESTER III 
 FMCD2009 / 2.0 57 
   Program: UG Semester: III 
@@ -2059,7 +2003,6 @@ Unit - IV
  Changing roles of RBI 
  Banking Laws (Amendment) Bill 2011 
  Infrastructure development - Health, Education, Transportation and Power 
- ## Page 58
  ←BACK TO SEMESTER III 
 FMCD2009 / 2.0 58 
    ITES industry and India's IT 
@@ -2086,7 +2029,6 @@ Prakashan, (1999).
 5. Ramesh Singh Indian Economy, New Delhi: McGraw Hill Education, (1997). 
 6. Dr. H.L. Ahuja, Modern Economics, New Delhi: S Chand and Company, (19 th Revised Edition, 
 2022). 
-  ## Page 59
  ←BACK TO SEMESTER III 
 FMCD2009 / 2.0 59 
   Program: UG Semester: III 
@@ -2135,7 +2077,6 @@ o Combination Strategies
  Niche/focus strategy 
  Tools 
 o BCG Matrix 
- ## Page 60
  ←BACK TO SEMESTER III 
 FMCD2009 / 2.0 60 
   o GE 9 Cell Matrix 
@@ -2177,7 +2118,6 @@ House, (2nd Edition, 2017).
 2. V.S.P. Rao, Strategic Management, New Delhi: Excel Books, (2nd Edition, 2016). 
 C.N Sontakki, Neeti Gupta, Anuj Gupta, Strategic Management, Bengaluru: Kalyani Publishers, (3 rd 
 Edition, 2016). 
- ## Page 61
  ←BACK TO SEMESTER III 
 FMCD2009 / 2.0 61 
   Program: B.B.A.LL.B. Semester: III 
@@ -2233,7 +2173,6 @@ Unit- IV: Partnership
  Definition, essentials of partnership 
  Mode of determining the existence of partnership 
 13 
- ## Page 62
  ←BACK TO SEMESTER III 
 FMCD2009 / 2.0 62 
    Types of partners 
@@ -2280,7 +2219,6 @@ Statutes:
 5. The Sale of Goods Act, 1930 
 6. The Transfer of Property Act, 1882 
 7. The Hire Purchase Act, 1972 
- ## Page 63
  ←BACK TO SEMESTER IV 
 FMCD2009 / 2.0 63 
   Program: B.B.A.LL.B. Semester: III 
@@ -2335,7 +2273,6 @@ test, Convention and Constitutional morality
 a- vis Fundamental Rights, IX Schedule- Judicial Review Article, 31-B and 31-C 
  Fundamental Duties - Significance and Enforceability 
   Prescribed Book(s): 
- ## Page 64
  ←BACK TO SEMESTER IV 
 FMCD2009 / 2.0 64 
   1. M.P. Singh (ed), V.N. Shukla, Constitution of India, Lucknow: Eastern Book Company, (13th 
@@ -2349,7 +2286,6 @@ Press, 2018.
 Edition, 2015). 
 3. D.D. Basu, Shorter Constitution of India, Gurgaon: Lexis Nexis, (15th Edition 2018). 
 4. S. Shiva Rao, Framing of Indian Constitution, New Delhi: Universal Law Publishing, (2005). 
-  ## Page 65
  ←BACK TO SEMESTER IV 
 FMCD2009 / 2.0 65 
   Program: UG 
@@ -2395,7 +2331,6 @@ Unit - V
  US Generally Accepted Accounting Principles (GAAP) 
  International Financial Reporting Standards (IFRS) 
  Indian Accounting Standards (Ind AS) 
- ## Page 66
  ←BACK TO SEMESTER IV 
 FMCD2009 / 2.0 66 
    Differences between US GAAP and IFRS 
@@ -2418,7 +2353,6 @@ Revised & Updated Edition, 2022).
 Revised Edition, 2011). 
 4. https://www.wto.org/ 
 5. https://www.icai.org 
-  ## Page 67
  ←BACK TO SEMESTER IV 
 FMCD2009 / 2.0 67 
   Program: UG Semester: IV 
@@ -2459,7 +2393,6 @@ Unit - I
  Essential skills for negotiation 
  Tricks used in negotiation process- psychological advantage of negotiations 
  Techniques of negotiations-issues in negotiation 
-  ## Page 68
  ←BACK TO SEMESTER IV 
 FMCD2009 / 2.0 68 
   Unit - IV 
@@ -2496,7 +2429,6 @@ Pearson Education India, (1st Edition, 2014).
 1. Robin Banerjee, Corporate Frauds, New Delhi: SAGE Publications Pvt Ltd, (1st Edition, 2021). 
 2. B.D. Singh, Managing Conflicts and Negotiations, New Delhi: Excel Books, (1st Edition, 2008). 
 3. Roy J. Lewicki, David M. Saunders, Bruce Barry, Negotiation, Mc Graw Hill, (7th Edition, 2019). 
-  ## Page 69
  FMCD2009 / 2.0 69 
   Program: UG Semester: IV 
 Course Code: 21LBLC203 
@@ -2532,7 +2464,6 @@ Unit - III: Financial Structure
  Debentures - floating charge 
  Acceptance of deposit by companies 
 13 
- ## Page 70
  FMCD2009 / 2.0 70 
    Charge on assets 
   Unit-IV 
@@ -2564,7 +2495,6 @@ References:
 3. Kershaw, David, Company Law in Context, Oxford University Press, UK, (2ndedn., 2012) 
 4. H.K. Saharay, Company Law (7thedn., 2016) 
 5. G. K. Kapoor and Sanjay Dhamija, Taxman n's Company Law and Practice, (26thedn. 2022) 
-  ## Page 71
  FMCD2009 / 2.0 71 
   Program: UG Semester: IV 
 Course Code: 21LBLC204 
@@ -2608,7 +2538,6 @@ Administrative and Financial Relations. Finance Commission
  Inter-State Trade and Commerce 
  Local Self Government 
 13 
- ## Page 72
  FMCD2009 / 2.0 72 
   Unit - V 
 Unit - V: Emergency Provisions, Constitutional Amendment, and Miscellaneous 
@@ -2636,7 +2565,6 @@ Reprinted, 2014).
 2008). 
 8. R.C. Agarwal, Constitutional Development and National Movement, New Delhi: S. Chand & 
 Co.,(Reprint Edition, 2006 
-  ## Page 73
  FMCD2009 / 2.0 73 
   Program: B.B.A.LL.B. Semester: IV 
 Course Code: 21LBLL201 Course Title: Non-Doctrinal Research Skills 
@@ -2672,7 +2600,6 @@ Unit - V
  Data analysis - Importance and Methods 
  Report writing 
 6 
- ## Page 74
  FMCD2009 / 2.0 74 
   Prescribed Book(s): 
 1. P. Ishwara Bhat, Idea and Methods of Legal Research, Oxford University Press, 2020. 
@@ -2688,7 +2615,6 @@ vol. 24, 1982.
 4. Cass Sunstein et al, Are Judges Political? An Empirical Analysis of the Federal Judiciary 
 (2006) 
 5. Nick Robinson, A Quantitative Analysis of the Indian Supreme Court's Workload. 
-  ## Page 75
  FMCD2009 / 2.0 75 
   Program: UG Semester: IV 
 Course Code: 21LBLL202 Course Title: RTI Law and Practice 
@@ -2727,7 +2653,6 @@ Unit - IV - Allied Laws and Rules
  The Indian Evidence Act, 1872 
  The Bharatiya Sakshya Adhiniyama, 2023 
 6 
- ## Page 76
  FMCD2009 / 2.0 76 
   Unit - V 
 UNIT- V - Abuse of RTI 
@@ -2763,7 +2688,6 @@ the Control of Corruption, 1999.
 9. Sridhar, Madhabhushi. RTI Use and Abuse, Allahabad Law Agency, 1st ed., 2015. 
 10. Rao, S.V.J. Law Relating to Right to Information: A Comp rehensive and Insightful Commentary with 
 Comparative Perspectives, Pentagon Press, 2009 
-  ## Page 77
  FMCD2009 / 2.0 77 
   Program: UG Semester: V 
 Course Code: 21LBLH301 
@@ -2801,7 +2725,6 @@ Training and Compensation
  Assessment of training needs 
  Compensation- meaning, objectives 
 13 
- ## Page 78
  FMCD2009 / 2.0 78 
    Direct and indirect forms of compensation 
  Compensation structure 
@@ -2833,7 +2756,6 @@ Mumbai: Himalaya Publishing House, (5th Edition, 2022).
 House, (1st Edition, 2015). 
 3. Shashi K. Gupta and Rosy Joshi, Human Resource Management, New Delhi: Kalyani Publishers, 
 (7th Edition, 2021). 
-  ## Page 79
  FMCD2009 / 2.0 79 
   Program: B.B.A.LL.B. Semester: V 
   Course Code:24LBLC301 Course Title: Law of Crimes 
@@ -2888,7 +2810,6 @@ accounts
  Criminal intimidation, insult, annoyance and defamation 
  Attempt to commit offences 
 13 
- ## Page 80
  FMCD2009 / 2.0 80 
   Prescribed Book(s): 
 1. Gaur K.D., A Textbook on The Bharatiya Nyaya Sanhita, 2023, New Delhi: Universal Publishing 
@@ -2907,7 +2828,6 @@ Edition, 2015).
 5. Report of the Committee on Amendments to Criminal Law, 2013 (Justice Verma Committee) 
   Statutes: 
 1. The Bharatiya Nyaya Sanhita, 2023 
- ## Page 81
  FMCD2009 / 2.0 81 
   Program: B.B.A.LL.B. Semester: V 
   Course Code:21LBLC302 Course Title: Administrative Law 
@@ -2963,7 +2883,6 @@ Unit - V: State liability in Contract and Tort
  Meaning of State, Corporation and Public Undertakings - Liabilities in Contract and 
 Tort - nature, principles, Doctrines of Promissory Estoppel, Legitimate Expectation 
 13 
- ## Page 82
  FMCD2009 / 2.0 82 
    Administrative deviance - Corruption and maladministration - Control and remedial 
 mechanism - RTI, administ rative tribunals, Ombudsman (Lokpal and Lokayukta), 
@@ -2977,8 +2896,7 @@ Prescribed Book(s):
 1. H.W.R. Wade & C.F. Forsyth, Administrative law, New York: Oxford University Press, (11th 
 Edition). 
 2. S.P. Sathe, Administrative Law, Nagpur: LexisNexis, (7th Edition, 2022). 
-  ## Page 83
- 83 
+
   Program: B.B.A.LL.B. Semester: V 
   Course Code:21LBLC303 Course Title: Jurisprudence 
 L-T-P-SS: 3-1-0-0 Credits: 4 
@@ -3035,8 +2953,7 @@ and sources
  Causation, mens rea , intention, malice, negligence and theories, strict liability, 
 vicarious liability 
 13 
- ## Page 84
- 84 
+
 Prescribed Book(s): 
 1. Fitzgerald, Salmond on Jurisprudence, Bombay: Tripathi, (12thEdition, 1996). 
 2. R.W.M.Dias, Jurisprudence, New Delhi: Aditya Books, (5thEdition, 2013). 
@@ -3046,8 +2963,7 @@ References:
 2. G.W. Paton, A Textbook of Jurisprudence, Oxford University Press, (4thEdition, 2007). 
 3. Edgar Bodenheimer, Jurisprudence: Philosophy and Method of Law, Harvard University 
 Press, (1962): Indian Print 2018. 
-  ## Page 85
- 85 
+
   Program: B.B.A.LL.B. Semester: V 
   Course Code:21LBLC304 Course Title: Family Law - I: Hindu Law 
 L-T-P-SS: 3-1-0-0 Credits: 4 
@@ -3098,8 +3014,7 @@ Reprint 2024).
 2. Mulla, Principles of Hindu Law, New Delhi: LexisNexis, (24thEdition 2019). 
   References: 
 1. John D. Mayne, A Treatise on Hindu Law and Usage, Madras: Higginbotham, (9thEdition, 1922). 
- ## Page 86
- 86 
+
 2. Paras Diwan, Law of Adoption, Minority, Guardianship and Custody, Universal Law publishing, 
 New Delhi: LexisNexis, (5thEdition 2017). 
 3. J.D.M. Derrett, Hindu Law - Past and Present, Calcutta: A Mukherjee and Co., (1957). 
@@ -3113,8 +3028,7 @@ Succession Act, 1956 to include oral partition and family arrangement in the def
 'partition' (July 2008). 
 d. Right of the Hindu Wife to Maintenance: A Relook at Section 18 of the Hindu Adoptions and 
 Maintenance Act, 1956, (January 2015). 
-  ## Page 87
- 87 
+
   Semester VI 
   Program: UG Semester: VI 
 Course Code: 21LBLH302 
@@ -3159,8 +3073,7 @@ Unit -II
  Strategies for scaling and growth 
   13 
 Unit-IV 
- ## Page 88
- 88 
+
 4. Funding and Investment 
  Funding - Meaning 
  Sources of funding - venture capital, angel investors, crowd funding, private equities 
@@ -3198,8 +3111,7 @@ References:
 2. S.R. Bhowmik and M. Bhowmik, Entrepreneurship, New Age International Pvt. Ltd, (2007). 
 3. Rodney D. Ryder, Intellectual Property and Business, New Delhi: SAGE Publication Pvt. Limited, 
 (1st Edition, 2014). 
-  ## Page 89
- 89 
+
   Program: UG Semester: VI 
 Course Code: 21LBLH305 
   Course Title: Family Law - II: Mohammedan Law and 
@@ -3246,8 +3158,7 @@ illness, privileged and unprivileged wills, construction of wills in brief, void
 void wills 
  Hiba: Meaning, definition, features, competency, subject matter, Marz-ul-Maut 
 13 
- ## Page 90
- 90 
+
  Protection of property of the deceased 
  Wakf: Meaning, definition, essentials, competency, Doctrine of cypress, legal 
 incidents, kinds, modes of creation, Office of Mutawalli, difference from Sadqah, Hiba 
@@ -3279,8 +3190,7 @@ Publishing Co. Ltd, (2021).
 Edition, 2018). 
 7. A.M. Bhattacharjee, Matrimonial Laws and the Constitution, Calcutta: Edited by Ruma Pal, (2nd 
 Edition, EBC, 2017) 
-  ## Page 91
- 91 
+
   Program: UG Semester: VI 
 Course Code: 24LBLC302 Course Title: Law of Criminal Procedure 
 L-T-P-Self Study: 3-1-0-0 Credits:4 
@@ -3326,8 +3236,7 @@ Post Trial Proceedings
  Execution, suspension, remission, and commutation of sentences 
 13 
 Unit - V 
- ## Page 92
- 92 
+
 Miscellaneous 
  Transfer of cases 
  Maintenance of wives, children, and parents 
@@ -3352,8 +3261,7 @@ References:
 Statutes: 
 1. The Constitution of India, 1950 
 2. The Bharatiya Nagarik Suraksha Sanhita, 2023 
-  ## Page 93
- 93 
+
   Program: UG Semester: VI 
 Course Code: 21LBLH307 Course Title: Property Law 
 L-T-P-Self Study: 3-1-0-0 Credits:4 
@@ -3398,8 +3306,7 @@ Sale and Mortgage
  Marshalling and Contribution 
  Charges 
   13 
- ## Page 94
- 94 
+
 Unit-IV 
 Lease, Exchange, Gifts and Actionable Claims 
  Lease of immovable property: Definition and scope 
@@ -3433,8 +3340,7 @@ Law House, (2ndEdition, 2016).
 Reference Books: 
 1. G.C.V. Subbarao, Transfer of Property, Madras: Subbiah Chetty, (16th Edition, 2021). 
 2. S.N. Shukla, Transfer of Property Act, New Delhi: Jain Book Agency, (29th Edition, 2018). 
-  ## Page 95
- 95 
+
   Program: UG Semester: VI 
 Course Code: 21LBLT301 Course Title: Interpretation of Statutes 
 L-T-P-Self Study: 3-1-0-0 Credits:4 
@@ -3483,8 +3389,7 @@ obstinate Clause and Saving clause, Punctuation
 Books and Commentaries, Foreign and Domestic PrecedentsReports of the 
 Committees or Commissions, Travaux Preparatories, Subsequent Developments 
   13 
- ## Page 96
- 96 
+
 Unit-IV 
 Interpretation of Different Kinds of Statutes 
  Construction of Taxing Statutes 
@@ -3514,8 +3419,7 @@ Co., 2007
 Statutes: 
 1. The General Clauses Act, 1897 
 2. The Interpretation Act, 1978 (UK) 
-  ## Page 97
- 97 
+
   Program: UG Semester: VI 
 Course Code: 21LBLL301 
   Course Title: Forensic Science and Crime Scene 
@@ -3563,8 +3467,7 @@ Crime Scene Evidences
  Tool marks, Tyre marks, Bite Marks 
  Hair - Animal & Human, Fibers & Fabrics 
 6 
- ## Page 98
- 98 
+
  Glass, Soil, Pollens, Paint 
  Establishment of Identity of Individuals, Fingerprints/Footprints 
  Forensic Anthropology - Skeletal Remains 
@@ -3589,8 +3492,7 @@ References:
 3. Ridge Skin Impressions, CRC Press, Boca Raton. 
 4. D.R.Redsicker, the Practical Methodology of Forensic Photography, CRC Press, Boca Raton, 
 (2ndEdition, 2000). 
- ## Page 99
- 99 
+
   Semester VIII 
 Program: UG Semester: VIII 
 Course Code: 21LBLC403 Course Title: Labour Law - I: Law Relating to 
@@ -3637,8 +3539,7 @@ o Grievance Settlement Authority
 o Compulsory Adjudication (Labour Court, Industrial Tribunal, National 
 tribunal 
 13 
-  ## Page 100
- 100 
+
  Voluntary Arbitration u/s 10-A 
  Comparative analysis with the provisions of the Industrial RelationsCode, 2020 
   Unit III 
@@ -3685,8 +3586,7 @@ o Judicial decisions relating absorption of sham practice of contract labour
 o Critical appraisal of working of the Act in present days 
  The Factories Act, 1948: 
 13 
- ## Page 101
- 101 
+
 o Definitions 
  Factory 
  Manufacturing process 
@@ -3722,8 +3622,7 @@ Statutes:
 4. The Child & Adolescent Labour (Protection and Regulation) Act, 1986 
 5. The Contract Labour (Regulation and Abolition) Act, 1970 
 6. The Factories Act, 1948 
-  ## Page 102
- 102 
+
   Program: UG Semester: VIII 
 Course Code: 24LBLC401 Course Title: Law of Evidence 
 L-T-P-Self Study: 3-1-0-0 Credits:4 
@@ -3769,8 +3668,7 @@ Proof of Facts
 • Exclusion of oral by documentary evidence 
 13 
 Unit - V 
- ## Page 103
- 103 
+
 Production and Effect of Evidence and Examination of Witnesses 
 • Burden of proof - onus of proof, particular fact, general and special exceptions, facts 
 within the special knowledge 
@@ -3795,8 +3693,7 @@ Edition, 2024).
   List of Statutes: 
 1. The BharatiyaSakshyaAdhiniyam, 2023 
 2. The Bharatiya Nagarik Suraksha Sanhita, 2023 
-  ## Page 104
- 104 
+
 Program: UG Semester: VIII 
 Course Code: 21LBLT403 Course Title: OPTIONAL - III: Law of Insurance 
 L-T-P-Self Study: 3-1-0-0 Credits:4 
@@ -3841,8 +3738,7 @@ Motor Vehicle Insurance and Fire Insurance
  No fault liability 
  Compensation in hit and run cases 
 13 
- ## Page 105
- 105 
+
  Motor Vehicles Accident Claims Tribunal - composition, jurisdiction, powers and 
 procedure 
  The Employees Compensation Act, 1923 and its nexus with The Motor Vehicles Act, 
@@ -3880,8 +3776,7 @@ References:
 4. Avtar Singh, Principles of Insurance law, Nagpur: Wadhwa& Co, (7th Edition, 2002). 
 5. Tom Baker, Insurance Law and Policy: Cases, Materials and Problems, Aspen Publishing 2003, 
 (3rd Edition, 2003). 
-  ## Page 106
- 106 
+
 Program: UG Semester: VIII 
 Course Code: 21LBLT404 Course Title: OPTIONAL -III: Investment Laws 
 L-T-P-Self Study: 3-1-0-0 Credits:4 
@@ -3917,8 +3812,7 @@ structure
  Measures for investor protection - SEBI and Judicial approach 
  Role of National Stock Exchange and Bombay Stock Exchange in investor protection 
 13 
- ## Page 107
- 107 
+
  The Commercial Courts Act, 2015 (Sec.2) 
  
 Unit-IV 
@@ -3957,8 +3851,7 @@ Thomson Reuters (2021).
 2. G. Van Harten, Investment Treaty Arbitration and Public Law, Oxford University Press (2007). 
 3. Ramni Taneja, Foreign Direct Investment and Globalization, New Delhi: Eastern Book 
 Company, (2014). 
- ## Page 108
- 108 
+
   Program: UG Semester: VIII 
 Course Code: 21LBLP402 Course Title: CLINICAL COURSE - II: Alternative 
 Dispute Resolution Systems 
@@ -4001,8 +3894,7 @@ Mediation
  Process of Mediation under the Mediation Act, 2023 
   13 
 Unit-IV 
- ## Page 109
- 109 
+
  Conciliation 
  Conciliation: Meaning 
  Different kinds of conciliation - facilitative, evaluative, court- annexed, voluntary, and 
@@ -4049,8 +3941,7 @@ Commonwealth Legal Education Association, (Chapter - 7) (1989).
 9. William Ury, Roger Fisher, Getting to Yes, (2012). 
 10. Justice R.V. Raveendran, "Section 89 CPC: Need for an Urgent Relook", (2007) 4 SCC J 23 
   Statutes: 
- ## Page 110
- 110 
+
 1. The Code of Civil Procedure, 1908 
 2. The Karnataka Court Fees and Suits Valuation Act, 1958 
 3. The Arbitration and Conciliation Act, 1996 
@@ -4068,8 +3959,7 @@ Commonwealth Legal Education Association, (Chapter - 7) (1989).
 15. The Companies (Mediation and Conciliation) Rules, 2016 
 16. The Legal Services Act, 1986 
 17. The Micro, Small and Medium Enterprises (MSME) Development Act, 2006. 
-  ## Page 111
- 111 
+
   Program: UG Semester: VIII 
 Course Code: 21LBLL402 Course Title: Civil Law Practice Essentials 
 L-T-P-Self Study: 1-0-1-0 Credits:2 Skill Development 
@@ -4104,8 +3994,7 @@ Arguments, Orders, Judgment and Decree
 ● Arguments- Rule 165. 
 ● Orders and Costs- Rule 94, 99, 155. 
 10 
- ## Page 112
- 112 
+
 ● Judgement and Decree- Rule 91, 92, 95, 101, 102. 
 ● Introduction to procurement of certified copies. 
 Prescribed Book(s): 
@@ -4121,8 +4010,7 @@ List of Acts and Rules:
 1. The Karnataka Civil Rules of Practice, 1967 
 2. The Karnataka Court Fee and Suit Valuation Act, (1958). 
 18. The Code of Civil Procedure, 1908. 
-  ## Page 113
- 113 
+
   Program: UG Semester: VIII 
 Course Code: 21LCLE402 Course Title: Law of Insolvency and Bankruptcy 
 L-T-P-Self Study: 4-1-0-0 Credits:4 
@@ -4161,8 +4049,7 @@ persons
 start process and insolvency resolution process 
 ● Adjudicating Authority for individual and partnership firms 
 13 
- ## Page 114
- 114 
+
 ● Bankruptcy Order for individual and partnership firms 
 Prescribed Book(s): 
 1. Corporate Insolvency Law and Practice by Sumant Batra, Eastern Book Company (1 st Edition, 
@@ -4176,8 +4063,7 @@ Statutes:
 2. The Recovery of Debts Due to Banks and Financial Institutions Act, 1993 
 3. The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest 
 Act, 2002 
-  ## Page 115
- 115 
+
   Program: UG Semester: VIII 
 Course Code: 21LBLE402 Course Title: Information Technology Law 
 L-T-P-Self Study: 1-0-1-0 Credits:2 
@@ -4211,8 +4097,7 @@ o Introduction to The Information Technology (Intermediary Guidelines and
 Digital Media Ethics Code) Rules 2021 
 o Recent developments and role of the judiciary 
   10 
-  ## Page 116
- 116 
+
   Unit III 
 Law enforcement issues in digital environment 
 ● IPR and internet specific challenges: Software piracy; linking and caching; 
@@ -4242,8 +4127,7 @@ NLSIU, (2010).
 Review (2014). 
 4. Timothy S. Wu, Cyberspace Sovereignty? The Internet and the International System, 10(3) 
 Harvard Journal of Law and Technology (1997). 
-  ## Page 117
- 117 
+
   Program: UG Semester: VIII 
 Course Code: 21LCLE401 Course Title: International Commercial Arbitration 
 L-T-P-Self Study: 1-0-1-0 Credits:2 
@@ -4279,8 +4163,7 @@ jurisdictional requirements, special features of ICSID arbitrators
 ● Bilateral and multilateral investment treaties -violation of terms of BIT and legal 
 disputes arising out of investment. 
 10 
- ## Page 118
- 118 
+
 Prescribed Book(s): 
 1. Margaret L. Mosses - The Principle and Practice of International Commercial Arbitration, 
 Cambridge University Press, (2008). 
@@ -4294,8 +4177,7 @@ Press, (7th Editions, 2022).
 4. Simon Roberts and Michael Palmer - Dispute Processes, ADR and the Primary Forms of 
 Decision-Making, Cambridge University Press, (2005). 
 5. Ashwinie K. Bansal - Arbitration: Procedure and Practice, LexisNexis, (1st Edition 2009). 
-  ## Page 119
- 119 
+
   Program: B.B.A. LL.B. Semester: IX 
 Course Code: 21LBLC501 Course Title: Law of Taxation 
   L-T-P-SelfStudy:3-1-0-0 Credits:4 
@@ -4347,8 +4229,7 @@ Unit - III: Introduction to Goods and Service Tax
 and/or services 
  Compensation law to State Governments 
 13 
- ## Page 120
- 120 
+
  Goods and Services Tax Network Portal 
  Tax Invoice 
  GST on Imports and exports 
@@ -4389,9 +4270,8 @@ Services Tax Law), Mumbai: Snow White, (2023).
 3. B.B. Lal - Direct Taxes- Practice and Planning, Pearson India, (19th Edition, 2020). 
 4. Dr. H.C Mehotra, Dr. S.P Goyal, Fundamentals of Income Tax, Agra: Sahitya Bhawan 
 Publications, (64th Edition, 2023-2024). 
- ## Page 121
  ←BACKTOSEMESTERII 
-  121 
+
   Program: B.B.A. LL.B. Semester: IX 
 CourseCode:21LBLC502 
   Course Title: Labour Law - II: Law Relating to Wages 
@@ -4446,9 +4326,8 @@ authorities
 Unorganised Worker's Social Security Act, 2008 
  
 13 
- ## Page 122
  ←BACKTOSEMESTERII 
-  122 
+
 Unit-4 
 Unit - IV: Social Security 
  Concept and Importance of Social Security, Influence of I.L.O., Constitutional Mandate 
@@ -4483,9 +4362,8 @@ Prescribed Book(s):
   References: 
 1. O.P. Malhotra, Law of Industrial Disputes, Nagpur: LexisNexis, (7th Edition, 2015). 
 International Labour Conventions and Recommendations 
- ## Page 123
  ←BACKTOSEMESTERIII 
-  123 
+
   Program: B.B.A. LL.B. Semester: IX 
 Course Code: 21LBLT501 Course Title: OPTIONAL - IV: Intellectual Property Laws 
 - I 
@@ -4536,9 +4414,8 @@ Unit-4
  Infringement - protection of technological measures, liability of Internet Service 
 Providers and rights management system 
 13 
- ## Page 124
  ←BACKTOSEMESTERIII 
-  124 
+
  Forums and remedies 
 Performances and Phonogram Treaty (WPPT), Brussels Satellite Convention, 
 Beijing Treaty on Audiovisual Performance 
@@ -4566,7 +4443,6 @@ Tata Mc Graw Hill Publishing Co., (2001).
 Edition, 2013). 
 5. Unni, Trade Marks and the Emerging concepts of Cyber Property Rights, New Delhi: Eastern 
 Law House, (2002). 
-  ## Page 125
  ←BACKTOSEMESTER VII 
 FMCD2009/ 2.0 125 
   Program: B.B.A. LL.B. Semester: IX 
@@ -4617,7 +4493,6 @@ Investigating Agencies
 Prescribed Book(s): 
 1. K.D. Gaur, Textbook on Socio Economic Offences, Gurgoan: LexisNexis Professional Books, (2021). 
   References: 
- ## Page 126
  ←BACKTOSEMESTER VII 
 FMCD2009/ 2.0 126 
   1. S.M. Afzal Qadri, Ahamed Siddique's Criminology, Penology Hall, Jerome: General Principles of 
@@ -4627,7 +4502,6 @@ Criminal Law, Lucknow: Eastern Book Company, (2nd Edition, 1960).
 3. M.P. Tandon, The Indian Penal Code, Faridabad: Allahabad Law Agency, (New Edition, 2023). 
 4. K.I. Vibhute, P.S.A. Pillai's Criminal Law, Lucknow: Eastern Book Company, (14th Edition, 
 2019). 
- ## Page 127
  ←BACKTOSEMESTER VII 
 FMCD2009/ 2.0 127 
   Program: B.B.A. LL.B. Semester: IX 
@@ -4676,7 +4550,6 @@ House, (18th Edition. 2021).
 2. G.C. Mogha and P.C. Mogha, Mogha's Indian Conveyancer, Kolkata: Eastern Law House, (18th 
 Edition, 2021). 
   References: 
- ## Page 128
  ←BACKTOSEMESTER VII 
 FMCD2009/ 2.0 128 
   1. Principles and Forms of Pleadings, Drafting and Conveyancing by Dr. A.N. Chaturvedi, Kolkata: 
@@ -4690,7 +4563,6 @@ Central Law Publications.
 LexisNexis, Vol. 2, (15th Edition, 2021). 
 6. Shivagopal, Shivagopal's Conveyancing - Precedents and Forms, Delhi: Eastern Book Company, 
 (6th Edition, 2016). 
-  ## Page 129
  ←BACKTOSEMESTER VII 
 FMCD2009/ 2.0 129 
   Program: B.B.A. LL.B. Semester: IX 
@@ -4748,7 +4620,6 @@ Change, 1992, Kyoto Protocol, 1997, Paris Agreement, 2015. India's commitment
 under these instruments 
  Renewable Purchase Obligations (RPOs) and Renewable Energy Certificates (RECs) 
 6 
- ## Page 130
  ←BACKTOSEMESTER VII 
 FMCD2009/ 2.0 130 
    The Energy Conservation Act, 2001 
@@ -4773,7 +4644,6 @@ Programme "Programme on Energy from Urban, Industrial and Agricultural Wastes/Re
 https://cdnbbsr.s3waas.gov.in/s3716e1b8c6cd17b771da77391355749f3/uploads/2022/12
 /2022122763-1.pdf 
 5. Ministry of Power & MoEFCC, Policy Paper on Indian Carbon Market (ICM) (Oct. 2022). 
-  ## Page 131
  ←BACKTOSEMESTER VII 
 FMCD2009/ 2.0 131 
   Program: B.B.A. LL.B.. Semester: IX 
@@ -4824,7 +4694,6 @@ Unit - III: Acquisitions, Takeovers & Buy-Backs
 Regulations, 2011 
 ○ Defense Strategies (Overview) 
 6 
- ## Page 132
  ←BACKTOSEMESTER VII 
 FMCD2009/ 2.0 132 
   ● Buy-Back of Securities: 
@@ -4872,14 +4741,12 @@ References:
 2. SEBI (Substantial Acquisition of Shares and Takeovers) Regulations, 2011 
 3. SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 
 4. SEBI (Buy-Back of Securities) Regulations, 2018 
- ## Page 133
  ←BACKTOSEMESTER VII 
 FMCD2009/ 2.0 133 
   5. The Competition Act, 2002 (Relevant Sections) 
 6. Websites: Ministry of Corporate Affairs (MCA), Securities and Exchange Board of India 
 (SEBI), Competition Commission of India (CCI), National Company Law Tribunal (NCLT), 
 Reserve Bank of India (RBI). 
-  ## Page 134
  ←BACKTOSEMESTER VII 
 FMCD2009/ 2.0 134 
   Program: B.B.A. LL.B. Semester: IX 
@@ -4933,7 +4800,6 @@ UNIT - V: Regulation, Ethics and Comparative Law
  AI Law in Mexico, EU, UK and USA - lessons for India 
  Future of AI regulation in India - Opportunities and concerns 
 6 
- ## Page 135
  ←BACKTOSEMESTER VII 
 FMCD2009/ 2.0 135 
   Prescribed Books: 
@@ -4948,7 +4814,6 @@ FMCD2009/ 2.0 135
 Modern Justice: Empowering India's Legal Professionals with AI Tools and Techniques, 
 (Notion Press, 2024). 
 9. Byron Reese, The Fourth Age, Atria Publications, 2020. 
-  ## Page 136
  ←BACKTOSEMESTER VII 
 FMCD2009/ 2.0 136 
   Program: B.B.A. LL.B. Semester: IX 
@@ -5004,7 +4869,6 @@ Reduction Scheme for International Aviation (CORSIA) initiative
  Aviation insurance and risk management 
  Future of aviation law: Space tourism and suborbital flights 
 6 
- ## Page 137
  ←BACKTOSEMESTER VII 
 FMCD2009/ 2.0 137 
   Prescribed Books: 
@@ -5015,7 +4879,6 @@ FMCD2009/ 2.0 137
 1. Foundations of Aviation Law by Michael W. Pearson, Daniel S. Riley, Routledge, 2016. 
 2. Aviation Law: Recent Developments In Aviation Laws, Gazala Noor, Prof. (Dr.) Satinder Kumar, 
 BFC Publications, 2024. 
-  ## Page 138
  ←BACKTOSEMESTER VII 
 FMCD2009/ 2.0 138 
   Program: B.B.A. LL.B. Semester: IX 
@@ -5069,7 +4932,6 @@ liability
  Damages, statutory liability and jurisdiction 
 6 
 Unit-4 
- ## Page 139
  ←BACKTOSEMESTER VII 
 FMCD2009/ 2.0 139 
   SALVAGE AND GENERAL AVERAGE 
@@ -5099,7 +4961,6 @@ Publishing, 2nd Ed., 2017.
 2020. 
 2. Paul Todd, Advanced Introduction to Maritime Law, Edward Elgar Publishing Ltd., 2021. 
 3. M.E. Aliyar, Maritime Law, Central Law Publication, 1st Ed., 2025. 
-  ## Page 140
  ←BACKTOSEMESTER VII 
 FMCD2009/ 2.0 140 
   Program: B.B.A. LL.B. Semester: X 
@@ -5152,7 +5013,6 @@ Unit IV
   13 
 Unit V 
 5 UNIT - V: Contemporary Challenges 13 
- ## Page 141
  ←BACKTOSEMESTER VII 
 FMCD2009/ 2.0 141 
   • Climate change - climate displacement 
@@ -5175,7 +5035,6 @@ Press (2010).
 4. M. Gadgil and R. Guha, Ecology and Equity, New Delhi: Oxford University Press, (1995). 
 5. S. Ghosh, Indian Environmental Law: Key Concepts and Principles, Bangalore: Oriental Black 
 Swan, (2019). 
-  ## Page 142
  ←BACKTOSEMESTER VII 
 FMCD2009/ 2.0 142 
   Program: B.B.A LL.B. Semester: X 
@@ -5225,7 +5084,6 @@ Unit IV
 • Regulation of access to biodiversity - Disclosure of origin, prior consent, access and 
 benefit sharing - Case studies 
 13 
- ## Page 143
  ←BACKTOSEMESTER VII 
 FMCD2009/ 2.0 143 
   • Authorities - National Biodiversity Authority, State Biodiversity Boards, 
@@ -5258,7 +5116,6 @@ Ltd, (2005).
 (2002). 
 7. D.P. Mittal, Taxmann's Law of Information Technology (Cyber Law), Lucknow: Taxmann Allied 
 Services, (2000). 
-  ## Page 144
  ←BACKTOSEMESTER VII 
 FMCD2009/ 2.0 144 
   Program: B.B.A. LL.B. Semester: X 
@@ -5312,7 +5169,6 @@ retributive
   13 
 Unit V 
 5 UNIT - V: Victimology 13 
- ## Page 145
  ←BACKTOSEMESTER VII 
 FMCD2009/ 2.0 145 
    Victimology: Definition and nature 
@@ -5332,7 +5188,6 @@ References:
 2. Smith and Hogan, Criminal Law cases and materials, Butterworths Publication, (1975). 
 3. O.P. Srivastava's Principle of Criminal Law, Ram Narish Choudhry (ed.) Eastern Book 
 Company, (6th Edition, 2003). 
-  ## Page 146
  ←BACKTOSEMESTER VII 
 FMCD2009/ 2.0 146 
   Program: B.B. LL.B. Semester: X 
@@ -5386,7 +5241,6 @@ International Sale of Goods (1980) (CISG).
  INCOTERMS - Cost Insurance Freight (CIF) and Fee on Board (FOB); Formation and 
 Performance of International Contracts; Frustration of Contracts 
 13 
- ## Page 147
  ←BACKTOSEMESTER VII 
 FMCD2009/ 2.0 147 
    International Commercial Arbitration; UNCITRAL Model Law on International 
@@ -5403,7 +5257,6 @@ References:
 5. Smith and Hogan, Criminal Law cases and materials, Butterworths Publication, (1975). 
 6. O.P. Srivastava's Principle of Criminal Law, Ram Narish Choudhry (ed.) Eastern Book 
 Company, (6th Edition, 2003). 
-  ## Page 148
  ←BACKTOSEMESTER VII 
 FMCD2009/ 2.0 148 
   Program: B.B.A. LL.B. Semester: X 
@@ -5455,7 +5308,6 @@ Unit V
  The Real Estate (Regulation and Development) Act, 2016: 
 o Registration of real estate project and registration of real estate agents, 
 13 
- ## Page 149
  ←BACKTOSEMESTER VII 
 FMCD2009/ 2.0 149 
   o Functions and duties of promoter, developer, Joint Development Agreement, 
@@ -5474,7 +5326,6 @@ Training Institute.
 References: 
 1. Sachin Mittal, A-2-Z of Real Estate in India, Punjab: White Falcon Publishing. 
 2. Dr. Harshul Savla, An RPWA Initiative Era post RERA, Chennai: Notion Press. 
-  ## Page 150
  ←BACKTOSEMESTER VII 
 FMCD2009/ 2.0 150 
   Program: B.B.A. LL.B. Semester: X 
@@ -5523,7 +5374,6 @@ Unit V
 observation of trial court proceedings, client interview observation and pre -trial 
 preparation. This will carry 10 marks. 
   13 
-  ## Page 151
  ←BACKTOSEMESTER VII 
 FMCD2009/ 2.0 151 
   Program: B.B.A.L.L.B Semester: X 
@@ -5562,7 +5412,6 @@ declared by the Government and its Implementation
  KIADB Act and Rules thereunder. 
  Judicial trends and public interest litigation in infrastructure projects 
   6 
- ## Page 152
  ←BACKTOSEMESTER VII 
 FMCD2009/ 2.0 152 
   UNIT-IV 
@@ -5604,7 +5453,6 @@ Broadcasting and Cable Services, Lexis Nexis.
 6. Sundar, S. and Sarkar S.K. (2000). Framework for Infrastructure Regulation. New 
 Delhi: TERI Press. 
 7. Mohammad Naseem, 2010, Energy Law in India, Kluwer Law International 
-  ## Page 153
  ←BACKTOSEMESTER VII 
 FMCD2009/ 2.0 153 
   8. Anup Chatterjee, K. Narindar Jetli, Indus try and Infrastructure Development in India 
@@ -5613,7 +5461,6 @@ Publication Year: 2009.
 Publishing. 
 10. Beverley's Commentary on the Right to Fair Compensation and Transparency in Land 
 Acquisition, Rehabilitation and Resettlement Act, 2013, 11th Edition, Delhi Law House. 
-  ## Page 154
  ←BACKTOSEMESTER VII 
 FMCD2009/ 2.0 154 
   Program: B.B.A.L.L.B Semester: X 
@@ -5646,7 +5493,6 @@ Unit - III: Medical Law and Ethics
 Euthanasia 
  Clinical Trials: Ethical and Legal Considerations 
   6 
- ## Page 155
  ←BACKTOSEMESTER VII 
 FMCD2009/ 2.0 155 
   UNIT-IV 
@@ -5681,14 +5527,12 @@ Pvt. Ltd., 2016.
 2. Y.V Rao, Law Relating to Medical Negligence, Asia Law House, 2019. 
 3. Dr Lily Srivastava, Law and Medicine, Universal Law Publishing Co., 2010. 
 4. K. Kannan, Medicine and Law, Oxford University Press, 2014. 
-  ## Page 156
  ←BACKTOSEMESTER VII 
 FMCD2009/ 2.0 156 
   5. Sairam Bhat & Binayak Sinha et. al., Healthcare in India: An Introduction to Law and 
 Legal System, Bloomsbury, 2016. 
 6. Surendra Malik & Sudeep Malik, Supreme Court on Drugs, Medical Laws and Medical 
 Negligence, Eastern Book Company, 2014. 
-  ## Page 157
  ←BACKTOSEMESTER VII 
 FMCD2009/ 2.0 157 
   Program: B.B.A.LL.B Semester: X 
@@ -5728,7 +5572,6 @@ balance sheet
  Key Financial Ratios: liquidity ratios, profitability ratios, solvency ratios 
  Evaluating financial stability and performance 
 6 
- ## Page 158
  ←BACKTOSEMESTER VII 
 FMCD2009/ 2.0 158 
   UNIT-IV 
@@ -5755,7 +5598,6 @@ UNIT V: Environmental Due Diligence
  Contamination and hazardous material assessment 
 . 
   6 
- ## Page 159
  ←BACKTOSEMESTER VII 
 FMCD2009/ 2.0 159 
   Prescribed Books: 
@@ -5767,9 +5609,8 @@ FMCD2009/ 2.0 159
 Technology, 2016. 
 2. Peter Howson, Commercial Due Diligence: The Key to Understanding Value in an 
 Acquisition, Grower Publishing, 2015. 
-  ## Page 160
  ←BACK TO SEMESTER IV 
-  160 
+
   Program: B.B.A.L.L.B Semester: X 
 Course Title: Contract Drafting and Interpretation Course Code: 21LBLE503 
 L-T-P: 0-1-0-1 Credits: 02 Contact Hours: 4 Hrs / week 
@@ -5801,9 +5642,8 @@ j. Boilerplate clauses
  Basics of contract management 
  Artificial Intelligence in contract drafting: Use, limitations and challenges 
   6 
- ## Page 161
  ←BACK TO SEMESTER IV 
-  161 
+
 UNIT - III 
 UNIT III: DRAFTING RISK MANAGEMENT AND NEGOTIATION CLAUSES 
  Risk management in contracts 
@@ -5831,9 +5671,8 @@ Special Contracts
  Carrying and forwarding agent agreement 
  Open source licenses 
   6 
- ## Page 162
  ←BACK TO SEMESTER IV 
-  162 
+
 UNIT-V 
 UNIT V: INTERPRETATION OF CONTRACT 
  Unique interpretation of the terms of the contract 
@@ -5856,9 +5695,8 @@ Professionals, Business Law Seminar Group, 1st Ed., 2018.
 3. Kush Kalra, Corporate Drafting & Commercial Agreements, Whitesmann Publishing Co, 1st 
 Ed., 2025. 
 Ed., 2016. 
-  ## Page 163
  ←BACK TO SEMESTER IV 
-  163 
+
 Program: B.B.A.L.L.B Semester: X 
 Course Title: Space Law Course Code: 21LCLE502 
 L-T-P: 0-1-0-1 Credits: 02 
@@ -5893,9 +5731,8 @@ UNIT 3: SPACE ACTIVITIES: RIGHTS, LIABILITIES, AND REGULATION
  Space traffic management 
  Environmental issues in outer space (Space debris and contamination) 
   6 
- ## Page 164
  ←BACK TO SEMESTER IV 
-  164 
+
 UNIT-IV 
 UNIT 4: COMMERCIALISATION OF SPACE ACTIVITIES 
  Privatisation and commercialisation of space missions 
@@ -5920,8 +5757,7 @@ Prescribed Books:
 Reddy, Asia Law House, 2nd Ed., 2016. 
 2. Space Law: In the Era of Commercialisation, Sandeepa B. Bhat, Eastern Book Company, 
 1st Ed., 2014. 
-  ## Page 165
- 165 
+
   Program: B.Com.L.L.B Semester: X 
 Course Title: Data Protection Law Course Code: 21LCLE503 
 L-T-P: 0-1-0-1 Credits: 02 
@@ -5955,8 +5791,7 @@ UNIT - III: Data Protection Principles
 ● Accountability 
 ● Data sovereignty 
   6 
- ## Page 166
- 166 
+
 UNIT-IV 
 UNIT - IV: The Digital Personal Data Protection Act, 2023 
  Obligations of data fiduciary 
@@ -5991,7 +5826,5 @@ edition, 2018.
 3. Byron Reese, The Fourth Age, Atria Publications, 2020. 
 4. Viktor Mayer-Schönberger, Kenneth Cukier, Big Data: A Revolution That Will 
 Transform How We Live, Work and Think (London: John Murray Publishers, 2013). 
-  ## Page 167
  ←BACK TO SEMESTER VIII 
-FMCD2009 / 2.0 167 
-  
+FMCD2009 / 2.0 167

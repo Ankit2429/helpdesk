@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: IT-Policies_and_Procedures_Manual_Updated_12-4-21"
+title: "It Policies And Procedures Manual Updated 12 4 21"
 category: "notices"
 subcategory: ""
 document_type: "minutes"
@@ -11,16 +11,15 @@ language: "en"
 keywords: ["campus", "document", "email", "policy", "printed", "software"]
 aliases: ["HOD", "Head of Department", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "21"
 ---
-# PDF Document: IT-Policies_and_Procedures_Manual_Updated_12-4-21
- **PDF Source:** https://www.kletech.ac.in/pdf/IT-Policies_and_Procedures_Manual_Updated_12-4-21.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/IT-Policies_and_Procedures_Manual_Updated_12-4-21.pdf
  INFOCELL 
 K.L.E. TECHNOLOGICAL UNIVERSITY, HUBBALLI 
 IT POLICIES AND 
 PROCEDURES 
   (Approved by BOG-3: Dated: 24-12-2015) 
- ## Page 2
  Document valid when printed only 
 Last printed 27/07/2021 1:15:00 PM Page 1 of 21 
    INFOCELL 
@@ -56,7 +55,6 @@ Procedures ................................ ................................ ...
 6. Hardware Purchasing Policy ................................ ................................ ................................ . 16 
 Purpose of the Policy ................................ ................................ ................................ ............ 16 
 Procedures ................................ ................................ ................................ ........................... 16 
- ## Page 3
  Document valid when printed only 
 Last printed 27/07/2021 1:15:00 PM Page 2 of 21 
 7 IT Procurement Procedure ................................ ................................ ................................ ..... 18 
@@ -67,7 +65,6 @@ Last printed 27/07/2021 1:15:00 PM Page 2 of 21
 9 E-wastage Policy ................................ ................................ ................................ ................... 20 
 9. 1.1 Purpose of the Policy ................................ ................................ ................................ ... 20 
 9. 1.2 Procedure of the Policy ................................ ................................ ................................ 20 
-  ## Page 4
  Document valid when printed only 
 Last printed 27/07/2021 1:15:00 PM Page 3 of 21 
 Introduction 
@@ -96,7 +93,6 @@ is classified into the following groups:
 7. IT Procurement Policy. 
 8. Bring your own device policy. 
 9. E-waste Policy 
-   ## Page 5
  Document valid when printed only 
 Last printed 27/07/2021 1:15:00 PM Page 4 of 21 
 1 Policy for the use of Software 
@@ -125,7 +121,6 @@ policy does not allow any pirated/unauthorized software installation on the univ
 computers and the computers connected to the University campus network. In the absence of 
 such undertakings, University will hold the department/individual personally responsible for any 
 pirated software installed on the computers located in their department/individual rooms. 
- ## Page 6
  Document valid when printed only 
 Last printed 27/07/2021 1:15:00 PM Page 5 of 21 
 1. 1.4 Software Usage 
@@ -143,7 +138,6 @@ The unauthorized duplicating, acquiring, or use of software copies is prohibited
 who makes acquires or uses unauthorized copies of software will be referred to The Registrar for 
 within this campus, and The Registrar is authorized to undertake disciplinary action where such 
 event occurs. 
-   ## Page 7
  Document valid when printed only 
 Last printed 27/07/2021 1:15:00 PM Page 6 of 21 
 2 IT Security Policy 
@@ -174,7 +168,6 @@ security software (antivirus).
 Antivirus Software and its updating: Computer systems used in the University should have 
 antivirus software installed, and it should be active at all times. The primary user of a computer 
 system is responsible for keeping the computer system compliant with this virus protection policy. 
- ## Page 8
  Document valid when printed only 
 Last printed 27/07/2021 1:15:00 PM Page 7 of 21 
 Individual users should make sure that respective computer systems have current virus protection 
@@ -199,7 +192,6 @@ VPN: The Virtual Private Network access given with prior permission.
 High-security zones like the exam section, account section, and data centers have biometric 
 entry. In these areas, trespassing is monitored on CCTV. 
 Exam section LAN is isolated from accessing from campus LAN. 
-  ## Page 9
  Document valid when printed only 
 Last printed 27/07/2021 1:15:00 PM Page 8 of 21 
 3 Email Policy 
@@ -230,7 +222,6 @@ obtain the appropriate signature and forward the completed original form to the 
 For all the students of KLE TECH email account is automatically created as part of the enrolment 
 process. 
 3. 1.2c Gaining Access (Staff) 
- ## Page 10
  Document valid when printed only 
 Last printed 27/07/2021 1:15:00 PM Page 9 of 21 
 Use of the email client (such as outlook or thunderbird) installed on a staff desktop machine is the 
@@ -260,7 +251,6 @@ The IT Acceptable Use policy provides additional guidance on user accounts and p
 Staff will have an email address of the format: firstname.lastname@kletech.ac.in 
 In some cases, alternative forms of email address may also be assigned to Staff, such as 
 nickname.lastname@ kletech.ac.in 
- ## Page 11
  Document valid when printed only 
 Last printed 27/07/2021 1:15:00 PM Page 10 of 21 
 In the case of staff members with the same name, a middle initial will be used to differentiate the 
@@ -294,7 +284,6 @@ automatically redirected to an email account external to the KLE TECH . Personal
 messages for the former staff member will be on forwarded (if a forwarding e-mail address is 
 known) on the request of the departing staff member. KLE TECH e-mail messages will not be 
 disclosed nor forwarded to the former staff member. 
- ## Page 12
  Document valid when printed only 
 Last printed 27/07/2021 1:15:00 PM Page 11 of 21 
 After three months, the entire mailbox for the former staff member will be archived and then 
@@ -307,7 +296,6 @@ The signature can be added with appropriate syntax
 Do not include drawings, pictures, maps, graphics in your signature or an inspirational or another 
 type of quotation at the end. Such material is unnecessary in business communication and may 
 not be well-received. 
-   ## Page 13
  Document valid when printed only 
 Last printed 27/07/2021 1:15:00 PM Page 12 of 21 
 4 IT Backup Policy 
@@ -338,7 +326,6 @@ task is performed by the backup operator. By doing so, we can assure maximum saf
 user data. 
  The backup on the external hard drive is kept or tr ashed as per the respective department 
 head's decision. 
- ## Page 14
  Document valid when printed only 
 Last printed 27/07/2021 1:15:00 PM Page 13 of 21 
  The Passwords of all the systems to be changed once in a fortnight by the Administrator. Also, 
@@ -349,7 +336,6 @@ hard copy containing the passwords needs to be destroyed.
 automatically carried out daily at 4:15 PM and mailed to the administrator email ID. 
  Student admission/ course registration/ attendance/ fees/ exam all data is stored at the 
 contineo server and replicated on the cloud. 
-   ## Page 15
  Document valid when printed only 
 Last printed 27/07/2021 1:15:00 PM Page 14 of 21 
 5 Software Purchasing Policy 
@@ -377,12 +363,10 @@ lifetime. The renewal of the Academic license is carried out once a year or ever
 Open source or f reeware software can be obtained without payment and usually downloaded 
 directly from the internet. 
 IT cell approval is required if open source or freeware software is needed. 
- ## Page 16
  Document valid when printed only 
 Last printed 27/07/2021 1:15:00 PM Page 15 of 21 
 All open-source or freeware must be compatible with the campus's hardware and software 
 systems. 
-   ## Page 17
  Document valid when printed only 
 Last printed 27/07/2021 1:15:00 PM Page 16 of 21 
 6. Hardware Purchasing Policy 
@@ -413,7 +397,6 @@ Desktop tower
 The desktop screen of {insert screen size here} 
 Keyboard and mouse You may like to consider stating if these are to be wireless 
 {insert name of the operating system, e.g., Windows 8.1, and software, e.g., Office 2013 here} 
- ## Page 18
  Document valid when printed only 
 Last printed 27/07/2021 1:15:00 PM Page 17 of 21 
 {insert other items here, such as speakers, microphone, webcam, printers, etc.} 
@@ -441,7 +424,6 @@ Computer peripherals purchased must be compatible with all other computer hardwa
 software on the campus. 
 The department head can only authorize the purchase of computer peripherals. 
 The standard warranty must support all purchases of computer peripherals 
- ## Page 19
  Document valid when printed only 
 Last printed 27/07/2021 1:15:00 PM Page 18 of 21 
 7 IT Procurement Procedure 
@@ -473,7 +455,6 @@ vi. The comparative statement is generated from the quotations received based on
 specification, cost, warranty, payment terms and delivery. 
 vii. The negotiation meeting will be conducted and purchase order is issued to the 
 vendor. 
-   ## Page 20
  Document valid when printed only 
 Last printed 27/07/2021 1:15:00 PM Page 19 of 21 
 8 Bring Your Own Device Policy 
@@ -505,7 +486,6 @@ the device.
 of internet sites etc. 
  Not to connect USB memory sticks from an untrusted or unknown source to KLE 
 Technological University's equipment. 
- ## Page 21
  Document valid when printed only 
 Last printed 27/07/2021 1:15:00 PM Page 20 of 21 
 9 E-wastage Policy 
@@ -526,5 +506,4 @@ site.
 9. 1.2 Procedure of the Policy 
 Infocell will initiate the processes the e -waste at the campus. The priority is given to repair and 
 reuse. Later if it is non -repairable and obsolete, then the new item is procured under buyback. 
-Finally, the scrapping of e-waste takes place if the above two clauses did not fit in. 
- 
+Finally, the scrapping of e-waste takes place if the above two clauses did not fit in.

@@ -14,4 +14,3 @@ last_modified: "2026-07-28"
 ---
 # Board of Studies
  **Source URL:** https://www.kletech.ac.in/board-of-studies
- 

@@ -39,4 +39,3 @@ last_modified: "2026-07-28"
  - Smart Manufacturing
 - Digital Twin
 - Human-Robot Collaboration
- 

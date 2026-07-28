@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 03-mtech-in-cs-curriculum-structure-and-content-2025-2027"
+title: "M.Tech - Computer Science and Engineering Curriculum"
 category: "academics"
 subcategory: ""
 document_type: "syllabus"
@@ -11,15 +11,14 @@ language: "en"
 keywords: ["chapter", "content", "curriculum", "data", "document", "marks", "mtech", "questions", "security", "structure"]
 aliases: ["HOD", "Head of Department", "CSE", "CS", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "49"
 ---
-# PDF Document: 03-mtech-in-cs-curriculum-structure-and-content-2025-2027
- **PDF Source:** https://www.kletech.ac.in/pdf/03-mtech-in-cs-curriculum-structure-and-content-2025-2027.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/03-mtech-in-cs-curriculum-structure-and-content-2025-2027.pdf
  FMCD2009 / 2.0 1 
   Curriculum Structure and Curriculum Content for the Academic year: 2025-27 
 Department: Computer Science and Engineering 
 Program: M.Tech - Computer Science and Engineering 
-  ## Page 2
  FMCD2009 / 2.0 2 
   Table of Contents 
 Vision and Mission of KLE Technological University 3 
@@ -30,7 +29,6 @@ Curriculum Structure-Overall 6
 Curriculum Structure-Semester wise 7 
 List of Program Electives 12 
 Curriculum Content- Course wise 13 
-  ## Page 3
  FMCD2009 / 2.0 3 
   Vision and Mission Statements of the KLE Technological University 
   Vision 
@@ -53,7 +51,6 @@ contributing our expertise, experience and leadership, to enhance
 competitiveness and quality of life. 
   As a unified community of faculty, staff and students, we work together with 
 the spirit of collaboration and partnership to accomplish our mission. 
-  ## Page 4
  FMCD2009 / 2.0 4 
 Vision and Mission Statements of the Department/School 
   Department Vision 
@@ -69,7 +66,6 @@ information technology businesses and occupations.
 innovations leading to the future of computing technologies. 
  To collaborate within and beyond discipline to create solutions that 
 benefit humanity and society. 
-  ## Page 5
  FMCD2009 / 2.0 5 
 Consolidated View of Program Educational Objectives (PEOs) /Program Outcomes (POs) and Program-Specific Objectives (PSOs) 
   Program Educational Objectives (PEO) Program Outcomes (PO) 
@@ -106,7 +102,6 @@ PO5: An ability to work with integrity and ethics in their
 professional practicehaving an understanding of 
 responsibility towards society with 
 sustainabledevelopment for life time. 
-  ## Page 6
  FMCD2009 / 2.0 6 
 Curriculum Structure-Overall 
                                                                 Semester Total Program Credit: 88 Year: 2025-27 
@@ -149,7 +144,6 @@ Mini Project 25ECSW701
 Professional Elective-2 
   (3-0-0) 
      Credits 26 24 18 20 
- ## Page 7
  FMCD2009 / 2.0 7 
 Curriculum Scheme - Semester wise 
 Semester: I 
@@ -168,7 +162,6 @@ PC 3-0-1 4 5 63 37 100 3 Hours
 6 25ECSC706 Cryptography and Network Security PC 3-0-1 4 5 63 37 100 3 Hours 
 7 25ECSW701 Mini Project PC 0-0-3 3 6 50 50 100 3 Hours 
 TOTAL (17-0-9) 26 35 432 268 700 
- ## Page 8
  FMCD2009 / 2.0 8 
 Semester - II 
 Note: L: Lecture T: Tutorials P: Practical, ISA: In Semester Assessment ESA: End Semester Assessment PJ-Project, PC-Programme Core, PE-
@@ -200,7 +193,6 @@ PC 3-0-0 3 6
 Reality 
  25ECSE706 Multimedia Processing 
 TOTAL (19-0-5) 24 32 423 277 700 
- ## Page 9
  FMCD2009 / 2.0 9 
 Semester: III 
   Note: L: Lecture T: Tutorials P: Practical, ISA: In Semester Assessment ESA: End Semester Assessment PJ-Project 
@@ -213,7 +205,6 @@ Training PJ 0-0-8 08 16 50 50 100 3 hours
 2 24ECSW802 Minor Project PJ 0-0-10 10 20 50 50 100 3 hours 
             TOTAL 18 
 (0-0-18) 18 36 100 100 200 
- ## Page 10
  FMCD2009 / 2.0 10
   Semester: IV 
   Note: L: Lecture T: Tutorials P: Practical, ISA: In Semester Assessment ESA: End Semester Assessment PJ-Project, PC-Programme Core, 
@@ -224,12 +215,10 @@ Hours ISA ESA Total Exam
 Duration 
 1 24ECSW803 Project Work PJ 0-0-20 20 40 50 50 100 3 hours 
 TOTAL 0-0-20 20 40 
- ## Page 11
  FMCD2009 / 2.0 11
 Consolidated Credits of all semesters: 
 Semester I II III IV Total 
 Credits 26 24 18 20 88 
-  ## Page 12
  FMCD2009 / 2.0 12
 List of Program Electives 
 Sr. No Name of the Course Course Code 
@@ -240,7 +229,6 @@ Sr. No Name of the Course Course Code
 5. Augmented Reality and Virtual Reality 
  25ECSE705 
 6. Multimedia Processing 25ECSE706 
-  ## Page 13
  FMCD2009 / 2.0 13
 Curriculum Content- Course wise 
 I SEMSETER 
@@ -284,7 +272,6 @@ Edition (2016)
 Reference Books: 
 1. Deep Learning , Ian Goodfellow, Yoshua Bengio, Aaron Courville, The MIT Press 
 November 2016 
-  ## Page 14
  FMCD2009 / 2.0 14
   Evaluation Scheme: 
 ISA Scheme 
@@ -322,15 +309,12 @@ components.
  Apply linear algebra to model and solve network flow problems, such as optimizing 
 traffic flow or data packets. 
 6. Machine Learning: Linear Regression and Classification 
- ## Page 15
  FMCD2009 / 2.0 15
  Use linear algebra for gradient descent and optimization in machine learning models. 
  Implement linear classifiers like Support Vector Machines (SVM) or Logistic Regression. 
 7. Robotics: Kinematics and Path Planning 
  Model robot movement using transformation matrices and vector spaces. 
  Simulate arm movement or pathfinding using linear algebra concepts. 
-  Back 
-  ## Page 16
  FMCD2009 / 2.0 16
   Program: Master of Technology Semester I 
 Course Title: Machine Learning Course Code: 25ECSC702 
@@ -379,7 +363,6 @@ Chapter 7: Generative Network: Understanding Generative Adversarial
 Networks, Architecture, Loss functions, Training challenges, Variants DCGAN, 
 CGAN, WGAN, Style GAN 
 5 hrs 
- ## Page 17
  FMCD2009 / 2.0 17
 8 
 Chapter 8: Applications of Generative Network Image In painting, Image 
@@ -408,7 +391,6 @@ Whole Syllabus
 Answer all questions 
 B 5 questions of 10 marks Answer all questions 
 C 2 questions of 20 marks Answer any one 
-  ## Page 18
  FMCD2009 / 2.0 18
 List of Experiments for Machine Learning 
 Supervised Learning 
@@ -442,8 +424,6 @@ visualization.
 and text processing. 
 4. Autoencoders: Dimensionality reduction and anomaly detection. 
 5. Generative Adversarial Networks (GANs): Image generation and style transfer . 
-  Back 
-  ## Page 19
  FMCD2009 / 2.0 19
 Program: Master of Technology Semester I 
 Course Title: Advanced Database Management System Course Code: 25ECSC703 
@@ -495,7 +475,6 @@ Edition, McGraw-Hill Education, 2003
 Reference Books: 
 1. Advanced Database Management System (ADBMS) Dr. S. B. Navathe, Publisher: 
 Pearson 7th Education, 2015 
-  ## Page 20
  FMCD2009 / 2.0 20
 Evaluation Scheme: ISA Scheme 
 Assessment Conducted for 
@@ -528,8 +507,6 @@ loading.
 10. Document-oriented Databases: Experiment with MongoDB CRUD operations. 
 11. Key-Value Stores: Use Redis or DynamoDB for key-value data storage. 
 12. Column-family Stores: Work with Cassandra for column-oriented storage. 
-  Back 
- ## Page 21
  FMCD2009 / 2.0 21
   Program: Master of Technology Semester I 
 Course Title: Wireless Networks Course Code: 25ECSC704 
@@ -573,7 +550,6 @@ NGMN 5G Architecture Framework: Layered Functionality, Network Slicing;
 5G Core Network Architecture, Radio Access Network Architecture, Session 
 Establishment. 
 5 hrs 
- ## Page 22
  FMCD2009 / 2.0 22
 6 Chapter 6: MEC and 5G: 
 MEC Architectural Concepts, MEC Support for Network Slicing, MEC Use 
@@ -608,7 +584,6 @@ Whole Syllabus
 Answer all questions 
 B 5 questions of 10 marks Answer all questions 
 C 2 questions of 20 marks Answer any one 
-  ## Page 23
  FMCD2009 / 2.0 23
 Lab experiments 
 Expt./Job 
@@ -659,8 +634,6 @@ Environment
  Reporting blackspots and suggesting AP 
 placement 
 02 
-  Back 
-  ## Page 24
  FMCD2009 / 2.0 24
 Program: Master of Technology Semester I 
 Course Title: Advanced Operating Systems Course Code: 25ECSC705 
@@ -712,7 +685,6 @@ Clock Synchronization, Logical Clocks, Mutual Exclusion, Global Positioning of
 Nodes, Data-Centric Consistency Models, Client-Centric Consistency Models, 
 Consistency Protocols. 
 5 hrs. 
-  ## Page 25
  FMCD2009 / 2.0 25
 Text Books: 
 1. William Stallings: Operating Systems- Internals and Design Principles, 10th Edition, 
@@ -745,7 +717,6 @@ Whole Syllabus
 Answer all questions 
 B 5 questions of 10 marks Answer all questions 
 C 2 questions of 20 marks Answer any one 
-  ## Page 26
  FMCD2009 / 2.0 26
 List of Experiments 
   Expt/ 
@@ -761,8 +732,6 @@ synchronization and deadlock 2
 6 Implementation of Race Condition and Inter Process Communication (IPC): 
 Pipes and FIFO 2 
 7 Implementation of Multi-threading, File and record Locking 2 
-  Back 
- ## Page 27
  FMCD2009 / 2.0 27
   Program: Master of Technology Semester I 
 Course Title: Cryptography & Network Security Course Code: 25ECSC706 
@@ -809,7 +778,6 @@ Encapsulating security payload, combining security associations, Internet
 key exchange; IEEE 802.11i Wireless Lan Security: Services and phases of 
 operation, WPA and WPA2 
 8hrs 
- ## Page 28
  FMCD2009 / 2.0 28
 6 
 Chapter 6: Internet of Things (IoT) Security: IoT Security Concepts and 
@@ -839,7 +807,6 @@ Whole Syllabus
 Answer all questions 
 B 5 questions of 10 marks Answer all questions 
 C 2 questions of 20 marks Answer any one 
-  ## Page 29
  FMCD2009 / 2.0 29
 List of Experiments 
 Expt./Job No. Brief description about the experiment/job No. of Lab. Slots 
@@ -853,8 +820,6 @@ algorithm 2
 HTTPS, IPSC 2 
 7. Seminar on research papers : Advanced 
 topics of cryptography and network security 3 
-  Back 
- ## Page 30
  FMCD2009 / 2.0 30
   Program: Master of Technology Semester I 
 Course Title: Mini Project Course Code: 25ECSW701 
@@ -891,8 +856,6 @@ Implementation 08
 4. Review 2 01 
 5. Result discussion and report writing 08 
 6. Review 3 01 
-  Back 
- ## Page 31
  FMCD2009 / 2.0 31
   II SEMSTER 
 Program: Master of Technology Semester II 
@@ -933,7 +896,6 @@ February 4, 2015
 Reference Books: 
 1. Deep Learning , Ian Goodfellow, Yoshua Bengio, Aaron Courville, The MIT Press 
 November 2016 
-  ## Page 32
  FMCD2009 / 2.0 32
 Evaluation Scheme: 
 ISA Scheme 
@@ -951,8 +913,6 @@ Whole Syllabus
 Answer all questions 
 B 5 questions of 10 marks Answer all questions 
 C 2 questions of 20 marks Answer any one 
-  Back 
- ## Page 33
  FMCD2009 / 2.0 33
   Program: Master of Technology Semester II 
 Course Title: Natural language processing and Gen AI Course Code: 25ECSC708 
@@ -993,7 +953,6 @@ Generation Projects to Extend Your Generative AI Skills" by Rafael Valle
 References: 
 1. Dan Jurafsky and James H. Martin. Speech and Language Processing (3rd ed. draft). 
 2. Ian Goodfellow, Yoshua Bengio, and Aaron Courville. Deep Learning. MIT Press. 
-  ## Page 34
  FMCD2009 / 2.0 34
 Evaluation Scheme (ISA) 
 SL. 
@@ -1031,7 +990,6 @@ N-gram Language Models:
  Building n-gram models for sequence prediction. 
 Recurrent Neural Networks (RNNs) and LSTMs: 
  Implementing RNNs and LSTMs for text generation tasks. 
- ## Page 35
  FMCD2009 / 2.0 35
 Transformer Models: 
  Hands-on with Transformer-based models (BERT, GPT). 
@@ -1058,8 +1016,6 @@ domain adaptation.
 Prompt Engineering: 
  Experimenting with prompts for large language models like GPT-4 for 
 creative and structured outputs. 
-  Back 
-  ## Page 36
  FMCD2009 / 2.0 36
   Program: Master of Technology Semester II 
 Course Title: Big Data Analytics Course Code: 25ECSC709 
@@ -1103,7 +1059,6 @@ Text Books:
 Visualizing and Presenting Data", Wiley Publications. 
 2. Thomas Erl, WajidKhattak, and Paul Buhler, "Big Data Fundamentals Concepts, Drivers & 
 Techniques", Prentice Hall, 2015. 
- ## Page 37
  FMCD2009 / 2.0 37
 3. AnandRajaraman and Jeff Ullman, "Mining of Massive Datasets", Cambridge Press, 
 http://infolab.stanford.edu/~ullman/mmds/book.pdf. 
@@ -1141,8 +1096,6 @@ a dataset. 2
 operations, Arrays and Functions using MongoDB 
 2 
 7 Process real time data using spark. 2 
-  Back 
- ## Page 38
  FMCD2009 / 2.0 38
   Program: Master of Technology Semester II 
 CourseTitle: Computer Vision and Image Processing CourseCode: 25ECSC710 
@@ -1188,7 +1141,6 @@ Edition, Pearson, 2017.
 Reference Books: 
 1. Multiple View Geometry in Computer Vision, Richard Hartley & Andrew Zisserman 
 Second Edition, Cambridge University Press, April 19, 2004 
-  ## Page 39
  FMCD2009 / 2.0 39
 Evaluation Scheme: 
 ISA Scheme 
@@ -1223,7 +1175,6 @@ Medical Image Processing
 5. 2 
 6. Research paper reviews and presentations 2 
 7. Evaluation 2 
-  ## Page 40
  FMCD2009 / 2.0 40
 Scheme for Semester End Examination (ESA) 
   SL. 
@@ -1238,8 +1189,6 @@ Two Questions to be set, any one
 Question of 20 Marks Each to be 
 Answered. 
 All Answer anyone Question 
-  Back 
-  ## Page 41
  FMCD2009 / 2.0 41
   Program: Master of Technology Semester II 
 Course Title: Distributed and Cloud Computing Course Code: 25ECSC711 
@@ -1287,7 +1236,6 @@ Text Books:
 1. Kai Hwang, Geoffrey C. Fox, Jack J. Dongarra, Distributed and Cloud Computing from 
 Parallel Processing to the Internet of Things, Elsevier, 2013. 
 2. Dan C. Marinescu , Cloud Computing Theory and Practice, Elsevier, 2013. 
- ## Page 42
  FMCD2009 / 2.0 42
 3. Nigel Poulton, The Kubernetes Book, Packt Publishing, 2019. 
 References: 
@@ -1314,8 +1262,6 @@ using Aneka Management cloud 03
 5 Implementation of Cloud resource scheduling and security 
 mechanisms 
 03 
-  Back 
-  ## Page 43
  FMCD2009 / 2.0 43
 Electives-1 
 Program: Master of Technology Semester II 
@@ -1355,7 +1301,6 @@ Home Automation-smart lighting, home intrusion detection, Cities-smart parking. 
 Text Books 
 1. Internet of Things - A Hands-on Approach, Arshdeep Bahga and Vijay Madisetti, Universities 
 Press, 2015, ISBN: 9788173719547 
-  ## Page 44
  FMCD2009 / 2.0 44
 References: 
 1. Getting Started with Raspberry Pi, Matt Richardson & Shawn Wallace, O'Reilly (SPD), 2014, 
@@ -1406,7 +1351,6 @@ Light Dependent Register
 Soil Moisture Sensor 
 Smoke Sensor 
 1 
- ## Page 45
  FMCD2009 / 2.0 45
 8 
 Working with Raspberry Pi 
@@ -1416,7 +1360,6 @@ Remote Login
 9 Conducting all the experiments from S. No. 1 to S.No. 7 1 
 10 Developing MIT App / Working with website / Controlling devices 
 and Sensors through website using NODE MCU / Raspberry Pi 3 
-Back 
   Program: Master of Technology Semester II 
 CourseTitle: Security Operations Course Code: 25ECSE703 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 3 hrs/week 
@@ -1453,7 +1396,6 @@ technical, Threat intelligence lifecycle: collection, analysis,
 dissemination, Integration of threat intelligence into security 
 operations, Utilizing threat intelligence platforms and feeds 
 7hrs 
- ## Page 46
  FMCD2009 / 2.0 46
 Text Books : 
 1. Muniz, J., Lakhani, A., Santos, O., & Frost, M. (2015). The Modern Security Operations 
@@ -1472,8 +1414,6 @@ ISA-1 30 33
 ISA-2 30 
 Lab Activity 40 33 
  Total 100 66 
-  Back 
- ## Page 47
  FMCD2009 / 2.0 47
   Semester III 
 Program: Master of Technology Semester III 
@@ -1513,8 +1453,6 @@ experiments 08
 4. Review 2 01 
 5. Development of Application with Result Discussion 07 
 6. Review 3 01 
-Back 
- ## Page 48
  FMCD2009 / 2.0 48
 Program: Master of Technology Semester: III 
 Course Title: Minor Project Course Code: 24ECSW802 
@@ -1553,8 +1491,6 @@ Implementation 36
 4. Review 2 01 
 5. Result discussion, report and paper writing 36 
 6. Review 3 01 
-  Back 
- ## Page 49
  FMCD2009 / 2.0 49
 Semester IV 
 Course Outcomes: 
@@ -1591,9 +1527,8 @@ Literature Survey, defining the Problem statement and objectives 75
 4. Review 2 01 
 5. Result discussion, report and paper writing 54 
 6. Review 3 01 
- Back 
 Program: Master of Technology Semester IV 
 Course Title: Project Work Course Code: 24ECSW803 
 L-T-P: 0-0-20 Credits:20 Contact Hrs: 40hrs/Week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
- Lab: Exam Duration: 3hrs 
+ Lab: Exam Duration: 3hrs

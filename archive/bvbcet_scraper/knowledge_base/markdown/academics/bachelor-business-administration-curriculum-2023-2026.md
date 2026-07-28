@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: bachelor-business-administration-curriculum-2023-2026"
+title: "Bachelor Business Administration Curriculum 2023 2026"
 category: "academics"
 subcategory: ""
 document_type: "syllabus"
@@ -11,17 +11,16 @@ language: "en"
 keywords: ["administration", "bachelor", "business", "course", "curriculum", "document", "management", "marks", "module"]
 aliases: ["HOD", "Head of Department", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "66"
 ---
-# PDF Document: bachelor-business-administration-curriculum-2023-2026
- **PDF Source:** https://www.kletech.ac.in/pdf/bachelor-business-administration-curriculum-2023-2026.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/bachelor-business-administration-curriculum-2023-2026.pdf
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   School of Management Studies and Research 
   Curriculum and Syllabus 
 (2023-2026) 
 Bachelor of Business Administration 
-  ## Page 2
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   INDEX 
@@ -36,7 +35,6 @@ Specific Objectives (PSOs)
 4 Curriculum Structure-Overall 7 
 5 Curriculum Structure - Semester-wise 9 
 6 Curriculum Content- Course-wise 18 
-  ## Page 3
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Title: Vision and Mission Statements of the KLE Technological University 
@@ -60,7 +58,6 @@ contributing ourexpertise, experience and leadership, to enhance
 competitiveness and quality of life. 
   As a unified community of faculty, staff and students, we work together with the 
 spirit ofcollaboration and partnership to accomplish our mission. 
-  ## Page 4
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Title: Vision and Mission Statements of the Department/School 
@@ -74,7 +71,6 @@ development of the region
 achieve personal and professional growth 
   To contribute to the body of knowledge in management science 
 To positively impact the society by upholding the values of KLE Society 
-  ## Page 5
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Title: Consolidated View of Program Educational Objectives (PEOs) /Program Outcomes (POs) and 
@@ -101,7 +97,6 @@ achievement of organizational goals, contributing
 effectively to a team environment 
   Ability to analyze, synthesize, and solve organizational 
 and societal issues 
- ## Page 6
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Title: Curriculum Structure -Overall 
@@ -255,7 +250,6 @@ Skills
    Cred
 its 
 23 25 24 24 20 19 
- ## Page 7
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Semester I 
@@ -313,7 +307,6 @@ Office 1-0-1 2 3 100 -- 100 --
 7 
   21MBAP102 Balake Kannada -I 2-0-1 3 4 100 -- 100 -- 21MBAP103 Adalitha Kannada - I 
     Total 20-0-3 23 
- ## Page 8
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Semester III 
@@ -376,7 +369,6 @@ Management 3-0-0 3 3 50 50 100 3 hours
 & Leadership Skills 
 0-0-1 1 2 75 25 100 -- 
     Total 18-1-5 24 
-      ## Page 9
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Semester V 
@@ -438,7 +430,6 @@ Environment 3-0-0 3 3 50 50 100 3 hours
 Events and Brand Promotion 0-0-2 2 4 50 50 100 -- 
 7 24MBAP301 Internship 0-0-3 3 6 50 50 100 3 hours 
     Total 14-0-5 19 
- ## Page 10
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Bachelor of Business Administration 
@@ -484,7 +475,6 @@ Module 4:
 Economic Growth & Development - Meaning of economic growth, factors affecting 
 economic growth, impact of circular flow of money on business, large scale & small 
 10 hrs 
- ## Page 11
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   scale business. Role of foreign Investments, private foreign investment limitations & 
@@ -508,7 +498,6 @@ Structure implication for India.
 References Books: 
  Economic Environment of Business by M. Ashikary, Sultan Chand and Sons 
  Business Environment by Francis Cherrinulam, Himalaya Publishing House 
-  ## Page 12
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Course Code: 21MBAC102 Course Title: Principles of Management 
@@ -555,7 +544,6 @@ ordination, techniques of co -ordination. Decision Making: Meaning, Types of
 decisions, Process, Significance, Limitations, Models - Rational economic model and 
 Administrative model. 
 06 hrs 
- ## Page 13
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Controlling - Meaning; Steps; Types; Techniques; Significance; Limitations. 
@@ -596,7 +584,6 @@ Module No 5: Not-for-Profit Organization and Partnership Accounts:
 Meaning and Characteristics of Not-for-Profit Organization, Accounting Records of Not-for-
 Profit Organizations, Nature of Partnership, Partnership Deed, Special Aspects of Partnership 
   8 hrs 
- ## Page 14
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Accounts, Modes of Reconstitution of a Partnership Firm, Admission of a New Partner, New 
@@ -607,7 +594,6 @@ Module 6: Cash flow statement and fund flow statement (Theory) 6 hrs
  M Y Khan & P K Jain , Management Accounting , 8thedn, MC Graw Hill 
  CA C Rama Gopal , Accounting for Managers , 1stedn , new age 
  N. Ramachandran and Ram Kumar Kakani, , Financial Accounting for Management, 2, TMH 
-  ## Page 15
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Course Code: 21MBAC104 Course Title: Entrepreneurship Development 
@@ -651,7 +637,6 @@ business models -niche, mass customization, freemium, bundling, no frills, premi
 Ecosystem models- 
 08 hrs 
 Reference Books: 
- ## Page 16
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
    Hisrich, Robert D; Peters, Michael P and Shepherd, Dean A, Entrepreneurship, Tata McGraw Hill 
@@ -699,7 +684,6 @@ Module 4: Correspondence
 Permissions; Condolences & Official Letters - Covering Letters; Applications 
  E-mails 
 08 hrs 
- ## Page 17
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Module 5: Reading Skill 
@@ -712,7 +696,6 @@ Reference Books:
 Publication 
  Business Communication - Monopoly and Monipally 
  Commercial Correspondence - Ghosh and Bhushan 
-  ## Page 18
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Course Code: 21MBAP101 Course Title: Introduction to MS Office 
@@ -746,13 +729,10 @@ Excel, Fourth Annual Edition, Thomson Learning.
  Rajaraman, V., (2009) Introduction to Information Technology, Prentice Hall of India. 
  ITL, ESL, (2005) Introduction to Infotech, 1st edition, Pearson Education. 
  Goyal, Anita, (2010) Computer Fundamentals, 1st Edition, Pearson Education. 
-  ## Page 19
  23 
   Balake Kannada-I 
-  ## Page 20
  24 
   Adalitha Kannada-I 
-  ## Page 21
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Semester II 
@@ -796,7 +776,6 @@ Reference Books:
  ND Vohra, "Business Statistics", TMH Publication, 2017 
  JK Sharma, "Business Statistics", Pearson Publication, 2017, 
  SC Gupta , Fundamentals of statistics, Himalaya Publishing house, 7th edition 
-  ## Page 22
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Course Code: 21MBAC107 Course Title: Business Mathematics 
@@ -845,7 +824,6 @@ References:
  Business Mathematics by Dr. Amarnath Dikshit & Dr. Jinendra Kumar Jain. 
  Business Mathematics by V. K. Kapoor - Sultan chand & sons, Delhi 
  Business Mathematics by Bari - New Literature publishing company, Mumbai 
-  ## Page 23
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Course Code: 21MBAC108 Course Title: Business Economics 
@@ -892,7 +870,6 @@ Perfect Competition, Monopoly, Monopolistic Competition and Oligopoly.
 Module 6 : Basic of Money and Banking 
  Concept of Money-Its Functions, Quantity Theory of Money, Credit Creation; Central 
 07hrs 
- ## Page 24
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Bank (Reserve Bank of India) -Role and Functions; Commercial Banks -Role and 
@@ -924,7 +901,6 @@ Reference Books:
     Environmental Policy - By. James Lester, Duke University Press 
   Environmental Management System ISO 14001 - By Dr. Ashok Joshi, L. Ramkrishnan, Nivedita 
 Sarnaik 
-  ## Page 25
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Course Code: 21MBAP203 Course Title: Web Design 
@@ -957,7 +933,6 @@ Reference Books:
  Learning Web Design: A Beginner's Guide to HTML, CSS, JavaScript, and Web 
 Graphics, Fifth Edition Paperback - 1 January 2018'by Jennifer Robbins 
  Designing with Web Standards Paperback -2009, by Jeffrey Zeldman 
-  ## Page 26
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Course Code: 23MBAC102 Course Title: Professional Communication 
@@ -987,7 +962,6 @@ Basics of Business Presentations
  Making Effective Business Presentations 
  Effective Use of Illustrations 
 10 hrs 
-  ## Page 27
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Course Code: 21MBAP105 Course Title: Self Development 
@@ -1006,7 +980,6 @@ Particulars Hours
  Creative thinking 
  Success and Excellence 
   64 hrs 
-  ## Page 28
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Course Code: 21MBAW101 Course Title: Entrepreneurship Project 
@@ -1027,7 +1000,6 @@ Tasks:
 6. Enterprise growth strategy 
 7. Exit plan 
 90 hrs 
-  ## Page 29
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Curriculum content 2023-24 
@@ -1071,7 +1043,6 @@ Reference Books:
  Prasanna Chandra, Fundamentals of Financial Management, 7th Edn, Tata McGraw Hill. 
  I M Pandey, Essentials of Financial Management, 9th Edn, Vikas Publishing House. 
  M. Y. Khan and P. K. Jain, Financial Management, 5th Edn, Tata McGraw Hill. 
-   ## Page 30
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Course Code: 24MBAC202 Course Title: People Management 
@@ -1118,7 +1089,6 @@ Reference Books:
  Human Resource Management - P.C. Pardeshi 
  Personnel Management- C. B. Mamoria 
  Human Resource Management. Texts and Cases - V.S. P. Rao 
- ## Page 31
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Course Code: 24MBAC204 Course Title: Marketing Management 
@@ -1162,7 +1132,6 @@ Education India, Noida
 International, New Delhi. 
 4. S.A. Sherlekar& R. Krishnamoorthy (2015), Principles of Marketing, Himalaya Publishing House 
 Pvt. Ltd.,- Mumbai 
-  ## Page 32
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Course Code: 24MBAC203 Course Title: Research Design and Methods 
@@ -1207,7 +1176,6 @@ Eswaran, S & Singh, S J (2010), Marketing Research, OXFORD University Press, ISB
 978-0-19- 567696-9. 
 Ghauri, Pervez &Gronhaug, Kjell (2010), Research Methods in Business Studies , Pearson, 
 ISBN: 978-0273712046 
-  ## Page 33
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Course Code: 24MBAC201 Course Title: Corporate Communication 
@@ -1245,7 +1213,6 @@ Eswaran, S & Singh, S J (2010), Marketing Research, OXFORD University Press, ISB
 567696-9. 
 Ghauri, Pervez &Gronhaug, Kjell (2010), Research Methods in Business Studies, Pearson, ISBN: 978-
 0273712046 
-   ## Page 34
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Course Code: 21MBAP201 Course Title: Tally and Advanced Excel 
@@ -1265,7 +1232,6 @@ appearance performing calculations on dat a focusing on specific data by using
 specific filters recording and summarizing data. Data tools, excel tables, pivot tables 
 and solver 
 60 hrs 
-  ## Page 35
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Course Code: 24MBAP201 Course Title: Introduction to Rural Management 
@@ -1297,7 +1263,6 @@ o PURA (Providing Urban amenities to Rural Areas) as a business model
 3. Puri.V.K. and Misra.S.K (2014). Indian Economy. Himalaya Publishing House. 
 4. Singh, S. (1987).Scheduled Castes and India- Dimensions of Social Change. Jain 
 Publication House: Delhi 
-  ## Page 36
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Course Code: 24MBAP202 Course Title: Analytical Ability Enhancement 
@@ -1308,7 +1273,6 @@ Course Content Hours
    Analytical Puzzles 
  Numerical Aptitude 
 30hrs 
-  ## Page 37
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Semester - IV 
@@ -1355,7 +1319,6 @@ Buffa, E.S. and Sarin, R., Modern Productions / Operations Management, 8th Editi
 Chary, S.N., Production and Operations Management, 5th Edition, Tata McGraw-Hill, 2012. 
 Lee Krajewski, Larry P Ritzman.,Manoj K Malhotra & Samir K Srivastava, Operations Management, 9th 
 Edition, Pearson, 2011. 
- ## Page 38
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Course Code: 21MBAC206 Course Title: Organizational Behavior 
@@ -1400,7 +1363,6 @@ Suggested Books:
  Prentice Hall of India Pvt Ltd, New Delhi 
  Organizational Behaviour: By: Fred Luthans, Mc Graw Hill Irwin, New-Delhi 
  Organizational Behaviour: By: K. Ashwatappa Himalaya Publishing House, Banglore 
-  ## Page 39
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Course Code: 21MBAC207 Course Title: Business Taxation 
@@ -1440,7 +1402,6 @@ References:
  II Year- B.com - Taxation-English Medium-Osmania University by Vikram editorial 
  Taxation B. by Gaur V.P., Yadagiri M., Padmalatha N., Krishna Rao 
  Business Taxation B.Com, BBM, BCA & M.Com by Radhakrishnan P 
-  ## Page 40
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Course Code: 21MBAC208 Course Title: Project Management 
@@ -1477,7 +1438,6 @@ References
  Gido I Clements, Project Management Cengage Learning. 
  The Managerial Process ,Project Management - by Clifford Gray and Erik Larson Tata 
 McGraw Hill, 3rd Edition. 
- ## Page 41
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Code: 21MBAC209 Course Title: Indian Constitution 
@@ -1521,7 +1481,6 @@ constitutional Law, New Delhi, National Book Trust, 2000.
 2001. 
  D.C.Gupta, Indian Government and Politics, VIII Edition, New Delhi, Vikas, 1994. 
  J.C.Johari, Indian Government and Politics, Delhi, SterlingPublishers, 2004 
- ## Page 42
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Course Code: 24MBAC205 Course Title: Digital Marketing 
@@ -1553,7 +1512,6 @@ Reference Books:
 EllisChadwick 
  Understanding Digital Marketing: Marketing Strategies for Engaging the Digital 
 Generation - Damian Ryan and Calvin Jones 
-  ## Page 43
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Course Code: 21MBAI201 Course Title: Industry Internship 
@@ -1575,7 +1533,6 @@ tasks:
  SWOT Analysis of the organization(strength, Weakness, opportunity and 
 threats) 
 90Hrs 
-  ## Page 44
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Course Code:24MBAP203 Course Title: Industry Readiness & Leadership Skills 
@@ -1589,7 +1546,6 @@ Particulars Hours
  Written Communication 
  Team Building & Leadership 
 30 Hours 
-  ## Page 45
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Curriculum Course Wise 
@@ -1625,7 +1581,6 @@ References books:
  James R. Evans& William M.Lidsay, ―"The Management and Control of Quality", 9th Edition South -
 Western (Thomson Learning). 
  Feigenbaum, A.V. ―Total Quality Management; 4 edition (August 1, ‖, McGraw-Hill Professional. 
-  ## Page 46
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Program: BBA 
@@ -1656,7 +1611,6 @@ Reference books:
 2018 
  Kapoor G. K. & Dhamija Sanjay, Company Law and Practice -A comprehensive text book on Companies Act 
 2013, Taxmann.September - 2022 
-  ## Page 47
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Program: BBA 
@@ -1686,7 +1640,6 @@ Reference Books:
  Rohtagi P K, Rohtagi K and Bowonder B: Technological Forecasting, Tata McGraw Hill, New 
 Delhi. 
  Betz Fredrick: Managing Technology, Prentice Hall, New Jersey. 
-  ## Page 48
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Program: BBA 
@@ -1724,7 +1677,6 @@ Reference books:
  Supply Chain Management,, Cengage Learning India Pvt Ltd, 2009 
  Narayana Rangaraj, G raghuram, Mandyam M Srinivasan, Supply Chain Management 
  for Competitive Advantage Concepts and Cases, 2, Tata Mcgraw Hill, 2011 
-  ## Page 49
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Program: BBA 
@@ -1747,7 +1699,6 @@ Self Concepts - Self-Knowledge, Assertiveness and Self-Confidence, Self-Esteem.
 Reference books: 
  Ethics, Integrity and Aptitude (4th Edition) -M Kartikeyan THM Publication 2021. 
  Introduction To Ethics (First Edition) by William Lillie, Allied Publisher 
-  ## Page 50
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Semester VI 
@@ -1784,7 +1735,6 @@ Gersick, K.E., Davis, J.A., Hampton,
 Harvard Business School Press. 
  1.Bork, Jaffe, Lane, Dashew, Heisler (1996). Working with family bu sinesses: A guide for 
 professionals. Jossey Bass Publishers. 
-  ## Page 51
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Program: BBA 
@@ -1824,7 +1774,6 @@ Reference Books:
  Richard M. Schaffer (et al): International Business Law and its environment, Thomson 2002. 
  Adhikary, Manab, GLOBAL BUSINESS MANAGEMENT, Macmillan, New Delhi. 
  Aswathappa, International business, Tata Mc Graw Hill publications, New Delhi. 
-  ## Page 52
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Program: BBA 
@@ -1863,7 +1812,6 @@ Publication; 1st Edition, 2012
 2 edition, 2015 
  James O'Brien and George Marakas, Manage ment Information Systems, McGraw Hill EducationIndia 
 Private Limited; 10 edition, 2011 
-  ## Page 53
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Program: BBA 
@@ -1891,7 +1839,6 @@ Sagar Singh - Har-an and Publications Pvt. Ltd. - 2012
  Event Management by Swarup K. Goyal - Adhyayan Publisher - 2009 
  Event Management & Public Relations by Savita Mohan - Enkay Publishing House 201 
  Event Management by Lynn Van Der Wagen Pearson Publication 
-  ## Page 54
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Program: BBA 
@@ -1909,7 +1856,6 @@ Teaching Hours: NA Examination Duration: 3hrs
 ● Conclusion 
 ● Limitation of the project 
 ● Recommendations 
-  ## Page 55
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Electives 
@@ -1944,7 +1890,6 @@ Reference Books:
  Friga, Paul N.(2009), The McKinsey Engagement, Tata McGraw-Hill, India 
  Dessler, G. (1997), Human Resource Management, Prentice Hall, India 
  AmritTiwana, The essential Guide to Knowledge Management, Person Education 
-  ## Page 56
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Program: BBA 
@@ -1978,7 +1923,6 @@ Reference Books:
 Kalyani Publishers. 
  Kumar H.L.,(2000). Practical Guide to Labour Management . New Delhi : Universal Law 
 Publishing. 
-  ## Page 57
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Program: BBA 
@@ -2018,7 +1962,6 @@ Reference Books:
  D. L. Kirpatrick : Evaluating Training Programmes, Berret-Koehler, San Francisco. 
  Bhirmani and Seth: Evaluating Management Training and Development, Vision. 
  Raymond Noe, Employee Training, McGraw Hill 
-  ## Page 58
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Program: BBA 
@@ -2059,7 +2002,6 @@ Newman, J., & Gerhart, B. (2019). Compensation (13th ed.). McGraw Hill.
 Rao, T. V. (2004). Performance Management and Appraisal Systems: HR tools for global 
 competitiveness. Sage India. 
 Varkkey, B., & Dessler, G. (2018). Human Resource Management (15th ed.). Pearson India. 
-  ## Page 59
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Program: BBA 
@@ -2101,7 +2043,6 @@ Reference Books:
  Salesmanship and Sales Management -P.K Sahu & K C Raut, 3/e, Vikas 
 PublishingHouse.2003 
  Sales Management-Douglas J Dalrymple, William L Crowe-John Wiley & Co. 
-  ## Page 60
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Program: BBA 
@@ -2135,7 +2076,6 @@ Reference Books:
  Advertising and Promotions: AnIMCperspective, KrutiShahandAlan'Souza, Tata 
 McGraw Hill.2009 
  AdvertisingManagement, Aakar, BatraandMyers, Prentice, 2002 
-  ## Page 61
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Program: BBA 
@@ -2175,7 +2115,6 @@ Suja R Nair, Consumer Behavior in Indian Perspective, Himalaya Publishing House 
 John A Howard, Consumer Behavior in Marketing Strategy, Prentice Hall New Delhi 
 Suja R Nair - Consumer Behavior cases & Texts. 
 Sarkar A Problems of Consumer Behavior in India, Discovery Publishing House NewDelhi 
-  ## Page 62
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Program: BBA 
@@ -2213,7 +2152,6 @@ Reference Books
 19, 2019) 
  Global Marketing: Foreign Entry, Local Marketing, and Global Management 5th Edition by Johny 
 Johansson (Author) 
-  ## Page 63
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Program: BBA 
@@ -2247,7 +2185,6 @@ References Books:
 ● Alexander, Sharpe, Bailley, Fundamentals of Investment, Pearson. 
 ● Chandra Prasanna, Investment Analysis and Portfolio Management, 3rd Edition, TMH 
 ● PunithavatiPandyan, Security Analysis and Portfolio Management, Latest edition, Vikas 
-  ## Page 64
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Program: BBA 
@@ -2276,7 +2213,6 @@ Reference Books :
  Rajiv Srivastava, Derivatives and Risk Management, Oxford University Press. 
  Dhanesh Khatri, Derivatives and Risk Management, Macmillan Publishing. 
  Sundaram Das Derivatives Principles and Practice TMH 
-  ## Page 65
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Program: BBA 
@@ -2320,7 +2256,6 @@ References
 10thedn, Pearson Education 
  Sharan, International Financial Management, Prentice Hall.Shapiro, International Financial 
 Management 
-  ## Page 66
  School of Management Studies and Research 
 Format No: FMCD2009 /1.0 
   Program: BBA 
@@ -2359,5 +2294,4 @@ M. Y. Khan and P. K. Jain, Financial Management, 5th Edn, Tata McGraw Hill.
 Vanhorne, Financial Management &amp; Policy, 12/e, Pearson 
 Ashwath Damodaran ,Corporate Finance: Theory&amp; Practice, 2/e, Wiley India Pvt. 
 Ltd., 2009. 
-Ravi M. Kishore, Financial Management, 7/e, Taxmann's 
-  
+Ravi M. Kishore, Financial Management, 7/e, Taxmann's

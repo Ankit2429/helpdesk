@@ -50,4 +50,3 @@ last_modified: "2026-07-28"
      and Processing
  ## 3D Data Acquisition
      and Processing
- 

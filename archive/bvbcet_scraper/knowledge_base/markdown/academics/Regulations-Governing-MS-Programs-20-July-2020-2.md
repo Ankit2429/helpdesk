@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: Regulations-Governing-MS-Programs-20-July-2020-2"
+title: "Regulations Governing Ms Programs 20 July 2020 2"
 category: "academics"
 subcategory: ""
 document_type: "minutes"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["committee", "document", "governing", "july", "programs", "regulations", "research", "scholars", "shall", "thesis"]
 aliases: ["KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "9"
 ---
-# PDF Document: Regulations-Governing-MS-Programs-20-July-2020-2
- **PDF Source:** https://www.kletech.ac.in/pdf/Regulations-Governing-MS-Programs-20-July-2020-2.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/Regulations-Governing-MS-Programs-20-July-2020-2.pdf
  Regulations Governing 
   Master of Science (MS) (Engg) by Research Programs 
   of 
@@ -22,7 +22,6 @@ KLE Technological University
 2015 
   KLE Technological University 
   (Established under Karnataka Act No.22, 2013) 
-  ## Page 2
  1 MS 
 pro
 gra
@@ -83,7 +82,6 @@ to SRC.
   i a. Scope/Functions/Responsibilities of the School Review Committee 
 shall be: 
 1. To select candidates for PhD/MS(Engg) by Research Programme 
- ## Page 3
  after interviews. 
 2. To Form of RRC and recommend the Coursework for the research 
 scholars. 
@@ -133,7 +131,6 @@ to RPC.
 shall be: 
 1. To review the thesis. 
 2. The VVC shall conduct the final Viva-Voce for the research 
- ## Page 4
  scholar to defend his/her MS by Research Thesis. 
 3. The VVC shall submit the reports in the prescribed format to the 
 RPC. 
@@ -188,7 +185,6 @@ along with other necessary documents.
   1. 2.7 Selection of candidates: List of the eligible candidates, who are 
 selected to MS (Engg) by Research program as decided by Admission 
 Committee, shall be called for registration. 
-  ## Page 5
    1. 2.8 Categories of Research Scholars: 
 There shall be provision for the following categories of research scholars 
 for admission to MS by Research. 
@@ -247,7 +243,6 @@ required to do the following:
 1) Part-I: Coursework - Research scholars need to successfully 
 complete the course work recommended by supervisors as 
 specified in 1.3.2(i). 
- ## Page 6
  2) Part-II: Thesis submission- Research scholars need to submit 
 final thesis for the award of MS by Research degree. 
 (b) A research scholar shall be free to apply for a change in the 
@@ -301,7 +296,6 @@ scholar shall be THREE years from the date of provisional registration
 with provision for a one-year extension with the recommendations of 
 RPC. 
 (b) For Part-time research scholars: 
- ## Page 7
  The maximum period for Submission of the Thesis for Part-Time 
 research scholar shall be FOUR years from the date of provisional 
 registration with provision for a one-year extension with the 
@@ -354,7 +348,6 @@ for the award of MS by Research Degree, OR
 2. That the thesis needs minor clarifications indicated in the report 
 which need to be clarified by the candidate at final Viva-Voce and it 
 is recommended for the award of MS by Research Degree, OR 
- ## Page 8
  3. That the thesis needs major revision and recommend for 
 resubmission, OR 
 4. That the thesis is rejected. 
@@ -409,7 +402,6 @@ of Supervisor from guiding any research scholars:
 i) Influencing the external examiner to write a favorable report on 
 the thesis. 
 ii) Making effort to intervene in external examiners evaluation work. 
- ## Page 9
  iii) Writing thesis valuation reports on behalf of external examiners 
 and making arrangements to send such reports from External 
 Examiners. 
@@ -445,4 +437,4 @@ admitted research scholars during an academic year.
 (d) Under special circumstances, the admission committee may 
 recommend for assigning up to FOUR research scholars to a 
 supervisor with proper justification. This extraordinary case shall be 
-exercised carefully by the RPC with approval by the Vice-Chancellor. 
+exercised carefully by the RPC with approval by the Vice-Chancellor.

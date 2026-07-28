@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 7th-Sem-BE-9th-Sem-BArch-2024-25"
+title: "Sem Be 9th Sem Barch 2024 25"
 category: "miscellaneous"
 subcategory: ""
 document_type: "minutes"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["attendance", "barch", "date", "document", "last", "make", "minor", "sem"]
 aliases: []
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "1"
 ---
-# PDF Document: 7th-Sem-BE-9th-Sem-BArch-2024-25
- **PDF Source:** https://www.kletech.ac.in/pdf/7th-Sem-BE-9th-Sem-BArch-2024-25.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/7th-Sem-BE-9th-Sem-BArch-2024-25.pdf
                                                                                                                                                                                                                                         1q2 
 ANAM 0201/1.0 
 CALENDAR OF EVENTS 
@@ -80,5 +80,4 @@ Minor 2 Marks Display : 29th Nov
 No of working 
 days 15 17 16 15 14 13 90 
 Holidays 
-  Marks / Attendance display Minor exam Feedback 
-    
+  Marks / Attendance display Minor exam Feedback

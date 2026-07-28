@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 19krf-About-KLE-Technological-UniversityHubballi"
+title: "About KLE Technological Universityhubballi"
 category: "about"
 subcategory: ""
 document_type: "act"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["bosch", "document", "engg", "industry", "kle", "robert", "technological", "university", "universityhubballi"]
 aliases: ["CSE", "CS", "ECE", "EC", "EEE", "EE", "BVB", "BVBCET"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "19"
 ---
-# PDF Document: 19krf-About-KLE-Technological-UniversityHubballi
- **PDF Source:** https://www.kletech.ac.in/uploads/Files/19krf-About-KLE-Technological-UniversityHubballi.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/uploads/Files/19krf-About-KLE-Technological-UniversityHubballi.pdf
  KLE T echnological University, 
 Hubballi
  , Karnataka 
@@ -25,7 +25,6 @@ Hubballi
 )
 About us:
 Website: www.kletech.ac.in
- ## Page 2
  Introduction
  BVBCET, Hubballi started in the year 1947
  Obtained "State Private University" status in 
@@ -37,7 +36,6 @@ runs 250+ Institutions
  Situated in the heart of the Hubballi City- Just 
 3Km from Bus Stand, 5Km from Rail Station and 
 5Km from Airport
- ## Page 3
  Branches Offered
  BE: 8 Branches
 1. Computer Science & Engg
@@ -48,7 +46,6 @@ runs 250+ Institutions
 6. Civil Engg
 7. Biotechnology
 8. Architecture
- ## Page 4
  Programs Offered
  MT ech- 6 programs
 1. MT echin Computer Science & Engg
@@ -61,7 +58,6 @@ Other PG Courses:
 1. MCA 
 2. MBA
 Research Centers (PhD)
- ## Page 5
  Our leading Alumni :
 1. Dr. Sudha Murty, Chairperson, Infosys Foundation 
 2. Prof. Anil Sahasrabuddhe, Chairman, AICTE
@@ -74,7 +70,6 @@ Research Centers (PhD)
 9. Mr Anilkumar M & D R Subramanium, Founders, SLN T echnologies, 
 Bangalore
 10. Mr Nagraj Dixit, Director, T exas Instruments, India
- ## Page 6
  Industry Collaborations:
 Industry Supported Labs:
 . S.No Laboratory Domain Supporting Industry
@@ -86,7 +81,6 @@ Industry Supported Labs:
 Dassault Systems
 5. Precision Manufacturing Aequs
 6. Automation, Hydraulics & Pneumatics Lab Bosch- Rexroth
- ## Page 7
  Industry Collaborations:
 Subjects re-designed with inputs from Industry 
 Experts to meet Industry requirements:
@@ -102,7 +96,6 @@ Networks
 8. CMOS VLSI VLSI Industry Experts
 9. Advanced CAE Altair
 10. Multicore Embedded Systems Robert Bosch
- ## Page 8
  Unique Initiatives:
  Platform for Research at UG level through REU program (Research 
 Experience for Undergraduates program)
@@ -121,7 +114,6 @@ taught by faculty from multiple Engg disciplines.
 Entrepreneurship through Students Exchange program
  Co T eaching- Few modules of some of the subjects taught by Industry 
 Experts.
- ## Page 9
  Unique Initiatives(
 contd
 ):
@@ -130,7 +122,6 @@ All machinery/equipments required for building a prototype of an
 Electromechanical Product are available under a single roof :walk-
 in with an Idea and walk-out with a Prototype
 Dedicated space of almost 20, 000 sqft
- ## Page 10
  Our Recruiters:
  Our Recruiters:
  Google, Amazon, Mercedes Benz R&D, T wilio, Robert Bosch, Microsoft, 
@@ -150,13 +141,11 @@ EASi Engg, Tata Hitachi, Automotive Axles, TaeguT ec, JSW, Quest Global,
 Aequs, Ducom Instruments, T otal Environment, Faurecia , Kirloskar-
 KFIL, Kirloskar-KBL, ADM Agro, Divgi TTS, Shilpa Medicare, Vyuhgenics, 
 Mukand Sumi special steels and many more
- ## Page 11
  Our Recruiters (
 contd
 ):
  Highest Salary Package(CTC) offered: 43 Lakhs 
 by "T wilio"
- ## Page 12
  Softskill
 s
 Training
@@ -174,7 +163,6 @@ T echnicalThinking (TT)
 Corporate Behaviour (CB)
 Written English (WE)
 Spoken English (SE)
- ## Page 13
  Companies in our Campus 
 (Incubation)
  38 Companies, many among them are start ups, 
@@ -184,7 +172,6 @@ students.
  Companies Provide: 
 1) Internship opportunities to students 
 2) Real world problem statements for student projects
- ## Page 14
  University Achievements:
  Good Governance Award by TEQIP (T echnical Education Quality 
 Improvement Program of World Bank & Government of India)
@@ -199,7 +186,6 @@ Award by IESA (Indian Electronics & Semiconductor Association) on 27th
 Feb, 2018 and also very prestigious "Karnataka RajyotsavaAward" on 7th
 November, 2020 for his great contributions to the field of Engg education & 
 entrepreneurship.
- ## Page 15
  University Achievements (
 contd
 ):
@@ -208,17 +194,13 @@ Campus Selections( recruited more than 100 students) for the year 2018-19
 Batch. Award was given during Placement Officers Meet. 
  Karnataka State Government has appointed our Vice Chancellor Dr. Ashok 
 Shettar as Chairman of the taskforce to formulate the State R&D policy.
- ## Page 16
  Certifications
  NBA accredited
  NIRF Ranking 180 in the Engineering 
 section
- ## Page 17
  University Infrastructure:
- ## Page 18
  High Profile Visitors
 :
- ## Page 19
  THANK YOU
 For more info visit: 
  www.kletech.ac.in

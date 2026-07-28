@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: bachelor-biomedical-engineering-curriculum-structure-2021-2025"
+title: "Bachelor of Engineering Curriculum"
 category: "academics"
 subcategory: ""
 document_type: "syllabus"
@@ -11,15 +11,14 @@ language: "en"
 keywords: ["bachelor", "biomedical", "chapter", "course", "curriculum", "document", "engineering", "hours", "marks", "structure"]
 aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "137"
 ---
-# PDF Document: bachelor-biomedical-engineering-curriculum-structure-2021-2025
- **PDF Source:** https://www.kletech.ac.in/pdf/bachelor-biomedical-engineering-curriculum-structure-2021-2025.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/bachelor-biomedical-engineering-curriculum-structure-2021-2025.pdf
  FMCD2009/2.0 1 
   Curriculum Structure and Curriculum Content for the Academic Batch - 2021-25 
 School / Department : Biomedical Engineering 
 Program: Bachelor of Engineering 
- ## Page 2
  FMCD2009/2.0 2 
   Table of Contents 
 Vision and Mission of KLE Technological University .................................................................................. 3 
@@ -37,7 +36,6 @@ Semester-VIII ..................................................................
 List of Open Electives ................................................................................................................................... 19 
 List of Program Electives ............................................................................................................................. 19 
 Curriculum Content- Course wise ............................................................................................................... 21 
- ## Page 3
  FMCD2009/2.0 3 
   Vision and Mission of KLE Technological University 
   Vision 
@@ -57,7 +55,6 @@ priority.
 expertise, experience and leadership, to enhance competitiveness and quality of life. 
 As a unified community of faculty, staff and students, we work together with the spirit of collaboration 
 and partnership to accomplish our mission. 
- ## Page 4
  FMCD2009/2.0 4 
   Vision and Mission Statements of the School / Department 
 Vision 
@@ -71,7 +68,6 @@ R & D activities.
 4. To work with hospitals and healthcare industries to enhance practical knowledge. 
 5. To develop competencies for employability and entrepreneurship in core and 
 Interdisciplinary areas. 
-  ## Page 5
  FMCD2009/2.0 5 
   Program Educational Objectives/Program Outcomes and Program-Specific 
 Objectives 
@@ -112,7 +108,6 @@ Of the engineering practice.
 PO9: Individual and teamwork: 
 Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary 
 settings. 
- ## Page 6
  FMCD2009/2.0 6 
   PO 10: Communication: 
 Communicate effectively on complex engineering activities with the engineering community and with 
@@ -131,7 +126,6 @@ hospital management.
 PSO2: Attain employability in Biomedical engineering and associated fields. 
 PSO3: Exhibit professional communication and team building skills through seminars, projects, 
 workshops, hospital survey and internships. 
- ## Page 7
  FMCD2009/2.0 7 
   Curriculum Structure-Overall 
 Course 
@@ -274,7 +268,6 @@ MLDL
 Medical Image 
 Processing Lab 
 (0-0-1) 
- ## Page 8
  FMCD2009/2.0 8 
   Engineering Physics 
 Lab 
@@ -351,7 +344,6 @@ Equations
 (Dip) 
 (4-0-0) 
      Credits 21 23 25.5 24.5 23.5 20.5 24 17 
- ## Page 9
  FMCD2009/2.0 11 
   Curriculum Structure-Semester wise 
   Semester-1 
@@ -372,7 +364,6 @@ Engineering ES 3-0-0 3 3 50 50 100 3hrs
 6 15EHSP101 Social Innovation HSS 0-1-1 2 3 50 50 100 1.5hrs 
 7 16EPHP101 Engineering Physics Lab BS 0-0-1 1 2 80 20 100 3hrs 
 Total 14-2- 5 21 27 410 290 700 
- ## Page 10
  Semester-2 
 FMCD2009/2.0 12 
   N 
@@ -394,7 +385,6 @@ Engineering ES 2-1-0 3 4 50 50 100 3hrs
 7 15EHSH101 Professional 
 Communication HSS 1-1-0 2 3 50 50 100 1.5hrs 
 Total 15-2-6 23 32 410 290 700 
- ## Page 11
  Semester-3 
 FMCD2009/2.0 13 
   No Code Course Catego
@@ -433,7 +423,6 @@ Communication -- 0.5-0-0 0.5 1 100 -- 100 3hours
 12 15EMAB232 Calculate & Integral 
 Transforms BS 4-0-0 4 4 50 50 100 3hours 
 TOTAL 22-0-3 25.5 28 490 310 800 
- ## Page 12
  Semester-4 
 FMCD2009/2.0 14 
   N o Code Course Category L-T-P Credits Contact 
@@ -465,7 +454,6 @@ Equation BS 4-0-0 4 4 50 50 100 3 hours
 11. 22EHSH202 Pro Problem solving and 
 Analysis … 0.5-0-0 0.5 4 100 … 100 3 hours 
  Total 18-0-6 24.5 29 720 380 1100 
- ## Page 13
  Semester-5 
 FMCD2009/2.0 15 
   No Code Course Catego
@@ -494,7 +482,6 @@ PC 0-0-1 1 2 80 20 100 2 hours
 Analytical Reasoning 
  0. 5-0-0 0.5 1 100 … 100 3 hours 
 TOTAL 15.5-0-6 21.5 28 510 290 800 
-  ## Page 14
  FMCD2009/2.0 16 
   Semester-VI 
   No 
@@ -519,7 +506,6 @@ Skills ES 0.5-0-0 Audit 1 100 -- 100 3 hours
 9. 22EBMW302 Minor Project I PW 1-0-4 5 9 50 50 100 2 hours 
 10. 22EBMW303 Minor Project - II PW 0-0-5 5 10 50 50 100 2 hours 
 TOTAL 15.5-0-12 24 40 640 360 1000 
- ## Page 15
  FMCD2009/2.0 17 
   Semester-VII 
   No Code Course Category L-T-P Credits Contact 
@@ -534,7 +520,6 @@ Systems PSC 4-0-0 4 4 50 50 100 3hours
 Project PW 0-0-6 6 12 50 50 100 3hours 
   6 15EHSC402 CIPE M 2-0-0 2 2 50 50 100 3hours 
 TOTAL 15-0-6 21 27 350 350 700 
- ## Page 16
  Semester-VIII 
 FMCD2009/2.0 18 
   No Code Course Category L-T-P Internship Credits Contact 
@@ -549,8 +534,6 @@ Work PRJ 0-0-11 11 22 50 50 100 3hours
     6-0-11 17 28 150 150 300 
   Semester I II III IV V VI VII VIII Total 
 Credits 21 23 25.5 24.5 21.5 24 21 17 177.5 
- ## Page 17
- FMCD2009/ 2.0 
 19 
   List of Open Electives 
   Sr. 
@@ -578,8 +561,6 @@ Name of the Course Course Code
 14. Computer Communication in Health Care Networking 22EBME462 
 15. Medical Informatics and Expert systems 22EBME463 
 16. Biomechanics 22EBME464 
- ## Page 18
- FMCD2009/ 2.0 
 21 
   Curriculum Content - Course wise 
 Program: Biomedical Engineering Semester: I 
@@ -616,8 +597,6 @@ Modified Euler's method and Runge - Kutta method
 (b) Applications of first order differential equations-Orthogonal trajectories growth and decay problems, 
 mixture problems, Electrical circuits, falling bodies. 
 MATLAB: Solve differential equations 
- ## Page 19
- FMCD2009/ 2.0 
 22 
   Text Books: 
 1. Early Transcendental Calculus-James Stewart, Thoms on Books, 7ed2010. 
@@ -625,8 +604,6 @@ Reference Books:
 1. 1. CalculusSingleandMultivariable, Hughues-HallettGleason, WileyIndiaEd, 4ed, 2009. 
 2. ThomasCalculus, GeorgeBThomas, PearsonIndia, 12ed, 2010 
   Back to Semester I 
- ## Page 20
- FMCD2009/ 2.0 
 23 
   Program: Biomedical Engineering Semester: I 
 Course Title: Engineering Physics Course Code: 15EPHB101 
@@ -661,8 +638,6 @@ Review on vectors: Coordinate Systems, Vector and Scalar Quantities, Properties 
 Vector and Unit Vectors 
 (Text2PageNo59-77) Electric 
 Fields: 
- ## Page 21
- FMCD2009/ 2.0 
 24 
   Properties of Electric Charges, Charging Objects by Induction, Coulomb's Law, Analysis Model: Particle 
 in a Field (Electric), Electric Field of a Continuous Charge Distribution, Electric Field Lines Motion of a 
@@ -701,8 +676,6 @@ Reference Books:
 Norosa Publishing House (1998). 
 3. BenGStreetman, SolidStateElectronicDevices, PrenticeHall, 1995 
   Back to Semester I 
- ## Page 22
- FMCD2009/ 2.0 
 25 
   Program: Biomedical Engineering Semester: I 
 Course Title: Engineering Mechanics Course Code: 15ECVF101 
@@ -742,8 +715,6 @@ Introduction, Properties of Materials, Stress, Strain, Elasticity, Elastic limit
 Stress - Strain Diagram for structural steel, working stress and Factor of safety. Deformation of a bar due to 
 force acting on it. Law of superposition. Stresses in bars of 
 Uniform & varying cross sections. Composite sections. Problems connected to above topics. 
- ## Page 23
- FMCD2009/ 2.0 
 26 
   Unit III 
 Chapter 7: Centroid of Plane Figures (05hours) 
@@ -773,8 +744,6 @@ Company, New Delhi, 1956.
 5. Irving H Shames, Engineering Mechanics, 3rd edition, Prentice - Hall of India Pvt. Ltd, 
 New Delhi - 110001, 1995. 
   Back to Semester I 
-  ## Page 24
- FMCD2009/ 2.0 
 27 
   Program: Biomedical Engineering Semester: I 
   Course Title: C Programming for Problem solving Course Code: 18ECSP101 
@@ -812,8 +781,6 @@ Reference Books:
 5. B. A. Forouzan, R.F. Gilberg, A Structured Program Approach Using C, 3ed, CENGAGE 
 Learning, 2008. 
 Back to Semester I 
- ## Page 25
- FMCD2009/ 2.0 
 28 
   Program: Biomedical Engineering Semester: I 
 Course Title: Basic Electrical Engineering Course Code: 18EEEF101 
@@ -852,8 +819,6 @@ Tag out, Electrical Codes and Standards.
 Batteries (05hours) 
 Basics of lead acid batteries, Lithium Ion Battery, Battery storage capacity, Coulomb efficiency, Numerical of 
 high and low charging rates, Battery sizing. Numerical. 
- ## Page 26
- FMCD2009/ 2.0 
 29 
   Text Books 
 1. Hughes, Electrical & Electronic Technology, 8th, Pearson Education, 2001 
@@ -868,8 +833,6 @@ Reference Books:
 Systems, 3rd, Tata Mc Graw Hill Education Private Limited, New Delhi., 2005 
 3. Vincent Del Toro, Electrical Engineering Fundamentals, 2nd edition Prentice Hall India 
   Back to Semester I 
- ## Page 27
- FMCD2009/ 2.0 
 30 
   Program: Biomedical Engineering Semester: I 
 Course Title: Design Thinking for Social Innovation Course Code: 15EHSP101 
@@ -950,8 +913,6 @@ group
 Cohesiveness 
 amongst the 
 group mates) 
-  ## Page 28
- FMCD2009/ 2.0 
 31 
   Create Mindsets 
   Seven Mindsets: 
@@ -1014,8 +975,6 @@ Observation
 on skills To 
 know 
 How to 
-  ## Page 29
- FMCD2009/ 2.0 
 32 
      Community study 
 and Issue 
@@ -1078,8 +1037,6 @@ case study
 Reading assignments  Familiariz 
 ation of 
 the 
-  ## Page 30
- FMCD2009/ 2.0 
 33 
       Plan for the 
 Research 
@@ -1133,8 +1090,6 @@ Ideation-Synthesis
 ation of 
 the 
 respective 
-  ## Page 31
- FMCD2009/ 2.0 
 34 
       Create 
 might 
@@ -1194,8 +1149,6 @@ ation of
 the 
 respective 
   4. 0 Implementation 
- ## Page 32
- FMCD2009/ 2.0 
 35 
       Create an action 
 plan 
@@ -1241,8 +1194,6 @@ with the
 help of 
 sample 
 case study 
-  ## Page 33
- FMCD2009/ 2.0 
 36 
      5. 0 Reflect 
 Reflection of the 
@@ -1268,8 +1219,6 @@ help of
 sample 
 case study 
   Back to Semester I 
- ## Page 34
- FMCD2009/ 2.0 
 37 
   Program: Biomedical Engineering Semester: I 
 Course Title: Engineering Physics lab Course Code: 16EPHP101 
@@ -1288,8 +1237,6 @@ List of Experiments
 9. Calibrationofthermocouple 
 10. Calibrationofelectricalmeters 
   Back to Semester I 
- ## Page 35
- FMCD2009/ 2.0 
 38 
   Program: Biomedical Engineering Semester: II 
 Course Title: Multi variable calculus Course Code: 18EMAB102 
@@ -1327,8 +1274,6 @@ Reference Books:
 1. Calculus Single and Multivariable, Hughues - Hallett Gleason, Wiley India Ed, 4ed, 2009. 
 2. ThomasCalculus, GeorgeBThomas, PearsonIndia, 12ed, 2010 
   Back to Semester II 
- ## Page 36
- FMCD2009/ 2.0 
 39 
   Program: Biomedical Engineering Semester: II 
 Course Title: Engineering Chemistry Course Code: 15ECHB102 
@@ -1369,7 +1314,6 @@ thermal oxidation, diffusion, ion implantation - numerical problems, epitaxial g
 photolithography, wet etching, dry etching. 
 6. Material Chemistry (03hours) 
 Liquid Crystals - Types of liquid crystals, applications of Liquid Crystal in Display system. 
- ## Page 37
  10 
   Fluorescence and Phosphorescence - Jablonski diagram, Thermoelectric and Piezoelectric 
 Materials-meaning, properties and applications. 
@@ -1403,7 +1347,6 @@ Himalaya Publishing House Pvt. Ltd, 2010, Mumbai.
 7. VLSI Technology, 2nd Edition, S.M. Sze, Mc Graw Hill Series in electrical and computer 
 Engineering, 1998, New York. 
   Back to Semester II 
-  ## Page 38
  11 
 Program: Biomedical Engineering Semester: II 
 Course Title: Problem Solving with Data Structures Course Code: 18ECSP102 
@@ -1436,7 +1379,6 @@ Reference Books:
 3. B.A. Forouzan, R.F. Gilberg, A Structured Program Approach Using C, 3ed, CENGAGE 
 Learning, 2008. 
   Back to Semester II 
-   ## Page 39
  12 
   Program: Biomedical Engineering Semester: II 
 Course Title: Engineering Exploration Course Code: 15ECRP101 
@@ -1459,7 +1401,6 @@ Reference Books:
 Steven, Mc Graw Hill Higher Education, 6th Edition ( 2011) 
 2. Engineering Exploration (Edited Book, 2008) by Pearson Publication 
   Back to Semester II 
-  ## Page 40
  13 
 Program: Biomedical Engineering Semester: II 
 Course Title: Basic Electronics Course Code: 18EECF101 
@@ -1492,7 +1433,6 @@ Variables, Design of Half Adder and Full Adder, Parallel Adder using full adders
 Chapter4: OperationalAmplifier:(06hours) 
 OPAMP characteristics (ideal and practical), Linear and non-linear applications: Inverting amplifier, Non 
 inverting amplifier, Voltage follower, Integration, Differentiation, Adder, Subtractor, ZCD and Comparator. 
- ## Page 41
  14 
   Unit III 
 Chapter 5: Communication Systems: (07hours) 
@@ -1515,7 +1455,6 @@ References:
 4. Boylestead Nashelsky, Electronic devices & Circuit theory, Prentice Hall India, 2000 
 5. Ramakant Gaikawad, Operational Amplifiers & applications, PHI, 2000 
   Back to Semester II 
- ## Page 42
  15 
   Course Title: Basic Mechanical Engineering Course Code: 15EECF101 
 L-T-P: 2-1-0 Credits:3 Contact Hours: 4hrs/week 
@@ -1557,7 +1496,6 @@ principle and specifications.
 Case study on selection of various thermal systems 
 Video presentations 
 Text Books 
- ## Page 43
  16 
   1. Jonathan Wickert and Kemper Lewis, an Introduction to Mechanical Engineering, Third Edition, 
 2013 - Cengage Learning. 4 
@@ -1569,7 +1507,6 @@ Reference Books:
 & II , 11th edition 2001, Media Promoters and Publishers. 
 3. Basic Manufacturing, Roger Timings, Third edition, Newnes, An imprint to fElsevier 
   Back to Semester II 
- ## Page 44
  17 
   Program: Biomedical Engineering Semester: II 
 Course Title: Professional Communication Course Code: 15EHSH101 
@@ -1596,7 +1533,6 @@ Reference Books:
 2. Raymond Murphy - Intermediate English Grammar, Cambridge University Press 
 3. MartinHewings - Advanced English Grammar, Cambridge University Press. 
   Back to Semester II 
- ## Page 45
  18 
   Course Content (3rd Sem) 
   Course Code: 15EMAB203 Course Title: Integral transforms and Statistics 
@@ -1644,7 +1580,6 @@ function, autocorrelation function, cross correlation, Power spectral Density: p
 spectral density; Gaussian Process: Properties of Gaussian process. 
 10hrs. 
 Text Books 
- ## Page 46
  19 
 1. Kreyszig E., Advanced Engineering Mathematics, 8ed, John Wiley & sons, 2003. 
 2. Gupta S C and Kapoor V K, Fundamentals of Mathematical Statistics, 9ed, Sultan Chand & Sons, 
@@ -1657,7 +1592,6 @@ Reference Books:
 Applications for Engineering and the Computing Sciences, 4th Ed, TATA McGraw-Hill Edition 
 2007 
 3. Ian Glover & Peter Grant, Digital Communications, 2nd Ed, Pearson 2012. 
-  ## Page 47
  20 
 Course Content 
 Course Code: 22EBMC201 Course Title: Circuit Analysis 
@@ -1707,7 +1641,6 @@ Frequency response curve, Series and Parallel Resonance, Quality factor, Selecti
 Bandwidth [Text 2: Chapter 7, 8] [ Text 1: Chapter 4, 5, 7] 
 6hrs 
   6 hrs. 
-  ## Page 48
  21 
   Text Books (List of books as mentioned in the approved syllabus): 
 4. Hayt, Kemmerly, and Durbin, Engineering Circuit Analysis, 8th Edition, McGraw Hill 2012 (Indian 
@@ -1718,7 +1651,6 @@ Edition).
 7. Robbins and Miller, Circuit Analysis- Theory and Practice, 5th Edition, Cengage Learning, 2012 
 8. Charles Alexander, Matthew Sadiku, Fundamentals of Electric Circuits, 7th Edition, McGraw-Hill 
 Education; 7th Edition, 2020 
-  ## Page 49
  22 
 Course Content 
 Content Hrs 
@@ -1780,7 +1712,6 @@ Course Code: 22EBMC202 Course Title: Analog Electronic Circuits
 L-T-P-Self Study: 4-0-0-0 Credits: 4 Contact Hrs.: 50 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
 Teaching Hrs.: 50 Exam Duration: 3 hrs. 
- ## Page 50
  23 
 Text Books (List of books as mentioned in the approved syllabus) 
 1. A.S. Sedra& K.C. Smith, Microelectronic Circuits, 5th Edition, , Oxford Univ. Press, 
@@ -1794,7 +1725,6 @@ Text Books (List of books as mentioned in the approved syllabus)
 3. Richard R. Spencer & Mohammed S. Ghousi, Introduction to Electronic Circuit Design, Pearson Education, 
 2003 
 4. J. Millman& A. Grabel , Microelectronics , 2nd edition, McGraw Hill, 1987 
-  ## Page 51
  24 
 Course Content 
 Course Code: 19EBMC201 Course Title: Digital Circuits 
@@ -1839,7 +1769,6 @@ Chapter No. 7. Introduction to memories
 Introduction and role of memory in a computer system, memory types and terminology, Read Only 
 memory, MROM, PROM, EPROM, EEPROM, Random access memory, SRAM, DRAM, NVRAM. 
 4hrs 
-   ## Page 52
  25 
   Text Books (List of books as mentioned in the approved syllabus) 
 1. Donald D Givone, Digital Principles and Design, Tata McGraw Hill Edition, 2002 
@@ -1850,7 +1779,6 @@ memory, MROM, PROM, EPROM, EEPROM, Random access memory, SRAM, DRAM, NVRAM.
 2. ZviKohavi, Switching and Finite Automata Theory, 2nd, TMH 
 3. R.D. Sudhaker Samuel, Logic Design, Sanguine Technical Publishers, 2005 
 4. R P Jain, Modern Digital Electronics, 2nd, Tata McGraw Hill , 2000 
-  ## Page 53
  26 
 Course Content 
 Course Code: 22EBMC203 Course Title: Electronic Instrumentation and 
@@ -1905,7 +1833,6 @@ assemblies, display systems
 Recorders: Recording requirements, analog recorders- Graphic recorders, strip chart recorders & 
 its types, X-Y recorder, Magnetic & Digital tape recorders 
 10 hrs. 
- ## Page 54
  27 
 Text Books (List of books as mentioned in the approved syllabus) 
 1. Electronic Instrumentation, H. S. Kalsi, TMH, 2004 
@@ -1918,7 +1845,6 @@ Edition (Reprint 2004), Dhanpat Rai & Co. Pvt. Ltd., 2004
 2000 
 2. Modern Electronic Instrumentation and Measuring Techniques", Cooper D & A D 
 Helfrick, PHI, 1998. 
-  ## Page 55
  28 
 Experiment wise Plan 
 List of experiments/jobs planned to meet the requirements of the course. 
@@ -1998,7 +1924,6 @@ magnitude comparator
 using 4- bit comparators 
   1. 00 
   6. 00 
-  ## Page 56
  29 
  Learning Outcomes: 
  The students should be able to: 
@@ -2064,7 +1989,6 @@ given functionality using
 decoders and multiplexers 
   2. 00 
   15. 00 
-  ## Page 57
  30 
  Learning Outcomes: 
 The students should be able to: 
@@ -2087,7 +2011,6 @@ The students should be able to: Combinational logic 2.
 1. Select the best design technique. Introduction to Sequential 
 2. Simulate the circuit using an IDE tool. Circuits 3. Analysis of 
  Sequential Circuits 
-  ## Page 58
  31 
 Experiment wise Plan 
 List of experiments/jobs planned to meet the requirements of the course. 
@@ -2145,7 +2068,6 @@ circuits
   3 Study of BJT as a Switch 1.00 5.00 BJT applications 
   1. Understand the operation of bipolar transistor as a switch 
 and analyze basic digital gate circuits 
-  ## Page 59
  32 
 4 Study the input and output 
 characteristics of MOSFET 
@@ -2197,7 +2119,6 @@ amplifier(CE mode)&also the
 gain, input & output 
 impedances 
 1. 00 10.00 BJT Applications 
-  ## Page 60
  33 
   1. Determine the performance parameters of the following 
 Amplifiers using BJT. 
@@ -2220,7 +2141,6 @@ specifications
   nts should be able to: 
 1. To determine the efficiency of the fixed regulated power 
 supply 
-  ## Page 61
  34 
 Course Content 
 Course Code: 22EBMF202 Course Title: Microcontroller Architecture & Programming 
@@ -2264,7 +2184,6 @@ and DC motor. 3hrs
 Chapter 7: 
 Introduction to interrupts, interrupts vs polling classification of interrupts, interrupt priority, 
 interrupt vector table interrupt service routine. 3 hrs 
- ## Page 62
  35 
 Text Book 
 1. " The 8051 Microcontroller Architecture, Programming & Applications " by ' 
@@ -2273,7 +2192,6 @@ Kenneth J. Ayala', Penram International, 1996
 and Janice GillispieMazidi', Pearson Education, 2003 
   References 
 1. "Programming and Customizing the 8051 Microcontroller ", by 'Predko', TMH. 
-  ## Page 63
  36 
 Program: III Semester Bachelor of Engineering (Biomedical Engineering) 
 Laboratory Experiments 
@@ -2333,12 +2251,10 @@ To find the summation of three numbers using function.
 10 Write a C program to 
 Find out addition of two matrices. 
 01 
-  ## Page 64
  37 
 1. Materials and Resources Required: 
 Text Book 
 1. Programming in ANSI C, E Balagurusamy 
-   ## Page 65
  38 
 Course Content (4th Sem) 
 Course Code: 15EMAB208 Course Title: Linear Algebra and Partial Differential Equations 
@@ -2387,7 +2303,6 @@ Gilbert Strang, Linear Algebra and its Applications, 4ed, Thomson India Edition,
 David C Lay, Linear Algebra and its Applications, 3ed, Pearson India, 2009 
 Peter v O'nell, Advanced Engineering Mathematics, Thomson-Books/Cole, Singapore 
 Dennis G Zill and Michael R Cullin, Narosa publishing House , New Delhi, 2009 
-  ## Page 66
  39 
 References 
 Kreyszig E., Advanced Engineering Mathematics, 8ed, John Wiley & sons, 2003. 
@@ -2395,7 +2310,6 @@ Schaum's Outline of Linear Algebra Seymour Lipschutz, Marc LipsonSastry 4ed, McG
 Hill India 2009 
 Stanely J Farlow, Partial differential equations for Scientists and Engineers, dover 
 publications, INc, new York, 1993 
-  ## Page 67
  40 
 Course Content 
   Program: IV Semester Bachelor of Engineering (Biomedical Engineering) 
@@ -2436,7 +2350,6 @@ Digital to Analog Converters: Basic DAC techniques, Weighted Resistor R-2R DACAn
 Converters: Functional diagram of ADC, Flash ADC, Counter type ADC, Successive approximation ADC, 
 Dual slope ADC, Pipeline ADC.DAC and ADC features/specifications. 
   10 
-  ## Page 68
  41 
 Course Content 
 Course Code: 22EBMC205 Course Title: Biomedical Instrumentation 
@@ -2488,14 +2401,12 @@ Text Books (List of books as mentioned in the approved syllabus)
 McGraw Hill, 2003 
 2. Biomedical Transducers and Instruments - Tatsuo Togawa, Toshiyo Tamura 
 and P. Ake Oberg, CRC Press, 1997. 
-  ## Page 69
  42 
 References 
 1. Biomedical Instrumentation and Measurement - Leslie Cromwell, Fred J 
 Weibell and Erich A. Pfeiffer, 2nd Edition, Prentice-Hall India Pvt. Ltd., 2004. 
 2. Transducers and Instrumentation -D. V. S. Murty Prentice Hall India Pvt ltd. 
 2nd Edition 
-  ## Page 70
  43 
 Course Content 
 Course Code: 22EBMC206 Course Title: Human Anatomy & Physiology 
@@ -2550,7 +2461,6 @@ Skeletal muscle, Smooth muscle, Cardiac muscle, functions of muscle tissue, musc
 fatigue. Types of joint- Fibrous, Cartilaginous, Synovial, characteristics of synovial joints, 
 shoulder joint, elbow joint, radio ulnar joint, wrist joint, Hip joint, Knee joint, ankle joint 
 10hrs 
- ## Page 71
  44 
 Text Books : 
 1. Ross & Wilson's Anatomy and Physiology in Health and Illness - by Anne Waugh 
@@ -2562,7 +2472,6 @@ Agency Pvt. Ltd.
 Edition, Jaypee Publications 
 3. Human Physiology: From Cells to Systems - by Lauralee Sherwood, 6th Edition, 
 Thomson India Edition, 2007. 
-  ## Page 72
  45 
 Course Content 
 Course Title: ARM Processor & 
@@ -2618,7 +2527,6 @@ Chapter No. 8 LPC 2148 Controller Architectural overview and GPIO programming
 LPC2148 architectural overview, Registers, GPIO Programming: LED, LCD, Seven segment, 
 Stepper Motor, DC Motor, Buzzer, Switch, Keypad. 
 5 hrs 
- ## Page 73
  46 
 Text Books: 
 Steve Furber, ARM System- on-Chip Architecture, 2nd, LPE, 2002 
@@ -2626,7 +2534,6 @@ William Hohl, ARM Assembly Language fundamentals and Techniques, 1st, CRC press,
 Reference Books: 
 "ARM system Developer's Guide"- Hardbound, Publication date: 2004 Imprint: MORGAN 
 KAUFFMAN 
-  ## Page 74
  47 
 5 N 
 Course Plan 
@@ -2689,7 +2596,6 @@ comparators
 2. Analyze operation of zero crossing detector 
 Nonlinear applications of 
 OPAMP 
- ## Page 75
  48 
   4 
 Precision rectifiers: Half-
@@ -2763,7 +2669,6 @@ components
   5. 00 
 Data Acquisition Systems and 
 data Converters 
- ## Page 76
  49 
 Category: Demonstration Total Weightage: 10.00 No. of lab 
 sessions: 2.00 
@@ -2836,7 +2741,6 @@ applications of
 OPAMP, Basic 
 op-amp 
 applications 
- ## Page 77
  50 
  Materials and Resources Required: 
 Text Books: 
@@ -2856,7 +2760,6 @@ Driscoll, PHI/Pearson, 2006
 Thomson Learning, 2001 
 4. Design with Operational Amplifiers and Analog Integrated Circuits, 
 Sergio Franco, TMH, 
-  ## Page 78
  51 
   CourseCode: 22EBMF205 Course Title: Data Structure Using C Lab(Diploma) 
 L-T-P: 1-0-2 Credits:3 Contact Hrs: 6 hrs/week 
@@ -2889,7 +2792,6 @@ Searching, Insertion and Deletion., Doubly Linked lists, Circular linked lists A
 Binary Tree: Definition, Terminology and representation, Tree Traversals both recursive and 4 
 Iterative. Binary Search Tree. 
   Sorting: Bubble sort, Merge sort, Quick sort. 
-  ## Page 79
  52 
 Text Books: 
 1. DataStructuresUsingCandC++-Y.Langsam, M.AugensteinAndA.M.Tenenbaum, Prentice-
@@ -2905,7 +2807,6 @@ PrivateLimited, Edition-1, 2016
 Stein.TheMITPress, Edition-3, 2009. 
 5. Cracking thecodinginterview-GayleMcDowell, Edition-6 
 6. Onlineplatform: www.Hackerrank.com, www.geeksforgeeks.com 
-  ## Page 80
  53 
   Experiment wise plan 
 1. List of experiments/jobs planned to meet the requirements of the course. 
@@ -2980,7 +2881,6 @@ queue
   1, 2 
 1. 3.6, 
 2. 1.3 
-  ## Page 81
  54 
   4 
 Introduction to 
@@ -3021,7 +2921,6 @@ traversals
   1, 2 
   1. 3.6, 
 2. 1.3 
-  ## Page 82
  55 
 Course Content 
 Course Code: 15EMAB242 Course Title: Vector Calculus and Differential equations 
@@ -3060,7 +2959,6 @@ Delhi, 2003Early Transcendental Calculus James Stewart, Thomson Book's 5e 2007
   Reference Books: 
 1. Early Transcendentals Calculus- James Stewart, Thomson Books, 5e 2007 
 Grewal B S, Higher Engineering Mathematics, 38ed, Khanna Publication, New Delhi, 2001 
-  ## Page 83
  56 
 Course Content (5th Sem) 
 Course Code: 22EBMC301 Course Title: Fundamentals of Signals & DSP 
@@ -3103,7 +3001,6 @@ Multirate Digital Signal Processing & Adaptive Filters:
 Introduction, Decimation Process, Interpolation Process, Digital Filter Bank, Adaptive Filters, 
 LMS adaptive algorithm, Applications, Features & Architectural of TMS320C54XX processor. 
 10 hrs 
-   ## Page 84
  57 
 Text Books 
 1. Dimitris G Manolakis, John G. Proakis, "Digital Signal Processing: Principles, Algorithms, and 
@@ -3113,7 +3010,6 @@ Applications", 4th Edition, Pearson India, 2007.
 3. Simon Haykin and Barry Van Veen "Signals and Systems", John Wiley & Sons, 2nd edition. 
 4. S K Mitra, "Digital Signal Processing", 4th Edition, McGraw-Hill. 
 5. Avtar Singh, "Digital Signal Processing Implementation", Brooks Cole. 
-  ## Page 85
  58 
 Course Content 
 Course Code: 22EBMC302 Course Title: Clinical Instrumentation 
@@ -3169,7 +3065,6 @@ hours
 "Handbook of Biomedical Instrumentation", R S Khandpur, 2nd edition, McGrawHill Education, 2013. 
 "Comprehensive Ophthalmology", A. K. Khurana, 4th Edition, New Age International Ltd., 2010 
 "Clinical Fracture Management", G R Baldwin, 3rd edition, McGrawHill Education, 2016. 
-  ## Page 86
  59 
 Course Content 
 Course Code: 22EBMC303 Course Title: Therapeutic Devices and Circuits 
@@ -3222,7 +3117,6 @@ Hazards from Electrical equipment‟s. Methods of accident prevention.
 Electrical safety analyser. 
   10 
 hours 
-  ## Page 87
  60 
 Text Books: 
 "Handbook of Biomedical Instrumentation", R S Khandpur, 2nd edition, McGrawHill Education, 2013 
@@ -3231,7 +3125,6 @@ Text Books:
 Edition, Prentice Hall of India Private Limited, 2001 
 "Introduction to Biomedical Equipment Technology", Joseph J Carr, John M. Brown, 4th Edition, Pearson 
 Education, 2004. 
-  ## Page 88
  61 
 Course Content 
 Course Code: 22EBMC304 Course Title: Operating System and Embedded 
@@ -3276,7 +3169,6 @@ system, Core and Supporting components of embedded system, AMBA Bus Protocol, SP
 485, wireless protocols (Bluetooth, 802.11 and its variants, ZigBee) 
 08 hrs 
 Chapter 7: Case study: Applications based on Cortex M series in RTOS environment 02 hrs 
-  ## Page 89
  62 
 Text Books (List of books as mentioned in the approved syllabus) 
 1. Silberschatz ,Galvin and Gagne , Operating system concepts, 8, WILEY Publication 
@@ -3286,7 +3178,6 @@ Text Books (List of books as mentioned in the approved syllabus)
   References 
 1. Dhananjay Dhamdhere, Operating Systems a Concept-Based Approach, 2, McGraw-
 Hill 
-  ## Page 90
  63 
 N 
 Experiment wise Pla n 
@@ -3331,7 +3222,6 @@ Study of the diathermy unit
 The students should be able to: 
 1. Explain the working of diathermy unit and analyse the 
 necessity of unipolar or bipolar electrodes. 
-  ## Page 91
  64 
   4 
 Study of Ultrasound 
@@ -3396,7 +3286,6 @@ and (iii) 12-Leads
   1. 00 
   5. 00 
   Cardiology 
- ## Page 92
  65 
  Learning Outcomes: 
 The students should be able to: 
@@ -3471,7 +3360,6 @@ Pulse Oximeter, and Infusion
   5. 00 
   Diagnostic & Therapeutic 
 devices 
- ## Page 93
  66 
 Pump. 
  Learning Outcomes: 
@@ -3509,7 +3397,6 @@ transformers.
 The students should be able to: 
 1. Select the appropriate capacitance charging and 
 discharging values 
-  ## Page 94
  67 
 Experiment Wise Plan 
 List of experiments/jobs planned to meet the requirements of the course. 
@@ -3575,7 +3462,6 @@ scheduling algorithm using RTX
 management, 
 Introduction to 
  Kernel and comment on performance. RTOS 
- ## Page 95
  68 
  Learning Outcomes: 
 The students should be able to: 
@@ -3615,7 +3501,6 @@ operating systems.
 Demonstrate the concept of software 
 Interrupts. Also comment on performance. 
 1. 00 10.00 Introduction 
-  ## Page 96
  69 
    Learning Outcomes: 
 The students should be able to: 
@@ -3677,7 +3562,6 @@ ii. RTX User guide
 iii. LPC2148 manual. 
 3. Evaluation: 
 Students Assessment through ISA (80%) + ESA (20%) 
-  ## Page 97
  70 
 Laboratory Plan 
 Semester: 5 - Semester Year: 
@@ -3704,7 +3588,6 @@ At the end of the course the student should be able to:
 Develop prototype / system for component / system to meet the identified 
 Requirements. 
 5. 
-   ## Page 98
  71 
 Course Content (6th Sem) 
 Course Code: 22EBMC306 Course Title: Biomedical Digital Signal Processing 
@@ -3741,7 +3624,6 @@ review of wiener filtering problem, Principle of an adaptive filter, Adoptive no
 maternal ECG in Fetal ECG. 
 8 
 hours 
-   ## Page 99
  72 
   Unit - 3 
 Chapter 5: Data Reduction 
@@ -3759,7 +3641,6 @@ Hill, 2005.
  1. Biomedical Signal Processing and Signal Modeling by Eugene N Bruce, John Wiley & Son's 
 publication 
 2. Biomedical Engineering and Design Handbook by Myer Kutz, McGraw Hill 
-  ## Page 100
  73 
 Course Content 
 Course Code: 22EBMC305 Course Title: Medical Image Processing 
@@ -3800,7 +3681,6 @@ Image Compression: Fundamentals, Image compression models, Basic compression met
 Huffman coding, Arithmetic coding, LZW coding, Run-length coding. 
 6 hrs. 
   06 hrs 
-  ## Page 101
  74 
    Text Book (List of books as mentioned in the approved syllabus) 
 Digital Image Processing - Rafael. C. Gonzalez and Richard. E. Woods, Third Edition, Pearson Education, 2008. 
@@ -3808,7 +3688,6 @@ Digital Image Processing - Rafael. C. Gonzalez and Richard. E. Woods, Third Edit
 1. Fundamentals of Digital Image Processing - Anil K. Jain, 5th Indian Print, PHI, 2002. 
 2. Digital Image Processing and Computer Vision - Milan Sonka, India Edition, Cengage 
 Learning 
- ## Page 102
  75 
 Course Plan 
 Program: 6 semester Bachelor of Engineering (Biomedical Engineering) 
@@ -3851,7 +3730,6 @@ SK learn and it's Applications.
 Debugger. (Textbook 1: Chapters 10) 
 7 
   Chapter 7: Classes and Objects: 
-  ## Page 103
  76 
 Need for object oriented programming, Characteristics of OOPS, Specifying the class, Defining objects and 
 classes, calling members functions, objects as data types 
@@ -3864,7 +3742,6 @@ Text Books
 3. Object oriented programming in TURBO C++ - Robert Lafore, Galgotia Publications, 2002. 
 Reference books: 
 1. Python for Data Analysis Data Wrangling with pandas, NumPy & Jupyter, Wes McKinney, 3rd edition. 
-  ## Page 104
  77 
 Course Content 
 Program: VI semester Bachelor of Engineering (Biomedical Engineering) 
@@ -3917,7 +3794,6 @@ variants),Generative Models (GAN, its variants and applications)
 05 hrs. 
 Chapter No. 7 Sequence to Sequence Learning: Attention networks, Transformer based 
 architecture, Transformer for Time-Series 05 hrs 
- ## Page 105
  78 
 Text Books (List of books as mentioned in the approved syllabus) 
 1. Tom Mitchell, Machine Learning, 1, McGraw-Hill, 1997 
@@ -3925,7 +3801,6 @@ Text Books (List of books as mentioned in the approved syllabus)
   References 
 1. Trevor Hastie, Robert Tibshirani, Jerome Friedman, The Elements of Statistical Learning: Data Mining 
 Inference and Prediction, 2, Springer, 2009 
-  ## Page 106
  79 
 N 
 Laboratory Plan 
@@ -3985,7 +3860,6 @@ sequences using FFT
 algorithm. 
   1. 00 
   5. 00 
-  ## Page 107
  80 
  Learning Outcomes: 
 The students should be able to: 
@@ -4046,7 +3920,6 @@ Filter design
 The students should be able to: 
 1. Design Notch filter for 50/60Hz 
 2. Analyze the spectrum 
-  ## Page 108
  81 
 9 
 Write a program to Implement 
@@ -4104,7 +3977,6 @@ The students should be able to:
 1. Analyze adaptive noise cancelling algorithm 
 2. Verify the output waveforms 
   Category: Structured Enquiry Total Weightage: 10.00 No. of lab sessions: 2.00 
- ## Page 109
  82 
 Expt./ 
 Job No. 
@@ -4153,7 +4025,6 @@ Reference Books:
 1. Simon Haykin and Barry Van Veen "Signals and Systems", John Wiley & Sons, 2nd edition 
 2. S K Mitra, "Digital Signal Processing", 4th Edition, McGraw-Hill, Year 
 3. Avtar Singh, "Digital Signal Processing Implementation", Brooks Cole 
-  ## Page 110
  83 
 N 
 Laboratory Plan 
@@ -4200,7 +4071,6 @@ The students should be able to:
 9. Plot the Histogram equalized image. 
 Basics of Histogram Processing 
 4 Bit plane slicing of an image. 1.00 6.00 
- ## Page 111
  84 
   Learning Outcomes: 
 The students should be able to: 
@@ -4252,7 +4122,6 @@ Vertical)
   Learning Outcomes: 
 The students should be able to: 
 1. Perform different operations on the image. 
-  ## Page 112
  85 
 11 Image compression 1.00 7.00 Image compression techniques 
   Learning Outcomes: 
@@ -4279,7 +4148,6 @@ Implement different image segmentation techniques..
   Reference Books: 
 1. Fundamentals of Digital Image Processing - Anil K. Jain, 5th Indian Print, PHI, 2002. 
 2. Digital Image Processing and Computer Vision - Milan Sonka, India Edition, CengageLearning 
-  ## Page 113
  86 
   Course Content (7th Sem) 
 Course Code: 22EBMC401 Course: Medical Imaging Systems 
@@ -4335,7 +4203,6 @@ Receiver, Data acquisition system. Characteristics of MRI images- Spatial resolu
 contrast. 
 Biological effects of magnetic fields. 
 10 hrs. 
- ## Page 114
  87 
 Text Books (List of books as mentioned in the approved syllabus) 
  1. Principles of Medical Imaging - by Kirk Shung, Michael B. Smith and BanjaminTsui, 
@@ -4345,7 +4212,6 @@ McGraw Hill, 2003.
 3. Fundamentals of Medical Imaging - by Paul Suetens, Cambridge University Press, 2002. 
 4. The Physics of Medical Imaging - by Steve Webb (Editor), Adam Hilger, Bristol and 
 Philadelphia Publications, 1988. 
-  ## Page 115
  88 
 Course Content 
 Course Code:22EBME412 Course Title: Medical Device Regulations and 
@@ -4399,7 +4265,6 @@ mandatory standards, Standards development process, Conformity assessment with s
 National and international standards systems, Identification of standards, Current trends in the 
 use of standards in medical device regulations. The ISO 9000 Series of Standards. 
 06 hrs. 
- ## Page 116
  89 
 Chapter 6. 
 Software and Quality system regulation: Software as a Technology, Domestic Software 
@@ -4418,7 +4283,6 @@ Press, 1998.
 World Health Organization. 
   2. Product Safety in the European Union by GáborCzitán, Attila Gutassy, Ralf Wilde, TÜVR 
 heinland Akadémia, 2008. 
-  ## Page 117
  90 
 Course Content 
 Course Title: Medical IoT Course Code:22EBMC423 
@@ -4473,7 +4337,6 @@ Avesand. David Boyle and Elsevier, 2014.
 Florian (Eds), Springer, 2011. 
 3. Recipes to Begin, Expand, and Enhance Your Projects, 2nd Edition, Michael Margolis, 
 Arduino Cookbook and O‟Reilly Media, 2011. " 
-  ## Page 118
  91 
 Course Content 
 Course Code: 22EBME434 Course Title: Lasers and Optical Fibers in Medicine 
@@ -4521,7 +4384,6 @@ Hours
 1. Lasers and Optical Fibers in Medicine - by Abraham Katzir, Academic Press, 1998. 
   Reference Books: 
 2. Lasers in Medicine - by Ronal W. Waynant, CRC Press, 2002. 
-  ## Page 119
  92 
 Course Content 
 Course Title: Senior Design Project Course Code:22EBMW401 
@@ -4566,7 +4428,6 @@ towards its successful completion as per the predefined standards.
 • Evaluation is done based on the evaluation rubrics. 
 • Project shall be reviewed and evaluated by the concerned Guide for 50% of the marks. 
 • Project shall be evaluated by the review committee for 50% of the marks. 
-  ## Page 120
  93 
 Course Content 
 Course Title: CIPE Course Code: 15EHSA401 
@@ -4619,7 +4480,6 @@ Publications, Allahabad, 2010.
 References 
 1. Durga Das Basu, "Introduction to the Constitution of India", Prentice-hall EEE, 2001 
 2. Mike Martin and Ronald Schinzinger, "Ethics in Engineering", Tata McGraw-Hill Publications. 
-  ## Page 121
  94 
 Course Plan Semester VIII 
 Professional Elective 
@@ -4679,7 +4539,6 @@ Chapter 5:
 Artificial Blood: Artificial oxygen carriers, fluorocarbons, hemoglobin for oxygen carrying 
 plasma expanders, hemoglobin based artificial blood. Artificial Lungs: Gas exchange 
 08 Hours 
- ## Page 122
  95 
 systems, Cardiopulmonary bypass (heart-lung machine)-principle, block diagram and 
 working, artificial lung versus natural lung. Liver functions, hepatic failure, liver support 
@@ -4702,7 +4561,6 @@ Press, 2000).
 Press, 2000) 
 3. Handbook of Biomedical Instrumentation (2nd Edition) by R.S.Khandpur (Tata McGraw Hill, 
 2003). 
-  ## Page 123
  96 
 Program: Bachelor of Engineering (Biomedical Engineering) Semester: VIII 
 Course Title: Computer Communication in Health Care 
@@ -4763,7 +4621,6 @@ Principle, Shortest Path Routing,
 Distance Vector Routing, Link State Routing, Hierarchical Routing, Broadcast Routing, 
 CONGESTION control Algorithms: General Principles of Congestion Control. 
 08 Hours 
- ## Page 124
  97 
 Quality of Service: Requirements, Techniques for Achieving Good Quality of Service-leaky 
 bucket algorithm, token bucket algorithm. Internetworking: How Networks Differ, How 
@@ -4785,7 +4642,6 @@ Reference Books:
 2. Data Communications and Networking - Behrouz A Forouzan, 4th Edition, Tata 
 McGraw Hill, 2006. 
 3. Computer Networking - Kurose and Ross, Pearson Education, 2004. 
-  ## Page 125
  98 
   Program: Bachelor of Engineering (Biomedical Engineering) Semester: VIII 
 Course Title: Medical Informatics and Expert systems Course Code:22EBME463 
@@ -4836,7 +4692,6 @@ production rule systems, algorithmic method, OAV, object oriented knowledge, dat
 comparisons, statistical pattern classification, decision analysis, tools, neural networks, 
 advantages of ES, applications of ES. Text 1: (Section II - 4) 
 08 Hours 
-   ## Page 126
  99 
 Text Books: 
 1. Medical Informatics: A Primer - by Mohan Bansal, 1st Print, Tata McGraw Hill, Publications, 
@@ -4845,7 +4700,6 @@ Text Books:
 G. Wiederhold, L.E.Perreault and L.M.Fagan, 2ndEdition, Springer Verlag, 2000. 
 3. Handbook of Medical Informatics by J.H.VanBemmel, Stanford University Press/ Springer, 
 2000. 
-  ## Page 127
  100 
   Program: Bachelor of Engineering (Biomedical 
 Engineering) 
@@ -4894,7 +4748,6 @@ Verlag, 1993.
 2. Joint Structure and Function, A Comprehensive Analysis - by Pamela K. Levangie and Cynthia C. 
 Norkin, Jaypee Publications, 4th Edition, 2006. 
 3. Biomechanics of Human Motion - by T. McClurg Anderson, Sports Pub., 2007. 
-  ## Page 128
  101 
 Elective 2: Open Elective: 
 Program: Bachelor of Engineering (Biomedical Engineering) Semester: VIII 
@@ -4954,13 +4807,11 @@ Determining Sample Size to Control Type II Errors. (Text Book1 : 7.3, 7.4, 7.5, 
 Wayne W. Daniel, John Wiley & Sons Publication, 9th Edition, 2009. 
 Reference Books: 
 1. Principles of Biostatistics - by Marcello Pagano and Kimberlee Gauvreu, 
-  ## Page 129
  102 
 Thomson Learning Publication, Indian Edition, 2007. 
 2. Biostatistics - by Ronald N Forthofer, EunSul Lee and M. Hernandez, 
 Academic Press, 2007. 
 Basic Biostatistics and its Applications - by Animesh K. Dutta, 2006. 
-   ## Page 130
  103 
 Program: Bachelor of Engineering (Biomedical Engineering) Semester: VIII 
 Course Title: Virtual Instrumentation Course Code: 22EBMO402 
@@ -5018,7 +4869,6 @@ Virtual Instrumentation using Lab VIEW by Jovitha Jerome, PHI Learning Private L
 1 & 2) 
 "Virtual Bio-Instrumentation" Biomedical, Clinical, and Healthcare Applications in Lab VIEW. , by Jon 
 B. Olansen and Eric Rosow, Prentice Hall Publication, 2002. 
-  ## Page 131
  104 
   Program: Bachelor of Engineering (Biomedical Engineering) Semester: VIII 
 Course Title: Image Processing Course Code: 22EBMO403 
@@ -5074,7 +4924,6 @@ Reference Books:
   4. Fundamentals of Digital Image Processing - Anil K. Jain, 5th Indian Print, PHI, 2002. 
 5. Digital Image Processing and Computer Vision - Milan Sonka, India Edition, Cengage 
 Learning. 
- ## Page 132
  105 
   Program: Bachelor of Engineering (Biomedical Engineering) Semester: VIII 
 Course Title: Medical Physics Course Code: 22EBMO404 
@@ -5132,13 +4981,11 @@ Imaging safety,
 10 Hours 
    Text Books: 
 1. Principles of Medical Imaging - by Kirk Shung, Michael B. Smith and BanjaminTsui, Academic 
- ## Page 133
  106 
 Press, 1992. 
 2. Handbook of Biomedical Instrumentation - by R.S.Khandpur, 2nd Edition, Tata McGraw Hill, 
 2003. 
 3. Fundamentals of Medical Imaging - by Paul Suetens, Cambridge University Press, 2002. 
-   ## Page 134
  107 
 Course Title: Project Work Course Code: 22EBMW402 
 L-T-P: 0-0-11 Credits: 11 Contact Hours: 22 hrs/week 
@@ -5182,13 +5029,11 @@ towards its successful completion as per the predefined standards.
 • The format for report writing should be downloaded from ftp://10.3.0.3/projects 
 • The report needs to be shown to guide and committee for each review. 
 Evaluation Scheme 
-  ## Page 135
  108 
 • Internal semester assessment (ISA) 
 • Evaluation is done based on the evaluation rubrics 
 • Project shall be reviewed and evaluated by the concerned Guide for 50% of the marks. 
 • Project shall be evaluated by the review committee for 50% of the marks. 
-  ## Page 136
  109 
   Program: Biomedical Engineering Semester: VIII 
 Course Title: Internship- Training Course Code: 22EBMI401 
@@ -5209,7 +5054,6 @@ Hrs.
  Reflection on results 
  Conclusions and discussion 
  Presentation skills 
-  ## Page 137
  110 
   Program: Biomedical Engineering Semester: VIII 
 Course Title: Internship- Project Course Code: 22EBMW403 
@@ -5229,5 +5073,4 @@ Hrs.
  Use of methods and processing data 
  Reflection on results 
  Conclusions and discussion 
- Presentation skills 
-  
+ Presentation skills

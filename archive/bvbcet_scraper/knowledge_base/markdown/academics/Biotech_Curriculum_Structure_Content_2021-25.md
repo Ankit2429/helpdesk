@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: Biotech_Curriculum_Structure_Content_2021-25"
+title: "B.E. Biotechnology Curriculum"
 category: "academics"
 subcategory: "Biotech"
 document_type: "syllabus"
@@ -11,15 +11,14 @@ language: "en"
 keywords: ["course", "document", "engineering", "hours", "marks", "unit"]
 aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "168"
 ---
-# PDF Document: Biotech_Curriculum_Structure_Content_2021-25
- **PDF Source:** https://www.kletech.ac.in/pdf/Biotech_Curriculum_Structure_Content_2021-25.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/Biotech_Curriculum_Structure_Content_2021-25.pdf
  FMCD2009 / 2.0 1 
   Curriculum Structure and Curriculum Content for the Academic year-2021-25 
 Department: Biotechnology 
 Program: B.E. Biotechnology 
-  ## Page 2
  FMCD2009 / 2.0 2 
 Table of Contents 
 Vision and Mission of KLE Technological University ........................................... 3 
@@ -39,7 +38,6 @@ Semester- VIII .................................................................
 List of Open Electives ............................................................................................ 17 
 List of Program Electives ...................................................................................... 18 
 Curriculum Content- Course wise ........................................................................ 19 
-  ## Page 3
  FMCD2009 / 2.0 3 
 Vision and Mission of KLE Technological University 
   Vision 
@@ -62,7 +60,6 @@ contributing our expertise, experience and leadership, to enhance
 competitiveness and quality of life. 
   As a unified c ommunity of faculty, staff and students, we work together with 
 the spirit of collaboration and partnership to accomplish our mission. 
-  ## Page 4
  FMCD2009 / 2.0 4 
   Vision and Mission Statements of the School / Department 
   Vision 
@@ -79,7 +76,6 @@ enables to achieve personal and professional development.
    To cater to the societal needs and serve the communities at local, 
 national and international levels combined with a deep awareness of 
 ethical responsibilities to profession and society. 
-  ## Page 5
  FMCD2009 / 2.0 5 
   Program Educational Objectives/Program Outcomes and Program-Specific Objectives 
 Program Educational Objectives -PEO's 
@@ -118,7 +114,6 @@ Apply ethical principles and commit to professional ethics and responsibilities 
 of the engineering practice. 
 Function effectively as an individual, and as a member or leader in diverse teams, and in 
 multidisciplinary settings. 
- ## Page 6
  FMCD2009 / 2.0 6 
 Communicate effectively on complex engineering activities with the engineering 
 community and with t h e society at large, such as, be ing able to comprehend and write 
@@ -137,7 +132,6 @@ Demonstrate proficiency of Bioprocess Technology towards development of processe
 products in global context. 
 Apply the knowledge of engineering & applied science to demonstrate research 
 aptitude/skills in frontier areas of biotechnology. 
-  ## Page 7
  FMCD2009 / 2.0 7 
 Curriculum Structure-Overall 
 Semester : Total Program Credits:178 
@@ -332,7 +326,6 @@ Mammalian cell culture
 techniques Lab 
 23EBTP402 (0-0-1) 
    Credits 21 23 22.5 21.5 23.5 25.5 24 17 
- ## Page 8
  FMCD2009 / 2.0 8 
   Curriculum Structure-Semester wise 
 Semester - I 
@@ -350,7 +343,6 @@ solving ES 0-0-3 3 6 80 20 100 3 Hours
 6 15EMEF101 Basic Mechanical Engg. ES 2-1-0 3 4 50 50 100 3 Hours 
 7 15EHSH101 Professional Communication HSS 1-1-0 2 3 50 50 100 3 Hours 
 TOTAL 15-2-6 23 32 
- ## Page 9
  FMCD2009 / 2.0 9 
 Semester - II 
   No Code Course Category L-T-P Credits Contact 
@@ -368,7 +360,6 @@ Engineering Drawing ES 0-0-3 3 6 80 20 100 3 Hours
 Innovation HSS 0-1-1 2 3 80 20 100 3Hours 
 7 16EPHP102 Engineering Physics Lab BS 0-0-1 1 2 80 20 100 3 Hours 
 TOTAL 14-2-5 21 27 
- ## Page 10
  FMCD2009 / 2.0 10 
 Semester- III 
   No Code Course Category L-T-P Credits Contact 
@@ -387,7 +378,6 @@ Differential Equations BS 4-0-0 4 4 50 50 100 03 Hours
 8 15EBTP202 Biochemistry Lab PSC 0-0-1 1 2 80 20 100 03 Hours 
 9 17EBTP201 Unit Operations-I Lab ES 0-0-1 1 2 80 20 100 03 Hours 
 TOTAL 19.5-0-3 22.5 26 
- ## Page 11
  FMCD2009 / 2.0 11 
 Semester- IV 
   No Code Course Category L-T-P Credits Contact 
@@ -405,7 +395,6 @@ Duration
 8 15EBTP205 Cell & Molecular Biology Lab PSC 0-0-1 1 2 80 20 100 03 Hours 
 9 17EBTP202 Unit Operations-II Lab PSC 0-0-1 1 2 80 20 100 03 Hours 
 TOTAL 17.5-1-3 21.5 26 
- ## Page 12
  FMCD2009 / 2.0 12 
   Semester- V 
 No Code Course Category L-T-P Credits Contact 
@@ -426,7 +415,6 @@ Analytical Reasoning HSH 0.5-0-0 0.5 1 100 00 100 NA
 Immunotechnology Lab PSC 0-0-1 1 2 80 20 100 03 Hours 
 9 22EBTP302 Bioinformatics Lab PSC 0-0-1 1 2 80 20 100 03 Hours 
 TOTAL 18.5-0-5 23.5 32 
- ## Page 13
  FMCD2009 / 2.0 13 
 Semester- VI 
   No Code Course Category L-T-P Credits Contact 
@@ -448,7 +436,6 @@ Lab PSC 0-0-1.5 1.5 3 80 20 100 03 Hours
 9 23EBTP304 Bioprocess Control & 
 Reaction Engineering Lab PSC 0-0-1.5 1.5 3 80 20 100 03 Hours 
 TOTAL 17.5-0-8 25.5 40 
- ## Page 14
  FMCD2009 / 2.0 14 
 Semester- VII 
   No Code Course Category L-T-P Credits Contact 
@@ -474,7 +461,6 @@ TOTAL 16-0-8 6 18
 9 17EBTE490 Research Experience for 
 Undergraduates (REU) PE 0-0-6 6 18 50 50 100 03 Hours 
 TOTAL 0-0-6 6 18 
- ## Page 15
  FMCD2009 / 2.0 15 
   Semester- VIII 
 No Code Course Category L-T-P Credits Contact Hours ISA ESA Total 
@@ -494,16 +480,13 @@ TOTAL 6-0-11 17 39
 4 18EBTI493 Internship-Training -- 0-0-6 6 -- 50 50 100 03 Hours 
 5 20EBTW494 Internship-Project PRJ 0-0-11 11 33 50 50 100 03 Hours 
 TOTAL 0-0-17 17 
-  ## Page 16
  FMCD2009 / 2.0 16 
   Semester I II III IV V VI VII VIII Total 
 Credits 21 23 22.5 21.5 23.5 25.5 24 17 178 
- ## Page 17
  FMCD2009 / 2.0 17 
 List of Open Electives 
    Sr. No Name of the Course Course Code 
 1 Industrial waste management 19EBTO401 
-  ## Page 18
  FMCD2009 / 2.0 18 
   List of Program Electives 
 Sr. No Name of the Course Course Code 
@@ -529,7 +512,6 @@ biotechnology
 18 Bio-business and entrepreneurship 20EBTE402 
 19 Phytochemicals and Herbal products 22EBTE403 
 20 Clinical Biotechnology 23EBTE303 
-  ## Page 19
  FMCD2009 / 2.0 19 
 Curriculum Content- Course wise 
 Program: Biotechnology Semester: I 
@@ -564,10 +546,8 @@ Applications to find arc length, Area, Volume and surface area (Cartesian, param
 curves). Approximate integration- Trapezoidal rule, Simpson's 1 / 3 rule 
 14 Hours 
 MATLAB: problems on arc length, area, volume and surface area 
-  ## Page 20
  FMCD2009 / 2.0 20 
 (Use this template for all courses, semester wise) 
-  BACK 
   Unit III 
   5. Ordinary differential equations of first order 
 (a) Introduction to Initial Value problems. Linear and Bernoulli's equations, Exact equations and 
@@ -583,7 +563,6 @@ MATLAB: Solve differential equations
 1. Calculus Single and Multivariable, Hughues-Hallett Gleason, Wiley India Ed, 4ed, 
 2009. 
 2. Thomas Calculus, George B Thomas, Pearson India, 12ed, 2010 
-  ## Page 21
  FMCD2009 / 2.0 21 
   Program: Biotechnology Semester: I 
 Course Title: Engineering Chemistry Course Code:15ECHB101 
@@ -618,7 +597,6 @@ Unit II
 Fuels, classification, determination of calorific value of a fuel (solid / liquid fuel by Bomb 
 calorimeter), coal analysis - Numerical problems. Petroleum - cracking, Octane number, Cetane 
 number, reforming, and mechanism of knocking in Petrol and Diesel engines . Renewable energy 
- ## Page 22
  FMCD2009 / 2.0 22 
 sources - power alcohol and bio diesel. 
 06 Hours 
@@ -650,9 +628,7 @@ hardness of water by EDTS method - numerical problems. Sewage: Determination of 
 oxygen demand by Winkler's method - numerical problems and determination of chemical 
 oxygen demand - numerical problems, 
                                                                                                                                                                              0 Hours 
-  ## Page 23
  FMCD2009 / 2.0 23 
-  BACK 
   Text Books: 
 1. A text Book of Engineering Chemistry, 1st edition, Dara. S. S, S. Cha nd & Co. Ltd., 2009, 
 New Delhi. 
@@ -670,7 +646,6 @@ Edition, S Nagin Chand & Co.,1992.
 6. Principles of Polymer Chemistry- A. RavvePlelum Press, New York and London. 
 7. Callister William D, Materials Science and Engineering: A n introduction, John Wiley and 
 Sons 2007: 721 pages. 
- ## Page 24
  FMCD2009 / 2.0 24 
   Program: Biotechnology Semester: I 
 Course Title: C Programming for Problem Solving Course Code:18ECSP101 
@@ -702,9 +677,7 @@ Introduction to Coding Standards
 Introduction, Declaration, Accessing ele ments, Storing values in arrays, Operations on one dimensional 
 array, Operations on two dimensional arrays, Introduction to Code Optimization and refactoring 
 15 Hours 
- ## Page 25
  FMCD2009 / 2.0 25 
-  BACK 
   7. Pointers 
 Introduction, declaring pointer, pointer variables, pointer expression and a rithmetic, passing arguments to 
 functions using pointers, pointers and arrays, passing an array to a function. 
@@ -720,9 +693,7 @@ Reference Books:
 2. B S Gottfried, Programming with C, 2ed, TMH, 2006. 
 3. B.A. Forouzan , R.F. Gilberg, A Structured Program Approach Using C, 3ed, CENGAGE 
 Learning, 2008. 
-  ## Page 26
  FMCD2009 / 2.0 26 
-  BACK 
   Program: Biotechnology Semester: I 
 Course Title: Engineering Exploration Course Code:15ECRP101 
 L-T-P:0-0-3 Credits:3 Contact Hours:78 
@@ -752,7 +723,6 @@ Reference Books:
 1. Engineering Fundamentals & Problem Solving by ArvidEide, Roland Jenison, 
 Larry Northup, Steven, McGrawHill Higher Education, 6th Edition ( 2011) 
 2. Engineering Exploration (Edited Book, 2008) by Pearson Publication. 
- ## Page 27
  FMCD2009 / 2.0 27 
   Program: Biotechnology Semester: I 
 Course Title: Basic Electronics Course Code:18EECF102 
@@ -775,7 +745,6 @@ Ideal op -amp characteristics, op -amp applications: Comparator, Invert ing ampl
 inverting amplifier, Voltage follower, Integration, Differentiation, Adder, Subtractor and 
 numerical as applicable. 
 08 Hours 
- ## Page 28
  FMCD2009 / 2.0 28 
 Unit II 
 Chapter 4: Digital Logic: 
@@ -811,9 +780,7 @@ Text Books
 3. W.Bolton, "Mechatronics - Electronic Control Systems in Mechanical and Electrical 
 Engineering", 3rd edition Pearson Education, 2005. 
 4. David Bradley and David W., "Mechatronics in Action", 2nd edition, Springer, 2010 
- ## Page 29
  FMCD2009 / 2.0 29 
-  BACK 
   Reference Books: 
 1. David G Alciatore, Michael B Histand, "Introduction to Mechatronics and 
 Measurement Systems", TMH 3rd edition, 2007. 
@@ -825,7 +792,6 @@ Publishers, Wiley Eastern, 2001.
 5. BoylesteadNashelsky, "Electronic devices & Circuit theory" Sixth Edi tion Prentice 
 Hall India, 2000. 
 6. RamakantGayekawad "Operational Amplifiers & applications" 3rd Edition, PHI, 2000. 
- ## Page 30
  FMCD2009 / 2.0 30 
   Program: Biotechnology Semester: I 
 Course Title: Basic Mechanical Engineering Course Code:15EECF101 
@@ -874,7 +840,6 @@ metal work.
 Visit to Learning 
 Factory 
 5 
-  ## Page 31
  FMCD2009 / 2.0 31 
 Unit II 
   3 Design Engineering: Power 
@@ -926,9 +891,7 @@ of vario us thermal
 systems 
 Video presentations 
 1 
-  ## Page 32
  FMCD2009 / 2.0 32 
-  BACK 
   Turbines, and their working 
 principle and specifications. 
   Text Books: 
@@ -941,7 +904,6 @@ Reference Books:
 2. SKH Chowdhary, AKH Chowdhary, Nirjhar Roy, The Elements of Workshop Technology - 
 Vol I & II , 11th edition 2001, Media Promoters and Publishers. 
 3. Basic Manufacturing, Roger Timings, Third edition, Newnes, An imprint of Elsevier. 
- ## Page 33
  FMCD2009 / 2.0 33 
   Program: Biotechnology Semester: I 
 Course Title: Professional Communication Course Code:15EHSH101 
@@ -968,14 +930,11 @@ Introduction of dialogues, Situational Role plays,
 Chapter No. 6. Business Communication 
 Covering letter, formal letters, Construction of paragraphs on any given general topic. 
 09 Hours 
- ## Page 34
  FMCD2009 / 2.0 34 
-  BACK 
   Reference Books: 
 1. Collins Cobuild Advanced Learner's English Dictionary 
 2. Raymond Murphy - Intermediate English Grammar, Cambridge University Press Martin 
 Hewings- Advanced English Grammar, Cambridge University Press. 
- ## Page 35
  FMCD2009 / 2.0 35 
   Program: Biotechnology Semester: II 
 Course Title: Multivariable calculus Course Code:18EMAB102 
@@ -1009,9 +968,7 @@ Unit III
 method of Variation of parameters. Initial and boundary value problems. 
 (b) Applications of second order differential equations -Newton's 2 nd law, electrical circuits, 
 Simple Harmonic motion. Series solution of differential equations. Validity of Series solution of 
- ## Page 36
  FMCD2009 / 2.0 36 
-  BACK 
   Differential equations. 
 (5+5) Hours 
 MATLAB: application of differential equations 
@@ -1020,7 +977,6 @@ Text Books
   Reference Books: 
 1. Calculus Single and Multivariable, Hughues-Hallett Gleason, Wiley India Ed, 4ed, 2009. 
 2. Thomas Calculus, George B Thomas, Pearson India, 12ed, 2010. 
-  ## Page 37
  FMCD2009 / 2.0 37 
   Program: Biotechnology Semester: II 
 Course Title: Engineering Physics Course Code:15EPHB102 
@@ -1044,9 +1000,7 @@ Chapter 3: Force and Motion
 Concept of Force, Identifying Forces, A Virtual Experiment, 
 Newton's First Law, Newton's Second Law, Free-Body Diagrams, Applications. 
 04 Hours 
- ## Page 38
  FMCD2009 / 2.0 38 
-  BACK 
   Unit II 
 Chapter 4: Dynamics I 
 Equilibrium using Newton's second Law, Friction, Drag, 
@@ -1075,7 +1029,6 @@ Reference Books:
 1. Randall D Knight, Physics for SISAntists and Engineers, Pearson publication, 2ndEdition. 
 2. Hans C Ohanian and John T Markert, Physics for EngineersandSISAntists, W W Norton 
 and Company, Volume 1, 3rd Edition 
- ## Page 39
  FMCD2009 / 2.0 39 
   Program: Biotechnology Semester: II 
 Course Title: Engineering Mechanics Course Code:15EPHB102 
@@ -1106,7 +1059,6 @@ Equilibrium of coplanar concurrent force system:
 Conditions of equilibrium, Action & Reaction, Free body diagram, Lamis' theorem . Numerical 
 problems on equilibrium of forces. 
 05 Hours 
-  ## Page 40
  FMCD2009 / 2.0 40 
 Chapter 3: Coplanar non-concurrent force system 
 Resultant of a force system: Moment, moment of a force, couple, moment of a couple, 
@@ -1133,9 +1085,7 @@ symmetry, Locating the centroid of simple plane figures (triangle, semicircle, q
 and sector of a circle etc,.) using method of integration, Numerical problems on Centroid of 
 simple built up sections. 
 05 Hours 
- ## Page 41
  FMCD2009 / 2.0 41 
-  BACK 
 Unit III 
   Chapter 7: Second moment of area (Plane figures) 
 Introduction, Definition, Method of determining the second moment of area, Section Modulus, 
@@ -1167,7 +1117,6 @@ Bangalore, 2006.
 Publishing Company, New Delhi, 1956. 
 5. Irving H Shames, Engineering Mechanic s, 3rd edition, Prentice-Hall of India Pvt. Ltd, 
 New Delhi- 110 001, 1995. 
-  ## Page 42
  FMCD2009 / 2.0 42 
   Program: Biotechnology Semester: II 
 Course Title: Computer Aided Engineering Drawing Course Code: 15EMEP101 
@@ -1202,9 +1151,7 @@ Chapter 03: Conversion of pictorial views into orthographic projections using CA
 Drawing orthographic projection of obje cts shown in pictorial views by first angle method of 
 projection using CAD software. (2D drafting only) 
 06 Hours 
-  ## Page 43
  FMCD2009 / 2.0 43 
-  BACK 
   Chapter 04: Isometric projection or view using CAD software. 
 Drawing isometric projections or views of objects shown in orthographic projections using CAD 
 software. 
@@ -1212,7 +1159,6 @@ software.
 Text Books: 
 1. Text Book of Engineering Drawing by K R Gopalakrishna 
 2. Text Book of Engineering Drawing by N D Bhatt and V M Panchal 
- ## Page 44
  FMCD2009 / 2.0 44 
   Program: Biotechnology Semester: II 
 Course Title: Basic Electrical Engineering Course Code:18EEEF102 
@@ -1249,9 +1195,7 @@ in inverters, Three -phase rectifier networks, The three -phase fully controlled
 Inverter-fed induction motors, Soft -starting induction motors , DC to DC conversion switched -
 mode power 
 06 Hours 
- ## Page 45
  FMCD2009 / 2.0 45 
-  BACK 
   Unit III 
 6. Electrical Wiring, Safety and protection(ref :Text3-page 1 to 10) 
 Types of wires and cables for internal wiring, Types of switches and Circuits, Types of wiring, 
@@ -1276,7 +1220,6 @@ Limited 2009 Edition
 Measurement Systems, 3rd, Tata McG raw Hill Education Private Limited, New Delhi., 
 2005 
 3. Vincent Del Toro, Electrical Engineering Fundamentals, 2nd edition Prentice Hall India 
- ## Page 46
  FMCD2009 / 2.0 46 
   Program: Biotechnology Semester: II 
 Course Title: Design Thinking for Social Innovation Course Code:20EHSP101 
@@ -1337,7 +1280,6 @@ triangles out of popsicle
 sticks to enhance group 
 cohesiveness amongst 
 the group mates) 
- ## Page 47
  FMCD2009 / 2.0 47 
 KNOWLEDGE, TOOLS & DEVELOPMENT 
   Seven Mindsets: 
@@ -1377,7 +1319,6 @@ build youir Creative
 Confidence by David 
 Kelley - IDEO 
 Founder) 
-  ## Page 48
  FMCD2009 / 2.0 48 
 KNOWLEDGE, TOOLS & DEVELOPMENT 
   Process of Social Innovation 
@@ -1424,7 +1365,6 @@ respective templates
 with the help of 
 sample case study 
    PEER REVIEW 
- ## Page 49
  FMCD2009 / 2.0 49 
   Inspiration 
    Plan for the Research 
@@ -1456,7 +1396,6 @@ Learning
 respective templates 
 with the help of 
 sample case study 
- ## Page 50
  FMCD2009 / 2.0 50 
   Ideation 
 3. 1 Synthesis 
@@ -1478,7 +1417,6 @@ respective templates
 with the help of 
 sample case study 
    PEER REVIEW 
- ## Page 51
  FMCD2009 / 2.0 51 
    Implementation 
  Create an action plan 
@@ -1512,9 +1450,7 @@ holders & their enagement
 respective template s 
 with the help of 
 sample case study 
-  ## Page 52
  FMCD2009 / 2.0 52 
-  BACK 
   5. 0 Reflect 
   Reflection of the overall 
 learning by the students 
@@ -1530,7 +1466,6 @@ Implementation
 respective templates 
 with the help of 
 sample case study 
-  ## Page 53
  FMCD2009 / 2.0 53 
   Program: Biotechnology Semester: II 
 Course Title: Engineering Physics lab Course Code:16EPHP102 
@@ -1548,8 +1483,6 @@ List of Experiments
 8 Projectile motion 
 9 Variable g pendulum 
 10 Study of one dimension motion by linear air track 
-  BACK 
-  ## Page 54
  FMCD2009 / 2.0 54 
   Program: Biotechnology Semester: III 
 Course Title: Numerical Methods and Differential 
@@ -1587,9 +1520,7 @@ Descriptive statistics: Measure of central tendency (arithmetic mean, median, mo
 Measures of dispersion (Quartile devia tion, Standard deviation, coefficient of variation), 
 Measure of skewness (Pearson and Bowley's) 
 12 Hours 
-  ## Page 55
  FMCD2009 / 2.0 55 
-  BACK 
   Unit III 
 5. Introduction to Laplace transform and Solution of Differential Equations 
 Definition, transforms of elementary functions - transforms of derivatives and integrals -
@@ -1609,7 +1540,6 @@ and Computing, J.Susan Milton, Jesse C Arnold, , 4, TATA Mc-Graw Hill Edition, 2
 & Sons, New Delhi, 2002 
 3. Higher Engineering Mathematics, Grewal B S, 38ed, Khanna Publication, New Delhi, 
 2001. 
-  ## Page 56
  FMCD2009 / 2.0 56 
   Program: Biotechnology Semester: III 
 Course Title: Microbiology Course Code: 15EBTC201 
@@ -1643,7 +1573,6 @@ classification, Effect of different factors on growth, Growth of bacterial cultu
 division, generation time, phases of growth. Fundamentals of mic robial growth 
 Kinetics.Chemostat & Turbidostat, Measurement of growth: Direct and Indirect methods. 
                                      04 Hours 
-  ## Page 57
  FMCD2009 / 2.0 57 
 Unit II 
 5. Microbial Techniques 
@@ -1676,16 +1605,13 @@ Products: amino acids, vitamins, enzymes, pharmaceuticals, organic acids (discus
 study), r -DNA technology & therapeutic products from microbes. Biosynthetic pathways and 
 Introduction to Metabolic Engineering. 
                                                                                                                             05 Hours 
-  ## Page 58
  FMCD2009 / 2.0 58 
-  BACK 
   Text Books: 
 1. Chan & Pelzar, Microbiology, Publisher: Tata McGraw Hill 5th Edition 2008. 
 2. Tortora, Microbiology: An Introduction, Publisher: Pearson Education, 8th Edition, 2004 
 Reference Books: 
 1. Stanier Ingraham & Wheeler, General Microbiology, Pub: Mac Millan 5th edition. 2007. 
 2. Heritage, Introductory Microbiology Pub: Cambridge, 1st edition, 2007 
- ## Page 59
  FMCD2009 / 2.0 59 
   Program: Biotechnology Semester: III 
 Course Title: Biochemistry Course Code: 15EBTC202 
@@ -1723,7 +1649,6 @@ Unit II
 5. Carbohydrate metabolism 
 Glycolysis-aerobic and in anaerobic pathway, Energy yield of glycolysis Regulation of glycolysis- 
 metabolic and hormonal. Fates of pyruvate. Glycogen - synthesis and degradation. Regulation 
- ## Page 60
  FMCD2009 / 2.0 60 
 of glycogen metabolism. Gluc oneogenesis, Pentose phosphate pathway. Significance of 
 pentose phosphate pathway and regulation. Production of Acetyl -CoA, Reactions of Citric acid 
@@ -1760,14 +1685,11 @@ Text Books
 W.H. Freeman, 2012. 
 2. Jeremy M. Berg, John L. Tymoczko, Lubert Stryer. , Biochemistry, 7th revised 
 International edition, Palgrave MacMillan, 2011. 
- ## Page 61
  FMCD2009 / 2.0 61 
-  BACK 
   Reference Books 
 1. Donald Voet and Judith G. Voet. , Biochemistry, 4th edition, Wiley; , 2010 
 2. Geoffrey L. Zubay, Principles of Biochemistry , Edition: 4th, William C Brown Pub, 
 1999. 
- ## Page 62
  FMCD2009 / 2.0 62 
   Program: Biotechnology Semester: III 
 Course Title: Bioprocess Calculations Course Code: 15EBTF201 
@@ -1801,9 +1723,7 @@ General steady state energy balance Equation.Thermopysics-Enthalpy, Heat capacit
 liquids and gases. Heat capacities of mixture, Thermo chemistry-Heat of combustion, formation 
 and reaction. Effect of temperature on heat of reaction. Definition and significances of NCV 
 and GCV and problems. 10 Hours 
- ## Page 63
  FMCD2009 / 2.0 63 
-  BACK 
   Unit III 
 6a .Stoichiometry of microbial growth and product formation kinetics 
  Introduction and definition of various yield coeffiISAnts. Elemental balances and Degree of 
@@ -1822,7 +1742,6 @@ Reference Books
 Distributors, 2nd edn, 2004. 
 2. J E Bailey and D F Ollis, Biochemical engineering Fundamentals, Mc G rew Hill 
 Publication, 2nd edn, 1986. 
- ## Page 64
  FMCD2009 / 2.0 64 
   Program: Biotechnology Semester: III 
 Course Title: Unit Operations-I Course Code: 17EBTF201 
@@ -1858,9 +1777,7 @@ extraction.
  Concept of Adsorption, Types of Adsorption, Adsorption Isotherms, Applications of Adsorption 
 in Chromatography. 
  03 Hours 
- ## Page 65
  FMCD2009 / 2.0 65 
-  BACK 
   6. Heat transfer 
 Heat transfer: Introduction, Modes of heat transfer: conduction, convec tion and radiation. 
 Conduction: Fourior's law of heat conduction, Thermal conductivity. Steady state heat 
@@ -1887,9 +1804,7 @@ India, 2004
 Reference Books 
 1. George Granger Brown, Unit Operations, 1st , CBS Publishers &Distributors, 2004 
 2. Alan S Foust, Principles of Unit operations, 2nd, John Wiley & Sons, 1980 
- ## Page 66
  FMCD2009 / 2.0 66 
-  BACK 
   Program: Biotechnology Semester: III 
 Course Title: Corporate Communication Course Code: 22EHSH201 
 L-T-P:: 0.5-0-0 Credits:0.5 Contact Hours: 16 
@@ -1915,9 +1830,7 @@ Vocabulary Enhancement Strategies, Root Words in English, Grammar Improvement
 Techniques, Dictionary Usage, Similar and Contradictory Words 
 04 Hours 
 Text Book: NA 
- ## Page 67
  FMCD2009 / 2.0 67 
-  BACK 
   Program: Biotechnology Semester: III 
 Course Title: Microbiology Lab Course Code: 15EBTP201 
 L-T-P:: 0-0-1 Credits:1.0 Contact Hours: 03 
@@ -1947,9 +1860,7 @@ Pearson education Inc, 2012 (ISBN 978-81-317-1437-9).
 Case. Pearson Education (ISBN 978-0-321-56028-5) 
 3. Techniques in Microbiology: A Student Handbook by John M. Lammert. Pearson 
 Education (ISBN 978-0-13-224011-6) 
- ## Page 68
  FMCD2009 / 2.0 68 
-  BACK 
   Program: Biotechnology Semester: III 
 Course Title: Biochemistry Lab Course Code: 15EBTP202 
 L-T-P:: 0-0-1 Credits:1.0 Contact Hours: 02 
@@ -1974,9 +1885,7 @@ Text Books/Reference Books:
 Hill, 1987. 
 2. Sadasivam S and Manickam A.,Biochemical methods.Second edition, New Age 
 International, 2005. 
- ## Page 69
  FMCD2009 / 2.0 69 
-  BACK 
   Program: Biotechnology Semester: III 
 Course Title: Unit Operations-I Lab Course Code: 17EBTP201 
 L-T-P:: 0-0-1 Credits:1.0 Contact Hours: 02 
@@ -1999,7 +1908,6 @@ Text Books/Reference Books:
 Hill, 2005 
 2. C. J. Geankoplis, Transport Proc esses and unit operation s, 4th, Prentice Hall of 
 India, 2004 
- ## Page 70
  FMCD2009 / 2.0 70 
   Program: Biotechnology Semester: IV 
 Course Title: Biostatistics Course Code: 20EMAB210 
@@ -2032,9 +1940,7 @@ studies of statistical designs of biological experiments (RCBD, RBD)
 Introduction, OFAT, 22 and 23 factorial experiments: Data table, Graphical representation, Main 
 and interaction effects, ANOVA Table 
 07 Hours 
-  ## Page 71
  FMCD2009 / 2.0 71 
-  BACK 
   Unit III 
 6. Design of Experiments -2 
 Fractional factorial design, Placket -Burman design, Response Surface Methods -Central 
@@ -2053,7 +1959,6 @@ and Computing, J.Susan Milton, Jesse C Arnold, , 4, TATA Mc-Graw Hill Edition, 2
 Reference Books 
 1. Fundamentals of Mathematical Statistics, Gupta S.C and Kapoor V.K, 11Ed, Sultan 
 Chand & Sons, New Delhi, 2002 
- ## Page 72
  FMCD2009 / 2.0 72 
   Program: Biotechnology Semester: IV 
 Course Title: Immunology Course Code: 15EBTC203 
@@ -2089,9 +1994,7 @@ Treatments. Food allergy, Case study on mechanism of immunity booster.
 5. Immunological disorders 
 Auto immune disorders - Features, important types and Experimental models of auto immune 
 diseases ImmunodefiISAncy Disorders - Types and features. 04 Hours 
- ## Page 73
  FMCD2009 / 2.0 73 
-  BACK 
   6. Transplantation immunology 
 Transplantation antigens - Types and functions, Types of Transplantations, Immunological basis 
 of Graft rejection , and their disease association, Role of HLA in graft rejection, Tumor specific 
@@ -2117,7 +2020,6 @@ Corporation, 2007
 Reference Books 
 1. P .M. Ladyard, Immunology , Bios SISAntific Publishers Ltd , 2000 
 2. Roitt I, Essential Immunology, Blackwell sISAntific Publications. 
- ## Page 74
  FMCD2009 / 2.0 74 
   Program: Biotechnology Semester: IV 
 Course Title: Enzyme Technology Course Code: 17EBTC201 
@@ -2155,9 +2057,7 @@ number; Kcat value, determination of Km and Vmax, Line Weaver Burk plot, Eadie H
 Hanes woolf plot, Importance of Km & Vmax; Enzyme inhibitions - reversible, competitive, 
 uncompetitive and non -competitive inhibitions and kinetics, allosteric and irreversible 
 inhibition. Substrate inhibitions, Multi -substrate reactions -ordered mechanisms, random 
- ## Page 75
  FMCD2009 / 2.0 75 
-  BACK 
   mechanisms, Ping -pong mechanism. Allosteric enzymes and regulation - The Monad - 
 Changeux - Wyman model (MCW) and The Koshland - Nemethy - Filmer (KNF) model, 
 Feedback regulation and covalent regulation. 
@@ -2189,7 +2089,6 @@ Principles of biochemistry., 3, Prentice Hall, 2002
 3. Aehle W , Enzymes in industry- production and applications, 3, Wiley-VCH, 2007 
 4. Nicholas .C. Price and Lewis Stevens, Fundamentals of Enzymology , 3, Oxford 
              University Press , 1991 
- ## Page 76
  FMCD2009 / 2.0 76 
   Program: Biotechnology Semester: IV 
 Course Title: Cell and Molecular Biology Course Code: 15EBTC205 
@@ -2224,7 +2123,6 @@ General features of Transcription process, Types of RNA molecules, Prokaryotic a
 RNA polymerases, Promoter structure and Mechanism of transcription in prokaryotes and 
 eukaryotes, Post transcriptional modifications of mRNA, tRNA and rRNA, Transcriptio n 
 inhibitors. 05 Hours 
- ## Page 77
  FMCD2009 / 2.0 77 
                                                                                                                                             5. Translation 
 Features of Genetic code and Wobble hypothesis, Overview of protein synthesis, Components 
@@ -2257,9 +2155,7 @@ Reverse transcription PCR and Real time PCR. Chemistry of primer synthesis.
 Analyzing Transcription - Northern Blots, RNase protection assay, Reverse Transcription (RT) 
 PCR and Primer extension assay. Transcriptome Analysis - Differential screening and Array 
 based methods. Promoter activity study - Reporter genes and Run -On assays. Translational 
- ## Page 78
  FMCD2009 / 2.0 78 
-  BACK 
   Analysis - Western Blots and 2-D Analysis. 
                                                                                                                                             05 Hours 
 Text Books 
@@ -2271,7 +2167,6 @@ Reference Books:
 1. Instant Notes in Molecular Biology - P .C. Turner, Viva Series Publishing, New Delhi 
 2. Essentials of Molecular Biology - V Malathi, Dorling Kindersley (India) Pvt Ltd, New 
 Delhi (2013). 
- ## Page 79
  FMCD2009 / 2.0 79 
   Program: Biotechnology Semester: IV 
 Course Title: Unit Operations-II Course Code: 17EBTF202 
@@ -2307,9 +2202,7 @@ Filtration, Filter media, Filter aids, factors affecting rate of filtration, spe
 media resistance. Types of filters, Mem brane processes-ultra filtration and microfiltration, 
 Filtration equipment: rotary drum filter, leaf filter . Sedimentation, Kynch theory of 
 sedimentation, Thickener, Numerical problems. 07 Hours 
- ## Page 80
  FMCD2009 / 2.0 80 
-  BACK 
   Unit III 
 6. Mixing and agitation of liquids 
 Mixing and Agitation, Flow patterns in agitated tanks, Mech anism of mixing, Estimation of 
@@ -2330,9 +2223,7 @@ Pearson Education limited 2007.
 2. Principles of Unit operations by Alan S Foust, 2nd edition, John Wiley & Sons, 2005. 
 3. Engineering Fluid Mechanics by K. L. Kumar, 7th edition, Eurasia Publishing house (P) 
 Ltd, 2007. 
- ## Page 81
  FMCD2009 / 2.0 81 
-  BACK 
   Program: Biotechnology Semester: IV 
 Course Title: Problem Solving & Analysis Course Code: 22EHSH202 
 L-T-P:: 0.5-0-0 Credits: 0.5 Contact Hours: 16 
@@ -2365,9 +2256,7 @@ Chand and Sons, New Delhi, 2018
 6. Norman Lewis-Word Power Made Easy, Goyal Publishers 
 7. Cambridge Advanced Learner's Dictionary, Cambridge University Press.Kaplan's GRE 
 guide 
- ## Page 82
  FMCD2009 / 2.0 82 
-  BACK 
   Program: Biotechnology Semester: IV 
 Course Title: Enzyme Technology Lab Course Code: 15EBTP204 
 L-T-P:: 3-0-0 Credits:3.0 Contact Hours: 40 
@@ -2394,9 +2283,7 @@ edition, pp:332.
 Publishers, 2nd edition, pp256. 
 3. Experimental Biochemistry - A Student Companion by Beedu Shashidhar Rao and Vijay 
 Deshpande.(2005) I.K International Pvt. Ltd, New Delhi. pp301 
- ## Page 83
  FMCD2009 / 2.0 83 
-  BACK 
   Program: Biotechnology Semester: IV 
 Course Title: Cell and Molecular Biology Lab Course Code: 15EBTP205 
 L-T-P:: 0-0-1 Credits:1.0 Contact Hours: 02 
@@ -2421,9 +2308,7 @@ Text Books/ Reference Books
 Delhi - 110092, 2013. 
 2. Molecular Cloning Volumes I, II and III - Sambrook J et al (2000) Cold Spring Harbour 
 Laboratory Press, 2000 
- ## Page 84
  FMCD2009 / 2.0 84 
-  BACK 
   Program: Biotechnology Semester: IV 
 Course Title: Unit Operations-II Lab Course Code: 17EBTP202 
 L-T-P:: 0-0-1 Credits:1.0 Contact Hours: 02 
@@ -2445,7 +2330,6 @@ Text Books/ Reference Books:
 Harriott, 7th edition, McGraw-Hill, 2005. 
 2. Transport Processes and Separation Process Principles by C. J. Geankoplis, 4th edition, 
 Prentice Hall of India, 2004. 
- ## Page 85
  FMCD2009 / 2.0 85 
   Program: Biotechnology Semester: V 
 Course Title: Genetic Engineering and Applications Course Code: 15EBTC301 
@@ -2481,7 +2365,6 @@ Introduction to screening and analysis of recombinants. Genetic selection and sc
 methods - Selectable Marker genes, Reporter genes. Screening using Nucleic acid 
 hybridization methods - Preparation of probes for hybridization experiments and different 
 blotting techniques. Screening by PCR b ased methods. Screening by Immunological methods 
- ## Page 86
  FMCD2009 / 2.0 86 
 and Analysis of cloned genes. 
                                                                                                                                    07 Hours 
@@ -2517,14 +2400,11 @@ USA (2009)
 2. Molecular Biotechnology - Principles and applications of Recombinant DNA by 
 Bernard r Glick and Jack J Pasternak, ASM Press, American SoISAty for M icrobiology, 
 Washington DC 2003 
- ## Page 87
  FMCD2009 / 2.0 87 
-  BACK 
   Reference Books: 
 1. Gene Cloning and DNA Analysis by T A Brown. Wiley-Blackwell (2010) 
 2. An Introduction to Genetic Engineering - Third Edn By Desmond S T Nicholl, Cambridge 
 University Press, Singapore 2008. 
- ## Page 88
  FMCD2009 / 2.0 88 
   Program: Biotechnology Semester: V 
 Course Title: Bioinformatics Course Code: 22EBTC301 
@@ -2562,7 +2442,6 @@ terminology, types of phylogenetic trees; fundamentals of phylogenetic models, P
 Data Analysis: Alignment: Building the data m odel, and extraction of phylogenetic data set; 
 Determining substitution models: Models of Substitution Rates Between Bases, Models of 
 Among-Site Substitution Rate Heterogeneity, Models of Substitution Rates Between Amino 
- ## Page 89
  FMCD2009 / 2.0 89 
 Acids; Tree Building methods: Dist ance based methods: Neighbor Joining (NJ) method, Fitch -
 Margoliash (FM) method; Character based methods: Maximum parsimony, Maximum 
@@ -2599,14 +2478,11 @@ Text Books
 1. Andreas D. Baxevanis, B. F. Francis Ouellette, Bioinformatics: A Practical Guide to the 
 Analysis of Genes and Proteins, 3rd, Wiley-Inte, 2005 
 2. David Mount, Bioinformatics: Sequence and Genome Analysis , 2nd, Cold Sprin, 2004 
- ## Page 90
  FMCD2009 / 2.0 90 
-  BACK 
   Reference Books: 
 1. P . Rastogi, N. Mendiritta, S. C. Rastogi, Bioinformatics: Methods and Applications: 
 Genomics, Proteomics and Drug Discovery, 4th, Prentice-H, 2013. 
 2. Anand Solomon K, Molecular Modelling and Drug Design , 1st, MJP Publis, 2015 
-  ## Page 91
  FMCD2009 / 2.0 91 
   Program: Biotechnology Semester: V 
 Course Title: Reaction Engineering Course Code: 15EBTC303 
@@ -2640,9 +2516,7 @@ Non-ideal reactors, residence time distribution studies, Stimulus Response Techn
 and step input response of reactors, RTD's for CSTR and PFR, Relationship between C, E and F-
 curve. Kinetic models for non-Ideal reaction system, Axial Dispersion Model 
                                                                                                                                               04 Hours 
-  ## Page 92
  FMCD2009 / 2.0 92 
-BACK 
   6 Microbial kinetics: 
 Introduction to microbial kinetics, Yield coefficient, Simple kinetic models for microbial growth, 
 transient growth kinetics Factors affecting the kinetics of Monod model; Growth of 
@@ -2666,7 +2540,6 @@ Reference Books:
 2. Biochemical Engineering Fundamentals By Bailey and Ollies McGraw Hill 2nd Edition 
 3. Chemical Reactor Analysis and Design by Forment G F and Bischoff K B. John wiley, 1976 
 4. Chemical engineering By J.F Richardson and J.M Coulson Volume 6 
- ## Page 93
  FMCD2009 / 2.0 93 
   Program: Biotechnology Semester: V 
 Course Title: Biological Thermodynamics Course Code: 15EBTC304 
@@ -2699,9 +2572,7 @@ Entropy - heat capacity relationships, Relationships between C p and Cv,, Activi
 Chemical potential, Oxidation -Reduction reaction, Cell Membrane Transportation & Protein 
 Extraction, Osmosis, Nernst equation in membrane transportation, Numerical problems. 
                                                              08 Hours 
- ## Page 94
  FMCD2009 / 2.0 94 
-  BACK 
   Unit III 
 5. Statistical Thermodynamics 
 Boltzmann distribution & partition function, Protein folding and helix -coil transition, Binding 
@@ -2726,7 +2597,6 @@ edition, McGraw- Hill, 2014.
 1997. 
 3. Chemical and Process Thermodynamics by B.G.Kyle. 3 rd edition, Prentice Hall of India 
 Private limited, 2015. 
- ## Page 95
  FMCD2009 / 2.0 95 
   Program: Biotechnology Semester: V 
 Course Title: Research Methodology Course Code: 15EBTC305 
@@ -2762,9 +2632,7 @@ Regression Development of hypothesis and testing : Chi- square test, Student's t
 6. Design of Experiments 
 Introduction and significance of DOE, Types - Factorial Design, Plackett Burman Design, Central 
 Composite Design, Response Surface Methodology, Design of matrix and analysis, Contour 
- ## Page 96
  FMCD2009 / 2.0 96 
-  BACK 
   plots and response surface plots, QBD principles, Introduction to Artificial Intelligence and its 
 application in biotechnology 
  05 Hours 
@@ -2788,9 +2656,7 @@ Reference Books
 1. Design and Analysis of Experiments by Montgomery D. C. John Wiley Publishers 
 2. An Introduction to Research Methodology by Garg, B.L., Karadia, R., Agarwal, F. and 
 Agarwal, U.K. RBSA Publishers 
- ## Page 97
  FMCD2009 / 2.0 97 
-  BACK 
   Program: Biotechnology Semester: V 
 Course Title: : Arithmetical Thinking and Analytical 
 Reasoning 
@@ -2826,9 +2692,7 @@ New Delhi, 2018
 4. M Tyra, "Magical Book on Quicker Maths", BSC Publications, 2018 
 5. Cambridge Advanced Learner's Dictionary, Cambridge University Press.Kaplan's GRE 
 guide 
- ## Page 98
  FMCD2009 / 2.0 98 
-  BACK 
   Program: Biotechnology Semester: V 
 Course Title: Mini Project Course Code: 15EBTW301 
 L-T-P:: 0-0-3 Credits:3.0 Contact Hours: 09 
@@ -2862,9 +2726,7 @@ Sl. No Phase Marks Review
 4 Final submission 15 Committee 
 3 End Semester Assessment 50 External/Internal 
 Total Marks 100 
-   ## Page 99
  FMCD2009 / 2.0 99 
-  BACK 
   Program: Biotechnology Semester: V 
 Course Title: Genetic Engineering & Immunotechnology Lab Course Code: 15EBTP301 
 L-T-P:: 0-0-1 Credits:1.0 Contact Hours: 02 
@@ -2887,9 +2749,7 @@ Text Books/Reference Books:
 S.D. Primrose ( 2007), Blackwell SISAntific Publications. 
 2. Molecular Cloning - By T.Maniatis, E.F. Fritsch and J. Sambrook, Cold spring Harb our 
 (2009) 
- ## Page 100
  FMCD2009 / 2.0 100 
-  BACK 
   Program: Biotechnology Semester: V 
 Course Title: Bioinformatics Lab Course Code: 22EBTP302 
 L-T-P:: 0-0-1 Credits:1.0 Contact Hours: 02 
@@ -2918,7 +2778,6 @@ Manual; Createspace Independent Pub; Large Print edition (28 September 2015).
 edition (2 July 2018). 
 3. Andreas D. Baxevanis, B. F. Francis Ouellette, Bioinforma tics: A Practical Guide to the 
 Analysis of Genes and Proteins, 3rd, Wiley-Inte, 2005. 
- ## Page 101
  FMCD2009 / 2.0 101 
   Program: Biotechnology Semester: VI 
 Course Title: Bioprocess Engineering Course Code: 15EBTC306 
@@ -2958,9 +2817,7 @@ Logarithmic and arithmetic mean temperature difference, Calculation for heat tra
 coeffiISAnt, applications of design equations, Relationship in between heat transf er, cell 
 concentrations and stirring conditions, Numerical based examples on above. 
 04 Hours 
- ## Page 102
  FMCD2009 / 2.0 102 
-  BACK 
   6. Mass Transfer 
 Mass transfer in Bioprocess: Role of diffusion in bioprocessing, Different equations in 
 mass transfer ( liquid -solid, liqu id-liquid and gas -liquid) , Oxygen uptake in cell culture: 
@@ -2994,7 +2851,6 @@ Reference Books
 1. Michael L. Shuler & Fikret Kargi, Bioprocess Engineering, 2, Prentice Hall, 2001 
 2. Bailey, James E.; Ollis, David F., Biochemica l Engineering Fundamentals, McGraw -Hill 
 Education, 1986 
- ## Page 103
  FMCD2009 / 2.0 103 
   Program: Biotechnology Semester: VI 
 Course Title: Bioprocess Control and Automation Course Code: 23EBTC302 
@@ -3028,9 +2884,7 @@ reduction in case of Servo and Regulatory control systems. Reduction of block di
 single input & Single output systems (SISO) & Multiple Input & Multiple Outp ut Systems 
 (MIMO), Problems on block diagram reduction. 
                                                                                                                                              05 Hours 
-  ## Page 104
  FMCD2009 / 2.0 104 
-BACK 
   5 Block Diagram Reduction (MIMO systems): Analysis of Multiple Input Multiple Output 
 Systems: Introduction to Multiple Input & Multiple Output Systems (MIMO), Examples of 
 MIMO systems. Analysis of MIMO systems considering only one Input at a time while other 
@@ -3051,9 +2905,7 @@ Hill, 1991
 2. Chemical Process Control by George Stephanopoulos, Prentice Hall of India, 1999 
 Reference Books: 
 1. Process Control-Peter Harriott, Tata McGraw-Hill Publishing Company Limited, 2004. 
- ## Page 105
  FMCD2009 / 2.0 105 
-  BACK 
 Program: Biotechnology Semester: VI 
 Course Title: Professional Aptitude and Logical 
 Reasoning 
@@ -3083,9 +2935,7 @@ Chand and Sons, New Delhi
 References: 
 1. Verbal and Non - Verbal Reasoning - Dr. Ravi Chopra, MacMillan India 
 2. Lateral Thinking - Dr. Edward De Bono, Penguin Books, New Delhi 
- ## Page 106
  FMCD2009 / 2.0 106 
-  BACK 
   Program: Biotechnology Semester: VI 
 Course Title: : Industry Readiness & Leadership Skills Course Code: 22EHSH302 
 L-T-P-Self Study: 0.5-0-0 Credits: 0.5 Contact Hours: 16 
@@ -3115,9 +2965,7 @@ References:
 3. William Strunk, E B White - The Elements of Style, Pearson 
 4. John Maxwell - The 17 Essential Qualities of a Team Player, HarperCollins Leadership 
            Robin Ryan - 60 Seconds and You're Hired! - Penguin Books 
- ## Page 107
  FMCD2009 / 2.0 107 
-  BACK 
   Program: Biotechnology Semester: VI 
 Course Title: Minor Project Course Code: 15EBTW302 
 L-T-P:: 0-0-6 Credits:6.0 Contact Hours: 18 
@@ -3151,9 +2999,7 @@ Sl. No Phase Marks Review
 4 Final submission 15 Committee 
 5 End Semester Assessment 50 External/Internal 
 Total Marks 100 
-   ## Page 108
  FMCD2009 / 2.0 108 
-  BACK 
   Program: Biotechnology Semester: VI 
 Course Title: Bioprocess Engineering Lab Course Code: 23EBTP303 
 L-T-P:: 0-0-1.5 Credits:1.5 Contact Hours: 03 
@@ -3182,9 +3028,7 @@ Resources Institute, TERI.
 3. Pauline M. Doran, Bioprocess Engineering Principles, 2, Academic Press, 2013. 
 Stanbury & Whittaker, Principles of Fermentation Technology, Butterworth-Heinemann; 
 3rd edition (14 September 2016) 
- ## Page 109
  FMCD2009 / 2.0 109 
-  BACK 
   Program: Biotechnology Semester: VI 
 Course Title: Bioprocess Control & Reaction Engineering 
 Lab 
@@ -3213,7 +3057,6 @@ Text Books/Reference Books:
 1. Process System analysis and control by Donald R Coughnowr, 2 nd Edn.Mc Graw 
 Hill, 1991 
 2. Chemical Process Control by George Stephanopoulos, Prentice Hall of India, 1999 
-  ## Page 110
  FMCD2009 / 2.0 110 
   Program: Biotechnology Semester: VI 
 Course Title: Bio Analytical Techniques Course Code: 19EBTE301 
@@ -3246,9 +3089,7 @@ chromatography, molecular exclusion chromatography, affinity chromatography, Hig
 performance liquid chromatography & UPLC- Principles, Methods, Instrumentation, Detectors, 
 Analysis of data. 
 08 Hours 
-  ## Page 111
  FMCD2009 / 2.0 111 
-  BACK 
   5. Electrophoretic techniques 
 Theory & application of polyacrylamide & Agarose gel electroph oresis for protein & nucleic 
 acids, capillary electrophoresis, pulsed field gel electrophoresis, Iso -electric focusing, 2D -gel 
@@ -3272,7 +3113,6 @@ Reference Books
 CBS Publishers & Distributors, 2004 
 2. Chatwal and Anand, Instrumental methods for chemical analysis, Himalaya Publishing 
 house, 2012 
- ## Page 112
  FMCD2009 / 2.0 112 
   Program: Biotechnology Semester: VI 
 Course Title: Bioprocess Plant Design and Economics Course Code: 18EBTE301 
@@ -3308,9 +3148,7 @@ rental costs etc.)
 4. Bioprocess Economics: 
  Economic analysis for the production of following Products.( Historical Perspective, 
  Fermentation Technology, Recovery of product and process economics of following 
- ## Page 113
  FMCD2009 / 2.0 113 
-  BACK 
   products) 
  High volume, low value products. (Citric acid, Ethanol and Amino acids etc) 
  Medium volume, medium value products.( Antibiotics, Crude Enzymes and Vitamins 
@@ -3338,7 +3176,6 @@ Reference Books:
 2. Backhurst, J.R And Harker, J. H - Process Plant Design, Heieman Educational Books, (1973). 
 3. Biochemical Engineering Fundamentals, James E Baily David F Oillis. McGraw -Hill 2 nd 
 International Edition 
- ## Page 114
  FMCD2009 / 2.0 114 
   Program: Biotechnology Semester: VI 
 Course Title: Insilco Modeling and Drug Design Course Code: 15EBTE302 
@@ -3374,9 +3211,7 @@ Receptor, Structure construction in the case of Unknown Receptor Structure. Scop
 Limitation Points for Consideration in Structure Methods, Handling of X Ray Structure of 
 Protein, Future Perspectives, Types of programs available fo r molecular modeling scope and 
 limitations-interpretation of results. 11 Hours 
- ## Page 115
  FMCD2009 / 2.0 115 
-  BACK 
   Unit III 
 5. Computer Assisted Drug Discovery-Part-I. 
 The Drug Development Process, Introduction, The Discovery and Development Process, New 
@@ -3397,7 +3232,6 @@ Reference Books:
 1. M.Michael Gromiha, Protein Bioinformatics- From Sequence to Function. Academic 
 press 2010 
 2. Branden C.and Tooze R.Introcuction of Protein structure, Garland 1993 
- ## Page 116
  FMCD2009 / 2.0 116 
   Program: Biotechnology Semester: VI 
 Course Title: Bioprocess Modeling and Simulation Course Code: : 18EBTE302 
@@ -3429,9 +3263,7 @@ Reactor, Simulation of Plug flow reactor.
   4. Introduction to Process Design: 
 Steps involved in proces s design, Process flow diagram structure and hierarchical approach, 
 importance of Material and Energy balance, selection of unit operations, 05 Hours 
- ## Page 117
  FMCD2009 / 2.0 117 
-  BACK 
   Unit III 
 5. Introduction to process simulation software 
 Bioprocess design with exam ple: Process Description, Specifying Process Sections, Specifying 
@@ -3454,7 +3286,6 @@ Reference Books:
 MATLAB®", Massachusetts Institute of Technology, Cambridge University press 2007 
 edition. 
 2. Bailey and Ollis, "Biochemical Engineering Fundamentals", 2 nd ed.,McGraw Hill, 1986. 
- ## Page 118
  FMCD2009 / 2.0 118 
   Program: Biotechnology Semester: VI 
 Course Title: Structural Biology Course Code: : 22EBTE301 
@@ -3491,9 +3322,7 @@ replication. Tertiary structure of DNA and tRNA.
                                                                                                                                           11 Hours 
 4. Structures of Biomembranes 
  Structure and conformational properties of cell membranes, Singer and Nicholson model, 
- ## Page 119
  FMCD2009 / 2.0 119 
-  BACK 
   integral proteins in membrane s, conformational variations during ion transport, signal 
 transduction and molecular reception (qualitative). 
                                                                                                                                          04 Hours 
@@ -3520,7 +3349,6 @@ Reference Books
 Freeman. 2008 
 3. Introduction to Protein Structure by Carl Branden and John Tooze 2 nd edition, Garland 
 publishing Co. 1999. 
- ## Page 120
  FMCD2009 / 2.0 120 
   Program: Biotechnology Semester: VI 
 Course Title Clinical Biotechnology Course Code: : 23EBTE303 
@@ -3553,9 +3381,7 @@ clinical registries, clinical research institutes, Data Management, clinical res
 pharmaceutical industry perspective. Bioassay methods and their significance in drug 
 development. Concept of pharmacovigilance. 
                                                                                                                                 15 Hours 
-                                                                                                                                                                                       ## Page 121
  FMCD2009 / 2.0 121 
-  BACK 
   Unit III 
 4. Clinical research governance and ethics 
 Brief History of Clinical Research: Sulphanilamide Traged y, Thalidomide Disaster, Nazi 
@@ -3579,7 +3405,6 @@ publications.
 Reference Books: 
 1. Basic & clinical Pharmacology by Bartram G. Katzung, Mc Graw Hill. 
 2. Biopharmaceuticals, biochemistry and biotechnology by Gary Walsh, Wiley Pub 
- ## Page 122
  FMCD2009 / 2.0 122 
   Program: Biotechnology Semester: VII 
 Course Title: Downstream Processing Technology Course Code: 22EBTC401 
@@ -3615,9 +3440,7 @@ concentration and applied electric field
 4. Enrichment operations 
 Precipitation methods with salts (salti ng-in and salting -out), organic solvents, polymers, 
 isoelectric precipitation. Extraction methods for separation: Reversed micellar extraction and 
- ## Page 123
  FMCD2009 / 2.0 123 
-  BACK 
   Aqueous two -phase extraction, Supercritical extraction; In situ product removal / integrated 
 bio-processing, SDS PAGE: determination of molecular weight of unknown protein. Numerical. 
 08 Hours 
@@ -3642,7 +3465,6 @@ Reference Books:
 1. BIOTOL, Product Recovery in Bioprocess Technology, VCH, 1990 
 2. Shuler and Kargi , Bioprocess Engineering , Prentice Hall, 1992 
 3. Asenjo J. and Dekker M, Separation Processes in Biotechnology , 1993 CRC Press 
- ## Page 124
  FMCD2009 / 2.0 124 
   Program: Biotechnology Semester: VII 
 Course Title: Bioprocess Equipment Design Course Code: 24EBTC402 
@@ -3674,9 +3496,7 @@ Heat exchangers: Steps involved in the design, Energy balance, LMTD, Tubing char
 Tube side heat transfer coefficient, baffle spacing, shell si de heat transfer coefficient, Fouling, 
 Overall heat transfer coefficient, Tube side & shell side Pressure drop Calculations. 
                                                                                                                                            09 Hours 
-  ## Page 125
  FMCD2009 / 2.0 125 
-  BACK 
   Unit - III 
 3. Equipment qualification & Validation 
 Design qualification, FAT (factory acceptance test), Site acceptance test, Commissioning, 
@@ -3699,7 +3519,6 @@ Reference Books:
 edition, Standard publishers distributors. 
 2. Introduction to chemical equipment design by B. C. Bhattacharyya, 1 st e-book edition, 
 CBS Publishers & distributors, 2018 
- ## Page 126
  FMCD2009 / 2.0 126 
   Program: Biotechnology Semester: VII 
 Course Title: CIPE & EVS Course Code: 15EHSA401 
@@ -3739,9 +3558,7 @@ liability in engineering. Bhopal Gas Tragedy, Titanic case.
 05 Hours 
 8. Intellectual Property Rights 
 03 Hours 
- ## Page 127
  FMCD2009 / 2.0 127 
-  BACK 
   9. Ethical perspectives of professional bodies 
 Ethical perspectives of professional bodies- IEEE, ASME, NSPE and ABET, ASCE etc. 03 Hours 
 Unit - III 
@@ -3763,7 +3580,6 @@ References
 1. Durga Das Basu, "Introduction to the Constitution of India", Prentice-hall EEE, 2001 
 2. Mike Martin and Ronald Schinzinger, "Ethics in Engineering", Tata McGraw -Hill 
 Publications. 
-  ## Page 128
  FMCD2009 / 2.0 128 
   Program: Biotechnology Semester: VII 
 Course Title: Senior Design Project Course Code: 20EBTW401 
@@ -3802,9 +3618,7 @@ Review committee:
 Review committee is formed by the project coordinator taking into consideration each 
 review committee has faculty experts of all the domains. Review committee consists of the 
 guide of the respective project group also. 
- ## Page 129
  FMCD2009 / 2.0 129 
-  BACK 
   Review: 
  In semester assessment (ISA) will be done by the respective guides/review committee as 
 per the rubrics. 
@@ -3820,9 +3634,7 @@ Sl. No Phase Marks
 4. Final submission phase 20 
 5. End Semester Assessment- External review 50 
 TOTAL 100 
-   ## Page 130
  FMCD2009 / 2.0 130 
-  BACK 
   Program: Biotechnology Semester: VII 
 Course Title: Downstream Processing Technology Lab Course Code:23EBTP401 
 L-T-P:: 0-0-1 Credits:1.0 Contact Hours: 02 
@@ -3848,9 +3660,7 @@ LIMITED; 2009
 Wei-Shou Hu; WILEY INDIA PVT. LTD.-NEW DELHI; 2011 
 3. Separation Processes in Biotechnology; Juan A. Asenjo; CRC Press (28 June 1990). 
 Protein Purification : Principles and Practice; Robert K Scopes; Springer; 2010 December 
- ## Page 131
  FMCD2009 / 2.0 131 
-  BACK 
   Program: Biotechnology Semester: VII 
 Course Title: Mammalian Cell Culture Techniques Lab Course Code:23EBTP402 
 L-T-P:: 0-0-1 Credits:1.0 Contact Hours: 02 
@@ -3874,7 +3684,6 @@ Freshne, John Wiley & Sons, 2016, Seventh edition.
 2. Animal Cell Culture - Practical Approach, Ed. John R.W. Masters, OXFORD, Third 
 edition, 
 2000. 
-  ## Page 132
  FMCD2009 / 2.0 132 
   Program: Biotechnology Semester: VII 
 Course Title: Research experience for undergraduates 
@@ -3915,9 +3724,7 @@ Review-1 15 Guide/s
 Review-2 15 Guide/s 
 Review-3 20 Committee 
 2 Review-4 25 Guide/s 
- ## Page 133
  FMCD2009 / 2.0 133 
-  BACK 
   (Seventh 
 Semester) 
   Review-5 25 Committee 
@@ -3925,7 +3732,6 @@ Semester)
 Report 50 Guide/s 
 Viva-voce 50 External 
 Total 200 
-    ## Page 134
  FMCD2009 / 2.0 134 
   Program: Biotechnology Semester: VII 
 Course Title: Industrial Biotechnology Course Code: 20EBTE401 
@@ -3964,9 +3770,7 @@ bag bioreactor, Perfusion system- single use reactor and Open raise ponds, photo
 Process integration in product recovery, large scale refolding of therapeutic proteins, advanced 
 membrane technology, Chromatography: column quantification and validation, AKTA purifier, 
 reversed micellar technique for bio separation Single use technology in purification. 05 Hours 
- ## Page 135
  FMCD2009 / 2.0 135 
-  BACK 
   Unit III 
 7. Fermentation monitoring and control: 
 On-line and off -line monitoring instruments, Bioprocess modeling for control, Estimation 
@@ -3986,7 +3790,6 @@ Publication.
 1. D.Lanch, Drew, Wang, Comprehensive Biotechnology-Volume 3, Elsevier Publication. 
 2. George T. Austin, Nicholas Basta; Shreves Chemical Process Industries Handbook; 
 McGraw Hill Professional, 1998 
- ## Page 136
  FMCD2009 / 2.0 136 
   Program: Biotechnology Semester: VII 
 Course Title: Food Processing Technology Course Code:15EBTE402 
@@ -4018,9 +3821,7 @@ Processing,
  04 Hours 
   5. Thermal Processing of Foods 
 Heat processing using steam or water, Blanching, Pasteurization, Heat Sterilization, 
- ## Page 137
  FMCD2009 / 2.0 137 
-  BACK 
   Evaporation, Distillation, Extrusion and Canning. dielectric heating, ohmic and infrared heating. 
 Dehydration, Intermediate Moisture Foods, Baking and Roasting, Heat processing using hot 
 oils- Frying. 
@@ -4048,7 +3849,6 @@ Distributing Co, Lucknow, UP , 2006
 Reference Books: 
 1. Ramaswamy H & Marcotte M. Food P rocessing: Principles and Applications . Taylor & 
 Francis. 2006 
- ## Page 138
  FMCD2009 / 2.0 138 
   Program: Biotechnology Semester: VII 
 Course Title: Environmental Biotechnology Course Code:22EBTE401 
@@ -4086,9 +3886,7 @@ bioremediation of aromati c and aliphatic hydrocarbons, PCB dechlorination, immo
 techniques for bioremediation, biosorption & bioaccumulation, bioaugmentation and 
 biostimulation genetic engineering of microbes for bioremediation. Phytoremediation -plants 
 capable of assimil ating heavy metals. Bioleaching using microbes, role of Thiobacilli, direct & 
- ## Page 139
  FMCD2009 / 2.0 139 
-  BACK 
   indirect bioleaching, copper extraction by leaching, dump leaching. 
 07 Hours 
 Unit III 
@@ -4115,7 +3913,6 @@ Reference Books
 1. Ozcan Konur, Bioenergy and Biofuels, 1st edition, CRC press, 2018. 
 2. P . Rajendran, P . Gunasekaran, Microbial Bioremediation, 1 st edition, Mjp Publishers, 
 2011 
- ## Page 140
  FMCD2009 / 2.0 140 
   Program: Biotechnology Semester: VII 
 Course Title: Quality Assurance & Regulations Course Code:18EBTE403 
@@ -4150,9 +3947,7 @@ Limits of detection (LOD) and quantification (LOQ), Minimum detectable amount (M
 Sample stability and method robustness, System suitability, Statistical process control for HPLC, 
 Troubleshooting out-of-control systems, Case studies, Validation of Analytical Methods. 
  06 Hours 
- ## Page 141
  FMCD2009 / 2.0 141 
-  BACK 
   Unit III 
  5. Quality Standards 
 Introduction, ISO 9000 Series of Standards, Management Responsibility, Quality System, 
@@ -4175,7 +3970,6 @@ James Agalloco (Ed.), Marcel Dekker, 2008.
 2. Validation Standard Operating Procedures: A Step by Step Guide for Achieving 
 Compliance in the Pharmaceutical, Medical Device, and Biotech Industries , Syed Imtiaz 
 Haider, Saint Lucie Press, 2004. 
- ## Page 142
  FMCD2009 / 2.0 142 
   Program: Biotechnology Semester: VII 
 Course Title: Process Safety & Risk management in 
@@ -4217,9 +4011,7 @@ Introduction to safe handling radioactive materials, Personal Protective Equipme
 Clothing, Precautions for Using Radioactive Material, Radioactive Materials Safe Work 
 Practices, Fume Hoods and Biosafety Cabinets, Good Laboratory Practices , Radiation Safety 
 Committee (RSC). 05 Hours 
- ## Page 143
  FMCD2009 / 2.0 143 
-  BACK 
   5. Risk Assessment 
 Risk Management, evaluating and analyzing risks associated with those hazards, actions to 
 eliminate the hazards, Risk Matrix, Acceptable risks and safety priorities, co st of saving a life, 
@@ -4254,7 +4046,6 @@ Reference Books:
 Publisher. 
 2. What Went Wrong? Case Histories of Process Plant Disasters: How They Could Have 
 Been Avoided. By Kletz T. 5th Edition. Butterworth-Heinemann Publisher. 
- ## Page 144
  FMCD2009 / 2.0 144 
   Program: Biotechnology Semester: VII 
 Course Title: Plant and Animal Biotechnology Course Code:15EBTE403 
@@ -4289,9 +4080,7 @@ microscopy, DNA content analysis, Enzyme activity and Antigenic markers. Contami
 cell culture - sources, monitoring and erad ication of contamination Cryopreservation and 
 transportation. 
   04 Hours 
-                                                                                               ## Page 145
  FMCD2009 / 2.0 145 
-  BACK 
 5. Animal Cell culture Scale up and Automation 
 Introduction to scale up and automation. Scale up in suspension culture: Continuous culture, 
 Scale & complexities, Mixing & Aeration. Scale up in Monolayer culture: Multi surface 
@@ -4327,7 +4116,6 @@ Reference Books:
 Ltd, New Delhi 2013. ISBN - 978-81-203-4677-2 
 2. Culture of Animal Cells - A Manual of Basic Technique by R. Ian Freshney A John Wiley 
 & Sons, Inc., Publication New York (2000) 
- ## Page 146
  FMCD2009 / 2.0 146 
   Program: Biotechnology Semester: VII 
 Course Title: Biopharmaceuticals Course Code:24EBTE404 
@@ -4363,9 +4151,7 @@ techniques.
 The cytokines (Interleukins & Interferons), haemopoetic growth factors (erythropoietin), 
 hormones of therapeutic interest (insulin & glucagon), preservation and clinical use of blood 
 products, therapeutic enzymes, monoclonal & polyclonal antibodies, vaccines and vaccine 
- ## Page 147
  FMCD2009 / 2.0 147 
-  BACK 
   technology (with appropriate case studies), gene and cell therapy: recent developments. 
 Sustained drug release, targeted therapy, role of nanotechnology in drug delivery, Novel Drug 
 Delivery Systems. 
@@ -4395,7 +4181,6 @@ Pasternak.3rd edition, 2002, Pub: Panima Books.
 Pub: ASM Press. 
 3. Biopharmaceuticals: An Industrial perspective. Authors: Gary Walsh & Brendan Murphy. 
 2009. Pub: Spring Books. 
- ## Page 148
  FMCD2009 / 2.0 148 
   Program: Biotechnology Semester: VII 
 Course Title: Genomics and Proteomics Course Code:15EBTE405 
@@ -4431,9 +4216,7 @@ function relationship. Different approaches for proteomics studies and their app
 5. Proteome separation and Purification 
 Proteome extraction and purification. Separation of Proteins - ion-exchange, size exclusion and 
 affinity chromatography techniques, 1 -D by Isoelectric focusing, 2 -D by SDS -PAGE. Protein 
- ## Page 149
  FMCD2009 / 2.0 149 
-  BACK 
   Identification- Edman degradation, Mass Spectrometry, MALDI -TOF, Electrospray ionization, 
 Peptide mass fingerprinting. 
                                                                                                                                             08 Hours 
@@ -4457,7 +4240,6 @@ S.C. Rastogi, N. Mendiratta and P . Rastogi. PHI Learning Private Limited, delhi
 Reference Books: 
 1. Introduction to Genomics- Arthur Lesk. Oxford University & Cell Press 
 2. Principles of Proteomics by R M Twyman BIOS Scientific Publishers 2004 
- ## Page 150
  FMCD2009 / 2.0 150 
   Program: Biotechnology Semester: VII 
 Course Title: Bioethics, Safety & IPR Course Code:20EBTE403 
@@ -4489,9 +4271,7 @@ of state governments; GM labeling - Food Safety and Standards Authority of India
 biohazard, Biosafety levels,. Risk analysis and assessme nt, Containment levels -physical, 
 biological containments,. Good manufacturing practice and Good lab practices (GMP and GLP).
                                                                    05 Hours 
- ## Page 151
  FMCD2009 / 2.0 151 
-  BACK 
   Unit III 
 6. Intellectual Property rights : Introduction to history of GATT, WTO, WIPO and TRIPS; 
 variety protection, Traditional knowledge, breeders rights, Geographical indications, 
@@ -4509,7 +4289,6 @@ Text Books:
 Reference Books: 
 1. Bioethics & Biosafety - R. Rallapalli & Gita Bali, APH publication, 2007 
 2. Safety considerations for Biotechnology-Paris, OECD publications 
- ## Page 152
  FMCD2009 / 2.0 152 
   Program: Biotechnology Semester: VII 
 Course Title: Vaccine Technology Course Code:21EBTE401 
@@ -4546,9 +4325,7 @@ downstream (chromatography) of active substances. Vaccine formulation (liquid an
 lyophilization). Use of additives/adjuvants/stabilizers. Vaccine safety and efficacy of vaccines 
 (in vitro an d in vivo). cGMP implementation in the production of safe vaccines. Case study of 
 vaccine manufacturing: HBV and polio vaccine 09 Hours 
- ## Page 153
  FMCD2009 / 2.0 153 
-  BACK 
   Unit III 
 5. Policies, ethical considerations and Regulatory affairs of vaccines. 
 Regulation and testing of vaccines, Regulation of vaccines in developing countries, Role and 
@@ -4571,7 +4348,6 @@ Reference Books:
 1. Vaccine Development and Manufacturing. Emily P. Wen (Editor), Ronald Ellis (Editor), 
 Narahari S. Pujar (Editor). 
 2. Vaccines & Vaccine Technologies. Jose Ronnie Vasconcelos 
- ## Page 154
  FMCD2009 / 2.0 154 
   Program: Biotechnology Semester: VIII 
 Course Title: Biological Data Analysis Course Code:18EBTE402 
@@ -4610,9 +4386,7 @@ Data Types, Control Structures, Vectors, Factors, Functions, Matrices, Arrays an
 Interfacing R to other languages, Parallel R, Basic Statistics: Linear Model, Generalized Linear 
 Models, Non-linear models, Time Series, Autocorrelation and Clustering. 
 05 Hours 
- ## Page 155
  FMCD2009 / 2.0 155 
-  BACK 
   Unit III 
  7. Introduction to Bioconductor for Sequence Data: 
 Sequencing Resources, Ranges Infrastructure, DNA /amino acid sequence from FASTA files, 
@@ -4632,7 +4406,6 @@ sons, New York
 Reference Books: 
 1. A Little Book of R for Bioinformatics: by Avril Coghlan, Release 0.1 
 2. Das. M.M. and Giri N.C. : - Design and Analysis of Experiments 
- ## Page 156
  FMCD2009 / 2.0 156 
   Program: Biotechnology Semester: VIII 
 Course Title: Genomic Data Analysis Course Code:21EBTE402 
@@ -4663,9 +4436,7 @@ alignment, BLAST algorithm, DNA assembly.
 Introduction, working with sequence, sequence objects, sequence alignment, reading genomic 
 sequence files. 
 05 Hours 
- ## Page 157
  FMCD2009 / 2.0 157 
-  BACK 
   Unit III 
 6. Introduction to Galaxy software 
 Introduction, galaxy platform, working with genomic data, creation of work flow, annotation, 
@@ -4688,7 +4459,6 @@ Reference Books:
 Hoboken, N.J.: WileyBlackwell, 2010. 
 2. Statistical Bioinformatics with R. Academic Press, 2010. 
 3. Genome Data Analysis, Ju Han Kim, 2019, Springer Singapore 
- ## Page 158
  FMCD2009 / 2.0 158 
   Program: Biotechnology Semester: VIII 
 Course Title: Bio-business & Entrepreneurship Course Code:20EBTE402 
@@ -4726,9 +4496,7 @@ report; Network Analysis; Errors of Project Report; Project Appraisal. Identific
 opportunities: Market Feasibility Study; Technical Feasibility Study; Financial Feasibility Study 
 & Social Feasibility Study. 
                                                                                                                                       10 Hours 
- ## Page 159
  FMCD2009 / 2.0 159 
-  BACK 
   Unit-III 
 5. Startup Schemes 
 Building Biotech business challenges in Indian context -biotech partners (BIRAC, DBT, 
@@ -4751,7 +4519,6 @@ Reference books
 1. Management Fundamentals - Concepts, Application, Skill Development - Robers Lusier 
 - Thomson 
 2. Project Management for Business & Technology, Nicholas, PHI. 
- ## Page 160
  FMCD2009 / 2.0 160 
   Program: Biotechnology Semester: VIII 
 Course Title: Phytochemicals and Herbal Products Course Code:22EBTE403 
@@ -4784,9 +4551,7 @@ Extraction and characterization techniques, Cold extraction, hot extraction, Sox
 Solvents: Petroleum ether, chloroform, ethanol, water, Separation techniques: TLC, colum, 
 HPLC, Characterization techniques: UV spectra, IR specta, GC/MS, HPTLC. 
 08 Hours 
- ## Page 161
  FMCD2009 / 2.0 161 
-  BACK 
   Unit III 
 5. Herbal Products and regulation 
 History, Scope, and Current aspects of herbs and herbal medicines; Preparation of standardized 
@@ -4814,7 +4579,6 @@ Reference Books:
 1. R Amjesh , Bioinformatics in Drug Discovery from Medicinal Plants , LAP Lambert 
 Academic Publishing, 2018. 
 2. Shao Li, Network Pharmacology Kindle Edition, Springer, 2021. 
- ## Page 162
  FMCD2009 / 2.0 162 
   Program: Biotechnology Semester: VIII 
 Course Title: Industrial Waste Management Course Code:19EBTO401 
@@ -4849,9 +4613,7 @@ Unit III
 5. Bioremediation 
 Introduction, Uses of bacteria for biore mediation, bioremediation of aromatic and aliphatic 
 hydrocarbons, PCB dechlorination, immobilization techniques for bioremediation, biosorption 
- ## Page 163
  FMCD2009 / 2.0 163 
-  BACK 
   & bioaccumulation, genetic engineering of microbes for bioremediation. Phytoremediation -
 plants capable of assimilating heavy metals. 
   05 Hours 
@@ -4866,9 +4628,7 @@ Kogakusha, Ltd.
 Reference Books: 
 1. Basic Biotechnology by Colin Ratledge, Cambridge Pub. 2001 
 2. Air Pollution - M.N.Rao and H.V.N Rao.Tata Mc Grew Hill. 
- ## Page 164
  FMCD2009 / 2.0 164 
-  BACK 
 Program: Biotechnology Semester: VIII 
 Course Title: Capstone Project Course Code:20EBTW402 
 L-T-P:: 0-0-11 Credits:11.0 Contact Hours: 03 
@@ -4904,7 +4664,6 @@ Sl. No Phase Marks Review
 4 Final submission phase 20 Committee 
 5 ESA 50 External 
 TOTAL 100 
-   ## Page 165
  FMCD2009 / 2.0 165 
   Program: Biotechnology Semester: VIII 
 Course Title: Internship-training Course Code:18EBTI493 
@@ -4933,9 +4692,7 @@ suitable industry for student internships. The selection of an industry depends 
 several criteria like, reputation of the company, establishment and stability, products & 
 research focus, infrastructure and instrumentation facilities that could be provided for 
 interns, kind of projects that could be offered to students, student learning 
- ## Page 166
  FMCD2009 / 2.0 166 
-  BACK 
   opportunities etc. After studying the industry, the industry is recommended by 
 coordinator for approval by the department head and members of committee. 
 Justification is provided by the coordinator on suitability of the company. Well 
@@ -4954,7 +4711,6 @@ feedback is collected from the students after the completion of the internship t
 understand the industry requirements and gaps. 
 4. Development- Based on the feedback from guides and students, the department is 
 involved in strengthening the gaps and meeting the industry requirements. 
- ## Page 167
  FMCD2009 / 2.0 167 
   Program: Biotechnology Semester: VIII 
 Course Title: Internship-Project Course Code:20EBTW494 
@@ -4985,9 +4741,7 @@ research focus, infrastructure and instrumentation facilities that could be prov
 interns, kind of projects that could be offered to students, student learning 
 opportunities etc. After studying the industry, the industry is recommende d by 
 coordinator for approval by the department head and members of committee. 
- ## Page 168
  FMCD2009 / 2.0 168 
-BACK 
   Justification is provided by the coordinator on suitability of the company. Well 
 established industries and start up's are preferred for student internships. The 
 department approved industry list is sent for consent approval to the university. The 
@@ -5003,4 +4757,4 @@ the form of valuable feedback from the indu stry guides. The internship experien
 feedback is collected from the students after the completion of the internship to 
 understand the industry requirements and gaps. 
 4. Development- Based on the feedback from guides and students, the department is 
-involved in strengthening the gaps and meeting the industry requirements. 
+involved in strengthening the gaps and meeting the industry requirements.

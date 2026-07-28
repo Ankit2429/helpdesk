@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 532imguf_UGComputerScienceEngineeringDCPreport"
+title: "Ugcomputerscienceengineeringdcpreport"
 category: "miscellaneous"
 subcategory: ""
 document_type: "notice"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["computer", "document", "faculty", "research", "science", "students"]
 aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE", "KLETech", "KLE Tech", "BVB", "BVBCET"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "33"
 ---
-# PDF Document: 532imguf_UGComputerScienceEngineeringDCPreport
- **PDF Source:** https://www.kletech.ac.in/Uploads/image/532imguf_UGComputerScienceEngineeringDCPreport.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/Uploads/image/532imguf_UGComputerScienceEngineeringDCPreport.pdf
  Program Name : Computer Science and Engineering Discipline: Engineering & Technology
 Level : Under Graduate Tier: 1
 Application No: 11860 Date of Submission: 20-05-2026
@@ -47,7 +47,6 @@ NATIONAL BOARD OF ACCREDITATION
 Data Capturing Points of the Program Applied for NBA Accreditation- Tier I/II UG (Engineering) Institute Programs
 6/30/26, 12:59 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=558 1/33
- ## Page 2
  10 Engineering & TechnologyUG Computer Science andEngineering (Artificial Intelligence)2021 -- Computer Science andEngineering (Artificial Intelligence)
 11 Engineering & Technology PG Design Engineering2020 -- Mechanical Engineering
 12 Engineering & TechnologyUG Electrical & ElectronicsEngineering 2015 -- Electrical and ElectronicsEngineering
@@ -72,7 +71,6 @@ B1. Provide the Required Information for the Program Applied For:
 Table No. B1: Program details.A. List of the Programs Offered by the Department:
 6/30/26, 12:59 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=558 2/33
- ## Page 3
  Sr. No.PROGRAM NAME
 PROGRAM APPLIED LEVEL
 YEAR OF START /YEAR OF CLOSED SANCTIONED INTAKE INCREASE/DECREASEINTAKE (if any)YEAR OFINCREASE/DECREASECURRENTINTAKE
@@ -100,7 +98,6 @@ Sanctioned Intake for Last Five Years for the Computer Science and Engineering (
 B2. Detail of Head of the Department for the program under consideration:
 6/30/26, 12:59 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=558 3/33
- ## Page 4
  A. Name of the HoD : Dr. Vijayalakshmi M.
 B. Nature of appointment: Regular
 C. Qualification: Ph.D
@@ -131,7 +128,6 @@ B6. Academic Performance of the First-Year Students of the Program
 Table No.B6.1: Academic Performance of the First-Year Students of the Program.
 6/30/26, 12:59 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=558 4/33
- ## Page 5
  Academic Performance CAYm1( 2024-25 ) CAYm2( 2023-24 ) CAYm3 ( 2022-23 )
 Mean of CGPA or mean percentage of all successful students(X) 8.22 8.20 8.22
 Y=Total no. of successful students 276.00 295.00 307.00
@@ -167,7 +163,6 @@ PART C: Faculty Details in Department and Allied Departments
 (Data to be filled in for the Department and Allied Departments)
 6/30/26, 12:59 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=558 5/33
- ## Page 6
  C1. Faculty details of Department and Allied Departments
 Table No.C1: Faculty details in the Department for the past 3 years including CAY
 Sr.NoName of theFaculty PAN No.HighestdegreeUniversityArea ofSpecialization
@@ -210,7 +205,6 @@ VisvesvarayaTechnologicalUniversity, Belagavi
 Wireless MeshNetwork 08/09/200124.8 LecturerProfessor01/03/2023RegularYes No
 6/30/26, 12:59 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=558 6/33
- ## Page 7
  10 Dr. PadmashreeDesai XXXXXXX63NPh.D
 Jawaharlal NehruTechnologicalUniversity, Hyderabad
 ImageProcessing16/08/200718.9 AssistantProfessorProfessor01/03/2023RegularYes No
@@ -245,7 +239,6 @@ VisvesvarayaTechnologicalUniversity, Belagavi
 Computer Science andEngineering21/06/201213.10 AssistantProfessorAssistantProfessor RegularYes No
 6/30/26, 12:59 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=558 7/33
- ## Page 8
  22 Dr. GuruprasadKonnurmathXXXXXXX29GPh.D
 KLETechnologicalUniversity, Hubballi
 HighPerformanceComputing09/04/20215.1 AssistantProfessorAssistantProfessor RegularYes No
@@ -282,7 +275,6 @@ VisvesvarayaTechnologicalUniversity, Belagavi
 Computer Science andengineering23/07/201411.9 AssistantProfessorAssistantProfessor RegularYes No
 6/30/26, 12:59 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=558 8/33
- ## Page 9
  34 Ms. NehaTarannum XXXXXXX42RM.Tech
 VisvesvarayaTechnologicalUniversity, Belagavi
 Computer Science andEngineering01/08/2011 14.9 LecturerAssistantProfessor RegularYes No
@@ -318,7 +310,6 @@ VisvesvarayaTechnologicalUniversity, Belagavi
 Computer Science andEngineering24/03/199828.1 LecturerAssociateProfessor01/11/2011 RegularYes No
 6/30/26, 12:59 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=558 9/33
- ## Page 10
  45 Ms. Aruna S.Nayak XXXXXXX50DM.Tech
 VisvesvarayaTechnologicalUniversity, Belagavi
 DigitalElectronics10/08/200718.9 AssistantProfessorAssociateProfessor01/11/2011 ContractualFulltimeYes No
@@ -354,7 +345,6 @@ VisvesvarayaTechnologicalUniversity, Belagavi
 Computer Science andEngineering01/01/20242.4 AssistantProfessorAssistantProfessor RegularYes No
 6/30/26, 12:59 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=558 10/33
- ## Page 11
  56 Mrs Swati M.Sajjan XXXXXXX21RM.Tech
 VisvesvarayaTechnologicalUniversity, Belagavi
 Computer Science andEngineering01/9/20250.6 AssistantProfessorAssistantProfessor RegularYes No
@@ -389,7 +379,6 @@ VisvesvarayaTechnologicalUniversity, Belagavi
 Computer Science andEngineering01/08/20232.9 AssistantProfessorAssistantProfessor RegularYes 15/02/2025No
 6/30/26, 12:59 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=558 11/33
- ## Page 12
  Table No.C2: Faculty details of Allied Departments for the past 3 years including CAY.
 Sr.NoName of theFaculty PAN No.
 APAARfacultyID*(ifany)
@@ -432,7 +421,6 @@ VisvesvarayaTechnologicalUniversity, Belagavi
 Computer Science andengineering25/10/20232.6 AssistantProfessorAssistantProfessor ContractualFulltimeYes No
 6/30/26, 12:59 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=558 12/33
- ## Page 13
  10 Ms.Jyothi MPatil XXXXXXX85MNA M.Tech
 VisvesvarayaTechnologicalUniversity, Belagavi
 Networking andinternetEngineering30/08/20241.8 AssistantProfessorAssistantProfessor RegularYes No
@@ -458,7 +446,6 @@ UG2.D 66 66 0
 UG2: Computer Science and Engineering (Artificial Intelligence)324 261 132
 6/30/26, 12:59 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=558 13/33
- ## Page 14
  Description CAY(2025-26) CAYm1 (2024-25) CAYm2 (2023-24)
 PG1.A 18 18 24
 PG1.B 18 24 24
@@ -492,7 +479,6 @@ Required RF3 Available AF3
 2024-25 7.00 10.00 14.00 5.00 42.00 41.00
 6/30/26, 12:59 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=558 14/33
- ## Page 15
  2023-24 6.00 9.00 12.00 2.00 38.00 36.00
 Average RF1=6.67 AF1=9.33 RF2=13.33 AF2=3.67 RF2=41.33 AF2=40.00
 C5. Visiting/Adjunct Faculty/Professor of Practice
@@ -515,7 +501,6 @@ Dr. UmaM Dr. Meena S. M., Dr.Sujatha C E&C, CSE Digital Creation to Enable Gamif
       Amount received(Rs.):63.89
 6/30/26, 12:59 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=558 15/33
- ## Page 16
  (CAYm3)
 PI Name Co-PI names ifany Name of the Dept., where project issanctioned Project Title* Name of the Fundingagency Duration of theproject Amount(Lacs)i.e. 15, 25, 000=15.25
 Dr. SatyadhyanChickerur CSE Meity-Qcal-QSDL-DiabeticRetinopathy (Meity)MeiTY 2 yr 15.88
@@ -539,7 +524,6 @@ C9. Institution Seed Money or Internal Research Grant to its Faculty for Researc
 Table No. C9.1: List of faculty members received seed money or internal research grant from the Institution.
 6/30/26, 12:59 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=558 16/33
- ## Page 17
  (CAYm1)
 Faculty name Project title/ Support forActivity Duration of theproject Amount(Lacs)i.e. 15, 25, 000=15.25
 AmountUtilized(Lacs)i.e. 15, 25, 000=15.25Outcomes of the project
@@ -575,7 +559,6 @@ DMS 42 hrs/weShrinath KattimaniAsst. InstructorDiploma in ECE
 DMS/System SPrabhavati HiremathAsst. InstructorDiploma in CSE
 6/30/26, 12:59 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=558 17/33
- ## Page 18
  3 Laboratory- 03 40
 
 Desktop - Core i3 processor, 8GB DDR3 RAM, 500 GB HDD (44), LCD Projector (01) Code blocks Nodej.js, VisualCodeLogisimJavaJdkPythonOracleCloud
@@ -614,7 +597,6 @@ Electronic / Microcontroller Lab • All electronic equipment and microcontrolle
 D3. Project Laboratory/Research Laboratory
 6/30/26, 12:59 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=558 18/33
- ## Page 19
  List of project laboratory/research laboratory/Centre of Excellence.
 S.N. Name of the Laboratory
 1 Centre for Artificial Intelligence Research(CAIR)
@@ -625,7 +607,6 @@ The Centre for AI Research (CAIR) at KLE Technological University, Hubballi, is 
 CAIRs founding objectives are:
 6/30/26, 12:59 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=558 19/33
- ## Page 20
  To develop multi-objective optimized algorithms and models with a focus on system and architectural aspects of edge AI computing for vision-based applications in Industrial automation.To develop algorithms and software tools specifically designed for high-performance computing environments involving multi-core processors, accelerators (GPUs or FPGAs), and specialized HPC systems.To develop AI-based algorithms and systems for acquiring, integrating, and analysing medical information to extract knowledge for healthcare applications and research.
 The centres proposed objectives have since been expanded to reflect its evolving research portfolio:
 Develop scalable and efficient algorithms and models that optimise system and architectural considerations for AI-based solutions across vision, speech, and text domains.Advance computational modelling, medical AI, genomics, drug discovery, and healthcare innovations through interdisciplinary solutions for global health challenges.
@@ -647,7 +628,6 @@ A formal collaborative research programme between CAIR (KLETech, Hubballi) and J
 Key operational decisions include adoption of DICOM images and FHIR/HL7 standards, a standardised data collection process using direct capture and departmental repositories, and a formal AI protocol to be sharedacross all technical teams. A JNMC Principals Circular dated 7 April 2026 authorises data sharing with KLETech subject to permissions from the Principal, Medical Director, and the Institutional Ethics Committee.
 6/30/26, 12:59 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=558 20/33
- ## Page 21
  2. 5 CAIR-CARR Collaborative Research (AI in Intelligent Industrial Automation)
 CAIR is engaged in a formal collaborative research programme with the Centre for Automation and Robotics Research (CARR) at KLETech. Key outcomes include confirmation that company-sponsored solutiondevelopment may be aligned with the CAIR-CARR research track, and the assignment of one PhD candidate each from CAIR and CARR to the collaborative research programme.
 3. Industry Collaborations and MoUs
@@ -670,7 +650,6 @@ AI-Driven Smart Industrial Automation and Real-Time Process Monitoring System (D
 AI-Driven Hardware-Agnostic Edge Intelligence and Industrial Vision Inspection Framework (Magna International): A hardware-agnostic edge AI framework enabling AI/ML deployment across diverse hardwareaccelerators (GPU, DSP, NPU) for accurate and scalable quality inspection.
 6/30/26, 12:59 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=558 21/33
- ## Page 22
  4. Student and faculty engagement details
 4. 1 Faculty and Research Scholar Composition
 CAIR operates with a structured research hierarchy: Senior Research Group (SRG), Early Research Group (ERG), External Research Scholars (ERS), and Industry/Research Engagement Fellows (IREF). The currentteam composition is as follows.
@@ -692,7 +671,6 @@ Eleven faculty pairs from JNMC (clinical domain experts) and KLETech (AI/technic
 The following eleven projects have been approved and are currently in progress under the CAIR-JNMC collaborative framework:
 6/30/26, 12:59 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=558 22/33
- ## Page 23
  Sl.Project Title JNMC LeadKLETech Lead(s)
 1 Micromitra: A Chatbot forMicrobiology CourseDr. SheetalHarakuni Srinivas Desai, V S Hombalimath
 2
@@ -719,7 +697,6 @@ Blockchain-Enabled De-Identified Digital Health AssetRepository SupportingFedera
 Dr. Iranna HittalmaniSatyadhyan Chickerur
   6/30/26, 12:59 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=558 23/33
- ## Page 24
  5. 2 Publications and Patents
 The following table summarises the publication and patent output of CAIR, comparing current performance against targets.
   Year JournalPublicationsConferencePublicationsPatents Filed /Granted
@@ -737,13 +714,11 @@ Partner: DANA India
 Integrated AI platform for real-time monitoring, predictive maintenance, anomaly detection, and data-driven process optimisation.
 6/30/26, 12:59 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=558 24/33
- ## Page 25
  C) AI-Driven Hardware-Agnostic Edge Intelligence and Industrial Vision Inspection Framework
 Partner: Magna International
 Hardware-agnostic edge AI framework enabling AI/ML deployment across diverse hardware accelerators (GPU, DSP, NPU) for accurate and scalable quality inspection.
 6/30/26, 12:59 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=558 25/33
- ## Page 26
  6. Workshops, Technical Events, and Training Programs
 A) MED-AI Hackathon - Innovate. Collaborate. Impact.
 May 2026 | KLE Technological University, Hubballi
@@ -752,7 +727,6 @@ CAIR organised and hosted the MED-AI Hackathon, bringing together students and r
 2026 | KLE Centenary Convention Centre, JNMC Campus, Belagavi
 6/30/26, 12:59 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=558 26/33
- ## Page 27
  Two student researchers (Mr. Keshava Mahaek K H - CAIR) and (Mr. Shashank Joshi - CEVI) presented e-posters at the Digital Health Day 2026 symposium held at JNMC, Belagavi. The presentations reflected workcarried out under the CAIR/CEVI-JNMC collaborative research programme and covered AI-driven clinical applications including multimodal AI for venous disease assessment and neuroscience-based signal analysis.The presentations demonstrated the research maturity of CAIR/CEVI -affiliated students and marked a significant milestone for UG-level AI research at KLETech.
 C) AI Workshop - AROKSCON 2026 National Radiology Conference
 Saturday, 16 May 2026 | KLE Centenary Convention Centre, JNMC Campus, Belagavi
@@ -761,7 +735,6 @@ Prof. Satyadhyan Chickerur, Director, CAIR, was invited as a speaker and worksho
 Prof. Satyadhyan Chickerur, Director, CAIR, was invited as a speaker and workshop facilitator at AROKSCON 2026 - the national conference of the Association of Radiologists of Karnataka - held on Saturday, 16 May2026 at the KLE Centenary Convention Centre, JNMC Campus, Belagavi. The workshop, titled AI Workshop: Algorithms to Action, included a session on Practical Prompt Engineering for Clinicians at 8:50 AM. Prof.Chickerur addressed a packed auditorium of radiology professionals, covering hands-on AI concepts applicable to clinical workflows. The session generated significant interest in AI-radiology collaboration and CAIRsbroader research agenda.
 6/30/26, 12:59 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=558 27/33
- ## Page 28
  6. 4 GPU Programming and AI Workshops (Prior Cycles)
 CAIR has previously conducted multi-day faculty development programmes (FDPs) and workshops in GPU programming and AI, including AISSMS FDP and similar programmes covering PyTorch, TensorFlow, CNNs, semantic segmentation, 3D point cloud processing, computational chemistry with RDKit, model optimisation, and deployment. These programmes have been delivered across multiple institutions.
 7. Achievements, Recognitions, and Notable Outcomes
@@ -770,7 +743,6 @@ Eleven AI research projects formally approved and launched under the CAIR-JNMC c
                                                                                                                                             Centre of Excellence in Visual Intelligence (CEVI)
   6/30/26, 12:59 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=558 28/33
- ## Page 29
  Centre for Visual Intelligence (CEVI) at KLE Tech focuses on providing visual intelligence-based solutions to real-world problems. Research involves generative tasks like restoration in different scenarios, synthetic imagegeneration, and discriminative tasks like classification, object detection/ tracking, & semantic segmentation on both 2D and 3D data. CEVI focuses on the development of new computational methods and their innovativeapplications to interpret the problems in the areas of Digital Heritage, Agriculture, and Smart Manufacturing and also demonstrates/ presentations through Extended Reality.
 1: Objectives
 To facilitate institute-industry collaborations and form advisory groups.To foster interdisciplinary research towards collaborations with leading international research centers working towards socio-technical goals.To develop products through special interest groups and elevate to commercialization by setting up start-ups.
@@ -789,7 +761,6 @@ MetaQuest3 :02Work Stations: 06NAS(40TB) : 01Mac miniI PAD proMac Books: 03Orbbe
 Learning Representation of 2D Data 
 6/30/26, 12:59 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=558 29/33
- ## Page 30
  Transforming 2D data into formats suitable for utilizationEfficient analysis and interpretation of this informationimage classification, object recognition, and image segmentation
  Image Restoration and Enhancement
 Underwater Image Restoration and EnhancementPhysics based lowlight Image EnhancementImage Denoising, Debluring, Dehazing, Color normalization.
@@ -815,7 +786,6 @@ Minor 23 83 23 88 15 59
 SDP 8 23 10 35 20 77
 6/30/26, 12:59 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=558 30/33
- ## Page 31
  Internship 5 5 7 7
 TotalStudentsEngaged 209 232 - 204
    7: Projects, publications, patents, internships, and funded research supported by the lab.
@@ -838,7 +808,6 @@ Q3 6 7 2 6 0
 Q4 6 3 5 6 0
 6/30/26, 12:59 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=558 31/33
- ## Page 32
  NA 0 0 8 2 1
 Total 22 18 24 16 16
  8: Workshops, technical events, and training programs conducted
@@ -865,7 +834,6 @@ Items Budgeted in 2025-26Actual Expenses in2025-26 till Budgeted in 2024-25Actua
 Infrastructure Built-Up275000000.00266400332.26292200000.00337836058.50320300000.00275490296.08226000000.00272900679.00
 6/30/26, 12:59 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=558 32/33
- ## Page 33
  Library 10800000.0011640291.79 11600000.009771428.06 8100000.00 6934858.90 6550000.00 6684290.00
 Laboratory equipment77000000.0070298745.00 40000000.0042923569.00 30000000.0042637137.00 60000000.0045115063.00
 Teaching and non-teaching staff salary 583700000.00573446030.00561500000.00551937567.00512840000.00498123229.00508167243.00486223533.00

@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: Faculty-Conclave-2019-converted"
+title: "Faculty Conclave 2019 Converted"
 category: "faculty"
 subcategory: ""
 document_type: "syllabus"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["based", "blended", "conclave", "converted", "document", "faculty", "learning", "patil", "vijayalakshmi"]
 aliases: ["HOD", "Head of Department"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "3"
 ---
-# PDF Document: Faculty-Conclave-2019-converted
- **PDF Source:** https://www.kletech.ac.in/pdf/Faculty-Conclave-2019-converted.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/Faculty-Conclave-2019-converted.pdf
      Earlier known as 
         B.V.B College of Engineering and Technology 
    Faculty Conclave- 2022 
@@ -55,7 +55,6 @@ Shrishail P, Basawaraj Patil, Nalini Iyer
 enhance students learning outcome during 
 pandemic situation 
 A.M. Hunashyal, Roopa AK 
-  ## Page 2
      Earlier known as 
         B.V.B College of Engineering and Technology 
 10 Course Portfolio with Industry-Institute 
@@ -85,7 +84,6 @@ questions through post -tests in ensuring
 student learning 
 Unnati Koppikar, Vijayalakshmi M, Poornima 
 Mohanachandran, Dr. Ashok. Shettar 
-   ## Page 3
      Earlier known as 
         B.V.B College of Engineering and Technology 
 17 Peer-Mentoring in design projects in a 
@@ -107,5 +105,4 @@ Nandish Humbi, Preeti Patil, Vijayalakshmi M
 for Food Processing Technology Course 
 Using Tool box 
 Shivalingsarj Desai, Veeranna Hombalimath, 
-Laxmikant Patil, Anil Shet 
- 
+Laxmikant Patil, Anil Shet

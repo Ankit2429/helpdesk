@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 09-bachelor-of-electronics-engg-vlsi-curriculum-structure-and-content-2023-27"
+title: "Electronics Engineering (VLSI Design & Technology) Curriculum"
 category: "academics"
 subcategory: ""
 document_type: "syllabus"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["bachelor", "content", "curriculum", "design", "document", "electronics", "engg", "engineering", "structure", "technology"]
 aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "ECE", "EC", "EEE", "EE"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "143"
 ---
-# PDF Document: 09-bachelor-of-electronics-engg-vlsi-curriculum-structure-and-content-2023-27
- **PDF Source:** https://www.kletech.ac.in/pdf/09-bachelor-of-electronics-engg-vlsi-curriculum-structure-and-content-2023-27.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/09-bachelor-of-electronics-engg-vlsi-curriculum-structure-and-content-2023-27.pdf
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -26,12 +26,10 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 1 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  1 
   Curriculum Structure and Curriculum Content for the Academic Batch - 2023-27 
 School /Department: Electrical & Electronics 
 Program: Electronics Engineering (VLSI Design & Technology) 
-  ## Page 2
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -43,7 +41,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 2 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  2 
   Table of Contents 
 Curriculum Structure-Overall .................................................................................. 3 
@@ -59,7 +56,6 @@ Semester- VIII .................................................................
 List of Open Electives ............................................................................................ 13 
 List of Program Electives ...................................................................................... 13 
 Curriculum Content- Course wise ...................................................................... 174 
-  ## Page 3
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -71,7 +67,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 3 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  3 
 Curriculum Structure-Overall 
 Semester Total Program Credits: 180 
@@ -180,7 +175,6 @@ Training
 Internship- 
 Project 
 (25EVTW494) 
- ## Page 4
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -192,7 +186,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 4 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  4 
 (0-0-11) 
 Basic Electrical 
@@ -261,7 +254,6 @@ PCL3: LIC Lab
     ARM 
 Microcontroller Lab 
 (24EVTP204) 
- ## Page 5
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -273,7 +265,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 5 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  5 
   ES2: Microcontroller 
 Architecture & 
@@ -295,7 +286,6 @@ Analytical
 Reasoning 
 (23EHSA303) 
   Credits 21 23 25 25 25 23 21 17 
-  ## Page 6
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -307,7 +297,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 6 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  6 
 Curriculum Structure-Semester wise 
 Semester - I 
@@ -327,7 +316,6 @@ ES 0-0-3 3 6 80 20 100 3 hrs
 Innovation HSS 0-1-1 2 4 80 20 100 3 Hrs 
 7 15EHSH101 Professional Communication HSS 1-1-0 2 3 50 50 100 3 Hrs 
 Total 15-3-4 22 31 440 260 700 
- ## Page 7
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -339,7 +327,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 7 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  7 
  Semester - II 
   No Code Course Category L-T-P Credits Contact 
@@ -359,7 +346,6 @@ ES 0-0-3 3 6 80 20 100 3 Hrs
 6 22EMEF101 Basic Mechanical Engineering ES 2-1-0 3 4 50 50 100 3 Hrs 
 7 21EPHP101 Applied Physics Lab BS 0-0-1 1 2 80 20 100 3 Hrs 
 TOTAL 13-2-7 22 29 410 290 700 
- ## Page 8
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -371,7 +357,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 8 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  8 
 Semester- III 
 No Code Course Category L-T-P Credits Contact 
@@ -392,7 +377,6 @@ Circuits Lab
 PC 0-0-1 1 2 
 80 20 100 2 hours 
 9 24EVTF201 ES 2-0-1 3 4 50 50 100 2 hours 
- ## Page 9
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -404,7 +388,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 9 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  9 
   24EVTF205 
  Microcontroller Architecture & 
@@ -414,7 +397,6 @@ solving (Dip)
 0-0-2 2 4 
 80 20 
 TOTAL 22-0-3 25 36 590 310 900 
- ## Page 10
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -426,7 +408,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 10 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  10 
 Semester- IV 
 No Code Course Category L-T-P Credits Contact 
@@ -449,7 +430,6 @@ BS 4-0-0 4 4
 9 24EVTP204 ARM Microcontroller Lab PC 0-0-1 1 2 80 20 100 2 hours 
 10 23EVTF203 Data Structure Applications Lab 
   ES 0-0-2 2 4 80 20 100 2 hours 
-  ## Page 11
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -461,14 +441,12 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 11 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  11 
   11 
   24EVTF206 
 Problem Solving with Data Structure 
 (Diploma) 0-0-3 3 6 
      TOTAL 20-0-5 25 34 640 360 1000 
- ## Page 12
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -480,7 +458,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 12 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  12 
 Semester- V 
 No Code Course Category L-T-P Credits Contact 
@@ -505,7 +482,6 @@ Analytical Reasoning
 Audit 0-0-0 Audit 1 
 100 -- 100 3 hours 
 TOTAL 15-0-8 23 34 580 320 900 
- ## Page 13
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -517,7 +493,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 13 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  13 
 Semester- VI 
   No Code Course Category L-T-P Credits Contact 
@@ -540,7 +515,6 @@ HC 3-0-0 3 3 50 50 100 3 hours
 Leadership Skills 
 ES 0-0-0 Audit 1 25 75 100 3 hours 
 TOTAL 13-0-11 24 33 485 315 800 
- ## Page 14
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -552,7 +526,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 14 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  14 
 Semester- VII 
   No Code Course Category L-T-P Credits Contact 
@@ -568,7 +541,6 @@ Duration
 6 24EVTW401 P3: Senior Design Project PW 0-0-6 6 12 50 50 100 3 hours 
 7 15EHSC402 CIPE & EVS M 2-0-0 Audit 2 50 50 100 3 hours 
 TOTAL 15-0-6 21 29 350 350 700 
- ## Page 15
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -580,7 +552,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 15 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  15 
 Semester- VIII 
 Semester I II III IV V VI VII VIII Total 
@@ -601,7 +572,6 @@ And
 OR 
 4 24EVTW402 Project Work PRJ 0-0-11 11 22 50 50 100 3 hours 
 TOTAL 6-0-11 17 28 150 150 300 
- ## Page 16
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -613,7 +583,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 16 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  16 
 List of Program Electives VI 
 Sr. No Name of the Course Course Code 
@@ -623,7 +592,6 @@ Sr. No Name of the Course Course Code
 24EVTE303 
 4. Advanced IC packaging 24EVTE304 
 5. Automotive Electronics 24EVTE305 
-  ## Page 17
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -635,7 +603,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 17 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  17 
 Curriculum Content- Course wise 
   Program: Electronics Engineering (VLSI Design & Technology) Semester: I 
@@ -672,7 +639,6 @@ Unit III
 (a) Introduction to Initial Value problems. Linear and Bernoulli's equations, Exact equations and 
 reducible to exact form, Numerical solution to Initial Value problems -Euler's method, Modified 
 Euler's method and Runge-Kutta method 
- ## Page 18
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -684,7 +650,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 18 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  18 
 (b) Applications of first order differential equations -Orthogonal trajectories growth and decay 
 problems, mixture problems, Electrical circuits, falling bodies. 
@@ -696,7 +661,6 @@ Reference Books:
 2009. 
 2. Thomas Calculus, George B Thomas, Pearson India, 12ed, 2010 
   Back to Semester I 
-  ## Page 19
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -708,7 +672,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 19 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  19 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: I 
 Course Title: Engineering Chemistry Course Code: 22ECHB102 
@@ -748,7 +711,6 @@ Introduction, physical and chemical properties of silicon, metallurgical grade s
 of silicon; chemical vapor deposition (CVD) process, zone refining process. Crystal growth: 
 preparation of single crystal silicon by Czhochralski crystal pulling technique and numerical 
 problems. Crystal slicing and wafer preparation; Fabrication process: thermal oxidation, 
- ## Page 20
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -760,7 +722,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 20 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  20 
 diffusion, ion implantation, numerical problems, epitaxial growth, masking, photolithography; 
 wet etching and dry etching. 
@@ -797,7 +758,6 @@ Wiley and Sons, 2007, New York.
 10. Instrumental Methods of Chemical Analysis, 5 th edition, Gurdeep R Chatwal, Sham K 
 Anand, Himalaya Publishing House, Pvt. Ltd, 2010, Mumbai. 
   Back to Semester I 
- ## Page 21
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -809,9 +769,7 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 21 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  21 
-  ## Page 22
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -823,7 +781,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 22 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  22 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: I 
 Course Title: Engineering Mechanics Course Code: 15ECVF101 
@@ -865,7 +822,6 @@ Deformation of a bar due to force acting on it. Law of super position. Stresses 
 & varying cross sections. Composite sections. Problems connected to above topics. 
 Unit III 
 7. Centroid of Plane Figures 
- ## Page 23
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -877,7 +833,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 23 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  23 
 Introduction, Definition, Methods of determining the centroid, axis of reference, axis of 
 symmetry, Locating the centroid of simple plane figures (triangle, semicircle, quadrant of a circle 
@@ -905,7 +860,6 @@ Publishing Company, New Delhi, 2017
 4Ed., Prentice-Hall of India Pvt. Ltd, New Delhi, 2005 
 5. Ramamrutham, S., Engineering Mechanics, Dhanpat Rai Publishing Co., New Delhi, 2016 
   Back to Semester I 
-  ## Page 24
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -917,7 +871,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 24 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  24 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: I 
 Course Title: Problem Solving with Data Structures Course Code: 18ECSP102 
@@ -950,7 +903,6 @@ Text Books
 3. B.A. Forouzan, R.F. Gilberg, A Structured Program Approach Using C, 3ed, CENGAGE 
 Learning, 2008. 
 Back to Semester I 
-  ## Page 25
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -962,9 +914,7 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 25 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  25 
-   ## Page 26
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -976,7 +926,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 26 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  26 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: I 
 Course Title: Design Thinking for Social Innovation Course Code: 20EHSP101 
@@ -1056,7 +1005,6 @@ on "How to build youir
 Creative Confidence by 
 David Kelley - IDEO 
 Founder) 
-  ## Page 27
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -1068,7 +1016,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 27 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  27 
 (Confusion is the Welcome 
 doormat at the door of Creativity) 
@@ -1134,7 +1081,6 @@ Holders
 respective templates 
 with the help of sample 
 case study 
- ## Page 28
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -1146,7 +1092,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 28 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  28 
 (Examples on Fluoroscent 
 Curtain and Students' 
@@ -1208,7 +1153,6 @@ management
 management 
 Structure building 
 games 
- ## Page 29
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -1220,7 +1164,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 29 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  29 
 PEER REVIEW 
   4. 0 Implementation 
@@ -1272,7 +1215,6 @@ respective templates
 with the help of sample 
 case study 
   Back to Semester I 
-  ## Page 30
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -1284,9 +1226,7 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 30 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  30 
-   ## Page 31
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -1298,7 +1238,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 31 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  31 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: I 
 Course Title: Basic Electrical Engineering Course Code: 18EEEF101 
@@ -1338,7 +1277,6 @@ ELCB and Relays, Lockout and Tagout, Electrical Codes and Standards.
 Batteries: 
 Basics of lead acid batteries, Lithium Ion Battery , Battery storage capacity, Coulomb efficiency, 
 Numerical of high and low charging rates, Battery sizing. Numericals. 
- ## Page 32
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -1350,7 +1288,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 32 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  32 
 Text Books 
 1. Hughes, Electrical & Electronic Technology, 8th , Pearson Education, 2001 
@@ -1366,7 +1303,6 @@ Measurement Systems, 3rd, Tata McGraw Hill Education Private Limited, New Delhi.
 2005 
 3. Vincent Del Toro, Electrical Engineering Fundamentals, 2nd edition Prentice Hall India 
 Back to Semester I 
-  ## Page 33
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -1378,7 +1314,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 33 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  33 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: I 
 Course Title: Professional Communication Course Code: 15EHSH101 
@@ -1405,7 +1340,6 @@ Reference Books:
 2. Raymond Murphy - Intermediate English Grammar, Cambridge University Press 
 3. Martin Hewings- Advanced English Grammar, Cambridge University Press. 
   Back to Semester I 
-  ## Page 34
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -1417,9 +1351,7 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 34 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  34 
-  ## Page 35
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -1431,7 +1363,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 35 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  35 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: II 
 Course Title: Multivariable calculus Course Code: 18EMAB102 
@@ -1468,7 +1399,6 @@ Reference Books:
 1. Calculus Single and Multivariable, Hughues-Hallett Gleason, Wiley India Ed, 4ed, 2009. 
 2. Thomas Calculus, George B Thomas, Pearson India, 12ed, 2010 
 Back to Semester II 
-  ## Page 36
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -1480,7 +1410,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 36 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  36 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: II 
 Course Title: Engineering Physics Course Code: 22EPHB101 
@@ -1520,7 +1449,6 @@ Vector operations: gradient, divergence and curl. Vector integrals, Gradient, Gr
 theorem. 
 Electric Fiel ds: Properties of electric charges, charging objects by induction, Coulomb 's law, 
 Analysis Model: Particle in a electric field, electric field of a continuous charge distribution, 
- ## Page 37
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -1532,7 +1460,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 37 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  37 
 electric field lines motion of a charged particle in a uniform electric fiel d, Gauss's Law: Electric 
 flux, Gauss's law, application of Gauss's law to various charge distributions. 
@@ -1564,7 +1491,6 @@ Norosa Publishing House (1998).
 3. David. J. Griffith, 'Introduction to Electrodynamics' 3rd edition, Pearson prentice Hall, 1999. 
 4. Ben G Streetman, Solid State Electronic Devices, Prentice Hall, 1995 
 Back to Semester II 
- ## Page 38
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -1576,7 +1502,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 38 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  38 
   Program: Electronics Engineering (VLSI Design & Technology) Semester: II 
 Course Title: C Programming for Problem solving Course Code: 18ECSP101 
@@ -1613,7 +1538,6 @@ Text Books
 1. R.G.Dromey, How to Solve it by Computer, 1ed, PHI, 2008. 
 2. Yashvant Kanetkar, Let us C ,15th ed, BPS Publication, 2016. 
 Reference Books: 
- ## Page 39
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -1625,14 +1549,12 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 39 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  39 
 1. B W Kernighan, D M Ritchie, The Programming language C, 2ed, PHI, 2004. 
 2. B S Gottfried, Programming with C, 2ed, TMH, 2006. 
 3. B.A. Forouzan, R.F. Gilberg, A Structured Program Approach Using C, 3ed, CENGAGE 
 Learning, 2008. 
 Back to Semester II 
-   ## Page 40
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -1644,7 +1566,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 40 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  40 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: II 
 Course Title: Engineering Exploration Course Code: 22ECRP101 
@@ -1680,7 +1601,6 @@ Introduction to sustainability, Sustainability leadership, Life cycle assessment
 Course Project 
 Reviews 
 Back to Semester II 
-   ## Page 41
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -1692,7 +1612,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 41 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  41 
   Program: Electronics Engineering (VLSI Design & Technology) Semester: II 
 Course Title: Basic Electronics Course Code: 18EECF101 
@@ -1730,7 +1649,6 @@ amplifier, Non inverting amplifier, Voltage follower, Integration, Differentiati
 Subtractor, ZCD and Comparator. 
 Unit III 
 Chapter 6: Communication Systems: 
- ## Page 42
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -1742,7 +1660,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 42 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  42 
 Basic block diagram of communication system, types of modulation. Amplitude modulation: 
 Time-Domain description, Frequency-Domain description. Generation of AM wave: square law 
@@ -1765,7 +1682,6 @@ Engineering for SISAntist and Engineers, 2, New Age International Publishers, 20
 4. BoylesteadNashelsky, Electronic devices & Circuit theory, Prentice Hall India, 2000 
 5. RamakantGaikawad , Operational Amplifiers & applications, PHI, 2000 
   Back to Semester II 
-  ## Page 43
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -1777,7 +1693,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 43 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  43 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: II 
 Course Title: Basic Mechanical Engineering Course Code: 22EMEF101 
@@ -1816,7 +1731,6 @@ Text Books
 Edition, Cengage Learning, 2013 
 2. K.R. Gopalkrishna, Sudhir Gopalkrishna, S.C. Sharma, A Text Book of Elements of 
 Mechanical Engineering, 30th Edition, Subhash Publishers, Bangalore, 2010 
- ## Page 44
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -1828,7 +1742,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 44 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  44 
 3. Dr. N. Krishnamurthy, Dr. H. S. Manohar, Mr. Sagar M. Baligidad, Elements of Mechanical 
 Engineering, First Edition, Sunstar Publisher, 2014 
@@ -1837,7 +1750,6 @@ Reference Books:
 Vol I & II, 11th edition, Media Promoters and Publishers, 2001 
 2. Roger Timings, Basic Manufacturing, Third edition, Newnes, An imprint of Elsevier, 2010 
   Back to Semester II 
-  ## Page 45
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -1849,7 +1761,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 45 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  45 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: II 
 Course Title: Applied Physics lab Course Code: 21EPHP101 
@@ -1871,7 +1782,6 @@ filters.
 OPEN ENDED EXPERIMENT 
 Realization of a ± 5/12V regulated power supply 
 Back to Semester II 
-  ## Page 46
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -1883,7 +1793,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 46 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  46 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: III Semester 
 Course Title: Integral transforms and Statistics Course Code: 15EMAB203 
@@ -1915,7 +1824,6 @@ Fourier representation of non-periodic signals, Magnitude and phase spectra. Pro
 Transform: Linearity, Symmetry Properties, Time shift, Frequency Shift, Scaling, Time differential 
 differentiation coefficients, Time domain Convolution, Multiplication Theorem, Parseval's theorem 
 and Examples on these properties. 
-  ## Page 47
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -1927,7 +1835,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 47 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  47 
 Unit III 
 Chapter 6: Random Process: 
@@ -1949,7 +1856,6 @@ Applications for Engineering and the Computing Sciences, 4 th edition, TATAMcGra
 Edition, 2017 
 3. Ian Glover & Peter Grant, Digital Communications, 3rd edition, Pearson 2009. 
   Back to Semester III 
-  ## Page 48
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -1961,7 +1867,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 48 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  48 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: III 
 Course Title: Corporate Communication Course Code: 24EHSA201 
@@ -1987,7 +1892,6 @@ Reference Books:
 2. Norman Lewis - Word Power Made Easy, Goyal Publishers 
 3. Cambridge Advanced Learner's Dictionary, Cambridge University Press. 
   Back to Semester III 
-  ## Page 49
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -1999,7 +1903,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 49 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  49 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: III Semester 
 Course Title: Circuit Analysis Course Code: 23EVTC201 
@@ -2034,7 +1937,6 @@ diagrams, Frequency response characteristics, Polar plots R-C, R -L circuits as 
 integrator models, time and frequency domain responses R -C, R-L circuits as Lo w pass and high 
 pass filters 
 [ Text 2: Chapter 5, Text 1: Chapter 8, 9, 10] 
- ## Page 50
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -2046,7 +1948,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 50 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  50 
   Unit III 
 Chapter No. 7. Higher order circuits 
@@ -2066,7 +1967,6 @@ Eighth edition ,2013
 2. V. K. Aatre, ―Network Theory and Filter Design, 3rd edition, New Age International Private 
 Limited, 2014 
   Back to Semester III 
-  ## Page 51
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -2078,7 +1978,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 51 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  51 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: III Semester 
 Course Title: Analog Electronic Circuits Course Code: 23EVTC202 
@@ -2114,7 +2013,6 @@ MOSFET circuits at DC continued. Biasing MOSFET circuits: By fixing VGS, By fixi
 to gate feedback resistor, Constant current source biasing, Application of MOSFET as a switch. Large 
 signal operation, operation as a linear amplifier and numericals. (T1:4.3) 
   Chapter 5: MOSFET amplifiers and Introduction to FinFET Technology 
- ## Page 52
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -2126,7 +2024,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 52 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  52 
 Small signal operation and its equivalent model of MOSFET. Application of MOS as single stage 
 amplifiers. Derivation of CS, CG and CD amplifiers parameters and its comparison. Implications on 
@@ -2163,7 +2060,6 @@ Pearson Education, 2003
 5. J. Millman & A. Grabel, Microelec tronics, 2nd edition, McGraw Hill, 1987 FinFETs and 
 Other Multi-Gate Transistors 
 Back to Semester III 
- ## Page 53
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -2175,7 +2071,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 53 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  53 
   Program: Electronics Engineering (VLSI Design & Technology) Semester: III Semester 
 Course Title: Digital Circuits Course Code: 23EVTC203 
@@ -2204,7 +2099,6 @@ Positive Edge-Triggered D Flip-Flop, Negative-Edge Triggered D Flip-Flop; Charac
 Registers and Counters, Binary Ripple Counters, Synchronous Binary counters, Ring and Johnson 
 Counters, Design of a Synchronous counters, Design of a Synchronous Mod-n Counter using clocked 
 JK Flip-Flops Design of a Synchronous Mod-n Counter using clocked D, T or SR Flip-Flops. 
-  ## Page 54
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -2216,7 +2110,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 54 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  54 
 Unit III 
 Chapter No. 6. Sequential Circuit Design 
@@ -2238,7 +2131,6 @@ memory, MROM, PROM, EPROM, EEPROM, Random access memory, SRAM, DRAM, NVRAM.
 3. R.D. Sudhaker Samuel, Logic Design, Pearson Education ,2010 
 4. R P Jain, Modern Digital Electronics ,4th edition, McGraw Hill Education, 2009 
   Back to Semester III 
-  ## Page 55
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -2250,7 +2142,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 55 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  55 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: III Semester 
 Course Title: Signals and Systems Course Code: 23EVTC204 
@@ -2282,7 +2173,6 @@ Definition of z -transform, Properties of ROC, Properties of Z -transforms: Inve
 (Partial Fraction method, long division method), Unilateral Z-transform, Transform of LTI. 
   Text Books: 
 1. Simon Haykin and Barry Van Veen, Signals and Systems, 2nd edition Wiley, 2007 
- ## Page 56
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -2294,7 +2184,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 56 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  56 
 2. Alan V Oppenheim, Alan S Willsky and S. Hamid Nawab, Signals and Systems, Second, 
 PHI public, 1997 
@@ -2304,7 +2193,6 @@ PHI public, 1997
 3. M.J.Roberts, Fundamentals of Signals and Systems 2nd edition, McGraw Hill Education, 
 2017 
   Back to Semester III 
-  ## Page 57
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -2316,7 +2204,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 57 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  57 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: III Semester 
 Course Title: Digital Circuits Lab Course Code: 23EVTP201 
@@ -2344,7 +2231,6 @@ Simulators (Avoid using drag n drop), before implementing the circuits on breadb
 1. K.A.Krishnamurthy―Digital labprimer‖, Pearson Education Asia Publications, 2003. 
 2. A.P. Malvino, ―Electronic Principles 7th edition, McGraw Hill Education, 2017 
   Back to Semester III 
-  ## Page 58
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -2356,7 +2242,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 58 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  58 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: III Semester 
 Course Title: Analog Electronic Circuits Lab Course Code: 23EVTP202 
@@ -2392,7 +2277,6 @@ Device data sheets.
 5. KLETECH Electronics and Communication Engineering Department 2023 -24 Analog 
 Electronics Lab manual. 
 Back to Semester III 
- ## Page 59
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -2404,7 +2288,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 59 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  59 
   Program: Electronics Engineering (VLSI Design & Technology) Semester: III Semester 
 Course Title: Microcontroller Architecture & Programming Course Code: 24EVTF201 
@@ -2434,7 +2317,6 @@ Data Types and Time delays in 8051C, I/O Programming, Logic operations, Data Con
 programs, Accessing code ROM space,. Data serialization. 
   Chapter 6: Counter/Timer Programming in 8051 
 Programming 8051 Timers, Programming Timer0 and Timer1 in 8051C 
-  ## Page 60
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -2446,7 +2328,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 60 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  60 
 Unit III 
 Chapter 7: Serial Communication 
@@ -2465,7 +2346,6 @@ Gillispie Mazidi', Pearson Education, 2003
   Reference Books: 
 1. " Programming and Customizing the 8051 Microcontroller ", by 'Predko', TMH. 
   Back to Semester III 
-  ## Page 61
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -2477,7 +2357,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 61 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  61 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: III Semester 
 Course Title: C Programming for Problem solving (for Diploma) Course Code: 24EVTF205 
@@ -2505,7 +2384,6 @@ dimensional array, Operations on two-dimensional arrays.
 Introduction, declaring pointer, pointer variables, pointer expression and arithmetic, passing 
 arguments to functions using pointers, pointers and arrays, Passing an array to a function. 
   8. Structures and Unions 
- ## Page 62
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -2517,7 +2395,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 62 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  62 
 Introduction, passing structures to functions, Array of structures, Unions. 
 Text Books 
@@ -2528,7 +2405,6 @@ Text Books
 2. R.G.Dromey, HowtoSolveit byComputer, 1sted, PHI, 2008. 
 3. BSGottfried, ProgrammingwithC(Schaum'sOutlinesSeries),4thed, TMH, 2018.2008 
   Back to Semester III 
-  ## Page 63
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -2540,7 +2416,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 63 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  63 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: IV Semester 
 Course Title: Linear Algebra and Partial Differential Equations Course Code: 15EMAB208 
@@ -2575,7 +2450,6 @@ Chapter5: Complex analysis
 Function of complex variables. Limits, continuity and differentiability. Analytic functions, C-R 
 equations in Cartesian and polar forms, construction of Analytic functions (Cartesian and polar 
 forms). 
-  ## Page 64
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -2587,7 +2461,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 64 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  64 
 Chapter 6: Complex Integration 
 Line integral, Cauchy's theorem- corollaries, Cauchy's integral formula. Taylor's and Laurent Series, 
@@ -2603,7 +2476,6 @@ NarosaPublishingHouse, NewDelhi, 2012
 2. Stanley J Farlow, Partial differential equations for Scientists and Engineers, Dover 
 publications, INC, New York, 1993 
   Back to semester IV 
-  ## Page 65
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -2615,7 +2487,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 65 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  65 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: IV 
 Course Title: Problem Solving & Analysis Course Code: 24EHSA202 
@@ -2647,7 +2518,6 @@ Chand and Sons, New Delhi, 2018
 7. Cambridge Advanced Learner's Dictionary, Cambridge University Press. 
 8. Kaplan's GRE guide 
 Back to semester IV 
- ## Page 66
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -2659,7 +2529,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 66 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  66 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: IV Semester 
 Course Title: Control Systems Course Code: 24EVTC212 
@@ -2693,7 +2562,6 @@ Plots.
 Chapter No. 6. Stability Analysis In Frequency Domain 
 Polar Plots, Nyquist Plots Stability Analysis, Assessment of Relative Stability Using Nyquist 
 Criterion. 
-  ## Page 67
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -2705,7 +2573,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 67 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  67 
 Chapter No. 7. Introduction to Controller Design 
 The Design Problem. Preliminary Consideration of Classical Design, Realization Of Basic 
@@ -2720,7 +2587,6 @@ Ltd, 2015,
 2. Richord C Dorf and Robert H. Bishop, Modern Control Systems, 13th edition, Pearson; 
 2016 
   Back to semester IV 
-   ## Page 68
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -2732,7 +2598,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 68 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  68 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: IV Semester 
 Course Title: Linear Integrated Circuits Course Code: 24EVTC206 
@@ -2766,7 +2631,6 @@ Sample and hold circuits, Phase shift oscillator, Wein bridge oscillator, PLL.
   Chapter No 8. Data Converters 
 Digital to Analog Converters: Weighted resistor; R -2R, Current steering DAC, Pipeline. Analog to 
 Digital Converters: Flash, Dual slope, Pipeline and SAR. 
- ## Page 69
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -2778,7 +2642,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 69 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  69 
 Text Books 
 1. Behzad Razavi, Design of Analog CMOS Integrated Circuits McGraw-Hill, 2nd edition, 2016 
@@ -2793,7 +2656,6 @@ edition, Tata McGraw Hill 2014
 4. B. Razavi, Fundamentals of Microelectronics, 2nd edition. 
   Back to semester IV 
   Program: Electronics Engineering (VLSI Design & Technology) Semester: IV Semester 
- ## Page 70
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -2805,7 +2667,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 70 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  70 
 Course Title: Electromagnetic Fields and Waves Course Code: 24EVTC211 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3Hrs/week 
@@ -2836,7 +2697,6 @@ Inductors and Inductances, Magnetic Energy, Magnetic Circuits, Force on Magnetic
   Chapter 6: Maxwell's Equations 
 Introduction, Faraday 's Law, Transformer and Motional Electromotive Forces, Displacement 
 Current, Maxwell's Equations in Final Forms, Time-Varying Potentials, Time-Harmonic Fields. 
-  ## Page 71
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -2848,7 +2708,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 71 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  71 
 Unit III 
 Chapter 7: Electromagnetic Wave Propagation 
@@ -2861,7 +2720,6 @@ of a Plane Wave at Normal Incidence, Reflection of a Plane Wave at Oblique Incid
 2. William Hayt, Jr. John A. Buck, Engineering Electromagnetics, 8th edition, TMH, 2012 
 3. Kraus, John D. Electromagnetics. United Kingdom, McGraw-Hill, 1992. 
   Back to semester IV 
-   ## Page 72
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -2873,7 +2731,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 72 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  72 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: IV Semester 
 Course Title: ARM Processor & Applications Course Code: 24EVTC210 
@@ -2905,7 +2762,6 @@ Chapter No. 7 On-chip programming techniques using LPC 2148 Controller
 ARM interfacing techniques and programming: Timers, RTC, UART, ADC, DAC, I2C and External 
 Interrupt. 
    Chapter No. 8 Architectural support for high level languages 
- ## Page 73
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -2917,7 +2773,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 73 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  73 
 Abstraction in software design, data types, floating point data types, The ARM floating point 
 architecture, use of memory, run time environment. 
@@ -2930,7 +2785,6 @@ architecture, use of memory, run time environment.
 KAUFFMAN 
 2. User manual onLPC21XX. 
   Back to semester IV 
-  ## Page 74
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -2942,7 +2796,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 74 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  74 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: IV Semester 
 Course Title: Digital IC Design Course Code: 24EVTC209 
@@ -2975,7 +2828,6 @@ publishers, 5thedition, 2002.
 4. Charles.H.Roth, J r.,Lizy KurianJohn―Digital System Design using VHDL‖,Thomson, 
 2ndEdition, 2008. 
 Back to semester IV 
- ## Page 75
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -2987,7 +2839,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 75 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  75 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: IV Semester 
 Course Title: LIC Lab Course Code: 23EVTP203 
@@ -3022,7 +2873,6 @@ c. Dan Sheingold Analog to Digital Conversion Hand Book, PH, 1986.
 d. David A. Bell, Operational Amplifiers and Linear IC's, 2ed., PHI/Pearson, 2004 
 e. Manual: Lab manual prepared by SoECE Department. 
 Back to semester IV 
- ## Page 76
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -3034,7 +2884,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 76 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  76 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: IV Semester 
 Course Title: ARM Microcontroller Lab Course Code: 24EVTP204 
@@ -3063,7 +2912,6 @@ Apply suitable machine dependent optimization technique and analyze for memory
 and time consumed 
 4 Write an ALP to pass parameters to a subroutine to find the factorial of a number or 
 prime number generation. 
- ## Page 77
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -3075,7 +2923,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 77 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  77 
 Apply suitable machine dependent optimization technique and analyze for memory 
 and time consumed 
@@ -3093,7 +2940,6 @@ control the connected device
 11 Develop an application code using synchronous communication protocol to display 
 the RTC value on a display device. 
   Back to semester IV 
-  ## Page 78
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -3105,7 +2951,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 78 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  78 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: IV Semester 
 Course Title: Data Structures Application Lab Course Code: 23EVTF203 
@@ -3131,7 +2976,6 @@ Hashing Applications
 Second Edition. 
 2. Aaron M. Tenenbaum, Data Structures Using C. 
   Back to semester IV 
-  ## Page 79
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -3143,7 +2987,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 79 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  79 
   Program: Electronics Engineering (VLSI Design & Technology) Semester: IV Semester 
 Course Title: Problem Solving with Data Structures Course Code: 24EVTF206 
@@ -3174,7 +3017,6 @@ Iterative. Binary Search Tree and its applications.
 1. Data Structures Using CandC++ - Y .Langsam, M.Augenstein AndA. M.Tenenbaum, 
 Prentice-Hall of India Pvt. Ltd. Edition- 2, 2006 
 2. DataStructureswithC--SeymourLipschutz, TataMcGrawHillIndiaLTD, EdItion-1, 2011 
-  ## Page 80
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -3186,7 +3028,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 80 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  80 
 Reference Books: 
 1. Data Structures and Algorithms Made Easy - Narshiman 
@@ -3199,7 +3040,6 @@ Ronald L. Rivest, and Clifford Stein. The MIT Press, Edition-3, 2009.
 5. Cracking the coding interview-Gayle McDowell, Edition-6 
 6. Onlineplatform: www.Hackerrank.com, www.geeksforgeeks.com 
   Back to semester IV 
-   ## Page 81
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -3211,7 +3051,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 81 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  81 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: V Semester 
 Course Title: CMOS VLSI Design Course Code: 24EVTC301 
@@ -3246,7 +3085,6 @@ Signed Multiplication.
 Text Books 
 1. John P . Uyemura, Introduction to VLSI Circuits and Systems, 1, Wiley, 2007 
 2. Neil Weste, David Harris & Ayan Banerjee, CMOS VLSI Design, 3, Pearson Ed, 2005 
- ## Page 82
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -3258,7 +3096,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 82 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  82 
 3. Sung-Mo Kang & Yusuf Leblebici, CMOS Digital Integrated Circuits: Analysis and Design, 
 3, Tata McGra, 2007 
@@ -3272,7 +3109,6 @@ Pablo Duarte, Navid Payvadosi, Ai Niknejad, Chenming Hu, Elsevier Publication, 2
 3. Douglas A Pucknell and Kamran Eshraghian, Basic VLSI Design, 3, PHI, 2005 
 4. Faranak Nekoogar, "From ASICs to SOCs: A Practical Approach", Prentice Hall PTR, 2003. 
   Back to Semester - V 
-  ## Page 83
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -3284,7 +3120,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 83 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  83 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: V Semester 
 Course Title: Semiconductor Device Physics Course Code: 25EVTC312 
@@ -3317,7 +3152,6 @@ breakdown - Drain-induced barrier lowering
   Chapter 7. 
 Effect of tox - Effect of high-k and low-k dielectrics on the gate leakage and Source and drain leakage 
 - tunneling effects - Different gate structures in UDSM - Impact and reliability challenges in UDSM 
-  ## Page 84
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -3329,7 +3163,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 84 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  84 
 Text Books 
 1. Chenming Hu, Modern Semiconductor Devices for Integrated Circuit, Pearson education 
@@ -3339,7 +3172,6 @@ Publishers, US, 2017
 4. M K Achutan and K N Bhatt, Fundamental of Semiconductor Devices, McGraw Hill 
 Education, US, 2017 
   Back to Semester - V 
-   ## Page 85
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -3351,7 +3183,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 85 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  85 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: V Semester 
 Course Title: Machine Learning Course Code: 25EVTE306 
@@ -3387,7 +3218,6 @@ Reduction: PCA- Principal Component Analysis.
   Chapter No. 5 Introduction to Neural Network and deep learning: 
 Introduction to Neural Networks (Motivation: non -linear model, Neurons and perception), Model 
 representation: Neural Network Architecture (Activation units, Layers), Neural Network: 
- ## Page 86
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -3399,7 +3229,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 86 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  86 
 Initialization, Forwards propagation, and Cost function, Back propagation algorithm, Multi -class 
 classification, Steps to train a neural network, Applications of Neural Networks, Introduction to 
@@ -3418,7 +3247,6 @@ Attention networks, Transformer based architecture, Transformer for Time-Series
 1. Trevor Hastie, Robert Tibshirani, Jerome Friedman, The Elements of Statistical 
 Learning: Data Mining Inference and Prediction, 2, Springer, 2009 
   Back to Semester - V 
-  ## Page 87
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -3430,7 +3258,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 87 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  87 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: V Semester 
 Course Title: Computer Architecture Course Code: 25EVTC311 
@@ -3468,7 +3295,6 @@ Ed., Pearson Education, 2016.
 4. Computer Organization and Design: The Hardware/Software Interface - David A. Patterson, 
 John L. Hennessy. 5th Ed., 2014, MK publishers. 
 Back to Semester - V 
- ## Page 88
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -3480,7 +3306,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 88 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  88 
   Program: Electronics Engineering (VLSI Design & Technology) Semester: V Semester 
 Course Title: Digital Signal Processing Course Code: 25EVTC305 
@@ -3510,7 +3335,6 @@ edition, PHI, New Delhi, 2007
 Reference Books: 
 1. Oppenheim & Schaffer, Discrete Time Signal Processing, 5th edition, PHI, New Delhi, 2000 
   Back to Semester - V 
-  ## Page 89
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -3522,7 +3346,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 89 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  89 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: V Semester 
 Course Title: Analog Integrated Circuit Design Course Code: 25EVTC306 
@@ -3544,7 +3367,6 @@ Reference Books:
 1. Baker, Li, Boyce, "CMOS: Circuit Design, Layout and Simulation", Prentice Hall of India, 2000 
   Back to Semester - V 
   Program: Electronics Engineering (VLSI Design & Technology) Semester: V Semester 
- ## Page 90
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -3556,7 +3378,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 90 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  90 
 Course Title: CMOS VLSI Design Lab Course Code: 24EVTP301 
 L-T-P: 0-0-1 Credits: 1 Contact Hours: 2Hrs/week 
@@ -3581,7 +3402,6 @@ tool.
 Perspective, 2nd edition, Pearson Education (Asia) Ptv. Ltd.,2000. 
   Back to Semester - V 
   Program: Electronics Engineering (VLSI Design & Technology) Semester: V Semester 
- ## Page 91
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -3593,7 +3413,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 91 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  91 
 Course Title: Mini Project Course Code: 24EVTW301 
 L-T-P: 0-0-3 Credits: 3 Contact Hours: 6Hrs/week 
@@ -3631,7 +3450,6 @@ Control
 System 
 Outpu
 t 
- ## Page 92
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -3643,12 +3461,10 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 92 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  92 
 includes self-study of an individual member (80-100 Hrs) and team work (40-50hrs). 
 6. Learning overhead should be 20-25% of total project development time. 
 Back to Semester - V 
-   ## Page 93
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -3660,7 +3476,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 93 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  93 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: V Semester 
 Course Title: Arithmetical Thinking and Analytical Reasoning Course Code: 23EHSA303 
@@ -3688,7 +3503,6 @@ New Delhi, 2018
 5. Cambridge Advanced Learner's Dictionary, Cambridge University Press. 
 6. Kaplan's GRE guide 
   Back to Semester - V 
-  ## Page 94
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -3700,7 +3514,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 94 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  94 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VI Semester 
 Course Title: Physical Design-Analog Course Code: 24EVTC307 
@@ -3729,7 +3542,6 @@ Buddy reviews and implementations, Documentation
 2. CMOS IC layout - Dan Clien 
 3. IC Layout Basics - Chris saint and Judy saint 
   Back to Semester - VI 
-  ## Page 95
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -3741,7 +3553,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 95 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  95 
 Program: Electronics Engineering (VLSI Design & Technology)) Semester: VI Semester 
 Course Title: VLSI Fabrication Technology Course Code: 24EVTC308 
@@ -3774,7 +3585,6 @@ Analytical Beams - Beam Specimen interactions - Chemical methods - Package types
 design considerations - VLSI assembly technology - Package fabrication technology. 
   Text Books 
 1. S.M.Sze, "VLSI Technology", McGraw Hill Second Edition. 1998. 
- ## Page 96
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -3786,7 +3596,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 96 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  96 
 2. James D Plummer, Michael D. Deal, Peter B. Griffin, "Silicon VLSI Technology: Fundamentals 
 Practice and Modeling", Prentice Hall India.2000. 
@@ -3794,7 +3603,6 @@ Practice and Modeling", Prentice Hall India.2000.
 4. C.Y . Chang and S.M.Sze (Ed), ULSI Technology, McGraw Hill Companies Inc, 1996. 
 5. S.K. Gandhi, VLSI Fabrication Principles, John Wiley Inc., New York, 1983. 
 Back to Semester - VI 
-  ## Page 97
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -3806,7 +3614,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 97 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  97 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VI Semester 
 Course Title: System Verilog for Verification Course Code: 24EVTC309 
@@ -3839,7 +3646,6 @@ UVM environment structure, Connecting DUT- Virtual Interface
 testbench language features - Springer, 2012 
   Tools: Questa Sim, NC Verilog, NC Sim, CVER + GTKWave, VCSMX, Modelsim for Verilog 
 Back to Semester - VI 
- ## Page 98
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -3851,7 +3657,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 98 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  98 
   Program: Electronics Engineering (VLSI Design & Technology) Semester: VI Semester 
 Course Title: GEN AI Course Code: 24EVTC310 
@@ -3889,7 +3694,6 @@ Chapter 5: Generative Models II: Transformers
 Introduction to Transformers, Origins and evolution from traditional sequence models (like RNNs 
 and LSTMs) to transformers, self -attention mechanism, multi -head attention, position -wise 
 feedforward networks. 
- ## Page 99
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -3901,7 +3705,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 99 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  99 
 Transformer Architecture: breakdown of encoder and decoder stacks, Layer normalization and 
 residual connections, Mask ed self -attention in the decoder for auto -regressive generation, Pre -
@@ -3924,7 +3727,6 @@ applications, Responsible use of generative models in society
 Text Books: 
   Reference Books: 
   Back to Semester - VI 
-  ## Page 100
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -3936,7 +3738,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 100 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  100 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VI Semester 
 Course Title: Minor Project Course Code: 24EVTW302 
@@ -3967,7 +3768,6 @@ Every Project batch will be allocated with one faculty.
 1. Number of faculty members: 64 
 2. Number of students: 278 
   Role of a Guide 
- ## Page 101
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -3979,7 +3779,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 101 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  101 
 The primary responsibility of the guide is to help students to understand the meaning and need 
 of various stages in the implementation of the project. At every stage of the project 
@@ -3999,7 +3798,6 @@ standards.
 1. The format for report writing should be downloaded from ftp://10.3.0.3/minorprojects 
 2. The report needs to be shown to guide and committee for each review. 
   Back to Semester - VI 
-   ## Page 102
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -4011,7 +3809,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 102 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  102 
 Program : Electronics Engineering (VLSI Design & Technology) Semester: VI 
 Course Title: Industry Readiness & Leadership Skills Course Code: 23EHSA304 
@@ -4037,7 +3834,6 @@ Reference Books:
 4. John Maxwell - The 17 Essential Qualities of a Team Player, HarperCollins Leadership 
 5. Robin Ryan - 60 Seconds and You're Hired! - Penguin Books 
    Back to Semester - VI 
-  ## Page 103
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -4049,7 +3845,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 103 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  103 
 Program : Electronics Engineering (VLSI Design & Technology) Semester: VI Semester 
 Course Title: Professional Aptitude and Logical reasoning Course Code: 16EHSC301 
@@ -4073,7 +3868,6 @@ Reference Books:
 1. Verbal and Non - Verbal Reasoning - Dr. Ravi Chopra, MacMillan India 
 2. Lateral Thinking - Dr. Edward De Bono, Penguin Books, New Delhi 
       Back to Semester - VI 
-  ## Page 104
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -4085,7 +3879,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 104 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  104 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VI Semester 
 Course Title: Communication Systems Course Code: 24EVTE301 
@@ -4119,7 +3912,6 @@ Quaternary Modulation techniques, Problems.
   Text Books 
 1. "Communication Systems" by 'Simon Haykin' John Wiley 2003. 5th edition, 2009 
 2. "Principles of communication Systems", by Taub & Schilling, 2nd edition, TMH. 
- ## Page 105
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -4131,7 +3923,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 105 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  105 
 3. "Digital communications", Simon Haykin, John Wiley, 2006 
   Reference Books: 
@@ -4140,7 +3931,6 @@ Batch: 2023-27
 3. Communication Systems by Harold. P .E, Stern Samy. A. Mahmond, Pearson Education, 2004. 
 4. Electronic communication systems, Kennedy and Davis, TMH, Edn. 6, 2012 
   Back to List of Electives 
-  ## Page 106
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -4152,7 +3942,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 106 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  106 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VI Semester 
 Course Title: Computer Communication Networks I Course Code: 24EVTE302 
@@ -4184,7 +3973,6 @@ broadcast routing algorithms and multi cast routing
 2. Larry L. Peterson and Bruce S. Davie, Computer Networks A Systems Approach, 4th Edition, 
 Elsevier, 2007 
 Back to List of Electives 
- ## Page 107
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -4196,7 +3984,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 107 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  107 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VI Semester 
 Course Title: Embedded Intelligent Systems Course Code: 24EVTE303 
@@ -4229,7 +4016,6 @@ Application framework, Applications, IPC.
 David R. Kaeli, Lee Howes, Benedict Gaster, Publisher: Morgan Kaufmann 
   Reference Books: 
 1. Deep Learning, MIT Press book, Goodfellow, Bengio, and Courville's 
- ## Page 108
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -4241,7 +4027,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 108 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  108 
 2. Beginning Android, by Wei-Meng Lee , Publisher: Wrox , O'Reilly Media 
   Experiment wise plan 
@@ -4266,7 +4051,6 @@ different architectures based on provided specifications.
   Back to List of Electives 
   Program: Electronics Engineering (VLSI Design & Technology) Semester: VI 
 Course Title: Advanced IC Packaging Course Code: 24EVTE304 
- ## Page 109
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -4278,7 +4062,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 109 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  109 
 Credits:3 Contact Hours:4 hrs/week 
 ESA Marks:-- Total Marks:100 
@@ -4309,7 +4092,6 @@ APD+ and explore signal routing and power planes, filling out assigned lab works
    Layout a silicon interposer given a microbump map for an ASIC and C4 ball assignments 
 using a commercial router such as Innovus 
   Reference Books 
- ## Page 110
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -4321,7 +4103,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 110 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  110 
 1. Rao R Tummala, Fundamentals of Device and Systems Packaging, McGraw Hill, 2020. 
 2. Glenn R. Blackwell, The Electronics Packaging Handbook, CRC Press, 2017. 
@@ -4329,7 +4110,6 @@ Batch: 2023-27
 Springer, 2012. 
 4. Rao R Tummala, Fundamentals of Microsystems Packaging, McGraw Hill, 2001. 
   Back to List of Electives 
-  ## Page 111
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -4341,7 +4121,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 111 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  111 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VI Semester 
 Course Title: Automotive Electronics Course Code: 24EVTE305 
@@ -4376,7 +4155,6 @@ systems, ABS, Traction Control, active steering systems, vehicle dynamic control
   Chapter No:5. Automotive communication protocols 
 Overview of Automotive communication protocols: CAN, CAN FD, SOME/ IP Protocol, LIN, Flex Ray, 
 MOST 
-  ## Page 112
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -4388,7 +4166,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 112 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  112 
 Unit III 
 Chapter No: 6. Overview of ADAS/AV and Functional safety standards 
@@ -4413,7 +4190,6 @@ protocols: KWP2000 and UDS.
 Techniques, Elsevier Science, 2001 
 4. Nicholas Navet, Automotive Embedded System Handbook ,2009 
   Back to List of Electives 
-  ## Page 113
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -4425,7 +4201,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 113 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  113 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VII Semester 
 Course Title: CMOS ASIC Design Course Code: 25EVTC401 
@@ -4458,7 +4233,6 @@ Compiler and PrimeTime, 2nd edition, 2001.
 Chadha, 
   Springer Science+Business Media, LLC 2009 
 Tools: Cadence Innovous, Encounter 
-  ## Page 114
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -4470,10 +4244,8 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 114 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  114 
 Back to Semester - VII 
- ## Page 115
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -4485,7 +4257,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 115 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  115 
 Program :Electronics Engineering (VLSI Design & Technology) Semester: VII 
 Course Title: Senior Design Project Course Code: 24EVTW401 
@@ -4517,7 +4288,6 @@ Every Project batch will be allocated with one faculty.
   Role of a Guide 
 The primary responsibility of the guide is to help students to understand the meaning and 
 need of various stages in the implementation of the project. At every stage of the project 
- ## Page 116
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -4529,7 +4299,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 116 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  116 
 development, guide should help towards its successful completion as per the predefined 
 standards. 
@@ -4555,7 +4324,6 @@ Evaluation Scheme
 • Project shall be evaluated by the review committee for 50% of the marks. 
   Back to Semester - VII 
   Program: Electronics Engineering (VLSI Design & Technology) Semester: VII 
- ## Page 117
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -4567,7 +4335,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 117 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  117 
 Course Title: CIPE & EVS Course Code: 15EHSC402 
 L-T-P: 2-0-0 Credits: Audit Contact Hours: 2 hrs/week 
@@ -4601,7 +4368,6 @@ Chapter No. 8 Intellectual Property Rights
 Chapter No. 9 Ethical perspectives of professional bodies 
 Ethical perspectives of professional bodies- IEEE, ASME, NSPE and ABET, ASCE etc. 
 Unit III 
- ## Page 118
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -4613,7 +4379,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 118 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  118 
 Chapter No. 10 Effects of human activities on environment 
 Effects of human activities on environment - Agriculture, Housing, Industry, Mining, and 
@@ -4635,7 +4400,6 @@ Publications.
   Program: Electronics Engineering (VLSI Design & Technology) Semester: VII Semester 
 Course Title: Memory Design and Testing Course Code: 24EVTE401 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3Hrs/week 
- ## Page 119
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -4647,7 +4411,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 119 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  119 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
 Teaching Hours: 40Hrs Examination Duration:3 Hrs 
@@ -4688,7 +4451,6 @@ Text Books:
 Wiley (2002). 
 2. M. Bushnell, V. Agrawal, "Essentials of Electronic Testing for Digital, Memory & Mixed-Signal VLSI 
 Circuits", Springer, 1st edition, 2nd printing 2005. 
- ## Page 120
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -4700,12 +4462,10 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 120 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  120 
 3. Brent Keeth, R. Jacob Baker, Brian Johnson, Feng Lin, "DRAM Circuit Design: Fundamental and 
 High-Speed Topics", 2E, Wiley, IEEE Press December 2007. 
   Back to List of Electives 
-   ## Page 121
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -4717,7 +4477,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 121 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  121 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VII Semester 
 Course Title: System on Chip Design Course Code: 24EVTE404 
@@ -4755,7 +4514,6 @@ Text Books:
 Interconnect", Morgan Kaufmann Publishers, 2008. 
 3. W.H.Wolf, "Computers as Components: Principles of Embedded Computing System Design", 
 Elsevier, 2008. 
- ## Page 122
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -4767,7 +4525,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 122 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  122 
   Reference Books: 
 1. Patrick Schaumont "A Practical Introduction to Hardware/Software Co-design", 2nd Edition, 
@@ -4776,7 +4533,6 @@ Springer, 2012.
 2006. 
  3. Wayne Wolf, "Modern VLSI Design: IP Based Design", Prentice-Hall India, Fourth edition, 2009. 
   Back to List of Electives 
-   ## Page 123
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -4788,7 +4544,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 123 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  123 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VII Semester 
 Course Title: Design and Analysis of Algorithm Course Code: 24EVTE405 
@@ -4828,7 +4583,6 @@ education, New Delhi.
 3. Aho, Ullman, Hopcroft (2009), Design and Analysis of algorithms, 2nd edition, Pearson 
 education, New Delhi 
 Back to List of Electives 
- ## Page 124
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -4840,7 +4594,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 124 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  124 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VII Semester 
 Course Title: RF Circuit Design Course Code: 24EVTE406 
@@ -4875,7 +4628,6 @@ Reference Books:
 1. Thomas H. Lee "Design of CMOS RF Integrated Circuits" Cambridge University press 1998. 
 2. Y.P. Tsividis, "Mixed Analog and Digital Devices and Technology", TMH 1996 
   Back to List of Electives 
-  ## Page 125
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -4887,7 +4639,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 125 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  125 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VII Semester 
 Course Title: Hardware-Software Co-design Course Code: 24EVTE407 
@@ -4920,7 +4671,6 @@ Systems. Kluwer, 1995
  5. IEEE and ACM Transactions. 6. Jorgen Staunstrup, Wayne Wolf, Hardware / Software Co-Design: 
 Principles and Practice, Kluwer Academic, 1997 7. Black David C. Systemc : From The Ground Up 
   Back to List of Electives 
-   ## Page 126
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -4932,7 +4682,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 126 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  126 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VII Semester 
 Course Title: Computer-Aided VLSI Design Course Code: 24EVTE408 
@@ -4968,7 +4717,6 @@ Reference Books:
 ltd. London. 
 2. Gerez, "Algorithms VLSI Design Automation", John Wiley & Sons. 
   Back to List of Electives 
-   ## Page 127
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -4980,7 +4728,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 127 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  127 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VII Semester 
 Course Title: Power Management IC Course Code: 24EVTE409 
@@ -5015,7 +4762,6 @@ Maksimovic, Springer, 2001.
 Blackwell, 2016. 
 4. Design of Analog CMOS Integrated Circuits by Behzad Razavi, McGraw-Hill, 2017. 
   Back to List of Electives 
-   ## Page 128
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -5027,7 +4773,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 128 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  128 
   Program: Electronics Engineering (VLSI Design & Technology) Semester: VII Semester 
 Course Title: Testing & Characterization Course Code: 24EVTE410 
@@ -5061,7 +4806,6 @@ Mixed-Signal VLSI Circuits", Kluwer Academic Publishers, 2000.
   Reference Books: 
 1. P . Rashinkar, Paterson and L. Singh, "System -on-a-Chip Verification -Methodology and 
 Techniques", Kluwer Academic Publishers, 2001. 
- ## Page 129
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -5073,7 +4817,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 129 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  129 
 2. M. Abramovici, M. A. Breuer, A. D. Friedman, "Digital Systems Testing and Testable Design" 
 Piscataway, New Jersey: IEEE Press, 1994 
@@ -5084,7 +4827,6 @@ Piscataway, New Jersey: IEEE Press, 1994
 6. Miczo. Digital Logic Testing and Simulation, John Wiley & Sons, 1987. 
 7. Barry Johnson. Design and Analysis of Fault-Tolerant Digital Systems, Addison Wesley, 1989. 
   Back to List of Electives 
-   ## Page 130
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -5096,7 +4838,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 130 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  130 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VII Semester 
 Course Title: Phase-locked loops(Swayam) Course Code:24EVTE411 
@@ -5104,7 +4845,6 @@ L-T-P: 0-0-3 Credits:3 Contact Hours:6 hrs/week
 ISA Marks:100 ESA Marks: Total Marks:100 
 Teaching Hours:42Hrs Examination Duration:3Hrs 
   Back to List of Electives 
-   ## Page 131
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -5116,7 +4856,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 131 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  131 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VII Semester 
 Course Title: Advanced Computer Architecture Course Code: 24EVTE412 
@@ -5157,7 +4896,6 @@ Graw Hill, N.Y , 2003
 References: 
 1. David A. Pearson and John L. Hennessey, ―Computer organization and design Elsevier, Fifth 
 edition, 2014. 
- ## Page 132
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -5169,11 +4907,9 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 132 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  132 
 2. www.sci.tamucc.edu/~sking/Courses/COSC5351/syllabus.php 
   Back to List of Electives 
-   ## Page 133
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -5185,7 +4921,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 133 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  133 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VII Semester 
 Course Title: Analog and Mixed mode VLSI Circuits Course Code: 24EVTE413 
@@ -5214,7 +4949,6 @@ Reference Books
 3. C. Mead and L. Conway, Introduction to VLSI Systems, Addison Wesley, 1979. 
 4. B Razavi 'Design of Analog CMOS Integrated Circuits' First Edition McGraw Hill 2001 
    Back to List of Electives 
-   ## Page 134
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -5226,7 +4960,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 134 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  134 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VIII 
 Course Title: OOPS using C++ Course Code: 24EVTE414 
@@ -5261,7 +4994,6 @@ Error handling during file operations, Overloading << and >> operators
 Reference books: 
 1. Lippman S B, Lajorie J, Moo B E, C++ Primer, 5ed, Addison Wesley, 2013. 
 2. Herbert Schildt: The Complete Reference C++, 4th Edition, Tata McGraw Hill 
-  ## Page 135
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -5273,10 +5005,8 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 135 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  135 
 Back to List of Electives 
-   ## Page 136
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -5288,7 +5018,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 136 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  136 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VIII 
 Course Title: MEMS Course Code: 24EVTE415 
@@ -5325,7 +5054,6 @@ Text Book:
 3. "RF MEMS: Theory, Design, and Technology", Gabriel M. Rebeiz, John Wiley & Sons 
 Publication, 2003. 
   Back to List of Electives 
-   ## Page 137
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -5337,7 +5065,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 137 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  137 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VIII 
 Course Title: Project Work Course Code: 24EVTW402 
@@ -5369,7 +5096,6 @@ Every Project batch will be allocated with one faculty.
   Role of a Guide 
 The primary responsibility of the guide is to help students to understand the meaning and 
 need of various stages in the implementation of the project. At every stage of the pr oject 
- ## Page 138
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -5381,7 +5107,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 138 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  138 
 development, guide should help towards its successful completion as per the predefined 
 standards. 
@@ -5406,7 +5131,6 @@ Evaluation Scheme
 • Project shall be reviewed and evaluated by the concerned Guide for 50% of the marks. 
 • Project shall be evaluated by the review committee for 50% of the marks. 
   Back to Semester VIII 
-  ## Page 139
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -5418,7 +5142,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 139 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  139 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VIII 
 Course Title: Internship- Training Course Code: 24EVTI493 
@@ -5439,7 +5162,6 @@ Evaluation parameters for Internship Training
  Conclusions and discussion 
  Presentation skills 
   Back to Semester VIII 
-   ## Page 140
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -5451,7 +5173,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 140 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  140 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VIII 
 Course Title: Internship- Project Course Code: 24EVTW494 
@@ -5472,7 +5193,6 @@ Evaluation parameters for Internship Project
  Conclusions and discussion 
  Presentation skills 
   Back to Semester VIII 
-  ## Page 141
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -5484,7 +5204,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 141 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  141 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VIII Semester 
 Course Title: Hardware-Software Co-design Course Code: 24EVTO401 
@@ -5517,7 +5236,6 @@ Systems. Kluwer, 1995
  5. IEEE and ACM Transactions. 6. Jorgen Staunstrup, Wayne Wolf, Hardware / Software Co-Design: 
 Principles and Practice, Kluwer Academic, 1997 7. Black David C. Systemc : From The Ground Up 
   Back to List of Electives 
-  ## Page 142
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -5529,7 +5247,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 142 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  142 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VIII Semester 
 Course Title: System on Chip Design Course Code: 24EVTO402 
@@ -5567,7 +5284,6 @@ Text Books:
 Interconnect", Morgan Kaufmann Publishers, 2008. 
 3. W.H.Wolf, "Computers as Components: Principles of Embedded Computing System Design", 
 Elsevier, 2008. 
- ## Page 143
  FORM 
 ISO 21001: 2018- KLETU 
 Dept. of Electronics Engineering 
@@ -5579,7 +5295,6 @@ Title: Curriculum structure semester wise
 Electronics Engineering - VLSI Design & Technology 
 Page 143 of 144 
 Batch: 2023-27 
-  FMCD2009 / 2.0 
  143 
   Reference Books: 
 1. Patrick Schaumont "A Practical Introduction to Hardware/Software Co-design", 2nd Edition, 
@@ -5587,5 +5302,4 @@ Springer, 2012.
 2. Lin, Y-L.S. (ed.), "Essential issues in SOC design: designing complex systems-on-chip. Springer, 
 2006. 
  3. Wayne Wolf, "Modern VLSI Design: IP Based Design", Prentice-Hall India, Fourth edition, 2009. 
-  Back to List of Electives 
-  
+  Back to List of Electives

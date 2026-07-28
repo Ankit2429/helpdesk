@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: Revised-4th_sem-MBA-MCA-COE-2022-23"
+title: "Revised 4th Sem Mba Mca COE 2022 23"
 category: "miscellaneous"
 subcategory: ""
 document_type: "minutes"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["coe", "date", "document", "july", "june", "last", "mba", "mca", "minor", "revised"]
 aliases: []
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "1"
 ---
-# PDF Document: Revised-4th_sem-MBA-MCA-COE-2022-23
- **PDF Source:** https://www.kletech.ac.in/pdf/Revised-4th sem-MBA-MCA-COE-2022-23.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/Revised-4th sem-MBA-MCA-COE-2022-23.pdf
                                                                                                                                                                                                                                         1q2 
   ANAM 0201/1.0 
 CALENDAR OF EVENTS 
@@ -70,5 +70,4 @@ Minor 2 Marks Display : 19th Aug
 No of working 
 days 16 15 16 14 15 14 90 
 Holidays 
-  Marks / Attendance display Minor exam Feedback 
-    
+  Marks / Attendance display Minor exam Feedback

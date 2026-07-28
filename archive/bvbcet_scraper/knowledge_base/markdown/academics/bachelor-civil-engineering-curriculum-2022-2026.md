@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: bachelor-civil-engineering-curriculum-2022-2026"
+title: "Civil Engineering Curriculum"
 category: "academics"
 subcategory: ""
 document_type: "syllabus"
@@ -11,18 +11,15 @@ language: "en"
 keywords: ["bachelor", "civil", "course", "curriculum", "delhi", "design", "document", "engineering", "marks"]
 aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "EEE", "EE", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "132"
 ---
-# PDF Document: bachelor-civil-engineering-curriculum-2022-2026
- **PDF Source:** https://www.kletech.ac.in/pdf/bachelor-civil-engineering-curriculum-2022-2026.pdf
- ## Page 1
- FMCD2009 / 2.0 
- 1 
+**PDF Source:** https://www.kletech.ac.in/pdf/bachelor-civil-engineering-curriculum-2022-2026.pdf
+
   Curriculum Structure and Curriculum Content for the Academic Batch 2022-2026 
 School of Civil Engineering 
 Program: Civil Engineering 
-  ## Page 2
- FMCD2009 / 2.0 
- 2 
+
   Table of Contents 
 Vision and Mission of KLE Technological University ........................................... 3 
 Vision and Mission Statements of the School / Department ................................ 4 
@@ -41,9 +38,7 @@ Semester- VIII .................................................................
 List of Open Electives ............................................................................................ 16 
 List of Program Electives ...................................................................................... 16 
 Curriculum Content- Course wise ........................................................................ 17 
-  ## Page 3
- FMCD2009 / 2.0 
- 3 
+
 Vision and Mission of KLE Technological University 
   Vision 
   KLE Technological Univers ity will be a national leader in Higher 
@@ -65,9 +60,7 @@ contributing our expertise, experience and leadership, to enhance
 competitiveness and quality of life. 
   As a unified community of faculty , staff and students, we work together with 
 the spirit of collaboration and partnership to accomplish our mission. 
-   ## Page 4
- FMCD2009 / 2.0 
- 4 
+
 Vision and Mission Statements of the School / Department 
   Vision 
   To lead civil engineering education and innovation by fostering 
@@ -82,9 +75,7 @@ sustainability, and ethical practices.
 resilient sustainable infrastructure. 
  To engage with industry and community stakeholders to drive impactful 
 solutions for societal challenges. 
-  ## Page 5
- FMCD2009 / 2.0 
- 5 
+
 Program Educational Objectives/Program Outcomes and Program-Specific 
 Objectives 
 Program Educational Objectives -PEO's 
@@ -128,9 +119,7 @@ member or leader in diverse/multi-disciplinary teams.
 Communication: Communicate effectively and inclusively within the engineering 
 community and society at large, such as being able to comprehend and write effective 
 reports and design documentation, make effective presentations considering cultural, 
- ## Page 6
- FMCD2009 / 2.0 
- 6 
+
 language, and learning differences. 
 Project Management and Finance: Apply knowledge and understanding of engineering 
 management principles and economic decision -making and apply these to one's own 
@@ -148,9 +137,7 @@ Ability to apply principles of civil engineering for the entire life cycle of th
 from initial design to the closure of the project. 
 Ability to identify and analyze va rious properties of construction materials and their 
 applications in design and construction of various structures. 
-  ## Page 7
- FMCD2009 / 2.0 
- 7 
+
 Curriculum Structure-Overall 
   Semester Total Program Credits: 178 
 Course with course code 
@@ -317,9 +304,7 @@ Engineering
     Extensive Survey 
 (0-0-1.5) 
 Credits 22 22 23.5 24.5 25.0 21.5 22.5 17 
- ## Page 8
- FMCD2009 / 2.0 
- 8 
+
 Curriculum Structure-Semester wise 
 Semester - I 
   No Code Course Category L-T-P Credits Contact 
@@ -339,9 +324,7 @@ solving
 ES (0-0-3) 3 6 80 20 100 3 hrs 
 7. 21EPHP102 Applied Physics Lab BS (0-0-1) 1 2 80 20 100 3 hrs 
 TOTAL 15-1-6 22 
- ## Page 9
- FMCD2009 / 2.0 
- 9 
+
 Semester - II 
   No Code Course Category L-T-P Credits Contact 
 Hours 
@@ -362,9 +345,7 @@ Innovation
 HS (0-1-1) 2 4 80 20 100 3 hrs 
 7. 15EHSH101 Professional Communication HS (0-0-2) 2 2 80 20 100 3 hrs 
 TOTAL 15-1-6 22 
- ## Page 10
- FMCD2009 / 2.0 
- 10 
+
 Semester- III 
   No Code Course Category L-T-P Credits Contact 
 Hours 
@@ -383,9 +364,7 @@ PC (3-0-0) 3 3 50 50 100 3 hrs
 8. 17ECVP202 Building Engineering Drawing PC (0-0-2) 2 4 80 20 100 4 hrs 
 9. 22EHSC201 Corporate Communication HS (0.5-0-0) 0.5 2 100 - 100 - 
 TOTAL 19.5-0-4 23.5 
- ## Page 11
- FMCD2009 / 2.0 
- 11 
+
 Semester- IV 
   No Code Course Category L-T-P Credits Contact 
 Hours 
@@ -413,9 +392,7 @@ PC (3-0-0) 3 3 50 50 100 3 hrs
 Laboratory 
 PC (0-0-1) 1 2 80 20 100 3 hrs 
 TOTAL 21.5-0-3 24.5 
- ## Page 12
- FMCD2009 / 2.0 
- 12 
+
 Semester- V 
   No Code Course Category L-T-P Credits Contact 
 Hours 
@@ -442,9 +419,7 @@ Engineering Solutions
 PW (0-0-3) 3 6 50 50 100 3 hrs 
  11. 24ECVW302 Extensive Survey PW (0-0-1.5) 1.5 3 50 50 100 3 hrs 
 TOTAL 17.5-0-7.5 25 
- ## Page 13
- FMCD2009 / 2.0 
- 13 
+
 Semester- VI 
   No Code Course Category L-T-P Credits Contact 
 Hours 
@@ -467,9 +442,7 @@ Structures
 PC (0-0-1) 1 2 80 20 100 3 hrs 
 9. 15ECVW302 Minor Project PW (0-0-6) 6 12 50 50 100 3 hrs 
 TOTAL 12.5-0-10 21.5 
- ## Page 14
- FMCD2009 / 2.0 
- 14 
+
 Semester- VII 
   No Code Course Category L-T-P Credits Contact 
 Hours 
@@ -488,9 +461,7 @@ PC (0-0-1.5) 1.5 3 80 20 100 3 hrs
 8. 19ECVW401 Senior Design Project 
   PW (0-0-6) 6 6 50 50 100 3 hrs 
 TOTAL 15-0-7.5 22.5 
- ## Page 15
- FMCD2009 / 2.0 
- 15 
+
 Semester- VIII 
   Semester I II III IV V VI VII VIII Total 
 Credits 22 22 23.5 24.5 25 21.5 22.5 17 178 
@@ -508,9 +479,7 @@ PW (0-0-11) 11 11 50 50 100 3 hrs
 TOTAL 6-0-11/ 
 0-0-17 
 17 
- ## Page 16
- FMCD2009 / 2.0 
- 16 
+
 List of Open Electives 
    Sr. No Name of the Course Course Code 
 1. Nano Composite Materials 15ECVO401 
@@ -533,13 +502,9 @@ Earthquake Engineering
 12. Solid Waste Management 15ECVE407 
 13. Air Pollution 15ECVE409 
 14. Advanced Waste Water Treatment 15ECVE408 
-  ## Page 17
- FMCD2009 / 2.0 
- 17 
+
   Curriculum Content- Course wise 
-  ## Page 18
- FMCD2009 / 2.0 
- 18 
+
 Program: BE Civil Engineering Semester: I 
 Course Title: Single Variable Calculus Course Code:18EMAB101 
 L-T-P: 4-0-1 Credits: 05 Contact Hours:50 
@@ -580,15 +545,10 @@ MATLAB: Solve differential equations
 Text Books 
 1. Early Transcendentals Calculus- James Stewart, Thomson Books, 7ed 2010. 
 Reference Books: 
- ## Page 19
- FMCD2009 / 2.0 
- 19 
-  Back 
+
   1. Calculus Single and Multivariable, Hughues-Hallett Gleason, Wiley India Ed, 4ed, 2009. 
 2. Thomas Calculus, George B Thomas, Pearson India, 12ed, 2010 
- ## Page 20
- FMCD2009 / 2.0 
- 20 
+
 Program: BE Civil Engineering Semester: I 
 Course Title: Engineering Physics Course Code:22EPHB102 
 L-T-P: 3-0-0 Credits: 03 Contact Hours:03 Hrs./Week 
@@ -630,15 +590,10 @@ Text Books
 physics,, Cengage publication, India Edition, 8th Edition. 
 Reference Books: 
 1. Randall D Knight, Physics for SISAntists and Engineers, Pearson publication, 2ndEdition. 
- ## Page 21
- FMCD2009 / 2.0 
- 21 
-  Back 
+
    2. Hans C Ohanian and John T Markert, Physics for Engineers and SISAntists, W W Norton and 
 Company, Volume 1, 3rd Edition 
-  ## Page 22
- FMCD2009 / 2.0 
- 22 
+
 Program: BE Civil Engineering Semester: I 
 Course Title: Basic Mechanical Engineering Course Code:15EECF101 
 L-T-P: 2-1-0 Credits: 03 Contact Hours:4 hrs /week 
@@ -676,18 +631,13 @@ their working principle and specifications.
 Edition, 2013- Cengage Learning.4 
 2. K.R.Gopalkrishna, SudhirGopalkrishna, S.C. Sharma. A Text Book of Elements of Mechanical 
 Engineering, 30th Edition, Oct 2010,-Subhash Publishers, Bangalore. 
-  ## Page 23
- FMCD2009 / 2.0 
- 23 
-  Back 
+
    Reference Books: 
 1. Course Material developed by the Department of Mechanical Engineering. 
 2. SKH Chowdhary, AKH Chowdhary, Nirjhar Roy, The Elements of Workshop Technology - Vol I 
 & II , 11th edition 2001, Media Promoters and Publishers. 
 3. Basic Manufacturing, Roger Timings, Third edition, Newnes, An imprint of Elsevier 
- ## Page 24
- FMCD2009 / 2.0 
- 24 
+
 Program: BE Civil Engineering Semester: I 
 Course Title: Basic Mechanical Engineering Course Code:22EMEF101 
 L-T-P: 2-1-0 Credits: 03 Contact Hour 
@@ -728,15 +678,10 @@ Engineering, 30th Edition, Oct 2010,-Subhash Publishers, Bangalore.
   Reference Books: 
 1. Course Material developed by the Department of Mechanical Engineering. 
 2. SKH Chowdhary, AKH Chowdhary, Nirjhar Roy, The Elements of Workshop Technology - Vol I 
- ## Page 25
- FMCD2009 / 2.0 
- 25 
-Back 
+
    & II , 11th edition 2001, Media Promoters and Publishers. 
 3. Basic Manufacturing, Roger Timings, Third edition, Newnes, An imprint of Elsevier 
- ## Page 26
- FMCD2009 / 2.0 
- 26 
+
   Program: BE Civil Engineering Semester: I 
 Course Title: Basic Electrical and Electronics Engineering Course Code:21EEXF101 
 L-T-P: 4-0-0 Credits: 04 Contact Hours:6 hrs /week 
@@ -777,10 +722,7 @@ Reference Books:
 2. K.A Krishnamurthy and M.R.Raghuveer, Electrical, Electronics and Computer Engineering for 
 Scientist and Engineers, 2, New Age International Publishers, Wiley Eastern, 2001 
 3. George Kennedy, Electronic Communication Systems, 4, Tata McGraw Hill, 2000 
- ## Page 27
- FMCD2009 / 2.0 
- 27 
-  Back 
+
   4. Morris Mano, Digital Logic and Computer Design, 21st Indian print Prentice Hall India, 2000 
 5. BoylesteadNashelsky, Electronic devices & Circuit theory, 6, Prentice Hall India, 2000 
 6. David A Bell, Electronic Devices and Circuits, PHI New Delhi, 2004 
@@ -789,10 +731,7 @@ Scientist and Engineers, 2, New Age International Publishers, Wiley Eastern, 200
 Engineering, 3, Pearson Education, 2005 
 9. Ernest O Doeblin, Dhanesh N Manik, Measurement Systems, 6th Edition, McGraw Hill 
 Education; 2017 
- ## Page 28
- FMCD2009 / 2.0 
- 28 
-   Back 
+
   Program: BE Civil Engineering Semester: I 
 Course Title: Engineering Exploration Course Code:22ECRP101 
 L-T-P: 0-0-3 Credits: 03 Contact Hours:6 hrs per week 
@@ -813,9 +752,7 @@ Unit I
 1. Engineering Fundamentals & Problem Solving by Arvid Eide, Roland Jenison, Larry Northup, 
 Steven, Mc GrawHill Higher Education, 6th Edition ( 2011) 
 2. Engineering Exploration ( Edited Book, 2008) by Pearson Publication 
- ## Page 29
- FMCD2009 / 2.0 
- 29 
+
 Program: BE Civil Engineering Semester: I 
 Course Title: C Programming for Problem Solving Course Code:18ECSP101 
 L-T-P: 0-0-3 Credits: 03 Contact Hours:6 hrs per week 
@@ -853,17 +790,11 @@ Introduction, passing structures to functions, Array of structures, Unions
 2. Yashvant Kanetkar, Let us C ,15th ed, BPS Publication, 2016. 
   Reference Books: 
 1. B W Kernighan, D M Ritchie, The Programming language C, 2ed, PHI, 2004. 
- ## Page 30
- FMCD2009 / 2.0 
- 30 
-  Back 
+
   2. B S Gottfried, Programming with C, 2ed, TMH, 2006. 
 3. B.A. Forouzan, R.F. Gilberg, A Structured Program Approach Using C, 3ed, CENGAGE 
 Learning, 2008. 
- ## Page 31
- FMCD2009 / 2.0 
- 31 
-  Back 
+
   Program: BE Civil Engineering Semester: I 
 Course Title: Applied Physics Lab Course Code:21EPHP102 
 L-T-P: 0-0-1 Credits: 01 Contact Hours:02 Hrs./Week 
@@ -880,10 +811,7 @@ Unit I
 8. Projectile motion 
 9. Variable g pendulum 
 10 Study of one dimension motion by linear air track 
- ## Page 32
- FMCD2009 / 2.0 
- 32 
-  Back 
+
    Program: BE Civil Engineering Semester: II 
 Course Title: Multivariable calculus Course Code:18EMAB102 
 L-T-P: 4-0-1 Credits: 05 Contact Hours:50 
@@ -919,9 +847,7 @@ Text Books
 Reference Books: 
 1. Calculus Single and Multivariable, Hughues-Hallett Gleason, Wiley India Ed, 4ed, 2009. 
 2. Thomas Calculus, George B Thomas, Pearson India, 12ed, 2010 
- ## Page 33
- FMCD2009 / 2.0 
- 33 
+
 Program: BE Civil Engineering Semester: II 
 Course Title: Engineering Mechanics Course Code:15ECVF102 
 L-T-P: 4-0-0 Credits: 04 Contact Hours:04 Hrs./Week 
@@ -963,10 +889,7 @@ Introduction, Definition, Methods of determining the centroid, axis of reference
 symmetry, Locating the centroid of simple plane figures (triangle, semicircle, quarter of a circle 
 and sector of a circle etc,.) using method of integration, Numerical problems on Centroid of 
 simple built up sections. 
- ## Page 34
- FMCD2009 / 2.0 
- 34 
-  Back 
+
   Unit III 
 7. Second moment of area (Plane figures) 5hrs 
 Introduction, Definition, Method of determining the second moment of area, Section Modulus, 
@@ -995,10 +918,7 @@ Reference Books:
 Publishing Company, New Delhi, 1956. 
 5. Irving H Shames, Engineering Mechanics, 3rd edition, Prentice-Hall of India Pvt. Ltd, New 
 Delhi- 110 001, 1995. 
-  ## Page 35
- FMCD2009 / 2.0 
- 35 
-  Back 
+
    Program: BE Civil Engineering Semester: II 
 Course Title: Computer Aided Engineering Drawing Course Code:15EMEP101 
 L-T-P: 0-0-3 Credits: 03 Contact Hours:06 Hrs./Week 
@@ -1034,9 +954,7 @@ software.
 Text Books 
 1. Text Book of Engineering Drawing by K R Gopalakrishna 
 2. Text Book of Engineering Drawing by N D Bhatt and V M Panchal 
- ## Page 36
- FMCD2009 / 2.0 
- 36 
+
 Program: BE Civil Engineering Semester: II 
 Course Title: Engineering Chemistry Course Code:22ECHB101 
 L-T-P: 3-0-0 Credits: 03 Contact Hours:40 
@@ -1079,10 +997,7 @@ Corrosion: Electrochemical theory of corrosion taking iron as an example; corros
 galvanization and tinning. 
 Metal Finishing: Technological importance of metal finishing, Electroplating, factor s affecting 
 nature of electrodeposit - Throwing power of plating bath solution - numerical problems. 
- ## Page 37
- FMCD2009 / 2.0 
- 37 
-  Back 
+
   Electro less plating - advantages over electroplating, lector less plating of copper and its 
 applications in the manufacture of printed circuit board. 
   Unit III 
@@ -1113,10 +1028,7 @@ Nagin Chand & Co., 1992.
 6. Principles of Polymer Chemistry- A. RavvePlelum Press, New York and London. 
 7. Callister William D, Materials Science and Engineering: An introduction, John Wiley and Sons 
 2007: 721 pages. 
- ## Page 38
- FMCD2009 / 2.0 
- 38 
-  Back 
+
   Program: BE Civil Engineering Semester: II 
 Course Title: Professional Communication Course Code:15EHSH101 
 L-T-P: 0-1-1 Credits: 02 Contact Hours: 42 
@@ -1141,9 +1053,7 @@ Reference Books:
 1. Collins Cobuild Advanced Learner's English Dictionary 
 2. Raymond Murphy - Intermediate English Grammar, Cambridge University Press 
 3. Martin Hewings- Advanced English Grammar, Cambridge University Press. 
-  ## Page 39
- FMCD2009 / 2.0 
- 39 
+
    Program: BE Civil Engineering Semester: II 
 Course Title: Problem Solving with Data Structures Course Code:18ECSP102 
 L-T-P: 0-0-3 Credits: 03 Contact Hours: 6 hrs / week 
@@ -1184,10 +1094,7 @@ Clifford Stein. The MIT Press, Edition-3, 2009.
 2004 
 6. Online platform: www.Hackerrank.com 
 7. https://www.geeksforgeeks.org/ 
- ## Page 40
- FMCD2009 / 2.0 
- 40 
-  Back 
+
    Program: BE Civil Engineering Semester: II 
 Course Title: Design Thinking for Social Innovation Course Code:20EHSP101 
 L-T-P: 0-1-1 Credits: 02 Contact Hours: 4 hrs / week 
@@ -1222,9 +1129,7 @@ Reference Books:
 1. Mueller-Roterberg, C. (2018). Handbook of Design Thinking: Tips & Tools for How to Design 
 Thinking, Eugene, OR, Amazon Digital Services LLC. 
 2. Cross, N. (2011). Design thinking: Understanding how designers think and work. Berg. 
- ## Page 41
- FMCD2009 / 2.0 
- 41 
+
   Program: BE Civil Engineering Semester: III 
 Course Title: Laplace transforms and Statistics Course Code:20EMAB202 
 L-T-P: 4-0-0 Credits: 04 Contact Hours:50 
@@ -1262,10 +1167,7 @@ Simulation of Queuing system, Simulation of Networks.
 1 J. Susan Milton, Jesse C. Arnold, Introduction to Probability and Statistics: Principles and 
 Applications for Engineering and the Computing Sciences, 4th Ed, TATA McGraw-Hill 
 Edition 2007. 
- ## Page 42
- FMCD2009 / 2.0 
- 42 
-Back 
+
    2 Kreyszig, E, Advanced Engineering Mathematics, 8ed, John Wiley & sons, 2003. 
 3 Kishor S Trivedi, probability and statistics with reliability queuing and computer science 
 applications, PHI, 2000 
@@ -1276,9 +1178,7 @@ applications, PHI, 2000
 publications, 2000. 
 3. Potter M C, Jack Goldberg and Aboufadel E F, Advanced Engineering Mathematics, 3ed, 
 Oxford Indian Edition, 2005. 
- ## Page 43
- FMCD2009 / 2.0 
- 43 
+
 Program: Civil Engineering Semester: III 
 Course Title: Building Technology and Services Course Code:15ECVC201 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3hrs/week 
@@ -1319,10 +1219,7 @@ Plastering: Purpose of Plastering, Materials of plastering, Lime mortar, Cement 
 Methods of plastering, Stucco plastering, Lath plastering. 
 Painting: Purpose of Painting, Distemper, Plastic emulsion, Enamel, Powder coated painting to 
 walls and iron and steel surfaces. 
-  ## Page 44
- FMCD2009 / 2.0 
- 44 
-Back 
+
    Unit III 
 8. Building Services03 hrs 
 Plumbing Services - Water Distribution, Sanitary - Lines and Fittings. Ventilations - Functional 
@@ -1351,9 +1248,7 @@ Publications (P) Ltd., New Delhi, 2014.
 Materials and Technologies, New Age International (P) Ltd., New Delhi, 2007. 
 3. National Building Code of India 2016, Bureau of Indian Standards 
 4. CBRI, Roorkee, Advances in Building Materials and Construction. 
- ## Page 45
- FMCD2009 / 2.0 
- 45 
+
   Program: Civil Engineering Semester: III 
 Course Title: Surveying Course Code:15ECVC202 
 L-T-P: 4-0-0 Credits:4 Contact Hours:4hrs/week 
@@ -1392,9 +1287,7 @@ curve, setting out of compound curve; Reverse curve-element of elements of a rev
 setting out of reverse curve; Transition curve- requirements of a transition curve, elements of 
 transition curve, setting out of transition curve. 
   6. Modern Surveying Instruments 08 hrs 
- ## Page 46
- FMCD2009 / 2.0 
- 46 
+
 Theodolite, EDM and Total Station Modern theodolites- Micro-optic theodolites, digital 
 theodolite Electromagnetic spectrum radar, electromagnetic distance measurement (EDM), 
 EDM equipment- Geodimeter, tellurometer, mekenometer, distomat. Corrections to 
@@ -1436,15 +1329,10 @@ VidyarthiGrihaPrakashan, 2006
 2. Anderson, J. M. and Mikhail E. M., Introduction to Surveying, TMH, New York. 
 3. M. Anjireddy, Remote Sensing and Geographical Information Systems, 4th Edition, BS 
 Publications, 2012. 
- ## Page 47
- FMCD2009 / 2.0 
- 47 
-Back 
+
    4. Roy, S.K., Fundamentals of Surveying, Prentice Hall of India, 2010. 
 5. E-notes: https://sites.google.com/a/mitr.iitm.ac.in/iitmcivil/ce2080, 2015. 
-  ## Page 48
- FMCD2009 / 2.0 
- 48 
+
 Program: Civil Engineering Semester: III 
 Course Title: Mechanics of Fluids Course Code:15ECVF201 
 L-T-P: 4-0-0 Credits:4 Contact Hours:4 hrs/week 
@@ -1485,10 +1373,7 @@ derivation of depth of hydraulic jump and Conjugate depths
 7. Dimensional Analysis and Model Studies 5hrs 
 Introduction, Systems of units, Dimensions of quantities, Dimensional Homogeneity of an 
 equation. Analysis- Raleigh's method, Buckingham's Π theorem. Non-dimensional numbers: 
- ## Page 49
- FMCD2009 / 2.0 
- 49 
-Back 
+
    Froude Models, Reynold's models 
   8. Discharge Measurements 5hrs 
 Flow through orifices and its classification, hydraulic coefficients and their relationship, Flow 
@@ -1510,9 +1395,7 @@ Delhi, 2019.
 2. Machines, 5 th ed., Dhanpat Rai &amp; Co., 2014.Douglas J.F., Gasiorek J.M., and Swaffield 
 J.A.., Fluid Mechanics, 5ed., Pearson Education, India, 2006. 
 3. Streeter V.L. and Wylie E. B., Fluid Mechanics, McGraw Hill Education, London, 9ed., 2010. 
-  ## Page 50
- FMCD2009 / 2.0 
- 50 
+
 Program: Civil Engineering Semester: III 
 Course Title: Mechanics of Materials Course Code:15ECVF202 
 L-T-P: 4-0-0 Credits: 4 Contact Hours: 4 hrs/week 
@@ -1557,10 +1440,7 @@ Introduction - Short and long columns, Euler's theory on columns, Effective leng
 ration, radius of gyration, buckling load, Assumptions, derivations of Euler's Buckling load for 
 different end conditions, Limitations of Euler's theory, Rankine's formula and problems. Analysis 
 and sketching of various stresses in beams (2-D and 3-D). 
- ## Page 51
- FMCD2009 / 2.0 
- 51 
-Back 
+
    Reference Books: 
 1. S. Timoshenko, Strength of Materials: Elementary Theory and Problems - Part I, 3ed., CBS 
 Publishers and Distributors Pvt. Ltd., New Delhi, 2021. 
@@ -1569,10 +1449,7 @@ Publishers and Distributors Pvt. Ltd., New Delhi, 2021.
 Publishing Co. Inc., 2014. 
 4. Basavarajaiah B.S. and Mahadevappa P ., Strength of Materials in SI units, 3ed., CBS Publishers, 
 New Delhi, 2011. 
-  ## Page 52
- FMCD2009 / 2.0 
- 52 
-  Back 
+
   Program: Civil Engineering Semester: III 
 Course Title: Survey Practice - I Course Code:17ECVP201 
 L-T-P: 0-0-1 Credits:1 Contact Hours:2 hrs/week 
@@ -1606,10 +1483,7 @@ Reference Books:
 3. Duggal S. K, 'Surveying' volume I & II, 4th ed., Tata McGraw Hill, 2017, New Delhi 
 4. https://sites.google.com/a/mitr.iitm.ac.in/iitmcivil/ce2080 
 5. SP:7, National Building Code of India, Bureau of Indian Standards, 2016 
-  ## Page 53
- FMCD2009 / 2.0 
- 53 
-  Back 
+
    Program: Civil Engineering Semester: III 
 Course Title: Building Engineering Drawing Course Code:17ECVP202 
 L-T-P: 0-0-2 Credits:2 Contact Hours: 4 hrs/week 
@@ -1646,10 +1520,7 @@ House Pvt. Ltd., 2007.
 6. Malik R S and Meo G S, Civil Engineering Drawing, 2ed, Asian Publishers/Computech 
 Publications Pvt Ltd, 2010. 
 7. SP:7, National Building Code of India, Bureau of Indian Standards, 2016 
- ## Page 54
- FMCD2009 / 2.0 
- 54 
-  Back 
+
 Program: Civil Engineering Semester: III 
 Course Title: Material Testing Lab Course Code:21ECVP201 
 L-T-P: 0-0-1 Credits: 1 Contact Hours: 2 hrs/week 
@@ -1688,9 +1559,7 @@ specification, Fourth revision
 6. IS: 5652 - 1993, ( Part -1), Hard metals - Rockwell test ( scale A ), Second Revision 
 7. IS: 1917-2012, Metallic materials - wire - Simple Torsion test,( Third revision) 
 8. IS: 1708 -1986, Methods of testing of small clear specimens of timber 
- ## Page 55
- FMCD2009 / 2.0 
- 55 
+
 Program: BE Civil Engineering Semester: IV 
 Course Title: Numerical methods and Partial differential 
 equations 
@@ -1731,10 +1600,7 @@ forms).
   6. Complex Integration: 05 Hrs 
 Line integral, Cauchy's theorem-- corollaries, Cauchy's integral formula. Laurent's Series, 
 Singularities, Poles, Residue theorem - problems. 
- ## Page 56
- FMCD2009 / 2.0 
- 56 
-Back 
+
   Text Books 
 1. Kreyszig E., Advanced Engineering Mathematics, 8ed, John Wiley & sons, 2003. 
 2. Potter M C, Jack Goldberg and Aboufadel E F, Advanced Engineering Mathematics, 3ed, 
@@ -1746,9 +1612,7 @@ Reference Books:
 1. Burden R L and Douglas Faires J, Numerical Analysis, 7ed, Thomson publishers, 2006. 
 2. Simmons G F and Krantz S G, Differential Equations, TATA McGraw-Hill, 2007. 
 3. Sastry S S, Introductory method for numerical analysis, 3ed, PHI, 2003. 
- ## Page 57
- FMCD2009 / 2.0 
- 57 
+
 Program: Civil Engineering Semester: IV 
 Course Title: Structural Analysis-I Course Code:20ECVC201 
 L-T-P: 4-0-0 Credits:4 Contact Hours:4 hrs/week 
@@ -1790,10 +1654,7 @@ Reference Books:
 2017. 
 2. A.K. Jain, Advanced Structural Analysis, 3ed., Nemchand and Brothers, Roorkee, India, 2015. 
 3. Leet, Uang, and Anne M., Fundamentals of Structural Analysis, 3ed. Tata McGraw Hill 
- ## Page 58
- FMCD2009 / 2.0 
- 58 
-Back 
+
    Publishing Company Inc., New York, 2017. 
 4. Pandit G. S. and Gupta S. P , Theory of Structures, Vol I & II, Tata McGraw- Hill Publishing 
 Company, New Delhi, 2017. 
@@ -1803,9 +1664,7 @@ New Delhi, 2017.
 Hyderabad, 1996. 
 7. Timoshenko, S. P . and Young, D. H., Theory of Structures, Tata McGraw Hill Book Company, 
 New York, 1965. 
- ## Page 59
- FMCD2009 / 2.0 
- 59 
+
   Program: Civil Engineering Semester: IV 
 Course Title: Water and Wastewater Engineering Course Code:23ECVC201 
 L-T-P: 4-0-0 Credits: 4 Contact Hours: 4 hrs/week 
@@ -1844,10 +1703,7 @@ Physical, Chemical and Biological characteristics, CNS cycle. BOD and COD their 
 Self-purification phenomenon, Zones of purification, Oxygen sag curve. Numerical Problems on 
 Disposal of Effluents using Streeter Phelps equation. 
 Land disposal: Sewage sickness. 
-  ## Page 60
- FMCD2009 / 2.0 
- 60 
-Back 
+
   Unit III 
 9. Sewage treatment and Sludge Disposal 10 hrs 
 Unit processes of municipal wastewater treatment plant, Preliminary & Primary treatment design: 
@@ -1885,9 +1741,7 @@ McGraw Hill International, 2017.
 11. W.K. Berry, Water Pollution, CBS Publishers Pvt. Ltd ,New Delhi, 2016 
 12. Andrew Braham, Fundamentals of Sustainability in Civil Engineering, CRC Press, Taylor and 
 Francis Group, 2017 
- ## Page 61
- FMCD2009 / 2.0 
- 61 
+
   Program: Civil Engineering Semester: IV 
 Course Title: Concrete Technology Course Code:15ECVC205 
 L-T-P: 3-0-0 Credits:3 Contact Hours:3 hrs/week 
@@ -1931,10 +1785,7 @@ Sustainable design of concrete mixtures, Utilization of marginal materials from 
 mining, Comparison with conventional concrete mixtures, Numerical examples. 
   Text Books 
 1. Bhavikatti S. S., Concrete technology, I.K. International Publishing House, 2015. 
- ## Page 62
- FMCD2009 / 2.0 
- 62 
-Back 
+
    2. Neville A. M. and Brooks J. J., Concrete technology, 2ed, Prentice Hall Publisher, 2010. 
 3. Shetty M.S., Concrete technology - Theory and practice, 1ed. S.Chand and company, New 
 Delhi, 2008. 
@@ -1951,9 +1802,7 @@ IS Codes:
 4. IS-516: Method of Tests for Strength of Concrete, 2013. 
 5. IS-13311-2 (1992): Method of non-destructive testing of concrete-methods of test, Part 2: 
 Rebound hammer 
- ## Page 63
- FMCD2009 / 2.0 
- 63 
+
 Program: Civil Engineering Semester: IV 
 Course Title: Construction Project Management Course Code:20ECVC206 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 hrs/week 
@@ -1994,10 +1843,7 @@ Introduction to concept of HSE as applicab le to the construction, importance of
 construction, safety measure to be taken during excavation, hot bituminous work, explosive, 
 drilling & blasting, scaffolds/platforms work & equipment operations. Safety through 
 legislation, safety campaign & insurance. 
-  ## Page 64
- FMCD2009 / 2.0 
- 64 
-Back 
+
    7. Resource Allocation 05 hrs 
 Introduction, Objectives of resource allocation, Methods of resource allocation. Resource -
 smoothening, Steps in resource smoothening. Resource leveling, Steps in resource leve lling. 
@@ -2010,9 +1856,7 @@ Pearson Publications, 2015.
 1. Robert. L Peurifoy and William B. Ledbetter, Construction planning and Equipment& 
 methods, Tata McGraw Hill Pvt. Ltd, New Delhi, 3ed., 2010. 
 2. Verma Mahesh, Construction planning and Management, Metropolitan Book Co. Delhi, 1982. 
- ## Page 65
- FMCD2009 / 2.0 
- 65 
+
 Program: Civil Engineering Semester: IV 
 Course Title: Hydrology & Irrigation Engineering Course Code:15ECVC207 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 hrs/week 
@@ -2055,10 +1899,7 @@ practical profile, Low and high gravity dams, Drainage Galleries.
   Unit III 
 8. Earthen Dams 04 hrs 
 Introduction, Types of earthen dams, Failure of earthen dams, Drainage arrangements. Phreatic 
- ## Page 66
- FMCD2009 / 2.0 
- 66 
-Back 
+
    line, determination of phreatic line. 
    9. Spillways 04 hrs 
 Definition, Types of Spillways, Design Principles for an Ogee Spillway. Energy dissipaters, Types 
@@ -2077,10 +1918,7 @@ Delhi, 2021.
 2. Linsley, Kohler and Paulhus, Applied Hydrology, Wiley Eastern Publication, New Delhi, 1988. 
 3. Michael A.M., Irrigation Theory and Practices, Vikas Publications, New Delhi, 2004. 
 4. Sharma R. K., Hydrology and Water Resources Engineering, Oxford and IBH, New Delhi, 2000. 
- ## Page 67
- FMCD2009 / 2.0 
- 67 
-  Back 
+
    Program: Civil Engineering Semester: IV 
 Course Title: Survey Practice - II Course Code:15ECVP204 
 L-T-P: 0-0-1 Credits: 1 Contact Hours:2 hrs/week 
@@ -2118,9 +1956,7 @@ IS Codes:
 Congress, New Delhi. 
 4. IRC: 86-1983-Geometric Design Standards for Urban Roads in Plains, India Road Congress, 
 New Delhi. 
- ## Page 68
- FMCD2009 / 2.0 
- 68 
+
 Program: Civil Engineering Semester: IV 
 Course Title: Concrete Laboratory Course Code:21ECVP202 
 L-T-P: 0-0-1 Credits:1 Contact Hours: 2 hrs/week 
@@ -2160,10 +1996,7 @@ IS Codes:
 IS Code:( For Concrete) 
 1. IS 10262:2019 : Indian Standard Concrete mix proportioning - guidelines 
 2. IS 456:2000 Code of practice for plain and reinforced concrete 
- ## Page 69
- FMCD2009 / 2.0 
- 69 
-Back 
+
    3. IS 383 : 2016 Specification for coarse and fine aggregates 
 4. IS 4031 (Part 1 to 6) 1996 (Reaffirmed 2005): Method of physical tests for hydraulic cement 
 5. IS : 2386 ( Part 1 to 5) - 1963 (Reaffirmed 2005): Methods of test for aggregates for concrete 
@@ -2185,10 +2018,7 @@ specification, Fourth revision
 6. IS: 5652 - 1993, ( Part -1), Hard metals - Rockwell test ( scale A ), Second Revision 
 7. IS: 1917-2012, Metallic materials - wire - Simple Torsion test,( Third revision) 
 8. IS: 1708 -1986, Methods of testing of small clear specimens of timber 
- ## Page 70
- FMCD2009 / 2.0 
- 70 
-  Back 
+
    Program: Civil Engineering Semester: IV 
 Course Title: Engineering Computation Lab Course Code:17ECVP203 
 L-T-P: 0-0-1 Credits: 1 Contact Hours: 2 hrs/week 
@@ -2218,9 +2048,7 @@ method and Trapezoidal method.
 2. Alex Martelli, Python in a nutshell, O'Reilly Media, 2003. 
 3. M.K.Jain, S.R.K.Iyengar, R.K.Jain, 'Numerical Methods for scientific and engineering 
 computation', New Age International Publishers, 2003. 
- ## Page 71
- FMCD2009 / 2.0 
- 71 
+
   Program: Civil Engineering Semester: V 
 Course Title: Structural Analysis-II Course Code:21ECVC301 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 hrs/week 
@@ -2263,17 +2091,12 @@ Publishing Company, New Delhi, 2017.
 3. Noris, C.H. and Wilbur, J., Elementary Structural Analysis, 3ed., Tata McGraw Hill Publishing 
 Company, New Delhi, 2005. 
 4. Bhavikatti S.S, Matrix Methods of Structural Analysis, 1ed., I K International Publishing House 
- ## Page 72
- FMCD2009 / 2.0 
- 72 
-Back 
+
    Pvt. Ltd., 2011. 
 5. Timoshenko, S.P ., and Young, D.H., Theory of Structures, McGraw Hill Company, New York, 
 1965. 
 6. B. G. Neal, The Plastic Methods of Structural Analysis, Chapman and Hall, 1977 
- ## Page 73
- FMCD2009 / 2.0 
- 73 
+
 Program: Civil Engineering Semester: V 
 Course Title: Geotechnical Engineering Course Code:24ECVC301 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 hrs/week 
@@ -2314,10 +2137,7 @@ embankments and backfilling, criteria for selection sustainable material, role o
 practices in sanitary landfill as liners. 
   Unit III 
 8. Consolidation of Soils 05 hrs 
- ## Page 74
- FMCD2009 / 2.0 
- 74 
-Back 
+
    Definition, Mass -spring analogy, Terzaghi's one dimensional consolidation theory -assumption 
 and limitations. Normally consolidated, under consolidated and over consolidated soils, pre - 
 consolidation pressure and its determination by Casagrande's method. Consolidation 
@@ -2349,9 +2169,7 @@ Ltd., New Delhi, 2016.
 Delhi, 2018. 
 4. IS - SP-36 (Part - 1) -1987 (R 2006) Compendium of Indian standard on soil engineering 
 Laboratory Testing of Soils for Civil Engineering Purpose 
- ## Page 75
- FMCD2009 / 2.0 
- 75 
+
 Program: Civil Engineering Semester: V 
 Course Title: Design of RCC Structures Course Code:15ECVC303 
 L-T-P: 4-0-0 Credits:4 Contact Hours:4 hrs/week 
@@ -2393,10 +2211,7 @@ footing, rectangular footing, rectangular footing with eccentric loads,
 Drawing reinforcement details. 
 7. Design of Staircase 04 hrs 
 General features, types of staircases, loads on stairs, effective span as per IS codal provisions, 
- ## Page 76
- FMCD2009 / 2.0 
- 76 
-Back 
+
    distribution of loading on different types of stairs, Design of doglegged staircase, Concept of 
 folded staircases, Reinforcement details 
   Text Books 
@@ -2417,9 +2232,7 @@ Delhi, 2007
 2. IS:875 (Part 1 & 2) - 1987, Code of Practice for Design Loads (Other than earthquake) for 
 building and structures, BIS, 1987 
 3. SP 16: Design Aids for Reinforced Concrete to IS 456:1978. 
- ## Page 77
- FMCD2009 / 2.0 
- 77 
+
 Program: Civil Engineering Semester: V 
 Course Title: Transportation Engineering Course Code:15ECVC304 
 L-T-P: 4-0-0 Credits: 4 Contact Hours: 4 hrs/week 
@@ -2462,9 +2275,7 @@ Embankment / Subgrade, Granular sub base course, Granular base course, Prime Coa
 Cementaceous Subbase/Base course, Bituminous base course, Tack Coat, Bituminous surface 
 course, Dry Lean Concrete base course, Pavement Quality Concrete surface course, Compaction 
 and Stabilization techniques in pavement construction, Construction of different types of joints 
- ## Page 78
- FMCD2009 / 2.0 
- 78 
+
 in rigid pavement, Highway drainage system, Integration of science, technology and innovation 
 into highway construction in order to develop a sustainable road project. 
 Pavement components and their functions -Factors influencing the design of pavements -
@@ -2509,19 +2320,14 @@ Congress, New Delhi.
 17. IRC: 102- 1988- Traffic studies for planning bypasses around town, Indian Roads Congress, 
 New Delhi. 
 18. IRC 124-2017, Bus Rapid Transit (BRT) design guidelines for Indian cities, Indian Roads 
- ## Page 79
- FMCD2009 / 2.0 
- 79 
-Back 
+
    Congress, New Delhi. 
 19. IRC: 106- 1990, Guidelines for capacity of urban roads in plain areas, Indian Roads Congress, 
 New Delhi. 
 20. IRC: 99 - 2018 - Guidelines for traffic calming measures in urban and rural areas, Indian 
 Roads Congress, New Delhi. 
 21. IRC: SP 88-2019 - Manual on Road Safety Audit, Indian Road Congress, New Delhi. 
- ## Page 80
- FMCD2009 / 2.0 
- 80 
+
 Program: Civil Engineering Semester: V 
 Course Title: Construction Economics & Management Course Code:19ECVC305 
 L-T-P: 3-0-0 Credits:3 Contact Hours:3 hrs/week 
@@ -2564,10 +2370,7 @@ Introduction to Supply Chain, Supply Chain Management, Objective of Supply Chain
 Management, Importance of Supply Chain Management, Activities of Supply Chain 
 Management, Barriers of Supply Chain Management. 
 Text Books 
- ## Page 81
- FMCD2009 / 2.0 
- 81 
-Back 
+
    1. Kumar Neeraj Jha, Construction Project Management - Theory and Practice, 2ed., Pearson 
 Publication, 2015. 
 2. Gupta B. L., Amit Gupta, Construction Management and Machinery, 5ed, Standard 
@@ -2578,9 +2381,7 @@ New Delhi-2007.
 2. Verma Mahesh, Construction planning and Management, Metropolitan Book Co., Delhi, 1982. 
 3. Seetharaman S., Construction Engineering and Management, Umesh Publications, New Delhi, 
 2006. 
- ## Page 82
- FMCD2009 / 2.0 
- 82 
+
 Program: Civil Engineering Semester: V 
 Course Title: Highway Engineering Laboratory Course Code:15ECVP301 
 L-T-P: 0-0-1 Credits: 1 Contact Hours: 2 hrs/week 
@@ -2621,17 +2422,11 @@ Nem Chand and Bros, Roorkee
 1. IS : (2386:1963)- Methods of test for aggregates for concrete 
 2. IS: 2720 (Part 16)-1997, Laboratory Determination of CBR, Rev.2. Indian standard method of 
 test for soils 
- ## Page 83
- FMCD2009 / 2.0 
- 83 
-Back 
+
    3. IS 383: 2016 Indian standard specifications for coarse and fine aggregates from natural 
 sources. 
 4. IS 73: 2013, Indian standard specifications for paving bitumen'. 
- ## Page 84
- FMCD2009 / 2.0 
- 84 
-  Back 
+
    Program: Civil Engineering Semester: V 
 Course Title: Environmental Engineering Laboratory Course Code:15ECVP302 
 L-T-P: 0-0-1 Credits: 1 Contact Hours: 2 hrs/week 
@@ -2662,10 +2457,7 @@ IS Codes:
 waste water, BIS, New Delhi 
 3. IS 3307:1977, Tolerance Limits For Industrial Effluents Discharged on Land and Irrigation 
 Purpose, BIS, New Delhi 
- ## Page 85
- FMCD2009 / 2.0 
- 85 
-  Back 
+
    Program: Civil Engineering Semester: V 
 Course Title: Computer Aided Design Laboratory Course Code:15ECVP305 
 L-T-P: 0-0-1 Credits: 1 Contact Hours: 2 hrs/week 
@@ -2702,9 +2494,7 @@ The student shall analyse the following structures in SAP:
 13. Analysis of two bay two storey structure under static loading conditions (concrete frame). 
 Reference Books: 
 Microsoft Excel 2010 Formulas, John Walkenbach, Wiley-India pvt. Ltd. 
- ## Page 86
- FMCD2009 / 2.0 
- 86 
+
 Program: Civil Engineering Semester: V 
 Course Title: Mini Project - Sustainable Engineering Solutions Course Code: 24ECVW301 
 L-T-P: 0-0-3 Credits: 3 Contact Hours: 3 hrs/week 
@@ -2742,18 +2532,13 @@ software such as AUTOCAD, REVIT, or similar for final submission.
 1. Handbook of Green Materials Processing Technologies, Properties and Applications. 
 Materials and Energy: Volume 5 by World Scientific 2014, Kristiina Oksman (Luleå 
 University of Technology, Sweden), Aji P Mathew (Luleå University of Technology, Sweden). 
- ## Page 87
- FMCD2009 / 2.0 
- 87 
-  Back 
+
 2. Fundamentals of Sustainable Urban Design by Avi Friedman by Springer 2021. 
 3. Sustainability Issues in Civil Engineering G.L. Sivakumar Babu, Sireesh Saride, B. Munwar 
 Basha Springer, 23 Nov 2016 
 4. Sustainability of Construction Materials by Jamal Khatib, Jamal M. Khatib Elsevier Science 
 ISBN 9781845695842, 1845695844, 2009. 
- ## Page 88
- FMCD2009 / 2.0 
- 88 
+
 Program: Civil Engineering Semester: V 
 Course Title: Extensive Survey Course Code: 24ECVW302 
 L-T-P: 0-0-1.5 Credits: 1.5 Contact Hours: 3 hrs/week 
@@ -2796,16 +2581,10 @@ New Delhi, 2011.
 Chand and Bros. Publishers, Roorkee, 2015. 
 8. Modi, P .N., Sewage Treatment and Disposal Engg., 15ed., Std. Book House, New Delhi, 
 2015. 
- ## Page 89
- FMCD2009 / 2.0 
- 89 
-Back 
+
   9. Punmia B.C., Jain, Ashok K. Jain, Arun K. Surveying Vol. 1 and Vol-2, Lakshmi Publishers, 
 2015. 
- ## Page 90
- FMCD2009 / 2.0 
- 90 
-  Back 
+
 Program: Civil Engineering Semester: VI 
 Course Title: Design of Steel Structures Course Code:23ECVC301 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 hrs/week 
@@ -2844,9 +2623,7 @@ Text Books
 Reference Books: 
 1. Subramanian, N., Design of Steel Structures, 1ed. Oxford University Press, New Delhi, 
 2014. 
- ## Page 91
- FMCD2009 / 2.0 
- 91 
+
   Program: Civil Engineering Semester: VI 
 Course Title: Estimation and Costing Course Code:24ECVC303 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 hrs/week 
@@ -2886,10 +2663,7 @@ Methods for computation of earthwork -cross sections -mid section formula, trape
 average end area or mean sectional area formula, prismoidal formula, for different terrains. 
 Estimation of bituminous road and cement concrete roads. 
   7. Department (PWD) Procedures / Processes 4 hrs 
- ## Page 92
- FMCD2009 / 2.0 
- 92 
-Back 
+
    Types of contract -essentials of contract agreement - legal aspects, penal provisions on breach 
 of contract. Definition of the terms -Tender, E-governance, Standard Bid Document (SBD), E -
 procurement, KTTP Act, earnest money deposit, security deposit, tender forms, documents and 
@@ -2910,10 +2684,7 @@ New Delhi, 2013.
 3. Public Works Department Schedule of Rates 2018-19. 
 4. Rangawala S.C., Estimating, Costing and Valuation, Charotar Publishing House, 17ed., 2017. 
 5. Karnataka Public Works Department Code 2014 
- ## Page 93
- FMCD2009 / 2.0 
- 93 
-  Back 
+
    Program: Civil Engineering Semester: VI 
 Course Title: Professional Aptitude and Logical Reasoning Course Code:16EHSC301 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 hrs/week 
@@ -2935,9 +2706,7 @@ and Sons, New Delhi
 Reference Books: 
 1. Verbal and Non - Verbal Reasoning - Dr. Ravi Chopra, MacMillan India 
 2. Lateral Thinking - Dr. Edward De Bono, Penguin Books, New Delhi 
- ## Page 94
- FMCD2009 / 2.0 
- 94 
+
 Program: Civil Engineering Semester: VI 
 Course Title: Advanced Geotechnical Engineering Course Code:23ECVE301 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 hrs/week 
@@ -2981,10 +2750,7 @@ penetration test. Settlement analysis of foundation, Data for settlement analysi
 tank foundation. 
 Unit III 
 6. Deep Foundation 05 hrs 
- ## Page 95
- FMCD2009 / 2.0 
- 95 
-Back 
+
    Types of Deep foundation. Piles, Drilled Piers and Caissons, Classification of piles, Load carrying 
 capacity of pile. Design of pile and pile groups. Design of pile cap, Settlement Analysis for pile 
 group. Batter piles and under reamed piles. Design aspects of Well foundations. 
@@ -3021,9 +2787,7 @@ Shallow Foundations.
 2. IS 2911:1985 Part I to IV (Reaffirmed 1995) Code of Practice for Design and Construction of 
 Pile Foundations. 
 3. IRC-SP-102-2014-Guidelines for design and construction of reinforced soil walls. 
- ## Page 96
- FMCD2009 / 2.0 
- 96 
+
 Program: Civil Engineering Semester: VI 
 Course Title: Fundamentals of Structural Dynamics and 
 Earthquake Engineering 
@@ -3064,10 +2828,7 @@ numerical).
   Text Books 
 1. Rao, S.S., Mechanical Vibrations, 4, Addison-Wesley Publishing Co., Reading, Massachusetts, 
 2004. 
- ## Page 97
- FMCD2009 / 2.0 
- 97 
-Back 
+
    2. Paz, M, and Leigh, W., Structural Dynamics, Theory and Computation, 5ed, Kluwer Academic 
 Publishers, 2004. 
 3. Vinod Hosur, Earthquake Resistant Design of Building Structures, WILEY EASTERN India 
@@ -3082,9 +2843,7 @@ Publishing Co. Pvt. Ltd., New Delhi, 1989.
 Publishers, New Delhi, 1994. 
 4. Agrawal, Pankaj, and Manish Shrikhande. Earthquake resistant design of structures. PHI 
 Learning Pvt. Ltd., 2006. 
- ## Page 98
- FMCD2009 / 2.0 
- 98 
+
 Program: Civil Engineering Semester: VI 
 Course Title: Pavement Engineering Course Code:15ECVE303 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 hrs/week 
@@ -3125,10 +2884,7 @@ New Delhi, 2017.
 3. Yoder E.J. and Witczak, 'Principles of pavement design', 2nd ed., John Wiley and Sons, 1975 
   Reference Books: 
 1. T. Fwa, 'The Handbook of Highway Engineering', Taylor & Francis Group, New York, 2006. 
- ## Page 99
- FMCD2009 / 2.0 
- 99 
-Back 
+
    2. Yang H. Huang, "Pavement Analysis and Design", 2nd ed., University of Kentucky, Dorling 
 Kindersley (India) Pvt. Ltd., 2008. 
 3. IRC: 37-2018 -Guidelines for the Design of Flexible Pavements (Fourth Revision), Indian Roads 
@@ -3143,9 +2899,7 @@ Road Pavement, Indian Roads Congress, New Delhi.
 Road Congress, New Delhi. 
 8. IRC 101-1988-Guidelines for Design of Continuously Reinforced Concrete Pavement with 
 Elastic Joints, Indian Roads Congress, New Delhi. 
- ## Page 100
- FMCD2009 / 2.0 
- 100 
+
 Program: Civil Engineering Semester: VI 
 Course Title: Applied Hydrology and Hydraulic Structures Course Code:18ECVE301 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 hrs/week 
@@ -3188,19 +2942,14 @@ Publications, New Delhi, 2009.
 6. Sathyanarayana Murthy Challa, Water Resources Engineering, 2ed., New Age International 
 Pvt Ltd Publishers, 2006. 
   Reference Books: 
- ## Page 101
- FMCD2009 / 2.0 
- 101 
-Back 
+
    1. Modi P .N., Irrigation, Water Resources, and Water Power Engineering, Standard Book House, 
 New Delhi, 2004. 
 2. Madan Mohan Das & Mimi Das Saikia, Irrigation and Water Power Engineering, PHI Learning 
 Pvt. Ltd., New Delhi, 2009. 
 3. Balasubramanya N., Hydraulic Structures & Irrigation Design Drawing Tata McGraw Hill 
 Education Pvt. Ltd., New Delhi, 2015. 
- ## Page 102
- FMCD2009 / 2.0 
- 102 
+
 Program: Civil Engineering Semester: VI 
 Course Title: Traffic Engineering Course Code:15ECVE304 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 hrs/week 
@@ -3242,10 +2991,7 @@ generalized model, multi-regime models; Moving observer method. Problems
 7. Shock wave and Queueing Analysis 4 hrs 
 Introduction to shock waves, Shock wave equation, shockwaves at signalized intersections, 
 along a highway, along a pedestrian-way. Deterministic queueing and stochastic analysis. 
- ## Page 103
- FMCD2009 / 2.0 
- 103 
-Back 
+
   8. Traffic simulation models - Calibration and validation 6 
 hrs 
 Fundamentals of Traffic Simulation; Concepts of microscopic models. A basic methodological 
@@ -3289,10 +3035,7 @@ New Delhi.
 16. IRC: SP: 44-1996, Highway safety code, Indian Roads Congress, New Delhi. 
 17. IRC: 102- 1988- Traffic studies for planning bypasses around town, Indian Roads Congress, 
 New Delhi. 
- ## Page 104
- FMCD2009 / 2.0 
- 104 
-  Back 
+
    Program: BE Civil Engineering Semester: VI 
 Course Title: Design Studio - Steel and RC Structures Course Code:24ECVP301 
 L-T-P: 0-0-1 Credits: 01 Contact Hours: 2 hrs/week 
@@ -3325,10 +3068,7 @@ IS Codes:
 1. SP 6 (Part 1) Year: 1984 Handbook for structural engineers - Structural steel sections 
 2. SP: 34 Year 1987 Handbook on Concrete Reinforcement and Detailing 
 3. IS:800-2007 Code of Practice for general Construction in Steel 
- ## Page 105
- FMCD2009 / 2.0 
- 105 
-  Back 
+
    program: Civil Engineering Semester: VI 
 Course Title: Geotechnical Engineering Laboratory Course Code:15ECVP304 
 L-T-P: 0-0-1 Credits: 1 Contact Hours: 2 hrs/week 
@@ -3363,10 +3103,7 @@ Reference Books:
 2013. 
 4. IS - SP-36 (Part - 1) -1987 (R 2006) Compendium of Indian standard on soil engineering - 
 Laboratory Testing of Soils for Civil Engineering Purpose 
- ## Page 106
- FMCD2009 / 2.0 
- 106 
-  Back 
+
    Program: Civil Engineering Semester: VI 
 Course Title: Construction Engineering & Management 
 Laboratory 
@@ -3392,9 +3129,7 @@ excavation cycles on large scale projects.
   Reference Books: 
 1. Kim Heldman & William Heldman, Microsoft Excel for Project managers 2007. 
 2. P . Harris, Planning and Scheduling Using Primavera P6 2010. 
- ## Page 107
- FMCD2009 / 2.0 
- 107 
+
 Program: Civil Engineering Semester: VI 
 Course Title: Minor Project Course Code:15ECVW302 
 L-T-P: 0-0-6 Credits:6 Contact Hours: 3 hrs/week 
@@ -3441,10 +3176,7 @@ and its maintenance, BIS.
 6. IS 3861 - 1975 Method of Measurement of Plinth, Carpet and Rentable Area of Buildings 
 (First Rev.) BIS. 
 7. IS 4326 - 1993 Earthquake Resistant Design and Construction of Buildings - Code of Practice 
- ## Page 108
- FMCD2009 / 2.0 
- 108 
-Back 
+
   (Second Rev.) 
 8. IS 7564 - 1974 Recommendations for Co-ordination of Dimensions in Buildings - 
 Arrangement of Building Components. 
@@ -3460,10 +3192,7 @@ Translation Ritchie, J.L.)
 15. SP:1983 National Building Code of India (First Rev.) BIS. 
 16. Subramaniyam, T.N. (edited by) n.d. Architects, Engineers and Builders Handbook, Madras: 
 Fairhaven Printers. 
- ## Page 109
- FMCD2009 / 2.0 
- 109 
-  Back 
+
 Program: Civil Engineering Semester: VII 
 Course Title: Pre-Stressed Concrete Course Code:24ECVC401 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 hrs/week 
@@ -3505,9 +3234,7 @@ Reference Books:
 limited, 2010 
 3. Dayarathnam, P Sarah, Pre-stressed Concrete structures, Medtech, 2017 
 4. Ramamrutham, Pre-stressed Concrete, Dhanapatrai Publications, 2017 
- ## Page 110
- FMCD2009 / 2.0 
- 110 
+
   Program: Civil Engineering Semester: VII 
 Course Title: Design of Sub-structures Course Code:15ECVE401 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 hrs/week 
@@ -3547,10 +3274,7 @@ Text Books
 1. Bowles. J. E, Foundation analysis and design, 5ed, McGraw-Hill Company, Inc, New York, 
 2012. 
 2. Das. B.M, Principles of Foundation Engineering, 8ed. Thomson Business Information India (P) 
- ## Page 111
- FMCD2009 / 2.0 
- 111 
-Back 
+
   Ltd., India, 2014. 
 3. Murthy V.N.S., Soil Mechanics and Foundation Engineering, 4ed., UBS Publishers and 
 Distributors, New Delhi, 2016. 
@@ -3571,10 +3295,7 @@ McGraw Hill Education Pvt. Ltd, New Dehli , 2002.
 Reinhold Company, 1991. 
 8. Sharat Chandra Gupta, Raft Foundations Design and Analysis with a Practical Approach, New 
 Age International (P) Ltd., Publishers, 1997. 
- ## Page 112
- FMCD2009 / 2.0 
- 112 
-  Back 
+
 Program: BE Civil Engineering Semester: VII 
 Course Title: Advanced RCC Structures Course Code:15ECVE402 
 L-T-P: 3-0-0 Credits: 03 Contact Hours: 40 
@@ -3613,9 +3334,7 @@ Delhi.
 7. IS:456-2000, Plain and Reinforced Concrete - Code of Practice (Fourth Revision) , BIS, 
 New Delhi, 2000 
 8. SP 16: Design Aids for Reinforced Concrete to IS 456:1978. 
- ## Page 113
- FMCD2009 / 2.0 
- 113 
+
   Program: BE Civil Engineering Semester: VII 
 Course Title: FEM Analysis Course Code: 15ECVE403 
 L-T-P: 3-0-0 Credits: 03 Contact Hours: 40 
@@ -3650,10 +3369,7 @@ Text Books
 Company Inc, New York, 2017. 
 2. Krishnamoorthy C. S., Finite Element Analysis , Tata McGraw -Hill Education Pvt. Ltd, 
 New Delhi, 2004. 
- ## Page 114
- FMCD2009 / 2.0 
- 114 
-Back 
+
    Reference Books: 
 1. Rajasekaran, S., Finite Element Analysis in Engineering Design, S. Chand Group, 2006. 
 2. Pandit G.S. and Gupta, S.P. , Structural Analysis, A Matrix Approach , 2ed., Tata 
@@ -3667,9 +3383,7 @@ New Delhi, 2010.
 2010. 
 7. Tirupathi R. Chandrupatla and Ashok D. Belegundu, Introduction to Finite Elements in 
 Engineering, 4ed, Pearson, 2011. 
- ## Page 115
- FMCD2009 / 2.0 
- 115 
+
 Program: BE Civil Engineering Semester: VII 
 Course Title: Construction Methods Course Code:18ECVE401 
 L-T-P: 3-0-0 Credits: 03 Contact Hours: 40 
@@ -3704,10 +3418,7 @@ system, Monolithic Formwork System.
   6. Concrete and Conveying Systems 06 Hrs 
 Introduction, Concrete - Mixers, Concrete plants, Pre -tensioning and Post tensioning, 
 Transporting and handling - Concrete chute, concrete mixer with lift, concrete skip, truck mixer 
- ## Page 116
- FMCD2009 / 2.0 
- 116 
-Back 
+
    concrete pumps, concrete belt conveyors, concrete pump truck, trailer pump and pipeline with 
 tower-mounted boom, trailer mounted pumps, pipeline sy stem, mobile concrete placing 
 booms, finishing. 
@@ -3732,9 +3443,7 @@ Reference Books:
 USA, 2000. 
 2. Gupta B. L., Amit Gupta, Construction Management and Machinery, 5ed, Standard 
 Publications, New Delhi, 2015... 
- ## Page 117
- FMCD2009 / 2.0 
- 117 
+
   Program: BE Civil Engineering Semester: VII 
 Course Title: Construction Contract Management Course Code:23ECVE401 
 L-T-P: 3-0-0 Credits: 3 Contact Hours:3 
@@ -3773,10 +3482,7 @@ cement plaster, doors windows & ventilators.
 Type of risk in construction contracts, dealing with risk, allocating risk through methods of 
 payment, Procurement criteria, Identifying and choosing procurement methods 
   7. Management contracting 05 Hrs 
- ## Page 118
- FMCD2009 / 2.0 
- 118 
-Back 
+
   Contractual relationship in management contracting, Use of management contracting, 
 Principles of management contracting, risk in management contracting, approach to 
 management contracting. 
@@ -3789,9 +3495,7 @@ publishers, 2009.
 5. Patil B. S. " Building and Engineering Contracts 
 6. Handbook of contracts: Hudson 
 7. Patil B. S.,(2009) "Civil Engineering Contracts and Estimates", University Press. 
-  ## Page 119
- FMCD2009 / 2.0 
- 119 
+
 Program: BE Civil Engineering Semester: VII 
 Course Title: Advanced Project Management Course Code:22ECVE401 
 L-T-P: 3-0-0 Credits: 03 Contact Hours: 40 
@@ -3827,10 +3531,7 @@ Unit III
 Introduction, evolution of safety, Accident causation theories, unsafe conditions and acts, 
 health and safety act and regulations, role of safety personal, causes of accidents, principles of 
 safety, safety and health management system. 
- ## Page 120
- FMCD2009 / 2.0 
- 120 
-Back 
+
    7. Construction Labour and relevant Laws 05 Hrs 
 Introduction, construction labour in India, payment of wages to labour, Labour Laws, payment 
 of wages act 1936, minimum wages act 1948, workers compensation act 1923, contract labor 
@@ -3846,9 +3547,7 @@ Reference Books:
 1. P. Harris, Planning and Scheduling Using MS Project 2010. 
 2. Ursula Kuehn, Integrated Cost and Schedule Control in Project Management, 
 2ed.,2011... 
- ## Page 121
- FMCD2009 / 2.0 
- 121 
+
 Program: BE Civil Engineering Semester: VII 
 Course Title: Solid Waste Management Course Code:15ECVE407 
 L-T-P: 3-0-0 Credits: 03 Contact Hours: 40 
@@ -3884,10 +3583,7 @@ Management & Handling) Rules, 2016.
   7. Hazardous waste management 05 Hrs 
 Source, generation rates , characteristics of hazardous wastes and their regulation, handling, 
 treatment and disposal. Hazardous Waste (Management and Handling) Rules, 2016. 
- ## Page 122
- FMCD2009 / 2.0 
- 122 
-Back 
+
    Text Books 
 1. George Tchobanoglous, Hilary Theisen and Vigil S. A., Integrated solid waste 
 management: engi neering principles and management issues , McGraw -Hill Inc , US , 
@@ -3908,9 +3604,7 @@ Reinhold Co., 1973.
 McGraw-Hill Publishing Company Inc., New York, 2017. 
 3. Ramesha Chandrappa, Jeff Brown , Solid Waste Management - Principles and Practice, 
 Springer Science & Business Media, 2012 
- ## Page 123
- FMCD2009 / 2.0 
- 123 
+
 Program: BE Civil Engineering Semester: VII 
 Course Title: Advanced Waste Water Treatment Course Code:15ECVE408 
 L-T-P: 3-0-0 Credits: 03 Contact Hours: 40 
@@ -3949,15 +3643,10 @@ Reference Books:
 1. Qasim S.R., Motley E. M., Wastewater Treatment Plants - Planning, Design and Operation, 
 Prentice Hall, New Delhi. 2002. 
 2. Davis, M.L. and Cornwell, D.A., Introduction to Environmental Engineering , Tata McGraw 
- ## Page 124
- FMCD2009 / 2.0 
- 124 
-Back 
+
   Hill Education Pvt. Ltd., New Delhi. 2010 
 3. Hammer M.J., Water and Waste Water Technology, John Wiley and Sons, New York, 2000. 
- ## Page 125
- FMCD2009 / 2.0 
- 125 
+
 Program: BE Civil Engineering Semester: VII 
 Course Title: Air Pollution Course Code:15ECVE409 
 L-T-P: 3-0-0 Credits: 03 Contact Hours: 40 
@@ -3990,19 +3679,14 @@ legislation -Air quality and emission standards-legislation and regulation, Air 
 Case Study-Mining. Introduction to Air Quality Modelling. 
   Text Books 
 1. Rao, H.V.N., and Rao, M.N., Air Pollution , Tata McGraw Hill Education Pvt. Ltd., New 
- ## Page 126
- FMCD2009 / 2.0 
- 126 
-Back 
+
    Delhi, 2007. 
 2. Rao, C.S., Environmental Pollution Control , New Age International Pvt. Ltd, New Delhi, 
 2006 
 Reference Books: 
 1. A.O.C., Stem, Air Pollution -Vol I -IV, Academic Press., 2010. 
 2. Henry C Perkins, Air pollution, Tata McGraw Hill Education Pvt Ltd., New Delhi, 1974. 
- ## Page 127
- FMCD2009 / 2.0 
- 127 
+
 Program: BE Civil Engineering Semester: VII 
 Course Title: Nano Composite Materials Course Code:15ECVO401 
 L-T-P: 3-0-0 Credits: 03 Contact Hours: 40 
@@ -4037,10 +3721,7 @@ Applications in enginee ring, future scope of nano -composite, research, trainin
 of nano-composite materials. 
 8. Safety and environmental aspects 05 Hrs 
 Safety and environmental aspects o f nano -materials, future challenge, cost optimization and 
- ## Page 128
- FMCD2009 / 2.0 
- 128 
-Back 
+
    fabrication process of nano composite materials 
   Text Books 
 1. Hull D. and Clyne T.W., Introduction to Composite Materials, Cambridge University Press, 
@@ -4054,9 +3735,7 @@ Nanostructure Science and Technology], Springer (2006).
 3. Linda Williams & Wade Adams Nanotechnology Demystified, McGraw-Hill Company Inc, 
 New York, 2007. 
 4. Johns R.M., Mechanics of Composite Materials, 2ed., CRC Press, 2015 
- ## Page 129
- FMCD2009 / 2.0 
- 129 
+
 Program: BE Civil Engineering Semester: VII 
 Course Title: Optimization Techniques Course Code:15ECVO402 
 L-T-P: 3-0-0 Credits: 03 Contact Hours: 40 
@@ -4090,10 +3769,7 @@ Minimization using Geometric Programming,
 Multistage decision concert, principles of optimality. 
   Text Books 
 1. Rao S.S., Engineering Optimization Theory and Application , 3ed.,New Age International 
- ## Page 130
- FMCD2009 / 2.0 
- 130 
-Back 
+
    Pvt. Ltd., New Delhi, 2013. 
 2. Bhavikatti, S.S., Fundamentals of Optimum Designs in Engineering , 1ed., New Age 
 Publishers, New Delhi, 2017. 
@@ -4107,9 +3783,7 @@ Reference Books:
 2. Bishma Rao GSS, Optimization Techniques, Scitech Publication., 2003. 
 3. Mohan C. and Kusum Deep, Optimization Techniques, 1ed., New Age International Pvt. 
 Ltd., New Delhi, 2009. 
- ## Page 131
- FMCD2009 / 2.0 
- 131 
+
 Program: Civil Engineering Semester: VII 
 Course Title: Construction Management Workshop Course Code:25ECVP401 
 L-T-P: 0-0-1.5 Credits: 1.5 Contact Hours: 3 hrs/week 
@@ -4153,8 +3827,5 @@ site and the difficulties and solutions employed to their sites and present thei
 Pearson Publications, 2015. 
 2. Robert. L Peurifoy and William B. Ledbetter, Construction planning and Equipment& 
 methods, Tata McGraw Hill Pvt. Ltd, New Delhi, 3ed., 2010. 
- ## Page 132
- FMCD2009 / 2.0 
- 132 
-Back 
-3. Ursula Kuehn, Integrated Cost and Schedule Control in Project Management, 2ed.,2011. 
+
+3. Ursula Kuehn, Integrated Cost and Schedule Control in Project Management, 2ed.,2011.

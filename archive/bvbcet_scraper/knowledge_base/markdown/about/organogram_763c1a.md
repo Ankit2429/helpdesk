@@ -14,4 +14,3 @@ last_modified: "2026-07-28"
 ---
 # Organogram
  **Source URL:** https://www.kletech.ac.in/about/board-of-governors/organogram
- 

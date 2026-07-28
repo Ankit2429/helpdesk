@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 12th_BOG_Minutes"
+title: "BOG Minutes"
 category: "miscellaneous"
 subcategory: ""
 document_type: "syllabus"
@@ -11,17 +11,16 @@ language: "en"
 keywords: ["academic", "course", "document", "shall", "student", "university"]
 aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "131"
 ---
-# PDF Document: 12th_BOG_Minutes
- **PDF Source:** https://www.kletech.ac.in/pdf/12th_BOG_Minutes.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/12th_BOG_Minutes.pdf
  Minutes 
   12th Board of Governors Meeting (Online) 
 of 
 KLE Technological University, 
 Hubballi, Karnataka 
 19th September, 2020 at 11.30 am 
-  ## Page 2
  ii 
   The following are the minutes of the Board of Governors Meeting of KLE Technological 
 University, Hubballi which was held on 19th September 2020 at 11.30 am in online mode. 
@@ -71,7 +70,6 @@ Member
 2 The Principal Secretary/Secretary, Medical Education, 
 Government of Karnataka. 
 Member 
-  ## Page 3
  iii 
   Agenda 
   Item No. Particulars Page No 
@@ -96,7 +94,6 @@ BOG 12.5 To discuss the University progress report for the academic year 2019-20
 BOG 12.6 Any other subject with the permission of the Chair. 24 
  Annexure 1: [The new academic regulations governing MCA program] 11 
  Annexure 2: [The new academic regulations governing MBA program] 64 
-  ## Page 4
  1 
   BOG 
 12. 1 
@@ -152,7 +149,6 @@ Former Vice-Chancellor, Mangalore University,
 Veerbhadra Kripa, Navodaya Nagar, 
 Dharwad-580003 
 Member 
-  ## Page 5
  2 
   BOG 11.1 To confirm the minutes of the previous meeting held on 9th December 2018. 
 Discussion: The member secretary requested honorable members for any observations 
@@ -198,7 +194,6 @@ diversity, it is better to conduct an entrance examination by KLE Tech.
  Apply for QIP center in order to get good quality research scholars. 
  Make sure about the integrated program. Is it 4+2 with exit option or five years 
 without exit option? 
- ## Page 6
  3 
   Prof. R. Natarajan: 
  Are you offering any integrated programs? 
@@ -244,7 +239,6 @@ activities of TEQIP Phase III.
   Resolution 11.5: BOG noted the progress of TEQIP-III activities and resolved to 
 approve the following: 
  Revision of Procurement Plan. 
- ## Page 7
  4 
    Action Plan for 1st QTR (April - June 2019). 
 Further, BOG also authorized the Principal to take necessary actions or approve 
@@ -286,7 +280,6 @@ University.
 BOG 11.9 Any other subject with the permission of the Chair. 
   Chairman thanked all the members for their contributions and the meeting was concluded with a 
 vote of thanks to the Chair. 
-  ## Page 8
  5 
   Special BOG Meeting held on 31st August 2019 
    The Board of Governors of KLE Technological University met at 9.30 am on 31st August 
@@ -344,7 +337,6 @@ Former Vice-Chancellor, Mangalore University,
 Veerbhadra Kripa, Navodaya Nagar, 
 Dharwad-580003 
 Member 
-  ## Page 9
  6 
   1 To approve the list of eligible candidates (approved and recommended by Academic 
 Council) for the conferment of various degrees (Bachelor of Engineering, Master of 
@@ -386,7 +378,6 @@ of 10.
 NIL 
 Chairman thanked all the members for their contributions and the meeting was concluded with a 
 vote of thanks to the Chair. 
-  ## Page 10
  7 
   Action Requested: To confirm the minutes of the 11th BOG meeting held on 1st April 2019 
 and the special BOG meeting held on 31st August 2019. 
@@ -399,7 +390,6 @@ its 11th meeting of the Board of Governors held on 1st April 2019 in
 the office of the Principal of Sri. S. Nijalingappa College, Bengaluru 
 and special BOG meeting held on 31st August 2019 in the senate hall 
 of the KLE Technological University, Hubballi. 
-  ## Page 11
  8 
   BOG 
 12. 2 
@@ -432,7 +422,6 @@ Prof. B.S. Sonde also advised getting undertaking from the KLE Tech students
 The Board noted and approved the action taken report 
 on the minutes of the 10th meeting of the Board of 
 Governors held on 9th December 2018. 
- ## Page 12
  9 
   and personnel on the ownership of the IP . 
 Explore incorporation of MOOC courses into the curriculum. 
@@ -465,7 +454,6 @@ years without exit option?
 Prof. R. Natarajan: 
  Are you offering any integrated programs? 
 Noted 
- ## Page 13
  10 
    Have a provision for 'Post-Doctoral Fellowship' to improve the quality 
 of researchers. 
@@ -497,7 +485,6 @@ reconstruction of Shree Aranya Siddheshwar Temple of Kadapur .
 Proposed 31st August as the date for the first Convocation of KLE Tech and Sri. 
 Baba Kalyani as the Chief Guest. 
 Resolution 11.4: BOG noted the academic progress of the University for the 
- ## Page 14
  11 
   year 2018-19. 
 BOG 11.5 To review the progress of implementation and approve the planned activities 
@@ -532,7 +519,6 @@ conducted by the University and visits to 3 well-performing institutes, viz. IIM
 Indore, Nirma University, and Ahmedabad University. 
 BBA program will be offered from the academic year 
 2021-22. 
- ## Page 15
  12 
   Prof.B.S. Sonde advised looking into the exit policy of UGC. 
 Prof. R Natarajan wanted to know whether the semester or Trimester system 
@@ -561,7 +547,6 @@ Robotics of KLE Technological University.
 BOG ratified BoS, and BoE are communicated to the 
 respective departments. 
 BOG 11.9 Any other subject with the permission of the Chair. Nil 
- ## Page 16
  13 
    Special BOG Meeting Held on 31st August, 2019 
 Agenda Description Action Taken 
@@ -599,7 +584,6 @@ medals from him for outgoing best Boy and Girl students from the next
 Award of 'Chancellor' medal to a rank holder if he/she 
 has scored a CGPA of 10 will be implemented during the 
 ensuing convocation. 
-  ## Page 17
  14 
   Academic year . The registrar was directed to do further process in the matter. 
 Professor Sonde opined that a special medal needs to be installed by the 
@@ -615,7 +599,6 @@ also resolved to award from next academic year "Chancellor Medal" to a rank
 holder if he/she has scored a CGPA of 10. 
 BOG SPL 4 Any other matter with the permission of the Chair. 
 NIL 
-  ## Page 18
  15 
   Action Requested: The BOG is requested to confirm the action taken report on the 
 minutes of the previous meeting held on 1st April 2019 and 31st August 2019. 
@@ -634,7 +617,6 @@ final call in the larger interest of the students who wish to receive their degr
   Resolution 12.2: Resolved to confirm the action taken report on the 
 minutes of the previous meeting held on 1st April 2019 and 31st 
 August 2019. 
-  ## Page 19
  Page 1 of 131 
   BOG 
 12. 3 
@@ -670,7 +652,6 @@ To consider and approve the Budget Estimates for the Financial year 2020-21.
 Resolution 7.3: The budget for the year 2020-21 is approved. The same is recommended 
 for consideration and approval by the Executive Council. 
 (Ref: Section 19.8(i) of Chapter IV of the statutes of KLE Technological University) 
- ## Page 20
  Page 2 of 131 
   Act 2012 and Section 19.8(i) of chapter IV of the statutes of KLE Technological 
 University) 
@@ -696,7 +677,6 @@ Resolution 12.3: Resolved to approve the audited statements of
 2018-19 & budget of 2020-21 as recommended by the Finance 
 Council in their 6th & 7th meetings held on 3rd October 2019 and 11th 
 December 2019. 
- ## Page 21
  Page 3 of 131 
   BOG 
 12. 4 
@@ -732,7 +712,6 @@ regulations governing the Master of Business Administration
 Program and Master of Computer Application Program of KLE 
 Technological University, Hubballi, as per the 'KLE Technological 
 University Act 2012' provisions. 
- ## Page 22
  Page 4 of 131 
   BOG 
 12. 5 
@@ -770,11 +749,9 @@ using MS teams and conducted proctored online exams using Exam.Net software. As 
 as strategy for the academic year 2020-21, the University has put in place a 'Blended 
 Learning' model, where-in asynchronous videos will be recorded using 'Light Board' 
 technology and synchronous classes will be conducted using MS teams. 
- ## Page 23
  Page 5 of 131 
   Resolution 12.5: BOG noted the academic progress of the 
 University for the year 2019-20. 
- ## Page 24
  Page 6 of 131 
   UG PROGRAM ADMISSION DETAILS - 2019-20 
 Admissions to BE / BArch Program for First Year 
@@ -815,7 +792,6 @@ Mechanical Engineering 248 268 272 788
 Architecture 70 49 50 50 219 
 Total 1352 1231 1185 50 3818 
   Annexure 3.1 
- ## Page 25
  Page 7 of 131 
   PG PROGRAM ADMISSION DETAILS - 2019-20 
 Admissions to M Tech /MBA /MCA Program for First Year 
@@ -847,7 +823,6 @@ Computer Science 17
 VLSI Design & Embedded Systems 18 
 Machine Design 18 
 Grand Total 267 
-  ## Page 26
  Page 8 of 131 
   RESEARCH PROGRAM ADMISSION DETAILS - 2019-20 
 Admission to Research Programs in calendar year 2019 
@@ -875,7 +850,6 @@ Research Programs
 2017 35 
 2016 32 
 Grand Total 5716 
-  ## Page 27
  Page 9 of 131 
   Faculty Information 
   Department/Program 
@@ -915,17 +889,14 @@ Executives -- 03 -- -- --
   60 58 218 19 
   355 
   Annexure 3.2 
- ## Page 28
  Page 10 of 131 
   BOG 
 12. 6 
 Any other subject with the permission of the Chair 
 NIL 
-  ## Page 29
  Page 11 of 131 
   ANNEXURE -1 
 [The new academic regulations governing MCA program] 
- ## Page 30
  Page 12 of 131 
   Regulations Governing Master of Computer 
 Applications-MCA 
@@ -934,7 +905,6 @@ of
 KLE Technological University 
 2020 
 (Established under Karnataka Act No.22, 2013) 
-  ## Page 31
  Page 13 of 131 
   CONTENTS 
 Section Description Page 
@@ -981,7 +951,6 @@ CHAPTER VI, REGISTRATION AND ATTENDANCE 22
 CHAPTER VII, EXAMINATION SYSTEM 25 
 36 Controller of Examinations 25 
 37 Deputy Controller of Examinations 27 
- ## Page 32
  Page 14 of 131 
   38 Chief Superintendent 27 
 39 Additional Chief Superintendent(s) 27 
@@ -1032,7 +1001,6 @@ CHAPTER XII, ANNOUNCEMENT OF RESULTS 43
 77 Issue of Grade Cards, Transcripts, and other Certificates 45 
 78 Procedure for Leaving the University 45 
 79 Other Certificates 46 
- ## Page 33
  Page 15 of 131 
   80 Eligibility for Award of Degree 46 
 81 Award of Degree 47 
@@ -1049,7 +1017,6 @@ CHAPTER XIV, MAINTENANCE OF ACADEMIC RECORDS 48
 88 Clarification of Doubts 49 
 89 AMENDMENTS 49 
 90 JURISDICTION 50 
-  ## Page 34
  Page 16 of 131 
   REGULATIONS GOVERNING POSTGRADUATE PROGRAMME - MASTER OF COMPUTER 
 PPLICATIONS(MCA) 02 YEARS PROGRAMME OF KLE TECHNOLOGICALUNIVERSITY - 2020 
@@ -1091,7 +1058,6 @@ Average and Semester Grade Point Average.
   v. "Chancellor", "Pro Chancellor", "Vice-Chancellor" , 
 "Registrar", "Controller of Examinations", "Dean", and 
 "Departmental Chairperson" mean respectively the 
- ## Page 35
  Page 17 of 131 
   Chancellor, Pro Chancellor, Vice-Chancellor, Registrar, 
 Controller of Examinations, Dean, and Departmental 
@@ -1126,7 +1092,6 @@ University under the Act, Statutes, Regulations, and
 Notifications. 
   xviii. "Programme" or "Programme of study" means a higher 
 education programme pursued for a degree awarded by the 
- ## Page 36
  Page 18 of 131 
   University as specified under Section-22(3) of the UGC Act. 
   xix. "Department or School" means an entity that offers 
@@ -1166,7 +1131,6 @@ Committee
 Chancellor consisting of: 
   i Registrar - Chairperson 
   ii Coordinator Admission Cell - Member Secretary 
- ## Page 37
  Page 19 of 131 
     iii ONE Dean Nominated by the Vice-Chancellor 
   iv ONE nominee of the Executive Council - Member 
@@ -1199,7 +1163,6 @@ student, the syllabi thereof and the examinations passed.
   iv Committee shall examine and permit admission to an 
 appropriate term of the relevant programme of study on the 
 basis of equivalency. 
- ## Page 38
  Page 20 of 131 
     v The committee may also, if deemed necessary, conduct a 
 proficiency test to determine the transfer of credits and 
@@ -1237,7 +1200,6 @@ Chancellor
   4. 5 Department Postgraduate Committee (DPGC) There shall 
 be a Department Postgraduate Committee for each 
 Department offering a postgraduate academic programs. 
- ## Page 39
  Page 21 of 131 
      It shall have the following members: 
 Head of Department , Chairman 
@@ -1278,7 +1240,6 @@ following members:
 Chairperson; 
   ii ONE Professor, ONE Associate Professor and ONE Assistant 
 Professor from the Department, nominated by the Dean 
- ## Page 40
  Page 22 of 131 
   Academic Affairs/ the concerned Dean of Faculty - Members 
   iii TWO Subject experts from outside the University nominated 
@@ -1315,7 +1276,6 @@ communicated to all the members.
   6. 4 The Dean Academic Affairs / The concerned Dean of Faculty 
 shall reconstitute a Departmental Board of Studies once 
 every THREE years under normal circumstances and under 
- ## Page 41
  Page 23 of 131 
   extenuating circumstances, if deemed fit, he/she may 
 reconstitute the Departmental Board of Studies before the 
@@ -1356,7 +1316,6 @@ solutions for completeness, accuracy, appropriateness, and
 marks distribution; 
   iv Recommend to the Controller of Examinations suitable 
 persons for the appointment as examiners, question paper 
- ## Page 42
  Page 24 of 131 
   setters, evaluators and moderators. Question paper setters 
 shall have taught the concerned subject at least once or be 
@@ -1396,7 +1355,6 @@ Members; and
   v Chairpersons of Department/ School/ Center 
   vi Controller of Examinations - Member-Secretary. 
   9. 2 The Results Scrutiny Panel shall: 
- ## Page 43
  Page 25 of 131 
     i Review the report of the Controller of Examinations 
 pertaining to the results; 
@@ -1434,7 +1392,6 @@ present - Member.
 Departmental Chairperson or any other Teacher as deemed 
 necessary. 
   10. 2 The Examinations Malpractice Review Committee shall: 
- ## Page 44
  Page 26 of 131 
     i Review and inquire into cases of malpractice or indiscipline 
 during examinations reported by the Controller of 
@@ -1474,7 +1431,6 @@ Government norms;
 as required for the programme on or before the date of 
 admission which shall be duly supported by provisional 
 certificate issued by competent authorities. 
- ## Page 45
  Page 27 of 131 
   Admission 
 Process 
@@ -1517,7 +1473,6 @@ Admission
 have indulged in acts of indiscipline or unlawful 
 demonstrations and the like. Candidates who have been 
 expelled/ rusticated/ debarred from other institutions shall 
- ## Page 46
  Page 28 of 131 
    not be admitted. 
   13. 2 The Vice-Chancellor reserves the right to refuse admission 
@@ -1572,7 +1527,6 @@ establish the equivalency or otherwise, a committee shall be
 constituted by the Dean Academic Affairs / the concerned 
 Dean of Faculty to examine the courses already studied by 
 the student, the syllabi thereof and the examinations 
- ## Page 47
  Page 29 of 131 
   passed. The committee may also, if deemed necessary, 
 conduct a proficiency test to determine the transfer of 
@@ -1614,7 +1568,6 @@ from the program for a period of one year to do internship.
 Students who opt for 'Temporary Withdrawal' from the 
 term(s) are not allowed to register for Summer Semester. 
 The maximum period as defined in para 19 shall include the 
- ## Page 48
  Page 30 of 131 
   period of withdrawal. 
   17. 2 A student may be permitted only once during his/her 
@@ -1656,7 +1609,6 @@ permanently withdrawing from the University shall
 automatically stand terminated with effect from the date of 
 approval of withdrawal. Further, the University reserves the 
 right to recover any scholarship. 
- ## Page 49
  Page 31 of 131 
   CHAPTER IV PROGRAMMES OF STUDY AND STRUCTURE 
 Programmes 
@@ -1697,7 +1649,6 @@ on the course credits and grades obtained by the student,
 the grade point average shall be calculated. The student 
 shall earn a specified minimum number of credits for the 
 programme of study in order to qualify for the award of 
- ## Page 50
  Page 32 of 131 
   degree. 
 Credit system 21 Semester-wise credit-based system shall be followed in 
@@ -1715,7 +1666,6 @@ practical component.
 Example: Course 20ECAC701 Data Structures using C; 6 
 credits (4-0-2). The hours for this course are computed as 
 follows: 
- ## Page 51
  Page 33 of 131 
   4 credits = 4 hours/week lectures 
 0 credit = 0 hours/week tutorial 
@@ -1756,7 +1706,6 @@ however on the recommendation and approval of
 appropriate bodies the new type of courses may be 
 introduced from time to time depending upon the 
 requirement of program and innovations in teaching -
- ## Page 52
  Page 34 of 131 
   learning process: 
   22. 1.1 Professional Core Courses (PC): Professional Core courses 
@@ -1793,7 +1742,6 @@ Academic Council.
   24. 2 The detailed curriculum and syllabus for the programme of 
 study shall be framed by the Departmental/ School Board 
 of Studies with approval of the Academic Council and shall 
- ## Page 53
  Page 35 of 131 
   be notified from time to time. 
 Course code 
@@ -1850,7 +1798,6 @@ practicing in the numerical problem solving in different
 contexts. Students also get an opportunity to clarify their 
 doubts in the course. 
 3. Laboratory work with cooperative learning 
- ## Page 54
  Page 36 of 131 
   The laboratory experience has been enhanced by 
 categorizing the experiments as 
@@ -1889,7 +1836,6 @@ Selected online / MOOC courses either independent
 or as part of project work give the students 
 exposure to international best practices and help in 
 developing self-confidence. 
- ## Page 55
  Page 37 of 131 
   Course 
 instructor / 
@@ -1931,7 +1877,6 @@ elective course in the EC category.
   28. 4 If a student fails to register for course(s) during a term 
 without intimation to the Dean Academic Affairs / the 
 concerned Dean of Faculty, his/her admission shall be 
- ## Page 56
  Page 38 of 131 
   liable to be cancelled. 
   28. 5 For re-registration, late registration, adding/dropping of 
@@ -1979,7 +1924,6 @@ A withdrawal grade shall be awarded in such case(s).
   iii Audit: A student may change a credit course to an audit 
 one before the deadline specified for the purpose, with the 
 approval of the concerned Dean of Faculty. 
- ## Page 57
  Page 39 of 131 
   Registration 
 for Summer 
@@ -2023,7 +1967,6 @@ Condoning
 Attendance 
 35 In rare and genuine cases, the Vice-Chancellor may 
 condone a shortage of attendance to a maximum extent of 
- ## Page 58
  Page 40 of 131 
   Shortage 10% on the recommendation of the Dean Academic Affairs 
 / the concerned Dean of Faculty. 
@@ -2059,7 +2002,6 @@ order for the conduct of examinations, if necessary;
   ix Arrange for the issue of grade cards, transcripts, provisional 
 degree certificates, degree certificates, migration 
 certificates and so on to the students; 
- ## Page 59
  Page 41 of 131 
     x Maintain utmost secrecy while preparing and maintaining 
 the confidential materials, bills, and proceedings; 
@@ -2102,7 +2044,6 @@ examination center.
 drawing cards, data handbooks and other stationery) for 
 the conduct of examinations, and supply of the same to the 
 students, as necessary; 
- ## Page 60
  Page 42 of 131 
     ii Arrange for and appoint the required personnel for the 
 conduct of examinations, with the approval of the 
@@ -2154,7 +2095,6 @@ question papers and answer books, tabulation, preparation
 of grade cards and all such activities incidental thereto and 
 connected therewith, shall discharge such duties prudently 
 and with utmost integrity for ensuring high academic 
- ## Page 61
  Page 43 of 131 
   standards. 
   43. 1 If any person who has been allotted any kind of 
@@ -2199,7 +2139,6 @@ performance, considering the scores in both ISA and ESA.
 The assessment for theory courses carrying ISA and ESA 
 components will be done on Relative Grading system. 
 Other courses will be assessed by absolute grading system. 
- ## Page 62
  Page 44 of 131 
   List of courses assessed by Absolute Grading system is as 
 follows: 
@@ -2243,7 +2182,6 @@ courses may be evaluated by the way of experiments,
 demonstrations, field work, models, worksheets, practical 
 record books, quizzes, tests, and award of marks for 
 attendance. If a student misses a practical / laboratory 
- ## Page 63
  Page 45 of 131 
   session owing to genuine reasons, he/she shall complete 
 the activity of that session before the end of the term, with 
@@ -2294,7 +2232,6 @@ Center shall make arrangements for the evaluation of such
 components. The format for preparation of technical and 
 project reports shall be notified by the Head of the 
 Department/ School/ Center from time to time. 
- ## Page 64
  Page 46 of 131 
   Major Project 
 Announceme
@@ -2340,7 +2277,6 @@ the accuracy of his/her particulars in the list and
 discrepancies, if any, shall be reported to Office of the 
 Controller of Examinations within THREE working days from 
 the date of release. 
- ## Page 65
  Page 47 of 131 
   Admit Card 
   56 The Controller of Examinations shall make arrangements 
@@ -2390,7 +2326,6 @@ Appointment
 of Examiners 
 60 The Controller of Examinations from the panel 
 recommended by the Board of Examiners may appoint the 
- ## Page 66
  Page 48 of 131 
    examiners. However, the Controller of Examinations may 
 choose examiners outside the panel for valid reasons, with 
@@ -2439,7 +2374,6 @@ M> 90 S 10 Outstanding
 Avg.+ 0.60 * SD 
 ≤ M ≤ 90 
 A 9 Excellent 
- ## Page 67
  Page 49 of 131 
   Avg.-0.25*SD ≤ 
 M < Avg.+ 0.60 * 
@@ -2496,7 +2430,6 @@ Remarks
 5 51-60 D 6 Fair 
 6 40-50 E 5 Satisfactory 
 7 < 40 F 0 Fail 
- ## Page 68
  Page 50 of 131 
   8 I* - Absent for ESA 
 due to calamity 
@@ -2536,7 +2469,6 @@ during the Summer term of that academic year and the
 "W" grade shall be converted to one of the other letter 
 grades (S to F) after the completion of scheduled ESA of 
 Summer Semester. If the student does not register or 
- ## Page 69
  Page 51 of 131 
   appear for the ESA of Summer Semester, the "W" grade 
 shall be converted to an "F" grade. 
@@ -2574,7 +2506,6 @@ shall re-register for the same course when offered next.
   63. 6.2 A student who obtains "F" grade in an elective course shall 
 have an option of repeating the same elective course when 
 offered next or register for any other elective course. 
- ## Page 70
  Page 52 of 131 
     63. 6.3 The 'FA' grade denotes poor attendance i.e. failure in a 
 course due to attendance shortage (i.e. <75%) and the 
@@ -2617,7 +2548,6 @@ academic year.
 However failure to secure a minimum CGPA = 5.0 at the 
 end of any term for the first time, shall attract a warning 
 before approval of the student to continue in the following 
- ## Page 71
  Page 53 of 131 
   term. 
   65. 3 The failure grades of mandatory non-credit courses/audit 
@@ -2659,7 +2589,6 @@ declaration
 student upon graduation, considering the below specified 
 criteria. The class obtained by the student shall be inferred 
 as per the table given below: 
- ## Page 72
  Page 54 of 131 
    CGPA Equivalent Class/Division 
 5. 00-5.74 Pass 
@@ -2693,7 +2622,6 @@ a rank at the time of award of degree in the programme of
 Study, provided he/she has: 
   i Passed in all the courses of all terms in FIRST attempt; 
   ii Not obtained any transitional grades; 
- ## Page 73
  Page 55 of 131 
     iii Completed the Programme of study within the specified 
 minimum duration; 
@@ -2731,7 +2659,6 @@ notice in the third instance, each of which shall be
 intimated to the parents or guardians. 
   ii Failure to meet the standards of discipline prescribed by 
 the University, which may change from time to time. 
- ## Page 74
  Page 56 of 131 
     iii If a student fails to satisfy all the requirements for the 
 award of the degree within the maximum duration as 
@@ -2774,7 +2701,6 @@ results of any individual course. Upon rejection, the results
 shall be considered as null and void. Such rejection may be 
 permitted only once during the entire programme of study. 
 A student, who has rejected the whole term results, shall 
- ## Page 75
  Page 57 of 131 
   re-register for the courses of rejected term upon payment 
 of the prescribed fees. 
@@ -2814,7 +2740,6 @@ in all other registered courses of that
 examination. 
 ii) Gets the minimum prescribed passing mark in 
 that course by such gracing. 
- ## Page 76
  Page 58 of 131 
   GMR3 : A student is eligible to get a maximum of 1 % of 
 SGPA (0.1 out of 10) as grace if the student is 
@@ -2855,7 +2780,6 @@ for any corrections to be incorporated in the Grade card
 and / or transcript. On verification, the Controller of 
 Examinations shall issue a revised / corrected grade card / 
 transcript. 
- ## Page 77
  Page 59 of 131 
     76. 4 There shall be a provision to issue a duplicate grade card or 
 duplicate degree certificate to a student in case of loss or 
@@ -2899,7 +2823,6 @@ Degree
 a degree if he/she has: 
   i Credits and grades compliance as prescribed by the 
 concerned Faculty of Study within the stipulated maximum 
- ## Page 78
  Page 60 of 131 
   time duration, including Specialization and/or Minor, if any; 
 In case of MCA program a candidate shall earn a minimum 
@@ -2939,7 +2862,6 @@ basis for students in various programmes.
   82. 1 The Executive Council shall, on the recommendation of the 
 Academic Council, determine from time to time the 
 number and the value of merit scholarships to be awarded 
- ## Page 79
  Page 61 of 131 
   in each programme. 
   82. 2 The eligibility criteria for scholarship awards shall be as 
@@ -2984,7 +2906,6 @@ Departmental/ School Chairperson.
 a file for each student comprising of examination 
 registration details, up to date academic performance, and 
 such other relevant documents. 
- ## Page 80
  Page 62 of 131 
   Maintenance 
 of Answer 
@@ -3029,7 +2950,6 @@ Clarification
 of Doubts 
 87 Any doubts arising in implementation of these regulations 
 will be resolved as per the directions of the Vice-chancellor 
- ## Page 81
  Page 63 of 131 
   and the decision of the Vice-chancellor will be the final. 
 AMENDMENT
@@ -3049,11 +2969,9 @@ Academic Council is final and binding on all parties. Any
 legal issues arising from this set of regulations shall be 
 limited to the legal jurisdiction determined by the location 
 of the College and not that of any other parties. 
-  ## Page 82
  Page 64 of 131 
   ANNEXURE -2 
 [The new academic regulations governing MBA program] 
- ## Page 83
  Page 65 of 131 
   Regulations 
 Governing Master of Business Administration 
@@ -3062,7 +2980,6 @@ KLE Technological University
 2020 
   KLE Technological University 
 (Established under Karnataka Act No.22, 2013) 
-  ## Page 84
  lxvi 
   CONTENTS 
 Section Description Page 
@@ -3117,7 +3034,6 @@ CHAPTER VII, EXAMINATION SYSTEM
 42 Group Invigilators 26 
 43 Obligation to perform the examination work 26 
 44 Errors committed by an examiner 27 
- ## Page 85
  lxvii 
   45 Remuneration 27 
 46 Assessment 27 
@@ -3172,7 +3088,6 @@ CHAPTER XIV, MAINTENANCE OF ACADEMIC RECORDS
 88 Clarification of Doubts 45 
 89 Amendments 45 
 90 Jurisdiction` 46 
- ## Page 86
  68 
   REGULATIONS GOVERNING MBA PROGRAMME OF KLE TECHNOLOGICALUNIVERSITY - 2020 
   In exercise of the powers conferred by Section-37 of The KLE Technological University Act, 2012 
@@ -3213,7 +3128,6 @@ by the University.
 Point Average and Semester Grade Point Average. 
   v. "Chancellor", "Pro Chancellor", "Vice-Chancellor", 
 "Registrar", "Controller of Examinations", "Dean" , and 
- ## Page 87
  69 
   "Departmental Chairperson" mean respectively the 
 Chancellor, Pro Chancellor, Vice-Chancellor, Registrar, 
@@ -3252,7 +3166,6 @@ Notifications.
   xviii. "Programme" or "Programme of study" means a higher 
 education programme pursued for a degree awarded by 
 the University as specified under Section-22(3) of the UGC 
- ## Page 88
  70 
   Act. 
   xix. "Department or School" means an entity that offers 
@@ -3294,7 +3207,6 @@ Vice-Chancellor consisting of:
   iii ONE Dean Nominated by the Vice-Chancellor 
   iv ONE nominee of the Executive Council - Member 
   v ONE nominee of the Academic Council - Member 
- ## Page 89
  71 
     vi ONE member from society at large, nominated by the 
 Vice-Chancellor - Member; and 
@@ -3325,7 +3237,6 @@ on the basis of equivalency.
 proficiency test to determine the transfer of credits and 
 course(s) from which the student may be exempted 
   vi. The committee may also recommend extra credit to be 
- ## Page 90
  72 
   earned by the student 
   vii. The committee shall meet as and when required. 
@@ -3334,7 +3245,6 @@ course(s) from which the student may be exempted
   ii. The CSC has the following functions 1. To formulate the strategic policies in the following areas:  Facilitating highest student success  Creation of learner-centered environment  Support services beyond curriculum  Requirements of Human resources  Institution image building  Value based administration  Infrastructure planning and management  Interaction with other departments, cells/committees and stakeholders 2. To prepare strategic plans to pursue the above referred policies 3. To guide all the cells/committees towards implementation of policies 4. To conduct regular meetings to monitor the working of various cells/committees 5. To evaluate performance of each cell/committee vis-à-vis customer expectations The committee shall meet once as per direction of Vice Chancellor 
   4. 6 Department Postgraduate Committee (DPGC) There shall be a Department Postgraduate Committee for each Department offering a postgraduate academic programs. 
   i. It shall have the following members: 1. ..................................................................................... Head of Department , Chairman 2. ..................................................................................... Two Professors (by rotation for one year) 3. ..................................................................................... T
- ## Page 91
  73 
   wo Associate Professors ( by rotation for one year) 4. ..................................................................................... Two Assistant Professors (by rotation for one year) 
   The DPGC shall perform the following functions: 1. Monitor the conduct of courses offered by the department 2. Ensure academic standard and excellence of the courses offered by the department 3. Oversee the evaluation of each course offered by the department 4. Develop and revise the curriculum based on past experience and to recommend the same to the BoS 5. Review of examination results (CIE and SEE) and moderate (in consultation with the course instructor) where necessary to ensure fair assessment. 
@@ -3363,7 +3273,6 @@ Chairperson;
 Assistant Professor from the Department, nominated by 
 the Dean Academic Affairs/ the concerned Dean of Faculty 
 - Members 
- ## Page 92
  74 
     iii TWO Subject experts from outside the University 
 nominated by the Vice-Chancellor 
@@ -3403,7 +3312,6 @@ under extenuating circumstances, if deemed fit, he/she
 may reconstitute the Departmental Board of Studies 
 before the expiry of its term with the approval of the 
 Academic Council. 
- ## Page 93
  75 
   Board of 
 Appointment of 
@@ -3447,7 +3355,6 @@ once or be an expert in that field. However, in case of
 emergency, the Controller of Examinations may appoint 
 suitable persons as examiners, question paper setters, 
 evaluators and moderators with the approval of the Dean 
- ## Page 94
  76 
   Academic Affairs / The concerned Dean of Faculty; and 
   v Meet before the commencement of every examination. 
@@ -3486,7 +3393,6 @@ pertaining to the results;
 Controller of Examinations; 
   iii Scrutinize and finalize the results of every examination, 
 with or without moderation; 
- ## Page 95
  77 
     iv Review the answer books in extreme cases (erratic 
 valuation/ out of syllabus questions) based on complaints, 
@@ -3526,7 +3432,6 @@ cases of reported malpractice or indiscipline.
   10. 3 The Vice-Chancellor shall reconstitute the Examinations 
 Malpractice Review Committee once every THREE years 
 under normal circumstances and under extenuating 
- ## Page 96
  78 
   circumstances, if deemed fit, he/she may reconstitute the 
 Examinations Malpractice Review Committee before the 
@@ -3567,7 +3472,6 @@ Government of Karnataka from time to time.
 Quota shall appear for the entrance test conducted by the 
 University or by the recognized Entrance Examination 
 authorities such as KEA/CMAT/MAT/CAT. 
- ## Page 97
  79 
     12. 2.1 University may conduct Counseling for admissions based 
 on the rankings in the entrance test (if conducted) or 
@@ -3614,7 +3518,6 @@ Number
 15 Each student shall be assigned a 12-character alphanumeric Student 
 Registration Number (SRN) upon confirmation of admission as per the 
 following scheme: 
- ## Page 98
  80 
   Field Campus 
 Full/Par
@@ -3676,7 +3579,6 @@ or institution; (ii) the student obtains a clearance from the
 Dean Academic Affairs / the concerned Dean of Faculty of 
 the University; (iii) the student has no dues to the 
 University; and (iv) the student pays the prescribed fees 
- ## Page 99
  81 
   for his/her remaining minimum duration of the 
 programme 
@@ -3720,7 +3622,6 @@ the academic requirements and shall not be required to
 pay the fees for the period of withdrawal. 
   17. 5 A student who has temporarily withdrawn from the 
 University and fails to apply for resumption of the 
- ## Page 100
  82 
   programme of study, at the end of the approved period of 
 temporary withdrawal, shall be deemed to have 
@@ -3767,7 +3668,6 @@ programme
 20 20.1 Each academic year shall consist of two regular 
 semesters, Semester I and II, Semester III and IV and a 
 fast track (Summer) Semester. 
- ## Page 101
  83 
     20. 2 Activities in a term shall include teaching, learning, 
 examination and evaluation. 
@@ -3803,7 +3703,6 @@ MBA programme of study.
   21. 1 Generally, credits shall be assigned to each course in a 
 programme of study based on the following pattern: 
 g) Lectures: One lecture hour per week shall be assigned one credit h) Tutorials: Two tutorial hours per week shall be assigned one credit i) Practicals: Two laboratory hours per week shall be assigned one credit. Not more than three credits may be assigned to a practical course having only 
- ## Page 102
  84 
   laboratory component. The courses having three hours of contact every alternate week shall have one credit only j) Mini-projects, Minor-projects, Seminars, Projects (If any): Three contact and preparation hours per week shall be assigned one credit k) Dissertation : Three contact and preparation hours per week shall be assigned one credit l) Self Study: 4 student hours/ week/ Semester shall be assigned one credit. Total of Self study credits shall not exceed 12% of the total credits required for completion of a program. This shall be part of core courses including lab and program electives only. The assessment of self-study component shall be through continuous internal evaluation only and schemes of evaluation shall be decided by DPGC. 
   21. 2 The course credits for each course shall be given as L-T-P . 
@@ -3835,7 +3734,6 @@ programme shall be calculated at an average of
 TWENTY/TWENTY FOUR credits per regular Semester 
 with a margin of + 2.5%. For example, a 2-year MBA 
 programme shall comprise of four regular semesters and 
- ## Page 103
  85 
   therefore require 22 x 4 = 88 credits, the minimum being 
 88 and the maximum being 88 x 1.025 = 90 credits. 
@@ -3875,7 +3773,6 @@ credits. Such courses shall be referred to as non-credit
 (NC) courses, and may be mandatory in a study. 
   22. 1.5 Programme of study may have additional requirements 
 such as internship and residency. 
- ## Page 104
  86 
   Audit courses 
   23 A student may be permitted to take any number of audit 
@@ -3938,7 +3835,6 @@ may include guest lectures, field trips, mini projects, self-
 study and so on. Teachers may use state-of-the-art 
 knowledge dissemination tools. 
 To enrich the student experience, the teaching / learning 
- ## Page 105
  87 
   may include any of the following methods: 
 9. Lectures with active learning 
@@ -3980,7 +3876,6 @@ process of problem solving.
 14. Course projects 
 Course projects also help the students to 
 understand the concepts learnt in a course and 
- ## Page 106
  88 
   application of concepts in different contexts. 
 15. Directed self learning tasks 
@@ -4021,7 +3916,6 @@ shall be allowed to attend the classes of those courses.
 particular Semester as per schedule specified by the Dean 
 Academic Affairs / the concerned Dean of Faculty, except 
 for the courses in the first Semester. Registration for the 
- ## Page 107
  89 
   first Semester of a programme shall be a part of 
 admission process. 
@@ -4066,7 +3960,6 @@ enrollment in a
 31 A course shall be offered if a minimum number of 
 students have registered for that course, as specified by 
 the Dean Academic Affairs / the concerned Dean of 
- ## Page 108
  90 
   course 
   Faculty. Under special circumstances, a course may be 
@@ -4114,7 +4007,6 @@ classes, laboratory / practical and other sessions.
 practical session shall take attendance till the last 
 instruction day in the Semester. The students shall be 
 informed about their attendance status periodically by 
- ## Page 109
  91 
   the department so that the students get advance notice 
 to make up any shortage in attendance. 
@@ -4158,7 +4050,6 @@ examination time table from time to time;
 Assessment, if applicable; 
   v Appoint the required number of officials and staff for the 
 conduct of examinations, with the approval of the Vice-
- ## Page 110
  92 
   Chancellor; 
   vi Prepare detailed guidelines for the duties and 
@@ -4201,7 +4092,6 @@ Chief
 Superintendent 
 38 The Controller of Examinations shall appoint a Chief 
 Superintendent from amongst the senior Teachers of the 
- ## Page 111
  93 
    University during each Semester to assist him/her for the 
 conduct of examinations, with the approval of the Vice 
@@ -4247,7 +4137,6 @@ Group Invigilators
 number of Group Invigilators for the coordination and 
 supervision of a group of invigilators, as needed. In case of 
 emergency, a Group Invigilator may relieve an invigilator 
- ## Page 112
  94 
   for short intervals. 
 Obligation to 
@@ -4297,7 +4186,6 @@ table specified from time to time. The Teacher shall notify
 the weights of ISA and ESA components in the total marks 
 for a course in the lesson plans as per the approval of 
 Board of Studies. A student shall be awarded a letter 
- ## Page 113
  95 
   Grade for every course at the end of the Semester, 
 indicating the level of performance, considering the 
@@ -4339,7 +4227,6 @@ grade.
 Make up exams are not conducted for any courses, theory 
 or practical, of Summer Semester . 
 CHAPTER VIII 
- ## Page 114
  96 
   IN-SEMESTER ASSESSMENT 
 ISA 
@@ -4390,7 +4277,6 @@ carried out in the form of various components, such as
 oral presentations, demonstrations, technical / project 
 report, and viva-voce. The Head of the Department/ 
 School/ Center shall make arrangements for the 
- ## Page 115
  97 
   Postgraduates), 
 Seminar, 
@@ -4441,7 +4327,6 @@ students along with their registered courses. A student
 shall verify the accuracy of his/her particulars in the list 
 and discrepancies, if any, shall be reported to Office of the 
 Controller of Examinations within THREE working days 
- ## Page 116
  98 
   from the date of release. 
 Admit Card 
@@ -4492,7 +4377,6 @@ Examiners
 recommended by the Board of Examiners may appoint 
 the examiners. However, the Controller of Examinations 
 may choose examiners outside the panel for valid reasons, 
- ## Page 117
  99 
   with the approval of the Vice-Chancellor. 
 Tabulation of 
@@ -4545,7 +4429,6 @@ B 8 Very Good
 Avg.-1.05 * SD ≤ 
 M <Avg.- 0.25 * 
 C 7 Good 
- ## Page 118
  100 
   SD 
 Avg.- 1.50 * SD ≤ 
@@ -4605,7 +4488,6 @@ due to calamity
 attendance 
 shortage 
 * "W" , "X" and "I" grades shall be considered to be 
- ## Page 119
  101 
   transitional grades. 
 Result sheet shall contain the following 
@@ -4646,7 +4528,6 @@ courses with the permission of the Dean Academic Affairs
 appeal by the student, due to valid reasons such as 
 medical emergency, calamity in the family or any other 
 valid reason. For such a student, the "I" grade shall be 
- ## Page 120
  102 
   converted to one of the other letter grades (S to F) after 
 the completion of scheduled make-up ESA. If the student 
@@ -4687,7 +4568,6 @@ after the completion of scheduled ESA of Summer
 Semester . If the student does not register or appear for 
 the ESA of Summer Semester, the "FA" grade shall be 
 converted to an "F" grade. 
- ## Page 121
  103 
   Passing Standards 
 for a Course 
@@ -4732,7 +4612,6 @@ corresponding grade points secured by the student.
   66. 2 The CGPA is an indication of an up-to-date overall 
 performance of a student and the weighted average of 
 the grade points obtained in all the courses registered by 
- ## Page 122
  104 
   the student since he/she is admitted to the University. It 
 shall be calculated as: CGPA = Σ CiGi / Σ Ci, the summation 
@@ -4777,7 +4656,6 @@ study by securing a CGPA between 5.75 and 6.74 shall be
 declared to have passed in second class. 
   iv Pass Class: A student completing the programme of study 
 by securing a CGPA of less than 5.75 shall be declared to 
- ## Page 123
  105 
   have passed in pass class. 
 Declaration of 
@@ -4822,7 +4700,6 @@ minimum duration of the programme in years. If the
 performance of a student at the end of a registered 
 Semester is below 4.0, he/she shall be issued a warning 
 by the Controller of Examinations in the first two 
- ## Page 124
  106 
   instances and a show cause notice in the third instance, 
 each of which shall be intimated to the parents or 
@@ -4864,7 +4741,6 @@ Class Teacher / Parent / Guardian.
   71. 2 A student, who has applied for re-totaling, shall be shown 
 his/her answer books to verify the marks, totaling of the 
 marks and to find out whether or not all the answers of 
- ## Page 125
  107 
   the questions attempted were awarded marks. If such a 
 student finds any discrepancy in totaling of marks, he / 
@@ -4916,7 +4792,6 @@ CHAPTER XII ANNOUNCEMENT OF RESULTS
 Process of 
 declaration of 
 76 The draft results shall be processed through the following 
- ## Page 126
  108 
   results stages before its announcement: 
   i Draft results prepared by the Office of Controller of 
@@ -4956,7 +4831,6 @@ passing marks in ISA for that course by such
 grace marks. 
 GMR5 : The student is eligible to be graced under GMR2 
 only if grace marks have not been awarded 
- ## Page 127
  109 
   under one of GMR1 or GMR4. 
 GMR6 : Grace marks awarded under GMR1, GMR2 or 
@@ -5003,7 +4877,6 @@ Registrar for obtaining the "clearance certificate";
   iii Unless a student has obtained the "clearance certificate" 
 from the Registrar, neither "transcript of academic 
 record" or other documents shall be issued nor security 
- ## Page 128
  110 
   deposit or any amount due shall be refunded; 
   iv The refund of security deposit shall be permissible up to a 
@@ -5046,7 +4919,6 @@ shall be given a Provisional Degree Certificate by the
 Controller of Examinations, upon successful completion of 
 all requirements, submission of application in prescribed 
 format and payment of prescribed fees. The candidate 
- ## Page 129
  111 
   shall be given a Degree Certificate at the ensuing 
 Convocation, upon successful completion of all 
@@ -5096,7 +4968,6 @@ student comprising of the entrance test application (if
 applicable), copies of test results (if applicable), letter of 
 admission, application for admission, copies of previous 
 academic testimonials and such other relevant 
- ## Page 130
  112 
   documents. 
   86. 2 The office of the Dean Academic Affairs / the concerned 
@@ -5141,7 +5012,6 @@ objections are settled;
 (b) No academic records (including correspondence) shall 
 be destroyed for which proceedings are going on in a 
 Court of Law till the case is finalized; and 
- ## Page 131
  113 
     v A list of records proposed to be destroyed shall be 
 prepared by the Dean Academic Affairs / the concerned 
@@ -5171,5 +5041,4 @@ be addressed to the Academic Council. The decision of the
 Academic Council is final and binding on all parties. Any 
 legal issues arising from this set of regulations shall be 
 limited to the legal jurisdiction determined by the location 
-of the College and not that of any other parties. 
- 
+of the College and not that of any other parties.

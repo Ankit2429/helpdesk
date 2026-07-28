@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 02-mtech-in-ams-curriculum-structure-and-content-2025-2027"
+title: "M.Tech in Advanced Manufacturing Systems Curriculum"
 category: "academics"
 subcategory: ""
 document_type: "syllabus"
@@ -11,15 +11,14 @@ language: "en"
 keywords: ["ams", "chapter", "content", "course", "curriculum", "design", "document", "management", "manufacturing", "mtech"]
 aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "35"
 ---
-# PDF Document: 02-mtech-in-ams-curriculum-structure-and-content-2025-2027
- **PDF Source:** https://www.kletech.ac.in/pdf/02-mtech-in-ams-curriculum-structure-and-content-2025-2027.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/02-mtech-in-ams-curriculum-structure-and-content-2025-2027.pdf
  FMCD2009 / 2.0 1
   Curriculum Structure and Curriculum Content for the Academic Batch 2025-27 
 School /Department: Mechanical Engineering 
 Program: M.Tech in Advanced Manufacturing Systems 
-  ## Page 2
  FMCD2009 / 2.0 2
   Table of Contents 
 Vision and Mission of KLE Technological University ........................................................... 3 
@@ -33,7 +32,6 @@ Semester- III ..................................................................
 Semester- IV ..................................................................................................................... 9 
 List of Program Electives ................................................................................................. 11 
 Curriculum Content- Course wise ..................................................................................... 11 
-  ## Page 3
  FMCD2009 / 2.0 3
 Vision and Mission of KLE Technological University 
   Vision 
@@ -56,7 +54,6 @@ contributing our expertise, experience and leadership, to enhance
 competitiveness and quality of life. 
   As a unified community of faculty, staff and students, we work together with 
 the spirit of collaboration and partnership to accomplish our mission. 
-  ## Page 4
  FMCD2009 / 2.0 4
 Vision and Mission Statements of the School / Department 
 Vision 
@@ -100,7 +97,6 @@ Entreprene
 urial eco-
 system 
 Vision 
- ## Page 5
  FMCD2009 / 2.0 5
 Program Educational Objectives/Program Outcomes and Program-Specific 
 Objectives 
@@ -130,7 +126,6 @@ report/document
 area as per the specialization of the program. The mastery should be 
 at a level higher than the requirements in the appropriate bachelor 
 program 
-  ## Page 6
  FMCD2009 / 2.0 6
 Curriculum Structure-Overall 
     Semester 1 to 4 (2025-27) Total Program Credits:88 
@@ -150,7 +145,6 @@ Lab PLM Advanced Lab
 ERP Functional Lab Mini Project 
   Advanced Technologies in PLM 
    Credits 25 25 18 20 
- ## Page 7
  FMCD2009 / 2.0 7
 Curriculum Structure-Semester wise 
 Semester - I ←Back Table of Contents 
@@ -168,7 +162,6 @@ Duration
 7 25EAMP702 PLM Functional Lab PC 0-0-3 3 06 80 20 100 2 hours 
 8 25EAMP703 ERP Functional Lab PC 0-0-3 3 06 80 20 100 2 hours 
 TOTAL 15-1-9 25 35 
- ## Page 8
  FMCD2009 / 2.0 8
   Semester - II ←Back Table of Contents 
 No Code Course Category L-T-P Credits Contact 
@@ -191,7 +184,6 @@ Analysis PC 3-0-0 3 03 50 50 100 3 hours
 7 25EAMP705 ERP Advanced Lab PC 0-0-3 3 06 80 20 100 2 hours 
 9 20EAMW701 Mini Project PC 0-0-3 3 06 50 50 100 2 hours 
 TOTAL 14-2-9 25 36 
- ## Page 9
  FMCD2009 / 2.0 9
   Semester- III ←Back Table of Contents 
   No Code Course Category L-T-P Credits Contact 
@@ -202,7 +194,6 @@ Duration
 1 20EAMI801 Industrial Training/Mini Project PJ 0-0-10 10 30 50 50 100 2 hours 
 2 20EAMW801 Project Work Phase I PJ 0-0-8 8 24 50 50 100 2 hours 
 TOTAL 0-0-18 18 54 
- ## Page 10
  FMCD2009 / 2.0 10
   Semester- IV 
   No Code Course Category L-T-P Credits Contact 
@@ -212,7 +203,6 @@ Duration
 (in hrs) 
 1 20EAMW802 Project Work Phase II PJ 0-0-20 20 40 50 50 100 2 hours 
             TOTAL 0-0-20 20 40 
- ## Page 11
  FMCD2009 / 2.0 11 
 List of Program Electives ←Back-1Semester 
 Sr. No Name of the Course Course Code 
@@ -224,7 +214,6 @@ Sr. No Name of the Course Course Code
 6 Manufacturing Systems and Automation 25EAME706 
 7 Manufacturing Execution Systems 25EAME707 
 8 Robust Design Optimization 25EAME708 
-  ## Page 12
  FMCD2009 / 2.0 12 
 Curriculum Content- Course wise ←Back-1Semester 
   Program: Advanced Manufacturing Systems Semester: I 
@@ -266,7 +255,6 @@ Reference Books:
 (PDM) Design, exchange and integration viewpoints, VTT- Technical research centre of Finland, 
 2000. 
 2. Rodger Burden PDM: Product Data Management Volume 1, Resource Publishing, 2003. 
- ## Page 13
  FMCD2009 / 2.0 13 
 Curriculum Content- Course wise ←Back-1Semester 
   Program: Advanced Manufacturing Systems Semester: I 
@@ -308,7 +296,6 @@ Springer, Third Edition, 2015
 2. ChaudheryMustansar Hussain & Paolo Di Sia, "Handbook of Smart Materials, Technologies, 
 and Devices: Applications of Industry 4.0" , Springer. First Edition, 2021Ross P . J., "Taguchi 
 Techniques for Quality Engineering" , McGraw -Hill International. 
- ## Page 14
  FMCD2009 / 2.0 14 
 Curriculum Content- Course wise ←Back-1Semester 
   Program: Advanced Manufacturing Systems Semester: I 
@@ -340,7 +327,6 @@ Reference Books:
 (PDM) Design, exchange and integration viewpoints, VTT- Technical research centre of Finland, 
 2000. 
 2. Rodger Burden PDM: Product Data Management Volume 1, Resource Publishing, 2003. 
- ## Page 15
  FMCD2009 / 2.0 15 
 Curriculum Content- Course wise ←Back-1Semester 
 Program: Advanced Manufacturing Systems Semester: I 
@@ -384,7 +370,6 @@ Technology CENGAGE Learning.
 2nd edition, Prentice Hall India Learning Private Limited. 
 4. Pauline Weetman, Financial and Management Accounting: An Introduction, Pearson Education 
 Limited. 
- ## Page 16
  FMCD2009 / 2.0 16 
   Curriculum Content- Course wise ←Back-1Semester 
 Program: Master of Technology 
@@ -422,7 +407,6 @@ Supporting the Substitution of Components in Series Products, Procedia CIRP 21 2
 design conference 
 4. Rosen, D.W., 2007. Design for additive manufacturing: A method to explore unexplored regions 
 of the design space. In Proceedings of the 18th Annual Solid Freeform Fabrication Symposium. 
-  ## Page 17
  FMCD2009 / 2.0 17
   Curriculum Content- Course wise ←Back-1Semester 
 Program: Master of Technology 
@@ -457,7 +441,6 @@ Reference Books:
 1. KorenYoram, Robotics for Engineers, 2, McGraw-Hill Publication. , 2013 
 2. Groover M.P, Industrial Robotics, 3, Tata McGraw-Hill Publication, 2013 
 3. Niku Saeed B, Introduction to Robotics, 4, Prantice Hall India Publication, 2014 
-  ## Page 18
  FMCD2009 / 2.0 18 
 Curriculum Content- Course wise ←Back-1Semester 
   Program: Advanced Manufacturing Systems Semester: I 
@@ -500,7 +483,6 @@ Operation," Pearson Education.
 2. Lora Cecere, "Supply Chain Metrics that Matter," Wiley. 
 3. HartmutStadtler, "Supply Chain Management and Advanced Planning - Basics, Overview and 
 Challenges," European Journal of Operations Research, 163, 2015. 
-  ## Page 19
  FMCD2009 / 2.0 19 
 Curriculum Content- Course wise ←Back-1Semester 
   Program: Master of Technology 
@@ -540,7 +522,6 @@ John Wiley & Sons.
 3. Gordon G, System Simulation, Prentice Hall, India... 
 4. Shannon, R.E., System Simulation - The art and science, Prentice Hall, India. 
 5. Averill Law & David M.Kelton, Simulation, Modeling and Analysis, TMH. 
-  ## Page 20
  FMCD2009 / 2.0 20
   Curriculum Content- Course wise ←Back-1Semester 
 Program: Master of Technology 
@@ -585,7 +566,6 @@ Programming and Applications", Mc Graw Hill Book Publications.
 3. Krishna Kant, "Computer Based Industrial Control" PHI. 
 4. W. Bolton , "Programmable Logic Controllers" Fifth Edition, Elsevier 
 5. Vijay R. Jadhav, "Programmable Logic Controller", Second Edition, Khanna Publishers. 
-  ## Page 21
  FMCD2009 / 2.0 21 
   Curriculum Content- Course wise ←Back-1Semester 
 Program: Master of Technology 
@@ -632,7 +612,6 @@ Knowledge Management, Case-Based Reasoning (CBR), Big Data, Decision Analytics, 
 Analytics, Predictive Analytics, Prescriptive Analytics, Bitcoin and Blockchain, Merkle Tree, Blockchain 
 Types, Scope and Application of Blockchain in Manufacturing 
 Text Books 
-  ## Page 22
  FMCD2009 / 2.0 22 
 Reference Books: 
 1. SachinKaradgi, "A Reference Architecture for Real-Time Performance Measurement," Springer, 
@@ -662,7 +641,6 @@ http://www.opcfoundation.org/.
 16. WHO Good Practices for Pharmaceutical Quality Control Laboratories, WHO Technical Report 
 Series, No. 957, 2010. 
 17. Mike Bourne, Pippa Bourne, Handbook of Corporate Performance Management, Wiley, 2011. 
-  ## Page 23
  FMCD2009 / 2.0 23 
 Curriculum Content- Course wise ←Back-1Semester 
   Program: Master of Technology 
@@ -706,7 +684,6 @@ Applications to Engineering and SISAnce", John Wiley & sons, Inc., New York.
 5. Phadke M. S., "Quality Engineering using Robust Design", Prentice Hall PTR Englewood Cliffs, 
 New Jersy. 
 6. Ross P. J., "Taguchi Techniques for Quality Engineering", McGraw -Hill International. 
-  ## Page 24
  FMCD2009 / 2.0 24 
 Curriculum Content- Course wise ←Back-1Semester 
   Program: Advanced Manufacturing Systems Semester: I 
@@ -733,7 +710,6 @@ components into assembly work exercise to demonstrate Top-Down assembly approach
 existing 3D models into 2D drawings with all relevant details, sectional views etc. 
 Reference: 
 1. Companion Courses - https://companion.3ds.com/ 
- ## Page 25
  FMCD2009 / 2.0 25
   Program: Advanced Manufacturing Systems Semester: I 
 Course Title: ERP Functional Lab Course Code: 25EAMP703 
@@ -760,7 +736,6 @@ Generation of reports for various functional modules.
 Reference: 
 1. SAP Business One Manual 
 2. https://help.sap.com/docs/SAP_BUSINESS_ONE 
- ## Page 26
  FMCD2009 / 2.0 26
   Curriculum Content- Course wise ←Back-1Semester 
   Program: Advanced Manufacturing Systems Semester: I 
@@ -786,7 +761,6 @@ Project portfolio manager role, risk management, mitigate risks, identify and ma
 task execution. 
 Reference: 
 1. Companion Courses - https://companion.3ds.com/ 
- ## Page 27
  FMCD2009 / 2.0 27
 Curriculum Content- Course wise ←Back 2semester 
   Program: Advanced Manufacturing Systems Semester: II 
@@ -825,7 +799,6 @@ with digital twins in the product support and disposal phases, implementing digi
 vision, steps in the digital twin program. 
 Reference Books: 
 1. Stark John, "Product Lifecycle Management: Volume 7 - PLM and Digital Twins", Springer, 2024 
- ## Page 28
  FMCD2009 / 2.0 28 
   Program: Advanced Manufacturing Systems Semester: II 
 Course Title: Project Feasibility and Analysis Course Code: 25EAMC707 
@@ -840,7 +813,6 @@ budgeting, common weaknesses in capital budgeting.
 Chapter 2. Market and Demand Analysis: 8 hrs 
 Concept of strategy, portfolio strategy, business level strategies, strategic planning and capital 
 budgeting, generation of ideas, situational analysis, specification of objective, portfolio management 
- ## Page 29
  FMCD2009 / 2.0 29 
   Curriculum Content- Course wise ←Back 2semester 
 techniques, conduct of market survey, characteristics of market, swot analysis, demand forecasting, 
@@ -872,7 +844,6 @@ ISA Marks: 50 ESA Marks: 50 Total Marks: 100
 Teaching Hours: 40 Examination Duration: 3 Hrs 
 Unit I 
 Chapter 1. ERP implementation Basics: 7 hrs 
- ## Page 30
  FMCD2009 / 2.0 30 
   Master data management - item master, vendor master, COA, customer master, machine master, etc. 
 vendors- role of vendor; consultants: types of consultants; role of a consultant, employees; role of 
@@ -905,7 +876,6 @@ Technology CENGAGE Learning.
 2nd edition, Prentice Hall India Learning Private Limited. 
 4. Pauline Weetman, Financial and Management Accounting: An Introduction, Pearson Education 
 Limited. 
- ## Page 31
  FMCD2009 / 2.0 31 
   Curriculum Content- Course wise ←Back 2semester 
   Program: Master of Technology Semester: II 
@@ -924,7 +894,6 @@ Reference Books:
 2. Ranjit Kumar, "Research Methodology - A step by step guide for Beginners", 3rd Edition, 
 Pearson Edition, Singapore, 2011. 
 3. Dawson Catherine, "Practical Research Methods", UBS Publishers, New Delhi, 2002. 
- ## Page 32
  FMCD2009 / 2.0 32 
   Curriculum Content- Course wise ←Back 2semester 
   Program: Advanced Manufacturing Systems Semester: II 
@@ -966,7 +935,6 @@ rapid manufacturing", Hanser Publishers, 2011.
 Material Science, e-ISBN: 978-3-642- 28359-8. 
 4. L. Lu, J. Fuh and Y .-S. Wong, "Laser-induced materials and processes for rapid prototyping", 
 Kluwer Academic Press, 2001. 
- ## Page 33
  FMCD2009 / 2.0 33 
   Curriculum Content- Course wise ←Back 2semester 
   Program: Advanced Manufacturing Systems Semester: II 
@@ -992,7 +960,6 @@ Streamline engineering to manufacturing, define product portfolio, prepare and c
 definition, complete engineering and manufacturing definition. 
 Reference: 
 1. Companion Courses - https://companion.3ds.com/ 
- ## Page 34
  FMCD2009 / 2.0 34 
 Curriculum Content- Course wise ←Back 2semester 
   Program: Advanced Manufacturing Systems Semester: II 
@@ -1020,7 +987,6 @@ Generation of reports for various functional modules.
 Reference: 
 1. SAP Business One Manual 
 2. https://help.sap.com/docs/SAP_BUSINESS_ONE 
- ## Page 35
  FMCD2009 / 2.0 35 
   Curriculum Content- Course wise ←Back 2semester 
   Program: Master of Technology Semester: II 
@@ -1034,4 +1000,4 @@ of PLM and ERP to solve real-time problems/case studies. Also, they must be able
 a substantial technical report/document. 
 Text Books 
 Reference Books: 
-Companion Courses - https://companion.3ds.com/ 
+Companion Courses - https://companion.3ds.com/

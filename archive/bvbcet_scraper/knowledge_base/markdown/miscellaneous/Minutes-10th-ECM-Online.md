@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: Minutes-10th-ECM-Online"
+title: "Minutes 10th Ecm Online"
 category: "miscellaneous"
 subcategory: ""
 document_type: "syllabus"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["course", "document", "ecm", "examinations", "minutes", "online", "shall", "student", "university"]
 aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "71"
 ---
-# PDF Document: Minutes-10th-ECM-Online
- **PDF Source:** https://www.kletech.ac.in/pdf/Minutes-10th-ECM-Online.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/Minutes-10th-ECM-Online.pdf
  i 
   Minutes 
   10th Executive Council Meeting (Online) 
@@ -24,7 +24,6 @@ Hubballi, Karnataka
 07 September, 2021 at 10.30 am 
   KLE Technological University 
 (Established under Karnataka Act No.22, 2013) 
-  ## Page 2
  ii 
   Agenda 
   Sl. No Particulars Page Nos. 
@@ -43,7 +42,6 @@ Programmes of Legal Studies
 9 
  Annexure 2: Research Progress in 2020-2021 
   52 
-  ## Page 3
  1 | P a g e 
   EC 
 10. 1 
@@ -78,7 +76,6 @@ NIL
   Discussion: 
   Resolution 10.1: Resolved to confirm the minutes of its 9th meeting 
 held on 2nd March 2021. 
- ## Page 4
  3 | P a g e 
   EC 
 10. 2 
@@ -122,14 +119,12 @@ respective Schools/departments.
 EC 9.6: Any other subject with the permission of the Chair. 
 NIL 
 -- 
-  ## Page 5
  4 | P a g e 
   Action Requested: The Executive Council is requested to confirm the action taken report on the minutes of the previous meeting 
 held on 2nd March 2021. 
   Discussion: 
   Resolution 10.2: Resolved to confirm the action taken report on the minutes of its 9th meeting held 
 on 2nd March 2021. 
-  ## Page 6
  5 | P a g e 
   EC 
 10. 3 
@@ -164,7 +159,6 @@ To a question on benchmarking of the law college, the Vice-chancellor said we ar
 at O. P . Jindal Global University Sonipat, Haryana. 
   Resolution 10.3: The EC noted the status report of the constituent 
 colleges. 
- ## Page 7
  6 | P a g e 
   EC 
 10. 4 
@@ -180,7 +174,6 @@ governing U.G. & P .G. programmes of Legal Studies and explained the salient poi
 members expressed their consent 
   Resolution 10.4: Resolved to approve the academic regulations 
 governing U.G. & P.G. programmes of Legal Studies. 
- ## Page 8
  7 | P a g e 
   BOG 10.5 To discuss the research progress report for the years 
 2020 & 2021. 
@@ -211,7 +204,6 @@ Referring to the number of patents filed and granted, Prof. Atre asked what has 
 patents. In reply, the Vice-chancellor said so far, the focus was on NIRF, and we have not yet looked 
 into the monetization process or technology transfer or leading to collaboration. Prof. Atre 
 suggested raising this issue while discussing it with Prof Ravi Guttal, Director, CIPD. 
- ## Page 9
  8 | P a g e 
   Referring to the number of papers published by REU students and IREFs, Prof. Atre asked to present 
 the overlap as well. 
@@ -232,14 +224,11 @@ strategies we should have for a period of 4 to 5 years. In reply, Prof. Atre sai
 one strategy, develop technology and transfer technology. 
   Resolution 10.4: The EC noted the progress of the research activities 
 during 2020 and 2021. 
- ## Page 10
  9 | P a g e 
   EC 10.6 Any other subject with the permission of the Chair. 
 NIL 
-  ## Page 11
  10 | P a g e 
   Annexure -1
- ## Page 12
  i 
   Draft Regulations 
 Governing Undergraduate 
@@ -248,7 +237,6 @@ KLE Technological University
 2021 
   KLE Technological University 
 (Established under Karnataka Act No.22, 2013) 
- ## Page 13
  ii 
   CONTENTS 
 Section Description Page 
@@ -299,7 +287,6 @@ CHAPTER VII, EXAMINATION SYSTEM
 38 Additional Chief Superintendent(s) 29 
 39 Deputy Chief Superintendent(s) 30 
 40 Invigilators 30 
- ## Page 14
  iii 
   41 Group Invigilators 30 
 42 Obligation to perform the examination work 30 
@@ -353,7 +340,6 @@ CHAPTER XII, ANNOUNCEMENT OF RESULTS 44
 CHAPTER XIII, FELLOWSHIP / SCHOLARSHIP / FINANCIAL ASSISTANCE 
 82 Merit Scholarship 48 
 83 Award of Fellowships, Scholarships and Stipends by External Agencies 48 
- ## Page 15
  iv 
   CHAPTER XIV, MAINTENANCE OF ACADEMIC RECORDS 
 84 Maintenance of Academic Records 48 
@@ -362,7 +348,6 @@ CHAPTER XIII, FELLOWSHIP / SCHOLARSHIP / FINANCIAL ASSISTANCE
 87 Clarification of Doubts 50 
 88 Amendments 50 
 89 Jurisdiction 50 
- ## Page 16
  1 
   REGULATIONS GOVERNING UNDERGRADUATE AND POSTGRADUATE PROGRAMMES OF 
 LEGAL STUDIES OF KLE TECHNOLOGICAL UNIVERSITY -2021 
@@ -405,7 +390,6 @@ and Finance Council, of the University.
   iii B.A.LL.B. means an integrated double degree course 
 combining Bachelor of Arts and Bachelor of Law i.e., 
 name of the degree awarded after the completion of 
- ## Page 17
  2 
   requirements of undergraduate studies in Law. 
 B.B.A.LL.B. means an integrated double degree course 
@@ -444,7 +428,6 @@ requirements of the University.
   xi "Course" means one of the units (subject) which 
 comprises a Programme of study. 
   xii "Credit" means credit earned by a student after a 
- ## Page 18
  3 
   successful completion of a credited course. 
   xiii "Degree" means a degree awarded by the University with 
@@ -482,7 +465,6 @@ University, notified by the Board of Governors.
 specified Programme of study in the University. 
   xxvi "Teacher", "Course Instructor" means respectively a 
 faculty appointed for imparting instruction and research 
- ## Page 19
  4 
   guidance to students in the University and the Teacher 
 instructing a course. 
@@ -524,7 +506,6 @@ Council and Board of Governors from time-to-time
 following reservation policy as applicable. 
   ii conduction/coordination of the entrance test(s) if 
 required 
- ## Page 20
  5 
     iii preparation of merit list(s) if required 
   iv arrangement of counseling for candidates if required 
@@ -551,14 +532,12 @@ earned by the student
   4. 5 Central Steering Committee (CSC) 
    The constitution of CSC shall be as follows:  Vice-Chancellor Chairman,  Deans, HoDs and Cell Coordinators will be the Members and  Senior faculty nominated by the Vice Chancellor shall be member coordinator. 
    The CSC has the following functions 
- ## Page 21
  6 
   1. To formulate the strategic policies in the following areas:  Facilitating student success  Creation of learner-centered environment  Support services beyond curriculum  Requirements of Human resources  Institution image building  Value based administration  Infrastructure planning and management  Interaction with other departments, cells/committees and stakeholders 2. To prepare strategic plans to pursue the above referred policies 3. To guide all the school/department/cells/committees towards implementation of policies 4. To conduct regular meetings to monitor the working of various school/department/cells/committees 5. To evaluate performance of each school/department/ cell/committee vis-à-vis stake holders expectations The committee shall meet as per the direction of Vice Chancellor. 
   4. 5 Department Undergraduate/ Postgraduate Committee 
 (DUGC/DPGC) There shall be a Department Undergraduate/ Postgraduate Committee for each Department offering an undergraduate/postgraduate academic programs. 
    It shall have the following members: Dean of Legal Studies, Chairman One Professors (by rotation for one year) One Associate Professors ( by rotation for one year) Two Assistant Professors (by rotation for one year) 
    The DUGC/ DPGC shall perform the following functions: 1. Monitor the conduct of courses offered by the department 2. Ensure academic standard and excellence of the courses offered by the department 3. Oversee the evaluation of each course offered by the department 4. Develop and revise the curriculum based on past experience and to recommend the same to the BoS 
- ## Page 22
  7 
   5. Review of examination results (ISA and ESA) and moderate (in consultation with the course coordinator) where necessary to ensure fair assessment. 
 Fee Fixation 5 The fees shall be fixed by the Finance Council of the 
@@ -596,7 +575,6 @@ additional experts to the Departmental Board of Studies
 as deemed fit with permission from Dean(AA) 
   6. 2 A Departmental Board of Studies shall: 
   i Meet at least once a year, sufficiently before the 
- ## Page 23
  8 
   commencement of odd semester 
   ii Approve the Programme Educational Objectives (PEOs) as 
@@ -641,7 +619,6 @@ Departmental/ School/ Center Board of Studies -
 Member; 
   iii ONE external member from institutions of repute 
 nominated by the Vice-Chancellor - Member; 
- ## Page 24
  9 
     iv ONE faculty nominated by Head of School/Department/ 
 Center- Member Secretary; and 
@@ -683,7 +660,6 @@ basis, in addition to a consolidated report at the
 conclusion of examinations. 
 Results Scrutiny 9 The Vice-Chancellor shall constitute a Results Scrutiny 
 Panel for the finalization and approval of the results of 
- ## Page 25
  10 
   Panel examinations before announcement. 
   9. 1 The Results Scrutiny Panel shall consist of the following 
@@ -720,7 +696,6 @@ malpractice.
   10. 1 The composition of the committee shall be: 
   i The Vice-Chancellor or his/her nominee - Chairperson; 
   ii Dean Academic Affairs / The concerned Dean of Faculty- 
- ## Page 26
  11 
   Member; 
   iii ONE Departmental Chairperson nominated by the Vice-
@@ -762,7 +737,6 @@ notification from the state government / statutory bodies)
 from time to time, which shall be notified by the Registrar 
 in the Admission Brochure. However, the following 
 provisions shall be considered while specifying the 
- ## Page 27
  12 
   eligibility for admission to various programmes: 
   i In case of SC / ST / OBC candidates, there shall be a 
@@ -802,7 +776,6 @@ of the intake permitted as per the directions of state /
 central government should have the qualifications and 
 requirement as specified under the quota requirement by 
 the state or Central Government. 
- ## Page 28
  13 
   Refusal and 
 Revoking of 
@@ -868,7 +841,6 @@ of the relevant programme of study on the basis of
 equivalency. To establish the equivalency or otherwise, a 
 committee shall be constituted by the Dean Academic 
 Affairs / the concerned Dean of Faculty to examine the 
- ## Page 29
  14 
   courses already studied by the student, the syllabi thereof 
 and the examinations passed. The committee may also, if 
@@ -913,7 +885,6 @@ Students who opt for 'Temporary Withdrawal' from the
 semester(s) are not allowed to register for Supplementary 
 Semester . 
 The maximum period as defined in para 19 shall include 
- ## Page 30
  15 
   the period of withdrawal. 
   16. 2 A student may be permitted only once during his/her 
@@ -954,7 +925,6 @@ shall automatically stand terminated with effect from the
 date of approval of withdrawal. Further, the University 
 reserves the right to recover any scholarship 
   CHAPTER IV PROGRAMMES OF STUDY AND STRUCTURE 
- ## Page 31
  16 
   Programmes of 
 Study and duration 
@@ -999,7 +969,6 @@ programme
   19 19.1 Each academic year shall consist of two regular semesters, 
 odd semester and even semester, and a fast track 
 Supplementary semester . 
- ## Page 32
  17 
     19. 2 Activities in a semester shall include teaching, learning, 
 examination and evaluation. 
@@ -1031,7 +1000,6 @@ non-degree programmes.
   20. 1 Generally, credits shall be assigned to the each course in a 
 programme of study based on the following pattern: 
 a) Lectures: One lecture hour per week shall be assigned one credit b) Tutorials: Two tutorial hours per week shall be assigned one credit c) Practicals: Two laboratory hours per week shall be assigned one credit. Not more than three credits may be assigned to a practical course having only laboratory component. The courses having three hours of contact every alternate week shall have one credit only d) Mini-projects, Minor-projects, Seminars, Projects: Three contact and preparation hours per week shall be assigned one credit e) Dissertation : Three contact and preparation hours 
- ## Page 33
  18 
   per week shall be assigned one credit f) Legal Aid Work: There can be a self-study component in the curriculum as decided by the DUGC/DPGC. g) Self Study: There can be a self-study component in the curriculum as decided by the DUGC/DPGC. 
   20. 2 The course credits for each course shall be given as L-T-P . 
@@ -1066,7 +1034,6 @@ Laws: (B.B.A.LL.B) : 220
 Bachelor of Commerce and Bachelor of Laws: 
 (B.Com.LL.B) : 220 
 Bachelor of Laws: (LL.B.): 132 
- ## Page 34
  19 
   Master of Laws: (LL.M) : 88 
   20. 4 A full-time student shall normally register for TWENTY 
@@ -1108,7 +1075,6 @@ Professional Elective courses shall be in the range of 16-
 32 credits 
 Open Elective (OE) 
 Open Elective course shall be in the range of 2-12 Credits 
- ## Page 35
  20 
     21. 1.4 Clinical Learning Methods (CLM) - these are to comply 
 with apex body's prescriptions and to impart the core 
@@ -1149,7 +1115,6 @@ Council and shall be notified from time to time.
   Course code 
   24 24.1 Every course in a programme shall be assigned a course 
 code, using nine alphanumeric characters as under: 
- ## Page 36
  21 
   Field Year Faculty Progr
 amm
@@ -1206,7 +1171,6 @@ knowledge dissemination tools.
 To enrich the student experience, the teaching / learning 
 may include any of the following methods: 
 1. Lectures with active learning 
- ## Page 37
  22 
   This method is used for large number of courses in the 
 program. To make it more impactful several active 
@@ -1249,7 +1213,6 @@ understand the concepts learnt in a course and
 application of concepts in different contexts. 
 7. Directed self learning tasks 
 The activities like term paper writing, seminars 
- ## Page 38
  23 
   give the student capability to develop lifelong 
 learning skills 
@@ -1291,7 +1254,6 @@ the curriculum requirement.
   10. Internship Project 
 A student is allowed to earn credits during his/her 
 internship as in the curriculum structure. 
- ## Page 39
  24 
   11. Courses offered from different centers 
 Students of Bachelor's and Master's of Law 
@@ -1334,7 +1296,6 @@ courses
   27 In each semester, an eligible student shall register for the 
 courses in a programme he/she intends to study. Only 
 registered students shall be allowed to attend the classes 
- ## Page 40
  25 
   of those courses. 
   27. 1 Students shall register for the courses to be studied in a 
@@ -1373,7 +1334,6 @@ entered on the registration record which may be
 maintained on-line. Queries related to registration shall 
 be considered only when accompanied by the original 
 registration record. This record shall be preserved until 
- ## Page 41
  26 
   the student receives the semester grade card. 
 Registration 
@@ -1424,7 +1384,6 @@ programme, notwithstanding the number of credits to be
 earned during the final year / semester. 
   32. 3 A student who registers for a course in the Summer Term 
 on account of failure, withdrawal or any other form of 
- ## Page 42
  27 
   discontinuance shall pay additional fees as prescribed 
 from time to time. 
@@ -1471,7 +1430,6 @@ Controller of Examinations shall:
 examinations of the University; 
   ii Convene the meetings of the Authorities of the University 
 for which he/she is the Member-Secretary, on the 
- ## Page 43
  28 
   approval of the Vice-Chancellor; 
   iii Arrange for the preparation and notification of 
@@ -1510,7 +1468,6 @@ its consideration.
 shall strictly implement what is stated in the examination 
 process approved by appropriate authority and will take 
 steps to maintain all secrecy and confidentiality of 
- ## Page 44
  29 
   examinations 
 Deputy Controller 
@@ -1557,7 +1514,6 @@ Superintendent(s)
 Superintendent(s), from amongst the senior Teachers of 
 the University, with the approval of the Vice Chancellor, if 
 required. The Deputy Chief Superintendent(s) shall assist 
- ## Page 45
  30 
   the Chief Superintendent in the conduct of examinations. 
 Invigilators 
@@ -1607,7 +1563,6 @@ All work relating to ISA, ESA and all other matters
 incidental thereto and ancillary therewith, with or 
 without remuneration shall be deemed to be a part of 
 normal duty of every employee of the University. 
- ## Page 46
  31 
   Assessment 
   45 The University shall follow a combination of In-Semester 
@@ -1655,7 +1610,6 @@ Make up exam shall also be available to students awarded
 "X" grade and this make-up examination will be 
 conducted along with supplementary examination at the 
 end of the academic year in which the candidate is 
- ## Page 47
  32 
   awarded "X" grade. 
 Make up exams are not conducted for any courses, theory 
@@ -1698,7 +1652,6 @@ by the Controller of Examinations.
   49. 4 The concerned department / Teacher shall maintain the 
 records pertaining to each component of ISA for such 
 period as specified by the Controller of Examinations from 
- ## Page 48
  33 
   time to time. 
 ISA of Special 
@@ -1752,7 +1705,6 @@ must be met:
   ii ISA marks: Not less than 40% of ISA marks in UG programs and 50% in case of PG programs (except in those cases where it is not specially mentioned in the scheme of evaluation) 
   iii Students not fulfilling attendance requirement or ISA 
 requirement shall be assigned an 'FA" or "F" grade(as in 
- ## Page 49
  34 
   section 63)respectively. 
 Student list for ESA 
@@ -1802,7 +1754,6 @@ recommended by BoS shall be held in batches, which may
 span over several days. The evaluation may be based on 
 various components such as writing of abstract, project or 
 technical report, oral presentation, demonstration, and 
- ## Page 50
  35 
   viva voce. The Controller of Examinations in consultation 
 with the Dean Academic Affairs / the concerned Dean of 
@@ -1849,7 +1800,6 @@ Mean and Standard Deviation calculation)
 90 
  F shall be awarded if scored marks is less than 40 
 Proposed Relative Grading System 
- ## Page 51
  36 
   Total Mark, M 
 secured by the 
@@ -1913,7 +1863,6 @@ NOTE: The Course Grading table generated for the first
 time based on the Average & Standard Deviation will be 
 used strictly for awarding grades to all the re-evaluated 
 courses and Summer semester Examinations. 
- ## Page 52
  37 
   Absolute Grading System 
  # Mark
@@ -1969,7 +1918,6 @@ student satisfies the attendance and performance criteria
 specified for the course by the concerned Teacher. 
 Otherwise, an AF grade shall be awarded. 
 Students having qualified for ESA in mandatory non-credit 
- ## Page 53
  38 
   courses/audit courses and obtained an 'AF' grade need 
 not re-register for the course again but are required to 
@@ -2012,7 +1960,6 @@ scheduled make-up ESA. If the student does not appear
 for the make-up ESA, the "X" grade shall be converted to 
 an "F" grade. 
 "X" grade is not awarded at Makeup exams or in 
- ## Page 54
  39 
   supplementary semester. 
   62. 6 'F' grade: A student shall be awarded an "F" grade if 
@@ -2056,7 +2003,6 @@ Progression to Next
 Academic Year -
 64 The requirement to progress to the next academic year is 
 only on the basis of number of courses and is as follows: 
- ## Page 55
  40 
   Vertical Progression 
   64. 1 Maximum number of F grades that can be carried at the 
@@ -2097,7 +2043,6 @@ calculating the CGPA.
 registers for the same or equivalent course in a 
 subsequent semester, the new grade obtained shall 
 replace the previous "F" grade in calculating the CGPA. 
- ## Page 56
  41 
     65. 5 Grades obtained in audit courses and transitional grades 
 shall not be considered in the calculations of CGPA and 
@@ -2138,7 +2083,6 @@ not exceed FIVE irrespective of the total number of
 graduating students in a programme of study. A student 
 shall be eligible for a rank at the time of award of degree 
 in the programme of Study, provided he/she has: 
- ## Page 57
  42 
     i Passed in all the courses of all semesters in FIRST attempt; 
   ii Not obtained any transitional grades; 
@@ -2181,7 +2125,6 @@ and a show cause notice in the third instance, each of
 which shall be intimated to the parents or guardians. 
   ii Failure to meet the standards of discipline prescribed by 
 the College, which may change from time to time. 
- ## Page 58
  43 
     iii If a student fails to satisfy all the requirements for the 
 award of the degree within the maximum duration as 
@@ -2224,7 +2167,6 @@ she shall bring the same to the notice of the concerned
 officials for incorporating the necessary corrections. 
 Supply of 70 A student may apply for obtaining the photocopies of his 
 answer books of ESA to the Controller of Examinations, 
- ## Page 59
  44 
   photocopy 
   upon the payment of prescribed fee, within THREE 
@@ -2274,7 +2216,6 @@ stages before its announcement:
   i Draft results prepared by the Office of Controller of 
 Examinations shall be placed before the Results Scrutiny 
 Panel for review; 
- ## Page 60
  45 
     ii Subsequent to the review, the Controller of Examinations 
 shall announce the provisional results after the approval 
@@ -2315,7 +2256,6 @@ GMR6 : Grace marks awarded under GMR1, GMR2 or
 GMR4 will be recorded in the marks ledger but 
 not be so indicated in the grade card. 
 GMR7 : Grace marks awarded under GMR3 will be 
- ## Page 61
  46 
   recorded in the marks ledger and also indicated 
 as such on the grade card. 
@@ -2362,7 +2302,6 @@ deposit or any amount due shall be refunded;
 period of ONE year from the date the student leaves the 
 University, after which it shall stand credited to the 
 Endowment Fund of the University; and 
- ## Page 62
  47 
     v After successful completion of all the requirements for the 
 award of degree, the Dean Academic Affairs / the 
@@ -2408,7 +2347,6 @@ damages for delay
 81 No student shall be entitled to claim any damages, 
 whatsoever from the University on the account of late 
 declaration of result, delay in the issue of grade cards or 
- ## Page 63
  48 
    any other certificates, delay in re-valuation, re-totaling or 
 any other process associated with the examinations or 
@@ -2456,7 +2394,6 @@ comprising of course registration details, up to date
 attendance, academic performance and achievements, 
 and such other relevant documents. The Dean Academic 
 Affairs / the concerned Dean of Faculty may choose to 
- ## Page 64
  49 
   maintain such student files in the office of the concerned 
 Departmental/ School Chairperson. 
@@ -2501,7 +2438,6 @@ invariably be obtained before they are destroyed. The
 academic records to be weeded out shall be destroyed by 
 way of shredding under direct supervision of the Dean 
 Academic Affairs / the concerned Dean of Faculty. 
- ## Page 65
  50 
   Clarification of 
 Doubts 
@@ -2511,12 +2447,9 @@ chancellor and the decision of the Vice-chancellor will be
 the final. 
 AMENDMENTS 88 The regulations listed herein, on approval by the Academic Council and Board of Governors, shall be binding on all students enrolled for the Bachelor's and Master's Programs in Law degree. The regulations listed herein may be amended, updated, changed through appropriate approval from the Academic Council from time to time and shall be binding on all parties concerned including students, faculty, staff, departments, constituent college authorities. 
 JURISDICTION 89 All disputes arising from the regulations listed herein must be addressed to the Academic Council. The decision of the Academic Council is final and binding on all parties. Any legal issues arising from this set of regulations shall be limited to the legal jurisdiction determined by the location of the College and not that of any other parties. 
-   ## Page 66
  51 
-  ## Page 67
  52 
   Annexure -2
- ## Page 68
  1 
   Research Progress in 2020-2021 
   The brief progress of the University is presented. The key performance indicators show the university is on 
@@ -2550,7 +2483,6 @@ S.No School / Dept No. of Research Supervisors
 6 Biotechnology 5 5 6 6 
 7 Electrical & Electronics Engg. 2 2 2 5 
 8 Humanities and Social Sciences 1 1 1 1 
- ## Page 69
  2 
   9 Engineering Education and Research 3 3 3 3 
 10 Chemistry 4 4 4 6 
@@ -2588,7 +2520,6 @@ Conference Total
 77 
   77 04 158 27 2 29 
 (As on July 2021) 1887 849 
-  ## Page 70
  3 
   4. Patents Published 
  2015-16 2016-17 2017-18 2018-19 2019-20 2020-21 
@@ -2614,7 +2545,6 @@ ARE 2 17 0 0
 Total 9 138 7 154.77 
   Funding Agencies: AICTE, DST- NSM HPC, VGST, SRIB Bangalore, Dassault Systems, VGST-KFIST, MSME, AICTE-RPS, UAS 
 Dharwad 
- ## Page 71
  4 
   5. Internal Research Grants (CB and GEAR) 
   Details 2020-21 2019-20 
@@ -2639,5 +2569,4 @@ Number 1 2
 IRP 
 Amount 10.5 9.56 
 Number 8 9 
-Total Amount 304.97 192.85 
- 
+Total Amount 304.97 192.85

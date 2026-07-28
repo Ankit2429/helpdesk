@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 9th_BOG_Minutes"
+title: "BOG Minutes"
 category: "miscellaneous"
 subcategory: ""
 document_type: "syllabus"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["chancellor", "document", "meeting", "prof", "university", "vice"]
 aliases: ["KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "18"
 ---
-# PDF Document: 9th_BOG_Minutes
- **PDF Source:** https://www.kletech.ac.in/pdf/9th_BOG_Minutes.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/9th_BOG_Minutes.pdf
  Minutes of Meeting 
   9th Board of Governors Meeting 
 of 
@@ -23,7 +23,6 @@ Hubballi, Karnataka
 June 11th, 2018 at 10 am 
   Venue: Senate Hall, KLE Technological University, Hubballi - 
 580031 
-  ## Page 2
  ii 
   The following are the minutes of the Meeting of Board of Governors of KLE Technological 
 University, Hubballi which was held on 11th June 2018 at 11.00 am. at the Senate Hall of the 
@@ -73,7 +72,6 @@ Member
 2 The Principal Secretary/Secretary, Medical Education, 
 Government of Karnataka. 
 Member 
-  ## Page 3
  iii 
   Agenda 
   Sl No Particulars Page No 
@@ -93,7 +91,6 @@ Vidyanagar Branch, Hubballi.
 Table Agenda 2: To consider and accord permission to raise a loan of Rs.10.00 
 Crores towards construction of Indoor Stadium. 
 15 
-  ## Page 4
  1 
   BOG 9.1 To confirm the minutes of the previous meeting held on 24th March 2018. 
  Prof. B.L. Desai, Registrar welcomed all the members of the Board of Governors. With 
@@ -149,7 +146,6 @@ Government of Karnataka.
 Member 
   BOG 8.1 To confirm the minutes of the previous meeting held on 20th September 2017. 
 Discussion: Prof. B.S. Sonde, UGC nominee advised to include information about 
- ## Page 5
  2 
   members who attended the meeting. Registrar, assured tha t henceforth the members 
 attendance will be included in the minutes, which will be part of agenda 1. 
@@ -191,7 +187,6 @@ PhD as the fee structure in Karnataka in quite low. Prof. R. Natarajan suggested
 BITS Pilani's model for students' feedback and also suggested to ask questions regarding 
 students' feedback to Dr. Veena Kumar. 
 Prof. B.S. Sonde wanted to know about faculty induction programme and how much 
- ## Page 6
  3 
   time faculty d evote for Teaching, Research and Administration. He said at NUS, 
 Singapore the ratio is 40:40:20; weightages for Teaching and Research may vary but 
@@ -231,7 +226,6 @@ monitor the progress of it's implementation
 BOG 8.8 To discuss and approve the University Annual Report for the academic year 2016-17 
 Discussion: Prof. B.S. Sonde asked whether the annual report has been uploaded on the 
 University website. Vice chancellor replied that once the BOG accord approval the 
- ## Page 7
  4 
   annual report shall be uploaded. 
 Resolution 8.8: BOG approved the Annual report of the University for the academic 
@@ -254,7 +248,6 @@ the meeting was concluded.
   Resolution 9.1: The Board of Governors confirmed the minutes of its 8 th meeting of the Board 
 of Governors held on 24 th March 2018 at the Board Room of KLE University, J N 
 Medical College campus, Belagavi. 
- ## Page 8
  5 
   BOG 9.2 To confirm the action taken report on the minutes of the previous meeting held on 24th March 2018. 
 Agenda Description Action Taken 
@@ -290,7 +283,6 @@ the University for the academic year 2018 -19 has
 been received vide letter no. F.No. South -West 
 /2018-19/1-3626724751 dated 30th April 2018. 
 BOG 8.4 To discuss the University progress report for the academic year 2017 -18 
- ## Page 9
  6 
   (Information agenda). 
 Discussion: Prof. B.S. Sonde asked to present admissions under 2 categories; 
@@ -325,7 +317,6 @@ the sanctioned intake, GOI quota and
 admissions under supernumerary quota. 
  Visit to BI TS (Pilani) will be made to study 
 their model for students' feedback. 
-  ## Page 10
  7 
   make them interested in research rather than forcing them. He opined that 
 anything that depends on monitoring will not work. 
@@ -357,7 +348,6 @@ month of April 2018. The approved curriculum
 structure and content will be implemented from the 
 academic year 2018-19. 
 BOG 8.6 To discuss and ratify Undergraduate Minor Programme in 'Bioengineering' that Noted 
- ## Page 11
  8 
   has been instituted by the University during even semester of the academic year 
 2017-18 and also note the scheme and syllabi of the programme. 
@@ -396,7 +386,6 @@ University takes up many activities both
 construction and purchase of equipment to get 
 ready for the next academic year. 
 Noted. 
- ## Page 12
  9 
   of adhoc cash credit facility from AXIS Bank Limited, Hubballi to the extent of 
 Rs. 5.0 Crores. 
@@ -415,7 +404,6 @@ examples.
 Referring to curriculum structure of first year Prof. B.S. Sonde draw the attention of the members about AICTE's model curriculum and 3 weeks 
 'Induction Programme'. 
   Resolution 9.2: Resolved to confirm the action taken report on the minutes of the previous meeting held on 24th March 2018. 
-  ## Page 13
  10 
   BOG 
 9. 3 
@@ -450,7 +438,6 @@ The performance of the same will be reflected in the 7th semester grade card.
 Registration for this course shall be during the summer semester after the 6th 
 semester and will be completed at the end of the 7th semester. 
 3. Start-up Internship Experience (SIE): 
- ## Page 14
  11 
   SIE is a 6 -credit co urse on 'Strat -up Internship Experience' offered to students 
 completing 6th semester. Students will join a CTiE recognized start-up as interns, in the 
@@ -483,7 +470,6 @@ their company. To this Vice-Chancellor said that at present only space, furnitur
 given, capital should be brought by the graduates who wish to start their company. Prof. B.S. Sonde 
 suggested having neutral examiners to assess ' Start-up Internship Experience ' course. To this Smt. 
 Sudha Murty expressed that the startup may not be interested in 3rd person looking at their work. 
-  ## Page 15
  12 
   Resolution 9.3: BOG noted the revised curriculum structure that provide s an opportunity for UG 
 students to do 'Industry -Internship' for at least 5 months during their 8th semester and the 
@@ -491,7 +477,6 @@ following new academic initiatives of UG programs approved by the Academic Counc
  Swachh Bharat Summer Internship - 3 credit course 
  Institutional Research Project (IRP) Internship - 6 credit course and 
  Start-up Internship Experience (SIE) - 6 credit course 
- ## Page 16
  13 
   BOG 
 9. 4 
@@ -532,13 +517,11 @@ Discussion:
 appointment of the Vice -chancellor and the Registrar for the second term as per the KARNATAKA 
 ACT NO. 22 OF 2013 THE KLE TECHNOLOGICAL UNIVERSITY ACT, 2012 and the FIRST STATUTES OF 
 THE KLE TECHNOLOGICAL UNIVERSITY. 
- ## Page 17
  14 
    Dr. Ashok S. Shettar is re -appointed as the Vice -Chancellor of the KLE Technological 
 University, Hubballi for a further period of three years and 
  Prof. B.L. Desai is re -appointed as the Registrar of the KLE Technological University, 
 Hubballi for a further period of one year. 
-  ## Page 18
  15 
   BOG 9.5 Any other subject with the permission of the Chair. 
   Table Agenda 1: To open the fixed deposit accounts with Axis Bank Ltd, Vidyanagar Branch, 
@@ -561,5 +544,4 @@ needs of sports as well as conduct of University convocation and other big event
 Resolution 9.5b: BOG considered the request of the Vice -Chancellor and accorded permission to 
 raise Rs. 10.00 Crores loan towards construction of Indoor Stadium. 
   The meeting was concluded with a v ote of thanks to the Chair & all the members for the ir 
-contributions. 
- 
+contributions.

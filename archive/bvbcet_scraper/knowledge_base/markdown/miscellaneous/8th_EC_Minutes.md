@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 8th_EC_Minutes"
+title: "EC Minutes"
 category: "miscellaneous"
 subcategory: ""
 document_type: "minutes"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["council", "document", "held", "program", "university", "year"]
 aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "26"
 ---
-# PDF Document: 8th_EC_Minutes
- **PDF Source:** https://www.kletech.ac.in/pdf/8th_EC_Minutes.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/8th_EC_Minutes.pdf
  i 
   Minutes 
   8th Executive Council Meeting 
@@ -24,7 +24,6 @@ Hubballi, Karnataka
 16th March, 2019 
   KLE Technological University 
 (Established under Karnataka Act No.22, 2013) 
-  ## Page 2
  ii 
   The following are the minutes of the 8th Executive Council Meeting of KLE Technological 
 University, Hubballi which was held on 16th March 2019 at 11 am in the Senate all of the 
@@ -52,7 +51,6 @@ Member
 6 Dr. B.B. Kotturshettar Dean Planning and 
 Development 
 Member 
-  ## Page 3
  iii 
   Agenda 
   Sl. No Particulars Page Nos. 
@@ -79,7 +77,6 @@ Technological University.
 21 
 EC 8.10 To ratify Board of Studies and Board of Examiners. 22 
 EC 8.11 Any other subject with the permission of the Chair. 23 
-  ## Page 4
  1 
   EC 8.1 To confirm the minutes of the previous meeting held on 20th 
 September 2018 
@@ -118,14 +115,12 @@ Manufacturing for Aerospace Applications' undergraduate Minor programme and also
 noted the scheme and syllabi of the programme. 
 EC 7.8 Any other subject with the permission of the Chair. 
 NIL 
-  ## Page 5
  2 
   Action Requested: To confirm the minutes of the previous meeting held on 20th 
 September 2018. 
   Discussion: 
   Resolution 8.1: Resolved to confirm the minutes of its 7th meeting 
 held on 20th September 2018. 
-  ## Page 6
  3 
   EC 8.2 To confirm the action taken report on the minutes of the previous meeting held on 20th 
 September 2018 
@@ -167,7 +162,6 @@ presented to the 10th BOG held on
 approved 'IP Policy' of the 
 University. The same has been 
 implemented. 
- ## Page 7
  4 
   EC 7.5: To review progress of implementation of the 'Strategic Plan' of the KLE Technological University 
 Resolution EC 7.5: The Executive Council suggested forming 3 groups and allotting one theme to 
@@ -209,7 +203,6 @@ year 2017-18.
 The students who had enrolled for 
 minor in 'Advanced Manufacturing 
 for Aerospace Applications' are 
- ## Page 8
  5 
   Scheme and Syllabi of 'Advanced Manufacturing for Aerospace Applications' Minor Program. 
 Resolution EC 7.7: The Executive Council ratified the institution of 'Advanced Manufacturing for 
@@ -227,7 +220,6 @@ Prof. Ashok Shettar, VC explained implementation of OKR method as an effective w
 Further he also elaborated the status of 'Advanced Manufacturing for Aerospace Applications' Minor Program. 
 Resolution 8.2: Resolved to confirm the action taken report on the minutes of its 7th meeting held on 
 20th September 2018. 
-  ## Page 9
  6 
   EC 8.3 To consider and approve the recommendations of the 
 Finance Council of the University to be held on 14th March 
@@ -261,12 +253,10 @@ Discussion: Prof. Atre wanted to know the difference between approved and
 revised budget 2018-19. To this Prof. Tewari said it is about 3% on the lower side. 
 Revised budget of 2018-19 is Rs. 780, 082, 200 as compared to original budget of 
 Rs. 804, 438, 000. Prof. Atre asked to include this difference in the budget notes. 
- ## Page 10
  7 
   Resolution 8.3: The Executive Council considered the 
 recommendations of the 5th finance council held on 14th March 2019 
 and approved the same. 
- ## Page 11
  8 
   EC 8.4 To review the academic progress of the University for the 
 year 2018-19 (Information Agenda) 
@@ -305,7 +295,6 @@ I Sem.
 o Modeling (CATIA) 
 II Sem 
 o Analysis (HyperMesh, ANSYS) 
-  ## Page 12
  9 
   ELECTRONICS & COMMUNICATION ENGINEERING 
 UG Program 
@@ -350,7 +339,6 @@ PG Program
 o Problem Solving using Python Programming 
 o Problem Solving with Data Structures 
 o Web Technology 
- ## Page 13
  10 
    Introduced as core courses 
 o Machine Learning 
@@ -382,7 +370,6 @@ explained the main objectives of the MoU and the status of the joint proposal su
 the Royal Academy of Engineering on e-mobility. 
   Resolution 8.4: The Executive Council noted the progress of the 
 University for the academic year 2018-19. 
- ## Page 14
  11 
   UG PROGRAM ADMISSION DETAILS - 2018-19 
 Admissions to BE / BArch Program for First Year 
@@ -418,7 +405,6 @@ Mechanical Engineering 267 249 222 738
 Architecture 44 49 53 146 
 Total 1254 1158 1099 3511 
   Annexure 3.1 
- ## Page 15
  12 
   PG PROGRAM ADMISSION DETAILS - 2018-19 
 Admissions to M Tech /MBA /MCA Program for First Year 
@@ -450,7 +436,6 @@ Computer Science 21
 VLSI Design & Embedded Systems 15 
 Machine Design 12 
 Grand Total 272 
-  ## Page 16
  13 
   RESEARCH PROGRAM ADMISSION DETAILS - 2018-19 
 Admission to Research Programs in calendar year 2018 
@@ -478,7 +463,6 @@ School of Electrical & Electronics Engineering 02 00 02
 School of Mechanical Engineering 04 00 04 
 School of Management 01 00 01 
 Grand Total 12 08 20 
- ## Page 17
  14 
   Faculty Information 
   Department/Program 
@@ -517,7 +501,6 @@ Executives 02 01 -- 01
   56 76 187 32 
   351 
   Annexure 3.2 
- ## Page 18
  15 
   EC 8.5 To discuss the results of previous examinations 
 The results of the examination conducted since last Executive Council meeting 
@@ -532,7 +515,6 @@ from academic perspective. VC appreciated the suggestion and said he will ask hi
 take up this challenge. 
   Resolution 8.5: The Executive Council noted the analysis of results of 
 May/June 2018 and Dec 2018/ Jan 2019 examinations. 
-  ## Page 19
  16 
   EC 8.6 To consider introduction of BBA program from the academic 
 year 2019-20. 
@@ -561,13 +543,11 @@ as well.
   Discussion: 
 Members discussed about the need, details about the BBA-MBA integrated model, the 
 specializations (if, any), intake, placement opportunities for the BBA students etc. Prof. Atre 
- ## Page 20
  17 
   said according to him there are not many jobs in BBA-HR, and it is better to avoid such 
 streams. 
   Resolution 8.6: Resolved to approve the introduction of BBA program 
 from the academic year 2019-20. 
- ## Page 21
  18 
   EC 8.7 To discuss the AC approved changes in Rules and 
 Regulations governing UG, PG & PhD programs and approve 
@@ -611,7 +591,6 @@ PhD programs of the KLE Technological University and approve the same.
 Dr. Syed Shakeeb asked for the procedure followed to map the Semester credits/hours to 
 Trimester credits/hours in MBA program. He advised to do suitable changes in MBA 
 regulations, if required. 
- ## Page 22
  19 
   Referring to modifications in regulations governing PhD programmes Prof. Atre suggested 
 to put one external person in SRC. Further, he added that if two internal experts are not 
@@ -625,7 +604,6 @@ section 21.2 of Regulations Governing Undergraduate and
 Postgraduate Programmes of KLE Technological University 2015; 
 and regulations governing PhD programmes. Details are given in 
 annexure 1. 
- ## Page 23
  20 
   EC 8.8 To discuss initiatives to streamline and enhance research 
 productivity. 
@@ -639,7 +617,6 @@ supervisors. He also explained the highlights of the 'REEF' program.
   Resolution 8.8: The Executive Council noted the initiatives taken by 
 the University to streamline and enhance research productivity and 
 appreciated the action taken by the Vice-chancellor. 
-  ## Page 24
  21 
   EC 8.9 To review progress of implementation of the 'Strategic Plan' 
 of the KLE Technological University. 
@@ -667,7 +644,6 @@ points in the next meeting.
   Resolution 8.9: The Executive Council reviewed the progress of 
 implementation of the 'Strategic Plan' of the KLE Technological 
 University and expressed its satisfaction upon the progress made. 
- ## Page 25
  22 
   EC 8.10 To ratify Board of Studies and Board of Examiners 
 As per sections 6 and 7 of Regulations Governing Undergraduate and Postgraduate 
@@ -685,8 +661,6 @@ Board of Studies and Board of Examiners.
 Board of Examiners of Biotechnology department, Mechanical 
 Engineering and Automation & Robotics of KLE Technological 
 University. 
-  ## Page 26
  23 
   EC 8.11 Any other subject with the permission of the Chair. 
-NIL 
-  
+NIL

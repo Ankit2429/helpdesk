@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: Spl_BoG_-_Minutes_31-08-2019"
+title: "Spl BOG Minutes 31 08 2019"
 category: "miscellaneous"
 subcategory: "Spl"
 document_type: "minutes"
@@ -11,19 +11,18 @@ language: "en"
 keywords: ["academic", "approve", "chancellor", "document", "technological", "university"]
 aliases: ["ECE", "EC", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "7"
 ---
-# PDF Document: Spl_BoG_-_Minutes_31-08-2019
- **PDF Source:** https://www.kletech.ac.in/pdf/Spl_BoG_-_Minutes_31-08-2019.pdf
- ## Page 1
- 1 
+**PDF Source:** https://www.kletech.ac.in/pdf/Spl_BoG_-_Minutes_31-08-2019.pdf
+
   Minutes 
   Special meeting of Board of Governors 
 KLE Technological University, 
 Hubballi, Karnataka 
 August 31st, 2019 at 9.30 am 
 Venue: Senate Hall, KLE Technological University 
-  ## Page 2
- 2 
+
   The Board of Governors of KLE Technological University met at 9.30amon August 31, 2019, 
 at the Senate Hall of the University as per schedule under and the Honorable Chancellor Dr. 
 Prabhakar B. Kore, chaired the meeting. 
@@ -79,8 +78,7 @@ Former Vice Chancellor, Mangalore University,
 Veerbhadra Kripa, Navodaya Nagar, 
 Dharwad-580003 
 Member 
- ## Page 3
- 3 
+
   Item 
 No. 
 Particulars Page No 
@@ -100,8 +98,7 @@ Council) of various programs.
   7 
  Annexure I 
  Annexure II 
-  ## Page 4
- 4 
+
   1. To approve the list of eligible candidates (approved and 
 recommended by Academic Council) for the conferment 
 of various degrees (Bachelor of Engineering, Master of 
@@ -121,8 +118,7 @@ conferment of various degrees (Bachelor of Engineering, Master
 of Technology, Master of Business Administration and Master of 
 Computer Applications ) at the first convocation of KLE 
 Technological University scheduled on August 31, 2019. 
-   ## Page 5
- 5 
+
   2. To approve the list of rank holders (approved and 
 recommended by Academic Council) of various programs. 
   The list of the candidates approved by the Academic Council as per the 
@@ -132,8 +128,7 @@ regulations and recommended by COE is enclosed as Annexure - 2
   Resolution: Resolved to approve the list of rank holders 
 (approved and recommended by Academic 
 Council) of various programs. 
-  ## Page 6
- 6 
+
   3. Approve the proposal of Installation of Gold and Silver 
 medals respectively, for 1st and 2nd Rank holders of 
 various programs of KLE Technological University. 
@@ -159,8 +154,7 @@ Technological University every academic year from
 the university. It is also resolved to award from next 
 academic year "Chancellor Medal" to a rank holder if 
 he/she has scored a CGPA of 10. 
-  ## Page 7
- 7 
+
   4. Any other matter with the permission of the Chair. 
   Table agenda 4.1: To consider closing and re-naming of M.Tech programmes 
 Resolution 4.1: It is resolved to recommend the closure of 
@@ -179,5 +173,4 @@ engineering programme in 'Electronics and Communication
 Engineering (Industry-Integrated)' in collaboration with KPIT . 
 The Vice-Chancellor is authorized to take steps accordingly for 
 the implementation of the same from the academic year 2020-
-21. 
- 
+21.

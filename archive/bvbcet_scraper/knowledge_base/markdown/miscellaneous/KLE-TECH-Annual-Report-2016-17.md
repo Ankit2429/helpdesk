@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: KLE-TECH-Annual-Report-2016-17"
+title: "KLE Tech Annual Report 2016 17"
 category: "miscellaneous"
 subcategory: ""
 document_type: "syllabus"
@@ -11,15 +11,14 @@ language: "en"
 keywords: ["annual", "document", "education", "engineering", "kle", "report", "research", "students", "tech"]
 aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE", "KLETech", "KLE Tech", "BVB", "BVBCET"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "45"
 ---
-# PDF Document: KLE-TECH-Annual-Report-2016-17
- **PDF Source:** https://www.kletech.ac.in/pdf/KLE-TECH-Annual-Report-2016-17.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/KLE-TECH-Annual-Report-2016-17.pdf
  2016 -17
 www.kletech.ac.in
 ANNUAL
 Report
- ## Page 2
  Our Parent Organization: 
 Karnataka Lingayat Education Society (KLE Society)
 Initiatives by private organizations and dedicated individuals have played a critical role in the growth 
@@ -46,7 +45,6 @@ areas of:
 With a visionary leadership of Chairman Dr . Prabhakar Kore, and members of Board of Management, 
 the society's institutions serve more than 1, 25, 000 students. Over 16, 000 dedicated faculty and 
 staff work together to meet the high standards set by the management.
- ## Page 3
  CONTENTS
 02
 FOREWORD
@@ -86,7 +84,6 @@ GOVERNANCE
 KLE TECH EXECUTIVE TEAM
 11
 FACULTY DEVELOPMENT PROGRAMMES
- ## Page 4
  2 | KLE Tech
 Foreword
 Dr . Ashok S. Shettar
@@ -104,7 +101,6 @@ We would like to extend our sincere thanks to our faculty, staff, students, alum
 their continued support and remarkable contributions. Looking ahead, we will continue to work towards 
 realizing our vision to be a leader in engineering education, and advancing research and innovation to 
 support socio-economic development of the region.
- ## Page 5
    www.kletech.ac.in | 3 
 Introduction
 KLE Technological University (KLE Tech) has 
@@ -163,7 +159,6 @@ University to emerge as a University with a
 national distinction. 
 Creating Value
 Leveraging Knowledge
- ## Page 6
  4 | KLE Tech
 Admission Process
 The University does not conduct a separate 
@@ -204,7 +199,6 @@ records of qualifying examinations.
 Common Entrance Test (PGCET) conducted 
 by Karnataka examination authority, is used 
 for the selection of students.
- ## Page 7
    www.kletech.ac.in | 5 
 Postgraduate Programs
 Research Programs
@@ -249,7 +243,6 @@ Sl.No. Programme
 10 Department of Chemistry
 11 Department of Mathematics
 12 Center for Engineering Education and Research
- ## Page 8
  6 | KLE Tech
 Student admissions for the year 2016-17 - UG
 Student admissions for the year 2016-17 - PG
@@ -304,7 +297,6 @@ UG
 PG
 Male
 Female
- ## Page 9
    www.kletech.ac.in | 7 
 The initiatives undertaken to enhance the quality of education and student performance are presented 
 under following three tenets of academic quality
@@ -331,7 +323,6 @@ us an opportunity to build a culture of continuous
 improvement that strengthens our academic 
 quality and inspires student achievement.
 Academic Quality
- ## Page 10
  8 | KLE Tech
 Advances in Curriculum
 The curriculum of all the programs offered 
@@ -361,7 +352,6 @@ outcomes to inform both the learner and the
 system. The frame work adopted by the University 
 is depicted in the Figure below.
 KLE Tech
- ## Page 11
    www.kletech.ac.in | 9 
 Major Academic initiatives Undertaken:
 Engineering Design and Product Realization at 2nd Year (School 
@@ -401,7 +391,6 @@ to provide an orderly process for organizing an ill-structured design activity i
 decisions and trade-offs among possibly competing solutions.
 During the first academic year 2016-17 following are the major academic initiatives undertaken to 
 improvise the teaching and learning process.
- ## Page 12
  10 | KLE Tech
 Placement
 2016-17 was Good Year for Placements. Most of the companies hired moderately high number of 
@@ -435,7 +424,6 @@ KLE Technological University is offering following UG Minor programmes:
 Total Number of Offers is 959.
 Highest salary package offered is 14 LPA 
 Average Package offered is around 4.5 LPA
- ## Page 13
    www.kletech.ac.in | 11 
 Faculty Development Programmes
 Teachers provided with financial support to attend conferences / workshops and towards membership 
@@ -504,7 +492,6 @@ during 9-10th December 2016 at Madurai
 Conference 7, 730.00 
 Teachers provided with financial support to attend conferences / workshops and towards membership fee of 
 professional bodies during the year 2016-17
- ## Page 14
  12 | KLE Tech
 Research and Innovation
 To meet its growth aspirations, one of the challenges faced by the Univeristy is to transform itself from a good 
@@ -548,7 +535,6 @@ Research 3 2 0
 11 Mathematics 9 3 5
 12 Physics 3 6 9
 Total 75 67 151
- ## Page 15
    www.kletech.ac.in | 13 
 Summary of publications
 The following table summarizes the number of publications of research work in refereed conferences 
@@ -576,7 +562,6 @@ Summary of patents 2014 to 2017
  Total Number of Patents filed : 13 
  Total number of patents approved : 9
  Total number of provisional patents : 4
- ## Page 16
  14 | KLE Tech
 Summary of external funded projects
 Research grants received: 2013-2017
@@ -607,7 +592,6 @@ Funding agencies: DST, NRB, AICTE, VTU, VGST, UASD, DRDO, Continental, KFIST, KB
 Samsung Research Institute Bangalore (SRIB)
 Note: "Crowd sourcing Platform for Heritage sites" is short listed for final 
 funding of 300.00L under DST, ICPS-IHDS scheme 
- ## Page 17
    www.kletech.ac.in | 15 
 Year Number of REU 
 students
@@ -662,7 +646,6 @@ Summary of outcome of the REU course is reflected in the following table. In the
 students have published 25 papers in international conferences and journals, and 8 of them have either 
 completed or doing post graduation. About 25% of the total REU students from 2011-14 are doing post 
 graduation either in India or abroad
- ## Page 18
  16 | KLE Tech
 From the 2017-18; 5% of Revenue Income of University is allotted for promoting Research and Development 
 and table provides details of planned funding for the year 2017-18. schools, departments, RCs/RGs and 
@@ -696,7 +679,6 @@ SL No. Scheme / Head planned Amount in Lakhs
 10. 0
 05. 0
 250. 00
- ## Page 19
    www.kletech.ac.in | 17 
 Institute funded projects under RC/RG/PDDG
 Institute funded capacity building projects for Individual 
@@ -735,7 +717,6 @@ SL No Year Total projects Total amount
 1 2014-15 12 79, 000/-
 2 2015-16 3 19, 000/-
 Total 98, 000/-
- ## Page 20
  18 | KLE Tech
 Centre for Technology Innovation and Entrepreneurship (CTIE):
 Entrepreneurship
@@ -772,7 +753,6 @@ of CTIE helped to attract serial entrepreneurs and young engineers to build thei
 path focused on building the pipeline of eligible students who are open enough to experience career of 
 an entrepreneur . A good mix of credit based and non-credit activities were undertaken as a part of this 
 approach.
- ## Page 21
    www.kletech.ac.in | 19 
 The entrepreneurship interventions designed at KLE Tech focused mainly on, Building entrepreneurship 
 culture on campus Opportunity identification and technology solutions Commercialization strategies As 
@@ -806,7 +786,6 @@ He also extended his support to mentor and nurture
 startups at KLE-CTIE. disciplines to achieve a common 
 goal, second is, to understand the design/product hand 
 off stages between various development phases.
- ## Page 22
  20 | KLE Tech
 E-Summit 2017 on 3rd & 4th March 2017
 KLE-CTIE hosted its annual event E-Summit 2017 on 3rd & 4th March 2017 at KLE Technological University. 
@@ -838,7 +817,6 @@ attended the session.
 This workshop was followed by one on one mentoring session completely focused on early stage startups. 
 Total 12 startups attended the Session which was highly appreciated and received good feedback by the 
 attendees. 
- ## Page 23
    www.kletech.ac.in | 21 
 About ELEVATE 100
 ELEVATE 100, an initiative of the Department of Information Technology and Biotechnology; Government 
@@ -881,7 +859,6 @@ the design problem by automating digital designing with its patent
 pending intelligence enabled modeling and design platform which 
 incorporates Building Information Modeling (BIM) approach from 
 the concept design stage.
- ## Page 24
  22 | KLE Tech
 Over arching philosophy of CIPD
 Product 
@@ -921,7 +898,6 @@ a common goal. Faculty members from various departments to be in a team which sh
 • Develop eco-system for product innovation and Intellectual Property Management - processes and tools
 • Capability Building: Develop Product Innovation, Design and Development curriculum; Training programs 
 and workshops for faculty and industry partners
- ## Page 25
    www.kletech.ac.in | 23 
 The 'MakerSpace' is a central facility created to 
 promote product development and realization 
@@ -952,7 +928,6 @@ MakerSpace
 Students
 IndustryFaculty
 MakerSpace
- ## Page 26
  24 | KLE Tech
 CNC Turning Centre (02Nos.)
 Facilities
@@ -966,7 +941,6 @@ CNC Laser Cutting Machine
  CNC Plasma Cutting Machine
 3D Printer 
  Cubepro 3D Printers (2 Nos.)
- ## Page 27
    www.kletech.ac.in | 25 
 3D Imager
 Portable Coordinate Measuring Machine
@@ -977,7 +951,6 @@ Drilling Machine Surface Grinder Universal Tool & Cutter
 Grinding Machine
 Universal Cylindrical Grinding 
 Machine
- ## Page 28
  26 | KLE Tech
 It is essential that the institute continues to strengthen its association with the industries to 
 enhance its student learning experience and relevance of its research activities.
@@ -1046,7 +1019,6 @@ Sankalp Semi 5
 United Heat Transfer 4
 Walmart Labs 10
 Various Biotech Companies 23
- ## Page 29
    www.kletech.ac.in | 27 
 Interactions with SRIB (Samsung) 
 Workshop on Machine Learning/ Deep Learning, AGILE and initiation of Software 
@@ -1078,7 +1050,6 @@ PG Projects in Industries:
 Guest Lectures from Industries: 
 Every department has organized Lectures from the industry in the form of Expert Lectures, Co-
 teaching, & career guidance. 
- ## Page 30
  28 | KLE Tech
 Centre for Engineering Education Research (CEER) 
 Education Research
@@ -1112,7 +1083,6 @@ learning and assessment through training, workshop and allied activities
 3. Facilitate research and systematic study of the impact of pedagogical practices
 4. Conduct outreach activities like publication, workshops, trainings and conferences
 Background:
- ## Page 31
    www.kletech.ac.in | 29 
 Awards:
 KLE Tech awarded as Ranked No 1 for "Outstanding Institutional Transformation in Engineering 
@@ -1151,7 +1121,6 @@ Tech, Mr . Vineeth, Ms. Vinuta, Ms. Sushma and Mr .
 Sumedh under the guidance of Prof. Kaushik M and Mr . 
 Raghuraja Adi. This year's event was held at R V College 
 of Engineering, Bengaluru during 26th - 28th May 2017 
- ## Page 32
  30 | KLE Tech
 Immersive Training in Pedagogy and 
 Assessment and Institutionalisation of 
@@ -1190,7 +1159,6 @@ Institutionalisation of Best Practices
 The training was conducted for three teams during the following dates:-
 Team 1-Feb 1-4, 2017, Team 2-March 7-11, 2017, Team 3-March 13-17, 2017
 Venue : CEER , KLE Technological University, Hubballi
- ## Page 33
    www.kletech.ac.in | 31 
 Faculty Conclave 2017
 A Two-days Faculty Conclave- 2017 was organized by Centre for Engineering Education Research (CEER), 
@@ -1219,7 +1187,6 @@ Dr . Murli Nagasundaram.
 The faculty of the institute actively participated in the deliberations during the conclave. The event 
 served as a forum for exchange of ideas and practices followed across the various schools and 
 Departments of the KLE Technological University.
- ## Page 34
  32 | KLE Tech
 Webinar/Workshops on Outcome Based Education(OBE)
 The understanding and experience of practicing outcome based education in our Institution is being shared 
@@ -1261,7 +1228,6 @@ Bodies
 Workshop on OBE at IIT Bhubaneswar
 A workshop in OBE was conducted at IIT, Bhubaneswar during June 29-July 01, 2017. Dr . Gopalkrishna 
 Joshi was the resource person and conducted the sessions for 20 participants. 
- ## Page 35
    www.kletech.ac.in | 33 
 Outbound Orientation Program
 A Two day Outbound Orientation program was organised by Center for Engineering Education 
@@ -1279,7 +1245,6 @@ Objectives of the program:-
 research and frame research questions 
 3. Increase Team motivation by engaging in team building 
 activities
-  ## Page 36
  34 | KLE Tech
 KLE Tech awarded as Ranked No 1
 KLE Tech awarded as Ranked No 1 for "Outstanding Institutional Transformation in Engineering 
@@ -1291,7 +1256,6 @@ Biotechnology Skill Enhancement Programme
 The Department of Biotechnology of KLE Tech has been chosen as one of the host institution by KBITS 
 to run its flagship BiSEP programme for the Fermentation and Bioprocess domain.
 Recognitions
- ## Page 37
    www.kletech.ac.in | 35 
 New infrastructure
 Our infrastructure is the key enabler for us to deliver world-class educational experience for our students. 
@@ -1300,7 +1264,6 @@ Continuing our efforts to develop ambient green campus, new landscape projects w
 new landscape focuses on creating informal interaction space for the students in the campus.
 School of Electronics & Communication Engineering
 Musical Fountain
- ## Page 38
  36 | KLE Tech
 IT Platforms and Services
 The University network is on OFC. 39 managed switches, 150 access points, UTM, AAA server are part of new 
@@ -1333,7 +1296,6 @@ Prof B. S. Sonde Member
 Dr . Sudha N. Murty Member
 Prof P . G. Tewari Member
 Prof B. L . Desai Member Secretary
- ## Page 39
    www.kletech.ac.in | 37 
 Student accolades
 BVBCET emerges as Runners-up in SRISHTI-2017
@@ -1381,7 +1343,6 @@ and text output understood by all.
 The objective of the competition was to design, fabricate and develop a completely electric All-Terrain 
 Vehicle (ATV) which can withstand the harshest elements. The student made vehicles were tested in very 
 difficult track and rough terrain.
- ## Page 40
  38 | KLE Tech
 Financials
 Income and Expenditure Statement for the year 2016-17 (Includes Capital Expenditures)
@@ -1413,7 +1374,6 @@ Expenditure over
 Income)
            1, 08, 36, 238.00 
 Grand Total 32, 54, 71, 788.00 Grand Total 32, 54, 71, 788.00 
- ## Page 41
    www.kletech.ac.in | 39 
 Alumni Association -Events
 General Body Meeting for financial year 2015-
@@ -1474,7 +1434,6 @@ Mr.Fakkiresh Badami Rank 269 (2017 Batch
 E&C) and Mr.Avinash Naduvinamani Rank 
 1019 (2017 Batch E&C) and Mr.Sudhir Patil 
 (Batch 2017 Mech) .
- ## Page 42
  40 | KLE Tech
 KLE Tech Executive Leadership Team
 Prof Gopal Joshi
@@ -1496,7 +1455,6 @@ Dr . B. B. Kotturshettar
 Dean - Planning & Development
 Dr . Uma Mudenagudi
 Dean - Research & Development
- ## Page 43
    www.kletech.ac.in | 41 
 Center Heads
 Heads of Schools / Departments
@@ -1539,9 +1497,7 @@ Prof Gururaj Joshi
 Architecture
 Dr . B. B. Kotturshettar
 Mechanical
- ## Page 44
  Campus Snapshots
- ## Page 45
    www.kletech.ac.in | 43 
 www.kletech.ac.in
 KLE Technological University

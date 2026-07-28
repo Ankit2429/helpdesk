@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: FACULTY_CONCLAVE_PUBLICATIONS-2016"
+title: "Faculty Conclave Publications 2016"
 category: "faculty"
 subcategory: "FACULTY"
 document_type: "act"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["course", "document", "engineering", "learning", "patil", "project"]
 aliases: []
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "4"
 ---
-# PDF Document: FACULTY_CONCLAVE_PUBLICATIONS-2016
- **PDF Source:** https://www.kletech.ac.in/pdf/FACULTY CONCLAVE PUBLICATIONS-2016.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/FACULTY CONCLAVE PUBLICATIONS-2016.pdf
  Earlier known as 
 B. V. B. College of Engineering & Technology 
 Faculty Conclave 2016 
@@ -70,7 +70,6 @@ Gopalkrishna Joshi
 Effective Learning Of Digital Electronics Laboratory 
 Course 
 Aruna S. Nayak, Umadevi F. M., Preeti T. 
- ## Page 2
  Earlier known as 
 B. V. B. College of Engineering & Technology 
 22 Enhancing Research Proficiency In Postgraduate 
@@ -118,7 +117,6 @@ Praveen Kumar, A. R. Lakkundi, B. S.Kakol
 Fabrication In Freshman 
 Sanjeev M. Kavale, Adarsh Patil, Mantesh 
 Choukimath, Basanagouda Shivalli 
-  ## Page 3
  Earlier known as 
 B. V. B. College of Engineering & Technology 
 34 Framework For Measuring The Attainment Of 
@@ -168,7 +166,6 @@ Course Projects In Automotive-Electronics
 S. N. Asundi, Mane 
 46 Project Clinic: An Approach To Project Mentoring Raghuraja Adi , Shraddha G. Revankar, 
 Gopalkrishna Joshi , Preethi Baligar 
- ## Page 4
  Earlier known as 
 B. V. B. College of Engineering & Technology 
 47 Enhancing Research Skills In CAE Lab: 
@@ -179,5 +176,4 @@ Santosh Billur, Sridhar M., Dr. Krishnaraja
 G. Kodancha 
 48 Engineering Exploration-A Course Design 
 Experience 
-Team CEER 
-  
+Team CEER

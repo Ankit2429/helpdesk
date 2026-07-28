@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 2nd_EC_Minutes"
+title: "EC Minutes"
 category: "miscellaneous"
 subcategory: ""
 document_type: "syllabus"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["academic", "approve", "council", "document", "technological", "university"]
 aliases: ["ME", "Mechanical Dept", "CSE", "CS", "KLETech", "KLE Tech", "BVB", "BVBCET"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "11"
 ---
-# PDF Document: 2nd_EC_Minutes
- **PDF Source:** https://www.kletech.ac.in/pdf/2nd_EC_Minutes.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/2nd_EC_Minutes.pdf
  1 | P a g e 
   Minutes 
   2nd Executive Council Meeting 
@@ -22,7 +22,6 @@ of
 KLE Technological University, 
 Hubballi, Karnataka 
 December 12th, 2015 
-  ## Page 2
  2 | P a g e 
   SL 
 No 
@@ -59,7 +58,6 @@ University from the academic year 2016-17.
   To consider the issues of transfer of faculty from B V Bhoomaraddi College of 
 Engg & Tech to KLE Technological University. 
 12 Any other subject with the permission of the Chair. 
-   ## Page 3
  3 | P a g e 
   The following are the minutes of the Executive Meeting of KLE Technological University, Hubballi 
 which was held on 12th December 2015 at 9.30 am at the Chamber of KLE Society's, S.Nijalingappa 
@@ -92,7 +90,6 @@ Member
 6 Dr. B.B. Kotturshettar Dean Planning and 
 Development 
 Member 
-  ## Page 4
  4 | P a g e 
   Agenda 2.1 
   To read and confirm the minutes of the previous meeting held on 
@@ -149,7 +146,6 @@ University Act - 2012'.
 Technological University' are being 
 implemented from the academic year 
 2015-16 
-  ## Page 5
  5 | P a g e 
   Agenda 1.3 
 To consider the 
@@ -217,7 +213,6 @@ starting from 2015-16.
 implemented from the academic year 
 2015-16 for all the programs starting from 
 2015-16 
-  ## Page 6
  6 | P a g e 
   Agenda 2.3 
   To consider & approve the University's 
@@ -251,7 +246,6 @@ vii. School of Management Studies and Research
 viii. Centre for Engineering Education Research 
 (D): Resolved to approve the Regulations Governing Research Programs [PhD & 
 MS (Engg.) by Research] (Annexure 3 and 4). of KLE Technological University framed 
- ## Page 7
  7 | P a g e 
   and approved by Academic Council and the Executive Council, as per the provisions 
 of KLE Technological University Act -2012. 
@@ -266,7 +260,6 @@ University Act - 2012' is presented in Annexure - 5.
 regulations governing the part time M.Tech programs of KLE 
 Technological University framed as per the provisions of 'KLE 
 Technological University Act - 2012' 
- ## Page 8
  8 | P a g e 
   Agenda 2.5 
 To consider and approve the Regulations Governing Minor disciplines 
@@ -298,7 +291,6 @@ University Act - 2012'
 To consider and approve the Industry-Integrated Diploma Sandwich 
 Programme approved by the Academic Council & to be instituted by 
 the University from the academic year 2016-17. 
- ## Page 9
  9 | P a g e 
   The Academic Council approved and recommended Industry-Integrated Diploma Sandwich 
 Programme details will be presented by the Registrar during the meeting. 
@@ -325,7 +317,6 @@ industries nominated by the Vice-Chancellor - Members
 The proposed composition of the 'Research Council' is presented in Annexure - 8 
   Resolution : Resolved to approve constitution of the Research 
   Council. 
-  ## Page 10
  10 | P a g e 
   Agenda 9 
 To consider the constitution of the Finance Council 
@@ -350,7 +341,6 @@ KLE Technological University is starting new academic programs from the academic
 and to meet the academic requirement both faculty members and staff members are required. (List 
 is attached as Annexure 10) 
   Resolution : Resolved to approve the appointments of faculty 
-  ## Page 11
  11 | P a g e 
   Agenda 11 
 To consider the issues of transfer of faculty from B V Bhoomaraddi 
@@ -363,5 +353,4 @@ Technological University. (List is attached as Annexure-11)
   Resolution : Resolved to approve the issues of transfer of faculty 
   from B V Bhoomaraddi College of Engg & Tech to KLE 
   Technological University. 
-  Chairman thanked all the members for their contributions. 
-  
+  Chairman thanked all the members for their contributions.

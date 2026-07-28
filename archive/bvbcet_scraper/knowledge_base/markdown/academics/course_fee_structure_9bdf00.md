@@ -79,4 +79,3 @@ last_modified: "2026-07-28"
 | Exam Fees | 3400.00 | 3400.00 |
 | Alumni Fees |  | 1000.00 |
 | Total Fees | 96500.00 | 97400.00 |
- 

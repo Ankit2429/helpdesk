@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 489imguf_PhD-regulations-KLE-tech-july-2025"
+title: "Phd Regulations KLE Tech July 2025"
 category: "academics"
 subcategory: ""
 document_type: "syllabus"
@@ -11,11 +11,11 @@ language: "en"
 keywords: ["degree", "document", "july", "kle", "programme", "regulations", "research", "shall", "tech", "university"]
 aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "16"
 ---
-# PDF Document: 489imguf_PhD-regulations-KLE-tech-july-2025
- **PDF Source:** https://www.kletech.ac.in/Uploads/image/489imguf_PhD-regulations-KLE-tech-july-2025.pdf
- ## Page 1
- 1 
+**PDF Source:** https://www.kletech.ac.in/Uploads/image/489imguf_PhD-regulations-KLE-tech-july-2025.pdf
+
   Regulations Governing 
 Ph.D. Programme 
 of 
@@ -23,8 +23,7 @@ KLE Technological University
 2025 
   KLE Technological University 
 (Established under Karnataka Act No.22, 2013) 
-  ## Page 2
- 2 
+
   Ph.D. REGULATIONS 2025 
 In exercise of the powers conferred by Section -37 of The KLE Technological University 
 Act, 2012 (Karnataka Act 22 of 2013), the Board of Governors hereby approves the 
@@ -58,8 +57,7 @@ University hereby makes the following Regulations, namely: -
 (Standards and Procedure for Award of Ph.D. Degree) Regulations - 
 2025. 
 (2) These Regulations shall apply to all Ph.D. Programmes conducted at the 
- ## Page 3
- 3 
+
   KLE Technological University , and it 's off campuses / constituent 
 Colleges / approved Research Centre's. 
 (3) These Regulations shall also be applicable to the Candidates seeking 
@@ -102,8 +100,7 @@ semesters. It is expressed up to two decimal places;
 University. 
 (13) "Degree" means a degree awarded by the University in accordance with 
 the provisions of the UGC Act; 
- ## Page 4
- 4 
+
   (14) "Discipline" means a Faculty/Domain area of Ph.D. Programme, for 
 example, Engineering, Management, Science, Commerce, Law etc. 
 (15) "External Examiner" means an academician/researcher with published 
@@ -147,8 +144,7 @@ review the progress of each Research Scholar.
 (29) "Research Scholar " means a Research Student registered under Full 
 Time/Part Time Ph.D. category. 
 (30) "Research Center (RC)" means an officially organized Cente r approved 
- ## Page 5
- 5 
+
   by the University for the Scholars to pursue Ph.D. in an approved 
 discipline. 
 (31) "Research Supervisor " means a Faculty of the University or other 
@@ -192,8 +188,7 @@ Karnataka Act No. 22, 2013 of the Act.
 (41) "Vice Chancellor or VC" means the Vice Chancellor of the University. 
 (42) "Viva-Voce" means presentation of the research work by the Research 
 Scholar followed by question - answer session, in front of subject 
- ## Page 6
- 6 
+
   experts/examiners and invited audience for assessment and 
 examination. 
 (43) "KLE Tech-RET" means KLE Tech Research Entrance Test conducted by 
@@ -232,8 +227,7 @@ out of 10 or 60% aggregate marks at the Master's Degree.
  (1) The Candidates shall possess a regular mode M.Sc. Degree in Physics, 
 Chemistry, Mathematics or PG degree in such other allied disciplines, 
 recognized by the University with a minimum CGPA of 6.75 out of 10 or 
- ## Page 7
- 7 
+
   60 % aggregate marks at the Master's Degree. 
 Candidates completing one year (Two semester) Master's degree programmeme 
 after a Four year (Eight semester) Bachelor's degree programmeme or a Two 
@@ -272,8 +266,7 @@ fulfill the following eligibility requirements:
    (1) The Candidate shall possess the Master's Degree in appropriate 
 branch/subject/ discipline recognized by the University, of the minimum 
 CGPA of 6.75 of the 10 or 60% aggregate marks. 
- ## Page 8
- 8 
+
   (2) For interdisciplinary Research work, Degree shall be awarded in the 
 programme in which the Candidate has been permitted to register for the 
 Ph.D. programme by the PhD Admissions and Monitoring Committee. 
@@ -313,8 +306,7 @@ research on a Part- Time basis.
 (4) The candidate shall submit to the University a "No Objection Certificate" 
 for a Part-Time Ph.D. programme from the appropriate authority in the 
 organization where the candidate is employed, clearly stating that: 
- ## Page 9
- 9 
+
   i. The candidate is permitted to pursue studies on a Part-Time basis. 
 ii. His/her official duties permit him/her to devote sufficient 
 time for research. 
@@ -356,8 +348,7 @@ total period for completion of a Ph.D. programme should not exceed eight
 (8) years from the date of admission in the Ph.D. programme. 
 (3) Provided further that, female Ph.D. scholars and Persons with Disabilities 
 (having more than 40% disability) may be allowed an additional relaxation 
- ## Page 10
- 10 
+
   of two (2) years; however, the total period for completion of a Ph.D. 
 programme in such cases should not exceed ten (10) years from the date of 
 admission to the Ph.D. programme. 
@@ -398,8 +389,7 @@ as per the decision of the UGC from time to time.
 5. 5 University will have the right to decide the number of eligible students to 
 be called for an interview based on the number of Ph.D. seats available. 
 5. 6 Provided that for the selection of candidates based on the entrance test 
- ## Page 11
- 11 
+
   conducted by the University, a weightage of 70 % for the entrance test and 
 30 % for the performance in the interview/viva- voce shall be given. 
   6. 0 The University shall maintain a list of Ph.D. supervisors (specifying the name 
@@ -439,8 +429,7 @@ peer-reviewed or refereed journals or the contribution is equivalent to
 publications, the University may relax the above condition for recognition of a 
 person as Research Supervisor with reasons recorded in writing and approved 
 by the Vice Chancellor. 
- ## Page 12
- 12 
+
   (2) Whereas supervisor of a student is normally from the School of his/her 
 registration, a student may be allotted a co -supervisor from either the 
 same school, other schools or an organization outside the University 
@@ -477,8 +466,7 @@ other courses as recommended by the Research Review Committee.
 equivalent (with minimum of 50% of marks in each course for considering 
 that he/she has passed in that course) in the course work to be eligible to 
 continue in the programme and submit the thesis. 
- ## Page 13
- 13 
+
   (3) All research scholars are required to assist the School/Department/Center in 
 its academic activities such as research/teaching assistantship and/or any 
 other activities as directed by the School/Department/Center. 
@@ -518,8 +506,7 @@ iii. Comprehensive Viva-Voce (Part-II)
 iv. Colloquium, Open Seminar 
 v. Pre-synopsis presentation (Part-III) 
 vi. Ph.D. Thesis (Part-IV) 
-  ## Page 14
- 14 
+
    Progress Monitoring 
  (1) Each registered PhD student shall present the progress of his/her research 
 before the Research Review Committee and submit a report in this regard 
@@ -559,8 +546,7 @@ India and/or abroad.
 iii. A declaration by the student that there is no plagiarism of more than 
 10% excluding self-plagiarism, duly certified by the Supervisor/Co-
 Supervisor. 
- ## Page 15
- 15 
+
   iv. A declaration by the student that the research work is original and 
 has not been submitted elsewhere for award of any degree/diploma. 
 (5) PhD Admiss ion & Monitoring Committee on recommendation by the 
@@ -600,8 +586,7 @@ submitted to it.
   14. 0 Award of degree 
  The PhD degree will be awarded based on the recommendation of the Academic 
 Council & Board of Governors subject to the following: 
- ## Page 16
- 16 
+
   i Successful completion of all requirements for the award of the degree 
 ii Minimum duration requirement as specified by the regulation 
 iii No pending disciplinary action; and 
@@ -618,5 +603,4 @@ binding.
 (3) In case of difficulty in application of any of the clauses of the regulations 
 specified above, the Vice Chancellor shall have all the powers to 
 amend/modify and remove the difficulty in the application of the relevant 
-regulation. 
-  
+regulation.

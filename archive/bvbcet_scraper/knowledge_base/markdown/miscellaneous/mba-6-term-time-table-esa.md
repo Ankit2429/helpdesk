@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: mba-6-term-time-table-esa"
+title: "Mba 6 Term Time Table Esa"
 category: "miscellaneous"
 subcategory: ""
 document_type: "timetable"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["document", "esa", "hubballi", "management", "mba", "table", "term", "time"]
 aliases: []
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "1"
 ---
-# PDF Document: mba-6-term-time-table-esa
- **PDF Source:** https://www.kletech.ac.in/hubballi/pdf/mba-6-term-time-table-esa.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/hubballi/pdf/mba-6-term-time-table-esa.pdf
  Prepared By: Checked By:
 M.S. Kalasad Naveen M.R. Controller of Examinations
                 1) Students need to login to ms Teams at 10:00 a.m.

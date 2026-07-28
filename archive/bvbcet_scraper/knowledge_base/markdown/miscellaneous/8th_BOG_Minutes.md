@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 8th_BOG_Minutes"
+title: "BOG Minutes"
 category: "miscellaneous"
 subcategory: ""
 document_type: "syllabus"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["document", "held", "prof", "resolution", "university", "year"]
 aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "32"
 ---
-# PDF Document: 8th_BOG_Minutes
- **PDF Source:** https://www.kletech.ac.in/pdf/8th_BOG_Minutes.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/8th_BOG_Minutes.pdf
  Minutes of 
   8th Board of Governors Meeting 
 of 
@@ -23,7 +23,6 @@ Hubballi, Karnataka
 March 24th, 2018 at 10 am 
   Venue: Board Room of KLE University, J N Medical 
 College campus, Belagavi 
-  ## Page 2
  ii 
   The following are the minutes of the Meeting of the Board of Governors of KLE Technological 
 University, Hubballi which was held on 24th March 2018 at 10 am. at the Board Room of KLE 
@@ -73,7 +72,6 @@ Member
 2 The Principal Secretary/Secretary, Medical Education, 
 Government of Karnataka. 
 Member 
-  ## Page 3
  iii 
   Agenda 
   Sl No Particulars Page No 
@@ -102,7 +100,6 @@ BOG 8.9 To approve the Board of Studies and Board of Examiners constituted by th
 Dean Academics and approved by the Academic Council and Executive Council. 
 20 
 BOG 8.10 Any other subject with the permission of the Chair. 21 
-  ## Page 4
  1 
   BOG 
 8. 1 
@@ -158,7 +155,6 @@ Member
 4 Prof. B.L.Desai 
 Registrar 
 Member Secretary 
- ## Page 5
  2 
   KLE Technological University, Hubballi 
   BOG 7.1 To confirm the minutes of the previous meeting held on 17th February 2017. 
@@ -203,7 +199,6 @@ BOG 7.4 To consider and approve the recommendations of Admission Committee of th
 University held on 18th September 2017 
 Resolution 7.4: BOG reviewed the recommendations of the Admission Committee 
 held on 18th September and approved the percentage of seats allotted for CET, 
- ## Page 6
  3 
   COMEDK and Management quota; and action taken by the sub-committee for the 
 conduct of 'Research Entrance Test'. 
@@ -245,7 +240,6 @@ Process' and for developing 'Aerospace manufacturing Learning Center' with
 Aequs and 
  Overseas collaborations and students achievement in national events. 
   BOG expressed satisfaction over the progress made by the University and appreciated 
- ## Page 7
  4 
   the work of the Vice-Chancellor and his team. 
 Participating in discussions, Dr. Prabhakar Kore, Chairman of BOG, asked the Vice-
@@ -286,7 +280,6 @@ by the school of Mechanical Engineering.
 BOG 7.10 Any other subject with the permission of the Chair 
 Table Agenda: To authorize the Vice Chancellor to seek approval from AICTE for 
 technical programmes offered by the University. 
- ## Page 8
  5 
   The subject was taken up for discussion as an additional item. 
 Resolution 7.10: Briefing the Board on the subject the Vice Chancellor said, at national 
@@ -306,7 +299,6 @@ included in the minutes, which will be part of agenda 1.
 its 7th meeting of the Board of Governors held on 
 20th September 2017 at Sri. S. Nijalingappa 
 College, Bengaluru. 
-  ## Page 9
  5 
   BOG 
 8. 2 
@@ -352,7 +344,6 @@ BOG 7.4 To consider and approve the recommendations of Admission Committee of th
 University held on 18th September 2017 
  Notification for admissions to UG, PG and 
 Research programs were given in leading 
- ## Page 10
  6 
   Resolution 7.4: BOG reviewed the recommendations of the Admission 
 Committee held on 18th September and approved the percentage of seats 
@@ -401,7 +392,6 @@ Belagavi. Further, they are also helping us in
 procurement of DMG MORI CNC machine for 
 training students on stringent manufacturing 
 requirements of the Aero-space industry. 
- ## Page 11
  7 
    University has applied for AICTE-Margdarshan 
 programme and QIP centre. 
@@ -445,7 +435,6 @@ February 2018.
 office, New Delhi on 17th and 24th February. 
  Expert Verification Committee of AICTE visited 
 the University on 2nd March 2018. 
- ## Page 12
  8 
   After discussion the Board of Governors authorized the Vice Chancellor to seek 
 approval from AICTE for technical programmes offered by the University. 
@@ -454,7 +443,6 @@ September 2017.
   Discussion: Prof. B.S. Sonde, UGC nominee advised not to leave blank under action taken report. Noted may be written in such cases. 
   Resolution 8.2: Resolved to confirm the action taken report on the minutes of the previous 
 meeting held on 20th September 2017. 
-  ## Page 13
  9 
   BOG 
 8. 3 
@@ -493,7 +481,6 @@ June 2017
 Engineering 
 Nil Nil 
 4. School of Mechanical Engineering 09 08 
- ## Page 14
  10 
   5. School of Management Studies and Research Nil Nil 
 6. Department of Electrical and Electronics 
@@ -524,7 +511,6 @@ University does not have any plans to conduct entrance exams in near
 future as the University doesn't want to lose its regional relevance. 
   Resolution 7.4: BOG reviewed the recommendations of the 
 Admission Committee held on 14th March and approved the same. 
- ## Page 15
  11 
   BOG 
 8. 4 
@@ -561,7 +547,6 @@ Detailed discussion also happened on proposed 'Faculty Appraisal System'. Partic
 the discussion Prof. R. Natarajan asked whether it has been discussed with the faculty 
 members and whether the University has any policy to recruit only faculty with PhD. Prof. 
 Ashok Shettar said that the proposed appraisal system has been shared with the faculty 
- ## Page 16
  12 
   members and the University do not have any policy to recruit faculty only with PhD as the 
 fee structure in Karnataka is quite low. Prof. R. Natarajan suggested to study BITS Pilani's 
@@ -589,7 +574,6 @@ Reforms Committee.
 presented by the Vice Chancellor. The members of the BOG 
 expressed their satisfaction and appreciation over the progress 
 made by the University during the period. 
- ## Page 17
  13 
   Enclosure 3.1 
   Statement showing the Admisssion status of the University during the year 2017-
@@ -623,7 +607,6 @@ MBA 60 59
 MCA 60 60 
 Total 120 119 
 Grand Total (99+119) 270 218 
-  ## Page 18
  14 
   Semester: III & IV (Under graduate) 
 Sl No. Branch Strength 
@@ -666,7 +649,6 @@ Total 113
   Sl No. Branch Strength 
 1. III & IV Semester 53 
 Total 53 
-  ## Page 19
  15 
   Enclosure 3.2 
 FACULTY CADRE-WISE BREAKUP 
@@ -690,7 +672,6 @@ CEER 0 0 0 4
 CTIE 0 1 0 1 
 TOTAL 43 75 165 33 
 Grand Total 316 
-  ## Page 20
  16 
   BOG 
 8. 5 
@@ -712,7 +693,6 @@ look into the AICTE model curriculum w.r.t introduction of internship, 160
 credits for UG programmes and introduction of biology. 
   Resolution 8.5: BOG noted the proposed changes in curriculum 
 structure of first year. 
- ## Page 21
  17 
   BOG 8.6 To discuss and ratify Undergraduate Minor Programme in 
 'Bioengineering' that has been instituted by the University 
@@ -733,7 +713,6 @@ the programme.
   Resolution 8.6: BOG ratified the institution of Undergraduate Minor 
 Programme in 'Bioengineering' and noted the scheme and syllabi of 
 the programme. 
- ## Page 22
  18 
   BOG 8.7 To review progress of implementation of the 'Strategic 
 Plan' of the KLE Technological University. 
@@ -752,7 +731,6 @@ the 'Strategic Plan' of the KLE Technological
 University and also the 'Key Performance Indicators 
 (KPIs') to monitor the progress of it's 
 implementation. 
- ## Page 23
  19 
   BOG 
 8. 8 
@@ -768,7 +746,6 @@ on the University website. Vice chancellor replied that once the BOG accord appr
 the annual report shall be uploaded. 
   Resolution 8.8: BOG approved the Annual report of the University 
 for the academic year 2016-17. 
-  ## Page 24
  20 
   BOG 
 8. 9 
@@ -787,18 +764,15 @@ Board of Examiners.
   Discussion: 
   Resolution 8.9: BOG approved the Board of Studies and Board of 
 Examiners constituted by the Dean Academics. 
- ## Page 25
  21 
   BOG 
 8. 10 
 Any other subject with the permission of the Chair. 
 Chairman thanked all the members for their active participation & the 
 contributions made. 
-  ## Page 26
  22 
   Annexure-1 
 [Notification for the admissions to UG, PG and PhD programs for the academic year 2017-18] 
- ## Page 27
  1f : *. ...
 Technalogical
 U n iversity
@@ -814,7 +788,6 @@ Dote of Reseorch Entronie Test (RETI : 2t-01-20t5
 For opplitotion form, eligibility criterio ond other
 detcils, please visit www.klateeh, oe"in
 Registror
- ## Page 28
  ([Orrt.roa.1 SlrZal(,
 Technological
 UniversitY
@@ -826,10 +799,8 @@ Dole of Reseorch Entronte Test (RET) : 2l'02'20I6
 For opplicotion form, eligihility trilerio ond olher
 detoils, pleosevisit wwwkietmh.oc.in 
 Registrcr
- ## Page 30
  For opplirution {orm, eligibility critario ond oiher
 deloils, pleosevisit "kleterh.scin
- ## Page 31
  Dq-rsk na. Ea-roc& + $J: J-tto
 [- Technologicai
 I'rUniversity
@@ -840,7 +811,6 @@ Dole of Reseorrh Enfrance Test {RETI : ?t.02,?0!6
 For oppiicotior form, eligibility iriterio ond other
 detoiis, pleose visit www.kletech.ue.in
 Registror
- ## Page 32
  f-a) bul?", d>ew1
 For ooplicotion form ibility triterio ond olher
 detoiLl pleose visit .kleterh'oc'in 

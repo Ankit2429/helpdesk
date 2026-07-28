@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 238imguf_12BCertificate"
+title: "Bcertificate"
 category: "miscellaneous"
 subcategory: ""
 document_type: "minutes"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["committee", "document", "expert", "status", "submitted", "university"]
 aliases: ["KLETech", "KLE Tech", "BVB", "BVBCET"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "1"
 ---
-# PDF Document: 238imguf_12BCertificate
- **PDF Source:** https://www.kletech.ac.in/Uploads/image/238imguf_12BCertificate.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/Uploads/image/238imguf_12BCertificate.pdf
  ,sw*
 ffi+qTaq srgqg sTrqY.r
 "==tInfuErsitf €rants'efnTi1] issfon'

@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 203imguf_Call-for-admission-MSE-2024-25"
+title: "Call For Admission Mse 2024 25"
 category: "admissions"
 subcategory: ""
 document_type: "act"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["admission", "admissions", "document", "industry", "mse", "open", "research", "will"]
 aliases: ["KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "1"
 ---
-# PDF Document: 203imguf_Call-for-admission-MSE-2024-25
- **PDF Source:** https://www.kletech.ac.in/Uploads/image/203imguf_Call-for-admission-MSE-2024-25.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/Uploads/image/203imguf_Call-for-admission-MSE-2024-25.pdf
  Who Can Apply : Candidates with BE or equivalent Degree from a recognized University with an average score of 
 70% / patent in the scholar's name as an inventor. Aspirants with impressive research profiles will be accorded a 
 higher priority.

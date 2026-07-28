@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 186imguf_annual-report-2014-15"
+title: "Annual Report 2014 15"
 category: "miscellaneous"
 subcategory: ""
 document_type: "syllabus"
@@ -11,15 +11,14 @@ language: "en"
 keywords: ["college", "document", "education", "engineering", "report", "research", "students"]
 aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE", "BVB", "BVBCET"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "44"
 ---
-# PDF Document: 186imguf_annual-report-2014-15
- **PDF Source:** https://www.kletech.ac.in/Uploads/image/186imguf_annual-report-2014-15.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/Uploads/image/186imguf_annual-report-2014-15.pdf
  Annual Report 2014 -15
 KLE Society's
 B. V. Bhoomaraddi College of Engineering and T echnology, Hubballi.
 www.bvb.edu
- ## Page 2
  Our Parent Organization: 
 Karnataka Lingayat Education Society (KLE Society)
 Initiatives by private organizations and dedicated individuals have played a critical role in the 
@@ -46,7 +45,6 @@ services in the areas of:
 With a visionary leadership of Chairman Dr. Prabhakar Kore, and members of Board of Management, 
 the society's institutions serve more than 100, 000 students. Over 16, 000 dedicated faculty and 
 staff work together to meet the high standards set by the management.
- ## Page 3
  CONTENTS
 02
 FOREWORD
@@ -80,7 +78,6 @@ GOVERNANCE
 ALUMNI ASSOCIATION
 42
 BVB EXECUTIVE TEAM
- ## Page 4
  2 | BVBCET
 Foreword
 Dr . Ashok S. Shettar
@@ -98,7 +95,6 @@ We would like to extend our sincere thanks to our faculty, staff, students, alum
 their continued support and remarkable contributions. Looking ahead, we will continue to work towards 
 realizing our vision to be a leader in engineering education, and advancing research and innovation to 
 support socio-economic development of the region.
- ## Page 5
    www.bvb.edu | 3 
 Introduction and
 Our Organization
@@ -165,7 +161,6 @@ of-the-art infrastructure in every engineering
 discipline.
 Creating Value
 Leveraging Knowledge
- ## Page 6
  4 | BVBCET
 As a college established by a premiere non-
 profit organization 'Karnataka Lingayat 
@@ -217,7 +212,6 @@ technological institution, it will empower the
 college to contribute to the growth of socio-
 economic potential of the region.
 Our Vision
- ## Page 7
    www.bvb.edu | 5 
 Admission Process
 Undergraduate Admissions
@@ -255,7 +249,6 @@ the rules framed by the Visveswaraya
 Technological University , Belgaum. 
 Postgraduate Admissions
 Student Enrollment
- ## Page 8
  6 | BVBCET
 Sl. No Department `
 1 Civil Engg. M Sc ( Engg.) by research PhD
@@ -299,7 +292,6 @@ Administration 60
 9. Master of Computer
 Application 60 
 Undergraduate Programs
- ## Page 9
    www.bvb.edu | 7 
 Student admissions for the year 2014-15 - UG
 Student admissions for the year 2014-15 - PG
@@ -362,7 +354,6 @@ MCA
 2013-14 2014-15
 104 104
 2013-14 2014-15
- ## Page 10
  8 | BVBCET
 The college continues to maintain its leadership in the North- Karnataka region in attracting the 
 top merited students. This is demonstrated in the following graphs in which CET cutoff ranks 
@@ -422,7 +413,6 @@ BVBCET Peer-1 Peer-2 Peer-3 Peer-4
 2014-15
 62%
 38%
- ## Page 11
    www.bvb.edu | 9 
 The initiatives undertaken to enhance the quality of education and student performance are presented 
 under following three tenets of academic quality
@@ -451,7 +441,6 @@ a culture of continuous improvement that
 strengthens our academic quality and inspires 
 student achievement.
 Academic Quality
- ## Page 12
  10 | BVBCET
 Advances in Curriculum
 In the year 2009, the college undertook a 
@@ -476,7 +465,6 @@ identified by analyzing combination of individual
 course reports and student works. The frame 
 work adopted by the college is depicted in the 
 Figure below.
- ## Page 13
    www.bvb.edu | 11 
 Product Design and Realization:
 Engineering graduates are expected to function effectively as an individual, and as a member or leader in 
@@ -512,7 +500,6 @@ treatment in standard sheets as per IS.
 Scope of the new course includes:
 To familiarize steps to design a complete machine tool based on the given objective. 
 This course has helped to bridge the gap in the curriculum and prepares the students to design a system.
- ## Page 14
  12 | BVBCET
 Workshops
 Faculty Development Programs
@@ -545,7 +532,6 @@ grams offered by reputed institutions and industry.
 • Assessment in Higher Education
 • Categories of Knowledge
 • Cognitive Processes
- ## Page 15
    www.bvb.edu | 13 
 Student Achievements
 Student achievements are presented through three parameters:
@@ -569,7 +555,6 @@ Graduation Rate% Graduation Rate
 645
 741
 Placed in Final Year Higher Studies Total
- ## Page 16
  14 | BVBCET
 Research and Innovation
  To sustain academic and professional reputation in knowledge-based economy
@@ -614,7 +599,6 @@ awarded
 The summary of present status regarding research activities with statistics of research centers, 
 publications, funding received and some initiatives taken up to enhance the research activities in 
 the college are presented. 
- ## Page 17
    www.bvb.edu | 15 
 Summary of publications
 The following table summarizes the number of publications of research work in refereed conferences 
@@ -649,7 +633,6 @@ Maximum Impact Factor
 =5.510 
 Total 110 232 24 303 112 781 
   Publications International Journals Publications : Conferences
- ## Page 18
  16 | BVBCET
 Summary of external funded projects
 Research grants received: 2012-2015
@@ -744,7 +727,6 @@ Phy 20 115 35 135 15 25
 Maths 0 13 28 44 0 0
 Chem 7 57 28 183 57 7
 Total 226 1165 593 2816 104 56
- ## Page 19
    www.bvb.edu | 17 
   SI.NO Year Number of projects Amount sanctioned Funding Agency 
 1 2012-2013 01 20.0 L VGST 
@@ -838,7 +820,6 @@ Outcomes:
  Total fund received in 2014-15 : Rs.6.00L
  Number of product development (in progress) : 5
  Number of Industry and Institute collaborations : 02
- ## Page 20
  18 | BVBCET
 Centre for Material Science
 Focus areas of this cluster are: 
@@ -863,7 +844,6 @@ Outcomes:
  Total project proposals sent in 2014-15: 14
  Total fund received in 2014-15: Rs.70 Lakhs (External)
  Number of products in progress:01
- ## Page 21
    www.bvb.edu | 19 
 Centre for Technology Innovation and Entrepreneurship (CTIE):
 Entrepreneurship is the key driver for 
@@ -905,7 +885,6 @@ Ecosystem
 Centre for Technology Innovation & 
 E ntrepreneurship 
 CTI E
-  ## Page 22
  20 | BVBCET
 The second path focused on building the pipeline of eligible students who are open enough to experience 
 career of an entrepreneur. A good mix of credit based and non-credit activities were undertaken as a part 
@@ -981,7 +960,6 @@ business decisions. It is an experiential learning
 experience where in they get to interact with 
 mentors and technology guides to solve the problem 
 undertaken. 
- ## Page 23
    www.bvb.edu | 21 
 Product Design and Realization- (PDR) - Summer term course
 Product design and building is a complex process requiring cross-functional teams from design, 
@@ -1055,7 +1033,6 @@ Scaling & Commercialization
 E nabling 'Make in India' through 'Make in BVB'
   BVB Center for Innova-
 tion &
- ## Page 24
  22 | BVBCET
 CIPD values the importance of a product development support system being available on campus. 
 A state-of-the art prototyping facility 'Learning Factory' is setup to help transform technology 
@@ -1072,7 +1049,6 @@ Learning Factory Facilities:
 Machines at glance in Learning Factory
 CNC Vertical Machining CentreCNC Turning Centre
 CNC Wire EDM Machine
- ## Page 25
    www.bvb.edu | 23 
 CNC Router
 Power Tools
@@ -1081,7 +1057,6 @@ Precision Desktop
 3D Printing -
 Objet30 Pro 3D desktop milling
 machine
- ## Page 26
  24 | BVBCET
 It is essential that the institute continues to strengthen its association with the industries to 
 enhance its student learning experience and relevance of its research activities. 
@@ -1151,7 +1126,6 @@ To make the students competent in PC based
 Automation Software tool TwinCAT based PLC, 
 Motion control, Robotics & Visualization functions 
 that are available in TwinCAT.
- ## Page 27
    www.bvb.edu | 25 
 Centre for Engineering Education Research (CEER) 
 Education Research
@@ -1204,7 +1178,6 @@ This is a new initiative to promote culture of innovation in Engineering Educati
 members and support them with funds up to Rs.10, 000 per proposal. This year a total of 13 
 faculty members from 06 departments are given Curriculum Innovation Grants during the year 
 2014-2015. 
- ## Page 28
  26 | BVBCET
 This new initiative is introduced in order to 
 strategise and innovate in attainment of outcomes, 
@@ -1248,7 +1221,6 @@ December 2015.
 Smart City Project
 KLE Tech - BVB has been chosen as institutional partner for Hubballi-Dharwad Smart City Project.
 Recognitions
- ## Page 29
    www.bvb.edu | 27 
 students. Additional class rooms have been 
 constructed to accommodate increasing 
@@ -1266,7 +1238,6 @@ creating informal interaction space for the
 students in the campus and construction of 
 'Musical Fountain'.
 Capital and IT
- ## Page 30
  28 | BVBCET
 We continually strive hard to keep our laboratories and computer centers in tune with the latest 
 technological advances. In the present year, apart from the college funds, the grants under TEQIP-II 
@@ -1393,7 +1364,6 @@ Online Journals ; IEEE, JGate, Springer, ASME, ASA, EBSCO Online Journals, Nimbu
 ments
 5. NPTEL Video Streaming
  E -learning through online web and video courses in Engineering
- ## Page 31
    www.bvb.edu | 29 
 Board of Governers
 Chairman
@@ -1413,7 +1383,6 @@ Prof M. I. Savadatti
 Head of the Institution/Member Secretary
 Dr. Ashok Shettar
 Governance 
-  ## Page 32
  30 | BVBCET
 Strategic Plan Progress:
 Strategic plan of BVBCET for the period 2012-17 defines how we will be successful within a challenging 
@@ -1423,17 +1392,11 @@ through an extensive consultation programme that has also engaged with alumni an
 partners. The inputs from TEQIP-Project Implementation Plan document have been considered while 
 formulating the strategic plan of the Institution. The progress of the activities undertaken to achieve 
 envisioned developmental objectives are reported below.
- ## Page 33
    www.bvb.edu | 31 
- ## Page 34
  32 | BVBCET
- ## Page 35
    www.bvb.edu | 33 
- ## Page 36
  34 | BVBCET
- ## Page 37
    www.bvb.edu | 35 
- ## Page 38
  36 | BVBCET
 Student accolades
 ICAM-3D CAR DESIGN CHALLENGE
@@ -1484,7 +1447,6 @@ Student Members:
 Sourabh Alagundagi (E&C)
 Rajat Bapuri (E&C)
 Sumitra Malagi (CSE)
- ## Page 39
    www.bvb.edu | 37 
 Financials
 K.L.E. Society's B.V. Bhoomaraddi College of Engg. & Tech., Hubli
@@ -1525,7 +1487,6 @@ over Income
 210, 40, 192.22 
 Grand Total 5288, 52, 964.52 Grand Total 5288, 52, 964.52 - 
 - 
- ## Page 40
  38 | BVBCET
 Alumni Association -Events
 TRAINING PROGRAMME 
@@ -1565,7 +1526,6 @@ retired Principal, Prof.S.B.Kurbar, Dr.P G
 Tewari, Prof. K R Biradar, Dr. Sanjay Kotabagi, 
 Dr. Uma Mudenagudi, Dr.A.B.RAju were part 
 of the celebration. 
- ## Page 41
    www.bvb.edu | 39 
 Deans
 Dr. Ashok Shettar
@@ -1598,7 +1558,6 @@ Dr. Satyadhyan Chickerur
 Center Heads
 Coordinator, CIAP
 BVB Executive Leadership Team
- ## Page 42
  40 | BVBCET
 Heads of Departments
 Dr. Anil Badiger
@@ -1641,10 +1600,8 @@ Dr. Sanjay Kotabagi
 Humanities
 Prof. T. V. M. Swamy
 First Year
- ## Page 43
    www.bvb.edu | 41 
 Campus Snapshots
- ## Page 44
  42 | BVBCET
 KLE Society's
 B. V. Bhoomaraddi College of Engineering and Technology

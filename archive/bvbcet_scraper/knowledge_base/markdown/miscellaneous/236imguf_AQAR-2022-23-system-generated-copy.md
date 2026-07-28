@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 236imguf_AQAR-2022-23-system-generated-copy"
+title: "AQAR 2022 23 System Generated Copy"
 category: "miscellaneous"
 subcategory: ""
 document_type: "syllabus"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["copy", "document", "file", "generated", "system", "university", "upload", "view", "year"]
 aliases: ["HOD", "Head of Department", "EEE", "EE", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "63"
 ---
-# PDF Document: 236imguf_AQAR-2022-23-system-generated-copy
- **PDF Source:** https://www.kletech.ac.in/Uploads/image/236imguf_AQAR-2022-23-system-generated-copy.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/Uploads/image/236imguf_AQAR-2022-23-system-generated-copy.pdf
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 YEARLY STATUS REPORT - 2022-2023
 Part A
@@ -38,7 +38,6 @@ Type of Institution Co-education
 Location Urban
 Name of the IQAC Co-ordinator/DirectorDr. P.G. Tewari
 Page 1/63 17-12-2024 12:30:29
- ## Page 2
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 Phone no./Alternate phone no 08362378108
 Mobile 9845903330
@@ -83,7 +82,6 @@ uploaded on the institutional website.
 action taken report)
 Yes
 Page 2/63 17-12-2024 12:30:29
- ## Page 3
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 (Please upload, minutes of meetings and
 action taken report)
@@ -126,7 +124,6 @@ statutory body?
 Yes
 Name of the statutory body
 Page 3/63 17-12-2024 12:30:29
- ## Page 4
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 Name Date of meeting(s)
 Nil Nil
@@ -170,7 +167,6 @@ industry internships, and value-based courses align with NEP-2020.
 include credit-based courses and projects in the areas of community
 engagement and service, environmental education, and value-based
 Page 4/63 17-12-2024 12:30:29
- ## Page 5
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 towards attaining a holistic and multi-disciplinary education. This
 has been clearly explained in 1.3.1 of AQAR. 4. The institution has
@@ -216,7 +212,6 @@ faculty members share their pedagogical innovations practiced during
 that year with the rest of the faculty of the University.
 18. Skill development:
 Page 5/63 17-12-2024 12:30:29
- ## Page 6
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 A. The University, in its non-engineering programs, has introduced
 'Ability Enhancement' and 'Skill Enhancement' courses, which align
@@ -258,7 +253,6 @@ Distance Education / Online Education in its next strategic plan.
 Extended Profile
 1. Programme
 Page 6/63 17-12-2024 12:30:29
- ## Page 7
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 1. 1
 Number of programmes offered during the year:
@@ -293,7 +287,6 @@ Number of revaluation applications during the year
 Number of courses in all Programmes during the year
 840
 Page 7/63 17-12-2024 12:30:29
- ## Page 8
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 File Description Documents
 Data Template View File
@@ -319,7 +312,6 @@ Number of seats earmarked for reserved category as per GOI/ State
 Govt. rule during the year
 448
 Page 8/63 17-12-2024 12:30:29
- ## Page 9
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 Extended Profile
 1. Programme
@@ -354,7 +346,6 @@ Number of revaluation applications during the year
 3. Academic
 3. 1 840
 Page 9/63 17-12-2024 12:30:29
- ## Page 10
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 Number of courses in all Programmes during the year
 File Description Documents
@@ -389,7 +380,6 @@ Total number of classrooms and seminar halls
 Total number of computers in the campus for academic purpose
 2781
 Page 10/63 17-12-2024 12:30:29
- ## Page 11
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 4. 5
 Total expenditure excluding salary during the year (INR in
@@ -426,7 +416,6 @@ compliance of the curriculum with POs and PSOs are,
 1. Course Articulation Matrix,
 2. Program Articulation Matrix
 Page 11/63 17-12-2024 12:30:29
- ## Page 12
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 File Description Documents
 Upload relevant supporting
@@ -462,7 +451,6 @@ No File Uploaded
 system has been implemented during the year
 20
 Page 12/63 17-12-2024 12:30:29
- ## Page 13
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 File Description Documents
 Upload the data template View File
@@ -499,7 +487,6 @@ Induction program: The program focuses on inculcating moral,
 social, and ethical values to all incoming students. This is held
 before the startof the first year as per AICTE guidelines.
 Page 13/63 17-12-2024 12:30:29
- ## Page 14
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 File Description Documents
 Upload relevant supporting
@@ -537,7 +524,6 @@ received from Students Teachers Employers
 Alumni
 • All 4 of the above
 Page 14/63 17-12-2024 12:30:29
- ## Page 15
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 File Description Documents
 Upload relevant supporting
@@ -577,7 +563,6 @@ for advanced learners and slow learners
 Students are assessed through continuous internal assessments at
 various levels and stages, based on learning levels following
 Page 15/63 17-12-2024 12:30:29
- ## Page 16
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 initiatives are conducted;
 Assisting slow learners:
@@ -615,7 +600,6 @@ Nil
 Number of Students Number of Teachers
 5897 339
 Page 16/63 17-12-2024 12:30:29
- ## Page 17
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 File Description Documents
 Upload relevant supporting
@@ -651,7 +635,6 @@ Learning pedagogy, and students work in teams to solve
 identified problems.
 'DTSI-Design Thinking through Social Innovation course in the
 Page 17/63 17-12-2024 12:30:29
- ## Page 18
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 first year enables students to connect with society, helps them to
 identify local issues, and identifies innovative and sustainable
@@ -691,7 +674,6 @@ Upload relevant supporting
 document
 View File
 Page 18/63 17-12-2024 12:30:29
- ## Page 19
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 2. 3.3 - Ratio of students to mentor for academic and other related issues during the year
 2. 3.3.1 - Number of mentors 
@@ -728,7 +710,6 @@ View File
 State, National, International level from Government/Govt. recognised bodies during the
 year
 Page 19/63 17-12-2024 12:30:29
- ## Page 20
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 7
 File Description Documents
@@ -767,7 +748,6 @@ graduation in a seamless manner. The institution-specific rules
 for academic management are encoded, thereby ensuring compliance
 and governance. The IT Platform has the following features.
 Page 20/63 17-12-2024 12:30:29
- ## Page 21
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 The system provides full support for measuring outcomes per the
 NBA and Washington Accord requirements. OBE-compliant question
@@ -811,7 +791,6 @@ All University programs have well-articulated program outcomes
 are defined based on the recommendation of accreditation bodies
 mainly NBA & NAAB (For Architecture).
 Page 21/63 17-12-2024 12:30:29
- ## Page 22
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 Program-specific outcomes have been arrived at based on the skills
 and knowledge specific to the program the graduates need to
@@ -852,7 +831,6 @@ targets for each course outcome. The attainment level for a CO is
 stated in terms of the percentage of students scoring more than
 the target score.
 Page 22/63 17-12-2024 12:30:29
- ## Page 23
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 2. Evaluation of Program Outcomes and Program Specific
 Outcomesattainment: Two approaches are used in assessing the
@@ -890,7 +868,6 @@ RESEARCH, INNOVATIONS AND EXTENSION
 3. 1 - Promotion of Research and Facilities
 3. 1.1 - The institution Research facilities are frequently updated and there is well defined policy for
 Page 23/63 17-12-2024 12:30:29
- ## Page 24
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 promotion of research which is uploaded on the institutional website and implemented
 The Research Council is the statutory body that guides the
@@ -932,7 +909,6 @@ Upload relevant supporting
 document
 View File
 Page 24/63 17-12-2024 12:30:29
- ## Page 25
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 3. 1.3 - Number of teachers receiving national/ international fellowship/financial support by
 various agencies for advanced studies/ research during the year
@@ -972,7 +948,6 @@ View File
 3. 2 - Resource Mobilization for Research
 3. 2.1 - Extramural funding for Research (Grants sponsored by the non-government sources
 Page 25/63 17-12-2024 12:30:29
- ## Page 26
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 such as industry, corporate houses, international bodies for research projects) endowments,
 Chairs in the University during the year (INR in Lakhs)
@@ -1011,7 +986,6 @@ TIDE2.0 Incubator from MeitY. It has emerged as a pioneering model
 to drive, promote and support entrepreneurial communities in Tier-
 II cities. We have incubated over 135 startups for the last 10
 Page 26/63 17-12-2024 12:30:29
- ## Page 27
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 years. Over 1000 jobs were created in the region having two
 companies with a valuation of over INR 100 Cr.
@@ -1052,7 +1026,6 @@ Upload relevant supporting
 document
 View File
 Page 27/63 17-12-2024 12:30:29
- ## Page 28
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 3. 4 - Research Publications and Awards
 3. 4.1 - The institution ensures implementation of its stated Code of Ethics for research 
@@ -1094,7 +1067,6 @@ Upload relevant supporting
 document
 View File
 Page 28/63 17-12-2024 12:30:29
- ## Page 29
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 3. 4.4 - Number of Ph.D's awarded per teacher during the year
 3. 4.4.1 - How many Ph.D's are awarded during the year
@@ -1134,7 +1106,6 @@ Upload relevant supporting
 document
 No File Uploaded
 Page 29/63 17-12-2024 12:30:29
- ## Page 30
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 3. 4.8 - Bibliometrics of the publications during the year based on average Citation Index in
 Scopus/ Web of Science/PubMed
@@ -1171,7 +1142,6 @@ testing, prototyping, material preparation, etc.
 Category II: Here, faculty/staff use infrastructure like
 buildings, electricity, water, etc., only.
 Page 30/63 17-12-2024 12:30:29
- ## Page 31
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 Category III: Here, faculty visits external premises, and uses
 intellectual capabilities based on the developments in the
@@ -1212,7 +1182,6 @@ of students from across campus work together on co-generated
 problems that benefit the community. The TIST program starts
 from the summer vacation of the 4th semester and spreads
 Page 31/63 17-12-2024 12:30:29
- ## Page 32
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 over three semesters with more than 300 hours of engagement.
 Rural Immersion Track: The rural immersion program allows students
@@ -1250,7 +1219,6 @@ No File Uploaded
 during the year
 3121
 Page 32/63 17-12-2024 12:30:29
- ## Page 33
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 File Description Documents
 Upload the data template View File
@@ -1289,7 +1257,6 @@ and norms of statutory/regulatory bodies according to its vision
 and strategic objectives. It is spread over a sprawling 68 acres
 with sufficient built-up space. 5500+ students study various
 Page 33/63 17-12-2024 12:30:29
- ## Page 34
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 courses.
 Some of the facilities are listed below;
@@ -1328,7 +1295,6 @@ track, multi-gym stations, open-air theatre, and air-conditioned
 auditoriums, and many more. The details of the facilities and
 usage are uploaded in supporting documents.
 Page 34/63 17-12-2024 12:30:29
- ## Page 35
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 A new hi-tech indoor stadium (put details) with a capacity of
 accommodating 3000+ people will be ready soon. Cricket Turf
@@ -1366,7 +1332,6 @@ shop.All buildings on the campus have ramps for differently-abled
 students. Adequate parking facilities, drinking water, internet
 access, and student interaction spaces are available.
 Page 35/63 17-12-2024 12:30:29
- ## Page 36
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 File Description Documents
 Upload relevant supporting
@@ -1407,7 +1372,6 @@ to the library server using DSpace, which is accessible on campus.
 The KNIMBUS Digital Library Platform has facilitated remote access
 to e-resources.
 Page 36/63 17-12-2024 12:30:29
- ## Page 37
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 File Description Documents
 Upload relevant supporting
@@ -1448,7 +1412,6 @@ Upload relevant supporting
 document
 View File
 Page 37/63 17-12-2024 12:30:29
- ## Page 38
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 4. 3.2 - Institution has an IT policy, makes appropriate budgetary provision and updates its IT
 facilities including Wi-Fi facility
@@ -1480,7 +1443,6 @@ resources (diploma, ITI).
 IT cell (info cell) is responsible for planning, procuring, and
 managing ICT facilities across campus.
 Page 38/63 17-12-2024 12:30:29
- ## Page 39
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 File Description Documents
 Upload relevant supporting
@@ -1520,7 +1482,6 @@ View File
 4. 4.2 - There are established systems and procedures for maintaining and utilizing physical,
 academic and support facilities - laboratory, library, sports complex, computers, classrooms etc.
 Page 39/63 17-12-2024 12:30:29
- ## Page 40
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 The University has adopted a Process-Oriented ISO 9000 - 2015
 Quality Management System (QMS). As a part of the QMS System, a
@@ -1558,7 +1519,6 @@ STUDENT SUPPORT AND PROGRESSION
 institution, Government and non-government agencies (NGOs) during the year (other than
 the students receiving scholarships under the government schemes for reserved categories)
 Page 40/63 17-12-2024 12:30:29
- ## Page 41
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 979
 File Description Documents
@@ -1602,7 +1562,6 @@ Upload relevant supporting
 document
 View File
 Page 41/63 17-12-2024 12:30:29
- ## Page 42
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 5. 2 - Student Progression
 5. 2.1 - Number of students qualifying in state/ national/ international level examinations
@@ -1638,7 +1597,6 @@ sports/cultural activities at inter -university/state/national/international eve
 team event should be counted as one) during the year
 27
 Page 42/63 17-12-2024 12:30:29
- ## Page 43
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 File Description Documents
 Upload the data template View File
@@ -1679,7 +1637,6 @@ No File Uploaded
 5. 3.3 - Number of sports and cultural events / competitions organised by the institution
 during the year
 Page 43/63 17-12-2024 12:30:29
- ## Page 44
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 27
 File Description Documents
@@ -1714,7 +1671,6 @@ for internships and even placements. Providing assistance to
 conduct annual meets/Silver Jubilee/Golden Jubilee celebrations on
 the campus
 Page 44/63 17-12-2024 12:30:29
- ## Page 45
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 File Description Documents
 Upload relevant supporting
@@ -1754,7 +1710,6 @@ region by contributing our expertise, experience, and
 leadership to enhance competitiveness and quality of life
 All faculty, staff, and students work together with the spirit of
 Page 45/63 17-12-2024 12:30:29
- ## Page 46
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 collaboration and partnership to accomplish our mission. The
 strategic planning process is done once every five years through a
@@ -1796,7 +1751,6 @@ given ownership of the process to manage important tasks, like
 feedback analysis, student counseling, department budget, IQAC,
 etc.
 Page 46/63 17-12-2024 12:30:29
- ## Page 47
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 File Description Documents
 Upload relevant supporting
@@ -1838,7 +1792,6 @@ administrative setup, appointment and service rules, procedures, etc.
 The KLE Technological University has been established per the
 Karnataka Act 22 of 2013. This act forms the guiding document.
 Page 47/63 17-12-2024 12:30:29
- ## Page 48
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 Statutes & Regulations are per this act. The overall set-up of the
 administrative and academic bodies of the University and their
@@ -1877,7 +1830,6 @@ document
 View File
 6. 3 - Faculty Empowerment Strategies
 Page 48/63 17-12-2024 12:30:29
- ## Page 49
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 6. 3.1 - The institution has a performance appraisal system, promotional avenues and effective
 welfare measures for teaching and non-teaching staff
@@ -1916,7 +1868,6 @@ Upload relevant supporting
 document
 No File Uploaded
 Page 49/63 17-12-2024 12:30:29
- ## Page 50
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 6. 3.3 - Number of professional development / administrative training Programmes organized
 by the institution for teaching and non-teaching staff during the year
@@ -1952,7 +1903,6 @@ the financial year. The finance council prepares the budget.
 Further, the budget is approved by the Board of Governors.
 Executive Council reviews the progress in budget utilization.
 Page 50/63 17-12-2024 12:30:29
- ## Page 51
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 Budgeting ensures that expenditures for all salaries and academic
 requirements like lab equipment, consumables, maintenance,
@@ -1993,7 +1943,6 @@ and compliance with procedures and guidelines. Our books of
 accounts have been audited regularly since the inception of the
 University. The Auditors conduct concurrent and statutory audits
 Page 51/63 17-12-2024 12:30:29
- ## Page 52
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 for our Institution.
 Concurrent audit: The objective of concurrent audits is to assess
@@ -2031,7 +1980,6 @@ undergraduate engineering education.
 Title of the Practice: Collaborations:
 There are numerous collaborations in place aimed at enhancing the
 Page 52/63 17-12-2024 12:30:29
- ## Page 53
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 learning experience. Following is one of the case studies that
 enabled the institutionalization of the learning experience across
@@ -2075,7 +2023,6 @@ Upload relevant supporting
 documnent
 No File Uploaded
 Page 53/63 17-12-2024 12:30:29
- ## Page 54
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 6. 5.3 - Incremental improvements made for the preceding during the year with regard to quality (in
 case of first cycle) Post accreditation quality initiatives(second and subsequent cycles)
@@ -2117,7 +2064,6 @@ environment for all its members. The university ensures the on-the-
 ground implementation of these values through appropriate
 committees and policies such as anti-sexual harassment policies.
 Page 54/63 17-12-2024 12:30:29
- ## Page 55
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 The committees and policies align with UGC guidelines to ensure
 the campus is free from any form of sexual discrimination and
@@ -2144,7 +2090,6 @@ campus and hostels. Daycare center: For women's peaceful working,
 the management of the University runs Day Care Centre. Young
 children of the women employers have admitted their wards.
 Page 55/63 17-12-2024 12:30:29
- ## Page 56
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 File Description Documents
 Upload relevant supporting
@@ -2193,7 +2138,6 @@ reduce, reuse, recycle and recover waste to reduce the amount of
 disposable waste and preserve valuable, limited landfill space.
 Plastic-free Campus, Paperless communication, & Use of ERP are
 Page 56/63 17-12-2024 12:30:29
- ## Page 57
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 some of the majors undertaken.
 2. Liquid Waste Management: Treating wastewater through a sewage
@@ -2233,7 +2177,6 @@ vehicles
 5. Landscaping
 A. Any 4 or All of the above
 Page 57/63 17-12-2024 12:30:29
- ## Page 58
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 File Description Documents
 Upload relevant supporting
@@ -2278,7 +2221,6 @@ tolerance and harmony towards cultural, regional, linguistic, communal, socio-ec
 diversities (within a maximum of 200 words)
 The University strives to maintain an inclusive environment on the
 Page 58/63 17-12-2024 12:30:29
- ## Page 59
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 campus and universal brotherhood. Every year, the University
 organizes various programs and celebrations to inculcate
@@ -2309,7 +2251,6 @@ Health camps
 Pledge on the Graduation and Sadbhavana day.
 Marathon runs for unity and diversity.
 Page 59/63 17-12-2024 12:30:29
- ## Page 60
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 File Description Documents
 Upload relevant supporting
@@ -2354,7 +2295,6 @@ staff Annual awareness programmes on Code
 of Conduct are organized
 All of the above
 Page 60/63 17-12-2024 12:30:29
- ## Page 61
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 File Description Documents
 Upload relevant supporting
@@ -2395,7 +2335,6 @@ and established research groups/ clusters of networks of diverse
 researchers working to pursue common aims. We believe that
 collaborations and partnerships are essential for impactful
 Page 61/63 17-12-2024 12:30:30
- ## Page 62
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 research.
 This has led to establishing STAR-Labs (Science & Technology
@@ -2437,7 +2376,6 @@ and employment opportunities in rural India, tier II and III
 cities.Besides commercializing several in-house developed products
 and patents, CIPD established a business incubator, a design
 Page 62/63 17-12-2024 12:30:30
- ## Page 63
  Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI
 center, andan IP facilitation cell. These endeavors are supported
 by the Department of MSME, Government of India. The Department of

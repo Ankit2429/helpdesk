@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: pg-llm-ip-it-law-2024-26"
+title: "LL.M. IP & IT Law Curriculum"
 category: "miscellaneous"
 subcategory: ""
 document_type: "syllabus"
@@ -11,16 +11,15 @@ language: "en"
 keywords: ["course", "document", "law", "legal", "llm", "marks", "research", "unit"]
 aliases: ["HOD", "Head of Department", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "42"
 ---
-# PDF Document: pg-llm-ip-it-law-2024-26
- **PDF Source:** https://www.kletech.ac.in/pdf/pg-llm-ip-it-law-2024-26.pdf
- ## Page 1
- 1 
+**PDF Source:** https://www.kletech.ac.in/pdf/pg-llm-ip-it-law-2024-26.pdf
+
   Curriculum Structure and Content for the Academic Batch 2024-26 
 Law Programs 
 Program: LL.M. IP & IT Law 
- ## Page 2
- 2 
+
   Table of Contents 
 Vision and Mission of KLE Technological University .............................................................................. 3 
 Vision and Mission Statements of KLE Law College .............................................................................. 4 
@@ -32,8 +31,7 @@ Semester I .....................................................................
 Semester - II ....................................................................................................................................................... 9 
 Semester- III .................................................................................................................................................... 10 
 Semester- IV ..................................................................................................................................................... 11 
- ## Page 3
- 3 
+
 Vision and Mission of KLE Technological University 
   Vision 
 KLE Technological University will be a national leader in Higher Education -recognised globally 
@@ -53,8 +51,7 @@ importance and priority.
 expertise, experience and leadership, to enhance competitiveness and quality of life. 
   As a unified community of faculty, staff and students, we work together with the spirit of 
 collaboration and partnership to accomplish our mission. 
- ## Page 4
- 4 
+
 Vision and Mission Statements of the KLE Law College 
    Vision 
 To inspire, sculpt, and empower the students through holistic education to attain the objective of 
@@ -72,8 +69,7 @@ with the common man as the focal point.
  To create an apt atmosphere for learning with the aim of deve loping ethically strong and 
 morally exalted individuals with the values of love, truth, service, and sacrifice. 
  To promote research culture and nurture innovative ideas among the faculty and students 
-  ## Page 5
- 5 
+
 Program Educational Objectives/Program Outcomes and Program-Specific Objectives 
   Program Educational Objectives -PEOs 
 LL.M. graduates are expected to attain the following after 2 years of graduation 
@@ -110,8 +106,7 @@ PO7. Environment and Sustainability: Graduates will recognise environmental conc
 contribute to sustainable legal solutions that uphold ecological balance. 
 PO8. Ethics: Graduates will demonstrate ethical conduct, practice integrity and maintain 
 accountability in all professional and academic engagements. 
- ## Page 6
- 6 
+
   PO9. Individual and Teamwork: Graduates will function effectively as individuals and 
 collaborate as team members in multidisciplinary and multicultural settings. 
 PO10. Communication: Graduates will communicate legal ideas, construct arguments, and 
@@ -130,8 +125,7 @@ constitutional law on public policy, legislative reforms, and administrative dec
 PSO3 - Engagement with Contemporary Constitutional Challenges: Graduates will engage 
 with evolving constitutional issues such as federalism, secularism, and constitutional morality 
 through academic and policy research. 
-  ## Page 7
- 7 
+
 Curriculum Structure-Overall 
   Semester: 1 to 4 (2024-26 Batch) Total 
 Program Credits: 64 
@@ -187,8 +181,7 @@ Intellectual Property Law and
 Other Laws 
 (22LLIT204) 
   Credits 16 16 16 16 
- ## Page 8
- 8 
+
         Curriculum Structure-Semester-wise 
 Semester - I 
   No Code Course Course 
@@ -208,8 +201,7 @@ Trademarks, Geographical Indication
 and Unfair Competition 
 Theory 4-0-0-0 4 50 50 100 3 hours 
 TOTAL 16 
- ## Page 9
- 9 
+
 Semester - II 
   No Code Course Course 
 Type 
@@ -230,8 +222,7 @@ Theory 4-0-0-0 4 50 50 100 3 hours
 Protection Law 
 Theory 4-0-0-0 4 50 50 100 3 hours 
 TOTAL 16 
- ## Page 10
- 10 
+
 Semester III 
   No Code Course Course 
 Type 
@@ -259,8 +250,7 @@ Theory 4-0-0-0 4 50 50 100 3 hours
 Property Law and Other Laws 
   Theory 4-0-0-0 4 50 50 100 3 hours 
 TOTAL 16 
- ## Page 11
- 11 
+
 Semester IV 
   No Code Course Course 
 Type 
@@ -282,8 +272,7 @@ Theory 4-0-0-0 4 100 0 100 3 hours
 TOTAL 16 
   Semester I II III IV Total 
 Credits 16 16 16 16 64 
-  ## Page 12
- 12 
+
     Curriculum Content- Course-wise 
 Program: PG Semester: I 
 Course Title: Judicial Processes and Law-Making Processes 
@@ -321,8 +310,7 @@ opinion
 • Literal or Plain Meaning Rule 
 • Golden Rule 
 • Purposive approach: Mischief Rule; Compromise approach 
-  ## Page 13
- 13 
+
 Unit V: Nature of legislative drafting: 
   • Diseases of language to be dealt and taken care of 
 • Its history in India and England 
@@ -367,12 +355,10 @@ Prescribed Book(s):
        Legislative Drafting (Butterworths, 1996) 
  12. Constantin Stefanou and Helen Xanthaki (ed) Drafting Legislation (Ashgate, 2008) 
  13. Reed Dickerson, Legislative Drafting 
- ## Page 14
- 14 
+
  14. Reed Dickerson, Interpretation of Statutes 
  15. G P Singh, Statutory Interpretation (14th ed, 2018) 
- ## Page 15
- 15 
+
   Program: PG Semester: I 
   Course Title: Research Methodology 
   Course Code: 22LLIC102 
@@ -407,8 +393,7 @@ and ethics in legal research
 questionnaire, survey 
 • Qualitative legal research; sampling method: varieties and uses 
 • Quantitative legal research 
-  ## Page 16
- 16 
+
 Unit V: Integrated methods of legal research and Research Reporting 
   • Multi-method legal research: nature, need, procedure and potentiality 
 • Policy research in law 
@@ -437,8 +422,7 @@ Prescribed Book(s):
  10. Lazersfield, Paul F. (1967)-The Language of social research (N.Y. Free Press.) 
  11. Russel L.Ack; off (19530- The Design of Social Research (University of Chicago 
       Press). 
-  ## Page 17
- 17 
+
   Program: PG Semester: I 
   Course Title: Legal Theory and Philosophy Course Code: 22LLIC103 
 L-T-P-SS: 4-0-0-0 Credits: 04 
@@ -470,8 +454,7 @@ Theories of Justice.
  2. Roscoe Pound- Jurisprudence- Vol. 1 to 5 
  3. Roscoe Pound- Introduction to the Philosophy of Law 
  4. Kelson - The Pure Theory of Law, 
- ## Page 18
- 18 
+
  5. D' Entreaves - Natural Law, 
  6. Summers- Essays on Law, 
  7. Mill, JS. Utilitarianism, Chapters 1 & 2 
@@ -483,8 +466,7 @@ Theories of Justice.
      University Press, 2001 (Revised edition). (Excerpts) 
  12. Okin, Susan Moller. 'Justice and Gender', Philosophy and Public Affairs, 16(1), 
       1987. 
-  ## Page 19
- 19 
+
   Program: PG Semester: I 
 Course Title: Specialisation Course - 1: Law of Trademarks 
 and Geographical Indication 
@@ -513,8 +495,7 @@ known Marks, Common Law Marks, Internet Domain Name
 • Grounds for Refusal of Registration, Remedies, Effects of Registration; Vested Rights and 
 Concurrent Registration. 
 • Trade dress and Colour Combination 
-  ## Page 20
- 20 
+
 Unit IV: Trademark transfer and Infringement 
   • Assignment, Transmission and Licensing of Trade Marks- Assignment and Transmission 
 o Restrictions on Assignment and Transmission; Economic Justification of Trade Mark 
@@ -554,10 +535,7 @@ Law, Practice and Procedure, Second Edition (Reprint), Wadhava Nagpur (2007).
 India Ltd. (2006). 
 6. UNCTAD-ICTSD, Resource book on TRIPS and Development, Cambridge University 
 Press (2005).Chapter 3 
-  ## Page 21
- 21 
-  ## Page 22
- 22 
+
   Program: PG Semester: II 
 Course Title: Law and Social Transformation in India Course Code: 22LLIC104 
 L-T-P-SS: 4-0-0-0 Credits: 4 
@@ -589,8 +567,7 @@ Teaching Hours: 0 Examination Duration: 3 hrs
 • Regionalism, law and social transformation 
 • Reforms in justice delivery system 
 • Role of NGOs and Local self-governments 
-  ## Page 23
- 23 
+
 Prescribed Book(s): 
 1. P Ishwara Bhat, Law and Social Transformation, EBC Publications, 2nd edition (2022). 
 References: 
@@ -600,8 +577,7 @@ References:
 4. Upendra Baxi, Law and Poverty, N.M.Tripathi Pvt. Ltd. Publications, (1988). 
 5. P. K. Gandhi (Ed.), Social Action Through Law, Department of Law, Special Issue, Cochin 
 University Law Review, (1984) , pp. 433-546. 
-  ## Page 24
- 24 
+
   Program: PG Semester: II 
 Course Title: Law Pedagogy and Legal Writing Course Code: 22LLIC105 
 L-T-P-SS: 2-1-1-0 Credits: 4 
@@ -633,8 +609,7 @@ Method, Simulation and Role Play, Collaborative Teaching, Seminar Method and Oth
 • Examination system 
 • Problems in evaluation 
 • Methods of evaluation - Continuous evaluation, end-term exams, assessment and supervision 
-  ## Page 25
- 25 
+
 Unit V: Legal writing 
   • Legal Writing - Articles, case analysis and book reviews 
 • Skills, tools and techniques 
@@ -663,8 +638,7 @@ Clinical Legal Education, Eastern Book Co., (1998).
 Butterworths, London, (1989). 
 5. Gerald F. Hess and Steven Friedland, Techniques for Teaching Law, Carolina Academic Press, 
 (1999). 
-  ## Page 26
- 26 
+
   Program: PG Semester: II 
 Practice 
 Course Code: 22LLIT102 
@@ -677,8 +651,7 @@ Teaching Hours: 60 Examination Duration: 3hrs
 • Fair Use Doctrine- Comparison of US, UK and India, ISP liability 
   • Remedies against infringement 
   Prescribed Book(s): 
- ## Page 27
- 27 
+
 3. Gopalkrishnan, N.S. and Agitha T.G, Principles of Intellectual Property, Eastern Book Company, 
 (2009). 
 Maxwell, London, (2010). 
@@ -690,8 +663,7 @@ Neighbouring Right Issues, ILI, New Delhi, (2013).
 (2012). 
 6. Ananth Padmanabhan, Intellectual Property Rights Infringement and Remedies, Lexis Nexis, 
 (2012). 
-  ## Page 28
- 28 
+
   Program: PG Semester: II 
 Course Title: Specialisation Course - 3: Data Protection Law 
   Course Code: 22LLIT103 
@@ -727,8 +699,7 @@ Protection Act, 2018
 • Judicial developments 
   Prescribed Book(s): 
 1. Pavan Duggal, Data Protection Law in India, Universal Law Publishing Co. (2016). 
- ## Page 29
- 29 
+
 2. Hert, De Paul, Research Handbook on Privacy and Data Protection Law: Values, Norms 
 and Global Politic, Edward Elgar Publishing, Massachusetts, USA, (2022). 
 3. Taal Amie, The GDPR Challenge: Privacy, Technology, and Compliance in an Age of 
@@ -743,8 +714,7 @@ Framework for Data Privacy Implementation, Notion Press, (2022).
 3. Robert Walters, Leon Trakman, Bruno Zeller, Data Protection Law, Springer Publishing 
 House, Singapore, (2019). 
 4. Peter Carey, Data Protection: A Practical Guide to UK Law, OUP, Oxford, (2020). 
-  ## Page 30
- 30 
+
   Program: PG Semester: II 
 Course Title: Specialisation Course - 4: Patent Law: Creation 
 and Registration 
@@ -776,8 +746,7 @@ Teaching Hours: 60 Examination Duration: 3hrs
 • Compulsory Licensing 
 • Licenses of Right 
 • Software Patents and Business Methods 
-  ## Page 31
- 31 
+
 Unit V: Enforcement of Patents - Patent Infringement with Case Studies 
   • Rights and Obligations of the Patentee 
 • Infringement & Remedies: Literal Infringement, Infringement by Equivalents - Doctrine of 
@@ -802,9 +771,8 @@ TATA McGraw-Hill Publishing Company, New Delhi (2001).
  Merges, Robert. Menell, Peter and Lemley, Mark, Intellectual Property in the New 
 Technological Age, Aspen Publishers, Inc. (2008). 
  WIPO Handbook of IPR. 
-  ## Page 32
  ←BACK TO SEMESTER II 
-  32 
+
   Program: PG Semester: III 
 Course Title: Specialisation Course - 5: Law on Designs, 
 Undisclosed Information, Plant Varieties and Other Allied 
@@ -841,17 +809,15 @@ Unit II: Process under Law of Design
 • Case studies 
 • Contribution of International Union for the Protection of New Varieties of Plants (UPOV 
 Convention) 
- ## Page 33
  ←BACK TO SEMESTER II 
-  33 
+
   Prescribed Book(s): 
 1. Verkey Elizabeth, Law of Plant Varieties Protection, Eastern Book Company 1st edn., 2007 
 (reprint with supplement 2021). 
 2. Verkey Elizabeth, Intellectual Property Rights: Law and practice, Eastern Book Company 1st 
 edn., 2015. 
-  ## Page 34
  ←BACK TO SEMESTER II 
-  34 
+
   Program: PG Semester: III 
 Course Title: Specialisation Course - 6: Future of Information 
 Technology Law 
@@ -888,9 +854,8 @@ Evidence Act, Reserve Bank of India Act.
 • Sources of electronic evidence 
 • Technical issues 
 • Admissibility of electronic evidence under Indian laws. 
-  ## Page 35
  ←BACK TO SEMESTER II 
-  35 
+
 Unit V: Emerging issues in cyber space 
   • Basic introduction to cyber laws 
 • Crimes - An introduction 
@@ -908,8 +873,7 @@ Publishing Co. New Delhi, 5th Edition, 2012.
 2. UNCITRAL model on E-Signatures 2001 
 3. The Information Technology Act, 2001 
 4. GDPR 
-  ## Page 36
- 36 
+
   Program: PG Semester: III 
 Course Title: Specialisation Course - 7: Commercialisation of 
 Intellectual Property 
@@ -944,8 +908,7 @@ Unit V: Emerging Trends and Future Outlook
 Bloomsbury (2018). 
 2. Intellectual Property Rights: Infringement and Remedies, Ananth Padmanabhan, 
 LexisNexis (2012). 
- ## Page 37
- 37 
+
   Readings: 
 1. Intellectual Property: From Creation to Commercialisation: A Practical Guide for 
 Innovators and Researchers, Oak Tree press (2012). 
@@ -976,8 +939,7 @@ Business - This case study examines Tata Motors' acquisition of Jaguar Land Rove
 highlights the strategic considerations and IP commercialization aspects of the deal. It 
 offers insights into IP valuation, technology transfer, and international IP 
 commercialization. 
-  ## Page 38
- 38 
+
   Program: PG Semester: IV 
 Course Title: Specialisation Course - 8: Information 
 Technology and Intellectual Property Rights- Law and Practice 
@@ -1008,8 +970,7 @@ Teaching Hours: 60 Examination Duration: 3hrs
   • Impact of emerging technologies on IP 
 • Challenges in protecting IP in the digital age 
 • Artificial intelligence and IP issues 
- ## Page 39
- 39 
+
 • Block-chain and IP management 
 • Ethical issues related to IP in IT 
 • Balancing IP rights with the public interest 
@@ -1025,8 +986,7 @@ Autonomous Systems, Big Data, IT Security and Legal Tech; Springer, (2022), 2nd 
 (2004), 2nd Edition. 
 6. Neil Wilkof, Shamnad Basheer and Irene Calboli, "Overlapping Intellectual Property Rights", 
 Oxford University Press, (2023), 2nd Edition. 
-  ## Page 40
- 40 
+
   Program: PG Semester: IV 
 Course Title: Specialisation Course - 9: Commercialisation of 
 Intellectual Property 
@@ -1062,8 +1022,7 @@ agreements, manufacturing agreements, distribution agreements, franchise agreeme
 • Protection of Plant Varieties and Farmers Rights: Farmers Rights and Breeders Rights 
 • Information Technology: Digital Rights Management (DRM) 
 • Biodiversity: Access and benefit-sharing 
- ## Page 41
- 41 
+
 Unit V: International Law and Recent Trends 
   • International Instruments: TRIPS Agreement, Paris Convention, Berne Convention, Madrid 
 Treaty (WCT) and the WIPO Performances and Phonograms Treaty (WPPT) 
@@ -1083,7 +1042,4 @@ Reuters (2024).
 2. Prabuddha Ganguli, Intellectual Property Rights: Unleashing The Knowledge Economy, 
 McGraw Hill Education, (2017). 
 3. Ashish Bharadwaj, Intellectual Property and Competitive Strategies in the 21st Century, 
-Kluwer Law International (2009). 
-  ## Page 42
- 42 
-  
+Kluwer Law International (2009).

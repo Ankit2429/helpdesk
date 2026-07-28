@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: mtech-structural-engineering-curriculum-2024-26"
+title: "Structural Engineering Curriculum"
 category: "academics"
 subcategory: ""
 document_type: "syllabus"
@@ -11,18 +11,15 @@ language: "en"
 keywords: ["curriculum", "design", "document", "engineering", "hours", "marks", "mtech", "structural", "structures"]
 aliases: ["HOD", "Head of Department", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "38"
 ---
-# PDF Document: mtech-structural-engineering-curriculum-2024-26
- **PDF Source:** https://www.kletech.ac.in/pdf/mtech-structural-engineering-curriculum-2024-26.pdf
- ## Page 1
- FMCD2009 / 2.0 
- 1 
+**PDF Source:** https://www.kletech.ac.in/pdf/mtech-structural-engineering-curriculum-2024-26.pdf
+
   Curriculum Structure and Curriculum Content for the Academic Batch 2024-2026 
 School of Civil Engineering 
 Program: Structural Engineering 
-  ## Page 2
- FMCD2009 / 2.0 
- 2 
+
   Table of Contents 
 Vision and Mission of KLE Technological University ........................................... 3 
 Vision and Mission Statements of the Department ............................................... 4 
@@ -35,9 +32,7 @@ Scheme Semester - I ............................................................
 List of Program Electives for Semester 1 .............................................................. 8 
 Semester - II ............................................................................................................. 9 
 List of Program Electives for Semester 2 ............................................................ 10 
-  ## Page 3
- FMCD2009 / 2.0 
- 3 
+
 Vision and Mission of KLE Technological University 
   Vision 
   KLE Technological University will be a national leader in Higher 
@@ -59,9 +54,7 @@ contributing our expertise, experience and leadership, to enhance
 competitiveness and quality of life. 
   As a unified community of faculty, staff and students, we work tog ether with 
 the spirit of collaboration and partnership to accomplish our mission. 
-   ## Page 4
- FMCD2009 / 2.0 
- 4 
+
 Vision and Mission Statements of the Department 
   Vision 
 To be the most preferred branch of engineering through the highest 
@@ -81,9 +74,7 @@ professional growth.
 Service: To provide community services and involve in professional 
 contributions leading to regional growth adding value through 
 knowledge and expertise. 
-   ## Page 5
- FMCD2009 / 2.0 
- 5 
+
 Program Educational Objectives/Program Outcomes and Program-Specific Objectives 
 Program Educational Objectives -PEO's 
 PEO-1: Conceive, realize and design structural engineering infrastructure that is the 
@@ -107,9 +98,7 @@ PO-5: T o work with integrity and ethics in their professional practice, having 
 understanding of responsibility towards society with sustainable development for lifetime. 
   Program Specific Objectives -PSO's 
   Nil 
-  ## Page 6
- FMCD2009 / 2.0 
- 6 
+
 Curriculum Structure-Overall 
   Semester Total Program Credits: 178 
 Course with course code 
@@ -129,9 +118,7 @@ Recent Topics on
 Technology Trends 
 Design Project 
   Credits 25 25 18 20 
- ## Page 7
- FMCD2009 / 2.0 
- 7 
+
 Scheme Semester - I 
 AY: 2024-25 
   No Code Course Category L-T-P Credits Contact 
@@ -153,17 +140,13 @@ PC 4-0-0 4 04 50 50 100 3 hours
 Technology Trends 
 PC 1-0-0 1 01 100 - 100 - 
 TOTAL 21-2-2 25 29 
- ## Page 8
- FMCD2009 / 2.0 
- 8 
+
 List of Program Electives for Semester 1 
 Sr. No Name of the Course Course Code 
 1. Design of Bridges 24ESEE701 
 2. Advanced Concrete Technology 24ESEE702 
 3. Fire Resistance of Structures 20ESEE701 
-   ## Page 9
- FMCD2009 / 2.0 
- 9 
+
 Semester - II 
 AY: 2024-25 
   No Code Course Category L-T-P Credits Contact 
@@ -180,9 +163,7 @@ Program Elective-I PE 4-0-0 4 04 50 50 100 3 hours
 6. 18ESEP701 Structural Simulation Laboratory PC 0-0-1 1 02 80 20 100 3 hours 
 7. 19ESEP702 Design Project PC 2-0-1 3 03 50 50 100 3 hours 
 TOTAL 22-1-2 25 27 
- ## Page 10
- FMCD2009 / 2.0 
- 10 
+
 List of Program Electives for Semester 2 
   Sr. No Name of the Course Course Code 
 Program Elective-I 
@@ -193,9 +174,7 @@ Program Elective-II
 1. Design of Foundations 15ESEE706 
 2. Structural Optimization 15ESEE707 
 3. Structural Health Monitoring 20ESEE703 
- ## Page 11
- FMCD2009 / 2.0 
- 11 
+
 Semester- III 
 AY: 2025-26 
   Semester- IV 
@@ -229,13 +208,9 @@ MajorProject/
 Project Work Phase II* 
 PW 0-0-20 20 20 50 50 100 3 hours 
    TOTAL 0-0-20 20 20 
- ## Page 12
- FMCD2009 / 2.0 
- 12 
+
   SEMESTER 1 
-  ## Page 13
- FMCD2009 / 2.0 
- 13 
+
 Program: Master of Technology (Structural Engineering) Semester: I 
 Course Title: Theory of Elasticity Course Code:20ESEC701 
 L-T-P: 4-0-0 Credits: 04 Contact Hours: 4 hrs/week 
@@ -279,10 +254,7 @@ Energy of distortion; Significance of the theories of failure; Use of factor of 
 Mohr's theory of failure; Stress space and strain space. 09 hrs 
 Text Books 
 1 Timoshenko, S.P . and Goodier, J.N., Theory of Elasticity, 3ed. McGraw - Hill Book Co., 
- ## Page 14
- FMCD2009 / 2.0 
- 14 
-Back 
+
    New York, 2017. 
 2 Valliappan, S., Continuum Mechanics Fundamentals, Oxford & IBHPublishing Co., New 
 Delhi, 1981. 
@@ -292,9 +264,7 @@ Reference Books:
 1. Boresi, A.P ., Sidebottom, O.M., Seely, F.B. and Smith, J.O., Advanced Mechanics of 
 Materials, 4ed. John Wiley & Sons,, New York, 1985. 
 2. Sadd, M.H., Elasticity - Theory, Applications and Numeric, Academic Press, 2014. 
-  ## Page 15
- FMCD2009 / 2.0 
- 15 
+
    Program: Master of Technology (Structural Engineering) Semester: I 
 Course Title: Structural Dynamics Course Code:20ESEC702 
 L-T-P: 4-1-0 Credits: 5 Contact Hours:6 hrs/week 
@@ -336,10 +306,7 @@ Introduction to engineering seismology, Internal structure of earth, Elastic reb
 Theory of plate tectonics, Seismic waves, Classification of earthquakes, Nature of earthquake 
 force, Seismicity of India, Supplemental devices - passive, semi-active, active & hybrid systems. 
 08 hrs 
- ## Page 16
- FMCD2009 / 2.0 
- 16 
-  Back 
+
    Text Books 
 1. Rao, S.S., Mechanical Vibrations, 5ed., Addison -Wesley Publishing Co., Reading, 
 Massachusetts, 2010. 
@@ -356,9 +323,7 @@ Indian Standards, New Delhi, 2002.
 Forces, Bureau of Indian Standards, New Delhi, 1993. 
 3. IS:4326-1993, Earthquake Resistant Design and Construction of Buildings - Codeof Practice, 
 Bureau of Indian Standards, New Delhi, 1993 
- ## Page 17
- FMCD2009 / 2.0 
- 17 
+
   Program: Master of Technology (Structural Engineering) Semester: I 
 Course Title: Advanced Design of RC Structures Course Code: 24ESEC701 
 L-T-P: 4-1-0 Credits: 5 Contact Hours:6 hrs/week 
@@ -403,19 +368,13 @@ Hill.
 6. IS 456:2000 Plain and Reinforced Concrete- Code of Practice. 
 7. IS 4995(Part I)-1974Criteria sor Design of Reinforced Concrete Bins for Storage of 
 Granular and Powdery Materials- Part I General Requirements and Assessment of Bin 
- ## Page 18
- FMCD2009 / 2.0 
- 18 
-Back 
+
 Loads. 
 8. IS 4995(Part II)-1974Criteria for Design of Reinforced Concrete Bins for Storage of 
 Granular and Powdery Materials- Part II Design Criteria. 
 9. IS 4998 (Part I) :1992 Criteria for Design of Reinforced Concrete Chimneys Part 1 
 Assessment of Loads. 
- ## Page 19
- FMCD2009 / 2.0 
- 19 
-  Back 
+
    Program: Master of Technology (Structural Engineering) Semester: I 
 Course Title: Numerical Methods and Programming Course Code: 15ESEC703 
 L-T-P: 4-0-1 Credits: 5 Contact Hours: 6hrs/week 
@@ -454,10 +413,7 @@ Press, 2005.
 2. Gerald, C.F. and Wheatley, P .O., Applied Numerical Analysis, 6ed., Pearson Education, 1999. 
 3. Chapra, S.C. and Canale, R.P ., Numerical Methods for Engineers with Programming and 
 Software Applications, 3ed., Tata McGraw Hill, New Delhi, 1998. 
- ## Page 20
- FMCD2009 / 2.0 
- 20 
-  Back 
+
 Program: MasterofTechnology(StructuralEngineering) Semester: I 
 Course Title: Design of Bridges Course Code: 18ESEE701 
 L-T-P: 4-0-0 Credits: 4 Contact Hours:4 hrs/week 
@@ -497,10 +453,7 @@ Reference Books:
 2. Rajagopalan, N., Bridge Superstructure, Narosa Publishers, New Delhi, 2006. 
 Program Semester: I 
 Course Title: Design of Bridges Course Code: 24ESEE701 
- ## Page 21
- FMCD2009 / 2.0 
- 21 
-Back 
+
   Program: Master of Technology (Structural Engineering) Semester: I 
 Course Title: Advanced Concrete Technology Course Code: 24ESEE702 
 L-T-P: 4-0-0 Credits: 4 Contact Hours: 4hrs/week 
@@ -538,10 +491,7 @@ Hall, 1998.
 Delhi, 2004. 
 Reference Books: 
 1. Neville, A. M., Properties of Concrete, 4ed., Longman, 1995. 
- ## Page 22
- FMCD2009 / 2.0 
- 22 
-  Back 
+
 Program: Master of Technology (Structural Engineering) Semester: I 
 Course Title: Fire Resistance of Structures Course Code: 20ESEE701 
 L-T-P: 4-0-0 Credits: 4 Contact Hours:4 hrs/week 
@@ -582,10 +532,7 @@ Engineering of Structures, CRC Press Taylor and Francis Group Boca Raton, 2013.
 2. Naotake Noda, Richard B. Hetnarski, Yoshinobu Tanigawa, Thermal Stresses, Taylor and 
 Francis group, New York, 2003. 
 3. EN 1992-1-1 Eurocode 2: Design of concrete structures - Part 1-2 
- ## Page 23
- FMCD2009 / 2.0 
- 23 
-  Back 
+
   Program: Master of Technology (Structural Engineering) Semester: I 
 Course Title: Computer Aided Analysis and Design Lab Course Code: 15ESEP701 
 L-T-P: 0-0-2 Credits: 2 Contact Hours: 4hrs/week 
@@ -614,13 +561,9 @@ Reference Books:
 3. Computers and Structures Inc., Introductory Tutorial for SAP 2000 
 4. Jain, A.K. Reinforced Concrete Limit State Design, 7ed., Nemi Chand & 
 Bros., Roorkee, 2012 
-  ## Page 24
- FMCD2009 / 2.0 
- 24 
+
   SEMESTER 2 
-   ## Page 25
- FMCD2009 / 2.0 
- 25 
+
   Program: M.Tech (Structural Engineering) Semester: II 
 Course Title: Design of Tall Structures Course Code:22ESEC701 
 L-T-P: 4-1-0 Credits: 05 Contact Hours: 6 hrs/week 
@@ -661,10 +604,7 @@ Text Books:
 1 B. S. Taranath, Structural Analysis and Design of Tall Buildings , 2nd ed. New York, NY , 
 USA: McGraw Hill, 2016. 
 2 W. Schueller, High Rise Building Structures , 2nd e d. New York, NY , USA: John Wiley, 
- ## Page 26
- FMCD2009 / 2.0 
- 26 
-Back 
+
   2020. 
 3 B. S. Smith and A. Coll, Tall Building Structures: Analysis and Design , 2nd ed. New York, 
 NY , USA: John Wiley, 2010. 
@@ -675,9 +615,7 @@ Distributors, 2018.
 6 Y . P . Gupta, Proceedings of the National Seminar on High Rise Structures: Design and 
 Construction Practice for M iddle Level Cities , 2nd ed. New Delhi, India: New Age 
 International Limited, 2015. 
- ## Page 27
- FMCD2009 / 2.0 
- 27 
+
   Program: M.Tech (Structural Engineering) Semester: II 
 Course Title: Finite Element Method Course Code:19ESEC702 
 L-T-P: 4-0-0 Credits: 04 Contact Hours: 4hrs/week 
@@ -720,9 +658,7 @@ Company Inc, New York, 2017.
 2 Krishnamoorthy C. S., Finite Element Analysis, Tata McGraw-Hill Education Pvt. Ltd, New 
 Delhi, 2004. 
 3 Bhavikatti, S.S., Structural Analysis Volume -I and II, Vikas Publishing House Pvt. Ltd., 
- ## Page 28
- FMCD2009 / 2.0 
- 28 
+
   Bangalore, 2003. 
 References: 
 1. Rajasekaran, S., Finite Element Analysis in Engineering Design, S. Chand Group, 2006. 
@@ -734,9 +670,7 @@ Analysis, 4ed., John Wiley and Jous, Inc., 2013.
 5. Daryl L. Logan., A first course in the Finite Element Method, 5ed, Cengage Learning, 2010. 
 6. Tirupathi R. Chandrupatla and Ashok D. Belegundu, Introduction to Finite Elements in 
 Engineering, 4ed, Pearson, 2011. 
- ## Page 29
- FMCD2009 / 2.0 
- 29 
+
   Program: M.Tech (Structural Engineering) Semester: II 
 Course Title: Stability of Structures Course Code:20ESEC706 
 L-T-P: 4-0-0 Credits: 04 Contact Hours: 4hrs/week 
@@ -776,10 +710,7 @@ Heinemann, 2006.
 Khanna Publishers, New Delhi, 2004. 
 5 Srinath, L.S., Advanced Mechanics of Solids, 3ed., Tata McGraw-Hill Publishing Co. Ltd., 
 New Delhi, 2017. 
- ## Page 30
- FMCD2009 / 2.0 
- 30 
-  Back 
+
    Program: M.Tech (Structural Engineering) Semester: II 
 Course Title: Design of Industrial Steel Structures Course Code:15ESEE703 
 L-T-P: 4-0-0 Credits: 04 Contact Hours:4 hrs/week 
@@ -817,9 +748,7 @@ Delhi
 and Design, ELBS & Cambridge University Press, London, 1961. 
 5 Duggal, S.K., Limit State Design of Steel Structures, Tata McGraw Hill Education Pvt. Ltd., 
 New Delhi, 2010. 
- ## Page 31
- FMCD2009 / 2.0 
- 31 
+
    Program: M.Tech (Structural Engineering) Semester: II 
 Course Title: Structural Reliability Course Code:15ESEE704 
 L-T-P: 4-0-0 Credits: 04 Contact Hours: 4hrs/week 
@@ -864,10 +793,7 @@ References
 3. Andrzej, S. N and Kevin, R. C., Reliability of Structures, 2ed., McGraw Hill Company, 
 KOGA, 2012. 
 4. Srinath, L.S., Reliability Engineering, 4ed., East West Books (Madras) Pvt. Ltd., 2005. 
- ## Page 32
- FMCD2009 / 2.0 
- 32 
-  Back 
+
    Program: Master of Technology (Structural Engineering) Semester: I 
 Course Title: Theory of Plates & Shell Structures Course Code: 20ESEE702 
 L-T-P: 4-0-0 Credits: 4 Contact Hours: 4 hrs/week 
@@ -898,9 +824,7 @@ Distributors, New Delhi - 1986.
 Hall, 1994 
 7. Timoshenko, S.P . and Woinoisky-Krieger, Theory of Plates and Shells, McGraw- Hill Book Co., 
 New York, 1959. 
-  ## Page 33
- FMCD2009 / 2.0 
- 33 
+
   Program: Master of Technology (Structural Engineering) Semester: I 
 Course Title: Design of Foundations Course Code: 15ESEE706 
 L-T-P: 4-0-0 Credits: 4 Contact Hours: 4 hrs/week 
@@ -942,9 +866,7 @@ publishing co. Pvt. Ltd., 2006.
 6. Srinivasulu, P . and Vaidyanathan, C.V., Hand Book of Machine Foundations, Tata McGraw Hill 
 Company New Dehli , 2002. 
 7. Tomlinson, M.J., Pile Design and Construction Practice, 6ed, CRC Press, 2014 
- ## Page 34
- FMCD2009 / 2.0 
- 34 
+
   8. Varghese. P .C., Foundation Engineering, PHI Pub. New Delhi. 2005. 
 9. Winterkorn, H. F. and Fang H. Y ., Foundation Engineering Hand Book, 2ed, Van Nostrand 
 Reinhold Company, 1991. 
@@ -955,10 +877,7 @@ IS Codes:
 1. IS 2911 (Part 1/Sec 3): 2010 - Design And Construction of Pile Foundations 
 2. IS: 2950 (Part I) -1981 (Reaffirmed 2008) - Code of Practice for Design and Construction of 
 Raft Foundations 
- ## Page 35
- FMCD2009 / 2.0 
- 35 
-  Back 
+
   Program: M.Tech Structural Engineering Semester: II 
 Course Title: Structural Optimization Course Code:15ESEE707 
 L-T-P: 4-0-0 Credits: 04 Contact Hours: 4 hrs/week 
@@ -1000,10 +919,7 @@ Company, 1971.
 Applications, 2ed., Wiley India Pvt. Ltd., 2006. 
 5 Bishma Rao GSS., Optimization Techniques, Scitech Pub., 2003. 
 6 Mohan C. and Kusum Deep, Optimization Techniques, New Age International (P) Ltd., 2009. 
- ## Page 36
- FMCD2009 / 2.0 
- 36 
-  Back 
+
    Program: M.Tech (Structural Engineering) Semester: II 
 Course Title: Structural Health Monitoring Course Code:20ESEE703 
 L-T-P: 4-0-0 Credits: 04 Contact Hours:40 
@@ -1035,10 +951,7 @@ Text Books:
 John Wiley-ISTE, London, 2006. 
 2 Health Monitoring of Structural Materials and Components - Methods with 
 Applications, Douglas E Adams, John Wiley & Sons, New York, 2007. 
- ## Page 37
- FMCD2009 / 2.0 
- 37 
-  Back 
+
 Program: M.Tech (Structural Engineering) Semester: II 
 Course Title: Structural Simulation Lab Course Code:18ESEP701 
 L-T-P: 0-0-2 Credits: 02 Contact Hours: 4hrs/week 
@@ -1081,10 +994,7 @@ and I. Guven, 2nd ed., Springer, 2015.
 Thite, 1st ed., Finite to Infinite, 2008. 
 5 ANSYS Workbench 2021: A Tutorial Approach by S. Tickoo, 1st ed., CADCIM Technologies, 
 2021. 
- ## Page 38
- FMCD2009 / 2.0 
- 38 
-Back 
+
   Program: M.Tech (Structural Engineering) Semester: II 
 Course Title: Design Project Course Code:19ESEP702 
 L-T-P: 0-0-3 Credits:3 Contact Hours: 3 hrs/week 
@@ -1123,4 +1033,4 @@ buildings and structures - Imposed loads, Bureau of Indian Standards, New Delhi
 6. IS 456:2000 Plain and reinforced concrete - Code of practice, Bureau of Indian 
 Standards, New Delhi 
 7. IS 1893 (Part 1):2016, Criteria for earthquake resistant design of structures - General 
-provisions and buildings, Bureau of Indian Standards, New Delhi 
+provisions and buildings, Bureau of Indian Standards, New Delhi

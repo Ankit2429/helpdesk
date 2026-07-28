@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: FACULTY_CONCLAVE_PUBLICATIONS_-_2015"
+title: "Faculty Conclave Publications 2015"
 category: "faculty"
 subcategory: "FACULTY"
 document_type: "act"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["course", "document", "engineering", "learning", "patil", "student"]
 aliases: []
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "4"
 ---
-# PDF Document: FACULTY_CONCLAVE_PUBLICATIONS_-_2015
- **PDF Source:** https://www.kletech.ac.in/pdf/FACULTY CONCLAVE PUBLICATIONS - 2015.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/FACULTY CONCLAVE PUBLICATIONS - 2015.pdf
  Earlier known as 
 B. V. B. College of Engineering & Technology 
 Faculty Conclave -2015 
@@ -65,7 +65,6 @@ Dr. Vishwanath P. Baligar, Prof. K.
 R. Biradar 
 13 A Solution For Software And Hardware Networking Shivaraj Hublikar, Arun Kakhandki, 
 Anil Kabbur, Dr. Priyatamkumar 
- ## Page 2
  Earlier known as 
 B. V. B. College of Engineering & Technology 
 14 Attainment Of Program Outcome '3b' Of ABET Through 
@@ -129,7 +128,6 @@ Approach: A Case Study
 Shivalingappa Battur, Mahesh S 
 Patil, Parikshit H., Gopalkrishna 
 Joshi 
- ## Page 3
  Earlier known as 
 B. V. B. College of Engineering & Technology 
 29 Flipped Classroom Implementation To Effectively Utilize 
@@ -190,7 +188,6 @@ Graduate Attribute (ga) For Post Graduate Program In
 Engineering Through Course Project 
 Vinayak Kulkarni and V. N. 
 Gaitonde 
- ## Page 4
  Earlier known as 
 B. V. B. College of Engineering & Technology 
 44 Web Technologies Integrated With Advance Database 
@@ -214,5 +211,4 @@ Enhance Deficient Skills
 Kaushik M., Satish Chikkamath, 
 Nalini C. Iyer 
 50 A Progressive Activity: An Attempt Beyond Teaching Shraddha B., Raghavendra S., Nikita 
-P., Preeti Pillai , Nalini Iyer 
-  
+P., Preeti Pillai , Nalini Iyer

@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: bachelor-electrical-electronics-engineering-curriculum-2022-2026"
+title: "Bachelor of Engineering Curriculum"
 category: "academics"
 subcategory: ""
 document_type: "syllabus"
@@ -11,18 +11,15 @@ language: "en"
 keywords: ["bachelor", "chapter", "course", "curriculum", "design", "document", "electrical", "electronics", "engineering", "marks"]
 aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "ECE", "EC", "EEE", "EE", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "127"
 ---
-# PDF Document: bachelor-electrical-electronics-engineering-curriculum-2022-2026
- **PDF Source:** https://www.kletech.ac.in/pdf/bachelor-electrical-electronics-engineering-curriculum-2022-2026.pdf
- ## Page 1
- 1 
-FMCD2009 / 2.0 
+**PDF Source:** https://www.kletech.ac.in/pdf/bachelor-electrical-electronics-engineering-curriculum-2022-2026.pdf
+
   Curriculum Structure and Curriculum Content for the Academic Batch - 2022-26 
 Department : Electrical & Electronics Engineering 
 Program: Bachelor of Engineering 
-  ## Page 2
- 2 
-FMCD2009 / 2.0 
+
   Table of Contents 
 Vision and Mission of KLE Technological University ........................................................... 3 
 Vision and Mission Statements of the School / Department .............................................. 4 
@@ -40,9 +37,7 @@ Semester- VIII .................................................................
 List of Open Electives ...................................................................................................... 15 
 List of Program Electives ................................................................................................. 16 
 Curriculum Content- Course wise .................................................................................... 17 
-  ## Page 3
- 3 
-FMCD2009 / 2.0 
+
   Vision and Mission of KLE Technological University 
   Vision 
   KLE Technological University will be a national leader in Higher Education-recognised globally 
@@ -63,10 +58,7 @@ our expertise, experience and leadership, to enhance competitiveness and quality
 life. 
   As a unified community of faculty, staff and students, we work together with the spirit of 
 collaboration and partnership to accomplish our mission. 
-Back 
-  ## Page 4
- 4 
-FMCD2009 / 2.0 
+
 Vision and Mission Statements of the School / Department 
   Vision 
   KLE Tech Electrical & Electronics Engineering school will be well recognized nationally and 
@@ -82,10 +74,7 @@ of Electrical and Electronics Engineering and allied fields.
 achieve personal and professional growth. 
 ● To collaborate within and beyond the discipline to create solutions that benefit 
 humanity and society. 
-  Back 
-  ## Page 5
- 5 
-FMCD2009 / 2.0 
+
 Program Educational Objectives/Program Outcomes and Program-Specific Objectives 
 Program Educational Objectives -PEO's 
 1. Graduates will demonstrate peer -recognized technical competency to conceive, 
@@ -133,9 +122,7 @@ PO9: Communication:
 such as being able to comprehend and write effective reports and design documentation, make 
 effective presentations considering cultural, language, and learning differences 
 PO10: Project Management and Finance: 
- ## Page 6
- 6 
-FMCD2009 / 2.0 
+
 Apply knowledge and understanding of engineering management principles and economic 
 decision-making and apply these to one's own work, as a membe r and leader in a team, and to 
 manage projects and in multidisciplinary environments. 
@@ -147,10 +134,7 @@ Program Specific Objectives -PSO's
 PSO1: Apply the knowledge of Generation, Transmission, Distribution of Electric Power and its 
 control. 
 PSO2: Apply computational methods to design and analyze Electrical / Electronic Systems. 
-Back
- ## Page 7
- 7 
-FMCD2009 / 2.0 
+
 Curriculum Structure-Overall 
 2022-26 
 Semester: 1 to 8 (2022-26 Batch) Total Program Credits:180 
@@ -349,9 +333,7 @@ Program Elective 2
     (3-0-0) 
 21EEEW401 
 Senior Design Project (0-0-6) 
- ## Page 8
- 8 
-FMCD2009 / 2.0 
+
  (0-1-1) (0-0-3) 
    15EEEP203 
 Digital Circuits Lab 
@@ -397,13 +379,9 @@ Entry Students)
 Mini project 
  (0-0-3) 
    Credits 22 22 24.5 25.5 25 25 19 17 
-  Back 
-  ## Page 9
- 9 
-FMCD2009 / 2.0 
+
 Curriculum Structure-Semester wise 
 Semester - I 
-Back 
   No Code Course Category L-T-P Credits Contact 
 Hours ISA ESA Total 
 Exam 
@@ -419,11 +397,8 @@ solving ES 0-0-3 3 6 80 20 100 3 hours
 Innovation HSS 0-1-1 2 4 80 20 100 3 hours 
 7 15EHSH101 Professional Communication HSS 1-1-0 2 3 50 50 100 3 hours 
    Total 15-3-4 22 29 
- ## Page 10
- 10 
-FMCD2009 / 2.0 
+
 Semester - II 
-  Back 
   No Code Course Category L-T-P Credits Contact 
  Hours ISA ESA Total 
 Exam 
@@ -438,11 +413,8 @@ Structures ES 0-0-3 3 6 80 20 100 3 hours
 6 22EMEF101 Basic Mechanical Engineering ES 2-1-0 3 4 50 50 100 3 hours 
 7 21EPHP101 Applied Physics Lab BS 0-0-1 1 2 80 20 100 3 hours 
    Total 13-2-7 22 31 
- ## Page 11
- 11 
-FMCD2009 / 2.0 
+
 Semester- III 
-  Back 
   No Code Course Category L-T-P Credits Contact 
  Hours ISA ESA Total 
 Exam 
@@ -469,11 +441,8 @@ PC 3-0-0 3 3 50 50 100 3 hours
 Programming ES 2-0-1 3 4 80 20 100 2 hours 
 18EEEF201 C Programming (Dip) ES 0-0-2 2 4 80 20 100 2 hours 
   TOTAL 21.5-0-3 24.5 27 
- ## Page 12
- 12 
-FMCD2009 / 2.0 
+
 Semester- IV 
-Back 
   No Code Course Category L-T-P Credits Contact 
  Hours ISA ESA Total 
 Exam 
@@ -502,11 +471,8 @@ ES
 23EEEF203 Data Structure Using C Lab 
  (Lateral Entry Students) 0-0-3 3 6 80 20 100 2 hours 
                                                                           TOTAL 20.5-0-5 25.5 36 
- ## Page 13
- 13 
-FMCD2009 / 2.0 
+
 Semester- V 
-Back 
   No Code Course Category L-T-P Credits Contact 
 Hours ISA ESA Total 
 Exam 
@@ -531,11 +497,8 @@ PC 0-0-1 1 2 80 20 100 2 hours
  (Lateral Entry Students) ES 3-0-0 3 3 50 50 100 3 hours 
 11 23EEEW301 P1 Mini project PW 0-0-3 3 6 50 50 100 2 hours 
                                                                                            TOTAL 16-0-9 25 38 
- ## Page 14
- 14 
-FMCD2009 / 2.0 
+
   Semester- VI 
-Back 
   No Code Course Category L-T-P Credits Contact 
 Hours ISA ESA Total 
 Exam 
@@ -553,11 +516,8 @@ Skills ES 0-0-0 Audit 1 100 -- 100 --
 8 24EEEC305 PC18 Generative- AI 2-0-1 3 4 67 33 100 2 hours 
 9 24EEEW301 Minor Project PW 0-0-6 6 10 50 50 100 2 hours 
    TOTAL 16-0-9 25 33 
- ## Page 15
- 15 
-FMCD2009 / 2.0 
+
 Semester- VII 
-Back 
   No Code Course Category L-T-P Credits Contact 
 Hours ISA ESA Total 
 Exam 
@@ -577,11 +537,8 @@ HSC 0 0 0 0 0 0 0
 Engineering lab PC 0-0-1 1 2 80 20 100 2 hours 
 7 21EEEW401 Senior Design Project PC 0-0-6 6 12 50 50 100 3 hours 
    TOTAL 11-0-8 19 27 
-  ## Page 16
- 16 
-FMCD2009 / 2.0 
+
   Semester- VIII 
-Back 
   Semester I II III IV V VI VII VIII Total 
 Credits 22 22 24.5 25.5 25 25 19 17 180 
 No Code Course Category L-T-P Credits Contact 
@@ -597,9 +554,7 @@ or
 1 18EEEI493 Internship Training PRJ 0-0-6 6 12 50 50 100 3 hours 
 2 20EEEW494 Internship Project PRJ 0-0-11 11 22 50 50 100 3 hours 
     6-0-11 17 28 150 150 300 
- ## Page 17
- 17 
-FMCD2009 / 2.0 
+
 List of Program Electives 
 Sr. No Name of the Course Course Code 
 1. Electric Vehicular Technology 24EEEE301 
@@ -623,10 +578,7 @@ Sr. No Name of the Course Course Code
 19. Human Machine Interface 25EEEE408 
 20. Design for Testability 25EEEE414 
 21. System on Chip Design 25EEEE415 
-Back 
-  ## Page 18
- 18 
-FMCD2009 / 2.0 
+
 Curriculum Content- Course wise 
 I Semester Bachelor of Engineering (Electrical & Electronics Engineering) 
 Program: Electrical & Electronics Engineering Semester: I 
@@ -672,19 +624,14 @@ problems-Euler's method, Modified Euler's method and Runge-Kutta method
 growth and decay problems, mixture problems, Electrical circuits, falling bodies. 
 MATLAB: Solve differential equations. 
 10 Hrs 
- ## Page 19
- 19 
-FMCD2009 / 2.0 
+
 Text Books 
 1. Early Transcendentals Calculus- James Stewart, Thomson Books, 7ed 2010. 
   Reference Books: 
 1. Calculus Single and Multivariable, Hughues-Hallett Gleason, Wiley India Ed, 
 4ed, 2009. 
 2. Thomas Calculus, George B Thomas, Pearson India, 12ed, 2010 
-  Back 
-   ## Page 20
- 20 
-FMCD2009 / 2.0 
+
 Program: Electrical & Electronics Engineering Semester: I 
 Course Title: Engineering Mechanics Course Code: 15ECVF101 
 L-T-P: 4-0-0 Credits:4 Contact Hrs: 4 Hrs/Week 
@@ -734,9 +681,7 @@ safety. Deformation of a bar due to force acting on it. Law of super position. S
 uniform & varying cross sections. Composite sections. Problems connected to above topics. 
                                                                                                                                                            06 Hrs 
 Unit - III 
- ## Page 21
- 21 
-FMCD2009 / 2.0 
+
 Chapter No. 7: Centroid of Plane Figures 
 Introduction, Definition, Methods of determining the centroid, axis of reference, axis of 
 symmetry, Locating the centroid of simple plane figures (triangle, semicircle, quarter of a circle 
@@ -763,10 +708,7 @@ Reference Books:
     Company, New Delhi, 1956. 
 1. Irving H Shames, Engineering Mechanics, 3 rd edition, Prentice-Hall of India Pvt. Ltd, New Delhi - 110 
 001, 1995. 
-  Back 
-  ## Page 22
- 22 
-FMCD2009 / 2.0 
+
   Program: Electrical & Electronics Engineering Semester : I 
 Course Title: Engineering Chemistry Course Code: 22ECHB102 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 3 Hrs/week 
@@ -815,9 +757,7 @@ implantation, numerical problems, epitaxial growth, masking, photolithography;
 wet etching and dry etching. 
 10 Hrs 
 Chapter No. 5 Material Chemistry 03 Hrs 
- ## Page 23
- 23 
-FMCD2009 / 2.0 
+
 Liquid crystals: classification of liquid crystals, applications of liquid crystals in 
 display systems. Glass: properties, smart glass: electrochromic, thermochromic and 
 photochromic smart glass - properties and applications. Thermoelectric and 
@@ -863,10 +803,7 @@ D, John Wiley and Sons, 2007, New York.
 10. 8. Instrumental Methods of Chemical Analysis, 5th edition, Gurdeep R Chatwal, Sham 
 K Anand, Himalaya Publishing House, Pvt. Ltd, 2010, Mumbai. 
 11. 
- Back 
-  ## Page 24
- 24 
-FMCD2009 / 2.0 
+
   Program: Electrical & Electronics Engineering Semester: I 
 Course Title: Basic Electrical Engineering Course Code: 18EEEF101 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 Hrs/Week 
@@ -917,9 +854,7 @@ efficiency, Numerical of high and low charging rates, Battery sizing. Numericals
 Text Books: 
 1. Hughes Electrical & Electronics Engineering, Electrical & Electronic Technology, 8th , Pearson 
 Education, 2001 
- ## Page 25
- 25 
-FMCD2009 / 2.0 
+
 2. P C Sen, Principals of Electrical Machines and Power Electronics, 2nd, Wiley Publications 
 3. Gilbert M Masters, Renewable and efficient Electrical Power systems, Published by John Wiley 
 & Sons, 2004 edition 
@@ -930,10 +865,7 @@ Reference Books:
 2. David G. Alciatore and Michel B. Histand, Introduction to Mechatronics and Measurement 
 Systems, 3rd, Tata McGraw Hill Education Private Limited, New Delhi., 2005 
 3. Vincent Del Toro, Electrical Engineering Fundamentals, 2nd edition, Prentice Hall India 
-  Back 
-  ## Page 26
- 26 
-FMCD2009 / 2.0 
+
 Program: Electrical & Electronics Engineering Semester: I 
 Course Title: Professional Communication Code: 15EHSH101 
 L-T-P: 1-1-0 Credits: 2 Contact Hrs.: 02Hrs/week 
@@ -960,10 +892,7 @@ Reference Books:
 1. Collins Cobuild Advanced Learner's English Dictionary 
 2. Raymond Murphy - Intermediate English Grammar, Cambridge University Press 
 3. Martin Hewings- Advanced English Grammar, Cambridge University Press. 
-  Back 
-  ## Page 27
- 27 
-FMCD2009 / 2.0 
+
   Program: Electrical & Electronics Engineering Semester: I 
 Course Title: Design Thinking for Social Innovation Course Code: 20EHSP101 
 L-T-P : 0-1-1 Credits: 2 Contact Hrs.: 2Hrs/week 
@@ -1050,10 +979,7 @@ mindsets)
 "How to build your Creative 
 Confidence by David Kelley - 
 IDEO Founder) 
-  ## Page 28
- 28 
-FMCD2009 / 2.0 
-Back 
+
 (Confusion is the 
 Welcome doormat at the 
 door of Creativity) 
@@ -1131,9 +1057,7 @@ Class)
 respective templates with 
 the help of sample case 
 study 
- ## Page 29
- 29 
-FMCD2009 / 2.0 
+
 (Role Play on Interview 
 with Stakeholders) 
  Category wise Learnings 
@@ -1220,9 +1144,7 @@ indicating stake holders
 respective templates with 
 the help of sample case 
 study 
-  ## Page 30
- 30 
-FMCD2009 / 2.0 
+
   6. Marathons/ 
 Walkathons 
 7. Conducting Yoga 
@@ -1248,9 +1170,7 @@ Implementation
 respective templates with 
 the help of sample case 
 study 
-  ## Page 31
- 31 
-FMCD2009 / 2.0 
+
 Program: Electrical & Electronics Engineering Semester: I 
 Course Title: C Programming for Problem solving Course Code: 18ECSP101 
 L-T-P: 0-0-3 Credits: 3 Contact : 6 Hrs./week 
@@ -1298,10 +1218,7 @@ Text Books:
 2. B S Gottfried, Programming with C, 2ed, TMH, 2006. 
 3. B.A. Forouzan, R.F. Gilberg, A Structured Program Approach Using C, 3ed, CENGAGE 
     Learning, 2008. 
-Back 
-  ## Page 32
- 32 
-FMCD2009 / 2.0 
+
   II Semester Bachelor of Engineering (Electrical & Electronics Engineering) 
 Program: Electrical & Electronics Engineering Semester: II 
 Course Title: Basic Mechanical Engineering Course Code: 22EMEF101 
@@ -1348,9 +1265,7 @@ Metal Assembly. 08 Hrs
  Demonstration of various machine tools such as lathe, milling, drilling and grinding 
 machines and safety precautions in workshop. 
 08 Hrs 
- ## Page 33
- 33 
-FMCD2009 / 2.0 
+
  Assembly and disassembly of bicycle and demonstration on welding (electric arc 
 welding, gas welding). 
 Demonstration and exercise on sheet metal work. 
@@ -1365,10 +1280,7 @@ Reference Books:
 1. SKH Chowdhary, AKH Chowdhary, Nirjhar Roy, The Elements of Workshop Technology, Vol I & II, 
 11th edition, Media Promoters and Publishers, 2001 
 2. Roger Timings, Basic Manufacturing, Third edition, Newnes, An imprint of Elsevier, 2010 
-  Back 
-  ## Page 34
- 34 
-FMCD2009 / 2.0 
+
   Program: Electrical & Electronics Engineering Semester: II 
 Course Title: Engineering Physics Course Code: 22EPHB101 
 L-T-P: 3-0-0 Credits: 03 Contact Hrs: 3 Hrs/week 
@@ -1408,9 +1320,7 @@ Zener diodes: Junction break down mechanism, circuit symbols, characteristics
 and parameters, numericals. 
 05 Hrs 
                 Unit II 
- ## Page 35
- 35 
-FMCD2009 / 2.0 
+
 Chapter No. 3 ELECTROSTATICS 
 Review of vectors: Co -ordinate systems, vector and scalar quantities, properties 
 of vectors, components of a vector and unit vectors. 
@@ -1454,10 +1364,7 @@ Vol-II, Norosa Publishing House, 1998.
 3. David. J. Griffith, 'Introduction to Electrodynamics' 3 rd edition, Pearson prentice Hall, 
 1999. 
 4. Ben. G. Streetman, Solid State Electronic Devices, Prentice Hall, 1995. 
-Back 
-  ## Page 36
- 36 
-FMCD2009 / 2.0 
+
   Program: Electrical & Electronics Engineering Semester: II 
 Course Title: Multivariable Calculus Course Code: 18EMAB102 
 L-T-P: 4-1-0 Credits: 05 Contact Hours: 5 Hrs / Week 
@@ -1499,10 +1406,7 @@ Text Books :
 Reference Books: 
 1. Calculus Single and Multivariable, Hughues-Hallett Gleason, Wiley India Ed, 4ed, 2009. 
 2. Thomas Calculus, George B Thomas, Pearson India, 12ed, 2010 
-Back 
-  ## Page 37
- 37 
-FMCD2009 / 2.0 
+
   Program: Electrical & Electronics Engineering Semester: II 
 Course Title: Basic Electronics Course Code: 18EECF101 
 L-T-P: 4-0-0 Credits: 4 Contact Hours: 4 Hrs/week 
@@ -1544,9 +1448,7 @@ amplifier, Voltage follower, Integration, Differentiation, Adder, Subtractor, ZC
 and Comparator. 
 06 Hrs 
 Unit III 
- ## Page 38
- 38 
-FMCD2009 / 2.0 
+
 Chapter No. 6: Communication Systems: Basic block diagram of communication 
 system, types of modulation. Amplitude modulation: Time -Domain description, 
 Frequency-Domain description. Generation of AM wave: square law modulator. 
@@ -1571,10 +1473,7 @@ Reference Books:
 4. Boylestead, Nashelsky, Electronic devices & Circuit theory, Prentice Hall India, 
          2000 
 5. Ramakant Gaikwad , Operational Amplifiers & Applications, PHI, 2000 
-  Back 
-  ## Page 39
- 39 
-FMCD2009 / 2.0 
+
   Program: Electrical & Electronics Engineering Semester: II 
 Course Title: Applied Physics lab (ES) Course Code: 21EPHP101 
 L-T-P: 0-0-1 Credits: 01 Contact Hrs: 2 Hrs/week 
@@ -1594,10 +1493,7 @@ LIST OF EXPERIMENTS
 OPEN ENDED EXPERIMENT 
 1. Realization of a ±5/12V regulated power supply 
 2. Stepper motor drive 
-  Back 
-  ## Page 40
- 40 
-FMCD2009 / 2.0 
+
 Program: Electrical & Electronics Engineering Semester: II 
 Course Title: Engineering Exploration Course Code: 22ECRP101 
 L-T-P: 0-0-3 Credits: 3 Contact Hrs: 6 Hrs/week 
@@ -1642,10 +1538,7 @@ carbon foot print.
 06 Hrs 
 Course Project 
 Reviews 24 Hrs 
-Back 
-  ## Page 41
- 41 
-FMCD2009 / 2.0 
+
 Program: Electrical & Electronics Engineering Semester: II 
 Course Title: Problem Solving with Data Structures Course Code: 18ECSP102 
 L-T-P: 0-0-3 Credits: 3 Contact : 6 Hrs/week 
@@ -1681,10 +1574,7 @@ Text Books:
 Reference Books: 
 1. Data Structures, Algorithms and Applications In C++ -- Satraj Sahani 
 2. Data Structures and Algorithms Made Easy - Narshiman Karumunchi, Career Monk 
-  Back 
-  ## Page 42
- 42 
-FMCD2009 / 2.0 
+
 III Semester Bachelor of Engineering (Electrical & Electronics Engineering) 
 Program: Electrical & Electronics Engineering Semester: III 
 Course Title: Integral transforms and Statistics Course Code: 15EMAB203 
@@ -1735,9 +1625,7 @@ Density: properties of the spectral density; Gaussian Process: Properties of
 Gaussian process. 
 10 Hrs 
 Text Books 
- ## Page 43
- 43 
-FMCD2009 / 2.0 
+
 1. Kreyszig E., Advanced Engineering Mathematics, 8ed, John Wiley & sons, 2003. 
 2. Gupta S C and Kapoor V K, Fundamentals of Mathematical Statistics, 9ed, Sultan 
 Chand & Sons, New Delhi, 2002 
@@ -1749,10 +1637,7 @@ Reference Books:
 and Applications for Engineering and the Computing Sciences, 4th Ed, TATA 
 McGraw-Hill Edition 2007 
 3. Ian Glover & Peter Grant, Digital Communications, 2nd Ed, Pearson 2012. 
-Back 
-   ## Page 44
- 44 
-FMCD2009 / 2.0 
+
 Program: Electrical & Electronics Engineering Semester: III 
 Course Title: Calculus and Integral Transforms 
 (Lateral Entry Students) 
@@ -1806,9 +1691,7 @@ Chapter No. 8 Differential equations of higher orders: Differential equations of
 second and higher order with constant coefficients 05 Hrs 
 Text Books: 
 1. Kreyszig E., Advanced Engineering Mathematics, 8ed, John Wiley & sons, 2003. 
- ## Page 45
- 45 
-FMCD2009 / 2.0 
+
 2. Bali and Iyengar, A text book of Engineering Mathematics, 6ed, Laxmi Publications(p) 
 Ltd, New Delhi, 2003 
 Reference Books: 
@@ -1816,10 +1699,7 @@ Reference Books:
 2. Ganesh Rao and and Satish Tunga, Signals and Systems, Sanguine T, 2004. 
 3. Simon Haykin, Barry Van Veen, Signals and Systems, John Wiley, 2002 
 4. Ian Glover & Peter Grant, Digital Communications, 2nd Ed, Pearson 2012. 
-Back 
-   ## Page 46
- 46 
-FMCD2009 / 2.0 
+
    Program: Electrical & Electronics Engineering Semester: III 
 Course Title: Corporate Communication Course Code: 22EHSH201 
 L-T-P: 0.5-0-0 Credits: 0.5 Contact Hrs: 2Hrs/week 
@@ -1849,10 +1729,7 @@ Reference Books:
 1. Diana Booher - Communicate With Confidence, McGraw Hill Publishers 
 2. Norman Lewis-Word Power Made Easy, Goyal Publishers 
 3. Cambridge Advanced Learner's Dictionary, Cambridge University Press. 
-  Back 
-  ## Page 47
- 47 
-FMCD2009 / 2.0 
+
 Program: Electrical & Electronics Engineering Semester: III 
 Course Title: Circuit Analysis Course Code: 19EEEC201 
 L-T-P: 4-0-0 Credits: 4 Contact Hours: 4 Hrs/ Week 
@@ -1899,9 +1776,7 @@ Text Books
 2006 
 2. M E. Van Valkenburg, Network Analysis, 3rd, Pearson Ed, 2006 
 Reference Books: 
- ## Page 48
- 48 
-FMCD2009 / 2.0 
+
 1. Joseph Edminister, Mahmood Nahavi, Electric Circuits, 3rd, Tata McGra, 1991 
 2. Bruce Carlson, Circuits, 3rd, Thomson Le, 2002 
 3. V. K. Aatre, Network Theory and Filter Design, 2nd, Wiley West, 2002 
@@ -1909,10 +1784,7 @@ FMCD2009 / 2.0
 3rd, Morgan Kau, 2006 
 5. Muhammad H . Rashid, Introduction to PSPICE using OrCAD for circuits and 
 Electronics, 3rd, Pearson Ed, 2005 
-  Back 
-  ## Page 49
- 49 
-FMCD2009 / 2.0 
+
 Program: Electrical & Electronics Engineering Semester: III 
 Course Title: Analog Electronics Circuits Course Code: 23EEEC201 
 L-T-P: 4-0-0 Credits: 4 Contact Hours: 4 Hrs/week 
@@ -1963,9 +1835,7 @@ introduction to Fin Field Effect Transistor , Challenges of MOSFET Scaling at
 Nanometer Mode, Active Area, Fin width, height and pitch, Threshold Voltage and 
 Gate Work function Requirements, Gate EWF and Gate Induced Drain Leakage, V-I 
 12 Hrs 
- ## Page 50
- 50 
-FMCD2009 / 2.0 
+
 Characteristics (T1:4.4, 4.5, 4. 6.1 to 4.6.7 ; 4.7.1, 4.7.2, 4.7.3, 4.7.5, 4.7.6, 
 4. 7.7; 4.8.1, 4.8.2, 4.8.3, 4.8.4, 4.9.1 to 4.9.3) (T4: 1.1, 1.2) (R5: 2.1, 2.3) 
 Unit-III 
@@ -1998,10 +1868,7 @@ Hurst, Lewis and Meyer, Analysis and design of analog integrated circuits 4th ed
 Pearson Education, 2003 
 4. J. Millman & A. Grabel, Microelectronics , 2nd edition, McGraw Hill, 1987 
 5. FinFETs and Other Multi-Gate Transistors 
-Back 
-  ## Page 51
- 51 
-FMCD2009 / 2.0 
+
 Program: Electrical & Electronics Engineering Semester: III 
 Course Title: Electrical Power Generation, Transmission & 
 Distribution 
@@ -2054,9 +1921,7 @@ Chapter No.7 Insulators: Types, potential distribution over a string of suspensi
 insulators. String efficiency and methods of increasing string efficiency and methods 
 of increasing string efficiency, testing of insulators. 
 05 Hrs 
- ## Page 52
- 52 
-FMCD2009 / 2.0 
+
 Chapter No.8 Underground Cables: Types, material used. Insulation resistance, 
 thermal rating of cables, charging current. Grading of cables, capacitance grading 
 and inter sheath grading, testing of cables. 
@@ -2070,10 +1935,7 @@ Reference Books:
 3. Transmission & Distribution of Electrical Power By J.B.Gupta. SK Kataria, Publication 
 4. Electric Power Generation Transmission and Distribution by S. M. Singh, by Prentice Hall 
 of India, Regd. Office: d 13/12, Model Town, Delhi 
-  Back 
-  ## Page 53
- 53 
-FMCD2009 / 2.0 
+
   Program: Electrical & Electronics Engineering Semester: III 
 Course Title: Digital Circuits Course Code: 19EEEC203 
 L-T-P: 4-0-0 Credits: 4 Contact Hours: 4 Hrs /week 
@@ -2123,18 +1985,13 @@ Text Books:
 1. Donald D Givone, Digital Principles and Design, Tata McGraw Hill Edition, 2002 
 2. John M Yarbrough, Digital Logic Applications and Design, Thomson Learning, 2001 
 3. A Anand Kumar , Fundamentals of digital circuits, PHI, 2003 
- ## Page 54
- 54 
-FMCD2009 / 2.0 
+
 Reference Books: 
 1. Charles H Roth, Fundamentals of Logic Design, Thomson Learning, 2004 
 2. Zvi Kohavi, Switching and Finite Automata Theory, 2nd, TMH 
 3. R.D. Sudhaker Samuel, Logic Design, Sanguine Technical Publishers, 2005 
 4. R P Jain, Modern Digital Electronics, 2nd, Tata McGraw Hill , 2000 
-Back 
-  ## Page 55
- 55 
-FMCD2009 / 2.0 
+
 Program: Electrical & Electronics Engineering Semester: III 
 Course Title: Microcontroller Architecture & Programming Course Code: 23EEEF201 
 LTP: 2-0-1 Credits: 3 Contact Hours: 4 Hrs/week 
@@ -2181,9 +2038,7 @@ Introduction to interrupts, interrupts vs polling, classification of interrupts,
 interrupt priority, interrupt vector table, interrupt service routine 
  04 Hrs 
    02 Hrs 
- ## Page 56
- 56 
-FMCD2009 / 2.0 
+
 Text Books: 
 1. " The 8051 Microcontroller Architecture, Programming & Applications " by ' Kenneth J. 
 Ayala', Penram International, 1996 
@@ -2191,10 +2046,7 @@ Ayala', Penram International, 1996
 Janice Gillispie Mazidi', Pearson Education, 2003 
 Reference Books: 
 1. " Programming and Customizing the 8051 Microcontroller ", by 'Predko', TMH. 
-  Back 
-  ## Page 57
- 57 
-FMCD2009 / 2.0 
+
 Program: Electrical & Electronics Engineering Semester: III 
 Laboratory Title: Analog Electronics Lab Course Code: 23EEEP201 
 L-T-P: 0-0-1 Credits: 1 Contact Hours: 2 Hrs /week 
@@ -2230,10 +2082,7 @@ Reference Books
        5. Device data sheets. 
        6. KLETECH Electronics and Communication Engineering Department 2023-24 Analog 
              Electronics Lab manual. 
-Back 
-  ## Page 58
- 58 
-FMCD2009 / 2.0 
+
 Program: Electrical & Electronics Engineering Semester: III 
 Course Title: Digital Circuits lab Course Code: 15EEEP203 
 L-T-P: 0-0-1 Credits: 1 Contact Hours: 2 Hrs /week 
@@ -2259,10 +2108,7 @@ Expt. No.10 Design and implement a digital system to display a 3 bit counter on 
 display. Demonstrate the results on a general purpose PCB. 
 Reference Books: 
 1. Donald D Givone, Digital Principles and Design, Tata McGraw Hill Edition, 2002 
-Back 
-  ## Page 59
- 59 
-FMCD2009 / 2.0 
+
   Program: Electrical & Electronics Engineering Semester : III 
 Course Title: C Programming Course Code: 18EEEF201 
 L-T-P : 0-0-2 Credits : 2 Contact Hrs : 04 Hrs/week 
@@ -2303,10 +2149,7 @@ Reference Books:
 2. B S Gottfried, Programming with C, 2ed, TMH, 2006. 
 3. B.A. Forouzan, R.F. Gilberg, A Structured Program Approach Using C, 3ed, CENGAGE 
 Learning, 2008. 
-Back 
-   ## Page 60
- 60 
-FMCD2009 / 2.0 
+
 IV Semester Bachelor of Engineering (Electrical & Electronics Engineering) 
 Program: Electrical & Electronics Engineering Semester: IV 
 Course Title: Linear Algebra and Partial differential 
@@ -2358,9 +2201,7 @@ Text Books
 2. David C Lay, Linear Algebra and its Applications, 3ed, Pearson India, 2009 
 3. Peter V. O'neil, Advanced Engineering Mathematics, Thmoson - Books/Cole, 
 Singapore 
- ## Page 61
- 61 
-FMCD2009 / 2.0 
+
 4. Advanced Engineering Mathematics, 3ed, Dennis G Zill and Michael R Cullin, Narosa 
 Publishing House, New Delhi, 2009 
 Reference Books: 
@@ -2369,10 +2210,7 @@ Reference Books:
 India 2009 
 3. Stanley J Farlow, Partial differential equations for Scientists and Engineers, Dover 
 publications, INC, New York, 1993 
-  Back 
-   ## Page 62
- 62 
-FMCD2009 / 2.0 
+
 Program: Electrical & Electronics Engineering Semester: IV 
 Course Title: Vector Calculus and Differential equations Course Code: 15EMAB242 
 L-T-P: 4-0-0 Credits: 4 Contact Hrs: 4Hrs 
@@ -2414,10 +2252,7 @@ Reference Books:
 1. Early Transcendentals Calculus- James Stewart, Thomson Books, 5e 2007 
 2. Grewal B S, Higher Engineering Mathematics, 38ed, Khanna Publication, New Delhi, 
 2001 
-Back 
-  ## Page 63
- 63 
-FMCD2009 / 2.0 
+
   Program: Electrical & Electronics Engineering Semester: IV 
 Course Title: Problem Solving & Analysis Course Code: 22EHSH202 
 L-T-P: 0.5-0-0 Credits: 0.5 Contact Hrs: 1Hr/week 
@@ -2454,10 +2289,7 @@ Reasoning", Sultan Chand and Sons, New Delhi, 2018
 6. Norman Lewis-Word Power Made Easy, Goyal Publishers 
 7. Cambridge Advanced Learner's Dictionary, Cambridge University Press. 
 8. Kaplan's GRE guide 
-  Back 
-  ## Page 64
- 64 
-FMCD2009 / 2.0 
+
   Program: Electrical & Electronics Engineering Semester: IV 
 Course Title: Electrical Machines Course Code: 19EEEC204 
 L-T-P : 4-0-0 Credits: 4 Contact Hours: 04 Hrs /week 
@@ -2506,16 +2338,11 @@ Reference Books:
 Publications, Canada, 2nd Edition, 2001. 
 2. Bhimbra, "Principles of Electrical machinery", Khanna Publishers.2006. 
 3. MehrdadEhsani…[et al.],"Modern electric, Hybrid electric, and Fuel Cell Vehicles: 
- ## Page 65
- 65 
-FMCD2009 / 2.0 
+
 fundamentals, theory, and design.", CRC Press, 2005. 
 4. T. J. E.Miller, "Brushless Permanent-Magnet and Reluctance Motor Drives", Oxford 
 Science Publications, 1989. 
-  Back 
-  ## Page 66
- 66 
-FMCD2009 / 2.0 
+
   Program: Electrical & Electronics Engineering Semester: IV 
 Course Title: Linear Control Systems Course Code: 17EEEC204 
 L-T-P : 3-0-0 Credits: 3 Contact Hours: 03 Hrs /week 
@@ -2565,18 +2392,13 @@ Chapter No.8 Root locus diagrams:
 Basic principle - magnitude and angle criterion, Rules to construct root locus 
 diagram (proof not required), method to construct root locus diagram. 
 05 Hrs 
- ## Page 67
- 67 
-FMCD2009 / 2.0 
+
 Text Books 
 1. Nagarath and Gopal, Control system Engineering, Wiley Eastern Ltd., 1995, 2nd edition. 
 2. Katsuhiko Ogata, Modern Control Engineering, PHI, 2002, 4th edition 
 Reference Books: 
 1. M.Gopal, Control Systems-Principles and Design, 2, TMH, 2002. 
-  Back 
-  ## Page 68
- 68 
-FMCD2009 / 2.0 
+
 Program: Electrical & Electronics Engineering Semester: IV 
 Course Title: ARM Processor & Applications Course Code: 23EEEC202 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 40 
@@ -2628,10 +2450,7 @@ Reference Books:
 1. "ARM system Developer's Guide"- Hardbound, Publication date: 2004 Imprint: 
      MORGAN KAUFFMAN 
 2. User manual on LPC21XX. 
-Back 
- ## Page 69
- 69 
-FMCD2009 / 2.0 
+
   Program: Electrical & Electronics Engineering Semester: IV 
 Course Title: Signals and Systems Course Code:19EEEC205 
 L-T-P: 3-0-0 Credits:3 Contact Hours: 3 Hrs/week 
@@ -2673,11 +2492,7 @@ Transform, Implementation of discrete time of LTI systems.
 Text Books: 
 1. Simon Haykin and Barry Van Veen, Signals and Systems -2nd Edition, John 
 Wiley, 2004 
-  Back 
-  ## Page 70
- 70 
-FMCD2009 / 2.0 
-Back 
+
 Program: Electrical & Electronics Engineering Semester: IV 
 Course Title: Power Electronics Course Code: 20EEEC201 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 40 
@@ -2728,9 +2543,7 @@ Reference Books:
 Delhi, 2000. 
 2. P. S. Bhimbra, Power Electronics, Khanna Publishers, 2007. 
 3. Umanand, Power Electronics, 2nd edition, Wiley-India Publications, New -Delhi, 2009. 
- ## Page 71
- 71 
-FMCD2009 / 2.0 
+
 Program: Electrical & Electronics Engineering Semester : IV 
 Course Title: Digital System Design using Verilog Course Code: 18EEEP203 
 L-T-P: 0-0-2 Credits: 2 Contact Hours: 
@@ -2765,10 +2578,7 @@ Clock Skew.
 06 Hrs 
 Expt. No. 7. Advanced HDL Descriptions 
 File operations in Verilog, Memories: RAM, ROM, Block Memories( Xilinx IP) 08 Hrs 
-  Back 
-  ## Page 72
- 72 
-FMCD2009 / 2.0 
+
   Program: Electrical & Electronics Engineering Semester: IV 
 Course Title: ARM Microcontroller Lab Course Code: 23EEEP202 
 L-T-P: 0-0-1 Credits: 1 Contact Hours: 2Hrs/week 
@@ -2811,10 +2621,7 @@ LCD panel.
 Expt No.10 Develop an application code to automate the entry of people in the conference 
 hall where the door is opened every 1 sec to allow the entry of people. 
 Structured Enquiry 
- ## Page 73
- 73 
-FMCD2009 / 2.0 
-  Back 
+
    Expt No.1 Develop an application code using embedded C to accept asynchronous inputs 
 and control the connected device 
 Expt No.2 Develop an application code using synchronous communication protocol to 
@@ -2827,9 +2634,7 @@ The solution should include one on-chip peripheral and one off-chip peripheral
 Expt No.2 Develop an efficient firmware using ARM to demonstrate concept of a calculator 
 with 4X4 keypad, comment on the performance in terms of time, memory and power 
 utilization 
- ## Page 74
- 74 
-FMCD2009 / 2.0 
+
 Program: Electrical & Electronics Engineering Semester: IV 
 Course Title: Data Structures Applications Lab Course Code: 23EEEF202 
 L-T-P: 0-0-2 Credits: 2 Contact Hrs: 4Hrs/Week 
@@ -2856,10 +2661,7 @@ Text Books:
 1. Richard F. Gilberg & Behrouz A. Forouzan, Data Structures A Pseudocode Approach with C, 
 Second Edition. 
 2. Aaron M. Tenenbaum, Data Structures Using C. 
-  Back 
-  ## Page 75
- 75 
-FMCD2009 / 2.0 
+
 Program: Electrical & Electronics Engineering Semester: IV 
 Course Title: Data Structures using C Course Code: 23EEEF203 
 L-T-P: 0-0-3 Credits: 3 Contact Hours: 6 Hrs/week 
@@ -2875,10 +2677,7 @@ Expt. No. 6 Programs on implementation of different types of Linked lists
 Expt. No. 7 Programs on Implementation of trees. 
 Expt. No. 8 Programs to implement different sorting techniques. 
 Expt. No. 9 Programming on hash tables 
-Back 
-  ## Page 76
- 76 
-FMCD2009 / 2.0 
+
   V Semester Bachelor of Engineering (Electrical & Electronics Engineering) 
 Program: Electrical & Electronics Engineering Semester: V 
 Course Title: Electric Drives & Control Course Code: 24EEEC301 
@@ -2924,9 +2723,7 @@ Step-Down Chopper fed DC Motor Drive using PLECS
 Step-up Chopper fed DC Motor Drive using PLECS 
 Closed loop control of chopper fed DC motor drive using PLECS 
 Characterization of Squirrel cage IM using Sciamble Kit 
- ## Page 77
- 77 
-FMCD2009 / 2.0 
+
 On-line starting of Squirrel cage IM using PLECS 
 Scalar control of Squirrel cage Induction motor fed by three phase VSI with a given 'V/f'ratio 
 using PLECS 
@@ -2946,10 +2743,7 @@ References:
 Science Publications, 1989. 
 2. Jacek F. Gieras, "Electrical Machines: Fundamentals of Electromechanical Energy 
 Conversion", CRC Press, Taylor & Francis Group, 2017. 
-  Back 
-  ## Page 78
- 78 
-FMCD2009 / 2.0 
+
   Program: Electrical & Electronics Engineering Semester: V 
 Course Title: Power System Analysis and Stability Course Code: 17EEEC302 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 Hrs/Week 
@@ -2998,9 +2792,7 @@ mechanical power input, 3-phase fault on transmission line, expression for criti
 clearing angle, examples on EAC applications 
 05 Hrs 
 Chapter No.8: Numerical solution of swing equation for stability analysis 05 Hrs 
- ## Page 79
- 79 
-FMCD2009 / 2.0 
+
 Point by point method of solving swing equation, applications of Euler, modified 
 Euler and R -K numerical techniques f or stability analysis, methods to improve 
 transient stability, examples on stability analysis. 
@@ -3013,10 +2805,7 @@ Reference Books:
 2. Nagarath and Kothari, Modern Power System Analysis, 2nd Edition, Tata McGraw Hill, 
     1993 
  3. J.J. Grainger and W.D. Stevenson, Power System Analysis, McGraw Hill (New York), 1994 
-Back 
-  ## Page 80
- 80 
-FMCD2009 / 2.0 
+
   Program: Electrical & Electronics Engineering Semester: V 
 Course Title: OS and Embedded System Design Course Code: 24EEEC303 
 L-T-P: 3-0-1 Credits: 4 Contact Hours: 5 Hrs/Week 
@@ -3065,9 +2854,7 @@ List of experiments
 1. Write a C program to use on chip Timers in LPC2148 and generate required 
     delay 
 20 Hrs 
- ## Page 81
- 81 
-FMCD2009 / 2.0 
+
 2. Write a C program to demonstrate the concept of basic RTOS programming by 
      using RTX RTOS 
 3. Write a 'C' program & demonstrate concept of Round Robin Task Scheduling. 
@@ -3087,10 +2874,7 @@ Text Books
 3. Shibu K V, Introduction to Embedded systems, 6th reprint, 2012 
 Reference Books: 
 Qing Li with Caroline Yao, Real-Time Concepts for Embedded Systems, 1st edition 
-   Back 
-  ## Page 82
- 82 
-FMCD2009 / 2.0 
+
   Program: Electrical & Electronics Engineering Semester: V 
 Course Title: Digital Signal Processing Course Code: 20EEEC301 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 Hrs/Week 
@@ -3133,10 +2917,7 @@ Reference Books:
         Publishing Company Limited, New Delhi 
 3. Alan V Oppenheim & Ronald W. Schfer, Discrete-Time Signal Processing, Prentice-Hall of 
         India Pvt. Ltd 
-Back 
- ## Page 83
- 83 
-FMCD2009 / 2.0 
+
 Program: Electrical & Electronics Engineering Semester: V 
 Course Title: Linear Integrated Circuits Course Code: 18EEEC301 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 Hrs/Week 
@@ -3187,10 +2968,7 @@ Circuits Integrated Circuits", PHI/Pearson, 2006.
 3. Sergio Franco, "Design with Operational Amplifiers and Analog Integrated Circuits", TMH, 3e, 
 2005. 
 4. David A. Bell, "Operational Amplifiers and Linear IC's", 2nd edition, PHI/Pearson, 2004. 
-Back 
- ## Page 84
- 84 
-FMCD2009 / 2.0 
+
 Program: Electrical & Electronics Engineering V Semester 
 Course Title: Machine Learning & Deep Learning Course Code: 24EEEC302 
 L-T-P: 2-0-2 Credits: 4 Contact Hrs: 6 Hrs/week 
@@ -3238,9 +3016,7 @@ Back propagation algorithm, multi -class classification, Steps to train a neural
 network, Applications of Neural Networks 
   05 Hrs 
 Chapter No. 6 Introduction to Deep learning 05 Hrs 
- ## Page 85
- 85 
-FMCD2009 / 2.0 
+
 Introduction to Deep Learning (Motivation, Overview), Convolution Neural 
 Networks (CNN) (Architecture, terminologies, Evolution and Modelling), Recurrent 
 Neural Networks (RNN), Self -supervised models (Auto encoders and variants), 
@@ -3264,10 +3040,7 @@ Recognition and Machine Learning, 1, Springer, 2007
 References 
 1. Trevor Hastie, Robert Tibshirani, Jerome Friedman, The Elements of Statistical Learning: 
 Data Mining Inference and Prediction, 2, Springer, 2009 
-Back 
-  ## Page 86
- 86 
-FMCD2009 / 2.0 
+
 Program: Electrical & Electronics Engineering Semester: V 
 Course Title: Machines lab Course Code: 19EEEP301 
 L-T-P: 0-0-1 Credits: 1 Contact Hours: 2Hrs/week 
@@ -3297,10 +3070,7 @@ Structured Enquiry
 Expt. No. 1 To develop the second order response surface methodology (RSM) based speed 
 prediction model of DC shunt motor by conducting experiments as per Design of 
 Experiments.(DOE) 
-  Back 
-  ## Page 87
- 87 
-FMCD2009 / 2.0 
+
 Program: Electrical & Electronics Engineering Semester: V 
 Course Title: Data Acquisition and Controls Lab Course Code: 23EEEP302 
 L-T-P: 0-0-1 Credits: 1 Contact Hours: 2Hrs/week 
@@ -3324,10 +3094,7 @@ Expt. No. 8. Design and analyze Lag and Lead Compensators
 Structured Enquiry 
 Expt. No. 1 Simulate and Investigate the effect of P, PI, PID controllers on the time response 
 of a given second order series RLC system. (MATLAB/using any simulation tool) 
-  Back 
-   ## Page 88
- 88 
-FMCD2009 / 2.0 
+
 Program: Electrical & Electronics Engineering Semester: V 
 Course Title: Linear algebra and statistics Course Code: 15EMAB302 
 L-T-P : 3-0-0 Credits: 3 Contact Hrs:3 Hrs/Week 
@@ -3376,10 +3143,7 @@ Applications for Engineering and the Computing Sciences, 4 th Ed, TATA McGraw -H
 Edition 2007. 
 2. Schaum's Outline of Linear Algebra Seymour Lipschutz, Marc Lipson 4ed, McGraw Hill 
 India 2009. 
-Back 
- ## Page 89
- 89 
-FMCD2009 / 2.0 
+
 Program: Electrical & Electronics Engineering Semester: V 
 Course Title: Arithmetical Thinking and Analytical 
 Reasoning Course Code: 22EHSH301 
@@ -3411,10 +3175,7 @@ Sons, New Delhi, 2018
 4. M Tyra, "Magical Book on Quicker Maths", BSC Publications, 2018 
 5. Cambridge Advanced Learner's Dictionary, Cambridge University Press. 
 6. Kaplan's GRE guide 
-  Back 
-  ## Page 90
- 90 
-FMCD2009 / 2.0 
+
 VI Semester Bachelor of Engineering (Electrical & Electronics Engineering) 
 Program: Electrical & Electronics Engineering Sem: VI 
 Course Title: Automotive Electronics Course Code: 24EEEC304 
@@ -3465,9 +3226,7 @@ Experiments List
     platform. 
   Text Books: 
 1. Ribbens, Understanding of Automotive electronics, 6th Edition, Elsevier, 2003 
- ## Page 91
- 91 
-FMCD2009 / 2.0 
+
 2. Denton.T, Automobile Electrical and Electronic Systems, Elsevier, 3rd Edition, 2004 
 3. Konrad Reif Ed , Brakes, Brake Control and Driver Assistance Systems, Professional 
     Automotive Information, Springer, 2014 
@@ -3478,10 +3237,7 @@ Reference Books:
 3. Allan Bonnick, Automotive Computer Controlled Systems Diagnostic Tools and 
     Techniques, Elsevier Science, 2001 
 4. Nicholas Navet , Automotive Embedded System Handbook , 2009 
-  Back 
-  ## Page 92
- 92 
-FMCD2009 / 2.0 
+
 Program: Electrical & Electronics Engineering Semester : VI 
 Course Title: CMOS VLSI Circuits Course Code: 23EEEC304 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 3Hrs/Week 
@@ -3525,10 +3281,7 @@ Reference Books
 2. Douglas A Pucknell and Kamran Eshraghian, Basic VLSI Design, 3, PHI, 2005 
 3. Phillip. E. Allen, Douglas R. Holberg, CMOS Analog circuit Design, 1, Oxford University, 
 2002 
-  Back 
-   ## Page 93
- 93 
-FMCD2009 / 2.0 
+
 Program: Electrical & Electronics Engineering Semester : VI 
 Course Title: Generative AI Course Code: 24EEEC305 
 L-T-P: 2-0-1 Credits: 3 Contact Hrs: 4Hrs/Week 
@@ -3578,9 +3331,7 @@ auto-regressive generation, Pre-training and Fine-tuning.
 Transformer-based Autoregressive Models: GPT (Generative Pre -trained 
 Transformer), Overview, Architecture, Training, Applications, BERT (Bidirectional 
 05 Hrs 
- ## Page 94
- 94 
-FMCD2009 / 2.0 
+
 Encoder Representations from Transformers), T5 (Text -to-Text Transfer 
 Transformer) 
 Chapter 6: Generative Models II: Large Language Models (LLMs) 
@@ -3605,10 +3356,7 @@ Intelligence Future". John Wiley & Sons Inc; 1st edition, (2024), ISBN -13: 978 
 4. Jospeh Babcock and Raghav Bali, "Generative AI with Python and TensorFlow 2: Create 
 images, text, and music with VAEs, GANs, LSTMs, Transformer models", Packt Publishing 
 (2021); Packt Publishing Limited, 1-488 Pages, ISBN-13: 978-1800200883 
-  Back 
-   ## Page 95
- 95 
-FMCD2009 / 2.0 
+
   Program: Electrical & Electronics Engineering Semester: VI 
 Course Title: CMOS VLSI Circuits Laboratory Course Code: 23EEEP304 
 L-T-P : 0-0-1 Credits: 1 Contact Hours:2Hrs/week 
@@ -3631,10 +3379,7 @@ Text Books:
 1. John P. Uyemura, "Introduction to VLSI Circuits and Systems", Wiley. 
 2. Neil Weste and K. Eshragian,"Principles of CMOS VLSI Design: A System Perspective," 
 2nd edition, Pearson Education (Asia) Ptv. Ltd., 2000 
-  Back 
-   ## Page 96
- 96 
-FMCD2009 / 2.0 
+
   Program: Electrical & Electronics Engineering Semester: VI 
 Course Title: Industry Readiness & Leadership Skills Course Code: 23EHSA304 
 L-T-P : 0-0-0 Credits: 00 Contact Hrs: 16 
@@ -3663,10 +3408,7 @@ Reference Books:
 3. William Strunk, E B White - The Elements of Style, Pearson 
 4. John Maxwell - The 17 Essential Qualities of a Team Player, HarperCollins Leadership 
 5. Robin Ryan - 60 Seconds and You're Hired! - Penguin Books 
-Back 
-  ## Page 97
- 97 
-FMCD2009 / 2.0 
+
 Program: Electrical & Electronics Engineering Semester: VI 
 Course Title: Professional Aptitude and Logical 
 Reasoning 
@@ -3690,10 +3432,7 @@ Chand and Sons, New Delhi
 Reference Books: 
 1. Verbal and Non - Verbal Reasoning - Dr. Ravi Chopra, MacMillan India 
 2. Lateral Thinking - Dr. Edward De Bono, Penguin Books, New Delhi 
-Back 
-  ## Page 98
- 98 
-FMCD2009 / 2.0 
+
 VII Semester Bachelor of Engineering (Electrical & Electronics Engineering) 
 Program: Electrical & Electronics Engineering Sem: VII 
 Course Title: Power System Modelling, Operation & Control Course Code: 25EEEC401 
@@ -3740,9 +3479,7 @@ Lab Experiments to be conducted
 3. Solution of load flow problem using Gauss-Seidel method 02 Hrs 
 4. Solution of load flow problem using Newton-Raphson method. 02 Hrs 
 5. Economic load dispatch without considering network losses 02 Hrs 
- ## Page 99
- 99 
-FMCD2009 / 2.0 
+
 6. Economic load dispatch considering network losses 02 Hrs 
 7. ABCD Line parameters and line performance 02 Hrs 
 8. Solution of swing equation 02 Hrs 
@@ -3761,10 +3498,7 @@ Reference Books:
 2. Hadi Sadat, Power system analysis, 1st ed, TMH, 2002 
 3. A.R. Bergen and Vijay Vittal, Power System Analysis, First, Pearson Education, 2009 Joe H. Chow, 
 Juan J. Sanchez-Gasca, Power System Modelling, Computation 
-  Back 
-  ## Page 100
- 100 
-FMCD2009 / 2.0 
+
   Program : Electrical & Electronics Engineering Semester: VII 
 Laboratory Title: Relay and High Voltage Engineering lab Course Code:24EEEP401 
  L-T-P: 0-0-1 Credits: 1 Contact Hours:4Hrs 
@@ -3786,10 +3520,7 @@ c) To obtain the breakdown voltage of a liquid dielectric.
 Structured Enquiry 
 To develop microcontroller based overcurrent, over voltage and impedance relay using CT 
 /PT giving details of program and demonstrate it's working output. 
-  Back 
-  ## Page 101
- 101 
-FMCD2009 / 2.0 
+
 Program Electives 
 (E-Mobility) 
 Program: Electrical & Electronics Engineering Sem: VI 
@@ -3797,7 +3528,6 @@ Course Title: Electric Vehicular Technology Course Code: 24EEEE301
 L-T-P: 1-0-2 Credits: 3 Contact Hrs: 5 Hrs/Week 
 ISA: 67 ESA: 33 Total Marks: 100 
 Teaching Hrs: 27 Lab Hrs: 43 Exam Duration: 2Hrs 
-  Back 
    Unit-I Hrs 
 Chapter No. 1. Introduction to Electric Vehicles 
 History of Electric Vehicles, Types of EVs: Battery Electric Vehicles (BEVs), Plug-in Hybrid 
@@ -3836,9 +3566,7 @@ Taylor and Francis Group, 2021
 References: 
 1. Modern Electric, Hybrid Electric, and Fuel Cells Vehicles, Fundamentals, Theory and Design, 2nd 
 Edition, Mehrdad Ehsani, Yimin Gao, Ali Emadi, CRC Press, Taylor and Francis Group, 2018 
- ## Page 102
- 102 
-FMCD2009 / 2.0 
+
 Program: Electrical & Electronics Engineering VII Semester 
 Course Title: Battery Management Systems Course Code: 25EEEE401 
 L-T-P: 1-0-2 Credits: 3 Contact Hrs: 5 Hrs/Week 
@@ -3883,10 +3611,7 @@ house publisher.
 Reference Books: 
 1. Jiuchun Jiang and Caiping Zhang, "Fundamentals and Applications of Lithium-Ion 
 Batteries in Electric Drive Vehicles", John Wiley & Sons, 2015. 
-  Back 
-  ## Page 103
- 103 
-FMCD2009 / 2.0 
+
 Program: Electrical & Electronics Engineering Semester : VII 
 Course Title: Traction Systems for Electric Vehicles Course Code: 20EEEE401 
 L-T-P: 2-0-1 Credits: 3 Contact Hrs: 4 Hrs/ Week 
@@ -3933,17 +3658,12 @@ Structured Enquiry
 the results of the simulation, draw practical conclusions from them and 
 prepare a technical report. 
 06 Hrs 
- ## Page 104
- 104 
-FMCD2009 / 2.0 
+
 Text Books: 
 1. NPTEL course notes on "Introduction to Hybrid and Electric Vehicles" , IIT Guwahati. 
 2. Chris Mi and M Abul Masrur, "Hybrid Electric Vehicles: Principles and Applications with Practical 
 Perspectives", John Wiley & Sons, 2018. 
-  Back 
-  ## Page 105
- 105 
-FMCD2009 / 2.0 
+
   Program: Electrical & Electronics Engineering Semester : VII 
 Course Title: Powertrain Control System Design Course Code: 25EEEE402 
 L-T-P: 1-0-2 Credits: 3 Contact Hrs: 5 Hrs/Week 
@@ -3991,16 +3711,11 @@ References:
 Applications and Design, John Wiley and Sons, 2003. 
 2. Marian P. Kazmierkowski, R. Krishnan and Frede Blaabjerg, Control in Power Electronics, 
 Academic Press, 2002. 
- ## Page 106
- 106 
-FMCD2009 / 2.0 
-Back 
+
   3. Marian K. Kazimierczuk, Pulse -width Modulated DC -DC Power Converters, John Wiley & 
 Sons. 
 4. Robert W. Erickson, Fundamentals of Power Electronics, Kluwer Academic Publishers, 2000. 
- ## Page 107
- 107 
-FMCD2009 / 2.0 
+
   (Modern Power & Energy Systems) 
 Program: Electrical & Electronics Engineering Semester: VI 
 Course Title: Modelling & Analysis of Hybrid Electrical 
@@ -4043,9 +3758,7 @@ Phase 1 (10 Marks) : Model using any suitable simulation software like MATLAB/
 PYTHON/ any suitable. Design four panels of 12V 5 Amp each and connects them 
 in series and parallel as shown. Simulate and verify the operation at various 
 insolation levels. 
-   ## Page 108
- 108 
-FMCD2009 / 2.0 
+
    Case 1: Refer input irradiance table, Temp at 250 constant 
 Time Irradiance 
 in W/m2 
@@ -4088,9 +3801,7 @@ pm
 400, 500 and 600 
 Phase II (10 Marks) : For the PV panel given in the table. Design and select a 
 suitable converter and generate necessary plots and waveforms 
-  ## Page 109
- 109 
-FMCD2009 / 2.0 
+
   Phase III (10 Marks) : Select suitable MPPT algorithm (PERTURB & OBSERVE 
 MPPT ALGORITHM). Compare the output with and without MPPT algorithm. 
 And draw necessary waveforms 
@@ -4108,10 +3819,7 @@ and Technology, Springer, 2014
 Reference Books: 
 1. Gilbert M Masters, Renewable and Efficient Electric Power Systems, Wiley 
 Interscience, New Jersey, 2004 
-Back 
-  ## Page 110
- 110 
-FMCD2009 / 2.0 
+
   Program: Electrical & Electronics Engineering Semester: VII 
 Course Title: Smart Grid Technologies Course Code: 25EEEE401 
 L-T-P: 1-0-2 Credits: 3 Contact Hrs:5 Hrs/Week 
@@ -4154,10 +3862,7 @@ and Francis Group, 2021
 Reference Books: 
 1. Modern Electric, Hybrid Electric, and Fuel Cells Vehicles, Fundamentals, Theory and Design, 2nd 
 Edition, Mehrdad Ehsani, Yimin Gao, Ali Emadi, CRC Press, Taylor and Francis Group, 2018 
-  Back 
-  ## Page 111
- 111 
-FMCD2009 / 2.0 
+
   Program: Electrical & Electronics Engineering Semester: VII 
  Course Title: Flexible AC Transmission System (FACTS) Course Code: 19EEEE401 
 L-T-P: 3-0-0 Credits: 3 Contact Hours:3 Hrs/Week 
@@ -4200,10 +3905,7 @@ Publishers Distributors, Delhi, 200, ISBN 81 86308 79 2.
 References Books: 
 1. K. R Padiyar, "FACTS controllers in Power Transmission and Distribution", New Age 
 International Publishers, New-Delhi, 2007, ISBN 978 81 224 2142 2. 
-Back 
-   ## Page 112
- 112 
-FMCD2009 / 2.0 
+
 Program: Electrical & Electronics Engineering Semester: VII 
 Course Title: Nonlinear Control Systems Course Code: 25EEEE409 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 3 Hrs/Week 
@@ -4244,10 +3946,7 @@ Text Books:
 Katsuhiko Ogata, Modern Control Engineering, PHI, 2002, 4th edition 
 Reference Book: 
 1. M. Gopal, Control Systems-Principles and Design, TMH 2002, 2nd edition 
-  Back 
-  ## Page 113
- 113 
-FMCD2009 / 2.0 
+
 Program: Electrical & Electronics Engineering Semester : VII 
 Course Title: Modern Control Systems Course Code:25EEEE410 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 3 Hrs/Week 
@@ -4296,10 +3995,7 @@ Text Books
 2. B. C Kuo, Digital Control Systems, 2nd Edition, Oxford University Press, Inc., 1992 
   Reference Books: 
 1. Digital Control and State Variable Methods by M.Gopal, TMH 
-Back 
- ## Page 114
- 114 
-FMCD2009 / 2.0 
+
 Program: Electrical & Electronics Engineering Semester : VII 
 Course Title: Switched Mode Power Converters Course Code: 25EEEE413 
 L-T-P: 3-0-0 Credits: 03 Contact Hours: 3 hrs /Week 
@@ -4344,10 +4040,7 @@ Reference Books:
 2. Bose B. K., , Power Electronics and AC Drives, 5, PHI, 2003 
 3. Rashid M. H, Digital Power Electronics and Applications, 1, Elsevier, 2005 
 4. V. Ramanarayanan, Switched Mode Power Converters Notes, IISC, Bangalore, 2008 
-Back 
-  ## Page 115
- 115 
-FMCD2009 / 2.0 
+
 Program: Electrical & Electronics Engineering Semester: VII 
 Course Title: Digital Control System Course Code: 25EEEE411 
 L-T-P: 3-0-0 Credit: 3 Contact Hrs: 3 Hrs/Week 
@@ -4396,18 +4089,13 @@ the Bilinear Transformation.
 06 Hrs 
 Chapter No.8 State Feedback Controller: Design of state feedback controller 
 through pole placement - Necessary and sufficient conditions. 04 Hrs 
- ## Page 116
- 116 
-FMCD2009 / 2.0 
+
 Text Books 
 1. Discrete-Time Control systems - K. Ogata, Pearson Education/PHI, 2nd Edition 
 2. B. C Kuo, Digital Control Systems, 2nd Edition, Oxford University Press, Inc., 1992 
 Reference Books: 
 1. Digital Control and State Variable Methods by M.Gopal, TMH 
-  Back 
-   ## Page 117
- 117 
-FMCD2009 / 2.0 
+
 Program: Electrical & Electronics Engineering Semester: VII 
 Course Title: Electricity & Safety Measures Course Code: 25EEEE412 
 L-T-P: 3-0-0 Credits:3 Contact Hours:3 hrs/week 
@@ -4451,10 +4139,7 @@ Management,
  Block 2: Operation & Maintenance of course BEE -001: Power Distribution Sector of Programme 
 "Advanced Certificate in Power Distribution" being offered by School of Engineering & 
 Technology(SOET), IGNOU 
-Back 
-  ## Page 118
- 118 
-FMCD2009 / 2.0 
+
 (Embedded System) 
 Program: Electrical & Electronics Engineering Semester: VI 
 Course Title: Object Oriented Programming using C++ Course Code: 24EEEE305 
@@ -4502,10 +4187,7 @@ education, 2009
 Farrell, "An object-oriented approach to logic and design", 4th Edition, Cingage 
 Publishers, 2012. 
 2. Lippman S B, Lajorie J, Moo B E, C++ Primer, 4ed, Addison Wesley, 2005. 
-  Back 
- ## Page 119
- 119 
-FMCD2009 / 2.0 
+
 Program: Electrical & Electronics Engineering Semester: VII 
 Course Title: AUTOSAR Course Code: 25EEEE404 
 L-T-P: 2-0-1 Credits: 3 Contact Hours: 4 Hrs/Week 
@@ -4556,10 +4238,7 @@ Text Books:
 2. Ribbens, Understanding of Automotive electronics, 6th Edition, Elsevier, 2003 
 3. Denton.T, Advanced automotive fault diagnosis, 2000 
 4. David Smith, Kenneth Simpson, The Safety Critical Systems Handbook, 5th Edition, 2020 
-Back 
- ## Page 120
- 120 
-FMCD2009 / 2.0 
+
   VLSI Systems 
 Program: Electrical & Electronics Engineering Semester: VI 
 Course Title: Architectural Design of Integrated Circuits Course code: 24EEEE303 
@@ -4592,10 +4271,7 @@ Reference Books:
 2. Verilog HDL: A Guide to Digital Design and Synthesis by Samir Palnitkar, 2nd Edition. 
 3. Principles of VLSI RTL Design: A Practical Guide by Sapan Garg, 2011. 
 4. Tools: Questa Sim, Modelsim for Verilog, Cadance Geneus, Xilinx 14.2 ISE 
-Back 
-   ## Page 121
- 121 
-FMCD2009 / 2.0 
+
 Program: Electrical and Electronics Engineering Semester: VII Semester 
 Course Title: Design for Testability Course Code: 25EEEE414 
 L-T-P: 1-0-2 Credits: 3 Contact Hours: 5 Hrs/week 
@@ -4628,10 +4304,7 @@ Reference Books:
 2. Wang, Laung-Terng. VLSI Test Principles and Architectures. Morgan Kaufmann, 2006. 
 3. Huhn, Sebastian. Design for Testability, Electrical & Electronics Engineering and Reliability. Springer 
 Nature, 2021. 
-Back 
-  ## Page 122
- 122 
-FMCD2009 / 2.0 
+
 Program: Electrical and Electronics Engineering Semester: VII Semester 
 Course Title: System on Chip Design Course Code: 25EEEE415 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3Hrs/week 
@@ -4674,16 +4347,12 @@ Springer, 2012.
 2. Lin, Y-L.S. (ed.), "Essential issues in SOC design: designing complex systems-on-chip. Springer, 
 2006. 
  3. Wayne Wolf, "Modern VLSI Design: IP Based Design", Prentice-Hall India, Fourth edition, 2009. 
-Back 
-  ## Page 123
- 123 
-FMCD2009 / 2.0 
+
 Program: Electrical & Electronics Engineering Semester : VII 
 Course Title: Advanced IC Packaging Course Code: 25EEEE405 
 L-T-P: 1-0-2 Credits: 03 Contact Hours: 5 hrs /Week 
 ISA Marks: 67 ESA Marks: 33 Total Marks: 100 
 Teaching Hours:16+48 Exam Duration: 03 Hrs 
-Back 
   Chapter 1: Introduction to Advanced Semiconductor Packaging 
  Overview of semiconductor packaging 
  Evolution of packaging technologies 
@@ -4715,10 +4384,7 @@ Reference Books
 3. Bernard S Matisoff, Handbook of Electronics Packaging Design and Engineering, Springer, 
 2012. 
 4. Rao R Tummala, Fundamentals of Microsystems Packaging, McGraw Hill, 2001. 
-  ## Page 124
- 124 
-FMCD2009 / 2.0 
-Back 
+
   Program: Electrical & Electronics Engineering Semester: VII 
 Course Title: System Verilog using Verification Course code: 25EEEE406 
 L-T- P: 1-0-2 Credits: 03 Contact Hrs: 05 Hrs /week 
@@ -4758,9 +4424,7 @@ Reference Books:
 2. Chris Spear, Gregory J. Tumbush - System Verilog for verification - a guide to learning 
 the test bench language features - Springer, 2012 
 Tools: Questa Sim, NC Verilog, NC Sim, CVER + GTKWave, VCSMX, Modelsim for Verilog 
- ## Page 125
- 125 
-FMCD2009 / 2.0 
+
    Program: Electrical & Electronics Engineering Semester: VII 
 Course Title: CMOS ASIC Design Course code: 25EEEE407 
 L-T- P: 1-0-2 Credits: 03 Contact Hrs: 05 hrs/week 
@@ -4796,10 +4460,7 @@ Addison Wesley Pub Co.1985.
 Physical Compiler an PrimeTime, 2nd edition, 2001. 
 3. Springer Science+Business Media, LLC 2009 
 4. Tools: Cadence Innovous, Encounter 
-  Back 
-   ## Page 126
- 126 
-FMCD2009 / 2.0 
+
                                                              Course Content 
 Course Code: 25EEEE408 Course Title: Human Machine Interface 
 L-T-P : 1-0-2 Credits: 3 Contact Hrs: 5/week 
@@ -4854,9 +4515,7 @@ system using a mobile
 device 
 1. 00 6 Chapters 2, 3, 4 & 
 5 
-  ## Page 127
- 127 
-FMCD2009 / 2.0 
+
 Category: Course Project Total Weightage: 5 No. of lab 
 sessions: 12.00 
 Expt./ 
@@ -4896,5 +4555,4 @@ vi. GTK - https://docs.gtk.org/
 vii. Qt - https://doc.qt.io/ 
 viii. Blender - https://www.blender.org/support/ 
 ix. OpenGL - https://www.opengl.org/ 
-x. TouchGFX - https://support.touchgfx.com/docs/introduction/welcome 
-Back 
+x. TouchGFX - https://support.touchgfx.com/docs/introduction/welcome

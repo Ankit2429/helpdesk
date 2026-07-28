@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 531imguf_UGBiotechnologyDCPreport"
+title: "Ugbiotechnologydcpreport"
 category: "departments"
 subcategory: ""
 document_type: "act"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["document", "faculty", "program", "students", "table", "year"]
 aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE", "KLETech", "KLE Tech", "BVB", "BVBCET"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "19"
 ---
-# PDF Document: 531imguf_UGBiotechnologyDCPreport
- **PDF Source:** https://www.kletech.ac.in/Uploads/image/531imguf_UGBiotechnologyDCPreport.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/Uploads/image/531imguf_UGBiotechnologyDCPreport.pdf
  Program Name : Biotechnology Discipline: Engineering & Technology
 Level : Under Graduate Tier: 1
 Application No: 11860 Date of Submission: 20-05-2026
@@ -47,7 +47,6 @@ NATIONAL BOARD OF ACCREDITATION
 Data Capturing Points of the Program Applied for NBA Accreditation- Tier I/II UG (Engineering) Institute Programs
 6/30/26, 12:56 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=539 1/19
- ## Page 2
  10 Engineering & TechnologyUG Computer Science andEngineering (Artificial Intelligence)2021 -- Computer Science andEngineering (Artificial Intelligence)
 11 Engineering & Technology PG Design Engineering2020 -- Mechanical Engineering
 12 Engineering & TechnologyUG Electrical & ElectronicsEngineering 2015 -- Electrical and ElectronicsEngineering
@@ -71,7 +70,6 @@ B1. Provide the Required Information for the Program Applied For:
 Table No. B1: Program details.A. List of the Programs Offered by the Department:
 6/30/26, 12:56 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=539 2/19
- ## Page 3
  Sr. No.PROGRAM NAME
 PROGRAM APPLIED LEVEL
 YEAR OF START /YEAR OF CLOSED SANCTIONED INTAKE INCREASE/DECREASEINTAKE (if any)YEAR OFINCREASE/DECREASECURRENTINTAKE
@@ -102,7 +100,6 @@ Year of entry N (From Table 4.1) N1 (From Table 4.1) N4 (From Table 4.1) Enrollm
 2024-25 (CAYm1) 60 57 0 95.00
 6/30/26, 12:56 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=539 3/19
- ## Page 4
  2023-24 (CAYm2) 60 53 0 88.33
 Average [ (ER1 + ER2 + ER3) / 3 ] = 92.78≡ 20.00
 B5. Success Rate of the Students in the Stipulated Period of the Program
@@ -138,7 +135,6 @@ API [ X*(Y/Z) ]: 7.81 7.85 7.91
 Average API [ (AP1 + AP2 + AP3)/3 ] : 7.86
 6/30/26, 12:56 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=539 4/19
- ## Page 5
  B9. Placement, Higher Studies, and Entrepreneurship
 Table No.B9.1: Placement, higher studies, and entrepreneurship details.
 Item LYG (2021-22) LYGm1(2020-21) LYGm2(2019-20)
@@ -174,7 +170,6 @@ BiochemicalEngineering01/08/200520.9 LecturerAssociateProfessor01/03/2013Regular
 8 Dr. Gururaj B.Tennalli XXXXXXX56LPh.DKLE TechnologicalUniversity, HubballiBiotechnology11/08/200817.9 LecturerAssistantProfessor RegularYes No
 6/30/26, 12:56 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=539 5/19
- ## Page 6
  9 Dr. Deepak A.YaraguppiXXXXXXX94PPh.DKLE TechnologicalUniversity, HubballiBiotechnology10/07/201015.10 LecturerAssistantProfessor RegularYes No
 10 Dr. SharanappaA XXXXXXX92LPh.DKLE TechnologicalUniversity, HubballiComputationalBiology 23/08/201312.8 AssistantProfessorAssistantProfessor RegularYes No
 11 Dr.MohanakrishnaGunda XXXXXXX79EPh.DJNTU, Hyderabad.Environmental.Biotechnology17/01/20224.3 AssociateProfessorAssociateProfessor17/01/2022RegularYes No
@@ -198,7 +193,6 @@ Student Faculty Ratio (SFR)=S/(F-FF) SFR1= 16.64 SFR2= 16.64 SFR3= 16.64
 Average SFR for 3 years SFR= 16.64
 6/30/26, 12:56 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=539 6/19
- ## Page 7
  C3. Faculty Qualification
 Faculty qualification index (FQI) = 2.5 * [(10X +4Y)/RF] whereX=No. of faculty members with Ph.D. degree or equivalent as per AICTE/UGC norms.Y=No. of faculty members with M. Tech. or ME degree or equivalent as per AICTE/ UGC norms.RF=No. of required faculty in the Department including allied Departments to adhere to the 20:1 Student-Faculty ratio, with calculations based on both student numbers and faculty requirements as per section C2 of this documents:(RF=S/20).
 Table No.C3.1: Faculty qualification.
@@ -228,7 +222,6 @@ Table No. C6.1: Faculty publication details.
 S.No. Item 2024-25(CAYm1) 2023-24(CAYm2) 2022-23(CAYm3)
 6/30/26, 12:56 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=539 7/19
- ## Page 8
  1 No. of peer reviewed journal papers published 32 28 21
 2 No. of peer reviewed conference papers published0 1 2
 3 No. of books/book chapters published 2 2 0
@@ -250,7 +243,6 @@ PI NameCo-PI names if anyName of the Dept., where project is sanctionedProject T
       Amount received (Rs.):0
 6/30/26, 12:56 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=539 8/19
- ## Page 9
  (CAYm3)
 PI NameCo-PI names if anyName of the Dept., where project is sanctionedProject Title* Name of the Funding agencyDuration of the projectAmount(Lacs)i.e. 15, 25, 000=15.25
       Amount received (Rs.):0
@@ -278,7 +270,6 @@ D1. Adequate and Well-Equipped Laboratories, and Technical Manpower
 Table No.D1.1: List of laboratories and technical manpower.
 6/30/26, 12:56 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=539 9/19
- ## Page 10
  Sr. No Name of the LaboratoryNumber ofstudents per setup(Batch Size)Name of the Important Equipment
 Weeklyutilizationstatus(all thecourses forwhich the lab isutilized)
 Technical Manpower Support
@@ -318,7 +309,6 @@ Cell & molecular Lab(BTL-3) 1. Fire extinguisher. 2. Display of emergency contac
 Bioinformatics(BTL-4) 1. Anti-virus for all the computer systems is installed. 2. Display of emergency contact numbers. 3. General guidelines to be followed are displayed.
 6/30/26, 12:56 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=539 10/19
- ## Page 11
  5
 Microbiology(BTL-5) 1. Fire extinguisher 2. First Aid Box 3. Display of emergency contact numbers. 4. Display of general safety guidelines. 5. Use of personal protectiveequipment's (PPE) like goggles, hand-gloves. 6. Procedure for disposal of waste is defined, displayed and followed.
 6
@@ -334,7 +324,6 @@ Faculty Research Lab- II
 D3. Project Laboratory/Research Laboratory
 6/30/26, 12:56 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=539 11/19
- ## Page 12
  Research Laboratory - I (Faculty and Ph.D. Scholars Research Laboratory)
 Research Laboratory-I is dedicated to supporting the research activities of faculty members and doctoral scholars. The laboratory provides essential facilities for conducting advanced research in biotechnology, microbiology, bioprocessing, and related interdisciplinary areas. The laboratory is equipped with instruments such as a UV-Visible Spectrophotometer for analytical studies, an autoclave for sterilization, an incubator formicrobial cell culture growth, a moisture analyzer for material characterization, a centrifuge for sample separation, and a Phase Contrast Microscope for detailed observation of biological specimens. These facilitiesenable researchers to undertake fundamental and applied research, generate quality publications, and contribute to funded research projects.
   Major Equipments:
@@ -347,7 +336,6 @@ Phase Contrast Microscope
   Spectrophotometer
 6/30/26, 12:56 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=539 12/19
- ## Page 13
  Centrifuge
   Research Laboratory - II (Process and Product Development Laboratory)
 Research Laboratory-II is established to facilitate process optimization, scale-up studies, and product development activities. The laboratory provides advanced instrumentation for bioprocess development, downstreamprocessing, analytical characterization, and quality assessment. It is equipped with a 50 L Pilot-Scale Fermentor for scale-up studies, HPLC for analytical and quality analysis, AKTA Protein Purification System forbiomolecule purification, Microplate Reader for high-throughput analysis, Homogenizer for sample preparation, and supporting equipment such as UV-Visible Spectrophotometer, Centrifuge, pH Meter, ElectronicWeighing Balance, Ultra-Pure Water System, and Water Purification System. The laboratory enables faculty, research scholars, and students to undertake translational research, process development, and industry-oriented product innovation.
@@ -356,7 +344,6 @@ Pilot-Scale Fermentor (50 L)
 HPLC
 6/30/26, 12:56 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=539 13/19
- ## Page 14
  Centrifuge
 AKTA Protein Purification System
 UV-Visible Spectrophotometer
@@ -370,16 +357,13 @@ Homogenizer
   AKTA Protein Purification System
 6/30/26, 12:56 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=539 14/19
- ## Page 15
  HPLC
 6/30/26, 12:56 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=539 15/19
- ## Page 16
  Spectrophtometer
   Microplate Reader
 6/30/26, 12:56 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=539 16/19
- ## Page 17
  External Research Funded Project
 An external research project (VGST-K-FIST-L1-GRD-886) titled "Nutritional Profile and Metagenomics Insights of Microbial Diversity of Nucchu Ambli- a millet-based traditional Fermented Food of North Karnataka " wasundertaken and completed. It was funded by Vision Group of Science and Technology, Government of karnataka.
   Memorandum of Understandings (MoU)
@@ -395,7 +379,6 @@ The departmrnt has signed MoUs with the following companies:
 The laborotary accomodates and supports start-up incubator companies to foster entrepreneurship through innovation and product & process development in the domain of Biotechnology. Some of the startupcompanies housed in the lab include WeGha Herbals, Vayodaanta Biotech Pvt. Ltd., Sanbeer Pvt. Ltd, Navya Therapeutics and others.
 6/30/26, 12:56 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=539 17/19
- ## Page 18
  PART E: First Year faculty and financial Resources
 (Data to be filled in for the first year course faculty and budget allocation and utilization)
 E1. First Year Student-Faculty Ratio (FYSFR)
@@ -424,7 +407,6 @@ Total 1408247000.001352357120.221302450000.001320080496.421232915000.00115079041
 E3. Budget Allocation, Utilization, and Public Accounting at Program Specific Level
 6/30/26, 12:56 PM e - NBA
 https://enba.nbaind.org/SARTemplates/eSARUGTierICycle1V1SummaryPrint.aspx?Appid=11860&Progid=539 18/19
- ## Page 19
  Table No. E3.1: Budget and actual expenditure incurred at program level.
 Items Budgeted in 2025-26Actual Expenses in2025-26 till Budgeted in 2024-25Actual Expenses in2024-25 till Budgeted in 2023-24Actual Expenses in2023-24 till Budgeted in 2022-23Actual Expenses in2022-23 till
 Laboratory equipment230000.00 389119.00 200000.00 169099.00 25000.00 20768.00 400000.00 325632.00

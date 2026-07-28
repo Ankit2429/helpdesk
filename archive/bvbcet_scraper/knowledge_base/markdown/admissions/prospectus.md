@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: prospectus"
+title: "Prospectus"
 category: "admissions"
 subcategory: "prospectus"
 document_type: "syllabus"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["acca", "course", "document", "engineering", "management", "prospectus", "semester"]
 aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE", "KLETech", "KLE Tech", "BVB", "BVBCET"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "12"
 ---
-# PDF Document: prospectus
- **PDF Source:** https://www.kletech.ac.in/pdf/prospectus.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/prospectus.pdf
  Ranked University
 Identies BVB (KLE Tech) as one of the 
 Five Places to watch globally for future 
@@ -34,7 +34,6 @@ Belagavi Campus
 E036
 E065
 E241
- ## Page 2
  ABOUT UNIVERSITY
 KLE Technological University (KLE Tech) has its roots in one of the premier engineering institutions of Karnataka, B. V. 
 Bhoomaraddi College of Engineering and Technology (BVB), a prestigious engineering college in Hubbali. The founding 
@@ -78,7 +77,6 @@ campuses in tier-II cities. We have incubated 82 startups on the campus, of whic
 Some of the noted alumni of the University are Mrs. Sudha Murthy, Chairman, Infosys Foundation, and Prof Anil 
 Sahasrabuddhe, Chairman, AICTE, Sri. Basavaraj Bommai, Former Chief Minister of Karnataka, Sri Murugesh Nirani, 
 Former Industry Minister, Govt of Karnataka
- ## Page 3
  With 296 institutions spread across Karnataka, Maharashtra, and Goa, each narrating their own amazing stories of 
 enriching people's lives, a harmony exists that is very palpable. Our alumni, settled in different parts of the world, 
 testify to our achievements and endeavours and are ambassadors promoting the 'Brand KLE' globally. Unmindful of 
@@ -120,7 +118,6 @@ Postgraduate Programs
 • Master of Computer Applications (MCA)
 • Master of Business Administration (MBA)
 B. V. Bhoomaraddi Campus, HubliCourses Oﬀered:
- ## Page 4
  Undergraduate Programs
 • B.E. in Biomedical Engineering
 • B.E. in Chemical Engineering
@@ -164,7 +161,6 @@ with giving technical, the programme curriculum will push students to think stra
 principles. Particularly in the industries of investment banking, management, and consulting, the ACCA qualification is 
 acknowledged and held in high regard. It offers the chance to work in a variety of technical fields, such as Corporate 
 Reporting, Tax, Governance, and Ethics, as well as Audit and Assurance, and Financial Management.
- ## Page 5
  Semester III
 1 Direct Taxation
 2 Social Media Analytics
@@ -221,7 +217,6 @@ No. Course
 S l .
 No. Course S l .
 No. Course
- ## Page 6
  1 Introduction to Fintech
 2 Forensic Accounting & Fraud Detection
 3 Financial Derivatives
@@ -267,7 +262,6 @@ Semester I Semester II
 S l .
 No. Course S l .
 No. Course
- ## Page 7
  1 Banking Operations Management
 2 Social Media Analytics
 3 Corporate accounting 
@@ -321,7 +315,6 @@ IV Year B. Com
 2 Climate change and sustainability
 3 Business Ethics 
 4 Internship in Audit Firm/Company
- ## Page 8
  BCA Curriculum Structure [Duration 3 Years (6 Semesters)]
 • Mathematics
 • Web Technology
@@ -375,7 +368,6 @@ Course Course
 II Year BCS
 Semester III Semester IV
 Course Course
- ## Page 9
  • Full Stack with MERN
 • Machine Learning
 • Big Data Analytics
@@ -418,7 +410,6 @@ Course Course
 III Year BCA 
 Semester V Semester VI
 Course Course
- ## Page 10
  ELIGIBILITY
 Second year (PUC-II)
 in any stream.
@@ -450,7 +441,6 @@ Fashion Photographer Ÿ
 EntrepreneurŸ 
 ADMISSIONS
 OPEN
- ## Page 12
  Highest 
 Package 43 LPA by 
  has selected Students

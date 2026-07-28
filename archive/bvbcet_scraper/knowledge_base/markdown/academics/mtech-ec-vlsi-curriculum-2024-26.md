@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: mtech-ec-vlsi-curriculum-2024-26"
+title: "Postgraduate in VLSI Design and Embedded Systems Curriculum"
 category: "academics"
 subcategory: ""
 document_type: "syllabus"
@@ -11,15 +11,14 @@ language: "en"
 keywords: ["chapter", "course", "curriculum", "design", "document", "mtech", "systems", "vlsi"]
 aliases: ["HOD", "Head of Department", "ECE", "EC", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "41"
 ---
-# PDF Document: mtech-ec-vlsi-curriculum-2024-26
- **PDF Source:** https://www.kletech.ac.in/pdf/mtech-ec-vlsi-curriculum-2024-26.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/mtech-ec-vlsi-curriculum-2024-26.pdf
  FMCD2009 / 2.0 1 
   Curriculum Structure and Curriculum Content for the Academic Batch- 2024-26 
 School /Department: Electronics & Communication Engineering 
 Program: Postgraduate in VLSI Design and Embedded Systems 
- ## Page 2
  FMCD2009 / 2.0 2 
   Table of Contents 
 Vision and Mission of KLE Technological University ........................................................... 2 
@@ -31,7 +30,6 @@ Semester - II ..................................................................
 Semester- III ................................................................................................................... 39 
 Semester- IV ................................................................................................................... 41 
 Curriculum Content- Course wise 
- ## Page 3
  FMCD2009 / 2.0 3 
   Vision and Mission 
 Vision 
@@ -49,7 +47,6 @@ the boundaries of disciplinary and interdisciplinary knowledge and its
 applications. 
 3. To collaborate within and beyond the discipline to create solutions that 
 benefit humanity and society. 
-  ## Page 4
  FMCD2009 / 2.0 4 
   Program Educational Objectives (PEO's) 
 1. Graduates will de monstrate peer - recognized technical competency to 
@@ -64,7 +61,6 @@ development through pursuing higher education, and self-study.
 4. Graduates will be commit ted to creative practice of engineering and 
 other professions in a responsible manner contributing to the socio - 
 economic development of the society. 
-  ## Page 5
  FMCD2009 / 2.0 5 
   Program Outcomes (PO's) 
 The graduates will have, 
@@ -79,7 +75,6 @@ pertaining to VLSI Design and Embedded Systems.
 5. An ability to work with integrity and ethics in their professional practice, having an 
 understanding of responsibility towards society with sustainable devel opment for 
 lifetime. 
- ## Page 6
  Curriculum Structure-Overall 
 Semester Total Program Credits: 88 
 Course with Course Code 
@@ -135,7 +130,6 @@ project
 0-0-10 Mini Project 
 0-0-3 
 Credits 23 27 18 20 
- ## Page 7
  FORM 
 ISO 21001:2018 
 Document #: FMCD2004 
@@ -173,7 +167,6 @@ Hours ISA ESA Total
   RISC Architectures and Programming 
   4 0 1 50 50 100 5 3 hours 
   TOTAL 15 0 8 360 340 700 23 
- ## Page 8
  FORM 
 ISO 21001:2018 
 Document #: FMCD2004 
@@ -217,7 +210,6 @@ Hours ISA ESA Total
 25EVEE707 AUTOSAR 
 8 19EVEW701 Mini Project 0 0 3 50 50 100 3 3 hours 
   TOTAL 18 0 9 490 310 800 27 
- ## Page 9
  FORM 
 ISO 21001:2018 
 Document #: FMCD2004 
@@ -240,7 +232,6 @@ Hours ISA ESA Total
   2 
   17EVEW801 Project Phase I / Minor project 0 0 10 50 50 100 10 3 hours 
     TOTAL 0 0 18 100 100 200 18 
- ## Page 10
  FORM 
 ISO 21001:2018 
 Document #: FMCD2004 
@@ -276,7 +267,6 @@ Hours ISA ESA Total
   100 
   150 
   20 
- ## Page 11
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -330,7 +320,6 @@ Lab:
 12. Design and implement linked list data structures Project 
 13. Project 
   Back to sem_1 
- ## Page 12
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -372,7 +361,6 @@ Chapter 05: Reference Circuits: (08 hrs.)
 Current reference, startup circuits, Bandgap reference circuit, Current mode Bandgap reference. 
 Chapter 06: Comparators: (06 hrs.) 
 Basic Comparator architecture, non-idealities-offset error, bandwidth consideration, Dynamic comparator 
-  ## Page 13
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -413,7 +401,6 @@ Chapter 06. Combinational CMOS Circuit Design (05 hrs.)
 Pseudo nMOS, Clocked CMOS, Dynamic CMOS Logic Circuits, Dual-rail Logic Networks: CVSL, CPL. 
 Chapter 07. Sequential CMOS Circuit Design (05 hrs.) 
 Sequencing static circuits, Circuit design of latches and flip-flops, Clocking- clock generation, clock distribution. 
- ## Page 14
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -446,7 +433,6 @@ References
 6. Design a Phase Detector using D-FF 
 7. Design complex combinational circuits and analyze the performance using Cadence tool. 
   Back to sem_1 
-  ## Page 15
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -483,7 +469,6 @@ References
 1. Digital Design by Morris Mano M, 4th Edition. 
 2. Verilog HDL: A Guide to Digital Design and Synthesis by Samir Palnitkar, 2nd Edition. 
 3. Principles of VLSI RTL Design: A Practical Guide by Sapan Garg, 2011. 
-  ## Page 16
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -527,7 +512,6 @@ Text Books:
      formerly head of Baidu AI Group/Google Brain https://www.coursera.org/learn/machine-learning# 
         2. Trevor Hastie, Robert Tibshirani, Jerome Friedman, The Elements of Statistical Learning: Data Mining, 
       Inference and Prediction, 2, Springer, 2009 
- ## Page 17
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -546,7 +530,6 @@ Year: 2024-26
 2. Motivate students to take up open challenges like Kaggle, walmart, ect 
 3. To explore different Machine Learning Tools/ Libraries. 
   Back to sem_1 
-  ## Page 18
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -598,7 +581,6 @@ Reference Books:
 5. Kai Hwang, "Advanced Computer Architecture - TMH - 1993 
 6. Web resources for Example Architectures of INTEL and Texas Instruments: 
 http:/ /download.intel.com/design/inarch/papers/ 321087.pdf 
- ## Page 19
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -649,7 +631,6 @@ Manual
 1. LPC2148 datasheet by NXP. 
 2. LPC2148 board manual by ALS, Bangalore 
   Back to sem_1 
-  ## Page 20
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -682,7 +663,6 @@ Reference Books:
 1. Verbal and Non - Verbal Reasoning - Dr. Ravi Chopra, MacMillan India 
 2. Lateral Thinking - Dr. Edward De Bono, Penguin Books, New Delhi 
   Back to sem_2 
-  ## Page 21
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -735,7 +715,6 @@ Diagnosis, Diagnostic procedures and sequence, On board and off board diagnostic
 Concept of DTCs, DLC, MIL, Freeze Frames, History memory, Diagnostic tools, Diagnostic protocols: KWP2000 and 
 UDS. 
    Text books: 
- ## Page 22
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -766,7 +745,6 @@ hardware platform.
 8. Develop matlab code for stepper motor control and convert it to Simulink model and port it to embedded 
 hardware 
   Back to sem_2 
-  ## Page 23
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -802,7 +780,6 @@ Development process, requirements engineering, design, implementation, integrati
 configuration management, managing embedded system development, embedded system fiascos. 
 Chapter 06. Current trends, ethical & environmental issues (05 hrs.) 
 The students shall give seminars on current trends in the field of RTES, ethical, & environmental issues. 
- ## Page 24
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -828,7 +805,6 @@ References
 6. C. M. Krishna, "Real Time Systems" MGH, 1997 
 7. Jane W.S. Liu, "Real-Time Systems", Pearson Education Inc., 2000 
   Back to sem_2 
-  ## Page 25
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -869,7 +845,6 @@ Text Books
 features - Springer, 2012 
   Tools: Questa Sim, NC Verilog, NC Sim, CVER + GTKWave, VCSMX, Modelsim for Verilog 
   Back to sem_2 
-  ## Page 26
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -915,7 +890,6 @@ Education (Asia) Pvt. Ltd.,
 Implementation assignments are designed using OpenCV/C++ to explore the concepts like 
 1. Image enhancement techniques 
 2. Image transforms 
- ## Page 27
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -937,7 +911,6 @@ f. Remote sensing
 5. Track an object in video 
 6. Optimal use of surveillance video 
   Back to sem_2 
-  ## Page 28
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -970,7 +943,6 @@ Text Books
 Reference Books 
 1. Phillip. E. Allen, Douglas R. Holberg, "CMOS Analog circuit Design" Oxford University Press, 2002. 
   Back to sem_2 
-  ## Page 29
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1008,7 +980,6 @@ Text Book / Reference:
 References: 
 Micro system Design , Stephen D. Senturia, Kluwer Academic Publishers, 2001. 
   Back to sem_2 
-  ## Page 30
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1050,7 +1021,6 @@ Reference books
 Circuits, Kluwer Academic Publishers, 2001. 
 3. Thomas Kropf, "Introduction to Formal Hardware Verification", Springer 1999. 
   Back to sem_2 
-  ## Page 31
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1092,7 +1062,6 @@ processing", Prentice Hall, 1994.
 4. Mohammed Ismail and Terri Fiez, "Analog VLSI Signal and Information Processing ", McGraw Hill, 1994. 
 S. Y. Kung, H. J. Whilo House, T. Kailath, "VLSI and Modern Signal Processing", Prentice Hall, 1985. 
 Back to sem_2 
-  ## Page 32
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1138,7 +1107,6 @@ Jersey: IEEE Press, 1994
 6. Miczo. Digital Logic Testing and Simulation, John Wiley & Sons, 1987. 
 7. Barry Johnson. Design and Analysis of Fault-Tolerant Digital Systems, Addison Wesley, 1989. 
   Back to sem_2 
- ## Page 33
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1177,7 +1145,6 @@ The Art of Analog Layout - Alan Hastings
 CMOS IC layout - Dan Clien 
 IC Layout Basics - Chris saint and Judy saint 
   Back to sem_2 
-  ## Page 34
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1222,7 +1189,6 @@ Reference Books:
 3. Laung-Terng Wang, Charles E. Stroud, Nur A. Touba, "System-on-chip Test Architectures", 2008. 
 4. Kaushik Roy, Sharat Prasad, "Low-Power CMOS VLSI Circuit Design" Wiley, 2000. 
   Back to sem_2 
-  ## Page 35
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1268,7 +1234,6 @@ Arduino, Android and AWS based Experiments
 7. Android Application development. 
 8. Controlling of Arduino embedded system using Android App. 
 9. Motor Speed control using Embedded board and NodeMCU 
-  ## Page 36
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1299,7 +1264,6 @@ Protocols" John Wiley & Sons - 2012.
 Reference Books: 
 Subhas Chandra Mukhopadhyay "Internet of Things Challenges and Opportunities" Springer- 2014. 
   Back to sem_2 
-  ## Page 37
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1343,7 +1307,6 @@ management, Protocol data unit router, Diagnostic log and trace unit, COMM manag
 Text Book (List of books as mentioned in the approved syllabus) 
 1. Ronald K. Jurgen, Infotainment systems, 2007, SAE International, 2007 
   Back to sem_2 
-  ## Page 38
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1376,7 +1339,6 @@ Semester end examination (SEE) includes submission of the project report, demons
 and viva-voce conducted by the external and internal examiner. SEE carries 50% weightage of total marks of 
 mini-projects. 
    Back to sem_2 
- ## Page 39
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1413,7 +1375,6 @@ Semester end examination (ESA) includes submission of the project report, demons
 and viva-voce conducted by the external and internal examiner. ESA carries 50% weightage of total marks of mini-
 projects. 
   Back to sem_III 
-  ## Page 40
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1433,7 +1394,6 @@ ISA Marks: 50 ESA Marks: 50 Total Marks: 100
 12 weeks' duration shall be ca rried out. Candidates in consultation with the guides shall carryout literature 
 survey / visit to Industries to finalize the topic of dissertation. Evaluation of the same shall be taken up during 
 end of III Semester. 
- ## Page 41
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1453,5 +1413,4 @@ ISA Marks: 50 ESA Marks: 100 Total Marks: 150
 24 weeks' duration. Evaluation shall be taken during the end of the IV Semester. Need to present three reviews 
 during the project work. Evaluation shall be taken up during the end of IV Semester. At the end of the Semester 
 Project Work Evaluation and Viva-Voce Examinations will be conducted. 
-  Back to sem_IV 
-  
+  Back to sem_IV

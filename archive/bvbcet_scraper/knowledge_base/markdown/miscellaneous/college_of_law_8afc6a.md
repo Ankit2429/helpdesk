@@ -43,4 +43,3 @@ last_modified: "2026-07-28"
  The internship and placement cell at the KLE Law College serves as a comprehensive career counselling and resource centre for all students
  ### Happenings
  Keep up to Date with News, Events and Media Coverage.
- 

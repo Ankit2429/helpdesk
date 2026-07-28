@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 10th_BOG_Minutes"
+title: "BOG Minutes"
 category: "miscellaneous"
 subcategory: ""
 document_type: "syllabus"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["budget", "document", "students", "tech", "total", "university"]
 aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE", "KLETech", "KLE Tech", "BVB", "BVBCET"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "141"
 ---
-# PDF Document: 10th_BOG_Minutes
- **PDF Source:** https://www.kletech.ac.in/pdf/10th_BOG_Minutes.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/10th_BOG_Minutes.pdf
  Minutes 
   10th Board of Governors Meeting 
 of 
@@ -23,7 +23,6 @@ Hubballi, Karnataka
 December 9th, 2018 at 2.00 pm 
   Venue: Conference Room, NOVOTEL Hotel 
 PUNE 
-  ## Page 2
  ii 
   The following are the minutes of the Board of Govern ors Meeting of KLE Technological 
 University, Hubballi which was held on 9 th December 2018 at 2.00 pm. at the Conference 
@@ -77,7 +76,6 @@ Member
 Registrar 
 KLE Technological University, Hubballi 
 Registrar 
- ## Page 3
  iii 
   Agenda 
   Item No. Particulars Page No 
@@ -113,7 +111,6 @@ Annexure 2: Budget proposal for the year 2019-20
 Annexure 3: 'Intellectual Property (IP) Policy' of the University 
 Annexure 4: Scheme and Syllabi of 'Advanced Manufac turing for Aerospace 
 Applications' Minor Program 
-  ## Page 4
  1 
   BOG 
 10. 1 
@@ -172,7 +169,6 @@ Government of Karnataka.
 Member 
   BOG 9.1 To confirm the minutes of the previous meeting held on 24th March 2018. 
 Discussion: The member secretary requested honorable members fo r any observations 
- ## Page 5
  2 
   or comments on the minutes of the 8 th BOG meeting, which was circulated earlier. 
 There were no specific comments or observations on minutes of 8th meeting. 
@@ -214,7 +210,6 @@ UGC/AICTE. Participating in the discussions Smt. Sudh a Murty expressed the need
 SBSI and expressed that to become excellent engineer one should be excellent human 
 being. Further madam wanted to know whether University is giving any financial help to 
 BE completed students to start their company. To this Vice-Chancellor said that at 
- ## Page 6
  3 
   present only space, furniture and electricity are give n, capital should be brought by the 
 graduates who wish to start their company. Prof. B.S. Sonde suggested having neutral 
@@ -252,7 +247,6 @@ permission to:
 Hubballi. 
  Get Fixed Deposits issued from Axis Bank, Vidyanagar Branch for any specified 
 amount as per the requirement of the University. 
-  ## Page 7
  4 
   Table Agenda 2: To consider and accord permission t o raise a loan of Rs.10.00 Crores 
 towards construction of Indoor Stadium. 
@@ -273,7 +267,6 @@ specific comments or observations on minutes of 9th meeting.
   Resolution 10.1: The Board of Governors confirmed t he minutes of 
 its 9th meeting of the Board of Governors held on 11 th June 2018 at 
 the Senate Hall of the KLE Technological University, Hubballi. 
-  ## Page 8
  5 
   BOG 
 10. 2 
@@ -305,7 +298,6 @@ Chairman of AICTE Examination Committee. To this Dr . Shettar informed the
 The Board noted and approved the action taken repor t 
 on the minutes of the 9 th meeting of the Board of 
 Governors held on 11th June 2018. 
- ## Page 9
  6 
   major reforms suggested in his report. He said the first part is about 
 assessment; splitting 'Programme Outcomes' into Com petencies and further 
@@ -354,7 +346,6 @@ Security and Surveillance 4 8 7
 IOT enabled resource 
 management 
 4 6 3 
- ## Page 10
  7 
   brought by the graduates who wish to start their co mpany. Prof. B.S. Sonde 
 suggested having neutral examiners to assess 'Start -up Internship Experience' 
@@ -393,7 +384,6 @@ industry mentor from the startup company
 monitored the progress. During 8 weeks of 
 internship 2 reviews were conducted to award the 
 marks. 
- ## Page 11
  8 
   BOG 9.4 To consider and discuss the appointment of Vice-cha ncellor and Registrar for 
 the second term. 
@@ -429,7 +419,6 @@ DMG MORI for our MakerSpace.
  The loan of Rs. 10.00 crores towards 
 construction of Indoor stadium will be raised 
 shortly. 
-  ## Page 12
  9 
   Branch, Hubballi. 
  Open Fixed Deposits at Axis Bank, Vidyanagar Branch for any 
@@ -450,7 +439,6 @@ June 2018.
 crores loan towards construction of Indoor stadium and it is expected to be sanctioned by the bank shortly. 
   Resolution 10.2: Resolved to confirm the action taken report on the minutes of the previous meeting 
 held on 11th June 2018. 
-  ## Page 13
  10 
   BOG 
 10. 3 
@@ -491,7 +479,6 @@ Resolution 4.4: Resolved to approve the term loan of Rs. 10 crores du ring F.Y 2
 and Rs. 7.5 crores in F.Y . 2019-20 for major capital expenditures. 
 Note: The loan for Rs.10 crores was approved in the 1st Finance Council Meeting. But one 
 of the projects did not begin as planned and only Rs . 4 crores was utilized, hence fresh 
- ## Page 14
  11 
   approval is taken for the year 2018-19. 
 Action Requested: The BOG is requested to consider and approve the 
@@ -507,7 +494,6 @@ financial year 2017-18, budget for the year 2019-20 and term loan of
 Rs. 10 crores during F.Y 2018-19 and Rs. 7.5 crores in F.Y. 2019-20 
 for major capital expenditures as recommended by th e 4 th Finance 
 Council, which was held on 14th September 2018. 
-  ## Page 15
  12 
   BOG 
 10. 4
@@ -532,7 +518,6 @@ and using their research facilities (significant resources).
 Members expressed satisfaction over the 'IP Policy' of the University. 
   Resolution 10.4: Resolved to approve the 'Intellectual Property (IP) 
 Policy' of the University. 
-  ## Page 16
  13 
   BOG 
 10. 5 
@@ -561,7 +546,6 @@ ensure the operational effectiveness by timely attainment of results.
 made in implementation of the 'Strategic Plan' of t he KLE 
 Technological University and asked to focus on few goals at a time to 
 get maximum impact. 
-  ## Page 17
  14 
   BOG 
 10. 6 
@@ -605,7 +589,6 @@ to enhance the employability of our students in the field.
 Minor Program in 'Advanced Manufacturing for Aerospace Applications' 
 15 credits, 5 courses + Final semester project in an Aerospace Sub systems' Manufacturing 
 Company.
-  ## Page 18
  15 
   Action Requested: The BOG is requested to discuss and ratify instituti on of 'Advanced 
 Manufacturing for Aerospace Applications' undergrad uate Minor programme and also note 
@@ -615,7 +598,6 @@ courses.
   Resolution 10.6: BOG ratified the institution of Und ergraduate Minor 
 Programme in 'Advanced Manufacturing for Aerospace Applications' 
 and noted the scheme and syllabi of the programme. 
-  ## Page 19
  16 
   BOG 
 10. 7 
@@ -643,7 +625,6 @@ Shettar, VC mentioned that NBA has identified KLE Te ch as one of the two instit
 'Washington Accord' team will visit during September 2019. 
   Resolution 10.7: BOG approved the Annual report of the University 
 for the academic year 2017-18. 
-  ## Page 20
  17 
   BOG 
 10. 8 
@@ -672,18 +653,15 @@ better learning environment to students and give them a multi-cultural exposure.
 entered into a MoU with Coventry University, one of the leading universities of United Kingdom. 
 Resolution 10.8b: Resolved to ratify the Memorandum of Understanding with 
 Coventry University, United Kingdom. 
- ## Page 21
  18 
   Annexure-1 
 [Audited Statements of the Financial Year 2017-18] 
- ## Page 22
  4
 AUDIT REPORT 2017-18
 Financials
 KLE Technological University, Hubballi
 Income and Expenditure Statement for the year 2017-18
 (Includes Capital Expenditures)
- ## Page 23
  5
 AUDIT REPORT 2017-18
 We have conducted the audit of the  inancial transactions of KLE TECHNOLOGICAL UNIVERSITY, 
@@ -709,57 +687,40 @@ hitherto, the said accounts, read with notes thereon, give,
      ii) In case of Balance Sheet , the State of Aﬀairs as on that date.
 PLACE: HUBBALLI
 DATE : 10/09/2018
- ## Page 24
  6
 AUDIT REPORT 2017-18
- ## Page 25
  7
 AUDIT REPORT 2017-18
- ## Page 26
  8
 AUDIT REPORT 2017-18
- ## Page 27
  9
 AUDIT REPORT 2017-18
- ## Page 28
  10
 AUDIT REPORT 2017-18
- ## Page 29
  11
 AUDIT REPORT 2017-18
- ## Page 30
  12
 AUDIT REPORT 2017-18
- ## Page 31
  13
 AUDIT REPORT 2017-18
- ## Page 32
  14
 AUDIT REPORT 2017-18
- ## Page 33
  15
 AUDIT REPORT 2017-18
- ## Page 34
  16
 AUDIT REPORT 2017-18
- ## Page 35
  17
 AUDIT REPORT 2017-18
 KLE TECHNOLOGICAL UNIVERSITY
 BVB College Campus, Vidyanagar, Hubballi-31
 Details Of Fixed Assets And Depreciation As On 31st March 2017Depreciation Schedule - 17A (Amount in Rs)
- ## Page 36
  18
 AUDIT REPORT 2017-18
- ## Page 37
  19
 AUDIT REPORT 2017-18
- ## Page 38
  20
 AUDIT REPORT 2017-18
- ## Page 39
  1
- ## Page 40
   Amount (Rs) 
 Sl. 
 No INCOME Sch Budget 2017-18 Actual 2017-18 Budget 2018-19 Budget 2019-20
@@ -822,7 +783,6 @@ EXPENDITURE
 Total Revenue Expenditure
 Principal Repayment of Borrowings
 3
- ## Page 41
  Academic Receipts Schedule I - 1
 Amount (Rs)
 Sl. 
@@ -868,7 +828,6 @@ Annexure A
 Annexure B
 Annexure C
 4
- ## Page 42
  Grants & Donation Schedule I - 2
 Amount (Rs)
 Sl. 
@@ -894,7 +853,6 @@ No Particulars Sch Budget 2017-18 Actual 2017-18 Budget 2018-19 Bud get 2019-20
 Note: WRT Sl. No. 4, Miscellaneous Income for Budget 2018-19 includes Consultancy Revenue.
 Note: Research Grant of Rs.80 Lakhs is likely to be released from Government in the year 2019-20.
 5
- ## Page 43
  Staff Payment and Benefits Schedule E- 1
 Amount (Rs)
 Sl. No Pariculars Budget 2017-18 Actual 2017-18 Budget 2018-19 Budget 2019-20
@@ -949,7 +907,6 @@ committee Visit expenses around 10 lakhs, hence there is deviation.
 1)WRT Sl. No. 11, A new Insurance policy was taken for students in the year 2017-18, hence deviation. Budget 2019-20 is based on the 
 number of students.
 6
- ## Page 44
  Transportation expenses Schedule E- 4
 Amount (Rs)
 Sl. No Pariculars Budget 2017-18 Actual 2017-18 Budget 2018-19 Budget 2019-20
@@ -1008,7 +965,6 @@ Note : As the Indoor stadium project was not started in 2017-18, hence deviation
 19 and will continue till 2019-20.
 3. Loan expected to be released of Rs.4 Crores in 2017-18, was released in April 2018 hence deviation in the borrowings.
 7
- ## Page 45
  1. Tution Fees (Amt in Rs)
 Tution Fees - 1st Year
 Particulars Civil Mechanical Electronics & 
@@ -1103,7 +1059,6 @@ Government Quota (Including Lateral)
 University Quota (Including Lateral)
 TOTAL - E 
 8
- ## Page 46
  2. University Examination Fees (Amt in Rs)
 Particulars Fees No of Students Total 
 Annual Examination Fees 2, 500.00 4216 10, 540, 000.00 
@@ -1124,7 +1079,6 @@ Total
 Note: For Academic Receipts 100% intake is budgeted for 1st year students whereas remaining years is 
 budgeted on the current year strength of students.
 9
- ## Page 47
  1. Tution Fees (Amt in Rs)
 Particulars Govt. Quota Amount (Rs) TOTAL University 
 Quota Amount (Rs) TOTAL
@@ -1173,7 +1127,6 @@ Total
 Note: For Academic Receipts 100% intake is budgeted for 1st year students whereas remaining years is budgeted on the current 
 year strength of students.
 10
- ## Page 48
  1. Tution Fees (Amt in Rs)
 Particulars Govt quota University Quota Total
 1st Year
@@ -1208,7 +1161,6 @@ Grand Total (A+B)
 Total
 Total
 11
- ## Page 49
  1. Tution Fees (Amt in Rs)
 Particulars Govt quota University Quota Total
 1st Year
@@ -1248,9 +1200,7 @@ Grand Total (A+B+C)
 Note: For Academic Receipts 100% intake is budgeted for 1st year students whereas remaining years is budgeted 
 on the current year strength of students.
 12
- ## Page 50
  13
- ## Page 51
   Amount (Rs) 
 Sl. 
 No INCOME Sch Budget 2017-18 Actual 2017-18 Budget 2018-19 Budget 2019-20
@@ -1306,7 +1256,6 @@ Total
 EXPENDITURE
 Total Revenue Expenditure
 15
- ## Page 52
  Academic Receipts Schedule I - 1
 Amount (Rs)
 Sl. 
@@ -1343,7 +1292,6 @@ Annexure
 A
 Income From Investments
 16
- ## Page 53
  Staff Payment and Benefits Schedule E- 1
 Amount (Rs)
 Sl. 
@@ -1397,7 +1345,6 @@ Note: WRT Sl. No.7 Tablet and other kits expenses is divided proportionately bet
 in the budget 2017-18 whole expenditure was shown in only unaided section.
 1) WRT Sl. No.9, A new Insurance Policy for students was taken in 2017-18, hence deviations in actuals & Budget 2017-18
 17
- ## Page 54
  Repairs & Maintenance Schedule E- 5
 Amount (Rs)
 Sl. 
@@ -1431,7 +1378,6 @@ Notes:
 students and nature of expenditure.
 1. Budgets are Based on accrual Method of accounting.
 18
- ## Page 55
  Tuition Fees - 1st Year Civil Mechanical Electronics & 
 Communication
 Electrical and 
@@ -1505,9 +1451,7 @@ Total
 3. Other fees
 Total
 19
- ## Page 56
  21
- ## Page 57
   Amount (Rs) 
 Sl. 
 No INCOME Sch Budget 2017-18 Actual 2017-18 Budget 2018-19 Budget 2019-20 
@@ -1572,7 +1516,6 @@ BVB COLLEGE CAMPUS, HUBBALLI-580031
 CONSOLIDATED BUDGET ESTIMATES FOR THE YEAR 2019-2020
 Summary of Revenue and Capital Income and Expenditure
 23
- ## Page 58
  Academic Receipts Schedule I - 1
 Amount (Rs)
 Sl. 
@@ -1616,7 +1559,6 @@ Annexure A
 Annexure B
 Annexure C
 24
- ## Page 59
  Grants & Donation Schedule I - 2
 Amount (Rs)
 Sl. 
@@ -1641,7 +1583,6 @@ No Particulars Sch Budget 2017-18 Actual 2017-18 Budget 2018- 19 Budget 2019-20
 4 Miscellaneous Income 715, 000.00 1, 098, 749.00 525, 000.00 3, 025, 000.00 
  Total 3, 277, 000.00 6, 267, 859.00 4, 987, 000.00 9, 337, 000.00 
 25
- ## Page 60
  Staff Payment and Benefits Schedule E- 1
 Amount (Rs)
 Sl. 
@@ -1699,7 +1640,6 @@ Total 380, 000.00 704, 839.00 600, 000.00 1, 620, 000.00
 KLE TECHNOLOGICAL UNIVERSITY
 Schedules Annexed to Expenditure Budget of Aided and Unaided Courses
 26
- ## Page 61
  Repairs & Maintenance Schedule E- 5
 Amount (Rs)
 Sl. 
@@ -1747,7 +1687,6 @@ No Pariculars Budget 2017-18 Actual 2017-18 Budget 2018-19 Budge t 2019-20
 Total (Amount in Rs) 125, 000, 000.00 66, 452, 727.00 125, 000, 000.00 125, 000, 000.00 
 Note : As the Indoor stadium project was not started in 2017-18, hence deviations in the Buildings Budget. The same will start in 2018-19 
 27
- ## Page 62
  (Amount in Rs)
  Upto 
 30/09/2017 
@@ -1844,12 +1783,10 @@ year
 as on 31-3-18 
 (A) 
 28
- ## Page 63
  Intellectual Property (IP) Policy, KLE Technological University, Hubballi 
   Annexure-3 
 The Intellectual Property (IP)
  Policy 
-  ## Page 64
  Intellectual Property (IP) Policy, KLE Technological University, Hubballi 
 The Intellectual Property (IP) Policy 
   of 
@@ -1857,7 +1794,6 @@ The Intellectual Property (IP) Policy
   2018 
   May 
 2018
-  ## Page 65
  Intellectual Property (IP) Policy, KLE Technological University, Hubballi 
 2 
   Section II: IntellectualProperty (IP) Policy, KLE Tech, Hubballi. 
@@ -1882,7 +1818,6 @@ Usage
 3. Annexure 3 Revenue Sharing Structure 
 4. Annexure 4 Role of Dean ( Research and Development) 
 5. Annexure 5 Relevant Contracts and Agreements 
-  ## Page 66
  Intellectual Property (IP) Policy, KLE Technological University, Hubballi 
 3 
   The IntellectualProperty Policy of KLE Tech- 2018 
@@ -1908,7 +1843,6 @@ genericpositionofKLE Tech.TheInventionsrelatedIPPol icyrelatestopatent, design, 
 trademark, bio-diversity and related rights whilst the ExpressionsrelatedIPPolicy 
 detailthesubprocesses, varioussituationsandrequireddo cumentationwillbeincluded as part 
 ofthe implementationofthis policy. 
-   ## Page 67
  Intellectual Property (IP) Policy, KLE Technological University, Hubballi 
 4 
   PartB: 
@@ -1949,7 +1883,6 @@ party. An agreement (Annexure 5) is signed regarding sharing of monetized valueo
 KLE Tech. In this scenario IP rights are mutually agree d upon by external party and KLE Tech - 
 before the start of the collaboration, and an agreement (Annexure 5) is signed regarding 
 sharing of monetized IP value. IP rights can be filed jointly by KLE Tech or a third party. 
-  ## Page 68
  Intellectual Property (IP) Policy, KLE Technological University, Hubballi 
 5 
   I-C)When IP is generated by KLE Tech students and personn el while working with an external 
@@ -1990,7 +1923,6 @@ exceptions, KLE Techmight considerexclusive licensing.
 resources/efforthavetobeinvestedbythe licenseeinusi ngthe IP, KLE Tech might 
 considerprovidinganapplicationand/or regionspecificor afullscaleexclusive license. Due-
 diligence, notlimitingtobusinessplan, businessmodel, milestones andusageplanof 
- ## Page 69
  Intellectual Property (IP) Policy, KLE Technological University, Hubballi 
 6 
   theIPindiscussionandotherrelevant informationasrequir ed, wouldbeundertaken, in order to 
@@ -2032,7 +1964,6 @@ naterevenue sharing agreement.Details of royaltysharin gare givenin Annexure 3.S
 features of the licensingincludethe following: 
   i. Preferred mode is Non Exclusive licensing. Exceptio ns to this will be based on the 
 funding of the project and any other relevant requirements. 
-  ## Page 70
  Intellectual Property (IP) Policy, KLE Technological University, Hubballi 
 7 
   ii. Exclusive license will be subjected to periodic rev iew of license not limiting to usage 
@@ -2073,7 +2004,6 @@ needtoindemnifyKLE Tech personnelbuiltintothelicens eagreementsfor
 Sponsoredresearchandconsultativework.KLE Techshallret aintherighttoengage inany litigation 
 concerning itsIPand license infringements. 
   VII. Conflict ofInterest 
- ## Page 71
  Intellectual Property (IP) Policy, KLE Technological University, Hubballi 
 8 
   Theinventor(s)arerequiredtodisclosepotentialconflictofinterestwhileundertaking 
@@ -2093,7 +2023,6 @@ is final.
   IX. Jurisdiction 
   Allagreements to be signed by KLE Techwillhave the ju risdictionofthe court inKarnataka and 
 shallbe governed by appropriate lawsof India. 
-  ## Page 72
  Intellectual Property (IP) Policy, KLE Technological University, Hubballi 
 9 
   PartC: The Inventionsrelated IP Policy 
@@ -2110,7 +2039,6 @@ inpublic disclosurefor thepurposeofIP protection, sh ouldusually not haveeffectf
 longerthanthreemonthsfromthetimeofnotification byKLE Techtothesaid agency. 
   TheapplicabilityoftheIPpolicywillbecoveredthroughappropriateformstobefilled by the KLE 
 Tech personnel. 
-  ## Page 73
  Intellectual Property (IP) Policy, KLE Technological University, Hubballi 
 10 
   2. Relevant inventions and Ownership 
@@ -2151,7 +2079,6 @@ ofrefusaltowardscommercialization.
 iii. Inthecaseofacollaborative/multipleconsortiumbasedIPgeneration, theIPtermsofsuch
 agreementistobeconsideredalongwiththepolicy.Intheabsenceofany specificmutually 
 agreed IP agreementinsuch cases, KLE Tech followsits IP policy. 
- ## Page 74
  Intellectual Property (IP) Policy, KLE Technological University, Hubballi 
 11 
   iv. KLE 
@@ -2178,7 +2105,6 @@ otherexternal party and also to requestany material fromexternal agency.
   Suchagreementsaretobefinalizedinconsultationwith KLE Te ch for allmaterials transferredto 
 and fromexternal agencies. 
   *~~* End ofInventionsrelated IPPolicy*~~* 
-  ## Page 75
  Intellectual Property (IP) Policy, KLE Technological University, Hubballi 
 12 
   Part D: The ExpressionsrelatedIP Policy 
@@ -2213,7 +2139,6 @@ istreated separatelyforthe various creationsidentified.
   1. KLE Techacknowledgesthattheauthor 
 istheownerofteachingmaterialscreatedforteachingpurposesduringauthor'sengagement
 with/stay at KLE Tech. 
- ## Page 76
  Intellectual Property (IP) Policy, KLE Technological University, Hubballi 
 13 
   2. Asmostofthecoursecontentiscreatedcumulativelyandinordertoenablea widerusageand 
@@ -2249,7 +2174,6 @@ Dean R&Dfor a resolutionprocess.
 educationalandresearchrequirements.KLE Techmay notprefe r theuseofNDAforits thesis 
 evaluation. 
   9. KLE Tech getsan automaticrightto display the thesisinsoftandhard forms 
-  ## Page 77
  Intellectual Property (IP) Policy, KLE Technological University, Hubballi 
 14 
   Books, articles and related literary works 
@@ -2265,7 +2189,6 @@ the ownership rests with KLE Tech.
 anyother typeofpublicationarerequiredtoseeka prior wri ttenapprovalfrom Dean R&D -KLE 
 Tech. 
   *~~* End of Expressions related IP Policy*~~* 
-  ## Page 78
  Intellectual Property (IP) Policy, KLE Technological University, Hubballi 
 15 
   Part E: 
@@ -2305,7 +2228,6 @@ TechshalltreatallIP related informationwhich hasbeendisclosedtotheKLE
 Techand/orwhoserightsare assignedtoKLE Tech, or whos erights rest with KLE Tech 
 personnel, and/or whose rights are jointly owned as co nfidential. Such confidentialityshallbe 
 maintained till thedate asdemandedby the relevant cont ract, if any, betweenthe 
- ## Page 79
  Intellectual Property (IP) Policy, KLE Technological University, Hubballi 
 16 
   concernedpartiesunlesssuch knowledge isinthepublicdo mainor is generally available to the 
@@ -2342,7 +2264,6 @@ Techshallnotclaim anyshareof proceedsearnedthroughthatI P inthat countryexceptin
 costsalready incurred by KLE Tech. 
   Annexure 3- Revenue Sharing 
   Net earnings from the commercializationof IP owned by KLE Techwould be shared as follows: 
-  ## Page 80
  Intellectual Property (IP) Policy, KLE Technological University, Hubballi 
 17 
   1. Theinventor(s)/creator(s)sharewouldbedeclaredannually(orasrevenuesare 
@@ -2381,11 +2302,9 @@ any KLE Techpersonnelneedto be approved by KLE Tech.
   DeanR&Dactsasthefinalsigningauthorityin allcategoriesofagr eementslistedabove. Dean R&D 
 facilitatestheprocessofframingsuchagreementsbywayofprovidingtemplates and 
 servicesthrough professional consultants. 
- ## Page 81
  Annexure -4 
 Advanced Manufacturing for Aerospace Applications 
 Curriculum Scheme and Structure 
-  ## Page 82
  Minor Program: Advanced Manufacturing for Aerospace Applications 11/06/2018 
 Curriculum Scheme and Structure (2016-20) 
 Offered in collaboration with AEQUS-Aerospace sub system Manufacturers 
@@ -2423,7 +2342,6 @@ Use of software to machine pockect milling, Drilling and tapping.
 2 
   Total 
         24 
-  ## Page 83
  2).Practicals CNC: M17EASL301 
 Details No of 
 hrs 
@@ -2478,7 +2396,6 @@ manufacturing-demo at AEUS
 cutters, how much length of flute to be used in milling, ratio of depth of cut in radial 
 and axial in end mills, Optimum L/D rato ,type of cycles to be used for pocket milling 
 4 
- ## Page 84
  either circular or straight cuts etc 
 Total 34 
 4)Quality Management systems QMS : M17EASC303 
@@ -2532,14 +2449,12 @@ stage.
 6) The students in a batch of 2 have to continuosly inte ract with the 
 faculty till it is approved by coordinator 
 Total 160 hrs 
- ## Page 86
  Vidyanagar
 Huballi (India)
 www.kletech.ac.in
 2017 -1 8REPORT
 ANNUAL
 KLE Technological University
- ## Page 87
  Our Parent Organization: 
 Karnataka Lingayat Education Society (KLE Society)
 Initiatives by private organizations and dedicated individuals have played a critical role in the growth 
@@ -2566,7 +2481,6 @@ areas of:
 With a visionary leadership of Chairman Dr . Prabhakar Kore, and members of Board of Management, 
 the society's institutions serve more than 1, 25, 000 students. Over 16, 000 dedicated faculty and 
 staff work together to meet the high standards set by the management.
- ## Page 88
  CONTENTS
 02
 FOREWORD
@@ -2604,7 +2518,6 @@ CAPITAL & IT
 GOVERNANCE
 51
 KLE TECH EXECUTIVE TEAM
- ## Page 89
  2 | KLE Tech
 Foreword
 Dr . Ashok S. Shettar
@@ -2623,7 +2536,6 @@ We would like to extend our sincere thanks to our faculty, staff, students, alum
 their continued support and remarkable contributions. Looking ahead, we will continue to work towards 
 realizing our vision to be a leader in engineering education, and advancing research and innovation to 
 support socio-economic development of the region.
- ## Page 90
    www.kletech.ac.in | 3 
 Introduction
 KLE Technological University (KLE Tech) has 
@@ -2682,7 +2594,6 @@ University to emerge as a University with a
 national distinction. 
 Creating Value
 Leveraging Knowledge
- ## Page 91
  4 | KLE Tech
 Admission Process
 The University does not conduct a separate 
@@ -2727,7 +2638,6 @@ Graduate Common Entrance Test (PGCET)
 conducted by Karnataka examination 
 authority, is used for the selection of 
 students.
- ## Page 92
    www.kletech.ac.in | 5 
 Postgraduate Programs
 Research Programs
@@ -2772,7 +2682,6 @@ Sl.No. Programme
 10 Department of Chemistry
 11 Department of Mathematics
 12 Center for Engineering Education Research
- ## Page 93
  6 | KLE Tech
 Student admissions for the year 2017-18 - UG
 Student admissions for the year 2017-18 - PG
@@ -2823,7 +2732,6 @@ MBA
 1100 1106
 UG 3678
 PG 508
- ## Page 94
    www.kletech.ac.in | 7 
 The initiatives undertaken to enhance the quality of education and student performance are presented 
 under following three tenets of academic quality
@@ -2850,7 +2758,6 @@ us an opportunity to build a culture of continuous
 improvement that strengthens our academic 
 quality and inspires student achievement.
 Academic Quality
- ## Page 95
  8 | KLE Tech
 Advances in Curriculum
 The curriculum of all the programs offered 
@@ -2880,7 +2787,6 @@ outcomes to inform both the learner and the
 system. The frame work adopted by the University 
 is depicted in the Figure below.
 KLE Tech
- ## Page 96
    www.kletech.ac.in | 9 
 Major Academic initiatives Undertaken:
 School of Computer Science and Engineering
@@ -2926,7 +2832,6 @@ down and fully engage with our thoughts. Thoughts need to breathe and drawing by
 holds such a space for thoughts to fully form before being set down into a holistic form.
 During the academic year 2017-18 following are the major academic initiatives undertaken to improvise 
 the teaching and learning process.
- ## Page 97
  10 | KLE Tech
 A faculty workshop was conducted to train on 'BluePrint' 
 so that they can carry over the method for the guiding 
@@ -2964,7 +2869,6 @@ projects carried out led to publications as well. Sample other projects carried 
 using Robin Karp algorithm and SVM, Developing an model to predict and classify the heritage images 
 with appropriate labels ( Multi class), Road Fighter games using Reinforcement & Q Learning, Image 
 prediction using CNN etc. 
- ## Page 98
    www.kletech.ac.in | 11 
 School of Electronics and Communication Engineering
 Automotive Electronics Initiatives
@@ -3007,7 +2911,6 @@ Collaborating with experienced personnel from VLSI industry and IESA, reorientat
 foundational courses to advanced courses has been undertaken. Special emphasis is on project based 
 learning wherein students gain proficiency in industry- standard state-of-art VLSI EDA tools while solving 
 problems relevant to the industry.
- ## Page 99
  12 | KLE Tech
 These initiatives are driven by joint group of experienced faculty, under the mentorship of industry 
 experts
@@ -3031,7 +2934,6 @@ selected students undergo close to two years of professional exercise., As part 
 partner agreement between KLE Tech., IESA and SEER, University has enabled design a program to 
 create a, mixed signal IC - Elapsed Time Counter in UMC 0.18µm technology, under the guidance of 
 faculty and industry experts.
- ## Page 100
    www.kletech.ac.in | 13 
 School of Mechanical Engineering
 The School of Mechanical Engineering has recognized changing trends and ventured into number of 
@@ -3040,7 +2942,6 @@ new courses developed by School of Mechanical Engineering in collaboration with 
 to impart employment linked specialized knowledge and skills through design thinking led innovative 
 curriculum interventions for assured campus recruitments.
 A glimpse of the course designed to be part of the curriculum is indicated below.
- ## Page 101
  14 | KLE Tech
 The students who have undergone the course have expressed their appreciation for unique experience 
 they gained during problem solving in a collaborative environment. About 80% of the students expressed 
@@ -3065,7 +2966,6 @@ PLM - Technical
 Industry Cases
 Tools: ENOVIA
 Specialist in PLM - Customization, Configuration and Integration
- ## Page 102
    www.kletech.ac.in | 15 
 Learning to Experiencing Engineering
 The courses in niche areas are developed to provide immersive learning experience to students and 
@@ -3096,7 +2996,6 @@ expected to enhance the employability of our students in the field.
 Work Ready,
 World Ready
 Engineer
- ## Page 103
  16 | KLE Tech
 aeroKLE - Aero Modelling Club
 Our team of 18 students drawn from first year to final year representing different disciplines 
@@ -3125,7 +3024,6 @@ manipulate the data efficiently. Data Structure using 'C' is introduced to sopho
 course will help students to understand what is going on inside a particular built-in implementation of a 
 data structure. Students learn these data structures with hands on experience implementing them and 
 applying for real world problems.
- ## Page 104
    www.kletech.ac.in | 17 
 To cope with industry requirements Machine learning, being one of the areas of Artificial 
 Intelligence, is introduced as a part of curriculum for the 3rd year students. Machine Learning 
@@ -3159,7 +3057,6 @@ Among Software Services companies, Accenture recruited 267 and Infosys 150, whic
 considered good number in current scenario.
 New companies visited include -- Tata Hitachi, SLK Software, Ducom, DiFACTO A&R
 Total number of offers is 800+.
- ## Page 105
  18 | KLE Tech
 Research and Innovation
 To meet its growth aspirations, one of the challenges faced by the Univeristy is to transform itself from a good 
@@ -3203,7 +3100,6 @@ Research 3 2 0
 11 Mathematics 9 4 7
 12 Physics 2 6 9
 Total 79 87 70
- ## Page 106
    www.kletech.ac.in | 19 
 Summary of publications
 The following table summarizes the number of publications of research work in refereed conferences 
@@ -3221,7 +3117,6 @@ IJ NJ IC NC IJ NJ IC NC IJ NJ IC NC
 W 32 46 148
 S 78 99 81
 G 246 226 324
- ## Page 107
  20 | KLE Tech
 Summary of Patents
 Summary of patents 2014 to 2017
@@ -3262,7 +3157,6 @@ MECH 07 112.80 02 4.00
 BT 01 162.50 02 40.00
 Total 21 409.46 04 59.26
 Summary of External Funding 
- ## Page 108
    www.kletech.ac.in | 21 
 Year # REU students # REU
 Supervisors
@@ -3306,7 +3200,6 @@ Summary of outcome of the REU course is reflected in the following table. In the
 students have published 25 papers in international conferences and journals, and 8 of them have either 
 completed or doing post graduation. About 25% of the total REU students from 2011-14 are doing post 
 graduation either in India or abroad
- ## Page 109
  22 | KLE Tech
 Research Promotion Schemes 
 University -Research promotion Schemes
@@ -3336,7 +3229,6 @@ involve with the startup and students towards a product development and deployme
 • Two Faculty Student Startup Groups (FSSG) are identified in 2018-19
  • Semantics & mathematical modelling 
  • Product design and development for agriculture 
- ## Page 110
    www.kletech.ac.in | 23 
 Budget Utilized in 2017-18
 • Identified Institute Research Projects (IRP) 2018-19
@@ -3369,7 +3261,6 @@ Training (FDPs) : 10.00 0.44
 Patenting : 10.00 0.45
 Incentives : 5.00 4.30
  Total 250.00L 162.07
- ## Page 111
  24 | KLE Tech
 Institute funded projects under RC/RG/PDDG
 Sl.No Name Title of the research group/
@@ -3413,7 +3304,6 @@ Year Total projects Total amount in Lakhs
 2014-15 22 14.07
 2015-16 15 13.25
 2017-18 25 27.92
- ## Page 112
    www.kletech.ac.in | 25 
 Incentives given to faculty for good publications, funded research and 
 guiding doctoral students 
@@ -3443,7 +3333,6 @@ SL No Year Total projects Total amount
 2 2016-17 10 2, 33, 320/-
 3 2017-18 31 4, 30, 000/-
 Total 6, 82, 320/-
- ## Page 113
  26 | KLE Tech
 Centre for Technology Innovation and Entrepreneurship (CTIE):
 Entrepreneurship
@@ -3475,7 +3364,6 @@ a result of such blended approach to entrepreneurship, CTIE has following to cla
 • Over 25, 000 sq. ft of incubation space given away
 • Over 9000 Sqft Techpark / Accelerated
 • Over 200 plus jobs created
- ## Page 114
    www.kletech.ac.in | 27 
 Launch of Next Big Idea Contest by Zone 
 Startups 
@@ -3514,7 +3402,6 @@ automatically switches off after a pre-set time, presented a new way of power sa
 that give a mesmerizing audio effect opened a way of innovation in entertainment. Smart display, 
 solar chargers, cost efficient power banks, Smart Gloves and many more technical innovations led the 
 innovation extravaganza. 
- ## Page 115
  28 | KLE Tech
 Intel Ideation Camp
 The Ideation of Ideas started with collective effort of Team MIB led by the director of CTIE, Mr . Nitin Kulkarni 
@@ -3547,7 +3434,6 @@ The event had various competitions such as CEO- where 250 students participated 
 announced at the end of 3 rounds. B-Plan Hackathon had 192 participants, 3 winners were announced 
 after 7 rigorous stages. Battle for Sharks had 54 teams competing against each with the total prize money 
 being worth INR 1, 00, 000/-
- ## Page 116
    www.kletech.ac.in | 29 
 Over arching philosophy of CIPD
 Product 
@@ -3587,7 +3473,6 @@ This Initiative achieved the following goals :
 2. IMPROVE RURAL EMPLOYMENT
 3. EXTRA INCOME FOR FARMERS
 4. SUSTAINABLE BUSINESS MODEL FOR ENTREPRENUERS AND STAKEHOLDERS 
- ## Page 117
  30 | KLE Tech
 This endeavor was first of its type in terms of collaboration between educational institute (KLE Technological 
 University), Industry (EID Parry) and NGO (Cherysh Foundation).
@@ -3604,7 +3489,6 @@ a common goal. Faculty members from various departments to be in a team which sh
 • Develop eco-system for product innovation and Intellectual Property Management - processes and tools
 • Capability Building: Develop Product Innovation, Design and Development curriculum; Training programs 
 and workshops for faculty and industry partners
- ## Page 118
    www.kletech.ac.in | 31 
 The 'MakerSpace' is a central facility created to 
 promote product development and realization 
@@ -3635,7 +3519,6 @@ MakerSpace
 Students
 IndustryFaculty
 MakerSpace
- ## Page 119
  32 | KLE Tech
 MakerSpace - Added with more facilities
 AION-500 3D Printing Machine
@@ -3654,7 +3537,6 @@ Students will gain
 exposure on machining 
 aerospace parts on this 
 same machine. 
- ## Page 120
    www.kletech.ac.in | 33 
 It is essential that the institute continues to strengthen its association with the industries to 
 enhance its student learning experience and relevance of its research activities.
@@ -3723,7 +3605,6 @@ Sankalp Semi 5
 United Heat Transfer 4
 Walmart Labs 10
 Various Biotech Companies 23
- ## Page 121
  34 | KLE Tech
 Centre for Engineering Education Research (CEER) 
 Education Research
@@ -3759,7 +3640,6 @@ has earned a respectable position among the practitioners of engineering educati
 number of Engineering Colleges in India have taken inspiration and have setup such centres in 
 their respective Institutions taking best practices and courses from. 
 About CEER:
- ## Page 122
    www.kletech.ac.in | 35 
 Innovations in Engineering Education
 Engineering Exploration course and Prayog 
@@ -3786,7 +3666,6 @@ Table 1. Details of Prayog-Vasant and Sharat
 Number of projects Date
 Prayog Vasant 147 projects by 550 freshmen April 27 2018
 Sharat 127 projects by 480 freshmen Dec 3, 2017
- ## Page 123
  36 | KLE Tech
 PhD in Engineering Education
 KLE Tech is one of the few Institutions in India offering PhD in Engineering Ed ucation. This 
@@ -3809,7 +3688,6 @@ Prof. William Oakes
 Purdue University
 Prof. Vinod Lohani
 Virginia Tech.
- ## Page 124
    www.kletech.ac.in | 37 
 Research in Engineering Education
 Current Focus Areas
@@ -3844,7 +3722,6 @@ Sl.No Research Topic
 2 A study of team formation strategies and their impact on individual student learning 
 using EDM
 3 A Study of Impact of Experiential Learning on Student Success using EDM.
- ## Page 125
  38 | KLE Tech
 Collaboration 
 IESA-NETRA
@@ -3868,7 +3745,6 @@ First 8 22 Nov 29-Dec 1, 2017
 Second 13 64 May 14-18, 2018
 Master Trainers Workshop 1
 Glimpses of faculty in action during workshop 1 and workshop 2
- ## Page 126
    www.kletech.ac.in | 39 
 IESA-NETRA
 Collaboration with IUCEE
@@ -3917,7 +3793,6 @@ SR Engineering College,
 Warangal
 Joseph Engineering College, 
 Mangalore
- ## Page 127
  40 | KLE Tech
 Faculty Conclave 2018
 A Two-day Faculty Conclave-2018 was organized by Centre for Engineering Education Research (CEER), KLE 
@@ -3949,7 +3824,6 @@ Institute Name Participants Dates
 KLE's MSSCoE, 
 Belgaum 80 July 02-03, 2018
 KLE IT, Hubballi 40 July 30-31, 2018
- ## Page 128
    www.kletech.ac.in | 41 
 Outcome Based Education
 The understanding and experience of practicing outcome based education in KLE Tech, is being shared 
@@ -3990,7 +3864,6 @@ Aurangabad
 80 Nov 8-9, 2017
 Vignan's Institute of Information 
 Technology, Visakhapatnam 120 May 4-5, 2018
- ## Page 129
  42 | KLE Tech
 Techno Visionary Award
 Dr. Ashok shettar, VC KLE Tech University, receiving Techno Visionary 
@@ -4044,7 +3917,6 @@ Transformation in Engineering Education" at Bennett University, New
 Delhi by IUCEE (India US Council for Engineering Education) for the 
 second consecutive year.
 Recognitions
- ## Page 130
    www.kletech.ac.in | 43 
 3) Council of Architecture (COA) has instituted 
 award for "Excellence in Documentation 
@@ -4142,7 +4014,6 @@ Award from Indian Electronics &
 Semiconductor Association (IESA) for his 
 contribution in building ESDM ecosystem 
 on 27th Feb 2018.
- ## Page 131
  44 | KLE Tech
 IT Platforms and Services
 The present IT infrastructure of KLE TECH was redesigned in the year 2014-15, as to cater moder n 
@@ -4162,7 +4033,6 @@ with highly secured network. (viz. Sophos, Aruba Controller etc..)
 | Every single classroom and laboratories in campus are well equipped with audio visual facilities.
 | Video conferencing and teleconferencing tools at seminar halls. (Polycom)
 | 15 classrooms are equipped with lecture capturing systems(impartus)
- ## Page 132
    www.kletech.ac.in | 45 
 New infrastructure
 Our infrastructure is the key enabler for us to deliver world-class education al experience for our 
@@ -4172,7 +4042,6 @@ Continuing our efforts to develop ambient green campus, new landscape projects w
 The new landscape focuses on creating informal interaction space for the students in the campus.
 School of Computer Science & Engineering
 KLE Techpark
- ## Page 133
  46 | KLE Tech
 Name Designation
 Dr . Prabhakar B. Kore Chairperson
@@ -4188,7 +4057,6 @@ Dr . Sudha N. Murty Member
 Prof P . G. Tewari Member
 Prof B. L . Desai Member Secretary
 Board of Governors
- ## Page 134
    www.kletech.ac.in | 47 
 Student accolades
 KLE Tech sweeps 1st prize at BOSCH
@@ -4226,7 +4094,6 @@ support. This stick can even be used to protect themselves from the hazardous an
 and avoid any harm. As this product is handy and all the circuits are operated away from the body so there 
 would be no harm to human body. It is easy to maintain and due to simple placement of the circuits on the 
 stick and it is easily affordable.
- ## Page 135
  48 | KLE Tech
 Financials
 Income Amount (Rs) Revenue 
@@ -4262,7 +4129,6 @@ Financials
 KLE Technological University, Hubballi
 Income and Expenditure Statement for the year 2017-18
 (Includes Capital Expenditures)
- ## Page 136
    www.kletech.ac.in | 49 
 Alumni Association 
 Following are the BVB KLE Tech Alumni Chapters in functioning in India as on today.
@@ -4308,7 +4174,6 @@ B.L.Desai, T .V.Swamy, Om Garagatte, 37
 BVB KLE Tech Alumni 
 AU (Australia)
 B.L.Desai, T .V.Swamy, Savitri (Lata) Koppa 38
- ## Page 137
  50 | KLE Tech
 Annual General Body meeting
 Annual General Body meeting was held on the 
@@ -4354,7 +4219,6 @@ Prof.B.L.Desai with following words.
 During the program 23 beneficiaries were given 
 scholarship of Rs.20000 each for their hostel needs 
 under Nurture Merit @ BVBCET Project.
- ## Page 138
    www.kletech.ac.in | 51 
 KLE Tech Executive Leadership Team
 Prof Gopal Joshi
@@ -4376,7 +4240,6 @@ Dr . B. B. Kotturshettar
 Dean - Planning & Development
 Dr . Uma Mudenagudi
 Dean - Research & Development
- ## Page 139
  52 | KLE Tech
 Center Heads
 Heads of Schools / Departments
@@ -4419,9 +4282,7 @@ Prof Gururaj Joshi
 Architecture
 Dr . B. B. Kotturshettar
 Mechanical
- ## Page 140
  Campus Snapshots
- ## Page 141
  54 | KLE Tech
 www.kletech.ac.in
 KLE Technological University

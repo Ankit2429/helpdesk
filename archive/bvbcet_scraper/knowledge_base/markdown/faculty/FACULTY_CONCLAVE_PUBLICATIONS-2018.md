@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: FACULTY_CONCLAVE_PUBLICATIONS-2018"
+title: "Faculty Conclave Publications 2018"
 category: "faculty"
 subcategory: "FACULTY"
 document_type: "syllabus"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["approach", "course", "document", "engineering", "learning", "patil"]
 aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "3"
 ---
-# PDF Document: FACULTY_CONCLAVE_PUBLICATIONS-2018
- **PDF Source:** https://www.kletech.ac.in/pdf/FACULTY CONCLAVE PUBLICATIONS-2018.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/FACULTY CONCLAVE PUBLICATIONS-2018.pdf
  Earlier known as 
 B. V. B. College of Engineering & Technology 
 Faculty Conclave- 2018 
@@ -77,7 +77,6 @@ B. Kotturshettar, Arun Giriyapur
 Learning "-A Study In Business Management 
 Education 
 Mahantesh Halagatti 
- ## Page 2
  Earlier known as 
 B. V. B. College of Engineering & Technology 
 13 Teaching Methodologies For Generation Z Kids Prakash Hegade 
@@ -132,7 +131,6 @@ Gopalkrishna Joshi
 Management Practice In Freshman Course 
 Jyoti Gadad, Kaushik M, Gopalkrishna 
 Joshi 
- ## Page 3
  Earlier known as 
 B. V. B. College of Engineering & Technology 
 28 Exploring The Capabilities Of Freshman Students 
@@ -172,5 +170,4 @@ Patil, Priyatamkumar
 Teaching Of Research Methodology Course At 
 6Undergraduate Level 
 S. V. Desai, Zabin K. Bagewadi and Uday 
-M. Muddapur 
-  
+M. Muddapur

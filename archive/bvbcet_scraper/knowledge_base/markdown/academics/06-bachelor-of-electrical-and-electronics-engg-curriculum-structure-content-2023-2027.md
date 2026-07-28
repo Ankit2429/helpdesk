@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 06-bachelor-of-electrical-and-electronics-engg-curriculum-structure-content-2023-2027"
+title: "UG Curriculum"
 category: "academics"
 subcategory: ""
 document_type: "syllabus"
@@ -11,15 +11,14 @@ language: "en"
 keywords: ["bachelor", "chapter", "content", "course", "curriculum", "design", "document", "electrical", "electronics", "engg"]
 aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "ECE", "EC", "EEE", "EE", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "143"
 ---
-# PDF Document: 06-bachelor-of-electrical-and-electronics-engg-curriculum-structure-content-2023-2027
- **PDF Source:** https://www.kletech.ac.in/pdf/06-bachelor-of-electrical-and-electronics-engg-curriculum-structure-content-2023-2027.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/06-bachelor-of-electrical-and-electronics-engg-curriculum-structure-content-2023-2027.pdf
  KLE Tech Confidential CONTROLLED COPY 
   Curriculum Structure and Curriculum Content for the Academic year 2023-27 
 Department: Electrical & Electronics Engineering 
 Program: UG 
-  ## Page 2
  KLE Tech Confidential CONTROLLED COPY 
   Table of Contents 
 Vision and Mission of KLE Technological University 3 
@@ -37,7 +36,6 @@ Semester- VII 15
 Semester- VIII 16 
 List of Program Electives 17 
 Curriculum Content- Course wise 19 
-  ## Page 3
  KLE Tech Confidential CONTROLLED COPY 
   Vision and Mission of KLE Technological University 
   Vision 
@@ -59,8 +57,6 @@ our expertise, experience and leadership, to enhance competitiveness and quality
 life. 
   As a unified community of faculty, staff and students, we work together with the spirit of 
 collaboration and partnership to accomplish our mission. 
-  Back 
- ## Page 4
  KLE Tech Confidential CONTROLLED COPY 
 Vision and Mission Statements of the School / Department 
   Vision 
@@ -77,8 +73,6 @@ of Electrical and Electronics Engineering and allied fields.
 achieve personal and professional growth. 
 ● To collaborate within and beyond the discipline to create solutions that benefit 
 humanity and society. 
-  Back 
-  ## Page 5
  KLE Tech Confidential CONTROLLED COPY 
   Program Educational Objectives/Program Outcomes and Program-Specific Objectives 
 Program Educational Objectives -PEO's 
@@ -121,7 +115,6 @@ diversity and inclusion; adhere to national & international laws. WK 9
 member or leader in diverse/multi-disciplinary teams. 
 9. Communication: Communicate effectively and inclusively within the engineering 
 community and society at large, such as being able to comprehend and write effective 
- ## Page 6
  KLE Tech Confidential CONTROLLED COPY 
 reports and design documentation, make effective presentations considering cultural, 
 language, and learning differences. 
@@ -139,8 +132,6 @@ integration, and electric mobility, ensuring efficiency, reliability, and sustai
 PSO2: Demonstrate the ability to analyze, design, and optimize Power System, electrical 
 drives and power converter systems for applications in industrial automation, renewable 
 integration, and electric mobility, ensuring efficiency, reliability, and sustainability. 
-  Back
- ## Page 7
  FORM 
 ISO 21001:2018 
 Document #: FMCD2005 
@@ -322,7 +313,6 @@ Program Elective 1
 Senior Design Project 
 21EEEW401 
  (0-0-6) 
-  ## Page 8
  FORM 
 ISO 21001:2018 
 Document #: FMCD2005 
@@ -400,8 +390,6 @@ Mini project
 23EEEW301 
  (0-0-3) 
     Credits 22 22 24 25 25 25 17 17 
-  Back 
-  ## Page 9
  FORM 
 ISO 21001:2018 
 Document #: FMCD2005 
@@ -410,7 +398,6 @@ Title: Curriculum structure semester wise Year:2023-27
   KLE Tech Confidential CONTROLLED COPY 
 Curriculum Structure-Semester wise 
 Semester - I 
-   Back 
   No Code Course Category L-T-P Credits Contact 
 Hours ISA ESA Total 
 Exam 
@@ -427,7 +414,6 @@ Communication HSS 1-1-0 2 3 50 50 100 3 hours
 7 20EHSP101 Design Thinking for Social 
 Innovation HSS 0-1-1 2 4 80 20 100 3 hours 
    Total 13-2-7 22 29 
- ## Page 10
  FORM 
 ISO 21001:2018 
 Document #: FMCD2005 
@@ -435,7 +421,6 @@ Document #: FMCD2005
 Title: Curriculum structure semester wise Year:2023-27 
   KLE Tech Confidential CONTROLLED COPY 
   Semester - II 
-   Back 
 No Code Course Category L-T-P Credits Contact 
  Hours ISA ESA Total 
 Exam 
@@ -451,7 +436,6 @@ Engineering ES 2-1-0 3 4 50 50 100 3 hours
 7 18ECSP102 Problem Solving with Data 
 Structures ES 0-0-3 3 6 80 20 100 3 hours 
    Total 15-3-4 22 31 
- ## Page 11
  FORM 
 ISO 21001:2018 
 Document #: FMCD2005 
@@ -459,7 +443,6 @@ Document #: FMCD2005
 Title: Curriculum structure semester wise Year:2023-27 
   KLE Tech Confidential CONTROLLED COPY 
 Semester- III 
-  Back 
 No Code Course Category L-T-P Credits Contact 
  Hours ISA ESA Total 
 Exam 
@@ -485,7 +468,6 @@ PC 3-0-0 3 3 50 50 100 3 hours
 Programming ES 2-0-1 3 4 50 50 100 2 hours 
 18EEEF201 C Programming (Dip) ES 0-0-2 2 4 80 20 100 2 hours 
                                                               TOTAL 21-0-3 24 29 
- ## Page 12
  FORM 
 ISO 21001:2018 
 Document #: FMCD2005 
@@ -493,7 +475,6 @@ Document #: FMCD2005
 Title: Curriculum structure semester wise Year:2023-27 
   KLE Tech Confidential CONTROLLED COPY 
 Semester- IV 
-  Back 
 No Code Course Category L-T-P Credits Contact 
  Hours ISA ESA Total 
 Exam 
@@ -523,7 +504,6 @@ ES
 23EEEF203 Data Structure Using C Lab 
  (Lateral Entry Students) 0-0-3 3 6 80 20 100 2 hours 
                                                                 TOTAL 20-0-5 25 32 
- ## Page 13
  FORM 
 ISO 21001:2018 
 Document #: FMCD2005 
@@ -531,7 +511,6 @@ Document #: FMCD2005
 Title: Curriculum structure semester wise Year:2023-27 
   KLE Tech Confidential CONTROLLED COPY 
 Semester- V 
-Back 
 No Code Course Category L-T-P Credits Contact 
  Hours ISA ESA Total 
 Exam 
@@ -554,7 +533,6 @@ Lab PC 0-0-1 1 2 80 20 100 2 hours
  (Lateral Entry Students) ES 3-0-0 3 3 50 50 100 3 hours 
 11 23EEEW301 Mini project PW 0-0-3 3 6 50 50 100 2 hours 
                                                                                            TOTAL 16-0-9 25 36 
- ## Page 14
  FORM 
 ISO 21001:2018 
 Document #: FMCD2005 
@@ -562,7 +540,6 @@ Document #: FMCD2005
 Title: Curriculum structure semester wise Year:2023-27 
   KLE Tech Confidential CONTROLLED COPY 
 Semester- VI 
-  Back 
 No Code Course Category L-T-P Credits Contact 
 Hours ISA ESA Total 
 Exam 
@@ -581,7 +558,6 @@ Operation & Control PC 2-0-1 3 4 67 33 100 2 hours
 8 23EEEP304 CMOS VLSI Circuits Lab PC 0-0-1 1 2 80 20 100 2 hours 
 9 24EEEW301 Minor Project PW 0-0-6 6 12 50 50 100 2 hours 
    TOTAL 16-0-9 25 38 
- ## Page 15
  FORM 
 ISO 21001:2018 
 Document #: FMCD2005 
@@ -589,7 +565,6 @@ Document #: FMCD2005
 Title: Curriculum structure semester wise Year:2023-27 
   KLE Tech Confidential CONTROLLED COPY 
 Semester- VII 
-  Back 
   No Code Course Category L-T-P Credits Contact 
 Hours ISA ESA Total 
 Exam 
@@ -606,7 +581,6 @@ Environmental Studies
 HSC 0-0-0 Audit 2 50 50 100 3 hours 
 7 21EEEW401 Senior Design Project PC 0-0-6 6 12 50 50 100 3 hours 
    TOTAL 10-0-7 17 26 
- ## Page 16
  FORM 
 ISO 21001:2018 
 Document #: FMCD2005 
@@ -614,7 +588,6 @@ Document #: FMCD2005
 Title: Curriculum structure semester wise Year:2023-27 
   KLE Tech Confidential CONTROLLED COPY 
 Semester- VIII 
-   Back 
   Semester I II III IV V VI VII VIII Total 
 Credits 22 22 24 25 25 25 17 17 177 
   No Code Course Category L-T-P Credits Contact 
@@ -626,7 +599,6 @@ Duration
 2 25EEEOXXX Open Elective PSE 3-0-0 3 3 50 50 100 3 hours 
 3 21EEEW402 Capstone Project PSE 0-0-11 11 22 50 50 100 3 hours 
                                          TOTAL 6-0-11 17 28 
- ## Page 17
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -655,7 +627,6 @@ VII Semester
 14. CMOS ASIC Design 25EEEE407 
 15. Human Machine Interface 25EEEE408 
 16. Nonlinear Control Systems 25EEEE409 
- ## Page 18
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -670,8 +641,6 @@ Title: Curriculum Content Course wise Year:2023-27
 20. Switched Mode Power Converters 25EEEE413 
 21. Design for Testability 25EEEE414 
 22. System on Chip Design 25EEEE415 
-  Back 
-  ## Page 19
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -723,7 +692,6 @@ Chapter No. 5 Ordinary differential equations of first order
 equations and reducible to exact form, Numerical solution to Initial Value 
 problems-Euler's method, Modified Euler's method and Runge-Kutta method 
 10 Hrs 
- ## Page 20
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -741,8 +709,6 @@ Text Books
 1. Calculus Single and Multivariable, Hughes-Hallett Gleason, Wiley India Ed, 4ed, 
     2009. 
 2. Thomas Calculus, George B Thomas, Pearson India, 12ed, 2010 
-  Back 
-  ## Page 21
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -784,7 +750,6 @@ multimeter.
 Zener diodes: Junction break down mechanism, circuit symbols, characteristics and 
 parameters, numerical. 
   05 Hrs 
-  ## Page 22
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -832,8 +797,6 @@ Reference Books:
      Norosa Publishing House, 1998. 
 3. David. J. Griffith, 'Introduction to Electrodynamics' 3rd edition, Pearson prentice Hall, 1999. 
 4. Ben. G. Streetman, Solid State Electronic Devices, Prentice Hall, 1995. 
-Back 
- ## Page 23
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -888,7 +851,6 @@ system, types of modulation. Amplitude modulation: Time -Domain description,
 Frequency-Domain description. Generation of AM wave: square law modulator. 
 Detection of AM waves: envelope detector. Double side band suppressed carrier 
 07 Hrs 
- ## Page 24
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -915,8 +877,6 @@ India, 2000
 3. Floyd, Digital fundamentals, 3, Prentice Hall India, 2001 
 4. Boylstead, Nashelsky, Electronic devices & Circuit theory, Prentice Hall India, 2000 
 5. Ramakant Gaikwad , Operational Amplifiers & Applications, PHI, 2000 
-Back 
-  ## Page 25
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -968,7 +928,6 @@ Tutorial Content
 Virtual Prototyping: 2D sketching, 3D modelling-Extrude, Revolve, Pattern and 
 Sheet Metal Assembly. 08 Hrs 
 ● Visit to workshop: welding shop, sheet metal shop, machine Shop. 08 Hrs 
- ## Page 26
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -993,8 +952,6 @@ Reference Books:
 1. SKH Chowdhary, AKH Chowdhary, Nirjhar Roy, The Elements of Workshop Technology, Vol 
 I & II, 11th edition, Media Promoters and Publishers, 2001 
 Roger Timings, Basic Manufacturing, Third edition, Newnes, An imprint of Elsevier, 2010 
-Back 
-  ## Page 27
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1047,8 +1004,6 @@ Reference Books:
 1. B. W. Kernighan, D M Ritchie, The Programming language C, 2ed, PHI, 2004. 
 2. B. S. Gottfried, Programming with C, 2ed, TMH, 2006. 
 3. B.A. Forouzan, R.F. Gilberg, A Structured Program Approach Using C, 3ed, CENGAGE Learning, 2008. 
-Back 
- ## Page 28
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1100,8 +1055,6 @@ carbon foot print.
 06 Hrs 
 Course Project 
 Reviews 24 Hrs 
-Back 
-  ## Page 29
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1110,7 +1063,6 @@ FMCD2005
 Title: Curriculum Content Course wise Year:2023-27 
   KLE Tech Confidential CONTROLLED COPY 
 29 
-  Back 
    Program: UG Semester: I 
 Course Title: Applied Physics lab (ES) Course Code: 21EPHP101 
 L-T-P: 0-0-1 Credits: 01 Contact Hrs: 2 Hrs/week 
@@ -1130,7 +1082,6 @@ LIST OF EXPERIMENTS
 OPEN ENDED EXPERIMENT 
 i. 1. Realization of a ±5/12V regulated power supply 
 ii. 2. Stepper motor drive 
- ## Page 30
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1180,8 +1131,6 @@ Text Books :
 Reference Books: 
 1. Calculus Single and Multivariable, Hughes-Hallett Gleason, Wiley India Ed, 4ed, 2009. 
 2. Thomas Calculus, George B Thomas, Pearson India, 12ed, 2010 
-Back 
-  ## Page 31
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1234,7 +1183,6 @@ Introduction, physical and chemical properties of silicon, metallurgical grade
 silicon, purification of silicon; chemical vapour deposition (CVD) process, zone 
 refining process. Crystal growth: preparation of single crystal silicon by Zhochralski 
 10 Hrs 
- ## Page 32
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1266,7 +1214,6 @@ Potentiometer - principle, methodology and applications. Optoanalytical methods:
 Colorimeter - Principle, methodology and applications. Spectral methods of 
 analysis: UV Spectrophotometer - Instrumentation and applications. 
 04 Hrs 
- ## Page 33
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1302,8 +1249,6 @@ Publishers, 2005, Bangalore.
 John Wiley and Sons, 2007, New York. 
 10. Instrumental Methods of Chemical Analysis, 5th edition, Gurdeep R Chatwal, Sham K 
 Anand, Himalaya Publishing House, Pvt. Ltd, 2010, Mumbai. 
-Back 
-  ## Page 34
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1347,8 +1292,6 @@ Text Books:
 Reference Books: 
 1. Data Structures, Algorithms and Applications In C++ -- Satraj Sahani 
 2. Data Structures and Algorithms Made Easy - Narshiman Karumunchi, Career Monk 
-Back 
-  ## Page 35
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1390,7 +1333,6 @@ couples, on equivalent force -couple system. Varignon's principle of moments,
 Resultant of coplanar- non-concurrent force systems and numerical problems. 
 05 Hrs 
 Unit II 
- ## Page 36
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1417,7 +1359,6 @@ Factor of safety. Deformation of a bar due to force acting on it. Law of super p
 Stresses in bars of uniform & varying cross sections. Composite sections. Problems 
 connected to above topics. 06 Hrs 
 Unit - III 
- ## Page 37
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1454,8 +1395,6 @@ Reference Books:
     Company, New Delhi, 1956. 
 5. Irving H Shames, Engineering Mechanics, 3rd edition, Prentice-Hall of India Pvt. Ltd, New Delhi- 
     110 001, 1995. 
-  Back 
-  ## Page 38
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1553,7 +1492,6 @@ on "How to build your
 Creative Confid ence by 
 David Kelley - IDEO 
 Founder) 
-  ## Page 39
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1626,7 +1564,6 @@ study
     PEER REVIEW 
     2. Inspiration 
   Reading assignments 
- ## Page 40
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1693,7 +1630,6 @@ respective templates with
 the help of sample case 
 study 
    Reading assignments ● Brain storming 
- ## Page 41
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1781,7 +1717,6 @@ students reflection
 respective templates with 
 the help of sample case 
 study 
- ## Page 42
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1796,8 +1731,6 @@ Process
 Class Presentations 
 Final Presentation- After 
 Implementation 
-  Back 
-  ## Page 43
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1853,7 +1786,6 @@ Chapter No. 7 Batteries:
 Basics of lead acid batteries, Lithium Ion Battery , Battery storage capacity, Coulomb 
 efficiency, Numerical of high and low charging rates, Battery sizing. Numerical. 
 05 Hrs 
- ## Page 44
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1876,8 +1808,6 @@ Title: Curriculum Content Course wise Year:2023-27
    Measurement Systems, 3rd, Tata McGraw Hill Education Private Limited, New Delhi., 
    2005 
 3. Vincent Del Toro, Electrical Engineering Fundamentals, 2nd edition, Prentice Hall India 
-  Back 
-  ## Page 45
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1912,8 +1842,6 @@ Reference Books:
 1. Collins Cobuild Advanced Learner's English Dictionary 
 2. Raymond Murphy - Intermediate English Grammar, Cambridge University Press 
 3. Martin Hewings- Advanced English Grammar, Cambridge University Press. 
-  Back 
-  ## Page 46
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1967,7 +1895,6 @@ Chapter No. 5: Random Process
 (a) Introduction to Joint Probability Distributions, marginal distribution, joint pdf 
 and cdf, mean, variance, covariance, correlation. 
 10 Hrs 
- ## Page 47
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -1992,8 +1919,6 @@ Reference Books:
 Principles and Applications for Engineering and the Computing Sciences, 4th Ed, 
 TATA McGraw-Hill Edition 2007 
 3. Ian Glover & Peter Grant, Digital Communications, 2nd Ed, Pearson 2012. 
-   Back 
-   ## Page 48
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2047,7 +1972,6 @@ separable methods, Linear differential equations, Initial value problems, soluti
 differential equations by Laplace transform method. 
 06 Hrs 
  Unit - III 
- ## Page 49
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2071,8 +1995,6 @@ Reference Books:
 2. Ganesh Rao and and Satish Tunga, Signals and Systems, Sanguine T, 2004. 
 3. Simon Haykin, Barry Van Veen, Signals and Systems, John Wiley, 2002 
 4. Ian Glover & Peter Grant, Digital Communications, 2nd Ed, Pearson 2012. 
-Back 
-  ## Page 50
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2110,8 +2032,6 @@ Reference Books:
 1. Diana Booher - Communicate With Confidence, McGraw Hill Publishers 
 2. Norman Lewis-Word Power Made Easy, Goyal Publishers 
 3. Cambridge Advanced Learner's Dictionary, Cambridge University Press. 
-  Back 
-  ## Page 51
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2166,7 +2086,6 @@ Text Books
 Hill, 2006 
 2. M. E. Van Valkenburg, Network Analysis, 3rd, Pearson Ed, 2006 
 Reference Books: 
- ## Page 52
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2182,8 +2101,6 @@ Title: Curriculum Content Course wise Year:2023-27
 3rd, Morgan Kau, 2006 
 5. Muhammad H . Rashid, Introduction to PSPICE using OrCAD for circuits and 
 Electronics, 3rd, Pearson Ed, 2005 
-  Back 
-  ## Page 53
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2237,7 +2154,6 @@ Chapter 5: MOSFET amplifiers and Introduction to FinFET Technology
 Small signal operation and its equivalent model of MOSFET. Application of MOS as 
 single stage amplifiers. Derivation of CS, CG and CD amplifiers parameters and its 
 12 Hrs 
- ## Page 54
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2283,8 +2199,6 @@ Hurst, Lewis and Meyer, Analysis and design of analog integrated circuits 4th ed
 Pearson Education, 2003 
 4. J. Millman & A. Grabel, Microelectronics , 2nd edition, McGraw Hill, 1987 
 5. FinFETs and Other Multi-Gate Transistors 
-   Back 
-   ## Page 55
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2339,7 +2253,6 @@ of insulators. Underground Cables: Types of cables & ma terial used for Insulati
 Resistance, thermal rating of cables & charging current, grading of cables Capacitance 
 grading and inter sheath grading, testing of cables 
 05 hrs 
- ## Page 56
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2365,8 +2278,6 @@ Grigsby, 2012
 2. Soni, Gupta and Bhatnagar, A Course in Electrical Power, Dhanpatrai, 2014 
 3. J. B. Gupta., Transmission and Distribution of Electrical power., Kataria, 2012 
 4. Skrotzki and Wavopat, Power station Engineering and economics ., McGraw Hill, 1995 
-  Back 
-   ## Page 57
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2420,7 +2331,6 @@ Introduction and role of memory in a computer system, memory types and
 terminology, Read Only memory, MROM, PROM, EPROM, EEPROM, Random access 
 memory, SRAM, DRAM, NVRAM. 
 05 Hrs 
- ## Page 58
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2438,8 +2348,6 @@ Reference Books:
 2. Zvi Kohavi, Switching and Finite Automata Theory, 2nd, TMH 
 3. R.D. Sudhaker Samuel, Logic Design, Sanguine Technical Publishers, 2005 
 4. R. P. Jain, Modern Digital Electronics, 2nd, Tata McGraw Hill , 2000 
-  Back 
-  ## Page 59
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2494,7 +2402,6 @@ Introduction to interrupts, interrupts vs polling, classification of interrupts,
 interrupt priority, interrupt vector table, interrupt service routine 
 04 Hrs 
   02 Hrs 
- ## Page 60
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2510,8 +2417,6 @@ Ayala', Penram International, 1996
 Janice Gillispie Mazidi', Pearson Education, 2003 
 Reference Books: 
 1. " Programming and Customizing the 8051 Microcontroller ", by 'Predko', TMH. 
-   Back 
-  ## Page 61
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2555,8 +2460,6 @@ Reference Books
 5. Device data sheets. 
        6. KLETECH Electronics and Communication Engineering Department 2023-24 Analog 
              Electronics Lab manual. 
-  Back 
-   ## Page 62
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2591,8 +2494,6 @@ Expt. No.10 Design and implement a digital system to display a 3 bit counter on 
 display. Demonstrate the results on a general purpose PCB. 
 Reference Books: 
 1. Donald D. Givone, Digital Principles and Design, Tata McGraw Hill Edition, 2002 
-  Back 
-  ## Page 63
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2641,8 +2542,6 @@ Reference Books:
 2. B. S. Gottfried, Programming with C, 2ed, TMH, 2006. 
 3. B.A. Forouzan, R.F. Gilberg, A Structured Program Approach Using C, 3ed, CENGAGE 
 Learning, 2008. 
-   Back 
-  ## Page 64
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2698,7 +2597,6 @@ Laurent Series, Singularities, Poles, Residue theorem - problems.
 05 Hrs 
 Text Books 
 1. Gilbert Strang, Linear Algebra and its Applications, 4ed, Thomson India Edition, 2007. 
- ## Page 65
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2718,8 +2616,6 @@ Reference Books:
 Hill India 2009 
 3. Stanley J. Farlow, Partial differential equations for Scientists and Engineers, Dover 
 publications, INC, New York, 1993 
-   Back 
-   ## Page 66
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2769,8 +2665,6 @@ Reference Books:
 1. Early Transcendentals Calculus- James Stewart, Thomson Books, 5e 2007 
 2. Grewal B S, Higher Engineering Mathematics, 38ed, Khanna Publication, New 
 Delhi, 2001 
-Back 
- ## Page 67
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2812,8 +2706,6 @@ Sultan Chand and Sons, New Delhi, 2018
 6. Norman Lewis-Word Power Made Easy, Goyal Publishers 
 7. Cambridge Advanced Learner's Dictionary, Cambridge University Press. 
 8. Kaplan's GRE guide 
-  Back 
-   ## Page 68
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2868,7 +2760,6 @@ Reference Books:
 1. P. C. Sen, "Principles of Electric Machines and Power Electronics", John Wiley & Sons 
 Publications, Canada, 2nd Edition, 2001. 
 2. Bhimbra, "Principles of Electrical machinery", Khanna Publishers.2006. 
- ## Page 69
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2881,8 +2772,6 @@ Title: Curriculum Content Course wise Year:2023-27
 fundamentals, theory, and design.", CRC Press, 2005. 
 4. T. J. E. Miller, "Brushless Permanent-Magnet and Reluctance Motor Drives", Oxford 
 Science Publications, 1989. 
-Back 
-   ## Page 70
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2936,7 +2825,6 @@ Chapter No.7 Bode plot analysis of control systems:
 Bode plots: asymptotic plots for basic factors, method to draw Bode asymptotic 
 plot and phase plot, determination of gain and phase margins from Bode plot. 
 05 Hrs 
- ## Page 71
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -2954,8 +2842,6 @@ Text Books
 2. Katsuhiko Ogata, Modern Control Engineering, PHI, 2002, 4th edition 
 Reference Books: 
 1. M.Gopal, Control Systems-Principles and Design, 2, TMH, 2002. 
-Back 
-   ## Page 72
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3011,7 +2897,6 @@ Text Books:
 1. Steve Furber, ARM System- on-Chip Architecture, 2nd, LPE, 2002 
 2. William Hohl, ARM Assembly Language fundamentals and Techniques, 1st, CRC press, 
 2009 
- ## Page 73
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3024,8 +2909,6 @@ Title: Curriculum Content Course wise Year:2023-27
 1. "ARM system Developer's Guide"- Hardbound, Publication date: 2004 Imprint: 
       MORGAN KAUFFMAN 
 2. User manual on LPC21XX. 
- Back 
-   ## Page 74
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3075,8 +2958,6 @@ Transform, Implementation of discrete time of LTI systems.
 Text Books: 
 1. Simon Haykin and Barry Van Veen, Signals and Systems -2nd Edition, John 
 Wiley, 2004 
-  Back 
-   ## Page 75
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3132,7 +3013,6 @@ MOSFET gate drive with isolation, Over-current protection.
 05 Hrs 
 Text Books: Daniel W Hart, Power Electronics, Tata McGraw-Hill Edition, New-Delhi, 2011. 
 Reference Books: 
- ## Page 76
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3145,8 +3025,6 @@ Title: Curriculum Content Course wise Year:2023-27
 New Delhi, 2000. 
 2. P. S. Bhimbra, Power Electronics, Khanna Publishers, 2007. 
 3. Umanand, Power Electronics, 2nd edition, Wiley-India Publications, New -Delhi, 2009. 
- Back 
-  ## Page 77
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3194,7 +3072,6 @@ Expt. No.8 Write a C program to sample analog data at a specified interval defin
 RTC. 
 Expt. No.9 Write a C program & demonstrate an interfacing of Alphanumeric I2C based 
 16x2 LCD panel. 
- ## Page 78
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3203,7 +3080,6 @@ FMCD2005
 Title: Curriculum Content Course wise Year:2023-27 
   KLE Tech Confidential CONTROLLED COPY 
 78 
-  Back 
    Expt. No.10 Develop an application code to automate the entry of people in the conference 
 hall where the door is opened every 1 sec to allow the entry of people. 
   Structured Enquiry 
@@ -3219,7 +3095,6 @@ The solution should include one on-chip peripheral and one off-chip peripheral
 Expt. No.2 Develop an efficient firmware using ARM to demonstrate concept of a 
 calculator with 4X4 keypad, comment on the performance in terms of time, memory and 
 power utilization 
- ## Page 79
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3258,8 +3133,6 @@ Clock Skew.
 06 Hrs 
 Expt. No. 7. Advanced HDL Descriptions 
 File operations in Verilog, Memories: RAM, ROM, Block Memories( Xilinx IP) 08 Hrs 
-Back 
-   ## Page 80
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3294,8 +3167,6 @@ Text Books:
 1. Richard F. Gilberg & Behrouz A. Forouzan, Data St ructures A Pseudocode Approach with C, 
 Second Edition. 
 2. Aaron M. Tenenbaum, Data Structures Using C. 
-  Back 
-   ## Page 81
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3319,8 +3190,6 @@ Expt. No. 6 Programs on implementation of different types of Linked lists
 Expt. No. 7 Programs on Implementation of trees. 
 Expt. No. 8 Programs to implement different sorting techniques. 
 Expt. No. 9 Programming on hash tables 
-Back 
-  ## Page 82
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3372,7 +3241,6 @@ Solar panels, motors suitable for pump drives, battery powered vehicles, solar
 powered electrical vehicles 
 05 Hrs 
 Lab Experiments to be conducted 
- ## Page 83
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3396,8 +3264,6 @@ Reference Books:
 2. S. K. Pillai, A First Course On Electric Drives, Wiley Eastern Ltd, 1990. 
 3. V. R. Moorthi, Power Electronics, Devices, Circuits & Industrial Applications, Oxford 
 University Press, 2005. 
-Back 
-   ## Page 84
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3453,7 +3319,6 @@ Chapter No. 7: Stability analysis by EAC: EAC applications to to -sudden change 
 mechanical power input, 3 -phase fault on transmission line, expression for critical 
 clearing angle, examples on EAC applications 
 05 Hrs 
- ## Page 85
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3475,8 +3340,6 @@ Reference Books:
 1. Hadi Sadat, Power System Analysis, First Edition, Tata McGraw Hill, 2002 
 2. Nagarath and Kothari, Modern Power System Analysis, 2nd Edition, Tata McGraw Hill, 1993 
  3. J.J. Grainger and W.D. Stevenson, Power System Analysis, McGraw Hill (New York), 1994 
-  Back 
-  ## Page 86
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3531,7 +3394,6 @@ Chapter No. 7: Case study: Applications based on Cortex -M series in RTOS
 environment 02 Hrs 
 List of experiments 
 1. Write a C program to use on chip Timers in LPC2148 and generate required delay 20 Hrs 
- ## Page 87
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3558,8 +3420,6 @@ Text Books
 3. Shibu K. V., Introduction to Embedded systems, 6th reprint, 2012 
 Reference Books: 
 1. Qing Li with Caroline Yao, Real-Time Concepts for Embedded Systems, 1st edition 
-  Back 
-  ## Page 88
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3610,8 +3470,6 @@ Reference Books:
         Publishing Company Limited, New Delhi 
 3. Alan V. Oppenheim & Ronald W. Schafer, Discrete-Time Signal Processing, Prentice-Hall 
         of India Pvt. Ltd 
-Back 
- ## Page 89
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3666,7 +3524,6 @@ Text Books:
 Reference Books: 
 1. Robert. F. Coughlin &amp; Fredrick F. Driscoll, "Operational Amplifiers and Linear Integrated 
     Circuits", PHI/Pearson, 2006. 
- ## Page 90
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3679,8 +3536,6 @@ Title: Curriculum Content Course wise Year:2023-27
 3. Sergio Franco, "Design with Operational Amplifiers and Analog Integrated Circuits", TMH, 
     3e, 2005. 
 4. David A. Bell, "Operational Amplifiers and Linear IC's", 2nd edition, PHI/Pearson, 2004. 
-Back 
-   ## Page 91
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3731,7 +3586,6 @@ reduction, Dimensionality Reduction: PCA- Principal Component Analysis
   05 Hrs 
 Chapter No. 5 Introduction to Neural Network and deep learning Introduction to 
 Neural Networks (Motivation: non-linear model, Neurons and perception), Model 
-  ## Page 92
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3761,8 +3615,6 @@ Recognition and Machine Learning, 1, Springer, 2007
 References 
 1. Trevor Hastie, Robert Tibshirani, Jerome Friedman, The Elements of Statistical Learning: 
 Data Mining Inference and Prediction, 2, Springer, 2009 
-   Back 
-  ## Page 93
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3800,8 +3652,6 @@ Structured Enquiry
 Expt. No. 1 To develop the second order response surface methodology (RSM) based speed 
 prediction model of DC shunt motor by conducting experiments as per Design of 
 Experiments.(DOE) 
-  Back 
-  ## Page 94
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3833,8 +3683,6 @@ Expt. No. 8. Design and analyze Lag and Lead Compensators
 Structured Enquiry 
 Expt. No. 1 Simulate and Investigate the effect of P, PI, PID controllers on the time response 
 of a given second order series RLC system. (MATLAB/using any simulation tool) 
-  Back 
-   ## Page 95
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3886,7 +3734,6 @@ Text Books:
 3. Gupta S C and Kapoor V K, Fundamentals of Mathematical Statistics, 9ed, Sultan Chand 
 & Sons, New Delhi, 2002 
 Reference Books: 
- ## Page 96
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3900,8 +3747,6 @@ Applications for Engineering and the Computing Sciences, 4 th Ed, TATA McGraw -H
 Edition 2007. 
 2. Schaum's Outline of Linear Algebra Seymour Lipschutz, Marc Lips on 4ed, McGraw Hill 
 India 2009. 
-Back 
-   ## Page 97
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3941,8 +3786,6 @@ Sons, New Delhi, 2018
 4. M Tyra, "Magical Book on Quicker Maths", BSC Publications, 2018 
 5. Cambridge Advanced Learner's Dictionary, Cambridge University Press. 
 6. Kaplan's GRE guide 
-  Back 
-  ## Page 98
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -3994,7 +3837,6 @@ platform
 • Power train: Electronic Gas-pedal System (EGAS) 
 • Fuel injection Control System 
 48 Hrs 
- ## Page 99
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4033,7 +3875,6 @@ Text Books:
 3. Konrad Reif Ed , Brakes, Brake Control and Driver Assistance Systems, Professional 
 Automotive Information, Springer, 2014 
 4. David Smith, Kenneth Simpson, The Safety Critical Systems Handbook, 5th Edition, 2020 
- ## Page 100
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4048,8 +3889,6 @@ Title: Curriculum Content Course wise Year:2023-27
 3. Allan Bonnick, Automotive Compu ter Controlled Systems Diagnostic Tools and 
 Techniques, Elsevier Science, 2001 
 4. Nicholas Navet , Automotive Embedded System Handbook , 2009 
-  Back 
-  ## Page 101
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4101,8 +3940,6 @@ Reference Books:
 2. Douglas A. Pucknell and Kamran Eshraghian, Basic VLSI Design, 3, PHI, 2005 
 3. Phillip. E. Allen, Douglas R. Holberg, CMOS Analog circuit Design, 1, Oxford Univer sity, 
 2002 
-Back 
- ## Page 102
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4154,7 +3991,6 @@ Lab Experiments to be conducted
 1. Formation Ybus by singular transformation 02 Hrs 
 2. To form Ybus by the method of inspection 02 Hrs 
 3. Solution of load flow problem using Gauss-Seidel method 02 Hrs 
- ## Page 103
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4183,8 +4019,6 @@ Reference Books:
 2. Hadi Sadat, Power system analysis, 1st ed, TMH, 2002 
 3. A.R. Bergen and Vijay Vittal, Power System Analysis, First, Pearson Education, 2009 Joe H. Chow, 
 Juan J. Sanchez-Gasca, Power System Modelling, Computation 
-Back 
-  ## Page 104
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4215,8 +4049,6 @@ Text Books:
 1. John P. Uyemura, "Introduction to VLSI Circuits and Systems", Wiley. 
 2. Neil Weste and K. Eshragian,"Principles of CMOS VLSI Design: A System Perspective," 
 2nd edition, Pearson Education (Asia) Ptv. Ltd., 2000 
-   Back 
-  ## Page 105
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4253,8 +4085,6 @@ Reference Books:
 3. William Strunk, E B White - The Elements of Style, Pearson 
 4. John Maxwell - The 17 Essential Qualities of a Team Player, Harper Collins Leadership 
 5. Robin Ryan - 60 Seconds and You're Hired! - Penguin Books 
-  Back 
-   ## Page 106
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4286,8 +4116,6 @@ Chand and Sons, New Delhi
 Reference Books: 
 1. Verbal and Non - Verbal Reasoning - Dr. Ravi Chopra, MacMillan India 
 2. Lateral Thinking - Dr. Edward De Bono, Penguin Books, New Delhi 
-  Back 
-  ## Page 107
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4337,7 +4165,6 @@ Structured Enquiry
 To develop microcontroller based overcurrent, over voltage and impedance relay using 
 CT /PT giving details of program and demonstrate it's working output. 
   Text Books: 
- ## Page 108
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4350,8 +4177,6 @@ Title: Curriculum Content Course wise Year:2023-27
 Reference Books: 
 1. Fundamental of Power System Protection by Y.G. Painthankar & S.R. Bhide PHI Publication. 
 2. Power System Protection & Switch Gear by Badriram & Vishwa Karma TMH 
-Back 
-   ## Page 109
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4399,7 +4224,6 @@ Development.
 Chapter No. 11 Environmental Protection Environmental Protection - Constitutional 
 Provisions and Environmental Laws in India 
 Text Books: 
- ## Page 110
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4417,8 +4241,6 @@ Reference Books:
 1. Durga Das Basu, "Introduction to the Constitution of India", Prentice-hall EEE, 2001 
 2. Mike Martin and Ronald Schinzinger, "Ethics in Engineering", Tata McG raw-Hill 
 Publications 
-Back 
-  ## Page 111
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4433,7 +4255,6 @@ Course Title: Electric Vehicular Technology Course Code: 24EEEE301
 L-T-P: 1-0-2 Credits: 3 Contact Hrs: 5 Hrs/Week 
 ISA: 67 ESA: 33 Total Marks: 100 
 Teaching Hrs: 27 Lab Hrs: 43 Exam Duration: 2Hrs 
-  Back 
 Unit-I Hrs 
 Chapter No. 1. Introduction to Electric Vehicles 
 History of Electric Vehicles, Types of EVs: Battery Electric Vehicles (BEVs), Plug-in Hybrid 
@@ -4472,7 +4293,6 @@ Taylor and Francis Group, 2021
 References: 
 1. Modern Electric, Hybrid Electric, and Fuel Cells Vehicles, Fundamentals, Theory and Design, 2nd 
 Edition, Mehrdad Ehsani, Yimin Gao, Ali Emadi, CRC Press, Taylor and Francis Group, 2018 
- ## Page 112
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4522,7 +4342,6 @@ Phase 1 (10 Marks) : Model using any suitable simulation software like MATLAB/
 PYTHON/ any suitable. Design four panels of 12V 5 Amp each and connects them 
 in series and parallel as shown. Simulate and verify the operation at various 
 insolation levels. 
-   ## Page 113
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4571,7 +4390,6 @@ am
 12 am 1000 5.30 
 pm 
 0 
-  ## Page 114
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4601,7 +4419,6 @@ Technology, Springer, 2014
 Reference Books: 
 1. Gilbert M Masters, Renewable and Efficient Electric Power Systems, Wiley Interscience, 
 New Jersey, 2004 
-   ## Page 115
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4655,8 +4472,6 @@ education, 2009
 1. The Complete Reference C++, Herbert Schildt, 4th Edition, TMH, 2005. 
 Farrell, "An object-oriented approach to logic and design", 4th Edition, Cingage Publishers, 2012. 
 2. Lippman S B, Lajorie J, Moo B E, C++ Primer, 4ed, Addison Wesley, 2005. 
-Back 
- ## Page 116
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4709,7 +4524,6 @@ Introduction to Transformers, Origins and evolution from traditional sequence
 models (like RNNs and LSTMs) to transformers, self-attention mechanism, multi-
 head attention, position-wise feedforward networks. 
 05 Hrs 
- ## Page 117
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4747,8 +4561,6 @@ Intelligence Future". John Wiley & Sons Inc; 1st edition, (2024), ISBN -13: 978 
 4. Jospeh Babcock and Raghav Bali, "Generative AI with Python and TensorFlow 2: Create 
 images, text, and music with VAEs, GANs, LSTMs, Transformer models", Packt Publishing 
 (2021); Packt Publishing Limited, 1-488 Pages, ISBN-13: 978-1800200883 
-Back 
-   ## Page 118
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4788,8 +4600,6 @@ Reference Books:
 2. Verilog HDL: A Guide to Digital Design and Synthesis by Samir Palnitkar, 2nd Edition. 
 3. Principles of VLSI RTL Design: A Practical Guide by Sapan Garg, 2011. 
 4. Tools: Questa Sim, Modelsim for Verilog, Cadance Geneus, Xilinx 14.2 ISE 
-Back 
-  ## Page 119
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4842,8 +4652,6 @@ house publisher.
 Reference Books: 
 1. Jiuchun Jiang and Caiping Zhang, "Fundamentals and Applications of Lithium-Ion 
 Batteries in Electric Drive Vehicles", John Wiley & Sons, 2015. 
-Back 
-  ## Page 120
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4895,7 +4703,6 @@ Delhi, 2000.
 6. L. Umanand, Power Electronics: Essentials and Applications, 2nd Edition, Wiley -India 
 Publications, New Delhi, 2009. 
 References: 
- ## Page 121
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4904,7 +4711,6 @@ FMCD2005
 Title: Curriculum Content Course wise Year:2023-27 
   KLE Tech Confidential CONTROLLED COPY 
 121 
-  Back 
   1. Ned Mohan, Tore. M. Undeland and William. P Robbins, Power Electronics: Converters, 
 Applications and Design, John Wiley and Sons, 2003. 
 2. Marian P. Kazmierkowski, R. Krishnan and Frede Blaabjerg, Control in Power Electronics, 
@@ -4912,7 +4718,6 @@ Academic Press, 2002.
 3. Marian K. Kazimierczuk, Pulse -width Modulated DC -DC Power Converters, John Wiley & 
 Sons. 
 4. Robert W. Erickson, Fundamentals of Power Electronics, Kluwer Academic Publishers, 2000. 
- ## Page 122
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -4963,8 +4768,6 @@ and Francis Group, 2021
 Reference Books: 
 1. Modern Electric, Hybrid Electric, and Fuel Cells Vehicles, Fundamentals, Theory and Design, 2nd 
 Edition, Mehrdad Ehsani, Yimin Gao, Ali Emadi, CRC Press, Taylor and Francis Group, 2018 
-Back 
-  ## Page 123
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -5015,8 +4818,6 @@ Publishers Distributors, Delhi, 200, ISBN 81 86308 79 2.
 References Books: 
 1. K. R Padiyar, "FACTS controllers in Power Transmission and Distribution", New Age 
 International Publishers, New-Delhi, 2007, ISBN 978 81 224 2142 2. 
-Back 
-   ## Page 124
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -5066,7 +4867,6 @@ MATLAB/Simulink or PLECS 04 Hrs
 6. Simulation of VSI fed PMSMs 04 Hrs 
 Structured Enquiry 
 7. Develop and analyze the given control strategy for a PMSM drive and interpret the 06 Hrs 
- ## Page 125
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -5081,8 +4881,6 @@ Text Books:
 1. NPTEL course notes on "Introduction to Hybrid and Electric Vehicles" , IIT Guwahati. 
 2. Chris Mi and M Abul Masrur, "Hybrid Electric Vehicles: Principles and Applications with Practical 
 Perspectives", John Wiley & Sons, 2018. 
-  Back 
-  ## Page 126
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -5131,8 +4929,6 @@ Text Books:
 Katsuhiko Ogata, Modern Control Engineering, PHI, 2002, 4th edition 
 Reference Book: 
 1. M. Gopal, Control Systems-Principles and Design, TMH 2002, 2nd edition 
-Back 
-   ## Page 127
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -5184,7 +4980,6 @@ trajectories, , The Describing function Method: Basic concepts, derivation of
 describing functions for common nonlinearities, Stability analysis by Describing 
 Function approach, Lyapunov Stability Criterion 
 08 hrs 
- ## Page 128
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -5198,8 +4993,6 @@ Title: Curriculum Content Course wise Year:2023-27
 2. B. C Kuo, Digital Control Systems, 2nd Edition, Oxford University Press, Inc., 1992 
 Reference Books: 
 1. Digital Control and State Variable Methods by M.Gopal, TMH 
-Back 
-   ## Page 129
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -5252,8 +5045,6 @@ Reference Books:
 2. Bose B. K., , Power Electronics and AC Drives, 5, PHI, 2003 
 3. Rashid M. H, Digital Power Electronics and Applications, 1, Elsevier, 2005 
 4. V. Ramanarayanan, Switched Mode Power Converters Notes, IISC, Bangalore, 2008 
-Back 
- ## Page 130
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -5302,7 +5093,6 @@ time systems, Matrix solving discrete time state space equations, Discretization
 of continuous time state - space equations. 
 05 Hrs 
   Unit - III 
- ## Page 131
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -5324,8 +5114,6 @@ Text Books
 2. B. C Kuo, Digital Control Systems, 2nd Edition, Oxford University Press, Inc., 1992 
 Reference Books: 
 1. Digital Control and State Variable Methods by M.Gopal, TMH 
-  Back 
-   ## Page 132
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -5373,7 +5161,6 @@ Week 12: Disaster Management
 Books and references 
 ● IGNOU course material available at eGyankosh 
 ● Course OEE-001: Electricity & Safety Measures; 
- ## Page 133
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -5388,8 +5175,6 @@ BEE-002: Energy Management,
 ● Block 2: Operation & Maintenance of course BEE-001: Power Distribution Sector of Programme 
 "Advanced Certificate in Power Distribution" being offered by School of Engineering & 
 Technology(SOET), IGNOU 
-Back 
-  ## Page 134
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -5443,7 +5228,6 @@ Lab Experiments:
 • Implementation of Gateway Functionality - Signal Routing , Application Routing 
 and PDU Routing 
 16 hrs 
- ## Page 135
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -5457,8 +5241,6 @@ Title: Curriculum Content Course wise Year:2023-27
 2. Ribbens, Understanding of Automotive electronics, 6th Edition, Elsevier, 2003 
 3. Denton.T, Advanced automotive fault diagnosis, 2000 
 4. David Smith, Kenneth Simpson, The Safety Critical Systems Handbook, 5th Edition, 2020 
-Back 
-  ## Page 136
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -5499,8 +5281,6 @@ Reference Books:
 2. Wang, Laung-Terng. VLSI Test Principles and Architectures. Morgan Kaufmann, 2006. 
 3. Huhn, Sebastian. Design for Testability, Electrical & Electronics Engineering and Reliability. Springer 
 Nature, 2021. 
-Back 
-  ## Page 137
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -5548,7 +5328,6 @@ Elsevier, 2008.
 Reference Books: 
 1. Patrick Schaumont "A Practical Introduction to Hardware/Software Co-design", 2nd Edition, 
 Springer, 2012. 
- ## Page 138
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -5560,8 +5339,6 @@ Title: Curriculum Content Course wise Year:2023-27
   2. Lin, Y-L.S. (ed.), "Essential issues in SOC design: designing complex systems-on-chip. Springer, 
 2006. 
  3. Wayne Wolf, "Modern VLSI Design: IP Based Design", Prentice-Hall India, Fourth edition, 2009. 
-  Back 
-   ## Page 139
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -5605,8 +5382,6 @@ Reference Books
 2. Glenn R. Blackwell, The Electronics Packaging Handbook, CRC Press, 2017. 
 3. Bernard S Matisoff, Handbook of Electronics Packaging Design and Engineering, Springer, 2012. 
 4. Rao R Tummala, Fundamentals of Microsystems Packaging, McGraw Hill, 2001. 
-Back 
- ## Page 140
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -5650,8 +5425,6 @@ Addison Wesley Pub Co.1985.
 Physical Compiler an PrimeTime, 2nd edition, 2001. 
 3. Springer Science+Business Media, LLC 2009 
 4. Tools: Cadence Innovous, Encounter 
-  Back 
-   ## Page 141
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -5709,7 +5482,6 @@ infotainment control
 4 Design an app to control 
 vehicle infotainment 1.00 6 Chapters 2, 3, 4 & 
 5 
- ## Page 142
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -5760,8 +5532,6 @@ vii. Qt - https://doc.qt.io/
 viii. Blender - https://www.blender.org/support/ 
 ix. OpenGL - https://www.opengl.org/ 
 x. TouchGFX - https://support.touchgfx.com/docs/introduction/welcome 
-  Back 
-  ## Page 143
  FORM 
 ISO 21001:2018 
 Document #: 
@@ -5770,7 +5540,6 @@ FMCD2005
 Title: Curriculum Content Course wise Year:2023-27 
   KLE Tech Confidential CONTROLLED COPY 
 143 
-  Back 
 Program: Electrical & Electronics Engineering Semester: VII 
 Course Title: System Verilog using Verification Course code: 25EEEE406 
 L-T- P: 1-0-2 Credits: 03 Contact Hrs: 05 Hrs /week 
@@ -5808,4 +5577,4 @@ Reference Books:
 1. System Verilog LRM 
 2. Chris Spear, Gregory J. Tumbush - System Verilog for verification - a guide to learning the test 
 bench language features - Springer, 2012 
-3. Tools: Questa Sim, NC Verilog, NC Sim, CVER + GTKWave, VCSMX, ModBackelsim for Verilog 
+3. Tools: Questa Sim, NC Verilog, NC Sim, CVER + GTKWave, VCSMX, ModBackelsim for Verilog

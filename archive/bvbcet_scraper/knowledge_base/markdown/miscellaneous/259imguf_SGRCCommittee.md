@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 259imguf_SGRCCommittee"
+title: "Sgrccommittee"
 category: "miscellaneous"
 subcategory: ""
 document_type: "document"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["document", "hubballi", "member", "professor", "technological", "university"]
 aliases: ["CSE", "CS", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "1"
 ---
-# PDF Document: 259imguf_SGRCCommittee
- **PDF Source:** https://www.kletech.ac.in/Uploads/image/259imguf_SGRCCommittee.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/Uploads/image/259imguf_SGRCCommittee.pdf
  KLtrTT?ffi'IfiIX
 Creating Value
 Leveraging Knowledge 

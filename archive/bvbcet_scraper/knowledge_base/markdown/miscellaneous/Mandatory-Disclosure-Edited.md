@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: Mandatory-Disclosure-Edited"
+title: "Mandatory Disclosure Edited"
 category: "miscellaneous"
 subcategory: ""
 document_type: "syllabus"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["asst", "college", "disclosure", "document", "edited", "instructor", "mandatory", "prof", "year"]
 aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE", "KLETech", "KLE Tech", "BVB", "BVBCET"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "335"
 ---
-# PDF Document: Mandatory-Disclosure-Edited
- **PDF Source:** https://www.kletech.ac.in/pdf/Mandatory-Disclosure-Edited.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/Mandatory-Disclosure-Edited.pdf
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -25,7 +25,6 @@ B. V. B. College of Engineering & Technology
 Vidyanagar, Hubballi -580031 
 Tel. No.: 0836 2378123, 2378103 
 Email: registrar@kletech.ac.in, Website: www.kletech.ac.in 
-  ## Page 2
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -74,7 +73,6 @@ details
 12 Non-teaching staff details with role and responsibilities and 
 Complete information 
   151-158 
- ## Page 3
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -120,7 +118,6 @@ Internship / Apprenticeship Embedded Degree Programmes
 along with holder details and assigned work 
   243 
 23 Details International cell for students 244 
- ## Page 4
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -135,7 +132,6 @@ Scholarships, free education, hostel facilities
 27 Details of online and digital programmes 
   259 
 28 Details of all MoUs signed (in PDF format) 260-508 
-  ## Page 5
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -145,7 +141,6 @@ norms and approved by the Board of Governors
 Following documents are shared/attached: 
  KLE Technological University Statutes 
  KLE Technological University Rules and Regulation for all courses 
-  ## Page 6
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -155,7 +150,6 @@ in chronological order
 Following documents are shared/attached: 
  Annual Budget 2023-24 Soft Copy 
  Annual Budget 2022-23 Soft Copy 
-  ## Page 7
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -164,7 +158,6 @@ B. V. B. College of Engineering & Technology
 Following documents are shared/attached: 
  Annual Report 2020-21 & 2021-22 
  Audit Report 2020-21 & 2021-22 
-  ## Page 8
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -178,7 +171,6 @@ Following documents are shared/attached:
  BOG Details and MOM 
  Academic Council Details and MOM 
  Finance Council Details and MOM 
-  ## Page 9
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -226,7 +218,6 @@ e
  Student Activity Centre 300 square meters 
  Canteen 1339.8 square meters 
  Boys Common Room 1152 square meters 
- ## Page 10
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -272,7 +263,6 @@ Xerox Machines : 15 Nos
 f Bandwidth of Internet 
   Internet: 1250 Mbps Leased Line 1:1 
 Intranet: Backbone 10Gbps* 
- ## Page 11
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -284,40 +274,34 @@ intercom Telephone facility.
 Every school and department is also provided 
 with access to WIFI facility. 
   Note: Entire Campus Infrastructure photos (Sample) are attached below: 
- ## Page 12
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
 B. V. B. College of Engineering & Technology 
 Main Building: 
   School of Computer Science & Engineering: 
-  ## Page 13
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
 B. V. B. College of Engineering & Technology 
 School of Mechanical Engineering: 
   School of Electronics & Communication Engineering: 
-  ## Page 14
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
 B. V. B. College of Engineering & Technology 
 Biotechnology Department & School of Advanced Science: 
   KLE Technology Park and Alumni Office: 
-  ## Page 15
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
 B. V. B. College of Engineering & Technology 
 School of Management and Commerce: 
-  ## Page 16
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
 B. V. B. College of Engineering & Technology 
   Details of Department wise Movable Properties 
-  ## Page 17
  37 
   3. 0 Equipment/Computer Details (Details of Cost) 
 The following tables show the consolidated list of Equipment/Computer procured with total cost, by 
@@ -356,7 +340,6 @@ Sl No School/Department No of Equipments/Items Amount in (₹)
 9 School of Management Studies and Research -Nil- -Nil- 
 10 Department of Physics 03 75, 300.00 
  Total Amount 84 3, 39, 40, 270.50 
-  ## Page 18
  38 
   Table: 3.3 Details of Equipment School/Department wise (Academic Year: 2017-18) 
 Sl No School/Department No of Equipments/Items Amount in (₹) 
@@ -397,7 +380,6 @@ Sl No School/Department No of Equipment's/Items Amount in (₹)
 8 School of Mechanical Engineering 13 74, 73, 734.00 
 9 School of Management Studies and Research 06 4, 53, 107.00 
  Total Amount 68 1, 90, 82, 740.54 
-  ## Page 19
  39 
   Table: 3.6 Details of Equipment School/Department wise Procured (Before July 2015) 
 Sl No School/Department No of Equipment's/Items Amount in (₹) 
@@ -412,7 +394,6 @@ Sl No School/Department No of Equipment's/Items Amount in (₹)
 9 School of Management Studies and Research 13 13, 68, 112.00 
 10 Department of Chemistry 46 16, 01, 600.00 
  Total Amount 232 6, 55, 46, 486.00 
-  ## Page 20
  40 
   3. 1. Name of the School/Department: School of Architecture 
 The following are details of Equipment/Compute(₹) purchased by the School/Department from the 
@@ -456,7 +437,6 @@ Year
 12 CCTV Camera & Cable installation-First Floor 96, 655.00 
 13 Zebronics SMPS, Keyboards 10, 128.00 
 14 Ceramic Green Black Boards for Studios-3 nos 39, 900.00 
-  ## Page 21
  41 
   Table 3.1.3: Details of Equipments Procured during the Academic Year 2017-18 
 Year 
@@ -501,7 +481,6 @@ Equipment and Computers Cost
 15 Ceramic White board for studios 13, 900.00 
 16 Tray from drafting table 14, 160.00 
 17 Photoshop software for Comp Lab 1, 32, 160.00 
-  ## Page 22
  42 
   Table 3.1.5: Details of Equipments Procured during the Academic Year 2019-20 
 Year 
@@ -531,7 +510,6 @@ Major Equipment and Computer Cost
 3 Dell Projector -5 nos 1, 29, 238.00 
 4 Drafting Table Tops - 100 nos 57, 250.00 
 5 Drawing Tables- 20 for studios 83, 585.00 
-  ## Page 23
  43 
   3. 2. Name of the School/Department: Department of Automation & Robotics 
 The following are details of Equipment/Computers purchased by the School/Department from the 
@@ -570,7 +548,6 @@ Year
 6 Hand drill 7, 956.00 
 7 Angle grinder 3, 245.00 
 8 Workstation 4, 97, 871.00 
- ## Page 24
  44 
   Year 
 2017-2018 Equipment and Computers Cost 
@@ -610,7 +587,6 @@ Year
 5 Dynamixel 3, 53, 714.00 
 6 Sensors 5, 31, 00.00 
 7 Voltera, Drillattachment, Rivets ,solder apst, Cartridge Bundle 6, 25, 477.00 
-  ## Page 25
  45 
   Table 3.2.5: Details of Equipments Procured during the Academic Year 2019-20 
 Year 
@@ -636,7 +612,6 @@ Raspberry pi ,Arduino mega Templates ,conductive link cartridge
 13 Dell LED Monitor 18.5"/ HP LED Monitor 24" 1, 37, 200.00 
 14 HP Laptop 67, 201.00 
 15 Hitachi LED Smart 140cm 34, 994.00 
-  ## Page 26
  46 
   3. 3. Name of the School/Department: Department of Biotechnology 
 The following are details of Equipment/Computers purchased by the School/Department from the 
@@ -675,7 +650,6 @@ control panel & Air compressor
 36, 85, 000.00 
 6 pH meter Bench Top 85, 000.00 
 7 Analytical Balance 90, 000.00 
- ## Page 27
  47 
   Year 
 2018-2019 Equipment and Computers 
@@ -719,7 +693,6 @@ Major Equipment and Computer Cost
 16 Water bath incubator 23, 250.00 
 17 Phase contrast Microscope with Digital camera 1, 09, 528.00 
 18 Binocular Microscope 47, 600.00 
- ## Page 28
  48 
   Year 
 Before July 
@@ -759,7 +732,6 @@ Major Equipment and Computer Cost
 49 Sartorious Fermenter 6, 18, 750.00 
 50 Computers HP 280 G1MT (16 Nos) 4, 60, 000.00 
 51 Compaq-Presario Computers (18 Nos) 6, 22, 800.00 
-  ## Page 29
  49 
   3. 4. Name of the School/Department: School of Civil Engineering and Environment 
 The following are details of Equipment/Computers purchased by the School/Department from the 
@@ -806,7 +778,6 @@ mount kit, optoma projector 310e 3300 75, 673.00
 2 Primavera P6 professional Project management software 
 update 9, 99, 410.00 
 3 ABAQUS & J-OCTA 15, 76, 885.00 
- ## Page 30
  50 
   Year 
 2016-2017 Equipment and Computers Cost 
@@ -859,7 +830,6 @@ projector screen 6*8
 17, 500.00 
 12 135-101358 Micro Controller based Turbidity Meter (2 No.s) 30, 090.00 
 13 308-103082 Micro based Conductivity -TDS meter 28, 202.00 
- ## Page 31
  51 
   Table 3.4.4: Details of Equipments Procured during the Academic Year 2018-19 
 Year 
@@ -905,7 +875,6 @@ Vibrators
 6 Cement mortar Mixing Apparatus 26, 000.00 
 7 Laboratory cement Autoclave 34, 000.00 
 8 Vibrating machines for cement mortar cubes 31, 750.00 
- ## Page 32
  52 
   Year 
 Before July '2015 Major Equipment and Computer Cost 
@@ -944,7 +913,6 @@ gauge01x25mm (06-09-2013)
 34 Flow through mouthpiece 43, 798.00 
 35 Impact of jet on vanes 37, 968.00 
 36 Centrifugal pump (10Hp) for lifting of water 3, 600.00 
-  ## Page 33
  53 
   3. 5. School of Computer Science and Engineering 
 The following are details of Equipment/Computers purchased by the School/Department from the 
@@ -981,7 +949,6 @@ Cost
 2 Image Capture System, Ipad 2, 88, 137.00 
 3 HP Workstation R7082303DC 5, 95, 360.00 
 4 UPS withbatteries 1, 35, 000.00 
-  ## Page 34
  54 
   Table 3.5.4: Details of Equipments Procured during the Academic Year 2018-19 
 Year 
@@ -1026,7 +993,6 @@ Before July '2015 Major Equipment and Computer Cost
 3 Computer System: HP Pro 6300 MT Core i7 12, 26, 438.00 
 4 Apple Mac book Pro MD103HN/A Core i7 1, 15, 526.00 
 5 Wireless Sensor network Kit 6, 00, 001.00 
- ## Page 35
  55 
   Year 
 Before July '2015 Major Equipment and Computer Cost 
@@ -1040,7 +1006,6 @@ Before July '2015 Major Equipment and Computer Cost
 12 Computer System: HP Pro 3090 Core 2 Duo E7300 5, 32, 620.00 
 13 Sharp AR 5620 Digital Copier/Printer/Scanner 67, 000.00 
 14 Sharp AR 5620 Digital Copier/Printer/Scanner 67, 000.00 
-  ## Page 36
  56 
   3. 6. School of Electronics and Communication Engineering 
 The following are details of Equipment/Computers purchased by the School/Department from the 
@@ -1079,7 +1044,6 @@ Cost
 4 LG lite ATE Universal Load Board 3, 18, 000.00 
 5 Dell - Vostro computers 43, 89, 600.00 
 6 ARM 7 2148 Boards 4, 90, 972.00 
- ## Page 37
  57 
   Year 
 2017-2018 Equipment and Computers 
@@ -1122,7 +1086,6 @@ Cost
 10 Advanced Pneumatic Trainer 76, 000.00 
 11 PLC Trainer Kit 63, 503.00 
 12 Cimplicity SCADA Software 66, 000.00 
- ## Page 38
  58 
   Year 
 Before July '2015 Equipment and Computers 
@@ -1164,7 +1127,6 @@ Cost
 1, 71, 000.00 
 85, 080.00 
 24 CPLD/FPA Kits 1, 45, 749.00 
-  ## Page 39
  59 
   3. 7. Name of the School/Department: Department of Electrical and Electronics 
 Engineering 
@@ -1215,7 +1177,6 @@ Microcontroller Kit (10)
 4 2) Function Generator Systronics (6) 
 5 Regulated Power Supply (8) 96, 768.00 
 6 Dell Vostro 3669 MT Desktop Core i3-7100 (20) 17, 27, 107..00 
- ## Page 40
  60 
   Year 
 2017-2018 Equipment and Computers 
@@ -1269,7 +1230,6 @@ Cost
 4 MBED NXP LPC 1768 Micro Controller + License Key for online tool 
 USB cable pin out (10 No) 
 55, 106.00 
- ## Page 41
  61 
   Year 
 2019-2020 Equipment and Computers 
@@ -1327,7 +1287,6 @@ to R- Load this unit consist of control ckt. and power
 19 Green Power Online 6kVA UPS with 16 Batteries 1, 00, 000.00 
 20 HP Compaq Dx2480 Desktop Computers (10 Nos) 2, 83, 400.00 
 21 CRO Scientific Make Model HM 203 G Frequency 30Mhz (5 No) 1, 00, 500.00 
- ## Page 42
  62 
   Year 
 Before July '2015 Major Equipment and Computer 
@@ -1374,7 +1333,6 @@ JS Instrument Signal Generator(4)
 ARM 7 2148 Evaluation Board (10) 
 ARM CORTEX M3 Project Board with PROTO PRO Board (5) 
 1, 19, 458.00 
-  ## Page 43
  63 
   3. 8. Name of the School/Department: School of Mechanical Engineering 
 The following are details of Equipment/Computers purchased by the School/Department from the 
@@ -1423,7 +1381,6 @@ Mehta Cad Cam Services 14, 47, 031.00
 Warpp Engineers 8, 41, 575.00 
 9 Universal Tool & Cutter Grinding Machine, SIGMA 280US & T 
 Engineers 9, 86, 499.00 
- ## Page 44
  64 
   Year 
 2016-2017 Equipment and Computers 
@@ -1472,7 +1429,6 @@ HDD-
 1, 71, 175.00 
 4 ERP Software -SAP Business -Professional user licenses-20 17, 32, 999.00 
 AMC charge Altair Hyper works Software - 30 licenses 29, 33, 700.00 
-  ## Page 45
  65 
   Table 3.8.5: Details of Equipments Procured during the Academic Year 2019-20 
 Year 
@@ -1531,7 +1487,6 @@ Electronics System (ALS)
 Accessories 75, 388.00 
 7 PLC Trainer Kit comprising of AB Make PLC having 6 Digital Input, 4 
 Digital Out Put 24 V, (1 A) . Allen Bradley 1, 54, 735.00 
- ## Page 46
  66 
   Year 
 Before July '2015 Equipment and Computers 
@@ -1583,7 +1538,6 @@ ELPULS-15 23, 32, 845.00
 35 LatheConventional 1, 78, 920.00 
 36 Surface GrinderConventional 2, 06, 252.00 
 37 Drilling Machine, Siddapur, Table top Drilling Machine, Skill 2, 78, 370.00 
- ## Page 47
  67 
   Year 
 Before July '2015 Equipment and Computers 
@@ -1608,7 +1562,6 @@ Disk-03 nos 99, 603.00
 47 HP PRO 3330 core i3-2120CPU@3.30GHZ, 8GB RAM-25 nos 7, 04, 812.00 
 48 HP Scanner SJ200-01, Onida 50" LED TV, HP LaserJet Printer M1536, 
 HP Probook 4520S Laptop 1, 21, 472.00 
-  ## Page 48
  68 
   3. 9. Name of the School/Department: Department of Physics 
 The following are details of Equipment/Computers purchased by the School/Department from the 
@@ -1650,7 +1603,6 @@ Cost
 1 Digital Multimeters 24, 732.00 
 2 Function Generator 50, 218.00 
 3 Ammeter 350.00 
-  ## Page 49
  69 
   Table 3.9.3: Details of Equipments Procured during the Academic Year 2017-18 
 Year 
@@ -1677,7 +1629,6 @@ Analog ammeter
 Two way plug keys 
 Thermometer 
 1, 50, 272.00 
-  ## Page 50
  70 
   3. 10 Name of the School/Department: School of Management Studies and Research 
 The following are details of Equipment/Computers purchased by the School/Department from the 
@@ -1717,7 +1668,6 @@ Cost
 (₹) 
 1 Amaron Quanta Batteries 59, 200.00 
 2 Airflo Axial Fan for UPS 3, 000.00 
- ## Page 51
  71 
   Year 
 2019-2020 Equipment and Computers 
@@ -1745,7 +1695,6 @@ Cost
 11 HP Pro 3330 Desktops 2, 98, 250.00 
 12 HP Pro 3330 MT Desktops 2, 97, 510.00 
 13 HP LaserJet Pro CP1025 Color Printer 14, 650.00 
-  ## Page 52
  Sl.no Bank Name Account Number Date of opening of 
 Account Purpose 
 1 Canara Bank 12442010019313 31-03-2016 Statutory Funds Account
@@ -1799,7 +1748,6 @@ Account Purpose
 49 Canara Bank 110127450777 27-06-2023 Grant account
 50 Canara Bank 110107311349 13-03-2023 Grant account
 List of Bank Accounts of KLE Technological University, Hubballi as on 15-07-2023
- ## Page 53
  Sl.no Bank Name Account Number Date of opening of 
 Account Purpose 
 51 Canara Bank 110002340809 17-04-2021 Grant account
@@ -1816,7 +1764,6 @@ Account Purpose
 62 Canara Bank 110028214660 14-12-2021 Grant account
 63 Canara Bank 12442010041302 09-12-2020 Grant account
 64 Canara Bank 110037553328 14-02-2022 Grant account
- ## Page 54
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -1824,20 +1771,17 @@ B. V. B. College of Engineering & Technology
 8. Monthly income and expense statements 
 Following documents are shared/attached below: 
  Monthly Income and Expense Statement for 2021-22 
- ## Page 56
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
 B. V. B. College of Engineering & Technology 
   Purchase Orders / Tenders in 2022-23 
-  ## Page 70
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
 B. V. B. College of Engineering & Technology 
   Continuing Physical Infrastructure 
 Page under updation 
-  ## Page 71
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -1854,7 +1798,6 @@ Following documents are shared/attached below:
 www.kletech.ac.in 
  Faculty Details (Qualification, Teaching Experience & Professional 
 Experience etc.) 
-  ## Page 72
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
   Earlier known as 
@@ -1863,7 +1806,6 @@ KLE Technological University, Hubballi
 Strategic Plan: 2017- 2022 
   VISION 
 MISSION 
- ## Page 73
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
   Earlier known as 
@@ -1899,7 +1841,6 @@ support as we continue on this exciting journey.
   Yours sincerely 
   Dr. Ashok Shettar 
 Vice-Chancellor 
-   ## Page 74
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
   Earlier known as 
@@ -1932,7 +1873,6 @@ college was recognized as a state private University by Government of Karnataka.
 heritage of BVB College as one of the be st engineering college combined with brand equity of 
 KLE Society are the starting points for KLE Technological University to emerge as a University 
 with a national distinction. 
-   ## Page 75
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
   Earlier known as 
@@ -1942,7 +1882,6 @@ Strategic Plan: 2016- 2020
   Overview 
   VISION 
 MISSION 
- ## Page 76
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
   Earlier known as 
@@ -1967,14 +1906,12 @@ contributing our expertise, experience and leadership , to enhance
 competitiveness and quality of life. 
 As a unified community of faculty, staff and students, we work together with the 
 spirit of collaboration and partnership to accomplish our mission. 
-  ## Page 77
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
   Earlier known as 
 B. V. B. College of Engineering & Technology 
    Strategic Themes 
 Section-1 
- ## Page 78
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
   Earlier known as 
@@ -2006,7 +1943,6 @@ adapting best practices from educational research.
 b. Ensure that curriculum strongly reflects relevant Graduate attributes and 
 deliver high quality programs that meet national and international 
 standards. 
- ## Page 79
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
   Earlier known as 
@@ -2040,7 +1976,6 @@ d. Enrich teaching, learning and outreach activities by drawing on
 international best practice 
 e. Leverage new delivery models and technologies to provide flexible blended 
 and / or online learning 
-  ## Page 80
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
   Earlier known as 
@@ -2060,7 +1995,6 @@ coordinate institutional learning assessment activities.
 c) Identify the m eans by which information that results from assessment can 
 be used the effectively in course design, curriculum review, and program 
 development 
-   ## Page 81
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
   Earlier known as 
@@ -2093,7 +2027,6 @@ all the schools.
 c. Enhance research active faculty 
 d. Establish metrics to measure and reflect research output and impact 
 using a range of measures at individual and institutional level. 
-  ## Page 82
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
   Earlier known as 
@@ -2126,7 +2059,6 @@ sustain the research initiatives and enable specific research projects
 d. Drive the commercialization of research and technology transfer, 
 through mechanisms such as licen sing, patents, creating spin -off 
 companies and supporting external entrepreneurs. 
- ## Page 83
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
   Earlier known as 
@@ -2144,7 +2076,6 @@ teaching/learning, including the participation of undergraduate and
 postgraduate students in University research programs. 
 c. Evolve innovative enrollment strategies to recruit a nd support full time 
 researchers and personnel from industry. 
-   ## Page 84
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
   Earlier known as 
@@ -2169,7 +2100,6 @@ magnets of talent, as engines of innovation and as incubators of new products
 and ideas. Our work in driving innovation and entrep reneurship in our region 
 will be grounded on a strong entrepreneurial culture among our faculty and 
 students. 
-  ## Page 85
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
   Earlier known as 
@@ -2197,7 +2127,6 @@ b. Address needs, challenges, and perspectives of our Region with services,
 applied research and collaboration with appropriate organizations. 
 c. Support educational institutions and students in the Region through 
 outreach programs and services to enhance quality of education. 
-  ## Page 86
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
   Earlier known as 
@@ -2214,14 +2143,12 @@ ecosystem in the campus and in the region.
 c. Promote and support innovation and research by students and faculty 
 leading to solutions that address wide range of societal needs and also 
 create value for the new enterprises. 
-  ## Page 87
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
   Earlier known as 
 B. V. B. College of Engineering & Technology 
    Enablers 
 Section-2 
- ## Page 88
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
   Earlier known as 
@@ -2252,7 +2179,6 @@ links to reward, recognition and future development planning.
 faculty to enhance the relevance of the programs being offered. 
  Ensure all staff appointed to research enabl ed positions have a PhD or a 
 Research Development Plan as a condition of employment. 
-  ## Page 89
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
   Earlier known as 
@@ -2286,7 +2212,6 @@ plans to provide coordination and focus for key strategic goals.
 and regulations of regulatory bodies 
  Identify relevant good governance practices of comparable institutions and 
 benchmark University governance against them. 
- ## Page 90
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
   Earlier known as 
@@ -2321,7 +2246,6 @@ laboratory development.
 the social and economic development of the region. 
  Tie up with national and international professional bodies to constantly 
 learn and adapt world-wide best practices in educational practice. 
-  ## Page 91
  Sl .No Emp ID Employee Name Father's Name Date of Joining DESIGNATION Occupation
 1 1 ASHOK S SHETTAR 16-11-00 VICE CHANCELLOR UG-FAC
 2 2 B L DESAI LINGANAGOUDA 13-09-73 EXECUTIVE DEAN UG-FAC
@@ -2358,7 +2282,6 @@ learn and adapt world-wide best practices in educational practice.
 33 7235 PRAVEEN DHULAVVAGOL MALLIKARJUN 15-07-10 ASST.PROF. UG-FAC
 34 7238 INDIRA BIDARI GURUNATH 08-01-11 ASST.PROF. UG-FAC
 35 7232 PRAKASH BHASKAR HEGADE 04-08-08 ASST.PROF. UG-FAC
- ## Page 92
  36 7241 SUNIL V GURLAHOSUR 08-01-13 ASST.PROF. UG-FAC
 37 5042 SHIVALINGAPPA BATTUR 09-02-13 ASST.PROF. UG-FAC
 38 7289 POOJA P SHETTAR 23-07-14 ASST.PROF. UG-FAC
@@ -2395,7 +2318,6 @@ learn and adapt world-wide best practices in educational practice.
 69 6038 SUHAS SHIROL 06-08-12 ASST.PROF. UG-FAC
 70 6039 SHIVASHANKAR HUDDAR 07-08-12 ASSOCIATE PROFESSOR UG-FAC
 71 7345 HEERA G WALI 15-07-15 ASST.PROF. UG-FAC
- ## Page 93
  72 7366 SATISH CHIKKAMATH 22-07-14 ASST.PROF. UG-FAC
 73 7387 GIREESHA H M 24-07-14 ASST.PROF. UG-FAC
 74 6063 RAJESHWARI SHIVAPPA GANIYAR 07-08-12 ASST.PROF. UG-FAC
@@ -2432,7 +2354,6 @@ learn and adapt world-wide best practices in educational practice.
 105 7033 NIMBAGAL VIJAYA KUMAR N RAJASSEKHAR 10-08-09 ASST.PROF. UG-FAC
 106 7532 VINAYAK KHATAWATE PARASHURAM 15-07-10 ASST.PROF. UG-FAC
 107 2031 NAGARAJ EKABOTE LAXMAN 28-07-10 ASST.PROF. UG-FAC
- ## Page 94
  108 7036 ANAND LAKKUNDI 24-07-12 ASST.PROF. UG-FAC
 109 7546 ASHWIN R KUBASADAGOUDAR 25-07-08 ASST.PROF. UG-FAC
 110 7545 SANTOSH BILLUR 09-03-15 ASST.PROF. UG-FAC
@@ -2469,7 +2390,6 @@ learn and adapt world-wide best practices in educational practice.
 141 9906 S S GOUDAR 01-07-17 PROFESSOR UG-FAC
 142 1033 MOHANKUMAR DANDIN MURIGEPPA 25-08-89 ASSOC.PROF UG-FAC
 143 1038 DEEPA A MANE SHASHIKANT 24-04-08 ASSOC.PROF UG-FAC
- ## Page 95
  144 1037 KALPESHKUMAR PATEL SHANTILAL 23-08-10 ASSOCIATE PROFESSOR UG-FAC
 145 1039 ROHINI MALAGI MAHADEV 21-08-12 ASSOC.PROF UG-FAC
 146 1036 SHASHIDHAR KUBASAD NAGAPPA 22-08-08 ASST.PROF. UG-FAC
@@ -2506,7 +2426,6 @@ learn and adapt world-wide best practices in educational practice.
 177 7438 P VINOTHINI ACHARYA PUNDARIKAKSHA 10-08-09 ASST.PROF. UG-FAC
 178 7440 ROSHANKUMAR ARYA GOPAL RAM ARYA 08-01-13 ASST PROFESSOR UG-FAC
 179 7714 JYOTI MACHA VENKAPPA SIDNAL 13-08-16 ASST PROFESSOR UG-FAC
- ## Page 96
  180 9981 PRAVEEN IRAPPA CHANDARAGI 08-01-18 ASST. PROF. UG-FAC
 181 6763 JAYANTI DATTARAYA SHINGE DATTATREYA 01-08-12 ASST. PROF. UG-FAC
 182 6765 GEETA MARALAPPANAVAR 08-01-15 LECTURER UG-FAC
@@ -2543,7 +2462,6 @@ learn and adapt world-wide best practices in educational practice.
 213 9482 RAJASHEKHAR HOSMATH SHANKARAYYA 25-07-08 ASST.PROF. PG-FAC
 214 7034 VINAYAK KULKARNI NAGESHRAO 09-07-10 ASSOCIATE PROFESSOR PG-FAC
 215 9475 GIREESH R CHALAGERI REVANASIDDAPPA 06-08-10 ASST.PROF. PG-FAC
- ## Page 97
  216 9381 PARVATIDEVI SHASHIMATH LINGAYYA 19-11-98 INSTRUCTOR MCA-TEC
 217 9382 SURESH KANAKERI NARAYANAPPA 19-08-03 INSTRUCTOR MCA-TEC
 218 9753 RAVI D KAMMAR DUNDAPPA 09-08-11 INSTRUCTOR MBA-TEC
@@ -2580,7 +2498,6 @@ learn and adapt world-wide best practices in educational practice.
 249 8025 SANJEEV S BAMMIGATTI SHIVAPPA 22-08-08 INSTRUCTOR UG-TEC
 250 8038 HUSSIEN JAMADAR MHAMMADH 01-06-06 MECHANIC UG-TEC
 251 8067 SHESHACHALA KULKARNI NEELAKANTHARAO 19-03-12 INSTRUCTOR UG-TEC
- ## Page 98
  252 8007 BASTI ANJANEYASWAMY L MAHADEVAKUMAR 02-12-09 INSTRUCTOR UG-TEC
 253 8046 ADIVEPPA IRAPPA 04-10-10 INSTRUCTOR UG-TEC
 254 8043 MAHANTESH N MAYANNAVAR NARAYAN 06-08-10 INSTRUCTOR UG-TEC
@@ -2617,7 +2534,6 @@ learn and adapt world-wide best practices in educational practice.
 285 8061 MRUTYUNJAYA PATIL SANGANAGOUDA 01-02-12 MECHANIC UG-TEC
 286 9920 GEETA SODDI 09-08-17 ASST. INSTRUCTOR UG-TEC
 287 8100 HANUMANTAPPA KOLABAL 17-10-16 ASST. INSTRUCTOR UG-TEC
- ## Page 99
  288 8080 MANJUNATH SURESH MEDLERI 05-11-13 MECHANIC UG-TEC
 289 8079 MAHANTESH MADIVALAR GANGADHAR 10-01-13 MECHANIC UG-TEC
 290 8528 BASAVARAJ HALAGATTI SHIVAPPA 01-10-09 MECHANIC UG-TEC
@@ -2654,7 +2570,6 @@ learn and adapt world-wide best practices in educational practice.
 321 8606 VIJAYALAXMI PATIL 08-10-05 PEON UG-ADM
 322 8607 SHIVANAND AVARI 22-08-05 PEON UG-ADM
 323 8709 PRAVEENKUMAR JADHAV 05-02-07 PEON UG-ADM
- ## Page 100
  324 8651 MINAKSHI BALAREDDI GANRADDEPPA 01-01-18 PEON UG-ADM
 325 8652 MANJUNATH V AKKI 01-01-18 PEON UG-ADM
 326 8653 KALLAPPA S YEMMIYAVAR 01-01-18 PEON UG-ADM
@@ -2691,7 +2606,6 @@ learn and adapt world-wide best practices in educational practice.
 357 8576 VEERANNA KALHAL SOMALINGAPPA 01-06-94 PEON UG-ADM
 358 8580 AJITH SIDDAIAH HIREMATH 23-11-13 SDA UG-ADM
 359 8582 JAGADEESH HARIJAN 01-01-01 PEON UG-ADM
- ## Page 101
  360 8586 SHIVANAND WALIKAR 01-12-02 PEON UG-ADM
 361 8587 LAXMAN LAKKANNAVAR 08-03-03 PEON UG-ADM
 362 8591 S G KENCHANAGOUDAR 20-10-03 PEON UG-ADM
@@ -2728,7 +2642,6 @@ learn and adapt world-wide best practices in educational practice.
 393 9962 SHILPA 21-06-18 OFF ASST UG-ADM
 394 8045 SANJAY K NARENDRA KARABASAPPA 03-01-04 INSTRUCTOR CTIE_TECHNICAL
 395 9502 CHANDRASHEKHAR KALALKONDA VEERAPPA 02-08-99 FOREMAN PG-TEC
- ## Page 102
  396 9504 RENUKA SANGALI GANGADHAR 03-03-03 INSTRUCTOR PG-TEC
 397 9503 ASHOK BADIGER KALLAPPA 01-01-04 MECHANIC PG-TEC
 398 9501 MAHANTESH P MAHENDRAKAR PUNDLIK 06-01-06 MECHANIC PG-TEC
@@ -2765,7 +2678,6 @@ learn and adapt world-wide best practices in educational practice.
 429 8374 ROHINI B JYOTHI 01-03-20 PROFESSOR UG-FAC
 430 8383 SHIVAPUTRAPPA F KATTIMANI 18-03-20 CHIEF LIBRARIAN UG-FAC
 431 1089 RAJENDRA V KULKARNI VASANTHRAO 08-06-20 ASST INSTRUCTOR UG-TEC
- ## Page 103
  432 1892 YOGESHWAR M UMATHAR 01-07-20 ASSOC.PROF UG-FAC
 433 3003 DIPANWITA CHAKRAVARTY PRADEEP 17-08-20 ASSOCIATE PROFESSOR UG-FAC
 434 7217 P G SUNITA HIREMATH 01-10-20 PROFESSOR UG-FAC
@@ -2802,7 +2714,6 @@ learn and adapt world-wide best practices in educational practice.
 465 10150 SHANTA YALAVAGI 01-02-21 PEON UG-ADM
 466 10151 SAVITRI KELAGADE 01-02-21 PEON UG-ADM
 467 10152 MANJULA KOLAPAGOUDAR 01-02-21 PEON UG-ADM
- ## Page 104
  468 10153 VITHAL LAMANI 01-02-21 PEON UG-ADM
 469 10154 SHIVALEELA I HEBSUR 01-02-21 PEON UG-ADM
 470 10157 D K MAGADUM 01-02-21 F.D.A. UG-ADM
@@ -2839,7 +2750,6 @@ learn and adapt world-wide best practices in educational practice.
 501 10202 P G TEWARI 01-09-21 PROFESSOR UG-FAC
 502 10205 NAVEEN V CHIKKAVEERAYANAVAR 12-10-21 ASSISTANT PROFESSOR UG-FAC
 503 10206 SUVARNA VIJAYAKUMAR NIMBAGAL 01-10-21 ASST PROFESSOR MBA-FAC
- ## Page 105
  504 10207 NAGARATNA YALIGAR 13-10-21 ASST. PROF. UG-FAC
 505 10208 SAVITA BASAVARAJ JEERAGAL 12-10-21 ASST INSTRUCTOR UG-TEC
 506 10209 PREETI BASAVARAJ PATIL 18-10-21 ASST. PROF. UG-FAC
@@ -2876,7 +2786,6 @@ learn and adapt world-wide best practices in educational practice.
 537 10264 MUGAPPA TOTAD 01-05-22 PEON UG-ADM
 538 10265 RACHANA N 13-06-22 ASST PROFESSOR UG-FAC
 539 10266 DARSHAN BADIGER 08-06-22 TEACHING ASSISTANT UG-FAC
- ## Page 106
  540 10269 LEVIDALA BHARGAVA KUMAR 16-06-22 ASST PROFESSOR UG-FAC
 541 10270 POOJA V CHANDARAGI 20-06-22 ASST PROFESSOR UG-FAC
 542 10272 SANGAMESH V MELINMANI 20-06-22 ASST PROFESSOR UG-FAC
@@ -2913,7 +2822,6 @@ learn and adapt world-wide best practices in educational practice.
 573 10357 VIJAYALAKSHMI PERI 14-10-22 COUNCELLOR UG-ADM
 574 10353 MADHU RAMESH KORAVANAVAR 19-10-22 ASSISTANT PROFESSOR UG-FAC
 575 10349 PAVITRA Y PATIL 06-10-22 FDA UG-ADM
- ## Page 107
  576 10350 SHEELA S S 06-10-22 OFF ASST UG-ADM
 577 10354 PREETI AJIT HALLIYAVAR 10-10-22 OFF ASST UG-ADM
 578 10351 SURAJ KHADKE 06-10-22 OFF ASST UG-ADM
@@ -2950,7 +2858,6 @@ learn and adapt world-wide best practices in educational practice.
 609 10383 SIDDESHWAR M SHETTAR 01-01-23 ENGINEER AEQUS
 610 10385 RAKESH PATIL 06-02-23 PRODUCT DESIGN MANAGER AEQUS
 611 10386 ADILHUSEN KHAJAHUSEN ANGADI 13-02-23 ENGINEER AEQUS
- ## Page 108
  612 10388 RATHNA BALAREDDI 01-03-23 PEON UG-ADM
 613 10389 CHANDRAGOUDA SHIVANAGOUDA PATIL 01-03-23 PEON UG-ADM
 614 10390 MANJUNATH SHIVANANDA BADNIKAYI 01-03-23 PEON UG-ADM
@@ -2987,7 +2894,6 @@ learn and adapt world-wide best practices in educational practice.
 645 10421 JAYADEV M DANADAMANI 01-05-23 PHY DIRECTOR UG-FAC
 646 10422 SUMA RAJEEV HALYAL 08-06-23 ASSISTANT PROFESSOR MCA-FAC
 647 10423 LEENA V HUBLIKAR 12-06-23 ASSISTANT PROFESSOR UG-FAC
- ## Page 109
  648 10424 CHRISTINA J REBELLO 15-06-23 ASSISTANT PROFESSOR MBA-FAC
 649 10425 GANGASHREE DATTA JAGATAP 15-06-23 INSTRUCTOR UG-TEC
 650 10426 NARASIMHA HANAMANT AYACHIT 01-06-23 DEAN UG-FAC
@@ -3019,7 +2925,6 @@ learn and adapt world-wide best practices in educational practice.
 676 10452 SAVITA MUDALIYAR 10-08-23 ASSISTANT PROFESSOR MCA-FAC
 677 10453 PREETHI Y R 10-08-23 ASSISTANT PROFESSOR UG-FAC
 678 10454 SUMA R SHINDE 08-08-23 TEACHING ASSISTANT UG-FAC
- ## Page 110
  SL NO NAME OF THE FULL TIME 
 TEACHER PAN PRIMARY POSITION DATE OF 
 BIRTH
@@ -3059,7 +2964,6 @@ H AUIPB4779P ASSISTANT INSTRUCTOR 11-10-1976 08-11-2010 Regular BIO TECHNOLOGY D
 19 SMT. JAYADEVI HIREMATH ASSISTANT INSTRUCTOR 15/08/1987 01-10-2016 Regular BIO TECHNOLOGY B.C.A. Female 6.8
 NON-TEACHING STAFF LIST
 KLE TECHNOLOGICAL UNIVERSITY, BVB CAMPUS HUBBALLI
- ## Page 111
  20 Sri. S D KOKANE DRAUGHTSMAN 22-07-1964 10-06-1987 Regular CIVIL DCE Male 36.1
 21 Sri. H G BAGEWADI ASST. INST. 01-06-1967 17-02-1999 Regular CIVIL DCE Male 24.4
 22 Sri. M B JADAR HELP/ATT 17-10-1961 21-04-1981 Regular CIVIL S.S.L.C Male 42.3
@@ -3094,7 +2998,6 @@ S.S.L.C
 (Wireman 
 Course)
 Male 22.0
- ## Page 112
  45 SRI. SIDDANNA ARESHIMI BOSPA4437C MECHANIC 02/11/1974 08-02-2001 Regular C&M CELL PUCI Male 22.5
 46 Sri. V R SORTUR ASSISTANT INSTRUCTOR 20-07-1961 22-05-1985 Contract EEE S.S.L.C Male 38.2
 47 SMT. SHANTABAI.R INSTRUCTOR 08-07-1975 02-07-2003 Regular EEE DIP (E&E) Female 20.1
@@ -3122,7 +3025,6 @@ KOLABAL DJVPK2897C ASSISTANT INSTRUCTOR 14-11-1992 17/10/2016 Regular E&C DIP (E
 KOCHALAPURMATH DDBPK4940N LAB ADMIN 15-02-2021 Contract E&C M.Sc Male 2.4
 67 MS. POOJA R HIREMATH ATCPH7009R ANNOTATION LEAD FOR 
 SEED LAB 01-04-2021 Contract E&C BCA Female 2.3
- ## Page 113
  68 MS. BASAVARAJESHWARI 
 A BIDNURMATH CGQPB8150E QUALITY CHECK LEAD 01-04-2021 Contract E&C BCA, MCA Female 2.3
 69 SRI. V.M. GORWAR MECHANIC 12-08-1964 10-01-1988 Regular E&C SSLC Male 35.5
@@ -3152,7 +3054,6 @@ OR HONOOR ASSISTANT INSTRUCTOR 30/03/1993 01-08-2014 Regular INFOCELL DIP (CSC) 
 86 Sri. A M MEGERI ASSISTANT INSTRUCTOR 27-07-1972 20-01-2003 Regular MECH D.M.E Male 20.5
 87 Sri. B R ALLAMMANAVAR ASSISTANT INSTRUCTOR 20-06-1973 20-01-2003 Regular MECH B.A (I.T.I) Male 20.5
 88 Sri. I K KAMATE HELP/ATT 22-07-1963 27-04-1981 Regular MECH S.S.L.C(I.T.I) Male 42.3
- ## Page 114
  89 Sri. S S WALMIKI HELP/ATT 03-07-1970 06-07-1999 Regular MECH S.S.L.C Male 24.1
 90 Sri. T B KAMATE HELP/ATT 25-07-1963 03-05-1985 Regular MECH 7TH Male 38.2
 91 Sri. V H SHIRAGUPPI MECHANIC 01-06-1966 27-01-2003 Regular MECH S.S.L.C Male 20.5
@@ -3184,7 +3085,6 @@ ANJANEYASWAMY BZQPB6708L ASSISTANT INSTRUCTOR 05/07/1979 12-02-2009 Regular MECH
 104 MS. SHILPA D. KULKARNI ASSISTANT INSTRUCTOR 09-06-86 29/03/2012 Regular MECH DIPLOMA Female 11.3
 105 SRI.BHOJRAJ MADIWALAR BYOPM9818B ASSISTANT INSTRUCTOR 22/05/1976 08-01-2012 Regular MECH DIPLOMA Male 11.5
 106 SRI. VEERAPPA S LOHAR ADIPL0735G ASSISTANT INSTRUCTOR 08-02-1968 01-09-2014 Regular MECH DIP (MECH) Male 8.9
- ## Page 115
  107 SMT. GANGUBAI GADAGI BRJPG3213Q ASSISTANT INSTRUCTOR 08/07/1992 13/10/2014 Regular MECH DIPLOMA Female 8.8
 108 SRI. VINAYA V K AVGPK4078H ASSISTANT INSTRUCTOR 25/05/1986 15/11/2016 Regular MECH DIPLOMA 
 (MECH) Male 6.7
@@ -3214,7 +3114,6 @@ HALAGATTI AHWPH2923E MECHANIC 04-07-1987 01-10-2009 Regular MECH I.T.I Male 13.8
 123 SRI. VISHWANATH R. 
 MULAGUND CMUPM5586P ASSISTANT INSTRUCTOR 22/11/1991 14/08/2012 Regular PHYSICS B.SC Male 10.9
 124 MS. NETRAVATI B PURAD CECPP7218B ASSISTANT INSTRUCTOR 06-01-88 11-02-17 Regular RESEARCH & DEVELOPMENT B.E. (E&C) Female 6.4
- ## Page 116
  125 SMT. DEEPA. U. GAONKAR BQJPG3108D SYSTEM ANALYST 26/03/1970
 19/05/2003 
 TO 
@@ -3246,7 +3145,6 @@ TURNER) Male 18.5
 140 SAVITA D HALDIPUR AHEPH8885M ASSISTANT INSTRUCTOR 04-05-1979 05-09-2022 Regular ARCHITECTURE Female 0.9
 141 MAHAVEER JAYAKKANAVAR BPAPM5701G INSTRUCTOR 02-03-1979 16-09-2022 Contract E&C Male 0.8
 142 DIVYABHARATI V KULKARNI CGXPK7779P INSTRUCTOR 31-07-1993 26-09-2022 Contract EEE Female 0.8
- ## Page 117
  143 ASHWINI BELLIGATTI DANPB1926G ASSISTANT INSTRUCTOR 20-07-1993 06-10-2022 Contract CS Female 0.8
 144 LAXMIBAI BADIGER ESFPB9171Q ASSISTANT INSTRUCTOR 28-08-1984 17-10-2022 Contract FAD Female 0.8
 145 BASAVARAJ MURGOD GKYPM3015H MECHANIC 23-03-2000 02-11-2022 Contract AUTOMATION & ROBOTICS Male 0.7
@@ -3256,7 +3154,6 @@ TURNER) Male 18.5
 149 JYOTI MALLIGAWAD HZHPM0158J ASSISTANT INSTRUCTOR 29/11/2003 01-03-2023 Contract E&C Female 0.4
 150 ANITA B HIREMATH AWVPH2760B ASSISTANT INSTRUCTOR 20/05/1990 01-03-2023 Contract E&C Female 0.4
 151 VINAYAK MULIMANI EUAPM3525E ASSISTANT INSTRUCTOR 19/07/1999 04-10-23 Contract MECH Male -0.2
- ## Page 118
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -3275,7 +3172,6 @@ https://www.kletech.ac.in/admission/domestic-admission/post-
 graduate-program 
    Fees Structure: 
 https://www.kletech.ac.in/admission/domestic-admission/fee-structure 
-  ## Page 119
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -3285,7 +3181,6 @@ wise instruction/schedule and work allocation details of educational programs
 planned 
 Following documents are shared/attached below: 
  Academic Calendar 2022-23 
-  ## Page 120
  (Established under The KLE Technological University Act 2012, Karnataka Act No.22, 2013) 
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India) 
   Dr. Anilkumar V. Nandi Phone: (0836)2378145 
@@ -3324,7 +3219,6 @@ Freezing ISA marks in Contineo 8th May 2023
 ESA Start date 15th May 2023 
 I Grade list 2 days after completing last scheduled ESA Exam 
 Controller of Examinations 
- ## Page 121
  (Established under The KLE Technological University Act 2012, Karnataka Act No.22, 2013) 
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India) 
   Dr. Anilkumar V. Nandi Phone: (0836)2378145 
@@ -3363,9 +3257,7 @@ Ineligible list 5th April 2022
 Freezing ISA marks in Contineo 5th April 2022 
 ESA Start date 11th April 2022 
 I Grade list 2 days after completing last scheduled ESA Exam 
-  ## Page 122
  Controller of Examinations
- ## Page 123
  (Established under The KLE Technological University Act 2012, Karnataka Act No.22, 2013) 
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India) 
   Dr. Anilkumar V. Nandi Phone: (0836)2378145 
@@ -3405,7 +3297,6 @@ Freezing ISA marks in Contineo 22nd May 2023
 ESA Start date 29th May 2023 
 I Grade list 2 days after completing last scheduled ESA Exam 
 Controller of Examinations 
- ## Page 124
  (Established under The KLE Technological University Act 2012, Karnataka Act No.22, 2013) 
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India) 
   Dr. Anilkumar V. Nandi Phone: (0836)2378145 
@@ -3445,9 +3336,7 @@ Ineligible list 16th May 2023
 Freezing ISA marks in Contineo 22nd May 2023 
 ESA Start date 29th May 2023 
 I Grade list 2 days after completing last scheduled ESA Exam 
-  ## Page 125
  Controller of Examinations
- ## Page 126
  (Established under The KLE Technological University Act 2012, Karnataka Act No.22, 2013) 
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India) 
   Dr. Anilkumar V. Nandi Phone: (0836)2378145 
@@ -3486,7 +3375,6 @@ Freezing ISA marks in Contineo 23 October 2023
 ESA Start date 30 October 2023 
 I Grade list 2 days after completing last scheduled ESA Exam 
 Controller of Examinations 
- ## Page 127
  (Established under The KLE Technological University Act 2012, Karnataka Act No.22, 2013) 
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India) 
   Dr. Anilkumar V. Nandi Phone: (0836)2378145 
@@ -3526,9 +3414,7 @@ Ineligible list 16th May 2023
 Freezing ISA marks in Contineo 22nd May 2023 
 ESA Start date 29th May 2023 
 I Grade list 2 days after completing last scheduled ESA Exam 
-  ## Page 128
  Controller of Examinations
- ## Page 129
  (Established under The KLE Technological University Act 2012, Karnataka Act No.22, 2013) 
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India) 
   Dr. Anilkumar V. Nandi Phone: (0836)2378145 
@@ -3568,7 +3454,6 @@ Freezing ISA marks in Contineo 30 August 2023
 ESA Start date 09 September 2023 
 I Grade list 2 days after completing last scheduled ESA Exam 
 Controller of Examinations 
- ## Page 130
  (Established under The KLE Technological University Act 2012, Karnataka Act No.22, 2013) 
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India) 
   Dr. Anilkumar V. Nandi Phone: (0836)2378145 
@@ -3608,9 +3493,7 @@ Ineligible list 16th May 2023
 Freezing ISA marks in Contineo 22nd May 2023 
 ESA Start date 29th May 2023 
 I Grade list 2 days after completing last scheduled ESA Exam 
-  ## Page 131
  Controller of Examinations 
- ## Page 132
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -3619,7 +3502,6 @@ B. V. B. College of Engineering & Technology
 Endowment Act, University Endowment Act, General Fund, Development 
 Details of funds, journals and industry-sponsored research 
 Documents with above details are shared/attached below: 
-  ## Page 133
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -3670,7 +3552,6 @@ universities
 13. Automation & Robotics Engineering 3 0 0 
 14. Architecture 1 0 0 
  Total 116 94 22 
-  ## Page 134
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -3700,7 +3581,6 @@ Ongoing
 As compared to previous academic year (2020) there are 97 more number of Scopus indexed 
 publications in the academic year 2021. There is good improvement in citations also. In year 
 2022, additionally there are 409 citations in Scopus and 103 citations in Web of Science. 
-  ## Page 135
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -3711,7 +3591,6 @@ in H - Index of university by 7 in case of WoS. Current WoS is 44. Following two
 trend of h-index and average H - Index of Schools, Departments for Scopus in the last 4 years. 
   It is worth noting improvement in quality of publication, there is substantial improvement in Q1 
 and Q2 journal papers in the last two years. 
- ## Page 136
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -3723,12 +3602,10 @@ average, Citation per publication: 4.1 (India Avg: 5.00 ), 6.4% of publications 
 top 10% journal (World Avg: 14.2% ) and 64% of publications are in Q3 & Q4 Quartile 
   There is very good indication of Collaborations in Research Publication. The following figure 
 presents collaboration at global and national level. 
-  ## Page 137
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
 B. V. B. College of Engineering & Technology 
-   ## Page 138
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -3766,7 +3643,6 @@ from REU
 2019-20 67 63 50 2 
 2020-21 32 34 21 2 
 2021-22 69 52 25 2 
-  ## Page 139
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -3804,7 +3680,6 @@ Year Total projects Total amount in Lakhs
 2019-20 12 29.26 
 2020-21 24 62.45 
 2021-22 24 53.70 
-   ## Page 140
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -3863,7 +3738,6 @@ knowledge, and resources to explore new research areas with high impact. The fun
 are expected to engage young faculty and students in their scholarly activities. 
   Following are the category of funded research initiatives funded under the GEAR scheme: 
 • Research Groups (Thematic) 
- ## Page 141
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -3918,7 +3792,6 @@ working
 2019-20 7+2 20.00 L 6.42 L 44 30 
 2020-21 6+2 10.5 L 1.27 L 73 50 
 2021-22 9+3 16.5 L 14.5 85 35 
-  ## Page 142
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -3994,7 +3867,6 @@ try
 1 40.00 1 6.00 1 2.50 -- -- -- -- 
 ARE -- -- -- -- 2 17.00 -- -- 1 3.80 
 Total 3 66.50 4 165.00 10 149.16 8 160.94 8 101.68 
- ## Page 143
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -4030,7 +3902,6 @@ KLE Tech we aim to create an experience dr iven ecosystem for students," said Di
 Managing Director, Samsung R&D Institute, Bangalore 
   "Today, our world is becoming increasingly data -centric, and along with AI, it continues to 
 transform the way we live, work and do business. The Samsung SE ED lab is a great initiative that 
- ## Page 144
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -4066,7 +3937,6 @@ Sl. No Year # of incentives Total amount in Rs.
 6. 2020-21 11 95, 000/- 
 7. 2021-22 14 1, 28, 000/- 
   Total 18, 64, 320/- 
-  ## Page 145
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -4108,7 +3978,6 @@ others 12.75 54.42
 103. 5 41.4 47.47 49.22 50 61.15 
  TOTAL 282.85 269.18 363.79 187.39 385.97 248.43 490.00 377.05 
 TEQIP 10 7.10 10 33.03 10 -- -- -- 
-  ## Page 146
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -4158,7 +4027,6 @@ Patents filed
 (201614002919) 
  Ceramic membranes for exhaust gas treatment (201641034227) 
  Nanoceramic coating for cement composite (201641034228) 
- ## Page 147
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -4187,7 +4055,6 @@ End-to-End pipeline for data and carry out data research projects. Students will
 encouraged to publish papers and file patents jointly with SRI-B engineers. All students will receive 
 certificates for their contribution at the end of each project from SRI-B. The lab set up at KLE Tech 
 is spread across over 3, 000 sq ft and is equipped with facilities such as a special dark room with 
- ## Page 148
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -4216,12 +4083,10 @@ Samsung)
 • Automatic 3D Scene Composition (Filed - US Patent with Samsung) 
   Number of students involved 
 Summary of patents 
- ## Page 149
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
 B. V. B. College of Engineering & Technology 
-  ## Page 150
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -4246,7 +4111,6 @@ BOOKS (HARDCOPY) 101165 41935
 JOURNALS BOUND VOLUMES 750 450 
 IS CODE 250 153 
  PhD Theses 05 05 
-  ## Page 151
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -4273,7 +4137,6 @@ CBS PUBLISHERS & DISTRIBUTORS 19 http://library.kletech.ac.in
   SL Open/Free E-Resources 
 1 Journal of Digital Information (JoDI) 
 2 Molecular Diversity Preservation Intl. 
- ## Page 152
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -4298,7 +4161,6 @@ EBSCO Host (Art & Architecture Complete) 355 http://library.kletech.ac.in
 EBSCO Host (Business Source Elite) 1079 http://library.kletech.ac.in 
 ASME 37 http://library.kletech.ac.in 
 ASCE 37 http://library.kletech.ac.in 
- ## Page 153
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -4318,7 +4180,6 @@ http://10.2.0.91:8080/jspui/
   LIBRARY SECTION TIMING 
 ISSUE SECTION 8:00 AM TO 8:00 PM 
 REFERENCE SECTION 8:00 AM TO 8:00 PM 
- ## Page 154
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -4356,7 +4217,6 @@ reminders for overdue.
   Reprographic and Printing Service 
 issues. 
   WEB OPAC SERVICES 
- ## Page 155
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -4399,7 +4259,6 @@ grammar checking, spell checking, and plagiarism detection services along with s
 clarity, concision, vocabulary, delivery style, and tone. KLE Tech has procured 1000 licenses. The faculty 
 members and researchers of KLE Tech have provision to create a Grammarly Premium account using their 
 official email id. There is an option for using the same license in multiple desktops and laptops from office 
- ## Page 156
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -4432,7 +4291,6 @@ e-learning through Campus Network. Faculty and students can access the nearly 16
 their choice any time in the Digital library or across the Campus through Local Guru CMS Software. 
   LIBRARY WEB PAGE 
 https://library.kletech.ac.in/ 
- ## Page 157
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -4442,7 +4300,6 @@ B. V. B. College of Engineering & Technology
 services of KNIMBUS Digital Library Platform with Remote Access So lution. 
  Access is activated with Remote Access and Mobile App functionality. 
   KNIMBUS PLATFORM 
-  ## Page 158
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -4461,7 +4318,6 @@ Library is having Design Data Books, Code books, which are required for Examinat
 updated according to student strength and requirement. These books will be supplied to the examination 
 room on examination dates, room invigilators are the accountability of these books after the examination 
 over on the day, and they have to submit to the library immediately. 
-  ## Page 161
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -4485,7 +4341,6 @@ Year1 Year2 Year3
 Average Compensation in the last three years 
 Year1 Year2 Year3 
 5. 35 Lakhs 5.94 Lakhs 6.13 Lakhs 
-  ## Page 162
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -4493,7 +4348,6 @@ B. V. B. College of Engineering & Technology
   20. Details of Alumni Association established by the University and its 
 membership details available in the below mentioned link: 
  https://www.bvbkletechalumni.org/ 
-  ## Page 163
  Programme name Program Code List of students undertaking field 
 projects /research projects / 
 internships 
@@ -4548,7 +4402,6 @@ SHUBHAM V MUGALI
 SPOORTI HIREMATH
 KLE TECHNOLOGICAL UNIVERSITY, BVB CAMPUS HUBBALLI
 Details of Students Internships, Projects for the year 2021-22
- ## Page 164
  Titas Dewan
 Vandana Shivanand Devatkal
 VISHAL S HATTI
@@ -4599,7 +4452,6 @@ DARSHAN P NAGDA
 BHUMIKA A KULKARNI
 REU
 Prateek 
- ## Page 165
  Biotech BT Internships
 http://viewdocs.kletech.ac.in/2021-
 22_NAAC_DATA/CR1/1.3/1.3.4/Inte
@@ -4654,7 +4506,6 @@ Shrikanth Badiger
 Aakanksha U.K
 Ankita kamalapurkar
 Roshan Nadaf
- ## Page 166
  Akhila Olekar
 Shivani Desai
 Asha R Patil
@@ -4707,7 +4558,6 @@ Shreyas Astagi
 Tejas B. Shettar
 Aravind Patilkulakarin
 D. Abhishek Choudhary
- ## Page 167
  Vishwanath Reddy
 Basavaraj S. Kottargi
 Amrut R Puthani
@@ -4760,7 +4610,6 @@ Naveen M. Hullambi
 Prsanna Kalakoti
 Shiuvakunar N Y
 Suresh R.B
- ## Page 168
  Keethi M Angadi
 Praveen D Savalagi
 Vishwa V Patil
@@ -4815,7 +4664,6 @@ Tejas B Shettar
 Dhirajkumar G Patil
 Shreyas
 Samarth N Shayadaguppi 
- ## Page 169
  Keerti M. Angadi
 Praveen D. Savalagi
 Rutik M. Halimani
@@ -4869,7 +4717,6 @@ SANTOSH MUNNOLLI
 PRADEEP HIREMATH
 VEERESH G ANGADI
 VRASHABH PATIL
- ## Page 170
  SHEETALA A PRADHAN
 TANVI R KOTHARKAR
 SAMEER YANDIGERI
@@ -4922,7 +4769,6 @@ SHREENIDHI BEVINAGIDAD
 SANDEEP NAREGAL
 ANUSHA YALAWAR
 NIKHIL D DODDAMANI
- ## Page 171
  RAMESH
 NITEESH ISHWAR NAIK
 PRAVEEN VEERAPPA UGALAT
@@ -4976,7 +4822,6 @@ NIERVAN SUNIL MATHREJA
 VEERABHADRA P BENDIGERI
 KAVAN DODAMANI
 AKSHAYAKUMAR HANCHATE
- ## Page 172
  ISHFAQ ZAHOOR MIR
 GOWRI
 KARTHIK V CHIKKAMATH
@@ -5029,7 +4874,6 @@ PRIYANKA I GYANAPPANAVAR
 DEEKSHITH M V
 UMESH S AIHOLLI
 PRADEEP HIREMATH
- ## Page 173
  POOJA JAGADISH KITTUR
 NIRANJAN JAYARAM GUNAGA
 UMA DYAVANAGOUDA HALEMANI
@@ -5082,7 +4926,6 @@ AADILNAWAZ SHAIKH
 PAVITRA H DEVARAMANE
 MOHAN RAMA HEGDE
 SHRUTI Y DESAIGOUDAR
- ## Page 174
  VIVEKANAND N SAVANUR
 PRIYANKA RACHANAGOUDRA
 CHAITRA KUNTAGOUDAR
@@ -5137,7 +4980,6 @@ Nishant Halagatti
 Bhuvan M C
 Abhishek Jadhav
 Samarth Hegde
- ## Page 175
  Khyati Rajesh Amballi
 Sahana Bhasme
 Renuka Talwar
@@ -5191,7 +5033,6 @@ DEBABRATA MAITY
 YAMINI G JOSHI
 ABHINAV KUMAR
 OMKAR VERNEKAR
- ## Page 176
  NAMRATA K
 NAVEEN KUMAR
 MALTESH R KULKARNI
@@ -5245,7 +5086,6 @@ Sushma V Gummadi
 Kishor R Rao
 Raksha P Navale
 Srinivas K S
- ## Page 177
  Savitri Khyadad
 Praveen Naik
 Hrithik kumar Gurondia
@@ -5298,7 +5138,6 @@ Preeti M Bhandiwad
 Yamini Joshi 
 RAHUL S CHENNASHETTI
 Aman Khan N Athani
- ## Page 178
  MIRZA ZAIN BAIG
 Akshay Abhijeet Shah
 Aditya Mishra
@@ -5351,7 +5190,6 @@ Raksha Burli
 Sanjay Keshwar
 Ruturaj Satish Chitragar
 Gaurav Chourasia
- ## Page 179
  Devatha Naga Puneeth
 Pratik Ingale
 Vinayaka Umapati Hegde
@@ -5404,7 +5242,6 @@ Susheel B M
 NAVEEN KUMAR
 Vishal Laxman Narasapur
 Amit Raj
- ## Page 180
  Atharv Paramane
 Maltesh R Kulkarni
 Mohammed Fatir Ahmed
@@ -5455,7 +5292,6 @@ Swathi C Kanakannavar
 Swati S Mugda
 Electronics and 
 Communication Engineering ECE Internships
- ## Page 181
  KAVERI GANGAPPA GOURI
 Praveen V Negalurmath
 Priyanka L Patil
@@ -5508,7 +5344,6 @@ Gagan B dolleshwar
 Shraddha Jayant Teli
 Amit karekar
 Nikhil Neelkanth Akalwadi
- ## Page 182
  Tejas Kishor Anvekar
 Achyut Pujar
 Vishal Shirur
@@ -5561,7 +5396,6 @@ Anukool Gupta
 Sumith A Barker
 Sharadhi K B
 Danish Malik
- ## Page 183
  Nikhil Vishnu Bonageri
 Vishal Kumar
 Naveen B Rathod
@@ -5614,7 +5448,6 @@ SIDARAY TELI
 Venkatesh Thota
 Manish Kumar Jha
 Rahul Pammar
- ## Page 184
  Anjana Jahagirdar
 Anusha Nagaraj Akki
 Prajwal A Banagar
@@ -5667,7 +5500,6 @@ AYUSH S B
 Aishwarya S Hosamani 
 Jayram 
 Madamanchi Patanjali Chowdary
- ## Page 185
  Dhaneshwari Chincholi
 Vinayak Prakash hatti
 Gangadhar S Bhavikatti
@@ -5720,7 +5552,6 @@ Ajay Bhat
 Vishal Shidagireppa Teli
 Darshan Vinod Shetter
 Komal M Madikar
- ## Page 186
  RAJU NAGESH RENAKE
 Shivakumar Matti
 B.Abhishek
@@ -5773,7 +5604,6 @@ Srushti Girisagar
 Shrushti Mestri
 Nikhil Bonageri
 Neha Nevrekar
- ## Page 187
  Nihal Algur
 Ajay
 H N Shashank
@@ -5826,7 +5656,6 @@ http://viewdocs.kletech.ac.in/2021-
 4_EEE_internship_updated_1.pdf
 ADHITI JOSHI
 ACHALA AYODHYA
- ## Page 188
  BHAGYASHREE HARAKUNI
 SUVARNA SHETH
 BIBI HAJIRA N NADAF
@@ -5870,7 +5699,6 @@ BASAVARAJESHWARI M DIVATAR
 NAVEN PATTAR
 ACHALA AYODHYA
 BINAYAK CHANDA
- ## Page 189
  M U SMIJIL
 MAHANTESH PRAKASH PATIL
 MANOJKUMAR B VADRI
@@ -5923,7 +5751,6 @@ SAVITRI PATIL
 VISHESH BHAVIKATTI
 ANAGHARANI N KILLED
 ROHANKUMAR SHEKHAR HUBBALLI
- ## Page 190
  ASHISH MANJUNATH BHAT
 C SAI MAHITA
 MANIKANTA V PANDIT
@@ -5977,7 +5804,6 @@ VIJAYALAKSHMI
 ANISH P PURADANNAVAR
 AASHISH P PURADANNAVAR
 SAISH SANTOSH SHET
- ## Page 191
  UME KULSUM KHAN PATHAN
 DARSHAN HARIHAR
 NAGARAJ B BALIGAR
@@ -6030,7 +5856,6 @@ ASHRITHA M
 MAHADEV S KOROLI
 KAVYA FAKKIRAPPA KORI
 GAJANAN P RAIKAR
- ## Page 192
  SUKHI S TONGALI
 VIJETA RAVI SHETTY
 ADARSH ALLAYYANAVARMATH
@@ -6082,7 +5907,6 @@ Shivakrishna Puttappanavar
 K Varun
 Tejasgouda s
 Rahul Shantappa Patil
- ## Page 193
  Abhinav V D
 Omkar
 Ahtesham pathan
@@ -6135,7 +5959,6 @@ Rajeshwari Channapattana
 Javeed Khanwale
 Vinay Vijay Madgaonkar
 Rahim Menasinakai
- ## Page 194
  Chandrashekhar Hegde
 Guruprasad. Savanur
 Darshan Suryavanshi
@@ -6188,7 +6011,6 @@ Koushik Kulkarni
 Ajari Ninad Girish
 Sanath P Pattanshetti
 Sunil
- ## Page 195
  Vijay Sunagar
 Srivatsa G Belgaumkar
 Supreet P Mudhol
@@ -6241,7 +6063,6 @@ Vikram V S
 Yogeesh Y
 Atul Miskin
 Mallanna Bhairamatti
- ## Page 196
  Rohit Gunadalmath
 Anirudh Katti
 Venugopal K Pillay
@@ -6294,7 +6115,6 @@ Sanchith Mada
 REU
 Aditya K. Basappaji
 Sitaram Bhat
- ## Page 197
  Sourabh S Sureban
 Vijeth Angadi
 Shrirang Jahagirdhar
@@ -6344,7 +6164,6 @@ Nagaraj S Dhongade
 Sitaram Bhat
 Shreyas Nanikar
 Suraj R. Revankar
- ## Page 198
  PRAVEEN HALYALKAR
 Sahana S Hosamani
 http://viewdocs.kletech.ac.in/2021-
@@ -6398,7 +6217,6 @@ SAHANA R REVANKAR
 PRASANNAVENKATESHA
 NOOTANA S MADIVAL
 NOOTANA S M
- ## Page 199
  MRUTHUNJAYA HIREMATH
 VAISHIKA UMESH PATIL
 KSHAMA M TADAS
@@ -6451,7 +6269,6 @@ MADHU ANNAPPA GUDDODAGI
 GUVVALA JHANSIRANI
 SAYED MURTUZA QUADRI
 ARAVIND B RAJPUT
- ## Page 200
  TEJASHWINI M HIREMATH
 SHUBHOD G. HERWADE
 SUGUNA SHIRLEY BILLA 
@@ -6504,7 +6321,6 @@ SNEHA NIMBAYI
 VANITA SHRIDHR CHANDAVAR
 VEERESHWARI SHIVAPUJIYAVAR
 CHAITALI GADDI
- ## Page 201
  RASHMI.J
 MANJUNATH H M
 VAISHNAVI V DESHPANDE
@@ -6521,7 +6337,6 @@ RAKHI BIRADAR
 USHA VENKATESH
 PREETI VASAWADE 
 ABHISHEK D POTDAR
- ## Page 202
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -6534,14 +6349,12 @@ https://www.kletech.ac.in/course/ph-d-in-computer-science-
 engineering/15 
    List of Full-time Ph.D holders & their details in the University 
  List of Ph.D students and their details 
-  ## Page 203
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
 B. V. B. College of Engineering & Technology 
 23. Details International cell for students 
   Page under updation 
-  ## Page 204
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -6554,7 +6367,6 @@ o Centre for Centre for Innovation and Product Development (CIPD)
  More details @ 
 o https://www.klectie.com/ 
 o http://cipd.kletech.ac.in/ 
-  ## Page 205
  SARTUP INNOVATION ECHO-SYSTEM: 
 KLE Tech has proven to be one of the top universities for start -up creation over the past few 
 years. Two centres have been established to drive innovation and entrepreneurship on the 
@@ -6591,7 +6403,6 @@ innovations, business growth, and employment opportunities in India's rural Indi
 III cities. 
 The Centre works to develop Product Innovation and Development capabilities for students, 
 faculty, and start-ups 
- ## Page 206
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -6602,7 +6413,6 @@ Following Documents are shared/attached below:
  Policy Document for Scholarships/Free ships 
  Scholarship/Free ships Statistics (Excel Table) 
  Details of Hostel Facility 
-  ## Page 207
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -6637,7 +6447,6 @@ disburses the scholarships.
   Prime Minister's Special Scholarship Scheme (PMSS) 
   The PMSS scheme has come into effect from 2019-20 for the students of Jammu & Kashmir. 
 The tuition fees for these students will be supported by the Government of India. 
- ## Page 208
  Link to relevant 
 document
 Number of 
@@ -6685,12 +6494,10 @@ the institution's schemes and
 amount
 Number of students benefited by the non-
 government agencies (NGOs) and amount
- ## Page 209
  2021-22
 Fee Waiver for 
 employee 
 children 100 5999591.25
- ## Page 210
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -6703,7 +6510,6 @@ B. V. B. College of Engineering & Technology
 4 SHALMALA1 Girls Hostel 362 
 5 SHARAVATI Girls Hostel 224 
 6 VINDHYA1 Boys Hostel 212 
-  ## Page 211
  2 | P a g e 
   _______________________________________________________________________________ 
   Redressal of Student Grievances 
@@ -6736,7 +6542,6 @@ confidentiality.
 grievance is neither discriminated against nor victimized. 
  To advise stakeholders to respect the right and dignity of one another, and not to behave in a 
 vindictive manner towards any of them for any reason. 
- ## Page 212
  3 | P a g e 
   _______________________________________________________________________________ 
   DEFINITIONS 
@@ -6774,7 +6579,6 @@ Kotabagi
 Dean-Student 
 Affairs 
 Member dean_sw@kletech.ac.in 
-  ## Page 213
  4 | P a g e 
   _______________________________________________________________________________ 
   Anti-Ragging Committee 
@@ -6808,7 +6612,6 @@ nearby Police Station
                    --- Member 
 12 Prof. Veeresh Angadi Warden Boys Hostel Member 
   The staff and students can register their complaints through arc@kletech.ac.in 
- ## Page 214
  5 | P a g e 
   Functions of Anti-Ragging Committee 
   1. To ensure compliance with the provision of these regulations and any law for the 
@@ -6840,7 +6643,6 @@ and in the manner prescribed herein under:
 regard to punishment or otherwise, depending on the facts of each incident of ragging 
 and nature and gravity of the incident of ragging established in the recommendations 
 of the Anti-Ragging Committee. 
-  ## Page 215
  6 | P a g e 
   2. The Anti-Ragging Committee depending on the nature and gravity of the guilt will follow 
 up the punishment based on the committee's decision. 
@@ -6857,7 +6659,6 @@ also consequent admission to any other institution
  Cancellation of admission or rustication from the Institution 
  Registration of FIR against the accused and Prosecution under the Indian Penal 
 Code, 1860. 
-  ## Page 216
  7 | P a g e 
   Anti-Sexual Harassment Committee 
 (Internal Complaint Committee) 
@@ -6886,7 +6687,6 @@ Member
 7 Dr. Sujata Kotabagi Professor- School of Electronics & 
 Communication Engineering Member Secretary 
   The staff and students can register their complaints through ash@kletech.ac.in 
-  ## Page 217
  8 | P a g e 
   Objectives 
  To develop guidelines and norms for policies against sexual harassment 
@@ -6896,7 +6696,6 @@ Communication Engineering Member Secretary
  To organize gender sensitization awareness program. 
  To deal with cases of discrimination and sexual harassment in a time bound manner, 
 aiming at ensuring support services to the victimize 
- ## Page 218
  B.V. Bhoomaraddi College Campus, Vidyanagar, Hubballi-580 03 L Karnataka (lndia) 
 Tel : +9 l-836-2378 I 23 Fax : +9 I -836-2374985 www.kletech.ac.in 
 Earlier known as 
@@ -6905,7 +6704,6 @@ B. V. B. College of Engineering & Technology
    The University do not offer any online programmes, however courses of 
 all the programmes are offered through LMS -Learning Management 
 System) 
-  ## Page 219
  Organisation with which MoU is 
 signed
 Name of the 
@@ -6967,7 +6765,6 @@ Vignyanwork Industry 25-02-2022 1-Year Internship /Projects SME
 Zen Industries Industry 03-03-2022 1-Year Internship /Projects SME
 NGX Technologies PVT. LTD. Industry 03-03-2022 1-Year Internship /Projects SME
 List of MOUs
- ## Page 260
  OKLE Ecnokogicai 
 A ALTAIR 
 MEMORANDUM OF UNDERSTANDING BETWEEN 
@@ -7003,7 +6800,6 @@ degree or Post graduation degree course for his personal Laptop/Desktop so that 
 actively pursue Altair HyperWorks Technology. 
 d. Facilitate Various Online Learning and certification courses (listed in Altair University). No 
 limit to the number of students taking part in this initiative. Only certified students list will 
- ## Page 261
  ALTAIR 
 Echnological 
 be published in Altair Industry outreach portal to facilitate Internship and placement at 
@@ -7046,7 +6842,6 @@ of the same and free to disclose it; or
 () was already known to the recipientParty as evidenced by written record pre-dating
 such disclosureby the Disclosing Party; 
 (iv) is or was independentlydeveloped by the Receiving Part prior to the date of this MOU 
- ## Page 262
  ORLE LTechnological
 ALTAIR 
 (v) is required to be disclosed under laws and regulationsor by Government order, or 
@@ -7088,7 +6883,6 @@ and to indemnify, defend and hold harmless Altair, its employees, agents, office
 directors, from and against any and all claims, liabilities, damages, costs, and/or expenses 
 of whatever kind or nature, including without limit court costs and attorney fees, arising 
 from the use of Altair's Products, Tools, Technology & Solutions, breach of this MOU on 
- ## Page 263
  KLEUe ALTAIR 
 part of KLETU, and any infringement of any third party intellectual propety, gross 
 negligence, misrepresentation or wilful misconduct on part of KLETU 
@@ -7129,63 +6923,33 @@ Hubballi
 Karnataka 580031 
 Website: https://KLETU.ac.in 
 ALIS 
- ## Page 264
  Scanned By Scanner Go
- ## Page 265
  Scanned By Scanner Go
- ## Page 266
  Scanned By Scanner Go
- ## Page 267
  Scanned By Scanner Go
- ## Page 268
  Scanned By Scanner Go
- ## Page 269
  Scanned By Scanner Go
- ## Page 270
  Scanned By Scanner Go
- ## Page 271
  Scanned by Scanner Go
- ## Page 272
  Scanned by Scanner Go
- ## Page 273
  Scanned by Scanner Go
- ## Page 274
  Scanned by Scanner Go
- ## Page 275
  Scanned by Scanner Go
- ## Page 276
  Scanned by Scanner Go
- ## Page 277
  Scanned By Scanner Go
- ## Page 278
  Scanned By Scanner Go
- ## Page 279
  Scanned By Scanner Go
- ## Page 280
  Scanned By Scanner Go
- ## Page 281
  Scanned By Scanner Go
- ## Page 282
  Scanned By Scanner Go
- ## Page 283
  Scanned By Scanner Go
- ## Page 284
  Scanned By Scanner Go
- ## Page 285
  Scanned By Scanner Go
- ## Page 286
  Scanned By Scanner Go
- ## Page 287
  Scanned By Scanner Go
- ## Page 330
  Scanned by Scanner Go
- ## Page 331
  Scanned by Scanner Go
- ## Page 332
  Scanned by Scanner Go
- ## Page 333
  Scanned by Scanner Go
- ## Page 334
  Scanned by Scanner Go
- ## Page 335
  Scanned by Scanner Go

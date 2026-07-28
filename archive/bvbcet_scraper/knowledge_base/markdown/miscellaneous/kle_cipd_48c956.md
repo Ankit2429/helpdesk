@@ -39,4 +39,3 @@ last_modified: "2026-07-28"
             Trade Mark registration support to MSME : 50
             Mentorship for Student and Faculty Start-up : 5
  Technology collaboration with industry in past 2 years Samsung, Beam Laser, Robert Bosch....
- 

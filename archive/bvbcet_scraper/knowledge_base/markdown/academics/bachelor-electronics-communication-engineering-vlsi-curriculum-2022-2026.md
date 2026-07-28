@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: bachelor-electronics-communication-engineering-vlsi-curriculum-2022-2026"
+title: "Electronics Engineering (VLSI Design & Technology) Curriculum"
 category: "academics"
 subcategory: ""
 document_type: "syllabus"
@@ -11,18 +11,15 @@ language: "en"
 keywords: ["bachelor", "chapter", "communication", "curriculum", "design", "document", "electronics", "engineering", "hours", "marks"]
 aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "ECE", "EC", "EEE", "EE", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "150"
 ---
-# PDF Document: bachelor-electronics-communication-engineering-vlsi-curriculum-2022-2026
- **PDF Source:** https://www.kletech.ac.in/pdf/bachelor-electronics-communication-engineering-vlsi-curriculum-2022-2026.pdf
- ## Page 1
- FMCD2009 / 2.0 
- 1 
+**PDF Source:** https://www.kletech.ac.in/pdf/bachelor-electronics-communication-engineering-vlsi-curriculum-2022-2026.pdf
+
   Curriculum Structure and Curriculum Content for the Academic Batch - 2022-26 
 School /Department: Electrical & Electronics Engineering 
 Program: Electronics Engineering (VLSI Design & Technology) 
-  ## Page 2
- FMCD2009 / 2.0 
- 2 
+
   Table of Contents 
 Vision and Mission of KLE Technological University ........................................... 3 
 Vision and Mission Statements of the School / Department ................................ 4 
@@ -41,9 +38,7 @@ Semester- VIII .................................................................
 List of Program Electives ...................................................................................... 17 
 List of Open Electives ............................................................................................ 18 
 Curriculum Content- Course-wise ........................................................................ 19 
-  ## Page 3
- FMCD2009 / 2.0 
- 3 
+
    Vision and Mission of KLE Technological University 
   Vision 
   KLE Technological University will be a national leader in Higher 
@@ -65,9 +60,7 @@ contributing our expertise, experience and leadership, to enhance
 competitiveness and quality of life. 
   As a unified community of faculty, staff and students, we work together with the 
 spirit of collaboration and partnership to accomplish our mission. 
- ## Page 4
- FMCD2009 / 2.0 
- 4 
+
   Vision and Mission Statements of the School / Department 
 Vision 
   KLE Tech-Department of Electronics Engineering (VLSI Design and Technology) 
@@ -93,9 +86,7 @@ medical electronics, IoT systems, and consumer smart devices.
 innovation are embedded throughout the curriculum. Students graduate 
 not just as engineers, but as solution creators driving the future of an 
 intelligent, efficient, and connected world. 
-  ## Page 5
- FMCD2009 / 2.0 
- 5 
+
 Program Educational Objectives/Program Outcomes and Program-Specific 
 Objectives 
 Program Educational Objectives -PEO's 
@@ -133,9 +124,7 @@ PO 5: Engineering Tool Usage:
 engineering & IT tools, including prediction and modelling recognizing their 
 limitations to solve complex engineering problems. (WK2 and WK6) 
 PO 6: The Engineer and The World: 
- ## Page 6
- FMCD2009 / 2.0 
- 6 
+
 Analyze and evaluate societal and environmental aspects while solving 
 complex engineering problems for its impact on sustainability with reference 
 to economy, health, safety, legal framework, culture and environment. (WK1, 
@@ -167,9 +156,7 @@ circuits, and software components for hardware-software solutions.
 PSO 2: Demonstrate proficiency in using industry-standard EDA tools for front-
 end and back -end VLSI design, with exposure to advanced IC packaging 
 technologies. 
-  ## Page 7
- FMCD2009 / 2.0 
- 7 
+
 Curriculum Structure-Overall 
 Semester Total Program Credits: 180 
 Course with course code 
@@ -346,9 +333,7 @@ GEN AI
 PSE Elective 5 
 (24EVTExxx) 
 3 credits 
-  ## Page 8
- FMCD2009 / 2.0 
- 8 
+
 Professional 
 Communication 
 15EHSH101 
@@ -415,9 +400,7 @@ Reasoning
 23EHSA303 
 0-0-0 
     Credits 22 22 25.5 24.5 25 23 21 17 
-  ## Page 9
- FMCD2009 / 2.0 
- 9 
+
 Curriculum Structure-Semester wise 
 Semester - I 
   No Code Course Category L-T-P Credits Contact 
@@ -437,9 +420,7 @@ Innovation
 HSS 0-1-1 2 3 50 50 100 1.5hrs 
 7 15EHSH101 Professional Communication HSS 1-1-0 2 3 50 50 100 1.5 hrs 
 TOTAL 15-3-4 22 27 410 290 700 
- ## Page 10
- FMCD2009 / 2.0 
- 10 
+
   Semester - II 
   No Code Course Category L-T-P Credits Contact 
 Hours 
@@ -456,9 +437,7 @@ ES 0-0-3 3 6 80 20 100 3 hrs
 6 15EMEF101 Basic Mechanical Engineering ES 2-1-0 3 4 50 50 100 3 hrs 
 7 16EPHP101 Applied Physics Lab BS 0-0-1 1 2 80 20 100 3 hrs 
 TOTAL 13-2-7 22 32 410 290 700 
- ## Page 11
- FMCD2009 / 2.0 
- 11 
+
   Semester- III 
   No Code Course Category L-T-P Credits Contact 
 Hours 
@@ -488,9 +467,7 @@ C Programming (Dip)
 ES 2-0-1 3 4 80 20 100 2 hours 
 0-0-2 2 4 
 TOTAL 22.5-0-3 25.5 29 590 310 900 
- ## Page 12
- FMCD2009 / 2.0 
- 12 
+
   Semester- IV 
   No Code Course Category L-T-P Credits Contact 
 Hours 
@@ -516,9 +493,7 @@ ES
 0-0-2 2 4 80 20 100 2 hours 
   10 0-0-3 3 6 
 TOTAL 18.5-0-6 24.5 31 590 310 900 
- ## Page 13
- FMCD2009 / 2.0 
- 13 
+
 Semester- V 
 No Code Course Category L-T-P Credits Contact 
 Hours 
@@ -547,9 +522,7 @@ Analytical Reasoning
 Audit 0-0-0 Audit 1 
 100 -- 100 3 hours 
 TOTAL 18-0-7 25 34 580 320 900 
- ## Page 14
- FMCD2009 / 2.0 
- 14 
+
 Semester- VI 
   No Code Course Category L-T-P Credits Contact 
 Hours 
@@ -572,9 +545,7 @@ Leadership Skills
 ES 0-0-0 Audit 1 25 75 100 3 hours 
 TOTAL 12-0-11 23 33 426 374 800 
 Semester- VII 
-  ## Page 15
- FMCD2009 / 2.0 
- 15 
+
   No Code Course Category L-T-P Credits Contact 
 Hours 
 ISA ESA Total Exam 
@@ -588,9 +559,7 @@ Duration
 6 25EVTW401 P3: Senior Design Project PW 0-0-6 6 12 50 50 100 3 hours 
 7 15EHSC402 CIPE & EVS M 2-0-0 2 50 50 100 3 hours 
 TOTAL 15-0-6 21 29 350 350 700 
- ## Page 16
- FMCD2009 / 2.0 
- 16 
+
   Semester- VIII 
   Semester I II III IV V VI VII VIII Total 
 No Code Course Category L-T-P Credits Contact 
@@ -611,13 +580,9 @@ OR
   Project Work PRJ 0-0-11 11 22 
 50 50 100 3 hours 
 TOTAL 6-0-11 17 28 150 150 300 
- ## Page 17
- FMCD2009 / 2.0 
- 17 
+
 Credits 22 22 25.5 24.5 25 23 21 17 180 
- ## Page 18
- FMCD2009 / 2.0 
- 18 
+
   List of Program Electives VI Sem 
 Sr. No Name of the Course Course Code 
 1. Communication Systems 24EVTE301 
@@ -645,16 +610,12 @@ Sr. No Name of the Course Course Code
 16. Low Power VLSI Circuits 25EVTE417 
 17. VLSI Interconnects 25EVTE418 
 18. Advanced DFT for ASIC Design 25EVTE419 
-  ## Page 19
- FMCD2009 / 2.0 
- 19 
+
                                   List of Open Electives VIII Sem 
 Sr. No Name of the Course Course Code 
 1 Hardware-Software Co-design 24EVTO401 
 2 System on Chip (SoC) Design 24EVTO402 
-  ## Page 20
- FMCD2009 / 2.0 
- 20 
+
 Curriculum Content- Course wise 
 Program: Electronics Engineering (VLSI Design & Technology) Semester: I 
 Course Title: Single Variable Calculus Course Code: 18EMAB101 
@@ -693,9 +654,7 @@ Euler's method and Runge-Kutta method
 (b) Applications of first order differential equations -Orthogonal trajectories growth and decay 
 problems, mixture problems, Electrical circuits, falling bodies. 
 MATLAB: Solve differential equations 
- ## Page 21
- FMCD2009 / 2.0 
- 21 
+
   Text Books 
 1. Early Transcendentals Calculus- James Stewart, Thomson Books, 7ed 2010. 
 Reference Books: 
@@ -703,9 +662,7 @@ Reference Books:
 2009. 
 2. Thomas Calculus, George B Thomas, Pearson India, 12ed, 2010 
                           Back to Semester - I 
-  ## Page 22
- FMCD2009 / 2.0 
- 22 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: I 
 Course Title: Engineering Physics Course Code: 15EPHB101 
 L-T-P: 3-0-0 Credits: 3 Contact Hours:3 hrs/week 
@@ -751,9 +708,7 @@ Properties of Electric Charges, Charging Objects by Induction, Coulomb 's Law, A
 Particle in a Field (Electric), Electric Field of a Continuous Charge Distribution, Electric Field Lines 
 Motion of a Charged Particle in a Uniform Electric Field 
 Gauss's Law: 
- ## Page 23
- FMCD2009 / 2.0 
- 23 
+
 Electric Flux, Gauss's Law, Application of Gauss's Law to Various Charge Distributions, Conductors 
 in Electrostatic Equilibrium 
 Electric Potential: 
@@ -789,9 +744,7 @@ Reference Books:
 II, Norosa Publishing House (1998). 
 3. Ben G Streetman, Solid State Electronic Devices, Prentice Hall, 1995 
   Back to Semester - I 
-   ## Page 24
- FMCD2009 / 2.0 
- 24 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: I 
 Course Title: Engineering Mechanics Course Code: 15ECVF101 
 L-T-P: 4-0-0 Credits: 4 Contact Hours:4 hrs/week 
@@ -838,9 +791,7 @@ Deformation of a bar due to force acting on it. Law of super position. Stresses 
 & varying cross sections. Composite sections. Problems connected to above topics. 
 Unit III 
 Chapter 7: Centroid of Plane Figures 
- ## Page 25
- FMCD2009 / 2.0 
- 25 
+
 Introduction, Definition, Methods of determining the centroid, axis of reference , axis of 
 symmetry, Locating the centroid of simple plane figures (triangle, semicircle, quarter of a circle 
 and sector of a circle etc,.) using method of integration, Numerical problems on Centroid of 
@@ -869,9 +820,7 @@ Publishing Company, New Delhi, 1956.
 5. Irving H Shames, Engineering Mechanics, 3rd edition, Prentice-Hall of India Pvt. Ltd, New 
 Delhi- 110 001, 1995. 
 Back to Semester - I 
-   ## Page 26
- FMCD2009 / 2.0 
- 26 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: I 
 Course Title: C Programming for Problem solving Course Code: 18ECSP101 
 L-T-P: 0-0-3 Credits: 3 Contact Hours:6 hrs/week 
@@ -911,13 +860,9 @@ Reference Books:
 2. B S Gottfried, Programming with C, 2ed, TMH, 2006. 
 3. B.A. Forouzan, R.F. Gilberg, A Structured Program Approach Using C, 3ed, CENGAGE 
 Learning, 2008. 
- ## Page 27
- FMCD2009 / 2.0 
- 27 
+
  Back to Semester - I 
- ## Page 28
- FMCD2009 / 2.0 
- 28 
+
    Program: Electronics Engineering (VLSI Design & Technology) Semester: I 
 Course Title: Basic Electrical Engineering Course Code: 18EEEF101 
 L-T-P: 3-0-0 Credits: 3 Contact Hours:3 hrs/week 
@@ -956,9 +901,7 @@ ELCB and Relays, Lockout and Tagout, Electrical Codes and Standards.
 Batteries: 
 Basics of lead acid batteries, Lithium Ion Battery , Battery storage capacity, Coulomb efficiency, 
 Numerical of high and low charging rates, Battery sizing. Numericals. 
- ## Page 29
- FMCD2009 / 2.0 
- 29 
+
 Text Books 
 1. Hughes, Electrical & Electronic Technology, 8th , Pearson Education, 2001 
 2. P C Sen, Principals of Electrical Machines and Power Electronics, 2nd, Wiley Publications 
@@ -973,9 +916,7 @@ Measurement Systems, 3rd, Tata McGraw Hill Education Private Limited, New Delhi.
 2005 
 3. Vincent Del Toro, Electrical Engineering Fundamentals, 2nd edition Prentice Hall India 
   Back to Semester - I 
- ## Page 30
- FMCD2009 / 2.0 
- 30 
+
    Program: Electronics Engineering (VLSI Design & 
 Technology) 
 Semester: I 
@@ -1069,9 +1010,7 @@ youir Creative
 Confidence by David 
 Kelley - IDEO 
 Founder) 
-  ## Page 31
- FMCD2009 / 2.0 
- 31 
+
 (Designing Website first and 
 then asking the stakeholders 
 about the website) 
@@ -1144,9 +1083,7 @@ the respective
 templates with the 
 help of sample case 
 study 
- ## Page 32
- FMCD2009 / 2.0 
- 32 
+
 (Examples on 
 Fluoroscent Curtain and 
 Students' Punctuality for 
@@ -1211,9 +1148,7 @@ study
 management 
  Activity on Resource 
 management 
- ## Page 33
- FMCD2009 / 2.0 
- 33 
+
  Test and get 
 feedback 
 Template 8 : Determine what 
@@ -1272,15 +1207,11 @@ the respective
 templates with the 
 help of sample case 
 study 
-  ## Page 34
- FMCD2009 / 2.0 
- 34 
+
 Final Presentation- After 
 Implementation 
   Back to Semester - I 
-  ## Page 35
- FMCD2009 / 2.0 
- 35 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: I 
 Course Title: Applied Physics lab Course Code: 16EPHP101 
 L-T-P: 0-0-1 Credits: 1 Contact Hours:2 hrs/week 
@@ -1298,9 +1229,7 @@ List of Experiments
 9. Calibration of thermocouple 
 10. Calibration of electrical meters 
   Back to Semester - I 
- ## Page 36
- FMCD2009 / 2.0 
- 36 
+
    Program: Electronics Engineering (VLSI Design & Technology) Semester: II 
 Course Title: Multivariable calculus Course Code: 18EMAB102 
 L-T-P: 4-1-0 Credits: 5 Contact Hours:5 hrs/week 
@@ -1337,9 +1266,7 @@ Reference Books:
 1. Calculus Single and Multivariable, Hughues-Hallett Gleason, Wiley India Ed, 4ed, 2009. 
 2. Thomas Calculus, George B Thomas, Pearson India, 12ed, 2010 
 Back to Semester - II 
-  ## Page 37
- FMCD2009 / 2.0 
- 37 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: II 
 Course Title: Engineering Chemistry Course Code: 15ECHB102 
 L-T-P: 3-0-0 Credits: 3 Contact Hours:3 hrs/week 
@@ -1382,9 +1309,7 @@ problems, epitaxial growth, masking and photolithography, wet etching, dry etchi
 Liquid Crystals - Types of liquid crystals, applications of Liquid Crystal in Display system. 
 Fluorescence and Phosphorescence - Jablonski diagram, Thermoelectric and Piezoelectric 
 materials - meaning, properties and applications. 
- ## Page 38
- FMCD2009 / 2.0 
- 38 
+
   Unit III 
 7. Instrumental methods of measurement 
 Advantages over conventional methods. Electro analytical methods: Potentiometer - 
@@ -1416,9 +1341,7 @@ Anand, Himalaya Publishing House Pvt. Ltd, 2010, Mumbai.
 7. VLSI Technology, 2 nd Edition, S.M.Sze, McGraw Hill Series in electrical and computer 
 engineering, 1998, New York. 
 Back to Semester - II 
- ## Page 39
- FMCD2009 / 2.0 
- 39 
+
    Program: Electronics Engineering (VLSI Design & Technology) Semester: II 
 Course Title: Problem Solving with Data Structures Course Code: 18ECSP102 
 L-T-P: 0-0-3 Credits: 3 Contact Hours:6 hrs/week 
@@ -1450,9 +1373,7 @@ Text Books
 3. B.A. Forouzan, R.F. Gilberg, A Structured Program Approach Using C, 3ed, CENGAGE 
 Learning, 2008. 
 Back to Semester - II 
-  ## Page 40
- FMCD2009 / 2.0 
- 40 
+
   Program: Electronics Engineering (VLSI Design & Technology) Semester: II 
 Course Title: Engineering Exploration Course Code: 15ECRP101 
 L-T-P: 0-0-3 Credits: 3 Contact Hours:6 hrs/week 
@@ -1474,9 +1395,7 @@ Reference Books:
 Northup, Steven, McGraw Hill Higher Education, 6th Edition ( 2011) 
 2. Engineering Exploration ( Edited Book, 2008) by Pearson Publication 
   Back to Semester - II 
-  ## Page 41
- FMCD2009 / 2.0 
- 41 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: II 
 Course Title: Basic Electronics Course Code: 18EECF101 
 L-T-P: 4-0-0 Credits: 4 Contact Hours:4 hrs/week 
@@ -1519,9 +1438,7 @@ modulator. Detection of AM waves: envelope detector. Double side band suppressed
 modulation (DSBSC), Generation of DSBSC wave : balanced modulator, Super heterodyne 
 principle. 
 Chapter 7: Linear Power Supply, UPS & CRO: 
- ## Page 42
- FMCD2009 / 2.0 
- 42 
+
 Working principle of linear power supply, UPS and CRO. Measurement of amplitude, frequency 
 and phase of a given signal. 
 Text Books 
@@ -1537,9 +1454,7 @@ Engineering for SISAntist and Engineers, 2, New Age International Publishers, 20
 4. Boylestead Nashelsky, Electronic devices & Circuit theory, Prentice Hall India, 2000 
 5. Ramakant Gaikawad , Operational Amplifiers & applications, PHI, 2000 
   Back to Semester - II 
-   ## Page 43
- FMCD2009 / 2.0 
- 43 
+
   Program: Electronics Engineering (VLSI Design & Technology) Semester: II 
 Course Title: Basic Mechanical Engineering Course Code: 15EECF101 
 L-T-P: 2-1-0 Credits: 3 Contact Hours:4 hrs/week 
@@ -1574,9 +1489,7 @@ Video presentations
 Chapter 4: Thermal Engineering 1: Prime Movers. 
 Internal Combustion Engines: Classification, IC engine parts, 2 stroke SI and CI engine, 4 Stroke 
 SI and CI Engine, PV diagrams of Otto and Diesel cycles, Comparison of 2 stroke and 4 stroke 
- ## Page 44
- FMCD2009 / 2.0 
- 44 
+
 Back to Semester - II 
    engine, comparison of CI and SI engine, Problems on Engine Performance, Future trends in IC 
 engines. 
@@ -1598,9 +1511,7 @@ Reference Books:
 2. SKH Chowdhary, AKH Chowdhary, Nirjhar Roy, The Elements of Workshop Technology - 
 Vol I & II , 11th edition 2001, Media Promoters and Publishers. 
 3. Basic Manufacturing, Roger Timings, Third edition, Newnes, An imprint of Elsevier 
- ## Page 45
- FMCD2009 / 2.0 
- 45 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: II 
 Course Title: Professional Communication Course Code: 15EHSH101 
 L-T-P: 1-1-0 Credits: 2 Contact Hours:3 hrs/week 
@@ -1626,9 +1537,7 @@ Reference Books:
 2. Raymond Murphy - Intermediate English Grammar, Cambridge University Press 
 3. Martin Hewings- Advanced English Grammar, Cambridge University Press. 
 Back to Semester - II 
-  ## Page 46
- FMCD2009 / 2.0 
- 46 
+
   Program: Electronics Engineering (VLSI Design & Technology) Semester: III Semester 
 Course Title: Integral transforms and Statistics Course Code: 15EMAB203 
 L-T-P: 4-0-0 Credits: 4 Contact Hours: 4Hrs/week 
@@ -1666,9 +1575,7 @@ variance, covariance, correlation.
 2. Introduction to Random process, stationary process, mean, correlation and covariance 
 function, autocorrelation function, cross correlatio n, Power spectral Density: properties of 
 the spectral density; Gaussian Process: Properties of Gaussian process. 
-  ## Page 47
- FMCD2009 / 2.0 
- 47 
+
   Text Books 
 1. Kreyszig E., Advanced Engineering Mathematics, 10th edition, Wiley, 2015 
 2. Gupta S C and Kapoor V K, Fundamentals of Mathematical S tatistics, 11 th edition, Sultan 
@@ -1682,9 +1589,7 @@ Applications for Engineering and the Computing S ciences, 4th edition, TATAMcGra
 Edition, 2017 
 3. Ian Glover & Peter Grant, Digital Communications, 3rd edition, Pearson 2009. 
   Back to Semester - III 
-  ## Page 48
- FMCD2009 / 2.0 
- 48 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: III 
 Course Title: Corporate Communication Course Code: 22EHSH201 
 L-T-P: 0.5-0-0 Credits: 0.5 Contact Hours: 1 hrs/week 
@@ -1709,9 +1614,7 @@ Reference Books:
 2. Norman Lewis - Word Power Made Easy, Goyal Publishers 
 3. Cambridge Advanced Learner's Dictionary, Cambridge University Press. 
   Back to Semester - III 
-  ## Page 49
- FMCD2009 / 2.0 
- 49 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: III Semester 
 Course Title: Circuit Analysis Course Code: 23EVTC201 
 L-T-P: 4-0-0 Credits: 4 Contact Hours: 4Hrs/week 
@@ -1745,9 +1648,7 @@ diagrams, Frequency response characteristics, Polar plots R-C, R -L circuits as 
 integrator models, time and frequency domain responses R -C, R-L circuits as Low pass and high 
 pass filters 
 [ Text 2: Chapter 5, Text 1: Chapter 8, 9, 10] 
-  ## Page 50
- FMCD2009 / 2.0 
- 50 
+
 Unit III 
 Chapter No. 7. Higher order circuits 
 Higher order R -C, R -L, and R -L-C networks, time domain and frequency domain representation, 
@@ -1765,9 +1666,7 @@ Eighth edition ,2013
 2. V. K. Aatre, ―Network Theory and Filter Design, 3rd edition, New Age International Private 
 Limited, 2014 
   Back to Semester - III 
-  ## Page 51
- FMCD2009 / 2.0 
- 51 
+
   Program: Electronics Engineering (VLSI Design & Technology) Semester: III Semester 
 Course Title: Analog Electronic Circuits Course Code: 23EVTC202 
 L-T-P: 4-0-0 Credits: 4 Contact Hours: 4Hrs/week 
@@ -1806,9 +1705,7 @@ operation, operation as a linear amplifier and Numericals.
   Chapter 5: MOSFET amplifiers 
 Small signal operation and models, single stage MOS amplifiers, the MOSFET internal capacitance, 
 Derivation of CS, CG and CD amplifiers parameters and its comparison, Implications on gain and 
- ## Page 52
- FMCD2009 / 2.0 
- 52 
+
 Bandwidth. Source degenerated common source amplifi er, cascode and cascaded circuits High 
 frequency m odel of the MOSFET, revision of common -gate, common - source, common -drain 
 circuits; poles and zeros in the transfer function 
@@ -1840,9 +1737,7 @@ Pearson Education, 2003
 6. J. Millman& A. Grabel, "Microelectronics"-2nd edition, McGraw Hill, 2017 
 7. BehzadRazavi,―Fundamentals of Microelectronics, 2nd edition Wiley; 2013 
   Back to Semester - III 
-  ## Page 53
- FMCD2009 / 2.0 
- 53 
+
   Program: Electronics Engineering (VLSI Design & Technology) Semester: III Semester 
 Course Title: Digital Circuits Course Code: 23EVTC203 
 L-T-P: 4-0-0 Credits: 4 Contact Hours: 4Hrs/week 
@@ -1877,9 +1772,7 @@ Synchronous Sequential Circuit Analysis, Construction of state Diagrams and coun
   Chapter No. 7. Introduction to memories 
 Introduction and role of memory in a computer system, memory types and terminology, Read Only 
 memory, MROM, PROM, EPROM, EEPROM, Random access memory, SRAM, DRAM, NVRAM. 
- ## Page 54
- FMCD2009 / 2.0 
- 54 
+
   Text Books 
 1. Donald D Givone, Digital Principles and Design, McGraw Hill Education ,2017 
 2. John M Yarbrough, Digital Logic Applications and Design, 1st edition Cengage Learning, 2006 
@@ -1891,9 +1784,7 @@ memory, MROM, PROM, EPROM, EEPROM, Random access memory, SRAM, DRAM, NVRAM.
 3. R.D. Sudhaker Samuel, Logic Design, Pearson Education ,2010 
 4. R P Jain, Modern Digital Electronics ,4th edition, McGraw Hill Education, 2009 
   Back to Semester - III 
-  ## Page 55
- FMCD2009 / 2.0 
- 55 
+
   Program: Electronics Engineering (VLSI Design & Technology) Semester: III Semester 
 Course Title: Signals and Systems Course Code: 23EVTC204 
 L-T-P: 4-0-0 Credits: 4 Contact Hours: 4Hrs/week 
@@ -1926,18 +1817,14 @@ Definition of z -transform, Properties of ROC, Properties of Z -transforms: Inve
 1. Simon Haykin and Barry Van Veen, Signals and Systems, 2nd edition Wiley, 2007 
 2. Alan V Oppenheim, Alan S Willsky and S. Hamid Nawab, Signals and Systems, 
 Second, PHI public, 1997 
-  ## Page 56
- FMCD2009 / 2.0 
- 56 
+
 Reference Books: 
 1. H. P Hsu, R. Ranjan, Signals and Systems, 2nd edition, McGraw Hill ,2017 
 2. GaneshRaoandSatishTunga, SignalsandSystems1st edition, Cengage India, 2017 
 3. M.J.Roberts, Fundamentals of Signals and Systems 2nd edition, McGraw Hill Education, 
 2017 
   Back to Semester - III 
-  ## Page 57
- FMCD2009 / 2.0 
- 57 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: III Semester 
 Course Title: Digital Circuits Lab Course Code: 23EVTP201 
 L-T-P: 0-0-1 Credits: 1 Contact Hours: 2Hrs/week 
@@ -1964,9 +1851,7 @@ Simulators (Avoid using drag n drop), before implementing the circuits on breadb
 1. K.A.Krishnamurthy―Digital labprimer‖, Pearson Education Asia Publications, 2003. 
 2. A.P. Malvino, ―Electronic Principles 7th edition, McGraw Hill Education, 2017 
   Back to Semester - III 
-  ## Page 58
- FMCD2009 / 2.0 
- 58 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: III Semester 
 Course Title: Analog Electronic Circuits Lab Course Code: 23EVTP202 
 L-T-P: 0-0-1 Credits: 1 Contact Hours: 2Hrs/week 
@@ -2002,9 +1887,7 @@ Device data sheets.
 5. KLETECH Electronics and Communication Engineering Department 2023-24 Analog 
 Electronics Lab manual. 
   Back to Semester - III 
-  ## Page 59
- FMCD2009 / 2.0 
- 59 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: III Semester 
 Course Title: Microcontroller Architecture & Programming Course Code: 23EVTF201 
 L-T-P: 2-0-1 Credits: 3 Contact Hours: 4Hrs/week 
@@ -2039,9 +1922,7 @@ Basics of Serial Communication, 8051 connection s to RS -232, 8051 Serial Commun
 Programming, Serial port programming in C. 
 Chapter 8: 8051 interfacing and applications 
 Interfacing 8051 to LCD, Keyboard, ADC, DAC, Stepper Motor, DC Motor. 
- ## Page 60
- FMCD2009 / 2.0 
- 60 
+
   Chapter 9: Interrupts 
 Introduction to interrupts, interripts vs polling, classification of inerrupts, inerrupt priority, 
 inerrupt vector table, inerruptt service routine 
@@ -2053,9 +1934,7 @@ Gillispie Mazidi', Pearson Education, 2003
   Reference Books: 
 1. "Programming and Customizing the 8051 Microcontroller ", by 'Predko', TMH. 
   Back to Semester - III 
-  ## Page 61
- FMCD2009 / 2.0 
- 61 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: III Semester 
 Course Title: C Programming (for Diploma) Course Code: 23EVTF202 
 L-T-P: 0-0-2 Credits: 2 Contact Hours: 4 Hrs/week 
@@ -2096,15 +1975,11 @@ ii) Print the pattern
   To find the summation of three numbers using function. 
 10. Write a C program to 
                Find out addition of two matrices. 
-  ## Page 62
- FMCD2009 / 2.0 
- 62 
+
 Text Books 
 1. Programming in ANSI C, E Balagurusamy. 
   Back to Semester - III 
-  ## Page 63
- FMCD2009 / 2.0 
- 63 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: IV Semester 
 Course Title: Linear Algebra and Partial Differential Equations Course Code: 15EMAB208 
 L-T-P: 4-0-0 Credits: 4 Contact Hours: 4Hrs/Week 
@@ -2142,9 +2017,7 @@ forms).
 Line integral, Cauchy's theorem- corollaries, Cauchy's integral formula. Taylor's and Laurent Series, 
 Singularities, Poles, Residue theorem - problems. 
   Text Books 
- ## Page 64
- FMCD2009 / 2.0 
- 64 
+
 1. Simon Haykin, Barry Van Veen, Signals and Systems, 2nd edition, Wiley, 2007 
 2. Peter V. O'neil, Advanced Engineering Mathematics Cengage Learning Custom Pub lishing; 
 7th Revised edition2011 
@@ -2155,9 +2028,7 @@ NarosaPublishingHouse, NewDelhi, 2012
 2. Stanley J Farlow, Partial differential equations for Scientists and Engineers, Dover 
 publications, INC, New York, 1993 
   Back to Semester - IV 
-  ## Page 65
- FMCD2009 / 2.0 
- 65 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: IV 
 Course Title: Problem Solving & Analysis Course Code: 22EHSH202 
 L-T-P: 0.5-0-0 Credits: 0.5 Contact Hours: 1 hrs/week 
@@ -2188,9 +2059,7 @@ Chand and Sons, New Delhi, 2018
 7. Cambridge Advanced Learner's Dictionary, Cambridge University Press. 
 8. Kaplan's GRE guide 
   Back to Semester - IV 
-  ## Page 66
- FMCD2009 / 2.0 
- 66 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: IV Semester 
 Course Title: Semiconductor Device Physics Course Code: 23EVTC205 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3Hrs/week 
@@ -2222,9 +2091,7 @@ breakdown - Drain-induced barrier lowering
   Chapter 7. 
 Effect of tox - Effect of high-k and low-k dielectrics on the gate leakage and Source and drain leakage 
 - tunneling effects - Different gate structures in UDSM - Impact and reliability challenges in UDSM 
-  ## Page 67
- FMCD2009 / 2.0 
- 67 
+
 Text Books 
 1. Chenming Hu, Modern Semiconductor Devices for Integrated Circuit, Pearson education 
 2. S M Sze, Physics of Semiconductor devices, Wiley Online Library 
@@ -2233,9 +2100,7 @@ Publishers, US, 2017
 4. M K Achutan and K N Bhatt, Fundamental of Semiconductor Devices, McGraw Hill 
 Education, US, 2017 
   Back to Semester - IV 
-  ## Page 68
- FMCD2009 / 2.0 
- 68 
+
   Program: Electronics Engineering (VLSI Design & Technology) Semester: IV Semester 
 Course Title: Linear Integrated Circuits Course Code: 23EVTC206 
 L-T-P: 4-0-0 Credits: 4 Contact Hours: 4Hrs/week 
@@ -2270,9 +2135,7 @@ Data Converters: Digital to Analog Converters: Weighte d resistor; R -2R, Curren
 Pipeline. Analog to Digital Converters: Flash, Dual slope, Pipeline and SAR. 
   Text Books 
 1. Behzad Razavi, Design of Analog CMOS Integrated Circuits McGraw-Hill, 2nd edition, 2016 
- ## Page 69
- FMCD2009 / 2.0 
- 69 
+
 2. Phillip E. Allen, Douglas R. Holberg, CMOS Analog Circuit Design, Oxford University Press, 
 USA, 2010 
 3. Ramakant A. Gayakwad, Op - Amps and Linear Integrated Circuits, 4th Edition 
@@ -2283,9 +2146,7 @@ edition, Tata McGraw Hill 2014
 3. David A. Bell, Operational Amplifiers and Linear IC's, 3rd ed., Oxford University Press, 2011 
 4. B. Razavi, Fundamentals of Microelectronics, 2nd edition. 
   Back to Semester - IV 
-  ## Page 70
- FMCD2009 / 2.0 
- 70 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: IV Semester 
 Course Title: Computer Architecture Course Code: 23EVTC207 
 L-T-P: 2-0-1 Credits: 3 Contact Hours: 4Hrs/week 
@@ -2323,9 +2184,7 @@ SPMD, and vector, Introduction to graphics p rocessing units, Introduction to mu
 network topologies, Multiprocessor benchmarks. 
 [Text 1: Chapter 7] 
   Text Books 
- ## Page 71
- FMCD2009 / 2.0 
- 71 
+
 1. Computer Organization and Design, The hardware/Software interface, ARM edition - David 
 A. Patterson, John L.Hennessy. 4th edition, MK publishers, 2009 
   Reference Books: 
@@ -2352,9 +2211,7 @@ execution).
 10. Exercise on data hazards. 
 11. Exercise on Structural hazards. 
 12. Exercise on control hazards. 
- ## Page 72
- FMCD2009 / 2.0 
- 72 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: IV Semester 
 Course Title: ARM Processor & Applications Course Code: 23EVTC210 
 L-T-P: 3-0-1 Credits: 4 Contact Hours: 5Hrs/week 
@@ -2389,9 +2246,7 @@ Abstraction in software design, d ata types, floating point data types, The ARM 
 architecture, use of memory, run time environment. 
   Text Books: 
 1. Steve Furber, ARM System- on-Chip Architecture, 2nd, LPE, 2002 
- ## Page 73
- FMCD2009 / 2.0 
- 73 
+
 2. William Hohl, ARM Assembly Language fundamentals and Techniques, 1s t, CRC press, 
 2009 
   Reference Books: 
@@ -2420,9 +2275,7 @@ Apply suitable machine dependent optimization technique and analyze for memory a
 time consumed 
 4 Write an ALP to pass parameters to a subroutine to find the factorial of a number or 
 prime number generation. 
- ## Page 74
- FMCD2009 / 2.0 
- 74 
+
   Back to Semester - IV 
   Apply suitable machine dependent optimization technique and analyze for memory and 
 time consumed 
@@ -2439,9 +2292,7 @@ example.
 control the connected device 
 11 Develop an application code using synchronous communication protocol to display the 
 RTC value on a display device. 
- ## Page 75
- FMCD2009 / 2.0 
- 75 
+
   Program: Electronics Engineering (VLSI Design & Technology) Semester: IV Semester 
 Course Title: Digital IC Design Course Code: 23EVTC209 
 L-T-P: 2-0-1 Credits: 3 Contact Hours: 4Hrs/week 
@@ -2473,9 +2324,7 @@ McGraw
 4. Charles.H.Roth, Jr.,LizyKurianJohn―Digital System DesignusingVHDL‖,Thomson, 
 2ndEdition, 2008. 
   Back to Semester - IV 
-  ## Page 76
- FMCD2009 / 2.0 
- 76 
+
   Program: Electronics Engineering (VLSI Design & Technology) Semester: IV Semester 
 Course Title: LIC Lab Course Code: 23EVTP203 
 L-T-P: 0-0-1 Credits: 1 Contact Hours: 2Hrs/week 
@@ -2509,9 +2358,7 @@ c. Dan Sheingold Analog to Digital Conversion Hand Book, PH, 1986.
 d. David A. Bell, Operational Amplifiers and Linear IC's, 2ed., PHI/Pearson, 2004 
 e. Manual: Lab manual prepared by SoECE Department. 
 Back to Semester - IV 
-  ## Page 77
- FMCD2009 / 2.0 
- 77 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: IV Semester 
 Course Title: Data Structures Application Lab Course Code: 23EVTF203 
 L-T-P: 0-0-2 Credits: 2 Contact Hours: 4Hrs/week 
@@ -2536,9 +2383,7 @@ Hashing Applications
 Second Edition. 
 2. Aaron M. Tenenbaum, Data Structures Using C. 
   Back to Semester - IV 
-  ## Page 78
- FMCD2009 / 2.0 
- 78 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: IV Semester 
 Course Title: Data Structures Lab (Dip) Course Code: 23EVTF204 
 L-T-P: 0-0-3 Credits: 3 Contact Hours: 6Hrs/week 
@@ -2576,9 +2421,7 @@ a)Perform string handling functions like
 3. Strings compare. 
 4. String copy. 
 1 
- ## Page 79
- FMCD2009 / 2.0 
- 79 
+
 5. Strings reverse. 
 b) Implement Structures, union and bit-field 
 3 Programming on files. 2.00 0.00 
@@ -2620,9 +2463,7 @@ Write a program using queue data structure for an application.
 different types of Linked lists 
 2. 00 4.00 
  Learning Outcomes: 4 
- ## Page 80
- FMCD2009 / 2.0 
- 80 
+
 The students should be able to write a modular program to use the 
 linked lists for an application 
 1. Insert , delete and display a node in SLL. 
@@ -2656,9 +2497,7 @@ The students should be able to:
  Learning Outcomes: 
 The students should be able to 
 6 
- ## Page 81
- FMCD2009 / 2.0 
- 81 
+
  Write modular program on 
 1. Direct-address tables 
 2. Hash tables 
@@ -2674,9 +2513,7 @@ C", 2nd Edition , Course Technology, Oct 2009.
 8. Kernighan and Ritchie, The ANSI C programming Language, 2 ed., PHI. 
 9. Robert Kruse, Data Structures and Program Design in C, 2 ed., Pearson 
   Back to Semester - IV 
-   ## Page 82
- FMCD2009 / 2.0 
- 82 
+
   Program: Electronics Engineering (VLSI Design & Technology) Semester: V Semester 
 Course Title: CMOS VLSI Design Course Code: 24EVTC301 
 L-T-P: 4-0-0 Credits: 4 Contact Hours: 4Hrs/week 
@@ -2711,9 +2548,7 @@ Sequential logic cell, Data path logic cell, Library cell design, Library archit
 2. Neil Weste, David Harris & Ayan Banerjee, CMOS VLSI Design, 3, Pearson Ed, 2005 
 3. Sung-Mo Kang & Yusuf Leblebici, CMOS Digital Integrated Circuits: Analysis and Design, 
 3, Tata McGra, 2007 
- ## Page 83
- FMCD2009 / 2.0 
- 83 
+
 4. M. J. S. Smith, "Application Specific Integrated Circuits", Addison -Wesley Longman Inc., 
 1997. 
 Reference Books: 
@@ -2724,9 +2559,7 @@ Pablo Duarte, Navid Payvadosi, Ai Niknejad, Chenming Hu, Elsevier Publication, 2
 3. Douglas A Pucknell and Kamran Eshraghian, Basic VLSI Design, 3, PHI, 2005 
 4. Faranak Nekoogar, "From ASICs to SOCs: A Practical Approach", Prentice Hall PTR, 2003. 
   Back to Semester - V 
-  ## Page 84
- FMCD2009 / 2.0 
- 84 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: V Semester 
 Course Title: Control Systems Course Code: 24EVTC302 
 L-T-P: 4-0-0 Credits: 4 Contact Hours: 4Hrs/week 
@@ -2763,9 +2596,7 @@ Criterion.
 The Design Problem. Preliminary Consideration of Classical Design, Realization Of Basic 
 Compensators (Lag, Lead and dominant pole compensation), P , I, PI, PD & PID Controllers. 
   Text Books 
- ## Page 85
- FMCD2009 / 2.0 
- 85 
+
 1. J. Nagrath and M. Gopal, Control Systems Engineering; Sixth edition, New Age 
 International PvtLtd 2018 
 2. B. C. Kuo, Automatic Control Systems, 9th edition, John wiley and Sons, 2014 
@@ -2775,9 +2606,7 @@ Ltd, 2015,
 2. Richord C Dorf and Robert H. Bishop, Modern Control Systems, 13th edition, Pearson; 
 2016 
   Back to Semester - V 
-  ## Page 86
- FMCD2009 / 2.0 
- 86 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: V Semester 
 Course Title: Machine Learning & Deep Learning Course Code: 24EVTC303 
 L-T-P: 2-0-2 Credits: 4 Contact Hours: 6Hrs/week 
@@ -2816,9 +2645,7 @@ Initialization, Forwards propagation, and Cost function, Back propagation algori
 classification, Steps to train a neural network, Applications of Neural Networks, Introduction to 
 Deep Learning (Motiv ation, Overview), Convolution Neural Networks (CNN) (Architecture, 
 terminologies, Evolution and Modelling). 
-  ## Page 87
- FMCD2009 / 2.0 
- 87 
+
 Unit III 
 Chapter No. 6 Deep learning algorithms 
 Recurrent Neural Networks (RNN), Self -supervised models (Auto encoders and variants), 
@@ -2832,9 +2659,7 @@ Attention networks, Transformer based architecture, Transformer for Time-Series
 1. Trevor Hastie, Robert Tibshirani, Jerome Friedman, The Elements of Statistical 
 Learning: Data Mining Inference and Prediction, 2, Springer, 2009 
   Back to Semester - V 
-  ## Page 88
- FMCD2009 / 2.0 
- 88 
+
   Program: Electronics Engineering (VLSI Design & Technology) Semester: V Semester 
 Course Title: Electromagnetic Fields and Waves Course Code: 24EVTC304 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3Hrs/week 
@@ -2865,9 +2690,7 @@ Inductors and Inductances, Magnetic Energy, Magnetic Circuits, Force on Magnetic
   Chapter 6: Maxwell's Equations 
 Introduction, Faraday 's Law, Transformer and Motional Electromotive Forces, Displacement 
 Current, Maxwell's Equations in Final Forms, Time-Varying Potentials, Time-Harmonic Fields. 
-  ## Page 89
- FMCD2009 / 2.0 
- 89 
+
 Unit III 
 Chapter 7: Electromagnetic Wave Propagation 
 Introduction, Wave Propagation in Lossy Dielectrics, Plane Waves in Lossless Dielectrics, Plane 
@@ -2879,9 +2702,7 @@ of a Plane Wave at Normal Incidence, Reflection of a Plane Wave at Oblique Incid
 2. William Hayt, Jr. John A. Buck, Engineering Electromagnetics, 8th edition, TMH, 2012 
 3. Kraus, John D. Electromagnetics. United Kingdom, McGraw-Hill, 1992. 
   Back to Semester - V 
-  ## Page 90
- FMCD2009 / 2.0 
- 90 
+
   Program: Electronics Engineering (VLSI Design & Technology) Semester: V Semester 
 Course Title: Digital Signal Processing and Architecture Course Code: 24EVTC305 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 4Hrs/week 
@@ -2916,9 +2737,7 @@ TMS32OC54xx Processor
   Chapter No. 6. VLSI Digital Signal Processing Systems 
 Introduction, FIR Filters, IIR Filters, design high-speed, low-area, and low-power VLSI systems for a 
 broad range of DSP applications. 
-  ## Page 91
- FMCD2009 / 2.0 
- 91 
+
 Text Books: 
 1. Proakis&Manolakis, Digital signal processing Principles Algorithms & Applications, 4th 
 edition, PHI, New Delhi, 2007 
@@ -2933,9 +2752,7 @@ Singapore
 3. Emmanuel C Ifeachor and B W Jervis, "Digital Signal Processing: A Practical Approach ", 
 Pearson Education, New Delhi. 
   Back to Semester - V 
-  ## Page 92
- FMCD2009 / 2.0 
- 92 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: V Semester 
 Course Title: Analog Integrated Circuit Design Course Code: 24EVTC306 
 L-T-P: 2-0-1 Credits: 3 Contact Hours: 4Hrs/week 
@@ -2969,9 +2786,7 @@ Dynamic comparator.
 Reference Books: 
 1. Baker, Li, Boyce, "CMOS: Circuit Design, Layout and Simulation", Prentice Hall of India, 2000 
   Back to Semester - V 
-  ## Page 93
- FMCD2009 / 2.0 
- 93 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: V Semester 
 Course Title: CMOS VLSI Design Lab Course Code: 24EVTP301 
 L-T-P: 0-0-1 Credits: 1 Contact Hours: 2Hrs/week 
@@ -2995,9 +2810,7 @@ tool.
 2. Neil Weste and K. Eshragian, Principles of CMOS VLSI Design: A System 
 Perspective, 2nd edition, Pearson Education (Asia) Ptv. Ltd.,2000. 
   Back to Semester - V 
-  ## Page 94
- FMCD2009 / 2.0 
- 94 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: V Semester 
 Course Title: Mini Project Course Code: 24EVTW301 
 L-T-P: 0-0-3 Credits: 3 Contact Hours: 6Hrs/week 
@@ -3038,9 +2851,7 @@ Control
 System 
 Outpu
 t 
- ## Page 95
- FMCD2009 / 2.0 
- 95 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: V Semester 
 Course Title: Arithmetical Thinking and Analytical Reasoning Course Code: 23EHSA303 
 L-T-P: 0-0-0 Credits: 0 Contact Hours: 1 hrs/week 
@@ -3067,9 +2878,7 @@ New Delhi, 2018
 5. Cambridge Advanced Learner's Dictionary, Cambridge University Press. 
 6. Kaplan's GRE guide 
   Back to Semester - V 
-  ## Page 96
- FMCD2009 / 2.0 
- 96 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VI Semester 
 Course Title: Physical Design-Analog Course Code: 24EVTC307 
 L-T-P: 1-0-2 Credits: 3 Contact Hours: 5Hrs/week 
@@ -3098,9 +2907,7 @@ Buddy reviews and implementations, Documentation
 Wiley-IEEE Press, 2010. 
 3. C. Saint and J. Saint, "IC Layout Basics.", New York, NY , USA: McGraw-Hill, 2001. 
   Back to Semester - VI 
-  ## Page 97
- FMCD2009 / 2.0 
- 97 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VI Semester 
 Course Title: VLSI Fabrication Technology Course Code: 24EVTC308 
 L-T-P: 2-0-0 Credits: 2 Contact Hours: 2Hrs/week 
@@ -3138,9 +2945,7 @@ Practice and Modeling", Prentice Hall India.2000.
 4. C.Y . Chang and S.M.Sze (Ed), ULSI Technology, McGraw Hill Companies Inc, 1996. 
 5. S.K. Gandhi, VLSI Fabrication Principles, John Wiley Inc., New York, 1983. 
 Back to Semester - VI 
- ## Page 98
- FMCD2009 / 2.0 
- 98 
+
   Program: Electronics Engineering (VLSI Design & Technology) Semester: VI Semester 
 Course Title: System Verilog for Verification Course Code: 24EVTC309 
 L-T-P: 1-0-2 Credits: 3 Contact Hours: 5Hrs/week 
@@ -3172,9 +2977,7 @@ UVM environment structure, Connecting DUT- Virtual Interface
 testbench language features - Springer, 2012 
   Tools: Questa Sim, NC Verilog, NC Sim, CVER + GTKWave, VCSMX, Modelsim for Verilog 
   Back to Semester - VI 
-  ## Page 99
- FMCD2009 / 2.0 
- 99 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VI Semester 
 Course Title: GEN AI Course Code: 24EVTC310 
 L-T-P: 2-0-1 Credits: 4 Contact Hours: 4 Hrs/week 
@@ -3217,9 +3020,7 @@ training and Fine-tuning.
 Transformer-based Autoregressive Models: Overview, Architecture, Training, Applicati ons, BERT 
 (Bidirectional Encoder Representations from Transformers), T5 (Text-to-Text Transfer Transformer) 
 Chapter 6: Generative Models II: Large Language Models (LLMs) 
- ## Page 100
- FMCD2009 / 2.0 
- 100 
+
 Introduction to LLMs, Overview of Large Language Models (e.g., GPT -3, GPT -4), Training 
 methodologies and scalability, Integration of LLMs in various generative tasks, Fine -tuning and 
 transfer learning with LLMs, Building and deploying LLM-based applications. 
@@ -3233,9 +3034,7 @@ Chapter 8: Ethical Considerations and Responsible AI:
 Bias and fairness in generative AI models, Privacy concerns and data protection in generative AI 
 applications, Responsible use of generative models in society 
   Back to Semester - VI 
-  ## Page 101
- FMCD2009 / 2.0 
- 101 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VI Semester 
 Course Title: Minor Project Course Code: 24EVTW302 
 L-T-P: 0-0-6 Credits: 6 Contact Hours: 12Hrs/week 
@@ -3269,9 +3068,7 @@ The primary responsibility of the guide is to help students to understand the me
 of various stages in the implementation of the project. At every stage of the project 
 development, guide should help towards its successful completion as per the predefined 
 standards. 
-  ## Page 102
- FMCD2009 / 2.0 
- 102 
+
 How student should carry out a project: 
 1. Define the problem 
 2. Specify the requirements 
@@ -3286,9 +3083,7 @@ How student should carry out a project:
 1. The format for report writing should be downloaded from ftp://10.3.0.3/minorprojects 
 2. The report needs to be shown to guide and committee for each review. 
    Back to Semester - VI 
-   ## Page 103
- FMCD2009 / 2.0 
- 103 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VI 
 Course Title: Industry Readiness & Leadership Skills Course Code: 23EHSA304 
 L-T-P: 0-0-0 Credits: 0 Contact Hours: 1 hrs/week 
@@ -3313,9 +3108,7 @@ Reference Books:
 4. John Maxwell - The 17 Essential Qualities of a Team Player, HarperCollins Leadership 
 5. Robin Ryan - 60 Seconds and You're Hired! - Penguin Books 
                                                        Back to Semester - VI 
-  ## Page 104
- FMCD2009 / 2.0 
- 104 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VI Semester 
 Course Title: Professional Aptitude and Logical reasoning Course Code: 23EHSA302 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 Hrs/ Week 
@@ -3338,9 +3131,7 @@ Reference Books:
 1. Verbal and Non - Verbal Reasoning - Dr. Ravi Chopra, MacMillan India 
 2. Lateral Thinking - Dr. Edward De Bono, Penguin Books, New Delhi 
       Back to Semester - VI 
-  ## Page 105
- FMCD2009 / 2.0 
- 105 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VI 
 Course Title: Advanced IC Packaging Course Code: 24EVTE304 
 Credits:3 Contact Hours:4 hrs/week 
@@ -3374,16 +3165,12 @@ using a commercial router such as Innovus
   Reference Books 
 1. Rao R Tummala, Fundamentals of Device and Systems Packaging, McGraw Hill, 2020. 
 2. Glenn R. Blackwell, The Electronics Packaging Handbook, CRC Press, 2017. 
- ## Page 106
- FMCD2009 / 2.0 
- 106 
+
 3. Bernard S Matisoff, Handbook of Electronics Packaging Design and Engineering, 
 Springer, 2012. 
 4. Rao R Tummala, Fundamentals of Microsystems Packaging, McGraw Hill, 2001. 
   Back to List of Electives 
-   ## Page 107
- FMCD2009 / 2.0 
- 107 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VI Semester 
 Course Title: Communication Systems Course Code: 24EVTE301 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3Hrs/week 
@@ -3419,16 +3206,12 @@ Quaternary Modulation techniques, Problems.
 3. "Digital communications", Simon Haykin, John Wiley, 2006 
   Reference Books: 
 1. Communication Systems, by B.P .Lathi , 
- ## Page 108
- FMCD2009 / 2.0 
- 108 
+
 2. Ganesh Rao, K N Haribhat, Analog Communication, Sanguine, 2009 
 3. Communication Systems by Harold. P .E, Stern Samy. A. Mahmond, Pearson Education, 2004. 
 4. Electronic communication systems, Kennedy and Davis, TMH, Edn. 6, 2012 
   Back to List of Electives 
-  ## Page 109
- FMCD2009 / 2.0 
- 109 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VI Semester 
 Course Title: Computer Communication Networks Course Code: 24EVTE302 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 Hrs/week 
@@ -3459,9 +3242,7 @@ broadcast routing algorithms and multi cast routing
 2. Larry L. Peterson and Bruce S. Davie, Computer Networks A Systems Approach, 4th Edition, 
 Elsevier, 2007 
   Back to List of Electives 
-  ## Page 110
- FMCD2009 / 2.0 
- 110 
+
   Program: Electronics Engineering (VLSI Design & Technology) Semester: VI Semester 
 Course Title: Embedded Intelligent Systems Course Code: 24EVTE303 
 L-T-P: 1-0-2 Credits: 3 Contact Hours: 5Hrs/week 
@@ -3494,9 +3275,7 @@ David R. Kaeli, Lee Howes, Benedict Gaster, Publisher: Morgan Kaufmann
   Reference Books: 
 1. Deep Learning, MIT Press book, Goodfellow, Bengio, and Courville's 
 2. Beginning Android, by Wei-Meng Lee , Publisher: Wrox , O'Reilly Media 
-  ## Page 111
- FMCD2009 / 2.0 
- 111 
+
   Experiment wise plan 
 Expt./Job 
 No. 
@@ -3517,9 +3296,7 @@ NN architecture.
 9. Design an ML/DL model for a given problem targeted at Android devices with 
 different architectures based on provided specifications. 
   Back to List of Electives 
-  ## Page 112
- FMCD2009 / 2.0 
- 112 
+
   Program: Electronics Engineering (VLSI Design & Technology) Semester: VI Semester 
 Course Title: Automotive Electronics Course Code: 24EVTE305 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3Hrs/week 
@@ -3557,9 +3334,7 @@ MOST
 Chapter No: 6. Overview of ADAS/AV and Functional safety standards 
 Advanced Driver Assistance Systems (ADAS), Autonomous vehicle basics, sensing, planning and 
 controls for autonomous driving, connected vehicles. 
- ## Page 113
- FMCD2009 / 2.0 
- 113 
+
 Functional Safety: Need for safety standard -ISO 26262, safety concept, safety process for product 
 life cycle, safety by design, validation. 
 Chapter No:7. Diagnostics and Reliability 
@@ -3579,9 +3354,7 @@ protocols: KWP2000 and UDS.
 Techniques, Elsevier Science, 2001 
 4. Nicholas Navet, Automotive Embedded System Handbook ,2009 
   Back to List of Electives 
-  ## Page 114
- FMCD2009 / 2.0 
- 114 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VII Semester 
 Course Title: CMOS ASIC Design Course Code: 25EVTC401 
 L-T-P: 1-0-2 Credits: 3 Contact Hours: 5 Hrs/week 
@@ -3616,9 +3389,7 @@ Chadha,
  Springer Science+Business Media, LLC 2009 
 Tools: Cadence Innovous, Encounter 
   Back to Semester VII 
-  ## Page 115
- FMCD2009 / 2.0 
- 115 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VII 
 Course Title: Senior Design Project Course Code: 25EVTW401 
 L-T-P: 0-0-6 Credits: 6 Contact Hours: 12 hrs/week 
@@ -3654,9 +3425,7 @@ standards.
   How student should carry out a project: 
 • Define the problem. 
 • Specify the requirements. 
- ## Page 116
- FMCD2009 / 2.0 
- 116 
+
 • Specify the de sign in the understandable form (Block Diagram, Flowchart, Algorithm, 
 etc). 
 • Analyze the design and identify hardware and software components separately. 
@@ -3675,9 +3444,7 @@ Evaluation Scheme
 • Project shall be reviewed and evaluated by the concerned Guide for 50% of the marks. 
 • Project shall be evaluated by the review committee for 50% of the marks. 
   Back to Semester VII 
-  ## Page 117
- FMCD2009 / 2.0 
- 117 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VII 
 Course Title: CIPE & EVS Course Code: 15EHSC402 
 L-T-P: 2-0-0 Credits: Audit Contact Hours: 2 hrs/week 
@@ -3715,9 +3482,7 @@ Chapter No. 10 Effects of human activities on environment
 Effects of human activities on environment - Agriculture, Housing, Industry, Mining, and 
 Transportation a ctivities, Environmental Impact Assessment, Sustainability and Sustainable 
 Development. 
- ## Page 118
- FMCD2009 / 2.0 
- 118 
+
 Chapter No. 11 Environmental Protection 
 Environmental Protection - Constitutional Provisions and Environmental Laws in India. 
 Text Book (List of books as mentioned in the approved syllabus) 
@@ -3731,9 +3496,7 @@ Wadsworth, 2003
 2. Mike Martin and Ronald Schinzinger, "Ethics in Engineering", Tata McGraw-Hill 
 Publications. 
   Back to Semester VII 
-  ## Page 119
- FMCD2009 / 2.0 
- 119 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VII Semester 
 Course Title: Design for Testability Course Code: 25EVTE402 
 L-T-P: 1-0-2 Credits: 3 Contact Hours: 5 Hrs/week 
@@ -3767,9 +3530,7 @@ Hrs)
 2. Wang, Laung-Terng. VLSI Test Principles and Architectures. Morgan Kaufmann, 2006. 
 3. Huhn, Sebastian. Design for Testability, Debug and Reliability. Springer Nature, 2021. 
   Back to List of Electives 
-   ## Page 120
- FMCD2009 / 2.0 
- 120 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VII 
 Course Title: EMC & Signal Integrity Course Code: 25EVTE416 
 L-T-P: 1-0-2 Credits: 3 Contact Hours: 5 
@@ -3804,9 +3565,7 @@ References:
 Compatibility. CRC Press, 2018. 
 4. Russ, Samuel. Signal Integrity. Springer Nature, 2022. 
   Back to List of Electives 
-   ## Page 121
- FMCD2009 / 2.0 
- 121 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VII Semester 
 Course Title: Hardware-Software Co-design Course Code: 25EVTE407 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3Hrs/week 
@@ -3838,9 +3597,7 @@ Systems. Kluwer, 1995
  5. IEEE and ACM Transactions. 6. Jorgen Staunstrup, Wayne Wolf, Hardware / Software Co-Design: 
 Principles and Practice, Kluwer Academic, 1997 7. Black David C. Systemc : From The Ground Up 
   Back to List of Electives 
-  ## Page 122
- FMCD2009 / 2.0 
- 122 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VII Semester 
 Course Title: Analog and Mixed mode VLSI Circuits Course Code: 25EVTE413 
 L-T-P:3-0-0 Credits:3 Contact Hours:3hrs/week 
@@ -3868,9 +3625,7 @@ Reference Books
 3. C. Mead and L. Conway, Introduction to VLSI Systems, Addison Wesley, 1979. 
 4. B Razavi 'Design of Analog CMOS Integrated Circuits' First Edition McGraw Hill 2001 
   Back to List of Electives 
-   ## Page 123
- FMCD2009 / 2.0 
- 123 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VII Semester 
 Course Title: Memory Design and Testing Course Code: 25EVTE401 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3Hrs/week 
@@ -3913,15 +3668,11 @@ and Reliability
 Wiley (2002). 
 2. M. Bushnell, V. Agrawal, "Essentials of Electronic Testing for Digital, Memory & Mixed-Signal VLSI 
 Circuits", Springer, 1st edition, 2nd printing 2005. 
- ## Page 124
- FMCD2009 / 2.0 
- 124 
+
 3. Brent Keeth, R. Jacob Baker, Brian Johnson, Feng Lin, "DRAM Circuit Design: Fundamental and 
 High-Speed Topics", 2E, Wiley, IEEE Press December 2007. 
   Back to List of Electives 
- ## Page 125
- FMCD2009 / 2.0 
- 125 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VII Semester 
 Course Title: System on Chip Design Course Code: 25EVTE404 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3Hrs/week 
@@ -3962,15 +3713,11 @@ Elsevier, 2008.
 1. Patrick Schaumont "A Practical Introduction to Hardware/Software Co-design", 2nd Edition, 
 Springer, 2012. 
 2. Lin, Y-L.S. (ed.), "Essential issues in SOC design: designing complex systems-on-chip. Springer, 
- ## Page 126
- FMCD2009 / 2.0 
- 126 
+
 2006. 
  3. Wayne Wolf, "Modern VLSI Design: IP Based Design", Prentice-Hall India, Fourth edition, 2009. 
   Back to List of Electives 
-   ## Page 127
- FMCD2009 / 2.0 
- 127 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VII Semester 
 Course Title: Design and Analysis of Algorithm Course Code: 25EVTE405 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3Hrs/week 
@@ -4009,9 +3756,7 @@ education, New Delhi.
 3. Aho, Ullman, Hopcroft (2009), Design and Analysis of algorithms, 2nd edition, Pearson 
 education, New Delhi 
   Back to List of Electives 
-  ## Page 128
- FMCD2009 / 2.0 
- 128 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VII Semester 
 Course Title: RF Circuit Design Course Code: 25EVTE406 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3Hrs/week 
@@ -4045,9 +3790,7 @@ Reference Books:
 1. Thomas H. Lee "Design of CMOS RF Integrated Circuits" Cambridge University press 1998. 
 2. Y.P. Tsividis, "Mixed Analog and Digital Devices and Technology", TMH 1996 
   Back to List of Electives 
-  ## Page 129
- FMCD2009 / 2.0 
- 129 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VII Semester 
 Course Title: Computer-Aided VLSI Design Course Code: 25EVTE408 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3Hrs/week 
@@ -4082,9 +3825,7 @@ Reference Books:
 ltd. London. 
 2. Gerez, "Algorithms VLSI Design Automation", John Wiley & Sons. 
   Back to List of Electives 
-   ## Page 130
- FMCD2009 / 2.0 
- 130 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VII Semester 
 Course Title: Power Management IC (Swayam) Course Code: 25EVTE409 
 L-T-P: 0-0-3 Credits: 3 Contact Hours: 6Hrs/week 
@@ -4118,9 +3859,7 @@ Maksimovic, Springer, 2001.
 Blackwell, 2016. 
 4. Design of Analog CMOS Integrated Circuits by Behzad Razavi, McGraw-Hill, 2017. 
   Back to List of Electives 
-   ## Page 131
- FMCD2009 / 2.0 
- 131 
+
   Program: Electronics Engineering (VLSI Design & Technology) Semester: VII Semester 
 Course Title: Testing & Characterization Course Code: 25EVTE410 
 L-T-P:2-0-1 Credits:3 Contact Hours:4hrs/week 
@@ -4157,26 +3896,20 @@ Techniques", Kluwer Academic Publishers, 2001.
 Piscataway, New Jersey: IEEE Press, 1994 
 3. J.DiGiacomo, editor, "VLSI Handbook", McGraw-Hill, 1989. 
 4. Samiha Mourad and Yervant Zorian, "Principles of Testing Electronic Systems", Wiley (2000). 
- ## Page 132
- FMCD2009 / 2.0 
- 132 
+
 5. D. K. Pradhan (Editor). Fault-Tolerant Computing: Theory and Techniques, Prentice Hall, NJ, 
 1986. 
 6. Miczo. Digital Logic Testing and Simulation, John Wiley & Sons, 1987. 
 7. Barry Johnson. Design and Analysis of Fault-Tolerant Digital Systems, Addison Wesley, 1989. 
   Back to List of Electives 
-   ## Page 133
- FMCD2009 / 2.0 
- 133 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VII Semester 
 Course Title: Phase-locked loops(Swayam) Course Code:25EVTE411 
 L-T-P: 0-0-3 Credits:3 Contact Hours:6 hrs/week 
 ISA Marks:100 ESA Marks: Total Marks:100 
 Teaching Hours:42Hrs Examination Duration:3Hrs 
   Back to List of Electives 
-   ## Page 134
- FMCD2009 / 2.0 
- 134 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VII Semester 
 Course Title: Advanced Computer Architecture Course Code: 25EVTE412 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3Hrs/week 
@@ -4218,9 +3951,7 @@ References:
 edition, 2014. 
 2. www.sci.tamucc.edu/~sking/Courses/COSC5351/syllabus.php 
   Back to List of Electives 
-  ## Page 135
- FMCD2009 / 2.0 
- 135 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VII Semester 
 Course Title: Low Power VLSI Circuits Course Code: 25EVTE417 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3Hrs/week 
@@ -4257,18 +3988,14 @@ TMH, 2003 (Third Edition).
 2008. 
 4. Kaushik Roy, Sharat Prasad, "Low-Power CMOS VLSI Circuit Design" Wiley, 2000. 
   Back to List of Electives 
-   ## Page 136
- FMCD2009 / 2.0 
- 136 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VII Semester 
 Course Title: VLSI Interconnects (Swayam) Course Code:25EVTE418 
 L-T-P: 0-0-3 Credits:3 Contact Hours:6 hrs/week 
 ISA Marks:100 ESA Marks: Total Marks:100 
 Teaching Hours:42Hrs Examination Duration:3Hrs 
   Back to List of Electives 
-   ## Page 137
- FMCD2009 / 2.0 
- 137 
+
   Program: Electronics Engineering (VLSI Design & Technology) Semester: VIII 
 Course Title: OOPS using C++ Course Code: 25EVTE414 
 L-T-P: 2-0-1 Credits:3 Contact Hours: 4 hrs/week 
@@ -4303,9 +4030,7 @@ Reference books:
 1. Lippman S B, Lajorie J, Moo B E, C++ Primer, 5ed, Addison Wesley, 2013. 
 2. Herbert Schildt: The Complete Reference C++, 4th Edition, Tata McGraw Hill 
   Back to List of Electives 
-   ## Page 138
- FMCD2009 / 2.0 
- 138 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VIII 
 Course Title: MEMS Course Code: 25EVTE415 
 L-T-P: 2-0-1 Credits: 3 Contact Hours: 4 hrs/week 
@@ -4341,9 +4066,7 @@ Text Book:
 7. "RF MEMS: Theory, Design, and Technology", Gabriel M. Rebeiz, John Wiley & Sons 
 Publication, 2003. 
   Back to List of Electives 
-   ## Page 139
- FMCD2009 / 2.0 
- 139 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VIII 
 Course Title: Project Work Course Code: 25EVTW402 
 L-T-P: 0-0-11 Credits: 11 Contact Hours: 22 hrs/week 
@@ -4379,9 +4102,7 @@ standards.
   How student should carry out a project: 
 • Define the problem. 
 • Specify the requirements. 
- ## Page 140
- FMCD2009 / 2.0 
- 140 
+
 • Specify the design in the understandable form (Block Diagram, Flowchart, Algorithm, 
 etc). 
 • Analyze the design and identify hardware and software components separately. 
@@ -4400,9 +4121,7 @@ Evaluation Scheme
 • Project shall be reviewed and evaluated by the concerned Guide for 50% of the marks. 
 • Project shall be evaluated by the review committee for 50% of the marks. 
   Back to Semester VIII 
-  ## Page 141
- FMCD2009 / 2.0 
- 141 
+
   Program: Electronics Engineering (VLSI Design & Technology) Semester: VIII 
 Course Title: Internship- Training Course Code: 25EVTI493 
 L-T-P: 0-0-6 Credits: 6 Contact Hours: 12 hrs/week 
@@ -4422,9 +4141,7 @@ Evaluation parameters for Internship Training
  Conclusions and discussion 
  Presentation skills 
   Back to Semester VIII 
-   ## Page 142
- FMCD2009 / 2.0 
- 142 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VIII 
 Course Title: Internship- Project Course Code: 25EVTW494 
 L-T-P: 0-0-11 Credits: 11 Contact Hours: 22 hrs/week 
@@ -4444,9 +4161,7 @@ Evaluation parameters for Internship Project
  Conclusions and discussion 
  Presentation skills 
   Back to Semester VIII 
-  ## Page 143
- FMCD2009 / 2.0 
- 143 
+
 Program: Electronics Engineering (VLSI Design & Technology) Semester: VIII Semester 
 Course Title: Hardware-Software Co-design Course Code: 25EVTO401 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3Hrs/week 
@@ -4478,9 +4193,7 @@ Systems. Kluwer, 1995
  5. IEEE and ACM Transactions. 6. Jorgen Staunstrup, Wayne Wolf, Hardware / Software Co-Design: 
 Principles and Practice, Kluwer Academic, 1997 7. Black David C. Systemc : From The Ground Up 
   Back to List of Electives 
-  ## Page 144
- FMCD2009 / 2.0 
- 144 
+
   Program: Electronics Engineering (VLSI Design & Technology) Semester: VIII Semester 
 Course Title: System on Chip Design Course Code: 25EVTO402 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3Hrs/week 
@@ -4520,16 +4233,12 @@ Elsevier, 2008.
   Reference Books: 
 1. Patrick Schaumont "A Practical Introduction to Hardware/Software Co-design", 2nd Edition, 
 Springer, 2012. 
- ## Page 145
- FMCD2009 / 2.0 
- 145 
+
 2. Lin, Y-L.S. (ed.), "Essential issues in SOC design: designing complex systems-on-chip. Springer, 
 2006. 
  3. Wayne Wolf, "Modern VLSI Design: IP Based Design", Prentice-Hall India, Fourth edition, 2009. 
   Back to List of Electives 
-  ## Page 146
- FMCD2009 / 2.0 
- 146 
+
 Program: Electronics Engineering - VLSI Design and 
 Technology 
 Semester: VIII 
@@ -4562,9 +4271,7 @@ Assignment:
 Week 3: At-Speed Testing Methodologies 
 Lectures: 
  Clock domain crossing test considerations 
- ## Page 147
- FMCD2009 / 2.0 
- 147 
+
  Launch-on-shift vs. launch-on-capture techniques 
  Multiple clock domain test strategies 
  Path delay fault testing methods 
@@ -4594,9 +4301,7 @@ Lab:
  Implementation of JTAG interface and boundary scan cells 
  IJTAG network design and implementation 
 Assignment: 
- ## Page 148
- FMCD2009 / 2.0 
- 148 
+
  Development of a comprehensive boundary scan solution for a complex ASIC 
 Week 6: DFT for Mixed-Signal ICs 
 Lectures: 
@@ -4626,9 +4331,7 @@ Lab:
 Assignment: 
  Analysis of test coverage improvement using advanced fault models 
 Week 9: DFT for Low Power Designs 
- ## Page 149
- FMCD2009 / 2.0 
- 149 
+
 Lectures: 
  Power-aware test strategies 
  DFT for power gating architectures 
@@ -4658,9 +4361,7 @@ Lectures:
  Future trends in ASIC testing 
 Final Project Presentation: 
  Comprehensive DFT implementation for a complex ASIC/SoC 
- ## Page 150
- FMCD2009 / 2.0 
- 150 
+
  Test coverage analysis and optimization 
  Test time and cost evaluation 
  Presentation of results and design decisions 
@@ -4672,5 +4373,4 @@ Bushnell and V. Agrawal
 4. Industry white papers on modern DFT implementation 
 Reference Tools: 
  Mentor Graphics Tessent 
-  Back to List of Electives 
-  
+  Back to List of Electives

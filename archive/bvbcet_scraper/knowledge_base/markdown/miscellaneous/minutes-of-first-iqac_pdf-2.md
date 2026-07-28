@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: minutes-of-first-iqac_pdf-2"
+title: "Minutes Of First IQAC Pdf 2"
 category: "miscellaneous"
 subcategory: ""
 document_type: "syllabus"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["document", "iqac", "minutes", "process", "processes", "quality", "tech"]
 aliases: ["HOD", "Head of Department", "CSE", "CS", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "16"
 ---
-# PDF Document: minutes-of-first-iqac_pdf-2
- **PDF Source:** https://www.kletech.ac.in/pdf/minutes-of-first-iqac_pdf-2.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/minutes-of-first-iqac_pdf-2.pdf
  KLE Tech-IQAC 1 
   Minutes of 
   1st Internal Quality Assurance Cell Meeting 
@@ -22,7 +22,6 @@ last_modified: "2026-07-28"
 (Established under Karnataka Act No.22, 2013) 
 Hubballi, Karnataka 
   June 15th, 2017 
-  ## Page 2
  KLE Tech-IQAC 2 
 The following are the minutes of the Internal Quality Assurance Cell Meeting of KLE 
 Technological University, Hubballi which was held on 15th June, 2017 at 3.30pm at the Senate 
@@ -58,7 +57,6 @@ Maralappanavar
 Coodinator- School of Computer Science 
 & Engineering 
 Member 
-   ## Page 3
  KLE Tech-IQAC 3 
 Agenda 
   Sl No Particulars 
@@ -68,7 +66,6 @@ IQAC 1.2 To discuss and approve the Quality Assurance System Model
   IQAC 1.3 To review the KPI's set for the various parameters and check the extend of 
 achievements 
 IQAC 1.4 Any other subject with the permission of the Chair 
-  ## Page 4
  KLE Tech-IQAC 4 
   IQAC 1.1 To read and confirm the Objectives, Goals and Basic functions of Internal 
 Quality Assurance Cell (IQAC) of KLE Technological University 
@@ -86,7 +83,6 @@ achievements
 objectives. 
  Decisions Taken: it has been resolved to Monitor the KPI defined on students' 
 success at the schools and department levels for better monitoring. 
-  ## Page 5
  KLE Tech-IQAC 5 
   ANNEXURE 1 
   The Internal Quality Assurance Cell (IQAC) at KLE Technological University (KLE Tech) is meant 
@@ -114,7 +110,6 @@ d) Dissemination of information on various quality parameters of higher educatio
 e) Organization of inter and intra institutional workshops, seminars on quality related themes 
 and promotion of quality circles 
 f) Documentation of the various programmes/activities leading to quality improvement 
- ## Page 6
  KLE Tech-IQAC 6 
 g) Acting as a nodal agency of the Institution for coordinating quality-related activities, 
 including adoption and dissemination of best practices 
@@ -133,7 +128,6 @@ institutionalize all good practices
 c) Provide a sound basis for decision-making to improve institutional functioning 
 d) Act as a dynamic system for quality changes in HEIs 
 e) Build an organised methodology of documentation and internal communication. 
-  ## Page 7
  KLE Tech-IQAC 7 
   ANNEXURE 2 
 Quality Assurance System Model @ KLE Tech 
@@ -160,7 +154,6 @@ The KLE Tech-QAS model applies to 5 key process areas:
 1. Education Delivery 
 2. Curriculum Design and Development 
 3. Student Services 
- ## Page 8
  KLE Tech-IQAC 8 
 4. Support Services 
 5. Quality Management 
@@ -170,7 +163,6 @@ The KLE Tech-QAS model applies to 5 key process areas:
   3. Students Services 
   4. Support Services 
 FIVE KEY PROCESSES 
- ## Page 9
  KLE Tech-IQAC 9 
   Vision 
    KLE Technological University will be a national leader in Higher Education -
@@ -192,7 +184,6 @@ contributing our expertise, experience and leadership, to enhance
 competitiveness and quality of life. 
 As a unified community of faculty, staff and students, we work together with the 
 spirit of collaboration and partnership to accomplish our mission. 
-  ## Page 10
  KLE Tech-IQAC 10 
   Organization Chart of the Institution 
   Chancellor 
@@ -216,7 +207,6 @@ Executive Council
 Academic Council 
 Research Council 
 Estate Council 
-  ## Page 11
  KLE Tech-IQAC 11 
   Academic Process at KLE Tech 
   KLE Tech has adopted "Process Approach" while designing, developing and implementation of 
@@ -236,7 +226,6 @@ ensure the objectivity and impartiality of the audit process.
 Records of the audits and results are analysed and necessary correction and corrective actions 
 are taken without undue delay to eliminate the gaps. 
 . 
-  ## Page 12
  KLE Tech-IQAC 12 
 Realization of Vison of the University through KPI's 
   Dept 1 Dept 2 Dept3 Dept4 Dept5 Dept6 Dept7 Dept8 
@@ -278,7 +267,6 @@ KPI's
 Processes 
 KPI's
    Vision 
- ## Page 13
  KLE Tech-IQAC 13 
   KLE Tech Quality Management System demonstrates its ability to consistently impart 
 knowledge that meets students and applicable statutory and regulatory requirements and 
@@ -325,7 +313,6 @@ Formative & Summative
 Class Committee Meetings 
 DUGC & DPGC Meetings 
 Students Counseling 
-  ## Page 14
  KLE Tech-IQAC 14 
 Process 
 PLACEMENT 
@@ -373,7 +360,6 @@ through Board of Studies
 Changes- Curriculum Content 
 Curriculum Structure 
 Course Content 
-  ## Page 15
  KLE Tech-IQAC 15 
 2. Continuous Improvement: 
   A continual improvement process, also often called a continuous improvement process, is an 
@@ -397,7 +383,6 @@ Key Performance Indicators
 Key Performance Indicators 
 1. Research Publications 
 2. Research Programs 
- ## Page 16
  KLE Tech-IQAC 16 
 3. Funded R & D projects and Consultancy 
   Functional Objective: Financial Health 
@@ -406,5 +391,4 @@ Key Performance Indicators
   Functional Objective: Institutional Development 
 Key Performance Indicators 
 1. Strategic plan progress 
-2. New initiatives 
-  
+2. New initiatives

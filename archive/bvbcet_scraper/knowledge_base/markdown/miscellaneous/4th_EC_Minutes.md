@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 4th_EC_Minutes"
+title: "EC Minutes"
 category: "miscellaneous"
 subcategory: ""
 document_type: "syllabus"
@@ -11,17 +11,16 @@ language: "en"
 keywords: ["annexure", "approve", "document", "resolution", "university", "year"]
 aliases: ["CSE", "CS", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "14"
 ---
-# PDF Document: 4th_EC_Minutes
- **PDF Source:** https://www.kletech.ac.in/pdf/4th_EC_Minutes.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/4th_EC_Minutes.pdf
  Minutes 
   4th Executive Council Meeting 
 of 
 KLE Technological University, 
 Hubballi, Karnataka 
 December 27th, 2016 
-  ## Page 2
  ii 
   Agenda 
 Sl No Particulars 
@@ -62,7 +61,6 @@ b. Modifications in B.Sc regulations
 4. 9 To consider the issue of Fee Fixation for Government Quota, University Quota, 
 Lateral Entry & PhD seats of the University. 
 4. 10 Any other subject with the permission of the Chair 
-  ## Page 3
  iii 
   The following are the minutes of the 4th Executive Meeting of KLE Technological University, 
 Hubballi which was held on 27th December 2016 at 10 am at the Senate of the University. 
@@ -97,7 +95,6 @@ Member
   The following members sought the leave of absence 
 SL Name Designation Position 
  NIL 
- ## Page 4
  1 
   EC 4.1 To read & confirm the minutes of the previous meeting held 
 on 21st March 2016. 
@@ -127,7 +124,6 @@ EC 3.8 Any other subject with the permission of the Chair.
 NIL. 
   Resolution: Resolved to confirm the minutes of the previous meeting 
 held on 21st March 2016.
- ## Page 5
  2 
   EC 4.2 To confirm the action taken report on the minutes of the previous meeting held on 21st March 
 2016. 
@@ -168,7 +164,6 @@ month of September 2016.
 EC 3.7 To consider and approve the intake for Admissions for the academic year 2016-17* 
   Approved intake was communicated 
 to the KEA and COMEDK for admitting 
- ## Page 6
  3 
   Resolution: Resolved to approve the intake for admissions to UG and PG programs for the 
 academic year 2016-17 without any changes. 
@@ -179,7 +174,6 @@ NIL.
 Not applicable. 
 * E&E approved intake 60 but communicated intake is 120 and BOG has ratified this action. 
   Resolution:
- ## Page 7
  4 
   EC 4.3 To consider and approve the recommendations of Finance 
 Council of the University held on 22 /12 / 2016. 
@@ -220,7 +214,6 @@ crore.
 Fund. 
  General Fund as per the provisions of the KLE Technological 
 University Act - 2012. 
- ## Page 8
  5 
    Development Fund as per the provisions of the KLE 
 Technological University Act - 2012. 
@@ -254,7 +247,6 @@ Annexure 3: Statutory Funds as per the KLE Technological University Act-2012
 Annexure 4: Fee structure for the year 2016-17 
 Annexure 5: Budget for the Office of the Controller of Examinations 
 Annexure 6: Remuneration paid for examination work. 
-  ## Page 9
  6 
   EC 4.4 To discuss the Schemes and Syllabi as listed below of 
 Undergraduate Minor Degree Programme of 2017-18 
@@ -282,13 +274,11 @@ Annexure 9_Minor Electronics-Scheme+Syllabus
 Annexure 10_Minor-Innovn +prod dvp-sch+syll 
 Annexure 11a_minor_robotics_syllabus-2017 
 Annexure 11b_Minor project in Robotics-Scheme 
-  ## Page 10
  7 
   Resolution: To discuss the Schemes and Syllabi as listed below of 
 Undergraduate Minor Degree Programme of 2017-18 batches as 
 recommended by respective Boards of studies and approve the 
 same: 
- ## Page 11
  8 
   EC 4.5 To consider and approve Bachelor of Science (B.Sc) 
 programs that are to be instituted by the University from 
@@ -320,7 +310,6 @@ Science (B.Sc) programs that are to be instituted by the University from the aca
 2017-18, which are approved by the Academic council. 
 Discussion: 
   Resolution:
- ## Page 12
  9 
   EC 4.6 To discuss and approve the University Annual Report for the 
 academic year 2015-16. 
@@ -350,7 +339,6 @@ Enclosure: Annexure 17_Exam Results
   EC 4.9 To consider the issue of Fee Fixation for Government 
 Quota, University Quota, Lateral Entry & PhD seats of the 
 University. 
- ## Page 13
  10 
    KLE Technological University Regulations Governing Undergraduate and 
 Postgraduate Programmes for Fee Fixation is as follows: 
@@ -391,7 +379,6 @@ the University.
   Chairman thanked all the members for their contributions. 
             Chairman 
                                                                                                  Executive Council 
- ## Page 14
  11 
   List of annexures enclosed 
   Annexure 1: The audited statements of the financial year 2015-16 
@@ -410,5 +397,4 @@ Annexure 13: Scheme and Syllabi of B.Sc (Electronics - Industry Track)
 Annexure 14: Modifications in B.Sc regulations 
 Annexure 15: Annual Report for the academic year 2015-16 
 Annexure 16: Strategic Plan of the KLE Technological University 
-Annexure 17: Consolidated results of previous examinations 
- 
+Annexure 17: Consolidated results of previous examinations

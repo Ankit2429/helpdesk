@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 5th_EC_Minutes"
+title: "EC Minutes"
 category: "miscellaneous"
 subcategory: ""
 document_type: "syllabus"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["approve", "council", "document", "held", "minor", "university"]
 aliases: ["ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "23"
 ---
-# PDF Document: 5th_EC_Minutes
- **PDF Source:** https://www.kletech.ac.in/pdf/5th_EC_Minutes.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/5th_EC_Minutes.pdf
  Minutes 
   5th Executive Council Meeting 
 of 
@@ -23,7 +23,6 @@ Hubballi, Karnataka
 September 20th, 2017 at 9 am 
   Venue: Sri. S. Nijalingappa College 
 Bengaluru 
-  ## Page 2
  ii 
   The following are the minutes of the 5th Executive Meeting of KLE Technological University, 
 Hubballi which was held on 20th September 2017 at 9 am in the office of the Principal of Sri 
@@ -58,7 +57,6 @@ KLE Technological
 University 
 Member 
 Secretary 
- ## Page 3
  Agenda 
 Sl No Particulars Page 
 No 
@@ -89,7 +87,6 @@ programmes.
 of studies and approved by the Academic Council. 
 18 
 5. 12 Any other subject with the permission of the Chair. 19 
-  ## Page 4
  1 
   EC 5.1 To confirm the minutes of the previous meeting held on 
 27th December 2016. 
@@ -131,7 +128,6 @@ Act - 2012.
  Development Fund as per the provisions of the KLE Technological 
 University Act - 2012. 
 4. The fee structure of the University 
- ## Page 5
  2 
   5. Budget for the Office of the Controller of Examinations. 
 6. The Remuneration to be paid for Examination work 
@@ -172,7 +168,6 @@ approval.
 EC 4.8 To discuss results of previous examinations 
 Resolution 4.8: Resolved to approve the results of May/June 2016 examination 
 and July/August 2016 examination and also approved the action taken by the 
- ## Page 6
  3 
   Controller of Examination in declaring results provisionally. 
   EC 4.9 To consider the issue of Fee Fixation for Government Quota, University Quota, 
@@ -186,7 +181,6 @@ December 2016.
   Resolution 5.1: Executive Council resolved to confirm the minutes of 
 its 4th meeting held at senate hall of the University on 27th 
 December 2016. 
-  ## Page 7
  4 
   EC 5.2 To confirm the action taken report on the minutes of the previous meeting held on 27th 
 December 2016. 
@@ -223,7 +217,6 @@ recommendations of the Finance
 Council were presented to the BOG on 
 17th February 2017 for consideration 
 and approval. 
- ## Page 8
  5 
   Resolution 4.3: Resolved to approve the recommendations of Finance Council of the University 
 with regard to the following: 
@@ -256,7 +249,6 @@ The approved Undergraduate Minor
 Degree Programmes have been 
 offered to the students of 4th 
 semester. 
- ## Page 9
  6 
   its meeting held on 17th December 2016. 
 1. Minor in Entrepreneurship 
@@ -295,7 +287,6 @@ implementation.
 EC 4.8 To discuss results of previous examinations 
 Resolution 4.8: Resolved to approve the results of May/June 2016 examination and 
 -- 
- ## Page 10
  7 
   July/August 2016 examination and also approved the action taken by the Controller of 
 Examination in declaring results provisionally. 
@@ -317,7 +308,6 @@ held on 27th December 2016.
   Discussion: 
   Resolution 5.2: The Executive Council confirmed the action taken on the minutes of its 4th meeting 
 held on 27th December 2016. 
-  ## Page 11
  8 
   EC 5.3 To consider and approve the recommendations of the 
 Finance Council of the University held on 16th 
@@ -352,7 +342,6 @@ recommendations of the Finance Council.
   Resolution 5.3: The Executive Council considered the 
 recommendations of the 3rd finance council held on 16th 
 September 2017 and approved the same. 
- ## Page 12
  9 
   EC 
 5. 4 
@@ -412,7 +401,6 @@ VLSI, Digital Electronics and Machine Design
 4. MCA Program 40% 60% 
   Agenda Point 2 To ratify notification for admissions to UG and Research programs and 
 approve notification for admissions to PG programs for the academic 
- ## Page 13
  10 
   year 2017-18. 
 Resolution 2 Resolved to ratify the actions taken for admissions to first year 
@@ -473,7 +461,6 @@ committee for the conduct of Research Entrance Test (RET) and
 approved the list of candidates shortlisted for interview for PhD 
 program of June 2017. 
 Agenda Point 4 Any other item with the permission of the Chair. 
- ## Page 14
  11 
       NIL 
   Action Requested: The Executive Council is requested to consider and approve 
@@ -486,7 +473,6 @@ September 2017 on notification for admissions to UG, PG and
 Research programs; and the actions taken by Sub-Committee 
 for the conduct of the Research Entrance Test (RET) and 
 approved the same. 
-  ## Page 15
  12 
   EC 5.5 To discuss the proposed changes in Rules and 
 Regulations governing UG & PG programs and approve 
@@ -521,7 +507,6 @@ adaptation of relative grading system for UG & PG programmes,
 trimester system for MBA programme and mandatory stay rule 
 for part-time research scholars only after the course work 
 completion.
- ## Page 16
  13 
   EC 5.6 To review progress of implementation of PhD 
 programmes (Information agenda). 
@@ -535,7 +520,6 @@ of the University.
   Discussion: 
   Resolution 5.6: The Executive Council noted the progress of 
 implementation of PhD programmes. 
-  ## Page 17
  14 
   EC 5.7 To ratify Board of Studies and Board of Examiners 
 approved by the Academic Council. 
@@ -553,7 +537,6 @@ Board of Studies and Board of Examiners.
   Discussion: 
   Resolution 5.7: The Executive Council noted the Academic 
 Council approved Board of Studies and Board of Examiners. 
- ## Page 18
  15 
   EC 5.8 To discuss and approve results of previous 
 examinations. 
@@ -569,7 +552,6 @@ should be presented only on the basis of SGPA.
   Resolution 5.8: The Executive Council noted the Academic 
 Council approved results of examinations held during January 
 2017 and June 2017. 
-  ## Page 19
  16 
   EC 5.9 To approve the proposed Grade cards for UG, PG & 
 PhD programmes. 
@@ -581,7 +563,6 @@ Proposed formats are given in annexure 6.
 Class' for students scoring less than 60% by the VTU. 
   Resolution 5.9: The Executive Council approved the proposed 
 Grade cards for UG, PG & PhD programmes. 
- ## Page 20
  17 
   EC 5.10 To approve the formats proposed for the Degree 
 Certificates of MTech and MBA programmes. 
@@ -592,7 +573,6 @@ Proposed formats are given in annexure 7.
   Discussion: 
   Resolution 5.10: The Executive Council approved the proposed 
 Degree Certificates of MTech and MBA programmes. 
- ## Page 21
  18 
   EC 5.11 To ratify the Schemes and Syllabi of Undergraduate 
 Minor Programme in 'Automotive Engineering' as 
@@ -622,13 +602,10 @@ Scheme and Syllabi are given in annexure 8.
 the schemes and syllabi of the UG Minor Degree Programme in 'Automotive 
 Engineering'. 
 Discussion: 
-  ## Page 22
  19 
   Resolution 5.11: The Executive Council noted the Academic 
 Council approved schemes and syllabi of the UG Minor Degree 
 Programme in 'Automotive Engineering'. 
- ## Page 23
  20 
   EC 5.12 Any other subject with the permission of the Chair. 
-  NIL 
- 
+  NIL

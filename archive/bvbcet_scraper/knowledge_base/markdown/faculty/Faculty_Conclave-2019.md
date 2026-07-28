@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: Faculty_Conclave-2019"
+title: "Faculty Conclave 2019"
 category: "faculty"
 subcategory: "Faculty"
 document_type: "act"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["approach", "based", "document", "engineering", "learning", "problem"]
 aliases: ["ME", "Mechanical Dept"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "2"
 ---
-# PDF Document: Faculty_Conclave-2019
- **PDF Source:** https://www.kletech.ac.in/pdf/Faculty Conclave-2019.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/Faculty Conclave-2019.pdf
                          Earlier known as 
                                                                                                            B.V.B College of Engineering and Technology 
 _____________________________________________________________________________________ 
@@ -83,7 +83,6 @@ Mechanical Engineering UG Program
 U.P.Hosmani, G M Hiremath, 
 Mantesh Choukimath 
 21 Activity intervention to enhance awareness about Rajashekhar Subhas Savadi, 
- ## Page 2
                          Earlier known as 
                                                                                                            B.V.B College of Engineering and Technology 
 _____________________________________________________________________________________ 
@@ -96,5 +95,4 @@ through the introduction of configuration and
 customisation of the PLM platform: An Initiative 
 Vinay S Tigadi, Mallikarjun Akki, 
 K.M.M Rajashekharaiah, Dr. B B 
-Kotturshettar 
-  
+Kotturshettar

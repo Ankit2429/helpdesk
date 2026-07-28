@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: Rules-and-Regulations-UG-PG-July-2021"
+title: "Rules And Regulations UG PG July 2021"
 category: "downloads"
 subcategory: ""
 document_type: "syllabus"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["course", "courses", "document", "examinations", "july", "regulations", "rules", "shall", "student"]
 aliases: ["HOD", "Head of Department", "CSE", "CS", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "56"
 ---
-# PDF Document: Rules-and-Regulations-UG-PG-July-2021
- **PDF Source:** https://www.kletech.ac.in/pdf/Rules-and-Regulations-UG-PG-July-2021.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/Rules-and-Regulations-UG-PG-July-2021.pdf
  Regulations 
 Governing Undergraduate 
 Postgraduate Programmes of 
@@ -22,7 +22,6 @@ KLE Technological University
 2015 
   KLE Technological University 
 (Established under Karnataka Act No.22, 2013) 
-   ## Page 2
  ii 
   CONTENTS 
 Section Description Page 
@@ -75,7 +74,6 @@ CHAPTER VII, EXAMINATION SYSTEM
 40 Deputy Chief Superintendent(s) 31 
 41 Invigilators 31 
 42 Group Invigilators 32 
- ## Page 3
  iii 
   43 Obligation to perform the examination work 32 
 44 Errors committed by an examiner 32 
@@ -129,14 +127,12 @@ CHAPTER XIII, FELLOWSHIP / SCHOLARSHIP / FINANCIAL ASSISTANCE
 84 Award of Fellowships, Scholarships and Stipends by External Agencies 50 
 CHAPTER XIV, MAINTENANCE OF ACADEMIC RECORDS 
 85 Maintenance of Academic Records 50 
- ## Page 4
  iv 
   86 Maintenance of Answer Books 50 
 87 Weeding off of Academic Records 50 
 88 Clarification of Doubts 51 
 89 Amendments 51 
 90 Jurisdiction 51 
- ## Page 5
  1 
   REGULATIONS GOVERNING UNDERGRADUATE AND POSTGRADUATE PROGRAMMES OF 
 KLE TECHNOLOGICAL UNIVERSITY - 2015 
@@ -179,7 +175,6 @@ and Finance Council, of the University.
   iii B.E means Bachelor of Engineering i.e name of the degree 
 awarded after the completion of requirement of 
 undergraduate studies in Engineering. 
- ## Page 6
  2 
     iv B.Arch means Bachelor of Architecture i.e name of the 
 degree awarded after the completion of requirement of 
@@ -218,7 +213,6 @@ respectively of a department.
 examinations are conducted or the laboratory or 
 workshop where practical examinations are conducted. 
   xvi "Government" means the Government of Karnataka. 
- ## Page 7
  3 
     xvii M. Tech means Master of Engineering ie name of the 
 degree awarded after the completion of requirement of 
@@ -259,7 +253,6 @@ Chairperson(s)
 T eacher as Departmental Chairperson/ School 
 Chairperson/ Center Chairperson for each 
 Department/School/Center. 
- ## Page 8
  4 
     3. 2 The terms and conditions of appointment shall be those 
 contained in the contract of appointment. 
@@ -295,7 +288,6 @@ the University as per regulation
   4. 4 Equivalence Committee 
   i Equivalence committee shall be constituted by the Dean 
 Academic Affairs / the concerned Dean of Faculty 
- ## Page 9
  5 
     ii The Constitution of the equivalence committee shall be as given below: Dean (Academics) Chairperson First year co-ordinator Member Chairman, BOS of the department to which candidate is seeking Admission Member 
   iii Committee shall examine the courses already studied by 
@@ -313,7 +305,6 @@ earned by the student
   4. 5 Central Steering Committee (CSC) 
    The constitution of CSC shall be as follows:  Vice-Chancellor Chairman,  Deans, HoDs and Cell Coordinators will be the Members and  Senior faculty nominated by the Vice Chancellor shall be member coordinator. 
    The CSC has the following functions 1. To formulate the strategic policies in the following areas:  Facilitating student success  Creation of learner-centered environment  Support services beyond curriculum  Requirements of Human resources  Institution image building  Value based administration  Infrastructure planning and management  Interaction with other departments, cells/committees and stakeholders 2. To prepare strategic plans to pursue the above referred policies 
- ## Page 10
  6 
   3. To guide all the school/department/cells/committees towards implementation of policies 4. To conduct regular meetings to monitor the working of various school/department/cells/committees 5. To evaluate performance of each school/department/ cell/committee vis-à-vis stake holders expectations The committee shall meet as per the direction of Vice Chancellor. 
   4. 5 Department Undergraduate/ Postgraduate Committee 
@@ -327,7 +318,6 @@ Bachelor of Engineering Program in Engineering and
 Architecture 
 For 40% of seats reserved for students of Karnataka under 
 Section-9 of the Act, the fees shall be fixed by the Fee 
- ## Page 11
  7 
   Regulation Committee constituted by the Government of 
 Karnataka. The reservation policy of the Government shall 
@@ -369,7 +359,6 @@ Departmental Board of Studies with the approval of the
 Academic Council. 
   6. 1 A Departmental Board of Studies shall comprise of the 
 following members: 
- ## Page 12
  8 
     i Concerned Head of the Department/ School/ Center - 
 Chairperson; 
@@ -408,7 +397,6 @@ Departmental Board of Studies by circulation of any
 proposal among the members of the Committee. Such 
 opinion, together with the action taken thereon, shall be 
 communicated to all the members. 
- ## Page 13
  9 
     6. 4 The Dean Academic Affairs / The concerned Dean of 
 Faculty shall reconstitute a Departmental Board of Studies 
@@ -452,7 +440,6 @@ and solutions for completeness, accuracy, appropriateness,
 and marks distribution; 
   iv Recommend to the Controller of Examinations suitable 
 persons for the appointment as examiners, question paper 
- ## Page 14
  10 
   setters, evaluators and moderators. Question paper setters 
 shall have taught the concerned subject at least once or be 
@@ -493,7 +480,6 @@ Members; and
   9. 2 The Results Scrutiny Panel shall: 
   i Review the report of the Controller of Examinations 
 pertaining to the results; 
- ## Page 15
  11 
     ii Validate the statistics of the results placed by the Controller 
 of Examinations; 
@@ -532,7 +518,6 @@ deemed necessary.
 during examinations reported by the Controller of 
 Examinations and recommend suitable action and 
 penalties, if any; 
- ## Page 16
  12 
     ii Meet after the conduct of every examination if there are 
 cases of reported malpractice or indiscipline. 
@@ -576,7 +561,6 @@ Entrance Examination as notified by the Government of
 Karnataka from time to time. 
   12. 2 A candidate seeking admission under the University Quota 
 shall appear for the entrance test conducted by the 
- ## Page 17
  13 
   University or by the recognized Entrance Examination 
 authorities such as COMEDK/ KEA/ JEE/ NATA etc as per the 
@@ -618,7 +602,6 @@ institution other than Director of Technical Education,
 Government of Karnataka shall produce the equivalence 
 certificate from Equivalence Committee of the University. 
 The equivalency of degree to Diploma degree and the 
- ## Page 18
  14 
   program to which the candidate is qualified at B.E degree 
 on the basis of specialization at Diploma Degree shall be 
@@ -684,7 +667,6 @@ of the Degree. However, a student may apply for a change
 of major / branch at the end of the second semester of 
 undergraduate study in the prescribed format to the 
 Admissions Committee during the specified time period. 
- ## Page 19
  15 
   The Admission Committee shall consider the change of 
 major / branch based on: (i) vacancy with respect to first 
@@ -728,7 +710,6 @@ his/her remaining minimum duration of the programme
 student migrating out of the University shall automatically 
 stand terminated with effect from the date of approval of 
 migration. Further, the University reserves the right to 
- ## Page 20
  16 
   recover any scholarship or financial assistance already 
 given to such a student before approval of migration. 
@@ -770,7 +751,6 @@ Permanent
 withdrawal from 
 18 18.1 The Registrar may permit a student to withdraw from a 
 programme permanently. Such a student seeking 
- ## Page 21
  17 
   the programme / 
 University 
@@ -816,7 +796,6 @@ Bachelor's degree or Master's degree in appropriate field
 shall be eligible for postgraduate and research 
 programmes. The eligibility criteria for other programmes 
 shall be as specified in the guidelines for the respective 
- ## Page 22
  18 
   programmes of study, from time to time. Along with this 
 the candidate needs to undertake the entrance 
@@ -859,7 +838,6 @@ each programme of study except in the case of very-short
 non-degree programmes. 
   21. 1 Generally, credits shall be assigned to the each course in a 
 programme of study based on the following pattern: 
- ## Page 23
  19 
   a) Lectures: One lecture hour per week shall be assigned one credit b) Tutorials: Two tutorial hours per week shall be assigned one credit c) Practicals: Two laboratory hours per week shall be assigned one credit. Not more than three credits may be assigned to a practical course having only laboratory component. The courses having three hours of contact every alternate week shall have one credit only d) Drawing: Two drawing class hours per week shall be assigned one credit e) Mini-projects, Minor-projects, Seminars, Projects: Three contact and preparation hours per week shall be assigned one credit f) Studio : One studio Class hour per week shall be assigned one credit g) Dissertation : Three contact and preparation hours per week shall be assigned one credit h) Self Study: There can be a self-study component in the curriculum as decided by the DUGC/DPGC. 
   21. 2 The course credits for each course shall be given as L-T-P . 
@@ -885,7 +863,6 @@ For example, a 4-year degree programme in engineering
 shall comprise of eight regular semesters and therefore 
 require 22 x 8 = 176 credits, the minimum being 176 and 
 the maximum being 176 x 1.025 = 180 
- ## Page 24
  20 
   Notwithstanding what is said here the minimum number 
 of credits a candidate need to complete for the award of 
@@ -925,7 +902,6 @@ Mathematics, Physics, Chemistry and Biology and they are
 common to all undergraduate programs except 
 architecture. Basic Science courses shall be in the range of 
 20 - 30 credits. 
- ## Page 25
  21 
     22. 1.3 Engineering Science Courses (ES): Engineering Science 
 courses give a broad spectrum of allied engineering 
@@ -967,7 +943,6 @@ above the graduation requirements.
   23. 1 A student may be permitted to take any number of audit 
 courses over and above the graduation requirements for 
 learning a subject. 
- ## Page 26
  22 
     23. 2 A student shall have an opportunity for supplementing the 
 learning experiences by crediting additional courses, in 
@@ -1013,7 +988,6 @@ Academic Council and shall be notified from time to time.
 Course code 
   25 25.1 Every course in a programme shall be assigned a course 
 code, using nine alphanumeric characters as under: 
- ## Page 27
  23 
   Field Year Faculty Progr
 amm
@@ -1070,7 +1044,6 @@ knowledge dissemination tools.
 To enrich the student experience, the teaching / learning 
 may include any of the following methods: 
 1. Lectures with active learning 
- ## Page 28
  24 
   This method is used for large number of courses in the 
 program. To make it more impactful several active learning 
@@ -1112,7 +1085,6 @@ Course projects also help the students to
 understand the concepts learnt in a course and 
 application of concepts in different contexts. 
 7. Directed self learning tasks 
- ## Page 29
  25 
   The activities like term paper writing, seminars 
 give the student capability to develop lifelong 
@@ -1153,7 +1125,6 @@ either for the same course or chooses 2 electives
 at a later date when the same are offered to fulfil 
 the curriculum requirement. 
 10. Internship Project A student is allowed to earn maximum of 20 credits during his/her internship. The breakup of earned credits is as follows: 
- ## Page 30
  26 
   Capstone project of 14 credits after withdrawing of 7th semester Phase-I project of 3 credits Internship Report of 6 credits 11. Courses offered from different centers Students of B.E., B.Arch., M. Tech., M.C.A and M.B.A programs may be permitted to register for courses offered by CTIE/ Research clusters/ Centers of Excellences of the college as a regular / open elective for the regular requirement of award of degree. Such courses may be approved by the board of studies proposed by the head of centers and approved by the Chairman, Academic Council. 12. Seminars The curriculum may contain a Seminar normally based on a review on a topic of the state of the art in a chosen field related to the branch in which the student is enrolled and shall consist of literature review, categorization of information collected, interpretation of presented information and presentation. 
 Note : Faculty can adopt the above teaching learning 
@@ -1180,7 +1151,6 @@ courses
 courses in a programme he/she intends to study. Only 
 registered students shall be allowed to attend the classes 
 of those courses. 
- ## Page 31
  27 
     28. 1 Students shall register for the courses to be studied in a 
 particular semester before the end of the previous 
@@ -1224,7 +1194,6 @@ validation
 30 Before the first day of classes, every student shall validate 
 his registration either on-line or at the concerned 
 department/School office. Students who do not validate 
- ## Page 32
  28 
    their registration shall not be permitted to add/drop 
 courses. 
@@ -1274,7 +1243,6 @@ Attendance
   34 Attendance is the physical presence of the student in the 
 class. Students shall make every effort to attend all classes, 
 laboratory / practical and other sessions. 
- ## Page 33
  29 
     34. 1 Every Teacher handling a class or laboratory / practical 
 session shall take attendance till the last instruction day in 
@@ -1318,7 +1286,6 @@ for which he/she is the Member-Secretary, on the approval
 of the Vice-Chancellor; 
   iii Arrange for the preparation and notification of 
 examination time table from time to time; 
- ## Page 34
  30 
     iv Supervise the registration of students for End Semester 
 Assessment, if applicable; 
@@ -1359,7 +1326,6 @@ Deputy Controller
 of Examinations 
 37 Deputy Controller of Examinations, if any, shall assist the 
 Controller of Examinations for the conduct of examinations 
- ## Page 35
  31 
    and all other matters incidental thereto and ancillary 
 therewith. 
@@ -1406,7 +1372,6 @@ Invigilators
   41 The Chief Superintendent shall appoint the required 
 number of Invigilators for all blocks where examinations 
 are held, as required. 
- ## Page 36
  32 
   Group Invigilators 
   42 The Chief Superintendent shall appoint the required 
@@ -1458,7 +1423,6 @@ for assessing the performance of a student in each course.
 The ISA and ESA components for each course shall be 
 conducted as per the calendar of events and the time-table 
 specified from time to time. The Teacher shall notify the 
- ## Page 37
  33 
   weights of ISA and ESA components in the total marks for 
 a course in the lesson plans as per the approval of Board of 
@@ -1505,7 +1469,6 @@ CHAPTER VIII
 IN-SEMESTER ASSESSMENT 
 ISA 49 The ISA for courses may be carried out by the way of 
 various components such as Mid Term Examinations, 
- ## Page 38
  34 
    quizzes, tests, seminars, term papers, demonstrations, and 
 award of marks for attendance. Practical components of 
@@ -1559,7 +1522,6 @@ evaluation of such components. The concerned Head of
 the Department / School / Center shall notify the format 
 for preparation of technical and project reports from time 
 to time. 
- ## Page 39
  35 
   Announcement of 
 ISA marks 
@@ -1605,7 +1567,6 @@ Admit Card
 for issuance of Admit Cards to eligible students, based on 
 the ESA list. The Admit Card of a student shall be valid only 
 for the ESA for which it is issued. The Admit Card of a 
- ## Page 40
  36 
   student shall include (i) recent photograph of the student 
 and (ii) registered courses for ESA with course codes. 
@@ -1652,7 +1613,6 @@ recommended by the Board of Examiners may appoint the
 examiners. However, the Controller of Examinations may 
 choose examiners outside the panel for valid reasons, with 
 the approval of the Vice-Chancellor . 
- ## Page 41
  37 
   Tabulation of 
 Marks 
@@ -1706,7 +1666,6 @@ Avg.-1.05 * SD ≤
 M <Avg.- 0.25 * 
 SD 
 C 7 Good 
- ## Page 42
  38 
   Avg.- 1.50 * SD ≤ 
 M < Avg.- 1.05* 
@@ -1774,7 +1733,6 @@ C 7 Good
 5 51-
 60 
 D 6 Fair 
- ## Page 43
  39 
   6 40-
 50 
@@ -1819,7 +1777,6 @@ during the Supplementary semester of that academic year
 and the "W" grade shall be converted to one of the other 
 letter grades (S to F) after the completion of scheduled ESA 
 of supplementary semester. If the student does not register 
- ## Page 44
  40 
   register or appear for the ESA of supplementary semester, 
 the "W" grade shall be converted to an "F" grade. 
@@ -1861,7 +1818,6 @@ offered next or register for any other elective course.
   63. 6.3 The 'FA' grade denotes poor attendance i.e. failure in a 
 course due to attendance shortage (i.e. <75%) and the 
 course instructor is supposed to take utmost care while 
- ## Page 45
  41 
   awarding this double-letter grade. A student with "FA" 
 grade must re-register for the course during the 
@@ -1903,7 +1859,6 @@ However failure to secure a minimum CGPA = 5.0 at the end
 of any semester for the first time, shall attract a warning 
 before approval of the student to continue in the following 
 semester. 
- ## Page 46
  42 
     65. 3 The failure grades of mandatory non-credit courses/audit 
 course shall not be considered for vertical progression. 
@@ -1946,7 +1901,6 @@ CGPA Equivalent Class/Division
 5. 00-5.74 Pass 
 5. 75-6.74 >50% and <60% Second 
 6. 75-7.74 >60% and <70% First 
- ## Page 47
  43 
   7. 75-9.49 >70% and <87.5% First class with 
 Distinction 
@@ -1987,7 +1941,6 @@ only on CGPA to be calculated as mentioned in 66.1 and
 2 decimal points and will be rounded up to the nearest 
 value. In case more than one gets the same CGPA, all shall 
 share the ranks. In case of B.E programs the CGPA of only 
- ## Page 48
  44 
   III semester to VIII semesters and in case of MCA program 
 the CGPA of III semester to VI semesters and in case B.Arch. 
@@ -2032,7 +1985,6 @@ delay in the announcement of re-totaling and/or
 revaluation results for any reason whatsoever shall not 
 confer the right upon the student for admission to the 
 subsequent semester and for any other kind of claim. 
- ## Page 49
  45 
   There shall be no provision for re-totaling, obtaining the 
 photocopy of answer books and revaluation of ESA for 
@@ -2078,7 +2030,6 @@ the new grade is found to be lower than the declared
 grade, the declared grade shall be retained. In the event of 
 no change in the grade after revaluation, it shall be 
 declared as "No Change". 
- ## Page 50
  46 
   Refund of fee 
   73 A refund of 50% of re-totaling or revaluation fees shall be 
@@ -2125,7 +2076,6 @@ marks of 2% (2/100) in ESA per course
 provided the student gets the minimum 
 prescribed passing marks in ESA for that course 
 by such grace marks. 
- ## Page 51
  47 
   GMR2 : A student is eligible to get a maximum grace 
 marks of 5% (5/100) in ESA for a course 
@@ -2168,7 +2118,6 @@ Examinations.
   78. 2 On request and payment of prescribed fee, the academic 
 transcript, in the prescribed format, shall be issued to a 
 student by the Controller of Examinations. 
- ## Page 52
  48 
     78. 3 A student, on payment of prescribed fee, if any, may 
 request the Controller of Examinations in prescribed 
@@ -2214,7 +2163,6 @@ Eligibility for the
 Award of Degree 
 80 A candidate shall be declared to be eligible for the award 
 of a degree if he/she has: 
- ## Page 53
  49 
     i Credits and grades compliance as prescribed by the 
 concerned Faculty of Study within the stipulated maximum 
@@ -2256,7 +2204,6 @@ value of merit scholarships, if any, to be awarded in each
 programme. 
   83. 2 The eligibility criteria for scholarship awards shall be as 
 determined by the Academic Council from time to time. 
- ## Page 54
  50 
   The merit scholarship may be awarded on such basis as 
 grade point average. However, during the year of 
@@ -2308,7 +2255,6 @@ Academic Records
 admission shall be destroyed by shredding after a period of 
 ONE year of the finalization of admissions, except in cases 
 of disputes; 
- ## Page 55
  51 
     ii The records pertaining to the conduct of entrance 
 examination such as question booklets, answer sheets, 
@@ -2342,7 +2288,5 @@ will be resolved as per the directions of the Vice-chancellor
 and the decision of the Vice-chancellor will be the final. 
 AMENDMENTS 89 The regulations listed herein, on approval by the Academic Council and Governing Council, shall be binding on all students enrolled for the Bachelor of Engineering Bachelor of Architecture/ Master of Technology/ Master of Computer Applications degree. The regulations listed herein may be amended, updated, changed through appropriate approval from the Academic Council from time to time and shall be binding on all parties concerned including students, faculty, staff, departments, college authorities. 
 JURISDICTION 90 All disputes arising from the regulations listed herein must be addressed to the Academic Council. The decision of the Academic 
- ## Page 56
  52 
-  Council is final and binding on all parties. Any legal issues arising from this set of regulations shall be limited to the legal jurisdiction determined by the location of the College and not that of any other parties. 
-   
+  Council is final and binding on all parties. Any legal issues arising from this set of regulations shall be limited to the legal jurisdiction determined by the location of the College and not that of any other parties.

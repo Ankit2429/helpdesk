@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: KLE-TECH-Annual-Report-2015-16"
+title: "KLE Tech Annual Report 2015 16"
 category: "miscellaneous"
 subcategory: ""
 document_type: "syllabus"
@@ -11,15 +11,14 @@ language: "en"
 keywords: ["annual", "document", "education", "engineering", "kle", "report", "research", "students", "tech"]
 aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE", "KLETech", "KLE Tech", "BVB", "BVBCET"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "37"
 ---
-# PDF Document: KLE-TECH-Annual-Report-2015-16
- **PDF Source:** https://www.kletech.ac.in/pdf/KLE-TECH-Annual-Report-2015-16.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/KLE-TECH-Annual-Report-2015-16.pdf
  2015 -16
 www.kletech.ac.in
 ANNUAL
 Report
- ## Page 2
  Our Parent Organization: 
 Karnataka Lingayat Education Society (KLE Society)
 Initiatives by private organizations and dedicated individuals have played a critical role in the growth 
@@ -46,7 +45,6 @@ areas of:
 With a visionary leadership of Chairman Dr . Prabhakar Kore, and members of Board of Management, 
 the society's institutions serve more than 1, 25, 000 students. Over 16, 000 dedicated faculty and 
 staff work together to meet the high standards set by the management.
- ## Page 3
  CONTENTS
 02
 FOREWORD
@@ -81,7 +79,6 @@ CAPITAL & IT
 GOVERNANCE
 32
 KLE TECH EXECUTIVE TEAM
- ## Page 4
  2 | KLE Tech
 Foreword
 Dr . Ashok S. Shettar
@@ -99,7 +96,6 @@ We would like to extend our sincere thanks to our faculty, staff, students, alum
 their continued support and remarkable contributions. Looking ahead, we will continue to work towards 
 realizing our vision to be a leader in engineering education, and advancing research and innovation to 
 support socio-economic development of the region.
- ## Page 5
    www.kletech.ac.in | 3 
 Introduction
 KLE Technological University (KLE Tech) has 
@@ -158,7 +154,6 @@ University to emerge as a University with a
 national distinction. 
 Creating Value
 Leveraging Knowledge
- ## Page 6
  4 | KLE Tech
 Admission Process
 The University does not conduct a separate 
@@ -199,7 +194,6 @@ records of qualifying examinations.
 Common Entrance Test (PGCET) conducted 
 by Karnataka examination authority, is used 
 for the selection of students.
- ## Page 7
    www.kletech.ac.in | 5 
 Postgraduate Programs
 Research Programs
@@ -233,7 +227,6 @@ Sl.No. Programme
 5 School of Management and Social Sciences
 6 School of Mechanical Engineering 
 7 Centre for Engineering Education Research
- ## Page 8
  6 | KLE Tech
 Student admissions for the year 2015-16 - UG
 Student admissions for the year 2015-16 - PG
@@ -293,7 +286,6 @@ PG
 38%
 Male
 Female
- ## Page 9
    www.kletech.ac.in | 7 
 The initiatives undertaken to enhance the quality of education and student performance are presented 
 under following three tenets of academic quality
@@ -322,7 +314,6 @@ a culture of continuous improvement that
 strengthens our academic quality and inspires 
 student achievement.
 Academic Quality
- ## Page 10
  8 | KLE Tech
 Advances in Curriculum
 The University has undertaken a comprehensive 
@@ -347,7 +338,6 @@ course reports and student works. The frame
 work adopted by the college is depicted in the 
 Figure below.
 KLE Tech
- ## Page 11
    www.kletech.ac.in | 9 
 Major Academic initiatives Undertaken:
 Introducing 'Engineering Exploration'
@@ -392,7 +382,6 @@ KLE Tech is one of the first few Institutions in India offering PhD in Engineeri
 started from 2015-2016. This program is designed with a vision of contributing to leadership development in 
 Engineering Education. Experiences of a few of the leading universities in the world are used in designing the 
 program.
- ## Page 12
  10 | KLE Tech
 Faculty Development Programmes
 Teachers provided with financial support to attend conferences / workshops and towards membership fee of 
@@ -454,9 +443,12 @@ International Conference on "Mathematics
 Thiruvanathapuram, Kerala. 
 Conference 18, 455.00 
 2015-16 Nagaraj Navalgund Work shop on "MOOCS" during at IIMB Workshop 5, 938.00 
-Ȁ
+
+
+
+
+Ȁ
 ʹͲͳͷǦͳ͸
- ## Page 13
    www.kletech.ac.in | 11 
 Research and Innovation
 To meet its growth aspirations, one of the challenges faced by the college is to transform itself from a good 
@@ -484,7 +476,6 @@ Sl. No. Department No. of PhD Guide No. of PhD registered
 8 Social Sciences 1 2
 9 Applied Sciences 5 5
 Total 27 32
- ## Page 14
  12 | KLE Tech
 Summary of publications
 The following table summarizes the number of publications of research work in refereed conferences and 
@@ -525,7 +516,6 @@ Total Amount : 175.65L+46.9L = 222.55 L
 Funding agencies : DST, NRB, AICTE, VTU & VGST
 Summary of external funded projects 
 Research grants received: 2012-2016
- ## Page 15
    www.kletech.ac.in | 13 
 SI.NO Year Number of projects Amount sanctioned Funding Agency
 1 2012-2013 01 20.0 L VGST
@@ -569,7 +559,6 @@ Summary of outcome of the REU course is reflected in the following table. In the
 have published 25 papers in international conferences and journals, and 8 of them have either completed or 
 doing post graduation. About 25% of the total REU students from 2011-15 are doing post graduation either in 
 India or abroad
- ## Page 16
  14 | KLE Tech
 Setting up of Research clusters
 To promote interdisciplinary research in emerging and high impact areas, the college has undertaken initiative 
@@ -605,7 +594,6 @@ Focus areas of this cluster are:
  a. Bioplastic material
  b. Environmental applications
 5. Biochemical Sensors using III-nitride nanostructures 
- ## Page 17
    www.kletech.ac.in | 15 
 Outcomes:
 • Total Publications in 2014-16: 20
@@ -629,7 +617,6 @@ Outcomes:
  • Total fund received in 2015-16 : Rs.6.00L (in progress)
  • Number of product development (in progress) : 03
  • Number of Industry and Institute collaborations : 04
- ## Page 18
  16 | KLE Tech
 Centre for Technology Innovation and Entrepreneurship (CTIE):
 Entrepreneurship
@@ -666,7 +653,6 @@ of CTIE helped to attract serial entrepreneurs and young engineers to build thei
 path focused on building the pipeline of eligible students who are open enough to experience career of 
 an entrepreneur . A good mix of credit based and non-credit activities were undertaken as a part of this 
 approach.
- ## Page 19
    www.kletech.ac.in | 17 
 The entrepreneurship interventions designed at BVB focused mainly on, Building entrepreneurship culture on 
 campus Opportunity identification and technology solutions Commercialization strategies As a result of such 
@@ -703,7 +689,6 @@ development and entrepreneurial initiatives in
 campus. MIB has been instrumental in holding 
 events like, PUPA, Ideation Camp, E-Summit and 
 many more value added programs.
- ## Page 20
  18 | KLE Tech
 Ideation Camps:
 Intel Youth Enterprise program is a globally accepted workshop 
@@ -749,7 +734,6 @@ emphasis of this program is on a multi-nation experience, wherein students
 from Japan, China, Thailand and Guyana, US and India have taken part. Till 
 date over 200 students from BVB have graduated out and remarkably many 
 have started their ventures at BVB.
- ## Page 21
    www.kletech.ac.in | 19 
 Over arching philosophy of CIPD:
 Learning Factory is a place:
@@ -785,13 +769,11 @@ Enterprise
 Scaling & Commercialization
 KLE Tech Centre for Innovation & Product Development 
 [KLE Tech - CIPD]
- ## Page 22
  20 | KLE Tech
 Laser Cutting Machine FARO 3D Imager
 Vertical Screw Type
 Injection Molding Machine Plasma Cutting Machine
 CUBEPRO 3D Printers (Duo & Trio)
- ## Page 23
    www.kletech.ac.in | 21 
 It is essential that the institute continues to strengthen its association with the industries to 
 enhance its student learning experience and relevance of its research activities.
@@ -861,7 +843,6 @@ Hiwi(GDV) ,BVB Campus, Hubli 2
 INSZoom 3
 Sankalp 4
 CrimsonLogic 1
- ## Page 24
  22 | KLE Tech
 Centre for Engineering Education Research (CEER) 
 Education Research
@@ -902,7 +883,6 @@ for Engineering Education'.It was organized during January 6-8, 2016. Honourable
 Manohar Parrikar inaugurated the conference. More than 70 top colleges of the country and more than 15 
 expert speakers from four countries (USA, France, South Korea and Singapore) participated in the conference. 
 Total numbers of delegates participated in the conference is 425.
- ## Page 25
    www.kletech.ac.in | 23 
 The aim of the Conference was to bring about greater understanding of the issue involved in Make in India, 
 sharing of world-wide best practices and experiences in this area and evolve a broad framework for the 
@@ -954,7 +934,6 @@ of Innovation Ecosystem in
 Engineering Education: Role Plays 
 of Universities, Industry, and 
 Government
- ## Page 26
  24 | KLE Tech
 This summit witnessed about 65 participants from 20 Gurukuls belonging to different Engineering institutions 
 across the country. The discussions of the two day workshop culminated by identifying the following prioritized 
@@ -999,7 +978,6 @@ with Indo Universal Collaboration for Engineering
 Education. Dr .Ashok Shettar, Dr .Prakash Tewari and 
 Dr .Gopalkrishna Joshi are the resource persons for 
 this course. 
- ## Page 27
    www.kletech.ac.in | 25 
 Summary
 Number of participants 55
@@ -1021,7 +999,6 @@ Engineering Colleges and Polytechnics and supported by State Project Facilitatio
 TEQIP . 
 This workshop aimed at equipping faculty members with the knowledge and skills required to practice 
 engineering education effectively. All twenty sessions were woven around the philosophy and practice of OBE.
- ## Page 28
  26 | KLE Tech
 KLE Tech awarded as Ranked No 1
 KLE Tech awarded as Ranked No 1 for "Outstanding Institutional Transformation in Engineering 
@@ -1030,7 +1007,6 @@ TBI Recognition by DST
 KLE CTIE has been recognized as Technology Businiss Incubator (TBI) by Department of Science and 
 Technology, GOI, and a grant of Rs 3.40 Crores has been Scantioned.
 Recognitions
- ## Page 29
    www.kletech.ac.in | 27 
 New infrastructure
 Our infrastructure is the key enabler for us to deliver world-class educational experience for our students. A 
@@ -1039,7 +1015,6 @@ Continuing our efforts to develop ambient green campus, new landscape projects w
 landscape focuses on creating informal interaction space for the students in the campus.
 School of Electronics Engineering
 Musical Fountain
- ## Page 30
  28 | KLE Tech
 IT Platforms and Services
 The University network is on OFC. 39 managed switches, 150 access points, UTM, AAA server are part of new 
@@ -1070,7 +1045,6 @@ Prof B. S. Sonde Member
 Dr . Sudha N. Murty Member
 Prof P . G. Tewari Member
 Prof B. L . Desai Member Secretary
- ## Page 31
    www.kletech.ac.in | 29 
 Student accolades
 KLE Tech - BVB sweeps top prizes at BOSCH Inscribe 2015
@@ -1113,7 +1087,6 @@ and secured 4th position in their debut year among 124 teams at
 Buddh International Circuit, Greater Noida during 3rd to 9th July, 2016. 
 An interdisciplinary team of 21 students from BVB Motorsports Club 
 participated in SUPRA SAEINDIA 2016
- ## Page 32
  30 | KLE Tech
 Financials
 Consolidated income and expenditure statement for the year 2015-2016
@@ -1145,7 +1118,6 @@ Financials
 KLE Technological University, Hubballi
 Income and Expenditure Statement for the year 2015-16
 (Includes Capital Expenditures)
- ## Page 33
    www.kletech.ac.in | 31 
 Alumni Association -Events
 Felicitation
@@ -1176,7 +1148,6 @@ where nearly Rs. 92 lakhs has been invested
 by BVB Alumni Association. Alumni after the 
 AGM visited the construction of Incubation 
 Centre on campus.
- ## Page 34
  32 | KLE Tech
 KLE Tech Executive Leadership Team
 Prof Gopal Joshi
@@ -1198,7 +1169,6 @@ Dr . B. B. Kotturshettar
 Dean - Planning & Development
 Dr . Uma Mudenagudi
 Dean - Research & Development
- ## Page 35
    www.kletech.ac.in | 33 
 Center Heads
 Heads of Schools / Departments
@@ -1240,9 +1210,7 @@ Prof Gururaj Joshi
 Architecture
 Dr . B. B. Kotturshettar
 Mechanical
- ## Page 36
  Campus Snapshots
- ## Page 37
    www.kletech.ac.in | 35 
 www.kletech.ac.in
 KLE Technological University

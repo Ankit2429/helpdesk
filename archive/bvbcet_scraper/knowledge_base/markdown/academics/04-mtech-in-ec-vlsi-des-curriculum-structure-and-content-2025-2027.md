@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 04-mtech-in-ec-vlsi-des-curriculum-structure-and-content-2025-2027"
+title: "VLSI Design and Embedded Systems (PG) Curriculum"
 category: "academics"
 subcategory: ""
 document_type: "syllabus"
@@ -11,15 +11,14 @@ language: "en"
 keywords: ["chapter", "content", "curriculum", "des", "design", "document", "hours", "marks", "mtech", "structure"]
 aliases: ["HOD", "Head of Department", "ECE", "EC", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "40"
 ---
-# PDF Document: 04-mtech-in-ec-vlsi-des-curriculum-structure-and-content-2025-2027
- **PDF Source:** https://www.kletech.ac.in/pdf/04-mtech-in-ec-vlsi-des-curriculum-structure-and-content-2025-2027.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/04-mtech-in-ec-vlsi-des-curriculum-structure-and-content-2025-2027.pdf
  FMCD2009 / 2.0 1
   Curriculum Structure and Curriculum Content for the Academic Batch 2025 - 27 
 School /Department: Electronics and Communication Engineering 
 Program: VLSI Design and Embedded Systems (PG) 
-  ## Page 2
  FMCD2009 / 2.0 2
   Table of Contents 
 Vision and Mission of KLE Technological University ........................................................... 3 
@@ -32,7 +31,6 @@ Semester - I ...................................................................
 Semester - II ..................................................................................................................... 8 
 Semester- III ..................................................................................................................... 9 
 Semester- IV ................................................................................................................... 10 
-  ## Page 3
  FMCD2009 / 2.0 3
 Vision and Mission of KLE Technological University 
   Vision 
@@ -56,7 +54,6 @@ region by contributing our expertise, experience and leadership, to
 enhance competitiveness and quality of life. 
   As a unified community of faculty, staff and students, we work together with 
 the spirit of collaboration and partnership to accomplish our mission. 
-  ## Page 4
  FMCD2009 / 2.0 4
 Vision and Mission Statements of the School / Department 
   Vision 
@@ -72,7 +69,6 @@ computing businesses and occupations.
 boundaries of disciplinary and interdisciplinary knowledge and its applications. 
   3. To collaborate within and beyond the discipline to create solutions that 
 benefit humanity and society 
-  ## Page 5
  FMCD2009 / 2.0 5
 Program Educational Objectives/Program Outcomes 
 Program Educational Objectives -PEO's 
@@ -97,7 +93,6 @@ requirements in the appropriate bachelor program.
 pertaining to VLSI Design and Embedded Systems. 
 5. An ability to work with integrity and ethics in their professional practice, having an 
 understanding of responsibility towards society with sustainable development for lifetime. 
-  ## Page 6
  FMCD2009 / 2.0 5
 Curriculum Structure-Overall 
   Course with course code 
@@ -158,7 +153,6 @@ Mini Project
 19EVEW701 
 0-0-3 
    Credits 24 26 18 20 
- ## Page 7
  FMCD2009 / 2.0 7
 Curriculum Structure-Semester wise 
 Semester - I 
@@ -175,7 +169,6 @@ Duration
 6 25EVEC706 Internet Of Things Core 6 1-0-2 3 5 67 33 100 2 hours 
 7 25EVEC705 RISC Architectures and Programming Core 7 3-0-1 4 5 63 37 100 3 hours 
 TOTAL 14-0-10 24 31 470 230 700 
- ## Page 8
  FMCD2009 / 2.0 8
 Semester - II 
   No Code Course Category L-T-P Credits Contact 
@@ -208,7 +201,6 @@ Elective 2
 24EVEE707 AUTOSAR 3-0-0 3 4 50 50 100 2 hours 
 8 19EVEW701 Mini Project Core 13 0-0-3 3 6 50 50 100 3 hours 
 TOTAL 18-0-8 26 34 460 340 800 
- ## Page 9
  FMCD2009 / 2.0 9
 Semester- III 
   No Code Course 
@@ -219,7 +211,6 @@ Duration
 1 17EVEI801 Internship/ Mini Project Core 14 0-0-8 8 16 50 50 100 3 hours 
 2 17EVEW801 Project Phase I / Minor project Core 15 0-0-10 10 20 50 50 100 3 hours 
 TOTAL 0-0-18 18 36 100 100 200 
- ## Page 10
  FMCD2009 / 2.0 10
 Semester- IV 
   Semester I II III IV Total 
@@ -229,7 +220,6 @@ Duration
 (in hrs) 
 1 17EVEW 802 Project Phase II / Major Project Core 16 0-0-20 20 40 50 100 150 3 hours 
 TOTAL 0-0-20 20 40 50 100 150 
- ## Page 11
  FMCD2009 / 2.0 11 
 Curriculum Content- Course wise 
 Program: VLSI Design and Embedded Systems Semester: I 
@@ -272,7 +262,6 @@ Lab:
 11. Design and implement stack queue data structures 
 12. Design and implement linked list data structures 
 13. Project 
- ## Page 12
  FMCD2009 / 2.0 12 
 Back to Semester 1 
  Back to Semester 1 
@@ -306,7 +295,6 @@ References books
 1. Baker, Li, Boyce, "CMOS: Circuit Design, Layout and Simulation", Prentice Hall of India, 2000 
 2. B Razavi, 'Fundamentals of Microelectronics' Wiley Student Edition, Wiley 2013Adel S. Sedra and Kenneth C. 
 Smith, "Microelectronic Circuits", 7E, Oxford University Press (2015) 
-  ## Page 13
  FMCD2009 / 2.0 13 
   Program: VLSI Design & Embedded Systems 
 Course Title: Image and Video Processing Course Code: 25EVEC711 
@@ -339,7 +327,6 @@ References books
 1. Gonzalez, Rafael C., Woods, Richard E. and Eddins Steven L., Digital Image Processing Using Matlab, 
 Pearson Education (Asia) Pvt. Ltd., 
 2. Al. Bovik, Essential guide to Video Processing, Academic Press 
- ## Page 14
  FMCD2009 / 2.0 14 
    Back to Semester 1 
   Laboratory Implementation: 
@@ -356,7 +343,6 @@ e. Surveillance and Forensics
 f. Remote sensing 
         5. Track an object in video 
       6. Optimal use of surveillance video 
-  ## Page 15
  FMCD2009 / 2.0 15 
   Program: VLSI Design & Embedded Systems 
 Course Title: CMOS VLSI Design Course Code: 25EVEC704 
@@ -388,7 +374,6 @@ Triggering Prevention, Gate Delays, Driving Large Capacitive Loads, Delay Minimi
 Logical effort, BiCMOS Drivers. 
 Chapter 06. Combinational CMOS Circuit Design (04 hrs.) 
 Pseudo nMOS, Clocked CMOS, Dynamic CMOS Logic Circuits, Dual-rail Logic Networks: CVSL, CPL. 
- ## Page 16
  FMCD2009 / 2.0 16 
 Chapter 07. Sequential CMOS Circuit Design (04 hrs.) 
 Sequencing static circuits, Circuit design of latches and flip-flops, Clocking- clock generation, clock distribution. 
@@ -414,7 +399,6 @@ Pablo Duarte, Navid Payvadosi, Ai Niknejad, Chenming Hu, Elsevier Publication, 2
 6. Design a Phase Detector using D-FF 
 7. Design complex combinational circuits and analyze the performance using Cadence tool. 
 Back to Semester 1 
-  ## Page 17
  FMCD2009 / 2.0 17
   Program: VLSI Design and Embedded System 
 Course Title: Architectural Design of Integrated 
@@ -445,7 +429,6 @@ Reference Books:
 3. Principles of VLSI RTL Design: A Practical Guide by Sapan Garg, 2011. 
 Tools: Questa Sim, Modalism for Verilog, Cadance Geneus, Xilinx 14.2 ISE 
 Back to Semester 1 
-  ## Page 18
  FMCD2009 / 2.0 18 
   Program: VLSI Design and Embedded System 
 Course Title: Internet of Things Course Code: 25EVEC706 
@@ -479,7 +462,6 @@ Arduino, Android and AWS based Experiments
 2. Controlling LEDs blinking pattern through UART/Wi-Fi 
 3. Simple photocell to measure the ambient light level 
 4. Controlling LEDs blinking pattern through PHP web server. 
- ## Page 19
  FMCD2009 / 2.0 19 
 5. Temperature measurement through ADC and WiFi 
 6. Controlling and interacting with basic actuators (relay). 
@@ -500,7 +482,6 @@ a. Working with Temperature & Humidity Sensor
 b. Working with ThingSpeak Cloud 
 c. Posting & Analysing Sensor Data on ThingSpeak Cloud 
 Back to Semester 1 
-  ## Page 20
  FMCD2009 / 2.0 20
   Program: VLSI Design & Embedded Systems 
 Course Title: RISC Architectures and Programming Course Code: 25EVEC705 
@@ -536,7 +517,6 @@ Core 2 Duo Processor: The CPU, Memory Controller, I/O Controller.
 Chapter 09. Current Trends in Intel Architectures and Applications: (03 hrs.) 
 Seminar on current trends in Intel Architectures 
 Back to Semester 1 
- ## Page 21
  FMCD2009 / 2.0 21 
   Semester 2: 
 Program: VLSI Design & Embedded Systems 
@@ -560,7 +540,6 @@ Reference Books:
 1. Verbal and Non - Verbal Reasoning - Dr. Ravi Chopra, MacMillan India 
 2. Lateral Thinking - Dr. Edward De Bono, Penguin Books, New Delhi 
 Back to Semester 2 
-  ## Page 22
  FMCD2009 / 2.0 22 
 Program: VLSI Design & Embedded Systems 
 Course Title: Automotive Electronics and 
@@ -600,7 +579,6 @@ Advanced Driver Assistance Systems (ADAS): Examples of assistance applications: 
 Collision Warning, Automatic Cruise Control, Pedestrian Protection, Headlights Control, Connected Cars 
 technology and trends towards Autonomous vehicles. Functional Safety: Need for safety standard-ISO 26262, 
 safety concept, safety process for product life cycle, safety by design, validation. 
- ## Page 23
  FMCD2009 / 2.0 23 
 Chapter No: 6. Diagnostics (05 Hrs.) 
 Fundamentals of Diagnostics: Basic wiring system and Multiplex wiring system, Preliminary checks and 
@@ -629,7 +607,6 @@ hardware platform.
 8. Develop matlab code for stepper motor control and convert it to Simulink model and port it to embedded 
 hardware 
 Back to Semester 2 
-  ## Page 24
  FMCD2009 / 2.0 24 
 Program: VLSI Design & Embedded Systems 
 Course Title: Real Time Embedded System Course Code: 24EVEC707 
@@ -656,7 +633,6 @@ configuration management, managing embedded system development, embedded system 
 Chapter 06. Current trends, ethical & environmental issues (06 hrs.) 
 The students shall give seminars on current trends in the field of RTES, ethical, & environmental issues. 
 Back to Semester 2 
-  ## Page 25
  FMCD2009 / 2.0 25
 Program: VLSI Design and Embedded System 
 Course Title: System Verilog for Verification Course Code: 24EVEC703 
@@ -688,7 +664,6 @@ Reference Books
 language features - Springer, 2012 
 Tools: Questa Sim, NC Verilog, NC Sim, CVER + GTKWave, VCSMX, Modelsim for Verilog 
   Back to Semester 2 
-  ## Page 26
  FMCD2009 / 2.0 26
   Program: VLSI Design and Embedded System 
 Course Title: Physical Design - Analog Course Code: 25EVEC708 
@@ -717,7 +692,6 @@ Reference:
 2. CMOS IC layout - Dan Clien 
 3. IC Layout Basics - Chris saint and Judy saint 
 Back to Semester 2 
-  ## Page 27
  FMCD2009 / 2.0 27
   Program: VLSI Design and Embedded System 
 Course Title: MEMS Course Code: 24EVEE701 
@@ -746,7 +720,6 @@ Text Book / Reference:
 References: 
 Micro system Design & quot;, Stephen D. Senturia, Kluwer Academic Publishers, 2001. 
 Back to Semester 2 
-  ## Page 28
  FMCD2009 / 2.0 28 
   Program: VLSI Design & Embedded Systems 
 Course Title: Machine learning and Deep Learning Course Code: 25EVEE708 
@@ -773,7 +746,6 @@ Dimensionality reduction, PCA- Principal Component Analysis. Applications, Clust
 Evaluating a hypothesis, Model selection, Bias and variance, error analysis, error metrics for skewed classes. 
 Building a Model. 
 Back to Semester 2 
-  ## Page 29
  FMCD2009 / 2.0 29 
 Program: VLSI Design & Embedded Systems 
 Course Title: CMOS ASIC Design Course Code: 19EVEE703 
@@ -805,7 +777,6 @@ processing", Prentice Hall, 1994.
 Publishers, 1992. 
 4. Mohammed Ismail and Terri Fiez, "Analog VLSI Signal and Information Processing ", McGraw Hill, 1994. 
 S. Y. Kung, H. J. Whilo House, T. Kailath, "VLSI and Modern Signal Processing", Prentice Hall, 1985. 
- ## Page 30
  FMCD2009 / 2.0 30 
 Program: VLSI Design & Embedded Systems 
 Course Title: Testing & IC Characterization Course Code: 19EVEE704 
@@ -838,7 +809,6 @@ language features - Springer, 2012
 3. Step-by-Step Functional Verification with SystemVerilog and OVM by Sasan Iman SiMantis Inc. Santa 
 Clara, CA Spring 2008 Tools: 1. NC Verilog, NC Sim, VCSMX for System. 
 Back to Semester 2 
-  ## Page 31
  FMCD2009 / 2.0 31 
   Program: VLSI Design & Embedded Systems 
 Course Title: System on Chip Course Code: 24EVEE702 
@@ -871,7 +841,6 @@ Reference books
 Signal Circuits, Kluwer Academic Publishers, 2001. 
 3. Thomas Kropf, "Introduction to Formal Hardware Verification", Springer 1999. 
 Back to semester 2 
-  ## Page 32
  FMCD2009 / 2.0 32 
 Program: VLSI Design & Embedded Systems 
 Course Title: Testing and IC Characterisation Course Code: 24EVEE704 
@@ -904,7 +873,6 @@ language features - Springer, 2012
 6. Step-by-Step Functional Verification with SystemVerilog and OVM by Sasan Iman SiMantis Inc. 
 Santa Clara, CA Spring 2008 Tools: 1. NC Verilog, NC Sim, VCSMX for System. 
 Back to Semester 2 
-  ## Page 33
  FMCD2009 / 2.0 33 
 Program: VLSI Design & Embedded Systems 
 Course Title: Analog and Mixed mode VLSI Circuits Course Code: 24EVEC704 
@@ -928,7 +896,6 @@ Text Books
 Reference Books 
 1. Phillip. E. Allen, Douglas R. Holberg, "CMOS Analog circuit Design" Oxford University Press, 2002. 
   Back to Semester 2 
-  ## Page 34
  FMCD2009 / 2.0 34 
 Program: VLSI Design & Embedded Systems 
 Course Title: Low Power VLSI Circuits Course Code: 24EVEE705 
@@ -964,7 +931,6 @@ Reference Books:
 3. Laung-Terng Wang, Charles E. Stroud, Nur A. Touba, "System-on-chip Test Architectures", 2008. 
 4. Kaushik Roy, Sharat Prasad, "Low-Power CMOS VLSI Circuit Design" Wiley, 2000. 
 Back to Semester 2 
-  ## Page 35
  FMCD2009 / 2.0 35 
 Program: VLSI Design & Embedded Systems 
 Course Title: AUTOSAR Course Code: 24EVEE707 
@@ -1000,7 +966,6 @@ management, Protocol data unit router, Diagnostic log and trace unit, COMM manag
 Text Book (List of books as mentioned in the approved syllabus) 
 1. Ronald K. Jurgen, Infotainment systems, 2007, SAE International, 2007 
 Back to Semester 2 
-  ## Page 36
  FMCD2009 / 2.0 36 
 Program: VLSI Design & Embedded Systems 
 Course Title: Mini Project Course Code: 19EVEW701 
@@ -1024,7 +989,6 @@ Semester end examination (SEE) includes submission of the project report, demons
 projects and viva-voce conducted by the external and internal examiner. SEE carries 50% weightage of total 
 marks of mini-projects. 
 Back to Semester 2 
-  ## Page 37
  FMCD2009 / 2.0 37 
   Semester 3: 
 Program: VLSI Design & Embedded Systems 
@@ -1052,7 +1016,6 @@ Semester end examination (ESA) includes submission of the project report, demons
 and viva-voce conducted by the external and internal examiner. ESA carries 50% weightage of total marks of 
 mini-projects. 
 Back to Semester 3 
-  ## Page 38
  FMCD2009 / 2.0 38 
   Back to semester 3 
   Program: VLSI Design & Embedded Systems 
@@ -1063,7 +1026,6 @@ ISA Marks: 50 ESA Marks: 50 Total Marks: 100
 12 weeks duration shall be carried out. Candidates in consultation with the guides shall carryout literature 
 survey / visit to Industries to finalize the topic of dissertation. Evaluation of the same shall be taken up during 
 end of III Semester. 
- ## Page 39
  FMCD2009 / 2.0 39 
   Semester 4: 
 Program: VLSI Design & Embedded Systems 
@@ -1075,6 +1037,4 @@ ISA Marks: 50 ESA Marks: 100 Total Marks: 150
 reviews during the project work. Evaluation shall be taken up during the end of IV Semester. At the end of 
 the Semester Project Work Evaluation and Viva-Voce Examinations will be conducted. 
 Back to Semester 4 
-  ## Page 40
- FMCD2009 / 2.0 40 
-  
+ FMCD2009 / 2.0 40

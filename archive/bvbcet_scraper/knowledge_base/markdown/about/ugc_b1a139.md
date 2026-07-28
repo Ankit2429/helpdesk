@@ -14,4 +14,3 @@ last_modified: "2026-07-28"
 ---
 # UGC
  **Source URL:** https://www.kletech.ac.in/hubballi/about/ugc
- 

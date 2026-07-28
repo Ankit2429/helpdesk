@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 8imguf_MOMIQAC16May22and7July21609"
+title: "Momiqac16may22and7july21609"
 category: "miscellaneous"
 subcategory: ""
 document_type: "notice"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["dean", "document", "lqac", "meeting", "member", "naac"]
 aliases: ["HOD", "Head of Department", "CSE", "CS"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "5"
 ---
-# PDF Document: 8imguf_MOMIQAC16May22and7July21609
- **PDF Source:** https://www.kletech.ac.in/Uploads/image/8imguf_MOMIQAC16May22and7July21609.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/Uploads/image/8imguf_MOMIQAC16May22and7July21609.pdf
  KLE Technological
 universityCreatingvaluc`
 i.everaging Knowledge
@@ -32,7 +32,6 @@ Following is the agenda for the meeting:
 3. Any other matter with the permission of the chair.
 inator, lcIAC
 Copy to: Registrar / Finance Officer / HOD's of School
- ## Page 2
  KLE Technological
 UniversitycT-eatin8value
 i.eve?raging Knowlt-.`dge
@@ -68,7 +67,6 @@ Management, KLE Society Belgaum management
 Alumni Representative
 Dr. Sanjay Kotabagi -Dean Student Welfare Coordinator -lcIAC
 .zfatfri-
- ## Page 3
  KLE Technological
 UniversityC.reatingvaluc`
 l~everaging Knowledge
@@ -96,7 +94,6 @@ ln view of few administrative changes and requirement it was decided to re-const
 composition of lQAC. The chairman advised the .Director, IQAC to nominate the
 composition as per NAAC / AQAR guidelines.
 The meeting was concluded with a formal vote of thanks by lQAC coordinator.
- ## Page 4
  E|
 -/.
 KLEle: I::I: sgitaylc: reati+ng val: je
@@ -120,7 +117,6 @@ points . A 1 i ~, \ Besponsibti]ity
 REEEE
 Diredor - lQAC
 KLE Techrologlcal unbersfty Hubballl.
- ## Page 5
  KLEte:?::I: gictajcreating val`ie
 _ lj: veragir: g Y.nowledge _ .... __
 Internal Quality Assurance Cell

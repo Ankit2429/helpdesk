@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: mtech-cs-curriculum-2023-25"
+title: "M.Tech-Computer Science and Engineering Curriculum"
 category: "academics"
 subcategory: ""
 document_type: "syllabus"
@@ -11,18 +11,15 @@ language: "en"
 keywords: ["course", "curriculum", "data", "document", "marks", "mtech", "total", "using"]
 aliases: ["HOD", "Head of Department", "CSE", "CS", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "56"
 ---
-# PDF Document: mtech-cs-curriculum-2023-25
- **PDF Source:** https://www.kletech.ac.in/pdf/mtech-cs-curriculum-2023-25.pdf
- ## Page 1
- FMCD2009 / 2.0 
- 1 
+**PDF Source:** https://www.kletech.ac.in/pdf/mtech-cs-curriculum-2023-25.pdf
+
   Curriculum Structure and Curriculum Content for the Academic year: 2023-25 
 School: Computer Science and Engineering 
 Program: M.Tech-Computer Science and Engineering 
-  ## Page 2
- FMCD2009 / 2.0 
- 2 
+
   Table of Contents 
 Vision and Mission of KLE Technological University 3 
 Vision and Mission Statements of the School / Department 4 
@@ -32,9 +29,7 @@ Curriculum Structure-Overall 6
 Curriculum Structure-Semester wise 7 
 List of Program Electives 12 
 Curriculum Content- Course wise 13 
-  ## Page 3
- FMCD2009 / 2.0 
- 3 
+
   Vision and Mission Statements of the KLE Technological University 
   Vision 
   KLE Technological University will be a national leader in Higher 
@@ -56,9 +51,7 @@ contributing ou r expertise, experience and leadership, to enhance
 competitiveness and quality of life. 
   As a unified community of faculty, staff and students, we work together with 
 the spirit of collaboration and partnership to accomplish our mission. 
-  ## Page 4
- FMCD2009 / 2.0 
- 4 
+
 Vision and Mission Statements of the Department/School 
   Department Vision 
 The KLE Tech - School of Computer Science will excel and lead in education, 
@@ -73,9 +66,7 @@ information technology businesses and occupations.
 innovations leading to the future of computing technologies. 
  To collaborate within and beyond discipline to create soluti ons that 
 benefit humanity and society. 
-  ## Page 5
- FMCD2009 / 2.0 
- 5 
+
 Consolidated View of Program Educational Objectives (PEOs) /Program Outcomes (POs) and Program-Specific Objectives (PSOs) 
   Program Educational Objectives (PEO) Program Outcomes (PO) 
   Program Specific 
@@ -113,9 +104,7 @@ PO5: An ability to work with integrity and ethics in their
 professional practicehaving an understanding of 
 responsibility towards society with 
 sustainabledevelopment for life time. 
-  ## Page 6
- FMCD2009 / 2.0 
- 6 
+
 Curriculum Structure-Overall 
   Semester Total Program Credit: 88 Year: 2023-25 
 Courses Semester wise 
@@ -160,9 +149,7 @@ Mini Project
  Web Technology Laboratory 
 21ECSP708(0-0-2) 
 Credits 23 25 20 20 
- ## Page 7
- FMCD2009 / 2.0 
- 7 
+
 Curriculum Scheme - Semester wise 
 Semester: I 
   Note: L: Lecture T: Tutorials P: Practical, ISA: In Semester Assessment ESA: End Semester Assessment 
@@ -183,9 +170,7 @@ TOTAL
     23 
 (15-0-8) 
 23 31 410 290 700 
- ## Page 8
- FMCD2009 / 2.0 
- 8 
+
 Semester - II 
 Note: L: Lecture T: Tutorials P: Practical, ISA: In Semester Assessment ESA: End Semester Assessment PJ-Project, PC-Programme Core, PE-
 Programme Elective 
@@ -207,9 +192,7 @@ PE 2-0-1 3 4 50 50 100 3 Hours 23ECSE701 Block-chain and Distributed Ledgers
 7 21ECSW718 Mini Project PC 0-0-3 3 6 50 50 100 3 Hours 
 8 21ECSP708 Web Technology Laboratory PC 0-0-2 2 4 80 20 100 3 Hours 
 TOTAL 25(14-0-11) 25 36 430 370 800 
- ## Page 9
- FMCD2009 / 2.0 
- 9 
+
 Semester: III 
   Note: L: Lecture T: Tutorials P: Practical, ISA: In Semester Assessment ESA: End Semester Assessment PJ-Project 
   Date: P G Coordinator Head SoCSE 
@@ -220,9 +203,7 @@ Hours ISA ESA Total Exam
 2 21ECSW802 Minor Project PJ 0-0-12 12 24 50 50 100 3 hours 
             TOTAL 20 
 (0-0-20) 20 40 100 100 200 
- ## Page 10
- FMCD2009 / 2.0 
- 10 
+
 Semester: IV 
   Note: L: Lecture T: Tutorials P: Practical, ISA: In Semester Assessment ESA: End Semester Assessment PJ-Project, PC-Programme Core, 
 PE-Programme Elective 
@@ -232,23 +213,17 @@ Hours ISA ESA Total Exam
 Duration 
 1 21ECSW803 Project Work PJ 0-0-20 20 40 50 50 100 3 hours 
 TOTAL 0-0-20 20 40 
- ## Page 11
- FMCD2009 / 2.0 
- 11 
+
 Consolidated Credits of all semesters: 
 Semester I II III IV Total 
 Credits 23 25 20 20 88 
-  ## Page 12
- FMCD2009 / 2.0 
- 12 
+
 List of Program Electives 
 Sr. No Name of the Course Course Code 
 1. Deep Learning 21ECSE715 
 2. Block-chain and Distributed Ledgers 23ECSE701 
 3. High Performance Computing 21ECSE717 
-  ## Page 13
- FMCD2009 / 2.0 
- 13 
+
 Curriculum Content- Course wise 
 I SEMSETER 
 Program: Master of Technology Semester I 
@@ -286,9 +261,7 @@ populations, Inference on two population proportions.
 5 Simple Linear Regression and Correlation 
 Simple Linear Regression, Properties of Least square Estimators and 
 06 hrs 
- ## Page 14
- FMCD2009 / 2.0 
- 14 
+
 Estimation of Variances, Transformations to a Straight line, Correlation, 
 Multiple linear regression model, Least square Estimation of 
 parameters, Matrix approach to multiple linear regression, Properties 
@@ -326,10 +299,7 @@ sessions/batch
 8. Simple linear regression and polynomial regression 02 
 9. Multiple linear regression 01 
 10. Hands-on activity on Data analysis 02 
-   Back 
- ## Page 15
- FMCD2009 / 2.0 
- 15 
+
 Program: Master of Technology Semester I 
 Course Title: Data Mining and Machine Learning Course Code: 21ECSC702 
 L-T-P : 3-0-1 Credits: 4 Contact Hrs: 5hrs/week 
@@ -371,9 +341,7 @@ regression.
  Partitioning methods, Hierarchical Methods, Density based methods, 
 Outlier Detection. 
 8 hrs 
- ## Page 16
- FMCD2009 / 2.0 
- 16 
+
  Chapter- 6: Social Network Analysis 
 Graph mining, Mining Variant and Constrained Substructure Patterns, 
 Social networks: Characteristics, Tasks and Challenges. 
@@ -407,10 +375,7 @@ algorithms
 6. Seminar on Advanced topics of data mining 
 and machine learning. 
 2 
- Back 
- ## Page 17
- FMCD2009 / 2.0 
- 17 
+
 Program: Master of Technology Semester I 
 Course Title: Computer Networks Course Code: 21ECSC703 
 L-T-P-Self Study: 3-0-1 Credits: 4 Contact Hrs: 5 hr/week 
@@ -453,9 +418,7 @@ Hall, 2015.
 Pearson , 2020. 
 3. Larry L Peterson & Bruce S Davien, Computer Networks A System Approach, 5th Ed 
 Morgan Kaufmann (Elsevier), 2011. 
- ## Page 18
- FMCD2009 / 2.0 
- 18 
+
   References: 
 1. Behrouz Forouzan, Data Communications and Networking, 5th Ed, McGraw 
 Hill, 2012. 
@@ -492,19 +455,14 @@ connectionless socket programming. 01
 10. Exercise on usage of Wireshark tool to capture packets in 
 the network. 01 
 11. Assessment - 2 01 
- ## Page 19
- FMCD2009 / 2.0 
- 19 
+
 i. Implementation of a given application using socket 
 programming 
 ii. Demonstration of packet captures and network 
 performance analysis using the wireshark tool. 
 12. Develop a mobile application for Bluetooth Client - Server 
 communication using Mit app inventor. 02 
-                  Back 
-  ## Page 20
- FMCD2009 / 2.0 
- 20 
+
 Program: Master of Technology Semester I 
 Course Title: Internet Of Things Course Code: 20ECSC704 
 L-T-P: 3-0-1 Credits: 4 Contact Hrs: 5 hrs/week 
@@ -550,9 +508,7 @@ Universities Press, 2015, ISBN: 9788173719547
 References: 
 1. Getting Started with Raspberry Pi, Matt Richardson & Shawn Wallace, O'Reilly (SPD), 
 2014, ISBN: 9789350239759 
-  ## Page 21
- FMCD2009 / 2.0 
- 21 
+
 Evaluation Scheme 
 ISA Scheme 
 Assessment Weightage in Marks 
@@ -598,10 +554,7 @@ Remote Login
 10 Developing MIT App / Working with website / Controlling devices 
 and Sensors through website using NODE MCU / Raspberry Pi 
 3 
- Back 
- ## Page 22
- FMCD2009 / 2.0 
- 22 
+
 Program: Master of Technology Semester I 
 Course Title: Operating Systems Course Code: 20ECSC705 
 L-T-P: 3-0-1 Credits: 4 Contact Hrs: 5 hrs/week 
@@ -642,9 +595,7 @@ Clock Synchronization, Logical Clocks, Mutual Exclusion, Global
 Positioning Of Nodes, Data-Centric Consistency Models, Client -Centric 
 Consistency Models, Consistency Protocols. 
 7 hrs 
- ## Page 23
- FMCD2009 / 2.0 
- 23 
+
 7 Fault Tolerance, Security: Introduction To Fault Tolerance, Process 
 Resilience,, Reliable Client -Server Communication, Reliable Group 
 Communication, Distrib uted Commit, Recovery, Secure Channels, 
@@ -673,9 +624,7 @@ ISA-1 15
 ISA-2 15 
 Lab Activity 20 
 Total 50 
-  ## Page 24
- FMCD2009 / 2.0 
- 24 
+
 Laboratory Plan 
 Expt/ Job No. Experiment/ Job details No. of Lab 
 sessions/batch 
@@ -694,10 +643,7 @@ and record Locking
 2 
 6. Process synchronization and deadlock 2 
 7. Memory management 2 
-  Back 
-  ## Page 25
- FMCD2009 / 2.0 
- 25 
+
 Program: Master of Technology Semester I 
 Course Title: Problem Solving Laboratory Course Code: 21ECSP706 
 L-T-P: 0-0-1.5 Credits: 1.5 Contact Hrs: 3 hrs/week 
@@ -730,9 +676,7 @@ Exercises (4-Evaluation ) 50
 Structured Enquiry(1-evaluations) 30 
 ESA (20%) - 20 
  Total 100 
- ## Page 26
- FMCD2009 / 2.0 
- 26 
+
 Experiment wise Plan 
  List of experiments/jobs planned to meet the requirements of the course. 
 Category: Demonstration Total Weightage: 0 No. of lab 
@@ -783,9 +727,7 @@ data structures
 course project 
   Chapter 3 
 Category: Exercise Total Weightage: 20 No. of lab 
- ## Page 27
- FMCD2009 / 2.0 
- 27 
+
 sessions: 2 
 Expt./ 
 Job No. 
@@ -843,9 +785,7 @@ The students should be able to:
 application 
  Execute the application on Hanker rank platform 
 Chapter 2 
- ## Page 28
- FMCD2009 / 2.0 
- 28 
+
 20 Implement of given 
 application on online 
 coding platform using 
@@ -890,10 +830,7 @@ The students should be able to:
 data structure 
  Articulate a technical report of course project 
 Chapter 3 
-  Back 
-  ## Page 29
- FMCD2009 / 2.0 
- 29 
+
 Program: Master of Technology Semester I 
 Course Title: Python Programming Laboratory Course Code: 21ECSP707 
 L-T-P: 0-0-1.5 Credits: 1.5 Contact Hrs: 3 hrs/week 
@@ -922,9 +859,7 @@ Exercises (4-Evaluation ) 50
 Structured Enquiry(1-evaluations) 30 
 ESA (20%) 20 
  Total 100 
- ## Page 30
- FMCD2009 / 2.0 
- 30 
+
 Experiment wise Plan 
  List of experiments/jobs planned to meet the requirements of the course. 
 Category: Demonstration Total Weightage: 10 No. of lab 
@@ -969,9 +904,7 @@ theory
 2 Python libraries: Numpy, 
 Pandas 
 4 40 
- ## Page 31
- FMCD2009 / 2.0 
- 31 
+
  Learning Outcomes: 
 The students should be able to: 
 1. Install python libraries. 
@@ -1012,10 +945,7 @@ Machine learning model
   1. Given a task, derive a machine learning model 
 2. Analyse and compare models and algorithms with respect to 
 their complexity, performance and applicability. 
-   Back 
-  ## Page 32
- FMCD2009 / 2.0 
- 32 
+
 II SEMSTER 
 Program: Master of Technology Semester II 
 Course Title: Design and Analysis of Algorithms Course Code: 21ECSC709 
@@ -1047,9 +977,7 @@ Approximation algorithms and Randomized algorithms.
 NP- Hard and NP Complete: Examples, proof of NP -hardness and NP -
 completeness. 
 15hrs 
- ## Page 33
- FMCD2009 / 2.0 
- 33 
+
 Reference Books: 
 1. Introduction to Design and Analysis of Algorithms - Anany Levitin 3rd Edition, 
 Pearson, 2012 
@@ -1079,10 +1007,7 @@ Subsequence
 8. Design, implement and analyze the algorithm for 
 given problem 
 2 
-   Back 
-  ## Page 34
- FMCD2009 / 2.0 
- 34 
+
 Program: Master of Technology Semester II 
 Course Title: Distributed and Cloud Computing Course Code: 20ECSC710 
 L-T-P: 2-0-1 Credits: 3 Contact Hrs: 4 hrs/week 
@@ -1124,9 +1049,7 @@ Cloud security risks, Security; the top concern for cloud users, Privacy;
 privacy impact assessment, Trust, Operating system security, Security of 
 virtualization, Security risks posed by shared images, Security risks 
 05hrs 
- ## Page 35
- FMCD2009 / 2.0 
- 35 
+
 posed by a management OS, Xoar - breaking the monolithic design of 
 the TCB, A trusted virtual machine monitor. 
 Text Books: 
@@ -1163,10 +1086,7 @@ Dockers
 5 Implementation of Cloud resource 
 scheduling and security mechanisms 
 04 
- Back 
- ## Page 36
- FMCD2009 / 2.0 
- 36 
+
 Program: Master of Technology Semester II 
 Course Title: Big Data Analytics Course Code: 20ECSC711 
 L-T-P : 2-0-1 Credits: 3 Contact Hrs: 04 hrs/week 
@@ -1206,9 +1126,7 @@ Steps, A Text Analysis Example, Collecting Raw Text, Representing Text,
 Term Frequency -Inverse Document Frequency (TFIDF), Categorizing 
 Documents by Topics, Determining Sentiments. 
 04hrs 
-  ## Page 37
- FMCD2009 / 2.0 
- 37 
+
 Text Books (List of books as mentioned in the approved syllabus) 
 1. EMC Education Services, "Data Science and Big Data Analytics: Discovering, Analyzing, 
 Visualizing and Presenting Data", Wiley Publications. 
@@ -1243,9 +1161,7 @@ b) Assessment of resources available(2M):
 i. Data 
 ii. People 
 2 
- ## Page 38
- FMCD2009 / 2.0 
- 38 
+
 iii. Technology 
 iv. Time 
 c) Framing the Problem(Identifying Issue to be addressed)(2M) 
@@ -1261,10 +1177,7 @@ Data Visualization(3M)
 4. Design and Model Selection 2 
 5. Implementation 4 
 6. Presentation and Report 2 
-  Back 
-  ## Page 39
- FMCD2009 / 2.0 
- 39 
+
 Program: Master of Technology Semester II 
 Course Title: Cryptography and Network Security Course Code: 21ECSC701 
 L-T-P: 3-0-1 Credits: 4 Contact Hrs: 5 hrs/week 
@@ -1308,9 +1221,7 @@ phases of operation, WPA and WPA2
 06 hrs 
 Text Books: 
 1. William Stallings, "Cryptography and Network Security Principles And Practices", 7th 
- ## Page 40
- FMCD2009 / 2.0 
- 40 
+
 Edition, Pearson, 2017. 
 Reference Books: 
 1. Jonathan Katz and Yehuda Lindell, "Introduction to Modern Cryptography", 3rd 
@@ -1338,10 +1249,7 @@ algorithm
 6. Seminar on research papers : Advanced 
 topics of cryptography and network security 
 3 
-   Back
-  ## Page 41
- FMCD2009 / 2.0 
- 41 
+
   Program: Master of Technology Semester II 
 Course Title: Image and Video Processing Course Code: 21ECSC713 
 L-T-P: 2-0-1 Credits: 3 Contact Hrs: 4 hrs/week 
@@ -1377,9 +1285,7 @@ estimation.
 change detection, Motion segmentation, Motion tracking in video : Rigid 
 object tracking and articulated object tracking 
 04hrs 
- ## Page 42
- FMCD2009 / 2.0 
- 42 
+
 Text Books: 
 1. R. C. Gonzalez and R. E. Woods, "Digital Image Processing," 3rd edition, Pearson 
 Education(Asia) Pte. Ltd/Prentice Hall of India, 2009. 
@@ -1415,10 +1321,7 @@ algorithm.
 Video segmentation 
 02 
 7. Course project reviews 02 
-   Back 
- ## Page 43
- FMCD2009 / 2.0 
- 43 
+
 Program: Master of Technology Semester II 
 Course Code: 21ECSE715 Course Title: Deep Learning 
 L-T-P : 2-0-1 Credits: 3 Contact Hrs: 4 hrs/week 
@@ -1453,9 +1356,7 @@ Text Books
 1. Ian Goodfellow, Yoshua Bengio, Aaron Courville, "Deep Learning," MIT Press 
 References 
 4. NPTEL Course Materials. 
- ## Page 44
- FMCD2009 / 2.0 
- 44 
+
 Evaluation Scheme 
 ISA Scheme 
 Assessment Weightage in Marks 
@@ -1477,10 +1378,7 @@ sessions
 7. Compare DNN architectures performance for a task 01 
 8. Sentiment analysis using RNN 02 
 9. Course Project 04 
-   Back 
-  ## Page 45
- FMCD2009 / 2.0 
- 45 
+
 Program: Master of Technology Semester II 
 Course Title: Blockchain and Distributed Ledgers Course Code: 23ECSE701 
 L-T-P: 2-0-1 Credits: 3 Contact Hrs: 4 hrs/week 
@@ -1526,9 +1424,7 @@ Edition, Inverted Forest Publishing, 2019
 1st Edition, O'Reilly Media, 2018. 
 4. Matt Zand, Xun Wu, Mark Anthony Morris, "Hands -On Smart Contract Development 
 with Hyperledger Fabric V2", 1st Edition, O'Reilly Media, 2018. 
-  ## Page 46
- FMCD2009 / 2.0 
- 46 
+
 Evaluation Parameters for Course Project 
   Assessment Rubrics 
 parameters Marks BL PI 
@@ -1567,10 +1463,7 @@ Metamask/Myetherwallet
 6. IPFS with Ethereum for data storage 1 
 7. Hyperledger Fabric Demo 1 
 8. Course Project 6 
-  Back 
-  ## Page 47
- FMCD2009 / 2.0 
- 47 
+
 Program: Master of Technology Semester II 
 Course Title: Mini Project Course Code: 21ECSW718 
 L-T-P: 0-0-3 Credits: 3 Contact Hrs: 3 hrs/week 
@@ -1606,10 +1499,7 @@ Implementation
 4. Review 2 01 
 5. Result discussion and report writing 08 
 6. Review 3 01 
-   Back 
-  ## Page 48
- FMCD2009 / 2.0 
- 48 
+
 Program: Master of Technology Semester II 
 Course Title: Web Technology Laboratory Course Code: 21ECSP708 
 L-T-P: 0-0-2 Credits: 2 Contact Hrs: 4 hrs/week 
@@ -1643,9 +1533,7 @@ Exercises (4-Evaluation ) 40
 Structured Enquiry(1-evaluations) 40 
 ESA (20%) - 20 
 Total 100 
- ## Page 49
- FMCD2009 / 2.0 
- 49 
+
 Experiment wise Plan 
  List of experiments/jobs planned to meet the requirements of the course. 
 Category: Demonstration Total Weightage: 0.00 No. of lab sessions: 8 
@@ -1681,9 +1569,7 @@ Chapter2
 2. Use basic building blocks of Rails framework- 
 Models, Views, Controllers 
 Chapter 3 
- ## Page 50
- FMCD2009 / 2.0 
- 50 
+
 Category: Exercise Total Weightage: 40.00 No. of lab sessions: 4 
 Expt./ 
 Job No. 
@@ -1720,9 +1606,7 @@ of Ruby on Rails.
 2. Use basic building blocks of Rails framework- 
 Models, Views, Controllers 
 Chapter 3 
- ## Page 51
- FMCD2009 / 2.0 
- 51 
+
 Category: Structured Enquiry Total Weightage: 40.00 No. of lab sessions: 2 
 Expt./ 
 Job No. 
@@ -1749,10 +1633,7 @@ Chapter 2
 2. Identify their own learning issues and to work on 
 those issues. 
 Chapter 3 
-   Back 
-  ## Page 52
- FMCD2009 / 2.0 
- 52 
+
 Semester III 
 Program: Master of Technology Semester III 
  Course Title : Industrial/ In-House Training Course Code: 21ECSW801 
@@ -1793,10 +1674,7 @@ experiments 08
 4. Review 2 01 
 5. Development of Application with Result Discussion 07 
 6. Review 3 01 
-   Back 
-  ## Page 53
- FMCD2009 / 2.0 
- 53 
+
   Program: Master of Technology Semester III 
    Course Title : Minor Project Course Code: 21ECSW802 
  L-T-P: 0-0-8 Credits: 08 Contact Hrs: 24 hrs/week 
@@ -1823,9 +1701,7 @@ ISA (50) Assessment Weightage in Marks
  Review 3 20 
 ESA (50) -- 50 
  Total 100 
-  ## Page 54
- FMCD2009 / 2.0 
- 54 
+
 Laboratory Plan 
 Expt/ Job 
 No. 
@@ -1840,10 +1716,7 @@ Implementation
 4. Review 2 01 
 5. Result discussion, report and paper writing 36 
 6. Review 3 01 
-   Back 
-  ## Page 55
- FMCD2009 / 2.0 
- 55 
+
 Semester IV 
 Program: Master of Technology Semester IV 
  Course Title : Project Work Course Code: 21ECSW803 
@@ -1872,9 +1745,7 @@ ISA (50) Assessment Weightage in Marks
  Review 3 15 
 ESA (50) -- 50 
  Total 100 
-  ## Page 56
- FMCD2009 / 2.0 
- 56 
+
 Laboratory Plan 
 Expt/ Job 
 No. 
@@ -1890,6 +1761,4 @@ Implementation
 54 
 4. Review 2 01 
 5. Result discussion, report and paper writing 54 
-6. Review 3 01 
-  Back 
-  
+6. Review 3 01

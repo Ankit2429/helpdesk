@@ -14,4 +14,3 @@ last_modified: "2026-07-28"
 ---
 # Curriculum and Syllabus
  **Source URL:** https://www.kletech.ac.in/curriculum-and-syllabus
- 

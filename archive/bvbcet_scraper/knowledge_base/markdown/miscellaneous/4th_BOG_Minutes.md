@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 4th_BOG_Minutes"
+title: "BOG Minutes"
 category: "miscellaneous"
 subcategory: ""
 document_type: "minutes"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["approve", "council", "document", "engineering", "member", "university"]
 aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE", "KLETech", "KLE Tech", "BVB", "BVBCET"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "11"
 ---
-# PDF Document: 4th_BOG_Minutes
- **PDF Source:** https://www.kletech.ac.in/pdf/4th_BOG_Minutes.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/4th_BOG_Minutes.pdf
  i 
   Minutes 
 4th Board of Governors Meeting 
@@ -22,7 +22,6 @@ of
 KLE Technological University 
 Hubballi, Karnataka 
 April 05, 2016 
-  ## Page 2
  ii 
   The following are the minutes of the Board of Governors Meeting of KLE 
 Technological University, Hubballi which was held on 5th April 2016 at 10 
@@ -70,7 +69,6 @@ Member
 Chairperson, Infosys Foundation, Bengaluru. 
 Nominee of sponsoring body, KLE Society. 
 Member 
-  ## Page 3
  iii 
   AGENDA 
   Sl.No. Particulars Page No. 
@@ -90,7 +88,6 @@ year 2016-17
  Any other subject with the permission of the Chair. 
 Table Agenda 1 : To Constitute the Estate Council 
 7 
-  ## Page 4
  1 
   Agenda 4.1 
 To read and confirm the minutes of the meeting of the Board of Governors 
@@ -177,7 +174,6 @@ been asked to do pre-
 registration during 
 28th to 31 st March 
 2016. 
-  ## Page 5
  2 
   Departments and Center; 
 i. School of Mechanical 
@@ -237,7 +233,6 @@ Minor discipline
 courses from the 
 academic year 2016-
 17. 
- ## Page 6
  3 
   Agenda 3.5 
 To consider & approve the 
@@ -317,7 +312,6 @@ of faculty.
 Resolved to defer the 
 appointments of faculty. 
 -- 
- ## Page 7
  4 
   Agenda 3.10 
 To consider the issues of 
@@ -369,7 +363,6 @@ Resolution 4.3: The results of the I sem of all programs were reviewed.
 Agenda 4.4 
 To consider & approve the Budget for the year 2016-17 
 Resolution 4.4: Resolved to approve the Budget for the year 2016-17. 
- ## Page 8
  5 
   Agenda 4.5 
 To review the progress of PhD admissions for the year 2016-17 
@@ -399,7 +392,6 @@ Sl. No. Master of Technology Intake in Nos.
 2. Energy systems Engineering 18 
 3. Production Management 18 
 4. Digital Electronics 24 
- ## Page 9
  6 
   5. Computer Science 24 
 6. VLSI Design and Testing 24 
@@ -427,7 +419,6 @@ Sl. No. Master of Technology Intake in Nos.
 1. Structural Engineering 18 
 2. Energy systems Engineering 18 
 3. Production Management 18 
- ## Page 10
  7 
   4. Digital Electronics 24 
 5. Computer Science 24 
@@ -454,7 +445,6 @@ Member
 Prof B. B. Kotturshettar Dean Planning & Development Member 
 Mrs Pooja Kandoi Finance Officer Member 
 Prof M. R. Patil Coordinator, Construction & Member 
- ## Page 11
  8 
    Maintenance Cell 
 Mr Prakash Karennavar Architect Member 
@@ -478,5 +468,4 @@ Prof A. B. Raju HOD - E&E Member
 Sri V. M. Nishandar Resident Engineer KLE Society Belagavi Member 
 Prof B. L. Desai Registrar Member 
 Secretary 
-  Chairman thanked all the members for their contributions. 
-                    
+  Chairman thanked all the members for their contributions.

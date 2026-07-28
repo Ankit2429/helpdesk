@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 3rd_BOG_Minutes"
+title: "BOG Minutes"
 category: "miscellaneous"
 subcategory: ""
 document_type: "syllabus"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["document", "policy", "research", "shall", "tech", "university"]
 aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE", "KLETech", "KLE Tech", "BVB", "BVBCET"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "183"
 ---
-# PDF Document: 3rd_BOG_Minutes
- **PDF Source:** https://www.kletech.ac.in/pdf/3rd_BOG_Minutes.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/3rd_BOG_Minutes.pdf
  i 
   Minutes of 
 3rd Board of Governors Meeting 
@@ -22,7 +22,6 @@ of
 KLE Technological University 
 Hubballi, Karnataka 
 December 24, 2015 
-  ## Page 2
  ii 
   The following are the minutes of the Board of Governors Meeting of KLE Technological 
 University, Hubballi which was held on 24th December 2015 at 2 pm at the chamber of KLE 
@@ -108,7 +107,6 @@ Medical Education,
 Government Of 
 Karnataka. 
 Member 
- ## Page 3
  iii 
   AGENDA 
 Sl. 
@@ -147,7 +145,6 @@ per the provisions of 'KLE Technological University Act -2012
 3. 10 To consider the issues of transfer of faculty from B. V. Bhoomaraddi College of 
 Engg. & Tech. to KLE Technological University. 
 9 
- ## Page 4
  iv 
   3. 11 Any other subject with the permission of the Chair. 
 Table Agenda : To constitute an expert committee to frame and review regulations 
@@ -180,7 +177,6 @@ provisions of 'KLE Technological University Act - 2012']
  Annexure 9 : [List of faculty and staff transferred from BVB College of Engineering 
 and Technology to KLE Technological University] 
   174 
- ## Page 5
  1 
 Agenda 3.1 
 To read and confirm the minutes of the meeting of the Board of Governors held on 
@@ -243,7 +239,6 @@ The approved items are
 being implemented 
 from the academic year 
 2015-16 
-  ## Page 6
  2 
 and Prizes of KLE 
 Technological 
@@ -309,7 +304,6 @@ various academic
 programs of the 
 University from the 
 academic year 2015-16 
-  ## Page 7
  3 
 Agenda 3.3 
 To consider & approve the University's 
@@ -343,7 +337,6 @@ vii. School of Management Studies and Research
 viii. Centre for Engineering Education Research 
 (D): Resolved to approve the Regulations Governing Research Programs [PhD & 
 MS (Engg.) by Research] (Annexure 3 and 4). of KLE Technological University 
- ## Page 8
  4 
 framed and approved by Academic Council and the Executive Council, as per the 
 provisions of KLE Technological University Act -2012. 
@@ -358,7 +351,6 @@ presented in Annexure - 5.
   Resolution 3.4: Resolved to approve the Regulations Governing Minor disciplines 
 in the Undergraduate programs framed and approved by Academic Council and the 
 Executive Council, as per the provisions of 'KLE Technological University Act -2012. 
- ## Page 9
  5 
   Agenda 3.5 
 To consider & approve the Institution of Bachelor of Science (B.Sc.) Industry 
@@ -384,7 +376,6 @@ presented by the Registrar during the meeting.
   Action Requested: To consider and approve the Institution of the Industry-
 Integrated Diploma Sandwich Programme approved by Academic Council and the 
 Executive Council, as per the provisions of 'KLE Technological University Act -2012'. 
-  ## Page 10
  6 
 Resolution 3.6: Resolved to defer the Institution of the Industry-Integrated Diploma 
 Sandwich Programme approved by Academic Council and the Executive Council. 
@@ -409,7 +400,6 @@ The proposed composition of the 'Research Council' is presented in Annexure - 7
 Resolution 3.7: Resolved to approve the constitution of the Research Council. 
   Agenda 3.8 
 To consider the constitution of the Finance Council. 
- ## Page 11
  7 
 Composition of the 'Finance Council' as per the 'KLE Technological University Act - 
 2012' and the First Statutes of KLE Technological University is as follows: 
@@ -426,7 +416,6 @@ i) The Pro Vice Chancellor - Member
   The proposed composition of the 'Finance Council' is presented in Annexure - 8 
   Action Requested: To consider the constitution of the Finance Council. 
   Resolution: Resolved to approve the constitution of the Finance Council. 
- ## Page 12
  8 
 Agenda 3.9 
   To consider the appointments of faculty. 
@@ -435,7 +424,6 @@ academic programs from the academic year 2015-16 and to meet the academic requir
 faculty members and staff members need to be appointed. 
   Action Requested: To consider and ratify the appointments of faculty. 
   Resolution 3.9: Resolved to defer the appointments of faculty. 
-  ## Page 13
  9 
 Agenda 3.10 
 To consider the issues of transfer of faculty from B.V. Bhoomaraddi College of Engg. 
@@ -450,7 +438,6 @@ Annexure-9)
 Bhoomaraddi College of Engg. & Tech. to KLE Technological University. 
   Resolution: Resolved to ratify transfer of faculty from B.V. Bhoomaraddi College of 
 Engg. & Tech. to KLE Technological University. 
- ## Page 14
  10 
   Agenda 3.11 
 Any other subject with the permission of the Chair. 
@@ -463,11 +450,9 @@ requirement of clause 36 of KLE Technological University Act - 2012
 1. Prof M. I. Savadatti, Former Vice Chancellor, Mangalore University 
 2. Prof. B.S. Sondhe, Former Vice Chancellor, Goa University and 
 3. Prof. R. Natarajan, Former Chairman AICTE & Former Director IIT Madras 
-  ## Page 15
  11 
   ANNEXURE -1 
 [University's research, consultancy, and IPR policy] 
- ## Page 16
  12 
   Research, Consultancy and IPR Policy 
   of 
@@ -475,7 +460,6 @@ KLE TECHNOLOGICAL UNIVERSITY
 2015 
   As approved in the 3rd BOG held on 24 December, 2015 
 (Established under Karnataka Act No.22, 2013) 
-  ## Page 17
  13 
   Contents 
   I Research Policy 
@@ -514,7 +498,6 @@ KLE TECHNOLOGICAL UNIVERSITY
 6. 9 Adverse Events ............................................................................................................ 29 
 6. 10 Misconduct ................................................................................................................. 29 
 7 Research Extension and Collaboration activities 
- ## Page 18
  14 
 7. 1 Research Extension and Collaboration activities ........................................................ 30 
 7. 2 Student - Society ........................................................................................................ 30 
@@ -532,10 +515,8 @@ II Consultancy policy
 (Patents, Trademarks, Design rights and related) …………44 
 10. 3 The Expressions IP Policy 
 10. 4 Annexure ...................................................................................... ………………..51 
- ## Page 19
  15 
   Part I Research Policy 
-  ## Page 20
  16 
   Chapter 1 
 Introduction and Purpose 
@@ -572,7 +553,6 @@ competent academic labor force.
 Thus, one needs to emphasize on the necessity of research-oriented teaching. Educators 
 engaged in research are updated with lathe test developments in their chosen subjects 
 apart from all that is mentioned in the reference books. Thus, educators familiar with 
- ## Page 21
  17 
 research-based teaching can help students to undertake research activities. This 
 commitment to research is aligned with the national imperative to encourage more 
@@ -611,7 +591,6 @@ activities, the structure of the research and development activities, and code o
 conduct of research. Sections 5 to 10 provide different policies and schemes for a 
 research promotion, resource mobilization, Innovation eco-system, research 
 publications, consultancy, collaborations and outreach (Ex- 
- ## Page 22
  18 
 tension) activities. The last section provides formats and different guidelines for the 
 operational aspects of research and development activities. 
@@ -642,7 +621,6 @@ to give effect to the Research Mission statement and the con- comitant core valu
 proposed strategy has been informed by a range of imperatives both external and 
 internal to the university, and is described within the framework of the National R&D 
 Strategy. 
-  ## Page 23
  19 
   2. 1 Goal impactful Research 
   As the institutional goal, KLE Tech will actively nurture and organize its research 
@@ -675,7 +653,6 @@ societal needs.
 a Promote and support interdisciplinary research and development centers, that 
 leverage breadth of our expertise to address the complex problems faced by our 
 nation and the world. 
- ## Page 24
  20 
 b Ensure that these centers give priority to problems/opportunity-focused 
 projects/products that demonstrate successful interdisciplinary collabora- tion 
@@ -702,7 +679,6 @@ including the participation of undergraduate and postgraduate students in the
 University research programs. 
 c Evolve innovative enrollment strategies to recruit and support full time 
 researchers and personnel from industry 
- ## Page 25
  21 
 Chapter 3 Structure of R & D 
 The research promotion and development activities of the university is supported and 
@@ -734,7 +710,6 @@ iiThe Pro Vice Chancellor - Member
 iiiHead of the Department of Innovation - Member ivDeans of all Faculties - 
 Members and Such other members as may be specified in the Statutes. viThe Dean 
 of Research - Member Secretary 
-  ## Page 26
  22 
   3. 2 Funding policy of R & D activities 
 KLE Tech shall provide 5% of total revenue for R & D activities as approved by the Board of 
@@ -756,7 +731,6 @@ Research Center Research Centre encompasses the research activities at the
 school/department level. There can be multiple areas of re- search pertaining to 
 the disciplines based on the faculty expertise available in the department. These 
 centers will also focus on offering of formal degree 
- ## Page 27
  23 
 like MS and PhD. They will also contribute towards imparting research experience 
 for UG and PG students via programs like Research Experience for Undergraduates 
@@ -769,7 +743,6 @@ place of 2 electives.
 iv External funded projects: The University has set rules to carry out external 
 funded research and consultancy projects. The faculty as a Prin- ciple Investigator 
 (PI) can write and get the external funded research and consultancy projects. 
- ## Page 28
  24 
   Chapter 4 
 Initiations to promote R & D activities 
@@ -803,7 +776,6 @@ and the ecosystem. The different faculty groups are: Research Groups (RG), Resea
 Product Design and Development Groups ( PDDG ), Faculty Student Start-up Groups (FSSG). These groups 
 eventu- ally lead to recognition as CoEs and.or Startups. 
 1. Human resource for each research group may recruit Research Associates 
- ## Page 29
  25 
 (junior or senior) to carry out the research activities of the cluster/group. 
 2. Each research group needs to provide roadmap for 3 years. Fund release for the 
@@ -832,7 +804,6 @@ of activities which are funded.
 • Facility creation for Product design 
 • Incentive for R & D activities 
 The following section give brief details about these activities. 
- ## Page 30
  26 
 4. 4.1 Capacity Building fund 
 Capacity Building fund is the seed money provided to the individual faculty to initiate 
@@ -867,7 +838,6 @@ RCs contribute towards publications, funded re- search and consultancy projects,
 patents, etc. before elevating to a CoE. The CoEs will collaboratively work with 
 University's innovation and entrepreneurship center (CTiE), and product design and 
 development centers (CIPD). 
- ## Page 31
  27 
   4. 4.5 Product Design and Development Grant (PDDG) 
 The Product Design and Development Grant (PDDG) is given to a faculty or a 
@@ -895,7 +865,6 @@ innovative way.
   Faculty Supervisors 
 Faculty with doctoral degree individually or in a group can submit the research 
 group proposal in the format given by the university. 
-  ## Page 32
  28 
 Process of REU 
 During this course the UG students shall work on a research topic which reflects 
@@ -933,7 +902,6 @@ In order to encourage the faculty, to enhance the research culture and collab-
 orations, KLE Technological University provides financial assistance towards 
 organizing and attending conferences and Faculty development programs. KLE 
 T ech has a process for the review of the policies regarding financial assistance. 
- ## Page 33
  29 
 The faculty who wish to avail financial assistance under this scheme should sub- 
 mit their proposal to the R&D office. The review committee reviews the proposals 
@@ -963,7 +931,6 @@ The university has a transparent and well-planned financial management system in
 which Government and Management are the main sources of funds. The resource 
 mobilization policy focuses on achieving the goals and target of the institution ensuring 
 accountability and transparency. 
- ## Page 34
  30 
   Chapter 5 
 Award for Quality Research Activities 
@@ -986,7 +953,6 @@ research council meeting.
   5. 1.3 
 The application process includes, the submission of the award application by a faculty 
 wish to apply for the awards in the format given by the R & D office. 
-  ## Page 35
  31 
 5. 1.4 
 All the award applications are reviewed by the Incentive Committee and the 
@@ -1015,7 +981,6 @@ University provides awards and incentives to the supervisors of doctoral student
 doctoral students need to be working as a faculty in the University. The supervi- sors can 
 apply after the successful completion and award of doctoral degree to their doctoral 
 students. 
-  ## Page 36
  32 
   Chapter 6 
 Code of Research and Ethics 
@@ -1053,7 +1018,6 @@ auspices. The Code covers areas such as
 4. Reviewing research for journals or funding bodies or internal purposes 
 5. Supervision and management of students' or researchers' 
 6. Intellectual property (to be read in conjunction with the IP policy) 
- ## Page 37
  33 
 6. 2 Principles and Application 
 1. University expects all research carried out at the University or in its name to be 
@@ -1097,7 +1061,6 @@ vant training and development modules to ensure that all research workers
 are aware of best practice requirements. 
 7. The University recognizes and protects the principle of academic freedom 
 in its Ordinances. 
- ## Page 38
  34 
   6. 3 Integrity and Accountability 
 1. Everyone involved in research in the University owes a duty of account- ability to 
@@ -1140,7 +1103,6 @@ information provided and disclose any conflicts of interest and any
 areas of limited competence, and must not misuse or misappropriate the 
 content of the material being reviewed. 
 4. Research workers must be honest and lawful in respect of their actions re- 
- ## Page 39
  35 
 lating to research and in response to the actions of other research workers. 
 This applies to the whole range of research activity, outputs and deliv- 
@@ -1184,7 +1146,6 @@ a duty of confidentiality to the individuals concerned,
 wise, research workers must ensure that they have each study partici- 
 pant's explicit informed written consent to obtain, hold and use their 
 personal data, 
- ## Page 40
  36 
 • data security arrangements must be sufficient to prevent unauthorised 
 breaches of confidentiality or unauthorised disclosure of personal 
@@ -1229,7 +1190,6 @@ tion and external communications, including web-sites, e-bulletins, press
 releases, media briefings or other events. The University of Birmingham 
 expects research workers to abide by the University's core principles of 
 openness, transparency and accountability and adopt appropriate ethical 
- ## Page 41
  37 
 and professional standards and responsibilities in their publications as set 
 out below. 
@@ -1275,7 +1235,6 @@ facilitated the collection of material or data on which the publication is
 based or who have assisted in producing the publications. Those identified 
 should be approached for permission if it is intended to acknowledge their 
 assistance in the publication, and they should be offered the opportunity of 
- ## Page 42
  38 
 seeing the publication. 
 9. A publication which is substantially similar to other publications derived 
@@ -1314,7 +1273,6 @@ PI.
 3. Preparation and Submission of the Proposal The project proposal should be 
 formulated according to the format prescribed by the concerned funding 
 Agency and submitted to the R & D Cell of the University for further 
- ## Page 43
  39 
 processing. No proposal shall be submitted by the PI directly to the funding 
 agency without the information to the R & D cell. 
@@ -1349,12 +1307,10 @@ conduct.
 2. Researchers and other members of Staff have a duty to report any breach 
 of this Code where they have good reason to believe it is occurring, to the 
 Head of College or some other person in authority. 
- ## Page 44
  40 
 3. The University considers an accusation of research misconduct to be within 
 its remit and suitable for consideration according to its relevant disciplinary 
 procedures. 
- ## Page 45
  41 
 Chapter 7 
 Research Extension and Collaboration activities 
@@ -1385,7 +1341,6 @@ them.
 7. 2.2 
 Encourage and support the students to take up projects that have distinctive fea- 
 tures of community engagement, and benefit the local and regional communities. 
- ## Page 46
  42 
 7. 2.3 
 Encourage and support students to take up entrepreneurial initiatives of relevance 
@@ -1411,16 +1366,13 @@ entrepreneurial activities leading to start-up company creations and employment.
   7. 4.2 
 Engage entrepreneurial communities to create vibrant entrepreneurial ecosystem 
 in the campus and in the region. 
- ## Page 47
  43 
   7. 4.3 
 Promote and support technological innovation and research by students and 
 faculty leading to solutions that address wide range of societal needs and also 
 create value for the new enterprises. 
- ## Page 48
  44 
   Part II Consultancy policy 
- ## Page 49
  45 
   Chapter 8 Consultancy policy 
 8. 1 MoUs 
@@ -1442,7 +1394,6 @@ Here faculty visits outside, uses intellectual developments due to the developme
 leave. Depending upon the categories it is proposed to have the following distribution of financial gain 
 • * The internal distribution shall depend on the project and agreement on 
 case by case basis. 
- ## Page 50
  46 
   Category / party Category I** Category II 
 **** 
@@ -1452,10 +1403,8 @@ Faculty/ Staff* 43% 60% 70%
 Administrative cost 7% 10% 10% 
   • ** In special cases the share may be different depending upon the agreement 
 Administrative cost Head of the Institution, Head of Department /School/ office staff* 
-  ## Page 51
  47 
   Part III IP Policy 
- ## Page 52
  48 
 Chapter 9 
 The University IP Policy states the procedure to be followed in the administration of 
@@ -1466,7 +1415,6 @@ as per the requirements and developments of the University and IP rules and regu
 of India. 
   IP policy also eludes to various agreements to transfer, share and monetize IP 
 rights. The following documents are part of the IP policy 
-  ## Page 53
  49 
 Part A- IP Policy Preamble 
   This policy concerning Intellectual Property of KLE Tech is aligned to the vision and mission of 
@@ -1488,7 +1436,6 @@ presents the generic position of KLE Tech. The Inventions related IP Policy rela
 design, layout, trademark, bio-diversity and related rights whilst the Expressions related IP 
 detail the sub pro- cesses, various situations and required documentation will be included as 
 part of the implementation of this policy. 
- ## Page 54
  50 
 Chapter 10 
 Part B- The KLE Tech Hubballi Intellectual Property (IP) Policy 
@@ -1518,7 +1465,6 @@ Personnel. KLE Tech owns all the Intellectual Property (IP) that is produced by 
 Tech personnel and external stake-holders who use significant resources of KLE 
 Tech. Refer to the detailed relevant IP Inventions Policy (Part C) and Expression 
 Policy (Part D) for exceptions. KLE Tech reserves 
- ## Page 55
  51 
 the right to apply for IP protection in India/throughout the world/specific 
 countries for suitable protection of the IP generated. KLE Tech will also 
@@ -1554,7 +1500,6 @@ KLE Tech related activities. KLE Tech identifies the relevant statutory and othe
 Integrated Circuit, Plant Varieties and rest towards registration. Disclosure 
 enables prompt action by KLE Tech to appropriately protect and disseminate the 
 research activities occurring at KLE Tech. 
- ## Page 56
  52 
 All requests/claims for IP must be routed through the office of Dean R&D, and 
 appropriate approvals taken before-hand. 
@@ -1593,7 +1538,6 @@ Irrespective of the license provided, KLE Tech retains the right for
 research exemption and experimental use for patents, design rights 
 perpetual license towards it basic objective of academics and enhanc- ing 
 research. This will include the right to publish, use of technical data, the method, 
- ## Page 57
  53 
 product and related services that has resulted from earlier research which has 
 been licensed for the activities mentioned earlier. 
@@ -1629,7 +1573,6 @@ royalty generation for continuing such license agreement.
 trepreneurship (CTIE) KLE Tech inventors and community inter- ested 
 to incubate the technologies developed have an opportunity through 
 CTIE. Salient features for CTIE incubation model include the following 
- ## Page 58
  54 
 i Nature of license (exclusive, non-exclusive or transfer of know 
 how) will be based on the nature of the technology developed 
@@ -1666,7 +1609,6 @@ obligations and the content created. The policy also supports the need to
 indemnify KLE Tech personnel built into the license agreements for 
 Sponsored research and consultative work. KLE Tech shall retain the right to 
 engage in any litigation concerning its IP and license infringements. 
-  ## Page 59
  55 
 VI Conflict of Interest The inventor(s) are required to disclose 
 potential conflict of interest while undertaking any IP related activity. If 
@@ -1705,7 +1647,6 @@ of IP protection, should usually not have effect for longer than three months
 from the time of notification by KLE Tech to the said agency. 
 The applicability of the IP policy will be covered through appropriate forms 
 to be filled by the KLE Tech personnel. 
- ## Page 60
  56 
   2 Relevant inventions and Ownership 
   Under this policy, title to such inventions including software where appli- cable, 
@@ -1720,7 +1661,6 @@ agreement would among other aspects, include ratio of shar- ing any revenue
 received from commercialization of the said technology amongst the KLE Tech 
 inventors/ creators. Absence of such an agreement will be considered as equal 
 sharing amongst the KLE Tech inventors/ cre- ators. 
- ## Page 61
  57 
 3 Ownership exemption The possibility of exemption to ownership is given in 
 the following cases and KLE Tech reserves the right to revise these ex- 
@@ -1754,7 +1694,6 @@ terms of such agreement is to be considered along with the policy. In the
 absence of any specific mutually agreed IP agreement in such cases, KLE Tech 
 follows its IP policy. 
 iv KLE Tech can assign the IP generated, to the funding agency based 
- ## Page 62
  58 
 on the nature of the technology, funding and specific applications. 
 Under all circumstances, KLE Tech always reserves the right to use the IP 
@@ -1783,7 +1722,6 @@ agencies.
 1 Applicability & Requirements 
 This policy is applicable to all KLE Tech personnel as defined in the overall IP policy 
 and their range of activities during their engagement with KLE Tech such as, but 
- ## Page 63
  59 
 not limited to, teaching, research, distance education, continuing education, 
 consultancy, sponsored work, collaborative activity 
@@ -1815,7 +1753,6 @@ Exemption to ownership is given in the following cases and KLE Tech
 reserves the right to revise these exemptions on a case to case basis. Copy- 
 right being present by default on any material being created, the policy 
 provides the following ownership exemptions to the various creations that 
- ## Page 64
  60 
 treated separately for the various creations identified. 
 Teaching/ Course material 
@@ -1843,7 +1780,6 @@ the display and use of the thesis for academic and research purposes.
 5 In the case of a thesis resulting from external funding, the joint own- 
 ership of the thesis extends to the external supervisor(s).Pending any 
 applicable by default in such cases. 
- ## Page 65
  61 
 6 Both the student and the faculty supervisor(s), where applicable, have the 
 right to first refusal for any further adaptations and other deriva- tive work 
@@ -1873,7 +1809,6 @@ Students who wish to publish their thesis, prior to submission for an aca- demic
 a book or any other type of publication are required to seek a prior written approval from 
 Dean R&D -KLE Tech. 
   * * End of Expressions related IP Policy* * 
- ## Page 66
  62 
   10. 4 Annexure 
 Annexure 1 
@@ -1903,7 +1838,6 @@ related funding, KLE Tech may assert further rights in accordance with its IP
 policies. 
 Access to facilities for external registered students is limited to their related 
 research and is bound by the IP policy of KLE Tech. 
- ## Page 67
  63 
 Annexure 2 
 Disclosure, Assessment and Protection 
@@ -1937,7 +1871,6 @@ case, KLE Tech will initiate appropriate processes.
 2 In the event of KLE Tech not taking up the responsibility of protection 
 of the IP , the inventor/creator(s) may then choose to protect the IP 
 on their own. However the ownership rights shall remain with KLE 
- ## Page 68
  64 
 Tech. In such cases, the cost and revenue sharing will be governed by 
 a separate agreement between KLE Tech and the inventor / creator(s). 
@@ -1957,7 +1890,6 @@ country to the creator(s) based on a request to that effect from the creator(s) 
 internal review. In all cases where IP rights in any specific country have been reassigned 
 to the inventor(s), KLE Tech shall not claim any share of proceeds earned through that IP in 
 that country excepting for the costs already incurred by KLE Tech. 
- ## Page 69
  65 
 Revenue Sharing 
 Net earnings from the commercialization of IP owned by KLE 
@@ -1975,7 +1907,6 @@ separate agreement between KLE Tech and the inventor
 / creator(s). 
 The inventors may at any time by mutual consent revise the distribu- tion of 
 IP earnings agreement. 
- ## Page 70
  66 
 Role of Dean R&D 
 Dean R&D KLE Tech provides guidance, support and resources to all KLE Tech personnel 
@@ -1992,7 +1923,6 @@ awareness on related issues. Dean R&D also provides templates and guidelines for
 contracts, agreements and MOUs governing the effective exploitation of the IP produced 
 by KLE Tech. All such agreements and matters relating to claims, filing, confidentiality, 
 infringements, damages, liabilities and compliance are administered by Dean R&D. 
- ## Page 71
  67 
   Contracts and Agreements 
   All agreements including but not limited to the following categories, for 
@@ -2006,14 +1936,11 @@ Agreement
   Dean R&D acts as the final signing authority in all categories of agreements listed 
 above. Dean R&D facilitates the process of framing such agreements by way of 
 providing templates and services through professional consul- tants. 
-  ## Page 72
  68 
   ANNEXURE - 2 
   [University's IT Policy] 
-  ## Page 73
  69 
        Approved by BOG-3: Dated: 24-12-2015 
- ## Page 74
  70 
   INFOCELL 
 Information Technology Policy 
@@ -2039,7 +1966,6 @@ VIII 3 Email Policy 76
 3. 1.6 Format of Staff and Student Email Addresses ................................................................................... 78 
 3. 1.7 Deleted Accounts ............................................................................................................................... 78 
 3. 1.8 Use of Email Signatures ...................................................................................................................... 79 
- ## Page 75
  71 
 IX 4 IT Backup Policy 80 
 4. 1.1 Purpose of the Policy ......................................................................................................................... 80 
@@ -2068,7 +1994,6 @@ Any suggestions, recommendations, or feedback on the policies and procedures spe
 are welcome. 
 These policies and procedures apply to all employees and students. 
 The policy is approved by the Board of Governance (BoG). 
- ## Page 76
  72 
 KLE Technological University has an extensive and comprehensive policy to bring radical changes 
 in ICT implementation in the fast-changing technological scenario. 
@@ -2086,7 +2011,6 @@ is classified into the following groups:
 7. IT Procurement Policy. 
 8. Bring your own device policy. 
 9. E-waste Policy 
- ## Page 77
  73 
   1 Policy for the use of Software 
 Policy Number: 1.0 
@@ -2119,7 +2043,6 @@ Only software purchased in accordance with the getting software policy is to be 
 campus. 
 Before using any software, the employee must receive instructions on any licensing agreements 
 relating to the software, including any restrictions on the use of the software. 
- ## Page 78
  74 
 All employees must receive training for all new software. It includes new employees to be trained 
 to use existing software appropriately. This will be the responsibility of the lab instructor / IT Cell. 
@@ -2131,7 +2054,6 @@ The unauthorized duplicating, acquiring, or use of software copies is prohibited
 who makes acquires or uses unauthorized copies of software will be referred to The Registrar for 
 condoned within this campus, and The Registrar is authorized to undertake disciplinary action 
 where such event occurs. 
- ## Page 79
  75 
   2 IT Security Policy 
 Policy Number: 2.1 
@@ -2163,7 +2085,6 @@ Antivirus Software and its updating: Computer systems used in the University sho
 have antivirus software installed, and it should be active at all times. The primary user of 
 a computer system is responsible for keeping the computer system compliant with this 
 virus protection policy. 
- ## Page 80
  76 
 Individual users should make sure that respective computer systems have current virus 
 protection software installed and maintained. He/she should make sure that the 
@@ -2198,7 +2119,6 @@ will include:
  compatibility with other systems in use across the Internet; 
  feature rich; 
  powerful administrative interfaces; 
- ## Page 81
  77 
  accessible via browser interface; 
  spam free 
@@ -2234,7 +2154,6 @@ access their email via web browser .
 3. 1.3 Responsibilities of Use of KLE TECH Email Facilities 
 Each person who has access to the email facilities provided by the KLE TECH has the 
 responsibility to use those facilities according to the Acceptable Use of IT policy. 
- ## Page 82
  78 
 3. 1.4 On-line Mailbox Space Management 
 The mailbox space is unlimited for students and Staff. 
@@ -2267,7 +2186,6 @@ combination of letters and incrementing by one for each subsequent student
 with the same combination of letters. 
 3. 1.7 Deleted Accounts 
 3. 1.7a Procedures relating to email when a staff member leaves 
- ## Page 83
  79 
  When a staff member's email account is to be deleted because they leave the KLE 
 TECH, the person requesting the deletion must complete the appropriate form and 
@@ -2297,7 +2215,6 @@ The signature can be added with appropriate syntax
 Do not include drawings, pictures, maps, graphics in your signature or an inspirational or 
 another type of quotation at the end. Such material is unnecessary in business 
 communication and may not be well-received. 
- ## Page 84
  80 
   4 IT Backup Policy 
 Policy Number: 4.1 
@@ -2327,7 +2244,6 @@ through an icon displayed as Z: drive in My Computer on the local machine)
 And a permanent copy is maintained on external hard drive at the end of the 
 semester. The above task is performed by the backup operator. By doing so, we can 
 assure maximum safety of the user data. 
- ## Page 85
  81 
  The backup on the external hard drive is kept or trashed as per the respective 
 department head's decision. 
@@ -2339,7 +2255,6 @@ to the HOD. The previous hard copy containing the passwords needs to be destroye
 automatically carried out daily at 4:15 PM and mailed to the administrator email ID. 
  Student admission/ course registration/ attendance/ fees/ exam all data is stored at 
 the contineo server and replicated on the cloud. 
- ## Page 86
  82 
   5 Software Purchasing Policy 
 Policy Number: 5.1 
@@ -2369,7 +2284,6 @@ directly from the internet.
 IT cell approval is required if open source or freeware software is needed. 
 All open-source or freeware must be compatible with the campus's hardware and software 
 systems. 
- ## Page 87
  83 
   6. Hardware Purchasing Policy 
 Policy Number: 6.1 
@@ -2399,7 +2313,6 @@ The desktop computer system bundle must include:
 Desktop tower 
 The desktop screen of {insert screen size here} 
 Keyboard and mouse You may like to consider stating if these are to be wireless 
- ## Page 88
  84 
 {insert name of the operating system, e.g., Windows 8.1, and software, e.g., Office 2013 
 here} 
@@ -2431,7 +2344,6 @@ Computer peripherals purchased must be compatible with all other computer hardwa
 and software on the campus. 
 The department head can only authorize the purchase of computer peripherals. 
 The standard warranty must support all purchases of computer peripherals 
- ## Page 89
  85 
   7 IT Procurement Procedure 
 Policy Number: 1.1 
@@ -2462,7 +2374,6 @@ vi. The comparative statement is generated from the quotations received based
 on the specification, cost, warranty, payment terms and delivery. 
 vii. The negotiation meeting will be conducted and purchase order is issued to the 
 vendor. 
- ## Page 90
  86 
   8 Bring Your Own Device Policy 
 Policy Number: 8.1 
@@ -2492,7 +2403,6 @@ protected
 security software, etc. 
  Not to share the device with other individuals to protect the campus data access 
 through the device. 
- ## Page 91
  87 
  To abide by KLE Technological University's internet policy for appropriate use and 
 access of internet sites etc. 
@@ -2517,13 +2427,11 @@ site.
 Infocell will initiate the processes the e-waste at the campus. The priority is given to repair and 
 reuse. Later if it is non-repairable and obsolete, then the new item is procured under buyback. 
 Finally, the scrapping of e-waste takes place if the above two clauses did not fit in. 
-  ## Page 92
  88 
   ANNEXURE - 3 
   [The Regulations Governing Research Programmes of KLE Technological 
 University' framed and approved by the Academic Council and the Executive 
 Council, as per the provisions of 'KLE Technological University Act -2012] 
-  ## Page 93
  89 
   Regulations 
 Governing 
@@ -2532,7 +2440,6 @@ of
 KLE Technological University 
 2015 
   KLE Technological University 
-  ## Page 94
  90 
 (Established under Karnataka Act No.22, 2013) 
   1 MS/ 
@@ -2584,7 +2491,6 @@ Member
 - Member 
 • ONE member from society at large, 
 nominated by the Vice-Chancellor- 
- ## Page 95
  91 
 Member 
   iii Tenure and Frequency of meeting of Admission 
@@ -2639,7 +2545,6 @@ as required
 The SRC shall be formed for each of the provisionally 
 registered PhD candidate. 
 The SRC shall be responsible for reviewing and 
- ## Page 96
  92 
 monitoring the progress of the candidate from 
 his/her commencement of PhD research to 
@@ -2691,7 +2596,6 @@ Committee shall be:
 • To review the thesis 
 • The VVC shall conduct the final Viva Voce 
 for the candidate to defend his/her PhD 
- ## Page 97
  93 
 Thesis 
 • The VVC shall submit the reports in the 
@@ -2745,7 +2649,6 @@ specialization)/MBA/MSc in Physics or
 chemistry or Maths or MCA or equivalent 
 from any other University recognized by 
 Admission Committee, with a minimum 
- ## Page 98
  94 
 CGPA of 6.75 out of 10 or First class at either 
 the Bachelor's or the Master's Degree in 
@@ -2798,7 +2701,6 @@ and such other documents as may be prescribed
   1. 2.6 Conduct of RET: All the eligible applicants shall 
 appear for the RET, which shall determine the 
 candidate's aptitude for research. The marks 
- ## Page 99
  95 
 obtained by the candidate in the RET shall be valid 
 for a period of two years according to minimum 
@@ -2850,7 +2752,6 @@ after his/her PG Degree from among faculty
 members working in any Engineering College / 
 Polytechnic / University / Deemed to be 
 University (recognized / accredited by 
- ## Page 100
  96 
 appropriate bodies in India) or research staff of 
 public / private organizations, are eligible to 
@@ -2899,7 +2800,6 @@ research plan
 • Part-III: Pre-synopsis presentation and 
 synopsis submission - Candidates need 
 to present the synopsis to SRC to seek 
- ## Page 101
  97 
 permission for the recommendations to 
 submit Thesis 
@@ -2953,7 +2853,6 @@ candidate may also choose all five courses from
 the Parent Stream 
 • After getting provisional PhD registration, all the 
 candidates, namely Full-Time and Part-Time 
- ## Page 102
  98 
 shall take up the coursework recommended by 
 the SRC, which shall be a compulsory 
@@ -3006,7 +2905,6 @@ comprehensive viva after successful completion of
 Part-I and present his/her topic to SRC and external 
 examiners. After the successful completion of 
 Comprehensive viva, candidate PhD admissions gets 
- ## Page 103
  99 
 confirmed 
   i • The candidate shall submit a written request, 
@@ -3059,7 +2957,6 @@ specific areas in which the candidate needs
 strengthening of knowledge and suggesting 
 a date preferably within the next three 
 months for re-examination 
- ## Page 104
  100 
 • If the SRC does not recommend the 
 continuation of research work by the 
@@ -3113,7 +3010,6 @@ permit the candidate to submit the Thesis.
 • A MS/PhD Candidate shall complete the 
 entire coursework within two consecutive 
 years from the date of provisional 
- ## Page 105
  101 
 registration or a maximum of four 
 consecutive coursework examinations shall 
@@ -3166,7 +3062,6 @@ candidate shall be ready to submit Synopsis to
 the University 
 • SRC recommends to RPC and upon 
 recommendations of RPC candidate 
- ## Page 106
  102 
 subsequently submits the Thesis, within the 
 validity period of THREE to SIX months after the 
@@ -3218,7 +3113,6 @@ norms.
 approved by RPC and percentage of 
 plagiarism (similarity Index) shall be as 
 permitted by RPC owing to software 
- ## Page 107
  103 
 limitation to identify the self-written 
 research papers and definitions and 
@@ -3269,7 +3163,6 @@ and that of the Thesis by the candidate shall be
 used by the CoE for deciding the panel of 
 adjudicators 
 • Selection of Adjudicators: 
- ## Page 108
  104 
 • The School shall arrange to send SIX hard 
 copies and ONE soft copy of the Synopsis 
@@ -3321,7 +3214,6 @@ However, it shall be possible to submit a Joint
 Report in the case of Research Supervisor(s) 
 adjudicating a Thesis. 
 The Reports shall include: 
- ## Page 109
  105 
 • A critical analysis of the work of the candidate as 
 embodied in the Thesis and an evaluation of the 
@@ -3374,7 +3266,6 @@ intimate the same to the Controller of Examination,
 who shall nominate another examiner from the 
 panel of examiners in consultation with the Vice 
 Chancellor . The date/time of the Viva Voce shall be 
- ## Page 110
  106 
 fixed by the Research Supervisor(s) in consultation 
 with the other Member(s) of the VVC, the School 
@@ -3427,7 +3318,6 @@ presentation, the Research Supervisor (s) shall
 give opportunity to the invitees to seek 
 clarifications from the candidate. 
 • After the presentation, the Viva-Voce 
- ## Page 111
  107 
 Committee only shall examine the candidate to 
 test his/her understanding of the subject matter 
@@ -3478,7 +3368,6 @@ candidate certifying that the Degree has been
 awarded in accordance with the Regulations 
 Governing the Degree of Doctor of Philosophy. 
 • The University shall award the PhD Degree 
- ## Page 112
  108 
 Certificate during the forthcoming 
 Convocation 
@@ -3528,7 +3417,6 @@ submission of the PhD thesis by such a
 candidate on the specific recommendations 
 of the SRC Committee with 
 recommendations of RPC and forwarded 
- ## Page 113
  109 
 through the School on receipt of a request 
 for extension from the candidate not less 
@@ -3579,7 +3467,6 @@ orders, rules or regulations in force at the
 University shall be inapplicable to the extent of 
 their inconsistency with these Regulations 
 • The University shall issue such 
- ## Page 114
  110 
 orders/instructions and prescribe such 
 format/procedure, as it may deem fit to 
@@ -3633,7 +3520,6 @@ supervisor
 supervisors. 
 • The person seeking recognition as a Supervisor 
 shall be a full time faculty member of an 
- ## Page 115
  111 
 Institution or an employee working in a 
 recognized organization/institution registered 
@@ -3686,7 +3572,6 @@ and in case of proven harassment of students by
 the Supervisor. Vice-Chancellor may appoint a 
 committee to investigate such cases and submit 
 the report. 
- ## Page 116
  112 
 • The following acts of research Supervisor may 
 lead to disqualification of Supervisor from 
@@ -3739,7 +3624,6 @@ at other Universities (acceptance for supervision
 of PhD candidates at other Universities shall be 
 with the written permission of the University) 
 • The students of a research Supervisors who 
- ## Page 117
  113 
 have completed the final Viva-Voce shall not be 
 considered while counting the number of 
@@ -3771,14 +3655,12 @@ continue to work under the same Research
 Supervisor or in exceptional cases, permit an 
 alternative arrangement with the consent of the 
 SRC Committee 
-  ## Page 118
  114 
   ANNEXURE - 4 
   [Regulations governing MS (Engg.) by Research programs of KLE 
 Technological University framed as 
 per the provisions of 'KLE Technological University Act - 2012' 
 by the Academic Council and the Executive Council] 
- ## Page 119
  115 
 Regulations Governing 
   Master of Science (MS) (Engg) by Research Programs 
@@ -3787,7 +3669,6 @@ KLE Technological University
 2015 
   KLE Technological University 
   (Established under Karnataka Act No.22, 2013) 
-  ## Page 120
  116 
   1 MS 
 pro
@@ -3846,7 +3727,6 @@ research scholar from his/her commencement of MS (Engg) by Research until
 the Submission of the Thesis and send recommendations to SRC. 
   i a. Scope/Functions/Responsibilities of the School Review Committee shall 
 be: 
- ## Page 121
  117 
 1. To select candidates for PhD/MS(Engg) by Research Programme after 
 interviews. 
@@ -3895,7 +3775,6 @@ of final viva-voce and recommending the result of Viva-Voce to RPC.
   i Scope/Functions/Responsibilities of the Viva-Voce Committee (VVC) shall be: 
 1. To review the thesis. 
 2. The VVC shall conduct the final Viva-Voce for the research scholar to 
- ## Page 122
  118 
 defend his/her MS by Research Thesis. 
 3. The VVC shall submit the reports in the prescribed format to the RPC. 
@@ -3947,7 +3826,6 @@ with other necessary documents.
   1. 2.7 Selection of candidates: List of the eligible candidates, who are selected to 
 MS (Engg) by Research program as decided by Admission Committee, shall be 
 called for registration. 
-  ## Page 123
  119 
   1. 2.8 Categories of Research Scholars: 
 There shall be provision for the following categories of research scholars for 
@@ -4002,7 +3880,6 @@ research scholar involves a review of Coursework and Thesis submission.
 required to do the following: 
 1) Part-I: Coursework - Research scholars need to successfully 
 complete the course work recommended by supervisors as 
- ## Page 124
  120 
 specified in 1.3.2(i). 
 2) Part-II: Thesis submission- Research scholars need to submit final 
@@ -4054,7 +3931,6 @@ The maximum period for Submission of the Thesis by Full-Time research
 scholar shall be THREE years from the date of provisional registration with 
 provision for a one-year extension with the recommendations of RPC. 
 (b) For Part-time research scholars: 
- ## Page 125
  121 
 The maximum period for Submission of the Thesis for Part-Time research 
 scholar shall be FOUR years from the date of provisional registration with 
@@ -4105,7 +3981,6 @@ report:
 award of MS by Research Degree, OR 
 2. That the thesis needs minor clarifications indicated in the report which 
 need to be clarified by the candidate at final Viva-Voce and it is 
- ## Page 126
  122 
 recommended for the award of MS by Research Degree, OR 
 3. That the thesis needs major revision and recommend for resubmission, 
@@ -4158,7 +4033,6 @@ recognized Universities.
 d) The following acts of research Supervisor may lead to disqualification of 
 Supervisor from guiding any research scholars: 
 i) Influencing the external examiner to write a favorable report on the 
- ## Page 127
  123 
    thesis. 
 ii) Making effort to intervene in external examiners evaluation work. 
@@ -4197,20 +4071,17 @@ admitted research scholars during an academic year.
 for assigning up to FOUR research scholars to a supervisor with proper 
 justification. This extraordinary case shall be exercised carefully by the 
 RPC with approval by the Vice-Chancellor. 
- ## Page 128
  124 
 ANNEXURE - 5 
   [Regulations governing Minor disciplines in the undergraduate programs of 
 KLE Technological University framed as 
 per the provisions of 'KLE Technological University Act - 2012' 
 by the Academic Council and the Executive Council] 
- ## Page 129
  125 
   Regulations for MINOR Disciplines 
  in the Undergraduate Programs 
   KLE Technological University 
 (Established under Karnataka Act No.22, 2013) 
- ## Page 130
  126 
   Minor 
   24 A student shall have an opportunity for supplementing the 
@@ -4258,7 +4129,6 @@ required in the first two semesters of their studies with a
 CGPA of 7.5 or above, will be eligible for a minor discipline 
 after the end of second semester. However, no student is 
 allowed to register for Minor discipline after the 
- ## Page 131
  127 
 completion of 4th semester . 
   viii Applications for joining a minor discipline must be 
@@ -4299,13 +4169,11 @@ a Minor in that discipline.
   xv At most 2 courses of the minor requirement may be met 
 from the General Institutional Requirement excluding 
 Humanities Electives. 
-  ## Page 132
  128 
   ANNEXURE - 6 
 [Regulations Governing Bachelor of Science (B.Sc.) Industry Integrated 
 Programme of KLE Technological University - 2015 framed as per the 
 provisions of 'KLE Technological University Act - 2012'] 
-  ## Page 133
  129 
   Regulations Governing 
 Bachelor of Science (B.Sc) Industry 
@@ -4314,7 +4182,6 @@ KLE Technological University
 2015 
   KLE Technological University 
 (Established under Karnataka Act No.22, 2013) 
- ## Page 134
  130 
   REGULATIONS GOVERNING UNDERGRADUATE AND POSTGRADUATE PROGRAMMES 
 OF KLE TECHNOLOGICAL UNIVERSITY - 2015 
@@ -4353,7 +4220,6 @@ Point Average and Semester Grade Point Average
 "Departmental Chairperson" mean respectively the 
 Chancellor, Pro Chancellor, Vice-Chancellor, Registrar, 
 Controller of Examinations, Dean, and Departmental 
- ## Page 135
  131 
 Chairperson of the University 
   vi "ISA" and "ESA" means respectively the In-Semester 
@@ -4389,7 +4255,6 @@ programme(s) instituted by the University
   xviii "Regulations" means the Regulations of the 
 University, notified by the Executive Council. 
   xix "Statutes" means the Statutes of KLE Technological 
- ## Page 136
  132 
 University, notified by the Board of Governors. 
   xx "Student" means a person admitted to and pursuing a 
@@ -4428,7 +4293,6 @@ Vice-Chancellor consisting of:
   i Registrar - Chairperson 
   ii Coordinator Admission Cell - Member Secretary 
   iii ONE Dean Nominated by the Vice-Chancellor 
- ## Page 137
  133 
   iv ONE nominee of the Executive Council - Member 
   v ONE nominee of the Academic Council - Member 
@@ -4466,7 +4330,6 @@ Members; and
 by the Vice-Chancellor 
   iv TWO representative from collaborating industry / 
 company/ allied area relating to placement nominated by 
- ## Page 138
  134 
 the Vice-Chancellor 
   v ONE Post-graduate meritorious alumnus nominated by the 
@@ -4508,7 +4371,6 @@ members:
   i Dean Academic Affairs/ The concerned Dean of Faculty - 
 Chairperson; 
   ii ONE nominee from each programme of the concerned 
- ## Page 139
  135 
 Departmental/ School/ Center Board of Studies - Member; 
   iii ONE external member from institutions of repute 
@@ -4552,7 +4414,6 @@ one member of the Squad shall be a woman. The Chief of
 the Squad shall submit a report to the Controller of 
 Examinations on the conduct of examination on a daily 
 basis, in addition to a consolidated report at the conclusion 
- ## Page 140
  136 
 of examinations. 
 Results 
@@ -4592,7 +4453,6 @@ Committee
 Malpractice Review Committee for reviewing and 
 recommending suitable actions on the reported cases of 
 malpractice. 
- ## Page 141
  137 
   9. 1 The composition of the committee shall be: 
   i The Vice-Chancellor or his/her nominee - Chairperson; 
@@ -4634,7 +4494,6 @@ Admission
 10 The minimum qualification for admission to each 
 programme of study shall be as prescribed by the Academic 
 Council from time to time, which shall be notified by the 
- ## Page 142
  138 
  Registrar in the Admission Brochure. However, the 
 following provisions shall be considered while specifying 
@@ -4678,7 +4537,6 @@ University with respect to that candidate.
     11. 2 Admission shall be subject to the candidate being certified 
 medically fit by a registered medical practitioner recognized 
 by the University for the purpose. 
- ## Page 143
  139 
   11. 3 Each applicant shall be required to submit a Character 
 Certificate from the head of the institution last attended. 
@@ -4738,7 +4596,6 @@ the Registrar in the prescribed format.
 A student may also be permitted to withdraw temporarily 
 from the program for a period of one year to do internship. 
   14. 2 A student may be permitted only once during his/her 
- ## Page 144
  140 
 programme of study to avail this provision. 
   14. 3 Any scholarship or financial assistance awarded to a 
@@ -4787,7 +4644,6 @@ duration
 programmes with various specializations of study 
 representing different Faculties, in accordance with the 
 spirit of a University. 
- ## Page 145
  141 
     16. 1 The academic program shall be called as Bachelor of 
 Science (B.Sc) Industry Integrated (Evening) Programme for 
@@ -4830,7 +4686,6 @@ Supplementary (Summer) semester.
 examination and evaluation. 
   17. 3 The odd and even semesters shall be normally for a 
 duration of TWENTY TWO weeks. However, the fast-track 
- ## Page 146
  142 
 term shall be normally for a duration of EIGHT weeks. Odd 
 semester normally shall be from August-December and 
@@ -4875,7 +4730,6 @@ For example, a 3-year degree programme shall comprise of
 six regular semesters and therefore require 22 x 6 = 132 
 credits, the minimum being 132 and the maximum being 
 132 x 1.025 = 135 credits. 
- ## Page 147
  143 
   18. 4 A full-time student shall normally register for TWENTY TWO 
 credits in a regular semester. However, the minimum 
@@ -4943,7 +4797,6 @@ Humanities & Social Science courses shall be in the range of
 Mathematics, Physics, Chemistry and Biology and they are 
 common to all specialisations. Basic Science courses shall 
 be in the range of 12 - 18 credits. 
- ## Page 148
  144 
   19. 1.4 Professional Core Courses (PC): Professional Core courses 
 constitute the core of the programme of study. Core 
@@ -4989,7 +4842,6 @@ which includes syllabus and scheme of evaluation, decided
 in collaboration with collaborating industry / company, 
 which shall be subsequently approved by concerned BoS 
 and Academic Council of the universities as per the statute. 
- ## Page 149
  145 
 Course code 
   22 22.1 Every course in a programme shall be assigned a course 
@@ -5046,7 +4898,6 @@ hybrid with the exception of Project Work and Internship.
 To enrich the student experience, the teaching / learning 
 may include guest lectures, field trips, mini projects, self-
 study and so on. Teachers may use state-of-the-art 
- ## Page 150
  146 
 knowledge dissemination tools. 
 To enrich the student experience, the teaching / learning 
@@ -5090,7 +4941,6 @@ of problem solving.
 • Course projects 
 Course projects also help the students to 
 understand the concepts learnt in a course and 
- ## Page 151
  147 
 application of concepts in different contexts. 
 • Directed self learning tasks 
@@ -5138,7 +4988,6 @@ particular Teachers;
   25. 3 A student who obtains "F" or "W" grade in a course other 
 than elective (EC category) shall re-register for the same 
 course when offered next. A student who obtains "F" or 
- ## Page 152
  148 
 "W" grade in an elective course shall have an option of 
 repeating the same elective course when offered next or 
@@ -5193,7 +5042,6 @@ payment of additional fees, if any.
 the deadline specified for the purpose, with the approval of 
 the Dean Academic Affairs / the concerned Dean of Faculty. 
 A withdrawal grade shall be awarded in such case(s). 
- ## Page 153
  149 
   iii Audit: A student may change a credit course to an audit 
 one before the deadline specified for the purpose, with the 
@@ -5242,7 +5090,6 @@ Shortage
 32 In rare and genuine cases, the Vice-Chancellor may 
 condone a shortage of attendance to a maximum extent of 
 10% on the recommendation of the Dean Academic Affairs 
- ## Page 154
  150 
 / the concerned Dean of Faculty. 
 CHAPTER VII 
@@ -5283,7 +5130,6 @@ the confidential materials, bills, and proceedings;
   xi Recommend the remunerations, if any, connected with the 
 examination work, to the Finance Council for consideration 
 and further action; 
- ## Page 155
  151 
   xii Make arrangements for maintenance of stock, accounts, 
 records, and statistics of the Office of the Controller of 
@@ -5331,7 +5177,6 @@ Superintenden
 37 The Controller of Examinations shall appoint Additional 
 Chief Superintendent(s), if necessitated by the number of 
 students registered for the examination, from amongst the 
- ## Page 156
  152 
 t(s) 
   senior Teachers of the University, with the approval of the 
@@ -5390,7 +5235,6 @@ Remuneration
   43 Remuneration for different assignments in the examination 
 shall be proposed by the Controller of Examinations from 
 time to time and recommended by the Finance Council for 
- ## Page 157
  153 
 the approval by the Board of Governors. External examiners 
 shall be entitled for TA/DA. All work relating to ISA, ESA and 
@@ -5442,7 +5286,6 @@ ISA
 various components such as Mid Term Examinations, 
 quizzes, tests, seminars, term papers, demonstrations, and 
 award of marks for attendance. Practical components of 
- ## Page 158
  154 
 courses may be evaluated by the way of experiments, 
 demonstrations, field work, models, worksheets, practical 
@@ -5499,7 +5342,6 @@ t of ISA marks
 50 The concerned Head of the Department/ School/ Center 
 shall make arrangements for the announcement of ISA 
 marks obtained by the students in various courses at the 
- ## Page 159
  155 
  end of each semester . The students shall be given THREE 
 working days for verification, redressal of discrepancies or 
@@ -5552,7 +5394,6 @@ Student list
 extra-ordinary circumstances, a student whose name does 
 not find a place in the student list may be permitted to 
 appear for ESA of a course. The results of such a student 
- ## Page 160
  156 
  may be announced after due verification. 
 ESA and 
@@ -5609,7 +5450,6 @@ system
 61 The University shall follow the absolute grading system by 
 allocating a letter grade for each band of marks in a course. 
 The letter grades shall be awarded grade points, as per the 
- ## Page 161
  157 
  following table: 
  # Letter 
@@ -5644,7 +5484,6 @@ Students having qualified for ESA in mandatory non-credit
 courses/audit courses and obtained an 'AF' grade need not 
 re-register for the course again but are required to pass the 
 course to qualify for the degree. 
- ## Page 162
  158 
   61. 3 'W' grade: "W" grade shall be awarded to a student who 
 has withdrawn from a course. Further, the "W" grade shall 
@@ -5688,7 +5527,6 @@ supplementary semester.
   61. 6 'F' grade: A student shall be awarded an "F" grade if he/she 
 either fails in the course or is absent for the ESA of that 
 course. 
- ## Page 163
  159 
   61. 6.1 A student who obtains "F" grade in a non-elective course 
 shall re-register for the same course when offered next. 
@@ -5737,7 +5575,6 @@ SGPA and
 CGPA 
 64 The overall performance of a student shall be indicated by 
 two indices namely, Semester Grade Point Average (SGPA) 
- ## Page 164
  160 
  and Cumulative Grade Point Average (CGPA). 
   64. 1 The SGPA is the weighted average of the grade points 
@@ -5780,7 +5617,6 @@ CGPA Equivalent Class/Division
 Distinction 
 9. 50-10.00 >87.5% First class with 
 Honors 
- ## Page 165
  161 
       i First Class with Honors: A student completing a Programme 
 of study within the specified minimum duration, securing a 
@@ -5823,7 +5659,6 @@ minimum duration;
   vi Academic performance will be the sole criteria for awarding 
 the Merit rank in each program and will be based only on 
 CGPA to be calculated as mentioned in 65.1 and 65.2. The 
- ## Page 166
  162 
 SGPA/CGPA shall be calculated to an accuracy of 2 decimal 
 points and will be rounded up to the nearest value. In case 
@@ -5869,7 +5704,6 @@ shall be no provision for re-totaling, obtaining the
 photocopy of answer books and revaluation of ESA for 
 practical components of courses, including drawing, 
 seminar, mini project / special topics, and major project. 
- ## Page 167
  163 
 Re-Totaling 
   69 A student shall be eligible to apply for re-totaling of marks 
@@ -5919,7 +5753,6 @@ Rejection of
 whole 
 73 A student may reject the results of a whole semester 
 irrespective of performance in an individual course. 
- ## Page 168
  164 
 semester 
 results 
@@ -5970,7 +5803,6 @@ student by the Controller of Examinations.
   76. 3 A student, on payment of prescribed fee, if any, may 
 request the Controller of Examinations in prescribed format 
 for any corrections to be incorporated in the Grade card 
- ## Page 169
  165 
 and / or transcript. On verification, the Controller of 
 Examinations shall issue a revised / corrected grade card / 
@@ -6020,7 +5852,6 @@ concerned Faculty of Study within the stipulated maximum
 time duration, and a candidate shall earn a minimum of 
 CGPA 5.0 in B.Sc programs to become eligible for the 
 award of the degree. 
- ## Page 170
  166 
   ii Successful completion of all non-credit mandatory courses; 
   iii Minimum duration requirement as specified by the 
@@ -6068,7 +5899,6 @@ as performance in entrance tests and qualifying
 examination. 
   82. 3 The Registrar shall make arrangements for the 
 disbursement, maintenance of accounts and keeping of 
- ## Page 171
  167 
 records of the merit scholarships. 
 Award of 
@@ -6123,7 +5953,6 @@ examination such as question booklets, answer sheets,
 correspondence regarding paper setting, etc. shall be 
 destroyed by way of shredding after a period of ONE year 
 from the conduct of entrance test, except in cases of 
- ## Page 172
  168 
 disputes; 
   iii The personal files of the students shall be retained as 
@@ -6165,7 +5994,6 @@ Course related to Professional
 learning/ Social innovation 
 1-0-1 1-0-2 
 Basic science I I 2-1-1 3-2-2 
- ## Page 173
  169 
 Basic Mathematics II 4-1-0 4-2-0 
 Basics of Programming 3-1-1 3-2-2 
@@ -6207,11 +6035,9 @@ Major Project ( At Industry) 0-0-14 -
 Industrial training 0-0-6 0-0-12 
  0-0-20 = 20 
 Total Credit 56-18-58= 132 
-  ## Page 174
  170 
   ANNEXURE - 7 
 [Composition of the 'Research Council'] 
- ## Page 175
  171 
   NOTIFICATION 
 For the Constitution of 
@@ -6257,18 +6083,14 @@ Secretary
 CHANCELLOR 
 KLE Technological University Hubballi & 
 Chairman, KLE Society, Belagavi 
-  ## Page 176
  172 
   ANNEXURE - 8 
   [Composition of the 'Finance Council'] 
-  ## Page 177
  173 
-   ## Page 178
  174 
   ANNEXURE - 9 
   [List of faculty and staff transferred from BVB College of Engineering and 
 Technology to KLE Technological University] 
-  ## Page 179
  175 
 Transfers from BVB College of Engg & Tech, Hubballi 
 to KLE Technological University, Hubballi 
@@ -6300,7 +6122,6 @@ Systems(PG)
 Machine 
 design(PG) 
 11. Sri. Sanjeev Kavale Lecturer Mech 
-  ## Page 180
  176 
 School of Electronics and Communication 
 SL Name Designation BVB Dept. 
@@ -6328,7 +6149,6 @@ SL Name Designation BVB Dept.
 2. Sri. P .R.Patil Assoc Prof 
 3. Ms. Bharathi Shettar Asst. Prof. 
 4. Sri. Ashok Chikkaraddi Asst. Prof 
-  ## Page 181
  177 
 Department of Bio-Technology 
 SL Name Designation BVB Dept. 
@@ -6364,7 +6184,6 @@ SL Name Designation BVB Dept.
 1. Dr. A. S. Bennal Asst. Prof Physics 
 2. Smt. V.H. Choudapur Asst. Prof 
 3. Sri. V.V.Koppal Asst. Prof 
- ## Page 182
  178 
 4. Smt. S. B. Kolvekar Asst. Prof 
 5. Sri. G. V. Muddapur Asst. Prof 
@@ -6379,7 +6198,6 @@ SL Name Designation BVB Dept.
 SL Name Designation BVB Dept. 
 1. Ms. Jayanti D Shinge Lecturer Humanities 
 2. Smt. Anusha Kodolli Lecturer 
-  ## Page 183
  179 
   Non-Teaching 
 Administrative Office 
@@ -6400,5 +6218,4 @@ SL Name Designation BVB Dept.
   Physics 
 SL Name Designation BVB Dept 
 1. Sri. Vishwanath Mulagund Asst. Instructor Physics 
-2. Sri. Channaveeresh Adaragunchi Asst. Instructor 
-  
+2. Sri. Channaveeresh Adaragunchi Asst. Instructor

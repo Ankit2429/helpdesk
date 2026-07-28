@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 6th_EC_Minutes"
+title: "EC Minutes"
 category: "miscellaneous"
 subcategory: ""
 document_type: "syllabus"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["approved", "council", "document", "executive", "held", "resolution"]
 aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "20"
 ---
-# PDF Document: 6th_EC_Minutes
- **PDF Source:** https://www.kletech.ac.in/pdf/6th_EC_Minutes.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/6th_EC_Minutes.pdf
  Minutes 
   6th Executive Council Meeting 
 of 
@@ -23,7 +23,6 @@ Hubballi, Karnataka
 March 15th, 2018 at 10 am 
   Venue: Senate Hall of the University 
 Hubballi 
-  ## Page 2
  ii 
   The following are the minutes of the 6th Executive Meeting of KLE Technological University, 
 Hubballi which was held on 15th March 2018 at 9 am in the Senate hall of the University 
@@ -59,7 +58,6 @@ SL Name Designation Position
 Nominee of Sponsoring 
 Body 
 Member 
- ## Page 3
  iii 
   Agenda 
   Sl No Particulars Page 
@@ -92,7 +90,6 @@ EC 6.9 To review progress of implementation of the 'Strategic Plan' of the KLE
 Technological University. 
 16 
 EC 6.10 Any other subject with the permission of the Chair. 17 
-  ## Page 4
  1 
   EC 6.1 To confirm the minutes of the previous meeting held on 20th 
 September 2017 
@@ -134,7 +131,6 @@ programmes.
 EC 5.7 To ratify Board of Studies and Board of Examiners approved by the Academic Council 
 Resolution 5.7: The Executive Council noted the Academic Council approved Board 
 of Studies and Board of Examiners. 
- ## Page 5
  2 
   EC 5.8 To discuss and approve results of previous examinations. 
 Resolution 5.8: The Executive Council noted the Academic Council approved results 
@@ -159,7 +155,6 @@ September 2017.
   Resolution 6.1: The Executive Council confirmed the minutes of its 
 5th meeting held on 20th September 2017 at Sri. S. 
 Nijalingappa College, Bengaluru. 
- ## Page 6
  3 
   EC 6.2 To confirm the action taken report on the minutes of the previous meeting held on 20th 
 September 2017. 
@@ -201,7 +196,6 @@ and Research programs were given in
 leading Kannada English newspapers. 
 RET was conducted on 20-08-2017 and 
 the admission process of second batch of 
- ## Page 7
  4 
   Research programs; and the actions taken by Sub-Committee for the conduct of the 
 Research Entrance Test (RET) and approved the same. 
@@ -242,7 +236,6 @@ PhD programmes.
 Grade cards are being printed as per the 
 AC & EC approved format. 
 EC 5.10 To approve the formats proposed for the Degree Certificates of MTech and MBA Noted 
- ## Page 8
  5 
   programmes. 
 Resolution 5.10: The Executive Council approved the proposed Degree Certificates of 
@@ -264,7 +257,6 @@ held on 20th September 2017.
   Discussion: 
   Resolution 6.2: Resolved to confirm the action taken report on the minutes of the previous 
 meeting held on 20th September 2017. 
-  ## Page 9
  6 
   EC 
 6. 3 
@@ -303,7 +295,6 @@ June 2017
 Engineering 
 Nil Nil 
 4. School of Mechanical Engineering 09 08 
- ## Page 10
  7 
   5. School of Management Studies and Research Nil Nil 
 6. Department of Electrical and Electronics 
@@ -331,7 +322,6 @@ recommendations of the Admission Committee of the University held on 14th March
   Resolution 6.3: Executive Council reviewed the recommendations of 
 the Admission Committee held on 14th March and resolved to 
 recommend the same to BOG. 
- ## Page 11
  8 
   EC 6.4 To discuss the University progress report for the academic 
 year 2017-18 (Information agenda). 
@@ -358,7 +348,6 @@ the University for the year 2017-18
 presented by the Vice Chancellor. The members of the EC expressed 
 their satisfaction and appreciation over the progress made by the 
 University during the period. 
- ## Page 12
  9 
   Enclosure 3.1 
   Statement showing the Admisssion status of the University during the year 2017-
@@ -392,7 +381,6 @@ MBA 60 59
 MCA 60 60 
 Total 120 119 
 Grand Total (99+119) 270 218 
-  ## Page 13
  10 
   Semester: III & IV (Under graduate) 
 Sl No. Branch Strength 
@@ -435,7 +423,6 @@ Total 113
   Sl No. Branch Strength 
 1. III & IV Semester 53 
 Total 53 
-  ## Page 14
  11 
   Enclosure 3.2 
 FACULTY CADRE-WISE BREAKUP 
@@ -459,7 +446,6 @@ CEER 0 0 0 4
 CTIE 0 1 0 1 
 TOTAL 43 75 165 33 
 Grand Total 316 
-  ## Page 15
  12 
   EC 6.5 To consider and approve proposed changes in curriculum 
 structure of first year. 
@@ -477,7 +463,6 @@ changes in curriculum structure of first year
   Discussion: 
   Resolution 6.5: EC noted the proposed changes in curriculum 
 structure of first year. 
-  ## Page 16
  13 
   EC 6.6 To approve the Board of Studies and Board of Examiners 
 approved by the Academic Council. 
@@ -495,7 +480,6 @@ Studies and Board of Examiners.
   Resolution 6.6: EC approved the Board of Studies and Board of 
 Examiners constituted by the Dean Academics and 
 resolved to recommend to the BOG. 
-  ## Page 17
  14 
   EC 6.7 To discuss and approve results of previous examinations. 
 The results of the examination conducted since last Executive Council meeting are 
@@ -507,7 +491,6 @@ approved.
   Discussion: 
   Resolution 6.7: Executive Council noted the results analysis of Dec 
 2016/Jan 2017 examination and May/June 2017 examination. 
- ## Page 18
  15 
   EC 6.8 To discuss and ratify Undergraduate Minor Programme in 
 'Bioengineering' that has been instituted by the University 
@@ -530,7 +513,6 @@ the programme.
   Resolution 6.8: Executive Council noted the Academic Council 
 approved Schemes and Syllabi of Undergraduate Minor Programme 
 in 'Bioengineering'. 
- ## Page 19
  16 
   EC 6.9 To review progress of implementation of the 'Strategic 
 Plan' of the KLE Technological University. 
@@ -549,8 +531,6 @@ University.
 'Strategic Plan' of the KLE Technological University 
 and also the 'Key Performance Indicators (KPIs') to 
 monitor the progress of it's implementation. 
- ## Page 20
  17 
   EC 6.10 Any other subject with the permission of the Chair. 
-NIL 
-  
+NIL

@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: KLE-TECH-UPSC"
+title: "KLE Tech Upsc"
 category: "miscellaneous"
 subcategory: ""
 document_type: "syllabus"
@@ -11,13 +11,12 @@ language: "en"
 keywords: ["document", "exam", "important", "kle", "preparation", "session", "tech", "upsc"]
 aliases: []
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "9"
 ---
-# PDF Document: KLE-TECH-UPSC
- **PDF Source:** https://www.kletech.ac.in/pdf/KLE-TECH-UPSC.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/KLE-TECH-UPSC.pdf
  If your aIms are hIgh, we say the lImIt 
 Is the sky!!! 
-   ## Page 2
  STATEMENT OR NEED OF CLUB 
     Every year many students appear for the civil services examination and come up with 
 flying colours. However, these efforts have been largely individual. With this in mind, 
@@ -38,7 +37,6 @@ PLANS FOR THE CLUB
 Every week there will at least two engaged hours for discussion, activity, and studies related 
 queries. 
   Work Structure : 
-  ## Page 4
  MONTHLY PLAN FOR CLUB 
 DAILY 
 ● UPDATE CURRENT AFFAIRS NEWS 
@@ -65,7 +63,6 @@ MONTHLY
 14. Sociology 
 15. Physics 
 16. Chemistry 
- ## Page 5
  17. Ethics 
 18. Languages 
   Offline session topics: 
@@ -95,7 +92,6 @@ through of the pros and cons of the subjects, you have in mind.
 • Interest in the subject 
 • Prior knowledge in it/academic background 
 • Overlap with the GS papers 
- ## Page 6
  • Availability of coaching 
 • Availability of study material 
 Session 6: How To Study NCERT Textbooks 
@@ -128,7 +124,6 @@ level and question type.
 subject. 
 • Lastly, it is a good source of self-assessment in your IAS preparation. 
 Session 10: Mock Test Series 
- ## Page 7
  • Self-assessment is an essential part of UPSC preparation. 
 • It can help civil service aspirant in realizing and learning from mistakes, shaping what 
 approach they need to follow in continuing the preparation and identifying strengths 
@@ -159,7 +154,6 @@ Session 14: Stay Positive
 There are times when it can get quite overwhelming and you will feel depressed. 
 RESOURCE NEEDED FROM COLLEGE 
  (for offline mode) 
- ## Page 8
  1. Classroom with projector for conducting mock, screening and psychological tests. 
 2. An external resource person who could teach the concepts of maths, social and other 
 subjects 
@@ -175,7 +169,6 @@ COLLEGE
 2. Study materials (journal, magazine, prep books) 
 3. Aluminums or speakers (for online guidance and seminars) 
   IMPLETATION: 
-  ## Page 9
  SOME RESPONSES FROM 
 STUDENTS 
 ● The club is really doing good by providing various resources. It would be nice if there 
@@ -186,5 +179,4 @@ knowledge. Thank you. This is helping a lot.
 ● Guidance from officers, Making group with similar optionals so that it will be easy to 
 prepare 
 ● Expecting daily classes. 
-● Group discussions, Guidance from Officers 
-  
+● Group discussions, Guidance from Officers

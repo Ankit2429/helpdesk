@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: PhD_Regulations"
+title: "Phd Regulations"
 category: "academics"
 subcategory: "PhD"
 document_type: "minutes"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["document", "research", "scholar", "shall", "supervisor", "thesis"]
 aliases: ["HOD", "Head of Department", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "15"
 ---
-# PDF Document: PhD_Regulations
- **PDF Source:** https://www.kletech.ac.in/bengaluru/pdf/PhD_Regulations.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/bengaluru/pdf/PhD_Regulations.pdf
  Regulations Governing 
 PhD Programs 
 of 
@@ -24,7 +24,6 @@ KLE Technological University
 Academic Council June 2023 
   KLE Technological University 
   (Established under Karnataka Act No.22, 2013) 
- ## Page 2
  1 PhD 
 prog 
 ram 
@@ -79,7 +78,6 @@ SRC is the link between RRC and RPC
 The RRC shall be formed for each of the provisionally registered PhDresearch 
 scholar. 
 The RRC shall be responsible for reviewing and monitoring the 
-  ## Page 3
      progress of the research scholar from his/her commencement of 
 PhD 
 research to submission of the Thesis and send recommendations to 
@@ -128,7 +126,6 @@ Research Supervisor from time to time.
 The RRC may be re-constituted by the Head of the 
 school/department/center in the case of non - availability of existing 
 member(s) or for any other valid reason, in consultation with the Research 
- ## Page 4
      Supervisor (s). 
   iii a. Frequency of meeting of SRC Committee: The School Research 
 Committee shall meet at least TWO times a year.However, the 
@@ -182,7 +179,6 @@ Admission Committee, with a minimum CGPA of
 6. 75 out of 10 or First class at either the Bachelor's or the 
 Master's Degree in respective discipline. 
   2. The research scholars pursuing M.Tech. Degree at the University 
- ## Page 5
      who have successfully completed the prescribed coursework in 
 the first three semesters of study with outstanding merit of either 
 a minimum CGPA of 6.75 out of 10 or First class at the Bachelor's 
@@ -238,7 +234,6 @@ which shall determine the research scholar's aptitude for research. The
 marks obtained by the research scholar in the RET shall be valid for a 
 period of two years according to minimum qualifications and relaxations 
 given in 1.2.3. 
- ## Page 6
     1. 2.7 Pre-registration presentations: List of the qualified research scholars 
 based on cut off marks of RET, as decided by Admission Committee, 
 shall be called for Pre -registration presentations before the Admission 
@@ -258,7 +253,6 @@ Polytechnic / University / Deemed to be University (recognized /
 accredited by appropriate bodies in India) or research staff of public 
 /private organizations, are eligible to pursue PhD on a part time 
 basis. All part-time research scholars need to spend a minimum of 
- ## Page 7
      60 days on the University Campus every year till the submission of 
 their thesis. This mandatory requirement of 60 days stay on campus 
 may be completed with 2 to 3 visits. 
@@ -310,7 +304,6 @@ seek permission for the recommendations to submit Thesis.
 4) Part-IV: Thesis submission- Final Thesis submission for the 
 award of PhD degree. 
 (b) A research scholar shall be free to apply for a change in the 
- ## Page 8
      Research topic /Coursework ( "change of coursework" is not applicable 
 for Ph.D. in Law) for the consideration to the RRC before the 
 completion of Part-I. But, the research scholar shall not be permitted 
@@ -366,7 +359,6 @@ candidatealong with list of four external examiners identified by
 RRC shall be forwarded through Head of School / Department to 
 CoE by the supervisorin a closed envelope with recommendations 
 from SRC to conduct comprehensive viva voce examination. 
- ## Page 9
      c. The office of the CoE shall take the recommendations from Dean 
 R & D for two external examiners. The Dean R&D shall 
 recommend two externalexaminers to CoE preferably from the list 
@@ -422,7 +414,6 @@ from the date of receipt of the communication from the RRC.
   1. 3.5 Progress seminars: Conducted as per Research Calendar for 
 research programs- 
 Research scholar needs to present progress seminars to RRC once a 
- ## Page 10
      year according the admission month (January/June). These seminars are 
 open to all the faculty members and research scholars. 
   1. 3.6 Mandatory Publications requirement 
@@ -479,7 +470,6 @@ conferences indexed by Web-of-Science or Scopus in Q1
 or Q2 
   The RRC shall recommend the submission of the Thesis within 
 THREE to SIX months after the submission of Synopsis. 
- ## Page 11
     1. 3.9 Minimum Period for Submission of Thesis by 
 (a) Full Time research scholars: 
 Full-Time research scholar for the PhD Degree shall be normally eligible 
@@ -538,7 +528,6 @@ PhD and award of degree.
   1. 4.1 Selection and appointment of Adjudicators for evaluation of the 
 Thesis: 
 (a) Panel of Adjudicators: The period of three months between the 
- ## Page 12
      submission of Synopsis and that of the Thesis by the candidate shall 
 be used by the Controller of Examination (CoE) for deciding the panel 
 of adjudicators. 
@@ -592,7 +581,6 @@ the need of appointing an additional Adjudicator. An additional
 Adjudicator shall be appointed by the VC from the pa nel. If the 
 additional Adjudicator, after evaluating the Thesis gives a favorable 
 Report, the Controller of Examination shall initiate further steps. If the 
- ## Page 13
      additional Adjudicator also does not approve the Thesis, then the 
 Thesis shall be rejected. It shall be open for the candidate to seek 
 PhD registration at the University, afresh. 
@@ -645,7 +633,6 @@ supervisor(s)
 functioning 
    1. 5.1 Recognition of supervisor 
 a) Persons seeking recognition as a Supervisor shall apply in the 
- ## Page 14
      prescribed format to RPC for their recognition as a Supervisor 
 through the Head of the School. 
 b) The Supervisor seeking to supervise research scholars shall possess 
@@ -694,7 +681,6 @@ decided by the Admission Committee.
 research scholar has registered for PhD. 
 (c) No person shall function as Supervisor for his/her blood relative or 
 spouse for PhD, as defined by the University. 
- ## Page 15
     1. 5.4 Number of Research scholars 
 The following norms / procedure shall be strictly adhered to while 
 assigning the Research Supervisors to the Research scholars admitted 
@@ -725,5 +711,4 @@ documents such as appointment letter / NoC from the employer/medical
 certificate/valid personal grounds etc. However, part time research 
 scholars are not allowed to change their admission category after 
 confirmation of provisional admission/completion of comprehensive vive 
--voce. 
- 
+-voce.

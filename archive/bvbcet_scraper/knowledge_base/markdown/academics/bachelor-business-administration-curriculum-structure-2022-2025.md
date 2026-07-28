@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: bachelor-business-administration-curriculum-structure-2022-2025"
+title: "Bachelor Business Administration Curriculum Structure 2022 2025"
 category: "academics"
 subcategory: ""
 document_type: "syllabus"
@@ -11,16 +11,15 @@ language: "en"
 keywords: ["administration", "bachelor", "business", "course", "curriculum", "document", "management", "marks", "module", "structure"]
 aliases: ["HOD", "Head of Department", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "65"
 ---
-# PDF Document: bachelor-business-administration-curriculum-structure-2022-2025
- **PDF Source:** https://www.kletech.ac.in/pdf/bachelor-business-administration-curriculum-structure-2022-2025.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/bachelor-business-administration-curriculum-structure-2022-2025.pdf
  School of Management Studies and Research 
   School of Management Studies and Research 
   Curriculum Structure and Content 
 Academic Batch: 2022-2025 
   Bachelor of Business Administration 
-  ## Page 2
  School of Management Studies and Research 
   INDEX 
   Sl. No. Content Page No 
@@ -34,7 +33,6 @@ Specific Objectives (PSOs)
 4 Curriculum Structure-Overall 7 
 5 Curriculum Structure - Semester-wise 9 
 6 Curriculum Content- Course-wise 18 
- ## Page 3
  School of Management Studies and Research 
    Vision and Mission Statements of the KLE Technological University 
   Vision 
@@ -54,7 +52,6 @@ importance and priority.
 expertise, experience and leadership, to enhance competitiveness and quality of life. 
   As a unified community of faculty, staff and students, we wo rk together with the spirit of 
 collaboration and partnership to accomplish our mission. 
- ## Page 4
  School of Management Studies and Research 
   Vision and Mission Statements of the Department/School 
   Vision 
@@ -66,7 +63,6 @@ Mission
 and professional growth 
   To contribute to the body of knowledge in management science 
 To positively impact the society by upholding the values of KLE Society 
- ## Page 5
  School of Management Studies and Research 
   Consolidated View of Program Educational Objectives (PEOs) /Program Outcomes (POs) and 
 Program-Specific Objectives (PSOs) 
@@ -96,7 +92,6 @@ and interpersonal skills.
  An ability to practice ethics and values and be 
 human 
  An ability to engage in lifelong learning 
- ## Page 6
  Curriculum Overall 
   Semester Total Program Credits: 135 credits 
 Course with course code 
@@ -235,7 +230,6 @@ Internship
    Cred 
 its 
 23 25 23 25 20 19 
- ## Page 7
  School of Management Studies and Research 
   Bachelor of Business Administration 
 Curriculum Structure 
@@ -289,7 +283,6 @@ Duration
   Total 16-1-8 25 
 Business Communication (22MBAP101), Self Development (21MBAP105) and Entrepreneurship Project 
 (21MBAW101) courses will have In Semester Assessment (ISA) only. 
- ## Page 8
  School of Management Studies and Research 
   II Year BBA 
 Semester III 
@@ -338,7 +331,6 @@ Duration
   Total 17-0-8 25 
  Sports & Yoga(21MBAP207)and Industry Internship (21MBAI201) courses will have In Semester 
 Assessment (ISA) only. 
- ## Page 9
  III Year BBA 
 Semester V 
   Sl. 
@@ -393,7 +385,6 @@ Event Management 0-0-2 2 4 100 -- 100 --
   Total 14-0-5 19 
    Event Management (21MBAP303) and Internship (24MBAP301) courses will have In Semester 
 Assessment (ISA) only 
- ## Page 10
  DSE -I, II & III, IV 
   HR Specialization Marketing Specialization Finance Specialization 
 HR Planning and Talent 
@@ -417,7 +408,6 @@ Consumer Behavior
 International Finance 
 Management 
 Risk management 
- ## Page 11
  School of Management Studies and Research 
   Bachelor of Business Administration 
 Curriculum content 
@@ -466,7 +456,6 @@ degree of foreign investments, Govt. policy, event changes, Business & Law _ Bus
 cycle, Inflation - Meaning, causes& Measures to check inflation and price 
 spiral, Role of FDI & FII, Concept of GDP, GNP, NNP. 
 10 hrs 
- ## Page 12
  School of Management Studies and Research 
   Module 5: 
 Multinational - Definition, Investment motives, Benefits, Demerits, Recent trends, 
@@ -485,7 +474,6 @@ Structure implication for India.
 References: 
  Economic Environment of Business by M. Ashikary, Sultan Chand and Sons 
  Business Environment by Francis Cherrinulam, Himalaya Publishing House 
- ## Page 13
  School of Management Studies and Research 
   Course Code: 21MBAC102 Course Title: Principles of Management 
 L-T-P: 3-0-1 Credits: 4 Contact Hrs: 05 Sessions/week 
@@ -536,7 +524,6 @@ Reference:
  Robbins SP and Mary Coulter M, 2007, Management, 9th Edition, Prentice Hall of India. 
  Weihrich H and Koontz H, 2004, Management: A Global Perspective, 11th EdnMHE. 
  Certo SC and Certo ST, Modern Management, 9th edition, Prentice Hall. 
- ## Page 14
  School of Management Studies and Research 
   Course Code: 21MBAC103 Course Title: Management Accounting 
 L-T-P: 3-0-1 Credits: 4 Contact Hrs: 05 Sessions/week 
@@ -582,7 +569,6 @@ Hall of India.
 TMH Publications. 
  Ashish K Bhattacharya, Financial Accounting for Business Managers, 3rd edn, Prentice Hall 
 of India. 
- ## Page 15
  School of Management Studies and Research 
   Course Code: 21MBAC104 Course Title: Entrepreneurship Development 
 L-T-P: 2-0-1 Credits: 3 Contact Hrs: 04 Sessions/week 
@@ -627,7 +613,6 @@ Dryden Press.
 Western. 
  David H. Holt, Entrepreneurship: New Venture Creation, Prentice Hall of India 2002 
  Raj Shankar, Entrepreneurship Theory & Practice, Vijay Nicole Imprints Pvt Ltd 
- ## Page 16
  School of Management Studies and Research 
   Course Code: 21MBAC105 Course Title: English -I 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Sessions/week 
@@ -673,7 +658,6 @@ Module 5: Reading Skill
 and information Interpreting the text - understanding the text, to understand 
 what a text does, to understand what a text means 
 08 hrs 
- ## Page 17
  School of Management Studies and Research 
   Course Code: 21MBAP101 Course Title: Introduction to MS Office 
 L-T-P: 1-0-1 Credits: 2 Contact Hrs: 03 Sessions/week 
@@ -705,13 +689,10 @@ Fourth Annual Edition, Thomson Learning.
  Rajaraman, V., (2009) Introduction to Information Technology, Prentice Hall of India. 
  ITL, ESL, (2005) Introduction to Infotech, 1st edition, Pearson Education. 
  Goyal, Anita, (2010) Computer Fundamentals, 1st Edition, Pearson Education. 
- ## Page 18
  Balake Kannada-I 
   23 
- ## Page 19
  Adalitha Kannada-I 
   24 
- ## Page 20
  School of Management Studies and Research 
   Semester II 
   Course Code: 21MBAC106 Course Title: Business Statistics 
@@ -749,7 +730,6 @@ Reference Books:
  Lewin and David S Rubin, Statistics for Management, 7th edition, Pearson. 
  ND Vohra, "Business Statistics", TMH Publication, 2017. 
  JK Sharma, "Business Statistics", Pearson Publication, 2017. 
- ## Page 21
  School of Management Studies and Research 
   Course Code: 21MBAC107 Course Title: Business Mathematics 
 L-T-P: 3-1-0 Credits: 4 Contact Hrs: 05 Sessions/week 
@@ -791,7 +771,6 @@ References:
  Business Mathematics by Dr. AmarnathDikshit& Dr. Jinendra Kumar Jain. 
  Business Mathematics by V. K. Kapoor - Sultan chand& sons, Delhi 
  Business Mathematics by Bari - New Literature publishing company, Mumbai 
- ## Page 22
  School of Management Studies and Research 
   Course Code: 21MBAC108 Course Title: Business Economics 
 L-T-P: 4-0-0 Credits: 4 Contact Hrs: 04 Sessions/week 
@@ -843,7 +822,6 @@ Economy.
 References: 
  D N Dwivedi Essentials of Business Economics 
  Samuelson & Economics; McGraw Hills. William D. Nordhans 
- ## Page 23
  School of Management Studies and Research 
    P. N. Chopra Advanced Economics Theory; Kalyani Publishers, New Delhi. 
 Course Code: 21MBAC109 Course Title: Environmental Studies 
@@ -868,7 +846,6 @@ Books Recommended:-
  Environmental Policy - By. James Lester, Duke University Press 
  Environmental Management System ISO 14001 - By Dr. Ashok Joshi, L.Ramkrishnan, 
 NiveditaSarnaik 
- ## Page 24
  School of Management Studies and Research 
   Course Code: 21MBAC110 Course Title: English -II 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Sessions/week 
@@ -897,7 +874,6 @@ Basics of Business Presentations
  Making Effective Business Presentations 
  Effective Use of Illustrations 
 10 hrs 
- ## Page 25
  School of Management Studies and Research 
   Course Code: 22MBAP101 Course Title: Business Communication 
 L-T-P: 2-0-1 Credits: 3 Contact Hrs: 04 Sessions/week 
@@ -933,7 +909,6 @@ Dramatization - Public address system - Grapevine - Group Discussion - Oral repo
 Closed circuit TV). Customer Care/Customers Relations - Public Relations (Concept, 
 Principles, Do's and Don'ts etc. to be studied for each type). 
 08 hrs 
- ## Page 26
  School of Management Studies and Research 
   Course Code: 21MBAP105 Course Title: Self Development 
 L-T-P: 0-0-2 Credits: 2 Contact Hrs: 04 Sessions/week 
@@ -951,7 +926,6 @@ Particulars Hours
  Creative thinking 
  Success and Excellence 
 64 hrs 
- ## Page 27
  School of Management Studies and Research 
   Course Code: 21MBAW101 Course Title: Entrepreneurship Project 
 L-T-P: 0-0-3 Credits: 2 Contact Hrs: 06 Sessions/week 
@@ -971,7 +945,6 @@ Tasks:
 6. Enterprise growth strategy 
 7. Exit plan 
 90 hrs 
- ## Page 28
  School of Management Studies and Research 
   Bachelor of Business Administration 
 Curriculum content 2021-24 
@@ -1019,7 +992,6 @@ Text Book (List of books as mentioned in the approved syllabus)
  Prasanna Chandra, Fundamentals of Financial Management, 7th Edn, Tata McGraw Hill. 
  I M Pandey, Essentials of Financial Management, 9th Edn, Vikas Publishing House. 
  M. Y. Khan and P. K. Jain, Financial Management, 5th Edn, Tata McGraw Hill. 
- ## Page 29
  School of Management Studies and Research 
   Course Code: 21MBAC202 Course Title: Human Resource Management 
 L-T-P: 3-0-1 Credits: 4 Contact Hrs: 05 Sessions/week 
@@ -1068,7 +1040,6 @@ Text book
  Personnel Management- C. B. Mamoria 
  Human Resource Management. Texts and Cases - V.S. P. Rao 
  Human Resource Management -L.M. Prasad 
- ## Page 30
  School of Management Studies and Research 
   Course Code: 21MBAC203 Course Title: Marketing Management 
 L-T-P: 3-0-1 Credits: 4 Contact Hrs: 05 Sessions/week 
@@ -1113,7 +1084,6 @@ Books International, New Delhi.
 Pvt.Ltd, New Delhi. 
 5. S.A. Sherlekar& R. Krishnamoorthy (2015), Principles of Marketing, Himalaya Publishing 
 House Pvt. Ltd.,- Mumbai 
- ## Page 31
  School of Management Studies and Research 
   Course Code: 22MBAC201 Course Title: Research Methodology 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Sessions/week 
@@ -1154,7 +1124,6 @@ References:
 0-19- 567696-9. 
  Ghauri, Pervez &Gronhaug, Kjell (2010), Research Methods in Business Studies, Pearson, 
 ISBN: 978-0273712046 
- ## Page 32
  School of Management Studies and Research 
   Course Code: 21MBAP201 Course Title: Tally and Advanced Excel 
 L-T-P: 1-0-1 Credits: 2 Contact Hrs: 03 Sessions/week 
@@ -1173,7 +1142,6 @@ appearance performing calculations on data focusing on specific data by using
 specific filters recording and summarizing data, data tools, excel tables, pivot tables, 
 charts, and solver. 
 14hrs 
- ## Page 33
  School of Management Studies and Research 
   Course Code: 21MBAP202 Course Title: Small Business Management 
 L-T-P: 1-0-2 Credits: 3 Contact Hrs: 05 Sessions/week 
@@ -1206,7 +1174,6 @@ edition, SpringerLink
 Norman .M. Scarborough, Edition 4.2008, Pearson. 
  Fundamentals of Entrepreneurship and Small Business Management by Vasant Desai 8th 
 Edition 2005, Himalaya Publications 
- ## Page 34
  School of Management Studies and Research 
   Course Code: 21MBAP203 Course Title: Web Design 
 L-T-P: 2-0-1 Credits: 3 Contact Hrs: 04 Sessions/week 
@@ -1234,7 +1201,6 @@ Reference Books:
  Learning Web Design: A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics, 
 Fifth Edition Paperback - 1 January 2018'by Jennifer Robbins 
  Designing with Web Standards Paperback -2009, by Jeffrey Zeldman 
- ## Page 35
  School of Management Studies and Research 
   Semester -IV 
   Course Code: 21MBAC205 Course Title: Operations Management 
@@ -1284,7 +1250,6 @@ Wiley, 2007.
  B.Mahadevan, Operations Management, 2nd Edition, Pearson, 2010. 
  Lee Krajewski, Larry P Ritzman.,Manoj K Malhotra & Samir K Srivastava, Operations 
 Management, 9th Edition, Pearson, 2011. 
- ## Page 36
  School of Management Studies and Research 
   Course Code: 21MBAC206 Course Title: Organizational Behavior 
 L-T-P: 3-0-1 Credits: 4 Contact Hrs: 05 Sessions/week 
@@ -1332,7 +1297,6 @@ Suggested Books:
  Prentice Hall of India Pvt Ltd, New Delhi 
  Organizational Behaviour: By: Fred Luthans, Mc Graw Hill Irwin, New-Delhi 
  Organizational Behaviour: By: K.Ashwatappa Himalaya Publishing House, Banglore 
- ## Page 37
  School of Management Studies and Research 
   Course Code: 21MBAC207 Course Title: Business Taxation 
 L-T-P: 4-0-0 Credits: 4 Contact Hrs: 04 Sessions/week 
@@ -1375,7 +1339,6 @@ Suggested Books:
  Indirect Taxes - by V.S.Datey - Taxmann publications Pvt Ltd. - New Delhi 
  Indirect Taxes - by DinkarPagre - Sultan Chand and sons- New Delhi. Central Sales Tax 
 Act - Bare Acts. 
- ## Page 38
  School of Management Studies and Research 
   Course Code:21MBAC208 Course Title: Project Management 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 Sessions/week 
@@ -1413,7 +1376,6 @@ References
  Gido I Clements, Project Management Cengage Learning. 
  The Managerial Process ,Project Management- by Clifford Gray and Erik Larson Tata 
 McGraw Hill, 3rd Edition. 
- ## Page 39
  School of Management Studies and Research 
   Course Code: 21MBAC209 Course Title: Indian Constitution 
 L-T-P: 2-0-0 Credits: 2 Contact Hrs: 02 Sessions/week 
@@ -1455,7 +1417,6 @@ constitutional Law, New Delhi, National Book Trust, 2000.
 India, 2001. 
  D.C.Gupta, Indian Government and Politics, VIII Edition, New Delhi, Vikas, 1994. 
  J.C.Johari, Indian Government and Politics, Delhi, SterlingPublishers, 2004 
- ## Page 40
  School of Management Studies and Research 
   Course Code: 21MBAC204 Course Title: Digital Marketing 
 L-T-P: 2-0-1 Credits: 3 Contact Hrs: 04 Sessions/week 
@@ -1486,7 +1447,6 @@ Reference Book
 EllisChadwick 
  Understanding Digital Marketing: Marketing Strategies for Engaging the Digital 
 Generation - Damian Ryan and Calvin Jones 
- ## Page 41
  School of Management Studies and Research 
   Course Code: 21MBAP207 Course Title: Sports and Yoga 
 L-T-P: 0-0-2 Credits: 2 Contact Hrs: 04 Sessions/week 
@@ -1508,7 +1468,6 @@ Volleyball
 Throw ball 
 Kho-kho, kabaddi, hockey, etc 
 Lagori (Team Game) 
- ## Page 42
  School of Management Studies and Research 
   Course Code: 21MBAI201 Course Title: Industry Internship 
 L-T-P: 0-0-3 Credits: 3 Contact Hrs: 06 Sessions/week 
@@ -1527,7 +1486,6 @@ tasks:
  SWOT Analysis of the organization(strength, Weakness, opportunity and 
 threats) 
   90Hrs 
- ## Page 43
  III Year BBA Semester V 
 Course Code: 21MBAC301 Course Title: Quality Management 
 L-T-P-: 4-0-0 Credits: 4 Contact Sessions: 4 Sessions /week 
@@ -1569,7 +1527,6 @@ References books:
 South-Western (Thomson Learning). 
  Feigenbaum, A.V. ―Total Quality Management; 4 edition (August 1, ‖, McGraw-Hill 
 Professional. 
- ## Page 44
  Course Code: 21MBAC302 Course Title: Legal Environment and IPR 
 L-T-P-: 3-0-0 Credits: 3 Contact Sessions: 3 Sessions 
 /week 
@@ -1609,7 +1566,6 @@ Reference books:
 House (P) Ltd, Edition 2018 
  Kapoor G. K. & Dhamija Sanjay, Company Law and Practice-A comprehensive text book on 
 Companies Act 2013, Taxmann.September - 2022 
- ## Page 45
  Course Code: 21MBAC303 Course Title: Technology For Business 
 L-T-P-: 2-0-1 Credits: 3 Contact Sessions: 4 
 Sessions/week 
@@ -1643,7 +1599,6 @@ Bangalore, 1983.
  Rohtagi P K, Rohtagi K and Bowonder B: Technological Forecasting, Tata McGraw Hill, 
 New Delhi. 
  Betz Fredrick: Managing Technology, Prentice Hall, New Jersey. 
- ## Page 46
  Course Code: 24MBAC301 Course Title: Supply Chain Management 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 3 Sessions/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -1684,7 +1639,6 @@ Reference:
 Supply Chain Management,, Cengage Learning India Pvt Ltd, 2009 
 3. Narayana Rangaraj, G raghuram, Mandyam M Srinivasan, Supply Chain Management 
 for Competitive Advantage Concepts and Cases, 2, Tata Mcgraw Hill, 2011 
- ## Page 47
  Course Code: 21MBAP304 Course Title: Ethics and Self Awareness 
 L-T-P: 1-0-0 Credits: 1 Contact Hours: 1 Session /week 
 ISA Marks: 100 ESA Marks: NA Total Marks: 100 
@@ -1708,7 +1662,6 @@ Self Concepts - Self-Knowledge, Assertiveness and Self-Confidence, Self-Esteem.
 Reference books: 
  Ethics, Integrity and Aptitude (4th Edition) -M Kartikeyan THM Publication 2021.
  Introduction To Ethics (First Edition) by William Lillie, Allied Publisher
- ## Page 48
  Semester VI 
   Course Code: 21MBAC304 Course Title: Family Business 
 L-T-P: 3-0-0 Credits: 3 Contact Hours: 3 sessions/week 
@@ -1749,7 +1702,6 @@ M.M., & Lansberg, I. (1997). Generation to Generation: Life Cycles of the Family
 Business School Press. 
 1. Bork, Jaffe, Lane, Dashew, Heisler (1996). Working with family businesses: A guide for professionals. 
 Jossey Bass Publishers. 
- ## Page 49
  Course Code: 24MBAC302 Course Title: International Business Environment 
 L-T-P-: 3-0-0 Credits: 3 Contact Sessions: 3 Sessions/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -1793,7 +1745,6 @@ John. J. Wild (et al): International Business, Prentice Hall of India, 2003.
 Richard M. Schaffer (et al): International Business Law and its environment, Thomson 2002. 
 Adhikary, Manab, GLOBAL BUSINESS MANAGEMENT, Macmillan, New Delhi. 
 Aswathappa, International business, Tata Mc Graw Hill publications, New Delhi. 
- ## Page 50
  Course Code: 24MBAC303 Course Title: Analytics for Business 
 L-T-P: 2-0-0 Credits: 2 Contact Hrs: 02 Sessions/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -1837,7 +1788,6 @@ foundations, Structure and Development) McGraw Hill Education Ind ia Private Lim
 edition, 2015 
 James O'Brien and George Marakas, Management Information Systems, McGraw Hill 
 EducationIndia Private Limited; 10 edition, 2011 
- ## Page 51
  Course Code: 21MBAP303 Course Title: Event Management 
 L-T-P: 0-0-2 Credits: 2 Contact Hrs: 04 Sessions/week 
 ISA Marks: 100 ESA Marks: NA Total Marks: 100 
@@ -1864,7 +1814,6 @@ Ganga Sagar Singh - Har-an and Publications Pvt. Ltd. - 2012
  Event Management by Swarup K. Goyal - Adhyayan Publisher - 2009 
  Event Management & Public Relations by Savita Mohan - Enkay Publishing House 201 
  Event Management by Lynn Van Der Wagen Pearson Publication 
- ## Page 52
  Course Code: 24MBAP301 Course Title: Internship 
 L-T-P: 0-0-3 Credit: 3 Contact Hrs: 06 Sessions 
 /week 
@@ -1881,7 +1830,6 @@ Teaching Hrs: NA Exam Duration: NA
 ● Limitation of the project 
 ● Recommendations 
 100 
- ## Page 53
  Course Code: 23MBAE311 Course Title: HR Planning and Talent Acquisition 
 L-T-P-: 3-0-0 Credits: 3 Contact Sessions: 3 
 Sessions/week 
@@ -1921,7 +1869,6 @@ Reference Books:
  Friga, Paul N.(2009), The McKinsey Engagement, Tata McGraw-Hill, India
  Dessler, G. (1997), Human Resource Management, Prentice Hall, India
  AmritTiwana, The essential Guide to Knowledge Management, Person Education
- ## Page 54
  Course Code : 23MBAE312 Course Title: Industrial and Labour Law 
 L-T-P-: 3-0-0 Credits:3 Contact Sessions: 3 
 Sessions/week 
@@ -1960,7 +1907,6 @@ Reference Books:
 Laws. Ludhiana: Kalyani Publishers. 
  Kumar H.L.,(2000). Practical Guide to Labour Management. New Delhi : Universal Law 
 Publishing. 
- ## Page 55
  Course Code: 23MBAE313 Course Title: Training and Development 
 L-T-P-: 3-0-0 Credits: 3 Contact Hours: 3 sessions / week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -2003,7 +1949,6 @@ I. Dayal: Management Training in Organisation, Prentice Hall of India
 D. L. Kirpatrick : Evaluating Training Programmes, Berret-Koehler, San Francisco. 
 Bhirmani and Seth: Evaluating Management Training and Development, Vision. 
 Raymond Noe, Employee Training, McGraw Hill 
- ## Page 56
  Course Code: 23MBAE314 Course Title: Performance and Compensation Management 
 L-T-P-: 3-0-0 Credits: 3 Contact Hours: 3 sessions / Week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -2043,7 +1988,6 @@ Newman, J., & Gerhart, B. (2019). Compensation (13th ed.). McGraw Hill.
 Rao, T. V. (2004). Performance Management and Appraisal Systems: HR tools for global competitiveness. 
 Sage India. 
 Varkkey, B., & Dessler, G. (2018). Human Resource Management (15th ed.). Pearson India. 
- ## Page 57
  Course Code: 23MBAE321 Course Title: Sales and Distribution Management 
 L-T-P-: 3-0-0 Credits: 3 Contact Sessions: 3 Sessions/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -2085,7 +2029,6 @@ Reference Books:
  Sales & Retail Management, an Indian perspective by Dr.S.L Gupta, 1/e, Excel Books, 2007. 
  Salesmanship and Sales Management-P.K Sahu & K C Raut, 3/e, Vikas PublishingHouse.2003 
  Sales Management-Douglas J Dalrymple, William L Crowe-John Wiley & Co. 
- ## Page 58
  Course Code: 23MBAE322 Course Title: Integrated Marketing Communication 
 L-T-P-: 3-0-0 Credits: 3 Contact Sessions: 3 Sessions/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -2125,7 +2068,6 @@ Reference Books:
  Advertising & Promotions: An IMC perspective, Kruti Shah and Alan 
 'Souza, Tata McGraw Hill.2009 
  Advertising Management, Aakar, Batra and Myers, Prentice, 2002 
- ## Page 59
  Course Code: 23MBAE323 Course Title: Consumer Behavior 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 03 hours / week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -2171,7 +2113,6 @@ Suja R Nair, Consumer Behaviour in Indian Perspective, Himalaya Publishing House
 John A Howard, Consumer Behaviour in Marketing Strategy, Prentice Hall New Delhi 
 Suja R Nair - Consumer Behaviour cases & Texts. 
 Sarkar A Problems of Consumer Behaviour in India, Discovery Publishing House NewDelhi 
- ## Page 60
  Course Code: 23MBAE324 Course Title: International Marketing Management 
 L-T-P-: 3-0-0 Credits: 3 Contact Sessions : 3 hrs/ week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -2212,7 +2153,6 @@ Reference Books
 (March 19, 2019) 
 - Global Marketing: Foreign Entry, Local Marketing, and Global Management 5th Edition 
 by Johny Johansson (Author) 
- ## Page 61
  Course Code: 23MBAE331 Course Title: Security Analysis and Portfolio 
 Management 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 3 Sessions/week 
@@ -2251,7 +2191,6 @@ References Books:
 ● Alexander, Sharpe, Bailley, Fundamentals of Investment, Pearson. 
 ● Chandra Prasanna, Investment Analysis and Portfolio Management, 3rd Edition, TMH 
 ● Punithavati Pandyan, Security Analysis and Portfolio Management, Latest edition, Vikas 
- ## Page 62
  Course Code: 23MBAE332 Course Title: Risk Management 
 L-T-P-: 3-0-0 Credits: 3 Contact Sessions: 3 
 Sessions/week 
@@ -2285,7 +2224,6 @@ Reference Books :
  Rajiv Srivastava, Derivatives and Risk Management, Oxford University Press. 
  Dhanesh Khatri, Derivatives and Risk Management, Macmillan Publishing. 
  Sundaram Das Derivatives Principles and Practice TMH 
- ## Page 63
  Course Code: 23MBAE335 Course Title: International Finance Management 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 3 sessions/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -2324,7 +2262,6 @@ Module No. 5: International Capital Budgeting:
 Review of Domestic Capital Budgeting, The Adjusted Present Value Model, Capital Budgeting from 
 the Parent Firm's Perspective, Risk Adjustment in the Capital Budgeting Process, Sensitivity Analysis. 
 05 
- ## Page 64
  References 
 1. Jeff Madhura, International Financial Management, South-Western 
 2. Prakash G Apte, International Financial Management, 5thedn, TMH 
@@ -2332,7 +2269,6 @@ the Parent Firm's Perspective, Risk Adjustment in the Capital Budgeting Process,
 Finance, 10thedn, Pearson Education 
 4. Sharan, International Financial Management, Prentice Hall.Shapiro, International 
 Financial M 
- ## Page 65
  Course Code: 24MBAE341 Course Title: Advanced Financial Management 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 3 sessions/week 
 ISA Marks: 50 ESA Marks: 50 Total Marks: 100 
@@ -2373,5 +2309,4 @@ Publishing House.
 Vanhorne, Financial Management &amp; Policy, 12/e, Pearson 
 3. Ashwath Damodaran, Corporate Finance: Theory&amp; Practice, 2/e, Wiley India 
 Pvt. Ltd., 2009. 
-4. Ravi M. Kishore, Financial Management, 7/e, Taxmann's 
-  
+4. Ravi M. Kishore, Financial Management, 7/e, Taxmann's

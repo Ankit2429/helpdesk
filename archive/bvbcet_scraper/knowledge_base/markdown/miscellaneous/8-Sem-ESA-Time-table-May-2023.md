@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 8-Sem-ESA-Time-table-May-2023"
+title: "8 Sem Esa Time Table May 2023"
 category: "miscellaneous"
 subcategory: ""
 document_type: "timetable"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["course", "document", "esa", "examinations", "may", "sem", "semester", "table", "theory", "time"]
 aliases: ["ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "6"
 ---
-# PDF Document: 8-Sem-ESA-Time-table-May-2023
- **PDF Source:** https://www.kletech.ac.in/pdf/8-Sem-ESA-Time-table-May-2023.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/8-Sem-ESA-Time-table-May-2023.pdf
  Prepared By:
 M.S. Kalasad
 B. V. Bhoomaraddi College Campus, Vidyanagar, Hubballi - 580031. Karnataka (India)
@@ -35,7 +35,6 @@ Management Theory and Practice
 15EHSO402
 17/05/2023 
 (Wednesday) 
- ## Page 2
  15/05/2023 
 (Monday) 
 Nano Composite Materials 
@@ -61,7 +60,6 @@ Controller of Examinations
 (Wednesday) 
 Natural Language Processing (18ECSE403)
 C# Programming and . NET (18ECSE409)
- ## Page 3
  Nano Composite Materials 
 (15ECVO401) Big Data Analytics (18ECSO401)
 Management Theory and Practice 
@@ -84,7 +82,6 @@ Construction Quality Management
 17/05/2023 
 (Wednesday) 
 Controller of Examinations 
- ## Page 4
  Prepared By:
 M.S. Kalasad
 TIME TABLE FOR VIII SEMESTER B.E. END SEMESTER 
@@ -101,7 +98,6 @@ Artificial Intelligence
 17/05/2023 
 (Wednesday) 
 Controller of Examinations 
- ## Page 5
  Nano Composite Materials 
 (15ECVO401) Big Data Analytics (18ECSO401)
 Artificial Intelligence (17EEEO402)Management Theory and Practice 
@@ -129,7 +125,6 @@ Controller of Examinations
 (Friday) 
 MEMS 
 18EECE403
- ## Page 6
  Nano Composite Materials 
 (15ECVO401) Big Data Analytics (18ECSO401)
 Management Theory and Practice 
@@ -154,4 +149,4 @@ Advanced Energy Technology
 15EMEE415
 17/05/2023 
 (Wednesday) 
-Controller of Examinations 
+Controller of Examinations

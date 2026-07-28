@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 3rd_EC_Minutes"
+title: "EC Minutes"
 category: "miscellaneous"
 subcategory: ""
 document_type: "minutes"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["approve", "council", "document", "technological", "university", "year"]
 aliases: ["ME", "Mechanical Dept", "CSE", "CS", "ECE", "EC", "EEE", "EE", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "9"
 ---
-# PDF Document: 3rd_EC_Minutes
- **PDF Source:** https://www.kletech.ac.in/pdf/3rd_EC_Minutes.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/3rd_EC_Minutes.pdf
  1 | P a g e 
   Minutes 
   3rd Executive Council Meeting 
@@ -22,7 +22,6 @@ of
 KLE Technological University, 
 Hubballi, Karnataka 
 March 21, 2016 
-  ## Page 2
  2 | P a g e 
   The following are the minutes of the Executive Meeting of KLE Technological University, Hubballi 
 which was held on 12th December 2015 at 9.30 am at the Chamber of KLE Society's, S. Nijalingappa 
@@ -57,7 +56,6 @@ SL Name Designation Position
 1 Dr. B.B. Kotturshettar Dean Planning and 
 Development 
 Member 
- ## Page 3
  3 | P a g e 
   SL 
 No 
@@ -76,7 +74,6 @@ meeting held on 12th Dec 2015.
 year 2016-17. 
   8 
   Any other subject with the permission of the Chair. 
-  ## Page 4
  4 | P a g e 
   Agenda 3.1 
   To read & confirm the minutes of the previous meeting held on 12th 
@@ -126,7 +123,6 @@ for the award of the PhD Degree.
 Thesis shall be rejected. It shall be 
 The approved Regulations 
 are being implemented. 
-  ## Page 5
  5 | P a g e 
   open for the research scholar to 
 seek registration for this Degree at 
@@ -221,7 +217,6 @@ Council' have been
 informed about the 
 objectives, scope and 
 frequency of Research 
- ## Page 6
  6 | P a g e 
   Council meetings. 
 Agenda 2.9 
@@ -261,7 +256,6 @@ COMPUTER SCIENCE 240 236
 BIOTECHNOLOGY 60 52 
 AUTOMATION & ROBOTICS 60 57 
 ARCHITECTURE 60 61 
- ## Page 7
  7 | P a g e 
   Total 1080 1071 
   PG 
@@ -287,7 +281,6 @@ First semester examinations of UG programs were conducted from 8th to 21st Dec 2
 Semester Assessment of PG programs were conducted from 21st Jan to 5th Feb 2016. Results of the 
 same will be presented during the meeting. 
   Resolution: Resolved to review the results of I sem of all programs. 
-  ## Page 8
  8 | P a g e 
   Agenda 3.6 
 To review the progress of PhD admissions for the year 2016-17. 
@@ -317,7 +310,6 @@ Sl. No. Master of Technology Intake in Nos.
 2. Energy systems Engineering 18 
 3. Production Management 18 
 4. Digital Electronics 24 
- ## Page 9
  9 | P a g e 
   5. Computer Science 36 
 6. VLSI Design and Embedded Systems 24 
@@ -328,5 +320,4 @@ Sl. No. Master of Technology Intake in Nos.
 1. MBA 60 
   Resolution: Resolved to consider and approve the intake for 
 Admissions for the academic year 2016-17. 
-  Chairman thanked all the members for their contributions. 
-  
+  Chairman thanked all the members for their contributions.

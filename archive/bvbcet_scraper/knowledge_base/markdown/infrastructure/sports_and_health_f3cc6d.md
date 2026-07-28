@@ -33,4 +33,3 @@ last_modified: "2026-07-28"
  Adapting to the culture of the "new normal," KLE Tech University has rigorously worked well for Covid-19 Readiness. We have created a systematic approach for the tracking and tracing of Coronavirus within the campus. We have established a well-equipped centre to fight against the pandemic.
  A strict charter has been prepared to track, trace and treat the affected ones. An emergency helpline number has also been set up for the students so that they can make immediate contact with the concerned staff.
  Emergency helpline number
- 

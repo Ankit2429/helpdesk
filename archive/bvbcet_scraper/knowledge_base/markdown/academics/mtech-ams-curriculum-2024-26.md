@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: mtech-ams-curriculum-2024-26"
+title: "M.Tech in Advanced Manufacturing Systems Curriculum"
 category: "academics"
 subcategory: ""
 document_type: "syllabus"
@@ -11,18 +11,15 @@ language: "en"
 keywords: ["ams", "curriculum", "data", "design", "document", "management", "manufacturing", "mtech", "systems"]
 aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "35"
 ---
-# PDF Document: mtech-ams-curriculum-2024-26
- **PDF Source:** https://www.kletech.ac.in/pdf/mtech-ams-curriculum-2024-26.pdf
- ## Page 1
- FMCD2009 / 2.0 
- 1 
+**PDF Source:** https://www.kletech.ac.in/pdf/mtech-ams-curriculum-2024-26.pdf
+
   Curriculum Structure and Curriculum Content for the Academic Batch 2024-26 
 School /Department: Mechanical Engineering 
 Program: M.Tech in Advanced Manufacturing Systems 
-  ## Page 2
- FMCD2009 / 2.0 
- 2 
+
   Table of Contents 
 Vision and Mission of KLE Technological University ........................................... 3 
 Vision and Mission Statements of the School / Department ................................ 4 
@@ -35,9 +32,7 @@ Semester- III ..................................................................
 Semester- IV ............................................................................................................. 9 
 List of Program Electives ...................................................................................... 10 
 Curriculum Content- Course wise ........................................................................ 11 
-  ## Page 3
- FMCD2009 / 2.0 
- 3 
+
 Vision and Mission of KLE Technological University 
   Vision 
   KLE Technological University will be a national leader in Higher Education -
@@ -59,9 +54,7 @@ contributing our expertise, experience and leadership, t o enhance
 competitiveness and quality of life. 
   As a unified community of faculty, staff and students, we work together with 
 the spirit of collaboration and partnership to accomplish our mission. 
-  ## Page 4
- FMCD2009 / 2.0 
- 4 
+
 Vision and Mission Statements of the School / Department 
 Vision 
 KLE Tech - School of Mechanical Engineering will be a national leader in 
@@ -104,9 +97,7 @@ Entreprene
 urial eco-
 system 
 Vision 
- ## Page 5
- FMCD2009 / 2.0 
- 5 
+
 Program Educational Objectives/Program Outcomes and Program-Specific 
 Objectives 
 Program Educational Objectives -PEOs 
@@ -138,9 +129,7 @@ program
 financial factors 
 5. Ability to use and develop modern tools in modeling, simulation and 
 analysis of manufacturing/ management related problems 
-  ## Page 6
- FMCD2009 / 2.0 
- 6 
+
 Curriculum Structure-Overall 
    Semester 1 to 4 (2023-25)Total Program Credits:88 
 Course with course code 
@@ -189,9 +178,7 @@ Product Automation Lab
     Mini Project 
 20EAMW701 
    Credits 25 25 18 20 
- ## Page 7
- FMCD2009 / 2.0 
- 7 
+
 Curriculum Structure-Semester wise 
 Semester - I ←Back Table of Contents 
   No Code Course Category L-T-P Credits Contact 
@@ -208,9 +195,7 @@ Duration
 7 20EAMP702 PLM Functional Lab PC 0-0-3 3 06 80 20 100 2 hours 
 8 20EAMP703 ERP Functional Lab PC 0-0-3 3 06 80 20 100 2 hours 
             TOTAL 14-0-11 25 36 
- ## Page 8
- FMCD2009 / 2.0 
- 8 
+
 Semester - II ←Back Table of Contents 
   No Code Course Category L-T-P Credits Contact 
 Hours ISA ESA Total 
@@ -227,9 +212,7 @@ Duration
 8 20EAMP706 Product Automation Lab PC 0-0-3 3 06 80 20 100 2 hours 
 9 20EAMW701 Mini Project PC 0-0-3 3 06 50 50 100 2 hours 
 TOTAL 13-1-11 25 37 
- ## Page 9
- FMCD2009 / 2.0 
- 9 
+
 Semester- III ←Back Table of Contents 
   Semester- IV 
   No Code Course Category L-T-P Credits Contact 
@@ -247,9 +230,7 @@ Duration
 (in hrs) 
 1 20EAMW802 Project Work Phase II PJ 0-0-20 20 40 50 50 100 2 hours 
             TOTAL 0-0-20 20 40 
- ## Page 10
- FMCD2009 / 2.0 
- 10 
+
 List of Program Electives ←Back-1Semester 
 Sr. No Name of the Course Course Code 
 1 Design for Additive Manufacturing 20EAME701 
@@ -260,9 +241,7 @@ Sr. No Name of the Course Course Code
 6 Manufacturing Systems and Automation 20EAME706 
 7 Manufacturing Execution Systems 20EAME707 
 8 Robust Design Optimization 20EAME708 
-  ## Page 11
- FMCD2009 / 2.0 
- 11 
+
 Curriculum Content- Course wise ←Back-1Semester 
 Program: PG_Advanced Manufacturing Systems Semester: I 
 Course Title: PLM Fundamentals Course Code:20EAMC701 
@@ -299,9 +278,7 @@ Reference Books:
 Realization", Springer, Third Edition, 2015 
 2. Chaudhery Mustansar Hussain & Paolo Di Sia, "Handbook of Smart Materials, 
 Technologies, and Devices: Applications of Industry 4.0", Springer. First Edition, 2021 
-  ## Page 12
- FMCD2009 / 2.0 
- 12 
+
 ←Back-1Semester 
 Program: PG_Advanced Manufacturing Systems Semester: I 
 Course Title: Engineering Data Management Course Code:20EAMC702 
@@ -343,9 +320,7 @@ research centre of Finland, 2000.
 2. Rodger Burden PDM: Product Data Management Volume 1, Resource Publishing, 2003. 
 3. Annita Persson Dahlqvist et.al, PDM and SCM - similarities and differences, The 
 Association of Swedish Engineering Industries, 2001. 
-  ## Page 13
- FMCD2009 / 2.0 
- 13 
+
 ←Back-1Semester 
 Program: PG_Advanced Manufacturing Systems Semester: I 
 Course Title: Engineering Data Management Course Code:20EAMC702 
@@ -387,9 +362,7 @@ research centre of Finland, 2000.
 2. Rodger Burden PDM: Product Data Management Volume 1, Resource Publishing, 2003. 
 3. Annita Persson Dahlqvist et.al, PDM and SCM - similarities and differences, The 
 Association of Swedish Engineering Industries, 2001. 
-  ## Page 14
- FMCD2009 / 2.0 
- 14 
+
 ←Back-1Semester 
 Program: PG_Advanced Manufacturing Systems Semester: I 
 Course Title: Product Design & Development Course Code:20EAMC703 
@@ -424,9 +397,7 @@ Hill Publication.
 2. A. K. Chitale and R. C. Gupta, Product Design and Manufacturing, Prentice Hall India. 
 3. Bralla, James G., Handbook of Product Design for Manufacturing, McGraw Hill 
 Publications. 
-  ## Page 15
- FMCD2009 / 2.0 
- 15 
+
 ←Back-1Semester 
 Program: PG_Advanced Manufacturing Systems Semester: I 
 Course Title: Enterprise Resource Planning - I Course Code:20EAMC704 
@@ -472,9 +443,7 @@ Inventory valuation methods
 CRM Perspective: Role of ERP in CRM, Concept of CRM: Objectives of CRM; Benefits of CRM; 
 Components of CRM, Types of CRM: Operational CRM, Analytical CRM, Sales intelligence CRM, 
 Collaborative CRM, Sub-Modules of CRM: Marketing module; Service module; Sales module 
- ## Page 16
- FMCD2009 / 2.0 
- 16 
+
 HR Perspective: Role of ERP in Human Resource Management: Workflow of ERP human 
 resource management system; Advantages of ERP human resource management system, 
 Human Resource Management Module: Functions of human resource management module; 
@@ -518,9 +487,7 @@ components into assembly work exercise to demonstrate Top-Down assembly approach
 7. Drafting 
 Converting existing 3D models into 2D drawings with all relevant details, sectional views etc. 
 8. Data Exchange and Collaborative Lifecycle 
- ## Page 17
- FMCD2009 / 2.0 
- 17 
+
 Import and export different file formats, manage the Mastership of imported objects, Create a 
 new product structur e, Use different sections of the Action bar effectively, Manage the 
 changes in a product structure, Save the product structure in the database 
@@ -557,9 +524,7 @@ References:
 1. Companion Courses - https://companion.3ds.com/ 
 2. Antti Saakasvuori, Anselmi Immonen, "Product Lifecycle Management" - Springer, 1st 
 Edition, 2003. 
-  ## Page 18
- FMCD2009 / 2.0 
- 18 
+
 ←Back-1Semester 
 Program: PG_Advanced Manufacturing Systems Semester: I 
 Course Title: ERP Functional Lab Course Code:20EAMP703 
@@ -581,9 +546,7 @@ Production: Assembly BOM, Production order, Goods issue, Goods receipt.
 Generation of reports for various functional modules. 
 References: 
 1. SAP Business One Manual 
-  ## Page 19
- FMCD2009 / 2.0 
- 19 
+
   ←Back-1Semester 
 Program: PG_Advanced Manufacturing Systems Semester: I 
 Course Title: Design for Additive Manufacturing Course Code:20EAME701 
@@ -622,9 +585,7 @@ Procedia CIRP 21 2014, 24th CIRP design conference
 4. Rosen, D.W., 2007. Design for additive manufacturing: A method to explore unexplored 
 regions of the design space. In Proceedings of the 18th Annual Solid Freeform 
 Fabrication Symposium. 
-  ## Page 20
- FMCD2009 / 2.0 
- 20 
+
   ←Back-1Semester 
 Program: PG_Advanced Manufacturing Systems Semester: I 
 Course Title: Industrial Robotics Course Code:20EAME702 
@@ -659,9 +620,7 @@ References:
 1. Koren Yoram, Robotics for Engineers, 2, McGraw-Hill Publication. , 2013 
 2. Groover M.P, Industrial Robotics, 3, Tata McGraw-Hill Publication, 2013 
 3. Niku Saeed B, Introduction to Robotics, 4, Prantice Hall India Publication, 2014 
-  ## Page 21
- FMCD2009 / 2.0 
- 21 
+
 ←Back-1Semester 
 Program: PG_Advanced Manufacturing Systems Semester: I 
 Course Title: Supply Chain Management Course Code:20EAME703 
@@ -707,9 +666,7 @@ References:
 1. Sunil Chopra, and Peter Meindl, Supply Chain Management - Strategy, Planning, and 
 Operation, Pearson Education. 
 2. APICS, Operations Management Body of Knowledge Framework. 
- ## Page 22
- FMCD2009 / 2.0 
- 22 
+
 3. Lora Cecere, Supply Chain Metrics that Matter, Wiley. 
 4. Hartmut Stadtler, Supply chain management and advanced planning - basics, overview 
 and challenges, European Journal of Operations Research, 163, 2015. 
@@ -754,9 +711,7 @@ systems, John Wiley & Sons.
 3. Gordon G, System Simulation, Prentice Hall, India.. 
 4. Shannon, R.E., System Simulation - The art and science, Prentice Hall, India. 
 5. Averill Law & David M.Kelton, Simulation, Modeling and Analysis, TMH. 
-  ## Page 23
- FMCD2009 / 2.0 
- 23 
+
 ←Back 2semester 
 Program: PG_Advanced Manufacturing Systems Semester: II 
 Course Title: PLM Advanced Course Code:20EAMC705 
@@ -789,9 +744,7 @@ Reference Books:
 Edition, 2003. 
 2. Grieves Michael, Product Lifecycle Management - Driving the Next generation of Lean 
 Thinking, McGraw-Hill, 2006. 
-  ## Page 24
- FMCD2009 / 2.0 
- 24 
+
 ←Back 2semester 
 Program: PG_Advanced Manufacturing Systems Semester: II 
 Course Title: Enterprise Resource Planning-II Course Code:20EAMC706 
@@ -833,9 +786,7 @@ Practice, 2nd Edition, Prentice Hall India Learning Private Limited.
 Hill, New Delhi. 
 5. Pauline Wee tman, Financial and Management Accounting: An Introduction, Pearson 
 Education Limited. 
-  ## Page 25
- FMCD2009 / 2.0 
- 25 
+
 ←Back 2semester 
 Program: PG_Advanced Manufacturing Systems Semester: II 
 Course Title: Project Feasibility and Analysis Course Code:21EAMC701 
@@ -873,9 +824,7 @@ Review", Tata McGraw-Hill Publishing Company Limited, New Delhi.
 Technology: Principles and Practice", Elsevier. 
 3. Harold R. Kerzner, "Project Management: A Systems Approach to Planning, Scheduling, 
 and Controlling", Wiley, New York. 
-  ## Page 26
- FMCD2009 / 2.0 
- 26 
+
 ←Back 2semester 
 Program: PG_Advanced Manufacturing Systems Semester: II 
 Course Title: Research Methodology Course Code: 20EAMC708 
@@ -893,9 +842,7 @@ Reference Books:
 2. Ranjit Kumar, "Research Methodology - A step by step guide for Beginners", 3rd 
 Edition, Pearson Edition, Singapore, 2011. 
 3. Dawson Catherine, "Practical Research Methods", UBS Publishers, New Delhi, 2002. 
-  ## Page 27
- FMCD2009 / 2.0 
- 27 
+
 ←Back 2semester 
 Program: PG_Advanced Manufacturing Systems Semester: II 
 Course Title: Additive Manufacturing Course Code:20EAME705 
@@ -935,9 +882,7 @@ tooling, rapid manufacturing", Hanser Publishers, 2011.
 in Material Science, e-ISBN: 978-3-642- 28359-8. 
 4. L. Lu, J. Fuh and Y.-S. Wong, "Laser-induced materials and processes for rapid 
 prototyping", Kluwer Academic Press, 2001. 
-  ## Page 28
- FMCD2009 / 2.0 
- 28 
+
 ←Back 2semester 
 Program: PG_Advanced Manufacturing Systems Semester: II 
 Course Title: Manufacturing Systems & Automation Course Code:20EAME706 
@@ -979,9 +924,7 @@ References:
 Manufacturing", Pearson Education Asia. 
 2. Grover M.P., Weiss M. M., Nagel R.N. and Odrey N.G., "Industrial Robotics, Technology, 
 Programming and Applications", Mc Graw Hill Book Publications. 
- ## Page 29
- FMCD2009 / 2.0 
- 29 
+
 ←Back 2semester 
 Program: PG_Advanced Manufacturing Systems Semester: II 
 Course Title: Manufacturing Execution Systems Course Code:20EAME707 
@@ -1025,9 +968,7 @@ Real-Time Enterprise (RTE), Event-Driven Architecture (EDA), Events, Complex Eve
 Industry 4.0, Challenges, Industrial Internet of Things (IIoT), Reference Architecture for 
 Industry 4.0, Cyber -Physical Systems (CPS), Cyber -Physical Production Systems (CPPS), Smart 
 Product, Smart Manufacturing, Smart Logistics, Smart Services 
-  ## Page 30
- FMCD2009 / 2.0 
- 30 
+
 10. Business Analytics and Business Intelligence, Blockchain 
 Knowledge Management, Case -Based Reasoning (CBR), Big Data, Decision Analytics, 
 Descriptive Analytics, Predictive Analytics, Prescriptive Analytics, Bitcoin and Blockcha in, 
@@ -1061,9 +1002,7 @@ http://www.opcfoundation.org/.
 Report Series, No. 957, 2010. 
 17. Mike Bourne, Pippa Bourne, Handbook of Corporate Performance Management, Wiley, 
 2011. 
-  ## Page 31
- FMCD2009 / 2.0 
- 31 
+
 ←Back 2semester 
 Program: PG_Advanced Manufacturing Systems Semester: II 
 Course Title: Robust Design Optimization Course Code:20EAME708 
@@ -1107,9 +1046,7 @@ Applications to Engineering and SISAnce", John Wiley & sons, Inc., New York.
 5. Phadke M. S., "Quality Engineering using Robust Design", Prentice Hall PTR Englewood 
 Cliffs, New Jersy. 
 6. Ross P. J., "Taguchi Techniques for Quality Engineering", McGraw -Hill International. 
- ## Page 32
- FMCD2009 / 2.0 
- 32 
+
 ←Back 2semester 
 Program: PG_Advanced Manufacturing Systems Semester: II 
 Course Title: Robust Design Optimization Course Code:20EAME708 
@@ -1153,9 +1090,7 @@ Applications to Engineering and SISAnce", John Wiley & sons, Inc., New York.
 5. Phadke M. S., "Quality Engineering using Robust Design", Prentice Hall PTR Englewood 
 Cliffs, New Jersy. 
 6. Ross P. J., "Taguchi Techniques for Quality Engineering", McGraw -Hill International. 
- ## Page 33
- FMCD2009 / 2.0 
- 33 
+
 ←Back 2semester 
 Program: PG_Advanced Manufacturing Systems Semester: II 
 Course Title: PLM Advanced Lab Course Code:21EAMP701 
@@ -1187,9 +1122,7 @@ References:
 1. Companion Courses - https://companion.3ds.com/ 
 2. Antti Saakasvuori, Anselmi Immonen,"Product Lifecycle Management" - Springer, 1st 
 Edition, 2003. 
-  ## Page 34
- FMCD2009 / 2.0 
- 34 
+
 ←Back 2semester 
 Program: PG_Advanced Manufacturing Systems Semester: II 
 Course Title: ERP Technical Lab Course Code: 20EAMP705 
@@ -1207,9 +1140,7 @@ UI, Report - Query generation, Crystal report, Print layout design, Basics of In
 Generation of reports for various functional modules 
 References: 
 SAP Business One Manual. 
-  ## Page 35
- FMCD2009 / 2.0 
- 35 
+
 ←Back 2semester 
 Program: PG_Advanced Manufacturing Systems Semester: II 
 Course Title: Product Automation Lab Course Code: 20EAMP706 
@@ -1241,5 +1172,4 @@ JavaScript Loop, JavaScript Objects, JavaScript functions.
 Python programming skills using data structures and constructs, python programming skills 
 using functions and packages. 
 References: 
-Companion Courses - https://companion.3ds.com/ 
- 
+Companion Courses - https://companion.3ds.com/

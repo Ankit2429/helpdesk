@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: 172krf-KLESLCMUN-NEWSLETTER"
+title: "Kleslcmun Newsletter"
 category: "notices"
 subcategory: ""
 document_type: "minutes"
@@ -11,16 +11,15 @@ language: "en"
 keywords: ["committee", "delegate", "delegates", "document", "kleslcmun", "mali", "newsletter", "were"]
 aliases: ["HOD", "Head of Department"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "9"
 ---
-# PDF Document: 172krf-KLESLCMUN-NEWSLETTER
- **PDF Source:** https://www.kletech.ac.in/uploads/Files/172krf-KLESLCMUN-NEWSLETTER.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/uploads/Files/172krf-KLESLCMUN-NEWSLETTER.pdf
  0 
                                       NEWSLETTER 
   About the College 
   Newsletter 
                 11th & 12th Nov, 2017 
-  ## Page 2
  1 
   K.L.E Society's Law College, right from its inception has been imparting outstanding educational 
 services with a vision to facilitate the maximum growth in their students as well as the society. The 
@@ -33,7 +32,6 @@ including international security, economic progress and humanitarian crisis. The
 event is to teach the participants the intricacies of international negotiation, to promulgate the skill of 
 balancing the national interest with international policy, and above all, to create a spirit of 
 international cooperation and harmony. 
-  ## Page 3
  2 
   Table of Contents 
 Committee Report Reporters Page No. 
@@ -54,7 +52,6 @@ Dipesh Saboo
 Manoj Kushwaha 
 Zoya Ali 
       13 
-  ## Page 4
  3 
   Disarmament and International Security (First Committee) -DISEC 
 The Disarmament and International Security Committee of the KLESLC MUN 2017 , on the agenda 
@@ -100,7 +97,6 @@ In an attempt to understand Fourth Generation Warfare better , the tactics and c
 were also deliberated upon. The delegate of France highlighted factors such as wrongful propaganda 
 about states and also brainwashing of individuals for recr uitment or support whereas the d elegate of 
 Pakistan highlighted that the 4GW is abstract. 
- ## Page 5
  4 
   The committee broke into an unmoderated caucus by posing a crisis situation and thrived to push the 
 delegates to think on their feet and reach a resolution. The crisis situation was that the r eports of the 
@@ -146,7 +142,6 @@ second block consisting of USA, UK and Republic of Korea as sponsors. Both the d
 were put to vote where the Resolution of USA, UK and Republic of Korea won with a huge majority. 
 The resolution gives new hope for the future, defined terms of strategies and allied measures to curb 
 4GW as well as the crisis at hand. 
-  ## Page 6
  5 
   Key Points of the resolution were: 
 1) Definition of the 4GW: The Resolution defined 4GW as " any conflict in which major participants 
@@ -162,7 +157,6 @@ extremism.
 4) The members were further encouraged to come up with more effective gun control legislation. 
   Finally, the session came to an end with the Press Conference. 
   - Athulya MP 
-  ## Page 7
  6 
   United Nations Office on Drugs and Crime (UNODC) 
 A stimulating discourse by the Secretary General, Soumyaroop Chatterjee, of KLESCMUN'17 at the 
@@ -198,7 +192,6 @@ crisis. Few of these modes being:
 The coming together of the delegates to resolve this crisis affecting the world community 
 demonstrates hope and a dawn to those endless nights. 
             - Drisya Kamal 
-  ## Page 8
  7 
   The United Nations Economic and Social Council (ECOSOC) 
 Being one of the six main bodies of the UN, this committee came into being to focus on economic, 
@@ -242,7 +235,6 @@ was the worst one anyone could ever see. The resolution had four relevant clause
 them was of the mandate. It was surprising that the committee did not know the difference between 
 an immigrant and a refugee. 
            - Sai Rishi 
-  ## Page 9
  8 
   United Nations Security Council (UNSC) 
 The agenda of KLESLC MUN 2017, UNSC was the "Situation in Mali". The General Speakers List 
@@ -281,5 +273,4 @@ the Delegate of Somalia expressed his country's willingness to aid Mali and was 
 the neighbouring nations must resolve to provide military aid. To improve the economic 
 infrastructure, the delegate of South Korea suggested greater foreign investments be facilitated. 
 Despite all these deliberations the council failed to come to a resolution. 
-          - Sakshi Sachan 
- 
+          - Sakshi Sachan

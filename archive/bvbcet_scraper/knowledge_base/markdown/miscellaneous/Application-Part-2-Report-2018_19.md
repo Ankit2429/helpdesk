@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: Application-Part-2-Report-2018_19"
+title: "Application Part 2 Report 2018 19"
 category: "miscellaneous"
 subcategory: ""
 document_type: "act"
@@ -11,10 +11,10 @@ language: "en"
 keywords: ["application", "document", "engineeri", "engineering", "part", "regular", "report", "scale", "technolo"]
 aliases: ["ME", "Mechanical Dept", "CSE", "CS"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "58"
 ---
-# PDF Document: Application-Part-2-Report-2018_19
- **PDF Source:** https://www.kletech.ac.in/pdf/Application-Part-2-Report-2018_19.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/Application-Part-2-Report-2018_19.pdf
  Date of Signature(dd/mm/yyyy) Seal of Institute Name & Signature of Director/Principal
 Printed By : aict10956
                      All India Council for Technical Education (An Autonomous Organization, Under Ministry of HRD, Govt. of India) 
@@ -62,7 +62,6 @@ Faculty Details
  Total Gross Salary for 
 the Last Financial Year 
  Pay Scale
- ## Page 2
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -337,7 +336,6 @@ P541
 165479 VIth 
 Pay 
 Scale
-  ## Page 3
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -619,7 +617,6 @@ PR23
 283020 VIth 
 Pay 
 Scale
-  ## Page 4
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -896,7 +893,6 @@ PD76
 246225 VIth 
 Pay 
 Scale
-  ## Page 5
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -1183,7 +1179,6 @@ PK60
 393310 VIth 
 Pay 
 Scale
-  ## Page 6
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -1453,7 +1448,6 @@ K863
 38545 VIth 
 Pay 
 Scale
-  ## Page 7
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -1735,7 +1729,6 @@ B497
 954396 VIth 
 Pay 
 Scale
-  ## Page 8
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -2017,7 +2010,6 @@ T984
 1P
 300000 Conso
 lidated
-  ## Page 9
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -2279,7 +2271,6 @@ PJ41
 40897 VIth 
 Pay 
 Scale
-  ## Page 10
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -2549,7 +2540,6 @@ PG99
 111675 VIth 
 Pay 
 Scale
-  ## Page 11
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -2814,7 +2804,6 @@ C546
 577584 VIth 
 Pay 
 Scale
-  ## Page 12
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -3042,7 +3031,6 @@ PK02
 289963 VIth 
 Pay 
 Scale
-  ## Page 13
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -3289,7 +3277,6 @@ PH75
 VIth 
 Pay 
 Scale
-  ## Page 14
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -3556,7 +3543,6 @@ PB69
 553727 VIth 
 Pay 
 Scale
-  ## Page 15
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -3839,7 +3825,6 @@ PG10
 475584 VIth 
 Pay 
 Scale
-  ## Page 16
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -4119,7 +4104,6 @@ PK02
 56D
 39000 Conso
 lidated
-  ## Page 17
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -4404,7 +4388,6 @@ PB73
 44023 VIth 
 Pay 
 Scale
-  ## Page 18
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -4662,7 +4645,6 @@ S060
 736374 VIth 
 Pay 
 Scale
-  ## Page 19
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -4941,7 +4923,6 @@ PJ04
 64060 VIth 
 Pay 
 Scale
-  ## Page 20
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -5216,7 +5197,6 @@ B436
 743928 VIth 
 Pay 
 Scale
-  ## Page 21
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -5498,7 +5478,6 @@ A447
 38545 VIth 
 Pay 
 Scale
-  ## Page 22
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -5791,7 +5770,6 @@ N312
 65721 VIth 
 Pay 
 Scale
-  ## Page 23
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -6078,7 +6056,6 @@ B889
 178219 VIth 
 Pay 
 Scale
-  ## Page 24
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -6375,7 +6352,6 @@ G622
 35863 VIth 
 Pay 
 Scale
-  ## Page 25
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -6669,7 +6645,6 @@ K911
 201000 VIth 
 Pay 
 Scale
-  ## Page 26
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -6935,7 +6910,6 @@ PK39
 144435 VIth 
 Pay 
 Scale
-  ## Page 27
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -7229,7 +7203,6 @@ M703
 42834 VIth 
 Pay 
 Scale
-  ## Page 28
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -7511,7 +7484,6 @@ S811
 7G
 35000 Conso
 lidated
-  ## Page 29
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -7758,7 +7730,6 @@ PK78
 769316 VIth 
 Pay 
 Scale
-  ## Page 30
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -8014,7 +7985,6 @@ K709
 419886 VIth 
 Pay 
 Scale
-  ## Page 31
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -8274,7 +8244,6 @@ M865
 300811 VIth 
 Pay 
 Scale
-  ## Page 32
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -8545,7 +8514,6 @@ PT25
 525852 VIth 
 Pay 
 Scale
-  ## Page 33
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -8817,7 +8785,6 @@ PC87
 47506 VIth 
 Pay 
 Scale
-  ## Page 34
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -9091,7 +9058,6 @@ N016
 41373 VIth 
 Pay 
 Scale
-  ## Page 35
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -9342,7 +9308,6 @@ PG71
 VIth 
 Pay 
 Scale
-  ## Page 36
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -9619,7 +9584,6 @@ S187
 8C
 511592 Conso
 lidated
-  ## Page 37
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -9902,7 +9866,6 @@ C798
 114600 VIth 
 Pay 
 Scale
-  ## Page 38
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -10158,7 +10121,6 @@ T623
 0B
 90000 Conso
 lidated
-  ## Page 39
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -10412,7 +10374,6 @@ PA95
 20K
 45000 Conso
 lidated
-  ## Page 40
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -10561,7 +10522,6 @@ GRADUATE
 SAVITA HALADIPU
 RNNAVAR
 20/07/2015 DIPLOMA CIVIL
- ## Page 41
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -10663,7 +10623,6 @@ AND ENGINEERING
 UNDER 
 GRADUATE
 N RAICHUR 11/10/2001 DIP (CSC)
- ## Page 42
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -10792,7 +10751,6 @@ GRADUATE
 ANAND HANCHIN
 AL
 17/10/2002 DIPLOMA
- ## Page 43
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -10903,7 +10861,6 @@ ENGINEERING
 UNDER 
 GRADUATE
 S KINNAL 02/03/2009 I.T.I
- ## Page 44
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -11022,7 +10979,6 @@ ENGINEERING
 POST 
 GRADUATE
 RENUKA SANGALI 02/07/2003 DIP (CSC)
- ## Page 45
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -11165,7 +11121,6 @@ GRADUATE
 BASALIN
 GAPPA
 GANIGER 08/05/1985 VII STANDARD
- ## Page 46
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -11276,7 +11231,6 @@ SUNIL BIRADE 31/08/2000 DIPLOMA IN
 AUTOMOBILE
 ENGINEERIN
 G
- ## Page 47
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -11387,7 +11341,6 @@ TECHNOLOGY
 CIVIL ENGINEERING UNDER 
 GRADUATE
 S AHAMED 27/04/1981 DCE
- ## Page 48
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -11498,7 +11451,6 @@ GOUDA
 MARIGOU
 DAR
 16/07/2014 DIP CSE
- ## Page 49
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -11616,7 +11568,6 @@ ENGINEERING
 UNDER 
 GRADUATE
 LALTA HOTAGI 15/09/2008 SSLC
- ## Page 50
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -11754,7 +11705,6 @@ SUSHILA GANJIGAT
 TI
 01/10/2007 BA, B. 
 PED
- ## Page 51
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -11874,7 +11824,6 @@ ENGINEERING
 UNDER 
 GRADUATE
 G BADNIKAI 20/03/1983 P.U.C.II
- ## Page 52
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -12010,7 +11959,6 @@ GRADUATE
 S HARALAP
 UR
 13/05/1985 S.S.L.C
- ## Page 53
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -12129,7 +12077,6 @@ GRADUATE
 V SHIRAGU
 PPI
 27/01/2003 S.S.L.C
- ## Page 54
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -12268,7 +12215,6 @@ ATI
 NEELANN
 AVAR
 01/02/2006 8TH
- ## Page 55
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -12314,7 +12260,6 @@ B.COM (OU)
 17 1-3706576874 SIDDAPPA PUJAR 01/01/2000 SSLC
 18 1-3706576878 SIDDAPPA TALAWAR 01/07/2004 SSLC
 19 1-3706706412 MANJUNATH BIDAWE 10/05/1995 7TH
- ## Page 56
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -12348,7 +12293,6 @@ Printed By : aict10956
 44 1-3723344151 SHILPA KITTUR 01/08/2007 BCS
 45 1-3723344155 SUNIL AMMANAGI 12/11/2007 B.A.
 46 1-3723641533 MANJUNATH KALASAD 01/12/2007 B.COM
- ## Page 57
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received
@@ -12374,7 +12318,6 @@ SCIENCE
 62 1-3764509811 PRAMOD SUNDOLLI 01/01/2000 SSLC
 63 1-3764509815 MALLAPPA WALMIKI 01/03/2004 SSLC
 64 1-3764509819 RAVI KABADAGI 20/05/2009 SSLC
- ## Page 58
  Application Report - Part 2
 Application Status: Submitted
 Application Sub-Status: Payment Received

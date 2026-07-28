@@ -1,0 +1,2746 @@
+{
+  "documents_processed": 547,
+  "titles_updated": 177,
+  "headers_removed": 4175,
+  "footers_removed": 1928,
+  "page_markers_removed": 15565,
+  "metadata_updated": 176,
+  "errors": 0,
+  "details": [
+    {
+      "file": "about/19krf-About-KLE-Technological-UniversityHubballi.md",
+      "title_improved": true,
+      "pages": "1-19"
+    },
+    {
+      "file": "about/2f_approval_103a85.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "about/about_hubballi_campus_b5a07d.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "about/about_placements_2914e0.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "about/academic_overview_f831fb.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "about/aicte_c840a9.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "about/aicte_ec096c.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "about/chancellors_message_627700.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "about/kle_society_d9a683.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "about/kle_technological_university_act_180e02.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "about/kle_technological_university_act_59d5b7.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "about/kle_tech_statutes_a3af81.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "about/kle_tech_university_97b131.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "about/list_of_board_of_governors_f11967.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "about/minutes_of_meetings_f64af7.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "about/news_07cd51.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "about/news_6cc470.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "about/news_dde3cc.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "about/organogram_763c1a.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "about/overview_59fcc7.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "about/overview_bbd834.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "about/overview_fb565c.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "about/overview_fffac9.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "about/pro_chancellors_message_6f82ee.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "about/research_overview_f0250b.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "about/right_to_information_1642f2.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "about/rti_46f32e.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "about/ugc_b1a139.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "about/university_grants_commission_04cf6e.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "about/university_grants_commission_12_b_approval_e95796.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "about/university_grants_commission_2f_approval_548985.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/01-bachelor-of-civil-engineering-curriculum-structure-content-2023-2027.md",
+      "title_improved": true,
+      "pages": "1-109"
+    },
+    {
+      "file": "academics/01-mtech-in-design-engineering-curriculum-structure-and-content-2025-2027.md",
+      "title_improved": true,
+      "pages": "1-32"
+    },
+    {
+      "file": "academics/02-bachelor-of-automation-and-robotics-curriculum-structure-content-2023-2027.md",
+      "title_improved": true,
+      "pages": "1-130"
+    },
+    {
+      "file": "academics/02-mtech-in-ams-curriculum-structure-and-content-2025-2027.md",
+      "title_improved": true,
+      "pages": "1-35"
+    },
+    {
+      "file": "academics/03-bachelor-of-biotechnology-curriculum-structure-content-2023-2027.md",
+      "title_improved": true,
+      "pages": "1-169"
+    },
+    {
+      "file": "academics/03-mtech-in-cs-curriculum-structure-and-content-2025-2027.md",
+      "title_improved": true,
+      "pages": "1-49"
+    },
+    {
+      "file": "academics/04-bachelor-of-computer-science-and-engineering-curriculum-structure-content-2023-2027.md",
+      "title_improved": true,
+      "pages": "1-168"
+    },
+    {
+      "file": "academics/04-mtech-in-ec-vlsi-des-curriculum-structure-and-content-2025-2027.md",
+      "title_improved": true,
+      "pages": "1-40"
+    },
+    {
+      "file": "academics/05-bachelor-of-cs-artificial-intelligence-curriculum-structure-content-2023-2027.md",
+      "title_improved": true,
+      "pages": "1-206"
+    },
+    {
+      "file": "academics/05-mtech-in-structural-engineering-curriculum-structure-and-content-2025-2027.md",
+      "title_improved": true,
+      "pages": "1-38"
+    },
+    {
+      "file": "academics/06-bachelor-of-electrical-and-electronics-engg-curriculum-structure-content-2023-2027.md",
+      "title_improved": true,
+      "pages": "1-143"
+    },
+    {
+      "file": "academics/07-bachelor-of-mechanical-engineering-curriculum-structure-content-2023-2027.md",
+      "title_improved": true,
+      "pages": "1-154"
+    },
+    {
+      "file": "academics/09-bachelor-of-electronics-engg-vlsi-curriculum-structure-and-content-2023-27.md",
+      "title_improved": true,
+      "pages": "1-143"
+    },
+    {
+      "file": "academics/10-bachelor-of-chemical-engineering-curriculum-structure-content-2023-2027.md",
+      "title_improved": true,
+      "pages": "1-120"
+    },
+    {
+      "file": "academics/11-bachelor-of-biomedical-engineering-curriculum-structure-content-2023-2027.md",
+      "title_improved": true,
+      "pages": "1-148"
+    },
+    {
+      "file": "academics/3rd-sem-mba-mca-mtech-2024-25-odd.md",
+      "title_improved": true,
+      "pages": "1-1"
+    },
+    {
+      "file": "academics/489imguf_PhD-regulations-KLE-tech-july-2025.md",
+      "title_improved": true,
+      "pages": "1-16"
+    },
+    {
+      "file": "academics/4th-Sem-MTech-COE-2022-23.md",
+      "title_improved": true,
+      "pages": "1-1"
+    },
+    {
+      "file": "academics/academic_calendar_5e4cef.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/academic_calendar_a41bb7.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/academic_facilities_c75b38.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/Automation_Robotics_Curriculum_Structure_Content_2021-25.md",
+      "title_improved": true,
+      "pages": "1-130"
+    },
+    {
+      "file": "academics/bachelor-architecture-curriculum-2021-2026.md",
+      "title_improved": true,
+      "pages": "1-148"
+    },
+    {
+      "file": "academics/bachelor-automation-robotics-curriculum-2022-2026.md",
+      "title_improved": true,
+      "pages": "1-130"
+    },
+    {
+      "file": "academics/bachelor-biomedical-engineering-curriculum-2022-2026.md",
+      "title_improved": true,
+      "pages": "1-153"
+    },
+    {
+      "file": "academics/bachelor-biomedical-engineering-curriculum-structure-2021-2025.md",
+      "title_improved": true,
+      "pages": "1-137"
+    },
+    {
+      "file": "academics/bachelor-biotechnology-curriculum-2022-2026.md",
+      "title_improved": true,
+      "pages": "1-166"
+    },
+    {
+      "file": "academics/bachelor-business-administration-curriculum-2023-2026.md",
+      "title_improved": true,
+      "pages": "1-66"
+    },
+    {
+      "file": "academics/bachelor-business-administration-curriculum-structure-2022-2025.md",
+      "title_improved": true,
+      "pages": "1-65"
+    },
+    {
+      "file": "academics/bachelor-chemical-engineering-curriculum-2022-2026.md",
+      "title_improved": true,
+      "pages": "1-119"
+    },
+    {
+      "file": "academics/bachelor-chemical-engineering-curriculum-structure-2021-2025.md",
+      "title_improved": true,
+      "pages": "1-122"
+    },
+    {
+      "file": "academics/bachelor-civil-engineering-curriculum-2022-2026.md",
+      "title_improved": true,
+      "pages": "1-132"
+    },
+    {
+      "file": "academics/bachelor-commerce-curriculum-2023-2026.md",
+      "title_improved": true,
+      "pages": "1-78"
+    },
+    {
+      "file": "academics/bachelor-computer-applications-curriculum-2023-2026.md",
+      "title_improved": true,
+      "pages": "1-99"
+    },
+    {
+      "file": "academics/bachelor-computer-science-engineering-curriculum-2022-2026.md",
+      "title_improved": true,
+      "pages": "1-212"
+    },
+    {
+      "file": "academics/bachelor-cs-artificial-intelligence-curriculum-2022-2026.md",
+      "title_improved": true,
+      "pages": "1-204"
+    },
+    {
+      "file": "academics/bachelor-electrical-electronics-engineering-curriculum-2022-2026.md",
+      "title_improved": true,
+      "pages": "1-127"
+    },
+    {
+      "file": "academics/bachelor-electronics-communication-engineering-vlsi-curriculum-2022-2026.md",
+      "title_improved": true,
+      "pages": "1-150"
+    },
+    {
+      "file": "academics/bachelor-mechanical-engineering-curriculum-2022-2026.md",
+      "title_improved": true,
+      "pages": "1-148"
+    },
+    {
+      "file": "academics/bachelor-of-architecture-curriculum-structure-content-2022-2027.md",
+      "title_improved": true,
+      "pages": "1-148"
+    },
+    {
+      "file": "academics/bachelor-of-business-administration-curriculum-structure-content-2024-2027.md",
+      "title_improved": true,
+      "pages": "1-39"
+    },
+    {
+      "file": "academics/bachelor-of-commerce-curriculum-structure-content-2024-2027.md",
+      "title_improved": true,
+      "pages": "1-56"
+    },
+    {
+      "file": "academics/bachelor-of-computer-applications-curriculum-structure-content-2024-2027.md",
+      "title_improved": true,
+      "pages": "1-54"
+    },
+    {
+      "file": "academics/bachelors_of_business_administration_077047.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/bachelors_of_business_administration_359b22.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/bachelor_of_architecture_292210.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/bachelor_of_architecture_85c12d.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/bachelor_of_commerce_171715.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/bachelor_of_commerce_6e31f1.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/bachelor_of_commerce_integrated_with_acca_549318.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/bachelor_of_commerce_integrated_with_acca_624123.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/bachelor_of_computer_applications_bca_a6dbcb.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/bachelor_of_computer_applications_bca_bb667f.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/bachelor_of_computer_applications_honours_756a95.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/bachelor_of_science_fashion_and_apparel_design_0e0468.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/bachelor_of_science_fashion_and_apparel_design_c6036a.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/barch-curriculum-structure-content-2020-2025.md",
+      "title_improved": true,
+      "pages": "1-126"
+    },
+    {
+      "file": "academics/ba_llb_244a3c.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/bba_llb_4d3184.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/bba_llb_hons_00aead.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/bcom_llb_2e2b63.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/Biotech_Curriculum_Structure_Content_2021-25.md",
+      "title_improved": true,
+      "pages": "1-168"
+    },
+    {
+      "file": "academics/bsc_in_hotel_management_and_catering_technology_bs_bfaa1c.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/b_e_automation_robotics_0af272.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/b_e_automation_robotics_5b9573.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/b_e_biomedical_engineering_782de3.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/b_e_biotechnology_a91b06.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/b_e_biotechnology_fee074.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/b_e_chemical_engineering_2c0229.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/b_e_civil_engineering_554e3f.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/b_e_civil_engineering_c6040b.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/b_e_computer_science_and_engineering_3e4111.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/b_e_computer_science_and_engineering_9b7407.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/b_e_computer_science_and_engineering_artificial_in_33ae2c.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/b_e_computer_science_and_engineering_artificial_in_62d569.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/b_e_electrical_electronics_engineering_05f9e9.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/b_e_electrical_electronics_engineering_07d8e2.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/b_e_electronics_communication_engineering_4e246d.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/b_e_electronics_communication_engineering_d6baeb.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/b_e_electronics_engineering_vlsi_design_technology_9ce89a.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/b_e_electronics_engineering_vlsi_design_technology_c3be31.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/b_e_mechanical_engineering_3cccf3.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/b_e_mechanical_engineering_8c1f1d.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/centre_for_engineering_education_research_18896b.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/Civil_Curriculum_Structure_Content_2021-25.md",
+      "title_improved": true,
+      "pages": "1-127"
+    },
+    {
+      "file": "academics/Computer-Science_-AI-Curriculum_Structure_Content_2021-25.md",
+      "title_improved": true,
+      "pages": "1-176"
+    },
+    {
+      "file": "academics/Computer_Science_Curriculum_Structure_Content_2021-25.md",
+      "title_improved": true,
+      "pages": "1-196"
+    },
+    {
+      "file": "academics/course_fee_structure_9bdf00.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/course_fee_structure_afdc03.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/curriculum_and_syllabus_54c2a5.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/ECE_Curriculum_Structure_and_Content_2021-25.md",
+      "title_improved": true,
+      "pages": "1-147"
+    },
+    {
+      "file": "academics/EEE__Curriculum_Structure_and_Curriculum_Content_2021-25.md",
+      "title_improved": true,
+      "pages": "1-119"
+    },
+    {
+      "file": "academics/exam_notification_c0223f.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/faculty_e16977.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/fashion-design-curriculum-strcture-contents-batch2022-25.md",
+      "title_improved": true,
+      "pages": "1-93"
+    },
+    {
+      "file": "academics/fashion-design-curriculum-syllabus-2023-26.md",
+      "title_improved": true,
+      "pages": "1-90"
+    },
+    {
+      "file": "academics/llb_005e83.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/llb_hons_b1e826.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/llm_constitutional_law_8c7266.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/llm_ipr_aaf917.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/master_of_business_administration_2a3b45.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/master_of_business_administration_46d286.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/master_of_computer_application_092e3a.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/master_of_computer_application_dea8ec.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/mba-curriculum-2023-25.md",
+      "title_improved": true,
+      "pages": "1-83"
+    },
+    {
+      "file": "academics/mba-curriculum-2024-26.md",
+      "title_improved": true,
+      "pages": "1-111"
+    },
+    {
+      "file": "academics/mba-curriculum-structure-2025-2027.md",
+      "title_improved": true,
+      "pages": "1-38"
+    },
+    {
+      "file": "academics/mba_programs_ab31c6.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/mca-curriculum-2023-25.md",
+      "title_improved": true,
+      "pages": "1-124"
+    },
+    {
+      "file": "academics/mca-curriculum-2024-26.md",
+      "title_improved": true,
+      "pages": "1-102"
+    },
+    {
+      "file": "academics/mca-curriculum-structure-2025-2027.md",
+      "title_improved": true,
+      "pages": "1-99"
+    },
+    {
+      "file": "academics/mca_programs_c9bb65.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/Mechanical_Curriculum_Structure_Content_2021-25.md",
+      "title_improved": true,
+      "pages": "1-146"
+    },
+    {
+      "file": "academics/ms_by_research_5806f4.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/ms_engg_by_research_ece_1fada6.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/ms_engg_by_research_in_visual_intelligence_cse_6a6acb.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/ms_engg_by_research_in_visual_intelligence_cse_fede24.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/ms_programs_302241.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/mtech-ams-curriculum-2023-25.md",
+      "title_improved": true,
+      "pages": "1-35"
+    },
+    {
+      "file": "academics/mtech-ams-curriculum-2024-26.md",
+      "title_improved": true,
+      "pages": "1-35"
+    },
+    {
+      "file": "academics/mtech-cs-curriculum-2023-25.md",
+      "title_improved": true,
+      "pages": "1-56"
+    },
+    {
+      "file": "academics/mtech-cs-curriculum-2024-26.md",
+      "title_improved": true,
+      "pages": "1-52"
+    },
+    {
+      "file": "academics/mtech-design-engineering-curriculum-2023-25.md",
+      "title_improved": true,
+      "pages": "1-32"
+    },
+    {
+      "file": "academics/mtech-design-engineering-curriculum-2024-26.md",
+      "title_improved": true,
+      "pages": "1-32"
+    },
+    {
+      "file": "academics/mtech-ec-vlsi-curriculum-2023-25.md",
+      "title_improved": true,
+      "pages": "1-40"
+    },
+    {
+      "file": "academics/mtech-ec-vlsi-curriculum-2024-26.md",
+      "title_improved": true,
+      "pages": "1-41"
+    },
+    {
+      "file": "academics/mtech-structural-engineering-curriculum-2023-25.md",
+      "title_improved": true,
+      "pages": "1-40"
+    },
+    {
+      "file": "academics/mtech-structural-engineering-curriculum-2024-26.md",
+      "title_improved": true,
+      "pages": "1-38"
+    },
+    {
+      "file": "academics/mtech_advanced_manufacturing_systems_d1e3f4.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/mtech_advanced_manufacturing_systems_da0943.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/mtech_computer_science_and_engineering_70b192.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/mtech_computer_science_and_engineering_758bd4.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/mtech_design_engineering_58f5f5.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/mtech_design_engineering_db5d1d.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/mtech_structural_engineering_2b5fad.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/mtech_structural_engineering_c5c876.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/new-bachelor-electronics-communication-engineering-curriculum-2022-2026.md",
+      "title_improved": true,
+      "pages": "1-163"
+    },
+    {
+      "file": "academics/our_programs_188353.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/phd_4a7d59.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/phd_in_biotechnology_1f518b.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/phd_in_biotechnology_f30ea3.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/phd_in_civil_engineering_c1e2b2.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/phd_in_civil_engineering_ff91fd.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/phd_in_computer_science_engineering_4e7221.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/phd_in_computer_science_engineering_eb6696.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/phd_in_electrical_electronics_engineering_2284c3.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/phd_in_electrical_electronics_engineering_371f02.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/phd_in_electronics_communication_engineering_3e99e0.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/phd_in_electronics_communication_engineering_816f9b.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/phd_in_humanities_and_social_studies_2eb77e.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/phd_in_humanities_and_social_studies_6dda2c.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/phd_in_law_49e4fb.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/phd_in_mechanical_engineering_7246a9.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/phd_in_mechanical_engineering_dbde7d.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/phd_programs_7fcd48.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/PhD_Regulations.md",
+      "title_improved": true,
+      "pages": "1-15"
+    },
+    {
+      "file": "academics/ph_d_in_automation_robotics_86c492.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/ph_d_in_automation_robotics_8bbfc7.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/ph_d_in_chemistry_1cee2c.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/ph_d_in_chemistry_e59544.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/ph_d_in_management_studies_research_7636c1.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/ph_d_in_management_studies_research_9d885e.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/ph_d_in_mathematics_71539b.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/ph_d_in_mathematics_a39835.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/ph_d_in_physics_a7c9dd.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/ph_d_in_physics_df0f27.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/programs_0001c6.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/programs_11daa3.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/programs_120764.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/programs_1bd51b.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/programs_226449.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/programs_2a1e6e.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/programs_2a6227.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/programs_2fc0df.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/programs_3039ce.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/programs_328874.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/programs_516e17.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/programs_54dd4b.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/programs_5dee87.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/programs_5f4667.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/programs_65d746.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/programs_7b4fac.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/programs_84d6fc.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/programs_87f7de.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/programs_881db8.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/programs_935587.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/programs_9824df.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/programs_ba87f8.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/programs_c3357a.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/programs_c5cd20.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/programs_d8f4c7.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/programs_db184c.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/programs_e79398.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/Regulations-Governing-MS-Programs-20-July-2020-2.md",
+      "title_improved": true,
+      "pages": "1-9"
+    },
+    {
+      "file": "academics/research_programs_ad8b66.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/results_dbe297.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/schoolsdepartments_279d1e.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/schoolsdepartments_50c30f.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/student_council_95f205.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/study_with_us_02be17.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/time_table_a1fb91.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/ug_pg_programs_717e64.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/undergraduate_research_expertise_552280.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "academics/updated-curriculum-structure-syllabus-2023-27.md",
+      "title_improved": true,
+      "pages": "1-135"
+    },
+    {
+      "file": "admissions/203imguf_Call-for-admission-MSE-2024-25.md",
+      "title_improved": true,
+      "pages": "1-1"
+    },
+    {
+      "file": "admissions/228krf-Admission_Eligible_KSLU_Students.md",
+      "title_improved": true,
+      "pages": "1-17"
+    },
+    {
+      "file": "admissions/42imguf_admission-notification.md",
+      "title_improved": true,
+      "pages": "1-1"
+    },
+    {
+      "file": "admissions/admission_for_pg_program_16468d.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "admissions/admission_for_pg_program_2ba0e8.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "admissions/admission_for_ug_program_15515b.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "admissions/embark_on_a_journey_of_knowledge_ccda3c.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "admissions/fee_structure_07c53a.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "admissions/intenational_admission_496103.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "admissions/intenational_admission_85bf81.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "admissions/international_admission_f40bc8.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "admissions/post_graduate_program_f966ed.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "admissions/prospectus.md",
+      "title_improved": true,
+      "pages": "1-12"
+    },
+    {
+      "file": "admissions/under_graduate_program_252fd1.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "contact/contact_d9ca99.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "contact/contact_us_b5ae4c.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "contact/sitemap_30d013.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "contact/sitemap_a3ca75.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "departments/531imguf_UGBiotechnologyDCPreport.md",
+      "title_improved": true,
+      "pages": "1-19"
+    },
+    {
+      "file": "departments/533imguf_UGElectronicsCommunicationEngineeringDCPreport.md",
+      "title_improved": true,
+      "pages": "1-26"
+    },
+    {
+      "file": "departments/center_for_automation_robotics_research_carr_231013.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "departments/image_gallery_00f258.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "departments/news_474723.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "departments/news_c2ebd6.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "downloads/downloads_1b116f.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "downloads/e_brochure_73732a.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "downloads/news_412bf0.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "downloads/news_70d279.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "downloads/news_ac36da.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "downloads/news_f7d97d.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "downloads/news_f9cb31.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "downloads/privacy_policy_7eb724.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "downloads/Rules-and-Regulations-UG-PG-July-2021.md",
+      "title_improved": true,
+      "pages": "1-56"
+    },
+    {
+      "file": "events/events_0e43eb.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "events/events_19a341.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "events/events_3cfe41.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "events/events_560ff6.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "events/events_673a81.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "events/events_743a0a.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "events/events_772c4f.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "events/events_88836a.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "events/events_891c51.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "events/events_8cade9.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "events/events_941348.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "events/events_ade93f.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "examination/11imguf_2_4SemesterLLMESATimeTableAug_Sept.2023.md",
+      "title_improved": true,
+      "pages": "1-2"
+    },
+    {
+      "file": "examination/Application-for-Duplicate-Grade-Cards-Degree-Cert.md",
+      "title_improved": true,
+      "pages": "1-1"
+    },
+    {
+      "file": "examination/exam_notifications_cf1776.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "examination/exam_time_table_1f4989.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "examination/results_037048.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "faculty/Faculty-Conclave-2019-converted.md",
+      "title_improved": true,
+      "pages": "1-3"
+    },
+    {
+      "file": "faculty/Faculty_Conclave-2019.md",
+      "title_improved": true,
+      "pages": "1-2"
+    },
+    {
+      "file": "faculty/FACULTY_CONCLAVE_PUBLICATIONS-2016.md",
+      "title_improved": true,
+      "pages": "1-4"
+    },
+    {
+      "file": "faculty/FACULTY_CONCLAVE_PUBLICATIONS-2017.md",
+      "title_improved": true,
+      "pages": "1-2"
+    },
+    {
+      "file": "faculty/FACULTY_CONCLAVE_PUBLICATIONS-2018.md",
+      "title_improved": true,
+      "pages": "1-3"
+    },
+    {
+      "file": "faculty/FACULTY_CONCLAVE_PUBLICATIONS_-_2015.md",
+      "title_improved": true,
+      "pages": "1-4"
+    },
+    {
+      "file": "faculty/news_251cf7.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "faculty/news_8df606.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "gallery/image_gallery_285dea.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "gallery/video_gallery_615724.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "gallery/video_gallery_c78ec3.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "gallery/video_gallery_d6be65.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "infrastructure/clubs_society_bf14fa.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "infrastructure/dr_m_s_sheshgiri_campus_belagavi_2662c7.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "infrastructure/events_fests_6482ba.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "infrastructure/extra_curricular_activities_1cba61.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "infrastructure/e_resources_6c4bec.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "infrastructure/facilities_230e0e.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "infrastructure/library_rules_ad8fc0.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "infrastructure/news_338778.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "infrastructure/news_3cf9be.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "infrastructure/news_422daa.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "infrastructure/news_470f56.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "infrastructure/news_edcf66.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "infrastructure/on_campus_facilities_36c031.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "infrastructure/on_campus_facilities_69b71b.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "infrastructure/remote_access_a26138.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "infrastructure/social_initiatives_csr_1f52f6.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "infrastructure/sports_and_health_f3cc6d.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "infrastructure/student_personality_development_3ecbcb.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "library/education_needs_complete_solution_e7153a.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "miscellaneous/10th_BOG_Minutes.md",
+      "title_improved": true,
+      "pages": "1-141"
+    },
+    {
+      "file": "miscellaneous/11th_BOG_Minutes.md",
+      "title_improved": true,
+      "pages": "1-28"
+    },
+    {
+      "file": "miscellaneous/12th_BOG_Minutes.md",
+      "title_improved": true,
+      "pages": "1-131"
+    },
+    {
+      "file": "miscellaneous/13th_BOG_Minutes.md",
+      "title_improved": true,
+      "pages": "1-24"
+    },
+    {
+      "file": "miscellaneous/14th_BOG_Minutes.md",
+      "title_improved": true,
+      "pages": "1-25"
+    },
+    {
+      "file": "miscellaneous/175krf-1.md",
+      "title_improved": true,
+      "pages": ""
+    },
+    {
+      "file": "miscellaneous/185imguf_bvb-annual-report-2015-16.md",
+      "title_improved": true,
+      "pages": "1-36"
+    },
+    {
+      "file": "miscellaneous/186imguf_annual-report-2014-15.md",
+      "title_improved": true,
+      "pages": "1-44"
+    },
+    {
+      "file": "miscellaneous/187imguf_bvbcet-annual-report-2013-14.md",
+      "title_improved": true,
+      "pages": "1-55"
+    },
+    {
+      "file": "miscellaneous/1st_EC_Minutes.md",
+      "title_improved": true,
+      "pages": "1-180"
+    },
+    {
+      "file": "miscellaneous/2-sem-august-2021.md",
+      "title_improved": true,
+      "pages": "1-4"
+    },
+    {
+      "file": "miscellaneous/234imguf_COE-2ndSemB.EandB.ArchCOE2024-25_Even_.md",
+      "title_improved": true,
+      "pages": "1-1"
+    },
+    {
+      "file": "miscellaneous/235imguf_COE-4thand6thSemesterCOE2024-25_Even_.md",
+      "title_improved": true,
+      "pages": "1-1"
+    },
+    {
+      "file": "miscellaneous/236imguf_AQAR-2022-23-system-generated-copy.md",
+      "title_improved": true,
+      "pages": "1-63"
+    },
+    {
+      "file": "miscellaneous/236krf-Resuming-Offline-Classes.md",
+      "title_improved": true,
+      "pages": "1-1"
+    },
+    {
+      "file": "miscellaneous/238imguf_12BCertificate.md",
+      "title_improved": true,
+      "pages": "1-1"
+    },
+    {
+      "file": "miscellaneous/241imguf_KLE-Technological-University-Public-Mandatory-Disclosure.md",
+      "title_improved": true,
+      "pages": "1-9"
+    },
+    {
+      "file": "miscellaneous/251imguf_KLETech-BoardofStudies.md",
+      "title_improved": true,
+      "pages": "1-11"
+    },
+    {
+      "file": "miscellaneous/256imguf_kle_tech_anti_ragging_committee.md",
+      "title_improved": true,
+      "pages": "1-5"
+    },
+    {
+      "file": "miscellaneous/257imguf_kle-tech_equal-opportunity-cell.md",
+      "title_improved": true,
+      "pages": "1-5"
+    },
+    {
+      "file": "miscellaneous/258imguf_KLETech_InternalComplaintCommittee.md",
+      "title_improved": true,
+      "pages": "1-1"
+    },
+    {
+      "file": "miscellaneous/259imguf_SGRCCommittee.md",
+      "title_improved": true,
+      "pages": "1-1"
+    },
+    {
+      "file": "miscellaneous/2nd-and-4th_sem-COE-2022-23_Even__BSc-FAD.md",
+      "title_improved": true,
+      "pages": "1-1"
+    },
+    {
+      "file": "miscellaneous/2nd_BOG_Minutes.md",
+      "title_improved": true,
+      "pages": "1-156"
+    },
+    {
+      "file": "miscellaneous/2nd_EC_Minutes.md",
+      "title_improved": true,
+      "pages": "1-11"
+    },
+    {
+      "file": "miscellaneous/3rd_BOG_Minutes.md",
+      "title_improved": true,
+      "pages": "1-183"
+    },
+    {
+      "file": "miscellaneous/3rd_EC_Minutes.md",
+      "title_improved": true,
+      "pages": "1-9"
+    },
+    {
+      "file": "miscellaneous/4th_BOG_Minutes.md",
+      "title_improved": true,
+      "pages": "1-11"
+    },
+    {
+      "file": "miscellaneous/4th_EC_Minutes.md",
+      "title_improved": true,
+      "pages": "1-14"
+    },
+    {
+      "file": "miscellaneous/532imguf_UGComputerScienceEngineeringDCPreport.md",
+      "title_improved": true,
+      "pages": "1-33"
+    },
+    {
+      "file": "miscellaneous/5th-Sem-BCA-BBA-2024-25.md",
+      "title_improved": true,
+      "pages": "1-1"
+    },
+    {
+      "file": "miscellaneous/5th_BOG_Minutes.md",
+      "title_improved": true,
+      "pages": "1-45"
+    },
+    {
+      "file": "miscellaneous/5th_EC_Minutes.md",
+      "title_improved": true,
+      "pages": "1-23"
+    },
+    {
+      "file": "miscellaneous/6Sem-BE_B.Arch_BBA2_4-Sem_-BCA2sem-June-2023.md",
+      "title_improved": true,
+      "pages": "1-11"
+    },
+    {
+      "file": "miscellaneous/6th-Sem-COE-2022-23.md",
+      "title_improved": true,
+      "pages": "1-1"
+    },
+    {
+      "file": "miscellaneous/6th_BOG_Minutes.md",
+      "title_improved": true,
+      "pages": "1-176"
+    },
+    {
+      "file": "miscellaneous/6th_EC_Minutes.md",
+      "title_improved": true,
+      "pages": "1-20"
+    },
+    {
+      "file": "miscellaneous/7imguf_IQACComposition.md",
+      "title_improved": true,
+      "pages": "1-6"
+    },
+    {
+      "file": "miscellaneous/7th-Sem-BE-9th-Sem-BArch-2024-25.md",
+      "title_improved": true,
+      "pages": "1-1"
+    },
+    {
+      "file": "miscellaneous/7th_BOG_Minutes.md",
+      "title_improved": true,
+      "pages": "1-93"
+    },
+    {
+      "file": "miscellaneous/7th_EC_Minutes.md",
+      "title_improved": true,
+      "pages": "1-17"
+    },
+    {
+      "file": "miscellaneous/8-Sem-ESA-Time-table-May-2023.md",
+      "title_improved": true,
+      "pages": "1-6"
+    },
+    {
+      "file": "miscellaneous/8imguf_MOMIQAC16May22and7July21609.md",
+      "title_improved": true,
+      "pages": "1-5"
+    },
+    {
+      "file": "miscellaneous/8sem.md",
+      "title_improved": true,
+      "pages": "1-1"
+    },
+    {
+      "file": "miscellaneous/8th_BOG_Minutes.md",
+      "title_improved": true,
+      "pages": "1-32"
+    },
+    {
+      "file": "miscellaneous/8th_EC_Minutes.md",
+      "title_improved": true,
+      "pages": "1-26"
+    },
+    {
+      "file": "miscellaneous/9imguf_AQAR2021-22ResubmittedAugust2023.md",
+      "title_improved": true,
+      "pages": "1-62"
+    },
+    {
+      "file": "miscellaneous/9th_BOG_Minutes.md",
+      "title_improved": true,
+      "pages": "1-18"
+    },
+    {
+      "file": "miscellaneous/annual_reports_ef166d.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "miscellaneous/anti_ragging_committee_c09ce0.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "miscellaneous/anti_sexual_harassment_committee_8ad9bb.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "miscellaneous/Application-Part-1-Report-2018_19.md",
+      "title_improved": true,
+      "pages": "1-52"
+    },
+    {
+      "file": "miscellaneous/Application-Part-2-Report-2018_19.md",
+      "title_improved": true,
+      "pages": "1-58"
+    },
+    {
+      "file": "miscellaneous/Application_Part1_Report_2019-20.md",
+      "title_improved": true,
+      "pages": "1-51"
+    },
+    {
+      "file": "miscellaneous/audited_reports_be9799.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "miscellaneous/ba-llb-2021-26-batch.md",
+      "title_improved": true,
+      "pages": "1-170"
+    },
+    {
+      "file": "miscellaneous/Backlog-ESA-Time-Table-May-2023.md",
+      "title_improved": true,
+      "pages": "1-7"
+    },
+    {
+      "file": "miscellaneous/bba-llb-2021-26-batch.md",
+      "title_improved": true,
+      "pages": "1-167"
+    },
+    {
+      "file": "miscellaneous/bca-curricullum-structure-contents-2022-25-batch.md",
+      "title_improved": true,
+      "pages": "1-113"
+    },
+    {
+      "file": "miscellaneous/bcom-llb-2021-26-batch.md",
+      "title_improved": true,
+      "pages": "1-183"
+    },
+    {
+      "file": "miscellaneous/board_of_studies_f9fcaf.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "miscellaneous/celebrating_glorious_75_years_of_its_existence_23ac13.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "miscellaneous/clubs_ea64f1.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "miscellaneous/coe-odd-sem-2024-25.md",
+      "title_improved": true,
+      "pages": "1-1"
+    },
+    {
+      "file": "miscellaneous/college_of_law_8afc6a.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "miscellaneous/contineo_be4fb6.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "miscellaneous/enquiry_5774c8.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "miscellaneous/equal_opportunity_cell_9a762b.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "miscellaneous/executive_council_b132d3.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "miscellaneous/faqs_16c929.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "miscellaneous/faq_0c062c.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "miscellaneous/faq_fcc3d4.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "miscellaneous/final-2-and-4.md",
+      "title_improved": true,
+      "pages": "1-1"
+    },
+    {
+      "file": "miscellaneous/home_baca25.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "miscellaneous/infocell_4fe24d.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "miscellaneous/intercom-04-03-2022.md",
+      "title_improved": true,
+      "pages": "1-2"
+    },
+    {
+      "file": "miscellaneous/internal_complaint_committee_b7fab8.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "miscellaneous/iqac_b4719d.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "miscellaneous/KLE-TECH-Annual-Report-2015-16.md",
+      "title_improved": true,
+      "pages": "1-37"
+    },
+    {
+      "file": "miscellaneous/KLE-TECH-Annual-Report-2016-17.md",
+      "title_improved": true,
+      "pages": "1-45"
+    },
+    {
+      "file": "miscellaneous/KLE-TECH-Annual-Report-2017-18.md",
+      "title_improved": true,
+      "pages": "1-60"
+    },
+    {
+      "file": "miscellaneous/KLE-TECH-Annual-Report-2018-19.md",
+      "title_improved": true,
+      "pages": "1-56"
+    },
+    {
+      "file": "miscellaneous/KLE-TECH-Annual-Report-2019-20.md",
+      "title_improved": true,
+      "pages": "1-63"
+    },
+    {
+      "file": "miscellaneous/KLE-Tech-Statutes.md",
+      "title_improved": true,
+      "pages": "1-32"
+    },
+    {
+      "file": "miscellaneous/KLE-TECH-UPSC.md",
+      "title_improved": true,
+      "pages": "1-9"
+    },
+    {
+      "file": "miscellaneous/KLETECH_ECE_SERB-JRF_Call_for_2025.md",
+      "title_improved": true,
+      "pages": "1-2"
+    },
+    {
+      "file": "miscellaneous/kle_cipd_48c956.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "miscellaneous/llb-20203-26-batch.md",
+      "title_improved": true,
+      "pages": "1-97"
+    },
+    {
+      "file": "miscellaneous/Mandatory-Disclosure-Edited.md",
+      "title_improved": true,
+      "pages": "1-335"
+    },
+    {
+      "file": "miscellaneous/mandatory_disclosures_ea42db.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "miscellaneous/MBA-2020.md",
+      "title_improved": true,
+      "pages": "1-49"
+    },
+    {
+      "file": "miscellaneous/mba-6-term-time-table-esa.md",
+      "title_improved": true,
+      "pages": "1-1"
+    },
+    {
+      "file": "miscellaneous/MCA-2020.md",
+      "title_improved": true,
+      "pages": "1-52"
+    },
+    {
+      "file": "miscellaneous/media_coverage_9daada.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "miscellaneous/Minutes-10th-ECM-Online.md",
+      "title_improved": true,
+      "pages": "1-71"
+    },
+    {
+      "file": "miscellaneous/minutes-of-first-iqac_pdf-2.md",
+      "title_improved": true,
+      "pages": "1-16"
+    },
+    {
+      "file": "miscellaneous/naac_dba771.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "miscellaneous/nba_cf09a1.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "miscellaneous/nirf-engineering-category-2nd-february-2026.md",
+      "title_improved": true,
+      "pages": "1-17"
+    },
+    {
+      "file": "miscellaneous/nirf-innovation-category-12th-february-2026.md",
+      "title_improved": true,
+      "pages": "1-24"
+    },
+    {
+      "file": "miscellaneous/nirf-overall-category-7th-february-2026.md",
+      "title_improved": true,
+      "pages": "1-23"
+    },
+    {
+      "file": "miscellaneous/nirf_2828c0.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "miscellaneous/pg-llm-constitutional-law-2023-25.md",
+      "title_improved": true,
+      "pages": "1-36"
+    },
+    {
+      "file": "miscellaneous/pg-llm-constitutional-law-2024-2026.md",
+      "title_improved": true,
+      "pages": "1-36"
+    },
+    {
+      "file": "miscellaneous/pg-llm-ip-it-law-2023-25.md",
+      "title_improved": true,
+      "pages": "1-42"
+    },
+    {
+      "file": "miscellaneous/pg-llm-ip-it-law-2024-26.md",
+      "title_improved": true,
+      "pages": "1-42"
+    },
+    {
+      "file": "miscellaneous/Revised-4th_sem-MBA-MCA-COE-2022-23.md",
+      "title_improved": true,
+      "pages": "1-1"
+    },
+    {
+      "file": "miscellaneous/scholarships_60f415.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "miscellaneous/sedg_cell_2d7c2c.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "miscellaneous/sem8-esa-time-table-june-2021-1.md",
+      "title_improved": true,
+      "pages": "1-1"
+    },
+    {
+      "file": "miscellaneous/sgrc_committee_3d121b.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "miscellaneous/Spl_BoG_-_Minutes_31-08-2019.md",
+      "title_improved": true,
+      "pages": "1-7"
+    },
+    {
+      "file": "miscellaneous/teqip_3d6614.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "miscellaneous/terms_conditions_859961.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "miscellaneous/the_national_cadet_corps_0b7e8f.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "miscellaneous/time-table-of-4th-6th-be-4th-6th-8th-sem-barch.md",
+      "title_improved": true,
+      "pages": "1-8"
+    },
+    {
+      "file": "miscellaneous/transcripts_documents_88f0be.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/172krf-KLESLCMUN-NEWSLETTER.md",
+      "title_improved": true,
+      "pages": "1-9"
+    },
+    {
+      "file": "notices/IT-Policies_and_Procedures_Manual_Updated_12-4-21.md",
+      "title_improved": true,
+      "pages": "1-21"
+    },
+    {
+      "file": "notices/news_010655.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_01fae8.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_03bb48.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_03fc59.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_09e7db.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_0e25e3.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_12b4ad.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_16724f.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_1ca2bf.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_1df3b1.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_1ed902.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_209cb7.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_20c505.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_23b25f.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_285d4a.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_29c65c.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_2b995e.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_2f961e.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_33bceb.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_3e380b.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_461915.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_474ef7.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_47be3a.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_4fb337.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_508839.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_56cea0.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_59bf97.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_637260.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_64881e.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_6a4749.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_6d9fbc.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_6dbc90.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_6e76ec.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_718b25.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_71a43a.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_75d4a2.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_7c0965.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_7f0d57.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_897392.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_8a15bb.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_8d290a.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_9173d3.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_9829c7.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_9af011.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_9cf5db.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_9de7e7.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_a2ffe0.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_a9066b.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_ab30ac.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_ac790c.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_ad26a8.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_bd646b.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_bec5db.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_c0e536.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_c32bc1.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_c36a1f.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_c41173.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_c5510a.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_c717f2.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_c99003.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_d8f856.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_dd259e.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_dd2f27.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_e0e1d4.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_e10bdb.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_e41da9.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_e7d85c.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_e906de.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_f21df5.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_f4a690.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_f5ee77.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/news_fa1ad8.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/notices_announcements_0326ae.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "notices/notices_announcements_e3d321.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "placements/188imguf_placement-brochure-kle-tech.md",
+      "title_improved": true,
+      "pages": "1-22"
+    },
+    {
+      "file": "placements/189krf-Campus-Placement-Brochure.md",
+      "title_improved": true,
+      "pages": "1-11"
+    },
+    {
+      "file": "placements/525imguf_placement-brochure-kle-technological-university-hubballi-karnataka-state.md",
+      "title_improved": true,
+      "pages": "1-26"
+    },
+    {
+      "file": "placements/batch_of_2010_12_1e256c.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "placements/batch_of_2011_2013_1749f3.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "placements/batch_of_2012_2014_075260.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "placements/batch_of_2013_2015_596f1d.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "placements/batch_of_2014_2016_9f3724.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "placements/batch_of_2015_2017_1f0fe8.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "placements/batch_of_2016_2018_10e890.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "placements/batch_of_2017_2019_18fd4a.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "placements/batch_of_2018_2020_999d52.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "placements/careers_27ae44.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "placements/news_2ffad4.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "placements/news_c9ffc5.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "placements/our_leading_recruiters_21653b.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "placements/our_recruiters_84e0e2.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "research/5.3.3._Student-Projects.md",
+      "title_improved": true,
+      "pages": "1-7"
+    },
+    {
+      "file": "research/center_for_energy_and_environment_cee_883f54.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "research/center_for_integrated_circuits_and_systemscics_6649cf.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "research/center_of_excellence_in_material_science_cms_5c1112.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "research/center_of_excellence_in_visual_intelligence_cevi_5d101b.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "research/center_of_intelligent_mobility_cim_3af56e.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "research/centre_for_artificial_intelligence_research_cair_d25094.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "research/ev_innovation_centre_3341cc.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "research/makers_space_e2b877.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "research/news_24eaed.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "research/news_4ccc65.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "research/news_5d94eb.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "research/news_764083.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "research/news_c574b3.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "research/news_c59ce5.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "research/news_ef7e21.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "research/news_f28247.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "research/research_1cc187.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "research/star_labs_research_centers_af8928.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "research/student_projects_5fb6f3.md",
+      "title_improved": false,
+      "pages": ""
+    },
+    {
+      "file": "transport/news_2c1089.md",
+      "title_improved": false,
+      "pages": ""
+    }
+  ]
+}

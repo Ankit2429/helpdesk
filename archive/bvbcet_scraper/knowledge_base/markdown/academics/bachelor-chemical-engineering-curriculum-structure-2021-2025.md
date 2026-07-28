@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: bachelor-chemical-engineering-curriculum-structure-2021-2025"
+title: "Bachelor of Engineering Curriculum"
 category: "academics"
 subcategory: ""
 document_type: "syllabus"
@@ -11,15 +11,14 @@ language: "en"
 keywords: ["bachelor", "chapter", "chemical", "curriculum", "document", "engineering", "hours", "marks", "structure", "unit"]
 aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "EEE", "EE", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "122"
 ---
-# PDF Document: bachelor-chemical-engineering-curriculum-structure-2021-2025
- **PDF Source:** https://www.kletech.ac.in/pdf/bachelor-chemical-engineering-curriculum-structure-2021-2025.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/bachelor-chemical-engineering-curriculum-structure-2021-2025.pdf
  FMCD2009 / 2.0 1 
   Curriculum Structure and Curriculum Content for the Academic Batch 2021-25 
 Department of Chemical Engineering 
 Program: Bachelor of Engineering 
- ## Page 2
  FMCD2009 / 2.0 2 
   Table of Contents 
 Vision and Mission of KLE Technological University ................................ ................................ ....... 3 
@@ -38,7 +37,6 @@ Semester- VIII ................................ ................................
 List of Open Electives ................................ ................................ ................................ ................. 16 
 List of Program Electives ................................ ................................ ................................ ........... 17 
 Curriculum Content- Course wise ................................ ................................ ............................... 18 
- ## Page 3
  FMCD2009 / 2.0 3 
   Vision and Mission of KLE Technological 
 University 
@@ -59,7 +57,6 @@ priority.
 expertise, experience and leadership, to enhance competitiveness and quality of life. 
   As a unified community of faculty, sta ff and students, we work together with the spirit of 
 collaboration and partnership to accomplish our mission. 
- ## Page 4
  FMCD2009 / 2.0 4 
   Vision and Mission Statements of the School / Department 
   Vision 
@@ -74,7 +71,6 @@ areas through seminars and projects.
 systems. 
  Foster industry-institute relationship to bridge the gap between theory and practice. 
  To facilitate employability and entrepreneurship through holistic education and alumni network. 
- ## Page 5
  FMCD2009 / 2.0 5 
   Program Educational Objectives/Program Outcomes and Program-Specific Objectives 
   Program Educational Objectives -PEOs 
@@ -108,7 +104,6 @@ relevant to the professional engineering practice.
   PO7. Environment and Sustainability: Understand the impact of the professional engineering 
 solutions in societal and environmental contexts, and demonstrate the knowledge of, and 
 need for sustainable development. 
-  ## Page 6
  FMCD2009 / 2.0 6 
   PO8. Ethics: Apply ethical principles and commit to professional ethics and responsibilities and 
 norms of the engineering practice. 
@@ -130,7 +125,6 @@ PSO 2 - Flair to industry : Acquire practical knowledge of unit operations and u
 through industry visits, internships and projects. 
 PSO 3 - Expertise in allied areas : Apply principles of chemical engineering to bio -energy, 
 petroleum, biochemical and environmental engineering. 
-  ## Page 7
  FMCD2009 / 2.0 7 
   Curriculum Structure - Overall 
   Semester: 1 to 8 (2021-25 
@@ -316,7 +310,6 @@ Arithmetical Thinking
 & Analytical Reasoning 
 (22EHSH301) 
     Credits 23 21 22 24 24.5 23.5 22 17 
- ## Page 8
  FMCD2009 / 2.0 8 
   Curriculum Structure-Semester wise 
   Semester -I 
@@ -343,7 +336,6 @@ ES 0-0-3 3 6 80 20 100 3 hours
 6 15EMEF101 Basic Mechanical Engg. ES 2-1-0 3 4 50 50 100 3 hours 
 7 15EHSH101 Professional Communication HSS 1-1-0 2 3 50 50 100 3 hours 
 TOTAL 14-3-6 23 32 
- ## Page 9
  FMCD2009 / 2.0 9 
   Semester -II 
   No 
@@ -364,7 +356,6 @@ Innovation
 HSS 0-1-1 2 3 80 20 100 3 hours 
 7 16EPHP102 Engineering Physics Lab BS 0-0-1 1 2 80 20 100 3 hours 
 TOTAL 14-2-5 21 27 
- ## Page 10
  FMCD2009 / 2.0 10 
   Semester - III 
   No 
@@ -387,7 +378,6 @@ PSC 4-0-0 4 5 50 50 100 3 hours
 9 22ECEP203 Computer-Aided Drawing Lab. PSC 0-0-1 1 2 80 20 100 3 hours 
 10 22EHSH201 Corporate Communication ESH 0.5 2 100 - - 
 TOTAL 19-0-3 22.5 30 
- ## Page 11
  FMCD2009 / 2.0 11 
   Semester - IV 
   No 
@@ -418,7 +408,6 @@ Calculations Lab. PSC 0-0-1 1 2 80 20 100 3 hours
 9 22ECEP206 Technical Chemistry Lab. BS 0-0-1 1 2 80 20 100 3 hours 
 10 22ESHH202 Problem Solving and Analysis H&SS 0.5 2 100 -- 
 TOTAL 17-1-3 21.5 31 
- ## Page 12
  FMCD2009 / 2.0 12 
   Semester - V 
   No Code Course Category L-T-P Credits Contact 
@@ -449,7 +438,6 @@ PSC 0-0-1 1 2 80 20 100 3 Hours
 Reasoning 
 ESH 0.5 2 100 - 100 
 TOTAL 18-0-5 23.5 40 
- ## Page 13
  FMCD2009 / 2.0 13 
   Semester - VI 
   No 
@@ -477,7 +465,6 @@ Reasoning PSC 3-0-0 3 3 50 50 100 3 Hours
 9 22EHSH302 Industry Readiness & Leadership 
 Skills HS 0.5 
 TOTAL 16-0-8 26.5 30 
- ## Page 14
  FMCD2009 / 2.0 14 
   Semester - VII 
   No 
@@ -504,7 +491,6 @@ Drawing PSC 4-0-0 4 4 50 50 100 3Hours
 8 22ECEP401 Process Control Lab PSC 0-0-1 1 2 80 20 100 3Hours 
 9 22ECEE490 REU PRJ 0-0-6 6 6 50 50 100 3Hours 
 TOTAL 16-0-7 23 39 
- ## Page 15
  FMCD2009 / 2.0 15 
   Semester - VIII 
   No 
@@ -541,7 +527,6 @@ Internship - Project
 TOTAL 6-0-17 17 28 
   Semester I II III IV V VI VII VIII Total 
 Credits 23 21 22.5 21.5 23.5 26.5 23 17 178 
- ## Page 16
  FMCD2009 / 2.0 16 
   List of Open Electives ← 
   Sr. No Name of the Course Course Code 
@@ -551,7 +536,6 @@ Credits 23 21 22.5 21.5 23.5 26.5 23 17 178
 4 Solid Waste Management 22ECE0404 
 5 Occupational Safety and Health Administration 22ECE0405 
 6 Nano Science & Technology 22ECEO406 
- ## Page 17
  FMCD2009 / 2.0 17 
   List of Program Electives ← 
   Sr. No Name of the Course Course Code 
@@ -575,7 +559,6 @@ Credits 23 21 22.5 21.5 23.5 26.5 23 17 178
 18 Unit Operations in Environmental Engineering 22ECEE410 
 19 Polymer Science and Technology 22ECEE411 
 20 Machine Learning for Process Optimization in Chemical Engineering 22ECEE412 
-  ## Page 18
  FMCD2009 / 2.0 18 
   Curriculum Content- Course wise 
 ←BACK TO SEMESTER-I 
@@ -619,7 +602,6 @@ Text Books
 Reference Books: 
 1. Calculus Single and Multivariable, Hughues-Hallett Gleason, Wiley India Ed, 4ed, 2009. 
 2. Thomas Calculus, George B Thomas, Pearson India, 12ed, 2010 
- ## Page 19
  FMCD2009 / 2.0 19 
   ←BACK TO SEMESTER-I 
 Program: UG Semester: I 
@@ -667,7 +649,6 @@ galvanization and tinning. Metal Finishing: Technological importance of metal fi
 Electroplating, factors affecting nature of electrodeposit - Throwing power of plating bath solution - 
 numerical problems. Electro less plating - advantages over electroplating, lector less plating of 
 copper and its applications in the manufacture of printed circuit board. 04Hrs 
- ## Page 20
  FMCD2009 / 2.0 20 
   Unit - III 
 7. Polymers 
@@ -699,7 +680,6 @@ Nagin Chand & Co.,1992.
 6. Principles of Polymer Chemistry- A. Ravve Plelum Press, New York and London. 
 7. Callister William D, Materials Science and Engineering: An introduction, John Wiley and Sons 
 2007: 721 pages. 
- ## Page 21
  FMCD2009 / 2.0 21 
   ←BACK TO SEMESTER-I 
 Program: UG Semester: I 
@@ -750,7 +730,6 @@ Reference Books:
 2. B S Gottfried, Programming with C, 2ed, TMH, 2006. 
 3. B.A. Forouzan, R.F. Gilberg, A Structured Program Approach Using C, 3ed, CENGAGE Learning, 
 2008. 
- ## Page 22
  FMCD2009 / 2.0 22 
   ←BACK TO SEMESTER-I 
   Program: UG Semester: I 
@@ -793,7 +772,6 @@ Software Tool
 - 
 10 Platform Based Development: Arduino - 
 10 Course Project 40 
- ## Page 23
  FMCD2009 / 2.0 23 
   ←BACK TO SEMESTER-I 
   Program: UG Semester: I 
@@ -845,7 +823,6 @@ Conversion, SAR ADC, Data Acquisition.
 Chapter 7: Case Studies of Mechatronic Systems: 
 Automatic Camera, Drilling Machine, Bar code reader. 
 04 
- ## Page 24
  FMCD2009 / 2.0 24 
   Text Books 
 1. David A Bell, "Electronic devices and Circuits", PHI New Delhi, 2004. 
@@ -863,7 +840,6 @@ Scientist and Engineers", Second Edition New Age International Publishers, Wiley
 5. BoylesteadNashelsky, "Electronic devices & Circuit theory" Sixth Edition Prentice Hall India, 
 2000. 
 6. Ramakant Gayekawad "Operational Amplifiers & applications" 3rd Edition, PHI, 2000. 
- ## Page 25
  FMCD2009 / 2.0 25 
   ←BACK TO SEMESTER-I 
   Program: UG Semester: I 
@@ -932,7 +908,6 @@ aluminium can crusher
 Video presentations 
 5 
 4 Thermal Engineering 1: Prime 4 Case study on power 1 
- ## Page 26
  FMCD2009 / 2.0 26 
    Movers. 
 Internal Combustion Engines: 
@@ -969,7 +944,6 @@ Reference Books:
 2. SKH Chowdhary, AKH Chowdhary, Nirjhar Roy, The Elements of Workshop Technology - Vol I 
 & II , 11th edition 2001, Media Promoters and Publishers. 
 3. Basic Manufacturing, Roger Timings, Third edition, Newnes, An imprint of Elsevier 
- ## Page 27
  FMCD2009 / 2.0 27 
   ←BACK TO SEMESTER-I 
   Program: UG Semester: I 
@@ -1006,7 +980,6 @@ References:
 1. Collins Cobuild Advanced Learner's English Dictionary 
 2. Raymond Murphy - Intermediate English Grammar, Cambridge University Press 
 3. Martin Hewings- Advanced English Grammar, Cambridge University Press. 
-  ## Page 28
  FMCD2009 / 2.0 28 
   ←BACK TO SEMESTER-II 
   Program: UG Semester: II 
@@ -1044,7 +1017,6 @@ Text Books :
 Reference Books: 
 1. Calculus Single and Multivariable, Hughues-Hallett Gleason, Wiley India Ed, 4ed, 2009. 
 2. Thomas Calculus, George B Thomas, Pearson India, 12ed, 2010 
- ## Page 29
  ←BACK TO SEMESTER-II 
 FMCD2009 / 2.0 29 
   Program: UG Semester: II 
@@ -1100,7 +1072,6 @@ Reference:
 1. Randall D Knight, Physics for SIS Antists and Engineers, Pearson publication, 2ndEdition. 
 2. Hans C Ohanian and John T Markert, Physics for Engineers and Scientists, W W Norton and 
 Company, Volume 1, 3rd Edition 
- ## Page 30
  ←BACK TO SEMESTER-II 
 FMCD2009 / 2.0 30 
   Program: UG Semester: II 
@@ -1145,7 +1116,6 @@ beam, Reactions at support connections, Numerical problems on equilibrium of for
 systems and support reactions for a statically determinate beam. 
 5 hrs. 
 18 
- ## Page 31
  FMCD2009 / 2.0 31 
   5 Chapter 5: Static Friction 
 Introduction, types of friction, definition, limiting friction, coeffiISAnt of friction, laws of 
@@ -1187,7 +1157,6 @@ Pub. Pvt. Ltd., New Delhi, 2008.
 Company, New Delhi, 1956. 
 4. Irving H Shames, Engineering Mechanics, 3rd edition, Prentice-Hall of India Pvt. Ltd, New Delhi- 
 110 001, 1995. 
- ## Page 32
  ←BACK TO SEMESTER-II 
 FMCD2009 / 2.0 32 
   Program: UG Semester: II 
@@ -1233,7 +1202,6 @@ Projections using CAD software.
 Text Books: 
 1. Text Book of Engineering Drawing by K R Gopalakrishna 
 2. Text Book of Engineering Drawing by N D Bhatt and V M Panchal 
- ## Page 33
  ←BACK TO SEMESTER-II 
 FMCD2009 / 2.0 33 
   Program: UG Semester: II 
@@ -1291,7 +1259,6 @@ Numericals..
 Text Books 
 1 Hughes, Electrical & Electronic Technology, 8th , Pearson Education, 2001 
 2 P C Sen, Principals of Electrical Machines and Power Electronics, 2nd, Wiley Publications 
- ## Page 34
  FMCD2009 / 2.0 34 
   3 Gilbert M Masters, Renewable and Efficient Electrical Power systems, John Wiley & Sons 2004 
 4 Frank D. Petruzella, Electric Motors and Control Systems, MGH Education, 2009 Edition 
@@ -1300,7 +1267,6 @@ Reference Books:
 2 David G Alciatore and Michel B Histand, Introduction to Mechatronics and Measurement Systems, 
 3rd, Tata McGraw Hill Education Private Limited, New Delhi., 2005 
 3 Vincent Del Toro, Electrical Engineering Fundamentals, 2nd edition Prentice Hall India 
- ## Page 35
  FMCD2009 / 2.0 35 
   ←BACK TO SEMESTER-II 
   Program: UG Semester: II 
@@ -1396,7 +1362,6 @@ youir Creative
 Confidence by David 
 Kelley - IDEO 
 Founder) 
- ## Page 36
  FMCD2009 / 2.0 36 
     asking the stakeholders about the 
 website) 
@@ -1476,7 +1441,6 @@ respective templates
 with the help of 
 sample case study 
   3. Ideation Reading assignments  Familiarization of the 
- ## Page 37
  FMCD2009 / 2.0 37 
     3. 1 Synthesis 
  Search for meaning 
@@ -1556,7 +1520,6 @@ holders & their enagement
 respective templates 
 with the help of 
 sample case study 
- ## Page 38
  FMCD2009 / 2.0 38 
     5. 0 Reflect 
   Reflection of the overall 
@@ -1573,7 +1536,6 @@ Implementation
 respective templates 
 with the help of 
 sample case study 
- ## Page 39
  FMCD2009 / 2.0 39 
   ←BACK TO SEMESTER-II 
   Program: UG Semester: II 
@@ -1592,7 +1554,6 @@ Experiments
 8. Projectile motion 
 9. Variable g pendulum 
 10. Study of one dimension motion by linear air track 
- ## Page 40
  ←BACK TO SMESTER-III 
 FMCD2009 / 2.0 40 
   Program: Bachelor of Engineering Semester: III 
@@ -1633,7 +1594,6 @@ Text Books
 Delhi, 2003 
 Reference Books: 
 1. Calculus- James Stewart, Early Transcendentals Thomson Books, 5e 2007 
- ## Page 41
  ←BACK TO SMESTER-III 
 FMCD2009 / 2.0 41 
   Program: Bachelor of Engineering Semester: III 
@@ -1682,7 +1642,6 @@ PHI, 2000.
 2. Miller, Freud and Johnson, Probability and Statistics for Engineering by, 5ed, PHI publications, 2000. 
 3. Potter M C, Jack Goldberg and Aboufadel E F, Advanced Engineering Mathematics, 3ed, Oxford 
 Indian. 
- ## Page 42
  ←BACK TO SMESTER-III 
 FMCD2009 / 2.0 42 
   Program: Bachelor of Engineering Semester: III 
@@ -1735,11 +1694,9 @@ References
 1. Coulson J.M. and Richardson J.F. with Backhurst J.R. and Marker J.H., Chemical Engineering, Vol. 1, 6 th 
 Edition, B utter worth - Heinemann New Delhi, 1999 
 2. Walter L. Badger, Julius T. Banchero, Juli us T. Bancheo, Introduction to Chemical Engineering, Tata McGraw 
- ## Page 43
  ←BACK TO SMESTER-III 
 FMCD2009 / 2.0 43 
   Hill, New York, 1997 
-  ## Page 44
  FMCD2009 / 2.0 44 
   ←BACK TO SMESTER-III 
   Program: Bachelor of Engineering Semester: III 
@@ -1791,7 +1748,6 @@ Chapter 7. Agitation and Mixing
 Application of agitation, Agitation equipment, Types of impellers - Propellers, Paddles and Turbines, 
 Flow patterns in agitated vessels, Prevention of swirling, Standard turbine design, Power correlation 
 and power calculation, Mixing of solids, Types of mixers - Muller mixers, Mixing index, Ribbon blender, 
- ## Page 45
  FMCD2009 / 2.0 45 
   Internal screw mixer. Case Study: Dispersing of paints and mixing of powders in pharmaceutical 
 industries. 
@@ -1812,7 +1768,6 @@ Hill International Edition, Singapore , 1999
   References 
 1. Foust, Alan S., Leonard A. Wenzel, Curtis W. Clump, Louis Maus, and L. Bryce Andersen. 
 Principles of unit operations. John Wiley & Sons, 2015. 
-  ## Page 46
  FMCD2009 / 2.0 46 
   ←BACK TO SMESTER-III 
   Program: Bachelor of Engineering Semester: III 
@@ -1857,7 +1812,6 @@ and Energy balances", 2nd edition, CBS publishers and distributors, New Delhi 20
 References 
 1. Himmelblau D.M., "Basic principle and Calculations in Chemical Engineering", 6 th edition, 
 Prentice Hall of India, New Delhi, 1997 
- ## Page 47
  ←BACK TO SMESTER-III 
 FMCD2009 / 2.0 47 
   Program: Bachelor of Engineering Semester: III 
@@ -1907,7 +1861,6 @@ EWP.
 2. Unit Processes in Organic Chemical Industries, Desikan and Sivakumar (Eds.), CEDC, IITM, 
 1982. 
 3. Bose P.K., Chemical Engineering Technology, Vol -1, 2, Books and allied Pvt. Ltd 
-  ## Page 48
  ←BACK TO SMESTER-III 
 FMCD2009 / 2.0 48 
   Program: UG Semester: III 
@@ -1932,7 +1885,6 @@ Demonstration
   Text Books 
 1. Kumar K.L. Engineering Fluid Mechanics, S Chand & Co Ltd., 2008 
 2. Bansal R.K. A Textbook of Fluid Mechanics, Laxmi Publications Pvt Limited, 2005 
-  ## Page 49
  ←BACK TO SMESTER-III 
 FMCD2009 / 2.0 49 
   Program: UG Semester: III 
@@ -1957,7 +1909,6 @@ Text Books
 1. Unit operations of chemical engineering by McCabe W. L. and Smith J. C, McGraw-Hill. 
 2. Coulson and Richardson's Chemical Engineering - Particle Technology And Separation Processes 
 (Volume - 2) Richardson J. F. 
-  ## Page 50
  ←BACK TO SMESTER-III 
 FMCD2009 / 2.0 50 
   Program: UG Semester: III 
@@ -1983,7 +1934,6 @@ box and Expansion joint (Screw type or flanged type)
   Reference Books: 
 1. Walas S.M., "Chemical Process Equipment", Butterworth Heinemann Pub., 1999 
 2. Ludwig E.E., "Applied Process Design", 3rdedn., Gulf Professional Publishing, New Delhi, 1994 
-  ## Page 51
  ←BACK TO SMESTER-III 
 FMCD2009 / 2.0 51 
   Program: UG Semester: III 
@@ -2010,7 +1960,6 @@ Techniques, Dictionary Usage, Similar and Contradictory Words.
 1. Diana Booher - Communicate With Confidence, Mc Graw Hill Publishers 
 2. Norman Lewis - Word Power Made Easy, Goyal Publishers 
 3. Cambridge Advanced Learner's Dictionary, Cambridge University Press. 
- ## Page 52
  ←BACK TO SEMESTER-IV 
 FMCD2009 / 2.0 52 
   Program: Bachelor of Engineering Semester: IV 
@@ -2048,7 +1997,6 @@ Text Books
 New Delhi, 2003 
 Reference Books: 
 1. Early Transcendental Calculus- James Stewart, Thomson Books, 5 ed, 2007 
- ## Page 53
  ←BACKTOSEMESTER-IV 
 FMCD2009/2.0 53 
   Program: UG Semester: IV 
@@ -2099,7 +2047,6 @@ Reference Books:
 1. Burden R L and Douglas Faires J, Numerical Analysis, 7ed, Thomson publishers, 2006. 
 2. Simmons G F and Krantz S G, Differential Equations, TATA McGraw-Hill, 2007. 
 3. Sastry S S, Introductory method for numerical analysis, 3ed, PHI, 2003 
- ## Page 54
  ←BACKTOSEMESTER-IV 
 FMCD2009/2.0 54 
   Program: UG Semester: IV 
@@ -2142,7 +2089,6 @@ Reference Books:
 Publishing, Home Pvt. Ltd., New Delhi, 2010. 
 2. Air Pollution, H.C. Perkins, McGraw Hill, 1974. 
 3. Industrial Pollution Control Handbook, Lund, H.F., 6thedn, Vol.1, McGraw Hill, 1971 
- ## Page 55
  ←BACKTOSEMESTER-IV 
 FMCD2009/2.0 55 
   Program: UG Semester: IV 
@@ -2190,7 +2136,6 @@ Edition, McGraw Hill Education, 2017.
 Reference Books: 
 1. Coulson J.M. and Richardson J.F. with Backhurst J.R. and Marker J.H., Coulson J.M. Chemical 
 Engineering, Vol. 1, 6th Edition, Butter worth-Heinemann New Delhi, 1999 
- ## Page 56
  ←BACKTOSEMESTER-IV 
 FMCD2009/2.0 56 
   Program: UG Semester: IV 
@@ -2243,7 +2188,6 @@ Reaction Stoichiometry, Criteria of chemical reaction equilibrium, Equilibrium c
 free energy change, Effect of temperature, Pressure on equilibrium constants and other factors 
 affecting equilibrium conversion. 
 06 Hours 
- ## Page 57
  ←BACKTOSEMESTER-IV 
 FMCD2009/2.0 57 
   Text Books 
@@ -2251,7 +2195,6 @@ FMCD2009/2.0 57
 McGrawHill, New York. 
 2. Narayanan K.V., "Text book of Chemical Engineering Thermodynamics", Prentice Hall of India 
 Private Limited, New Delhi, 2013 
- ## Page 58
  FMCD2009/2.0 58 
   Program: U G Semester: IV 
 Course Title: Material Science and Engineering Course Code: 22ECEC208 
@@ -2301,7 +2244,6 @@ India Pvt. Ltd., New Delhi, 2021
 Reference Books: 
 1. Elements of Materials Science and Engineering (Addison-Wesley Series in Metallurgy & Materials 
 Engineering) by L. H. Van Vlack - 1 January 1989 
- ## Page 59
  ←BACKTOSEMESTER-IV 
 FMCD2009/2.0 59 
   Program: UG Semester: IV 
@@ -2333,7 +2275,6 @@ Engineering. 7th ed. McGraw Hill Education, 2017
 "Heat Transfer", 1st ed. Universities Press (India) Ltd., New Delhi, 2001 
 7. Ahuja, Pradeep. Introduction to Numerical Methods in Chemical Engineering. Prentice 
 Hall India Learning Private Limited, 2010. 
- ## Page 60
  ←BACKTOSEMESTER-IV 
 FMCD2009/2.0 60 
   Program: UG Semester: IV 
@@ -2363,7 +2304,6 @@ Demonstration
   Reference Books: 
 1. Coulson J.M. and Richardson J.F. with Backhurst J.R. and Marker J.H., Coulson J.M. Chemical 
 Engineering, Vol. 1, 6th Edition, Butter worth-Heinemann New Delhi, 1999 
-  ## Page 61
  ←BACKTOSEMESTER-IV 
 FMCD2009/2.0 61 
   Program: UG Semester: IV 
@@ -2398,7 +2338,6 @@ New Delhi, 1998
 4. Puri L.R. and Sharma B.R., "Physical Chemistry", 14th ed., Chand S. and Company, New Delhi, 
 1998 
 5. James Huheey, "Inorganic Chemistry", 19thedn. Wiley Publishers, New Delhi, 19 
-  ## Page 62
  ←BACKTOSEMESTER-IV 
 FMCD2009/2.0 62 
   Program: UG Semester: IV 
@@ -2435,7 +2374,6 @@ Sons, New Delhi, 2018
 6. Norman Lewis - Word Power Made Easy, Goyal Publishers 
 7. Cambridge Advanced Learner's Dictionary, Cambridge University Press. 
 8. Kaplan's GRE guide 
-  ## Page 63
  FMCD2009 / 2.0 63 
   Program: Bachelor of Engineering Semester: V 
 Course Title: Numerical Methods and Statistics Course Code:19EMAB301 
@@ -2484,7 +2422,6 @@ Reference Books:
 1. Sastry S S, Introductory method for numerical analysis, 3rd Ed, PHI, 2003. 
 2. J. Susan Milton, Jesse C. Arnold, Introduction to Probability and Statistics: Principles and 
 Applications for Engineering and the Computing Sciences, 4th Ed, TATA McGraw-Hill Edition 2007. 
- ## Page 64
  FMCD2009 / 2.0 64 
   Program: Bachelor of Engineering Semester: V 
 Course Title: Process Engineering Economics & Plant Design Course Code:22ECEC301 
@@ -2522,7 +2459,6 @@ West, 5th Edn., McGraw Hill Education, 2017
 3. Process Engineering Economics (Chemical Industries) by James Riley Couper, CRC Press, 2003 
   Reference Books: 
 1. Chemical Engineering Process Design and Economics, a Practical Guide by Gael D. Ulrich, 2016 
-  ## Page 65
  FMCD2009 / 2.0 65 
   Program: Bachelor of Engineering Semester: V 
 Course Title: Computer Applications, Modeling & Simulation Course Code: 22ECEC302 
@@ -2575,7 +2511,6 @@ Springer; 2006
 Reference Books: 
 1. Coulson J.M. and Richardson J.F. with Backhurst J.R. and Marker J.H., Coulson J.M. Chemical 
 Engineering, Vol. 1, 6th edition, Butter worth-Heinemann New Delhi, 1999 
- ## Page 66
  FMCD2009 / 2.0 66 
   Program: Bachelor of Engineering Semester: V 
 Course Title: Bioprocess Engineering Course Code: 22ECEC303 
@@ -2628,7 +2563,6 @@ Text Books
 Reference Books: 
 1. Principles of Fermentation Technology, Peter Stanbury, Allan Whitaker, Stephen J. Hall, 3rd 
 Edition, Butterworth-Heinemann an Imprint of Elsevier, 2016 
-  ## Page 67
  FMCD2009 / 2.0 67 
   Program: Bachelor of Engineering Semester: V 
 Course Title: Mass Transfer Course Code: 22ECEC304 
@@ -2676,7 +2610,6 @@ Text Books
 4. Introduction to Chemical Engineering - Badger & Banchero, TMH 6th Reprint 1998 
   Reference Books: 
 1. Principles of Unit Operation - Foust et.al., 2nd Edn John Wiley, 2015 
-  ## Page 68
  FMCD2009 / 2.0 68 
   Program: Bachelor of Engineering Semester: V 
 Course Title: Chemical Reaction Engineering - I Course Code: 22ECEC305 
@@ -2725,7 +2658,6 @@ Text Books
   Reference Books: 
 1. Encyclopedia of Chemical Technology, Kirk and Othmer, 27th volume, 5th edition, Wiley, 2004. 
 2. The Engineering of Chemical Reactions, Lanny D. Schmidt, 2nd edition, Oxford University Press 
-  ## Page 69
  FMCD2009 / 2.0 69 
   Program: Bachelor of Engineering Semester: V 
 Course Title: Computer Applications & Simulation Lab. Course Code: 22ECEP301 
@@ -2763,7 +2695,6 @@ Revision 0, August 2016
 Product a nd Process Design Principles: Synthesis, Analysis and Evaluation, 4 th edition, John 
 Wiley & Sons, 2016 
 7. Ralph Schefflan, Teach Yourself the Basics of Aspen Plus, 2nd edition, John Wiley & Sons, 2016 
-  ## Page 70
  FMCD2009 / 2.0 70 
   Program: Bachelor of Engineering Semester: V 
 Course Title: Pollution Control Lab. Course Code: 22ECEP302 
@@ -2786,7 +2717,6 @@ Teaching Hours:24 Examination Duration:3 Hrs
 1. Air Pollution Engineering Manual, Wayne T. Davis, John Wiley & Sons, Inc., 2000. 
 2. Practical Waste Treatment and Disposal, Dickinson, Applied Science publication, London. 
 3. Pollution control in Process industries, Mahajan, McGraw Hill Education, 2017 
-  ## Page 71
  FMCD2009 / 2.0 71 
   Program: Bachelor of Engineering Semester: V 
 Course Title: Arithmetical Thinking and Analytical Reasoning Course Code: 22EHSH301 
@@ -2817,7 +2747,6 @@ References:
 4. M Tyra, "Magical Book on Quicker Maths", BSC Publications, 2018 
 5. Cambridge Advanced Learner's Dictionary, Cambridge University Press. 
 6. Kaplan's GRE guide 
-  ## Page 72
  ←BACK TO SEMESTER-V 
 FMCD2009 / 2.0 72 
   Program: Bachelor of Engineering Semester: V 
@@ -2842,7 +2771,6 @@ communication, teamwork, and time management
 Reference Books: 
 1. Waste Management in the Chemical and Petroleum Industries, by Alireza Bahadori, Wiley; 2nd 
 edition (15 November 2019) 
- ## Page 73
  FMCD2009 / 2.0 73 
   ← BACK TO SEMESTER VI 
   Program: Bachelor of Engineering Semester: VI 
@@ -2866,7 +2794,6 @@ Sons, New Delhi
 Reference Books: 
 1. Verbal and Non - Verbal Reasoning - Dr. Ravi Chopra, MacMillan India 
 2. Lateral Thinking - Dr. Edward De Bono, Penguin Books, New Delhi 
- ## Page 74
  FMCD2009 / 2.0 74 
   ← BACK TO SEMESTER VI 
   Program: Bachelor of Engineering Semester: VI 
@@ -2908,7 +2835,6 @@ Text Books
 1. Chemical Reaction Engineering, Octave Levenspiel, 3rd Edn, John Wiley & Sons, 2001. 
 2. Elements of Chemical Reaction Engineering, H. Scott Fogler, 3rd Edn, Prentice Hall 2001 
 3. Chemical Engineering Kinetics, J.M. Smith, 3rd Edn, McGraw Hill, 1984 
-  ## Page 75
  FMCD2009 / 2.0 75 
   Program: Bachelor of Engineering Semester: VI 
 Course Title: Mass Transfer - II Course Code: 22ECEC307 
@@ -2958,10 +2884,8 @@ Text Books
 2. Unit Operations in Chemical Engineering - McCabe & Smith, 7th Edn McGraw Hill, 2017 
 3. Chemical Engineering Vol I, II, IV and V - Coulson and Richardson, 4th Edn, Pergamon Press, 1998. 
 4. Introduction to Chemical Engineering - Badger & Banchero, TMH 6th Reprint 1998 
- ## Page 76
  FMCD2009 / 2.0 76 
   5. Principles of Unit Operation - Foust et.al., 2nd Edn, John Wiley, 2015 
-  ## Page 77
  FMCD2009 / 2.0 77 
   Program: Bachelor of Engineering Semester: VI 
 Course Title: Renewable Energy Course Code: 22ECEE301 
@@ -3008,14 +2932,12 @@ Energy conservation act, its features and related policies: features of the ener
 conservation act 2001 and the energy conservation (amendment) act, 2010, schemes 
 under ect-2001, integrated energy policy, NAPCC. 
  05 hours 
- ## Page 78
  FMCD2009 / 2.0 78 
   Text Books 
 1. Solar Energy Utilization, G.D. Rai, 4thEdn. Khanna Publications, 2006. 
 2. Non-Conventional Energy Sources, G.D. Rai, 4thEdn. Khanna Publications, 2ndReprint, 1997. 
 3. Engineering Chemistry, P.C. Jain & M. Jain, 10thEdn. DhanpatRai& Sons, 3rd Reprint, 1995. 
 4. Solar Energy, Second Edition, S.P. Sukhatme, 3rdReprint, Tata McGraw Hill, New Delhi, 1998. 
- ## Page 79
  FMCD2009 / 2.0 79 
   Program: Bachelor of Engineering Semester: VI 
 Course Title: Fermentation & Downstream Processing Course Code: 22ECEE302 
@@ -3064,7 +2986,6 @@ Education, 2016
 Education India, 2015 
 3. Principles of Fermentation Technology, Peter F Stanbur y, Allan Whitaker, Stephen J Hall, 3 rd Edn., 
 Butterworth-Heinemann, 2016 
- ## Page 80
  FMCD2009 / 2.0 80 
   Program: Bachelor of Engineering Semester: VI 
 Course Title: Advanced Process Control Course Code: 22ECEE303 
@@ -3103,7 +3024,6 @@ Text Books
 4. Johnson, C.D., Process Con trol Instrumentation Technology, Prentice Hall of India Private Limited 
 (2007). 
 5. Zaidi, A., SPC Concepts, Methodologies and Tools, Prentice Hall of India Private Limited (1995). 
-  ## Page 81
  FMCD2009 / 2.0 81 
   Program: Bachelor of Engineering Semester: VI 
 Course Title: Industrial Safety and Health Course Code: 22ECEE304 
@@ -3153,12 +3073,10 @@ responsibilities of safety officer
 Text Books 
 1. R. K. Jain and Sunil S. Rao , Industrial Safety , Health and Environment Management Systems, 
 Khanna publishers, New Delhi (2006) 
- ## Page 82
  FMCD2009 / 2.0 82 
   2. Slote. L, Handbook of Occupational Safety and Health, John Willey and Sons, New York. 
 3. Jeanne Mager Stellman, Encyclopedia of Occupational Health and Safety (ILO), Ms. Irma 
 Jourdan publication. 
- ## Page 83
  FMCD2009 / 2.0 83 
   Program: Bachelor of Engineering Semester: VI 
 Course Title: Transport Phenomena Course Code: 22ECEE305 
@@ -3205,7 +3123,6 @@ Text Books
 3. Principles of Unit Operations in Chemical engineering, Foust et al., 2nd edn, John Wiley, 1990. 
 4. Transport Phenomena - A Unified Approach, Robert S. BrodKey and Henry C. Hershley, Vol.2, 
 Brodkey Publishing, 2003 
-  ## Page 84
  FMCD2009 / 2.0 84 
   Program: Bachelor of Engineering Semester: VI 
 Course Title: Instrumentation Engineering Course Code: 22ECEE306 
@@ -3252,7 +3169,6 @@ Unit III
 Pneumatic Transmitter- Force balance & Motion Balance, Electronic Transmitter - 2- wire & 4 -
 wire system, Smart Transmitter. 
 10 hours 
- ## Page 85
  FMCD2009 / 2.0 85 
   Text Books 
 1. William Andrews: Applied Instrumentation in Process Industry Vol. I &II, Gulf Book Co.P.(1994). 
@@ -3261,7 +3177,6 @@ edition,
 3. Curtis Johnson, "Process Control and Instrumentation Technology, Prentice -Hall of India 4th ed., 
 1997 
 4. E.O. Doebelin, "Measurement Systems", McGraw Hill, 4th ed., 1990 
-  ## Page 86
  FMCD2009 / 2.0 86 
   Program: Bachelor of Engineering Semester: VI 
 Course Title: Chemical Plant Utilities Course Code: 22ECEE307 
@@ -3310,12 +3225,10 @@ Text Books
 2. Crowl, D.A. and Louvar, J.F., Chemical Process Safety -Fundamentals with Applications, Prentice 
 Hall, (2002). 
 3. Lees, F.P., Prevention in Process Industries. Butterworth's (1996). 
- ## Page 87
  FMCD2009 / 2.0 87 
   4. Banerjee, S., Industrial Hazards and Plant Safety, Taylor & Francis 2003). 
 5. Sanders, R. E. Chemical Process Safety-Learning from Case Histories, Oxford (2005). 
 6. Perry, R.H., and Green, D. W, Chemical Engineer's Handbook, McGraw Hill (1997). 
-  ## Page 88
  FMCD2009 / 2.0 88 
   Program: Bachelor of Engineering Semester: VI 
 Course Title: Oils and Fats Course Code: 22ECEE308 
@@ -3354,7 +3267,6 @@ Company, Singapore, 1984
 4. Outlines of Chemical Technology, Dryden C. E., Edited by Gopala Rao. M and M. Sittig, 2nd edn, 
 Affiliated East West Press, 1993. 
 5. Hand Book of Industrial Chemistry, Kent J.A (Ed) Riegel's Van Nostrand Reinhold, 1974 
-  ## Page 89
  FMCD2009 / 2.0 89 
   Program: Bachelor of Engineering Semester: VII 
 Course Title: Process Equipment Design and Drawing Course Code: 22ECEC401 
@@ -3403,7 +3315,6 @@ considering gas and liquid flow rates, packing type. Calculate the number of tra
 the height of transfer units (HtoG) required to achieve the desired mass transfer, and how to use 
 these values to determine the total height of the packing needed for efficient absorption. 
  08 hours 
- ## Page 90
  FMCD2009 / 2.0 90 
   Text Books 
 1. Process Equipment Design - M. V. Joshi -McMillan &amp; Co. India Delhi. 3 rd edition, Reprint, 
@@ -3418,7 +3329,6 @@ Far, Stanley Ai Walas
 1. Specifications for shell and tube heat exchanger code book IS 4503-1963 
 2. Specifications for Pressure Vessel IS 2825-1969. 
 3. Process Equipment Design - Vessel Design, Brownell &amp; Young, John Wiley, 1959 
-  ## Page 91
  FMCD2009 / 2.0 91 
   Program: Bachelor of Engineering Semester: VII 
 Course Title: Process control and IIoT Course Code: 22ECEC402 
@@ -3467,7 +3377,6 @@ Hall, New Delhi, 1998.
 5. Industry 4.0: The Industrial Internet of Things Alasdair Gilchrist Publications: Apress Dr. Ovidiu Vermesan, 
 Dr. Peter Friess, "Internet of Things: Convergin g Technologies Smart Environments and Integrated 
 Ecosystems", River Publishers 
-  ## Page 92
  FMCD2009 / 2.0 92 
   Program: Bachelor of Engineering Semester: VII 
 Course Title: Sustainable Technologies Course Code: 22ECEE401 
@@ -3512,7 +3421,6 @@ David P. Rao)
 2. Introduction to Sustainable Engineering (David wheeler and Susan Chambers) 
 3. Elements of Sustainable Chemical Process Design (Robert Smith) 
 4. Industrial Ecology: Parasites or Symbionts? (Graedel and Allenby) 
-  ## Page 93
  FMCD2009 / 2.0 93 
   Program: Bachelor of Engineering Semester: VII 
 Course Title: Food Technology Course Code: 22ECEE402 
@@ -3559,7 +3467,6 @@ Reference Books:
 2. Sustainable Food Processing (Pradeep Desai) (Sustainability focus) 
 3. Emerging Technologies in Food Processing (Sunil Kumar) (Focus on novel technologies) 
 4. Food Chemistry (Owen R. Fennema) (Chemical composition and reactions in food) 
-  ## Page 94
  FMCD2009 / 2.0 94 
   Program: Bachelor of Engineering Semester: VII 
 Course Title: Instrumental Methods of Analysis Course Code: 22ECEE403 
@@ -3605,7 +3512,6 @@ Reference Books:
 2. Skoog, Holler & Crouch: Instrumental Analysis (Douglas A. Skoog et al.) 
 3. Sampling for Analytical Purposes (Brad M. Tolhurst) 
 4. Sustainable Practices for Chemical Analysis (Laura M. Fabián et al.) 
- ## Page 95
  FMCD2009 / 2.0 95 
   Program: Bachelor of Engineering Semester: VII 
 Course Title: Waste Management Course Code: 22ECEE404 
@@ -3651,7 +3557,6 @@ Reference Books:
 Christian Ludwig , Stefanie Hellweg , Samuel Stucki, Springer Nature, 2012 
 2. Sustainable Waste Management Challenges in Developing Countries, Agamuthu Pariatamby , 
 Fauziah Shahul Hamid , Mehran Sanam Bhatti, IGI Global, 2020 
- ## Page 96
  FMCD2009 / 2.0 96 
   Program: Bachelor of Engineering Semester: VII 
 Course Title: Petroleum and Petrochemicals Engineering Course Code: 22ECEE405 
@@ -3701,12 +3606,10 @@ Text Books
 2. BhaskarRao - "Modern Petroleum Refining Processes", Oxford and IBH Publishers, 3rdEdn., 
 reprint, 2000 
 3. BhaskaraRao, B.K., "A Text on Petrochemicals", Khanna Publishers, Publishers 2012 
- ## Page 97
  FMCD2009 / 2.0 97 
   Reference Books: 
 1. Ram Prasad - "Petroleum Refining Technology", Khanna Publishers, First Edn, 2000 
 2. SamiMatar, andLewisF.Hatch.,"ChemistryofPetrochemicalProcesses",2ndEdition 
-  ## Page 98
  FMCD2009 / 2.0 98 
   Program: Bachelor of Engineering Semester: VII 
 Course Title: Process Modeling& Simulation Course Code: 22ECEE406 
@@ -3756,7 +3659,6 @@ reference on CAPE tools)
 Darby (Focus on practical applications) 
 4. Sustainable Design for Chemical Processes: A Systematic Approach (Third Edition ) by Himadri B. Baskar 
 (Sustainability focus) 
- ## Page 99
  FMCD2009 / 2.0 99 
   Program: Bachelor of Engineering Semester: VII 
 Course Title: Pollution Control Technologies Course Code: 22ECEE407 
@@ -3806,7 +3708,6 @@ Reference Books:
 William P. Ela 
 4. Green Engineering: Design for Environmental Sustainability (2nd Edition) by David T. Allen and 
 David R. Shonnard 
- ## Page 100
  FMCD2009 / 2.0 100 
   Program: Bachelor of Engineering Semester: VII 
 Course Title: Pulp & Paper Technology Course Code: 22ECEE408 
@@ -3852,7 +3753,6 @@ Reference Books:
 2. Introduction to Forest Products (2nd Edition) by William M. Barnes 
 3. Sustainable Practices for Papermaking (Howard M. Lange) 
 4. Bleaching of Pulp (3rd Edition) by Dence and Reeve 
- ## Page 101
  FMCD2009 / 2.0 101 
   Program: Bachelor of Engineering Semester: VII 
 Course Title: Data Analytics & Applications in Chemical Engineering Course Code: 22ECEE409 
@@ -3902,7 +3802,6 @@ Reference Books:
 analysis in chemical reactions) 
 4. Sustainable Design for Chemical Processes: A Systematic Approach (3 rd Edition) by Himadri B. Baskar 
 (Sustainability focus in data analytics) 
- ## Page 102
  FMCD2009 / 2.0 102 
   Program: Bachelor of Engineering Semester: VII 
 Course Title: Unit Operations in Environmental Engineering Course Code: 22ECEE410 
@@ -3952,7 +3851,6 @@ Works Association (AWWA)
 3. Air Pollution Control Engineering (2nd Edition) by W.C. Sinnott 
 4. Introduction to Environmental Engineering and Science ( 3rd Edition) by Gilbert M. Masters and William P. 
 Ela (Broader environmental engineering concepts) 
- ## Page 103
  FMCD2009 / 2.0 103 
   Program: Bachelor of Engineering Semester: VII 
 Course Title: Polymer Science & Technology Course Code: 22ECEE411 
@@ -3999,7 +3897,6 @@ Reference Books:
 2. Plastics Engineering (5th Edition) by Patrick Mathias 
 3. Biodegradable Polymers and Composites (2nd Edition) by Michael Vert 
 4. Polymer Physics (Fourth Edition) by Michael Rubinstein 
-  ## Page 104
  FMCD2009 / 2.0 104 
   Program: Bachelor of Engineering Semester: VII 
 Course Title: process Control Lab. Course Code: 22ECEP401 
@@ -4025,7 +3922,6 @@ List of Experiments
 Reference Books: 
 1. Chemical Process Control-An Introduction to Theory & Practical, George S, Vol.3, Prentice Hall, 
 New Delhi, 1998 
-  ## Page 105
  FMCD2009 / 2.0 105 
   Program: Bachelor of Engineering Semester: VII 
 Course Title: Senior Design Project Course Code: 22ECEW401 
@@ -4039,7 +3935,6 @@ field of smart manufacturing, green engineering, and Design engineering and adva
 objective of the course is to infuse lifelon g qualities in students such as research, design thinking, 
 innovation and entrepreneurial qualities. After this course students are capable to convert customer 
 pain points into business solution. 
- ## Page 106
  FMCD2009 / 2.0 106 
   Program: Bachelor of Engineering Semester: VII 
 Course Title: CIPE & EVS Course Code: 15EHSA401 
@@ -4087,7 +3982,6 @@ Allahabad, 2010.
 References 
 1. Durga Das Basu, "Introduction to the Constitution of India", Prentice-hall EEE, 2001 
 2. Mike Martin and Ronald Schinzinger, "Ethics in Engineering", Tata McGraw-Hill Publications. 
- ## Page 107
  ←BACK TO VIII SEMESTER 
 FMCD2009 / 2.0 107 
   Program: Bachelor of Engineering Semester: VIII 
@@ -4109,7 +4003,6 @@ skills required at the job.
 • Exposure to the current technological developments relevant to the subject area of training. 
 • Experience gained from the 'Industrial Internship' in classroom will be used in classroom discussions. 
 • Create conditions conducive to quest for knowledge and its applicability on the job. 
- ## Page 108
  ←BACK TO VIII SEMESTER 
 FMCD2009 / 2.0 108 
   Program: Bachelor of Engineering Semester: VIII 
@@ -4136,7 +4029,6 @@ reasons. They see student interns as fruitful and economical resources with whic
 projects not otherwise possible. They believe interns bring enthusiasm and new ideas into work settings 
 and make strong employees. Just as importantly, employers feel an increasing commitment to 
 Education and want to help train students to assume responsible roles in society. 
- ## Page 109
  FMCD2009 / 2.0 109 
   ←BACK TO VIII SEMESTER 
   Program: Bachelor of Engineering Semester: VIII 
@@ -4152,7 +4044,6 @@ are assigned (or even choose for yourself) are designed to help students analyze
 come up with suitable solutions to them, thus contributing to their wisdom, knowledge, and problem - 
 solving abilities. In the process of researching a solution to the problem students intend to solve for 
 their capstone project, students will also gain insight into the latest trends in their field. 
- ## Page 110
  FMCD2009 / 2.0 110 
   Program: Bachelor of Engineering Semester: VIII 
 Course Title: Fuels Furnaces and Refractories Course Code: 22ECEE421 
@@ -4203,7 +4094,6 @@ Leng, 1st Edn. 2013
 4. Elements of Fuels, Furnaces and Refractories by O.P. Gupta, Khanna Publ., Khanna Publishers, 
 1999 
 5. https://www.digimat.in/nptel/courses/video/113104008/L01.html. 
- ## Page 111
  FMCD2009 / 2.0 111 
   Program: Bachelor of Engineering Semester: VIII 
 Course Title: Nano Materials & Applications Course Code: 22ECEE422 
@@ -4250,7 +4140,6 @@ Reference Books:
 3. Feynman Lectures on Physics Vol. 3: Quantum Mechanics (Richard P. Feynman, Robert B. 
 Leighton, and Matthew L. Sands) (Focuses on fundamental principles) 
 4. Characterization of Nanoscale Materials (David A. Schryer) 
-  ## Page 112
  FMCD2009 / 2.0 112 
   Program: Bachelor of Engineering Semester: VIII 
 Course Title: AL & ML for Chemical Engineeers Course Code: 22ECEE423 
@@ -4296,7 +4185,6 @@ Reference Books:
 Carlos M. Górecki) 
 3. Hands-On Machine Learning with Scikit-Learn, Keras & Tensor Flow (Aurélien Géron) 
 4. Introduction to Chemical Engineering Computing (Bruce A. Finlayson) 
-  ## Page 113
  FMCD2009 / 2.0 113 
   Program: Bachelor of Engineering Semester: VIII 
 Course Title: Environmental Impact Assessment Course Code: 22ECEE424 
@@ -4346,7 +4234,6 @@ Commission)
 3. Strategic Environmental Assessment: An Integrate d Approach to Project Planning and 
 Management (John Glasson et al.) 
 4. Industrial Ecology: Parasites or Symbionts? (Graedel and Allenby) (Sustainability focus) 
-  ## Page 114
  FMCD2009 / 2.0 114 
   Program: Bachelor of Engineering Semester: VIII 
 Course Title: Corrosion Engineering Course Code: 22ECEE425 
@@ -4394,7 +4281,6 @@ Rethwisch)
 3. Handbook of Corrosion Engineering (Edited by Pierre Roberge) 
 4. Metals Handbook: Volume 13: Corrosion (Edited by ASM International) 
 5. Green Corrosion Inhibitors: Principles and Practices (Edited by Xinxiang Liu et al.) 
-  ## Page 115
  FMCD2009 / 2.0 115 
   Program: Bachelor of Engineering Semester: VIII 
 Course Title: Green Technology Course Code: 22ECEO401 
@@ -4438,7 +4324,6 @@ Reference Books:
 3. Sustainable Design: Practical Approaches for Engineers (Henry B. Seedinger III) 
 4. Industrial Green Chemistry: Atom Economy and the Design of Chemical Syntheses (Robert M. 
 Anastas and John C. Warner) 
- ## Page 116
  FMCD2009 / 2.0 116 
   Program: Bachelor of Engineering Semester: VIII 
 Course Title: Process Air Pollution & Control Course Code: 22ECEO402 
@@ -4492,10 +4377,8 @@ Longman Inc., Menlo Park, 3rd edition, 1998.
 5. Crawford, M., Air Pollution Control Theory, TATA McGraw Hill, 1980. 
 6. Howard S. Peavy, Donald R. Rowe and George Technobanoglous., Environmental Engineering, 
 McGraw Hill International Publications, 1985. 
- ## Page 117
  FMCD2009 / 2.0 117 
   7. Stern, A. C., Air Pollution: The Effects of Air Pollution, Academic Press, 3rd edition, 1977. 
-  ## Page 118
  FMCD2009 / 2.0 118 
   Program: Bachelor of Engineering Semester: VIII 
 Course Title: Environmental Protection and Management Course Code: 22ECEO403 
@@ -4544,7 +4427,6 @@ Resource Conservation (Frank P. Robinson)
 4. Environmental Life Cycle Assessment (Milazzo) 
 5. Green Engineering: A Practical Approach to Reducing Pollution (David T. Allen and David R. 
 Shonnard) 
-  ## Page 119
  FMCD2009 / 2.0 119 
   Program: Bachelor of Engineering Semester: VIII 
 Course Title: Solid Waste Management Course Code: 22ECEO404 
@@ -4594,7 +4476,6 @@ Reference Books:
 2. Introduction to Materials for Environmental Engineering (Albequerque et al.) 
 3. Handbook of Thermal Desorption (Theodore Vermeulen et al.) 
 4. Biological Waste Treatment (William J. Metcalf & Eddy Inc.) 
-  ## Page 120
  FMCD2009 / 2.0 120 
   Program: Bachelor of Engineering Semester: VIII 
 Course Title: Occupational Safety and Health Administration Course Code: 22ECEO405 
@@ -4647,7 +4528,6 @@ International Thomson Publishing Inc, 1996.
 4. Trevethick, R.A., "Environmental and Industrial Health Hazards" - William 10. Heinemann Medical 
 Books Ltd., London, 1973. 
 5. Biomedical Waste (Handling and Management) Rules, 2016 
- ## Page 121
  FMCD2009 / 2.0 121 
   Program: Bachelor of Engineering Semester: VIII 
 Course Title: Nano Science and Technology Course Code: 22ECEO406 
@@ -4697,7 +4577,5 @@ Reference Books:
 2. "Nanomaterials: An Introduction to Synthesis, Properties and Applications" by Dieter Vollath 
 3. "Nanostructures and Nanomaterials: Synthesis, Properties, and Applications" by Guozhong Cao, 
 Ying Wang 
- ## Page 122
  FMCD2009 / 2.0 122 
-  4. "Nanotechnology for Dummies" by Richard Booker, Earl Boysen 
- 
+  4. "Nanotechnology for Dummies" by Richard Booker, Earl Boysen

@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: mca-curriculum-2023-25"
+title: "Mca Curriculum 2023 25"
 category: "academics"
 subcategory: ""
 document_type: "syllabus"
@@ -11,18 +11,15 @@ language: "en"
 keywords: ["curriculum", "data", "document", "marks", "mca", "questions", "semester", "using"]
 aliases: ["HOD", "Head of Department", "CSE", "CS", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "124"
 ---
-# PDF Document: mca-curriculum-2023-25
- **PDF Source:** https://www.kletech.ac.in/pdf/mca-curriculum-2023-25.pdf
- ## Page 1
- FMCD2009 / 2.0 
- 1 
+**PDF Source:** https://www.kletech.ac.in/pdf/mca-curriculum-2023-25.pdf
+
   Curriculum Structure and Curriculum Content for the Academic Year 2023-25 
 Department of Computer Applications 
 Master of Computer Applications 
-  ## Page 2
- FMCD2009 / 2.0 
- 2 
+
   Table of Contents 
 Vision and Mission of KLE Technological University ........................................... 3 
 Vision and Mission Statements of the School / Department ................................ 4 
@@ -36,9 +33,7 @@ Semester- III ..................................................................
 Semester- IV .......................................................................................................... 111 
 List of Program Electives .................................................................................... 122 
 Curriculum Content- Course wise ...................................................................... 133 
-  ## Page 3
- FMCD2009 / 2.0 
- 3 
+
 Vision and Mission of KLE Technological University 
 Vision 
   KLE Technological University will be a national leader in Hig her 
@@ -60,9 +55,7 @@ contributing our expertise, experience and leadership, to enhance
 competitiveness and quality of life. 
   As a unified community of faculty, staff and students, we work together with the 
 spirit of collaboration and partnership to accomplish our mission. 
-  ## Page 4
- FMCD2009 / 2.0 
- 4 
+
 Vision and Mission Statements of the Department 
 Vision 
 To be a premier center of integrated computer application studies and 
@@ -80,9 +73,7 @@ students to achieve academic and professional growth.
 4. To provide valuable services to society through education, 
 research, and entrepreneurship, in the field of Computer 
 Science and applications. 
-  ## Page 5
- FMCD2009 / 2.0 
- 5 
+
 Program Educational Objectives/Program Outcomes and Program-Specific Objectives 
 Program Educational Objectives -PEO's 
 1. Have a strong foundation and ability to apply knowledge of Computer 
@@ -120,9 +111,7 @@ computing activities, with an understanding of the limitations.
 6. Professional Ethics: Understand and commit to professional ethics and 
 cyber regulations, responsibilities, and norms of professional computing 
 practice. 
- ## Page 6
- FMCD2009 / 2.0 
- 6 
+
 7. Life-long learning: Recognize the need, and have the ability, to engage 
 in independent learning for continual development as a computing 
 professional. 
@@ -151,9 +140,7 @@ innovative ideas, technical skills, and interpersonal skills.
 2. Professional Compete ncy: Apply computing concepts, skills, and 
 processes to produce a product/project in the domain, demonstrating 
 professional knowledge and attitude. 
-  ## Page 7
- FMCD2009 / 2.0 
- 7 
+
 Curriculum Structure-Overall 
 Course with course code 
 I II III IV 
@@ -239,9 +226,7 @@ Communication and Leadership Skills
 23EHSC702 
 1-0-0 
    Credits 23 27 22 16 
- ## Page 8
- FMCD2009 / 2.0 
- 8 
+
 Curriculum Structure-Semester wise 
 Semester - I 
   No Code Course Category L-T-P Credits Contact 
@@ -261,9 +246,7 @@ Reasoning HSC 3-0-0 3 3 50 50 100 3 hours
 9. 23ECAH701 Critical Thinking and Problem Solving 
 Skills HSC 1-0-0 1 1 100 -- 100 
 TOTAL 15-0-8 23 31 620 280 700 
- ## Page 9
- FMCD2009 / 2.0 
- 9 
+
 Semester - II 
   No Code Course Category L-T-P Credits Contact 
 Hours 
@@ -285,9 +268,7 @@ Skills
 HSC 1-0-0 1 1 100 -- 
 100 3 hours 
 TOTAL 21-0-6 27 33 560 340 900 
- ## Page 10
- FMCD2009 / 2.0 
- 10 
+
 Semester- III 
   No Code Course Category L-T-P Credits Contact 
 Hours 
@@ -302,9 +283,7 @@ Duration
 6. 23ECAP801 Mobile Application Development PSC 0-0-1.5 1.5 3 80 20 100 3 hours 
 7. 23ECAP802 Mini Project-2 PSC 0-0-2 2 4 80 20 100 3 hours 
 TOTAL 15-0-7 22 29 410 290 700 
- ## Page 11
- FMCD2009 / 2.0 
- 11 
+
 Semester- IV 
   Semester I II III IV Total 
 Credits 23 27 22 16 88 
@@ -316,9 +295,7 @@ Duration
 1. 23ECAP803 Capstone Project Work PW 0-0-13 13 26 100 150 250 3 hours 
 2. 23ECAE8XX Elective-3 (MOOC) PSE 3-0-0 3 3 100 -- 100 3 hours 
 TOTAL 3-0-13 16 29 200 150 350 
- ## Page 12
- FMCD2009 / 2.0 
- 12 
+
   List of Program Electives III-Semester 
 Sr. No Name of the Course Course Code 
 1. Linux Administration 23ECAE801 
@@ -339,9 +316,7 @@ Sr. No Name of the Course Course Code
 6. Internet of Things 23ECAE814 
 7. Wireless Mobile Computing 23ECAE815 
 8. Web Content Management 23ECAE816 
-  ## Page 13
- FMCD2009 / 2.0 
- 13 
+
 Curriculum Content- Course wise 
 Program: Master of Computer Applications Semester: I 
 Course Title: Data Structures using C Course Code: 23ECAC701 
@@ -388,9 +363,7 @@ Other list structures: Circular lists, Stack as a circular list, Queue as a
 circular list, Primitive operations on circular lists, doubly linked lists 
 10 Hrs 
 5 Trees and Graphs 10 Hrs 
- ## Page 14
- FMCD2009 / 2.0 
- 14 
+
 Binary trees, operations on binary trees, Applications of binary trees, 
 Binary tree representation, Node representation of binary tree, Internal 
 and external nodes, Implicit array representation of binary trees, Choosing 
@@ -428,9 +401,7 @@ Reprint, Thomson Course Technology, 2005
  ISA 50 
  ESA 50 
  Total 100 
-     ## Page 15
- FMCD2009 / 2.0 
- 15 
+
 2. End Semester Assessment (ESA) 
 UNIT 8 Questions to be set of 20 Marks Each Chapter 
 Nos. 
@@ -438,10 +409,7 @@ Instructions
 I 3 Questions to be set of 20 Marks Each 1, 2, 3 Any 2 questions are to be answered 
 II 3 Questions to be set of 20 Marks Each 4, 5 Any 2 questions are to be answered 
 III 2 Questions to be set of 20 Marks Each 6, 7 Any 1 question is to be answered 
-  Back 
-  ## Page 16
- FMCD2009 / 2.0 
- 16 
+
 Program: Master of Computer Applications Semester: I 
 Course Title: Database Management System Course Code: 23ECAC702 
 L-T-P : 4-0-0 Credits: 4 Contact Hours: 4 
@@ -487,9 +455,7 @@ Informal Design Guidelines for Relation Schemas; Functional
 Dependencies; Normal Forms Based on Primary Keys; General Definitions 
 of Second and Third Normal Forms; Boyce -Codd Normal Form; 
 10 Hrs 
- ## Page 17
- FMCD2009 / 2.0 
- 17 
+
 Multivalued Dependencies and Fourth Normal Form; Join Depen dencies 
 and Fifth Normal Form. 
 Unit III 
@@ -531,10 +497,7 @@ Edition, McGraw-Hill, 2003
  ISA 50 
  ESA 50 
  Total 100 
-     ## Page 18
- FMCD2009 / 2.0 
- 18 
-  Back 
+
   2. End Semester Assessment (ESA) 
 UNIT 8 Questions to be set of 20 Marks Each Chapter 
 Nos. 
@@ -542,9 +505,7 @@ Instructions
 I 3 Questions to be set of 20 Marks Each 1, 2, 3 Any 2 questions are to be answered 
 II 3 Questions to be set of 20 Marks Each 4, 5 Any 2 questions are to be answered 
 III 2 Questions to be set of 20 Marks Each 6, 7 Any 1 question is to be answered 
- ## Page 19
- FMCD2009 / 2.0 
- 19 
+
 Program: Master of Computer Applications Semester: I 
 Course Title: Computer Networks Course Code: 21ECAC701 
 L-T-P : 3-0-1 Credits: 4 Contact Hours: 5 
@@ -592,9 +553,7 @@ Access Protocols: Aloha, Slotted Aloha, CSMA, CSMA/CD, CSMA /CA, Taking-
 Turns Protocols, The Link-Layer Protocol for Cable Internet Access, Link-Layer 
 Addressing and ARP , Ethernet and LAN standards 
 4 Hrs 
- ## Page 20
- FMCD2009 / 2.0 
- 20 
+
   Activities 
  # Topics Activity Weightage 
  1 Introduction to Data 
@@ -663,9 +622,7 @@ Text Books:
 Pearson Education, 2017. 
 Reference Books: 
 1. TCP/IP Protocol Suite ,4th MGH 2010 By B. A. Forouzan. 
- ## Page 21
- FMCD2009 / 2.0 
- 21 
+
 Evaluation Scheme 
 1. In Semester Assessment (ISA) 
  Assessment Marks 
@@ -682,10 +639,7 @@ Instructions
 I 3 Questions to be set of 20 Marks Each 1, 2, 3, 4 Any 2 questions are to be answered 
 II 3 Questions to be set of 20 Marks Each 5, 6 Any 2 questions are to be answered 
 III 2 Questions to be set of 20 Marks Each 7, 8 Any 1 question is to be answered 
-  Back 
-   ## Page 22
- FMCD2009 / 2.0 
- 22 
+
 Program: Master of Computer Applications Semester: I 
 Course Title: Mathematical Thinking & Logical Reasoning Course Code:15EHSC701 
 L-T-P : 3-0-0 Credits: 3 Contact Hours: 3 
@@ -722,10 +676,7 @@ Instructions
 I 3 Questions to be set of 20 Marks Each 1, 2, 3 Any 2 questions are to be answered 
 II 3 Questions to be set of 20 Marks Each 4, 5 Any 2 questions are to be answered 
 III 2 Questions to be set of 20 Marks Each 6 Any 1 question is to be answered 
-Back 
-  ## Page 23
- FMCD2009 / 2.0 
- 23 
+
   Program: Master of Computer Applications Semester: I 
 Course Title: Web Technology Course Code:23ECAP704 
 L-T-P : 0-0-2 Credits: 2 Contact Hours: 4 
@@ -762,9 +713,7 @@ Reference Books:
 2017. 
 2. Eric Meyer, Estelle Weyl, CSS: The Definitive Guide : Web Layout and Presentation, 
 5th Edition , O' Reilly, 2023. 
- ## Page 24
- FMCD2009 / 2.0 
- 24 
+
 Activities : Implement the following programs using C programs 
  # Topics Activity Weightage 
  1. 
@@ -822,10 +771,7 @@ tml
 Program to demonstrate the control statements, 
 user defined function and OOP concepts of PHP 
 10 
- ## Page 25
- FMCD2009 / 2.0 
- 25 
-   Back 
+
   6. Working with 
 databases & SQL 
 ● Install and explore Laravel, CodeIgniter and 
@@ -870,9 +816,7 @@ Evaluation Scheme
  ISA 80 
  ESA 20 
  Total 100 
-     ## Page 26
- FMCD2009 / 2.0 
- 26 
+
   Program: Master of Computer Applications Semester: I 
 Course Title: Data Structures Lab Course Code:23ECAP701 
 L-T-P : 0-0-1.5 Credits: 1.5 Contact Hours: 3 
@@ -919,9 +863,7 @@ ii) Implementation of Queue using Linked list
 b) Design and implement a menu driven C program to perform various 
 operations on Binary Search Tree(BST) of Integers 
 2 
-   ## Page 27
- FMCD2009 / 2.0 
- 27 
+
  Evaluation: 
 Students Assessment through CIA (80%) and ESA (20%) 
         Assessment Weightage in Marks 
@@ -930,10 +872,7 @@ Exercises 60
 Structured Enquiry 20 
 ISA Total (to be scaled down to 80) 100 
 ESA 20 
-  Back 
-  ## Page 28
- FMCD2009 / 2.0 
- 28 
+
 Program: Master of Computer Applications Semester: I 
 Course Title: DBMS Lab Course Code:23ECAP702 
 L-T-P : 0-0-1.5 Credits: 1.5 Contact Hours: 3 
@@ -977,9 +916,7 @@ schema. Write the following queries in SQL.
 2. Enter at least five tuples for each relation. 
 3. Demonstrate how you 
 1 
- ## Page 29
- FMCD2009 / 2.0 
- 29 
+
  Update the damage amount for the car with a specific Regno in 
 the accident with report number 12 to 25000 
  Add a new accident to the database 
@@ -1020,9 +957,7 @@ Retrieve the names of directors directed all the movies produced by any
 one production company. 
 2 
 Structured Enquiry 
- ## Page 30
- FMCD2009 / 2.0 
- 30 
+
 6. Bank Database. 
 Address and phone for each bank are also stored. Each branch is 
 identified by its bank. Branch has name address and phone. A customer 
@@ -1063,9 +998,7 @@ number.
 drug is sold by a given pharmaceutical company, and the trade name 
 identifies a drug uniquely from among the products of that company. 
 2 
- ## Page 31
- FMCD2009 / 2.0 
- 31 
+
 If a pharmaceutical company is deleted, you need not keep track of 
 its products any longer. 
  Each pharmacy has a name, address, and phone number. 
@@ -1105,9 +1038,7 @@ contract between a Pharmacy & Pharmaceutical Company.
 iv. For each doctor display the doctor 's name and the count of 
 prescriptions given by doctor containing the drugs made by 
 NAVYYA LABS. 
- ## Page 32
- FMCD2009 / 2.0 
- 32 
+
 For each patient display the patient's name, drug name & the pharmacy 
 name from where the patient bought the drug. 
 Evaluation: Students Assessment through CIA (80%) and ESA (20%) 
@@ -1117,10 +1048,7 @@ Exercises 60
 Structured Enquiry 20 
 ISA Total (to be scaled down to 80) 100 
 ESA 20 
-  Back 
-  ## Page 33
- FMCD2009 / 2.0 
- 33 
+
 Program: Master of Computer Applications Semester: I 
 Course Title: Python Programming Course Code:23ECAP703 
 L-T-P : 0-0-2 Credits: 2 Contact Hours: 4 
@@ -1164,9 +1092,7 @@ Reference Books:
 1. Think Python, 2nd Edition, Allen Downey, Green Tea Press, 2017 
 2. Core Python Programming, W.Chun, Pearson, 2016 
 3. Introduction to Python, Kenneth A. Lambert, Cengages, 2015 
-  ## Page 34
- FMCD2009 / 2.0 
- 34 
+
  Evaluation: 
 Students Assessment through ISA (80%) and ESA (20%) 
         Assessment Weightage in Marks 
@@ -1175,10 +1101,7 @@ Exercises 50
 Structured Enquiry 20 
 ISA Total (to be scaled down to 80) 100 
 ESA 20 
-  Back 
-  ## Page 35
- FMCD2009 / 2.0 
- 35 
+
    Program: Master of Computer Applications Semester: I 
 Course Title: Critical Thinking and Problem Solving Skills Course Code:23ECAH701 
 L-T-P : 1-0-0 Credits: 1 Contact Hours: 1 
@@ -1219,18 +1142,13 @@ No. Content Hrs
 6 Hrs 
 Text Books : 
 Reference Books: 
- ## Page 36
- FMCD2009 / 2.0 
- 36 
-  Back 
+
   Evaluation Scheme 
 1. In Semester Assessment (ISA) 
  Assessment Marks 
   Activities 100 
  Total 100 
- ## Page 37
- FMCD2009 / 2.0 
- 37 
+
 Program: Master of Computer Applications Semester: II 
 Course Title: OOPS using Java Course Code: 23ECAC703 
 L-T-P : 3-0-0 Credits: 3 Contact Hours: 3 
@@ -1281,9 +1199,7 @@ Collection Interfaces, Collection and Iterator Interfaces in the Java Library,
 Linked Lists, Array Lists, Hash Sets, Tree Sets, Object Comparison, Queues and 
 Dequeues, Priority Queues, Maps. 
 4 Hrs. 
- ## Page 38
- FMCD2009 / 2.0 
- 38 
+
 8 Servlets 
 Background; The life cycle of servlet, A simple servlet, The Servlet API, The 
 javax.servlet Package ,The Servlet Interface, The Servlet Config Interface, 
@@ -1313,10 +1229,7 @@ Instructions
 I 3 Questions to be set of 20 Marks Each 1, 2, 3 Any 2 questions are to be answered 
 II 3 Questions to be set of 20 Marks Each 4, 5, 6 Any 2 questions are to be answered 
 III 2 Questions to be set of 20 Marks Each 7, 8 Any 1 question is to be answered 
-  Back 
-  ## Page 39
- FMCD2009 / 2.0 
- 39 
+
 Program: Master of Computer Applications Semester: II 
 Course Title: Data Mining Course Code: 20ECAC707 
 L-T-P : 3-0-1 Credits: 4 Contact Hours: 5 
@@ -1369,9 +1282,7 @@ Mining Spatial Databases, Mining Multimedia Databases, Mining Time Series
 and Sequence Data, Mining Text Databases, Mining the World Wide Web. 
 4 Hrs 
 Text Books 
- ## Page 40
- FMCD2009 / 2.0 
- 40 
+
 1. DataMining Concepts and Techniques, Third Edition, Jiawei Han, Micheline Kamber, Jian 
 Pei, Morgan Kaufmann, 2012 by Elsevier Inc 
   # Activity List of Practices 
@@ -1412,10 +1323,7 @@ Instructions
 I 3 Questions to be set of 20 Marks Each 1, 2, 3 Any 2 questions are to be answered 
 II 3 Questions to be set of 20 Marks Each 4, 5, 6 Any 2 questions are to be answered 
 III 2 Questions to be set of 20 Marks Each 7, 8 Any 1 question is to be answered 
-Back 
- ## Page 41
- FMCD2009 / 2.0 
- 41 
+
   Program: Master of Computer Applications Semester: II 
 Course Title: Software Engineering Course Code: 20ECAC708 
 L-T-P : 4-0-0 Credits: 4 Contact Hours: 4 
@@ -1465,9 +1373,7 @@ Text Books :
 Reference Books: 
 1. Roger S. Pressman, Software Engineering: A Practitioners Approach, 8the, McGraw, 2015 
 2. Jalote, P , An Integrated Approach to Software Engineering, 6e, willy Publications, 2015 
-  ## Page 42
- FMCD2009 / 2.0 
- 42 
+
   Evaluation Scheme 
 1. In Semester Assessment (ISA) 
  Assessment Marks 
@@ -1484,10 +1390,7 @@ Instructions
 I 3 Questions to be set of 20 Marks Each 1, 2, 3 Any 2 questions are to be answered 
 II 3 Questions to be set of 20 Marks Each 4, 5, 6 Any 2 questions are to be answered 
 III 2 Questions to be set of 20 Marks Each 7, 8 Any 1 question is to be answered 
-   Back 
-   ## Page 43
- FMCD2009 / 2.0 
- 43 
+
 Program: Master of Computer Applications Semester: II 
 Course Title: Cloud Computing Course Code: 20ECAC709 
 L-T-P : 3-0-1 Credits: 4 Contact Hours: 5 
@@ -1537,9 +1440,7 @@ bundling; Scheduling algorithms for computing clouds; Fair queuing;
 Resource management and dynamic application scaling. 
 6 Hrs 
 6 Networking Support 4 Hrs 
- ## Page 44
- FMCD2009 / 2.0 
- 44 
+
 Packet-switched networks; The Internet; Internet migration to IPV6; The 
 transformation of the Internet; Web access and the TCP congestion 
 control window; Network resource management; Interconnection 
@@ -1570,9 +1471,7 @@ and collaborate Online, Pearson Publication, 2012.
 Approach, McGraw Fill, 2010. 
 3. Cloud Computing for Dummies: J. Hurwitz, ISBN 978-0-470-484-8 
 4. Dr. Kumar Sourabh, Cloud Computing, 2nd Edition, Wiley India, 2011. 
-  ## Page 45
- FMCD2009 / 2.0 
- 45 
+
 Activities 
  # Topics Activity Weightage 
  1 Introduction, 
@@ -1623,9 +1522,7 @@ discuss the causes of each incident.
   Research the power consumption of processors used 
 in mobile devices and their energy efficiency. Rank the 
 10 
- ## Page 46
- FMCD2009 / 2.0 
- 46 
+
 components of a mobile device in terms of power 
 consumption. Establish a set of guidelines to minimize 
 the power consumption of mobile applications. 
@@ -1676,9 +1573,7 @@ Simple chat server
 7 Storage Systems Analyze the reasons for the introduction of storage 
 area networks (SANs) and their properties. 
   10 
- ## Page 47
- FMCD2009 / 2.0 
- 47 
+
 Block virtualization simplifies the storage 
 management tasks in SANs. Provide solid arguments in 
 support of this statement. 
@@ -1690,7 +1585,6 @@ have guided the design of GFS.
 Issues, threats, and solutions 
 10 
 Total 100 
-  Back 
   Evaluation Scheme 
 1. In Semester Assessment (ISA) 
  Assessment Marks 
@@ -1707,9 +1601,7 @@ Instructions
 I 3 Questions to be set of 20 Marks Each 1, 2, 3 Any 2 questions are to be answered 
 II 3 Questions to be set of 20 Marks Each 4, 5, 6 Any 2 questions are to be answered 
 III 2 Questions to be set of 20 Marks Each 7, 8 Any 1 question is to be answered 
- ## Page 48
- FMCD2009 / 2.0 
- 48 
+
   Program: Master of Computer Applications Semester: II 
 Course Title: Design & Analysis of Algorithms Course Code: 23ECAC704 
 L-T-P : 4-0-0 Credits: 4 Contact Hours: 4 
@@ -1763,9 +1655,7 @@ Pearson Education, 2012.
 Reference Books: 
 1. Horowitz E., Sahani S., Rajasekharan S.: Com puter Algorithms, Galgotia Publications, 
 Second Edition, 2008. 
- ## Page 49
- FMCD2009 / 2.0 
- 49 
+
 Evaluation Scheme 
 1. In Semester Assessment (ISA) 
  Assessment Marks 
@@ -1782,10 +1672,7 @@ Instructions
 I 3 Questions to be set of 20 Marks Each 1, 2, 3, 4 Any 2 questions are to be answered 
 II 3 Questions to be set of 20 Marks Each 5, 6, 7, 8, 9 Any 2 questions are to be answered 
 III 2 Questions to be set of 20 Marks Each 10, 11 Any 1 question is to be answered 
-  Back 
-   ## Page 50
- FMCD2009 / 2.0 
- 50 
+
 Program: Master of Computer Applications Semester: II 
 Course Title: Operating Systems Course Code: 21ECAC702 
 L-T-P : 3-0-1 Credits: 4 Contact Hours: 5 
@@ -1836,9 +1723,7 @@ methods; Free space management
 4 Hrs 
 Unit III 
 7 Secondary Storage Structures, Protection 4 Hrs 
- ## Page 51
- FMCD2009 / 2.0 
- 51 
+
 Mass storage structures; Disk structure; Disk attachment; Disk schedu ling; 
 Disk management; Swap space management. Protection: Goals of 
 protection, Principles of protection Domain of protection, Access matrix 
@@ -1858,9 +1743,7 @@ McGraw-Hill 2002
 3. Harvey M Deital ; Operating Systems 3rd Edition, Addison Wesley, 1990. 
 4. https://www.os-book.com/OS10/practice-exercises/PDF-practice-solu-dir/ 
 5. https://codex.cs.yale.edu/avi/os-book/OS10/practice-exercises/index-solu.html 
-  ## Page 52
- FMCD2009 / 2.0 
- 52 
+
 Activities : Implement the following programs using C programs 
  # Topics Activity Weightage 
  1. UNIX Commands 
@@ -1921,9 +1804,7 @@ Evaluation Scheme
  ISA 50 
  ESA 50 
  Total 100 
-     ## Page 53
- FMCD2009 / 2.0 
- 53 
+
 2. End Semester Assessment (ESA) 
 UNIT 8 Questions to be set of 20 Marks Each Chapter 
 Nos. 
@@ -1931,10 +1812,7 @@ Instructions
 I 3 Questions to be set of 20 Marks Each 1, 2, 3 Any 2 questions are to be answered 
 II 3 Questions to be set of 20 Marks Each 4, 5, 6 Any 2 questions are to be answered 
 III 2 Questions to be set of 20 Marks Each 7, 8 Any 1 question is to be answered 
-   Back 
-  ## Page 54
- FMCD2009 / 2.0 
- 54 
+
 Program: Master of Computer Applications Semester: II 
 Course Title: Java Programming Lab Course Code:23ECAP705 
 L-T-P : 0-0-1.5 Credits: 1.5 Contact Hours: 3 
@@ -1980,10 +1858,7 @@ Exercises 60
 Structured Enquiry 20 
 CIA Total (to be scaled down to 80) 100 
 ESA 20 
- Back 
-  ## Page 55
- FMCD2009 / 2.0 
- 55 
+
 Program: Master of Computer Applications Semester: II 
 Course Title: Mini Project-1 Course Code: 23ECAP706 
 L-T-P : 0-0-1.5 Credits: 1.5 Contact Hours: 3 
@@ -2020,9 +1895,7 @@ Design (Module wise algorithmic
 design) 10 
 Coding 15 
 Integration and testing 05 
- ## Page 56
- FMCD2009 / 2.0 
- 56 
+
 Report 05 
 Presentation skills and Viva-voce 05 
 Total 50 
@@ -2051,9 +1924,7 @@ market and brings more revenue in the app sales and there will be more exposure 
 business. 
 Evaluation: 
 • The project assessment is done by an evaluation team as per the schedule. 
-  ## Page 57
- FMCD2009 / 2.0 
- 57 
+
    Program: Master of Computer Applications Semester: II 
 Course Title: Communication and Leadership Skills Course Code:23EHSC702 
 L-T-P : 1-0-0 Credits: 1 Contact Hours: 1 
@@ -2094,18 +1965,13 @@ No. Content Hrs
 6 Hrs 
 Text Books : 
 Reference Books: 
- ## Page 58
- FMCD2009 / 2.0 
- 58 
-   Back 
+
    Evaluation Scheme 
 1. In Semester Assessment (ISA) 
  Assessment Marks 
   Activities 100 
  Total 100 
- ## Page 59
- FMCD2009 / 2.0 
- 59 
+
 Course Content Semester: III 
 Program: Master of Computer Applications Semester: III 
 Course Title: Machine Learning Course Code: 21ECAC801 
@@ -2155,9 +2021,7 @@ Reference Books:
 Techniques to Build Intelligent Systems 2nd Edition by Aurélien Géron, October 15, 2019, 
 O'REILLY 
 2. Python Machine Learning Third Edition, 2019 Packt Publishing, Sebastian Raschka Vahid 
- ## Page 60
- FMCD2009 / 2.0 
- 60 
+
 Mirjalili, December 2019. 
 3. The Hundred-Page Machine Learning Book, Andriy Burkov, January 13, 2019. 
 4. Introduction to Machine Learning with Python: A Guide for Data Scientists 1st Edition by 
@@ -2187,10 +2051,7 @@ Instructions
 I 3 Questions to be set of 20 Marks Each 1, 2 Any 2 questions are to be answered 
 II 3 Questions to be set of 20 Marks Each 3, 4 Any 2 questions are to be answered 
 III 2 Questions to be set of 20 Marks Each 5, 6 Any 1 question is to be answered 
-   Back 
-  ## Page 61
- FMCD2009 / 2.0 
- 61 
+
 Program: Master of Computer Applications Semester: III 
 Course Title: Big Data Analytics Course Code: 20ECAC801 
 L-T-P : 3-0-1 Credits: 4 Contact Hours: 5 
@@ -2237,9 +2098,7 @@ Reference Books:
 and SAS Business Series, 2012 
 2. "Data Mining and Predictive Analysis: Intelligence Gathering and Crime Analysis " by 
 Colleen Mccue , Elsevier, 
-   ## Page 62
- FMCD2009 / 2.0 
- 62 
+
   Activities 
  # Topics  Activity Weightage 
  1 Types of digital data 
@@ -2288,10 +2147,7 @@ Functions)
  Hive ETL: Loading JSON, XML, Text Data Examples 
 15 
    Total 100 
- ## Page 63
- FMCD2009 / 2.0 
- 63 
-  Back 
+
     Evaluation Scheme 
 1. In Semester Assessment (ISA) 
  Assessment Marks 
@@ -2305,9 +2161,7 @@ Instructions
 I 3 questions to be set of 20 marks each 1, 2, 3 Any 2 questions are be answered 
 II 3 questions to be set of 20 marks each 4, 5 Any 2 questions are be answered 
 III 2 questions to be set of 20 marks each 6 Any 1 questions are be answered 
- ## Page 64
- FMCD2009 / 2.0 
- 64 
+
 Program: Master of Computer Applications Semester: III 
 Course Title: Advanced Java Programming Course Code:23ECAC801 
 L-T-P : 3-0-1.5 Credits: 4.5 Contact Hours: 6 
@@ -2361,9 +2215,7 @@ Reference Books:
 1. Herbert Schildt, Java the Complete Reference, Eight, Tata McGraw-Hill , 2011 
 2. www.Javatpoint.com 
 3. www.tutorialspoint.com 
- ## Page 65
- FMCD2009 / 2.0 
- 65 
+
   Activities 
 Expt. 
 No. 
@@ -2386,7 +2238,6 @@ Hibernate
 framework. 
 13. Design an d develop E -commerce web application using spring and Hibernate 
 frameworks 
-  Back 
   Evaluation Scheme 
 1. In Semester Assessment (ISA) 
  Assessment Marks 
@@ -2400,9 +2251,7 @@ Instructions
 I 3 questions to be set of 20 marks each 1, 2, 3 Any 2 questions are be answered 
 II 3 questions to be set of 20 marks each 4, 5, 6 Any 2 questions are be answered 
 III 2 questions to be set of 20 marks each 7, 8 Any 1 questions are be answered 
- ## Page 66
- FMCD2009 / 2.0 
- 66 
+
   Program: Master of Computer Applications Semester: III 
 Course Title: Mobile Application Development Course Code: 23ECAP801 
 L-T-P : 0-0-1.5 Credits: 1.5 Contact Hours: 3 
@@ -2445,9 +2294,7 @@ Flutter apps, Preparing apps for deployment 4 hrs
 Accessibility in Flutter and adding translations to apps, Communication 
 between native and Flutter with platform c hannels, Creating background 
 processes, Adding Android-specific code to run Dart code in the background. 4 hrs 
- ## Page 67
- FMCD2009 / 2.0 
- 67 
+
 Text Books : 
 1. Alessandro Biessek, Flutter for Beginners - An introductory guide to building 
 cross-platform mobile applications with Flutter and Da rt 2, September 2019 
@@ -2460,10 +2307,7 @@ Sl.No Topic Number of slots
 4 Navigation and routing in flutter 2 
 5 Working with stateful and stateless widgets 2 
 6 Working with firebase in flutter 1 
-  Back 
-  ## Page 68
- FMCD2009 / 2.0 
- 68 
+
   Program: Master of Computer Applications Semester: III 
 Course Title: Mini Project-2 Course Code: 23ECAP802 
 L-T-P : 0-0-2 Credits: 2 Contact Hours: 4 
@@ -2500,9 +2344,7 @@ Synopsis and SRS Deliverables 05
 Design (Module wise algorithmic design) 10 
 Coding 15 
 Integration and testing 05 
- ## Page 69
- FMCD2009 / 2.0 
- 69 
+
 Report 05 
 Presentation skills and Viva-voce 05 
 CIA Total 50 
@@ -2531,10 +2373,7 @@ of any application that needs to support various language speaking audiences. Ma
 app that appeals to and is available for more users broadens the market and brings more 
 revenue in the app sales and there will be more exposure to the business. 
 • Evaluation: The project assessment is done by an evaluation team as per the schedule. 
-Back 
-  ## Page 70
- FMCD2009 / 2.0 
- 70 
+
 III Semester MCA Electives 
 Program: Master of Computer Applications Semester: III 
 Course Title: Linux Administration Course Code: 23ECAE801 
@@ -2582,9 +2421,7 @@ with Rsyslog , Debugging Rsyslog, Using the Journal, Managing Log Files in a
 Graphical Environment. 
 6 Hrs 
 Unit - III 
- ## Page 71
- FMCD2009 / 2.0 
- 71 
+
 6 Working with the GRUB 2 Boot Loader 
 Configuring the GRUB 2 Boot Loader, Customizing GRUB Menu, GRUB 2 Password 
 Protection, Reinstalling GRUB , GRUB 2 over Serial Console, Terminal Menu Editing 
@@ -2627,9 +2464,7 @@ LAB REQUIREMENTS:
  A modern web-browser with HTML5 and JavaScript enabled. 
  Remote Desktop Client connection software. 
  Internet connectivity Microsoft Account (LiveID). 
-   ## Page 72
- FMCD2009 / 2.0 
- 72 
+
 LIST OF EXERCISES 
   # Topics ACTIVITY WEIGHTAGE 
  1. Web Server Apache Web Server, IIS Server: Install and Configure the Apache 
@@ -2693,9 +2528,7 @@ Azure VM.
 6. http://www.cse.unsw.edu.au/~cs3331/12s1/Labs/ 
 7. https://www.6diss.org/workshops/ca/dns-practical.pdf 
 8. http://www.dwaynewhitten.com/info306/pages/lab.html 
- ## Page 73
- FMCD2009 / 2.0 
- 73 
+
 9. http://www.bo.ingv.it/~scacciag/home_files/teach/netadminguide.pdf 
 10. https://techpolymath.com/2015/02/16/how-to-setup-a-dns-server-for-a-home-lab-on-
 ubuntu-14-04/ 
@@ -2711,7 +2544,6 @@ I 3 Questions to be set of 20 Marks Each 1, 2, 3 Any 2 questions are to be answe
 II 3 Questions to be set of 20 Marks Each 4, 5 Any 2 questions are to be answered 
 III 2 Questions to be set of 20 Marks Each 6, 7 Any 1 question is to be answered 
 . 
-   Back 
   Program: Master of Computer Applications Semester: III 
 Course Title: DevOps Course Code: 23ECAE802 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 3 
@@ -2730,9 +2562,7 @@ Package managers, Test environments, Staging/production, Release management,
 Scrum, Kanban, and the delivery pipeline , Wrapping up - a complete example , 
 Identifying bottlenecks. 
 3 Hrs 
- ## Page 74
- FMCD2009 / 2.0 
- 74 
+
 3 How DevOps Affects Architecture 
 Introducing software architecture , The monolithic scenario , The Twelve Factors, 
 Architecture rules of thumb, The separation of concerns, The principle of cohesion , 
@@ -2784,9 +2614,7 @@ solutions, AWS, Azure.
 Nagios, Munin, Ganglia, Graphite, Log handling, Client-side logging libraries, The ELK 
 stack. 
 5 Hrs 
- ## Page 75
- FMCD2009 / 2.0 
- 75 
+
 Unit - III 
 9 Issue Tracking 
 What are issue trackers used for? Some examples of workflows and issues, What do 
@@ -2809,9 +2637,7 @@ Jennifer Davis, Ryn Daniels, Publisher: O'Reilly Media, Release Date: June 2016 
 2. The DevOps Handbook: How to Create World -Class Speed, Reliability, and Security in 
 Technology Organizations, Gene Kim, Patrick Debois, John Willis, Jez HumbleIT 
 Revolution Press, 2016 - Business & Economics - 480 pages. 
-  ## Page 76
- FMCD2009 / 2.0 
- 76 
+
 DevOps Practice Exercise: 
 SI 
 NO. 
@@ -2890,9 +2716,7 @@ Lab Practice,
 Assignment and Quiz 
 10 
 Total 100 
- ## Page 77
- FMCD2009 / 2.0 
- 77 
+
   Evaluation Scheme 
 1. In Semester Assessment (ISA) 
 Assessment Marks 
@@ -2904,11 +2728,8 @@ UNIT 8 Questions to be set of 20 Marks Each Chapter Nos. Instructions
 I 3 Questions to be set of 20 Marks Each 1, 2, 3, 4, Any 2 questions are to be answered 
 II 3 Questions to be set of 20 Marks Each 5, 6, 7, 8, Any 2 questions are to be answered 
 III 2 Questions to be set of 20 Marks Each 9, 10 Any 1 question is to be answered 
-  Back 
   . 
-   ## Page 78
- FMCD2009 / 2.0 
- 78 
+
 Program: Master of Computer Applications Semester: III 
 Course Title: User Interface Design Course Code:23ECAE803 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 3 
@@ -2960,9 +2781,7 @@ Text Book:
 1. Jenifer Tidwell , Designing Interfaces, 2nd Edition, O'Reilly ,2010 
 References: 
 1. Laws of UX, Jon Yablonski, O'Reilly, April 2020. 
- ## Page 79
- FMCD2009 / 2.0 
- 79 
+
 2. 100 Things Every Designer Needs to Know About People, Susan Weinschenk, New Riders, 
 2011. 
 3. Jodie Moule., Killer UX Design, SitePoint, 2012 
@@ -3004,10 +2823,7 @@ and then brainstorm (and sketch) how the interface might make it visible.
 ● State: what is the current state of the system? 
 ● Feedback: what was the effect of the user's actions 
 5 
- ## Page 80
- FMCD2009 / 2.0 
- 80 
-  Back 
+
   4 Explore the undo models used in single -user text editing. Choose a few 
 different kinds of textboxes. Experiment with a web browser's undo model for 
 text editing by typing, deleting, changing properties, and using Undo. Try to 
@@ -3044,9 +2860,7 @@ problem (cosmetic, minor, major, or catastrophic). Include at least
 one positive usability comment, again justifying it by naming one or more 
 heuristics. 
 10 
-  ## Page 81
- FMCD2009 / 2.0 
- 81 
+
 Program: Master of Computer Applications Semester: III 
 Course Title: Cyber Security Course Code: 23ECAE804 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 3 
@@ -3095,9 +2909,7 @@ Psychology, mindset and skills of hackers and other cyber crimin als; Sociology 
 cybercriminals. 
 4 Hrs 
 7 Cybercrime: Illustrations, Examples and Case studies 4 Hrs 
- ## Page 82
- FMCD2009 / 2.0 
- 82 
+
 Introduction, Real -Life Examples, Case Studies: Illustrations of Financial Frauds in 
 Cyber Domain, Digital Signature -Related Crime Scenarios, Digital forensi cs case 
 illustrations Online Scams. 
@@ -3144,9 +2956,7 @@ that you can use free of charge.
 like: Stegosuite, Stegohide, Xiao Steganography, SSuite 
 Picsel, OpenPuff Camouflage 
 ● https://stylesuxx.github.io/steganography/ 
- ## Page 83
- FMCD2009 / 2.0 
- 83 
+
 ● https://manytools.org/hacker-tools/steganography-
 encode-text-into-image/ 
 ● Identifying cross -site scripting vulnerabilities and 
@@ -3192,9 +3002,7 @@ ix. Cyber pornography
 x. Online sale of illegal articles 
 https://www.slideshare.net/ishmecse13/case-study-on-
 cyber-crime 
- ## Page 84
- FMCD2009 / 2.0 
- 84 
+
 6 Cybercrime: Illustrations, 
 Examples and Case 
 studies 
@@ -3202,7 +3010,6 @@ studies
 WolframAlpha or lpfingerprint 
 ● Determine the sender's geographic Location 
 ● Information about sender's IP address 
-  Back 
    Evaluation Scheme 
 1 . In Semester Assessment (ISA) 
 Assessment Marks 
@@ -3215,9 +3022,7 @@ I 3 Questions to be set of 20 Marks Each 1, 2, 3 Any 2 questions are to be answe
 II 3 Questions to be set of 20 Marks Each 4.5.6 Any 2 questions are to be answered 
 III 2 Questions to be set of 20 Marks Each 7, 8 Any 1 question is to be answered 
   . 
- ## Page 85
- FMCD2009 / 2.0 
- 85 
+
 Program: Master of Computer Applications Semester: III 
 Course Title: Information Security Course Code:23ECAE805 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 3 
@@ -3263,9 +3068,7 @@ Text Book:
 Edition, 2018 
 2. Mark Stamp, "Information Security: Principles and Practices", 2nd Edition, John Wiley and 
 Sons, 2011. 
- ## Page 86
- FMCD2009 / 2.0 
- 86 
+
 References: 
 1. Michael E. Whitman and Herbert J. Mattord, "Principles of Information Security ", 2nd 
 Edition, Thompson, 2005. 
@@ -3320,14 +3123,11 @@ System
 10. ● Study of Anti-Intrusion Technique - Honey 
 pot 
 10 
- ## Page 87
- FMCD2009 / 2.0 
- 87 
+
 a. 1
 1 
  IP security ● Study of IP based Authentication 10 
 TOTAL 100 
-Back 
    Evaluation Scheme 
 1 . In Semester Assessment (ISA) 
 Assessment Marks 
@@ -3340,9 +3140,7 @@ I 3 Questions to be set of 20 Marks Each 1, 2, 3 Any 2 questions are to be answe
 II 3 Questions to be set of 20 Marks Each 4.5.6 Any 2 questions are to be answered 
 III 2 Questions to be set of 20 Marks Each 7, 8 Any 1 question is to be answered 
   . 
- ## Page 88
- FMCD2009 / 2.0 
- 88 
+
 Program: Master of Computer Applications Semester: III 
 Course Title: C# Programming with .Net Course Code: 23ECAE806 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 3 
@@ -3388,9 +3186,7 @@ Application Roots, Understanding Object Generations, System.GC type, Building
 Finalizable Objects, Building Disposable Objects, Building Finalizable and 
 Disposable types. Ode to Errors, Bugs, and Exceptions, The Role of .NET Exception 
 08 Hrs 
- ## Page 89
- FMCD2009 / 2.0 
- 89 
+
 Handing, The Simplest possible example, Configuring the state of an exception, 
 System - Level Exception (System. System Exception), Application -Level 
 Exception (System.ApplicationException) , Processing Multiple Exception, The 
@@ -3437,9 +3233,7 @@ References:
 Tech Press 
 2. Tom Archer: Inside C#, WP Publishers, 2001. 
 3. Herbert Schildt: The Complete Reference C#,Tata McGraw Hill, 2004 
- ## Page 90
- FMCD2009 / 2.0 
- 90 
+
   Activities 
  # Exercise Slot 
  1 a) Write a C# program which provides methods for calculating the 
@@ -3476,9 +3270,7 @@ products Car & Mobile Phones. Write a driver program for this.
 6 Design a C# class Point (with 2 integer members x & y & necessary data 
 members). The class should overload binary operators (+, -), unary 
 1 
- ## Page 91
- FMCD2009 / 2.0 
- 91 
+
 operators (++, --), equality operators (==, !=) & comparison operators 
 (<,>). Implement structured exceptional handling for your class. Write a 
 driver program for this. 
@@ -3489,7 +3281,6 @@ application. Write a driver program for this.
 8 Implement an windows form application for demonstrating CRUD 
 operations using SQL server as backend database. 
 2 
-Back 
    Evaluation Scheme 
 1 . In Semester Assessment (ISA) 
 Assessment Marks 
@@ -3502,9 +3293,7 @@ I 3 Questions to be set of 20 Marks Each 1, 2, 3 Any 2 questions are to be answe
 II 3 Questions to be set of 20 Marks Each 4.5.6 Any 2 questions are to be answered 
 III 2 Questions to be set of 20 Marks Each 7, 8 Any 1 question is to be answered 
   . 
- ## Page 92
- FMCD2009 / 2.0 
- 92 
+
 Program: Master of Computer Applications Semester: III 
 Course Title: Statistical Foundation for Data Science Course Code: 23ECAE807 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 3 
@@ -3553,9 +3342,7 @@ Text Book:
 and knowledge discovery. John Wiley & Sons, 2015. 
 2. Hinton, Perry R., Isabella McMurray, and Charlotte Brownlow. SPSS explained. Routledge, 
 2014. 
- ## Page 93
- FMCD2009 / 2.0 
- 93 
+
   References: 
 1. Wu, James, and Stephen Coggeshall. Foundations of predictive analytics. Chapman and 
 Hall/CRC, 2012. 
@@ -3576,9 +3363,7 @@ frequencies, p-values etc)
 correlation 
 20 
 5 Case study on real world scenario related to data analytics 20 
- ## Page 94
- FMCD2009 / 2.0 
- 94 
+
 Evaluation Scheme 
 1 . In Semester Assessment (ISA) 
 Assessment Marks 
@@ -3591,10 +3376,7 @@ I 3 Questions to be set of 20 Marks Each 1, 2 Any 2 questions are to be answered
 II 3 Questions to be set of 20 Marks Each 3, 4 Any 2 questions are to be answered 
 III 2 Questions to be set of 20 Marks Each 5 Any 1 question is to be answered 
   . 
-Back 
-   ## Page 95
- FMCD2009 / 2.0 
- 95 
+
 Program: Master of Computer Applications Semester: III 
 Course Title: Full Stack Development with MERN Course Code: 23ECAE808 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 6 
@@ -3645,11 +3427,8 @@ Text Book:
 1. Pro MERN Stack, 2nd Edition by Vasan Subramanian, published by Apress 
 References: 
 1. Amos Q, Haviv, MERN Web Development, Packt Publishing 2014 
- ## Page 96
- FMCD2009 / 2.0 
- 96 
+
 2. COLIN J. IHRIG, Full Stack Javascript Development with MERN, Sitepoint.2. 
-  Back 
    Evaluation Scheme 
 1 . In Semester Assessment (ISA) 
 Assessment Marks 
@@ -3662,9 +3441,7 @@ I 3 Questions to be set of 20 Marks Each 1, 2, 3 Any 2 questions are to be answe
 II 3 Questions to be set of 20 Marks Each 4, 5, 6 Any 2 questions are to be answered 
 III 2 Questions to be set of 20 Marks Each 7, 8 Any 1 question is to be answered 
   . 
- ## Page 97
- FMCD2009 / 2.0 
- 97 
+
 Program: Master of Computer Applications Semester: IV 
 Course Title: Capstone Project Work Course Code: 23ECAP803 
 L-T-P: 0-0-13 Credits: 13 Contact Hrs: 250 
@@ -3672,10 +3449,7 @@ ISA Marks: 100 ESA Marks: 100+50 Total Marks: 100
 Teaching Hrs: Full Time Exam Duration:3 Hrs 
   A student must carry out a project on any domain using cutting edge technologies and 
 demonstrates the same at the end of the semester. 
-  Back 
-   ## Page 98
- FMCD2009 / 2.0 
- 98 
+
   IV Semester MCA- Elective Courses (MOOC) 
 Program: Master of Computer Applications Semester: IV 
 Course Title: Deep Learning Course Code: 23ECAE809 
@@ -3722,9 +3496,7 @@ Introduction to Recurrent Neural Network, Building a Recurrent Neural Network -
 Step by Step 
 ● Character-level Language Modeling 
 8 Hrs 
- ## Page 99
- FMCD2009 / 2.0 
- 99 
+
 ● LSTM 
 ● Natural Language Processing and Word Embeddings 
 ● Sequence Models and Attention Mechanism 
@@ -3769,9 +3541,7 @@ Interpretability of Neural Networks
 ● Building Convolutional Model: step by step 
 ● Keras Tutorial. 
 ● Working with Residual Networks 
- ## Page 100
- FMCD2009 / 2.0 
- 100 
+
 ● Working on Face Recognition & Neural Style 
 Transfer 
 ● Car Detection with YOLO - Case Study 
@@ -3792,10 +3562,7 @@ Assessment Marks
 ISA 100 
 ESA --- 
 Total 100 
-       Back 
-              ## Page 101
- FMCD2009 / 2.0 
- 101 
+
   Program: Master of Computer Applications Semester: IV 
 Course Title: Blockchain Technology Course Code: 23ECAE810 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 3 
@@ -3842,9 +3609,7 @@ started with MultiChain , Proof of Existence architecture , Building the Proof o
 Existence application, Executing and deploying the application. 
 5 hrs 
 Unit - III 
- ## Page 102
- FMCD2009 / 2.0 
- 102 
+
 7 Diving into Blockchain - Proof of Ownership. 
 Digital assets and identity , Proof of ownership , Smart contracts, Choosing the 
 smart contract platform, NEO blockchain: Building blocks of a NEO blockchain , 
@@ -3881,14 +3646,9 @@ Ethereum blockchain platforms by considering real time use case.
 Assessment Marks 
 ISA 100 
 ESA --- 
- ## Page 103
- FMCD2009 / 2.0 
- 103 
+
 Total 100 
-Back 
-  ## Page 104
- FMCD2009 / 2.0 
- 104 
+
   Program: Master of Computer Applications Semester: IV 
 Course Title: Big Data Analysis with PySpark Course Code: 23ECAE811 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 3 
@@ -3942,9 +3702,7 @@ Machine Learning with Spark ML
 Introducing MLLib, Using MLLib to Produce Movie Recommendations, Linear 
 Regression with MLLib, Predict Real Estate Values with Decision Trees in Spark 
 6 Hrs 
- ## Page 105
- FMCD2009 / 2.0 
- 105 
+
 Unit - III 
 7 
 Introduction to Spark Streaming 
@@ -3976,10 +3734,7 @@ Assessment Marks
 ISA 100 
 ESA --- 
 Total 100 
-  Back 
-   ## Page 106
- FMCD2009 / 2.0 
- 106 
+
 Program: Master of Computer Applications Semester: IV 
 Course Title: Software Practices & Testing Course Code: 23ECAE812 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 3 
@@ -4028,9 +3783,7 @@ validation test ware development costs, Recommendation. Measurements:
 Useful and other interesting measures, Recommendations 
 8 Hrs 
 Unit - III 
- ## Page 107
- FMCD2009 / 2.0 
- 107 
+
 7 Testing tasks, Deliverables and Testing tools. 
 Testing tasks, deliverables, & chronology, Master test planning ,Verificationtesting 
 tasks and deliverables, Validation testing tasks and deliverables, A testing 
@@ -4051,9 +3804,7 @@ Text Book:
 References: 
 1. William Perry: Effective Methods for Software Testing(Second edition) John wiley 1999 
 2. Bezier B : Software Testing Techniques (Second edition) Van Nostrand Reinluold 1990 
- ## Page 108
- FMCD2009 / 2.0 
- 108 
+
 Activities 
  # TOPICS ACTIVITY 
  1 
@@ -4095,9 +3846,7 @@ Walkthroughs, and Buddy checks practice on case
 study. 
 ● Installing Gtest and JUnit testing framework. 
 ● Designing test cases for given problem. 
- ## Page 109
- FMCD2009 / 2.0 
- 109 
+
 7 
 Testing tasks, 
 Deliverables and 
@@ -4116,10 +3865,7 @@ Assessment Marks
 ISA 100 
 ESA --- 
 Total 100 
-  Back 
-   ## Page 110
- FMCD2009 / 2.0 
- 110 
+
 Program: Master of Computer Applications Semester: IV 
 Course Title: Virtual Reality Systems Course Code: 23ECAE813 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 3 
@@ -4169,9 +3915,7 @@ Interference from the Physics of the Real World, Substance of the Vir tual
 World - World Geography, Objects, Agents, User Interface Elements 
 8 Hrs 
 Unit - III 
- ## Page 111
- FMCD2009 / 2.0 
- 111 
+
 7 Experience Design. Applying VR to a Problem 
 Will VR Meet Your Goals? - Is VR the Appropriate Medium?, Creating a VR 
 Application - Adapting from Other Media, Adapti ng from an Existing VR 
@@ -4192,9 +3936,7 @@ Text Book:
 1. John Vince, Virtual Reality Systems , Pearson, 2002 
 2. William R. Sherman, Alan B. Craig, Understanding Virtual Reality, Inteface, 
 Application and Design, MORGAN KAUFMANN PUBLISHERS, 2003 
- ## Page 112
- FMCD2009 / 2.0 
- 112 
+
 Activities 
  # TOPICS ACTIVITY 
  1 Getting Started 
@@ -4231,9 +3973,7 @@ Import asset bundles that consist of multiple files by dragging
 and dropping them onto the canvas. Using this capability, you 
 can import .obj files, .mtl files, meshes, materials, and textures 
 using a single drag and drop. 
- ## Page 113
- FMCD2009 / 2.0 
- 113 
+
 7 
 Material 
 Fundamentals using 
@@ -4246,10 +3986,7 @@ Assessment Marks
 ISA 100 
 ESA --- 
 Total 100 
-  Back 
-   ## Page 114
- FMCD2009 / 2.0 
- 114 
+
 Program: Master of Computer Applications Semester: IV 
 Course Title: Internet of Things Course Code: 23ECAE814 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 3 
@@ -4295,9 +4032,7 @@ parking.
 4 Hrs 
 Text Book: 
 Arshdeep Bahga and Vijay Madisetti, "Internet of Things - A Hands -on Approach " 
- ## Page 115
- FMCD2009 / 2.0 
- 115 
+
 Universities Press, 2015. 
 References: 
 1. Internet of Things Principles and Paradigms, Rajkumar Buyya, Amir Vahid Dastjerdi, 
@@ -4334,10 +4069,7 @@ Assessment Marks
 ISA 100 
 ESA --- 
 Total 100 
-   Back 
-  ## Page 116
- FMCD2009 / 2.0 
- 116 
+
 Program: Master of Computer Applications Semester: IV 
 Course Title: Wireless Mobile Computing Course Code: 23ECAE815 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 3 
@@ -4387,9 +4119,7 @@ network operation, Data services in GPRS, Application for GPRS, Limitatio n of
 GPRS, Billing and Charging in GPRS. 
 4 Hrs 
 Unit - III 
- ## Page 117
- FMCD2009 / 2.0 
- 117 
+
 9 Wireless Application Protocol (WAP) 
 Introduction, WAP , MMS, GPRS, Application 
 4 Hrs 
@@ -4402,9 +4132,7 @@ Text Book:
 Private Limited, New Delhi. Second Edition, 2010. 
 References: 
 1. Raj Kamal , Mobile Computing, Oxford University Press. 
- ## Page 118
- FMCD2009 / 2.0 
- 118 
+
 Activities 
  # TOPICS ACTIVITY 
  1 
@@ -4443,10 +4171,7 @@ Assessment Marks
 ISA 100 
 ESA --- 
 Total 100 
-Back 
-  ## Page 119
- FMCD2009 / 2.0 
- 119 
+
   Program: Master of Computer Applications Semester: IV 
 Course Title: Web Content Management Course Code: 23ECAE816 
 L-T-P: 3-0-0 Credits: 3 Contact Hrs: 3 
@@ -4494,9 +4219,7 @@ Version Labels, Dependency Management, Content Scheduling and Expiration,
 Workflow and Approvals, Collaboration, Content File Management, Permissions, 
 A Summary of Editorial Tools 
 4 Hrs 
- ## Page 120
- FMCD2009 / 2.0 
- 120 
+
 Text Book: 
 1. "Web Content Management ", Systems, Features, and Best Practices, Deane Barker, 
 Publisher: O'Reilly Media, March 2016. 
@@ -4544,9 +4267,7 @@ Configuration and Hosting
 4. Content Preparation and 
 Planning 
   20 
- ## Page 121
- FMCD2009 / 2.0 
- 121 
+
 2. Introduction to Joomla 
 o Explore the CAM model 
 (Categories, Articles, and 
@@ -4613,9 +4334,7 @@ News Module, Search Module,
 Random Image Module, Who's 
 Online Module etc. 
 20 
- ## Page 122
- FMCD2009 / 2.0 
- 122 
+
 5. Custom Templates 
 o Explore the addition of 
 creation and uses of 
@@ -4642,9 +4361,7 @@ new users, reset password, and
 new user registration email notice 
 to administration. 
 20 
-  ## Page 123
- FMCD2009 / 2.0 
- 123 
+
 Activities 
  # TOPICS ACTIVITY 
  1 
@@ -4688,9 +4405,7 @@ Testing method ● Verification testing method like Inspections,
 Walkthroughs, and Buddy checks practice on case study. 
 ● Installing Gtest and JUnit testing framework. 
 ● Designing test cases for given problem. 
- ## Page 124
- FMCD2009 / 2.0 
- 124 
+
 7 
 Testing tasks, 
 Deliverables and 
@@ -4710,6 +4425,4 @@ Assessment Marks
 ISA 100 
 ESA --- 
 Total 100 
-  **** 
-Back 
- 
+  ****

@@ -1,5 +1,5 @@
 ---
-title: "PDF Document: bachelor-mechanical-engineering-curriculum-2022-2026"
+title: "Bachelor of Engineering Curriculum"
 category: "academics"
 subcategory: ""
 document_type: "syllabus"
@@ -11,15 +11,14 @@ language: "en"
 keywords: ["bachelor", "chapter", "curriculum", "design", "document", "engineering", "hours", "marks", "mechanical"]
 aliases: ["HOD", "Head of Department", "ME", "Mechanical Dept", "CSE", "CS", "EEE", "EE", "KLETech", "KLE Tech"]
 last_modified: "2026-07-28"
+page_start: "1"
+page_end: "148"
 ---
-# PDF Document: bachelor-mechanical-engineering-curriculum-2022-2026
- **PDF Source:** https://www.kletech.ac.in/pdf/bachelor-mechanical-engineering-curriculum-2022-2026.pdf
- ## Page 1
+**PDF Source:** https://www.kletech.ac.in/pdf/bachelor-mechanical-engineering-curriculum-2022-2026.pdf
  FMCD2009 / 2.0 1 
   Curriculum Structure and Curriculum Content for the Academic Batch 2022-26 
 School of Mechanical Engineering 
 Program: Bachelor of Engineering 
- ## Page 2
  FMCD2009 / 2.0 2 
   Table of Contents 
 Vision and Mission of KLE Technological University ............................................................. 3 
@@ -38,7 +37,6 @@ Semester- VII ..................................................................
 Semester- VIII ......................................................................................................................... 15 
 List of Open Electives .............................................................................................................. 16 
 List of Program Electives ........................................................................................................ 17 
- ## Page 3
  FMCD2009 / 2.0 3 
   Vision and Mission of KLE Technological University 
   Vision 
@@ -61,7 +59,6 @@ contributing our expertis e, experience and leadership, to enhance
 competitiveness and quality of life. 
 As a unified community of faculty, staff and students, we work together with the 
 spirit of collaboration and partnership to accomplish our mission. 
- ## Page 4
  FMCD2009 / 2.0 4 
   01 
 innovative 
@@ -107,7 +104,6 @@ system
 Entreprene 
 urial eco- 
 system 
- ## Page 5
  FMCD2009 / 2.0 5 
   Program Educational Objectives/Program Outcomes and Program-Specific Objectives 
   Program Educational Objectives -PEOs 
@@ -154,7 +150,6 @@ PO7. Ethics: Apply ethical principles and commit to professional ethics, human v
 diversity and inclusion; adhere to national & international laws. (WK9) 
 PO8. Individual and Collaborative Team work: Function effectively as an individual, and as 
 a member or leader in diverse/multi- disciplinary teams. 
- ## Page 6
  FMCD2009 / 2.0 6 
   PO9. Communication: Communicate effectively and inclusively within the engineering 
 community and society at large, such as being able to comprehend and write effective 
@@ -174,7 +169,6 @@ PSO2. Manufacturing: Apply the knowledge of manufacturing processes to develop a
 component/system with appropriate consideration for productivity, quality and cost. 
 PSO3. Technology Integration: Acquire skills to identify appropriate technologies and 
 integrate to offer innovative solutions to real-life problems. 
- ## Page 7
  FMCD2009 / 2.0 7 
   Curriculum Structure-Overall 
   Semester: 1 to 8 (2022-26 Batch) Total Program Credits:177 
@@ -213,7 +207,6 @@ Communication Lab.(15EMEP202) & Analytical Reasoning
    Problem Solving & 
 Analysis (22EHSH202) 
 Credits 22 22 22.5 24.5 22.5 23.5 23 17 
- ## Page 8
  FMCD2009 / 2.0 8 
   Curriculum Structure-Semester-wise ← 
   Semester - I 
@@ -232,7 +225,6 @@ Engineering ES 4-0-0 4 4 50 50 100 3 hours
 6 22EMEF101 Basic Mechanical Engineering ES 2-1-0 3 4 50 50 100 3 hours 
 7 21EPHP102 Applied Physics Lab BS 0-0-1 1 2 80 20 100 3 hours 
 TOTAL 13-2-7 22 31 
- ## Page 9
  FMCD2009 / 2.0 9 
   Semester - II ← 
   No Code Course Category L-T-P Credits Contact Hou ISA ESA Total Exam 
@@ -249,7 +241,6 @@ Structures ES 0-0-3 3 6 80 20 100 3 hours
 Innovation HSS 0-1-1 2 4 80 20 100 3 hours 
 7 15EHSH101 Professional Communication HSS 1-1-0 2 3 50 50 100 3 hours 
 TOTAL 12-3-7 22 32 
- ## Page 10
  Semester- III ← 
 FMCD2009 / 2.0 10 
   No Code Course Category L-T-P Credits Contact 
@@ -271,7 +262,6 @@ Calculus & Integral Transforms
 8 22EMEP203 Machine Drawing Lab PSC 0-0-2 2 4 80 20 100 2 Hours 
 9 22EHSH201 Corporate Communication HS 0.5-0-0 0.5 1 100 -- 100 2 Hours 
 TOTAL 16.5-1-5 22.5 29 
- ## Page 11
  Semester- IV ← 
 FMCD2009 / 2.0 11 
   No Code Course Category L-T-P Credits Contact Hou ISA ESA Total Exam 
@@ -291,7 +281,6 @@ Differential Equations BS 3-1-0 4 5 50 50 100 3 Hours
 9 15EMEP202 Engineering Materials Lab. PSC 0-0-1 1 2 80 20 100 2 Hours 
 10 22EHSH202 Problem Solving & Analysis HS 0.5-0-0 0.5 1 100 -- 100 2 Hours 
 TOTAL 18.5-1-5 24.5 31 
- ## Page 12
  Semester- V ← 
 FMCD2009 / 2.0 12 
   No Code Course Category L-T-P Credits Contact Hours ISA ESA Total Exam 
@@ -311,7 +300,6 @@ Automation Systems PSC 2-0-2 4 6 80 20 100 2 hours
 10 22EHSH301 Arithmetical Thinking & Analytical 
 Reasoning HS 0.5-0-0 0.5 1 100 -- 100 2 hours 
 TOTAL 11.5-0-11 22.5 34 
- ## Page 13
  Semester- VI ← 
 FMCD2009 / 2.0 13 
   No Code Course Category L-T-P Credits Contact Hours ISA ESA Total Exam 
@@ -333,7 +321,6 @@ Engineering Lab PSC 0-0-1 1 2 80 20 100 2 hours
 Skills HS 0.5-0-0 0.5 1 100 -- 100 2 hours 
 TOTAL 13.5-0- 
 12 23.5 32 
- ## Page 14
  Semester- VII ← 
 FMCD2009 / 2.0 14 
   No Code Course Category L-T-P Credits Contact 
@@ -351,7 +338,6 @@ Duration
 8 20EMEW401 Senior Design Project PW 0-0-6 6 12 50 50 100 3 hours 
 9 15EHSA401 CIPE/EVS CNC Audit 0 2 50 50 100 3 hours 
 TOTAL 14-0-7 23 34 
- ## Page 15
  Semester- VIII ← 
 FMCD2009 / 2.0 15 
   No Code Course Category L-T-P Credits Contact Hou ISA ESA Total Exam 
@@ -374,7 +360,6 @@ PW 0-0-11 11 22 50 50 100 3 Hours
 TOTAL 6-0-17 17 28 
   Semester I II III IV V VI VII VIII Total 
 Credits 22 22 22.5 24.5 22.5 23.5 23 17 177 
- ## Page 16
  FMCD2009 / 2.0 16 
   List of Open Electives ← 
   Sr. No Name of the Course Course Code 
@@ -382,7 +367,6 @@ Credits 22 22 22.5 24.5 22.5 23.5 23 17 177
 2. Nano Technology 15EMEO402 
 3. Design of Experiments 15EMEO403 
 4. Engine Management Systems 15EMEO404 
- ## Page 17
  FMCD2009 / 2.0 17 
   List of Program Electives ← 
   Sr. No Name of the Course Course Code 
@@ -416,7 +400,6 @@ Credits 22 22 22.5 24.5 22.5 23.5 23 17 177
 28 Supply Chain Management 15EMEE406 
 29 Modern Trends in Manufacturing 15EMEE417 
 30 Design of Jigs, Fixtures and Press Tools 24EMEE404 
- ## Page 18
  FMCD2009 / 2.0 18 
   31 Advanced Welding Technology 24EMEE406 
 32 Operations Research 24EMEE401 
@@ -431,7 +414,6 @@ Credits 22 22 22.5 24.5 22.5 23.5 23 17 177
 41 Industrial Engineering: Methods & Practices 15EMEE414 
 42 Advanced Energy technology 15EMEE415 
 43 Thermal Management of Electronic Equipment 15EMEE416 
- ## Page 19
  FMCD2009 / 2.0 19 
   Curriculum Content- Course wise ←BACK TO SEMESTER I 
   Program: UG Semester: I 
@@ -474,7 +456,6 @@ Text Books
 Reference Books: 
 1. Hughues-Hallett Gleason, Calculus Single and Multivariable, Wiley India Ed, 4ed, 2009. 
 2. George B Thomas, Thomas Calculus, Pearson India, 12th edn., 2010 
- ## Page 20
  FMCD2009 / 2.0 20 
   Program: UG Semester: I ←BACK TO SEMESTER I 
 Course Title: Engineering Physics Course Code: 22EPHB102 
@@ -521,7 +502,6 @@ Text Books:
 1. Randall D Knight, Physics for Scientists and Engineers, Pearson publication, 3e (2008) 
 2. Aurther Beiser, Concepts of Modern Physics, 6e, Tata McgrawHills, (2003) 
 3. Sulbha Kulkarni, Nanotechnology Principles and practices, 3e, Springer. 
- ## Page 21
  FMCD2009 / 2.0 21 
   Reference Books: 
 1. John W Jewett and Raymond A Serway, Physics for Scientists and Engineers with modern physics, 
@@ -530,7 +510,6 @@ Cengage publication, India Edition, 9e (2014)
 Vol-1, 3e (2006) 
 3. A.K. Bandopadhya, Nanomaterials, New Age Publishers, (2004) 
 4. S.K. Prasad, Advanced nano technology, Discovery publishing house Pvt. Ltd New Delhi 
- ## Page 22
  ←BACK TO SEMESTER I 
 FMCD2009 / 2.0 22 
   Program: UG Semester: I 
@@ -581,7 +560,6 @@ Reference Books:
 2. B S Gottfried, Programming with C, 2ed, TMH, 2006. 
 3. B.A. Forouzan, R.F. Gilberg, A Structured Program Approach Using C, 3ed, CENGAGE Learning, 
 2008. 
- ## Page 23
  ←BACK TO SEMESTER I 
 FMCD2009 / 2.0 23 
   Program: Bachelor of Engineering Semester: I 
@@ -638,7 +616,6 @@ Name of the Module Hours % Weightage
 a. Virtual Implementation (VI) VI-10 
 b. Physical Implementation (PI) PI-15 
 c. Performance Testing (PT) PT-05 
- ## Page 24
  FMCD2009 / 2.0 24 
   Total 72 80 
 Assessment will be done in course projects 
@@ -648,7 +625,6 @@ Functionality (FT) 03 20 04
 Individual Learning (IL) 06 
 Project Report (PR) 05 
 Video Documentation (VD) 05 
- ## Page 25
  FMCD2009 / 2.0 25 
   ←BACK TO SEMESTER I 
   Program: Bachelor of Engineering Semester: I 
@@ -704,12 +680,10 @@ Scientist and Engineers, 2, New Age International Publishers, Wiley Eastern, 200
 5. Boylestead Nashelsky, Electronic devices & Circuit theory, 6, Prentice Hall India, 2000 
 6. David A Bell, Electronic Devices and Circuits, PHI New Delhi, 2004 
 7. Ramakant Gayakwad, Operational Amplifiers & applications, 3, PHI, 2000 
- ## Page 26
  FMCD2009 / 2.0 26 
   8. W.Bolton, Mechatronics - Electronic Control Systems in Mechanical and Electrical Engineering, 3, 
 Pearson Education, 2005 
 9. Ernest O Doeblin, Dhanesh N Manik, Measurement Systems, 6th Edition, MGH; 2017 
- ## Page 27
  FMCD2009 / 2.0 27 
   ←BACK TO SEMESTER I 
   Program: Bachelor of Engineering Semester: I 
@@ -759,13 +733,11 @@ Cengage Learning, 2013
 Engineering, 30th Edition, Subhash Publishers, Bangalore, 2010 
 3. Dr. N. Krishnamurthy, Dr. H. S. Manohar, Mr. Sagar M. Baligidad, Elements of Mechanical 
 Engineering, First Edition, Sunstar Publisher, 2014 
- ## Page 28
  FMCD2009 / 2.0 28 
   Reference Books: 
 1. SKH Chowdhary, AKH Chowdhary, Nirjhar Roy, The Elements of Workshop Technology, Vol I & II, 
 11th edition, Media Promoters and Publishers, 2001 
 2. Roger Timings, Basic Manufacturing, Third edition, Newnes, An imprint of Elsevier, 2010 
- ## Page 29
  ←BACK TO SEMESTER I 
 FMCD2009 / 2.0 29 
   Program: BE Semester: I 
@@ -801,7 +773,6 @@ End Semester Assessment (20%) Write up + performance + results
 20 
 ESA Total 20 
 ISA (80%) + ESA (20%) Total 100 
- ## Page 30
  ←BACK TO SEMESTER II 
 FMCD2009 / 2.0 30 
   Program: UG Semester: II 
@@ -839,7 +810,6 @@ Text Books:
 Reference Books: 
 1. Hughues-Hallett Gleason, Calculus Single and Multivariable, Wiley India Ed, 4ed, 2009. 
 2. George B Thomas, Thomas Calculus, Pearson India, 12ed, 2010 
- ## Page 31
  ←BACK TO SEMESTER II 
 FMCD2009 / 2.0 31 
   Program: UG Semester: II 
@@ -885,7 +855,6 @@ Liquid crystals: classification of liquid crystals, applications of liquid cryst
 properties, smart glass: electrochromic, thermochromic and photochromic smart glass - properties 
 and applications. Thermoelectric and Piezoelectric materials - meaning, properties and applications. 
 03 Hrs 
-  ## Page 32
  FMCD2009 / 2.0 32 
   Unit - III 
 7. Water Chemistry 
@@ -922,7 +891,6 @@ Bangalore.
 and Sons, 2007, New York. 
 10. Instrumental Methods of Chemical Analysis, 5th edition, Gurdeep R Chatwal, Sham K Anand, 
 Himalaya Publishing House, Pvt. Ltd, 2010, Mumbai. 
- ## Page 33
  FMCD2009 / 2.0 33 
   ←BACK TO SEMESTER II 
   Program: UG Semester: II 
@@ -975,7 +943,6 @@ Ladder friction and Belt friction.
 6 Chapter 6: Centroid of Plane Figures 
 Introduction, Definition, Methods of determining the centroid, axis of reference, axis of 
 symmetry, Locating the centroid of simple plane figures (triangle, semicircle, quarter of 
- ## Page 34
  FMCD2009 / 2.0 34 
    a circle and sector of a circle etc,.) using method of integration, Numerical problems on 
 Centroid of simple built up sections. 5 hrs. 
@@ -1003,7 +970,6 @@ Text Book:
 2. Singer, F.L., Engineering Mechanics, 3rd edition Harper Collins, 1994. 
 3. Timoshenko, S.P. and Young, D.H., Engineering Mechanics, 4th edition, MGH, 1956. 
 4. Irving H Shames, Engineering Mechanics, 3rd edition, PHI Pvt. Ltd, New Delhi- 110 001, 1995. 
- ## Page 35
  ←BACK TO SEMESTER II 
 FMCD2009 / 2.0 35 
   Program: Bachelor of Engineering Semester: II 
@@ -1048,7 +1014,6 @@ Reference Books:
 1. Fundamentals of Engineering Drawing with an Introduction to Interactive Computer Graphics for 
 Design and Production-Luzadder Warren J., Duff John M., Eastern Economy Edition, 2005- 
 Prentice-Hall of India Pvt. Ltd., New Delhi. 
- ## Page 36
  ←BACK TO SEMESTER II 
 FMCD2009 / 2.0 36 
   Program: Bachelor of Engineering Semester: II 
@@ -1094,7 +1059,6 @@ Clifford Stein. The MIT Press, Edition-3, 2009.
 5. Data Structures through C in Depth, S.K. Srivastava, Deepali Srivastava, BPB Publications, 2004 
 6. Online platform: www.Hackerrank.com 
 7. https://www.geeksforgeeks.org/ 
- ## Page 37
  ←BACK TO SEMESTER II 
 FMCD2009 / 2.0 37 
   Program: UG Semester: II 
@@ -1190,7 +1154,6 @@ Talk on "How to build
 youir Creative 
 Confidence by David 
 Kelley - IDEO Founder) 
- ## Page 38
  FMCD2009 / 2.0 38 
     (Spending one lakh for the 
 business which is never launched) 
@@ -1265,7 +1228,6 @@ Learning
 respective templates 
 with the help of 
 sample case study 
- ## Page 39
  FMCD2009 / 2.0 39 
   3. Ideation 
 3. 1 Synthesis 
@@ -1349,7 +1311,6 @@ holders & their enagement
 respective templates 
 with the help of 
 sample case study 
-      ## Page 40
  FMCD2009 / 2.0 40 
     5. 0 Reflect 
   Reflection of the overall 
@@ -1366,7 +1327,6 @@ Implementation
 respective templates 
 with the help of 
 sample case study 
-  ## Page 41
  ←BACK TO SEMESTER II 
 FMCD2009 / 2.0 41 
   Program: UG Semester: II 
@@ -1400,7 +1360,6 @@ References:
 1. Collins Cobuild Advanced Learner's English Dictionary, Harper Collins Publishers, 9th Edn., 2018 
 2. Raymond Murphy - Intermediate English Grammar, Cambridge University Press 
 3. Martin Hewings- Advanced English Grammar, Cambridge University Press. 
- ## Page 42
  ←BACK TO SEMESTER III 
 FMCD2009 / 2.0 42 
   Program: Bachelor of Engineering Semester: III 
@@ -1439,7 +1398,6 @@ Text Books
 Delhi, 2003 
 Reference Books: 
 1. Calculus- James Stewart, Early Transcendentals Thomson Books, 5e 2007 
- ## Page 43
  ←BACK TO SEMESTER III 
 FMCD2009 / 2.0 43 
   Program: Bachelor of Engineering Semester: III 
@@ -1488,7 +1446,6 @@ PHI, 2000.
 2. Miller, Freud and Johnson, Probability and Statistics for Engineering by, 5ed, PHI, 2000. 
 3. Potter M C, Jack Goldberg and Aboufadel E F, Advanced Engineering Mathematics, 3ed, Oxford 
 Indian 
- ## Page 44
  ←BACK TO SEMESTER III 
 FMCD2009 / 2.0 44 
   Program: Bachelor of Engineering Semester: III 
@@ -1535,7 +1492,6 @@ Reference Books:
 International Edition, 2012. 
 2. Ferdinand Beer, Jr. E. Russell Johnston, John Dewolf and David Mazurek, Mechanics of Materials, 
 7th Edition, McGraw-Hill Education, 2014. 
- ## Page 45
  ←BACK TO SEMESTER III 
 FMCD2009 / 2.0 45 
   Program: Bachelor of Engineering Semester: III 
@@ -1586,7 +1542,6 @@ Text Books
 1. Kalpakjian S., and Schmid S.R., Manufacturing Engineering & Technology, 7th edition, Pearson 
 Education, 2014. 
 2. Mikell P. Groover, Fundamentals of Modern Manufacturing, 5th edition, John Wiley & Sons, 2012. 
- ## Page 46
  FMCD2009 / 2.0 46 
   Reference Books: 
 1. Juneja B. L. and Sekhon G. S., Fundamentals of Metal Cutting and Machine Tools, 3rd edition, New 
@@ -1600,7 +1555,6 @@ edition, Prentice Hall, 2014.
 7. Rao P. N., Manufacturing Technology: Volume-2, 3rd edition, Tata McGraw Hill, 2013. 
 8. Ustundag Alp, and Cevikcan Emre, Industry 4.0: Managing the Digital Transformation, Springer series 
 in Advanced Manufacturing, 2018. 
- ## Page 47
  ←BACK TO SEMESTER III 
 FMCD2009 / 2.0 47 
   Program: Bachelor of Engineering Semester: III 
@@ -1650,7 +1604,6 @@ Experiments (Delivery is Course Integrated, no separate lab)
 5. Determine the coefficient of performance of the vapour compression refrigeration system. 
 6. Conduct experiment on diesel engine to investigate performance based on air standard cycles. 
 7. Conduct an experiment to draw the heat balance sheet for a diesel engine. 
- ## Page 48
  ←BACK TO SEMESTER III 
 FMCD2009 / 2.0 48 
   Program: Bachelor of Engineering Semester: III 
@@ -1689,7 +1642,6 @@ Text Books
 Reference Books: 
 1. Katsuhiko Ogata, Modern Control Engineering, 5th edition, Pearson Publications. 
 2. Norman S. Nise, Control. Systems, 6th edition, John Wiley & Sons 
- ## Page 49
  ←BACK TO SEMESTER III 
 FMCD2009 / 2.0 49 
   Program: Bachelor of Engineering Semester: III 
@@ -1730,7 +1682,6 @@ Age International Limited, 2008.
 4. Mikell P. Groover, Automation, Production Systems, and Computer-Integrated Manufacturing, 4th 
 edition, Prentice Hall, 2014. 
 5. Pandey P. C. and Shan H. S., Modern Machining Processes, 1st edition, Tata McGraw Hill, 2013. 
- ## Page 50
  ←BACK TO SEMESTER III 
 FMCD2009 / 2.0 50 
   Program: Bachelor of Engineering Semester: III 
@@ -1767,7 +1718,6 @@ Reference Books:
 1. Katsuhiko Ogata, Modern Control Engineering, 5th edition, Pearson Publications. 
 2. Norman S. Nise, Control. Systems, 6th edition, John Wiley & Sons. 
 3. Data sheets provided by manufactures. 
- ## Page 51
  ←BACK TO SEMESTER III 
 FMCD2009 / 2.0 51 
   Program: Bachelor of Engineering Semester: III 
@@ -1797,7 +1747,6 @@ Text Books
 3. AutoCAD 2018 Training Guide, Sagar Linkan, BPB Publications, 2018 Edition. 
 Reference Books: 
 1. Engineering drawing practice for schools and colleges SP 46:2003 (BIS). 
- ## Page 52
  ←BACK TO SEMESTER IV 
 FMCD2009 / 2.0 52 
   Program: Bachelor of Engineering Semester: IV 
@@ -1833,7 +1782,6 @@ Text Books
 2. Bali and Iyengar, A text book of Engineering Mathematics, 6 ed, Laxmi Publications(p) 2003 
 Reference Books: 
 1. James Stewart, Early Transcendentals Calculus- Thomson Books, 5 ed, 2007 
- ## Page 53
  ←BACK TO SEMESTER IV 
 FMCD2009 / 2.0 53 
   Program: Bachelor of Engineering Semester: IV 
@@ -1884,7 +1832,6 @@ Reference Books:
 2. Simmons G F and Krantz S G, Differential Equations, TATA McGraw-Hill, 2007. 
 3. Sastry S S, Introductory method for numerical analysis, 3ed, PHI, 2003 
 4. Chapra S C and Canale R P, Numerical methods for Engineers, 5ed, TATA McGraw-Hill, 2007. 
- ## Page 54
  ←BACK TO SEMESTER IV 
 FMCD2009 / 2.0 54 
   Program: Bachelor of Engineering Semester: IV 
@@ -1932,7 +1879,6 @@ House Pvt. Ltd., New Delhi, 2015.
 2. Farazdak Haideri, Mechanical Engineering Design (Volume I), 2nd Edition, Nirali Prakashan, 2012. 
 3. K. Mahadevan and Balaveera Reddy, Design Data Hand Book, CBS Publication, Fourth Edition. 
 2016. 
- ## Page 55
  ←BACK TO SEMESTER IV 
 FMCD2009 / 2.0 55 
   Program: Bachelor of Engineering Semester: IV 
@@ -1972,7 +1918,6 @@ Reference Books:
 1. John Uicker , Gordon Pennock , Joseph Shigley, Theory of Machines and Mechanisms, 4thed, 
 Oxford University Press-New Delhi. 2009 
 2. S. S. Rattan, Theory of Machines, 2nded, Tata McGraw Hill Ltd., 2006 
- ## Page 56
  ←BACK TO SEMESTER IV 
 FMCD2009 / 2.0 56 
   Program: Bachelor of Engineering Semester: IV 
@@ -2022,7 +1967,6 @@ The need for advanced materials; Composite materials - classification, types of 
 reinforcements, fundamentals of production of FRP's and MMC's, applications of composites, Smart 
 materials, Nano materials, FGM (Functionally graded materials) and Hybrid composites. 
 Text Books 
- ## Page 57
  FMCD2009 / 2.0 57 
   1. William Callister, Materials Science and Engineering, John Wiley & Sons. Inc., 10th Edition, January 
 2018 (ISBN: 978-1-119-40549-8). 
@@ -2033,7 +1977,6 @@ Reference Books:
 Learning, 7th Edition, CENGAGE Learning, 2019. 
 2. George Murray, Charles V. White, Wolfgang Weise, Introduction to Engineering Materials, 2nd 
 Edition, CRC Press, 07-Sep-2007 
- ## Page 58
  FMCD2009 / 2.0 58 
   ←BACK TO SEMESTER IV 
   Program: Bachelor of Engineering Semester: IV 
@@ -2088,7 +2031,6 @@ Read Sensor data and display the data on a LCD using I2C protocol
 amplifier. 
 02 
 6. Verification of Superposition, The Vinen's and Network theorems. 02 
- ## Page 59
  FMCD2009 / 2.0 59 
   7. PCB design using Eagle software. 03 
 Text Books 
@@ -2098,7 +2040,6 @@ Reference Books:
 1. Devdas Shetty, Richard Kolk, "Mechatronics System Design", 2nd edition, Cengage Learning, 
 2010. 
 2. W. Bolton, "Mechatronics", 2nd edition, Pearson Ed, 2001 
- ## Page 60
  FMCD2009 / 2.0 60 
   ←BACK TO SEMESTER IV 
   Program: Bachelor of Engineering Semester: IV 
@@ -2142,7 +2083,6 @@ Penram International Publishing (India) Pvt. Ltd.
 2. Ajay V Deshmukh, "Microcontroller: Theory and Applications", Tata McGraw-Hill Publishing 
 company limited. 
   ←BACK TO SEMESTER IV 
- ## Page 61
  ←BACK TO SEMESTER IV 
 FMCD2009 / 2.0 61 
   Program: Bachelor of Engineering Semester: IV 
@@ -2183,7 +2123,6 @@ programmer which can burn programs on the PIC16 or PIC18 ICs.
 11. Write a program on Py-board microcontroller using python programming and 
 image processing to detect the tennis ball. 
 01 
- ## Page 62
  ←BACK TO SEMESTER IV 
 FMCD2009 / 2.0 62 
   Program: Bachelor of Engineering Semester: IV 
@@ -2210,7 +2149,6 @@ Reference Books:
 Oxford University Press, New Delhi 
 2. A brief introduction to MSC.ADAMS-user manual, McNeil Schindler Corp (MSC), USA. 
 3. "Make it Kit", Educational Mechanism construction kit. 
- ## Page 63
  ←BACK TO SEMESTER IV 
 FMCD2009 / 2.0 63 
   Program: Bachelor of Engineering Semester: IV 
@@ -2263,7 +2201,6 @@ Reference Books:
 Edition, CENGAGE Learning, 2019. 
 2. George Murray, Charles V. White, Wolfgang Weise, Introduction to Engineering Materials, 2nd Edition, CRC 
 Press, 07-Sep-2007 
- ## Page 64
  ←BACK TO SEMESTER V 
 FMCD2009 / 2.0 64 
   Program: Bachelor of Engineering Semester: V 
@@ -2307,7 +2244,6 @@ Reference Books:
 1. Sastry S S, Introductory method for numerical analysis, 3ed, PHI, 2003. 
 2. J. Susan Milton, Jesse C. Arnold, Introduction to Probability and Statistics: Principles and Applications 
 for Engineering and the Computing Sciences, 4th Ed, TATA McGraw-Hill Edition 2007. 
- ## Page 65
  ←BACK TO SEMESTER V 
 FMCD2009 / 2.0 65 
   Program: Bachelor of Engineering Semester: V 
@@ -2354,7 +2290,6 @@ Reference Books:
 McGraw Hill Publishing Company Ltd., New Delhi, Special Indian Edition, 2008. 
 2. Design of Machine Elements- K Ganesh Babu and K Srithar, MGH Education (I), Chennai, 2009 
 3. K. Mahadevan and Balaveera Reddy, Design Data Hand Book, CBS Publication, Fourth Edition. 2016. 
- ## Page 66
  ←BACK TO SEMESTER V 
 FMCD2009 / 2.0 66 
   Program: Bachelor of Engineering Semester: V 
@@ -2405,7 +2340,6 @@ The motor will operate in forward or reverse mode only when one of the buttons
 is pressed. If both buttons are pressed simultaneously, the motor will not 
 function 
 1 
- ## Page 67
  FMCD2009 / 2.0 67 
   4. Car Safety System 
 Create a ladder logic program for a car safety system that prevents the 
@@ -2450,7 +2384,6 @@ References
 1. Programmable Logic Controllers - Frank D. Petruzella, Fifth Edition, McGraw Hill Publication, 2019. 
 2. An Introduction to Automated Process Planning Systems- Tiess Chiu Chang & Richard A. Wysk. 
 3. Laboratory manual developed by in-house faculty (For Laboratory experiments) 
- ## Page 68
  FMCD2009 / 2.0 68 
   ←BACK TO SEMESTER V 
   Program: Bachelor of Engineering Semester: V 
@@ -2500,7 +2433,6 @@ Design modification, CAE Reports.
 Text Books: 
 1. T. R. Chandraputala and A. D. Belegundu, Introduction to Finite Elements in Engineering, Third 
 Edition, Prentice Hall of India, 2004. 
- ## Page 69
  FMCD2009 / 2.0 69 
   2. Nitin Ghokale, S.S. Deshpande, S.V. Bedekar and A.N. Thiee, Practical finite element analysis, 
 Finite to infinite, 2008 
@@ -2509,7 +2441,6 @@ Reference Books:
 1. David Hutton, Fundamentals of Finite Element Analysis, Tata McGraw Hill, 2005. 
 2. S. M. Murigendrappa, Fundamentals of Finite Element Methods, Interline Publication, 2nd Edition 
 2009. 
- ## Page 70
  ←BACK TO SEMESTER V 
 FMCD2009 / 2.0 70 
   Program: Bachelor of Engineering Semester: V 
@@ -2543,7 +2474,6 @@ database
 Text Books: 
 Reference Books: 
 1. Training material of EDS on 3D experience 
- ## Page 71
  ←BACK TO SEMESTER V 
 FMCD2009 / 2.0 71 
   Program: Bachelor of Engineering Semester: V 
@@ -2595,7 +2525,6 @@ Switches
 meter-in, meter-out and regenerative action. Clamping and punching 
 operation. 
 1 
- ## Page 72
  FMCD2009 / 2.0 72 
   13 To control extension/retraction with or without delay using ladder logic 1 
 14 To build and simulate arc/spot welding process in robotic environment 1 
@@ -2642,7 +2571,6 @@ Reference Books:
 1. S R Majumdar, Hydraulic systems, Principles and Maintenance, 5th, TMH, 2002 
 2. S R Majumdar, Pneumatic Systems, 2nd, TMH, 1995 
 3. Laboratory manual prepared by inhouse team 
- ## Page 73
  FMCD2009 / 2.0 73 
   ←BACK TO SEMESTER V 
   Program: Bachelor of Engineering Semester: V 
@@ -2700,7 +2628,6 @@ Start from scratch
  Generate the Solid Modeling of components with overall assembly (In any of the CAD Software) 
  Import the model in neutral form to ANSYS Workbench 
  Collection of data relevant to Material Properties 
- ## Page 74
  FMCD2009 / 2.0 74 
    Understand the physics of the problem (Working Principle with load's and boundary conditions) 
  Interpretation of Results with conclusion. 
@@ -2719,7 +2646,6 @@ endurance limit of component and damage factor).
 Materials and Resources Required: 
 1. Books/References: Nitin Ghokale, Practical finite element analysis 
 2. Manuals: Sham Tickoo, ANSYS for Engineers and Designers 
- ## Page 75
  ←BACK TO SEMESTER V 
 FMCD2009 / 2.0 75 
   Program: Bachelor of Engineering Semester: V 
@@ -2752,7 +2678,6 @@ Phases of mini Project Work:
 symbols wherever necessary. 
  Students have to include an Innovative idea and incorporate the same in their project. 
  Prepare a final detailed report explaining the various stages and give a presentation as a team. 
- ## Page 76
  ←BACK TO SEMESTER V 
 FMCD2009 / 2.0 76 
   Program: Bachelor of Engineering Semester: V 
@@ -2798,7 +2723,6 @@ Education, 2014.
 Reference Books: 
 1. S. Graham Kelly, Mechanical Vibrations: Theory and Applications, Cengage Learning, SI Edn, 2012. 
 2. M. L. Munjal, Noise and Vibration Control, World Scientific Publishing Co, Pvt. Ltd., 2013 
- ## Page 77
  ←BACK TO SEMESTER V 
 FMCD2009 / 2.0 77 
   Program: Bachelor of Engineering Semester: V 
@@ -2835,7 +2759,6 @@ Reference Books:
 4. A Unified Innovation Process Model for Engineering Designers and Managers (In Design Thinking) 
 Skogstad, P., Leifer, L. edited by Meinel, C., Leifer, L., Plattner, H. Springer Berlin Heidelberg. 2011: 
 19-43 
- ## Page 78
  ←BACK TO SEMESTER V 
 FMCD2009 / 2.0 78 
   Program: Bachelor of Engineering Semester: V 
@@ -2876,7 +2799,6 @@ Company Limited, New Delhi.
 Reference Books: 
 1. HMT, "Production Technology", TATA McGraw Hill. 
 2. Adithan M, "Modern Machining Methods", S. Chand & Company, New Delhi. 
- ## Page 79
  ←BACK TO SEMESTER V 
 FMCD2009 / 2.0 79 
   Program: Bachelor of Engineering Semester: V 
@@ -2919,7 +2841,6 @@ Reference Books:
 Applications: Fourth edition of Rapid Prototyping, World Scientific Publishers, 2014. 
 2. Chua C.K., Leong K. F., and Lim C. S., "Rapid Prototyping: Principles and applications", Third 
 Edition, World Scientific Publishers, 2010. 
- ## Page 80
  ←BACK TO SEMESTER V 
 FMCD2009 / 2.0 80 
   Program: Bachelor of Engineering Semester: V 
@@ -2969,7 +2890,6 @@ Reaction turbine, Parson's reaction turbine, condition for maximum blade efficie
 Problems on single stage turbines only. 
 Text Books 
 1. ShepherdD.G., Principals of Turbo Machinery, Macmillan Publishers, 1st Edn.1964 
- ## Page 81
  FMCD2009 / 2.0 81 
   2. Yadav R., (2007) 'Steam & gas turbines and power plant engineering', Central Publishing House 
 Allahabad, Vol. 1, 
@@ -2980,7 +2900,6 @@ Reference Books:
 Age International, 1st Edn, 2006. 
 2. Saravanamutto H.I.H, Rogers G.F.C., Cohen H, Gas Turbine Theory, 5th edn., Pearson Education, 
 2006. 
- ## Page 82
  ←BACK TO SEMESTER V 
 FMCD2009 / 2.0 82 
   Program: Bachelor of Engineering Semester: V 
@@ -3021,7 +2940,6 @@ Management Systems, 1st Edn John Wiley & Sons, 2016
 2. John G. Hayes, Goodarzi A.,Electric Power train - Energy Systems, Power electronics and drives for 
 Hybrid, electric and fuel cell vehicles, Wiley Publication 
 Reference Books: 
- ## Page 83
  ←BACK TO SEMESTER V 
 FMCD2009 / 2.0 83 
   Program: Bachelor of Engineering Semester: V 
@@ -3073,7 +2991,6 @@ Theory and Demo Exercise - 01 No
 2 Hrs 
 Reference Books: 
 1. Nitin S Ghokale, Practical Finite Element Analysis, 3rd Edition, Finite to Infinite, 2015. 
- ## Page 84
  ←BACK TO SEMESTER V 
 FMCD2009 / 2.0 84 
   Program: Bachelor of Engineering Semester: V 
@@ -3101,7 +3018,6 @@ Text Books
 Company 
 3. Biomimitics:, Biologically inspired Technologies, Yoseph Bar-Cohen, Taylor and Francis Publications 
 Reference Books: 
- ## Page 85
  ←BACK TO SEMESTER V 
 FMCD2009 / 2.0 85 
   Program: Bachelor of Engineering Semester: V 
@@ -3150,7 +3066,6 @@ Reference Books:
 1. Alexis Leon, "Enterprise Resource Planning", 4th edition, McGraw Hill Education, 2019. 
 2. Simha R. Magal& Jeffrey Word, "Integrated Business Processes with ERP Systems", 1st edition, 
 John Wiley & Sons Inc., 2011. 
- ## Page 86
  ←BACK TO SEMESTER V 
 FMCD2009 / 2.0 86 
   Program: Bachelor of Engineering Semester: V 
@@ -3181,7 +3096,6 @@ Reference Books:
 Springer, 3rd Edition, 2015 
 2. Antti Saakasvuori, AnselmiImmonen, "Product Lifecycle Management" - Springer, 1st Edition, 
 2003. 
- ## Page 87
  ←BACK TO SEMESTER V 
 FMCD2009 / 2.0 87 
   Program: Bachelor of Engineering Semester: V 
@@ -3216,7 +3130,6 @@ Learning with Applications in R", Springer, 2017.
 2. Andrew Ng, "Machine Learning Yearning", https://www.mlyearning.org/. 
 3. Michael Nielsen, "Neural Networks and Deep Learning", 
 http://neuralnetworksanddeeplearning.com/. 
- ## Page 88
  ←BACK TO SEMESTER VI 
 FMCD2009 / 2.0 88 
   Program: Bachelor of Engineering Semester: VI 
@@ -3243,7 +3156,6 @@ Sons, New Delhi
 References: 
 1. Verbal and Non - Verbal Reasoning - Dr. Ravi Chopra, MacMillan India 
 2. Lateral Thinking - Dr. Edward De Bono, Penguin Books, New Delhi 
- ## Page 89
  ←BACK TO SEMESTER VI 
 FMCD2009 / 2.0 89 
   Program: Bachelor of Engineering Semester: VI 
@@ -3291,7 +3203,6 @@ Reference Books:
 2. R.K. Bansal: Fluid Mechanics and Hydraulic Machines, 10th Edn, Laxmi Publications, 2018 
 3. Khandpal T.C.,Garg H.P., Financial Evaluation of Renewable Energy Technologies, Mc-Millan India, 
 1stEdn, 2013 
- ## Page 90
  ←BACK TO SEMESTER VI 
 FMCD2009 / 2.0 90 
   Program: Bachelor of Engineering Semester: VI 
@@ -3341,12 +3252,10 @@ Text Books
 Reference Books: 
 1. Holman J P, Experimental Methods for Engineers, 8th Edition McGraw-Hill Publications 2011 
 2. Connie. L. Dotson, Fundamentals of Dimensional Metrology, 6th Edn. Cengage Publications 2015 
- ## Page 91
  FMCD2009 / 2.0 91 
   3. Bosch J A, Giddings and Lewis Dayton, Marcel Dekker, Co-Ordinate Measuring Machines and 
 Systems 2nd Edition CRC press 2015 
 4. Grant and Leavenworth, Statistical Quality Control, 7th Edition, McGraw-Hill Publications 1996 
- ## Page 92
  FMCD2009 / 2.0 92 
   ←BACK TO SEMESTER VI 
   Program: Bachelor of Engineering Semester: VI 
@@ -3396,11 +3305,9 @@ Text Books
 2. Sabri Centikunt, Mechatronics with experiments, Second, Wiley, 2015 
 3. Norman S. Nise, "Control Systems Engineering", John Wiley & Sons, Inc, Sixth edition - 2011. 
 Reference Books: 
- ## Page 93
  FMCD2009 / 2.0 93 
   1. Shuvra Das, Mechatronic modeling and simulation using bond graphs, CRC Press, 2009 
 2. Klaus Janschek, Mechatronic Systems Design, Springer, 2012 
- ## Page 94
  ←BACK TO SEMESTER VI 
 FMCD2009 / 2.0 94 
   Program: Bachelor of Engineering Semester: VI 
@@ -3439,7 +3346,6 @@ Reference Books:
 1. Montgomery D. C., Introduction to Statistical Quality Control, 8th Edn. John Wiley & Sons, Inc 2019 
 2. Hume K.J. & Sharp G.H, Practical metrology , 1st Edition ELBS &Macdonald 1970 
 3. Juran J.M. & F.M. Gryna, Quality Planning & Analysis, 3rd Re edition TMH Publications 1993 
- ## Page 95
  ←BACK TO SEMESTER VI 
 FMCD2009 / 2.0 95 
   Program: Bachelor of Engineering Semester: VI 
@@ -3473,7 +3379,6 @@ Phases of mini Project Work:
 symbols wherever necessary. 
  Students have to include an Innovative idea and incorporate the same in their project. 
  Prepare a final detailed report explaining the various stages and give a presentation as a team. 
- ## Page 96
  ←BACK TO SEMESTER VI 
 FMCD2009 / 2.0 96 
   Program: Bachelor of Engineering Semester: VI 
@@ -3500,7 +3405,6 @@ References:
 3. William Strunk, E B White - The Elements of Style, Pearson 
 4. John Maxwell - The 17 Essential Qualities of a Team Player, HarperCollins Leadership 
 5. Robin Ryan - 60 Seconds and You're Hired! - Penguin Books 
- ## Page 97
  ←BACK TO SEMESTER VI 
 FMCD2009 / 2.0 97 
   Program: Bachelor of Engineering Semester: VI 
@@ -3544,7 +3448,6 @@ Text Books
 3. Gambhir, M.L, Stability Analysis and Design of Structures, Springer-Verlag, 2004. 
 Reference Books: 
 1. Robert L. Norton, Pearson, "Machine Design- An Integrated Approach", 2nd edition, 2000. 
- ## Page 98
  ←BACK TO SEMESTER VI 
 FMCD2009 / 2.0 98 
   Program: Bachelor of Engineering Semester: VI 
@@ -3570,7 +3473,6 @@ Reference Books:
 3. Kenneth B. Kahn, The PDMA Handbook of New Product Development, 2nd Edition 
 4. Monica Bordegoni (Editor), Caterina Rizzi (Editor), Innovation in Product Design: From CAD to 
 Virtual Prototyping 
- ## Page 99
  ←BACK TO SEMESTER VI 
 FMCD2009 / 2.0 99 
   Program: Bachelor of Engineering Semester: VI 
@@ -3618,7 +3520,6 @@ Reference Books:
 3. Rao P.N., 'CAD/CAM Principles and Applications', Tata McGraw-Hill. 
 4. Vajpayee S. K., "Principles of CIM", Prentice Hall of India. 
 5. Saeed B. Niku, "Introduction to Robotics", Prentice Hall of India. 
- ## Page 100
  ←BACK TO SEMESTER VI 
 FMCD2009 / 2.0 100 
   Program: Bachelor of Engineering Semester: VI 
@@ -3672,7 +3573,6 @@ condition).
 2 Analysis cantilevered thin and thick square plate with changes in design to increase 
 the natural frequency. 
 01 
- ## Page 101
  FMCD2009 / 2.0 101 
   3 Normal mode analysis of a Bracket with design changes (Free- Free and Forced- 
 Fixed). 
@@ -3690,7 +3590,6 @@ ii) Monocoque chassis.
 01 
 9 Acoustic analysis of brake squeal 01 
 10 Acoustic analysis of a half car model 01 
- ## Page 102
  ←BACK TO SEMESTER VI 
 FMCD2009 / 2.0 102 
   Program: Bachelor of Engineering Semester: VI 
@@ -3721,7 +3620,6 @@ suitability for given application.
 3. 3D Experience Functional Generative Design 4. Solidworks 
 * PRINTER SIMULATION SOFTWARE: 
 1. CURA 2. CubePro 
- ## Page 103
  ←BACK TO SEMESTER VI 
 FMCD2009 / 2.0 103 
   Program: Bachelor of Engineering Semester: VI 
@@ -3762,7 +3660,6 @@ Text Books
 5. Franno Barbir, PEM Fuel Cells: Theory and Practice, 2nd Ed. Elsevier/Academic Press, 2013. 
 6. Xianguo Li, Principles of Fuel Cells, Taylor & Francis, 1st Edn., 2005 
 Reference Books: 
- ## Page 104
  ←BACK TO SEMESTER VI 
 FMCD2009 / 2.0 104 
   Program: Bachelor of Engineering Semester: VI 
@@ -3825,7 +3722,6 @@ Demo 06
 15 Couple Field Analysis. 
  Thermo-Structural Analysis 
 Demo 03 
- ## Page 105
  FMCD2009 / 2.0 105 
     Electro-Mechanical Analysis 
 Text Books 
@@ -3836,7 +3732,6 @@ Press (2014)
 2. Erdogan Madenci, Ibrahim Guven (auth.)-The Finite Element Method and Applications in 
 Engineering Using ANSYS®-Springer US (2015) 
 3. Barbero, Ever J.-Finite Element Analysis of Composite Materials Using ANSYS®-CRC Press (2013) 
- ## Page 106
  ←BACK TO SEMESTER VI 
 FMCD2009 / 2.0 106 
   Program: Bachelor of Engineering Semester: VI 
@@ -3886,7 +3781,6 @@ Chicago Press, 1992.
 2. Fundamentals of Biomechanics: Equilibrium, Motion and Deformation, Ozkaya, Nordin, 
 Goldsheyder and Leger. Third edition, Springer, 2014. 
 3. Fundamentals of Biomechanics, R. L. Huston, CRC Press, 2013. 
- ## Page 107
  ←BACK TO SEMESTER VI 
 FMCD2009 / 2.0 107 
   Program: Bachelor of Engineering Semester: VI 
@@ -3931,7 +3825,6 @@ Reference Books:
 3. Alexis Leon, "Enterprise Resource Planning", 4th edition, McGraw Hill Education, 2019. 
 4. Simha R. Magal & Jeffrey Word, "Integrated Business Processes with ERP Systems", 1st edition, 
 John Wiley & Sons Inc., 2011. 
- ## Page 108
  ←BACK TO SEMESTER VI 
 FMCD2009 / 2.0 108 
   Program: Bachelor of Engineering Semester: VI 
@@ -3961,7 +3854,6 @@ Reference Books:
 Springer, Third Edition, 2015 
 2. Antti Saakasvuori, AnselmiImmonen, "Product Lifecycle Management" - Springer, 1st Edition, 
 2003 
- ## Page 109
  ←BACK TO SEMESTER VI 
 FMCD2009 / 2.0 109 
   Program: Bachelor of Engineering Semester: VI 
@@ -4010,7 +3902,6 @@ Reference Books:
 1. Jason Rowe, Advanced Materials in Automotive Engineering, Woodhead, 2012. 
 2. J. Reimpell, H. Stoll, and J. W. Betzler, The Automotive Chassis: Engineering Principles, Butterworth- 
 Heinemann, 2001. 
- ## Page 110
  FMCD2009 / 2.0 110 
   3. L. Morello, L. Rosti Rossini, G. Pia, D. Tonoli, The Automotive Body: Volume I and II - Components 
 Design, Springer, 2011. 
@@ -4024,7 +3915,6 @@ Project/Paper:
 Student has to prepare a model of vehicle chassis according to the given rulebook and analyze it for 
 various loading condition and optimize the design, in the group of three/four members and make a 
 presentation and report of it. 
- ## Page 111
  ←BACK TO SEMESTER VI 
 FMCD2009 / 2.0 111 
   Program: Bachelor of Engineering Semester: VI 
@@ -4055,7 +3945,6 @@ Reference Books:
 1. Andrew Ng, "Machine Learning Yearning", https://www.mlyearning.org/. 
 2. Michael Nielsen, "Neural Networks and Deep Learning", 
 http://neuralnetworksanddeeplearning.com/. 
- ## Page 112
  ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 112 
   Program: Bachelor of Engineering Semester: VII 
@@ -4103,7 +3992,6 @@ Kirchoff's law, Planck's law and Wein's displacement law. Solar Radiation geomet
 Text Books: 
 1. Nicati Ozisik, Heat transfer-A basic approach, 1, Tata Mc Graw Hill, 2002 
 2. M.Tirumaleshwar, Fundamentals of Heat and Mass Transfer, 4, Pearson education, 2009 
- ## Page 113
  ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 113 
   Program: Bachelor of Engineering Semester: VII 
@@ -4148,7 +4036,6 @@ Reference Books:
 1. Ganesan V. "Internal Combustion Engines", Third Edition, Tata Mcgraw-Hill, 2007. 
 2. Gupta H.N, "Fundamentals of Internal Combustion Engines", Prentice Hall of India, 2006. 
 3. Ultrich Adler, "Automotive Electric / Electronic Systems", Published by Robert Bosh GmbH, 1995. 
- ## Page 114
  ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 114 
   Program: Bachelor of Engineering Semester: VII 
@@ -4179,7 +4066,6 @@ Materials and Resources Required:
 4. John B. Heywood, Fundamentals of Internal Combustion Engines, McGrawHill, Singapore. 
 5. Ganesan.V, Internal Combustion Engines, Tata McGraw Hill, 2nd Edition, 2003 
 6. Manuals: Lab manual prepared by the Department 
- ## Page 115
  ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 115 
   Program: Bachelor of Engineering Semester: VII 
@@ -4222,7 +4108,6 @@ Module 3: Gen AI Project Studio - ( 4 labs )
 Module 4: Gen AI Showcase - (10 labs ) 
 • Domain specific example to showcase GenAI based solution and report 
 • Students in a team of 2-4 demonstrate the building of project for selected application 
- ## Page 116
  ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 116 
   Program: Bachelor of Engineering Semester: VII 
@@ -4237,7 +4122,6 @@ field of smart manufacturing, green engineering, and Design engineering and adva
 objective of the course is to infuse lifelong qualities in students such as research, design thinking, 
 innovation and entrepreneurial qualities. After this course students are capable to convert customer pain 
 points into business solution. 
- ## Page 117
  ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 117 
   Program: Bachelor of Engineering Semester: VII 
@@ -4286,7 +4170,6 @@ Text Books (List of books as mentioned in the approved syllabus)
 References 
 1. Durga Das Basu, "Introduction to the Constitution of India", Prentice-hall EEE, 2001 
 2. Mike Martin and Ronald Schinzinger, "Ethics in Engineering", Tata McGraw-Hill Publications. 
- ## Page 118
  ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 118 
   Program: Bachelor of Engineering Semester: VII 
@@ -4325,7 +4208,6 @@ Text Books:
 Reference Books: 
 1. Vohra N. D, Quantitative Techniques in Management, 5th Edition, Mcgraw Higher Ed.,2017 
 2. R. Panneerselvam, Operations Research, 2nd Edition, Phi Learning Pvt. Ltd, 2009. 
- ## Page 119
  ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 119 
   Program: Bachelor of Engineering Semester: VII 
@@ -4367,7 +4249,6 @@ Text Books
 Reference Books: 
 1. Yogesh Jaluria, Design and Optimisation of Thermal Systems, 2nd ed., CRC Press, 2008 
 2. Hodge B.K., Analysis and Design of Thermal Systems, 1 ed., PHI, 1990. 
- ## Page 120
  ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 120 
   Program: Bachelor of Engineering Semester: VII 
@@ -4418,7 +4299,6 @@ Applications in aerospace, automotive, marine, sports, biomedical, and construct
 aspects and recycling of composites Limitations and challenges in design, manufacturing, and repair, 
 Future trends and innovations in composite materials. 
 Text Books: 
- ## Page 121
  FMCD2009 / 2.0 121 
   1. Krishan K. Chawla, Composite Materials - Science and Engineering, 3rd Edition, Springer, 2012. 
 2. Robert M. Jones, Mechanics of Composite Materials, 2nd Edition, Tailor & Francis Inc. 1999. 
@@ -4426,7 +4306,6 @@ Reference Books:
 1. D. Hull and T. W. Clyne, an Introduction to Composite Materials (Cambridge Solid State Science 
 Series), 2nd Edition, Cambridge University Press, 1996. 
 2. Autar K. Kaw, Mechanics of Composite Materials, 2nd Edition, CRC Press, Taylor and Francis, 2006. 
- ## Page 122
  ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 122 
   Program: Bachelor of Engineering Semester: VII 
@@ -4466,7 +4345,6 @@ Text Books:
 Reference Books: 
 1. Heinz Heisler, Advanced Vehicle Technology, 2nd Edition, Butterworth Heinemann, 2002. 
 2. Heywood, John B. Internal Combustion Engine Fundamentals, McGraw-Hill, New York 1988. 
- ## Page 123
  ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 123 
   Program: Bachelor of Engineering Semester: VII 
@@ -4508,7 +4386,6 @@ Reference Books:
 1. Robert H. Lochner and Joseph E. Matar, Designing for Quality- an Introduction Best of Taghuchi 
 and Western Methods or Statistical Experimental Design- Chapman and Hall. 
 5. P.J.Ross, Taghuchi Techniques for Quality Engineering- McGraw Hill, New York. 
- ## Page 124
  ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 124 
   Program: Bachelor of Engineering Semester: VII 
@@ -4559,7 +4436,6 @@ o Compare the durability of a conventional ICE chassis with an electric vehicle 
 2. Thermal and Aerodynamic Optimization 
 o Compute ΔT for a chosen EV battery pack. 
 Improve drag performance of a selected external vehicle element projects: 
- ## Page 125
  ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 125 
   Program: Bachelor of Engineering Semester: VII 
@@ -4609,7 +4485,6 @@ Reference Books:
 2. Pannerselvam. R., Production and Operations Management, Prentice Hall India, 2003 
 3. Chary, S.N., 'Production and Operations Management', Tata-McGraw HilI, 2004 
 4. Nicholas J. Aquilano, 'Fundamental of Operations Management', Irwin/McGraw-Hill; 4th edition. 
- ## Page 126
  ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 126 
   Program: Bachelor of Engineering Semester: VII 
@@ -4660,7 +4535,6 @@ Integrated Value Systems, ed 2002, Pearson Education Inc. ISBN: 81- 297-0113-8.
 534-37363. 
 4. Kapoor, Marketing Logistics: A Supply Chain Approach", Pearson Education Pvt Ltd. ISBN- 
 8129702444. 
- ## Page 127
  ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 127 
   Program: Bachelor of Engineering Semester: VII 
@@ -4710,7 +4584,6 @@ Reference Books:
 1. Richard J. Schonberger, 'Japanese Manufacturing Techniques', the Free Press - Macmillan 
 Publication. 
 2. James R. Evans and William M. Lindsay, 'The Management and Control of Quality'. 
- ## Page 128
  ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 128 
   Program: Bachelor of Engineering Semester: VII 
@@ -4758,7 +4631,6 @@ Methods in Mechanics and Thermal Science, 2nd Edn. 2000
 2. Joel H. Ferziger and Milovan Peric, Computational Methods for Fluid Dynamics, 3rd Edition, Springer- 
 Verlag, Berlin, 2001 
 3. Anderson J D, Computational Fluid Dynamics- The Basics with Applications, MGH, 2nd Ed. 2001 
- ## Page 129
  ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 129 
   Program: Bachelor of Engineering Semester: VII 
@@ -4808,7 +4680,6 @@ Introduction, Super alloys-Nickel based iron-nickel, Cobalt, Thermal barrier coa
 advanced materials for jet engines. Maintenance: Introduction, On -wing maintenance, Scheduled 
 maintenance, Unscheduled maintenance, Condition monitoring, Flight deck indicators, In-flight 
 recorders, Ground indicators, Maintenance precautions, Trouble shooting, Adjustments, Ground testing. 
- ## Page 130
  FMCD2009 / 2.0 130 
   Text Books: 
 1. Rolls Royce - "The Jet Engine" 5th edition, ISBN 0 902121 2 35,© Rolls-Royce plc 1986 
@@ -4818,7 +4689,6 @@ Reference Books:
 Group, London New York.ISBN 978-0-8493-9196-5 
 2. Meherwan P. Boyce "Gas Turbine Engineering Handbook (Fourth Edition)", 2012, Elesevier, ISBN- 
 978-0-12-383842-1 
- ## Page 131
  ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 131 
   Program: Bachelor of Engineering Semester: VII 
@@ -4854,7 +4724,6 @@ Reference Books:
 1) S. S. Rao, Engineering Optimization Theory and Practice, 4th edition, John Wiley & Sons, Inc. 
 2) Practical_ Aspects_ of_ Optimization_ with_ Altair_ Opti Struct by Altair Engineering 
 3) Simulation_ Driven_ Design_ with_ Inspire by Altair Engineering 
- ## Page 132
  ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 132 
   Program: Bachelor of Engineering Semester: VII 
@@ -4906,7 +4775,6 @@ Reference Books:
  1. Harris, Modern Air Conditioning Practice 3nd Edn McGraw Hill Book Company 
 2. S. N. Sapali, Refrigeration and air conditioning 2nd Edn, PHI learning pvt ltd, Delhi 2016 
   3. C P Arora, Refrigeration and air conditioning 3rd edn 
- ## Page 133
  ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 133 
   Program: Bachelor of Engineering Semester: VII 
@@ -4955,7 +4823,6 @@ Reference Books:
 1. John Nee, "Fundamentals of Tool Design", 6th edition, Society of Manufacturing Engineers, 2010. 
 2. Frank W. Wilson, "Fundamentals of Tool Design", Prentice Hall, 1962. 
 3. K. Venkataraman, "Design of Jigs, Fixtures and Press Tools", John Wiley & Sons Ltd., 2015. 
- ## Page 134
  ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 134 
   Program: Bachelor of Engineering Semester: VII 
@@ -5003,7 +4870,6 @@ Chapter 9. Magnetic particle and Radiographic inspection: 02 Hrs
 Magnetic particle inspection, types of magnetizing currents, demagnetization, interpretation of patterns, 
 on-relevant indications, radiographic sources, detectable discontinuities. 
 Chapter 10. Chemical, Metallurgical, and Mechanical testing of weldments: 02 Hrs 
- ## Page 135
  FMCD2009 / 2.0 135 
   Comparison of destructive and non-destructive tests, chemical tests, forms of corrosion, testing for 
 corrosion resistance, and metallographic tests. 
@@ -5021,7 +4887,6 @@ Brazing and soldering- for low temperatures below 300 °C
  Reference Books: 
 1) William A Bowditch, Welding Technology Fundamentals 
 2) O P khanna, A text book of Welding Technology 
- ## Page 136
  ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 136 
   Program: Bachelor of Engineering Semester: VII 
@@ -5053,7 +4918,6 @@ Reference Books:
 Springer, Third Edition, 2015 
 2. Antti Saakasvuori, AnselmiImmonen, "Product Lifecycle Management" - Springer, 1st Edition, 
 2003 
- ## Page 137
  ←BACK TO SEMESTER VIII 
 FMCD2009 / 2.0 137 
   Program: Bachelor of Engineering Semester: VIII 
@@ -5099,7 +4963,6 @@ needs.
 engineering principles. 
  To develop technical reporting skills for effective documentation of the entire product 
 development lifecycle. 
- ## Page 138
  ←BACK TO SEMESTER VIII 
 FMCD2009 / 2.0 138 
   Program: Bachelor of Engineering Semester: VIII 
@@ -5115,7 +4978,6 @@ are assigned (or even choose for yourself) are designed to help students analyze
 come up with suitable solutions to them, thus contributing to their wisdom, knowledge, and problem - 
 solving abilities. In the process of researching a solution to the problem students intend to solve for their 
 capstone project, students will also gain insight into the latest trends in their field. 
- ## Page 139
  ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 139 
   Program: Bachelor of Engineering Semester: VIII 
@@ -5167,7 +5029,6 @@ sections. Sample exercises.
 Text Books 
 1. Daniel P Raymer, "Aircraft Design- A conceptual Approach", 6, AIAA education series, 2012 
 2. T.H.G. Megson, "Aircraft Structures for Engineering Students", 5, Elsevier science, 2012. 
- ## Page 140
  ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 140 
   Program: Bachelor of Engineering Semester: VIII 
@@ -5214,7 +5075,6 @@ Reference Books:
 Distributors 2017 
 3. Vijay Sheth, Industrial Engineering Methods and Practices, 5th Edition 2012 Penram International 
 Publishing (India) Pvt.Ltd. 
- ## Page 141
  ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 141 
   Program: Bachelor of Engineering Semester: VIII 
@@ -5265,12 +5125,10 @@ Reference Books:
 1. David Merick, Richard Marshall, (2001), Energy, Present and Future Options, Vol. I and II, John Wiley. 
 2. Twidell, J.W. and Weir, A., Renewable Energy Sources, EFN Spon Ltd., 1986 
 3. Peter Gevorkian, Sustainable Energy Systems Engineering, McGraw Hill, 2007 
- ## Page 142
  FMCD2009 / 2.0 142 
   4. Bagotsky. V.S, "Fuel Cells", Wiley, 2009. 
 5. Ibrahim Dincer and Marc A. Rosen, "Thermal Energy Storage Systems and Applications", 2nd Edition, 
 John Wiley and Sons Ltd., 2011. 
- ## Page 143
  ←BACK TO SEMESTER VII 
 FMCD2009 / 2.0 143 
   Program: Bachelor of Engineering Semester: VIII 
@@ -5319,7 +5177,6 @@ Reference Books:
 2. Sung Jin Kim, Sang Woo Lee, Air Cooling Technology for Electronic Equipment, Taylor & Francis, 996. 
 3. Rao R. Tummala, Fundamentals of Microsystems Packaging, McGraw-Hill, 2001. 
 4. Yunus A. Cengel, Heat Transfer: A Practical Approach. McGraw-Hill, 2003. 
- ## Page 144
  ←BACK TO SEMESTER VIII 
 FMCD2009 / 2.0 144 
   Program: Bachelor of Engineering Semester: VIII 
@@ -5367,7 +5224,6 @@ Solar Cells, Photonic Crystals.
 Nanosensors etc 
 Unit III 
 Chapter 6 Specific Applications: 8Hrs 
- ## Page 145
  FMCD2009 / 2.0 145 
   Part of this can be implemented as a student project that involves: literature-survey, project report and a 
 Seminar (Power-Point) Presentations by groups of two students each (applications and students to be 
@@ -5406,7 +5262,6 @@ Books Recommended for extra reading:
 2002. 
 Apart from the above, in view of the course being of advanced nature, the content of course will be 
 supplemented with course material from the course instructors. 
- ## Page 146
  ←BACK TO SEMESTER VIII 
 FMCD2009 / 2.0 146 
   Program: Bachelor of Engineering Semester: VIII 
@@ -5452,7 +5307,6 @@ Reference Books:
 Technology]: et al (Ed); Springer (2004). 
 3. Demystified: Linda Williams & Wade Adams; Nanotechnology McGraw-Hill (2007) 
 4. Charles P Poole Jr, Frank J Owens, Introduction to Nanotechnology: Wiley India New Delhi, 2007 
- ## Page 147
  ←BACK TO SEMESTER VIII 
 FMCD2009 / 2.0 147 
   Program: Bachelor of Engineering Semester: VIII 
@@ -5494,7 +5348,6 @@ Reference Books:
 1. Robert H. Lochner and Joseph E. Matar, "Designing for Quality- an Introduction Best of Taguchi and 
 Western Methods or Statistical Experimental Design", Chapman and Hall. 
 2. Philips.J. Ross, "Taguchi Techniques for Quality Engineering", McGraw Hill, New York. 
- ## Page 148
  ←BACK TO SEMESTER VIII 
 FMCD2009 / 2.0 148 
   Program: Bachelor of Engineering 
@@ -5547,4 +5400,4 @@ Text Books
 2. Robert Bosch Gmbh, 2004, Diesel Engine Management " 3rd Edition 
 Reference Books: 
 1. Mathur and Sharma, Dhanpal Rai & sons, A Course in I.C. Engine -New Delhi 
-2. John B. Heywood, Internal Combustion Engine Fundamentals -McGraw- Hill 
+2. John B. Heywood, Internal Combustion Engine Fundamentals -McGraw- Hill
