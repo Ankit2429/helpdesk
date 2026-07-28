@@ -28,7 +28,7 @@ class Settings(BaseSettings):
     ollama_context_window: int = 2_048
     ollama_max_output_tokens: int = 512
     ollama_num_threads: int = 6
-    knowledge_source_path: Path = Path("data/knowledge")
+    knowledge_source_path: Path = Path("data/canonical_markdown")
     knowledge_max_file_size_bytes: int = 20_000_000
     faiss_index_path: Path = Path("data/faiss")
     faiss_allow_dangerous_deserialization: bool = False
