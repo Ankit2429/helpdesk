@@ -82,6 +82,10 @@ class EvaluationRunner:
             retrieved_sources = [m.document.metadata.get("source", "") for m in retrieved_matches]
             combined_context = "\n".join([m.document.content for m in retrieved_matches])
 
+            from campus_helpdesk.infrastructure.rag.confidence_engine import ConfidenceEngine
+            conf_engine = ConfidenceEngine()
+            assessment = conf_engine.evaluate(retrieved_matches)
+
             recall5 = calculate_recall_at_k(retrieved_sources, exp_sources, k=5)
             recall10 = calculate_recall_at_k(retrieved_sources, exp_sources, k=10)
             mrr = calculate_mrr(retrieved_sources, exp_sources)
@@ -97,6 +101,8 @@ class EvaluationRunner:
                 "recall_at_10": round(recall10, 4),
                 "mrr": round(mrr, 4),
                 "keyword_coverage": round(kw_coverage, 4),
+                "confidence_score": assessment.confidence_score,
+                "confidence_level": assessment.confidence_level,
                 "matched_keywords": matched_kws,
                 "missing_keywords": missing_kws,
                 "retrieved_sources": retrieved_sources[:5],
@@ -122,6 +128,12 @@ class EvaluationRunner:
         overall_recall10 = round(total_recall10 / total_q, 4)
         overall_mrr = round(total_mrr / total_q, 4)
         overall_kw_cov = round(total_kw_coverage / total_q, 4)
+        avg_confidence = round(sum(q["confidence_score"] for q in results) / total_q, 4)
+        conf_dist = {
+            "HIGH": sum(1 for q in results if q["confidence_level"] == "HIGH"),
+            "MEDIUM": sum(1 for q in results if q["confidence_level"] == "MEDIUM"),
+            "LOW": sum(1 for q in results if q["confidence_level"] == "LOW"),
+        }
         overall_score = round((overall_recall5 + overall_mrr + overall_kw_cov) / 3.0 * 100, 2)
         avg_latency = round(total_latency / total_q, 2)
         total_duration = round(time.perf_counter() - start_time, 2)
@@ -146,6 +158,8 @@ class EvaluationRunner:
             "overall_recall_at_10": overall_recall10,
             "overall_mrr": overall_mrr,
             "overall_keyword_coverage": overall_kw_cov,
+            "average_confidence_score": avg_confidence,
+            "confidence_distribution": conf_dist,
             "average_retrieval_latency_ms": avg_latency,
             "evaluation_duration_seconds": total_duration,
             "per_category_accuracy": per_category_report,

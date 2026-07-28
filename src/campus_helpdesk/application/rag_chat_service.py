@@ -8,6 +8,7 @@ from campus_helpdesk.application.conversation_manager import ConversationManager
 from campus_helpdesk.application.llm_service import LLMService
 from campus_helpdesk.application.query_rewriter import QueryRewriter
 from campus_helpdesk.application.rag_pipeline import RAGPipeline
+from campus_helpdesk.infrastructure.rag.confidence_engine import ConfidenceAssessment, ConfidenceEngine
 from campus_helpdesk.infrastructure.rag.prompt_context_builder import PromptContextBuilder
 
 logger = logging.getLogger(__name__)
@@ -26,7 +27,7 @@ GENERAL_SYSTEM_PROMPT = (
 
 
 class RAGChatService(ChatService):
-    """Chat service using local vector search (RAG) and local Ollama LLM with multi-turn memory."""
+    """Chat service using local vector search (RAG) and local Ollama LLM with multi-turn memory and confidence scoring."""
 
     def __init__(
         self,
@@ -36,6 +37,7 @@ class RAGChatService(ChatService):
         max_context_size: int = 3000,
         system_prompt: str = DEFAULT_SYSTEM_PROMPT,
         conversation_manager: ConversationManager | None = None,
+        confidence_engine: ConfidenceEngine | None = None,
     ) -> None:
         self._llm_service = llm_service
         self._rag_pipeline = rag_pipeline
@@ -47,9 +49,10 @@ class RAGChatService(ChatService):
         )
         self.conversation_manager = conversation_manager or ConversationManager()
         self._query_rewriter = QueryRewriter()
+        self.confidence_engine = confidence_engine or ConfidenceEngine()
 
     def respond(self, message: str, session_id: str = "default") -> ChatResult:
-        """Process user message through RAG retrieval and generate answer via local LLM."""
+        """Process user message through RAG retrieval, evaluate confidence, and generate answer via local LLM."""
         if not message.strip():
             return ChatResult(reply="I am listening. How can I help you?", status="completed")
 
@@ -58,11 +61,13 @@ class RAGChatService(ChatService):
         history_prompt = self.conversation_manager.format_history_prompt(session_id)
 
         context_str = ""
+        confidence_assessment: ConfidenceAssessment | None = None
         if self._rag_pipeline is not None:
             try:
                 search_results = self._rag_pipeline.search(search_query)
                 if search_results:
-                    context_str = self._context_builder.build_context(search_results)
+                    confidence_assessment = self.confidence_engine.evaluate(search_results)
+                    context_str = self._context_builder.build_context(search_results, confidence_assessment)
                     if not context_str:
                         logger.info(
                             "All search results exceeded similarity distance threshold (%f). Skipping RAG context.",
@@ -85,7 +90,17 @@ class RAGChatService(ChatService):
         self.conversation_manager.add_user_message(message, session_id)
         self.conversation_manager.add_assistant_message(reply, session_id)
 
-        return ChatResult(reply=reply, status="completed")
+        score = confidence_assessment.confidence_score if confidence_assessment else 1.0
+        level = confidence_assessment.confidence_level if confidence_assessment else "HIGH"
+        sources = confidence_assessment.supporting_sources if confidence_assessment else []
+
+        return ChatResult(
+            reply=reply,
+            status="completed",
+            confidence_score=score,
+            confidence_level=level,
+            supporting_sources=sources,
+        )
 
     def respond_stream(self, message: str, session_id: str = "default"):
         """Process user message through RAG retrieval and yield answer tokens via local LLM."""

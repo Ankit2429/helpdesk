@@ -2,6 +2,7 @@
 
 import hashlib
 from collections.abc import Sequence
+from typing import Any
 
 from campus_helpdesk.domain.knowledge import SearchResult
 
@@ -17,7 +18,11 @@ class PromptContextBuilder:
         self.max_context_size = max_context_size
         self.similarity_threshold = similarity_threshold
 
-    def build_context(self, search_results: Sequence[SearchResult]) -> str:
+    def build_context(
+        self,
+        search_results: Sequence[SearchResult],
+        confidence_assessment: Any | None = None,
+    ) -> str:
         """Filter by similarity threshold, deduplicate, format citations, and enforce max_context_size."""
         if not search_results:
             return ""
@@ -25,6 +30,17 @@ class PromptContextBuilder:
         seen_hashes: set[str] = set()
         formatted_chunks: list[str] = []
         current_char_count = 0
+
+        # If confidence assessment indicates LOW confidence, prepend warning directive
+        if confidence_assessment is not None and getattr(confidence_assessment, "confidence_level", "") == "LOW":
+            low_notice = (
+                "[CONFIDENCE DIRECTIVE: LOW EVIDENCE CONFIDENCE]\n"
+                "Notice: The retrieved context has LOW confidence. Do NOT fabricate or invent any details. "
+                "If the answer is not explicitly stated in the context below, reply that reliable information "
+                "was not found in the campus database and advise the user to contact the relevant university office."
+            )
+            formatted_chunks.append(low_notice)
+            current_char_count += len(low_notice)
 
         for match in search_results:
             if match.distance > self.similarity_threshold:
@@ -61,5 +77,8 @@ class PromptContextBuilder:
 
             formatted_chunks.append(block)
             current_char_count += len(block)
+
+        if not seen_hashes:
+            return ""
 
         return "\n\n---\n\n".join(formatted_chunks)
