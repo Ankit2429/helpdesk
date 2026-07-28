@@ -84,7 +84,29 @@ class VADService:
         self._aggressiveness = aggressiveness
         self._speech_frames_threshold = speech_frames_threshold
         self._silence_frames_threshold = silence_frames_threshold
+        # Audio device configuration with fallback settings & auto-detection
         self._device_index = device_index
+        if self._device_index is None:
+            try:
+                from campus_helpdesk.config.settings import get_settings
+                self._device_index = get_settings().mic_device_index
+            except Exception:
+                pass
+
+        if self._device_index is None:
+            try:
+                default_device = sd.default.device[0]
+                if default_device >= 0:
+                    self._device_index = int(default_device)
+                else:
+                    devices = sd.query_devices()
+                    for idx, dev in enumerate(devices):
+                        if dev.get("max_input_channels", 0) > 0:
+                            self._device_index = idx
+                            break
+            except Exception as e:
+                logger.warning("VAD: Could not auto-detect default input audio device: %s", e)
+
         self._use_mock_fallback = use_mock_fallback
         self._name = name
 
@@ -152,6 +174,15 @@ class VADService:
                     break
 
             # Try initializing SoundDevice input stream
+            if self._device_index is not None:
+                try:
+                    dev_info = sd.query_devices(self._device_index)
+                    logger.info("VAD Selected Microphone Index %d: %s", self._device_index, dev_info.get("name", "Unknown"))
+                except Exception:
+                    logger.info("VAD Selected Microphone Index %d", self._device_index)
+            else:
+                logger.error("VAD: No input audio capture device found or configured.")
+
             try:
                 self._stream = sd.InputStream(
                     device=self._device_index,

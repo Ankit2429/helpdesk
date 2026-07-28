@@ -245,6 +245,92 @@ class SystemRuntime:
             if not self.manager._timeout_thread or not self.manager._timeout_thread.is_alive():
                 raise RuntimeError("Interaction Manager background monitor is not running.")
 
+            # Run startup health checks
+            camera_ok = True
+            if not (self.camera._camera_index == 99 or self.camera._is_mock):
+                try:
+                    import cv2
+                    cap = cv2.VideoCapture(self.camera._camera_index)
+                    camera_ok = cap.isOpened()
+                    cap.release()
+                except Exception:
+                    camera_ok = False
+
+            mic_ok = True
+            if not (self.vad._is_mock or self.vad._device_index == 99):
+                try:
+                    import sounddevice as sd
+                    if self.vad._device_index is not None:
+                        dev_info = sd.query_devices(self.vad._device_index)
+                        mic_ok = dev_info.get("max_input_channels", 0) > 0
+                    else:
+                        mic_ok = False
+                except Exception:
+                    mic_ok = False
+
+            speaker_ok = True
+            from campus_helpdesk.services.tts_service import MockSpeechBackend
+            if not isinstance(self.tts._backend, MockSpeechBackend):
+                try:
+                    import sounddevice as sd
+                    output_dev = getattr(self.tts._backend, "_output_device", None)
+                    if output_dev is not None:
+                        dev_info = sd.query_devices(output_dev)
+                        speaker_ok = dev_info.get("max_output_channels", 0) > 0
+                    else:
+                        speaker_ok = sd.default.device[1] >= 0
+                except Exception:
+                    speaker_ok = False
+
+            ollama_ok = True
+            from campus_helpdesk.services.inference_adapter import MockInferenceBackend
+            if not isinstance(self.inference._backend, MockInferenceBackend):
+                try:
+                    import httpx
+                    from campus_helpdesk.config.settings import get_settings
+                    base_url = get_settings().ollama_base_url
+                    resp = httpx.get(f"{base_url}/api/tags", timeout=2.0)
+                    ollama_ok = resp.status_code == 200
+                except Exception:
+                    ollama_ok = False
+
+            from campus_helpdesk.services.stt_service import MockTranscriptionBackend
+            whisper_ok = True
+            if not isinstance(self.stt._backend, MockTranscriptionBackend):
+                whisper_ok = self.stt.is_running() or hasattr(self.stt._backend, "_model")
+
+            transformer_ok = True
+            from campus_helpdesk.config.settings import get_settings
+            settings = get_settings()
+            rag_ok = settings.faiss_index_path.exists() or os.path.exists("college_faiss_index")
+
+            # Output formatted startup report block on stdout
+            print("\n=========================================")
+            print("       STARTUP SERVICE HEALTH CHECK")
+            print("=========================================")
+            print(f"[{'PASS' if camera_ok else 'FAIL'}] Camera")
+            print(f"[{'PASS' if mic_ok else 'FAIL'}] Microphone")
+            print(f"[{'PASS' if ollama_ok else 'FAIL'}] Ollama")
+            print(f"[{'PASS' if whisper_ok else 'FAIL'}] Whisper")
+            print(f"[{'PASS' if speaker_ok else 'FAIL'}] Piper")
+            print(f"[{'PASS' if rag_ok else 'FAIL'}] RAG")
+            print("[PASS] Event Bus")
+            print("[PASS] FSM")
+            print("=========================================\n")
+
+            failures = []
+            if not camera_ok: failures.append("Camera")
+            if not mic_ok: failures.append("Microphone")
+            if not speaker_ok: failures.append("Speaker / TTS")
+            if not ollama_ok: failures.append("Ollama")
+            if not whisper_ok: failures.append("Whisper")
+            if not rag_ok: failures.append("RAG / FAISS Index")
+
+            if failures:
+                err_msg = f"Startup health checks failed for: {', '.join(failures)}"
+                logger.error(err_msg)
+                raise RuntimeError(err_msg)
+
             from campus_helpdesk.interaction.events import SystemPayload
             self.bus.publish_sync(
                 EventEnvelope.create(

@@ -119,16 +119,50 @@ class PiperBackend(BaseSpeechBackend):
     ) -> None:
         self._model_path = model_path
         self._config_path = config_path
-        self._output_device = output_device
         self._speed = speed
         self._volume = volume
         self._voice: Any = None
         self._cancel_lock = threading.Lock()
         self._cancelled = False
 
+        # Output speaker device with settings fallback & auto-detection
+        self._output_device = output_device
+        if self._output_device is None:
+            try:
+                from campus_helpdesk.config.settings import get_settings
+                self._output_device = get_settings().speaker_device_index
+            except Exception:
+                pass
+
+        if self._output_device is None:
+            try:
+                import sounddevice as sd
+                default_output = sd.default.device[1]
+                if default_output >= 0:
+                    self._output_device = int(default_output)
+                else:
+                    devices = sd.query_devices()
+                    for idx, dev in enumerate(devices):
+                        if dev.get("max_output_channels", 0) > 0:
+                            self._output_device = idx
+                            break
+            except Exception as e:
+                logger.warning("TTS: Could not auto-detect default output audio device: %s", e)
+
     def load_model(self) -> float:
         t0 = time.perf_counter()
         logger.info("Loading Piper model from %s...", self._model_path)
+
+        if self._output_device is not None:
+            try:
+                import sounddevice as sd
+                dev_info = sd.query_devices(self._output_device)
+                logger.info("TTS Selected Speaker Index %d: %s", self._output_device, dev_info.get("name", "Unknown"))
+            except Exception:
+                logger.info("TTS Selected Speaker Index %d", self._output_device)
+        else:
+            logger.error("TTS: No speaker device selected or available.")
+
         try:
             # Piper import
             import piper

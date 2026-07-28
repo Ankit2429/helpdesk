@@ -4,7 +4,7 @@ from functools import lru_cache
 from pathlib import Path
 from urllib.parse import urlparse
 
-from pydantic import Field, field_validator, model_validator
+from pydantic import AliasChoices, Field, field_validator, model_validator
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
 
@@ -16,6 +16,14 @@ class Settings(BaseSettings):
     app_version: str = "0.1.0"
     stt_device_index: int | None = None
     stt_enable_online_fallback: bool = False
+    mic_device_index: int | None = Field(
+        default=None,
+        validation_alias=AliasChoices("MIC_DEVICE_INDEX", "VAD_DEVICE_INDEX")
+    )
+    speaker_device_index: int | None = Field(
+        default=None,
+        validation_alias=AliasChoices("SPEAKER_DEVICE_INDEX")
+    )
     debug: bool = False
     log_level: str = "INFO"
     ollama_base_url: str = "http://localhost:11434"
