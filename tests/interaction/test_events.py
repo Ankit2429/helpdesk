@@ -44,6 +44,7 @@ from campus_helpdesk.interaction.events import (
     TTSPayload,
     VoicePayload,
     WarningPayload,
+    CameraPayload,
 )
 
 # ---------------------------------------------------------------------------
@@ -589,6 +590,53 @@ class TestTimeoutPayload:
         assert TimeoutPayload.from_dict(p.to_dict()) == p
 
 
+class TestCameraPayload:
+    def test_basic(self) -> None:
+        p = CameraPayload(
+            frame_id="frame-123",
+            timestamp=_now(),
+            resolution="1280x720",
+            frame_number=10,
+            capture_latency_ms=1.5,
+            frame_data=b"dummy",
+        )
+        assert p.frame_number == 10
+        assert p.frame_data == b"dummy"
+
+    def test_invalid_fields_rejected(self) -> None:
+        with pytest.raises(ValueError, match="frame_id"):
+            CameraPayload(
+                frame_id="",
+                timestamp=_now(),
+                resolution="1280x720",
+                frame_number=1,
+                capture_latency_ms=1.0,
+            )
+        with pytest.raises(ValueError, match="timezone-aware"):
+            CameraPayload(
+                frame_id="id",
+                timestamp=datetime(2026, 1, 1),
+                resolution="1280x720",
+                frame_number=1,
+                capture_latency_ms=1.0,
+            )
+
+    def test_round_trip_omits_frame_data(self) -> None:
+        p = CameraPayload(
+            frame_id="frame-uuid",
+            timestamp=_now(),
+            resolution="640x480",
+            frame_number=42,
+            capture_latency_ms=0.8,
+            frame_data=b"image-bytes",
+        )
+        d = p.to_dict()
+        assert "frame_data" not in d
+        restored = CameraPayload.from_dict(d)
+        assert restored.frame_id == p.frame_id
+        assert restored.frame_data is None
+
+
 # ===========================================================================
 # 4. EventEnvelope – construction and validation
 # ===========================================================================
@@ -886,6 +934,7 @@ class TestEventEnvelopeSerialisation:
             (EventType.ERROR, ErrorPayload(service="svc", error_type="E", message="oops")),
             (EventType.WARNING, WarningPayload(service="h", metric="cpu", value=85.0, threshold=80.0, message="high")),
             (EventType.TIMEOUT, TimeoutPayload(state="PROCESSING", timeout_duration_ms=8000, elapsed_ms=8001)),
+            (EventType.FRAME_CAPTURED, CameraPayload(frame_id="fid", timestamp=_now(), resolution="1280x720", frame_number=5, capture_latency_ms=1.2, frame_data=None)),
         ],
     )
     def test_round_trip_all_event_types(

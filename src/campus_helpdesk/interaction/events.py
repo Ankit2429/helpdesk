@@ -293,6 +293,56 @@ class EventType(str, Enum):
     Payload:   :class:`TimeoutPayload`
     """
 
+    # ---- Camera Streaming & Lifecycle ---------------------------------------
+
+    CAMERA_STARTED = "CAMERA_STARTED"
+    """Emitted when the Camera Service starts the background capture loop.
+
+    Producer:  ``camera_service``
+    Consumers: ``ui_service``, ``logging_service``
+    Payload:   :class:`CameraPayload`
+    """
+
+    CAMERA_STOPPED = "CAMERA_STOPPED"
+    """Emitted when the Camera Service cleanly stops the capture loop.
+
+    Producer:  ``camera_service``
+    Consumers: ``ui_service``, ``logging_service``
+    Payload:   :class:`CameraPayload`
+    """
+
+    FRAME_CAPTURED = "FRAME_CAPTURED"
+    """Emitted when a new frame is successfully acquired.
+
+    Producer:  ``camera_service``
+    Consumers: ``person_detector_service``, ``ui_service``
+    Payload:   :class:`CameraPayload`
+    """
+
+    CAMERA_DISCONNECTED = "CAMERA_DISCONNECTED"
+    """Emitted when the camera fails to read and begins auto-reconnect logic.
+
+    Producer:  ``camera_service``
+    Consumers: ``interaction_manager``, ``ui_service``
+    Payload:   :class:`CameraPayload`
+    """
+
+    CAMERA_RECONNECTED = "CAMERA_RECONNECTED"
+    """Emitted when the camera successfully re-establishes connection.
+
+    Producer:  ``camera_service``
+    Consumers: ``interaction_manager``, ``ui_service``
+    Payload:   :class:`CameraPayload`
+    """
+
+    CAMERA_ERROR = "CAMERA_ERROR"
+    """Emitted on unrecoverable camera hardware or API exceptions.
+
+    Producer:  ``camera_service``
+    Consumers: ``interaction_manager``, ``logging_service``
+    Payload:   :class:`CameraPayload`
+    """
+
 
 # ---------------------------------------------------------------------------
 # Priority
@@ -965,6 +1015,80 @@ class TimeoutPayload:
         )
 
 
+@dataclass(frozen=True)
+class CameraPayload:
+    """Payload for camera streaming and lifecycle events.
+
+    Attributes
+    ----------
+    frame_id:
+        Unique UUID identifier for this frame.
+    timestamp:
+        UTC time when the frame was acquired.
+    resolution:
+        Resolution string (e.g. "1280x720").
+    frame_number:
+        Monotonically increasing sequence number for this capture session.
+    capture_latency_ms:
+        Overhead time taken by OpenCV read and frame dispatching in milliseconds.
+    camera_index:
+        System camera index (e.g. 0).
+    status:
+        Optional status description for lifecycle changes (e.g. "Connected").
+    frame_data:
+        Raw bytes (e.g., JPEG/PNG or raw RGB) representing the frame image.
+        This field is excluded from dict/JSON serialization to prevent high copying/parsing overhead.
+    """
+
+    frame_id: str
+    timestamp: datetime
+    resolution: str
+    frame_number: int
+    capture_latency_ms: float
+    camera_index: int = 0
+    status: str | None = None
+    frame_data: bytes | None = None
+
+    def __post_init__(self) -> None:
+        if not self.frame_id:
+            raise ValueError("CameraPayload.frame_id must not be empty.")
+        if self.timestamp.tzinfo is None:
+            raise ValueError("CameraPayload.timestamp must be timezone-aware.")
+        if not self.resolution.strip():
+            raise ValueError("CameraPayload.resolution must not be blank.")
+        if self.frame_number < 0:
+            raise ValueError("CameraPayload.frame_number must be >= 0.")
+        if self.capture_latency_ms < 0:
+            raise ValueError("CameraPayload.capture_latency_ms must be >= 0.")
+        if self.camera_index < 0:
+            raise ValueError("CameraPayload.camera_index must be >= 0.")
+
+    def to_dict(self) -> dict[str, Any]:
+        return {
+            "frame_id": self.frame_id,
+            "timestamp": self.timestamp.isoformat(),
+            "resolution": self.resolution,
+            "frame_number": self.frame_number,
+            "capture_latency_ms": self.capture_latency_ms,
+            "camera_index": self.camera_index,
+            "status": self.status,
+            # frame_data intentionally omitted to keep dict serialisation lightweight
+        }
+
+    @classmethod
+    def from_dict(cls, data: dict[str, Any]) -> "CameraPayload":
+        return cls(
+            frame_id=str(data["frame_id"]),
+            timestamp=datetime.fromisoformat(data["timestamp"]),
+            resolution=str(data["resolution"]),
+            frame_number=int(data["frame_number"]),
+            capture_latency_ms=float(data["capture_latency_ms"]),
+            camera_index=int(data.get("camera_index", 0)),
+            status=data.get("status"),
+            frame_data=None,
+        )
+
+
 # ---------------------------------------------------------------------------
 # Union type alias for all known payload types
 # ---------------------------------------------------------------------------
@@ -982,6 +1106,7 @@ AnyPayload = (
     | ErrorPayload
     | WarningPayload
     | TimeoutPayload
+    | CameraPayload
 )
 
 # Maps EventType → expected payload class for runtime validation.
@@ -1006,6 +1131,12 @@ EVENT_PAYLOAD_MAP: dict[EventType, type] = {
     EventType.ERROR: ErrorPayload,
     EventType.WARNING: WarningPayload,
     EventType.TIMEOUT: TimeoutPayload,
+    EventType.CAMERA_STARTED: CameraPayload,
+    EventType.CAMERA_STOPPED: CameraPayload,
+    EventType.FRAME_CAPTURED: CameraPayload,
+    EventType.CAMERA_DISCONNECTED: CameraPayload,
+    EventType.CAMERA_RECONNECTED: CameraPayload,
+    EventType.CAMERA_ERROR: CameraPayload,
 }
 
 # Maps payload class name string → class, used during deserialisation.
@@ -1024,6 +1155,7 @@ _PAYLOAD_CLASS_MAP: dict[str, type] = {
         ErrorPayload,
         WarningPayload,
         TimeoutPayload,
+        CameraPayload,
     )
 }
 
@@ -1331,6 +1463,7 @@ __all__ = [
     "ErrorPayload",
     "WarningPayload",
     "TimeoutPayload",
+    "CameraPayload",
     # Union alias
     "AnyPayload",
     # Lookup maps
