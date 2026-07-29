@@ -38,6 +38,7 @@ from campus_helpdesk.interaction.events import (
     VoicePayload,
 )
 
+from campus_helpdesk.application.exceptions import AudioError
 logger = logging.getLogger(__name__)
 
 
@@ -313,15 +314,8 @@ class STTService:
             try:
                 self._process_request(event)
             except Exception as exc:
-                logger.exception("STTService: Unhandled exception transcribing frame: %s", exc)
-                # Publish general error
-                self._bus.publish(
-                    event.reply(
-                        event_type=EventType.ERROR,
-                        source=self._name,
-                        payload=None,  # type: ignore[arg-type]
-                    )
-                )
+    logger.error("STTService error: %s", exc)
+    raise AudioError(str(exc))
             finally:
                 self._queue.task_done()
 
@@ -369,23 +363,7 @@ class STTService:
 
         except Exception as exc:
             logger.error("STT transcription failure on file %s: %s", wav_path, exc)
-            
-            # Publish error event to notify InteractionManager/FSM
-            from campus_helpdesk.interaction.events import ErrorPayload
-            self._bus.publish(
-                EventEnvelope.create(
-                    event_type=EventType.ERROR,
-                    source=self._name,
-                    payload=ErrorPayload(
-                        service=self._name,
-                        error_type="TranscriptionError",
-                        message=str(exc),
-                        is_fatal=True,
-                    ),
-                    session_id=event.session_id,
-                    correlation_id=event.event_id,
-                )
-            )
+            raise AudioError(str(exc))
 
     # ─────────────────────────────────────────────────────────────────────────
     # Diagnostics & Status APIs

@@ -40,7 +40,7 @@ import webrtcvad
 from campus_helpdesk.interaction.event_bus import EventBus
 from campus_helpdesk.interaction.events import EventEnvelope, EventType, VoicePayload
 
-logger = logging.getLogger(__name__)
+from campus_helpdesk.application.exceptions import AudioError
 
 
 class VADService:
@@ -197,10 +197,9 @@ class VADService:
                 self._is_mock = False
                 logger.info("Microphone started. Streaming at %d Hz.", self._sample_rate)
             except Exception as exc:
-                logger.warning("Failed to start sounddevice microphone: %s", exc)
+                logger.error("Failed to start microphone: %s", exc)
                 self._stream = None
                 self._microphone_connected = False
-
                 if self._use_mock_fallback:
                     self._is_mock = True
                     self._microphone_connected = True
@@ -213,7 +212,7 @@ class VADService:
                     logger.info("VAD mock microphone fallback running.")
                 else:
                     self._running = False
-                    raise RuntimeError("Failed to initialize VAD audio hardware stream") from exc
+                    raise AudioError(str(exc))
 
             # Start VAD Processing Thread
             self._worker = threading.Thread(

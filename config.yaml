@@ -44,3 +44,25 @@ reranker:
 
 logging:
   level: "INFO"
+
+vision:
+  confidence: 0.95
+  min_hits: 3
+  min_misses: 10
+  queue_maxsize: 1
+  frame_scale_width: 640
+  detection_scale: 1.05
+  detection_win_stride: [8, 8]
+  detection_padding: [16, 16]
+
+audio:
+  stt_non_speaking_duration: 0.8
+  stt_debug: false
+
+vad:
+  sample_rate_options: [8000, 16000, 32000, 48000]
+  frame_duration_options: [10, 20, 30]
+
+tts:
+  dummy_speech_delay: 0.02
+  dummy_speech_min_delay: 0.01

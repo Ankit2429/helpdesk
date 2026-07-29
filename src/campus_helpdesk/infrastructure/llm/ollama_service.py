@@ -8,7 +8,9 @@ from urllib.parse import urlparse
 
 from ollama import Client
 
-from campus_helpdesk.application.exceptions import LLMServiceError
+from campus_helpdesk.application.exceptions import LLMServiceError, ConfigurationError
+import logging
+import time
 
 
 class OllamaClient(Protocol):
@@ -41,7 +43,40 @@ class OllamaChatResponse(Protocol):
 
 
 class OllamaLLMService:
-    """Generate responses through a local Ollama model."""
+    """Generate responses through a local Ollama model.
+
+    All public methods preserve the original signature, but now include retry
+    handling for transient network failures.
+    """
+    # Retry configuration (could be exposed via Settings in future)
+    MAX_RETRIES = 3
+    INITIAL_BACKOFF = 0.2  # seconds
+    BACKOFF_FACTOR = 2.0
+
+    logger = logging.getLogger(__name__)
+
+    def _retry_operation(self, func, *args, **kwargs):
+        """Execute *func* with retry logic for transient failures.
+
+        Retries are performed for generic exceptions raised by the Ollama client.
+        Configuration errors are raised immediately without retry.
+        """
+        backoff = self.INITIAL_BACKOFF
+        for attempt in range(1, self.MAX_RETRIES + 1):
+            try:
+                return func(*args, **kwargs)
+            except ConfigurationError:
+                self.logger.error("Configuration error during Ollama request: %s", func.__name__)
+                raise
+            except Exception as exc:  # pylint: disable=broad-except
+                if attempt == self.MAX_RETRIES:
+                    self.logger.error("Ollama %s failed after %d attempts: %s", func.__name__, attempt, exc)
+                    raise LLMServiceError(f"{type(exc).__name__}: {exc}") from exc
+                else:
+                    self.logger.debug("Retry %d/%d for Ollama %s after error: %s", attempt, self.MAX_RETRIES, func.__name__, exc)
+                    time.sleep(backoff)
+                    backoff *= self.BACKOFF_FACTOR
+        raise LLMServiceError("Unexpected retry exhaustion")
 
     def __init__(
         self,
@@ -61,7 +96,7 @@ class OllamaLLMService:
 
     def generate(self, prompt: str) -> str:
         """Generate a complete response using the configured local model."""
-        try:
+        def _call():
             response = self._client.chat(
                 model=self._model,
                 messages=[{"role": "user", "content": prompt}],
@@ -69,17 +104,15 @@ class OllamaLLMService:
                 stream=False,
             )
             content = response.message.content.strip()
-        except Exception as error:
-            raise LLMServiceError(f"{type(error).__name__}: {error}") from error
+            if not content:
+                raise LLMServiceError("Ollama returned an empty response.")
+            return content
 
-        if not content:
-            raise LLMServiceError("Ollama returned an empty response.")
-
-        return content
+        return self._retry_operation(_call)
 
     def generate_stream(self, prompt: str):
         """Generate a response using the configured local model, yielding chunks as they arrive."""
-        try:
+        def _call():
             response = self._client.chat(
                 model=self._model,
                 messages=[{"role": "user", "content": prompt}],
@@ -90,11 +123,10 @@ class OllamaLLMService:
                 content = chunk.get("message", {}).get("content", "")
                 if content:
                     yield content
-        except Exception as error:
-            raise LLMServiceError(f"{type(error).__name__}: {error}") from error
+        return self._retry_operation(_call)
 
     @staticmethod
     def _validate_base_url(base_url: str) -> None:
         parsed_url = urlparse(base_url)
         if parsed_url.scheme not in {"http", "https"}:
-            raise ValueError("Ollama base URL must use http or https scheme.")
+            raise ConfigurationError("Ollama base URL must use http or https scheme.")

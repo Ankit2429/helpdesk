@@ -33,6 +33,7 @@ from typing import Any
 import cv2
 import numpy as np
 
+from campus_helpdesk.application.exceptions import LLMServiceError, CameraError
 from campus_helpdesk.interaction.event_bus import EventBus
 from campus_helpdesk.interaction.events import CameraPayload, EventEnvelope, EventType
 
@@ -161,7 +162,8 @@ class CameraService:
                 self._is_mock = True
                 return True
 
-            return False
+            logger.error("Camera initialization failed; raising CameraError.")
+            raise CameraError("Failed to initialize camera device.")
 
     def start(self) -> None:
         """Start the background frame capture thread."""
@@ -220,6 +222,7 @@ class CameraService:
             if self._cap is not None:
                 self._cap.release()
                 self._cap = None
+                logger.info("Camera released.")
             self._connected = False
 
             # Publish CAMERA_STOPPED
@@ -268,30 +271,41 @@ class CameraService:
         """Background thread execution loop acquiring frames at target FPS."""
         frame_interval = 1.0 / self._fps
 
-        while not self._stop_event.is_set():
-            t_start = time.perf_counter()
+        try:
+            while not self._stop_event.is_set():
+                t_start = time.perf_counter()
 
-            # Acquire Frame
-            ret, frame = self._read_frame()
+                # Acquire Frame
+                ret, frame = self._read_frame()
 
-            if not ret or frame is None:
-                self._handle_read_failure()
-                # Wait before retry
-                time.sleep(frame_interval)
-                continue
+                if not ret or frame is None:
+                    self._handle_read_failure()
+                    # Wait before retry
+                    time.sleep(frame_interval)
+                    continue
 
-            t_capture = time.perf_counter()
-            latency_ms = (t_capture - t_start) * 1000
-            self._last_capture_latency = latency_ms
+                t_capture = time.perf_counter()
+                latency_ms = (t_capture - t_start) * 1000
+                self._last_capture_latency = latency_ms
 
-            # Handle throttling & publication
-            self._process_and_publish_frame(frame, latency_ms)
+                # Handle throttling & publication
+                self._process_and_publish_frame(frame, latency_ms)
 
-            # Sleep to match target FPS
-            elapsed = time.perf_counter() - t_start
-            sleep_time = frame_interval - elapsed
-            if sleep_time > 0:
-                time.sleep(sleep_time)
+                # Sleep to match target FPS
+                elapsed = time.perf_counter() - t_start
+                sleep_time = frame_interval - elapsed
+                if sleep_time > 0:
+                    time.sleep(sleep_time)
+        finally:
+            # Ensure capture resources are released when the loop exits
+            if not self._is_mock and self._cap is not None:
+                try:
+                    self._cap.release()
+                    logger.info("Camera released in capture loop exit.")
+                except Exception as exc:
+                    logger.error("Error releasing camera in capture loop: %s", exc)
+                self._cap = None
+                self._connected = False
 
     def _read_frame(self) -> tuple[bool, np.ndarray | None]:
         """Read a frame from the CV2 capture device or generate a mock frame."""
@@ -327,6 +341,11 @@ class CameraService:
                 return ret, frame
             except Exception as exc:
                 logger.error("Exception during cv2 read: %s", exc)
+                # Clean up potentially broken capture
+                if self._cap is not None:
+                    self._cap.release()
+                    self._cap = None
+                self._connected = False
                 return False, None
 
     def _process_and_publish_frame(self, frame: np.ndarray, latency_ms: float) -> None:
@@ -409,7 +428,7 @@ class CameraService:
         )
 
         if not self._auto_reconnect:
-            return
+            raise CameraError(f"Camera {self._name} disconnected and auto-reconnect is disabled.")
 
         # Attempt Reconnection Loop
         reconnected = False

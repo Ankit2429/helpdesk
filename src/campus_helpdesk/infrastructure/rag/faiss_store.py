@@ -57,7 +57,8 @@ class FAISSSimilarityStore:
         """Return indexed chunks ordered by FAISS distance score."""
         with self._store_lock:
             if self._store is None:
-                raise RuntimeError("The FAISS index is not loaded. Ingest documents or load an existing index first.")
+                logger.error("Retrieval failed: FAISS index not loaded.")
+                raise RetrievalError("FAISS index not loaded; cannot perform retrieval.")
 
             matches = self._store.similarity_search_with_score(query, k=limit)
             return [
@@ -91,15 +92,23 @@ class FAISSSimilarityStore:
 
         with self._store_lock:
             if not self._index_path.is_dir():
-                raise FileNotFoundError(f"FAISS index directory does not exist: {self._index_path}")
-            self._validate_manifest()
-
-            self._store = FAISS.load_local(
-                str(self._index_path),
-                self._embeddings,
-                allow_dangerous_deserialization=True,
-            )
-            logger.info("FAISS index loaded", extra={"index_path": str(self._index_path)})
+                logger.error("Retrieval failed: FAISS index directory missing.")
+                raise RetrievalError("Missing FAISS index directory.")
+            try:
+                self._validate_manifest()
+            except (ValueError, json.JSONDecodeError) as err:
+                logger.error("Retrieval failed: corrupted FAISS index manifest: %s", err)
+                raise RetrievalError("Corrupted FAISS index manifest.")
+            try:
+                self._store = FAISS.load_local(
+                    str(self._index_path),
+                    self._embeddings,
+                    allow_dangerous_deserialization=True,
+                )
+                logger.info("FAISS index loaded", extra={"index_path": str(self._index_path)})
+            except Exception as err:
+                logger.error("Retrieval failed: error loading FAISS index: %s", err)
+                raise RetrievalError("Failed to load FAISS index.")
 
     def _write_manifest(self) -> None:
         """Record the embedding settings required to interpret this index."""

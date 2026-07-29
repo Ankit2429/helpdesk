@@ -103,13 +103,18 @@ class HybridRetriever:
                 bm25_results = self.bm25_store.search(query, limit=self.bm25_top_k)
             except Exception as err:
                 logger.warning("BM25 search error: %s", err)
+                # Continue; BM25 failure does not abort retrieval
 
         # 2. FAISS Dense Search
         dense_results: list[SearchResult] = []
         try:
             dense_results = self.similarity_store.search(query, limit=self.dense_top_k)
+        except RetrievalError as err:
+            logger.error("FAISS dense search RetrievalError: %s", err)
+            raise  # Propagate to caller for handling
         except Exception as err:
-            logger.warning("FAISS dense search error: %s", err)
+            logger.warning("FAISS dense search unexpected error: %s", err)
+            # Continue with empty dense_results
 
         # 3. Reciprocal Rank Fusion (RRF)
         rrf_scores: dict[str, float] = {}
@@ -162,5 +167,10 @@ class HybridRetriever:
                 for idx, h in enumerate(top_hashes)
             ],
         }
+
+        # If both sources failed to provide results, raise a RetrievalError
+        if not fused_results:
+            logger.error("Hybrid retrieval produced no results; both BM25 and FAISS may have failed.")
+            raise RetrievalError("Hybrid retrieval failed to return any results.")
 
         return fused_results, stats

@@ -286,7 +286,7 @@ class EventBus:
         bus = EventBus()
 
         def on_person(event: EventEnvelope) -> None:
-            print("Person detected:", event.payload.confidence)
+            logger.info("Person detected: %s", event.payload.confidence)
 
         handle = bus.subscribe(
             on_person,

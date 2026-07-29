@@ -48,52 +48,43 @@ class IngestService:
 
         pdf_files = list(Path(documents_path).glob("*.pdf"))
 
+        import time
+        logger = logging.getLogger(__name__)
         if not pdf_files:
             raise FileNotFoundError(
                 f"No PDF files found in {documents_path}"
             )
 
         all_chunks: List[str] = []
-
+        start_time = time.perf_counter()
         for pdf in pdf_files:
-            print(f"Loading: {pdf.name}")
-
+            logger.info("Loading PDF: %s", pdf.name)
             text = self.pdf_loader.load(str(pdf))
-
             chunks = self.text_chunker.chunk(text)
-
             all_chunks.extend(chunks)
-
-        print(f"Total Chunks: {len(all_chunks)}")
-
+        logger.info("Total chunks collected: %d", len(all_chunks))
         embeddings = self.embedding_model.encode(all_chunks)
-
         self.vector_store.create(
             texts=all_chunks,
             embeddings=embeddings,
         )
-
         self.vector_store.save()
-
-        print("Vector database created successfully.")
-
+        elapsed_ms = (time.perf_counter() - start_time) * 1000
+        logger.info("Vector database created successfully in %.2f ms", elapsed_ms)
     def ingest_single_pdf(self, pdf_path: str) -> None:
         """
         Build the index from a single PDF.
         """
-
+        import time
+        logger = logging.getLogger(__name__)
+        start_time = time.perf_counter()
         text = self.pdf_loader.load(pdf_path)
-
         chunks = self.text_chunker.chunk(text)
-
         embeddings = self.embedding_model.encode(chunks)
-
         self.vector_store.create(
             texts=chunks,
             embeddings=embeddings,
         )
-
         self.vector_store.save()
-
-        print("Vector database created successfully.")
-        
+        elapsed_ms = (time.perf_counter() - start_time) * 1000
+        logger.info("Vector database created successfully for %s in %.2f ms", pdf_path, elapsed_ms)        

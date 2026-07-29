@@ -69,6 +69,25 @@ class Settings(BaseSettings):
 
     model_config = SettingsConfigDict(env_file=".env", env_file_encoding="utf-8", extra="ignore")
 
+    # New configuration fields added for Phase 1 cleanup
+    vision_confidence: float = 0.95
+    vision_min_hits: int = 3
+    vision_min_misses: int = 10
+    vision_queue_maxsize: int = 1
+    vision_frame_scale_width: int = 640
+    vision_detection_scale: float = 1.05
+    vision_detection_win_stride: list[int] = Field(default_factory=lambda: [8, 8])
+    vision_detection_padding: list[int] = Field(default_factory=lambda: [16, 16])
+
+    audio_stt_non_speaking_duration: float = 0.8
+    audio_stt_debug: bool = False
+
+    vad_sample_rate_options: list[int] = Field(default_factory=lambda: [8000, 16000, 32000, 48000])
+    vad_frame_duration_options: list[int] = Field(default_factory=lambda: [10, 20, 30])
+
+    tts_dummy_speech_delay: float = 0.02
+    tts_dummy_speech_min_delay: float = 0.01
+
     @field_validator(
         "embedding_batch_size",
         "knowledge_max_file_size_bytes",

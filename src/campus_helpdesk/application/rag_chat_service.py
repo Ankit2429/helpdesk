@@ -35,26 +35,24 @@ class RAGChatService(ChatService):
         self,
         llm_service: LLMService,
         rag_pipeline: RAGPipeline | None = None,
-        distance_threshold: float = 2.0,
-        max_context_size: int = 3000,
-        system_prompt: str = DEFAULT_SYSTEM_PROMPT,
+        query_rewriter: QueryRewriter | None = None,
+        context_builder: PromptContextBuilder | None = None,
         session_manager: SessionManager | None = None,
         confidence_engine: ConfidenceEngine | None = None,
+        system_prompt: str = DEFAULT_SYSTEM_PROMPT,
+        answerability_engine: AnswerabilityEngine | None = None,
     ) -> None:
         self._llm_service = llm_service
         self._rag_pipeline = rag_pipeline
-        self._distance_threshold = distance_threshold
-        self._system_prompt = system_prompt
-        self._context_builder = PromptContextBuilder(
-            max_context_size=max_context_size,
-            similarity_threshold=distance_threshold,
-        )
+        self._query_rewriter = query_rewriter or QueryRewriter()
+        self._context_builder = context_builder
         self.session_manager = session_manager or SessionManager()
-        self._query_rewriter = QueryRewriter()
         self.confidence_engine = confidence_engine or ConfidenceEngine()
+        self._system_prompt = system_prompt
+        self._answerability_engine = answerability_engine or AnswerabilityEngine()
 
     def respond(self, message: str, session_id: str = "default") -> ChatResult:
-        """Process user message through RAG retrieval, evaluate confidence, and generate answer via local LLM."""
+        """Process user message through RAG retrieval, evaluate confidence, and generate answer via local LLM. User input is sanitized to prevent prompt injection."""
         if not message.strip():
             return ChatResult(reply="I am listening. How can I help you?", status="completed")
 
@@ -63,27 +61,52 @@ class RAGChatService(ChatService):
         
         # Format history string for query rewriting
         history_str = "\n".join([f"{msg['role']}: {msg['content']}" for msg in history])
-        search_query = self._query_rewriter.rewrite(message, history_str)
+        # Sanitize user input before rewrite
+        from campus_helpdesk.services.prompt_sanitizer import sanitize_user_input
+        safe_message = sanitize_user_input(message)
+        search_query = self._query_rewriter.rewrite(safe_message, history_str)
 
         context_str = ""
         confidence_assessment: ConfidenceAssessment | None = None
         search_results = []
         
+        # Retrieve RAG results and attempt to build context. If context is empty (e.g., all results exceed distance threshold),
+        # we fallback to using the LLM without answerability gating.
         if self._rag_pipeline is not None:
             try:
                 search_results = self._rag_pipeline.search(search_query)
                 if search_results:
                     confidence_assessment = self.confidence_engine.evaluate(search_results)
                     context_str = self._context_builder.build_context(search_results, confidence_assessment)
-                    if not context_str:
-                        logger.info(
-                            "All search results exceeded similarity distance threshold (%f). Skipping RAG context.",
-                            self._distance_threshold,
-                        )
             except Exception as err:
                 logger.warning(f"RAG context retrieval exception: {err}")
+        
+        # Determine if we have usable RAG context
+        rag_context_available = bool(context_str)
+        if not rag_context_available:
+            # No RAG context, directly generate response via LLM
+            parts = [self._system_prompt]
+            if history:
+                parts.append("History:\n" + history_str)
+            parts.append(f"User Question: {safe_message}")
+            prompt = "\n\n".join(parts)
+            reply = self._llm_service.generate(prompt)
+            # Record conversation and return early
+            memory.add_message("user", message)
+            memory.add_message("assistant", reply)
+            score = confidence_assessment.confidence_score if confidence_assessment else 1.0
+            level = confidence_assessment.confidence_level if confidence_assessment else "HIGH"
+            sources = confidence_assessment.supporting_sources if confidence_assessment else []
+            return ChatResult(
+                reply=reply,
+                status="completed",
+                confidence_score=score,
+                confidence_level=level,
+                supporting_sources=sources,
+            )
 
         # Check answerability before sending to LLM
+        # This block is now unreachable when RAG context is unavailable because early return handled above.
         confidence_level = confidence_assessment.confidence_level if confidence_assessment else "LOW"
         answerability = AnswerabilityEngine.evaluate_answerability(
             message, 
@@ -132,28 +155,44 @@ class RAGChatService(ChatService):
         memory = self.session_manager.get_or_create_session(session_id)
         history = memory.get_messages()
         history_str = "\n".join([f"{msg['role']}: {msg['content']}" for msg in history])
-        search_query = self._query_rewriter.rewrite(message, history_str)
+        from campus_helpdesk.services.prompt_sanitizer import sanitize_user_input
+        safe_message = sanitize_user_input(message)
+        search_query = self._query_rewriter.rewrite(safe_message, history_str)
 
         context_str = ""
         if self._rag_pipeline is not None:
             try:
+                # Retrieve RAG results and try to build context. If no context, fallback to LLM directly.
                 search_results = self._rag_pipeline.search(search_query)
                 if search_results:
                     context_str = self._context_builder.build_context(search_results)
-                    if not context_str:
-                        logger.info(
-                            "All search results exceeded similarity distance threshold (%f). Skipping RAG context.",
-                            self._distance_threshold,
-                        )
             except Exception as err:
                 logger.warning(f"RAG context retrieval exception: {err}")
+
+        rag_context_available = bool(context_str)
+        if not rag_context_available:
+            # No RAG context, generate via LLM directly
+            parts = [self._system_prompt]
+            if history:
+                parts.append("History:\n" + history_str)
+            parts.append(f"User Question: {message}")
+            prompt = "\n\n".join(parts)
+            reply = self._llm_service.generate(prompt)
+            # Record and yield tokens after full reply
+            full_reply = reply
+            memory.add_message("user", message)
+            memory.add_message("assistant", full_reply)
+            for token in self._llm_service.generate_stream(prompt):
+                yield token
+            return
+
 
         parts = [self._system_prompt]
         if history:
             parts.append("History:\n" + history_str)
         if context_str:
             parts.append(f"Context:\n{context_str}")
-        parts.append(f"User Question: {message}")
+        parts.append(f"User Question: {safe_message}")
 
         prompt = "\n\n".join(parts)
         full_reply_tokens = []

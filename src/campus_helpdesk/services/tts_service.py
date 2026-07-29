@@ -38,6 +38,7 @@ from campus_helpdesk.interaction.events import (
     TTSPayload,
 )
 
+from campus_helpdesk.application.exceptions import AudioError
 logger = logging.getLogger(__name__)
 
 
@@ -431,6 +432,7 @@ class TTSService:
 
         # Synthesis callback closure to publish TTS_STARTED
         def on_start() -> None:
+            logger.info("Playback started for text: %s", text_to_speak)
             self._bus.publish(
                 EventEnvelope.create(
                     event_type=EventType.TTS_STARTED,

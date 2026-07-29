@@ -31,16 +31,54 @@ class SentenceTransformerEmbeddings(Embeddings):
         """Embed document text in batches using the local model."""
         if not texts:
             return []
+        # Use the unified encode method which handles caching and batch processing.
+        return self.encode(texts)
 
-        with self._model_lock:
-            vectors = self._get_model().encode(
-                texts,
+    # Legacy cached method retained for compatibility but not used in the new implementation.
+    @lru_cache(maxsize=128)
+    def _cached_encode(self, text: str) -> List[float]:
+        """Internal cached encode for a single text string (fallback)."""
+        if self._model is None:
+            self._model = self._get_model()
+        return self._model.encode([text], normalize_embeddings=self._normalize_embeddings)[0].astype(float).tolist()
+
+    def encode(self, texts: List[str]) -> List[List[float]]:
+        """Encode a list of strings into embeddings with manual caching.
+
+        This implementation caches individual text embeddings in an internal
+        dictionary ``self._cache``. Uncached texts are encoded in a single batch
+        to minimise model calls, then stored in the cache for future reuse.
+        """
+        # Ensure the cache dict exists
+        if not hasattr(self, "_cache"):
+            self._cache = {}
+        results: List[List[float]] = []
+        uncached_texts: List[str] = []
+        uncached_indices: List[int] = []
+        for idx, txt in enumerate(texts):
+            if txt in self._cache:
+                results.append(self._cache[txt])
+            else:
+                # placeholder, will fill later
+                results.append([])  # type: ignore
+                uncached_texts.append(txt)
+                uncached_indices.append(idx)
+        # Batch encode any uncached texts
+        if uncached_texts:
+            model = self._get_model()
+            batch_embeddings = model.encode(
+                uncached_texts,
                 batch_size=self._batch_size,
                 show_progress_bar=self._show_progress,
                 normalize_embeddings=self._normalize_embeddings,
                 convert_to_numpy=True,
             )
-        return [vector.astype(float).tolist() for vector in vectors]
+            for i, emb in enumerate(batch_embeddings):
+                emb_list = emb.astype(float).tolist()
+                txt = uncached_texts[i]
+                self._cache[txt] = emb_list
+                results[uncached_indices[i]] = emb_list
+        return results
 
     def embed_query(self, text: str) -> list[float]:
         """Embed one similarity-search query."""

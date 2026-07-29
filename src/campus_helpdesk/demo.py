@@ -73,27 +73,15 @@ def main() -> None:
         logger.warning(f"Could not load vector store index: {e}")
 
     # 2. Initialize LLM & Chat Services
-    ollama_host = os.getenv("OLLAMA_HOST", settings.ollama_base_url)
-    print(f"OLLAMA_HOST: {ollama_host}")
-    print(f"OLLAMA_MODEL: {settings.ollama_model}")
-
-    llm_service = OllamaLLMService(
-        base_url=settings.ollama_base_url,
-        model=settings.ollama_model,
-        timeout_seconds=settings.ollama_timeout_seconds,
-        generation_options=settings.ollama_options,
-    )
-
-    client = llm_service._client
-
+    logger.info("OLLAMA_HOST: %s", ollama_host)
+    logger.info("OLLAMA_MODEL: %s", settings.ollama_model)
     # Verify Ollama connection with client.list()
     try:
         client.list()
-        print("Ollama connection verified.")
+        logger.info("Ollama connection verified.")
     except Exception as exc:
         logger.error(f"client.list() failed: {exc}")
         raise
-
     # Test client.chat(...) with exact client object used by application
     try:
         client.chat(
@@ -120,12 +108,9 @@ def main() -> None:
             f"  Request URL: {request_url}"
         )
         raise
-
     # Verify by asking: "What is your name?" before launching the GUI
     name_response = llm_service.generate("What is your name?")
-
     logger.info(f"Ollama verification response: {name_response}")
-    print(f"Ollama verification response: {name_response}")
 
     chat_service = RAGChatService(
         llm_service=llm_service,
