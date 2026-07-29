@@ -1,10 +1,10 @@
 {
-  "documents_processed": 547,
-  "chunks_generated": 4176,
-  "average_chunk_size": 657.75,
-  "largest_chunk": 2302,
-  "smallest_chunk": 5,
-  "merged_sections": 13,
+  "documents_processed": 398,
+  "chunks_generated": 3339,
+  "average_chunk_size": 726.79,
+  "largest_chunk": 18139,
+  "smallest_chunk": 2,
+  "merged_sections": 11,
   "tables_preserved": 343,
   "errors": 0
 }

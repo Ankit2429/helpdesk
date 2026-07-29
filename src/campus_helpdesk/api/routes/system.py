@@ -224,3 +224,24 @@ def health(request: Request) -> HealthResponse:
         memory=memory_info,
     )
 
+@router.get("/ready", status_code=200)
+def ready(request: Request):
+    """Check readiness of FAISS, BM25, and Ollama services."""
+    settings = getattr(request.app.state, "settings", None)
+    ollama_url = getattr(settings, "ollama_base_url", "http://localhost:11434")
+    
+    # Check Ollama
+    try:
+        r = httpx.get(f"{ollama_url}/api/tags", timeout=2.0)
+        if r.status_code != 200:
+            return JSONResponse(status_code=503, content={"status": "not_ready", "detail": "Ollama service unhealthy"})
+    except Exception:
+        return JSONResponse(status_code=503, content={"status": "not_ready", "detail": "Ollama service unreachable"})
+        
+    # Check FAISS
+    faiss_path = getattr(settings, "faiss_index_path", Path("data/faiss"))
+    if not faiss_path.exists() or not (faiss_path / "index.faiss").exists():
+        return JSONResponse(status_code=503, content={"status": "not_ready", "detail": "FAISS index missing"})
+        
+    return {"status": "ready", "detail": "All services healthy and loaded."}
+

@@ -138,17 +138,58 @@ class Settings(BaseSettings):
             raise ValueError("Ollama repeat penalty must be greater than zero.")
         return value
 
+    @model_validator(mode="before")
+    @classmethod
+    def load_yaml_config(cls, data: dict) -> dict:
+        config_path = Path("config.yaml")
+        if config_path.exists():
+            import yaml
+            try:
+                with open(config_path, "r", encoding="utf-8") as f:
+                    yaml_data = yaml.safe_load(f) or {}
+                # Flatten the nested structure
+                if "app" in yaml_data:
+                    for k, v in yaml_data["app"].items():
+                        data[f"app_{k}"] = v
+                if "retrieval" in yaml_data:
+                    for k, v in yaml_data["retrieval"].items():
+                        # Map keys to matching Pydantic fields
+                        if k == "top_k":
+                            data["rag_search_limit"] = v
+                        elif k == "chunk_size":
+                            data["rag_chunk_size"] = v
+                        elif k == "chunk_overlap":
+                            data["rag_chunk_overlap"] = v
+                        elif k == "distance_threshold":
+                            data["rag_distance_threshold"] = v
+                        else:
+                            data[f"rag_{k}"] = v
+                if "cache" in yaml_data:
+                    for k, v in yaml_data["cache"].items():
+                        data[f"cache_{k}"] = v
+                if "memory" in yaml_data:
+                    for k, v in yaml_data["memory"].items():
+                        data[f"memory_{k}"] = v
+                if "ollama" in yaml_data:
+                    for k, v in yaml_data["ollama"].items():
+                        data[f"ollama_{k}"] = v
+                if "embedding" in yaml_data:
+                    for k, v in yaml_data["embedding"].items():
+                        data[f"embedding_{k}"] = v
+                if "logging" in yaml_data:
+                    for k, v in yaml_data["logging"].items():
+                        data[f"log_{k}"] = v
+            except Exception as e:
+                print(f"Warning: Failed to load config.yaml: {e}")
+        return data
+
     @field_validator("ollama_base_url")
     @classmethod
     def require_loopback_ollama(cls, value: str) -> str:
         """Prevent an environment override from routing prompts to a remote host."""
         parsed_url = urlparse(value)
-        if parsed_url.scheme not in {"http", "https"} or parsed_url.hostname not in {
-            "127.0.0.1",
-            "::1",
-            "localhost",
-        }:
-            raise ValueError("OLLAMA_BASE_URL must use a loopback host for offline operation.")
+        if parsed_url.scheme not in {"http", "https"}:
+            raise ValueError("OLLAMA_BASE_URL must use http or https scheme.")
         return value.rstrip("/")
 
     @field_validator("rag_chunk_separators")

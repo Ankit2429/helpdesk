@@ -7,6 +7,7 @@ class ChatRequest(BaseModel):
     """A single user message submitted to the helpdesk."""
 
     message: str = Field(min_length=1, max_length=4_000)
+    session_id: str = Field(default="default", description="Active conversation session identifier.")
 
 
 class ChatResponse(BaseModel):

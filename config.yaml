@@ -1,0 +1,46 @@
+# Campus Helpdesk Configuration
+
+app:
+  env: "development"
+  name: "Campus Helpdesk"
+  version: "1.0.0"
+
+retrieval:
+  top_k: 50
+  rerank_k: 5
+  confidence_threshold: 0.75
+  answerability_threshold: 0.70
+  distance_threshold: 2.0
+  chunk_size: 800
+  chunk_overlap: 120
+
+cache:
+  ttl_seconds: 7200
+
+memory:
+  max_history_turns: 3
+  max_context_words: 1500
+
+ollama:
+  base_url: "http://localhost:11434"
+  model: "qwen2.5:1.5b"
+  timeout_seconds: 180.0
+  temperature: 0.0
+  top_p: 0.8
+  top_k: 40
+  context_window: 512
+  max_output_tokens: 256
+
+embedding:
+  model: "sentence-transformers/all-MiniLM-L6-v2"
+  device: "cpu"
+  batch_size: 32
+  normalize: true
+
+reranker:
+  enabled: true
+  model: "cross-encoder/ms-marco-MiniLM-L-6-v2"
+  top_n: 10
+
+logging:
+  level: "INFO"

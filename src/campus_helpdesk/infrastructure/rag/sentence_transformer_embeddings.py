@@ -46,6 +46,10 @@ class SentenceTransformerEmbeddings(Embeddings):
         """Embed one similarity-search query."""
         return self.embed_documents([text])[0]
 
+    def embed_text(self, text: str) -> list[float]:
+        """Embed a single piece of text (compatibility alias for embed_query)."""
+        return self.embed_query(text)
+
     def _get_model(self) -> SentenceTransformer:
         """Load the configured local model only when embeddings are first requested."""
         if self._model is None:

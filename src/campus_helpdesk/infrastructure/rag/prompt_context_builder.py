@@ -59,12 +59,15 @@ class PromptContextBuilder:
                 "Header 2",
                 doc.metadata.get("Header 3", doc.metadata.get("category", "")),
             )
+            source_url = doc.metadata.get("source_url", "")
 
             header_parts = [f"Source: {source}"]
             if title and title != ".":
                 header_parts.append(f"Title: {title}")
             if section and section != ".":
                 header_parts.append(f"Section: {section}")
+            if source_url:
+                header_parts.append(f"URL: {source_url}")
 
             meta_header = f"[{' | '.join(header_parts)}]"
             block = f"{meta_header}\n{doc.content.strip()}"

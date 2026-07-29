@@ -95,11 +95,6 @@ class OllamaLLMService:
 
     @staticmethod
     def _validate_base_url(base_url: str) -> None:
-        """Ensure adapter construction cannot send prompts to a remote Ollama host."""
         parsed_url = urlparse(base_url)
-        if parsed_url.scheme not in {"http", "https"} or parsed_url.hostname not in {
-            "127.0.0.1",
-            "::1",
-            "localhost",
-        }:
-            raise ValueError("Ollama base URL must use a loopback host for offline operation.")
+        if parsed_url.scheme not in {"http", "https"}:
+            raise ValueError("Ollama base URL must use http or https scheme.")

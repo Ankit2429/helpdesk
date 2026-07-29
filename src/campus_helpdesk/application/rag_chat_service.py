@@ -4,12 +4,14 @@ import logging
 
 from campus_helpdesk.application.chat_models import ChatResult
 from campus_helpdesk.application.chat_service import ChatService
-from campus_helpdesk.application.conversation_manager import ConversationManager
+from campus_helpdesk.application.session_manager import SessionManager
 from campus_helpdesk.application.llm_service import LLMService
 from campus_helpdesk.application.query_rewriter import QueryRewriter
 from campus_helpdesk.application.rag_pipeline import RAGPipeline
 from campus_helpdesk.infrastructure.rag.confidence_engine import ConfidenceAssessment, ConfidenceEngine
 from campus_helpdesk.infrastructure.rag.prompt_context_builder import PromptContextBuilder
+from campus_helpdesk.services.answerability_engine import AnswerabilityEngine
+from campus_helpdesk.services.citation_validator import CitationValidator
 
 logger = logging.getLogger(__name__)
 
@@ -36,7 +38,7 @@ class RAGChatService(ChatService):
         distance_threshold: float = 2.0,
         max_context_size: int = 3000,
         system_prompt: str = DEFAULT_SYSTEM_PROMPT,
-        conversation_manager: ConversationManager | None = None,
+        session_manager: SessionManager | None = None,
         confidence_engine: ConfidenceEngine | None = None,
     ) -> None:
         self._llm_service = llm_service
@@ -47,7 +49,7 @@ class RAGChatService(ChatService):
             max_context_size=max_context_size,
             similarity_threshold=distance_threshold,
         )
-        self.conversation_manager = conversation_manager or ConversationManager()
+        self.session_manager = session_manager or SessionManager()
         self._query_rewriter = QueryRewriter()
         self.confidence_engine = confidence_engine or ConfidenceEngine()
 
@@ -56,12 +58,17 @@ class RAGChatService(ChatService):
         if not message.strip():
             return ChatResult(reply="I am listening. How can I help you?", status="completed")
 
-        history = self.conversation_manager.get_recent_history(session_id)
-        search_query = self._query_rewriter.rewrite(message, history)
-        history_prompt = self.conversation_manager.format_history_prompt(session_id)
+        memory = self.session_manager.get_or_create_session(session_id)
+        history = memory.get_messages()
+        
+        # Format history string for query rewriting
+        history_str = "\n".join([f"{msg['role']}: {msg['content']}" for msg in history])
+        search_query = self._query_rewriter.rewrite(message, history_str)
 
         context_str = ""
         confidence_assessment: ConfidenceAssessment | None = None
+        search_results = []
+        
         if self._rag_pipeline is not None:
             try:
                 search_results = self._rag_pipeline.search(search_query)
@@ -76,19 +83,33 @@ class RAGChatService(ChatService):
             except Exception as err:
                 logger.warning(f"RAG context retrieval exception: {err}")
 
-        parts = [self._system_prompt]
-        if history_prompt:
-            parts.append(history_prompt)
-        if context_str:
-            parts.append(f"Context:\n{context_str}")
-        parts.append(f"User Question: {message}")
+        # Check answerability before sending to LLM
+        confidence_level = confidence_assessment.confidence_level if confidence_assessment else "LOW"
+        answerability = AnswerabilityEngine.evaluate_answerability(
+            message, 
+            [res.document for res in search_results], 
+            confidence_level
+        )
+        
+        if answerability == "Insufficient":
+            reply = FALLBACK_NO_INFO_REPLY
+        else:
+            parts = [self._system_prompt]
+            if history:
+                parts.append("History:\n" + history_str)
+            if context_str:
+                parts.append(f"Context:\n{context_str}")
+            parts.append(f"User Question: {message}")
 
-        prompt = "\n\n".join(parts)
-        reply = self._llm_service.generate(prompt)
+            prompt = "\n\n".join(parts)
+            reply = self._llm_service.generate(prompt)
+            
+            # Post-validate citations
+            reply = CitationValidator.validate_citations(reply, [res.document for res in search_results])
 
         # Record conversation turns
-        self.conversation_manager.add_user_message(message, session_id)
-        self.conversation_manager.add_assistant_message(reply, session_id)
+        memory.add_message("user", message)
+        memory.add_message("assistant", reply)
 
         score = confidence_assessment.confidence_score if confidence_assessment else 1.0
         level = confidence_assessment.confidence_level if confidence_assessment else "HIGH"
@@ -108,9 +129,10 @@ class RAGChatService(ChatService):
             yield "I am listening. How can I help you?"
             return
 
-        history = self.conversation_manager.get_recent_history(session_id)
-        search_query = self._query_rewriter.rewrite(message, history)
-        history_prompt = self.conversation_manager.format_history_prompt(session_id)
+        memory = self.session_manager.get_or_create_session(session_id)
+        history = memory.get_messages()
+        history_str = "\n".join([f"{msg['role']}: {msg['content']}" for msg in history])
+        search_query = self._query_rewriter.rewrite(message, history_str)
 
         context_str = ""
         if self._rag_pipeline is not None:
@@ -127,8 +149,8 @@ class RAGChatService(ChatService):
                 logger.warning(f"RAG context retrieval exception: {err}")
 
         parts = [self._system_prompt]
-        if history_prompt:
-            parts.append(history_prompt)
+        if history:
+            parts.append("History:\n" + history_str)
         if context_str:
             parts.append(f"Context:\n{context_str}")
         parts.append(f"User Question: {message}")
@@ -140,10 +162,11 @@ class RAGChatService(ChatService):
             yield token
 
         full_reply = "".join(full_reply_tokens)
-        self.conversation_manager.add_user_message(message, session_id)
-        self.conversation_manager.add_assistant_message(full_reply, session_id)
+        memory.add_message("user", message)
+        memory.add_message("assistant", full_reply)
 
     def clear_history(self, session_id: str = "default") -> None:
         """Reset conversation memory for a given session."""
-        self.conversation_manager.reset_session(session_id)
+        memory = self.session_manager.get_or_create_session(session_id)
+        memory.clear()
 
