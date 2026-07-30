@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "question": "Do companies visit this college for placement?",
+    "expected_answer": "**Source URL:** https://www.kletech.ac.in/placements/about-placements\n\nTexas Instruments has selected 13 students by offering a salary package\n\nof 28 Lakhs\n\nAmazon Web Service has selected 32 students by offering a salary package\n\nof 26.35 LPA\n\nAmagi has selected 3 students by offering a salary package of 18.17\n\nLPA\n\nApplied Materials has selected 4 students by offering a salary package of 16.29 LPA\n\nJuniper Networks has selected 11 students by offering a salary package of 14 Lakhs\n\nInformatica has selected 3 students by offering a salary package of 11.92 LPA\n\nABB has selected 3 students by offering a salary package of 10.8\n\nLPA\n\nToshiba has selected 11 students by offering a salary package of 10.5 LPA\n\nVisteon has selected 19 students\n\nAccenture has selected 118 students\n\nInfosys has selected 112 students\n\nCognizant has selected 46 students\n\nAmazon SDE has offered a salary package of 46.38 LPA and\n\nselected 1 CSE student\n\nTexas Instruments has selected 9 students offering a salary\n\npackage of 28\n\nLPA\n\nAmazon Web Services has selected 13 students offering a\n\nsalary package of 26 LPA\n\nMercedes Benz R&D India has selected 46 students\n\noffering a salary package of 10 LPA\n\nSamsung Semiconductors India Research has selected 2 students offering a salary\n\npackage of 21 LPA\n\nJuniper Networks has selected 11 students offering a salary\n\npackage of 14\n\nLPA\n\nApplied Materials has selected 11 students offering a salary\n\npackage of 13.75 LPA\n\nDeloitte has selected 56 students\n\nTCS has selected 62 students\n\nBosch (BGSW) has selected 30 students\n\nVisteon has selected 30 students\n\nTata Elxsi has selected 48 students\n\nDassault Systemes has selected 18 students\n\nBosch Global Software has selected 249 students\n\nAmazon Web Services has selected 21 students offering a salary package\n\nof  21.83 Lakhs\n\nAmagi has selected 2 students offering a package of 33 Lakhs\n\nMercedes Benz R&D India has selected 37 students\n\nDeloitte has selected 45 students\n\nCognizant has selected 125 students.",
+    "expected_document": "about_placements_2914e0.md",
+    "category": "Placement",
+    "section": "About Placements",
+    "source_heading": "About Placements",
+    "keywords": [
+      "httpswwwkletechacinplacementsaboutplacements",
+      "texas",
+      "instruments",
+      "selected",
+      "students",
+      "offering"
+    ],
+    "difficulty": "easy",
+    "perspective": "parent accompanying student"
+  },
+  {
+    "id": 2,
+    "question": "Which companies recruit students from here?",
+    "expected_answer": "**Source URL:** https://www.kletech.ac.in/placements/about-placements\n\nTexas Instruments has selected 13 students by offering a salary package\n\nof 28 Lakhs\n\nAmazon Web Service has selected 32 students by offering a salary package\n\nof 26.35 LPA\n\nAmagi has selected 3 students by offering a salary package of 18.17\n\nLPA\n\nApplied Materials has selected 4 students by offering a salary package of 16.29 LPA\n\nJuniper Networks has selected 11 students by offering a salary package of 14 Lakhs\n\nInformatica has selected 3 students by offering a salary package of 11.92 LPA\n\nABB has selected 3 students by offering a salary package of 10.8\n\nLPA\n\nToshiba has selected 11 students by offering a salary package of 10.5 LPA\n\nVisteon has selected 19 students\n\nAccenture has selected 118 students\n\nInfosys has selected 112 students\n\nCognizant has selected 46 students\n\nAmazon SDE has offered a salary package of 46.38 LPA and\n\nselected 1 CSE student\n\nTexas Instruments has selected 9 students offering a salary\n\npackage of 28\n\nLPA\n\nAmazon Web Services has selected 13 students offering a\n\nsalary package of 26 LPA\n\nMercedes Benz R&D India has selected 46 students\n\noffering a salary package of 10 LPA\n\nSamsung Semiconductors India Research has selected 2 students offering a salary\n\npackage of 21 LPA\n\nJuniper Networks has selected 11 students offering a salary\n\npackage of 14\n\nLPA\n\nApplied Materials has selected 11 students offering a salary\n\npackage of 13.75 LPA\n\nDeloitte has selected 56 students\n\nTCS has selected 62 students\n\nBosch (BGSW) has selected 30 students\n\nVisteon has selected 30 students\n\nTata Elxsi has selected 48 students\n\nDassault Systemes has selected 18 students\n\nBosch Global Software has selected 249 students\n\nAmazon Web Services has selected 21 students offering a salary package\n\nof  21.83 Lakhs\n\nAmagi has selected 2 students offering a package of 33 Lakhs\n\nMercedes Benz R&D India has selected 37 students\n\nDeloitte has selected 45 students\n\nCognizant has selected 125 students.",
+    "expected_document": "about_placements_2914e0.md",
+    "category": "Placement",
+    "section": "About Placements",
+    "source_heading": "About Placements",
+    "keywords": [
+      "httpswwwkletechacinplacementsaboutplacements",
+      "texas",
+      "instruments",
+      "selected",
+      "students",
+      "offering"
+    ],
+    "difficulty": "medium",
+    "perspective": "prospective student"
+  },
+  {
+    "id": 3,
+    "question": "What is the placement percentage?",
+    "expected_answer": "**Source URL:** https://www.kletech.ac.in/placements/about-placements\n\nTexas Instruments has selected 13 students by offering a salary package\n\nof 28 Lakhs\n\nAmazon Web Service has selected 32 students by offering a salary package\n\nof 26.35 LPA\n\nAmagi has selected 3 students by offering a salary package of 18.17\n\nLPA\n\nApplied Materials has selected 4 students by offering a salary package of 16.29 LPA\n\nJuniper Networks has selected 11 students by offering a salary package of 14 Lakhs\n\nInformatica has selected 3 students by offering a salary package of 11.92 LPA\n\nABB has selected 3 students by offering a salary package of 10.8\n\nLPA\n\nToshiba has selected 11 students by offering a salary package of 10.5 LPA\n\nVisteon has selected 19 students\n\nAccenture has selected 118 students\n\nInfosys has selected 112 students\n\nCognizant has selected 46 students\n\nAmazon SDE has offered a salary package of 46.38 LPA and\n\nselected 1 CSE student\n\nTexas Instruments has selected 9 students offering a salary\n\npackage of 28\n\nLPA\n\nAmazon Web Services has selected 13 students offering a\n\nsalary package of 26 LPA\n\nMercedes Benz R&D India has selected 46 students\n\noffering a salary package of 10 LPA\n\nSamsung Semiconductors India Research has selected 2 students offering a salary\n\npackage of 21 LPA\n\nJuniper Networks has selected 11 students offering a salary\n\npackage of 14\n\nLPA\n\nApplied Materials has selected 11 students offering a salary\n\npackage of 13.75 LPA\n\nDeloitte has selected 56 students\n\nTCS has selected 62 students\n\nBosch (BGSW) has selected 30 students\n\nVisteon has selected 30 students\n\nTata Elxsi has selected 48 students\n\nDassault Systemes has selected 18 students\n\nBosch Global Software has selected 249 students\n\nAmazon Web Services has selected 21 students offering a salary package\n\nof  21.83 Lakhs\n\nAmagi has selected 2 students offering a package of 33 Lakhs\n\nMercedes Benz R&D India has selected 37 students\n\nDeloitte has selected 45 students\n\nCognizant has selected 125 students.",
+    "expected_document": "about_placements_2914e0.md",
+    "category": "Placement",
+    "section": "About Placements",
+    "source_heading": "About Placements",
+    "keywords": [
+      "httpswwwkletechacinplacementsaboutplacements",
+      "texas",
+      "instruments",
+      "selected",
+      "students",
+      "offering"
+    ],
+    "difficulty": "easy",
+    "perspective": "prospective student"
+  },
+  {
+    "id": 4,
+    "question": "Are internships available for students?",
+    "expected_answer": "**Source URL:** https://www.kletech.ac.in/placements/about-placements\n\nTexas Instruments has selected 13 students by offering a salary package\n\nof 28 Lakhs\n\nAmazon Web Service has selected 32 students by offering a salary package\n\nof 26.35 LPA\n\nAmagi has selected 3 students by offering a salary package of 18.17\n\nLPA\n\nApplied Materials has selected 4 students by offering a salary package of 16.29 LPA\n\nJuniper Networks has selected 11 students by offering a salary package of 14 Lakhs\n\nInformatica has selected 3 students by offering a salary package of 11.92 LPA\n\nABB has selected 3 students by offering a salary package of 10.8\n\nLPA\n\nToshiba has selected 11 students by offering a salary package of 10.5 LPA\n\nVisteon has selected 19 students\n\nAccenture has selected 118 students\n\nInfosys has selected 112 students\n\nCognizant has selected 46 students\n\nAmazon SDE has offered a salary package of 46.38 LPA and\n\nselected 1 CSE student\n\nTexas Instruments has selected 9 students offering a salary\n\npackage of 28\n\nLPA\n\nAmazon Web Services has selected 13 students offering a\n\nsalary package of 26 LPA\n\nMercedes Benz R&D India has selected 46 students\n\noffering a salary package of 10 LPA\n\nSamsung Semiconductors India Research has selected 2 students offering a salary\n\npackage of 21 LPA\n\nJuniper Networks has selected 11 students offering a salary\n\npackage of 14\n\nLPA\n\nApplied Materials has selected 11 students offering a salary\n\npackage of 13.75 LPA\n\nDeloitte has selected 56 students\n\nTCS has selected 62 students\n\nBosch (BGSW) has selected 30 students\n\nVisteon has selected 30 students\n\nTata Elxsi has selected 48 students\n\nDassault Systemes has selected 18 students\n\nBosch Global Software has selected 249 students\n\nAmazon Web Services has selected 21 students offering a salary package\n\nof  21.83 Lakhs\n\nAmagi has selected 2 students offering a package of 33 Lakhs\n\nMercedes Benz R&D India has selected 37 students\n\nDeloitte has selected 45 students\n\nCognizant has selected 125 students.",
+    "expected_document": "about_placements_2914e0.md",
+    "category": "Placement",
+    "section": "About Placements",
+    "source_heading": "About Placements",
+    "keywords": [
+      "httpswwwkletechacinplacementsaboutplacements",
+      "texas",
+      "instruments",
+      "selected",
+      "students",
+      "offering"
+    ],
+    "difficulty": "medium",
+    "perspective": "newly admitted student"
+  },
+  {
+    "id": 5,
+    "question": "What is the highest package offered in campus placement?",
+    "expected_answer": "**Source URL:** https://www.kletech.ac.in/placements/about-placements\n\nTexas Instruments has selected 13 students by offering a salary package\n\nof 28 Lakhs\n\nAmazon Web Service has selected 32 students by offering a salary package\n\nof 26.35 LPA\n\nAmagi has selected 3 students by offering a salary package of 18.17\n\nLPA\n\nApplied Materials has selected 4 students by offering a salary package of 16.29 LPA\n\nJuniper Networks has selected 11 students by offering a salary package of 14 Lakhs\n\nInformatica has selected 3 students by offering a salary package of 11.92 LPA\n\nABB has selected 3 students by offering a salary package of 10.8\n\nLPA\n\nToshiba has selected 11 students by offering a salary package of 10.5 LPA\n\nVisteon has selected 19 students\n\nAccenture has selected 118 students\n\nInfosys has selected 112 students\n\nCognizant has selected 46 students\n\nAmazon SDE has offered a salary package of 46.38 LPA and\n\nselected 1 CSE student\n\nTexas Instruments has selected 9 students offering a salary\n\npackage of 28\n\nLPA\n\nAmazon Web Services has selected 13 students offering a\n\nsalary package of 26 LPA\n\nMercedes Benz R&D India has selected 46 students\n\noffering a salary package of 10 LPA\n\nSamsung Semiconductors India Research has selected 2 students offering a salary\n\npackage of 21 LPA\n\nJuniper Networks has selected 11 students offering a salary\n\npackage of 14\n\nLPA\n\nApplied Materials has selected 11 students offering a salary\n\npackage of 13.75 LPA\n\nDeloitte has selected 56 students\n\nTCS has selected 62 students\n\nBosch (BGSW) has selected 30 students\n\nVisteon has selected 30 students\n\nTata Elxsi has selected 48 students\n\nDassault Systemes has selected 18 students\n\nBosch Global Software has selected 249 students\n\nAmazon Web Services has selected 21 students offering a salary package\n\nof  21.83 Lakhs\n\nAmagi has selected 2 students offering a package of 33 Lakhs\n\nMercedes Benz R&D India has selected 37 students\n\nDeloitte has selected 45 students\n\nCognizant has selected 125 students.",
+    "expected_document": "about_placements_2914e0.md",
+    "category": "Placement",
+    "section": "About Placements",
+    "source_heading": "About Placements",
+    "keywords": [
+      "httpswwwkletechacinplacementsaboutplacements",
+      "texas",
+      "instruments",
+      "selected",
+      "students",
+      "offering"
+    ],
+    "difficulty": "medium",
+    "perspective": "prospective student"
+  }
+]

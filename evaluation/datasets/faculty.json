@@ -1,0 +1,1441 @@
+[
+  {
+    "id": 1,
+    "question": "How can I meet the HOD of KLE Technological University 2015?",
+    "expected_answer": "Suggested modifications during Academic Council June 2023\n\n<!-- image -->",
+    "expected_document": "phd_regulations_d605cf.md",
+    "category": "Faculty",
+    "section": "KLE Technological University 2015",
+    "source_heading": "KLE Technological University 2015",
+    "keywords": [
+      "suggested",
+      "modifications",
+      "during",
+      "academic",
+      "council",
+      "june"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 2,
+    "question": "Where is the faculty room?",
+    "expected_answer": "Suggested modifications during Academic Council June 2023\n\n<!-- image -->",
+    "expected_document": "phd_regulations_d605cf.md",
+    "category": "Faculty",
+    "section": "KLE Technological University 2015",
+    "source_heading": "KLE Technological University 2015",
+    "keywords": [
+      "suggested",
+      "modifications",
+      "during",
+      "academic",
+      "council",
+      "june"
+    ],
+    "difficulty": "easy",
+    "perspective": "student lost on campus"
+  },
+  {
+    "id": 3,
+    "question": "Can I talk to a professor?",
+    "expected_answer": "Suggested modifications during Academic Council June 2023\n\n<!-- image -->",
+    "expected_document": "phd_regulations_d605cf.md",
+    "category": "Faculty",
+    "section": "KLE Technological University 2015",
+    "source_heading": "KLE Technological University 2015",
+    "keywords": [
+      "suggested",
+      "modifications",
+      "during",
+      "academic",
+      "council",
+      "june"
+    ],
+    "difficulty": "easy",
+    "perspective": "parent accompanying student"
+  },
+  {
+    "id": 4,
+    "question": "Where is the staff room located?",
+    "expected_answer": "Suggested modifications during Academic Council June 2023\n\n<!-- image -->",
+    "expected_document": "phd_regulations_d605cf.md",
+    "category": "Faculty",
+    "section": "KLE Technological University 2015",
+    "source_heading": "KLE Technological University 2015",
+    "keywords": [
+      "suggested",
+      "modifications",
+      "during",
+      "academic",
+      "council",
+      "june"
+    ],
+    "difficulty": "easy",
+    "perspective": "first-time campus visitor"
+  },
+  {
+    "id": 5,
+    "question": "How can I meet the HOD of Table No A7 1 List of programs to be considered for accreditation?",
+    "expected_answer": "| Name of the Department                    | Having Allied Departments   | Name of the Program                       | Program Level   |\n|-------------------------------------------|-----------------------------|-------------------------------------------|-----------------|\n| Biotechnology                             | No                          | Biotechnology                             | UG              |\n| Electronics and Communication Engineering | Yes                         | ELECTRONICS AND COMMUNICATION ENGINEERING | UG              |\n| Computer Science and Engineering          | Yes                         | Computer Science and Engineering          | UG              |\n\nTable No.",
+    "expected_document": "531imguf_ugbiotechnologydcpreport_08b5ca.md",
+    "category": "Faculty",
+    "section": "Table No A7 1 List of programs to be considered for accreditation",
+    "source_heading": "Table No A7 1 List of programs to be considered for accreditation",
+    "keywords": [
+      "name",
+      "department",
+      "having",
+      "allied",
+      "departments",
+      "program"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 6,
+    "question": "How can I meet the HOD of C2 Student-Faculty Ratio SFR?",
+    "expected_answer": "of UG(Engineering) programs in Department including allied departments/ clusters (UGn):\n\nUG1=1st UG program\n\nUGn=nth UG program\n\nB = No.",
+    "expected_document": "531imguf_ugbiotechnologydcpreport_08b5ca.md",
+    "category": "Faculty",
+    "section": "C2 Student-Faculty Ratio SFR",
+    "source_heading": "C2 Student-Faculty Ratio SFR",
+    "keywords": [
+      "ugengineering",
+      "programs",
+      "department",
+      "including",
+      "allied",
+      "departments"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 7,
+    "question": "How can I meet the HOD of C1 Faculty details of Department and Allied Departments?",
+    "expected_answer": "Table No.B9.1: Placement, higher studies, and entrepreneurship details.",
+    "expected_document": "531imguf_ugbiotechnologydcpreport_08b5ca.md",
+    "category": "Faculty",
+    "section": "C1 Faculty details of Department and Allied Departments",
+    "source_heading": "C1 Faculty details of Department and Allied Departments",
+    "keywords": [
+      "table",
+      "nob91",
+      "placement",
+      "higher",
+      "studies",
+      "entrepreneurship"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 8,
+    "question": "How can I meet the HOD of Table No B8 1 Academic Performance of the Third Year Students of the Program?",
+    "expected_answer": "| Academic Performance                                                                                                                                                   |   CAYm1 (2024-25) |   CAYm2 (2023-24) |   CAYm3 (2022-23) |\n|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|-------------------|-------------------|\n| X=(Mean of 3rd year grade point average of all successful students on a 10-point scale) or (Mean of the percentage of marks of all successful students in 3rd year/10) |              7.81 |              7.85 |              7.91 |\n| Y=Total no.",
+    "expected_document": "531imguf_ugbiotechnologydcpreport_08b5ca.md",
+    "category": "Faculty",
+    "section": "Table No B8 1 Academic Performance of the Third Year Students of the Program",
+    "source_heading": "Table No B8 1 Academic Performance of the Third Year Students of the Program",
+    "keywords": [
+      "academic",
+      "performance",
+      "caym1",
+      "202425",
+      "caym2",
+      "202324"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 9,
+    "question": "How can I meet the HOD of B2 Detail of Head of the Department for the program under consideration?",
+    "expected_answer": "Name of the HoD :      | Dr.",
+    "expected_document": "531imguf_ugbiotechnologydcpreport_08b5ca.md",
+    "category": "Faculty",
+    "section": "B2 Detail of Head of the Department for the program under consideration",
+    "source_heading": "B2 Detail of Head of the Department for the program under consideration",
+    "keywords": [
+      "name",
+      "hungund",
+      "nature",
+      "appointment",
+      "regular",
+      "qualification"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 10,
+    "question": "How can I meet the HOD of C6 Academic Research?",
+    "expected_answer": "C5.1: List of visiting/adjunct faculty/professor of practice and their teaching and practical loads.",
+    "expected_document": "531imguf_ugbiotechnologydcpreport_08b5ca.md",
+    "category": "Faculty",
+    "section": "C6 Academic Research",
+    "source_heading": "C6 Academic Research",
+    "keywords": [
+      "table",
+      "list",
+      "visitingadjunct",
+      "facultyprofessor",
+      "practice",
+      "teaching"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 11,
+    "question": "How can I meet the HOD of CAYm3?",
+    "expected_answer": "| Faculty name              | Project title/ Support for Activity   | Duration of the project   | Amount(Lacs) i.e.",
+    "expected_document": "531imguf_ugbiotechnologydcpreport_08b5ca.md",
+    "category": "Faculty",
+    "section": "CAYm3",
+    "source_heading": "CAYm3",
+    "keywords": [
+      "faculty",
+      "name",
+      "project",
+      "title",
+      "support",
+      "activity"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 12,
+    "question": "How can I meet the HOD of Major Equipments?",
+    "expected_answer": "- UV-Visible Spectrophotometer\n- Autoclave\n- Incubator\n- Moisture Analyzer\n- Centrifuge\n- Phase Contrast Microscope",
+    "expected_document": "531imguf_ugbiotechnologydcpreport_08b5ca.md",
+    "category": "Faculty",
+    "section": "Major Equipments",
+    "source_heading": "Major Equipments",
+    "keywords": [
+      "uvvisible",
+      "spectrophotometer",
+      "autoclave",
+      "incubator",
+      "moisture",
+      "analyzer"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 13,
+    "question": "How can I meet the HOD of Research Laboratory - II Process and Product Development Laboratory?",
+    "expected_answer": "Research Laboratory-II is established to facilitate process optimization, scale-up studies, and product development activities.",
+    "expected_document": "531imguf_ugbiotechnologydcpreport_08b5ca.md",
+    "category": "Faculty",
+    "section": "Research Laboratory - II Process and Product Development Laboratory",
+    "source_heading": "Research Laboratory - II Process and Product Development Laboratory",
+    "keywords": [
+      "research",
+      "laboratoryii",
+      "established",
+      "facilitate",
+      "process",
+      "optimization"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 14,
+    "question": "How can I meet the HOD of NATIONAL BOARD OF ACCREDITATION?",
+    "expected_answer": "Data Capturing Points of the Program Applied for NBA Accreditation- Tier I/II UG (Engineering) Institute Programs\n\n| Program Name : Biotechnology   | Discipline : Engineering & Technology   |\n|--------------------------------|-----------------------------------------|\n| Level : Under Graduate         | Tier : 1                                |\n| Application No : 11860         | Date of Submission : 20-05-2026         |",
+    "expected_document": "531imguf_ugbiotechnologydcpreport_08b5ca.md",
+    "category": "Faculty",
+    "section": "NATIONAL BOARD OF ACCREDITATION",
+    "source_heading": "NATIONAL BOARD OF ACCREDITATION",
+    "keywords": [
+      "data",
+      "capturing",
+      "points",
+      "program",
+      "applied",
+      "accreditation"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 15,
+    "question": "How can I meet the HOD of C7 Sponsored Research Project?",
+    "expected_answer": "(CAYm1)\n\n(CAYm2)\n\n(CAYm3)\n\n| PI Name                | Co-PI names if any    | Name of the Dept., where project is sanctioned   | Project Title*                                                                                                                                      | Name of the Funding agency   | Duration of the project   | Amount(Lacs) i.e.",
+    "expected_document": "531imguf_ugbiotechnologydcpreport_08b5ca.md",
+    "category": "Faculty",
+    "section": "C7 Sponsored Research Project",
+    "source_heading": "C7 Sponsored Research Project",
+    "keywords": [
+      "caym1",
+      "caym2",
+      "caym3",
+      "name",
+      "copi",
+      "names"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 16,
+    "question": "How can I meet the HOD of Table No A6 1 List of all programs offered by the Institute?",
+    "expected_answer": "| Discipline               | Level of program   | Name of the program                          |   Year of Start | Year of Closed   | Name of The Department           |\n|----------|--------------------------|--------------------|----------------------------------------------|-----------------|------------------|----------------------------------|\n|        1 | Architecture             | UG                 | Architecture                                 |            2015 | --               | Architecture                     |\n|        2 | Computer Application     | PG                 | Master of Computer Application               |            2015 | --               | Computer Application             |\n|        3 | Computer Application     | PG                 | Master of Computer Applications (Integrated) |            2024 | --               | Computer Application             |\n|        4 | Engineering & Technology | PG                 | Advanced Manufacturing Systems               |            2020 | --               | Mechanical Engineering           |\n|        5 | Engineering & Technology | UG                 | Automation & Robotics                        |            2015 | --               | Automation and Robotics          |\n|        6 | Engineering & Technology | UG                 | Biotechnology                                |            2015 | --               | Biotechnology                    |\n|        7 | Engineering & Technology | UG                 | Civil Engineering                            |            2015 | --               | Civil Engineering                |\n|        8 | Engineering & Technology | UG                 | Computer Science and Engineering             |            2015 | --               | Computer Science and Engineering |\n|        9 | Engineering & Technology | PG                 | Computer Science and Engineering             |            2015 | --               | Computer Science and Engineering |\n\n|   10 | Engineering & Technology   | UG   | Computer Science and Engineering (Artificial Intelligence)      |   2021 | --   | Computer Science and Engineering (Artificial Intelligence)   |\n|------|----------------------------|------|-----------------------------------------------------------------|--------|------|--------------------------------------------------------------|\n|   11 | Engineering & Technology   | PG   | Design Engineering                                              |   2020 | --   | Mechanical Engineering                                       |\n|   12 | Engineering & Technology   | UG   | Electrical & Electronics Engineering                            |   2015 | --   | Electrical and Electronics Engineering                       |\n|   13 | Engineering & Technology   | UG   | ELECTRONICS AND COMMUNICATION ENGINEERING                       |   2015 | --   | Electronics and Communication Engineering                    |\n|   14 | Engineering & Technology   | UG   | Electronics and Communication Engineering (Industry Integrated) |   2020 | --   | Electronics and Communication Engineering                    |\n|   15 | Engineering & Technology   | UG   | Electronics Engineering (VLSI Design and Technology)            |   2022 | --   | Electronics Engineering (VLSI Design and Technology)         |\n|   16 | Engineering & Technology   | UG   | Mechanical Engineering                                          |   2015 | --   | Mechanical Engineering                                       |\n|   17 | Engineering & Technology   | PG   | Structural Engineering                                          |   2015 | --   | Civil Engineering                                            |\n|   18 | Engineering & Technology   | PG   | VLSI Design & Embedded Systems                                  |   2015 | --   | Electronics and Communication Engineering                    |\n|   19 | Management                 | PG   | Master of Business Administration                               |   2015 | --   | Management                                                   |\n\nNo Record",
+    "expected_document": "531imguf_ugbiotechnologydcpreport_08b5ca.md",
+    "category": "Faculty",
+    "section": "Table No A6 1 List of all programs offered by the Institute",
+    "source_heading": "Table No A6 1 List of all programs offered by the Institute",
+    "keywords": [
+      "srno",
+      "discipline",
+      "level",
+      "program",
+      "name",
+      "year"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 17,
+    "question": "How can I meet the HOD of Pilot Scale Fermenter?",
+    "expected_answer": "<!-- image -->\n\nAKTA Protein Purification System HPLC\n\n<!-- image -->\n\n<!-- image -->",
+    "expected_document": "531imguf_ugbiotechnologydcpreport_08b5ca.md",
+    "category": "Faculty",
+    "section": "Pilot Scale Fermenter",
+    "source_heading": "Pilot Scale Fermenter",
+    "keywords": [
+      "image",
+      "akta",
+      "protein",
+      "purification",
+      "system",
+      "hplc"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 18,
+    "question": "How can I meet the HOD of PART C Faculty Details in Department and Allied Departments Data to be filled in for the Department and Allied Departments?",
+    "expected_answer": "Table No.C1: Faculty details in the Department for the past 3 years including CAY\n\n|   Sr.No | Name of the Faculty     | PAN No.",
+    "expected_document": "531imguf_ugbiotechnologydcpreport_08b5ca.md",
+    "category": "Faculty",
+    "section": "PART C Faculty Details in Department and Allied Departments Data to be filled in for the Department and Allied Departments",
+    "source_heading": "PART C Faculty Details in Department and Allied Departments Data to be filled in for the Department and Allied Departments",
+    "keywords": [
+      "table",
+      "noc1",
+      "faculty",
+      "details",
+      "department",
+      "past"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 19,
+    "question": "How can I meet the HOD of Faculty Conclave- 2022?",
+    "expected_answer": "|   Sl.No | Title                                                                                                      | Authors                                                                                                                              |\n|---------|------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|\n|       1 | Engaging Lab Experience in Fluid Mechanics - Paradigm shift from Canned Experiments                        | P.P.Revankar, N.R.Banapurmatha, Mahesh B Gorwar, Ramachandra L, R.S.Hosmath, Ashwin K                                                |\n|       2 | Open Book Exams: Means and Methods for Blended Learning Mode                                               | Prakash Hegade                                                                                                                       |\n|       3 | Student Engagement Levels in Blended Learning Environment                                                  | Radhika Amashi, Unnati Koppikar, Vijayalakshmi M, Rohit Kandakatla                                                                   |\n|       4 | A blended learning framework for delivary of Hardware laboratory courses during pandemic                   | Suneeta Budihal, Prashant Achari, Nikita Patil, Shraddha B H,Shashidhar N, Jyoti Patil, Shraddha R, Bhagyashree K and Nalini C.",
+    "expected_document": "faculty_conclave_2019_converted_627ef3.md",
+    "category": "Faculty",
+    "section": "Faculty Conclave- 2022",
+    "source_heading": "Faculty Conclave- 2022",
+    "keywords": [
+      "slno",
+      "title",
+      "authors",
+      "engaging",
+      "experience",
+      "fluid"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 20,
+    "question": "How can I meet the HOD of B V B College of Engineering and Technology?",
+    "expected_answer": "|   17 | Peer-Mentoring in design projects in a project-based learning (PBL) at First-Year Engineering Course                                                                             | Jyoti Gadad, Vinay Talageri, Preethi Baligar, Gopalkrishna Joshi      |\n|------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|\n|   18 | Svadhyaya: A Story-Telling Model for Discovery Oriented Learning from Liberal Arts                                                                                               | Prakash Hegade, Vijayalakshmi M, Ashok Shettar                        |\n|   19 | Troubleshooting in an online circuit simulation platform: A study on the troubleshooting process by first-year undergraduate students in a blended project-based learning course | Nandish Humbi, Preeti Patil, Vijayalakshmi M                          |\n|   20 | An inquiry-based Instructional Approach for Food Processing Technology Course Using Tool box                                                                                     | Shivalingsarj Desai, Veeranna Hombalimath, Laxmikant Patil, Anil Shet |",
+    "expected_document": "faculty_conclave_2019_converted_627ef3.md",
+    "category": "Faculty",
+    "section": "B V B College of Engineering and Technology",
+    "source_heading": "B V B College of Engineering and Technology",
+    "keywords": [
+      "peermentoring",
+      "design",
+      "projects",
+      "projectbased",
+      "learning",
+      "firstyear"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 21,
+    "question": "How can I meet the HOD of Faculty Conclave 2016?",
+    "expected_answer": "| Title                                                                                                                                | Authors                                                                                                                                               |\n|-----------|--------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|\n|         1 | Theme-Based Integrated Project Implementation For Basic Skill-Set Development In Biotechnology                                       | L.",
+    "expected_document": "faculty_conclave_publications_2016_24d552.md",
+    "category": "Faculty",
+    "section": "Faculty Conclave 2016",
+    "source_heading": "Faculty Conclave 2016",
+    "keywords": [
+      "title",
+      "authors",
+      "themebased",
+      "integrated",
+      "project",
+      "implementation"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 22,
+    "question": "How can I meet the HOD of Faculty Conclave 2017?",
+    "expected_answer": "| Title                                                                                                                                                   | Authors                                                                                |\n|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|\n|         1 | Augmenting Cloud Concepts Learning With Open Source Software Environment                                                                                | Meenaxi M Raikar, Vijayalakshmi M., Padmashree Desai                                   |\n|         2 | Art Of Publishing Refereed Papers Through Experience Of PG Minor Projects                                                                               | Vishwanath P.",
+    "expected_document": "faculty_conclave_publications_2017_6bca36.md",
+    "category": "Faculty",
+    "section": "Faculty Conclave 2017",
+    "source_heading": "Faculty Conclave 2017",
+    "keywords": [
+      "title",
+      "authors",
+      "augmenting",
+      "cloud",
+      "concepts",
+      "learning"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 23,
+    "question": "How can I meet the HOD of Faculty Conclave- 2018?",
+    "expected_answer": "| Title                                                                                                                                   | Authors                                                                                                                                                                 |\n|-----------|-----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n|         1 | An Innovative Approach To Foster Product Development In A Multidisciplinary Environment At Sophomore Level In Engineering               | Sanjay E., Sachin A., Gururaj F., Arun Patil, Praveenraj P., K.Rajashekhariah, Nagaraj E., Shilpa T.",
+    "expected_document": "faculty_conclave_publications_2018_91f674.md",
+    "category": "Faculty",
+    "section": "Faculty Conclave- 2018",
+    "source_heading": "Faculty Conclave- 2018",
+    "keywords": [
+      "title",
+      "authors",
+      "innovative",
+      "approach",
+      "foster",
+      "product"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 24,
+    "question": "How can I meet the HOD of Faculty Conclave -2015?",
+    "expected_answer": "No | Title                                                                                                                  | Authors                                                                                                                                |\n|----------|------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|\n|        1 | Developing Project Management Skills In Engineering Faculty To Handle Multidisciplinary Projects                       | Jyoti Bali, A.",
+    "expected_document": "faculty_conclave_publications___2015_490d8b.md",
+    "category": "Faculty",
+    "section": "Faculty Conclave -2015",
+    "source_heading": "Faculty Conclave -2015",
+    "keywords": [
+      "title",
+      "authors",
+      "developing",
+      "project",
+      "management",
+      "skills"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 25,
+    "question": "How can I meet the HOD of the department?",
+    "expected_answer": "KLE Technological University, Hubballi \n \nPublic Self Disclosure \nSr.",
+    "expected_document": "241imguf_kle_technological_university_public_f59b56.md",
+    "category": "Faculty",
+    "section": "the department",
+    "source_heading": "the department",
+    "keywords": [
+      "technological",
+      "university",
+      "hubballi",
+      "public",
+      "self",
+      "disclosure"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 26,
+    "question": "How can I meet the HOD of CAYm1?",
+    "expected_answer": "|   S.No | Name of the Person     | Designation   | Organization                 | Name of the Course                  |   No.",
+    "expected_document": "532imguf_ugcomputerscienceengineeringdcprepor_4d11df.md",
+    "category": "Faculty",
+    "section": "CAYm1",
+    "source_heading": "CAYm1",
+    "keywords": [
+      "name",
+      "person",
+      "designation",
+      "organization",
+      "course",
+      "hours"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 27,
+    "question": "How can I meet the HOD of the Allied Departments Cluster and Programs?",
+    "expected_answer": "| ALLIED DEPARTMENT NAME                                     | PROGRAM NAME                                 | PROGRAM APPLIED LEVEL   | YEAR OF START / YEAR OF CLOSED   |   SANCTIONED INTAKE | INCREASE/DECREASE INTAKE (if any)   |   YEAR OF INCREASE/DECREASE |   CURRENT INTAKE |   YEAR OF AICTE APPROVAL | AICTE/COMPETENT AUTHORITY ARROVAL DETAILS             | ACCREDITATION STATUS           | FROM   | TO   |   NO.",
+    "expected_document": "532imguf_ugcomputerscienceengineeringdcprepor_4d11df.md",
+    "category": "Faculty",
+    "section": "the Allied Departments Cluster and Programs",
+    "source_heading": "the Allied Departments Cluster and Programs",
+    "keywords": [
+      "srno",
+      "allied",
+      "department",
+      "name",
+      "program",
+      "applied"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 28,
+    "question": "How can I meet the HOD of PART A- Profile of the Institute?",
+    "expected_answer": "| A1.Name of the Institute : KLE Technological University                                                           | A1.Name of the Institute : KLE Technological University                                                           |\n|-------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|\n| Year of Establishment : 1947                                                                                      | Location of the Institute: BVB Campus, Vidyanagar, Hubballi                                                       |\n| A2.",
+    "expected_document": "532imguf_ugcomputerscienceengineeringdcprepor_4d11df.md",
+    "category": "Faculty",
+    "section": "PART A- Profile of the Institute",
+    "source_heading": "PART A- Profile of the Institute",
+    "keywords": [
+      "a1name",
+      "institute",
+      "technological",
+      "university",
+      "year",
+      "establishment"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 29,
+    "question": "How can I meet the HOD of Table No C2 Faculty details of Allied Departments for the past 3 years including CAY?",
+    "expected_answer": "|   Sr.No | Name of the Faculty     | PAN No.",
+    "expected_document": "532imguf_ugcomputerscienceengineeringdcprepor_4d11df.md",
+    "category": "Faculty",
+    "section": "Table No C2 Faculty details of Allied Departments for the past 3 years including CAY",
+    "source_heading": "Table No C2 Faculty details of Allied Departments for the past 3 years including CAY",
+    "keywords": [
+      "srno",
+      "name",
+      "faculty",
+      "apaar",
+      "idif",
+      "highest"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 30,
+    "question": "How can I meet the HOD of C9 Institution Seed Money or Internal Research Grant to its Faculty for Research Work?",
+    "expected_answer": "C9.1: List of faculty members received seed money or internal research grant from the Institution.",
+    "expected_document": "532imguf_ugcomputerscienceengineeringdcprepor_4d11df.md",
+    "category": "Faculty",
+    "section": "C9 Institution Seed Money or Internal Research Grant to its Faculty for Research Work",
+    "source_heading": "C9 Institution Seed Money or Internal Research Grant to its Faculty for Research Work",
+    "keywords": [
+      "table",
+      "list",
+      "faculty",
+      "members",
+      "received",
+      "seed"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 31,
+    "question": "How can I meet the HOD of KLE Technological University?",
+    "expected_answer": "(Established under Karnataka Act No.22, 2013) Hubballi, Karnataka",
+    "expected_document": "7imguf_iqaccomposition_dfb503.md",
+    "category": "Faculty",
+    "section": "KLE Technological University",
+    "source_heading": "KLE Technological University",
+    "keywords": [
+      "established",
+      "under",
+      "karnataka",
+      "no22",
+      "2013",
+      "hubballi"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 32,
+    "question": "How can I meet the HOD of About KLE Tech?",
+    "expected_answer": "KLE  Technological  University  (KLE  Tech)  has  its  roots  in  one  of  the  premier  engineering institution of Karnataka, B.",
+    "expected_document": "7imguf_iqaccomposition_dfb503.md",
+    "category": "Faculty",
+    "section": "About KLE Tech",
+    "source_heading": "About KLE Tech",
+    "keywords": [
+      "technological",
+      "university",
+      "tech",
+      "roots",
+      "premier",
+      "engineering"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 33,
+    "question": "How can I meet the HOD of Vision of the Institute?",
+    "expected_answer": "KLE Technological University will be a national leader in Higher Education -recognized globally for innovative culture, outstanding student experience, research excellence and social impact.",
+    "expected_document": "7imguf_iqaccomposition_dfb503.md",
+    "category": "Faculty",
+    "section": "Vision of the Institute",
+    "source_heading": "Vision of the Institute",
+    "keywords": [
+      "technological",
+      "university",
+      "will",
+      "national",
+      "leader",
+      "higher"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 34,
+    "question": "How can I meet the HOD of Overview?",
+    "expected_answer": "IQAC  in  the  University  was  constituted  in  year  2018  with  the  view  of  initiate  Planning, Guiding   and   Monitoring   Quality   Assurance   and   Quality   Enhancement activities of the  university  which  are  important  to  maintain  and  improve  the  quality  of  education imparted.",
+    "expected_document": "7imguf_iqaccomposition_dfb503.md",
+    "category": "Faculty",
+    "section": "Overview",
+    "source_heading": "Overview",
+    "keywords": [
+      "iqac",
+      "university",
+      "constituted",
+      "year",
+      "2018",
+      "view"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 35,
+    "question": "How can I meet the HOD of IQAC Long Term Goals?",
+    "expected_answer": "-  To  give  the  most  ideal  educational  facilities  for  preparing  students  for  the  careers  in technology.",
+    "expected_document": "7imguf_iqaccomposition_dfb503.md",
+    "category": "Faculty",
+    "section": "IQAC Long Term Goals",
+    "source_heading": "IQAC Long Term Goals",
+    "keywords": [
+      "give",
+      "most",
+      "ideal",
+      "educational",
+      "facilities",
+      "preparing"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 36,
+    "question": "How can I meet the HOD of Aim of IQAC?",
+    "expected_answer": "The main aim of Internal Quality Assurance Cell (IQAC) is to monitor and coordinate all the activities of the institute  by  considering  the Quality for  upgrading  the  Institutional Standards.",
+    "expected_document": "7imguf_iqaccomposition_dfb503.md",
+    "category": "Faculty",
+    "section": "Aim of IQAC",
+    "source_heading": "Aim of IQAC",
+    "keywords": [
+      "main",
+      "internal",
+      "quality",
+      "assurance",
+      "cell",
+      "iqac"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 37,
+    "question": "How can I meet the HOD of The objective of IQAC is?",
+    "expected_answer": "-  To  evolve  a  system  for  responsive,  consistent  and  catalytic  action  to  improve  the academic and administrative performance of the Institution.",
+    "expected_document": "7imguf_iqaccomposition_dfb503.md",
+    "category": "Faculty",
+    "section": "The objective of IQAC is",
+    "source_heading": "The objective of IQAC is",
+    "keywords": [
+      "evolve",
+      "system",
+      "responsive",
+      "consistent",
+      "catalytic",
+      "action"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 38,
+    "question": "How can I meet the HOD of Strategies of IQAC?",
+    "expected_answer": "IQAC shall evolve mechanisms and procedures for:\n\n-  Ensuring timely, efficient and progressive performance of academic, administrative and financial tasks\n-  The relevance and quality of academic and research programmes\n-  Equitable  access  to  and  affordability  of  academic  programmes  for  various  sections  of society\n-  Optimization and integration of modern methods of teaching and learning\n-  The credibility of evaluation procedures\n-  Ensuring  the  adequacy,  maintenance  and  functioning  of  the  support  structure  and services\n-  Research sharing and networking with other institutions in India and abroad.",
+    "expected_document": "7imguf_iqaccomposition_dfb503.md",
+    "category": "Faculty",
+    "section": "Strategies of IQAC",
+    "source_heading": "Strategies of IQAC",
+    "keywords": [
+      "iqac",
+      "shall",
+      "evolve",
+      "mechanisms",
+      "procedures",
+      "ensuring"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 39,
+    "question": "How can I meet the HOD of Responsibilities of IQAC?",
+    "expected_answer": "-  Developing ethical work culture in the Institute\n-  Improving the academic and administrative performance of the Institution\n-  Organizing  inter  and  intra  Institutional  Workshops,  Seminars,  Project  Exhibition  and Research\n-  activities\n-  Playing  as  a  nodal  agency  of  the  institute  for  coordinating  various  activities  ensuring quality including adoption and dissemination of best methods and practices\n-  Ensuring a learner-centric ambience conducive for quality education and for continual\n-  improvement.",
+    "expected_document": "7imguf_iqaccomposition_dfb503.md",
+    "category": "Faculty",
+    "section": "Responsibilities of IQAC",
+    "source_heading": "Responsibilities of IQAC",
+    "keywords": [
+      "developing",
+      "ethical",
+      "work",
+      "culture",
+      "institute",
+      "improving"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 40,
+    "question": "How can I meet the HOD of Composition of IQAC?",
+    "expected_answer": "NO | CATEGORY                          | NAME                                                                                           |\n|----------|-----------------------------------|------------------------------------------------------------------------------------------------|\n|       1.",
+    "expected_document": "7imguf_iqaccomposition_dfb503.md",
+    "category": "Faculty",
+    "section": "Composition of IQAC",
+    "source_heading": "Composition of IQAC",
+    "keywords": [
+      "category",
+      "name",
+      "chairperson",
+      "drashok",
+      "shettarvice",
+      "chancellor"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 41,
+    "question": "How can I meet the HOD of Course Outcomes?",
+    "expected_answer": "At the end of thecourse, the students will be able to\n\n2.",
+    "expected_document": "ipr_and_itl_905cfd.md",
+    "category": "Faculty",
+    "section": "Course Outcomes",
+    "source_heading": "Course Outcomes",
+    "keywords": [
+      "thecourse",
+      "students",
+      "will",
+      "able",
+      "discuss",
+      "therole"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 42,
+    "question": "How can I meet the HOD of Unit - III Doctrinal Legal Research?",
+    "expected_answer": "- Doctrinal legal research as a means of synthesising facts, thoughts and legal principles.",
+    "expected_document": "ipr_and_itl_905cfd.md",
+    "category": "Faculty",
+    "section": "Unit - III Doctrinal Legal Research",
+    "source_heading": "Unit - III Doctrinal Legal Research",
+    "keywords": [
+      "doctrinal",
+      "legal",
+      "research",
+      "means",
+      "synthesising",
+      "facts"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 43,
+    "question": "How can I meet the HOD of Unit II Patent Law in India and Types of Patents?",
+    "expected_answer": "- Priority dates and the difference between the date of application and the date of Priority.",
+    "expected_document": "ipr_and_itl_905cfd.md",
+    "category": "Faculty",
+    "section": "Unit II Patent Law in India and Types of Patents",
+    "source_heading": "Unit II Patent Law in India and Types of Patents",
+    "keywords": [
+      "priority",
+      "dates",
+      "difference",
+      "between",
+      "date",
+      "application"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 44,
+    "question": "How can I meet the HOD of Unit - V Introduction to Geographical Indications?",
+    "expected_answer": "- Need for protecting goods of geographical origin; International provisions relating to Geographical Indications; Paris Convention, Madrid Agreement, Lisbon Agreement, TRIPS Agreement\n- GIs in Regional Perspective- Benefits of registration- case studies\n- Geographical Indications of Goods (Registration and Protection) Act, 1999 - Concept and Definitions, Protection and Subject matter of GI, Procedure of Registration of GI, Infringement of GI, Importance of GI for India.",
+    "expected_document": "ipr_and_itl_905cfd.md",
+    "category": "Faculty",
+    "section": "Unit - V Introduction to Geographical Indications",
+    "source_heading": "Unit - V Introduction to Geographical Indications",
+    "keywords": [
+      "need",
+      "protecting",
+      "goods",
+      "geographical",
+      "origin",
+      "international"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 45,
+    "question": "How can I meet the HOD of SPECIALISATION - INTELLECTUAL PROPERTY LAW AND?",
+    "expected_answer": "INFORMATION TECHNOLOGY LAW\n\nISEMESTER\n\n2023 - 2024\n\n<!-- image -->\n\n<!-- image -->\n\n|   Sl.",
+    "expected_document": "ipr_and_itl_905cfd.md",
+    "category": "Faculty",
+    "section": "SPECIALISATION - INTELLECTUAL PROPERTY LAW AND",
+    "source_heading": "SPECIALISATION - INTELLECTUAL PROPERTY LAW AND",
+    "keywords": [
+      "information",
+      "technology",
+      "isemester",
+      "2023",
+      "2024",
+      "image"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 46,
+    "question": "How can I meet the HOD of Unit - IV Realism and Marks Theory?",
+    "expected_answer": "- Realist theory of Law – American realists\n- Marxian theory of law",
+    "expected_document": "ipr_and_itl_905cfd.md",
+    "category": "Faculty",
+    "section": "Unit - IV Realism and Marks Theory",
+    "source_heading": "Unit - IV Realism and Marks Theory",
+    "keywords": [
+      "realist",
+      "theory",
+      "american",
+      "realists",
+      "marxian"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 47,
+    "question": "How can I meet the HOD of Unit II Positivist Theory of Law?",
+    "expected_answer": "- Positivist theory of Law – Jeromy Bentham, John Austin, H L A Hart, Hans Kelsen",
+    "expected_document": "ipr_and_itl_905cfd.md",
+    "category": "Faculty",
+    "section": "Unit II Positivist Theory of Law",
+    "source_heading": "Unit II Positivist Theory of Law",
+    "keywords": [
+      "positivist",
+      "theory",
+      "jeromy",
+      "bentham",
+      "john",
+      "austin"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 48,
+    "question": "How can I meet the HOD of Unit - II Development of Trademarks Law?",
+    "expected_answer": "- Rationale behind the Protection of Trademarks;\n- Origin and development of Trademarks; Definitions; Essentials and functions of Trademarks.",
+    "expected_document": "ipr_and_itl_905cfd.md",
+    "category": "Faculty",
+    "section": "Unit - II Development of Trademarks Law",
+    "source_heading": "Unit - II Development of Trademarks Law",
+    "keywords": [
+      "rationale",
+      "behind",
+      "protection",
+      "trademarks",
+      "origin",
+      "development"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 49,
+    "question": "How can I meet the HOD of KLE LAW COLLEGE BENGALURU - 91?",
+    "expected_answer": "Constituent College of KLE Technological University, Hubballi",
+    "expected_document": "ipr_and_itl_905cfd.md",
+    "category": "Faculty",
+    "section": "KLE LAW COLLEGE BENGALURU - 91",
+    "source_heading": "KLE LAW COLLEGE BENGALURU - 91",
+    "keywords": [
+      "constituent",
+      "college",
+      "technological",
+      "university",
+      "hubballi"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 50,
+    "question": "How can I meet the HOD of Prescribed Books?",
+    "expected_answer": "Friedman, Law in a Changing Society, Sweet and Maxwell, South Indian Edn.",
+    "expected_document": "ipr_and_itl_905cfd.md",
+    "category": "Faculty",
+    "section": "Prescribed Books",
+    "source_heading": "Prescribed Books",
+    "keywords": [
+      "friedman",
+      "changing",
+      "society",
+      "sweet",
+      "maxwell",
+      "south"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 51,
+    "question": "How can I meet the HOD of Unit I Overview of the Patent System?",
+    "expected_answer": "- Jurisprudential justifications of the patent system.",
+    "expected_document": "ipr_and_itl_905cfd.md",
+    "category": "Faculty",
+    "section": "Unit I Overview of the Patent System",
+    "source_heading": "Unit I Overview of the Patent System",
+    "keywords": [
+      "jurisprudential",
+      "justifications",
+      "patent",
+      "system",
+      "overview",
+      "indian"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 52,
+    "question": "How can I meet the HOD of Unit III Sociological and Historical Theory?",
+    "expected_answer": "- Sociologicaltheory of law – Roscoe Pound\n- Historical theory of law – Savigny and Puchta\n\n<!-- image -->\n\n<!-- image -->",
+    "expected_document": "ipr_and_itl_905cfd.md",
+    "category": "Faculty",
+    "section": "Unit III Sociological and Historical Theory",
+    "source_heading": "Unit III Sociological and Historical Theory",
+    "keywords": [
+      "sociologicaltheory",
+      "roscoe",
+      "pound",
+      "historical",
+      "theory",
+      "savigny"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 53,
+    "question": "How can I meet the HOD of Unit- IV Trademark Transfer and Infringement?",
+    "expected_answer": "- Assignment, Transmission and Licensing of Trade Marks\n- Unfair Competition and Trademark Infringement; Infringement of Rights; Infringing and Non-Infringing acts, Doctrine of Deceptive Similarity, Passing off action Common law remedy; Evidentiary issues in an action of passing off.",
+    "expected_document": "ipr_and_itl_905cfd.md",
+    "category": "Faculty",
+    "section": "Unit- IV Trademark Transfer and Infringement",
+    "source_heading": "Unit- IV Trademark Transfer and Infringement",
+    "keywords": [
+      "assignment",
+      "transmission",
+      "licensing",
+      "trade",
+      "marks",
+      "unfair"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 54,
+    "question": "How can I meet the HOD of Unit - I Introduction to Judicial Process?",
+    "expected_answer": "- Nature of Judicial Process: Judicial process as an instrument of social ordering;\n- Legal Reasoning and growth of law-change and stability; stare decisis; the tools and techniques of judicial creativity and precedent; identifying ratio decidendi and obiter dicta\n- Judicial process and creativity in law - common law model.",
+    "expected_document": "ipr_and_itl_905cfd.md",
+    "category": "Faculty",
+    "section": "Unit - I Introduction to Judicial Process",
+    "source_heading": "Unit - I Introduction to Judicial Process",
+    "keywords": [
+      "nature",
+      "judicial",
+      "process",
+      "instrument",
+      "social",
+      "ordering"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 55,
+    "question": "How can I meet the HOD of PARLIAMENTARY AFFAIRS AND LEGISLATION SECRETARIAT NOTIFICATION?",
+    "expected_answer": "NO: SAMVYASHAE 83 SHASANA 2012, Bangalore, dated: 15.05.2013\n\nOrdered that the translation of the  03  , 2012 (20130 F Do o&amp;: 22) In the English language, be published as authorised by the Governor of Karnataka under clause (3) of Article 348 of the constitutlon of India in the Karnataka Gazette for general information.",
+    "expected_document": "karnataka_rajyapatra_70a728.md",
+    "category": "Faculty",
+    "section": "PARLIAMENTARY AFFAIRS AND LEGISLATION SECRETARIAT NOTIFICATION",
+    "source_heading": "PARLIAMENTARY AFFAIRS AND LEGISLATION SECRETARIAT NOTIFICATION",
+    "keywords": [
+      "samvyashae",
+      "shasana",
+      "2012",
+      "bangalore",
+      "dated",
+      "15052013"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 56,
+    "question": "How can I meet the HOD of KARNATAKA ACT NO 22 OF 2013?",
+    "expected_answer": "(First Published in the Karnataka Gazette Extra-ordinary on the Fourth day of March, 2013)",
+    "expected_document": "karnataka_rajyapatra_70a728.md",
+    "category": "Faculty",
+    "section": "KARNATAKA ACT NO 22 OF 2013",
+    "source_heading": "KARNATAKA ACT NO 22 OF 2013",
+    "keywords": [
+      "first",
+      "published",
+      "karnataka",
+      "gazette",
+      "extraordinary",
+      "fourth"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 57,
+    "question": "How can I meet the HOD of THE KLE TECHNOLOGICAL UNIVERSITY ACT 2012?",
+    "expected_answer": "(Received the assent of the Governor on the Twenty fifth day of February, 2013)\n\nAn Act to establish and incorporate in the State of Karnataka a University of unitary nature in Priyate Sector to promote and undertake the advancement of applied university Education in general, Technical, Health, Management, Natural and allied sectors and other disciplines for the matters connected there with or incidental thereto.",
+    "expected_document": "karnataka_rajyapatra_70a728.md",
+    "category": "Faculty",
+    "section": "THE KLE TECHNOLOGICAL UNIVERSITY ACT 2012",
+    "source_heading": "THE KLE TECHNOLOGICAL UNIVERSITY ACT 2012",
+    "keywords": [
+      "received",
+      "assent",
+      "governor",
+      "twenty",
+      "fifth",
+      "february"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 58,
+    "question": "How can I meet the HOD of PRELIMINARY?",
+    "expected_answer": "Short title, extent and commencement.- (1) This Act may be called the KLE Technological University Act, 2012.",
+    "expected_document": "karnataka_rajyapatra_70a728.md",
+    "category": "Faculty",
+    "section": "PRELIMINARY",
+    "source_heading": "PRELIMINARY",
+    "keywords": [
+      "short",
+      "title",
+      "extent",
+      "commencement",
+      "called",
+      "technological"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 59,
+    "question": "How can I meet the HOD of THE UNIVERSITY AND SPONSORING BODY?",
+    "expected_answer": "Proposal for the establishment of the University.- (1) The Society shall have thc right to establish the University of unitary nature subject to and in accordance with the provistons of this Act.",
+    "expected_document": "karnataka_rajyapatra_70a728.md",
+    "category": "Faculty",
+    "section": "THE UNIVERSITY AND SPONSORING BODY",
+    "source_heading": "THE UNIVERSITY AND SPONSORING BODY",
+    "keywords": [
+      "proposal",
+      "establishment",
+      "university",
+      "society",
+      "shall",
+      "right"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 60,
+    "question": "How can I meet the HOD of OFFICERS OF THE UNIVERSITY?",
+    "expected_answer": "Officers of the.University.- The following shall be the officers of the University:-\n\n- (1) The Visitor\n2.",
+    "expected_document": "karnataka_rajyapatra_70a728.md",
+    "category": "Faculty",
+    "section": "OFFICERS OF THE UNIVERSITY",
+    "source_heading": "OFFICERS OF THE UNIVERSITY",
+    "keywords": [
+      "officers",
+      "theuniversity",
+      "following",
+      "shall",
+      "university",
+      "visitor"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 61,
+    "question": "How can I meet the HOD of STATUTES AND REGULATIONS?",
+    "expected_answer": "Statutes.- Subject to the provisions of this Act, the Statutes may provide for all or any matter, relating to the University and staff as given below, namely:-\n2.",
+    "expected_document": "karnataka_rajyapatra_70a728.md",
+    "category": "Faculty",
+    "section": "STATUTES AND REGULATIONS",
+    "source_heading": "STATUTES AND REGULATIONS",
+    "keywords": [
+      "statutes",
+      "subject",
+      "provisions",
+      "provide",
+      "matter",
+      "relating"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 62,
+    "question": "How can I meet the HOD of CHAPTER - VI MISCELLANEOUS?",
+    "expected_answer": "Conditions of service of employees.- (1) Every employee shall be appointed under a written con ss  ss  ons n  s su  s ns  us onr prescribed if any by rules which shall be kept in the University and a copy of which shall be furnished to the employee concerned.",
+    "expected_document": "karnataka_rajyapatra_70a728.md",
+    "category": "Faculty",
+    "section": "CHAPTER - VI MISCELLANEOUS",
+    "source_heading": "CHAPTER - VI MISCELLANEOUS",
+    "keywords": [
+      "conditions",
+      "service",
+      "employees",
+      "every",
+      "employee",
+      "shall"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 63,
+    "question": "How can I meet the HOD of H R BHARDWAJ GOVERNOR OF KARNATAKA?",
+    "expected_answer": "By Order and in the name of the Governor of Karnataka",
+    "expected_document": "karnataka_rajyapatra_70a728.md",
+    "category": "Faculty",
+    "section": "H R BHARDWAJ GOVERNOR OF KARNATAKA",
+    "source_heading": "H R BHARDWAJ GOVERNOR OF KARNATAKA",
+    "keywords": [
+      "order",
+      "name",
+      "governor",
+      "karnataka"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 64,
+    "question": "How can I meet the HOD of K DWARAKANATH BABU?",
+    "expected_answer": "Secretary to Government (I/c), Department of Parliamentary Affairs and Legisiation",
+    "expected_document": "karnataka_rajyapatra_70a728.md",
+    "category": "Faculty",
+    "section": "K DWARAKANATH BABU",
+    "source_heading": "K DWARAKANATH BABU",
+    "keywords": [
+      "secretary",
+      "government",
+      "department",
+      "parliamentary",
+      "affairs",
+      "legisiation"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 65,
+    "question": "How can I meet the HOD of Submitted Institute Data for NIRF 2026?",
+    "expected_answer": "Institute Name: KLE Technological University [IR-E-U-0854]",
+    "expected_document": "nirf_engineering_category_2nd_february_2026_36f252.md",
+    "category": "Faculty",
+    "section": "Submitted Institute Data for NIRF 2026",
+    "source_heading": "Submitted Institute Data for NIRF 2026",
+    "keywords": [
+      "institute",
+      "name",
+      "technological",
+      "university",
+      "ireu0854"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 66,
+    "question": "How can I meet the HOD of Sanctioned Approved Intake?",
+    "expected_answer": "| Academic Year           |   2024-25 |   2023-24 | 2022-23   | 2021-22   | 2020-21   | 2019-20   |\n|-------------------------|-----------|-----------|-----------|-----------|-----------|-----------|\n| UG [4 Years Program(s)] |      1380 |      1380 | 1320      | 1260      | -         | -         |\n| PG [2 Year Program(s)]  |        90 |       108 | -         | -         | -         | -         |",
+    "expected_document": "nirf_engineering_category_2nd_february_2026_36f252.md",
+    "category": "Faculty",
+    "section": "Sanctioned Approved Intake",
+    "source_heading": "Sanctioned Approved Intake",
+    "keywords": [
+      "academic",
+      "year",
+      "202425",
+      "202324",
+      "202223",
+      "202122"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 67,
+    "question": "How can I meet the HOD of Total Actual Student Strength Program s Offered by Your Institution?",
+    "expected_answer": "| (All programs of all years)   |   No.",
+    "expected_document": "nirf_engineering_category_2nd_february_2026_36f252.md",
+    "category": "Faculty",
+    "section": "Total Actual Student Strength Program s Offered by Your Institution",
+    "source_heading": "Total Actual Student Strength Program s Offered by Your Institution",
+    "keywords": [
+      "programs",
+      "years",
+      "male",
+      "students",
+      "female",
+      "total"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 68,
+    "question": "How can I meet the HOD of UG 4 Years Program s Placement &amp higher studies for previous 3 years?",
+    "expected_answer": "| Academic Year   |   No.",
+    "expected_document": "nirf_engineering_category_2nd_february_2026_36f252.md",
+    "category": "Faculty",
+    "section": "UG 4 Years Program s Placement &amp higher studies for previous 3 years",
+    "source_heading": "UG 4 Years Program s Placement &amp higher studies for previous 3 years",
+    "keywords": [
+      "academic",
+      "year",
+      "first",
+      "students",
+      "intake",
+      "admitted"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 69,
+    "question": "How can I meet the HOD of National Institutional Ranking Framework?",
+    "expected_answer": "Ministry of Education Government of India\n\nWelcome to Data Capturing System: ENGINEERING\n\n| 2023-24   | 108   | 53   | 2024-25   | 53   | 39   | 450000(Four Lakh fifty thousand only)   |\n|-----------|-------|------|-----------|------|------|-----------------------------------------|",
+    "expected_document": "nirf_engineering_category_2nd_february_2026_36f252.md",
+    "category": "Faculty",
+    "section": "National Institutional Ranking Framework",
+    "source_heading": "National Institutional Ranking Framework",
+    "keywords": [
+      "ministry",
+      "education",
+      "government",
+      "india",
+      "welcome",
+      "data"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 70,
+    "question": "How can I meet the HOD of Ph D Student Details including Integrated Ph D?",
+    "expected_answer": "| Ph.D (Student pursuing doctoral program till 2024-25 Students admitted in the academic year 2025-26 should not be entered here.)   | Ph.D (Student pursuing doctoral program till 2024-25 Students admitted in the academic year 2025-26 should not be entered here.)   | Ph.D (Student pursuing doctoral program till 2024-25 Students admitted in the academic year 2025-26 should not be entered here.)   | Ph.D (Student pursuing doctoral program till 2024-25 Students admitted in the academic year 2025-26 should not be entered here.)   |\n|------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|\n|                                                                                                                                    |                                                                                                                                    | Total Students                                                                                                                     | Total Students                                                                                                                     |\n| Full Time                                                                                                                          | Full Time                                                                                                                          | 29                                                                                                                                 | 29                                                                                                                                 |\n| Part Time                                                                                                                          | Part Time                                                                                                                          | 145                                                                                                                                | 145                                                                                                                                |\n| No.",
+    "expected_document": "nirf_engineering_category_2nd_february_2026_36f252.md",
+    "category": "Faculty",
+    "section": "Ph D Student Details including Integrated Ph D",
+    "source_heading": "Ph D Student Details including Integrated Ph D",
+    "keywords": [
+      "student",
+      "pursuing",
+      "doctoral",
+      "program",
+      "till",
+      "202425"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 71,
+    "question": "How can I meet the HOD of Financial Resources Utilised Amount for the Capital expenditure for previous 3 years?",
+    "expected_answer": "| Academic Year                                                                                                                                                                        | 2024-25                                                                                                | 2023-24                                                                                              | 2022-23                                                                                              |\n|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|\n|                                                                                                                                                                                      | Utilised Amount                                                                                        | Utilised Amount                                                                                      | Utilised Amount                                                                                      |\n| Annual Capital Expenditure on Academic Activities and Resources (excluding expenditure on buildings)                                                                                 | Annual Capital Expenditure on Academic Activities and Resources (excluding expenditure on buildings)   | Annual Capital Expenditure on Academic Activities and Resources (excluding expenditure on buildings) | Annual Capital Expenditure on Academic Activities and Resources (excluding expenditure on buildings) |\n| Library ( Books, Journals and e-Resources only)                                                                                                                                      | 9351071 (Ninety Three lakhs Fifty one Thousand Seventy one only)                                       | 6519231 (Sixty Five Lakh Nineteen Thousand Two Hundred Thirty One )                                  | 6268303 (Sixty two Lakhs Sixty eight thousand three hundred and three only Three hundred three only) |\n| New Equipment and software for Laboratories                                                                                                                                          | 130854561 (One Thousand Three hundred eight lakhs Fifty four thousand and Five hundred sixty one only) | 78028054 (Seven thousand eight hundred Lakh Twenty Eight Thousand Fifty Four )                       | 107126814 (One thousand seventy one lakhs Twenty six thousand Eight hundred and fourteen only)       |\n| Engineering Workshops                                                                                                                                                                | 0 (Zero)                                                                                               | 80830 (Eighty Thousand Eight Hundred Thirty )                                                        | 1975245 (Nineteen lakhs Seventy five thousand Two hundred and forty five only)                       |\n| Other expenditure on creation of Capital Assets (For setting up classrooms, seminar hall, conference hall , library, Lab, Engg workshops excluding expenditure on Land and Building) | 59549784 (Five Hundred Ninety five lakhs Forty nine thousand and Seven hundred eighty four only)       | 30373200 (Three hundred three Lakhs Seventy Three Thousand Two Hundred )                             | 33600112 (Three hundred thirty six Lakhs one hundred and twelve only)                                |",
+    "expected_document": "nirf_engineering_category_2nd_february_2026_36f252.md",
+    "category": "Faculty",
+    "section": "Financial Resources Utilised Amount for the Capital expenditure for previous 3 years",
+    "source_heading": "Financial Resources Utilised Amount for the Capital expenditure for previous 3 years",
+    "keywords": [
+      "academic",
+      "year",
+      "202425",
+      "202324",
+      "202223",
+      "utilised"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 72,
+    "question": "How can I meet the HOD of PCS Facilities Facilities of physically challenged students?",
+    "expected_answer": "Do your institution buildings have Lifts/Ramps?",
+    "expected_document": "nirf_engineering_category_2nd_february_2026_36f252.md",
+    "category": "Faculty",
+    "section": "PCS Facilities Facilities of physically challenged students",
+    "source_heading": "PCS Facilities Facilities of physically challenged students",
+    "keywords": [
+      "your",
+      "institution",
+      "buildings",
+      "liftsramps",
+      "than",
+      "provision"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 73,
+    "question": "How can I meet the HOD of Faculty Details2?",
+    "expected_answer": "|   Srno | Name                    |   Age | Designation         | Gender   | Qualification   |   Experience (In Months) | Currently working with institution?",
+    "expected_document": "nirf_engineering_category_2nd_february_2026_36f252.md",
+    "category": "Faculty",
+    "section": "Faculty Details2",
+    "source_heading": "Faculty Details2",
+    "keywords": [
+      "srno",
+      "name",
+      "designation",
+      "gender",
+      "qualification",
+      "experience"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 74,
+    "question": "How can I meet the HOD of Multiple Entry Exit and Indian Knowledge System?",
+    "expected_answer": "Has your institution implemented multiple entry/exit in your institution?",
+    "expected_document": "nirf_overall_category_7th_february_2026_c473c9.md",
+    "category": "Faculty",
+    "section": "Multiple Entry Exit and Indian Knowledge System",
+    "source_heading": "Multiple Entry Exit and Indian Knowledge System",
+    "keywords": [
+      "your",
+      "institution",
+      "implemented",
+      "multiple",
+      "entryexit",
+      "teaching"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 75,
+    "question": "How can I meet the HOD of Sustainable Living Practices?",
+    "expected_answer": "What specific programs does the institution/university have in place to reduce or eliminate single-use plastics on campus?",
+    "expected_document": "nirf_overall_category_7th_february_2026_c473c9.md",
+    "category": "Faculty",
+    "section": "Sustainable Living Practices",
+    "source_heading": "Sustainable Living Practices",
+    "keywords": [
+      "what",
+      "specific",
+      "programs",
+      "does",
+      "institutionuniversity",
+      "place"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  },
+  {
+    "id": 76,
+    "question": "How can I meet the HOD of Accreditation?",
+    "expected_answer": "Does your institute have a valid NAAC Accreditation?",
+    "expected_document": "nirf_overall_category_7th_february_2026_c473c9.md",
+    "category": "Faculty",
+    "section": "Accreditation",
+    "source_heading": "Accreditation",
+    "keywords": [
+      "does",
+      "your",
+      "institute",
+      "valid",
+      "naac",
+      "accreditation"
+    ],
+    "difficulty": "medium",
+    "perspective": "student visiting another department"
+  }
+]

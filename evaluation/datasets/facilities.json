@@ -1,0 +1,853 @@
+[
+  {
+    "id": 1,
+    "question": "Where is the Revised Time Table for 3year LL B December -2021 January 2022 Examination June 2021 Examination?",
+    "expected_answer": "|   COUR SE | COURSE_NAME        |   SUB_CODE | SUBJECT TITLE                        | Old Dates   | New Dates   | DAY       | FROM     | TO       | REMAR KS   |\n|-----------|--------------------|------------|--------------------------------------|-------------|-------------|-----------|----------|----------|------------|\n|       101 | 3 Year LL.B.",
+    "expected_document": "238rkf_revisedtimetable02122021_3075e0.md",
+    "category": "Facilities",
+    "section": "Revised Time Table for 3year LL B December -2021 January 2022 Examination June 2021 Examination",
+    "source_heading": "Revised Time Table for 3year LL B December -2021 January 2022 Examination June 2021 Examination",
+    "keywords": [
+      "cour",
+      "course_name",
+      "sub_code",
+      "subject",
+      "title",
+      "dates"
+    ],
+    "difficulty": "easy",
+    "perspective": "first-time campus visitor"
+  },
+  {
+    "id": 2,
+    "question": "Is there a gym inside the campus?",
+    "expected_answer": "|   COUR SE | COURSE_NAME        |   SUB_CODE | SUBJECT TITLE                        | Old Dates   | New Dates   | DAY       | FROM     | TO       | REMAR KS   |\n|-----------|--------------------|------------|--------------------------------------|-------------|-------------|-----------|----------|----------|------------|\n|       101 | 3 Year LL.B.",
+    "expected_document": "238rkf_revisedtimetable02122021_3075e0.md",
+    "category": "Facilities",
+    "section": "Revised Time Table for 3year LL B December -2021 January 2022 Examination June 2021 Examination",
+    "source_heading": "Revised Time Table for 3year LL B December -2021 January 2022 Examination June 2021 Examination",
+    "keywords": [
+      "cour",
+      "course_name",
+      "sub_code",
+      "subject",
+      "title",
+      "dates"
+    ],
+    "difficulty": "easy",
+    "perspective": "newly admitted student"
+  },
+  {
+    "id": 3,
+    "question": "Does the college have a medical room or clinic?",
+    "expected_answer": "|   COUR SE | COURSE_NAME        |   SUB_CODE | SUBJECT TITLE                        | Old Dates   | New Dates   | DAY       | FROM     | TO       | REMAR KS   |\n|-----------|--------------------|------------|--------------------------------------|-------------|-------------|-----------|----------|----------|------------|\n|       101 | 3 Year LL.B.",
+    "expected_document": "238rkf_revisedtimetable02122021_3075e0.md",
+    "category": "Facilities",
+    "section": "Revised Time Table for 3year LL B December -2021 January 2022 Examination June 2021 Examination",
+    "source_heading": "Revised Time Table for 3year LL B December -2021 January 2022 Examination June 2021 Examination",
+    "keywords": [
+      "cour",
+      "course_name",
+      "sub_code",
+      "subject",
+      "title",
+      "dates"
+    ],
+    "difficulty": "medium",
+    "perspective": "parent accompanying student"
+  },
+  {
+    "id": 4,
+    "question": "Is Wi-Fi available on campus for students?",
+    "expected_answer": "|   COUR SE | COURSE_NAME        |   SUB_CODE | SUBJECT TITLE                        | Old Dates   | New Dates   | DAY       | FROM     | TO       | REMAR KS   |\n|-----------|--------------------|------------|--------------------------------------|-------------|-------------|-----------|----------|----------|------------|\n|       101 | 3 Year LL.B.",
+    "expected_document": "238rkf_revisedtimetable02122021_3075e0.md",
+    "category": "Facilities",
+    "section": "Revised Time Table for 3year LL B December -2021 January 2022 Examination June 2021 Examination",
+    "source_heading": "Revised Time Table for 3year LL B December -2021 January 2022 Examination June 2021 Examination",
+    "keywords": [
+      "cour",
+      "course_name",
+      "sub_code",
+      "subject",
+      "title",
+      "dates"
+    ],
+    "difficulty": "easy",
+    "perspective": "newly admitted student"
+  },
+  {
+    "id": 5,
+    "question": "Where is the library located?",
+    "expected_answer": "|   COUR SE | COURSE_NAME        |   SUB_CODE | SUBJECT TITLE                        | Old Dates   | New Dates   | DAY       | FROM     | TO       | REMAR KS   |\n|-----------|--------------------|------------|--------------------------------------|-------------|-------------|-----------|----------|----------|------------|\n|       101 | 3 Year LL.B.",
+    "expected_document": "238rkf_revisedtimetable02122021_3075e0.md",
+    "category": "Facilities",
+    "section": "Revised Time Table for 3year LL B December -2021 January 2022 Examination June 2021 Examination",
+    "source_heading": "Revised Time Table for 3year LL B December -2021 January 2022 Examination June 2021 Examination",
+    "keywords": [
+      "cour",
+      "course_name",
+      "sub_code",
+      "subject",
+      "title",
+      "dates"
+    ],
+    "difficulty": "easy",
+    "perspective": "student lost on campus"
+  },
+  {
+    "id": 6,
+    "question": "Is there a cafeteria or canteen on campus?",
+    "expected_answer": "|   COUR SE | COURSE_NAME        |   SUB_CODE | SUBJECT TITLE                        | Old Dates   | New Dates   | DAY       | FROM     | TO       | REMAR KS   |\n|-----------|--------------------|------------|--------------------------------------|-------------|-------------|-----------|----------|----------|------------|\n|       101 | 3 Year LL.B.",
+    "expected_document": "238rkf_revisedtimetable02122021_3075e0.md",
+    "category": "Facilities",
+    "section": "Revised Time Table for 3year LL B December -2021 January 2022 Examination June 2021 Examination",
+    "source_heading": "Revised Time Table for 3year LL B December -2021 January 2022 Examination June 2021 Examination",
+    "keywords": [
+      "cour",
+      "course_name",
+      "sub_code",
+      "subject",
+      "title",
+      "dates"
+    ],
+    "difficulty": "easy",
+    "perspective": "first-time campus visitor"
+  },
+  {
+    "id": 7,
+    "question": "Where is the Hostels?",
+    "expected_answer": "We at KLE Tech University understand that comfortable, cosy, and safe accommodation is the most crucial requirement for students.",
+    "expected_document": "on_campus_facilities_36c031.md",
+    "category": "Facilities",
+    "section": "Hostels",
+    "source_heading": "Hostels",
+    "keywords": [
+      "tech",
+      "university",
+      "understand",
+      "comfortable",
+      "cosy",
+      "safe"
+    ],
+    "difficulty": "easy",
+    "perspective": "first-time campus visitor"
+  },
+  {
+    "id": 8,
+    "question": "Where is the Auditorium?",
+    "expected_answer": "KLE Tech University has a well-equipped auditorium that offers a huge seating capacity.",
+    "expected_document": "on_campus_facilities_36c031.md",
+    "category": "Facilities",
+    "section": "Auditorium",
+    "source_heading": "Auditorium",
+    "keywords": [
+      "tech",
+      "university",
+      "wellequipped",
+      "auditorium",
+      "offers",
+      "huge"
+    ],
+    "difficulty": "easy",
+    "perspective": "first-time campus visitor"
+  },
+  {
+    "id": 9,
+    "question": "Where is the Gymnasium?",
+    "expected_answer": "KLE Tech University has an in-house multifaceted state-of-the-art gymnasium to be used by both students and faculty members.",
+    "expected_document": "on_campus_facilities_36c031.md",
+    "category": "Facilities",
+    "section": "Gymnasium",
+    "source_heading": "Gymnasium",
+    "keywords": [
+      "tech",
+      "university",
+      "inhouse",
+      "multifaceted",
+      "stateoftheart",
+      "gymnasium"
+    ],
+    "difficulty": "easy",
+    "perspective": "first-time campus visitor"
+  },
+  {
+    "id": 10,
+    "question": "Where is the Bank & ATM?",
+    "expected_answer": "To provide its students and staff members with ease of financial transactions, KLE Tech University has banking facilities on its campus.",
+    "expected_document": "on_campus_facilities_36c031.md",
+    "category": "Facilities",
+    "section": "Bank & ATM",
+    "source_heading": "Bank & ATM",
+    "keywords": [
+      "provide",
+      "students",
+      "staff",
+      "members",
+      "ease",
+      "financial"
+    ],
+    "difficulty": "easy",
+    "perspective": "first-time campus visitor"
+  },
+  {
+    "id": 11,
+    "question": "Where is the Medical Health Centre?",
+    "expected_answer": "To provide the best on-campus healthcare services, KLE Tech University has established a well-equipped Medical Health Center supervised by a dedicated full-time team of qualified and experienced doctors with round-the-clock availability within the campus.",
+    "expected_document": "on_campus_facilities_36c031.md",
+    "category": "Facilities",
+    "section": "Medical Health Centre",
+    "source_heading": "Medical Health Centre",
+    "keywords": [
+      "provide",
+      "best",
+      "oncampus",
+      "healthcare",
+      "services",
+      "tech"
+    ],
+    "difficulty": "easy",
+    "perspective": "first-time campus visitor"
+  },
+  {
+    "id": 12,
+    "question": "Where is the Gym & Sports?",
+    "expected_answer": "KLE Tech University has an in-house multifaceted state-of-the-art gymnasium to be used by both students and faculty members.",
+    "expected_document": "on_campus_facilities_69b71b.md",
+    "category": "Facilities",
+    "section": "Gym & Sports",
+    "source_heading": "Gym & Sports",
+    "keywords": [
+      "tech",
+      "university",
+      "inhouse",
+      "multifaceted",
+      "stateoftheart",
+      "gymnasium"
+    ],
+    "difficulty": "easy",
+    "perspective": "first-time campus visitor"
+  },
+  {
+    "id": 13,
+    "question": "Where is the Laboratories?",
+    "expected_answer": "KLE Tech University has a well-equipped, world-class chain of laboratories to provide students with an exhaustive practical experience across streams and disciplines.",
+    "expected_document": "on_campus_facilities_69b71b.md",
+    "category": "Facilities",
+    "section": "Laboratories",
+    "source_heading": "Laboratories",
+    "keywords": [
+      "tech",
+      "university",
+      "wellequipped",
+      "worldclass",
+      "chain",
+      "laboratories"
+    ],
+    "difficulty": "easy",
+    "perspective": "first-time campus visitor"
+  },
+  {
+    "id": 14,
+    "question": "Where is the Latest Announcements?",
+    "expected_answer": "- Question Papers at DSPACE\n- Competitive  E BOOKS  for  Civil Service Exam, Defence Exam  and  Higher Studies/GATE Exam\n- E-Books are Available For MCA\n- E-Books, Journals and Databases are Availabe For Reference\n- E-Books are Available For MBA\n- E-Books are Available For Architecture\n- E-Books are Available For First Year",
+    "expected_document": "education_needs_complete_solution_e7153a.md",
+    "category": "Facilities",
+    "section": "Latest Announcements",
+    "source_heading": "Latest Announcements",
+    "keywords": [
+      "question",
+      "papers",
+      "dspace",
+      "competitive",
+      "books",
+      "civil"
+    ],
+    "difficulty": "easy",
+    "perspective": "first-time campus visitor"
+  },
+  {
+    "id": 15,
+    "question": "Where is the E-Resources?",
+    "expected_answer": "- Laxmi Publication\n- S-Chand\n- ELSEVIER Science Direct\n- PHI Learning\n- DELNET\n- ASME Digital collection\n- EBSCO HOST\n- IEEE Xplore Digital Library\n- ASCE Library\n- Pearson\n- CBS Publishers & Distributers\n\nLaxmi Publication\n\nS-Chand\n\nELSEVIER Science Direct\n\nPHI Learning\n\nDELNET\n\nASME Digital collection\n\nEBSCO HOST\n\nIEEE Xplore Digital Library\n\nASCE Library\n\nPearson\n\nCBS Publishers & Distributers\n\nE-Books\n\nTechnology Platform and Database\n\nResearch Support and Databases\n\nMassive Open Online Courses\n\nOpen/Free E-Resources\n\nInstitutional Membership\n\nE-Journals\n\nTrail Access\n\nWhat We Offer\n\nThe Central Library KLE Technological University provides all reading and learning resources and state-of-the-art infrastructural facilities.",
+    "expected_document": "education_needs_complete_solution_e7153a.md",
+    "category": "Facilities",
+    "section": "E-Resources",
+    "source_heading": "E-Resources",
+    "keywords": [
+      "laxmi",
+      "publication",
+      "schand",
+      "elsevier",
+      "science",
+      "direct"
+    ],
+    "difficulty": "easy",
+    "perspective": "first-time campus visitor"
+  },
+  {
+    "id": 16,
+    "question": "Where is the Library Collections?",
+    "expected_answer": "The Central Library has an Excellent Collection of Resources like Books, E-Books, E-Journals, Databases, CDS/DVD's, Architectural Designs, Rare Books, Bound volumes.",
+    "expected_document": "education_needs_complete_solution_e7153a.md",
+    "category": "Facilities",
+    "section": "Library Collections",
+    "source_heading": "Library Collections",
+    "keywords": [
+      "central",
+      "library",
+      "excellent",
+      "collection",
+      "resources",
+      "like"
+    ],
+    "difficulty": "easy",
+    "perspective": "first-time campus visitor"
+  },
+  {
+    "id": 17,
+    "question": "Where is the Library Space?",
+    "expected_answer": "The Central Library has sufficient.",
+    "expected_document": "education_needs_complete_solution_e7153a.md",
+    "category": "Facilities",
+    "section": "Library Space",
+    "source_heading": "Library Space",
+    "keywords": [
+      "central",
+      "library",
+      "sufficient",
+      "book",
+      "stack",
+      "area"
+    ],
+    "difficulty": "easy",
+    "perspective": "first-time campus visitor"
+  },
+  {
+    "id": 18,
+    "question": "Where is the Infrastructural Facilities?",
+    "expected_answer": "The central library has a very.",
+    "expected_document": "education_needs_complete_solution_e7153a.md",
+    "category": "Facilities",
+    "section": "Infrastructural Facilities",
+    "source_heading": "Infrastructural Facilities",
+    "keywords": [
+      "central",
+      "library",
+      "very",
+      "good",
+      "ambience",
+      "state"
+    ],
+    "difficulty": "easy",
+    "perspective": "first-time campus visitor"
+  },
+  {
+    "id": 19,
+    "question": "Where is the KLE University Central Library?",
+    "expected_answer": "The KLE Technological University New Central Library came into existence in 2003 with a carpet area of 3000 Sq.",
+    "expected_document": "education_needs_complete_solution_e7153a.md",
+    "category": "Facilities",
+    "section": "KLE University Central Library",
+    "source_heading": "KLE University Central Library",
+    "keywords": [
+      "technological",
+      "university",
+      "central",
+      "library",
+      "came",
+      "into"
+    ],
+    "difficulty": "easy",
+    "perspective": "first-time campus visitor"
+  },
+  {
+    "id": 20,
+    "question": "Where is the Reference Section?",
+    "expected_answer": "Monday to Friday:            8 AM to 8 PM\n\nSaturday and Sunday:     9 AM to 5 PM",
+    "expected_document": "education_needs_complete_solution_e7153a.md",
+    "category": "Facilities",
+    "section": "Reference Section",
+    "source_heading": "Reference Section",
+    "keywords": [
+      "monday",
+      "friday",
+      "saturday",
+      "sunday"
+    ],
+    "difficulty": "easy",
+    "perspective": "first-time campus visitor"
+  },
+  {
+    "id": 21,
+    "question": "Where is the Issue Section?",
+    "expected_answer": "Monday to Friday:            8 AM to 8 PM\n\nSaturday and Sunday:     9 AM to 5 PM",
+    "expected_document": "education_needs_complete_solution_e7153a.md",
+    "category": "Facilities",
+    "section": "Issue Section",
+    "source_heading": "Issue Section",
+    "keywords": [
+      "monday",
+      "friday",
+      "saturday",
+      "sunday"
+    ],
+    "difficulty": "easy",
+    "perspective": "first-time campus visitor"
+  },
+  {
+    "id": 22,
+    "question": "Where is the Reading Section?",
+    "expected_answer": "6 AM to 11:30 PM (All Days Including Holidays)\n\nGallery\n\nWhat Users Say About Us\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe librarian who assisted me went above and beyond to help me with my issues \nSIDDESH P GAONKAR\n\n\n\n\n\n\n\n\n\n\n\nWe find variety of books related to our branch and that is the positive point.",
+    "expected_document": "education_needs_complete_solution_e7153a.md",
+    "category": "Facilities",
+    "section": "Reading Section",
+    "source_heading": "Reading Section",
+    "keywords": [
+      "1130",
+      "days",
+      "including",
+      "holidays",
+      "gallery",
+      "what"
+    ],
+    "difficulty": "easy",
+    "perspective": "first-time campus visitor"
+  },
+  {
+    "id": 23,
+    "question": "Where is the K L E SOCIETY S LAW COLLEGE?",
+    "expected_answer": "(Affiliated to Karnataka State Law University, Hubballi, Recognized by BCI and Govt.",
+    "expected_document": "236krf_resuming_offline_classes_a5971f.md",
+    "category": "Facilities",
+    "section": "K L E SOCIETY S LAW COLLEGE",
+    "source_heading": "K L E SOCIETY S LAW COLLEGE",
+    "keywords": [
+      "affiliated",
+      "karnataka",
+      "state",
+      "university",
+      "hubballi",
+      "recognized"
+    ],
+    "difficulty": "easy",
+    "perspective": "first-time campus visitor"
+  },
+  {
+    "id": 24,
+    "question": "Where is the NOTICE?",
+    "expected_answer": "This is to inform all parents and students that in view of recent (29th January\n\n2022) SOP issued by the Govt of Karnataka, the OFFLINE classes shall commence for all\n\nclasses from 1st February 2022.",
+    "expected_document": "236krf_resuming_offline_classes_a5971f.md",
+    "category": "Facilities",
+    "section": "NOTICE",
+    "source_heading": "NOTICE",
+    "keywords": [
+      "inform",
+      "parents",
+      "students",
+      "view",
+      "recent",
+      "29th"
+    ],
+    "difficulty": "easy",
+    "perspective": "first-time campus visitor"
+  },
+  {
+    "id": 25,
+    "question": "Where is the GOVERNMENT OF KARNATAKA?",
+    "expected_answer": "RD 158 TNR 2020\n\nKarnataka Government Secretariat, Vidhana Soudha, Bengaluru, Dated:29-01-2022",
+    "expected_document": "236krf_resuming_offline_classes_a5971f.md",
+    "category": "Facilities",
+    "section": "GOVERNMENT OF KARNATAKA",
+    "source_heading": "GOVERNMENT OF KARNATAKA",
+    "keywords": [
+      "2020",
+      "karnataka",
+      "government",
+      "secretariat",
+      "vidhana",
+      "soudha"
+    ],
+    "difficulty": "easy",
+    "perspective": "first-time campus visitor"
+  },
+  {
+    "id": 26,
+    "question": "Where is the ORDER?",
+    "expected_answer": "Whereas, the State Government has imposed graded containment measures videorders of even number dated 04-01-2022, 11-01-2022, 21-012022 &amp; its connecting orders to combat the resurge of COVID 19 in the State driven mainly by Omicron variant of concern, which will be in force upto 31-01-2022.",
+    "expected_document": "236krf_resuming_offline_classes_a5971f.md",
+    "category": "Facilities",
+    "section": "ORDER",
+    "source_heading": "ORDER",
+    "keywords": [
+      "whereas",
+      "state",
+      "government",
+      "imposed",
+      "graded",
+      "containment"
+    ],
+    "difficulty": "easy",
+    "perspective": "first-time campus visitor"
+  },
+  {
+    "id": 27,
+    "question": "Where is the 13 Strict enforcement of the containment measures?",
+    "expected_answer": "Chief Commissioner BBMP/Police Commissioners/Deputy Commissioners/ Superintendents of Police Commissioner, BBMP/Deputy Commissioners shall strictly implement the aforementioned containment measures and enforce COVID 19 Appropriate Behaviour issued under the Disaster Management Act, 2005.",
+    "expected_document": "236krf_resuming_offline_classes_a5971f.md",
+    "category": "Facilities",
+    "section": "13 Strict enforcement of the containment measures",
+    "source_heading": "13 Strict enforcement of the containment measures",
+    "keywords": [
+      "chief",
+      "commissioner",
+      "bbmppolice",
+      "commissionersdeputy",
+      "commissioners",
+      "superintendents"
+    ],
+    "difficulty": "easy",
+    "perspective": "first-time campus visitor"
+  },
+  {
+    "id": 28,
+    "question": "Where is the Time Table for 3year LL B October November -2021 80 marks Q P Pattern?",
+    "expected_answer": "|   SE |                      | SUB_CODE   | SUBJECT_TITLE                                                     | DATE       | DAY      | FROM              | TO       | REMARNS   |\n|------|----------------------|------------|-------------------------------------------------------------------|------------|----------|-------------------|----------|-----------|\n|  111 | 3 Year 11.1.",
+    "expected_document": "241rkf_kslu_time_table_octobernovember_2021_c_ffde2e.md",
+    "category": "Facilities",
+    "section": "Time Table for 3year LL B October November -2021 80 marks Q P Pattern",
+    "source_heading": "Time Table for 3year LL B October November -2021 80 marks Q P Pattern",
+    "keywords": [
+      "sub_code",
+      "subject_title",
+      "date",
+      "remarns",
+      "year",
+      "40x11"
+    ],
+    "difficulty": "easy",
+    "perspective": "first-time campus visitor"
+  },
+  {
+    "id": 29,
+    "question": "Where is the 11 Significant contributions made by IQAC during the current year maximum five bullets?",
+    "expected_answer": "- Focusing on Higher Cognitive Learning outcome · Establishment of the Centre of Excellence in Visual Intelligence (CEVI).",
+    "expected_document": "9imguf_aqar2021_22resubmittedaugust2023_850101.md",
+    "category": "Facilities",
+    "section": "11 Significant contributions made by IQAC during the current year maximum five bullets",
+    "source_heading": "11 Significant contributions made by IQAC during the current year maximum five bullets",
+    "keywords": [
+      "focusing",
+      "higher",
+      "cognitive",
+      "learning",
+      "outcome",
+      "establishment"
+    ],
+    "difficulty": "easy",
+    "perspective": "first-time campus visitor"
+  },
+  {
+    "id": 30,
+    "question": "Where is the 21 Distance education online education?",
+    "expected_answer": "Online classes were held regularly during the Pandemic.",
+    "expected_document": "9imguf_aqar2021_22resubmittedaugust2023_850101.md",
+    "category": "Facilities",
+    "section": "21 Distance education online education",
+    "source_heading": "21 Distance education online education",
+    "keywords": [
+      "online",
+      "classes",
+      "held",
+      "regularly",
+      "during",
+      "pandemic"
+    ],
+    "difficulty": "easy",
+    "perspective": "first-time campus visitor"
+  },
+  {
+    "id": 31,
+    "question": "Where is the 19 Appropriate integration of Indian Knowledge system teaching in Indian Language culture using online course?",
+    "expected_answer": "The University aims at integrating culture and language with education and a lot of importance is given to local culture and local food habits.",
+    "expected_document": "9imguf_aqar2021_22resubmittedaugust2023_850101.md",
+    "category": "Facilities",
+    "section": "19 Appropriate integration of Indian Knowledge system teaching in Indian Language culture using online course",
+    "source_heading": "19 Appropriate integration of Indian Knowledge system teaching in Indian Language culture using online course",
+    "keywords": [
+      "university",
+      "aims",
+      "integrating",
+      "culture",
+      "language",
+      "education"
+    ],
+    "difficulty": "easy",
+    "perspective": "first-time campus visitor"
+  },
+  {
+    "id": 32,
+    "question": "Where is the 18 Skill development?",
+    "expected_answer": "The University in its non-engineering programs has introduced 'Ability Enhancement' and 'Skill Enhancement' courses, which are in alignment with National Skills Qualifications Framework.",
+    "expected_document": "9imguf_aqar2021_22resubmittedaugust2023_850101.md",
+    "category": "Facilities",
+    "section": "18 Skill development",
+    "source_heading": "18 Skill development",
+    "keywords": [
+      "university",
+      "nonengineering",
+      "programs",
+      "introduced",
+      "ability",
+      "enhancement"
+    ],
+    "difficulty": "easy",
+    "perspective": "first-time campus visitor"
+  },
+  {
+    "id": 33,
+    "question": "Where is the 12 Plan of action chalked out by the IQAC in the beginning of the Academic year towards Quality Enhancement and the outcome achieved by the end of the Academic year?",
+    "expected_answer": "| Plan of Action                                                       | Achievements/Outcomes            |\n|----------------------------------------------------------------------|----------------------------------|\n| Higher Cognitive Learning outcome                                    | Pilot done with Few departments.",
+    "expected_document": "9imguf_aqar2021_22resubmittedaugust2023_850101.md",
+    "category": "Facilities",
+    "section": "12 Plan of action chalked out by the IQAC in the beginning of the Academic year towards Quality Enhancement and the outcome achieved by the end of the Academic year",
+    "source_heading": "12 Plan of action chalked out by the IQAC in the beginning of the Academic year towards Quality Enhancement and the outcome achieved by the end of the Academic year",
+    "keywords": [
+      "plan",
+      "action",
+      "achievementsoutcomes",
+      "higher",
+      "cognitive",
+      "learning"
+    ],
+    "difficulty": "easy",
+    "perspective": "first-time campus visitor"
+  },
+  {
+    "id": 34,
+    "question": "Where is the 1 1 2 - Number of Programmes where syllabus revision was carried out during the year?",
+    "expected_answer": "08\n\n| File Description                    | Documents   |\n|-------------------------------------|-------------|\n| Upload the data template            | View File   |\n| Upload relevant supporting document | View File   |",
+    "expected_document": "9imguf_aqar2021_22resubmittedaugust2023_850101.md",
+    "category": "Facilities",
+    "section": "1 1 2 - Number of Programmes where syllabus revision was carried out during the year",
+    "source_heading": "1 1 2 - Number of Programmes where syllabus revision was carried out during the year",
+    "keywords": [
+      "file",
+      "description",
+      "documents",
+      "upload",
+      "data",
+      "template"
+    ],
+    "difficulty": "easy",
+    "perspective": "first-time campus visitor"
+  },
+  {
+    "id": 35,
+    "question": "Where is the 1 2 1 - Number of new courses introduced of the total number of courses across all programs offered during the year?",
+    "expected_answer": "35\n\n| File Description                    | Documents   |\n|-------------------------------------|-------------|\n| Upload the data template            | View File   |\n| Upload relevant supporting document | View File   |",
+    "expected_document": "9imguf_aqar2021_22resubmittedaugust2023_850101.md",
+    "category": "Facilities",
+    "section": "1 2 1 - Number of new courses introduced of the total number of courses across all programs offered during the year",
+    "source_heading": "1 2 1 - Number of new courses introduced of the total number of courses across all programs offered during the year",
+    "keywords": [
+      "file",
+      "description",
+      "documents",
+      "upload",
+      "data",
+      "template"
+    ],
+    "difficulty": "easy",
+    "perspective": "first-time campus visitor"
+  },
+  {
+    "id": 36,
+    "question": "Where is the 1 4 - Feedback System?",
+    "expected_answer": "- 1.4.1 - Structured feedback for design and review of syllabus - semester wise / is received from Students Teachers Employers Alumni\n- All 4 of the above\n\n| File Description                    | Documents   |\n|-------------------------------------|-------------|\n| Upload relevant supporting document | View File   |",
+    "expected_document": "9imguf_aqar2021_22resubmittedaugust2023_850101.md",
+    "category": "Facilities",
+    "section": "1 4 - Feedback System",
+    "source_heading": "1 4 - Feedback System",
+    "keywords": [
+      "structured",
+      "feedback",
+      "design",
+      "review",
+      "syllabus",
+      "semester"
+    ],
+    "difficulty": "easy",
+    "perspective": "first-time campus visitor"
+  },
+  {
+    "id": 37,
+    "question": "Where is the 2 3 - Teaching- Learning Process?",
+    "expected_answer": "- 2.3.1 - Student centric methods, such as experiential learning, participative learning and problemsolving methodologies are used for enhancing learning experiences\n\nOne of the major steps undertaken by the University over the years is to create a learning ecosystem that is experiential, contextual, and situated.",
+    "expected_document": "9imguf_aqar2021_22resubmittedaugust2023_850101.md",
+    "category": "Facilities",
+    "section": "2 3 - Teaching- Learning Process",
+    "source_heading": "2 3 - Teaching- Learning Process",
+    "keywords": [
+      "student",
+      "centric",
+      "methods",
+      "such",
+      "experiential",
+      "learning"
+    ],
+    "difficulty": "easy",
+    "perspective": "first-time campus visitor"
+  },
+  {
+    "id": 38,
+    "question": "Where is the 1 Programme?",
+    "expected_answer": "1.1\n\nNumber of programmes offered during the year:\n\n19\n\n| File Description                                                                   | Documents                                                                          |\n|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|\n| Data Template                                                                      | View File                                                                          |\n| 1.2 Number of departments offering academic programmes 10                          | 1.2 Number of departments offering academic programmes 10                          |\n| 2.Student                                                                          |                                                                                    |\n| 2.1 Number of students during the year 5827                                        | 2.1 Number of students during the year 5827                                        |\n| File Description                                                                   | Documents                                                                          |\n| Data Template View File                                                            | Data Template View File                                                            |\n| Number of outgoing File Description                                                | year: Documents                                                                    |\n| Data Template                                                                      | View File                                                                          |\n| 2.3 Number of students appeared in the University examination during the year 1646 | 2.3 Number of students appeared in the University examination during the year 1646 |\n| File Description                                                                   | Documents                                                                          |\n| Data Template 2.4                                                                  | View File 290                                                                      |\n| 3.Academic                                                                         | 3.Academic                                                                         |\n| 3.1                                                                                | 836                                                                                |\n| Data Template                                                                      | View File                                                                          |\n\n| 3.2                                                               | 3.2                                                               | 336                                                               |\n|-------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|\n| Number of full time teachers during the year                      | Number of full time teachers during the year                      | Number of full time teachers during the year                      |\n| File Description                                                  | Documents                                                         | Documents                                                         |\n| Data Template                                                     |                                                                   | View File                                                         |\n| 3.3 Number of sanctioned posts during the year                    | 3.3 Number of sanctioned posts during the year                    | 301                                                               |\n| File Description                                                  | Documents                                                         | Documents                                                         |\n| Data Template                                                     |                                                                   | View File                                                         |\n| 4.Institution                                                     | 4.Institution                                                     | 4.Institution                                                     |\n| 4.1                                                               | 4.1                                                               | 55000                                                             |\n| File Description                                                  | Documents                                                         | Documents                                                         |\n| Data Template                                                     |                                                                   | View File                                                         |\n| 4.2                                                               | 4.2                                                               | 448                                                               |\n| Number of seats earmarked for reserved category as per GOI/ State | Number of seats earmarked for reserved category as per GOI/ State | Number of seats earmarked for reserved category as per GOI/ State |\n| File Description                                                  | Documents                                                         | Documents                                                         |\n| Data Template                                                     |                                                                   | View File                                                         |\n| 4.3 Total number of classrooms and seminar halls                  | 4.3 Total number of classrooms and seminar halls                  | 75                                                                |\n| 4.4 Total number of computers in the campus for academic purpose  | 4.4 Total number of computers in the campus for academic purpose  | 2311                                                              |\n| 4.5                                                               | 4.5                                                               | 4671                                                              |\n| Part B                                                            | Part B                                                            | Part B                                                            |",
+    "expected_document": "9imguf_aqar2021_22resubmittedaugust2023_850101.md",
+    "category": "Facilities",
+    "section": "1 Programme",
+    "source_heading": "1 Programme",
+    "keywords": [
+      "number",
+      "programmes",
+      "offered",
+      "during",
+      "year",
+      "file"
+    ],
+    "difficulty": "easy",
+    "perspective": "first-time campus visitor"
+  },
+  {
+    "id": 39,
+    "question": "Where is the ABC Registration Proof http viewdocs kletech ac in 2021-22_NAAC_DATA Extended 20Profile ABC 20Registration 20proof png?",
+    "expected_answer": "The Board of Governors in its meeting held on 17th June 2022, approved the inclusion of provision for Academic Collaboration with Foreign Higher Educational Institutions to offer Twinning, Joint Degree and Dual Degree Programmes in its regulations (Item No.",
+    "expected_document": "9imguf_aqar2021_22resubmittedaugust2023_850101.md",
+    "category": "Facilities",
+    "section": "ABC Registration Proof http viewdocs kletech ac in 2021-22_NAAC_DATA Extended 20Profile ABC 20Registration 20proof png",
+    "source_heading": "ABC Registration Proof http viewdocs kletech ac in 2021-22_NAAC_DATA Extended 20Profile ABC 20Registration 20proof png",
+    "keywords": [
+      "board",
+      "governors",
+      "meeting",
+      "held",
+      "17th",
+      "june"
+    ],
+    "difficulty": "easy",
+    "perspective": "first-time campus visitor"
+  },
+  {
+    "id": 40,
+    "question": "Where is the 2 Courses designed with a Hands-On Learning approach?",
+    "expected_answer": "- Engineering Exploration: The core course offered in the first year focuses on problem-solving, the multi-disciplinary nature of engineering, the engineering design process, and teamwork.",
+    "expected_document": "9imguf_aqar2021_22resubmittedaugust2023_850101.md",
+    "category": "Facilities",
+    "section": "2 Courses designed with a Hands-On Learning approach",
+    "source_heading": "2 Courses designed with a Hands-On Learning approach",
+    "keywords": [
+      "engineering",
+      "exploration",
+      "core",
+      "course",
+      "offered",
+      "first"
+    ],
+    "difficulty": "easy",
+    "perspective": "first-time campus visitor"
+  },
+  {
+    "id": 41,
+    "question": "Where is the YEARLY STATUS REPORT - 2021-2022?",
+    "expected_answer": "| Part A                                             | Part A                       |\n|----------------------------------------------------|------------------------------|\n| Data of the Institution                            | Data of the Institution      |\n| 1.Name of the Institution                          | KLE TECHNOLOGICAL UNIVERSITY |\n| Name of the Head of the institution                | Dr.",
+    "expected_document": "9imguf_aqar2021_22resubmittedaugust2023_850101.md",
+    "category": "Facilities",
+    "section": "YEARLY STATUS REPORT - 2021-2022",
+    "source_heading": "YEARLY STATUS REPORT - 2021-2022",
+    "keywords": [
+      "part",
+      "data",
+      "institution",
+      "1name",
+      "technological",
+      "university"
+    ],
+    "difficulty": "easy",
+    "perspective": "first-time campus visitor"
+  },
+  {
+    "id": 42,
+    "question": "Where is the 3304?",
+    "expected_answer": "| File Description                    | Documents   |\n|-------------------------------------|-------------|\n| Upload the data template            | View File   |\n| Upload relevant supporting document | View File   |",
+    "expected_document": "9imguf_aqar2021_22resubmittedaugust2023_850101.md",
+    "category": "Facilities",
+    "section": "3304",
+    "source_heading": "3304",
+    "keywords": [
+      "file",
+      "description",
+      "documents",
+      "upload",
+      "data",
+      "template"
+    ],
+    "difficulty": "easy",
+    "perspective": "first-time campus visitor"
+  },
+  {
+    "id": 43,
+    "question": "Where is the the facility?",
+    "expected_answer": "| File Description                    | Documents   |\n|-------------------------------------|-------------|\n| Upload the data template            | View File   |\n| Upload relevant supporting document | View File   |",
+    "expected_document": "9imguf_aqar2021_22resubmittedaugust2023_850101.md",
+    "category": "Facilities",
+    "section": "448",
+    "source_heading": "448",
+    "keywords": [
+      "file",
+      "description",
+      "documents",
+      "upload",
+      "data",
+      "template"
+    ],
+    "difficulty": "easy",
+    "perspective": "first-time campus visitor"
+  },
+  {
+    "id": 44,
+    "question": "Where is the 2 3 2 - Teachers use ICT enabled tools including online resources for effective teaching and learning processes during the year?",
+    "expected_answer": "The classrooms and laboratories on-the campus are ICT-enabled with projectors and other digital gadgets.",
+    "expected_document": "9imguf_aqar2021_22resubmittedaugust2023_850101.md",
+    "category": "Facilities",
+    "section": "2 3 2 - Teachers use ICT enabled tools including online resources for effective teaching and learning processes during the year",
+    "source_heading": "2 3 2 - Teachers use ICT enabled tools including online resources for effective teaching and learning processes during the year",
+    "keywords": [
+      "classrooms",
+      "laboratories",
+      "onthe",
+      "campus",
+      "ictenabled",
+      "projectors"
+    ],
+    "difficulty": "easy",
+    "perspective": "first-time campus visitor"
+  },
+  {
+    "id": 45,
+    "question": "Where is the 20 Focus on Outcome based education OBE Focus on Outcome based education OBE?",
+    "expected_answer": "To ensure the fitness of the higher education system to negotiate new challenges, an adaptation of proper academic frameworks and strategic interventions is necessary.",
+    "expected_document": "9imguf_aqar2021_22resubmittedaugust2023_850101.md",
+    "category": "Facilities",
+    "section": "20 Focus on Outcome based education OBE Focus on Outcome based education OBE",
+    "source_heading": "20 Focus on Outcome based education OBE Focus on Outcome based education OBE",
+    "keywords": [
+      "ensure",
+      "fitness",
+      "higher",
+      "education",
+      "system",
+      "negotiate"
+    ],
+    "difficulty": "easy",
+    "perspective": "first-time campus visitor"
+  }
+]

@@ -1,0 +1,539 @@
+[
+  {
+    "id": 1,
+    "question": "Where is Bachelor of Commerce and Bachelor of Laws?",
+    "expected_answer": "| Date (Day)             | I SEMESTER Course (Course Code) (2.00 PM to 5.00 PM)                              |\n|------------------------|-----------------------------------------------------------------------------------|\n| 10-02-2022 (Thursday)  | Law of Torts 21LCLC102                                                            |\n| 12/02/2022 (Saturday)  | Minor:Business Economics : Paper I: Micro Economics 21LCLH103                     |\n| 14/02/2022 (Monday)    | Major: Business Studies: Paper I: Business Organisation and Environment 21LCLH102 |\n| 16/02/2022 (Wednesday) | Language I : General English 21LCLH101                                            |\n| 18/02/2022 (Friday)    | Legal Methods 21LCLC101                                                           |\n\n<!-- image -->",
+    "expected_document": "235krf_kletech_university_revised_time_table_4c7a71.md",
+    "category": "Navigation",
+    "section": "Bachelor of Commerce and Bachelor of Laws",
+    "source_heading": "Bachelor of Commerce and Bachelor of Laws",
+    "keywords": [
+      "date",
+      "semester",
+      "course",
+      "code",
+      "10022022",
+      "thursday"
+    ],
+    "difficulty": "easy",
+    "perspective": "student lost on campus"
+  },
+  {
+    "id": 2,
+    "question": "Is there parking for visitors on campus?",
+    "expected_answer": "(Constituent College of KLE Technological University)",
+    "expected_document": "235krf_kletech_university_revised_time_table_4c7a71.md",
+    "category": "Navigation",
+    "section": "KLE Society s Law College Bengaluru",
+    "source_heading": "KLE Society s Law College Bengaluru",
+    "keywords": [
+      "constituent",
+      "college",
+      "technological",
+      "university"
+    ],
+    "difficulty": "medium",
+    "perspective": "parent accompanying student"
+  },
+  {
+    "id": 3,
+    "question": "Where is KLE Society s Law College Bengaluru?",
+    "expected_answer": "(Constituent College of KLE Technological University)",
+    "expected_document": "235krf_kletech_university_revised_time_table_4c7a71.md",
+    "category": "Navigation",
+    "section": "KLE Society s Law College Bengaluru",
+    "source_heading": "KLE Society s Law College Bengaluru",
+    "keywords": [
+      "constituent",
+      "college",
+      "technological",
+      "university"
+    ],
+    "difficulty": "easy",
+    "perspective": "student lost on campus"
+  },
+  {
+    "id": 4,
+    "question": "How do I reach the examination section?",
+    "expected_answer": "(Constituent College of KLE Technological University)",
+    "expected_document": "235krf_kletech_university_revised_time_table_4c7a71.md",
+    "category": "Navigation",
+    "section": "KLE Society s Law College Bengaluru",
+    "source_heading": "KLE Society s Law College Bengaluru",
+    "keywords": [
+      "constituent",
+      "college",
+      "technological",
+      "university"
+    ],
+    "difficulty": "medium",
+    "perspective": "student looking for administrative offices"
+  },
+  {
+    "id": 5,
+    "question": "How do I reach the Bachelor of Commerce and Bachelor of Laws?",
+    "expected_answer": "| Date (Day)             | I SEMESTER Course (Course Code) (2.00 PM to 5.00 PM)                              |\n|------------------------|-----------------------------------------------------------------------------------|\n| 10-02-2022 (Thursday)  | Law of Torts 21LCLC102                                                            |\n| 12/02/2022 (Saturday)  | Minor:Business Economics : Paper I: Micro Economics 21LCLH103                     |\n| 14/02/2022 (Monday)    | Major: Business Studies: Paper I: Business Organisation and Environment 21LCLH102 |\n| 16/02/2022 (Wednesday) | Language I : General English 21LCLH101                                            |\n| 18/02/2022 (Friday)    | Legal Methods 21LCLC101                                                           |\n\n<!-- image -->",
+    "expected_document": "235krf_kletech_university_revised_time_table_4c7a71.md",
+    "category": "Navigation",
+    "section": "Bachelor of Commerce and Bachelor of Laws",
+    "source_heading": "Bachelor of Commerce and Bachelor of Laws",
+    "keywords": [
+      "date",
+      "semester",
+      "course",
+      "code",
+      "10022022",
+      "thursday"
+    ],
+    "difficulty": "easy",
+    "perspective": "first-time campus visitor"
+  },
+  {
+    "id": 6,
+    "question": "Where is the canteen?",
+    "expected_answer": "(Constituent College of KLE Technological University)",
+    "expected_document": "235krf_kletech_university_revised_time_table_4c7a71.md",
+    "category": "Navigation",
+    "section": "KLE Society s Law College Bengaluru",
+    "source_heading": "KLE Society s Law College Bengaluru",
+    "keywords": [
+      "constituent",
+      "college",
+      "technological",
+      "university"
+    ],
+    "difficulty": "easy",
+    "perspective": "student lost on campus"
+  },
+  {
+    "id": 7,
+    "question": "How do I reach the Bachelor of Laws?",
+    "expected_answer": "| Date (Day)             | I SEMESTER Course (Course Code) (2.00 PM to 5.00 PM)   |\n|------------------------|--------------------------------------------------------|\n| 10-02-2022 (Thursday)  | Law of Torts 21LLLC103                                 |\n| 12/02/2022 (Saturday)  | Family Law-I 21LLLC104                                 |\n| 14/02/2022 (Monday)    | Law of Crimes- I- Indian Penal Code 21LLLC105          |\n| 16/02/2022 (Wednesday) | Contract -I 21LLLC102                                  |\n| 18/02/2022 (Friday)    | Constitutional Law - I 21LLLC101                       |\n\n<!-- image -->",
+    "expected_document": "235krf_kletech_university_revised_time_table_4c7a71.md",
+    "category": "Navigation",
+    "section": "Bachelor of Laws",
+    "source_heading": "Bachelor of Laws",
+    "keywords": [
+      "date",
+      "semester",
+      "course",
+      "code",
+      "10022022",
+      "thursday"
+    ],
+    "difficulty": "easy",
+    "perspective": "first-time campus visitor"
+  },
+  {
+    "id": 8,
+    "question": "Can you guide me to the KLE Society s Law College Bengaluru?",
+    "expected_answer": "(Constituent College of KLE Technological University)",
+    "expected_document": "235krf_kletech_university_revised_time_table_4c7a71.md",
+    "category": "Navigation",
+    "section": "KLE Society s Law College Bengaluru",
+    "source_heading": "KLE Society s Law College Bengaluru",
+    "keywords": [
+      "constituent",
+      "college",
+      "technological",
+      "university"
+    ],
+    "difficulty": "easy",
+    "perspective": "guest attending an event"
+  },
+  {
+    "id": 9,
+    "question": "Can you guide me to the Controller of Examinations?",
+    "expected_answer": "Nandi Controller of Examinations KLE Technological University BVB Coliege Campus, Vidyanagar, HUBBALLI-580 031.",
+    "expected_document": "235krf_kletech_university_revised_time_table_4c7a71.md",
+    "category": "Navigation",
+    "section": "Controller of Examinations",
+    "source_heading": "Controller of Examinations",
+    "keywords": [
+      "322022",
+      "anilkumar",
+      "nandi",
+      "controller",
+      "examinations",
+      "technological"
+    ],
+    "difficulty": "easy",
+    "perspective": "guest attending an event"
+  },
+  {
+    "id": 10,
+    "question": "Where is Bachelor of Laws?",
+    "expected_answer": "| Date (Day)             | I SEMESTER Course (Course Code) (2.00 PM to 5.00 PM)   |\n|------------------------|--------------------------------------------------------|\n| 10-02-2022 (Thursday)  | Law of Torts 21LLLC103                                 |\n| 12/02/2022 (Saturday)  | Family Law-I 21LLLC104                                 |\n| 14/02/2022 (Monday)    | Law of Crimes- I- Indian Penal Code 21LLLC105          |\n| 16/02/2022 (Wednesday) | Contract -I 21LLLC102                                  |\n| 18/02/2022 (Friday)    | Constitutional Law - I 21LLLC101                       |\n\n<!-- image -->",
+    "expected_document": "235krf_kletech_university_revised_time_table_4c7a71.md",
+    "category": "Navigation",
+    "section": "Bachelor of Laws",
+    "source_heading": "Bachelor of Laws",
+    "keywords": [
+      "date",
+      "semester",
+      "course",
+      "code",
+      "10022022",
+      "thursday"
+    ],
+    "difficulty": "easy",
+    "perspective": "student lost on campus"
+  },
+  {
+    "id": 11,
+    "question": "Where is Bachelor of Business Administration and Bachelor of Laws?",
+    "expected_answer": "| Date (Day)             | I SEMESTER Course (Course Code) (2.00 PM to 5.00 PM)                              |\n|------------------------|-----------------------------------------------------------------------------------|\n| 10-02-2022 (Thursday)  | Law of Torts 21LBLC102                                                            |\n| 12/02/2022 (Saturday)  | Minor:Business Economics : Paper I: Managerial Economics 21LBLH103                |\n| 14/02/2022 (Monday)    | Major: Business Studies: Paper I: Business Organisation and Environment 21LBLH102 |\n| 16/02/2022 (Wednesday) | Language I : General English 21LBLH101                                            |\n| 18/02/2022 (Friday)    | Legal Methods 21LBLC101                                                           |\n\n<!-- image -->",
+    "expected_document": "235krf_kletech_university_revised_time_table_4c7a71.md",
+    "category": "Navigation",
+    "section": "Bachelor of Business Administration and Bachelor of Laws",
+    "source_heading": "Bachelor of Business Administration and Bachelor of Laws",
+    "keywords": [
+      "date",
+      "semester",
+      "course",
+      "code",
+      "10022022",
+      "thursday"
+    ],
+    "difficulty": "easy",
+    "perspective": "student lost on campus"
+  },
+  {
+    "id": 12,
+    "question": "How do I reach the KLE Society s Law College Bengaluru?",
+    "expected_answer": "(Constituent College of KLE Technological University)",
+    "expected_document": "235krf_kletech_university_revised_time_table_4c7a71.md",
+    "category": "Navigation",
+    "section": "KLE Society s Law College Bengaluru",
+    "source_heading": "KLE Society s Law College Bengaluru",
+    "keywords": [
+      "constituent",
+      "college",
+      "technological",
+      "university"
+    ],
+    "difficulty": "easy",
+    "perspective": "first-time campus visitor"
+  },
+  {
+    "id": 13,
+    "question": "Where is Controller of Examinations?",
+    "expected_answer": "Nandi Controller of Examinations KLE Technological University BVB Coliege Campus, Vidyanagar, HUBBALLI-580 031.",
+    "expected_document": "235krf_kletech_university_revised_time_table_4c7a71.md",
+    "category": "Navigation",
+    "section": "Controller of Examinations",
+    "source_heading": "Controller of Examinations",
+    "keywords": [
+      "322022",
+      "anilkumar",
+      "nandi",
+      "controller",
+      "examinations",
+      "technological"
+    ],
+    "difficulty": "easy",
+    "perspective": "student lost on campus"
+  },
+  {
+    "id": 14,
+    "question": "Can you guide me to the Bachelor of Commerce and Bachelor of Laws?",
+    "expected_answer": "| Date (Day)             | I SEMESTER Course (Course Code) (2.00 PM to 5.00 PM)                              |\n|------------------------|-----------------------------------------------------------------------------------|\n| 10-02-2022 (Thursday)  | Law of Torts 21LCLC102                                                            |\n| 12/02/2022 (Saturday)  | Minor:Business Economics : Paper I: Micro Economics 21LCLH103                     |\n| 14/02/2022 (Monday)    | Major: Business Studies: Paper I: Business Organisation and Environment 21LCLH102 |\n| 16/02/2022 (Wednesday) | Language I : General English 21LCLH101                                            |\n| 18/02/2022 (Friday)    | Legal Methods 21LCLC101                                                           |\n\n<!-- image -->",
+    "expected_document": "235krf_kletech_university_revised_time_table_4c7a71.md",
+    "category": "Navigation",
+    "section": "Bachelor of Commerce and Bachelor of Laws",
+    "source_heading": "Bachelor of Commerce and Bachelor of Laws",
+    "keywords": [
+      "date",
+      "semester",
+      "course",
+      "code",
+      "10022022",
+      "thursday"
+    ],
+    "difficulty": "easy",
+    "perspective": "guest attending an event"
+  },
+  {
+    "id": 15,
+    "question": "Where is the nearest washroom?",
+    "expected_answer": "(Constituent College of KLE Technological University)",
+    "expected_document": "235krf_kletech_university_revised_time_table_4c7a71.md",
+    "category": "Navigation",
+    "section": "KLE Society s Law College Bengaluru",
+    "source_heading": "KLE Society s Law College Bengaluru",
+    "keywords": [
+      "constituent",
+      "college",
+      "technological",
+      "university"
+    ],
+    "difficulty": "easy",
+    "perspective": "guest attending an event"
+  },
+  {
+    "id": 16,
+    "question": "Where is The United Nations Economic and Social Council ECOSOC?",
+    "expected_answer": "Being one of the six main bodies of the UN, this committee came into being to focus on economic, social and environmental issues and aspects.",
+    "expected_document": "172krf_kleslcmun_newsletter_f40fee.md",
+    "category": "Navigation",
+    "section": "The United Nations Economic and Social Council ECOSOC",
+    "source_heading": "The United Nations Economic and Social Council ECOSOC",
+    "keywords": [
+      "being",
+      "main",
+      "bodies",
+      "committee",
+      "came",
+      "into"
+    ],
+    "difficulty": "easy",
+    "perspective": "student lost on campus"
+  },
+  {
+    "id": 17,
+    "question": "Where is Newsletter?",
+    "expected_answer": "11\n\nth &amp; 12 th  Nov,2017\n\n0\n\nAbout the College K.L.E Society's Law College, right from its inception has been imparting outstanding educational services with a vision to facilitate the maximum growth in their students as well as the society.",
+    "expected_document": "172krf_kleslcmun_newsletter_f40fee.md",
+    "category": "Navigation",
+    "section": "Newsletter",
+    "source_heading": "Newsletter",
+    "keywords": [
+      "nov2017",
+      "college",
+      "societys",
+      "right",
+      "inception",
+      "imparting"
+    ],
+    "difficulty": "easy",
+    "perspective": "student lost on campus"
+  },
+  {
+    "id": 18,
+    "question": "Where is About the KLESLCMUN 2017?",
+    "expected_answer": "K.L.E.S' MUN 2017 is a constructive forum where participants shall discuss complex global issues, including international security, economic progress and humanitarian crisis.",
+    "expected_document": "172krf_kleslcmun_newsletter_f40fee.md",
+    "category": "Navigation",
+    "section": "About the KLESLCMUN 2017",
+    "source_heading": "About the KLESLCMUN 2017",
+    "keywords": [
+      "kles",
+      "2017",
+      "constructive",
+      "forum",
+      "where",
+      "participants"
+    ],
+    "difficulty": "easy",
+    "perspective": "student lost on campus"
+  },
+  {
+    "id": 19,
+    "question": "How do I reach the United Nations Security Council UNSC?",
+    "expected_answer": "The agenda of KLESLC MUN 2017, UNSC was the 'Situation in Mali'.",
+    "expected_document": "172krf_kleslcmun_newsletter_f40fee.md",
+    "category": "Navigation",
+    "section": "United Nations Security Council UNSC",
+    "source_heading": "United Nations Security Council UNSC",
+    "keywords": [
+      "agenda",
+      "kleslc",
+      "2017",
+      "unsc",
+      "situation",
+      "mali"
+    ],
+    "difficulty": "easy",
+    "perspective": "first-time campus visitor"
+  },
+  {
+    "id": 20,
+    "question": "Where is United Nations Office on Drugs and Crime UNODC?",
+    "expected_answer": "A stimulating discourse by the Secretary General, Soumyaroop Chatterjee, of KLESCMUN'17 at the inaugural ceremony, held on 11November,2017, assured fruitfulness of the two-day long deliberation upon four of the major tribulations that the world community is attempting to confront.",
+    "expected_document": "172krf_kleslcmun_newsletter_f40fee.md",
+    "category": "Navigation",
+    "section": "United Nations Office on Drugs and Crime UNODC",
+    "source_heading": "United Nations Office on Drugs and Crime UNODC",
+    "keywords": [
+      "stimulating",
+      "discourse",
+      "secretary",
+      "general",
+      "soumyaroop",
+      "chatterjee"
+    ],
+    "difficulty": "easy",
+    "perspective": "student lost on campus"
+  },
+  {
+    "id": 21,
+    "question": "Can you guide me to the Newsletter?",
+    "expected_answer": "11\n\nth &amp; 12 th  Nov,2017\n\n0\n\nAbout the College K.L.E Society's Law College, right from its inception has been imparting outstanding educational services with a vision to facilitate the maximum growth in their students as well as the society.",
+    "expected_document": "172krf_kleslcmun_newsletter_f40fee.md",
+    "category": "Navigation",
+    "section": "Newsletter",
+    "source_heading": "Newsletter",
+    "keywords": [
+      "nov2017",
+      "college",
+      "societys",
+      "right",
+      "inception",
+      "imparting"
+    ],
+    "difficulty": "easy",
+    "perspective": "guest attending an event"
+  },
+  {
+    "id": 22,
+    "question": "Can you guide me to the Table of Contents?",
+    "expected_answer": "| Committee Report                                                 | Reporters                                            |   Page No.",
+    "expected_document": "172krf_kleslcmun_newsletter_f40fee.md",
+    "category": "Navigation",
+    "section": "Table of Contents",
+    "source_heading": "Table of Contents",
+    "keywords": [
+      "committee",
+      "report",
+      "reporters",
+      "disarmament",
+      "international",
+      "security"
+    ],
+    "difficulty": "easy",
+    "perspective": "guest attending an event"
+  },
+  {
+    "id": 23,
+    "question": "Where is United Nations Security Council UNSC?",
+    "expected_answer": "The agenda of KLESLC MUN 2017, UNSC was the 'Situation in Mali'.",
+    "expected_document": "172krf_kleslcmun_newsletter_f40fee.md",
+    "category": "Navigation",
+    "section": "United Nations Security Council UNSC",
+    "source_heading": "United Nations Security Council UNSC",
+    "keywords": [
+      "agenda",
+      "kleslc",
+      "2017",
+      "unsc",
+      "situation",
+      "mali"
+    ],
+    "difficulty": "easy",
+    "perspective": "student lost on campus"
+  },
+  {
+    "id": 24,
+    "question": "Where is Disarmament and International Security First Committee -DISEC?",
+    "expected_answer": "The Disarmament and International Security Committee of the KLESLC MUN 2017, on the agenda item, Fourth Generation Warfare (4GW) in the Middle East commenced on the 11 th of November.",
+    "expected_document": "172krf_kleslcmun_newsletter_f40fee.md",
+    "category": "Navigation",
+    "section": "Disarmament and International Security First Committee -DISEC",
+    "source_heading": "Disarmament and International Security First Committee -DISEC",
+    "keywords": [
+      "disarmament",
+      "international",
+      "security",
+      "committee",
+      "kleslc",
+      "2017"
+    ],
+    "difficulty": "easy",
+    "perspective": "student lost on campus"
+  },
+  {
+    "id": 25,
+    "question": "How do I reach the Newsletter?",
+    "expected_answer": "11\n\nth &amp; 12 th  Nov,2017\n\n0\n\nAbout the College K.L.E Society's Law College, right from its inception has been imparting outstanding educational services with a vision to facilitate the maximum growth in their students as well as the society.",
+    "expected_document": "172krf_kleslcmun_newsletter_f40fee.md",
+    "category": "Navigation",
+    "section": "Newsletter",
+    "source_heading": "Newsletter",
+    "keywords": [
+      "nov2017",
+      "college",
+      "societys",
+      "right",
+      "inception",
+      "imparting"
+    ],
+    "difficulty": "easy",
+    "perspective": "first-time campus visitor"
+  },
+  {
+    "id": 26,
+    "question": "How do I reach the United Nations Office on Drugs and Crime UNODC?",
+    "expected_answer": "A stimulating discourse by the Secretary General, Soumyaroop Chatterjee, of KLESCMUN'17 at the inaugural ceremony, held on 11November,2017, assured fruitfulness of the two-day long deliberation upon four of the major tribulations that the world community is attempting to confront.",
+    "expected_document": "172krf_kleslcmun_newsletter_f40fee.md",
+    "category": "Navigation",
+    "section": "United Nations Office on Drugs and Crime UNODC",
+    "source_heading": "United Nations Office on Drugs and Crime UNODC",
+    "keywords": [
+      "stimulating",
+      "discourse",
+      "secretary",
+      "general",
+      "soumyaroop",
+      "chatterjee"
+    ],
+    "difficulty": "easy",
+    "perspective": "first-time campus visitor"
+  },
+  {
+    "id": 27,
+    "question": "Where is Table of Contents?",
+    "expected_answer": "| Committee Report                                                 | Reporters                                            |   Page No.",
+    "expected_document": "172krf_kleslcmun_newsletter_f40fee.md",
+    "category": "Navigation",
+    "section": "Table of Contents",
+    "source_heading": "Table of Contents",
+    "keywords": [
+      "committee",
+      "report",
+      "reporters",
+      "disarmament",
+      "international",
+      "security"
+    ],
+    "difficulty": "easy",
+    "perspective": "student lost on campus"
+  },
+  {
+    "id": 28,
+    "question": "Can you guide me to the The United Nations Economic and Social Council ECOSOC?",
+    "expected_answer": "Being one of the six main bodies of the UN, this committee came into being to focus on economic, social and environmental issues and aspects.",
+    "expected_document": "172krf_kleslcmun_newsletter_f40fee.md",
+    "category": "Navigation",
+    "section": "The United Nations Economic and Social Council ECOSOC",
+    "source_heading": "The United Nations Economic and Social Council ECOSOC",
+    "keywords": [
+      "being",
+      "main",
+      "bodies",
+      "committee",
+      "came",
+      "into"
+    ],
+    "difficulty": "easy",
+    "perspective": "guest attending an event"
+  },
+  {
+    "id": 29,
+    "question": "Can you guide me to the About the KLESLCMUN 2017?",
+    "expected_answer": "K.L.E.S' MUN 2017 is a constructive forum where participants shall discuss complex global issues, including international security, economic progress and humanitarian crisis.",
+    "expected_document": "172krf_kleslcmun_newsletter_f40fee.md",
+    "category": "Navigation",
+    "section": "About the KLESLCMUN 2017",
+    "source_heading": "About the KLESLCMUN 2017",
+    "keywords": [
+      "kles",
+      "2017",
+      "constructive",
+      "forum",
+      "where",
+      "participants"
+    ],
+    "difficulty": "easy",
+    "perspective": "guest attending an event"
+  }
+]

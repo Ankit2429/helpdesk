@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "question": "How much is the tuition fee?",
+    "expected_answer": "No 66, \"Sangam,\n\nKotilinganagar,\n\nBehind Keshav Kunj, Gokul Road\n\nHubballi-580 024\n\nTel: 8296093654\n\ne-mail: skchenni@gmail.com",
+    "expected_document": "151imguf_audit_report_scanned_2020_21_02b374.md",
+    "category": "Fees",
+    "section": "Chenni Associates CHARTERED ACCOUNTANTS",
+    "source_heading": "Chenni Associates CHARTERED ACCOUNTANTS",
+    "keywords": [
+      "sangam",
+      "kotilinganagar",
+      "behind",
+      "keshav",
+      "kunj",
+      "gokul"
+    ],
+    "difficulty": "easy",
+    "perspective": "parent accompanying student"
+  },
+  {
+    "id": 2,
+    "question": "Can I pay fees online?",
+    "expected_answer": "No 66, \"Sangam,\n\nKotilinganagar,\n\nBehind Keshav Kunj, Gokul Road\n\nHubballi-580 024\n\nTel: 8296093654\n\ne-mail: skchenni@gmail.com",
+    "expected_document": "151imguf_audit_report_scanned_2020_21_02b374.md",
+    "category": "Fees",
+    "section": "Chenni Associates CHARTERED ACCOUNTANTS",
+    "source_heading": "Chenni Associates CHARTERED ACCOUNTANTS",
+    "keywords": [
+      "sangam",
+      "kotilinganagar",
+      "behind",
+      "keshav",
+      "kunj",
+      "gokul"
+    ],
+    "difficulty": "easy",
+    "perspective": "newly admitted student"
+  },
+  {
+    "id": 3,
+    "question": "Are scholarships available for students?",
+    "expected_answer": "No 66, \"Sangam,\n\nKotilinganagar,\n\nBehind Keshav Kunj, Gokul Road\n\nHubballi-580 024\n\nTel: 8296093654\n\ne-mail: skchenni@gmail.com",
+    "expected_document": "151imguf_audit_report_scanned_2020_21_02b374.md",
+    "category": "Fees",
+    "section": "Chenni Associates CHARTERED ACCOUNTANTS",
+    "source_heading": "Chenni Associates CHARTERED ACCOUNTANTS",
+    "keywords": [
+      "sangam",
+      "kotilinganagar",
+      "behind",
+      "keshav",
+      "kunj",
+      "gokul"
+    ],
+    "difficulty": "medium",
+    "perspective": "prospective student"
+  },
+  {
+    "id": 4,
+    "question": "When is the last date to pay fees?",
+    "expected_answer": "No 66, \"Sangam,\n\nKotilinganagar,\n\nBehind Keshav Kunj, Gokul Road\n\nHubballi-580 024\n\nTel: 8296093654\n\ne-mail: skchenni@gmail.com",
+    "expected_document": "151imguf_audit_report_scanned_2020_21_02b374.md",
+    "category": "Fees",
+    "section": "Chenni Associates CHARTERED ACCOUNTANTS",
+    "source_heading": "Chenni Associates CHARTERED ACCOUNTANTS",
+    "keywords": [
+      "sangam",
+      "kotilinganagar",
+      "behind",
+      "keshav",
+      "kunj",
+      "gokul"
+    ],
+    "difficulty": "medium",
+    "perspective": "newly admitted student"
+  },
+  {
+    "id": 5,
+    "question": "Where do I pay the college fees?",
+    "expected_answer": "No 66, \"Sangam,\n\nKotilinganagar,\n\nBehind Keshav Kunj, Gokul Road\n\nHubballi-580 024\n\nTel: 8296093654\n\ne-mail: skchenni@gmail.com",
+    "expected_document": "151imguf_audit_report_scanned_2020_21_02b374.md",
+    "category": "Fees",
+    "section": "Chenni Associates CHARTERED ACCOUNTANTS",
+    "source_heading": "Chenni Associates CHARTERED ACCOUNTANTS",
+    "keywords": [
+      "sangam",
+      "kotilinganagar",
+      "behind",
+      "keshav",
+      "kunj",
+      "gokul"
+    ],
+    "difficulty": "easy",
+    "perspective": "parent accompanying student"
+  }
+]
