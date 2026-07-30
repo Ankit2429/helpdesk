@@ -32,19 +32,26 @@ def create_rag_pipeline(settings: Settings) -> RAGPipeline:
         },
     )
 
+    candidate_window = getattr(settings, "candidate_window", settings.reranker_top_n)
+    final_top_k = getattr(settings, "final_top_k", settings.rag_search_limit)
+
     hybrid_retriever = HybridRetriever(
         similarity_store=faiss_store,
-        bm25_top_k=settings.reranker_top_n,
-        dense_top_k=settings.reranker_top_n,
-        final_top_k=settings.reranker_top_n,
+        bm25_top_k=candidate_window,
+        dense_top_k=candidate_window,
+        final_top_k=candidate_window,
+        rrf_k=getattr(settings, "rrf_k", 60),
+        weight_dense=getattr(settings, "weight_dense", 0.5),
+        weight_sparse=getattr(settings, "weight_sparse", 0.5),
+        fusion_mode=getattr(settings, "fusion_mode", "weighted_hybrid"),
     )
 
     reranker = CrossEncoderReranker(
         model_name=settings.reranker_model,
         device=settings.embedding_device,
         enabled=settings.reranker_enabled,
-        top_n=settings.reranker_top_n,
-        top_m=settings.reranker_top_m,
+        top_n=candidate_window,
+        top_m=final_top_k,
     )
 
     if settings.faiss_index_path.exists() and (settings.faiss_index_path / "index.faiss").exists():
@@ -66,7 +73,8 @@ def create_rag_pipeline(settings: Settings) -> RAGPipeline:
             add_start_index=settings.rag_add_start_index,
         ),
         similarity_store=hybrid_retriever,
-        search_limit=settings.rag_search_limit,
+        search_limit=final_top_k,
         reranker=reranker,
-        reranker_top_n=settings.reranker_top_n,
+        reranker_top_n=candidate_window,
+        deduplicate_documents=getattr(settings, "deduplicate_documents", True),
     )

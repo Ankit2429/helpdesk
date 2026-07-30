@@ -1,20 +1,26 @@
 """Structured Prompt Context Builder for RAG retrieval."""
 
+import logging
 import hashlib
 from collections.abc import Sequence
 from typing import Any
 
 from campus_helpdesk.domain.knowledge import SearchResult
 
+logger = logging.getLogger(__name__)
+
 
 class PromptContextBuilder:
     """Formats retrieved KnowledgeDocument chunks into structured prompt context with citations."""
 
-    def __init__(
-        self,
-        max_context_size: int = 3000,
-        similarity_threshold: float = 2.0,
-    ) -> None:
+    def __init__(self, max_context_size: int = 3000, similarity_threshold: float = 2.0) -> None:
+        """
+        Initialize the PromptContextBuilder.
+
+        Args:
+            max_context_size: Maximum number of characters for the context.
+            similarity_threshold: Distance threshold to filter out less similar chunks.
+        """
         self.max_context_size = max_context_size
         self.similarity_threshold = similarity_threshold
 

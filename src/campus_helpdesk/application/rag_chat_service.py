@@ -45,7 +45,8 @@ class RAGChatService(ChatService):
         self._llm_service = llm_service
         self._rag_pipeline = rag_pipeline
         self._query_rewriter = query_rewriter or QueryRewriter()
-        self._context_builder = context_builder
+        self._context_builder = context_builder or PromptContextBuilder(similarity_threshold=999.0)
+
         self.session_manager = session_manager or SessionManager()
         self.confidence_engine = confidence_engine or ConfidenceEngine()
         self._system_prompt = system_prompt
@@ -76,6 +77,8 @@ class RAGChatService(ChatService):
             try:
                 search_results = self._rag_pipeline.search(search_query)
                 if search_results:
+                    for i, res in enumerate(search_results):
+                        logger.debug(f"Chunk {i+1} distance: {res.distance}")
                     confidence_assessment = self.confidence_engine.evaluate(search_results)
                     context_str = self._context_builder.build_context(search_results, confidence_assessment)
             except Exception as err:
@@ -114,21 +117,30 @@ class RAGChatService(ChatService):
             confidence_level
         )
         
-        if answerability == "Insufficient":
-            reply = FALLBACK_NO_INFO_REPLY
-        else:
-            parts = [self._system_prompt]
-            if history:
-                parts.append("History:\n" + history_str)
-            if context_str:
-                parts.append(f"Context:\n{context_str}")
-            parts.append(f"User Question: {message}")
+        parts = [self._system_prompt]
+        if history:
+            parts.append("History:\n" + history_str)
+        if context_str:
+            parts.append(f"Context:\n{context_str}")
+        parts.append(f"User Question: {message}")
 
-            prompt = "\n\n".join(parts)
-            reply = self._llm_service.generate(prompt)
-            
-            # Post-validate citations
-            reply = CitationValidator.validate_citations(reply, [res.document for res in search_results])
+        prompt = "\n\n".join(parts)
+        
+        num_citations = len(confidence_assessment.supporting_sources) if confidence_assessment and confidence_assessment.supporting_sources else 0
+        logger.debug(
+            "--- GENERATED PROMPT INFO ---\n"
+            f"Retrieved chunks: {len(search_results)}\n"
+            f"Context length (chars): {len(context_str)}\n"
+            f"Prompt length (chars): {len(prompt)}\n"
+            f"Number of citations: {num_citations}\n"
+            f"Prompt Content:\n{prompt}\n"
+            "-----------------------------"
+        )
+
+        reply = self._llm_service.generate(prompt)
+        
+        # Post-validate citations
+        reply = CitationValidator.validate_citations(reply, [res.document for res in search_results])
 
         # Record conversation turns
         memory.add_message("user", message)

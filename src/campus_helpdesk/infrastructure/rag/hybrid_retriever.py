@@ -7,6 +7,7 @@ from collections.abc import Sequence
 from pathlib import Path
 from typing import Any
 
+from campus_helpdesk.application.exceptions import RetrievalError
 from campus_helpdesk.domain.knowledge import KnowledgeDocument, SearchResult
 from campus_helpdesk.infrastructure.rag.bm25_store import BM25SearchStore
 from campus_helpdesk.infrastructure.rag.faiss_store import FAISSSimilarityStore
@@ -21,10 +22,13 @@ class HybridRetriever:
         self,
         similarity_store: FAISSSimilarityStore,
         bm25_store: BM25SearchStore | None = None,
-        bm25_top_k: int = 5,
-        dense_top_k: int = 5,
-        final_top_k: int = 4,
+        bm25_top_k: int = 25,
+        dense_top_k: int = 25,
+        final_top_k: int = 25,
         rrf_k: int = 60,
+        weight_dense: float = 0.5,
+        weight_sparse: float = 0.5,
+        fusion_mode: str = "weighted_hybrid",
     ) -> None:
         self.similarity_store = similarity_store
         self.bm25_store = bm25_store or BM25SearchStore()
@@ -32,6 +36,9 @@ class HybridRetriever:
         self.dense_top_k = dense_top_k
         self.final_top_k = final_top_k
         self.rrf_k = rrf_k
+        self.weight_dense = weight_dense
+        self.weight_sparse = weight_sparse
+        self.fusion_mode = fusion_mode
         self._bm25_indexed = len(self.bm25_store._documents) > 0
 
     @property
@@ -96,27 +103,34 @@ class HybridRetriever:
         start_time = time.perf_counter()
         target_limit = limit if limit is not None else self.final_top_k
 
+        # Direct shortcuts for dense_only and bm25_only fusion modes
+        if self.fusion_mode == "dense_only":
+            dense_results = self.similarity_store.search(query, limit=target_limit)
+            return dense_results[:target_limit], {"fusion_mode": "dense_only"}
+        elif self.fusion_mode == "bm25_only" and self._bm25_indexed:
+            bm25_results = self.bm25_store.search(query, limit=target_limit)
+            return bm25_results[:target_limit], {"fusion_mode": "bm25_only"}
+
         # 1. BM25 Sparse Search
         bm25_results: list[SearchResult] = []
-        if self._bm25_indexed:
+        if self._bm25_indexed and self.weight_sparse > 0:
             try:
                 bm25_results = self.bm25_store.search(query, limit=self.bm25_top_k)
             except Exception as err:
                 logger.warning("BM25 search error: %s", err)
-                # Continue; BM25 failure does not abort retrieval
 
         # 2. FAISS Dense Search
         dense_results: list[SearchResult] = []
-        try:
-            dense_results = self.similarity_store.search(query, limit=self.dense_top_k)
-        except RetrievalError as err:
-            logger.error("FAISS dense search RetrievalError: %s", err)
-            raise  # Propagate to caller for handling
-        except Exception as err:
-            logger.warning("FAISS dense search unexpected error: %s", err)
-            # Continue with empty dense_results
+        if self.weight_dense > 0:
+            try:
+                dense_results = self.similarity_store.search(query, limit=self.dense_top_k)
+            except RetrievalError as err:
+                logger.error("FAISS dense search RetrievalError: %s", err)
+                raise
+            except Exception as err:
+                logger.warning("FAISS dense search unexpected error: %s", err)
 
-        # 3. Reciprocal Rank Fusion (RRF)
+        # 3. Reciprocal Rank Fusion (Weighted RRF)
         rrf_scores: dict[str, float] = {}
         doc_map: dict[str, KnowledgeDocument] = {}
         distance_map: dict[str, float] = {}
@@ -125,7 +139,7 @@ class HybridRetriever:
         for rank, match in enumerate(bm25_results, start=1):
             doc = match.document
             doc_hash = hashlib.sha256(doc.content.strip().encode("utf-8")).hexdigest()
-            rrf_scores[doc_hash] = rrf_scores.get(doc_hash, 0.0) + (1.0 / (self.rrf_k + rank))
+            rrf_scores[doc_hash] = rrf_scores.get(doc_hash, 0.0) + self.weight_sparse * (1.0 / (self.rrf_k + rank))
             doc_map[doc_hash] = doc
             distance_map[doc_hash] = min(distance_map.get(doc_hash, match.distance), match.distance)
 
@@ -133,7 +147,7 @@ class HybridRetriever:
         for rank, match in enumerate(dense_results, start=1):
             doc = match.document
             doc_hash = hashlib.sha256(doc.content.strip().encode("utf-8")).hexdigest()
-            rrf_scores[doc_hash] = rrf_scores.get(doc_hash, 0.0) + (1.0 / (self.rrf_k + rank))
+            rrf_scores[doc_hash] = rrf_scores.get(doc_hash, 0.0) + self.weight_dense * (1.0 / (self.rrf_k + rank))
             doc_map[doc_hash] = doc
             distance_map[doc_hash] = min(distance_map.get(doc_hash, match.distance), match.distance)
 

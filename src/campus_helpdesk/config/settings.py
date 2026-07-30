@@ -45,17 +45,59 @@ class Settings(BaseSettings):
     embedding_batch_size: int = 32
     embedding_normalize: bool = True
     embedding_show_progress: bool = False
-    embedding_local_files_only: bool = True
-    rag_chunk_size: int = 800
-    rag_chunk_overlap: int = 120
-    rag_chunk_separators: list[str] = Field(default_factory=lambda: ["\n\n", "\n", " ", ""])
-    rag_add_start_index: bool = True
-    rag_search_limit: int = 4
-    rag_distance_threshold: float = 2.0
+    # ---- Optimization parameters ----
+cache_maxsize_embeddings: int = 1_000_000  # max number of embeddings to cache
+cache_ttl_retrieval_seconds: int = 300
+adaptive_top_k_enabled: bool = True
+adaptive_top_k_base: int = 5
+adaptive_top_k_increment: int = 2
+embedding_local_files_only: bool = True
+rag_chunk_size: int = 800
+rag_chunk_overlap: int = 120
+rag_chunk_separators: list[str] = Field(default_factory=lambda: ["\n\n", "\n", " ", ""])
+rag_add_start_index: bool = True
+rag_search_limit: int = 5
+rag_distance_threshold: float = 2.0
+candidate_window: int = Field(
+    default=25,
+    validation_alias=AliasChoices("CANDIDATE_WINDOW", "INITIAL_CANDIDATES", "RERANKER_TOP_N")
+)
+initial_candidates: int = Field(
+    default=25,
+    validation_alias=AliasChoices("INITIAL_CANDIDATES", "CANDIDATE_WINDOW", "RERANKER_TOP_N")
+)
+    final_top_k: int = Field(
+        default=5,
+        validation_alias=AliasChoices("FINAL_TOP_K", "FINAL_RESULTS", "RAG_SEARCH_LIMIT")
+    )
+    final_results: int = Field(
+        default=5,
+        validation_alias=AliasChoices("FINAL_RESULTS", "FINAL_TOP_K", "RAG_SEARCH_LIMIT")
+    )
+    deduplicate_documents: bool = Field(
+        default=True,
+        validation_alias=AliasChoices("DEDUPLICATE_DOCUMENTS", "RAG_DEDUPLICATE_DOCUMENTS")
+    )
+    rrf_k: int = Field(
+        default=60,
+        validation_alias=AliasChoices("RRF_K", "HYBRID_RRF_K")
+    )
+    weight_dense: float = Field(
+        default=0.5,
+        validation_alias=AliasChoices("WEIGHT_DENSE", "HYBRID_WEIGHT_DENSE")
+    )
+    weight_sparse: float = Field(
+        default=0.5,
+        validation_alias=AliasChoices("WEIGHT_SPARSE", "HYBRID_WEIGHT_SPARSE")
+    )
+    fusion_mode: str = Field(
+        default="weighted_hybrid",
+        validation_alias=AliasChoices("FUSION_MODE", "HYBRID_FUSION_MODE")
+    )
     reranker_enabled: bool = True
     reranker_model: str = "cross-encoder/ms-marco-MiniLM-L-6-v2"
-    reranker_top_n: int = 10
-    reranker_top_m: int = 4
+    reranker_top_n: int = 25
+    reranker_top_m: int = 5
     webcam_index: int = 0
     camera_fps: int = 15
     person_detection_reset_frames: int = 30
@@ -69,11 +111,36 @@ class Settings(BaseSettings):
 
     model_config = SettingsConfigDict(env_file=".env", env_file_encoding="utf-8", extra="ignore")
 
-    # New configuration fields added for Phase 1 cleanup
+    # Confidence Engine configuration
+    confidence_weights: dict[str, float] = {
+        "reranker": 0.35,
+        "distance": 0.30,
+        "count": 0.15,
+        "source_diversity": 0.10,
+        "evidence_consistency": 0.10,
+    }
+    confidence_thresholds: dict[str, float] = {
+        "high": 0.80,
+        "medium": 0.55,
+        "low": 0.30,
+    }
+    hallucination_risk_thresholds: dict[str, float] = {
+        "very_low": 0.2,
+        "low": 0.4,
+        "medium": 0.6,
+        "high": 0.8,
+    }
+    answer_verification_enabled: bool = True
+    debug_confidence: bool = False
     vision_confidence: float = 0.95
     vision_min_hits: int = 3
-    vision_min_misses: int = 10
-    vision_queue_maxsize: int = 1
+    # Observability and metrics configuration
+    logging_json: bool = True  # Emit logs as JSON lines
+    metrics_flush_interval_seconds: int = 60  # Interval for dashboard write
+    dashboard_path: str = r"d:/AUNTII/diagnostics/performance_dashboard.json"
+    health_check_timeout_seconds: int = 2
+    # Existing values continue
+
     vision_frame_scale_width: int = 640
     vision_detection_scale: float = 1.05
     vision_detection_win_stride: list[int] = Field(default_factory=lambda: [8, 8])

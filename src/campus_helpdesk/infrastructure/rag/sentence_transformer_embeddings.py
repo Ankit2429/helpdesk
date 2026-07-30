@@ -1,6 +1,8 @@
 """LangChain embedding adapter powered by Sentence Transformers."""
 
+from functools import lru_cache
 from threading import RLock
+from typing import List
 
 from langchain_core.embeddings import Embeddings
 from sentence_transformers import SentenceTransformer

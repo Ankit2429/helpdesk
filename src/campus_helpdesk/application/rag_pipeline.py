@@ -24,7 +24,8 @@ class RAGPipeline:
         similarity_store: SimilarityStore,
         search_limit: int,
         reranker: Any | None = None,
-        reranker_top_n: int = 10,
+        reranker_top_n: int = 25,
+        deduplicate_documents: bool = True,
     ) -> None:
         self._document_loader = document_loader
         self._document_chunker = document_chunker
@@ -32,6 +33,7 @@ class RAGPipeline:
         self._search_limit = search_limit
         self._reranker = reranker
         self._reranker_top_n = reranker_top_n
+        self._deduplicate_documents = deduplicate_documents
 
     def ingest_file(self, source_path: Path, persist: bool = True) -> IngestionResult:
         """Load, chunk, index, and optionally persist a knowledge source file (.pdf or .md)."""
@@ -68,11 +70,45 @@ class RAGPipeline:
         if result_limit < 1:
             raise ValueError("Search limit must be at least one.")
 
-        if self._reranker is not None:
-            candidates = self._similarity_store.search(query, limit=self._reranker_top_n)
-            return self._reranker.rerank(query, candidates, top_m=result_limit)
+        # Step 1: Initial candidate search (fetch top_n candidates, e.g. 25)
+        candidate_count = max(self._reranker_top_n, result_limit * 5)
+        candidates = self._similarity_store.search(query, limit=candidate_count)
+        logger.info("Candidates before reranking: %d", len(candidates))
 
-        return self._similarity_store.search(query, result_limit)
+        # Step 2: Rerank initial candidates if Cross-Encoder reranker is configured
+        if self._reranker is not None:
+            candidates = self._reranker.rerank(query, candidates, top_m=candidate_count)
+
+        # Step 3: Document-level deduplication (keep highest ranked chunk per source document)
+        if self._deduplicate_documents:
+            seen_sources: set[str] = set()
+            deduped_results: list[SearchResult] = []
+            for res in candidates:
+                doc = getattr(res, "document", None)
+                metadata = getattr(doc, "metadata", {}) if doc else {}
+                source_id = (
+                    metadata.get("source_filename")
+                    or metadata.get("source")
+                    or getattr(doc, "source", None)
+                    or str(doc)
+                )
+                if source_id not in seen_sources:
+                    seen_sources.add(source_id)
+                    deduped_results.append(res)
+                    if len(deduped_results) == result_limit:
+                        break
+            final_results = deduped_results
+        else:
+            final_results = candidates[:result_limit]
+
+        logger.info("Candidates after deduplication: %d", len(final_results))
+        final_doc_names = [
+            getattr(r.document, "metadata", {}).get("source_filename") or getattr(r.document, "metadata", {}).get("source")
+            for r in final_results
+        ]
+        logger.info("Final returned documents: %s", final_doc_names)
+
+        return final_results
 
     def load_index(self) -> None:
         """Restore a previously persisted similarity index."""
