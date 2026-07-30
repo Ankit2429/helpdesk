@@ -28,3 +28,34 @@ Thumbs.db
 # Audio debug captures
 *.wav
 debug_capture.wav
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environment
+.venv/
+venv/
+
+# Environment
+.env
+
+# Coverage
+.coverage
+htmlcov/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+
+# Storage (if generated at runtime)
+storage/
