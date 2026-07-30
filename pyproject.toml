@@ -32,6 +32,7 @@ dependencies = [
   "chromadb>=1.5.9",
   "hf-xet>=1.5.2",
   "webrtcvad-wheels>=2.0.14",
+  "rank-bm25>=0.2.2",
 ]
 
 [project.scripts]
@@ -47,9 +48,16 @@ dev = [
 packages = ["src/campus_helpdesk"]
 
 [tool.pytest.ini_options]
-testpaths = ["tests"]
+testpaths = ["tests", "bvbcet_rag_pipeline/tests"]
 addopts = "-ra"
-pythonpath = ["src"]
+pythonpath = ["src", "bvbcet_rag_pipeline", "bvbcet_scraper"]
+
+[tool.pyright]
+extraPaths = ["src", "bvbcet_rag_pipeline", "bvbcet_scraper"]
+executionEnvironments = [
+  { root = "bvbcet_rag_pipeline", extraPaths = ["bvbcet_rag_pipeline"] },
+  { root = "bvbcet_scraper", extraPaths = ["bvbcet_scraper"] }
+]
 
 [tool.ruff]
 target-version = "py311"

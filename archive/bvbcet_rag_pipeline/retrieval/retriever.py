@@ -28,6 +28,12 @@ logger = get_logger("retriever")
 DEFAULT_PERSIST_DIR: Path = CHROMA_DIR
 
 
+from retrieval.citation_formatter import CitationFormatter, FormattedCitationOutput
+from retrieval.reranker import CrossEncoderReranker
+from utils.multilingual_utils import detect_language, normalize_text, select_model_for_language
+from vector_db.hybrid_search import HybridSearchEngine
+
+
 class ChromaRetriever:
     """Offline RAG Retriever querying ChromaDB vector store and returning LangChain Documents."""
 
@@ -37,13 +43,17 @@ class ChromaRetriever:
         persist_dir: Path = DEFAULT_PERSIST_DIR,
         collection_name: str = DEFAULT_COLLECTION_NAME,
         top_k: int = 5,
-        score_threshold: float = 0.0,
+        score_threshold: float = 0.35,
+        enable_reranker: bool = True,
+        enable_hybrid: bool = True,
     ) -> None:
         self.model_name = model_name
         self.persist_dir = Path(persist_dir).resolve()
         self.collection_name = collection_name
         self.top_k = top_k
         self.score_threshold = score_threshold
+        self.enable_reranker = enable_reranker
+        self.enable_hybrid = enable_hybrid
 
         # Device detection
         self.gpu_available = torch.cuda.is_available()
@@ -54,15 +64,13 @@ class ChromaRetriever:
 
         logger.info(f"Connecting to persistent ChromaDB client at '{self.persist_dir}'")
         self.client = chromadb.PersistentClient(path=str(self.persist_dir))
-        
+
         try:
             self.collection = self.client.get_collection(name=self.collection_name)
         except Exception:
-            available_colls = [c.name for c in self.client.list_collections()]
-            raise RuntimeError(
-                f"ChromaDB collection '{self.collection_name}' does not exist at '{self.persist_dir}'. "
-                f"Available collections: {available_colls}. "
-                f"Please run 'python -m vector_db.chroma_builder' to build and populate vectors."
+            self.collection = self.client.get_or_create_collection(
+                name=self.collection_name,
+                metadata={"hnsw:space": "cosine"},
             )
 
         vector_count = self.collection.count()
@@ -73,6 +81,10 @@ class ChromaRetriever:
             )
         else:
             logger.info(f"Connected to collection '{self.collection_name}'. Total vectors: {vector_count}")
+
+        # Subsystems
+        self.reranker = CrossEncoderReranker(score_threshold=score_threshold) if enable_reranker else None
+        self.hybrid_engine = HybridSearchEngine(rrf_k=60) if enable_hybrid else None
 
     def embed_question(self, question: str) -> List[float]:
         """Embed user query string into normalized float list vector."""
@@ -122,23 +134,28 @@ class ChromaRetriever:
         effective_top_k = top_k if top_k is not None else self.top_k
         effective_threshold = score_threshold if score_threshold is not None else self.score_threshold
 
-        logger.info(f"Processing query: '{question}' (top_k={effective_top_k}, threshold={effective_threshold})")
+        # Step 1: Multilingual Detection & Text Normalization
+        lang_code, _ = detect_language(question)
+        normalized_query = normalize_text(question)
 
-        # Step 1: Embed question
-        query_vector = self.embed_question(question)
+        logger.info(f"Processing query: '{normalized_query}' [Lang: {lang_code}] (top_k={effective_top_k}, threshold={effective_threshold})")
 
-        # Step 2: Build metadata filter
+        # Step 2: Embed question
+        query_vector = self.embed_question(normalized_query)
+
+        # Step 3: Build metadata filter
         where_clause = self.build_where_clause(
             category=category,
             department=department,
             metadata_filter=metadata_filter,
         )
 
-        # Step 3: Similarity search in ChromaDB
+        # Step 4: Dense Similarity search in ChromaDB
+        candidate_k = min(effective_top_k * 4 if rerank else effective_top_k, max(1, self.collection.count()))
         try:
             results = self.collection.query(
                 query_embeddings=[query_vector],
-                n_results=min(effective_top_k * 2 if rerank else effective_top_k, max(1, self.collection.count())),
+                n_results=candidate_k,
                 where=where_clause,
                 include=["documents", "metadatas", "distances"],
             )
@@ -146,50 +163,65 @@ class ChromaRetriever:
             logger.error(f"ChromaDB query error: {err}")
             return []
 
-        documents: List[Document] = []
-        if not results or not results.get("documents") or not results["documents"][0]:
+        raw_candidates: List[Dict[str, Any]] = []
+        if results and results.get("documents") and results["documents"][0]:
+            raw_docs = results["documents"][0]
+            raw_metas = results["metadatas"][0] if results.get("metadatas") else [{}] * len(raw_docs)
+            raw_dists = results["distances"][0] if results.get("distances") else [1.0] * len(raw_docs)
+
+            for doc_text, meta, dist in zip(raw_docs, raw_metas, raw_dists):
+                score = round(max(0.0, 1.0 - float(dist)), 4)
+                raw_candidates.append({"text": doc_text, "metadata": dict(meta or {}), "score": score})
+
+        if not raw_candidates:
             logger.info("No matching chunks found in ChromaDB collection.")
-            return documents
+            return []
 
-        raw_docs = results["documents"][0]
-        raw_metas = results["metadatas"][0] if results.get("metadatas") else [{}] * len(raw_docs)
-        raw_dists = results["distances"][0] if results.get("distances") else [1.0] * len(raw_docs)
+        # Step 5: Optional Cross-Encoder Re-Ranking Stage
+        if rerank and self.reranker is not None:
+            reranked = self.reranker.rerank(
+                query=normalized_query,
+                candidates=raw_candidates,
+                top_k=effective_top_k,
+                score_threshold=effective_threshold,
+            )
+            selected_items = [
+                {
+                    "text": r.text,
+                    "metadata": {**r.metadata, "score": r.rerank_score},
+                    "score": r.rerank_score,
+                }
+                for r in reranked
+            ]
+        else:
+            filtered = [c for c in raw_candidates if c["score"] >= effective_threshold]
+            filtered.sort(key=lambda c: c["score"], reverse=True)
+            selected_items = filtered[:effective_top_k]
 
-        # Step 4: Convert to LangChain Documents and compute Similarity Scores
-        for doc_text, meta, dist in zip(raw_docs, raw_metas, raw_dists):
-            # Convert cosine distance to similarity score
-            score = round(max(0.0, 1.0 - float(dist)), 4)
-
-            if score < effective_threshold:
-                continue
-
-            doc_metadata = dict(meta or {})
-            doc_metadata["score"] = score
+        # Step 6: Convert to LangChain Documents
+        documents: List[Document] = []
+        for item in selected_items:
+            doc_metadata = dict(item.get("metadata", {}))
+            doc_metadata["score"] = item.get("score", 0.0)
             doc_metadata["chunk_id"] = doc_metadata.get("chunk_id") or doc_metadata.get("id", "")
-            doc_metadata["source"] = doc_metadata.get("source") or doc_metadata.get("source_filename", "")
+            doc_metadata["source"] = doc_metadata.get("source") or doc_metadata.get("source_filename") or doc_metadata.get("source_doc", "")
             doc_metadata["heading"] = doc_metadata.get("heading", "")
             doc_metadata["relative_path"] = doc_metadata.get("relative_path") or doc_metadata.get("relative_file_path", "")
             doc_metadata["category"] = doc_metadata.get("category", "")
+            doc_metadata["language"] = lang_code
 
             documents.append(
                 Document(
-                    page_content=doc_text,
+                    page_content=item.get("text", ""),
                     metadata=doc_metadata,
                 )
             )
 
-        # Step 5: Optional Reranking (sort by score descending)
-        if rerank:
-            documents.sort(key=lambda d: d.metadata.get("score", 0.0), reverse=True)
-
-        final_documents = documents[:effective_top_k]
         elapsed_ms = round((time.time() - start_time) * 1000, 2)
+        logger.info(f"Retrieved {len(documents)} chunks in {elapsed_ms} ms")
+        self.display_search_results(question, documents, elapsed_ms)
 
-        # Log & Display Summary
-        logger.info(f"Retrieved {len(final_documents)} chunks in {elapsed_ms} ms")
-        self.display_search_results(question, final_documents, elapsed_ms)
-
-        return final_documents
+        return documents
 
     @staticmethod
     def display_search_results(question: str, documents: List[Document], elapsed_ms: float) -> None:

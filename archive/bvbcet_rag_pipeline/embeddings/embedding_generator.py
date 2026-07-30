@@ -27,13 +27,18 @@ from logger.logger import get_logger
 
 logger = get_logger("embedding_generator")
 
-DEFAULT_MODEL: str = "BAAI/bge-base-en-v1.5"
+import hashlib
+import pickle
+
 SUPPORTED_MODELS: List[str] = [
+    "all-MiniLM-L6-v2",
+    "intfloat/multilingual-e5-base",
     "BAAI/bge-base-en-v1.5",
     "BAAI/bge-small-en-v1.5",
-    "BAAI/bge-large-en-v1.5",
-    "all-MiniLM-L6-v2",
+    "BAAI/bge-m3",
 ]
+
+DEFAULT_MODEL: str = "all-MiniLM-L6-v2"
 
 
 @dataclass
@@ -49,18 +54,23 @@ class EmbeddingStatistics:
 
 
 class EmbeddingGenerator:
-    """Generates offline dense vector embeddings for JSONL chunk records."""
+    """Generates offline dense vector embeddings with SHA256 disk caching and L2 normalization."""
 
     def __init__(
         self,
         model_name: str = DEFAULT_MODEL,
-        batch_size: int = 32,
+        batch_size: int = 64,
         output_dir: Path = Path("embeddings"),
+        enable_cache: bool = True,
     ) -> None:
         self.model_name = model_name
         self.batch_size = batch_size
         self.output_dir = Path(output_dir)
         self.output_dir.mkdir(parents=True, exist_ok=True)
+        self.enable_cache = enable_cache
+
+        self.cache_dir = self.output_dir / "cache"
+        self.cache_dir.mkdir(parents=True, exist_ok=True)
 
         self.embeddings_path = self.output_dir / "embeddings.npy"
         self.metadata_path = self.output_dir / "metadata.json"
@@ -76,6 +86,35 @@ class EmbeddingGenerator:
         except Exception as err:
             logger.error(f"Failed loading model '{self.model_name}': {err}")
             raise
+
+    @staticmethod
+    def get_text_hash(text: str) -> str:
+        """Calculate SHA256 hex digest for chunk text."""
+        return hashlib.sha256(text.encode("utf-8")).hexdigest()
+
+    def get_cached_vector(self, text_hash: str) -> Optional[np.ndarray]:
+        """Retrieve cached vector from disk cache if present."""
+        if not self.enable_cache:
+            return None
+        cache_file = self.cache_dir / f"{text_hash}.pkl"
+        if cache_file.exists():
+            try:
+                with open(cache_file, "rb") as f:
+                    return pickle.load(f)
+            except Exception:
+                return None
+        return None
+
+    def save_cached_vector(self, text_hash: str, vector: np.ndarray) -> None:
+        """Persist vector to disk cache."""
+        if not self.enable_cache:
+            return
+        cache_file = self.cache_dir / f"{text_hash}.pkl"
+        try:
+            with open(cache_file, "wb") as f:
+                pickle.dump(vector, f)
+        except Exception as e:
+            logger.warning(f"Failed writing vector cache for hash {text_hash}: {e}")
 
     def load_input_chunks(self, jsonl_path: Path) -> List[Dict[str, Any]]:
         """Load text and metadata records from chunks.jsonl file."""

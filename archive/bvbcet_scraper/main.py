@@ -12,6 +12,10 @@ import shutil
 import sys
 from pathlib import Path
 
+scraper_dir = Path(__file__).resolve().parent
+if str(scraper_dir) not in sys.path:
+    sys.path.insert(0, str(scraper_dir))
+
 import config
 # pyrefly: ignore [missing-import]
 from scraper.crawler import AsyncWebsiteCrawler

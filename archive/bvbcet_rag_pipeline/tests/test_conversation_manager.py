@@ -1,59 +1,39 @@
-"""Unit tests for TopicTracker and EntityResolver modules."""
+"""Unit and integration tests for ConversationManager."""
 
-from conversation_manager.entity_resolver import EntityResolver, EntityResult
-from conversation_manager.summarizer import ConversationSummarizer, SummaryResult
-from conversation_manager.topic_tracker import TopicResult, TopicTracker
+from unittest.mock import MagicMock
+from langchain_core.documents import Document
 
-
-def test_topic_tracker_detection():
-    tracker = TopicTracker(model_name="all-MiniLM-L6-v2")
-
-    # Test Department Detection
-    res1 = tracker.process_turn("What courses are offered in Computer Science?")
-    assert res1.active_topic == "Departments" or res1.active_topic == "Courses"
-    assert res1.topic_confidence > 0.0
-
-    # Test Hostels Detection
-    res2 = tracker.process_turn("Tell me about the boys hostel fee structure.")
-    assert res2.active_topic in ["Hostels", "Admissions"]
-    assert res2.topic_confidence > 0.0
-
-    # Test Topic Continuation
-    res3 = tracker.process_turn("What are the hostel mess timings?", previous_query="Tell me about the boys hostel fee structure.")
-    assert res3.action == "Continue topic"
+from conversation.conversation_manager import ConversationManager
+from conversation.intent_classifier import Intent
+from llm.inference import LocalLLMInference
 
 
-def test_entity_resolver():
-    resolver = EntityResolver()
+def test_conversation_manager_canned_intent():
+    manager = ConversationManager()
+    resp = manager.handle("Hello!")
 
-    # Pre-populate context with previous turn mentioning Computer Science and B-Block
-    context = [
-        {
-            "question": "Where is Computer Science department located?",
-            "answer": "Computer Science department is located in B-Block.",
-        }
-    ]
-
-    # Test pronoun resolution
-    res = resolver.resolve("What courses does it offer?", conversation_context=context)
-
-    assert isinstance(res, EntityResult)
-    assert "Computer Science" in res.resolved_query or "B-Block" in res.resolved_query
-    assert res.entity_confidence > 0.0
+    assert resp.intent == Intent.GREETING
+    assert "Welcome to KLE" in resp.answer
+    assert resp.status == "direct_canned_response"
 
 
-def test_conversation_summarizer():
-    summarizer = ConversationSummarizer(max_unsummarized_turns=3)
+def test_conversation_manager_question_flow():
+    mock_backend = MagicMock()
+    mock_backend.generate.return_value = ("Computer Science offers B.E. degrees.", 0.5, None)
 
-    # Add 5 turns (exceeds max_unsummarized_turns=3)
-    summarizer.add_turn("hi", "Hello! How can I help you?", topic="Greetings")
-    summarizer.add_turn("Where is Computer Science located?", "Computer Science is in B-Block.", entities={"department": "Computer Science", "building": "B-Block"}, topic="Departments")
-    summarizer.add_turn("What is the eligibility for B.E. admissions?", "KCET rank under 15000.", topic="Admissions")
-    summarizer.add_turn("What are the hostel fees?", "Hostel fees are 60,000 INR per year.", topic="Hostels")
-    summary_res = summarizer.add_turn("Who is the head of Computer Science?", "Dr. Ashok Shettar is the department head.", topic="Faculty")
+    manager = ConversationManager(
+        llm_inference=LocalLLMInference(backend=mock_backend)
+    )
 
-    assert isinstance(summary_res, SummaryResult)
-    assert summary_res.total_turns == 5
-    assert summary_res.summarized_turns > 0
-    assert "Computer Science" in summary_res.active_entities.values() or "B-Block" in summary_res.active_entities.values()
-    assert len(summary_res.current_context) <= 3
+    dummy_doc = Document(
+        page_content="Computer Science Department offers B.E. and M.Tech programs.",
+        metadata={"id": "doc_1", "source": "cs.md", "heading": "Overview", "score": 0.90},
+    )
+    manager.retriever.retrieve = MagicMock(return_value=[dummy_doc])
+
+    resp = manager.handle("What courses does Computer Science offer?")
+
+    assert resp.intent == Intent.QUESTION
+    assert resp.status in ["success", "hallucination_flagged"]
+    assert len(resp.citations) == 1
+    assert resp.citations[0]["source"] == "cs.md"

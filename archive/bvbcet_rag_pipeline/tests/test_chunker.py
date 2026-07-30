@@ -65,7 +65,7 @@ def calculate_gpa(marks):
 
 def test_chunk_overlap():
     """Test chunk overlap functionality when text exceeds max token limit."""
-    chunker = SemanticMarkdownChunker(ideal_tokens=30, max_tokens=40, overlap_tokens=10)
+    chunker = SemanticMarkdownChunker(ideal_tokens=30, max_tokens=40, overlap_pct=0.15)
     long_paragraph = "Word " * 200
     markdown = f"# Long Document\n\n{long_paragraph}"
 

@@ -1,20 +1,16 @@
-"""Production-grade Semantic Markdown Chunking Engine.
-
-Recursively scans Markdown documents, preserves heading hierarchy and atomic block structures
-(tables, lists, code blocks, block quotes, horizontal rules), and produces structured Chunk objects.
-"""
-
-from dataclasses import dataclass
+import datetime
+from dataclasses import dataclass, field
 from pathlib import Path
 import re
-from typing import List, Optional
+from typing import Dict, List, Optional
 
 from langchain_text_splitters import RecursiveCharacterTextSplitter
+from utils.multilingual_utils import detect_language
 
 
 @dataclass
 class Chunk:
-    """Dataclass representing a semantic Markdown chunk."""
+    """Dataclass representing a semantic Markdown chunk with rich metadata."""
 
     id: str
     title: str
@@ -22,6 +18,12 @@ class Chunk:
     level: int
     text: str
     token_count: int
+    word_count: int = 0
+    source_doc: str = ""
+    relative_path: str = ""
+    language: str = "en"
+    page_number: Optional[int] = None
+    timestamp: str = field(default_factory=lambda: datetime.datetime.now(datetime.timezone.utc).isoformat())
 
 
 @dataclass
@@ -48,26 +50,32 @@ class SemanticSection:
 
 
 class SemanticMarkdownChunker:
-    """Semantic Markdown Chunking Engine."""
+    """Structure-aware Adaptive Semantic Markdown Chunking Engine."""
 
     def __init__(
         self,
-        ideal_tokens: int = 750,
-        max_tokens: int = 1000,
-        overlap_tokens: int = 150,
+        ideal_tokens: int = 512,
+        max_tokens: int = 600,
+        overlap_pct: float = 0.15,
+        overlap_tokens: Optional[int] = None,
     ) -> None:
         self.ideal_tokens = ideal_tokens
         self.max_tokens = max_tokens
-        self.overlap_tokens = overlap_tokens
+        if overlap_tokens is not None:
+            self.overlap_tokens = overlap_tokens
+            self.overlap_pct = round(overlap_tokens / max(1, ideal_tokens), 2)
+        else:
+            self.overlap_pct = overlap_pct
+            self.overlap_tokens = int(ideal_tokens * overlap_pct)
 
         # Approx 4 characters per token heuristic for character-based splitter
         char_chunk_size = max_tokens * 4
-        char_chunk_overlap = overlap_tokens * 4
+        char_chunk_overlap = self.overlap_tokens * 4
 
         self.text_splitter = RecursiveCharacterTextSplitter(
             chunk_size=char_chunk_size,
             chunk_overlap=char_chunk_overlap,
-            separators=["\n\n", "\n", " ", ""],
+            separators=["\n\n", "\n", ". ", "? ", "! ", " ", ""],
         )
 
     @staticmethod
@@ -218,16 +226,24 @@ class SemanticMarkdownChunker:
 
         return sections
 
-    def chunk_section(self, section: SemanticSection, file_slug: str, section_idx: int) -> List[Chunk]:
+    def chunk_section(
+        self,
+        section: SemanticSection,
+        file_slug: str,
+        section_idx: int,
+        file_path: Optional[Path] = None,
+    ) -> List[Chunk]:
         """Split a single SemanticSection into Chunks without mixing headings."""
         full_section_text = section.full_text
         if not full_section_text.strip():
             return []
 
         section_tokens = self.count_tokens(full_section_text)
-
-        # Context prefix to preserve heading context in chunk text
         heading_prefix = f"# {section.title}\n## {section.heading}\n\n" if section.heading != section.title else f"# {section.title}\n\n"
+
+        source_doc = file_path.name if file_path else ""
+        relative_path = str(file_path).replace("\\", "/") if file_path else ""
+        lang_code, _ = detect_language(full_section_text)
 
         # If section fits within maximum token limit, return as single chunk
         if section_tokens <= self.max_tokens:
@@ -240,10 +256,14 @@ class SemanticMarkdownChunker:
                     level=section.level,
                     text=chunk_text,
                     token_count=self.count_tokens(chunk_text),
+                    word_count=len(chunk_text.split()),
+                    source_doc=source_doc,
+                    relative_path=relative_path,
+                    language=lang_code,
                 )
             ]
 
-        # Over-sized section: use RecursiveCharacterTextSplitter on full section text
+        # Over-sized section: split with sentence boundary & overlap
         sub_texts = self.text_splitter.split_text(full_section_text)
         chunks: List[Chunk] = []
 
@@ -257,6 +277,10 @@ class SemanticMarkdownChunker:
                     level=section.level,
                     text=chunk_content,
                     token_count=self.count_tokens(chunk_content),
+                    word_count=len(chunk_content.split()),
+                    source_doc=source_doc,
+                    relative_path=relative_path,
+                    language=lang_code,
                 )
             )
 
@@ -272,7 +296,7 @@ class SemanticMarkdownChunker:
 
         file_chunks: List[Chunk] = []
         for sec_idx, section in enumerate(sections):
-            section_chunks = self.chunk_section(section, file_slug, sec_idx)
+            section_chunks = self.chunk_section(section, file_slug, sec_idx, file_path=file_path)
             file_chunks.extend(section_chunks)
 
         return file_chunks
