@@ -10,3 +10,4 @@
 
 # Shell scripts use LF
 *.sh text eol=lf
+
