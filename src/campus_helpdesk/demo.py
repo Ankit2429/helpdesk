@@ -2,6 +2,9 @@
 
 import logging
 import os
+from pathlib import Path
+
+import ollama
 
 from campus_helpdesk.application.rag_chat_service import RAGChatService
 from campus_helpdesk.application.rag_pipeline import RAGPipeline
@@ -11,11 +14,11 @@ from campus_helpdesk.infrastructure.audio.stt_service import FasterWhisperSTTSer
 from campus_helpdesk.infrastructure.audio.tts_service import NonBlockingTTSService
 from campus_helpdesk.infrastructure.llm.ollama_service import OllamaLLMService
 from campus_helpdesk.infrastructure.rag.faiss_store import FAISSSimilarityStore
-from campus_helpdesk.infrastructure.rag.pdf_loader import PDFKnowledgeLoader
+from campus_helpdesk.infrastructure.rag.markdown_loader import MarkdownKnowledgeLoader
 from campus_helpdesk.infrastructure.rag.sentence_transformer_embeddings import (
     SentenceTransformerEmbeddings,
 )
-from campus_helpdesk.infrastructure.rag.text_chunker import RecursiveTextChunker
+from campus_helpdesk.infrastructure.rag.semantic_chunker import SemanticDocumentChunker
 from campus_helpdesk.infrastructure.vision.person_detector import PersonDetector
 from campus_helpdesk.presentation.chat_window import ModernChatWindow
 
@@ -46,11 +49,11 @@ def main() -> None:
             "embedding_normalize": settings.embedding_normalize,
         },
     )
-    pdf_loader = PDFKnowledgeLoader(
+    markdown_loader = MarkdownKnowledgeLoader(
         knowledge_source_path=settings.knowledge_source_path,
         max_file_size_bytes=settings.knowledge_max_file_size_bytes,
     )
-    text_chunker = RecursiveTextChunker(
+    text_chunker = SemanticDocumentChunker(
         chunk_size=settings.rag_chunk_size,
         chunk_overlap=settings.rag_chunk_overlap,
         separators=settings.rag_chunk_separators,
@@ -58,21 +61,42 @@ def main() -> None:
     )
 
     rag_pipeline = RAGPipeline(
-        document_loader=pdf_loader,
+        document_loader=markdown_loader,
         document_chunker=text_chunker,
         similarity_store=similarity_store,
         search_limit=settings.rag_search_limit,
     )
 
     # Attempt to load pre-indexed vector store if present
+    index_loaded = False
     try:
         if settings.faiss_index_path.exists():
             rag_pipeline.load_index()
+            index_loaded = True
             logger.info("Loaded pre-existing FAISS vector store index.")
     except Exception as e:
         logger.warning(f"Could not load vector store index: {e}")
 
+    if not index_loaded:
+        logger.info("Ingesting knowledge source directory...")
+        for root, _, files in os.walk(settings.knowledge_source_path):
+            for file in files:
+                if file.endswith((".md", ".pdf")):
+                    file_path = Path(root) / file
+                    try:
+                        rag_pipeline.ingest_file(file_path, persist=False)
+                        logger.info(f"Ingested file: {file_path.name}")
+                    except Exception as exc:
+                        logger.warning(f"Failed to ingest {file_path}: {exc}")
+        rag_pipeline._similarity_store.save()
+        logger.info("Saved vector store index.")
+
     # 2. Initialize LLM & Chat Services
+    ollama_host = settings.ollama_base_url
+    client = ollama.Client(host=ollama_host, timeout=settings.ollama_timeout_seconds)
+    from campus_helpdesk.infrastructure.llm.factory import create_llm_service
+    llm_service = create_llm_service(settings)
+
     logger.info("OLLAMA_HOST: %s", ollama_host)
     logger.info("OLLAMA_MODEL: %s", settings.ollama_model)
     # Verify Ollama connection with client.list()
@@ -115,7 +139,6 @@ def main() -> None:
     chat_service = RAGChatService(
         llm_service=llm_service,
         rag_pipeline=rag_pipeline,
-        distance_threshold=settings.rag_distance_threshold,
     )
 
     # 3. Initialize Vision & Audio Services

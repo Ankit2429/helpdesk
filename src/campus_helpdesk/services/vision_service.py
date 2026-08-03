@@ -91,13 +91,22 @@ class HOGPersonDetector(BasePersonDetector):
     """Person detector using OpenCV Histogram of Oriented Gradients (HOG)."""
 
     def __init__(self) -> None:
-        self._hog = cv2.HOGDescriptor()
-        self._hog.setSVMDetector(cv2.HOGDescriptor_getDefaultPeopleDetector())
+        try:
+            if hasattr(cv2, "HOGDescriptor"):
+                self._hog = cv2.HOGDescriptor()
+                if hasattr(cv2.HOGDescriptor, "getDefaultPeopleDetector"):
+                    self._hog.setSVMDetector(cv2.HOGDescriptor.getDefaultPeopleDetector())
+                elif hasattr(cv2, "HOGDescriptor_getDefaultPeopleDetector"):
+                    self._hog.setSVMDetector(cv2.HOGDescriptor_getDefaultPeopleDetector())
+            else:
+                self._hog = None
+        except Exception:
+            self._hog = None
 
     def detect(
         self, frame: np.ndarray
     ) -> tuple[bool, float, tuple[int, int, int, int] | None]:
-        if frame is None or frame.size == 0:
+        if self._hog is None or frame is None or frame.size == 0:
             return False, 0.0, None
 
         # Resize frame to speed up SVM detection

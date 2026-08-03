@@ -108,7 +108,7 @@ class BaseSpeechBackend(ABC):
 
 
 class PiperBackend(BaseSpeechBackend):
-    """Offline TTS backend powered by Piper."""
+    """Offline TTS backend powered by Piper ONNX / binary CLI."""
 
     def __init__(
         self,
@@ -119,10 +119,11 @@ class PiperBackend(BaseSpeechBackend):
         volume: float = 1.0,
     ) -> None:
         self._model_path = model_path
-        self._config_path = config_path
+        self._config_path = config_path or (f"{model_path}.json" if not model_path.endswith(".json") else model_path)
         self._speed = speed
         self._volume = volume
         self._voice: Any = None
+        self._sample_rate = 22050
         self._cancel_lock = threading.Lock()
         self._cancelled = False
 
@@ -162,19 +163,97 @@ class PiperBackend(BaseSpeechBackend):
             except Exception:
                 logger.info("TTS Selected Speaker Index %d", self._output_device)
         else:
-            logger.error("TTS: No speaker device selected or available.")
+            logger.warning("TTS: No speaker device selected or available.")
 
+        loaded = False
         try:
-            # Piper import
-            import piper
-            # Initialize piper voice/engine
-            # For this mock-up of Piper wrapper we import conditionally
-        except ImportError as exc:
-            logger.error("Failed to import piper: %s", exc)
-            raise RuntimeError("piper-tts is not installed in the environment") from exc
+            from piper.voice import PiperVoice
+            self._voice = PiperVoice.load(self._model_path, config_path=self._config_path)
+            if hasattr(self._voice, "config") and hasattr(self._voice.config, "sample_rate"):
+                self._sample_rate = self._voice.config.sample_rate
+            loaded = True
+            logger.info("Piper voice loaded successfully via python-piper module.")
+        except Exception as exc:
+            logger.debug("Python piper module load attempt: %s", exc)
+
+        if not loaded:
+            import os
+            if not os.path.exists(self._model_path):
+                alt_path = os.path.join("data", "piper", os.path.basename(self._model_path))
+                if os.path.exists(alt_path):
+                    self._model_path = alt_path
+                    self._config_path = f"{alt_path}.json"
+                else:
+                    err_msg = f"Piper model file not found at {self._model_path}"
+                    logger.error("TTS load failure: %s", err_msg)
+                    raise AudioError(err_msg)
+
+            if os.path.exists(self._config_path):
+                try:
+                    import json
+                    with open(self._config_path, "r", encoding="utf-8") as f:
+                        cfg = json.load(f)
+                        self._sample_rate = cfg.get("audio", {}).get("sample_rate", 22050)
+                except Exception as json_err:
+                    logger.debug("Could not parse config JSON for sample_rate: %s", json_err)
+
+            self._voice = "CLI_SUBPROCESS"
+            logger.info("Piper model path verified for subprocess execution.")
 
         elapsed = time.perf_counter() - t0
         return elapsed
+
+    def _synthesize_chunks(self, text: str):
+        """Internal generator producing 16-bit PCM audio byte chunks."""
+        if hasattr(self._voice, "synthesize_stream_raw"):
+            yield from self._voice.synthesize_stream_raw(text)
+        elif hasattr(self._voice, "synthesize"):
+            import io
+            import wave
+            buf = io.BytesIO()
+            with wave.open(buf, "wb") as wav:
+                self._voice.synthesize(text, wav)
+            buf.seek(0)
+            with wave.open(buf, "rb") as wav:
+                chunk_frames = 1024
+                while True:
+                    data = wav.readframes(chunk_frames)
+                    if not data:
+                        break
+                    yield data
+        else:
+            import subprocess
+            import shutil
+            import os
+            piper_bin = shutil.which("piper") or "piper"
+            cmd = [
+                piper_bin,
+                "--model", self._model_path,
+                "--output-raw",
+            ]
+            if self._config_path and os.path.exists(self._config_path):
+                cmd.extend(["--config", self._config_path])
+
+            try:
+                proc = subprocess.Popen(
+                    cmd,
+                    stdin=subprocess.PIPE,
+                    stdout=subprocess.PIPE,
+                    stderr=subprocess.DEVNULL,
+                )
+                proc.stdin.write(text.encode("utf-8"))
+                proc.stdin.close()
+
+                chunk_size = 2048
+                while True:
+                    chunk = proc.stdout.read(chunk_size)
+                    if not chunk:
+                        break
+                    yield chunk
+                proc.wait()
+            except Exception as sub_err:
+                logger.error("Piper subprocess execution error: %s", sub_err)
+                raise AudioError(f"Piper execution failed: {sub_err}") from sub_err
 
     def synthesize_and_play(
         self,
@@ -185,12 +264,44 @@ class PiperBackend(BaseSpeechBackend):
         with self._cancel_lock:
             self._cancelled = False
 
-        t_start = time.perf_counter()
-        on_start_callback()
+        if not text or not text.strip():
+            return 0.0
 
-        # Generate audio samples and feed to sounddevice output stream
-        # This blocks until finished or self._cancelled is True
-        # For simplicity, we check stop_event inside chunks
+        t_start = time.perf_counter()
+
+        try:
+            import sounddevice as sd
+            stream = sd.RawOutputStream(
+                samplerate=self._sample_rate,
+                channels=1,
+                dtype="int16",
+                device=self._output_device,
+            )
+        except Exception as sd_err:
+            logger.error("TTS sounddevice RawOutputStream initialization failed: %s", sd_err)
+            raise AudioError(f"Sounddevice initialization error: {sd_err}") from sd_err
+
+        first_chunk = True
+        try:
+            with stream:
+                stream.start()
+                for chunk in self._synthesize_chunks(text):
+                    if stop_event.is_set() or self._cancelled:
+                        logger.info("TTS playback cancelled mid-stream.")
+                        break
+                    if first_chunk:
+                        on_start_callback()
+                        first_chunk = False
+                    stream.write(chunk)
+        except AudioError:
+            raise
+        except Exception as play_err:
+            logger.error("TTS playback error: %s", play_err)
+            raise AudioError(f"TTS playback failure: {play_err}") from play_err
+
+        if first_chunk:
+            on_start_callback()
+
         return time.perf_counter() - t_start
 
     def cancel(self) -> None:
@@ -199,11 +310,12 @@ class PiperBackend(BaseSpeechBackend):
 
     @property
     def voice_name(self) -> str:
-        return "piper:en_US-lessac-medium"
+        import os
+        return f"piper:{os.path.basename(self._model_path)}"
 
     @property
     def sample_rate(self) -> int:
-        return 22050
+        return self._sample_rate
 
 
 class MockSpeechBackend(BaseSpeechBackend):

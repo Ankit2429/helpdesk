@@ -39,6 +39,6 @@ def test_ollama_service_sends_prompt_to_configured_model() -> None:
     assert client.request == {
         "model": "configured-test-model",
         "messages": [{"role": "user", "content": "Where is the library?"}],
-        "options": {"temperature": 0.2, "num_predict": 512},
+        "options": {"temperature": 0.2, "num_predict": 512, "num_gpu": 0},
         "stream": False,
     }

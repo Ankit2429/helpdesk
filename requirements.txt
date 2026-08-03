@@ -1,15 +1,13 @@
-# Raspberry Pi OS (Linux ARM64) Production Requirements
-# System Dependencies Required Before Pip Install:
-# sudo apt-get update && sudo apt-get install -y \
-#     python3-dev python3-venv ffmpeg espeak-ng \
-#     portaudio19-dev libopenblas-dev v4l-utils libatlas-base-dev
+# Cross-Platform Python Requirements (Windows, macOS, Linux)
+# For Raspberry Pi OS (Linux ARM64) system-level apt dependencies, see deployment/requirements-pi.txt
 
 # Core Utilities & Settings
 pydantic-settings>=2.6.0,<3.0.0
 httpx>=0.27.0,<1.0.0
 numpy>=1.26.0,<2.0.0
+langdetect>=1.0.9
 
-# Speech-to-Text (STT) - CTranslate2 backend tuned for ARM CPU
+# Speech-to-Text (STT)
 faster-whisper>=1.0.0,<2.0.0
 sounddevice>=0.5.0
 
@@ -21,13 +19,13 @@ langchain>=0.3.0,<1.0.0
 langchain-community>=0.3.0,<1.0.0
 langchain-core>=0.3.0,<1.0.0
 
-# Text-to-Speech (TTS) - Indic Meta MMS-TTS & English Piper
+# Text-to-Speech (TTS)
 transformers>=4.40.0
 piper-tts>=1.2.0,<2.0.0
 
-# Computer Vision & Hardware Presence Detection (V4L2)
+# Computer Vision & Image Processing
 opencv-python>=4.10.0,<5.0.0
 pillow>=10.0.0,<11.0.0
 
-# Optional PyTTSx3 SAPI/eSpeak fallback
+# PyTTSx3 SAPI/eSpeak fallback
 pyttsx3>=2.90

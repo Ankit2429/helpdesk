@@ -49,8 +49,8 @@ def test_query_rewriter_standalone_rewriting():
     assert "Central Library" in rw1
     assert "its" not in rw1
 
-    # Short fragment follow-up question
-    q2 = "What about timings?"
+    # Short fragment follow-up question with pronoun
+    q2 = "What about its timings?"
     rw2 = rewriter.rewrite(q2, history)
     assert "Central Library" in rw2
 

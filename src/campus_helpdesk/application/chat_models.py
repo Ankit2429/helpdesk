@@ -14,3 +14,4 @@ class ChatResult:
     confidence_level: str = "HIGH"
     supporting_sources: list[str] = field(default_factory=list)
     retrieval_statistics: dict[str, Any] = field(default_factory=dict)
+    detected_language: str = "en"

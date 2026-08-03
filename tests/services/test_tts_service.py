@@ -277,3 +277,69 @@ class TestBenchmarks:
         )
         # Average queue and synthesis launch overhead must be < 5.0 ms/request
         assert avg_ms < 5.0
+
+
+# ===========================================================================
+# 5. Piper Backend Unit Tests
+# ===========================================================================
+
+
+from unittest.mock import MagicMock, patch
+from campus_helpdesk.application.exceptions import AudioError
+from campus_helpdesk.services.tts_service import PiperBackend
+
+
+class TestPiperBackend:
+    def test_piper_backend_load_model_failure(self):
+        """Verify AudioError is raised when model file does not exist."""
+        backend = PiperBackend(model_path="non_existent_model_123.onnx")
+        with pytest.raises(AudioError, match="Piper model file not found"):
+            backend.load_model()
+
+    @patch("sounddevice.RawOutputStream")
+    def test_piper_backend_synthesize_and_play(self, mock_raw_stream):
+        """Verify PiperBackend streams PCM chunks and triggers on_start_callback."""
+        backend = PiperBackend(model_path="dummy.onnx")
+        backend._voice = "CLI_SUBPROCESS"
+        backend._synthesize_chunks = MagicMock(return_value=iter([b"\x00\x01" * 100, b"\x02\x03" * 100]))
+
+        callback_called = False
+
+        def on_start():
+            nonlocal callback_called
+            callback_called = True
+
+        stop_event = threading.Event()
+        duration = backend.synthesize_and_play("Hello world", stop_event, on_start)
+
+        assert callback_called is True
+        assert duration >= 0.0
+        mock_raw_stream.assert_called_once()
+
+    @patch("sounddevice.RawOutputStream")
+    def test_piper_backend_cancel_interruption(self, mock_raw_stream):
+        """Verify playback breaks immediately when cancelled."""
+        backend = PiperBackend(model_path="dummy.onnx")
+        backend._voice = "CLI_SUBPROCESS"
+        
+        def mock_chunks(text):
+            yield b"\x00\x01" * 10
+            backend.cancel()
+            yield b"\x02\x03" * 10
+
+        backend._synthesize_chunks = mock_chunks
+        stop_event = threading.Event()
+        callback_called = False
+
+        duration = backend.synthesize_and_play("Hello world", stop_event, lambda: None)
+        assert backend._cancelled is True
+
+    @patch("sounddevice.RawOutputStream")
+    def test_piper_backend_device_error(self, mock_raw_stream):
+        """Verify AudioError is raised when sounddevice fails to initialize."""
+        mock_raw_stream.side_effect = RuntimeError("PortAudio device error")
+        backend = PiperBackend(model_path="dummy.onnx")
+
+        stop_event = threading.Event()
+        with pytest.raises(AudioError, match="Sounddevice initialization error"):
+            backend.synthesize_and_play("Hello", stop_event, lambda: None)

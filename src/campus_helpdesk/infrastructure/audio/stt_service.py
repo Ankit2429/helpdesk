@@ -31,6 +31,24 @@ class STTService(Protocol):
         """Stream record from microphone and transcribe in real-time."""
 
 
+class STTResult(str):
+    """String subclass containing transcription text and detected language metadata."""
+
+    def __new__(cls, text: str, language: str = "en", confidence: float = 1.0):
+        obj = super().__new__(cls, text)
+        obj.text = text
+        obj.language = language
+        obj.confidence = confidence
+        return obj
+
+    @property
+    def language_code(self) -> str:
+        return self.language
+
+    def to_tuple(self) -> tuple[str, str, float]:
+        return (self.text, self.language, self.confidence)
+
+
 class FasterWhisperSTTService:
     """Production-ready STT service backed by faster-whisper CTranslate2 engine."""
 
@@ -176,15 +194,24 @@ class FasterWhisperSTTService:
         # Allow any non-empty audio (RMS > 0.5) so normal/quiet speech is never falsely rejected
         return bool(rms > 0.5)
 
-    def transcribe_audio(self, audio_data: bytes, sample_rate: int = 16000) -> str:
-        """Transcribe raw mono 16-bit PCM audio bytes using faster-whisper model."""
+    def transcribe_audio(
+        self,
+        audio_data: bytes,
+        sample_rate: int = 16000,
+        language: str | None = None,
+    ) -> STTResult:
+        """Transcribe raw mono 16-bit PCM audio bytes using faster-whisper model.
+
+        Auto-detects language if language is None, or uses provided language code (e.g. 'en', 'hi', 'kn').
+        Returns STTResult (string subclass) with .language and .confidence metadata.
+        """
         if not audio_data:
             logger.warning("[WARNING] Empty audio captured. Cannot run transcription.")
-            return ""
+            return STTResult("", "en", 0.0)
 
         if not self._validate_audio(audio_data):
             logger.warning("[WARNING] Audio signal volume too quiet or silent. Skipping transcription.")
-            return ""
+            return STTResult("", "en", 0.0)
 
         logger.info("[INFO] Running Whisper transcription...")
         if self._model is not None:
@@ -192,25 +219,30 @@ class FasterWhisperSTTService:
                 import numpy as np
 
                 audio_np = np.frombuffer(audio_data, dtype=np.int16).astype(np.float32) / 32768.0
-                prompt = "campus helpdesk, classroom, library, schedule, registration, cafeteria, office, course"
-                segments, info = self._model.transcribe(audio_np, beam_size=1, vad_filter=True, initial_prompt=prompt)
                 
+                transcribe_kwargs = {
+                    "beam_size": 1,
+                    "vad_filter": True,
+                }
+                if language:
+                    transcribe_kwargs["language"] = language
+
+                segments, info = self._model.transcribe(audio_np, **transcribe_kwargs)
+                
+                detected_lang = getattr(info, "language", "en")
+                lang_probability = float(getattr(info, "language_probability", 1.0))
+                logger.info(f"[INFO] Detected language: '{detected_lang}' (probability={lang_probability:.2f})")
+
                 if getattr(info, "no_speech_prob", 0) > 0.6:
                     logger.info(f"[INFO] High no_speech_prob ({info.no_speech_prob:.2f}). Skipping.")
-                    return ""
+                    return STTResult("", detected_lang, lang_probability)
 
                 segments_list = list(segments)
                 transcription = "".join(segment.text for segment in segments_list).strip()
-                
-                # Filter out hallucinated prompt text
-                if any(bad in transcription.lower() for bad in ["campus helpdesk", "locate classrooms", "scheduling, registration"]):
-                    if len(transcription.split()) > 10:
-                        logger.info("[INFO] Filtered out prompt hallucination.")
-                        return ""
 
                 if transcription:
-                    logger.info(f"[INFO] Transcript: '{transcription}'")
-                    return transcription
+                    logger.info(f"[INFO] Transcript ({detected_lang}): '{transcription}'")
+                    return STTResult(transcription, detected_lang, lang_probability)
                 else:
                     logger.warning("[WARNING] Whisper model returned empty transcription.")
             except Exception as e:
@@ -222,15 +254,15 @@ class FasterWhisperSTTService:
                 logger.info("[INFO] ENABLE_ONLINE_FALLBACK=True. Attempting Google Speech API fallback...")
                 recognizer = sr.Recognizer()
                 audio_instance = sr.AudioData(audio_data, sample_rate, 2)
-                transcript = recognizer.recognize_google(audio_instance).strip()
+                transcript = recognizer.recognize_google(audio_instance, language=language or "en-IN").strip()
                 logger.info(f"[INFO] Google Fallback Transcript: '{transcript}'")
-                return transcript
+                return STTResult(transcript, language or "en", 0.90)
             except Exception as e:
                 logger.warning(f"[WARNING] Google Speech API fallback failed: {e}")
         else:
             logger.info("[INFO] Offline mode enforced (ENABLE_ONLINE_FALLBACK=False).")
 
-        return ""
+        return STTResult("", "en", 0.0)
 
     def listen_and_transcribe(
         self,

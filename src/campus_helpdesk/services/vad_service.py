@@ -42,6 +42,8 @@ from campus_helpdesk.interaction.events import EventEnvelope, EventType, VoicePa
 
 from campus_helpdesk.application.exceptions import AudioError
 
+logger = logging.getLogger(__name__)
+
 
 class VADService:
     """Production-grade VAD Service managing audio capture and speech detection.

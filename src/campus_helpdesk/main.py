@@ -43,12 +43,8 @@ def create_app(settings: Settings | None = None, llm_service: LLMService | None 
     )
 
     app.state.settings = application_settings
-    configured_llm_service = llm_service or OllamaLLMService(
-        base_url=application_settings.ollama_base_url,
-        model=application_settings.ollama_model,
-        timeout_seconds=application_settings.ollama_timeout_seconds,
-        generation_options=application_settings.ollama_options,
-    )
+    from campus_helpdesk.infrastructure.llm.factory import create_llm_service
+    configured_llm_service = llm_service or create_llm_service(application_settings)
     rag_pipeline = create_rag_pipeline(application_settings)
     if application_settings.faiss_index_path.exists():
         try:
@@ -66,9 +62,12 @@ def create_app(settings: Settings | None = None, llm_service: LLMService | None 
     confidence_eng = ConfidenceEngine()
     answerability_eng = AnswerabilityEngine()
     context_builder = PromptContextBuilder(
-        max_context_size=3000,
+        max_context_size=7000,
         similarity_threshold=application_settings.rag_distance_threshold,
     )
+
+    from campus_helpdesk.infrastructure.rag.context_composer import ContextComposer
+    context_composer = ContextComposer(settings=application_settings)
 
     app.state.chat_service = RAGChatService(
         llm_service=configured_llm_service,
@@ -79,6 +78,7 @@ def create_app(settings: Settings | None = None, llm_service: LLMService | None 
         confidence_engine=confidence_eng,
         answerability_engine=answerability_eng,
         system_prompt=DEFAULT_SYSTEM_PROMPT,
+        context_composer=context_composer,
     )
 
     app.include_router(api_router)

@@ -27,7 +27,7 @@ class Settings(BaseSettings):
     debug: bool = False
     log_level: str = "INFO"
     ollama_base_url: str = "http://localhost:11434"
-    ollama_model: str = Field(default="qwen2.5:1.5b", validation_alias="OLLAMA_MODEL")
+    ollama_model: str = Field(default="qwen2.5:3b", validation_alias="OLLAMA_MODEL")
     ollama_timeout_seconds: float = 180.0
     ollama_temperature: float = 0.0
     ollama_top_p: float = 0.8
@@ -36,7 +36,27 @@ class Settings(BaseSettings):
     ollama_context_window: int = 2_048
     ollama_max_output_tokens: int = 512
     ollama_num_threads: int = 6
-    knowledge_source_path: Path = Path("data/canonical_markdown")
+    # ---- Router & Connectivity Settings ----
+    enable_cloud_llm_router: bool = False
+    cloud_llm_provider: str = "openrouter"
+    cloud_llm_api_key: str = Field(
+        default="",
+        validation_alias=AliasChoices("CLOUD_LLM_API_KEY", "OPENROUTER_API_KEY", "GEMINI_API_KEY")
+    )
+    cloud_llm_base_url: str = "https://openrouter.ai/api/v1/chat/completions"
+    cloud_llm_model: str = "nvidia/nemotron-3-ultra-550b-a55b:free"
+    cloud_llm_timeout_seconds: float = 25.0
+    offline_llm_model: str = Field(
+        default="qwen2.5:3b",
+        validation_alias=AliasChoices("OFFLINE_LLM_MODEL", "LOCAL_LLM_MODEL")
+    )
+    connectivity_check_timeout_seconds: float = 1.5
+    connectivity_check_cache_seconds: float = 15.0
+    connectivity_check_url: str = "https://1.1.1.1"
+    # ---- Context Composer Settings ----
+    enable_context_composer: bool = True
+    context_composer_dedup_threshold: float = 0.85
+    knowledge_source_path: Path = Path("archive/bvbcet_scraper/knowledge_base/markdown")
     knowledge_max_file_size_bytes: int = 20_000_000
     faiss_index_path: Path = Path("data/faiss")
     faiss_allow_dangerous_deserialization: bool = False
@@ -46,26 +66,26 @@ class Settings(BaseSettings):
     embedding_normalize: bool = True
     embedding_show_progress: bool = False
     # ---- Optimization parameters ----
-cache_maxsize_embeddings: int = 1_000_000  # max number of embeddings to cache
-cache_ttl_retrieval_seconds: int = 300
-adaptive_top_k_enabled: bool = True
-adaptive_top_k_base: int = 5
-adaptive_top_k_increment: int = 2
-embedding_local_files_only: bool = True
-rag_chunk_size: int = 800
-rag_chunk_overlap: int = 120
-rag_chunk_separators: list[str] = Field(default_factory=lambda: ["\n\n", "\n", " ", ""])
-rag_add_start_index: bool = True
-rag_search_limit: int = 5
-rag_distance_threshold: float = 2.0
-candidate_window: int = Field(
-    default=25,
-    validation_alias=AliasChoices("CANDIDATE_WINDOW", "INITIAL_CANDIDATES", "RERANKER_TOP_N")
-)
-initial_candidates: int = Field(
-    default=25,
-    validation_alias=AliasChoices("INITIAL_CANDIDATES", "CANDIDATE_WINDOW", "RERANKER_TOP_N")
-)
+    cache_maxsize_embeddings: int = 1_000_000  # max number of embeddings to cache
+    cache_ttl_retrieval_seconds: int = 300
+    adaptive_top_k_enabled: bool = True
+    adaptive_top_k_base: int = 5
+    adaptive_top_k_increment: int = 2
+    embedding_local_files_only: bool = True
+    rag_chunk_size: int = 800
+    rag_chunk_overlap: int = 120
+    rag_chunk_separators: list[str] = Field(default_factory=lambda: ["\n\n", "\n", " ", ""])
+    rag_add_start_index: bool = True
+    rag_search_limit: int = 5
+    rag_distance_threshold: float = 2.0
+    candidate_window: int = Field(
+        default=25,
+        validation_alias=AliasChoices("CANDIDATE_WINDOW", "INITIAL_CANDIDATES", "RERANKER_TOP_N")
+    )
+    initial_candidates: int = Field(
+        default=25,
+        validation_alias=AliasChoices("INITIAL_CANDIDATES", "CANDIDATE_WINDOW", "RERANKER_TOP_N")
+    )
     final_top_k: int = Field(
         default=5,
         validation_alias=AliasChoices("FINAL_TOP_K", "FINAL_RESULTS", "RAG_SEARCH_LIMIT")
@@ -101,7 +121,7 @@ initial_candidates: int = Field(
     webcam_index: int = 0
     camera_fps: int = 15
     person_detection_reset_frames: int = 30
-    whisper_model_size: str = "base"
+    whisper_model_size: str = "small"
     whisper_device: str = "cpu"
     whisper_compute_type: str = "int8"
     tts_voice_model: str = "en_US-lessac-medium"
@@ -303,9 +323,24 @@ initial_candidates: int = Field(
             "repeat_penalty": self.ollama_repeat_penalty,
             "num_ctx": self.ollama_context_window,
             "num_predict": self.ollama_max_output_tokens,
-            "num_gpu": 0,
             "num_thread": self.ollama_num_threads,
         }
+
+    @model_validator(mode="after")
+    def validate_offline_llm_safety(self) -> "Settings":
+        """Warn if a small offline LLM (<3b, e.g. 1.5b) is configured without ContextComposer enabled."""
+        model_name = self.offline_llm_model.lower()
+        if not self.enable_context_composer and ("1.5b" in model_name or "0.5b" in model_name):
+            import logging
+            logging.getLogger(__name__).warning(
+                "--------------------------------------------------------------------------------\n"
+                "WARNING: UNHEALTHY RAG CONFIGURATION DETECTED!\n"
+                f"OFFLINE_LLM_MODEL='{self.offline_llm_model}' with ENABLE_CONTEXT_COMPOSER=False is known "
+                "to produce multi-table context hallucinations. Enable context composer (ENABLE_CONTEXT_COMPOSER=true) "
+                "or use a model size >=3b (e.g. OFFLINE_LLM_MODEL='qwen2.5:3b') for reliable offline RAG.\n"
+                "--------------------------------------------------------------------------------"
+            )
+        return self
 
 
 @lru_cache

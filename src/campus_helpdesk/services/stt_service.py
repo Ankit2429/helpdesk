@@ -314,8 +314,7 @@ class STTService:
             try:
                 self._process_request(event)
             except Exception as exc:
-    logger.error("STTService error: %s", exc)
-    raise AudioError(str(exc))
+                logger.error("STTService error: %s", exc)
             finally:
                 self._queue.task_done()
 
@@ -363,7 +362,21 @@ class STTService:
 
         except Exception as exc:
             logger.error("STT transcription failure on file %s: %s", wav_path, exc)
-            raise AudioError(str(exc))
+            from campus_helpdesk.interaction.events import ErrorPayload
+            self._bus.publish(
+                EventEnvelope.create(
+                    event_type=EventType.ERROR,
+                    source=self._name,
+                    payload=ErrorPayload(
+                        service=self._name,
+                        error_type=type(exc).__name__,
+                        message=f"STT transcription failure: {exc}",
+                        is_fatal=True,
+                    ),
+                    session_id=event.session_id,
+                    correlation_id=event.event_id,
+                )
+            )
 
     # ─────────────────────────────────────────────────────────────────────────
     # Diagnostics & Status APIs

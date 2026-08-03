@@ -208,11 +208,7 @@ class AssistantLoop:
                     llm = getattr(self.ttt.rag_service, "_llm_service", getattr(self.ttt.rag_service, "llm_service", None))
                 
                 if llm is not None:
-                    llm._client.chat(
-                        model=llm._model,
-                        messages=[{"role": "user", "content": "hello"}],
-                        options={"num_predict": 1},
-                    )
+                    llm.generate("hello")
                 else:
                     from campus_helpdesk.config.settings import get_settings
                     from ollama import Client

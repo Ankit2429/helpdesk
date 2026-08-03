@@ -1,0 +1,2491 @@
+{
+  "summary": {
+    "total_new_files": 508,
+    "pure_new_additions": 169,
+    "exists_has_extra_content": 6,
+    "exact_or_near_duplicates": 318
+  },
+  "pure_new": [
+    {
+      "new_file": "pdf\\13th_bog_minutes_8e69f9.md",
+      "title": "13Th Bog Minutes 8E69F9.Md",
+      "size": 33821
+    },
+    {
+      "new_file": "pdf\\14th_bog_minutes_4af691.md",
+      "title": "14Th Bog Minutes 4Af691.Md",
+      "size": 41914
+    },
+    {
+      "new_file": "pdf\\2nd_ec_minutes_6a55e3.md",
+      "title": "2Nd Ec Minutes 6A55E3.Md",
+      "size": 12639
+    },
+    {
+      "new_file": "pdf\\3rd_ec_minutes_778280.md",
+      "title": "3Rd Ec Minutes 778280.Md",
+      "size": 8730
+    },
+    {
+      "new_file": "pdf\\4th_bog_minutes_97c73f.md",
+      "title": "4Th Bog Minutes 97C73F.Md",
+      "size": 12502
+    },
+    {
+      "new_file": "pdf\\4th_ec_minutes_666bc5.md",
+      "title": "4Th Ec Minutes 666Bc5.Md",
+      "size": 17941
+    },
+    {
+      "new_file": "pdf\\5th_bog_minutes_e084a8.md",
+      "title": "5Th Bog Minutes E084A8.Md",
+      "size": 32458
+    },
+    {
+      "new_file": "pdf\\5th_ec_minutes_4abbd4.md",
+      "title": "5Th Ec Minutes 4Abbd4.Md",
+      "size": 25289
+    },
+    {
+      "new_file": "pdf\\6th_bog_minutes_2b7019.md",
+      "title": "6Th Bog Minutes 2B7019.Md",
+      "size": 218029
+    },
+    {
+      "new_file": "pdf\\6th_ec_minutes_da13b0.md",
+      "title": "6Th Ec Minutes Da13B0.Md",
+      "size": 22077
+    },
+    {
+      "new_file": "pdf\\7th_ec_minutes_05e70e.md",
+      "title": "7Th Ec Minutes 05E70E.Md",
+      "size": 21466
+    },
+    {
+      "new_file": "pdf\\8th_bog_minutes_b2fe3d.md",
+      "title": "8Th Bog Minutes B2Fe3D.Md",
+      "size": 36028
+    },
+    {
+      "new_file": "web\\about\\108th_founders_day_celebrations_6a0fef.md",
+      "title": "News",
+      "size": 1506
+    },
+    {
+      "new_file": "web\\about\\kle_tech_hosts_pre_summit_leadership_workshop_on_ai_in_higher_educatio_7d0643.md",
+      "title": "News",
+      "size": 991
+    },
+    {
+      "new_file": "web\\about\\minutes_of_meetings_4afe3f.md",
+      "title": "Minutes of Meetings",
+      "size": 551
+    },
+    {
+      "new_file": "web\\about\\university_grants_commission_12_b_approval_71deff.md",
+      "title": "University Grants Commission - 12 B Approval",
+      "size": 121
+    },
+    {
+      "new_file": "web\\about\\university_grants_commission_2f_approval_1e85e0.md",
+      "title": "University Grants Commission - 2F Approval",
+      "size": 117
+    },
+    {
+      "new_file": "web\\about\\university_overview_ebb96e.md",
+      "title": "Overview",
+      "size": 5640
+    },
+    {
+      "new_file": "web\\academics\\academic_calendar_140338.md",
+      "title": "Academic Calendar",
+      "size": 757
+    },
+    {
+      "new_file": "web\\academics\\academic_calendar_86357d.md",
+      "title": "Academic Calendar",
+      "size": 491
+    },
+    {
+      "new_file": "web\\academics\\academic_results_5ffab5.md",
+      "title": "Results",
+      "size": 114
+    },
+    {
+      "new_file": "web\\academics\\advanced_studies_2f9abd.md",
+      "title": "Programs",
+      "size": 135
+    },
+    {
+      "new_file": "web\\academics\\advanced_studies_604610.md",
+      "title": "Programs",
+      "size": 116
+    },
+    {
+      "new_file": "web\\academics\\architecture_and_design_053983.md",
+      "title": "Programs",
+      "size": 121
+    },
+    {
+      "new_file": "web\\academics\\architecture_and_design_09034b.md",
+      "title": "Programs",
+      "size": 145
+    },
+    {
+      "new_file": "web\\academics\\architecture_and_design_5e0c3e.md",
+      "title": "Programs",
+      "size": 140
+    },
+    {
+      "new_file": "web\\academics\\commerce_47557c.md",
+      "title": "Programs",
+      "size": 132
+    },
+    {
+      "new_file": "web\\academics\\commerce_84e81d.md",
+      "title": "Programs",
+      "size": 108
+    },
+    {
+      "new_file": "web\\academics\\computer_application_974d29.md",
+      "title": "Programs",
+      "size": 144
+    },
+    {
+      "new_file": "web\\academics\\computer_application_ad7310.md",
+      "title": "Programs",
+      "size": 143
+    },
+    {
+      "new_file": "web\\academics\\computer_application_ae534b.md",
+      "title": "Programs",
+      "size": 120
+    },
+    {
+      "new_file": "web\\academics\\curriculum_and_syllabus_65a33f.md",
+      "title": "Curriculum and Syllabus",
+      "size": 249
+    },
+    {
+      "new_file": "web\\academics\\engineering_0aeab4.md",
+      "title": "Programs",
+      "size": 134
+    },
+    {
+      "new_file": "web\\academics\\engineering_56c468.md",
+      "title": "Programs",
+      "size": 111
+    },
+    {
+      "new_file": "web\\academics\\engineering_b636e4.md",
+      "title": "Programs",
+      "size": 130
+    },
+    {
+      "new_file": "web\\academics\\engineering_cbf3e0.md",
+      "title": "Programs",
+      "size": 135
+    },
+    {
+      "new_file": "web\\academics\\exam_notification_433eb5.md",
+      "title": "Exam Notification",
+      "size": 310
+    },
+    {
+      "new_file": "web\\academics\\legal_studies_4e359f.md",
+      "title": "Programs",
+      "size": 137
+    },
+    {
+      "new_file": "web\\academics\\legal_studies_6a9d91.md",
+      "title": "Programs",
+      "size": 113
+    },
+    {
+      "new_file": "web\\academics\\legal_studies_946bd6.md",
+      "title": "Programs",
+      "size": 136
+    },
+    {
+      "new_file": "web\\academics\\management_3aed02.md",
+      "title": "Programs",
+      "size": 110
+    },
+    {
+      "new_file": "web\\academics\\management_9e3180.md",
+      "title": "Programs",
+      "size": 134
+    },
+    {
+      "new_file": "web\\academics\\management_de4de3.md",
+      "title": "Programs",
+      "size": 129
+    },
+    {
+      "new_file": "web\\academics\\management_f89c8e.md",
+      "title": "Programs",
+      "size": 133
+    },
+    {
+      "new_file": "web\\academics\\ms_engg_by_research_ece_39c800.md",
+      "title": "MS (Engg.) by Research (ECE)",
+      "size": 176
+    },
+    {
+      "new_file": "web\\academics\\ph_d_in_law_9e80d9.md",
+      "title": "Ph.D. in Law",
+      "size": 121
+    },
+    {
+      "new_file": "web\\academics\\postgraduate_programs_dc2717.md",
+      "title": "Programs",
+      "size": 121
+    },
+    {
+      "new_file": "web\\academics\\research_programs_f136ca.md",
+      "title": "Programs",
+      "size": 117
+    },
+    {
+      "new_file": "web\\academics\\schools_departments_11ff6e.md",
+      "title": "Schools/Departments",
+      "size": 938
+    },
+    {
+      "new_file": "web\\academics\\schools_departments_9a4a9b.md",
+      "title": "Schools/Departments",
+      "size": 942
+    },
+    {
+      "new_file": "web\\academics\\science_32222d.md",
+      "title": "Programs",
+      "size": 107
+    },
+    {
+      "new_file": "web\\academics\\science_7d9218.md",
+      "title": "Programs",
+      "size": 130
+    },
+    {
+      "new_file": "web\\academics\\undergraduate_programs_d62612.md",
+      "title": "Programs",
+      "size": 122
+    },
+    {
+      "new_file": "web\\downloads\\kle_team_achieved_air_2_in_overall_performance_in_autonomous_drone_des_78fa6b.md",
+      "title": "News",
+      "size": 716
+    },
+    {
+      "new_file": "web\\downloads\\kle_technological_universitys_iic_shines_with_4_star_rating_in_swro_zo_4dc1e5.md",
+      "title": "News",
+      "size": 1056
+    },
+    {
+      "new_file": "web\\downloads\\kle_technological_universitys_iic_shines_with_4_star_rating_in_swro_zo_f5efbd.md",
+      "title": "News",
+      "size": 745
+    },
+    {
+      "new_file": "web\\downloads\\the_ieee_conference_on_engineering_informatics_2024_icei_2024_0dd264.md",
+      "title": "News",
+      "size": 2259
+    },
+    {
+      "new_file": "web\\downloads\\the_ieee_conference_on_engineering_informatics_2024_icei_2024_dff9bd.md",
+      "title": "News",
+      "size": 2570
+    },
+    {
+      "new_file": "web\\events\\aicwic_8e1fa4.md",
+      "title": "Events",
+      "size": 887
+    },
+    {
+      "new_file": "web\\events\\aicwic_bce36a.md",
+      "title": "Events",
+      "size": 489
+    },
+    {
+      "new_file": "web\\events\\events_3aede4.md",
+      "title": "Events",
+      "size": 12365
+    },
+    {
+      "new_file": "web\\events\\events_48447d.md",
+      "title": "Events",
+      "size": 1766
+    },
+    {
+      "new_file": "web\\events\\kalaa_devi_2025_529d18.md",
+      "title": "Events",
+      "size": 3215
+    },
+    {
+      "new_file": "web\\events\\kle_technological_university_to_host_prestigious_kletech_republic_day__884235.md",
+      "title": "Events",
+      "size": 2179
+    },
+    {
+      "new_file": "web\\events\\pravrutti_fae0c3.md",
+      "title": "Events",
+      "size": 999
+    },
+    {
+      "new_file": "web\\events\\pupa_e3e807.md",
+      "title": "Events",
+      "size": 3506
+    },
+    {
+      "new_file": "web\\events\\reuniting_after_35_years_bvbcet_1988_89_mechanical_and_ip_alumni_meet__5dc2ad.md",
+      "title": "News",
+      "size": 3223
+    },
+    {
+      "new_file": "web\\events\\reuniting_after_35_years_bvbcet_1988_89_mechanical_and_ip_alumni_meet__c90b4c.md",
+      "title": "News",
+      "size": 2912
+    },
+    {
+      "new_file": "web\\events\\team_aerokle_securing_an_all_india_rank_of_2nd_in_sae_iss_addc_1935e9.md",
+      "title": "Events",
+      "size": 876
+    },
+    {
+      "new_file": "web\\events\\unlistened_to_human_and_community_rights_challenges_in_the_planning_an_1fd390.md",
+      "title": "Events",
+      "size": 125
+    },
+    {
+      "new_file": "web\\examination\\exam_notifications_433e91.md",
+      "title": "Exam Notifications",
+      "size": 265
+    },
+    {
+      "new_file": "web\\examination\\student_support_results_257b61.md",
+      "title": "Results",
+      "size": 131
+    },
+    {
+      "new_file": "web\\infrastructure\\kle_technological_university_hubballi_india_marked_national_sports_day_d51783.md",
+      "title": "News",
+      "size": 816
+    },
+    {
+      "new_file": "web\\infrastructure\\kle_tech_and_dassault_systemes_collaborate_for_centre_of_excellence_a330ac.md",
+      "title": "News",
+      "size": 2927
+    },
+    {
+      "new_file": "web\\infrastructure\\kle_tech_and_dassault_systemes_collaborate_for_centre_of_excellence_ced98e.md",
+      "title": "News",
+      "size": 2616
+    },
+    {
+      "new_file": "web\\infrastructure\\outstanding_gymnast_nikhil_badiger_claims_double_silver_at_dasara_cm_c_089d60.md",
+      "title": "News",
+      "size": 516
+    },
+    {
+      "new_file": "web\\infrastructure\\star_labs_received_three_travel_grants_to_attend_the_ieee_74ab85.md",
+      "title": "News",
+      "size": 830
+    },
+    {
+      "new_file": "web\\miscellaneous\\audited_reports_6f15ae.md",
+      "title": "Audited Reports",
+      "size": 430
+    },
+    {
+      "new_file": "web\\miscellaneous\\iqac_abf220.md",
+      "title": "IQAC",
+      "size": 229
+    },
+    {
+      "new_file": "web\\miscellaneous\\mandatory_disclosures_6742e1.md",
+      "title": "Mandatory Disclosures",
+      "size": 117
+    },
+    {
+      "new_file": "web\\miscellaneous\\nba_18be2b.md",
+      "title": "NBA",
+      "size": 162
+    },
+    {
+      "new_file": "web\\miscellaneous\\nirf_d18052.md",
+      "title": "NIRF",
+      "size": 194
+    },
+    {
+      "new_file": "web\\miscellaneous\\transcripts_and_documents_9c7061.md",
+      "title": "Transcripts & Documents",
+      "size": 164
+    },
+    {
+      "new_file": "web\\notices\\9th_international_day_of_yoga_was_celebrated_at_kle_technological_univ_939668.md",
+      "title": "News",
+      "size": 1028
+    },
+    {
+      "new_file": "web\\notices\\9th_international_day_of_yoga_was_celebrated_at_kle_technological_univ_fe16ce.md",
+      "title": "News",
+      "size": 1339
+    },
+    {
+      "new_file": "web\\notices\\aiu_south_west_zone_taekwondo_competition_0c5d2e.md",
+      "title": "News",
+      "size": 1084
+    },
+    {
+      "new_file": "web\\notices\\alumni_spotlight_b31b86.md",
+      "title": "News",
+      "size": 1145
+    },
+    {
+      "new_file": "web\\notices\\arun_kambrekar_dominates_state_level_powerlifting_championship_clinche_395df8.md",
+      "title": "News",
+      "size": 1594
+    },
+    {
+      "new_file": "web\\notices\\arun_kambrekar_dominates_state_level_powerlifting_championship_clinche_3f717d.md",
+      "title": "News",
+      "size": 1311
+    },
+    {
+      "new_file": "web\\notices\\baja_sae_india_2026_competition_950267.md",
+      "title": "News",
+      "size": 1566
+    },
+    {
+      "new_file": "web\\notices\\baja_sae_india_2026_competition_a63e00.md",
+      "title": "News",
+      "size": 1877
+    },
+    {
+      "new_file": "web\\notices\\bio_ai_hackathon_293517.md",
+      "title": "News",
+      "size": 610
+    },
+    {
+      "new_file": "web\\notices\\bio_ai_hackathon_930eae.md",
+      "title": "News",
+      "size": 1015
+    },
+    {
+      "new_file": "web\\notices\\blood_donation_drive_4d20b1.md",
+      "title": "News",
+      "size": 1415
+    },
+    {
+      "new_file": "web\\notices\\blood_donation_drive_bb580e.md",
+      "title": "News",
+      "size": 1726
+    },
+    {
+      "new_file": "web\\notices\\celebrating_a_moment_of_pride_1ca097.md",
+      "title": "News",
+      "size": 1058
+    },
+    {
+      "new_file": "web\\notices\\celebrating_kanaka_dasa_jayanti_at_kle_law_college_today_0cc993.md",
+      "title": "News",
+      "size": 287
+    },
+    {
+      "new_file": "web\\notices\\celebration_of_the_silver_jubilee_by_the_bvb_alumni_of_the_1998_batch_53d693.md",
+      "title": "News",
+      "size": 1551
+    },
+    {
+      "new_file": "web\\notices\\cmdr_ideathon_2026_643f0e.md",
+      "title": "News",
+      "size": 510
+    },
+    {
+      "new_file": "web\\notices\\cmdr_ideathon_2026_ca5951.md",
+      "title": "News",
+      "size": 821
+    },
+    {
+      "new_file": "web\\notices\\congratulations_to_mr_mallikarjun_m_yadawad_5ec36c.md",
+      "title": "News",
+      "size": 882
+    },
+    {
+      "new_file": "web\\notices\\data_science_and_ai_in_astronomy_and_astrophysics_b592f5.md",
+      "title": "News",
+      "size": 2802
+    },
+    {
+      "new_file": "web\\notices\\data_science_and_ai_in_astronomy_and_astrophysics_c8233f.md",
+      "title": "News",
+      "size": 2491
+    },
+    {
+      "new_file": "web\\notices\\day_1_national_conference_of_indian_council_of_chemists_inaugurated_at_e35a90.md",
+      "title": "News",
+      "size": 4199
+    },
+    {
+      "new_file": "web\\notices\\day_2_national_symposium_on_polymer_science_highlights_sustainability__36bf81.md",
+      "title": "News",
+      "size": 2785
+    },
+    {
+      "new_file": "web\\notices\\day_3_national_symposium_on_sustainable_biofuel_technologies_held_at_k_962ae6.md",
+      "title": "News",
+      "size": 3701
+    },
+    {
+      "new_file": "web\\notices\\envisioning_tomorrow_highlights_from_the_5th_convocation_of_kle_techno_9399a7.md",
+      "title": "News",
+      "size": 2504
+    },
+    {
+      "new_file": "web\\notices\\euros_racing_m_baja_achieves_milestone_at_sae_m_baja_2025_d02ca5.md",
+      "title": "News",
+      "size": 1856
+    },
+    {
+      "new_file": "web\\notices\\euros_racing_m_baja_achieves_milestone_at_sae_m_baja_2025_d302c2.md",
+      "title": "News",
+      "size": 1545
+    },
+    {
+      "new_file": "web\\notices\\exciting_news_kle_technological_university_018525.md",
+      "title": "News",
+      "size": 824
+    },
+    {
+      "new_file": "web\\notices\\exciting_news_kle_technological_university_161a45.md",
+      "title": "News",
+      "size": 513
+    },
+    {
+      "new_file": "web\\notices\\felicitation_ceremony_honors_21_distinguished_scientists_and_engineers_7f4e88.md",
+      "title": "News",
+      "size": 2797
+    },
+    {
+      "new_file": "web\\notices\\grand_alumni_meet_and_graduation_day_2024_at_kle_law_college_bengaluru_f49f54.md",
+      "title": "News",
+      "size": 587
+    },
+    {
+      "new_file": "web\\notices\\grand_line_triumph_kle_technological_university_shines_at_smart_india__c8e7bf.md",
+      "title": "News",
+      "size": 1085
+    },
+    {
+      "new_file": "web\\notices\\grand_line_triumph_kle_technological_university_shines_at_smart_india__dfd3dd.md",
+      "title": "News",
+      "size": 1396
+    },
+    {
+      "new_file": "web\\notices\\innovating_for_tomorrow_avinya_varsh_2023_and_prayog_varsh_2023_design_7466fc.md",
+      "title": "News",
+      "size": 3297
+    },
+    {
+      "new_file": "web\\notices\\innovation_confluence_2024_shaping_the_future_at_kle_technological_uni_0bcb9c.md",
+      "title": "News",
+      "size": 3089
+    },
+    {
+      "new_file": "web\\notices\\international_conference_on_ethico_legal_dimensions_of_advanced_techno_8fa7e9.md",
+      "title": "News",
+      "size": 2057
+    },
+    {
+      "new_file": "web\\notices\\international_youth_biodiversity_conference_1e7a67.md",
+      "title": "News",
+      "size": 774
+    },
+    {
+      "new_file": "web\\notices\\international_youth_biodiversity_conference_8d8a28.md",
+      "title": "News",
+      "size": 463
+    },
+    {
+      "new_file": "web\\notices\\kle_ctie_successfully_hosts_medihealthxpo_2026_and_north_karnataka_inc_4fe6a7.md",
+      "title": "News",
+      "size": 1944
+    },
+    {
+      "new_file": "web\\notices\\kle_technological_universitys_team_wins_1st_prize_at_hackathon_at_pesi_dcd999.md",
+      "title": "News",
+      "size": 1990
+    },
+    {
+      "new_file": "web\\notices\\kle_technological_university_hosts_entreva_2025_inauguration_ceremony_bdeb46.md",
+      "title": "News",
+      "size": 1702
+    },
+    {
+      "new_file": "web\\notices\\kle_technological_university_hosts_entreva_2025_inauguration_ceremony_cd69ce.md",
+      "title": "News",
+      "size": 1391
+    },
+    {
+      "new_file": "web\\notices\\kle_technological_university_hosts_first_year_innovation_exhibitions_p_155337.md",
+      "title": "News",
+      "size": 1904
+    },
+    {
+      "new_file": "web\\notices\\kle_technological_university_inaugurates_ieee_pels_student_branch_chap_f009ed.md",
+      "title": "News",
+      "size": 3484
+    },
+    {
+      "new_file": "web\\notices\\kle_technological_university_triumphs_once_more_at_sae_supra_2024_e1f8f0.md",
+      "title": "News",
+      "size": 729
+    },
+    {
+      "new_file": "web\\notices\\kle_techs_win_at_sae_india_aerothon_competition_4d08a5.md",
+      "title": "News",
+      "size": 1513
+    },
+    {
+      "new_file": "web\\notices\\kle_tech_republic_day_cup_chess_tournament_inaugurated_b4cd64.md",
+      "title": "News",
+      "size": 4463
+    },
+    {
+      "new_file": "web\\notices\\kle_tech_signing_lou_with_dvera_holdings_1bef03.md",
+      "title": "News",
+      "size": 898
+    },
+    {
+      "new_file": "web\\notices\\kle_tech_signing_lou_with_dvera_holdings_af92ff.md",
+      "title": "News",
+      "size": 1209
+    },
+    {
+      "new_file": "web\\notices\\kle_tech_students_win_special_recognition_at_ictiee_2026_for_waste_to__2753f5.md",
+      "title": "News",
+      "size": 1537
+    },
+    {
+      "new_file": "web\\notices\\mr_pradeep_vajrams_1_crore_rupee_donation_to_kle_technological_univers_754d5f.md",
+      "title": "News",
+      "size": 1692
+    },
+    {
+      "new_file": "web\\notices\\mr_pradeep_vajrams_1_crore_rupee_donation_to_kle_technological_univers_86a8bd.md",
+      "title": "News",
+      "size": 1381
+    },
+    {
+      "new_file": "web\\notices\\munde_banni_110290.md",
+      "title": "News",
+      "size": 1158
+    },
+    {
+      "new_file": "web\\notices\\news_88cf13.md",
+      "title": "News",
+      "size": 5922
+    },
+    {
+      "new_file": "web\\notices\\rees_2024_symposium_on_engineering_education_inaugurated_at_kle_tech_h_129f51.md",
+      "title": "News",
+      "size": 3021
+    },
+    {
+      "new_file": "web\\notices\\rees_2024_symposium_on_engineering_education_inaugurated_at_kle_tech_h_6e6b3f.md",
+      "title": "News",
+      "size": 3332
+    },
+    {
+      "new_file": "web\\notices\\sahana_vernekar_winning_consolation_prize_563d09.md",
+      "title": "News",
+      "size": 273
+    },
+    {
+      "new_file": "web\\notices\\sahana_vernekar_winning_consolation_prize_615564.md",
+      "title": "News",
+      "size": 584
+    },
+    {
+      "new_file": "web\\notices\\samsung_chip_design_studio_contest_f1aadc.md",
+      "title": "News",
+      "size": 831
+    },
+    {
+      "new_file": "web\\notices\\samsung_chip_design_studio_contest_f40ce7.md",
+      "title": "News",
+      "size": 1142
+    },
+    {
+      "new_file": "web\\notices\\shaping_a_comfortable_tomorrow_celebrating_prof_tejaraj_aminabhavis_in_bac121.md",
+      "title": "News",
+      "size": 1465
+    },
+    {
+      "new_file": "web\\notices\\shrishti_2022_483643.md",
+      "title": "News",
+      "size": 1474
+    },
+    {
+      "new_file": "web\\notices\\the_6th_national_constitutional_law_moot_court_competition_2023_24_at__b85c8e.md",
+      "title": "News",
+      "size": 1211
+    },
+    {
+      "new_file": "web\\notices\\the_future_of_hr_powered_by_ai_808e4c.md",
+      "title": "News",
+      "size": 1420
+    },
+    {
+      "new_file": "web\\notices\\two_international_conferences_ictiee_and_iasf_inaugurated_at_kle_techn_1d03c8.md",
+      "title": "News",
+      "size": 3590
+    },
+    {
+      "new_file": "web\\notices\\two_international_conferences_ictiee_and_iasf_inaugurated_at_kle_techn_d66d8d.md",
+      "title": "News",
+      "size": 3901
+    },
+    {
+      "new_file": "web\\notices\\victorious_skies_team_aerokle_triumphs_in_autonomous_flight_at_saeindi_e73ed4.md",
+      "title": "News",
+      "size": 1010
+    },
+    {
+      "new_file": "web\\notices\\world_blood_donors_day_20c00a.md",
+      "title": "News",
+      "size": 1124
+    },
+    {
+      "new_file": "web\\notices\\world_blood_donors_day_79dc70.md",
+      "title": "News",
+      "size": 813
+    },
+    {
+      "new_file": "web\\notices\\world_intellectual_property_day_4d71b6.md",
+      "title": "News",
+      "size": 770
+    },
+    {
+      "new_file": "web\\notices\\world_intellectual_property_day_924bd9.md",
+      "title": "News",
+      "size": 1081
+    },
+    {
+      "new_file": "web\\research\\accreditations_naac_071c25.md",
+      "title": "Accreditations and Approvals",
+      "size": 9177
+    },
+    {
+      "new_file": "web\\research\\campus_leadership_67ef75.md",
+      "title": "Campus Leadership and Administration",
+      "size": 3584
+    },
+    {
+      "new_file": "web\\research\\governance_7a2386.md",
+      "title": "Governance and Academic Boards",
+      "size": 7174
+    },
+    {
+      "new_file": "web\\research\\kle_tech_news_seven_researchers_recognized_in_stanfords_top_2_scientis_14239d.md",
+      "title": "News",
+      "size": 2484
+    },
+    {
+      "new_file": "web\\research\\kle_tech_news_seven_researchers_recognized_in_stanfords_top_2_scientis_f92a1b.md",
+      "title": "News",
+      "size": 2173
+    },
+    {
+      "new_file": "web\\research\\nirf_rankings_54f445.md",
+      "title": "NIRF Rankings",
+      "size": 5053
+    },
+    {
+      "new_file": "web\\research\\padma_shri_award_for_dr_prabhakar_kore_for_achievements_in_literature__d16858.md",
+      "title": "News",
+      "size": 1800
+    },
+    {
+      "new_file": "web\\research\\placements_recruiters_79280d.md",
+      "title": "Placements and Leading Recruiters",
+      "size": 5599
+    },
+    {
+      "new_file": "web\\research\\revolutionizing_honey_harvesting_kle_techs_patented_iab_device_in_indi_699f11.md",
+      "title": "News",
+      "size": 588
+    },
+    {
+      "new_file": "web\\research\\revolutionizing_honey_harvesting_kle_techs_patented_iab_device_in_indi_a0d6af.md",
+      "title": "News",
+      "size": 899
+    },
+    {
+      "new_file": "web\\research\\role_of_youth_in_shaping_the_future_of_technology_and_research_highlig_af0e51.md",
+      "title": "News",
+      "size": 3069
+    },
+    {
+      "new_file": "web\\research\\role_of_youth_in_shaping_the_future_of_technology_and_research_highlig_b92848.md",
+      "title": "News",
+      "size": 2758
+    },
+    {
+      "new_file": "web\\research\\rti_disclosures_d21e4d.md",
+      "title": "RTI and Mandatory Disclosures",
+      "size": 6003
+    },
+    {
+      "new_file": "web\\research\\scholarships_596da5.md",
+      "title": "Scholarships at KLE Technological University",
+      "size": 6970
+    },
+    {
+      "new_file": "web\\research\\seven_researchers_of_kle_tech_in_top_2_of_scientists_in_stanford_list_f08c3e.md",
+      "title": "News",
+      "size": 4660
+    },
+    {
+      "new_file": "web\\research\\student_projects_085018.md",
+      "title": "Student Projects",
+      "size": 105
+    }
+  ],
+  "exists_extra": [
+    {
+      "new_file": "pdf\\01_bachelor_of_civil_engineering_curriculum_structure_content_2023_2027_3df04d.md",
+      "curr_file": "02-academics\\01-bachelor-of-civil-engineering-curriculum-structure-content-2023-2027.md",
+      "jaccard": 0.9255,
+      "new_size": 199500,
+      "curr_size": 199175
+    },
+    {
+      "new_file": "pdf\\11th_bog_minutes_4206d1.md",
+      "curr_file": "01-governance-policy\\EC-Minutes-dup.md",
+      "jaccard": 0.4456,
+      "new_size": 40844,
+      "curr_size": 30992
+    },
+    {
+      "new_file": "pdf\\12th_bog_minutes_d74f59.md",
+      "curr_file": "07-news-media\\MBA-2020.md",
+      "jaccard": 0.7643,
+      "new_size": 217917,
+      "curr_size": 93573
+    },
+    {
+      "new_file": "pdf\\2nd_bog_minutes_43e705.md",
+      "curr_file": "07-news-media\\Rules-and-Regulations-UG-PG-July-2021.md",
+      "jaccard": 0.5539,
+      "new_size": 231489,
+      "curr_size": 105443
+    },
+    {
+      "new_file": "pdf\\3rd_bog_minutes_0187aa.md",
+      "curr_file": "01-governance-policy\\Minutes-10th-ECM-Online.md",
+      "jaccard": 0.4091,
+      "new_size": 300191,
+      "curr_size": 115588
+    },
+    {
+      "new_file": "pdf\\7th_bog_minutes_88f159.md",
+      "curr_file": "07-news-media\\Rules-and-Regulations-UG-PG-July-2021.md",
+      "jaccard": 0.5823,
+      "new_size": 158980,
+      "curr_size": 105443
+    }
+  ],
+  "duplicates": [
+    {
+      "new_file": "pdf\\01_mtech_in_design_engineering_curriculum_structure_and_content_2025_2027_29f6ee.md",
+      "curr_file": "02-academics\\01-mtech-in-design-engineering-curriculum-structure-and-content-2025-2027.md",
+      "jaccard": 0.9873
+    },
+    {
+      "new_file": "pdf\\02_bachelor_of_automation_and_robotics_curriculum_structure_content_2023_2027_dfda65.md",
+      "curr_file": "02-academics\\02-bachelor-of-automation-and-robotics-curriculum-structure-content-2023-2027.md",
+      "jaccard": 0.9939
+    },
+    {
+      "new_file": "pdf\\02_mtech_in_ams_curriculum_structure_and_content_2025_2027_c55d3a.md",
+      "curr_file": "02-academics\\02-mtech-in-ams-curriculum-structure-and-content-2025-2027.md",
+      "jaccard": 0.9864
+    },
+    {
+      "new_file": "pdf\\03_bachelor_of_biotechnology_curriculum_structure_content_2023_2027_d18849.md",
+      "curr_file": "02-academics\\03-bachelor-of-biotechnology-curriculum-structure-content-2023-2027.md",
+      "jaccard": 0.9833
+    },
+    {
+      "new_file": "pdf\\03_mtech_in_cs_curriculum_structure_and_content_2025_2027_2a0917.md",
+      "curr_file": "02-academics\\03-mtech-in-cs-curriculum-structure-and-content-2025-2027.md",
+      "jaccard": 0.986
+    },
+    {
+      "new_file": "pdf\\04_bachelor_of_computer_science_and_engineering_curriculum_structure_content_202_2c1f40.md",
+      "curr_file": "02-academics\\04-bachelor-of-computer-science-and-engineering-curriculum-structure-content-2023-2027.md",
+      "jaccard": 0.9956
+    },
+    {
+      "new_file": "pdf\\04_mtech_in_ec_vlsi_des_curriculum_structure_and_content_2025_2027_3de035.md",
+      "curr_file": "02-academics\\04-mtech-in-ec-vlsi-des-curriculum-structure-and-content-2025-2027.md",
+      "jaccard": 0.986
+    },
+    {
+      "new_file": "pdf\\05_bachelor_of_cs_artificial_intelligence_curriculum_structure_content_2023_2027_95729e.md",
+      "curr_file": "02-academics\\05-bachelor-of-cs-artificial-intelligence-curriculum-structure-content-2023-2027.md",
+      "jaccard": 0.9949
+    },
+    {
+      "new_file": "pdf\\05_mtech_in_structural_engineering_curriculum_structure_and_content_2025_2027_9c8ae4.md",
+      "curr_file": "02-academics\\05-mtech-in-structural-engineering-curriculum-structure-and-content-2025-2027.md",
+      "jaccard": 0.9891
+    },
+    {
+      "new_file": "pdf\\06_bachelor_of_electrical_and_electronics_engg_curriculum_structure_content_2023_0f6979.md",
+      "curr_file": "02-academics\\06-bachelor-of-electrical-and-electronics-engg-curriculum-structure-content-2023-2027.md",
+      "jaccard": 0.9854
+    },
+    {
+      "new_file": "pdf\\07_bachelor_of_mechanical_engineering_curriculum_structure_content_2023_2027_ee5493.md",
+      "curr_file": "02-academics\\07-bachelor-of-mechanical-engineering-curriculum-structure-content-2023-2027.md",
+      "jaccard": 0.9961
+    },
+    {
+      "new_file": "pdf\\09_bachelor_of_electronics_engg_vlsi_curriculum_structure_and_content_2023_27_872712.md",
+      "curr_file": "02-academics\\09-bachelor-of-electronics-engg-vlsi-curriculum-structure-and-content-2023-27.md",
+      "jaccard": 0.9836
+    },
+    {
+      "new_file": "pdf\\10th_bog_minutes_f3fcdc.md",
+      "curr_file": "01-governance-policy\\BOG-Minutes.md",
+      "jaccard": 0.9891
+    },
+    {
+      "new_file": "pdf\\10_bachelor_of_chemical_engineering_curriculum_structure_content_2023_2027_3d2d58.md",
+      "curr_file": "02-academics\\10-bachelor-of-chemical-engineering-curriculum-structure-content-2023-2027.md",
+      "jaccard": 0.9921
+    },
+    {
+      "new_file": "pdf\\11imguf_2_4semesterllmesatimetableaug_sept_2023_ab721a.md",
+      "curr_file": "02-academics\\2-4SemesterLLMESATimeTableAug-Sept.2023.md",
+      "jaccard": 0.6263
+    },
+    {
+      "new_file": "pdf\\11_bachelor_of_biomedical_engineering_curriculum_structure_content_2023_2027_7ab981.md",
+      "curr_file": "02-academics\\11-bachelor-of-biomedical-engineering-curriculum-structure-content-2023-2027.md",
+      "jaccard": 0.996
+    },
+    {
+      "new_file": "pdf\\172krf_kleslcmun_newsletter_1cb565.md",
+      "curr_file": "07-news-media\\KLESLCMUN-NEWSLETTER.md",
+      "jaccard": 0.9616
+    },
+    {
+      "new_file": "pdf\\185imguf_bvb_annual_report_2015_16_a87a9a.md",
+      "curr_file": "07-news-media\\bvb-annual-report-2015-16.md",
+      "jaccard": 0.9815
+    },
+    {
+      "new_file": "pdf\\186imguf_annual_report_2014_15_2b1fb5.md",
+      "curr_file": "07-news-media\\annual-report-2014-15.md",
+      "jaccard": 0.9796
+    },
+    {
+      "new_file": "pdf\\187imguf_bvbcet_annual_report_2013_14_0977d6.md",
+      "curr_file": "07-news-media\\bvbcet-annual-report-2013-14.md",
+      "jaccard": 0.9825
+    },
+    {
+      "new_file": "pdf\\188imguf_placement_brochure_kle_tech_83a8a7.md",
+      "curr_file": "06-careers-placements\\placement-brochure-kle-tech.md",
+      "jaccard": 0.9494
+    },
+    {
+      "new_file": "pdf\\189krf_campus_placement_brochure_333d5f.md",
+      "curr_file": "06-careers-placements\\Campus-Placement-Brochure.md",
+      "jaccard": 0.9188
+    },
+    {
+      "new_file": "pdf\\19krf_about_kle_technological_universityhubballi_50612b.md",
+      "curr_file": "07-news-media\\About-KLE-Technological-UniversityHubballi.md",
+      "jaccard": 0.9324
+    },
+    {
+      "new_file": "pdf\\1st_ec_minutes_5144ff.md",
+      "curr_file": "01-governance-policy\\EC-Minutes.md",
+      "jaccard": 0.9803
+    },
+    {
+      "new_file": "pdf\\203imguf_call_for_admission_mse_2024_25_083252.md",
+      "curr_file": "03-admissions-fees\\Call-for-admission-MSE-2024-25.md",
+      "jaccard": 0.8333
+    },
+    {
+      "new_file": "pdf\\228krf_admission_eligible_kslu_students_dab1a5.md",
+      "curr_file": "03-admissions-fees\\Admission-Eligible-KSLU-Students.md",
+      "jaccard": 0.9731
+    },
+    {
+      "new_file": "pdf\\234imguf_coe_2ndsemb_eandb_archcoe2024_25_even_0ddc73.md",
+      "curr_file": "07-news-media\\COE-2ndSemB.EandB.ArchCOE2024-25-Even-.md",
+      "jaccard": 0.7687
+    },
+    {
+      "new_file": "pdf\\235imguf_coe_4thand6thsemestercoe2024_25_even_27b36c.md",
+      "curr_file": "07-news-media\\COE-4thand6thSemesterCOE2024-25-Even-.md",
+      "jaccard": 0.7914
+    },
+    {
+      "new_file": "pdf\\236imguf_aqar_2022_23_system_generated_copy_27b703.md",
+      "curr_file": "07-news-media\\AQAR-2022-23-system-generated-copy.md",
+      "jaccard": 0.9873
+    },
+    {
+      "new_file": "pdf\\236krf_resuming_offline_classes_9d4471.md",
+      "curr_file": "07-news-media\\Resuming-Offline-Classes.md",
+      "jaccard": 0.7278
+    },
+    {
+      "new_file": "pdf\\238imguf_12bcertificate_e3e2fc.md",
+      "curr_file": "07-news-media\\12BCertificate.md",
+      "jaccard": 0.5792
+    },
+    {
+      "new_file": "pdf\\241imguf_kle_technological_university_public_mandatory_disclosure_3e251c.md",
+      "curr_file": "07-news-media\\KLE-Technological-University-Public-Mandatory-Disclosure.md",
+      "jaccard": 0.9596
+    },
+    {
+      "new_file": "pdf\\251imguf_kletech_boardofstudies_f51560.md",
+      "curr_file": "07-news-media\\KLETech-BoardofStudies.md",
+      "jaccard": 0.9272
+    },
+    {
+      "new_file": "pdf\\256imguf_kle_tech_anti_ragging_committee_f0c33c.md",
+      "curr_file": "05-student-welfare\\kle-tech-anti-ragging-committee.md",
+      "jaccard": 0.8589
+    },
+    {
+      "new_file": "pdf\\257imguf_kle_tech_equal_opportunity_cell_af905e.md",
+      "curr_file": "07-news-media\\kle-tech-equal-opportunity-cell.md",
+      "jaccard": 0.856
+    },
+    {
+      "new_file": "pdf\\258imguf_kletech_internalcomplaintcommittee_3d3608.md",
+      "curr_file": "05-student-welfare\\KLETech-InternalComplaintCommittee.md",
+      "jaccard": 0.76
+    },
+    {
+      "new_file": "pdf\\259imguf_sgrccommittee_871b11.md",
+      "curr_file": "05-student-welfare\\SGRCCommittee.md",
+      "jaccard": 0.7799
+    },
+    {
+      "new_file": "pdf\\2nd_and_4th_sem_coe_2022_23_even_bsc_fad_25a162.md",
+      "curr_file": "07-news-media\\2nd-and-4th-sem-COE-2022-23-Even--BSc-FAD.md",
+      "jaccard": 0.8115
+    },
+    {
+      "new_file": "pdf\\2_sem_august_2021_8eb52d.md",
+      "curr_file": "07-news-media\\2-sem-august-2021.md",
+      "jaccard": 0.8547
+    },
+    {
+      "new_file": "pdf\\3rd_sem_mba_mca_mtech_2024_25_odd_b3bd2d.md",
+      "curr_file": "02-academics\\3rd-sem-mba-mca-mtech-2024-25-odd.md",
+      "jaccard": 0.7481
+    },
+    {
+      "new_file": "pdf\\42imguf_admission_notification_d2eaa0.md",
+      "curr_file": "03-admissions-fees\\admission-notification.md",
+      "jaccard": 0.7349
+    },
+    {
+      "new_file": "pdf\\489imguf_phd_regulations_kle_tech_july_2025_808771.md",
+      "curr_file": "02-academics\\PhD-regulations-KLE-tech-july-2025.md",
+      "jaccard": 0.9638
+    },
+    {
+      "new_file": "pdf\\4th_sem_mtech_coe_2022_23_03efeb.md",
+      "curr_file": "02-academics\\4th-Sem-MTech-COE-2022-23.md",
+      "jaccard": 0.6471
+    },
+    {
+      "new_file": "pdf\\525imguf_placement_brochure_kle_technological_university_hubballi_karnataka_stat_d84ef1.md",
+      "curr_file": "06-careers-placements\\placement-brochure-kle-technological-university-hubballi-karnataka-state.md",
+      "jaccard": 0.9552
+    },
+    {
+      "new_file": "pdf\\531imguf_ugbiotechnologydcpreport_ba0582.md",
+      "curr_file": "07-news-media\\UGBiotechnologyDCPreport.md",
+      "jaccard": 0.9664
+    },
+    {
+      "new_file": "pdf\\532imguf_ugcomputerscienceengineeringdcpreport_cca2a6.md",
+      "curr_file": "07-news-media\\UGComputerScienceEngineeringDCPreport.md",
+      "jaccard": 0.9861
+    },
+    {
+      "new_file": "pdf\\533imguf_ugelectronicscommunicationengineeringdcpreport_2747a9.md",
+      "curr_file": "07-news-media\\UGElectronicsCommunicationEngineeringDCPreport.md",
+      "jaccard": 0.9823
+    },
+    {
+      "new_file": "pdf\\5th_sem_bca_bba_2024_25_4b0ec9.md",
+      "curr_file": "07-news-media\\7th-Sem-BE-9th-Sem-BArch-2024-25.md",
+      "jaccard": 0.8058
+    },
+    {
+      "new_file": "pdf\\5_3_3_student_projects_2d6bfb.md",
+      "curr_file": "04-research-centers\\5.3.3.-Student-Projects.md",
+      "jaccard": 0.9419
+    },
+    {
+      "new_file": "pdf\\6sem_be_b_arch_bba2_4_sem_bca2sem_june_2023_844f1d.md",
+      "curr_file": "07-news-media\\6Sem-BE-B.Arch-BBA2-4-Sem--BCA2sem-June-2023.md",
+      "jaccard": 0.8415
+    },
+    {
+      "new_file": "pdf\\6th_sem_coe_2022_23_30cba2.md",
+      "curr_file": "07-news-media\\6th-Sem-COE-2022-23.md",
+      "jaccard": 0.8045
+    },
+    {
+      "new_file": "pdf\\7imguf_iqaccomposition_08b58c.md",
+      "curr_file": "07-news-media\\IQACComposition.md",
+      "jaccard": 0.9263
+    },
+    {
+      "new_file": "pdf\\7th_sem_be_9th_sem_barch_2024_25_8fefcf.md",
+      "curr_file": "07-news-media\\7th-Sem-BE-9th-Sem-BArch-2024-25.md",
+      "jaccard": 0.8129
+    },
+    {
+      "new_file": "pdf\\8imguf_momiqac16may22and7july21609_b4f126.md",
+      "curr_file": "01-governance-policy\\MOMIQAC16May22and7July21609.md",
+      "jaccard": 0.912
+    },
+    {
+      "new_file": "pdf\\8sem_4f2e79.md",
+      "curr_file": "07-news-media\\8sem.md",
+      "jaccard": 0.8217
+    },
+    {
+      "new_file": "pdf\\8th_ec_minutes_5e48b8.md",
+      "curr_file": "01-governance-policy\\EC-Minutes-dup.md",
+      "jaccard": 0.9654
+    },
+    {
+      "new_file": "pdf\\8_sem_esa_time_table_june_2021_1_444257.md",
+      "curr_file": "07-news-media\\sem8-esa-time-table-june-2021-1.md",
+      "jaccard": 0.7188
+    },
+    {
+      "new_file": "pdf\\8_sem_esa_time_table_may_2023_6df1f5.md",
+      "curr_file": "07-news-media\\8-Sem-ESA-Time-table-May-2023.md",
+      "jaccard": 0.6777
+    },
+    {
+      "new_file": "pdf\\9imguf_aqar2021_22resubmittedaugust2023_e91289.md",
+      "curr_file": "07-news-media\\AQAR2021-22ResubmittedAugust2023.md",
+      "jaccard": 0.9855
+    },
+    {
+      "new_file": "pdf\\9th_bog_minutes_fce62f.md",
+      "curr_file": "01-governance-policy\\BOG-Minutes-dup.md",
+      "jaccard": 0.9656
+    },
+    {
+      "new_file": "pdf\\application_for_duplicate_grade_cards_degree_cert_927687.md",
+      "curr_file": "07-news-media\\Application-for-Duplicate-Grade-Cards-Degree-Cert.md",
+      "jaccard": 0.7353
+    },
+    {
+      "new_file": "pdf\\application_part1_report_2019_20_cdcf49.md",
+      "curr_file": "07-news-media\\Application-Part1-Report-2019-20.md",
+      "jaccard": 0.9862
+    },
+    {
+      "new_file": "pdf\\application_part_1_report_2018_19_6bce1a.md",
+      "curr_file": "07-news-media\\Application-Part-1-Report-2018-19.md",
+      "jaccard": 0.988
+    },
+    {
+      "new_file": "pdf\\application_part_2_report_2018_19_0bde5f.md",
+      "curr_file": "07-news-media\\Application-Part-2-Report-2018-19.md",
+      "jaccard": 0.9013
+    },
+    {
+      "new_file": "pdf\\automation_robotics_curriculum_structure_content_2021_25_22abf2.md",
+      "curr_file": "02-academics\\Automation-Robotics-Curriculum-Structure-Content-2021-25.md",
+      "jaccard": 0.9934
+    },
+    {
+      "new_file": "pdf\\bachelor_architecture_curriculum_2021_2026_473877.md",
+      "curr_file": "02-academics\\bachelor-architecture-curriculum-2021-2026.md",
+      "jaccard": 0.9864
+    },
+    {
+      "new_file": "pdf\\bachelor_automation_robotics_curriculum_2022_2026_4fc75f.md",
+      "curr_file": "02-academics\\bachelor-automation-robotics-curriculum-2022-2026.md",
+      "jaccard": 0.9871
+    },
+    {
+      "new_file": "pdf\\bachelor_biomedical_engineering_curriculum_2022_2026_2255ce.md",
+      "curr_file": "02-academics\\bachelor-biomedical-engineering-curriculum-2022-2026.md",
+      "jaccard": 0.996
+    },
+    {
+      "new_file": "pdf\\bachelor_biomedical_engineering_curriculum_structure_2021_2025_2208bf.md",
+      "curr_file": "02-academics\\bachelor-biomedical-engineering-curriculum-structure-2021-2025.md",
+      "jaccard": 0.9925
+    },
+    {
+      "new_file": "pdf\\bachelor_biotechnology_curriculum_2022_2026_cd4b0b.md",
+      "curr_file": "02-academics\\bachelor-biotechnology-curriculum-2022-2026.md",
+      "jaccard": 0.9842
+    },
+    {
+      "new_file": "pdf\\bachelor_business_administration_curriculum_2023_2026_116d64.md",
+      "curr_file": "02-academics\\bachelor-business-administration-curriculum-2023-2026.md",
+      "jaccard": 0.9927
+    },
+    {
+      "new_file": "pdf\\bachelor_business_administration_curriculum_structure_2022_2025_a72f0a.md",
+      "curr_file": "02-academics\\bachelor-business-administration-curriculum-structure-2022-2025.md",
+      "jaccard": 0.9899
+    },
+    {
+      "new_file": "pdf\\bachelor_chemical_engineering_curriculum_2022_2026_44abf9.md",
+      "curr_file": "02-academics\\bachelor-chemical-engineering-curriculum-2022-2026.md",
+      "jaccard": 0.9925
+    },
+    {
+      "new_file": "pdf\\bachelor_chemical_engineering_curriculum_structure_2021_2025_10584d.md",
+      "curr_file": "02-academics\\bachelor-chemical-engineering-curriculum-structure-2021-2025.md",
+      "jaccard": 0.9918
+    },
+    {
+      "new_file": "pdf\\bachelor_civil_engineering_curriculum_2022_2026_ac83ac.md",
+      "curr_file": "02-academics\\bachelor-civil-engineering-curriculum-2022-2026.md",
+      "jaccard": 0.9964
+    },
+    {
+      "new_file": "pdf\\bachelor_commerce_curriculum_2023_2026_d6b387.md",
+      "curr_file": "02-academics\\bachelor-commerce-curriculum-2023-2026.md",
+      "jaccard": 0.9921
+    },
+    {
+      "new_file": "pdf\\bachelor_computer_applications_curriculum_2023_2026_4f66bc.md",
+      "curr_file": "02-academics\\bachelor-computer-applications-curriculum-2023-2026.md",
+      "jaccard": 0.9956
+    },
+    {
+      "new_file": "pdf\\bachelor_computer_science_engineering_curriculum_2022_2026_747ffb.md",
+      "curr_file": "02-academics\\bachelor-computer-science-engineering-curriculum-2022-2026.md",
+      "jaccard": 0.9962
+    },
+    {
+      "new_file": "pdf\\bachelor_cs_artificial_intelligence_curriculum_2022_2026_587359.md",
+      "curr_file": "02-academics\\bachelor-cs-artificial-intelligence-curriculum-2022-2026.md",
+      "jaccard": 0.9955
+    },
+    {
+      "new_file": "pdf\\bachelor_electrical_electronics_engineering_curriculum_2022_2026_d3956b.md",
+      "curr_file": "02-academics\\bachelor-electrical-electronics-engineering-curriculum-2022-2026.md",
+      "jaccard": 0.9957
+    },
+    {
+      "new_file": "pdf\\bachelor_electronics_communication_engineering_vlsi_curriculum_2022_2026_9d8aab.md",
+      "curr_file": "02-academics\\bachelor-electronics-communication-engineering-vlsi-curriculum-2022-2026.md",
+      "jaccard": 0.9947
+    },
+    {
+      "new_file": "pdf\\bachelor_mechanical_engineering_curriculum_2022_2026_672fda.md",
+      "curr_file": "02-academics\\bachelor-mechanical-engineering-curriculum-2022-2026.md",
+      "jaccard": 0.9878
+    },
+    {
+      "new_file": "pdf\\bachelor_of_architecture_curriculum_structure_content_2022_2027_ac5106.md",
+      "curr_file": "02-academics\\bachelor-of-architecture-curriculum-structure-content-2022-2027.md",
+      "jaccard": 0.9957
+    },
+    {
+      "new_file": "pdf\\bachelor_of_business_administration_curriculum_structure_content_2024_2027_d5b585.md",
+      "curr_file": "02-academics\\bachelor-of-business-administration-curriculum-structure-content-2024-2027.md",
+      "jaccard": 0.9855
+    },
+    {
+      "new_file": "pdf\\bachelor_of_commerce_curriculum_structure_content_2024_2027_57a69a.md",
+      "curr_file": "02-academics\\bachelor-of-commerce-curriculum-structure-content-2024-2027.md",
+      "jaccard": 0.9885
+    },
+    {
+      "new_file": "pdf\\bachelor_of_computer_applications_curriculum_structure_content_2024_2027_1b1243.md",
+      "curr_file": "02-academics\\bachelor-of-computer-applications-curriculum-structure-content-2024-2027.md",
+      "jaccard": 0.9922
+    },
+    {
+      "new_file": "pdf\\backlog_esa_time_table_may_2023_2e5dd2.md",
+      "curr_file": "07-news-media\\Backlog-ESA-Time-Table-May-2023.md",
+      "jaccard": 0.855
+    },
+    {
+      "new_file": "pdf\\barch_curriculum_structure_content_2020_2025_bab42d.md",
+      "curr_file": "02-academics\\barch-curriculum-structure-content-2020-2025.md",
+      "jaccard": 0.9938
+    },
+    {
+      "new_file": "pdf\\ba_llb_2021_26_batch_7db93c.md",
+      "curr_file": "02-academics\\ba-llb-2021-26-batch.md",
+      "jaccard": 0.9909
+    },
+    {
+      "new_file": "pdf\\bba_llb_2021_26_batch_155be4.md",
+      "curr_file": "02-academics\\bba-llb-2021-26-batch.md",
+      "jaccard": 0.9837
+    },
+    {
+      "new_file": "pdf\\bca_curricullum_structure_contents_2022_25_batch_9dc2cb.md",
+      "curr_file": "02-academics\\bca-curricullum-structure-contents-2022-25-batch.md",
+      "jaccard": 0.9942
+    },
+    {
+      "new_file": "pdf\\bcom_llb_2021_26_batch_cc31f9.md",
+      "curr_file": "02-academics\\bcom-llb-2021-26-batch.md",
+      "jaccard": 0.9924
+    },
+    {
+      "new_file": "pdf\\biotech_curriculum_structure_content_2021_25_b345a6.md",
+      "curr_file": "02-academics\\Biotech-Curriculum-Structure-Content-2021-25.md",
+      "jaccard": 0.9834
+    },
+    {
+      "new_file": "pdf\\civil_curriculum_structure_content_2021_25_58be23.md",
+      "curr_file": "02-academics\\Civil-Curriculum-Structure-Content-2021-25.md",
+      "jaccard": 0.9961
+    },
+    {
+      "new_file": "pdf\\coe_odd_sem_2024_25_e27931.md",
+      "curr_file": "07-news-media\\coe-odd-sem-2024-25.md",
+      "jaccard": 0.8014
+    },
+    {
+      "new_file": "pdf\\computer_science_ai_curriculum_structure_content_2021_25_be3ed2.md",
+      "curr_file": "02-academics\\Computer-Science--AI-Curriculum-Structure-Content-2021-25.md",
+      "jaccard": 0.9951
+    },
+    {
+      "new_file": "pdf\\computer_science_curriculum_structure_content_2021_25_c1302d.md",
+      "curr_file": "02-academics\\Computer-Science-Curriculum-Structure-Content-2021-25.md",
+      "jaccard": 0.9949
+    },
+    {
+      "new_file": "pdf\\ece_curriculum_structure_and_content_2021_25_ebe870.md",
+      "curr_file": "02-academics\\ECE-Curriculum-Structure-and-Content-2021-25.md",
+      "jaccard": 0.9947
+    },
+    {
+      "new_file": "pdf\\eee_curriculum_structure_and_curriculum_content_2021_25_38bd12.md",
+      "curr_file": "02-academics\\EEE--Curriculum-Structure-and-Curriculum-Content-2021-25.md",
+      "jaccard": 0.9937
+    },
+    {
+      "new_file": "pdf\\faculty_conclave_2019_73f609.md",
+      "curr_file": "04-research-centers\\Faculty-Conclave-2019.md",
+      "jaccard": 0.8414
+    },
+    {
+      "new_file": "pdf\\faculty_conclave_2019_converted_370754.md",
+      "curr_file": "04-research-centers\\Faculty-Conclave-2019-converted.md",
+      "jaccard": 0.8635
+    },
+    {
+      "new_file": "pdf\\faculty_conclave_publications_2015_7c7038.md",
+      "curr_file": "04-research-centers\\FACULTY-CONCLAVE-PUBLICATIONS---2015.md",
+      "jaccard": 0.9169
+    },
+    {
+      "new_file": "pdf\\faculty_conclave_publications_2016_bddbc9.md",
+      "curr_file": "04-research-centers\\FACULTY-CONCLAVE-PUBLICATIONS-2016.md",
+      "jaccard": 0.9046
+    },
+    {
+      "new_file": "pdf\\faculty_conclave_publications_2017_527f77.md",
+      "curr_file": "04-research-centers\\FACULTY-CONCLAVE-PUBLICATIONS-2017.md",
+      "jaccard": 0.8434
+    },
+    {
+      "new_file": "pdf\\faculty_conclave_publications_2018_28bee3.md",
+      "curr_file": "04-research-centers\\FACULTY-CONCLAVE-PUBLICATIONS-2018.md",
+      "jaccard": 0.8962
+    },
+    {
+      "new_file": "pdf\\fashion_design_curriculum_strcture_contents_batch2022_25_4416c1.md",
+      "curr_file": "02-academics\\fashion-design-curriculum-strcture-contents-batch2022-25.md",
+      "jaccard": 0.9913
+    },
+    {
+      "new_file": "pdf\\fashion_design_curriculum_syllabus_2023_26_e4dc7f.md",
+      "curr_file": "02-academics\\fashion-design-curriculum-syllabus-2023-26.md",
+      "jaccard": 0.9913
+    },
+    {
+      "new_file": "pdf\\final_2_and_4_6efd67.md",
+      "curr_file": "07-news-media\\final-2-and-4.md",
+      "jaccard": 0.7869
+    },
+    {
+      "new_file": "pdf\\intercom_04_03_2022_8c151a.md",
+      "curr_file": "07-news-media\\intercom-04-03-2022.md",
+      "jaccard": 0.8883
+    },
+    {
+      "new_file": "pdf\\it_policies_and_procedures_manual_updated_12_4_21_ad746f.md",
+      "curr_file": "07-news-media\\IT-Policies-and-Procedures-Manual-Updated-12-4-21.md",
+      "jaccard": 0.9592
+    },
+    {
+      "new_file": "pdf\\kletech_ece_serb_jrf_call_for_2025_d9e164.md",
+      "curr_file": "07-news-media\\KLETECH-ECE-SERB-JRF-Call-for-2025.md",
+      "jaccard": 0.8735
+    },
+    {
+      "new_file": "pdf\\kle_tech_annual_report_2015_16_d1cec8.md",
+      "curr_file": "07-news-media\\KLE-TECH-Annual-Report-2015-16.md",
+      "jaccard": 0.9846
+    },
+    {
+      "new_file": "pdf\\kle_tech_annual_report_2016_17_2c6676.md",
+      "curr_file": "07-news-media\\KLE-TECH-Annual-Report-2016-17.md",
+      "jaccard": 0.9868
+    },
+    {
+      "new_file": "pdf\\kle_tech_annual_report_2017_18_56707a.md",
+      "curr_file": "07-news-media\\KLE-TECH-Annual-Report-2017-18.md",
+      "jaccard": 0.9917
+    },
+    {
+      "new_file": "pdf\\kle_tech_annual_report_2018_19_0482ba.md",
+      "curr_file": "07-news-media\\KLE-TECH-Annual-Report-2018-19.md",
+      "jaccard": 0.99
+    },
+    {
+      "new_file": "pdf\\kle_tech_annual_report_2019_20_c56d5e.md",
+      "curr_file": "07-news-media\\KLE-TECH-Annual-Report-2019-20.md",
+      "jaccard": 0.9922
+    },
+    {
+      "new_file": "pdf\\kle_tech_statutes_e250f6.md",
+      "curr_file": "01-governance-policy\\KLE-Tech-Statutes-dup.md",
+      "jaccard": 0.9662
+    },
+    {
+      "new_file": "pdf\\kle_tech_upsc_0b9070.md",
+      "curr_file": "07-news-media\\KLE-TECH-UPSC.md",
+      "jaccard": 0.9387
+    },
+    {
+      "new_file": "pdf\\llb_20203_26_batch_689e90.md",
+      "curr_file": "02-academics\\llb-20203-26-batch.md",
+      "jaccard": 0.9919
+    },
+    {
+      "new_file": "pdf\\mandatory_disclosure_edited_3808a7.md",
+      "curr_file": "07-news-media\\Mandatory-Disclosure-Edited.md",
+      "jaccard": 0.9976
+    },
+    {
+      "new_file": "pdf\\mba_2020_96eb8e.md",
+      "curr_file": "07-news-media\\MBA-2020.md",
+      "jaccard": 0.9848
+    },
+    {
+      "new_file": "pdf\\mba_6_term_time_table_esa_9c7d7e.md",
+      "curr_file": "07-news-media\\mba-6-term-time-table-esa.md",
+      "jaccard": 0.6091
+    },
+    {
+      "new_file": "pdf\\mba_curriculum_2023_25_ffa91f.md",
+      "curr_file": "02-academics\\mba-curriculum-2023-25.md",
+      "jaccard": 0.9933
+    },
+    {
+      "new_file": "pdf\\mba_curriculum_2024_26_baa9b7.md",
+      "curr_file": "02-academics\\mba-curriculum-2024-26.md",
+      "jaccard": 0.9903
+    },
+    {
+      "new_file": "pdf\\mba_curriculum_structure_2025_2027_b1eeb8.md",
+      "curr_file": "02-academics\\mba-curriculum-structure-2025-2027.md",
+      "jaccard": 0.9854
+    },
+    {
+      "new_file": "pdf\\mca_2020_b09656.md",
+      "curr_file": "07-news-media\\MCA-2020.md",
+      "jaccard": 0.9857
+    },
+    {
+      "new_file": "pdf\\mca_curriculum_2023_25_34efe0.md",
+      "curr_file": "02-academics\\mca-curriculum-2023-25.md",
+      "jaccard": 0.9926
+    },
+    {
+      "new_file": "pdf\\mca_curriculum_2024_26_3a0be5.md",
+      "curr_file": "02-academics\\mca-curriculum-2024-26.md",
+      "jaccard": 0.995
+    },
+    {
+      "new_file": "pdf\\mca_curriculum_structure_2025_2027_dfe662.md",
+      "curr_file": "02-academics\\mca-curriculum-structure-2025-2027.md",
+      "jaccard": 0.8713
+    },
+    {
+      "new_file": "pdf\\mechanical_curriculum_structure_content_2021_25_3206c5.md",
+      "curr_file": "02-academics\\Mechanical-Curriculum-Structure-Content-2021-25.md",
+      "jaccard": 0.9958
+    },
+    {
+      "new_file": "pdf\\minutes_10th_ecm_online_37e065.md",
+      "curr_file": "01-governance-policy\\Minutes-10th-ECM-Online.md",
+      "jaccard": 0.9863
+    },
+    {
+      "new_file": "pdf\\minutes_of_first_iqac_pdf_2_faf805.md",
+      "curr_file": "01-governance-policy\\minutes-of-first-iqac-pdf-2.md",
+      "jaccard": 0.9528
+    },
+    {
+      "new_file": "pdf\\mtech_ams_curriculum_2023_25_ef7a10.md",
+      "curr_file": "02-academics\\mtech-ams-curriculum-2023-25.md",
+      "jaccard": 0.9866
+    },
+    {
+      "new_file": "pdf\\mtech_ams_curriculum_2024_26_b6466a.md",
+      "curr_file": "02-academics\\mtech-ams-curriculum-2024-26.md",
+      "jaccard": 0.9884
+    },
+    {
+      "new_file": "pdf\\mtech_cs_curriculum_2023_25_5d88dd.md",
+      "curr_file": "02-academics\\mtech-cs-curriculum-2023-25.md",
+      "jaccard": 0.9858
+    },
+    {
+      "new_file": "pdf\\mtech_cs_curriculum_2024_26_1b7c8c.md",
+      "curr_file": "02-academics\\mtech-cs-curriculum-2024-26.md",
+      "jaccard": 0.9867
+    },
+    {
+      "new_file": "pdf\\mtech_design_engineering_curriculum_2023_25_6aceec.md",
+      "curr_file": "02-academics\\mtech-design-engineering-curriculum-2023-25.md",
+      "jaccard": 0.9875
+    },
+    {
+      "new_file": "pdf\\mtech_design_engineering_curriculum_2024_26_d1367e.md",
+      "curr_file": "02-academics\\mtech-design-engineering-curriculum-2024-26.md",
+      "jaccard": 0.9887
+    },
+    {
+      "new_file": "pdf\\mtech_ec_vlsi_curriculum_2023_25_0de12a.md",
+      "curr_file": "02-academics\\mtech-ec-vlsi-curriculum-2023-25.md",
+      "jaccard": 0.9862
+    },
+    {
+      "new_file": "pdf\\mtech_ec_vlsi_curriculum_2024_26_687277.md",
+      "curr_file": "02-academics\\mtech-ec-vlsi-curriculum-2024-26.md",
+      "jaccard": 0.984
+    },
+    {
+      "new_file": "pdf\\mtech_structural_engineering_curriculum_2023_25_7cde17.md",
+      "curr_file": "02-academics\\mtech-structural-engineering-curriculum-2023-25.md",
+      "jaccard": 0.9852
+    },
+    {
+      "new_file": "pdf\\mtech_structural_engineering_curriculum_2024_26_a17071.md",
+      "curr_file": "02-academics\\mtech-structural-engineering-curriculum-2024-26.md",
+      "jaccard": 0.9875
+    },
+    {
+      "new_file": "pdf\\new_bachelor_electronics_communication_engineering_curriculum_2022_2026_c9d873.md",
+      "curr_file": "02-academics\\new-bachelor-electronics-communication-engineering-curriculum-2022-2026.md",
+      "jaccard": 0.9806
+    },
+    {
+      "new_file": "pdf\\nirf_engineering_category_2nd_february_2026_6634fc.md",
+      "curr_file": "07-news-media\\nirf-engineering-category-2nd-february-2026.md",
+      "jaccard": 0.965
+    },
+    {
+      "new_file": "pdf\\nirf_innovation_category_12th_february_2026_c1d44f.md",
+      "curr_file": "07-news-media\\nirf-innovation-category-12th-february-2026.md",
+      "jaccard": 0.9743
+    },
+    {
+      "new_file": "pdf\\nirf_overall_category_7th_february_2026_be5037.md",
+      "curr_file": "07-news-media\\nirf-overall-category-7th-february-2026.md",
+      "jaccard": 0.9714
+    },
+    {
+      "new_file": "pdf\\pg_llm_constitutional_law_2023_25_6da91e.md",
+      "curr_file": "07-news-media\\pg-llm-constitutional-law-2023-25.md",
+      "jaccard": 0.9812
+    },
+    {
+      "new_file": "pdf\\pg_llm_constitutional_law_2024_2026_527f43.md",
+      "curr_file": "07-news-media\\pg-llm-constitutional-law-2024-2026.md",
+      "jaccard": 0.9806
+    },
+    {
+      "new_file": "pdf\\pg_llm_ip_it_law_2023_25_c2149a.md",
+      "curr_file": "07-news-media\\pg-llm-ip-it-law-2023-25.md",
+      "jaccard": 0.9626
+    },
+    {
+      "new_file": "pdf\\pg_llm_ip_it_law_2024_26_39275c.md",
+      "curr_file": "07-news-media\\pg-llm-ip-it-law-2024-26.md",
+      "jaccard": 0.9626
+    },
+    {
+      "new_file": "pdf\\phd_regulations_4e6908.md",
+      "curr_file": "02-academics\\PhD-Regulations.md",
+      "jaccard": 0.9448
+    },
+    {
+      "new_file": "pdf\\prospectus_2e54c5.md",
+      "curr_file": "03-admissions-fees\\prospectus.md",
+      "jaccard": 0.9604
+    },
+    {
+      "new_file": "pdf\\regulations_governing_ms_programs_20_july_2020_2_22823e.md",
+      "curr_file": "02-academics\\Regulations-Governing-MS-Programs-20-July-2020-2.md",
+      "jaccard": 0.9662
+    },
+    {
+      "new_file": "pdf\\revised_4th_sem_mba_mca_coe_2022_23_e7c9d8.md",
+      "curr_file": "07-news-media\\Revised-4th-sem-MBA-MCA-COE-2022-23.md",
+      "jaccard": 0.7185
+    },
+    {
+      "new_file": "pdf\\rules_and_regulations_ug_pg_july_2021_cc6aca.md",
+      "curr_file": "07-news-media\\Rules-and-Regulations-UG-PG-July-2021.md",
+      "jaccard": 0.9899
+    },
+    {
+      "new_file": "pdf\\spl_bog_minutes_31_08_2019_ae056b.md",
+      "curr_file": "01-governance-policy\\Spl-BoG---Minutes-31-08-2019.md",
+      "jaccard": 0.8788
+    },
+    {
+      "new_file": "pdf\\time_table_of_4th_6th_be_4th_6th_8th_sem_b_arch_90ed94.md",
+      "curr_file": "07-news-media\\time-table-of-4th-6th-be-4th-6th-8th-sem-barch.md",
+      "jaccard": 0.8687
+    },
+    {
+      "new_file": "pdf\\updated_curriculum_structure_syllabus_2023_27_737285.md",
+      "curr_file": "02-academics\\updated-curriculum-structure-syllabus-2023-27.md",
+      "jaccard": 0.9889
+    },
+    {
+      "new_file": "web\\about\\about_hubballi_campus_c9f720.md",
+      "curr_file": "07-news-media\\about-hubballi-campus.md",
+      "jaccard": 0.8818
+    },
+    {
+      "new_file": "web\\about\\about_placements_c2fd5e.md",
+      "curr_file": "06-careers-placements\\about-placements.md",
+      "jaccard": 0.6929
+    },
+    {
+      "new_file": "web\\about\\academic_overview_457414.md",
+      "curr_file": "07-news-media\\academic-overview.md",
+      "jaccard": 0.7937
+    },
+    {
+      "new_file": "web\\about\\aicte_0983cb.md",
+      "curr_file": "07-news-media\\aicte.md",
+      "jaccard": 0.6
+    },
+    {
+      "new_file": "web\\about\\aicte_dadb46.md",
+      "curr_file": "07-news-media\\aicte-dup.md",
+      "jaccard": 0.4875
+    },
+    {
+      "new_file": "web\\about\\bvb_kle_tech_leadership_summit_2026_brings_industry_leaders_together_t_6d599f.md",
+      "curr_file": "07-news-media\\news.md",
+      "jaccard": 0.763
+    },
+    {
+      "new_file": "web\\about\\chancellors_message_2b3780.md",
+      "curr_file": "07-news-media\\chancellors-message.md",
+      "jaccard": 0.8626
+    },
+    {
+      "new_file": "web\\about\\kle_society_7cf0b3.md",
+      "curr_file": "07-news-media\\kle-society.md",
+      "jaccard": 0.5598
+    },
+    {
+      "new_file": "web\\about\\kle_tech_university_6cbe41.md",
+      "curr_file": "07-news-media\\kle-tech-university.md",
+      "jaccard": 0.8812
+    },
+    {
+      "new_file": "web\\about\\library_overview_d12f61.md",
+      "curr_file": "07-news-media\\overview.md",
+      "jaccard": 0.8453
+    },
+    {
+      "new_file": "web\\about\\list_of_board_of_governors_919a52.md",
+      "curr_file": "07-news-media\\list-of-board-of-governors.md",
+      "jaccard": 0.5758
+    },
+    {
+      "new_file": "web\\about\\ms_engg_by_research_in_visual_intelligence_cse_6d4e0e.md",
+      "curr_file": "02-academics\\programs.md",
+      "jaccard": 0.6415
+    },
+    {
+      "new_file": "web\\about\\placement_overview_c2900d.md",
+      "curr_file": "06-careers-placements\\about-placements.md",
+      "jaccard": 0.6719
+    },
+    {
+      "new_file": "web\\about\\pro_chancellors_message_43b919.md",
+      "curr_file": "07-news-media\\pro-chancellors-message.md",
+      "jaccard": 0.8425
+    },
+    {
+      "new_file": "web\\about\\research_overview_fcaa8d.md",
+      "curr_file": "07-news-media\\research-overview.md",
+      "jaccard": 0.8485
+    },
+    {
+      "new_file": "web\\about\\research_policy_9305b8.md",
+      "curr_file": "07-news-media\\overview-dup.md",
+      "jaccard": 0.8561
+    },
+    {
+      "new_file": "web\\academics\\academic_facilities_03f48a.md",
+      "curr_file": "02-academics\\academic-facilities.md",
+      "jaccard": 0.8506
+    },
+    {
+      "new_file": "web\\academics\\bachelors_of_business_administration_aadba9.md",
+      "curr_file": "02-academics\\bachelors-of-business-administration-dup.md",
+      "jaccard": 0.966
+    },
+    {
+      "new_file": "web\\academics\\bachelors_of_business_administration_d7a60d.md",
+      "curr_file": "02-academics\\bachelors-of-business-administration-dup.md",
+      "jaccard": 0.966
+    },
+    {
+      "new_file": "web\\academics\\bachelor_of_architecture_4f8751.md",
+      "curr_file": "02-academics\\bachelor-of-architecture-dup.md",
+      "jaccard": 0.9416
+    },
+    {
+      "new_file": "web\\academics\\bachelor_of_architecture_b0b5b8.md",
+      "curr_file": "02-academics\\bachelor-of-architecture-dup.md",
+      "jaccard": 0.9416
+    },
+    {
+      "new_file": "web\\academics\\bachelor_of_commerce_d819a9.md",
+      "curr_file": "02-academics\\bachelor-of-commerce.md",
+      "jaccard": 0.9625
+    },
+    {
+      "new_file": "web\\academics\\bachelor_of_commerce_ef90f9.md",
+      "curr_file": "02-academics\\bachelor-of-commerce.md",
+      "jaccard": 0.9625
+    },
+    {
+      "new_file": "web\\academics\\bachelor_of_commerce_integrated_with_acca_3d41ce.md",
+      "curr_file": "02-academics\\bachelor-of-commerce-integrated-with-acca.md",
+      "jaccard": 0.9696
+    },
+    {
+      "new_file": "web\\academics\\bachelor_of_commerce_integrated_with_acca_b61c1e.md",
+      "curr_file": "02-academics\\bachelor-of-commerce-integrated-with-acca.md",
+      "jaccard": 0.9696
+    },
+    {
+      "new_file": "web\\academics\\bachelor_of_computer_applications_bca_8658e1.md",
+      "curr_file": "02-academics\\bachelor-of-computer-applications-bca-dup.md",
+      "jaccard": 0.9667
+    },
+    {
+      "new_file": "web\\academics\\bachelor_of_computer_applications_bca_c6cc93.md",
+      "curr_file": "02-academics\\bachelor-of-computer-applications-bca-dup.md",
+      "jaccard": 0.9667
+    },
+    {
+      "new_file": "web\\academics\\bachelor_of_computer_applications_honours_dcc6ff.md",
+      "curr_file": "02-academics\\bachelor-of-computer-applications-honours.md",
+      "jaccard": 0.9711
+    },
+    {
+      "new_file": "web\\academics\\bachelor_of_science_fashion_and_apparel_design_26c037.md",
+      "curr_file": "02-academics\\bachelor-of-science-fashion-and-apparel-design.md",
+      "jaccard": 0.8829
+    },
+    {
+      "new_file": "web\\academics\\bachelor_of_science_fashion_and_apparel_design_7d64c7.md",
+      "curr_file": "02-academics\\bachelor-of-science-fashion-and-apparel-design.md",
+      "jaccard": 0.8829
+    },
+    {
+      "new_file": "web\\academics\\b_a_ll_b_1a53f4.md",
+      "curr_file": "02-academics\\ba-llb.md",
+      "jaccard": 0.8251
+    },
+    {
+      "new_file": "web\\academics\\b_b_a_ll_b_ab802e.md",
+      "curr_file": "02-academics\\bba-llb.md",
+      "jaccard": 0.8341
+    },
+    {
+      "new_file": "web\\academics\\b_b_a_ll_b_hons_6bf9f5.md",
+      "curr_file": "02-academics\\bba-llb-hons.md",
+      "jaccard": 0.7961
+    },
+    {
+      "new_file": "web\\academics\\b_com_ll_b_a9bc2f.md",
+      "curr_file": "02-academics\\bcom-llb.md",
+      "jaccard": 0.8098
+    },
+    {
+      "new_file": "web\\academics\\b_e_automation_and_robotics_71aaa6.md",
+      "curr_file": "02-academics\\b-e-automation-robotics.md",
+      "jaccard": 0.8663
+    },
+    {
+      "new_file": "web\\academics\\b_e_biomedical_engineering_af0e10.md",
+      "curr_file": "02-academics\\b-e-biomedical-engineering.md",
+      "jaccard": 0.9755
+    },
+    {
+      "new_file": "web\\academics\\b_e_biotechnology_1d8d3c.md",
+      "curr_file": "02-academics\\b-e-biotechnology-dup.md",
+      "jaccard": 0.8959
+    },
+    {
+      "new_file": "web\\academics\\b_e_biotechnology_4d9c94.md",
+      "curr_file": "02-academics\\b-e-biotechnology-dup.md",
+      "jaccard": 0.8959
+    },
+    {
+      "new_file": "web\\academics\\b_e_chemical_engineering_bf24f0.md",
+      "curr_file": "02-academics\\b-e-chemical-engineering.md",
+      "jaccard": 0.972
+    },
+    {
+      "new_file": "web\\academics\\b_e_civil_engineering_09c533.md",
+      "curr_file": "02-academics\\b-e-civil-engineering.md",
+      "jaccard": 0.9681
+    },
+    {
+      "new_file": "web\\academics\\b_e_civil_engineering_19b512.md",
+      "curr_file": "02-academics\\b-e-civil-engineering.md",
+      "jaccard": 0.9681
+    },
+    {
+      "new_file": "web\\academics\\b_e_computer_science_and_engineering_2afb22.md",
+      "curr_file": "02-academics\\b-e-computer-science-and-engineering.md",
+      "jaccard": 0.9675
+    },
+    {
+      "new_file": "web\\academics\\b_e_computer_science_and_engineering_45ce69.md",
+      "curr_file": "02-academics\\b-e-computer-science-and-engineering.md",
+      "jaccard": 0.9675
+    },
+    {
+      "new_file": "web\\academics\\b_e_computer_science_and_engineering_artificial_intelligence_88e4db.md",
+      "curr_file": "02-academics\\b-e-computer-science-and-engineering-artificial-in.md",
+      "jaccard": 0.9677
+    },
+    {
+      "new_file": "web\\academics\\b_e_computer_science_and_engineering_artificial_intelligence_cd31cd.md",
+      "curr_file": "02-academics\\b-e-computer-science-and-engineering-artificial-in.md",
+      "jaccard": 0.9677
+    },
+    {
+      "new_file": "web\\academics\\b_e_electrical_and_electronics_engineering_ce4a29.md",
+      "curr_file": "02-academics\\b-e-electrical-electronics-engineering.md",
+      "jaccard": 0.9652
+    },
+    {
+      "new_file": "web\\academics\\b_e_electronics_and_communication_engineering_6d50f9.md",
+      "curr_file": "02-academics\\b-e-electronics-communication-engineering-dup.md",
+      "jaccard": 0.966
+    },
+    {
+      "new_file": "web\\academics\\b_e_electronics_and_communication_engineering_b7f1b0.md",
+      "curr_file": "02-academics\\b-e-electronics-communication-engineering-dup.md",
+      "jaccard": 0.966
+    },
+    {
+      "new_file": "web\\academics\\b_e_electronics_engineering_vlsi_design_and_technology_5dbfd2.md",
+      "curr_file": "02-academics\\b-e-electronics-engineering-vlsi-design-technology-dup.md",
+      "jaccard": 0.9128
+    },
+    {
+      "new_file": "web\\academics\\b_e_mechanical_engineering_40f274.md",
+      "curr_file": "02-academics\\b-e-mechanical-engineering-dup.md",
+      "jaccard": 0.9617
+    },
+    {
+      "new_file": "web\\academics\\b_e_mechanical_engineering_c73a12.md",
+      "curr_file": "02-academics\\b-e-mechanical-engineering-dup.md",
+      "jaccard": 0.9617
+    },
+    {
+      "new_file": "web\\academics\\b_sc_in_hotel_management_and_catering_technology_b_sc_hmct_92489f.md",
+      "curr_file": "02-academics\\bsc-in-hotel-management-and-catering-technology-bs.md",
+      "jaccard": 0.7343
+    },
+    {
+      "new_file": "web\\academics\\centre_for_engineering_education_research_a95c01.md",
+      "curr_file": "02-academics\\centre-for-engineering-education-research.md",
+      "jaccard": 0.9218
+    },
+    {
+      "new_file": "web\\academics\\course_and_fee_structure_b869ff.md",
+      "curr_file": "02-academics\\course-fee-structure-dup.md",
+      "jaccard": 0.7027
+    },
+    {
+      "new_file": "web\\academics\\faculty_2a3e14.md",
+      "curr_file": "02-academics\\faculty.md",
+      "jaccard": 0.9306
+    },
+    {
+      "new_file": "web\\academics\\llm_constitutional_law_86e6bf.md",
+      "curr_file": "02-academics\\llm-constitutional-law.md",
+      "jaccard": 0.741
+    },
+    {
+      "new_file": "web\\academics\\llm_ipr_67d8ad.md",
+      "curr_file": "02-academics\\llm-constitutional-law.md",
+      "jaccard": 0.711
+    },
+    {
+      "new_file": "web\\academics\\ll_b_3b2f38.md",
+      "curr_file": "02-academics\\llb.md",
+      "jaccard": 0.8509
+    },
+    {
+      "new_file": "web\\academics\\ll_b_hons_23971a.md",
+      "curr_file": "02-academics\\llb-hons.md",
+      "jaccard": 0.8047
+    },
+    {
+      "new_file": "web\\academics\\master_of_business_administration_d7d3c7.md",
+      "curr_file": "02-academics\\master-of-business-administration-dup.md",
+      "jaccard": 0.9689
+    },
+    {
+      "new_file": "web\\academics\\master_of_computer_application_98a750.md",
+      "curr_file": "02-academics\\master-of-computer-application-dup.md",
+      "jaccard": 0.9643
+    },
+    {
+      "new_file": "web\\academics\\ms_by_research_8db3e5.md",
+      "curr_file": "02-academics\\ms-by-research.md",
+      "jaccard": 0.7329
+    },
+    {
+      "new_file": "web\\academics\\ms_engg_by_research_in_visual_intelligence_cse_1954ac.md",
+      "curr_file": "02-academics\\ms-engg-by-research-in-visual-intelligence-cse-dup.md",
+      "jaccard": 0.8769
+    },
+    {
+      "new_file": "web\\academics\\m_tech_advanced_manufacturing_systems_9e9dc4.md",
+      "curr_file": "02-academics\\mtech-advanced-manufacturing-systems.md",
+      "jaccard": 0.8914
+    },
+    {
+      "new_file": "web\\academics\\m_tech_computer_science_and_engineering_c14396.md",
+      "curr_file": "02-academics\\mtech-computer-science-and-engineering-dup.md",
+      "jaccard": 0.8576
+    },
+    {
+      "new_file": "web\\academics\\m_tech_design_engineering_46ccfe.md",
+      "curr_file": "02-academics\\mtech-design-engineering-dup.md",
+      "jaccard": 0.8227
+    },
+    {
+      "new_file": "web\\academics\\m_tech_structural_engineering_d558d3.md",
+      "curr_file": "02-academics\\mtech-structural-engineering.md",
+      "jaccard": 0.9603
+    },
+    {
+      "new_file": "web\\academics\\ph_d_3423a8.md",
+      "curr_file": "02-academics\\phd.md",
+      "jaccard": 0.894
+    },
+    {
+      "new_file": "web\\academics\\ph_d_in_automation_and_robotics_550f3d.md",
+      "curr_file": "02-academics\\ph-d-in-automation-robotics.md",
+      "jaccard": 0.6705
+    },
+    {
+      "new_file": "web\\academics\\ph_d_in_biotechnology_d1c71d.md",
+      "curr_file": "02-academics\\phd-in-biotechnology.md",
+      "jaccard": 0.6846
+    },
+    {
+      "new_file": "web\\academics\\ph_d_in_chemistry_b02332.md",
+      "curr_file": "02-academics\\ph-d-in-chemistry.md",
+      "jaccard": 0.6548
+    },
+    {
+      "new_file": "web\\academics\\ph_d_in_civil_engineering_9ed570.md",
+      "curr_file": "02-academics\\phd-in-civil-engineering.md",
+      "jaccard": 0.9583
+    },
+    {
+      "new_file": "web\\academics\\ph_d_in_computer_science_and_engineering_0742d1.md",
+      "curr_file": "02-academics\\phd-in-computer-science-engineering.md",
+      "jaccard": 0.9611
+    },
+    {
+      "new_file": "web\\academics\\ph_d_in_electrical_and_electronics_engineering_afde60.md",
+      "curr_file": "02-academics\\phd-in-electrical-electronics-engineering-dup.md",
+      "jaccard": 0.9577
+    },
+    {
+      "new_file": "web\\academics\\ph_d_in_electronics_and_communication_engineering_b9f0ec.md",
+      "curr_file": "02-academics\\phd-in-electronics-communication-engineering.md",
+      "jaccard": 0.9575
+    },
+    {
+      "new_file": "web\\academics\\ph_d_in_humanities_and_social_studies_e5a745.md",
+      "curr_file": "02-academics\\phd-in-humanities-and-social-studies-dup.md",
+      "jaccard": 0.427
+    },
+    {
+      "new_file": "web\\academics\\ph_d_in_management_studies_and_research_2f9a6d.md",
+      "curr_file": "02-academics\\ph-d-in-management-studies-research.md",
+      "jaccard": 0.9526
+    },
+    {
+      "new_file": "web\\academics\\ph_d_in_mathematics_421f40.md",
+      "curr_file": "02-academics\\ph-d-in-mathematics-dup.md",
+      "jaccard": 0.5674
+    },
+    {
+      "new_file": "web\\academics\\ph_d_in_mechanical_engineering_1bc26c.md",
+      "curr_file": "02-academics\\phd-in-mechanical-engineering.md",
+      "jaccard": 0.9655
+    },
+    {
+      "new_file": "web\\academics\\ph_d_in_physics_e22a61.md",
+      "curr_file": "02-academics\\ph-d-in-physics.md",
+      "jaccard": 0.5839
+    },
+    {
+      "new_file": "web\\academics\\research_our_programs_2de32b.md",
+      "curr_file": "02-academics\\our-programs.md",
+      "jaccard": 0.7579
+    },
+    {
+      "new_file": "web\\academics\\research_programs_a7be8b.md",
+      "curr_file": "02-academics\\research-programs.md",
+      "jaccard": 0.4429
+    },
+    {
+      "new_file": "web\\academics\\student_council_28c4f4.md",
+      "curr_file": "02-academics\\student-council.md",
+      "jaccard": 0.6471
+    },
+    {
+      "new_file": "web\\academics\\study_with_us_96fabe.md",
+      "curr_file": "02-academics\\study-with-us.md",
+      "jaccard": 0.7452
+    },
+    {
+      "new_file": "web\\academics\\time_table_15cf9f.md",
+      "curr_file": "02-academics\\time-table.md",
+      "jaccard": 0.5588
+    },
+    {
+      "new_file": "web\\academics\\undergraduate_research_expertise_6ba227.md",
+      "curr_file": "02-academics\\undergraduate-research-expertise.md",
+      "jaccard": 0.8672
+    },
+    {
+      "new_file": "web\\academics\\under_graduate_program_11c373.md",
+      "curr_file": "03-admissions-fees\\under-graduate-program.md",
+      "jaccard": 0.8416
+    },
+    {
+      "new_file": "web\\admissions\\admission_for_pg_program_b4b553.md",
+      "curr_file": "03-admissions-fees\\admission-for-pg-program-dup.md",
+      "jaccard": 0.8434
+    },
+    {
+      "new_file": "web\\admissions\\admission_for_ug_program_f795ee.md",
+      "curr_file": "03-admissions-fees\\admission-for-ug-program.md",
+      "jaccard": 0.8543
+    },
+    {
+      "new_file": "web\\admissions\\domestic_admission_faqs_06e8ab.md",
+      "curr_file": "07-news-media\\faqs.md",
+      "jaccard": 0.7769
+    },
+    {
+      "new_file": "web\\admissions\\domestic_admission_faqs_409e71.md",
+      "curr_file": "07-news-media\\faqs.md",
+      "jaccard": 0.7769
+    },
+    {
+      "new_file": "web\\admissions\\domestic_admission_fee_structure_b173e9.md",
+      "curr_file": "03-admissions-fees\\fee-structure.md",
+      "jaccard": 0.7532
+    },
+    {
+      "new_file": "web\\admissions\\embark_on_a_journey_of_knowledge_b07739.md",
+      "curr_file": "03-admissions-fees\\embark-on-a-journey-of-knowledge.md",
+      "jaccard": 0.8938
+    },
+    {
+      "new_file": "web\\admissions\\intenational_admission_df95ff.md",
+      "curr_file": "03-admissions-fees\\international-admission.md",
+      "jaccard": 0.9526
+    },
+    {
+      "new_file": "web\\admissions\\international_admission_fafd26.md",
+      "curr_file": "03-admissions-fees\\international-admission.md",
+      "jaccard": 0.9542
+    },
+    {
+      "new_file": "web\\admissions\\post_graduate_program_ec0a4e.md",
+      "curr_file": "03-admissions-fees\\admission-for-pg-program-dup.md",
+      "jaccard": 0.8434
+    },
+    {
+      "new_file": "web\\contact\\kle_technological_university_a1c5eb.md",
+      "curr_file": "07-news-media\\contact.md",
+      "jaccard": 0.6226
+    },
+    {
+      "new_file": "web\\contact\\sitemap_1d2550.md",
+      "curr_file": "07-news-media\\sitemap.md",
+      "jaccard": 0.5899
+    },
+    {
+      "new_file": "web\\contact\\sitemap_d75394.md",
+      "curr_file": "07-news-media\\sitemap-dup.md",
+      "jaccard": 0.6421
+    },
+    {
+      "new_file": "web\\downloads\\privacy_policy_dab60f.md",
+      "curr_file": "01-governance-policy\\privacy-policy.md",
+      "jaccard": 0.8452
+    },
+    {
+      "new_file": "web\\events\\incub8_ffbbcb.md",
+      "curr_file": "05-student-welfare\\events.md",
+      "jaccard": 0.7544
+    },
+    {
+      "new_file": "web\\examination\\exam_time_table_0f0a54.md",
+      "curr_file": "02-academics\\exam-time-table.md",
+      "jaccard": 0.4412
+    },
+    {
+      "new_file": "web\\faculty\\idaho_state_university_has_appointed_nagaraj_shetti_as_an_affiliate_fa_71da4f.md",
+      "curr_file": "04-research-centers\\news.md",
+      "jaccard": 0.7143
+    },
+    {
+      "new_file": "web\\faculty\\idaho_state_university_has_appointed_nagaraj_shetti_as_an_affiliate_fa_93503a.md",
+      "curr_file": "04-research-centers\\news.md",
+      "jaccard": 0.5798
+    },
+    {
+      "new_file": "web\\gallery\\image_gallery_a7597f.md",
+      "curr_file": "05-student-welfare\\image-gallery.md",
+      "jaccard": 0.5211
+    },
+    {
+      "new_file": "web\\gallery\\video_gallery_b5cc15.md",
+      "curr_file": "05-student-welfare\\image-gallery.md",
+      "jaccard": 0.507
+    },
+    {
+      "new_file": "web\\infrastructure\\campus_life_clubs_society_21d381.md",
+      "curr_file": "07-news-media\\clubs-society.md",
+      "jaccard": 0.8863
+    },
+    {
+      "new_file": "web\\infrastructure\\dr_m_s_sheshgiri_campus_belagavi_4960f9.md",
+      "curr_file": "07-news-media\\dr-m-s-sheshgiri-campus-belagavi.md",
+      "jaccard": 0.8668
+    },
+    {
+      "new_file": "web\\infrastructure\\extra_curricular_activities_b06b57.md",
+      "curr_file": "07-news-media\\extra-curricular-activities.md",
+      "jaccard": 0.5149
+    },
+    {
+      "new_file": "web\\infrastructure\\e_resources_e0756b.md",
+      "curr_file": "07-news-media\\e-resources.md",
+      "jaccard": 0.7986
+    },
+    {
+      "new_file": "web\\infrastructure\\facilities_a8c770.md",
+      "curr_file": "07-news-media\\facilities.md",
+      "jaccard": 0.8014
+    },
+    {
+      "new_file": "web\\infrastructure\\library_rules_945116.md",
+      "curr_file": "08-infrastructure\\library-rules.md",
+      "jaccard": 0.8414
+    },
+    {
+      "new_file": "web\\infrastructure\\on_campus_facilities_3bdba4.md",
+      "curr_file": "07-news-media\\on-campus-facilities.md",
+      "jaccard": 0.9153
+    },
+    {
+      "new_file": "web\\infrastructure\\on_campus_facilities_bc875a.md",
+      "curr_file": "07-news-media\\on-campus-facilities-dup.md",
+      "jaccard": 0.9072
+    },
+    {
+      "new_file": "web\\infrastructure\\sports_and_health_activities_0de895.md",
+      "curr_file": "07-news-media\\sports-and-health.md",
+      "jaccard": 0.76
+    },
+    {
+      "new_file": "web\\infrastructure\\student_personality_development_cea174.md",
+      "curr_file": "07-news-media\\student-personality-development.md",
+      "jaccard": 0.8109
+    },
+    {
+      "new_file": "web\\library\\education_needs_complete_solution_ca95a4.md",
+      "curr_file": "07-news-media\\education-needs-complete-solution.md",
+      "jaccard": 0.8984
+    },
+    {
+      "new_file": "web\\miscellaneous\\annual_reports_32180b.md",
+      "curr_file": "07-news-media\\annual-reports.md",
+      "jaccard": 0.4412
+    },
+    {
+      "new_file": "web\\miscellaneous\\anti_ragging_committee_4b103a.md",
+      "curr_file": "05-student-welfare\\anti-ragging-committee.md",
+      "jaccard": 0.5889
+    },
+    {
+      "new_file": "web\\miscellaneous\\anti_sexual_harassment_committee_f98a65.md",
+      "curr_file": "05-student-welfare\\anti-sexual-harassment-committee.md",
+      "jaccard": 0.5938
+    },
+    {
+      "new_file": "web\\miscellaneous\\celebrating_glorious_75_years_of_its_existence_fed527.md",
+      "curr_file": "07-news-media\\celebrating-glorious-75-years-of-its-existence.md",
+      "jaccard": 0.7628
+    },
+    {
+      "new_file": "web\\miscellaneous\\clubs_2ba217.md",
+      "curr_file": "07-news-media\\clubs.md",
+      "jaccard": 0.8545
+    },
+    {
+      "new_file": "web\\miscellaneous\\college_of_law_9d6958.md",
+      "curr_file": "07-news-media\\college-of-law.md",
+      "jaccard": 0.5375
+    },
+    {
+      "new_file": "web\\miscellaneous\\contineo_fcc85d.md",
+      "curr_file": "07-news-media\\contineo.md",
+      "jaccard": 0.6724
+    },
+    {
+      "new_file": "web\\miscellaneous\\equal_opportunity_cell_41f5e1.md",
+      "curr_file": "07-news-media\\equal-opportunity-cell.md",
+      "jaccard": 0.5638
+    },
+    {
+      "new_file": "web\\miscellaneous\\executive_council_ec1453.md",
+      "curr_file": "07-news-media\\executive-council.md",
+      "jaccard": 0.4369
+    },
+    {
+      "new_file": "web\\miscellaneous\\internal_complaint_committee_870312.md",
+      "curr_file": "05-student-welfare\\internal-complaint-committee.md",
+      "jaccard": 0.5385
+    },
+    {
+      "new_file": "web\\miscellaneous\\kle_cipd_e44a8d.md",
+      "curr_file": "07-news-media\\kle-cipd.md",
+      "jaccard": 0.8207
+    },
+    {
+      "new_file": "web\\miscellaneous\\media_coverage_d41f42.md",
+      "curr_file": "07-news-media\\media-coverage.md",
+      "jaccard": 0.5918
+    },
+    {
+      "new_file": "web\\miscellaneous\\sedg_cell_be4553.md",
+      "curr_file": "07-news-media\\sedg-cell.md",
+      "jaccard": 0.76
+    },
+    {
+      "new_file": "web\\miscellaneous\\sgrc_committee_d02e78.md",
+      "curr_file": "05-student-welfare\\sgrc-committee.md",
+      "jaccard": 0.5176
+    },
+    {
+      "new_file": "web\\miscellaneous\\teqip_25b3ca.md",
+      "curr_file": "07-news-media\\teqip.md",
+      "jaccard": 0.7095
+    },
+    {
+      "new_file": "web\\miscellaneous\\terms_and_conditions_3c7fb2.md",
+      "curr_file": "07-news-media\\terms-conditions.md",
+      "jaccard": 0.8286
+    },
+    {
+      "new_file": "web\\miscellaneous\\the_national_cadet_corps_be035b.md",
+      "curr_file": "07-news-media\\the-national-cadet-corps.md",
+      "jaccard": 0.8397
+    },
+    {
+      "new_file": "web\\notices\\notices_announcements_264540.md",
+      "curr_file": "07-news-media\\notices-announcements-dup.md",
+      "jaccard": 0.8843
+    },
+    {
+      "new_file": "web\\notices\\notices_announcements_aff9e2.md",
+      "curr_file": "07-news-media\\notices-announcements.md",
+      "jaccard": 0.5422
+    },
+    {
+      "new_file": "web\\placements\\batch_of_2010_12_9a82f3.md",
+      "curr_file": "02-academics\\batch-of-2010-12.md",
+      "jaccard": 0.7434
+    },
+    {
+      "new_file": "web\\placements\\batch_of_2011_2013_f9ebce.md",
+      "curr_file": "02-academics\\batch-of-2011-2013.md",
+      "jaccard": 0.7484
+    },
+    {
+      "new_file": "web\\placements\\batch_of_2012_2014_d6fec3.md",
+      "curr_file": "02-academics\\batch-of-2012-2014.md",
+      "jaccard": 0.7771
+    },
+    {
+      "new_file": "web\\placements\\batch_of_2013_2015_548baf.md",
+      "curr_file": "02-academics\\batch-of-2013-2015.md",
+      "jaccard": 0.7632
+    },
+    {
+      "new_file": "web\\placements\\batch_of_2014_2016_b1950f.md",
+      "curr_file": "02-academics\\batch-of-2014-2016.md",
+      "jaccard": 0.709
+    },
+    {
+      "new_file": "web\\placements\\batch_of_2015_2017_c96e97.md",
+      "curr_file": "02-academics\\batch-of-2015-2017.md",
+      "jaccard": 0.74
+    },
+    {
+      "new_file": "web\\placements\\batch_of_2016_2018_395829.md",
+      "curr_file": "02-academics\\batch-of-2016-2018.md",
+      "jaccard": 0.731
+    },
+    {
+      "new_file": "web\\placements\\batch_of_2017_2019_a3a346.md",
+      "curr_file": "02-academics\\batch-of-2017-2019.md",
+      "jaccard": 0.7564
+    },
+    {
+      "new_file": "web\\placements\\batch_of_2018_2020_f07232.md",
+      "curr_file": "02-academics\\batch-of-2018-2020.md",
+      "jaccard": 0.7595
+    },
+    {
+      "new_file": "web\\placements\\careers_a23509.md",
+      "curr_file": "06-careers-placements\\careers.md",
+      "jaccard": 0.8618
+    },
+    {
+      "new_file": "web\\placements\\defence_career_expo_6ebd42.md",
+      "curr_file": "06-careers-placements\\news.md",
+      "jaccard": 0.4945
+    },
+    {
+      "new_file": "web\\placements\\defence_career_expo_87838a.md",
+      "curr_file": "06-careers-placements\\news.md",
+      "jaccard": 0.6923
+    },
+    {
+      "new_file": "web\\research\\center_for_automation_and_robotics_research_carr_ea695e.md",
+      "curr_file": "04-research-centers\\center-for-automation-robotics-research-carr.md",
+      "jaccard": 0.5798
+    },
+    {
+      "new_file": "web\\research\\center_for_energy_and_environment_cee_720a22.md",
+      "curr_file": "04-research-centers\\center-for-energy-and-environment-cee.md",
+      "jaccard": 0.5842
+    },
+    {
+      "new_file": "web\\research\\center_for_integrated_circuits_and_systems_cics_734a31.md",
+      "curr_file": "04-research-centers\\center-for-integrated-circuits-and-systemscics.md",
+      "jaccard": 0.6984
+    },
+    {
+      "new_file": "web\\research\\center_of_excellence_in_material_science_cms_1bfb41.md",
+      "curr_file": "04-research-centers\\center-of-excellence-in-material-science-cms.md",
+      "jaccard": 0.8435
+    },
+    {
+      "new_file": "web\\research\\center_of_excellence_in_visual_intelligence_83a0e3.md",
+      "curr_file": "04-research-centers\\research.md",
+      "jaccard": 0.6992
+    },
+    {
+      "new_file": "web\\research\\center_of_excellence_in_visual_intelligence_cevi_d486d5.md",
+      "curr_file": "04-research-centers\\center-of-excellence-in-visual-intelligence-cevi.md",
+      "jaccard": 0.725
+    },
+    {
+      "new_file": "web\\research\\center_of_intelligent_mobility_cim_4024ac.md",
+      "curr_file": "04-research-centers\\center-of-intelligent-mobility-cim.md",
+      "jaccard": 0.6967
+    },
+    {
+      "new_file": "web\\research\\centre_for_artificial_intelligence_research_cair_ac4d74.md",
+      "curr_file": "04-research-centers\\centre-for-artificial-intelligence-research-cair.md",
+      "jaccard": 0.6111
+    },
+    {
+      "new_file": "web\\research\\ev_innovation_centre_d3d798.md",
+      "curr_file": "04-research-centers\\ev-innovation-centre.md",
+      "jaccard": 0.8041
+    },
+    {
+      "new_file": "web\\research\\makers_space_0004a6.md",
+      "curr_file": "04-research-centers\\makers-space.md",
+      "jaccard": 0.8705
+    },
+    {
+      "new_file": "web\\research\\star_labs_research_centers_6f5efd.md",
+      "curr_file": "04-research-centers\\star-labs-research-centers.md",
+      "jaccard": 0.9322
+    },
+    {
+      "new_file": "web\\transport\\kle_ctie_unveils_rink_initiative_to_propel_north_karnataka_as_emerging_8a249e.md",
+      "curr_file": "07-news-media\\news-dup.md",
+      "jaccard": 0.764
+    }
+  ]
+}

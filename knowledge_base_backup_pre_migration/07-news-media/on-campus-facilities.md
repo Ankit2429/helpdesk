@@ -1,0 +1,55 @@
+---
+title: "On Campus Facilities"
+category: "infrastructure"
+subcategory: "infrastructure"
+document_type: "notice"
+entity_type: "general"
+school: "School of Engineering"
+department: "Electrical & Electronics Engineering"
+campus_scope: "All"
+program_level: "na"
+document_status: "active"
+effective_date: "2026-07-28"
+parent_topic: "infrastructure"
+child_topics: []
+related_documents: ['about\\news_6cc470.md', 'about\\news_dde3cc.md', 'departments\\news_c2ebd6.md', 'downloads\\news_412bf0.md', 'downloads\\news_f9cb31.md', 'infrastructure\\e_resources_6c4bec.md', 'infrastructure\\news_338778.md', 'infrastructure\\news_3cf9be.md', 'infrastructure\\on_campus_facilities_69b71b.md', 'miscellaneous\\kle_cipd_48c956.md']
+source_url: "https://www.kletech.ac.in/campus-life/on-campus-facilities"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ['campus', 'facilities', 'students', 'tech', 'university']
+aliases: []
+version: ""
+---
+
+
+# On Campus Facilities
+ **Source URL:** https://www.kletech.ac.in/campus-life/on-campus-facilities
+ ### Hostels
+ We at KLE Tech University understand that comfortable, cosy, and safe accommodation is the most crucial requirement for students. Therefore, we have a separate hostel facility for boys and girls equipped with amenities par excellence.
+ Our hostel facility makes students feel home away from home and is supervised by full-time, dedicated hostel wardens. When at the hostel, both staff and students need to adhere to the set rules, norms, and schedules.
+ All the rooms are perfectly ventilated and feature facilities such as aesthetically built and installed furniture.
+ A dedicated cupboard, a dedicated study table, and attached bathrooms. Wholesome and hygienic food is served in the hostel's dining hall as per designated timings. New-age security and recreation facilities are also part of the hostel.
+ ### Auditorium
+ KLE Tech University has a well-equipped auditorium that offers a huge seating capacity.
+ It has aesthetically built spacious and ventilated halls making the environment ideal for all important occurrences and programs such as seminars, workshops, national and international conferences, etc. The auditorium acts as a venue for all types of academic and cultural activities.
+ Intending to bring innovation to the education being imparted in the university, KLE Tech has installed herein all the latest audio-visual equipment such as LCD projectors, screens, and whiteboards. The auditorium/seminar halls provide both students and faculty members with a unique platform to showcase their talents not only in cultural but also intellectual activities.
+ Over the years, the auditorium has witnessed a large number of eminent speakers, and well-known performers belonging to different walks of life.
+ ### Gymnasium
+ KLE Tech University has an in-house multifaceted state-of-the-art gymnasium to be used by both students and faculty members.
+ The gymnasium is supervised by dedicated trained instructors who provide all the required assistance, guidance and training to all the gym members. The gymnasium houses all the latest equipment and machines to support the exercise regimen of students and faculty members
+ Some of the most prominent machines and equipment include
+ - Stationary Bikes
+- Cross Trainer
+- Vibration Plates
+- Treadmills
+- Power Racks
+ The gym is accessible to all at specific times and has become a popular and favourite spot for both fitness freaks and sports enthusiasts.
+ ### Bank & ATM
+ To provide its students and staff members with ease of financial transactions, KLE Tech University has banking facilities on its campus.
+ The presence of the fully computerized branch of the nationalized bank along with a 24-hour ATM facility not only saves time and energy of the students and staff but also provides ease of conducting monetary transactions.
+ These banking facilities also provide ease of transferring money to the parents of students.The friendly staff of the bank always inculcates among students the habit of managing their accounts well and saving pocket money for future needs.
+ ### Medical Health Centre
+ To provide the best on-campus healthcare services, KLE Tech University has established a well-equipped Medical Health Center supervised by a dedicated full-time team of qualified and experienced doctors with round-the-clock availability within the campus.
+ For any eventuality, the centre has primary healthcare infrastructure including stretchers, wheelchairs and other equipment of critical importance on standby. There is also a provision for an ambulance in case any emergency arises.
+ The university has signed MOUs with reputed medical establishments to facilitate healthcare facilities to students and others with equal gravity and concern.
+ Considering healthcare facilities the basic need for all on the campus

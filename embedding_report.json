@@ -1,9 +1,9 @@
 {
-  "chunks_embedded": 3339,
+  "chunks_embedded": 7164,
   "embedding_dimension": 384,
   "duplicates": 0,
   "empty_chunks": 0,
   "empty_vectors": 0,
   "failed_embeddings": 0,
-  "elapsed_time": 124.64
+  "elapsed_time": 214.09
 }

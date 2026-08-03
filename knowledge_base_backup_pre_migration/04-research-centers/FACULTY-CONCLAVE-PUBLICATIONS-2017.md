@@ -1,0 +1,108 @@
+---
+title: "Faculty Conclave Publications 2017"
+category: "faculty"
+subcategory: "faculty"
+document_type: "publication"
+entity_type: "general"
+school: "School of Engineering"
+department: "Computer Science & Engineering"
+campus_scope: "All"
+program_level: "undergraduate"
+document_status: "archived"
+effective_date: "2026-07-28"
+parent_topic: "faculty"
+child_topics: []
+related_documents: ['about\\about_placements_2914e0.md', 'about\\news_07cd51.md', 'about\\overview_59fcc7.md', 'about\\overview_bbd834.md', 'about\\overview_fb565c.md', 'academics\\03-mtech-in-cs-curriculum-structure-and-content-2025-2027.md', 'academics\\04-bachelor-of-computer-science-and-engineering-curriculum-structure-content-2023-2027.md', 'academics\\05-bachelor-of-cs-artificial-intelligence-curriculum-structure-content-2023-2027.md', 'academics\\09-bachelor-of-electronics-engg-vlsi-curriculum-structure-and-content-2023-27.md', 'academics\\11-bachelor-of-biomedical-engineering-curriculum-structure-content-2023-2027.md']
+source_url: "https://www.kletech.ac.in/pdf/FACULTY CONCLAVE PUBLICATIONS-2017.pdf"
+scrape_date: "2026-07-28"
+language: "en"
+keywords: ['course', 'desai', 'document', 'engineering', 'learning', 'patil']
+aliases: ['HOD', 'Head of Department']
+version: ""
+---
+
+
+**PDF Source:** https://www.kletech.ac.in/pdf/FACULTY CONCLAVE PUBLICATIONS-2017.pdf
+ Earlier known as 
+B. V. B. College of Engineering & Technology 
+Faculty Conclave 2017 
+SI. 
+No. 
+Title Authors 
+1 Augmenting Cloud Concepts Learning With Open Source 
+Software Environment 
+Meenaxi M Raikar, Vijayalakshmi 
+M., Padmashree Desai 
+2 Art Of Publishing Refereed Papers Through Experience Of 
+PG Minor Projects Vishwanath P. Baligar 
+3 Automated Tool For Improving Students Programming 
+Productivity 
+Mahesh S. Patil, Satyadhyan R. 
+Chickerur, Indira Bidari 
+4 Google Forms That Made Teacher's Life Easier: An 
+Experience And Experimentation Rohith Hallur 
+5 Course Project In Mobile Computing - An Experiential 
+Learning Shrinivas D. Desai 
+6 Application Of Statistical Methods In Bioprocess 
+Engineering Laboratory To Reinforce Students' Ability In 
+Data Collection, Analysis And Interpretation. 
+Sharanappa A, L. R. Patil, V. S. 
+Hombalimath, Deepak Yaraguppi, 
+Anil R. Shet 
+7 
+An Experience Of Project Based Learning In SAPM Course Sagar Patil, S. V. Patil 
+8 An Experiential Learning In Electrical Machines 
+Laboratory Course Minal Salunke, Javeed Kittur 
+9 Tutorial On Computer Organization And Architecture- 
+Advantages And Challenges 
+Umadevi F. M, Namrata D. H. 
+Meena S.M. 
+10 Outcomes Of Integrating Total Station And Surfer8 
+Software In Survey Practice Laboratory Khalida H. Munatsher 
+11 Enhancing Students Learning Skills Through Integrated 
+Course Project Design Model(ICPDM) 
+Vijayalakshmi M., Mahesh S. 
+Patil, Aruna S. Nayak, Vidya S. 
+Handur, G. S. Hanchinamani 
+12 Teaching Operating Systems Concepts With 
+Programming Assignments 
+Shantala Giraddi, Priyadarshini 
+Kalwad, Nagartna Kulenavar, 
+Suvarna Kanakaraddi 
+13 Pedagogical Interventions Through Software Tools In 
+Postgraduate Engineering Programme 
+Rakesh Tapaskar, M. B. Gorawar; 
+R. S. Hosmath, P. P. Revankar 
+14 Activity (Video To Concept) Based Teaching Learning: A 
+Case Study In Discrete Mathematical Structures 
+Nitya N. Kulkarni, Ms. Nirmala 
+Patil, Mr. Karibasappa K. G, Ms. 
+Meena Maralappanavar 
+ Earlier known as 
+B. V. B. College of Engineering & Technology 
+15 The Flipped Classroom: An Inverted Method Of Teaching 
+And Learning 
+Jyoti Patil, Nalini C. Iyer, Sujata 
+Kotabagi, R. V Hangal, Sujata N., 
+Soumya B., Dr. Subbanna Bhat 
+16 Improving Data Analysis Skills In Freshman Engineering 
+Students: A Constructive Approach 
+Preethi Baligar, G. H. Joshi, G. N. 
+Bhadri, Y. Velankar 
+17 Course Project Based Collaborative Learning Of Internet 
+Of Things Vishwanath P. Baligar 
+18 Digital Collage-As A Pedagogical Tool For Effective 
+Learning Of Immunological Concepts S. V. Desai 
+19 Collaboration With Industry In The Information Storage 
+And Management Course Design 
+Suvarna G. Kanakaraddi, Meenaxi 
+Raikar, A. K. Chikaraddi, 
+Jayalaxmi G., Shantala G. 
+20 A Post-Placement Program To Bridge The Gap Between 
+Institute & Automotive Industry 
+Venkatesh Mane, Prabha 
+Nissimagoudar; Gireesh H. M. 
+21 Integrating Genomics And Proteomics - A Bio-
+Informatics-Based Approach To Establish Gene-Protein 
+Relationship. 
+Sharanappa A., S. V. Desai

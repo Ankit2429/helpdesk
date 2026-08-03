@@ -94,10 +94,10 @@ class MarkdownSemanticChunker:
                 continue
 
             # 3. Table Block (lines starting/ending with | or containing |---|)
-            if "|" in line and (line.strip().startswith("|") or line.strip().endswith("|")):
+            if "|" in line and line.strip().count("|") >= 2:
                 table_lines = [line]
                 i += 1
-                while i < n and "|" in lines[i] and (lines[i].strip().startswith("|") or lines[i].strip().endswith("|")):
+                while i < n and "|" in lines[i] and lines[i].strip().count("|") >= 2:
                     table_lines.append(lines[i])
                     i += 1
                 blocks.append(("table", "\n".join(table_lines)))

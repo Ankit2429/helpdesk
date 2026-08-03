@@ -1,6 +1,7 @@
 """Standalone Query Rewriter for multi-turn RAG retrieval."""
 
 import re
+from typing import Any
 from collections.abc import Sequence
 
 from campus_helpdesk.domain.conversation import ChatMessage
@@ -14,7 +15,7 @@ class QueryRewriter:
         re.IGNORECASE,
     )
 
-    def rewrite(self, query: str, history: Sequence[ChatMessage]) -> str:
+    def rewrite(self, query: str, history: Any) -> str:
         """Rewrite follow-up query into standalone query if it references prior topics."""
         query_text = query.strip()
         if not history:
@@ -22,16 +23,22 @@ class QueryRewriter:
 
         # Check if query contains follow-up pronouns or is a short fragment
         has_pronoun = bool(self.PRONOUN_PATTERN.search(query_text))
-        is_short_followup = len(query_text.split()) <= 4 and any(
-            w in query_text.lower()
-            for w in ("timing", "timings", "hour", "hours", "where", "who", "fee", "fees", "contact", "email", "phone")
-        )
-
-        if not (has_pronoun or is_short_followup):
+        if not has_pronoun:
             return query_text
 
-        # Extract last user query subject or main entity
-        last_user_msg = next((msg.content for msg in reversed(history) if msg.role == "user"), None)
+        last_user_msg = None
+        if isinstance(history, str):
+            for line in reversed(history.split("\n")):
+                if line.lower().startswith("user:"):
+                    last_user_msg = line.split(":", 1)[1].strip()
+                    break
+        elif isinstance(history, (list, tuple)):
+            for msg in reversed(history):
+                role = getattr(msg, "role", None) or (msg.get("role") if isinstance(msg, dict) else None)
+                if role == "user":
+                    last_user_msg = getattr(msg, "content", None) or (msg.get("content") if isinstance(msg, dict) else str(msg))
+                    break
+
         if not last_user_msg:
             return query_text
 

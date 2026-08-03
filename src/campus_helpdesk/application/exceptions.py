@@ -22,6 +22,10 @@ class LLMServiceError(TransientError):
     """Raised when the configured language model cannot produce a response."""
     pass
 
+class CloudLLMServiceError(LLMServiceError):
+    """Raised when the cloud LLM provider API returns an error or times out."""
+    pass
+
 class CameraError(TransientError):
     """Raised for camera hardware or capture failures."""
     pass
@@ -43,6 +47,7 @@ __all__ = [
     "TransientError",
     "FatalError",
     "LLMServiceError",
+    "CloudLLMServiceError",
     "CameraError",
     "AudioError",
     "RetrievalError",

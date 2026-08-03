@@ -23,13 +23,13 @@ memory:
 
 ollama:
   base_url: "http://localhost:11434"
-  model: "qwen2.5:1.5b"
+  model: "nemotron-3-super:cloud"
   timeout_seconds: 180.0
   temperature: 0.0
   top_p: 0.8
   top_k: 40
-  context_window: 512
-  max_output_tokens: 256
+  context_window: 2048
+  max_output_tokens: 512
 
 embedding:
   model: "sentence-transformers/all-MiniLM-L6-v2"
@@ -40,7 +40,7 @@ embedding:
 reranker:
   enabled: true
   model: "cross-encoder/ms-marco-MiniLM-L-6-v2"
-  top_n: 10
+  top_n: 50
 
 logging:
   level: "INFO"

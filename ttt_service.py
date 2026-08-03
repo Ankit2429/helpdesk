@@ -95,17 +95,12 @@ class TTTService:
             logger.info(f"Initializing RAGChatService (FAISS + Ollama model='{settings.ollama_model}')...")
 
             rag_pipeline = create_rag_pipeline(settings)
-            llm_service = OllamaLLMService(
-                base_url=settings.ollama_base_url,
-                model=settings.ollama_model,
-                timeout_seconds=settings.ollama_timeout_seconds,
-                generation_options=settings.ollama_options,
-            )
+            from campus_helpdesk.infrastructure.llm.factory import create_llm_service
+            llm_service = create_llm_service(settings)
 
             self.rag_service = RAGChatService(
                 llm_service=llm_service,
                 rag_pipeline=rag_pipeline,
-                distance_threshold=settings.rag_distance_threshold,
             )
             logger.info("RAGChatService (FAISS + Ollama) ready.")
         except Exception as e:

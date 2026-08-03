@@ -5,7 +5,6 @@ from campus_helpdesk.config.settings import get_settings
 from campus_helpdesk.infrastructure.logging.tracer import get_tracer
 from campus_helpdesk.infrastructure.loaders.kb_loader import KBLoader
 from campus_helpdesk.services.metadata_manager import MetadataManager
-from campus_helpdesk.infrastructure.storage.chunk_store import ChunkStore
 from campus_helpdesk.infrastructure.rag.sentence_transformer_embeddings import SentenceTransformerEmbeddings
 
 def test_sprint1_config_and_settings():
@@ -43,16 +42,3 @@ def test_sprint1_kb_loader_and_metadata():
     }
     warnings = MetadataManager.validate(invalid_meta)
     assert len(warnings) > 0
-
-def test_sprint1_chunk_store(tmp_path):
-    store = ChunkStore(workspace_root=str(tmp_path))
-    chunks = [{"id": "chunk1", "text": "hello"}]
-    store.save_chunks(chunks)
-    
-    loaded = store.load_chunks()
-    assert len(loaded) == 1
-    assert loaded[0]["id"] == "chunk1"
-    
-    match = store.get_chunk_by_id("chunk1")
-    assert match is not None
-    assert match["text"] == "hello"

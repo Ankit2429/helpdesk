@@ -89,8 +89,9 @@ class OllamaLLMService:
         self._validate_base_url(base_url)
         self._model = model
         options = dict(generation_options)
-        options.setdefault("num_predict", 50)
+        options.setdefault("num_predict", 256)
         options.setdefault("temperature", 0.1)
+        options.setdefault("num_gpu", 0)
         self._generation_options = options
         self._client = client or Client(host=base_url, timeout=timeout_seconds)
 

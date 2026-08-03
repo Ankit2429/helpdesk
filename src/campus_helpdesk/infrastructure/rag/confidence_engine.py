@@ -26,7 +26,18 @@ class ConfidenceAssessment:
     reason: str = ""
 
 class ConfidenceEngine:
-    """Deterministic confidence calculator using configurable weights and signals."""
+    """Deterministic confidence calculator using configurable weights and signals.
+
+    IMPORTANT ARCHITECTURAL LIMITATION & SCOPE:
+    This engine measures (a) TOPICAL AND SEMANTIC RETRIEVAL RELEVANCE (how closely
+    the retrieved document embeddings match the query topic, reranker scores, and source density).
+    It DOES NOT measure (b) FACT ANSWERABILITY (whether the retrieved text contains the specific
+    granular answer, such as a room or building number).
+
+    High confidence (e.g. >0.80) guarantees strong document relevance, but does NOT guarantee
+    that the specific fact is present in the text. Fact answerability and hallucination prevention
+    are handled downstream by AnswerabilityEngine and strict LLM context system prompts.
+    """
 
     def __init__(self, settings: Settings | None = None) -> None:
         self.settings = settings or get_settings()

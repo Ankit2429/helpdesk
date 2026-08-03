@@ -70,7 +70,7 @@ def test_sprint2_retrieval_pipeline_integration(tmp_path):
         top_n=3,
         top_m=3
     )
-    confidence_engine = ConfidenceEngine(high_threshold=0.60, medium_threshold=0.40)
+    confidence_engine = ConfidenceEngine()
     
     # Start Tracing
     tracer = get_tracer()

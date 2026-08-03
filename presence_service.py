@@ -46,10 +46,24 @@ class PresenceService:
         self.on_person_arrived = on_person_arrived or (lambda: None)
         self.on_person_left = on_person_left or (lambda: None)
 
-        cascade_path = cv2.data.haarcascades + "haarcascade_frontalface_default.xml"
-        self.detector = cv2.CascadeClassifier(cascade_path)
-        if self.detector.empty():
-            raise RuntimeError(f"Failed to load Haar cascade from {cascade_path}")
+        cascade_path = ""
+        if hasattr(cv2, "data") and hasattr(cv2.data, "haarcascades"):
+            cascade_path = cv2.data.haarcascades + "haarcascade_frontalface_default.xml"
+        elif getattr(cv2, "__file__", None):
+            cascade_path = os.path.join(os.path.dirname(cv2.__file__), "data", "haarcascade_frontalface_default.xml")
+        elif getattr(cv2, "__path__", None):
+            cascade_path = os.path.join(cv2.__path__[0], "data", "haarcascade_frontalface_default.xml")
+
+        self.detector = None
+        if hasattr(cv2, "CascadeClassifier"):
+            self.detector = cv2.CascadeClassifier(cascade_path)
+            if self.detector.empty():
+                self.detector = cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
+                if self.detector.empty():
+                    logger.warning(f"Could not load Haar cascade from '{cascade_path}'. Presence detection will run in dummy mode.")
+                    self.detector = None
+        else:
+            logger.warning("cv2.CascadeClassifier not available in this OpenCV build. Presence detection will run in dummy mode.")
 
         self._present = False
         self._last_seen = 0.0
@@ -57,15 +71,27 @@ class PresenceService:
         self._thread = None
 
     def _face_visible(self, frame) -> bool:
-        small = cv2.resize(frame, None, fx=DETECT_SCALE, fy=DETECT_SCALE)
-        gray = cv2.cvtColor(small, cv2.COLOR_BGR2GRAY)
-        faces = self.detector.detectMultiScale(
-            gray, scaleFactor=1.2, minNeighbors=5, minSize=(30, 30)
-        )
-        return len(faces) > 0
+        if self.detector is None or frame is None:
+            return False
+        try:
+            small = cv2.resize(frame, None, fx=DETECT_SCALE, fy=DETECT_SCALE)
+            gray = cv2.cvtColor(small, cv2.COLOR_BGR2GRAY)
+            faces = self.detector.detectMultiScale(
+                gray, scaleFactor=1.2, minNeighbors=5, minSize=(30, 30)
+            )
+            return len(faces) > 0
+        except Exception as exc:
+            logger.debug(f"Face detection check error: {exc}")
+            return False
 
     def _watch_loop(self):
-        backend = cv2.CAP_V4L2 if sys.platform.startswith("linux") else cv2.CAP_DSHOW
+        if not hasattr(cv2, "VideoCapture"):
+            logger.warning("cv2.VideoCapture not available. PresenceService running in idle monitor mode.")
+            while self._running:
+                time.sleep(1.0)
+            return
+
+        backend = getattr(cv2, "CAP_V4L2", 0) if sys.platform.startswith("linux") else getattr(cv2, "CAP_DSHOW", 0)
         cap = cv2.VideoCapture(CAMERA_INDEX, backend)
         if not cap.isOpened():
             cap = cv2.VideoCapture(CAMERA_INDEX)

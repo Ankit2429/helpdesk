@@ -1,0 +1,35 @@
+---
+title: News
+category: news-media
+subcategory: general
+document_type: notice
+entity_type: general
+school: ''
+department: ''
+campus_scope: Hubballi
+program_level: na
+document_status: active
+effective_date: '2026-08-02'
+parent_topic: general
+child_topics: []
+related_documents: []
+source_url: ''
+scrape_date: '2026-08-02'
+language: en
+keywords: []
+aliases: []
+version: '1.0'
+---
+
+# News
+## Dec 24, 2025
+### Day 3 - National Symposium on Sustainable Biofuel Technologies Held at KLE Technological University
+A National Symposium on “Sustainable Biofuel Technologies” was conducted at the KLE Technological University Auditorium, Hubballi, as part of the 44th Annual National Conference of the Indian Council of Chemists (ICC). The symposium was organized by the School of Advanced Sciences, KLE Technological University, and witnessed active participation from academicians, industry experts, policymakers, and research scholars.
+The symposium was inaugurated by Shri Vijay Nirani, Founder and Managing Director of TruAlt Bioenergy, who highlighted India’s immense growth potential, particularly in the biofuel and biotechnology sectors. In his address, Shri Nirani described India as one of the fastestgrowing economies with a young demographic advantage, offering unprecedented opportunities for innovation-driven growth.
+He emphasized the importance of adopting advanced technologies to achieve economically viable and sustainable industrial production. Referring to the National Biofuels Policy (2018–19) as a major turning point, he noted that India has successfully achieved 20 per cent ethanol blending by 2025, well ahead of the original 2030 target.
+He traced the evolution of the sugar industry from sugar to molasses, ethanol, and advanced biofuels, and encouraged students to pursue bioenergy entrepreneurship, stressing that such ventures require ideas and scientific knowledge more than large capital.
+Mr. Ramakrishna Y.B., Member of the Working Group on Biofuels, Ministry of Petroleum and Natural Gas, Government of India, spoke about key national initiatives such as the Ethanol Blending Programme and the National Biodiesel Mission. He outlined the transition from conventional biodiesel to bioethanol, biogas, compressed biogas, biomethane, sustainable aviation fuels, methanol, dimethyl ether, futuristic fuels, and biohydrogen. He further emphasized the expansion of biobased technologies into biomaterials, biochemicals, and biopharmaceuticals, stating that petroleumderived products can increasingly be replaced by biological alternatives.
+The symposium was chaired by Mr. R.V. Vatnal, Group Technical Advisor, Nirani Group of Industries, Bagalkot, and presided over by Prof. Anand Halageri, Poornaprajna Institute of Scientific Research, Bengaluru. Prof. Seema Paroha, Director, National Sugar Institute, Kanpur, attended as Chief Guest. The symposium was coordinated by Prof. Zabin Bagewadi, Department of Biotechnology, KLE Technological University.
+The symposium was followed by the valedictory function of the national conference. Prof. S.M. Shivaprasad, Former Director, Karnataka State Higher Education Academy, Dharwad, observed that such national conferences play a pivotal role in advancing scientific research and act as a bridge between researchers and policymakers. Polymers and biofuels hold key to future areas of research with promising potential applications. Prizes and certificates were given to winners of technical oral and poster presentations.
+The valedictory session was attended by Prof. Prakash Tewari, ViceChancellor, KLE Technological University; Prof. Tejraj Aminabhavi, Director of Research; Prof. B.S. Anami, Registrar; Prof. Ranjit Verma, President, ICC; Prof. Rajesh Dhakarey, Secretary, ICC; Prof. Manoj Kumar Rawat. Treasurer. ICC and Prof. S.C. Goyal, Joint Secretary, ICC. Prof. Nagaraj Shetti, Convenor of the conference, proposed the vote of thanks.
+The symposium and conference collectively underscored the critical role of chemistry, biotechnology, and policy integration in shaping India’s sustainable energy future.

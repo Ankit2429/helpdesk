@@ -26,8 +26,19 @@ class TTSService(Protocol):
 
 
 class NonBlockingTTSService:
-    """Non-blocking TTS service. Uses real Piper neural voices when the model
-    files are present; falls back to the system pyttsx3 engine otherwise."""
+    """Non-blocking multilingual TTS service.
+
+    Uses Piper ONNX neural voices for English and Hindi when available;
+    falls back to pyttsx3 system engine for Kannada (no Piper Kannada voice exists)
+    or if model files are missing.
+    """
+
+    VOICE_MAP = {
+        "en": "en_US-lessac-medium",
+        "en_US": "en_US-lessac-medium",
+        "hi": "hi_IN-pratham-medium",
+        "hi_IN": "hi_IN-pratham-medium",
+    }
 
     def __init__(
         self,
@@ -35,26 +46,30 @@ class NonBlockingTTSService:
         piper_models_dir: str = "data/piper",
         use_cuda: bool = False,
     ) -> None:
-        self._voice_model = voice_model
+        self._default_voice_model = voice_model
         self._piper_models_dir = Path(piper_models_dir)
         self._use_cuda = use_cuda
-        self._speech_queue: queue.Queue[str] = queue.Queue()
+        self._speech_queue: queue.Queue[tuple[str, str]] = queue.Queue()
         self._stop_event = threading.Event()
         self._is_speaking_flag = False
         self._lock = threading.Lock()
+        self._piper_voices: dict[str, Any] = {}
+        self._pyttsx3_engine = None
         self._worker_thread = threading.Thread(target=self._speech_loop, daemon=True)
         self._worker_thread.start()
 
-    def _load_piper_voice(self):
-        """Attempt to load the configured Piper ONNX voice model from disk."""
-        model_path = self._piper_models_dir / f"{self._voice_model}.onnx"
-        config_path = self._piper_models_dir / f"{self._voice_model}.onnx.json"
+    def _load_piper_voice(self, model_name: str):
+        """Attempt to load a configured Piper ONNX voice model from disk with caching."""
+        if model_name in self._piper_voices:
+            return self._piper_voices[model_name]
+
+        model_path = self._piper_models_dir / f"{model_name}.onnx"
+        config_path = self._piper_models_dir / f"{model_name}.onnx.json"
 
         if not model_path.exists() or not config_path.exists():
             logger.warning(
-                f"[WARNING] Piper voice files not found for '{self._voice_model}' "
-                f"(expected {model_path} + .json). Falling back to pyttsx3. "
-                f"See docs/MODEL_SETUP.md to download the voice."
+                f"[WARNING] Piper voice files missing for '{model_name}' "
+                f"(expected {model_path} + .json). Falling back to system pyttsx3 engine."
             )
             return None
 
@@ -62,10 +77,11 @@ class NonBlockingTTSService:
             from piper.voice import PiperVoice
 
             voice = PiperVoice.load(str(model_path), config_path=str(config_path), use_cuda=self._use_cuda)
-            logger.info(f"[INFO] Piper voice '{self._voice_model}' loaded successfully.")
+            self._piper_voices[model_name] = voice
+            logger.info(f"[INFO] Piper voice '{model_name}' loaded successfully.")
             return voice
         except Exception as e:
-            logger.error(f"[ERROR] Piper voice load failed: {e}", exc_info=True)
+            logger.error(f"[ERROR] Piper voice load failed for '{model_name}': {e}", exc_info=True)
             return None
 
     def _speak_piper(self, voice, text: str) -> None:
@@ -91,41 +107,57 @@ class NonBlockingTTSService:
         except Exception as err:
             logger.error(f"Piper audio stream error: {err}")
 
-    def _speech_loop(self) -> None:
-        """Background worker thread executing speech requests."""
-        piper_voice = self._load_piper_voice()
-        pyttsx3_engine = None
-
-        if piper_voice is None:
+    def _get_pyttsx3_engine(self):
+        if self._pyttsx3_engine is None:
             try:
                 import pyttsx3
 
-                pyttsx3_engine = pyttsx3.init()
+                self._pyttsx3_engine = pyttsx3.init()
             except Exception as e:
                 logger.warning(f"pyttsx3 engine init failed: {e}")
+        return self._pyttsx3_engine
 
+    def _speech_loop(self) -> None:
+        """Background worker thread executing speech requests."""
         while not self._stop_event.is_set():
             try:
-                text = self._speech_queue.get(timeout=0.5)
+                item = self._speech_queue.get(timeout=0.5)
             except queue.Empty:
                 continue
 
-            if not text:
+            if not item:
+                continue
+
+            text, lang = item if isinstance(item, tuple) else (str(item), "en")
+            if not text.strip():
                 continue
 
             with self._lock:
                 self._is_speaking_flag = True
 
-            logger.info(f"TTS Speaking: '{text[:40]}...'")
+            logger.info(f"TTS Speaking [{lang}]: '{text[:40]}...'")
 
             try:
+                voice_name = self.VOICE_MAP.get(lang.lower(), self._default_voice_model)
+                piper_voice = None
+
+                if lang.lower() in ("kn", "kn_in"):
+                    logger.warning(
+                        f"[WARNING] Piper has no official voice model for Kannada ('{lang}'). "
+                        "Falling back to system pyttsx3 engine."
+                    )
+                else:
+                    piper_voice = self._load_piper_voice(voice_name)
+
+                pyttsx3_engine = self._get_pyttsx3_engine()
+
                 if piper_voice is not None:
                     self._speak_piper(piper_voice, text)
                 elif pyttsx3_engine is not None:
                     pyttsx3_engine.say(text)
                     pyttsx3_engine.runAndWait()
                 else:
-                    logger.info(f"[TTS Fallback Simulation] Spoke: {text}")
+                    logger.info(f"[TTS Fallback Simulation] Spoke [{lang}]: {text}")
             except Exception as err:
                 logger.error(f"TTS Engine synthesis error: {err}", exc_info=True)
             finally:
@@ -133,10 +165,10 @@ class NonBlockingTTSService:
                     self._is_speaking_flag = False
                 self._speech_queue.task_done()
 
-    def speak(self, text: str) -> None:
-        """Enqueue speech request non-blockingly."""
+    def speak(self, text: str, language: str = "en") -> None:
+        """Enqueue speech request non-blockingly with optional language code."""
         if text.strip():
-            self._speech_queue.put(text)
+            self._speech_queue.put((text, language))
 
     def stop(self) -> None:
         """Clear queued speech requests."""

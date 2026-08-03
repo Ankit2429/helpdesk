@@ -1,6 +1,8 @@
 """Production CLI script to build FAISS vector database from canonical Markdown knowledge."""
 
 import logging
+import time
+
 from campus_helpdesk.config.settings import get_settings
 from campus_helpdesk.infrastructure.rag.canonical_index_builder import CanonicalIndexBuilder
 from campus_helpdesk.infrastructure.rag.factory import create_rag_pipeline
