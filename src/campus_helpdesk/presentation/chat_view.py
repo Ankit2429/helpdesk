@@ -508,22 +508,22 @@ class ChatView(ctk.CTkFrame):
                 # Stream token chunk to UI label
                 self.after(0, lambda t_txt=accumulated_text: self._update_active_assistant_text(t_txt))
 
-                # Synthesize TTS for completed sentences
-                sentences = re.split(r'(?<=[.!?\n।])\s+', sentence_buffer)
+                # Synthesize TTS for completed clauses/sentences simultaneously as text appears
+                sentences = re.split(r'(?<=[.!?,;\n।])\s+', sentence_buffer)
                 if len(sentences) > 1:
                     complete_sentence = sentences[0].strip()
                     sentence_buffer = " ".join(sentences[1:])
-                    if complete_sentence and self.tts_service:
+                    if complete_sentence and len(complete_sentence) >= 3 and self.tts_service:
                         try:
-                            self.tts_service.speak(complete_sentence)
+                            self.tts_service.speak(complete_sentence, language=self.selected_language)
                         except Exception as tts_err:
                             logger.warning(f"TTS playback exception: {tts_err}")
 
-            # Flush remaining sentence buffer to TTS
+            # Flush remaining sentence buffer to TTS simultaneously
             if sentence_buffer.strip() and self.tts_service and not cancel_token.is_set():
                 final_sentence = sentence_buffer.strip()
                 try:
-                    self.tts_service.speak(final_sentence)
+                    self.tts_service.speak(final_sentence, language=self.selected_language)
                 except Exception as tts_err:
                     logger.warning(f"TTS final sentence playback exception: {tts_err}")
 
@@ -548,11 +548,18 @@ class ChatView(ctk.CTkFrame):
             self._active_assistant_label.configure(text=text)
 
     def _finalize_non_streamed_response(self, result: Dict[str, Any]) -> None:
-        """Display non-streamed result in active assistant bubble."""
+        """Display non-streamed result in active assistant bubble and trigger TTS in parallel."""
         self._stop_thinking_animation()
         ans = result.get("answer", "") or "I could not retrieve an answer for your query."
         if self._active_assistant_label:
             self._active_assistant_label.configure(text=ans)
+
+        # Simultaneously start TTS speech playback when answer text displays
+        if ans and self.tts_service:
+            try:
+                self.tts_service.speak(ans, language=self.selected_language)
+            except Exception as tts_err:
+                logger.warning(f"TTS non-streamed playback exception: {tts_err}")
 
         sources = result.get("sources", [])
         if self.show_sources and sources and self._active_assistant_card:
