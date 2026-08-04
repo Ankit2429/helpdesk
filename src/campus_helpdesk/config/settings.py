@@ -56,7 +56,7 @@ class Settings(BaseSettings):
     # ---- Context Composer Settings ----
     enable_context_composer: bool = True
     context_composer_dedup_threshold: float = 0.85
-    knowledge_source_path: Path = Path("archive/bvbcet_scraper/knowledge_base/markdown")
+    knowledge_source_path: Path = Path("data/canonical_markdown")
     knowledge_max_file_size_bytes: int = 20_000_000
     faiss_index_path: Path = Path("data/faiss")
     faiss_allow_dangerous_deserialization: bool = False

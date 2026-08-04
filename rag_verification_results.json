@@ -2,135 +2,123 @@
   {
     "query": "Who is the principal?",
     "reply": "I couldn't find verified information about that in my knowledge base.",
-    "confidence_score": 0.6167,
+    "confidence_score": 0.599,
     "confidence_level": "High",
     "supporting_sources": [
-      "departments/aqar2021-22resubmittedaugust2023.md",
-      "timetables/ec_minutes.md",
-      "departments/kle-tech-annual-report-2016-17.md",
-      "departments/annual-report-2014-15.md"
+      "01-governance-policy/governance_7a2386.md",
+      "04-research-centers/campus_leadership_67ef75.md"
     ],
     "verdict": "PASS (Grounded Response)",
     "pass": true
   },
   {
     "query": "Who is the Vice Chancellor?",
-    "reply": "The current Vice-Chancellor of KLE Technological University (BVB Engineering College) is Dr. Prakash G. Tewari. His contact information includes an email address (vc@kletech.ac.in) and a mobile number (9845903330).",
-    "confidence_score": 0.8185,
-    "confidence_level": "Very High",
+    "reply": "The current Vice-Chancellor is **Dr. Prakash G. Tewari**.",
+    "confidence_score": 0.7847,
+    "confidence_level": "High",
     "supporting_sources": [
-      "research/kle-technological-university-public-mandatory-disclosure.md",
-      "timetables/ec_minutes.md",
-      "academic/bog_minutes.md",
-      "timetables/minutes-10th-ecm-online.md"
+      "01-governance-policy/governance_7a2386.md",
+      "01-governance-policy/KLE-Tech-Statutes-dup.md",
+      "01-governance-policy/EC-Minutes.md"
     ],
     "verdict": "PASS (Grounded Response)",
     "pass": true
   },
   {
     "query": "Where is the main canteen?",
-    "reply": "I couldn't find verified information about the location of the main canteen in my knowledge base.",
-    "confidence_score": 0.534,
-    "confidence_level": "Medium",
+    "reply": "The main canteen is located on the campus, along with another canteen and a McDonald's outlet. These facilities provide a wide range of food choices for students and staff.",
+    "confidence_score": 0.6276,
+    "confidence_level": "High",
     "supporting_sources": [
-      "departments/aqar-2022-23-system-generated-copy.md",
-      "departments/application-part-1-report-2018_19.md",
-      "departments/mandatory-disclosure-edited.md"
+      "07-news-media/AQAR2021-22ResubmittedAugust2023.md",
+      "07-news-media/AQAR-2022-23-system-generated-copy.md"
     ],
     "verdict": "PASS (Grounded Response)",
     "pass": true
   },
   {
     "query": "Where is Block 7?",
-    "reply": "Block 7 is located in the Electrical Engineering Block, specifically in Classroom ADC 108.",
-    "confidence_score": 0.4943,
-    "confidence_level": "Medium",
+    "reply": "I couldn't find verified information about that in my knowledge base.",
+    "confidence_score": 0.578,
+    "confidence_level": "High",
     "supporting_sources": [
-      "departments/application_part1_report_2019-20.md",
-      "departments/application-part-1-report-2018_19.md"
+      "07-news-media/Application-Part1-Report-2019-20.md",
+      "07-news-media/Application-Part-1-Report-2018-19.md"
     ],
     "verdict": "FAIL (Hallucinated Missing Entity)",
     "pass": false
   },
   {
     "query": "Hostel timings",
-    "reply": "I couldn't find verified information about hostel timings in my knowledge base.",
-    "confidence_score": 0.7789,
+    "reply": "The source does not explicitly provide the hostel timings. I couldn't find verified information about that in my knowledge base.",
+    "confidence_score": 0.6977,
     "confidence_level": "High",
     "supporting_sources": [
-      "facilities/on_campus_facilities.md",
-      "departments/application_part1_report_2019-20.md",
-      "departments/application-part-1-report-2018_19.md",
-      "departments/prospectus.md"
+      "07-news-media/on-campus-facilities.md",
+      "07-news-media/AQAR2021-22ResubmittedAugust2023.md"
     ],
     "verdict": "PASS (Grounded Response)",
     "pass": true
   },
   {
     "query": "Library timings",
-    "reply": "The Central Library at KLE Technological University (BVB Engineering College) has the following timings:\n\nMonday to Friday: 8 AM to 8 PM\nSaturday and Sunday: 9 AM to 5 PM",
-    "confidence_score": 0.6646,
-    "confidence_level": "High",
+    "reply": "I couldn't find verified information about that in my knowledge base.",
+    "confidence_score": 0.3892,
+    "confidence_level": "Medium",
     "supporting_sources": [
-      "facilities/education_needs_complete_solution.md",
-      "departments/mandatory-disclosure-edited.md",
-      "hostel/library_rules.md"
+      "08-infrastructure/library-rules.md",
+      "07-news-media/overview.md"
     ],
     "verdict": "PASS (Grounded Response)",
     "pass": true
   },
   {
     "query": "Admission process",
-    "reply": "The admission process for various programmes at KLE Technological University (BVB Engineering College) involves the following steps:\n\n1. A candidate seeking admission under the Government Quota follows the procedures of the Post Graduate Common Entrance Test as notified by the Government of Karnataka from time to time.\n2. A candidate seeking admission under the University Quota appears for the entrance test conducted by the University or by recognized Entrance Examination authorities such as KEA/CMAT/MAT/CAT.\n3. The University may conduct Counseling for admissions based on the rankings in the entrance test (if conducted) or directly admit candidates allotted by the central counseling conducted by the Examination Authorities.\n4. Candidates who have passed a qualifying examination not conducted by the Government of Karnataka or University must submit the eligibility and migration certificate in original for admission to a programme of study.\n5. NRI/PIO/FN seeking admission to a programme must apply separately with equivalency/eligibility/migration certificates along with passport/visa/clearance/NOC from concerned bodies to the Admissions Committee.\n6. Admission is subject to the candidate being certified medically fit by a registered medical practitioner recognized by the University for the purpose.\n7. Each applicant must submit a Character Certificate from the head of the institution last attended.\n\nI couldn't find verified information about specific details regarding the admission process, such as the exact dates or procedures for each step.",
-    "confidence_score": 0.858,
-    "confidence_level": "Very High",
+    "reply": "The admission process for undergraduate programs generally includes the following steps:\n\n1. **Application**: Candidates apply through the official COMEDK website for COMED-K quota and the Karnataka Education Authority (KEA) website for Government/CET quota.\n2. **Examination**: Candidates appear in the respective entrance examinations.\n3. **Allotment of Seats/Counselling**: Seats are allotted based on merit, and candidates participate in counselling to select their preferred programs.\n4. **Payment**: After securing a seat through counselling, candidates need to pay the required fees.\n5. **Admission**: Upon payment, students receive an admission letter.\n\nFor postgraduate programs, the process involves:\n\n1. Reporting to the Admissions Office with necessary documents such as order copies from CET/Comed-K/Management/PGCET and academic documents used for admissions.\n2. Data entry of student information.\n3. Fee payment through the University portal or by Bank demand draft.\n4. Submission of a computer-generated admission application form along with fee challan.\n5. Receiving a Provisional Admit Letter.\n\nFor detailed information, candidates are advised to visit the official websites provided for COMEDK and KEA, or contact the Administrative Officer/Admission Co-ordinator at 0836 - 2378103 / 2378170 for management quota admissions.",
+    "confidence_score": 0.7655,
+    "confidence_level": "High",
     "supporting_sources": [
-      "timetables/bog_minutes_alt.md",
-      "timetables/ec_minutes.md",
-      "timetables/bog_minutes.md",
-      "academic/under_graduate_program.md"
+      "03-admissions-fees/under-graduate-program.md",
+      "07-news-media/Rules-and-Regulations-UG-PG-July-2021.md",
+      "03-admissions-fees/admission-for-pg-program.md"
     ],
     "verdict": "PASS (Grounded Response)",
     "pass": true
   },
   {
     "query": "ISE Department",
-    "reply": "You can find the list of departments on our campus by visiting the Schools/Departments page. \n\nHere is a list of some of the departments:\n\n- Department of Fashion Design\n- Biotechnology\n- Civil Engineering\n- Architecture\n- Management Studies & Research\n- Chemistry\n- Mathematics\n- Physics\n- Humanities and Social Studies\n- Automation & Robotics",
-    "confidence_score": 0.5448,
+    "reply": "The departments at KLE Technological University include:\n\ni. Department of Automation & Robotics\nii. Department of Biotechnology\niii. Department of Commerce\niv. Department of Computer Application\nv. Department of Fashion Design\nvi. Department of Legal Studies\nvii. Department of Mechanical Engineering\nviii. Department of Electrical & Electronics Engineering\nix. Department of Electronics & Communication Engineering\nx. School of Architecture (which may contain further departments or centers)\nxi. School of Management Studies and Research\n\nSource: Campus Leadership and Administration > Schools and Departments",
+    "confidence_score": 0.5456,
     "confidence_level": "Medium",
     "supporting_sources": [
-      "departments/schoolsdepartments_alt.md",
-      "departments/schoolsdepartments.md",
-      "departments/ugelectronicscommunicationengineeringdcpreport.md"
+      "01-governance-policy/4th_bog_minutes_97c73f.md",
+      "04-research-centers/campus_leadership_67ef75.md",
+      "07-news-media/schools_departments_11ff6e.md"
     ],
     "verdict": "PASS (Grounded Response)",
     "pass": true
   },
   {
     "query": "Sports Complex",
-    "reply": "The sports complex at KLE Technological University is referred to as the BVB Sports Arena. It was approved by the Board of Governors (BOG) with an additional term loan of Rs. 5 crores for its construction. The project's implementation has been delayed due to the Covid-19 pandemic, and it is expected to be completed by October 2021.",
-    "confidence_score": 0.6667,
+    "reply": "The University has a variety of indoor and outdoor sports facilities, including a cricket ground, basketball court, football ground, badminton court, athletic track, multi-gym stations, open-air theatre, and air-conditioned auditoriums. Additionally, a new hi-tech indoor stadium with a capacity to accommodate over 3000 people is set to be completed soon.\n\nSource: Annual Quality Assurance Report of KLE TECHNOLOGICAL UNIVERSITY-HUBBALLI",
+    "confidence_score": 0.6654,
     "confidence_level": "High",
     "supporting_sources": [
-      "departments/aqar2021-22resubmittedaugust2023.md",
-      "facilities/on_campus_facilities_alt.md",
-      "clubs/sports_and_health.md",
-      "timetables/bog_minutes.md"
+      "07-news-media/AQAR2021-22ResubmittedAugust2023.md",
+      "07-news-media/AQAR-2022-23-system-generated-copy.md"
     ],
     "verdict": "PASS (Grounded Response)",
     "pass": true
   },
   {
     "query": "Bus Facility",
-    "reply": "I couldn't find verified information about \"bus facility\" in my knowledge base.",
-    "confidence_score": 0.5918,
-    "confidence_level": "High",
+    "reply": "I couldn't find verified information about that in my knowledge base.",
+    "confidence_score": 0.5251,
+    "confidence_level": "Medium",
     "supporting_sources": [
-      "hostel/09-bachelor-of-electronics-engg-vlsi-curriculum-structure-and-content-2023-27.md",
-      "departments/eee__curriculum_structure_and_curriculum_content_2021-25.md",
-      "departments/new-bachelor-electronics-communication-engineering-curriculum-2022-2026.md",
-      "hostel/06-bachelor-of-electrical-and-electronics-engg-curriculum-structure-content-2023-2027.md",
-      "campus/about_hubballi_campus.md"
+      "02-academics/EEE--Curriculum-Structure-and-Curriculum-Content-2021-25.md",
+      "02-academics/bachelor-electrical-electronics-engineering-curriculum-2022-2026.md",
+      "02-academics/Civil-Curriculum-Structure-Content-2021-25.md"
     ],
     "verdict": "PASS (Grounded Response)",
     "pass": true

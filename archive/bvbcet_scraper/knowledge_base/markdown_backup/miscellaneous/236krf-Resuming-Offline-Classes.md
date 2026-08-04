@@ -1,8 +1,0 @@
-# PDF Document: 236krf-Resuming-Offline-Classes
-**PDF Source:** https://www.kletech.ac.in/uploads/Files/236krf-Resuming-Offline-Classes.pdf
-
-## Page 1
-
-K.L.E. SOCIETY’S LAW COLLEGE(Affiliated to Karnataka State Law University, Hubballi, Recognized by BCI and Govt. of Karnataka)
-Sir. M. Vishweshwaraiah Layout, V Block, West Circle 3, C A No. 2, BDA Layout, Ullal Post, Bengaluru – 560091, Karnataka State, INDIAPhone: 080-23485372, 23488197, 23286489 Website: www.klelawcollege.org Email: info@klelawcollege.org
-NOTICEThis is to inform all parents and students that in view of recent (29th January2022) SOP issued by the Govt of Karnataka, the OFFLINE classes shall commence for allclasses from 1st February 2022. All are informed to attend the classes accordingly. Also,note the following:1. Considering the travel time required for those who have returned home and to ensure noloss of classes for such students, the classes shall be held in hybrid mode (online andoffline) ONL Y till 5th February 2022.2. Online classes will stop, and only offline classes shall continue from 7th February 2022.Please make your arrangements and attend classes accordingly.3. Covid appropriate behaviour shall be always adhered strictly by observing the necessaryprotocols prescribed by the college and the Govt.4. Offline classes shall be held as per the timetable already in place and published to you.5. Please get vaccinated, if not done so far and keep the class teacher informed anytimeyou’re found symptomatic, for the safety of all.Date: 30-01-2022Place: BengaluruPrincipal
