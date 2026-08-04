@@ -117,7 +117,7 @@ def make_ask_callback(chat_service: RAGChatService, session_id: str = "touch-kio
 
     return ask
 
-def create_tts_service() -> Optional[Any]:
+def create_tts_service(on_speaking_state_changed: Optional[Callable[[bool], None]] = None) -> Optional[Any]:
     """Initialize NonBlockingTTSService for real-time speech synthesis if available."""
     try:
         from campus_helpdesk.infrastructure.audio.tts_service import NonBlockingTTSService
@@ -127,6 +127,7 @@ def create_tts_service() -> Optional[Any]:
             voice_model=settings.tts_voice_model,
             piper_models_dir=settings.tts_piper_models_dir,
             use_cuda=settings.tts_use_cuda,
+            on_speaking_state_changed=on_speaking_state_changed,
         )
         logger.info("NonBlockingTTSService initialized for touch UI speech synthesis.")
         return tts
@@ -176,7 +177,7 @@ class TouchApp(ctk.CTk):
         chat_service = build_chat_service()
         ask_callback = make_ask_callback(chat_service)
         ask_stream_callback = make_ask_stream_callback(chat_service)
-        tts_service = create_tts_service()
+        tts_service = create_tts_service(on_speaking_state_changed=self._handle_tts_speaking_changed)
         # Initialize single STT service instance
         self.stt_service: Optional[Any] = None
         try:
@@ -275,6 +276,25 @@ class TouchApp(ctk.CTk):
     def _handle_language_changed(self, new_language: str) -> None:
         """Synchronize active language across ChatView, STT, LLM, TTS."""
         logger.info(f"[TouchApp Language Synchronized] New Language: '{new_language}'")
+
+    def _handle_tts_speaking_changed(self, is_speaking: bool) -> None:
+        """Pause WakeWordService stream during TTS playback to prevent acoustic self-triggering."""
+        if not hasattr(self, "wake_service") or not self.wake_service:
+            return
+
+        if is_speaking:
+            logger.info("[TouchApp] TTS playback active: Pausing WakeWordService stream to prevent self-triggering.")
+            try:
+                self.wake_service.stop()
+            except Exception as exc:
+                logger.warning("Error stopping wake service during TTS: %s", exc)
+        else:
+            logger.info("[TouchApp] TTS playback finished: Resuming WakeWordService background stream.")
+            try:
+                if not self.wake_service.is_running():
+                    self.wake_service.start()
+            except Exception as exc:
+                logger.warning("Error resuming wake service post TTS: %s", exc)
 
 
 def main() -> None:

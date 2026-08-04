@@ -45,10 +45,12 @@ class NonBlockingTTSService:
         voice_model: str = "en_US-lessac-medium",
         piper_models_dir: str = "data/piper",
         use_cuda: bool = False,
+        on_speaking_state_changed: Optional[Any] = None,
     ) -> None:
         self._default_voice_model = voice_model
         self._piper_models_dir = Path(piper_models_dir)
         self._use_cuda = use_cuda
+        self._on_speaking_state_changed = on_speaking_state_changed
         self._speech_queue: queue.Queue[tuple[str, str]] = queue.Queue()
         self._stop_event = threading.Event()
         self._is_speaking_flag = False
@@ -132,8 +134,16 @@ class NonBlockingTTSService:
             if not text.strip():
                 continue
 
+            was_speaking = False
             with self._lock:
+                was_speaking = self._is_speaking_flag
                 self._is_speaking_flag = True
+
+            if not was_speaking and self._on_speaking_state_changed:
+                try:
+                    self._on_speaking_state_changed(True)
+                except Exception as cb_err:
+                    logger.warning(f"Error in on_speaking_state_changed(True): {cb_err}")
 
             logger.info(f"TTS Speaking [{lang}]: '{text[:40]}...'")
 
@@ -161,9 +171,15 @@ class NonBlockingTTSService:
             except Exception as err:
                 logger.error(f"TTS Engine synthesis error: {err}", exc_info=True)
             finally:
-                with self._lock:
-                    self._is_speaking_flag = False
                 self._speech_queue.task_done()
+                if self._speech_queue.empty():
+                    with self._lock:
+                        self._is_speaking_flag = False
+                    if self._on_speaking_state_changed:
+                        try:
+                            self._on_speaking_state_changed(False)
+                        except Exception as cb_err:
+                            logger.warning(f"Error in on_speaking_state_changed(False): {cb_err}")
 
     def speak(self, text: str, language: str = "en") -> None:
         """Enqueue speech request non-blockingly with optional language code."""
