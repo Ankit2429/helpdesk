@@ -8,9 +8,8 @@ using IoU matching and centroid distance estimation.
 
 from __future__ import annotations
 
-from dataclasses import dataclass
 import time
-from typing import Dict, List, Optional, Tuple
+from dataclasses import dataclass
 
 import numpy as np
 
@@ -20,8 +19,8 @@ class TrackedPerson:
     """Represents a single tracked person across video frames."""
 
     track_id: int
-    bbox: Tuple[int, int, int, int]  # (x, y, w, h)
-    centroid: Tuple[int, int]  # (cx, cy)
+    bbox: tuple[int, int, int, int]  # (x, y, w, h)
+    centroid: tuple[int, int]  # (cx, cy)
     confidence: float
     first_seen: float
     last_seen: float
@@ -33,7 +32,7 @@ class TrackedPerson:
         return self.bbox[2] * self.bbox[3]
 
 
-def compute_iou(boxA: Tuple[int, int, int, int], boxB: Tuple[int, int, int, int]) -> float:
+def compute_iou(boxA: tuple[int, int, int, int], boxB: tuple[int, int, int, int]) -> float:
     """Compute Intersection over Union (IoU) between two bounding boxes (x, y, w, h)."""
     xA = max(boxA[0], boxB[0])
     yA = max(boxA[1], boxB[1])
@@ -59,9 +58,9 @@ class ByteTracker:
         self.max_lost_frames = max_lost_frames
         self.iou_threshold = iou_threshold
         self.next_id = 1
-        self.tracks: Dict[int, TrackedPerson] = {}
+        self.tracks: dict[int, TrackedPerson] = {}
 
-    def update(self, detections: List[Tuple[Tuple[int, int, int, int], float]]) -> List[TrackedPerson]:
+    def update(self, detections: list[tuple[tuple[int, int, int, int], float]]) -> list[TrackedPerson]:
         """
         Update tracks with new detections [(bbox, confidence), ...].
 

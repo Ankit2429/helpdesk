@@ -12,11 +12,11 @@ Replaces simple face-count greeting logic with intention detection:
 
 from __future__ import annotations
 
-from dataclasses import dataclass
-from enum import Enum
 import logging
 import time
-from typing import Any, Callable, Dict, List, Optional, Tuple
+from collections.abc import Callable
+from dataclasses import dataclass
+from enum import Enum
 
 import cv2
 import numpy as np
@@ -40,12 +40,12 @@ class RobotPerceptionState(Enum):
 @dataclass
 class IntentResult:
     state: RobotPerceptionState
-    active_person: Optional[TrackedPerson]
-    gaze: Optional[GazeResult]
+    active_person: TrackedPerson | None
+    gaze: GazeResult | None
     annotated_frame: np.ndarray
     engagement_sec: float
     disengage_sec: float
-    greeting_text: Optional[str] = None
+    greeting_text: str | None = None
 
 
 class IntentPerceptionEngine:
@@ -60,9 +60,9 @@ class IntentPerceptionEngine:
         max_interaction_dist: float = 2.0,
         engagement_required_sec: float = 2.0,
         disengage_timeout_sec: float = 1.0,
-        on_user_engaged: Optional[Callable[[TrackedPerson], None]] = None,
-        on_user_disengaged: Optional[Callable[[], None]] = None,
-        on_greeting_triggered: Optional[Callable[[str, str], None]] = None,
+        on_user_engaged: Callable[[TrackedPerson], None] | None = None,
+        on_user_disengaged: Callable[[], None] | None = None,
+        on_greeting_triggered: Callable[[str, str], None] | None = None,
     ) -> None:
         self.min_dist = min_interaction_dist
         self.max_dist = max_interaction_dist
@@ -81,12 +81,12 @@ class IntentPerceptionEngine:
         self.gaze_estimator = HeadPoseGazeEstimator()
 
         self.state = RobotPerceptionState.IDLE
-        self.active_track_id: Optional[int] = None
-        self.engagement_start_time: Optional[float] = None
-        self.disengage_start_time: Optional[float] = None
+        self.active_track_id: int | None = None
+        self.engagement_start_time: float | None = None
+        self.disengage_start_time: float | None = None
 
     def process_frame(
-        self, frame: np.ndarray, raw_detections: List[Tuple[Tuple[int, int, int, int], float]]
+        self, frame: np.ndarray, raw_detections: list[tuple[tuple[int, int, int, int], float]]
     ) -> IntentResult:
         """
         Process single video frame with person detections [(bbox, conf), ...].
@@ -125,7 +125,7 @@ class IntentPerceptionEngine:
         # Sort candidates: closest distance (largest box) wins
         candidate_persons.sort(key=lambda x: (-x[0].area, x[1]))
 
-        primary_person: Optional[TrackedPerson] = None
+        primary_person: TrackedPerson | None = None
         primary_dist: float = 0.0
 
         if candidate_persons:
@@ -152,7 +152,7 @@ class IntentPerceptionEngine:
             self.active_track_id = primary_person.track_id
 
         # 4. Head Pose & Eye Gaze Estimation for Primary User
-        active_gaze: Optional[GazeResult] = None
+        active_gaze: GazeResult | None = None
         is_engaged_now = False
 
         if primary_person is not None:
@@ -171,7 +171,7 @@ class IntentPerceptionEngine:
         # 5. Temporal Intent State Machine Logic
         engagement_sec = 0.0
         disengage_sec = 0.0
-        generated_greeting: Optional[str] = None
+        generated_greeting: str | None = None
 
         if is_engaged_now and primary_person is not None:
             self.disengage_start_time = None
@@ -263,9 +263,9 @@ class IntentPerceptionEngine:
     def _draw_diagnostic_overlays(
         self,
         frame: np.ndarray,
-        all_persons: List[TrackedPerson],
-        active_person: Optional[TrackedPerson],
-        active_gaze: Optional[GazeResult],
+        all_persons: list[TrackedPerson],
+        active_person: TrackedPerson | None,
+        active_gaze: GazeResult | None,
     ) -> None:
         """Render diagnostic bounding boxes, Track IDs, head pose angles, and gaze status."""
         for p in all_persons:
@@ -310,8 +310,8 @@ class IntentPerceptionEngine:
     def _draw_state_overlay(
         self,
         frame: np.ndarray,
-        active_person: Optional[TrackedPerson],
-        gaze: Optional[GazeResult],
+        active_person: TrackedPerson | None,
+        gaze: GazeResult | None,
         timer_sec: float,
     ) -> None:
         """Render main perception state badge on top left of frame."""

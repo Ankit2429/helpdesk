@@ -10,7 +10,7 @@ class ChatMessage:
 
     role: str  # 'user' or 'assistant'
     content: str
-    timestamp: str = field(default_factory=lambda: datetime.datetime.now(datetime.timezone.utc).isoformat())
+    timestamp: str = field(default_factory=lambda: datetime.datetime.now(datetime.UTC).isoformat())
 
 
 @dataclass

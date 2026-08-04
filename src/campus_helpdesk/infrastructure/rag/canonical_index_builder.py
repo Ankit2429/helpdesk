@@ -113,7 +113,7 @@ class CanonicalIndexBuilder:
 
         # Write detailed manifest
         manifest = {
-            "build_timestamp": datetime.datetime.now(datetime.timezone.utc).isoformat(),
+            "build_timestamp": datetime.datetime.now(datetime.UTC).isoformat(),
             "pipeline_version": self.PIPELINE_VERSION,
             "embedding_model": str(self.similarity_store._embedding_metadata.get("embedding_model", "unknown")),
             "embedding_normalize": bool(self.similarity_store._embedding_metadata.get("embedding_normalize", True)),

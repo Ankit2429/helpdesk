@@ -23,22 +23,20 @@ Thread Model
 from __future__ import annotations
 
 import logging
-import time
 import os
 import threading
-from datetime import datetime, timezone
-from typing import Any, Dict
-from campus_helpdesk.interaction.event_bus import SubscriptionHandle
+from datetime import UTC, datetime
+from typing import Any
 
-from campus_helpdesk.interaction.event_bus import EventBus
+from campus_helpdesk.interaction.event_bus import EventBus, SubscriptionHandle
 from campus_helpdesk.interaction.events import EventEnvelope, EventType
 from campus_helpdesk.interaction.interaction_manager import InteractionManager
 from campus_helpdesk.services.camera_service import CameraService
-from campus_helpdesk.services.vision_service import VisionService
-from campus_helpdesk.services.vad_service import VADService
-from campus_helpdesk.services.stt_service import STTService
 from campus_helpdesk.services.inference_adapter import InferenceAdapter
+from campus_helpdesk.services.stt_service import STTService
 from campus_helpdesk.services.tts_service import TTSService
+from campus_helpdesk.services.vad_service import VADService
+from campus_helpdesk.services.vision_service import VisionService
 
 logger = logging.getLogger(__name__)
 
@@ -65,7 +63,7 @@ class ConversationTracker:
             if session_id not in self._logs:
                 self._logs[session_id] = {
                     "conversation_id": session_id,
-                    "start_time": datetime.now(timezone.utc).isoformat(),
+                    "start_time": datetime.now(UTC).isoformat(),
                     "events": [],
                     "latencies": {},
                     "errors": [],
@@ -73,7 +71,7 @@ class ConversationTracker:
                 }
 
             log = self._logs[session_id]
-            t_now = datetime.now(timezone.utc).isoformat()
+            t_now = datetime.now(UTC).isoformat()
             
             # Append event details
             log["events"].append({
@@ -288,6 +286,7 @@ class SystemRuntime:
             if not isinstance(self.inference._backend, MockInferenceBackend):
                 try:
                     import httpx
+
                     from campus_helpdesk.config.settings import get_settings
                     base_url = get_settings().ollama_base_url
                     resp = httpx.get(f"{base_url}/api/tags", timeout=2.0)

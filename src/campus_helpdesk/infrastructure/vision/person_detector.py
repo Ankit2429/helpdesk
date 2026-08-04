@@ -2,7 +2,7 @@
 
 import logging
 from collections.abc import Callable
-from typing import Any, Optional, Tuple
+from typing import Any
 
 import cv2
 import numpy as np

@@ -24,12 +24,12 @@ from __future__ import annotations
 
 import logging
 import queue
-import time
-import uuid
 import threading
+import time
 from abc import ABC, abstractmethod
 from typing import Any
 
+from campus_helpdesk.application.exceptions import AudioError
 from campus_helpdesk.interaction.event_bus import EventBus, SubscriptionHandle
 from campus_helpdesk.interaction.events import (
     AnswerPayload,
@@ -38,7 +38,6 @@ from campus_helpdesk.interaction.events import (
     TTSPayload,
 )
 
-from campus_helpdesk.application.exceptions import AudioError
 logger = logging.getLogger(__name__)
 
 
@@ -191,7 +190,7 @@ class PiperBackend(BaseSpeechBackend):
             if os.path.exists(self._config_path):
                 try:
                     import json
-                    with open(self._config_path, "r", encoding="utf-8") as f:
+                    with open(self._config_path, encoding="utf-8") as f:
                         cfg = json.load(f)
                         self._sample_rate = cfg.get("audio", {}).get("sample_rate", 22050)
                 except Exception as json_err:
@@ -222,9 +221,9 @@ class PiperBackend(BaseSpeechBackend):
                         break
                     yield data
         else:
-            import subprocess
-            import shutil
             import os
+            import shutil
+            import subprocess
             piper_bin = shutil.which("piper") or "piper"
             cmd = [
                 piper_bin,

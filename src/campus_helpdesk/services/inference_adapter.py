@@ -24,9 +24,8 @@ from __future__ import annotations
 
 import logging
 import queue
-import time
-import uuid
 import threading
+import time
 from abc import ABC, abstractmethod
 from typing import Any
 

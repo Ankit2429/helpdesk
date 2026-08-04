@@ -19,7 +19,7 @@ import logging
 import queue
 import threading
 import uuid
-from typing import Any, Dict, List, Optional
+from typing import Any
 
 from campus_helpdesk.analytics.alert_engine import AlertEngine
 from campus_helpdesk.analytics.conversation_analytics import ConversationAnalytics
@@ -50,8 +50,8 @@ class AnalyticsManager:
         * ``report_output_dir`` — where reports are written.
     """
 
-    def __init__(self, config: Optional[Dict[str, Any]] = None) -> None:
-        default_cfg: Dict[str, Any] = {
+    def __init__(self, config: dict[str, Any] | None = None) -> None:
+        default_cfg: dict[str, Any] = {
             "database_path": "data/analytics/metrics.sqlite",
             "retention_days": 30,
             "system_monitor_interval_seconds": 10,
@@ -65,7 +65,7 @@ class AnalyticsManager:
         self.event_bus = EventBus()
 
         # Background worker queue
-        self._queue: queue.Queue[Optional[Dict[str, Any]]] = queue.Queue()
+        self._queue: queue.Queue[dict[str, Any] | None] = queue.Queue()
         self._stop_event = threading.Event()
         self._worker = threading.Thread(
             target=self._process_queue,
@@ -134,7 +134,7 @@ class AnalyticsManager:
     # Turn tracking (legacy compat + queue-based persistence)
     # ------------------------------------------------------------------
 
-    def track_turn(self, turn_data: Dict[str, Any]) -> None:
+    def track_turn(self, turn_data: dict[str, Any]) -> None:
         """Enqueue a turn's metrics for asynchronous persistence.
 
         Expected keys in ``turn_data`` (all optional):
@@ -159,7 +159,7 @@ class AnalyticsManager:
             finally:
                 self._queue.task_done()
 
-    def _persist(self, data: Dict[str, Any]) -> None:
+    def _persist(self, data: dict[str, Any]) -> None:
         """Persist a single turn's data to the store."""
         # Session handling
         self.store.insert_session(data["session_id"])
@@ -193,11 +193,11 @@ class AnalyticsManager:
     # Façade methods
     # ------------------------------------------------------------------
 
-    def get_dashboard(self, time_window_hours: int = 24) -> Dict[str, Any]:
+    def get_dashboard(self, time_window_hours: int = 24) -> dict[str, Any]:
         """Generate a dashboard payload."""
         return self.dashboard_generator.generate(time_window_hours)
 
-    def get_alerts(self, limit: int = 50) -> List[Dict[str, Any]]:
+    def get_alerts(self, limit: int = 50) -> list[dict[str, Any]]:
         """Return recent alerts."""
         return self.alert_engine.get_recent_alerts(limit)
 
@@ -206,7 +206,7 @@ class AnalyticsManager:
         path = self.report_generator.generate_custom_report(hours=hours, label=label)
         return str(path)
 
-    def get_all_stats(self) -> Dict[str, Any]:
+    def get_all_stats(self) -> dict[str, Any]:
         """Return a combined stats snapshot from all analytics modules."""
         return {
             "query": self.query_analytics.get_stats(),

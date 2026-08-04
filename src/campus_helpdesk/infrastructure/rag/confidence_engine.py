@@ -1,8 +1,8 @@
 import logging
 import math
 import time
+from collections.abc import Sequence
 from dataclasses import dataclass, field
-from typing import Sequence, List, Dict
 
 from campus_helpdesk.config.settings import Settings, get_settings
 from campus_helpdesk.domain.knowledge import SearchResult
@@ -18,8 +18,8 @@ class ConfidenceAssessment:
     supporting_chunk_count: int
     top_reranker_score: float
     top_distance: float
-    supporting_sources: List[str] = field(default_factory=list)
-    diagnostics: Dict[str, float] = field(default_factory=dict)
+    supporting_sources: list[str] = field(default_factory=list)
+    diagnostics: dict[str, float] = field(default_factory=dict)
     evidence_consistency: float = 0.0
     citation_quality: float = 0.0
     hallucination_risk: str = "UNKNOWN"
@@ -42,13 +42,13 @@ class ConfidenceEngine:
     def __init__(self, settings: Settings | None = None) -> None:
         self.settings = settings or get_settings()
         # Configurable weights and thresholds
-        self.weights: Dict[str, float] = self.settings.confidence_weights
-        self.thresholds: Dict[str, float] = self.settings.confidence_thresholds
-        self.risk_thresholds: Dict[str, float] = self.settings.hallucination_risk_thresholds
+        self.weights: dict[str, float] = self.settings.confidence_weights
+        self.thresholds: dict[str, float] = self.settings.confidence_thresholds
+        self.risk_thresholds: dict[str, float] = self.settings.hallucination_risk_thresholds
 
     def _evidence_consistency(self, search_results: Sequence[SearchResult]) -> float:
         """Simple token‑overlap consistency between retrieved chunks (0‑1)."""
-        token_sets: List[set] = []
+        token_sets: list[set] = []
         for res in search_results:
             text = getattr(res.document, "content", "") or getattr(res.document, "text", "")
             tokens = set(text.lower().split())

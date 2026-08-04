@@ -8,10 +8,8 @@ Estimates 3D Head Pose (Pitch, Yaw, Roll), distance in meters, and eye gaze dire
 
 from __future__ import annotations
 
-from dataclasses import dataclass
-import math
 import logging
-from typing import Optional, Tuple
+from dataclasses import dataclass
 
 import cv2
 import numpy as np
@@ -72,7 +70,7 @@ class HeadPoseGazeEstimator:
             self._mesh = None
 
     def estimate(
-        self, frame: np.ndarray, face_box: Tuple[int, int, int, int]
+        self, frame: np.ndarray, face_box: tuple[int, int, int, int]
     ) -> GazeResult:
         """
         Estimate head pose, distance, and gaze for face region (x, y, w, h).

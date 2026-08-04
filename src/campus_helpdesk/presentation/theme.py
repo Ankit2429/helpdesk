@@ -5,6 +5,7 @@ and CustomTkinter appearance mode integration.
 """
 
 from dataclasses import dataclass
+
 import customtkinter as ctk
 
 

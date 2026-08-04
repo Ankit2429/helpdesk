@@ -24,16 +24,18 @@ Thread Model
 
 from __future__ import annotations
 
+from datetime import datetime, timezone
 import logging
+import threading
 import time
 import uuid
-import threading
+from datetime import UTC
 from typing import Any
 
 import cv2
 import numpy as np
 
-from campus_helpdesk.application.exceptions import LLMServiceError, CameraError
+from campus_helpdesk.application.exceptions import CameraError
 from campus_helpdesk.interaction.event_bus import EventBus
 from campus_helpdesk.interaction.events import CameraPayload, EventEnvelope, EventType
 
@@ -485,6 +487,203 @@ class CameraService:
             }
 
     def set_correlation_context(self, session_id: str | None, correlation_id: str | None) -> None:
+from datetime import datetime, timezone
+
+        with self._lock:
+            if self._is_mock:
+                # Generate a dummy color block using NumPy
+                w, h = self._resolution
+                mock_frame = np.zeros((h, w, 3), dtype=np.uint8)
+                # Draw a color pattern that updates over time
+                cv2.rectangle(
+                    mock_frame,
+                    (50, 50),
+                    (w - 50, h - 50),
+                    (0, 0, int((time.time() * 50) % 255)),
+                    -1,
+                )
+                cv2.putText(
+                    mock_frame,
+                    f"Mock Source Frame {self._frames_captured}",
+                    (100, 100),
+                    cv2.FONT_HERSHEY_SIMPLEX,
+                    1.0,
+                    (255, 255, 255),
+                    2,
+                )
+                return True, mock_frame
+
+            if self._cap is None:
+                return False, None
+
+            try:
+                ret, frame = self._cap.read()
+                return ret, frame
+            except Exception as exc:
+                logger.error("Exception during cv2 read: %s", exc)
+                # Clean up potentially broken capture
+                if self._cap is not None:
+                    self._cap.release()
+                    self._cap = None
+                self._connected = False
+                return False, None
+
+    def _process_and_publish_frame(self, frame: np.ndarray, latency_ms: float) -> None:
+        """Encode, compute metrics, and publish to event bus."""
+        with self._lock:
+            self._frames_captured += 1
+            self._total_capture_ms += latency_ms
+
+            # FPS metrics tracking
+            self._fps_frame_count += 1
+            now = time.perf_counter()
+            if now - self._last_fps_time >= 1.0:
+                self._current_fps = self._fps_frame_count / (now - self._last_fps_time)
+                self._fps_frame_count = 0
+                self._last_fps_time = now
+
+            res_str = f"{self._resolution[0]}x{self._resolution[1]}"
+            frame_num = self._frames_captured
+
+        # Encode image frame data (e.g. JPEG) to keep metadata small
+        # JPEG encoding reduces raw matrix copies over EventBus queues
+        success, encoded = cv2.imencode(".jpg", frame)
+        frame_bytes = encoded.tobytes() if success else b""
+
+        payload = CameraPayload(
+            frame_id=str(uuid.uuid4()),
+            timestamp=self._utcnow(),
+            resolution=res_str,
+            frame_number=frame_num,
+            capture_latency_ms=latency_ms,
+            camera_index=self._camera_index,
+            status="CAPTURED",
+            frame_data=frame_bytes,
+        )
+
+        event = EventEnvelope.create(
+            event_type=EventType.FRAME_CAPTURED,
+            source=self._name,
+            payload=payload,
+            session_id=self._session_id,
+            correlation_id=self._correlation_id,
+        )
+
+        # Drop old frames if event bus queue overflows or is busy (non-blocking publish)
+        # Bounded frame buffer: newest frame wins
+        success = self._bus.publish(event)
+        if not success:
+            with self._lock:
+                self._frames_dropped += 1
+
+    # ─────────────────────────────────────────────────────────────────────────
+    # Auto Recovery / Reconnect Strategy
+    # ─────────────────────────────────────────────────────────────────────────
+
+    def _handle_read_failure(self) -> None:
+        """Initiate auto-reconnect recovery sequence."""
+        with self._lock:
+            self._read_failures += 1
+            if not self._connected:
+                return
+
+            self._connected = False
+            logger.warning("Camera disconnected. Starting auto-reconnect sequence...")
+
+        # Publish CAMERA_DISCONNECTED
+        self._bus.publish(
+            EventEnvelope.create(
+                event_type=EventType.CAMERA_DISCONNECTED,
+                source=self._name,
+                payload=CameraPayload(
+                    frame_id=str(uuid.uuid4()),
+                    timestamp=self._utcnow(),
+                    resolution=f"{self._resolution[0]}x{self._resolution[1]}",
+                    frame_number=self._frames_captured,
+                    capture_latency_ms=0.0,
+                    camera_index=self._camera_index,
+                    status="DISCONNECTED",
+                ),
+            )
+        )
+
+        if not self._auto_reconnect:
+            raise CameraError(f"Camera {self._name} disconnected and auto-reconnect is disabled.")
+
+        # Attempt Reconnection Loop
+        reconnected = False
+        while self._running and not reconnected:
+            with self._lock:
+                self._reconnect_count += 1
+
+            logger.info("Attempting camera reconnection (attempt %d)...", self._reconnect_count)
+            if self.initialize():
+                reconnected = True
+                # Publish CAMERA_RECONNECTED
+                self._bus.publish(
+                    EventEnvelope.create(
+                        event_type=EventType.CAMERA_RECONNECTED,
+                        source=self._name,
+                        payload=CameraPayload(
+                            frame_id=str(uuid.uuid4()),
+                            timestamp=self._utcnow(),
+                            resolution=f"{self._resolution[0]}x{self._resolution[1]}",
+                            frame_number=self._frames_captured,
+                            capture_latency_ms=0.0,
+                            camera_index=self._camera_index,
+                            status="RECONNECTED",
+                        ),
+                    )
+                )
+                logger.info("Camera reconnected successfully.")
+                break
+
+            time.sleep(self._reconnect_delay)
+
+    # ─────────────────────────────────────────────────────────────────────────
+    # Diagnostics & Status Helpers
+    # ─────────────────────────────────────────────────────────────────────────
+
+    def health(self) -> dict[str, Any]:
+        """Get health monitoring snapshot."""
+        with self._lock:
+            status_str = "healthy" if self._connected else "degraded"
+            if not self._running:
+                status_str = "stopped"
+
+            return {
+                "status": status_str,
+                "connected": self._connected,
+                "is_mock": self._is_mock,
+                "read_failures": self._read_failures,
+                "reconnect_count": self._reconnect_count,
+            }
+
+    def diagnostics(self) -> dict[str, Any]:
+        """Get diagnostics statistics payload."""
+        with self._lock:
+            uptime_sec = time.perf_counter() - self._start_time if self._start_time else 0.0
+            avg_latency = (
+                self._total_capture_ms / self._frames_captured if self._frames_captured > 0 else 0.0
+            )
+
+            return {
+                "current_fps": round(self._current_fps, 2),
+                "frames_captured": self._frames_captured,
+                "frames_dropped": self._frames_dropped,
+                "reconnect_count": self._reconnect_count,
+                "capture_latency_ms": round(avg_latency, 3),
+                "uptime_seconds": round(uptime_sec, 3),
+                "camera_properties": {
+                    "camera_index": self._camera_index,
+                    "resolution": f"{self._resolution[0]}x{self._resolution[1]}",
+                    "target_fps": self._fps,
+                    "is_mock_fallback": self._is_mock,
+                },
+                "health": self.health(),
+            }
+
+    def set_correlation_context(self, session_id: str | None, correlation_id: str | None) -> None:
         """Inject active session/correlation context for tracing."""
         with self._lock:
             self._session_id = session_id
@@ -492,5 +691,4 @@ class CameraService:
 
     def _utcnow(self) -> datetime:
         """Return timezone-aware UTC datetime."""
-        from datetime import datetime, timezone
         return datetime.now(timezone.utc)

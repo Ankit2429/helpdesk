@@ -1,10 +1,9 @@
+import json
 import logging
 import time
-import json
 import uuid
-import os
 from pathlib import Path
-from typing import Any, Dict, List, Optional
+from typing import Any
 
 logger = logging.getLogger("campus_helpdesk.tracer")
 
@@ -14,7 +13,7 @@ class DiagnosticTracer:
 
     def __new__(cls, *args, **kwargs):
         if not cls._instance:
-            cls._instance = super(DiagnosticTracer, cls).__new__(cls, *args, **kwargs)
+            cls._instance = super().__new__(cls, *args, **kwargs)
             cls._instance._initialized = False
         return cls._instance
 
@@ -26,7 +25,7 @@ class DiagnosticTracer:
         self.diagnostics_log_path = self.log_dir / "retrieval_diagnostics.jsonl"
         self._initialized = True
 
-    def start_span(self, query: str) -> Dict[str, Any]:
+    def start_span(self, query: str) -> dict[str, Any]:
         """Start a trace span for a user request."""
         return {
             "trace_id": str(uuid.uuid4()),
@@ -36,7 +35,7 @@ class DiagnosticTracer:
             "inference": {}
         }
 
-    def log_retrieval_step(self, span: Dict[str, Any], vector_candidates: List[Dict], bm25_candidates: List[Dict], rrf_output: List[Dict], confidence_score: float, latency_ms: float):
+    def log_retrieval_step(self, span: dict[str, Any], vector_candidates: list[dict], bm25_candidates: list[dict], rrf_output: list[dict], confidence_score: float, latency_ms: float):
         """Log diagnostic data for the retrieval and ranking phase."""
         span["retrieval"] = {
             "vector_candidates": [c.get("source", "") for c in vector_candidates[:5]],
@@ -47,7 +46,7 @@ class DiagnosticTracer:
         }
         logger.info(f"Trace {span['trace_id']} - Retrieval Complete: latency={latency_ms:.1f}ms, confidence={confidence_score:.2f}")
 
-    def log_inference_step(self, span: Dict[str, Any], selected_contexts: List[str], answer: str, latency_ms: float):
+    def log_inference_step(self, span: dict[str, Any], selected_contexts: list[str], answer: str, latency_ms: float):
         """Log diagnostic data for LLM generation."""
         span["inference"] = {
             "selected_contexts": selected_contexts,

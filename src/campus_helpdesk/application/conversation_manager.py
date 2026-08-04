@@ -15,8 +15,7 @@ from __future__ import annotations
 import enum
 import logging
 import threading
-import time
-from typing import Any, Callable, Dict, Optional
+from collections.abc import Callable
 
 from campus_helpdesk.application.rag_chat_service import RAGChatService
 from campus_helpdesk.infrastructure.audio.stt_service import FasterWhisperSTTService
@@ -58,12 +57,12 @@ class ConversationManager:
 
     def __init__(
         self,
-        chat_service: Optional[RAGChatService] = None,
-        stt_service: Optional[FasterWhisperSTTService] = None,
-        tts_service: Optional[NonBlockingTTSService] = None,
-        event_bus: Optional[EventBus] = None,
-        on_state_changed: Optional[Callable[[AssistantState, str], None]] = None,
-        on_transcript_updated: Optional[Callable[[str, bool], None]] = None,
+        chat_service: RAGChatService | None = None,
+        stt_service: FasterWhisperSTTService | None = None,
+        tts_service: NonBlockingTTSService | None = None,
+        event_bus: EventBus | None = None,
+        on_state_changed: Callable[[AssistantState, str], None] | None = None,
+        on_transcript_updated: Callable[[str, bool], None] | None = None,
         session_id: str = "voice-kiosk-session",
         max_history_turns: int = 5,
     ) -> None:
@@ -83,7 +82,7 @@ class ConversationManager:
         self._lock = threading.Lock()
         self._stt_stop_event = threading.Event()
         self._generation_cancel_event = threading.Event()
-        self._active_thread: Optional[threading.Thread] = None
+        self._active_thread: threading.Thread | None = None
 
     def add_user_message(self, content: str) -> None:
         """Add user message to conversation memory."""

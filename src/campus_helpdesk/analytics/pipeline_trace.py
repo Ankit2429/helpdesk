@@ -1,7 +1,7 @@
 import uuid
-import time
 from datetime import datetime
-from typing import Dict, Any
+from typing import Any
+
 
 class PipelineTrace:
     """Utility class for creating and handling trace IDs and event payloads.
@@ -26,9 +26,9 @@ class PipelineTrace:
         component: str,
         event_type: str,
         latency_ms: float = None,
-        metadata: Dict[str, Any] = None,
+        metadata: dict[str, Any] = None,
         severity: str = "INFO",
-    ) -> Dict[str, Any]:
+    ) -> dict[str, Any]:
         """Create a normalized payload for an analytics event.
 
         Parameters

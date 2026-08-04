@@ -16,8 +16,8 @@ from __future__ import annotations
 import logging
 import threading
 from collections import defaultdict
-from datetime import datetime, timezone
-from typing import TYPE_CHECKING, Any, Dict, List, Optional
+from datetime import UTC, datetime
+from typing import TYPE_CHECKING, Any
 
 if TYPE_CHECKING:
     from campus_helpdesk.analytics.event_bus import EventBus
@@ -44,8 +44,8 @@ class KnowledgeAnalytics:
 
     def __init__(
         self,
-        store: "MetricsStore",
-        event_bus: Optional["EventBus"] = None,
+        store: MetricsStore,
+        event_bus: EventBus | None = None,
         max_unknown_questions: int = 200,
     ) -> None:
         self._store = store
@@ -53,18 +53,18 @@ class KnowledgeAnalytics:
         self._max_unknown = max_unknown_questions
 
         # Document access frequency: source_path -> count
-        self._doc_access: Dict[str, int] = defaultdict(int)
+        self._doc_access: dict[str, int] = defaultdict(int)
         # Chunk access frequency: chunk_id -> count
-        self._chunk_access: Dict[str, int] = defaultdict(int)
+        self._chunk_access: dict[str, int] = defaultdict(int)
 
         # Knowledge gaps: questions that got no useful retrieval results
-        self._unknown_questions: List[Dict[str, Any]] = []
+        self._unknown_questions: list[dict[str, Any]] = []
         self._total_events: int = 0
 
         if event_bus is not None:
             self._subscribe(event_bus)
 
-    def _subscribe(self, bus: "EventBus") -> None:
+    def _subscribe(self, bus: EventBus) -> None:
         bus.subscribe(self.EVENT_RETRIEVAL_COMPLETED, self.handle_retrieval_completed)
         bus.subscribe(self.EVENT_QUERY_FAILED, self.handle_query_failed)
         logger.debug("KnowledgeAnalytics subscribed to EventBus.")
@@ -73,7 +73,7 @@ class KnowledgeAnalytics:
     # Event handlers
     # ------------------------------------------------------------------
 
-    def handle_retrieval_completed(self, payload: Dict[str, Any]) -> None:
+    def handle_retrieval_completed(self, payload: dict[str, Any]) -> None:
         """Process retrieval results to update document and chunk access stats."""
         try:
             meta = payload.get("metadata", {})
@@ -105,7 +105,7 @@ class KnowledgeAnalytics:
         except Exception:
             logger.exception("Error in KnowledgeAnalytics.handle_retrieval_completed.")
 
-    def handle_query_failed(self, payload: Dict[str, Any]) -> None:
+    def handle_query_failed(self, payload: dict[str, Any]) -> None:
         """Record queries that failed as potential knowledge gaps."""
         try:
             meta = payload.get("metadata", {})
@@ -122,7 +122,7 @@ class KnowledgeAnalytics:
         entry = {
             "question": query,
             "score": score,
-            "timestamp": datetime.now(timezone.utc).isoformat(),
+            "timestamp": datetime.now(UTC).isoformat(),
         }
         self._unknown_questions.append(entry)
         if len(self._unknown_questions) > self._max_unknown:
@@ -132,7 +132,7 @@ class KnowledgeAnalytics:
     # Analysis
     # ------------------------------------------------------------------
 
-    def get_most_accessed_documents(self, top_n: int = 20) -> List[Dict[str, Any]]:
+    def get_most_accessed_documents(self, top_n: int = 20) -> list[dict[str, Any]]:
         """Return the ``top_n`` most accessed documents."""
         with self._lock:
             sorted_docs = sorted(
@@ -140,7 +140,7 @@ class KnowledgeAnalytics:
             )[:top_n]
             return [{"document": doc, "access_count": count} for doc, count in sorted_docs]
 
-    def get_least_accessed_documents(self, top_n: int = 20) -> List[Dict[str, Any]]:
+    def get_least_accessed_documents(self, top_n: int = 20) -> list[dict[str, Any]]:
         """Return the ``top_n`` least accessed documents (potential stale content)."""
         with self._lock:
             sorted_docs = sorted(
@@ -148,12 +148,12 @@ class KnowledgeAnalytics:
             )[:top_n]
             return [{"document": doc, "access_count": count} for doc, count in sorted_docs]
 
-    def get_unknown_questions(self) -> List[Dict[str, Any]]:
+    def get_unknown_questions(self) -> list[dict[str, Any]]:
         """Return collected unknown / low-score questions."""
         with self._lock:
             return list(self._unknown_questions)
 
-    def get_stats(self) -> Dict[str, Any]:
+    def get_stats(self) -> dict[str, Any]:
         """Return comprehensive knowledge analytics statistics."""
         with self._lock:
             return {
@@ -175,7 +175,7 @@ class KnowledgeAnalytics:
                         reverse=True,
                     )[:10]
                 ),
-                "snapshot_time": datetime.now(timezone.utc).isoformat(),
+                "snapshot_time": datetime.now(UTC).isoformat(),
             }
 
     def reset(self) -> None:

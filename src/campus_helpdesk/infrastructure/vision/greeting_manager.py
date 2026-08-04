@@ -10,7 +10,6 @@ import datetime
 import logging
 import random
 import time
-from typing import List, Optional
 
 logger = logging.getLogger("campus_helpdesk.greeting_manager")
 
@@ -24,7 +23,7 @@ class GreetingManager:
     def __init__(self, cooldown_seconds: float = 7.0) -> None:
         self.cooldown_seconds = cooldown_seconds
         self.last_greeting_time: float = 0.0
-        self.last_greeted_user_id: Optional[int] = None
+        self.last_greeted_user_id: int | None = None
 
         self.multilingual_greetings = {
             "en": {
@@ -62,7 +61,7 @@ class GreetingManager:
             },
         }
 
-    def is_cooldown_active(self, user_id: Optional[int] = None) -> bool:
+    def is_cooldown_active(self, user_id: int | None = None) -> bool:
         """Check if greeting cooldown is active."""
         now = time.time()
         elapsed = now - self.last_greeting_time
@@ -70,7 +69,7 @@ class GreetingManager:
             return True
         return False
 
-    def generate_greeting(self, user_name: Optional[str] = None, user_id: Optional[int] = None, language: str = "en") -> str:
+    def generate_greeting(self, user_name: str | None = None, user_id: int | None = None, language: str = "en") -> str:
         """
         Generate time-aware or random greeting string in the active conversation language.
         """

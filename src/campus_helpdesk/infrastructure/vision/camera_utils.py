@@ -12,14 +12,14 @@ import logging
 import os
 import sys
 import time
-from typing import Any, Dict, List, Optional, Tuple
+from typing import Any
 
 import cv2
 
 logger = logging.getLogger("campus_helpdesk.camera_utils")
 
 
-def get_opencv_info() -> Dict[str, Any]:
+def get_opencv_info() -> dict[str, Any]:
     """Return OpenCV version and system platform metadata."""
     return {
         "opencv_version": cv2.__version__,
@@ -29,7 +29,7 @@ def get_opencv_info() -> Dict[str, Any]:
     }
 
 
-def scan_available_cameras(max_indices: int = 4) -> List[Dict[str, Any]]:
+def scan_available_cameras(max_indices: int = 4) -> list[dict[str, Any]]:
     """
     Probe system video devices across camera indices (0..max_indices-1).
 
@@ -88,10 +88,10 @@ def scan_available_cameras(max_indices: int = 4) -> List[Dict[str, Any]]:
 
 def open_camera_intelligently(
     requested_index: int = 0,
-    resolution: Tuple[int, int] = (1280, 720),
+    resolution: tuple[int, int] = (1280, 720),
     target_fps: int = 30,
-    fallback_indices: Optional[List[int]] = None,
-) -> Tuple[Optional[cv2.VideoCapture], Dict[str, Any]]:
+    fallback_indices: list[int] | None = None,
+) -> tuple[cv2.VideoCapture | None, dict[str, Any]]:
     """
     Intelligently open a hardware camera device with DirectShow on Windows,
     buffer size optimization, multi-index fallback, and diagnostics.

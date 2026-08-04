@@ -37,10 +37,9 @@ import numpy as np
 import sounddevice as sd
 import webrtcvad
 
+from campus_helpdesk.application.exceptions import AudioError
 from campus_helpdesk.interaction.event_bus import EventBus
 from campus_helpdesk.interaction.events import EventEnvelope, EventType, VoicePayload
-
-from campus_helpdesk.application.exceptions import AudioError
 
 logger = logging.getLogger(__name__)
 

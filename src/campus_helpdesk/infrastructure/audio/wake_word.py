@@ -9,7 +9,7 @@ from __future__ import annotations
 import logging
 import threading
 import time
-from typing import Callable, Optional
+from collections.abc import Callable
 
 import numpy as np
 import sounddevice as sd
@@ -39,8 +39,8 @@ class WakeWordDetector:
         wake_phrase: str = "Hey Campus",
         sensitivity: float = 0.5,
         sample_rate: int = 16000,
-        device_index: Optional[int] = None,
-        on_wake_detected: Optional[Callable[[], None]] = None,
+        device_index: int | None = None,
+        on_wake_detected: Callable[[], None] | None = None,
     ) -> None:
         self.wake_phrase = wake_phrase
         self.sensitivity = sensitivity
@@ -49,7 +49,7 @@ class WakeWordDetector:
         self.on_wake_detected = on_wake_detected
 
         self._running = False
-        self._thread: Optional[threading.Thread] = None
+        self._thread: threading.Thread | None = None
         self._stop_event = threading.Event()
         self._lock = threading.Lock()
         self._openwakeword_model = None

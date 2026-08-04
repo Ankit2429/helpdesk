@@ -16,27 +16,34 @@ import logging
 import signal
 import sys
 import time
+from typing import Any
 
+from campus_helpdesk.application.query_rewriter import QueryRewriter
+from campus_helpdesk.application.rag_chat_service import DEFAULT_SYSTEM_PROMPT, RAGChatService
+from campus_helpdesk.application.session_manager import SessionManager
 from campus_helpdesk.config.logging import configure_logging
 from campus_helpdesk.config.settings import get_settings
+from campus_helpdesk.infrastructure.llm.factory import create_llm_service
+from campus_helpdesk.infrastructure.rag.confidence_engine import ConfidenceEngine
+from campus_helpdesk.infrastructure.rag.factory import create_rag_pipeline
+from campus_helpdesk.infrastructure.rag.prompt_context_builder import PromptContextBuilder
 from campus_helpdesk.interaction.event_bus import EventBus
 from campus_helpdesk.runtime.system_runtime import SystemRuntime
-
-from campus_helpdesk.services.camera_service import CameraService
-from campus_helpdesk.services.vision_service import VisionService
-from campus_helpdesk.services.vad_service import VADService
-from campus_helpdesk.services.stt_service import STTService, FasterWhisperBackend, MockTranscriptionBackend
-from campus_helpdesk.services.inference_adapter import InferenceAdapter, LocalRAGBackend, MockInferenceBackend
-from campus_helpdesk.services.tts_service import TTSService, PiperBackend, MockSpeechBackend
-
-from campus_helpdesk.application.rag_chat_service import RAGChatService, DEFAULT_SYSTEM_PROMPT
-from campus_helpdesk.application.session_manager import SessionManager
-from campus_helpdesk.application.query_rewriter import QueryRewriter
-from campus_helpdesk.infrastructure.rag.confidence_engine import ConfidenceEngine
 from campus_helpdesk.services.answerability_engine import AnswerabilityEngine
-from campus_helpdesk.infrastructure.rag.prompt_context_builder import PromptContextBuilder
-from campus_helpdesk.infrastructure.rag.factory import create_rag_pipeline
-from campus_helpdesk.infrastructure.llm.factory import create_llm_service
+from campus_helpdesk.services.camera_service import CameraService
+from campus_helpdesk.services.inference_adapter import (
+    InferenceAdapter,
+    LocalRAGBackend,
+    MockInferenceBackend,
+)
+from campus_helpdesk.services.stt_service import (
+    FasterWhisperBackend,
+    MockTranscriptionBackend,
+    STTService,
+)
+from campus_helpdesk.services.tts_service import MockSpeechBackend, PiperBackend, TTSService
+from campus_helpdesk.services.vad_service import VADService
+from campus_helpdesk.services.vision_service import VisionService
 
 logger = logging.getLogger(__name__)
 

@@ -14,6 +14,7 @@ router = APIRouter(prefix="/chat", tags=["chat"])
 
 from pydantic import BaseModel
 
+
 class FeedbackRequest(BaseModel):
     query: str
     reply: str

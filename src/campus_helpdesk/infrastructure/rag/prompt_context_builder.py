@@ -1,7 +1,7 @@
 """Structured Prompt Context Builder for RAG retrieval."""
 
-import logging
 import hashlib
+import logging
 from collections.abc import Sequence
 from typing import Any
 

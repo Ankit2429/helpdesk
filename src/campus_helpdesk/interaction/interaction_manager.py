@@ -26,21 +26,18 @@ Design Principles
 from __future__ import annotations
 
 import logging
+import threading
 import time
 import uuid
-import threading
 from dataclasses import dataclass
 from typing import Any
 
 from campus_helpdesk.interaction.event_bus import EventBus, SubscriptionHandle
 from campus_helpdesk.interaction.events import (
-    AnswerPayload,
-    ErrorPayload,
     EventEnvelope,
     EventType,
     QueryPayload,
     SessionPayload,
-    SystemPayload,
     TimeoutPayload,
 )
 from campus_helpdesk.interaction.robot_state import (

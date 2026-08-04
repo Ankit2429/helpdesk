@@ -12,8 +12,8 @@ from __future__ import annotations
 import logging
 import threading
 from collections import defaultdict
-from datetime import datetime, timezone
-from typing import TYPE_CHECKING, Any, Dict, List, Optional
+from datetime import UTC, datetime
+from typing import TYPE_CHECKING, Any
 
 if TYPE_CHECKING:
     from campus_helpdesk.analytics.event_bus import EventBus
@@ -40,8 +40,8 @@ class RetrievalAnalytics:
 
     def __init__(
         self,
-        store: "MetricsStore",
-        event_bus: Optional["EventBus"] = None,
+        store: MetricsStore,
+        event_bus: EventBus | None = None,
         max_history: int = 500,
     ) -> None:
         self._store = store
@@ -49,18 +49,18 @@ class RetrievalAnalytics:
         self._max_history = max_history
 
         # Running score buffers (ring-buffer style)
-        self._retrieval_scores: List[float] = []
-        self._cross_encoder_scores: List[float] = []
-        self._unused_doc_counts: List[int] = []
+        self._retrieval_scores: list[float] = []
+        self._cross_encoder_scores: list[float] = []
+        self._unused_doc_counts: list[int] = []
 
         # Chunk hit frequency: chunk_id -> count
-        self._chunk_hits: Dict[str, int] = defaultdict(int)
+        self._chunk_hits: dict[str, int] = defaultdict(int)
         self._total_retrievals: int = 0
 
         if event_bus is not None:
             self._subscribe(event_bus)
 
-    def _subscribe(self, bus: "EventBus") -> None:
+    def _subscribe(self, bus: EventBus) -> None:
         bus.subscribe(self.EVENT_RETRIEVAL_COMPLETED, self.handle_retrieval_completed)
         logger.debug("RetrievalAnalytics subscribed to EventBus.")
 
@@ -68,7 +68,7 @@ class RetrievalAnalytics:
     # Event handler
     # ------------------------------------------------------------------
 
-    def handle_retrieval_completed(self, payload: Dict[str, Any]) -> None:
+    def handle_retrieval_completed(self, payload: dict[str, Any]) -> None:
         """Handle a ``RetrievalCompleted`` event.
 
         Expected payload metadata keys:
@@ -124,7 +124,7 @@ class RetrievalAnalytics:
     # Aggregation
     # ------------------------------------------------------------------
 
-    def get_stats(self) -> Dict[str, Any]:
+    def get_stats(self) -> dict[str, Any]:
         """Return current in-memory retrieval quality statistics."""
         with self._lock:
             avg_ret = (
@@ -153,7 +153,7 @@ class RetrievalAnalytics:
                 "avg_unused_docs": round(avg_unused, 2),
                 "top_chunks": dict(top_chunks),
                 "score_buffer_size": len(self._retrieval_scores),
-                "snapshot_time": datetime.now(timezone.utc).isoformat(),
+                "snapshot_time": datetime.now(UTC).isoformat(),
             }
 
     def reset(self) -> None:

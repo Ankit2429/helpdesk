@@ -7,7 +7,7 @@ import httpx
 from fastapi import APIRouter, Request
 from fastapi.responses import HTMLResponse, JSONResponse
 
-from campus_helpdesk.api.schemas.system import HealthResponse, RootResponse
+from campus_helpdesk.api.schemas.system import HealthResponse
 from campus_helpdesk.config.settings import Settings
 
 router = APIRouter(tags=["system"])

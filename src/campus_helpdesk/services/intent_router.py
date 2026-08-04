@@ -15,7 +15,7 @@ multilingual responses in English, Kannada, Hindi, Hinglish, or Kanglish.
 
 import enum
 import re
-from typing import NamedTuple, Optional, Dict
+from typing import NamedTuple
 
 
 class IntentType(enum.Enum):
@@ -30,7 +30,7 @@ class IntentType(enum.Enum):
 
 class IntentResult(NamedTuple):
     intent: IntentType
-    response: Optional[str] = None
+    response: str | None = None
     confidence: float = 1.0
 
 
@@ -76,7 +76,7 @@ class IntentRouter:
         re.IGNORECASE,
     )
 
-    RESPONSE_TEMPLATES: Dict[IntentType, Dict[str, str]] = {
+    RESPONSE_TEMPLATES: dict[IntentType, dict[str, str]] = {
         IntentType.GREETING: {
             "en": "Hello! Welcome to KLE Technological University (BVB Campus) AI Helpdesk. How can I assist you today?",
             "hi": "नमस्ते! केएलई टेक्नोलॉजिकल यूनिवर्सिटी (बीवीबी परिसर) एआई हेल्पडेस्क में आपका स्वागत है। मैं आज आपकी क्या सहायता कर सकता हूँ?",

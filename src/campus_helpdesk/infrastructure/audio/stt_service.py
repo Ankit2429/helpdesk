@@ -1,7 +1,7 @@
 """Offline Speech-to-Text service interface and PyTorch Whisper implementation."""
 
 import logging
-from typing import Optional, Protocol
+from typing import Protocol
 
 from campus_helpdesk.infrastructure.audio.tts_service import TTSService
 
@@ -18,7 +18,7 @@ class STTService(Protocol):
         self,
         timeout: int = 8,
         phrase_time_limit: int = 15,
-        tts_service: Optional[TTSService] = None,
+        tts_service: TTSService | None = None,
     ) -> str:
         """Record directly from microphone and transcribe speech to text."""
 
@@ -26,7 +26,7 @@ class STTService(Protocol):
         self,
         callback,
         stop_event,
-        tts_service: Optional[TTSService] = None,
+        tts_service: TTSService | None = None,
     ) -> None:
         """Stream record from microphone and transcribe in real-time."""
 
@@ -269,7 +269,7 @@ class FasterWhisperSTTService:
         self,
         timeout: int = 8,
         phrase_time_limit: int = 15,
-        tts_service: Optional[TTSService] = None,
+        tts_service: TTSService | None = None,
     ) -> str:
         """Record live audio from microphone and transcribe speech to text."""
         if tts_service is not None and hasattr(tts_service, "is_speaking"):
@@ -307,7 +307,7 @@ class FasterWhisperSTTService:
         self,
         callback,
         stop_event,
-        tts_service: Optional[TTSService] = None,
+        tts_service: TTSService | None = None,
     ) -> None:
         """Stream record from microphone and transcribe in real-time, calling callback with updates."""
         if tts_service is not None and hasattr(tts_service, "is_speaking"):
@@ -316,9 +316,10 @@ class FasterWhisperSTTService:
                 if hasattr(tts_service, "wait_until_done"):
                     tts_service.wait_until_done(timeout=10.0)
 
-        import pyaudio
-        import numpy as np
         import time
+
+        import numpy as np
+        import pyaudio
 
         device_index = self._select_microphone()
         

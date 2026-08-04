@@ -9,6 +9,7 @@ from threading import RLock
 from langchain_community.vectorstores import FAISS
 from langchain_core.documents import Document
 from langchain_core.embeddings import Embeddings
+
 from campus_helpdesk.application.exceptions import RetrievalError
 from campus_helpdesk.domain.knowledge import KnowledgeDocument, SearchResult
 

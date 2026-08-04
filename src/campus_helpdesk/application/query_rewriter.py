@@ -2,9 +2,6 @@
 
 import re
 from typing import Any
-from collections.abc import Sequence
-
-from campus_helpdesk.domain.conversation import ChatMessage
 
 
 class QueryRewriter:

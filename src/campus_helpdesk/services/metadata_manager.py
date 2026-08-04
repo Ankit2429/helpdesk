@@ -1,5 +1,5 @@
 import logging
-from typing import Dict, Any, List
+from typing import Any
 
 logger = logging.getLogger(__name__)
 
@@ -25,7 +25,7 @@ class MetadataManager:
     }
 
     @classmethod
-    def validate(cls, metadata: Dict[str, Any]) -> List[str]:
+    def validate(cls, metadata: dict[str, Any]) -> list[str]:
         """Validate metadata fields against controlled vocabularies.
         
         Returns a list of validation warnings/errors.
@@ -55,7 +55,7 @@ class MetadataManager:
         return warnings
 
     @classmethod
-    def format_frontmatter(cls, metadata: Dict[str, Any]) -> str:
+    def format_frontmatter(cls, metadata: dict[str, Any]) -> str:
         """Format metadata dict as YAML frontmatter block."""
         import yaml
         yaml_content = yaml.safe_dump(metadata, default_flow_style=False, sort_keys=False)

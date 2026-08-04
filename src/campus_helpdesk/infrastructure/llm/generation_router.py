@@ -1,9 +1,7 @@
 """Generation router for dynamic selection between Cloud LLM and Local LLM."""
 
 import logging
-from typing import Optional
 
-from campus_helpdesk.application.exceptions import CloudLLMServiceError, LLMServiceError
 from campus_helpdesk.application.llm_service import LLMService
 from campus_helpdesk.config.settings import Settings
 from campus_helpdesk.infrastructure.llm.connectivity_checker import ConnectivityChecker
@@ -17,10 +15,10 @@ class GenerationRouter(LLMService):
     def __init__(
         self,
         local_llm_service: LLMService,
-        cloud_llm_service: Optional[LLMService] = None,
-        connectivity_checker: Optional[ConnectivityChecker] = None,
+        cloud_llm_service: LLMService | None = None,
+        connectivity_checker: ConnectivityChecker | None = None,
         enable_router: bool = False,
-        settings: Optional[Settings] = None,
+        settings: Settings | None = None,
     ) -> None:
         """Initialize the GenerationRouter.
 

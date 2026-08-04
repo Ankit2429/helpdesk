@@ -2,11 +2,10 @@
 
 import logging
 import time
-import urllib.request
 import urllib.error
-from typing import Optional
+import urllib.request
 
-from campus_helpdesk.config.settings import Settings, get_settings
+from campus_helpdesk.config.settings import Settings
 
 logger = logging.getLogger(__name__)
 
@@ -19,7 +18,7 @@ class ConnectivityChecker:
         check_url: str = "https://1.1.1.1",
         timeout_seconds: float = 1.5,
         cache_ttl_seconds: float = 15.0,
-        settings: Optional[Settings] = None,
+        settings: Settings | None = None,
     ) -> None:
         if settings is not None:
             self.check_url = settings.connectivity_check_url

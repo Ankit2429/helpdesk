@@ -7,9 +7,9 @@ from __future__ import annotations
 
 import logging
 import threading
-import wave
-from typing import Callable, Optional
 import uuid
+from collections.abc import Callable
+
 from campus_helpdesk.infrastructure.audio.wake_word import WakeWordDetector
 from campus_helpdesk.interaction.event_bus import EventBus
 from campus_helpdesk.interaction.events import EventEnvelope, EventType, VoicePayload
@@ -24,8 +24,8 @@ class WakeWordService:
         event_bus: EventBus,
         wake_phrase: str = "Hey Helpdesk",
         sensitivity: float = 0.5,
-        device_index: Optional[int] = None,
-        on_wake_detected: Optional[Callable[[], None]] = None,
+        device_index: int | None = None,
+        on_wake_detected: Callable[[], None] | None = None,
     ) -> None:
         self.event_bus = event_bus
         self.wake_phrase = wake_phrase

@@ -1,12 +1,12 @@
 from threading import RLock
-from typing import List, Dict
+
 
 class ConversationMemory:
     """Thread-safe conversation memory storing message turns with size trimming."""
 
     def __init__(self, max_history_turns: int = 3):
         self.max_history_turns = max_history_turns
-        self.messages: List[Dict[str, str]] = []
+        self.messages: list[dict[str, str]] = []
         self._lock = RLock()
 
     def add_message(self, role: str, content: str):
@@ -18,7 +18,7 @@ class ConversationMemory:
             if len(self.messages) > max_messages:
                 self.messages = self.messages[-max_messages:]
 
-    def get_messages(self) -> List[Dict[str, str]]:
+    def get_messages(self) -> list[dict[str, str]]:
         """Return a copy of the active message history."""
         with self._lock:
             return list(self.messages)

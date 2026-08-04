@@ -1,5 +1,4 @@
 import logging
-from typing import List, Dict
 
 logger = logging.getLogger(__name__)
 
@@ -7,7 +6,7 @@ class AnswerabilityEngine:
     """Evaluates whether the retrieved context contains sufficient evidence to answer the query."""
 
     @staticmethod
-    def evaluate_answerability(query: str, contexts: List[Dict], confidence_level: str) -> str:
+    def evaluate_answerability(query: str, contexts: list[dict], confidence_level: str) -> str:
         """Evaluate context sufficiency. Returns: 'Supported', 'Partial', or 'Insufficient'."""
         if not contexts or confidence_level == "LOW":
             return "Insufficient"

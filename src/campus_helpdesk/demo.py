@@ -12,13 +12,12 @@ from campus_helpdesk.config.logging import configure_logging
 from campus_helpdesk.config.settings import get_settings
 from campus_helpdesk.infrastructure.audio.stt_service import FasterWhisperSTTService
 from campus_helpdesk.infrastructure.audio.tts_service import NonBlockingTTSService
-from campus_helpdesk.infrastructure.llm.ollama_service import OllamaLLMService
 from campus_helpdesk.infrastructure.rag.faiss_store import FAISSSimilarityStore
 from campus_helpdesk.infrastructure.rag.markdown_loader import MarkdownKnowledgeLoader
+from campus_helpdesk.infrastructure.rag.semantic_chunker import SemanticDocumentChunker
 from campus_helpdesk.infrastructure.rag.sentence_transformer_embeddings import (
     SentenceTransformerEmbeddings,
 )
-from campus_helpdesk.infrastructure.rag.semantic_chunker import SemanticDocumentChunker
 from campus_helpdesk.infrastructure.vision.person_detector import PersonDetector
 from campus_helpdesk.presentation.chat_window import ModernChatWindow
 

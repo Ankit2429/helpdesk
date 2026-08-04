@@ -4,7 +4,7 @@ import logging
 import queue
 import threading
 from pathlib import Path
-from typing import Any, Callable, Optional, Protocol
+from typing import Any, Protocol
 
 logger = logging.getLogger(__name__)
 
@@ -45,7 +45,7 @@ class NonBlockingTTSService:
         voice_model: str = "en_US-lessac-medium",
         piper_models_dir: str = "data/piper",
         use_cuda: bool = False,
-        on_speaking_state_changed: Optional[Any] = None,
+        on_speaking_state_changed: Any | None = None,
     ) -> None:
         self._default_voice_model = voice_model
         self._piper_models_dir = Path(piper_models_dir)

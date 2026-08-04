@@ -1,6 +1,5 @@
-import re
 import logging
-from typing import List, Dict
+import re
 
 logger = logging.getLogger(__name__)
 
@@ -8,7 +7,7 @@ class CitationValidator:
     """Verifies that generated citations exist in the retrieved context and strips fabricated ones."""
 
     @staticmethod
-    def validate_citations(response: str, contexts: List[Dict]) -> str:
+    def validate_citations(response: str, contexts: list[dict]) -> str:
         """Scan response text, detect citation brackets (e.g. [1]), and validate against context array.
         
         Removes citation brackets that reference out-of-bounds indices.

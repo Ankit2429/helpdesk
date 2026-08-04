@@ -16,8 +16,8 @@ from __future__ import annotations
 import logging
 import threading
 from collections import defaultdict
-from datetime import datetime, timezone
-from typing import TYPE_CHECKING, Any, Dict, Optional
+from datetime import UTC, datetime
+from typing import TYPE_CHECKING, Any
 
 if TYPE_CHECKING:
     from campus_helpdesk.analytics.event_bus import EventBus
@@ -44,15 +44,15 @@ class QueryAnalytics:
 
     def __init__(
         self,
-        store: "MetricsStore",
-        event_bus: Optional["EventBus"] = None,
+        store: MetricsStore,
+        event_bus: EventBus | None = None,
     ) -> None:
         self._store = store
         self._lock = threading.Lock()
 
         # In-memory counters (reset on explicit flush or read)
-        self._intent_counts: Dict[str, int] = defaultdict(int)
-        self._status_counts: Dict[str, int] = defaultdict(int)
+        self._intent_counts: dict[str, int] = defaultdict(int)
+        self._status_counts: dict[str, int] = defaultdict(int)
         self._followup_count: int = 0
         self._topic_switch_count: int = 0
         self._total_queries: int = 0
@@ -64,7 +64,7 @@ class QueryAnalytics:
     # EventBus wiring
     # ------------------------------------------------------------------
 
-    def _subscribe(self, bus: "EventBus") -> None:
+    def _subscribe(self, bus: EventBus) -> None:
         """Register handlers on the analytics EventBus."""
         bus.subscribe(self.EVENT_QUERY_RECEIVED, self.handle_query_received)
         bus.subscribe(self.EVENT_QUERY_COMPLETED, self.handle_query_completed)
@@ -75,7 +75,7 @@ class QueryAnalytics:
     # Event handlers
     # ------------------------------------------------------------------
 
-    def handle_query_received(self, payload: Dict[str, Any]) -> None:
+    def handle_query_received(self, payload: dict[str, Any]) -> None:
         """Handle a ``QueryReceived`` event.
 
         Expected payload keys (from :meth:`PipelineTrace.event_payload`):
@@ -106,7 +106,7 @@ class QueryAnalytics:
         except Exception:
             logger.exception("Error handling QueryReceived event.")
 
-    def handle_query_completed(self, payload: Dict[str, Any]) -> None:
+    def handle_query_completed(self, payload: dict[str, Any]) -> None:
         """Handle a ``QueryCompleted`` event and persist the query log."""
         try:
             meta = payload.get("metadata", {})
@@ -132,7 +132,7 @@ class QueryAnalytics:
         except Exception:
             logger.exception("Error handling QueryCompleted event.")
 
-    def handle_query_failed(self, payload: Dict[str, Any]) -> None:
+    def handle_query_failed(self, payload: dict[str, Any]) -> None:
         """Handle a ``QueryFailed`` event."""
         try:
             with self._lock:
@@ -159,7 +159,7 @@ class QueryAnalytics:
     # Aggregation
     # ------------------------------------------------------------------
 
-    def get_stats(self) -> Dict[str, Any]:
+    def get_stats(self) -> dict[str, Any]:
         """Return current in-memory aggregate statistics.
 
         Returns
@@ -177,7 +177,7 @@ class QueryAnalytics:
                 "status_distribution": dict(self._status_counts),
                 "followup_rate": round(self._followup_count / total, 4),
                 "topic_switch_rate": round(self._topic_switch_count / total, 4),
-                "snapshot_time": datetime.now(timezone.utc).isoformat(),
+                "snapshot_time": datetime.now(UTC).isoformat(),
             }
 
     def reset(self) -> None:

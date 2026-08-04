@@ -21,7 +21,7 @@ import os
 import platform
 import threading
 import time
-from typing import TYPE_CHECKING, Optional, Tuple
+from typing import TYPE_CHECKING
 
 if TYPE_CHECKING:
     from campus_helpdesk.analytics.metrics_store import MetricsStore
@@ -43,8 +43,8 @@ def _read_cpu_percent_linux() -> float:
     """
     try:
 
-        def _snapshot() -> Tuple[int, int]:
-            with open("/proc/stat", "r", encoding="utf-8") as fh:
+        def _snapshot() -> tuple[int, int]:
+            with open("/proc/stat", encoding="utf-8") as fh:
                 parts = fh.readline().split()
             # cpu user nice system idle iowait irq softirq steal guest guest_nice
             values = list(map(int, parts[1:]))
@@ -69,7 +69,7 @@ def _read_ram_used_mb_linux() -> float:
     """Read used RAM in MB from ``/proc/meminfo`` (Linux / RPi)."""
     try:
         mem: dict[str, int] = {}
-        with open("/proc/meminfo", "r", encoding="utf-8") as fh:
+        with open("/proc/meminfo", encoding="utf-8") as fh:
             for line in fh:
                 parts = line.split()
                 if len(parts) >= 2:
@@ -114,7 +114,7 @@ def _read_ram_used_mb_fallback() -> float:
 # ---------------------------------------------------------------------------
 
 
-def read_system_metrics() -> Tuple[float, float]:
+def read_system_metrics() -> tuple[float, float]:
     """Return ``(cpu_percent, ram_used_mb)`` using the best available method.
 
     On Linux / Raspberry Pi this reads ``/proc`` directly.  On other
@@ -143,13 +143,13 @@ class PerformanceMonitor:
 
     def __init__(
         self,
-        store: "MetricsStore",
+        store: MetricsStore,
         interval_seconds: float = 10.0,
     ) -> None:
         self._store = store
         self._interval = max(1.0, float(interval_seconds))
         self._stop_event = threading.Event()
-        self._thread: Optional[threading.Thread] = None
+        self._thread: threading.Thread | None = None
 
     # -- lifecycle -----------------------------------------------------------
 
@@ -192,7 +192,7 @@ class PerformanceMonitor:
 
     # -- one-shot convenience ------------------------------------------------
 
-    def snapshot(self) -> Tuple[float, float]:
+    def snapshot(self) -> tuple[float, float]:
         """Take and persist a single snapshot immediately.
 
         Returns ``(cpu_percent, ram_used_mb)``.

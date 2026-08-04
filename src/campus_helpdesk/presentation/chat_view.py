@@ -2,9 +2,9 @@ import datetime
 import logging
 import re
 import threading
-import time
-from typing import Any, Callable, Dict, List, Optional
-import tkinter as tk
+from collections.abc import Callable
+from typing import Any
+
 import customtkinter as ctk
 
 from campus_helpdesk.presentation.theme import ThemeEngine
@@ -25,11 +25,11 @@ class ChatView(ctk.CTkFrame):
         self,
         master: any,
         theme_engine: ThemeEngine,
-        ask_callback: Callable[[str, Optional[str]], Dict[str, Any]],
-        ask_stream_callback: Optional[Callable[[str, Optional[str]], Any]] = None,
-        stt_callback: Optional[Callable[[], str]] = None,
-        tts_service: Optional[Any] = None,
-        on_language_changed: Optional[Callable[[str], None]] = None,
+        ask_callback: Callable[[str, str | None], dict[str, Any]],
+        ask_stream_callback: Callable[[str, str | None], Any] | None = None,
+        stt_callback: Callable[[], str] | None = None,
+        tts_service: Any | None = None,
+        on_language_changed: Callable[[str], None] | None = None,
         show_sources: bool = True,
         **kwargs,
     ) -> None:
@@ -44,13 +44,13 @@ class ChatView(ctk.CTkFrame):
         self.selected_language = "en"
         self.is_recording = False
         self.show_sources = show_sources
-        self._last_sources: List[Dict[str, Any]] = []
+        self._last_sources: list[dict[str, Any]] = []
 
         self._cancel_event = threading.Event()
-        self._thinking_timer: Optional[str] = None
+        self._thinking_timer: str | None = None
         self._thinking_dot_count = 1
-        self._active_assistant_label: Optional[ctk.CTkLabel] = None
-        self._active_assistant_card: Optional[ctk.CTkFrame] = None
+        self._active_assistant_label: ctk.CTkLabel | None = None
+        self._active_assistant_card: ctk.CTkFrame | None = None
 
         self._build_ui()
         self._start_clock_timer()
@@ -263,7 +263,7 @@ class ChatView(ctk.CTkFrame):
         try:
             transcript = self.stt_callback()
             self.after(0, lambda: self._on_voice_transcript(transcript))
-        except Exception as e:
+        except Exception:
             self.after(0, lambda: self._on_voice_transcript(f"Voice error: {e}"))
 
     def _on_voice_transcript(self, transcript: str) -> None:
@@ -547,7 +547,7 @@ class ChatView(ctk.CTkFrame):
         if self._active_assistant_label:
             self._active_assistant_label.configure(text=text)
 
-    def _finalize_non_streamed_response(self, result: Dict[str, Any]) -> None:
+    def _finalize_non_streamed_response(self, result: dict[str, Any]) -> None:
         """Display non-streamed result in active assistant bubble and trigger TTS in parallel."""
         self._stop_thinking_animation()
         ans = result.get("answer", "") or "I could not retrieve an answer for your query."

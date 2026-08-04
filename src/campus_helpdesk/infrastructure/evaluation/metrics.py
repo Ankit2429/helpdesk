@@ -1,7 +1,6 @@
 """Calculates evaluation metrics for RAG retrieval and answer generation."""
 
-import math
-from typing import Sequence
+from collections.abc import Sequence
 
 
 def calculate_recall_at_k(retrieved_sources: Sequence[str], expected_sources: Sequence[str], k: int) -> float:

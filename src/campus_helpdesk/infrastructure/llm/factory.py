@@ -1,6 +1,7 @@
 """Factory for constructing configured LLM services and GenerationRouters."""
 
 import logging
+
 from campus_helpdesk.application.llm_service import LLMService
 from campus_helpdesk.config.settings import Settings
 from campus_helpdesk.infrastructure.llm.cloud_llm_service import CloudLLMService

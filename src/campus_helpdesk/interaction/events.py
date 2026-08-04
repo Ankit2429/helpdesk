@@ -55,7 +55,7 @@ from __future__ import annotations
 import json
 import uuid
 from dataclasses import dataclass, field
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 from enum import Enum, unique
 from typing import Any
 
@@ -401,7 +401,7 @@ class EventPriority(int, Enum):
 
 def _utcnow() -> datetime:
     """Return the current UTC time as a timezone-aware datetime."""
-    return datetime.now(tz=timezone.utc)
+    return datetime.now(tz=UTC)
 
 
 @dataclass(frozen=True)
@@ -433,7 +433,7 @@ class SystemPayload:
         }
 
     @classmethod
-    def from_dict(cls, data: dict[str, Any]) -> "SystemPayload":
+    def from_dict(cls, data: dict[str, Any]) -> SystemPayload:
         return cls(
             profile=str(data["profile"]),
             message=str(data["message"]),
@@ -485,7 +485,7 @@ class PersonDetectedPayload:
         }
 
     @classmethod
-    def from_dict(cls, data: dict[str, Any]) -> "PersonDetectedPayload":
+    def from_dict(cls, data: dict[str, Any]) -> PersonDetectedPayload:
         bb = data.get("bounding_box")
         return cls(
             confidence=float(data["confidence"]),
@@ -528,7 +528,7 @@ class PersonLeftPayload:
         }
 
     @classmethod
-    def from_dict(cls, data: dict[str, Any]) -> "PersonLeftPayload":
+    def from_dict(cls, data: dict[str, Any]) -> PersonLeftPayload:
         return cls(
             last_seen_at=datetime.fromisoformat(data["last_seen_at"]),
             frames_without_detection=int(data["frames_without_detection"]),
@@ -581,7 +581,7 @@ class VoicePayload:
         }
 
     @classmethod
-    def from_dict(cls, data: dict[str, Any]) -> "VoicePayload":
+    def from_dict(cls, data: dict[str, Any]) -> VoicePayload:
         return cls(
             audio_chunk_id=str(data["audio_chunk_id"]),
             duration_ms=int(data.get("duration_ms", 0)),
@@ -647,7 +647,7 @@ class TranscriptPayload:
         }
 
     @classmethod
-    def from_dict(cls, data: dict[str, Any]) -> "TranscriptPayload":
+    def from_dict(cls, data: dict[str, Any]) -> TranscriptPayload:
         return cls(
             text=str(data["text"]),
             is_final=bool(data["is_final"]),
@@ -706,7 +706,7 @@ class QueryPayload:
         }
 
     @classmethod
-    def from_dict(cls, data: dict[str, Any]) -> "QueryPayload":
+    def from_dict(cls, data: dict[str, Any]) -> QueryPayload:
         return cls(
             query=str(data["query"]),
             chunks_retrieved=int(data.get("chunks_retrieved", 0)),
@@ -774,7 +774,7 @@ class AnswerPayload:
         }
 
     @classmethod
-    def from_dict(cls, data: dict[str, Any]) -> "AnswerPayload":
+    def from_dict(cls, data: dict[str, Any]) -> AnswerPayload:
         return cls(
             answer=str(data["answer"]),
             confidence_score=float(data["confidence_score"]),
@@ -834,7 +834,7 @@ class TTSPayload:
         }
 
     @classmethod
-    def from_dict(cls, data: dict[str, Any]) -> "TTSPayload":
+    def from_dict(cls, data: dict[str, Any]) -> TTSPayload:
         return cls(
             text=str(data["text"]),
             voice_model=str(data["voice_model"]),
@@ -877,7 +877,7 @@ class SessionPayload:
         return {"reason": self.reason, "turns": self.turns}
 
     @classmethod
-    def from_dict(cls, data: dict[str, Any]) -> "SessionPayload":
+    def from_dict(cls, data: dict[str, Any]) -> SessionPayload:
         return cls(
             reason=str(data["reason"]),
             turns=int(data.get("turns", 0)),
@@ -928,7 +928,7 @@ class ErrorPayload:
         }
 
     @classmethod
-    def from_dict(cls, data: dict[str, Any]) -> "ErrorPayload":
+    def from_dict(cls, data: dict[str, Any]) -> ErrorPayload:
         return cls(
             service=str(data["service"]),
             error_type=str(data["error_type"]),
@@ -981,7 +981,7 @@ class WarningPayload:
         }
 
     @classmethod
-    def from_dict(cls, data: dict[str, Any]) -> "WarningPayload":
+    def from_dict(cls, data: dict[str, Any]) -> WarningPayload:
         return cls(
             service=str(data["service"]),
             metric=str(data["metric"]),
@@ -1031,7 +1031,7 @@ class TimeoutPayload:
         }
 
     @classmethod
-    def from_dict(cls, data: dict[str, Any]) -> "TimeoutPayload":
+    def from_dict(cls, data: dict[str, Any]) -> TimeoutPayload:
         return cls(
             state=str(data["state"]),
             timeout_duration_ms=int(data["timeout_duration_ms"]),
@@ -1100,7 +1100,7 @@ class CameraPayload:
         }
 
     @classmethod
-    def from_dict(cls, data: dict[str, Any]) -> "CameraPayload":
+    def from_dict(cls, data: dict[str, Any]) -> CameraPayload:
         return cls(
             frame_id=str(data["frame_id"]),
             timestamp=datetime.fromisoformat(data["timestamp"]),
@@ -1309,7 +1309,7 @@ class EventEnvelope:
         """Return metadata as a plain dictionary (creates a new dict each call)."""
         return dict(self.metadata)
 
-    def with_metadata(self, **kwargs: str) -> "EventEnvelope":
+    def with_metadata(self, **kwargs: str) -> EventEnvelope:
         """Return a new envelope with additional metadata entries merged in."""
         existing = self.get_metadata()
         existing.update(kwargs)
@@ -1352,7 +1352,7 @@ class EventEnvelope:
         }
 
     @classmethod
-    def from_dict(cls, data: dict[str, Any]) -> "EventEnvelope":
+    def from_dict(cls, data: dict[str, Any]) -> EventEnvelope:
         """Deserialise an envelope from a plain Python dictionary.
 
         Raises
@@ -1395,7 +1395,7 @@ class EventEnvelope:
         return json.dumps(self.to_dict(), ensure_ascii=False, indent=indent)
 
     @classmethod
-    def from_json(cls, raw: str) -> "EventEnvelope":
+    def from_json(cls, raw: str) -> EventEnvelope:
         """Deserialise an envelope from a JSON string."""
         return cls.from_dict(json.loads(raw))
 
@@ -1414,7 +1414,7 @@ class EventEnvelope:
         correlation_id: str | None = None,
         priority: EventPriority = EventPriority.NORMAL,
         metadata: dict[str, str] | None = None,
-    ) -> "EventEnvelope":
+    ) -> EventEnvelope:
         """Convenience factory that auto-generates ``event_id`` and ``timestamp``.
 
         Parameters
@@ -1451,7 +1451,7 @@ class EventEnvelope:
         payload: AnyPayload,  # type: ignore[valid-type]
         *,
         priority: EventPriority = EventPriority.NORMAL,
-    ) -> "EventEnvelope":
+    ) -> EventEnvelope:
         """Create a new envelope that is a response to this one.
 
         The returned envelope inherits ``session_id`` from this envelope and

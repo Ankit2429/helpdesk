@@ -1,7 +1,5 @@
 """Robot Mascot Canvas Badge Generator ("Sparky" Campus Assistant)."""
 
-import tkinter as tk
-from typing import Tuple
 import customtkinter as ctk
 
 

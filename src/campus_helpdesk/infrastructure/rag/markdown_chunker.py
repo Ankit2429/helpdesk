@@ -1,9 +1,8 @@
 """Hierarchical Markdown and Section-Aware Semantic Chunker."""
 
 import re
-from collections.abc import Sequence
 from pathlib import Path
-from typing import Any, Dict, List, Optional, Tuple
+from typing import Any
 
 from campus_helpdesk.domain.knowledge import KnowledgeDocument
 
@@ -60,14 +59,14 @@ class MarkdownSemanticChunker:
         self.max_chunk_chars = max_chunk_chars
         self.target_chunk_chars = target_chunk_chars
 
-    def _parse_blocks(self, text: str) -> List[Tuple[str, str]]:
+    def _parse_blocks(self, text: str) -> list[tuple[str, str]]:
         """Parses Markdown text into typed structural blocks.
 
         Returns list of tuples: (block_type, block_text)
         block_types: 'header', 'table', 'list', 'code', 'paragraph'
         """
         lines = text.splitlines()
-        blocks: List[Tuple[str, str]] = []
+        blocks: list[tuple[str, str]] = []
         i = 0
         n = len(lines)
 
@@ -139,7 +138,7 @@ class MarkdownSemanticChunker:
 
         return blocks
 
-    def split_document(self, document: KnowledgeDocument) -> List[KnowledgeDocument]:
+    def split_document(self, document: KnowledgeDocument) -> list[KnowledgeDocument]:
         """Splits Markdown document into section-aware chunks with hierarchical metadata."""
         content = document.content
         raw_metadata = dict(document.metadata)
@@ -170,8 +169,8 @@ class MarkdownSemanticChunker:
         h3 = ""
         current_heading_level = "H1"
 
-        section_chunks: List[Dict[str, Any]] = []
-        current_section_blocks: List[str] = []
+        section_chunks: list[dict[str, Any]] = []
+        current_section_blocks: list[str] = []
         current_section_chars = 0
 
         for block_type, block_text in blocks:
@@ -234,7 +233,7 @@ class MarkdownSemanticChunker:
             })
 
         # Merge tiny adjacent section chunks if < min_chunk_chars
-        merged_chunks: List[Dict[str, Any]] = []
+        merged_chunks: list[dict[str, Any]] = []
         for s_chunk in section_chunks:
             if merged_chunks and (len(merged_chunks[-1]["content"]) < self.min_chunk_chars or len(s_chunk["content"]) < self.min_chunk_chars):
                 prev = merged_chunks[-1]
@@ -247,7 +246,7 @@ class MarkdownSemanticChunker:
                 merged_chunks.append(s_chunk)
 
         # Build final KnowledgeDocument chunks with enriched breadcrumbs & metadata
-        output_chunks: List[KnowledgeDocument] = []
+        output_chunks: list[KnowledgeDocument] = []
         doc_type = "markdown" if source_file.endswith(".md") else "pdf_converted"
 
         for idx, sc in enumerate(merged_chunks, start=1):

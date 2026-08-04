@@ -1,7 +1,7 @@
-import time
 import logging
+import time
 from threading import RLock
-from typing import Dict, Tuple
+
 from campus_helpdesk.domain.memory.conversation_memory import ConversationMemory
 
 logger = logging.getLogger(__name__)
@@ -13,7 +13,7 @@ class SessionManager:
         self.ttl_seconds = ttl_seconds
         self.max_history_turns = max_history_turns
         # Maps session_id -> (ConversationMemory, last_activity_timestamp)
-        self.sessions: Dict[str, Tuple[ConversationMemory, float]] = {}
+        self.sessions: dict[str, tuple[ConversationMemory, float]] = {}
         self._lock = RLock()
 
     def get_or_create_session(self, session_id: str) -> ConversationMemory:

@@ -2,9 +2,9 @@ import json
 import logging
 import sqlite3
 import threading
-from datetime import datetime, timedelta, timezone
+from datetime import UTC, datetime, timedelta
 from pathlib import Path
-from typing import Any, Dict, List, Optional
+from typing import Any
 
 logger = logging.getLogger(__name__)
 
@@ -127,14 +127,14 @@ class MetricsStore:
             self._conn.executemany(sql, seq_of_params)
             self._conn.commit()
 
-    def fetchall(self, sql: str, params: tuple = ()) -> List[sqlite3.Row]:
+    def fetchall(self, sql: str, params: tuple = ()) -> list[sqlite3.Row]:
         """Execute a read query and return all rows."""
         with self._lock:
             cur = self._conn.cursor()
             cur.execute(sql, params)
             return cur.fetchall()
 
-    def fetchone(self, sql: str, params: tuple = ()) -> Optional[sqlite3.Row]:
+    def fetchone(self, sql: str, params: tuple = ()) -> sqlite3.Row | None:
         """Execute a read query and return the first row."""
         with self._lock:
             cur = self._conn.cursor()
@@ -145,8 +145,8 @@ class MetricsStore:
     # Insert helpers
     # -----------------------------------------------------------------
 
-    def insert_session(self, session_id: str, start_time: Optional[datetime] = None) -> None:
-        start_time = start_time or datetime.now(timezone.utc)
+    def insert_session(self, session_id: str, start_time: datetime | None = None) -> None:
+        start_time = start_time or datetime.now(UTC)
         self.execute(
             "INSERT OR IGNORE INTO sessions (session_id, start_time) VALUES (?, ?)",
             (session_id, start_time.strftime("%Y-%m-%d %H:%M:%S")),
@@ -155,10 +155,10 @@ class MetricsStore:
     def update_session_end(
         self,
         session_id: str,
-        end_time: Optional[datetime] = None,
+        end_time: datetime | None = None,
         turns_increment: int = 0,
     ) -> None:
-        end_time = end_time or datetime.now(timezone.utc)
+        end_time = end_time or datetime.now(UTC)
         with self._lock:
             self._conn.execute(
                 "UPDATE sessions SET end_time = ?, turns_count = turns_count + ? "
@@ -263,7 +263,7 @@ class MetricsStore:
     # Query helpers (used by DashboardGenerator / ReportGenerator)
     # -----------------------------------------------------------------
 
-    def get_query_stats(self, since: Optional[str] = None) -> Dict[str, Any]:
+    def get_query_stats(self, since: str | None = None) -> dict[str, Any]:
         """Return aggregate query statistics.
 
         Parameters
@@ -292,8 +292,8 @@ class MetricsStore:
         }
 
     def get_latency_percentiles(
-        self, since: Optional[str] = None
-    ) -> Dict[str, float]:
+        self, since: str | None = None
+    ) -> dict[str, float]:
         """Return latency percentiles (P50, P90, P99, avg)."""
         where = (
             "WHERE q.timestamp >= ? AND l.end_to_end IS NOT NULL"
@@ -322,11 +322,11 @@ class MetricsStore:
         }
 
     def get_alerts(
-        self, since: Optional[str] = None, unresolved_only: bool = False
-    ) -> List[Dict[str, Any]]:
+        self, since: str | None = None, unresolved_only: bool = False
+    ) -> list[dict[str, Any]]:
         """Fetch alerts, optionally filtered by time and resolution status."""
-        conditions: List[str] = []
-        params: List[Any] = []
+        conditions: list[str] = []
+        params: list[Any] = []
         if since:
             conditions.append("timestamp >= ?")
             params.append(since)
@@ -352,7 +352,7 @@ class MetricsStore:
         ``query_logs``.
         """
         cutoff = (
-            datetime.now(timezone.utc) - timedelta(days=retention_days)
+            datetime.now(UTC) - timedelta(days=retention_days)
         ).strftime("%Y-%m-%d %H:%M:%S")
 
         with self._lock:

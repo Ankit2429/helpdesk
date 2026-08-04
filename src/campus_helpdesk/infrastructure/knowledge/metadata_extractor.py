@@ -52,7 +52,7 @@ class MetadataExtractor:
         clean_text = body.strip()
         metadata["word_count"] = len(clean_text.split())
         metadata["sha256"] = hashlib.sha256(clean_text.encode("utf-8")).hexdigest()
-        metadata["processed_at"] = datetime.datetime.now(datetime.timezone.utc).isoformat()
+        metadata["processed_at"] = datetime.datetime.now(datetime.UTC).isoformat()
 
         if source_path:
             metadata["source_filename"] = source_path.name

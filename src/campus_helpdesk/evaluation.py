@@ -1,7 +1,6 @@
 """CLI entry point for running automated RAG benchmark evaluation suite."""
 
 import logging
-import sys
 from pathlib import Path
 
 from campus_helpdesk.config.settings import get_settings

@@ -1,6 +1,8 @@
 import threading
 from collections import defaultdict
-from typing import Callable, Any, Dict, List
+from collections.abc import Callable
+from typing import Any
+
 
 class EventBus:
     """Simple thread‑safe publish/subscribe event bus.
@@ -12,7 +14,7 @@ class EventBus:
     """
 
     def __init__(self):
-        self._subscribers: Dict[str, List[Callable[[Any], None]]] = defaultdict(list)
+        self._subscribers: dict[str, list[Callable[[Any], None]]] = defaultdict(list)
         self._lock = threading.RLock()
 
     def subscribe(self, event_name: str, handler: Callable[[Any], None]) -> None:

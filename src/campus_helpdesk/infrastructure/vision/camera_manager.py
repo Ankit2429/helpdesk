@@ -10,11 +10,10 @@ without frame buffer buildup or thread contention.
 from __future__ import annotations
 
 import logging
-import os
-import sys
 import threading
 import time
-from typing import Any, Callable, Dict, List, Optional, Tuple
+from collections.abc import Callable
+from typing import Any
 
 import cv2
 import numpy as np
@@ -29,7 +28,7 @@ class CameraManager:
     Thread-safe Singleton Camera Manager owning the physical webcam device.
     """
 
-    _instance: Optional[CameraManager] = None
+    _instance: CameraManager | None = None
     _singleton_lock = threading.Lock()
 
     @classmethod
@@ -45,16 +44,16 @@ class CameraManager:
             raise RuntimeError("CameraManager is a singleton. Use CameraManager.get_instance() instead.")
 
         self._lock = threading.RLock()
-        self._cap: Optional[cv2.VideoCapture] = None
-        self._camera_info: Dict[str, Any] = {}
+        self._cap: cv2.VideoCapture | None = None
+        self._camera_info: dict[str, Any] = {}
 
-        self._latest_frame: Optional[np.ndarray] = None
-        self._latest_annotated_frame: Optional[np.ndarray] = None
+        self._latest_frame: np.ndarray | None = None
+        self._latest_annotated_frame: np.ndarray | None = None
         self._frame_timestamp: float = 0.0
 
-        self._subscribers: List[Callable[[np.ndarray], None]] = []
+        self._subscribers: list[Callable[[np.ndarray], None]] = []
         self._running = False
-        self._capture_thread: Optional[threading.Thread] = None
+        self._capture_thread: threading.Thread | None = None
 
         # Diagnostics & Metrics
         self._frames_captured = 0
@@ -64,8 +63,8 @@ class CameraManager:
         self._detection_latency_ms = 0.0
 
         # Async Person Detection Thread
-        self._detector: Optional[Any] = None
-        self._detection_thread: Optional[threading.Thread] = None
+        self._detector: Any | None = None
+        self._detection_thread: threading.Thread | None = None
         self._person_detected = False
 
     def is_running(self) -> bool:
@@ -81,7 +80,7 @@ class CameraManager:
     def start_camera(
         self,
         requested_index: int = 0,
-        resolution: Tuple[int, int] = (1280, 720),
+        resolution: tuple[int, int] = (1280, 720),
         target_fps: int = 30,
     ) -> bool:
         """
@@ -145,7 +144,7 @@ class CameraManager:
             self._latest_annotated_frame = None
             logger.info("CameraManager stopped and VideoCapture released.")
 
-    def get_latest_frame(self) -> Tuple[Optional[np.ndarray], Optional[np.ndarray], Dict[str, Any]]:
+    def get_latest_frame(self) -> tuple[np.ndarray | None, np.ndarray | None, dict[str, Any]]:
         """
         Retrieve a copy of the latest captured frame, annotated frame, and diagnostics.
 

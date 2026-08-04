@@ -2,7 +2,6 @@
 
 from functools import lru_cache
 from threading import RLock
-from typing import List
 
 from langchain_core.embeddings import Embeddings
 from sentence_transformers import SentenceTransformer
@@ -38,13 +37,13 @@ class SentenceTransformerEmbeddings(Embeddings):
 
     # Legacy cached method retained for compatibility but not used in the new implementation.
     @lru_cache(maxsize=128)
-    def _cached_encode(self, text: str) -> List[float]:
+    def _cached_encode(self, text: str) -> list[float]:
         """Internal cached encode for a single text string (fallback)."""
         if self._model is None:
             self._model = self._get_model()
         return self._model.encode([text], normalize_embeddings=self._normalize_embeddings)[0].astype(float).tolist()
 
-    def encode(self, texts: List[str]) -> List[List[float]]:
+    def encode(self, texts: list[str]) -> list[list[float]]:
         """Encode a list of strings into embeddings with manual caching.
 
         This implementation caches individual text embeddings in an internal
@@ -54,9 +53,9 @@ class SentenceTransformerEmbeddings(Embeddings):
         # Ensure the cache dict exists
         if not hasattr(self, "_cache"):
             self._cache = {}
-        results: List[List[float]] = []
-        uncached_texts: List[str] = []
-        uncached_indices: List[int] = []
+        results: list[list[float]] = []
+        uncached_texts: list[str] = []
+        uncached_indices: list[int] = []
         for idx, txt in enumerate(texts):
             if txt in self._cache:
                 results.append(self._cache[txt])

@@ -1,7 +1,5 @@
-import os
 import logging
 from pathlib import Path
-from typing import Dict, Tuple
 
 logger = logging.getLogger(__name__)
 
@@ -9,18 +7,18 @@ class KBLoader:
     """Safely loads and parses markdown files containing YAML frontmatter."""
 
     @staticmethod
-    def load_document(filepath: str | Path) -> Tuple[Dict, str]:
+    def load_document(filepath: str | Path) -> tuple[dict, str]:
         """Read a markdown file and split into (metadata_dict, body_text)."""
         filepath = Path(filepath)
         if not filepath.exists():
             raise FileNotFoundError(f"Markdown document not found: {filepath}")
             
         try:
-            with open(filepath, "r", encoding="utf-8", errors="ignore") as f:
+            with open(filepath, encoding="utf-8", errors="ignore") as f:
                 content = f.read()
         except Exception as e:
             logger.error(f"Failed to read file {filepath}: {e}")
-            raise IOError(f"Failed to read file {filepath}: {e}")
+            raise OSError(f"Failed to read file {filepath}: {e}")
             
         metadata = {}
         body = content

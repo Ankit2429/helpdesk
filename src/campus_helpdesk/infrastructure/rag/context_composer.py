@@ -4,9 +4,9 @@ import difflib
 import logging
 from collections.abc import Sequence
 from pathlib import Path
-from typing import Any, Optional
+from typing import Any
 
-from campus_helpdesk.config.settings import Settings, get_settings
+from campus_helpdesk.config.settings import Settings
 from campus_helpdesk.domain.knowledge import SearchResult
 
 logger = logging.getLogger(__name__)
@@ -20,7 +20,7 @@ class ContextComposer:
         enable_composer: bool = True,
         dedup_threshold: float = 0.85,
         max_context_size: int = 7000,
-        settings: Optional[Settings] = None,
+        settings: Settings | None = None,
     ) -> None:
         """Initialize ContextComposer with deduplication threshold and budget constraints.
 

@@ -22,8 +22,8 @@ import logging
 import threading
 import time
 import uuid
-from datetime import datetime, timezone
-from typing import TYPE_CHECKING, Any, Dict, List, Optional
+from datetime import UTC, datetime
+from typing import TYPE_CHECKING, Any
 
 if TYPE_CHECKING:
     from campus_helpdesk.analytics.event_bus import EventBus
@@ -33,7 +33,7 @@ logger = logging.getLogger(__name__)
 
 
 # Default thresholds — can be overridden via config
-DEFAULT_THRESHOLDS: Dict[str, float] = {
+DEFAULT_THRESHOLDS: dict[str, float] = {
     "retrieval_latency_sec": 2.0,
     "llm_latency_sec": 5.0,
     "end_to_end_latency_sec": 8.0,
@@ -64,16 +64,16 @@ class Alert:
         alert_type: str,
         severity: str,
         message: str,
-        metadata: Optional[Dict[str, Any]] = None,
+        metadata: dict[str, Any] | None = None,
     ) -> None:
         self.alert_id: str = str(uuid.uuid4())
-        self.timestamp: str = datetime.now(timezone.utc).isoformat(timespec="seconds")
+        self.timestamp: str = datetime.now(UTC).isoformat(timespec="seconds")
         self.alert_type: str = alert_type
         self.severity: str = severity
         self.message: str = message
-        self.metadata: Dict[str, Any] = metadata or {}
+        self.metadata: dict[str, Any] = metadata or {}
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         return {
             "alert_id": self.alert_id,
             "timestamp": self.timestamp,
@@ -103,9 +103,9 @@ class AlertEngine:
 
     def __init__(
         self,
-        store: "MetricsStore",
-        event_bus: Optional["EventBus"] = None,
-        thresholds: Optional[Dict[str, float]] = None,
+        store: MetricsStore,
+        event_bus: EventBus | None = None,
+        thresholds: dict[str, float] | None = None,
         cooldown_seconds: float = DEFAULT_COOLDOWN_SEC,
     ) -> None:
         self._store = store
@@ -115,16 +115,16 @@ class AlertEngine:
         self._lock = threading.Lock()
 
         # Last alert timestamp per alert_type for cooldown enforcement
-        self._last_alert_time: Dict[str, float] = {}
+        self._last_alert_time: dict[str, float] = {}
 
         # In-memory recent alerts (bounded)
-        self._recent_alerts: List[Alert] = []
+        self._recent_alerts: list[Alert] = []
         self._max_recent = 100
 
         if event_bus is not None:
             self._subscribe(event_bus)
 
-    def _subscribe(self, bus: "EventBus") -> None:
+    def _subscribe(self, bus: EventBus) -> None:
         bus.subscribe("QueryCompleted", self._check_latency)
         bus.subscribe("RetrievalCompleted", self._check_retrieval_quality)
         bus.subscribe("SystemMetricRecorded", self._check_system_resources)
@@ -134,7 +134,7 @@ class AlertEngine:
     # Threshold checks
     # ------------------------------------------------------------------
 
-    def _check_latency(self, payload: Dict[str, Any]) -> None:
+    def _check_latency(self, payload: dict[str, Any]) -> None:
         """Check latency thresholds on QueryCompleted events."""
         try:
             meta = payload.get("metadata", {})
@@ -158,7 +158,7 @@ class AlertEngine:
         except Exception:
             logger.exception("AlertEngine: latency check failed.")
 
-    def _check_retrieval_quality(self, payload: Dict[str, Any]) -> None:
+    def _check_retrieval_quality(self, payload: dict[str, Any]) -> None:
         """Check retrieval score on RetrievalCompleted events."""
         try:
             meta = payload.get("metadata", {})
@@ -180,7 +180,7 @@ class AlertEngine:
         except Exception:
             logger.exception("AlertEngine: retrieval quality check failed.")
 
-    def _check_system_resources(self, payload: Dict[str, Any]) -> None:
+    def _check_system_resources(self, payload: dict[str, Any]) -> None:
         """Check CPU/RAM on SystemMetricRecorded events."""
         try:
             meta = payload.get("metadata", {})
@@ -217,8 +217,8 @@ class AlertEngine:
         alert_type: str,
         severity: str,
         message: str,
-        metadata: Optional[Dict[str, Any]] = None,
-    ) -> Optional[Alert]:
+        metadata: dict[str, Any] | None = None,
+    ) -> Alert | None:
         """Create, persist, and publish an alert if cooldown has elapsed.
 
         Returns the :class:`Alert` if raised, ``None`` if suppressed by
@@ -283,7 +283,7 @@ class AlertEngine:
     # Query
     # ------------------------------------------------------------------
 
-    def get_recent_alerts(self, limit: int = 50) -> List[Dict[str, Any]]:
+    def get_recent_alerts(self, limit: int = 50) -> list[dict[str, Any]]:
         """Return recent alerts from memory."""
         with self._lock:
             return [a.to_dict() for a in self._recent_alerts[-limit:]]

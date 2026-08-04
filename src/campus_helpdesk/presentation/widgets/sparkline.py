@@ -1,7 +1,5 @@
 """Live Latency Sparkline Chart Widget."""
 
-import tkinter as tk
-from typing import List
 import customtkinter as ctk
 
 
@@ -29,7 +27,7 @@ class LatencySparkline(ctk.CTkCanvas):
         self.w = width
         self.h = height
         self.line_color = line_color
-        self.data: List[float] = [45.0, 52.0, 48.0, 65.0, 55.0, 42.0, 58.0, 50.0, 57.6]
+        self.data: list[float] = [45.0, 52.0, 48.0, 65.0, 55.0, 42.0, 58.0, 50.0, 57.6]
 
         self.draw_chart()
 

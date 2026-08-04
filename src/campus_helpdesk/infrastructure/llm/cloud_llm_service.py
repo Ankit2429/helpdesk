@@ -2,9 +2,8 @@
 
 import json
 import logging
-import urllib.request
 import urllib.error
-from typing import Optional
+import urllib.request
 
 from campus_helpdesk.application.exceptions import CloudLLMServiceError
 from campus_helpdesk.application.llm_service import LLMService
@@ -22,7 +21,7 @@ class CloudLLMService(LLMService):
         model: str = "gemini-1.5-flash",
         provider: str = "gemini",
         timeout_seconds: float = 10.0,
-        settings: Optional[Settings] = None,
+        settings: Settings | None = None,
     ) -> None:
         if settings is not None:
             self.api_key = settings.cloud_llm_api_key.strip()

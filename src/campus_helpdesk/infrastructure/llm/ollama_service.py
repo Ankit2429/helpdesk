@@ -2,15 +2,12 @@
 
 from __future__ import annotations
 
+import logging
 from collections.abc import Mapping
 from typing import Protocol
 from urllib.parse import urlparse
 
-from ollama import Client
-
-from campus_helpdesk.application.exceptions import LLMServiceError, ConfigurationError
-import logging
-import time
+from campus_helpdesk.application.exceptions import ConfigurationError
 
 
 class OllamaClient(Protocol):

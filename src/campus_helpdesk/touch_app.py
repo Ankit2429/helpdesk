@@ -13,7 +13,8 @@ Run with:
 from __future__ import annotations
 
 import logging
-from typing import Any, Callable, Dict, Optional
+from collections.abc import Callable
+from typing import Any
 
 import customtkinter as ctk
 
@@ -70,7 +71,7 @@ def build_chat_service() -> RAGChatService:
 def make_ask_callback(chat_service: RAGChatService, session_id: str = "touch-kiosk"):
     """Adapt RAGChatService.respond() -> the dict shape ChatView expects."""
 
-    def ask(query: str, language: Optional[str] = None) -> Dict[str, Any]:
+    def ask(query: str, language: str | None = None) -> dict[str, Any]:
         prompt_query = query
         if language and language.lower() != "en":
             lang_code = language.lower()
@@ -100,7 +101,7 @@ def make_ask_callback(chat_service: RAGChatService, session_id: str = "touch-kio
 
     return ask
 
-def create_tts_service(on_speaking_state_changed: Optional[Callable[[bool], None]] = None) -> Optional[Any]:
+def create_tts_service(on_speaking_state_changed: Callable[[bool], None] | None = None) -> Any | None:
     """Initialize NonBlockingTTSService for real-time speech synthesis if available."""
     try:
         from campus_helpdesk.infrastructure.audio.tts_service import NonBlockingTTSService
@@ -122,7 +123,7 @@ def create_tts_service(on_speaking_state_changed: Optional[Callable[[bool], None
 def make_ask_stream_callback(chat_service: RAGChatService, session_id: str = "touch-kiosk"):
     """Adapt RAGChatService.respond_stream() for token-by-token streaming."""
 
-    def ask_stream(query: str, language: Optional[str] = None):
+    def ask_stream(query: str, language: str | None = None):
         prompt_query = query
         if language and language.lower() != "en":
             lang_code = language.lower()
@@ -162,7 +163,7 @@ class TouchApp(ctk.CTk):
         ask_stream_callback = make_ask_stream_callback(chat_service)
         tts_service = create_tts_service(on_speaking_state_changed=self._handle_tts_speaking_changed)
         # Initialize single STT service instance
-        self.stt_service: Optional[Any] = None
+        self.stt_service: Any | None = None
         try:
             from campus_helpdesk.infrastructure.audio.stt_service import FasterWhisperSTTService
             settings = get_settings()
@@ -215,13 +216,13 @@ class TouchApp(ctk.CTk):
         self.chat_view.grid(row=0, column=0, sticky="nsew", padx=12, pady=12)
 
         # 2. Wire ConversationManager & WakeWordService if audio services available
-        self.conv_manager: Optional[Any] = None
-        self.wake_service: Optional[Any] = None
+        self.conv_manager: Any | None = None
+        self.wake_service: Any | None = None
 
         try:
             from campus_helpdesk.application.conversation_manager import ConversationManager
-            from campus_helpdesk.services.wake_word_service import WakeWordService
             from campus_helpdesk.interaction.event_bus import EventBus
+            from campus_helpdesk.services.wake_word_service import WakeWordService
 
             bus = EventBus()
             if self.stt_service:

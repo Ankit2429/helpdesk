@@ -255,7 +255,7 @@ class Settings(BaseSettings):
         if config_path.exists():
             import yaml
             try:
-                with open(config_path, "r", encoding="utf-8") as f:
+                with open(config_path, encoding="utf-8") as f:
                     yaml_data = yaml.safe_load(f) or {}
                 # Flatten the nested structure
                 if "app" in yaml_data:

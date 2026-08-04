@@ -12,8 +12,8 @@ from __future__ import annotations
 
 import logging
 import sqlite3
-from datetime import datetime, timedelta, timezone
-from typing import TYPE_CHECKING, Any, Dict, List, Optional
+from datetime import UTC, datetime, timedelta
+from typing import TYPE_CHECKING, Any
 
 if TYPE_CHECKING:
     from campus_helpdesk.analytics.metrics_store import MetricsStore
@@ -30,14 +30,14 @@ class DashboardGenerator:
         The SQLite persistence backend to query.
     """
 
-    def __init__(self, store: "MetricsStore") -> None:
+    def __init__(self, store: MetricsStore) -> None:
         self._store = store
 
     # ------------------------------------------------------------------
     # Public API
     # ------------------------------------------------------------------
 
-    def generate(self, time_window_hours: int = 24) -> Dict[str, Any]:
+    def generate(self, time_window_hours: int = 24) -> dict[str, Any]:
         """Generate a complete dashboard payload.
 
         Parameters
@@ -51,7 +51,7 @@ class DashboardGenerator:
             Keys: ``summary``, ``latency``, ``quality``, ``system_health``,
             ``recent_queries``, ``generated_at``.
         """
-        cutoff = datetime.now(timezone.utc) - timedelta(hours=time_window_hours)
+        cutoff = datetime.now(UTC) - timedelta(hours=time_window_hours)
         # Use strftime to match SQLite CURRENT_TIMESTAMP format (no tz, space sep)
         cutoff_str = cutoff.strftime("%Y-%m-%d %H:%M:%S")
 
@@ -61,7 +61,7 @@ class DashboardGenerator:
             "quality": self._get_quality_stats(cutoff_str),
             "system_health": self._get_system_health(cutoff_str),
             "recent_queries": self._get_recent_queries(limit=20),
-            "generated_at": datetime.now(timezone.utc).isoformat(),
+            "generated_at": datetime.now(UTC).isoformat(),
             "time_window_hours": time_window_hours,
         }
 
@@ -69,7 +69,7 @@ class DashboardGenerator:
     # Private query helpers
     # ------------------------------------------------------------------
 
-    def _query(self, sql: str, params: tuple = ()) -> List[sqlite3.Row]:
+    def _query(self, sql: str, params: tuple = ()) -> list[sqlite3.Row]:
         """Execute a read query against the store's connection."""
         try:
             with self._store._lock:
@@ -80,11 +80,11 @@ class DashboardGenerator:
             logger.exception("Dashboard query failed: %s", sql[:80])
             return []
 
-    def _query_one(self, sql: str, params: tuple = ()) -> Optional[sqlite3.Row]:
+    def _query_one(self, sql: str, params: tuple = ()) -> sqlite3.Row | None:
         rows = self._query(sql, params)
         return rows[0] if rows else None
 
-    def _get_summary(self, cutoff: str) -> Dict[str, Any]:
+    def _get_summary(self, cutoff: str) -> dict[str, Any]:
         """Overall query volume and status breakdown."""
         total_row = self._query_one(
             "SELECT COUNT(*) as cnt FROM query_logs WHERE timestamp >= ?",
@@ -114,7 +114,7 @@ class DashboardGenerator:
             ),
         }
 
-    def _get_latency_stats(self, cutoff: str) -> Dict[str, Any]:
+    def _get_latency_stats(self, cutoff: str) -> dict[str, Any]:
         """Latency percentiles and averages."""
         rows = self._query(
             "SELECT end_to_end FROM latency_logs l "
@@ -143,7 +143,7 @@ class DashboardGenerator:
             "sample_count": n,
         }
 
-    def _get_quality_stats(self, cutoff: str) -> Dict[str, Any]:
+    def _get_quality_stats(self, cutoff: str) -> dict[str, Any]:
         """Quality metric averages."""
         row = self._query_one(
             "SELECT "
@@ -177,7 +177,7 @@ class DashboardGenerator:
             "sample_count": total,
         }
 
-    def _get_system_health(self, cutoff: str) -> Dict[str, Any]:
+    def _get_system_health(self, cutoff: str) -> dict[str, Any]:
         """Latest system resource metrics."""
         row = self._query_one(
             "SELECT cpu_percent, ram_used_mb, timestamp "
@@ -196,7 +196,7 @@ class DashboardGenerator:
             "last_updated": row["timestamp"],
         }
 
-    def _get_recent_queries(self, limit: int = 20) -> List[Dict[str, Any]]:
+    def _get_recent_queries(self, limit: int = 20) -> list[dict[str, Any]]:
         """Return the most recent queries."""
         rows = self._query(
             "SELECT query_id, raw_query, intent, status, timestamp "

@@ -105,9 +105,10 @@ import threading
 import time
 import uuid
 from collections import defaultdict
+from collections.abc import Callable, Coroutine
 from concurrent.futures import Future, ThreadPoolExecutor
-from dataclasses import dataclass, field
-from typing import Any, Callable, Coroutine
+from dataclasses import dataclass
+from typing import Any
 
 from campus_helpdesk.interaction.events import (
     EventEnvelope,
@@ -954,7 +955,7 @@ class EventBus:
     # Context manager support
     # ─────────────────────────────────────────────────────────────────────────
 
-    def __enter__(self) -> "EventBus":
+    def __enter__(self) -> EventBus:
         return self
 
     def __exit__(self, *_: Any) -> None:

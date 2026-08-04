@@ -13,8 +13,8 @@ import logging
 import threading
 import time
 from collections import defaultdict
-from datetime import datetime, timezone
-from typing import TYPE_CHECKING, Any, Dict, Optional
+from datetime import UTC, datetime
+from typing import TYPE_CHECKING, Any
 
 if TYPE_CHECKING:
     from campus_helpdesk.analytics.event_bus import EventBus
@@ -40,21 +40,21 @@ class ConversationAnalytics:
 
     def __init__(
         self,
-        store: "MetricsStore",
-        event_bus: Optional["EventBus"] = None,
+        store: MetricsStore,
+        event_bus: EventBus | None = None,
     ) -> None:
         self._store = store
         self._lock = threading.Lock()
 
         # Active session tracking: session_id -> {start_time, turns, topics}
-        self._active_sessions: Dict[str, Dict[str, Any]] = {}
+        self._active_sessions: dict[str, dict[str, Any]] = {}
 
         # Aggregate counters
         self._total_sessions: int = 0
         self._total_turns: int = 0
         self._session_durations: list[float] = []
         self._turns_per_session: list[int] = []
-        self._topic_counts: Dict[str, int] = defaultdict(int)
+        self._topic_counts: dict[str, int] = defaultdict(int)
 
         # Bounded history
         self._max_history = 500
@@ -62,7 +62,7 @@ class ConversationAnalytics:
         if event_bus is not None:
             self._subscribe(event_bus)
 
-    def _subscribe(self, bus: "EventBus") -> None:
+    def _subscribe(self, bus: EventBus) -> None:
         bus.subscribe(self.EVENT_SESSION_STARTED, self.handle_session_started)
         bus.subscribe(self.EVENT_SESSION_ENDED, self.handle_session_ended)
         bus.subscribe(self.EVENT_TURN_COMPLETED, self.handle_turn_completed)
@@ -72,7 +72,7 @@ class ConversationAnalytics:
     # Event handlers
     # ------------------------------------------------------------------
 
-    def handle_session_started(self, payload: Dict[str, Any]) -> None:
+    def handle_session_started(self, payload: dict[str, Any]) -> None:
         """Handle ``SessionStarted`` — register a new active session."""
         try:
             session_id = payload.get("session_id") or payload.get("trace_id", "")
@@ -90,7 +90,7 @@ class ConversationAnalytics:
         except Exception:
             logger.exception("Error handling SessionStarted event.")
 
-    def handle_session_ended(self, payload: Dict[str, Any]) -> None:
+    def handle_session_ended(self, payload: dict[str, Any]) -> None:
         """Handle ``SessionEnded`` — compute duration and persist."""
         try:
             session_id = payload.get("session_id") or payload.get("trace_id", "")
@@ -117,7 +117,7 @@ class ConversationAnalytics:
         except Exception:
             logger.exception("Error handling SessionEnded event.")
 
-    def handle_turn_completed(self, payload: Dict[str, Any]) -> None:
+    def handle_turn_completed(self, payload: dict[str, Any]) -> None:
         """Handle ``TurnCompleted`` — increment turn count for the session."""
         try:
             session_id = payload.get("session_id") or payload.get("trace_id", "")
@@ -142,7 +142,7 @@ class ConversationAnalytics:
     # Aggregation
     # ------------------------------------------------------------------
 
-    def get_stats(self) -> Dict[str, Any]:
+    def get_stats(self) -> dict[str, Any]:
         """Return current conversation-level aggregate statistics."""
         with self._lock:
             avg_duration = (
@@ -166,7 +166,7 @@ class ConversationAnalytics:
                 "avg_session_duration_sec": round(avg_duration, 2),
                 "avg_turns_per_session": round(avg_turns, 2),
                 "topic_distribution": dict(top_topics),
-                "snapshot_time": datetime.now(timezone.utc).isoformat(),
+                "snapshot_time": datetime.now(UTC).isoformat(),
             }
 
     def reset(self) -> None:

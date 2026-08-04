@@ -10,10 +10,9 @@ from __future__ import annotations
 
 import json
 import logging
-import os
-from datetime import datetime, timedelta, timezone
+from datetime import UTC, datetime, timedelta
 from pathlib import Path
-from typing import TYPE_CHECKING, Any, Dict, List, Optional
+from typing import TYPE_CHECKING, Any
 
 if TYPE_CHECKING:
     from campus_helpdesk.analytics.dashboard_generator import DashboardGenerator
@@ -37,9 +36,9 @@ class ReportGenerator:
 
     def __init__(
         self,
-        store: "MetricsStore",
+        store: MetricsStore,
         output_dir: str | Path = "data/analytics/reports",
-        dashboard_generator: Optional["DashboardGenerator"] = None,
+        dashboard_generator: DashboardGenerator | None = None,
     ) -> None:
         self._store = store
         self._output_dir = Path(output_dir)
@@ -74,7 +73,7 @@ class ReportGenerator:
 
     def _generate_report(self, hours: int, label: str) -> Path:
         """Core report generation logic."""
-        now = datetime.now(timezone.utc)
+        now = datetime.now(UTC)
         timestamp_str = now.strftime("%Y%m%d_%H%M%S")
 
         # Collect data
@@ -94,7 +93,7 @@ class ReportGenerator:
         logger.info("Generated %s report: %s", label, md_path)
         return md_path
 
-    def _collect_data(self, hours: int) -> Dict[str, Any]:
+    def _collect_data(self, hours: int) -> dict[str, Any]:
         """Collect all report data from the store."""
         if self._dashboard is not None:
             dashboard_data = self._dashboard.generate(time_window_hours=hours)
@@ -102,7 +101,7 @@ class ReportGenerator:
             dashboard_data = {}
 
         # Additional direct queries
-        cutoff = datetime.now(timezone.utc) - timedelta(hours=hours)
+        cutoff = datetime.now(UTC) - timedelta(hours=hours)
         cutoff_str = cutoff.strftime("%Y-%m-%d %H:%M:%S")
 
         alerts = self._get_alerts(cutoff_str)
@@ -113,10 +112,10 @@ class ReportGenerator:
             "alerts": alerts,
             "intent_distribution": intent_dist,
             "report_period_hours": hours,
-            "generated_at": datetime.now(timezone.utc).isoformat(),
+            "generated_at": datetime.now(UTC).isoformat(),
         }
 
-    def _get_alerts(self, cutoff: str) -> List[Dict[str, Any]]:
+    def _get_alerts(self, cutoff: str) -> list[dict[str, Any]]:
         """Fetch alerts within the time window."""
         try:
             with self._store._lock:
@@ -131,7 +130,7 @@ class ReportGenerator:
             logger.debug("No alerts table or query failed.")
             return []
 
-    def _get_intent_distribution(self, cutoff: str) -> Dict[str, int]:
+    def _get_intent_distribution(self, cutoff: str) -> dict[str, int]:
         """Get intent distribution within the time window."""
         try:
             with self._store._lock:
@@ -148,7 +147,7 @@ class ReportGenerator:
 
     def _render_markdown(
         self,
-        data: Dict[str, Any],
+        data: dict[str, Any],
         hours: int,
         label: str,
         generated_at: datetime,
@@ -162,7 +161,7 @@ class ReportGenerator:
         alerts = data.get("alerts", [])
         intent_dist = data.get("intent_distribution", {})
 
-        lines: List[str] = []
+        lines: list[str] = []
         lines.append(f"# Analytics Report — {label.capitalize()}")
         lines.append("")
         lines.append(
@@ -174,8 +173,8 @@ class ReportGenerator:
         # Summary
         lines.append("## Summary")
         lines.append("")
-        lines.append(f"| Metric | Value |")
-        lines.append(f"|--------|-------|")
+        lines.append("| Metric | Value |")
+        lines.append("|--------|-------|")
         lines.append(f"| Total Queries | {summary.get('total_queries', 0)} |")
         lines.append(f"| Total Sessions | {summary.get('total_sessions', 0)} |")
         lines.append(
@@ -195,8 +194,8 @@ class ReportGenerator:
         # Latency
         lines.append("## Latency")
         lines.append("")
-        lines.append(f"| Percentile | Value (ms) |")
-        lines.append(f"|-----------|-----------|")
+        lines.append("| Percentile | Value (ms) |")
+        lines.append("|-----------|-----------|")
         lines.append(f"| P50 | {latency.get('p50_ms', 0):.1f} |")
         lines.append(f"| P90 | {latency.get('p90_ms', 0):.1f} |")
         lines.append(f"| P99 | {latency.get('p99_ms', 0):.1f} |")
@@ -209,8 +208,8 @@ class ReportGenerator:
         # Quality
         lines.append("## Quality")
         lines.append("")
-        lines.append(f"| Metric | Value |")
-        lines.append(f"|--------|-------|")
+        lines.append("| Metric | Value |")
+        lines.append("|--------|-------|")
         lines.append(
             f"| Avg Confidence | {quality.get('avg_confidence', 0):.3f} |"
         )
@@ -236,8 +235,8 @@ class ReportGenerator:
         if alerts:
             lines.append("## Alerts")
             lines.append("")
-            lines.append(f"| Time | Type | Severity | Message |")
-            lines.append(f"|------|------|----------|---------|")
+            lines.append("| Time | Type | Severity | Message |")
+            lines.append("|------|------|----------|---------|")
             for alert in alerts[:20]:
                 ts = alert.get("timestamp", "")
                 atype = alert.get("alert_type", "")

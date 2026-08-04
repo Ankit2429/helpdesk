@@ -24,11 +24,10 @@ from __future__ import annotations
 
 import logging
 import queue
-import time
-import uuid
 import threading
+import time
 from abc import ABC, abstractmethod
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 from typing import Any
 
 import cv2
@@ -405,7 +404,7 @@ class VisionService:
                     event_type=EventType.PERSON_LEFT,
                     source=self._name,
                     payload=PersonLeftPayload(
-                        last_seen_at=datetime.fromtimestamp(last_seen, timezone.utc),
+                        last_seen_at=datetime.fromtimestamp(last_seen, UTC),
                         frames_without_detection=self._consecutive_misses,
                     ),
                     session_id=trigger_event.session_id,

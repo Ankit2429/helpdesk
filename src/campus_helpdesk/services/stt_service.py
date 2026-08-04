@@ -24,9 +24,8 @@ from __future__ import annotations
 
 import logging
 import queue
-import time
-import uuid
 import threading
+import time
 from abc import ABC, abstractmethod
 from typing import Any
 
@@ -38,7 +37,6 @@ from campus_helpdesk.interaction.events import (
     VoicePayload,
 )
 
-from campus_helpdesk.application.exceptions import AudioError
 logger = logging.getLogger(__name__)
 
 
@@ -178,7 +176,7 @@ class MockTranscriptionBackend(BaseTranscriptionBackend):
             return "", "en", 0.0
         # Check for corrupt simulation
         if "corrupt" in audio_path.lower():
-            raise IOError("Corrupt audio file header")
+            raise OSError("Corrupt audio file header")
 
         return self._dummy_text, "en", 0.96
 
