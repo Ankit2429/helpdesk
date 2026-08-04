@@ -1,0 +1,76 @@
+[
+  {
+    "query": "How many departments are there?",
+    "reply": "There are 12 primary academic schools and departments in KLE Technological University.",
+    "status": "PASS",
+    "sources": [
+      "schoolsdepartments_279d1e.md",
+      "schoolsdepartments_50c30f.md",
+      "programs_7f4a6d.md",
+      "programs_9f8083.md",
+      "533imguf_ugelectronicscommunicationengineerin_9d047a.md"
+    ],
+    "confidence_level": "High",
+    "confidence_score": 0.7666
+  },
+  {
+    "query": "Information about BE",
+    "reply": "There are several B.E. programs available at KLE Technological University (BVB Campus). \n\n1. B E Civil Engineering\n2. B E Mechanical Engineering\n3. B E Electronics & Communication Engineering\n4. B E Computer Science and Engineering\n5. B E Computer Science and Engineering (Artificial Intelligence)\n6. B E Electrical & Electronics Engineering\n7. B E Biomedical Engineering\n8. B E Chemical Engineering",
+    "status": "PASS",
+    "sources": [
+      "right_to_information_267954.md",
+      "b_e_information_science_and_engineering.md",
+      "programs_919a42.md",
+      "overview_fffac9.md"
+    ],
+    "confidence_level": "High",
+    "confidence_score": 0.7861
+  },
+  {
+    "query": "What is BE?",
+    "reply": "According to the provided context, \"BE\" stands for Bachelor of Engineering.",
+    "status": "PASS",
+    "sources": [
+      "overview_fffac9.md"
+    ],
+    "confidence_level": "High",
+    "confidence_score": 0.719
+  },
+  {
+    "query": "List all departments",
+    "reply": "According to the provided sources, there are 12 primary academic schools and departments in KLE Technological University:\n\n1. School of Computer Science and Engineering\n2. School of Mechanical Engineering\n3. School of Civil Engineering\n4. School of Electronics and Communication Engineering\n5. School of Electrical & Electronics Engineering\n6. Department of Automation & Robotics\n7. Department of Biotechnology\n8. School of Architecture\n9. Department of Computer Application\n10. School of Management Studies and Research\n11. Department of Commerce\n12. Department of Fashion Design",
+    "status": "PASS",
+    "sources": [
+      "schoolsdepartments_279d1e.md",
+      "schoolsdepartments_50c30f.md",
+      "531imguf_ugbiotechnologydcpreport_08b5ca.md",
+      "programs_b662d6.md"
+    ],
+    "confidence_level": "High",
+    "confidence_score": 0.7809
+  },
+  {
+    "query": "Tell me about the ISE department",
+    "reply": "The Department of Information Science and Engineering (ISE) at KLE Technological University offers a comprehensive four-year undergraduate B.E. program designed to prepare students in computer software systems, data engineering, cloud computing, cybersecurity, and artificial intelligence applications.",
+    "status": "PASS",
+    "sources": [
+      "b_e_information_science_and_engineering.md",
+      "right_to_information_267954.md",
+      "b_e_computer_science_and_engineering_475790.md"
+    ],
+    "confidence_level": "High",
+    "confidence_score": 0.7701
+  },
+  {
+    "query": "What courses are offered?",
+    "reply": "The Bachelors of Business Administration course is a full-time, Four-year, undergraduate course aimed at preparing young graduates to take up challenging careers in business and industry.",
+    "status": "PASS",
+    "sources": [
+      "bachelors_of_business_administration_40600b.md",
+      "celebrating_glorious_75_years_of_its_existenc_23ac13.md",
+      "under_graduate_program_252fd1.md"
+    ],
+    "confidence_level": "High",
+    "confidence_score": 0.7807
+  }
+]

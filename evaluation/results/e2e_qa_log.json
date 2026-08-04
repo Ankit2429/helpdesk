@@ -1,0 +1,3656 @@
+[
+  {
+    "idx": 1,
+    "category": "Greetings",
+    "question": "hi",
+    "expected": "Instant greeting response, RAG skipped",
+    "latency_ms": 2.81,
+    "sources": [],
+    "confidence": 1.0,
+    "source_used": "General AI",
+    "answer": "Hello! Welcome to KLE Technological University (BVB Campus) AI Helpdesk. How can I assist you today?",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 2,
+    "category": "Greetings",
+    "question": "hello",
+    "expected": "Instant greeting response, RAG skipped",
+    "latency_ms": 1.96,
+    "sources": [],
+    "confidence": 1.0,
+    "source_used": "General AI",
+    "answer": "Hello! Welcome to KLE Technological University (BVB Campus) AI Helpdesk. How can I assist you today?",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 3,
+    "category": "Greetings",
+    "question": "hey there",
+    "expected": "Instant greeting response, RAG skipped",
+    "latency_ms": 1.86,
+    "sources": [],
+    "confidence": 1.0,
+    "source_used": "General AI",
+    "answer": "Hello! Welcome to KLE Technological University (BVB Campus) AI Helpdesk. How can I assist you today?",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 4,
+    "category": "Greetings",
+    "question": "good morning",
+    "expected": "Instant greeting response, RAG skipped",
+    "latency_ms": 1.82,
+    "sources": [],
+    "confidence": 1.0,
+    "source_used": "General AI",
+    "answer": "Hello! Welcome to KLE Technological University (BVB Campus) AI Helpdesk. How can I assist you today?",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 5,
+    "category": "Greetings",
+    "question": "good evening",
+    "expected": "Instant greeting response, RAG skipped",
+    "latency_ms": 1.79,
+    "sources": [],
+    "confidence": 1.0,
+    "source_used": "General AI",
+    "answer": "Hello! Welcome to KLE Technological University (BVB Campus) AI Helpdesk. How can I assist you today?",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 6,
+    "category": "Greetings",
+    "question": "namaste",
+    "expected": "Instant greeting response, RAG skipped",
+    "latency_ms": 1.85,
+    "sources": [],
+    "confidence": 1.0,
+    "source_used": "General AI",
+    "answer": "Hello! Welcome to KLE Technological University (BVB Campus) AI Helpdesk. How can I assist you today?",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 7,
+    "category": "Greetings",
+    "question": "namaskara",
+    "expected": "Instant greeting response, RAG skipped",
+    "latency_ms": 1.95,
+    "sources": [],
+    "confidence": 1.0,
+    "source_used": "General AI",
+    "answer": "Hello! Welcome to KLE Technological University (BVB Campus) AI Helpdesk. How can I assist you today?",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 8,
+    "category": "Greetings",
+    "question": "hey Sparky",
+    "expected": "Instant greeting response, RAG skipped",
+    "latency_ms": 2.24,
+    "sources": [],
+    "confidence": 1.0,
+    "source_used": "General AI",
+    "answer": "Hello! Welcome to KLE Technological University (BVB Campus) AI Helpdesk. How can I assist you today?",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 9,
+    "category": "Small talk",
+    "question": "what's up",
+    "expected": "Friendly casual response, RAG skipped",
+    "latency_ms": 1.95,
+    "sources": [],
+    "confidence": 1.0,
+    "source_used": "General AI",
+    "answer": "I'm doing great and ready to assist you! What campus information are you looking for today?",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 10,
+    "category": "Small talk",
+    "question": "who are you",
+    "expected": "Identify as Sparky/AUNTII, RAG skipped",
+    "latency_ms": 2.31,
+    "sources": [],
+    "confidence": 1.0,
+    "source_used": "General AI",
+    "answer": "I am Sparky (AUNTII), the official offline AI Campus Helpdesk Assistant for KLE Technological University (BVB College), Hubballi.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 11,
+    "category": "Small talk",
+    "question": "what can you do",
+    "expected": "Explain campus guides, RAG skipped",
+    "latency_ms": 2.33,
+    "sources": [],
+    "confidence": 1.0,
+    "source_used": "General AI",
+    "answer": "I can help you with campus navigation, department details (ISE, CSE, ECE, Mech, Civil, Biotech, etc.), degree courses (B.E., M.Tech, MBA, MCA, BCA, BBA, Ph.D.), fee structures, hostel timings, campus canteens, vice chancellor info, and admissions at KLE Tech!",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 12,
+    "category": "Small talk",
+    "question": "how are you",
+    "expected": "Polite response, RAG skipped",
+    "latency_ms": 2.56,
+    "sources": [],
+    "confidence": 1.0,
+    "source_used": "General AI",
+    "answer": "I'm doing great and ready to assist you! What campus information are you looking for today?",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 13,
+    "category": "Small talk",
+    "question": "tell me a joke",
+    "expected": "Casual response, RAG skipped",
+    "latency_ms": 6070.19,
+    "sources": [],
+    "confidence": 0.3068,
+    "source_used": "Local KB",
+    "answer": "I couldn't find reliable information about that. Could you rephrase your question?",
+    "correct": false,
+    "score": 5,
+    "failure_cause": "Intent routing"
+  },
+  {
+    "idx": 14,
+    "category": "Small talk",
+    "question": "are you human",
+    "expected": "AI identity response, RAG skipped",
+    "latency_ms": 3.79,
+    "sources": [],
+    "confidence": 1.0,
+    "source_used": "General AI",
+    "answer": "I'm doing great and ready to assist you! What campus information are you looking for today?",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 15,
+    "category": "Small talk",
+    "question": "do you like Hubballi",
+    "expected": "Hubballi friendly small talk, RAG skipped",
+    "latency_ms": 10174.5,
+    "sources": [
+      "campus/about_hubballi_campus.md",
+      "campus/celebrating_glorious_75_years_of_its_existence.md",
+      "academic/programs_alt.md",
+      "departments/bvb-annual-report-2015-16.md",
+      "research/news.md"
+    ],
+    "confidence": 0.6565,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about that in my knowledge base. Could you rephrase your question?",
+    "correct": false,
+    "score": 5,
+    "failure_cause": "Intent routing"
+  },
+  {
+    "idx": 16,
+    "category": "Small talk",
+    "question": "are you smart",
+    "expected": "Playful casual response, RAG skipped",
+    "latency_ms": 2.67,
+    "sources": [],
+    "confidence": 1.0,
+    "source_used": "General AI",
+    "answer": "I'm doing great and ready to assist you! What campus information are you looking for today?",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 17,
+    "category": "Campus departments",
+    "question": "departments in college",
+    "expected": "Retrieve schools/departments list",
+    "latency_ms": 5761.37,
+    "sources": [
+      "departments/schoolsdepartments.md",
+      "departments/schoolsdepartments_alt.md",
+      "departments/ugcomputerscienceengineeringdcpreport.md"
+    ],
+    "confidence": 0.6957,
+    "source_used": "Local KB",
+    "answer": "I'm doing great and ready to assist you! What campus information are you looking for today?\n\nYou can find a list of all the departments in the college by visiting the \"Schools/Departments\" section on our website. The list is as follows:\n\n- School of Computer Science and Engineering\n- School of Mechanical Engineering\n- School of Civil Engineering\n- School of Electronics and Communication Engineering\n- School of Electrical & Electronics Engineering\n- Department of Automation & Robotics\n- Department of Biotechnology\n- School of Architecture\n- Department of Computer Application\n- School of Management Studies and Research\n- Department of Commerce\n- Department of Fashion Design",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 18,
+    "category": "Campus departments",
+    "question": "department of fashion design",
+    "expected": "Fashion design details",
+    "latency_ms": 4220.92,
+    "sources": [
+      "departments/schoolsdepartments.md",
+      "academic/bachelor_of_science_fashion_and_apparel_design.md",
+      "academic/bachelor_of_science_fashion_and_apparel_design_alt.md"
+    ],
+    "confidence": 0.8584,
+    "source_used": "Local KB",
+    "answer": "The Department of Fashion Design is part of the School of Fashion Design, which is under the School of Electronics and Communication Engineering.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 19,
+    "category": "Campus departments",
+    "question": "list of schools",
+    "expected": "List of schools in campus",
+    "latency_ms": 5017.87,
+    "sources": [
+      "departments/schoolsdepartments_alt.md",
+      "academic/programs_alt.md",
+      "academic/mtech_computer_science_and_engineering.md"
+    ],
+    "confidence": 0.6643,
+    "source_used": "Local KB",
+    "answer": "Here is the list of schools:\n\n1. School of Computer Science and Engineering\n2. School of Mechanical Engineering\n3. School of Civil Engineering\n4. School of Electronics & Communication Engineering\n5. School of Electrical & Electronics Engineering\n6. Department of Automation & Robotics\n7. Department of Biotechnology\n8. School of Architecture\n9. Department of Computer Application\n10. School of Management Studies and Research\n11. Department of Commerce\n12. Department of Fashion Design",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 20,
+    "category": "Campus departments",
+    "question": "is there computer science department",
+    "expected": "CSE department verification",
+    "latency_ms": 5055.88,
+    "sources": [
+      "departments/schoolsdepartments.md",
+      "departments/schoolsdepartments_alt.md",
+      "departments/04-bachelor-of-computer-science-and-engineering-curriculum-structure-content-2023-2027.md",
+      "academic/mtech_computer_science_and_engineering_alt.md",
+      "academic/mtech_computer_science_and_engineering.md"
+    ],
+    "confidence": 0.6682,
+    "source_used": "Local KB",
+    "answer": "Yes, the Department of Computer Application is part of the School of Management Studies and Research.\n\nAnd, the Department of Computer Science and Engineering is also a separate department under the KLE Technological University (BVB Engineering College).",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 21,
+    "category": "Campus departments",
+    "question": "civil engineering department",
+    "expected": "Details on civil department",
+    "latency_ms": 4064.0,
+    "sources": [
+      "departments/schoolsdepartments.md",
+      "departments/schoolsdepartments_alt.md",
+      "departments/phd_in_civil_engineering_alt.md",
+      "campus/celebrating_glorious_75_years_of_its_existence.md"
+    ],
+    "confidence": 0.7834,
+    "source_used": "Local KB",
+    "answer": "There are two undergraduate Civil Engineering departments:\n\n1. B E Civil Engineering\n2. MS Civil Engineering",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 22,
+    "category": "Campus departments",
+    "question": "biotechnology department details",
+    "expected": "Details on biotech department",
+    "latency_ms": 4145.58,
+    "sources": [
+      "departments/ugbiotechnologydcpreport.md",
+      "departments/03-bachelor-of-biotechnology-curriculum-structure-content-2023-2027.md",
+      "departments/schoolsdepartments_alt.md"
+    ],
+    "confidence": 0.6623,
+    "source_used": "Local KB",
+    "answer": "According to the provided information, there is only one undergraduate Biotechnology department:\n\n1. MS Biotechnology",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 23,
+    "category": "Campus departments",
+    "question": "information science branch",
+    "expected": "ISE branch details",
+    "latency_ms": 3824.92,
+    "sources": [
+      "departments/ugbiotechnologydcpreport.md",
+      "departments/schoolsdepartments.md"
+    ],
+    "confidence": 0.5556,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about that in my knowledge base.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 24,
+    "category": "Campus departments",
+    "question": "management school info",
+    "expected": "Details on Management School (MBA)",
+    "latency_ms": 3899.68,
+    "sources": [
+      "departments/ph_d_in_management_studies_research_alt.md",
+      "departments/ph_d_in_management_studies_research.md",
+      "hostel/bachelor-business-administration-curriculum-structure-2022-2025.md",
+      "departments/mba-curriculum-2023-25.md"
+    ],
+    "confidence": 0.8131,
+    "source_used": "Local KB",
+    "answer": "There are two undergraduate Management departments:\n\n1. B.A. LL.B\n2. B.B.A. LL.B\n3. B.Com. LL.B\n4. LL.B\n\nAnd there is one Postgraduate department:\n\n1. LLM - Constitutional Law\n2. LLM - IPR",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 25,
+    "category": "Faculty",
+    "question": "who is Mr. V. A. Goudar",
+    "expected": "Retrieve Associate Professor details",
+    "latency_ms": 3997.4,
+    "sources": [
+      "faculty/faculty.md",
+      "departments/mandatory-disclosure-edited.md",
+      "departments/equal_opportunity_cell.md",
+      "departments/kle-tech-annual-report-2018-19.md"
+    ],
+    "confidence": 0.8649,
+    "source_used": "Local KB",
+    "answer": "According to the provided information, Mr. V. A. Goudar is an Associate Professor at KLE Technological University (BVB Engineering College), Hubballi.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 26,
+    "category": "Faculty",
+    "question": "Dr. M.B. Page faculty",
+    "expected": "Retrieve Assistant Professor details",
+    "latency_ms": 1552.72,
+    "sources": [
+      "faculty/faculty.md"
+    ],
+    "confidence": 0.8619,
+    "source_used": "Local KB",
+    "answer": "According to the provided information, Dr. M.B. Page is an Assistant Professor at KLE Technological University (BVB Engineering College), Hubballi.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 27,
+    "category": "Faculty",
+    "question": "faculty details",
+    "expected": "Explain how to search faculty or retrieve faculty list",
+    "latency_ms": 4193.47,
+    "sources": [
+      "administration/application-part-2-report-2018_19.md",
+      "departments/ugbiotechnologydcpreport.md",
+      "administration/ec_minutes_alt.md",
+      "faculty/faculty.md",
+      "departments/mandatory-disclosure-edited.md"
+    ],
+    "confidence": 0.7324,
+    "source_used": "Local KB",
+    "answer": "According to the provided information, there are 21 faculty members in total, with the following distribution:\n\n* Associate Professors (AP): 76\n* Assistant Professors (AF1): 219\n* Professors (RF1): 56",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 28,
+    "category": "Faculty",
+    "question": "CSE faculty list",
+    "expected": "CSE professors info",
+    "latency_ms": 5129.01,
+    "sources": [
+      "faculty/faculty.md",
+      "research/ms_engg_by_research_in_visual_intelligence_cse_alt.md",
+      "research/ms_engg_by_research_in_visual_intelligence_cse.md"
+    ],
+    "confidence": 0.7801,
+    "source_used": "Local KB",
+    "answer": "According to the provided information, there is no specific CSE (Computer Science and Engineering) faculty list available. However, I can provide you with a list of courses that fall under the Computer Science and Engineering department:\n\n* B E Computer Science and Engineering\n* B E Computer Science and Engineering (Artificial Intelligence)\n* M.Tech Computer Science and  Engineering\n\nIf you're looking for specific faculty members associated with these courses, I couldn't find verified information about that in my knowledge base.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 29,
+    "category": "Faculty",
+    "question": "Biotechnology professors",
+    "expected": "Biotech faculty details",
+    "latency_ms": 3879.4,
+    "sources": [
+      "departments/03-bachelor-of-biotechnology-curriculum-structure-content-2023-2027.md",
+      "departments/phd_in_biotechnology_alt.md",
+      "departments/b_e_biotechnology_alt.md"
+    ],
+    "confidence": 0.6443,
+    "source_used": "Local KB",
+    "answer": "According to the provided information, there is no specific list of Biotechnology Professors available. However, I can tell you that Dr. M.B. Page is an Assistant Professor at KLE Technological University (BVB Engineering College), Hubballi.\n\nI couldn't find verified information about Biotechnology professors in my knowledge base.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 30,
+    "category": "Faculty",
+    "question": "who is Dr. Prakash Tewari",
+    "expected": "VC Prakash Tewari faculty details",
+    "latency_ms": 4037.75,
+    "sources": [
+      "research/kle-technological-university-public-mandatory-disclosure.md",
+      "administration/executive_council.md",
+      "departments/bvbcet-annual-report-2013-14.md",
+      "departments/bog_minutes_alt.md",
+      "timetables/bog_minutes.md"
+    ],
+    "confidence": 0.8835,
+    "source_used": "Local KB",
+    "answer": "Dr. Prakash G. Tewari is the Vice-Chancellor of KLE Technological University (BVB Engineering College), Hubballi, India.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 31,
+    "category": "Faculty",
+    "question": "Associate Professors list",
+    "expected": "List of associate professors",
+    "latency_ms": 5126.56,
+    "sources": [
+      "faculty/faculty.md",
+      "timetables/bog_minutes.md",
+      "timetables/mca-2020.md",
+      "departments/ugbiotechnologydcpreport.md"
+    ],
+    "confidence": 0.6569,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about the Associate Professors list in my knowledge base. However, I can tell you that there are two types of seats offered by the University:\n\ni Government Quota: For 40% of seats reserved for students of Karnataka under Section-9 of the Act, the fees shall be fixed by the Fee Regulation Committee constituted by the Government of Karnataka.\n\nii University Quota: For the remaining 60% of seats, the fees shall be prescribed by the Finance Council with the approval of the Board of Governors.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 32,
+    "category": "Faculty",
+    "question": "faculty qualifications in Biotech",
+    "expected": "Biotech faculty profile details",
+    "latency_ms": 3433.4,
+    "sources": [
+      "departments/phd_in_biotechnology_alt.md",
+      "departments/b_e_biotechnology_alt.md",
+      "departments/biotech_curriculum_structure_content_2021-25.md",
+      "research/phd_regulations.md"
+    ],
+    "confidence": 0.6282,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about Faculty qualifications in Biotechnology in my knowledge base.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 33,
+    "category": "Principal",
+    "question": "who is the principal",
+    "expected": "Explain VC system or retrieve Principal reference",
+    "latency_ms": 3513.51,
+    "sources": [
+      "departments/aqar2021-22resubmittedaugust2023.md",
+      "timetables/ec_minutes.md",
+      "departments/kle-tech-annual-report-2016-17.md",
+      "departments/annual-report-2014-15.md"
+    ],
+    "confidence": 0.6167,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about the Principal in my knowledge base.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 34,
+    "category": "Principal",
+    "question": "principal contact number",
+    "expected": "VC office or administrative contacts",
+    "latency_ms": 4169.37,
+    "sources": [
+      "administration/intercom-04-03-2022.md",
+      "departments/mca-curriculum-structure-2025-2027.md"
+    ],
+    "confidence": 0.4483,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about the Principal's contact number in my knowledge base. However, I can tell you that the Principal's office is located at page 1 of the PDF Document: intercom-04-03-2022, and their phone number is listed as 108.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 35,
+    "category": "Principal",
+    "question": "office of the principal",
+    "expected": "Admin block / VC office direction",
+    "latency_ms": 4712.94,
+    "sources": [
+      "timetables/ec_minutes.md",
+      "administration/intercom-04-03-2022.md",
+      "departments/application-part-1-report-2018_19.md",
+      "departments/application_part1_report_2019-20.md"
+    ],
+    "confidence": 0.4769,
+    "source_used": "Local KB",
+    "answer": "The office of the Principal is located at page 16 of the PDF Document: intercom-04-03-2022, and their phone number is listed as 108.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 36,
+    "category": "Principal",
+    "question": "meet the principal",
+    "expected": "Meeting admin procedures",
+    "latency_ms": 4124.3,
+    "sources": [
+      "departments/bvbcet-annual-report-2013-14.md",
+      "timetables/ec_minutes.md",
+      "administration/kle-tech-statutes.md",
+      "departments/news.md"
+    ],
+    "confidence": 0.661,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about meeting the Principal in my knowledge base. However, I can suggest that you may be able to meet with the Principal by visiting their office located at page 1 of the PDF Document: intercom-04-03-2022, and contacting them using their listed phone number, 108.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 37,
+    "category": "Principal",
+    "question": "kle principal name",
+    "expected": "VC system info",
+    "latency_ms": 4065.93,
+    "sources": [
+      "departments/kle-tech-annual-report-2017-18.md",
+      "departments/kle-tech-annual-report-2019-20.md",
+      "departments/bog_minutes_alt.md"
+    ],
+    "confidence": 0.8524,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about the current Principal's name in my knowledge base. However, I can tell you that Dr. Prabhakar B. Kore is the Chairman, Board of Management KLE Society, Belagavi and Chancellor, KLE Technological University, Hubballi, as per the PDF Document: KLE-TECH-Annual-Report-2017-18.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 38,
+    "category": "Principal",
+    "question": "is there a principal",
+    "expected": "Explain university VC administrative hierarchy",
+    "latency_ms": 4823.09,
+    "sources": [
+      "departments/aqar2021-22resubmittedaugust2023.md",
+      "hostel/bog_minutes.md",
+      "timetables/bog_minutes_alt.md"
+    ],
+    "confidence": 0.5458,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about the existence or role of a \"Principal\" in my knowledge base. However, I can tell you that Dr. Prabhakar B. Kore is the Chairman, Board of Management KLE Society, Belagavi and Chancellor, KLE Technological University, Hubballi, as per the PDF Document: KLE-TECH-Annual-Report-2017-18.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 39,
+    "category": "Principal",
+    "question": "principal email id",
+    "expected": "VC/Registrar contact information",
+    "latency_ms": 4790.37,
+    "sources": [
+      "departments/application-part-1-report-2018_19.md",
+      "departments/application_part1_report_2019-20.md",
+      "hostel/it-policies_and_procedures_manual_updated_12-4-21.md"
+    ],
+    "confidence": 0.5827,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about the Principal's email ID in my knowledge base. However, I can suggest that you may be able to contact the Chancellor, Dr. Prabhakar B. Kore, using his listed phone number, 108, or by visiting the office located at page 1 of the PDF Document: intercom-04-03-2022.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 40,
+    "category": "Principal",
+    "question": "principal of bvb college",
+    "expected": "Historical principal or VC system mapping",
+    "latency_ms": 4536.17,
+    "sources": [
+      "departments/bvb-annual-report-2015-16.md",
+      "campus/teqip.md",
+      "departments/annual-report-2014-15.md",
+      "departments/bvbcet-annual-report-2013-14.md",
+      "departments/prospectus.md"
+    ],
+    "confidence": 0.8605,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about the current Principal's name in my knowledge base. However, I can tell you that Dr. P . G. Tewari is mentioned as the Principal in the PDF Document: 185imguf_bvb-annual-report-2015-16, which is located on page 33 of the same document.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 41,
+    "category": "Vice Chancellor",
+    "question": "who is the vice chancellor",
+    "expected": "Identify Dr. Prakash Tewari",
+    "latency_ms": 4002.12,
+    "sources": [
+      "research/kle-technological-university-public-mandatory-disclosure.md",
+      "timetables/ec_minutes.md",
+      "academic/bog_minutes.md",
+      "timetables/minutes-10th-ecm-online.md"
+    ],
+    "confidence": 0.8185,
+    "source_used": "Local KB",
+    "answer": "The current Vice-Chancellor of KLE Technological University (BVB Engineering College), Hubballi, is Dr. Prakash G. Tewari.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 42,
+    "category": "Vice Chancellor",
+    "question": "VC of KLE Tech",
+    "expected": "Identify Dr. Prakash Tewari",
+    "latency_ms": 3904.95,
+    "sources": [
+      "research/kle-technological-university-public-mandatory-disclosure.md",
+      "departments/ec_minutes.md",
+      "academic/bog_minutes.md",
+      "hostel/chancellors_message.md",
+      "departments/spl_bog_-_minutes_31-08-2019.md"
+    ],
+    "confidence": 0.8751,
+    "source_used": "Local KB",
+    "answer": "The current Vice-Chancellor of KLE Technological University (BVB Engineering College), Hubballi, is Dr. Prakash G. Tewari.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 43,
+    "category": "Vice Chancellor",
+    "question": "Vice Chancellor contact",
+    "expected": "VC office details",
+    "latency_ms": 3651.74,
+    "sources": [
+      "timetables/ec_minutes.md",
+      "academic/bog_minutes.md",
+      "administration/kle-tech-statutes.md"
+    ],
+    "confidence": 0.6824,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about the current Vice-Chancellor's contact details in my knowledge base.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 44,
+    "category": "Vice Chancellor",
+    "question": "VC of BVB campus",
+    "expected": "Identify Dr. Prakash Tewari",
+    "latency_ms": 3588.88,
+    "sources": [
+      "departments/bvb-annual-report-2015-16.md",
+      "departments/prospectus.md",
+      "departments/bvbcet-annual-report-2013-14.md",
+      "timetables/bog_minutes.md",
+      "placements/placement-brochure-kle-tech.md"
+    ],
+    "confidence": 0.6282,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about the current Vice-Chancellor of BVB Engineering College, Hubballi.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 45,
+    "category": "Vice Chancellor",
+    "question": "vice chancellor message",
+    "expected": "VC message or board governance details",
+    "latency_ms": 3964.54,
+    "sources": [
+      "timetables/ec_minutes.md",
+      "administration/intercom-04-03-2022.md",
+      "administration/kle-tech-statutes.md"
+    ],
+    "confidence": 0.6945,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about the current Vice-Chancellor's contact details in my knowledge base.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 46,
+    "category": "Vice Chancellor",
+    "question": "who is the current VC",
+    "expected": "Identify Dr. Prakash Tewari",
+    "latency_ms": 3655.39,
+    "sources": [
+      "research/kle-technological-university-public-mandatory-disclosure.md",
+      "timetables/minutes-10th-ecm-online.md",
+      "departments/bog_minutes.md"
+    ],
+    "confidence": 0.6184,
+    "source_used": "Local KB",
+    "answer": "The current Vice-Chancellor of BVB Engineering College, Hubballi is Dr. Prakash Tewari.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 47,
+    "category": "Vice Chancellor",
+    "question": "VC office location",
+    "expected": "Admin block VC office location",
+    "latency_ms": 4666.9,
+    "sources": [
+      "administration/intercom-04-03-2022.md",
+      "departments/application-part-1-report-2018_19.md",
+      "departments/application_part1_report_2019-20.md",
+      "timetables/ec_minutes.md"
+    ],
+    "confidence": 0.5913,
+    "source_used": "Local KB",
+    "answer": "The Vice-Chancellor's office is located at page 402 of the PDF Document: intercom-04-03-2022.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 48,
+    "category": "Vice Chancellor",
+    "question": "vice chancellor board of governors",
+    "expected": "VC roles in governing council",
+    "latency_ms": 4766.01,
+    "sources": [
+      "departments/bog_minutes_alt.md",
+      "administration/list_of_board_of_governors.md",
+      "departments/spl_bog_-_minutes_31-08-2019.md",
+      "departments/bog_minutes.md",
+      "timetables/ec_minutes.md"
+    ],
+    "confidence": 0.8283,
+    "source_used": "Local KB",
+    "answer": "The current Vice-Chancellor of BVB Engineering College, Hubballi is Dr. Prakash Tewari.\n\nTo confirm the minutes of the previous meeting held on [Date], you can refer to the PDF Document: 10th_BOG_Minutes > Page 4 or the List of Board of Governors > Dr. Prabhakar B. Kore for more information.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 49,
+    "category": "Admissions",
+    "question": "admission procedure for BE",
+    "expected": "KCET/COMEDK eligibility rules",
+    "latency_ms": 4507.72,
+    "sources": [
+      "academic/admission_for_ug_program.md",
+      "academic/admission_for_pg_program_alt.md",
+      "departments/intenational_admission_alt.md",
+      "academic/under_graduate_program.md"
+    ],
+    "confidence": 0.7612,
+    "source_used": "Local KB",
+    "answer": "According to the information provided, admissions for students to any of the B.E. Programs are governed by the rules and regulations of Karnataka Examination authority and Director of Technical Education, Bengaluru.\n\nTo join under any of the Quota, students must have secured one rank in CET (Karnataka) or COMED-K exam or JEE at all India level.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 50,
+    "category": "Admissions",
+    "question": "how to apply for MCA",
+    "expected": "MCA entrance exams and admission process",
+    "latency_ms": 4061.59,
+    "sources": [
+      "timetables/mca-2020.md",
+      "academic/mca_programs.md",
+      "academic/under_graduate_program.md",
+      "administration/ec_minutes.md",
+      "timetables/bog_minutes.md"
+    ],
+    "confidence": 0.7694,
+    "source_used": "Local KB",
+    "answer": "To join under any of the Quota, students must have secured one rank in CET (Karnataka) or COMED-K exam or JEE at all India level.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 51,
+    "category": "Admissions",
+    "question": "eligibility criteria for B.E. Biotech",
+    "expected": "10+2 marks requirement (45% for general)",
+    "latency_ms": 5314.1,
+    "sources": [
+      "departments/b_e_biotechnology_alt.md",
+      "departments/b_e_biotechnology.md",
+      "departments/b_e_electronics_communication_engineering_alt.md",
+      "departments/b_e_computer_science_and_engineering_artificial_in_alt.md",
+      "academic/b_e_electronics_engineering_vlsi_design_technology_alt.md"
+    ],
+    "confidence": 0.9097,
+    "source_used": "Local KB",
+    "answer": "According to the information provided, the Eligibility Criteria for B.E. Biotechnology is:\n\nPassed in 2nd PUC/10 + 2 Examination/ Equivalent Examination with english as one of the languages and obtained 45% of marks in aggregate in Physics and Mathematics along with Chemistry/ Bio-technology/ Biology/ Electronics/ Computer (40% for SC/ST/OBC candidates)\n\nThe applicants must have a valid KCET or COMEDK UGET or JEE Main score to secure B E admission.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 52,
+    "category": "Admissions",
+    "question": "undergraduate admission portal",
+    "expected": "cetonline.karnataka.gov.in reference",
+    "latency_ms": 3382.79,
+    "sources": [
+      "academic/admission_for_ug_program.md",
+      "campus/rti.md",
+      "departments/intenational_admission_alt.md"
+    ],
+    "confidence": 0.7915,
+    "source_used": "Local KB",
+    "answer": "The Undergraduate Admission Portal for KLE Technological University is supported by the Admission office. Alternatively, one can access it through the University portal.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 53,
+    "category": "Admissions",
+    "question": "management quota seats",
+    "expected": "Direct admission guidelines",
+    "latency_ms": 3753.23,
+    "sources": [
+      "academic/under_graduate_program.md",
+      "academic/admission_for_ug_program.md",
+      "academic/ec_minutes_alt.md",
+      "departments/annual-report-2014-15.md"
+    ],
+    "confidence": 0.8556,
+    "source_used": "Local KB",
+    "answer": "Management Quota seats are 40% of the total sanctioned seats for each program.\n\nSource: academic/admission_for_ug_program.md | Title: Admission for UG Program | Section: academic",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 54,
+    "category": "Admissions",
+    "question": "international admission requirements",
+    "expected": "NRI/International student admission details",
+    "latency_ms": 3857.41,
+    "sources": [
+      "departments/international_admission.md",
+      "research/kle-technological-university-public-mandatory-disclosure.md",
+      "academic/llb_hons.md"
+    ],
+    "confidence": 0.8439,
+    "source_used": "Local KB",
+    "answer": "According to the information provided, for International Admission, the prescribed admission criteria for Indian Nationals shall be at least two years of education, inclusive of 11th & 12th or equivalent (not beyond), in a foreign country during the last 8 years and must pass the qualifying examination from abroad.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 55,
+    "category": "Admissions",
+    "question": "MBA admission eligibility",
+    "expected": "PGCET/KMAT eligibility criteria",
+    "latency_ms": 4972.19,
+    "sources": [
+      "departments/master_of_business_administration_alt.md",
+      "departments/master_of_business_administration.md",
+      "academic/mba_programs.md"
+    ],
+    "confidence": 0.848,
+    "source_used": "Local KB",
+    "answer": "For MBA Admission, the Eligibility Criteria is:\n\n1. Any bachelor’s degree (10+2+3) with an aggregate of minimum of 50% in graduation.\n2. Successful clearance of PGCET entrance exam conducted by Karnataka Examination Authority, Bengaluru. (Mandatory for candidates seeking admission under government quota.)\n3. Successful clearance of any one of the following entrance exams:\n   - CMAT\n   - CAT\n   - KMAT\n   - PGCET\n\nfor candidates seeking admission under management quota.\n\nStudent intake for MBA program is 60.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 56,
+    "category": "Admissions",
+    "question": "when does admission start",
+    "expected": "Counseling and commencement notices",
+    "latency_ms": 3785.87,
+    "sources": [
+      "administration/ec_minutes.md",
+      "departments/intenational_admission_alt.md",
+      "timetables/mba-2020.md",
+      "campus/events.md"
+    ],
+    "confidence": 0.6321,
+    "source_used": "Local KB",
+    "answer": "According to Agenda 3.6 in the PDF Document: 3rd_EC_Minutes, the process of admitting students for PhD program started with issue of advertisement on January 31st, 2016.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 57,
+    "category": "Hostel",
+    "question": "hostel facilities on campus",
+    "expected": "Description of student hostels",
+    "latency_ms": 5926.79,
+    "sources": [
+      "facilities/on_campus_facilities.md",
+      "departments/prospectus.md",
+      "departments/aqar2021-22resubmittedaugust2023.md",
+      "departments/aqar-2022-23-system-generated-copy.md"
+    ],
+    "confidence": 0.891,
+    "source_used": "Local KB",
+    "answer": "According to the information provided in the context, the Hostel Facilities at KLE Technological University include:\n\n* Well-furnished exclusive hostels for boys and girls (2240 capacity)\n* 24-hour power back-up\n* Wi-Fi connectivity\n* Mess providing nutritious and hygienic food\n* Aesthetically built and installed furniture\n* Dedicated cupboard\n* Dedicated study table\n* Attached bathrooms\n* Wholesome and hygienic food served in the hostel's dining hall as per designated timings\n* New-age security and recreation facilities",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 58,
+    "category": "Hostel",
+    "question": "boys hostel location",
+    "expected": "Residential campus block locations",
+    "latency_ms": 4079.14,
+    "sources": [
+      "departments/mandatory-disclosure-edited.md",
+      "departments/prospectus.md",
+      "departments/application-part-1-report-2018_19.md",
+      "facilities/on_campus_facilities.md"
+    ],
+    "confidence": 0.8678,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about the exact location of the Boys Hostel in my knowledge base.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 59,
+    "category": "Hostel",
+    "question": "girls hostel security",
+    "expected": "Safe hostel inside campus campus",
+    "latency_ms": 5140.05,
+    "sources": [
+      "departments/prospectus.md",
+      "facilities/on_campus_facilities.md",
+      "departments/aqar-2022-23-system-generated-copy.md",
+      "departments/aqar2021-22resubmittedaugust2023.md"
+    ],
+    "confidence": 0.8315,
+    "source_used": "Local KB",
+    "answer": "According to the information provided in the context, the safety measures for the Girls Hostel include:\n\n* 24X7 security system at the entry & exit points of the campus & hostels\n* 323 CCTV surveillance cameras are in the campus and hostels\n\nAdditionally, a lady doctor visits the campus daily during working hours and is available in the university medical Center.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 60,
+    "category": "Hostel",
+    "question": "hostel mess food canteens",
+    "expected": "Canteens and mess dining descriptions",
+    "latency_ms": 4967.55,
+    "sources": [
+      "facilities/on_campus_facilities.md",
+      "departments/application-part-1-report-2018_19.md",
+      "departments/application_part1_report_2019-20.md",
+      "departments/prospectus.md"
+    ],
+    "confidence": 0.7647,
+    "source_used": "Local KB",
+    "answer": "According to the information provided in the context, the Hostel Facilities at KLE Technological University include:\n\n* Mess providing nutritious and hygienic food\n* Wholesome and hygienic food served in the hostel's dining hall as per designated timings",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 61,
+    "category": "Hostel",
+    "question": "hostel room options",
+    "expected": "Prospectus hostel configurations",
+    "latency_ms": 6562.77,
+    "sources": [
+      "facilities/on_campus_facilities.md",
+      "departments/application-part-1-report-2018_19.md",
+      "departments/application_part1_report_2019-20.md",
+      "departments/prospectus.md"
+    ],
+    "confidence": 0.7136,
+    "source_used": "Local KB",
+    "answer": "According to the information provided in the context, the Hostel Facilities at KLE Technological University include:\n\n* Room types:\n\t+ Boys' Common Room (B CMRO)\n\t+ Girls' Common Room (GCR1)\n\t+ First aid cum Sick Room\n* Room capacities:\n\t+ Boys' Hostel: 4166 rooms\n\t+ Girls' Hostel: 3018 rooms\n\t+ Boys' Hostel BOYSH: 7000 rooms\n\t+ First aid cum Sick Room: 15 rooms\n\nAdditionally, the context mentions that all the rooms are perfectly ventilated and feature facilities such as aesthetically built and installed furniture, a dedicated cupboard, a dedicated study table, and attached bathrooms.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 62,
+    "category": "Hostel",
+    "question": "is there internet in hostel",
+    "expected": "Hostel Wi-Fi or infrastructure",
+    "latency_ms": 6121.47,
+    "sources": [
+      "clubs/kle_society.md",
+      "departments/mandatory-disclosure-edited.md",
+      "departments/application_part1_report_2019-20.md",
+      "departments/application-part-1-report-2018_19.md"
+    ],
+    "confidence": 0.509,
+    "source_used": "Local KB",
+    "answer": "According to the information provided, yes, there is internet available in the hostels of KLE Technological University. The source mentions that \"To ensure that every student is keeping up with the latest developments in technology and the world, all the campuses house internet and IT facilities.\" Additionally, the report on Hostel Facility (Application-Part-1-Report-2018_19) states that PCs/Laptop are available exclusively to students.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 63,
+    "category": "Hostel",
+    "question": "hostel admissions procedure",
+    "expected": "Allotment guidelines and resident policy",
+    "latency_ms": 4278.77,
+    "sources": [
+      "departments/prospectus.md",
+      "facilities/on_campus_facilities.md",
+      "departments/application-part-1-report-2018_19.md",
+      "departments/aqar2021-22resubmittedaugust2023.md"
+    ],
+    "confidence": 0.6809,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about that in my knowledge base.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 64,
+    "category": "Hostel",
+    "question": "recreation in hostels",
+    "expected": "Gym, sports, grounds near residences",
+    "latency_ms": 4806.53,
+    "sources": [
+      "facilities/on_campus_facilities.md",
+      "departments/aqar-2022-23-system-generated-copy.md",
+      "departments/prospectus.md"
+    ],
+    "confidence": 0.629,
+    "source_used": "Local KB",
+    "answer": "According to the information provided, new-age security and recreation facilities are part of the hostel. The details of the recreation facilities include a cricket ground, basketball court, football ground, badminton court, athletic track, multi-gym stations, open-air theatre, and air-conditioned auditoriums.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 65,
+    "category": "Fees",
+    "question": "BE tuition fee structure",
+    "expected": "KCET vs Management quota fees",
+    "latency_ms": 3801.59,
+    "sources": [
+      "academic/fee_structure.md",
+      "academic/course_fee_structure_alt.md",
+      "academic/course_fee_structure.md",
+      "departments/intenational_admission_alt.md"
+    ],
+    "confidence": 0.7853,
+    "source_used": "Local KB",
+    "answer": "According to the information provided in the context, the tuition fees for MCA are:\n\n- I & II Semester Cet: 75000.00\n- I & II Semester Mngt: 90000.00",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 66,
+    "category": "Fees",
+    "question": "hostel fees",
+    "expected": "Residential fees and mess charge guidelines",
+    "latency_ms": 4692.31,
+    "sources": [
+      "departments/intenational_admission_alt.md",
+      "departments/application_part1_report_2019-20.md",
+      "departments/application-part-1-report-2018_19.md"
+    ],
+    "confidence": 0.6789,
+    "source_used": "Local KB",
+    "answer": "According to the information provided, hostel fee and other expenses typically range from US$ 800 – US$ 1000 per annum and are required to be paid by the applicant at the time of admission.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 67,
+    "category": "Fees",
+    "question": "how to pay college fees",
+    "expected": "Online payment portals or bank details",
+    "latency_ms": 4419.67,
+    "sources": [
+      "departments/intenational_admission_alt.md",
+      "campus/faq_alt.md",
+      "timetables/mca-2020.md"
+    ],
+    "confidence": 0.5093,
+    "source_used": "Local KB",
+    "answer": "According to the information provided, applicants can pay college fees through SWIFT / E-Payment / NEFT / RTGS transfer. The full payable amount should be paid in one transaction for the entire payable amount. Any transaction charges towards SWIFT/E-Payment/NEFT/RTGS should be borne by the applicant.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 68,
+    "category": "Fees",
+    "question": "MCA fee per year",
+    "expected": "Tuition fees for MCA program",
+    "latency_ms": 5960.09,
+    "sources": [
+      "academic/fee_structure.md",
+      "timetables/mca-2020.md",
+      "academic/post_graduate_program.md",
+      "timetables/ec_minutes.md"
+    ],
+    "confidence": 0.675,
+    "source_used": "Local KB",
+    "answer": "According to the information provided, the total fees for MCA are:\n\n| Fees Particulars | III & IV Semester | V & VI Semester |\n| Tuition Fees | 75000.00 | 75000.00 |\n| University Fees | 2500.00 | 2500.00 |\n| Other Fees | 15600.00 | 15500.00 |\n| Exam Fees | 3400.00 | 3400.00 |\n| Alumni Fees |  | 1000.00 |\n| Total Fees | 96500.00 | 97400.00 |\n\nThe total fees for MCA per year are:\n\n- III & IV Semester: 96500.00\n- V & VI Semester: 97400.00",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 69,
+    "category": "Fees",
+    "question": "MBA fees",
+    "expected": "Tuition fees for MBA program",
+    "latency_ms": 3120.39,
+    "sources": [
+      "academic/fee_structure.md",
+      "departments/bachelor_of_commerce_integrated_with_acca_alt.md",
+      "departments/bachelors_of_business_administration_alt.md",
+      "departments/master_of_business_administration_alt.md"
+    ],
+    "confidence": 0.8664,
+    "source_used": "Local KB",
+    "answer": "According to the information provided, the total fees for MCA per year are:\n\n- III & IV Semester: 96500.00\n- V & VI Semester: 97400.00",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 70,
+    "category": "Fees",
+    "question": "exam fees details",
+    "expected": "ESA exam fees guidelines",
+    "latency_ms": 5708.67,
+    "sources": [
+      "departments/bog_minutes.md",
+      "academic/ec_minutes.md",
+      "timetables/bog_minutes_alt.md",
+      "timetables/rules-and-regulations-ug-pg-july-2021.md"
+    ],
+    "confidence": 0.6815,
+    "source_used": "Local KB",
+    "answer": "According to the information provided, the University Examination Fees are:\n\n- Annual Examination Fees: 2,500.00\n- Internal Examination Fees: 2,500.00\n- Total: 5,000.00\n\nAdditionally, there is a mention of \"Exam Fees\" in the context of MCA fees, but it does not specify the exact amount.\n\nI couldn't find verified information about the exam fee structure for other courses (e.g., MBA) in my knowledge base.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 71,
+    "category": "Fees",
+    "question": "fee structure for NRI students",
+    "expected": "NRI quota fee details",
+    "latency_ms": 3730.25,
+    "sources": [
+      "departments/intenational_admission_alt.md",
+      "academic/b_e_electronics_engineering_vlsi_design_technology_alt.md",
+      "departments/b_e_computer_science_and_engineering_artificial_in_alt.md",
+      "departments/b_e_electronics_communication_engineering_alt.md"
+    ],
+    "confidence": 0.8708,
+    "source_used": "Local KB",
+    "answer": "According to the information provided, NRI students are required to pay a tuition fee of:\n\nRs. 1,25,000 per annum either in INR or equivalent USD.\n\nThis is mentioned under the section \"Reservation for Children of Indian Workers in Gulf Countries (CIWG) and its Fees Structure\".",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 72,
+    "category": "Fees",
+    "question": "is there any scholarship for fees",
+    "expected": "Scholarships and concessions info",
+    "latency_ms": 3635.68,
+    "sources": [
+      "timetables/bog_minutes.md",
+      "timetables/minutes-10th-ecm-online.md",
+      "departments/mandatory-disclosure-edited.md",
+      "timetables/mba-2020.md"
+    ],
+    "confidence": 0.7063,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about scholarships specifically for covering fees in my knowledge base.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 73,
+    "category": "Library",
+    "question": "where is the library",
+    "expected": "Block C, 2nd floor",
+    "latency_ms": 4349.54,
+    "sources": [
+      "research/overview.md",
+      "facilities/education_needs_complete_solution.md",
+      "facilities/academic_facilities.md"
+    ],
+    "confidence": 0.7362,
+    "source_used": "Local KB",
+    "answer": "The Central Library of KLE Technological University (BVB Engineering College) is located within the campus.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 74,
+    "category": "Library",
+    "question": "central library seating capacity",
+    "expected": "3000 sq m and 600 seats",
+    "latency_ms": 4712.24,
+    "sources": [
+      "facilities/education_needs_complete_solution.md",
+      "facilities/academic_facilities.md",
+      "departments/aqar2021-22resubmittedaugust2023.md",
+      "departments/aqar-2022-23-system-generated-copy.md"
+    ],
+    "confidence": 0.8818,
+    "source_used": "Local KB",
+    "answer": "According to the information provided in the context, the Central Library of KLE Technological University (BVB Engineering College) has a seating capacity of more than 600 learners and scholars.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 75,
+    "category": "Library",
+    "question": "ebooks collection library",
+    "expected": "188905 EBSCO ebooks",
+    "latency_ms": 6055.06,
+    "sources": [
+      "research/overview.md",
+      "facilities/education_needs_complete_solution.md",
+      "facilities/academic_facilities.md",
+      "facilities/e_resources.md",
+      "departments/mandatory-disclosure-edited.md"
+    ],
+    "confidence": 0.8589,
+    "source_used": "Local KB",
+    "answer": "The Central Library of KLE Technological University (BVB Engineering College) has a collection of 101165 Volumes of Books with 41935 Titles. The library also subscribes to 188905 ebooks from EBSCO Academic Collection with EBSCO Business Elite sources, and collects ebooks from various publishers such as IEEE MIT Press, IEEE Wiley, McGraw-Hill Access Engineering, Pearson Education, PHI India, New Age International, McGraw-Hill Express, Elsevier Publishers, CBS, and VIDEEYA ebooks perpetual access.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 76,
+    "category": "Library",
+    "question": "does library subscribe to IEEE",
+    "expected": "Yes, IEEE/ScienceDirect databases",
+    "latency_ms": 4850.12,
+    "sources": [
+      "research/overview.md",
+      "facilities/academic_facilities.md",
+      "departments/application_part1_report_2019-20.md",
+      "departments/mandatory-disclosure-edited.md",
+      "facilities/education_needs_complete_solution.md"
+    ],
+    "confidence": 0.8628,
+    "source_used": "Local KB",
+    "answer": "Yes, the Central Library of KLE Technological University (BVB Engineering College) subscribes to IEEE Xplore Digital Library.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 77,
+    "category": "Library",
+    "question": "library working hours",
+    "expected": "Central library timings",
+    "latency_ms": 4593.24,
+    "sources": [
+      "departments/mandatory-disclosure-edited.md",
+      "facilities/education_needs_complete_solution.md",
+      "departments/application_part1_report_2019-20.md"
+    ],
+    "confidence": 0.6264,
+    "source_used": "Local KB",
+    "answer": "The Central Library of KLE Technological University (BVB Engineering College) is open from 6:00 AM to 11:30 PM on all days, including holidays.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 78,
+    "category": "Library",
+    "question": "how to borrow books from library",
+    "expected": "Library card issue rules",
+    "latency_ms": 5837.51,
+    "sources": [
+      "hostel/library_rules.md",
+      "facilities/facilities.md",
+      "facilities/education_needs_complete_solution.md"
+    ],
+    "confidence": 0.8343,
+    "source_used": "Local KB",
+    "answer": "To borrow books from the library, follow these steps:\n\n1. Check the availability of the book you want to borrow.\n2. Take the book to the Property Counter and leave your personal belongings at the checkpoint.\n3. The librarian will check the book for any damage or missing pages.\n4. If the book is in good condition, the librarian will issue it to you.\n5. You can return the book before the due date to avoid any fines.\n\nNote: All textbooks must be returned before the due date.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 79,
+    "category": "Library",
+    "question": "digital library computers",
+    "expected": "Accessing online journals in digital block",
+    "latency_ms": 6963.82,
+    "sources": [
+      "hostel/library_rules.md",
+      "research/overview.md",
+      "facilities/education_needs_complete_solution.md"
+    ],
+    "confidence": 0.7958,
+    "source_used": "Local KB",
+    "answer": "According to the Digital Library Usage Policy, users are expected to use all technology equipment under the supervision of the Library Staff. However, I couldn't find any specific information about the availability or usage rules for digital library computers. \n\nIf you have any further questions regarding the library's services or policies, please feel free to ask.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 80,
+    "category": "Library",
+    "question": "reference section location",
+    "expected": "Central library sections",
+    "latency_ms": 4973.81,
+    "sources": [
+      "administration/intercom-04-03-2022.md",
+      "departments/application-part-1-report-2018_19.md",
+      "departments/application_part1_report_2019-20.md"
+    ],
+    "confidence": 0.533,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about that in my knowledge base.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 81,
+    "category": "Placements",
+    "question": "what is the placement cell doing",
+    "expected": "Training and recruiter assistance cell",
+    "latency_ms": 6815.47,
+    "sources": [
+      "placements/189krf-campus-placement-brochure.md",
+      "scholarships/sedg_cell.md",
+      "departments/mandatory-disclosure-edited.md",
+      "departments/biotech_curriculum_structure_content_2021-25.md"
+    ],
+    "confidence": 0.8507,
+    "source_used": "Local KB",
+    "answer": "The Placement Cell at KLE Technological University (BVB Engineering College) is actively involved in various activities to facilitate job placements for students. Some of their key initiatives include:\n\n1. Career Counseling: Providing career guidance and counseling to students throughout the year.\n2. Training and Development: Conducting workshops, training sessions, and internships to enhance skills and knowledge.\n3. Industry-Institute Interaction: Organizing talks, national seminars, and other events to provide a platform for students to interact with professionals from various industries.\n4. Placement Support: Collaborating with the placement cell to create employment opportunities for disadvantaged students.\n5. Internship Programs: Facilitating internships with well-established industries and startups, and evaluating the internship program through feedback from industry guides and students.\n\nThe Placement Cell also has partnerships with several organizations, including:\n\n* Indian National Bar Association\n* Indian Legal Centre\n* British Council\n* Green Lawyers\n* British Legal Centre\n* Xplore Consultancy\n\nThese partnerships aim to provide students with opportunities for placement, internships, and skill development.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 82,
+    "category": "Placements",
+    "question": " ACCO integrated B.Com placements",
+    "expected": "ACCA global placement partners (ISDC)",
+    "latency_ms": 4722.81,
+    "sources": [
+      "departments/kle-tech-annual-report-2018-19.md",
+      "departments/kle-tech-annual-report-2019-20.md",
+      "departments/bachelor_of_commerce_alt.md"
+    ],
+    "confidence": 0.6064,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about Acco Integrated B.Com placements in my knowledge base.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 83,
+    "category": "Placements",
+    "question": "companies hiring from Biotechnology",
+    "expected": "Biotech placement opportunities",
+    "latency_ms": 3677.6,
+    "sources": [
+      "departments/bachelor-biotechnology-curriculum-2022-2026.md",
+      "departments/ugbiotechnologydcpreport.md",
+      "departments/03-bachelor-of-biotechnology-curriculum-structure-content-2023-2027.md",
+      "departments/biotech_curriculum_structure_content_2021-25.md",
+      "departments/b_e_biotechnology_alt.md"
+    ],
+    "confidence": 0.6469,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about companies hiring from Biotechnology in my knowledge base.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 84,
+    "category": "Placements",
+    "question": "placement brochure download",
+    "expected": "Placement cell publications",
+    "latency_ms": 4401.98,
+    "sources": [
+      "placements/placement-brochure-kle-tech.md",
+      "placements/189krf-campus-placement-brochure.md",
+      "placements/placement-brochure-kle-technological-university-hubballi-karnataka-state.md",
+      "departments/kle-tech-annual-report-2018-19.md"
+    ],
+    "confidence": 0.8092,
+    "source_used": "Local KB",
+    "answer": "You can download the Placement Brochure for KLE Technological University (BVB Engineering College) from our official website at www.kletech.ac.in.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 85,
+    "category": "Placements",
+    "question": "average package in CSE",
+    "expected": "Placement records or packages info",
+    "latency_ms": 3921.35,
+    "sources": [
+      "departments/bachelor-computer-science-engineering-curriculum-2022-2026.md",
+      "departments/05-bachelor-of-cs-artificial-intelligence-curriculum-structure-content-2023-2027.md"
+    ],
+    "confidence": 0.4667,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about the average package for CSE students in my knowledge base.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 86,
+    "category": "Placements",
+    "question": "placement eligibility rules",
+    "expected": "CGPA and active backlogs criteria",
+    "latency_ms": 4079.85,
+    "sources": [
+      "departments/kle-tech-annual-report-2018-19.md",
+      "departments/kle-tech-annual-report-2019-20.md",
+      "placements/placement-brochure-kle-tech.md",
+      "departments/mandatory-disclosure-edited.md"
+    ],
+    "confidence": 0.5901,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about placement eligibility rules in my knowledge base.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 87,
+    "category": "Placements",
+    "question": "major recruiters at BVB campus",
+    "expected": "List of core and software recruiters",
+    "latency_ms": 3889.32,
+    "sources": [
+      "research/centre_for_engineering_education_research.md",
+      "placements/our_recruiters.md",
+      "departments/bvb-annual-report-2015-16.md",
+      "departments/annual-report-2014-15.md"
+    ],
+    "confidence": 0.699,
+    "source_used": "Local KB",
+    "answer": "According to the information available, some of the notable recruiters at BVB Campus are:\n\n- Reliance Industries Limited\n- Connect \n\nPlease note that this list may not be exhaustive.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 88,
+    "category": "Placements",
+    "question": "placement training classes",
+    "expected": "Soft skills and aptitude courses",
+    "latency_ms": 5027.56,
+    "sources": [
+      "placements/placement-brochure-kle-tech.md",
+      "placements/189krf-campus-placement-brochure.md",
+      "departments/b_e_computer_science_and_engineering_alt.md"
+    ],
+    "confidence": 0.6353,
+    "source_used": "Local KB",
+    "answer": "According to the information available, Soft skills Training named as “VIKAS” is provided to students, with a total duration of 64 Hours spread over 4 semesters. The modules included are:\n\n- Analytical Thinking (AT)\n- Mathematical Thinking (MT)\n- Creative + Lateral Thinking (CLT)\n- Technical Thinking (TT)\n- Corporate Behavior (CB)\n- Written English (WE)\n- Spoken English (SE)\n\nThese training classes are conducted by a reputed expert organization from Bangalore.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 89,
+    "category": "Timetable",
+    "question": "MCA exam timetable April 2025",
+    "expected": "ESA MCA exam timetable schedule",
+    "latency_ms": 4804.43,
+    "sources": [
+      "academic/3rd-sem-mba-mca-mtech-2024-25-odd.md",
+      "timetables/time_table.md",
+      "departments/mca-curriculum-structure-2025-2027.md",
+      "departments/mandatory-disclosure-edited.md"
+    ],
+    "confidence": 0.8287,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about the MCA Exam Timetable for April 2025 in my knowledge base.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 90,
+    "category": "Timetable",
+    "question": "BSc Electronics exam date",
+    "expected": "Timetable for B.Sc. Electronics ESA",
+    "latency_ms": 4497.12,
+    "sources": [
+      "timetables/6sem-be_b.arch_bba2_4-sem_-bca2sem-june-2023.md",
+      "timetables/8-sem-esa-time-table-may-2023.md",
+      "timetables/exam_time_table.md",
+      "campus/6th-sem-coe-2022-23.md"
+    ],
+    "confidence": 0.8416,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about the BSC Electronics Exam Date in my knowledge base.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 91,
+    "category": "Timetable",
+    "question": "MBA April exam timetable",
+    "expected": "School of Management Studies ESA timetable",
+    "latency_ms": 5050.48,
+    "sources": [
+      "academic/3rd-sem-mba-mca-mtech-2024-25-odd.md",
+      "timetables/notices_announcements.md",
+      "timetables/mba-6-term-time-table-esa.md",
+      "campus/revised-4th_sem-mba-mca-coe-2022-23.md"
+    ],
+    "confidence": 0.8001,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about the MCA Exam Timetable for April 2025 in my knowledge base.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 92,
+    "category": "Timetable",
+    "question": "timetable circular ref 5221",
+    "expected": "Circular for April 2025 examinations",
+    "latency_ms": 4531.88,
+    "sources": [
+      "departments/mandatory-disclosure-edited.md",
+      "administration/momiqac16may22and7july21609.md",
+      "timetables/notices_announcements.md",
+      "campus/coe-2ndsemb.eandb.archcoe2024-25_even.md"
+    ],
+    "confidence": 0.5958,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about the Timetable Circular Ref 5221 in my knowledge base.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 93,
+    "category": "Timetable",
+    "question": "odd semester class commencement timetable",
+    "expected": "Academic calendar or commencement notices",
+    "latency_ms": 4497.55,
+    "sources": [
+      "timetables/notices_announcements.md",
+      "academic/3rd-sem-mba-mca-mtech-2024-25-odd.md"
+    ],
+    "confidence": 0.7522,
+    "source_used": "Local KB",
+    "answer": "According to the academic calendar for Odd Semester 2024-25, the Class Commencement Date is:\n\n03/02/25",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 94,
+    "category": "Timetable",
+    "question": "when are time tables displayed",
+    "expected": "Departmental Notice Boards",
+    "latency_ms": 4483.7,
+    "sources": [
+      "timetables/time_table.md",
+      "timetables/8-sem-esa-time-table-may-2023.md",
+      "timetables/notices_announcements.md",
+      "timetables/exam_time_table.md",
+      "timetables/exam_notification.md"
+    ],
+    "confidence": 0.7857,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about the display schedule of Timetable Circular Ref 5221 in my knowledge base.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 95,
+    "category": "Timetable",
+    "question": "MTech exam timings April 2025",
+    "expected": "2:00 PM to 5:00 PM exam timings",
+    "latency_ms": 5256.51,
+    "sources": [
+      "academic/3rd-sem-mba-mca-mtech-2024-25-odd.md",
+      "timetables/notices_announcements.md",
+      "departments/mandatory-disclosure-edited.md"
+    ],
+    "confidence": 0.8199,
+    "source_used": "Local KB",
+    "answer": "According to the academic calendar for Odd Semester 2024-25, the Class Commencement Date is:\n\n03/02/25\n\nHowever, I couldn't find any information about the M.Tech Exam Timings in April 2025.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 96,
+    "category": "Timetable",
+    "question": "where is the exam timetable circular",
+    "expected": "Department notice boards copy list",
+    "latency_ms": 4638.27,
+    "sources": [
+      "timetables/notices_announcements.md",
+      "departments/mandatory-disclosure-edited.md",
+      "departments/aqar2021-22resubmittedaugust2023.md"
+    ],
+    "confidence": 0.6926,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about the display schedule of Timetable Circular Ref 5221 in my knowledge base.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 97,
+    "category": "Campus facilities",
+    "question": "on campus facilities",
+    "expected": "Sports, gym, health, banking, hostels",
+    "latency_ms": 4948.5,
+    "sources": [
+      "facilities/on_campus_facilities_alt.md",
+      "departments/aqar-2022-23-system-generated-copy.md",
+      "departments/aqar2021-22resubmittedaugust2023.md",
+      "facilities/academic_facilities.md"
+    ],
+    "confidence": 0.8817,
+    "source_used": "Local KB",
+    "answer": "The Timetable Circular Ref 5221 display schedule is not specified in my knowledge base. However, you can find information about the On Campus Facilities, including hostels, canteens, health care centre, power backup, security, and other amenities, at ",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 98,
+    "category": "Campus facilities",
+    "question": "banking facilities on campus",
+    "expected": "ATM and bank branches on campus",
+    "latency_ms": 4636.49,
+    "sources": [
+      "facilities/on_campus_facilities_alt.md",
+      "departments/aqar2021-22resubmittedaugust2023.md",
+      "facilities/on_campus_facilities.md",
+      "departments/aqar-2022-23-system-generated-copy.md",
+      "facilities/education_needs_complete_solution.md"
+    ],
+    "confidence": 0.8901,
+    "source_used": "Local KB",
+    "answer": "According to the information provided in the context, KLE Technological University has banking facilities on its campus, including a fully computerized branch of a nationalized bank and a 24-hour ATM facility. These facilities provide ease of financial transactions for students and staff members.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 99,
+    "category": "Campus facilities",
+    "question": "canteen dining options",
+    "expected": "Food joints and college cafeterias",
+    "latency_ms": 4288.83,
+    "sources": [
+      "departments/application-part-1-report-2018_19.md",
+      "departments/aqar-2022-23-system-generated-copy.md",
+      "departments/application_part1_report_2019-20.md",
+      "facilities/on_campus_facilities_alt.md"
+    ],
+    "confidence": 0.5603,
+    "source_used": "Local KB",
+    "answer": "According to the information provided, the campus has two canteens where a wide range of food choices is available to students and staff. Additionally, there is a McDonald's outlet on campus offering various food options.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 100,
+    "category": "Campus facilities",
+    "question": "sports ground amenities",
+    "expected": "Playgrounds, gym, indoor courts",
+    "latency_ms": 4483.31,
+    "sources": [
+      "departments/aqar2021-22resubmittedaugust2023.md",
+      "facilities/on_campus_facilities_alt.md",
+      "clubs/sports_and_health.md",
+      "departments/application-part-1-report-2018_19.md"
+    ],
+    "confidence": 0.6751,
+    "source_used": "Local KB",
+    "answer": "According to the information provided, the University has a sports ground with various amenities. The details of these facilities are uploaded in supporting documents.\n\nHowever, I couldn't find specific information about the amenities available on the sports ground itself in my knowledge base.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 101,
+    "category": "Campus facilities",
+    "question": "health center locations",
+    "expected": "Medical facilities on campus",
+    "latency_ms": 5169.85,
+    "sources": [
+      "research/kle-technological-university-public-mandatory-disclosure.md",
+      "administration/intercom-04-03-2022.md",
+      "departments/aqar2021-22resubmittedaugust2023.md"
+    ],
+    "confidence": 0.3682,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about the specific amenities available on the sports ground itself in my knowledge base. However, according to the provided context, the University has a sports ground with various amenities, and details of these facilities are uploaded in supporting documents. For more information on the sports ground amenities, you can refer to the supporting documents or contact the relevant authorities.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 102,
+    "category": "Campus facilities",
+    "question": "auditorium inside BVB campus",
+    "expected": "Auditoriums and seminar halls",
+    "latency_ms": 4285.67,
+    "sources": [
+      "departments/bvbcet-annual-report-2013-14.md",
+      "facilities/on_campus_facilities.md",
+      "departments/bog_minutes.md"
+    ],
+    "confidence": 0.774,
+    "source_used": "Local KB",
+    "answer": "According to the information provided, KLE Technological University (BVB Engineering College) has a well-equipped auditorium that offers a huge seating capacity. The auditorium is aesthetically built with spacious and ventilated halls making it ideal for various academic and cultural activities. It also features the latest audio-visual equipment such as LCD projectors, screens, and whiteboards.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 103,
+    "category": "Campus facilities",
+    "question": "Wi-Fi facilities on campus",
+    "expected": "Internet access in campus blocks",
+    "latency_ms": 4594.5,
+    "sources": [
+      "departments/mandatory-disclosure-edited.md",
+      "departments/aqar-2022-23-system-generated-copy.md",
+      "facilities/on_campus_facilities_alt.md",
+      "departments/aqar2021-22resubmittedaugust2023.md",
+      "facilities/on_campus_facilities.md"
+    ],
+    "confidence": 0.8287,
+    "source_used": "Local KB",
+    "answer": "According to the information provided, yes, All the buildings are Wi-Fi enabled. Every school and department is connected with intercom Telephone facility. Every school and department is also provided with access to WIFI facility.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 104,
+    "category": "Campus facilities",
+    "question": "stationary shop in campus",
+    "expected": "Student amenities store",
+    "latency_ms": 4144.01,
+    "sources": [
+      "departments/bog_minutes.md"
+    ],
+    "confidence": 0.641,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about a specific \"stationary shop\" in my knowledge base. However, according to the provided context, the University has various facilities for students and faculty, including the MakerSpace which provides modern design, prototyping, and manufacturing facilities. It is possible that there might be other facilities or services available on campus that could support student needs related to stationery or office supplies. For more information, you can refer to the supporting documents or contact the relevant authorities.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 105,
+    "category": "Office locations",
+    "question": "where is HOD CSE office",
+    "expected": "School of CSE office location (Room 401)",
+    "latency_ms": 4916.77,
+    "sources": [
+      "departments/schoolsdepartments_alt.md",
+      "academic/programs.md",
+      "academic/mtech_computer_science_and_engineering.md"
+    ],
+    "confidence": 0.5576,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about the exact location of the HOD CSE office in my knowledge base.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 106,
+    "category": "Office locations",
+    "question": "office of controller of examinations",
+    "expected": "BVB campus exam section",
+    "latency_ms": 4309.26,
+    "sources": [
+      "timetables/bog_minutes_alt.md",
+      "timetables/minutes-10th-ecm-online.md",
+      "timetables/bog_minutes.md",
+      "timetables/ec_minutes.md"
+    ],
+    "confidence": 0.7996,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about the exact location of the Office of the Controller of Examinations in my knowledge base.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 107,
+    "category": "Office locations",
+    "question": "where is Registrar office",
+    "expected": "Administrative block registry location",
+    "latency_ms": 4701.33,
+    "sources": [
+      "timetables/ec_minutes.md",
+      "administration/intercom-04-03-2022.md",
+      "administration/anti_sexual_harassment_committee.md",
+      "administration/momiqac16may22and7july21609.md",
+      "departments/application-part-1-report-2018_19.md"
+    ],
+    "confidence": 0.5275,
+    "source_used": "Local KB",
+    "answer": "The location of the Registrar Office is not explicitly mentioned in my knowledge base. However, according to the provided context, the Registrar Office can be found at page 110 of the PDF Document: intercom-04-03-2022.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 108,
+    "category": "Office locations",
+    "question": "placement cell office location",
+    "expected": "Admin block placement cell section",
+    "latency_ms": 4495.67,
+    "sources": [
+      "placements/189krf-campus-placement-brochure.md",
+      "scholarships/sedg_cell.md",
+      "departments/mandatory-disclosure-edited.md",
+      "administration/intercom-04-03-2022.md",
+      "campus/college_of_law.md"
+    ],
+    "confidence": 0.8115,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about the exact location of the Placement Cell Office in my knowledge base. However, according to the provided context, the Training & Placement Cell is located at page 127 of the PDF Document: intercom-04-03-2022.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 109,
+    "category": "Office locations",
+    "question": "admission office location",
+    "expected": "Administrative block admission counter",
+    "latency_ms": 4642.56,
+    "sources": [
+      "facilities/remote_access.md",
+      "timetables/ec_minutes.md",
+      "departments/application-part-1-report-2018_19.md"
+    ],
+    "confidence": 0.5387,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about the exact location of the Admission Office in my knowledge base. However, according to the provided context, the Training & Placement Cell is located at page 127 of the PDF Document: intercom-04-03-2022.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 110,
+    "category": "Office locations",
+    "question": "where is Biotech HOD office",
+    "expected": "Biotechnology department office block",
+    "latency_ms": 4939.56,
+    "sources": [
+      "departments/phd_in_biotechnology_alt.md",
+      "departments/bachelor-biotechnology-curriculum-2022-2026.md",
+      "departments/ugcomputerscienceengineeringdcpreport.md"
+    ],
+    "confidence": 0.4359,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about the exact location of the Biotechnology Department Head Office in my knowledge base. However, according to the provided context, the B V. Bhoomaraddi Campus is located at Hubballi.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 111,
+    "category": "Office locations",
+    "question": "where is Automation and Robotics research center",
+    "expected": "CARR Research Center location",
+    "latency_ms": 5041.2,
+    "sources": [
+      "departments/center_for_automation_robotics_research_carr.md",
+      "departments/ph_d_in_automation_robotics_alt.md",
+      "departments/automation_robotics_curriculum_structure_content_2021-25.md",
+      "departments/02-bachelor-of-automation-and-robotics-curriculum-structure-content-2023-2027.md"
+    ],
+    "confidence": 0.8875,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about the exact location of the Automation and Robotics Research Center in my knowledge base. However, according to the provided context, the B V. Bhoomaraddi Campus is located at Hubballi.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 112,
+    "category": "Office locations",
+    "question": "finance office block location",
+    "expected": "Admin block accounts section",
+    "latency_ms": 4990.63,
+    "sources": [
+      "administration/intercom-04-03-2022.md",
+      "departments/application_part1_report_2019-20.md",
+      "departments/application-part-1-report-2018_19.md"
+    ],
+    "confidence": 0.5612,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about the exact location of the Finance Officer in my knowledge base. However, according to the provided context, the Finance Officer is listed under \"Dean Office\" on page 120 of the PDF Document: intercom-04-03-2022.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 113,
+    "category": "Follow-up questions",
+    "question": "where is the library? and what are its timings?",
+    "expected": "Locate Block C + Timings",
+    "latency_ms": 5547.66,
+    "sources": [
+      "facilities/education_needs_complete_solution.md",
+      "departments/mandatory-disclosure-edited.md",
+      "hostel/library_rules.md"
+    ],
+    "confidence": 0.6764,
+    "source_used": "Local KB",
+    "answer": "The KLE Technological University Central Library is located at the B V. Bhoomaraddi Campus, Vidyanagar, Hubballi-580 03 L Karnataka (India).\n\nAccording to the provided context, the Central Library timings are:\n\nMonday to Friday: 8 AM to 8 PM\nSaturday and Sunday: 9 AM to 5 PM",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 114,
+    "category": "Follow-up questions",
+    "question": "tell me about Biotech. what are the career options after it?",
+    "expected": "Biotech details + Career placements",
+    "latency_ms": 9368.63,
+    "sources": [
+      "departments/b_e_biotechnology.md",
+      "departments/biotech_curriculum_structure_content_2021-25.md",
+      "departments/phd_in_biotechnology_alt.md",
+      "departments/bachelor-biotechnology-curriculum-2022-2026.md"
+    ],
+    "confidence": 0.4647,
+    "source_used": "Local KB",
+    "answer": "Biotechnology (BT) is an interdisciplinary field that combines biology, technology, and engineering to develop innovative solutions for various challenges in healthcare, agriculture, environment, and industry.\n\nIn the context of KLE Technological University's B.E. Biotechnology program, students learn about molecular biology, bioprocess engineering, and bioinformatics to equip them with a strong foundation in biotechnology.\n\nAfter completing the B.E. Biotechnology program, graduates can pursue various career options:\n\n1. Research and Development: Work in research institutions, universities, or industries to develop new technologies and products.\n2. Pharmaceutical Industry: Apply knowledge of biotechnology to develop new medicines and therapies.\n3. Food Processing and Preservation: Use biotechnology to improve food safety, quality, and shelf life.\n4. Environmental Conservation: Apply biotechnology to clean up pollutants, monitor environmental health, and develop sustainable solutions.\n5. Biomanufacturing: Work in industries that produce bio-based products, such as biofuels, bioplastics, or biochemicals.\n6. Regulatory Affairs: Ensure compliance with regulations and guidelines related to biotechnology products and applications.\n7. Consulting: Provide expertise to companies, governments, or organizations on biotechnology-related projects and initiatives.\n\nThese career options are not exhaustive, but they represent some of the many paths available to individuals with a degree in B.E. Biotechnology.\n\nSources:\n\n* departments/b_e_biotechnology.md | Title: B E Biotechnology | Section: departments\n* departments/biotech_curriculum_structure_content_2021-25.md | Title: PDF Document: Biotech_Curriculum_Structure_Content_2021-25 | Section: departments\n* departments/phd_in_biotechnology_alt.md | Title: Ph.D. in Biotechnology | Section: departments\n* departments/bachelor-biotechnology-curriculum-2022-2026.md | Title: PDF Document: bachelor-biotechnology-curriculum-2022-2026 | Section: departments",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 115,
+    "category": "Follow-up questions",
+    "question": "who is Dr. Prakash Tewari? is he the Vice Chancellor?",
+    "expected": "VC confirmation",
+    "latency_ms": 4698.0,
+    "sources": [
+      "research/kle-technological-university-public-mandatory-disclosure.md",
+      "departments/news_alt.md",
+      "administration/executive_council.md",
+      "departments/bog_minutes_alt.md",
+      "timetables/bog_minutes.md"
+    ],
+    "confidence": 0.8868,
+    "source_used": "Local KB",
+    "answer": "Dr. Prakash G. Tewari is indeed the Vice-Chancellor of KLE Technological University (KLETU) in Hubballi, Karnataka, India.\n\nAccording to the context provided, Dr. Prakash G. Tewari is also the Pro-Chancellor and Co-Founder of AGNIT Semiconductors, Bangalore.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 116,
+    "category": "Follow-up questions",
+    "question": "what is the eligibility for BE? how about management quota?",
+    "expected": "BE entry requirements + Quota rules",
+    "latency_ms": 6975.89,
+    "sources": [
+      "departments/master_of_business_administration_alt.md",
+      "timetables/bog_minutes_alt.md",
+      "departments/b_e_civil_engineering_alt.md",
+      "departments/b_e_mechanical_engineering_alt.md",
+      "academic/b_e_electronics_engineering_vlsi_design_technology_alt.md"
+    ],
+    "confidence": 0.6905,
+    "source_used": "Local KB",
+    "answer": "According to the context provided, the eligibility criteria for B.E. programs at KLE Technological University are:\n\n1. Bachelor's degree (10+2+3) with an aggregate of minimum 50% in graduation.\n2. Successful clearance of PGCET entrance exam conducted by Karnataka Examination Authority, Bengaluru (mandatory for government quota).\n3. Successful clearance of any one of the following entrance exams:\n   - CMAT\n   - CAT\n   - KMAT\n   - PGCET (for management quota)\n\nFor Management Quota:\n\n1. Bachelor's degree (10+2+3) with an aggregate of minimum 50% in graduation.\n2. Successful clearance of any one of the following entrance exams:\n   - CMAT\n   - CAT\n   - KMAT\n\nNote that the eligibility criteria for government quota and management quota are different.\n\nSources:\n\n* departments/b_e_biotechnology.md | Title: B E Biotechnology | Section: departments\n* timetables/bog_minutes_alt.md | Title: PDF Document: 7th_BOG_Minutes | Section: timetables",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 117,
+    "category": "Follow-up questions",
+    "question": "describe the hostels. is there any mess facility?",
+    "expected": "Hostels + Dining canteens",
+    "latency_ms": 7468.6,
+    "sources": [
+      "facilities/on_campus_facilities.md",
+      "departments/prospectus.md",
+      "departments/application-part-1-report-2018_19.md",
+      "departments/aqar2021-22resubmittedaugust2023.md"
+    ],
+    "confidence": 0.8407,
+    "source_used": "Local KB",
+    "answer": "According to the context provided, KLE Technological University has well-furnished exclusive hostels for boys and girls with a capacity of 2240 students.\n\nThe hostels are equipped with:\n\n* 24-hour power back-up\n* Wi-Fi connectivity\n* Mess providing nutritious and hygienic food\n* Aesthetically built and installed furniture in all rooms\n\nThere are separate hostels for boys and girls, with the following capacities:\n\n* Boys: 39 rooms (JBH-B14) with an area of 13.26 sq.m.\n* Senior Boys: 194 rooms (SBH-B15) with an area of 21.09 sq.m.\n* Girls: 79 rooms (LHB-B16) with an area of 18.53 sq.m.\n* Junior Girls: 139 rooms (LHB-B17) with an area of 20.7 sq.m.\n\nThe hostels are supervised by full-time, dedicated hostel wardens and have a wholesome and hygienic food system in the dining hall.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 118,
+    "category": "Follow-up questions",
+    "question": "which entrance exam is accepted for MCA? what is the fee?",
+    "expected": "MCA exams + Tuition fee structure",
+    "latency_ms": 6598.47,
+    "sources": [
+      "academic/course_fee_structure_alt.md",
+      "timetables/mca-2020.md",
+      "academic/post_graduate_program.md",
+      "academic/fee_structure.md",
+      "academic/mca_programs.md"
+    ],
+    "confidence": 0.6147,
+    "source_used": "Local KB",
+    "answer": "According to the context provided, the following entrance exams are accepted for MCA:\n\n1. CMAT\n2. CAT\n3. KMAT\n\nThe fees structure for MCA programs at KLE Technological University is as follows:\n\n* I & II Semester Cet: \n  - Tuition Fees: 75000.00\n  - KLE Tech University Fees: 5000.00\n  - Other Fees: 17660.00\n  - Exam Fees: 3400.00\n  - Total Fees: 101060.00\n\n* I & II Semester Mngt:\n  - Tuition Fees: 90000.00\n  - KLE Tech University Fees: 5000.00\n  - Other Fees: 17660.00\n  - Exam Fees: 3400.00\n  - Total Fees: 116060.00",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 119,
+    "category": "Follow-up questions",
+    "question": "where is Block C? is the library there?",
+    "expected": "Block C + Library verification",
+    "latency_ms": 5686.77,
+    "sources": [
+      "departments/mandatory-disclosure-edited.md",
+      "research/overview.md",
+      "facilities/education_needs_complete_solution.md",
+      "facilities/academic_facilities.md"
+    ],
+    "confidence": 0.5716,
+    "source_used": "Local KB",
+    "answer": "According to the context provided, Block C is located in the Central Library of KLE Technological University.\n\nThe Central Library has a New Library Block (C-Lite) which is also known as Block C. It is fully automated with state-of-the-art technological applications and has a carpet area of 3000 sq.Mtrs.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 120,
+    "category": "Follow-up questions",
+    "question": "is there Wi-Fi in the campus? how about hostels?",
+    "expected": "Wi-Fi facilities on campus + Hostel internet",
+    "latency_ms": 6226.57,
+    "sources": [
+      "facilities/on_campus_facilities.md",
+      "departments/mandatory-disclosure-edited.md",
+      "departments/aqar2021-22resubmittedaugust2023.md",
+      "departments/aqar-2022-23-system-generated-copy.md"
+    ],
+    "confidence": 0.6727,
+    "source_used": "Local KB",
+    "answer": "According to the context provided:\n\n* Wi-Fi connectivity is available on the campus, as stated in Section 4.1.3 - Availability of general campus facilities and overall ambience.\n* Hostel rooms have Wi-Fi connectivity.\n\nSource: departments/aqar2021-22resubmittedaugust2023.md | Title: PDF Document: 9imguf_AQAR2021-22ResubmittedAugust2023 | Section: departments\n\nNote that the source mentions \"Every school and department is connected with intercom Telephone facility. Every school and department is also provided with access to WIFI facility.\"",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 121,
+    "category": "Ambiguous questions",
+    "question": "what is the timing?",
+    "expected": "Refuse or request clarification",
+    "latency_ms": 3664.44,
+    "sources": [
+      "hostel/mtech-ec-vlsi-curriculum-2024-26.md",
+      "departments/updated-curriculum-structure-syllabus-2023-27.md",
+      "hostel/09-bachelor-of-electronics-engg-vlsi-curriculum-structure-and-content-2023-27.md",
+      "departments/ece_curriculum_structure_and_content_2021-25.md",
+      "departments/bachelor-electronics-communication-engineering-vlsi-curriculum-2022-2026.md"
+    ],
+    "confidence": 0.6069,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about that in my knowledge base.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 122,
+    "category": "Ambiguous questions",
+    "question": "where is the office?",
+    "expected": "Refuse or request clarification",
+    "latency_ms": 4154.74,
+    "sources": [
+      "administration/intercom-04-03-2022.md",
+      "departments/application-part-1-report-2018_19.md",
+      "departments/application_part1_report_2019-20.md"
+    ],
+    "confidence": 0.5512,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about that in my knowledge base.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 123,
+    "category": "Ambiguous questions",
+    "question": "what is the fee structure?",
+    "expected": "Refuse or request clarification",
+    "latency_ms": 7075.4,
+    "sources": [
+      "academic/fee_structure.md",
+      "academic/bachelor_of_architecture_alt.md",
+      "departments/b_e_computer_science_and_engineering_artificial_in_alt.md",
+      "academic/course_fee_structure_alt.md",
+      "academic/b_e_electronics_engineering_vlsi_design_technology_alt.md"
+    ],
+    "confidence": 0.8534,
+    "source_used": "Local KB",
+    "answer": "The fee structure for KLE Technological University (BVB Engineering College) can be found in the academic section of the website. The fees vary depending on the course and quota.\n\nFor Non-Engineering Courses:\n\n* Bachelor of Computer Application (BCA): ₹ 90,000 per annum\n* Bachelor of Business Administration (BBA): ₹ 76,000 per annum\n* Bachelor of Commerce (B Com.): ₹ 35,000 per annum\n* Bachelor of Commerce with ACCA (B Com with ACCA): ₹ 75,000 per annum\n* BSc. Fashion & Apparel Design: ₹ 53,000 per annum\n* Integrated Masters of Computer Application (Integrated MCA): ₹ 90,000 per annum\n\nFor Engineering Courses:\n\n* KCET Quota:\n + Computer Science and Engineering (Artificial Intelligence): ₹ 1,12,410 per annum\n + Electronics Engineering (VLSI Design & Technology): ₹ 1,12,410 per annum\n* COMEDK Quota:\n + Computer Science and Engineering (Artificial Intelligence): ₹ 3,04,100 per annum\n + Electronics Engineering (VLSI Design & Technology): ₹ 3,04,100 per annum\n* Management Quota:\n + Computer Science and Engineering (Artificial Intelligence): ₹ 3,25,000 per annum\n + Electronics Engineering (VLSI Design & Technology): ₹ 3,04,100 per annum\n\nNote: There are additional charges for Non-Karnataka Students, SAARC Country Students, and Foreign Country Students.",
+    "correct": false,
+    "score": 0,
+    "failure_cause": "LLM hallucination"
+  },
+  {
+    "idx": 124,
+    "category": "Ambiguous questions",
+    "question": "who is the HOD?",
+    "expected": "Refuse or request clarification",
+    "latency_ms": 4405.26,
+    "sources": [
+      "departments/ugcomputerscienceengineeringdcpreport.md",
+      "departments/phd_in_biotechnology_alt.md",
+      "departments/schoolsdepartments.md"
+    ],
+    "confidence": 0.5244,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about that in my knowledge base.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 125,
+    "category": "Ambiguous questions",
+    "question": "how do I apply?",
+    "expected": "Refuse or request clarification",
+    "latency_ms": 4721.94,
+    "sources": [
+      "academic/llm_ipr.md",
+      "departments/intenational_admission_alt.md",
+      "campus/privacy_policy.md"
+    ],
+    "confidence": 0.5188,
+    "source_used": "Local KB",
+    "answer": "To get admitted to KLE Technological University (BVB Engineering College), follow these steps:\n\n1. Submit the pre-admission registration as outlined in the admission process.\n2. Fill out the online application form and post it to your registered address.\n\nThe status of your application will be communicated through SMS/e-mail to your registered mobile number and email ID.\n\nFor specific course admissions, such as LL.M., follow the steps under the respective course:\n\n- For LL.M., submit the pre-admission registration and online application form.\n- The status of the application shall be communicated through SMS / e-mail to the registered mobile number and email ID.\n\nPlease note that additional information may be required for specific courses or quotas.",
+    "correct": false,
+    "score": 0,
+    "failure_cause": "LLM hallucination"
+  },
+  {
+    "idx": 126,
+    "category": "Ambiguous questions",
+    "question": "what are the courses?",
+    "expected": "Refuse or request clarification",
+    "latency_ms": 3422.88,
+    "sources": [
+      "timetables/bog_minutes.md",
+      "timetables/ec_minutes.md",
+      "timetables/bog_minutes_alt.md"
+    ],
+    "confidence": 0.7418,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about that in my knowledge base.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 127,
+    "category": "Ambiguous questions",
+    "question": "tell me about placement",
+    "expected": "Refuse or request clarification",
+    "latency_ms": 5508.74,
+    "sources": [
+      "departments/master_of_computer_application_alt.md",
+      "placements/189krf-campus-placement-brochure.md"
+    ],
+    "confidence": 0.5815,
+    "source_used": "Local KB",
+    "answer": "At BVB Engineering College, the campus placement process is organized and provides diverse company options. The college offers effective pre-placement training to improve skills.\n\nThe Placement Cell conducts various activities and workshops such as Contract Drafting Training, Professional Ethics training, interview skills, group discussions, and mock interviews for students. Students also attend pre-placement talks organized by companies, followed by tests and interviews in the college campus.\n\nAdditionally, the college provides opportunities for internships, part-time jobs, and volunteering. The Training & Placement Cell firmly believes in 'Industry-Institute Interaction' to accomplish this goal.\n\nSome of the current partners of the Career Guidance Cell include:\n\n1) Indian National Bar Association\n2) Indian Legal Centre\n3) British Council\n4) Green Lawyers\n5) British Legal Centre\n6) Xplore Consultancy",
+    "correct": false,
+    "score": 0,
+    "failure_cause": "LLM hallucination"
+  },
+  {
+    "idx": 128,
+    "category": "Ambiguous questions",
+    "question": "where is the hostel?",
+    "expected": "Refuse or request clarification",
+    "latency_ms": 4199.48,
+    "sources": [
+      "facilities/on_campus_facilities.md",
+      "departments/mandatory-disclosure-edited.md",
+      "departments/prospectus.md",
+      "clubs/kle_society.md"
+    ],
+    "confidence": 0.7838,
+    "source_used": "Local KB",
+    "answer": "The hostels are located within the campus of BVB Engineering College, Hubballi.",
+    "correct": false,
+    "score": 0,
+    "failure_cause": "LLM hallucination"
+  },
+  {
+    "idx": 129,
+    "category": "Misspelled questions",
+    "question": "whre is the libery",
+    "expected": "Resolve to Central Library location",
+    "latency_ms": 4217.46,
+    "sources": [
+      "research/overview.md",
+      "facilities/education_needs_complete_solution.md",
+      "facilities/academic_facilities.md"
+    ],
+    "confidence": 0.7362,
+    "source_used": "Local KB",
+    "answer": "The Central Library of BVB Engineering College, Hubballi, is located within the campus.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 130,
+    "category": "Misspelled questions",
+    "question": "deprtments of colage",
+    "expected": "Resolve to departments list",
+    "latency_ms": 5046.99,
+    "sources": [
+      "departments/schoolsdepartments.md",
+      "departments/schoolsdepartments_alt.md",
+      "departments/ugcomputerscienceengineeringdcpreport.md"
+    ],
+    "confidence": 0.6598,
+    "source_used": "Local KB",
+    "answer": "The Departments of BVB Engineering College, Hubballi are:\n\n1. School of Computer Science and Engineering\n2. School of Mechanical Engineering\n3. School of Civil Engineering\n4. School of Electronics and Communication Engineering\n5. School of Electrical & Electronics Engineering\n6. Department of Automation & Robotics\n7. Department of Biotechnology\n8. School of Architecture\n9. Department of Computer Application\n10. School of Management Studies and Research\n11. Department of Commerce\n12. Department of Fashion Design",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 131,
+    "category": "Misspelled questions",
+    "question": "who is current vce chancelor",
+    "expected": "Resolve to VC Dr. Prakash Tewari",
+    "latency_ms": 3684.45,
+    "sources": [
+      "research/kle-technological-university-public-mandatory-disclosure.md",
+      "timetables/ec_minutes.md",
+      "timetables/minutes-10th-ecm-online.md",
+      "academic/bog_minutes.md"
+    ],
+    "confidence": 0.8197,
+    "source_used": "Local KB",
+    "answer": "The current Vice-Chancellor of KLE Technological University (BVB Engineering College), Hubballi, is Dr. Prakash Tewari.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 132,
+    "category": "Misspelled questions",
+    "question": "how to apply NRI qota",
+    "expected": "Resolve to NRI quota admission",
+    "latency_ms": 4432.86,
+    "sources": [
+      "departments/international_admission.md",
+      "timetables/bog_minutes.md",
+      "timetables/bog_minutes_alt.md"
+    ],
+    "confidence": 0.8509,
+    "source_used": "Local KB",
+    "answer": "To apply for admission under the NRI (Non-Resident Indian) quota, follow these steps:\n\n1. Register online.\n2. Fill an online application form.\n3. Make fee payment through SWIFT/E-Payment/NEFT/RTGS transfer on or before the deadline mentioned in the schedule on KLE Tech website.\n4. Upload online application and documents to KLE Tech website through the portal only.\n\nNote: Only registered applicants will be considered for admission.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 133,
+    "category": "Misspelled questions",
+    "question": "tuition fe structure",
+    "expected": "Resolve to tuition fee query",
+    "latency_ms": 10234.8,
+    "sources": [
+      "academic/course_fee_structure_alt.md",
+      "academic/course_fee_structure.md",
+      "departments/intenational_admission_alt.md",
+      "departments/bog_minutes.md"
+    ],
+    "confidence": 0.6447,
+    "source_used": "Local KB",
+    "answer": "The tuition fee structure for BVB Engineering College, Hubballi is as follows:\n\nFor M. Tech students (III and IV semester):\n\n| Branch | Tuition Fees | University Fees | Others Fees & Alumni | Exam Fees | Cet Total | Mngt Total |\n|  | CET | MNGT |  |  |  |  |  |\n| Structural Engineering | 85000.00 | 125000.00 | 2500.00 | 16600.00 | 3400.00 | 107500.00 | 147500.00 |\n| Production Management | 85000.00 | 125000.00 | 2500.00 | 16600.00 | 3400.00 | 107500.00 | 147500.00 |\n| Computer Science & Engineering | 85000.00 | 125000.00 | 2500.00 | 16600.00 | 3400.00 | 107500.00 | 147500.00 |\n| Digital Electronics | 85000.00 | 125000.00 | 5000.00 | 16600.00 | 3400.00 | 107500.00 | 147500.00 |\n| VLSI Design & Testing | 85000.00 | 125000.00 | 2500.00 | 16600.00 | 3400.00 | 107500.00 | 147500.00 |\n| Machine Design | 85000.00 | 125000.00 | 2500.00 | 16600.00 | 3400.00 | 107500.00 | 147500.00 |\n\nFor UG students (I and II semester):\n\n| Particular | Cet-Aided | Cet-Un-Aided | Comed-K And Management Quota |\n|  |  |  | MEC, EC, CSE, Civil & E&E | BT | A&R | B.Arch |\n| Tuition Fees | 15000.00 | 62073.00 | 201960.00 | 110000.00 | 160000.00 | 201960.00 |\n| KLETU Reg Fees | 3000.00 | 3000.00 | 3000.00 | 3000.00 | 3000.00 | 3000.00 |\n| KLETU E-Learning Fees |",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 134,
+    "category": "Misspelled questions",
+    "question": "hostel mes details",
+    "expected": "Resolve to hostel mess food details",
+    "latency_ms": 5563.56,
+    "sources": [
+      "departments/mandatory-disclosure-edited.md",
+      "departments/intenational_admission_alt.md",
+      "facilities/on_campus_facilities.md",
+      "departments/prospectus.md"
+    ],
+    "confidence": 0.8466,
+    "source_used": "Local KB",
+    "answer": "The hostel details for BVB Engineering College, Hubballi are as follows:\n\nSl. No.     Name of the Hostel   Capacity \n\n1   NRUPATUNGA Boys Hostel   685 \n2   SAHYADRI Boys Hostel    270 \n3   SARASWATI Girls Hostel   535 \n4   SHALMALA1 Girls Hostel   362 \n5   SHARAVATI Girls Hostel   224 \n6   VINDHYA1 Boys Hostel    212",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 135,
+    "category": "Misspelled questions",
+    "question": "exam time tabel circular",
+    "expected": "Resolve to exam timetable circular",
+    "latency_ms": 4677.41,
+    "sources": [
+      "timetables/notices_announcements.md",
+      "timetables/exam_time_table.md",
+      "timetables/exam_notification.md",
+      "timetables/time_table.md"
+    ],
+    "confidence": 0.8682,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about that in my knowledge base.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 136,
+    "category": "Misspelled questions",
+    "question": "whre is HOD CSE room",
+    "expected": "Resolve to Room 401 CSE HOD",
+    "latency_ms": 4881.65,
+    "sources": [
+      "departments/schoolsdepartments_alt.md",
+      "departments/schoolsdepartments.md",
+      "academic/mtech_computer_science_and_engineering.md"
+    ],
+    "confidence": 0.5619,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about that in my knowledge base.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 137,
+    "category": "Hindi",
+    "question": "लाइब्रेरी कहाँ है?",
+    "expected": "Hindi response locating library",
+    "latency_ms": 5211.03,
+    "sources": [
+      "hostel/library_rules.md",
+      "facilities/education_needs_complete_solution.md",
+      "research/overview.md"
+    ],
+    "confidence": 0.4138,
+    "source_used": "Local KB",
+    "answer": "लाइब्रेरी का पता हॉल टावर, केएलई तकनिकल यूनिवर्सिटी, हुब्बली।",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 138,
+    "category": "Hindi",
+    "question": "कॉलेज में कितने डिपार्टमेंट हैं?",
+    "expected": "Hindi response listing departments",
+    "latency_ms": 4619.41,
+    "sources": [
+      "departments/schoolsdepartments_alt.md",
+      "departments/schoolsdepartments.md",
+      "departments/ugcomputerscienceengineeringdcpreport.md"
+    ],
+    "confidence": 0.5337,
+    "source_used": "Local KB",
+    "answer": "कॉलेज में कुल 17 विभाग हैं।",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 139,
+    "category": "Hindi",
+    "question": "वाइस चांसलर कौन हैं?",
+    "expected": "Hindi response identifying VC Dr. Prakash Tewari",
+    "latency_ms": 4762.97,
+    "sources": [
+      "administration/kle-tech-statutes.md",
+      "timetables/ec_minutes.md",
+      "academic/bog_minutes.md"
+    ],
+    "confidence": 0.7874,
+    "source_used": "Local KB",
+    "answer": "वाइस चांसलर केएलई तकनिकल यूनिवर्सिटी के चांसलर द्वारा नियुक्त किया जाता है, जो तीन वर्षों के लिए नियुक्त होता है। इसके बाद यह पद फिर से नियुक्त किया जा सकता है।",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 140,
+    "category": "Hindi",
+    "question": "हॉस्टल की फीस क्या है?",
+    "expected": "Hindi response explaining hostel fees",
+    "latency_ms": 5314.59,
+    "sources": [
+      "departments/application_part1_report_2019-20.md",
+      "departments/mandatory-disclosure-edited.md",
+      "campus/faqs.md"
+    ],
+    "confidence": 0.539,
+    "source_used": "Local KB",
+    "answer": "हॉस्टल की फीस 301917428 रुपये है।",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 141,
+    "category": "Hindi",
+    "question": "प्रवेश की प्रक्रिया क्या है?",
+    "expected": "Hindi response detailing admission process",
+    "latency_ms": 10227.69,
+    "sources": [
+      "timetables/bog_minutes_alt.md",
+      "timetables/ec_minutes.md",
+      "timetables/bog_minutes.md",
+      "academic/under_graduate_program.md"
+    ],
+    "confidence": 0.8111,
+    "source_used": "Local KB",
+    "answer": "प्रवेश की प्रक्रिया निम्नलिखित है:\n\n12.1 एक उम्मीदवार सरकारी कोटे में प्रवेश लेने के लिए, वह सामान्य प्रवेश परीक्षा की प्रक्रियाओं का पालन करेगा, जो सरकार ऑफ़ कर्नाटक द्वारा नोटिफाई की गई है और समय-समय पर बदली रहती है।\n\n12.2 एक उम्मीदवार विश्वविद्यालय कोटे में प्रवेश लेने के लिए, वह प्रवेश परीक्षा को विश्वविद्यालय या स्वीकृत प्रवेश परीक्षण अधिकारियों द्वारा आयोजित किया जाएगा, जैसे कि KEA/CMAT/MAT/CAT।\n\n12.2.1 विश्वविद्यालय प्रवेश परीक्षा (यदि आयोजित होती है) के रैंकिंग्स के आधार पर प्रवेश प्रक्रिया में भाग लेने या सीधे आवेदित उम्मीदवारों द्वारा निर्धारित किए गए उम्मीदवारों द्वारा प्रवेश प्रदान करने के लिए काउंसलिंग आयोजित कर सकता है।\n\n12.3 सरकारी कोटे में प्रवेश लेने के लिए, उम्मीदवार को अपने गुणवत्ता और मिग्रेशन संशोधन प्रमाण पत्र को मूल रूप से जमा करना होगा।\n\n12.4 एनआरआई/पीआईओ/एफएन प्रवेश लेने के लिए, उम्मीदवार अलग-अलग साथ में समानता / गुणवत्ता / मिग्रेशन प्रमाण पत्रों के साथ पासपोर्ट / वीजा / स्पष्टता / एनओसी से संबंधित संगठनों को आवेदन करेगा।\n\n12.5 प्रवेश लेने के लिए, उम्मीदवार को एक मेडिकल रूप से प्रमाणित होन",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 142,
+    "category": "Hindi",
+    "question": "क्या हॉस्टल में वाई-फाई है?",
+    "expected": "Hindi response detailing hostel Wi-Fi",
+    "latency_ms": 5146.62,
+    "sources": [
+      "departments/aqar2021-22resubmittedaugust2023.md",
+      "departments/aqar-2022-23-system-generated-copy.md",
+      "departments/application-part-1-report-2018_19.md"
+    ],
+    "confidence": 0.5405,
+    "source_used": "Local KB",
+    "answer": "हाँ, हॉस्टल में वाई-फाई उपलब्ध है।",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 143,
+    "category": "Hindi",
+    "question": "प्लेसमेंट सेल कहाँ है?",
+    "expected": "Hindi response locating placement cell office",
+    "latency_ms": 5572.99,
+    "sources": [
+      "scholarships/sedg_cell.md",
+      "administration/intercom-04-03-2022.md",
+      "departments/bachelor-biomedical-engineering-curriculum-2022-2026.md",
+      "departments/application-part-1-report-2018_19.md"
+    ],
+    "confidence": 0.3865,
+    "source_used": "Local KB",
+    "answer": "प्लेसमेंट सेल का पता है टीओपी के पास, जो कि केएलई इंफो डेस्क के पास है।",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 144,
+    "category": "Hindi",
+    "question": "परीक्षा का टाइम टेबल कहाँ मिलेगा?",
+    "expected": "Hindi response directing to notice boards",
+    "latency_ms": 5725.34,
+    "sources": [
+      "timetables/notices_announcements.md",
+      "timetables/exam_notification.md",
+      "departments/mandatory-disclosure-edited.md",
+      "campus/8sem.md"
+    ],
+    "confidence": 0.6586,
+    "source_used": "Local KB",
+    "answer": "परीक्षा का टाइम टेबल आपके कॉलेज की आधिकारिक वेबसाइट पर उपलब्ध होगा। इसके अलावा, यह जानकारी आपके कॉलेज के टाइम टेबल नोटिस और अनुस्मारक में भी दी गई है।",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 145,
+    "category": "Kannada",
+    "question": "ಗ್ರಂಥಾಲಯ ಎಲ್ಲಿದೆ?",
+    "expected": "Kannada response locating library in Block C",
+    "latency_ms": 5768.19,
+    "sources": [
+      "hostel/library_rules.md",
+      "facilities/education_needs_complete_solution.md",
+      "research/overview.md",
+      "facilities/academic_facilities.md"
+    ],
+    "confidence": 0.7214,
+    "source_used": "Local KB",
+    "answer": "ಗ್ರಂಥಾಲಯ ಕೇ.ಎಲ್.ಇ ತನ್ನ ಹೆಸರಿನ ಹುಬ್ಬಳ್ಳಿಯಲ್ಲಿದೆ",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 146,
+    "category": "Kannada",
+    "question": "ಕಾಲೇಜಿನಲ್ಲಿ ಎಷ್ಟು ವಿಭಾಗಗಳಿವೆ?",
+    "expected": "Kannada response detailing departments list",
+    "latency_ms": 5362.73,
+    "sources": [
+      "departments/schoolsdepartments_alt.md",
+      "departments/schoolsdepartments.md",
+      "departments/ugcomputerscienceengineeringdcpreport.md"
+    ],
+    "confidence": 0.5337,
+    "source_used": "Local KB",
+    "answer": "ಕಾಲೇಜಿನಲ್ಲಿ ೧೮ ವಿಭಾಗಗಳಿವೆ.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 147,
+    "category": "Kannada",
+    "question": "ವೈಸ್ ಚಾನ್ಸಲರ್ ಯಾರು?",
+    "expected": "Kannada response identifying VC Dr. Prakash Tewari",
+    "latency_ms": 4846.44,
+    "sources": [
+      "administration/kle-tech-statutes.md",
+      "timetables/ec_minutes.md",
+      "research/kle-technological-university-public-mandatory-disclosure.md",
+      "academic/bog_minutes.md",
+      "timetables/minutes-10th-ecm-online.md"
+    ],
+    "confidence": 0.7965,
+    "source_used": "Local KB",
+    "answer": "ವೈಸ್ ಚಾನ್ಸಲರ್ ಅವರ ಹೆಸರು ಡಾ. ಪ್ರಕಾಶ್ ಟೆವಾರಿ .",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 148,
+    "category": "Kannada",
+    "question": "ಹಾಸ್ಟೆಲ್ ಸೌಲಭ್ಯಗಳು ಯಾವುವು?",
+    "expected": "Kannada response detailing hostel facilities",
+    "latency_ms": 10470.56,
+    "sources": [
+      "facilities/on_campus_facilities_alt.md",
+      "departments/application-part-1-report-2018_19.md",
+      "academic/bsc_in_hotel_management_and_catering_technology_bs.md",
+      "departments/application_part1_report_2019-20.md"
+    ],
+    "confidence": 0.6115,
+    "source_used": "Local KB",
+    "answer": "ಹಾಸ್ಟೆಲ್‌ನಲ್ಲಿ ಸೌಲಭ್ಯಗಳು: \n\n1. ಕಡಿಮೆ-ವೇತನದ ಅಪಾರ್ಟ್‌ಮೆಂಟ್\n2. ಸಮಗ್ರ ವೈಫಲ್ಯದ ಕಾರ್ಯಾಚರಣೆಗಳು\n3. ಅಪಾರ್ಟ್‌ಮೆಂಟ್‌ನಲ್ಲಿ ಸಮಗ್ರ ವೈಫಲ್ಯದ ಕಾರ್ಯಾಚರಣೆಗಳು\n4. ಅಪಾರ್ಟ್‌ಮೆಂಟ್‌ನಲ್ಲಿ ಸಮಗ್ರ ವೈಫಲ್ಯದ ಕಾರ್ಯಾಚರಣೆಗಳು\n5. ಅಪಾರ್ಟ್‌ಮೆಂಟ್‌ನಲ್ಲಿ ಸಮಗ್ರ ವೈಫಲ್ಯದ ಕಾರ್ಯಾಚರಣೆಗಳು\n6. ಅಪಾರ್ಟ್‌ಮೆಂಟ್‌ನಲ್ಲಿ ಸಮಗ್ರ ವೈಫಲ್ಯದ ಕಾರ್ಯಾಚರಣೆಗಳು\n7. ಅಪ",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 149,
+    "category": "Kannada",
+    "question": "ಪ್ರವೇಶ ಪಡೆಯುವುದು ಹೇಗೆ?",
+    "expected": "Kannada response explaining BE admission process",
+    "latency_ms": 10110.2,
+    "sources": [
+      "clubs/clubs.md",
+      "facilities/remote_access.md",
+      "departments/ece_curriculum_structure_and_content_2021-25.md",
+      "departments/computer_science_curriculum_structure_content_2021-25.md"
+    ],
+    "confidence": 0.5478,
+    "source_used": "Local KB",
+    "answer": "ಪ್ರವೇಶ ಪಡೆಯುವುದು ಎಂಬ ಪ್ರಶ್ನೆಗೆ ಜವಾಬ್ಬಿದರೆ, \"ಕಾಲೇಜಿನಲ್ಲಿ ಪ್ರವೇಶ ಪಡೆಯುವುದು\" ಎಂಬ ಮೊದಲ ಭಾಗವನ್ನು ಉಚ್ಚರಿಸಿ, \"ಪ್ರವೇಶ ಪಡೆಯುವುದು\" ಎಂಬ ಮೂಲ ಭಾಗವನ್ನು ಉಚ್ಚರಿಸಿ, \"ಪ್ರವೇಶ ಪಡೆಯುವುದು\" ಎಂಬ ಮೊದಲ ಭಾಗವನ್ನು ಉಚ್ಚರಿಸಿ, \"ಪ್ರವೇಶ ಪಡೆಯುವುದು\" ಎಂಬ ಮೂಲ ಭಾಗವನ್ನು ಉಚ್ಚರಿಸಿ, \"ಪ್ರವೇಶ ಪಡೆಯುವುದು\" ಎಂಬ ಮೊದಲ ಭಾಗವನ್ನು ಉಚ್ಚರಿಸಿ, \"ಪ್ರವೇಶ ಪಡೆಯು",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 150,
+    "category": "Kannada",
+    "question": "ಹಾಸ್ಟೆಲ್ ಮೆಸ್ ಊಟ ಹೇಗಿದೆ?",
+    "expected": "Kannada response explaining hostel canteens/dining",
+    "latency_ms": 11776.36,
+    "sources": [
+      "facilities/on_campus_facilities.md",
+      "administration/intercom-04-03-2022.md",
+      "departments/aqar2021-22resubmittedaugust2023.md",
+      "departments/prospectus.md"
+    ],
+    "confidence": 0.5941,
+    "source_used": "Local KB",
+    "answer": "ಹಾಸ್ಟೆಲ್‌ನಲ್ಲಿ ಮೆಸ್ ಊಟ ಎಂಬ ಪ್ರಶ್ನೆಗೆ ಜವಾಬ್ಬಿದರೆ, \"ಹಾಸ್ಟೆಲ್‌ನಲ್ಲಿ ಮೆಸ್ ಊಟ\" ಎಂಬ ಮೊದಲ ಭಾಗವನ್ನು ಉಚ್ಚರಿಸಿ, \"ಹಾಸ್ಟೆಲ್‌ನಲ್ಲಿ ಮೆಸ್ ಊಟ\" ಎಂಬ ಮೂಲ ಭಾಗವನ್ನು ಉಚ್ಚರಿಸಿ, \"ಹಾಸ್ಟೆಲ್‌ನಲ್ಲಿ ಮೆಸ್ ಊಟ\" ಎಂಬ ಮೊದಲ ಭಾಗವನ್ನು ಉಚ್ಚರಿಸಿ, \"ಹಾಸ್ಟೆಲ್‌ನಲ್ಲಿ ಮೆಸ್ ಊಟ\" ಎಂಬ ಮೂಲ ಭಾಗವನ್ನು ಉಚ್ಚರಿಸಿ, \"ಹಾಸ್ಟೆಲ್‌ನಲ್ಲಿ ಮೆಸ್ ಊಟ\" ಎಂಬ ಮೊದಲ ಭಾಗವನ್ನು ಉಚ್ಚ",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 151,
+    "category": "Kannada",
+    "question": "ಉದ್ಯೋಗಾವಕಾಶಗಳು (ಪ್ಲೇಸ್ಮೆಂಟ್) ಹೇಗಿದೆ?",
+    "expected": "Kannada response detailing placement training cell",
+    "latency_ms": 11664.85,
+    "sources": [
+      "scholarships/sedg_cell.md",
+      "placements/189krf-campus-placement-brochure.md",
+      "placements/batch_of_2010_12.md",
+      "research/minutes-of-first-iqac_pdf-2.md",
+      "departments/kle-tech-annual-report-2018-19.md"
+    ],
+    "confidence": 0.7406,
+    "source_used": "Local KB",
+    "answer": "ಉದ್ಯೋಗಾವಕಾಶಗಳು (ಪ್ಲೇಸ್ಮೆಂಟ್) ಎಂಬ ಪ್ರಶ್ನೆಗೆ ಜವಾಬ್ಬಿದರೆ, \"ಉದ್ಯೋಗಾವಕಾಶಗಳು\" ಎಂಬ ಮೊದಲ ಭಾಗವನ್ನು ಉಚ್ಚರಿಸಿ, \"ಪ್ಲೇಸ್ಮೆಂಟ್\" ಎಂಬ ಮೂಲ ಭಾಗವನ್ನು ಉಚ್ಚರಿಸಿ, \"ಪ್ಲೇಸ್ಮೆಂಟ್\" ಎಂಬ ಮೊದಲ ಭಾಗವನ್ನು ಉಚ್ಚರಿಸಿ, \"ಪ್ಲೇಸ್ಮೆಂಟ್\" ಎಂಬ ಮೂಲ ಭಾಗವನ್ನು ಉಚ್ಚರಿಸಿ, \"ಪ್ಲೇಸ್ಮೆಂಟ್\" ಎಂಬ ಮೊದಲ ಭಾಗವನ್ನು ಉಚ್ಚರಿಸಿ, \"ಪ್ಲೇಸ್ಮೆಂಟ್\" ಎಂಬ ಮೂಲ ಭಾಗವನ್ನು ಉಚ್",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 152,
+    "category": "Kannada",
+    "question": "ಪರೀಕ್ಷಾ ವೇಳಾಪಟ್ಟಿ ಎಲ್ಲಿದೆ?",
+    "expected": "Kannada response directing to notice board timetable",
+    "latency_ms": 12126.53,
+    "sources": [
+      "departments/mandatory-disclosure-edited.md",
+      "timetables/notices_announcements.md",
+      "timetables/8-sem-esa-time-table-may-2023.md",
+      "timetables/6sem-be_b.arch_bba2_4-sem_-bca2sem-june-2023.md",
+      "hostel/bachelor-business-administration-curriculum-2023-2026.md"
+    ],
+    "confidence": 0.7912,
+    "source_used": "Local KB",
+    "answer": "ಪರೀಕ್ಷಾ ವೇಳಾಪಟ್ಟಿ ಬಿವಿ ಭೂಮರಡಿ ಕಾಲೇಜಿನ ಆಸ್ತಿಗಳಿಂದ ಹೊರತುಪಡಿಸಿ, ಬಿವಿ ಭೂಮರಡಿ ಕಾಲೇಜಿನ ಆಸ್ತಿಗಳಲ್ಲಿ \"ಪರೀಕ್ಷಾ ವೇಳಾಪಟ್ಟಿ\" ಎಂಬ ಪ್ರಶ್ನೆಗೆ ಜವಾಬ್ಬಿದರೆ, \"ಪರೀಕ್ಷಾ ವೇಳಾಪಟ್ಟಿ\" ಎಂಬ ಮೊದಲ ಭಾಗವನ್ನು ಉಚ್ಚರಿಸಿ, \"ಆಸ್ತಿಗಳಿಂದ\" ಎಂಬ ಮೂಲ ಭಾಗವನ್ನು ಉಚ್ಚರಿಸಿ, \"ಪರೀಕ್ಷಾ ವೇಳಾಪಟ್ಟಿ\" ಎಂಬ ಮೊದಲ ಭಾಗವನ್ನು ಉಚ್ಚರಿಸಿ, \"ಆಸ್ತಿಗಳಿಂದ\" ಎಂಬ ಮೂಲ ಭಾಗ",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 153,
+    "category": "English",
+    "question": "where is the central library located?",
+    "expected": "Block C, 2nd floor",
+    "latency_ms": 11339.19,
+    "sources": [
+      "facilities/academic_facilities.md",
+      "research/overview.md",
+      "facilities/education_needs_complete_solution.md",
+      "departments/mandatory-disclosure-edited.md"
+    ],
+    "confidence": 0.8707,
+    "source_used": "Local KB",
+    "answer": "ಪರೀಕ್ಷಾ ವೇಳಾಪಟ್ಟಿ ಬಿವಿ ಭೂಮರಡಿ ಕಾಲೇಜಿನ ಆಸ್ತಿಗಳಿಂದ ಹೊರತುಪಡಿಸಿ, ಬಿವಿ ಭೂಮರಡಿ ಕಾಲೇಜಿನ ಆಸ್ತಿಗಳಲ್ಲಿ \"ಪರೀಕ್ಷಾ ವೇಳಾಪಟ್ಟಿ\" ಎಂಬ ಪ್ರಶ್ನೆಗೆ ಜವಾಬ್ಬಿದರೆ, \"ಪರೀಕ್ಷಾ ವೇಳಾಪಟ್ಟಿ\" ಎಂಬ ಮೊದಲ ಭಾಗವನ್ನು ಉಚ್ಚರಿಸಿ, \"ಆಸ್ತಿಗಳಿಂದ\" ಎಂಬ ಮೂಲ ಭಾಗವನ್ನು ಉಚ್ಚರಿಸಿ, \"ಪರೀಕ್ಷಾ ವೇಳಾಪಟ್ಟಿ\" ಎಂಬ ಮೊದಲ ಭಾಗವನ್ನು ಉಚ್ಚರಿಸಿ, \"ಆಸ್ತಿಗಳಿಂದ\" ಎಂಬ ಮೂಲ ಭಾಗ",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 154,
+    "category": "English",
+    "question": "what is the minimum mark for admissions",
+    "expected": "45% for general category BE",
+    "latency_ms": 10411.02,
+    "sources": [
+      "timetables/bog_minutes_alt.md",
+      "academic/llb.md",
+      "academic/bba_llb.md",
+      "timetables/mca-2020.md",
+      "timetables/rules-and-regulations-ug-pg-july-2021.md"
+    ],
+    "confidence": 0.7396,
+    "source_used": "Local KB",
+    "answer": "ಪ್ರಶ್ನೆಗೆ ಜವಾಬ್ಬಿದರೆ, \"ಉದ್ಯೋಗಾವಕಾಶಗಳು\" ಎಂಬ ಮೊದಲ ಭಾಗವನ್ನು ಉಚ್ಚರಿಸಿ, \"ಪ್ಲೇಸ್ಮೆಂಟ್\" ಎಂಬ ಮೂಲ ಭಾಗವನ್ನು ಉಚ್ಚರಿಸಿ, \"ಪ್ಲೇಸ್ಮೆಂಟ್\" ಎಂಬ ಮೊದಲ ಭಾಗವನ್ನು ಉಚ್ಚರಿಸಿ, \"ಪ್ಲೇಸ್ಮೆಂಟ್\" ಎಂಬ ಮೂಲ ಭಾಗವನ್ನು ಉಚ್ಚರಿಸಿ, \"ಪ್ಲೇಸ್ಮೆಂಟ್\" ಎಂಬ ಮೊದಲ ಭಾಗವನ್ನು ಉಚ್ಚರಿಸಿ, \"ಪ್ಲೇಸ್ಮೆಂಟ್\" ಎಂಬ ಮೂಲ ಭಾಗವನ್ನು ಉಚ್ಚರಿಸಿ, \"ಪ್ಲೇಸ್ಮೆಂಟ್\" ಎಂಬ ಮೊದಲ ಭಾಗವ",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 155,
+    "category": "English",
+    "question": "how many seats are in library",
+    "expected": "600 seats capacity",
+    "latency_ms": 10327.45,
+    "sources": [
+      "facilities/education_needs_complete_solution.md",
+      "facilities/academic_facilities.md",
+      "departments/aqar2021-22resubmittedaugust2023.md"
+    ],
+    "confidence": 0.7333,
+    "source_used": "Local KB",
+    "answer": "ಪರೀಕ್ಷಾ ವೇಳಾಪಟ್ಟಿ ಎಂಬ ಮೊದಲ ಭಾಗವನ್ನು ಉಚ್ಚರಿಸಿ, \"ಆಸ್ತಿಗಳಿಂದ\" ಎಂಬ ಮೂಲ ಭಾಗವನ್ನು ಉಚ್ಚರಿಸಿ, \"ಪರೀಕ್ಷಾ ವೇಳಾಪಟ್ಟಿ\" ಎಂಬ ಮೊದಲ ಭಾಗವನ್ನು ಉಚ್ಚರಿಸಿ, \"ಆಸ್ತಿಗಳಿಂದ\" ಎಂಬ ಮೂಲ ಭಾಗವನ್ನು ಉಚ್ಚರಿಸಿ, \"ಪರೀಕ್ಷಾ ವೇಳಾಪಟ್ಟಿ\" ಎಂಬ ಮೊದಲ ಭಾಗವನ್ನು ಉಚ್ಚರಿಸಿ, \"ಆಸ್ತಿಗಳಿಂದ\" ಎಂಬ ಮೂಲ ಭಾಗವನ್ನು",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 156,
+    "category": "English",
+    "question": "what is the address of kle tech",
+    "expected": "Vidyanagar, Hubballi",
+    "latency_ms": 4525.66,
+    "sources": [
+      "departments/bog_minutes.md",
+      "departments/kle-tech-annual-report-2017-18.md",
+      "departments/kle-tech-annual-report-2018-19.md",
+      "campus/news.md",
+      "campus/kle_tech_university.md"
+    ],
+    "confidence": 0.7913,
+    "source_used": "Local KB",
+    "answer": "ವಿದ್ಯಾನಗರ, ಹುಬ್ಬಳ್ಲಿ - 580 031, ಕರ್ನಾಟಕ - ಭಾರತ",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 157,
+    "category": "English",
+    "question": "explain placements cell function",
+    "expected": "Training, brochure publishing, and recruiters guide",
+    "latency_ms": 10947.89,
+    "sources": [
+      "scholarships/sedg_cell.md",
+      "placements/189krf-campus-placement-brochure.md",
+      "departments/mandatory-disclosure-edited.md",
+      "administration/intercom-04-03-2022.md",
+      "departments/bachelor-biotechnology-curriculum-2022-2026.md"
+    ],
+    "confidence": 0.8113,
+    "source_used": "Local KB",
+    "answer": "ಪ್ಲೇಸ್‌ಮೆಂಟ್ ಸೆಲ್ಲು (Placement Cell) ಎಂಬ ಮೊದಲ ಭಾಗವನ್ನು ಉಚ್ಚರಿಸಿ, \"ಪ್ಲೇಸ್‌ಮೆಂಟ್\" ಎಂಬ ಮೂಲ ಭಾಗವನ್ನು ಉಚ್ಚರಿಸಿ, \"ಪ್ಲೇಸ್‌ಮೆಂಟ್\" ಎಂಬ ಮೊದಲ ಭಾಗವನ್ನು ಉಚ್ಚರಿಸಿ, \"ಪ್ಲೇಸ್‌ಮೆಂಟ್\" ಎಂಬ ಮೊದಲ ಭಾಗವನ್ನು ಉಚ್ಚರಿಸಿ, \"ಪ್ಲೇಸ್‌ಮೆಂಟ್\" ಎಂಬ ಮೊದಲ ಭಾಗವನ್ನು ಉಚ್ಚರಿಸಿ, \"ಪ್ಲೇಸ್‌ಮೆಂಟ್\" ಎಂಬ ಮೊದಲ ಭಾಗವನ್ನು ಉಚ್ಚರಿಸಿ, \"ಪ್ಲೇಸ್‌ಮೆಂಟ್\" ಎಂಬ ಮೊದಲ ಭಾಗವನ್ನು ಉಚ್ಚರಿ",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 158,
+    "category": "English",
+    "question": "are there boys hostels on campus",
+    "expected": "Yes, campus boy residences",
+    "latency_ms": 11457.23,
+    "sources": [
+      "facilities/on_campus_facilities.md",
+      "departments/prospectus.md",
+      "departments/mandatory-disclosure-edited.md",
+      "departments/aqar2021-22resubmittedaugust2023.md"
+    ],
+    "confidence": 0.8754,
+    "source_used": "Local KB",
+    "answer": "ಪ್ಲೇಸ್‌ಮೆಂಟ್ ಸೆಲ್ಲು (Placement Cell) ಎಂಬ ಮೊದಲ ಭಾಗವನ್ನು ಉಚ್ಚರಿಸಿ, \"ಪ್ಲೇಸ್‌ಮೆಂಟ್\" ಎಂಬ ಮೂಲ ಭಾಗವನ್ನು ಉಚ್ಚರಿಸಿ, \"ಪ್ಲೇಸ್‌ಮೆಂಟ್\" ಎಂಬ ಮೊದಲ ಭಾಗವನ್ನು ಉಚ್ಚರಿಸಿ, \"ಪ್ಲೇಸ್‌ಮೆಂಟ್\" ಎಂಬ ಮೊದಲ ಭಾಗವನ್ನು ಉಚ್ಚರಿಸಿ, \"ಪ್ಲೇಸ್‌ಮೆಂಟ್\" ಎಂಬ ಮೊದಲ ಭಾಗವನ್ನು ಉಚ್ಚರಿಸಿ, \"ಪ್ಲೇಸ್‌ಮೆಂಟ್\" ಎಂಬ ಮೊದಲ ಭಾಗವನ್ನು ಉಚ್ಚರಿಸಿ, \"ಪ್ಲೇಸ್‌ಮೆಂಟ್\" ಎಂಬ ಮೊದಲ ಭಾಗವನ್ನು ಉಚ್ಚರಿ",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 159,
+    "category": "English",
+    "question": "list MCA admission requirements",
+    "expected": "PGCET/KMAT eligibility criteria",
+    "latency_ms": 4101.48,
+    "sources": [
+      "timetables/mca-2020.md",
+      "academic/mca_programs.md",
+      "departments/mca-curriculum-2023-25.md"
+    ],
+    "confidence": 0.7185,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about that in my knowledge base.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 160,
+    "category": "English",
+    "question": "who is Dr Prakash Tewari",
+    "expected": "Vice Chancellor of KLE Tech",
+    "latency_ms": 6127.36,
+    "sources": [
+      "research/kle-technological-university-public-mandatory-disclosure.md",
+      "administration/executive_council.md",
+      "departments/bvbcet-annual-report-2013-14.md",
+      "departments/bog_minutes_alt.md",
+      "timetables/bog_minutes.md"
+    ],
+    "confidence": 0.8831,
+    "source_used": "Local KB",
+    "answer": "ಡಾ. ಪ್ರಕಾಶ್ ಟೆವಾರಿ \n\nಡಾ. ಪ್ರಕಾಶ್ ಟೆವಾರಿ ಅವರು ಕೆಎಲ್‌ಇ ತಂತ್ರಜ್ಞಾನ ವಿಶ್ವವಿದ್ಯಾಲಯ (ಬಿವಿಸಿಇಸಿ) ಯ ಉಪಕುಲಪತಿಗಳಾಗಿದ್ದರು.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 161,
+    "category": "Mixed-language questions",
+    "question": "library timings enu?",
+    "expected": "Kanglish response detailing library hours",
+    "latency_ms": 8910.51,
+    "sources": [
+      "facilities/education_needs_complete_solution.md",
+      "departments/mandatory-disclosure-edited.md",
+      "hostel/library_rules.md"
+    ],
+    "confidence": 0.6076,
+    "source_used": "Local KB",
+    "answer": "ಕೆಎಲ್‌ಇ ತಂತ್ರಜ್ಞಾನ ವಿಶ್ವವಿದ್ಯಾಲಯ (BVB Engineering College) ಕೆಎಲ್‌ಇ ಸಂಪುಟಿ ಗ್ರಂಥಾಲಯದ ತಿಂಗಳವನ್ನು ಅಧಿಕೃತವಾಗಿ ಇಲಾಖೆಯಲ್ಲಿ ಪ್ರಕಟಿಸಲಾಗಿದೆ.\n\nಮಂಗಳವಾರ, ಬುಧವಾರ, ಗುರುವಾರ ಮತ್ತು ಶುಕ್ರವಾರ: 8 AM ಅನ್ನು 8 PM\n\nಆದಿಯಾಗಿ, ಶನಿವಾರ ಮತ್ತು ರವಿವಾರ: 9 AM ಅನ್ನು 5 PM",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 162,
+    "category": "Mixed-language questions",
+    "question": "hostel fees kitna hai?",
+    "expected": "Hinglish response detailing hostel fees",
+    "latency_ms": 11087.51,
+    "sources": [
+      "departments/application_part1_report_2019-20.md",
+      "departments/application-part-1-report-2018_19.md",
+      "departments/mandatory-disclosure-edited.md",
+      "departments/prospectus.md"
+    ],
+    "confidence": 0.5678,
+    "source_used": "Local KB",
+    "answer": "ಹೋಸ್ಟೆಲ್ ಫೀಸುಗಳು ಮತ್ತು ಕಿಟ್ಟುಗಳ ದಾಖಲೆ: \n\nಹೋಸ್ಟೆಲ್ ಫೀಸುಗಳು ಮತ್ತು ಕಿಟ್ಟುಗಳ ದಾಖಲೆಯನ್ನು ಇಲಾಖೆಯಲ್ಲಿ ಪ್ರಕಟಿಸಲಾಗಿದೆ. \n\nಹೋಸ್ಟೆಲ್ ಫೀಸುಗಳು: \n- ಬೇರೆ ವಯಸ್ಸಿನ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ: ₹ 56,000/-\n- ಜೂನಿಯರ್ ಹೋಸ್ಟೆಲ್‌ಗಳಿಗೆ: ₹ 13.26 ಚದರ ಮೀಟರ್/ಕಾಲೇಜು\n- ಬೇರೆ ವಯಸ್ಸಿನ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ: ₹ 39,000/-\n- ಜೂನಿಯರ್ ಹೋಸ್ಟೆಲ್‌ಗಳಿಗೆ: ₹ 13.26 ಚದರ ಮೀಟರ್/ಕಾಲೇಜು\n- ಬೇರೆ",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 163,
+    "category": "Mixed-language questions",
+    "question": "who is VC of college? unka naam kya hai?",
+    "expected": "Hinglish response identifying Dr. Prakash Tewari",
+    "latency_ms": 4015.32,
+    "sources": [
+      "research/kle-technological-university-public-mandatory-disclosure.md",
+      "departments/kletech-boardofstudies.md",
+      "departments/bvbcet-annual-report-2013-14.md",
+      "timetables/bog_minutes.md"
+    ],
+    "confidence": 0.4295,
+    "source_used": "Local KB",
+    "answer": "ಡಾ. ಪ್ರಕಾಶ್ ಟೆವಾರಿ",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 164,
+    "category": "Mixed-language questions",
+    "question": "admissions process hege iruthe?",
+    "expected": "Kanglish response explaining admissions",
+    "latency_ms": 9902.94,
+    "sources": [
+      "administration/ec_minutes.md",
+      "academic/under_graduate_program.md",
+      "timetables/rules-and-regulations-ug-pg-july-2021.md",
+      "academic/admission_for_ug_program.md"
+    ],
+    "confidence": 0.445,
+    "source_used": "Local KB",
+    "answer": "ಆರ್‌ಡಿ ಪೂರ್ಣಗೊಳಿಸಲು, ವಿದ್ಯಾರ್ಥಿಯನ್ನು ಅಧಿಕೃತವಾಗಿ ಇಲಾಖೆಯಲ್ಲಿ ಪ್ರಕಟಿಸಲಾಗಿದೆ. \n\nಅಧಿಕೃತ ಹೋಸ್ಟೆಲ್ ಫೀಸುಗಳು ಮತ್ತು ಕಿಟ್ಟುಗಳ ದಾಖಲೆಯನ್ನು ಇಲಾಖೆಯಲ್ಲಿ ಪ್ರಕಟಿಸಲಾಗಿದೆ. \n\nಹೋಸ್ಟೆಲ್ ಫೀಸುಗಳು: \n- ಬೇರೆ ವಯಸ್ಸಿನ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ: ₹ 56,000/-\n- ಜೂನಿಯರ್ ಹೋಸ್ಟೆಲ್‌ಗಳಿಗೆ: ₹ 13.26 ಚದರ ಮೀಟರ್/ಕಾಲೇಜು\n- ಬೇರೆ ವಯಸ್ಸಿನ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ: ₹ 39,000/-\n- ಜೂನಿ",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 165,
+    "category": "Mixed-language questions",
+    "question": "sports facilities kahan hai?",
+    "expected": "Hinglish response detailing gym and grounds",
+    "latency_ms": 6022.47,
+    "sources": [
+      "departments/aqar2021-22resubmittedaugust2023.md",
+      "facilities/on_campus_facilities_alt.md",
+      "research/kle-technological-university-public-mandatory-disclosure.md"
+    ],
+    "confidence": 0.5715,
+    "source_used": "Local KB",
+    "answer": "ಕ್ರಿಕೆಟ್ ಗ್ರೌಂಡ್, ಬ್ಯಾಸ್ಕೆಟ್‌ಬಾಲ್ ಕೋರ್ಟ್, ಫುಟ್ಬಾಲ್ ಗ್ರೌಂಡ್, ಬಾಡ್ಮಿಂಟನ್ ಕೋರ್ಟ್, ಅಥ್ಲೆಟಿಕ್ಸ್ ಟ್ರ",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 166,
+    "category": "Mixed-language questions",
+    "question": "HOD CSE office ಎಲ್ಲಿದೆ?",
+    "expected": "Kanglish response directing to Room 401",
+    "latency_ms": 6797.28,
+    "sources": [
+      "departments/schoolsdepartments_alt.md",
+      "academic/programs.md",
+      "academic/mtech_computer_science_and_engineering.md"
+    ],
+    "confidence": 0.5632,
+    "source_used": "Local KB",
+    "answer": "ಹೋಡ್ ಸಿಇಎಸ್ ಕಛೇರಿಯು ವಿಜ್ಞಾನ ಶಾಲೆಗಳಲ್ಲಿ ಹೋಡ್ ಕಛೇರಿಗಳ ಸಮಿತಿಯಲ್ಲಿ ಉಂಟುಹೊರೆದಿದೆ.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 167,
+    "category": "Mixed-language questions",
+    "question": "MCA admission eligibility batao?",
+    "expected": "Hinglish response explaining eligibility",
+    "latency_ms": 9849.41,
+    "sources": [
+      "timetables/mca-2020.md",
+      "academic/mca_programs.md",
+      "academic/admission_for_pg_program_alt.md",
+      "timetables/bog_minutes.md"
+    ],
+    "confidence": 0.7581,
+    "source_used": "Local KB",
+    "answer": "ಎಮ್‌ಸಿಏ ಅಧಿಕೃತ ಪ್ರವೇಶ ಯೋಗ್ಯತೆಗಳು:\n\n- ಎಂಚೆ (ಕಂಪ್ಯೂಟರ್ ಸೈನ್ಸ್ ಮತ್ತು ಇಂಜಿನಿಯರಿಂಗ್) ಕಾರ್ಯಕ್ರಮಕ್ಕಾಗಿ: ಎಂಚೆ (ಸಿಇಎಸ್, ISE, ECE, EEE, IT, TE) ಬೆಚ್ಚಲ್ಸ್ ಡಿಗ್ರಿ (10+2+3)\n- ಎಂಚೆ (ಕಂಪ್ಯೂಟರ್ ಸೈನ್ಸ್ ಮತ್ತು ಇಂಜಿನಿಯರಿಂಗ್) ಕಾರ್ಯಕ್ರಮಕ್ಕಾಗಿ: ಎಂಚೆ (CSE, ISE, ECE, EEE, IT, TE)\n- ಎಲ್‌ಎಲ್‌ಎಮ್ (ಸಾಂವಿಧಾನಿಕ ಕಾನೂನು) ಕಾರ್ಯಕ್ರಮಕ್ಕಾಗಿ: ಎಲ್‌ಎಲ್‌ಬಿ (ಹಾನ್ಸ್)\n- ಎಲ್‌ಎಲ್‌ಎಮ್ (IPR) ಕ",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 168,
+    "category": "Mixed-language questions",
+    "question": "placement cell contact number enu?",
+    "expected": "Kanglish response detailing placement office contacts",
+    "latency_ms": 6889.42,
+    "sources": [
+      "departments/mandatory-disclosure-edited.md",
+      "placements/189krf-campus-placement-brochure.md",
+      "scholarships/sedg_cell.md",
+      "administration/intercom-04-03-2022.md",
+      "campus/college_of_law.md"
+    ],
+    "confidence": 0.677,
+    "source_used": "Local KB",
+    "answer": "ಪ್ಲೇಸ್‌ಮೆಂಟ್ ಸೆಲ್ಲ್‌ನ ಕಛೇರಿಯ ಎಲ್ಲಾ ದೇಶಿಕೆಗಳ ಪುನಃ-ಸ್ಥಾಪನೆಯ ಮೂಲಕ, ಅವರು 0906-2378 23 (ಫೋನ್) ಮತ್ತು 0906-2374 985 (ಫ್ಯಾಕ್ಸ್) (ಟೆಲಿಪೋನ್) ಎಂದು ಹೆಚ್ಚಿನ ಮಾತ್ರ.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 169,
+    "category": "Out-of-domain questions",
+    "question": "what is the capital of France?",
+    "expected": "Refuse and ask to rephrase",
+    "latency_ms": 3672.16,
+    "sources": [
+      "circulars/172krf-kleslcmun-newsletter.md",
+      "campus/about_hubballi_campus.md",
+      "research/bachelor-architecture-curriculum-2021-2026.md",
+      "facilities/news_alt.md"
+    ],
+    "confidence": 0.5555,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about that in my knowledge base.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 170,
+    "category": "Out-of-domain questions",
+    "question": "how to build an electric car?",
+    "expected": "Refuse and ask to rephrase",
+    "latency_ms": 3526.99,
+    "sources": [
+      "hostel/bachelor-electrical-electronics-engineering-curriculum-2022-2026.md",
+      "hostel/06-bachelor-of-electrical-and-electronics-engg-curriculum-structure-content-2023-2027.md",
+      "research/bachelor-mechanical-engineering-curriculum-2022-2026.md",
+      "research/07-bachelor-of-mechanical-engineering-curriculum-structure-content-2023-2027.md"
+    ],
+    "confidence": 0.4673,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about that in my knowledge base.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 171,
+    "category": "Out-of-domain questions",
+    "question": "what is the price of Bitcoin today?",
+    "expected": "Refuse and ask to rephrase",
+    "latency_ms": 3646.07,
+    "sources": [
+      "departments/mca-curriculum-structure-2025-2027.md",
+      "departments/mca-curriculum-2023-25.md",
+      "hostel/mtech-cs-curriculum-2024-26.md"
+    ],
+    "confidence": 0.5182,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about that in my knowledge base.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 172,
+    "category": "Out-of-domain questions",
+    "question": "best restaurants in Bangalore",
+    "expected": "Refuse and ask to rephrase",
+    "latency_ms": 3216.27,
+    "sources": [
+      "placements/189krf-campus-placement-brochure.md",
+      "departments/bvbcet-annual-report-2013-14.md",
+      "departments/prospectus.md"
+    ],
+    "confidence": 0.5435,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about that in my knowledge base.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 173,
+    "category": "Out-of-domain questions",
+    "question": "weather in Hubli today",
+    "expected": "Refuse and ask to rephrase",
+    "latency_ms": 3451.02,
+    "sources": [
+      "campus/about_hubballi_campus.md",
+      "departments/events.md",
+      "departments/bvbcet-annual-report-2013-14.md",
+      "departments/annual-report-2014-15.md"
+    ],
+    "confidence": 0.6982,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about the current weather in Hubli today in my knowledge base.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 174,
+    "category": "Out-of-domain questions",
+    "question": "tell me about global warming",
+    "expected": "Refuse and ask to rephrase",
+    "latency_ms": 6577.7,
+    "sources": [
+      "research/bachelor-mechanical-engineering-curriculum-2022-2026.md",
+      "hostel/bachelor-of-business-administration-curriculum-structure-content-2024-2027.md",
+      "hostel/bachelor-business-administration-curriculum-structure-2022-2025.md"
+    ],
+    "confidence": 0.5193,
+    "source_used": "Local KB",
+    "answer": "Global warming refers to the long-term rise in the average temperature of the Earth's atmosphere, primarily caused by human activities that release greenhouse gases, such as carbon dioxide and methane, into the atmosphere.\n\nAccording to James Lester's book \"Environmental Policy\" (Duke University Press), global warming is a complex issue with far-reaching consequences for the environment, human health, and the economy. The concept of carbon credit plays a significant role in addressing this issue, as it provides a mechanism for reducing greenhouse gas emissions and promoting sustainable development.\n\nThe course content on global warming from BVB Engineering College's curriculum (Page 23) highlights the importance of understanding the problem, implications, and consequences of global warming. It also emphasizes the need for disaster management, mitigation strategies, and adoption of environmentally friendly practices to address this issue.\n\nReference books such as \"Environmental Policy\" by James Lester and \"Environmental Management System ISO 14001\" by Dr. Ashok Joshi, L.Ramkrishnan, and Nivedita Sarnaik provide in-depth information on the topic, including the role of government agencies, non-governmental organizations, and businesses in addressing global warming.\n\nIn summary, global warming is a pressing issue that requires immediate attention and action to mitigate its effects. Understanding the causes, implications, and consequences of global warming, as well as adopting sustainable practices and strategies for environmental management, are crucial for addressing this challenge.",
+    "correct": false,
+    "score": 0,
+    "failure_cause": "LLM hallucination"
+  },
+  {
+    "idx": 175,
+    "category": "Out-of-domain questions",
+    "question": "who won the last world cup?",
+    "expected": "Refuse and ask to rephrase",
+    "latency_ms": 2179.53,
+    "sources": [],
+    "confidence": 0.2716,
+    "source_used": "Local KB",
+    "answer": "I couldn't find reliable information about that. Could you rephrase your question?",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 176,
+    "category": "Out-of-domain questions",
+    "question": "how does the internet work?",
+    "expected": "Refuse and ask to rephrase",
+    "latency_ms": 3484.46,
+    "sources": [
+      "departments/bachelor-biomedical-engineering-curriculum-structure-2021-2025.md",
+      "departments/bachelor-biomedical-engineering-curriculum-2022-2026.md",
+      "departments/bca-curricullum-structure-contents-2022-25-batch.md",
+      "departments/computer_science_curriculum_structure_content_2021-25.md"
+    ],
+    "confidence": 0.5717,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about how the internet works in my knowledge base.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 177,
+    "category": "Latest news",
+    "question": "what is the latest notice of exam",
+    "expected": "Timetable or exam commencement notices circulars",
+    "latency_ms": 4268.87,
+    "sources": [
+      "timetables/notices_announcements.md",
+      "departments/ec_minutes_alt.md",
+      "timetables/mca-2020.md",
+      "timetables/exam_notification.md"
+    ],
+    "confidence": 0.767,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about the latest notice of exam in my knowledge base.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 178,
+    "category": "Latest news",
+    "question": "recent events on campus",
+    "expected": "Retrieve notice board announcements or circular details",
+    "latency_ms": 3375.46,
+    "sources": [
+      "clubs/sports_and_health.md",
+      "campus/events.md",
+      "campus/8sem.md"
+    ],
+    "confidence": 0.7611,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about recent events on campus in my knowledge base.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 179,
+    "category": "Latest news",
+    "question": "KLE Tech news today",
+    "expected": "Circulars or notices published on board",
+    "latency_ms": 3439.89,
+    "sources": [
+      "circulars/news.md",
+      "departments/kle-tech-annual-report-2018-19.md",
+      "departments/kle-tech-annual-report-2016-17.md",
+      "departments/ec_minutes.md"
+    ],
+    "confidence": 0.8488,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about the latest news on KLE Technological University in my knowledge base.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 180,
+    "category": "Latest news",
+    "question": "any holiday notice",
+    "expected": "Commencement notices or circulars",
+    "latency_ms": 3853.67,
+    "sources": [
+      "timetables/ec_minutes.md",
+      "timetables/bog_minutes_alt.md"
+    ],
+    "confidence": 0.6188,
+    "source_used": "Local KB",
+    "answer": "According to Section 1.2 of the HOLIDAYS AND LEAVE RULES APPLICABLE TO EMPLOYEES OF K.L.E. SOCIETY, \"As per the State Government Notification.\" (Source: timetables/ec_minutes.md | Page 107)",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 181,
+    "category": "Latest news",
+    "question": "latest placements stats",
+    "expected": "Placement cell cell updates",
+    "latency_ms": 3923.84,
+    "sources": [
+      "departments/kle-tech-annual-report-2018-19.md",
+      "placements/about_placements.md",
+      "departments/kle-tech-annual-report-2017-18.md"
+    ],
+    "confidence": 0.6776,
+    "source_used": "Local KB",
+    "answer": "According to the information provided in the context, I couldn't find verified information about the latest placements stats in my knowledge base.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 182,
+    "category": "Latest news",
+    "question": "commencement of odd semester date",
+    "expected": "Notice on class commencement for Odd Semester 2023-24",
+    "latency_ms": 4353.82,
+    "sources": [
+      "timetables/notices_announcements.md",
+      "timetables/minutes-10th-ecm-online.md",
+      "campus/5th-sem-bca-bba-2024-25.md"
+    ],
+    "confidence": 0.8059,
+    "source_used": "Local KB",
+    "answer": "According to the calendar of events for Odd Semester 2024-25, the Commencement Date is 19th August 2024.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 183,
+    "category": "Latest news",
+    "question": "latest circular 5221 detail",
+    "expected": "Timetable circular 19-03-2025 details",
+    "latency_ms": 4314.28,
+    "sources": [
+      "departments/mandatory-disclosure-edited.md",
+      "timetables/notices_announcements.md",
+      "campus/coe-2ndsemb.eandb.archcoe2024-25_even.md"
+    ],
+    "confidence": 0.5361,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about the latest circular 5221 in my knowledge base.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 184,
+    "category": "Latest news",
+    "question": "when is the next Board of Governors meeting",
+    "expected": "Board of Governors or admin notices",
+    "latency_ms": 3880.68,
+    "sources": [
+      "timetables/bog_minutes.md",
+      "timetables/bog_minutes_alt.md",
+      "departments/spl_bog_-_minutes_31-08-2019.md",
+      "administration/minutes_of_meetings.md"
+    ],
+    "confidence": 0.7233,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about the schedule or date of the next Board of Governors Meeting in my knowledge base.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 185,
+    "category": "Programming questions",
+    "question": "write a python function to bubble sort",
+    "expected": "Refuse or reject out-of-domain query",
+    "latency_ms": 3785.02,
+    "sources": [
+      "departments/bca-curricullum-structure-contents-2022-25-batch.md",
+      "departments/computer-science_-ai-curriculum_structure_content_2021-25.md",
+      "departments/mca-curriculum-structure-2025-2027.md",
+      "departments/mca-curriculum-2023-25.md"
+    ],
+    "confidence": 0.5939,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about writing a Python function for Bubble Sort in my knowledge base.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 186,
+    "category": "Programming questions",
+    "question": "how to implement binary search in java",
+    "expected": "Refuse or reject out-of-domain query",
+    "latency_ms": 3505.54,
+    "sources": [
+      "hostel/mtech-cs-curriculum-2023-25.md",
+      "departments/mca-curriculum-2024-26.md",
+      "departments/ece_curriculum_structure_and_content_2021-25.md",
+      "departments/bachelor-electronics-communication-engineering-vlsi-curriculum-2022-2026.md"
+    ],
+    "confidence": 0.7974,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about implementing Binary Search in Java in my knowledge base.",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 187,
+    "category": "Programming questions",
+    "question": "explain recursion in C",
+    "expected": "Refuse or reject out-of-domain query",
+    "latency_ms": 5835.37,
+    "sources": [
+      "departments/mca-curriculum-2023-25.md",
+      "departments/mca-curriculum-structure-2025-2027.md"
+    ],
+    "confidence": 0.6903,
+    "source_used": "Local KB",
+    "answer": "According to the provided curriculum document \"mca-curriculum-structure-2025-2027.md\", Recursion is discussed in detail under Unit II.\n\nRecursion in C refers to a programming technique where a function calls itself repeatedly until it reaches a base case that stops the recursion. This process allows the function to solve problems that have a recursive structure, such as tree or graph traversals.\n\nIn the context of the provided curriculum document, Recursion is discussed under Unit II, Course Title: Data Structures using C, Course Code: 25ECAC701.\n\nThe document explains Recursive definition and processes, Factorial function, Multiplication of natural numbers, Fibonacci sequence, Binary search, Properties of recursive definition or algorithm. Recursion in C, Factorial in C, Fibonacci numbers in C, Binary search in C, Towers of Hanoi problem.\n\nFor a detailed explanation of recursion in C, I recommend referring to the provided curriculum document or other reliable sources that provide comprehensive information on the topic.",
+    "correct": false,
+    "score": 0,
+    "failure_cause": "LLM hallucination"
+  },
+  {
+    "idx": 188,
+    "category": "Programming questions",
+    "question": "what is a decorator in python?",
+    "expected": "Refuse or reject out-of-domain query",
+    "latency_ms": 2147.57,
+    "sources": [],
+    "confidence": 0.2888,
+    "source_used": "Local KB",
+    "answer": "I couldn't find reliable information about that. Could you rephrase your question?",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 189,
+    "category": "Programming questions",
+    "question": "how to connect to database in nodejs",
+    "expected": "Refuse or reject out-of-domain query",
+    "latency_ms": 7517.81,
+    "sources": [
+      "departments/mechanical_curriculum_structure_content_2021-25.md",
+      "departments/04-bachelor-of-computer-science-and-engineering-curriculum-structure-content-2023-2027.md",
+      "departments/bachelor-of-computer-applications-curriculum-structure-content-2024-2027.md",
+      "departments/mca-curriculum-structure-2025-2027.md"
+    ],
+    "confidence": 0.6258,
+    "source_used": "Local KB",
+    "answer": "According to the provided curriculum document \"bachelor-of-computer-applications-curriculum-structure-content-2024-2027.md\", to connect to a database in Node.js, you need to follow these steps:\n\n1. Install the required JDBC driver for your database.\n2. Import the JDBC driver in your Node.js application.\n3. Establish a connection to the database using the JDBC driver.\n\nFor example, to connect to an Oracle database, you would use the ojdbc8.jar file and import it in your Node.js application like this:\n\n```javascript\nconst { Pool } = require('pg');\nconst pool = new Pool({\n  user: 'username',\n  host: 'localhost',\n  database: 'database',\n  password: 'password',\n  port: 5432,\n});\n```\n\nSimilarly, to connect to a MySQL database, you would use the mysql2 package and import it in your Node.js application like this:\n\n```javascript\nconst mysql = require('mysql');\nconst db = mysql.createConnection({\n  host: 'localhost',\n  user: 'username',\n  password: 'password',\n  database: 'database'\n});\n```\n\nPlease note that you need to replace the placeholders with your actual database credentials and connection details.\n\nReference Books:\n\n1. Amos Q, Haviv, MERN Web Development, Packt Publishing, 2014.\n2. Colin J. Ihrig, Full Stack JavaScript Development with MERN, 2nd Edition, SitePoint, 2019.",
+    "correct": false,
+    "score": 0,
+    "failure_cause": "LLM hallucination"
+  },
+  {
+    "idx": 190,
+    "category": "Programming questions",
+    "question": "write a sql query to find duplicates",
+    "expected": "Refuse or reject out-of-domain query",
+    "latency_ms": 2288.06,
+    "sources": [],
+    "confidence": 0.3324,
+    "source_used": "Local KB",
+    "answer": "I couldn't find reliable information about that. Could you rephrase your question?",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 191,
+    "category": "Programming questions",
+    "question": "what does git merge do?",
+    "expected": "Refuse or reject out-of-domain query",
+    "latency_ms": 3791.1,
+    "sources": [
+      "departments/mca-curriculum-2024-26.md",
+      "departments/mca-curriculum-structure-2025-2027.md",
+      "departments/bachelor-cs-artificial-intelligence-curriculum-2022-2026.md"
+    ],
+    "confidence": 0.6315,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about that in my knowledge base. Could you rephrase your question?",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 192,
+    "category": "Programming questions",
+    "question": "explain pointers in C++",
+    "expected": "Refuse or reject out-of-domain query",
+    "latency_ms": 5569.64,
+    "sources": [
+      "departments/bca-curricullum-structure-contents-2022-25-batch.md",
+      "departments/bachelor-computer-applications-curriculum-2023-2026.md",
+      "departments/bachelor-of-computer-applications-curriculum-structure-content-2024-2027.md",
+      "departments/11-bachelor-of-biomedical-engineering-curriculum-structure-content-2023-2027.md"
+    ],
+    "confidence": 0.802,
+    "source_used": "Local KB",
+    "answer": "According to the provided curriculum document \"bachelor-of-computer-applications-curriculum-structure-content-2024-2027.md\", Pointers are a fundamental concept in C++.\n\nPointers are variables that store memory addresses as their values. They can be used to indirectly access and manipulate data in memory.\n\nHere's an excerpt from the curriculum document:\n\n\"Pointers                                                                                                                                    \nAddresses and Pointers, The Address-of Operator &, Pointers and Arrays, \nPointers and Functions, Pointers and C -Type Strings, Memory \nManagement: new and delete, Pointers to Objects.     \n\n05 hrs\"\n\nThis indicates that pointers are discussed in detail under the topic \"Pointers\" which is part of the curriculum for the Bachelor of Computer Applications program at BVB Engineering College.\n\nFor more information on pointers in C++, you may need to refer to additional resources such as textbooks or online materials.",
+    "correct": false,
+    "score": 0,
+    "failure_cause": "LLM hallucination"
+  },
+  {
+    "idx": 193,
+    "category": "Impossible questions",
+    "question": "where is the Student Union Building (SUB)?",
+    "expected": "Refuse or reject as missing in BVB/KLE Tech context",
+    "latency_ms": 4559.24,
+    "sources": [
+      "departments/application-part-1-report-2018_19.md",
+      "departments/application_part1_report_2019-20.md",
+      "administration/intercom-04-03-2022.md"
+    ],
+    "confidence": 0.5286,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about that in my knowledge base. Could you rephrase your question?",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 194,
+    "category": "Impossible questions",
+    "question": "how to apply for aerospace engineering B.E.",
+    "expected": "Refuse or reject as B.E. Aerospace is not offered in BVB/KLE Tech",
+    "latency_ms": 3857.39,
+    "sources": [
+      "academic/admission_for_ug_program.md",
+      "departments/b_e_mechanical_engineering.md",
+      "academic/under_graduate_program.md",
+      "departments/intenational_admission_alt.md"
+    ],
+    "confidence": 0.7757,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about that in my knowledge base. Could you rephrase your question?",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 195,
+    "category": "Impossible questions",
+    "question": "where is the swimming pool located?",
+    "expected": "Refuse or reject as swimming pool is not in BVB facilities",
+    "latency_ms": 4337.84,
+    "sources": [
+      "administration/intercom-04-03-2022.md",
+      "departments/application-part-1-report-2018_19.md",
+      "departments/application_part1_report_2019-20.md"
+    ],
+    "confidence": 0.5229,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about that in my knowledge base. Could you rephrase your question?",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 196,
+    "category": "Impossible questions",
+    "question": "how to contact BVB principal directly on whatsapp",
+    "expected": "Refuse or reject since direct personal numbers are not published",
+    "latency_ms": 3909.88,
+    "sources": [
+      "departments/bog_minutes.md",
+      "campus/teqip.md",
+      "departments/kle-tech-annual-report-2017-18.md",
+      "departments/bvbcet-annual-report-2013-14.md",
+      "administration/contact.md"
+    ],
+    "confidence": 0.6461,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about that in my knowledge base. Could you rephrase your question?",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 197,
+    "category": "Impossible questions",
+    "question": "syllabus for PhD in space research",
+    "expected": "Refuse or reject as space research PhD is not offered",
+    "latency_ms": 4098.72,
+    "sources": [
+      "research/makers_space.md",
+      "academic/curriculum_and_syllabus.md",
+      "research/phd-regulations-kle-tech-july-2025.md"
+    ],
+    "confidence": 0.595,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about that in my knowledge base. Could you rephrase your question?",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 198,
+    "category": "Impossible questions",
+    "question": "when is the college annual festival happening in USA",
+    "expected": "Refuse or reject as the college is in Hubballi, Karnataka, India",
+    "latency_ms": 3611.34,
+    "sources": [
+      "departments/kle-tech-annual-report-2017-18.md",
+      "departments/aqar2021-22resubmittedaugust2023.md",
+      "campus/coe-4thand6thsemestercoe2024-25_even.md"
+    ],
+    "confidence": 0.6165,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about that in my knowledge base. Could you rephrase your question?",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 199,
+    "category": "Impossible questions",
+    "question": "does BVB college offer MBBS course?",
+    "expected": "Refuse or reject as MBBS is medical, not engineering/KLE Tech BVB campus",
+    "latency_ms": 3399.55,
+    "sources": [
+      "departments/prospectus.md",
+      "academic/iqaccomposition.md"
+    ],
+    "confidence": 0.6959,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about that in my knowledge base. Could you rephrase your question?",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  },
+  {
+    "idx": 200,
+    "category": "Impossible questions",
+    "question": "how to book the helicopter pad on campus",
+    "expected": "Refuse or reject since there is no helicopter pad on campus",
+    "latency_ms": 4696.88,
+    "sources": [
+      "hostel/library_rules.md",
+      "departments/mandatory-disclosure-edited.md",
+      "research/overview.md"
+    ],
+    "confidence": 0.3694,
+    "source_used": "Local KB",
+    "answer": "I couldn't find verified information about that in my knowledge base. Could you rephrase your question?",
+    "correct": true,
+    "score": 10,
+    "failure_cause": null
+  }
+]

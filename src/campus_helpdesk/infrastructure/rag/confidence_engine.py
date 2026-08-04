@@ -89,16 +89,22 @@ class ConfidenceEngine:
 
         start_time = time.time()
         top_match = search_results[0]
-        top_reranker_score = -top_match.distance if top_match.distance < 0 else 0.0
-        top_distance = top_match.distance if top_match.distance >= 0 else 0.5
+        # Determine if reranking was actually performed
+        was_reranked = False
+        if top_match.document and hasattr(top_match.document, "metadata"):
+            was_reranked = "original_distance" in top_match.document.metadata
 
-        # Reranker signal (sigmoid on cross‑encoder score)
-        if top_match.distance < 0:
+        if was_reranked:
+            top_reranker_score = -top_match.distance
+            top_distance = top_match.document.metadata["original_distance"]
+            # Sigmoid over the full cross‑encoder score range (maps negative and positive scores continuously)
             reranker_signal = 1.0 / (1.0 + math.exp(-top_reranker_score / 2.5))
         else:
+            top_reranker_score = 0.0
+            top_distance = top_match.distance
             reranker_signal = max(0.0, min(1.0, 1.0 - (top_distance / 2.0)))
 
-        # Distance signal (inverse of FAISS distance)
+        # Distance signal (inverse of actual search distance)
         distance_signal = max(0.0, min(1.0, 1.0 - (top_distance / 2.0)))
 
         # Chunk count signal (normalized to 4 chunks)

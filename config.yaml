@@ -10,7 +10,11 @@ retrieval:
   rerank_k: 5
   confidence_threshold: 0.75
   answerability_threshold: 0.70
-  distance_threshold: 2.0
+  # IMPORTANT: distance_threshold is compared against the raw distance from the hybrid retriever.
+  # BM25 scores are negative and FAISS L2 scores can be up to ~8. The old value of 2.0
+  # incorrectly rejected valid top-RRF FAISS-dominated results, causing hallucination.
+  # Set to 999.0 to disable the broken absolute filter; rely on RRF ranking + LLM grounding instead.
+  distance_threshold: 999.0
   chunk_size: 800
   chunk_overlap: 120
 

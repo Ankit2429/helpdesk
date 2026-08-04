@@ -32,7 +32,7 @@ def test_chat_returns_model_response() -> None:
     assert response.status_code == 200
     res_data = response.json()
     assert res_data["status"] == "completed"
-    assert "User Question: Where is the library?" in res_data["reply"]
+    assert "User Question: where is the library" in res_data["reply"]
 
 
 def test_chat_rejects_blank_message() -> None:

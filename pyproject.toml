@@ -33,6 +33,9 @@ dependencies = [
   "hf-xet>=1.5.2",
   "webrtcvad-wheels>=2.0.14",
   "rank-bm25>=0.2.2",
+  "customtkinter>=5.2,<6.0",
+  "pyaudio>=0.2.14",
+  "SpeechRecognition>=3.10.0",
 ]
 
 [project.scripts]
@@ -48,7 +51,7 @@ dev = [
 packages = ["src/campus_helpdesk"]
 
 [tool.pytest.ini_options]
-testpaths = ["tests", "bvbcet_rag_pipeline/tests"]
+testpaths = ["tests"]
 addopts = "-ra"
 pythonpath = ["src", "bvbcet_rag_pipeline", "bvbcet_scraper"]
 

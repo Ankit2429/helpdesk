@@ -27,13 +27,13 @@ class Settings(BaseSettings):
     debug: bool = False
     log_level: str = "INFO"
     ollama_base_url: str = "http://localhost:11434"
-    ollama_model: str = Field(default="qwen2.5:3b", validation_alias="OLLAMA_MODEL")
+    ollama_model: str = Field(default="llama3.2:3b", validation_alias="OLLAMA_MODEL")
     ollama_timeout_seconds: float = 180.0
-    ollama_temperature: float = 0.0
+    ollama_temperature: float = 0.2
     ollama_top_p: float = 0.8
     ollama_top_k: int = 40
     ollama_repeat_penalty: float = 1.1
-    ollama_context_window: int = 2_048
+    ollama_context_window: int = 8_192
     ollama_max_output_tokens: int = 512
     ollama_num_threads: int = 6
     # ---- Router & Connectivity Settings ----
@@ -47,8 +47,8 @@ class Settings(BaseSettings):
     cloud_llm_model: str = "nvidia/nemotron-3-ultra-550b-a55b:free"
     cloud_llm_timeout_seconds: float = 25.0
     offline_llm_model: str = Field(
-        default="qwen2.5:3b",
-        validation_alias=AliasChoices("OFFLINE_LLM_MODEL", "LOCAL_LLM_MODEL")
+        default="llama3.2:3b",
+        validation_alias=AliasChoices("OFFLINE_LLM_MODEL", "LOCAL_LLM_MODEL", "OLLAMA_MODEL")
     )
     connectivity_check_timeout_seconds: float = 1.5
     connectivity_check_cache_seconds: float = 15.0
@@ -77,7 +77,11 @@ class Settings(BaseSettings):
     rag_chunk_separators: list[str] = Field(default_factory=lambda: ["\n\n", "\n", " ", ""])
     rag_add_start_index: bool = True
     rag_search_limit: int = 5
-    rag_distance_threshold: float = 2.0
+    # IMPORTANT: The hybrid retriever uses RRF fusion which assigns distance = min(BM25_score, FAISS_L2).
+    # BM25 scores are negative (e.g. -6.7) and FAISS L2 scores are positive (e.g. 3.1, 6.9).
+    # A threshold of 2.0 incorrectly filters out valid top-RRF FAISS-dominated results.
+    # Set to a large value (999.0) to disable the broken absolute filter and rely on RRF ranking + LLM grounding.
+    rag_distance_threshold: float = 999.0
     candidate_window: int = Field(
         default=25,
         validation_alias=AliasChoices("CANDIDATE_WINDOW", "INITIAL_CANDIDATES", "RERANKER_TOP_N")

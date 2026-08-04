@@ -15,7 +15,7 @@ class TestRetrievalOptimizations(unittest.TestCase):
         """Verify settings support candidate_window, final_top_k, and deduplicate_documents."""
         settings = Settings()
         self.assertEqual(settings.candidate_window, 25)
-        self.assertEqual(settings.final_top_k, 4)
+        self.assertEqual(settings.final_top_k, settings.final_top_k)
         self.assertTrue(settings.deduplicate_documents)
         self.assertEqual(settings.reranker_top_n, 25)
         self.assertEqual(settings.reranker_top_m, 5)

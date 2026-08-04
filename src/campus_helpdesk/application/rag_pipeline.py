@@ -61,7 +61,7 @@ class RAGPipeline:
         """Backward-compatible alias for ingest_file."""
         return self.ingest_file(source_path, persist=persist)
 
-    def search(self, query: str, limit: int | None = None) -> list[SearchResult]:
+    def search(self, query: str, limit: int | None = None, original_query: str | None = None) -> list[SearchResult]:
         """Find relevant indexed chunks for a natural-language query."""
         if not query.strip():
             raise ValueError("Search query cannot be blank.")
@@ -77,7 +77,8 @@ class RAGPipeline:
 
         # Step 2: Rerank initial candidates if Cross-Encoder reranker is configured
         if self._reranker is not None:
-            candidates = self._reranker.rerank(query, candidates, top_m=candidate_count)
+            r_query = original_query if original_query is not None else query
+            candidates = self._reranker.rerank(r_query, candidates, top_m=candidate_count)
 
         # Step 3: Document-level deduplication (keep highest ranked chunk per source document)
         if self._deduplicate_documents:

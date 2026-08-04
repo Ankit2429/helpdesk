@@ -1,0 +1,109 @@
+{
+  "timestamp": "2026-08-03T19:07:03Z",
+  "scores": {
+    "behavioral_score": 100.0,
+    "reliability_score": 98.5,
+    "user_experience_score": 96.0,
+    "performance_score": 99.0
+  },
+  "performance": {
+    "avg_frame_latency_ms": 0.89,
+    "fps": 1123.6,
+    "greeting_success_rate": 100.0,
+    "false_positive_rate": 0.0,
+    "false_negative_rate": 0.0
+  },
+  "scenarios": [
+    {
+      "id": "sc01",
+      "name": "Single Student Approach",
+      "status": "PASS",
+      "passed": true,
+      "duration_ms": 51.9
+    },
+    {
+      "id": "sc02",
+      "name": "Student Walking Past",
+      "status": "PASS (False Positive Rejected)",
+      "passed": true,
+      "duration_ms": 15.4
+    },
+    {
+      "id": "sc03",
+      "name": "Crowd Scene",
+      "status": "PASS (Primary User Selected)",
+      "passed": true,
+      "duration_ms": 1.0
+    },
+    {
+      "id": "sc04",
+      "name": "Group Discussion",
+      "status": "PASS",
+      "passed": true,
+      "duration_ms": 1.0
+    },
+    {
+      "id": "sc05",
+      "name": "Looking Away",
+      "status": "PASS",
+      "passed": true,
+      "duration_ms": 3.4
+    },
+    {
+      "id": "sc06",
+      "name": "Looking at Robot",
+      "status": "PASS",
+      "passed": true,
+      "duration_ms": 1.3
+    },
+    {
+      "id": "sc07",
+      "name": "Leaving Robot",
+      "status": "PASS",
+      "passed": true,
+      "duration_ms": 1.1
+    },
+    {
+      "id": "sc08",
+      "name": "Returning User",
+      "status": "PASS",
+      "passed": true,
+      "duration_ms": 2.5
+    },
+    {
+      "id": "sc09",
+      "name": "Language Switching",
+      "status": "PASS (Languages Synchronized)",
+      "passed": true,
+      "duration_ms": 0.0
+    },
+    {
+      "id": "sc10",
+      "name": "Speech Interruption",
+      "status": "PASS",
+      "passed": true,
+      "duration_ms": 1.1
+    },
+    {
+      "id": "sc11",
+      "name": "Voice Only Mode",
+      "status": "PASS",
+      "passed": true,
+      "duration_ms": 2.5
+    },
+    {
+      "id": "sc12",
+      "name": "Touch Only Mode",
+      "status": "PASS",
+      "passed": true,
+      "duration_ms": 1.6
+    },
+    {
+      "id": "sc13",
+      "name": "Mixed Interaction",
+      "status": "PASS",
+      "passed": true,
+      "duration_ms": 1.0
+    }
+  ]
+}

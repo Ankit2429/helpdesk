@@ -103,6 +103,9 @@ class CrossEncoderReranker:
             scored_candidates = []
             for idx, match in enumerate(candidates):
                 score = float(scores[idx])
+                # Preserve original search distance in metadata
+                if match.document and hasattr(match.document, "metadata"):
+                    match.document.metadata["original_distance"] = match.distance
                 # Create copy of SearchResult preserving original metadata
                 reranked_match = SearchResult(
                     document=match.document,

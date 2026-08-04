@@ -46,8 +46,8 @@ class FakeValidPipeline:
 
 
 def test_rag_chat_service_falls_back_to_llm_on_high_distance() -> None:
-    """When RAG results exceed the distance threshold, the LLM should still be called
-    with a general knowledge prompt rather than returning a dead-end fallback."""
+    """When RAG results exceed the distance threshold, the confidence score should be low
+    and the service must return the low-confidence fallback instead of calling the LLM."""
     llm = DummyLLMService()
     pipeline = FakeHighDistancePipeline()
     context_builder = PromptContextBuilder(similarity_threshold=1.0)
@@ -55,38 +55,36 @@ def test_rag_chat_service_falls_back_to_llm_on_high_distance() -> None:
 
     result = service.respond("What is the wifi password?")
 
-    assert llm.called
-    assert llm.generate_count == 1
-    assert llm.generate_stream_count == 0
-    assert "Context:" not in llm.last_prompt
-    assert "What is the wifi password?" in llm.last_prompt
+    assert not llm.called
+    assert llm.generate_count == 0
+    assert result.reply == "I couldn't find reliable information about that. Could you rephrase your question?"
     assert result.status == "completed"
 
 
 def test_respond_stream_executes_generation_once_without_context() -> None:
-    """When RAG context is unavailable, respond_stream should call generate_stream exactly once
-    and must not make a duplicate call to generate."""
+    """When RAG context is unavailable or below threshold, respond_stream should yield
+    the low-confidence fallback directly without calling the LLM."""
     llm = DummyLLMService()
     pipeline = FakeHighDistancePipeline()
     context_builder = PromptContextBuilder(similarity_threshold=1.0)
     service = RAGChatService(llm_service=llm, rag_pipeline=pipeline, context_builder=context_builder)
 
-    tokens = list(service.respond_stream("Hello", session_id="s1"))
+    tokens = list(service.respond_stream("What is the tuition fee structure?", session_id="s1"))
 
-    assert tokens == ["LLM ", "Streamed ", "Response"]
-    assert llm.generate_stream_count == 1
+    assert tokens == ["I couldn't find reliable information about that. Could you rephrase your question?"]
+    assert llm.generate_stream_count == 0
     assert llm.generate_count == 0
 
     # Verify response is recorded in session memory
     messages = service.session_manager.get_or_create_session("s1").get_messages()
     assert len(messages) == 2
-    assert messages[0]["content"] == "Hello"
-    assert messages[1]["content"] == "LLM Streamed Response"
+    assert messages[0]["content"] == "what is the tuition fee structure"
+    assert messages[1]["content"] == "I couldn't find reliable information about that. Could you rephrase your question?"
 
 
 def test_respond_stream_executes_generation_once_with_context() -> None:
-    """When RAG context is available, respond_stream should call generate_stream exactly once
-    and must not call generate."""
+    """When RAG context is available and above confidence threshold, respond_stream should call
+    generate_stream exactly once and must not call generate."""
     llm = DummyLLMService()
     pipeline = FakeValidPipeline()
     context_builder = PromptContextBuilder(similarity_threshold=1.0)
@@ -101,6 +99,5 @@ def test_respond_stream_executes_generation_once_with_context() -> None:
     # Verify response is recorded in session memory
     messages = service.session_manager.get_or_create_session("s2").get_messages()
     assert len(messages) == 2
-    assert messages[0]["content"] == "Campus info"
+    assert messages[0]["content"] == "campus info"
     assert messages[1]["content"] == "LLM Streamed Response"
-

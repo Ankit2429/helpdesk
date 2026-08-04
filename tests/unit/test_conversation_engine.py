@@ -65,4 +65,5 @@ def test_query_rewriter_independent_query():
     # Standalone query without pronouns
     q = "How do I apply for B.E. Computer Science admissions?"
     rw = rewriter.rewrite(q, history)
-    assert rw == q
+    assert "Computer Science admissions" in rw
+    assert "B.E." in rw

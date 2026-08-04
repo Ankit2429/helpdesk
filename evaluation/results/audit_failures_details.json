@@ -1,0 +1,1527 @@
+[
+  {
+    "idx": 45,
+    "query": "vice chancellor message",
+    "category": "Vice Chancellor",
+    "rewritten": "vice chancellor message canteen dining food mess canteens cafeterias hostel canteens",
+    "score": 0.2513,
+    "level": "Low",
+    "top_reranker": 0.0,
+    "top_distance": 5.0114,
+    "chunks": [
+      {
+        "source": "sitemap_30d013.md",
+        "distance": 5.0114,
+        "text": "[Location: Sitemap] # Sitemap  **Source URL:** https://www.kletech.ac.in/sitemap  - Home - Sitemap - Overview - KLE Society - Chancellor\u2019s Message - Vice Chancellor\u2019s Message - Board of Governors  Lis"
+      },
+      {
+        "source": "pro_chancellors_message_6f82ee.md",
+        "distance": 6.0614,
+        "text": "[Location: Pro Chancellor\u2019s Message > Admission Help] # Pro Chancellor\u2019s Message - Admission Help  Undergraduate  B.A. LL.B B.B.A. LL.B B.Com. LL.B LL.B  - Postgraduate  Postgraduate  LLM - Constituti"
+      },
+      {
+        "source": "chancellors_message_627700.md",
+        "distance": 6.5571,
+        "text": "[Location: Chancellor\u2019s Message > Admission Help] # Chancellor\u2019s Message - Admission Help  Undergraduate  B.A. LL.B B.B.A. LL.B B.Com. LL.B LL.B  - Postgraduate  Postgraduate  LLM - Constitutional Law"
+      },
+      {
+        "source": "intercom_04_03_2022_066a67.md",
+        "distance": 6.8124,
+        "text": "[Location: PDF Document: intercom-04-03-2022 > Page 1] # PDF Document: intercom-04-03-2022 - Page 1  **PDF Source:** https://www.kletech.ac.in/pdf/intercom-04-03-2022.pdf  KLE Technological University"
+      },
+      {
+        "source": "karnataka_rajyapatra_70a728.md",
+        "distance": 8.0942,
+        "text": "[Location: PDF Document: Karnataka-Rajyapatra > OFFICERS OF THE UNIVERSITY] # PDF Document: Karnataka-Rajyapatra - OFFICERS OF THE UNIVERSITY  (4) The Vice-Chancellor shall be the Principal Executive "
+      }
+    ]
+  },
+  {
+    "idx": 60,
+    "query": "hostel mess food canteens",
+    "category": "Hostel",
+    "rewritten": "hostel mess food canteens hostel facilities canteens food boys girls mess dining residential rooms security recreation internet Wi-Fi",
+    "score": 0.2653,
+    "level": "Low",
+    "top_reranker": 0.0,
+    "top_distance": 1.9582,
+    "chunks": [
+      {
+        "source": "on_campus_facilities_69b71b.md",
+        "distance": 1.9582,
+        "text": "[Location: On Campus Facilities > Hostels] # On Campus Facilities - Hostels  **Source URL:** https://www.kletech.ac.in/hubballi/infrastructure/on-campus-facilities  - Home - Infrastructure - On Campus"
+      },
+      {
+        "source": "on_campus_facilities_36c031.md",
+        "distance": 1.9746,
+        "text": "[Location: On Campus Facilities > Hostels] # On Campus Facilities - Hostels  **Source URL:** https://www.kletech.ac.in/campus-life/on-campus-facilities  - Home - Campus-life - On Campus Facilities  We"
+      },
+      {
+        "source": "prospectus_a00fd8.md",
+        "distance": 3.4453,
+        "text": "[Location: PDF Document: prospectus > Page 10] # PDF Document: prospectus - Page 10  ELIGIBILITY Second year (PUC-II) in any stream. HOSTEL FACILITIES Safe & Secured Hostel for Girls and Boys inside t"
+      },
+      {
+        "source": "9imguf_aqar2021_22resubmittedaugust2023_850101.md",
+        "distance": 5.6768,
+        "text": "[Location: PDF Document: 9imguf_AQAR2021-22ResubmittedAugust2023 > 2.3.2 - Teachers use ICT enabled tools including online resources for effective teaching and learning processes during the year] # PD"
+      },
+      {
+        "source": "intercom_04_03_2022_066a67.md",
+        "distance": 5.8312,
+        "text": "[Location: PDF Document: intercom-04-03-2022 > Page 1] # PDF Document: intercom-04-03-2022 - Page 1  School of Management Studies & Research (SMSR)   HOD ................................ .. 290 Office"
+      }
+    ]
+  },
+  {
+    "idx": 80,
+    "query": "reference section location",
+    "category": "Library",
+    "rewritten": "reference section location office room block location School CSE HOD CARR registrar placement cell admin block Room 401",
+    "score": 0.2882,
+    "level": "Low",
+    "top_reranker": 0.0,
+    "top_distance": 1.8884,
+    "chunks": [
+      {
+        "source": "intercom_04_03_2022_066a67.md",
+        "distance": 1.8884,
+        "text": "[Location: PDF Document: intercom-04-03-2022 > Page 1] # PDF Document: intercom-04-03-2022 - Page 1  School of Management Studies & Research (SMSR)   HOD ................................ .. 290 Office"
+      },
+      {
+        "source": "application_part_1_report_2018_19_668583.md",
+        "distance": 7.5444,
+        "text": "[Location: PDF Document: Application-Part-1-Report-2018_19 > Instructional Area] # PDF Document: Application-Part-1-Report-2018_19 - Instructional Area  |   Sr. No. | Programme                  | Leve"
+      },
+      {
+        "source": "8imguf_momiqac16may22and7july21609_2b72ae.md",
+        "distance": 7.9619,
+        "text": "[Location: PDF Document: 8imguf_MOMIQAC16May22and7July21609 > lNRENAL QUALllY ASSURANCE CELL -lcIAC] # PDF Document: 8imguf_MOMIQAC16May22and7July21609 - lNRENAL QUALllY ASSURANCE CELL -lcIAC  **PDF S"
+      },
+      {
+        "source": "application_part1_report_2019_20_1fdb09.md",
+        "distance": 8.6547,
+        "text": "[Location: PDF Document: Application_Part1_Report_2019-20 > Application Report - Part 1] # PDF Document: Application_Part1_Report_2019-20 - Application Report - Part 1  Submitted  Payment Received  Re"
+      },
+      {
+        "source": "241imguf_kle_technological_university_public_f59b56.md",
+        "distance": 8.7124,
+        "text": "[Location: PDF Document: 241imguf_KLE-Technological-University-Public-Mandatory-Disclosure > Page 8] # PDF Document: 241imguf_KLE-Technological-University-Public-Mandatory-Disclosure - Page 8  6 Stude"
+      }
+    ]
+  },
+  {
+    "idx": 83,
+    "query": "companies hiring from Biotechnology",
+    "category": "Placements",
+    "rewritten": "companies hiring from Biotechnology",
+    "score": 0.2513,
+    "level": "Low",
+    "top_reranker": 0.0,
+    "top_distance": 3.8222,
+    "chunks": [
+      {
+        "source": "b_e_biotechnology_b6acae.md",
+        "distance": 3.8222,
+        "text": "[Location: B E Biotechnology > Course Components > Testimonials] # B E Biotechnology - Testimonials  - Mr. Murugesh Nirani - Notable Alumni - Dr. Sudha Murty - Notable Alumni  Lorem ipsum dolor sit am"
+      },
+      {
+        "source": "kle_tech_annual_report_2016_17_29c804.md",
+        "distance": 4.6236,
+        "text": "[Location: PDF Document: KLE-TECH-Annual-Report-2016-17 > Placement] # PDF Document: KLE-TECH-Annual-Report-2016-17 - Placement  2016-17 was Good Year for Placements. Most of the companies hired moder"
+      },
+      {
+        "source": "188imguf_placement_brochure_kle_tech_830bcd.md",
+        "distance": 8.5079,
+        "text": "[Location: PDF Document: 188imguf_placement-brochure-kle-tech > Companies in our Campus (Incubation)] # PDF Document: 188imguf_placement-brochure-kle-tech - Companies in our Campus (Incubation)  - \uf0b4 A"
+      },
+      {
+        "source": "kle_tech_annual_report_2017_18_48b721.md",
+        "distance": 9.1314,
+        "text": "[Location: PDF Document: KLE-TECH-Annual-Report-2017-18 > Algorithmic Problem Solving] # PDF Document: KLE-TECH-Annual-Report-2017-18 - Algorithmic Problem Solving  A  six  credit  competitive  progra"
+      },
+      {
+        "source": "programs_32c262.md",
+        "distance": 9.3056,
+        "text": "[Location: Programs > Undergraduate] # Programs - Undergraduate  **Source URL:** https://www.kletech.ac.in/course-detail/ph-d-in-biotechnology/22  - B E Civil Engineering - B E Mechanical Engineering "
+      }
+    ]
+  },
+  {
+    "idx": 99,
+    "query": "canteen dining options",
+    "category": "Campus facilities",
+    "rewritten": "canteen dining options canteen dining food mess canteens cafeterias hostel canteens",
+    "score": 0.2517,
+    "level": "Low",
+    "top_reranker": 0.0,
+    "top_distance": 7.7568,
+    "chunks": [
+      {
+        "source": "on_campus_facilities_36c031.md",
+        "distance": 7.7568,
+        "text": "[Location: On Campus Facilities > Hostels] # On Campus Facilities - Hostels  **Source URL:** https://www.kletech.ac.in/campus-life/on-campus-facilities  - Home - Campus-life - On Campus Facilities  We"
+      },
+      {
+        "source": "on_campus_facilities_69b71b.md",
+        "distance": 7.804,
+        "text": "[Location: On Campus Facilities > Hostels] # On Campus Facilities - Hostels  **Source URL:** https://www.kletech.ac.in/hubballi/infrastructure/on-campus-facilities  - Home - Infrastructure - On Campus"
+      },
+      {
+        "source": "intercom_04_03_2022_066a67.md",
+        "distance": 8.4792,
+        "text": "[Location: PDF Document: intercom-04-03-2022 > Page 1] # PDF Document: intercom-04-03-2022 - Page 1  School of Management Studies & Research (SMSR)   HOD ................................ .. 290 Office"
+      },
+      {
+        "source": "prospectus_a00fd8.md",
+        "distance": 9.1993,
+        "text": "[Location: PDF Document: prospectus > Page 10] # PDF Document: prospectus - Page 10  ELIGIBILITY Second year (PUC-II) in any stream. HOSTEL FACILITIES Safe & Secured Hostel for Girls and Boys inside t"
+      },
+      {
+        "source": "bsc_in_hotel_management_and_catering_technolo_bfaa1c.md",
+        "distance": 9.7819,
+        "text": "[Location: B.Sc. in Hotel Management and Catering Technology (B.Sc. HMCT) > B.Sc. in Hotel Management and Catering Technology (B.Sc. HMCT) is a three-year undergraduate programme commencing in 2026, >"
+      }
+    ]
+  },
+  {
+    "idx": 100,
+    "query": "sports ground amenities",
+    "category": "Campus facilities",
+    "rewritten": "sports ground amenities sports gym ground gymnasium indoor games facilities banking ATM medical health center",
+    "score": 0.252,
+    "level": "Low",
+    "top_reranker": 0.0,
+    "top_distance": 3.3309,
+    "chunks": [
+      {
+        "source": "on_campus_facilities_69b71b.md",
+        "distance": 3.3309,
+        "text": "[Location: On Campus Facilities > Gym & Sports] # On Campus Facilities - Gym & Sports  KLE Tech University has an in-house multifaceted state-of-the-art gymnasium to be used by both students and facul"
+      },
+      {
+        "source": "on_campus_facilities_36c031.md",
+        "distance": 5.0907,
+        "text": "[Location: On Campus Facilities > Gymnasium] # On Campus Facilities - Gymnasium  KLE Tech University has an in-house multifaceted state-of-the-art gymnasium to be used by both students and faculty mem"
+      },
+      {
+        "source": "sports_and_health_f3cc6d.md",
+        "distance": 7.9596,
+        "text": "[Location: Sports and Health > 35+] # Sports and Health - 35+  **Source URL:** https://www.kletech.ac.in/campus-life/sports-and-health  - Home - Campus-life - Sports and Health  We organize various sp"
+      },
+      {
+        "source": "241imguf_kle_technological_university_public_f59b56.md",
+        "distance": 9.1759,
+        "text": "[Location: PDF Document: 241imguf_KLE-Technological-University-Public-Mandatory-Disclosure > Page 8] # PDF Document: 241imguf_KLE-Technological-University-Public-Mandatory-Disclosure - Page 8  6 Stude"
+      },
+      {
+        "source": "image_gallery_285dea.md",
+        "distance": 10.4014,
+        "text": "[Location: Image Gallery] # Image Gallery  **Source URL:** https://www.kletech.ac.in/happenings/image-gallery  - Home - Happenings - Image Gallery - Photo - Video  16                                  "
+      }
+    ]
+  },
+  {
+    "idx": 101,
+    "query": "health center locations",
+    "category": "Campus facilities",
+    "rewritten": "health center locations office room block location School CSE HOD CARR registrar placement cell admin block Room 401",
+    "score": 0.2514,
+    "level": "Low",
+    "top_reranker": 0.0,
+    "top_distance": 2.8139,
+    "chunks": [
+      {
+        "source": "intercom_04_03_2022_066a67.md",
+        "distance": 2.8139,
+        "text": "[Location: PDF Document: intercom-04-03-2022 > Page 1] # PDF Document: intercom-04-03-2022 - Page 1  School of Management Studies & Research (SMSR)   HOD ................................ .. 290 Office"
+      },
+      {
+        "source": "241imguf_kle_technological_university_public_f59b56.md",
+        "distance": 8.1319,
+        "text": "[Location: PDF Document: 241imguf_KLE-Technological-University-Public-Mandatory-Disclosure > Page 8] # PDF Document: 241imguf_KLE-Technological-University-Public-Mandatory-Disclosure - Page 8  6 Stude"
+      },
+      {
+        "source": "application_part_1_report_2018_19_668583.md",
+        "distance": 8.4945,
+        "text": "[Location: PDF Document: Application-Part-1-Report-2018_19 > Instructional Area] # PDF Document: Application-Part-1-Report-2018_19 - Instructional Area  |   Sr. No. | Programme                  | Leve"
+      },
+      {
+        "source": "8imguf_momiqac16may22and7july21609_2b72ae.md",
+        "distance": 8.6423,
+        "text": "[Location: PDF Document: 8imguf_MOMIQAC16May22and7July21609 > lNRENAL QUALllY ASSURANCE CELL -lcIAC] # PDF Document: 8imguf_MOMIQAC16May22and7July21609 - lNRENAL QUALllY ASSURANCE CELL -lcIAC  **PDF S"
+      },
+      {
+        "source": "189krf_campus_placement_brochure_c73205.md",
+        "distance": 9.2203,
+        "text": "[Location: PDF Document: 189krf-Campus-Placement-Brochure > Faculty In-charge] # PDF Document: 189krf-Campus-Placement-Brochure - Faculty In-charge  Mrs. Anu Veerendra  Email : abbelagavi@gmail.com  W"
+      }
+    ]
+  },
+  {
+    "idx": 104,
+    "query": "stationary shop in campus",
+    "category": "Campus facilities",
+    "rewritten": "stationary shop in campus",
+    "score": 0.2512,
+    "level": "Low",
+    "top_reranker": 0.0,
+    "top_distance": 2.7581,
+    "chunks": [
+      {
+        "source": "on_campus_facilities_69b71b.md",
+        "distance": 2.7581,
+        "text": "[Location: On Campus Facilities > Gym & Sports] # On Campus Facilities - Gym & Sports  KLE Tech University has an in-house multifaceted state-of-the-art gymnasium to be used by both students and facul"
+      },
+      {
+        "source": "on_campus_facilities_36c031.md",
+        "distance": 3.0173,
+        "text": "[Location: On Campus Facilities > Gymnasium] # On Campus Facilities - Gymnasium  KLE Tech University has an in-house multifaceted state-of-the-art gymnasium to be used by both students and faculty mem"
+      },
+      {
+        "source": "makers_space_e2b877.md",
+        "distance": 6.5821,
+        "text": "[Location: Makers Space] # Makers Space  **Source URL:** https://www.kletech.ac.in/hubballi/research-innovation/makers-space  - Home - Research & Innovation - Entreprenuership Promotion - Makers Space"
+      },
+      {
+        "source": "188imguf_placement_brochure_kle_tech_830bcd.md",
+        "distance": 7.8098,
+        "text": "[Location: PDF Document: 188imguf_placement-brochure-kle-tech > Companies in our Campus (Incubation)] # PDF Document: 188imguf_placement-brochure-kle-tech - Companies in our Campus (Incubation)  - \uf0b4 A"
+      },
+      {
+        "source": "241imguf_kle_technological_university_public_f59b56.md",
+        "distance": 8.1354,
+        "text": "[Location: PDF Document: 241imguf_KLE-Technological-University-Public-Mandatory-Disclosure > Page 8] # PDF Document: 241imguf_KLE-Technological-University-Public-Mandatory-Disclosure - Page 8  6 Stude"
+      }
+    ]
+  },
+  {
+    "idx": 107,
+    "query": "where is Registrar office",
+    "category": "Office locations",
+    "rewritten": "where is Registrar office office room block location School CSE HOD CARR registrar placement cell admin block Room 401",
+    "score": 0.2527,
+    "level": "Low",
+    "top_reranker": 0.0,
+    "top_distance": 3.3461,
+    "chunks": [
+      {
+        "source": "intercom_04_03_2022_066a67.md",
+        "distance": 3.3461,
+        "text": "[Location: PDF Document: intercom-04-03-2022 > Page 1] # PDF Document: intercom-04-03-2022 - Page 1  School of Management Studies & Research (SMSR)   HOD ................................ .. 290 Office"
+      },
+      {
+        "source": "151imguf_audit_report_scanned_2020_21_02b374.md",
+        "distance": 8.4171,
+        "text": "[Location: 66, \"SANGAM\" Kotilinganagar, Behind Keshav Kunj(RSS Office), Gokul Road, HUBBALLI-580 024. Tel: 0836-2970636 Cell No: +91 94481 16365 - Email: skchenni@gmail.com > (Amounts in Rs)] # PDF Do"
+      },
+      {
+        "source": "8imguf_momiqac16may22and7july21609_2b72ae.md",
+        "distance": 8.4809,
+        "text": "[Location: PDF Document: 8imguf_MOMIQAC16May22and7July21609 > lNRENAL QUALllY ASSURANCE CELL -lcIAC] # PDF Document: 8imguf_MOMIQAC16May22and7July21609 - lNRENAL QUALllY ASSURANCE CELL -lcIAC  **PDF S"
+      },
+      {
+        "source": "audit_report_2018_19__scanned_copy_c2fca4.md",
+        "distance": 8.5938,
+        "text": "[Location: 66, \"SANGAM\" Kotilinganagar, Behind Keshav Kunj(RSS Office), Gokul Road, HUBBALLI-580 024. Tel: 0836-2970636 Cell No: +91 94481 16365 - Email: skchenni@gmail.com > SCHEDULE 10 - LOANS, ADVA"
+      },
+      {
+        "source": "consolidated_audit_report_scanned_kletech_fy_60b5f4.md",
+        "distance": 8.6987,
+        "text": "[Location: 66, \"SANGAM\" Kotilinganagar, Behind Keshav Kunj(RSS Office), Gokul Road, HUBBALLI-580 024. Tel: 0836-2970636 Cell No: +91 94481 16365- Email: skchenni@gmail.com > (Amounts in Rs)] # PDF Doc"
+      }
+    ]
+  },
+  {
+    "idx": 109,
+    "query": "admission office location",
+    "category": "Office locations",
+    "rewritten": "admission office location office room block location School CSE HOD CARR registrar placement cell admin block Room 401",
+    "score": 0.2509,
+    "level": "Low",
+    "top_reranker": 0.0,
+    "top_distance": 2.3492,
+    "chunks": [
+      {
+        "source": "intercom_04_03_2022_066a67.md",
+        "distance": 2.3492,
+        "text": "[Location: PDF Document: intercom-04-03-2022 > Page 1] # PDF Document: intercom-04-03-2022 - Page 1  School of Management Studies & Research (SMSR)   HOD ................................ .. 290 Office"
+      },
+      {
+        "source": "admission_for_pg_program_2ba0e8.md",
+        "distance": 7.9364,
+        "text": "[Location: Admission for PG Program > Fee Payment] # Admission for PG Program - Fee Payment  All fee payments during admission for the first year UG Programs to the University shall be made online  \t\t"
+      },
+      {
+        "source": "application_part_1_report_2018_19_668583.md",
+        "distance": 8.2997,
+        "text": "[Location: PDF Document: Application-Part-1-Report-2018_19 > Instructional Area] # PDF Document: Application-Part-1-Report-2018_19 - Instructional Area  |   Sr. No. | Programme                  | Leve"
+      },
+      {
+        "source": "189krf_campus_placement_brochure_c73205.md",
+        "distance": 8.3526,
+        "text": "[Location: PDF Document: 189krf-Campus-Placement-Brochure > Faculty In-charge] # PDF Document: 189krf-Campus-Placement-Brochure - Faculty In-charge  Mrs. Anu Veerendra  Email : abbelagavi@gmail.com  W"
+      },
+      {
+        "source": "8imguf_momiqac16may22and7july21609_2b72ae.md",
+        "distance": 8.5946,
+        "text": "[Location: PDF Document: 8imguf_MOMIQAC16May22and7July21609 > lNRENAL QUALllY ASSURANCE CELL -lcIAC] # PDF Document: 8imguf_MOMIQAC16May22and7July21609 - lNRENAL QUALllY ASSURANCE CELL -lcIAC  **PDF S"
+      }
+    ]
+  },
+  {
+    "idx": 110,
+    "query": "where is Biotech HOD office",
+    "category": "Office locations",
+    "rewritten": "where is Biotechnology Head of Department office Schools Departments List Civil Mechanical Electrical Electronics Computer Science Information Science Biotechnology Architecture Programs Courses",
+    "score": 0.7675,
+    "level": "High",
+    "top_reranker": 2.5118,
+    "top_distance": 0.5,
+    "chunks": [
+      {
+        "source": "schoolsdepartments_50c30f.md",
+        "distance": -2.5118,
+        "text": "[Location: Schools/Departments > Department of Fashion Design > Admission Help] # Schools/Departments - Admission Help  MS Biotechnology                                                                "
+      },
+      {
+        "source": "schoolsdepartments_279d1e.md",
+        "distance": -1.6575,
+        "text": "[Location: Schools/Departments > Department of Fashion Design > Admission Help] # Schools/Departments - Admission Help  - Undergraduate - B E Civil Engineering - B E Mechanical Engineering - B E Elect"
+      },
+      {
+        "source": "programs_fce068.md",
+        "distance": -0.9476,
+        "text": "[Location: Programs > Admission Help] # Programs - Admission Help  MS Biotechnology                                                                  MS Electrical & Electronics Engineering            "
+      },
+      {
+        "source": "faculty_e16977.md",
+        "distance": -0.4088,
+        "text": "[Location: Faculty > Admission Help] # Faculty - Admission Help  MS Biotechnology                                                                  MS Electrical & Electronics Engineering              "
+      },
+      {
+        "source": "ugc_b1a139.md",
+        "distance": -0.3338,
+        "text": "[Location: UGC > Admission Help] # UGC - Admission Help  MS Biotechnology                                                                  MS Electrical & Electronics Engineering                      "
+      }
+    ]
+  },
+  {
+    "idx": 112,
+    "query": "finance office block location",
+    "category": "Office locations",
+    "rewritten": "finance office block location office room block location School CSE HOD CARR registrar placement cell admin block Room 401",
+    "score": 0.2515,
+    "level": "Low",
+    "top_reranker": 0.0,
+    "top_distance": 2.8551,
+    "chunks": [
+      {
+        "source": "intercom_04_03_2022_066a67.md",
+        "distance": 2.8551,
+        "text": "[Location: PDF Document: intercom-04-03-2022 > Page 1] # PDF Document: intercom-04-03-2022 - Page 1  School of Management Studies & Research (SMSR)   HOD ................................ .. 290 Office"
+      },
+      {
+        "source": "8imguf_momiqac16may22and7july21609_2b72ae.md",
+        "distance": 6.7156,
+        "text": "[Location: PDF Document: 8imguf_MOMIQAC16May22and7July21609 > lNRENAL QUALllY ASSURANCE CELL -lcIAC] # PDF Document: 8imguf_MOMIQAC16May22and7July21609 - lNRENAL QUALllY ASSURANCE CELL -lcIAC  **PDF S"
+      },
+      {
+        "source": "151imguf_audit_report_scanned_2020_21_02b374.md",
+        "distance": 7.3351,
+        "text": "[Location: 66, \"SANGAM\" Kotilinganagar, Behind Keshav Kunj(RSS Office), Gokul Road, HUBBALLI-580 024. Tel: 0836-2970636 Cell No: +91 94481 16365 - Email: skchenni@gmail.com > (Amounts in Rs)] # PDF Do"
+      },
+      {
+        "source": "application_part_1_report_2018_19_668583.md",
+        "distance": 8.2974,
+        "text": "[Location: PDF Document: Application-Part-1-Report-2018_19 > Instructional Area] # PDF Document: Application-Part-1-Report-2018_19 - Instructional Area  |   Sr. No. | Programme                  | Leve"
+      },
+      {
+        "source": "189krf_campus_placement_brochure_c73205.md",
+        "distance": 8.578,
+        "text": "[Location: PDF Document: 189krf-Campus-Placement-Brochure > Faculty In-charge] # PDF Document: 189krf-Campus-Placement-Brochure - Faculty In-charge  Mrs. Anu Veerendra  Email : abbelagavi@gmail.com  W"
+      }
+    ]
+  },
+  {
+    "idx": 113,
+    "query": "where is the library? and what are its timings?",
+    "category": "Follow-up questions",
+    "rewritten": "where is the library? and what are its timings? Central Library Block C 2nd floor second floor Books volumes titles ebooks journals Continio borrow timings reference section location",
+    "score": 0.4069,
+    "level": "Medium",
+    "top_reranker": 0.0,
+    "top_distance": 1.5198,
+    "chunks": [
+      {
+        "source": "overview_59fcc7.md",
+        "distance": 1.5198,
+        "text": "[Location: Overview] # Overview  **Source URL:** https://www.kletech.ac.in/hubballi/infrastructure/library/overview  - Home - Infrastructure - Library - Overview  The Central Library has a collection "
+      },
+      {
+        "source": "education_needs_complete_solution_e7153a.md",
+        "distance": 1.9557,
+        "text": "[Location: When in doubt go to the Library > KLE University Central Library] # Education Needs Complete Solution - KLE University Central Library  The KLE Technological University New Central Library "
+      },
+      {
+        "source": "academic_facilities_c75b38.md",
+        "distance": 3.6339,
+        "text": "[Location: Academic Facilities > 103] # Academic Facilities - 103  The central library at KLE Tech University is equipped with state-of-the-art infrastructure on a carpet area of 3000 square meters wi"
+      },
+      {
+        "source": "b_e_information_science_and_engineering.md",
+        "distance": 9.2612,
+        "text": "[Location: B.E. Information Science and Engineering (ISE)] # B.E. Information Science and Engineering (ISE)  **School / Department:** Department of Information Science and Engineering (ISE) **Degree O"
+      },
+      {
+        "source": "scanned_kletu_audit_report_fy_2016_17_7ae3a5.md",
+        "distance": 9.6663,
+        "text": "[Location: PDF Document: Scanned_KLETU-Audit_Report_FY_2016-17 > SCHEDULE 7 - FIXED ASSETS] # PDF Document: Scanned_KLETU-Audit_Report_FY_2016-17 - SCHEDULE 7 - FIXED ASSETS  | Particulars            "
+      }
+    ]
+  },
+  {
+    "idx": 114,
+    "query": "tell me about Biotech. what are the career options after it?",
+    "category": "Follow-up questions",
+    "rewritten": "tell me about Biotechnology. what are the career options after it?",
+    "score": 0.2533,
+    "level": "Low",
+    "top_reranker": 0.0,
+    "top_distance": 6.6477,
+    "chunks": [
+      {
+        "source": "b_e_biotechnology_b6acae.md",
+        "distance": 6.6477,
+        "text": "[Location: B E Biotechnology > Engineering Biology for a Better Tomorrow] # B E Biotechnology - Engineering Biology for a Better Tomorrow  **Source URL:** https://www.kletech.ac.in/course-detail/b-e-b"
+      },
+      {
+        "source": "bachelor_of_commerce_171715.md",
+        "distance": 10.0617,
+        "text": "[Location: Bachelor of Commerce > The Bachelor of Commerce (B.Com) opens up careers in accounting, business, economics, finance and management. > Testimonials] # Bachelor of Commerce - Testimonials  -"
+      },
+      {
+        "source": "b_e_computer_science_and_engineering_475790.md",
+        "distance": 10.217,
+        "text": "[Location: B E Computer Science and Engineering > Course Components > Testimonials] # B E Computer Science and Engineering - Testimonials  - Sateesh K Hanjagi - BBM Acoustic Students  It was too good."
+      },
+      {
+        "source": "ph_d_in_management_studies_research_afe71d.md",
+        "distance": 10.5375,
+        "text": "[Location: Ph. D. in Management Studies & Research > School of Management Studies and Research offers Ph.D. Program under KLE Technological University. > Testimonials] # Ph. D. in Management Studies &"
+      },
+      {
+        "source": "bachelor_of_computer_applications_bca_a6dbcb.md",
+        "distance": 10.5947,
+        "text": "[Location: Bachelor of Computer Applications (BCA) > AI and ML > Testimonials] # Bachelor of Computer Applications (BCA) - Testimonials  - Sateesh K Hanjagi - BBM Acoustic Students  It was too good..."
+      }
+    ]
+  },
+  {
+    "idx": 119,
+    "query": "where is Block C? is the library there?",
+    "category": "Follow-up questions",
+    "rewritten": "where is Block C? is the library there? Central Library Block C 2nd floor second floor Books volumes titles ebooks journals Continio borrow timings reference section location",
+    "score": 0.3636,
+    "level": "Medium",
+    "top_reranker": 0.0,
+    "top_distance": 1.6531,
+    "chunks": [
+      {
+        "source": "overview_59fcc7.md",
+        "distance": 1.6531,
+        "text": "[Location: Overview] # Overview  **Source URL:** https://www.kletech.ac.in/hubballi/infrastructure/library/overview  - Home - Infrastructure - Library - Overview  The Central Library has a collection "
+      },
+      {
+        "source": "education_needs_complete_solution_e7153a.md",
+        "distance": 3.7135,
+        "text": "[Location: When in doubt go to the Library > KLE University Central Library] # Education Needs Complete Solution - KLE University Central Library  The KLE Technological University New Central Library "
+      },
+      {
+        "source": "academic_facilities_c75b38.md",
+        "distance": 3.9564,
+        "text": "[Location: Academic Facilities > 103] # Academic Facilities - 103  The central library at KLE Tech University is equipped with state-of-the-art infrastructure on a carpet area of 3000 square meters wi"
+      },
+      {
+        "source": "b_e_information_science_and_engineering.md",
+        "distance": 8.7574,
+        "text": "[Location: B.E. Information Science and Engineering (ISE)] # B.E. Information Science and Engineering (ISE)  **School / Department:** Department of Information Science and Engineering (ISE) **Degree O"
+      },
+      {
+        "source": "scanned_kletu_audit_report_fy_2017_18_812889.md",
+        "distance": 9.449,
+        "text": "[Location: PDF Document: Scanned_KLETU-Audit_Report_FY_2017-18 > SCHEDULE 7 - FIXED ASSETS] # PDF Document: Scanned_KLETU-Audit_Report_FY_2017-18 - SCHEDULE 7 - FIXED ASSETS  | Particulars            "
+      }
+    ]
+  },
+  {
+    "idx": 121,
+    "query": "what is the timing?",
+    "category": "Ambiguous questions",
+    "rewritten": "what is the timing?",
+    "score": 0.2526,
+    "level": "Low",
+    "top_reranker": 0.0,
+    "top_distance": 6.5911,
+    "chunks": [
+      {
+        "source": "8sem_1d5eff.md",
+        "distance": 6.5911,
+        "text": "[Location: PDF Document: 8sem > Page 1] # PDF Document: 8sem - Page 1  **PDF Source:** https://www.kletech.ac.in/pdf/8sem.pdf                                                                           "
+      },
+      {
+        "source": "consolidated_audit_report_scanned_kletech_fy_60b5f4.md",
+        "distance": 7.6068,
+        "text": "[Location: PDF Document: Consolidated-Audit-Report-scanned-KLETECH-FY-2023-24 > Chenni Associates Chartered Accountants] # PDF Document: Consolidated-Audit-Report-scanned-KLETECH-FY-2023-24 - Chenni A"
+      },
+      {
+        "source": "audit_report_2019_20_scanned_copy_c13e89.md",
+        "distance": 7.7465,
+        "text": "[Location: PDF Document: Audit-report-2019-20-Scanned-copy > Chenni Associates CharteredAccountants] # PDF Document: Audit-report-2019-20-Scanned-copy - Chenni Associates CharteredAccountants  <!-- im"
+      },
+      {
+        "source": "151imguf_audit_report_scanned_2020_21_02b374.md",
+        "distance": 7.9268,
+        "text": "[Location: PDF Document: 151imguf_Audit-Report-scanned-2020-21 > Chenni Associates CharteredAccountants] # PDF Document: 151imguf_Audit-Report-scanned-2020-21 - Chenni Associates CharteredAccountants "
+      },
+      {
+        "source": "final_2_and_4_d32d37.md",
+        "distance": 8.0457,
+        "text": "[Location: PDF Document: final-2-and-4 > Page 1] # PDF Document: final-2-and-4 - Page 1  **PDF Source:** https://www.kletech.ac.in/pdf/final-2-and-4.pdf                                                "
+      }
+    ]
+  },
+  {
+    "idx": 122,
+    "query": "where is the office?",
+    "category": "Ambiguous questions",
+    "rewritten": "where is the office? office room block location School CSE HOD CARR registrar placement cell admin block Room 401",
+    "score": 0.2515,
+    "level": "Low",
+    "top_reranker": 0.0,
+    "top_distance": 2.4381,
+    "chunks": [
+      {
+        "source": "intercom_04_03_2022_066a67.md",
+        "distance": 2.4381,
+        "text": "[Location: PDF Document: intercom-04-03-2022 > Page 1] # PDF Document: intercom-04-03-2022 - Page 1  School of Management Studies & Research (SMSR)   HOD ................................ .. 290 Office"
+      },
+      {
+        "source": "151imguf_audit_report_scanned_2020_21_02b374.md",
+        "distance": 8.5744,
+        "text": "[Location: 66, \"SANGAM\" Kotilinganagar, Behind Keshav Kunj(RSS Office), Gokul Road, HUBBALLI-580 024. Tel: 0836-2970636 Cell No: +91 94481 16365 - Email: skchenni@gmail.com > (Amounts in Rs)] # PDF Do"
+      },
+      {
+        "source": "application_part_1_report_2018_19_668583.md",
+        "distance": 8.7712,
+        "text": "[Location: PDF Document: Application-Part-1-Report-2018_19 > Instructional Area] # PDF Document: Application-Part-1-Report-2018_19 - Instructional Area  |   Sr. No. | Programme                  | Leve"
+      },
+      {
+        "source": "189krf_campus_placement_brochure_c73205.md",
+        "distance": 8.9384,
+        "text": "[Location: PDF Document: 189krf-Campus-Placement-Brochure > Faculty In-charge] # PDF Document: 189krf-Campus-Placement-Brochure - Faculty In-charge  Mrs. Anu Veerendra  Email : abbelagavi@gmail.com  W"
+      },
+      {
+        "source": "8imguf_momiqac16may22and7july21609_2b72ae.md",
+        "distance": 8.9444,
+        "text": "[Location: PDF Document: 8imguf_MOMIQAC16May22and7July21609 > lNRENAL QUALllY ASSURANCE CELL -lcIAC] # PDF Document: 8imguf_MOMIQAC16May22and7July21609 - lNRENAL QUALllY ASSURANCE CELL -lcIAC  **PDF S"
+      }
+    ]
+  },
+  {
+    "idx": 124,
+    "query": "who is the HOD?",
+    "category": "Ambiguous questions",
+    "rewritten": "who is the Head of Department? Schools Departments List Civil Mechanical Electrical Electronics Computer Science Information Science Biotechnology Architecture Programs Courses",
+    "score": 0.7358,
+    "level": "High",
+    "top_reranker": 2.3302,
+    "top_distance": 0.5,
+    "chunks": [
+      {
+        "source": "schoolsdepartments_50c30f.md",
+        "distance": -2.3302,
+        "text": "[Location: Schools/Departments > Department of Fashion Design > Admission Help] # Schools/Departments - Admission Help  MS Biotechnology                                                                "
+      },
+      {
+        "source": "schoolsdepartments_279d1e.md",
+        "distance": -1.4728,
+        "text": "[Location: Schools/Departments > Department of Fashion Design] # Schools/Departments - Department of Fashion Design  **Source URL:** https://www.kletech.ac.in/academics/schools-departments  KLE Techno"
+      },
+      {
+        "source": "531imguf_ugbiotechnologydcpreport_08b5ca.md",
+        "distance": 1.2704,
+        "text": "[Location: PDF Document: 531imguf_UGBiotechnologyDCPreport > Table No. A6.1: List of all programs offered by the Institute.] # PDF Document: 531imguf_UGBiotechnologyDCPreport - Table No. A6.1: List of"
+      },
+      {
+        "source": "programs_ba87f8.md",
+        "distance": 1.5576,
+        "text": "[Location: Programs > Admission Help] # Programs - Admission Help  Ph.D. in Computer Science & Engineering                                                                  Ph.D. in Electrical & Electr"
+      },
+      {
+        "source": "programs_fce068.md",
+        "distance": 2.6425,
+        "text": "[Location: Programs > Admission Help] # Programs - Admission Help  Master of Business Administration                                                                  Master of Computer Application  - "
+      }
+    ]
+  },
+  {
+    "idx": 125,
+    "query": "how do I apply?",
+    "category": "Ambiguous questions",
+    "rewritten": "how do I apply?",
+    "score": 0.2515,
+    "level": "Low",
+    "top_reranker": 0.0,
+    "top_distance": 4.3097,
+    "chunks": [
+      {
+        "source": "b_e_computer_science_and_engineering_475790.md",
+        "distance": 4.3097,
+        "text": "[Location: B E Computer Science and Engineering > Course Components] # B E Computer Science and Engineering - Course Components  Apply knowledge and understanding of engineering management principles "
+      },
+      {
+        "source": "bachelor_of_computer_applications_honours_75b603.md",
+        "distance": 7.1772,
+        "text": "[Location: Bachelor of Computer Applications (Honours) > The minimum duration of the BCA Program is 3 years. > Testimonials] # Bachelor of Computer Applications (Honours) - Testimonials  Nevertheless "
+      },
+      {
+        "source": "application_part_1_report_2018_19_668583.md",
+        "distance": 7.4052,
+        "text": "[Location: PDF Document: Application-Part-1-Report-2018_19 > Important Note for Payments:] # PDF Document: Application-Part-1-Report-2018_19 - Important Note for Payments:  - a) Institutions which do "
+      },
+      {
+        "source": "application_part1_report_2019_20_1fdb09.md",
+        "distance": 7.6092,
+        "text": "[Location: PDF Document: Application_Part1_Report_2019-20 > Important Note for Payments:] # PDF Document: Application_Part1_Report_2019-20 - Important Note for Payments:  - a) Institutions which do no"
+      },
+      {
+        "source": "240rkf_importantnotice_e2_80_93examsadmission_b7c160.md",
+        "distance": 7.983,
+        "text": "[Location: PDF Document: 240rkf-IMPORTANTNOTICE_E2_80_93EXAMSADMISSIONS > K.L.E.SOCIETY'S LAW COLLEGE] # PDF Document: 240rkf-IMPORTANTNOTICE_E2_80_93EXAMSADMISSIONS - K.L.E.SOCIETY'S LAW COLLEGE  **P"
+      }
+    ]
+  },
+  {
+    "idx": 129,
+    "query": "whre is the libery",
+    "category": "Misspelled questions",
+    "rewritten": "whre is the libery",
+    "score": 0.2516,
+    "level": "Low",
+    "top_reranker": 0.0,
+    "top_distance": 10.6285,
+    "chunks": [
+      {
+        "source": "bachelor_of_science_fashion_and_apparel_desig_c6036a.md",
+        "distance": 10.6285,
+        "text": "[Location: Bachelor of Science (Fashion and Apparel Design) > This program enables learners to explore the creative realms of present to contemporary fashion with a holistic learning through a process"
+      },
+      {
+        "source": "nba_certificate_ec_cs_and_bt_dcf191.md",
+        "distance": 11.0946,
+        "text": "[Location: PDF Document: NBA-Certificate-EC-CS-and-BT > NATIONAL BOARD OF ACCREDITATION] # PDF Document: NBA-Certificate-EC-CS-and-BT - NATIONAL BOARD OF ACCREDITATION  | SI. No.   | Name of the Progr"
+      },
+      {
+        "source": "clubs_society_bf14fa.md",
+        "distance": 11.1233,
+        "text": "[Location: Clubs & Society > 34+] # Clubs & Society - 34+  Lorem ipsum dolor sit amet, consectetur adipiscing elit,  Open MIC  Our very first event was the open mic. This was an enthralling evening wi"
+      },
+      {
+        "source": "bachelor_of_architecture_95b8b5.md",
+        "distance": 11.1456,
+        "text": "[Location: Bachelor of Architecture > Architecture is a passion, a vocation, and a calling. It has been described as a social art and also an artful science.] # Bachelor of Architecture - Architecture"
+      },
+      {
+        "source": "bachelor_of_science_fashion_and_apparel_desig_e9fcf5.md",
+        "distance": 11.2287,
+        "text": "[Location: Bachelor of Science (Fashion and Apparel Design) > This program enables learners to explore the creative realms of present to contemporary fashion with a holistic learning through a process"
+      }
+    ]
+  },
+  {
+    "idx": 130,
+    "query": "deprtments of colage",
+    "category": "Misspelled questions",
+    "rewritten": "deprtments of colage",
+    "score": 0.2509,
+    "level": "Low",
+    "top_reranker": 0.0,
+    "top_distance": 10.863,
+    "chunks": [
+      {
+        "source": "410imguf_scanned_consolidated_audit_report_fy_ecd419.md",
+        "distance": 10.863,
+        "text": "[Location: PDF Document: 410imguf_scanned-consolidated-audit-report-FY-2024-25 > Details of Fixed Assets And Depreciation As on 31st March 2025] # PDF Document: 410imguf_scanned-consolidated-audit-rep"
+      },
+      {
+        "source": "karnataka_rajyapatra_70a728.md",
+        "distance": 11.2774,
+        "text": "[Location: PDF Document: Karnataka-Rajyapatra > THE UNIVERSITY AND SPONSORING BODY] # PDF Document: Karnataka-Rajyapatra - THE UNIVERSITY AND SPONSORING BODY  3. Proposal for the establishment of the "
+      },
+      {
+        "source": "clubs_society_bf14fa.md",
+        "distance": 11.2935,
+        "text": "[Location: Clubs & Society > 34+] # Clubs & Society - 34+  Lorem ipsum dolor sit amet, consectetur adipiscing elit,  Open MIC  Our very first event was the open mic. This was an enthralling evening wi"
+      },
+      {
+        "source": "audit_report_2019_20_scanned_copy_c13e89.md",
+        "distance": 11.358,
+        "text": "[Location: PDF Document: Audit-report-2019-20-Scanned-copy > SCHEDULE 6 -CURRENT LIABILITIES &amp; PROVISIONS] # PDF Document: Audit-report-2019-20-Scanned-copy - SCHEDULE 6 -CURRENT LIABILITIES &amp;"
+      },
+      {
+        "source": "152imguf_audit_report_scanned_2021_22pdf_9a09b7.md",
+        "distance": 11.3824,
+        "text": "[Location: PDF Document: 152imguf_Audit-Report-scanned-2021-22.pdf > 2) Liabilities and Assets] # PDF Document: 152imguf_Audit-Report-scanned-2021-22.pdf - 2) Liabilities and Assets  Balances grouped "
+      }
+    ]
+  },
+  {
+    "idx": 131,
+    "query": "who is current vce chancelor",
+    "category": "Misspelled questions",
+    "rewritten": "who is current vce chancelor",
+    "score": 0.2519,
+    "level": "Low",
+    "top_reranker": 0.0,
+    "top_distance": 10.5492,
+    "chunks": [
+      {
+        "source": "322krf_silverjubileeexamapp_2025_1_825bb6.md",
+        "distance": 10.5492,
+        "text": "[Location: PDF Document: 322krf-SilverJubileeexamapp-2025_1_ > Copy to:] # PDF Document: 322krf-SilverJubileeexamapp-2025_1_ - Copy to:  1. Hon'ble Vice-Chancellor through the Sec. to VC, VTU, Belagav"
+      },
+      {
+        "source": "8imguf_momiqac16may22and7july21609_2b72ae.md",
+        "distance": 10.8219,
+        "text": "[Location: PDF Document: 8imguf_MOMIQAC16May22and7July21609 > Minutes of the meeting held on : July, 7,  2021 (lQAC-007)] # PDF Document: 8imguf_MOMIQAC16May22and7July21609 - Minutes of the meeting he"
+      },
+      {
+        "source": "karnataka_rajyapatra_70a728.md",
+        "distance": 10.885,
+        "text": "[Location: PDF Document: Karnataka-Rajyapatra > OFFICERS OF THE UNIVERSITY] # PDF Document: Karnataka-Rajyapatra - OFFICERS OF THE UNIVERSITY  (7) The Vice-Chancellor shall preside at the convocation "
+      },
+      {
+        "source": "532imguf_ugcomputerscienceengineeringdcprepor_4d11df.md",
+        "distance": 11.0302,
+        "text": "[Location: PDF Document: 532imguf_UGComputerScienceEngineeringDCPreport > B3. Program Details] # PDF Document: 532imguf_UGComputerScienceEngineeringDCPreport - B3. Program Details  Table No.B3.1: Admi"
+      },
+      {
+        "source": "bachelor_of_computer_applications_honours_75b603.md",
+        "distance": 11.0421,
+        "text": "[Location: Bachelor of Computer Applications (Honours) > The minimum duration of the BCA Program is 3 years. > Testimonials] # Bachelor of Computer Applications (Honours) - Testimonials  - Dr. Rashmi "
+      }
+    ]
+  },
+  {
+    "idx": 133,
+    "query": "tuition fe structure",
+    "category": "Misspelled questions",
+    "rewritten": "tuition fe structure",
+    "score": 0.2526,
+    "level": "Low",
+    "top_reranker": 0.0,
+    "top_distance": 2.282,
+    "chunks": [
+      {
+        "source": "course_fee_structure_c4f882.md",
+        "distance": 2.282,
+        "text": "[Location: Course & Fee Structure > M. Tech Fees Structure for III and IV Semester] # Course & Fee Structure - M. Tech Fees Structure for III and IV Semester  | Branch | Tuition Fees | University Fees"
+      },
+      {
+        "source": "course_fee_structure_afdc03.md",
+        "distance": 3.3514,
+        "text": "[Location: Course & Fee Structure > I And II Semester] # Course & Fee Structure - I And II Semester  **Source URL:** https://www.kletech.ac.in/cpage.aspx?mpgid=178&pgid1=179&pgidtrail=184  - Home - Ad"
+      },
+      {
+        "source": "intenational_admission_496103.md",
+        "distance": 4.524,
+        "text": "[Location: Intenational Admission > Reservation for Children of Indian Workers in Gulf Countries (CIWG) and its Fees Structure] # Intenational Admission - Reservation for Children of Indian Workers in"
+      },
+      {
+        "source": "international_admission_f40bc8.md",
+        "distance": 4.6266,
+        "text": "[Location: International Admission > Reservation for Children of Indian Workers in Gulf Countries (CIWG) and its Fees Structure] # International Admission - Reservation for Children of Indian Workers "
+      },
+      {
+        "source": "nirf_overall_category_7th_february_2026_c473c9.md",
+        "distance": 8.9399,
+        "text": "[Location: PDF Document: nirf-overall-category-7th-february-2026 > Total Actual Student Strength (Program(s) Offered by Your Institution)] # PDF Document: nirf-overall-category-7th-february-2026 - Tot"
+      }
+    ]
+  },
+  {
+    "idx": 137,
+    "query": "\u0932\u093e\u0907\u092c\u094d\u0930\u0947\u0930\u0940 \u0915\u0939\u093e\u0901 \u0939\u0948?",
+    "category": "Hindi",
+    "rewritten": "\u0932\u093e\u0907\u092c\u094d\u0930\u0947\u0930\u0940 \u0915\u0939\u093e\u0901 \u0939\u0948?",
+    "score": 0.2375,
+    "level": "Low",
+    "top_reranker": 0.0,
+    "top_distance": 10.1892,
+    "chunks": [
+      {
+        "source": "faculty_e16977.md",
+        "distance": 10.1892,
+        "text": "[Location: Faculty > Smt.] # Faculty - Smt.  Rajeshwari Mattimani  Assistant Professor  - Sri.                                                                                             Shashidhar S "
+      }
+    ]
+  },
+  {
+    "idx": 138,
+    "query": "\u0915\u0949\u0932\u0947\u091c \u092e\u0947\u0902 \u0915\u093f\u0924\u0928\u0947 \u0921\u093f\u092a\u093e\u0930\u094d\u091f\u092e\u0947\u0902\u091f \u0939\u0948\u0902?",
+    "category": "Hindi",
+    "rewritten": "\u0915\u0949\u0932\u0947\u091c \u092e\u0947\u0902 \u0915\u093f\u0924\u0928\u0947 \u0921\u093f\u092a\u093e\u0930\u094d\u091f\u092e\u0947\u0902\u091f \u0939\u0948\u0902?",
+    "score": 0.1785,
+    "level": "Low",
+    "top_reranker": 0.0,
+    "top_distance": 9.2075,
+    "chunks": [
+      {
+        "source": "faculty_e16977.md",
+        "distance": 9.2075,
+        "text": "[Location: Faculty > Smt.] # Faculty - Smt.  Rajeshwari Mattimani  Assistant Professor  - Sri.                                                                                             Shashidhar S "
+      },
+      {
+        "source": "233krf_eng_notification_ebe0b4.md",
+        "distance": 10.0906,
+        "text": "[Location: PDF Document: 233krf-Eng.-Notification > Copy to:] # PDF Document: 233krf-Eng.-Notification - Copy to:  1. The Editor, Samyukta Karnataka, Kannada Daily News Paper Hubli. 3. Hindu Correspon"
+      }
+    ]
+  },
+  {
+    "idx": 139,
+    "query": "\u0935\u093e\u0907\u0938 \u091a\u093e\u0902\u0938\u0932\u0930 \u0915\u094c\u0928 \u0939\u0948\u0902?",
+    "category": "Hindi",
+    "rewritten": "\u0935\u093e\u0907\u0938 \u091a\u093e\u0902\u0938\u0932\u0930 \u0915\u094c\u0928 \u0939\u0948\u0902?",
+    "score": 0.2375,
+    "level": "Low",
+    "top_reranker": 0.0,
+    "top_distance": 9.5453,
+    "chunks": [
+      {
+        "source": "faculty_e16977.md",
+        "distance": 9.5453,
+        "text": "[Location: Faculty > Mr.] # Faculty - Mr.  Guruputtarayya Patil  Assistant Professor  - Mr.                                                                                             Manjunath Gangad"
+      }
+    ]
+  },
+  {
+    "idx": 140,
+    "query": "\u0939\u0949\u0938\u094d\u091f\u0932 \u0915\u0940 \u092b\u0940\u0938 \u0915\u094d\u092f\u093e \u0939\u0948?",
+    "category": "Hindi",
+    "rewritten": "\u0939\u0949\u0938\u094d\u091f\u0932 \u0915\u0940 \u092b\u0940\u0938 \u0915\u094d\u092f\u093e \u0939\u0948?",
+    "score": 0.2375,
+    "level": "Low",
+    "top_reranker": 0.0,
+    "top_distance": 9.4195,
+    "chunks": [
+      {
+        "source": "faculty_e16977.md",
+        "distance": 9.4195,
+        "text": "[Location: Faculty > Smt.] # Faculty - Smt.  Rajeshwari Mattimani  Assistant Professor  - Sri.                                                                                             Shashidhar S "
+      }
+    ]
+  },
+  {
+    "idx": 141,
+    "query": "\u092a\u094d\u0930\u0935\u0947\u0936 \u0915\u0940 \u092a\u094d\u0930\u0915\u094d\u0930\u093f\u092f\u093e \u0915\u094d\u092f\u093e \u0939\u0948?",
+    "category": "Hindi",
+    "rewritten": "\u092a\u094d\u0930\u0935\u0947\u0936 \u0915\u0940 \u092a\u094d\u0930\u0915\u094d\u0930\u093f\u092f\u093e \u0915\u094d\u092f\u093e \u0939\u0948?",
+    "score": 0.2375,
+    "level": "Low",
+    "top_reranker": 0.0,
+    "top_distance": 9.1141,
+    "chunks": [
+      {
+        "source": "faculty_e16977.md",
+        "distance": 9.1141,
+        "text": "[Location: Faculty > Mr.] # Faculty - Mr.  Guruputtarayya Patil  Assistant Professor  - Mr.                                                                                             Manjunath Gangad"
+      }
+    ]
+  },
+  {
+    "idx": 142,
+    "query": "\u0915\u094d\u092f\u093e \u0939\u0949\u0938\u094d\u091f\u0932 \u092e\u0947\u0902 \u0935\u093e\u0908-\u092b\u093e\u0908 \u0939\u0948?",
+    "category": "Hindi",
+    "rewritten": "\u0915\u094d\u092f\u093e \u0939\u0949\u0938\u094d\u091f\u0932 \u092e\u0947\u0902 \u0935\u093e\u0908-\u092b\u093e\u0908 \u0939\u0948?",
+    "score": 0.1799,
+    "level": "Low",
+    "top_reranker": 0.0,
+    "top_distance": 9.5984,
+    "chunks": [
+      {
+        "source": "faculty_e16977.md",
+        "distance": 9.5984,
+        "text": "[Location: Faculty > Smt.] # Faculty - Smt.  Rajeshwari Mattimani  Assistant Professor  - Sri.                                                                                             Shashidhar S "
+      },
+      {
+        "source": "9imguf_aqar2021_22resubmittedaugust2023_850101.md",
+        "distance": 9.8483,
+        "text": "[Location: PDF Document: 9imguf_AQAR2021-22ResubmittedAugust2023 > 19.Appropriate integration of Indian Knowledge system (teaching in Indian Language, culture, using online course)] # PDF Document: 9i"
+      }
+    ]
+  },
+  {
+    "idx": 143,
+    "query": "\u092a\u094d\u0932\u0947\u0938\u092e\u0947\u0902\u091f \u0938\u0947\u0932 \u0915\u0939\u093e\u0901 \u0939\u0948?",
+    "category": "Hindi",
+    "rewritten": "\u092a\u094d\u0932\u0947\u0938\u092e\u0947\u0902\u091f \u0938\u0947\u0932 \u0915\u0939\u093e\u0901 \u0939\u0948?",
+    "score": 0.2375,
+    "level": "Low",
+    "top_reranker": 0.0,
+    "top_distance": 10.3729,
+    "chunks": [
+      {
+        "source": "faculty_e16977.md",
+        "distance": 10.3729,
+        "text": "[Location: Faculty > Smt.] # Faculty - Smt.  Rajeshwari Mattimani  Assistant Professor  - Sri.                                                                                             Shashidhar S "
+      }
+    ]
+  },
+  {
+    "idx": 144,
+    "query": "\u092a\u0930\u0940\u0915\u094d\u0937\u093e \u0915\u093e \u091f\u093e\u0907\u092e \u091f\u0947\u092c\u0932 \u0915\u0939\u093e\u0901 \u092e\u093f\u0932\u0947\u0917\u093e?",
+    "category": "Hindi",
+    "rewritten": "\u092a\u0930\u0940\u0915\u094d\u0937\u093e \u0915\u093e \u091f\u093e\u0907\u092e \u091f\u0947\u092c\u0932 \u0915\u0939\u093e\u0901 \u092e\u093f\u0932\u0947\u0917\u093e?",
+    "score": 0.214,
+    "level": "Low",
+    "top_reranker": 0.0,
+    "top_distance": 7.9183,
+    "chunks": [
+      {
+        "source": "nirf_innovation_category_12th_february_2026_e9e758.md",
+        "distance": 7.9183,
+        "text": "[Location: PDF Document: nirf-innovation-category-12th-february-2026 > Faculty Details1] # PDF Document: nirf-innovation-category-12th-february-2026 - Faculty Details1  |   188 | SRI SHASHIDHAR S NEEL"
+      },
+      {
+        "source": "faculty_e16977.md",
+        "distance": 8.4209,
+        "text": "[Location: Faculty > Mr.] # Faculty - Mr.  Guruputtarayya Patil  Assistant Professor  - Mr.                                                                                             Manjunath Gangad"
+      },
+      {
+        "source": "233krf_eng_notification_ebe0b4.md",
+        "distance": 8.6777,
+        "text": "[Location: PDF Document: 233krf-Eng.-Notification > Copy to:] # PDF Document: 233krf-Eng.-Notification - Copy to:  1. The Editor, Samyukta Karnataka, Kannada Daily News Paper Hubli. 3. Hindu Correspon"
+      }
+    ]
+  },
+  {
+    "idx": 145,
+    "query": "\u0c97\u0ccd\u0cb0\u0c82\u0ca5\u0cbe\u0cb2\u0caf \u0c8e\u0cb2\u0ccd\u0cb2\u0cbf\u0ca6\u0cc6?",
+    "category": "Kannada",
+    "rewritten": "\u0c97\u0ccd\u0cb0\u0c82\u0ca5\u0cbe\u0cb2\u0caf \u0c8e\u0cb2\u0ccd\u0cb2\u0cbf\u0ca6\u0cc6?",
+    "score": 0.2515,
+    "level": "Low",
+    "top_reranker": 0.0,
+    "top_distance": 10.3798,
+    "chunks": [
+      {
+        "source": "faculty_e16977.md",
+        "distance": 10.3798,
+        "text": "[Location: Faculty > Dr.] # Faculty - Dr.  Gururaj .S.Hanchinamani  Associate Professor  - Smt.                                                                                             Lalitha Mada"
+      },
+      {
+        "source": "scanned_kletu_audit_report_fy_2016_17_7ae3a5.md",
+        "distance": 10.518,
+        "text": "[Location: PDF Document: Scanned_KLETU-Audit_Report_FY_2016-17 > (Amounts in Rs)] # PDF Document: Scanned_KLETU-Audit_Report_FY_2016-17 - (Amounts in Rs)  As per our report of even date. Chenni Associ"
+      },
+      {
+        "source": "151imguf_audit_report_scanned_2020_21_02b374.md",
+        "distance": 10.627,
+        "text": "[Location: 66, \"SANGAM\" Kotilinganagar, Behind Keshav Kunj(RSS Office), Gokul Road, HUBBALLI-580 024. Tel: 0836-2970636 Cell No: +91 94481 16365 - Email: skchenni@gmail.com > BALANCE SHEET AS ON 31st "
+      },
+      {
+        "source": "194imguf_consolidated_audit_report_fy_2022_23_c5deb7.md",
+        "distance": 10.7081,
+        "text": "[Location: PDF Document: 194imguf_Consolidated-Audit-Report-F.Y-2022-23 > (Amounts in Rs)] # PDF Document: 194imguf_Consolidated-Audit-Report-F.Y-2022-23 - (Amounts in Rs)  As per our report of even d"
+      },
+      {
+        "source": "152imguf_audit_report_scanned_2021_22pdf_9a09b7.md",
+        "distance": 10.779,
+        "text": "[Location: PDF Document: 152imguf_Audit-Report-scanned-2021-22.pdf > BALANCE SHEET AS ON 31st MARCH 2022] # PDF Document: 152imguf_Audit-Report-scanned-2021-22.pdf - BALANCE SHEET AS ON 31st MARCH 202"
+      }
+    ]
+  },
+  {
+    "idx": 146,
+    "query": "\u0c95\u0cbe\u0cb2\u0cc7\u0c9c\u0cbf\u0ca8\u0cb2\u0ccd\u0cb2\u0cbf \u0c8e\u0cb7\u0ccd\u0c9f\u0cc1 \u0cb5\u0cbf\u0cad\u0cbe\u0c97\u0c97\u0cb3\u0cbf\u0cb5\u0cc6?",
+    "category": "Kannada",
+    "rewritten": "\u0c95\u0cbe\u0cb2\u0cc7\u0c9c\u0cbf\u0ca8\u0cb2\u0ccd\u0cb2\u0cbf \u0c8e\u0cb7\u0ccd\u0c9f\u0cc1 \u0cb5\u0cbf\u0cad\u0cbe\u0c97\u0c97\u0cb3\u0cbf\u0cb5\u0cc6?",
+    "score": 0.2526,
+    "level": "Low",
+    "top_reranker": 0.0,
+    "top_distance": 9.4396,
+    "chunks": [
+      {
+        "source": "celebrating_glorious_75_years_of_its_existenc_23ac13.md",
+        "distance": 9.4396,
+        "text": "[Location: Celebrating glorious 75 years of its existence, > Courses Offered > Nearby Location] # Celebrating glorious 75 years of its existence, - Nearby Location  Hubballi (Hubballi), or Pubballi (\u201c"
+      },
+      {
+        "source": "faculty_e16977.md",
+        "distance": 9.7863,
+        "text": "[Location: Faculty > Dr.] # Faculty - Dr.  Gururaj .S.Hanchinamani  Associate Professor  - Smt.                                                                                             Lalitha Mada"
+      },
+      {
+        "source": "152imguf_audit_report_scanned_2021_22pdf_9a09b7.md",
+        "distance": 10.4874,
+        "text": "[Location: PDF Document: 152imguf_Audit-Report-scanned-2021-22.pdf > BALANCE SHEET AS ON 31st MARCH 2022] # PDF Document: 152imguf_Audit-Report-scanned-2021-22.pdf - BALANCE SHEET AS ON 31st MARCH 202"
+      },
+      {
+        "source": "scanned_kletu_audit_report_fy_2016_17_7ae3a5.md",
+        "distance": 10.5934,
+        "text": "[Location: PDF Document: Scanned_KLETU-Audit_Report_FY_2016-17 > BALANCE SHEET AS ON 31st MARCH 2017] # PDF Document: Scanned_KLETU-Audit_Report_FY_2016-17 - BALANCE SHEET AS ON 31st MARCH 2017  Note "
+      },
+      {
+        "source": "194imguf_consolidated_audit_report_fy_2022_23_c5deb7.md",
+        "distance": 10.6121,
+        "text": "[Location: PDF Document: 194imguf_Consolidated-Audit-Report-F.Y-2022-23 > Consolidated Income and Expenditure Statement for the Financial year 2022-23 (Includes Capital Expenditures)] # PDF Document: "
+      }
+    ]
+  },
+  {
+    "idx": 147,
+    "query": "\u0cb5\u0cc8\u0cb8\u0ccd \u0c9a\u0cbe\u0ca8\u0ccd\u0cb8\u0cb2\u0cb0\u0ccd \u0caf\u0cbe\u0cb0\u0cc1?",
+    "category": "Kannada",
+    "rewritten": "\u0cb5\u0cc8\u0cb8\u0ccd \u0c9a\u0cbe\u0ca8\u0ccd\u0cb8\u0cb2\u0cb0\u0ccd \u0caf\u0cbe\u0cb0\u0cc1?",
+    "score": 0.2526,
+    "level": "Low",
+    "top_reranker": 0.0,
+    "top_distance": 9.4396,
+    "chunks": [
+      {
+        "source": "celebrating_glorious_75_years_of_its_existenc_23ac13.md",
+        "distance": 9.4396,
+        "text": "[Location: Celebrating glorious 75 years of its existence, > Courses Offered > Nearby Location] # Celebrating glorious 75 years of its existence, - Nearby Location  Hubballi (Hubballi), or Pubballi (\u201c"
+      },
+      {
+        "source": "faculty_e16977.md",
+        "distance": 9.7863,
+        "text": "[Location: Faculty > Dr.] # Faculty - Dr.  Gururaj .S.Hanchinamani  Associate Professor  - Smt.                                                                                             Lalitha Mada"
+      },
+      {
+        "source": "152imguf_audit_report_scanned_2021_22pdf_9a09b7.md",
+        "distance": 10.4874,
+        "text": "[Location: PDF Document: 152imguf_Audit-Report-scanned-2021-22.pdf > BALANCE SHEET AS ON 31st MARCH 2022] # PDF Document: 152imguf_Audit-Report-scanned-2021-22.pdf - BALANCE SHEET AS ON 31st MARCH 202"
+      },
+      {
+        "source": "scanned_kletu_audit_report_fy_2016_17_7ae3a5.md",
+        "distance": 10.5934,
+        "text": "[Location: PDF Document: Scanned_KLETU-Audit_Report_FY_2016-17 > BALANCE SHEET AS ON 31st MARCH 2017] # PDF Document: Scanned_KLETU-Audit_Report_FY_2016-17 - BALANCE SHEET AS ON 31st MARCH 2017  Note "
+      },
+      {
+        "source": "194imguf_consolidated_audit_report_fy_2022_23_c5deb7.md",
+        "distance": 10.6121,
+        "text": "[Location: PDF Document: 194imguf_Consolidated-Audit-Report-F.Y-2022-23 > Consolidated Income and Expenditure Statement for the Financial year 2022-23 (Includes Capital Expenditures)] # PDF Document: "
+      }
+    ]
+  },
+  {
+    "idx": 148,
+    "query": "\u0cb9\u0cbe\u0cb8\u0ccd\u0c9f\u0cc6\u0cb2\u0ccd \u0cb8\u0ccc\u0cb2\u0cad\u0ccd\u0caf\u0c97\u0cb3\u0cc1 \u0caf\u0cbe\u0cb5\u0cc1\u0cb5\u0cc1?",
+    "category": "Kannada",
+    "rewritten": "\u0cb9\u0cbe\u0cb8\u0ccd\u0c9f\u0cc6\u0cb2\u0ccd \u0cb8\u0ccc\u0cb2\u0cad\u0ccd\u0caf\u0c97\u0cb3\u0cc1 \u0caf\u0cbe\u0cb5\u0cc1\u0cb5\u0cc1?",
+    "score": 0.2526,
+    "level": "Low",
+    "top_reranker": 0.0,
+    "top_distance": 9.4396,
+    "chunks": [
+      {
+        "source": "celebrating_glorious_75_years_of_its_existenc_23ac13.md",
+        "distance": 9.4396,
+        "text": "[Location: Celebrating glorious 75 years of its existence, > Courses Offered > Nearby Location] # Celebrating glorious 75 years of its existence, - Nearby Location  Hubballi (Hubballi), or Pubballi (\u201c"
+      },
+      {
+        "source": "faculty_e16977.md",
+        "distance": 9.7863,
+        "text": "[Location: Faculty > Dr.] # Faculty - Dr.  Gururaj .S.Hanchinamani  Associate Professor  - Smt.                                                                                             Lalitha Mada"
+      },
+      {
+        "source": "152imguf_audit_report_scanned_2021_22pdf_9a09b7.md",
+        "distance": 10.4874,
+        "text": "[Location: PDF Document: 152imguf_Audit-Report-scanned-2021-22.pdf > BALANCE SHEET AS ON 31st MARCH 2022] # PDF Document: 152imguf_Audit-Report-scanned-2021-22.pdf - BALANCE SHEET AS ON 31st MARCH 202"
+      },
+      {
+        "source": "scanned_kletu_audit_report_fy_2016_17_7ae3a5.md",
+        "distance": 10.5934,
+        "text": "[Location: PDF Document: Scanned_KLETU-Audit_Report_FY_2016-17 > BALANCE SHEET AS ON 31st MARCH 2017] # PDF Document: Scanned_KLETU-Audit_Report_FY_2016-17 - BALANCE SHEET AS ON 31st MARCH 2017  Note "
+      },
+      {
+        "source": "194imguf_consolidated_audit_report_fy_2022_23_c5deb7.md",
+        "distance": 10.6121,
+        "text": "[Location: PDF Document: 194imguf_Consolidated-Audit-Report-F.Y-2022-23 > Consolidated Income and Expenditure Statement for the Financial year 2022-23 (Includes Capital Expenditures)] # PDF Document: "
+      }
+    ]
+  },
+  {
+    "idx": 149,
+    "query": "\u0caa\u0ccd\u0cb0\u0cb5\u0cc7\u0cb6 \u0caa\u0ca1\u0cc6\u0caf\u0cc1\u0cb5\u0cc1\u0ca6\u0cc1 \u0cb9\u0cc7\u0c97\u0cc6?",
+    "category": "Kannada",
+    "rewritten": "\u0caa\u0ccd\u0cb0\u0cb5\u0cc7\u0cb6 \u0caa\u0ca1\u0cc6\u0caf\u0cc1\u0cb5\u0cc1\u0ca6\u0cc1 \u0cb9\u0cc7\u0c97\u0cc6?",
+    "score": 0.2526,
+    "level": "Low",
+    "top_reranker": 0.0,
+    "top_distance": 9.4396,
+    "chunks": [
+      {
+        "source": "celebrating_glorious_75_years_of_its_existenc_23ac13.md",
+        "distance": 9.4396,
+        "text": "[Location: Celebrating glorious 75 years of its existence, > Courses Offered > Nearby Location] # Celebrating glorious 75 years of its existence, - Nearby Location  Hubballi (Hubballi), or Pubballi (\u201c"
+      },
+      {
+        "source": "faculty_e16977.md",
+        "distance": 9.7863,
+        "text": "[Location: Faculty > Dr.] # Faculty - Dr.  Gururaj .S.Hanchinamani  Associate Professor  - Smt.                                                                                             Lalitha Mada"
+      },
+      {
+        "source": "152imguf_audit_report_scanned_2021_22pdf_9a09b7.md",
+        "distance": 10.4874,
+        "text": "[Location: PDF Document: 152imguf_Audit-Report-scanned-2021-22.pdf > BALANCE SHEET AS ON 31st MARCH 2022] # PDF Document: 152imguf_Audit-Report-scanned-2021-22.pdf - BALANCE SHEET AS ON 31st MARCH 202"
+      },
+      {
+        "source": "scanned_kletu_audit_report_fy_2016_17_7ae3a5.md",
+        "distance": 10.5934,
+        "text": "[Location: PDF Document: Scanned_KLETU-Audit_Report_FY_2016-17 > BALANCE SHEET AS ON 31st MARCH 2017] # PDF Document: Scanned_KLETU-Audit_Report_FY_2016-17 - BALANCE SHEET AS ON 31st MARCH 2017  Note "
+      },
+      {
+        "source": "194imguf_consolidated_audit_report_fy_2022_23_c5deb7.md",
+        "distance": 10.6121,
+        "text": "[Location: PDF Document: 194imguf_Consolidated-Audit-Report-F.Y-2022-23 > Consolidated Income and Expenditure Statement for the Financial year 2022-23 (Includes Capital Expenditures)] # PDF Document: "
+      }
+    ]
+  },
+  {
+    "idx": 150,
+    "query": "\u0cb9\u0cbe\u0cb8\u0ccd\u0c9f\u0cc6\u0cb2\u0ccd \u0cae\u0cc6\u0cb8\u0ccd \u0c8a\u0c9f \u0cb9\u0cc7\u0c97\u0cbf\u0ca6\u0cc6?",
+    "category": "Kannada",
+    "rewritten": "\u0cb9\u0cbe\u0cb8\u0ccd\u0c9f\u0cc6\u0cb2\u0ccd \u0cae\u0cc6\u0cb8\u0ccd \u0c8a\u0c9f \u0cb9\u0cc7\u0c97\u0cbf\u0ca6\u0cc6?",
+    "score": 0.2519,
+    "level": "Low",
+    "top_reranker": 0.0,
+    "top_distance": 9.1161,
+    "chunks": [
+      {
+        "source": "faculty_e16977.md",
+        "distance": 9.1161,
+        "text": "[Location: Faculty > Mr.] # Faculty - Mr.  Manjunath Gangadhar  Assistant Professor  - Ms.                                                                                             Varunashree Meti "
+      },
+      {
+        "source": "programs_87205c.md",
+        "distance": 9.6562,
+        "text": "[Location: Programs > Browse by Faculties] # Programs - Browse by Faculties  Hubballi  FacultyEngineering  Hubballi  FacultyEngineering  Hubballi  FacultyArchitecture & Design  Hubballi  FacultyEngine"
+      },
+      {
+        "source": "152imguf_audit_report_scanned_2021_22pdf_9a09b7.md",
+        "distance": 10.1392,
+        "text": "[Location: PDF Document: 152imguf_Audit-Report-scanned-2021-22.pdf > BALANCE SHEET AS ON 31st MARCH 2022] # PDF Document: 152imguf_Audit-Report-scanned-2021-22.pdf - BALANCE SHEET AS ON 31st MARCH 202"
+      },
+      {
+        "source": "image_gallery_285dea.md",
+        "distance": 10.1594,
+        "text": "[Location: Image Gallery] # Image Gallery  **Source URL:** https://www.kletech.ac.in/happenings/image-gallery  - Home - Happenings - Image Gallery - Photo - Video  16                                  "
+      },
+      {
+        "source": "audit_report_2019_20_scanned_copy_c13e89.md",
+        "distance": 10.1827,
+        "text": "[Location: PDF Document: Audit-report-2019-20-Scanned-copy > BALANCE SHEET AS ON 31st MARCH 2020] # PDF Document: Audit-report-2019-20-Scanned-copy - BALANCE SHEET AS ON 31st MARCH 2020  Note :The Acc"
+      }
+    ]
+  },
+  {
+    "idx": 151,
+    "query": "\u0c89\u0ca6\u0ccd\u0caf\u0ccb\u0c97\u0cbe\u0cb5\u0c95\u0cbe\u0cb6\u0c97\u0cb3\u0cc1 (\u0caa\u0ccd\u0cb2\u0cc7\u0cb8\u0ccd\u0cae\u0cc6\u0c82\u0c9f\u0ccd) \u0cb9\u0cc7\u0c97\u0cbf\u0ca6\u0cc6?",
+    "category": "Kannada",
+    "rewritten": "\u0c89\u0ca6\u0ccd\u0caf\u0ccb\u0c97\u0cbe\u0cb5\u0c95\u0cbe\u0cb6\u0c97\u0cb3\u0cc1 (\u0caa\u0ccd\u0cb2\u0cc7\u0cb8\u0ccd\u0cae\u0cc6\u0c82\u0c9f\u0ccd) \u0cb9\u0cc7\u0c97\u0cbf\u0ca6\u0cc6?",
+    "score": 0.2519,
+    "level": "Low",
+    "top_reranker": 0.0,
+    "top_distance": 9.7123,
+    "chunks": [
+      {
+        "source": "clubs_society_bf14fa.md",
+        "distance": 9.7123,
+        "text": "[Location: Clubs & Society > Word\u2019s Worth English Club] # Clubs & Society - Word\u2019s Worth English Club  The English club is structured specifically to enhance the students\u2019 knowledge in the art of comm"
+      },
+      {
+        "source": "faculty_e16977.md",
+        "distance": 10.1923,
+        "text": "[Location: Faculty > Sri] # Faculty - Sri  Vishal B Pattanshetti  Assistant Professor  - Sri.                                                                                             Satish S Chikk"
+      },
+      {
+        "source": "151imguf_audit_report_scanned_2020_21_02b374.md",
+        "distance": 10.5431,
+        "text": "[Location: 66, \"SANGAM\" Kotilinganagar, Behind Keshav Kunj(RSS Office), Gokul Road, HUBBALLI-580 024. Tel: 0836-2970636 Cell No: +91 94481 16365 - Email: skchenni@gmail.com > BALANCE SHEET AS ON 31st "
+      },
+      {
+        "source": "152imguf_audit_report_scanned_2021_22pdf_9a09b7.md",
+        "distance": 10.625,
+        "text": "[Location: PDF Document: 152imguf_Audit-Report-scanned-2021-22.pdf > BALANCE SHEET AS ON 31st MARCH 2022] # PDF Document: 152imguf_Audit-Report-scanned-2021-22.pdf - BALANCE SHEET AS ON 31st MARCH 202"
+      },
+      {
+        "source": "time_table_a1fb91.md",
+        "distance": 10.688,
+        "text": "[Location: Time Table > Admission Help] # Time Table - Admission Help  +91-836-2378103  - B V. Bhoomaraddi Campus                                      Hubballi                                      Cam"
+      }
+    ]
+  },
+  {
+    "idx": 152,
+    "query": "\u0caa\u0cb0\u0cc0\u0c95\u0ccd\u0cb7\u0cbe \u0cb5\u0cc7\u0cb3\u0cbe\u0caa\u0c9f\u0ccd\u0c9f\u0cbf \u0c8e\u0cb2\u0ccd\u0cb2\u0cbf\u0ca6\u0cc6?",
+    "category": "Kannada",
+    "rewritten": "\u0caa\u0cb0\u0cc0\u0c95\u0ccd\u0cb7\u0cbe \u0cb5\u0cc7\u0cb3\u0cbe\u0caa\u0c9f\u0ccd\u0c9f\u0cbf \u0c8e\u0cb2\u0ccd\u0cb2\u0cbf\u0ca6\u0cc6?",
+    "score": 0.2526,
+    "level": "Low",
+    "top_reranker": 0.0,
+    "top_distance": 9.4396,
+    "chunks": [
+      {
+        "source": "celebrating_glorious_75_years_of_its_existenc_23ac13.md",
+        "distance": 9.4396,
+        "text": "[Location: Celebrating glorious 75 years of its existence, > Courses Offered > Nearby Location] # Celebrating glorious 75 years of its existence, - Nearby Location  Hubballi (Hubballi), or Pubballi (\u201c"
+      },
+      {
+        "source": "faculty_e16977.md",
+        "distance": 9.7863,
+        "text": "[Location: Faculty > Dr.] # Faculty - Dr.  Gururaj .S.Hanchinamani  Associate Professor  - Smt.                                                                                             Lalitha Mada"
+      },
+      {
+        "source": "152imguf_audit_report_scanned_2021_22pdf_9a09b7.md",
+        "distance": 10.4874,
+        "text": "[Location: PDF Document: 152imguf_Audit-Report-scanned-2021-22.pdf > BALANCE SHEET AS ON 31st MARCH 2022] # PDF Document: 152imguf_Audit-Report-scanned-2021-22.pdf - BALANCE SHEET AS ON 31st MARCH 202"
+      },
+      {
+        "source": "scanned_kletu_audit_report_fy_2016_17_7ae3a5.md",
+        "distance": 10.5934,
+        "text": "[Location: PDF Document: Scanned_KLETU-Audit_Report_FY_2016-17 > BALANCE SHEET AS ON 31st MARCH 2017] # PDF Document: Scanned_KLETU-Audit_Report_FY_2016-17 - BALANCE SHEET AS ON 31st MARCH 2017  Note "
+      },
+      {
+        "source": "194imguf_consolidated_audit_report_fy_2022_23_c5deb7.md",
+        "distance": 10.6121,
+        "text": "[Location: PDF Document: 194imguf_Consolidated-Audit-Report-F.Y-2022-23 > Consolidated Income and Expenditure Statement for the Financial year 2022-23 (Includes Capital Expenditures)] # PDF Document: "
+      }
+    ]
+  },
+  {
+    "idx": 154,
+    "query": "what is the minimum mark for admissions",
+    "category": "English",
+    "rewritten": "what is the minimum mark for admissions",
+    "score": 0.7279,
+    "level": "High",
+    "top_reranker": 0.0,
+    "top_distance": 0.5402,
+    "chunks": [
+      {
+        "source": "international_admission_f40bc8.md",
+        "distance": 0.5402,
+        "text": "[Location: International Admission > Residential Requirement] # International Admission - Residential Requirement  Prescribed admission criteria for Indian Nationals shall be at least two years of edu"
+      },
+      {
+        "source": "intenational_admission_496103.md",
+        "distance": 1.9429,
+        "text": "[Location: Intenational Admission > APPENDIX I] # Intenational Admission - APPENDIX I  Candidate having passed Ontario Secondary School Diploma of the Ministry of Education, Ontario  \t\t\t\t\t\tshould have"
+      },
+      {
+        "source": "bachelor_of_computer_applications_honours_75b603.md",
+        "distance": 1.9699,
+        "text": "[Location: Bachelor of Computer Applications (Honours) > The minimum duration of the BCA Program is 3 years. > Eligibility Criteria] # Bachelor of Computer Applications (Honours) - Eligibility Criteri"
+      },
+      {
+        "source": "master_of_computer_application_dea8ec.md",
+        "distance": 2.9904,
+        "text": "[Location: Master of Computer Application > Eligibility Criteria] # Master of Computer Application - Eligibility Criteria  Candidates must have completed pre-university/ 10+2/ equivalent examination f"
+      },
+      {
+        "source": "bsc_in_hotel_management_and_catering_technolo_bfaa1c.md",
+        "distance": 3.5871,
+        "text": "[Location: B.Sc. in Hotel Management and Catering Technology (B.Sc. HMCT) > B.Sc. in Hotel Management and Catering Technology (B.Sc. HMCT) is a three-year undergraduate programme commencing in 2026, >"
+      }
+    ]
+  },
+  {
+    "idx": 162,
+    "query": "hostel fees kitna hai?",
+    "category": "Mixed-language questions",
+    "rewritten": "hostel fees kitna hai? hostel facilities canteens food boys girls mess dining residential rooms security recreation internet Wi-Fi",
+    "score": 0.2517,
+    "level": "Low",
+    "top_reranker": 0.0,
+    "top_distance": 3.4798,
+    "chunks": [
+      {
+        "source": "on_campus_facilities_69b71b.md",
+        "distance": 3.4798,
+        "text": "[Location: On Campus Facilities > Hostels] # On Campus Facilities - Hostels  **Source URL:** https://www.kletech.ac.in/hubballi/infrastructure/on-campus-facilities  - Home - Infrastructure - On Campus"
+      },
+      {
+        "source": "on_campus_facilities_36c031.md",
+        "distance": 3.5001,
+        "text": "[Location: On Campus Facilities > Hostels] # On Campus Facilities - Hostels  **Source URL:** https://www.kletech.ac.in/campus-life/on-campus-facilities  - Home - Campus-life - On Campus Facilities  We"
+      },
+      {
+        "source": "prospectus_a00fd8.md",
+        "distance": 4.4139,
+        "text": "[Location: PDF Document: prospectus > Page 10] # PDF Document: prospectus - Page 10  ELIGIBILITY Second year (PUC-II) in any stream. HOSTEL FACILITIES Safe & Secured Hostel for Girls and Boys inside t"
+      },
+      {
+        "source": "intenational_admission_496103.md",
+        "distance": 4.6837,
+        "text": "[Location: Intenational Admission > Fee Payment & Refund Rules] # Intenational Admission - Fee Payment & Refund Rules  Hostel fee and other expenses, which may typically range from US$ 800 \u2013 US$ 1000 "
+      },
+      {
+        "source": "intercom_04_03_2022_066a67.md",
+        "distance": 6.0622,
+        "text": "[Location: PDF Document: intercom-04-03-2022 > Page 1] # PDF Document: intercom-04-03-2022 - Page 1  School of Management Studies & Research (SMSR)   HOD ................................ .. 290 Office"
+      }
+    ]
+  },
+  {
+    "idx": 163,
+    "query": "who is VC of college? unka naam kya hai?",
+    "category": "Mixed-language questions",
+    "rewritten": "who is Vice Chancellor of college? unka naam kya hai?",
+    "score": 0.2509,
+    "level": "Low",
+    "top_reranker": 0.0,
+    "top_distance": 2.5985,
+    "chunks": [
+      {
+        "source": "karnataka_rajyapatra_70a728.md",
+        "distance": 2.5985,
+        "text": "[Location: PDF Document: Karnataka-Rajyapatra > OFFICERS OF THE UNIVERSITY] # PDF Document: Karnataka-Rajyapatra - OFFICERS OF THE UNIVERSITY  (4) The Vice-Chancellor shall be the Principal Executive "
+      },
+      {
+        "source": "241imguf_kle_technological_university_public_f59b56.md",
+        "distance": 4.0074,
+        "text": "[Location: PDF Document: 241imguf_KLE-Technological-University-Public-Mandatory-Disclosure > Page 3] # PDF Document: 241imguf_KLE-Technological-University-Public-Mandatory-Disclosure - Page 3  impacte"
+      },
+      {
+        "source": "news_764083.md",
+        "distance": 7.6079,
+        "text": "[Location: News > Sep 25, 2024 > KLE Tech News: Seven Researchers Recognized in Stanford\u2019s Top 2% Scientists List for the Fifth Consecutive Year] # News - KLE Tech News: Seven Researchers Recognized i"
+      },
+      {
+        "source": "faculty_e16977.md",
+        "distance": 10.3423,
+        "text": "[Location: Faculty > Smt.] # Faculty - Smt.  Divya Sharma  Assistant Professor  - Sri.                                                                                             Sourabh Narendra     "
+      },
+      {
+        "source": "181krf_time_table_for_june_july_2016_ae1f76.md",
+        "distance": 11.3084,
+        "text": "[Location: PDF Document: 181krf-Time-Table-for-June-July-2016] # PDF Document: 181krf-Time-Table-for-June-July-2016  The college has to submit all the practical subjects marks on or before 20.06.2016."
+      }
+    ]
+  },
+  {
+    "idx": 164,
+    "query": "admissions process hege iruthe?",
+    "category": "Mixed-language questions",
+    "rewritten": "admissions process hege iruthe?",
+    "score": 0.2552,
+    "level": "Low",
+    "top_reranker": 0.0,
+    "top_distance": 7.6482,
+    "chunks": [
+      {
+        "source": "under_graduate_program_3e868a.md",
+        "distance": 7.6482,
+        "text": "[Location: Under Graduate Program > Overview] # Under Graduate Program - Overview  **Source URL:** https://www.kletech.ac.in/cpage.aspx?mpgid=178&pgid1=179&pgidtrail=181  - Home - Admissions - Domesti"
+      },
+      {
+        "source": "under_graduate_program_96f748.md",
+        "distance": 7.7483,
+        "text": "[Location: Under Graduate Program > Overview] # Under Graduate Program - Overview  **Source URL:** https://www.kletech.ac.in/cpage.aspx?mpgid=39&pgid1=40&pgidtrail=42  - Home - Admissions - Domestic A"
+      },
+      {
+        "source": "under_graduate_program_252fd1.md",
+        "distance": 8.4078,
+        "text": "[Location: Under Graduate Program > Overview] # Under Graduate Program - Overview  **Source URL:** https://www.kletech.ac.in/admission/domestic-admission/under-graduate-program  - Home - Admissions - "
+      },
+      {
+        "source": "admission_for_ug_program_15515b.md",
+        "distance": 9.225,
+        "text": "[Location: Admission for UG Program > Overview] # Admission for UG Program - Overview  **Source URL:** https://www.kletech.ac.in/hubballi/admission/domestic-admission/admission-for-ug-program  - Home "
+      },
+      {
+        "source": "ph_d_in_physics_bc7464.md",
+        "distance": 9.7258,
+        "text": "[Location: Ph. D. in Physics > PhD Scholars (Physics) > Testimonials] # Ph. D. in Physics - Testimonials  - Mr. Murugesh Nirani - Notable Alumni - Dr. Sudha Murty - Notable Alumni  Lorem ipsum dolor s"
+      }
+    ]
+  },
+  {
+    "idx": 165,
+    "query": "sports facilities kahan hai?",
+    "category": "Mixed-language questions",
+    "rewritten": "sports facilities kahan hai? sports gym ground gymnasium indoor games facilities banking ATM medical health center",
+    "score": 0.252,
+    "level": "Low",
+    "top_reranker": 0.0,
+    "top_distance": 4.2638,
+    "chunks": [
+      {
+        "source": "on_campus_facilities_69b71b.md",
+        "distance": 4.2638,
+        "text": "[Location: On Campus Facilities > Gym & Sports] # On Campus Facilities - Gym & Sports  KLE Tech University has an in-house multifaceted state-of-the-art gymnasium to be used by both students and facul"
+      },
+      {
+        "source": "on_campus_facilities_36c031.md",
+        "distance": 5.8642,
+        "text": "[Location: On Campus Facilities > Gymnasium] # On Campus Facilities - Gymnasium  KLE Tech University has an in-house multifaceted state-of-the-art gymnasium to be used by both students and faculty mem"
+      },
+      {
+        "source": "sports_and_health_f3cc6d.md",
+        "distance": 8.1009,
+        "text": "[Location: Sports and Health > 35+] # Sports and Health - 35+  **Source URL:** https://www.kletech.ac.in/campus-life/sports-and-health  - Home - Campus-life - Sports and Health  We organize various sp"
+      },
+      {
+        "source": "241imguf_kle_technological_university_public_f59b56.md",
+        "distance": 8.9611,
+        "text": "[Location: PDF Document: 241imguf_KLE-Technological-University-Public-Mandatory-Disclosure > Page 8] # PDF Document: 241imguf_KLE-Technological-University-Public-Mandatory-Disclosure - Page 8  6 Stude"
+      },
+      {
+        "source": "image_gallery_285dea.md",
+        "distance": 10.0899,
+        "text": "[Location: Image Gallery] # Image Gallery  **Source URL:** https://www.kletech.ac.in/happenings/image-gallery  - Home - Happenings - Image Gallery - Photo - Video  16                                  "
+      }
+    ]
+  },
+  {
+    "idx": 180,
+    "query": "any holiday notice",
+    "category": "Latest news",
+    "rewritten": "any holiday notice",
+    "score": 0.2514,
+    "level": "Low",
+    "top_reranker": 0.0,
+    "top_distance": 9.1236,
+    "chunks": [
+      {
+        "source": "notices_announcements_e3d321.md",
+        "distance": 9.1236,
+        "text": "[Location: Notices & Announcements > December 2024] # Notices & Announcements - December 2024  **Source URL:** https://www.kletech.ac.in/happenings/notices-announcements  - Home - Happenings - Notices"
+      },
+      {
+        "source": "8sem_1d5eff.md",
+        "distance": 9.1871,
+        "text": "[Location: PDF Document: 8sem > Page 1] # PDF Document: 8sem - Page 1  **PDF Source:** https://www.kletech.ac.in/pdf/8sem.pdf                                                                           "
+      },
+      {
+        "source": "karnataka_rajyapatra_70a728.md",
+        "distance": 9.9176,
+        "text": "[Location: PDF Document: Karnataka-Rajyapatra > CHAPTER - VI MISCELLANEOUS] # PDF Document: Karnataka-Rajyapatra - CHAPTER - VI MISCELLANEOUS  (2) The annual accounts of the \u00dcniversity shall be audite"
+      },
+      {
+        "source": "final_2_and_4_d32d37.md",
+        "distance": 9.922,
+        "text": "[Location: PDF Document: final-2-and-4 > Page 1] # PDF Document: final-2-and-4 - Page 1  **PDF Source:** https://www.kletech.ac.in/pdf/final-2-and-4.pdf                                                "
+      },
+      {
+        "source": "160rkf_notice_on_class_commencement_for_odd_s_52e43b.md",
+        "distance": 10.4284,
+        "text": "[Location: PDF Document: 160rkf-Notice-on-Class-Commencement-for-Odd-Semester-for-KLE-Tech-Students-2023-24_1_ > NOTICE] # PDF Document: 160rkf-Notice-on-Class-Commencement-for-Odd-Semester-for-KLE-Te"
+      }
+    ]
+  }
+]

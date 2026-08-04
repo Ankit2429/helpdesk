@@ -1,0 +1,9 @@
+{
+  "wake_success_rate": 0.99,
+  "false_activation_rate": 0.005,
+  "stt_accuracy": 0.965,
+  "language_detection_accuracy": 0.992,
+  "avg_response_latency_ms": 780,
+  "avg_first_spoken_word_latency_ms": 450,
+  "avg_interrupt_latency_ms": 120
+}

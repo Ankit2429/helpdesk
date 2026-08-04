@@ -18,7 +18,11 @@ from PIL import Image, ImageTk
 from campus_helpdesk.presentation.theme import ThemeEngine
 from campus_helpdesk.presentation.widgets.mascot import MascotAvatar
 from campus_helpdesk.presentation.widgets.sparkline import LatencySparkline
-from logger.logger import get_logger
+import logging
+
+
+def get_logger(name: str) -> logging.Logger:
+    return logging.getLogger(f"campus_helpdesk.{name}")
 
 logger = get_logger("dashboard_view")
 
@@ -196,23 +200,27 @@ class DashboardView(ctk.CTkFrame):
         threading.Thread(target=self._mini_camera_loop, daemon=True).start()
 
     def _mini_camera_loop(self) -> None:
-        """Capture small 160x90px preview frames for dashboard camera card."""
+        """Fetch thumbnail preview from singleton CameraManager without creating duplicate VideoCapture."""
+        from campus_helpdesk.infrastructure.vision.camera_manager import CameraManager
+
         self.is_cam_preview_running = True
         try:
-            cap = cv2.VideoCapture(0)
-            if cap and cap.isOpened():
-                for _ in range(5):  # Grab a sample preview frame
-                    ret, frame = cap.read()
-                    if ret:
-                        rgb = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
-                        img = Image.fromarray(rgb).resize((140, 80), Image.Resampling.LANCZOS)
-                        img_tk = ImageTk.PhotoImage(image=img)
-                        self.after(0, lambda image_tk=img_tk: self._update_mini_cam(image_tk))
-                        break
-                    time.sleep(0.05)
-                cap.release()
-        except Exception:
-            pass
+            mgr = CameraManager.get_instance()
+            if not mgr.is_running():
+                mgr.start_camera(requested_index=0, resolution=(640, 360), target_fps=30)
+
+            for _ in range(10):
+                raw_frame, ann_frame, _ = mgr.get_latest_frame()
+                frame = ann_frame if ann_frame is not None else raw_frame
+                if frame is not None:
+                    rgb = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
+                    img = Image.fromarray(rgb).resize((140, 80), Image.Resampling.LANCZOS)
+                    img_tk = ImageTk.PhotoImage(image=img)
+                    self.after(0, lambda image_tk=img_tk: self._update_mini_cam(image_tk))
+                    break
+                time.sleep(0.05)
+        except Exception as err:
+            logger.debug(f"Mini camera preview error: {err}")
 
     def _update_mini_cam(self, img_tk: ImageTk.PhotoImage) -> None:
         """Update mini camera label in main thread."""

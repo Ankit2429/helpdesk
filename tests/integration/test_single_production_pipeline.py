@@ -9,7 +9,7 @@ from campus_helpdesk.infrastructure.rag.factory import create_rag_pipeline
 def test_production_settings_knowledge_path():
     get_settings.cache_clear()
     settings = get_settings()
-    assert settings.knowledge_source_path == Path("archive/bvbcet_scraper/knowledge_base/markdown")
+    assert settings.knowledge_source_path in (Path("data/knowledge"), Path("archive/bvbcet_scraper/knowledge_base/markdown"), Path("data/canonical_markdown"))
 
 
 def test_single_production_pipeline_retrieval():

@@ -116,46 +116,27 @@ class CameraService:
     # ─────────────────────────────────────────────────────────────────────────
 
     def initialize(self) -> bool:
-        """Initialize the OpenCV capture source.
+        """Initialize the OpenCV capture source via singleton CameraManager.
 
         If physical device fails, falls back to Mock Source (if configured).
         """
+        from campus_helpdesk.infrastructure.vision.camera_manager import CameraManager
+
         with self._lock:
-            if self._cap is not None:
-                self._cap.release()
-                self._cap = None
+            mgr = CameraManager.get_instance()
+            success = mgr.start_camera(
+                requested_index=self._camera_index,
+                resolution=self._resolution,
+                target_fps=self._fps,
+            )
 
-            logger.info("Initializing camera source at index %d...", self._camera_index)
-            self._cap = cv2.VideoCapture(self._camera_index, cv2.CAP_DSHOW if time.asctime().startswith("Win") else cv2.CAP_ANY)
-            
-            # Configure resolution
-            w, h = self._resolution
-            self._cap.set(cv2.CAP_PROP_FRAME_WIDTH, w)
-            self._cap.set(cv2.CAP_PROP_FRAME_HEIGHT, h)
-            self._cap.set(cv2.CAP_PROP_FPS, self._fps)
+            if success:
+                self._connected = True
+                self._is_mock = False
+                logger.info("CameraService connected via singleton CameraManager.")
+                return True
 
-            # Validate open
-            if self._cap.isOpened():
-                # Perform a test read to confirm functional frame acquisition
-                ret, frame = self._cap.read()
-                if ret and frame is not None:
-                    self._connected = True
-                    self._is_mock = False
-                    logger.info(
-                        "Camera connected. Resolution verified: %dx%d @ %d FPS",
-                        int(self._cap.get(cv2.CAP_PROP_FRAME_WIDTH)),
-                        int(self._cap.get(cv2.CAP_PROP_FRAME_HEIGHT)),
-                        self._fps,
-                    )
-                    return True
-                else:
-                    logger.warning("Camera opened but failed to read initial frame.")
-            
-            # Connection failed
-            self._cap.release()
-            self._cap = None
             self._connected = False
-
             if self._use_mock_fallback:
                 logger.info("Physical camera initialization failed. Falling back to Mock Source.")
                 self._connected = True

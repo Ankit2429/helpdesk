@@ -43,40 +43,11 @@ class OllamaChatResponse(Protocol):
 
 
 class OllamaLLMService:
-    """Generate responses through a local Ollama model.
+    """Generate responses through a local Ollama model via services.llm_service.LLMService.
 
-    All public methods preserve the original signature, but now include retry
-    handling for transient network failures.
+    Preserves signature compatibility while leveraging the core LLMService engine.
     """
-    # Retry configuration (could be exposed via Settings in future)
-    MAX_RETRIES = 3
-    INITIAL_BACKOFF = 0.2  # seconds
-    BACKOFF_FACTOR = 2.0
-
     logger = logging.getLogger(__name__)
-
-    def _retry_operation(self, func, *args, **kwargs):
-        """Execute *func* with retry logic for transient failures.
-
-        Retries are performed for generic exceptions raised by the Ollama client.
-        Configuration errors are raised immediately without retry.
-        """
-        backoff = self.INITIAL_BACKOFF
-        for attempt in range(1, self.MAX_RETRIES + 1):
-            try:
-                return func(*args, **kwargs)
-            except ConfigurationError:
-                self.logger.error("Configuration error during Ollama request: %s", func.__name__)
-                raise
-            except Exception as exc:  # pylint: disable=broad-except
-                if attempt == self.MAX_RETRIES:
-                    self.logger.error("Ollama %s failed after %d attempts: %s", func.__name__, attempt, exc)
-                    raise LLMServiceError(f"{type(exc).__name__}: {exc}") from exc
-                else:
-                    self.logger.debug("Retry %d/%d for Ollama %s after error: %s", attempt, self.MAX_RETRIES, func.__name__, exc)
-                    time.sleep(backoff)
-                    backoff *= self.BACKOFF_FACTOR
-        raise LLMServiceError("Unexpected retry exhaustion")
 
     def __init__(
         self,
@@ -88,46 +59,63 @@ class OllamaLLMService:
     ) -> None:
         self._validate_base_url(base_url)
         self._model = model
-        options = dict(generation_options)
-        options.setdefault("num_predict", 256)
-        options.setdefault("temperature", 0.1)
-        options.setdefault("num_gpu", 0)
-        self._generation_options = options
-        self._client = client or Client(host=base_url, timeout=timeout_seconds)
+        self._generation_options = dict(generation_options)
+        self._client = client
+        temp = float(self._generation_options.get("temperature", 0.2))
+        max_tok = int(self._generation_options.get("num_predict", 512))
+
+        try:
+            from campus_helpdesk.services.llm_service import LLMService as CoreLLMService
+        except ImportError:
+            from services.llm_service import LLMService as CoreLLMService
+        self._core_service = CoreLLMService(
+            model=model,
+            host=base_url,
+            temperature=temp,
+            max_tokens=max_tok,
+            timeout=timeout_seconds,
+        )
 
     def generate(self, prompt: str) -> str:
-        """Generate a complete response using the configured local model."""
-        def _call():
-            response = self._client.chat(
+        """Generate a complete response using the core LLMService or custom client."""
+        if self._client is not None:
+            opts = dict(self._generation_options)
+            opts.setdefault("num_gpu", 0)
+            res = self._client.chat(
                 model=self._model,
                 messages=[{"role": "user", "content": prompt}],
-                options=self._generation_options,
+                options=opts,
                 stream=False,
             )
-            content = response.message.content.strip()
-            if not content:
-                raise LLMServiceError("Ollama returned an empty response.")
-            return content
-
-        return self._retry_operation(_call)
+            msg = getattr(res, "message", res)
+            content = getattr(msg, "content", str(msg))
+            return content.strip()
+        return self._core_service.generate(prompt)
 
     def generate_stream(self, prompt: str):
-        """Generate a response using the configured local model, yielding chunks as they arrive."""
-        def _call():
-            response = self._client.chat(
+        """Generate a streaming response using the core LLMService or custom client."""
+        if self._client is not None:
+            opts = dict(self._generation_options)
+            opts.setdefault("num_gpu", 0)
+            res = self._client.chat(
                 model=self._model,
                 messages=[{"role": "user", "content": prompt}],
-                options=self._generation_options,
+                options=opts,
                 stream=True,
             )
-            for chunk in response:
-                content = chunk.get("message", {}).get("content", "")
-                if content:
-                    yield content
-        return self._retry_operation(_call)
+            if hasattr(res, "__iter__"):
+                for chunk in res:
+                    msg = getattr(chunk, "message", chunk)
+                    yield getattr(msg, "content", str(msg))
+            else:
+                msg = getattr(res, "message", res)
+                yield getattr(msg, "content", str(msg))
+            return
+        yield from self._core_service.generate_stream(prompt)
 
     @staticmethod
     def _validate_base_url(base_url: str) -> None:
         parsed_url = urlparse(base_url)
         if parsed_url.scheme not in {"http", "https"}:
             raise ConfigurationError("Ollama base URL must use http or https scheme.")
+

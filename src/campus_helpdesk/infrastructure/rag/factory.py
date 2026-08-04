@@ -76,5 +76,5 @@ def create_rag_pipeline(settings: Settings) -> RAGPipeline:
         search_limit=final_top_k,
         reranker=reranker,
         reranker_top_n=candidate_window,
-        deduplicate_documents=getattr(settings, "deduplicate_documents", True),
+        deduplicate_documents=getattr(settings, "deduplicate_documents", False),
     )

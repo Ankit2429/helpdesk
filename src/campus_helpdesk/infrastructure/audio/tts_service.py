@@ -170,12 +170,57 @@ class NonBlockingTTSService:
         if text.strip():
             self._speech_queue.put((text, language))
 
+    def speak_stream(self, token_generator, language: str = "en") -> None:
+        """Stream sentence-level speech directly from LLM token generator."""
+        import re
+
+        sentence_buffer = ""
+        sentence_delimiters = re.compile(r"([.?!:\n])")
+
+        def _stream_processor():
+            nonlocal sentence_buffer
+            for token in token_generator:
+                if self._stop_event.is_set():
+                    break
+                sentence_buffer += token
+                # Check for sentence completion boundaries
+                parts = sentence_delimiters.split(sentence_buffer)
+                if len(parts) > 1:
+                    # Enqueue complete sentence segments
+                    for i in range(0, len(parts) - 1, 2):
+                        sentence = (parts[i] + parts[i + 1]).strip()
+                        if sentence:
+                            self.speak(sentence, language=language)
+                    sentence_buffer = parts[-1]
+
+            # Enqueue any remaining tail content
+            if sentence_buffer.strip() and not self._stop_event.is_set():
+                self.speak(sentence_buffer.strip(), language=language)
+
+        threading.Thread(target=_stream_processor, daemon=True, name="TTS-StreamProcessor").start()
+
     def stop(self) -> None:
-        """Clear queued speech requests."""
+        """Clear queued speech requests and cancel active playback (barge-in)."""
+        self.cancel_playback()
+
+    def cancel_playback(self) -> None:
+        """Instantly stop all TTS audio playback and flush speech queue for barge-in."""
         with self._speech_queue.mutex:
             self._speech_queue.queue.clear()
+        
+        self._stop_event.set()
+        
+        if hasattr(self, "_pa_stream") and self._pa_stream is not None:
+            try:
+                self._pa_stream.stop_stream()
+            except Exception:
+                pass
+
         with self._lock:
             self._is_speaking_flag = False
+
+        # Reset stop event for subsequent speech calls
+        self._stop_event.clear()
 
     def is_speaking(self) -> bool:
         """Return True if TTS engine is currently playing speech or has queued speech."""

@@ -2,6 +2,7 @@
 
 import logging
 import time
+from pathlib import Path
 
 from campus_helpdesk.config.settings import get_settings
 from campus_helpdesk.infrastructure.rag.canonical_index_builder import CanonicalIndexBuilder
@@ -21,7 +22,7 @@ def main() -> None:
         loader=pipeline._document_loader,
         chunker=pipeline._document_chunker,
         similarity_store=pipeline._similarity_store,
-        canonical_dir=settings.knowledge_source_path,
+        canonical_dir=Path("data/canonical_markdown"),
     )
 
     logger.info("Building FAISS index from canonical source: %s", settings.knowledge_source_path)
