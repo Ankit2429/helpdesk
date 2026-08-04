@@ -237,8 +237,8 @@ class ChatView(ctk.CTkFrame):
                 logger.warning(f"Error stopping TTS playback: {e}")
         self._cancel_event = threading.Event()
 
-    def _toggle_voice(self) -> None:
-        """Toggle voice input state."""
+    def start_voice_recording(self, status_msg: str = "Listening for voice input...") -> None:
+        """Start voice capture session, updating UI status badge to listening."""
         if not self.stt_callback:
             self._add_system_badge("Voice STT hardware module is offline.")
             return
@@ -246,9 +246,14 @@ class ChatView(ctk.CTkFrame):
         if not self.is_recording:
             self._cancel_active_tasks()
             self.is_recording = True
-            self.update_voice_state("listening", "Listening for voice input...")
-            logger.info("[Listening started]")
+            self.update_voice_state("listening", status_msg)
+            logger.info(f"[Voice Recording Started] Message='{status_msg}'")
             threading.Thread(target=self._capture_voice, daemon=True).start()
+
+    def _toggle_voice(self) -> None:
+        """Toggle voice input state."""
+        if not self.is_recording:
+            self.start_voice_recording("Listening for voice input...")
         else:
             self.is_recording = False
             self.update_voice_state("ready")

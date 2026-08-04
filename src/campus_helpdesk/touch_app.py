@@ -250,13 +250,18 @@ class TouchApp(ctk.CTk):
                     on_transcript_updated=lambda txt, is_fin: self.after(0, lambda: self.chat_view.update_live_transcript(txt, is_fin)),
                 )
 
+            def on_wake_word_triggered():
+                logger.info("[TouchApp] Wake word 'Hey Helpdesk' detected! Triggering voice listening UI.")
+                self.after(0, lambda: self.chat_view.start_voice_recording(status_msg="Wake word 'Hey Helpdesk' detected! Listening..."))
+
             self.wake_service = WakeWordService(
                 event_bus=bus,
-                wake_phrase="Hey Campus",
+                wake_phrase="Hey Helpdesk",
                 device_index=get_settings().mic_device_index,
+                on_wake_detected=on_wake_word_triggered,
             )
             self.wake_service.start()
-            logger.info("TouchApp voice pipeline & WakeWordService initialized.")
+            logger.info("TouchApp voice pipeline & WakeWordService initialized with wake phrase 'Hey Helpdesk'.")
 
         except Exception as exc:
             logger.warning("Could not initialize full voice pipeline in TouchApp: %s", exc)

@@ -23,12 +23,14 @@ class WakeWordService:
     def __init__(
         self,
         event_bus: EventBus,
-        wake_phrase: str = "Hey Campus",
+        wake_phrase: str = "Hey Helpdesk",
         sensitivity: float = 0.5,
         device_index: Optional[int] = None,
+        on_wake_detected: Optional[Callable[[], None]] = None,
     ) -> None:
         self.event_bus = event_bus
         self.wake_phrase = wake_phrase
+        self.on_wake_detected_cb = on_wake_detected
         self.detector = WakeWordDetector(
             wake_phrase=wake_phrase,
             sensitivity=sensitivity,
@@ -62,3 +64,9 @@ class WakeWordService:
             self.event_bus.publish(event)
         except Exception as exc:
             logger.error("[WakeWordService] Error publishing wake event: %s", exc, exc_info=True)
+
+        if self.on_wake_detected_cb:
+            try:
+                self.on_wake_detected_cb()
+            except Exception as exc:
+                logger.error("[WakeWordService] Error in on_wake_detected_cb: %s", exc, exc_info=True)
