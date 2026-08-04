@@ -14,9 +14,9 @@ import re
 
 def main():
     # Paths configuration
-    workspace_root = r"d:\helpdesk\anti"
-    kb_root = os.path.normpath(os.path.join(workspace_root, "archive", "bvbcet_scraper", "knowledge_base"))
-    archive_dup_root = os.path.normpath(os.path.join(workspace_root, "archive", "duplicates"))
+    workspace_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    kb_root = os.path.normpath(os.path.join(workspace_root, "data", "canonical_markdown"))
+    archive_dup_root = os.path.normpath(os.path.join(workspace_root, "data", "duplicates"))
     
     # Try to load the complete duplicate metadata from scratch path first
     metadata_path = r"C:\Users\godby\.gemini\antigravity-ide\brain\af23156f-02c1-4f0b-9446-7c0b642a6473\scratch\dup_metadata.json"

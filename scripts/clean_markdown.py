@@ -160,10 +160,9 @@ def clean_file_content(content):
     return cleaned_content, total_lines_removed
 
 def main():
-    workspace_root = r"d:\helpdesk\anti"
-    kb_root = os.path.normpath(os.path.join(workspace_root, "archive", "bvbcet_scraper", "knowledge_base"))
-    markdown_root = os.path.join(kb_root, "markdown")
-    backup_root = os.path.join(kb_root, "markdown_backup")
+    workspace_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    markdown_root = os.path.normpath(os.path.join(workspace_root, "data", "canonical_markdown"))
+    backup_root = os.path.normpath(os.path.join(workspace_root, "data", "canonical_markdown_backup"))
     
     if not os.path.exists(markdown_root):
         print(f"Error: Markdown root path '{markdown_root}' does not exist.")

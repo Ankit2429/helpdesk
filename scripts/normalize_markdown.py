@@ -134,9 +134,8 @@ def normalize_text(text):
     return "".join(cleaned_lines), ocr_fixes_count, headings_fixed, tables_fixed, formatting_fixes
 
 def main():
-    workspace_root = r"d:\helpdesk\anti"
-    kb_root = os.path.normpath(os.path.join(workspace_root, "archive", "bvbcet_scraper", "knowledge_base"))
-    markdown_root = os.path.join(kb_root, "markdown")
+    workspace_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    markdown_root = os.path.normpath(os.path.join(workspace_root, "data", "canonical_markdown"))
     
     if not os.path.exists(markdown_root):
         print(f"Error: Markdown root path '{markdown_root}' does not exist.")

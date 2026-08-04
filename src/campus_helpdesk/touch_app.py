@@ -34,23 +34,6 @@ from campus_helpdesk.services.answerability_engine import AnswerabilityEngine
 logger = logging.getLogger(__name__)
 
 
-def create_stt_callback() -> Optional[Callable[[], str]]:
-    """Initialize FasterWhisperSTTService push-to-talk callback if audio hardware/model is available."""
-    try:
-        from campus_helpdesk.infrastructure.audio.stt_service import FasterWhisperSTTService
-
-        settings = get_settings()
-        stt_service = FasterWhisperSTTService(
-            model_size=settings.whisper_model_size,
-            device=settings.whisper_device,
-            compute_type=settings.whisper_compute_type,
-            device_index=settings.mic_device_index,
-        )
-        logger.info("FasterWhisperSTTService initialized for touch UI push-to-talk.")
-        return lambda: stt_service.listen_and_transcribe(timeout=8, phrase_time_limit=15)
-    except Exception as exc:
-        logger.warning("Could not initialize STT service for touch UI: %s", exc)
-        return None
 def build_chat_service() -> RAGChatService:
     """Wire RAGChatService exactly the way main.py / robot_main.py do."""
     settings = get_settings()
