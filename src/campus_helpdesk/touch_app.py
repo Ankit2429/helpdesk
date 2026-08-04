@@ -176,6 +176,7 @@ class TouchApp(ctk.CTk):
         chat_service = build_chat_service()
         ask_callback = make_ask_callback(chat_service)
         ask_stream_callback = make_ask_stream_callback(chat_service)
+        tts_service = create_tts_service()
         # Initialize single STT service instance
         self.stt_service: Optional[Any] = None
         try:
