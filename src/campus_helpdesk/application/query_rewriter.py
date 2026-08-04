@@ -112,8 +112,10 @@ class QueryRewriter:
             query_text = f"{query_text} canteen dining food mess canteens cafeterias hostel canteens"
         elif any(k in q_lower for k in ("sports", "gym", "ground", "fitness", "facilities", "recreation")):
             query_text = f"{query_text} sports gym ground gymnasium indoor games facilities banking ATM medical health center"
-        elif any(k in q_lower for k in ("office", "location", "where is", "room")):
-            query_text = f"{query_text} office room block location School CSE HOD CARR registrar placement cell admin block Room 401"
+        elif any(k in q_lower for k in ("admission", "admissions", "apply", "admit")):
+            query_text = f"{query_text} Admissions Office Admission Cell Administrative Officer Registrar Coordinator application eligibility counseling"
+        elif any(k in q_lower for k in ("location", "where is", "where is the")):
+            query_text = f"{query_text} campus location building block floor office"
 
         return query_text
 
