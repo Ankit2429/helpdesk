@@ -34,7 +34,7 @@ class CameraView(ctk.CTkFrame):
 
     def __init__(
         self,
-        master: any,
+        master: Any,
         theme_engine: ThemeEngine,
         person_detector: Optional[PersonDetector] = None,
         webcam_index: int = 0,

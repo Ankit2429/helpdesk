@@ -19,9 +19,9 @@ def main() -> None:
 
     pipeline = create_rag_pipeline(settings)
     builder = CanonicalIndexBuilder(
-        loader=pipeline._document_loader,
-        chunker=pipeline._document_chunker,
-        similarity_store=pipeline._similarity_store,
+        loader=pipeline._document_loader,  # type: ignore[arg-type]
+        chunker=pipeline._document_chunker,  # type: ignore[arg-type]
+        similarity_store=pipeline._similarity_store,  # type: ignore[arg-type]
         canonical_dir=Path("data/canonical_markdown"),
     )
 

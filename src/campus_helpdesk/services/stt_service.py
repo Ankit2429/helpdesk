@@ -91,6 +91,12 @@ class BaseTranscriptionBackend(ABC):
 class FasterWhisperBackend(BaseTranscriptionBackend):
     """Speech-to-text backend powered by faster-whisper (ctranslate2)."""
 
+    _model_size: str
+    _device: str
+    _compute_type: str
+    _cpu_threads: int
+    _model: Any
+
     def __init__(
         self,
         model_size: str = "base",
@@ -102,7 +108,7 @@ class FasterWhisperBackend(BaseTranscriptionBackend):
         self._device = device
         self._compute_type = compute_type
         self._cpu_threads = cpu_threads
-        self._model: Any = None
+        self._model = None
 
     def load_model(self) -> float:
         t0 = time.perf_counter()

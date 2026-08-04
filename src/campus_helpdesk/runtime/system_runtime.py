@@ -28,6 +28,7 @@ import os
 import threading
 from datetime import datetime, timezone
 from typing import Any, Dict
+from campus_helpdesk.interaction.event_bus import SubscriptionHandle
 
 from campus_helpdesk.interaction.event_bus import EventBus
 from campus_helpdesk.interaction.events import EventEnvelope, EventType

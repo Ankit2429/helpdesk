@@ -77,6 +77,7 @@ def build_production_runtime(
     )
 
     # STT Service
+    stt_backend: Any
     if use_mock:
         stt_backend = MockTranscriptionBackend()
     else:
@@ -88,6 +89,7 @@ def build_production_runtime(
     stt = STTService(event_bus=bus, backend=stt_backend)
 
     # Inference Adapter & RAG Chat Service
+    inference_backend: Any
     if use_mock:
         inference_backend = MockInferenceBackend()
     else:
@@ -128,6 +130,7 @@ def build_production_runtime(
 
     # TTS Service
     spk_idx = speaker_index if speaker_index is not None else settings.speaker_device_index
+    tts_backend: Any
     if use_mock:
         tts_backend = MockSpeechBackend()
     else:

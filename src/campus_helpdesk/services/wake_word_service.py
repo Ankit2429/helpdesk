@@ -8,17 +8,16 @@ from __future__ import annotations
 import logging
 import threading
 import wave
-from typing import Optional
-
+from typing import Callable, Optional
+import uuid
 from campus_helpdesk.infrastructure.audio.wake_word import WakeWordDetector
 from campus_helpdesk.interaction.event_bus import EventBus
-from campus_helpdesk.interaction.events import EventEnvelope, EventType
+from campus_helpdesk.interaction.events import EventEnvelope, EventType, VoicePayload
 
 logger = logging.getLogger(__name__)
 
-
 class WakeWordService:
-    """Service wrapping WakeWordDetector and emitting WAKE_WORD_DETECTED events onto EventBus."""
+    """Service wrapping WakeWordDetector and emitting VOICE_STARTED events onto EventBus."""
 
     def __init__(
         self,
@@ -58,8 +57,9 @@ class WakeWordService:
         logger.info("[WakeWordService] Wake word '%s' detected! Emitting event.", self.wake_phrase)
         try:
             event = EventEnvelope(
-                event_type=EventType.USER_APPROACHED,  # Wake word triggers robot interaction
-                payload={"wake_phrase": self.wake_phrase, "source": "wake_word_service"},
+                event_type=EventType.VOICE_STARTED,
+                source="wake_word_service",
+                payload=VoicePayload(audio_chunk_id=str(uuid.uuid4())),
             )
             self.event_bus.publish(event)
         except Exception as exc:

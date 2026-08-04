@@ -490,7 +490,7 @@ class CameraService:
             self._session_id = session_id
             self._correlation_id = correlation_id
 
-    def _utcnow(self) -> time.struct_time:
-        """Helper to get timezone-aware datetime."""
+    def _utcnow(self) -> datetime:
+        """Return timezone-aware UTC datetime."""
         from datetime import datetime, timezone
-        return datetime.now(timezone.utc)  # type: ignore[return-value]
+        return datetime.now(timezone.utc)

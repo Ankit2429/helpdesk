@@ -121,10 +121,12 @@ class ConversationManager:
 
         if self.event_bus:
             try:
+                from campus_helpdesk.interaction.events import SystemPayload
                 self.event_bus.publish(
                     EventEnvelope(
-                        event_type=EventType.STATE_CHANGED,
-                        payload={"old_state": old_state.value, "new_state": new_state.value, "message": message},
+                        event_type=EventType.SYSTEM_READY,
+                        source="conversation_manager",
+                        payload=SystemPayload(profile="touch_app", message=f"{old_state.value} -> {new_state.value}: {message}"),
                     )
                 )
             except Exception as exc:
@@ -134,9 +136,9 @@ class ConversationManager:
             try:
                 self.on_state_changed(new_state, message)
             except Exception as exc:
-                logger.error("[ConversationManager] Error in on_state_changed callback: %s", exc)
+                logger.error("[ConversationManager] Error notifying state listener: %s", exc)
 
-    def trigger_wake_word(self, wake_phrase: str = "Hey Campus") -> None:
+    def on_wake_word_triggered(self, wake_phrase: str = "Hey Helpdesk") -> None:
         """Invoked when wake word detector triggers. Transitions to LISTENING."""
         logger.info("[ConversationManager] Wake word triggered: '%s'", wake_phrase)
 
@@ -147,7 +149,8 @@ class ConversationManager:
         self._set_state(AssistantState.LISTENING, f"Wake word '{wake_phrase}' detected. Listening...")
 
         # Play wake chime / TTS feedback non-blockingly
-        self.tts_service.speak("How can I help you?", language="en")
+        if self.tts_service:
+            self.tts_service.speak("How can I help you?", language="en")
 
         # Start streaming STT listening session in background thread
         self.start_listening_session()
@@ -157,7 +160,8 @@ class ConversationManager:
         logger.info("[ConversationManager] Barge-in / Interrupt requested! Canceling TTS and generation.")
         self._generation_cancel_event.set()
         self._stt_stop_event.set()
-        self.tts_service.cancel_playback()
+        if self.tts_service:
+            self.tts_service.cancel_playback()
 
     def handle_user_speech_started(self) -> None:
         """Invoked when VAD detects user voice onset. Triggers barge-in if assistant is speaking."""
@@ -199,11 +203,12 @@ class ConversationManager:
 
         try:
             # 1. Stream microphone audio and transcribe live
-            self.stt_service.listen_and_transcribe_stream(
-                callback=_stt_callback,
-                stop_event=self._stt_stop_event,
-                tts_service=self.tts_service,
-            )
+            if self.stt_service:
+                self.stt_service.listen_and_transcribe_stream(
+                    callback=_stt_callback,
+                    stop_event=self._stt_stop_event,
+                    tts_service=self.tts_service,
+                )
 
             # Check if listening session was cancelled
             if self._stt_stop_event.is_set() and not final_transcript:
@@ -231,6 +236,10 @@ class ConversationManager:
         self._set_state(AssistantState.THINKING, "Searching campus knowledge base...")
 
         try:
+            if not self.chat_service or not self.tts_service:
+                logger.warning("[ConversationManager] Chat or TTS service unavailable for response.")
+                return
+
             # Get token stream generator from RAGChatService
             token_stream = self.chat_service.respond_stream(query, session_id=self.session_id)
 
