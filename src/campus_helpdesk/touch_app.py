@@ -176,8 +176,42 @@ class TouchApp(ctk.CTk):
         chat_service = build_chat_service()
         ask_callback = make_ask_callback(chat_service)
         ask_stream_callback = make_ask_stream_callback(chat_service)
-        stt_callback = create_stt_callback()
-        tts_service = create_tts_service()
+        # Initialize single STT service instance
+        self.stt_service: Optional[Any] = None
+        try:
+            from campus_helpdesk.infrastructure.audio.stt_service import FasterWhisperSTTService
+            settings = get_settings()
+            self.stt_service = FasterWhisperSTTService(
+                model_size=settings.whisper_model_size,
+                device=settings.whisper_device,
+                compute_type=settings.whisper_compute_type,
+                device_index=settings.mic_device_index,
+            )
+            logger.info("FasterWhisperSTTService initialized for TouchApp.")
+        except Exception as exc:
+            logger.warning("Could not initialize STT service for TouchApp: %s", exc)
+
+        def safe_stt_callback() -> str:
+            if not self.stt_service:
+                return ""
+            was_wake_running = False
+            if self.wake_service and hasattr(self.wake_service, "is_running") and self.wake_service.is_running():
+                logger.info("[TouchApp] Pausing WakeWordService stream for push-to-talk recording...")
+                try:
+                    self.wake_service.stop()
+                    was_wake_running = True
+                except Exception as e:
+                    logger.warning("[TouchApp] Error stopping wake service: %s", e)
+
+            try:
+                return self.stt_service.listen_and_transcribe(timeout=8, phrase_time_limit=15)
+            finally:
+                if was_wake_running and self.wake_service:
+                    logger.info("[TouchApp] Resuming WakeWordService stream post push-to-talk...")
+                    try:
+                        self.wake_service.start()
+                    except Exception as e:
+                        logger.warning("[TouchApp] Error resuming wake service: %s", e)
 
         # Single-panel kiosk layout (ChatView full width)
         self.grid_columnconfigure(0, weight=1)
@@ -189,7 +223,7 @@ class TouchApp(ctk.CTk):
             theme_engine=theme_engine,
             ask_callback=ask_callback,
             ask_stream_callback=ask_stream_callback,
-            stt_callback=stt_callback,
+            stt_callback=safe_stt_callback,
             tts_service=tts_service,
             on_language_changed=self._handle_language_changed,
         )
@@ -205,26 +239,15 @@ class TouchApp(ctk.CTk):
             from campus_helpdesk.interaction.event_bus import EventBus
 
             bus = EventBus()
-            if hasattr(stt_callback, "__self__"):
-                stt_instance = stt_callback.__self__
-            else:
-                from campus_helpdesk.infrastructure.audio.stt_service import FasterWhisperSTTService
-                settings = get_settings()
-                stt_instance = FasterWhisperSTTService(
-                    model_size=settings.whisper_model_size,
-                    device=settings.whisper_device,
-                    compute_type=settings.whisper_compute_type,
-                    device_index=settings.mic_device_index,
+            if self.stt_service:
+                self.conv_manager = ConversationManager(
+                    chat_service=chat_service,
+                    stt_service=self.stt_service,
+                    tts_service=tts_service or create_tts_service(),
+                    event_bus=bus,
+                    on_state_changed=lambda st, msg: self.after(0, lambda: self.chat_view.update_voice_state(st.value, msg)),
+                    on_transcript_updated=lambda txt, is_fin: self.after(0, lambda: self.chat_view.update_live_transcript(txt, is_fin)),
                 )
-
-            self.conv_manager = ConversationManager(
-                chat_service=chat_service,
-                stt_service=stt_instance,
-                tts_service=tts_service or create_tts_service(),
-                event_bus=bus,
-                on_state_changed=lambda st, msg: self.after(0, lambda: self.chat_view.update_voice_state(st.value, msg)),
-                on_transcript_updated=lambda txt, is_fin: self.after(0, lambda: self.chat_view.update_live_transcript(txt, is_fin)),
-            )
 
             self.wake_service = WakeWordService(
                 event_bus=bus,
