@@ -45,7 +45,7 @@ class CrossEncoderReranker:
             from sentence_transformers import CrossEncoder
 
             logger.info("Loading Cross-Encoder reranker model '%s' on %s...", self.model_name, self.device)
-            self._model = CrossEncoder(self.model_name, device=self.device)
+            self._model = CrossEncoder(self.model_name, device=self.device, local_files_only=True)
             self._model_loaded = True
             self.model_load_time_ms = round((time.perf_counter() - start_time) * 1000, 2)
             logger.info("Cross-Encoder model '%s' loaded in %.2fms.", self.model_name, self.model_load_time_ms)

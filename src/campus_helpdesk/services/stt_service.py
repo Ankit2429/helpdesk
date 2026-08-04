@@ -119,6 +119,7 @@ class FasterWhisperBackend(BaseTranscriptionBackend):
                 device=self._device,
                 compute_type=self._compute_type,
                 cpu_threads=self._cpu_threads,
+                local_files_only=True,
             )
         except ImportError as exc:
             logger.error("Failed to import faster-whisper: %s", exc)

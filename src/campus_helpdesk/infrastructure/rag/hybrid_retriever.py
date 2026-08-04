@@ -128,7 +128,8 @@ class HybridRetriever:
                 logger.error("FAISS dense search RetrievalError: %s", err)
                 raise
             except Exception as err:
-                logger.warning("FAISS dense search unexpected error: %s", err)
+                logger.error("FAISS dense search unexpected error: %s", err, exc_info=True)
+                raise RetrievalError(f"FAISS dense search failed due to unexpected error: {err}") from err
 
         # 3. Reciprocal Rank Fusion (Weighted RRF)
         rrf_scores: dict[str, float] = {}

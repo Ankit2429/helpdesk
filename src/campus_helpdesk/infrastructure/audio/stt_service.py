@@ -91,6 +91,7 @@ class FasterWhisperSTTService:
                 self._model_name,
                 device=self._device,
                 compute_type=compute_type,
+                local_files_only=True,
             )
             logger.info("[INFO] faster-whisper STT model initialized successfully!")
         except Exception as e:

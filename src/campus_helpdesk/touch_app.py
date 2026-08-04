@@ -179,12 +179,11 @@ class TouchApp(ctk.CTk):
         stt_callback = create_stt_callback()
         tts_service = create_tts_service()
 
-        # Grid configuration for dual panel layout (Left: Chat 65%, Right: Vision Camera 35%)
-        self.grid_columnconfigure(0, weight=65)
-        self.grid_columnconfigure(1, weight=35)
+        # Single-panel kiosk layout (ChatView full width)
+        self.grid_columnconfigure(0, weight=1)
         self.grid_rowconfigure(0, weight=1)
 
-        # 1. Left Panel: Chat Interface
+        # 1. Chat Interface Panel
         self.chat_view = ChatView(
             self,
             theme_engine=theme_engine,
@@ -194,7 +193,7 @@ class TouchApp(ctk.CTk):
             tts_service=tts_service,
             on_language_changed=self._handle_language_changed,
         )
-        self.chat_view.grid(row=0, column=0, sticky="nsew", padx=(8, 4), pady=8)
+        self.chat_view.grid(row=0, column=0, sticky="nsew", padx=12, pady=12)
 
         # 2. Wire ConversationManager & WakeWordService if audio services available
         self.conv_manager: Optional[Any] = None
@@ -238,19 +237,6 @@ class TouchApp(ctk.CTk):
         except Exception as exc:
             logger.warning("Could not initialize full voice pipeline in TouchApp: %s", exc)
 
-        # 3. Right Panel: Embedded Real-Time Live Vision Camera
-        from campus_helpdesk.presentation.camera_view import CameraView
-        self.camera_view = CameraView(
-            self,
-            theme_engine=theme_engine,
-            webcam_index=0,
-            on_greeting_triggered=self._handle_greeting_triggered,
-        )
-        self.camera_view.grid(row=0, column=1, sticky="nsew", padx=(4, 8), pady=8)
-
-        # Auto-start embedded camera stream on launch
-        self.after(500, self.camera_view.start_stream)
-
     def _handle_greeting_triggered(self, greeting_text: str, language: str) -> None:
         """Forward greeting event from HRI intent engine to ChatView UI & TTS."""
         logger.info(f"[TouchApp Greeting Received] Text='{greeting_text}' (Language='{language}')")
@@ -258,10 +244,8 @@ class TouchApp(ctk.CTk):
             self.chat_view.trigger_greeting(greeting_text, language)
 
     def _handle_language_changed(self, new_language: str) -> None:
-        """Synchronize active language across ChatView, STT, LLM, TTS, and Vision IntentEngine."""
+        """Synchronize active language across ChatView, STT, LLM, TTS."""
         logger.info(f"[TouchApp Language Synchronized] New Language: '{new_language}'")
-        if hasattr(self, "camera_view") and self.camera_view.detector:
-            self.camera_view.detector.intent_engine.active_language = new_language
 
 
 def main() -> None:

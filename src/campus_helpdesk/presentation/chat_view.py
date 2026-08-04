@@ -92,13 +92,6 @@ class ChatView(ctk.CTkFrame):
             text="● ONLINE",
             font=ctk.CTkFont(family="Segoe UI", size=11, weight="bold"),
             text_color=c.accent_success,
-        ).pack(side="left", padx=(0, 8))
-
-        ctk.CTkLabel(
-            sub_header_frame,
-            text="• Offline Voice & FAISS RAG Pipeline",
-            font=ctk.CTkFont(family="Segoe UI", size=11),
-            text_color=c.text_muted,
         ).pack(side="left")
 
         # Right Language Switcher & Live Clock Widget
