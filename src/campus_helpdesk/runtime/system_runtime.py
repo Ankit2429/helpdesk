@@ -252,7 +252,8 @@ class SystemRuntime:
                     cap = cv2.VideoCapture(self.camera._camera_index)
                     camera_ok = cap.isOpened()
                     cap.release()
-                except Exception:
+                except Exception as exc:
+                    logger.warning("Camera startup probe failed: %s", exc, exc_info=True)
                     camera_ok = False
 
             mic_ok = True
@@ -264,7 +265,8 @@ class SystemRuntime:
                         mic_ok = dev_info.get("max_input_channels", 0) > 0
                     else:
                         mic_ok = False
-                except Exception:
+                except Exception as exc:
+                    logger.warning("Microphone startup probe failed: %s", exc, exc_info=True)
                     mic_ok = False
 
             speaker_ok = True
@@ -278,7 +280,8 @@ class SystemRuntime:
                         speaker_ok = dev_info.get("max_output_channels", 0) > 0
                     else:
                         speaker_ok = sd.default.device[1] >= 0
-                except Exception:
+                except Exception as exc:
+                    logger.warning("Speaker startup probe failed: %s", exc, exc_info=True)
                     speaker_ok = False
 
             ollama_ok = True
@@ -289,9 +292,10 @@ class SystemRuntime:
 
                     from campus_helpdesk.config.settings import get_settings
                     base_url = get_settings().ollama_base_url
-                    resp = httpx.get(f"{base_url}/api/tags", timeout=2.0)
+                    resp = httpx.get(f"{base_url}/api/tags", timeout=10.0)
                     ollama_ok = resp.status_code == 200
-                except Exception:
+                except Exception as exc:
+                    logger.warning("Ollama startup probe failed: %s", exc, exc_info=True)
                     ollama_ok = False
 
             from campus_helpdesk.services.stt_service import MockTranscriptionBackend

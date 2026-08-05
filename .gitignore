@@ -59,3 +59,13 @@ Thumbs.db
 
 # Storage (if generated at runtime)
 storage/
+
+# Scraper & Build Artifacts
+bvb_scraped_data/
+ffmpeg-*/
+diag_*.py
+helpdesk_gui.py
+*_results.json
+*_report.json
+rag_verification_results.json
+

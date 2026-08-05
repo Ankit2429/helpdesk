@@ -13,6 +13,7 @@ from __future__ import annotations
 import logging
 import os
 import time
+import traceback
 from typing import Any, Dict, Iterator, Optional, Tuple
 
 from ollama import Client, RequestError, ResponseError
@@ -36,25 +37,27 @@ class LLMService:
 
     def __init__(
         self,
-        model: str = "llama3.2:3b",
-        host: str = "http://localhost:11434",
+        model: str = "qwen2.5:3b",
+        host: str = "http://127.0.0.1:11434",
         temperature: float = 0.2,
         max_tokens: int = 512,
         timeout: float = 180.0,
-        max_retries: int = 3,
-        backoff_factor: float = 1.5,
+        max_retries: int = 4,
+        backoff_factor: float = 2.0,
+        generation_options: Optional[Dict[str, Any]] = None,
     ) -> None:
         """
         Initialize LLMService instance.
 
         Args:
-            model: Ollama model name/tag (e.g. 'llama3.2:3b').
+            model: Ollama model name/tag (e.g. 'qwen2.5:3b').
             host: Host URL of running Ollama server.
             temperature: Sampling temperature (0.0 to 1.0).
             max_tokens: Maximum prediction tokens.
             timeout: Request timeout in seconds.
-            max_retries: Retry count for transient errors.
-            backoff_factor: Backoff multiplier between retries.
+            max_retries: Retry count for transient errors (default 4 to survive model cold-load).
+            backoff_factor: Backoff multiplier between retries (default 2.0 → 10s/20s/40s/80s).
+            generation_options: Additional Ollama parameters (e.g. num_thread, num_ctx, top_p).
         """
         self.model = model
         self.host = host.rstrip("/")
@@ -63,6 +66,7 @@ class LLMService:
         self.timeout = timeout
         self.max_retries = max_retries
         self.backoff_factor = backoff_factor
+        self.generation_options = dict(generation_options) if generation_options else {}
 
         self._client: Optional[Client] = None
         self._response_cache: Dict[str, str] = {}
@@ -160,15 +164,20 @@ class LLMService:
         options: Dict[str, Any] = {
             "temperature": self.temperature,
             "num_predict": self.max_tokens,
-            "keep_alive": "10m",
         }
+        if self.generation_options:
+            options.update(self.generation_options)
 
         last_exception: Optional[Exception] = None
-        delay = 0.3
+        # Initial delay of 10s — Ollama model cold-load on a 4 GB GPU can take 60-120 s.
+        # Retries: 10s → 20s → 40s → 80s (backoff_factor=2.0, max_retries=4).
+        delay = 10.0
         start_time = time.time()
 
         for attempt in range(1, self.max_retries + 1):
             try:
+                if not self._client:
+                    self._init_client()
                 if not self._client:
                     raise RequestError(f"Ollama client not initialized for host {self.host}")
 
@@ -176,6 +185,7 @@ class LLMService:
                     model=self.model,
                     messages=[{"role": "user", "content": prompt}],
                     options=options,
+                    keep_alive="10m",
                     stream=False,
                 )
 
@@ -191,17 +201,47 @@ class LLMService:
 
                 elapsed = (time.time() - start_time) * 1000
                 logger.info(f"[Response Finished] Generation complete in {elapsed:.1f}ms (Length={len(content)} chars)")
-                
+
                 # Update query cache
                 if len(self._response_cache) >= self._cache_max_size:
                     self._response_cache.clear()
                 self._response_cache[cache_key] = content
                 return content
 
-            except (ResponseError, RequestError, Exception) as exc:
+            except ResponseError as exc:
+                # Non-retryable: model returned a bad response (e.g. bad model name).
                 last_exception = exc
-                logger.warning(f"[LLM Retry {attempt}/{self.max_retries}] Failed: {exc}")
+                logger.error(
+                    f"[LLM Attempt {attempt}/{self.max_retries}] ResponseError (non-retryable): "
+                    f"{type(exc).__name__}: {exc}"
+                )
+                break  # Don't retry on Ollama-level response errors
+
+            except (ConnectionError, TimeoutError, OSError) as exc:
+                # Retryable: network-level failures (connection refused, socket timeout, VRAM loading).
+                last_exception = exc
+                logger.warning(
+                    f"[LLM Retry {attempt}/{self.max_retries}] Network/connection error — "
+                    f"{type(exc).__name__}: {exc}"
+                )
                 if attempt < self.max_retries:
+                    # Re-create the client in case the connection object is stale.
+                    self._client = None
+                    logger.info(f"[LLM Retry] Waiting {delay:.0f}s before retry {attempt + 1}…")
+                    time.sleep(delay)
+                    delay *= self.backoff_factor
+
+            except Exception as exc:
+                # All other errors: log full traceback for debuggability, then retry.
+                last_exception = exc
+                logger.warning(
+                    f"[LLM Retry {attempt}/{self.max_retries}] Unexpected error — "
+                    f"{type(exc).__name__}: {exc}\n"
+                    f"{traceback.format_exc()}"
+                )
+                if attempt < self.max_retries:
+                    self._client = None
+                    logger.info(f"[LLM Retry] Waiting {delay:.0f}s before retry {attempt + 1}…")
                     time.sleep(delay)
                     delay *= self.backoff_factor
 
@@ -209,9 +249,9 @@ class LLMService:
             f"Ollama service is unavailable or model '{self.model}' failed to respond.\n"
             f"Please verify Ollama is running at {self.host}.\n"
             f"If the model is missing, run: ollama pull {self.model}\n"
-            f"Error details: {last_exception}"
+            f"Root cause — {type(last_exception).__name__}: {last_exception}"
         )
-        logger.error(f"[LLM Execution Failed] {error_details}")
+        logger.error(f"[LLM Execution Failed] {error_details}\n{traceback.format_exc()}")
         return f"[Helpdesk Offline Service Warning] {error_details}"
 
     def generate_stream(self, prompt: str) -> Iterator[str]:
@@ -231,8 +271,9 @@ class LLMService:
         options: Dict[str, Any] = {
             "temperature": self.temperature,
             "num_predict": self.max_tokens,
-            "keep_alive": "10m",
         }
+        if self.generation_options:
+            options.update(self.generation_options)
 
         start_time = time.time()
         first_token_logged = False
@@ -240,12 +281,15 @@ class LLMService:
 
         try:
             if not self._client:
+                self._init_client()
+            if not self._client:
                 raise RequestError(f"Ollama client not initialized for host {self.host}")
 
             response = self._client.chat(
                 model=self.model,
                 messages=[{"role": "user", "content": prompt}],
                 options=options,
+                keep_alive="10m",
                 stream=True,
             )
 
@@ -267,5 +311,8 @@ class LLMService:
             logger.info(f"[Response Finished] Streamed {total_tokens} tokens in {total_time:.1f}ms")
 
         except Exception as exc:
-            logger.error(f"[Ollama Streaming Error] {exc}")
-            yield f"[Ollama Error: {exc}]"
+            logger.error(
+                f"[Ollama Streaming Error] {type(exc).__name__}: {exc}\n"
+                f"{traceback.format_exc()}"
+            )
+            yield f"[Ollama Error — {type(exc).__name__}: {exc}]"

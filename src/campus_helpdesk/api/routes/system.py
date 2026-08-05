@@ -174,9 +174,9 @@ def health(request: Request) -> HealthResponse:
     settings: Settings = getattr(request.app.state, "settings", None)
 
     # 1. Ollama Health Check
-    ollama_url = getattr(settings, "ollama_base_url", "http://localhost:11434")
+    ollama_url = getattr(settings, "ollama_base_url", "http://127.0.0.1:11434")
     try:
-        r = httpx.get(f"{ollama_url}/api/tags", timeout=2.0)
+        r = httpx.get(f"{ollama_url}/api/tags", timeout=10.0)
         components["ollama"] = "healthy" if r.status_code == 200 else f"degraded (HTTP {r.status_code})"
     except Exception:
         components["ollama"] = "unreachable"
@@ -209,7 +209,8 @@ def health(request: Request) -> HealthResponse:
             "total_gb": total_gb,
             "status": "healthy" if free_gb > 1.0 else "low_disk_space",
         }
-    except Exception:
+    except OSError as e:
+        logger.warning("Could not check disk usage: %s", e)
         disk_info = {"status": "unknown"}
 
     # 7. System Memory Check
@@ -228,11 +229,11 @@ def health(request: Request) -> HealthResponse:
 def ready(request: Request):
     """Check readiness of FAISS, BM25, and Ollama services."""
     settings = getattr(request.app.state, "settings", None)
-    ollama_url = getattr(settings, "ollama_base_url", "http://localhost:11434")
+    ollama_url = getattr(settings, "ollama_base_url", "http://127.0.0.1:11434")
     
     # Check Ollama
     try:
-        r = httpx.get(f"{ollama_url}/api/tags", timeout=2.0)
+        r = httpx.get(f"{ollama_url}/api/tags", timeout=10.0)
         if r.status_code != 200:
             return JSONResponse(status_code=503, content={"status": "not_ready", "detail": "Ollama service unhealthy"})
     except Exception:

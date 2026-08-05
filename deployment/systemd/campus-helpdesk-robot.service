@@ -9,7 +9,7 @@ Type=simple
 # (setup_pi_deployment.sh automatically patches these to match the actual clone directory!)
 User=pi
 WorkingDirectory=/home/pi/campus-helpdesk
-ExecStart=/home/pi/campus-helpdesk/.venv/bin/python assistant_loop.py
+ExecStart=/home/pi/campus-helpdesk/.venv/bin/python -m campus_helpdesk.robot_main
 Restart=always
 RestartSec=5
 KillMode=process

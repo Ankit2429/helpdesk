@@ -45,9 +45,9 @@ else
     echo "Ollama is already installed."
 fi
 
-echo "Ensuring Ollama server is active and pulling qwen2.5:1.5b model..."
+echo "Ensuring Ollama server is active and pulling qwen2.5:3b model..."
 sudo systemctl enable --now ollama || true
-ollama pull qwen2.5:1.5b
+ollama pull qwen2.5:3b
 
 # 3. Create Python Virtual Environment
 echo -e "\n[3/7] Setting up Python Virtual Environment (.venv)..."
@@ -94,7 +94,7 @@ if [ -f "$SERVICE_SRC" ]; then
     cp "$SERVICE_SRC" "$SERVICE_TMP"
     # Replace default placeholder path /home/pi/campus-helpdesk with actual $APP_DIR
     sed -i "s|WorkingDirectory=.*|WorkingDirectory=$APP_DIR|g" "$SERVICE_TMP"
-    sed -i "s|ExecStart=.*|ExecStart=$APP_DIR/.venv/bin/python assistant_loop.py|g" "$SERVICE_TMP"
+    sed -i "s|ExecStart=.*|ExecStart=$APP_DIR/.venv/bin/python -m campus_helpdesk.robot_main|g" "$SERVICE_TMP"
     sed -i "s|EnvironmentFile=-.*|EnvironmentFile=-$APP_DIR/.env|g" "$SERVICE_TMP"
     sed -i "s|User=.*|User=$REAL_USER|g" "$SERVICE_TMP"
 

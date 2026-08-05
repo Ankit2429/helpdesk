@@ -45,9 +45,7 @@ class LanguageDetector:
             lang_code = langdetect.detect(text).lower()
             if lang_code in ("hi", "kn", "en"):
                 return DetectionResult(lang_code, LANGUAGE_NAMES.get(lang_code, "English"), 0.95)
-            elif lang_code in ("mr", "ne"):
-                return DetectionResult("hi", "Hindi", 0.90)
-        except Exception:
-            pass
+        except (ImportError, Exception) as exc:
+            logger.debug("Language detector fallback to 'en': %s", exc)
 
         return DetectionResult("en", "English", 1.0)

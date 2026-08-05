@@ -486,9 +486,8 @@ class CameraService:
                 "health": self.health(),
             }
 
-    def set_correlation_context(self, session_id: str | None, correlation_id: str | None) -> None:
-from datetime import datetime, timezone
-
+    def _read_frame(self) -> tuple[bool, np.ndarray | None]:
+        """Read a frame from the CV2 capture device or generate a mock frame."""
         with self._lock:
             if self._is_mock:
                 # Generate a dummy color block using NumPy

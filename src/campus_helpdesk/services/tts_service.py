@@ -132,7 +132,7 @@ class PiperBackend(BaseSpeechBackend):
             try:
                 from campus_helpdesk.config.settings import get_settings
                 self._output_device = get_settings().speaker_device_index
-            except Exception:
+            except (ImportError, AttributeError, KeyError):
                 pass
 
         if self._output_device is None:
@@ -147,7 +147,7 @@ class PiperBackend(BaseSpeechBackend):
                         if dev.get("max_output_channels", 0) > 0:
                             self._output_device = idx
                             break
-            except Exception as e:
+            except (sd.PortAudioError, AttributeError, ValueError, OSError) as e:
                 logger.warning("TTS: Could not auto-detect default output audio device: %s", e)
 
     def load_model(self) -> float:
@@ -159,8 +159,8 @@ class PiperBackend(BaseSpeechBackend):
                 import sounddevice as sd
                 dev_info = sd.query_devices(self._output_device)
                 logger.info("TTS Selected Speaker Index %d: %s", self._output_device, dev_info.get("name", "Unknown"))
-            except Exception:
-                logger.info("TTS Selected Speaker Index %d", self._output_device)
+            except (sd.PortAudioError, AttributeError, ValueError, OSError) as e:
+                logger.info("TTS Selected Speaker Index %d (query failed: %s)", self._output_device, e)
         else:
             logger.warning("TTS: No speaker device selected or available.")
 
@@ -193,7 +193,7 @@ class PiperBackend(BaseSpeechBackend):
                     with open(self._config_path, encoding="utf-8") as f:
                         cfg = json.load(f)
                         self._sample_rate = cfg.get("audio", {}).get("sample_rate", 22050)
-                except Exception as json_err:
+                except (json.JSONDecodeError, OSError, KeyError, TypeError, ValueError) as json_err:
                     logger.debug("Could not parse config JSON for sample_rate: %s", json_err)
 
             self._voice = "CLI_SUBPROCESS"
@@ -251,7 +251,7 @@ class PiperBackend(BaseSpeechBackend):
                     yield chunk
                 proc.wait()
             except Exception as sub_err:
-                logger.error("Piper subprocess execution error: %s", sub_err)
+                logger.error("Piper subprocess execution error: %s", sub_err, exc_info=True)
                 raise AudioError(f"Piper execution failed: {sub_err}") from sub_err
 
     def synthesize_and_play(
@@ -277,7 +277,7 @@ class PiperBackend(BaseSpeechBackend):
                 device=self._output_device,
             )
         except Exception as sd_err:
-            logger.error("TTS sounddevice RawOutputStream initialization failed: %s", sd_err)
+            logger.error("TTS sounddevice RawOutputStream initialization failed: %s", sd_err, exc_info=True)
             raise AudioError(f"Sounddevice initialization error: {sd_err}") from sd_err
 
         first_chunk = True
@@ -295,7 +295,7 @@ class PiperBackend(BaseSpeechBackend):
         except AudioError:
             raise
         except Exception as play_err:
-            logger.error("TTS playback error: %s", play_err)
+            logger.error("TTS playback error: %s", play_err, exc_info=True)
             raise AudioError(f"TTS playback failure: {play_err}") from play_err
 
         if first_chunk:
@@ -615,7 +615,7 @@ class TTSService:
         except Exception as exc:
             with self._lock:
                 self._failures += 1
-            logger.error("TTSService: Synthesis failure on text %r: %s", text_to_speak, exc)
+            logger.error("TTSService: Synthesis failure on text %r: %s", text_to_speak, exc, exc_info=True)
             self._publish_error("TTSSynthesisError", f"TTS synthesis/playback failed: {exc}", event)
 
     def _publish_error(self, err_type: str, msg: str, trigger_event: EventEnvelope) -> None:

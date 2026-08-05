@@ -178,8 +178,11 @@ python scripts/voice_loop.py --simulate
 python scripts/voice_loop.py --mic-index 0 --speaker-index 0
 ```
 
-### 6. Launch Full Web & Robot Server UI
+### 6. Launch Production Runtimes
 ```bash
-# Launches production FastAPI application + integrated Web UI at http://0.0.0.0:8000
+# Option A: Autonomous Robot CLI Runtime (Default systemd background service)
+python -m campus_helpdesk.robot_main
+
+# Option B: Web API & Kiosk UI Server at http://0.0.0.0:8000
 python -m campus_helpdesk.main
 ```

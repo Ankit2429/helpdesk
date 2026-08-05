@@ -91,7 +91,7 @@ class VADService:
             try:
                 from campus_helpdesk.config.settings import get_settings
                 self._device_index = get_settings().mic_device_index
-            except Exception:
+            except (ImportError, AttributeError, KeyError):
                 pass
 
         if self._device_index is None:
@@ -105,7 +105,7 @@ class VADService:
                         if dev.get("max_input_channels", 0) > 0:
                             self._device_index = idx
                             break
-            except Exception as e:
+            except (sd.PortAudioError, AttributeError, ValueError, OSError) as e:
                 logger.warning("VAD: Could not auto-detect default input audio device: %s", e)
 
         self._use_mock_fallback = use_mock_fallback
@@ -179,8 +179,8 @@ class VADService:
                 try:
                     dev_info = sd.query_devices(self._device_index)
                     logger.info("VAD Selected Microphone Index %d: %s", self._device_index, dev_info.get("name", "Unknown"))
-                except Exception:
-                    logger.info("VAD Selected Microphone Index %d", self._device_index)
+                except (sd.PortAudioError, AttributeError, ValueError, OSError) as e:
+                    logger.info("VAD Selected Microphone Index %d (query failed: %s)", self._device_index, e)
             else:
                 logger.error("VAD: No input audio capture device found or configured.")
 
@@ -198,7 +198,7 @@ class VADService:
                 self._is_mock = False
                 logger.info("Microphone started. Streaming at %d Hz.", self._sample_rate)
             except Exception as exc:
-                logger.error("Failed to start microphone: %s", exc)
+                logger.error("Failed to start microphone: %s", exc, exc_info=True)
                 self._stream = None
                 self._microphone_connected = False
                 if self._use_mock_fallback:
@@ -250,8 +250,8 @@ class VADService:
             try:
                 self._stream.stop()
                 self._stream.close()
-            except Exception:
-                pass
+            except (sd.PortAudioError, AttributeError, OSError) as e:
+                logger.debug("VAD stream stop cleanup exception: %s", e)
             self._stream = None
 
         if self._worker and self._worker.is_alive():
@@ -396,7 +396,7 @@ class VADService:
         try:
             return self._vad.is_speech(frame_bytes, self._sample_rate)
         except Exception as exc:
-            logger.error("WebRTC VAD error: %s", exc)
+            logger.error("WebRTC VAD error: %s", exc, exc_info=True)
             return False
 
     def _evaluate_speech_transitions(self, is_speech: bool, frame_bytes: bytes) -> None:
@@ -490,7 +490,7 @@ class VADService:
 
             return path
         except Exception as exc:
-            logger.error("Failed to write temporary WAV audio segment: %s", exc)
+            logger.error("Failed to write temporary WAV audio segment: %s", exc, exc_info=True)
             return None
 
     # ─────────────────────────────────────────────────────────────────────────

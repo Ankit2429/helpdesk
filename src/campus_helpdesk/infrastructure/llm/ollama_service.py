@@ -71,6 +71,7 @@ class OllamaLLMService:
             temperature=temp,
             max_tokens=max_tok,
             timeout=timeout_seconds,
+            generation_options=self._generation_options,
         )
 
     def generate(self, prompt: str) -> str:

@@ -107,7 +107,7 @@ class NonBlockingTTSService:
                     break
                 self._pa_stream.write(chunk.audio_int16_bytes)
         except Exception as err:
-            logger.error(f"Piper audio stream error: {err}")
+            logger.error(f"Piper audio stream error: {err}", exc_info=True)
 
     def _get_pyttsx3_engine(self):
         if self._pyttsx3_engine is None:

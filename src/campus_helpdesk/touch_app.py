@@ -46,7 +46,7 @@ def build_chat_service() -> RAGChatService:
         try:
             rag_pipeline.load_index()
         except Exception as exc:
-            logger.warning("Could not load FAISS index from %s: %s", settings.faiss_index_path, exc)
+            logger.warning("Could not load FAISS index from %s: %s", settings.faiss_index_path, exc, exc_info=True)
 
     context_builder = PromptContextBuilder(
         max_context_size=7000,
@@ -187,7 +187,7 @@ class TouchApp(ctk.CTk):
                     self.wake_service.stop()
                     was_wake_running = True
                 except Exception as e:
-                    logger.warning("[TouchApp] Error stopping wake service: %s", e)
+                    logger.warning("[TouchApp] Error stopping wake service: %s", e, exc_info=True)
 
             try:
                 return self.stt_service.listen_and_transcribe(timeout=8, phrase_time_limit=15)
@@ -197,7 +197,7 @@ class TouchApp(ctk.CTk):
                     try:
                         self.wake_service.start()
                     except Exception as e:
-                        logger.warning("[TouchApp] Error resuming wake service: %s", e)
+                        logger.warning("[TouchApp] Error resuming wake service: %s", e, exc_info=True)
 
         # Single-panel kiosk layout (ChatView full width)
         self.grid_columnconfigure(0, weight=1)
@@ -271,14 +271,14 @@ class TouchApp(ctk.CTk):
             try:
                 self.wake_service.stop()
             except Exception as exc:
-                logger.warning("Error stopping wake service during TTS: %s", exc)
+                logger.warning("Error stopping wake service during TTS: %s", exc, exc_info=True)
         else:
             logger.info("[TouchApp] TTS playback finished: Resuming WakeWordService background stream.")
             try:
                 if not self.wake_service.is_running():
                     self.wake_service.start()
             except Exception as exc:
-                logger.warning("Error resuming wake service post TTS: %s", exc)
+                logger.warning("Error resuming wake service post TTS: %s", exc, exc_info=True)
 
 
 def main() -> None:

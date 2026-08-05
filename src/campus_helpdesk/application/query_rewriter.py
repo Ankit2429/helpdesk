@@ -90,29 +90,32 @@ class QueryRewriter:
                     if subject:
                         query_text = self.PRONOUN_PATTERN.sub(subject, query_text)
 
-        # Step 3: Domain-specific synonym enrichment for short general queries
+        # Step 3: Domain-specific synonym enrichment and campus context resolution
         q_lower = query_text.lower()
-        if any(k in q_lower for k in ("branch", "department", "school of", "schools", "course list", "program list")):
-            query_text = f"{query_text} Schools Departments List Civil Mechanical Electrical Electronics Computer Science Information Science Biotechnology Architecture Programs Courses"
-        elif any(k in q_lower for k in ("courses offered", "what courses", "programs offered", "list of courses")):
-            query_text = f"{query_text} Undergraduate Postgraduate B.E. M.Tech MBA MCA BCA BBA Programs Courses Offered"
+        has_branch_term = any(b in q_lower for b in ("belagavi", "belgaum", "sheshgiri", "bengaluru", "bangalore"))
+        campus_context = "Dr M S Sheshgiri Campus Belagavi" if has_branch_term else "KLE Technological University BVB Campus Vidyanagar Hubballi"
+
+        if any(k in q_lower for k in ("branch", "department", "departments", "school of", "schools", "course list", "program list")):
+            query_text = f"{query_text} Schools Departments List Civil Mechanical Electrical Electronics Computer Science Information Science Biotechnology Architecture Programs Courses {campus_context}"
+        elif any(k in q_lower for k in ("course", "courses", "program", "programs", "degree", "curriculum")):
+            query_text = f"{query_text} Undergraduate Postgraduate B.E. M.Tech MBA MCA BCA BBA Programs Courses Offered Curriculum Degree {campus_context}"
 
         elif "hostel" in q_lower:
-            query_text = f"{query_text} hostel facilities canteens food boys girls mess dining residential rooms security recreation internet Wi-Fi"
+            query_text = f"{query_text} hostel facilities canteens food boys girls mess dining residential rooms security recreation internet Wi-Fi {campus_context}"
         elif "library" in q_lower or "borrow" in q_lower or "book" in q_lower:
-            query_text = f"{query_text} Central Library Block C 2nd floor second floor Books volumes titles ebooks journals Continio borrow timings reference section location"
+            query_text = f"{query_text} Central Library Block C 2nd floor second floor Books volumes titles ebooks journals Continio borrow timings reference section location {campus_context}"
         elif "placement" in q_lower or "placements" in q_lower or "hire" in q_lower:
-            query_text = f"{query_text} Placement cell placement brochure recruiters companies training statistics package average package"
+            query_text = f"{query_text} Placement cell placement brochure recruiters companies training statistics package average package {campus_context}"
         elif any(k in q_lower for k in ("timetable", "time table", "circular", "exam", "assessment")):
-            query_text = f"{query_text} timetable circular exam theory examinations April 2025 Semester Assessment schedule notices notice board ref 5221 commencement"
+            query_text = f"{query_text} timetable circular exam theory examinations April 2025 Semester Assessment schedule notices notice board ref 5221 commencement {campus_context}"
         elif any(k in q_lower for k in ("canteen", "mess", "dining", "food", "cafeteria")):
-            query_text = f"{query_text} canteen dining food mess canteens cafeterias hostel canteens"
+            query_text = f"{query_text} canteen dining food mess canteens cafeterias hostel canteens {campus_context}"
         elif any(k in q_lower for k in ("sports", "gym", "ground", "fitness", "facilities", "recreation")):
-            query_text = f"{query_text} sports gym ground gymnasium indoor games facilities banking ATM medical health center"
+            query_text = f"{query_text} sports gym ground gymnasium indoor games facilities banking ATM medical health center {campus_context}"
         elif any(k in q_lower for k in ("admission", "admissions", "apply", "admit")):
-            query_text = f"{query_text} Admissions Office Admission Cell Administrative Officer Registrar Coordinator application eligibility counseling"
-        elif any(k in q_lower for k in ("location", "where is", "where is the")):
-            query_text = f"{query_text} campus location building block floor office"
+            query_text = f"{query_text} Admissions Office Admission Cell Administrative Officer Registrar Coordinator application eligibility counseling {campus_context}"
+        elif any(k in q_lower for k in ("location", "where is", "address", "where", "college", "university", "campus")):
+            query_text = f"{query_text} campus location address building block floor office {campus_context}"
 
         return query_text
 

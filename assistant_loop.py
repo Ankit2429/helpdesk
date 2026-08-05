@@ -1,21 +1,10 @@
 """
-assistant_loop.py
-Main orchestrator — NO wake word. Flow:
+assistant_loop.py [LEGACY SCRIPT]
+NOTE: The true production runtime for Raspberry Pi systemd deployment is
+`python -m campus_helpdesk.robot_main`. This file is preserved as a legacy CLI script.
 
-  camera sees a face
-       -> speak welcome greeting
-       -> mic opens for LISTEN_WINDOW_SECONDS (15-20s)
-          - stops EARLY if the person goes silent for SILENCE_CUTOFF seconds
-            (so it doesn't always wait the full 20s if they finish talking sooner)
-       -> mic closes
-       -> audio sent to STT -> (TTT reply) -> TTS speaks the answer
-       -> back to idle, watching the camera again
-
-Only one listening session runs at a time; new arrivals are ignored while
-a session is already active (guarded by self._busy).
-
-Install:
-    pip install opencv-python faster-whisper sounddevice numpy parler-tts
+Flow:
+  camera sees a face -> speak welcome greeting -> mic opens -> audio to STT -> TTT -> TTS
 """
 
 import os

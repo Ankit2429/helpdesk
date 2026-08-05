@@ -97,9 +97,8 @@ class HOGPersonDetector(BasePersonDetector):
                     self._hog.setSVMDetector(cv2.HOGDescriptor.getDefaultPeopleDetector())
                 elif hasattr(cv2, "HOGDescriptor_getDefaultPeopleDetector"):
                     self._hog.setSVMDetector(cv2.HOGDescriptor_getDefaultPeopleDetector())
-            else:
-                self._hog = None
-        except Exception:
+        except Exception as exc:
+            logger.warning("[HOGPersonDetector] OpenCV HOG initialization fallback: %s", exc, exc_info=True)
             self._hog = None
 
     def detect(

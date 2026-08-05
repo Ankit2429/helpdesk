@@ -29,7 +29,7 @@ DEFAULT_SYSTEM_PROMPT = (
     "(BVB Engineering College), Hubballi.\n\n"
     "STRICT GROUNDING RULES:\n"
     "1. Answer ONLY using the information provided in the Context section below.\n"
-    "2. If the retrieved context does not explicitly contain the answer, respond EXACTLY:\n"
+    "2. If the retrieved context is only partially relevant, answer using what is available and clearly note the limitation — do not fabricate details not present in the context. Only if the retrieved context is completely empty or completely irrelevant to the question, respond EXACTLY:\n"
     "   \"I couldn't find verified information about that in my knowledge base.\"\n"
     "3. NEVER mention real-time access, browsing the web, training data, Student Union Building (SUB), or generic university examples.\n"
     "4. Do NOT invent locations, people, departments, or facilities under any circumstances.\n"
@@ -58,7 +58,11 @@ class RAGChatService(ChatService):
         self._llm_service = llm_service
         self._rag_pipeline = rag_pipeline
         self._query_rewriter = query_rewriter or QueryRewriter()
-        self._context_builder = context_builder or PromptContextBuilder(max_context_size=7000)
+        from campus_helpdesk.config.settings import get_settings
+        self._context_builder = context_builder or PromptContextBuilder(
+            max_context_size=7000,
+            similarity_threshold=get_settings().rag_distance_threshold,
+        )
 
         self.session_manager = session_manager or SessionManager()
         self.confidence_engine = confidence_engine or ConfidenceEngine()
@@ -185,25 +189,22 @@ class RAGChatService(ChatService):
         # Calibrate threshold: Accept if overall score >= 0.35 OR if the top retrieved chunk is highly relevant
         is_accepted = (score >= 0.35) or (top_reranker >= 0.1) or (top_distance <= 1.2)
 
-        # Log detailed RAG debug statistics if debug mode is enabled
-        from campus_helpdesk.config.settings import get_settings
-        settings_obj = get_settings()
-        if settings_obj.debug or settings_obj.debug_confidence:
-            debug_msg = (
-                f"\n--- RAG RETRIEVAL DEBUG INFO ---\n"
-                f"User Query: {message}\n"
-                f"Confidence Score: {score} | Level: {level}\n"
-                f"Top Reranker Score: {top_reranker} | Top Distance: {top_distance}\n"
-                f"Decision: {'ACCEPT' if is_accepted else 'REJECT'}\n"
-                f"Top Chunks:\n"
-            )
-            if 'search_results' in locals() and search_results:
-                for idx, res in enumerate(search_results[:5]):
-                    debug_msg += f"  [{idx+1}] Source: {res.document.metadata.get('source')} | Distance: {res.distance:.4f}\n"
-            else:
-                debug_msg += "  No chunks retrieved.\n"
-            debug_msg += "--------------------------------"
-            logger.info(debug_msg)
+        # Log detailed RAG debug statistics for every query
+        debug_msg = (
+            f"\n--- RAG RETRIEVAL DEBUG INFO ---\n"
+            f"User Query: {message}\n"
+            f"Confidence Score: {score} | Level: {level}\n"
+            f"Top Reranker Score: {top_reranker} | Top Distance: {top_distance}\n"
+            f"Decision: {'ACCEPT' if is_accepted else 'REJECT'}\n"
+            f"Top Chunks:\n"
+        )
+        if 'search_results' in locals() and search_results:
+            for idx, res in enumerate(search_results[:5]):
+                debug_msg += f"  [{idx+1}] Source: {res.document.metadata.get('source')} | Distance: {res.distance:.4f}\n"
+        else:
+            debug_msg += "  No chunks retrieved.\n"
+        debug_msg += "--------------------------------"
+        logger.info(debug_msg)
 
         if not is_accepted:
             logger.info(f"[ConfidenceCheck] Rejected: Score {score} (reranker: {top_reranker}, dist: {top_distance}). Bypassing LLM generation.")
@@ -319,25 +320,22 @@ class RAGChatService(ChatService):
 
         is_accepted = (score >= 0.35) or (top_reranker >= 0.1) or (top_distance <= 1.2)
 
-        # Log detailed RAG debug statistics if debug mode is enabled
-        from campus_helpdesk.config.settings import get_settings
-        settings_obj = get_settings()
-        if settings_obj.debug or settings_obj.debug_confidence:
-            debug_msg = (
-                f"\n--- RAG RETRIEVAL DEBUG INFO ---\n"
-                f"User Query: {message}\n"
-                f"Confidence Score: {score} | Level: {level}\n"
-                f"Top Reranker Score: {top_reranker} | Top Distance: {top_distance}\n"
-                f"Decision: {'ACCEPT' if is_accepted else 'REJECT'}\n"
-                f"Top Chunks:\n"
-            )
-            if search_results:
-                for idx, res in enumerate(search_results[:5]):
-                    debug_msg += f"  [{idx+1}] Source: {res.document.metadata.get('source')} | Distance: {res.distance:.4f}\n"
-            else:
-                debug_msg += "  No chunks retrieved.\n"
-            debug_msg += "--------------------------------"
-            logger.info(debug_msg)
+        # Log detailed RAG debug statistics for every query
+        debug_msg = (
+            f"\n--- RAG RETRIEVAL DEBUG INFO ---\n"
+            f"User Query: {message}\n"
+            f"Confidence Score: {score} | Level: {level}\n"
+            f"Top Reranker Score: {top_reranker} | Top Distance: {top_distance}\n"
+            f"Decision: {'ACCEPT' if is_accepted else 'REJECT'}\n"
+            f"Top Chunks:\n"
+        )
+        if search_results:
+            for idx, res in enumerate(search_results[:5]):
+                debug_msg += f"  [{idx+1}] Source: {res.document.metadata.get('source')} | Distance: {res.distance:.4f}\n"
+        else:
+            debug_msg += "  No chunks retrieved.\n"
+        debug_msg += "--------------------------------"
+        logger.info(debug_msg)
 
         if not is_accepted:
             logger.info(f"[ConfidenceCheck Stream] Rejected: Score {score}. Bypassing LLM generation.")

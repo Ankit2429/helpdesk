@@ -81,7 +81,8 @@ class TTSService:
             try:
                 self.mms_models["hi"] = VitsModel.from_pretrained("facebook/mms-tts-hin", local_files_only=True)
                 self.mms_tokenizers["hi"] = AutoTokenizer.from_pretrained("facebook/mms-tts-hin", local_files_only=True)
-            except Exception:
+            except (OSError, ValueError, RuntimeError, AttributeError, ImportError) as exc:
+                logger.debug(f"Local Hindi MMS load fallback: {exc}")
                 self.mms_models["hi"] = VitsModel.from_pretrained("facebook/mms-tts-hin")
                 self.mms_tokenizers["hi"] = AutoTokenizer.from_pretrained("facebook/mms-tts-hin")
 
@@ -89,7 +90,8 @@ class TTSService:
             try:
                 self.mms_models["kn"] = VitsModel.from_pretrained("facebook/mms-tts-kan", local_files_only=True)
                 self.mms_tokenizers["kn"] = AutoTokenizer.from_pretrained("facebook/mms-tts-kan", local_files_only=True)
-            except Exception:
+            except (OSError, ValueError, RuntimeError, AttributeError, ImportError) as exc:
+                logger.debug(f"Local Kannada MMS load fallback: {exc}")
                 self.mms_models["kn"] = VitsModel.from_pretrained("facebook/mms-tts-kan")
                 self.mms_tokenizers["kn"] = AutoTokenizer.from_pretrained("facebook/mms-tts-kan")
 
@@ -139,7 +141,7 @@ class TTSService:
                 audio_int16 = np.frombuffer(raw_bytes, dtype=np.int16)
                 audio_float32 = (audio_int16.astype(np.float32) / 32767.0)
                 return audio_float32
-        except Exception as e:
+        except (wave.Error, OSError, ValueError) as e:
             logger.warning(f"Failed to read cached WAV file '{filepath}': {e}")
             return None
 
@@ -176,7 +178,7 @@ class TTSService:
                     logger.info(f"TTS [Meta MMS-TTS {lang_code.upper()}]: Succeeded ({len(audio)} samples, {sr} Hz)")
                     return audio
                 except Exception as exc:
-                    logger.warning(f"Meta MMS-TTS error: {exc}")
+                    logger.warning(f"Meta MMS-TTS error: {exc}", exc_info=True)
 
         # English or fallback: Piper / pyttsx3
         try:
@@ -184,7 +186,7 @@ class TTSService:
             logger.info(f"TTS [Piper EN]: Succeeded ({len(audio)} samples)")
             return audio
         except Exception as exc:
-            logger.warning(f"Piper TTS error: {exc}")
+            logger.warning(f"Piper TTS error: {exc}", exc_info=True)
 
         # Fallback tone
         duration = max(1.0, len(text) * 0.08)

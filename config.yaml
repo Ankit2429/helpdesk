@@ -26,14 +26,15 @@ memory:
   max_context_words: 1500
 
 ollama:
-  base_url: "http://localhost:11434"
-  model: "nemotron-3-super:cloud"
+  base_url: "http://127.0.0.1:11434"
+  model: "qwen2.5:3b"
   timeout_seconds: 180.0
   temperature: 0.0
   top_p: 0.8
   top_k: 40
   context_window: 2048
   max_output_tokens: 512
+  num_threads: 4
 
 embedding:
   model: "sentence-transformers/all-MiniLM-L6-v2"

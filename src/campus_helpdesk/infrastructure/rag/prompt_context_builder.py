@@ -13,14 +13,14 @@ logger = logging.getLogger(__name__)
 class PromptContextBuilder:
     """Formats retrieved KnowledgeDocument chunks into structured prompt context with citations."""
 
-    def __init__(self, max_context_size: Any = 7000, similarity_threshold: float = 2.0) -> None:
+    def __init__(self, max_context_size: Any = 7000, similarity_threshold: float = 999.0) -> None:
         """Initialize the PromptContextBuilder."""
         if hasattr(max_context_size, "max_context_size"):
             self.max_context_size = getattr(max_context_size, "max_context_size", 7000)
-            self.similarity_threshold = getattr(max_context_size, "similarity_threshold", 2.0)
+            self.similarity_threshold = getattr(max_context_size, "similarity_threshold", 999.0)
         elif hasattr(max_context_size, "__dict__"):
             self.max_context_size = getattr(max_context_size, "max_context_chars", getattr(max_context_size, "max_context_length", 7000))
-            self.similarity_threshold = getattr(max_context_size, "similarity_threshold", 2.0)
+            self.similarity_threshold = getattr(max_context_size, "similarity_threshold", 999.0)
         else:
             try:
                 self.max_context_size = int(max_context_size)
@@ -29,7 +29,7 @@ class PromptContextBuilder:
             try:
                 self.similarity_threshold = float(similarity_threshold)
             except (ValueError, TypeError):
-                self.similarity_threshold = 2.0
+                self.similarity_threshold = 999.0
 
     def build_context(
         self,
