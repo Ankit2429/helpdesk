@@ -1,0 +1,206 @@
+{
+  "folder": "src/campus_helpdesk/infrastructure/llm/",
+  "title": "Infrastructure: LLM adapters & routing",
+  "purpose": "This subsystem implements the application-layer language-model boundary with two interchangeable backends: a local offline Ollama service (the primary, offline-first path) and an optional cloud Gemini/OpenRouter service, plus a GenerationRouter that picks between them based on connectivity and a feature flag. A ConnectivityChecker provides TTL-cached reachability probes and create_llm_service() acts as the composition root, wiring everything from Settings. The system stays offline-first by design: cloud routing is disabled by default (enable_cloud_llm_router=False) and local Ollama is the always-available fallback for generation and streaming.",
+  "files": [
+    {
+      "path": "src/campus_helpdesk/infrastructure/llm/__init__.py",
+      "purpose": "Package marker for the local language-model adapters; contains only the module docstring \"Local language model adapters.\"",
+      "key_symbols": [],
+      "terms": [],
+      "config": [],
+      "notes": "No symbols are defined. Purely a package marker; the package name misleadingly says \"local\" even though it also hosts the cloud LLM service, router, and connectivity checker."
+    },
+    {
+      "path": "src/campus_helpdesk/infrastructure/llm/cloud_llm_service.py",
+      "purpose": "Cloud-hosted LLM backend (Google Gemini and OpenRouter/OpenAI-compatible endpoints) that implements the LLMService protocol via raw urllib REST calls, including SSE token streaming.",
+      "key_symbols": [
+        "class CloudLLMService(LLMService)",
+        "CloudLLMService.generate(prompt) -> str",
+        "CloudLLMService.generate_stream(prompt) -> Iterator[str]",
+        "_generate_gemini / _generate_openrouter",
+        "_generate_stream_gemini / _generate_stream_openrouter",
+        "_extract_gemini_text / _extract_openrouter_text",
+        "module logger"
+      ],
+      "terms": [
+        {
+          "term": "provider",
+          "definition": "String selecting which cloud backend to call; supports \"gemini\" (Gemini generateContent REST) and \"openrouter\"/\"openai\" (OpenRouter OpenAI-compatible chat completions), with any other value raising CloudLLMServiceError."
+        },
+        {
+          "term": "SSE (Server-Sent Events)",
+          "definition": "Streaming wire format consumed by reading \"data: \" prefixed lines from the HTTP response body until a \"[DONE]\" sentinel is seen; each data frame is parsed as JSON and its text yielded as a token chunk."
+        },
+        {
+          "term": "CloudLLMServiceError",
+          "definition": "Exception raised for a missing API key, network timeout, HTTP/URL error, or malformed JSON response; subclasses LLMServiceError (a TransientError) from campus_helpdesk.application.exceptions."
+        }
+      ],
+      "config": [
+        "cloud_llm_api_key (aliases: CLOUD_LLM_API_KEY, OPENROUTER_API_KEY, GEMINI_API_KEY)",
+        "cloud_llm_model (settings default \"nvidia/nemotron-3-ultra-550b-a55b:free\"; class default \"gemini-1.5-flash\" when constructed without settings)",
+        "cloud_llm_provider (settings default \"openrouter\"; class default \"gemini\")",
+        "cloud_llm_timeout_seconds (settings default 25.0; class default 10.0)"
+      ],
+      "notes": "No third-party SDK; uses urllib.request directly. Every request hardcodes temperature=0.2 and max 512 output tokens. OpenRouter requests hardcode HTTP-Referer to the project GitHub repo and X-Title \"Campus Helpdesk\" (OpenRouter attribution headers). Class defaults for model/provider differ from Settings defaults, so behavior depends on whether it is constructed with settings (factory path) or directly. SSE parsing silently skips malformed data frames. CloudLLMServiceError subclasses TransientError so retries upstream are theoretically allowed, but no retry exists here. Effectively dormant in default production config because the router is disabled."
+    },
+    {
+      "path": "src/campus_helpdesk/infrastructure/llm/connectivity_checker.py",
+      "purpose": "TTL-cached internet/endpoint reachability probe using lightweight HTTP HEAD requests, letting the GenerationRouter decide online vs offline without hammering the network on every call.",
+      "key_symbols": [
+        "class ConnectivityChecker",
+        "is_online(force_recheck: bool = False) -> bool",
+        "is_cloud_endpoint_reachable(endpoint_url: str | None = None, force_recheck: bool = False) -> bool",
+        "_ping_url(url: str, timeout: float) -> bool"
+      ],
+      "terms": [
+        {
+          "term": "TTL cache",
+          "definition": "Results of the last connectivity/endpoint probe are stored with a timestamp and reused until cache_ttl_seconds elapses (default 15s), avoiding a network round-trip on every is_online()/is_cloud_endpoint_reachable() call."
+        },
+        {
+          "term": "online check",
+          "definition": "A HEAD request to a public endpoint (default https://1.1.1.1) with a 1.5s timeout; any response status below 500 means the network and server are reachable."
+        }
+      ],
+      "config": [
+        "connectivity_check_url (default https://1.1.1.1)",
+        "connectivity_check_timeout_seconds (default 1.5)",
+        "connectivity_check_cache_seconds (default 15.0)"
+      ],
+      "notes": "_ping_url treats 3xx/4xx responses as reachable (e.code < 500) and swallows a broad exception tuple (URLError, TimeoutError, OSError, Exception). is_cloud_endpoint_reachable returns False for an empty URL. Uses plain instance attributes for caching (no lock), which is fine for the current synchronous single-threaded router but not thread-safe in general. Only consumed by GenerationRouter and the factory."
+    },
+    {
+      "path": "src/campus_helpdesk/infrastructure/llm/factory.py",
+      "purpose": "Composition root that builds the full LLM stack (OllamaLLMService + optional CloudLLMService + ConnectivityChecker) wrapped in a GenerationRouter, driven entirely by Settings.",
+      "key_symbols": [
+        "create_llm_service(settings: Settings) -> LLMService"
+      ],
+      "terms": [
+        {
+          "term": "composition root / factory",
+          "definition": "The single wiring point that constructs concrete LLM backends and the router from Settings, returning them behind the application-layer LLMService protocol."
+        },
+        {
+          "term": "offline LLM model",
+          "definition": "The local Ollama model tag used for offline generation; prefers settings.offline_llm_model and falls back to settings.ollama_model via getattr(settings, \"offline_llm_model\", settings.ollama_model)."
+        }
+      ],
+      "config": [
+        "offline_llm_model (aliases: OFFLINE_LLM_MODEL, LOCAL_LLM_MODEL, OLLAMA_MODEL)",
+        "ollama_model (alias OLLAMA_MODEL)",
+        "ollama_base_url",
+        "ollama_timeout_seconds",
+        "ollama_options (Settings property assembling temperature, top_p, top_k, repeat_penalty, num_ctx, num_predict, num_thread)",
+        "cloud_llm_api_key",
+        "enable_cloud_llm_router"
+      ],
+      "notes": "CloudLLMService is only constructed when cloud_llm_api_key is non-empty, and any exception during its construction is swallowed (logged as a warning) so the router continues local-only. Called from main.py create_app(), robot_main.py, touch_app.py, and demo.py. The getattr(settings, \"offline_llm_model\", ...) call is defensive but offline_llm_model always exists on Settings, so it effectively resolves to offline_llm_model."
+    },
+    {
+      "path": "src/campus_helpdesk/infrastructure/llm/generation_router.py",
+      "purpose": "Routes generation and streaming requests to the cloud LLM when the router is enabled and connectivity is online, and to the local LLM on offline/error, operating as a zero-overhead local passthrough when disabled.",
+      "key_symbols": [
+        "class GenerationRouter(LLMService)",
+        "GenerationRouter.generate(prompt) -> str",
+        "GenerationRouter.generate_stream(prompt) -> Iterator[str]",
+        "instance attr: last_used_backend"
+      ],
+      "terms": [
+        {
+          "term": "last_used_backend",
+          "definition": "A string tag recording which backend served the last request (e.g. \"CLOUD (GEMINI - gemini-1.5-flash)\", \"LOCAL (Offline Detected)\", \"LOCAL (Router Disabled / Cloud Unconfigured)\", or a LOCAL fallback string that includes the cloud error class)."
+        },
+        {
+          "term": "fallback",
+          "definition": "When the cloud service raises (or is offline), the router silently retries the same prompt through the local Ollama service; observable only via last_used_backend and logs."
+        }
+      ],
+      "config": [
+        "enable_cloud_llm_router (mirrored as constructor arg enable_router)"
+      ],
+      "notes": "When enable_router is False (the Settings default) or cloud_llm_service is None, both generate and generate_stream short-circuit to the local service, making the cloud path and connectivity probes dead code in default production config. last_used_backend is a single mutable attribute written on every call (last write wins) and is not thread-safe, though calls are synchronous. The streaming path mirrors the non-streaming logic: cloud first, local fallback on exception. Connectivity is checked via checker.is_online() on every routed request, gated by the TTL cache."
+    },
+    {
+      "path": "src/campus_helpdesk/infrastructure/llm/ollama_service.py",
+      "purpose": "Local Ollama adapter implementing the LLMService boundary; delegates to the legacy core LLMService (root-level services/llm_service.py wrapping the official ollama SDK) or to an injected duck-typed OllamaClient, and validates the base URL scheme.",
+      "key_symbols": [
+        "class OllamaLLMService",
+        "class OllamaClient(Protocol)",
+        "class OllamaMessage(Protocol)",
+        "class OllamaChatResponse(Protocol)",
+        "OllamaLLMService.generate(prompt) -> str",
+        "OllamaLLMService.generate_stream(prompt) -> Iterator[str]",
+        "static OllamaLLMService._validate_base_url(base_url)"
+      ],
+      "terms": [
+        {
+          "term": "OllamaClient protocol",
+          "definition": "A structural subset of the ollama SDK client (list() and chat(model=..., messages=..., options=..., stream=...)) used so an injected mock or custom client can substitute for the real one without a hard dependency."
+        },
+        {
+          "term": "generation_options",
+          "definition": "Ollama runtime parameters (temperature, num_predict, num_ctx, top_p, top_k, repeat_penalty, num_thread) forwarded to the chat API; temperature and num_predict are also unpacked into the core service constructor, defaulting to 0.2 and 512."
+        },
+        {
+          "term": "num_gpu",
+          "definition": "Ollama option forced to 0 (CPU inference) via opts.setdefault(\"num_gpu\", 0) on the injected-client path only."
+        }
+      ],
+      "config": [
+        "No direct settings reads; configured by factory.py with ollama_base_url, offline/ollama model, ollama_timeout_seconds, and the ollama_options property"
+      ],
+      "notes": "Import chain is fragile: it tries `from campus_helpdesk.services.llm_service import LLMService as CoreLLMService` and, on ImportError, falls back to bare `services.llm_service`. The resulting CoreLLMService is the legacy root-level module (wraps ollama.Client with retries and a response cache); the layered stack therefore depends on legacy code. num_gpu=0 is hardcoded on the injected-client path. _validate_base_url raises ConfigurationError (a FatalError subclass) for non-http(s) URLs. Known risk from CLAUDE.md: the legacy CoreLLMService.generate_stream retry wrapper never executes the generator body, so streaming has no effective retry. When a custom client is injected, the core service's retry/availability logic is bypassed entirely."
+    },
+    {
+      "path": "src/campus_helpdesk/services/llm_service.py",
+      "purpose": "Re-export shim bridging the layered package to the legacy root-level services/llm_service.LLMService, falling back to the application-layer Protocol if that import fails.",
+      "key_symbols": [
+        "__all__ = [\"LLMService\"]",
+        "sys.path insertion at import time"
+      ],
+      "terms": [
+        {
+          "term": "re-export shim / adapter",
+          "definition": "A thin module that imports LLMService from the legacy root-level services.llm_service module and re-exposes it under the campus_helpdesk.services namespace so layered code imports a single name."
+        }
+      ],
+      "config": [],
+      "notes": "Mutates sys.path at import time by inserting the repo root (Path(__file__).resolve().parents[3]) so bare `services.llm_service` resolves to the top-level legacy package. If that import fails, it silently falls back to the campus_helpdesk.application.llm_service Protocol, meaning callers could receive structurally different classes depending on import success. This is a legacy-bridge file; the root-level services/llm_service.py it re-exports is legacy/dead code per CLAUDE.md."
+    },
+    {
+      "path": "src/campus_helpdesk/application/llm_service.py",
+      "purpose": "Application-layer Protocol boundary describing any language-model backend: a complete generate() call and a streaming generate_stream() that yields tokens.",
+      "key_symbols": [
+        "class LLMService(Protocol)",
+        "LLMService.generate(prompt: str) -> str",
+        "LLMService.generate_stream(prompt: str) -> Iterator[str]"
+      ],
+      "terms": [
+        {
+          "term": "Protocol",
+          "definition": "A structural typing contract (typing.Protocol): any class exposing generate(prompt)->str and generate_stream(prompt)->Iterator[str] satisfies LLMService without inheriting from it, letting the app layer depend on the interface rather than concrete backends."
+        }
+      ],
+      "config": [],
+      "notes": "This is the seam every infrastructure LLM adapter satisfies: OllamaLLMService, CloudLLMService, and GenerationRouter all implement it, and RAGChatService depends only on this protocol. No runtime behavior here; it is a pure type-level boundary."
+    }
+  ],
+  "data_flow": "main.py create_app() calls create_llm_service(settings) and injects the resulting GenerationRouter (typed as application.llm_service.LLMService) into RAGChatService. During /chat, RAGChatService invokes generate(prompt)/generate_stream(prompt) with a prompt string (no chat history or RAG context crosses this layer). GenerationRouter then either short-circuits to OllamaLLMService when the router is disabled or cloud is unconfigured, or consults ConnectivityChecker.is_online(): if online it tries CloudLLMService.generate (Gemini/OpenRouter REST or SSE stream) and on any exception or offline status falls back to OllamaLLMService.generate, recording the choice in last_used_backend. OllamaLLMService forwards to the legacy root-level services/llm_service.LLMService (official ollama SDK client with retries and response cache) or to an injected OllamaClient. The same factory is also used by robot_main.py, touch_app.py, and demo.py. Output is a response string or an iterator of token chunks.",
+  "external_deps": [
+    "urllib.request / urllib.error (stdlib) — raw REST and SSE calls to cloud APIs and connectivity probes; no third-party cloud SDK",
+    "ollama (official Python SDK) — used transitively by the legacy root-level services/llm_service.py; not imported directly by this folder (OllamaLLMService duck-types the client)",
+    "Google Gemini API — generativelanguage.googleapis.com generateContent and streamGenerateContent endpoints",
+    "OpenRouter API — openrouter.ai/api/v1/chat/completions OpenAI-compatible endpoint"
+  ],
+  "risks": [
+    "Cloud routing is disabled by default (enable_cloud_llm_router=False), so CloudLLMService and ConnectivityChecker are effectively dormant in production config; only local Ollama runs unless explicitly enabled.",
+    "Known risk (documented in CLAUDE.md): the legacy CoreLLMService.generate_stream retry wrapper never executes the generator body, so streaming generation has no retry.",
+    "The layered stack depends on legacy code: OllamaLLMService delegates to the root-level services/llm_service.py, reached through a re-export shim (campus_helpdesk/services/llm_service.py) that mutates sys.path at import time and silently swaps in a different class (the application Protocol) if the legacy import fails.",
+    "Hardcoded generation parameters in the cloud service (temperature 0.2, 512 max tokens) and num_gpu=0 forced on the injected-client path, reducing configurability.",
+    "GenerationRouter.last_used_backend is a mutable single attribute written on every call and is not thread-safe; malformed SSE frames during cloud streaming are silently swallowed.",
+    "Cloud requests embed the GitHub repo URL as HTTP-Referer (OpenRouter attribution) and the API key in the query string for Gemini requests; the API key also appears in plaintext configuration and logs on init failures.",
+    "CloudLLMService default model/provider differ between the class (gemini-1.5-flash) and Settings (openrouter / nvidia/nemotron-3-ultra-550b-a55b:free), so behavior depends on the construction path used."
+  ]
+}

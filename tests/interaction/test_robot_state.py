@@ -124,9 +124,13 @@ class TestTransitions:
         [
             (RobotState.BOOTING, RobotState.LISTENING),
             (RobotState.INITIALIZING, RobotState.SPEAKING),
-            (RobotState.IDLE, RobotState.PROCESSING),
+            # Note: IDLE → PROCESSING is intentionally VALID (direct transcript handling path).
+            # The following are still invalid from IDLE:
+            (RobotState.IDLE, RobotState.SPEAKING),
             (RobotState.READY, RobotState.INITIALIZING),
-            (RobotState.SPEAKING, RobotState.LISTENING),
+            # Note: SPEAKING → LISTENING is intentionally VALID (barge-in path).
+            # The following are still invalid:
+            (RobotState.SPEAKING, RobotState.PROCESSING),
             (RobotState.SHUTDOWN, RobotState.BOOTING),
             (RobotState.SHUTDOWN, RobotState.READY),
         ],
@@ -139,6 +143,18 @@ class TestTransitions:
             fsm.transition_to(to_state)
         assert exc_info.value.from_state is from_state
         assert exc_info.value.to_state is to_state
+
+    def test_speaking_to_listening_is_valid_for_barge_in(self) -> None:
+        """SPEAKING → LISTENING must be a VALID transition for barge-in support.
+
+        This transition was intentionally added so that InteractionManager can
+        interrupt TTS playback and switch to LISTENING when the user speaks
+        while the assistant is talking (barge-in).
+        """
+        fsm = RobotStateMachine(initial_state=RobotState.SPEAKING)
+        # Must NOT raise — barge-in transition is valid
+        fsm.transition_to(RobotState.LISTENING, reason="Barge-in test")
+        assert fsm.state == RobotState.LISTENING
 
     @pytest.mark.parametrize(
         "start_state",

@@ -60,6 +60,17 @@ class NonBlockingTTSService:
         self._worker_thread = threading.Thread(target=self._speech_loop, daemon=True)
         self._worker_thread.start()
 
+        # Warm-up Piper
+        logger.info("Warming up Piper TTS model (NonBlocking)...")
+        try:
+            voice = self._load_piper_voice(self._default_voice_model)
+            if voice is not None:
+                for _ in voice.synthesize("."):
+                    pass
+            logger.info("Piper TTS model (NonBlocking) warmed up successfully.")
+        except Exception as e:
+            logger.warning("Failed to warm up Piper TTS model: %s", e)
+
     def _load_piper_voice(self, model_name: str):
         """Attempt to load a configured Piper ONNX voice model from disk with caching."""
         if model_name in self._piper_voices:
@@ -89,13 +100,22 @@ class NonBlockingTTSService:
     def _speak_piper(self, voice, text: str) -> None:
         """Synthesize with Piper and stream audio out directly to persistent PyAudio stream."""
         import pyaudio
+        import time
 
         if not hasattr(self, "_pa") or self._pa is None:
             self._pa = pyaudio.PyAudio()
             self._pa_stream = None
 
+        t_start = time.perf_counter()
+        first_chunk = True
+
         try:
             for chunk in voice.synthesize(text):
+                if first_chunk:
+                    tts_start_time = time.perf_counter()
+                    logger.info("[LATENCY-PROFILER] TTS start: %.2f ms", (tts_start_time - t_start) * 1000)
+                    first_chunk = False
+                
                 if self._pa_stream is None:
                     self._pa_stream = self._pa.open(
                         format=self._pa.get_format_from_width(chunk.sample_width),
@@ -108,6 +128,9 @@ class NonBlockingTTSService:
                 self._pa_stream.write(chunk.audio_int16_bytes)
         except Exception as err:
             logger.error(f"Piper audio stream error: {err}", exc_info=True)
+            
+        elapsed = time.perf_counter() - t_start
+        logger.info("[LATENCY-PROFILER] TTS completion: %.2f ms", elapsed * 1000)
 
     def _get_pyttsx3_engine(self):
         if self._pyttsx3_engine is None:

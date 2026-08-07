@@ -76,7 +76,6 @@ def runtime() -> SystemRuntime:
         event_bus=bus,
         camera=cam,
         vision=vis,
-        vad=vad,
         stt=stt,
         inference=inference,
         tts=tts,
@@ -94,8 +93,6 @@ class TestFullConversation:
     def test_normal_conversation_happy_path(self, runtime: SystemRuntime) -> None:
         # Start integrated runtime
         runtime.start()
-        # Stop VAD background loop to allow manual event injection
-        runtime.vad.stop()
         bus = runtime.bus
 
         # Assert initial state
@@ -174,8 +171,6 @@ class TestFullConversation:
 
     def test_unknown_question_fallback(self, runtime: SystemRuntime) -> None:
         runtime.start()
-        # Stop VAD background loop to allow manual event injection
-        runtime.vad.stop()
         bus = runtime.bus
 
         session_id = "session-e2e-2"

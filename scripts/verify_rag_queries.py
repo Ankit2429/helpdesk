@@ -13,13 +13,9 @@ Executes the 10 mandatory verification queries against RAGChatService and output
 
 import sys
 import json
-import logging
-from typing import List, Dict, Any
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-from campus_helpdesk.config.settings import get_settings
-from campus_helpdesk.config.logging import configure_logging
 from campus_helpdesk.touch_app import build_chat_service
 
 TEST_QUERIES = [

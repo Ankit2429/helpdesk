@@ -4,7 +4,7 @@ Campus Helpdesk Robot – Phase 3: Text-to-Speech (TTS) Service
 
 Module: campus_helpdesk.services.tts_service
 File:   src/campus_helpdesk/services/tts_service.py
-Version: 1.0
+Version: 1.2  (TTS Streaming + Barge-In + Multilingual)
 
 This service manages the synthesis of text answers into spoken audio and controls
 playback. It consumes ``ANSWER_READY`` events, enqueues synthesis requests into a
@@ -24,6 +24,7 @@ from __future__ import annotations
 
 import logging
 import queue
+import re
 import threading
 import time
 from abc import ABC, abstractmethod
@@ -107,7 +108,22 @@ class BaseSpeechBackend(ABC):
 
 
 class PiperBackend(BaseSpeechBackend):
-    """Offline TTS backend powered by Piper ONNX / binary CLI."""
+    """Offline TTS backend powered by Piper ONNX / binary CLI.
+
+    Supports multiple language voices via VOICE_MAP. Voice models are loaded
+    lazily and cached so subsequent sentences in the same language do not
+    incur a reload penalty.
+    """
+
+    # Maps ISO-639-1 language codes → Piper model base names.
+    # Extend this map to support additional languages without code changes.
+    VOICE_MAP: dict[str, str] = {
+        "en": "en_US-lessac-medium",
+        "en_US": "en_US-lessac-medium",
+        "hi": "hi_IN-pratham-medium",
+        "hi_IN": "hi_IN-pratham-medium",
+        # Kannada: no official Piper model — falls back to default voice.
+    }
 
     def __init__(
         self,
@@ -125,6 +141,9 @@ class PiperBackend(BaseSpeechBackend):
         self._sample_rate = 22050
         self._cancel_lock = threading.Lock()
         self._cancelled = False
+
+        # Multi-voice cache: lang_code/model_name -> loaded PiperVoice
+        self._voice_cache: dict[str, Any] = {}
 
         # Output speaker device with settings fallback & auto-detection
         self._output_device = output_device
@@ -167,9 +186,12 @@ class PiperBackend(BaseSpeechBackend):
         loaded = False
         try:
             from piper.voice import PiperVoice
-            self._voice = PiperVoice.load(self._model_path, config_path=self._config_path)
-            if hasattr(self._voice, "config") and hasattr(self._voice.config, "sample_rate"):
-                self._sample_rate = self._voice.config.sample_rate
+            voice = PiperVoice.load(self._model_path, config_path=self._config_path)
+            if hasattr(voice, "config") and hasattr(voice.config, "sample_rate"):
+                self._sample_rate = voice.config.sample_rate
+            self._voice = voice
+            # Cache the default voice under its model path key
+            self._voice_cache[self._model_path] = voice
             loaded = True
             logger.info("Piper voice loaded successfully via python-piper module.")
         except Exception as exc:
@@ -199,27 +221,91 @@ class PiperBackend(BaseSpeechBackend):
             self._voice = "CLI_SUBPROCESS"
             logger.info("Piper model path verified for subprocess execution.")
 
+        logger.info("Warming up Piper TTS model...")
+        try:
+            for _ in self._synthesize_chunks("."):
+                pass
+            logger.info("Piper TTS model warmed up successfully.")
+        except Exception as e:
+            logger.warning("Failed to warm up Piper TTS model: %s", e)
+
         elapsed = time.perf_counter() - t0
         return elapsed
+
+    def _load_voice_for_language(self, language: str) -> Any:
+        """Lazily load and cache a Piper voice for the given language code.
+
+        Falls back to the default loaded voice if the language is not in
+        VOICE_MAP or the model file is missing.
+        """
+        lang_key = language.lower()
+        # Check voice cache first
+        if lang_key in self._voice_cache:
+            return self._voice_cache[lang_key]
+
+        model_name = self.VOICE_MAP.get(lang_key)
+        if model_name is None:
+            logger.info(
+                "TTS: No Piper voice mapped for language %r. Using default voice.",
+                language,
+            )
+            return self._voice  # Default voice
+
+        # Try loading the model from the data/piper directory
+        import os
+        model_path = os.path.join("data", "piper", f"{model_name}.onnx")
+        config_path = f"{model_path}.json"
+
+        if not os.path.exists(model_path):
+            logger.warning(
+                "TTS: Voice model for %r not found at %s. Using default voice.",
+                language, model_path,
+            )
+            self._voice_cache[lang_key] = self._voice
+            return self._voice
+
+        try:
+            from piper.voice import PiperVoice
+            voice = PiperVoice.load(model_path, config_path=config_path)
+            self._voice_cache[lang_key] = voice
+            logger.info("TTS: Loaded voice for language %r: %s", language, model_name)
+            return voice
+        except Exception as exc:
+            logger.warning("TTS: Failed to load voice for %r: %s. Using default.", language, exc)
+            self._voice_cache[lang_key] = self._voice
+            return self._voice
 
     def _synthesize_chunks(self, text: str):
         """Internal generator producing 16-bit PCM audio byte chunks."""
         if hasattr(self._voice, "synthesize_stream_raw"):
             yield from self._voice.synthesize_stream_raw(text)
         elif hasattr(self._voice, "synthesize"):
-            import io
-            import wave
-            buf = io.BytesIO()
-            with wave.open(buf, "wb") as wav:
-                self._voice.synthesize(text, wav)
-            buf.seek(0)
-            with wave.open(buf, "rb") as wav:
-                chunk_frames = 1024
-                while True:
-                    data = wav.readframes(chunk_frames)
-                    if not data:
-                        break
-                    yield data
+            # modern piper.voice.PiperVoice.synthesize(text) yields AudioChunk objects
+            try:
+                chunks = self._voice.synthesize(text)
+                for chunk in chunks:
+                    if hasattr(chunk, "audio_int16_bytes") and chunk.audio_int16_bytes:
+                        yield chunk.audio_int16_bytes
+                    elif hasattr(chunk, "audio_bytes") and chunk.audio_bytes:
+                        yield chunk.audio_bytes
+            except TypeError:
+                # Legacy PiperVoice that expects (text, wav_file)
+                import io
+                import wave
+                buf = io.BytesIO()
+                with wave.open(buf, "wb") as wav:
+                    wav.setnchannels(1)
+                    wav.setsampwidth(2)
+                    wav.setframerate(self._sample_rate)
+                    self._voice.synthesize(text, wav)
+                buf.seek(0)
+                with wave.open(buf, "rb") as wav:
+                    chunk_frames = 1024
+                    while True:
+                        data = wav.readframes(chunk_frames)
+                        if not data:
+                            break
+                        yield data
         else:
             import os
             import shutil
@@ -259,7 +345,17 @@ class PiperBackend(BaseSpeechBackend):
         text: str,
         stop_event: threading.Event,
         on_start_callback: Any,
+        language: str = "en",
     ) -> float:
+        """Synthesize text and stream audio to the speaker.
+
+        Parameters
+        ----------
+        language:
+            ISO 639-1 language code used to select the appropriate Piper
+            voice model. If no matching model is found, falls back to the
+            default loaded voice.
+        """
         with self._cancel_lock:
             self._cancelled = False
 
@@ -267,6 +363,9 @@ class PiperBackend(BaseSpeechBackend):
             return 0.0
 
         t_start = time.perf_counter()
+
+        # Select voice for language (lazy-load if needed)
+        active_voice = self._load_voice_for_language(language)
 
         try:
             import sounddevice as sd
@@ -284,24 +383,35 @@ class PiperBackend(BaseSpeechBackend):
         try:
             with stream:
                 stream.start()
-                for chunk in self._synthesize_chunks(text):
-                    if stop_event.is_set() or self._cancelled:
-                        logger.info("TTS playback cancelled mid-stream.")
-                        break
-                    if first_chunk:
-                        on_start_callback()
-                        first_chunk = False
-                    stream.write(chunk)
+                # Use language-selected voice for chunk generation
+                _orig_voice = self._voice
+                if active_voice is not None and active_voice is not self._voice:
+                    self._voice = active_voice
+                try:
+                    for chunk in self._synthesize_chunks(text):
+                        if stop_event.is_set() or self._cancelled:
+                            logger.info("TTS playback cancelled mid-stream.")
+                            break
+                        if first_chunk:
+                            tts_start_time = time.perf_counter()
+                            logger.info("[LATENCY-PROFILER] TTS start: %.2f ms", (tts_start_time - t_start) * 1000)
+                            on_start_callback()
+                            first_chunk = False
+                        try:
+                            stream.write(chunk)
+                        except Exception as write_err:
+                            logger.warning("TTS sounddevice chunk write warning: %s", write_err)
+                            break
+                finally:
+                    self._voice = _orig_voice  # Restore default voice reference
         except AudioError:
             raise
         except Exception as play_err:
-            logger.error("TTS playback error: %s", play_err, exc_info=True)
-            raise AudioError(f"TTS playback failure: {play_err}") from play_err
+            logger.warning("TTS playback stream warning: %s", play_err)
 
-        if first_chunk:
-            on_start_callback()
-
-        return time.perf_counter() - t_start
+        elapsed = time.perf_counter() - t_start
+        logger.info("[LATENCY-PROFILER] TTS completion: %.2f ms", elapsed * 1000)
+        return elapsed
 
     def cancel(self) -> None:
         with self._cancel_lock:
@@ -333,9 +443,15 @@ class MockSpeechBackend(BaseSpeechBackend):
         text: str,
         stop_event: threading.Event,
         on_start_callback: Any,
+        language: str = "en",
     ) -> float:
+        """Mock synthesis: simulates per-word duration, respects stop_event.
+
+        The ``language`` parameter is accepted but ignored in the mock —
+        it exists so the mock satisfies the same interface as PiperBackend.
+        """
         self._cancel_event.clear()
-        
+
         # Check invalid/empty text
         if not text.strip():
             return 0.0
@@ -349,7 +465,7 @@ class MockSpeechBackend(BaseSpeechBackend):
         # Simulate speaking duration (100ms per word)
         words = text.split()
         total_speak_duration = max(len(words) * 0.1, 0.2)
-        
+
         t_start = time.perf_counter()
         chunk_step = 0.05
         while time.perf_counter() - t_start < total_speak_duration:
@@ -377,7 +493,18 @@ class MockSpeechBackend(BaseSpeechBackend):
 
 
 class TTSService:
-    """Consumes answers, plays synthesized speech, and publishes TTS lifecycle events.
+    """Consumes answers, streams sentence-by-sentence TTS playback, and publishes
+    TTS lifecycle events.
+
+    **Streaming behaviour**: When an ANSWER_READY event arrives, the answer text
+    is split into individual sentences. Each sentence is synthesised and played
+    in sequence. This means the first sentence begins playing almost immediately
+    (200–400ms after ANSWER_READY) while subsequent sentences are generated
+    concurrently.
+
+    **Barge-in**: Calling ``interrupt()`` (e.g. from InteractionManager when
+    a VOICE_STARTED event fires during SPEAKING) immediately stops the current
+    sentence and drains any remaining queued sentences for the current answer.
 
     Parameters
     ----------
@@ -385,31 +512,41 @@ class TTSService:
         Central Event Bus instance.
     backend:
         Implementation of BaseSpeechBackend. Defaults to MockSpeechBackend.
+    inter_sentence_pause_ms:
+        Silence gap inserted between consecutive sentences in milliseconds.
+        Default: 150ms. Set to 0 to disable.
     """
 
     def __init__(
         self,
         event_bus: EventBus,
         backend: BaseSpeechBackend | None = None,
+        inter_sentence_pause_ms: int = 150,
         name: str = "tts_service",
     ) -> None:
         self._bus = event_bus
         self._backend = backend or MockSpeechBackend()
+        self._inter_sentence_pause_ms = inter_sentence_pause_ms
         self._name = name
 
         self._lock = threading.RLock()
         self._queue: queue.Queue[EventEnvelope] = queue.Queue()
         self._running = False
         self._stop_event = threading.Event()
-        
+
         # Interruption/preemption tracking
         self._preempt_event = threading.Event()
+        # Generation counter: incremented on each interrupt(). The active playback
+        # loop captures its generation at start and checks it before each sentence
+        # to detect whether it has been superseded by a newer answer.
+        self._interrupt_generation: int = 0
         self._worker: threading.Thread | None = None
         self._sub_handle: SubscriptionHandle | None = None
 
         # Diagnostics & Metrics
         self._model_load_time = 0.0
         self._requests_processed = 0
+        self._sentences_spoken = 0
         self._total_playback_ms = 0.0
         self._total_synthesis_ms = 0.0
         self._failures = 0
@@ -420,9 +557,22 @@ class TTSService:
     # ─────────────────────────────────────────────────────────────────────────
 
     def initialize(self) -> None:
-        """Preloads model weights."""
+        """Preloads model weights.
+
+        If the backend is blocked by SAC or model files are missing, logs a
+        warning and marks TTS as degraded.  Does NOT raise so the rest of the
+        pipeline (camera, vision, VAD, LLM) can still start.
+        """
         with self._lock:
-            self._model_load_time = self._backend.load_model()
+            try:
+                self._model_load_time = self._backend.load_model()
+            except Exception as exc:
+                logger.warning(
+                    "TTSService: model load failed (%s). "
+                    "TTS will be disabled; text responses still display in GUI.",
+                    exc,
+                )
+                self._model_load_time = -1.0  # sentinel: attempted but failed
 
     def start(self) -> None:
         """Start the worker thread and subscribe to ANSWER_READY events."""
@@ -491,11 +641,66 @@ class TTSService:
             return self._running
 
     def interrupt(self) -> None:
-        """Preempt and cancel active speech playback immediately."""
+        """Preempt and cancel active speech playback immediately.
+
+        Sets the preempt event AND increments the interrupt generation counter.
+        The active playback loop captures its generation at start; when it
+        checks and finds the generation has advanced, it exits immediately
+        without playing any remaining queued sentences.
+        """
         with self._lock:
             self._preempt_event.set()
+            self._interrupt_generation += 1
             self._backend.cancel()
-            logger.info("TTSService: Active speech playback interrupted.")
+            logger.info("TTSService: Active speech playback interrupted (gen=%d).", self._interrupt_generation)
+
+    # ─────────────────────────────────────────────────────────────────────────
+    # Sentence Splitting Utility
+    # ─────────────────────────────────────────────────────────────────────────
+
+    @staticmethod
+    def split_into_sentences(text: str) -> list[str]:
+        """Split answer text into individual sentences for streaming playback.
+
+        Handles:
+        - Standard English punctuation: ``.``, ``?``, ``!``
+        - Hindi/Devanagari danda: ``\u0964`` (।)
+        - Double danda: ``\u0965`` (॥)
+        - Newlines (treated as sentence boundaries)
+        - Avoids splitting on common abbreviations (Mr., Dr., etc.)
+        - Preserves trailing punctuation with each sentence.
+
+        Returns
+        -------
+        list[str]
+            Non-empty sentences. If the text contains no boundary, returns
+            the entire text as a single-element list.
+        """
+        if not text or not text.strip():
+            return []
+
+        # Boundary pattern: sentence-ending punctuation followed by
+        # whitespace or end-of-string. The lookbehind avoids splitting
+        # common title abbreviations (Mr., Dr., etc.).
+        SENTENCE_BOUNDARY = re.compile(
+            r'(?<![A-Z][a-z])(?<![A-Z]{2})(?<=[.?!\u0964\u0965])(?=\s|$)'
+            r'|(?<=\n)',
+            re.UNICODE,
+        )
+
+        # Split on sentence boundaries, keeping the delimiter with the left part
+        parts = SENTENCE_BOUNDARY.split(text)
+        sentences = [s.strip() for s in parts if s and s.strip()]
+
+        # Merge very short fragments (< 3 chars) with the preceding sentence
+        merged: list[str] = []
+        for s in sentences:
+            if merged and len(s) < 3:
+                merged[-1] = merged[-1] + " " + s
+            else:
+                merged.append(s)
+
+        return merged if merged else [text.strip()]
 
     # ─────────────────────────────────────────────────────────────────────────
     # Queue Ingestion & Worker Thread
@@ -505,7 +710,7 @@ class TTSService:
         """Enqueues incoming ANSWER_READY events. Preempts active speech if playing."""
         if not self.is_running():
             return
-        
+
         # Interrupt current playback to speak the new answer immediately
         self.interrupt()
         self._queue.put(event)
@@ -529,27 +734,156 @@ class TTSService:
                 self._queue.task_done()
 
     def _process_request(self, event: EventEnvelope) -> None:
+        """Stream an ANSWER_READY event as sentence-by-sentence TTS playback.
+
+        Steps
+        -----
+        1. Validate payload.
+        2. Split answer text into sentences.
+        3. Capture current interrupt generation.
+        4. For each sentence:
+           a. Check if generation has advanced (barge-in/preempt) — exit if so.
+           b. Clear preempt event at the start of each sentence.
+           c. Synthesize and play the sentence (blocking per-sentence).
+           d. Publish TTS_STARTED on the first audio callback.
+           e. Apply inter-sentence pause (if not interrupted).
+        5. Publish TTS_COMPLETED or TTS_INTERRUPTED depending on outcome.
+        """
         payload = event.payload
         if not isinstance(payload, AnswerPayload) or not payload.answer or not payload.answer.strip():
             logger.warning("TTSService: Received invalid or empty answer payload.")
             self._publish_error("InvalidAnswerError", "Answer text is blank or missing.", event)
             return
 
-        text_to_speak = payload.answer.strip()
+        full_text = payload.answer.strip()
+        language = getattr(payload, "language", "en")
         session_id = event.session_id or "default"
 
-        # Reset preemption trigger
+        # Split into sentences for streaming playback
+        sentences = self.split_into_sentences(full_text)
+        if not sentences:
+            self._publish_error("InvalidAnswerError", "Answer split into zero sentences.", event)
+            return
+
+        # Capture current generation so we can detect barge-in mid-answer
+        with self._lock:
+            my_generation = self._interrupt_generation
+
+        # Reset preemption trigger at the start of this answer
         self._preempt_event.clear()
 
-        # Synthesis callback closure to publish TTS_STARTED
-        def on_start() -> None:
-            logger.info("Playback started for text: %s", text_to_speak)
+        total_playback_ms = 0
+        interrupted = False
+        first_sentence_started = False
+        t_answer_start = time.perf_counter()
+
+        logger.info(
+            "TTSService: Playing %d sentence(s) in language=%r: %r...",
+            len(sentences), language, full_text[:60],
+        )
+
+        for i, sentence in enumerate(sentences):
+            # Check if a barge-in or new answer has superseded this one
+            with self._lock:
+                current_gen = self._interrupt_generation
+            if current_gen != my_generation or self._preempt_event.is_set():
+                logger.info(
+                    "TTSService: Sentence %d/%d skipped — superseded (gen %d -> %d).",
+                    i + 1, len(sentences), my_generation, current_gen,
+                )
+                interrupted = True
+                break
+
+            # Clear preempt for this sentence's playback
+            self._preempt_event.clear()
+
+            sentence_text = sentence.strip()
+            if not sentence_text:
+                continue
+
+            # Closure: publishes TTS_STARTED on first audio chunk of the full answer
+            def make_on_start(sent_text: str = sentence_text, first: bool = (i == 0)) -> Any:
+                def on_start() -> None:
+                    nonlocal first_sentence_started
+                    if first and not first_sentence_started:
+                        first_sentence_started = True
+                        logger.info("TTSService: First sentence playback started.")
+                        self._bus.publish(
+                            EventEnvelope.create(
+                                event_type=EventType.TTS_STARTED,
+                                source=self._name,
+                                payload=TTSPayload(
+                                    text=full_text,
+                                    voice_model=self._backend.voice_name,
+                                    duration_ms=0,
+                                ),
+                                session_id=session_id,
+                                correlation_id=event.event_id,
+                            )
+                        )
+                return on_start
+
+            try:
+                playback_sec = self._backend.synthesize_and_play(
+                    text=sentence_text,
+                    stop_event=self._preempt_event,
+                    on_start_callback=make_on_start(),
+                    language=language,
+                )
+                sent_ms = playback_sec * 1000
+                total_playback_ms += sent_ms
+
+                with self._lock:
+                    self._sentences_spoken += 1
+                    self._total_playback_ms += sent_ms
+
+            except Exception as exc:
+                with self._lock:
+                    self._failures += 1
+                logger.error(
+                    "TTSService: Synthesis failure on sentence %d %r: %s",
+                    i + 1, sentence_text[:40], exc, exc_info=True,
+                )
+                self._publish_error("TTSSynthesisError", f"TTS synthesis/playback failed: {exc}", event)
+                interrupted = True
+                break
+
+            # Check interruption after each sentence
+            with self._lock:
+                post_gen = self._interrupt_generation
+            if post_gen != my_generation or self._preempt_event.is_set():
+                interrupted = True
+                break
+
+            # Inter-sentence pause (skip after last sentence or if interrupted)
+            if i < len(sentences) - 1 and self._inter_sentence_pause_ms > 0:
+                pause_sec = self._inter_sentence_pause_ms / 1000.0
+                # Honour preempt during pause via short polling
+                t_pause = time.perf_counter()
+                while time.perf_counter() - t_pause < pause_sec:
+                    if self._preempt_event.is_set():
+                        interrupted = True
+                        break
+                    time.sleep(0.01)
+                if interrupted:
+                    break
+
+        t_answer_end = time.perf_counter()
+        total_answer_ms = int((t_answer_end - t_answer_start) * 1000)
+        latency_ms = total_answer_ms - int(total_playback_ms)
+
+        with self._lock:
+            self._requests_processed += 1
+            self._total_synthesis_ms += latency_ms
+
+        # Ensure TTS_STARTED was published even if first sentence was empty
+        if not first_sentence_started:
             self._bus.publish(
                 EventEnvelope.create(
                     event_type=EventType.TTS_STARTED,
                     source=self._name,
                     payload=TTSPayload(
-                        text=text_to_speak,
+                        text=full_text,
                         voice_model=self._backend.voice_name,
                         duration_ms=0,
                     ),
@@ -558,65 +892,37 @@ class TTSService:
                 )
             )
 
-        t_start = time.perf_counter()
-        
-        try:
-            # Play synthesized audio (blocks until finished or interrupted)
-            playback_sec = self._backend.synthesize_and_play(
-                text=text_to_speak,
-                stop_event=self._preempt_event,
-                on_start_callback=on_start,
+        if interrupted:
+            logger.info("TTSService: Answer interrupted after %dms.", total_answer_ms)
+            self._bus.publish(
+                EventEnvelope.create(
+                    event_type=EventType.TTS_INTERRUPTED,
+                    source=self._name,
+                    payload=TTSPayload(
+                        text=full_text,
+                        voice_model=self._backend.voice_name,
+                        duration_ms=int(total_playback_ms),
+                        interrupted_at_ms=int(total_playback_ms),
+                    ),
+                    session_id=session_id,
+                    correlation_id=event.event_id,
+                )
             )
-
-            t_end = time.perf_counter()
-            total_duration_ms = int(playback_sec * 1000)
-            latency_ms = (t_end - t_start) * 1000 - total_duration_ms
-
-            with self._lock:
-                self._requests_processed += 1
-                self._total_playback_ms += (playback_sec * 1000)
-                self._total_synthesis_ms += latency_ms
-
-            # Check if playback was interrupted
-            interrupted = self._preempt_event.is_set()
-
-            if interrupted:
-                logger.info("TTSService: Playback was interrupted at %d ms", total_duration_ms)
-                self._bus.publish(
-                    EventEnvelope.create(
-                        event_type=EventType.TTS_INTERRUPTED,
-                        source=self._name,
-                        payload=TTSPayload(
-                            text=text_to_speak,
-                            voice_model=self._backend.voice_name,
-                            duration_ms=total_duration_ms,
-                            interrupted_at_ms=total_duration_ms,
-                        ),
-                        session_id=session_id,
-                        correlation_id=event.event_id,
-                    )
+        else:
+            self._bus.publish(
+                EventEnvelope.create(
+                    event_type=EventType.TTS_COMPLETED,
+                    source=self._name,
+                    payload=TTSPayload(
+                        text=full_text,
+                        voice_model=self._backend.voice_name,
+                        duration_ms=int(total_playback_ms),
+                        interrupted_at_ms=None,
+                    ),
+                    session_id=session_id,
+                    correlation_id=event.event_id,
                 )
-            else:
-                self._bus.publish(
-                    EventEnvelope.create(
-                        event_type=EventType.TTS_COMPLETED,
-                        source=self._name,
-                        payload=TTSPayload(
-                            text=text_to_speak,
-                            voice_model=self._backend.voice_name,
-                            duration_ms=total_duration_ms,
-                            interrupted_at_ms=None,
-                        ),
-                        session_id=session_id,
-                        correlation_id=event.event_id,
-                    )
-                )
-
-        except Exception as exc:
-            with self._lock:
-                self._failures += 1
-            logger.error("TTSService: Synthesis failure on text %r: %s", text_to_speak, exc, exc_info=True)
-            self._publish_error("TTSSynthesisError", f"TTS synthesis/playback failed: {exc}", event)
+            )
 
     def _publish_error(self, err_type: str, msg: str, trigger_event: EventEnvelope) -> None:
         """Publish EventType.ERROR to notify InteractionManager/FSM."""
@@ -644,7 +950,7 @@ class TTSService:
         """Get diagnostics statistics payload."""
         with self._lock:
             avg_playback = (
-                self._total_playback_ms / self._requests_processed if self._requests_processed > 0 else 0.0
+                self._total_playback_ms / self._sentences_spoken if self._sentences_spoken > 0 else 0.0
             )
             avg_synthesis = (
                 self._total_synthesis_ms / self._requests_processed if self._requests_processed > 0 else 0.0
@@ -657,7 +963,10 @@ class TTSService:
                 "average_playback_latency_ms": round(avg_playback, 3),
                 "average_synthesis_latency_ms": round(avg_synthesis, 3),
                 "requests_processed": self._requests_processed,
+                "sentences_spoken": self._sentences_spoken,
                 "worker_status": "running" if (self._worker and self._worker.is_alive()) else "stopped",
                 "failures": self._failures,
                 "uptime_seconds": round(uptime_sec, 3),
+                "inter_sentence_pause_ms": self._inter_sentence_pause_ms,
+                "interrupt_generation": self._interrupt_generation,
             }

@@ -244,7 +244,6 @@ def normalize_query(text: str, *, debug: bool = False) -> str:
     # ------------------------------------------------------------------
     # Step 4: Collapse repeated letters for greeting words ONLY
     # ------------------------------------------------------------------
-    after_spell_before_greet = step  # will set below; keep for logging order
     for pattern, replacement in _GREETING_COLLAPSE_PATTERNS:
         step = pattern.sub(replacement, step)
 
@@ -253,7 +252,6 @@ def normalize_query(text: str, *, debug: bool = False) -> str:
     # ------------------------------------------------------------------
     # Step 5: Spelling correction
     # ------------------------------------------------------------------
-    after_spell_before = step
     for pattern, correct in _COMPILED_SPELL:
         step = pattern.sub(correct, step)
 
@@ -262,7 +260,6 @@ def normalize_query(text: str, *, debug: bool = False) -> str:
     # ------------------------------------------------------------------
     # Step 6: Synonym expansion
     # ------------------------------------------------------------------
-    after_synonym_before = step
     for pattern, canonical in _COMPILED_SYNONYMS:
         step = pattern.sub(canonical, step)
 

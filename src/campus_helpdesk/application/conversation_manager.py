@@ -188,7 +188,6 @@ class ConversationManager:
     def _listening_loop(self) -> None:
         """Execute STT streaming listener, automatic language detection, and RAG/LLM invocation."""
         final_transcript = ""
-        detected_lang = "en"
 
         def _stt_callback(text: str, is_final: bool) -> None:
             nonlocal final_transcript

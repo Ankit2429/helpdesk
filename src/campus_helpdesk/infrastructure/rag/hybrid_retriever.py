@@ -26,9 +26,11 @@ class HybridRetriever:
         dense_top_k: int = 25,
         final_top_k: int = 25,
         rrf_k: int = 60,
-        weight_dense: float = 0.5,
-        weight_sparse: float = 0.5,
+        weight_dense: float = 0.75,
+        weight_sparse: float = 0.25,
         fusion_mode: str = "weighted_hybrid",
+        canonical_boost: float = 0.060,
+        duplicate_penalty: float = 0.080,
     ) -> None:
         self.similarity_store = similarity_store
         self.bm25_store = bm25_store or BM25SearchStore()
@@ -39,6 +41,8 @@ class HybridRetriever:
         self.weight_dense = weight_dense
         self.weight_sparse = weight_sparse
         self.fusion_mode = fusion_mode
+        self.canonical_boost = canonical_boost
+        self.duplicate_penalty = duplicate_penalty
         self._bm25_indexed = len(self.bm25_store._documents) > 0
 
     @property
@@ -114,22 +118,28 @@ class HybridRetriever:
         # 1. BM25 Sparse Search
         bm25_results: list[SearchResult] = []
         if self._bm25_indexed and self.weight_sparse > 0:
+            t_start_bm25 = time.perf_counter()
             try:
-                bm25_results = self.bm25_store.search(query, limit=self.bm25_top_k)
+                bm25_results = self.bm25_store.search(query, limit=min(self.bm25_top_k, target_limit))
+                logger.info("[LATENCY-PROFILER] BM25: %.2f ms", (time.perf_counter() - t_start_bm25) * 1000)
             except Exception as err:
                 logger.warning("BM25 search error: %s", err)
 
         # 2. FAISS Dense Search
         dense_results: list[SearchResult] = []
         if self.weight_dense > 0:
+            t_start_faiss = time.perf_counter()
             try:
-                dense_results = self.similarity_store.search(query, limit=self.dense_top_k)
+                dense_results = self.similarity_store.search(query, limit=min(self.dense_top_k, target_limit))
+                logger.info("[LATENCY-PROFILER] FAISS: %.2f ms", (time.perf_counter() - t_start_faiss) * 1000)
             except RetrievalError as err:
                 logger.error("FAISS dense search RetrievalError: %s", err)
                 raise
             except Exception as err:
                 logger.error("FAISS dense search unexpected error: %s", err, exc_info=True)
                 raise RetrievalError(f"FAISS dense search failed due to unexpected error: {err}") from err
+
+        t_start_rrf = time.perf_counter()
 
         # 3. Reciprocal Rank Fusion (Weighted RRF)
         rrf_scores: dict[str, float] = {}
@@ -151,6 +161,20 @@ class HybridRetriever:
             rrf_scores[doc_hash] = rrf_scores.get(doc_hash, 0.0) + self.weight_dense * (1.0 / (self.rrf_k + rank))
             doc_map[doc_hash] = doc
             distance_map[doc_hash] = min(distance_map.get(doc_hash, match.distance), match.distance)
+
+        # Canonical Metadata Boosting & Duplicate Suppression
+        for doc_hash, doc in doc_map.items():
+            src = str(doc.metadata.get("source", "")).lower()
+            if any(canon_prefix in src for canon_prefix in [
+                "facilities/", "hostel/", "placements/", "academic/", "administration/",
+                "campus/", "faculty/", "scholarships/", "departments/", "02-academics/",
+                "03-admissions-fees/", "04-research-centers/"
+            ]):
+                rrf_scores[doc_hash] += self.canonical_boost
+            elif "07-news-media/" in src or "01-governance-policy/" in src or "-dup" in src or "minutes" in src:
+                rrf_scores[doc_hash] -= self.duplicate_penalty
+        
+        logger.info("[LATENCY-PROFILER] RRF: %.2f ms", (time.perf_counter() - t_start_rrf) * 1000)
 
         # Sort documents by descending RRF score
         sorted_hashes = sorted(rrf_scores.keys(), key=lambda h: rrf_scores[h], reverse=True)

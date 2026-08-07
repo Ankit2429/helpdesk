@@ -24,7 +24,7 @@ class RAGPipeline:
         similarity_store: SimilarityStore,
         search_limit: int,
         reranker: Any | None = None,
-        reranker_top_n: int = 25,
+        reranker_top_n: int = 10,
         deduplicate_documents: bool = True,
     ) -> None:
         self._document_loader = document_loader
@@ -70,8 +70,8 @@ class RAGPipeline:
         if result_limit < 1:
             raise ValueError("Search limit must be at least one.")
 
-        # Step 1: Initial candidate search (fetch top_n candidates, e.g. 25)
-        candidate_count = max(self._reranker_top_n, result_limit * 5)
+        # Step 1: Initial candidate search (fetch top_n candidates, e.g. 10)
+        candidate_count = self._reranker_top_n
         candidates = self._similarity_store.search(query, limit=candidate_count)
         logger.info("Candidates before reranking: %d", len(candidates))
 

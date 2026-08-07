@@ -4,7 +4,7 @@ Campus Helpdesk Robot – Phase 3: Speech-to-Text (STT) Service
 
 Module: campus_helpdesk.services.stt_service
 File:   src/campus_helpdesk/services/stt_service.py
-Version: 1.0
+Version: 1.1  (STT Tuning)
 
 This service manages the conversion of completed speech audio files into text.
 It consumes ``VOICE_STOPPED`` events containing the file path to a recorded WAV
@@ -101,11 +101,13 @@ class FasterWhisperBackend(BaseTranscriptionBackend):
         device: str = "cpu",
         compute_type: str = "int8",
         cpu_threads: int = 4,
+        beam_size: int = 1,
     ) -> None:
         self._model_size = model_size
         self._device = device
         self._compute_type = compute_type
         self._cpu_threads = cpu_threads
+        self._beam_size = beam_size
         self._model = None
 
     def load_model(self) -> float:
@@ -125,21 +127,60 @@ class FasterWhisperBackend(BaseTranscriptionBackend):
                 cpu_threads=self._cpu_threads,
                 local_files_only=True,
             )
-        except ImportError as exc:
-            logger.error("Failed to import faster-whisper: %s", exc)
-            raise RuntimeError("faster-whisper is not installed in the environment") from exc
+            
+            logger.info("Warming up Faster-Whisper model...")
+            import numpy as np
+            # Warm up with 1 second of silence
+            dummy_audio = np.zeros(16000, dtype=np.float32)
+            list(self._model.transcribe(
+                dummy_audio,
+                beam_size=self._beam_size,
+                task="transcribe",
+                vad_filter=True,
+                condition_on_previous_text=False,
+            )[0])
+            logger.info("Faster-Whisper model warmed up successfully.")
+            
+        except (ImportError, OSError) as exc:
+            # SAC (Smart App Control) or missing install blocks the DLL.
+            # Log a warning and mark as unavailable; do NOT raise so the
+            # rest of the pipeline (camera, vision, LLM, TTS) can still start.
+            logger.warning(
+                "Faster-Whisper unavailable (SAC/install): %s. "
+                "STT will be disabled; text input still works.",
+                exc,
+            )
+            self._model = None
+            return 0.0
 
         elapsed = time.perf_counter() - t0
         logger.info("Faster-Whisper model loaded in %.2fs.", elapsed)
         return elapsed
 
+    def is_available(self) -> bool:
+        """Return True if the model loaded successfully."""
+        return self._model is not None
+
     def transcribe(self, audio_path: str) -> tuple[str, str, float]:
         if self._model is None:
-            raise RuntimeError("Faster-Whisper model is not preloaded.")
+            logger.warning("Faster-Whisper model is not preloaded (disabled). Returning empty transcript.")
+            return "", "en", 0.0
 
-        # beam_size=5 (default)
-        segments, info = self._model.transcribe(audio_path, beam_size=5)
-        
+        # beam_size=1 uses greedy decoding (~50% faster than beam_size=5 on CPU
+        # with negligible accuracy loss on clear speech).
+        # vad_filter=True: internal Silero VAD skips non-speech regions, reducing
+        # effective audio length and inference time significantly.
+        # condition_on_previous_text=False: prevents hallucination feedback loops
+        # on repetitive or noisy audio segments.
+        # task="transcribe": explicit — avoids accidental translation mode.
+        segments, info = self._model.transcribe(
+            audio_path,
+            beam_size=self._beam_size,
+            task="transcribe",
+            vad_filter=True,
+            condition_on_previous_text=False,
+        )
+
         # Pull text from iterator
         text_segments = [s.text for s in segments]
         text = " ".join(text_segments).strip()
@@ -148,7 +189,7 @@ class FasterWhisperBackend(BaseTranscriptionBackend):
 
     @property
     def model_name(self) -> str:
-        return f"faster-whisper:{self._model_size}:{self._device}:{self._compute_type}"
+        return f"faster-whisper:{self._model_size}:{self._device}:{self._compute_type}:beam{self._beam_size}"
 
 
 class MockTranscriptionBackend(BaseTranscriptionBackend):
@@ -199,16 +240,24 @@ class STTService:
         The Event Bus instance to publish events to.
     backend:
         Implementation of BaseTranscriptionBackend. Defaults to FasterWhisper.
+    min_audio_duration_ms:
+        Minimum audio segment duration (milliseconds) required to submit to
+        the transcription backend. Segments shorter than this value are
+        silently discarded. This prevents background noise bursts (coughs,
+        door slams, etc.) from reaching Whisper and causing hallucinations.
+        Default: 500ms. Set to 0 to disable.
     """
 
     def __init__(
         self,
         event_bus: EventBus,
         backend: BaseTranscriptionBackend | None = None,
+        min_audio_duration_ms: int = 500,
         name: str = "stt_service",
     ) -> None:
         self._bus = event_bus
         self._backend = backend or MockTranscriptionBackend()
+        self._min_audio_duration_ms = min_audio_duration_ms
         self._name = name
 
         self._lock = threading.RLock()
@@ -231,9 +280,22 @@ class STTService:
     # ─────────────────────────────────────────────────────────────────────────
 
     def initialize(self) -> None:
-        """Preloads the underlying transcription model."""
+        """Preloads the underlying transcription model.
+
+        If the backend is blocked by SAC or is not installed, logs a warning
+        and marks STT as degraded.  Does NOT raise so the caller can continue
+        starting other services.
+        """
         with self._lock:
-            self._model_load_time = self._backend.load_model()
+            try:
+                self._model_load_time = self._backend.load_model()
+            except Exception as exc:
+                logger.warning(
+                    "STTService: model load failed (%s). "
+                    "STT will be disabled; text input still works.",
+                    exc,
+                )
+                self._model_load_time = -1.0  # sentinel: load attempted but failed
 
     def start(self) -> None:
         """Start the worker thread and subscribe to VOICE_STOPPED events."""
@@ -329,13 +391,28 @@ class STTService:
             return
 
         wav_path = payload.audio_segment_path
+
+        # Guard: discard very short audio segments that are likely noise bursts.
+        # Whisper produces hallucinations ("Thank you.", "Thanks for watching.")
+        # on sub-500ms audio. Skip rather than transcribe.
+        if self._min_audio_duration_ms > 0 and payload.duration_ms < self._min_audio_duration_ms:
+            logger.info(
+                "STT: Skipping short audio segment (duration=%dms < min=%dms, path=%s)",
+                payload.duration_ms,
+                self._min_audio_duration_ms,
+                wav_path,
+            )
+            return
+
         t_start = time.perf_counter()
+        logger.info("[LATENCY-PROFILER] Audio capture: %s ms", payload.duration_ms)
 
         try:
             # Execute backend transcription
             text, lang, confidence = self._backend.transcribe(wav_path)
             t_end = time.perf_counter()
             latency_ms = (t_end - t_start) * 1000
+            logger.info("[LATENCY-PROFILER] STT: %.2f ms", latency_ms)
 
             with self._lock:
                 self._files_processed += 1
@@ -404,4 +481,5 @@ class STTService:
                 "worker_status": "running" if (self._worker and self._worker.is_alive()) else "stopped",
                 "average_confidence": round(self._avg_confidence, 3),
                 "uptime_seconds": round(uptime_sec, 3),
+                "min_audio_duration_ms": self._min_audio_duration_ms,
             }

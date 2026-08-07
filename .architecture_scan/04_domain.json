@@ -1,0 +1,126 @@
+{
+  "folder": "src/campus_helpdesk/domain/",
+  "title": "Domain entities",
+  "purpose": "The domain subsystem holds the framework-independent business entities and contracts of the system: the knowledge objects (KnowledgeDocument, SearchResult, IngestionResult) that flow through ingestion and retrieval, and the conversation entities (ChatMessage, ConversationSession, ConversationMemory) that back multi-turn chat. Because these are plain dataclasses/classes with no imports of FastAPI, LangChain, FAISS, or the LLM, both the layered application core and the infrastructure adapters can exchange data through a shared vocabulary without coupling to any framework. The live conversation-memory implementation lives in the memory/ subfolder (ConversationMemory), while conversation.py's dataclasses are only partially used.",
+  "files": [
+    {
+      "path": "src/campus_helpdesk/domain/__init__.py",
+      "purpose": "Package marker for the domain layer, declaring that it holds business entities and contracts independent of any framework.",
+      "key_symbols": [],
+      "terms": [
+        {
+          "term": "domain entity",
+          "definition": "A plain-data object that represents a business concept (document, search result, chat message) and is passed between the application and infrastructure layers without framework dependencies."
+        }
+      ],
+      "config": [],
+      "notes": "Contains only a module docstring; the package namespace marker. All real entities live in conversation.py and knowledge.py."
+    },
+    {
+      "path": "src/campus_helpdesk/domain/conversation.py",
+      "purpose": "Defines the dataclass entities for multi-turn conversation messages and sessions (ChatMessage, ConversationSession).",
+      "key_symbols": [
+        "ChatMessage",
+        "ConversationSession"
+      ],
+      "terms": [
+        {
+          "term": "chat role",
+          "definition": "The speaker of a message, either 'user' or 'assistant'; determines how history turns are labelled when formatted into the LLM prompt."
+        },
+        {
+          "term": "conversation session",
+          "definition": "A named unit of multi-turn chat state identified by a session_id (default 'default') intended to hold an ordered list of ChatMessage history."
+        },
+        {
+          "term": "conversation history",
+          "definition": "The ordered list of ChatMessage turns for a session, used as multi-turn context for the LLM's next answer."
+        },
+        {
+          "term": "ISO-8601 timestamp",
+          "definition": "UTC timestamp string attached to each ChatMessage at creation, produced by datetime.datetime.now(datetime.UTC).isoformat() (e.g. 2026-08-06T...)."
+        }
+      ],
+      "config": [],
+      "notes": "ConversationSession is dead code: a repo-wide grep shows it is defined here but never imported or used anywhere. The live conversation-memory path uses ConversationMemory in domain/memory/conversation_memory.py, which stores raw dicts, not these dataclasses. ChatMessage is only instantiated lazily inside application/conversation_manager.py::retrieve_history (a method-local import) from session dicts. ChatMessage is frozen+slots; ConversationSession is mutable."
+    },
+    {
+      "path": "src/campus_helpdesk/domain/knowledge.py",
+      "purpose": "Defines the framework-independent knowledge entities (KnowledgeDocument, SearchResult, IngestionResult) exchanged across loading, chunking, indexing, and retrieval.",
+      "key_symbols": [
+        "KnowledgeDocument",
+        "SearchResult",
+        "IngestionResult"
+      ],
+      "terms": [
+        {
+          "term": "knowledge document",
+          "definition": "A single retrievable unit - either an entire source file or one chunk split from it - represented as content text plus string metadata (source path, headings)."
+        },
+        {
+          "term": "chunk",
+          "definition": "A small piece of a source document produced by the markdown/semantic/text chunkers; each chunk becomes one KnowledgeDocument stored in the FAISS/BM25 index."
+        },
+        {
+          "term": "metadata",
+          "definition": "A Mapping[str, str] of arbitrary string key/value pairs attached to a KnowledgeDocument (typically source filename/path and heading breadcrumbs), used for citation and source-based filtering/boosting."
+        },
+        {
+          "term": "search result",
+          "definition": "One retrieved KnowledgeDocument paired with a numeric distance score; produced by FAISS/BM25/hybrid search and consumed by reranking, context composing, and confidence evaluation."
+        },
+        {
+          "term": "distance",
+          "definition": "The similarity score attached to a SearchResult; for FAISS it is the raw L2 distance from similarity_search_with_score (lower = more similar), while BM25 converts its score to a pseudo-distance 1/(1+score) for interface uniformity."
+        },
+        {
+          "term": "ingestion result",
+          "definition": "A summary record returned when a source file is added to the knowledge base, carrying the source path, document count, and chunk count produced."
+        }
+      ],
+      "config": [],
+      "notes": "Heavily used across the pipeline: loaders (markdown_loader, pdf_loader), chunkers (markdown_chunker, semantic_chunker, text_chunker), stores (faiss_store, bm25_store), hybrid_retriever, cross_encoder_reranker, context_composer, prompt_context_builder, confidence_engine, canonical_index_builder, and application/rag_pipeline.py / knowledge_ports.py all import these types. metadata values are coerced to str by producers (e.g. faiss_store and hybrid_retriever rebuild with {str(k): str(v)}). IngestionResult is created by RAGPipeline.ingest_file/ingest_pdf in application/rag_pipeline.py."
+    },
+    {
+      "path": "src/campus_helpdesk/domain/memory/conversation_memory.py",
+      "purpose": "Thread-safe, dict-based conversation memory that trims older turns into a running summary, tracks the active topic by keyword, and manages an LLM token budget.",
+      "key_symbols": [
+        "ConversationMemory",
+        "estimate_tokens",
+        "get_token_breakdown",
+        "truncate_to_token_budget",
+        "get_formatted_history",
+        "get_history_and_summary"
+      ],
+      "terms": [
+        {
+          "term": "conversation summary",
+          "definition": "A rolling string of condensed 'Q: ... -> A: ...' bullet lines from overflowed turns (capped at the last 5 points) so older context is not discarded outright."
+        },
+        {
+          "term": "active topic",
+          "definition": "The last-matched canonical domain label (e.g. 'Central Library', 'Hostel Facilities', 'Placement Cell') derived by keyword matching against message content."
+        },
+        {
+          "term": "token budget",
+          "definition": "max_context_tokens cap (default 2048) on prompt size; tokens are estimated with a ~3.8 chars/token heuristic and context/history are trimmed to a 70/30 character allocation when over budget."
+        },
+        {
+          "term": "max_history_turns",
+          "definition": "Number of complete (user, assistant) turn pairs retained verbatim; older pairs overflow into the summary (trimming operates on max_history_turns * 2 messages)."
+        }
+      ],
+      "config": [],
+      "notes": "This is the real runtime conversation-memory implementation (dict-based messages under a threading.RLock), in contrast to the unused domain/conversation.py dataclasses. The topic_keywords map is hardcoded to 15 canonical campus-guide domains (library, hostel, placement, admission, fee, scholarship, exam, department, computer science, mechanical, civil, biotech, sports) - new domains require code changes. The summary_trigger_turns constructor parameter is effectively unused: trimming is driven solely by max_history_turns * 2. Token estimation is a heuristic (~3.8 chars/token), not a real tokenizer, and truncation uses naive character slicing that can split mid-word."
+    }
+  ],
+  "data_flow": "The knowledge entities are the currency of the RAG pipeline: loaders (infrastructure/rag/markdown_loader.py, pdf_loader.py) produce KnowledgeDocument from source files; chunkers (markdown_chunker.py, semantic_chunker.py, text_chunker.py) split them into KnowledgeDocument chunks; faiss_store.py, bm25_store.py, and hybrid_retriever.py store them and return list[SearchResult] on query; cross_encoder_reranker.py, context_composer.py, prompt_context_builder.py, and confidence_engine.py consume SearchResult to rerank, dedupe, format prompt context, and score confidence. RAGPipeline (application/rag_pipeline.py) returns IngestionResult from ingest_file/ingest_pdf and list[SearchResult] from search(); knowledge_ports.py declares the Loader/Splitter/Store protocols over these types. On the conversation side, application/conversation_manager.py builds ChatMessage from session dicts via a method-local import, while the production memory path lives in domain/memory/conversation_memory.py (ConversationMemory, dict-based) and is used by the chat service / query rewriter for history formatting and token budgeting. ConversationSession is not consumed anywhere.",
+  "external_deps": [],
+  "risks": [
+    "ConversationSession in conversation.py is dead code - defined but never imported or used anywhere in the repository, which can mislead future readers.",
+    "SearchResult.distance semantics differ by producer (FAISS raw L2 vs BM25 1/(1+score) pseudo-distance, and hybrid_retriever keeps the min per doc); callers must always treat lower as more similar, and the field name 'distance' is misleading for BM25/hybrid results.",
+    "The runtime ConversationMemory stores messages as raw dicts rather than the ChatMessage dataclass, so the domain layer exposes two parallel representations of a chat turn.",
+    "ConversationMemory.estimate_tokens uses a ~3.8 chars/token heuristic with naive character-slicing truncation that can split words mid-token, and the summary_trigger_turns parameter is unused (trimming keyed off max_history_turns * 2).",
+    "The active-topic keyword map in conversation_memory.py hardcodes 15 campus-guide domain labels; new topics require code changes and may drift from the actual canonical document structure."
+  ]
+}

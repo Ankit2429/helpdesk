@@ -1,6 +1,5 @@
 """Technical Analysis & Inspection of Synthesized Audio Artifacts."""
 
-import math
 from pathlib import Path
 import wave
 import numpy as np

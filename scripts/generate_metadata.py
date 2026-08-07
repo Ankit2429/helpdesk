@@ -117,7 +117,7 @@ def main():
                 rel_path_unix = rel_path.replace(os.sep, "/")
                 
                 try:
-                    with open(fp, "r", encoding="utf-8", errors="ignore") as fh:
+                    with open(fp, encoding="utf-8", errors="ignore") as fh:
                         content = fh.read()
                         
                     # Rule 7: Never overwrite existing metadata front matter

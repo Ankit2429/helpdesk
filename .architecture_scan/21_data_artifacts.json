@@ -1,0 +1,442 @@
+{
+  "folder": "data/, chunks/, storage/, logs/, outputs/, bvb_scraped_data/",
+  "title": "Data directories, indexes & artifacts",
+  "purpose": "This subsystem holds every non-code data artifact the campus helpdesk produces or consumes: the raw scraped website corpus (bvb_scraped_data/), the cleaned canonical Markdown knowledge source (data/canonical_markdown/), the built FAISS/BM25 retrieval indexes (data/faiss/, chunks/), the Piper TTS voice model (data/piper/), and the runtime/observability outputs (logs/, storage/snapshots/, outputs/, data/analytics/reports/). It is the 'ground truth' layer: the ingestion pipeline (campus_helpdesk.ingest / canonical_index_builder) reads canonical Markdown to build the vector index that hybrid_retriever queries at /chat time, while the evaluation benchmark (bvb_scraped_data/benchmark/) is the ground-truth Q&A set used to score retrieval and answer quality. The bvb_scraped_data/ tree is a separate Node.js build system (scripts/*.mjs) that converts 4700+ raw crawled pages into a deduplicated knowledge_base corpus; nothing in the Python runtime imports it directly.",
+  "files": [
+    {
+      "path": "data/faiss/index-manifest.json",
+      "purpose": "Sidecar manifest for the production FAISS vector index, recording the embedding model and normalization flag used to build it.",
+      "key_symbols": [],
+      "terms": [
+        {"term": "index manifest", "definition": "A small JSON sidecar that records how an index was built (embedding model name, normalize flag) so loaders can validate the on-disk index before deserializing it."},
+        {"term": "embedding model", "definition": "The sentence-transformer model (here sentence-transformers/all-MiniLM-L6-v2) that maps text to dense vectors used for similarity search."},
+        {"term": "embedding normalization", "definition": "Whether vectors are L2-normalized before storage, which makes cosine similarity equivalent to dot product in FAISS."}
+      ],
+      "config": ["embedding_model", "embedding_normalize"],
+      "notes": "Only 90 bytes: {\"embedding_model\": \"sentence-transformers/all-MiniLM-L6-v2\", \"embedding_normalize\": true}. Validated by faiss_store.py before loading index.pkl. Settings default embedding_normalize=true, matching this manifest."
+    },
+    {
+      "path": "data/faiss/index.faiss",
+      "purpose": "Binary FAISS (Facebook AI Similarity Search) vector index of ~11MB containing the dense embeddings for all knowledge chunks.",
+      "key_symbols": [],
+      "terms": [
+        {"term": "FAISS index", "definition": "A binary index structure (faiss.read_index) supporting fast approximate nearest-neighbor search over the chunk embeddings; here the dense arm of the hybrid retriever."}
+      ],
+      "config": ["faiss_index_path"],
+      "notes": "Binary file (~11MB), written by the ingest/index-builder and read by faiss_store.py at startup; built 2026-08-05. AVX2 variant unavailable in the bundled faiss wheel (see logs/app.log) so the generic loader is used."
+    },
+    {
+      "path": "data/faiss/index.pkl",
+      "purpose": "Pickled Python object (~20MB) holding the document/chunk metadata (paths, chunk text, ids) alongside the FAISS index so retrieval can map vector hits back to source chunks.",
+      "key_symbols": [],
+      "terms": [
+        {"term": "chunk", "definition": "A fixed-size overlapping slice of a source document (here ~800 chars, 120 overlap) that is embedded and indexed, and later fed as retrieved context to the LLM."}
+      ],
+      "config": ["faiss_index_path", "faiss_allow_dangerous_deserialization"],
+      "notes": "Loading a pickle is arbitrary code execution; the FAISS_ALLOW_DANGEROUS_DESERIALIZATION gate (off by default in .env.example) controls whether index.pkl is deserialized. Logs show the index was loaded in the development environment with the gate enabled, and hybrid_retriever populated BM25 with 4031 chunks on 2026-08-03."
+    },
+    {
+      "path": "data/canonical_markdown/",
+      "purpose": "The canonical, cleaned Markdown knowledge corpus (422 files across 13 category directories: academic, administration, campus, circulars, clubs, departments, facilities, faculty, hostel, placements, research, scholarships, timetables) that is the single ingestion source for building the production FAISS/BM25 index.",
+      "key_symbols": [],
+      "terms": [
+        {"term": "canonical markdown", "definition": "The deduplicated, dedupe-and-cleaned Markdown knowledge set the pipeline ingests; knowledge_source_path points here. Files are named by slug (e.g. departments/schoolsdepartments.md) with *_alt.md variants for near-duplicate crawl pages."}
+      ],
+      "config": ["knowledge_source_path"],
+      "notes": "Read by campus_helpdesk/ingest.py, infrastructure/knowledge/pipeline.py and infrastructure/rag/canonical_index_builder.py; scripts/clean_markdown.py, deduplicate_kb.py, normalize_markdown.py, generate_metadata.py also rewrite/audit it. A copy of the campus guide lives here as facilities/campus_guide_canonical.md (matches data/knowledge/campus_guide.txt). The ingest pipeline writes chunks.jsonl (repo root) and the FAISS store; the empty chunks/ dir in scope is a staging location that currently holds no chunk files."
+    },
+    {
+      "path": "data/knowledge/campus_guide.txt",
+      "purpose": "Hand-authored campus guide (departments, facilities, navigation) used as a small supplementary knowledge source alongside canonical_markdown.",
+      "key_symbols": [],
+      "terms": [],
+      "config": [],
+      "notes": "Plain text, 1.2KB; content overlaps with data/canonical_markdown/facilities/campus_guide_canonical.md and with the append_campus_guide_chunks.py script which injects guide chunks into the FAISS index."
+    },
+    {
+      "path": "data/knowledge/b_e_information_science_and_engineering.md",
+      "purpose": "Hand-authored summary of the B.E. Information Science & Engineering program (intake, accreditation, curriculum, career pathways).",
+      "key_symbols": [],
+      "terms": [],
+      "config": [],
+      "notes": "Small Markdown file (1.2KB) added 2026-08-03; used as an additional knowledge document for the RAG corpus."
+    },
+    {
+      "path": "data/knowledge/schoolsdepartments_279d1e.md",
+      "purpose": "Hand-authored list of the 12 KLE Tech schools/departments with source URL, complementing the scraped schools-departments pages.",
+      "key_symbols": [],
+      "terms": [],
+      "config": [],
+      "notes": "Small Markdown file (~674B) with a 'Source URL' header line; provenance style matches the canonical corpus, but it is stored under data/knowledge/ not data/canonical_markdown/."
+    },
+    {
+      "path": "data/analytics/reports/verification_20260803_172339.json",
+      "purpose": "Machine-readable output of scripts/verify_project.py (the pytest + ruff + smoke verification gate), recording pass/fail per check.",
+      "key_symbols": [],
+      "terms": [
+        {"term": "smoke test", "definition": "A minimal import/startup check (here: import every analytics module) to prove the package assembles before the full test suite runs."},
+        {"term": "coverage", "definition": "The pytest-cov option that measures what fraction of code the tests execute; not installed in the environment, causing that check to fail."}
+      ],
+      "config": [],
+      "notes": "Run 2026-08-03 from a different machine path (D:\\AUNTII\\.venv). all_passed=false: smoke import passed (exit 0), but ruff returned exit 1 (no stderr captured) and pytest failed with exit 4 because pytest-cov is not installed ('unrecognized arguments: --cov=...'). The stored commands/paths leak an earlier working copy location."
+    },
+    {
+      "path": "data/piper/en_US-lessac-medium.onnx",
+      "purpose": "Piper neural text-to-speech voice model (63MB ONNX) used by the robot stack TTS service to synthesize English speech.",
+      "key_symbols": [],
+      "terms": [
+        {"term": "Piper", "definition": "A fast, local, neural TTS engine; each voice is a small ONNX model (here en_US-lessac-medium) plus a phoneme-map JSON config."},
+        {"term": "ONNX", "definition": "Open Neural Network Exchange model format that Piper and other local inference runtimes execute for the voice model."}
+      ],
+      "config": ["tts_piper_models_dir", "tts_voice_model"],
+      "notes": "Loaded by infrastructure/audio/tts_service.py and services/tts_service.py from data/piper. settings.tts_voice_model='en_US-lessac-medium' matches this file. ~63MB binary committed to the repo."
+    },
+    {
+      "path": "data/piper/en_US-lessac-medium.onnx.json",
+      "purpose": "Piper voice configuration for the en_US-lessac-medium voice: audio parameters, inference noise scales, and the phoneme/speaker id maps used to run the ONNX model.",
+      "key_symbols": [],
+      "terms": [
+        {"term": "phoneme id map", "definition": "A mapping from IPA phoneme characters to integer ids that Piper uses to convert the espeak-ng phoneme stream into model input token ids."},
+        {"term": "espeak", "definition": "The grapheme-to-phoneme engine (voice 'en-us') Piper uses to turn text into phoneme sequences before synthesis."}
+      ],
+      "config": ["tts_voice_model", "tts_piper_models_dir"],
+      "notes": "Declares sample_rate 22050, quality medium, phoneme_type espeak, piper_version 1.0.0, num_symbols 256, num_speakers 1. It is pure metadata (no code symbols)."
+    },
+    {
+      "path": "chunks/",
+      "purpose": "Empty staging directory intended for chunked document output from the ingestion pipeline; currently holds no files.",
+      "key_symbols": [],
+      "terms": [
+        {"term": "chunking", "definition": "Splitting source documents into overlapping passages (settings rag_chunk_size=800, rag_chunk_overlap=120, separators ['\\n\\n','\\n',' ','']) before embedding and indexing."}
+      ],
+      "config": ["rag_chunk_size", "rag_chunk_overlap", "rag_chunk_separators", "rag_add_start_index"],
+      "notes": "Empty at scan time; the produced chunk artifacts actually land at the repo root (chunks.jsonl ~19MB, embedding_metadata.jsonl ~47MB) per CLAUDE.md, so this directory is effectively dead/staging."
+    },
+    {
+      "path": "logs/app.log",
+      "purpose": "Main rolling application log capturing RAG pipeline, retrieval, FAISS/BM25 load, LLM routing, session, and robot-runtime events.",
+      "key_symbols": [],
+      "terms": [
+        {"term": "BM25", "definition": "Sparse lexical ranking (term-frequency based) over 4031 chunks; fused with FAISS via weighted_hybrid fusion in the hybrid retriever."},
+        {"term": "generation router", "definition": "Runtime component that chooses between local Ollama and the cloud OpenRouter LLM based on a connectivity check (logs show CLOUD routing via nvidia/nemotron-3-ultra-550b-a55b:free when online)."}
+      ],
+      "config": ["logging_json", "ollama_base_url", "ollama_model", "enable_cloud_llm_router"],
+      "notes": "2.4MB, active through 2026-08-06. Head shows cross-encoder model load (~5.3s), faiss AVX2 fallback warning, BM25 populated with 4031 chunks, and session 'touch-kiosk'. Tail shows robot runtime EventBus 'system-bus' (maxsize=2000, workers=8) and RobotStateMachine BOOTING. Note: logs reference settings like ollama_model but also cloud OpenRouter generation when online — check config.yaml/.env for consistency."
+    },
+    {
+      "path": "logs/ui_debug.log",
+      "purpose": "Debug transcript of a single RAGChatService streamed conversation ('hi', 'departments') showing settings dump, intent routing, retrieval detail, and the final LLM prompt.",
+      "key_symbols": [],
+      "terms": [
+        {"term": "intent router", "definition": "Pre-RAG classifier that maps the user message to an IntentType (GREETING, CAMPUS_QUERY, ...); a GREETING bypasses retrieval entirely and returns a canned greeting."},
+        {"term": "confidence score", "definition": "Composite 0-1 score (weights: reranker 0.35, distance 0.3, count 0.15, source diversity 0.1, evidence consistency 0.1) with High>=0.8, Medium>=0.55, Low>=0.3 that decides whether retrieved context is accepted."},
+        {"term": "grounding rules", "definition": "System-prompt constraints ('AUNTII... STRICT GROUNDING RULES') that force the LLM to answer only from the provided context and say 'I couldn't find that information in my knowledge base.' otherwise."}
+      ],
+      "config": [],
+      "notes": "Leaks a full settings dump including a live-looking OpenRouter API key (sk-or-v1-...) and a hardcoded dashboard_path pointing at d:/AUNTII/diagnostics/performance_dashboard.json. Also shows the retrieval query for 'departments' is rewritten to an expanded query with departments/Schools list terms."
+    },
+    {
+      "path": "logs/2026-07-24.log",
+      "purpose": "Dated robot MVP demo log (2026-07-25 in content) recording Ollama verification, faster-whisper STT model load, and microphone enumeration.",
+      "key_symbols": [],
+      "terms": [
+        {"term": "STT", "definition": "Speech-to-text; here faster-whisper (model 'base'/'small', int8 on cpu) transcribes the user's spoken query."},
+        {"term": "Ollama", "definition": "The local LLM server (http://localhost:11434) that hosts the llama3.2/qwen models used for generation and verification."}
+      ],
+      "config": ["whisper_model_size", "whisper_compute_type", "ollama_base_url"],
+      "notes": "Shows the STT/VAD worker behavior; 36 microphones enumerated on the dev machine. Contains warnings about missing hf_xet package during model download."
+    },
+    {
+      "path": "logs/2026-07-24.log.2026-07-24",
+      "purpose": "Rotated earlier slice of the 2026-07-24 robot demo log, including Ollama connection failures and a 404 for an unpulled model.",
+      "key_symbols": [],
+      "terms": [],
+      "config": [],
+      "notes": "Documents a real failure mode: 'client.list() failed: Failed to connect to Ollama' and 'model qwen2.5:7b not found' (HTTP 404) — evidence that the robot stack depends on Ollama being up and the configured model being pulled."
+    },
+    {
+      "path": "logs/2026-07-25.log",
+      "purpose": "Dated robot MVP demo log (2026-07-25) with the full state-machine session: greeting trigger, IDLE->SPEAKING->LISTENING transitions, and voice synthesis.",
+      "key_symbols": [],
+      "terms": [
+        {"term": "state machine / FSM", "definition": "The robot session controller's finite state machine (states such as IDLE, SPEAKING, LISTENING) that sequences vision-triggered greeting, TTS, and STT."},
+        {"term": "TTS", "definition": "Text-to-speech; Piper ('en_US-lessac-medium') speaks the assistant's reply, here 'Hello! Welcome to our campus. How may I...'"}
+      ],
+      "config": ["tts_voice_model"],
+      "notes": "Shows vision greeting ('Frontal face / eye contact detected! Triggering greeting') and the session_controller state transitions — the robot interaction pipeline in action."
+    },
+    {
+      "path": "logs/timing_baseline.json",
+      "purpose": "Baseline latency measurement for 10 library/admissions questions, recording per-question retrieval, rerank, and LLM seconds plus averages.",
+      "key_symbols": [],
+      "terms": [
+        {"term": "latency budget", "definition": "The end-to-end answer time broken into retrieval / rerank / LLM legs; here the baseline average total is ~17.4s dominated by LLM (~13.0s), with some single answers >45s LLM."}
+      ],
+      "config": [],
+      "notes": "Produced by scripts/measure_baseline_timing.py (tag BASELINE, written to logs/timing_baseline.json). Averages: retrieval 1.55s, rerank 2.87s, llm 12.99s, total 17.45s. Includes full question->reply pairs (e.g. Q1 'Where is the library located in campus?')."
+    },
+    {
+      "path": "logs/timing_step1.json",
+      "purpose": "First optimization-step latency run for the same 10 questions, tracking latency after tuning round 1.",
+      "key_symbols": [],
+      "terms": [],
+      "config": [],
+      "notes": "Same schema as timing_baseline.json with tag STEP1; part of the sequential timing audit (steps 1-5) against the baseline."
+    },
+    {
+      "path": "logs/timing_step2.json",
+      "purpose": "Second optimization-step latency run for the same 10 questions, after tuning round 2.",
+      "key_symbols": [],
+      "terms": [],
+      "config": [],
+      "notes": "Same schema, tag STEP2."
+    },
+    {
+      "path": "logs/timing_step3.json",
+      "purpose": "Third optimization-step latency run for the same 10 questions, after tuning round 3.",
+      "key_symbols": [],
+      "terms": [],
+      "config": [],
+      "notes": "Same schema, tag STEP3."
+    },
+    {
+      "path": "logs/timing_step4.json",
+      "purpose": "Fourth optimization-step latency run for the same 10 questions, after tuning round 4.",
+      "key_symbols": [],
+      "terms": [],
+      "config": [],
+      "notes": "Same schema, tag STEP4."
+    },
+    {
+      "path": "logs/timing_step5.json",
+      "purpose": "Fifth/final optimization-step latency run, showing the end state of the timing optimization work.",
+      "key_symbols": [],
+      "terms": [],
+      "config": [],
+      "notes": "Tag STEP5. Averages: retrieval 1.51s, rerank 0.70s, llm 4.99s, total 7.22s vs baseline 17.45s — rerank and LLM latency dropped sharply (reranker_top_n/top_m and LLM settings tuned). Note the tradeoff visible in replies: several answers regressed to 'I couldn't find verified information...' (e.g. Q3/Q4/Q5/Q6/Q7), i.e. latency was cut at some cost to answer completeness."
+    },
+    {
+      "path": "logs/user_feedback.jsonl",
+      "purpose": "Append-only feedback log written by POST /chat when a user rates a reply, storing query, reply, helpful flag, and session id as JSON lines.",
+      "key_symbols": [],
+      "terms": [
+        {"term": "JSONL", "definition": "Newline-delimited JSON: one JSON object per line, used here for an append-only feedback stream."},
+        {"term": "feedback/helpful flag", "definition": "A boolean the user sets after a reply ('Is this helpful?'), persisted for later quality analysis."},
+        {"term": "session id", "definition": "Identifies a conversation thread (e.g. 'test_sess' or 'touch-kiosk') whose messages are stored in TTL sessions."}
+      ],
+      "config": ["feedback_log (route constant logs/user_feedback.jsonl)"],
+      "notes": "Written by src/campus_helpdesk/api/routes/chat.py (feedback_log = 'logs/user_feedback.jsonl'). All 45 rows are identical test rows ('Is there a library?' / 'Yes, there is [1].' / helpful=true / session test_sess) — the reply contains a [1] citation artifact that citation validation normally strips, suggesting these are synthetic test records, not real feedback."
+    },
+    {
+      "path": "outputs/full_pipeline_en_q1.wav",
+      "purpose": "Expected output audio (WAV) of a full STT->RAG->TTS pipeline run for the English Q1 question; currently an empty (0-byte) file.",
+      "key_symbols": [],
+      "terms": [
+        {"term": "WAV", "definition": "Uncompressed audio container that Piper TTS writes for the spoken reply; expected here from a 'full pipeline' English run."}
+      ],
+      "config": [],
+      "notes": "0 bytes since 2026-08-06 — the pipeline produced no audio (likely the TTS/audio step failed or was mocked). scripts/inspect_audio_files.py references full_pipeline_en_q1.wav plus full_pipeline_hi_q2.wav and full_pipeline_kn_q3.wav (the latter two do not exist on disk)."
+    },
+    {
+      "path": "storage/snapshots/snapshot_20260728_125704.jpg",
+      "purpose": "Robot camera snapshot (640x480 JPEG) captured on 2026-07-28, used for person/face detection in the vision greeting flow.",
+      "key_symbols": [],
+      "terms": [
+        {"term": "snapshot", "definition": "A single JPEG frame the camera service writes (timestamped filename) that the person detector / vision pipeline consumes."},
+        {"term": "person detection", "definition": "Haar-cascade frontal-face / eye-contact detection on camera frames that triggers the robot's greeting; settings vision_confidence=0.95, vision_min_hits=3."}
+      ],
+      "config": ["webcam_index", "camera_fps", "vision_frame_scale_width", "vision_detection_scale"],
+      "notes": "Only one snapshot retained; storage/snapshots is the camera's output directory. In the robot stack camera_service.py has a Windows-detection stub that is always false on Windows (see CLAUDE.md known risks), so real capture may be mocked."
+    },
+    {
+      "path": "bvb_scraped_data/metadata.json",
+      "purpose": "Crawl metadata for the legacy 4-page bvb.edu scrape, listing each page's title, source_url, scrape timestamp, category, department, pdf_source, and language.",
+      "key_symbols": [],
+      "terms": [
+        {"term": "legacy crawl", "definition": "The old 4-page bvb.edu crawl (home, achievements, placement, gallery) kept separate from the main kletech.ac.in crawl in knowledge_base/legacy_bvb."}
+      ],
+      "config": [],
+      "notes": "4 records scraped 2026-07-25T12:38 UTC. Read by build_clean_data.mjs (LEGACY_META) to build knowledge_base/legacy_bvb/."
+    },
+    {
+      "path": "bvb_scraped_data/misc.md",
+      "purpose": "Markdown of the legacy bvb.edu 'misc' pages (home, achievements, photo gallery), one H2 section per source page with a Source URL header.",
+      "key_symbols": [],
+      "terms": [],
+      "config": [],
+      "notes": "Also consumed as LEGACY_MD by build_clean_data.mjs. Contains raw scraped HTML-table residue and a waybackmachinedownloader ad text — a sign this crawl is low quality and kept only for completeness."
+    },
+    {
+      "path": "bvb_scraped_data/markdown/",
+      "purpose": "Raw output of the kletech.ac.in web crawl: 4738 Markdown files (HTML-derived) in category subdirectories (about, academics, admissions, campus_life, ...), one per crawled URL with hash-suffixed opaque filenames.",
+      "key_symbols": [],
+      "terms": [
+        {"term": "raw crawl", "definition": "The unprocessed, non-deduplicated scrape (4738 files) that is the input to build_clean_data.mjs; it is never modified by the build."},
+        {"term": "content signature", "definition": "A normalized text fingerprint (MD5 of whitespace-collapsed text) used to dedupe crawl pages; the web crawl collapses from 4738 files to 325 signatures."}
+      ],
+      "config": [],
+      "notes": "Includes many near-duplicate pages (e.g. programs_*.md with different 6-hex suffixes) and repeated topics across URL variants; cleaned only in the build output (knowledge_base/)."
+    },
+    {
+      "path": "bvb_scraped_data/pdf/",
+      "purpose": "Raw PDF downloads from the crawl (272 files) whose text is extracted with pdftotext during the corpus build.",
+      "key_symbols": [],
+      "terms": [
+        {"term": "pdftotext", "definition": "Command-line PDF text extractor invoked by build_clean_data.mjs; 95 scanned PDFs yield no extractable text (no OCR in this environment) and are logged in metadata/excluded.json."}
+      ],
+      "config": [],
+      "notes": "Extracted text goes through per-PDF watermark/boilerplate removal (cleanPdf), ligature normalization (normalizePdfText), and text-signature dedup (176 unique PDF signatures)."
+    },
+    {
+      "path": "bvb_scraped_data/gap_fill/",
+      "purpose": "Enrichment inputs to the corpus build: live-recovered pages and agent-researched documents that fill real gaps in the scraped site (coming-soon shells, thin nav dumps).",
+      "key_symbols": [],
+      "terms": [
+        {"term": "gap fill", "definition": "Documents injected into the knowledge_base build to cover content the raw scrape lacked (empty 'coming soon' pages, thin pages), split into live_recovery and research source types."},
+        {"term": "live_recovery", "definition": "Pages re-fetched from the live site by fetch_live_pages.mjs and parsed for their real content container."},
+        {"term": "research doc", "definition": "Agent-synthesized documents (scholarships, accreditations/NAAC, governance, NIRF, placements/recruiters, RTI, campus leadership) marked [unverified] where uncertain, each citing its sources."}
+      ],
+      "config": ["gap_fill_manifest.json (scripts/) maps gap file -> source URL"],
+      "notes": "15 files in category subdirs including research/scholarships.md (seen: well-cited, marks [unverified] claims) and pdf_overrides/238imguf_12bcertificate_e3e2fc.md (hand-cleaned replacement for a corrupted scanned PDF). Kept outside knowledge_base/ so the build wipe does not destroy them."
+    },
+    {
+      "path": "bvb_scraped_data/knowledge_base/README.md",
+      "purpose": "Build documentation for the cleaned knowledge base: directory layout, corpus statistics, gap-fill/enrichment explanation, cleaning rules, document schema, regeneration commands, and known limitations.",
+      "key_symbols": [],
+      "terms": [
+        {"term": "corpus", "definition": "The cleaned, deduplicated knowledge_base (512 documents: 332 web + 176 PDF + 4 legacy) that is the source of truth for the benchmark; distinct from the raw crawl."},
+        {"term": "source_type", "definition": "Provenance tag per document: scrape (494), live_recovery (7), or research (7)."},
+        {"term": "document schema", "definition": "The fields of knowledge_base/metadata/documents.json: id, title, source_urls[], category, department, origin(web|pdf|legacy), language, crawl_time, pdf_source, content_type, word_count, file_path, source_file, source_type."}
+      ],
+      "config": [],
+      "notes": "States regeneration via node scripts/build_clean_data.mjs, enrich_metadata.mjs, verify_kb.mjs. Known limitations: 95 scanned PDFs without extractable text (no OCR), both /hubballi/ and root URL variants kept, and site facts (NAAC grade, NIRF rank, fees) are point-in-time."
+    },
+    {
+      "path": "bvb_scraped_data/knowledge_base/metadata/documents.json",
+      "purpose": "Authoritative index of the cleaned corpus: one record per corpus file with source URLs, category/department, origin, word_count, and disk paths.",
+      "key_symbols": [],
+      "terms": [
+        {"term": "word_count", "definition": "Length metric recomputed from each corpus file and stored in the index so verify_kb.mjs can detect drift between index and disk."}
+      ],
+      "config": [],
+      "notes": "Large array (~500+ records). file_path uses forward slashes relative to repo root; source_file holds the raw crawl path. It is the integrity-check target of verify_kb.mjs."
+    },
+    {
+      "path": "bvb_scraped_data/knowledge_base/metadata/statistics.json",
+      "purpose": "Build statistics for the corpus: totals (4738 source markdown, 272 PDFs, 508 corpus docs + 4 legacy), dedup ratios, category/source-type breakdowns, and exclusion counts.",
+      "key_symbols": [],
+      "terms": [
+        {"term": "dedup reduction", "definition": "The raw-to-unique collapse ratio: web 4738 files -> 325 content signatures; 4111 duplicates and 95 image-only/empty files excluded."}
+      ],
+      "config": [],
+      "notes": "Built 2026-08-02T11:18:29Z. gap_added 7, gap_replaced 7. by_exclusion_reason: too_thin 31, duplicate 4111, image_only_or_empty 95."
+    },
+    {
+      "path": "bvb_scraped_data/knowledge_base/metadata/excluded.json",
+      "purpose": "Transparency log of items dropped from the corpus, with reason (too_thin / image_only_or_empty) and the raw file paths involved.",
+      "key_symbols": [],
+      "terms": [],
+      "config": [],
+      "notes": "339KB, 181 entries; each entry lists reason plus affected paths (e.g. too_thin with 'after cleaning (8 words)'). Lets anyone audit why a source page is absent."
+    },
+    {
+      "path": "bvb_scraped_data/knowledge_base/legacy_bvb/metadata.json",
+      "purpose": "Metadata for the 4 legacy bvb.edu pages kept separate inside the knowledge_base (legacy_bvb/origin records).",
+      "key_symbols": [],
+      "terms": [],
+      "config": [],
+      "notes": "Companion to bvb_scraped_data/metadata.json/misc.md copied into the build output so legacy pages stay queryable; build stats record legacy_pages: 4."
+    },
+    {
+      "path": "bvb_scraped_data/benchmark/benchmark_questions.json",
+      "purpose": "The evaluation benchmark: 344 ground-truth question-answer pairs (with source documents, category, difficulty, question type, expected confidence, required RAG/memory, persona) for scoring retrieval quality, RAG accuracy, citations, hallucination rate, confidence scoring, local-vs-cloud consistency, and regression testing.",
+      "key_symbols": [],
+      "terms": [
+        {"term": "benchmark", "definition": "A TEST-ONLY ground-truth dataset (marked so it must NOT be added to the searchable corpus or embedding pipeline) used to evaluate the RAG system."},
+        {"term": "difficulty", "definition": "Easy/Medium/Hard label per question (90/210/44 in this set)."},
+        {"term": "question_type", "definition": "Taxonomy of how a question is asked, e.g. direct_factual, conversational, procedural, location, abbreviation, multi_turn, ambiguous, misspelling, synonym, long_nl, multi_hop, comparative, recommendation, how_to."},
+        {"term": "rag_required", "definition": "Flag whether answering requires retrieval (almost all are true); conversational_memory_required flags multi-turn questions that need session memory."}
+      ],
+      "config": [],
+      "notes": "Generated 2026-08-02 by build_benchmark.mjs from the 9 gen_benchmark_part*.mjs files. Stats: 344 questions, 34 categories (Admissions 37, Fees 28, Governance 25, ...), Easy 90 / Medium 210 / Hard 44. Consumed by the evaluation runner (src/campus_helpdesk/infrastructure/evaluation/) and by scripts/*_evaluation.py."
+    },
+    {
+      "path": "bvb_scraped_data/scripts/build_clean_data.mjs",
+      "purpose": "Main corpus build script: reads raw markdown/, pdf/, and metadata, cleans web/PDF text, dedupes by content signature, integrates gap_fill enrichment, derives meaningful titles/slugs, and writes knowledge_base/ (corpus, metadata, legacy_bvb).",
+      "key_symbols": ["build()", "walk(dir)", "md5(s)", "wordCount(s)", "normSep(p)", "deriveWebTitle(lines, metaTitle)", "slugify(t)", "fallbackName(text, sourceUrl)", "inferGapDepartment(title)", "integrateGapFill(docs, gapFiles, gapManifest)", "decodeEntities(s)", "cleanWeb(raw)", "normalizePdfText(s)", "finalizeText(text)", "isPdfJunkLine(l)", "cleanPdf(text)", "cleanPdfStub(body)", "extractPdfText(pdfPath)", "pdfCategory(basename)", "GAP_CAT", "RESEARCH_AGENT_RE", "GENERIC_TITLE", "ARTICLE_TITLE", "URL_GENERIC", "ENTITIES", "NAV_LINES", "LIGATURES", "TITLE_BOILER", "GAP_DEPT_MAP"],
+      "terms": [],
+      "config": ["gap_fill_manifest.json (scripts/)"],
+      "notes": "Node.js ESM script (43KB, the largest build file). Uses execFileSync to shell out to pdftotext. Key design choice: gap_fill/ lives at repo root, outside knowledge_base/, so the output wipe keeps it intact; opaque crawl basenames are replaced with slugged titles derived from page headings."
+    },
+    {
+      "path": "bvb_scraped_data/scripts/fetch_live_pages.mjs",
+      "purpose": "Fetches live kletech.ac.in pages, extracts the main content container (divs between 'inner-container' and 'footer-top'), converts HTML to Markdown (with tableToMd), and writes gap_fill/<category>/<slug>.md files.",
+      "key_symbols": ["fetchPage(url)", "htmlToMd(html, url)", "extractBalanced(html, startIdx)", "tableToMd(tableHtml)", "decodeEntities(s)", "categorize(url)", "slugify(u)", "CATEGORY_FROM_PATH", "UA"],
+      "terms": [],
+      "config": [],
+      "notes": "Writes to knowledge_base/gap_fill/<category>/ (which build_clean_data then reads via the GAP dir). Skips pages under 12 words as 'thin'. Part of the live_recovery enrichment path."
+    },
+    {
+      "path": "bvb_scraped_data/scripts/refetch_failed.mjs",
+      "purpose": "Re-checks URLs that failed in the original crawl (parsed from logs/failed_pages.log), filters to main-site HTML, and recovers reachable pages into knowledge_base/recovered/ with a recovered.json manifest.",
+      "key_symbols": ["check(u)", "fetchText(u)", "htmlToMd(html, url)"],
+      "terms": [],
+      "config": ["logs/failed_pages.log (input)", "knowledge_base/recovered/ (output)"],
+      "notes": "Skips image/PDF/file URLs and non-kletech.ac.in hosts; a one-shot recovery utility rather than part of the normal build."
+    },
+    {
+      "path": "bvb_scraped_data/scripts/enrich_metadata.mjs",
+      "purpose": "Fills metadata gaps in documents.json: infers a department tag for program/course docs from title regexes, normalizes language to 'en', and sets pdf_source for PDF-origin docs.",
+      "key_symbols": ["inferDepartment(title)", "INSTITUTIONAL", "DEPTS"],
+      "terms": [],
+      "config": [],
+      "notes": "DEPTS is an ordered list of (regex -> department name) patterns; INSTITUTIONAL suppresses tagging for generic docs (time tables, minutes, admission, calendar, etc.). Also rewrites the README's 'N docs tagged' line to stay accurate."
+    },
+    {
+      "path": "bvb_scraped_data/scripts/verify_kb.mjs",
+      "purpose": "Independent integrity checker for the knowledge_base: verifies every index record has a file on disk, every corpus file is indexed, word counts match, no duplicate content signatures, and prints distribution stats.",
+      "key_symbols": ["walk(dir)"],
+      "terms": [],
+      "config": [],
+      "notes": "Exits non-zero with FAIL when errors are found; warns on thin docs (<10 words) and duplicates. Uses crypto MD5 over whitespace-collapsed text for the dup-signature check."
+    },
+    {
+      "path": "bvb_scraped_data/scripts/build_benchmark.mjs",
+      "purpose": "Combines the 9 gen_benchmark_part*.mjs exports into benchmark/benchmark_questions.json, validating each entry (qtype, difficulty, persona, confidence bounds, rag/memory booleans, non-empty sources) and computing summary stats.",
+      "key_symbols": ["QTYPES", "DIFFS", "PERSONAS"],
+      "terms": [],
+      "config": [],
+      "notes": "Output intentionally lives outside knowledge_base/ because the corpus build wipes knowledge_base/ on every run. IDs are assigned as q0001..q0344 in order."
+    },
+    {
+      "path": "bvb_scraped_data/scripts/gen_benchmark_part1.mjs (.. part9.mjs)",
+      "purpose": "Nine hand-authored benchmark data modules, each exporting an array (part1..part9) of [question, answer, sources[], category, difficulty, qtype, confidence, rag, memory, persona] tuples covering a slice of topics (part1 = Admissions/Fees/Scholarships).",
+      "key_symbols": ["part1", "part2", "part3", "part4", "part5", "part6", "part7", "part8", "part9"],
+      "terms": [],
+      "config": [],
+      "notes": "Imported dynamically by build_benchmark.mjs. The tuples are validated and re-keyed into the final question records."
+    },
+    {
+      "path": "bvb_scraped_data/scripts/gap_fill_manifest.json",
+      "purpose": "Manifest mapping gap-fill file paths (relative to gap_fill/) to their live kletech.ac.in source URLs, used by build_clean_data.mjs to attach provenance to gap-filled documents.",
+      "key_symbols": [],
+      "terms": [],
+      "config": [],
+      "notes": "18 entries covering admissions, academics, campus_life, notices, research, contact, miscellaneous; consumed as GAP_MANIFEST_PATH by the build."
+    }
+  ],
+  "data_flow": "Two independent pipelines converge here. (1) Scrape-to-corpus (Node.js, bvb_scraped_data/): crawler writes markdown/ (4738 files) and pdf/ (272 files) plus metadata; build_clean_data.mjs cleans/dedupes these and injects gap_fill/ enrichment (live_recovery + research docs) to emit the cleaned knowledge_base/ corpus (corpus/web + corpus/pdf + legacy_bvb) with metadata/documents.json, statistics.json, excluded.json; enrich_metadata.mjs and verify_kb.mjs finish/validate it; build_benchmark.mjs emits the 344-question evaluation benchmark. The cleaned corpus is the source from which the canonical Markdown (data/canonical_markdown/) is curated. (2) Index-build and runtime (Python, src/campus_helpdesk/): ingest.py / infrastructure/rag/canonical_index_builder.py reads knowledge_source_path=data/canonical_markdown, chunks it (rag_chunk_size=800), embeds with all-MiniLM-L6-v2, and writes chunks.jsonl plus the FAISS store at data/faiss (index.faiss + index.pkl + index-manifest.json); at /chat time hybrid_retriever loads these indexes (BM25 + FAISS) and retrieval/rerank/LLM latencies are recorded by scripts/measure_baseline_timing.py into logs/timing_*.json. Runtime writes: POST /chat feedback -> logs/user_feedback.jsonl; TTS -> outputs/*.wav; robot camera -> storage/snapshots/*.jpg; verify_project.py -> data/analytics/reports/*.json; robot/app logs -> logs/**. The evaluation runner consumes bvb_scraped_data/benchmark/benchmark_questions.json to score the system and emits comparison reports under evaluation/results/.",
+  "external_deps": ["faiss (Python)", "sentence-transformers (all-MiniLM-L6-v2)", "rank_bm25 (BM25)", "cross-encoder/ms-marco-MiniLM-L-6-v2 (reranker)", "pdftotext (poppler, shelled out by build_clean_data.mjs)", "Node.js >= 18 (fetch) for bvb_scraped_data/scripts/*.mjs", "node:fs / node:crypto / node:child_process (Node built-ins)", "Piper TTS (piper phonemize + ONNX runtime) for data/piper voice", "Ollama (local LLM) at http://localhost:11434", "OpenRouter (optional cloud LLM fallback)", "faster-whisper (STT, int8)"],
+  "risks": [
+    "Secrets leakage: logs/ui_debug.log contains a live-looking OpenRouter API key (sk-or-v1-...) inside a full settings dump, and the committed verification report references D:\\AUNTII paths.",
+    "Empty/placeholder artifacts in production paths: outputs/full_pipeline_en_q1.wav is 0 bytes and chunks/ is empty, while real chunk artifacts land at the repo root (chunks.jsonl ~19MB, embedding_metadata.jsonl ~47MB) — path confusion between the documented layout and the actual outputs.",
+    "Large binaries tracked in git: data/faiss/index.pkl (~20MB), index.faiss (~11MB), data/piper/*.onnx (~63MB) inflate the repo (.git ~900MB per CLAUDE.md).",
+    "Point-in-time knowledge: the corpus and benchmark encode facts (NAAC grade, NIRF ranks, fee figures, leadership) as published in mid-2026 and must be re-verified for later cycles; benchmark questions cite source_documents paths that must stay in sync with corpus rebuilds.",
+    "Benchmark contamination guard: benchmark_questions.json is explicitly TEST-ONLY ('Do NOT add it to the searchable corpus') — adding it to the RAG index would poison evaluations.",
+    "Pickle deserialization gate: loading data/faiss/index.pkl is arbitrary code execution, gated by FAISS_ALLOW_DANGEROUS_DESERIALIZATION which is enabled in the development environment logs.",
+    "Timing audit tradeoff: STEP5 cut total latency from ~17.4s to ~7.2s but several benchmark answers regressed to 'couldn't find verified information' (Q3/Q4/Q5/Q6/Q7) — the optimization may have traded completeness for speed.",
+    "Legacy/low-quality crawl data: bvb_scraped_data/misc.md and markdown/ contain scraped HTML-table residue, ad text, and 4000+ near-duplicate pages (only ~325 unique signatures); 95 scanned PDFs have no extractable text (no OCR).",
+    "Path drift between machines: the verification report and ui_debug.log reference D:\\AUNTII\\ (an earlier working copy) while the repo lives at D:\\helpdesk — check tools and logs for stale absolute paths.",
+    "user_feedback.jsonl contains only synthetic test rows (all identical 'test_sess' records with a '[1]' citation artifact), so there is no real user-feedback signal yet."
+  ]
+}

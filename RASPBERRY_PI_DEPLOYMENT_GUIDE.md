@@ -97,7 +97,7 @@ OLLAMA_NUM_THREADS=4
 ENABLE_CLOUD_LLM_ROUTER=false
 
 # RAG & Knowledge Base Paths
-KNOWLEDGE_SOURCE_PATH=archive/bvbcet_scraper/knowledge_base/markdown
+KNOWLEDGE_SOURCE_PATH=data/canonical_markdown
 FAISS_INDEX_PATH=data/faiss
 FAISS_ALLOW_DANGEROUS_DESERIALIZATION=true
 EMBEDDING_MODEL=sentence-transformers/all-MiniLM-L6-v2
@@ -119,14 +119,18 @@ ALLOW_ONLINE_STT_FALLBACK=false
 Run the following setup scripts once to build vector embeddings and pre-cache voices:
 
 ```bash
-# 1. Generate semantic chunks
-python scripts/semantic_chunker.py
+# 1. Build FAISS vector index from canonical markdown (already done — index is in data/faiss/)
+#    Only needed if you add new knowledge documents:
+python -m campus_helpdesk.ingest
 
-# 2. Build FAISS vector index & metadata
-python scripts/build_embeddings.py
-python scripts/rebuild_faiss_store.py
+# 2. Pre-cache ML models for offline use (REQUIRED before first offline run):
+python -c "from sentence_transformers import SentenceTransformer; SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2', local_files_only=False)"
+python -c "from sentence_transformers import CrossEncoder; CrossEncoder('cross-encoder/ms-marco-MiniLM-L-6-v2', local_files_only=False)"
 
-# 3. Pre-cache Piper TTS voice models
+# 3. Install the campus-helpdesk package in editable mode:
+pip install -e .
+
+# 4. Pre-cache Piper TTS voice models (already in data/piper/ if transferred via USB)
 python scripts/download_piper_voices.py
 ```
 

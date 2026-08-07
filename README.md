@@ -15,13 +15,18 @@ The project features a dual execution entrypoint supported by a layered, depende
 
 See `docs/DEPLOYMENT.md` for complete Windows & Raspberry Pi installation guides.
 
+## Key Links & Handover Documentation
+
+- **[USB Handover Guide](USB_HANDOVER.md)**: Fast 5-minute setup guide for receiving developers & USB transfer instructions.
+- **[Raspberry Pi Deployment Guide](RASPBERRY_PI_DEPLOYMENT_GUIDE.md)**: Hardware pinouts, ALSA setup, and systemd service setup for Raspberry Pi OS.
+
 ## Status
 
 Complete end-to-end implementation including:
-- **Offline RAG & LLM**: Local Ollama model integration (`qwen2.5`) with FAISS vector similarity search and anti-hallucination prompting.
-- **Multilingual Voice & Vision**: Faster-Whisper STT with candidate-list language detection (`en`, `hi`, `kn`), sub-second CPU TTS synthesis (Piper EN & Meta MMS-TTS HI/KN), and OpenCV camera person detection.
-- **Web & Desktop Interfaces**: Glassmorphic HTML web chat interface (`http://localhost:8000/`) and PySide6 desktop GUI window (`demo.py`).
-- **Raspberry Pi Deployment**: Automated systemd service installation and environment provisioning (`setup_pi_deployment.sh`, `campus-helpdesk-robot.service`).
+- **Offline RAG & LLM**: Local Ollama model integration (`qwen2.5:3b`) with FAISS vector similarity search, BM25 keyword search, Cross-Encoder reranking, and confidence-scored prompting.
+- **Multilingual Voice & Vision**: Faster-Whisper STT, Piper TTS (`en_US-lessac-medium`), VAD speech segmenting, and OpenCV camera person detection.
+- **Web & Desktop Interfaces**: Modern CustomTkinter developer GUI (`python helpdesk_gui.py`) and FastAPI web server (`uvicorn campus_helpdesk.main:app --app-dir src`).
+- **Raspberry Pi Deployment**: Automated systemd service installation and environment provisioning (`deployment/scripts/setup_pi_deployment.sh`).
 
 ## Run locally
 

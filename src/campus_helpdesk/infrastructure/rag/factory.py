@@ -10,6 +10,8 @@ from campus_helpdesk.infrastructure.rag.semantic_chunker import SemanticDocument
 from campus_helpdesk.infrastructure.rag.sentence_transformer_embeddings import (
     SentenceTransformerEmbeddings,
 )
+from campus_helpdesk.domain.knowledge import KnowledgeDocument, SearchResult
+
 
 
 def create_rag_pipeline(settings: Settings) -> RAGPipeline:
@@ -44,6 +46,8 @@ def create_rag_pipeline(settings: Settings) -> RAGPipeline:
         weight_dense=getattr(settings, "weight_dense", 0.5),
         weight_sparse=getattr(settings, "weight_sparse", 0.5),
         fusion_mode=getattr(settings, "fusion_mode", "weighted_hybrid"),
+        canonical_boost=getattr(settings, "rrf_canonical_boost", 0.060),
+        duplicate_penalty=getattr(settings, "rrf_duplicate_penalty", 0.080),
     )
 
     reranker = CrossEncoderReranker(
@@ -53,6 +57,20 @@ def create_rag_pipeline(settings: Settings) -> RAGPipeline:
         top_n=candidate_window,
         top_m=final_top_k,
     )
+
+    # Warm-up models
+    try:
+        import logging
+        logger = logging.getLogger(__name__)
+        logger.info("Warming up Sentence Transformer and Cross Encoder models...")
+        embeddings.embed_query("warmup")
+        if settings.reranker_enabled:
+            dummy_doc = KnowledgeDocument(content="warmup", metadata={"source": "warmup"})
+            dummy_result = SearchResult(document=dummy_doc, distance=0.0)
+            reranker.rerank("warmup", [dummy_result], top_m=1)
+        logger.info("Models warmed up successfully.")
+    except Exception as e:
+        logger.warning(f"Failed to warm up models: {e}")
 
     if settings.faiss_index_path.exists() and (settings.faiss_index_path / "index.faiss").exists():
         try:

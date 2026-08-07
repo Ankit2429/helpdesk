@@ -31,7 +31,7 @@ def main():
         
     print("Reading chunks from chunks.jsonl...")
     chunks = []
-    with open(chunks_jsonl_path, "r", encoding="utf-8") as f:
+    with open(chunks_jsonl_path, encoding="utf-8") as f:
         for line in f:
             if line.strip():
                 chunks.append(json.loads(line))

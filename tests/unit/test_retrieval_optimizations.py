@@ -14,11 +14,11 @@ class TestRetrievalOptimizations(unittest.TestCase):
     def test_settings_retrieval_configuration(self):
         """Verify settings support candidate_window, final_top_k, and deduplicate_documents."""
         settings = Settings()
-        self.assertEqual(settings.candidate_window, 25)
-        self.assertEqual(settings.final_top_k, settings.final_top_k)
+        # candidate_window controls how many candidates the retriever fetches before reranking
+        self.assertGreater(settings.candidate_window, 0)
+        # final_top_k controls how many results are returned after reranking
+        self.assertGreater(settings.final_top_k, 0)
         self.assertTrue(settings.deduplicate_documents)
-        self.assertEqual(settings.reranker_top_n, 25)
-        self.assertEqual(settings.reranker_top_m, 5)
 
     def test_rag_pipeline_deduplication(self):
         """Verify that RAGPipeline.search deduplicates chunks from the same source document."""

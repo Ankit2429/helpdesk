@@ -1,0 +1,687 @@
+{
+  "folder": "tests/",
+  "title": "Tests: core (api, application, unit, integration)",
+  "purpose": "The core test suite for the production FastAPI/RAG stack. It covers the API routes (chat, health, feedback), the application layer (RAGChatService hallucination guarding, RAGPipeline orchestration, session/memory management, query rewriting), domain entities (ConversationMemory), the infrastructure retrieval path (BM25, FAISS, HybridRetriever, cross-encoder reranker, confidence engine, context composition, prompt building, chunking, loaders), the analytics subsystem (event bus, metrics store, dashboards, alerts, reports), and parts of the robot stack (SystemRuntime failure recovery and full conversation flows) and evaluation tooling (RetrievalReportGenerator). Most RAG tests substitute fake loaders/chunkers/stores or mock LLM services so no running Ollama, embedding model, or network is needed; several integration tests do spin up real components (real SQLite, real FAISS/BM25/sentence-transformers) and a few reference live services.",
+  "files": [
+    {
+      "path": "tests/__init__.py",
+      "purpose": "Package marker for the test suite with a one-line docstring.",
+      "key_symbols": [],
+      "terms": [],
+      "config": [],
+      "notes": "Empty marker file; no test logic."
+    },
+    {
+      "path": "tests/conftest.py",
+      "purpose": "Shared pytest configuration that seeds the OLLAMA_MODEL environment variable for all tests.",
+      "key_symbols": [],
+      "terms": [
+        {"term": "OLLAMA_MODEL", "definition": "Environment variable naming the local Ollama model; conftest defaults it to 'configured-test-model' so settings load without a live Ollama install."}
+      ],
+      "config": ["OLLAMA_MODEL (env)"],
+      "notes": "Uses os.environ.setdefault so a user-provided OLLAMA_MODEL wins. No fixtures defined despite being named conftest."
+    },
+    {
+      "path": "tests/api/test_chat_route.py",
+      "purpose": "Black-box tests of the POST /chat route using a fake LLM service and a mocked RAG pipeline injected into the FastAPI app.",
+      "key_symbols": [
+        "FakeLLMService",
+        "test_chat_returns_model_response",
+        "test_chat_rejects_blank_message"
+      ],
+      "terms": [
+        {"term": "SearchResult", "definition": "Domain object pairing a retrieved KnowledgeDocument with a distance score; lower distance means higher similarity in this codebase."},
+        {"term": "KnowledgeDocument", "definition": "Domain entity wrapping indexed content plus metadata (source, title, category, etc.)."}
+      ],
+      "config": [],
+      "notes": "Test injects fake_rag by reaching into app.state.chat_service._rag_pipeline (private attribute), then asserts the reply contains 'User Question: <query>' which couples the test to the exact prompt format. Blank message returns 422 from FastAPI validation. FakeLLMService avoids a live Ollama."
+    },
+    {
+      "path": "tests/api/test_system_routes.py",
+      "purpose": "Tests the root identity route and the /health endpoint, including the presence of ollama and faiss component status.",
+      "key_symbols": [
+        "test_root_returns_api_identity",
+        "test_health_returns_healthy_status"
+      ],
+      "terms": [
+        {"term": "health endpoint", "definition": "GET /health returning component-level status (status, components.ollama, components.faiss) used for liveness/monitoring."}
+      ],
+      "config": [],
+      "notes": "Creates a module-level TestClient(create_app()) at import time; asserts 'ollama' and 'faiss' keys exist in /health components but not their values, so it passes even when those dependencies are down."
+    },
+    {
+      "path": "tests/application/test_rag_chat_service.py",
+      "purpose": "Unit tests for RAGChatService low-confidence fallback (distance threshold) and streaming generation behavior, including session memory recording.",
+      "key_symbols": [
+        "DummyLLMService",
+        "FakeHighDistancePipeline",
+        "FakeValidPipeline",
+        "test_rag_chat_service_falls_back_to_llm_on_high_distance",
+        "test_respond_stream_executes_generation_once_without_context",
+        "test_respond_stream_executes_generation_once_with_context"
+      ],
+      "terms": [
+        {"term": "distance threshold", "definition": "A similarity cut-off; search results whose FAISS/cross-encoder distance exceeds the threshold are treated as unreliable and trigger the low-confidence fallback reply instead of LLM generation."},
+        {"term": "low-confidence fallback", "definition": "The canned reply 'I couldn't find reliable information about that. Could you rephrase your question?' returned when retrieval is below the confidence/distance bar."},
+        {"term": "session memory", "definition": "Per-session ConversationMemory storing user/assistant messages; tests verify respond_stream writes the query and reply into the session."}
+      ],
+      "config": [],
+      "notes": "Uses a dummy LLM recording generate/generate_stream call counts to prove the LLM is NOT invoked on high-distance results. Distance 2.5 vs threshold 1.0 in the fake pipeline. Session messages are dicts with 'content' keys."
+    },
+    {
+      "path": "tests/application/test_rag_pipeline.py",
+      "purpose": "Tests RAGPipeline orchestration end-to-end with fake loader, chunker, and similarity store to verify ingest then search.",
+      "key_symbols": [
+        "FakeDocumentLoader",
+        "FakeDocumentChunker",
+        "FakeSimilarityStore",
+        "test_pipeline_ingests_and_searches_pdf_content"
+      ],
+      "terms": [
+        {"term": "RAGPipeline", "definition": "Application-layer orchestrator that ingests documents (load -> chunk -> add to store -> save) and searches a similarity store."},
+        {"term": "ingest_pdf", "definition": "Backward-compatible RAGPipeline entry point that ingests a source file (PDF name retained in the API even though loading is generic)."}
+      ],
+      "config": [],
+      "notes": "FakeSimilarityStore records add/save/load calls. Confirms pipeline.search returns the chunker's output chunk, not the raw document."
+    },
+    {
+      "path": "tests/domain/test_conversation_memory_optimized.py",
+      "purpose": "Comprehensive unit tests for optimized ConversationMemory (history, summarization, token budgeting), SessionManager (TTL/clear), and QueryRewriter (multi-turn pronoun resolution and topic drift).",
+      "key_symbols": [
+        "TestConversationMemoryUnit",
+        "TestMultiTurnQueryRewriting",
+        "TestSessionLifecycleManager",
+        "test_token_estimation_and_breakdown",
+        "test_token_budget_truncation",
+        "test_three_turn_followup_chain",
+        "test_topic_change_prevents_stale_context_pollution",
+        "test_session_ttl_cleanup",
+        "test_settings_integration"
+      ],
+      "terms": [
+        {"term": "ConversationMemory", "definition": "Domain entity holding per-session message history with max_history_turns, overflow summarization, and token-budget truncation."},
+        {"term": "max_history_turns", "definition": "How many user/assistant turns (2 messages each) are kept in working history before older ones are condensed into a summary."},
+        {"term": "token budget / token breakdown", "definition": "Estimated token accounting split across system_prompt, conversation_history, retrieved_context, and user_query, used to decide truncation within max_context_tokens."},
+        {"term": "SessionManager", "definition": "Thread-safe registry mapping session_id -> ConversationMemory with TTL expiration and explicit clear."},
+        {"term": "TTL", "definition": "Time-to-live in seconds; sessions older than ttl_seconds are evicted by cleanup_expired_sessions()."},
+        {"term": "QueryRewriter", "definition": "Application service that expands follow-up queries, resolving pronouns ('its', 'timings') against recent history while avoiding stale-topic pollution."}
+      ],
+      "config": ["memory_max_history_turns", "memory_session_ttl_seconds (settings)"],
+      "notes": "Tests assert summary contains 'Q:' style key facts on overflow and that 'library' is not injected when a new query changes topic to hostel. Uses real time.sleep(0.2) against a 0.1s TTL and get_settings() to verify SessionManager defaults match settings."
+    },
+    {
+      "path": "tests/integration/__init__.py",
+      "purpose": "Package marker for the integration test module.",
+      "key_symbols": [],
+      "terms": [],
+      "config": [],
+      "notes": "Empty marker file."
+    },
+    {
+      "path": "tests/integration/test_analytics_integration.py",
+      "purpose": "Integration tests for the analytics subsystem: real EventBus + MetricsStore (SQLite) + analytics modules + Dashboard/Alert/Report generation wired through AnalyticsManager.",
+      "key_symbols": [
+        "analytics_stack (fixture)",
+        "TestFullEventFlow",
+        "TestAnalyticsManagerIntegration",
+        "TestDashboardWithRealData",
+        "TestReportWithRealData"
+      ],
+      "terms": [
+        {"term": "EventBus", "definition": "Publish/subscribe bus in the analytics subsystem; modules subscribe and react to events like QueryReceived, RetrievalCompleted, SessionStarted."},
+        {"term": "MetricsStore", "definition": "SQLite persistence layer with tables sessions, query_logs, retrieval_logs, latency_logs, quality_logs, system_metrics, alerts, pipeline_traces."},
+        {"term": "PipelineTrace", "definition": "Factory for trace event payloads (trace_id, session_id, component, event_type, latency_ms, metadata, severity)."},
+        {"term": "AnalyticsManager", "definition": "Façade that starts the store, event bus, performance monitor and report/dashboard generators, and exposes track_turn/publish_event/get_dashboard/generate_report."},
+        {"term": "AlertEngine", "definition": "Rule engine raising Alert records (e.g. HighLatency, low retrieval score, high CPU/RAM) with per-type cooldown suppression."},
+        {"term": "DashboardGenerator", "definition": "Aggregates stored metrics into a dashboard dict with summary/latency/quality/system_health sections including p50/p90 latency percentiles."},
+        {"term": "ReportGenerator", "definition": "Writes daily/weekly markdown reports plus JSON companion files from stored metrics."}
+      ],
+      "config": ["database_path", "system_monitor_interval_seconds", "report_output_dir (AnalyticsManager config dict)"],
+      "notes": "Events flow through a real threading EventBus, so tests sleep (0.2-1.0s) to let handlers run asynchronously. AlertEngine created with cooldown_seconds=0 in fixture. This suite exercises the analytics subsystem that CLAUDE.md notes is currently dormant (not wired into application/api)."
+    },
+    {
+      "path": "tests/integration/test_failure_recovery.py",
+      "purpose": "Integration tests for robot-stack resiliency: person-left abort, camera/microphone disconnect, inference timeout, TTS preemption, worker recovery, graceful shutdown, and restart.",
+      "key_symbols": [
+        "runtime (fixture)",
+        "TestFailureRecovery",
+        "test_person_leaves_while_speaking_aborts_flow",
+        "test_inference_timeout_recovery",
+        "test_tts_preemption_interruption",
+        "test_restart_after_shutdown",
+        "_make_answer_ready_event"
+      ],
+      "terms": [
+        {"term": "SystemRuntime", "definition": "Robot-stack orchestrator owning EventBus, camera, vision, VAD, STT, inference, TTS and an interaction manager FSM."},
+        {"term": "EventEnvelope", "definition": "Typed event container (event_type, source, payload, session_id, correlation_id) published on the interaction event bus."},
+        {"term": "EventType", "definition": "Enum of robot interaction events: PERSON_DETECTED, PERSON_LEFT, VOICE_STARTED, VOICE_STOPPED, TRANSCRIPT_FINAL, CAMERA_DISCONNECTED, MICROPHONE_ERROR, ANSWER_READY, TTS_INTERRUPTED, ERROR."},
+        {"term": "RobotState", "definition": "Finite state machine states (IDLE, READY, LISTENING, etc.) that the interaction manager transitions through."},
+        {"term": "VADService", "definition": "Voice Activity Detection service; in tests a mock fallback with threshold=1 frame so voice segments trigger immediately."},
+        {"term": "STTService", "definition": "Speech-to-text service driven by a MockTranscriptionBackend in tests."},
+        {"term": "TTS service", "definition": "Text-to-speech service backed by a MockSpeechBackend; TTS_INTERRUPTED fires when a new answer preempts playback."},
+        {"term": "InferenceAdapter", "definition": "Wrapper around a (mock) LLM backend with a timeout; simulates latency to trigger InferenceTimeoutError while the worker keeps running."}
+      ],
+      "config": [],
+      "notes": "Uses mock backends (MockPersonDetector, MockTranscriptionBackend, MockInferenceBackend, MockSpeechBackend) and device_index=99 (always mock) to keep tests headless/deterministic. Touches private attributes (runtime.inference._backend.simulate_delay_sec). Asserts runtime.manager.current_state() returns to IDLE/READY after abort."
+    },
+    {
+      "path": "tests/integration/test_full_conversation.py",
+      "purpose": "End-to-end integration tests of complete robot conversations: person approach, voice segment, transcription, inference, TTS completion, and person leave, plus unknown-question fallback.",
+      "key_symbols": [
+        "runtime (fixture)",
+        "TestFullConversation",
+        "test_normal_conversation_happy_path",
+        "test_unknown_question_fallback"
+      ],
+      "terms": [
+        {"term": "completion_state", "definition": "Tracker field ('SUCCESS') recorded per session when a full speak -> transcribe -> infer -> speak cycle completes."},
+        {"term": "latency tracking log", "definition": "Per-session log produced by the runtime tracker holding latencies like stt_latency_ms and inference_latency_ms."},
+        {"term": "AnswerPayload", "definition": "Event payload carrying the generated answer, confidence score/level, sources, and inference duration."},
+        {"term": "confidence level", "definition": "Categorical verdict ('HIGH'/'LOW') on answer reliability attached to inference answers."}
+      ],
+      "config": [],
+      "notes": "Writes a dummy WAV file (b'RIFFmockheaderdata...') to disk and deletes it in a finally block; depends on cv2 and numpy being importable. Manual event injection via bus.publish_sync after stopping the VAD loop. MockTranscriptionBackend configured to transcribe 'where is library office'."
+    },
+    {
+      "path": "tests/integration/test_rag_consistency.py",
+      "purpose": "A strict factual-accuracy benchmark suite (Q1-Q10) that runs live questions against the legacy TTTService and verifies replies against hard-coded ground truth; defines only verify_* helpers plus main() and is NOT collected by pytest.",
+      "key_symbols": [
+        "verify_location",
+        "verify_hours",
+        "verify_weekend_hours",
+        "verify_email",
+        "verify_phone",
+        "verify_admissions_location",
+        "verify_admissions_hours",
+        "verify_admissions_phone",
+        "verify_how_to_apply",
+        "verify_cafeteria_phone",
+        "TEST_SUITE",
+        "main"
+      ],
+      "terms": [
+        {"term": "TTTService", "definition": "Legacy root-level text-to-text service (get_reply(query, language)) that this benchmark drives directly; part of the legacy stack, not src/."},
+        {"term": "refusal / anti-hallucination verifier", "definition": "A checker that treats admission of missing data (e.g. 'not available', 'unknown') as a PASS and invented facts as a FAIL."},
+        {"term": "ground truth", "definition": "Hard-coded expected facts (e.g. library open 8 AM-8 PM, Block C 2nd floor) that replies are strictly matched against."}
+      ],
+      "config": [],
+      "notes": "Manually inserts repo root into sys.path and imports the legacy ttt_service.TTTService. Reconfigures stdout to UTF-8. Not collected by pytest because it only defines verify_* helpers and main() under __main__ (per CLAUDE.md). Marker text labels it qwen2.5:1.5b; hallucination checks look for fabricated hours like '10:00 AM'."
+    },
+    {
+      "path": "tests/integration/test_single_production_pipeline.py",
+      "purpose": "Regression test that a single unified production pipeline built by create_rag_pipeline searches real canonical markdown knowledge and never returns legacy PDF-derived sources.",
+      "key_symbols": [
+        "test_production_settings_knowledge_path",
+        "test_single_production_pipeline_retrieval"
+      ],
+      "terms": [
+        {"term": "canonical markdown", "definition": "The cleaned, normalized Markdown knowledge store (data/canonical_markdown) that the production index is built from."},
+        {"term": "create_rag_pipeline", "definition": "Infrastructure factory that wires settings into the full retrieval pipeline (embeddings, FAISS, BM25, reranker, confidence, context builder)."}
+      ],
+      "config": ["knowledge_source_path (settings)"],
+      "notes": "Calls get_settings.cache_clear() to force fresh settings. Runs a real pipeline.search against the built index, so it depends on the FAISS index being present/loadable (FAISS_ALLOW_DANGEROUS_DESERIALIZATION gating). Asserts no retrieved source ends with '.pdf' or references data/knowledge."
+    },
+    {
+      "path": "tests/integration/test_sprint2_pipeline.py",
+      "purpose": "Integration test of the Sprint 2 retrieval stack: real SentenceTransformer embeddings, FAISS and BM25 stores, HybridRetriever, CrossEncoderReranker, ConfidenceEngine, and DiagnosticTracer.",
+      "key_symbols": [
+        "test_sprint2_retrieval_pipeline_integration",
+        "SentenceTransformerEmbeddings"
+      ],
+      "terms": [
+        {"term": "SentenceTransformerEmbeddings", "definition": "Lazy-loading sentence-transformers embedding service with device/batch/normalize/local-files-only options."},
+        {"term": "BM25SearchStore", "definition": "Okapi BM25 lexical retrieval store; index_documents builds the term index and search ranks keyword matches."},
+        {"term": "FAISSSimilarityStore", "definition": "Dense vector store over FAISS (FlatL2) with persist/load, manifest validation, and allow_dangerous_deserialization gating."},
+        {"term": "HybridRetriever", "definition": "Fuses BM25 and dense FAISS results via Reciprocal Rank Fusion into a final top-k list."},
+        {"term": "CrossEncoderReranker", "definition": "Re-scores fused candidates with a cross-encoder model; distance is stored as negative score."},
+        {"term": "ConfidenceEngine", "definition": "Evaluates reranked matches into a confidence score/level with supporting-chunk and source accounting."},
+        {"term": "DiagnosticTracer", "definition": "Span-based tracing utility (start_span/log_retrieval_step) that records retrieval candidates, RRF output, confidence score, and latency per query."}
+      ],
+      "config": ["embedding_model", "embedding_device", "embedding_batch_size", "embedding_normalize", "embedding_show_progress", "embedding_local_files_only", "reranker_model (settings)"],
+      "notes": "Real integration requiring the sentence-transformer and cross-encoder models to load locally (EMBEDDING_LOCAL_FILES_ONLY). Creates FAISS store at a tmp_path with allow_dangerous_deserialization=True. Builds span manually and asserts tracer state was updated."
+    },
+    {
+      "path": "tests/integration/test_sprint3_pipeline.py",
+      "purpose": "Sprint 3 API integration tests: /health and /ready readiness endpoints and the POST /chat/feedback flow, plus a mocked-LLM /chat call.",
+      "key_symbols": [
+        "test_sprint3_api_health_ready",
+        "test_sprint3_chat_feedback_flow",
+        "test_sprint3_chat_service_mocked_llm"
+      ],
+      "terms": [
+        {"term": "chat feedback", "definition": "POST /chat/feedback endpoint recording whether a reply was helpful, keyed by query, reply, helpful flag, and session_id."},
+        {"term": "readiness endpoint", "definition": "GET /ready returning 200 or 503 depending on whether the app is ready to serve."}
+      ],
+      "config": [],
+      "notes": "Health allows status in ['healthy', 'degraded']. Feedback test asserts response status 'success'. Uses MagicMock LLM whose canned reply already contains a citation marker '[1]'."
+    },
+    {
+      "path": "tests/unit/test_analytics_modules.py",
+      "purpose": "Unit tests for all 8 analytics modules (EventBus, PipelineTrace, MetricsStore, PerformanceMonitor, QueryAnalytics, RetrievalAnalytics, ConversationAnalytics, KnowledgeAnalytics, DashboardGenerator, AlertEngine, ReportGenerator) targeting >=90% coverage.",
+      "key_symbols": [
+        "tmp_db (fixture)",
+        "event_bus (fixture)",
+        "TestEventBus",
+        "TestPipelineTrace",
+        "TestMetricsStore",
+        "TestPerformanceMonitor",
+        "TestQueryAnalytics",
+        "TestRetrievalAnalytics",
+        "TestConversationAnalytics",
+        "TestKnowledgeAnalytics",
+        "TestDashboardGenerator",
+        "TestAlertEngine",
+        "TestReportGenerator",
+        "TestAlert",
+        "TestAnalyticsManager"
+      ],
+      "terms": [
+        {"term": "PerformanceMonitor", "definition": "Background thread sampling CPU/RAM via read_system_metrics() and writing system_metrics rows at an interval."},
+        {"term": "QueryAnalytics", "definition": "Tracks query lifecycle (received/completed/failed), intent distribution, and follow-up rate."},
+        {"term": "RetrievalAnalytics", "definition": "Aggregates retrieval/cross-encoder scores with a bounded score buffer (max_history)."},
+        {"term": "ConversationAnalytics", "definition": "Tracks session lifecycle (started/turns/ended), active sessions, and topic distribution."},
+        {"term": "KnowledgeAnalytics", "definition": "Tracks most-accessed documents and collects unknown questions (bounded list) from empty/failed retrievals."},
+        {"term": "Alert", "definition": "Value object for an alert (alert_type, severity, message, alert_id, timestamp) with to_dict()."},
+        {"term": "cooldown suppression", "definition": "AlertEngine behavior: repeat alerts of the same type within cooldown_seconds are dropped."}
+      ],
+      "config": ["database_path", "system_monitor_interval_seconds", "report_output_dir (AnalyticsManager config dict)"],
+      "notes": "EventBus handlers run in daemon threads, so tests use time.sleep(0.1-0.3) to await async delivery. MetricsStore tests assert SQLite schema (8 tables) and INSERT OR IGNORE dedup for query_id. AlertEngine threshold dicts (end_to_end_latency_sec, min_retrieval_score, cpu_percent, memory_mb)."
+    },
+    {
+      "path": "tests/unit/test_canonical_index_builder.py",
+      "purpose": "Unit tests for CanonicalIndexBuilder: end-to-end build with manifest output, incremental (duplicate-skipping) rebuilds, and error resilience for empty documents.",
+      "key_symbols": [
+        "DummyEmbeddings",
+        "test_canonical_index_builder_end_to_end",
+        "test_canonical_index_builder_incremental_build",
+        "test_canonical_index_builder_error_resilience"
+      ],
+      "terms": [
+        {"term": "CanonicalIndexBuilder", "definition": "Production index builder that loads canonical markdown, chunks it, embeds, and persists a FAISS index plus index-manifest.json."},
+        {"term": "index-manifest.json", "definition": "Index metadata artifact recording pipeline_version, embedding_model, faiss_index_type, number_of_documents, and document_hashes."},
+        {"term": "FAISS_FlatL2", "definition": "The FAISS index type (brute-force L2) recorded in the manifest for this store."},
+        {"term": "incremental build / duplicates_skipped", "definition": "Rebuild that skips documents whose content hash is unchanged, reported via duplicates_skipped and documents_processed=0."}
+      ],
+      "config": ["allow_dangerous_deserialization (FAISS store flag)", "embedding_model / embedding_normalize (embedding metadata)"],
+      "notes": "Uses DummyEmbeddings returning deterministic 384-dim vectors so no real model loads. FAISS store created at tmp dir with allow_dangerous_deserialization=True. Empty document is counted as empty_documents_skipped, not an error."
+    },
+    {
+      "path": "tests/unit/test_cloud_llm_service.py",
+      "purpose": "Unit tests for CloudLLMService API-key validation and Gemini/OpenRouter SSE streaming parse, using a mocked urllib.urlopen.",
+      "key_symbols": [
+        "test_cloud_llm_missing_api_key",
+        "test_cloud_llm_gemini_generate_stream",
+        "test_cloud_llm_openrouter_generate_stream"
+      ],
+      "terms": [
+        {"term": "CloudLLMServiceError", "definition": "Application exception raised when the cloud LLM API key is missing or a call fails."},
+        {"term": "SSE stream", "definition": "Server-Sent Events format ('data: {...}' frames ending with '[DONE]') used by Gemini and OpenRouter streaming endpoints."}
+      ],
+      "config": [],
+      "notes": "Patches urllib.request.urlopen with an in-memory BytesIO response. Gemini frames parse candidates[].content.parts[].text; OpenRouter frames parse choices[].delta.content."
+    },
+    {
+      "path": "tests/unit/test_confidence_engine.py",
+      "purpose": "Unit tests for ConfidenceEngine scoring at high/low/empty confidence based on cross-encoder-derived distances.",
+      "key_symbols": [
+        "test_confidence_engine_high_confidence",
+        "test_confidence_engine_low_confidence",
+        "test_confidence_engine_empty_results"
+      ],
+      "terms": [
+        {"term": "confidence assessment", "definition": "Result object with confidence_score, confidence_level, supporting_chunk_count, and supporting_sources produced by ConfidenceEngine.evaluate."},
+        {"term": "distance sign convention", "definition": "Because CrossEncoderReranker stores distance = -cross_encoder_score, negative distances indicate strong positive relevance; positive distances indicate irrelevant content."}
+      ],
+      "config": [],
+      "notes": "Asserts confidence_level membership across case variants {'HIGH','High','Very High'} to stay resilient to label formatting. Empty input yields score 0.0 and LOW level."
+    },
+    {
+      "path": "tests/unit/test_connectivity_checker.py",
+      "purpose": "Unit tests for ConnectivityChecker online-status detection and per-endpoint reachability caching.",
+      "key_symbols": [
+        "test_is_online_success",
+        "test_is_online_failure",
+        "test_is_online_caching_behavior",
+        "test_is_cloud_endpoint_reachable_caching",
+        "test_connectivity_checker_with_settings"
+      ],
+      "terms": [
+        {"term": "ConnectivityChecker", "definition": "Infrastructure service that pings a check URL (and optionally a cloud endpoint) with TTL-based result caching and force_recheck bypass."}
+      ],
+      "config": ["connectivity_check_url", "connectivity_check_timeout_seconds", "connectivity_check_cache_seconds (settings)"],
+      "notes": "Patches _ping_url so no network traffic occurs. Empty/None cloud endpoints return False immediately without pinging. Verifies Settings-driven construction."
+    },
+    {
+      "path": "tests/unit/test_context_composer.py",
+      "purpose": "Unit tests for ContextComposer chunk deduplication, '-dup' filename collapsing, content-similarity dedup, budget limiting, and citation metadata preservation.",
+      "key_symbols": [
+        "create_search_result",
+        "test_collapse_dup_filename_pair",
+        "test_distinct_sources_not_merged",
+        "test_content_similarity_deduplication",
+        "test_composer_disabled_passthrough",
+        "test_context_budget_limit",
+        "test_citation_metadata_preserved"
+      ],
+      "terms": [
+        {"term": "ContextComposer", "definition": "Post-retrieval processor that collapses near-duplicate chunks ('-dup' filename variants or highly similar text) and enforces a max_context_size budget before prompt construction."},
+        {"term": "dedup_threshold", "definition": "Similarity ratio (e.g. 0.85) above which two chunks are considered duplicates and merged."},
+        {"term": "breadcrumb", "definition": "Metadata path (e.g. 'Campus > fee-structure.md') carried on documents for citation/navigation."}
+      ],
+      "config": ["enable_composer (ContextComposer flag)", "dedup_threshold", "max_context_size"],
+      "notes": "Distinct sources sharing boilerplate intro must NOT be merged (test guards against over-aggressive dedup). Budget test keeps the first doc and drops the second when total exceeds max_context_size."
+    },
+    {
+      "path": "tests/unit/test_conversation_engine.py",
+      "purpose": "Unit tests for the legacy ConversationManager history trimming and reset, plus standalone QueryRewriter pronoun/fragment resolution.",
+      "key_symbols": [
+        "test_conversation_manager_history_and_trimming",
+        "test_conversation_manager_reset",
+        "test_query_rewriter_standalone_rewriting",
+        "test_query_rewriter_independent_query"
+      ],
+      "terms": [
+        {"term": "ConversationManager", "definition": "Conversation-history manager (max_history_turns trimming, reset_session) used by the legacy interaction path."},
+        {"term": "ChatMessage", "definition": "Domain dataclass with role and content used for conversation history."},
+        {"term": "pronoun resolution", "definition": "Rewriting follow-ups like 'What about its timings?' into full standalone queries containing the resolved antecedent (e.g. 'Central Library')."}
+      ],
+      "config": [],
+      "notes": "QueryRewriter in this test accepts Sequence[ChatMessage] history (objects with role/content), whereas test_conversation_memory_optimized feeds it plain dicts — both shapes appear across the suite."
+    },
+    {
+      "path": "tests/unit/test_cross_encoder_reranker.py",
+      "purpose": "Unit tests for CrossEncoderReranker disabled pass-through, metadata preservation, and fallback when an invalid model is configured.",
+      "key_symbols": [
+        "test_cross_encoder_reranker_disabled",
+        "test_cross_encoder_reranker_metadata_preservation",
+        "test_cross_encoder_reranker_fallback_on_invalid_model"
+      ],
+      "terms": [
+        {"term": "rerank_with_stats", "definition": "CrossEncoderReranker entry point returning (results, stats) where stats includes reranker_status ('disabled'/'fallback'/'error_fallback')."}
+      ],
+      "config": ["reranker_model (settings)", "enabled (reranker flag)"],
+      "notes": "Disabled mode is a pure pass-through that must preserve all metadata fields. Invalid model names produce a fallback rather than raising, and content is passed through unchanged."
+    },
+    {
+      "path": "tests/unit/test_evaluation_framework.py",
+      "purpose": "Unit tests for the RAG evaluation framework metrics (recall@k, MRR, keyword coverage) and YAML dataset loading via EvaluationRunner.",
+      "key_symbols": [
+        "test_metric_recall_at_k",
+        "test_metric_mrr",
+        "test_metric_keyword_coverage",
+        "test_evaluation_runner_dataset_loading"
+      ],
+      "terms": [
+        {"term": "Recall@k", "definition": "Fraction of expected relevant documents found within the top-k retrieved results."},
+        {"term": "MRR", "definition": "Mean Reciprocal Rank: 1/rank of the first relevant result, averaged over queries."},
+        {"term": "keyword coverage", "definition": "Ratio of expected answer keywords actually present in the generated reply."},
+        {"term": "EvaluationRunner", "definition": "Evaluation harness that loads a questions.yaml dataset and runs it against a RAG pipeline, writing reports to an output_dir."}
+      ],
+      "config": ["questions.yaml dataset (id, category, question, expected_answer_keywords, expected_sources)"],
+      "notes": "YAML dataset format: top-level 'questions:' list. DummyPipeline is an empty class — only dataset loading is exercised here, not execution."
+    },
+    {
+      "path": "tests/unit/test_generation_router.py",
+      "purpose": "Unit tests for GenerationRouter local/cloud LLM routing, feature-flag passthrough, connectivity-based selection, and error fallback for both generate and generate_stream.",
+      "key_symbols": [
+        "mock_local_llm (fixture)",
+        "mock_cloud_llm (fixture)",
+        "mock_checker (fixture)",
+        "test_router_disabled_passthrough",
+        "test_router_online_uses_cloud",
+        "test_router_offline_uses_local",
+        "test_router_cloud_failure_falls_back_to_local",
+        "test_router_stream_cloud_failure_falls_back_to_local"
+      ],
+      "terms": [
+        {"term": "GenerationRouter", "definition": "Feature-flagged dispatcher that sends prompts to a cloud LLM when online/configured and falls back to the local Ollama LLM when offline or on CloudLLMServiceError."},
+        {"term": "feature flag", "definition": "enable_cloud_llm_router setting; when False the router is a pure passthrough to the local LLM without any connectivity check."}
+      ],
+      "config": ["enable_cloud_llm_router (settings)"],
+      "notes": "All services are MagicMocks, so no network/LLM runs. Cloud failure via side_effect=CloudLLMServiceError is verified to fall back to local for both sync and streaming."
+    },
+    {
+      "path": "tests/unit/test_hybrid_retriever.py",
+      "purpose": "Unit tests for BM25 exact keyword search and HybridRetriever Reciprocal Rank Fusion (boosting overlap docs, dedup, stats).",
+      "key_symbols": [
+        "MockFAISSSimilarityStore",
+        "test_bm25_search_store_exact_keyword_matching",
+        "test_hybrid_retriever_reciprocal_rank_fusion",
+        "test_hybrid_retriever_deduplication"
+      ],
+      "terms": [
+        {"term": "RRF (Reciprocal Rank Fusion)", "definition": "Fusion formula scoring each document by 1/(k + rank) summed across BM25 and dense ranks, so documents appearing in both lists get boosted."},
+        {"term": "bm25_top_k / dense_top_k / final_top_k", "definition": "Candidate counts fetched from each retriever and the fused final list size."},
+        {"term": "rrf_k", "definition": "Smoothing constant k in the RRF scoring formula (default 60)."}
+      ],
+      "config": ["rrf_k (retriever kwarg)"],
+      "notes": "MockFAISSSimilarityStore simulates the dense store. Search results carry metadata 'source'/'title'. Stats dict includes bm25_hits, dense_hits, retrieval_latency_ms."
+    },
+    {
+      "path": "tests/unit/test_intent_routing_rag_skip.py",
+      "purpose": "Unit tests proving RAGChatService bypasses RAG search entirely for conversational intents (greetings, small talk, thanks, bye) while campus queries invoke it.",
+      "key_symbols": [
+        "SpyRAGPipeline",
+        "MockLLMService",
+        "test_conversational_intents_bypass_rag",
+        "test_campus_query_invokes_rag"
+      ],
+      "terms": [
+        {"term": "intent routing / RAG skip", "definition": "RAGChatService behavior that classifies a query as conversational and skips pipeline.search, answering directly from the LLM."}
+      ],
+      "config": [],
+      "notes": "SpyRAGPipeline records search() calls and returns a high-distance result so a non-skipped query would hit the low-confidence fallback. Tests assert the fallback reply is never returned for conversational queries."
+    },
+    {
+      "path": "tests/unit/test_knowledge_loader.py",
+      "purpose": "Unit tests for MarkdownKnowledgeLoader (frontmatter parsing, extension validation), composite KnowledgeLoader dispatch, and RAGPipeline backward-compat ingest alias.",
+      "key_symbols": [
+        "test_markdown_knowledge_loader_valid",
+        "test_markdown_knowledge_loader_invalid_extension",
+        "test_knowledge_loader_composite",
+        "test_rag_pipeline_backward_compatibility"
+      ],
+      "terms": [
+        {"term": "MarkdownKnowledgeLoader", "definition": "Loader that parses Markdown files (including YAML frontmatter into metadata) and rejects non-Markdown extensions."},
+        {"term": "frontmatter", "definition": "YAML header delimited by '---' containing metadata (title, category) that is stripped from indexed content."},
+        {"term": "KnowledgeLoader", "definition": "Composite loader that dispatches by file extension to the appropriate format adapter."}
+      ],
+      "config": ["knowledge_source_path (settings)", "max_file_size_bytes"],
+      "notes": "Unsupported extensions raise ValueError ('Unsupported knowledge source extension'). RAGPipeline.ingest_pdf remains as a backward-compatible alias accepting any loader/chunker/store."
+    },
+    {
+      "path": "tests/unit/test_knowledge_normalization.py",
+      "purpose": "Unit tests for the knowledge normalization pipeline: text cleaning, metadata extraction, duplicate detection, and directory processing into canonical markdown.",
+      "key_symbols": [
+        "test_markdown_text_cleaner",
+        "test_metadata_extractor",
+        "test_duplicate_detector",
+        "test_normalization_pipeline"
+      ],
+      "terms": [
+        {"term": "MarkdownTextCleaner", "definition": "Normalizes raw markdown: strips CR, HTML <br>, collapses blank/extra spaces."},
+        {"term": "MetadataExtractor", "definition": "Derives title, category, word_count, sha256 hash, and processed_at from content plus source path."},
+        {"term": "DuplicateDetector", "definition": "Tracks seen content hashes and flags later duplicate texts as duplicates."},
+        {"term": "KnowledgeNormalizationPipeline", "definition": "Processes a raw knowledge directory into a canonical directory (adding frontmatter) and reports files_scanned/processed/duplicates_skipped."}
+      ],
+      "config": [],
+      "notes": "Canonical output re-adds '---' frontmatter with title. Category defaults to 'general' when not inferable."
+    },
+    {
+      "path": "tests/unit/test_markdown_chunker.py",
+      "purpose": "Unit tests for MarkdownSemanticChunker (header-based splitting, table preservation), SemanticDocumentChunker routing, and chunk statistics.",
+      "key_symbols": [
+        "test_markdown_semantic_chunker_header_splitting",
+        "test_markdown_semantic_chunker_table_preservation",
+        "test_semantic_document_chunker_routing",
+        "test_compute_chunk_statistics"
+      ],
+      "terms": [
+        {"term": "MarkdownSemanticChunker", "definition": "Chunker that splits documents on Markdown headers (adding section_title/page_title metadata) while keeping tables intact."},
+        {"term": "SemanticDocumentChunker", "definition": "Router that dispatches each document to the appropriate chunker (markdown vs plain text/PDF) based on source."},
+        {"term": "chunk statistics", "definition": "Aggregated size stats (number_of_chunks, smallest/largest/average chunk size) computed by compute_chunk_statistics."}
+      ],
+      "config": ["chunk_size", "chunk_overlap"],
+      "notes": "Table rows and header must remain contiguous within a chunk (table preservation). Metadata propagation (source, title) from parent document to chunks is asserted."
+    },
+    {
+      "path": "tests/unit/test_prompt_context_builder.py",
+      "purpose": "Unit tests for PromptContextBuilder context formatting with source citations, distance-threshold filtering, dedup, and max-context-size capping.",
+      "key_symbols": [
+        "test_prompt_context_builder_formatting_and_citations",
+        "test_prompt_context_builder_threshold_filtering",
+        "test_prompt_context_builder_deduplication",
+        "test_prompt_context_builder_max_context_size"
+      ],
+      "terms": [
+        {"term": "PromptContextBuilder", "definition": "Formats retrieved SearchResults into a prompt context block with '[Source: <file> | Title: ... | Section: ...]' citation headers, applying threshold/dedup/budget filters."},
+        {"term": "similarity_threshold", "definition": "Distance cutoff; SearchResults with distance above it are excluded from the context block."}
+      ],
+      "config": ["max_context_size (builder)", "similarity_threshold (builder)"],
+      "notes": "Section header is derived from metadata key 'Header 2'. Dedup collapses identical chunk text to one occurrence. Context length is capped at max_context_size characters."
+    },
+    {
+      "path": "tests/unit/test_retrieval_optimizations.py",
+      "purpose": "Unittest-style tests for retrieval optimizations: top-k document deduplication in RAGPipeline.search and candidate-window expansion to reranker_top_n.",
+      "key_symbols": [
+        "TestRetrievalOptimizations",
+        "test_settings_retrieval_configuration",
+        "test_rag_pipeline_deduplication",
+        "test_rag_pipeline_candidate_expansion"
+      ],
+      "terms": [
+        {"term": "candidate window", "definition": "Number of candidates requested from the similarity store (settings.candidate_window=20, expanded to reranker_top_n=25 for rerankers) before final top-k selection."},
+        {"term": "document deduplication", "definition": "RAGPipeline dedups chunks sharing the same source_filename so one document cannot dominate the final results."}
+      ],
+      "config": ["candidate_window", "final_top_k", "deduplicate_documents", "reranker_top_n", "reranker_top_m (settings defaults)"],
+      "notes": "Uses unittest.TestCase style (assertEqual). Asserts mock_store.search called with limit=25 (the expanded candidate window). Settings defaults asserted: candidate_window=20, deduplicate_documents=True, reranker_top_n=20, reranker_top_m=5."
+    },
+    {
+      "path": "tests/unit/test_robot_main.py",
+      "purpose": "Unit tests for the robot_main build_production_runtime entry point in mock mode and with device-index overrides.",
+      "key_symbols": [
+        "test_build_production_runtime_mock_mode",
+        "test_build_production_runtime_device_overrides"
+      ],
+      "terms": [
+        {"term": "build_production_runtime", "definition": "Robot CLI entry point that assembles a SystemRuntime, optionally in mock mode (use_mock=True) or with camera/mic/speaker index overrides."}
+      ],
+      "config": [],
+      "notes": "Asserts runtime.camera._use_mock_fallback and runtime.vad._use_mock_fallback are True in mock mode, and that camera_index/mic_index/speaker_index overrides land on the private attributes _camera_index and _device_index."
+    },
+    {
+      "path": "tests/unit/test_settings_safety.py",
+      "purpose": "Unit tests for Settings validation warning when a small (1.5b) offline model is combined with ContextComposer disabled.",
+      "key_symbols": [
+        "test_settings_offline_model_safety_warning",
+        "test_settings_offline_model_safety_no_warning"
+      ],
+      "terms": [
+        {"term": "unhealthy RAG configuration", "definition": "A logged WARNING ('UNHEALTHY RAG CONFIGURATION DETECTED') when OFFLINE_LLM_MODEL is 1.5b and ENABLE_CONTEXT_COMPOSER is False, signalling likely hallucination risk."}
+      ],
+      "config": ["OFFLINE_LLM_MODEL (env)", "ENABLE_CONTEXT_COMPOSER (env)"],
+      "notes": "Uses monkeypatch+caplog to assert the warning text. No warning when model is 3b or composer enabled — reflects known deployment tuning toward qwen2.5:3b."
+    },
+    {
+      "path": "tests/unit/test_sprint1_core.py",
+      "purpose": "Sprint 1 smoke tests for settings, DiagnosticTracer span logging, and KBLoader/MetadataManager metadata validation.",
+      "key_symbols": [
+        "test_sprint1_config_and_settings",
+        "test_sprint1_tracer",
+        "test_sprint1_kb_loader_and_metadata"
+      ],
+      "terms": [
+        {"term": "KBLoader", "definition": "Sprint 1 knowledge-base loader from infrastructure.loaders.kb_loader."},
+        {"term": "MetadataManager", "definition": "Validates document metadata (title, category, document_type, entity_type, department, campus_scope) and returns warnings for invalid values."}
+      ],
+      "config": ["app_name", "rag_search_limit (settings)"],
+      "notes": "Tracer span dict keyed by 'query', 'trace_id', 'retrieval'. MetadataManager.validate returns warnings list (empty for valid metadata)."
+    },
+    {
+      "path": "tests/unit/test_sprint3_core.py",
+      "purpose": "Sprint 3 unit tests for AnswerabilityEngine (Insufficient/Partial/Supported), CitationValidator (in-bounds citations, out-of-bounds removal, fabricated URL stripping), ConversationMemory trimming, and SessionManager TTL.",
+      "key_symbols": [
+        "test_sprint3_answerability",
+        "test_sprint3_citation_validator",
+        "test_sprint3_conversation_memory",
+        "test_sprint3_session_manager"
+      ],
+      "terms": [
+        {"term": "AnswerabilityEngine", "definition": "Classifies whether a question is answerable given retrieved context and confidence: 'Insufficient', 'Partial', or 'Supported'."},
+        {"term": "CitationValidator", "definition": "Post-generation guard that keeps only in-bounds [n] citations referencing supplied contexts and strips fabricated URLs."},
+        {"term": "fabricated URL", "definition": "A URL in the reply that does not match any context's source_url and is therefore removed by CitationValidator."}
+      ],
+      "config": [],
+      "notes": "CitationValidator removes out-of-bounds '[3]' and strips https://www.fabricated-url.com/fake. ConversationMemory trims to max_history_turns (2 turns = 4 messages). SessionManager uses a 1s TTL with real sleep."
+    },
+    {
+      "path": "tests/test_person_detector.py",
+      "purpose": "Unit tests for the PersonDetector state machine: hysteresis/debounce reset, face-center normalization, single-greeting-once logic, and 2-tuple backward-compat unpacking.",
+      "key_symbols": [
+        "DummyCascade",
+        "test_person_detector_initial_state",
+        "test_person_detector_hysteresis_reset",
+        "test_face_center_position_calculation",
+        "test_single_greeting_on_frontal_face"
+      ],
+      "terms": [
+        {"term": "PersonDetector", "definition": "Vision state machine using an OpenCV Haar cascade; tracks person presence, fires on_person_entered/on_person_left callbacks, and reports normalized face_center and face_forward."},
+        {"term": "hysteresis / reset_frames_threshold", "definition": "Number of consecutive frames without a face before the detector debounces and flips to 'person left', preventing flicker."},
+        {"term": "face_center", "definition": "Normalized (x, y) coordinates of the detected face center within the frame (0.5, 0.5 = center)."},
+        {"term": "greeted_this_session", "definition": "Flag ensuring the greeting callback fires only once per approach."}
+      ],
+      "config": ["reset_frames_threshold"],
+      "notes": "Uses numpy zero frames and a DummyCascade returning canned face bounding boxes, so no real camera or OpenCV model runs. detect_in_frame returns an object that also unpacks as (is_present, annotated) for backward compatibility."
+    },
+    {
+      "path": "tests/test_retrieval_report_generator.py",
+      "purpose": "Unit tests for the evaluation RetrievalReportGenerator: markdown/JSON/failed-cases/CSV generation, overwrite protection, report validation, and filesystem error handling.",
+      "key_symbols": [
+        "build_dummy_report",
+        "temp_output_dir (fixture)",
+        "test_generate_markdown_success_status",
+        "test_save_markdown_overwrite_protection",
+        "test_validate_report_invalid_values",
+        "test_write_file_os_error",
+        "test_generate_all_reports_end_to_end",
+        "test_smoke_report_generation"
+      ],
+      "terms": [
+        {"term": "RetrievalReportGenerator", "definition": "Evaluation tool that renders a RetrievalAggregateReport into markdown, JSON, failed-cases JSON, and summary CSV files with overwrite protection."},
+        {"term": "RetrievalAggregateReport", "definition": "Dataclass aggregating per-item retrieval results (Recall@1/3/5, MRR, latency percentiles, success/failure rates) and a category breakdown."},
+        {"term": "RetrievalItemResult", "definition": "Per-question result record with expected vs retrieved documents, ranks, reciprocal rank, latency, and failure_reason."},
+        {"term": "FailedCaseRecord", "definition": "Record of a failed retrieval with retrieved_documents, similarity_scores, rank, and failure_reason."},
+        {"term": "Recall@k", "definition": "Whether/when the expected document appears in the top-k retrieved list (recall_at_1/3/5)."},
+        {"term": "ReportGenerationError", "definition": "Custom exception raised when report file writing fails (e.g. PermissionError)."},
+        {"term": "NEEDS OPTIMIZATION", "definition": "Status label embedded in generated markdown when success rate or Recall@1 is below target."}
+      ],
+      "config": [],
+      "notes": "Imports from evaluation.benchmarks.retrieval_metrics and evaluation.benchmarks.retrieval_report_generator (root-level evaluation package, not src/). Validates rates in 0-1 range and non-negative latencies. generate_all_reports returns a dict keyed by markdown/json/failed_cases/csv."
+    }
+  ],
+  "data_flow": "The test suite consumes the src/campus_helpdesk package (and a few legacy/root-level modules) exactly as production does: FastAPI TestClient drives the API layer (create_app with injected/mocked LLM services), RAGChatService/RAGPipeline are exercised directly with fake loaders/chunkers/stores or real FAISS/BM25/sentence-transformers components, and the robot stack is driven through the real EventBus by publishing EventEnvelope objects manually. Shared settings come from get_settings() with the conftest OLLAMA_MODEL seed; env vars (OFFLINE_LLM_MODEL, ENABLE_CONTEXT_COMPOSER) and Settings constructor kwargs are used to test configuration paths. The analytics tests write real SQLite files under tmp_path and publish events over a real threaded EventBus. Outputs are assertion results consumed by pytest; the test_rag_consistency suite produces a printed 10-question accuracy report under __main__.",
+  "external_deps": [
+    "pytest",
+    "fastapi.testclient (starlette TestClient)",
+    "unittest.mock",
+    "numpy",
+    "opencv-python (cv2) — imported by test_full_conversation",
+    "sqlite3 (stdlib) — MetricsStore real DB",
+    "sentence-transformers — real SentenceTransformerEmbeddings in integration tests",
+    "faiss — real FAISSSimilarityStore in integration tests",
+    "rank_bm25 / BM25 store internals — BM25SearchStore",
+    "legacy root modules (ttt_service.TTTService, evaluation.benchmarks.*) — referenced by test_rag_consistency and test_retrieval_report_generator",
+    "local Ollama (via OLLAMA_MODEL env) — only implicitly, most tests avoid a live instance"
+  ],
+  "risks": [
+    "test_rag_consistency.py imports the legacy ttt_service.TTTService and hard-codes ground-truth strings (Block C/2nd floor, 8 AM-8 PM, fabricated-hours blacklist), so it breaks silently if the knowledge corpus or model changes; it is a benchmark, not a pytest test, and is skipped by test collection.",
+    "Multiple integration tests reach into private attributes (app.state.chat_service._rag_pipeline, runtime.inference._backend.simulate_delay_sec, runtime.camera._use_mock_fallback) and assert on dict-typed message shapes, coupling tests to implementation details.",
+    "test_full_conversation imports cv2 and numpy unconditionally, so it fails to import if OpenCV is not installed in the venv.",
+    "Several tests rely on real time.sleep for async EventBus handler delivery (0.1-2.0s), which is timing-flaky on slow CI; there is no deterministic flush/wait primitive for the analytics or interaction event buses.",
+    "test_single_production_pipeline and test_sprint2_pipeline require a real loaded FAISS index and real embedding/reranker models on disk (gated by FAISS_ALLOW_DANGEROUS_DESERIALIZATION / EMBEDDING_LOCAL_FILES_ONLY), so they degrade or fail when index artifacts are absent.",
+    "test_sprint1_core's MetadataManager.validate asserts warnings for 'invalid-type' document_type and 'Invalid Department' — category/document_type/department enum drift in the validator breaks these assertions.",
+    "test_retrieval_report_generator depends on the root-level evaluation.benchmarks package (not src/), which is not covered by the layered-src test config and may be missed if pytest pythonpath changes.",
+    "Hardcoded domain facts (library 8 AM-8 PM, admissions 10 AM-4 PM, phone 555-0199, library@campus.edu) are scattered across test_rag_consistency verifiers rather than centralized in a fixtures/ground-truth module.",
+    "Conftest sets only OLLAMA_MODEL; there is no centralized fixture factory for the common fake pipeline/LLM service pattern, which is re-implemented in each test file with slightly different fake classes."
+  ]
+}

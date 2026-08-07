@@ -1,0 +1,187 @@
+{
+  "folder": "src/campus_helpdesk/api/",
+  "title": "HTTP API layer (FastAPI)",
+  "purpose": "The FastAPI HTTP transport layer is the primary production surface of the campus helpdesk. It exposes the RAG chatbot as POST /chat, records user feedback, serves an embedded browser chat UI, and reports system health/readiness. Routes parse and validate requests with Pydantic schemas, delegate to the application-layer ChatService (the RAGChatService instantiated in main.py), and translate application exceptions into HTTP error responses. The API layer never touches the vector index, LLM, or memory directly; it is a thin transport over the application core.",
+  "files": [
+    {
+      "path": "src/campus_helpdesk/api/__init__.py",
+      "purpose": "Package marker for the API transport layer; contains only a module docstring.",
+      "key_symbols": [],
+      "terms": [],
+      "config": [],
+      "notes": "No code beyond the docstring \"FastAPI transport layer.\""
+    },
+    {
+      "path": "src/campus_helpdesk/api/router.py",
+      "purpose": "Composes the system and chat sub-routers into the single top-level api_router included by the FastAPI app.",
+      "key_symbols": ["api_router", "chat_router", "system_router"],
+      "terms": [
+        {
+          "term": "APIRouter",
+          "definition": "FastAPI's route-grouping object; api_router aggregates system_router and chat_router and is the one router the app factory includes."
+        }
+      ],
+      "config": [],
+      "notes": "system_router is included before chat_router; chat_router carries its own /chat prefix. api_router is imported by src/campus_helpdesk/main.py and mounted with app.include_router(api_router)."
+    },
+    {
+      "path": "src/campus_helpdesk/api/dependencies.py",
+      "purpose": "Defines the FastAPI dependency that hands route handlers the configured chat service from the application container.",
+      "key_symbols": ["get_chat_service"],
+      "terms": [
+        {
+          "term": "dependency injection",
+          "definition": "FastAPI's Depends mechanism used here to supply the ChatService to /chat handlers by reading it off the app container instead of constructing it in the route."
+        },
+        {
+          "term": "ChatService (Protocol)",
+          "definition": "A structural Protocol in application/chat_service.py declaring the respond() contract; routes are typed against it, while the concrete implementation is RAGChatService."
+        },
+        {
+          "term": "app.state",
+          "definition": "FastAPI's application-level state bag; create_app() stores the Settings and the RAGChatService instance here so routes can access them through the Request object."
+        }
+      ],
+      "config": [],
+      "notes": "get_chat_service returns cast(ChatService, request.app.state.chat_service) — a bare cast to the Protocol with no runtime check. Note the Protocol's respond(message) signature omits the session_id parameter that the concrete RAGChatService.respond(message, session_id) takes, so the interface is looser than the implementation."
+    },
+    {
+      "path": "src/campus_helpdesk/api/routes/__init__.py",
+      "purpose": "Package marker for the HTTP route modules; contains only a module docstring.",
+      "key_symbols": [],
+      "terms": [],
+      "config": [],
+      "notes": "No code beyond the docstring."
+    },
+    {
+      "path": "src/campus_helpdesk/api/routes/chat.py",
+      "purpose": "Implements POST /chat (generate a reply from the local LLM) and POST /chat/feedback (record helpfulness feedback).",
+      "key_symbols": ["router", "FeedbackRequest", "chat", "feedback"],
+      "terms": [
+        {
+          "term": "session_id",
+          "definition": "String identifying a conversation session; defaults to \"default\" and is passed through to the chat service so multi-turn history can be keyed and preserved per session."
+        },
+        {
+          "term": "LLMServiceError",
+          "definition": "Application-layer exception (subclass of TransientError) raised when the local language model fails to generate; the route maps it to HTTP 503 Service Unavailable."
+        },
+        {
+          "term": "HTTP 503",
+          "definition": "Service Unavailable status returned by /chat when the underlying chat service raises LLMServiceError."
+        },
+        {
+          "term": "helpfulness feedback",
+          "definition": "A user rating of a Q&A pair (query, reply, helpful boolean, session_id) appended to a JSONL log for prompt tuning and monitoring."
+        },
+        {
+          "term": "JSONL",
+          "definition": "Line-delimited JSON text format used for the feedback log at logs/user_feedback.jsonl; each line is one feedback record."
+        }
+      ],
+      "config": [],
+      "notes": "FeedbackRequest is defined inline in this route file rather than in api/schemas/. The feedback endpoint does not depend on the chat service and writes to logs/user_feedback.jsonl relative to the CWD (os.makedirs(\"logs\")). The chat() endpoint calls chat_service.respond(payload.message, session_id=payload.session_id) and maps a ChatResult's reply and status into ChatResponse. The embedded web UI also POSTs to /chat without a session_id, so browser clients all share the \"default\" session."
+    },
+    {
+      "path": "src/campus_helpdesk/api/routes/system.py",
+      "purpose": "Serves the embedded browser chat UI at GET / and exposes GET /health and GET /ready diagnostics for Ollama, the FAISS/RAG index, disk, and memory.",
+      "key_symbols": ["router", "HTML_WEB_UI", "root", "health", "ready"],
+      "terms": [
+        {
+          "term": "RAG",
+          "definition": "Retrieval-augmented generation; the approach this system uses — retrieve knowledge chunks from a FAISS/BM25 index and let the local LLM answer grounded in them (invoked in the web UI title and health checks)."
+        },
+        {
+          "term": "FAISS index",
+          "definition": "The persisted vector search index loaded from disk; the health/ready checks treat the existence of an index.faiss file under the configured faiss_index_path as the proxy for \"RAG is loadable\"."
+        },
+        {
+          "term": "Ollama",
+          "definition": "The local LLM server expected at ollama_base_url (default http://127.0.0.1:11434); health and readiness probe it with a synchronous HTTP GET to /api/tags."
+        },
+        {
+          "term": "health endpoint",
+          "definition": "GET /health — returns a HealthResponse with an overall status plus per-component strings (ollama, faiss, rag, whisper, tts, camera), disk space, and memory."
+        },
+        {
+          "term": "readiness endpoint",
+          "definition": "GET /ready — returns HTTP 200 with status \"ready\" only when Ollama responds and the FAISS index file exists, otherwise HTTP 503 with a not_ready detail."
+        },
+        {
+          "term": "HTML_WEB_UI",
+          "definition": "A self-contained HTML/CSS/JS chat interface embedded as a large string constant and served at GET / when the client's Accept header requests text/html."
+        },
+        {
+          "term": "TTS",
+          "definition": "Text-to-speech; the health check reports it as \"healthy (pyttsx3 ready)\" without actually probing a TTS backend."
+        }
+      ],
+      "config": [
+        "settings.ollama_base_url (default http://127.0.0.1:11434; from config.yaml ollama.base_url / env OLLAMA_BASE_URL) — read via request.app.state.settings",
+        "settings.faiss_index_path (default data/faiss; from config.yaml / env) — read via request.app.state.settings"
+      ],
+      "notes": "BUG: line ~213 uses logger.warning(...) but no logger is defined in this module, so the health endpoint raises NameError if shutil.disk_usage() throws OSError (same class of defect as vad_service.py). Several checks are hardcoded stubs: whisper/tts/camera are always reported \"healthy\", memory_info is always {\"status\": \"healthy\"}. FAISS is checked only by file existence (never actually loaded), and despite the ready() docstring claiming a BM25 check, no BM25 probe exists. The root route returns JSON {message, status} without using the defined RootResponse schema. Uses a synchronous httpx client per request. The web UI renders bot replies into the DOM via innerHTML (XSS surface)."
+    },
+    {
+      "path": "src/campus_helpdesk/api/schemas/__init__.py",
+      "purpose": "Package marker for the request/response schema modules; contains only a module docstring.",
+      "key_symbols": [],
+      "terms": [],
+      "config": [],
+      "notes": "No code beyond the docstring."
+    },
+    {
+      "path": "src/campus_helpdesk/api/schemas/chat.py",
+      "purpose": "Defines the Pydantic request and response models for the chat endpoint.",
+      "key_symbols": ["ChatRequest", "ChatResponse"],
+      "terms": [
+        {
+          "term": "ChatRequest",
+          "definition": "Pydantic request body model for POST /chat: message constrained to 1-4000 characters and an optional session_id defaulting to \"default\"."
+        },
+        {
+          "term": "ChatResponse",
+          "definition": "Pydantic response model for POST /chat: the generated reply string plus a status string produced by the service."
+        },
+        {
+          "term": "Pydantic model",
+          "definition": "Validation/serialization schema used by FastAPI to parse request bodies and shape response bodies declared via response_model."
+        }
+      ],
+      "config": [],
+      "notes": "Only message length is validated (min 1, max 4000 chars); session_id has no format constraints. ChatResponse.status is a free-form string."
+    },
+    {
+      "path": "src/campus_helpdesk/api/schemas/system.py",
+      "purpose": "Defines the Pydantic response schemas for the system endpoints.",
+      "key_symbols": ["RootResponse", "HealthResponse"],
+      "terms": [
+        {
+          "term": "HealthResponse",
+          "definition": "Response schema for GET /health carrying an overall status string, a per-component status map, and disk_space/memory info dicts."
+        },
+        {
+          "term": "RootResponse",
+          "definition": "Schema for the API identity JSON (message, status); defined here but not actually used by the root route, which returns a hand-built JSONResponse."
+        }
+      ],
+      "config": [],
+      "notes": "RootResponse is dead code — the root route returns a JSONResponse literal instead of using this model."
+    }
+  ],
+  "data_flow": "Wired by src/campus_helpdesk/main.py: create_app() sets app.state.settings and app.state.chat_service = RAGChatService(llm_service, rag_pipeline, query_rewriter, context_builder, session_manager, confidence_engine, answerability_engine, DEFAULT_SYSTEM_PROMPT, context_composer), then app.include_router(api_router). Inbound: POST /chat carries {message, session_id}; the chat dependency get_chat_service reads app.state.chat_service and calls RAGChatService.respond(message, session_id=...), which returns a ChatResult whose reply and status are mapped into ChatResponse; LLMServiceError is translated to HTTP 503. POST /chat/feedback appends a JSONL record to CWD-relative logs/user_feedback.jsonl. GET / serves the embedded HTML web UI (or a JSON identity blob for API clients); GET /health and GET /ready probe Ollama via GET {ollama_base_url}/api/tags and check for the index.faiss file, returning HealthResponse JSON or HTTP 503. Outbound the layer touches only the application ChatService and Ollama's HTTP API; it has no direct access to the FAISS/BM25 index, memory store, or database.",
+  "external_deps": [
+    "fastapi (APIRouter, Request, Depends, HTTPException, status)",
+    "pydantic (BaseModel, Field)",
+    "httpx (sync client used by system routes to probe Ollama)",
+    "starlette (via FastAPI: Request, HTMLResponse, JSONResponse)",
+    "Python stdlib: shutil, os, json, pathlib"
+  ],
+  "risks": [
+    "system.py references logger.warning without defining logger; the /health route raises NameError if shutil.disk_usage() raises OSError.",
+    "Health and readiness checks are largely cosmetic: whisper/tts/camera always report healthy, memory_info is a constant placeholder, FAISS is verified only by file existence (index never loaded), and the BM25 check promised in the ready() docstring does not exist.",
+    "Security surface: the embedded web UI renders bot replies via innerHTML (XSS), main.py sets CORS allow_origins=[\"*\"] with allow_credentials=True, and the API has no authentication or rate limiting; the browser UI posts without a session_id so all browser clients share one \"default\" session.",
+    "POST /chat/feedback writes to a CWD-relative logs/user_feedback.jsonl (unauthenticated), swallows all exceptions into HTTP 500, and leaks the exception text to the client.",
+    "Dead/mismatched code: RootResponse schema is unused, and the ChatService Protocol.respond signature omits the session_id parameter the concrete RAGChatService.respond accepts, so the DI contract is looser than the implementation."
+  ]
+}

@@ -2,19 +2,10 @@
 
 import logging
 import sys
-from pathlib import Path
 
 from campus_helpdesk.application.rag_chat_service import RAGChatService
-from campus_helpdesk.application.rag_pipeline import RAGPipeline
 from campus_helpdesk.config.logging import configure_logging
 from campus_helpdesk.config.settings import get_settings
-from campus_helpdesk.infrastructure.llm.ollama_service import OllamaLLMService
-from campus_helpdesk.infrastructure.rag.faiss_store import FAISSSimilarityStore
-from campus_helpdesk.infrastructure.rag.markdown_loader import MarkdownKnowledgeLoader
-from campus_helpdesk.infrastructure.rag.semantic_chunker import SemanticDocumentChunker
-from campus_helpdesk.infrastructure.rag.sentence_transformer_embeddings import (
-    SentenceTransformerEmbeddings,
-)
 
 logger = logging.getLogger(__name__)
 

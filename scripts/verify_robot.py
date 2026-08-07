@@ -28,9 +28,7 @@ Validates 20 core requirements:
 
 import logging
 import os
-import sys
 import time
-import cv2
 import numpy as np
 
 try:
@@ -41,7 +39,6 @@ except ImportError:
 from campus_helpdesk.infrastructure.vision.camera_manager import CameraManager
 from campus_helpdesk.infrastructure.vision.greeting_manager import GreetingManager
 from campus_helpdesk.infrastructure.vision.intent_engine import IntentPerceptionEngine, RobotPerceptionState
-from campus_helpdesk.infrastructure.vision.person_detector import PersonDetector
 from campus_helpdesk.services.llm_service import LLMService
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(name)s: %(message)s")

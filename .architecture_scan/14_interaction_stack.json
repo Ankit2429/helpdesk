@@ -1,0 +1,166 @@
+{
+  "folder": "src/campus_helpdesk/interaction/",
+  "title": "Robot interaction, runtime & presentation",
+  "purpose": "This is the real-time robot interaction engine: a thread-safe, priority-ordered event bus plus a strongly-typed immutable event model, a finite state machine (FSM) that is the single source of truth for the robot lifecycle, and an InteractionManager that orchestrates services purely by reacting to events and publishing control events. SystemRuntime wires the whole stack together (camera, vision, VAD, STT, inference, TTS) with ordered startup/shutdown and health checks, and the presentation package provides both a modern CustomTkinter kiosk chat UI and a legacy Tkinter demo window. This entire stack is the Raspberry Pi / desktop robot deployment and is NOT imported by the FastAPI production path (main.py).",
+  "files": [
+    {
+      "path": "src/campus_helpdesk/interaction/__init__.py",
+      "purpose": "Package marker that declares the interaction package as the Phase 3 Real-Time Interaction Engine.",
+      "key_symbols": [],
+      "terms": [],
+      "config": [],
+      "notes": "Docstring-only module; no code. Identifies the package as the event system, state machine, event bus, and service implementations for the robot runtime."
+    },
+    {
+      "path": "src/campus_helpdesk/interaction/event_bus.py",
+      "purpose": "Implements a thread-safe, priority-ordered publish-subscribe EventBus that is the exclusive inter-service communication channel for the robot runtime.",
+      "key_symbols": ["EventBus", "SubscriptionHandle", "BusStatistics", "HandlerType", "_SubscriptionRecord", "_QueueEntry", "subscribe", "unsubscribe", "publish", "publish_async", "publish_sync", "_dispatch_loop", "_dispatch_event", "_invoke_handler", "clear", "shutdown", "health", "statistics", "queue_depth", "registered_subscribers"],
+      "terms": [
+        {"term": "event bus", "definition": "A publish-subscribe channel over which every robot service communicates; no service calls another service directly, decoupling producers (camera, VAD, STT, TTS) from the InteractionManager FSM."},
+        {"term": "dispatcher thread", "definition": "A single daemon thread that pulls one queued event at a time, submits all matching handlers to a thread pool, and waits for every handler to finish before dispatching the next event, guaranteeing FSM transition ordering."},
+        {"term": "publish_sync", "definition": "A blocking publish variant that waits until all handlers for the event have completed (or a timeout elapses); it raises RuntimeError if called from the dispatcher or a handler thread to prevent deadlock."},
+        {"term": "wildcard subscription", "definition": "A subscription registered with event_types=None that receives every event on the bus, used by SystemRuntime._trace_event to log all conversations."},
+        {"term": "one-shot subscription", "definition": "A subscription that is automatically removed after its first successful delivery."},
+        {"term": "min_priority", "definition": "A per-subscriber threshold; events whose priority is below it are silently skipped for that handler."},
+        {"term": "overflow policy", "definition": "When the queue is full, overflow_drop=True (default) drops the event and counts it, while overflow_drop=False makes the publisher block until space is available."}
+      ],
+      "config": [],
+      "notes": "Defaults: maxsize=1000, max_workers=8, overflow_drop=True, overflow_timeout=0.1s, handler future timeout hardcoded to 10.0s in _dispatch_event. Async (coroutine) handlers are executed with asyncio.run per invocation — no shared event loop. All handlers for one event run concurrently in a ThreadPoolExecutor; the dispatcher serializes events. Errors are isolated per handler and counted in handler_failures. Envelopes are ordered by (-priority.value, sequence) so CRITICAL dequeues first, FIFO within a priority."
+    },
+    {
+      "path": "src/campus_helpdesk/interaction/events.py",
+      "purpose": "Defines the complete strongly-typed, immutable event model: the EventType enum, EventPriority, 13 frozen payload dataclasses, and the hashable, serializable EventEnvelope container.",
+      "key_symbols": ["EVENT_SCHEMA_VERSION", "EventType", "EventPriority", "SystemPayload", "PersonDetectedPayload", "PersonLeftPayload", "VoicePayload", "TranscriptPayload", "QueryPayload", "AnswerPayload", "TTSPayload", "SessionPayload", "ErrorPayload", "WarningPayload", "TimeoutPayload", "CameraPayload", "AnyPayload", "EVENT_PAYLOAD_MAP", "_PAYLOAD_CLASS_MAP", "EventEnvelope", "EventEnvelope.create", "EventEnvelope.reply", "EventEnvelope.to_dict/from_dict/to_json/from_json"],
+      "terms": [
+        {"term": "EventEnvelope", "definition": "The immutable, hashable container that carries a typed payload plus event_id (UUID4), session_id, correlation_id, UTC timestamp, priority, metadata, and a schema version across the event bus."},
+        {"term": "EventType", "definition": "A unique upper-snake-case enum of the canonical events flowing through the bus (e.g. PERSON_DETECTED, VOICE_STARTED, TRANSCRIPT_FINAL, ANSWER_READY), each documenting its producer, consumers, and payload type."},
+        {"term": "EventPriority", "definition": "An int enum (LOW=0, NORMAL=1, HIGH=2, CRITICAL=3) that orders events in the bus queue; NORMAL is the default."},
+        {"term": "correlation_id", "definition": "The event_id of the parent event that caused this one, enabling end-to-end event-chain tracing in logs; EventEnvelope.reply() chains a response to its trigger."},
+        {"term": "payload", "definition": "A strongly-typed frozen dataclass attached to an envelope (e.g. TranscriptPayload, AnswerPayload); EventEnvelope validates at construction that the payload runtime type matches EVENT_PAYLOAD_MAP for the event type."},
+        {"term": "schema version", "definition": "A version string (EVENT_SCHEMA_VERSION='1.0') carried on every envelope so consumers can handle future schema additions gracefully."}
+      ],
+      "config": [],
+      "notes": "Every payload is a frozen dataclass with to_dict/from_dict serialization and range validation in __post_init__. AnswerPayload.confidence_level accepts five tiers {VERY HIGH, HIGH, MEDIUM, LOW, VERY LOW} although its docstring says HIGH/MEDIUM/LOW. CameraPayload.frame_data (raw image bytes) is deliberately excluded from dict/JSON serialization to avoid copying overhead. metadata is stored as an immutable tuple of (key, value) pairs so the envelope stays hashable. EVENT_PAYLOAD_MAP also covers MICROPHONE_* events (VoicePayload), which are omitted from the __all__ payload-type list."
+    },
+    {
+      "path": "src/campus_helpdesk/interaction/interaction_manager.py",
+      "purpose": "Central orchestrator that subscribes to bus events, validates each against the FSM, performs state transitions, tracks lightweight interaction context, and publishes follow-up control events (SESSION_STARTED/ENDED, QUERY_STARTED) — it performs no hardware/inference work itself.",
+      "key_symbols": ["InteractionContext", "InteractionManager", "handle_event", "_subscribe_all", "_start_timeout_monitor", "_timeout_loop", "_handle_system_ready", "_handle_person_detected", "_handle_person_left", "_handle_voice_started", "_handle_voice_stopped", "_handle_transcript_final", "_handle_query_completed", "_handle_answer_ready", "_handle_tts_lifecycle", "_handle_timeout", "_handle_error", "shutdown", "current_state", "current_context", "statistics", "last_event", "uptime", "event_count", "current_session"],
+      "terms": [
+        {"term": "barge-in", "definition": "The behavior where a VOICE_STARTED event fired while the robot is SPEAKING interrupts TTS playback (via a tts_interrupt_callback) and transitions the FSM to LISTENING, so the user can cut the assistant off."},
+        {"term": "deferred events", "definition": "Events (currently only PERSON_DETECTED) received while the FSM is in BOOTING/INITIALIZING are queued and replayed once SYSTEM_READY fires, so a person approaching during boot is not lost."},
+        {"term": "interaction context", "definition": "A lightweight mutable record (InteractionContext) of the active conversation: session_id, correlation_id, interaction_id, last transcript/answer event ids, used to deduplicate and correlate events."},
+        {"term": "timeout monitor", "definition": "A background daemon thread that polls RobotStateMachine.check_timeout() every 0.5s and publishes a TIMEOUT event, which the manager then handles with state-specific recovery transitions."}
+      ],
+      "config": [],
+      "notes": "Registered via a single subscribe() call listing all watched event types for in-order processing. Empty STT transcripts are never forwarded to the RAG pipeline (LISTENING -> READY or ignored in PROCESSING). TRANSCRIPT_FINAL is deduplicated by event_id. READY timeout returns to IDLE and publishes SESSION_ENDED; LISTENING/PROCESSING/SPEAKING timeouts recover to READY; fatal ERROR events transition the FSM to ERROR. Uses RLock; shutdown unsubscribes and joins the timeout thread. enable_barge_in, tts_interrupt_callback, and session_clear_callback are constructor-injected by SystemRuntime."
+    },
+    {
+      "path": "src/campus_helpdesk/interaction/robot_state.py",
+      "purpose": "Thread-safe finite state machine (FSM) that is the single source of truth for the robot lifecycle, validating every state transition against a legal transition map and tracking transition history and per-state timeouts.",
+      "key_symbols": ["InvalidTransitionError", "RobotState", "TransitionRecord", "_VALID_TRANSITIONS", "RobotStateMachine", "transition_to", "state", "previous_state", "time_in_state", "transition_count", "uptime", "register_on_enter", "register_on_exit", "register_on_transition", "configure_timeout", "get_timeout", "check_timeout", "history", "state_statistics", "diagnostics"],
+      "terms": [
+        {"term": "FSM (finite state machine)", "definition": "The robot lifecycle model with states BOOTING, INITIALIZING, IDLE, READY, LISTENING, PROCESSING, SPEAKING, ERROR, SHUTDOWN; every service must route state changes through it rather than tracking its own state."},
+        {"term": "state timeout", "definition": "A per-state maximum dwell time in seconds; check_timeout() reports an exceeded timeout but never transitions automatically — the InteractionManager applies recovery policy."},
+        {"term": "transition hooks", "definition": "Callbacks registered via register_on_enter/on_exit/on_transition that run synchronously on the transitioning thread; hook exceptions are logged and isolated so they cannot corrupt FSM state."},
+        {"term": "terminal state", "definition": "SHUTDOWN, from which no transition is legal (its transition set is empty); ERROR and SHUTDOWN are otherwise reachable from any non-SHUTDOWN state."}
+      ],
+      "config": [],
+      "notes": "Timeouts are configured programmatically by SystemRuntime.start(): READY=8s, LISTENING=15s, PROCESSING=30s. A transition to the current state is a silent no-op. Transition to SHUTDOWN or ERROR is universally legal from any state except SHUTDOWN. Known dead code: __init__ sets self._lock = time.perf_counter (a leftover that is never used; the real guard is self._fsm_lock). max_history_size defaults to 1000. configure_timeout(state, <=0) removes the timeout."
+    },
+    {
+      "path": "src/campus_helpdesk/runtime/system_runtime.py",
+      "purpose": "End-to-end orchestrator that wires the EventBus, RobotStateMachine, InteractionManager, and all robot services (camera, vision, VAD, STT, inference adapter, TTS) into one runtime with strict ordered startup/shutdown, startup health checks, conversation tracking, and aggregate diagnostics.",
+      "key_symbols": ["ConversationTracker", "SystemRuntime", "start", "stop", "shutdown", "is_running", "clear_session_memory", "_trace_event", "diagnostics"],
+      "terms": [
+        {"term": "structured conversation log", "definition": "Per-session record produced by ConversationTracker from traced bus events, capturing event timeline, latency timestamps (vision, VAD, STT, inference, TTS), errors, and completion_state (SUCCESS/INTERRUPTED/FAILED/IN_PROGRESS)."},
+        {"term": "graceful degradation", "definition": "The startup policy that camera, microphone, speaker, and Whisper failures only log warnings and let the runtime continue (possibly on mock backends), while only Ollama and the FAISS/RAG index are hard startup blockers."},
+        {"term": "startup health check", "definition": "Runtime probes of camera (CameraManager), microphone/speaker (sounddevice query_devices), Ollama (GET /api/tags via httpx), Whisper, and the FAISS index existence, summarized as a PASS/FAIL block in the logs."}
+      ],
+      "config": ["enable_barge_in (settings, via get_settings())", "ollama_base_url (settings, used for the /api/tags health probe)", "faiss_index_path (settings, RAG health check existence test)"],
+      "notes": "Known production risk (matches CLAUDE.md): VAD is hardcoded with device_index=99 and use_mock_fallback=True, so the mic always runs as a mock. clear_session_memory reaches into the private attribute chain inference._backend._chat_service.session_manager. Startup health probes touch private fields (_camera_index, _is_mock, _device_index, _backend) and the comment documents that opening a competing cv2.VideoCapture on the same DirectShow index triggers a false CAMERA_DISCONNECTED reconnect loop. FSM timeouts are hardcoded (READY=8s, LISTENING=15s, PROCESSING=30s). start() re-creates the InteractionManager if it was previously shut down. SYSTEM_READY is published via publish_sync with a hardcoded services_healthy=8. diagnostics() falls back to hardcoded placeholders (cpu 2.5%, mem 45.2MB) when psutil is missing. stop() drains the bus but only shutdown() terminates the bus thread pools."
+    },
+    {
+      "path": "src/campus_helpdesk/presentation/__init__.py",
+      "purpose": "Package exports for the presentation layer, re-exporting only ModernChatWindow.",
+      "key_symbols": ["ModernChatWindow", "__all__"],
+      "terms": [],
+      "config": [],
+      "notes": "Single-line re-export of ModernChatWindow from chat_window. Note ModernChatWindow is the legacy Tkinter demo window, not the modern CustomTkinter ChatView used by the kiosk, which is not re-exported here."
+    },
+    {
+      "path": "src/campus_helpdesk/presentation/chat_view.py",
+      "purpose": "CustomTkinter touchscreen kiosk chat component (ChatView) rendering chat bubbles, status bar, language switcher, animated mic/voice input, and streaming RAG responses with simultaneous sentence-level TTS playback.",
+      "key_symbols": ["ChatView", "get_logger", "_build_ui", "_start_clock_timer", "_on_lang_change", "trigger_greeting", "_cancel_active_tasks", "start_voice_recording", "_toggle_voice", "_capture_voice", "_on_voice_transcript", "update_voice_state", "update_live_transcript", "_send_message", "_add_user_bubble", "_add_thinking_bubble", "_start_thinking_animation", "_stop_thinking_animation", "_add_assistant_bubble", "_add_system_badge", "_run_rag_stream_worker", "_update_active_assistant_text", "_finalize_non_streamed_response", "_handle_worker_error"],
+      "terms": [
+        {"term": "streaming tokens", "definition": "LLM output chunks consumed from ask_stream_callback; each token is appended to the assistant bubble and accumulated into a sentence buffer that is handed to TTS once a sentence-terminating punctuation mark appears."},
+        {"term": "language switcher", "definition": "A header dropdown mapping display languages (English/Kannada/Hindi/Hinglish/Kanglish) to codes (en/kn/hi/hinglish/kanglish) that are passed into the ask/ask_stream callbacks and TTS."},
+        {"term": "thinking animation", "definition": "A periodic UI timer that cycles 'Thinking .' dots on the active assistant card until the first streamed token arrives."}
+      ],
+      "config": [],
+      "notes": "Fully callback-decoupled: ask_callback, ask_stream_callback, stt_callback, and tts_service are constructor-injected, so this view never imports the chat service. RAG worker runs in a daemon thread and marshals every UI mutation through master.after(0, ...). Known bug: in _capture_voice the except block wraps a bare except Exception: but its lambda references 'e', which is undefined in Python 3.11 — a NameError would propagate. Falls back to the non-streaming ask_callback when the stream yields 0 tokens. Hardcoded 'Sparky — KLE Tech AI Campus Guide' branding and a hardcoded welcome bubble. Language values include 'Hinglish'/'Kanglish' pseudo-codes."
+    },
+    {
+      "path": "src/campus_helpdesk/presentation/chat_window.py",
+      "purpose": "Legacy desktop Tkinter demo window (ModernChatWindow) that drives the robot demo end to end: chat transcript, voice input, TTS, background headless camera person detection, and a Mappls 3D campus map button.",
+      "key_symbols": ["ModernChatWindow", "BG_MAIN", "PANEL_BG", "BORDER_COLOR", "HEADER_BG", "HEADER_FG", "TEXT_MAIN", "TEXT_MUTED", "ACCENT_PRIMARY", "ACCENT_HOVER", "MIC_BG_NORMAL", "MIC_BG_HOVER", "MIC_BG_ACTIVE", "MIC_FG_ACTIVE", "_build_ui", "_bind_hover", "_update_status_ui", "_append_chat_message", "_handle_person_entered", "_handle_person_left", "_send_user_message", "_toggle_voice_input", "_capture_live_voice", "_append_chat_message_start", "_append_chat_message_chunk", "_append_chat_message_finalize", "_process_question_async", "_init_camera", "_update_camera_feed", "start", "_open_bvb_3d_map"],
+      "terms": [
+        {"term": "RobotStatus", "definition": "A status enum (IDLE/LISTENING/THINKING/SPEAKING) from application.session_controller that drives the window's status badge colors via a SessionController callback."},
+        {"term": "headless camera capture", "definition": "A background loop that reads cv2 frames every ~40ms without rendering them, feeding them to the PersonDetector for presence events; the camera is released after 10 consecutive read failures."}
+      ],
+      "config": ["webcam_index (constructor arg, default 0)", "environment variables OPENCV_LOG_LEVEL=OFF and OPENCV_VIDEOIO_PRIORITY_MSMF=0 set at camera init"],
+      "notes": "This is a separate demo path: it imports the legacy layers (application.chat_service.ChatService, application.session_controller, infrastructure.audio.stt_service/tts_service, infrastructure.vision.person_detector) rather than the services/ or interaction/ event-bus stack. It monkey-patches the detector's private _on_person_entered/_on_person_left attributes. The Mappls 3D map URL (https://www.mappls.com/724ADS) is hardcoded. _process_question_async streams via ChatService.respond_stream and speaks per-sentence via TTS. This is the class exported by presentation/__init__."
+    },
+    {
+      "path": "src/campus_helpdesk/presentation/theme.py",
+      "purpose": "Centralized CustomTkinter theme engine defining dark/light color palettes with KLE Tech amber brand accents, a typography scale, and appearance-mode integration.",
+      "key_symbols": ["ThemeColors", "DARK_THEME", "LIGHT_THEME", "ThemeEngine", "toggle_theme", "font_page_title", "font_card_title", "font_body", "font_caption"],
+      "terms": [
+        {"term": "theme palette", "definition": "A ThemeColors dataclass with ~20 named colors (bg_main, panel_bg, accent_primary, accent_brand, user_bubble_bg, etc.) built on the Tailwind slate palette; the brand accent is KLE Tech warm amber/orange."},
+        {"term": "appearance mode", "definition": "CustomTkinter's global dark/light setting; ThemeEngine toggles it together with the active ThemeColors palette and the built-in 'blue' color theme."}
+      ],
+      "config": [],
+      "notes": "ThemeEngine(mode='dark') is the default. The font_* static methods return fresh CTkFont instances on every call (Segoe UI family). accent_brand differs per theme (#EA580C dark, #D97706 light)."
+    },
+    {
+      "path": "src/campus_helpdesk/presentation/widgets/__init__.py",
+      "purpose": "Package marker for CustomTkinter presentation widgets.",
+      "key_symbols": [],
+      "terms": [],
+      "config": [],
+      "notes": "Docstring-only init; MascotAvatar and LatencySparkline are importable as submodules."
+    },
+    {
+      "path": "src/campus_helpdesk/presentation/widgets/mascot.py",
+      "purpose": "Canvas-rendered 'Sparky' robot mascot avatar badge (MascotAvatar) drawn procedurally for the kiosk header.",
+      "key_symbols": ["MascotAvatar", "draw_mascot"],
+      "terms": [],
+      "config": [],
+      "notes": "Pure procedural Tk canvas drawing (rounded head, antenna, side bolts, visor, glowing eyes, smile) with hardcoded colors; the 'Animated Eye Dots' comment implies animation but none is implemented."
+    },
+    {
+      "path": "src/campus_helpdesk/presentation/widgets/sparkline.py",
+      "purpose": "Canvas-based LatencySparkline widget that renders a latency trend line and appends new data points over time.",
+      "key_symbols": ["LatencySparkline", "add_data_point", "draw_chart"],
+      "terms": [
+        {"term": "sparkline", "definition": "A small, axis-less line chart drawn on a CTkCanvas showing the latency time series; it keeps at most 12 points and redraws whenever add_data_point() is called."}
+      ],
+      "config": [],
+      "notes": "Seeded with hardcoded demo data [45, 52, 48, 65, 55, 42, 58, 50, 57.6]; background color hardcoded '#1E293B'. It is not wired into ChatView or any other visible consumer in this subsystem, so it is effectively dormant."
+    }
+  ],
+  "data_flow": "Robot services (camera, vision, VAD, STT, inference adapter, TTS) are wired into a shared EventBus by SystemRuntime; they publish typed EventEnvelopes (e.g. PERSON_DETECTED, VOICE_STARTED/STOPPED, TRANSCRIPT_FINAL, ANSWER_READY, TTS_*) and never call each other directly. A single dispatcher thread delivers each event to its subscribers, including the InteractionManager, which validates every event against the RobotStateMachine, performs FSM transitions, updates its InteractionContext, and publishes follow-up control events (SESSION_STARTED/ENDED, QUERY_STARTED) back onto the bus. SystemRuntime also subscribes as a wildcard consumer to feed ConversationTracker, and it orchestrates ordered startup/shutdown and health checks. The presentation layer is separate and human-facing: ChatView (kiosk, CustomTkinter) calls injected ask/ask_stream/STT/TTS callbacks directly and never touches the event bus; ModernChatWindow (legacy demo, Tkinter) drives application.chat_service.ChatService + infrastructure.* services directly. None of this subsystem is imported by the FastAPI path in main.py; it is the standalone robot deployment.",
+  "external_deps": ["customtkinter", "tkinter (stdlib)", "opencv-python (cv2)", "sounddevice (startup mic/speaker probes)", "httpx (Ollama health probe)", "psutil (optional diagnostics, graceful fallback)", "Faster-Whisper (via services/stt_service)", "Piper TTS (via services/tts_service)", "Ollama (via services/inference_adapter)", "stdlib: threading, queue, asyncio, concurrent.futures"],
+  "risks": [
+    "VAD is hardcoded to mock mode (device_index=99, use_mock_fallback=True in SystemRuntime) so real microphone input never runs — a known production risk documented in CLAUDE.md.",
+    "Startup health probes and session-memory clearing reach into private internals (camera._camera_index, vad._device_index/_is_mock, inference._backend._chat_service.session_manager), which will break silently if any service is refactored.",
+    "RobotStateMachine.__init__ leaves a dead assignment self._lock = time.perf_counter (the real guard is _fsm_lock); misleading for maintainers.",
+    "ChatView._capture_voice has a NameError bug: the except handler references 'e' which is not bound by its bare `except Exception:`, so a voice-capture failure raises inside the error path.",
+    "SystemRuntime raises RuntimeError when only Ollama or the FAISS/RAG index fail, but emits only warnings for camera/mic/speaker/Whisper — a policy that can start the robot with a dead mic (mock) while claiming health.",
+    "chat_window.py (the exported ModernChatWindow) imports the legacy application./infrastructure.audio./infrastructure.vision. layers rather than the services/ stack, so the 'modern' presentation __init__ exports a demo path inconsistent with the interaction engine.",
+    "The subsystem is entirely unwired from the FastAPI production path (main.py) — the web UI does not use the event bus, FSM, or InteractionManager.",
+    "Dormant code: LatencySparkline is not referenced by any consumer; mascot 'animated eyes' are static; several metrics (BusStatistics, FSM diagnostics, ConversationTracker) have no visible dashboard/consumer.",
+    "Hardcoded values: FSM timeouts (8/15/30s), SystemRuntime.services_healthy=8, Mappls map URL, Welcome/Sparky branding, sparkline seed data, Ollama base URL only configurable via settings.",
+    "publish_sync/completion uses a 10.0s per-handler future timeout; a slow handler combined with queue overflow_drop=True can silently drop lifecycle events during shutdown."
+  ]
+}

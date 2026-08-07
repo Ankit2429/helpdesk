@@ -1,0 +1,434 @@
+[
+  {
+    "id": "LIB001",
+    "category": "Library",
+    "question": "Where is the Central Library located?",
+    "expected_keywords": [
+      "Block C",
+      "2nd floor",
+      "second floor"
+    ],
+    "expected_sources": [
+      "academic_facilities_c75b38.md"
+    ],
+    "notes": "Location of the main central library.",
+    "opt_reply": "The Central Library is located within KLE Technological University (BVB Engineering College), Hubballi.",
+    "opt_sources": [
+      "07-news-media/overview.md"
+    ],
+    "opt_conf": 0.8367,
+    "opt_matched_kws": [],
+    "opt_is_correct": false
+  },
+  {
+    "id": "ADM001",
+    "category": "Admissions",
+    "question": "What entrance exams are accepted for B.E. undergraduate admissions?",
+    "expected_keywords": [
+      "KCET",
+      "COMEDK",
+      "JEE"
+    ],
+    "expected_sources": [
+      "b_e_biotechnology_b6acae.md",
+      "under_graduate_program_96f748.md"
+    ],
+    "notes": "Required entrance exams for engineering.",
+    "opt_reply": "I couldn't find verified information about that in my knowledge base.",
+    "opt_sources": [
+      "03-admissions-fees/post-graduate-program.md",
+      "03-admissions-fees/admission-notification.md"
+    ],
+    "opt_conf": 0.5171,
+    "opt_matched_kws": [],
+    "opt_is_correct": false
+  },
+  {
+    "id": "ADM002",
+    "category": "Admissions",
+    "question": "What is the official Karnataka CET portal website for engineering admissions?",
+    "expected_keywords": [
+      "cetonline.karnataka.gov.in",
+      "KEA"
+    ],
+    "expected_sources": [
+      "under_graduate_program_96f748.md"
+    ],
+    "notes": "Official government admission portal.",
+    "opt_reply": "The official Karnataka CET (Common Entrance Test) Portal website for engineering admissions is:\n\n\n\nFor detailed information related to the application, examination, allotment of seats/counselling, payment, and admission process, candidates are requested to visit this website.",
+    "opt_sources": [
+      "03-admissions-fees/under-graduate-program.md"
+    ],
+    "opt_conf": 0.8314,
+    "opt_matched_kws": [],
+    "opt_is_correct": false
+  },
+  {
+    "id": "ADM003",
+    "category": "Admissions",
+    "question": "What is the minimum eligibility percentage for general category admissions in 10+2?",
+    "expected_keywords": [
+      "45%",
+      "Physics",
+      "Mathematics"
+    ],
+    "expected_sources": [
+      "b_e_biotechnology_b6acae.md"
+    ],
+    "notes": "Undergraduate aggregate mark requirements.",
+    "opt_reply": "The minimum eligibility percentage for general category admissions in a bachelor's degree (10+2+3) at KLE Technological University, BVB Engineering College, Hubballi is 50%.",
+    "opt_sources": [
+      "02-academics/master-of-business-administration.md"
+    ],
+    "opt_conf": 0.6413,
+    "opt_matched_kws": [],
+    "opt_is_correct": false
+  },
+  {
+    "id": "ADM004",
+    "category": "Admissions",
+    "question": "How do candidates apply under the Management Quota?",
+    "expected_keywords": [
+      "Management Quota",
+      "direct"
+    ],
+    "expected_sources": [
+      "under_graduate_program_96f748.md"
+    ],
+    "notes": "Quota admission policy.",
+    "opt_reply": "I couldn't find verified information about that in my knowledge base.",
+    "opt_sources": [
+      "01-governance-policy/EC-Minutes.md",
+      "07-news-media/MCA-2020.md"
+    ],
+    "opt_conf": 0.8379,
+    "opt_matched_kws": [],
+    "opt_is_correct": false
+  },
+  {
+    "id": "DEP001",
+    "category": "Departments",
+    "question": "What specialization streams are offered under B.E. Computer Science and Engineering?",
+    "expected_keywords": [
+      "Computer Science",
+      "Engineering"
+    ],
+    "expected_sources": [
+      "b_e_computer_science_and_engineering_475790.md"
+    ],
+    "notes": "Computer Science curriculum options.",
+    "opt_reply": "The context provided does not contain information about specialization streams offered under B.E. Computer Science and Engineering at K.L.E.S College of Engineering, Hubballi. \n\nI couldn't find verified information about that in my knowledge base.\n\nPlease refer to the official academic pages or contact the Student Affairs Office for detailed information on specialization streams.",
+    "opt_sources": [
+      "02-academics/b-e-computer-science-and-engineering-artificial-in.md"
+    ],
+    "opt_conf": 0.7729,
+    "opt_matched_kws": [
+      "Computer Science",
+      "Engineering"
+    ],
+    "opt_is_correct": false
+  },
+  {
+    "id": "DEP002",
+    "category": "Departments",
+    "question": "What degree programs are offered by the School of Architecture?",
+    "expected_keywords": [
+      "Bachelor of Architecture",
+      "B.Arch"
+    ],
+    "expected_sources": [
+      "bachelor_of_architecture_95b8b5.md"
+    ],
+    "notes": "Architecture department offerings.",
+    "opt_reply": "I couldn't find verified information about that in my knowledge base.",
+    "opt_sources": [
+      "02-academics/programs.md"
+    ],
+    "opt_conf": 0.5833,
+    "opt_matched_kws": [],
+    "opt_is_correct": false
+  },
+  {
+    "id": "DEP003",
+    "category": "Departments",
+    "question": "Which department manages research inVLSI, power grids, and embedded systems?",
+    "expected_keywords": [
+      "Electrical",
+      "Electronics"
+    ],
+    "expected_sources": [
+      "b_e_electrical_electronics_engineering_05f9e9.md"
+    ],
+    "notes": "Electrical engineering domain.",
+    "opt_reply": "Based on the information provided in the context, there is no specific mention of any department managing research programs related to \"VLSI Design & Embedded Systems.\" The data given focuses on admissions for various courses across different departments but does not include details about which departments manage specific research programs. Therefore, I couldn't find verified information about this in my knowledge base.\n\nI couldn't find verified information about that in my knowledge base.",
+    "opt_sources": [
+      "01-governance-policy/5th_bog_minutes_e084a8.md"
+    ],
+    "opt_conf": 0.5732,
+    "opt_matched_kws": [],
+    "opt_is_correct": false
+  },
+  {
+    "id": "DEP004",
+    "category": "Departments",
+    "question": "What specialized postgraduate law program is offered in Intellectual Property Rights?",
+    "expected_keywords": [
+      "LLM",
+      "IPR"
+    ],
+    "expected_sources": [
+      "llm_ipr_aaf917.md"
+    ],
+    "notes": "LLM Law course.",
+    "opt_reply": "The LL.B (Bachelor of Laws) program at KLE Technological University, Hubballi offers a specialization in Intellectual Property Rights-I as an optional course during the third year.",
+    "opt_sources": [
+      "02-academics/llb.md"
+    ],
+    "opt_conf": 0.5833,
+    "opt_matched_kws": [],
+    "opt_is_correct": false
+  },
+  {
+    "id": "PLC001",
+    "category": "Placements",
+    "question": "What resources and assistance are provided by the Placement Cell?",
+    "expected_keywords": [
+      "Placement Cell",
+      "Recruiters",
+      "Brochure"
+    ],
+    "expected_sources": [
+      "study_with_us_f0d3c3.md"
+    ],
+    "notes": "Placement guidance.",
+    "opt_reply": "I couldn't find verified information about that in my knowledge base.",
+    "opt_sources": [
+      "07-news-media/sedg-cell.md"
+    ],
+    "opt_conf": 0.7946,
+    "opt_matched_kws": [],
+    "opt_is_correct": false
+  },
+  {
+    "id": "PLC003",
+    "category": "Placements",
+    "question": "What companies and industries hire graduates from the Biotechnology department?",
+    "expected_keywords": [
+      "Biotechnology",
+      "research"
+    ],
+    "expected_sources": [
+      "b_e_biotechnology_b6acae.md"
+    ],
+    "notes": "Biotech industry career paths.",
+    "opt_reply": "I couldn't find verified information about that in my knowledge base.",
+    "opt_sources": [
+      "02-academics/b-e-biotechnology.md"
+    ],
+    "opt_conf": 0.6292,
+    "opt_matched_kws": [],
+    "opt_is_correct": false
+  },
+  {
+    "id": "HST001",
+    "category": "Hostel",
+    "question": "What residential facilities and accommodation options exist for on-campus students?",
+    "expected_keywords": [
+      "campus",
+      "hostels",
+      "residential"
+    ],
+    "expected_sources": [
+      "academic_facilities_c75b38.md"
+    ],
+    "notes": "On-campus hostel accommodations.",
+    "opt_reply": "KLE Technological University (BVB Engineering College), Hubballi provides hostel facility for both boys and girls. The hostels are equipped with amenities such as aesthetically built and installed furniture, a dedicated cupboard, a study table, attached bathrooms, and serve wholesome and hygienic food in the dining hall. The facilities are supervised by full-time, dedicated hostel wardens who ensure adherence to set rules, norms, and schedules.",
+    "opt_sources": [
+      "07-news-media/on-campus-facilities.md"
+    ],
+    "opt_conf": 0.796,
+    "opt_matched_kws": [
+      "hostels"
+    ],
+    "opt_is_correct": false
+  },
+  {
+    "id": "HST002",
+    "category": "Hostel",
+    "question": "What sports and fitness amenities are located near the student residences?",
+    "expected_keywords": [
+      "sports",
+      "gym",
+      "ground"
+    ],
+    "expected_sources": [
+      "academic_facilities_c75b38.md"
+    ],
+    "notes": "Recreational facilities.",
+    "opt_reply": "The document does not provide specific information about sports and fitness amenities located near the student residences. It only mentions that the University has state-of-the-art indoor and outdoor facilities on campus to encourage students' participation in sports and cultural activities, but it does not specify their proximity to the student residences. \n\nI couldn't find verified information about that in my knowledge base.",
+    "opt_sources": [
+      "07-news-media/AQAR2021-22ResubmittedAugust2023.md"
+    ],
+    "opt_conf": 0.708,
+    "opt_matched_kws": [
+      "sports"
+    ],
+    "opt_is_correct": false
+  },
+  {
+    "id": "HST004",
+    "category": "Hostel",
+    "question": "What food and dining options exist in campus cafeterias?",
+    "expected_keywords": [
+      "canteen",
+      "food",
+      "cafeteria"
+    ],
+    "expected_sources": [
+      "academic_facilities_c75b38.md"
+    ],
+    "notes": "Dining options for residents.",
+    "opt_reply": "I couldn't find verified information about that in my knowledge base.",
+    "opt_sources": [
+      "07-news-media/on-campus-facilities.md"
+    ],
+    "opt_conf": 0.5762,
+    "opt_matched_kws": [],
+    "opt_is_correct": false
+  },
+  {
+    "id": "REG001",
+    "category": "Library",
+    "question": "Where is the library located in campus?",
+    "expected_keywords": [],
+    "expected_sources": [],
+    "notes": "",
+    "opt_reply": "The Central Library is located within the Campus. However, specific building details are not provided in the given context.",
+    "opt_sources": [
+      "07-news-media/overview.md"
+    ],
+    "opt_conf": 0.7806,
+    "opt_matched_kws": [],
+    "opt_is_correct": false
+  },
+  {
+    "id": "REG002",
+    "category": "Library",
+    "question": "When is the library open?",
+    "expected_keywords": [],
+    "expected_sources": [],
+    "notes": "",
+    "opt_reply": "I couldn't find verified information about specific opening hours in my knowledge base. However, you can typically find this information on the official website of KLE Technological University or by contacting their administration directly. The central library likely has standard operating hours that are common for academic libraries, which may include weekdays from early morning until late evening, with possible breaks during lunchtime. For precise and up-to-date information, please refer to the university's official sources.",
+    "opt_sources": [
+      "07-news-media/education-needs-complete-solution.md"
+    ],
+    "opt_conf": 0.6892,
+    "opt_matched_kws": [],
+    "opt_is_correct": false
+  },
+  {
+    "id": "REG003",
+    "category": "Library",
+    "question": "What are the library hours on weekends?",
+    "expected_keywords": [],
+    "expected_sources": [],
+    "notes": "",
+    "opt_reply": "I couldn't find verified information about that in my knowledge base.",
+    "opt_sources": [
+      "07-news-media/6Sem-BE-B.Arch-BBA2-4-Sem--BCA2sem-June-2023.md"
+    ],
+    "opt_conf": 0.418,
+    "opt_matched_kws": [],
+    "opt_is_correct": false
+  },
+  {
+    "id": "REG004",
+    "category": "Library",
+    "question": "What is the email address for the library?",
+    "expected_keywords": [],
+    "expected_sources": [],
+    "notes": "",
+    "opt_reply": "I couldn't find verified information about that in my knowledge base.",
+    "opt_sources": [
+      "07-news-media/overview.md"
+    ],
+    "opt_conf": 0.6018,
+    "opt_matched_kws": [],
+    "opt_is_correct": false
+  },
+  {
+    "id": "REG005",
+    "category": "Library",
+    "question": "What is the library phone number?",
+    "expected_keywords": [],
+    "expected_sources": [],
+    "notes": "",
+    "opt_reply": "I couldn't find verified information about that in my knowledge base.",
+    "opt_sources": [
+      "07-news-media/Mandatory-Disclosure-Edited.md"
+    ],
+    "opt_conf": 0.6205,
+    "opt_matched_kws": [],
+    "opt_is_correct": false
+  },
+  {
+    "id": "REG006",
+    "category": "Admissions",
+    "question": "Where is the admissions office located?",
+    "expected_keywords": [],
+    "expected_sources": [],
+    "notes": "",
+    "opt_reply": "I couldn't find verified information about that in my knowledge base.",
+    "opt_sources": [
+      "03-admissions-fees/admission-for-ug-program.md"
+    ],
+    "opt_conf": 0.6518,
+    "opt_matched_kws": [],
+    "opt_is_correct": false
+  },
+  {
+    "id": "REG007",
+    "category": "Admissions",
+    "question": "What are the admissions office hours?",
+    "expected_keywords": [],
+    "expected_sources": [],
+    "notes": "",
+    "opt_reply": "I couldn't find verified information about that in my knowledge base.",
+    "opt_sources": [
+      "03-admissions-fees/post-graduate-program.md"
+    ],
+    "opt_conf": 0.555,
+    "opt_matched_kws": [],
+    "opt_is_correct": false
+  },
+  {
+    "id": "REG008",
+    "category": "Admissions",
+    "question": "What is the admissions office phone number?",
+    "expected_keywords": [],
+    "expected_sources": [],
+    "notes": "",
+    "opt_reply": "The admissions office phone numbers for KLE Technological University, B. V. Bhoomaraddi Campus are +91-836-2378103 /105 /106, operating from 11:00 am to 5:30 pm.",
+    "opt_sources": [
+      "07-news-media/contact.md"
+    ],
+    "opt_conf": 0.6264,
+    "opt_matched_kws": [],
+    "opt_is_correct": false
+  },
+  {
+    "id": "REG009",
+    "category": "Admissions",
+    "question": "How can I get admitted?",
+    "expected_keywords": [],
+    "expected_sources": [],
+    "notes": "",
+    "opt_reply": "To get admitted under the University Quota at Mba-2020, a candidate must appear for the entrance test conducted by the University or recognized authorities such as KEA (Karnataka Examination Authority), CMAT (Common Management Admission Test), MAT (Management Aptitude Test), or CAT (Catapult). The University may conduct counseling based on the rankings in these entrance tests or directly admit candidates allotted by the central counseling conducted by these authorities, following any norms or permissions permitted from time to time.",
+    "opt_sources": [
+      "07-news-media/MBA-2020.md"
+    ],
+    "opt_conf": 0.5712,
+    "opt_matched_kws": [],
+    "opt_is_correct": false
+  }
+]

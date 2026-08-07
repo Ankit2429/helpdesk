@@ -1,0 +1,183 @@
+{
+  "folder": "src/campus_helpdesk/application/",
+  "title": "Application / use-case layer",
+  "purpose": "Hosts the orchestration/use-case layer of the campus helpdesk: the chat application service that ties language detection, query rewriting, RAG retrieval, confidence scoring, and the local LLM into the /chat flow, the reusable RAG ingestion/search pipeline, session lifecycle management, and the port (Protocol) definitions the infrastructure layer implements. It also contains two voice-assistant state controllers (ConversationManager, SessionController) that orchestrate the Raspberry Pi robot STT/RAG/TTS loop. It is the middle layer between the FastAPI api/ routes (and robot runtime) on top and the domain/infrastructure/services packages below.",
+  "files": [
+    {
+      "path": "src/campus_helpdesk/application/__init__.py",
+      "purpose": "Empty package marker whose only content is the docstring \"Application use cases and service orchestration.\"",
+      "key_symbols": [],
+      "terms": [],
+      "config": [],
+      "notes": "No code beyond the package docstring; this folder is the orchestration/use-case layer of the system."
+    },
+    {
+      "path": "src/campus_helpdesk/application/chat_models.py",
+      "purpose": "Defines ChatResult, the frozen dataclass returned by every chat application service as the API-level response payload.",
+      "key_symbols": ["ChatResult"],
+      "terms": [
+        {"term": "ChatResult", "definition": "Frozen dataclass wrapping a chat reply along with status, confidence score/level, supporting source names, retrieval statistics, and detected language; returned by RAGChatService.respond()."},
+        {"term": "confidence_level", "definition": "Categorical label (e.g. HIGH) attached to a ChatResult describing how trustworthy the answer is considered."},
+        {"term": "supporting_sources", "definition": "List of source names the answer was grounded on, surfaced to the user for verification."},
+        {"term": "retrieval_statistics", "definition": "Free-form dict of retrieval diagnostics (scores, distances) carried on a ChatResult for logging/auditing."}
+      ],
+      "config": [],
+      "notes": "Defaults the status to \"completed\" and confidence_level to \"HIGH\"; supporting_sources defaults to an empty list."
+    },
+    {
+      "path": "src/campus_helpdesk/application/chat_service.py",
+      "purpose": "Declares ChatService, the Protocol (structural-typing contract) that any chat application service must satisfy by implementing respond(message) -> ChatResult.",
+      "key_symbols": ["ChatService"],
+      "terms": [
+        {"term": "Protocol", "definition": "Python typing construct (PEP 544) used here as a structural interface so consumers depend on the respond() contract rather than a concrete class."}
+      ],
+      "config": [],
+      "notes": "Pure interface; no implementation lives here. RAGChatService is the concrete implementation."
+    },
+    {
+      "path": "src/campus_helpdesk/application/conversation_manager.py",
+      "purpose": "Orchestrates the voice assistant lifecycle state machine (IDLE -> LISTENING -> THINKING -> SPEAKING -> IDLE) for the robot/touch kiosk: wake-word detection, streaming STT, barge-in interruption, and streaming the RAG reply through sentence-level TTS.",
+      "key_symbols": ["AssistantState", "ConversationManager"],
+      "terms": [
+        {"term": "wake word", "definition": "A spoken phrase (default \"Hey Helpdesk\") that transitions the assistant from idle to listening and starts an STT session."},
+        {"term": "barge-in", "definition": "Interruption behavior: when the user starts speaking while the assistant is SPEAKING or THINKING, TTS playback and LLM generation are cancelled and it switches straight to listening."},
+        {"term": "VAD", "definition": "Voice activity detection; user speech onset is used here to trigger barge-in via handle_user_speech_started()."},
+        {"term": "STT", "definition": "Speech-to-text; FasterWhisperSTTService streams microphone audio and yields partial transcripts via a callback."},
+        {"term": "TTS", "definition": "Text-to-speech; NonBlockingTTSService synthesizes the streaming answer sentence-by-sentence and can cancel playback."},
+        {"term": "FSM / state machine", "definition": "The assistant lifecycle tracked by the AssistantState enum (READY/IDLE/LISTENING/THINKING/SPEAKING/ERROR) with thread-safe transitions."},
+        {"term": "session", "definition": "A named conversation context (hardcoded \"voice-kiosk-session\") whose ConversationMemory the manager appends user/assistant messages to."},
+        {"term": "streaming transcript", "definition": "Live partial STT output pushed to a UI callback with an is_final flag as words arrive."}
+      ],
+      "config": [],
+      "notes": "Robot-stack controller that inverts layering: imports infrastructure/audio services, interaction/event_bus and interaction/events directly. Hardcodes session_id \"voice-kiosk-session\", language \"en\" on every TTS call, wake phrase \"Hey Helpdesk\", and the post-wake prompt \"How can I help you?\". reset_session() ignores its session_id parameter and just clears memory. Uses daemon threads for the listening loop and threading.Event for cancellation. Calls chat_service.respond_stream() which RAGChatService implements."
+    },
+    {
+      "path": "src/campus_helpdesk/application/exceptions.py",
+      "purpose": "Defines the application exception hierarchy used to classify recoverable (transient) vs non-recoverable (fatal) vs domain-specific failures.",
+      "key_symbols": ["HelpdeskError", "TransientError", "FatalError", "LLMServiceError", "CloudLLMServiceError", "CameraError", "AudioError", "RetrievalError", "ConfigurationError"],
+      "terms": [
+        {"term": "TransientError", "definition": "Marker subclass of HelpdeskError for recoverable, temporary failures such as a network glitch (LLM/camera/audio/retrieval errors inherit from it)."},
+        {"term": "FatalError", "definition": "Marker subclass of HelpdeskError for non-recoverable failures such as misconfiguration."},
+        {"term": "LLMServiceError", "definition": "Raised when the configured language model cannot produce a response; CloudLLMServiceError is its cloud-provider-specific subtype."}
+      ],
+      "config": [],
+      "notes": "Pure exception definitions, no logic. CameraError/AudioError/RetrievalError may be partly dead given the working pipeline surfaces errors differently (retrieval exceptions are caught and logged inside RAGChatService instead)."
+    },
+    {
+      "path": "src/campus_helpdesk/application/knowledge_ports.py",
+      "purpose": "Defines the three infrastructure ports (Protocols) the RAG pipeline consumes: DocumentLoader, DocumentChunker, and SimilarityStore, so the application layer depends on interfaces instead of concrete adapters.",
+      "key_symbols": ["DocumentLoader", "DocumentChunker", "SimilarityStore"],
+      "terms": [
+        {"term": "port", "definition": "A Protocol interface in this module abstracting an infrastructure adapter (loader, chunker, similarity store) so RAGPipeline stays decoupled from concrete implementations."},
+        {"term": "KnowledgeDocument", "definition": "Domain entity (from domain/knowledge.py) representing a chunk or source document with text and metadata, passed between loader/chunker/store."},
+        {"term": "SearchResult", "definition": "Domain entity pairing a retrieved KnowledgeDocument with a similarity distance, returned by SimilarityStore.search()."},
+        {"term": "chunker", "definition": "Component that splits loaded documents into retrieval-sized chunks while preserving metadata (DocumentChunker port)."},
+        {"term": "similarity store", "definition": "Component that stores embeddings and retrieves nearest documents for a query, with save()/load() persistence (SimilarityStore port)."}
+      ],
+      "config": [],
+      "notes": "Contract-only module; the concrete FAISS/BM25 store, markdown/semantic chunkers, and document loaders live in infrastructure/rag and infrastructure/loaders. SimilarityStore.search takes only (query, limit) while the actual hybrid store supports more — this is the interface the RAGPipeline and _safe_search TypeError fallbacks dance around."
+    },
+    {
+      "path": "src/campus_helpdesk/application/llm_service.py",
+      "purpose": "Declares LLMService, the Protocol contract for language-model generation: generate(prompt) -> str and generate_stream(prompt) -> Iterator[str].",
+      "key_symbols": ["LLMService"],
+      "terms": [
+        {"term": "token stream", "definition": "Incremental generator of response tokens yielded by generate_stream() so replies can be streamed to the client/TTS in real time."}
+      ],
+      "config": [],
+      "notes": "Pure interface. OllamaLLMService in infrastructure/llm/ollama_service.py is the concrete backend; note generate_stream's retry wrapper is a known non-implementation per CLAUDE.md."
+    },
+    {
+      "path": "src/campus_helpdesk/application/query_rewriter.py",
+      "purpose": "Standalone query rewriter that expands campus acronyms, corrects common misspellings, enriches domain-specific queries with synonym keywords, and resolves multi-turn pronouns using prior user turns.",
+      "key_symbols": ["QueryRewriter", "PRONOUN_PATTERN", "rewrite", "_detect_explicit_topic", "_extract_subject"],
+      "terms": [
+        {"term": "query rewriting", "definition": "Transforming the raw user query into a retrieval-friendly standalone query before it hits the vector/hybrid search."},
+        {"term": "acronym expansion", "definition": "Replacing campus abbreviations (e.g. CSE, HOD, VC) with their full name plus aliases so lexical/BM25 retrieval matches."},
+        {"term": "synonym enrichment", "definition": "Appending domain keyword blocks (hostel, library, placement, admission, etc.) plus a campus-context phrase to the query to widen retrieval recall."},
+        {"term": "pronoun resolution", "definition": "Replacing pronouns such as \"it\" or \"they\" with the canonical subject extracted from the most recent relevant user turn."},
+        {"term": "topic tracking", "definition": "Checking whether the current turn names an explicit new topic so the rewriter does not wrongly substitute the previous subject."}
+      ],
+      "config": [],
+      "notes": "Highly hardcoded campus data: the acronym_map, spelling_map, and per-topic enrichment keyword blocks embed KLE/BVB-specific names (e.g. \"Dr M S Sheshgiri Campus Belagavi\", \"Continio\" library). Acronym expansion for \"ME\" only matches uppercase by design (flags=0 when 'ME' in pattern). history is typed Any and parsed ad hoc from a string (user: lines) or list/tuple of objects/dicts. _extract_subject returns Title-cased noun phrases and rejects generic terms."
+    },
+    {
+      "path": "src/campus_helpdesk/application/rag_chat_service.py",
+      "purpose": "RAGChatService, the core /chat use case: normalizes and sanitizes the query, detects language (with optional LLM translation), routes intents, rewrites the query, retrieves and confidence-scores context, and streams/generates the grounded LLM reply while managing per-session conversation memory.",
+      "key_symbols": ["RAGChatService", "ChatResult", "FALLBACK_NO_INFO_REPLY", "DEFAULT_SYSTEM_PROMPT", "GENERAL_SYSTEM_PROMPT", "respond", "respond_stream", "clear_history", "_safe_search"],
+      "terms": [
+        {"term": "RAG", "definition": "Retrieval-augmented generation: grounding the LLM answer with retrieved knowledge context rather than relying on parametric memory alone."},
+        {"term": "intent routing", "definition": "Classifying the query via IntentRouter; non-campus intents (greetings etc.) are answered with a canned response and bypass RAG entirely."},
+        {"term": "confidence engine", "definition": "Scores the retrieved chunks and produces a confidence_score/level used to accept or reject going to the LLM (thresholds 0.35 / reranker 0.1 / distance 1.2)."},
+        {"term": "answerability", "definition": "The AnswerabilityEngine's job of deciding whether retrieved context can actually answer the question; wired in but not called directly in respond()."},
+        {"term": "citation validation", "definition": "Post-generation stripping of fabricated [n] citations and URLs by CitationValidator so the reply only cites real retrieved sources."},
+        {"term": "query normalization", "definition": "normalize_query() lowercasing/fixing spelling and synonyms before processing."},
+        {"term": "prompt sanitization", "definition": "sanitize_user_input() regex-blacklist filtering of user text for injection protection before it is embedded in the prompt."},
+        {"term": "token budget", "definition": "Truncating conversation history and retrieved context to fit the LLM context window via ConversationMemory.truncate_to_token_budget()."},
+        {"term": "system prompt", "definition": "The grounding instructions (\"You are Sparky\") prepended to every prompt; contains strict grounding and no-fabrication rules."},
+        {"term": "confidence threshold calibration", "definition": "Accepting a query when overall score >= 0.35 OR top reranker score >= 0.1 OR top distance <= 1.2; otherwise answering with a rephrase prompt and skipping the LLM."}
+      ],
+      "config": [
+        "get_settings().rag_distance_threshold (config.yaml retrieval.distance_threshold / env RAG_DISTANCE_THRESHOLD) - passed as PromptContextBuilder similarity_threshold",
+        "get_settings().debug (env DEBUG) - enables query-normalization debug mode"
+      ],
+      "notes": "respond() and respond_stream() are near-duplicate ~130-line flows and have already drifted: the stream branch omits the LANGUAGE INSTRUCTION block for non-English replies, the supplemental-retrieval fallback (campus address / VC-name queries with hardcoded string \"Vice Chancellor Board of Governors Dr Prakash Tewari\"), and CitationValidator post-processing that respond() performs. Both hardcode acceptance thresholds (0.35 / 0.1 / 1.2). _safe_search() tries search(query, limit, original_query) then drops kwargs on TypeError - a shim for interface drift in RAGPipeline.search. The context_composer constructor param is typed Any and called as .compose(). Final prompt embeds sanitize_user_input(normalized_message) - sanitizer is a regex blacklist, the known prompt-injection surface noted in CLAUDE.md. Empty-message short circuit returns a hardcoded listening reply. Default session_id is \"default\"."
+    },
+    {
+      "path": "src/campus_helpdesk/application/rag_pipeline.py",
+      "purpose": "Reusable RAGPipeline orchestrating knowledge ingestion (load -> chunk -> index -> persist) and retrieval (candidate search -> cross-encoder rerank -> document-level deduplication -> top-k results).",
+      "key_symbols": ["RAGPipeline", "ingest_file", "ingest_pdf", "search", "load_index"],
+      "terms": [
+        {"term": "ingestion", "definition": "Pipeline stage that loads a source file (.pdf/.md), chunks it, adds chunks to the similarity store, and optionally persists the index."},
+        {"term": "chunking", "definition": "Splitting source documents into retrieval-sized chunks while preserving metadata; delegated to the injected DocumentChunker."},
+        {"term": "candidate search", "definition": "Initial retrieval of a larger candidate set (max(reranker_top_n, limit*5)) before reranking, to give the reranker breadth."},
+        {"term": "rerank", "definition": "Reordering the candidate list with the injected cross-encoder reranker so the most relevant chunks float to the top."},
+        {"term": "document-level deduplication", "definition": "Keeping only the highest-ranked chunk per source document (matched by source_filename/source metadata) so one file cannot flood the results."},
+        {"term": "index", "definition": "The persisted similarity store (FAISS/BM25 hybrid in infrastructure) that search() queries and load_index() restores."}
+      ],
+      "config": [],
+      "notes": "Constructor receives search_limit and reranker_top_n (default 25); no settings are read directly. search() gained an original_query parameter (used as the rerank target when provided) - the signature RAGChatService._safe_search guards against. ingest_file() raises ValueError on empty chunk output. Dedup source-key falls back to str(doc) when no metadata source field exists. ingest_pdf() is a backward-compatible alias for ingest_file()."
+    },
+    {
+      "path": "src/campus_helpdesk/application/session_controller.py",
+      "purpose": "Minimal robot state orchestrator tracking the robot's operational status (IDLE/LISTENING/RECORDING/TRANSCRIBING/THINKING/SPEAKING) and firing a greeting when a person is first detected.",
+      "key_symbols": ["RobotStatus", "SessionController", "GREETING_TEXT", "trigger_greeting", "user_left", "set_status"],
+      "terms": [
+        {"term": "RobotStatus", "definition": "Enum of robot operational FSM states (IDLE, LISTENING, RECORDING, TRANSCRIBING, THINKING, SPEAKING) managed by SessionController."},
+        {"term": "greeting", "definition": "Canned welcome text (\"Hello! Welcome to our campus...\") emitted once on first person detection while the robot is IDLE."}
+      ],
+      "config": [],
+      "notes": "Robot-stack controller. Despite the docstring claiming it triggers STT, RAG, and TTS, this class only manages state + callbacks; no RAG/LLM wiring exists here. Looks largely legacy/underused compared to ConversationManager (which is the live voice orchestration). Callbacks are simple Callables, no thread safety on status."
+    },
+    {
+      "path": "src/campus_helpdesk/application/session_manager.py",
+      "purpose": "Thread-safe, TTL-based SessionManager owning the lifecycle of per-session ConversationMemory blocks: creation, activity stamping, explicit clearing, and lazy expiry cleanup.",
+      "key_symbols": ["SessionManager", "get_or_create_session", "record_activity", "clear_session", "clear_all_sessions", "cleanup_expired_sessions"],
+      "terms": [
+        {"term": "session", "definition": "A per-session_id ConversationMemory block paired with a last-activity float timestamp in the sessions dict."},
+        {"term": "TTL", "definition": "Time-to-live: the inactivity window (memory_session_ttl_seconds) after which a session is cleared and evicted by cleanup_expired_sessions()."},
+        {"term": "ConversationMemory", "definition": "Domain object (from domain/memory/conversation_memory.py) holding a session's message history with token budgeting and summarization triggers."},
+        {"term": "session_id", "definition": "Key identifying a conversation (e.g. \"default\" or a client-provided id); typically a query param/session cookie from the HTTP API."}
+      ],
+      "config": [
+        "get_settings().memory_session_ttl_seconds (config.yaml app.ttl_seconds / env MEMORY_SESSION_TTL_SECONDS, SESSION_TTL_SECONDS, TTL_SECONDS)",
+        "get_settings().memory_max_history_turns (config.yaml memory.max_history_turns / env MEMORY_MAX_HISTORY_TURNS, MAX_HISTORY_TURNS)",
+        "get_settings().memory_summary_trigger_turns (env MEMORY_SUMMARY_TRIGGER_TURNS, SUMMARY_TRIGGER_TURNS)",
+        "get_settings().memory_max_context_tokens (env MEMORY_MAX_CONTEXT_TOKENS, MAX_CONTEXT_TOKENS)"
+      ],
+      "notes": "Cleanup is lazy: cleanup_expired_sessions() runs only inside get_or_create_session(), so an idle session_id lingers until the next request touches it. If get_settings() raises at construction, it silently falls back to hardcoded defaults (TTL 300s, 5 turns, 2048 tokens) - these differ from config.yaml (app.ttl_seconds: 7200, memory.max_history_turns: 3), a drift risk. Uses an RLock and updates the activity stamp on every get_or_create_session() call."
+    }
+  ],
+  "data_flow": "Above it, the FastAPI api/routes/chat.py calls RAGChatService.respond(message, session_id) (and respond_stream for streaming), which returns ChatResult; the robot runtime drives ConversationManager (and legacy SessionController) which in turn calls chat_service.respond_stream(). RAGChatService consumes: LanguageDetector, normalize_query, IntentRouter, sanitize_user_input (services/), QueryRewriter, SessionManager -> ConversationMemory (domain/), RAGPipeline.search -> SimilarityStore/reranker (infrastructure/rag hybrid_retriever + cross_encoder_reranker), ConfidenceEngine, PromptContextBuilder, optional ContextComposer, AnswerabilityEngine (wired but not directly invoked), CitationValidator, and LLMService.generate/generate_stream (OllamaLLMService). The pipeline outputs: an assembled prompt (system prompt + truncated history + built context + user question) sent to the LLM, with the reply stored back into conversation memory and wrapped in a ChatResult (reply, confidence score/level, supporting sources, detected language). RAGPipeline.ingest_file is used by the ingest module to build the index from canonical Markdown. This layer is the only place that glues the domain entities and infrastructure adapters together into the /chat use case.",
+  "external_deps": [],
+  "risks": [
+    "respond() and respond_stream() are near-duplicate flows and already drifted apart (stream branch drops the non-English LANGUAGE INSTRUCTION block, the supplemental-retrieval fallback, and citation validation) - duplicated logic is a recurring maintenance hazard.",
+    "Confidence accept/reject thresholds (0.35 / top_reranker >= 0.1 / top_distance <= 1.2) are hardcoded and duplicated in both chat methods instead of being centralized in the ConfidenceEngine or settings.",
+    "Prompt-injection surface: the final LLM prompt embeds sanitize_user_input(normalized_message), but the sanitizer is a regex blacklist (per CLAUDE.md), and the non-English translation prompt is built from the same sanitized text.",
+    "Interface drift between application and infrastructure: RAGChatService._safe_search() catches TypeError to retry RAGPipeline.search() with progressively fewer kwargs, and context_composer is typed Any - signs the pipeline/search signatures changed without updating the callers.",
+    "QueryRewriter (and the supplemental queries in RAGChatService, which hardcode a person's name \"Dr Prakash Tewari\") embed large volumes of college-specific data (acronyms, misspellings, topic keywords, campus phrases) - stale/incomplete data will silently degrade retrieval and is hard to maintain.",
+    "Layering inversion in this folder: conversation_manager.py and session_controller.py (robot/voice orchestration) import infrastructure/audio services and interaction/event_bus directly, coupling the application layer to the robot stack; SessionController appears legacy/underused.",
+    "SessionManager performs TTL cleanup only lazily inside get_or_create_session(), so stale sessions can persist indefinitely; it also silently falls back to hardcoded defaults (TTL 300s, 5 turns) if settings import fails, which disagree with config.yaml (app.ttl_seconds: 7200, memory.max_history_turns: 3).",
+    "Config drift: memory tuning differs between config.yaml (memory.max_history_turns: 3, max_context_words: 1500) and settings defaults (5 turns / 2048 tokens), and config.yaml wins over .env for overlapping keys via the settings model_validator."
+  ]
+}

@@ -1,0 +1,809 @@
+[
+  {
+    "id": "ADM-11",
+    "category": "Admissions",
+    "query": "Can I transfer from another university to KLE Tech in 3rd semester?",
+    "status": "PARTIAL",
+    "expected_keywords": [
+      "transfer",
+      "migration",
+      "university"
+    ],
+    "bm25_top_sources": [
+      "07-news-media/pravrutti_fae0c3.md",
+      "01-governance-policy/EC-Minutes.md",
+      "03-admissions-fees/international-admission.md"
+    ],
+    "faiss_top_sources": [
+      "01-governance-policy/2nd_ec_minutes_6a55e3.md",
+      "03-admissions-fees/international-admission.md",
+      "02-academics/PhD-regulations-KLE-tech-july-2025.md"
+    ],
+    "reranked_top_sources": [
+      "07-news-media/pravrutti_fae0c3.md",
+      "03-admissions-fees/international-admission.md",
+      "03-admissions-fees/intenational-admission-dup.md"
+    ],
+    "top_content_snippet": "[Location: Events > Oct 15, 2025 > Pravrutti] # Events - Pravrutti  PRAVRUTTI \u2013 the National Tech Fest held at Ramaiah University of Applied Sciences, Bengaluru witnessed the exceptional display of ta"
+  },
+  {
+    "id": "ADM-12",
+    "category": "Admissions",
+    "query": "Does KLE Tech conduct its own entrance examination?",
+    "status": "PARTIAL",
+    "expected_keywords": [
+      "kcet",
+      "comedk",
+      "entrance"
+    ],
+    "bm25_top_sources": [
+      "01-governance-policy/KLE-Tech-Statutes-dup.md",
+      "04-research-centers/scholarships_596da5.md",
+      "01-governance-policy/EC-Minutes.md"
+    ],
+    "faiss_top_sources": [
+      "02-academics/PhD-regulations-KLE-tech-july-2025.md",
+      "07-news-media/Rules-and-Regulations-UG-PG-July-2021.md",
+      "03-admissions-fees/embark-on-a-journey-of-knowledge.md"
+    ],
+    "reranked_top_sources": [
+      "04-research-centers/scholarships_596da5.md",
+      "02-academics/PhD-regulations-KLE-tech-july-2025.md",
+      "02-academics/PhD-regulations-KLE-tech-july-2025.md"
+    ],
+    "top_content_snippet": "[Location: Scholarships at KLE Technological University > University-funded assistance] # Scholarships at KLE Technological University - University-funded assistance  - A Careers360 profile of KLE Tec"
+  },
+  {
+    "id": "DEP-01",
+    "category": "Departments",
+    "query": "What undergraduate engineering programs are offered at KLE Technological University Hubballi campus?",
+    "status": "FAILED",
+    "expected_keywords": [
+      "civil",
+      "computer science",
+      "electronics",
+      "electrical",
+      "mechanical",
+      "biotechnology",
+      "automation"
+    ],
+    "bm25_top_sources": [
+      "07-news-media/AQAR2021-22ResubmittedAugust2023.md",
+      "07-news-media/AQAR-2022-23-system-generated-copy.md",
+      "07-news-media/university_overview_ebb96e.md"
+    ],
+    "faiss_top_sources": [
+      "facilities/campus_guide_canonical.md",
+      "07-news-media/celebrating-glorious-75-years-of-its-existence.md",
+      "07-news-media/KLE-TECH-Annual-Report-2017-18.md"
+    ],
+    "reranked_top_sources": [
+      "07-news-media/AQAR2021-22ResubmittedAugust2023.md",
+      "03-admissions-fees/prospectus.md",
+      "07-news-media/university_overview_ebb96e.md"
+    ],
+    "top_content_snippet": "[Location: Aqar2021-22Resubmittedaugust2023] # Aqar2021-22Resubmittedaugust2023  2. The curriculum structure and the courses offered in the  University engineering programs can be broadly categorized "
+  },
+  {
+    "id": "DEP-15",
+    "category": "Departments",
+    "query": "Does KLE Tech offer MCA or BCA degrees?",
+    "status": "PARTIAL",
+    "expected_keywords": [
+      "mca",
+      "bca",
+      "computer applications"
+    ],
+    "bm25_top_sources": [
+      "07-news-media/academic_calendar_140338.md",
+      "01-governance-policy/KLE-Tech-Statutes-dup.md",
+      "01-governance-policy/EC-Minutes.md"
+    ],
+    "faiss_top_sources": [
+      "03-admissions-fees/embark-on-a-journey-of-knowledge.md",
+      "02-academics/mca-programs.md",
+      "04-research-centers/accreditations_naac_071c25.md"
+    ],
+    "reranked_top_sources": [
+      "02-academics/bachelor-of-computer-applications-bca.md",
+      "02-academics/PhD-regulations-KLE-tech-july-2025.md",
+      "04-research-centers/accreditations_naac_071c25.md"
+    ],
+    "top_content_snippet": "[Location: Bachelor of Computer Applications (BCA)] # Bachelor of Computer Applications (BCA)  | Course | Amount Per Annum (Rs.) | | Bachelor of Computer Application (BCA) | 90,000 |   Note:-   - For "
+  },
+  {
+    "id": "FAC-06",
+    "category": "Faculty",
+    "query": "Who heads the Placement and Training Cell?",
+    "status": "PARTIAL",
+    "expected_keywords": [
+      "placement",
+      "director",
+      "officer"
+    ],
+    "bm25_top_sources": [
+      "04-research-centers/placements_recruiters_79280d.md",
+      "06-careers-placements/Campus-Placement-Brochure.md",
+      "07-news-media/sedg-cell.md"
+    ],
+    "faiss_top_sources": [
+      "02-academics/Biotech-Curriculum-Structure-Content-2021-25.md",
+      "02-academics/bachelor-biomedical-engineering-curriculum-structure-2021-2025.md",
+      "02-academics/Biotech-Curriculum-Structure-Content-2021-25.md"
+    ],
+    "reranked_top_sources": [
+      "04-research-centers/placements_recruiters_79280d.md",
+      "02-academics/Biotech-Curriculum-Structure-Content-2021-25.md",
+      "02-academics/Biotech-Curriculum-Structure-Content-2021-25.md"
+    ],
+    "top_content_snippet": "[Location: Placements and Leading Recruiters > Training and Placement Cell] # Placements and Leading Recruiters - Training and Placement Cell  - **Soft skills training \"VIKAS\":** 64 hours over 4 semes"
+  },
+  {
+    "id": "LIB-08",
+    "category": "Library",
+    "query": "What is the procedure for requesting a book not available in the library catalogue?",
+    "status": "PARTIAL",
+    "expected_keywords": [
+      "inter-library",
+      "request",
+      "procurement"
+    ],
+    "bm25_top_sources": [
+      "07-news-media/facilities.md",
+      "08-infrastructure/library-rules.md",
+      "07-news-media/Mandatory-Disclosure-Edited.md"
+    ],
+    "faiss_top_sources": [
+      "08-infrastructure/library-rules.md",
+      "07-news-media/facilities.md",
+      "07-news-media/Mandatory-Disclosure-Edited.md"
+    ],
+    "reranked_top_sources": [
+      "08-infrastructure/library-rules.md",
+      "08-infrastructure/library-rules.md",
+      "07-news-media/Mandatory-Disclosure-Edited.md"
+    ],
+    "top_content_snippet": "[Location: Library Rules] # Library Rules  ### General Instructions   - Every member of the Library must prepare to identify himself/herself when requested to do so. - Outwears, briefcases, handbags, "
+  },
+  {
+    "id": "LIB-10",
+    "category": "Library",
+    "query": "What is the email address of the Chief Librarian?",
+    "status": "PARTIAL",
+    "expected_keywords": [
+      "librarian",
+      "email",
+      "contact"
+    ],
+    "bm25_top_sources": [
+      "07-news-media/IT-Policies-and-Procedures-Manual-Updated-12-4-21.md",
+      "07-news-media/IT-Policies-and-Procedures-Manual-Updated-12-4-21.md",
+      "08-infrastructure/library-rules.md"
+    ],
+    "faiss_top_sources": [
+      "02-academics/schoolsdepartments.md",
+      "01-governance-policy/governance_7a2386.md",
+      "07-news-media/Mandatory-Disclosure-Edited.md"
+    ],
+    "reranked_top_sources": [
+      "08-infrastructure/library-rules.md",
+      "07-news-media/IT-Policies-and-Procedures-Manual-Updated-12-4-21.md",
+      "07-news-media/Mandatory-Disclosure-Edited.md"
+    ],
+    "top_content_snippet": "[Location: Library Rules] # Library Rules  ### General Instructions   - Every member of the Library must prepare to identify himself/herself when requested to do so. - Outwears, briefcases, handbags, "
+  },
+  {
+    "id": "FEE-04",
+    "category": "Fees",
+    "query": "Are fee waivers provided for SC/ST category students?",
+    "status": "PARTIAL",
+    "expected_keywords": [
+      "sc/st",
+      "ssp",
+      "nsp",
+      "scholarship",
+      "fee waiver"
+    ],
+    "bm25_top_sources": [
+      "02-academics/b-e-biotechnology-dup.md",
+      "04-research-centers/scholarships_596da5.md",
+      "08-infrastructure/library-rules.md"
+    ],
+    "faiss_top_sources": [
+      "07-news-media/MCA-2020.md",
+      "02-academics/course-fee-structure-dup.md",
+      "02-academics/course-fee-structure.md"
+    ],
+    "reranked_top_sources": [
+      "02-academics/b-e-computer-science-and-engineering-dup.md",
+      "02-academics/b-e-biotechnology-dup.md",
+      "02-academics/llm-ipr.md"
+    ],
+    "top_content_snippet": "[Location: B E Computer Science and Engineering] # B E Computer Science and Engineering  - Eligibility Criteria  Passed in 2nd PUC/10 + 2 Examination/ Equivalent Examination with english as one of the"
+  },
+  {
+    "id": "FEE-07",
+    "category": "Fees",
+    "query": "Is there an installment option for paying university tuition fees?",
+    "status": "PARTIAL",
+    "expected_keywords": [
+      "installment",
+      "permission",
+      "payment"
+    ],
+    "bm25_top_sources": [
+      "03-admissions-fees/fee-structure.md",
+      "02-academics/course-fee-structure-dup.md",
+      "02-academics/course-fee-structure.md"
+    ],
+    "faiss_top_sources": [
+      "07-news-media/faq.md",
+      "01-governance-policy/BOG-Minutes.md",
+      "07-news-media/faq-dup.md"
+    ],
+    "reranked_top_sources": [
+      "01-governance-policy/BOG-Minutes.md",
+      "03-admissions-fees/intenational-admission.md",
+      "07-news-media/faq.md"
+    ],
+    "top_content_snippet": "[Location: Bog-Minutes] # Bog-Minutes  1. Tuition Fees  TOTAL - A  TOTAL - B  Note: For Academic Receipts 100% intake is budgeted for 1st year students whereas remaining years is budgeted on the curre"
+  },
+  {
+    "id": "FEE-08",
+    "category": "Fees",
+    "query": "What is the late fee fine for tuition payment past deadline?",
+    "status": "PARTIAL",
+    "expected_keywords": [
+      "late fee",
+      "fine",
+      "penalty"
+    ],
+    "bm25_top_sources": [
+      "03-admissions-fees/intenational-admission-dup.md",
+      "03-admissions-fees/intenational-admission.md",
+      "03-admissions-fees/international-admission.md"
+    ],
+    "faiss_top_sources": [
+      "01-governance-policy/BOG-Minutes.md",
+      "01-governance-policy/BOG-Minutes.md",
+      "01-governance-policy/BOG-Minutes.md"
+    ],
+    "reranked_top_sources": [
+      "03-admissions-fees/intenational-admission.md",
+      "03-admissions-fees/international-admission.md",
+      "01-governance-policy/EC-Minutes.md"
+    ],
+    "top_content_snippet": "[Location: Intenational Admission] # Intenational Admission  ### Fee Payment & Refund Rules  Registration Fee and First Semester Tuition Fee payable to 2022 before submission of online application for"
+  },
+  {
+    "id": "FEE-09",
+    "category": "Fees",
+    "query": "What is the fee refund policy if a student cancels admission?",
+    "status": "FAILED",
+    "expected_keywords": [
+      "refund",
+      "cancellation",
+      "policy",
+      "ugc"
+    ],
+    "bm25_top_sources": [
+      "04-research-centers/rti_disclosures_d21e4d.md",
+      "07-news-media/MCA-2020.md",
+      "03-admissions-fees/intenational-admission-dup.md"
+    ],
+    "faiss_top_sources": [
+      "07-news-media/Rules-and-Regulations-UG-PG-July-2021.md",
+      "01-governance-policy/Minutes-10th-ECM-Online.md",
+      "07-news-media/MBA-2020.md"
+    ],
+    "reranked_top_sources": [
+      "07-news-media/MCA-2020.md",
+      "07-news-media/Rules-and-Regulations-UG-PG-July-2021.md",
+      "07-news-media/MBA-2020.md"
+    ],
+    "top_content_snippet": "[Location: Mca-2020] # Mca-2020  17. 2 A student may be permitted only once during his/her   programme of study to avail this provision.     17. 3 Any scholarship or financial assistance awarded to a "
+  },
+  {
+    "id": "PLC-04",
+    "category": "Placements",
+    "query": "What is the average CTC offered to engineering graduates?",
+    "status": "FAILED",
+    "expected_keywords": [
+      "average",
+      "ctc",
+      "package",
+      "lpa"
+    ],
+    "bm25_top_sources": [
+      "07-news-media/Rules-and-Regulations-UG-PG-July-2021.md",
+      "01-governance-policy/Minutes-10th-ECM-Online.md",
+      "02-academics/ms-by-research.md"
+    ],
+    "faiss_top_sources": [
+      "02-academics/PhD-regulations-KLE-tech-july-2025.md",
+      "02-academics/Mechanical-Curriculum-Structure-Content-2021-25.md",
+      "02-academics/PhD-Regulations.md"
+    ],
+    "reranked_top_sources": [
+      "02-academics/bachelor-mechanical-engineering-curriculum-2022-2026.md",
+      "02-academics/PhD-regulations-KLE-tech-july-2025.md",
+      "02-academics/PhD-Regulations.md"
+    ],
+    "top_content_snippet": "[Location: Bachelor-Mechanical-Engineering-Curriculum-2022-2026] # Bachelor-Mechanical-Engineering-Curriculum-2022-2026  1. Montgomery D. C., Introduction to Statistical Quality Control, 8th Edn. John"
+  },
+  {
+    "id": "PLC-06",
+    "category": "Placements",
+    "query": "What is the minimum CGPA required to be eligible for placement drives?",
+    "status": "PARTIAL",
+    "expected_keywords": [
+      "cgpa",
+      "eligibility",
+      "criteria",
+      "placement"
+    ],
+    "bm25_top_sources": [
+      "02-academics/PhD-regulations-KLE-tech-july-2025.md",
+      "07-news-media/MBA-2020.md",
+      "01-governance-policy/Minutes-10th-ECM-Online.md"
+    ],
+    "faiss_top_sources": [
+      "07-news-media/Rules-and-Regulations-UG-PG-July-2021.md",
+      "02-academics/PhD-Regulations.md",
+      "07-news-media/Rules-and-Regulations-UG-PG-July-2021.md"
+    ],
+    "reranked_top_sources": [
+      "07-news-media/MBA-2020.md",
+      "07-news-media/Rules-and-Regulations-UG-PG-July-2021.md",
+      "02-academics/PhD-regulations-KLE-tech-july-2025.md"
+    ],
+    "top_content_snippet": "[Location: Mba-2020] # Mba-2020  65. 1 Maximum number of F grades that can be carried at the   end of any academic year is 04     65. 2 To progress to higher odd Semesters, the candidate shall   have "
+  },
+  {
+    "id": "PLC-07",
+    "category": "Placements",
+    "query": "Can students with active backlogs attend company campus interviews?",
+    "status": "FAILED",
+    "expected_keywords": [
+      "backlog",
+      "backlogs",
+      "standing arrears",
+      "eligibility"
+    ],
+    "bm25_top_sources": [
+      "02-academics/bachelor-of-commerce.md",
+      "02-academics/b-e-biomedical-engineering.md",
+      "02-academics/b-e-chemical-engineering.md"
+    ],
+    "faiss_top_sources": [
+      "02-academics/ph-d-in-management-studies-research-dup.md",
+      "02-academics/ph-d-in-management-studies-research.md",
+      "02-academics/ph-d-in-management-studies-research-dup.md"
+    ],
+    "reranked_top_sources": [
+      "02-academics/bachelors-of-business-administration.md",
+      "02-academics/bachelor-of-commerce.md",
+      "02-academics/ph-d-in-management-studies-research.md"
+    ],
+    "top_content_snippet": "[Location: Bachelors of Business Administration] # Bachelors of Business Administration  - Kavita Vakkund - T Systems, Elektrobit India Pvt Ltd, Maple labs, Dxc. Technologies Students   I would like t"
+  },
+  {
+    "id": "PLC-08",
+    "category": "Placements",
+    "query": "Are summer internships facilitated by the college placement department?",
+    "status": "PARTIAL",
+    "expected_keywords": [
+      "internship",
+      "summer",
+      "stipend"
+    ],
+    "bm25_top_sources": [
+      "02-academics/bachelor-biotechnology-curriculum-2022-2026.md",
+      "02-academics/bachelor-biotechnology-curriculum-2022-2026.md",
+      "02-academics/Biotech-Curriculum-Structure-Content-2021-25.md"
+    ],
+    "faiss_top_sources": [
+      "01-governance-policy/BOG-Minutes.md",
+      "02-academics/Computer-Science-Curriculum-Structure-Content-2021-25.md",
+      "02-academics/Computer-Science--AI-Curriculum-Structure-Content-2021-25.md"
+    ],
+    "reranked_top_sources": [
+      "02-academics/Biotech-Curriculum-Structure-Content-2021-25.md",
+      "02-academics/bachelor-biotechnology-curriculum-2022-2026.md",
+      "02-academics/bachelor-biotechnology-curriculum-2022-2026.md"
+    ],
+    "top_content_snippet": "[Location: Biotech-Curriculum-Structure-Content-2021-25] # Biotech-Curriculum-Structure-Content-2021-25  1. Identification of industry - The major role of the internship coordinator is to identify   s"
+  },
+  {
+    "id": "PLC-09",
+    "category": "Placements",
+    "query": "What is the 'One Student One Job' placement policy rule?",
+    "status": "FAILED",
+    "expected_keywords": [
+      "one student one job",
+      "policy",
+      "dream offer"
+    ],
+    "bm25_top_sources": [
+      "04-research-centers/rti_disclosures_d21e4d.md",
+      "01-governance-policy/EC-Minutes.md",
+      "07-news-media/IT-Policies-and-Procedures-Manual-Updated-12-4-21.md"
+    ],
+    "faiss_top_sources": [
+      "02-academics/Computer-Science-Curriculum-Structure-Content-2021-25.md",
+      "02-academics/batch-of-2010-12.md",
+      "02-academics/batch-of-2013-2015.md"
+    ],
+    "reranked_top_sources": [
+      "02-academics/batch-of-2010-12.md",
+      "02-academics/batch-of-2011-2013.md",
+      "02-academics/batch-of-2013-2015.md"
+    ],
+    "top_content_snippet": "[Location: Batch of 2010-12] # Batch of 2010-12  **Source URL:** https://www.kletech.ac.in/hubballi/placement/batch-of-2010-12  #### Overview   - Total Batch Strength40 - No. of students who signed up"
+  },
+  {
+    "id": "POL-01",
+    "category": "IT & Admin",
+    "query": "What is the campus Wi-Fi usage policy and password registration process?",
+    "status": "PARTIAL",
+    "expected_keywords": [
+      "wi-fi",
+      "wifi",
+      "internet",
+      "policy",
+      "mac address"
+    ],
+    "bm25_top_sources": [
+      "07-news-media/AQAR2021-22ResubmittedAugust2023.md",
+      "07-news-media/IT-Policies-and-Procedures-Manual-Updated-12-4-21.md",
+      "07-news-media/AQAR-2022-23-system-generated-copy.md"
+    ],
+    "faiss_top_sources": [
+      "07-news-media/IT-Policies-and-Procedures-Manual-Updated-12-4-21.md",
+      "07-news-media/IT-Policies-and-Procedures-Manual-Updated-12-4-21.md",
+      "07-news-media/IT-Policies-and-Procedures-Manual-Updated-12-4-21.md"
+    ],
+    "reranked_top_sources": [
+      "07-news-media/IT-Policies-and-Procedures-Manual-Updated-12-4-21.md",
+      "07-news-media/IT-Policies-and-Procedures-Manual-Updated-12-4-21.md",
+      "07-news-media/IT-Policies-and-Procedures-Manual-Updated-12-4-21.md"
+    ],
+    "top_content_snippet": "[Location: It-Policies-And-Procedures-Manual-Updated-12-4-21] # It-Policies-And-Procedures-Manual-Updated-12-4-21  1. 1.4 Software Usage   Only software purchased in accordance with the getting softwa"
+  },
+  {
+    "id": "POL-04",
+    "category": "IT & Admin",
+    "query": "What is the anti-ragging policy and helpline number at KLE Tech?",
+    "status": "PARTIAL",
+    "expected_keywords": [
+      "anti-ragging",
+      "policy",
+      "helpline",
+      "ugc",
+      "disciplinary"
+    ],
+    "bm25_top_sources": [
+      "07-news-media/Application-Part-1-Report-2018-19.md",
+      "07-news-media/Mandatory-Disclosure-Edited.md",
+      "05-student-welfare/kle-tech-anti-ragging-committee.md"
+    ],
+    "faiss_top_sources": [
+      "05-student-welfare/kle-tech-anti-ragging-committee.md",
+      "01-governance-policy/kle-tech-statutes.md",
+      "05-student-welfare/kle-tech-anti-ragging-committee.md"
+    ],
+    "reranked_top_sources": [
+      "05-student-welfare/kle-tech-anti-ragging-committee.md",
+      "05-student-welfare/kle-tech-anti-ragging-committee.md",
+      "05-student-welfare/kle-tech-anti-ragging-committee.md"
+    ],
+    "top_content_snippet": "[Location: Kle-Tech-Anti-Ragging-Committee] # Kle-Tech-Anti-Ragging-Committee  1. All the members of the ARC   CC:   2. Office of the Registrar, KLE Technological University, Hubballi  3. PA to Vice-C"
+  },
+  {
+    "id": "POL-07",
+    "category": "IT & Admin",
+    "query": "What is the dress code or uniform rule on campus?",
+    "status": "PARTIAL",
+    "expected_keywords": [
+      "dress code",
+      "uniform",
+      "formal",
+      "attire"
+    ],
+    "bm25_top_sources": [
+      "01-governance-policy/EC-Minutes.md",
+      "07-news-media/nirf-overall-category-7th-february-2026.md",
+      "01-governance-policy/EC-Minutes.md"
+    ],
+    "faiss_top_sources": [
+      "01-governance-policy/EC-Minutes.md",
+      "02-academics/fashion-design-curriculum-syllabus-2023-26.md",
+      "07-news-media/AQAR2021-22ResubmittedAugust2023.md"
+    ],
+    "reranked_top_sources": [
+      "01-governance-policy/EC-Minutes.md",
+      "01-governance-policy/EC-Minutes.md",
+      "02-academics/fashion-design-curriculum-strcture-contents-batch2022-25.md"
+    ],
+    "top_content_snippet": "[Location: Ec-Minutes] # Ec-Minutes  41. 1 Wherever it is desirable in the interest of se rvice, the Management may prescribe a uniform,   for any category of employees.   41. 2 The Management reserve"
+  },
+  {
+    "id": "POL-10",
+    "category": "IT & Admin",
+    "query": "What is the procedure for bonafide student certificate issuance?",
+    "status": "PARTIAL",
+    "expected_keywords": [
+      "bonafide",
+      "certificate",
+      "administrative office"
+    ],
+    "bm25_top_sources": [
+      "07-news-media/MBA-2020.md",
+      "07-news-media/MCA-2020.md",
+      "01-governance-policy/Minutes-10th-ECM-Online.md"
+    ],
+    "faiss_top_sources": [
+      "07-news-media/MCA-2020.md",
+      "01-governance-policy/Minutes-10th-ECM-Online.md",
+      "07-news-media/MBA-2020.md"
+    ],
+    "reranked_top_sources": [
+      "02-academics/ba-llb-2021-26-batch.md",
+      "07-news-media/MCA-2020.md",
+      "01-governance-policy/Minutes-10th-ECM-Online.md"
+    ],
+    "top_content_snippet": "[Location: Ba-Llb-2021-26-Batch] # Ba-Llb-2021-26-Batch  \uf0b7 Compounding of offences and plea bargaining  Prescribed Book(s):   1. N. Chandrasekharan Pillai, R.V. Kelkar's Criminal Procedure, Lucknow: E"
+  },
+  {
+    "id": "HST-03",
+    "category": "Hostels",
+    "query": "What are the mess timings for breakfast, lunch, and dinner?",
+    "status": "FAILED",
+    "expected_keywords": [
+      "breakfast",
+      "lunch",
+      "dinner",
+      "mess",
+      "timings"
+    ],
+    "bm25_top_sources": [
+      "07-news-media/aicwic_8e1fa4.md",
+      "07-news-media/aicwic_bce36a.md",
+      "07-news-media/education-needs-complete-solution.md"
+    ],
+    "faiss_top_sources": [
+      "01-governance-policy/EC-Minutes.md",
+      "07-news-media/mba-6-term-time-table-esa.md",
+      "02-academics/updated-curriculum-structure-syllabus-2023-27.md"
+    ],
+    "reranked_top_sources": [
+      "02-academics/bsc-in-hotel-management-and-catering-technology-bs.md",
+      "02-academics/Biotech-Curriculum-Structure-Content-2021-25.md",
+      "02-academics/mca-curriculum-2024-26.md"
+    ],
+    "top_content_snippet": "[Location: B.Sc. in Hotel Management and Catering Technology (B.Sc. HMCT)] # B.Sc. in Hotel Management and Catering Technology (B.Sc. HMCT)  **Source URL:** https://www.kletech.ac.in/coursedetail.aspx"
+  },
+  {
+    "id": "HST-05",
+    "category": "Hostels",
+    "query": "How can parents book guest room accommodation on campus?",
+    "status": "FAILED",
+    "expected_keywords": [
+      "guest room",
+      "guest house",
+      "booking",
+      "parents"
+    ],
+    "bm25_top_sources": [
+      "01-governance-policy/EC-Minutes.md",
+      "02-academics/bsc-in-hotel-management-and-catering-technology-bs.md",
+      "07-news-media/Mandatory-Disclosure-Edited.md"
+    ],
+    "faiss_top_sources": [
+      "07-news-media/on-campus-facilities-dup.md",
+      "07-news-media/on-campus-facilities.md",
+      "07-news-media/Application-Part1-Report-2019-20.md"
+    ],
+    "reranked_top_sources": [
+      "07-news-media/on-campus-facilities.md",
+      "07-news-media/on-campus-facilities-dup.md",
+      "facilities/campus_guide_canonical.md"
+    ],
+    "top_content_snippet": "[Location: On Campus Facilities] # On Campus Facilities  **Source URL:** https://www.kletech.ac.in/campus-life/on-campus-facilities  ### Hostels  We at KLE Tech University understand that comfortable,"
+  },
+  {
+    "id": "HST-06",
+    "category": "Hostels",
+    "query": "Are cooking appliances or hot plates allowed in hostel rooms?",
+    "status": "FAILED",
+    "expected_keywords": [
+      "appliances",
+      "prohibited",
+      "cooking",
+      "heater"
+    ],
+    "bm25_top_sources": [
+      "07-news-media/on-campus-facilities.md",
+      "07-news-media/on-campus-facilities-dup.md",
+      "07-news-media/AQAR2021-22ResubmittedAugust2023.md"
+    ],
+    "faiss_top_sources": [
+      "07-news-media/on-campus-facilities-dup.md",
+      "07-news-media/on-campus-facilities.md",
+      "02-academics/bsc-in-hotel-management-and-catering-technology-bs.md"
+    ],
+    "reranked_top_sources": [
+      "03-admissions-fees/intenational-admission.md",
+      "03-admissions-fees/international-admission.md",
+      "02-academics/bsc-in-hotel-management-and-catering-technology-bs.md"
+    ],
+    "top_content_snippet": "[Location: Intenational Admission] # Intenational Admission  ### Fee Payment & Refund Rules  Registration Fee and First Semester Tuition Fee payable to 2022 before submission of online application for"
+  },
+  {
+    "id": "HST-07",
+    "category": "Hostels",
+    "query": "What is the procedure to apply for hostel leave or out-station pass?",
+    "status": "PARTIAL",
+    "expected_keywords": [
+      "leave",
+      "pass",
+      "out-station",
+      "warden",
+      "permission"
+    ],
+    "bm25_top_sources": [
+      "01-governance-policy/EC-Minutes.md",
+      "01-governance-policy/EC-Minutes.md",
+      "01-governance-policy/EC-Minutes.md"
+    ],
+    "faiss_top_sources": [
+      "07-news-media/Application-Part-1-Report-2018-19.md",
+      "07-news-media/Application-Part1-Report-2019-20.md",
+      "07-news-media/MCA-2020.md"
+    ],
+    "reranked_top_sources": [
+      "07-news-media/Application-Part-1-Report-2018-19.md",
+      "07-news-media/Application-Part1-Report-2019-20.md",
+      "01-governance-policy/EC-Minutes.md"
+    ],
+    "top_content_snippet": "[Location: Application-Part-1-Report-2018-19] # Application-Part-1-Report-2018-19  13. 26  SBH- B15 SENIOR  BOYS  HOSTEL 194  &  21. 09  SBH- B15 SENIOR  BOYS  HOSTEL  2 Boys Not  Appl icabl e  Not  A"
+  },
+  {
+    "id": "HST-09",
+    "category": "Hostels",
+    "query": "Is laundry facility available in the student residential blocks?",
+    "status": "FAILED",
+    "expected_keywords": [
+      "laundry",
+      "washing machine",
+      "clothes"
+    ],
+    "bm25_top_sources": [
+      "07-news-media/facilities.md",
+      "07-news-media/Application-Part-1-Report-2018-19.md",
+      "07-news-media/Application-Part1-Report-2019-20.md"
+    ],
+    "faiss_top_sources": [
+      "facilities/campus_guide_canonical.md",
+      "07-news-media/Application-Part1-Report-2019-20.md",
+      "07-news-media/Application-Part-1-Report-2018-19.md"
+    ],
+    "reranked_top_sources": [
+      "facilities/campus_guide_canonical.md",
+      "07-news-media/AQAR2021-22ResubmittedAugust2023.md",
+      "07-news-media/AQAR-2022-23-system-generated-copy.md"
+    ],
+    "top_content_snippet": "### Key Campus Facilities & Administrative Offices - **Central Library Campus Location & Operating Hours**:   - **Location**: Located in the Administrative Block (Ground Floor).   - **Operating Hours*"
+  },
+  {
+    "id": "HST-10",
+    "category": "Hostels",
+    "query": "What food canteens and eateries are available on campus?",
+    "status": "PARTIAL",
+    "expected_keywords": [
+      "canteen",
+      "eateries",
+      "food court",
+      "cafe"
+    ],
+    "bm25_top_sources": [
+      "07-news-media/AQAR2021-22ResubmittedAugust2023.md",
+      "07-news-media/AQAR-2022-23-system-generated-copy.md",
+      "07-news-media/AQAR2021-22ResubmittedAugust2023.md"
+    ],
+    "faiss_top_sources": [
+      "facilities/campus_guide_canonical.md",
+      "04-research-centers/campus_leadership_67ef75.md",
+      "02-academics/bsc-in-hotel-management-and-catering-technology-bs.md"
+    ],
+    "reranked_top_sources": [
+      "07-news-media/AQAR-2022-23-system-generated-copy.md",
+      "07-news-media/AQAR2021-22ResubmittedAugust2023.md",
+      "07-news-media/AQAR2021-22ResubmittedAugust2023.md"
+    ],
+    "top_content_snippet": "[Location: Aqar-2022-23-System-Generated-Copy] # Aqar-2022-23-System-Generated-Copy  4. 1.2 - The institution has adequate facilities for cultural activities, yoga, games (indoor, outdoor)  and sports"
+  },
+  {
+    "id": "FAC-16",
+    "category": "Facilities",
+    "query": "Where is the main auditorium located for university events?",
+    "status": "PARTIAL",
+    "expected_keywords": [
+      "auditorium",
+      "biotech auditorium",
+      "events"
+    ],
+    "bm25_top_sources": [
+      "07-news-media/AQAR2021-22ResubmittedAugust2023.md",
+      "07-news-media/AQAR-2022-23-system-generated-copy.md",
+      "facilities/campus_guide_canonical.md"
+    ],
+    "faiss_top_sources": [
+      "07-news-media/events-fests.md",
+      "04-research-centers/campus_leadership_67ef75.md",
+      "04-research-centers/student_projects_085018.md"
+    ],
+    "reranked_top_sources": [
+      "07-news-media/on-campus-facilities-dup.md",
+      "07-news-media/on-campus-facilities.md",
+      "05-student-welfare/events.md"
+    ],
+    "top_content_snippet": "[Location: On Campus Facilities] # On Campus Facilities  **Source URL:** https://www.kletech.ac.in/hubballi/infrastructure/on-campus-facilities  ### Hostels  We at KLE Tech University understand that "
+  },
+  {
+    "id": "FAC-17",
+    "category": "Facilities",
+    "query": "What transportation or bus services are provided for day scholar students?",
+    "status": "PARTIAL",
+    "expected_keywords": [
+      "bus",
+      "transport",
+      "shuttle",
+      "hubballi"
+    ],
+    "bm25_top_sources": [
+      "07-news-media/facilities.md",
+      "07-news-media/pupa_e3e807.md",
+      "02-academics/mca-curriculum-2023-25.md"
+    ],
+    "faiss_top_sources": [
+      "04-research-centers/student_projects_085018.md",
+      "07-news-media/on-campus-facilities.md",
+      "facilities/campus_guide_canonical.md"
+    ],
+    "reranked_top_sources": [
+      "07-news-media/facilities.md",
+      "02-academics/bachelor-architecture-curriculum-2021-2026.md",
+      "02-academics/bachelor-of-architecture-curriculum-structure-content-2022-2027.md"
+    ],
+    "top_content_snippet": "[Location: Facilities] # Facilities  **Source URL:** https://www.kletech.ac.in/hubballi/infrastructure/library/facilities  ### Lending Service  Lending service is available to faculty, students, admin"
+  },
+  {
+    "id": "FAC-18",
+    "category": "Facilities",
+    "query": "Are stationary and xerox printing shops available on campus?",
+    "status": "PARTIAL",
+    "expected_keywords": [
+      "stationary",
+      "xerox",
+      "print",
+      "photocopy"
+    ],
+    "bm25_top_sources": [
+      "07-news-media/Mandatory-Disclosure-Edited.md",
+      "07-news-media/AQAR2021-22ResubmittedAugust2023.md",
+      "07-news-media/AQAR-2022-23-system-generated-copy.md"
+    ],
+    "faiss_top_sources": [
+      "facilities/campus_guide_canonical.md",
+      "facilities/campus_guide_canonical.md",
+      "07-news-media/Mandatory-Disclosure-Edited.md"
+    ],
+    "reranked_top_sources": [
+      "07-news-media/Mandatory-Disclosure-Edited.md",
+      "07-news-media/AQAR2021-22ResubmittedAugust2023.md",
+      "facilities/campus_guide_canonical.md"
+    ],
+    "top_content_snippet": "[Location: Mandatory-Disclosure-Edited] # Mandatory-Disclosure-Edited  2. PARTICULARS OF LIBRARY INFRASTRUCTURE   A Number of Books with titles and volumes  Books #Titles #Volumes  Books: 38327  E-Boo"
+  }
+]

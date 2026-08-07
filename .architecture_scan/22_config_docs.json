@@ -1,0 +1,460 @@
+{
+  "folder": "repo root",
+  "title": "Configuration, docs & deployment",
+  "purpose": "The repo root is the configuration surface and documentation/deployment hub for the whole campus-helpdesk system. It holds the runtime config that the layered src/ stack consumes (config.yaml + .env templates read by src/campus_helpdesk/config/settings.py), the packaging and tooling metadata (pyproject.toml, requirements.txt, uv.lock), the human-readable documentation of the architecture and robot stack (README.md, CLAUDE.md, RASPBERRY_PI_DEPLOYMENT_GUIDE.md, and the docs/ tree including service/interaction design docs and planning documents), and the Raspberry Pi deployment tooling (deployment/ with an apt/Ollama provisioning script and a systemd unit). It is the first place a developer or deployer interacts with the project, and it wires external services (Ollama, FAISS index location, embedding models, optional cloud LLM router) into the application through environment-derived Pydantic settings.",
+  "files": [
+    {
+      "path": "config.yaml",
+      "purpose": "Primary runtime configuration for the src/campus_helpdesk stack, flattened into Pydantic Settings via a model_validator.",
+      "key_symbols": ["app.env", "app.name", "app.version", "retrieval.top_k", "retrieval.rerank_k", "retrieval.confidence_threshold", "retrieval.answerability_threshold", "retrieval.distance_threshold", "retrieval.chunk_size", "retrieval.chunk_overlap", "cache.ttl_seconds", "memory.max_history_turns", "memory.max_context_words", "ollama.base_url", "ollama.model", "ollama.timeout_seconds", "ollama.temperature", "ollama.top_p", "ollama.top_k", "ollama.context_window", "ollama.max_output_tokens", "ollama.num_threads", "embedding.model", "embedding.device", "embedding.batch_size", "embedding.normalize", "reranker.enabled", "reranker.model", "reranker.top_n", "logging.level", "vision.*", "audio.*", "vad.*", "tts.*"],
+      "terms": [
+        {"term": "RAG", "definition": "Retrieval-Augmented Generation: the pipeline that retrieves relevant chunks (FAISS/BM25) and feeds them to a local LLM to answer campus questions."},
+        {"term": "distance_threshold", "definition": "An absolute score cutoff applied to hybrid-retriever distances before context building; here set to 999.0 to disable the broken absolute filter and rely on RRF ranking plus LLM grounding instead of rejecting valid FAISS-dominated results."},
+        {"term": "confidence_threshold", "definition": "Cutoff below which retrieved evidence is considered too weak to ground an answer (0.75 here)."},
+        {"term": "answerability_threshold", "definition": "Score cutoff used by the answerability engine to decide whether the system can answer a query from the knowledge base at all (0.70 here)."},
+        {"term": "chunking", "definition": "Splitting source documents into overlapping chunks (chunk_size 800, chunk_overlap 120) before embedding and indexing."},
+        {"term": "reranker", "definition": "A cross-encoder model (ms-marco-MiniLM-L-6-v2) that re-scores the top candidate chunks after retrieval; top_n=20 candidates considered here."},
+        {"term": "context_window", "definition": "The LLM KV-cache size in tokens; 2048 keeps RAM usage low on constrained machines."},
+        {"term": "top_p / top_k", "definition": "Sampling parameters for the Ollama LLM that control token-selection diversity during generation."}
+      ],
+      "config": ["app.env", "retrieval.top_k", "retrieval.rerank_k", "retrieval.confidence_threshold", "retrieval.answerability_threshold", "retrieval.distance_threshold", "retrieval.chunk_size", "retrieval.chunk_overlap", "cache.ttl_seconds", "memory.max_history_turns", "memory.max_context_words", "ollama.base_url", "ollama.model", "ollama.timeout_seconds", "ollama.temperature", "ollama.top_p", "ollama.top_k", "ollama.context_window", "ollama.max_output_tokens", "ollama.num_threads", "embedding.model", "embedding.device", "embedding.batch_size", "embedding.normalize", "reranker.enabled", "reranker.model", "reranker.top_n", "logging.level", "vision.confidence", "vision.min_hits", "vision.min_misses", "vision.queue_maxsize", "vision.frame_scale_width", "vision.detection_scale", "vision.detection_win_stride", "vision.detection_padding", "audio.stt_non_speaking_duration", "audio.stt_debug", "vad.sample_rate_options", "vad.frame_duration_options", "tts.dummy_speech_delay", "tts.dummy_speech_min_delay"],
+      "notes": "Loaded by settings.py via a model_validator(mode='before') that OVERWRITES same-named env vars, so config.yaml wins over .env for overlapping keys (e.g. retrieval.top_k -> RAG_SEARCH_LIMIT). Unknown keys ignored. The in-file comment documents that distance_threshold=2.0 previously caused hallucination; now 999.0 disables the filter. Note that ollama.model here is qwen2.5:3b while .env.example defaults to qwen2.5:7b, and temperature here is 0.0 vs 0.2 in .env.example."
+    },
+    {
+      "path": ".env.example",
+      "purpose": "Template for the local .env file enumerating every environment variable the application (and robot stack) reads.",
+      "key_symbols": ["APP_ENV", "LOG_LEVEL", "OLLAMA_BASE_URL", "OLLAMA_MODEL", "OLLAMA_TIMEOUT_SECONDS", "OLLAMA_TEMPERATURE", "OLLAMA_TOP_P", "OLLAMA_TOP_K", "OLLAMA_REPEAT_PENALTY", "OLLAMA_CONTEXT_WINDOW", "OLLAMA_MAX_OUTPUT_TOKENS", "OLLAMA_NUM_THREADS", "SQLITE_DATABASE_PATH", "KNOWLEDGE_SOURCE_PATH", "KNOWLEDGE_MAX_FILE_SIZE_BYTES", "FAISS_INDEX_PATH", "FAISS_ALLOW_DANGEROUS_DESERIALIZATION", "EMBEDDING_MODEL", "EMBEDDING_DEVICE", "EMBEDDING_BATCH_SIZE", "EMBEDDING_NORMALIZE", "EMBEDDING_SHOW_PROGRESS", "EMBEDDING_LOCAL_FILES_ONLY", "RAG_CHUNK_SIZE", "RAG_CHUNK_OVERLAP", "RAG_CHUNK_SEPARATORS", "RAG_ADD_START_INDEX", "RAG_SEARCH_LIMIT", "RAG_DISTANCE_THRESHOLD", "TTS_VOICE_MODEL", "TTS_PIPER_MODELS_DIR", "TTS_USE_CUDA", "ALLOW_ONLINE_STT_FALLBACK", "ENABLE_BARGE_IN", "ENABLE_CLOUD_LLM_ROUTER", "CLOUD_LLM_PROVIDER", "CLOUD_LLM_API_KEY", "CLOUD_LLM_MODEL", "OPENROUTER_BASE_URL", "CLOUD_LLM_TIMEOUT_SECONDS", "OFFLINE_LLM_MODEL", "CONNECTIVITY_CHECK_TIMEOUT_SECONDS", "CONNECTIVITY_CHECK_CACHE_SECONDS", "CONNECTIVITY_CHECK_URL"],
+      "terms": [
+        {"term": ".env", "definition": "A gitignored local file of KEY=VALUE settings loaded by pydantic-settings/dotenv; the application has no code default for the Ollama model name, so this file selects the model."},
+        {"term": "FAISS_ALLOW_DANGEROUS_DESERIALIZATION", "definition": "Flag that gates FAISS index loading because index metadata persistence uses deserialization; off by default (pipeline runs degraded without a loaded index), enabled only for trusted local indexes."},
+        {"term": "EMBEDDING_LOCAL_FILES_ONLY", "definition": "When true (the recommended offline setting), the sentence-transformers embedding model is never downloaded at runtime and must be pre-provisioned."},
+        {"term": "context window / KV cache", "definition": "OLLAMA_CONTEXT_WINDOW sizes the LLM's KV cache; lower values reduce RAM at the cost of less conversation history per prompt."},
+        {"term": "offline LLM model", "definition": "OFFLINE_LLM_MODEL names the local model used when the cloud generation router is disabled or unreachable (qwen2.5:3b here)."}
+      ],
+      "config": ["APP_ENV", "LOG_LEVEL", "OLLAMA_BASE_URL", "OLLAMA_MODEL", "OLLAMA_TIMEOUT_SECONDS", "OLLAMA_TEMPERATURE", "OLLAMA_TOP_P", "OLLAMA_TOP_K", "OLLAMA_REPEAT_PENALTY", "OLLAMA_CONTEXT_WINDOW", "OLLAMA_MAX_OUTPUT_TOKENS", "OLLAMA_NUM_THREADS", "SQLITE_DATABASE_PATH", "KNOWLEDGE_SOURCE_PATH", "KNOWLEDGE_MAX_FILE_SIZE_BYTES", "FAISS_INDEX_PATH", "FAISS_ALLOW_DANGEROUS_DESERIALIZATION", "EMBEDDING_MODEL", "EMBEDDING_DEVICE", "EMBEDDING_BATCH_SIZE", "EMBEDDING_NORMALIZE", "EMBEDDING_SHOW_PROGRESS", "EMBEDDING_LOCAL_FILES_ONLY", "RAG_CHUNK_SIZE", "RAG_CHUNK_OVERLAP", "RAG_CHUNK_SEPARATORS", "RAG_ADD_START_INDEX", "RAG_SEARCH_LIMIT", "RAG_DISTANCE_THRESHOLD", "TTS_VOICE_MODEL", "TTS_PIPER_MODELS_DIR", "TTS_USE_CUDA", "ALLOW_ONLINE_STT_FALLBACK", "ENABLE_BARGE_IN", "ENABLE_CLOUD_LLM_ROUTER", "CLOUD_LLM_PROVIDER", "CLOUD_LLM_API_KEY", "CLOUD_LLM_MODEL", "OPENROUTER_BASE_URL", "CLOUD_LLM_TIMEOUT_SECONDS", "OFFLINE_LLM_MODEL", "CONNECTIVITY_CHECK_TIMEOUT_SECONDS", "CONNECTIVITY_CHECK_CACHE_SECONDS", "CONNECTIVITY_CHECK_URL"],
+      "notes": "Contains a placeholder OpenRouter API key (sk-or-v1-your-openrouter-api-key-here); a real key must never be committed here. Defaults diverge from config.yaml: OLLAMA_MODEL=qwen2.5:7b vs ollama.model=qwen2.5:3b, RAG_DISTANCE_THRESHOLD=2.0 vs distance_threshold=999.0, temperature 0.2 vs 0.0. ENABLE_CLOUD_LLM_ROUTER defaults to true here while the live .env disables it and the Pi guide sets false."
+    },
+    {
+      "path": ".env",
+      "purpose": "Live local environment configuration actually used on this machine (gitignored); overrides and extends the example template.",
+      "key_symbols": ["APP_ENV", "DEBUG_CONFIDENCE", "OLLAMA_BASE_URL", "OLLAMA_MODEL", "OFFLINE_LLM_MODEL", "OLLAMA_TIMEOUT_SECONDS", "OLLAMA_TEMPERATURE", "OLLAMA_TOP_P", "OLLAMA_TOP_K", "OLLAMA_REPEAT_PENALTY", "OLLAMA_CONTEXT_WINDOW", "OLLAMA_MAX_OUTPUT_TOKENS", "OLLAMA_NUM_THREADS", "SQLITE_DATABASE_PATH", "KNOWLEDGE_SOURCE_PATH", "KNOWLEDGE_MAX_FILE_SIZE_BYTES", "FAISS_INDEX_PATH", "FAISS_ALLOW_DANGEROUS_DESERIALIZATION", "EMBEDDING_MODEL", "EMBEDDING_DEVICE", "EMBEDDING_BATCH_SIZE", "EMBEDDING_NORMALIZE", "EMBEDDING_SHOW_PROGRESS", "EMBEDDING_LOCAL_FILES_ONLY", "RAG_CHUNK_SIZE", "RAG_CHUNK_OVERLAP", "RAG_CHUNK_SEPARATORS", "RAG_SEARCH_LIMIT", "CANDIDATE_WINDOW", "INITIAL_CANDIDATES", "FINAL_TOP_K", "FINAL_RESULTS", "DEDUPLICATE_DOCUMENTS", "WHISPER_MODEL_SIZE", "WHISPER_DEVICE", "WHISPER_COMPUTE_TYPE", "TTS_VOICE_MODEL", "TTS_PIPER_MODELS_DIR", "TTS_USE_CUDA", "ENABLE_BARGE_IN", "ENABLE_CLOUD_LLM_ROUTER", "CLOUD_LLM_PROVIDER", "CLOUD_LLM_API_KEY", "OPENROUTER_API_KEY"],
+      "terms": [
+        {"term": "Faster-Whisper", "definition": "Offline STT engine; selected here as WHISPER_MODEL_SIZE=base on CPU with int8 quantization to keep memory low."},
+        {"term": "int8 compute", "definition": "WHISPER_COMPUTE_TYPE=int8 quantizes the transcription model to 8-bit integers for lightweight CPU inference."},
+        {"term": "barge-in", "definition": "ENABLE_BARGE_IN lets a user interrupt TTS playback with new speech; only enabled with hardware AEC or OS echo cancellation."}
+      ],
+      "config": ["APP_ENV", "DEBUG_CONFIDENCE", "OLLAMA_BASE_URL", "OLLAMA_MODEL", "OFFLINE_LLM_MODEL", "OLLAMA_TIMEOUT_SECONDS", "OLLAMA_TEMPERATURE", "OLLAMA_TOP_P", "OLLAMA_TOP_K", "OLLAMA_REPEAT_PENALTY", "OLLAMA_CONTEXT_WINDOW", "OLLAMA_MAX_OUTPUT_TOKENS", "OLLAMA_NUM_THREADS", "SQLITE_DATABASE_PATH", "KNOWLEDGE_SOURCE_PATH", "KNOWLEDGE_MAX_FILE_SIZE_BYTES", "FAISS_INDEX_PATH", "FAISS_ALLOW_DANGEROUS_DESERIALIZATION", "EMBEDDING_MODEL", "EMBEDDING_DEVICE", "EMBEDDING_BATCH_SIZE", "EMBEDDING_NORMALIZE", "EMBEDDING_SHOW_PROGRESS", "EMBEDDING_LOCAL_FILES_ONLY", "RAG_CHUNK_SIZE", "RAG_CHUNK_OVERLAP", "RAG_CHUNK_SEPARATORS", "RAG_SEARCH_LIMIT", "CANDIDATE_WINDOW", "INITIAL_CANDIDATES", "FINAL_TOP_K", "FINAL_RESULTS", "DEDUPLICATE_DOCUMENTS", "WHISPER_MODEL_SIZE", "WHISPER_DEVICE", "WHISPER_COMPUTE_TYPE", "TTS_VOICE_MODEL", "TTS_PIPER_MODELS_DIR", "TTS_USE_CUDA", "ENABLE_BARGE_IN", "ENABLE_CLOUD_LLM_ROUTER", "CLOUD_LLM_PROVIDER", "CLOUD_LLM_API_KEY", "OPENROUTER_API_KEY"],
+      "notes": "Live secrets file; not covered by .env.example (adds DEBUG_CONFIDENCE, WHISPER_*, CANDIDATE_WINDOW, INITIAL_CANDIDATES, FINAL_TOP_K, FINAL_RESULTS, DEDUPLICATE_DOCUMENTS, OPENROUTER_API_KEY). Enables FAISS_ALLOW_DANGEROUS_DESERIALIZATION=true and disables ENABLE_CLOUD_LLM_ROUTER. Contains empty API-key placeholders. OLLAMA_MODEL=qwen2.5:3b matches config.yaml, not .env.example."
+    },
+    {
+      "path": "pyproject.toml",
+      "purpose": "UV/hatchling project definition: package metadata, runtime and dev dependencies, the ingest console entry point, and pytest/ruff/pyright tool configuration.",
+      "key_symbols": ["[project] name=campus-helpdesk", "version 0.1.0", "requires-python >=3.11,<3.12", "campus-helpdesk-ingest = campus_helpdesk.ingest:main", "dependencies", "dev dependency group", "[tool.hatch.build.targets.wheel]", "[tool.pytest.ini_options] testpaths/addopts/pythonpath", "[tool.pyright] extraPaths", "[tool.ruff] target-version/line-length/lint select"],
+      "terms": [
+        {"term": "uv", "definition": "Astral package manager that reads pyproject.toml and uv.lock to create the project virtualenv (uv sync)."},
+        {"term": "hatchling", "definition": "The PEP 517 build backend used to build the campus-helpdesk wheel."},
+        {"term": "console entry point", "definition": "campus-helpdesk-ingest maps to campus_helpdesk.ingest:main, exposing the index build as an installable CLI command."}
+      ],
+      "config": ["requires-python", "dependencies", "testpaths", "pythonpath", "extraPaths", "line-length"],
+      "notes": "Runtime deps include the full robot stack (piper-tts, faster-whisper, webrtcvad-wheels, customtkinter, pyaudio, sounddevice) even though the API surface only needs FastAPI/FAISS/Ollama. Version pinned to <3.12. testpaths only lists 'tests' here although pytest also collects bvbcet_rag_pipeline/tests per CLAUDE.md. Console script references campus_helpdesk.ingest:main."
+    },
+    {
+      "path": "requirements.txt",
+      "purpose": "Legacy pip-style dependency manifest (cross-platform) used as an alternative/second source of truth to pyproject.toml, referenced by the Pi deployment docs.",
+      "key_symbols": ["pydantic-settings", "httpx", "numpy", "langdetect", "faster-whisper", "sounddevice", "ollama", "faiss-cpu", "sentence-transformers", "langchain", "langchain-community", "langchain-core", "transformers", "piper-tts", "opencv-python", "pillow", "pyttsx3"],
+      "terms": [
+        {"term": "TTT", "definition": "Text-to-Text; used here loosely for the Ollama LLM / RAG generation side (contrast STT/TTS)."},
+        {"term": "STT", "definition": "Speech-to-Text; transcription of user audio via Faster-Whisper."},
+        {"term": "TTS", "definition": "Text-to-Speech; synthesis of answer text to speech via Piper or pyttsx3 fallback."}
+      ],
+      "config": [],
+      "notes": "Duplicated/parallel dependency source with pyproject.toml (CLAUDE.md calls root scripts and legacy dirs dead code, but requirements.txt is still referenced by RASPBERRY_PI_DEPLOYMENT_GUIDE.md and deployment/requirements-pi.txt). Risk of drift between the two manifests. Includes pyttsx3 not present in pyproject.toml."
+    },
+    {
+      "path": "uv.lock",
+      "purpose": "Machine-generated UV lockfile pinning the exact resolved versions of all dependencies declared in pyproject.toml.",
+      "key_symbols": [],
+      "terms": [
+        {"term": "lockfile", "definition": "A committed, machine-generated record of the exact package versions and their dependency graph, making installs reproducible."}
+      ],
+      "config": [],
+      "notes": "Not human-edited; ~254KB. Regenerated by uv sync/lock. Tracks the full transitive graph including heavy native wheels (faiss-cpu, opencv, pyaudio, piper-tts)."
+    },
+    {
+      "path": "config.py",
+      "purpose": "Legacy root-level module-level configuration (AUNTII persona, Ollama constants) predating the Pydantic Settings layer; dead code not imported by src/.",
+      "key_symbols": ["BASE_DIR", "OLLAMA_HOST", "OLLAMA_MODEL", "OLLAMA_TEMPERATURE", "OLLAMA_MAX_TOKENS", "OLLAMA_TIMEOUT", "SYSTEM_PERSONA"],
+      "terms": [
+        {"term": "system persona", "definition": "The fixed identity injected into the LLM prompt (here the 'AUNTII' campus helpdesk assistant for KLE Technological University)."}
+      ],
+      "config": ["OLLAMA_BASE_URL", "OLLAMA_HOST", "OLLAMA_MODEL", "OLLAMA_TEMPERATURE", "OLLAMA_MAX_OUTPUT_TOKENS", "OLLAMA_MAX_TOKENS", "OLLAMA_TIMEOUT_SECONDS", ".env"],
+      "notes": "Loads .env via python-dotenv if installed. CLAUDE.md classifies root-level modules as legacy/dead code not imported by src/. Constants duplicate the values now held in src/campus_helpdesk/config/settings.py; do not extend."
+    },
+    {
+      "path": ".gitignore",
+      "purpose": "Declares which files/directories Git must ignore (venv, .env, data, indexes, reports, cache).",
+      "key_symbols": [],
+      "terms": [],
+      "config": [],
+      "notes": "Ignores .env, data/, logs/, storage/, *.faiss/*.index, *_results.json/*_report.json, diag_*.py, helpdesk_gui.py, bvb_scraped_data/, ffmpeg-*/. Note: many *_report.json / *_results.json files are present in the working tree (already tracked before the rules existed); college_faiss_index/index.pkl and index-manifest.json are tracked despite '*.index' rule (rule matches .faiss/.index filenames)."
+    },
+    {
+      "path": ".gitattributes",
+      "purpose": "Normalizes line endings per file type (LF for Python/shell, CRLF for Windows batch) to keep diffs clean.",
+      "key_symbols": ["* text=auto", "*.py text eol=lf", "*.bat text eol=crlf", "*.cmd text eol=crlf", "*.sh text eol=lf"],
+      "terms": [
+        {"term": "eol", "definition": "End-of-line style forced for a file type (LF on Unix-oriented files, CRLF for batch scripts)."}
+      ],
+      "config": [],
+      "notes": "Ensures shell scripts (deployment/scripts/setup_pi_deployment.sh) stay LF on checkout so they run on Linux/Pi."
+    },
+    {
+      "path": "README.md",
+      "purpose": "Top-level project overview: what the system does, the dual entrypoints, architecture layering, local run steps, and Qwen 2.5 inference settings.",
+      "key_symbols": ["assistant_loop.py", "RAGChatService", "RAGPipeline", "FastAPI app", "faster-whisper", "Piper & Meta MMS-TTS", "OpenCV", "setup_pi_deployment.sh", "campus-helpdesk-robot.service", "qwen2.5:7b"],
+      "terms": [
+        {"term": "MMS-TTS", "definition": "Meta's multilingual speech model family used here for Hindi/Kannada TTS synthesis alongside Piper English."},
+        {"term": "hallucination", "definition": "LLM output that fabricates facts not supported by retrieved evidence; the system tries to suppress it via retrieval grounding and conservative settings."}
+      ],
+      "config": ["OLLAMA_MODEL", "OLLAMA_TEMPERATURE", "OLLAMA_TOP_P", "OLLAMA_TOP_K", "OLLAMA_REPEAT_PENALTY", "OLLAMA_CONTEXT_WINDOW", "OLLAMA_MAX_OUTPUT_TOKENS"],
+      "notes": "Describes entrypoints (assistant_loop.py legacy vs src/ FastAPI) and points to docs/DEPLOYMENT.md. States the code has no model-name default, so .env alone selects the model. References demo.py (legacy root script) and OLLAMA_CONTEXT_WINDOW=8192 in prose, which differs from the live 2048 default; text is partly aspirational/out of date relative to the src/ production stack."
+    },
+    {
+      "path": "CLAUDE.md",
+      "purpose": "Agent/contributor operating manual: project overview, commands, config load-order quirk, layered architecture, /chat flow, test layout, and known production risks.",
+      "key_symbols": ["RAGChatService", "QueryRewriter", "RAGPipeline", "HybridRetriever", "CrossEncoderReranker", "ConfidenceEngine", "PromptContextBuilder", "CitationValidator", "OllamaLLMService", "ConversationMemory", "SessionManager", "create_rag_pipeline", "system_runtime.py"],
+      "terms": [
+        {"term": "RRF", "definition": "Reciprocal Rank Fusion: fusion of BM25 and FAISS rankings by summing reciprocal ranks to produce a merged result list."},
+        {"term": "hybrid retriever", "definition": "Combines sparse BM25 keyword search with dense FAISS similarity search for retrieval."},
+        {"term": "cross-encoder", "definition": "A model that jointly scores a query-chunk pair (rather than pre-computing embeddings) to re-rank candidates."},
+        {"term": "session / TTL", "definition": "A conversation session keyed by session_id with a time-to-live; SessionManager prunes expired sessions with a background thread."},
+        {"term": "answerability engine", "definition": "Determines whether a query is answerable from the knowledge base before generation, using a threshold."},
+        {"term": "citation validation", "definition": "Post-generation stripping of fabricated [n] citations and URLs from LLM output."},
+        {"term": "event bus / FSM", "definition": "Robot-stack decoupling backbone (typed events) and the finite state machine (BOOTING..SHUTDOWN) that governs interaction states."}
+      ],
+      "config": ["OLLAMA_MODEL", "RAG_SEARCH_LIMIT", "FAISS_ALLOW_DANGEROUS_DESERIALIZATION", "EMBEDDING_LOCAL_FILES_ONLY", "OLLAMA_BASE_URL", "retrieval.top_k"],
+      "notes": "Documents the config.yaml-overrides-env quirk, the two parallel code stacks (src/ vs legacy root+archive), the known production risks (prompt injection surface in rag_chat_service raw-message prompt, streaming retry no-op, missing logger in vad_service, CORS/auth/XSS, robot mocks including hardcoded device_index=99), and that .git is ~900MB from tracked build artifacts."
+    },
+    {
+      "path": "RASPBERRY_PI_DEPLOYMENT_GUIDE.md",
+      "purpose": "Step-by-step production deployment and verification guide for Raspberry Pi 4/5 (OS setup, Ollama, .env, knowledge pre-caching, hardware checks, launch options).",
+      "key_symbols": ["qwen2.5:3b", "all-MiniLM-L6-v2", "FAISS index (IP/cosine)", "Piper en_US-lessac-medium", "Faster-Whisper", "scripts/semantic_chunker.py", "scripts/build_embeddings.py", "scripts/rebuild_faiss_store.py", "scripts/download_piper_voices.py", "scripts/voice_loop.py", "campus_helpdesk.robot_main", "campus_helpdesk.main"],
+      "terms": [
+        {"term": "FAISS index (IP/cosine)", "definition": "The vector store similarity metric used on the Pi deployment (inner product on normalized vectors, equivalent to cosine similarity)."},
+        {"term": "vector store", "definition": "A structure mapping text chunks to dense embedding vectors for similarity search (FAISS)."}
+      ],
+      "config": ["APP_ENV", "LOG_LEVEL", "OLLAMA_BASE_URL", "OLLAMA_MODEL", "OFFLINE_LLM_MODEL", "OLLAMA_TIMEOUT_SECONDS", "OLLAMA_TEMPERATURE", "OLLAMA_TOP_P", "OLLAMA_TOP_K", "OLLAMA_REPEAT_PENALTY", "OLLAMA_CONTEXT_WINDOW", "OLLAMA_MAX_OUTPUT_TOKENS", "OLLAMA_NUM_THREADS", "ENABLE_CLOUD_LLM_ROUTER", "KNOWLEDGE_SOURCE_PATH", "FAISS_INDEX_PATH", "FAISS_ALLOW_DANGEROUS_DESERIALIZATION", "EMBEDDING_MODEL", "EMBEDDING_DEVICE", "EMBEDDING_BATCH_SIZE", "EMBEDDING_NORMALIZE", "EMBEDDING_LOCAL_FILES_ONLY", "TTS_VOICE_MODEL", "TTS_PIPER_MODELS_DIR", "ALLOW_ONLINE_STT_FALLBACK"],
+      "notes": "Pi production config sets FAISS_ALLOW_DANGEROUS_DESERIALIZATION=true and ENABLE_CLOUD_LLM_ROUTER=false (100% offline). KNOWLEDGE_SOURCE_PATH points into archive/bvbcet_scraper/knowledge_base/markdown (a legacy tree). References scripts (semantic_chunker, build_embeddings, rebuild_faiss_store, download_piper_voices, voice_loop, precache_tts) that must exist in scripts/ for the documented flow to work."
+    },
+    {
+      "path": "docs/DEPLOYMENT.md",
+      "purpose": "Complete Windows deployment guide: requirements, uv sync, .env config, Ollama model choice, knowledge ingestion, API server, desktop GUI, RAM tuning, PyInstaller packaging, auto-start, and porting to another laptop.",
+      "key_symbols": ["uv sync", "Copy-Item .env.example .env", "uv run python -m campus_helpdesk.scripts.ingest", "uv run uvicorn campus_helpdesk.main:app --app-dir src", "uv run python -m campus_helpdesk.demo", "pyinstaller"],
+      "terms": [
+        {"term": "canonical_markdown", "definition": "The data/canonical_markdown/ directory of curated Markdown knowledge files that the ingest step indexes."},
+        {"term": "KV cache", "definition": "Ollama's internal per-token key/value memory; its size is set by OLLAMA_CONTEXT_WINDOW and directly drives RAM usage."},
+        {"term": "PyInstaller", "definition": "Tool used to bundle the Python app into a single Windows .exe (dist/CampusHelpdesk.exe)."}
+      ],
+      "config": ["OLLAMA_MODEL", "OLLAMA_BASE_URL", "OLLAMA_CONTEXT_WINDOW", "OLLAMA_MAX_OUTPUT_TOKENS", "OLLAMA_NUM_THREADS", "OLLAMA_TEMPERATURE"],
+      "notes": "Contains a couple of stale/stray path references ('D:\\helpdesk\\anti' in auto-start examples; module name 'campus_helpdesk.scripts.ingest' vs the console script campus_helpdesk.ingest used elsewhere). Documents RAM/context-window tradeoff table and the 'failed to allocate CPU buffer' crash. Note GPU disabled via num_gpu:0 in settings.py."
+    },
+    {
+      "path": "docs/MODEL_SETUP.md",
+      "purpose": "Offline AI model provisioning guide covering the Ollama LLM, sentence-transformers embeddings, Faster-Whisper STT, and Piper TTS voice files.",
+      "key_symbols": ["qwen2.5:7b", "all-MiniLM-L6-v2 (384 dims)", "Faster-Whisper base int8", "en_US-lessac-medium", "TTS_PIPER_MODELS_DIR=data/piper"],
+      "terms": [
+        {"term": "embedding dimensions", "definition": "all-MiniLM-L6-v2 produces 384-dimensional vectors; a change of embedding model or normalization requires rebuilding the FAISS index."}
+      ],
+      "config": ["OLLAMA_BASE_URL", "OLLAMA_MODEL", "OLLAMA_TIMEOUT_SECONDS", "OLLAMA_TEMPERATURE", "OLLAMA_TOP_P", "OLLAMA_TOP_K", "OLLAMA_REPEAT_PENALTY", "OLLAMA_CONTEXT_WINDOW", "OLLAMA_MAX_OUTPUT_TOKENS", "EMBEDDING_MODEL", "EMBEDDING_DEVICE", "EMBEDDING_BATCH_SIZE", "EMBEDDING_NORMALIZE", "WHISPER_MODEL_SIZE", "WHISPER_DEVICE", "WHISPER_COMPUTE_TYPE", "TTS_VOICE_MODEL", "TTS_PIPER_MODELS_DIR", "TTS_USE_CUDA"],
+      "notes": "WHISPER_MODEL_SIZE shown as 'base' here and 'small' in the comment block (whisper section header says base; a later line in TROUBLESHOOTING references WHISPER_MODEL_SIZE=base). Piper falls back to pyttsx3 if the .onnx/.onnx.json files are missing."
+    },
+    {
+      "path": "docs/TROUBLESHOOTING.md",
+      "purpose": "Diagnostics for common failures: Ollama connection, camera lock, missing FAISS index, STT timeout, Piper fallback, and out-of-domain hallucination guarding.",
+      "key_symbols": ["LLMServiceError", "503 on /chat", "WEBCAM_INDEX", "campus_helpdesk.ingest", "RAG_DISTANCE_THRESHOLD"],
+      "terms": [
+        {"term": "LLMServiceError", "definition": "Exception surfaced when the Ollama service is unreachable or the configured model is unavailable (renders as HTTP 503)."},
+        {"term": "out-of-domain guard", "definition": "Declining to answer when retrieval distance exceeds the threshold, treating the query as outside the knowledge base."}
+      ],
+      "config": ["WEBCAM_INDEX", "RAG_DISTANCE_THRESHOLD", "WHISPER_MODEL_SIZE", "WHISPER_DEVICE"],
+      "notes": "Stale default: describes RAG_DISTANCE_THRESHOLD default as 2.0, but config.yaml now sets distance_threshold=999.0 (the 2.0 filter was removed because it caused hallucinations). Document should be updated to match the new filtering behavior."
+    },
+    {
+      "path": "docs/HARDWARE_INTEGRATION.md",
+      "purpose": "Spec for pan/tilt servo head-tracking integration driven by the normalized 2D face-center output of PersonDetector.",
+      "key_symbols": ["PersonDetector", "DetectionResult", "detect_in_frame(frame)", "face_center", "norm_x", "norm_y", "update_head_position", "send_servo_command"],
+      "terms": [
+        {"term": "face_center", "definition": "Normalized (0..1) center of the primary detected face used as an error signal for servo pan/tilt control."}
+      ],
+      "config": [],
+      "notes": "Describes a data contract and a PID-style servo mapping in pseudo-code; actual serial/I2C servo driver is external hardware. DetectionResult modeled as a tuple (person_detected, annotated_frame, face_center)."
+    },
+    {
+      "path": "docs/UI_STYLE_GUIDE.md",
+      "purpose": "Design system for the desktop/kiosk UI: dark/light HSL palettes, typography hierarchy, touch targets, spacing grid, and component library (sidebar, status badges, speech bubbles, citation drawer, camera gallery).",
+      "key_symbols": ["Color palettes (Slate/Royal Blue/Emerald/Amber/Rose)", "Typography hierarchy", "Touch targets 44x44px", "Citation Card Drawer", "Status Indicator Badge"],
+      "terms": [
+        {"term": "citation drawer", "definition": "UI panel per bot message showing source document, heading, match confidence score, and a verbatim snippet."},
+        {"term": "kiosk", "definition": "A locked-down touchscreen interface style the desktop app targets."}
+      ],
+      "config": [],
+      "notes": "Style reference only; the actual desktop UI is helpdesk_gui.py / the PySide6 presentation layer. Includes 'no hover-dependent logic' requirement for touch."
+    },
+    {
+      "path": "docs/module-roadmap.md",
+      "purpose": "Status of completed milestones (layered architecture, hybrid retrieval, reranking, offline LLM, speech pipeline, tests, offline enforcement) and Phase 3 roadmap (async endpoints, dual-screen vision, edge deployment hardening).",
+      "key_symbols": ["FasterWhisperSTTService", "NonBlockingTTSService", "Cross-encoder reranking", "Reciprocal Rank Fusion", "all-MiniLM-L6-v2", "qwen2.5:7b / llama3.2:3b", "local_files_only=True"],
+      "terms": [
+        {"term": "local_files_only", "definition": "HuggingFace loader flag that forbids runtime model downloads, enforcing offline operation."}
+      ],
+      "config": [],
+      "notes": "Claims 550+ tests and lists llama3.2:3b in addition to qwen2.5. Phase 3 edge hardening (systemd + ARM64 Docker) is listed as future work; the systemd unit exists in deployment/ but no Dockerfile was found in the repo."
+    },
+    {
+      "path": "docs/rag-pipeline.md",
+      "purpose": "Concise usage doc for create_rag_pipeline(settings): assembly, ingest_file, search, path/security constraints, and index rebuild requirements.",
+      "key_symbols": ["create_rag_pipeline", "get_settings", "pipeline.ingest_file", "pipeline.search", "FAISS_INDEX_PATH", "KNOWLEDGE_SOURCE_PATH", "KNOWLEDGE_MAX_FILE_SIZE_BYTES", "EMBEDDING_MODEL", "EMBEDDING_LOCAL_FILES_ONLY", "FAISS_ALLOW_DANGEROUS_DESERIALIZATION"],
+      "terms": [
+        {"term": "path traversal guard", "definition": "Source PDFs must live under KNOWLEDGE_SOURCE_PATH so ingestion cannot escape the knowledge corpus."}
+      ],
+      "config": ["FAISS_INDEX_PATH", "KNOWLEDGE_SOURCE_PATH", "KNOWLEDGE_MAX_FILE_SIZE_BYTES", "EMBEDDING_MODEL", "EMBEDDING_LOCAL_FILES_ONLY", "EMBEDDING_NORMALIZE", "FAISS_ALLOW_DANGEROUS_DESERIALIZATION"],
+      "notes": "Warns that scanned PDFs need OCR before ingestion and that changing EMBEDDING_MODEL or EMBEDDING_NORMALIZE requires rebuilding the FAISS index. Pipeline is lazy: no model/index calls until a method is invoked."
+    },
+    {
+      "path": "docs/system_benchmark_report.md",
+      "purpose": "Phase 3 latency benchmark report measuring per-service SLA compliance and end-to-end conversational overhead in mock/simulation.",
+      "key_symbols": ["Vision Service (HOG)", "VAD Service (WebRTC)", "STT Service", "Inference Adapter", "TTS Service", "EventBus", "PERSON_DETECTED", "VOICE_STARTED", "VOICE_STOPPED", "TRANSCRIPT_FINAL", "QUERY_STARTED", "ANSWER_READY", "TTS_STARTED", "TTS_COMPLETED"],
+      "terms": [
+        {"term": "SLA", "definition": "Service-level agreement: the target latency each robot service is benchmarked against (e.g. vision <40ms, STT <1000ms)."}
+      ],
+      "config": [],
+      "notes": "Reports a headless system runtime memory footprint of ~45.2MB RSS and ~11.2ms orchestration overhead; figures are from simulated/mock integration tests, not a physical robot."
+    },
+    {
+      "path": "docs/system_runtime.md",
+      "purpose": "Design doc for the SystemRuntime coordinator: startup/shutdown ordering, event wiring across services, resilience/failure-recovery profiles, and structured conversation logging.",
+      "key_symbols": ["SystemRuntime", "EventBus", "CameraService", "VisionService", "VADService", "STTService", "InferenceAdapter", "TTSService", "InteractionManager", "RobotStateMachine", "SYSTEM_READY", "CAMERA_DISCONNECTED", "MICROPHONE_ERROR", "InferenceTimeoutError", "TTS_INTERRUPTED", "ConversationTracker"],
+      "terms": [
+        {"term": "event bus", "definition": "The decoupled publish/subscribe backbone that all robot services use instead of direct references."},
+        {"term": "FSM", "definition": "Finite state machine; the RobotStateMachine governs robot lifecycle states BOOTING->INITIALIZING->IDLE->READY->LISTENING->PROCESSING->SPEAKING->ERROR/SHUTDOWN."},
+        {"term": "resilience profile", "definition": "Documented failure-recovery behavior per component (camera auto-reconnect, mic error safe-state, inference timeout -> READY, TTS interrupt)."}
+      ],
+      "config": [],
+      "notes": "Describes the mock/simulated robot architecture; matches the src/campus_helpdesk/interaction + runtime stack. Structured logging via ConversationTracker emits one JSON block per session with timestamps, latencies, errors, and completion state."
+    },
+    {
+      "path": "docs/implementation_plan_analytics.md",
+      "purpose": "Planning document for an observability/analytics subsystem (AnalyticsManager, SQLite MetricsStore, dashboards, reports) that is largely unimplemented/dormant.",
+      "key_symbols": ["AnalyticsManager", "MetricsStore", "QueryAnalytics", "RetrievalAnalytics", "ConversationAnalytics", "KnowledgeAnalytics", "PerformanceMonitor", "QualityMonitor", "DashboardGenerator", "ReportGenerator", "track_turn(turn_data)", "config/analytics.yaml"],
+      "terms": [
+        {"term": "hallucination flag", "definition": "A boolean recorded per query in quality analytics when the validator suspects fabricated content."},
+        {"term": "retention/pruning", "definition": "Automatic deletion of metrics older than a configured window (retention_days) to bound SQLite growth on the Pi."}
+      ],
+      "config": ["config/analytics.yaml (database_path, export_directory, retention_days, aggregation_interval_minutes, system_monitor_interval_seconds, export_formats, latency_thresholds_ms)"],
+      "notes": "Proposal with SQLite schemas and an HTML dashboard; per CLAUDE.md the analytics/ subsystem is dormant and nothing in application/ or api/ publishes to it. Not yet implemented."
+    },
+    {
+      "path": "docs/implementation_plan_conversation.md",
+      "purpose": "Design plan for a ConversationManager (short-term memory, follow-up detection, reference resolution, topic tracking, query-understanding pipeline).",
+      "key_symbols": ["ConversationManager", "Memory", "ContextTracker", "ReferenceResolver", "FollowupDetector", "TopicTracker", "QueryUnderstandingPipeline", "config/conversation.yaml"],
+      "terms": [
+        {"term": "follow-up detection", "definition": "Classifying whether an incoming query continues the current topic or starts a new one."},
+        {"term": "reference resolution", "definition": "Replacing pronouns/deictic phrases ('there', 'it') with concrete entities from recent conversation memory."},
+        {"term": "topic tracker", "definition": "Maintains the active conversation topic (Admission, Departments, etc.) via keyword/regex matching."}
+      ],
+      "config": ["max_turns (default 10)", "idle_timeout", "reference_confidence (default 0.7)", "config/conversation.yaml"],
+      "notes": "Planning-only document; the src/ codebase currently implements session memory via ConversationMemory + SessionManager in a simpler form, and a QueryRewriter for history-aware rewriting. Some planned components are not present."
+    },
+    {
+      "path": "docs/implementation_plan_knowledge.md",
+      "purpose": "Design plan for a Knowledge Base Management System: file watching, checksums, versioning, duplicate detection (MinHash), incremental FAISS/BM25 indexing, and consistency checks.",
+      "key_symbols": ["DocumentWatcher", "ChangeDetector", "IntegrityValidator", "DuplicateDetector", "MetadataManager", "VersionManager", "IncrementalChunkGenerator", "EmbeddingGenerator", "FAISSUpdater", "BM25Updater", "IndexSynchronizer", "KnowledgeStatistics", "DocumentRegistry", "KnowledgeCleanup", "KnowledgeReport", "MaintenanceUtilities", "config/knowledge.yaml"],
+      "terms": [
+        {"term": "incremental indexing", "definition": "Adding/removing only changed document vectors (index.add_with_ids / index.remove_ids) instead of rebuilding the whole index."},
+        {"term": "MinHash", "definition": "A compact fingerprinting technique used here to detect near-duplicate chunks/documents quickly."},
+        {"term": "IndexIVFFlat", "definition": "The FAISS index type proposed for Pi (nlist=256, nprobe=8) balancing speed and RAM."},
+        {"term": "DocumentRegistry", "definition": "A SQLite (or JSON) store holding one row per document version with checksum and index status."}
+      ],
+      "config": ["config/knowledge.yaml (registry_path, metadata_path, watch_directories, duplicate_threshold, maximum_versions, backup_directory, cleanup_policy.orphan_retention_days, validation_rules)"],
+      "notes": "Planning-only; the current codebase indexes via campus_helpdesk.ingest with semantic_chunker/faiss_store rather than this KBMS. No watchdog/MinHash/FTS5 implementation of this scope was found."
+    },
+    {
+      "path": "docs/implementation_plan_validation.md",
+      "purpose": "Design plan for a response validation & citation engine (grounding checks, hallucination detection, confidence estimation, citation formatting, post-processing).",
+      "key_symbols": ["ResponseValidator", "GroundingChecker", "CitationFormatter", "ConfidenceEstimator", "HallucinationDetector", "AnswerPostprocessor", "config/validation.yaml"],
+      "terms": [
+        {"term": "grounding check", "definition": "Labeling each LLM output sentence SUPPORTED / PARTIALLY_SUPPORTED / UNSUPPORTED against retrieved chunks."},
+        {"term": "hallucination detection", "definition": "Heuristic rules (entity-list checks, pattern rules, numeric consistency) to flag fabricated entities or facts."},
+        {"term": "citation style", "definition": "Format of inline citations, e.g. numeric '[1] Document -> Section'."}
+      ],
+      "config": ["config/validation.yaml (confidence_threshold, minimum_cross_encoder_score, minimum_similarity_score, citation_style, fallback_templates, weights)"],
+      "notes": "Planning-only. The src/ codebase already has related, simpler implementations: ConfidenceEngine, CitationValidator (strips fabricated citations), and AnswerabilityEngine; this plan proposes a richer sentence-level grounding pipeline."
+    },
+    {
+      "path": "docs/plans/router-composer-plan.md",
+      "purpose": "Approved-style implementation plan for a GenerationRouter (dynamic cloud/local LLM switching via ConnectivityChecker) and ContextComposer (chunk dedup/merge), with exact call sites and test plans.",
+      "key_symbols": ["GenerationRouter", "ConnectivityChecker", "CloudLLMService", "OllamaLLMService", "ContextComposer", "LLMService protocol", "RAGChatService", "OFFLINE_LLM_MODEL", "ENABLE_CLOUD_LLM_ROUTER", "ENABLE_CONTEXT_COMPOSER"],
+      "terms": [
+        {"term": "generation router", "definition": "Chooses cloud LLM or local offline Ollama per query based on a cached connectivity check, falling back to the offline model."},
+        {"term": "context composer", "definition": "Deduplicates and merges overlapping RAG search results before prompt context building."},
+        {"term": "connectivity check TTL", "definition": "Cached health-check result (15s) to avoid a socket/network call on every prompt turn."}
+      ],
+      "config": ["ENABLE_CLOUD_LLM_ROUTER", "CLOUD_LLM_API_KEY", "CLOUD_LLM_BASE_URL", "CLOUD_LLM_MODEL", "CLOUD_CONNECTIVITY_TIMEOUT_MS", "CLOUD_CONNECTIVITY_TTL_SECONDS", "OFFLINE_LLM_MODEL", "ENABLE_CONTEXT_COMPOSER", "CONTEXT_COMPOSER_DEDUP_THRESHOLD"],
+      "notes": "Corresponds to implemented code: src/campus_helpdesk/infrastructure/llm/cloud_llm_service.py and generation_router.py, src/campus_helpdesk/infrastructure/rag/context_composer.py exist (see git status). References an 8GB Pi RAM budget where the offline model is qwen2.5:1.5b or qwen2.5:3b."
+    },
+    {
+      "path": "docs/interaction/event_bus.md",
+      "purpose": "Design doc for the EventBus: priority queue + single dispatcher thread + thread-pool handlers, subscription API, overflow/backpressure policy, and benchmark results.",
+      "key_symbols": ["EventBus", "EventEnvelope", "subscribe(handler, event_types, source, one_shot, min_priority)", "unsubscribe(handle)", "SubscriptionHandle", "publish_sync(event, timeout)", "shutdown(drain)", "events_dropped"],
+      "terms": [
+        {"term": "event priority", "definition": "A priority key (CRITICAL=3 .. LOW=0) that orders the queue; FIFO via a monotonic sequence number within the same priority."},
+        {"term": "backpressure", "definition": "When the bounded queue is full, new events block up to overflow_timeout then are dropped with the events_dropped metric incremented."}
+      ],
+      "config": [],
+      "notes": "Documents a deadlock guard: publish_sync() raises RuntimeError when called from dispatcher/handler threads. Benchmarks: ~3-18us publish latency, ~14k events/s throughput on Windows/Python 3.11."
+    },
+    {
+      "path": "docs/interaction/interaction_manager.md",
+      "purpose": "Design doc for InteractionManager: the control-plane orchestrator mapping events to FSM transitions, running timeout monitors, and enforcing thread safety.",
+      "key_symbols": ["InteractionManager", "SYSTEM_READY", "PERSON_DETECTED", "VOICE_STARTED", "VOICE_STOPPED", "TRANSCRIPT_FINAL", "ANSWER_READY", "TTS_COMPLETED", "PERSON_LEFT", "SESSION_STARTED", "SESSION_ENDED", "TIMEOUT", "ERROR"],
+      "terms": [
+        {"term": "event-state matrix", "definition": "The table mapping each incoming event, expected current FSM state, target state, and downstream actions."},
+        {"term": "timeout monitor", "definition": "A daemon thread checking FSM state residencies twice a second and publishing TIMEOUT events on overstay."},
+        {"term": "reentrant lock", "definition": "threading.RLock guarding state transitions and context mutations against concurrent event dispatch."}
+      ],
+      "config": [],
+      "notes": "Control plane only - performs no STT/TTS/RAG/vision execution. Invalid event sequences are discarded with warning logs via FSM validation."
+    },
+    {
+      "path": "docs/interaction/robot_state.md",
+      "purpose": "Design doc for the RobotStateMachine FSM: nine lifecycle states, strict transition graph, thread model, and best practices.",
+      "key_symbols": ["RobotStateMachine", "BOOTING", "INITIALIZING", "IDLE", "READY", "LISTENING", "PROCESSING", "SPEAKING", "ERROR", "SHUTDOWN", "transition_to(target_state)", "on_enter", "on_exit", "on_transition", "fsm.diagnostics()"],
+      "terms": [
+        {"term": "FSM state", "definition": "A mutually exclusive lifecycle state of the robot (BOOTING..SHUTDOWN) enforced by the state machine."},
+        {"term": "hook isolation", "definition": "on_enter/on_exit/on_transition callbacks run in try-except so exceptions never corrupt transitions."}
+      ],
+      "config": [],
+      "notes": "Uses time.perf_counter() for microsecond transition timing to bypass Windows timer precision limits. Any state except SHUTDOWN may transition to ERROR or SHUTDOWN."
+    },
+    {
+      "path": "docs/services/camera_service.md",
+      "purpose": "Design doc for CameraService: pure frame ingestion (no CV), newest-frame-wins backpressure, auto-reconnect, mock fallback, and diagnostics API.",
+      "key_symbols": ["CameraService", "CameraPayload", "camera_service-capture", "CAMERA_DISCONNECTED", "CAMERA_RECONNECTED", "diagnostics()", "use_mock_fallback"],
+      "terms": [
+        {"term": "newest-frame-wins", "definition": "Policy where congested/lagging frames are dropped so consumers always act on the newest camera state."}
+      ],
+      "config": [],
+      "notes": "Frames are JPEG-encoded for compact payloads. Mock fallback generates synthetic NumPy frames (black background with text counters/color patterns) when no physical device exists. Reconnect attempts run every reconnect_delay seconds."
+    },
+    {
+      "path": "docs/services/inference_adapter.md",
+      "purpose": "Design doc for InferenceAdapter: bridges the event bus to the RAG pipeline via a FIFO worker thread with timeout recovery.",
+      "key_symbols": ["InferenceAdapter", "BaseInferenceBackend", "LocalRAGBackend", "MockInferenceBackend", "InferenceAdapter-worker", "TRANSCRIPT_FINAL", "QUERY_STARTED", "ANSWER_READY", "InferenceTimeoutError", "InferenceBackendError"],
+      "terms": [
+        {"term": "FIFO worker", "definition": "A single background queue that serializes heavy generation/retrieval requests to avoid memory thrashing on the Pi."}
+      ],
+      "config": ["timeout_seconds (default 10.0)"],
+      "notes": "Timeout wrapped via a watchdog thread so a stalled LLM never crashes the worker. ANSWER_READY carries text, cited sources, confidence, and latency."
+    },
+    {
+      "path": "docs/services/stt_service.md",
+      "purpose": "Design doc for STTService: event-driven transcription (VOICE_STOPPED -> TRANSCRIPT_FINAL) on a FIFO worker via a pluggable backend.",
+      "key_symbols": ["STTService", "BaseTranscriptionBackend", "FasterWhisperBackend", "MockTranscriptionBackend", "STTService-worker", "TranscriptPayload", "load_model()", "transcribe(audio_path)"],
+      "terms": [
+        {"term": "ctranslate2", "definition": "The optimized C++ runtime Faster-Whisper uses to run int8-quantized Whisper models on CPU."}
+      ],
+      "config": [],
+      "notes": "Microphone-independent: only processes audio segment WAV files. Metadata tracing attaches duration_ms, transcription_latency_ms, and model_name to the event envelope. int8/int8_float16 compute recommended for Pi."
+    },
+    {
+      "path": "docs/services/tts_service.md",
+      "purpose": "Design doc for TTSService: answer-to-speech synthesis/playback with preemption/interruption support via a pluggable backend.",
+      "key_symbols": ["TTSService", "BaseSpeechBackend", "PiperBackend", "MockSpeechBackend", "tts_service-worker", "ANSWER_READY", "TTS_STARTED", "TTS_COMPLETED", "TTS_INTERRUPTED", "synthesize_and_play(text, stop_event, on_start_callback)", "cancel()", "interrupt()"],
+      "terms": [
+        {"term": "preemption/interruption", "definition": "Aborting current playback (cancel + TTS_INTERRUPTED) when new speech or a new answer arrives."}
+      ],
+      "config": [],
+      "notes": "Decoupled audio sink; tracks playback_latency, synthesis_latency, failures diagnostics."
+    },
+    {
+      "path": "docs/services/vad_service.md",
+      "purpose": "Design doc for VADService: voice presence detection on 16kHz PCM audio using WebRTC VAD with debouncing, mock fallback, and segment WAV writing.",
+      "key_symbols": ["VADService", "VADService-worker", "webrtcvad", "VOICE_STARTED", "VOICE_STOPPED", "speech_frames_threshold (5)", "silence_frames_threshold (15)"],
+      "terms": [
+        {"term": "VAD", "definition": "Voice Activity Detection: classifying short PCM frames (10/20/30ms) as speech or silence."},
+        {"term": "debouncing", "definition": "Requiring N consecutive speech/silence frames before firing VOICE_STARTED/VOICE_STOPPED to reject transient noise."},
+        {"term": "PCM", "definition": "Pulse-code modulation; the raw mono 16-bit audio format captured by sounddevice at 16kHz."}
+      ],
+      "config": [],
+      "notes": "Adaptive decay compensates for WebRTC VAD's stateful noise-floor estimator (3-4 frames of silence needed). Writes segment WAV files and passes their path in the VOICE_STOPPED payload. Mock fallback synthesizes 400Hz speaking waves vs silence."
+    },
+    {
+      "path": "docs/services/vision_service.md",
+      "purpose": "Design doc for VisionService: person detection on captured frames with debounced presence changes and a pluggable detector interface.",
+      "key_symbols": ["VisionService", "BasePersonDetector", "HOGPersonDetector", "MockPersonDetector", "vision_service-worker", "FRAME_CAPTURED", "PERSON_DETECTED", "PERSON_LEFT", "min_hits (3)", "min_misses (10)", "detect(frame)"],
+      "terms": [
+        {"term": "HOG", "definition": "Histogram of Oriented Gradients: OpenCV feature descriptor + default people-detector SVM used as the production detector."},
+        {"term": "presence debounce", "definition": "Requiring min_hits consecutive person frames before PERSON_DETECTED and min_misses before PERSON_LEFT to prevent flicker."}
+      ],
+      "config": [],
+      "notes": "Bounded queue of size 1 with newest frame winning. Frames resized to max width 640px to meet the <40ms detection SLA. MockPersonDetector simulates presence for CI."
+    },
+    {
+      "path": "deployment/requirements-pi.txt",
+      "purpose": "Raspberry Pi OS (ARM64) deployment requirements marker that includes the root requirements.txt and documents the apt system packages needed first.",
+      "key_symbols": ["-r ../requirements.txt"],
+      "terms": [
+        {"term": "apt system deps", "definition": "OS-level packages (portaudio19-dev, libopenblas-dev, espeak-ng, ffmpeg, v4l-utils) required before pip install on the Pi."}
+      ],
+      "config": [],
+      "notes": "Tiny file - mostly a pointer plus apt install comments. pip cannot install system libs; they must be apt-installed first."
+    },
+    {
+      "path": "deployment/scripts/setup_pi_deployment.sh",
+      "purpose": "End-to-end Raspberry Pi deployment script: apt packages, Ollama install/pull qwen2.5:3b, venv + requirements install with Piper ARM64 binary fallback, TTS pre-caching, and systemd unit patching/installation.",
+      "key_symbols": ["APP_DIR", "REAL_USER", "ollama pull qwen2.5:3b", "req_no_piper.txt", "PIPER_URL", "bin/piper_bin/piper", "scripts/precache_tts.py", "deployment/systemd/campus-helpdesk-robot.service", "systemctl daemon-reload", "systemctl enable campus-helpdesk-robot.service"],
+      "terms": [
+        {"term": "systemd unit", "definition": "A systemd service definition describing how to run the robot (ExecStart, User, WorkingDirectory, EnvironmentFile) as a background daemon."},
+        {"term": "journalctl", "definition": "The command to read service logs when StandardOutput/StandardError are set to journal (-u campus-helpdesk-robot -f)."}
+      ],
+      "config": ["ENVIRONMENT (via sed-patched EnvironmentFile=-$APP_DIR/.env)"],
+      "notes": "sed-patches WorkingDirectory, ExecStart, EnvironmentFile, and User into the service file, so the checked-in unit is a template with /home/pi/campus-helpdesk placeholders. If pip install fails, it strips piper-tts and downloads a pinned rhasspy/piper ARM64 release tarball (2023.11.14-2) into bin/piper_bin. Calls scripts/precache_tts.py with || true (non-fatal). Requires SUDO_USER or defaults to current $USER."
+    },
+    {
+      "path": "deployment/systemd/campus-helpdesk-robot.service",
+      "purpose": "systemd unit template that runs the autonomous robot as a persistent background service on the Raspberry Pi.",
+      "key_symbols": ["After=network.target sound.target multi-user.target", "Wants=sound.target", "Type=simple", "User=pi", "WorkingDirectory=/home/pi/campus-helpdesk", "ExecStart=/home/pi/campus-helpdesk/.venv/bin/python -m campus_helpdesk.robot_main", "Restart=always", "RestartSec=5", "KillMode=process", "PYTHONUNBUFFERED=1", "EnvironmentFile=-/home/pi/campus-helpdesk/.env", "StandardOutput=journal", "StandardError=journal", "WantedBy=multi-user.target"],
+      "terms": [
+        {"term": "Restart=always", "definition": "systemd restarts the service unconditionally on exit, with RestartSec=5 between attempts."},
+        {"term": "EnvironmentFile=-", "definition": "Loads environment variables from the path; the leading dash means a missing file is not an error."}
+      ],
+      "config": [".env (via EnvironmentFile)"],
+      "notes": "Template only - paths assume /home/pi/campus-helpdesk and User=pi; setup_pi_deployment.sh patches them to the real clone directory at install time. Runs `python -m campus_helpdesk.robot_main` (robot stack entrypoint), not the API."
+    }
+  ],
+  "data_flow": "Configuration flows one way: root-level config.yaml and .env are consumed by src/campus_helpdesk/config/settings.py, which flattens config.yaml (nested app/retrieval/cache/memory/ollama/embedding/reranker/logging/vision/audio/vad/tts sections) via a model_validator and overlays env vars; config.yaml keys WIN over same-named env keys. The resulting Settings drive main.py -> OllamaLLMService -> create_rag_pipeline (hybrid retriever, FAISS store, reranker) -> RAGChatService, and also configure the robot-stack services (STT/TTS/VAD/vision). Packaging metadata in pyproject.toml defines the campus-helpdesk-ingest console entry point (campus_helpdesk.ingest:main) that builds the index, plus pytest/ruff/pyright config gating the verification flow (scripts/verify_project.py). Deployment flows outward to a Raspberry Pi: deployment/scripts/setup_pi_deployment.sh provisions the OS, installs Ollama + qwen2.5:3b, creates the venv from requirements.txt, pre-caches TTS, and installs the patched systemd unit deployment/systemd/campus-helpdesk-robot.service, which runs `python -m campus_helpdesk.robot_main` reading .env via EnvironmentFile. Documentation (README, CLAUDE.md, DEPLOYMENT.md, RASPBERRY_PI_DEPLOYMENT_GUIDE.md, MODEL_SETUP.md, TROUBLESHOOTING.md, module-roadmap, planning docs, and service/interaction design docs) describes these same flows and is the reference consumed by humans during setup, tuning, and troubleshooting.",
+  "external_deps": [
+    "Ollama (external local service) - OLLAMA_BASE_URL points at the Ollama HTTP server; model tag selected via OLLAMA_MODEL",
+    "Hugging Face models, cached offline: sentence-transformers/all-MiniLM-L6-v2 embeddings, cross-encoder/ms-marco-MiniLM-L-6-v2 reranker, Piper voices, Faster-Whisper",
+    "OpenRouter (optional cloud LLM provider) - CLOUD_LLM_API_KEY / OPENROUTER_API_KEY / OPENROUTER_BASE_URL for the generation router",
+    "uv (Astral) package manager + hatchling build backend (uv sync, uv lock, uv run)",
+    "Raspberry Pi OS apt system packages: ffmpeg, espeak-ng, portaudio19-dev, libopenblas-dev, libatlas-base-dev, v4l-utils, cmake, build-essential",
+    "systemd (Linux init) for the campus-helpdesk-robot.service daemon",
+    "rhasspy/piper GitHub releases (standalone ARM64 Piper binary fallback, pinned 2023.11.14-2)",
+    "PyInstaller (documented Windows packaging to a .exe)"
+  ],
+  "risks": [
+    "config.yaml overrides same-named .env keys via the settings model_validator, so the two files can silently drift (CLAUDE.md calls this a known quirk); keep them in sync.",
+    "Default drift across sources: OLLAMA_MODEL qwen2.5:7b (.env.example) vs qwen2.5:3b (config.yaml, .env), temperature 0.2 vs 0.0, and RAG_DISTANCE_THRESHOLD 2.0 (.env.example, TROUBLESHOOTING.md) vs distance_threshold 999.0 (config.yaml) - the 2.0 value was removed because it caused hallucinations, so TROUBLESHOOTING.md is stale.",
+    "Two parallel dependency manifests (pyproject.toml/uv.lock vs requirements.txt) can drift; requirements.txt includes pyttsx3 not present in pyproject.toml.",
+    "Deployment docs reference scripts (scripts/semantic_chunker.py, build_embeddings.py, rebuild_faiss_store.py, download_piper_voices.py, voice_loop.py, precache_tts.py) that must exist; setup_pi_deployment.sh depends on scripts/precache_tts.py.",
+    "FAISS_ALLOW_DANGEROUS_DESERIALIZATION=true is enabled in the live .env and Pi guide (safe only for trusted, locally built indexes); the .env.example default is false.",
+    ".env.example ships a placeholder OpenRouter API key; a real key committed to the repo would be an exposure.",
+    "Legacy root config (config.py) duplicates settings.py values and is dead code not imported by src/ (per CLAUDE.md).",
+    "Docs describe features that are planning-only or dormant (analytics subsystem, KBMS incremental indexing, conversation manager, sentence-level validation engine); module-roadmap claims 550+ tests and Docker ARM64 containers that were not found in the repo.",
+    "setup_pi_deployment.sh's Piper ARM64 fallback is pinned to one release tarball (2023.11.14-2), a fragile external dependency; the primary pip install of piper-tts on ARM64 may fail and trigger the fallback.",
+    "The systemd unit is a template with /home/pi/campus-helpdesk and User=pi hardcoded; correct operation depends on setup_pi_deployment.sh's sed patching succeeding.",
+    "The repo root tracks large build artifacts (chunks.jsonl ~19MB, embedding_metadata.jsonl ~47MB, uv.lock ~254KB, many *_report.json files) inflating .git to ~900MB, partly negated by .gitignore rules that arrived after some files were committed.",
+    "README/DEPLOYMENT.md still reference legacy entrypoints (assistant_loop.py, demo.py, campus_helpdesk.scripts.ingest) and a stray D:\\helpdesk\\anti path, which can mislead new contributors."
+  ]
+}

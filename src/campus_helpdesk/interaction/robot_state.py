@@ -203,13 +203,13 @@ class TransitionRecord:
 
 _VALID_TRANSITIONS: dict[RobotState, set[RobotState]] = {
     RobotState.BOOTING: {RobotState.INITIALIZING, RobotState.ERROR, RobotState.SHUTDOWN},
-    RobotState.INITIALIZING: {RobotState.IDLE, RobotState.ERROR, RobotState.SHUTDOWN},
-    RobotState.IDLE: {RobotState.READY, RobotState.ERROR, RobotState.SHUTDOWN},
-    RobotState.READY: {RobotState.LISTENING, RobotState.IDLE, RobotState.ERROR, RobotState.SHUTDOWN},
+    RobotState.INITIALIZING: {RobotState.IDLE, RobotState.READY, RobotState.ERROR, RobotState.SHUTDOWN},
+    RobotState.IDLE: {RobotState.READY, RobotState.LISTENING, RobotState.PROCESSING, RobotState.ERROR, RobotState.SHUTDOWN},
+    RobotState.READY: {RobotState.LISTENING, RobotState.PROCESSING, RobotState.IDLE, RobotState.ERROR, RobotState.SHUTDOWN},
     RobotState.LISTENING: {RobotState.PROCESSING, RobotState.READY, RobotState.IDLE, RobotState.ERROR, RobotState.SHUTDOWN},
     RobotState.PROCESSING: {RobotState.SPEAKING, RobotState.READY, RobotState.IDLE, RobotState.ERROR, RobotState.SHUTDOWN},
-    RobotState.SPEAKING: {RobotState.READY, RobotState.IDLE, RobotState.ERROR, RobotState.SHUTDOWN},
-    RobotState.ERROR: {RobotState.INITIALIZING, RobotState.SHUTDOWN},
+    RobotState.SPEAKING: {RobotState.READY, RobotState.LISTENING, RobotState.IDLE, RobotState.ERROR, RobotState.SHUTDOWN},
+    RobotState.ERROR: {RobotState.INITIALIZING, RobotState.READY, RobotState.IDLE, RobotState.SHUTDOWN},
     RobotState.SHUTDOWN: set(),  # Terminal state
 }
 

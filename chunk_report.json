@@ -1,7 +1,0 @@
-{
-  "documents_processed": 568,
-  "chunks_generated": 7164,
-  "total_words": 2571648,
-  "average_words_per_chunk": 359.0,
-  "chunker": "MarkdownSemanticChunker (target_chunk_chars=1500)"
-}

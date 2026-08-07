@@ -27,7 +27,7 @@ def main():
     if os.path.exists(metadata_path):
         print(f"Loading duplicate groupings from metadata json: {metadata_path}")
         try:
-            with open(metadata_path, "r", encoding="utf-8") as f:
+            with open(metadata_path, encoding="utf-8") as f:
                 data = json.load(f)
                 for item in data:
                     groups.append({
@@ -41,7 +41,7 @@ def main():
     if not groups and os.path.exists(report_path):
         print(f"Loading duplicate groupings from markdown report: {report_path}")
         try:
-            with open(report_path, "r", encoding="utf-8") as f:
+            with open(report_path, encoding="utf-8") as f:
                 lines = f.readlines()
             
             current_canonical = None

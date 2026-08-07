@@ -22,7 +22,7 @@ import json
 import subprocess
 import sys
 import time
-from datetime import datetime, timezone
+from datetime import datetime, UTC
 from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
@@ -146,12 +146,12 @@ def main() -> None:
     # Save report
     REPORT_DIR.mkdir(parents=True, exist_ok=True)
     report = {
-        "timestamp": datetime.now(timezone.utc).isoformat(),
+        "timestamp": datetime.now(UTC).isoformat(),
         "scope": scope or "all",
         "all_passed": all_passed,
         "checks": results,
     }
-    report_path = REPORT_DIR / f"verification_{datetime.now(timezone.utc).strftime('%Y%m%d_%H%M%S')}.json"
+    report_path = REPORT_DIR / f"verification_{datetime.now(UTC).strftime('%Y%m%d_%H%M%S')}.json"
     report_path.write_text(json.dumps(report, indent=2, default=str), encoding="utf-8")
     print(f"\nReport saved to: {report_path}")
 

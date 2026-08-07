@@ -1,0 +1,610 @@
+{
+  "folder": "tests/",
+  "title": "Tests: services & interaction",
+  "purpose": "Tests for the robot stack's service layer (camera, STT, TTS, VAD, vision, inference, query normalizer) and its interaction layer (event bus, event/domain model, interaction manager, robot-state FSM). These tests exercise real threading, queueing, event-bus publish/subscribe, and FSM behavior against mock hardware backends, providing the integration coverage for the robot stack (which is a separate concern from the HTTP RAG API and is deployed on a Raspberry Pi). Each suite also embeds latency benchmarks that always pass and print timing to stdout for CI tracking. The interaction tests form the contract for the event-driven architecture: typed, validated EventEnvelope objects flowing through a priority-ordered thread-safe bus and driving a 9-state FSM.",
+  "files": [
+    {
+      "path": "tests/services/test_camera_service.py",
+      "purpose": "Tests the CameraService robot-stack component: mock fallback initialization, start/stop/restart lifecycles, the frame-capture loop publishing FRAME_CAPTURED events, queue-overflow drop policy, auto-reconnection, thread safety, diagnostics, and capture-latency benchmarks.",
+      "key_symbols": [
+        "TestCameraLifecycle",
+        "TestFrameCapture",
+        "TestQueueOverflow",
+        "TestAutoReconnect",
+        "TestThreadSafety",
+        "TestBenchmarks",
+        "bus fixture",
+        "camera fixture",
+        "CameraPayload",
+        "EventBus",
+        "EventType.CAMERA_STARTED/CAMERA_STOPPED/FRAME_CAPTURED/CAMERA_DISCONNECTED/CAMERA_RECONNECTED",
+        "CameraService._read_frame",
+        "CameraService._handle_read_failure"
+      ],
+      "terms": [
+        {
+          "term": "Mock fallback",
+          "definition": "When the physical camera device cannot be opened (tests force this with camera_index=99), CameraService transparently falls back to a mock source so the pipeline still runs; surfaced via health()['is_mock']."
+        },
+        {
+          "term": "FRAME_CAPTURED",
+          "definition": "EventType whose payload (CameraPayload) carries a JPEG-encoded frame, resolution string, frame id/number, and capture latency; consumed by the vision service."
+        },
+        {
+          "term": "Queue drop policy",
+          "definition": "Non-blocking publish path where overflowing frames are dropped rather than blocking the capture loop (test verifies diagnostics()['frames_dropped'] increments)."
+        },
+        {
+          "term": "Auto-reconnect",
+          "definition": "On a read failure CameraService emits CAMERA_DISCONNECTED then automatically retries and re-emits CAMERA_RECONNECTED, incrementing a reconnect_count diagnostic."
+        }
+      ],
+      "config": [
+        "CameraService constructor params (mirror config; not read from env/config.yaml in tests): camera_index=99 to force mock, resolution=(320,240), fps, auto_reconnect, reconnect_delay, use_mock_fallback"
+      ],
+      "notes": "Tests use camera_index=99 (and 98 for overflow) to guarantee physical failure and force Mock fallback; uses EventBus with maxsize=500/max_workers=2 and always calls shutdown() in fixtures. TestQueueOverflow builds a tiny maxsize=1 bus with a blocking subscriber to cause build-up. Benchmark asserts average _read_frame overhead < 2 ms. Some tests call private internals (_handle_read_failure, _read_frame)."
+    },
+    {
+      "path": "tests/services/test_inference_adapter.py",
+      "purpose": "Tests InferenceAdapter, the service that consumes TRANSCRIPT_FINAL events and, via a backend, publishes QUERY_STARTED and ANSWER_READY events, covering lifecycle, FIFO queue ordering under load, timeout recovery, error payloads, and queue/adapter overhead benchmarks.",
+      "key_symbols": [
+        "InferenceAdapter",
+        "MockInferenceBackend",
+        "_make_transcript_event helper",
+        "TestInferenceLifecycle",
+        "TestInferenceEventRouting",
+        "TestInferenceTimeouts",
+        "TestFIFOQueue",
+        "TestBenchmarks",
+        "AnswerPayload",
+        "QueryPayload",
+        "TranscriptPayload",
+        "ErrorPayload",
+        "EventType.ANSWER_READY/QUERY_STARTED/ERROR"
+      ],
+      "terms": [
+        {
+          "term": "InferenceAdapter",
+          "definition": "Service that subscribes to TRANSCRIPT_FINAL (the finalized STT transcript), runs a query through an inference backend, and publishes QUERY_STARTED then ANSWER_READY carrying the answer text, confidence score/level, and source citations."
+        },
+        {
+          "term": "ANSWER_READY",
+          "definition": "EventType with AnswerPayload (answer, confidence_score, confidence_level, sources tuple, query, inference_duration_ms); the TTS service and InteractionManager react to it."
+        },
+        {
+          "term": "InferenceTimeoutError",
+          "definition": "ErrorPayload error_type emitted when a backend query exceeds timeout_seconds (test forces a 0.8s simulated delay against a 0.5s adapter timeout)."
+        },
+        {
+          "term": "MockInferenceBackend",
+          "definition": "Fake backend returning a canned answer ('The central library is open from 8 AM to 8 PM.'), citations, confidence 0.92 and level HIGH; supports should_fail and simulate_delay_sec knobs."
+        },
+        {
+          "term": "FIFO worker queue",
+          "definition": "The adapter processes transcript events strictly in publish order on a single worker; the test publishes 5 events and asserts ANSWER_READY order matches publish order."
+        }
+      ],
+      "config": [
+        "InferenceAdapter constructor params: timeout_seconds, name; MockInferenceBackend.simulate_delay_sec / should_fail (test-only knobs)"
+      ],
+      "notes": "Error types checked in tests: InvalidTranscriptError (blank transcript), InferenceBackendError (backend exception, message 'Database connection...'), InferenceTimeoutError. Empty/whitespace transcripts are rejected. Benchmark asserts < 5 ms/request adapter+queue overhead."
+    },
+    {
+      "path": "tests/services/test_query_normalizer.py",
+      "purpose": "Unit tests for the query_normalizer.normalize_query pure function, covering lowercase, whitespace trim/collapse, repeated-punctuation removal, greeting letter-collapse, spelling corrections, synonym mapping, composed end-to-end specification examples, and edge cases.",
+      "key_symbols": [
+        "normalize_query",
+        "TestLowercase",
+        "TestWhitespace",
+        "TestPunctuation",
+        "TestGreetingCollapse",
+        "TestSpellingCorrection",
+        "TestSynonymMapping",
+        "TestSpecificationExamples",
+        "TestEdgeCases"
+      ],
+      "terms": [
+        {
+          "term": "Query normalization",
+          "definition": "Deterministic text pipeline transforming a raw user query into canonical form: lowercase, trimmed whitespace, stripped repeated punctuation, greeting collapse, spelling fixes, and synonym substitution, intended to improve retrieval before search."
+        },
+        {
+          "term": "Greeting collapse",
+          "definition": "Reducing drawn-out greetings to canonical short forms (hiii->hi, heyyyy->hey, helloooo->hello) while never collapsing normal words like 'balloon'."
+        },
+        {
+          "term": "Synonym mapping",
+          "definition": "Replacing informal variants with canonical retrieval terms, e.g. dept/branch -> departments, mess -> hostel, 'library timing' -> 'library hours', cafeteria -> canteen, 'exam schedule' -> timetable."
+        },
+        {
+          "term": "Spelling correction",
+          "definition": "Fixing common misspellings in the query (depatments->departments, libary->library, admision->admission, etc.) via a fixed correction table."
+        }
+      ],
+      "config": [],
+      "notes": "Pure-function tests, no fixtures/config/hardware. Pipeline is idempotent (running normalize twice yields the same result) and handles None/empty/whitespace input returning ''. The 'fees?library' test pins that a single mid-string '?' is preserved. No settings or env vars are read."
+    },
+    {
+      "path": "tests/services/test_stt_service.py",
+      "purpose": "Tests STTService, which ingests VOICE_STOPPED events (audio chunk paths) and publishes TRANSCRIPT_FINAL events, covering mock backend transcription, FIFO ordering, short-audio guard, language detection, FasterWhisper beam-size config, corrupt-file error recovery, diagnostics, and latency benchmarks.",
+      "key_symbols": [
+        "STTService",
+        "MockTranscriptionBackend",
+        "FasterWhisperBackend",
+        "_make_voice_stopped_event helper",
+        "TestSTTLifecycle",
+        "TestSTTTranscription",
+        "TestFIFOQueue",
+        "TestShortAudioGuard",
+        "TestLanguageDetection",
+        "TestFasterWhisperBackendConfig",
+        "TestBenchmarks",
+        "VoicePayload",
+        "TranscriptPayload"
+      ],
+      "terms": [
+        {
+          "term": "STT (speech-to-text)",
+          "definition": "Service that transcribes a saved WAV audio segment (VOICE_STOPPED event) into text via a backend and publishes TRANSCRIPT_FINAL with text, language code, confidence, duration, and audio chunk id."
+        },
+        {
+          "term": "Short audio guard (min_audio_duration_ms)",
+          "definition": "Segments below the configured duration threshold are discarded and never reach the transcription backend; setting the value to 0 disables the guard."
+        },
+        {
+          "term": "FasterWhisperBackend",
+          "definition": "Real transcription backend wrapping the faster-whisper model; default beam_size is 1 (greedy/fast) and the model_name string embeds the beam size for diagnostics (e.g. 'beam1')."
+        },
+        {
+          "term": "MockTranscriptionBackend",
+          "definition": "Fake backend returning canned text ('find library building'), language 'en', confidence 0.96; raises IOError for audio paths containing 'corrupt' to exercise error recovery."
+        },
+        {
+          "term": "Beam size",
+          "definition": "Whisper decode-beam width: beam_size=1 is greedy decoding, higher values do search-beam decoding; the tests verify the default is 1 and that it is configurable and reflected in model_name."
+        }
+      ],
+      "config": [
+        "STTService constructor params: min_audio_duration_ms, name; MockTranscriptionBackend(dummy_text); FasterWhisperBackend(beam_size); test backend transcribe() returns (text, lang, confidence)"
+      ],
+      "notes": "MockTranscriptionBackend raises IOError for paths containing 'corrupt', and the service publishes a fatal ErrorPayload ('Corrupt audio', is_fatal=True). Language detection is verified for en/hi/kn via a LangMockBackend subclass. Benchmark asserts < 1.0 s per transcription. Model_name in metadata is 'mock-whisper-tiny'."
+    },
+    {
+      "path": "tests/services/test_tts_service.py",
+      "purpose": "Tests TTSService, which ingests ANSWER_READY events and publishes TTS_STARTED/TTS_COMPLETED/TTS_INTERRUPTED, covering speech preemption, sentence streaming, the multilingual sentence splitter (English + Hindi danda), voice selection by answer language, barge-in via InteractionManager, the interrupt generation counter, inter-sentence pause, and the PiperBackend audio output path.",
+      "key_symbols": [
+        "TTSService",
+        "MockSpeechBackend",
+        "PiperBackend",
+        "BypassAnswerPayload",
+        "_make_answer_ready_event helper",
+        "TTSService.split_into_sentences",
+        "TestTTSLifecycle",
+        "TestTTSPlayback",
+        "TestTTSInterruption",
+        "TestSentenceStreaming",
+        "TestSentenceSplitter",
+        "TestMultilingualVoice",
+        "TestBargeIn",
+        "TestBargeInViaManager",
+        "TestInterSentencePause",
+        "TestDiagnostics",
+        "TestBenchmarks",
+        "TestPiperBackend"
+      ],
+      "terms": [
+        {
+          "term": "TTS (text-to-speech)",
+          "definition": "Service that synthesizes spoken audio from an answer via a speech backend and publishes TTS_STARTED (playback begins) and TTS_COMPLETED (all sentences done) events."
+        },
+        {
+          "term": "Sentence streaming",
+          "definition": "The answer is split into sentences and the first sentence's audio is synthesized/played before the rest, so first-audio onset is fast (test asserts < 500 ms for a 5-sentence answer); TTS_STARTED fires once and TTS_COMPLETED once."
+        },
+        {
+          "term": "Sentence splitter",
+          "definition": "TTSService.split_into_sentences splits on '.', '?', '!', Hindi danda '।' and newlines, merging fragments shorter than 3 characters into the preceding sentence."
+        },
+        {
+          "term": "Barge-in",
+          "definition": "If VOICE_STARTED arrives while the FSM is in SPEAKING state (user interrupts), InteractionManager fires a tts_interrupt_callback, TTSService publishes TTS_INTERRUPTED, and the FSM transitions SPEAKING -> LISTENING; disabled by default (enable_barge_in=False)."
+        },
+        {
+          "term": "Interrupt generation counter",
+          "definition": "Monotonically increasing counter incremented on each interrupt() call; stale sentences from a superseded answer are skipped at playback so old audio never plays after a barge-in."
+        },
+        {
+          "term": "Inter-sentence pause",
+          "definition": "Configurable gap (inter_sentence_pause_ms) inserted between spoken sentences; 0 disables the gap; exposed in diagnostics."
+        },
+        {
+          "term": "PiperBackend",
+          "definition": "Real TTS backend (CLI_SUBPROCESS voice) streaming PCM chunks through sounddevice.RawOutputStream; VOICE_MAP covers 'en'/'en_US-lessac' and 'hi'/'hi_IN-pratham' but deliberately has no Kannada ('kn') entry, falling back gracefully."
+        }
+      ],
+      "config": [
+        "TTSService constructor params: inter_sentence_pause_ms, name; InteractionManager params used here: tts_interrupt_callback, enable_barge_in; PiperBackend(model_path); backend.synthesize_and_play(text, stop_event, on_start_callback, language)"
+      ],
+      "notes": "BypassAnswerPayload subclasses AnswerPayload and no-ops __post_init__ so blank-answer validation can be tested from the service side. Mock backend has a long synthesized duration so preemption/interruption is testable. PiperBackend unit tests patch sounddevice.RawOutputStream and check AudioError on missing model file, sounddevice init failure, and cancellation. Benchmark asserts synthesis startup + queue overhead < 5 ms/request."
+    },
+    {
+      "path": "tests/services/test_vad_service.py",
+      "purpose": "Tests VADService, which classifies 16 kHz audio frames as speech/silence, debounces onset/offset, writes WAV segment files, and publishes VOICE_STARTED/VOICE_STOPPED, covering mock-microphone fallback, the pre-buffer (onset phonemes prepended to the segment), queue maxsize drop policy, thread safety, and classification-latency benchmarks.",
+      "key_symbols": [
+        "VADService",
+        "_make_speaking_frame helper",
+        "_make_silent_frame helper",
+        "TestVADLifecycle",
+        "TestVADDebouncing",
+        "TestPreBuffer",
+        "TestQueueMaxSize",
+        "TestThreadSafety",
+        "TestBenchmarks",
+        "VoicePayload",
+        "EventType.VOICE_STARTED/VOICE_STOPPED/MICROPHONE_STARTED/MICROPHONE_STOPPED"
+      ],
+      "terms": [
+        {
+          "term": "VAD (voice activity detection)",
+          "definition": "Per-frame classification of a 30 ms 16 kHz mono audio frame as speech or silence; tests synthesize a 400 Hz sine wave as 'speech' and flat zeros as 'silence'."
+        },
+        {
+          "term": "Debouncing thresholds",
+          "definition": "VOICE_STARTED only fires after speech_frames_threshold consecutive speech frames; VOICE_STOPPED only after silence_frames_threshold consecutive silence frames, avoiding premature end-of-speech."
+        },
+        {
+          "term": "Pre-buffer",
+          "definition": "Speech frames accumulated below the onset threshold are retained and prepended to the WAV segment on onset, so the onset phonemes are not clipped out of the audio sent to STT; cleared when silence resets the onset clock."
+        },
+        {
+          "term": "Mock microphone fallback",
+          "definition": "device_index=99 selects a nonexistent audio input, forcing the service to fall back to a mock microphone source (health()['is_mock'] is True)."
+        },
+        {
+          "term": "Queue drop path",
+          "definition": "The internal frame queue has maxsize=10 (a 300 ms buffer); when full, the callback does put_nowait then get_nowait+put_nowait, incrementing a _dropped_frames counter so old frames are dropped rather than blocking."
+        }
+      ],
+      "config": [
+        "VADService constructor params: sample_rate, frame_duration_ms, aggressiveness (WebRTC VAD), speech_frames_threshold, silence_frames_threshold, device_index, use_mock_fallback"
+      ],
+      "notes": "Tests start the worker thread manually (vad._running=True, vad._worker = Thread(target=vad._worker_loop)) to bypass the mock mic ingestion loop and inject frames directly into vad._queue. Because WebRTC VAD is adaptive/stateful, the test sends 9 silence frames (comment: noise-floor estimator needs 3-4 frames to decay) to cover decay plus the 5-frame silence threshold. Default silence window is 1500 ms. Benchmark asserts _classify_frame < 5 ms/frame. Leaves stray DEBUG print statements."
+    },
+    {
+      "path": "tests/services/test_vision_service.py",
+      "purpose": "Tests VisionService, which consumes FRAME_CAPTURED events, runs person detection via a detector, and publishes PERSON_DETECTED/PERSON_LEFT, covering legacy frame-count debouncing, the dual-gate time-based confirmation window, confidence thresholding, absence timeout, the per-session greeting guard, newest-frame-wins queue skipping, and detection-latency benchmarks.",
+      "key_symbols": [
+        "VisionService",
+        "BasePersonDetector",
+        "HOGPersonDetector",
+        "MockPersonDetector",
+        "_make_frame_event helper",
+        "_make_jpeg helper",
+        "_publish_hits helper",
+        "TestPersonDetectors",
+        "TestVisionLifecycle",
+        "TestLegacyDebouncing",
+        "TestConfidenceThreshold",
+        "TestConfirmationWindow",
+        "TestAbsenceTimeout",
+        "TestGreetingGuard",
+        "TestQueueSkipping",
+        "TestDiagnostics",
+        "TestBenchmarks",
+        "EventType.PERSON_DETECTED/PERSON_LEFT"
+      ],
+      "terms": [
+        {
+          "term": "Person detection",
+          "definition": "VisionService runs a frame through a detector implementing BasePersonDetector; HOGPersonDetector uses OpenCV HOG people detection and MockPersonDetector returns a controllable (detected, confidence, bbox) tuple."
+        },
+        {
+          "term": "Dual-gate debouncing",
+          "definition": "PERSON_DETECTED requires both a minimum number of consecutive detections (min_hits) AND continuous visibility for confirmation_window_sec; legacy frame-count-only mode is kept by setting the time windows to 0."
+        },
+        {
+          "term": "Confirmation window",
+          "definition": "Continuous presence window (confirmation_window_sec) that must elapse before PERSON_DETECTED fires, so brief passersby are suppressed; a miss inside the window resets the clock."
+        },
+        {
+          "term": "Absence timeout",
+          "definition": "PERSON_LEFT fires only after absence lasting >= absence_timeout_sec; brief gaps shorter than the timeout do not end the session."
+        },
+        {
+          "term": "Confidence threshold",
+          "definition": "Detections below confidence_threshold are not counted as hits and cannot trigger PERSON_DETECTED."
+        },
+        {
+          "term": "Per-session greeting guard",
+          "definition": "greeting_once_per_session makes PERSON_DETECTED fire exactly once while a person stays in view; a new PERSON_LEFT then PERSON_DETECTED sequence starts a new visit (fires again)."
+        },
+        {
+          "term": "Newest-frame-wins",
+          "definition": "When detection is slower than frame arrival, the worker drops stale frames (frames_skipped diagnostic) and processes only the most recent frame rather than accumulating backlog."
+        }
+      ],
+      "config": [
+        "VisionService constructor params: min_hits, min_misses, confirmation_window_sec, absence_timeout_sec, confidence_threshold, greeting_once_per_session, name"
+      ],
+      "notes": "Uses cv2.imencode to generate real JPEG bytes for CameraPayload.frame_data. MockPersonDetector default: detected=False, confidence=0.95, bbox=(10,20,100,200). Two fixtures: vision_legacy (time gates off) and vision_timed (0.3 s window / 0.5 s absence). Tests stream frames at ~50 FPS with time.sleep(0.02) pacing. HOG benchmark asserts < 120 ms/frame; greeting latency benchmark asserts PERSON_DETECTED latency >= confirmation_window."
+    },
+    {
+      "path": "tests/interaction/__init__.py",
+      "purpose": "Package marker for the tests/interaction directory; its docstring declares that it holds 'Shared fixtures for interaction tests'.",
+      "key_symbols": [],
+      "terms": [],
+      "config": [],
+      "notes": "Contains only a docstring; defines no actual fixtures. The fixtures it implies (bus, fsm, manager) are instead re-declared in each test module (test_event_bus.py, test_interaction_manager.py, test_robot_state.py, plus the service tests), so the 'shared fixtures' claim is aspirational — fixture duplication is a minor drift/maintenance risk."
+    },
+    {
+      "path": "tests/interaction/test_event_bus.py",
+      "purpose": "Comprehensive contract tests for the EventBus publish/subscribe dispatcher: subscription handles, wildcard and one-shot subscriptions, priority ordering, FIFO within priority, async (coroutine) and mixed handlers, exception isolation, publish_sync semantics and its reentrant deadlock guard, queue overflow drop, metrics/statistics, diagnostics, min_priority filtering, shutdown, thread safety, stress tests, and throughput/latency benchmarks.",
+      "key_symbols": [
+        "EventBus",
+        "SubscriptionHandle",
+        "BusStatistics",
+        "EventEnvelope",
+        "EventPriority",
+        "EventType",
+        "_sys_event/_person_event/_voice_event/_error_event helpers",
+        "TestSubscriptionHandle",
+        "TestBusStatistics",
+        "TestSingleSubscriber",
+        "TestMultipleSubscribers",
+        "TestWildcardSubscription",
+        "TestPriorityOrdering",
+        "TestFIFOOrdering",
+        "TestUnsubscribe",
+        "TestOneShotSubscription",
+        "TestAsyncHandlers",
+        "TestMixedHandlers",
+        "TestExceptionIsolation",
+        "TestPublishSync",
+        "TestQueueOverflow",
+        "TestClear",
+        "TestMetrics",
+        "TestDiagnostics",
+        "TestMinPriorityFilter",
+        "TestShutdown",
+        "TestThreadSafety",
+        "TestStress",
+        "TestBenchmarks"
+      ],
+      "terms": [
+        {
+          "term": "EventBus",
+          "definition": "Thread-safe publish/subscribe dispatcher with a bounded queue and a worker pool; subscribe() returns a handle, publish() enqueues asynchronously, publish_sync() blocks until handlers finish. The central decoupling mechanism of the robot stack."
+        },
+        {
+          "term": "SubscriptionHandle",
+          "definition": "Frozen, hashable handle returned by subscribe() (source + event_types, or event_types=None for wildcard) used to unsubscribe later; a fake/unknown handle makes unsubscribe() return False."
+        },
+        {
+          "term": "BusStatistics",
+          "definition": "Frozen metrics snapshot from bus.statistics(): events_published/delivered/dropped, handler_failures, queue_depth, avg_dispatch_latency_us, uptime_seconds, per_event_type counts."
+        },
+        {
+          "term": "Event priority",
+          "definition": "EventPriority enum LOW<NORMAL<HIGH<CRITICAL; the dispatcher de-queues higher-priority events first while preserving FIFO order within the same priority."
+        },
+        {
+          "term": "Wildcard subscription",
+          "definition": "A subscription registered with event_types=None receives every published event type; useful for loggers and health monitors."
+        },
+        {
+          "term": "One-shot subscription",
+          "definition": "A subscription that auto-unsubscribes after its first delivery and disappears from registered_subscribers()."
+        },
+        {
+          "term": "publish_sync",
+          "definition": "Synchronous publish that blocks until all matching handlers complete (or timeout); returns False on timeout. Calling it from inside a handler (dispatcher thread) raises RuntimeError to prevent a self-deadlock."
+        },
+        {
+          "term": "min_priority filter",
+          "definition": "Per-subscriber minimum priority threshold; events below it are not delivered to that subscriber (e.g. a handler with min_priority=HIGH skips LOW events)."
+        },
+        {
+          "term": "overflow_drop",
+          "definition": "When the bounded queue is full, publish() returns False and the event is dropped (counted in events_dropped) instead of blocking the producer."
+        },
+        {
+          "term": "Exception isolation",
+          "definition": "A handler that raises does not prevent other handlers for the same event from running, and the dispatcher stays alive; failures increment handler_failures."
+        }
+      ],
+      "config": [
+        "EventBus constructor params: maxsize (queue bound), max_workers, overflow_drop, overflow_timeout, name"
+      ],
+      "notes": "Contracts most load-bearing for the rest of the stack: priority + FIFO ordering, exception isolation, the publish_sync deadlock guard (reentrant handler must raise RuntimeError), and one-shot/wildcard semantics. Stress test runs 10 producer threads x 1000 events with no lost/duplicate delivery; second stress runs 2000 events with random priorities. Benchmarks: publish() < 300 µs avg, dispatch avg < 500 ms sanity, throughput > 100 events/s."
+    },
+    {
+      "path": "tests/interaction/test_events.py",
+      "purpose": "Tests the event domain model: the EventType enum, EventPriority ordering, every typed payload dataclass (validation, to_dict/from_dict round-trips), and EventEnvelope creation/validation/serialization/hashing/equality/factory helpers/reply chaining, plus timezone handling, schema versioning, immutability, and creation/serialization benchmarks.",
+      "key_symbols": [
+        "EventType",
+        "EventPriority",
+        "EVENT_PAYLOAD_MAP",
+        "EVENT_SCHEMA_VERSION",
+        "EventEnvelope",
+        "SystemPayload",
+        "PersonDetectedPayload",
+        "PersonLeftPayload",
+        "VoicePayload",
+        "TranscriptPayload",
+        "QueryPayload",
+        "AnswerPayload",
+        "TTSPayload",
+        "SessionPayload",
+        "ErrorPayload",
+        "WarningPayload",
+        "TimeoutPayload",
+        "CameraPayload",
+        "TestEventTypeEnum",
+        "TestEventPriority",
+        "TestSystemPayload",
+        "TestPersonDetectedPayload",
+        "TestPersonLeftPayload",
+        "TestVoicePayload",
+        "TestTranscriptPayload",
+        "TestQueryPayload",
+        "TestAnswerPayload",
+        "TestTTSPayload",
+        "TestSessionPayload",
+        "TestErrorPayload",
+        "TestWarningPayload",
+        "TestTimeoutPayload",
+        "TestCameraPayload",
+        "TestEventEnvelopeConstruction",
+        "TestEventEnvelopeHashingAndEquality",
+        "TestEventEnvelopeSerialisation",
+        "TestEventEnvelopeFactories",
+        "TestTimezoneHandling",
+        "TestSchemaVersion",
+        "TestImmutability",
+        "TestBenchmarks"
+      ],
+      "terms": [
+        {
+          "term": "EventEnvelope",
+          "definition": "Frozen, hashable event container: uuid4 event_id, EventType, source string, session_id, optional correlation_id, priority, typed payload, metadata tuple, schema version, and timezone-aware UTC timestamp."
+        },
+        {
+          "term": "EVENT_PAYLOAD_MAP",
+          "definition": "Registry mapping every EventType to exactly one payload dataclass; EventEnvelope.create validates that the payload type matches the event type (mismatch raises TypeError)."
+        },
+        {
+          "term": "EVENT_SCHEMA_VERSION",
+          "definition": "Constant '1.0' stamped on every envelope and preserved through to_dict/from_dict JSON round-trips; deserializing an unknown payload_type or event_type raises ValueError."
+        },
+        {
+          "term": "Reply chaining (correlation_id)",
+          "definition": "envelope.reply(...) creates a child envelope whose correlation_id equals the parent's event_id and inherits the parent's session_id, tracing a query through STT->inference->TTS."
+        },
+        {
+          "term": "Payload validation",
+          "definition": "Every payload dataclass validates its fields on construction (e.g. confidence in [0,1], timezone-aware timestamps, non-empty ids/strings, non-negative durations); CameraPayload.to_dict omits the binary frame_data field on serialization."
+        },
+        {
+          "term": "EventType",
+          "definition": "String-valued enum (value==name) of all robot-stack event types, e.g. SYSTEM_STARTING/READY/SHUTDOWN, PERSON_DETECTED/LEFT, VOICE_STARTED/STOPPED, TRANSCRIPT_PARTIAL/FINAL, QUERY_STARTED/COMPLETED, ANSWER_READY, TTS_STARTED/COMPLETED/INTERRUPTED, SESSION_STARTED/ENDED, ERROR, WARNING, TIMEOUT, FRAME_CAPTURED."
+        }
+      ],
+      "config": [],
+      "notes": "Tests pin event_id to uuid4 (uuid1 rejected), require timezone-aware timestamps (naive datetime raises), and require EventType value==name. All 20 EventType members round-trip through to_json/from_json. Benchmarks (creation, to_json, from_json) assert < 5 s for 1000 events and create 10,000 envelopes without MemoryError. Envelopes/payloads are frozen (immutable) and hashable; AnswerPayload.sources is a tuple."
+    },
+    {
+      "path": "tests/interaction/test_interaction_manager.py",
+      "purpose": "Tests InteractionManager, which subscribes to bus events and drives the robot FSM, covering the complete normal interaction flow (SYSTEM_READY -> PERSON_DETECTED -> VOICE_STARTED/STOPPED -> TRANSCRIPT_FINAL -> ANSWER_READY -> TTS_COMPLETED -> PERSON_LEFT), state validation of unexpected events, state-timeout recovery, fatal-error handling, session/context tracking, stress/flood thread safety, and event-handling latency benchmarks.",
+      "key_symbols": [
+        "InteractionManager",
+        "RobotState",
+        "RobotStateMachine",
+        "TestNormalInteractionFlow",
+        "TestStateValidation",
+        "TestTimeouts",
+        "TestErrorHandling",
+        "TestDiagnosticsAndContext",
+        "TestStressAndThreadSafety",
+        "TestBenchmarks",
+        "EventType.SESSION_STARTED/SESSION_ENDED/QUERY_STARTED"
+      ],
+      "terms": [
+        {
+          "term": "InteractionManager",
+          "definition": "Orchestrator that subscribes to robot-stack events and advances the RobotStateMachine, publishes derived events (SESSION_STARTED on person detection, QUERY_STARTED from the transcript, SESSION_ENDED on person left/timeout), tracks the active session_id/correlation_id context, and exposes diagnostics (current_state, event_count, uptime, last_event, current_context)."
+        },
+        {
+          "term": "Normal interaction flow",
+          "definition": "The canonical event sequence mapping to FSM transitions: SYSTEM_READY->INITIALIZING->IDLE, PERSON_DETECTED->READY (+SESSION_STARTED), VOICE_STARTED->LISTENING, VOICE_STOPPED->PROCESSING, TRANSCRIPT_FINAL (->publishes QUERY_STARTED), QUERY_COMPLETED stays PROCESSING, ANSWER_READY->SPEAKING, TTS_COMPLETED->READY, PERSON_LEFT->IDLE (+SESSION_ENDED)."
+        },
+        {
+          "term": "State validation",
+          "definition": "Events that are invalid for the current FSM state (e.g. VOICE_STARTED while IDLE, TTS_COMPLETED while BOOTING) are silently ignored and do not change state."
+        },
+        {
+          "term": "State timeout recovery",
+          "definition": "RobotStateMachine.configure_timeout(state, seconds) makes a background monitor fire a TIMEOUT when a state is exceeded; a READY timeout ends the session (SESSION_ENDED, back to IDLE) while a PROCESSING timeout is recoverable (back to READY, session kept)."
+        },
+        {
+          "term": "Fatal error handling",
+          "definition": "An ERROR event with is_fatal=True transitions the FSM to the ERROR state; non-fatal errors leave the current state unchanged."
+        }
+      ],
+      "config": [
+        "InteractionManager constructor params: event_bus, state_machine, name, tts_interrupt_callback, enable_barge_in; RobotStateMachine(initial_state=RobotState.BOOTING); fsm.configure_timeout(state, seconds)"
+      ],
+      "notes": "Manager fixture runs BOOTING initial state. The stress test floods VOICE_STARTED vs PERSON_LEFT from two threads and asserts the FSM lands cleanly in {LISTENING, IDLE} with no exceptions. Benchmark calls manager.handle_event directly 5000 times asserting avg < 100 µs/event. Timeout tests set fsm.configure_timeout(READY, 0.001) and rely on the monitor thread to publish the timeout within 5 s."
+    },
+    {
+      "path": "tests/interaction/test_robot_state.py",
+      "purpose": "Tests RobotStateMachine, the 9-state finite state machine at the heart of the interaction layer: the transition matrix, invalid-transition errors, universal ERROR/SHUTDOWN transitions, on_enter/on_exit/on_transition hooks with exception isolation, transition history with retention limits, configurable state timeouts, statistics/diagnostics, concurrent-transition thread safety, and transition-latency benchmarks.",
+      "key_symbols": [
+        "RobotState",
+        "RobotStateMachine",
+        "InvalidTransitionError",
+        "TransitionRecord",
+        "TestRobotStateEnum",
+        "TestTransitions",
+        "TestTransitionHooks",
+        "TestHistory",
+        "TestTimeouts",
+        "TestDiagnosticsAndStats",
+        "TestThreadSafety",
+        "TestBenchmarks"
+      ],
+      "terms": [
+        {
+          "term": "FSM (finite state machine)",
+          "definition": "RobotStateMachine manages the robot's lifecycle over 9 states (BOOTING, INITIALIZING, IDLE, READY, LISTENING, PROCESSING, SPEAKING, ERROR, SHUTDOWN); transition_to() enforces the transition matrix and raises InvalidTransitionError on illegal moves."
+        },
+        {
+          "term": "InvalidTransitionError",
+          "definition": "Exception carrying from_state/to_state, raised by transition_to() for transitions not allowed by the matrix (e.g. BOOTING->LISTENING, SHUTDOWN->anything)."
+        },
+        {
+          "term": "Barge-in transition",
+          "definition": "SPEAKING -> LISTENING was intentionally added to the matrix as valid so InteractionManager can interrupt TTS when the user speaks (barge-in); it was previously invalid."
+        },
+        {
+          "term": "Transition hooks",
+          "definition": "Registerable callbacks (register_on_enter/register_on_exit/register_on_transition) fired on state changes; a crashing hook is isolated so it neither blocks nor rolls back the transition."
+        },
+        {
+          "term": "Transition history",
+          "definition": "Ordered list of TransitionRecord entries (from_state, to_state, reason, session_id, correlation_id, duration, timestamp) capped at max_history_size, dropping the oldest beyond the limit."
+        },
+        {
+          "term": "State timeouts",
+          "definition": "configure_timeout(state, seconds) attaches a per-state timeout; check_timeout() reports whether the current state has exceeded it (0.0 clears a timeout)."
+        },
+        {
+          "term": "FSM statistics",
+          "definition": "state_statistics() returns transition totals, per-state durations, and per-transition counts; diagnostics() exposes current/previous state, transition_count, uptime_seconds, and last transition details."
+        }
+      ],
+      "config": [
+        "RobotStateMachine constructor params: initial_state, max_history_size"
+      ],
+      "notes": "Self-transitions are no-ops (transition_count unchanged). ERROR and SHUTDOWN are reachable from every state except SHUTDOWN; ERROR can transition to INITIALIZING and SHUTDOWN. Thread-safety test uses two threads racing READY->LISTENING vs READY->IDLE, expecting one InvalidTransitionError swallowed and a clean final state. Benchmark asserts transition_to() < 500 µs average."
+    }
+  ],
+  "data_flow": "Services communicate exclusively through typed EventEnvelope objects published on a shared thread-safe EventBus; the tests instantiate a real EventBus and mock hardware backends, then drive the pipeline by publishing events and asserting on emitted events and FSM state. The canonical chain exercised is: CameraService publishes FRAME_CAPTURED -> VisionService consumes it and publishes PERSON_DETECTED/PERSON_LEFT; VADService publishes VOICE_STARTED/VOICE_STOPPED (with a WAV segment path) -> STTService consumes VOICE_STOPPED and publishes TRANSCRIPT_FINAL -> InferenceAdapter consumes TRANSCRIPT_FINAL and publishes QUERY_STARTED then ANSWER_READY -> TTSService consumes ANSWER_READY and publishes TTS_STARTED/TTS_COMPLETED/TTS_INTERRUPTED. In parallel, InteractionManager subscribes to all of these and advances RobotStateMachine (BOOTING->INITIALIZING->IDLE->READY->LISTENING->PROCESSING->SPEAKING->READY->IDLE), publishing derived SESSION_STARTED/QUERY_STARTED/SESSION_ENDED and firing a tts_interrupt_callback on barge-in (VOICE_STARTED in SPEAKING state -> SPEAKING->LISTENING). Test threads inject events via bus.publish/publish_sync and synchronize with threading.Event; benchmarks bypass the bus and call internals directly (_read_frame, _classify_frame, detect, handle_event, transition_to, normalize_query, split_into_sentences). Because all hardware is mocked (camera_index=99 / device_index=99, MockTranscriptionBackend, MockSpeechBackend, MockPersonDetector), nothing depends on a physical Pi, camera, mic, speaker, or the Ollama LLM.",
+  "external_deps": [
+    "pytest",
+    "numpy (VAD sine/silence frame synthesis, vision blank frames)",
+    "cv2 / OpenCV (JPEG generation and HOGPersonDetector in tests)",
+    "sounddevice (patched via unittest.mock in TestPiperBackend)",
+    "unittest.mock / MagicMock / patch",
+    "asyncio (async event-bus handlers)",
+    "concurrent.futures.ThreadPoolExecutor (event-bus stress tests)",
+    "time / threading / uuid / json (stdlib used by all suites)"
+  ],
+  "risks": [
+    "Timing-dependent tests rely on threading.Event waits plus hardcoded sleeps (0.1-0.02 s frame pacing, 0.15-0.2 s playback lead times) and on the adaptive WebRTC VAD noise-floor decay being compensated by sending extra silence frames; these can be flaky under CI load or on the slower Raspberry Pi target.",
+    "Tests reach directly into private internals and manually start worker threads (_worker_loop, _pre_buffer, _queue, _consecutive_speech, _handle_read_failure, _read_frame, _interrupt_generation, _running/_stop_event), coupling test code to implementation details and bypassing the public capture/ingestion loops.",
+    "Benchmark thresholds are machine-dependent and embedded as assertions (camera capture < 2 ms, inference adapter < 5 ms, VAD < 5 ms/frame, TTS synthesis < 5 ms, event publish < 300 µs, manager handle_event < 100 µs, FSM transition < 500 µs, HOG detection < 120 ms) — a slow host makes otherwise-correct code fail.",
+    "The publish_sync reentrant guard (calling publish_sync from the dispatcher thread raises RuntimeError to prevent deadlock) and the exception-isolation/priority-ordering contracts are load-bearing invariants for the robot stack; a regression here is easy to miss because only these tests pin the behavior.",
+    "tests/interaction/__init__.py declares 'Shared fixtures for interaction tests' but defines none — every suite re-declares its own bus/fsm/manager fixtures, so duplicated fixture logic can drift (e.g., different EventBus maxsize/max_workers settings across suites).",
+    "No settings/config.yaml/env keys are read by any of these tests (all configuration is passed as constructor parameters), so config drift between the service defaults and the settings layer is not covered by this subsystem."
+  ]
+}

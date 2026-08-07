@@ -18,20 +18,21 @@ class AnswerabilityEngine:
         important_keywords = ["fee", "fees", "rules", "hour", "time", "committee", "scholarship", "chancellor"]
         targeted_keywords = [kw for kw in important_keywords if kw in query_lower]
         
+        high_confidence = confidence_level in {"HIGH", "VERY HIGH"}
         if not targeted_keywords:
             # Query is general
-            return "Supported" if confidence_level == "HIGH" else "Partial"
+            return "Supported" if high_confidence else "Partial"
             
         # Match keywords in the retrieved context
         matches = 0
-        context_body = " ".join([c.content.lower() for c in contexts if hasattr(c, "content")])
+        context_body = " ".join([getattr(c, "content", "") for c in contexts]).lower()
         
         for kw in targeted_keywords:
             if kw in context_body:
                 matches += 1
                 
         if matches == len(targeted_keywords):
-            return "Supported" if confidence_level == "HIGH" else "Partial"
+            return "Supported" if high_confidence else "Partial"
         elif matches > 0:
             return "Partial"
         else:

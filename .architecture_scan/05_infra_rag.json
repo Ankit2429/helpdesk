@@ -1,0 +1,233 @@
+{
+  "folder": "src/campus_helpdesk/infrastructure/rag/",
+  "title": "Infrastructure: retrieval & RAG stack",
+  "purpose": "This is the offline-first retrieval core of the campus helpdesk. It ingests canonical Markdown/PDF knowledge into semantically chunked KnowledgeDocuments, embeds them into a local FAISS vector index plus a pure-Python BM25 keyword index, fuses both with weighted Reciprocal Rank Fusion (RRF), reranks candidates with a local cross-encoder, deduplicates/merges context, computes a confidence assessment, and formats the surviving chunks into the LLM prompt context. It implements the retrieval adapters consumed by the application-layer RAGPipeline and RAGChatService, and the index-builder entry point run by `campus_helpdesk.ingest`.",
+  "files": [
+    {
+      "path": "src/campus_helpdesk/infrastructure/rag/__init__.py",
+      "purpose": "Package marker for the RAG infrastructure subpackage; contains only the module docstring 'Adapters that implement the local RAG pipeline.'",
+      "key_symbols": [],
+      "terms": [],
+      "config": [],
+      "notes": "Empty package initializer; no imports or exports."
+    },
+    {
+      "path": "src/campus_helpdesk/infrastructure/rag/bm25_store.py",
+      "purpose": "Pure-Python Okapi BM25 sparse keyword search store that scores KnowledgeDocuments against a query by exact word-term matching.",
+      "key_symbols": ["BM25SearchStore", "BM25SearchStore.TOKEN_PATTERN", "BM25SearchStore.tokenize", "BM25SearchStore.index_documents", "BM25SearchStore.search"],
+      "terms": [
+        {"term": "BM25", "definition": "Okapi BM25, a classic sparse retrieval scoring function that ranks documents by exact keyword overlap using term frequency, document length normalization (parameters k1=1.5, b=0.75 here), and inverse document frequency."},
+        {"term": "IDF (inverse document frequency)", "definition": "The Lucene/Okapi formula weight that down-ranks common words; computed here as log(1 + (N - df + 0.5)/(df + 0.5)) per query token."},
+        {"term": "sparse search", "definition": "Keyword-based retrieval that matches literal word tokens rather than embedding similarity; here the BM25 half of the hybrid retriever."},
+        {"term": "pseudo-distance", "definition": "BM25 scores are converted to a distance-like value 1/(1+score) so results share the SearchResult.distance interface used by the FAISS (L2) side and by downstream threshold logic."}
+      ],
+      "config": [],
+      "notes": "In-memory only; never persisted to disk. After a process restart the BM25 index must be repopulated (HybridRetriever.load rebuilds it from the loaded FAISS docstore). Distance values are pseudo-distances (see term), which are later mixed with FAISS L2 distances by the RRF fusion and confidence engine."
+    },
+    {
+      "path": "src/campus_helpdesk/infrastructure/rag/canonical_index_builder.py",
+      "purpose": "Production index builder that turns every .md file under data/canonical_markdown/ into chunks and FAISS/BM25 index entries, writing a detailed index-manifest.json for incremental rebuilds.",
+      "key_symbols": ["CanonicalIndexBuilder", "CanonicalIndexBuilder.PIPELINE_VERSION", "CanonicalIndexBuilder.build_index", "CanonicalIndexBuilder._load_previous_document_hashes"],
+      "terms": [
+        {"term": "canonical Markdown", "definition": "The trusted, curated source of truth documents under data/canonical_markdown/ from which the production index is built (as opposed to ad-hoc scraped or user-supplied files)."},
+        {"term": "manifest", "definition": "A JSON sidecar (index-manifest.json) recording build metadata, embedding configuration, and per-document SHA256 hashes used to skip unchanged files on incremental rebuilds."},
+        {"term": "incremental rebuild", "definition": "Rebuild mode that compares each file's SHA256 hash against the previous manifest and skips re-embedding documents whose content did not change."},
+        {"term": "document hash", "definition": "A SHA256 digest of the stripped file content used to detect unchanged vs. changed canonical documents between builds."}
+      ],
+      "config": ["canonical_dir (constructor arg, default 'data/canonical_markdown')", "embedding metadata read from FAISSSimilarityStore._embedding_metadata (embedding_model, embedding_normalize)"],
+      "notes": "Called by src/campus_helpdesk/ingest.py (CLI entry `python -m campus_helpdesk.ingest` runs build_index(force_rebuild=True)). The manifest hardcodes embedding_dimension=384 and faiss_index_type='FAISS_FlatL2' regardless of the actual model, and reaches into private attributes of the similarity store (self.similarity_store._embedding_metadata, ._index_path). Skip/empty/failure accounting is returned as build_stats. Any doc that fails loading is skipped with a warning and counted in failed_documents, so a partial index can be silently built."
+    },
+    {
+      "path": "src/campus_helpdesk/infrastructure/rag/confidence_engine.py",
+      "purpose": "Deterministic, weighted confidence calculator that turns retrieved SearchResults into a ConfidenceAssessment (score, level, evidence breakdown, hallucination risk) without any LLM call.",
+      "key_symbols": ["ConfidenceAssessment", "ConfidenceEngine", "ConfidenceEngine.evaluate", "ConfidenceEngine._evidence_consistency", "ConfidenceEngine._citation_quality"],
+      "terms": [
+        {"term": "confidence score", "definition": "A 0-1 composite of six weighted signals (reranker, distance, chunk count, source diversity, evidence consistency, citation quality) indicating how relevant the retrieved chunks are to the query."},
+        {"term": "confidence level", "definition": "A five-tier label ('Very High'/'High'/'Medium'/'Low'/'Very Low') derived by thresholds on the confidence score (high=0.80, medium=0.55, low=0.30)."},
+        {"term": "hallucination risk", "definition": "A label derived from 1 minus the evidence-consistency signal, meant to flag when retrieved chunks contradict each other; here it does not detect fabricated facts."},
+        {"term": "evidence consistency", "definition": "Jaccard-style token-overlap of the retrieved chunks (shared tokens / total tokens), a cheap proxy for whether chunks corroborate one another."},
+        {"term": "citation quality", "definition": "Fraction of retrieved chunks containing a literal '[C' marker substring; a naive proxy for whether chunks carry citations."},
+        {"term": "reranker signal", "definition": "A sigmoid over the top cross-encoder score (1/(1+exp(-score/2.5))) used when reranking ran, detected via an 'original_distance' metadata marker."},
+        {"term": "distance signal", "definition": "A 0-1 normalization (1 - distance/2, clamped) of the top retrieval distance; treats distance as FAISS L2 even though hybrid distances may be BM25 pseudo-distances."},
+        {"term": "source diversity", "definition": "Ratio of distinct source filenames to the number of retrieved chunks, rewarding answers that draw on multiple documents."}
+      ],
+      "config": ["settings.confidence_weights", "settings.confidence_thresholds", "settings.hallucination_risk_thresholds"],
+      "notes": "Docstring documents an explicit limitation: it measures topical/semantic relevance only, NOT fact answerability (room/building numbers); fact checking is delegated downstream to services/answerability_engine.py and strict system prompts. The empty-results branch returns score 0.0, level 'Very Low', risk 'Very High'. Citation quality is a naive substring check for '[C'. Confidence levels are emitted as 'Low'/'Very Low' (title case); see PromptContextBuilder for a case-mismatch dead-code consequence. Private access to settings dicts; weights/thresholds are class-level Settings defaults, not env-overridable."
+    },
+    {
+      "path": "src/campus_helpdesk/infrastructure/rag/context_composer.py",
+      "purpose": "Post-retrieval deduplication and passage-merging stage that collapses '-dup' file pairs and text-similar chunks under a character budget before context is built.",
+      "key_symbols": ["ContextComposer", "ContextComposer.compose", "ContextComposer._get_source_filename", "ContextComposer._is_dup_filename", "ContextComposer._normalize_filename", "ContextComposer._calculate_similarity"],
+      "terms": [
+        {"term": "deduplication", "definition": "Removal of near-identical retrieved chunks by filename normalization (strip '-dup' suffix) or by SequenceMatcher ratio above a configurable threshold (default 0.85)."},
+        {"term": "'-dup' file suffix", "definition": "A filename convention (e.g. 'admissions-dup.md') marking a document as a duplicate of its canonical sibling, which the composer collapses in favor of the non-dup version."},
+        {"term": "context budget", "definition": "A maximum character total (settings default 3500) that stops the composer from accepting further chunks once exceeded."},
+        {"term": "SequenceMatcher ratio", "definition": "Python difflib's 0-1 text similarity ratio used to decide whether two chunk texts are duplicates; a fast length-ratio pre-check short-circuits clearly different texts."}
+      ],
+      "config": ["settings.enable_context_composer", "settings.context_composer_dedup_threshold", "settings.context_composer_max_context_size"],
+      "notes": "Wired into the API in main.py, touch_app.py, and robot_main.py (instantiated with settings), and called from RAGChatService between retrieval and confidence evaluation. Constructor default max_context_size is 7000, but the Settings default context_composer_max_context_size is 3500 and wins when a settings object is passed — inconsistent defaults. Uses private metadata keys source/source_filename/parent_document to locate the source filename."
+    },
+    {
+      "path": "src/campus_helpdesk/infrastructure/rag/cross_encoder_reranker.py",
+      "purpose": "Reranks retrieval candidates with a local cross-encoder transformer (ms-marco-MiniLM-L-6-v2) scoring (query, chunk) pairs, with graceful fallback when the model is unavailable.",
+      "key_symbols": ["CrossEncoderReranker", "CrossEncoderReranker._lazy_load_model", "CrossEncoderReranker.rerank", "CrossEncoderReranker.rerank_with_stats"],
+      "terms": [
+        {"term": "cross-encoder", "definition": "A sentence-transformer model that jointly encodes a query+document pair into a single relevance score, giving finer-grained relevance than the bi-encoder used for the FAISS index."},
+        {"term": "rerank", "definition": "Re-scoring a short candidate list from the first-stage retrieval with a stronger but slower scorer and keeping the top_m (settings reranker_top_m=5) results."},
+        {"term": "fallback", "definition": "Graceful degradation path when the reranker is disabled, fails to load (local_files_only with no cached model), or errors during predict: candidates are passed through un-reranked with a reranker_status stat ('disabled'/'fallback'/'error_fallback')."}
+      ],
+      "config": ["settings.reranker_model", "settings.embedding_device", "settings.reranker_enabled", "settings.reranker_top_n (candidate window in factory)", "settings.reranker_top_m (final_top_k in factory)"],
+      "notes": "Model loads with local_files_only=True, so it requires a pre-downloaded model; load failure is silent (warning log) and degrades to un-reranked pass-through — a quiet quality regression. Despite the name, _lazy_load_model is invoked from __init__ when enabled, so loading is eager at construction. On success it stamps document.metadata['original_distance'] (which the confidence engine uses to detect reranking) and sets distance = -score so higher relevance sorts as 'lower' distance. Constructor defaults (top_n=10, top_m=4) differ from Settings (reranker_top_n=20, reranker_top_m=5); the factory passes explicit values."
+    },
+    {
+      "path": "src/campus_helpdesk/infrastructure/rag/factory.py",
+      "purpose": "Dependency-injection factory that wires the configured embeddings, FAISS store, hybrid retriever, reranker, loaders, and chunkers into an application-layer RAGPipeline without starting ingestion.",
+      "key_symbols": ["create_rag_pipeline"],
+      "terms": [
+        {"term": "wiring / dependency injection", "definition": "Constructing and composing the concrete adapters (embeddings, stores, retrievers, reranker, loaders, chunkers) from a single Settings object and handing the assembled RAGPipeline to the application layer."}
+      ],
+      "config": ["settings.embedding_model", "settings.embedding_device", "settings.embedding_batch_size", "settings.embedding_normalize", "settings.embedding_show_progress", "settings.embedding_local_files_only", "settings.faiss_index_path", "settings.faiss_allow_dangerous_deserialization", "settings.candidate_window", "settings.final_top_k", "settings.reranker_top_n", "settings.rag_search_limit", "settings.rrf_k", "settings.weight_dense", "settings.weight_sparse", "settings.fusion_mode", "settings.reranker_model", "settings.reranker_enabled", "settings.knowledge_source_path", "settings.knowledge_max_file_size_bytes", "settings.rag_chunk_size", "settings.rag_chunk_overlap", "settings.rag_chunk_separators", "settings.rag_add_start_index", "settings.deduplicate_documents"],
+      "notes": "Imports RAGPipeline from the application package — an upward dependency from infrastructure into application (layering inversion typical of an adapter factory). Uses getattr() with defaults for the newer candidate_window/final_top_k/rrf_k/weight_* /fusion_mode settings, and falls back to settings.reranker_top_n for the candidate window. If a persisted index exists it calls hybrid_retriever.load() and swallows failures with a warning, so a corrupt/mismatched index leaves the pipeline running degraded (BM25 and dense both empty -> RetrievalError at query time). Called from main.py's app factory."
+    },
+    {
+      "path": "src/campus_helpdesk/infrastructure/rag/faiss_store.py",
+      "purpose": "FAISS-backed local similarity store (LangChain adapter) that adds/embeds chunks, searches by L2 distance, persists the index with a manifest, and refuses to load indexes it cannot verify.",
+      "key_symbols": ["FAISSSimilarityStore", "_MANIFEST_FILENAME", "FAISSSimilarityStore.reset", "FAISSSimilarityStore.add", "FAISSSimilarityStore.search", "FAISSSimilarityStore.save", "FAISSSimilarityStore.load", "FAISSSimilarityStore._write_manifest", "FAISSSimilarityStore._validate_manifest"],
+      "terms": [
+        {"term": "FAISS index", "definition": "A Facebook AI similarity search index of dense embedding vectors (built here through LangChain's FAISS vectorstore), queried with approximate or exact L2 distance."},
+        {"term": "manifest", "definition": "The index-manifest.json sidecar that stores the embedding model name and normalize flag; _validate_manifest rejects an index whose configuration differs from the current settings (prevents loading a mismatched index)."},
+        {"term": "dangerous deserialization", "definition": "Pickle-based index loading that can execute arbitrary code from a tampered index; FAISS gates it behind an explicit allow flag, and the load() method raises PermissionError unless faiss_allow_dangerous_deserialization is true."},
+        {"term": "RLock", "definition": "A reentrant threading lock guarding add/search/save/load so the store is safe across concurrent request threads."}
+      ],
+      "config": ["settings.faiss_index_path", "settings.faiss_allow_dangerous_deserialization", "embedding_metadata dict (embedding_model, embedding_normalize) passed in via factory"],
+      "notes": "Dependencies: langchain_community.vectorstores.FAISS, langchain_core (Document, Embeddings). With the default faiss_allow_dangerous_deserialization=false the index is never loaded, so retrieval runs with no dense results (see risks). Note load() still hardcodes allow_dangerous_deserialization=True on the underlying FAISS.load_local call, but it is gated by the outer config check first. Metadata values are stringified ({str(key): str(value)}) on the way out of search/load. save() raises if the store is empty."
+    },
+    {
+      "path": "src/campus_helpdesk/infrastructure/rag/hybrid_retriever.py",
+      "purpose": "The hybrid retrieval engine that fuses BM25 sparse results and FAISS dense results via weighted Reciprocal Rank Fusion (RRF), applies source-prefix boosting, and returns fused SearchResults with diagnostic stats.",
+      "key_symbols": ["HybridRetriever", "HybridRetriever.index_bm25", "HybridRetriever.add", "HybridRetriever.save", "HybridRetriever.load", "HybridRetriever.search", "HybridRetriever.search_with_stats", "HybridRetriever.reset"],
+      "terms": [
+        {"term": "RRF (Reciprocal Rank Fusion)", "definition": "A rank-based fusion method: each result contributes weight/(rrf_k + rank) per ranker (here rrf_k=60, weights weight_dense/weight_sparse, default 0.5/0.5), and documents are sorted by the summed contributions."},
+        {"term": "dense search", "definition": "Embedding-similarity retrieval via the FAISS store (L2 distance), the semantic half of the hybrid retriever."},
+        {"term": "fusion mode", "definition": "A settings switch ('weighted_hybrid' default, plus 'dense_only' and 'bm25_only' shortcuts) selecting how BM25 and FAISS results are combined."},
+        {"term": "canonical metadata boosting", "definition": "Hardcoded per-source-prefix score adjustments added to RRF scores: +0.035 for 'facilities/', '02-academics/', '03-admissions-fees/', -0.015 for '07-news-media/', '01-governance-policy/'."},
+        {"term": "retrieval latency", "definition": "Wall-clock milliseconds for the fused search, exposed (with per-rank rrf scores and snippets) in the stats dict used for diagnostics/evaluation."}
+      ],
+      "config": ["settings.rrf_k", "settings.weight_dense", "settings.weight_sparse", "settings.fusion_mode", "constructor: bm25_top_k, dense_top_k, final_top_k (candidate_window/final_top_k from factory)"],
+      "notes": "Documents are deduplicated across rankers by SHA256 of stripped content, and each document's returned distance is the min of the contributing BM25 pseudo-distance and FAISS L2 — so the distance field is a heterogeneous mix that the confidence engine and any absolute distance threshold interpret as L2 (the settings comment documents that the old 2.0 threshold wrongly filtered valid results; the default is now 999.0). The source boost prefixes and +/-0.035/0.015 magnitudes are hardcoded magic values. BM25 index is rebuilt from the private LangChain store `_store.docstore._dict` after load() — fragile coupling. Raises RetrievalError when fusion yields zero results (e.g. index not loaded). Fusion shortcuts 'dense_only'/'bm25_only' bypass the weighted path."
+    },
+    {
+      "path": "src/campus_helpdesk/infrastructure/rag/knowledge_loader.py",
+      "purpose": "Composite loader that routes a source file to the Markdown or PDF loader based on file extension, returning a list of KnowledgeDocuments.",
+      "key_symbols": ["KnowledgeLoader", "KnowledgeLoader.load"],
+      "terms": [],
+      "config": ["knowledge_source_path (passed through)", "knowledge_max_file_size_bytes (passed through)"],
+      "notes": "Thin router only; raises ValueError for any extension other than .md/.pdf. Used both by RAGPipeline.ingest_file and by CanonicalIndexBuilder during index builds."
+    },
+    {
+      "path": "src/campus_helpdesk/infrastructure/rag/markdown_chunker.py",
+      "purpose": "Section-aware Markdown semantic chunker that parses Markdown into header/table/list/code/paragraph blocks, splits by heading sections, merges tiny chunks, and enriches each chunk with breadcrumb and department metadata.",
+      "key_symbols": ["MarkdownSemanticChunker", "MarkdownSemanticChunker._parse_blocks", "MarkdownSemanticChunker.split_document", "_infer_department"],
+      "terms": [
+        {"term": "breadcrumb", "definition": "A 'H1 > H2 > H3' heading chain prepended to each chunk's content and stored in metadata (chunk_meta['breadcrumb']) so both BM25 and the LLM see the document location."},
+        {"term": "section chunk", "definition": "A chunk bounded by heading boundaries; blocks within a section accumulate until target_chunk_chars (1500) is reached, then flush."},
+        {"term": "heading level", "definition": "The Markdown heading depth (H1/H2/H3) tracked while scanning, recorded in chunk metadata and used to build the breadcrumb."},
+        {"term": "block parsing", "definition": "Classifying Markdown lines into typed blocks ('header', 'table', 'list', 'code', 'paragraph') so chunking never splits tables, lists, or code blocks mid-structure."}
+      ],
+      "config": ["min_chunk_chars (default 250)", "max_chunk_chars (default 2500)", "target_chunk_chars (default 1500)", "chunk_size (default 800, unused)", "chunk_overlap (default 120, unused)"],
+      "notes": "chunk_size and chunk_overlap constructor parameters are accepted but never stored or used — dead parameters (the actual sizes are controlled by min/target/max_chunk_chars, which are NOT wired from settings; factory settings rag_chunk_size/rag_chunk_overlap are effectively ignored for Markdown). Department is inferred by keyword heuristics over filename/category/content (computer/cse -> CSE, ece/electronics -> ECE, etc.) with 'University Administration' fallback. Prepends '[Location: breadcrumb]\\n# page_title - section_title' header to every chunk. Exposes module-level _infer_department as a free function."
+    },
+    {
+      "path": "src/campus_helpdesk/infrastructure/rag/markdown_loader.py",
+      "purpose": "Markdown loading adapter that reads a .md file, extracts YAML frontmatter metadata via MetadataExtractor, strips the frontmatter from the body, and returns one KnowledgeDocument per file.",
+      "key_symbols": ["MarkdownKnowledgeLoader", "MarkdownKnowledgeLoader.load", "MarkdownKnowledgeLoader._validate_source_path"],
+      "terms": [
+        {"term": "frontmatter", "definition": "The leading YAML metadata block (delimited by the MetadataExtractor's FRONTMATTER_PATTERN) describing a document; parsed into metadata and removed from the indexed body text."},
+        {"term": "metadata extraction", "definition": "Turning YAML frontmatter plus path info into the document.metadata mapping used later for citations, breadcrumbs, and source tracking."}
+      ],
+      "config": ["knowledge_source_path", "knowledge_max_file_size_bytes"],
+      "notes": "Path validation requires .md suffix, an existing file, and a size under knowledge_max_file_size_bytes (20 MB). Unlike pdf_loader, if the file is outside the knowledge root it silently falls back to the bare filename rather than raising. One KnowledgeDocument per Markdown file (chunking happens later). Depends on src/campus_helpdesk/infrastructure/knowledge/metadata_extractor.py."
+    },
+    {
+      "path": "src/campus_helpdesk/infrastructure/rag/pdf_loader.py",
+      "purpose": "PDF loading adapter that extracts text page-by-page with LangChain's PyPDFLoader and returns one KnowledgeDocument per non-empty page.",
+      "key_symbols": ["PDFKnowledgeLoader", "PDFKnowledgeLoader.load", "PDFKnowledgeLoader._validate_source_path"],
+      "terms": [
+        {"term": "PDF page document", "definition": "Each non-empty extracted page becomes its own KnowledgeDocument with page metadata and a 'source' entry, so a multi-page PDF yields multiple indexable chunks."}
+      ],
+      "config": ["knowledge_source_path", "knowledge_max_file_size_bytes"],
+      "notes": "Depends on langchain_community.document_loaders.PyPDFLoader and pypdf (PdfReadError handled). No OCR is configured: scanned/image-only PDFs raise ValueError('OCR is not configured for scanned PDFs'). Requires the file to be strictly inside the knowledge root (raises otherwise), which is stricter than the Markdown loader's fallback."
+    },
+    {
+      "path": "src/campus_helpdesk/infrastructure/rag/prompt_context_builder.py",
+      "purpose": "Formats retrieved SearchResults into a structured prompt context string with per-chunk citation headers (Source/Title/Section/URL), distance filtering, hash deduplication, and a character budget.",
+      "key_symbols": ["PromptContextBuilder", "PromptContextBuilder.build_context"],
+      "terms": [
+        {"term": "prompt context", "definition": "The retrieved-knowledge string injected into the LLM system/user prompt, built as '[Source: ... | Title: ... | Section: ...]\\n<chunk>' blocks joined by '\\n\\n---\\n\\n'."},
+        {"term": "similarity threshold", "definition": "A maximum distance filter (default 999.0, i.e. effectively disabled) above which a match is excluded; sourced from settings.rag_distance_threshold by the chat service."},
+        {"term": "context budget", "definition": "A maximum character count for the built context (3500 in the chat service); blocks are skipped once the budget is exceeded, except a single oversized first block is truncated to fit."},
+        {"term": "confidence directive", "definition": "An anti-hallucination preamble ('[CONFIDENCE DIRECTIVE: LOW EVIDENCE CONFIDENCE]...') the builder prepends when the confidence assessment level is 'LOW' — currently unreachable (see notes)."}
+      ],
+      "config": ["max_context_size (constructor/duck-typed; chat service passes 3500)", "similarity_threshold (chat service passes settings.rag_distance_threshold, default 999.0)"],
+      "notes": "The constructor duck-types its first argument: it accepts an int, or any object with max_context_size / max_context_chars / max_context_length / similarity_threshold attributes. The low-confidence directive is dead code: it compares confidence_assessment.confidence_level == 'LOW' (all-caps) but ConfidenceEngine emits 'Low'/'Very Low' (title case), so the directive never fires — a real anti-hallucination guard that is silently inactive. Metadata header falls back to legacy LangChain keys 'Header 1'/'Header 2'/'Header 3'. If every match is filtered out, seen_hashes stays empty and the function returns '' (discarding any prepended low notice)."
+    },
+    {
+      "path": "src/campus_helpdesk/infrastructure/rag/semantic_chunker.py",
+      "purpose": "Composite format-aware chunker that routes Markdown documents (by extension or by '#' presence in the first 200 chars) to MarkdownSemanticChunker and everything else to RecursiveTextChunker.",
+      "key_symbols": ["SemanticDocumentChunker", "SemanticDocumentChunker.split", "compute_chunk_statistics"],
+      "terms": [
+        {"term": "composite chunker", "definition": "A dispatcher wrapping the Markdown semantic chunker and the generic recursive text chunker so each document type gets an appropriate splitting strategy."},
+        {"term": "chunk statistics", "definition": "Aggregate counts/sizes (number_of_chunks, average/largest/smallest chunk size) computed by compute_chunk_statistics for build manifests and reports."}
+      ],
+      "config": ["settings.rag_chunk_size", "settings.rag_chunk_overlap", "settings.rag_chunk_separators", "settings.rag_add_start_index"],
+      "notes": "chunk_size/chunk_overlap are forwarded to MarkdownSemanticChunker, which ignores them (see its notes), and to RecursiveTextChunker, which uses them. The markdown-routing heuristic ('.md' suffix OR '#' anywhere in the first 200 chars) can misroute plain text that merely contains a '#'."
+    },
+    {
+      "path": "src/campus_helpdesk/infrastructure/rag/sentence_transformer_embeddings.py",
+      "purpose": "LangChain Embeddings adapter that lazily loads a local SentenceTransformer model and produces embeddings with a manual per-text cache.",
+      "key_symbols": ["SentenceTransformerEmbeddings", "SentenceTransformerEmbeddings.embed_documents", "SentenceTransformerEmbeddings.embed_query", "SentenceTransformerEmbeddings.embed_text", "SentenceTransformerEmbeddings.encode", "SentenceTransformerEmbeddings._get_model", "SentenceTransformerEmbeddings._cached_encode"],
+      "terms": [
+        {"term": "embeddings", "definition": "Dense numeric vectors representing text (here 384-d all-MiniLM-L6-v2 vectors) used for the FAISS similarity search."},
+        {"term": "lazy model loading", "definition": "The SentenceTransformer model is only instantiated on the first encode() call (guarded by an RLock), so importing the pipeline does not load the model."},
+        {"term": "embedding cache", "definition": "An internal dict mapping exact text to its embedding so repeated queries/texts skip re-encoding; uncached texts are encoded in one batch call."}
+      ],
+      "config": ["settings.embedding_model", "settings.embedding_device", "settings.embedding_batch_size", "settings.embedding_normalize", "settings.embedding_show_progress", "settings.embedding_local_files_only"],
+      "notes": "Model loads with local_files_only=True and trust_remote_code=False, so the model must be pre-downloaded; if missing, encoding raises (unlike the reranker's silent fallback). The manual self._cache dict has no eviction/upper bound even though settings.cache_maxsize_embeddings=1_000_000 exists and is unused here (memory growth over a long-running process). _cached_encode (an lru_cache-based single-text encoder) is retained for legacy compatibility but is not called by the current code path."
+    },
+    {
+      "path": "src/campus_helpdesk/infrastructure/rag/text_chunker.py",
+      "purpose": "Thin adapter over LangChain's RecursiveCharacterTextSplitter that splits KnowledgeDocuments into overlapping chunks while preserving metadata for citations.",
+      "key_symbols": ["RecursiveTextChunker", "RecursiveTextChunker.split"],
+      "terms": [
+        {"term": "recursive character splitter", "definition": "LangChain's chunking strategy that repeatedly splits on separators ('\\n\\n', '\\n', ' ', '') until chunks fit chunk_size, with chunk_overlap for continuity."}
+      ],
+      "config": ["settings.rag_chunk_size", "settings.rag_chunk_overlap", "settings.rag_chunk_separators", "settings.rag_add_start_index"],
+      "notes": "Depends on langchain_text_splitters.RecursiveCharacterTextSplitter; metadata keys are stringified on output. Used for PDF-derived chunks routed through SemanticDocumentChunker."
+    }
+  ],
+  "data_flow": "BUILD TIME: the CLI entry `python -m campus_helpdesk.ingest` (src/campus_helpdesk/ingest.py) constructs CanonicalIndexBuilder(KnowledgeLoader, SemanticDocumentChunker, FAISSSimilarityStore) and calls build_index(force_rebuild=True). KnowledgeLoader routes each data/canonical_markdown/*.md to MarkdownKnowledgeLoader (frontmatter extraction via MetadataExtractor) or PDFKnowledgeLoader; SemanticDocumentChunker routes Markdown to MarkdownSemanticChunker (breadcrumb/heading-aware) and PDFs to RecursiveTextChunker; chunks are SHA256-compared against the previous index-manifest.json to skip unchanged files, then fed to FAISSSimilarityStore.add/save, which persists index.faiss/index.pkl plus index-manifest.json. RUNTIME: main.py's app factory calls factory.create_rag_pipeline(settings), which wires SentenceTransformerEmbeddings -> FAISSSimilarityStore -> HybridRetriever (+BM25SearchStore) -> CrossEncoderReranker -> application.RAGPipeline, and attempts hybrid_retriever.load() if an index exists. RAGChatService.respond (application) then calls RAGPipeline.search(query, limit, original_query): HybridRetriever.search_with_stats fuses BM25 + FAISS via weighted RRF with source-prefix boosting; RAGPipeline optionally reranks the candidates with the CrossEncoderReranker and dedups per source document; RAGChatService then runs ContextComposer.compose, ConfidenceEngine.evaluate (produces ConfidenceAssessment), and PromptContextBuilder.build_context (produces the context string with citation headers). The context string plus conversation history is injected into the Ollama LLM prompt, and CitationValidator post-checks the generated reply against the SearchResult documents. The same RAG pipeline (minus ConfidenceEngine/ContextComposer in some paths) is reused by the RAGChatService streaming path and by the robot/GUI entry points (touch_app.py, robot_main.py).",
+  "external_deps": [
+    "langchain-community (vectorstores.FAISS, document_loaders.PyPDFLoader)",
+    "langchain-core (Document, Embeddings)",
+    "langchain-text-splitters (RecursiveCharacterTextSplitter)",
+    "sentence-transformers (SentenceTransformer bi-encoder, CrossEncoder)",
+    "faiss (via LangChain FAISS vectorstore)",
+    "pypdf (PdfReadError via PyPDFLoader)",
+    "Python stdlib (hashlib, difflib, math, re, threading.RLock, functools.lru_cache)",
+    "Local model files must be pre-downloaded for all-MiniLM-L6-v2 and cross-encoder/ms-marco-MiniLM-L-6-v2 (both load with local_files_only=True)"
+  ],
+  "risks": [
+    "Index deserialization gate off by default: faiss_allow_dangerous_deserialization=false means load() raises PermissionError, so a fresh deploy runs without the FAISS index; HybridRetriever.search then has no dense results and (with no BM25 index) raises RetrievalError at query time. The pipeline silently degrades unless explicitly enabled.",
+    "Silent reranker degradation: CrossEncoderReranker loads with local_files_only=True and merely warns + falls back to un-reranked results on any load/predict failure, so reranking quality can silently drop with no user-visible error.",
+    "Dead anti-hallucination guard: PromptContextBuilder checks confidence_level == 'LOW' (all-caps) but ConfidenceEngine emits 'Low'/'Very Low' (title case); the low-confidence directive never fires, defeating an intended hallucination mitigation.",
+    "ConfidenceEngine measures topical relevance only, not fact answerability; high confidence does not imply the specific fact (room/building number) is present, and its distance signal treats hybrid distances (min of BM25 pseudo-distance and FAISS L2) as pure L2.",
+    "The known absolute distance-threshold trap: a 2.0 threshold wrongly filtered valid RRF/FAISS results and caused hallucination (documented in settings.py and config.yaml); the default is now 999.0, but .env.example still ships RAG_DISTANCE_THRESHOLD=2.0 (overridden by config.yaml, yet a stale trap for anyone relying on .env).",
+    "Hardcoded retrieval bias: HybridRetriever applies magic source-prefix boosts (+0.035 facilities/academics/admissions, -0.015 news-media/governance), and CanonicalIndexBuilder hardcodes embedding_dimension=384 / FAISS_FlatL2 in the manifest regardless of the actual model.",
+    "Layering inversion: factory.py imports RAGPipeline from the application package, making infrastructure depend on application.",
+    "Fragile private-API coupling: HybridRetriever.load rebuilds the BM25 index from LangChain's private `_store.docstore._dict`; upgrades of langchain-community can break it (failure is caught with a warning, leaving BM25 empty).",
+    "Unused/dead code and params: MarkdownSemanticChunker ignores chunk_size/chunk_overlap; settings.cache_maxsize_embeddings is never enforced by the unbounded embedding cache dict; SentenceTransformerEmbeddings._cached_encode (lru_cache) is dead; ConfidenceEngine._citation_quality is a naive '[C' substring check.",
+    "Model-missing hard failure path: if the embedding model is not cached locally, SentenceTransformerEmbeddings.encode raises (no graceful fallback), whereas the reranker degrades silently — inconsistent failure behavior.",
+    "Inconsistent config defaults: ContextComposer class default max_context_size=7000 vs Settings default context_composer_max_context_size=3500; CrossEncoderReranker defaults (top_n=10, top_m=4) vs Settings (20/5) — the factory overrides both, but direct instantiation is inconsistent.",
+    "CanonicalIndexBuilder skips failed documents with only a warning and still writes a partial index plus manifest, so a silently incomplete knowledge base is possible."
+  ]
+}

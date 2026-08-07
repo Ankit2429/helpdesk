@@ -219,8 +219,10 @@ class MarkdownSemanticChunker:
                     "h3": h3,
                     "heading_level": current_heading_level,
                 })
-                current_section_blocks = []
-                current_section_chars = 0
+                # Carry over last block as overlap context if available
+                overlap_block = [current_section_blocks[-1]] if current_section_blocks else []
+                current_section_blocks = overlap_block
+                current_section_chars = sum(len(b) for b in current_section_blocks)
 
         # Flush final section
         if current_section_blocks:

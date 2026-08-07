@@ -258,6 +258,10 @@ class LLMService:
         """
         Yield generated tokens incrementally for low-latency streaming UI responses.
 
+        Retries on recoverable connection errors (ConnectionError, OSError, TimeoutError)
+        up to max_retries times with exponential backoff — matching the strategy in generate().
+        ResponseError (bad model name / bad request) is not retried.
+
         Args:
             prompt: Text prompt sent to LLM.
 
@@ -276,43 +280,78 @@ class LLMService:
             options.update(self.generation_options)
 
         start_time = time.time()
-        first_token_logged = False
-        total_tokens = 0
+        delay = 10.0
 
-        try:
-            if not self._client:
-                self._init_client()
-            if not self._client:
-                raise RequestError(f"Ollama client not initialized for host {self.host}")
+        for attempt in range(1, self.max_retries + 1):
+            first_token_logged = False
+            total_tokens = 0
+            try:
+                if not self._client:
+                    self._init_client()
+                if not self._client:
+                    raise RequestError(f"Ollama client not initialized for host {self.host}")
 
-            response = self._client.chat(
-                model=self.model,
-                messages=[{"role": "user", "content": prompt}],
-                options=options,
-                keep_alive="10m",
-                stream=True,
-            )
+                response = self._client.chat(
+                    model=self.model,
+                    messages=[{"role": "user", "content": prompt}],
+                    options=options,
+                    keep_alive="10m",
+                    stream=True,
+                )
 
-            for chunk in response:
-                token = ""
-                if hasattr(chunk, "message") and hasattr(chunk.message, "content"):
-                    token = chunk.message.content
-                elif isinstance(chunk, dict):
-                    token = chunk.get("message", {}).get("content", "")
-                if token:
-                    if not first_token_logged:
-                        first_token_time = (time.time() - start_time) * 1000
-                        logger.info(f"[First Token Received] Latency: {first_token_time:.1f}ms")
-                        first_token_logged = True
-                    total_tokens += 1
-                    yield token
+                for chunk in response:
+                    token = ""
+                    if hasattr(chunk, "message") and hasattr(chunk.message, "content"):
+                        token = chunk.message.content
+                    elif isinstance(chunk, dict):
+                        token = chunk.get("message", {}).get("content", "")
+                    if token:
+                        if not first_token_logged:
+                            first_token_time = (time.time() - start_time) * 1000
+                            logger.info(f"[First Token Received] Latency: {first_token_time:.1f}ms")
+                            first_token_logged = True
+                        total_tokens += 1
+                        yield token
 
-            total_time = (time.time() - start_time) * 1000
-            logger.info(f"[Response Finished] Streamed {total_tokens} tokens in {total_time:.1f}ms")
+                total_time = (time.time() - start_time) * 1000
+                logger.info(f"[Response Finished] Streamed {total_tokens} tokens in {total_time:.1f}ms")
+                return  # Success — exit retry loop
 
-        except Exception as exc:
-            logger.error(
-                f"[Ollama Streaming Error] {type(exc).__name__}: {exc}\n"
-                f"{traceback.format_exc()}"
-            )
-            yield f"[Ollama Error — {type(exc).__name__}: {exc}]"
+            except ResponseError as exc:
+                # Non-retryable: model returned a bad response (e.g. bad model name).
+                logger.error(
+                    f"[Ollama Stream Attempt {attempt}/{self.max_retries}] "
+                    f"ResponseError (non-retryable): {type(exc).__name__}: {exc}"
+                )
+                yield f"[Ollama Error — {type(exc).__name__}: {exc}]"
+                return
+
+            except (ConnectionError, TimeoutError, OSError) as exc:
+                # Retryable: network-level failures (connection refused, socket timeout).
+                logger.warning(
+                    f"[Ollama Stream Retry {attempt}/{self.max_retries}] "
+                    f"Network/connection error — {type(exc).__name__}: {exc}"
+                )
+                if attempt < self.max_retries:
+                    self._client = None
+                    logger.info(f"[Ollama Stream Retry] Waiting {delay:.0f}s before retry {attempt + 1}...")
+                    time.sleep(delay)
+                    delay *= self.backoff_factor
+                else:
+                    logger.error(f"[Ollama Stream Failed] All {self.max_retries} attempts exhausted.")
+                    yield f"[Ollama Error — {type(exc).__name__}: {exc}]"
+                    return
+
+            except Exception as exc:
+                logger.error(
+                    f"[Ollama Streaming Error] {type(exc).__name__}: {exc}\n"
+                    f"{traceback.format_exc()}"
+                )
+                if attempt < self.max_retries:
+                    self._client = None
+                    logger.info(f"[Ollama Stream Retry] Waiting {delay:.0f}s before retry {attempt + 1}...")
+                    time.sleep(delay)
+                    delay *= self.backoff_factor
+                else:
+                    yield f"[Ollama Error — {type(exc).__name__}: {exc}]"
+                    return

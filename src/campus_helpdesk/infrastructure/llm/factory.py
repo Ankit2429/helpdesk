@@ -30,6 +30,15 @@ def create_llm_service(settings: Settings) -> LLMService:
         generation_options=settings.ollama_options,
     )
 
+    # Warm-up Ollama
+    try:
+        logger.info("Warming up Ollama LLM model...")
+        # Since options are passed at init, we just send a very short prompt to load the model into VRAM
+        list(local_llm.generate_stream("hi"))
+        logger.info("Ollama LLM model warmed up successfully.")
+    except Exception as e:
+        logger.warning(f"Failed to warm up Ollama LLM model: {e}")
+
     cloud_llm = None
     if settings.cloud_llm_api_key.strip():
         try:

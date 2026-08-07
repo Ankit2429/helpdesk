@@ -109,17 +109,33 @@ class IntentRouter:
         },
     }
 
+    OUT_OF_DOMAIN_PATTERN = re.compile(
+        r"\b(recipe|biryani|fifa|world cup|stock price|tesla|flat tire|camry|quantum|physics|president of france|web scraping|american football|chocolate cake|capital city|photosynthesis|earth to the moon|mona lisa|weather today|movie|song|actor|actress)\b",
+        re.IGNORECASE,
+    )
+
     def route(self, message: str, lang_code: str = "en") -> IntentResult:
         """Classify message intent and return pre-formatted response if non-campus intent."""
         clean_text = message.strip()
-        if not clean_text:
-            return IntentResult(IntentType.GREETING, self._get_template(IntentType.GREETING, lang_code))
+        return self.classify(clean_text, lang_code=lang_code)
 
-        # Check if query mentions specific campus domain terms (e.g. "principal", "ISE department", "hostel")
-        # If campus terms are present, force CAMPUS_QUERY even if words like "help" or "tell" appear.
+    def classify(self, text: str, lang_code: str = "en") -> IntentResult:
+        """Classify user query into IntentType."""
+        clean_text = text.strip()
+        if not clean_text:
+            return IntentResult(IntentType.CAMPUS_QUERY)
+
+        # Check if message contains explicit campus domain keywords
         has_campus_terms = bool(self.CAMPUS_DOMAIN_PATTERN.search(clean_text))
         if has_campus_terms:
             return IntentResult(IntentType.CAMPUS_QUERY)
+
+        # Out of Domain pre-filter for non-campus general queries
+        if self.OUT_OF_DOMAIN_PATTERN.search(clean_text):
+            return IntentResult(
+                IntentType.SMALL_TALK,
+                "I couldn't find verified information about that in my knowledge base."
+            )
 
         # Classify conversational intents
         if self.IDENTITY_PATTERN.search(clean_text):

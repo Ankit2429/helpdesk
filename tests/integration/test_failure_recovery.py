@@ -72,7 +72,6 @@ def runtime() -> SystemRuntime:
         event_bus=bus,
         camera=cam,
         vision=vis,
-        vad=vad,
         stt=stt,
         inference=inference,
         tts=tts,
@@ -89,7 +88,6 @@ def runtime() -> SystemRuntime:
 class TestFailureRecovery:
     def test_person_leaves_while_speaking_aborts_flow(self, runtime: SystemRuntime) -> None:
         runtime.start()
-        runtime.vad.stop()
         bus = runtime.bus
 
         session_id = "session-fail-1"
@@ -175,7 +173,6 @@ class TestFailureRecovery:
 
     def test_inference_timeout_recovery(self, runtime: SystemRuntime) -> None:
         runtime.start()
-        runtime.vad.stop()
         bus = runtime.bus
 
         session_id = "session-fail-2"
@@ -200,7 +197,6 @@ class TestFailureRecovery:
 
     def test_tts_preemption_interruption(self, runtime: SystemRuntime) -> None:
         runtime.start()
-        runtime.vad.stop()
         bus = runtime.bus
 
         session_id = "session-fail-3"

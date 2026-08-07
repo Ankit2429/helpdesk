@@ -1,0 +1,310 @@
+{
+  "folder": "scripts/",
+  "title": "Scripts: retrieval evaluation & failure analysis",
+  "purpose": "This subsystem is the evaluation and QA harness for the RAG pipeline. It runs benchmark questions (loaded from evaluation/questions.yaml plus hardcoded regression sets) through the live /chat stack under baseline and optimized configurations, measures latency, recall, confidence, and correctness, classifies answers into four quality categories, diagnoses failed questions down to the retrieval/rerank/LLM stages, and generates Markdown/JSON comparison and timing reports. It also fabricates synthetic real-world datasets for retrieval robustness testing and serves as the project's verification gate (verify_project.py, referenced from CLAUDE.md). The scripts are the evidence base that drove retrieval tuning decisions such as RRF weight adjustment, canonical source boosting, and top-k reduction.",
+  "files": [
+    {
+      "path": "scripts/analyze_all_failures.py",
+      "purpose": "Cross-references the baseline-vs-optimized comparison JSON against evaluation/questions.yaml to collect every question that failed in either configuration and dump a consolidated failure-analysis JSON.",
+      "key_symbols": ["main()"],
+      "terms": [
+        {"term": "expected_answer_keywords", "definition": "Canonical answer keywords stored per question in evaluation/questions.yaml that the generated reply is checked against."},
+        {"term": "expected_sources", "definition": "Canonical knowledge-base file paths associated with each benchmark question that the reply should be grounded in."},
+        {"term": "keyword coverage", "definition": "Fraction of a question's expected keywords found (case-insensitively) in the generated reply; the primary correctness heuristic used across these scripts."}
+      ],
+      "config": [],
+      "notes": "Reads evaluation/results/baseline_vs_optimized_comparison.json and evaluation/questions.yaml via cwd-relative paths, so it must run from the repo root. Silently returns if the JSON is absent. Uses print-based console output; explicit utf-8 on file IO."
+    },
+    {
+      "path": "scripts/audit_evaluation_4_categories.py",
+      "purpose": "Re-classifies every benchmark answer in the comparison JSON into four audit categories (correct answer, correct intentional refusal, partial-but-grounded, hallucination/incorrect) and writes an audited breakdown plus a production-safety score.",
+      "key_symbols": ["main()", "cat_counts", "audited"],
+      "terms": [
+        {"term": "intentional refusal", "definition": "An answer that declines to respond because the KB genuinely lacks the detail (e.g. a private phone number); treated as correct when the query is a known-unanswerable intent."},
+        {"term": "partial grounded answer", "definition": "A reply containing core KB facts and citing valid sources but missing some expected keywords; scored as a production-safe success rather than a failure."},
+        {"term": "hallucination", "definition": "A reply containing fabricated content, here detected as a URL not on the whitelisted kletech.ac.in / cetonline domains."},
+        {"term": "production safety score", "definition": "Share of questions classified as correct + intentional refusal + partial grounded; used as the headline deployment-readiness metric."}
+      ],
+      "config": [],
+      "notes": "Classification is heuristic: hardcoded refusal-phrase blacklist, hardcoded unanswerable-query list, URL fabrication check via two whitelisted domains. Prints metrics to stdout and writes evaluation/results/audited_4_category_benchmark.json."
+    },
+    {
+      "path": "scripts/benchmark.py",
+      "purpose": "CLI entry point that runs the full RAG retrieval benchmark (Recall@1/3/5, MRR, latency percentiles, failure analysis, category breakdown) by delegating to the evaluation/benchmarks package, then generates plots and reports.",
+      "key_symbols": ["main()", "parse_args()", "print_progress_bar()", "RetrievalBenchmark", "RetrievalPlotter", "RetrievalReportGenerator"],
+      "terms": [
+        {"term": "Recall@K", "definition": "Fraction of queries for which the correct document appears within the top-K retrieved results; evaluated at K=1, 3, 5."},
+        {"term": "MRR", "definition": "Mean Reciprocal Rank: the average over queries of 1/(rank of the first relevant document), measuring how high the first correct hit lands."},
+        {"term": "latency percentile", "definition": "A point on the query-latency distribution (mean, median, P95) used to characterize retrieval speed."},
+        {"term": "success rate", "definition": "Share of queries where a relevant document appears within the top-K window (K=5 here)."},
+        {"term": "candidate window", "definition": "Number of candidate documents produced by retrieval before the final top-k selection is made."}
+      ],
+      "config": ["CLI: --dataset-dir (default evaluation/datasets)", "CLI: --output-dir (default evaluation/reports)", "CLI: --category", "CLI: --top-k (default 5)", "CLI: --workers (default 4)", "CLI: --dry-run", "CLI: --verbose"],
+      "notes": "Contains dead/broken dry-run wiring: `retriever_pipeline=None if not args.dry_run else benchmark_engine_mock_adapter if False else None` references an undefined name benchmark_engine_mock_adapter and only survives because the `if False` branch short-circuits the ternary to None — the advertised mock-adapter dry-run mode is non-functional. Depends on the evaluation/benchmarks package (retrieval_benchmark, retrieval_plotter, retrieval_report_generator) placed on sys.path via workspace-root insertion."
+    },
+    {
+      "path": "scripts/benchmark_conversation_memory.py",
+      "purpose": "Benchmarks the conversation-memory subsystem (SessionManager, QueryRewriter, ConversationMemory) across a simulated 20-turn, 4-domain session, measuring per-turn latency, token-budget usage, and tracemalloc heap footprint with hard assertions.",
+      "key_symbols": ["run_benchmark()", "SessionManager", "QueryRewriter", "ConversationMemory"],
+      "terms": [
+        {"term": "session", "definition": "A TTL-bounded conversation state identified by a session_id, holding message history and a condensed running summary."},
+        {"term": "TTL", "definition": "Time-to-live for a session before it expires (ttl_seconds=300 here); expired sessions are dropped by the SessionManager."},
+        {"term": "max_history_turns", "definition": "Maximum number of dialogue turns retained in memory before older turns are condensed (5 here)."},
+        {"term": "summary_trigger_turns", "definition": "Number of accumulated turns that triggers condensation of raw history into a summary."},
+        {"term": "max_context_tokens", "definition": "Token budget ceiling for the assembled prompt (2048 here); history/context is truncated to fit."},
+        {"term": "token breakdown", "definition": "The get_token_breakdown report of estimated tokens for system prompt, RAG context, history, and query against the max context budget."},
+        {"term": "query rewrite", "definition": "Multi-turn pronoun/ellipsis resolution that turns a raw follow-up query into a self-contained query using conversation history."}
+      ],
+      "config": ["SessionManager(ttl_seconds=300, max_history_turns=5, summary_trigger_turns=5, max_context_tokens=2048) hardcoded in code", "src/ imports via sys.path insertion"],
+      "notes": "Simulated answers are fake strings, not real LLM output. Asserts average latency < 10 ms/turn, max tokens <= 2048, and <=10 retained messages — the latency bound could be flaky on slower machines. Uses tracemalloc for heap measurement; hardcoded session id 'benchmark-kiosk-session'."
+    },
+    {
+      "path": "scripts/compare_baseline_vs_optimized.py",
+      "purpose": "Runs every benchmark question (evaluation/questions.yaml plus 10 hardcoded regression questions) through both a Baseline and an Optimized RAGChatService configuration and writes the side-by-side comparison JSON with correctness, confidence, citation, hallucination, and regression metrics.",
+      "key_symbols": ["load_all_benchmark_questions()", "build_service_with_config()", "evaluate_query()", "run_full_comparison()"],
+      "terms": [
+        {"term": "baseline configuration", "definition": "The reference retrieval settings used for comparison: top_k=50, candidate_window=25, context window 8192, max output tokens 512."},
+        {"term": "optimized configuration", "definition": "The tuned settings compared against baseline: top_k=5, candidate_window=20, context window 2048, max output tokens 256."},
+        {"term": "regression", "definition": "A question where the baseline answer was correct / non-hallucinated but the optimized answer became incorrect or hallucinated — the key risk the comparison flags."},
+        {"term": "citation_valid", "definition": "Whether the reply contains a bracket citation that matches one of the supporting sources reported on the ChatResult."},
+        {"term": "confidence_score", "definition": "The numeric confidence assigned by the pipeline to the answer (retrieval-grounded confidence, distinct from the answer text)."},
+        {"term": "confidence_level", "definition": "The discretized confidence bucket (e.g. HIGH/MEDIUM/LOW/NONE) accompanying the confidence score."}
+      ],
+      "config": ["Builds Settings(rag_search_limit, candidate_window, reranker_top_n, final_top_k, final_results, ollama_max_output_tokens, ollama_context_window, ollama_num_threads, context_composer_max_context_size) explicitly", "Requires live Ollama server, loaded FAISS index, embedding model"],
+      "notes": "Constructs Settings objects directly, bypassing the config.yaml/.env precedence rules — the baseline/optimized results can silently diverge from the configured production settings (config-drift risk). Adds src to sys.path and reconfigures stdout to utf-8. Emoji status flags in console output. The citation check is loose ('[' and ']' present in reply). Writes evaluation/results/baseline_vs_optimized_comparison.json — the central artifact consumed by many downstream scripts."
+    },
+    {
+      "path": "scripts/deep_diagnose_21_failures.py",
+      "purpose": "Prints a deep root-cause diagnostic for each question marked incorrect in the optimized run, including whether each expected keyword actually appears in data/knowledge/campus_guide.txt.",
+      "key_symbols": ["main()"],
+      "terms": [
+        {"term": "expected_answer_keywords", "definition": "Canonical answer keywords stored per question in evaluation/questions.yaml that the generated reply is checked against."},
+        {"term": "expected_sources", "definition": "Canonical knowledge-base file paths associated with each benchmark question that the reply should be grounded in."}
+      ],
+      "config": [],
+      "notes": "Reads data/knowledge/campus_guide.txt if present (silently treated as empty string otherwise) to test whether the KB actually contains the expected keywords. Print-only diagnostic, no file output. cwd-relative paths."
+    },
+    {
+      "path": "scripts/diagnose_each_failure.py",
+      "purpose": "Prints a per-question detailed diagnosis for all questions in evaluation/results/failed_questions_analysis.json (the output of analyze_all_failures.py).",
+      "key_symbols": ["main()"],
+      "terms": [
+        {"term": "expected_answer_keywords", "definition": "Canonical answer keywords stored per question in evaluation/questions.yaml that the generated reply is checked against."},
+        {"term": "expected_sources", "definition": "Canonical knowledge-base file paths associated with each benchmark question that the reply should be grounded in."}
+      ],
+      "config": [],
+      "notes": "Depends on analyze_all_failures.py having been run first; returns silently if the analysis JSON is missing. Print-only."
+    },
+    {
+      "path": "scripts/diagnose_retrieval_failures.py",
+      "purpose": "Dumps the raw FAISS dense results, the hybrid RRF results, and the final reranked/deduped results for three specific failing queries to trace where retrieval goes wrong.",
+      "key_symbols": ["inspect_query()", "main()"],
+      "terms": [
+        {"term": "FAISS dense search", "definition": "Vector similarity search against the FAISS index; returns results ordered by embedding distance."},
+        {"term": "hybrid RRF search", "definition": "Fusion of BM25 sparse results and FAISS dense results via reciprocal rank fusion before reranking."},
+        {"term": "reranker", "definition": "Cross-encoder model that reorders the fused candidates by query-document relevance (the pipeline's _reranker)."},
+        {"term": "dedup", "definition": "Removal of duplicate documents (same source) after reranking so the context contains distinct chunks."}
+      ],
+      "config": ["Settings() via src (loads config.yaml + .env)", "Requires pipeline.load_index() to have a loaded FAISS index"],
+      "notes": "Reaches into private pipeline internals (pipeline._similarity_store, .similarity_store, .bm25_store, ._reranker) — tightly coupled to implementation and break-prone. Three hardcoded queries for the DEP001/REG001/REG007 failures."
+    },
+    {
+      "path": "scripts/export_all_21_failures.py",
+      "purpose": "Exports every question that failed in the optimized run from the comparison JSON into a clean standalone JSON (all_21_failures_full.json) intended as the basis for a fix plan.",
+      "key_symbols": ["main()"],
+      "terms": [
+        {"term": "expected_answer_keywords", "definition": "Canonical answer keywords stored per question in evaluation/questions.yaml that the generated reply is checked against."},
+        {"term": "expected_sources", "definition": "Canonical knowledge-base file paths associated with each benchmark question that the reply should be grounded in."}
+      ],
+      "config": [],
+      "notes": "Writes evaluation/results/all_21_failures_full.json. print-based; returns silently if the source comparison JSON is absent."
+    },
+    {
+      "path": "scripts/fresh_audit.py",
+      "purpose": "Regenerates the 4-category audit metrics and a per-question table directly from the latest comparison JSON, using an expanded refusal-phrase list than audit_evaluation_4_categories.py.",
+      "key_symbols": ["main()", "REFUSAL_PHRASES", "UNANSWERABLE_QUERIES", "cat_counts"],
+      "terms": [
+        {"term": "intentional refusal", "definition": "An answer that declines to respond because the KB genuinely lacks the detail; treated as correct only when the query is a known-unanswerable intent or no expected keywords exist."},
+        {"term": "production safety score", "definition": "Share of questions classified as correct + intentional refusal + partial; the headline deployment-readiness metric."},
+        {"term": "fabricated URL", "definition": "A URL in the reply that is not on the whitelisted kletech.ac.in or cetonline.karnataka.gov.in domains — used as a hallucination signal."}
+      ],
+      "config": [],
+      "notes": "Uses open() without an explicit encoding on reads (platform-codepage risk). Adds 'context provided does not contain' to the refusal list and cetonline.karnataka.gov.in to the URL whitelist vs the earlier audit. Prints a per-question table and Category-4 detail."
+    },
+    {
+      "path": "scripts/generate_comparison_report.py",
+      "purpose": "Formats the baseline-vs-optimized comparison JSON into a human-readable Markdown report with high-level metrics and per-question side-by-side tables.",
+      "key_symbols": ["main()"],
+      "terms": [
+        {"term": "baseline configuration", "definition": "The reference retrieval settings (top_k=50, window=25, tokens=512) used for comparison."},
+        {"term": "optimized configuration", "definition": "The tuned retrieval settings (top_k=5, window=10, tokens=256) compared against baseline."}
+      ],
+      "config": [],
+      "notes": "Writes evaluation/results/full_comparison_report.md. Uses emoji status flags and assumes the source JSON contains baseline/optimized/regression_detected/any_change keys. Print-based."
+    },
+    {
+      "path": "scripts/generate_full_evaluation_dataset.py",
+      "purpose": "Generates a synthetic evaluation dataset (real_world.yaml) of 500 single-turn and 100 multi-turn queries across 13 categories from seed templates (simple, follow-up, ambiguous, typo, incomplete), shuffled per category.",
+      "key_symbols": ["SEED_DATA", "build_single()", "build_multi()", "generate_dataset()"],
+      "terms": [
+        {"term": "single-turn query", "definition": "An isolated question with no conversation context, used to test basic retrieval."},
+        {"term": "multi-turn conversation", "definition": "A 5-utterance turn list exercising follow-up, ambiguous, typo, and incomplete phrasings of the same topic to test conversation-aware retrieval."},
+        {"term": "synthetic dataset", "definition": "Programmatically generated queries (from seed templates) used to exercise retrieval robustness without hand-writing thousands of questions."},
+        {"term": "expected_answer", "definition": "Dataset schema field left empty here; it holds the ground-truth answer when a dataset is annotated."},
+        {"term": "expected_citations", "definition": "Dataset schema field left empty here; it would hold the canonical source citations for the expected answer."}
+      ],
+      "config": ["OUTPUT_PATH = BASE_DIR / evaluation/datasets/real_world.yaml (BASE_DIR = parents[2] of the script)"],
+      "notes": "Header comment claims the seed data is 'same as in generate_real_world_dataset.py' — both scripts write the SAME real_world.yaml and duplicate near-identical seed templates, so running either silently overwrites the other (code-duplication risk). Queries carry empty expected_answer/expected_citations placeholders."
+    },
+    {
+      "path": "scripts/generate_real_world_dataset.py",
+      "purpose": "Writes a real-world evaluation dataset (real_world.yaml) with one 5-turn conversation per seed entry across 13 categories (simple, follow-up, ambiguous, typo, incomplete), generated under a uuid-based schema.",
+      "key_symbols": ["SEED_DATA", "build_conversation()", "generate_dataset()"],
+      "terms": [
+        {"term": "multi-turn conversation", "definition": "A 5-utterance turn list exercising simple, follow-up, ambiguous, typo, and incomplete phrasings of the same topic."},
+        {"term": "synthetic dataset", "definition": "Programmatically generated queries used to exercise retrieval robustness without hand-writing a large corpus."},
+        {"term": "expected_answer", "definition": "Dataset schema field left empty here; it holds the ground-truth answer when a dataset is annotated."},
+        {"term": "expected_citations", "definition": "Dataset schema field left empty here; it would hold canonical source citations for the expected answer."}
+      ],
+      "config": ["OUTPUT_PATH = os.path.dirname(__file__) / ../evaluation/datasets/real_world.yaml"],
+      "notes": "Effectively a duplicate of generate_full_evaluation_dataset.py targeting the same output path — overlapping maintenance. Empty expected_answer/expected_citations placeholders mean the dataset is not directly usable for answer grading until annotated."
+    },
+    {
+      "path": "scripts/inspect_dep001.py",
+      "purpose": "Prints the comparison-JSON record for the single DEP001 question (CSE specialization streams) to inspect its retrieved sources, correctness flag, and generated reply.",
+      "key_symbols": ["(module-level loop; no functions)"],
+      "terms": [
+        {"term": "DEP001", "definition": "Benchmark question ID for 'What specialization streams are offered under B.E. Computer Science and Engineering?' — a canonical failing case used across the diagnosis scripts."}
+      ],
+      "config": [],
+      "notes": "Executes at import time with no main() guard. Hardcoded question ID 'DEP001'. Read-only inspection of evaluation/results/baseline_vs_optimized_comparison.json."
+    },
+    {
+      "path": "scripts/inspect_remaining_3_incorrect.py",
+      "purpose": "Lists the questions still classified as Category 4 (Hallucination/Incorrect) in audited_4_category_benchmark.json, with their retrieved sources and explanation text.",
+      "key_symbols": ["main()"],
+      "terms": [
+        {"term": "audit_category", "definition": "The 4-category label assigned by audit_evaluation_4_categories.py to each answer."},
+        {"term": "4_HALLUCINATION_INCORRECT", "definition": "The audit category for answers deemed hallucinated or incorrect — the class targeted for fixes."}
+      ],
+      "config": [],
+      "notes": "Depends on audited_4_category_benchmark.json (output of audit_evaluation_4_categories.py) existing. Print-only."
+    },
+    {
+      "path": "scripts/measure_baseline_timing.py",
+      "purpose": "Runs 10 core regression questions against the live pipeline while monkey-patching the similarity store, reranker, and LLM generate calls to capture per-stage (retrieval/rerank/LLM) timings, writing logs/timing_<tag>.json.",
+      "key_symbols": ["REGRESSION_QUESTIONS", "run_instrumented_benchmark()"],
+      "terms": [
+        {"term": "instrumented timing", "definition": "Monkey-patched wrappers around pipeline stages that accumulate elapsed seconds so per-stage latency can be measured without editing production code."},
+        {"term": "retrieval time", "definition": "Wall time spent in the hybrid BM25 + FAISS similarity-store search stage."},
+        {"term": "rerank time", "definition": "Wall time spent in the cross-encoder reranker stage."},
+        {"term": "LLM generation time", "definition": "Wall time spent in OllamaLLMService.generate producing the final answer."}
+      ],
+      "config": ["get_settings() with cache_clear() (reloads config.yaml/.env)", "Requires live Ollama server, loaded FAISS index, embeddings", "Output: logs/timing_<tag>.json (tag from argv, default BASELINE)"],
+      "notes": "Monkey-patches instance attributes (rag_pipeline._similarity_store.search, rag_pipeline._reranker.rerank, llm_service.generate) at runtime — fragile against internal refactors. Despite the docstring, it does not assert correctness against ground truth. Writes to logs/ directory."
+    },
+    {
+      "path": "scripts/test_retrieval.py",
+      "purpose": "End-to-end smoke of retrieval and response generation: manually builds the embeddings/FAISS/loader/chunker components, then runs 5 questions through rag_pipeline.search and chat_service.respond, printing retrieved chunks and answers.",
+      "key_symbols": ["QUESTIONS", "main()"],
+      "terms": [
+        {"term": "chunking", "definition": "Splitting Markdown knowledge documents into overlapping retrieval units using the SemanticDocumentChunker with configured chunk_size and chunk_overlap."},
+        {"term": "FAISS similarity store", "definition": "The FAISSSimilarityStore adapter that persists and queries the vector index."},
+        {"term": "embedding model", "definition": "The sentence-transformer model used to vectorize queries and chunks for dense search."},
+        {"term": "RAG pipeline search", "definition": "The composite search entry point (retrieve -> compose context) on the RAGPipeline."}
+      ],
+      "config": ["log_level, embedding_model, embedding_device, embedding_batch_size, embedding_normalize, embedding_show_progress, embedding_local_files_only", "faiss_index_path, faiss_allow_dangerous_deserialization", "knowledge_source_path, knowledge_max_file_size_bytes", "rag_chunk_size, rag_chunk_overlap, rag_chunk_separators, rag_add_start_index"],
+      "notes": "Constructs embeddings + FAISSSimilarityStore + MarkdownKnowledgeLoader + SemanticDocumentChunker manually but then calls create_rag_pipeline(settings) and never uses the manually built store — dead/duplicated construction. Also imports RAGPipeline without using it (factory is used instead). Skips load_index when the index path does not exist, leaving the pipeline degraded."
+    },
+    {
+      "path": "scripts/test_retrieval_tuning.py",
+      "purpose": "Tests RRF weight adjustment (dense weight 0.75) and canonical-source metadata boosting/penalties for the DEP001/REG001/REG007 failing queries to see whether the tuned fusion ranks the correct documents first.",
+      "key_symbols": ["test_tuned_search()"],
+      "terms": [
+        {"term": "RRF weights", "definition": "Dense vs sparse contribution weights in reciprocal rank fusion; each result contributes weight * (1/(60+rank))."},
+        {"term": "canonical source boost", "definition": "Score bonus added to chunks from canonical directories (facilities/, 02-academics/, 03-admissions-fees/) and a penalty to 07-news-media/ and 01-governance-policy/ sources."},
+        {"term": "content-hash dedup", "definition": "Using a sha256 of the chunk content to align BM25 and FAISS results on the same document before fusing scores."},
+        {"term": "dedup by source", "definition": "Keeping only the first chunk per source file after reranking so the final context is not dominated by one document."}
+      ],
+      "config": ["Settings(rag_search_limit=5, candidate_window=20, reranker_top_n=20)"],
+      "notes": "Manually re-implements the entire fusion loop (BM25 + FAISS -> RRF -> rerank -> dedup) rather than calling hybrid_retriever.search — a drift-prone copy of production logic. Reaches into private attributes (hybrid._bm25_indexed, hybrid.bm25_store, hybrid.similarity_store, pipeline._reranker). Print-only; no persistent output."
+    },
+    {
+      "path": "scripts/test_pipeline_timing.py",
+      "purpose": "Measures end-to-end pipeline latency across 6 questions in 3 languages (English/Hindi/Kannada), breaking out language detection, query translation, RAG search, LLM generation, and TTS synthesis timings.",
+      "key_symbols": ["TEST_QUESTIONS", "measure_detailed_turn()", "main()"],
+      "terms": [
+        {"term": "language detection", "definition": "LanguageDetector.detect classifying the question language before processing."},
+        {"term": "query translation", "definition": "An LLM prompt that converts a non-English question into a one-sentence English keyword search query for retrieval."},
+        {"term": "TTS synthesis", "definition": "NonBlockingTTSService.speak plus wait_until_done, measuring text-to-speech audio generation time."},
+        {"term": "detected_language", "definition": "The language code attached to the ChatResult, used to drive TTS voice selection."}
+      ],
+      "config": ["embedding_model, embedding_device, embedding_batch_size, embedding_normalize, embedding_show_progress, embedding_local_files_only", "faiss_index_path, faiss_allow_dangerous_deserialization", "knowledge_source_path, knowledge_max_file_size_bytes", "rag_chunk_size, rag_chunk_overlap, rag_chunk_separators, rag_add_start_index, rag_search_limit", "ollama_base_url, ollama_model, ollama_timeout_seconds, ollama_options", "tts_piper_models_dir"],
+      "notes": "The TTS stage actually synthesizes audio via a real speak() + wait_until_done(timeout=10s), so it needs piper models present or it times out/fails. Constructs RAGPipeline directly (not the factory) and OllamaLLMService directly. Heuristically subtracts translation time from LLM time. Non-English queries run translation on the raw question; TTS synthesized even for English."
+    },
+    {
+      "path": "scripts/update_questions_yaml.py",
+      "purpose": "One-off maintenance script that patches expected_answer_keywords and expected_sources in evaluation/questions.yaml for 11 question IDs (LIB/ADM/DEP/PLC/HST) to match the canonical dataset.",
+      "key_symbols": ["main()", "updates dict"],
+      "terms": [
+        {"term": "canonical dataset", "definition": "The curated knowledge-base markdown files (e.g. facilities/campus_guide_canonical.md, 03-admissions-fees/under-graduate-program.md) treated as the ground truth for expected sources."},
+        {"term": "expected_answer_keywords", "definition": "Canonical answer keywords stored per question in evaluation/questions.yaml that the generated reply is checked against."},
+        {"term": "expected_sources", "definition": "Canonical knowledge-base file paths associated with each benchmark question that the reply should be grounded in."}
+      ],
+      "config": [],
+      "notes": "Hardcoded per-ID update map; rewrites the entire questions.yaml (questions: list) with sort_keys=False, allow_unicode=True — a destructive overwrite if the file's schema evolves. Readable as an audit trail of how the benchmark expectations were aligned with the canonical KB."
+    },
+    {
+      "path": "scripts/verify_rag_queries.py",
+      "purpose": "Batch RAG verification runner that executes 10 mandatory queries against a chat service built from campus_helpdesk.touch_app.build_chat_service and emits a PASS/FAIL verdict per query plus a JSON results file.",
+      "key_symbols": ["TEST_QUERIES", "run_verification()"],
+      "terms": [
+        {"term": "grounded response", "definition": "An answer backed by retrieved KB context; here verified as the reply NOT containing the hardcoded refusal string when KB data exists."},
+        {"term": "correct refusal", "definition": "Declining to answer when the queried entity is genuinely absent from the KB (special-cased 'Where is Block 7?') rather than hallucinating."},
+        {"term": "confidence_score", "definition": "The numeric confidence assigned by the pipeline to the answer, read off the ChatResult."},
+        {"term": "confidence_level", "definition": "The discretized confidence bucket accompanying the confidence score."}
+      ],
+      "config": ["get_settings / configure_logging via src", "Output: rag_verification_results.json in cwd"],
+      "notes": "Imports campus_helpdesk.touch_app (a separate entry-point module) rather than the src factory. Hardcodes the refusal string 'I couldn't find that information in my knowledge base' and special-cases 'Where is Block 7?' as a missing entity, so verdicts are tuned to that single interaction text. Writes the results JSON to the repo root cwd."
+    },
+    {
+      "path": "scripts/verify_project.py",
+      "purpose": "Project-level verification gate that runs an analytics import smoke test, ruff lint, and pytest (with coverage) via subprocess, writes a structured JSON report under data/analytics/reports/, and exits non-zero on any failure.",
+      "key_symbols": ["PROJECT_ROOT", "REPORT_DIR", "_run()", "run_pytest()", "run_ruff()", "run_smoke_test()", "main()"],
+      "terms": [
+        {"term": "smoke test", "definition": "Importing key analytics symbols to catch import-time errors before running the full suite."},
+        {"term": "coverage", "definition": "pytest-cov report measuring what fraction of campus_helpdesk modules the tests execute."},
+        {"term": "ruff", "definition": "The Python linter invoked as `python -m ruff check` over src/."},
+        {"term": "verification report", "definition": "The timestamped JSON (with per-check exit codes and truncated output) saved under data/analytics/reports/."}
+      ],
+      "config": ["CLI: --phase (analytics | all, default all)", "REPORT_DIR = data/analytics/reports (cwd of repo root)"],
+      "notes": "The smoke test only covers the analytics package imports; --phase analytics restricts both pytest and ruff to the analytics module. Subprocess invocations use sys.executable so they run inside the active venv. Captured command output is truncated to the last 2000 chars. This is the gate referenced in CLAUDE.md's verification command."
+    }
+  ],
+  "data_flow": "Most scripts are standalone CLI tools that run from the repo root using cwd-relative paths. compare_baseline_vs_optimized.py is the central producer: it builds two RAGChatService instances (via src imports of create_rag_pipeline / create_llm_service) and writes evaluation/results/baseline_vs_optimized_comparison.json. The downstream consumers — analyze_all_failures.py, export_all_21_failures.py, audit_evaluation_4_categories.py, fresh_audit.py, generate_comparison_report.py, deep_diagnose_21_failures.py, diagnose_each_failure.py, inspect_dep001.py, inspect_remaining_3_incorrect.py — read that JSON (plus evaluation/questions.yaml for expected keywords/sources) and produce further artifacts in evaluation/results/ (failed_questions_analysis.json, all_21_failures_full.json, audited_4_category_benchmark.json, full_comparison_report.md). Pipeline-exercising scripts (compare_baseline_vs_optimized.py, diagnose_retrieval_failures.py, measure_baseline_timing.py, test_retrieval.py, test_retrieval_tuning.py, test_pipeline_timing.py, verify_rag_queries.py) import from src/ and call RAGChatService.respond / create_rag_pipeline / create_llm_service, which requires a live Ollama server, a loaded FAISS index, and the local sentence-transformer embedding model; measure_baseline_timing.py writes per-stage timings to logs/. benchmark.py delegates to the evaluation/benchmarks package (RetrievalBenchmark -> RetrievalPlotter -> RetrievalReportGenerator), writing reports under evaluation/reports/. The dataset generators (generate_full_evaluation_dataset.py, generate_real_world_dataset.py) write evaluation/datasets/real_world.yaml. verify_project.py shells out to pytest, ruff, and coverage, writing its JSON verification report to data/analytics/reports/.",
+  "external_deps": [
+    "PyYAML (yaml.safe_load / yaml.safe_dump) — all dataset and questions.yaml readers/writers",
+    "pytest + pytest-cov (invoked via subprocess by verify_project.py)",
+    "ruff (invoked via subprocess by verify_project.py)",
+    "FAISS vector index via src FAISSSimilarityStore (compare_baseline_vs_optimized.py, diagnose_retrieval_failures.py, measure_baseline_timing.py, test_retrieval.py, test_retrieval_tuning.py, test_pipeline_timing.py)",
+    "sentence-transformers embeddings via src (test_retrieval.py, test_pipeline_timing.py)",
+    "Ollama LLM service via src (live server required for any script that calls respond/generate)",
+    "Piper TTS models (test_pipeline_timing.py TTS stage)",
+    "evaluation/benchmarks package: retrieval_benchmark.py, retrieval_plotter.py, retrieval_report_generator.py (benchmark.py)",
+    "campus_helpdesk.touch_app.build_chat_service (verify_rag_queries.py)",
+    "Standard library: json, argparse, hashlib, subprocess, time, tracemalloc, pathlib"
+  ],
+  "risks": [
+    "Hardcoded cwd-relative paths (evaluation/..., data/..., logs/...) — the scripts only behave correctly when run from the repo root; several silently no-op if their input JSON is absent.",
+    "benchmark.py contains dead, broken dry-run wiring that references the undefined name benchmark_engine_mock_adapter (survives only because a `if False` ternary short-circuits to None); the advertised mock-adapter dry-run mode is non-functional.",
+    "compare_baseline_vs_optimized.py constructs Settings objects explicitly, bypassing the config.yaml/.env precedence rules, so baseline/optimized results can silently diverge from the production configuration (config-drift risk flagged in CLAUDE.md).",
+    "Correctness/refusal/hallucination classification is heuristic throughout: substring keyword coverage plus hardcoded refusal-phrase lists and URL domain whitelists — prone to misclassification and overfitting to the 35-question benchmark.",
+    "Fragile introspection of private pipeline internals (pipeline._similarity_store, ._reranker, hybrid.bm25_store, hybrid._bm25_indexed) and runtime monkey-patching of instance methods (measure_baseline_timing.py) — breaks on any internal refactor.",
+    "test_retrieval.py builds embeddings/FAISS/loader/chunker objects it never uses, then re-creates everything through the factory — dead construction and duplicated config wiring.",
+    "test_retrieval_tuning.py re-implements the entire RRF fusion loop by hand instead of calling hybrid_retriever.search — a drift-prone copy of production logic.",
+    "generate_full_evaluation_dataset.py and generate_real_world_dataset.py are near-duplicates both writing evaluation/datasets/real_world.yaml with empty expected_answer/expected_citations placeholders; running one silently overwrites the other.",
+    "verify_rag_queries.py hardcodes a single refusal string and special-cases 'Where is Block 7?', so its PASS/FAIL verdicts are tuned to that specific interaction text.",
+    "Minor hygiene issues: fresh_audit.py opens files without explicit encoding; inspect_dep001.py executes at import time; benchmark_conversation_memory.py's <10ms latency assertion is potentially flaky.",
+    "These scripts are standalone tooling not collected by pytest, so regressions in the evaluation harness itself are not caught by the CI/verify gate."
+  ]
+}

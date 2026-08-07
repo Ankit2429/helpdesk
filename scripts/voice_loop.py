@@ -6,12 +6,10 @@ and NonBlockingTTSService to provide a hands-free, turn-by-turn voice interactio
 
 import argparse
 import logging
-import os
 import sys
 import time
 import wave
 from pathlib import Path
-from typing import Optional
 
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8")
@@ -21,7 +19,6 @@ sys.path.insert(0, str(Path(__file__).parent.parent / "src"))
 
 import numpy as np
 from campus_helpdesk.application.rag_chat_service import RAGChatService
-from campus_helpdesk.config.logging import configure_logging
 from campus_helpdesk.config.settings import get_settings
 from campus_helpdesk.infrastructure.audio.stt_service import FasterWhisperSTTService
 from campus_helpdesk.infrastructure.audio.tts_service import NonBlockingTTSService
@@ -61,7 +58,7 @@ def convert_wav_to_16k_mono_pcm(wav_path: Path) -> bytes:
     return samples.tobytes()
 
 
-def generate_synthetic_audio(text: str, output_wav: Path) -> Optional[bytes]:
+def generate_synthetic_audio(text: str, output_wav: Path) -> bytes | None:
     """Generate synthetic audio using pyttsx3 or fallback to valid PCM WAV."""
     try:
         if output_wav.exists():
@@ -152,7 +149,7 @@ class VoiceConversationLoop:
         print(" Say 'exit', 'quit', or 'goodbye' to stop the session cleanly.")
         print("=" * 76 + "\n")
 
-    def run_turn(self, turn_number: int, pcm_bytes: Optional[bytes] = None, prompt_hint: Optional[str] = None) -> bool:
+    def run_turn(self, turn_number: int, pcm_bytes: bytes | None = None, prompt_hint: str | None = None) -> bool:
         """Process a single turn of voice conversation.
 
         Returns True to continue loop, False to exit cleanly.

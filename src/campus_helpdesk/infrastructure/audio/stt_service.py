@@ -147,16 +147,16 @@ class FasterWhisperSTTService:
         mic_kwargs = {"device_index": device_index} if device_index is not None else {}
         return sr.Microphone(**mic_kwargs)
 
-    def _calibrate_microphone(self, recognizer, source, duration: float = 1.0) -> None:
-        """Calibrate recognizer energy thresholds for ambient noise."""
+    def _calibrate_microphone(self, recognizer, source, duration: float = 0.2) -> None:
+        """Calibrate recognizer energy thresholds for ambient noise (fast 0.2s for responsive click-to-talk)."""
         logger.info(f"[INFO] Calibrating ambient noise ({duration}s)...")
         recognizer.adjust_for_ambient_noise(source, duration=duration)
         # Avoid setting the energy threshold too high or too low
         recognizer.energy_threshold = max(min(recognizer.energy_threshold, 300), 80)
         recognizer.dynamic_energy_threshold = False  # Disable to prevent dynamic drift
-        recognizer.pause_threshold = 1.2             # Allow natural pauses during speech
-        recognizer.phrase_threshold = 0.3
-        recognizer.non_speaking_duration = 0.8
+        recognizer.pause_threshold = 0.8             # Fast responsive speech end detection
+        recognizer.phrase_threshold = 0.2
+        recognizer.non_speaking_duration = 0.5
 
     def _record_audio(self, recognizer, source, timeout: int = 8, phrase_time_limit: int = 15):
         """Capture live speech from microphone source."""
@@ -285,7 +285,7 @@ class FasterWhisperSTTService:
             mic = self._open_microphone(device_index)
 
             with mic as source:
-                self._calibrate_microphone(recognizer, source, duration=1.0)
+                self._calibrate_microphone(recognizer, source, duration=0.2)
                 audio = self._record_audio(recognizer, source, timeout=timeout, phrase_time_limit=phrase_time_limit)
 
             if audio is None:

@@ -1,0 +1,184 @@
+{
+  "folder": "src/campus_helpdesk/infrastructure/vision/",
+  "title": "Infrastructure: vision stack (robot)",
+  "purpose": "This is the robot webcam/perception subsystem: it owns the single physical VideoCapture device (CameraManager + camera_utils) and provides an offline intent-based perception pipeline (PersonDetector -> multi-person ByteTracker -> single-user selection -> head pose/gaze estimation -> engagement state machine -> multilingual greeting generation) that decides when the robot should treat a person as an engaged user and greet them. It is a hardware-decoupled, sibling concern to the event-bus-driven services/vision_service.py detection path. Notably, only CameraManager is actually wired into the production robot (via CameraService); the full intent/greeting pipeline is only instantiated by the demo desktop GUI (demo.py).",
+  "files": [
+    {
+      "path": "src/campus_helpdesk/infrastructure/vision/__init__.py",
+      "purpose": "Subpackage public-API module that re-exports the vision stack's main detector class for importers.",
+      "key_symbols": [
+        "PersonDetector (re-export from person_detector)",
+        "__all__ = [\"PersonDetector\"]"
+      ],
+      "terms": [],
+      "config": [],
+      "notes": "Only PersonDetector is re-exported; every other module (CameraManager, IntentPerceptionEngine, ByteTracker, HeadPoseGazeEstimator, GreetingManager, camera_utils) must be imported from its own module."
+    },
+    {
+      "path": "src/campus_helpdesk/infrastructure/vision/camera_manager.py",
+      "purpose": "Thread-safe singleton that guarantees exactly one cv2.VideoCapture in the process, runs a dedicated capture thread distributing the latest frame to subscribers with no buffer buildup, plus an out-of-band async detection thread that produces annotated frames and a person_detected flag.",
+      "key_symbols": [
+        "CameraManager (class)",
+        "get_instance() classmethod / _instance / _singleton_lock (singleton pattern)",
+        "start_camera(requested_index=0, resolution=(1280,720), target_fps=30)",
+        "stop_camera()",
+        "is_running()",
+        "set_detector(detector)",
+        "get_latest_frame() -> (raw_frame, annotated_frame, diagnostics_dict)",
+        "subscribe(callback) / unsubscribe(callback)",
+        "_capture_loop() (capture thread)",
+        "_detection_loop() (async detection thread, ~20 FPS)",
+        "Diagnostics/metrics fields: _frames_captured, _frames_dropped, _fps, _acquisition_latency_ms, _detection_latency_ms, _person_detected"
+      ],
+      "terms": [
+        {"term": "singleton", "definition": "Design pattern ensuring only one CameraManager/CameraManager._instance exists so the physical webcam device is opened by exactly one VideoCapture handle; constructor raises if instantiated twice."},
+        {"term": "VideoCapture", "definition": "OpenCV object wrapping a physical camera device; here a single instance is owned by CameraManager and read only inside its capture thread to avoid multi-handle DirectShow contention on Windows."},
+        {"term": "frame buffer buildup", "definition": "Latency accumulation caused by an unbuffered camera queue delivering stale frames; CameraManager avoids it by overwriting _latest_frame with each new capture so subscribers only ever see the newest frame."},
+        {"term": "subscriber callback", "definition": "A callable registered via subscribe() that receives a copy of every freshly captured frame; invoked synchronously on the capture thread, so a slow subscriber can stall acquisition."},
+        {"term": "annotated frame", "definition": "The current frame with detection/gaze overlays drawn, produced asynchronously by the detection thread and exposed via get_latest_frame(); set only when a detector is installed."}
+      ],
+      "config": [],
+      "notes": "Detection loop only does anything after set_detector() is called; it duck-types an object exposing detect_in_frame(frame) returning res.annotated_frame and res.person_detected (the interface implemented by PersonDetector). No caller in the repo actually calls set_detector(), so the annotation path is effectively dead in production. Capture thread flushes the first 5 frames as sensor warmup (auto-exposure/auto-gain), sleeps ~33ms per loop to hold 30 FPS, and treats 5 consecutive failed reads as a retry-with-backoff event. Subscriber callbacks are invoked synchronously under no lock but iteration copies the subscriber list."
+    },
+    {
+      "path": "src/campus_helpdesk/infrastructure/vision/camera_utils.py",
+      "purpose": "Camera device discovery and initialization helpers: reports OpenCV/platform metadata, scans indices 0..N across DirectShow/CAP_ANY backends, and intelligently opens a camera with resolution/FPS setting, a minimized internal buffer, frame-read retry, and a diagnostics dict.",
+      "key_symbols": [
+        "get_opencv_info()",
+        "scan_available_cameras(max_indices=4) -> list of camera metadata dicts",
+        "open_camera_intelligently(requested_index=0, resolution=(1280,720), target_fps=30, fallback_indices=None) -> (VideoCapture|None, meta_dict)",
+        "Backend tuples: DirectShow (cv2.CAP_DSHOW) then CAP_ANY on Windows, CAP_ANY otherwise"
+      ],
+      "terms": [
+        {"term": "DirectShow backend", "definition": "Windows OpenCV video backend (cv2.CAP_DSHOW) tried first on win32/nt before the generic CAP_ANY backend, because it is more reliable for webcams and exposes the device by index."},
+        {"term": "CAP_ANY", "definition": "OpenCV's automatic backend selector constant; used as the cross-platform fallback when DirectShow is unavailable."},
+        {"term": "CAP_PROP_BUFFERSIZE", "definition": "OpenCV property controlling the camera driver's internal frame queue; set to 1 here to eliminate latency buildup from queued stale frames."},
+        {"term": "camera index", "definition": "Integer device identifier (0, 1, 2, ...) used to open a webcam; open_camera_intelligently tries the requested index then fallback indices [0,1,2]."}
+      ],
+      "config": [],
+      "notes": "Fallback indices default to [0, 1, 2]; a requested_index >= 90 or < 0 yields a single-candidate list (a sentinel-style path, likely used by mock/headless configurations). On failure returns (None, meta) with meta['status']=='failed' and an error message. Frame-read is retried up to 3 times. Resolution/FPS requested via cap.set() but the actual negotiated values are reported back in meta."
+    },
+    {
+      "path": "src/campus_helpdesk/infrastructure/vision/gaze_estimator.py",
+      "purpose": "Estimates 3D head pose (pitch/yaw/roll), face distance in meters, and whether the person is looking at the camera, using MediaPipe Face Mesh landmarks solved with cv2.solvePnP and falling back to a geometry-based heuristic from the face-box position when MediaPipe is unavailable.",
+      "key_symbols": [
+        "GazeResult (dataclass: pitch, yaw, roll, distance_m, is_looking, gaze_label)",
+        "HeadPoseGazeEstimator (class)",
+        "model_points (6-point 3D generic facial model: nose tip, chin, eye corners, mouth corners)",
+        "_init_mediapipe() (lazy MediaPipe Face Mesh init)",
+        "estimate(frame, face_box) -> GazeResult"
+      ],
+      "terms": [
+        {"term": "head pose", "definition": "3D orientation of the head expressed as pitch (up/down), yaw (left/right), and roll (tilt) angles in degrees, computed from facial landmarks."},
+        {"term": "solvePnP", "definition": "OpenCV Perspective-n-Point function that estimates an object's rotation and translation vectors by matching known 3D model points to their 2D image positions; used here to derive the face's rotation matrix."},
+        {"term": "RQDecomp3x3", "definition": "OpenCV decomposition that extracts Euler angles (pitch/yaw/roll) from a rotation matrix; combined with cv2.Rodrigues to convert the solvePnP rotation vector."},
+        {"term": "MediaPipe Face Mesh", "definition": "Optional (lazily imported) facial-landmark model mapping a face to 468 landmarks; landmarks 1, 152, 33, 263, 61, 291 are used here as the solvePnP image points."},
+        {"term": "focal length calibration", "definition": "Approximation used to turn face pixel width into meters: assumes real human face width ~0.15m and focal length equal to image width, giving distance_m = (0.15 * w_img) / face_width."}
+      ],
+      "config": [],
+      "notes": "is_looking is a hard threshold: looking iff |pitch|<=20 deg and |yaw|<=20 deg. gaze_label uses emoji strings ('\\U0001F441 Looking'/'\\U0001F648 Not Looking') which may render incorrectly in non-UTF-8 terminals. The OpenCV fallback (MediaPipe absent) derives yaw/pitch purely from the face box's offset from frame center, scaled to +/-30 and +/-20 degrees — a rough heuristic, not real gaze. Distance math is duplicated (also approximated in intent_engine/tracker callers)."
+    },
+    {
+      "path": "src/campus_helpdesk/infrastructure/vision/greeting_manager.py",
+      "purpose": "Generates time-aware and randomized multilingual greetings (English, Kannada, Hindi) for the robot with cooldown debouncing and an optional per-session guard that prevents repeat greetings while the same person remains in view.",
+      "key_symbols": [
+        "GreetingManager (class)",
+        "multilingual_greetings (dict: 'en'/'kn'/'hi' with morning/afternoon/evening/hello + greeting pool)",
+        "is_cooldown_active(user_id=None)",
+        "generate_greeting(user_name=None, user_id=None, language='en') -> str",
+        "reset_session()",
+        "reset_cooldown()",
+        "constructor params: cooldown_seconds=7.0, per_session_guard=True"
+      ],
+      "terms": [
+        {"term": "cooldown debouncing", "definition": "Preventing the robot from greeting too often by requiring a minimum time (default 7.0s) between any two greetings before a new one may fire."},
+        {"term": "per-session guard", "definition": "A latch (_session_greeted) that blocks all further greetings for the lifetime of the current presence session, independent of the cooldown timer; cleared only by reset_session()/reset_cooldown() when the person leaves."},
+        {"term": "presence session", "definition": "The span of time a single person is in view; while it is active the per-session guard prevents repeated greetings even if tracker IDs recycle."}
+      ],
+      "config": [],
+      "notes": "Instantiating default cooldown is 7.0s, matching the value used by IntentPerceptionEngine. Time buckets: morning 5-12, afternoon 12-17, evening 17-22, otherwise generic hello. Greeting copy is college-specific, referencing 'KLE Technological University' and the robot name 'Sparky'. reset_session() clears only the session guard (cooldown timer survives), reset_cooldown() clears both."
+    },
+    {
+      "path": "src/campus_helpdesk/infrastructure/vision/intent_engine.py",
+      "purpose": "The perception state machine that updates multi-person tracking, selects a single primary candidate inside the interaction zone, verifies continuous head-pose/gaze engagement for >=2.0s, fires greeting/engaged/disengaged callbacks, and renders diagnostic overlays on the annotated frame.",
+      "key_symbols": [
+        "RobotPerceptionState (Enum: IDLE, PERSON_DETECTED, TRACKING, VERIFY_INTENT, ATTENTION_CONFIRMED, GREETING, INTERACTION)",
+        "IntentResult (dataclass: state, active_person, gaze, annotated_frame, engagement_sec, disengage_sec, greeting_text)",
+        "IntentPerceptionEngine (class)",
+        "process_frame(frame, raw_detections) -> IntentResult",
+        "_check_disengagement_timeout(now)",
+        "_draw_diagnostic_overlays(...) / _draw_state_overlay(...)",
+        "reset()",
+        "callbacks: on_user_engaged(TrackedPerson), on_user_disengaged(), on_greeting_triggered(greeting_text, language)",
+        "constructor defaults: min_interaction_dist=0.5, max_interaction_dist=2.0, engagement_required_sec=2.0, disengage_timeout_sec=1.0, active_language='en'"
+      ],
+      "terms": [
+        {"term": "interaction zone", "definition": "A distance band (0.5-2.0m) in front of the robot within which a person is eligible to be the primary user; people outside are ignored as passersby/onlookers."},
+        {"term": "perception state machine", "definition": "The discrete robot states (IDLE -> PERSON_DETECTED -> TRACKING -> VERIFY_INTENT -> ATTENTION_CONFIRMED -> GREETING -> INTERACTION) that gate how the robot reacts to camera input."},
+        {"term": "engagement", "definition": "Continuous evidence that the primary person is attending to the robot: within the interaction zone and gaze.is_looking (pitch/yaw within +/-20 deg) for at least engagement_required_sec (2.0s)."},
+        {"term": "engagement_sec / disengage_sec", "definition": "Accumulated seconds the active user has been continuously engaged (or turned away) while the timer is active, used to confirm attention and to reset to IDLE."},
+        {"term": "lock-on", "definition": "Once a primary candidate is chosen, active_track_id pins the interaction to that single track ID for the rest of the session until they leave or disengage."}
+      ],
+      "config": [],
+      "notes": "Owns its collaborators directly: GreetingManager(cooldown_seconds=7.0), ByteTracker(max_lost_frames=15, iou_threshold=0.3), HeadPoseGazeEstimator(). Distance is re-approximated here as (0.15 * w_img) / max(10, fw) rather than reusing the gaze estimator's distance. At ATTENTION_CONFIRMED a greeting fires only if GreetingManager's cooldown/per-session guard allows it, then the state advances immediately to INTERACTION and on_user_engaged is called. The docstring describes a 5-stage sequence while the Enum defines 7 states (VERIFY_INTENT and GREETING are the extras). on_greeting_triggered callback is wrapped in try/except; other callbacks are not."
+    },
+    {
+      "path": "src/campus_helpdesk/infrastructure/vision/person_detector.py",
+      "purpose": "Top-level detection entry point that converts a raw BGR frame into raw detections (Haar frontal-face cascade first, HOG person detector as fallback), feeds them into the IntentPerceptionEngine, and reports person presence/left with hysteresis via callbacks and a tuple-compatible DetectionResult.",
+      "key_symbols": [
+        "DetectionResult (tuple subclass carrying person_detected, annotated_frame, face_center, face_forward while preserving 2-tuple unpacking)",
+        "PersonDetector (class)",
+        "detect_in_frame(frame) -> DetectionResult",
+        "reset()",
+        "properties: is_person_present, greeted_this_session",
+        "_init_detector() (loads Haar face cascade, Haar eye cascade, HOG default people detector)",
+        "_handle_user_engaged(active_user) / _handle_user_disengaged() / _handle_greeting_triggered(greeting_text, language)",
+        "constructor params: webcam_index=0, reset_frames_threshold=30, on_person_entered, on_person_left, on_greeting_triggered"
+      ],
+      "terms": [
+        {"term": "Haar cascade", "definition": "OpenCV cascade classifier trained on frontal faces (haarcascade_frontalface_default.xml) used as the primary detector; runs on a 320px-wide downscaled grayscale frame for speed."},
+        {"term": "HOG descriptor", "definition": "OpenCV Histogram-of-Oriented-Gradients people detector (HOGDescriptor_getDefaultPeopleDetector) used as a fallback when no faces are found, detecting whole-body boxes."},
+        {"term": "hysteresis", "definition": "Debouncing that requires a sustained run of misses (_missing_counter >= reset_frames_threshold=30 frames) before declaring the person gone, and fires on_person_left only then to avoid flicker."},
+        {"term": "downscale to 320px width", "definition": "The frame is resized to a 320px-wide grayscale image before detection, and resulting boxes are scaled back to full resolution, to keep face/person detection ultra-fast on the Pi."}
+      ],
+      "config": [
+        "settings.webcam_index (passed as webcam_index by demo.py)",
+        "settings.person_detection_reset_frames (passed as reset_frames_threshold by demo.py; default 30)"
+      ],
+      "notes": "Detection confidences are hardcoded (faces 0.95, HOG 0.75). detect_in_frame contains its own person-entered/left hysteresis logic (lines ~185-199) IN ADDITION to the intent-engine callbacks (_handle_user_engaged/_handle_user_disengaged), so on_person_entered/on_person_left can be double-fired. The infra PersonDetector is only instantiated in demo.py (desktop GUI); robot_main.py uses services.vision_service.MockPersonDetector instead, so this full intent/greeting pipeline is not part of the production robot path."
+    },
+    {
+      "path": "src/campus_helpdesk/infrastructure/vision/tracker.py",
+      "purpose": "Persistent multi-person tracker that assigns stable integer IDs to detected people across consecutive frames via greedy IoU matching and centroid updates, pruning stale tracks and returning the current frame's active tracks.",
+      "key_symbols": [
+        "TrackedPerson (dataclass: track_id, bbox, centroid, confidence, first_seen, last_seen, lost_count, is_active_user; area property)",
+        "compute_iou(boxA, boxB)",
+        "ByteTracker (class: update(detections), max_lost_frames=15, iou_threshold=0.3, next_id, tracks dict)"
+      ],
+      "terms": [
+        {"term": "IoU", "definition": "Intersection over Union — the overlap of two bounding boxes divided by their union; used to decide whether a detection matches an existing track."},
+        {"term": "track", "definition": "A stable identity (track_id) attached to one person across frames; matched by highest IoU and updated with the newest bbox, centroid, and confidence."},
+        {"term": "lost_count / max_lost_frames", "definition": "Frames a track has gone unmatched; tracks are deleted once lost_count exceeds max_lost_frames (15) and only tracks with lost_count==0 are returned as active."},
+        {"term": "centroid", "definition": "The center pixel (cx, cy) of a detection box, stored on each track and used for distance/position logic by the intent engine."}
+      ],
+      "config": [],
+      "notes": "Despite the name, this is NOT the academic BYTETrack algorithm — it is a simplified custom greedy-IoU + centroid tracker with no Kalman filter, velocity prediction, or two-stage low-score association, so track IDs can swap under occlusion or fast motion. Matching is greedy: repeatedly takes the highest-IoU pair above the threshold and zeroes that row/column."
+    }
+  ],
+  "data_flow": "CameraService (services/camera_service.py) is the production consumer of the camera half: on initialize() it calls CameraManager.get_instance().start_camera(index, resolution, fps) and its _read_frame() pulls raw frames from CameraManager.get_latest_frame() (deliberately NOT opening a second VideoCapture, to avoid DirectShow contention); system_runtime.py probes CameraManager.is_running() during startup health checks and passes the camera-ok signal into event handling. The perception half (PersonDetector -> IntentPerceptionEngine -> ByteTracker / HeadPoseGazeEstimator / GreetingManager) is instantiated only in demo.py and handed to ModernChatWindow (presentation/chat_window.py) as the desktop GUI detector; its outputs are annotated frames plus callbacks (on_person_entered, on_person_left, on_greeting_triggered) that drive GUI/robot reactions. In robot_main.py the production stack instead wires services/vision_service.py (VisionService + MockPersonDetector/HOGPersonDetector) onto the event bus — a parallel, independent detection implementation. CameraManager.set_detector() exists to attach a PersonDetector-style object to its async detection thread, but no code path calls it. Data passed is always raw BGR numpy frames in and (raw, annotated, diagnostics) tuples / IntentResult / DetectionResult out.",
+  "external_deps": [
+    "OpenCV (cv2): VideoCapture, CascadeClassifier (haarcascade_frontalface_default.xml, haarcascade_eye.xml), HOGDescriptor default people detector, solvePnP/Rodrigues/RQDecomp3x3, cap properties (CAP_DSHOW, CAP_ANY, CAP_PROP_BUFFERSIZE)",
+    "numpy (ndarray frames, IoU matrix, model points)",
+    "MediaPipe (optional, lazily imported mediapipe.solutions.face_mesh for gaze estimation; skipped gracefully when absent)",
+    "DirectShow (Windows video backend via cv2.CAP_DSHOW)"
+  ],
+  "risks": [
+    "Only CameraManager is wired into the production robot; the entire intent/greeting perception pipeline (PersonDetector, IntentPerceptionEngine, tracker, gaze, greetings) is dead code in robot_main.py — it runs only in the demo GUI (demo.py), while a parallel, duplicate detection stack (VisionService + HOGPersonDetector/MockPersonDetector) is used on the event bus.",
+    "No code path ever calls CameraManager.set_detector(), so the async detection thread is a no-op in production: _latest_annotated_frame and _person_detected are never populated.",
+    "Gaze and distance are heuristics, not metrology: distance assumes a 0.15m face and focal length equal to image width; the OpenCV gaze fallback derives pitch/yaw purely from the face box's offset from frame center; the intent engine re-computes distance with its own copy of the same formula.",
+    "PersonDetector.detect_in_frame duplicates the person-entered/left logic on top of the intent-engine callbacks, which can double-fire on_person_entered/on_person_left.",
+    "ByteTracker is a simplified custom greedy-IoU tracker (no Kalman prediction), so track IDs can swap under occlusion/fast motion, which can confuse the per-session greeting guard.",
+    "GazeResult.gaze_label uses emoji ('Looking'/'Not Looking') and the overlay drawing is fixed-size (e.g. 520x48 badge) — brittle for small frames and non-UTF-8 output sinks.",
+    "CameraManager invokes subscriber callbacks synchronously on the capture thread; a slow subscriber stalls frame acquisition and inflates the 30 FPS loop timing."
+  ]
+}

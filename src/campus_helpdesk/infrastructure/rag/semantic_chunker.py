@@ -14,7 +14,7 @@ class SemanticDocumentChunker:
     def __init__(
         self,
         chunk_size: int = 800,
-        chunk_overlap: int = 120,
+        chunk_overlap: int = 200,
         separators: Sequence[str] = ("\n\n", "\n", " ", ""),
         add_start_index: bool = False,
     ) -> None:

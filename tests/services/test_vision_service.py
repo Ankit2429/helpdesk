@@ -6,10 +6,18 @@ Coverage:
 1.  Mock detector operation and BasePersonDetector interface
 2.  VisionService start, stop, shutdown lifecycles
 3.  Frame queue ingestion and newest-frame-wins drop behavior
-4.  State debouncing (min_hits=3 and min_misses=10)
-5.  Event publication and duplicate prevention
-6.  Thread safety under load
-7.  Latency benchmarks (detection latency < 40 ms/frame)
+4.  Legacy frame-count debouncing (backward-compat: min_hits / min_misses)
+5.  Dual-gate: 3-second confirmation window suppresses passersby
+6.  Dual-gate: 3-second continuous presence triggers PERSON_DETECTED
+7.  Confidence threshold: sub-threshold detections do not count as hits
+8.  Absence timeout: brief absence (<timeout) does NOT fire PERSON_LEFT
+9.  Absence timeout: sustained absence (≥timeout) fires PERSON_LEFT
+10. Per-session greeting guard: PERSON_DETECTED fires exactly once per session
+11. Session reset: PERSON_DETECTED fires again after PERSON_LEFT resets session
+12. Event publication duplicate prevention
+13. Thread safety under load
+14. Latency benchmarks (detection latency < 40 ms/frame)
+15. Greeting latency benchmark (first-hit → PERSON_DETECTED ≥ confirmation_window)
 """
 
 from __future__ import annotations
@@ -51,6 +59,23 @@ def _make_frame_event(frame_num: int, img_bytes: bytes) -> EventEnvelope:
     )
 
 
+def _make_jpeg() -> bytes:
+    """Return minimal valid JPEG bytes."""
+    _, encoded = cv2.imencode(".jpg", np.zeros((100, 100, 3), dtype=np.uint8))
+    return encoded.tobytes()
+
+
+def _publish_hits(bus: EventBus, img_bytes: bytes, count: int, start: int = 1) -> None:
+    """Synchronously publish N FRAME_CAPTURED events."""
+    for i in range(count):
+        bus.publish_sync(_make_frame_event(start + i, img_bytes))
+
+
+# ---------------------------------------------------------------------------
+# Fixtures
+# ---------------------------------------------------------------------------
+
+
 @pytest.fixture
 def bus() -> EventBus:
     b = EventBus(maxsize=1000, max_workers=2, name="test-vision-bus")
@@ -64,13 +89,41 @@ def mock_detector() -> MockPersonDetector:
 
 
 @pytest.fixture
-def vision(bus: EventBus, mock_detector: MockPersonDetector) -> VisionService:
+def img_bytes() -> bytes:
+    return _make_jpeg()
+
+
+@pytest.fixture
+def vision_legacy(bus: EventBus, mock_detector: MockPersonDetector) -> VisionService:
+    """Legacy frame-count mode: confirmation_window=0, absence_timeout=0."""
     srv = VisionService(
         event_bus=bus,
         detector=mock_detector,
         min_hits=3,
-        min_misses=5,  # Shorten for faster tests
-        name="test-vision-service",
+        min_misses=5,
+        confirmation_window_sec=0.0,   # Disable time gate → frame-count only
+        absence_timeout_sec=0.0,        # Disable absence time → frame-count only
+        confidence_threshold=0.0,       # Accept any detection
+        greeting_once_per_session=False,
+        name="test-vision-legacy",
+    )
+    yield srv
+    srv.shutdown()
+
+
+@pytest.fixture
+def vision_timed(bus: EventBus, mock_detector: MockPersonDetector) -> VisionService:
+    """Full dual-gate mode with very short windows for fast test execution."""
+    srv = VisionService(
+        event_bus=bus,
+        detector=mock_detector,
+        min_hits=2,
+        min_misses=99,                  # Disable frame-count exit in this fixture
+        confirmation_window_sec=0.3,    # 300ms window — fast for tests
+        absence_timeout_sec=0.5,        # 500ms absence timeout
+        confidence_threshold=0.5,
+        greeting_once_per_session=True,
+        name="test-vision-timed",
     )
     yield srv
     srv.shutdown()
@@ -111,29 +164,36 @@ class TestPersonDetectors:
 
 
 class TestVisionLifecycle:
-    def test_start_stop_subscribes(self, bus: EventBus, vision: VisionService) -> None:
-        assert vision.is_running() is False
-        vision.start()
-        assert vision.is_running() is True
+    def test_start_stop_subscribes(
+        self, bus: EventBus, vision_legacy: VisionService
+    ) -> None:
+        assert vision_legacy.is_running() is False
+        vision_legacy.start()
+        assert vision_legacy.is_running() is True
 
-        # Check registered subscription count in event bus
         subs = bus.registered_subscribers()
         assert subs.get("FRAME_CAPTURED", 0) == 1
 
-        vision.stop()
-        assert vision.is_running() is False
+        vision_legacy.stop()
+        assert vision_legacy.is_running() is False
         subs = bus.registered_subscribers()
         assert subs.get("FRAME_CAPTURED", 0) == 0
 
 
 # ===========================================================================
-# 3. State Debouncing & Deduplication
+# 3. Legacy Frame-Count Debouncing (backward compat)
 # ===========================================================================
 
 
-class TestDebouncing:
-    def test_debounce_hits_and_misses(
-        self, bus: EventBus, vision: VisionService, mock_detector: MockPersonDetector
+class TestLegacyDebouncing:
+    """Verify original frame-count semantics still work when time gates are disabled."""
+
+    def test_legacy_hits_and_misses(
+        self,
+        bus: EventBus,
+        vision_legacy: VisionService,
+        mock_detector: MockPersonDetector,
+        img_bytes: bytes,
     ) -> None:
         detected_events: list[EventEnvelope] = []
         left_events: list[EventEnvelope] = []
@@ -151,52 +211,503 @@ class TestDebouncing:
             source="test-spy",
         )
 
-        vision.start()
+        vision_legacy.start()
 
-        # Generate dummy JPEG bytes
-        _, encoded = cv2.imencode(".jpg", np.zeros((100, 100, 3), dtype=np.uint8))
-        img_bytes = encoded.tobytes()
-
-        # Send 2 hits (threshold is 3) -> should not trigger event
+        # Send 2 hits (threshold is 3) → should not trigger event
         mock_detector.should_detect = True
-        bus.publish_sync(_make_frame_event(1, img_bytes))
-        bus.publish_sync(_make_frame_event(2, img_bytes))
+        _publish_hits(bus, img_bytes, 2)
         time.sleep(0.1)
         assert len(detected_events) == 0
 
-        # Send 3rd hit -> should trigger PERSON_DETECTED
+        # Send 3rd hit → should trigger PERSON_DETECTED
         bus.publish_sync(_make_frame_event(3, img_bytes))
         assert done_detected.wait(timeout=3.0)
         assert len(detected_events) == 1
         assert detected_events[0].payload.confidence == 0.95
 
-        # Send 4th hit -> duplicate check, should NOT publish another event
+        # Send 4th hit → duplicate check, should NOT publish another event
         bus.publish_sync(_make_frame_event(4, img_bytes))
         time.sleep(0.1)
         assert len(detected_events) == 1
 
-        # Now send misses to trigger PERSON_LEFT (threshold is min_misses=5 in test config)
+        # Now send misses to trigger PERSON_LEFT (threshold min_misses=5)
         mock_detector.should_detect = False
-        # Send 4 misses -> should not trigger left
         for i in range(4):
             bus.publish_sync(_make_frame_event(5 + i, img_bytes))
         time.sleep(0.1)
         assert len(left_events) == 0
 
-        # Send 5th miss -> should trigger PERSON_LEFT
+        # 5th miss → should trigger PERSON_LEFT
         bus.publish_sync(_make_frame_event(9, img_bytes))
         assert done_left.wait(timeout=3.0)
         assert len(left_events) == 1
         assert left_events[0].payload.frames_without_detection == 5
 
-        # Send 6th miss -> should NOT publish duplicate left event
+        # 6th miss → should NOT publish duplicate PERSON_LEFT
         bus.publish_sync(_make_frame_event(10, img_bytes))
         time.sleep(0.1)
         assert len(left_events) == 1
 
 
 # ===========================================================================
-# 4. Queue Behavior (Frame Skipping)
+# 4. Confidence Threshold
+# ===========================================================================
+
+
+class TestConfidenceThreshold:
+    def test_low_confidence_rejected(
+        self, bus: EventBus, mock_detector: MockPersonDetector, img_bytes: bytes
+    ) -> None:
+        """Detections below confidence_threshold must not count as hits."""
+        srv = VisionService(
+            event_bus=bus,
+            detector=mock_detector,
+            min_hits=2,
+            confirmation_window_sec=0.0,
+            absence_timeout_sec=0.0,
+            confidence_threshold=0.8,     # Threshold = 0.8
+            greeting_once_per_session=False,
+            name="test-conf-threshold",
+        )
+        detected_events: list[EventEnvelope] = []
+        bus.subscribe(
+            lambda e: detected_events.append(e),
+            EventType.PERSON_DETECTED,
+            source="test-conf-spy",
+        )
+        srv.start()
+
+        # Mock detector returns confidence=0.95 by default — set to 0.5 (below 0.8)
+        mock_detector.should_detect = True
+        mock_detector.confidence = 0.5     # Below threshold
+
+        for i in range(10):
+            bus.publish_sync(_make_frame_event(i, img_bytes))
+        time.sleep(0.2)
+
+        assert len(detected_events) == 0, "Low-confidence detections should not trigger PERSON_DETECTED"
+
+        srv.shutdown()
+
+    def test_high_confidence_accepted(
+        self, bus: EventBus, mock_detector: MockPersonDetector, img_bytes: bytes
+    ) -> None:
+        """Detections above confidence_threshold must contribute to the hit counter."""
+        done = threading.Event()
+        detected_events: list[EventEnvelope] = []
+        srv = VisionService(
+            event_bus=bus,
+            detector=mock_detector,
+            min_hits=2,
+            confirmation_window_sec=0.0,  # Disable time gate for this test
+            absence_timeout_sec=0.0,
+            confidence_threshold=0.8,
+            greeting_once_per_session=False,
+            name="test-conf-accept",
+        )
+        bus.subscribe(
+            lambda e: [detected_events.append(e), done.set()],
+            EventType.PERSON_DETECTED,
+            source="test-conf-accept-spy",
+        )
+        srv.start()
+
+        mock_detector.should_detect = True
+        mock_detector.confidence = 0.95   # Above threshold
+
+        for i in range(3):
+            bus.publish_sync(_make_frame_event(i, img_bytes))
+
+        assert done.wait(timeout=3.0), "High-confidence detections should trigger PERSON_DETECTED"
+        assert len(detected_events) >= 1
+
+        srv.shutdown()
+
+
+# ===========================================================================
+# 5. Dual-Gate: Time-Based Confirmation Window
+# ===========================================================================
+
+
+class TestConfirmationWindow:
+    def test_brief_passerby_suppressed(
+        self,
+        bus: EventBus,
+        mock_detector: MockPersonDetector,
+        img_bytes: bytes,
+    ) -> None:
+        """A person visible for less than confirmation_window_sec must NOT trigger PERSON_DETECTED."""
+        detected_events: list[EventEnvelope] = []
+        srv = VisionService(
+            event_bus=bus,
+            detector=mock_detector,
+            min_hits=2,
+            confirmation_window_sec=0.5,    # Require 500ms continuous visibility
+            absence_timeout_sec=0.0,
+            confidence_threshold=0.0,
+            greeting_once_per_session=True,
+            name="test-passerby",
+        )
+        bus.subscribe(
+            lambda e: detected_events.append(e),
+            EventType.PERSON_DETECTED,
+            source="test-passerby-spy",
+        )
+        srv.start()
+
+        # Simulate rapid passerby: 3 quick hits (< 200ms total), then disappears
+        mock_detector.should_detect = True
+        for i in range(3):
+            bus.publish_sync(_make_frame_event(i, img_bytes))
+            time.sleep(0.01)  # 10ms between frames ≈ 30ms total — well under 500ms
+
+        # Person leaves immediately
+        mock_detector.should_detect = False
+        bus.publish_sync(_make_frame_event(4, img_bytes))
+        time.sleep(0.2)
+
+        assert len(detected_events) == 0, (
+            "Passerby visible for <confirmation_window_sec should not trigger PERSON_DETECTED"
+        )
+        srv.shutdown()
+
+    def test_sustained_presence_triggers(
+        self,
+        bus: EventBus,
+        mock_detector: MockPersonDetector,
+        img_bytes: bytes,
+    ) -> None:
+        """A person visible continuously for ≥confirmation_window_sec MUST trigger PERSON_DETECTED."""
+        done = threading.Event()
+        detected_events: list[EventEnvelope] = []
+
+        srv = VisionService(
+            event_bus=bus,
+            detector=mock_detector,
+            min_hits=2,
+            confirmation_window_sec=0.3,    # 300ms window
+            absence_timeout_sec=0.0,
+            confidence_threshold=0.0,
+            greeting_once_per_session=True,
+            name="test-sustained",
+        )
+        bus.subscribe(
+            lambda e: [detected_events.append(e), done.set()],
+            EventType.PERSON_DETECTED,
+            source="test-sustained-spy",
+        )
+        srv.start()
+
+        mock_detector.should_detect = True
+        # Stream frames for ~500ms (well above 300ms window)
+        t_start = time.perf_counter()
+        fn = 0
+        while time.perf_counter() - t_start < 0.5:
+            bus.publish_sync(_make_frame_event(fn, img_bytes))
+            fn += 1
+            time.sleep(0.02)  # ~50 FPS publish rate
+
+        assert done.wait(timeout=2.0), (
+            "Person continuously visible for >confirmation_window_sec should trigger PERSON_DETECTED"
+        )
+        assert len(detected_events) == 1
+
+        srv.shutdown()
+
+    def test_interrupted_presence_resets_clock(
+        self,
+        bus: EventBus,
+        mock_detector: MockPersonDetector,
+        img_bytes: bytes,
+    ) -> None:
+        """A miss in the middle of the confirmation window resets the clock."""
+        detected_events: list[EventEnvelope] = []
+
+        srv = VisionService(
+            event_bus=bus,
+            detector=mock_detector,
+            min_hits=2,
+            confirmation_window_sec=0.5,    # 500ms window
+            absence_timeout_sec=0.0,
+            confidence_threshold=0.0,
+            greeting_once_per_session=True,
+            name="test-interrupted",
+        )
+        bus.subscribe(
+            lambda e: detected_events.append(e),
+            EventType.PERSON_DETECTED,
+            source="test-interrupted-spy",
+        )
+        srv.start()
+
+        # Hits for 200ms
+        mock_detector.should_detect = True
+        t_start = time.perf_counter()
+        fn = 0
+        while time.perf_counter() - t_start < 0.2:
+            bus.publish_sync(_make_frame_event(fn, img_bytes))
+            fn += 1
+            time.sleep(0.02)
+
+        # One miss — resets clock
+        mock_detector.should_detect = False
+        bus.publish_sync(_make_frame_event(fn, img_bytes))
+        fn += 1
+        time.sleep(0.05)
+
+        # Resume hits for 200ms — still not 500ms continuous
+        mock_detector.should_detect = True
+        t2 = time.perf_counter()
+        while time.perf_counter() - t2 < 0.2:
+            bus.publish_sync(_make_frame_event(fn, img_bytes))
+            fn += 1
+            time.sleep(0.02)
+
+        time.sleep(0.1)
+
+        assert len(detected_events) == 0, (
+            "Clock reset by a miss — cumulative time should not count"
+        )
+        srv.shutdown()
+
+
+# ===========================================================================
+# 6. Absence Timeout
+# ===========================================================================
+
+
+class TestAbsenceTimeout:
+    def _confirm_person(
+        self,
+        srv: VisionService,
+        bus: EventBus,
+        mock_detector: MockPersonDetector,
+        img_bytes: bytes,
+        window_sec: float,
+    ) -> threading.Event:
+        """Helper: stream frames until PERSON_DETECTED fires."""
+        done = threading.Event()
+        bus.subscribe(
+            lambda e: done.set(),
+            EventType.PERSON_DETECTED,
+            source="test-abs-confirm-spy",
+        )
+        mock_detector.should_detect = True
+        t = time.perf_counter()
+        fn = 0
+        while time.perf_counter() - t < window_sec + 0.2:
+            bus.publish_sync(_make_frame_event(fn, img_bytes))
+            fn += 1
+            time.sleep(0.02)
+        done.wait(timeout=3.0)
+        return done
+
+    def test_brief_absence_does_not_fire_person_left(
+        self, bus: EventBus, mock_detector: MockPersonDetector, img_bytes: bytes
+    ) -> None:
+        """Absence shorter than absence_timeout_sec must NOT fire PERSON_LEFT."""
+        left_events: list[EventEnvelope] = []
+        srv = VisionService(
+            event_bus=bus,
+            detector=mock_detector,
+            min_hits=2,
+            confirmation_window_sec=0.2,
+            absence_timeout_sec=0.8,        # 800ms absence required
+            confidence_threshold=0.0,
+            greeting_once_per_session=True,
+            name="test-brief-abs",
+        )
+        bus.subscribe(
+            lambda e: left_events.append(e),
+            EventType.PERSON_LEFT,
+            source="test-brief-abs-spy",
+        )
+        srv.start()
+
+        # Confirm presence
+        self._confirm_person(srv, bus, mock_detector, img_bytes, 0.3)
+
+        # Brief absence: 400ms (less than 800ms timeout)
+        mock_detector.should_detect = False
+        fn = 100
+        t = time.perf_counter()
+        while time.perf_counter() - t < 0.4:
+            bus.publish_sync(_make_frame_event(fn, img_bytes))
+            fn += 1
+            time.sleep(0.02)
+
+        time.sleep(0.1)
+        assert len(left_events) == 0, (
+            "Brief absence < absence_timeout_sec should NOT fire PERSON_LEFT"
+        )
+        srv.shutdown()
+
+    def test_sustained_absence_fires_person_left(
+        self, bus: EventBus, mock_detector: MockPersonDetector, img_bytes: bytes
+    ) -> None:
+        """Absence ≥ absence_timeout_sec MUST fire PERSON_LEFT exactly once."""
+        done_left = threading.Event()
+        left_events: list[EventEnvelope] = []
+
+        srv = VisionService(
+            event_bus=bus,
+            detector=mock_detector,
+            min_hits=2,
+            confirmation_window_sec=0.2,
+            absence_timeout_sec=0.5,        # 500ms timeout
+            confidence_threshold=0.0,
+            greeting_once_per_session=True,
+            name="test-sustained-abs",
+        )
+        bus.subscribe(
+            lambda e: [left_events.append(e), done_left.set()],
+            EventType.PERSON_LEFT,
+            source="test-sustained-abs-spy",
+        )
+        srv.start()
+
+        # Confirm presence
+        self._confirm_person(srv, bus, mock_detector, img_bytes, 0.3)
+
+        # Sustained absence: 700ms (above 500ms timeout)
+        mock_detector.should_detect = False
+        fn = 100
+        t = time.perf_counter()
+        while time.perf_counter() - t < 0.7:
+            bus.publish_sync(_make_frame_event(fn, img_bytes))
+            fn += 1
+            time.sleep(0.02)
+
+        assert done_left.wait(timeout=3.0), "PERSON_LEFT should fire after absence_timeout_sec"
+        assert len(left_events) == 1
+
+        # Additional misses must NOT re-fire PERSON_LEFT
+        for i in range(5):
+            bus.publish_sync(_make_frame_event(200 + i, img_bytes))
+        time.sleep(0.1)
+        assert len(left_events) == 1, "PERSON_LEFT must not fire twice"
+
+        srv.shutdown()
+
+
+# ===========================================================================
+# 7. Per-Session Greeting Guard
+# ===========================================================================
+
+
+class TestGreetingGuard:
+    def test_greeting_fires_once_per_session(
+        self, bus: EventBus, mock_detector: MockPersonDetector, img_bytes: bytes
+    ) -> None:
+        """PERSON_DETECTED must fire exactly once while the person stays in view."""
+        detected_events: list[EventEnvelope] = []
+
+        srv = VisionService(
+            event_bus=bus,
+            detector=mock_detector,
+            min_hits=2,
+            confirmation_window_sec=0.2,
+            absence_timeout_sec=0.0,        # Disable exit for this test
+            confidence_threshold=0.0,
+            greeting_once_per_session=True,
+            name="test-session-guard",
+        )
+        bus.subscribe(
+            lambda e: detected_events.append(e),
+            EventType.PERSON_DETECTED,
+            source="test-session-spy",
+        )
+        srv.start()
+
+        # Stream frames continuously for 1 second
+        mock_detector.should_detect = True
+        t = time.perf_counter()
+        fn = 0
+        while time.perf_counter() - t < 1.0:
+            bus.publish_sync(_make_frame_event(fn, img_bytes))
+            fn += 1
+            time.sleep(0.02)
+
+        time.sleep(0.2)
+
+        assert len(detected_events) == 1, (
+            f"Expected exactly 1 PERSON_DETECTED for continuous session, got {len(detected_events)}"
+        )
+        srv.shutdown()
+
+    def test_new_session_after_person_left(
+        self, bus: EventBus, mock_detector: MockPersonDetector, img_bytes: bytes
+    ) -> None:
+        """After PERSON_LEFT fires, a new visit must trigger a new PERSON_DETECTED."""
+        detected_events: list[EventEnvelope] = []
+        left_events: list[EventEnvelope] = []
+        done_detected = threading.Event()
+        done_left = threading.Event()
+        second_detected = threading.Event()
+
+        def on_detected(e: EventEnvelope) -> None:
+            detected_events.append(e)
+            if len(detected_events) == 1:
+                done_detected.set()
+            elif len(detected_events) == 2:
+                second_detected.set()
+
+        srv = VisionService(
+            event_bus=bus,
+            detector=mock_detector,
+            min_hits=2,
+            confirmation_window_sec=0.2,
+            absence_timeout_sec=0.4,
+            confidence_threshold=0.0,
+            greeting_once_per_session=True,
+            name="test-new-session",
+        )
+        bus.subscribe(on_detected, EventType.PERSON_DETECTED, source="test-ns-spy")
+        bus.subscribe(
+            lambda e: [left_events.append(e), done_left.set()],
+            EventType.PERSON_LEFT,
+            source="test-ns-spy2",
+        )
+        srv.start()
+
+        # --- Visit 1: Person arrives and stays ---
+        mock_detector.should_detect = True
+        t = time.perf_counter()
+        fn = 0
+        while time.perf_counter() - t < 0.4:
+            bus.publish_sync(_make_frame_event(fn, img_bytes))
+            fn += 1
+            time.sleep(0.02)
+        done_detected.wait(timeout=3.0)
+
+        # --- Person leaves for > absence_timeout ---
+        mock_detector.should_detect = False
+        t2 = time.perf_counter()
+        while time.perf_counter() - t2 < 0.6:
+            bus.publish_sync(_make_frame_event(fn, img_bytes))
+            fn += 1
+            time.sleep(0.02)
+        done_left.wait(timeout=3.0)
+        assert len(left_events) == 1
+
+        # --- Visit 2: Same person (or new person) arrives again ---
+        mock_detector.should_detect = True
+        t3 = time.perf_counter()
+        while time.perf_counter() - t3 < 0.5:
+            bus.publish_sync(_make_frame_event(fn, img_bytes))
+            fn += 1
+            time.sleep(0.02)
+
+        assert second_detected.wait(timeout=3.0), (
+            "Second visit after PERSON_LEFT should trigger a new PERSON_DETECTED"
+        )
+        assert len(detected_events) == 2
+
+        srv.shutdown()
+
+
+# ===========================================================================
+# 8. Queue Behavior (Frame Skipping)
 # ===========================================================================
 
 
@@ -209,7 +720,14 @@ class TestQueueSkipping:
                 return super().detect(frame)
 
         slow_det = SlowDetector()
-        srv = VisionService(event_bus=bus, detector=slow_det, min_hits=3, min_misses=3)
+        srv = VisionService(
+            event_bus=bus,
+            detector=slow_det,
+            min_hits=3,
+            min_misses=3,
+            confirmation_window_sec=0.0,
+            absence_timeout_sec=0.0,
+        )
 
         try:
             srv.start()
@@ -231,7 +749,35 @@ class TestQueueSkipping:
 
 
 # ===========================================================================
-# 5. Benchmarks
+# 9. Diagnostics
+# ===========================================================================
+
+
+class TestDiagnostics:
+    def test_diagnostics_contains_new_fields(
+        self, bus: EventBus, vision_timed: VisionService
+    ) -> None:
+        """Diagnostics must expose the new time-based configuration fields."""
+        vision_timed.start()
+        diag = vision_timed.diagnostics()
+
+        assert "confirmation_window_sec" in diag
+        assert "absence_timeout_sec" in diag
+        assert "confidence_threshold" in diag
+        assert "current_hit_duration_sec" in diag
+        assert "current_absence_duration_sec" in diag
+        assert "greeting_latency_sec" in diag
+        assert "greeted_this_session" in diag
+
+        assert diag["confirmation_window_sec"] == 0.3
+        assert diag["absence_timeout_sec"] == 0.5
+        assert diag["confidence_threshold"] == 0.5
+
+        vision_timed.stop()
+
+
+# ===========================================================================
+# 10. Benchmarks
 # ===========================================================================
 
 
@@ -255,3 +801,52 @@ class TestBenchmarks:
         )
         # Average HOG detection latency target is < 120.0 ms/frame
         assert avg_ms < 120.0
+
+    def test_greeting_latency_meets_confirmation_window(
+        self, bus: EventBus, mock_detector: MockPersonDetector, img_bytes: bytes
+    ) -> None:
+        """Greeting latency (first-hit → PERSON_DETECTED) must be ≥ confirmation_window_sec."""
+        window = 0.3
+        done = threading.Event()
+        detected_events: list[EventEnvelope] = []
+
+        srv = VisionService(
+            event_bus=bus,
+            detector=mock_detector,
+            min_hits=2,
+            confirmation_window_sec=window,
+            absence_timeout_sec=0.0,
+            confidence_threshold=0.0,
+            greeting_once_per_session=True,
+            name="test-latency-bench",
+        )
+        bus.subscribe(
+            lambda e: [detected_events.append(e), done.set()],
+            EventType.PERSON_DETECTED,
+            source="test-latency-spy",
+        )
+        srv.start()
+
+        t_first_hit = time.perf_counter()
+        mock_detector.should_detect = True
+        fn = 0
+        while not done.is_set() and time.perf_counter() - t_first_hit < 2.0:
+            bus.publish_sync(_make_frame_event(fn, img_bytes))
+            fn += 1
+            time.sleep(0.02)
+
+        t_detected = time.perf_counter()
+        elapsed = t_detected - t_first_hit
+
+        assert done.is_set(), "PERSON_DETECTED must fire within 2s of streaming"
+        assert elapsed >= window, (
+            f"Greeting latency {elapsed:.3f}s must be >= confirmation_window {window}s"
+        )
+
+        diag = srv.diagnostics()
+        print(
+            f"\n[Benchmark] Greeting latency: {elapsed:.3f}s "
+            f"(confirmation_window={window}s, recorded={diag['greeting_latency_sec']}s)"
+        )
+
+        srv.shutdown()

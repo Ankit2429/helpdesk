@@ -1,0 +1,224 @@
+{
+  "folder": "src/campus_helpdesk/services/",
+  "title": "Services: robot voice & vision",
+  "purpose": "This subsystem provides the robot stack's voice and vision I/O services: wake-word listening (WakeWordService), microphone capture with real-time voice activity detection (VADService), speech-to-text transcription (STTService), text-to-speech synthesis and playback (TTSService), camera frame acquisition (CameraService), and person detection/presence (VisionService). It also contains InferenceAdapter, which bridges the robot's event-driven interaction runtime to the production offline RAG/LLM pipeline, and IntentRouter, which classifies user messages into conversation vs. campus-query intents. All of these are event-driven services that communicate exclusively through the central EventBus and are orchestrated by SystemRuntime in the robot stack; of the eight files, only IntentRouter is wired into the production HTTP/API stack (via RAGChatService).",
+  "files": [
+    {
+      "path": "src/campus_helpdesk/services/camera_service.py",
+      "purpose": "Manages camera hardware or mock source lifecycle and frame acquisition on a dedicated capture thread, JPEG-encoding each frame and publishing FRAME_CAPTURED plus camera lifecycle events (CAMERA_STARTED/STOPPED/DISCONNECTED/RECONNECTED) to the Event Bus, with auto-reconnect on disconnect.",
+      "key_symbols": [
+        "CameraService (initialize, start, stop, restart, shutdown, is_running, is_connected, _capture_loop, _read_frame, _process_and_publish_frame, _handle_read_failure, health, diagnostics, set_correlation_context)",
+        "CameraError (from application.exceptions)",
+        "CameraPayload, EventEnvelope, EventType (from interaction.events)",
+        "EventBus (from interaction.event_bus)",
+        "CameraManager singleton (from infrastructure.vision.camera_manager)"
+      ],
+      "terms": [
+        {"term": "Event Bus / EventBus", "definition": "Central publish/subscribe message bus over which all robot services communicate; this service publishes frame and lifecycle envelopes to it."},
+        {"term": "EventEnvelope", "definition": "The wrapper object every event bus message uses, carrying event_type, source, payload, session_id, and correlation_id."},
+        {"term": "FRAME_CAPTURED", "definition": "Event type published for every captured camera frame; carries a JPEG-encoded CameraPayload consumed by VisionService."},
+        {"term": "CameraPayload", "definition": "Event payload holding frame_id, timestamp, resolution string, frame_number, capture_latency_ms, camera_index, status, and JPEG frame_data."},
+        {"term": "mock fallback", "definition": "Degraded mode where a fake frame source (here a drawn colour-block NumPy frame) substitutes for unavailable camera hardware so the pipeline keeps running."},
+        {"term": "CameraManager singleton", "definition": "Single shared OpenCV VideoCapture owner in infrastructure.vision; CameraService deliberately reads its latest frame instead of opening its own handle to avoid DirectShow contention on Windows."},
+        {"term": "newest-frame-wins", "definition": "Queue/drop policy where a slow consumer never accumulates stale frames; the newest frame replaces older ones to prevent latency buildup."},
+        {"term": "RLock", "definition": "Python reentrant lock used to guard all lifecycle, diagnostics, and metric updates from concurrent capture and querying threads."},
+        {"term": "correlation_id / session_id", "definition": "Tracing fields stamped onto every event envelope so a single user interaction can be correlated across services."}
+      ],
+      "config": [
+        "No settings/env/config.yaml keys read; all tuning is via constructor parameters: camera_index=0, resolution=(1280, 720), fps=30, auto_reconnect=True, reconnect_delay=2.0, frame_queue_size=1, use_mock_fallback=True"
+      ],
+      "notes": "self._cap is intentionally never used -- CameraManager owns the physical cv2.VideoCapture, so _cap.release() calls in stop() and the capture-loop finally are dead code operating on None. The frame_queue_size constructor parameter is stored but never read (publication relies on the EventBus's own bounded queue and non-blocking publish). Contains no computer vision logic; that lives in VisionService. Mock frames are generated when use_mock_fallback succeeds after a failed initialize(). On genuine disconnect it publishes CAMERA_DISCONNECTED, and if auto_reconnect is False raises CameraError."
+    },
+    {
+      "path": "src/campus_helpdesk/services/inference_adapter.py",
+      "purpose": "Bridges the robot interaction runtime to the offline RAG/LLM pipeline by consuming TRANSCRIPT_FINAL events through a FIFO worker queue, executing each query on a pluggable backend (default LocalRAGBackend wrapping RAGChatService), and publishing QUERY_STARTED, ANSWER_READY, or ERROR events.",
+      "key_symbols": [
+        "BaseInferenceBackend (ABC with query() and name property)",
+        "LocalRAGBackend (wraps RAGChatService.respond, unpacks reply/supporting_sources/confidence_score/confidence_level)",
+        "MockInferenceBackend (deterministic fake with should_fail, simulate_delay_sec)",
+        "InferenceAdapter (start, stop, shutdown, is_running, _enqueue_request, _worker_loop, _process_request, _publish_error, diagnostics)",
+        "LanguageDetector.detect (from services.language_detector) for answer-language detection",
+        "QueryPayload, AnswerPayload, TranscriptPayload, ErrorPayload (from interaction.events)"
+      ],
+      "terms": [
+        {"term": "TRANSCRIPT_FINAL", "definition": "Event type emitted by STTService carrying the recognized text; the trigger that InferenceAdapter subscribes to and enqueues."},
+        {"term": "ANSWER_READY", "definition": "Event type published with the generated answer, confidence, sources, language, and latency; consumed by TTSService and the GUI."},
+        {"term": "QUERY_STARTED", "definition": "Event published before backend execution to signal the FSM/UI that a query is in flight."},
+        {"term": "backend abstraction", "definition": "Pluggable strategy interface (BaseInferenceBackend) so the same adapter can run the real RAG pipeline, a mock, or a future engine without code changes."},
+        {"term": "timeout wrapper", "definition": "Backend queries are executed in a throwaway daemon thread joined with timeout_seconds; if the thread is still alive after the deadline the request is failed as a timeout."},
+        {"term": "confidence level tier", "definition": "Discrete answer-confidence label (HIGH/MEDIUM/LOW) returned alongside the numeric score, used by the robot to decide how to present answers."},
+        {"term": "correlation_id", "definition": "Propagated from the triggering TRANSCRIPT_FINAL event onto QUERY_STARTED/ANSWER_READY/ERROR so a spoken question can be traced end-to-end."}
+      ],
+      "config": [
+        "No settings/env/config.yaml keys; constructor parameters backend (default Mock), timeout_seconds=10.0, name"
+      ],
+      "notes": "The timeout mechanism starts a new daemon thread per query and joins it; on timeout the thread cannot be killed, so a hung backend leaks a thread per timed-out query. Default backend is MockInferenceBackend, not the real RAG pipeline -- production wiring must inject LocalRAGBackend(chat_service). LocalRAGBackend reads attributes off the RAGChatService result (reply, supporting_sources, confidence_score, confidence_level) with getattr fallbacks. Detects the generated answer's language via LanguageDetector so TTS can pick a matching voice. Publishes ERROR with is_fatal=False on any failure path."
+    },
+    {
+      "path": "src/campus_helpdesk/services/intent_router.py",
+      "purpose": "Classifies incoming user messages by regex pattern into intents (GREETING, GOODBYE, THANKS, IDENTITY, CAPABILITIES, SMALL_TALK, CAMPUS_QUERY) and returns fast, predefined multilingual responses so non-campus conversational intents bypass the RAG vector search.",
+      "key_symbols": [
+        "IntentType (enum: greeting, goodbye, thanks, identity, capabilities, small_talk, campus_query)",
+        "IntentResult (NamedTuple: intent, response, confidence)",
+        "IntentRouter (route(), _get_template())",
+        "Pattern constants: GREETING_PATTERN, GOODBYE_PATTERN, THANKS_PATTERN, IDENTITY_PATTERN, CAPABILITIES_PATTERN, SMALL_TALK_PATTERN, CAMPUS_DOMAIN_PATTERN",
+        "RESPONSE_TEMPLATES (dict of per-intent multilingual templates for en/hi/kn)"
+      ],
+      "terms": [
+        {"term": "intent classification", "definition": "Rule-based (regex) assignment of a user utterance to a category that decides whether the message needs RAG retrieval or can be answered from a template."},
+        {"term": "CAMPUS_DOMAIN_PATTERN", "definition": "Keyword regex for campus entities (principal, hostel, fees, departments, KLE Tech, etc.) that force CAMPUS_QUERY so campus questions are never misclassified as small talk."},
+        {"term": "RAG bypass", "definition": "Short-circuiting the vector-search pipeline for conversational intents and answering from cached templates instead, saving latency and LLM calls."},
+        {"term": "language code / template fallback", "definition": "ISO language codes ('en', 'hi', 'kn') select a template; 'kanglish' falls back to 'kn' and 'hinglish' to 'hi', defaulting to English."}
+      ],
+      "config": [
+        "No settings/env/config.yaml keys"
+      ],
+      "notes": "This is the only file in this folder wired into the production API stack: rag_chat_service.py imports IntentRouter and calls route() in both its streaming and non-streaming respond paths, bypassing RAG for conversational intents. The assistant is named 'Sparky' in the IDENTITY template. Campus-domain terms override conversational patterns (checked first), with common misspellings like 'depatments' deliberately included. lang codes 'kanglish'/'hinglish' are treated as variants of kn/hi."
+    },
+    {
+      "path": "src/campus_helpdesk/services/stt_service.py",
+      "purpose": "Consumes VOICE_STOPPED events carrying the path to a recorded WAV segment, transcribes it via a pluggable backend (FasterWhisperBackend by default), and publishes TRANSCRIPT_FINAL events with the recognized text, language, and confidence.",
+      "key_symbols": [
+        "BaseTranscriptionBackend (ABC: load_model, transcribe, model_name)",
+        "FasterWhisperBackend (faster-whisper/ctranslate2; beam_size, task='transcribe', vad_filter, condition_on_previous_text=False)",
+        "MockTranscriptionBackend (returns a fixed transcript; simulates empty/corrupt files)",
+        "STTService (initialize, start, stop, shutdown, is_running, _enqueue_request, _worker_loop, _process_request, diagnostics)",
+        "VoicePayload, TranscriptPayload, ErrorPayload, EventType (from interaction.events)"
+      ],
+      "terms": [
+        {"term": "STT (speech-to-text)", "definition": "Conversion of a recorded speech audio segment into its text transcription; here done by faster-whisper."},
+        {"term": "faster-whisper", "definition": "CTranslate2-backed reimplementation of OpenAI Whisper used as the local, offline transcription engine."},
+        {"term": "beam_size / greedy decoding", "definition": "beam_size=1 means no beam search (greedy decoding), ~50% faster on CPU with negligible accuracy loss on clear speech."},
+        {"term": "VAD filter (Whisper internal)", "definition": "faster-whisper's built-in Silero VAD that skips non-speech regions before transcription, cutting effective audio length and inference time."},
+        {"term": "condition_on_previous_text=False", "definition": "Whisper option that disables conditioning on earlier decoded text, preventing hallucination feedback loops on repetitive/noisy audio."},
+        {"term": "min_audio_duration_ms", "definition": "Minimum segment length (default 500ms) below which a WAV is silently discarded, preventing coughs/door-slams from reaching Whisper and producing hallucinations."},
+        {"term": "VOICE_STOPPED", "definition": "Event from VADService carrying audio_segment_path, duration_ms, and audio_chunk_id; the trigger for transcription."},
+        {"term": "TRANSCRIPT_FINAL", "definition": "Event published with the final recognized text; consumed by InferenceAdapter."}
+      ],
+      "config": [
+        "No settings/env/config.yaml keys read directly. Backend defaults are hardcoded: model_size='base', device='cpu', compute_type='int8', cpu_threads=4, beam_size=1; min_audio_duration_ms=500 default. (config.yaml has an 'audio:' section with stt_* keys but this service does not read it.)"
+      ],
+      "notes": "FasterWhisperBackend.load_model catches ImportError/OSError (e.g. DLL blocked by Windows Smart App Control) and disables STT with a warning rather than raising, so camera/vision/LLM/TTS still start; STTService.initialize() likewise records sentinel _model_load_time=-1.0 on failure. The default backend in STTService is MockTranscriptionBackend, not the real one. On transcription failure it publishes ERROR with is_fatal=True. The model_name property is a self-describing string (model:size:device:compute:beam)."
+    },
+    {
+      "path": "src/campus_helpdesk/services/tts_service.py",
+      "purpose": "Consumes ANSWER_READY events, splits the answer into sentences, synthesizes and streams speech through a pluggable Piper backend, and publishes TTS_STARTED / TTS_COMPLETED / TTS_INTERRUPTED events, with sentence-level streaming, barge-in interruption, and multilingual voice selection.",
+      "key_symbols": [
+        "BaseSpeechBackend (ABC: load_model, synthesize_and_play, cancel, voice_name, sample_rate)",
+        "PiperBackend (VOICE_MAP, _load_voice_for_language, _synthesize_chunks, synthesize_and_play, cancel)",
+        "MockSpeechBackend (per-word simulated duration, honours stop_event)",
+        "TTSService (initialize, start, stop, interrupt, split_into_sentences, _enqueue_request, _worker_loop, _process_request, _publish_error, diagnostics)",
+        "AnswerPayload, TTSPayload, ErrorPayload, EventType (from interaction.events)",
+        "AudioError (from application.exceptions)"
+      ],
+      "terms": [
+        {"term": "TTS (text-to-speech)", "definition": "Synthesis of answer text into spoken audio; here done by the offline Piper voice engine."},
+        {"term": "Piper", "definition": "Offline neural text-to-speech engine (ONNX models / piper CLI) supporting per-language voice models via VOICE_MAP."},
+        {"term": "sentence streaming", "definition": "Answers are split into sentences and played one-by-one so the first sentence starts ~200-400ms after ANSWER_READY while later sentences are synthesized concurrently."},
+        {"term": "barge-in", "definition": "Preemption of active speech playback when a new utterance/answer arrives; interrupt() sets a preempt event and increments an interrupt generation counter."},
+        {"term": "interrupt generation counter", "definition": "Monotonic counter bumped on every interrupt(); the playback loop captures its generation at start and skips remaining sentences if it advances, so stale answers are never spoken."},
+        {"term": "inter-sentence pause", "definition": "Configurable silence gap (default 150ms) inserted between consecutive sentences to keep playback natural."},
+        {"term": "VOICE_MAP", "definition": "Hardcoded ISO-639-1 language code to Piper model-name mapping (en, hi supported; Kannada has no official Piper model and falls back)."},
+        {"term": "voice model cache", "definition": "Dictionary that caches loaded PiperVoice objects per language so subsequent sentences in the same language avoid reloading the model."}
+      ],
+      "config": [
+        "PiperBackend reads speaker_device_index from settings via get_settings() when output_device is not given (env SPEAKER_DEVICE_INDEX / config.yaml app: speaker_device_index), falling back to sounddevice default output auto-detection. Constructor defaults: model_path='en_US-lessac-medium.onnx', speed=1.0, volume=1.0. (config.yaml 'tts:' section with dummy_* keys is not read by this service.)"
+      ],
+      "notes": "PiperBackend supports three synthesis paths: modern python-piper synthesize() yielding AudioChunk objects, legacy synthesize(text, wav_file), and a piper CLI subprocess writing raw PCM -- chosen at runtime by duck-typing. speed and volume fields are stored but never applied during synthesis (dead). Kannada answers fall back to the default English voice since no Kannada Piper model is mapped. Default backend in TTSService is MockSpeechBackend. Enqueuing a new ANSWER_READY automatically interrupts active playback (barge-in). On model load failure TTS degrades gracefully (no raise; text still shows in GUI). split_into_sentences handles Devanagari danda (।/॥) and avoids splitting on abbreviations like Mr./Dr."
+    },
+    {
+      "path": "src/campus_helpdesk/services/vad_service.py",
+      "purpose": "Manages microphone lifecycle and real-time voice activity detection: streams PCM audio from a sounddevice input (or a mock source), runs frames through the WebRTC VAD engine with onset/offset debounce thresholds and onset pre-buffering, writes speech segments to temp WAV files, and publishes VOICE_STARTED / VOICE_STOPPED / MICROPHONE_STARTED / MICROPHONE_STOPPED events.",
+      "key_symbols": [
+        "VADService (start, stop, shutdown, is_running, is_speaking, _audio_callback, _mock_mic_loop, _worker_loop, _classify_frame, _evaluate_speech_transitions, _write_wav_segment, health, diagnostics)",
+        "webrtcvad.Vad (aggressiveness 0-3)",
+        "sounddevice.InputStream (callback-based capture)",
+        "VoicePayload, EventEnvelope, EventType (from interaction.events)",
+        "AudioError (from application.exceptions)"
+      ],
+      "terms": [
+        {"term": "VAD (voice activity detection)", "definition": "Real-time detection of whether an audio frame contains human speech; here implemented with the WebRTC VAD library."},
+        {"term": "WebRTC VAD aggressiveness", "definition": "0-3 tuning level of the WebRTC speech classifier; higher values reject more background noise (3 recommended for noisy lobby environments)."},
+        {"term": "frame duration", "definition": "Length of each analysed audio frame (10/20/30ms, default 30ms); the frame size must match the VAD engine's requirements."},
+        {"term": "onset/offset debounce thresholds", "definition": "Consecutive-frame counters that must be reached before speech start (speech_frames_threshold, default 3) or end (silence_frames_threshold, default 50 = 1.5s) is confirmed, so brief noise glitches and natural pauses between sentences do not flip state."},
+        {"term": "pre-buffer (onset recovery)", "definition": "Rolling deque of the last N pre-onset frames that is prepended to the recorded segment once speech onset is confirmed, preserving the first word's leading phonemes for the transcriber."},
+        {"term": "audio chunk", "definition": "A logical utterance identified by audio_chunk_id; VOICE_STARTED and VOICE_STOPPED share the id so downstream services can pair them."},
+        {"term": "WAV segment", "definition": "Temp file (vad_speech_*.wav) written from buffered PCM frames on voice end and passed to STT via audio_segment_path."},
+        {"term": "mock microphone", "definition": "Fallback source that synthesizes a 2.5s-speech/3.5s-silence sine-wave-and-noise pattern when no real input device opens, for headless testing."}
+      ],
+      "config": [
+        "Reads mic_device_index from settings via get_settings() when device_index is not passed (env MIC_DEVICE_INDEX / VAD_DEVICE_INDEX), falling back to sounddevice default input auto-detection. Note SystemRuntime constructs VADService with device_index=99. config.yaml has a 'vad:' section (sample_rate_options, frame_duration_options) but it is not read by this service. Other constructor defaults: sample_rate=16000, frame_duration_ms=30, aggressiveness=3, speech_frames_threshold=3, silence_frames_threshold=50, use_mock_fallback=True."
+      ],
+      "notes": "Known production risk from CLAUDE.md: SystemRuntime hardcodes VAD microphone device_index=99 with use_mock_fallback=True, so the VAD always runs in mock mode on the Pi and real microphone audio is never captured unless a different device index is injected. Constructor raises ValueError for unsupported sample rate / frame duration / aggressiveness. The audio queue is bounded at 100 frames (~3s) to tolerate GIL-induced worker stalls; overflow increments dropped_frames. CLAUDE.md also flags a missing 'logger' in vad_service.py, but the current file defines logger = logging.getLogger(__name__) at module level, so that specific defect appears already fixed."
+    },
+    {
+      "path": "src/campus_helpdesk/services/vision_service.py",
+      "purpose": "Consumes FRAME_CAPTURED events, decodes JPEG frames, runs person detection through a pluggable detector (HOG by default), applies a dual-gate debounce model (frame-count pre-filter then time-based confirmation window, with an absence-timeout exit gate) so presence events fire exactly once per session, and publishes PERSON_DETECTED / PERSON_LEFT.",
+      "key_symbols": [
+        "BasePersonDetector (ABC: detect, name)",
+        "HOGPersonDetector (OpenCV HOG + default people SVM detector, 640px downscale)",
+        "MockPersonDetector (fixed should_detect/confidence/box)",
+        "VisionService (start, stop, shutdown, is_running, _enqueue_frame, _worker_loop, _process_frame, _evaluate_state_transitions, diagnostics)",
+        "CameraPayload, PersonDetectedPayload, PersonLeftPayload (from interaction.events)"
+      ],
+      "terms": [
+        {"term": "person detection", "definition": "Per-frame identification of a human in the camera image; here via OpenCV HOG descriptor + default people SVM classifier."},
+        {"term": "HOG / SVM", "definition": "Histogram of Oriented Gradients feature descriptor fed to a support-vector-machine people detector bundled with OpenCV."},
+        {"term": "confidence threshold", "definition": "Minimum detector score (default 0.3) for a frame to count as a qualified hit; detections below it are treated as misses."},
+        {"term": "dual-gate confirmation", "definition": "Presence is only confirmed when min_hits consecutive qualified frames occur AND the person stays continuously visible for confirmation_window_sec (default 3.0s); any miss resets the entry clock, eliminating passerby/glitch false positives."},
+        {"term": "absence timeout (exit gate)", "definition": "Once present, a person is considered to have left only after absence_timeout_sec (default 5.0s) of continuous misses, so head turns or brief occlusions do not end the session."},
+        {"term": "greeting-once-per-session", "definition": "PERSON_DETECTED is published at most once per continuous presence session; a new greeting becomes possible only after PERSON_LEFT fires."},
+        {"term": "bounding box", "definition": "(x, y, width, height) tuple locating the detected person in the frame, passed through to the PERSON_DETECTED payload."},
+        {"term": "newest-frame-wins bounded queue", "definition": "Internal queue maxsize=1 where a busy worker drops older frames (frames_skipped counter) rather than blocking the camera publisher."}
+      ],
+      "config": [
+        "No settings/env/config.yaml keys read; constructor tuning: min_hits=3, min_misses=10 (legacy fallback), confirmation_window_sec=3.0, absence_timeout_sec=5.0, confidence_threshold=0.3, greeting_once_per_session=True. (config.yaml has a 'vision:' section with HOG tuning values but this service does not read it.)"
+      ],
+      "notes": "HOGPersonDetector downscales wide frames to a 640px width for speed and normalizes OpenCV SVM weights (divided by 2.0) into [0.0, 1.0]. Exit logic is time-based (absence_timeout_sec) with a legacy min_misses frame-count fallback used only when absence_timeout_sec <= 0. HOG initialization failures degrade gracefully to self._hog=None (always returns 'no detection'). Records greeting_latency_sec (first-hit to confirmed) as telemetry. PERSON_LEFT carries last_seen_at (UTC) and frames_without_detection."
+    },
+    {
+      "path": "src/campus_helpdesk/services/wake_word_service.py",
+      "purpose": "Wraps the infrastructure WakeWordDetector and emits a VOICE_STARTED event onto the Event Bus when the wake phrase is heard, so the interaction FSM can wake the assistant hands-free, plus an optional on_wake_detected callback.",
+      "key_symbols": [
+        "WakeWordService (start, stop, is_running, _handle_wake)",
+        "WakeWordDetector (from infrastructure.audio.wake_word)",
+        "EventBus, EventEnvelope, EventType, VoicePayload (from interaction)",
+        "Callable (on_wake_detected callback)"
+      ],
+      "terms": [
+        {"term": "wake word", "definition": "A spoken phrase (default 'Hey Helpdesk') that activates the assistant without physical input."},
+        {"term": "openwakeword", "definition": "Optional local wake-word engine the detector tries to load; when absent it falls back to an acoustic heuristic. The service also tries a hardcoded 'hey_jarvis_v0.1' model."},
+        {"term": "acoustic energy burst fallback", "definition": "Crude speech-onset heuristic (RMS energy and peak amplitude above thresholds plus zero-crossing count) used to simulate wake detection when no openwakeword model is present."},
+        {"term": "cooldown", "definition": "A 2-second lockout after a detection to prevent double-triggering the same wake phrase."},
+        {"term": "event-driven wake detection", "definition": "The detector runs a background microphone-listening thread that converts an audio trigger into an EventBus VOICE_STARTED event, integrating with the same event flow as VAD."}
+      ],
+      "config": [
+        "No settings/env/config.yaml keys; constructor defaults wake_phrase='Hey Helpdesk', sensitivity=0.5, device_index=None."
+      ],
+      "notes": "Wired into touch_app.py with wake phrase 'Hey Helpdesk'; the touch app pauses the WakeWordService stream during TTS playback to prevent the robot from hearing itself. The service publishes its event with the hardcoded source string 'wake_word_service' rather than a configurable name. Underlying detector's openwakeword integration hardcodes model 'hey_jarvis_v0.1' (mismatched with the actual default wake phrase 'Hey Helpdesk'), and the acoustic fallback can trigger on non-speech energy bursts; both are in infrastructure/audio/wake_word.py, outside this file."
+    }
+  ],
+  "data_flow": "All services are constructed by SystemRuntime (src/campus_helpdesk/runtime/system_runtime.py) around a single EventBus and started/stoppped together. CameraService publishes FRAME_CAPTURED (JPEG bytes) and camera lifecycle events; VisionService subscribes to FRAME_CAPTURED, publishes PERSON_DETECTED/PERSON_LEFT which drive the RobotStateMachine's greeting. On the voice side: WakeWordService or VADService publishes VOICE_STARTED (waking the FSM), VADService publishes VOICE_STOPPED with a temp WAV path; STTService consumes VOICE_STOPPED, publishes TRANSCRIPT_FINAL; InferenceAdapter consumes TRANSCRIPT_FINAL, runs LocalRAGBackend.query -> RAGChatService.respond (the production RAG/LLM pipeline), publishes QUERY_STARTED then ANSWER_READY (with language detected for voice selection); TTSService consumes ANSWER_READY, streams sentence-by-sentence TTS playback and publishes TTS_STARTED/TTS_COMPLETED/TTS_INTERRUPTED; the InteractionManager receives TTS interrupt (barge-in) and session-clear callbacks. IntentRouter is the exception: it is imported directly by application/rag_chat_service.py and routes both streaming and non-streaming chat requests, short-circuiting conversational intents before RAG. Every service publishes ERROR events back to the FSM and exposes diagnostics()/health() for the runtime log. session_id and correlation_id ride on every envelope to trace one utterance across the chain.",
+  "external_deps": [
+    "opencv-python (cv2) -- frame capture, JPEG encode/decode, HOG people detection",
+    "numpy -- frame arrays, mock frame/sine generation, PCM conversion",
+    "sounddevice (PortAudio) -- microphone InputStream and audio output RawOutputStream",
+    "webrtcvad -- WebRTC voice activity detection",
+    "faster-whisper (ctranslate2) -- optional offline STT model (may be blocked by Windows Smart App Control)",
+    "piper (python-piper module and/or 'piper' CLI) -- offline TTS voice models",
+    "openwakeword -- optional wake-word engine (with ONNX inference framework)",
+    "Internal: interaction.event_bus.EventBus; interaction.events payloads/enums; infrastructure.vision.camera_manager.CameraManager; infrastructure.audio.wake_word.WakeWordDetector; application.exceptions (CameraError, AudioError); services.language_detector.LanguageDetector; application.rag_chat_service.RAGChatService; config.settings.get_settings()"
+  ],
+  "risks": [
+    "SystemRuntime hardcodes VAD mic device_index=99 with use_mock_fallback=True, so the VAD always runs in mock mode on the Pi and real microphone audio is never captured unless a device index is injected (known CLAUDE.md risk).",
+    "InferenceAdapter's timeout mechanism runs each backend query in a daemon thread that cannot be killed; on timeout the thread keeps running and leaks until the backend call returns.",
+    "Every service defaults to its Mock backend (MockInferenceBackend, MockTranscriptionBackend, MockSpeechBackend); if not explicitly wired with real backends, no actual inference/STT/TTS occurs.",
+    "faster-whisper is silently disabled when blocked by Windows Smart App Control or missing (STT degrades to empty transcripts), and VisionService degrades to no-detection when OpenCV HOG init fails -- both fail-soft but are easy to mistake for real pipeline failures.",
+    "Camera frames are JPEG-encoded and pushed over the EventBus at up to 30fps, which is bandwidth-heavy; bounded/newest-frame-wins queues drop frames under load (frames_dropped/frames_skipped).",
+    "camera_service._frame_queue_size is stored but never used, and its _cap attribute is always None (CameraManager owns the device) so the _cap.release() calls in stop()/finally are dead code.",
+    "PiperBackend speed/volume constructor fields are stored but never applied, and there is no Kannada Piper voice, so Kannada answers are spoken in the default English voice.",
+    "The wake-word acoustic fallback is a crude energy/zero-crossing heuristic that can trigger on non-speech noise, and the openwakeword integration hardcodes a 'hey_jarvis_v0.1' model unrelated to the 'Hey Helpdesk' default phrase.",
+    "STTService and TTSService swallow model-load failures and keep running degraded; STT publishes ERROR with is_fatal=True on transcription failure while TTS/InferenceAdapter publish is_fatal=False, an inconsistent severity convention.",
+    "CLAUDE.md's documented vad_service.py missing-logger defect appears already fixed in the current file (logger is defined at module level), so the documented risk is stale."
+  ]
+}

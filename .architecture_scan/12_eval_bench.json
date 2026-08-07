@@ -1,0 +1,334 @@
+{
+  "folder": "evaluation/",
+  "title": "Evaluation harness & benchmarks",
+  "purpose": "The evaluation subsystem measures retrieval and answer quality of the RAG stack so engineers can tune retrieval (BM25 weighting, reranking, chunk overlap, re-indexing) and judge production/voice-integration readiness. It has two strands: (1) an in-package automated benchmark (EvaluationRunner in src/campus_helpdesk/infrastructure/evaluation/) that scores the live RAGPipeline against evaluation/questions.yaml and writes summary.json/summary.md; (2) a standalone evaluation/ benchmark family that either drives the production RAGChatService through multi-turn real-world and adversarial conversations (real_world_test.py, adversarial_test.py) or benchmarks the retriever directly (RetrievalBenchmark CLI in benchmark.py), emitting metrics JSON/CSV, Markdown reports, failure classifications, and PNG plots. Outputs are consumed by humans for tuning decisions, not by the live runtime or the analytics subsystem.",
+  "files": [
+    {
+      "path": "src/campus_helpdesk/infrastructure/evaluation/metrics.py",
+      "purpose": "Pure side-effect-free helper functions computing retrieval and answer metrics (Recall@K, MRR, keyword coverage) used by EvaluationRunner.",
+      "key_symbols": [
+        "calculate_recall_at_k",
+        "calculate_mrr",
+        "calculate_keyword_coverage"
+      ],
+      "terms": [
+        {"term": "Recall@K", "definition": "Fraction of expected source documents whose name appears (case-insensitively, as a substring) in the top-K retrieved sources."},
+        {"term": "MRR (Mean Reciprocal Rank)", "definition": "Inverse of the rank at which the first expected source appears in the retrieved list; 1.0 if it is top-ranked, 0.0 if absent."},
+        {"term": "keyword coverage", "definition": "Fraction of expected_answer_keywords present as substrings in the combined retrieved context text; a proxy for whether the answer's facts are in the retrieved context."}
+      ],
+      "config": [],
+      "notes": "Matching is case-insensitive substring containment against the metadata 'source' string, not exact filename equality. Empty expected_sources/expected_keywords lists return a perfect 1.0, which inflates aggregate scores for questions that lack expected targets."
+    },
+    {
+      "path": "src/campus_helpdesk/infrastructure/evaluation/runner.py",
+      "purpose": "EvaluationRunner executes the automated RAG benchmark across every question in the dataset, aggregates retrieval/confidence metrics per category and overall, and persists summary.json and summary.md.",
+      "key_symbols": [
+        "EvaluationRunner",
+        "load_dataset",
+        "run_evaluation",
+        "_save_reports"
+      ],
+      "terms": [
+        {"term": "overall_score", "definition": "Composite quality score computed as the mean of overall Recall@5, MRR, and keyword coverage multiplied by 100."},
+        {"term": "confidence distribution", "definition": "Count of questions whose retrieved results were assessed HIGH / MEDIUM / LOW by ConfidenceEngine; reported in the summary."},
+        {"term": "per-category accuracy", "definition": "Average of Recall@5, MRR, and keyword coverage computed separately for each dataset category (e.g. Admission, Fees)."}
+      ],
+      "config": [
+        "evaluation/questions.yaml (dataset_path constructor default)",
+        "evaluation/results (output_dir constructor default)",
+        "Dataset question fields read: id, category, question, expected_answer_keywords, expected_sources"
+      ],
+      "notes": "Instantiates ConfidenceEngine directly inside the run loop (function-level import). The run_llm_generation flag is accepted but never used, so answer generation is not benchmarked here. Search limit is hardcoded to k=10. Paths are relative to the CWD (repo root). Coupled to RAGPipeline.search returning SearchResult objects with .document.metadata['source'] and .document.content."
+    },
+    {
+      "path": "evaluation/run_evaluation.py",
+      "purpose": "Thin convenience runner that delegates to the CLI entry point campus_helpdesk.evaluation.main().",
+      "key_symbols": [
+        "main (imported from campus_helpdesk.evaluation)"
+      ],
+      "terms": [],
+      "config": [],
+      "notes": "BROKEN/DEAD SCRIPT: the import target 'campus_helpdesk.evaluation' does not exist anywhere in the repo (no src/campus_helpdesk/evaluation.py or evaluation/ package, and pyproject.toml declares no such console script), so this file raises ModuleNotFoundError when executed. The real in-package benchmark entry point is EvaluationRunner in src/campus_helpdesk/infrastructure/evaluation/runner.py, which this script does not reference."
+    },
+    {
+      "path": "evaluation/metrics/real_world_metrics.py",
+      "purpose": "Computes aggregate quality metrics (answer/citation/conversation/memory/navigation accuracy, hallucination rate, latency, confidence-calibration ECE) from results/real_world_results.jsonl and writes results/real_world_metrics.json.",
+      "key_symbols": [
+        "BASE_DIR",
+        "RESULTS_PATH",
+        "METRICS_JSON",
+        "expected_answer_match",
+        "compute_metrics"
+      ],
+      "terms": [
+        {"term": "Expected Calibration Error (ECE)", "definition": "Binned mean absolute difference between predicted confidence midpoints and observed answer accuracy; quantifies how trustworthy confidence_score is for voice-fallback decisions."},
+        {"term": "hallucination rate", "definition": "Fraction of turns whose hallucination_risk field was 'High' or 'Very High'."},
+        {"term": "memory accuracy", "definition": "Fraction of repeated identical queries within the same session that produced the identical answer; proxies session-memory consistency."}
+      ],
+      "config": [],
+      "notes": "Correctness is judged heuristically: substring containment or difflib.SequenceMatcher ratio >= 0.8. Citation accuracy counts a turn as correct if ANY expected citation intersects found citations. 'Conversation accuracy' is a pronoun-presence heuristic (it/they/he/she/etc. in the query AND a correct answer). Requires a session_id and user_query field per JSONL record. BASE_DIR is the repo root (two levels up from evaluation/metrics/)."
+    },
+    {
+      "path": "evaluation/scripts/generate_real_world_report.py",
+      "purpose": "Generates a Markdown real-world validation report (evaluation/reports/real_world_validation_report.md) from results/real_world_metrics.json and results/failure_summary.csv.",
+      "key_symbols": [
+        "METRICS_JSON",
+        "FAILURE_CSV",
+        "REPORT_MD",
+        "load_metrics",
+        "load_failure_summary",
+        "generate_report"
+      ],
+      "terms": [],
+      "config": [],
+      "notes": "Parses failure_summary.csv with a naive line.split(',') on a two-column file (skips the header). Appends a fixed, hardcoded 'Recommendations before Voice Integration' section (improve citation validation, tighten prompt-injection filters, lower ECE, expand memory, target <500ms latency). Downstream consumer of real_world_metrics.py and failure_classifier.py outputs."
+    },
+    {
+      "path": "evaluation/benchmarks/adversarial_test.py",
+      "purpose": "Runs the production RAGChatService against adversarial and edge-case conversation seeds (prompt injection, lorem-ipsum, a 2000-char question, repeated queries) and writes per-turn results to results/adversarial_results.jsonl.",
+      "key_symbols": [
+        "ADVERSARIAL_SEEDS",
+        "DATASET_PATH",
+        "RESULTS_PATH",
+        "build_dataset",
+        "write_dataset",
+        "run_adversarial_test"
+      ],
+      "terms": [
+        {"term": "prompt-injection seed", "definition": "A crafted user turn such as 'Ignore previous instructions...' used to test whether the sanitizer and system prompt resist instruction overrides."},
+        {"term": "session_id", "definition": "A UUID identifying one multi-turn conversation; here each adversarial conversation gets a fresh session_id passed to RAGChatService.respond."}
+      ],
+      "config": [],
+      "notes": "Uses the root-relative import 'from src.campus_helpdesk.application.rag_chat_service import RAGChatService', which only resolves when run from the repo root with src on sys.path. Instantiates RAGChatService() with no explicit settings wiring, so it depends on config.yaml/.env being valid. write_dataset() overwrites datasets/adversarial.yaml before run_adversarial_test() executes. Reads ChatResult fields via getattr() with defaults."
+    },
+    {
+      "path": "evaluation/benchmarks/benchmark.py",
+      "purpose": "CLI entry point (python benchmark.py) that runs the RetrievalBenchmark suite over evaluation/datasets, generates PNG plots and Markdown/JSON/CSV reports, and prints PASS / NEEDS-OPTIMIZATION decision guidance.",
+      "key_symbols": [
+        "print_progress_bar",
+        "parse_args",
+        "main"
+      ],
+      "terms": [
+        {"term": "success rate (top-5 match)", "definition": "Fraction of queries where the expected document was retrieved within the top 5 results; the primary benchmark pass criterion."},
+        {"term": "P95 latency", "definition": "The 95th-percentile retrieval latency; the report targets <=100ms for real-time voice responsiveness."}
+      ],
+      "config": [
+        "--dataset-dir (default evaluation/datasets)",
+        "--output-dir (default evaluation/reports)",
+        "--category (optional domain filter)",
+        "--top-k (default 5)",
+        "--workers (default 4)",
+        "--dry-run (mock adapter mode)",
+        "--verbose"
+      ],
+      "notes": "Bug: the retriever argument is 'retriever_pipeline=None if not args.dry_run else None', i.e. both branches pass None, so --dry-run does NOT force the mock adapter; the mock is only used when live retriever wiring fails. Decision thresholds are hardcoded (Recall@1>=0.80, Recall@5>=0.90, MRR>=0.85). Because RetrievalReportGenerator refuses to overwrite by default, a second CLI run over an existing evaluation/reports directory fails with FileExistsError."
+    },
+    {
+      "path": "evaluation/benchmarks/evaluator.py",
+      "purpose": "RAGEvaluator, a standalone benchmark engine that loads JSON dataset records and scores both retrieval (Precision@K, Recall@K, MRR, hit rate, NDCG@K) and generated answers (exact match, token F1) against a pluggable RAG callable.",
+      "key_symbols": [
+        "RAGCallable",
+        "RAGEvaluator",
+        "_mock_rag_pipeline",
+        "load_dataset_file",
+        "load_all_datasets",
+        "evaluate_item",
+        "run_benchmark"
+      ],
+      "terms": [
+        {"term": "Precision@K", "definition": "Proportion of the top-K retrieved documents that match the expected document reference."},
+        {"term": "NDCG@K", "definition": "Discounted cumulative gain normalized by the ideal ranking; here binary relevance for a single expected document."},
+        {"term": "token F1", "definition": "Harmonic mean of token-level precision and recall between the generated and expected answer; a string-overlap answer-quality metric."},
+        {"term": "hit rate@K", "definition": "1.0 if the expected document is anywhere in the top-K retrieved list, else 0.0."}
+      ],
+      "config": [
+        "constructor defaults: dataset_dir='evaluation/datasets', top_k=5, rag_pipeline=None (falls back to mock)"
+      ],
+      "notes": "This engine (with report_generator.py and benchmarks/metrics.py) is NOT wired into the benchmark.py CLI path, which uses RetrievalBenchmark instead; it appears to be an earlier/alternative framework. semantic_similarity is a hardcoded 0.0 placeholder. Pass condition is hit_rate>=1.0 OR token_f1>=0.5. Retrieval relevance uses normalized substring document matching."
+    },
+    {
+      "path": "evaluation/benchmarks/failure_classifier.py",
+      "purpose": "Classifies each real-world result record into human-readable failure categories (Wrong retrieval, Wrong reranking, Wrong citation, Hallucination, Low confidence, Conversation failure, Memory failure) and writes results/failure_summary.csv.",
+      "key_symbols": [
+        "CATEGORY_MAP",
+        "RESULTS_PATH",
+        "SUMMARY_CSV",
+        "classify_record",
+        "main"
+      ],
+      "terms": [
+        {"term": "hallucination risk", "definition": "A per-turn label (Low/High/Very High) read from the chat result; High/Very High classify the turn as a hallucination failure."},
+        {"term": "memory mismatch", "definition": "A flag the classifier expects on a record to signal a repeated-query answer inconsistency; used to emit the 'Memory failure' category."}
+      ],
+      "config": [],
+      "notes": "Entirely heuristic with hardcoded thresholds: confidence<0.4 with a correct answer => reranking failure; confidence<0.3 => low-confidence failure; pronoun-presence in a wrong answer => conversation failure. Dead link: real_world_test.py never writes the 'memory_mismatch' field, so the 'Memory failure' category can never fire on real_world_test output. Emits CSV sorted by count."
+    },
+    {
+      "path": "evaluation/benchmarks/metrics.py",
+      "purpose": "Defines the dataclasses (DatasetRecord, EvaluationItemResult, CategoryMetrics, AggregateBenchmarkReport) and side-effect-free IR/answer metrics (precision/recall@K, MRR, hit rate, NDCG@K, exact match, token F1) for the standalone evaluator framework.",
+      "key_symbols": [
+        "DatasetRecord",
+        "EvaluationItemResult",
+        "CategoryMetrics",
+        "AggregateBenchmarkReport",
+        "_normalize_text",
+        "_is_doc_match",
+        "precision_at_k",
+        "recall_at_k",
+        "mean_reciprocal_rank",
+        "hit_rate_at_k",
+        "ndcg_at_k",
+        "exact_match_score",
+        "token_f1_score"
+      ],
+      "terms": [
+        {"term": "text normalization", "definition": "Lowercasing and stripping punctuation/whitespace before scoring so matches are insensitive to case and formatting."},
+        {"term": "exact match", "definition": "Binary score: 1.0 if normalized generated and expected answers are identical strings."}
+      ],
+      "config": [],
+      "notes": "Retrieval relevance uses normalized substring containment via _is_doc_match. NDCG assumes a single binary-relevant target (ideal DCG fixed at 1.0). Only consumed by evaluator.py and report_generator.py (the alternate framework), not by the CLI benchmark."
+    },
+    {
+      "path": "evaluation/benchmarks/real_world_test.py",
+      "purpose": "Runs the production RAGChatService through multi-turn conversations loaded from datasets/real_world.yaml and writes per-turn JSONL records (answer, citations, confidence, hallucination_risk, latency, correctness) to results/real_world_results.jsonl.",
+      "key_symbols": [
+        "DATASET_PATH",
+        "RESULTS_PATH",
+        "load_dataset",
+        "simple_accuracy",
+        "run_conversation",
+        "main"
+      ],
+      "terms": [
+        {"term": "multi-turn conversation", "definition": "An ordered list of user turns sharing one session_id; exercises the session's conversation memory and pronoun resolution."},
+        {"term": "answer_correct", "definition": "Boolean field per turn computed by simple_accuracy: true if the answer contains the reference or difflib similarity >= 0.8."}
+      ],
+      "config": [],
+      "notes": "Uses the root-relative import 'from src.campus_helpdesk.application.rag_chat_service import RAGChatService'. Reads ChatResult attributes with getattr() and defaults, tolerating a missing .citations/.hallucination_risk. Expected answer/citations come from conversation-level keys and are copied onto each turn. Never writes memory_mismatch, breaking failure_classifier's 'Memory failure' category."
+    },
+    {
+      "path": "evaluation/benchmarks/report_generator.py",
+      "purpose": "ReportGenerator renders an AggregateBenchmarkReport (from the standalone evaluator) into a GitHub-flavored Markdown report, a structured JSON export, and a console summary under evaluation/reports.",
+      "key_symbols": [
+        "ReportGenerator",
+        "generate_markdown",
+        "save_markdown_report",
+        "save_json_report",
+        "print_console_summary"
+      ],
+      "terms": [],
+      "config": [
+        "constructor default output_dir='evaluation/reports'"
+      ],
+      "notes": "Companion to the alternate RAGEvaluator framework and unused by the benchmark.py CLI path. JSON export uses dataclasses.asdict(). Creates the output dir at construction."
+    },
+    {
+      "path": "evaluation/benchmarks/retrieval_benchmark.py",
+      "purpose": "RetrievalBenchmark, the core engine behind the CLI, wires into the live retriever (create_rag_pipeline) or a mock, evaluates dataset queries to compute Recall@1/3/5, MRR, latency stats, and failed-case records, with parallel execution.",
+      "key_symbols": [
+        "RetrieverCallable",
+        "_normalize_doc_name",
+        "_is_doc_match",
+        "RetrievalBenchmark",
+        "_init_system_retriever",
+        "_mock_retriever_adapter",
+        "load_dataset_records",
+        "evaluate_item",
+        "run_benchmark"
+      ],
+      "terms": [
+        {"term": "failed case", "definition": "A record where the expected document was not found in the top-5 retrieved results (or no results returned), with a diagnosed failure_reason."},
+        {"term": "recall@1/3/5", "definition": "Fraction of queries where the expected document was ranked at position 1 / within the top 3 / within the top 5 respectively."}
+      ],
+      "config": [
+        "constructor: dataset_dir (default evaluation/datasets), top_k (5), max_workers (4)",
+        "Settings(faiss_allow_dangerous_deserialization=True) forced when wiring the system retriever (env key FAISS_ALLOW_DANGEROUS_DESERIALIZATION)"
+      ],
+      "notes": "Prepends src/ to sys.path itself. Forcibly sets faiss_allow_dangerous_deserialization=True when creating the pipeline, bypassing the safer .env-gated default. Document identity is compared by normalized .md basename. Falls back to a mock retriever if live wiring fails. Parallel ThreadPoolExecutor only when max_workers>1 and total_queries>10. Reads dataset 'category'/'difficulty'/'perspective' fields; missing category is taken from the JSON filename stem."
+    },
+    {
+      "path": "evaluation/benchmarks/retrieval_metrics.py",
+      "purpose": "Data models (RetrievedDocItem, RetrievalItemResult, FailedCaseRecord, RetrievalCategoryMetrics, RetrievalAggregateReport) and statistics helpers (calculate_percentile, compute_category_metrics) for the retrieval benchmark.",
+      "key_symbols": [
+        "RetrievedDocItem",
+        "RetrievalItemResult",
+        "FailedCaseRecord",
+        "RetrievalCategoryMetrics",
+        "RetrievalAggregateReport",
+        "calculate_percentile",
+        "compute_category_metrics"
+      ],
+      "terms": [
+        {"term": "percentile", "definition": "Value below which a given percentage of the sorted latency samples fall; used for P95 latency."},
+        {"term": "retrieval_rank", "definition": "1-indexed rank of the expected document in the retrieved list, or 0 when it is absent from top-K."}
+      ],
+      "config": [],
+      "notes": "Pure data/statistics module using the stdlib statistics package. 'Success' is defined as the expected document appearing in the top-5. Used by retrieval_benchmark, retrieval_plotter, and retrieval_report_generator."
+    },
+    {
+      "path": "evaluation/benchmarks/retrieval_plotter.py",
+      "purpose": "RetrievalPlotter generates four publication-quality PNG charts (Recall by category, latency distribution, failure counts, overall accuracy) under evaluation/reports/plots, with a graceful fallback when matplotlib is missing.",
+      "key_symbols": [
+        "HAS_MATPLOTLIB",
+        "RetrievalPlotter",
+        "plot_recall_by_category",
+        "plot_latency_distribution",
+        "plot_failure_count_by_category",
+        "plot_overall_accuracy",
+        "generate_all_plots"
+      ],
+      "terms": [],
+      "config": [
+        "constructor default plots_dir='evaluation/reports/plots'"
+      ],
+      "notes": "matplotlib import is wrapped in try/except; without it, plot methods log and return the output path without creating the file, so downstream Markdown image links silently dangle. Uses the non-interactive 'Agg' backend and dpi=300 PNGs."
+    },
+    {
+      "path": "evaluation/benchmarks/retrieval_report_generator.py",
+      "purpose": "RetrievalReportGenerator exports a RetrievalAggregateReport to Markdown (with production-threshold PASS/FAIL status), full JSON, failed-cases JSON, and a category summary CSV, with validation and overwrite protection.",
+      "key_symbols": [
+        "THRESHOLDS",
+        "ReportGenerationError",
+        "RetrievalReportGenerator",
+        "_format_percentage",
+        "_format_float",
+        "_write_file",
+        "_validate_report",
+        "generate_markdown",
+        "save_markdown_report",
+        "save_json_report",
+        "save_failed_cases_json",
+        "save_summary_csv",
+        "generate_all_reports"
+      ],
+      "terms": [],
+      "config": [
+        "THRESHOLDS dict: recall_at_1 0.80, recall_at_3 0.85, recall_at_5 0.90, mrr 0.85, success_rate 0.90, failure_rate 0.10, p95_latency_ms 100, mean_latency_ms 50, median_latency_ms 30",
+        "constructor default output_dir='evaluation/reports'"
+      ],
+      "notes": "Bug: the Markdown report embeds hardcoded absolute image links 'file:///d:/AUNTII/evaluation/reports/plots/*.png' (the original author's machine), which resolve to nothing on any other checkout. _write_file refuses to overwrite by default (FileExistsError), and benchmark.py calls generate_all_reports() with the default overwrite=False, so a second CLI run over the same output dir fails. _validate_report enforces 0-1 ranges on ratio metrics and non-negative latency. Ruff noqa E501. Markdown shows only the top-25 failed cases."
+    }
+  ],
+  "data_flow": "Two parallel strands, neither wired into the FastAPI runtime or the analytics subsystem. (1) In-package automated benchmark: intended entry is evaluation/run_evaluation.py but it is broken (imports a nonexistent campus_helpdesk.evaluation module); the functional entry point is constructing EvaluationRunner(pipeline=RAGPipeline, dataset_path='evaluation/questions.yaml', output_dir='evaluation/results') and calling run_evaluation(), which per question calls RAGPipeline.search(limit=10) plus ConfidenceEngine.evaluate(), then writes evaluation/results/summary.json and summary.md. (2) Standalone evaluation/ family: (a) benchmark.py CLI -> RetrievalBenchmark (wires Settings(faiss_allow_dangerous_deserialization=True) + create_rag_pipeline, calls pipeline.search(query, k) per dataset query) -> RetrievalPlotter (PNGs) + RetrievalReportGenerator (retrieval_report.md/json, failed_cases.json, summary.csv). (b) real_world_test.py and adversarial_test.py import src.campus_helpdesk.application.rag_chat_service.RAGChatService directly and call respond(user_query, session_id) per turn -> results/real_world_results.jsonl / results/adversarial_results.jsonl -> real_world_metrics.py -> results/real_world_metrics.json, failure_classifier.py -> results/failure_summary.csv, then generate_real_world_report.py -> evaluation/reports/real_world_validation_report.md. Dataset inputs: evaluation/questions.yaml (in-package) and evaluation/datasets/*.json plus datasets/*.yaml (standalone). All outputs are consumed by engineers for retrieval tuning and voice-integration readiness; nothing in application/ or api/ reads them.",
+  "external_deps": [
+    "PyYAML (yaml.safe_load) for YAML datasets (questions.yaml, real_world.yaml, adversarial.yaml)",
+    "matplotlib (optional; only retrieval_plotter.py, gracefully skipped when absent)",
+    "Ollama LLM (indirectly, via RAGChatService/RAGPipeline generate calls in real-world/adversarial tests and live-retriever benchmark runs)",
+    "FAISS index + BM25 retrieval stack (via create_rag_pipeline in runner.py and retrieval_benchmark.py)",
+    "difflib.SequenceMatcher and stdlib statistics (heuristic answer judging and latency percentiles)"
+  ],
+  "risks": [
+    "evaluation/run_evaluation.py is a dead stub: it imports 'campus_helpdesk.evaluation.main', which does not exist anywhere in src/ (verified by glob and pyproject), so it raises ModuleNotFoundError if run.",
+    "Hardcoded absolute image paths ('file:///d:/AUNTII/...') in retrieval_report_generator.py Markdown break report images on any machine other than the author's.",
+    "A second run of benchmark.py over an existing evaluation/reports directory fails: RetrievalReportGenerator._write_file raises FileExistsError by default and the CLI calls generate_all_reports() with overwrite=False.",
+    "benchmark.py --dry-run is a no-op: 'retriever_pipeline=None if not args.dry_run else None' passes None in both branches, so the mock adapter is only used when live retriever wiring fails.",
+    "retrieval_benchmark.py forces Settings(faiss_allow_dangerous_deserialization=True), bypassing the .env-gated safety switch for the FAISS index loader.",
+    "evaluator.py + report_generator.py + benchmarks/metrics.py form a second, largely unwired benchmark framework (only the retrieval_* modules are used by the CLI).",
+    "real_world_test.py never writes the memory_mismatch field, so failure_classifier.py's 'Memory failure' category can never fire on its output.",
+    "Answer and retrieval correctness is judged by lenient heuristics (substring containment, difflib ratio >= 0.8, pronoun-set conversation proxy, substring source matching), so reported metric numbers are fragile and not reproducible against a strict ground-truth answer key.",
+    "infrastructure metrics.py returns a perfect 1.0 when a question has no expected_sources/expected_keywords, inflating aggregate scores.",
+    "Adversarial/real-world scripts use the root-relative 'from src.campus_helpdesk...' import, which only resolves when run from the repo root with src on sys.path; running the files directly from a different CWD raises ImportError.",
+    "Evaluation requires a live Ollama plus a loaded FAISS index to be meaningful; RAGChatService() is constructed with default settings, so config.yaml/.env must be in sync or runs silently test a degraded pipeline."
+  ]
+}

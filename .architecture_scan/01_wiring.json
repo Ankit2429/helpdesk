@@ -1,0 +1,315 @@
+{
+  "folder": "src/campus_helpdesk/",
+  "title": "Entry points & configuration wiring",
+  "purpose": "This subsystem contains every process entry point of the project (FastAPI ASGI app, robot runtime CLI, kiosk touch UI, laptop demo, FAISS index build, and evaluation benchmark) plus the shared configuration and logging wiring they all depend on. Each entry point funnels through get_settings() and the two factory functions (create_llm_service, create_rag_pipeline) and constructs a RAGChatService, so this is the composition root where the RAG/LLM/robot stacks are wired together at startup. It defines how settings from config.yaml and .env flow into all other subsystems.",
+  "files": [
+    {
+      "path": "src/campus_helpdesk/__init__.py",
+      "purpose": "Marks the campus_helpdesk Python package and carries its one-line package docstring; contains no code.",
+      "key_symbols": [],
+      "terms": [],
+      "config": [],
+      "notes": "Empty namespace/package marker only. No __version__ or package-level re-exports are defined here; all functionality lives in submodules (main, ingest, config, etc.)."
+    },
+    {
+      "path": "src/campus_helpdesk/main.py",
+      "purpose": "ASGI entry point that builds the FastAPI application and explicitly wires every RAG dependency (session manager, query rewriter, confidence engine, answerability engine, context builders, RAG pipeline, LLM service) into a single RAGChatService exposed via the /chat route.",
+      "key_symbols": [
+        "create_app(settings=None, llm_service=None) -> FastAPI",
+        "app = create_app()  (module-level ASGI instance imported by uvicorn)"
+      ],
+      "terms": [
+        {
+          "term": "ASGI entry point",
+          "definition": "The module uvicorn imports (campus_helpdesk.main:app) to serve the HTTP API; the global app = create_app() executes at import time."
+        },
+        {
+          "term": "composition root",
+          "definition": "The place where concrete service instances are constructed and injected into higher-level services; here create_app is where all RAGChatService dependencies are built."
+        },
+        {
+          "term": "CORS middleware",
+          "definition": "FastAPI middleware that controls cross-origin browser requests; in this app it is configured wide open (allow_origins=['*'] with credentials)."
+        }
+      ],
+      "config": [
+        "settings.app_name, app_version, debug (FastAPI title/version/debug)",
+        "settings.log_level (configure_logging)",
+        "settings.faiss_index_path (index load)",
+        "settings.rag_distance_threshold (PromptContextBuilder similarity_threshold)",
+        "create_llm_service(settings), create_rag_pipeline(settings)"
+      ],
+      "notes": "Known risks: CORS allow_origins=['*'] combined with allow_credentials=True; no auth or rate limiting on the API; FAISS index load failure only logs a warning so the app runs degraded without retrieval. PromptContextBuilder max_context_size is hardcoded to 7000 here, inconsistent with settings.context_composer_max_context_size (3500). The app.state.chat_service wiring is duplicated almost verbatim in robot_main.py and touch_app.py."
+    },
+    {
+      "path": "src/campus_helpdesk/ingest.py",
+      "purpose": "Production CLI entry point that (re)builds the FAISS/BM25 index from canonical Markdown knowledge using CanonicalIndexBuilder, then logs build statistics.",
+      "key_symbols": [
+        "main()  (CLI: python -m campus_helpdesk.ingest)",
+        "CanonicalIndexBuilder (from infrastructure/rag/canonical_index_builder)"
+      ],
+      "terms": [
+        {
+          "term": "canonical Markdown",
+          "definition": "The authoritative knowledge source directory (data/canonical_markdown) that the production index is built from, as opposed to ad-hoc ingestion of arbitrary files."
+        },
+        {
+          "term": "force_rebuild",
+          "definition": "The build flag passed to CanonicalIndexBuilder.build_index that rebuilds the similarity store from scratch regardless of existing state."
+        }
+      ],
+      "config": [
+        "settings.knowledge_source_path (logged as source; canonical_dir hardcoded to data/canonical_markdown)",
+        "settings.faiss_index_path (logged as output)",
+        "get_settings() for all pipeline construction"
+      ],
+      "notes": "Tight coupling to pipeline internals: it pokes private attributes (pipeline._document_loader, pipeline._document_chunker, pipeline._similarity_store) instead of using public API. data/canonical_markdown is hardcoded as canonical_dir even though it matches settings.knowledge_source_path's default. A console script entry point 'campus-helpdesk-ingest' is also exposed via pyproject.toml. Not part of the FastAPI surface."
+    },
+    {
+      "path": "src/campus_helpdesk/demo.py",
+      "purpose": "Standalone laptop demonstration entry point that wires the RAG pipeline, Ollama LLM, person detection, STT, and TTS into a PySide6 GUI (ModernChatWindow), verifying the Ollama connection up front.",
+      "key_symbols": [
+        "main()  (CLI: python -m campus_helpdesk.demo)"
+      ],
+      "terms": [
+        {
+          "term": "MVP demo",
+          "definition": "A laptop stand-in for the physical robot that runs the same RAG/LLM pipeline behind a desktop GUI, with vision/audio added for demonstration."
+        },
+        {
+          "term": "index load fallback",
+          "definition": "If no pre-built FAISS index exists, demo.py walks the knowledge directory for .md/.pdf files, ingests them with persist=False, and saves the store directly."
+        }
+      ],
+      "config": [
+        "embedding_model, embedding_device, embedding_batch_size, embedding_normalize, embedding_show_progress, embedding_local_files_only",
+        "faiss_index_path, faiss_allow_dangerous_deserialization",
+        "knowledge_source_path, knowledge_max_file_size_bytes",
+        "rag_chunk_size, rag_chunk_overlap, rag_chunk_separators, rag_add_start_index, rag_search_limit",
+        "ollama_base_url, ollama_timeout_seconds, ollama_model",
+        "webcam_index, person_detection_reset_frames",
+        "whisper_model_size, whisper_device, whisper_compute_type, stt_device_index, stt_enable_online_fallback, debug",
+        "tts_voice_model"
+      ],
+      "notes": "Contains hardcoded/legacy quirks: the Ollama probe call passes options={'num_gpu': 0}; RAGChatService is constructed with only llm_service and rag_pipeline (all other dependencies use defaults), diverging from the fuller wiring in main.py/robot_main.py/touch_app.py; the index-build fallback reaches into rag_pipeline._similarity_store.save() (private attribute); extensive f-string logging."
+    },
+    {
+      "path": "src/campus_helpdesk/evaluation.py",
+      "purpose": "CLI entry point that runs the automated RAG evaluation benchmark: builds the pipeline, runs EvaluationRunner against evaluation/questions.yaml, and prints overall/per-category metrics (quality score, Recall@5/10, MRR, keyword coverage, latency).",
+      "key_symbols": [
+        "main()  (CLI: python -m campus_helpdesk.evaluation)",
+        "EvaluationRunner (from infrastructure/evaluation/runner)"
+      ],
+      "terms": [
+        {
+          "term": "evaluation benchmark",
+          "definition": "Automated scoring of the retrieval pipeline against a curated question set (evaluation/questions.yaml) to measure retrieval quality over time."
+        },
+        {
+          "term": "Recall@5 / Recall@10",
+          "definition": "The fraction of ground-truth relevant documents present among the top-5 or top-10 retrieved results for a query."
+        },
+        {
+          "term": "MRR (Mean Reciprocal Rank)",
+          "definition": "The average over queries of 1/(rank of the first relevant document), measuring how high the first correct hit appears."
+        },
+        {
+          "term": "keyword coverage",
+          "definition": "The fraction of query terms that are covered by the retrieved documents."
+        }
+      ],
+      "config": [
+        "get_settings() used to construct the pipeline via create_rag_pipeline(settings)",
+        "hardcoded dataset_path evaluation/questions.yaml",
+        "hardcoded output_dir evaluation/results"
+      ],
+      "notes": "All paths are hardcoded relative to the repo root. Report keys are assumed by name (report['per_category_accuracy'], 'overall_score', etc.), so it is coupled to EvaluationRunner's output schema. Not part of the FastAPI surface; requires the embedding/FAISS stack to be runnable."
+    },
+    {
+      "path": "src/campus_helpdesk/touch_app.py",
+      "purpose": "Kiosk (touchscreen) entry point that launches a fullscreen CustomTkinter TouchApp whose ChatView calls RAGChatService in-process (no HTTP hop), with optional STT, TTS, wake-word, and ConversationManager voice pipeline.",
+      "key_symbols": [
+        "build_chat_service() -> RAGChatService",
+        "make_ask_callback(chat_service, session_id='touch-kiosk')",
+        "make_ask_stream_callback(chat_service, session_id='touch-kiosk')",
+        "create_tts_service(on_speaking_state_changed)",
+        "TouchApp(ctk.CTk)",
+        "main()  (CLI: python -m campus_helpdesk.touch_app)"
+      ],
+      "terms": [
+        {
+          "term": "kiosk mode",
+          "definition": "A fullscreen, touch-driven UI (Escape toggles fullscreen off) meant to run on the same Pi as the model; the UI calls the service directly rather than through HTTP."
+        },
+        {
+          "term": "wake word",
+          "definition": "A spoken phrase ('Hey Helpdesk') detected by WakeWordService that triggers the voice listening UI; its stream is paused during TTS playback to avoid acoustic self-triggering."
+        },
+        {
+          "term": "push-to-talk",
+          "definition": "Button-triggered STT recording (listen_and_transcribe) rather than always-on listening; WakeWordService is stopped for the duration of the recording."
+        }
+      ],
+      "config": [
+        "log_level, faiss_index_path, rag_distance_threshold",
+        "tts_voice_model, tts_piper_models_dir, tts_use_cuda",
+        "whisper_model_size, whisper_device, whisper_compute_type",
+        "mic_device_index (both for STT device_index and WakeWordService)"
+      ],
+      "notes": "Replicates the full RAGChatService dependency wiring found in main.py and robot_main.py (a third parallel copy). Language-prefix prompt logic for kn/hi/hinglish/kanglish is hand-rolled and duplicated between make_ask_callback and make_ask_stream_callback. All audio services are optional (try/except around imports and construction) and degrade to silent/no-op callbacks. Session ID is hardcoded 'touch-kiosk'. The _handle_greeting_triggered handler is defined but never bound to a signal, so it is effectively dead code. NonBlockingTTSService and FasterWhisperSTTService here are the infrastructure/audio variants (different from the services/ variants used by robot_main)."
+    },
+    {
+      "path": "src/campus_helpdesk/robot_main.py",
+      "purpose": "Production CLI entry point that boots the physical robot runtime: constructs camera, vision, VAD, STT, RAG-backed inference, and Piper TTS services (real or mock), wires them into SystemRuntime via an EventBus, and handles SIGINT/SIGTERM for graceful shutdown.",
+      "key_symbols": [
+        "build_production_runtime(use_mock=False, camera_index=None, mic_index=None, speaker_index=None) -> SystemRuntime",
+        "main()  (CLI: python -m campus_helpdesk.robot_main [--mock] [--camera-index N] [--mic-index N] [--speaker-index N])"
+      ],
+      "terms": [
+        {
+          "term": "SystemRuntime",
+          "definition": "The robot orchestrator (FSM/event-loop in runtime/) that consumes events from the bus and coordinates camera, vision, vad, stt, inference, and tts services."
+        },
+        {
+          "term": "EventBus",
+          "definition": "The in-process pub/sub bus (interaction/event_bus) used to decouple robot services; here constructed with maxsize=2000 and 8 workers."
+        },
+        {
+          "term": "VAD",
+          "definition": "Voice activity detection; gates STT so transcription only runs when speech is present."
+        },
+        {
+          "term": "STT backend",
+          "definition": "Speech-to-text; FasterWhisperBackend in production or MockTranscriptionBackend under --mock."
+        },
+        {
+          "term": "TTS backend",
+          "definition": "Text-to-speech; PiperBackend in production or MockSpeechBackend under --mock."
+        },
+        {
+          "term": "InferenceAdapter / LocalRAGBackend",
+          "definition": "The inference layer that adapts a chat backend to the robot's event interface; LocalRAGBackend wraps RAGChatService so the robot asks the same RAG/LLM pipeline as the API."
+        },
+        {
+          "term": "graceful shutdown",
+          "definition": "Signal-driven shutdown: SIGINT/SIGTERM handlers call runtime.stop() and exit, and the main loop also stops the runtime in a finally block."
+        }
+      ],
+      "config": [
+        "log_level, app_name, app_version, app_env",
+        "enable_vision, webcam_index, camera_fps",
+        "mic_device_index, speaker_device_index",
+        "whisper_model_size, whisper_device, whisper_compute_type",
+        "faiss_index_path, rag_distance_threshold",
+        "tts_voice_model",
+        "CLI overrides: --mock, --camera-index, --mic-index, --speaker-index"
+      ],
+      "notes": "With --mock (or enable_vision off for camera/vision), all backends are replaced by mocks (MockPersonDetector, MockTranscriptionBackend, MockInferenceBackend, MockSpeechBackend); in the mock branch the RAG pipeline and LLM service are never built. InferenceAdapter timeout is hardcoded to 35.0s. Uses the services/ stack (CameraService, VADService, etc.), not the infrastructure/audio variants that demo.py/touch_app.py use. VAD device_index defaults to 0 when mic_index is None. This is the deployment target for the Pi (systemd service aligned to robot_main per recent commits). The RAGChatService wiring is a fourth copy of the main.py composition."
+    },
+    {
+      "path": "src/campus_helpdesk/config/__init__.py",
+      "purpose": "Marks the config subpackage and carries its docstring ('Application configuration and runtime setup.'); contains no code.",
+      "key_symbols": [],
+      "terms": [],
+      "config": [],
+      "notes": "Package marker only; the actual logic lives in settings.py and logging.py."
+    },
+    {
+      "path": "src/campus_helpdesk/config/settings.py",
+      "purpose": "Defines the Pydantic Settings class, the single source of truth for all runtime configuration (env vars + .env + flattened config.yaml), with per-field validation, aliases, an ollama_options generator, and a cached get_settings() singleton.",
+      "key_symbols": [
+        "Settings(BaseSettings)",
+        "get_settings()  (@lru_cache singleton, auto-copies .env.example to .env if missing)",
+        "Settings.load_yaml_config  (model_validator(mode='before') flattening config.yaml)",
+        "Settings.ollama_options  (property building the Ollama generation options dict)",
+        "validators: require_positive_values, require_non_negative_overlap, require_positive_ollama_timeout, require_ollama_model, require_non_negative_temperature, require_probability_top_p, require_positive_ollama_integers, require_positive_repeat_penalty, require_loopback_ollama, require_chunk_separators, validate_chunk_settings, validate_offline_llm_safety"
+      ],
+      "terms": [
+        {
+          "term": "Pydantic BaseSettings",
+          "definition": "Typed configuration class that loads fields from environment variables and an optional .env file, with type coercion and validation."
+        },
+        {
+          "term": "config.yaml flattening",
+          "definition": "load_yaml_config reads config.yaml and prefixes keys (app.* -> app_*, retrieval.* -> rag_*, ollama.* -> ollama_*, etc.) into the env data before Pydantic validates; because it overwrites same-named keys, config.yaml WINS over .env for overlapping settings."
+        },
+        {
+          "term": "AliasChoices",
+          "definition": "Pydantic declaration listing multiple alternate env var names a single field accepts (e.g. RAG_SEARCH_LIMIT / FINAL_TOP_K / FINAL_RESULTS for rag_search_limit)."
+        },
+        {
+          "term": "FAISS dangerous deserialization",
+          "definition": "A gate flag (faiss_allow_dangerous_deserialization) that must be enabled before the pickle-based FAISS index is loaded; off by default, so the pipeline degrades without a loaded index."
+        },
+        {
+          "term": "distance threshold",
+          "definition": "An absolute filter on retrieved distances; the code comment explains BM25 scores are negative and FAISS L2 positive, so the old 2.0 value wrongly dropped valid RRF results, and 999.0 effectively disables the filter."
+        },
+        {
+          "term": "RRF fusion",
+          "definition": "Reciprocal rank fusion that merges BM25 and FAISS rankings; configurable via rrf_k, weight_dense/weight_sparse and fusion_mode ('weighted_hybrid')."
+        },
+        {
+          "term": "ContextComposer",
+          "definition": "A context-assembly module (enable_context_composer) that dedups/selects evidence to prevent multi-table hallucinations on small (<3b) offline LLMs; settings warn if a 1.5b/0.5b model is set without it."
+        },
+        {
+          "term": "TTL session",
+          "definition": "Conversation memory expiry (memory_session_ttl_seconds, default 300) after which a session is dropped by SessionManager."
+        }
+      ],
+      "config": [
+        ".env (env_file='.env', extra='ignore'); auto-created from .env.example if absent",
+        "config.yaml sections flattened: app.*, retrieval.* (top_k->rag_search_limit, chunk_size, chunk_overlap, distance_threshold, others as rag_*), cache.*, memory.*, ollama.*, embedding.*, logging.*",
+        "env aliases e.g. OLLAMA_MODEL, MIC_DEVICE_INDEX/VAD_DEVICE_INDEX, SPEAKER_DEVICE_INDEX, RAG_SEARCH_LIMIT/FINAL_TOP_K/FINAL_RESULTS, CANDIDATE_WINDOW/INITIAL_CANDIDATES/RERANKER_TOP_N, CLOUD_LLM_API_KEY/OPENROUTER_API_KEY/GEMINI_API_KEY, OFFLINE_LLM_MODEL/LOCAL_LLM_MODEL, DEDUPLICATE_DOCUMENTS, RRF_K, WEIGHT_DENSE/WEIGHT_SPARSE, FUSION_MODE, ENABLE_BARGE_IN, ENABLE_VISION, ENABLE_AUTO_GREETING, PUSH_TO_TALK, DEVELOPER_MODE, MEMORY_* keys"
+      ],
+      "notes": "Notable risks/quirks: (1) config.yaml load_yaml_config runs mode='before' and OVERWRITES same-named env keys, so config.yaml silently beats .env for overlapping settings; (2) several config.yaml keys have NO matching Settings field and are silently ignored under extra='ignore' (e.g. retrieval.rerank_k -> rag_rerank_k, retrieval.confidence_threshold, retrieval.answerability_threshold, memory.max_context_words, cache.ttl_seconds -> cache_ttl_seconds is not a field while cache_ttl_retrieval_seconds is); (3) confidence/hallucination threshold dicts (confidence_weights, confidence_thresholds, hallucination_risk_thresholds) are plain class attributes, not Fields, so they are not env-loadable and not validated; (4) dashboard_path hardcodes a Windows dev path (d:/AUNTII/diagnostics/performance_dashboard.json) - a portability risk; (5) ollama_model validator forbids blank but the default is 'qwen2.5:3b'; (6) get_settings() raises SystemExit with a friendly message on validation failure; (7) comments state temperature/config drift between config.yaml (temperature 0.0) and defaults (0.2)."
+    },
+    {
+      "path": "src/campus_helpdesk/config/logging.py",
+      "purpose": "Configures process-wide logging with a console StreamHandler plus a 10 MB size-based RotatingFileHandler under logs/app.log.",
+      "key_symbols": [
+        "configure_logging(log_level: str)"
+      ],
+      "terms": [
+        {
+          "term": "RotatingFileHandler",
+          "definition": "Python logging handler that rotates the log file (maxBytes=10MB, backupCount=5) once it exceeds a size threshold."
+        },
+        {
+          "term": "log level",
+          "definition": "The severity threshold (from settings.log_level) above which log records are emitted; resolved via getattr(logging, level.upper())."
+        }
+      ],
+      "config": [
+        "log_level argument (passed settings.log_level by every entry point)",
+        "hardcoded logs/app.log, maxBytes=10*1024*1024, backupCount=5, encoding='utf-8'"
+      ],
+      "notes": "Returns early if the root logger already has handlers, avoiding duplicate handlers on re-configuration. File-handler creation is wrapped in try/except and degrades to console-only silently. Uses an f-string in the warning. Note settings.logging_json / logging.json flag exists in Settings but configure_logging does not honor it (logs are plain-text format, not JSON lines)."
+    }
+  ],
+  "data_flow": "Everything funnels through the composition helpers: get_settings() (cached Settings singleton from config.yaml + .env) and the two factories create_llm_service(settings) and create_rag_pipeline(settings). main.py is the HTTP entry: uvicorn imports app, create_app() wires Settings -> configure_logging -> LLM service -> RAG pipeline -> RAGChatService (with SessionManager, QueryRewriter, ConfidenceEngine, AnswerabilityEngine, PromptContextBuilder, ContextComposer) and registers api_router, exposing POST /chat. robot_main.py, touch_app.py, and demo.py construct the same or similar services in-process with no HTTP hop: robot_main wraps RAGChatService in LocalRAGBackend behind an InferenceAdapter on an EventBus and feeds a SystemRuntime; touch_app calls RAGChatService.respond/respond_stream directly from a CustomTkinter UI plus STT/TTS/wake-word; demo.py drives the same pipeline behind a PySide6 ModernChatWindow. ingest.py and evaluation.py are offline CLI tools: ingest feeds data/canonical_markdown into CanonicalIndexBuilder to write the FAISS/BM25 index that create_rag_pipeline loads at startup (load_index()); evaluation runs the pipeline against evaluation/questions.yaml and writes reports to evaluation/results.",
+  "external_deps": [
+    "FastAPI + uvicorn (main.py HTTP app; CORSMiddleware)",
+    "pydantic / pydantic-settings (Settings, BaseSettings)",
+    "PyYAML (config.yaml parsing in load_yaml_config)",
+    "ollama Python client (demo.py connection verification; settings.ollama_base_url)",
+    "customtkinter (touch_app.py TouchApp/ChatView)",
+    "PySide6 (demo.py ModernChatWindow, presentation/chat_window)",
+    "sentence-transformers (embedding via settings; loaded in infrastructure/rag)",
+    "FAISS / rank-bm25 (index build and hybrid retrieval via create_rag_pipeline)",
+    "faster-whisper (STT backends in demo/touch_app/robot_main)",
+    "piper-tts (TTS backends in robot_main/touch_app)",
+    "opencv (camera/vision via robot_main services)"
+  ],
+  "risks": [
+    "RAGChatService dependency wiring is duplicated near-verbatim in four places (main.py, robot_main.py, touch_app.py, and a reduced variant in demo.py) - any change to the composition must be mirrored manually and drift is likely.",
+    "config.yaml wins over .env for overlapping settings because load_yaml_config overwrites same-named env keys (documented in CLAUDE.md as a phantom-config-drift trap), and several config.yaml keys (retrieval.rerank_k, retrieval.confidence_threshold, retrieval.answerability_threshold, memory.max_context_words, cache.ttl_seconds) have no matching Settings field and are silently ignored under extra='ignore'.",
+    "Hardcoded values scattered across the subsystem: PromptContextBuilder max_context_size=7000 (vs settings.context_composer_max_context_size=3500), dashboard_path 'd:/AUNTII/diagnostics/performance_dashboard.json' (Windows-specific, breaks portability), session_id 'touch-kiosk', InferenceAdapter timeout 35.0s, canonical_dir 'data/canonical_markdown', evaluation paths.",
+    "main.py exposes CORS allow_origins=['*'] with allow_credentials=True and has no auth or rate limiting; the web UI renders replies via innerHTML (XSS) per CLAUDE.md.",
+    "FAISS index load failure is only warned (degraded mode) in main.py, robot_main.py, and touch_app.py, and settings.faiss_allow_dangerous_deserialization defaults to False so the pickle index may not load at all.",
+    "ingest.py and demo.py reach into private pipeline attributes (pipeline._document_loader, _document_chunker, _similarity_store, rag_pipeline._similarity_store.save()) - brittle coupling to factory internals.",
+    "robot_main.py --mock mode builds no LLM/RAG pipeline at all, so mock runs never exercise the retrieval stack; camera_service/tts_service stubs noted in CLAUDE.md (device_index=99 hardcoded, Piper stub, broken Windows detection) are upstream of this wiring.",
+    "configure_logging ignores settings.logging_json (plain text output regardless of the JSON-lines flag) and silently degrades to console-only if the file handler fails."
+  ]
+}

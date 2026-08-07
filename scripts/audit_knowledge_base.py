@@ -8,7 +8,7 @@ exist in the knowledge base, outputting a clear audit report for missing vs pres
 import re
 import sys
 from pathlib import Path
-from typing import Dict, List, Any
+from typing import Any
 
 sys.stdout.reconfigure(encoding="utf-8")
 
@@ -62,7 +62,7 @@ def main():
                     pass
             print(f"Loaded {len(docs)} files from data/canonical_markdown.")
 
-    results: Dict[str, List[Dict[str, Any]]] = {}
+    results: dict[str, list[dict[str, Any]]] = {}
 
     for entity_name, patterns in AUDIT_ENTITIES:
         regexes = [re.compile(p, re.IGNORECASE) for p in patterns]

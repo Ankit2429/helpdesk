@@ -158,7 +158,7 @@ def main():
                 rel_path = os.path.relpath(fp, markdown_root)
                 
                 try:
-                    with open(fp, "r", encoding="utf-8", errors="ignore") as file_handle:
+                    with open(fp, encoding="utf-8", errors="ignore") as file_handle:
                         content = file_handle.read()
                         
                     norm_content, ocr_fixes, headings, tables, formats = normalize_text(content)

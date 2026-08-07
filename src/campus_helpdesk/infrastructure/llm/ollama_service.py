@@ -61,10 +61,7 @@ class OllamaLLMService:
         temp = float(self._generation_options.get("temperature", 0.2))
         max_tok = int(self._generation_options.get("num_predict", 512))
 
-        try:
-            from campus_helpdesk.services.llm_service import LLMService as CoreLLMService
-        except ImportError:
-            from services.llm_service import LLMService as CoreLLMService
+        from services.llm_service import LLMService as CoreLLMService
         self._core_service = CoreLLMService(
             model=model,
             host=base_url,

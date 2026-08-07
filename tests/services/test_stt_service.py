@@ -10,6 +10,9 @@ Coverage:
 5.  Corrupted and empty audio files recovery handling (emitting ERROR)
 6.  STT Diagnostics metrics collection
 7.  Performance benchmarks (transcription latency < 1.0 second)
+8.  Short audio guard: segments below min_audio_duration_ms are discarded
+9.  Language detection: TRANSCRIPT_FINAL carries correct language code
+10. Beam size parameter: configurable and forwarded to transcribe call
 """
 
 from __future__ import annotations
@@ -28,6 +31,7 @@ from campus_helpdesk.interaction.events import (
     VoicePayload,
 )
 from campus_helpdesk.services.stt_service import (
+    FasterWhisperBackend,
     MockTranscriptionBackend,
     STTService,
 )
@@ -37,14 +41,18 @@ from campus_helpdesk.services.stt_service import (
 # ---------------------------------------------------------------------------
 
 
-def _make_voice_stopped_event(path: str, chunk_id: str) -> EventEnvelope:
+def _make_voice_stopped_event(
+    path: str,
+    chunk_id: str,
+    duration_ms: int = 1500,
+) -> EventEnvelope:
     return EventEnvelope.create(
         event_type=EventType.VOICE_STOPPED,
         source="vad",
         payload=VoicePayload(
             audio_chunk_id=chunk_id,
             sample_rate=16000,
-            duration_ms=1500,
+            duration_ms=duration_ms,
             audio_segment_path=path,
         ),
         session_id="session-123",
@@ -128,7 +136,7 @@ class TestSTTTranscription:
         assert payload.confidence == 0.96
         assert payload.audio_chunk_id == "chunk-456"
         assert payload.duration_ms == 1500
-        
+
         meta = final_events[0].get_metadata()
         assert "transcription_latency_ms" in meta
         assert meta["model_name"] == "mock-whisper-tiny"
@@ -151,7 +159,7 @@ class TestSTTTranscription:
 
         assert done.wait(timeout=3.0)
         assert len(error_events) == 1
-        
+
         payload = error_events[0].payload
         assert isinstance(payload, ErrorPayload)
         assert payload.service == "test-stt-service"
@@ -180,7 +188,7 @@ class TestFIFOQueue:
 
         stt.start()
 
-        # Send 5 events in quick succession
+        # Send 5 events in quick succession (all duration_ms=1500, above min guard)
         for i in range(5):
             bus.publish(_make_voice_stopped_event(f"path_{i}.wav", f"chunk_{i}"))
 
@@ -191,7 +199,194 @@ class TestFIFOQueue:
 
 
 # ===========================================================================
-# 4. Benchmarks
+# 4. Short Audio Guard (min_audio_duration_ms)
+# ===========================================================================
+
+
+class TestShortAudioGuard:
+    def test_short_segment_discarded(
+        self, bus: EventBus, mock_backend: MockTranscriptionBackend
+    ) -> None:
+        """Segments shorter than min_audio_duration_ms must NOT reach the backend."""
+        final_events: list[EventEnvelope] = []
+
+        srv = STTService(
+            event_bus=bus,
+            backend=mock_backend,
+            min_audio_duration_ms=500,
+            name="test-stt-guard",
+        )
+        bus.subscribe(
+            lambda e: final_events.append(e),
+            EventType.TRANSCRIPT_FINAL,
+            source="guard-spy",
+        )
+        srv.start()
+
+        # Publish a 200ms segment (below 500ms threshold)
+        bus.publish_sync(
+            _make_voice_stopped_event("short_noise.wav", "chunk-short", duration_ms=200)
+        )
+        time.sleep(0.3)
+
+        assert len(final_events) == 0, (
+            f"Short segment (200ms) should be discarded, but got {len(final_events)} TRANSCRIPT_FINAL events"
+        )
+
+        srv.shutdown()
+
+    def test_sufficient_segment_transcribed(
+        self, bus: EventBus, mock_backend: MockTranscriptionBackend
+    ) -> None:
+        """Segments at or above min_audio_duration_ms must proceed to the backend."""
+        done = threading.Event()
+        final_events: list[EventEnvelope] = []
+
+        srv = STTService(
+            event_bus=bus,
+            backend=mock_backend,
+            min_audio_duration_ms=500,
+            name="test-stt-guard-ok",
+        )
+        bus.subscribe(
+            lambda e: [final_events.append(e), done.set()],
+            EventType.TRANSCRIPT_FINAL,
+            source="guard-ok-spy",
+        )
+        srv.start()
+
+        # Publish a 600ms segment (above 500ms threshold)
+        bus.publish_sync(
+            _make_voice_stopped_event("valid_speech.wav", "chunk-ok", duration_ms=600)
+        )
+
+        assert done.wait(timeout=3.0), "Expected TRANSCRIPT_FINAL for 600ms segment"
+        assert len(final_events) == 1
+
+        srv.shutdown()
+
+    def test_guard_disabled_with_zero(
+        self, bus: EventBus, mock_backend: MockTranscriptionBackend
+    ) -> None:
+        """Setting min_audio_duration_ms=0 disables the guard entirely."""
+        done = threading.Event()
+        final_events: list[EventEnvelope] = []
+
+        srv = STTService(
+            event_bus=bus,
+            backend=mock_backend,
+            min_audio_duration_ms=0,   # Disabled
+            name="test-stt-guard-off",
+        )
+        bus.subscribe(
+            lambda e: [final_events.append(e), done.set()],
+            EventType.TRANSCRIPT_FINAL,
+            source="guard-off-spy",
+        )
+        srv.start()
+
+        # Even 10ms passes when guard is disabled
+        bus.publish_sync(
+            _make_voice_stopped_event("tiny_noise.wav", "chunk-tiny", duration_ms=10)
+        )
+
+        assert done.wait(timeout=3.0), "Guard disabled: even tiny segments should transcribe"
+        assert len(final_events) == 1
+
+        srv.shutdown()
+
+    def test_min_duration_in_diagnostics(
+        self, bus: EventBus, mock_backend: MockTranscriptionBackend
+    ) -> None:
+        """min_audio_duration_ms must appear in diagnostics output."""
+        srv = STTService(
+            event_bus=bus,
+            backend=mock_backend,
+            min_audio_duration_ms=750,
+            name="test-stt-diag",
+        )
+        srv.start()
+        diag = srv.diagnostics()
+        assert "min_audio_duration_ms" in diag
+        assert diag["min_audio_duration_ms"] == 750
+        srv.shutdown()
+
+
+# ===========================================================================
+# 5. Language Detection
+# ===========================================================================
+
+
+class TestLanguageDetection:
+    """Verify that TRANSCRIPT_FINAL carries the correct language code from backend."""
+
+    def _run_with_language(
+        self, bus: EventBus, lang_code: str, lang_text: str
+    ) -> str:
+        """Helper: create a backend that returns a specific language, run STT, return lang."""
+        class LangMockBackend(MockTranscriptionBackend):
+            def transcribe(self, audio_path: str):
+                return lang_text, lang_code, 0.99
+
+        done = threading.Event()
+        detected_langs: list[str] = []
+
+        srv = STTService(
+            event_bus=bus,
+            backend=LangMockBackend(),
+            min_audio_duration_ms=0,
+            name=f"test-stt-lang-{lang_code}",
+        )
+        bus.subscribe(
+            lambda e: [detected_langs.append(e.payload.language), done.set()],
+            EventType.TRANSCRIPT_FINAL,
+            source=f"lang-spy-{lang_code}",
+        )
+        srv.start()
+        bus.publish_sync(_make_voice_stopped_event("audio.wav", "chunk-lang"))
+        done.wait(timeout=3.0)
+        srv.shutdown()
+        return detected_langs[0] if detected_langs else ""
+
+    def test_english_language_code(self, bus: EventBus) -> None:
+        lang = self._run_with_language(bus, "en", "where is the library")
+        assert lang == "en", f"Expected 'en', got {lang!r}"
+
+    def test_hindi_language_code(self, bus: EventBus) -> None:
+        lang = self._run_with_language(bus, "hi", "पुस्तकालय कहाँ है")
+        assert lang == "hi", f"Expected 'hi', got {lang!r}"
+
+    def test_kannada_language_code(self, bus: EventBus) -> None:
+        lang = self._run_with_language(bus, "kn", "ಗ್ರಂಥಾಲಯ ಎಲ್ಲಿದೆ")
+        assert lang == "kn", f"Expected 'kn', got {lang!r}"
+
+
+# ===========================================================================
+# 6. FasterWhisperBackend Configuration
+# ===========================================================================
+
+
+class TestFasterWhisperBackendConfig:
+    def test_beam_size_default_is_1(self) -> None:
+        """Default beam_size must be 1 (greedy, fast)."""
+        backend = FasterWhisperBackend()
+        assert backend._beam_size == 1
+
+    def test_beam_size_is_configurable(self) -> None:
+        """beam_size should be accepted as constructor parameter."""
+        backend = FasterWhisperBackend(beam_size=5)
+        assert backend._beam_size == 5
+
+    def test_model_name_includes_beam_size(self) -> None:
+        """model_name should reflect the configured beam_size for diagnostics."""
+        b1 = FasterWhisperBackend(beam_size=1)
+        b5 = FasterWhisperBackend(beam_size=5)
+        assert "beam1" in b1.model_name
+        assert "beam5" in b5.model_name
+
+
+# ===========================================================================
+# 7. Benchmarks
 # ===========================================================================
 
 

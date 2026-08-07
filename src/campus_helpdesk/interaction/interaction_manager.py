@@ -31,6 +31,7 @@ import time
 import uuid
 from dataclasses import dataclass
 from typing import Any
+from collections.abc import Callable
 
 from campus_helpdesk.interaction.event_bus import EventBus, SubscriptionHandle
 from campus_helpdesk.interaction.events import (
@@ -89,12 +90,21 @@ class InteractionManager:
         self,
         event_bus: EventBus,
         state_machine: RobotStateMachine,
+        tts_interrupt_callback: Callable[[], None] | None = None,
+        session_clear_callback: Callable[[str], None] | None = None,
+        enable_barge_in: bool = False,
         name: str = "InteractionManager",
     ) -> None:
         self._bus = event_bus
         self._fsm = state_machine
         self._name = name
         self._lock = threading.RLock()
+        self._enable_barge_in = enable_barge_in
+        # Barge-in callback: called when VOICE_STARTED fires in SPEAKING state.
+        # Typically set to TTSService.interrupt() by system_runtime.py.
+        self._tts_interrupt_callback = tts_interrupt_callback
+        # Session clear callback: called when PERSON_LEFT fires to reset session memory.
+        self._session_clear_callback = session_clear_callback
 
         # Context
         self._context = InteractionContext()
@@ -113,6 +123,9 @@ class InteractionManager:
 
         self._subscribe_all()
         self._start_timeout_monitor()
+
+        # Deferred events — replayed once SYSTEM_READY fires
+        self._deferred_events: list[EventEnvelope] = []
 
         logger.info("%s initialized.", name)
 
@@ -259,11 +272,30 @@ class InteractionManager:
                     reason="System ready",
                     correlation_id=event.event_id,
                 )
+                # Replay any deferred events accumulated during boot
+                deferred = list(self._deferred_events)
+                self._deferred_events.clear()
+                if deferred:
+                    logger.info(
+                        "Manager: Replaying %d deferred event(s) after SYSTEM_READY",
+                        len(deferred),
+                    )
+                for deferred_evt in deferred:
+                    self.handle_event(deferred_evt)
             except InvalidTransitionError as exc:
                 logger.error("Manager: Transition fail during SYSTEM_READY: %s", exc)
 
     def _handle_person_detected(self, event: EventEnvelope) -> None:
-        if self._fsm.state == RobotState.IDLE:
+        current_state = self._fsm.state
+        if current_state in {RobotState.BOOTING, RobotState.INITIALIZING}:
+            # Runtime not ready yet — defer and replay after SYSTEM_READY
+            logger.info(
+                "Manager: PERSON_DETECTED deferred (FSM in %s, awaiting SYSTEM_READY)",
+                current_state.name,
+            )
+            self._deferred_events.append(event)
+            return
+        if current_state == RobotState.IDLE:
             try:
                 new_session = str(uuid.uuid4())
                 self._context.clear()
@@ -291,7 +323,7 @@ class InteractionManager:
             except InvalidTransitionError as exc:
                 logger.error("Manager: Transition fail: %s", exc)
         else:
-            logger.warning(
+            logger.info(
                 "Manager: Ignored PERSON_DETECTED. FSM in %s", self._fsm.state.name
             )
 
@@ -313,6 +345,14 @@ class InteractionManager:
                 )
                 self._context.clear()
 
+                # Clear conversation session memory for departing visitor
+                if active_session and self._session_clear_callback:
+                    try:
+                        self._session_clear_callback(active_session)
+                        logger.info("Manager: Cleared session memory for session: %s", active_session)
+                    except Exception as cb_err:
+                        logger.warning("Manager: Session clear callback failed: %s", cb_err)
+
                 # Publish SESSION_ENDED control event
                 self._bus.publish(
                     EventEnvelope.create(
@@ -331,16 +371,42 @@ class InteractionManager:
             )
 
     def _handle_voice_started(self, event: EventEnvelope) -> None:
-        if self._fsm.state == RobotState.READY:
+        if self._fsm.state in {RobotState.READY, RobotState.IDLE}:
             try:
                 self._fsm.transition_to(
                     RobotState.LISTENING,
-                    reason="Speech detected",
+                    reason="Speech / Push-to-Talk detected",
                     session_id=self._context.session_id,
                     correlation_id=event.event_id,
                 )
             except InvalidTransitionError as exc:
                 logger.error("Manager: Transition fail: %s", exc)
+        elif self._fsm.state == RobotState.SPEAKING:
+            if not self._enable_barge_in:
+                logger.info(
+                    "Manager: Ignored VOICE_STARTED in SPEAKING state (enable_barge_in=False)."
+                )
+                return
+            # Barge-in: user spoke while assistant was speaking.
+            # Interrupt TTS immediately and transition to LISTENING.
+            logger.info(
+                "Manager: Barge-in detected — VOICE_STARTED in SPEAKING state. "
+                "Firing TTS interrupt and transitioning to LISTENING."
+            )
+            if self._tts_interrupt_callback is not None:
+                try:
+                    self._tts_interrupt_callback()
+                except Exception as cb_err:
+                    logger.warning("Manager: TTS interrupt callback raised: %s", cb_err)
+            try:
+                self._fsm.transition_to(
+                    RobotState.LISTENING,
+                    reason="Barge-in: user spoke while assistant was talking",
+                    session_id=self._context.session_id,
+                    correlation_id=event.event_id,
+                )
+            except InvalidTransitionError as exc:
+                logger.error("Manager: Barge-in transition fail: %s", exc)
         else:
             logger.warning(
                 "Manager: Ignored VOICE_STARTED. FSM in %s", self._fsm.state.name
@@ -364,35 +430,60 @@ class InteractionManager:
 
     def _handle_transcript_final(self, event: EventEnvelope) -> None:
         current = self._fsm.state
-        # Allow transition from LISTENING directly to PROCESSING if voice_stop was missed
-        if current in {RobotState.LISTENING, RobotState.PROCESSING}:
-            try:
-                if current == RobotState.LISTENING:
-                    self._fsm.transition_to(
-                        RobotState.PROCESSING,
-                        reason="Final transcript received directly",
-                        session_id=self._context.session_id,
-                        correlation_id=event.event_id,
-                    )
-                self._context.last_transcript_id = event.event_id
-
-                # Publish QUERY_STARTED to activate RAG/inference pipeline
-                payload_data = getattr(event.payload, "text", "Unknown query")
-                self._bus.publish(
-                    EventEnvelope.create(
-                        event_type=EventType.QUERY_STARTED,
-                        source=self._name,
-                        payload=QueryPayload(query=payload_data),
-                        session_id=self._context.session_id,
-                        correlation_id=event.event_id,
-                    )
-                )
-            except InvalidTransitionError as exc:
-                logger.error("Manager: Transition fail: %s", exc)
-        else:
+        if current not in {RobotState.READY, RobotState.IDLE, RobotState.LISTENING, RobotState.PROCESSING}:
             logger.warning(
                 "Manager: Ignored TRANSCRIPT_FINAL. FSM in %s", self._fsm.state.name
             )
+            return
+
+        # Deduplicate identical events or rapid duplicate transcripts
+        if self._context.last_transcript_id == event.event_id:
+            logger.info("Manager: Duplicate TRANSCRIPT_FINAL event_id %s ignored.", event.event_id)
+            return
+
+        payload_data = getattr(event.payload, "text", "").strip()
+
+        # Empty transcript handling: empty STT output must never enter pipeline
+        if not payload_data:
+            if current in {RobotState.PROCESSING, RobotState.READY, RobotState.IDLE}:
+                logger.info("Manager: Empty transcript in %s state. Ignoring.", current.name)
+                return
+            else:  # LISTENING
+                logger.info("Manager: Empty transcript received in LISTENING. Transitioning back to READY.")
+                try:
+                    self._fsm.transition_to(
+                        RobotState.READY,
+                        reason="Empty transcript received",
+                        session_id=self._context.session_id,
+                        correlation_id=event.event_id,
+                    )
+                except InvalidTransitionError as exc:
+                    logger.error("Manager: Transition fail: %s", exc)
+                return
+
+        # Record this transcript event ID to guarantee single processing
+        self._context.last_transcript_id = event.event_id
+
+        # Non-empty transcript: advance FSM to PROCESSING if needed, then publish QUERY_STARTED
+        try:
+            if current in {RobotState.READY, RobotState.IDLE, RobotState.LISTENING}:
+                self._fsm.transition_to(
+                    RobotState.PROCESSING,
+                    reason="Final transcript received",
+                    session_id=self._context.session_id,
+                    correlation_id=event.event_id,
+                )
+            self._bus.publish(
+                EventEnvelope.create(
+                    event_type=EventType.QUERY_STARTED,
+                    source=self._name,
+                    payload=QueryPayload(query=payload_data),
+                    session_id=self._context.session_id,
+                    correlation_id=event.event_id,
+                )
+            )
+        except InvalidTransitionError as exc:
+            logger.error("Manager: Transition fail: %s", exc)
 
     def _handle_query_completed(self, event: EventEnvelope) -> None:
         # QUERY_COMPLETED is a middle diagnostic pipeline checkpoint event.
@@ -405,6 +496,10 @@ class InteractionManager:
             )
 
     def _handle_answer_ready(self, event: EventEnvelope) -> None:
+        if self._context.last_answer_id == event.event_id:
+            logger.info("Manager: Duplicate ANSWER_READY event_id %s ignored.", event.event_id)
+            return
+
         if self._fsm.state == RobotState.PROCESSING:
             try:
                 self._context.last_answer_id = event.event_id

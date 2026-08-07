@@ -2,6 +2,12 @@
 src/campus_helpdesk/infrastructure/vision/greeting_manager.py
 
 Time-Aware and Random Greeting Generator with Cooldown Debouncing for AUNTII Helpdesk Robot.
+
+v1.1 — Added per-session guard: when ``per_session_guard=True`` (default),
+a greeting is blocked for the lifetime of the current presence session,
+regardless of the cooldown timer or tracker-ID recycling.  Call
+``reset_session()`` (or ``reset_cooldown()``) to allow a new greeting after
+the person has left.
 """
 
 from __future__ import annotations
@@ -16,14 +22,33 @@ logger = logging.getLogger("campus_helpdesk.greeting_manager")
 
 class GreetingManager:
     """
-    Manages time-aware & random greetings with strict cooldown debouncing (5-10 seconds)
-    to prevent repeated triggers.
+    Manages time-aware & random greetings with strict cooldown debouncing and
+    an optional per-session guard to prevent repeated greetings while the same
+    person remains in view.
+
+    Parameters
+    ----------
+    cooldown_seconds:
+        Minimum time (seconds) between any two greetings.  Default: 7.0.
+    per_session_guard:
+        If True, a greeting is blocked once fired for the current session,
+        independent of the cooldown timer.  Reset with ``reset_session()``
+        or ``reset_cooldown()``.  Default: True.
     """
 
-    def __init__(self, cooldown_seconds: float = 7.0) -> None:
+    def __init__(
+        self,
+        cooldown_seconds: float = 7.0,
+        per_session_guard: bool = True,
+    ) -> None:
         self.cooldown_seconds = cooldown_seconds
+        self.per_session_guard = per_session_guard
+
         self.last_greeting_time: float = 0.0
         self.last_greeted_user_id: int | None = None
+
+        # Per-session guard flag — set True on first greeting, cleared by reset_session()
+        self._session_greeted: bool = False
 
         self.multilingual_greetings = {
             "en": {
@@ -62,16 +87,26 @@ class GreetingManager:
         }
 
     def is_cooldown_active(self, user_id: int | None = None) -> bool:
-        """Check if greeting cooldown is active."""
+        """Check if greeting is blocked by cooldown timer or per-session guard."""
+        # Per-session guard takes priority: if we already greeted this session, block.
+        if self.per_session_guard and self._session_greeted:
+            return True
+        # Fallback: time-based cooldown
         now = time.time()
         elapsed = now - self.last_greeting_time
         if elapsed < self.cooldown_seconds:
             return True
         return False
 
-    def generate_greeting(self, user_name: str | None = None, user_id: int | None = None, language: str = "en") -> str:
+    def generate_greeting(
+        self,
+        user_name: str | None = None,
+        user_id: int | None = None,
+        language: str = "en",
+    ) -> str:
         """
         Generate time-aware or random greeting string in the active conversation language.
+        Records the greeting time and sets the per-session guard.
         """
         lang = language.lower() if language else "en"
         if lang not in self.multilingual_greetings:
@@ -99,11 +134,30 @@ class GreetingManager:
 
         self.last_greeting_time = time.time()
         self.last_greeted_user_id = user_id
-        logger.info(f"[Greeting Generated] Language='{lang}': '{greeting_str}' (User ID #{user_id})")
+        self._session_greeted = True  # Lock greeting for this session
+
+        logger.info(
+            "[Greeting Generated] Language='%s': '%s' (User ID #%s)",
+            lang,
+            greeting_str,
+            user_id,
+        )
 
         return greeting_str
 
+    def reset_session(self) -> None:
+        """Reset the per-session guard to allow a new greeting on next visit.
+
+        Call this when the person has definitively left (PERSON_LEFT fires).
+        Does not reset the cooldown timer — back-to-back visits still respect
+        the time-based cooldown.
+        """
+        self._session_greeted = False
+        self.last_greeted_user_id = None
+        logger.debug("[GreetingManager] Session reset — next visitor may be greeted.")
+
     def reset_cooldown(self) -> None:
-        """Reset cooldown timestamp manually."""
+        """Reset both cooldown timestamp and session guard manually (e.g., for tests)."""
         self.last_greeting_time = 0.0
         self.last_greeted_user_id = None
+        self._session_greeted = False

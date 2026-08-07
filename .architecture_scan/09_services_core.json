@@ -1,0 +1,129 @@
+{
+  "folder": "src/campus_helpdesk/services/",
+  "title": "Services: core RAG support",
+  "purpose": "A set of lightweight, mostly pure-Python text-processing services that prepare user input for, and post-process output from, the RAG chat pipeline. It normalizes raw queries (spelling, synonyms, punctuation), detects the language for the optional translation step, blocks prompt-injection patterns, validates that retrieved context can support an answer, strips fabricated citations/URLs from generated replies, and manages knowledge-document metadata vocabularies. These services sit between the HTTP/robot entry points and the RAG infrastructure; they are stateless, dependency-light, and used by RAGChatService, InferenceAdapter, and the knowledge ingestion tooling.",
+  "files": [
+    {
+      "path": "src/campus_helpdesk/services/__init__.py",
+      "purpose": "Package marker with a phase-3 docstring noting that the services layer (Camera, STT, TTS, RAG/Inference) powers the real-time interaction loop.",
+      "key_symbols": [],
+      "terms": [],
+      "config": [],
+      "notes": "Declares no symbols; the module docstring frames the package as 'Phase 3 - Core Service Implementations'. The actual production RAG entry point (RAGChatService in application/) imports individual modules from this package by name."
+    },
+    {
+      "path": "src/campus_helpdesk/services/answerability_engine.py",
+      "purpose": "Determines whether the retrieved context contains enough evidence to answer the query, returning 'Supported', 'Partial', or 'Insufficient' based on keyword overlap and the confidence level.",
+      "key_symbols": [
+        "AnswerabilityEngine",
+        "AnswerabilityEngine.evaluate_answerability(query, contexts, confidence_level) -> str",
+        "important_keywords"
+      ],
+      "terms": [
+        {"term": "answerability", "definition": "A judgment of whether the retrieved context actually contains enough evidence to support a reply to the query; here implemented as a heuristic keyword-overlap check gated on the ConfidenceEngine's confidence level, returning 'Supported'/'Partial'/'Insufficient'."}
+      ],
+      "config": [],
+      "notes": "Stateless; only a static method. Wired into RAGChatService.__init__ (application/rag_chat_service.py), main.py, robot_main.py, and touch_app.py, but evaluate_answerability is NEVER called in production code - only in tests/unit/test_sprint3_core.py. This makes it dormant/dead wiring: RAGChatService stores _answerability_engine but never invokes it. Keyword list is hardcoded (fees, hours, committee, scholarship, chancellor, etc.); relies on getattr(c, 'content', '') so it accepts both dataclass SearchResult-like objects and dicts despite the list[dict] type hint."
+    },
+    {
+      "path": "src/campus_helpdesk/services/citation_validator.py",
+      "purpose": "Scans a generated response for numeric citation brackets like [1] and URLs, removes any that reference out-of-bounds context indices or non-existent source URLs, and warns on each fabricated reference.",
+      "key_symbols": [
+        "CitationValidator",
+        "CitationValidator.validate_citations(response, contexts) -> str"
+      ],
+      "terms": [
+        {"term": "citation validation", "definition": "Post-generation cleanup that verifies the numeric bracket citations and URLs the LLM produced actually correspond to the retrieved context documents, deleting fabricated ones (e.g. [3] when only 2 contexts exist, or a URL not in the sources) before the reply is stored/sent."}
+      ],
+      "config": [],
+      "notes": "Stateless static method. Called by RAGChatService at line ~256: CitationValidator.validate_citations(reply, [res.document for res in search_results]) - note it passes the underlying documents, not the SearchResult objects. Reads source_url from c.metadata (dict-style access), so contexts must be dicts/KnowledgeDocument-like with a .metadata mapping. Only strips brackets with a leading whitespace via regex r'\\s*\\[{idx}\\]' (a bare '[3]' with no preceding space may survive); URL cleanup uses rstrip('.,;)') to de-punctuate. Logs warnings but never raises."
+    },
+    {
+      "path": "src/campus_helpdesk/services/language_detector.py",
+      "purpose": "Detects the language of a user query via Unicode script analysis for Devanagari (Hindi) and Kannada, falling back to the langdetect library for Latin-script text.",
+      "key_symbols": [
+        "DetectionResult (NamedTuple: language, language_name, confidence)",
+        "LanguageDetector",
+        "LanguageDetector.detect(text) -> DetectionResult",
+        "LANGUAGE_NAMES"
+      ],
+      "terms": [
+        {"term": "language detection", "definition": "Classifying the script/language of incoming user text so the pipeline knows whether to run the English translation step and record the detected language on the reply; done here by counting Unicode code-point ranges (Devanagari \\u0900-\\u097F for Hindi, Kannada \\u0C80-\\u0CFF) with a langdetect-library fallback."},
+        {"term": "Devanagari", "definition": "The Unicode script range \\u0900-\\u097F used to write Hindi; presence of any such characters marks the query as Hindi (confidence 0.99)."},
+        {"term": "Kannada", "definition": "The Unicode script range \\u0C80-\\u0CFF; presence marks the query as Kannada (confidence 0.99), one of the three supported languages alongside English and Hindi."}
+      ],
+      "config": [],
+      "notes": "Pure module-level static method; no settings read. langdetect is imported lazily inside a try/except (ImportError, Exception) and gracefully falls back to English - good, because langdetect is NOT declared in pyproject.toml or uv.lock. The broad 'except Exception' also masks genuine langdetect failures. DetectionResult is a NamedTuple; note there is an unrelated DetectionResult in infrastructure/vision/person_detector.py. Used by RAGChatService (rag_chat_service.py ~line 102, feeds the non-English translation block and detected_language on ChatResult) and by InferenceAdapter (services/inference_adapter.py ~line 382, to tag the answer's language on the robot stack). Empty/blank text short-circuits to English with confidence 1.0."
+    },
+    {
+      "path": "src/campus_helpdesk/services/metadata_manager.py",
+      "purpose": "Validates knowledge-document metadata against controlled vocabularies (document types, entity types, official departments, campuses) and formats metadata dicts as YAML frontmatter.",
+      "key_symbols": [
+        "MetadataManager",
+        "MetadataManager.CONTROLLED_DOC_TYPES",
+        "MetadataManager.CONTROLLED_ENTITY_TYPES",
+        "MetadataManager.OFFICIAL_DEPARTMENTS",
+        "MetadataManager.validate(metadata) -> list[str]",
+        "MetadataManager.format_frontmatter(metadata) -> str"
+      ],
+      "terms": [
+        {"term": "controlled vocabulary", "definition": "A fixed enumerated list of allowed values for a metadata field (e.g. document_type must be one of program-detail, curriculum, notice, ...); validate() warns when a document's metadata uses a value outside the list."},
+        {"term": "frontmatter", "definition": "A YAML block delimited by --- lines at the top of a Markdown knowledge document that stores structured metadata; format_frontmatter serializes a metadata dict into this form for ingestion."},
+        {"term": "campus_scope", "definition": "The metadata field recording which of the four campuses a document applies to; must be one of Hubballi, Belagavi, Bengaluru, or All."}
+      ],
+      "config": [],
+      "notes": "Classmethods only, no instances needed. validate() returns warning strings, never raises. Duplicates logic in infrastructure/knowledge/metadata_extractor.py, which has its own format_frontmatter (key-sorted, no yaml dependency); MetadataManager.format_frontmatter imports yaml at call time (PyYAML is not declared in pyproject.toml/uv.lock - would ImportError if absent). Not imported by production application code: only tests/unit/test_sprint1_core.py exercises MetadataManager.validate, and docs/implementation_plan_knowledge.md describes it as a planned component. OFFICIAL_DEPARTMENTS contains an empty-string entry (''), which when found triggers no warning because validate() skips empty values - effectively a dead/odd entry. validate() reads keys document_type, entity_type, department, campus_scope."
+    },
+    {
+      "path": "src/campus_helpdesk/services/prompt_sanitizer.py",
+      "purpose": "Strips known prompt-injection patterns from user input before it reaches the LLM, truncating long input, removing control characters, and redacting system-instruction-override phrases.",
+      "key_symbols": [
+        "_INJECTION_PATTERNS",
+        "_MAX_INPUT_LENGTH (2000)",
+        "sanitize_user_input(text) -> str"
+      ],
+      "terms": [
+        {"term": "prompt injection", "definition": "User text crafted to override the chatbot's system instructions (e.g. 'ignore previous instructions', 'you are now X', '<system>'); the sanitizer regex-collapses these phrases to '[redacted]' before the text reaches the LLM."},
+        {"term": "prompt sanitizer", "definition": "A defense layer that normalizes/cleans untrusted user input before it is included in the LLM prompt, here a pure-regex blacklist with a 2000-char truncation cap."}
+      ],
+      "config": [],
+      "notes": "Pure function, no config. The known production risk (documented in CLAUDE.md) is that RAGChatService applies sanitize_user_input only to the search query path: rag_chat_service.py builds the final generation prompt from the RAW normalized message (~line 163), not the sanitized one, so the sanitizer does not actually protect the prompt fed to the LLM. Regex blacklist is easily bypassed (obfuscation, case tricks beyond IGNORECASE). Non-string input returns ''. Control-char removal keeps newlines and tabs."
+    },
+    {
+      "path": "src/campus_helpdesk/services/query_normalizer.py",
+      "purpose": "Normalizes raw, informal, misspelled user input into a clean canonical query (lowercase, trimmed, punctuation-collapsed, greeting de-elongated, spelling-corrected, synonym-expanded) that downstream intent routing and RAG matching can rely on.",
+      "key_symbols": [
+        "_GREETING_COLLAPSE_PATTERNS",
+        "_SPELLING_CORRECTIONS",
+        "_COMPILED_SPELL",
+        "_SYNONYM_MAP",
+        "_COMPILED_SYNONYMS",
+        "normalize_query(text, *, debug=False) -> str",
+        "add_spelling_correction(wrong, correct)",
+        "add_synonym(alias, canonical)"
+      ],
+      "terms": [
+        {"term": "query normalization", "definition": "A deterministic 6-step preprocessing pipeline (lowercase, whitespace collapse, punctuation de-duplication, greeting letter-collapse, dictionary spelling correction, synonym expansion) that turns noisy input like '  HOSTEL!!! ' into a canonical 'hostel' or 'depatments' into 'departments' before intent routing."},
+        {"term": "synonym expansion", "definition": "Mapping user aliases (branch, dept, dorm, mess, cafeteria, apply) to canonical terms (departments, hostel, canteen, admission) so retrieval/intent matching sees consistent vocabulary; longest phrases match first to avoid partial shadowing."},
+        {"term": "spelling correction", "definition": "Whole-word replacement of known misspellings from a hardcoded dictionary (depatments->departments, libary->library, scholership->scholarship), compiled once at module load into anchored word-boundary regexes so substrings are never altered."}
+      ],
+      "config": [],
+      "notes": "Pure Python, zero external deps. Config coupling: normalize_query auto-enables step-by-step DEBUG logging when application Settings.debug is set (reads get_settings().debug), and RAGChatService calls normalize_query(message, debug=debug_mode) at lines ~100 and ~278. Dictionaries are maintainer-edited in one place; add_spelling_correction/add_synonym offer runtime extension (synonyms are inserted at the head of _COMPILED_SYNONYMS so runtime additions win over longest-first ordering). Contains no-op guard entries (e.g. 'admissions':'admissions', 'timetable':'timetable'). Per its docstring it is intended to run BEFORE the IntentRouter, which is exactly where RAGChatService places it (normalize_query -> LanguageDetector.detect -> IntentRouter.route). Not used by the robot-stack STT/TTS path."
+    }
+  ],
+  "data_flow": "Entry: the API /chat route and the robot InferenceAdapter hand raw user text to RAGChatService.respond / InferenceAdapter, which first run normalize_query (query_normalizer.py, lines ~100 and ~278) - feeding Settings.debug to enable per-step logging - then LanguageDetector.detect to get a language code. The normalized, detected-language text drives IntentRouter.route; if the intent is a CAMPUS_QUERY, sanitize_user_input (prompt_sanitizer.py) is applied to the search-message copy, non-English queries are translated to English keywords via the LLM, and QueryRewriter + the RAG pipeline retrieve/rerank/score contexts. On the output side, CitationValidator.validate_citations strips fabricated [n] brackets and URLs from the generated reply (called at rag_chat_service.py ~line 256 with res.document objects). AnswerabilityEngine is injected into RAGChatService (and main.py/robot_main.py/touch_app.py) but its evaluate_answerability method is never called in production. MetadataManager is not invoked by application code at all - only by unit tests and the documented knowledge-ingestion plan; the live ingestion path uses the separate MetadataExtractor in infrastructure/knowledge/ instead.",
+  "external_deps": [
+    "langdetect (optional, imported lazily inside try/except in language_detector.py; NOT declared in pyproject.toml or uv.lock)",
+    "yaml / PyYAML (imported lazily inside MetadataManager.format_frontmatter; NOT declared in pyproject.toml or uv.lock)",
+    "stdlib only: re, logging, typing (all other modules are pure-Python)"
+  ],
+  "risks": [
+    "Dead/dormant wiring: AnswerabilityEngine.evaluate_answerability is injected into RAGChatService but never invoked anywhere in production code (only in tests/unit/test_sprint3_core.py), so answerability gating does not actually affect chat behavior.",
+    "Sanitizer bypass (known risk in CLAUDE.md): rag_chat_service.py sanitizes only the search-query copy; the final LLM prompt is built from the RAW user message (~line 163), so prompt-sanitizer.py provides no real protection of the system prompt. The regex blacklist is also easily circumvented.",
+    "Undeclared dependencies: langdetect and PyYAML are imported without being listed in pyproject.toml/uv.lock; langdetect degrades gracefully (try/except), but MetadataManager.format_frontmatter would raise ImportError if PyYAML is absent, and it is used in the ingest path.",
+    "MetadataManager appears superseded/duplicative: infrastructure/knowledge/metadata_extractor.py provides an equivalent format_frontmatter without the yaml dependency; MetadataManager is referenced only in tests and planning docs, not wired into production ingestion.",
+    "Citation stripping is incomplete: the bracket-removal regex r'\\s*\\[{idx}\\]' only deletes brackets that have leading whitespace, so a bare '[3]' mid-word may survive; contexts must expose .metadata for URL validation, and fabricated-URL removal does a raw string .replace which can clobber substrings.",
+    "LanguageDetector's broad 'except (ImportError, Exception)' swallows all fallback failures, masking real langdetect errors; the name DetectionResult collides with an unrelated DetectionResult in infrastructure/vision/person_detector.py.",
+    "Heuristic-only answerability/citation logic is easily fooled by paraphrase (keyword overlap never confirms semantics) and depends on hardcoded keyword lists that do not generalize."
+  ]
+}

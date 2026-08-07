@@ -35,7 +35,6 @@ from campus_helpdesk.services.camera_service import CameraService
 from campus_helpdesk.services.inference_adapter import InferenceAdapter
 from campus_helpdesk.services.stt_service import STTService
 from campus_helpdesk.services.tts_service import TTSService
-from campus_helpdesk.services.vad_service import VADService
 from campus_helpdesk.services.vision_service import VisionService
 
 logger = logging.getLogger(__name__)
@@ -138,7 +137,6 @@ class SystemRuntime:
         event_bus: EventBus | None = None,
         camera: CameraService | None = None,
         vision: VisionService | None = None,
-        vad: VADService | None = None,
         stt: STTService | None = None,
         inference: InferenceAdapter | None = None,
         tts: TTSService | None = None,
@@ -153,23 +151,42 @@ class SystemRuntime:
         self.bus = event_bus or EventBus(maxsize=2000, max_workers=8, name="system-bus")
 
         # Assign services
-        self.camera = camera or CameraService(event_bus=self.bus)
-        self.vision = vision or VisionService(event_bus=self.bus)
-        self.vad = vad or VADService(event_bus=self.bus, device_index=99, use_mock_fallback=True)
+        from campus_helpdesk.config.settings import get_settings
+        settings = get_settings()
+        if settings.enable_vision:
+            self.camera = camera or CameraService(event_bus=self.bus)
+            self.vision = vision or VisionService(event_bus=self.bus)
+        else:
+            self.camera = camera
+            self.vision = vision
         self.stt = stt or STTService(event_bus=self.bus)
         self.inference = inference or InferenceAdapter(event_bus=self.bus)
         self.tts = tts or TTSService(event_bus=self.bus)
-        
+
         from campus_helpdesk.interaction.robot_state import RobotStateMachine
         self.state_machine = RobotStateMachine()
         self.manager = manager or InteractionManager(
             event_bus=self.bus,
             state_machine=self.state_machine,
+            tts_interrupt_callback=self.tts.interrupt,
+            session_clear_callback=self.clear_session_memory,
+            enable_barge_in=get_settings().enable_barge_in,
         )
 
         # Wiring details
         self.tracker = ConversationTracker()
         self._sub_handle: SubscriptionHandle | None = None
+
+    def clear_session_memory(self, session_id: str) -> None:
+        """Clear memory for a given session ID across local backends."""
+        try:
+            backend = getattr(self.inference, "_backend", None)
+            chat_service = getattr(backend, "_chat_service", None)
+            if chat_service and hasattr(chat_service, "session_manager"):
+                chat_service.session_manager.clear_session(session_id)
+                logger.info("SystemRuntime: Cleared session memory for %s", session_id)
+        except Exception as exc:
+            logger.warning("SystemRuntime: Failed to clear session memory for %s: %s", session_id, exc)
 
     # ─────────────────────────────────────────────────────────────────────────
     # Lifecycle Orchestration
@@ -193,81 +210,91 @@ class SystemRuntime:
 
             # Recreate InteractionManager if it was previously shut down
             if self.manager._timeout_event.is_set():
+                from campus_helpdesk.config.settings import get_settings
                 from campus_helpdesk.interaction.interaction_manager import InteractionManager
                 self.manager = InteractionManager(
                     event_bus=self.bus,
                     state_machine=self.state_machine,
+                    tts_interrupt_callback=self.tts.interrupt,
+                    session_clear_callback=self.clear_session_memory,
+                    enable_barge_in=get_settings().enable_barge_in,
                 )
 
             # 1. Event Bus
             # Already initialized upon creation
 
             # 2. Camera Service
-            logger.info("Starting Camera Service...")
-            self.camera.start()
-            if not self.camera.is_running():
-                raise RuntimeError("Camera Service failed to start.")
+            if self.camera:
+                logger.info("Starting Camera Service...")
+                self.camera.start()
+                if not self.camera.is_running():
+                    raise RuntimeError("Camera Service failed to start.")
 
             # 3. Vision Service
-            logger.info("Starting Vision Service...")
-            self.vision.start()
-            if not self.vision.is_running():
-                raise RuntimeError("Vision Service failed to start.")
+            if self.vision:
+                logger.info("Starting Vision Service...")
+                self.vision.start()
+                if not self.vision.is_running():
+                    raise RuntimeError("Vision Service failed to start.")
 
-            # 4. VAD Service
-            logger.info("Starting VAD Service...")
-            self.vad.start()
-            if not self.vad.is_running():
-                raise RuntimeError("VAD Service failed to start.")
-
-            # 5. STT Service
+            # 4. STT Service
             logger.info("Starting STT Service...")
             self.stt.start()
             if not self.stt.is_running():
                 raise RuntimeError("STT Service failed to start.")
 
-            # 6. Inference Adapter
+            # 5. Inference Adapter
             logger.info("Starting Inference Adapter...")
             self.inference.start()
             if not self.inference.is_running():
                 raise RuntimeError("Inference Adapter failed to start.")
 
-            # 7. TTS Service
+            # 6. TTS Service
+            # Call initialize() first to pre-load the Piper model (warmup).
+            # This ensures the first response has no cold-start synthesis latency.
+            logger.info("Initializing TTS Service (model warmup)...")
+            self.tts.initialize()
             logger.info("Starting TTS Service...")
             self.tts.start()
             if not self.tts.is_running():
                 raise RuntimeError("TTS Service failed to start.")
 
-            # 8. Interaction Manager
+            # 7. Interaction Manager
             # Already running (starts automatically on constructor initialization)
             logger.info("Verifying Interaction Manager status...")
             if not self.manager._timeout_thread or not self.manager._timeout_thread.is_alive():
                 raise RuntimeError("Interaction Manager background monitor is not running.")
 
+            # 8. Configure FSM State Timeouts
+            # READY: 8 seconds — if no speech detected after greeting, return to IDLE
+            # LISTENING: 15 seconds — stalled recording recovery (safety net)
+            # PROCESSING: 30 seconds — stalled inference recovery (safety net)
+            # These timeouts are evaluated by InteractionManager._timeout_loop every 500ms.
+            # The _handle_timeout handler already implements all three recovery transitions.
+            from campus_helpdesk.interaction.robot_state import RobotState
+            self.state_machine.configure_timeout(RobotState.READY, 8.0)
+            self.state_machine.configure_timeout(RobotState.LISTENING, 15.0)
+            self.state_machine.configure_timeout(RobotState.PROCESSING, 30.0)
+            logger.info(
+                "FSM timeouts configured: READY=8s, LISTENING=15s, PROCESSING=30s"
+            )
+
             # Run startup health checks
+            # NOTE: Do NOT open a competing cv2.VideoCapture here — CameraManager already
+            # owns the active handle. A second VideoCapture on the same DirectShow index
+            # causes device contention that makes CameraManager's read() return ret=False,
+            # triggering a false CAMERA_DISCONNECTED → reconnect loop.
+            # Instead, query CameraManager.is_running() which inspects the existing handle.
             camera_ok = True
-            if not (self.camera._camera_index == 99 or self.camera._is_mock):
+            if self.camera and not (self.camera._camera_index == 99 or self.camera._is_mock):
                 try:
-                    import cv2
-                    cap = cv2.VideoCapture(self.camera._camera_index)
-                    camera_ok = cap.isOpened()
-                    cap.release()
+                    from campus_helpdesk.infrastructure.vision.camera_manager import CameraManager
+                    camera_ok = CameraManager.get_instance().is_running()
+                    if not camera_ok:
+                        logger.warning("Camera startup probe: CameraManager is not running.")
                 except Exception as exc:
                     logger.warning("Camera startup probe failed: %s", exc, exc_info=True)
                     camera_ok = False
-
-            mic_ok = True
-            if not (self.vad._is_mock or self.vad._device_index == 99):
-                try:
-                    import sounddevice as sd
-                    if self.vad._device_index is not None:
-                        dev_info = sd.query_devices(self.vad._device_index)
-                        mic_ok = dev_info.get("max_input_channels", 0) > 0
-                    else:
-                        mic_ok = False
-                except Exception as exc:
-                    logger.warning("Microphone startup probe failed: %s", exc, exc_info=True)
-                    mic_ok = False
 
             speaker_ok = True
             from campus_helpdesk.services.tts_service import MockSpeechBackend
@@ -303,7 +330,6 @@ class SystemRuntime:
             if not isinstance(self.stt._backend, MockTranscriptionBackend):
                 whisper_ok = self.stt.is_running() or hasattr(self.stt._backend, "_model")
 
-            transformer_ok = True
             from campus_helpdesk.config.settings import get_settings
             settings = get_settings()
             rag_ok = settings.faiss_index_path.exists() or os.path.exists("college_faiss_index")
@@ -313,7 +339,6 @@ class SystemRuntime:
             logger.info("Startup Service Health Check")
             logger.info("=========================================")
             logger.info(f"[{'PASS' if camera_ok else 'FAIL'}] Camera")
-            logger.info(f"[{'PASS' if mic_ok else 'FAIL'}] Microphone")
             logger.info(f"[{'PASS' if ollama_ok else 'FAIL'}] Ollama")
             logger.info(f"[{'PASS' if whisper_ok else 'FAIL'}] Whisper")
             logger.info(f"[{'PASS' if speaker_ok else 'FAIL'}] Piper")
@@ -322,13 +347,20 @@ class SystemRuntime:
             logger.info("[PASS] FSM")
             logger.info("=== End of Startup Check ===")
 
+            # Failures list: only hard blockers that prevent all robot function
+            # Camera, Speaker, and Whisper are all graceful-degradation services
+            # and must NOT block the runtime from starting — they log warnings.
             failures = []
-            if not camera_ok: failures.append("Camera")
-            if not mic_ok: failures.append("Microphone")
-            if not speaker_ok: failures.append("Speaker / TTS")
             if not ollama_ok: failures.append("Ollama")
-            if not whisper_ok: failures.append("Whisper")
             if not rag_ok: failures.append("RAG / FAISS Index")
+
+            # Non-blocking warnings for degraded (not broken) services
+            if not camera_ok:
+                logger.warning("[WARN] Camera not confirmed running — visual detection degraded")
+            if not speaker_ok:
+                logger.warning("[WARN] Speaker probe failed — TTS will use mock or degrade gracefully")
+            if not whisper_ok:
+                logger.warning("[WARN] Faster-Whisper model not loaded — STT disabled (SAC/install)")
 
             if failures:
                 err_msg = f"Startup health checks failed for: {', '.join(failures)}"
@@ -359,33 +391,31 @@ class SystemRuntime:
 
             logger.info("Initializing system runtime graceful shutdown sequence...")
 
-            # 8. Interaction Manager
+            # 7. Interaction Manager
             logger.info("Stopping Interaction Manager...")
             self.manager.shutdown()
 
-            # 7. TTS Service
+            # 6. TTS Service
             logger.info("Stopping TTS Service...")
             self.tts.stop()
 
-            # 6. Inference Adapter
+            # 5. Inference Adapter
             logger.info("Stopping Inference Adapter...")
             self.inference.stop()
 
-            # 5. STT Service
+            # 4. STT Service
             logger.info("Stopping STT Service...")
             self.stt.stop()
 
-            # 4. VAD Service
-            logger.info("Stopping VAD Service...")
-            self.vad.stop()
-
             # 3. Vision Service
-            logger.info("Stopping Vision Service...")
-            self.vision.stop()
+            if self.vision:
+                logger.info("Stopping Vision Service...")
+                self.vision.stop()
 
             # 2. Camera Service
-            logger.info("Stopping Camera Service...")
-            self.camera.stop()
+            if self.camera:
+                logger.info("Stopping Camera Service...")
+                self.camera.stop()
 
             # Unsubscribe tracing handle
             if self._sub_handle:
@@ -455,7 +485,6 @@ class SystemRuntime:
                 "event_bus": self.bus.registered_subscribers(),
                 "camera": self.camera.diagnostics(),
                 "vision": self.vision.diagnostics(),
-                "vad": self.vad.diagnostics(),
                 "stt": self.stt.diagnostics(),
                 "inference": self.inference.diagnostics(),
                 "tts": self.tts.diagnostics(),

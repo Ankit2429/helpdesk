@@ -1,0 +1,92 @@
+{
+  "folder": "src/campus_helpdesk/infrastructure/audio/ (+ infra/__init__ and one test)",
+  "title": "Infrastructure: offline audio stack (STT / TTS / wake word) + supplemental files",
+  "purpose": "Offline audio engine for the robot/kiosk stack: Speech-to-Text with faster-whisper (CTranslate2, local_files_only=True), Text-to-Speech with Piper ONNX neural voices falling back to the system pyttsx3 engine, and a low-power background wake-word detector ('Hey Campus' / 'Hey Sparky'). This subsystem was missed by the initial scan and is documented here as a supplement. It is an alternative/parallel offline implementation to the older services/stt_service.py, services/tts_service.py and services/vad_service.py; the audio package is the canonical offline one referenced by the infrastructure package.",
+  "files": [
+    {
+      "path": "src/campus_helpdesk/infrastructure/__init__.py",
+      "purpose": "Package marker for the infrastructure package (adapters for external services and local storage).",
+      "key_symbols": [],
+      "terms": [],
+      "config": [],
+      "notes": "One-line module docstring only."
+    },
+    {
+      "path": "src/campus_helpdesk/infrastructure/audio/__init__.py",
+      "purpose": "Public exports for the audio package: STTService, FasterWhisperSTTService, TTSService, NonBlockingTTSService.",
+      "key_symbols": ["STTService", "FasterWhisperSTTService", "TTSService", "NonBlockingTTSService"],
+      "terms": [],
+      "config": [],
+      "notes": "Re-exports the protocols and the offline implementations."
+    },
+    {
+      "path": "src/campus_helpdesk/infrastructure/audio/stt_service.py",
+      "purpose": "Offline Speech-to-Text: STTService protocol, STTResult (str subclass with language/confidence metadata), and FasterWhisperSTTService backed by faster-whisper's CTranslate2 engine.",
+      "key_symbols": ["STTService", "STTResult", "FasterWhisperSTTService", "transcribe_audio", "listen_and_transcribe", "listen_and_transcribe_stream", "enumerate_microphones", "_select_microphone", "_calibrate_microphone", "_validate_audio"],
+      "terms": [
+        {"term": "STT", "definition": "Speech-to-Text: converts spoken audio to transcribed text."},
+        {"term": "faster-whisper", "definition": "CTranslate2-accelerated reimplementation of OpenAI Whisper, run locally (local_files_only=True)."},
+        {"term": "VAD filter", "definition": "Voice Activity Detection filter (vad_filter=True) that skips non-speech segments before transcription."},
+        {"term": "beam_size", "definition": "Whisper decoding beam width; 1 = greedy decoding for low latency."},
+        {"term": "no_speech_prob", "definition": "Whisper's estimated probability the audio contains no speech; > 0.6 is treated as silence and skipped."},
+        {"term": "RMS", "definition": "Root-mean-square signal level used to reject silent/too-quiet audio before transcription."},
+        {"term": "energy threshold", "definition": "SpeechRecognition energy cutoff for detecting speech onset; recalibrated for ambient noise on start."}
+      ],
+      "config": ["STT model_size (default 'base')", "device (cpu)", "compute_type (int8)", "device_index", "enable_online_fallback"],
+      "notes": "Offline-first: local_files_only=True, compute type forced to int8 on CPU. Microphone auto-selection filters virtual/loopback devices (fxsound, mapper, stereo mix, virtual, steam) and prefers Realtek/microphone-array devices. An optional Google Speech API fallback exists but is gated behind enable_online_fallback=False. Streaming mode transcribes a sliding 250ms window with an initial_prompt of campus vocabulary and filters hallucinated prompt text."
+    },
+    {
+      "path": "src/campus_helpdesk/infrastructure/audio/tts_service.py",
+      "purpose": "Offline Text-to-Speech: TTSService protocol and NonBlockingTTSService using Piper ONNX neural voices (en/English, hi/Hindi) with a pyttsx3 system-engine fallback (used for Kannada, which has no Piper voice) and a background worker-thread speech queue.",
+      "key_symbols": ["TTSService", "NonBlockingTTSService", "VOICE_MAP", "speak", "speak_stream", "stop", "cancel_playback", "is_speaking", "wait_until_done", "_speech_loop", "_speak_piper"],
+      "terms": [
+        {"term": "TTS", "definition": "Text-to-Speech: synthesizes spoken audio from text."},
+        {"term": "Piper", "definition": "Local neural TTS engine using ONNX voice models (e.g. en_US-lessac-medium)."},
+        {"term": "pyttsx3", "definition": "Cross-platform system TTS engine used as a fallback when no Piper voice exists (e.g. Kannada)."},
+        {"term": "non-blocking", "definition": "TTS returns immediately and plays audio on a background worker thread so the UI never stalls."},
+        {"term": "barge-in", "definition": "Cancelling queued/playing TTS instantly so a user can interrupt the robot mid-speech."},
+        {"term": "streaming synthesis", "definition": "speak_stream splits an LLM token generator into sentences and enqueues them for near-real-time speech."}
+      ],
+      "config": ["voice_model (en_US-lessac-medium)", "piper_models_dir (data/piper)", "use_cuda (False)"],
+      "notes": "Multilingual: English/Hindi use Piper; Kannada and missing-model cases fall back to pyttsx3; if neither engine is available it only logs (simulated speech). cancel_playback flushes the queue and stops the PyAudio stream for barge-in."
+    },
+    {
+      "path": "src/campus_helpdesk/infrastructure/audio/wake_word.py",
+      "purpose": "Low-power background wake-word detector ('Hey Campus' / 'Hey Sparky'): a daemon thread reads 80ms frames from a sounddevice InputStream and triggers a callback on detection.",
+      "key_symbols": ["WakeWordDetector", "start", "stop", "is_running", "_listen_loop", "_process_frame"],
+      "terms": [
+        {"term": "wake word", "definition": "A phrase that activates the robot from a low-power listening state (e.g. 'Hey Campus')."},
+        {"term": "openwakeword", "definition": "Optional library providing ONNX wake-word models (here 'hey_jarvis_v0.1'); gracefully skipped if not installed."},
+        {"term": "acoustic energy burst", "definition": "Fallback heuristic that triggers on a speech-onset spike (energy > 0.18, peak > 0.45, zero-crossing count 10-300)."},
+        {"term": "zero-crossing rate", "definition": "How often the waveform crosses zero, used to distinguish vocal energy from white noise."},
+        {"term": "cooldown", "definition": "A 2-second lockout after a trigger to prevent double-firing."}
+      ],
+      "config": ["wake_phrase ('Hey Campus')", "sensitivity (0.5)", "sample_rate (16000)", "device_index"],
+      "notes": "OpenWakeWord is optional; the acoustic burst classifier is a heuristic stand-in when the model is absent. Stream errors fall back to event-driven audio mode."
+    },
+    {
+      "path": "tests/infrastructure/test_ollama_service.py",
+      "purpose": "Unit test verifying OllamaLLMService sends the configured model, a single user-role message, generation options and stream=False to the Ollama client, and that the reply is whitespace-stripped.",
+      "key_symbols": ["FakeOllamaClient", "test_ollama_service_sends_prompt_to_configured_model"],
+      "terms": [],
+      "config": ["base_url", "model", "timeout_seconds", "generation_options"],
+      "notes": "Uses a FakeOllamaClient capturing the chat call without connecting to Ollama; confirms a single 'user' role message (no separate system role)."
+    },
+    {
+      "path": "scripts/gen_architecture_docx.py",
+      "purpose": "The generator script that produces Campus_Helpdesk_Complete_Architecture.docx from the .architecture_scan/ reports; a documentation tool, not part of the runtime system.",
+      "key_symbols": ["build_document", "section_overview", "section_architecture", "section_subsystems", "section_glossary", "add_field_table"],
+      "terms": [],
+      "config": [],
+      "notes": "Uses python-docx. Consumes the JSON reports emitted by the architecture-scan workflow."
+    }
+  ],
+  "data_flow": "Infrastructure audio is consumed by the robot stack: the wake-word detector runs continuously; once triggered, STT records and transcribes user speech (faster-whisper, offline), the transcript is answered by the RAG pipeline, and the answer is spoken by TTS (Piper/pyttsx3). STT can also wait on TTS playback to finish before opening the microphone. The package is exported through infrastructure/__init__.py for the rest of src/campus_helpdesk.",
+  "external_deps": ["faster-whisper (CTranslate2)", "speech_recognition", "PyAudio", "numpy", "piper (PiperVoice, ONNX)", "pyttsx3", "sounddevice", "openwakeword (optional)"],
+  "risks": [
+    "Duplication: infrastructure/audio/* is a parallel offline implementation of services/stt_service.py, services/tts_service.py and services/vad_service.py; both exist and can drift.",
+    "STT Google fallback is an online service gated by a flag; enabling it breaks the offline-first guarantee.",
+    "Wake-word fallback classifier is heuristic (energy/peak/zero-crossings) and not a true model; openwakeword's 'hey_jarvis' model does not match the configured phrase.",
+    "TTS silently degrades to simulated speech (log only) if both Piper and pyttsx3 are unavailable."
+  ]
+}

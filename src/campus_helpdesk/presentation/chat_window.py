@@ -5,8 +5,6 @@ import threading
 import tkinter as tk
 from tkinter import scrolledtext
 
-import cv2
-
 from campus_helpdesk.application.chat_service import ChatService
 from campus_helpdesk.application.session_controller import RobotStatus, SessionController
 from campus_helpdesk.infrastructure.audio.stt_service import STTService
@@ -72,7 +70,6 @@ class ModernChatWindow:
         self._root.resizable(True, True)
 
         self._is_recording = False
-        self._cap: cv2.VideoCapture | None = None
         self._build_ui()
 
     def _build_ui(self) -> None:
@@ -458,56 +455,6 @@ class ModernChatWindow:
 
         threading.Thread(target=_worker, daemon=True).start()
 
-    # ── Background Camera Loop (Headless) ──────────────────────────
-
-    def _init_camera(self) -> None:
-        import os
-
-        os.environ["OPENCV_LOG_LEVEL"] = "OFF"
-        os.environ["OPENCV_VIDEOIO_PRIORITY_MSMF"] = "0"
-
-        backends = [("DSHOW", cv2.CAP_DSHOW), ("ANY", cv2.CAP_ANY), ("MSMF", cv2.CAP_MSMF)]
-        unique_indices = list(dict.fromkeys([self._webcam_index, 0, 1, 2]))
-
-        for idx in unique_indices:
-            for backend_name, backend_api in backends:
-                try:
-                    cap = cv2.VideoCapture(idx, backend_api)
-                    if cap.isOpened():
-                        ret, frame = cap.read()
-                        if ret and frame is not None and frame.size > 0:
-                            self._cap = cap
-                            logger.info(f"Background camera initialized: index {idx} ({backend_name})")
-                            return
-                        cap.release()
-                except Exception as err:
-                    logger.debug(f"Camera index {idx} / {backend_name} failed: {err}")
-
-        logger.warning("No camera found for background person detection.")
-
-    def _update_camera_feed(self) -> None:
-        """Background video capture loop feeding frames to person detector."""
-        if self._cap is not None and self._cap.isOpened():
-            ret, frame = self._cap.read()
-            if ret and frame is not None and frame.size > 0:
-                self._camera_read_failures = 0
-                # Process frame headlessly in person detector
-                self._detector.detect_in_frame(frame)
-            else:
-                self._camera_read_failures = getattr(self, "_camera_read_failures", 0) + 1
-                if self._camera_read_failures >= 10:
-                    logger.warning("Camera connection lost. Releasing camera capture.")
-                    self._cap.release()
-                    self._cap = None
-                    return
-
-        self._root.after(40, self._update_camera_feed)
-
     def start(self) -> None:
-        """Start GUI event loop and headless background camera capture."""
-        self._camera_read_failures = 0
-        self._init_camera()
-        self._update_camera_feed()
+        """Start GUI event loop."""
         self._root.mainloop()
-        if self._cap is not None:
-            self._cap.release()

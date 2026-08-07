@@ -34,8 +34,8 @@ class Settings(BaseSettings):
     ollama_top_k: int = 40
     ollama_repeat_penalty: float = 1.1
     ollama_context_window: int = 2_048
-    ollama_max_output_tokens: int = 512
-    ollama_num_threads: int = 4
+    ollama_max_output_tokens: int = 128
+    ollama_num_threads: int = 8
     # ---- Router & Connectivity Settings ----
     enable_cloud_llm_router: bool = False
     cloud_llm_provider: str = "openrouter"
@@ -56,6 +56,7 @@ class Settings(BaseSettings):
     # ---- Context Composer Settings ----
     enable_context_composer: bool = True
     context_composer_dedup_threshold: float = 0.85
+    context_composer_max_context_size: int = 3500
     knowledge_source_path: Path = Path("data/canonical_markdown")
     knowledge_max_file_size_bytes: int = 20_000_000
     faiss_index_path: Path = Path("data/faiss")
@@ -76,26 +77,29 @@ class Settings(BaseSettings):
     rag_chunk_overlap: int = 120
     rag_chunk_separators: list[str] = Field(default_factory=lambda: ["\n\n", "\n", " ", ""])
     rag_add_start_index: bool = True
-    rag_search_limit: int = 5
+    rag_search_limit: int = Field(
+        default=6,
+        validation_alias=AliasChoices("RAG_SEARCH_LIMIT", "FINAL_TOP_K", "FINAL_RESULTS")
+    )
     # IMPORTANT: The hybrid retriever uses RRF fusion which assigns distance = min(BM25_score, FAISS_L2).
     # BM25 scores are negative (e.g. -6.7) and FAISS L2 scores are positive (e.g. 3.1, 6.9).
     # A threshold of 2.0 incorrectly filters out valid top-RRF FAISS-dominated results.
     # Set to a large value (999.0) to disable the broken absolute filter and rely on RRF ranking + LLM grounding.
     rag_distance_threshold: float = 999.0
     candidate_window: int = Field(
-        default=25,
+        default=12,
         validation_alias=AliasChoices("CANDIDATE_WINDOW", "INITIAL_CANDIDATES", "RERANKER_TOP_N")
     )
     initial_candidates: int = Field(
-        default=25,
+        default=12,
         validation_alias=AliasChoices("INITIAL_CANDIDATES", "CANDIDATE_WINDOW", "RERANKER_TOP_N")
     )
     final_top_k: int = Field(
-        default=5,
+        default=6,
         validation_alias=AliasChoices("FINAL_TOP_K", "FINAL_RESULTS", "RAG_SEARCH_LIMIT")
     )
     final_results: int = Field(
-        default=5,
+        default=6,
         validation_alias=AliasChoices("FINAL_RESULTS", "FINAL_TOP_K", "RAG_SEARCH_LIMIT")
     )
     deduplicate_documents: bool = Field(
@@ -118,10 +122,18 @@ class Settings(BaseSettings):
         default="weighted_hybrid",
         validation_alias=AliasChoices("FUSION_MODE", "HYBRID_FUSION_MODE")
     )
+    rrf_canonical_boost: float = Field(
+        default=0.060,
+        validation_alias=AliasChoices("RRF_CANONICAL_BOOST", "CANONICAL_BOOST")
+    )
+    rrf_duplicate_penalty: float = Field(
+        default=0.080,
+        validation_alias=AliasChoices("RRF_DUPLICATE_PENALTY", "DUPLICATE_PENALTY")
+    )
     reranker_enabled: bool = True
     reranker_model: str = "cross-encoder/ms-marco-MiniLM-L-6-v2"
-    reranker_top_n: int = 25
-    reranker_top_m: int = 5
+    reranker_top_n: int = 10
+    reranker_top_m: int = 4
     webcam_index: int = 0
     camera_fps: int = 15
     person_detection_reset_frames: int = 30
@@ -130,8 +142,68 @@ class Settings(BaseSettings):
     whisper_compute_type: str = "int8"
     tts_voice_model: str = "en_US-lessac-medium"
     tts_piper_models_dir: str = "data/piper"
-    tts_use_cuda: bool = False
-    allow_online_stt_fallback: bool = False
+    enable_barge_in: bool = Field(
+        default=False,
+        validation_alias=AliasChoices("ENABLE_BARGE_IN", "BARGE_IN_ENABLED")
+    )
+    # ---- Desktop GUI & Hardware Decoupling Settings ----
+    enable_vision: bool = Field(
+        default=False,
+        validation_alias=AliasChoices("ENABLE_VISION", "DESKTOP_ENABLE_VISION")
+    )
+    enable_auto_greeting: bool = Field(
+        default=False,
+        validation_alias=AliasChoices("ENABLE_AUTO_GREETING", "DESKTOP_ENABLE_AUTO_GREETING")
+    )
+    push_to_talk: bool = Field(
+        default=True,
+        validation_alias=AliasChoices("PUSH_TO_TALK", "DESKTOP_PUSH_TO_TALK")
+    )
+    developer_mode: bool = Field(
+        default=True,
+        validation_alias=AliasChoices("DEVELOPER_MODE", "DESKTOP_DEVELOPER_MODE")
+    )
+    # ---- Voice Activation Settings ----
+    # VAD and Wake Word are preserved for future Raspberry Pi deployments.
+    # They are DISABLED by default because the current deployment uses Push-to-Talk only.
+    # To enable on Pi: set ENABLE_VAD=true and ENABLE_WAKE_WORD=true in config.yaml.
+    enable_vad: bool = Field(
+        default=False,
+        validation_alias=AliasChoices("ENABLE_VAD", "ENABLE_VOICE_ACTIVITY_DETECTION")
+    )
+    enable_wake_word: bool = Field(
+        default=False,
+        validation_alias=AliasChoices("ENABLE_WAKE_WORD", "ENABLE_WAKE_WORD_DETECTION")
+    )
+    wake_word_phrase: str = Field(
+        default="Hey Helpdesk",
+        validation_alias="WAKE_WORD_PHRASE"
+    )
+    wake_word_sensitivity: float = Field(
+        default=0.5,
+        validation_alias="WAKE_WORD_SENSITIVITY"
+    )
+    # ---- Conversation Memory & Context Window Settings ----
+    memory_max_history_turns: int = Field(
+        default=5,
+        validation_alias=AliasChoices("MEMORY_MAX_HISTORY_TURNS", "MAX_HISTORY_TURNS")
+    )
+    memory_summary_trigger_turns: int = Field(
+        default=5,
+        validation_alias=AliasChoices("MEMORY_SUMMARY_TRIGGER_TURNS", "SUMMARY_TRIGGER_TURNS")
+    )
+    memory_max_context_tokens: int = Field(
+        default=2048,
+        validation_alias=AliasChoices("MEMORY_MAX_CONTEXT_TOKENS", "MAX_CONTEXT_TOKENS")
+    )
+    memory_session_ttl_seconds: int = Field(
+        default=300,
+        validation_alias=AliasChoices("MEMORY_SESSION_TTL_SECONDS", "SESSION_TTL_SECONDS", "TTL_SECONDS")
+    )
+    memory_topic_drift_threshold: float = Field(
+        default=0.3,
+        validation_alias=AliasChoices("MEMORY_TOPIC_DRIFT_THRESHOLD", "TOPIC_DRIFT_THRESHOLD")
+    )
 
     model_config = SettingsConfigDict(env_file=".env", env_file_encoding="utf-8", extra="ignore")
 
@@ -161,7 +233,7 @@ class Settings(BaseSettings):
     # Observability and metrics configuration
     logging_json: bool = True  # Emit logs as JSON lines
     metrics_flush_interval_seconds: int = 60  # Interval for dashboard write
-    dashboard_path: str = r"d:/AUNTII/diagnostics/performance_dashboard.json"
+    dashboard_path: str = "data/analytics/performance_dashboard.json"
     health_check_timeout_seconds: int = 2
     # Existing values continue
 

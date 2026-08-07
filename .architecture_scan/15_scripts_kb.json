@@ -1,0 +1,267 @@
+{
+  "folder": "scripts/",
+  "title": "Scripts: knowledge base & embeddings tooling",
+  "purpose": "This is the ingest/maintenance pipeline that turns raw scraped website markdown into the retrievable knowledge base. It cleans, normalizes, and deduplicates markdown, generates YAML metadata, splits documents into semantic chunks (chunks.jsonl), embeds them, and builds the FAISS similarity index that the production hybrid retriever loads at serve time. It also carries knowledge-base audit tooling (entity coverage checks) and a set of TTS/audio helper scripts (Piper voice download, test-audio generation/inspection, and TTS pre-caching for the robot stack). All scripts are standalone CLI entry points run manually or in sequence during ingest; none are imported by the FastAPI app.",
+  "files": [
+    {
+      "path": "scripts/append_campus_guide_chunks.py",
+      "purpose": "Converts data/canonical_markdown/facilities/campus_guide_canonical.md into section-based chunks (split on '## ' headings), replaces prior campus-guide entries in chunks.jsonl, and rebuilds the production FAISS store at both data/faiss and college_faiss_index.",
+      "key_symbols": [
+        "main()",
+        "Settings",
+        "KnowledgeDocument",
+        "FAISSSimilarityStore",
+        "SentenceTransformerEmbeddings"
+      ],
+      "terms": [
+        {"term": "FAISS store", "definition": "A persisted similarity-search index (created via FAISSSimilarityStore.add/save) that stores vector embeddings of knowledge chunks so the retriever can do fast nearest-neighbor lookups; here written to data/faiss and college_faiss_index."},
+        {"term": "KnowledgeDocument", "definition": "The domain entity wrapping a chunk's text plus its metadata dict (source, title, category, subcategory, department, campus, document_type, headings) as passed into the FAISS store for indexing."},
+        {"term": "chunk", "definition": "A single retrievable text segment of the knowledge base; a chunk_id (uuid4) plus source, title, category, headings, and text written as one line of chunks.jsonl."},
+        {"term": "embedding", "definition": "A dense numeric vector representing the semantic content of a text, produced by SentenceTransformerEmbeddings and stored in the FAISS index for similarity search."}
+      ],
+      "config": [
+        "embedding_model",
+        "embedding_device",
+        "embedding_batch_size",
+        "embedding_normalize",
+        "embedding_local_files_only"
+      ],
+      "notes": "Hardcodes the campus-guide input path and fixed metadata (title 'Official Campus Guide & Key Locations', category 'Facilities & Campus', department 'Administration', campus 'Hubballi', subcategory 'Campus Guide'). Writes chunk records with a 'chunk_id' key rather than 'id', which is inconsistent with semantic_chunker.py/build_embeddings.py (which use 'id'). Passes allow_dangerous_deserialization=True (acceptable for a build script). Maintains two index locations (data/faiss and college_faiss_index) that can drift."
+    },
+    {
+      "path": "scripts/audit_knowledge_base.py",
+      "purpose": "Scans the indexed RAG chunks (or falls back to the source canonical markdown files) with regex patterns for 13 campus entities (Principal, VC, Registrar, hostels, fees, etc.) and prints a present/missing audit report labeled for 'AUNTII'.",
+      "key_symbols": [
+        "AUDIT_ENTITIES",
+        "main()",
+        "get_settings",
+        "create_rag_pipeline"
+      ],
+      "terms": [
+        {"term": "RAG pipeline", "definition": "The assembled retrieval-and-generation stack (created via create_rag_pipeline) whose FAISS similarity store this audit script introspects to enumerate indexed document chunks."},
+        {"term": "FAISS docstore", "definition": "The mapping from FAISS vector IDs to original document chunk objects (page_content + metadata) stored alongside the index; this script reads it via the private '_store.docstore._dict' attribute."},
+        {"term": "chunk", "definition": "A retrievable text segment in the index; the audit counts how many chunks match each entity's regex patterns and reports up to two matching snippets per entity."}
+      ],
+      "config": [
+        "faiss_index_path"
+      ],
+      "notes": "Brittle: reaches into private internals (pipeline._similarity_store, similarity_store._store.docstore._dict) and silently falls back to scanning data/canonical_markdown if the docstore is unavailable. Uses only regex keyword matching, not embeddings, so coverage results are approximate. Labeled 'AUNTII' (a branding variant of the project)."
+    },
+    {
+      "path": "scripts/build_embeddings.py",
+      "purpose": "Reads all chunks from chunks.jsonl, deduplicates IDs, generates embeddings via SentenceTransformerEmbeddings, builds a raw FAISS IndexFlatIP index, and persists embeddings.faiss plus embedding_metadata.jsonl and an embedding_report.json.",
+      "key_symbols": [
+        "main()",
+        "Settings",
+        "SentenceTransformerEmbeddings",
+        "faiss.IndexFlatIP",
+        "faiss.write_index"
+      ],
+      "terms": [
+        {"term": "FAISS IndexFlatIP", "definition": "A flat brute-force inner-product FAISS index; because embeddings are L2-normalized, inner product equals cosine similarity, so no ANN index is used here."},
+        {"term": "embedding", "definition": "Dense vector produced per chunk text by the SentenceTransformer model; stored in the FAISS index and repeated inside embedding_metadata.jsonl lines."},
+        {"term": "embedding_metadata.jsonl", "definition": "A sidecar file pairing each chunk's id, text, inherited YAML metadata, and full embedding vector, one JSON object per line (a large ~47MB tracked artifact)."},
+        {"term": "embedding_report.json", "definition": "Statistics output of the build: chunks_embedded, embedding_dimension, duplicate/empty/failed counts, and elapsed time."}
+      ],
+      "config": [
+        "embedding_model",
+        "embedding_device",
+        "embedding_batch_size",
+        "embedding_normalize",
+        "embedding_local_files_only"
+      ],
+      "notes": "CRITICAL: workspace_root is hardcoded to r'd:\\helpdesk\\anti' — a different (likely nonexistent) directory than the repo root, so the script would fail to find chunks.jsonl as-is. Writes directly with faiss.write_index rather than through FAISSSimilarityStore (divergent index-building path from rebuild_faiss_store.py). Expects chunk key 'id' (present in semantic_chunker output, absent from append_campus_guide_chunks 'chunk_id')."
+    },
+    {
+      "path": "scripts/clean_markdown.py",
+      "purpose": "Cleans scraped markdown documents by stripping website boilerplate (repeated nav/footer menus, breadcrumbs, back-to-top/copyright/social links, empty sections, duplicate blank lines/separators) while preserving content, then backs up originals and writes cleaning_report.json.",
+      "key_symbols": [
+        "clean_file_content(content)",
+        "main()"
+      ],
+      "terms": [
+        {"term": "boilerplate", "definition": "Repeated website chrome (navigation 'Connect/Programs/Admissions/Menu' blocks, breadcrumb lists, social links, copyright lines) that the cleaner detects and removes to keep only factual content."},
+        {"term": "canonical_markdown", "definition": "The cleaned, normalized knowledge-base directory (data/canonical_markdown) that downstream chunking and indexing consume."},
+        {"term": "EMPTY document", "definition": "A document flagged as containing no real body content after cleaning (only headings and Source URL lines), reported in cleaning_report.json."}
+      ],
+      "config": [],
+      "notes": "Destructive: rewrites each .md file in place after first copying the whole tree to data/canonical_markdown_backup (the backup is deleted and recreated on each run). Heuristic line-based detection (e.g. matches a literal nav sequence 'connect/programs/admissions/menu'); a 'copyright' substring anywhere removes the line, which can drop legitimate text."
+    },
+    {
+      "path": "scripts/deduplicate_kb.py",
+      "purpose": "Loads duplicate-file groupings from a machine-local Gemini scratch metadata JSON (or a parsed markdown report), keeps the canonical document, and moves only the listed duplicates to data/duplicates preserving the original directory structure, then writes deduplication_report.json.",
+      "key_symbols": [
+        "main()"
+      ],
+      "terms": [
+        {"term": "canonical document", "definition": "The single kept original of a duplicate group (verified to exist before processing); all other files in the group are archived, and the canonical itself is never moved."},
+        {"term": "duplicate group", "definition": "One canonical file plus its list of semantically duplicated files with a reason string, loaded from the Gemini scratch dup_metadata.json or parsed from duplicate_report.md."},
+        {"term": "data/duplicates", "definition": "The archive directory where moved duplicate files are placed, mirroring their original relative paths under the knowledge base."}
+      ],
+      "config": [],
+      "notes": "CRITICAL: source paths are hardcoded to a user-specific Gemini IDE scratch location (C:\\Users\\godby\\.gemini\\antigravity-ide\\brain\\...); on any other machine both loaders fail and the script exits with 'No duplicate groupings found'. Safety checks skip missing files and never move the canonical. Moves files with shutil.move, so duplicates are archived, not deleted."
+    },
+    {
+      "path": "scripts/download_piper_voices.py",
+      "purpose": "Downloads the Piper ONNX TTS voice models (en_US-lessac-medium and hi_IN-pratham-medium, each with its .onnx.json config) from Hugging Face into data/piper/, skipping already-downloaded non-empty files.",
+      "key_symbols": [
+        "PIPER_MODELS_DIR",
+        "VOICE_URLS",
+        "download_file(url, dest_path)",
+        "main()"
+      ],
+      "terms": [
+        {"term": "Piper", "definition": "A fast local neural TTS engine whose voice models ship as ONNX files plus a JSON config; these are downloaded into data/piper for the robot stack's text-to-speech."},
+        {"term": "ONNX voice model", "definition": "A compiled voice (.onnx) plus config (.onnx.json) loaded by PiperVoice to synthesize speech for a specific language/voice; this repo caches English (US female) and Hindi (male medium) variants."}
+      ],
+      "config": [],
+      "notes": "Network dependency on huggingface.co (60s timeout, follow_redirects). Skips any existing destination with size > 0 bytes; failed downloads are logged and the run continues. No checksum/size verification beyond non-empty."
+    },
+    {
+      "path": "scripts/generate_metadata.py",
+      "purpose": "Generates and prepends structured YAML front matter (title, category, subcategory, document_type, department, campus, source_url, keywords, aliases, dates) to every markdown document in the knowledge base and exports per-file stats to metadata_report.json.",
+      "key_symbols": [
+        "STOPWORDS",
+        "extract_keywords(title, content, headings)",
+        "extract_aliases(content)",
+        "main()"
+      ],
+      "terms": [
+        {"term": "front matter", "definition": "The YAML metadata block prepended between --- delimiters at the top of each KB markdown file; semantic_chunker.py later parses it and inherits these fields into every chunk."},
+        {"term": "document_type", "definition": "An inferred classification of a document from its content keywords (syllabus, timetable, notice, minutes, act, statutes, brochure) used as a chunk metadata facet for retrieval filtering."},
+        {"term": "aliases", "definition": "Alternate names/abbreviations for an entity inferred by content rules (HOD, CSE/CS, ECE/EC, KLETech, BVB/BVBCET) that help users query the KB using different phrasings."},
+        {"term": "keywords", "definition": "Top repeated content words (excluding English STOPWORDS) plus title/heading terms, up to 10, stored in front matter as a search hint."},
+        {"term": "category/subcategory", "definition": "Facets inferred from the document's relative path (first folder = category, second = subcategory, or from filename prefix), e.g. academics/programs -> category 'academics'."}
+      ],
+      "config": [],
+      "notes": "Skips (never overwrites) files that already have front matter. Hardcodes scrape_date='2026-07-28' for every document. Department is inferred from a regex 'department of ...' match truncated to 50 chars. In-place rewrite; no backup (unlike clean_markdown.py). Uses a hand-rolled YAML emitter (no PyYAML dependency)."
+    },
+    {
+      "path": "scripts/generate_test_audio.py",
+      "purpose": "Generates sample WAV audio files for technical quality comparison across English, Hindi, and Kannada by synthesizing three fixed fee/admission-answer sentences via Piper ONNX models (with a pyttsx3 fallback) into outputs/.",
+      "key_symbols": [
+        "SAMPLES",
+        "OUTPUTS_DIR",
+        "PiperVoice"
+      ],
+      "terms": [
+        {"term": "PiperVoice", "definition": "The Piper TTS runtime class (imported from the 'piper' package) that loads an ONNX voice + config and synthesizes text into a WAV stream (voice.synthesize_wav)."},
+        {"term": "pyttsx3", "definition": "A fallback OS-native TTS library used when no Piper model file is available (used here for the Kannada sample, whose piper_model is None)."}
+      ],
+      "config": [],
+      "notes": "Executes at module import time (top-level loop, no __main__ guard), deleting any existing output files first. Kannada sample falls back to pyttsx3 because no Kannada Piper model is configured. Outputs land in the repo-root outputs/ directory."
+    },
+    {
+      "path": "scripts/inspect_audio_files.py",
+      "purpose": "Analyzes technical audio properties (duration, sample rate, channels, bit depth, peak/RMS dB, speech activity, silence/clipping flags) of synthesized WAV files in outputs/ and prints a comparison table.",
+      "key_symbols": [
+        "analyze_wav_file(wav_path)",
+        "main()"
+      ],
+      "terms": [
+        {"term": "WAV", "definition": "Uncompressed audio container read via the stdlib wave module; the script parses PCM samples to compute the metrics below."},
+        {"term": "RMS dB", "definition": "Root-mean-square amplitude of the PCM samples expressed in dBFS; used as the average loudness metric for the synthesized clips."},
+        {"term": "peak dB", "definition": "Maximum sample magnitude in dBFS; a peak >= 32766 (near full scale) flags 'CLIPPING (Distorted)'."},
+        {"term": "speech activity ratio", "definition": "Percentage of samples above a noise threshold (max(200, 1% of peak)); below ~1% flags 'SILENT (Corrupted)'."}
+      ],
+      "config": [],
+      "notes": "If outputs/ contains no .wav files it falls back to three hardcoded filenames (full_pipeline_en_q1.wav, full_pipeline_hi_q2.wav, full_pipeline_kn_q3.wav). Assumes PCM data; 16-bit (sampwidth==2) is the primary parse path, 8-bit handled, other widths default to int16. Pure stdlib + numpy, no external deps."
+    },
+    {
+      "path": "scripts/normalize_markdown.py",
+      "purpose": "Normalizes OCR artifacts and formatting in KB markdown files (OCR-merged words, Unicode dashes/quotes, heading/list spacing, punctuation spacing, table cell spacing, whitespace) while skipping code blocks and preserving table alignment, then writes normalize_report.json.",
+      "key_symbols": [
+        "ocr_replacements",
+        "normalize_text(text)",
+        "main()"
+      ],
+      "terms": [
+        {"term": "OCR artifact", "definition": "Text errors introduced by optical character recognition, e.g. merged words like 'MechanicalEngineering'; normalized via a hardcoded regex replacement dictionary."},
+        {"term": "normalization", "definition": "Standardizing formatting so downstream chunking/indexing sees consistent markdown: one space after #/bullets/numbers, straight quotes, ASCII dashes, cleaned table cells, compressed inner whitespace."},
+        {"term": "tables_fixed", "definition": "Count of table lines whose cells were stripped and re-joined with ' | ' to enforce uniform column separation (tables are exempt from whitespace compression to preserve alignment)."}
+      ],
+      "config": [],
+      "notes": "In-place rewrite of every .md file under data/canonical_markdown (no backup, unlike clean_markdown.py). Uses a large hardcoded ocr_replacements dict specific to this college's corpus. Skips whitespace/punctuation changes inside table lines and code blocks."
+    },
+    {
+      "path": "scripts/precache_tts.py",
+      "purpose": "Pre-renders all fixed canned reply strings and every 5-minute time-increment phrase across a 12-hour clock (English, Hindi, Kannada) into 16-bit mono WAV files in tts_cache/ so the robot can play speech without on-demand synthesis.",
+      "key_symbols": [
+        "CACHE_DIR",
+        "get_cache_filename(text, language)",
+        "save_wav(filepath, audio, sample_rate)",
+        "generate_time_phrases()",
+        "main()"
+      ],
+      "terms": [
+        {"term": "TTT service", "definition": "A root-level legacy service (imported from ttt_service) that produces canned response strings via private methods like _handle_greeting/_handle_weather/_handle_capabilities; used only to source the text to pre-render."},
+        {"term": "TTS cache", "definition": "The tts_cache/ directory of pre-rendered WAV files; filenames are deterministic (language_slug_md5hash.wav) so a lookup at runtime can find audio for a given text without re-synthesis."},
+        {"term": "canned reply", "definition": "A fixed conversational response string (greeting, weather, capabilities, listening prompts) rendered once for each of EN/HI/KN instead of synthesized at runtime."}
+      ],
+      "config": [],
+      "notes": "CRITICAL: imports tts_service and ttt_service from the repo ROOT (legacy/dead stack per CLAUDE.md), not from src/campus_helpdesk, and calls private TTT methods — it depends on legacy code. Docstring claims 24kHz output but the actual sample rate is whatever TTSService.SAMPLE_RATE is. 864 time phrases (12h x 12 increments x 2 periods x 3 languages) plus 12 canned phrases; existing cache files are skipped. Uses hashlib.md5 (non-cryptographic use, acceptable for filenames)."
+    },
+    {
+      "path": "scripts/rebuild_faiss_store.py",
+      "purpose": "Rebuilds the production FAISS index at data/faiss from every non-empty chunk in chunks.jsonl using FAISSSimilarityStore.add() and save() with SentenceTransformerEmbeddings.",
+      "key_symbols": [
+        "main()",
+        "Settings",
+        "KnowledgeDocument",
+        "FAISSSimilarityStore",
+        "SentenceTransformerEmbeddings"
+      ],
+      "terms": [
+        {"term": "FAISS store", "definition": "The production index object (FAISSSimilarityStore) that persists vectors plus an embedding_metadata header (embedding_model, embedding_normalize) to data/faiss; the hybrid retriever loads this store at serve time."},
+        {"term": "KnowledgeDocument", "definition": "Domain entity wrapping chunk text + metadata; each chunks.jsonl line is converted into one for indexing."},
+        {"term": "embedding_metadata", "definition": "A header dict recorded with the saved store identifying which embedding model and normalize flag produced the vectors, used to validate the index on load."}
+      ],
+      "config": [
+        "embedding_model",
+        "embedding_device",
+        "embedding_batch_size",
+        "embedding_normalize",
+        "embedding_local_files_only"
+      ],
+      "notes": "Passes allow_dangerous_deserialization=True (this is a local build script, but note the setting is off by default in .env for the runtime). Assumes every chunk's 'headings' is a list (', '.join()); a string headings value would raise. Sibling of append_campus_guide_chunks.py and build_embeddings.py — three overlapping index-build paths exist."
+    },
+    {
+      "path": "scripts/semantic_chunker.py",
+      "purpose": "Converts each cleaned markdown KB document (with YAML front matter) into semantic chunks by splitting the body into heading-scoped text/table/list segments, grouping them under an ~800-word soft cap, merging undersized trailing chunks, and writing chunks.jsonl plus chunk_report.json.",
+      "key_symbols": [
+        "parse_yaml(yaml_text)",
+        "split_into_segments(body_text)",
+        "main()"
+      ],
+      "terms": [
+        {"term": "chunking", "definition": "Splitting long documents into discrete retrievable segments; here segments are grouped so each chunk stays near a 800-word soft target while keeping tables and lists intact."},
+        {"term": "semantic chunk", "definition": "A cohesive text unit that inherits its YAML front matter metadata (title, category, department, campus, source_url) plus a heading trail; written as one chunks.jsonl line with a uuid4 'id' and chunk_index."},
+        {"term": "YAML front matter", "definition": "The metadata block at the top of each KB markdown file (produced by generate_metadata.py); parsed by a minimal hand-rolled parser (parse_yaml) that strips quotes and JSON-decodes bracket lists."},
+        {"term": "heading trail", "definition": "The active H1..H4 heading stack recorded per segment and unioned into the chunk's 'headings' field, preserving document structure inside each chunk."},
+        {"term": "merged section", "definition": "A trailing chunk under 100 words that is appended to the previous chunk (its headings and word count merged) to avoid tiny fragments in the index."}
+      ],
+      "config": [],
+      "notes": "Uses a hand-rolled YAML parser rather than PyYAML (fails on non-trivial YAML like nested objects). Recreates chunks.jsonl from scratch on every run (overwrites, dropping chunks from other sources unless re-added, e.g. by append_campus_guide_chunks.py). Soft cap of 800 words, trailing-chunk merge threshold of 100 words. Writes 'id' key (schema used by build_embeddings.py but not by append_campus_guide_chunks.py)."
+    }
+  ],
+  "data_flow": "Manual/CI ingest pipeline feeding the runtime retriever. Sequence: raw scraped markdown -> clean_markdown.py and normalize_markdown.py scrub boilerplate/OCR artifacts in-place in data/canonical_markdown -> generate_metadata.py prepends YAML front matter -> semantic_chunker.py reads data/canonical_markdown and writes chunks.jsonl + chunk_report.json -> rebuild_faiss_store.py (and append_campus_guide_chunks.py, which also edits chunks.jsonl) read chunks.jsonl and write the production FAISS store via FAISSSimilarityStore to data/faiss (and college_faiss_index); a divergent path (build_embeddings.py) writes raw embeddings.faiss + embedding_metadata.jsonl. At serve time the hybrid retriever loads the data/faiss store, so these scripts produce the exact index the API searches. audit_knowledge_base.py consumes the built index (via create_rag_pipeline) to verify entity coverage. The TTS/audio scripts feed the robot stack: download_piper_voices.py fills data/piper, generate_test_audio.py/inspect_audio_files.py validate synthesized output, and precache_tts.py pre-renders tts_cache/ WAVs used for canned/time responses.",
+  "external_deps": [
+    "faiss (raw index building in build_embeddings.py)",
+    "sentence-transformers (via SentenceTransformerEmbeddings adapter)",
+    "numpy",
+    "httpx (download_piper_voices.py)",
+    "piper (PiperVoice) and pyttsx3 (generate_test_audio.py)",
+    "legacy root-level tts_service / ttt_service modules (precache_tts.py)",
+    "wave + stdlib re/json/shutil (most scripts are stdlib-only)"
+  ],
+  "risks": [
+    "build_embeddings.py hardcodes workspace_root = r'd:\\helpdesk\\anti', a path that does not match the repo root, so it likely cannot find chunks.jsonl as-is.",
+    "deduplicate_kb.py hardcodes a user-specific Gemini scratch path (C:\\Users\\godby\\.gemini\\antigravity-ide\\brain\\...); it exits with an error on any other machine.",
+    "Schema inconsistency between chunk producers: append_campus_guide_chunks.py writes 'chunk_id' while semantic_chunker.py writes 'id' (which build_embeddings.py reads); mixing these sources breaks validation/embedding.",
+    "Three overlapping index-build paths (build_embeddings.py, rebuild_faiss_store.py, append_campus_guide_chunks.py) target divergent outputs (embeddings.faiss vs data/faiss vs college_faiss_index), risking stale or inconsistent indexes.",
+    "clean_markdown.py, normalize_markdown.py, and generate_metadata.py overwrite source markdown in place; only clean_markdown.py backs up first, and generate_metadata.py bakes a fixed scrape_date.",
+    "precache_tts.py imports the legacy root-level tts_service/ttt_service (dead stack) and calls private methods (_handle_greeting etc.), coupling the script to code CLAUDE.md says to retire.",
+    "audit_knowledge_base.py depends on private internals (pipeline._similarity_store, _store.docstore._dict) and silently degrades to a raw file scan, so results may not reflect the actual index.",
+    "Chunking/cleaning heuristics are corpus-specific (hardcoded nav sequence, OCR replacement dict, 800-word cap); changes to scraped site structure require code edits."
+  ]
+}

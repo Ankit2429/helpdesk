@@ -1,6 +1,7 @@
 """RAG-augmented Chat Service combining SimilarityStore and local Ollama model."""
 
 import logging
+import time
 from typing import Any
 
 from campus_helpdesk.application.chat_models import ChatResult
@@ -60,7 +61,7 @@ class RAGChatService(ChatService):
         self._query_rewriter = query_rewriter or QueryRewriter()
         from campus_helpdesk.config.settings import get_settings
         self._context_builder = context_builder or PromptContextBuilder(
-            max_context_size=7000,
+            max_context_size=3500,
             similarity_threshold=get_settings().rag_distance_threshold,
         )
 
@@ -97,7 +98,9 @@ class RAGChatService(ChatService):
         # Normalize user input before processing (lowercasing, spelling, synonyms, etc.)
         from campus_helpdesk.config.settings import get_settings
         debug_mode = get_settings().debug
+        t_start_norm = time.perf_counter()
         normalized_message = normalize_query(message, debug=debug_mode)
+        logger.info("[LATENCY-PROFILER] Query normalization: %.2f ms", (time.perf_counter() - t_start_norm) * 1000)
 
         det = LanguageDetector.detect(normalized_message)
         lang_code = det.language
@@ -120,7 +123,6 @@ class RAGChatService(ChatService):
 
         memory = self.session_manager.get_or_create_session(session_id)
         history = memory.get_messages()
-        history_str = "\n".join([f"{msg['role']}: {msg['content']}" for msg in history])
         from campus_helpdesk.services.prompt_sanitizer import sanitize_user_input
         safe_message = sanitize_user_input(normalized_message)
 
@@ -140,7 +142,9 @@ class RAGChatService(ChatService):
             except Exception as e:
                 logger.warning(f"Failed to translate query to English: {e}")
 
-        search_query = self._query_rewriter.rewrite(original_query_translated, history_str)
+        t_start_rewrite = time.perf_counter()
+        search_query = self._query_rewriter.rewrite(original_query_translated, history)
+        logger.info("[LATENCY-PROFILER] Query rewriting: %.2f ms", (time.perf_counter() - t_start_rewrite) * 1000)
 
         context_str = ""
         confidence_assessment = None
@@ -148,14 +152,14 @@ class RAGChatService(ChatService):
         if self._rag_pipeline is not None:
             try:
                 search_results = self._safe_search(search_query, limit=5, original_query=original_query_translated)
-                
+
                 query_lower = search_query.lower()
                 supp_query = None
                 if any(k in query_lower for k in ("where is the campus", "where is kle tech", "campus address", "university address", "location of university")):
                     supp_query = "campus address location Vidyanagar Hubballi"
                 elif any(k in query_lower for k in ("vice chancellor name", "who is the vc", "chancellor name")):
                     supp_query = "Vice Chancellor Board of Governors Dr Prakash Tewari"
-                
+
                 if supp_query and len(search_results) < 3:
                     try:
                         supp_results = self._safe_search(supp_query, limit=3)
@@ -171,10 +175,12 @@ class RAGChatService(ChatService):
                         logger.warning(f"Supplemental retrieval exception: {supp_err}")
 
                 if search_results:
+                    t_start_ctx = time.perf_counter()
                     if self._context_composer is not None:
                         search_results = self._context_composer.compose(search_results)
                     confidence_assessment = self.confidence_engine.evaluate(search_results)
                     context_str = self._context_builder.build_context(search_results, confidence_assessment)
+                    logger.info("[LATENCY-PROFILER] Context assembly: %.2f ms", (time.perf_counter() - t_start_ctx) * 1000)
             except Exception as err:
                 logger.warning(f"RAG context retrieval exception: {err}")
 
@@ -188,6 +194,16 @@ class RAGChatService(ChatService):
 
         # Calibrate threshold: Accept if overall score >= 0.35 OR if the top retrieved chunk is highly relevant
         is_accepted = (score >= 0.35) or (top_reranker >= 0.1) or (top_distance <= 1.2)
+
+        # Token Budgeting & Logging
+        token_breakdown = memory.get_token_breakdown(self._system_prompt, context_str, safe_message)
+        logger.info(
+            f"[TokenBudget] System: {token_breakdown['system_prompt_tokens']} | "
+            f"History: {token_breakdown['conversation_history_tokens']} | "
+            f"Context: {token_breakdown['retrieved_context_tokens']} | "
+            f"Query: {token_breakdown['user_query_tokens']} | "
+            f"Total: {token_breakdown['total_tokens']}/{token_breakdown['max_context_tokens']}"
+        )
 
         # Log detailed RAG debug statistics for every query
         debug_msg = (
@@ -220,12 +236,18 @@ class RAGChatService(ChatService):
                 detected_language=lang_code,
             )
 
+        # Truncate context & history to fit strictly within max token budget
+        budget_history, budget_context, safe_message = memory.truncate_to_token_budget(
+            self._system_prompt, context_str, safe_message
+        )
+
+        # Merge parts in unambiguous, structured order: System -> History -> Context -> Query
         parts = [self._system_prompt]
-        if history:
-            parts.append("History:\n" + history_str)
-        if context_str:
-            parts.append(f"Context:\n{context_str}")
-        
+        if budget_history:
+            parts.append("--- Conversation History ---\n" + budget_history)
+        if budget_context:
+            parts.append(f"--- Retrieved Knowledge Context ---\n{budget_context}")
+
         if lang_code != "en":
             parts.append(
                 f"LANGUAGE INSTRUCTION: The user asked in {lang_name} ({lang_code.upper()}). "
@@ -235,8 +257,10 @@ class RAGChatService(ChatService):
         parts.append(f"User Question: {safe_message}")
 
         prompt = "\n\n".join(parts)
+        t_start_llm = time.perf_counter()
         reply = self._llm_service.generate(prompt)
-        
+        logger.info("[LATENCY-PROFILER] LLM completion: %.2f ms", (time.perf_counter() - t_start_llm) * 1000)
+
         if search_results:
             reply = CitationValidator.validate_citations(reply, [res.document for res in search_results])
 
@@ -260,7 +284,9 @@ class RAGChatService(ChatService):
 
         from campus_helpdesk.config.settings import get_settings
         debug_mode = get_settings().debug
+        t_start_norm = time.perf_counter()
         normalized_message = normalize_query(message, debug=debug_mode)
+        logger.info("[LATENCY-PROFILER] Query normalization: %.2f ms", (time.perf_counter() - t_start_norm) * 1000)
 
         det = LanguageDetector.detect(normalized_message)
         lang_code = det.language
@@ -277,7 +303,6 @@ class RAGChatService(ChatService):
 
         memory = self.session_manager.get_or_create_session(session_id)
         history = memory.get_messages()
-        history_str = "\n".join([f"{msg['role']}: {msg['content']}" for msg in history])
         from campus_helpdesk.services.prompt_sanitizer import sanitize_user_input
         safe_message = sanitize_user_input(normalized_message)
         # Translation block for non-English queries (translate search and rerank target to English keywords)
@@ -296,7 +321,9 @@ class RAGChatService(ChatService):
             except Exception as e:
                 logger.warning(f"Failed to translate query to English (stream): {e}")
 
-        search_query = self._query_rewriter.rewrite(original_query_translated, history_str)
+        t_start_rewrite = time.perf_counter()
+        search_query = self._query_rewriter.rewrite(original_query_translated, history)
+        logger.info("[LATENCY-PROFILER] Query rewriting: %.2f ms", (time.perf_counter() - t_start_rewrite) * 1000)
 
         context_str = ""
         confidence_assessment = None
@@ -305,10 +332,12 @@ class RAGChatService(ChatService):
             try:
                 search_results = self._safe_search(search_query, limit=5, original_query=original_query_translated)
                 if search_results:
+                    t_start_ctx = time.perf_counter()
                     if self._context_composer is not None:
                         search_results = self._context_composer.compose(search_results)
                     confidence_assessment = self.confidence_engine.evaluate(search_results)
                     context_str = self._context_builder.build_context(search_results, confidence_assessment)
+                    logger.info("[LATENCY-PROFILER] Context assembly: %.2f ms", (time.perf_counter() - t_start_ctx) * 1000)
             except Exception as err:
                 logger.warning(f"RAG context retrieval exception in respond_stream: {err}")
 
@@ -319,6 +348,16 @@ class RAGChatService(ChatService):
         top_distance = confidence_assessment.top_distance if confidence_assessment else 99.0
 
         is_accepted = (score >= 0.35) or (top_reranker >= 0.1) or (top_distance <= 1.2)
+
+        # Token Budgeting & Logging
+        token_breakdown = memory.get_token_breakdown(self._system_prompt, context_str, safe_message)
+        logger.info(
+            f"[TokenBudget Stream] System: {token_breakdown['system_prompt_tokens']} | "
+            f"History: {token_breakdown['conversation_history_tokens']} | "
+            f"Context: {token_breakdown['retrieved_context_tokens']} | "
+            f"Query: {token_breakdown['user_query_tokens']} | "
+            f"Total: {token_breakdown['total_tokens']}/{token_breakdown['max_context_tokens']}"
+        )
 
         # Log detailed RAG debug statistics for every query
         debug_msg = (
@@ -345,19 +384,32 @@ class RAGChatService(ChatService):
             yield reply
             return
 
+        # Truncate context & history to fit strictly within max token budget
+        budget_history, budget_context, safe_message = memory.truncate_to_token_budget(
+            self._system_prompt, context_str, safe_message
+        )
+
+        # Merge parts in unambiguous, structured order: System -> History -> Context -> Query
         parts = [self._system_prompt]
-        if history:
-            parts.append("History:\n" + history_str)
-        if context_str:
-            parts.append(f"Context:\n{context_str}")
+        if budget_history:
+            parts.append("--- Conversation History ---\n" + budget_history)
+        if budget_context:
+            parts.append(f"--- Retrieved Knowledge Context ---\n{budget_context}")
         parts.append(f"User Question: {safe_message}")
 
         prompt = "\n\n".join(parts)
         full_reply_tokens = []
+        t_start_llm = time.perf_counter()
+        first_token = True
+        
         for token in self._llm_service.generate_stream(prompt):
+            if first_token:
+                logger.info("[LATENCY-PROFILER] LLM first token: %.2f ms", (time.perf_counter() - t_start_llm) * 1000)
+                first_token = False
             full_reply_tokens.append(token)
             yield token
 
+        logger.info("[LATENCY-PROFILER] LLM completion: %.2f ms", (time.perf_counter() - t_start_llm) * 1000)
         full_reply = "".join(full_reply_tokens)
         memory.add_message("user", normalized_message)
         memory.add_message("assistant", full_reply)

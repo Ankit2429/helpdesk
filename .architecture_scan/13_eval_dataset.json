@@ -1,0 +1,134 @@
+{
+  "folder": "evaluation/dataset_generator/",
+  "title": "Evaluation dataset generator",
+  "purpose": "This subsystem is a fully offline, stdlib-only pipeline that automatically builds evaluation benchmark datasets for the RAG chatbot: it parses the knowledge-base Markdown documents, classifies each document into one of 9 domain categories, synthesizes natural conversational question-answer pairs from the sections using 8 simulated helpdesk personas, then validates, deduplicates, and writes the results to per-category JSON files in evaluation/datasets/. The generated datasets are the QA ground-truth consumed by the evaluation benchmark runners (evaluation/benchmarks/evaluator.py, benchmark.py, retrieval_benchmark.py) to score retrieval and answering quality of the campus helpdesk RAG stack.",
+  "files": [
+    {
+      "path": "evaluation/dataset_generator/__init__.py",
+      "purpose": "Package marker that documents the dataset generator's scope (parse -> classify -> synthesize -> validate -> deduplicate -> write) and declares the package version.",
+      "key_symbols": ["__version__"],
+      "terms": [
+        {"term": "benchmark dataset", "definition": "A structured JSON file of (question, expected_answer) QA pairs used as ground truth to score the RAG chatbot; generated per category into evaluation/datasets/."}
+      ],
+      "config": [],
+      "notes": "Only a docstring and __version__ = \"0.1.0\"; contains no importable logic."
+    },
+    {
+      "path": "evaluation/dataset_generator/answer_extractor.py",
+      "purpose": "Defines AnswerExtractor, which strips Markdown formatting from a section's content and returns a grounded verbatim/excerpted answer snippet limited to that section.",
+      "key_symbols": ["AnswerExtractor", "AnswerExtractor.extract_answer"],
+      "terms": [
+        {"term": "grounded answer", "definition": "An answer excerpt whose text must contain content from the source section (a grounding check fails the extraction), preventing invented or cross-file-polluted answers."}
+      ],
+      "config": [],
+      "notes": "DEAD CODE: AnswerExtractor is not imported by pipeline.py or any other module in this package (verified by search). The pipeline instead synthesizes expected_answer inline in question_generator.py and grounds it via DatasetValidator, so extract_answer's stricter section-only grounding is never exercised."
+    },
+    {
+      "path": "evaluation/dataset_generator/classifier.py",
+      "purpose": "Defines CategoryClassifier, which assigns each parsed Markdown document to one of the 9 target categories by scoring path keywords (weight 5.0/4.0), title/heading keyword hits (3.0), and content keyword frequency (0.5 per hit).",
+      "key_symbols": ["CategoryClassifier", "CategoryClassifier.__init__", "CategoryClassifier.classify"],
+      "terms": [
+        {"term": "category classification", "definition": "Heuristic assignment of each document to a domain bucket (Admission, Departments, Hostel, Fees, Placement, Navigation, Facilities, Faculty, Misc) via weighted path/keyword scoring; scores below 2.0 default to Misc."},
+        {"term": "keyword rules", "definition": "The per-category keyword lists from config (category_keywords) used to detect domain signals in titles, headings, and document content."}
+      ],
+      "config": ["config.category_file_map (iterated to build score keys)", "config.category_keywords (keyword rules)"],
+      "notes": "Misc is a bucket category: its keyword rule set is absent from category_keywords (the dict covers 8 real categories), and Misc is excluded from best-category selection until the threshold fallback. Path heuristics are hardcoded strings (e.g. 'admission', 'hostel') rather than data-driven."
+    },
+    {
+      "path": "evaluation/dataset_generator/config.py",
+      "purpose": "Defines the GeneratorConfig dataclass holding all pipeline defaults: input/output directories, per-doc question count bounds, answer length limits, dedup threshold, the 9 category set, category->JSON filename mapping, 8 helpdesk personas, and per-category keyword lists.",
+      "key_symbols": ["GeneratorConfig", "GeneratorConfig.categories", "GeneratorConfig.category_file_map", "GeneratorConfig.personas", "GeneratorConfig.category_keywords"],
+      "terms": [
+        {"term": "persona", "definition": "One of 8 simulated real-world helpdesk user roles (e.g. newly admitted student, parent accompanying student, student lost on campus) that question phrasing is authored from."},
+        {"term": "category_file_map", "definition": "Mapping from category name to the JSON dataset filename it is written to (e.g. 'Admission' -> admission.json)."}
+      ],
+      "config": [],
+      "notes": "No config.yaml / .env / environment variables are read anywhere in this package; all configuration is dataclass defaults plus CLI overrides in pipeline.py. words_per_question=80 drives the target question count. overwrite_existing defaults to True here, but the CLI's --overwrite flag is store_true (default False), so behavior differs between direct-construction and CLI invocation."
+    },
+    {
+      "path": "evaluation/dataset_generator/deduplicator.py",
+      "purpose": "Defines SemanticDeduplicator, which removes exact and near-duplicate questions from candidate lists using normalized-string comparison, length-difference fast exit, Jaccard token-set similarity, and difflib SequenceMatcher ratio against a configurable threshold (default 0.85).",
+      "key_symbols": ["_normalize_query", "SemanticDeduplicator", "SemanticDeduplicator.__init__", "SemanticDeduplicator.deduplicate"],
+      "terms": [
+        {"term": "dedup threshold", "definition": "Similarity ratio (default 0.85) above which two candidate queries are treated as duplicates and dropped; applied to Jaccard and SequenceMatcher scores."},
+        {"term": "Jaccard similarity", "definition": "Intersection-over-union of the token sets of two normalized queries, used as one of four near-duplicate detection signals."}
+      ],
+      "config": ["GeneratorConfig.dedup_threshold (passed as threshold in pipeline.py)"],
+      "notes": "O(n^2) pairwise comparison over accumulated seen queries; acceptable for small batches but quadratic in the number of candidates. Empty normalized queries are counted as removed. Pipeline also runs a second, string-exact per-category dedup (seen_q) before writing."
+    },
+    {
+      "path": "evaluation/dataset_generator/inspect_dataset.py",
+      "purpose": "Standalone CLI utility that pretty-prints 20 (configurable) sample records from each generated dataset JSON file in evaluation/datasets/ for manual quality inspection.",
+      "key_symbols": ["inspect_category", "main"],
+      "terms": [],
+      "config": ["CLI args: --dataset-dir (default evaluation/datasets), --category, --samples (default 20)"],
+      "notes": "Dev-only tool, not part of the pipeline. Emits non-ASCII emoji in console output (❌) which can break on some Windows code pages. Prints expected_answer truncated to 120 chars."
+    },
+    {
+      "path": "evaluation/dataset_generator/pipeline.py",
+      "purpose": "Defines the DatasetGeneratorPipeline orchestrator plus a CLI entry point (main/parse_args) that runs the whole flow: discover Markdown, parse, classify, generate, validate, deduplicate per file, re-dedup per category, write datasets, and print a summary report.",
+      "key_symbols": ["DatasetGeneratorPipeline", "DatasetGeneratorPipeline.__init__", "DatasetGeneratorPipeline.run", "DatasetGeneratorPipeline.print_final_report", "parse_args", "main"],
+      "terms": [
+        {"term": "RAG benchmarking", "definition": "Scoring the retrieval-augmented chatbot against generated ground-truth QA datasets; the CLI help labels this generator as the tooling that produces those benchmark inputs."}
+      ],
+      "config": ["CLI args: --input-dir (default data/processed_docs), --output-dir (default evaluation/datasets), --min-questions (5), --max-questions (20), --dedup-threshold (0.85), --overwrite (store_true, default False), --verbose"],
+      "notes": "Adds workspace root to sys.path when run as a script, so both `python -m evaluation.dataset_generator.pipeline` and direct execution work. Hardcodes legacy fallback dirs (bvbcet_rag_pipeline/knowledge_base/markdown, bvbcet_rag_pipeline/markdown, archive/bvbcet_rag_pipeline/knowledge_base/markdown) used only if the configured input_dir is empty. Sets doc.metadata['assigned_category'] which QuestionGenerator later reads - implicit coupling across modules. --overwrite default (False) contradicts GeneratorConfig.overwrite_existing default (True). average_questions_per_doc guards against divide-by-zero."
+    },
+    {
+      "path": "evaluation/dataset_generator/question_generator.py",
+      "purpose": "Defines the GeneratedQuestionCandidate dataclass and QuestionGenerator, which computes a target question count per document, then synthesizes persona-tagged, category-specific conversational questions from each section with difficulty and keyword metadata.",
+      "key_symbols": ["GeneratedQuestionCandidate", "_clean_entity_name", "QuestionGenerator", "QuestionGenerator.calculate_question_count", "QuestionGenerator._extract_keywords", "QuestionGenerator._generate_natural_queries", "QuestionGenerator.generate_questions"],
+      "terms": [
+        {"term": "question candidate", "definition": "A synthesized QA pair (question, expected_answer, section_heading, perspective, difficulty, keywords) before validation/dedup."},
+        {"term": "difficulty", "definition": "A coarse easy/medium/hard label hardcoded per generated question template."},
+        {"term": "entity name", "definition": "The cleaned human-readable name (from document title or section heading) that gets interpolated into templated questions, e.g. 'the Computer Science department'."}
+      ],
+      "config": ["config.personas (persona list)", "config.words_per_question (80, drives target count)", "config.min_questions_per_doc (5)", "config.max_questions_per_doc (20)", "doc.metadata['assigned_category'] (set by pipeline)"],
+      "notes": "Questions come from hardcoded per-category template lists, not from the LLM; category templates only for Admission, Navigation, Departments, Hostel, Facilities, Fees, Placement, Faculty, and a generic else branch. expected_answer is simply the first sentence of the section (not the AnswerExtractor). Deterministic sampling: random.seed(42) then random.sample. Sections shorter than 25 chars, or whose heading starts with 'pdf document:'/'source:', are skipped. No documents/sections are queried via the embedding/BM25 infrastructure - this is template generation only."
+    },
+    {
+      "path": "evaluation/dataset_generator/reader.py",
+      "purpose": "Defines the SectionBlock and MarkdownDocument dataclasses and MarkdownReader, which recursively discovers .md files and parses them into a title, heading list, and hierarchical section blocks.",
+      "key_symbols": ["SectionBlock", "MarkdownDocument", "MarkdownReader", "MarkdownReader.__init__", "MarkdownReader.find_all_markdown_files", "MarkdownReader.parse_file"],
+      "terms": [
+        {"term": "section block", "definition": "A heading + level + the content lines following it up to the next heading; the unit questions are generated from."},
+        {"term": "MarkdownDocument", "definition": "Structured in-memory representation of one parsed Markdown file: path, filename, title, headings, sections, metadata, word counts, raw content."}
+      ],
+      "config": ["input_dir passed to constructor (default data/processed_docs)"],
+      "notes": "Heading regex is '^(#{1,6})\\s+(.+)$'; content before the first heading is grouped under the document title. Title = first '# ' heading, else file stem title-cased with underscores replaced by spaces. Reads with errors='ignore' (silently drops undecodable bytes). metadata stores only relative_path; pipeline appends assigned_category. Returns None for empty/unreadable files."
+    },
+    {
+      "path": "evaluation/dataset_generator/validator.py",
+      "purpose": "Defines DatasetValidator, which filters candidate QA pairs by question/answer length limits, keyword groundedness against the source document (>=60% of answer keywords must appear), and generic/ambiguous question patterns.",
+      "key_symbols": ["DatasetValidator", "DatasetValidator.__init__", "DatasetValidator.validate_candidate"],
+      "terms": [
+        {"term": "groundedness validation", "definition": "Check that >=60% of the answer's significant keywords (>3 chars) appear in the raw source document text; below that the answer is rejected as ungrounded/hallucinated."}
+      ],
+      "config": ["config.min_answer_length (5 words)", "config.max_answer_length (500 words)"],
+      "notes": "Rejection reasons are returned as the second tuple element ('Empty question text', 'Question too short', 'Answer length below minimum', 'Ungrounded answer', 'Ambiguous generic question pattern'). The 60% ratio check only runs if the answer yields non-empty keywords."
+    },
+    {
+      "path": "evaluation/dataset_generator/writer.py",
+      "purpose": "Defines DatasetWriter, which formats validated candidates into the record schema (id, question, expected_answer, expected_document, category, section, source_heading, keywords, difficulty, perspective) and merges/appends them into per-category JSON dataset files.",
+      "key_symbols": ["DatasetWriter", "DatasetWriter._get_target_file", "DatasetWriter.load_existing_records", "DatasetWriter.format_record", "DatasetWriter.write_records"],
+      "terms": [
+        {"term": "record schema", "definition": "The JSON object shape written to dataset files, matching what the benchmark runners (evaluator.py, benchmark.py, retrieval_benchmark.py) read as QA ground truth."}
+      ],
+      "config": ["config.output_dir (default evaluation/datasets)", "config.category_file_map (filename per category)", "config.overwrite_existing (True if new writes replace existing files instead of merging)"],
+      "notes": "With overwrite_existing=True, existing records are discarded and IDs restart at 1; with False (the CLI default), it loads existing records and continues IDs. Writes UTF-8 with indent=2, ensure_ascii=False. Duplicate 'id' collisions are possible across runs when merging records that were also deduplicated by question string. 'expected_document' is just doc.filename (basename), not the full relative path."
+    }
+  ],
+  "data_flow": "Entry point is evaluation/dataset_generator/pipeline.py, runnable as a module or script (it injects the workspace root into sys.path). No other subsystem imports this package; it is an offline batch tool invoked manually/CLI. Input: knowledge-base Markdown discovered recursively under data/processed_docs (with hardcoded fallbacks to legacy dirs bvbcet_rag_pipeline/knowledge_base/markdown, bvbcet_rag_pipeline/markdown, archive/bvbcet_rag_pipeline/knowledge_base/markdown if empty). Flow: MarkdownReader parses files into MarkdownDocument -> CategoryClassifier assigns a category (stored in doc.metadata['assigned_category']) -> QuestionGenerator emits GeneratedQuestionCandidates per section -> DatasetValidator filters by quality/groundedness -> SemanticDeduplicator removes near-duplicates per file -> writer merges per-category JSON files in evaluation/datasets/*.json (admission.json ... misc.json), re-deduping by exact question string per category. Output: one JSON list per category of records with id/question/expected_answer/expected_document/category/section/source_heading/keywords/difficulty/perspective. Downstream consumers are the evaluation benchmark runners, which default their dataset_dir to evaluation/datasets: evaluation/benchmarks/evaluator.py, evaluation/benchmarks/benchmark.py, evaluation/benchmarks/retrieval_benchmark.py (and scripts/benchmark.py). inspect_dataset.py reads the same JSON files for manual QA.",
+  "external_deps": [
+    "Python 3.11 standard library only: argparse, dataclasses, difflib, json, logging, math, random, re, sys, time, pathlib, typing, collections.defaultdict. No third-party packages, no Ollama/LLM, no embedding models."
+  ],
+  "risks": [
+    "answer_extractor.py is dead code: AnswerExtractor is never imported or called by the pipeline; the pipeline substitutes a weaker inline extraction (first sentence of section) and keyword-ratio grounding, so the stricter section-only grounding guarantee is not enforced.",
+    "Config drift: GeneratorConfig.overwrite_existing defaults to True but the CLI --overwrite flag defaults to False, so a direct-construction run replaces dataset files while a CLI run merges them - identical pipeline, different merge semantics.",
+    "Question/answer quality is bounded by hardcoded templates: questions are templated per category with the entity name interpolated and expected_answer is just the section's first sentence; there is no semantic check that a question actually targets the answer. The 8 personas and all templates are static lists in code, so generated variety is limited.",
+    "No cross-document dedup of meaning: dedup is per-file (SemanticDeduplicator) plus per-category exact-string; semantically identical questions phrased slightly differently across documents (e.g. two 'Where is the canteen?' variants) can both survive into the same dataset.",
+    "Groundedness is a loose keyword co-occurrence check (>=60% of >3-char answer keywords present anywhere in the raw document), so answers can still mismatch their labeled section/category or contain keywords scattered across the document.",
+    "Fallback dirs and path-heuristic classification are hardcoded to legacy bvbcet_rag_pipeline paths; classification is purely heuristic string scoring with no LLM or structured metadata, so miscategorized documents silently land in Misc.",
+    "The generator does not use the actual retrieval stack (no embedding/BM25/FAISS); expected_answer provenance is document text only, so datasets cannot validate cross-document or retrieval-position-dependent behavior."
+  ]
+}

@@ -33,7 +33,7 @@ class ContextComposer:
         if settings is not None:
             self.enable_composer = getattr(settings, "enable_context_composer", True)
             self.dedup_threshold = getattr(settings, "context_composer_dedup_threshold", 0.85)
-            self.max_context_size = 7000
+            self.max_context_size = getattr(settings, "context_composer_max_context_size", 3500)
         else:
             self.enable_composer = enable_composer
             self.dedup_threshold = dedup_threshold

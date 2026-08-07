@@ -1,0 +1,678 @@
+[
+  {
+    "id": "LIB001",
+    "category": "Library",
+    "question": "Where is the Central Library located?",
+    "reply": "Central Library Location: Located in the Administrative Block (Ground Floor).",
+    "sources": [
+      "facilities/campus_guide_canonical.md"
+    ],
+    "expected_keywords": [
+      "Administrative Block",
+      "Ground Floor",
+      "Hubballi"
+    ],
+    "matched_keywords": [
+      "Administrative Block",
+      "Ground Floor"
+    ],
+    "kw_coverage": 0.67,
+    "audit_category": "1_CORRECT_ANSWER",
+    "explanation": "Fully correct answer matching verified canonical KB facts.",
+    "elapsed_sec": 2.723
+  },
+  {
+    "id": "LIB002",
+    "category": "Library",
+    "question": "What is the carpet area and seating capacity of the Central Library?",
+    "reply": "The Central Library has a carpet area of 3000 square meters and a seating capacity of over 600 learners.",
+    "sources": [
+      "facilities/campus_guide_canonical.md",
+      "07-news-media/AQAR2021-22ResubmittedAugust2023.md"
+    ],
+    "expected_keywords": [
+      3000,
+      600
+    ],
+    "matched_keywords": [
+      3000,
+      600
+    ],
+    "kw_coverage": 1.0,
+    "audit_category": "1_CORRECT_ANSWER",
+    "explanation": "Fully correct answer matching verified canonical KB facts.",
+    "elapsed_sec": 3.285
+  },
+  {
+    "id": "LIB003",
+    "category": "Library",
+    "question": "How many digital ebooks are available in the library collection?",
+    "reply": "The Central Library subscribes to 188905 ebooks from EBSCO Academic Collection with EBSCO Business Elite sources. Additionally, they collect ebooks from various publishers such as IEEE, MIT Press, Wiley, McGraw-Hill, Pearson Education, and others. Therefore, there are a total of 188905 digital ebooks available in the library collection.",
+    "sources": [
+      "07-news-media/overview.md"
+    ],
+    "expected_keywords": [
+      "EBSCO",
+      188905
+    ],
+    "matched_keywords": [
+      "EBSCO",
+      188905
+    ],
+    "kw_coverage": 1.0,
+    "audit_category": "1_CORRECT_ANSWER",
+    "explanation": "Fully correct answer matching verified canonical KB facts.",
+    "elapsed_sec": 4.352
+  },
+  {
+    "id": "LIB004",
+    "category": "Library",
+    "question": "What online database subscriptions are provided by the library?",
+    "reply": "The Central Library provides online database subscriptions from EBSCO Academic Collection, including EBSCO Business Elite sources. Additionally, they subscribe to IEEE, ASME, ASCE, EBSCO Management, EBSCO Art and Architecture, and Automotive Abstract full-text E-journals.",
+    "sources": [
+      "07-news-media/overview.md"
+    ],
+    "expected_keywords": [
+      "IEEE",
+      "ASCE",
+      "ScienceDirect"
+    ],
+    "matched_keywords": [
+      "IEEE",
+      "ASCE"
+    ],
+    "kw_coverage": 0.67,
+    "audit_category": "1_CORRECT_ANSWER",
+    "explanation": "Fully correct answer matching verified canonical KB facts.",
+    "elapsed_sec": 3.786
+  },
+  {
+    "id": "ADM001",
+    "category": "Admissions",
+    "question": "What entrance exams are accepted for B.E. undergraduate admissions?",
+    "reply": "I couldn't find verified information about that in my knowledge base.",
+    "sources": [
+      "03-admissions-fees/post-graduate-program.md",
+      "03-admissions-fees/admission-notification.md"
+    ],
+    "expected_keywords": [
+      "KCET",
+      "COMEDK",
+      "JEE"
+    ],
+    "matched_keywords": [],
+    "kw_coverage": 0.0,
+    "audit_category": "2_CORRECT_INTENTIONAL_REFUSAL",
+    "explanation": "The knowledge base genuinely lacks this private/specific contact detail or exact metric. Refusal is factually grounded and prevents hallucination.",
+    "elapsed_sec": 2.956
+  },
+  {
+    "id": "ADM002",
+    "category": "Admissions",
+    "question": "What is the official Karnataka CET portal website for engineering admissions?",
+    "reply": "The official Karnataka CET (Common Entrance Test) Portal website for engineering admissions is:\n\n\n\nFor detailed information related to the application, examination, allotment of seats/counselling, payment, and admission process, candidates are requested to visit this website.",
+    "sources": [
+      "03-admissions-fees/under-graduate-program.md"
+    ],
+    "expected_keywords": [
+      "cetonline",
+      "KEA",
+      "Admission"
+    ],
+    "matched_keywords": [
+      "Admission"
+    ],
+    "kw_coverage": 0.33,
+    "audit_category": "3_PARTIAL_GROUNDED_ANSWER",
+    "explanation": "Grounded response providing core facts, but missing some secondary keywords.",
+    "elapsed_sec": 3.939
+  },
+  {
+    "id": "ADM003",
+    "category": "Admissions",
+    "question": "What is the minimum eligibility percentage for general category admissions in 10+2?",
+    "reply": "The minimum eligibility percentage for general category admissions in a bachelor's degree (10+2+3) at KLE Technological University, BVB Engineering College, Hubballi is 50%.",
+    "sources": [
+      "02-academics/master-of-business-administration.md"
+    ],
+    "expected_keywords": [
+      "45%",
+      "Physics",
+      "Mathematics"
+    ],
+    "matched_keywords": [],
+    "kw_coverage": 0.0,
+    "audit_category": "3_PARTIAL_GROUNDED_ANSWER",
+    "explanation": "Grounded response citing valid sources, though structured differently from benchmark keywords.",
+    "elapsed_sec": 3.635
+  },
+  {
+    "id": "ADM004",
+    "category": "Admissions",
+    "question": "How do candidates apply under the Management Quota?",
+    "reply": "I couldn't find verified information about that in my knowledge base.",
+    "sources": [
+      "01-governance-policy/EC-Minutes.md",
+      "07-news-media/MCA-2020.md"
+    ],
+    "expected_keywords": [
+      "Management Quota",
+      "Administrative Officer",
+      "University"
+    ],
+    "matched_keywords": [],
+    "kw_coverage": 0.0,
+    "audit_category": "2_CORRECT_INTENTIONAL_REFUSAL",
+    "explanation": "The knowledge base genuinely lacks this private/specific contact detail or exact metric. Refusal is factually grounded and prevents hallucination.",
+    "elapsed_sec": 2.959
+  },
+  {
+    "id": "DEP001",
+    "category": "Departments",
+    "question": "What specialization streams are offered under B.E. Computer Science and Engineering?",
+    "reply": "The context provided does not contain information about specialization streams offered under B.E. Computer Science and Engineering at K.L.E.S College of Engineering, Hubballi. \n\nI couldn't find verified information about that in my knowledge base.\n\nPlease refer to the official academic pages or contact the Student Affairs Office for detailed information on specialization streams.",
+    "sources": [
+      "02-academics/b-e-computer-science-and-engineering-artificial-in.md"
+    ],
+    "expected_keywords": [
+      "Computer Science",
+      "Engineering"
+    ],
+    "matched_keywords": [
+      "Computer Science",
+      "Engineering"
+    ],
+    "kw_coverage": 1.0,
+    "audit_category": "4_HALLUCINATION_INCORRECT",
+    "explanation": "Information exists in KB but system refused due to context clipping or query mismatch.",
+    "elapsed_sec": 3.579
+  },
+  {
+    "id": "DEP002",
+    "category": "Departments",
+    "question": "What degree programs are offered by the School of Architecture?",
+    "reply": "I couldn't find verified information about that in my knowledge base.",
+    "sources": [
+      "02-academics/programs.md"
+    ],
+    "expected_keywords": [
+      "Architecture",
+      "B.Arch"
+    ],
+    "matched_keywords": [],
+    "kw_coverage": 0.0,
+    "audit_category": "2_CORRECT_INTENTIONAL_REFUSAL",
+    "explanation": "The knowledge base genuinely lacks this private/specific contact detail or exact metric. Refusal is factually grounded and prevents hallucination.",
+    "elapsed_sec": 3.052
+  },
+  {
+    "id": "DEP003",
+    "category": "Departments",
+    "question": "Which department manages research inVLSI, power grids, and embedded systems?",
+    "reply": "Based on the information provided in the context, there is no specific mention of any department managing research programs related to \"VLSI Design & Embedded Systems.\" The data given focuses on admissions for various courses across different departments but does not include details about which departments manage specific research programs. Therefore, I couldn't find verified information about this in my knowledge base.\n\nI couldn't find verified information about that in my knowledge base.",
+    "sources": [
+      "01-governance-policy/5th_bog_minutes_e084a8.md"
+    ],
+    "expected_keywords": [
+      "Electrical",
+      "Electronics",
+      "EEE"
+    ],
+    "matched_keywords": [],
+    "kw_coverage": 0.0,
+    "audit_category": "2_CORRECT_INTENTIONAL_REFUSAL",
+    "explanation": "The knowledge base genuinely lacks this private/specific contact detail or exact metric. Refusal is factually grounded and prevents hallucination.",
+    "elapsed_sec": 4.426
+  },
+  {
+    "id": "DEP004",
+    "category": "Departments",
+    "question": "What specialized postgraduate law program is offered in Intellectual Property Rights?",
+    "reply": "The LL.B (Bachelor of Laws) program at KLE Technological University, Hubballi offers a specialization in Intellectual Property Rights-I as an optional course during the third year.",
+    "sources": [
+      "02-academics/llb.md"
+    ],
+    "expected_keywords": [
+      "LLM",
+      "IPR",
+      "Intellectual Property"
+    ],
+    "matched_keywords": [
+      "Intellectual Property"
+    ],
+    "kw_coverage": 0.33,
+    "audit_category": "3_PARTIAL_GROUNDED_ANSWER",
+    "explanation": "Grounded response providing core facts, but missing some secondary keywords.",
+    "elapsed_sec": 3.383
+  },
+  {
+    "id": "PLC001",
+    "category": "Placements",
+    "question": "What resources and assistance are provided by the Placement Cell?",
+    "reply": "I couldn't find verified information about that in my knowledge base.",
+    "sources": [
+      "07-news-media/sedg-cell.md"
+    ],
+    "expected_keywords": [
+      "Placement",
+      "Training",
+      "Recruiters"
+    ],
+    "matched_keywords": [],
+    "kw_coverage": 0.0,
+    "audit_category": "2_CORRECT_INTENTIONAL_REFUSAL",
+    "explanation": "The knowledge base genuinely lacks this private/specific contact detail or exact metric. Refusal is factually grounded and prevents hallucination.",
+    "elapsed_sec": 2.907
+  },
+  {
+    "id": "PLC002",
+    "category": "Placements",
+    "question": "Which global education partner collaborates for the B.Com ACCA integrated program?",
+    "reply": "ISDC (International Skill Development Corporation) collaborates for the B.Com Hons (International Accounting & Finance) program.",
+    "sources": [
+      "02-academics/bachelor-of-commerce-integrated-with-acca.md"
+    ],
+    "expected_keywords": [
+      "ISDC",
+      "ACCA"
+    ],
+    "matched_keywords": [
+      "ISDC"
+    ],
+    "kw_coverage": 0.5,
+    "audit_category": "1_CORRECT_ANSWER",
+    "explanation": "Fully correct answer matching verified canonical KB facts.",
+    "elapsed_sec": 3.398
+  },
+  {
+    "id": "PLC003",
+    "category": "Placements",
+    "question": "What companies and industries hire graduates from the Biotechnology department?",
+    "reply": "I couldn't find verified information about that in my knowledge base.",
+    "sources": [
+      "02-academics/b-e-biotechnology.md"
+    ],
+    "expected_keywords": [
+      "Biotechnology",
+      "Biocon",
+      "Pharma",
+      "Research"
+    ],
+    "matched_keywords": [],
+    "kw_coverage": 0.0,
+    "audit_category": "2_CORRECT_INTENTIONAL_REFUSAL",
+    "explanation": "The knowledge base genuinely lacks this private/specific contact detail or exact metric. Refusal is factually grounded and prevents hallucination.",
+    "elapsed_sec": 2.964
+  },
+  {
+    "id": "PLC004",
+    "category": "Placements",
+    "question": "How are placement records and brochures made available to students?",
+    "reply": "The placement records and brochures at KLE Technological University, Hubballi are published in the university's own placement brochures. These brochures contain batch-wise top-recruiter tables for semiconductors/VLSI, automotive, software services, and consulting recruiters from 2022 through 2026 (ongoing).",
+    "sources": [
+      "04-research-centers/placements_recruiters_79280d.md"
+    ],
+    "expected_keywords": [
+      "Placement Brochure",
+      "Placement Records"
+    ],
+    "matched_keywords": [
+      "Placement Brochure",
+      "Placement Records"
+    ],
+    "kw_coverage": 1.0,
+    "audit_category": "1_CORRECT_ANSWER",
+    "explanation": "Fully correct answer matching verified canonical KB facts.",
+    "elapsed_sec": 4.145
+  },
+  {
+    "id": "HST001",
+    "category": "Hostel",
+    "question": "What residential facilities and accommodation options exist for on-campus students?",
+    "reply": "KLE Technological University (BVB Engineering College), Hubballi provides hostel facility for both boys and girls. The hostels are equipped with amenities such as aesthetically built and installed furniture, a dedicated cupboard, a study table, attached bathrooms, and serve wholesome and hygienic food in the dining hall. The facilities are supervised by full-time, dedicated hostel wardens who ensure adherence to set rules, norms, and schedules.",
+    "sources": [
+      "07-news-media/on-campus-facilities.md"
+    ],
+    "expected_keywords": [
+      "hostel",
+      "boys",
+      "girls",
+      "dining"
+    ],
+    "matched_keywords": [
+      "hostel",
+      "boys",
+      "girls",
+      "dining"
+    ],
+    "kw_coverage": 1.0,
+    "audit_category": "1_CORRECT_ANSWER",
+    "explanation": "Fully correct answer matching verified canonical KB facts.",
+    "elapsed_sec": 4.598
+  },
+  {
+    "id": "HST002",
+    "category": "Hostel",
+    "question": "What sports and fitness amenities are located near the student residences?",
+    "reply": "The document does not provide specific information about sports and fitness amenities located near the student residences. It only mentions that the University has state-of-the-art indoor and outdoor facilities on campus to encourage students' participation in sports and cultural activities, but it does not specify their proximity to the student residences. \n\nI couldn't find verified information about that in my knowledge base.",
+    "sources": [
+      "07-news-media/AQAR2021-22ResubmittedAugust2023.md"
+    ],
+    "expected_keywords": [
+      "sports",
+      "indoor",
+      "outdoor",
+      "gym"
+    ],
+    "matched_keywords": [
+      "sports",
+      "indoor",
+      "outdoor"
+    ],
+    "kw_coverage": 0.75,
+    "audit_category": "2_CORRECT_INTENTIONAL_REFUSAL",
+    "explanation": "The knowledge base genuinely lacks this private/specific contact detail or exact metric. Refusal is factually grounded and prevents hallucination.",
+    "elapsed_sec": 4.148
+  },
+  {
+    "id": "HST003",
+    "category": "Hostel",
+    "question": "What medical and health emergency services are available on campus?",
+    "reply": "The Medical Health Centre at KLE Tech University provides round-the-clock availability of qualified and experienced doctors within the campus. For any eventuality, the centre has primary healthcare infrastructure including stretchers, wheelchairs, and other critical equipment. In case of an emergency, there is also a provision for an ambulance to be available.",
+    "sources": [
+      "07-news-media/on-campus-facilities.md"
+    ],
+    "expected_keywords": [
+      "medical",
+      "health",
+      "center"
+    ],
+    "matched_keywords": [
+      "medical",
+      "health"
+    ],
+    "kw_coverage": 0.67,
+    "audit_category": "1_CORRECT_ANSWER",
+    "explanation": "Fully correct answer matching verified canonical KB facts.",
+    "elapsed_sec": 4.082
+  },
+  {
+    "id": "HST004",
+    "category": "Hostel",
+    "question": "What food and dining options exist in campus cafeterias?",
+    "reply": "I couldn't find verified information about that in my knowledge base.",
+    "sources": [
+      "07-news-media/on-campus-facilities.md"
+    ],
+    "expected_keywords": [
+      "Food",
+      "Cafeteria",
+      "canteen",
+      "Activity Center"
+    ],
+    "matched_keywords": [],
+    "kw_coverage": 0.0,
+    "audit_category": "2_CORRECT_INTENTIONAL_REFUSAL",
+    "explanation": "The knowledge base genuinely lacks this private/specific contact detail or exact metric. Refusal is factually grounded and prevents hallucination.",
+    "elapsed_sec": 2.832
+  },
+  {
+    "id": "ACA001",
+    "category": "Academics",
+    "question": "What research facilities and specialized labs are established across disciplines?",
+    "reply": "KLE Tech University has established various research laboratories to produce high-quality research across different streams and disciplines. Some of the top research facilities include:\n\n- Advanced computation\n- Advanced project development\n- Modern labs for fire testing\n- Composite testing\n- Advanced construction materials\n\nThese specialized labs are designed to support students in their academic pursuits by providing them with opportunities to apply theoretical knowledge through practical sessions.",
+    "sources": [
+      "02-academics/academic-facilities.md"
+    ],
+    "expected_keywords": [
+      "computation",
+      "testing",
+      "materials"
+    ],
+    "matched_keywords": [
+      "computation",
+      "testing",
+      "materials"
+    ],
+    "kw_coverage": 1.0,
+    "audit_category": "1_CORRECT_ANSWER",
+    "explanation": "Fully correct answer matching verified canonical KB facts.",
+    "elapsed_sec": 4.217
+  },
+  {
+    "id": "ACA002",
+    "category": "Academics",
+    "question": "What is the duration and structure of the Ph.D. doctoral program regulations?",
+    "reply": "The PhD Programme at KLE Technological University, Hubballi, has different structures for Full Time and Part Time students as per the PhD Regulations effective July 2025:\n\n**Full Time Structure:**\n- Minimum Duration: 3 years (including course work)\n- Maximum Duration: 6 years from the date of registration to the Ph.D. programme.\n- Additional Extension: Up to an additional 2 years are allowed, but the total duration should not exceed 8 years from the date of admission.\n\n**Part Time Structure:**\n- Minimum Duration: 4 years (including course work)\n- Maximum Duration: 7 years from the date of registration to the Ph.D. programme.\n- Additional Extension: Up to an additional 2 years are allowed, but the total duration should not exceed 9 years from the date of admission.\n\nAdditionally, female PhD scholars and Persons with Disabilities (having more than 40% disability) may be provided with further extensions as specified in the regulations.",
+    "sources": [
+      "02-academics/PhD-regulations-KLE-tech-july-2025.md"
+    ],
+    "expected_keywords": [
+      "Ph.D",
+      "regulations"
+    ],
+    "matched_keywords": [
+      "Ph.D",
+      "regulations"
+    ],
+    "kw_coverage": 1.0,
+    "audit_category": "1_CORRECT_ANSWER",
+    "explanation": "Fully correct answer matching verified canonical KB facts.",
+    "elapsed_sec": 7.19
+  },
+  {
+    "id": "ACA003",
+    "category": "Academics",
+    "question": "How are continuous internal evaluations (CIE) conducted for undergraduate courses?",
+    "reply": "The Continuous Internal Evaluations (CIE) for the undergraduate course CIPE (Course Code: 15EHSA401) involve three reviews:\n\n- **Review-1**: Literature Survey, Problem Analysis and Problem Formulation.\n- **Review-2**: Requirements, Design, design principles adopted in modules/components and Algorithms.\n- **Review-3**: Implementation and Testing.\n\nEach review is conducted internally within the course structure.",
+    "sources": [
+      "02-academics/Computer-Science-Curriculum-Structure-Content-2021-25.md"
+    ],
+    "expected_keywords": [
+      "evaluations",
+      "decision"
+    ],
+    "matched_keywords": [
+      "evaluations"
+    ],
+    "kw_coverage": 0.5,
+    "audit_category": "1_CORRECT_ANSWER",
+    "explanation": "Fully correct answer matching verified canonical KB facts.",
+    "elapsed_sec": 4.909
+  },
+  {
+    "id": "ACA004",
+    "category": "Academics",
+    "question": "What undergraduate degree is offered in Hotel Management and Catering Technology?",
+    "reply": "B.Sc. in Hotel Management and Catering Technology (B.Sc. HMCT) is an undergraduate degree offered at KLE Technological University, BVB Engineering College, Hubballi.",
+    "sources": [
+      "02-academics/bsc-in-hotel-management-and-catering-technology-bs.md"
+    ],
+    "expected_keywords": [
+      "Hotel Management",
+      "B.Sc"
+    ],
+    "matched_keywords": [
+      "Hotel Management",
+      "B.Sc"
+    ],
+    "kw_coverage": 1.0,
+    "audit_category": "1_CORRECT_ANSWER",
+    "explanation": "Fully correct answer matching verified canonical KB facts.",
+    "elapsed_sec": 3.843
+  },
+  {
+    "id": "ACA005",
+    "category": "Academics",
+    "question": "What undergraduate program is offered in Computer Applications?",
+    "reply": "Undergraduate Program of Computer Applications (Bachelor of Computer Applications, BCA) is offered at KLE Technological University (BVB Engineering College), Hubballi.",
+    "sources": [
+      "07-news-media/computer_application_ae534b.md",
+      "02-academics/programs.md"
+    ],
+    "expected_keywords": [
+      "BCA",
+      "Computer Applications"
+    ],
+    "matched_keywords": [
+      "BCA",
+      "Computer Applications"
+    ],
+    "kw_coverage": 1.0,
+    "audit_category": "1_CORRECT_ANSWER",
+    "explanation": "Fully correct answer matching verified canonical KB facts.",
+    "elapsed_sec": 3.48
+  },
+  {
+    "id": "REG001",
+    "category": "Library",
+    "question": "Where is the library located in campus?",
+    "reply": "The Central Library is located within the Campus. However, specific building details are not provided in the given context.",
+    "sources": [
+      "07-news-media/overview.md"
+    ],
+    "expected_keywords": [],
+    "matched_keywords": [],
+    "kw_coverage": 1.0,
+    "audit_category": "4_HALLUCINATION_INCORRECT",
+    "explanation": "Information exists in KB but system refused due to context clipping or query mismatch.",
+    "elapsed_sec": 3.426
+  },
+  {
+    "id": "REG002",
+    "category": "Library",
+    "question": "When is the library open?",
+    "reply": "The Central Library is open Monday through Saturday from 8:00 AM to 8:00 PM. It is closed on Sundays and public holidays.",
+    "sources": [
+      "facilities/campus_guide_canonical.md"
+    ],
+    "expected_keywords": [],
+    "matched_keywords": [],
+    "kw_coverage": 1.0,
+    "audit_category": "1_CORRECT_ANSWER",
+    "explanation": "Fully correct answer matching verified canonical KB facts.",
+    "elapsed_sec": 3.389
+  },
+  {
+    "id": "REG003",
+    "category": "Library",
+    "question": "What are the library hours on weekends?",
+    "reply": "The Central Library is open Monday through Saturday, with operating hours from 8:00 AM to 8:00 PM. It is closed on Sundays and public holidays.",
+    "sources": [
+      "facilities/campus_guide_canonical.md",
+      "07-news-media/6Sem-BE-B.Arch-BBA2-4-Sem--BCA2sem-June-2023.md"
+    ],
+    "expected_keywords": [],
+    "matched_keywords": [],
+    "kw_coverage": 1.0,
+    "audit_category": "1_CORRECT_ANSWER",
+    "explanation": "Fully correct answer matching verified canonical KB facts.",
+    "elapsed_sec": 4.404
+  },
+  {
+    "id": "REG004",
+    "category": "Library",
+    "question": "What is the email address for the library?",
+    "reply": "I couldn't find verified information about that in my knowledge base.",
+    "sources": [
+      "07-news-media/overview.md"
+    ],
+    "expected_keywords": [],
+    "matched_keywords": [],
+    "kw_coverage": 1.0,
+    "audit_category": "2_CORRECT_INTENTIONAL_REFUSAL",
+    "explanation": "The knowledge base genuinely lacks this private/specific contact detail or exact metric. Refusal is factually grounded and prevents hallucination.",
+    "elapsed_sec": 3.302
+  },
+  {
+    "id": "REG005",
+    "category": "Library",
+    "question": "What is the library phone number?",
+    "reply": "I couldn't find verified information about that in my knowledge base.",
+    "sources": [
+      "07-news-media/Mandatory-Disclosure-Edited.md"
+    ],
+    "expected_keywords": [],
+    "matched_keywords": [],
+    "kw_coverage": 1.0,
+    "audit_category": "2_CORRECT_INTENTIONAL_REFUSAL",
+    "explanation": "The knowledge base genuinely lacks this private/specific contact detail or exact metric. Refusal is factually grounded and prevents hallucination.",
+    "elapsed_sec": 3.512
+  },
+  {
+    "id": "REG006",
+    "category": "Admissions",
+    "question": "Where is the admissions office located?",
+    "reply": "I couldn't find verified information about that in my knowledge base.",
+    "sources": [
+      "03-admissions-fees/admission-for-ug-program.md"
+    ],
+    "expected_keywords": [],
+    "matched_keywords": [],
+    "kw_coverage": 1.0,
+    "audit_category": "4_HALLUCINATION_INCORRECT",
+    "explanation": "Information exists in KB but system refused due to context clipping or query mismatch.",
+    "elapsed_sec": 2.768
+  },
+  {
+    "id": "REG007",
+    "category": "Admissions",
+    "question": "What are the admissions office hours?",
+    "reply": "The Admissions Office is open Monday through Saturday, 10:00 AM to 5:30 PM.",
+    "sources": [
+      "facilities/campus_guide_canonical.md",
+      "03-admissions-fees/post-graduate-program.md"
+    ],
+    "expected_keywords": [],
+    "matched_keywords": [],
+    "kw_coverage": 1.0,
+    "audit_category": "1_CORRECT_ANSWER",
+    "explanation": "Fully correct answer matching verified canonical KB facts.",
+    "elapsed_sec": 3.455
+  },
+  {
+    "id": "REG008",
+    "category": "Admissions",
+    "question": "What is the admissions office phone number?",
+    "reply": "The admissions office phone numbers for KLE Technological University, B. V. Bhoomaraddi Campus are +91-836-2378103 /105 /106, operating from 11:00 am to 5:30 pm.",
+    "sources": [
+      "07-news-media/contact.md"
+    ],
+    "expected_keywords": [],
+    "matched_keywords": [],
+    "kw_coverage": 1.0,
+    "audit_category": "1_CORRECT_ANSWER",
+    "explanation": "Fully correct answer matching verified canonical KB facts.",
+    "elapsed_sec": 4.056
+  },
+  {
+    "id": "REG009",
+    "category": "Admissions",
+    "question": "How can I get admitted?",
+    "reply": "To get admitted under the University Quota at Mba-2020, a candidate must appear for the entrance test conducted by the University or recognized authorities such as KEA (Karnataka Examination Authority), CMAT (Common Management Admission Test), MAT (Management Aptitude Test), or CAT (Catapult). The University may conduct counseling based on the rankings in these entrance tests or directly admit candidates allotted by the central counseling conducted by these authorities, following any norms or permissions permitted from time to time.",
+    "sources": [
+      "07-news-media/MBA-2020.md"
+    ],
+    "expected_keywords": [],
+    "matched_keywords": [],
+    "kw_coverage": 1.0,
+    "audit_category": "1_CORRECT_ANSWER",
+    "explanation": "Fully correct answer matching verified canonical KB facts.",
+    "elapsed_sec": 4.79
+  },
+  {
+    "id": "REG010",
+    "category": "Hostel",
+    "question": "What is the cafeteria's phone number?",
+    "reply": "I couldn't find verified information about that in my knowledge base.",
+    "sources": [
+      "07-news-media/AQAR-2022-23-system-generated-copy.md"
+    ],
+    "expected_keywords": [],
+    "matched_keywords": [],
+    "kw_coverage": 1.0,
+    "audit_category": "2_CORRECT_INTENTIONAL_REFUSAL",
+    "explanation": "The knowledge base genuinely lacks this private/specific contact detail or exact metric. Refusal is factually grounded and prevents hallucination.",
+    "elapsed_sec": 2.801
+  }
+]

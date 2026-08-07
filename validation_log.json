@@ -1,0 +1,463 @@
+{
+  "start_time": 81598.9159388,
+  "end_time": 81675.3294519,
+  "duration_s": 76.4,
+  "fsm_transitions": [
+    {
+      "from_state": "IDLE",
+      "to_state": "READY",
+      "timestamp": 81620.513245,
+      "wall_time": "2026-08-06T09:01:49.654717+00:00"
+    },
+    {
+      "from_state": "READY",
+      "to_state": "LISTENING",
+      "timestamp": 81621.0614973,
+      "wall_time": "2026-08-06T09:01:50.203777+00:00"
+    },
+    {
+      "from_state": "LISTENING",
+      "to_state": "PROCESSING",
+      "timestamp": 81626.5136978,
+      "wall_time": "2026-08-06T09:01:55.655875+00:00"
+    },
+    {
+      "from_state": "PROCESSING",
+      "to_state": "SPEAKING",
+      "timestamp": 81644.3347131,
+      "wall_time": "2026-08-06T09:02:13.476212+00:00"
+    },
+    {
+      "from_state": "SPEAKING",
+      "to_state": "READY",
+      "timestamp": 81649.7248855,
+      "wall_time": "2026-08-06T09:02:18.867049+00:00"
+    },
+    {
+      "from_state": "READY",
+      "to_state": "LISTENING",
+      "timestamp": 81651.3727757,
+      "wall_time": "2026-08-06T09:02:20.514865+00:00"
+    },
+    {
+      "from_state": "LISTENING",
+      "to_state": "READY",
+      "timestamp": 81651.5108866,
+      "wall_time": "2026-08-06T09:02:20.652841+00:00"
+    },
+    {
+      "from_state": "READY",
+      "to_state": "ERROR",
+      "timestamp": 81651.5483847,
+      "wall_time": "2026-08-06T09:02:20.690182+00:00"
+    }
+  ],
+  "fsm_sequence_observed": [
+    "READY",
+    "LISTENING",
+    "PROCESSING",
+    "SPEAKING",
+    "READY",
+    "LISTENING",
+    "READY",
+    "ERROR"
+  ],
+  "event_counts": {
+    "VOICE_STARTED": 12,
+    "FRAME_CAPTURED": 720,
+    "PERSON_DETECTED": 2,
+    "SESSION_STARTED": 1,
+    "VOICE_STOPPED": 11,
+    "TRANSCRIPT_FINAL": 3,
+    "QUERY_STARTED": 4,
+    "ANSWER_READY": 2,
+    "ERROR": 4,
+    "TTS_STARTED": 2,
+    "TTS_INTERRUPTED": 2,
+    "PERSON_LEFT": 1
+  },
+  "event_records": [
+    {
+      "event_type": "VOICE_STARTED",
+      "source": "vad_service",
+      "timestamp": 81615.0096048,
+      "wall_time": "2026-08-06T09:01:44.151526+00:00",
+      "delta_ms": 16093.64
+    },
+    {
+      "event_type": "PERSON_DETECTED",
+      "source": "simulator",
+      "timestamp": 81620.5123746,
+      "wall_time": "2026-08-06T09:01:49.653708+00:00",
+      "delta_ms": 39.83
+    },
+    {
+      "event_type": "SESSION_STARTED",
+      "source": "InteractionManager",
+      "timestamp": 81620.5144116,
+      "wall_time": "2026-08-06T09:01:49.656718+00:00",
+      "delta_ms": 2.04
+    },
+    {
+      "event_type": "VOICE_STOPPED",
+      "source": "vad_service",
+      "timestamp": 81620.5931858,
+      "wall_time": "2026-08-06T09:01:49.734186+00:00",
+      "delta_ms": 53.37
+    },
+    {
+      "event_type": "VOICE_STARTED",
+      "source": "vad_service",
+      "timestamp": 81621.0617179,
+      "wall_time": "2026-08-06T09:01:50.203777+00:00",
+      "delta_ms": 32.04
+    },
+    {
+      "event_type": "VOICE_STARTED",
+      "source": "simulator_vad",
+      "timestamp": 81625.5124583,
+      "wall_time": "2026-08-06T09:01:54.654526+00:00",
+      "delta_ms": 68.47
+    },
+    {
+      "event_type": "VOICE_STOPPED",
+      "source": "simulator_vad",
+      "timestamp": 81626.513251,
+      "wall_time": "2026-08-06T09:01:55.655366+00:00",
+      "delta_ms": 48.28
+    },
+    {
+      "event_type": "TRANSCRIPT_FINAL",
+      "source": "simulator_speech",
+      "timestamp": 81626.5142431,
+      "wall_time": "2026-08-06T09:01:55.655875+00:00",
+      "delta_ms": 0.99
+    },
+    {
+      "event_type": "QUERY_STARTED",
+      "source": "InteractionManager",
+      "timestamp": 81626.5149166,
+      "wall_time": "2026-08-06T09:01:55.656885+00:00",
+      "delta_ms": 0.67
+    },
+    {
+      "event_type": "QUERY_STARTED",
+      "source": "inference_adapter",
+      "timestamp": 81626.5152753,
+      "wall_time": "2026-08-06T09:01:55.656885+00:00",
+      "delta_ms": 0.36
+    },
+    {
+      "event_type": "VOICE_STOPPED",
+      "source": "vad_service",
+      "timestamp": 81626.9299816,
+      "wall_time": "2026-08-06T09:01:56.071974+00:00",
+      "delta_ms": 75.99
+    },
+    {
+      "event_type": "VOICE_STARTED",
+      "source": "vad_service",
+      "timestamp": 81627.6308699,
+      "wall_time": "2026-08-06T09:01:56.772778+00:00",
+      "delta_ms": 59.84
+    },
+    {
+      "event_type": "VOICE_STOPPED",
+      "source": "vad_service",
+      "timestamp": 81630.3054214,
+      "wall_time": "2026-08-06T09:01:59.447528+00:00",
+      "delta_ms": 67.72
+    },
+    {
+      "event_type": "VOICE_STARTED",
+      "source": "vad_service",
+      "timestamp": 81630.7512299,
+      "wall_time": "2026-08-06T09:01:59.892733+00:00",
+      "delta_ms": 11.29
+    },
+    {
+      "event_type": "VOICE_STOPPED",
+      "source": "vad_service",
+      "timestamp": 81633.3092563,
+      "wall_time": "2026-08-06T09:02:02.451057+00:00",
+      "delta_ms": 69.98
+    },
+    {
+      "event_type": "VOICE_STARTED",
+      "source": "vad_service",
+      "timestamp": 81634.7490355,
+      "wall_time": "2026-08-06T09:02:03.891293+00:00",
+      "delta_ms": 32.83
+    },
+    {
+      "event_type": "VOICE_STOPPED",
+      "source": "vad_service",
+      "timestamp": 81638.7037244,
+      "wall_time": "2026-08-06T09:02:07.845631+00:00",
+      "delta_ms": 74.93
+    },
+    {
+      "event_type": "VOICE_STARTED",
+      "source": "vad_service",
+      "timestamp": 81638.7996944,
+      "wall_time": "2026-08-06T09:02:07.941625+00:00",
+      "delta_ms": 28.22
+    },
+    {
+      "event_type": "VOICE_STARTED",
+      "source": "simulator_vad",
+      "timestamp": 81641.5199538,
+      "wall_time": "2026-08-06T09:02:10.662045+00:00",
+      "delta_ms": 13.98
+    },
+    {
+      "event_type": "VOICE_STOPPED",
+      "source": "vad_service",
+      "timestamp": 81642.5231169,
+      "wall_time": "2026-08-06T09:02:11.664569+00:00",
+      "delta_ms": 49.76
+    },
+    {
+      "event_type": "VOICE_STOPPED",
+      "source": "simulator_vad",
+      "timestamp": 81642.5308736,
+      "wall_time": "2026-08-06T09:02:11.672661+00:00",
+      "delta_ms": 7.76
+    },
+    {
+      "event_type": "TRANSCRIPT_FINAL",
+      "source": "simulator_speech",
+      "timestamp": 81642.5319284,
+      "wall_time": "2026-08-06T09:02:11.673672+00:00",
+      "delta_ms": 1.05
+    },
+    {
+      "event_type": "QUERY_STARTED",
+      "source": "InteractionManager",
+      "timestamp": 81642.5323032,
+      "wall_time": "2026-08-06T09:02:11.673672+00:00",
+      "delta_ms": 0.37
+    },
+    {
+      "event_type": "ANSWER_READY",
+      "source": "inference_adapter",
+      "timestamp": 81644.3342905,
+      "wall_time": "2026-08-06T09:02:13.476212+00:00",
+      "delta_ms": 49.93
+    },
+    {
+      "event_type": "QUERY_STARTED",
+      "source": "inference_adapter",
+      "timestamp": 81644.3376384,
+      "wall_time": "2026-08-06T09:02:13.479730+00:00",
+      "delta_ms": 3.35
+    },
+    {
+      "event_type": "ERROR",
+      "source": "tts_service",
+      "timestamp": 81649.6463323,
+      "wall_time": "2026-08-06T09:02:18.788321+00:00",
+      "delta_ms": 45.97
+    },
+    {
+      "event_type": "TTS_STARTED",
+      "source": "tts_service",
+      "timestamp": 81649.6751489,
+      "wall_time": "2026-08-06T09:02:18.816992+00:00",
+      "delta_ms": 28.82
+    },
+    {
+      "event_type": "TTS_INTERRUPTED",
+      "source": "tts_service",
+      "timestamp": 81649.703523,
+      "wall_time": "2026-08-06T09:02:18.845730+00:00",
+      "delta_ms": 28.37
+    },
+    {
+      "event_type": "VOICE_STARTED",
+      "source": "vad_service",
+      "timestamp": 81651.3230806,
+      "wall_time": "2026-08-06T09:02:20.464773+00:00",
+      "delta_ms": 66.93
+    },
+    {
+      "event_type": "TRANSCRIPT_FINAL",
+      "source": "stt_service",
+      "timestamp": 81651.39959,
+      "wall_time": "2026-08-06T09:02:20.541516+00:00",
+      "delta_ms": 12.82
+    },
+    {
+      "event_type": "ERROR",
+      "source": "stt_service",
+      "timestamp": 81651.5476154,
+      "wall_time": "2026-08-06T09:02:20.689172+00:00",
+      "delta_ms": 12.12
+    },
+    {
+      "event_type": "VOICE_STOPPED",
+      "source": "vad_service",
+      "timestamp": 81655.0191129,
+      "wall_time": "2026-08-06T09:02:24.160646+00:00",
+      "delta_ms": 47.47
+    },
+    {
+      "event_type": "PERSON_LEFT",
+      "source": "simulator",
+      "timestamp": 81657.5433101,
+      "wall_time": "2026-08-06T09:02:26.685466+00:00",
+      "delta_ms": 20.08
+    },
+    {
+      "event_type": "VOICE_STARTED",
+      "source": "vad_service",
+      "timestamp": 81658.8366078,
+      "wall_time": "2026-08-06T09:02:27.977956+00:00",
+      "delta_ms": 40.97
+    },
+    {
+      "event_type": "ANSWER_READY",
+      "source": "inference_adapter",
+      "timestamp": 81660.3019849,
+      "wall_time": "2026-08-06T09:02:29.443924+00:00",
+      "delta_ms": 50.14
+    },
+    {
+      "event_type": "ERROR",
+      "source": "inference_adapter",
+      "timestamp": 81660.3030095,
+      "wall_time": "2026-08-06T09:02:29.444923+00:00",
+      "delta_ms": 1.02
+    },
+    {
+      "event_type": "ERROR",
+      "source": "tts_service",
+      "timestamp": 81660.5823823,
+      "wall_time": "2026-08-06T09:02:29.723875+00:00",
+      "delta_ms": 45.55
+    },
+    {
+      "event_type": "TTS_STARTED",
+      "source": "tts_service",
+      "timestamp": 81660.5828713,
+      "wall_time": "2026-08-06T09:02:29.724886+00:00",
+      "delta_ms": 0.49
+    },
+    {
+      "event_type": "TTS_INTERRUPTED",
+      "source": "tts_service",
+      "timestamp": 81660.5844054,
+      "wall_time": "2026-08-06T09:02:29.725895+00:00",
+      "delta_ms": 1.53
+    },
+    {
+      "event_type": "VOICE_STOPPED",
+      "source": "vad_service",
+      "timestamp": 81661.3874183,
+      "wall_time": "2026-08-06T09:02:30.529363+00:00",
+      "delta_ms": 6.14
+    },
+    {
+      "event_type": "VOICE_STARTED",
+      "source": "vad_service",
+      "timestamp": 81670.8345508,
+      "wall_time": "2026-08-06T09:02:39.976062+00:00",
+      "delta_ms": 61.35
+    },
+    {
+      "event_type": "PERSON_DETECTED",
+      "source": "simulator",
+      "timestamp": 81672.5575883,
+      "wall_time": "2026-08-06T09:02:41.699768+00:00",
+      "delta_ms": 27.32
+    },
+    {
+      "event_type": "VOICE_STOPPED",
+      "source": "vad_service",
+      "timestamp": 81673.9874374,
+      "wall_time": "2026-08-06T09:02:43.129405+00:00",
+      "delta_ms": 45.58
+    },
+    {
+      "event_type": "VOICE_STARTED",
+      "source": "vad_service",
+      "timestamp": 81674.1348791,
+      "wall_time": "2026-08-06T09:02:43.276579+00:00",
+      "delta_ms": 58.54
+    }
+  ],
+  "system_samples": [
+    {
+      "timestamp": 81614.4829102,
+      "rss_mb": 0.0,
+      "cpu_pct": 0.0,
+      "thread_count": 14,
+      "frame_event_count": 0,
+      "event_bus_depth": 0
+    },
+    {
+      "timestamp": 81624.4868271,
+      "rss_mb": 0.0,
+      "cpu_pct": 0.0,
+      "thread_count": 19,
+      "frame_event_count": 70,
+      "event_bus_depth": 0
+    },
+    {
+      "timestamp": 81634.4874907,
+      "rss_mb": 0.0,
+      "cpu_pct": 0.0,
+      "thread_count": 20,
+      "frame_event_count": 212,
+      "event_bus_depth": 0
+    },
+    {
+      "timestamp": 81644.5831342,
+      "rss_mb": 0.0,
+      "cpu_pct": 0.0,
+      "thread_count": 20,
+      "frame_event_count": 354,
+      "event_bus_depth": 1
+    },
+    {
+      "timestamp": 81654.5847772,
+      "rss_mb": 0.0,
+      "cpu_pct": 0.0,
+      "thread_count": 20,
+      "frame_event_count": 423,
+      "event_bus_depth": 0
+    },
+    {
+      "timestamp": 81664.5858132,
+      "rss_mb": 0.0,
+      "cpu_pct": 0.0,
+      "thread_count": 19,
+      "frame_event_count": 562,
+      "event_bus_depth": 0
+    },
+    {
+      "timestamp": 81674.5863154,
+      "rss_mb": 0.0,
+      "cpu_pct": 0.0,
+      "thread_count": 19,
+      "frame_event_count": 709,
+      "event_bus_depth": 0
+    }
+  ],
+  "camera_owner_count": 1,
+  "error_events": [
+    "2026-08-06T09:02:18.788321+00:00: TTS synthesis/playback failed: TTS playback failure: # channels not specified",
+    "2026-08-06T09:02:20.689172+00:00: STT transcription failure: [Errno 2] No such file or directory: 'mock.wav'",
+    "2026-08-06T09:02:29.445485+00:00: Transcript is empty or missing payload text.",
+    "2026-08-06T09:02:29.723875+00:00: TTS synthesis/playback failed: TTS playback failure: # channels not specified"
+  ],
+  "reconnect_loops_detected": 0,
+  "camera_disconnect_events": 0,
+  "llm_latencies_ms": [
+    1802.4,
+    8902.4
+  ],
+  "tts_latencies_ms": [],
+  "rag_latencies_ms": [],
+  "total_latencies_ms": []
+}

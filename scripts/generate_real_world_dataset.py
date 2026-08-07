@@ -1,6 +1,5 @@
 import uuid
 import yaml
-import random
 import os
 
 # Seed data for each category. Each entry is a list of possible user turns.

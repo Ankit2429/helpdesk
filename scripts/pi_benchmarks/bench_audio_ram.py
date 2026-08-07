@@ -2,7 +2,6 @@
 
 import sys
 import time
-import wave
 import threading
 from pathlib import Path
 import numpy as np

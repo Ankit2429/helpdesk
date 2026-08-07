@@ -27,7 +27,7 @@ def main():
 
     print("Loading chunks from chunks.jsonl...")
     docs = []
-    with open(chunks_path, "r", encoding="utf-8") as f:
+    with open(chunks_path, encoding="utf-8") as f:
         for line in f:
             if line.strip():
                 item = json.loads(line)

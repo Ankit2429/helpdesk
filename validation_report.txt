@@ -1,0 +1,85 @@
+======================================================================
+  Campus Helpdesk Robot -- Production Readiness Report
+  Generated : 2026-08-06 14:32:48
+  Duration  : 1.3 min (76s)
+======================================================================
+
+STARTUP
+  System ready         : NO
+  Camera started       : NO
+  Camera owner count   : 1 (expected 1)
+
+CAMERA STABILITY
+  Frames captured      : 720
+  Estimated FPS        : 9.4
+  Disconnect events    : 0
+  Reconnect loops      : 0
+
+MICROPHONE / VAD
+  VOICE_STARTED        : 12
+  VOICE_STOPPED        : 11
+
+STT
+  TRANSCRIPT_FINAL     : 3
+  Status               : ACTIVE
+
+RAG + LLM
+  QUERY_STARTED        : 4
+  ANSWER_READY         : 2
+  LLM avg/p95 latency  : 5352.4 ms / 8902.4 ms
+  RAG avg/p95 latency  : 0.0 ms / 0.0 ms
+  Total avg/p95        : 0.0 ms / 0.0 ms
+  Completed turns      : 0
+
+TTS
+  TTS_COMPLETED        : 0
+  TTS avg/p95 latency  : 0.0 ms / 0.0 ms
+  Status               : BLOCKED (SAC)
+
+INTERACTION FSM
+  PERSON_DETECTED      : 2
+  PERSON_LEFT          : 1
+  SESSION_ENDED        : 0
+  FSM transitions      : 8
+  Full cycle verified  : NO (insufficient interactions)
+  States observed      : READY -> LISTENING -> PROCESSING -> SPEAKING -> READY -> LISTENING -> READY -> ERROR
+
+SYSTEM RESOURCES
+  Memory RSS avg/max   : 0 MB / 0 MB
+  CPU avg/max          : 0% / 0%
+  Thread count avg/max : 19 / 20
+
+EVENTBUS TOTALS
+  Total events         : 764
+  ERROR events         : 4
+  Top event types:
+    FRAME_CAPTURED                              720
+    VOICE_STARTED                                12
+    VOICE_STOPPED                                11
+    QUERY_STARTED                                 4
+    ERROR                                         4
+    TRANSCRIPT_FINAL                              3
+    PERSON_DETECTED                               2
+    ANSWER_READY                                  2
+    TTS_STARTED                                   2
+    TTS_INTERRUPTED                               2
+    SESSION_STARTED                               1
+    PERSON_LEFT                                   1
+
+ERROR EVENTS
+  2026-08-06T09:02:18.788321+00:00: TTS synthesis/playback failed: TTS playback failure: # channels not specified
+  2026-08-06T09:02:20.689172+00:00: STT transcription failure: [Errno 2] No such file or directory: 'mock.wav'
+  2026-08-06T09:02:29.445485+00:00: Transcript is empty or missing payload text.
+  2026-08-06T09:02:29.723875+00:00: TTS synthesis/playback failed: TTS playback failure: # channels not specified
+
+PRODUCTION BLOCKERS
+  [BLOCKER] TTS: No speech events (SAC likely blocking Piper/espeakbridge DLL)
+  [BLOCKER] Events never seen: SYSTEM_STARTING, SYSTEM_READY, CAMERA_STARTED, TTS_COMPLETED, SESSION_ENDED
+
+WARNINGS
+  [WARN] 4 ERROR event(s) on EventBus
+
+OVERALL VERDICT
+  NOT READY -- 2 blocker(s) must be resolved before deployment.
+
+======================================================================

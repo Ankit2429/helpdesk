@@ -97,9 +97,12 @@ if [ -f "$SERVICE_SRC" ]; then
     sed -i "s|ExecStart=.*|ExecStart=$APP_DIR/.venv/bin/python -m campus_helpdesk.robot_main|g" "$SERVICE_TMP"
     sed -i "s|EnvironmentFile=-.*|EnvironmentFile=-$APP_DIR/.env|g" "$SERVICE_TMP"
     sed -i "s|User=.*|User=$REAL_USER|g" "$SERVICE_TMP"
+    # Patch PYTHONPATH and HOME to correct actual app directory
+    sed -i "s|Environment=PYTHONPATH=.*|Environment=PYTHONPATH=$APP_DIR/src|g" "$SERVICE_TMP"
+    sed -i "s|Environment=HOME=.*|Environment=HOME=/home/$REAL_USER|g" "$SERVICE_TMP"
 
     echo "Patched service unit file:"
-    grep -E "(User|WorkingDirectory|ExecStart)" "$SERVICE_TMP"
+    grep -E "(User|WorkingDirectory|ExecStart|PYTHONPATH)" "$SERVICE_TMP"
 
     sudo cp "$SERVICE_TMP" /etc/systemd/system/campus-helpdesk-robot.service
     rm -f "$SERVICE_TMP"
@@ -110,9 +113,34 @@ else
     echo "WARNING: $SERVICE_SRC not found in $APP_DIR."
 fi
 
-# 7. Final Instructions
+# 7. Pre-download ML Models for Offline Use
+echo -e "\n[7/7] Pre-caching HuggingFace ML Models for Offline Operation..."
+source "$APP_DIR/.venv/bin/activate"
+python -c "
+from sentence_transformers import SentenceTransformer
+print('Downloading sentence-transformers/all-MiniLM-L6-v2...')
+SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2', local_files_only=False)
+print('Embedding model cached.')
+" || echo "WARNING: Embedding model download failed. Ensure internet is available or pre-cache manually."
+
+python -c "
+from sentence_transformers import CrossEncoder
+print('Downloading cross-encoder/ms-marco-MiniLM-L-6-v2...')
+CrossEncoder('cross-encoder/ms-marco-MiniLM-L-6-v2', local_files_only=False)
+print('Reranker model cached.')
+" || echo "WARNING: Reranker model download failed. Ensure internet is available or pre-cache manually."
+
+# Final Instructions
 echo -e "\n======================================================================="
 echo "   DEPLOYMENT SETUP COMPLETE! READY FOR PHYSICAL HARDWARE EXECUTION"
 echo "======================================================================="
-echo "Start service via : sudo systemctl start campus-helpdesk-robot"
-echo "View live logs via: journalctl -u campus-helpdesk-robot -f"
+echo ""
+echo "QUICK VERIFICATION:"
+echo "  1. Test Ollama:     ollama run qwen2.5:3b 'Who is the Chancellor of KLE Tech?'"
+echo "  2. Test RAG import: $APP_DIR/.venv/bin/python -c 'from campus_helpdesk.main import app; print(\"Import OK\")'"
+echo "  3. Run test suite:  cd $APP_DIR && $APP_DIR/.venv/bin/python -m pytest tests/ -q"
+echo "  4. Start service:   sudo systemctl start campus-helpdesk-robot"
+echo "  5. View live logs:  journalctl -u campus-helpdesk-robot -f"
+echo ""
+echo "Robot Runtime (foreground): python -m campus_helpdesk.robot_main --mock"
+echo "Web API Server:             uvicorn campus_helpdesk.main:app --app-dir $APP_DIR/src --host 0.0.0.0 --port 8000"

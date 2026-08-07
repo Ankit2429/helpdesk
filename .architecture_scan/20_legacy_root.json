@@ -1,0 +1,519 @@
+{
+  "folder": "repo root",
+  "title": "Legacy root-level code & old stacks",
+  "purpose": "The repo root holds the first-generation 'AUNTII' offline helpdesk robot stack: a presence-triggered voice loop (assistant_loop.py) built on standalone STT/TTS/TTT services, a root-level config module, and an older in-memory conversation/session package. It also holds the developer-facing surface that exercises the modern src stack: a CLI chat (chat.py), a CustomTkinter desktop GUI (helpdesk_gui.py), a camera profiler (profile_camera.py), and end-to-end diagnostics plus validation/audit harnesses (diag_*.py, validate_production.py, audit_production.py). Most of these are legacy or dead code superseded by src/campus_helpdesk/, but the diagnostics and validation harnesses actively boot src components (create_rag_pipeline, RAGChatService, build_production_runtime, EventBus/FSM) to verify them. The benchmark.py file named in scope does not exist at the repo root.",
+  "files": [
+    {
+      "path": "assistant_loop.py",
+      "purpose": "Legacy CLI robot loop that turns a camera face detection into a full voice conversation: greet on arrival, record until silence, then STT -> TTT -> TTS.",
+      "key_symbols": [
+        "AssistantLoop (class; __init__, _on_person_arrived, _on_person_left, _run_session, _warmup_ollama, start)",
+        "record_until_silence",
+        "speak",
+        "generate_reply",
+        "_display_text",
+        "_DEVANAGARI_RANGE",
+        "_KANNADA_RANGE",
+        "_LANG_LABELS",
+        "LISTEN_WINDOW_SECONDS",
+        "SILENCE_CUTOFF_SECONDS",
+        "SILENCE_RMS_THRESHOLD",
+        "CHUNK_SECONDS"
+      ],
+      "terms": [
+        {"term": "STT", "definition": "Speech-to-text: converting recorded microphone audio into text via the root-level stt_service.py (faster-whisper)."},
+        {"term": "TTS", "definition": "Text-to-speech: converting reply text into audio played through the speaker via tts_service.py."},
+        {"term": "TTT", "definition": "Text-to-text: the reply-generation step (in this legacy stack, routing English to RAG and hi/kn to canned FAQ answers)."},
+        {"term": "RMS", "definition": "Root-mean-square amplitude of an audio chunk, compared against a threshold to detect speech vs. silence for early stop of recording."},
+        {"term": "presence detection", "definition": "Camera-based face detection (OpenCV Haar cascade here) that fires arrival/departure callbacks to start/stop the assistant session."},
+        {"term": "wrong-script transcription", "definition": "When Whisper detects a language correctly but emits it in the wrong unicode script (e.g. Kannada speech written as Devanagari); this file replaces the garbled text with a placeholder label while passing raw text to TTT."}
+      ],
+      "config": [
+        "LISTEN_WINDOW_SECONDS (env)",
+        "SILENCE_CUTOFF_SECONDS (env)",
+        "SILENCE_RMS_THRESHOLD (env)",
+        "settings.ollama_base_url / ollama_timeout_seconds / ollama_model (read via get_settings in warmup fallback)"
+      ],
+      "notes": "Marked LEGACY in its own header; production Pi runtime is 'python -m campus_helpdesk.robot_main'. Imports root-level services directly (presence_service, stt_service, tts_service, ttt_service). Runs one daemon thread per session guarded by a busy lock. _warmup_ollama reaches into ttt.rag_service private attrs via a getattr fallback chain, then falls back to raw ollama.Client. Silences warnings and several loggers globally."
+    },
+    {
+      "path": "benchmark.py",
+      "purpose": "Listed in scope but does not exist at the repo root (no such file present).",
+      "key_symbols": [],
+      "terms": [],
+      "config": [],
+      "notes": "File not found; benchmark artifacts referenced elsewhere (benchmark_eval_15_results.json) are read by audit_production.py, but no root-level benchmark.py source exists. The task scope listed it, so it is documented here as absent."
+    },
+    {
+      "path": "chat.py",
+      "purpose": "Interactive command-line chat entry point that reuses production campus_helpdesk components (OllamaLLMService, create_rag_pipeline, SessionManager, RAGChatService) with slash commands.",
+      "key_symbols": [
+        "main",
+        "_configure_logging",
+        "_create_services",
+        "_ensure_chat_service",
+        "_health_check",
+        "_print_help",
+        "_toggle_debug",
+        "_show_stats",
+        "_clear_history",
+        "_show_history",
+        "_reload_services",
+        "_process_command",
+        "_chat_service (module-level singleton)",
+        "_DEBUG",
+        "_SETTINGS"
+      ],
+      "terms": [
+        {"term": "CLI session", "definition": "A conversation state container keyed by a session id; here a single hardcoded 'cli' session id is used for the whole interactive session."},
+        {"term": "RAG pipeline", "definition": "The retrieval-augmented generation chain (FAISS/BM25 hybrid retrieval + LLM) built by create_rag_pipeline for answering questions from the knowledge base."}
+      ],
+      "config": [
+        "settings.debug",
+        "settings.log_level",
+        "settings.ollama_temperature / ollama_top_p / ollama_top_k / ollama_repeat_penalty / ollama_context_window / ollama_max_output_tokens / ollama_num_threads / ollama_base_url / ollama_model / ollama_timeout_seconds",
+        "settings.rag_search_limit",
+        "settings.embedding_model",
+        "settings.reranker_enabled",
+        "hardcoded SessionManager(ttl_seconds=7200, max_history_turns=s.rag_search_limit)"
+      ],
+      "notes": "Modern CLI wrapper, not legacy logic. Uses hardcoded session id 'cli'. /health calls the private service._rag_pipeline.load_index(). Reuses rag_search_limit as max_history_turns (likely a semantic mismatch). /reload drops the lazy singleton so services are rebuilt. Prints confidence/sources when debug is on."
+    },
+    {
+      "path": "config.py",
+      "purpose": "Root-level module-level configuration for the legacy 'AUNTII Offline Helpdesk Robot': loads .env and exposes Ollama constants plus the default system persona string.",
+      "key_symbols": [
+        "BASE_DIR",
+        "OLLAMA_HOST",
+        "OLLAMA_MODEL",
+        "OLLAMA_TEMPERATURE",
+        "OLLAMA_MAX_TOKENS",
+        "OLLAMA_TIMEOUT",
+        "SYSTEM_PERSONA"
+      ],
+      "terms": [
+        {"term": "persona", "definition": "A fixed system-prompt identity string ('AUNTII, an offline AI campus helpdesk assistant for KLE Technological University (BVB), Hubballi') given to the LLM."}
+      ],
+      "config": [
+        "OLLAMA_BASE_URL (env)",
+        "OLLAMA_HOST (env)",
+        "OLLAMA_MODEL (env, default qwen2.5:3b)",
+        "OLLAMA_TEMPERATURE (env)",
+        "OLLAMA_MAX_OUTPUT_TOKENS / OLLAMA_MAX_TOKENS (env)",
+        "OLLAMA_TIMEOUT_SECONDS (env)",
+        ".env file via python-dotenv"
+      ],
+      "notes": "Legacy; superseded by src/campus_helpdesk/config/settings.py (Pydantic Settings). Silently no-ops if python-dotenv is missing. Only the persona and a handful of constants live here."
+    },
+    {
+      "path": "presence_service.py",
+      "purpose": "Camera-based presence detection using OpenCV's built-in Haar cascade face detector on a background thread, firing on_person_arrived / on_person_left callbacks.",
+      "key_symbols": [
+        "PresenceService (class; _face_visible, _watch_loop, start, stop, is_present property)",
+        "CAMERA_INDEX",
+        "CHECK_INTERVAL",
+        "ABSENCE_TIMEOUT",
+        "DETECT_SCALE"
+      ],
+      "terms": [
+        {"term": "presence detection", "definition": "Watching a camera for a face every CHECK_INTERVAL seconds and firing arrival once per appearance, then absence after ABSENCE_TIMEOUT seconds with no face."},
+        {"term": "Haar cascade", "definition": "OpenCV's built-in XML face classifier (haarcascade_frontalface_default.xml), used here because it needs no model download and runs cheaply on a Pi CPU."},
+        {"term": "dummy mode", "definition": "Fallback state when the cascade file or VideoCapture is unavailable; the watcher idles without detection instead of crashing."}
+      ],
+      "config": [
+        "CAMERA_INDEX (env)",
+        "PRESENCE_CHECK_INTERVAL (env)",
+        "PRESENCE_ABSENCE_TIMEOUT (env)",
+        "hardcoded DETECT_SCALE=0.5, minSize=(30,30), scaleFactor=1.2, minNeighbors=5"
+      ],
+      "notes": "Legacy; the src robot stack replaces this with camera_service.py + vision_service.py (which has MockPersonDetector / confirmation-window logic). Uses CAP_V4L2 on Linux, CAP_DSHOW on Windows. Polls every CHECK_INTERVAL (1s) rather than per-frame. Standalone __main__ manual test included."
+    },
+    {
+      "path": "stt_service.py",
+      "purpose": "Offline speech-to-text via faster-whisper (Whisper 'small', CPU, int8) with language detection constrained to a candidate list {en, hi, kn}.",
+      "key_symbols": [
+        "STTService (singleton; __new__, __init__, _detect_candidate_language, transcribe_audio, transcribe_file, record_and_transcribe)",
+        "WHISPER_MODEL_SIZE",
+        "WHISPER_LANGUAGE",
+        "WHISPER_COMPUTE_TYPE",
+        "SAMPLE_RATE (16000)",
+        "CANDIDATE_LANGUAGES"
+      ],
+      "terms": [
+        {"term": "candidate-list language detection", "definition": "Running Whisper's detect_language(), then picking the highest-probability language from a small supported set {en,hi,kn} instead of trusting free-form detection (which hallucinates languages like 'nn' or 'ta')."},
+        {"term": "quantization", "definition": "int8 compute type for the Whisper model, trading negligible accuracy for ~4x faster CPU inference and much lower RAM on a Pi."},
+        {"term": "VAD filter", "definition": "Whisper's built-in voice-activity-detection option that skips non-speech segments during transcription (optional, off in the live mic path here)."},
+        {"term": "beam_size", "definition": "Whisper decoding beam width (5), the number of candidate hypotheses considered when decoding."}
+      ],
+      "config": [
+        "WHISPER_MODEL_SIZE (env)",
+        "WHISPER_LANGUAGE (env; non-empty forces one language)",
+        "WHISPER_COMPUTE_TYPE (env)",
+        "SAMPLE_RATE constant 16000"
+      ],
+      "notes": "Legacy; superseded by src/services/stt_service.py (robot stack) which uses a MockTranscriptionBackend. Singleton via __new__ so the model loads once. Contains an environment workaround: if faster_whisper import fails with DLL load / AppLocker / policy errors, it injects a fake 'av' module into sys.modules and retries. Known limitation: Kannada utterances are occasionally written in Devanagari script (safety net lives in ttt_service.py)."
+    },
+    {
+      "path": "tts_service.py",
+      "purpose": "Offline text-to-speech with two tiers: instant playback of pre-rendered WAVs from tts_cache/ and live CPU synthesis via Piper (EN) and Meta MMS-TTS VITS (HI/KN), with a sine-tone fallback.",
+      "key_symbols": [
+        "TTSService (singleton; _init_mms, _synthesize_piper, _synthesize_mms, _load_cached_wav, synthesize, play)",
+        "get_cache_filename",
+        "contains_script",
+        "SAMPLE_RATE (24000)",
+        "CACHE_DIR (tts_cache)"
+      ],
+      "terms": [
+        {"term": "pre-rendered cache", "definition": "Deterministic WAV cache: a filename built from language + slugified text + first 8 hex chars of an md5 of the text, so repeated phrases play back instantly without synthesis."},
+        {"term": "Piper", "definition": "A fast CPU neural TTS engine intended for English in this tier, but the implementation here is effectively a stub."},
+        {"term": "MMS-TTS", "definition": "Meta's multilingual VITS text-to-speech (facebook/mms-tts-hin, facebook/mms-tts-kan) used for Hindi and Kannada synthesis."},
+        {"term": "script detection", "definition": "contains_script() checks whether text actually contains Devanagari (hi) or Kannada (kn) unicode ranges; a mismatch routes to English Piper."}
+      ],
+      "config": [],
+      "notes": "Legacy; superseded by src/services/tts_service.py (robot stack). _synthesize_piper is a stub: it imports pyttsx3 but then just synthesizes a 523.25 Hz sine tone, and the final fallback is a 440 Hz tone, so 'Piper' produces no real speech. MMS models attempt local_files_only=True first, then fall back to downloading. CACHE_DIR is hardcoded to 'tts_cache' with no env override."
+    },
+    {
+      "path": "ttt_service.py",
+      "purpose": "Text-to-text reply generation: English queries route to the production RAG pipeline (FAISS + Ollama) with fast intent pre-checks, while Hindi/Kannada use a strict canned FAQ matcher (entity + attribute regex) with an honest English fallback phrase.",
+      "key_symbols": [
+        "TTTService (class; __init__, _init_rag, _handle_indic_canned, get_reply)",
+        "CANNED_FAQ",
+        "round_time_to_5_min",
+        "is_current_time_query"
+      ],
+      "terms": [
+        {"term": "TTT", "definition": "Text-to-text: the reply-generation step that takes recognized user text and produces the assistant's answer."},
+        {"term": "canned-only mode", "definition": "For hi/kn, answers come only from a small set of human-verified FAQ strings, guaranteeing zero hallucination at the cost of coverage."},
+        {"term": "entity + attribute matching", "definition": "Regex checks that require both a subject entity (e.g. library/admissions) and the specific attribute asked about (location/hours/email/phone/apply); missing either routes to the English fallback phrase."},
+        {"term": "fallback phrase", "definition": "An honest reply asking the user to ask in English for detailed information, returned when an Indic query has no canned match."}
+      ],
+      "config": [
+        "settings.ollama_model (via get_settings in _init_rag)"
+      ],
+      "notes": "Legacy; superseded by the src application/services stack. get_reply calls rag_service.respond(user_text) without a session_id, using the default session. If RAG init fails, English falls back to greeting/time detection then a static helpdesk summary. Time queries answered with round_time_to_5_min (rounded to nearest 5 minutes). Docstring mentions qwen2.5:1.5b while the config default model is qwen2.5:3b."
+    },
+    {
+      "path": "analyze_data.py",
+      "purpose": "One-off script that walks the archived scraped markdown knowledge base and prints quality metrics: exact and near-duplicates, empty/tiny/oversized files, missing metadata/titles, PDF artifacts, nav noise, broken markdown.",
+      "key_symbols": [
+        "get_hash",
+        "get_normalized_hash",
+        "module-level counters (total_files, content_hashes, near_dup_hashes, etc.)",
+        "top-level os.walk loop"
+      ],
+      "terms": [
+        {"term": "near-duplicate", "definition": "Documents differing only in whitespace/punctuation, detected by hashing the alphanumeric-only lowercase text and grouping by that normalized hash."},
+        {"term": "canonical documents", "definition": "The count of unique documents after deduplication (len of the normalized-hash grouping), the target for a clean knowledge base."},
+        {"term": "PDF artifacts", "definition": "OCR/scanner remnants such as 'Page X of Y', 'Scanned by', 'CamScanner', or excessive blank lines that indicate poor source conversion."},
+        {"term": "metadata front-matter", "definition": "The '---' YAML header expected at the start of each markdown file; files without it are counted as missing metadata."},
+        {"term": "nav noise", "definition": "Repeated website navigation/menu boilerplate ('Home | About | Contact', 'Skip to content') left in scraped pages."}
+      ],
+      "config": [
+        "hardcoded path archive/bvbcet_scraper/knowledge_base/markdown/"
+      ],
+      "notes": "One-off audit script against the legacy archive knowledge base; prints results only, writes nothing. Uses md5 hashes for duplicate detection. Superseded by the canonical src ingest (markdown_chunker) which has its own dedup."
+    },
+    {
+      "path": "analyze_data_v2.py",
+      "purpose": "Second version of the markdown knowledge-base duplicate analysis, using a more aggressive semantic signature hash (strips URLs, headers, source boilerplate) and reporting potential size savings from deduplication.",
+      "key_symbols": [
+        "get_signature",
+        "top-level os.walk loop",
+        "module-level hashing and size-accounting"
+      ],
+      "terms": [
+        {"term": "semantic signature", "definition": "An md5 of the text after stripping URLs, markdown headers, and 'Source URL'/'Source' boilerplate, so near-duplicate content with different headers still groups together."},
+        {"term": "size savings", "definition": "Estimated bytes recovered by keeping only the first file of each duplicate group (summed sizes of the remainder)."}
+      ],
+      "config": [
+        "hardcoded path archive/bvbcet_scraper/knowledge_base/markdown/"
+      ],
+      "notes": "One-off audit script, prints only. Tracks tiny (<1KB) and oversized (>100KB) files in lists instead of counts. Specifically counts duplicate groups involving 'programs_' files. Dead/legacy; not part of the modern ingest path."
+    },
+    {
+      "path": "helpdesk_gui.py",
+      "purpose": "Developer desktop GUI (CustomTkinter) that boots the production robot SystemRuntime in-process, provides push-to-talk mic and text chat, a live FSM status badge, and an empirical per-turn latency breakdown panel.",
+      "key_symbols": [
+        "HelpdeskApp (ctk.CTk subclass; _build_ui, _toggle_mic, _start_init, _init_worker, _register_bus_listeners, _register_fsm_hook, _poll, _on_send, _text_respond, _init_text_fallback, _on_close)",
+        "_ChatPanel",
+        "_DeveloperPanel",
+        "_K (event-kind constants)",
+        "_STATE_UI",
+        "_STATE_HINTS",
+        "C (palette dict)",
+        "main"
+      ],
+      "terms": [
+        {"term": "push-to-talk (PTT)", "definition": "A held button that gates mic recording; here the GUI toggles recording and publishes VOICE_STARTED / VOICE_STOPPED events on the bus."},
+        {"term": "event bus", "definition": "The decoupled publish/subscribe EventBus from the interaction stack; the GUI subscribes to VOICE/TRANSCRIPT/QUERY/ANSWER/TTS/ERROR events to update the UI."},
+        {"term": "FSM", "definition": "The robot state machine (BOOTING, INITIALIZING, IDLE, READY, LISTENING, PROCESSING, SPEAKING, ERROR, SHUTDOWN) whose transitions drive the status badge and hints."},
+        {"term": "latency breakdown", "definition": "Per-turn timestamps measured between bus events (stt_ms, rag_ms, llm_ms, tts_ms, total_ms) shown in the developer panel, color-coded by budget."},
+        {"term": "single-render guarantee", "definition": "Deduplicating user transcripts and assistant answers against the last-rendered text so each message appears in the chat exactly once despite duplicate bus events."}
+      ],
+      "config": [
+        "get_settings() in the text-only fallback path (faiss_index_path, rag_distance_threshold)",
+        "hardcoded fallback PromptContextBuilder(max_context_size=7000, similarity_threshold=s.rag_distance_threshold)"
+      ],
+      "notes": "Modern developer GUI, not the legacy robot UI (that lives in src/presentation/). Boots build_production_runtime(use_mock=False). Push-to-talk publishes synthetic VOICE events but does not itself capture audio, so transcription depends on the runtime's VAD/STT. On runtime init failure it manually wires a text-only RAGChatService fallback (touches private attrs like service._rag_pipeline). The 'Active Pipeline Components' card hardcodes qwen2.5:3b, ms-marco-MiniLM-L6, and Piper en_US-lessac."
+    },
+    {
+      "path": "helpdesk_gui_new.py",
+      "purpose": "Stub placeholder file whose entire content is the single line '# test'; it contains no GUI implementation.",
+      "key_symbols": [],
+      "terms": [],
+      "config": [],
+      "notes": "Empty stub, not importable as an application, apparently an abandoned attempt at a 'new' GUI; the real developer GUI is helpdesk_gui.py."
+    },
+    {
+      "path": "profile_camera.py",
+      "purpose": "Performance audit and profiling script for the OpenCV camera pipeline (CameraManager + PersonDetector from src vision infra) measuring startup, frame acquisition, async detection and render latency, FPS, CPU/memory, and single-VideoCapture ownership.",
+      "key_symbols": [
+        "audit_performance",
+        "CameraManager (used via get_instance)",
+        "PersonDetector",
+        "psutil.Process sampling"
+      ],
+      "terms": [
+        {"term": "frame acquisition latency", "definition": "Time to grab a frame from the camera (diagnostics dict 'acquisition_ms'), targeted under 50 ms here."},
+        {"term": "singleton", "definition": "CameraManager.get_instance() returning the same object, verifying that exactly one VideoCapture device is ever opened."}
+      ],
+      "config": [
+        "hardcoded camera index 0, resolution (1280,720), target_fps=30, 100 sampled frames"
+      ],
+      "notes": "Dev-only diagnostics; imports production src modules (campus_helpdesk.infrastructure.vision.camera_manager / person_detector) via sys.path (assumes running from repo root with src importable). psutil is optional. Prints a PASS/WARN table against targets (startup<1000ms, acq<50ms, >=30 FPS, CPU<20%)."
+    },
+    {
+      "path": "diag_e2e.py",
+      "purpose": "End-to-end diagnostic that traces, for a fixed set of queries: normalize -> intent routing -> full RAGChatService.respond(), with debug confidence logging forced on.",
+      "key_symbols": [
+        "SEP",
+        "TEST_QUERIES",
+        "opts (generation options dict)",
+        "normalize_query",
+        "IntentRouter / IntentType",
+        "RAGChatService.respond"
+      ],
+      "terms": [
+        {"term": "query normalization", "definition": "Cleaning/normalizing raw user text (from services.query_normalizer) before routing and retrieval."},
+        {"term": "intent routing", "definition": "Classifying the normalized query into an IntentType; non-campus intents bypass the RAG pipeline (IntentRouter.route returns bypass_rag flag)."}
+      ],
+      "config": [
+        "settings.ollama_temperature / ollama_top_p / ollama_top_k / ollama_repeat_penalty / ollama_context_window / ollama_max_output_tokens",
+        "settings.ollama_base_url / ollama_model / ollama_timeout_seconds",
+        "settings.rag_search_limit",
+        "DEBUG_CONFIDENCE env (set in-process to force debug output)"
+      ],
+      "notes": "Debug tool, prints only. Monkeypatches settings: clears get_settings cache and sets DEBUG_CONFIDENCE env var. Imports 'services.query_normalizer' and 'services.intent_router', which are root-level module paths that may not exist in the current layout (fragile). Hardcodes SessionManager(ttl_seconds=7200, max_history_turns=s.rag_search_limit)."
+    },
+    {
+      "path": "diag_ollama.py",
+      "purpose": "Step-by-step diagnostic of the entire Ollama call chain: settings resolution, raw HTTP GET /api/tags, Ollama SDK list() and chat(), then both the legacy services/llm_service.py LLMService.generate and the infra OllamaLLMService.generate.",
+      "key_symbols": [
+        "SEP",
+        "fallback constants (base_url=http://127.0.0.1:11434, model=qwen2.5:3b, timeout=180.0)"
+      ],
+      "terms": [],
+      "config": [
+        "settings.ollama_base_url",
+        "settings.ollama_model",
+        "settings.offline_llm_model",
+        "settings.ollama_timeout_seconds"
+      ],
+      "notes": "Debug tool, prints results for 6 stages. Each stage is wrapped in try/except with tracebacks so one failure does not stop the run. Uses keep_alive='10m' and stream=False for the direct chat test. Falls back to defaults if settings resolution fails."
+    },
+    {
+      "path": "diag_rag.py",
+      "purpose": "End-to-end RAG retrieval audit: loads the FAISS index, rebuilds BM25 from its docstore, runs hybrid (RRF/weighted) retrieval, cross-encoder reranking, and ConfidenceEngine evaluation against a fixed set of test queries.",
+      "key_symbols": [
+        "SEP / SEP2",
+        "TEST_QUERIES",
+        "SentenceTransformerEmbeddings",
+        "FAISSSimilarityStore",
+        "BM25SearchStore",
+        "HybridRetriever",
+        "CrossEncoderReranker",
+        "ConfidenceEngine",
+        "KnowledgeDocument"
+      ],
+      "terms": [
+        {"term": "FAISS similarity store", "definition": "The dense vector index (faiss) whose L2 distances scale 0-2 and are used for dense retrieval."},
+        {"term": "BM25", "definition": "A sparse lexical ranking function over the same documents, used for keyword-based retrieval."},
+        {"term": "hybrid retrieval", "definition": "Combining BM25 and FAISS results, here with fusion_mode 'weighted_hybrid' and weights 0.5/0.5 over bm25_top_k=25 and dense_top_k=25."},
+        {"term": "cross-encoder reranker", "definition": "A sentence-transformers cross-encoder that re-scores the top-N retrieved documents; its score is stored as a negative distance so higher is better."},
+        {"term": "confidence engine", "definition": "Evaluates retrieval quality (top reranker score, top distance) into a confidence score/level and an accept/reject decision (accepted when score>=0.35 or top_reranker>=0.1 or top_distance<=1.2)."}
+      ],
+      "config": [
+        "settings.embedding_model / embedding_device / embedding_batch_size / embedding_normalize / embedding_local_files_only",
+        "settings.faiss_index_path",
+        "settings.reranker_model / reranker_enabled",
+        "hardcoded bm25_top_k=25, dense_top_k=25, final_top_k=25, rrf_k=60, weight_dense=0.5, weight_sparse=0.5, fusion_mode='weighted_hybrid', top_n=25, top_m=5"
+      ],
+      "notes": "Debug/audit tool, prints only. Touches private internals: faiss_store._store.docstore._dict, faiss_store._store.index.ntotal, reranker._model_loaded, and manually sets hybrid._bm25_indexed = True to bypass the normal indexing flag. Documents that CE score is stored as -distance."
+    },
+    {
+      "path": "validate_production.py",
+      "purpose": "Production validation harness that boots the exact SystemRuntime used by helpdesk_gui.py, attaches read-only EventBus and FSM observers, runs a soak test with an optional automated interaction simulator, and writes validation_log.json + validation_report.txt.",
+      "key_symbols": [
+        "ProductionValidator (class; run, _boot_runtime, _check_ownership, _attach_bus_observer, _attach_fsm_hook, _start_sampler, _start_simulator, _run_soak, _finalize)",
+        "StateTransition (dataclass)",
+        "EventRecord (dataclass)",
+        "SystemSample (dataclass)",
+        "ValidationResult (dataclass)",
+        "generate_report",
+        "_avg",
+        "_p95",
+        "EXPECTED_EVENTS",
+        "main"
+      ],
+      "terms": [
+        {"term": "soak test", "definition": "Running the full runtime for an extended period (default 1800s) while sampling FSM transitions, events, memory, CPU, thread count, and latency."},
+        {"term": "FSM transition hook", "definition": "A callback registered with the state machine (register_on_transition) that records every state change and its timestamp."},
+        {"term": "reconnect loop", "definition": "Three or more camera disconnect events within 2 seconds, flagged as an instability blocker."},
+        {"term": "SAC", "definition": "Windows Smart App Control, which blocks native DLLs such as faster-whisper and Piper; the report labels missing STT/TTS as 'BLOCKED (SAC)' environmental blockers rather than code bugs."},
+        {"term": "p95", "definition": "The 95th-percentile latency used alongside averages when reporting LLM/RAG/TTS/total turn latencies."}
+      ],
+      "config": [
+        "argparse --soak (default 1800 seconds)",
+        "argparse --simulate (enables the automated interaction simulator thread)",
+        "output files validation_log.json and validation_report.txt (repo root)"
+      ],
+      "notes": "Explicitly a pure observer; does not modify production code. Writes artifacts to the repo root. Boots build_production_runtime(use_mock=False). The simulator publishes synthetic events (PERSON_DETECTED, VOICE_STARTED/STOPPED, TRANSCRIPT_FINAL, PERSON_LEFT) including a mock audio path 'mock.wav', and sleeps ~15s per simulated question. Default soak of 1800s is long; use --simulate for automated runs."
+    },
+    {
+      "path": "audit_production.py",
+      "purpose": "14-phase comprehensive production audit harness (startup, camera, presence, FSM, VAD, STT, RAG, LLM, TTS, conversation flow, GUI, performance, stability soak, Raspberry Pi readiness) that emits PASS/FAIL/WARN results and writes audit_results.json.",
+      "key_symbols": [
+        "PASS",
+        "FAIL",
+        "WARN",
+        "section",
+        "measure",
+        "phase_startup",
+        "phase_camera",
+        "phase_presence",
+        "phase_fsm",
+        "phase_vad",
+        "phase_stt",
+        "phase_rag",
+        "phase_llm",
+        "phase_tts",
+        "phase_conversation_flow",
+        "phase_gui",
+        "phase_performance",
+        "phase_stability",
+        "phase_pi_readiness",
+        "print_summary",
+        "PHASES",
+        "main",
+        "_results",
+        "_ts"
+      ],
+      "terms": [
+        {"term": "production audit", "definition": "A systematic PASS/FAIL/WARN sweep over every subsystem, ending in a GO / NO-GO verdict written to audit_results.json."},
+        {"term": "soak test", "definition": "A long-duration run (60s quick / 300s default, or delegated to validate_production.py) used to verify stability and FSM cycle completion."},
+        {"term": "thread leak", "definition": "When the active thread count after runtime.shutdown() does not drop back to the pre-start level, detected in phase_startup."},
+        {"term": "owner count", "definition": "The number of VideoCapture handles held at once; must equal exactly 1 to avoid camera ownership leaks."},
+        {"term": "out-of-domain query", "definition": "A question unrelated to the knowledge base (e.g. 'Who invented gravity?') that the RAG layer should refuse or answer with low confidence."},
+        {"term": "cross-encoder reranker", "definition": "The re-scoring model imported in phase_rag to check that reranking is available (imports from infrastructure.rag.reranker or sentence_transformers)."}
+      ],
+      "config": [
+        "argparse --phase (run one phase by name)",
+        "argparse --quick (shorter soak durations)",
+        "settings.ollama_model / ollama_base_url / ollama_timeout_seconds / ollama_context_window / faiss_index_path / rag_search_limit / app_env",
+        "reads benchmark_eval_15_results.json (previous benchmark comparison)",
+        "reads validation_report.txt produced by validate_production.py",
+        "checks files: RASPBERRY_PI_DEPLOYMENT_GUIDE.md, deployment/*.service, requirements.txt, pyproject.toml, data/faiss, college_faiss_index"
+      ],
+      "notes": "Orchestrates subprocess runs of pytest suites and of validate_production.py; parses its report. Asserts '619 tests' as a hardcoded label. Checks helpdesk_gui.py by grepping its source text for expected feature strings. Manually drives the RobotStateMachine through a full cycle and asserts InvalidTransitionError on invalid transitions. Flags x86-only packages (onnxruntime-directml, torch-directml, cuda) as ARM-incompatible for Pi. Writes audit_results.json."
+    },
+    {
+      "path": "services/__init__.py",
+      "purpose": "Package init for the legacy root-level 'services' package, re-exporting LLMService.",
+      "key_symbols": [
+        "LLMService (re-export)",
+        "__all__ = ['LLMService']"
+      ],
+      "terms": [],
+      "config": [],
+      "notes": "Legacy; the modern services live under src/campus_helpdesk/services/. Uses an absolute import 'from services.llm_service import LLMService', which only works when the repo root is on sys.path and the package is imported as 'services'."
+    },
+    {
+      "path": "services/llm_service.py",
+      "purpose": "Legacy Ollama LLM wrapper over the official Python SDK with a response cache, connection checking, exponential-backoff retries tuned for model cold-load, and a streaming generator.",
+      "key_symbols": [
+        "LLMService (class; __init__, _init_client, check_connection, generate, generate_stream)",
+        "_response_cache (dict)",
+        "_cache_max_size (200)"
+      ],
+      "terms": [
+        {"term": "exponential backoff", "definition": "Retry delay that multiplies each attempt (10s -> 20s -> 40s -> 80s, backoff_factor=2.0, max_retries=4) to ride out model cold-load."},
+        {"term": "model cold-load", "definition": "The first inference after a model loads weights into VRAM, which can take 60-120s on a 4GB GPU; the retry policy and keep_alive='10m' exist to tolerate it."},
+        {"term": "keep_alive", "definition": "Ollama option keeping the model resident in memory for 10 minutes between calls to avoid reloads."},
+        {"term": "response cache", "definition": "A capped (200-entry) dict keyed by stripped prompt text so repeated identical prompts return instantly."},
+        {"term": "streaming", "definition": "generate_stream yields tokens incrementally for low-latency UI responses; it logs first-token latency but does not retry on failure."}
+      ],
+      "config": [
+        "constructor args only: model, host, temperature, max_tokens, timeout, max_retries, backoff_factor, generation_options (no env vars)"
+      ],
+      "notes": "Legacy; superseded by src/campus_helpdesk/infrastructure/llm/ollama_service.py. Docstring default says 'llama3.2:3b' while the code default is 'qwen2.5:3b'. ResponseError is treated as non-retryable (breaks the loop); connection/timeout/OSError retry with a fresh client. On total failure it returns a user-facing '[Helpdesk Offline Service Warning]' string rather than raising."
+    },
+    {
+      "path": "conversation/__init__.py",
+      "purpose": "Package marker for the legacy multi-turn conversation memory package; declares the package docstring only.",
+      "key_symbols": [],
+      "terms": [],
+      "config": [],
+      "notes": "Legacy dead package. session.py imports 'from .conversation_manager import ConversationManager', but conversation_manager.py does not exist in this directory, so importing anything from the package fails. Superseded by src/application/session_manager.py and src/domain/memory/conversation_memory.py."
+    },
+    {
+      "path": "conversation/session.py",
+      "purpose": "Legacy in-process session model for multi-turn conversation memory: a Session class with history + short-term memory (via an imported ConversationManager) and a class-level SessionRegistry with idle expiry.",
+      "key_symbols": [
+        "Session (class; __init__, add_message, get_history, clear, export, import_data)",
+        "SessionRegistry (class methods get_or_create, clear_all, expire_inactive)",
+        "_sessions (class dict)"
+      ],
+      "terms": [
+        {"term": "session", "definition": "A uniquely-id'd conversation state holding a message history list, start/last-activity timestamps, and a memory manager for context."},
+        {"term": "short-term memory", "definition": "The per-turn user/assistant turn store pushed by add_message for context-aware components (managed by ConversationManager, which is not actually present)."},
+        {"term": "idle expiry", "definition": "expire_inactive() removes sessions idle longer than timeout_seconds (default 1800), an in-memory TTL-style cleanup run by a benchmark caller if needed."}
+      ],
+      "config": [
+        "expire_inactive timeout_seconds default 1800 (argument, not env)"
+      ],
+      "notes": "Legacy dead code: imports the missing conversation_manager module, so Session cannot be instantiated in the current tree. Uses the deprecated datetime.utcnow(). SessionRegistry is a simple class-dict without thread-safety. export()/import_data() provide JSON round-tripping. Superseded by src/application/session_manager.py (thread-safe TTL sessions) and src/domain/memory/conversation_memory.py."
+    }
+  ],
+  "data_flow": "The legacy voice stack is self-contained: presence_service.py watches the camera and calls back into AssistantLoop, which records audio via sounddevice, transcribes via stt_service (faster-whisper), generates a reply via ttt_service (English -> src RAGChatService/FAISS+Ollama; hi/kn -> canned FAQ), and speaks via tts_service. The diagnostics and validation layer drives the modern src stack instead: chat.py, helpdesk_gui.py, diag_e2e.py, diag_rag.py, diag_ollama.py, profile_camera.py, validate_production.py, and audit_production.py all inject 'src/' onto sys.path and consume production components (create_rag_pipeline, RAGChatService, SessionManager, OllamaLLMService, build_production_runtime, EventBus, RobotStateMachine). helpdesk_gui.py and validate_production.py subscribe to the EventBus and FSM and publish synthetic events; audit_production.py runs pytest and validate_production.py as subprocesses and consumes their artifacts (validation_report.txt, benchmark_eval_15_results.json). Nothing in src imports these root scripts; the dependency is one-way from root into src.",
+  "external_deps": [
+    "sounddevice (mic recording / playback)",
+    "numpy",
+    "opencv-python (cv2 Haar cascade + VideoCapture)",
+    "faster-whisper (STT, CTranslate2 backend)",
+    "soundfile (audio file reading in STT)",
+    "torch + transformers (Meta MMS-TTS VITS models for hi/kn)",
+    "piper-tts / pyttsx3 (Piper is effectively a stub here)",
+    "ollama Python SDK",
+    "httpx (raw HTTP diagnostics)",
+    "customtkinter (desktop GUI)",
+    "psutil (optional, resource sampling)",
+    "python-dotenv (config.py .env loading)",
+    "webrtcvad (audit phase VAD check)",
+    "faiss",
+    "sentence-transformers (cross-encoder reranker)",
+    "rank_bm25",
+    "pytest (invoked by audit harness)"
+  ],
+  "risks": [
+    "benchmark.py listed in the scope does not exist at the repo root; any reference to a root benchmark script is stale.",
+    "conversation/ package is broken dead code: session.py imports conversation_manager.py which does not exist, so the package cannot be imported at all.",
+    "tts_service._synthesize_piper is a stub that emits a 523.25 Hz sine tone instead of real Piper/pyttsx3 speech; only the MMS-TTS path produces real audio, and the final fallback is a 440 Hz tone.",
+    "Duplicate competing implementations of STT, TTS, LLM, and session/memory across the root scripts and src/ create maintenance drift; the root versions are marked legacy and superseded by src counterparts.",
+    "Diagnostics reach into private internals (faiss_store._store.docstore._dict, faiss_store._store.index.ntotal, service._rag_pipeline, ttt.rag_service._llm_service, reranker._model_loaded, hybrid._bm25_indexed), making them fragile against refactors.",
+    "diag_e2e.py imports 'services.query_normalizer' and 'services.intent_router' (root-level module paths) which are not present in the current layout, so it will fail to import.",
+    "helpdesk_gui.py push-to-talk publishes VOICE_STARTED/VOICE_STOPPED bus events without itself capturing audio, so transcription relies entirely on the runtime VAD/STT path being live.",
+    "validate_production.py defaults to an 1800s soak and reports Windows SAC (Smart App Control) DLL blocking of faster-whisper/Piper as environmental blockers; its simulator sleeps ~15s per question.",
+    "helpdesk_gui_new.py is an empty stub ('# test'), which could mislead a developer into running a nonexistent GUI.",
+    "chat.py reuses rag_search_limit as max_history_turns and uses a single hardcoded 'cli' session id; /health reaches into a private _rag_pipeline attribute."
+  ]
+}

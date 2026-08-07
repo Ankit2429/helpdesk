@@ -16,6 +16,10 @@ KillMode=process
 
 # Environment configuration
 Environment=PYTHONUNBUFFERED=1
+# PYTHONPATH ensures campus_helpdesk package is found from src/ directory
+Environment=PYTHONPATH=/home/pi/campus-helpdesk/src
+# HOME ensures HuggingFace model cache resolves correctly
+Environment=HOME=/home/pi
 EnvironmentFile=-/home/pi/campus-helpdesk/.env
 
 # Standard output / error logging to systemd journal (view with journalctl -u campus-helpdesk-robot -f)

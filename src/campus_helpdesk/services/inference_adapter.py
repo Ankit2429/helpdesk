@@ -37,6 +37,7 @@ from campus_helpdesk.interaction.events import (
     QueryPayload,
     TranscriptPayload,
 )
+from campus_helpdesk.services.language_detector import LanguageDetector
 
 logger = logging.getLogger(__name__)
 
@@ -374,6 +375,11 @@ class InferenceAdapter:
             return
 
         answer, citations, score, level = result_container[0]
+        level = str(level).upper()
+
+        # Detect language of the generated answer for TTS voice selection.
+        # LanguageDetector uses Unicode script analysis (<0.1ms overhead).
+        detected_lang = LanguageDetector.detect(answer).language
 
         with self._lock:
             self._requests_processed += 1
@@ -391,6 +397,7 @@ class InferenceAdapter:
                     sources=tuple(citations),
                     query=query_text,
                     inference_duration_ms=int(latency_ms),
+                    language=detected_lang,
                 ),
                 session_id=session_id,
                 correlation_id=event.event_id,

@@ -1,267 +1,259 @@
 questions:
-  # Library Category
-  - id: LIB001
-    category: Library
-    question: "Where is the Central Library located?"
-    expected_answer_keywords:
-      - Block C
-      - 2nd floor
-      - second floor
-    expected_sources:
-      - academic_facilities_c75b38.md
-    notes: "Location of the main central library."
-
-  - id: LIB002
-    category: Library
-    question: "What is the carpet area and seating capacity of the Central Library?"
-    expected_answer_keywords:
-      - 3000
-      - 600
-    expected_sources:
-      - academic_facilities_c75b38.md
-    notes: "Infrastructure capacity of the library."
-
-  - id: LIB003
-    category: Library
-    question: "How many digital ebooks are available in the library collection?"
-    expected_answer_keywords:
-      - EBSCO
-      - 188905
-    expected_sources:
-      - academic_facilities_c75b38.md
-    notes: "Library e-book subscription details."
-
-  - id: LIB004
-    category: Library
-    question: "What online database subscriptions are provided by the library?"
-    expected_answer_keywords:
-      - IEEE
-      - ASCE
-      - ScienceDirect
-    expected_sources:
-      - academic_facilities_c75b38.md
-    notes: "Journal and research databases."
-
-  # Admissions Category
-  - id: ADM001
-    category: Admissions
-    question: "What entrance exams are accepted for B.E. undergraduate admissions?"
-    expected_answer_keywords:
-      - KCET
-      - COMEDK
-      - JEE
-    expected_sources:
-      - b_e_biotechnology_b6acae.md
-      - under_graduate_program_96f748.md
-    notes: "Required entrance exams for engineering."
-
-  - id: ADM002
-    category: Admissions
-    question: "What is the official Karnataka CET portal website for engineering admissions?"
-    expected_answer_keywords:
-      - cetonline.karnataka.gov.in
-      - KEA
-    expected_sources:
-      - under_graduate_program_96f748.md
-    notes: "Official government admission portal."
-
-  - id: ADM003
-    category: Admissions
-    question: "What is the minimum eligibility percentage for general category admissions in 10+2?"
-    expected_answer_keywords:
-      - 45%
-      - Physics
-      - Mathematics
-    expected_sources:
-      - b_e_biotechnology_b6acae.md
-    notes: "Undergraduate aggregate mark requirements."
-
-  - id: ADM004
-    category: Admissions
-    question: "How do candidates apply under the Management Quota?"
-    expected_answer_keywords:
-      - Management Quota
-      - direct
-    expected_sources:
-      - under_graduate_program_96f748.md
-    notes: "Quota admission policy."
-
-  # Departments Category
-  - id: DEP001
-    category: Departments
-    question: "What specialization streams are offered under B.E. Computer Science and Engineering?"
-    expected_answer_keywords:
-      - Computer Science
-      - Engineering
-    expected_sources:
-      - b_e_computer_science_and_engineering_475790.md
-    notes: "Computer Science curriculum options."
-
-  - id: DEP002
-    category: Departments
-    question: "What degree programs are offered by the School of Architecture?"
-    expected_answer_keywords:
-      - Bachelor of Architecture
-      - B.Arch
-    expected_sources:
-      - bachelor_of_architecture_95b8b5.md
-    notes: "Architecture department offerings."
-
-  - id: DEP003
-    category: Departments
-    question: "Which department manages research inVLSI, power grids, and embedded systems?"
-    expected_answer_keywords:
-      - Electrical
-      - Electronics
-    expected_sources:
-      - b_e_electrical_electronics_engineering_05f9e9.md
-    notes: "Electrical engineering domain."
-
-  - id: DEP004
-    category: Departments
-    question: "What specialized postgraduate law program is offered in Intellectual Property Rights?"
-    expected_answer_keywords:
-      - LLM
-      - IPR
-    expected_sources:
-      - llm_ipr_aaf917.md
-    notes: "LLM Law course."
-
-  # Placements Category
-  - id: PLC001
-    category: Placements
-    question: "What resources and assistance are provided by the Placement Cell?"
-    expected_answer_keywords:
-      - Placement Cell
-      - Recruiters
-      - Brochure
-    expected_sources:
-      - study_with_us_f0d3c3.md
-    notes: "Placement guidance."
-
-  - id: PLC002
-    category: Placements
-    question: "Which global education partner collaborates for the B.Com ACCA integrated program?"
-    expected_answer_keywords:
-      - ISDC
-      - ACCA
-    expected_sources:
-      - bachelor_of_commerce_integrated_with_acca_549318.md
-    notes: "International placement body."
-
-  - id: PLC003
-    category: Placements
-    question: "What companies and industries hire graduates from the Biotechnology department?"
-    expected_answer_keywords:
-      - Biotechnology
-      - research
-    expected_sources:
-      - b_e_biotechnology_b6acae.md
-    notes: "Biotech industry career paths."
-
-  - id: PLC004
-    category: Placements
-    question: "How are placement records and brochures made available to students?"
-    expected_answer_keywords:
-      - Placement Brochure
-      - Placement Records
-    expected_sources:
-      - study_with_us_f0d3c3.md
-    notes: "Placement cell publications."
-
-  # Hostel Category
-  - id: HST001
-    category: Hostel
-    question: "What residential facilities and accommodation options exist for on-campus students?"
-    expected_answer_keywords:
-      - campus
-      - hostels
-      - residential
-    expected_sources:
-      - academic_facilities_c75b38.md
-    notes: "On-campus hostel accommodations."
-
-  - id: HST002
-    category: Hostel
-    question: "What sports and fitness amenities are located near the student residences?"
-    expected_answer_keywords:
-      - sports
-      - gym
-      - ground
-    expected_sources:
-      - academic_facilities_c75b38.md
-    notes: "Recreational facilities."
-
-  - id: HST003
-    category: Hostel
-    question: "What medical and health emergency services are available on campus?"
-    expected_answer_keywords:
-      - medical
-      - health
-      - center
-    expected_sources:
-      - academic_facilities_c75b38.md
-    notes: "Health services for hostel residents."
-
-  - id: HST004
-    category: Hostel
-    question: "What food and dining options exist in campus cafeterias?"
-    expected_answer_keywords:
-      - canteen
-      - food
-      - cafeteria
-    expected_sources:
-      - academic_facilities_c75b38.md
-    notes: "Dining options for residents."
-
-  # Academics Category
-  - id: ACA001
-    category: Academics
-    question: "What research facilities and specialized labs are established across disciplines?"
-    expected_answer_keywords:
-      - computation
-      - testing
-      - materials
-    expected_sources:
-      - academic_facilities_c75b38.md
-    notes: "Advanced research infrastructure."
-
-  - id: ACA002
-    category: Academics
-    question: "What is the duration and structure of the Ph.D. doctoral program regulations?"
-    expected_answer_keywords:
-      - Ph.D
-      - regulations
-    expected_sources:
-      - phd_regulations_d605cf.md
-    notes: "Doctoral academic rules."
-
-  - id: ACA003
-    category: Academics
-    question: "How are continuous internal evaluations (CIE) conducted for undergraduate courses?"
-    expected_answer_keywords:
-      - evaluations
-      - decision
-    expected_sources:
-      - bachelor_of_architecture_95b8b5.md
-    notes: "Academic evaluation policy."
-
-  - id: ACA004
-    category: Academics
-    question: "What undergraduate degree is offered in Hotel Management and Catering Technology?"
-    expected_answer_keywords:
-      - Hotel Management
-      - B.Sc
-    expected_sources:
-      - programs_6f7193.md
-    notes: "Hotel Management course details."
-
-  - id: ACA005
-    category: Academics
-    question: "What undergraduate program is offered in Computer Applications?"
-    expected_answer_keywords:
-      - BCA
-      - Computer Applications
-    expected_sources:
-      - bachelor_of_computer_applications_honours_75b603.md
-    notes: "BCA degree details."
+- id: LIB001
+  category: Library
+  question: Where is the Central Library located?
+  expected_answer_keywords:
+  - Administrative Block
+  - Ground Floor
+  - Hubballi
+  expected_sources:
+  - facilities/campus_guide_canonical.md
+  - 07-news-media/overview.md
+  notes: Location of the main central library.
+- id: LIB002
+  category: Library
+  question: What is the carpet area and seating capacity of the Central Library?
+  expected_answer_keywords:
+  - 3000
+  - 600
+  expected_sources:
+  - academic_facilities_c75b38.md
+  notes: Infrastructure capacity of the library.
+- id: LIB003
+  category: Library
+  question: How many digital ebooks are available in the library collection?
+  expected_answer_keywords:
+  - EBSCO
+  - 188905
+  expected_sources:
+  - academic_facilities_c75b38.md
+  notes: Library e-book subscription details.
+- id: LIB004
+  category: Library
+  question: What online database subscriptions are provided by the library?
+  expected_answer_keywords:
+  - IEEE
+  - ASCE
+  - ScienceDirect
+  expected_sources:
+  - academic_facilities_c75b38.md
+  notes: Journal and research databases.
+- id: ADM001
+  category: Admissions
+  question: What entrance exams are accepted for B.E. undergraduate admissions?
+  expected_answer_keywords:
+  - KCET
+  - COMEDK
+  - JEE
+  expected_sources:
+  - b_e_biotechnology_b6acae.md
+  - under_graduate_program_96f748.md
+  notes: Required entrance exams for engineering.
+- id: ADM002
+  category: Admissions
+  question: What is the official Karnataka CET portal website for engineering admissions?
+  expected_answer_keywords:
+  - cetonline
+  - KEA
+  - Admission
+  expected_sources:
+  - 03-admissions-fees/under-graduate-program.md
+  notes: Official government admission portal.
+- id: ADM003
+  category: Admissions
+  question: What is the minimum eligibility percentage for general category admissions
+    in 10+2?
+  expected_answer_keywords:
+  - 45%
+  - Physics
+  - Mathematics
+  expected_sources:
+  - b_e_biotechnology_b6acae.md
+  notes: Undergraduate aggregate mark requirements.
+- id: ADM004
+  category: Admissions
+  question: How do candidates apply under the Management Quota?
+  expected_answer_keywords:
+  - Management Quota
+  - Administrative Officer
+  - University
+  expected_sources:
+  - 03-admissions-fees/under-graduate-program.md
+  notes: Quota admission policy.
+- id: DEP001
+  category: Departments
+  question: What specialization streams are offered under B.E. Computer Science and
+    Engineering?
+  expected_answer_keywords:
+  - Computer Science
+  - Engineering
+  expected_sources:
+  - b_e_computer_science_and_engineering_475790.md
+  notes: Computer Science curriculum options.
+- id: DEP002
+  category: Departments
+  question: What degree programs are offered by the School of Architecture?
+  expected_answer_keywords:
+  - Architecture
+  - B.Arch
+  expected_sources:
+  - 02-academics/bachelor-of-architecture.md
+  - 02-academics/programs.md
+  notes: Architecture department offerings.
+- id: DEP003
+  category: Departments
+  question: Which department manages research inVLSI, power grids, and embedded systems?
+  expected_answer_keywords:
+  - Electrical
+  - Electronics
+  - EEE
+  expected_sources:
+  - 02-academics/b-e-electrical-electronics-engineering.md
+  notes: Electrical engineering domain.
+- id: DEP004
+  category: Departments
+  question: What specialized postgraduate law program is offered in Intellectual Property
+    Rights?
+  expected_answer_keywords:
+  - LLM
+  - IPR
+  - Intellectual Property
+  expected_sources:
+  - 02-academics/llm-ipr.md
+  - 02-academics/llb.md
+  notes: LLM Law course.
+- id: PLC001
+  category: Placements
+  question: What resources and assistance are provided by the Placement Cell?
+  expected_answer_keywords:
+  - Placement
+  - Training
+  - Recruiters
+  expected_sources:
+  - 07-news-media/study-with-us.md
+  notes: Placement guidance.
+- id: PLC002
+  category: Placements
+  question: Which global education partner collaborates for the B.Com ACCA integrated
+    program?
+  expected_answer_keywords:
+  - ISDC
+  - ACCA
+  expected_sources:
+  - bachelor_of_commerce_integrated_with_acca_549318.md
+  notes: International placement body.
+- id: PLC003
+  category: Placements
+  question: What companies and industries hire graduates from the Biotechnology department?
+  expected_answer_keywords:
+  - Biotechnology
+  - Biocon
+  - Pharma
+  - Research
+  expected_sources:
+  - 02-academics/b-e-biotechnology.md
+  notes: Biotech industry career paths.
+- id: PLC004
+  category: Placements
+  question: How are placement records and brochures made available to students?
+  expected_answer_keywords:
+  - Placement Brochure
+  - Placement Records
+  expected_sources:
+  - study_with_us_f0d3c3.md
+  notes: Placement cell publications.
+- id: HST001
+  category: Hostel
+  question: What residential facilities and accommodation options exist for on-campus
+    students?
+  expected_answer_keywords:
+  - hostel
+  - boys
+  - girls
+  - dining
+  expected_sources:
+  - 07-news-media/on-campus-facilities.md
+  - facilities/campus_guide_canonical.md
+  notes: On-campus hostel accommodations.
+- id: HST002
+  category: Hostel
+  question: What sports and fitness amenities are located near the student residences?
+  expected_answer_keywords:
+  - sports
+  - indoor
+  - outdoor
+  - gym
+  expected_sources:
+  - 07-news-media/on-campus-facilities.md
+  - 02-academics/academic-facilities.md
+  notes: Recreational facilities.
+- id: HST003
+  category: Hostel
+  question: What medical and health emergency services are available on campus?
+  expected_answer_keywords:
+  - medical
+  - health
+  - center
+  expected_sources:
+  - academic_facilities_c75b38.md
+  notes: Health services for hostel residents.
+- id: HST004
+  category: Hostel
+  question: What food and dining options exist in campus cafeterias?
+  expected_answer_keywords:
+  - Food
+  - Cafeteria
+  - canteen
+  - Activity Center
+  expected_sources:
+  - facilities/campus_guide_canonical.md
+  - 07-news-media/on-campus-facilities.md
+  notes: Dining options for residents.
+- id: ACA001
+  category: Academics
+  question: What research facilities and specialized labs are established across disciplines?
+  expected_answer_keywords:
+  - computation
+  - testing
+  - materials
+  expected_sources:
+  - academic_facilities_c75b38.md
+  notes: Advanced research infrastructure.
+- id: ACA002
+  category: Academics
+  question: What is the duration and structure of the Ph.D. doctoral program regulations?
+  expected_answer_keywords:
+  - Ph.D
+  - regulations
+  expected_sources:
+  - phd_regulations_d605cf.md
+  notes: Doctoral academic rules.
+- id: ACA003
+  category: Academics
+  question: How are continuous internal evaluations (CIE) conducted for undergraduate
+    courses?
+  expected_answer_keywords:
+  - evaluations
+  - decision
+  expected_sources:
+  - bachelor_of_architecture_95b8b5.md
+  notes: Academic evaluation policy.
+- id: ACA004
+  category: Academics
+  question: What undergraduate degree is offered in Hotel Management and Catering
+    Technology?
+  expected_answer_keywords:
+  - Hotel Management
+  - B.Sc
+  expected_sources:
+  - programs_6f7193.md
+  notes: Hotel Management course details.
+- id: ACA005
+  category: Academics
+  question: What undergraduate program is offered in Computer Applications?
+  expected_answer_keywords:
+  - BCA
+  - Computer Applications
+  expected_sources:
+  - bachelor_of_computer_applications_honours_75b603.md
+  notes: BCA degree details.

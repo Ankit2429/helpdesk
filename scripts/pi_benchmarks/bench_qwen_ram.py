@@ -3,7 +3,6 @@
 import sys
 import time
 import threading
-from pathlib import Path
 
 try:
     import psutil

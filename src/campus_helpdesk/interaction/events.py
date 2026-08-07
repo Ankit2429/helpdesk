@@ -745,6 +745,10 @@ class AnswerPayload:
     sources: tuple[str, ...]
     query: str
     inference_duration_ms: int = 0
+    language: str = "en"
+    """ISO 639-1 language code of the generated answer (e.g. ``"en"``, ``"hi"``, ``"kn"``).
+    Populated by InferenceAdapter via LanguageDetector. Defaults to English.
+    Used by TTSService to select the appropriate voice model."""
 
     def __post_init__(self) -> None:
         if not self.answer.strip():
@@ -754,8 +758,9 @@ class AnswerPayload:
                 f"AnswerPayload.confidence_score must be in [0.0, 1.0], "
                 f"got {self.confidence_score!r}"
             )
-        valid_levels = {"HIGH", "MEDIUM", "LOW"}
-        if self.confidence_level not in valid_levels:
+        valid_levels = {"VERY HIGH", "HIGH", "MEDIUM", "LOW", "VERY LOW"}
+        normalized_level = self.confidence_level.strip().upper()
+        if normalized_level not in valid_levels:
             raise ValueError(
                 f"AnswerPayload.confidence_level must be one of {valid_levels}, "
                 f"got {self.confidence_level!r}"
@@ -771,6 +776,7 @@ class AnswerPayload:
             "sources": list(self.sources),
             "query": self.query,
             "inference_duration_ms": self.inference_duration_ms,
+            "language": self.language,
         }
 
     @classmethod
@@ -782,6 +788,7 @@ class AnswerPayload:
             sources=tuple(data.get("sources", [])),
             query=str(data["query"]),
             inference_duration_ms=int(data.get("inference_duration_ms", 0)),
+            language=str(data.get("language", "en")),
         )
 
 

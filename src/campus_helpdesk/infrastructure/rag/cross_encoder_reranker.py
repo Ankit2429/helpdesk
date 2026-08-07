@@ -97,7 +97,10 @@ class CrossEncoderReranker:
         try:
             # Prepare (query, chunk_text) pairs for batch scoring
             pairs = [[query, match.document.content] for match in candidates]
+            
+            t_start_ce = time.perf_counter()
             scores = self._model.predict(pairs)
+            logger.info("[LATENCY-PROFILER] Cross-Encoder: %.2f ms", (time.perf_counter() - t_start_ce) * 1000)
 
             # Pair candidates with predicted cross-encoder relevance scores
             scored_candidates = []

@@ -138,7 +138,6 @@ class IntentPerceptionEngine:
             if active_matches:
                 primary_person = active_matches[0]
                 fx, fy, fw, fh = primary_person.bbox
-                primary_dist = round(float((0.15 * w_img) / max(10, fw)), 2)
             else:
                 # Active user lost
                 primary_person = None

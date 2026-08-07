@@ -23,6 +23,7 @@ class QueryRewriter:
 
         # 1.1 Multi-word & Specific Acronyms
         acronym_map = [
+            (r"\b(all engineering departments?|what departments exist|list of departments|schools and departments)\b", "School of Computer Science Engineering Civil Mechanical Electrical Electronics Biotechnology Architecture Design Management departments"),
             (r"\b(BE|B\.E\.|B\.E)\b", "Bachelor of Engineering B.E. BE"),
             (r"\b(BTech|B\.Tech)\b", "Bachelor of Technology B.Tech"),
             (r"\b(MTech|M\.Tech)\b", "Master of Technology M.Tech"),
@@ -68,34 +69,43 @@ class QueryRewriter:
 
         query_text = expanded_text
 
-        # Step 2: Multi-turn Pronoun Resolution
+        # Step 2: Multi-turn Pronoun Resolution & Topic Tracking
         if history:
             has_pronoun = bool(self.PRONOUN_PATTERN.search(query_text))
+
+            # Detect explicit topic in current query
+            explicit_topic = self._detect_explicit_topic(query_text)
+
             if has_pronoun:
-                last_user_msg = None
+                user_messages: list[str] = []
                 if isinstance(history, str):
                     for line in reversed(history.split("\n")):
                         if line.lower().startswith("user:"):
-                            last_user_msg = line.split(":", 1)[1].strip()
-                            break
+                            user_messages.append(line.split(":", 1)[1].strip())
                 elif isinstance(history, (list, tuple)):
                     for msg in reversed(history):
                         role = getattr(msg, "role", None) or (msg.get("role") if isinstance(msg, dict) else None)
                         if role == "user":
-                            last_user_msg = getattr(msg, "content", None) or (msg.get("content") if isinstance(msg, dict) else str(msg))
-                            break
+                            content = getattr(msg, "content", None) or (msg.get("content") if isinstance(msg, dict) else str(msg))
+                            user_messages.append(content)
 
-                if last_user_msg:
-                    subject = self._extract_subject(last_user_msg)
+                # Scan user messages from newest to oldest for a valid canonical subject
+                canonical_subject = None
+                for msg in user_messages:
+                    subject = self._extract_subject(msg)
                     if subject:
-                        query_text = self.PRONOUN_PATTERN.sub(subject, query_text)
+                        canonical_subject = subject
+                        break
+
+                if canonical_subject and not explicit_topic:
+                    query_text = self.PRONOUN_PATTERN.sub(canonical_subject, query_text)
 
         # Step 3: Domain-specific synonym enrichment and campus context resolution
         q_lower = query_text.lower()
         has_branch_term = any(b in q_lower for b in ("belagavi", "belgaum", "sheshgiri", "bengaluru", "bangalore"))
         campus_context = "Dr M S Sheshgiri Campus Belagavi" if has_branch_term else "KLE Technological University BVB Campus Vidyanagar Hubballi"
 
-        if any(k in q_lower for k in ("branch", "department", "departments", "school of", "schools", "course list", "program list")):
+        if any(k in q_lower for k in ("department list", "list of departments", "all departments", "which departments", "course list", "program list", "schools list")):
             query_text = f"{query_text} Schools Departments List Civil Mechanical Electrical Electronics Computer Science Information Science Biotechnology Architecture Programs Courses {campus_context}"
         elif any(k in q_lower for k in ("course", "courses", "program", "programs", "degree", "curriculum")):
             query_text = f"{query_text} Undergraduate Postgraduate B.E. M.Tech MBA MCA BCA BBA Programs Courses Offered Curriculum Degree {campus_context}"
@@ -114,13 +124,29 @@ class QueryRewriter:
             query_text = f"{query_text} sports gym ground gymnasium indoor games facilities banking ATM medical health center {campus_context}"
         elif any(k in q_lower for k in ("admission", "admissions", "apply", "admit")):
             query_text = f"{query_text} Admissions Office Admission Cell Administrative Officer Registrar Coordinator application eligibility counseling {campus_context}"
-        elif any(k in q_lower for k in ("location", "where is", "address", "where", "college", "university", "campus")):
+        elif any(k in q_lower for k in ("location", "where is", "address", "where")):
             query_text = f"{query_text} campus location address building block floor office {campus_context}"
 
         return query_text
 
+    def _detect_explicit_topic(self, text: str) -> str | None:
+        """Detect if the query contains an explicit new domain entity."""
+        lower = text.lower()
+        topic_terms = [
+            "library", "canteen", "mess", "hostel", "placement", "placements",
+            "admission", "admissions", "fee", "fees", "scholarship", "exam",
+            "timetable", "department", "computer science", "mechanical",
+            "civil", "biotech", "sports", "gym"
+        ]
+        for term in topic_terms:
+            if term in lower:
+                return term
+        return None
+
     def _extract_subject(self, text: str) -> str | None:
-        """Extract primary subject noun phrase from previous user question."""
+        """Extract primary subject noun phrase from previous user question.
+        Returns None if text contains pronouns or generic non-entity terms.
+        """
         clean = text.strip().rstrip("?").rstrip(".")
         lower_clean = clean.lower()
 
@@ -135,14 +161,33 @@ class QueryRewriter:
             "tell me about",
             "how to apply for",
             "how to get into",
+            "how do i get to the",
+            "how do i find the",
         ]
+        sub_candidate = clean
         for prefix in prefixes:
             if lower_clean.startswith(prefix):
-                sub = clean[len(prefix) :].strip()
-                if sub:
-                    for suffix in [" located in campus", " located", " situated", " on campus"]:
-                        if sub.lower().endswith(suffix):
-                            sub = sub[: -len(suffix)].strip()
-                    return sub.title()
+                sub_candidate = clean[len(prefix) :].strip()
+                break
 
-        return clean.title()
+        if not sub_candidate:
+            return None
+
+        # Clean trailing location suffixes
+        for suffix in [" located in campus", " located", " situated", " on campus"]:
+            if sub_candidate.lower().endswith(suffix):
+                sub_candidate = sub_candidate[: -len(suffix)].strip()
+
+        # Reject candidates that contain pronouns or generic non-subject terms
+        if self.PRONOUN_PATTERN.search(sub_candidate):
+            return None
+
+        generic_terms = {
+            "timings", "timing", "hours", "open", "closed", "fee", "cost",
+            "schedule", "time", "date", "status", "info", "details"
+        }
+        words = sub_candidate.lower().split()
+        if all(w in generic_terms for w in words):
+            return None
+
+        return sub_candidate.title()

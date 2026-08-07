@@ -64,26 +64,40 @@ def build_production_runtime(
     bus = EventBus(maxsize=2000, max_workers=8, name="system-bus")
 
     # Camera & Vision Services
-    cam_idx = camera_index if camera_index is not None else settings.webcam_index
-    camera = CameraService(
-        event_bus=bus,
-        camera_index=cam_idx,
-        fps=settings.camera_fps,
-        use_mock_fallback=use_mock,
-    )
-    from campus_helpdesk.services.vision_service import MockPersonDetector
-    vision_detector = MockPersonDetector() if use_mock else None
-    vision = VisionService(event_bus=bus, detector=vision_detector)
+    if settings.enable_vision:
+        cam_idx = camera_index if camera_index is not None else settings.webcam_index
+        camera = CameraService(
+            event_bus=bus,
+            camera_index=cam_idx,
+            fps=settings.camera_fps,
+            use_mock_fallback=use_mock,
+        )
+        from campus_helpdesk.services.vision_service import MockPersonDetector
+        vision_detector = MockPersonDetector() if use_mock else None
+        vision = VisionService(event_bus=bus, detector=vision_detector)
+    else:
+        camera = None
+        vision = None
 
-    # Audio VAD Service
-    m_idx = mic_index if mic_index is not None else settings.mic_device_index
-    vad = VADService(
-        event_bus=bus,
-        device_index=m_idx if m_idx is not None else 0,
-        use_mock_fallback=use_mock,
-    )
+    # Audio VAD Service (disabled by default; enable via ENABLE_VAD=true for Pi auto-activation)
+    # The service is instantiated here so it starts listening on the event bus when enabled.
+    # It is not passed to SystemRuntime directly; instead it publishes VOICE_STARTED/STOPPED events
+    # that the STTService picks up through the shared EventBus.
+    _vad_service: VADService | None = None
+    if settings.enable_vad:
+        m_idx = mic_index if mic_index is not None else settings.mic_device_index
+        _vad_service = VADService(
+            event_bus=bus,
+            device_index=m_idx if m_idx is not None else 0,
+            use_mock_fallback=use_mock,
+        )
+        _vad_service.start()
+        logger.info("VAD Service: ENABLED and started (device_index=%s)", m_idx)
+    else:
+        logger.info("VAD Service: DISABLED (push_to_talk mode — set ENABLE_VAD=true to activate)")
 
-    # STT Service
+
+
     stt_backend: Any
     if use_mock:
         stt_backend = MockTranscriptionBackend()
@@ -133,7 +147,11 @@ def build_production_runtime(
         )
         inference_backend = LocalRAGBackend(chat_service=chat_service)
 
-    inference = InferenceAdapter(event_bus=bus, backend=inference_backend)
+    inference = InferenceAdapter(
+        event_bus=bus,
+        backend=inference_backend,
+        timeout_seconds=35.0,
+    )
 
     # TTS Service
     spk_idx = speaker_index if speaker_index is not None else settings.speaker_device_index
@@ -151,7 +169,6 @@ def build_production_runtime(
         event_bus=bus,
         camera=camera,
         vision=vision,
-        vad=vad,
         stt=stt,
         inference=inference,
         tts=tts,
